@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T08:50:44.965Z",
-  "total_missing": 223120,
+  "generated_at": "2026-10-17T09:03:14.263Z",
+  "total_missing": 223169,
   "games": [
     {
       "igdb_id": 191680,
@@ -11080,6 +11080,11 @@
       "igdb_id": 81896,
       "game_name": "8-in-1 IQ Scale Bundle",
       "file": "missing/0-9/81896-8-in-1-iq-scale-bundle.json"
+    },
+    {
+      "igdb_id": 394616,
+      "game_name": "8:00 AM: Still Morning",
+      "file": "missing/0-9/394616-8-00-am-still-morning.json"
     },
     {
       "igdb_id": 212873,
@@ -24435,11 +24440,6 @@
       "igdb_id": 8130,
       "game_name": "Adventures in the Magic Kingdom",
       "file": "missing/A/8130-adventures-in-the-magic-kingdom.json"
-    },
-    {
-      "igdb_id": 342233,
-      "game_name": "Adventures In Time & Space",
-      "file": "missing/A/342233-adventures-in-time-and-space.json"
     },
     {
       "igdb_id": 134695,
@@ -44085,6 +44085,11 @@
       "igdb_id": 9772,
       "game_name": "And Yet It Moves",
       "file": "missing/A/9772-and-yet-it-moves.json"
+    },
+    {
+      "igdb_id": 394624,
+      "game_name": "And Yet, We Dream",
+      "file": "missing/A/394624-and-yet-we-dream.json"
     },
     {
       "igdb_id": 4953,
@@ -79102,6 +79107,11 @@
       "file": "missing/B/243757-bad-piggies-build.json"
     },
     {
+      "igdb_id": 221410,
+      "game_name": "Bad Piggies HD",
+      "file": "missing/B/221410-bad-piggies-hd.json"
+    },
+    {
       "igdb_id": 243756,
       "game_name": "Bad Piggies: Create Your Own Angry Birds Levels!",
       "file": "missing/B/243756-bad-piggies-create-your-own-angry-birds-levels.json"
@@ -110842,6 +110852,11 @@
       "file": "missing/B/118954-bleed-deluxe-edition.json"
     },
     {
+      "igdb_id": 394632,
+      "game_name": "Bleeding",
+      "file": "missing/B/394632-bleeding.json"
+    },
+    {
       "igdb_id": 34250,
       "game_name": "Bleeding Border",
       "file": "missing/B/34250-bleeding-border.json"
@@ -129347,6 +129362,11 @@
       "file": "missing/B/233634-breu-shadow-hunt.json"
     },
     {
+      "igdb_id": 394627,
+      "game_name": "Breve Bug: Champions of Destiny",
+      "file": "missing/B/394627-breve-bug-champions-of-destiny.json"
+    },
+    {
       "igdb_id": 211459,
       "game_name": "Brew",
       "file": "missing/B/211459-brew.json"
@@ -132115,6 +132135,11 @@
       "igdb_id": 270639,
       "game_name": "Brush Burial",
       "file": "missing/B/270639-brush-burial.json"
+    },
+    {
+      "igdb_id": 394636,
+      "game_name": "Brush Burial: Bruiseland",
+      "file": "missing/B/394636-brush-burial-bruiseland.json"
     },
     {
       "igdb_id": 411752,
@@ -147202,6 +147227,11 @@
       "file": "missing/C/359608-car-for-sale-simulator-2023-pickup-and-suv.json"
     },
     {
+      "igdb_id": 394613,
+      "game_name": "Car For Sale Together",
+      "file": "missing/C/394613-car-for-sale-together.json"
+    },
+    {
       "igdb_id": 267352,
       "game_name": "Car for Trade",
       "file": "missing/C/267352-car-for-trade.json"
@@ -160170,6 +160200,11 @@
       "igdb_id": 326958,
       "game_name": "Chao RPG",
       "file": "missing/C/326958-chao-rpg.json"
+    },
+    {
+      "igdb_id": 394606,
+      "game_name": "Chao5: The Un-Balance Mod Returns!",
+      "file": "missing/C/394606-chao5-the-un-balance-mod-returns.json"
     },
     {
       "igdb_id": 45549,
@@ -233990,6 +234025,11 @@
       "igdb_id": 177360,
       "game_name": "Delphine's Discovery",
       "file": "missing/D/177360-delphines-discovery.json"
+    },
+    {
+      "igdb_id": 394603,
+      "game_name": "Delphinium",
+      "file": "missing/D/394603-delphinium.json"
     },
     {
       "igdb_id": 102062,
@@ -319002,6 +319042,11 @@
       "file": "missing/F/380709-farm-love-legend-transform-your-animals-into-anime-girls.json"
     },
     {
+      "igdb_id": 394602,
+      "game_name": "Farm Manager",
+      "file": "missing/F/394602-farm-manager.json"
+    },
+    {
       "igdb_id": 55308,
       "game_name": "Farm Manager 2018",
       "file": "missing/F/55308-farm-manager-2018.json"
@@ -402707,9 +402752,29 @@
       "file": "missing/H/125009-halo-2-anniversary.json"
     },
     {
+      "igdb_id": 394642,
+      "game_name": "Halo 2: Blastacular Pack",
+      "file": "missing/H/394642-halo-2-blastacular-pack.json"
+    },
+    {
+      "igdb_id": 394639,
+      "game_name": "Halo 2: Bonus Pack",
+      "file": "missing/H/394639-halo-2-bonus-pack.json"
+    },
+    {
+      "igdb_id": 394640,
+      "game_name": "Halo 2: Killtacular Pack",
+      "file": "missing/H/394640-halo-2-killtacular-pack.json"
+    },
+    {
       "igdb_id": 45149,
       "game_name": "Halo 2: Limited Collector's Edition",
       "file": "missing/H/45149-halo-2-limited-collectors-edition.json"
+    },
+    {
+      "igdb_id": 394641,
+      "game_name": "Halo 2: Maptacular Pack",
+      "file": "missing/H/394641-halo-2-maptacular-pack.json"
     },
     {
       "igdb_id": 3122,
@@ -415825,6 +415890,11 @@
       "igdb_id": 121359,
       "game_name": "Hells Divide",
       "file": "missing/H/121359-hells-divide.json"
+    },
+    {
+      "igdb_id": 394647,
+      "game_name": "Hellscaper",
+      "file": "missing/H/394647-hellscaper.json"
     },
     {
       "igdb_id": 113593,
@@ -435367,6 +435437,11 @@
       "file": "missing/H/265637-horses.json"
     },
     {
+      "igdb_id": 394645,
+      "game_name": "Horses 2025",
+      "file": "missing/H/394645-horses-2025.json"
+    },
+    {
       "igdb_id": 387653,
       "game_name": "Horses of Gavarnie",
       "file": "missing/H/387653-horses-of-gavarnie.json"
@@ -443400,6 +443475,11 @@
       "igdb_id": 295876,
       "game_name": "Hyperbeat",
       "file": "missing/H/295876-hyperbeat.json"
+    },
+    {
+      "igdb_id": 394646,
+      "game_name": "Hyperbeat Multiplayer",
+      "file": "missing/H/394646-hyperbeat-multiplayer.json"
     },
     {
       "igdb_id": 191070,
@@ -464752,6 +464832,11 @@
       "file": "missing/I/250244-iromaze-ink-shop.json"
     },
     {
+      "igdb_id": 394633,
+      "game_name": "Iron",
+      "file": "missing/I/394633-iron.json"
+    },
+    {
       "igdb_id": 20608,
       "game_name": "Iron & Blood: Warriors of Ravenloft",
       "file": "missing/I/20608-iron-and-blood-warriors-of-ravenloft.json"
@@ -467300,6 +467385,11 @@
       "igdb_id": 90498,
       "game_name": "iSwinging 2 - Record Breakers",
       "file": "missing/I/90498-iswinging-2-record-breakers.json"
+    },
+    {
+      "igdb_id": 394635,
+      "game_name": "It Ain’t Over Till the Fat Lady Sings",
+      "file": "missing/I/394635-it-ain-t-over-till-the-fat-lady-sings.json"
     },
     {
       "igdb_id": 184125,
@@ -493967,6 +494057,11 @@
       "file": "missing/K/325666-kimi-ga-nozomu-muv-luv.json"
     },
     {
+      "igdb_id": 219820,
+      "game_name": "Kimi mo vtuber ni Naranai?",
+      "file": "missing/K/219820-kimi-mo-vtuber-ni-naranai.json"
+    },
+    {
       "igdb_id": 413833,
       "game_name": "Kimi ni Furenai Natsu",
       "file": "missing/K/413833-kimi-ni-furenai-natsu.json"
@@ -514287,6 +514382,11 @@
       "file": "missing/L/139130-leap-of-faith.json"
     },
     {
+      "igdb_id": 394617,
+      "game_name": "Leap of Faith",
+      "file": "missing/L/394617-leap-of-faith.json"
+    },
+    {
       "igdb_id": 333127,
       "game_name": "Leap Of Faith",
       "file": "missing/L/333127-leap-of-faith.json"
@@ -524562,6 +524662,11 @@
       "file": "missing/L/128653-lilium.json"
     },
     {
+      "igdb_id": 394621,
+      "game_name": "Lilium: Kiss Me Everyday",
+      "file": "missing/L/394621-lilium-kiss-me-everyday.json"
+    },
+    {
       "igdb_id": 232396,
       "game_name": "Lillie is the Keeper",
       "file": "missing/L/232396-lillie-is-the-keeper.json"
@@ -526130,6 +526235,11 @@
       "igdb_id": 395725,
       "game_name": "Linsips",
       "file": "missing/L/395725-linsips.json"
+    },
+    {
+      "igdb_id": 394619,
+      "game_name": "Lint",
+      "file": "missing/L/394619-lint.json"
     },
     {
       "igdb_id": 55972,
@@ -629432,6 +629542,11 @@
       "file": "missing/N/84098-neon-valley-revenge.json"
     },
     {
+      "igdb_id": 394634,
+      "game_name": "Neon Vault Rush",
+      "file": "missing/N/394634-neon-vault-rush.json"
+    },
+    {
       "igdb_id": 302358,
       "game_name": "Neon Village",
       "file": "missing/N/302358-neon-village.json"
@@ -651880,6 +651995,11 @@
       "igdb_id": 275221,
       "game_name": "Oh No, My Moustache!",
       "file": "missing/O/275221-oh-no-my-moustache.json"
+    },
+    {
+      "igdb_id": 394623,
+      "game_name": "Oh No, Orcs!",
+      "file": "missing/O/394623-oh-no-orcs.json"
     },
     {
       "igdb_id": 100080,
@@ -682432,6 +682552,11 @@
       "file": "missing/P/180104-peccator-its-not-over-yet.json"
     },
     {
+      "igdb_id": 394644,
+      "game_name": "Péché Mignon",
+      "file": "missing/P/394644-peche-mignon.json"
+    },
+    {
       "igdb_id": 243633,
       "game_name": "Peck Peck's Garden",
       "file": "missing/P/243633-peck-pecks-garden.json"
@@ -700572,6 +700697,11 @@
       "file": "missing/P/151104-pizza-empire.json"
     },
     {
+      "igdb_id": 394630,
+      "game_name": "Pizza Empire",
+      "file": "missing/P/394630-pizza-empire.json"
+    },
+    {
       "igdb_id": 172048,
       "game_name": "Pizza Empire!",
       "file": "missing/P/172048-pizza-empire.json"
@@ -711460,6 +711590,11 @@
       "igdb_id": 398311,
       "game_name": "Polt",
       "file": "missing/P/398311-polt.json"
+    },
+    {
+      "igdb_id": 394637,
+      "game_name": "Polter Geists",
+      "file": "missing/P/394637-polter-geists.json"
     },
     {
       "igdb_id": 148313,
@@ -737402,6 +737537,11 @@
       "file": "missing/Q/257945-quantum-recharged.json"
     },
     {
+      "igdb_id": 394625,
+      "game_name": "QuantumVR",
+      "file": "missing/Q/394625-quantumvr.json"
+    },
+    {
       "igdb_id": 33649,
       "game_name": "Quar: Battle for Gate 18",
       "file": "missing/Q/33649-quar-battle-for-gate-18.json"
@@ -738330,6 +738470,11 @@
       "igdb_id": 308451,
       "game_name": "Quest",
       "file": "missing/Q/308451-quest.json"
+    },
+    {
+      "igdb_id": 394628,
+      "game_name": "Quest",
+      "file": "missing/Q/394628-quest.json"
     },
     {
       "igdb_id": 82763,
@@ -743735,6 +743880,11 @@
       "igdb_id": 8860,
       "game_name": "Raiden Fighters Jet",
       "file": "missing/R/8860-raiden-fighters-jet.json"
+    },
+    {
+      "igdb_id": 394652,
+      "game_name": "Raiden Fighters Remix",
+      "file": "missing/R/394652-raiden-fighters-remix.json"
     },
     {
       "igdb_id": 8855,
@@ -763645,6 +763795,11 @@
       "igdb_id": 348839,
       "game_name": "ReWire",
       "file": "missing/R/348839-rewire.json"
+    },
+    {
+      "igdb_id": 394622,
+      "game_name": "Rewolborough Vol.1",
+      "file": "missing/R/394622-rewolborough-vol-1.json"
     },
     {
       "igdb_id": 310507,
@@ -844702,6 +844857,11 @@
       "file": "missing/S/175374-solo-noble.json"
     },
     {
+      "igdb_id": 394614,
+      "game_name": "Solo Raid: Mage",
+      "file": "missing/S/394614-solo-raid-mage.json"
+    },
+    {
       "igdb_id": 177936,
       "game_name": "Solo Records",
       "file": "missing/S/177936-solo-records.json"
@@ -901887,6 +902047,11 @@
       "file": "missing/S/350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json"
     },
     {
+      "igdb_id": 394607,
+      "game_name": "Super Smash Bros: Exo",
+      "file": "missing/S/394607-super-smash-bros-exo.json"
+    },
+    {
       "igdb_id": 328589,
       "game_name": "Super Smash Bros.",
       "file": "missing/S/328589-super-smash-bros.json"
@@ -902102,14 +902267,29 @@
       "file": "missing/S/395017-super-smash-bros-ultimate-akaza-moveset.json"
     },
     {
+      "igdb_id": 394598,
+      "game_name": "Super Smash Bros. Ultimate: All Might Custom Moveset",
+      "file": "missing/S/394598-super-smash-bros-ultimate-all-might-custom-moveset.json"
+    },
+    {
       "igdb_id": 395034,
       "game_name": "Super Smash Bros. Ultimate: Animdude Moveset",
       "file": "missing/S/395034-super-smash-bros-ultimate-animdude-moveset.json"
     },
     {
+      "igdb_id": 394601,
+      "game_name": "Super Smash Bros. Ultimate: Bayonetta Reimagined Moveset",
+      "file": "missing/S/394601-super-smash-bros-ultimate-bayonetta-reimagined-moveset.json"
+    },
+    {
       "igdb_id": 375986,
       "game_name": "Super Smash Bros. Ultimate: Blood Falcon Moveset",
       "file": "missing/S/375986-super-smash-bros-ultimate-blood-falcon-moveset.json"
+    },
+    {
+      "igdb_id": 394610,
+      "game_name": "Super Smash Bros. Ultimate: Brawl Meta Knight Restoration",
+      "file": "missing/S/394610-super-smash-bros-ultimate-brawl-meta-knight-restoration.json"
     },
     {
       "igdb_id": 342693,
@@ -902222,9 +902402,19 @@
       "file": "missing/S/376026-super-smash-bros-ultimate-gogeta-moveset.json"
     },
     {
+      "igdb_id": 394599,
+      "game_name": "Super Smash Bros. Ultimate: Gohan Custom Moveset",
+      "file": "missing/S/394599-super-smash-bros-ultimate-gohan-custom-moveset.json"
+    },
+    {
       "igdb_id": 242815,
       "game_name": "Super Smash Bros. Ultimate: Goku Mod",
       "file": "missing/S/242815-super-smash-bros-ultimate-goku-mod.json"
+    },
+    {
+      "igdb_id": 394596,
+      "game_name": "Super Smash Bros. Ultimate: Ice Beam Moveset",
+      "file": "missing/S/394596-super-smash-bros-ultimate-ice-beam-moveset.json"
     },
     {
       "igdb_id": 395018,
@@ -902297,6 +902487,16 @@
       "file": "missing/S/281460-super-smash-bros-ultimate-ninten-moveset.json"
     },
     {
+      "igdb_id": 394600,
+      "game_name": "Super Smash Bros. Ultimate: Octavius Jeremy Moveset!",
+      "file": "missing/S/394600-super-smash-bros-ultimate-octavius-jeremy-moveset.json"
+    },
+    {
+      "igdb_id": 394612,
+      "game_name": "Super Smash Bros. Ultimate: Paper Mario Moveset",
+      "file": "missing/S/394612-super-smash-bros-ultimate-paper-mario-moveset.json"
+    },
+    {
       "igdb_id": 317931,
       "game_name": "Super Smash Bros. Ultimate: Persona 3 Protagonist Outfit and Wig",
       "file": "missing/S/317931-super-smash-bros-ultimate-persona-3-protagonist-outfit-and-wig.json"
@@ -902310,6 +902510,11 @@
       "igdb_id": 317933,
       "game_name": "Super Smash Bros. Ultimate: Proto Man's Armor and Helmet",
       "file": "missing/S/317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json"
+    },
+    {
+      "igdb_id": 394615,
+      "game_name": "Super Smash Bros. Ultimate: Rayman Custom Moveset",
+      "file": "missing/S/394615-super-smash-bros-ultimate-rayman-custom-moveset.json"
     },
     {
       "igdb_id": 395026,
@@ -902380,6 +902585,11 @@
       "igdb_id": 375984,
       "game_name": "Super Smash Bros. Ultimate: Vegeta Moveset",
       "file": "missing/S/375984-super-smash-bros-ultimate-vegeta-moveset.json"
+    },
+    {
+      "igdb_id": 394597,
+      "game_name": "Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset",
+      "file": "missing/S/394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json"
     },
     {
       "igdb_id": 395033,
@@ -948922,6 +949132,11 @@
       "file": "missing/T/347349-the-garden-of-hermeneus.json"
     },
     {
+      "igdb_id": 394595,
+      "game_name": "The Garden of Youth",
+      "file": "missing/T/394595-the-garden-of-youth.json"
+    },
+    {
       "igdb_id": 145482,
       "game_name": "The Garden Path",
       "file": "missing/T/145482-the-garden-path.json"
@@ -954140,6 +954355,11 @@
       "igdb_id": 359979,
       "game_name": "The Jumping Bonbon Match 3",
       "file": "missing/T/359979-the-jumping-bonbon-match-3.json"
+    },
+    {
+      "igdb_id": 394638,
+      "game_name": "The Jumping Bonbon Match 5",
+      "file": "missing/T/394638-the-jumping-bonbon-match-5.json"
     },
     {
       "igdb_id": 330939,
@@ -964020,11 +964240,6 @@
       "igdb_id": 47955,
       "game_name": "The Naked Brothers Band: The Video Game",
       "file": "missing/T/47955-the-naked-brothers-band-the-video-game.json"
-    },
-    {
-      "igdb_id": 408022,
-      "game_name": "The Name I Wear",
-      "file": "missing/T/408022-the-name-i-wear.json"
     },
     {
       "igdb_id": 178458,
@@ -1012012,6 +1012227,11 @@
       "file": "missing/T/277975-tr4pp3d.json"
     },
     {
+      "igdb_id": 394605,
+      "game_name": "Tr4sh Rebuffed",
+      "file": "missing/T/394605-tr4sh-rebuffed.json"
+    },
+    {
       "igdb_id": 305348,
       "game_name": "Trabi Racer",
       "file": "missing/T/305348-trabi-racer.json"
@@ -1034252,6 +1034472,11 @@
       "file": "missing/U/289928-ultimahjong.json"
     },
     {
+      "igdb_id": 394604,
+      "game_name": "Ultimate 14",
+      "file": "missing/U/394604-ultimate-14.json"
+    },
+    {
       "igdb_id": 125902,
       "game_name": "Ultimate 1v1",
       "file": "missing/U/125902-ultimate-1v1.json"
@@ -1035140,6 +1035365,16 @@
       "igdb_id": 206622,
       "game_name": "Ultimate Puzzles 500",
       "file": "missing/U/206622-ultimate-puzzles-500.json"
+    },
+    {
+      "igdb_id": 394629,
+      "game_name": "Ultimate Quake",
+      "file": "missing/U/394629-ultimate-quake.json"
+    },
+    {
+      "igdb_id": 394631,
+      "game_name": "Ultimate Quake",
+      "file": "missing/U/394631-ultimate-quake.json"
     },
     {
       "igdb_id": 7513,
@@ -1057132,6 +1057367,11 @@
       "file": "missing/V/17309-vlad-the-impaler.json"
     },
     {
+      "igdb_id": 394620,
+      "game_name": "Vlad the Landlord",
+      "file": "missing/V/394620-vlad-the-landlord.json"
+    },
+    {
       "igdb_id": 272880,
       "game_name": "Vlad Voievod Dracula: Dungeons of Edirne",
       "file": "missing/V/272880-vlad-voievod-dracula-dungeons-of-edirne.json"
@@ -1057710,6 +1057950,11 @@
       "igdb_id": 130164,
       "game_name": "Void Monsters 2: The Blight",
       "file": "missing/V/130164-void-monsters-2-the-blight.json"
+    },
+    {
+      "igdb_id": 394648,
+      "game_name": "Void Nebula",
+      "file": "missing/V/394648-void-nebula.json"
     },
     {
       "igdb_id": 411554,
@@ -1075290,11 +1075535,6 @@
       "igdb_id": 282222,
       "game_name": "Wheelborn",
       "file": "missing/W/282222-wheelborn.json"
-    },
-    {
-      "igdb_id": 406738,
-      "game_name": "Wheelchair for Two",
-      "file": "missing/W/406738-wheelchair-for-two.json"
     },
     {
       "igdb_id": 103157,
@@ -1103915,6 +1104155,11 @@
       "igdb_id": 399796,
       "game_name": "Your “Hidden Side” Test",
       "file": "missing/Y/399796-your-hidden-side-test.json"
+    },
+    {
+      "igdb_id": 394609,
+      "game_name": "Your AI Slop Bores Me",
+      "file": "missing/Y/394609-your-ai-slop-bores-me.json"
     },
     {
       "igdb_id": 329644,
