@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Life Simulator | 174753 | [174753-your-life-simulator.json](./174753-your-life-simulator.json) |
 | Your little story: Valentine's Day | 128353 | [128353-your-little-story-valentines-day.json](./128353-your-little-story-valentines-day.json) |
 | Your little story: Winter | 126370 | [126370-your-little-story-winter.json](./126370-your-little-story-winter.json) |
+| Your Love Ai | 372743 | [372743-your-love-ai.json](./372743-your-love-ai.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
