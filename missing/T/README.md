@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haioku Byoutou | 124076 | [124076-the-haioku-byoutou.json](./124076-the-haioku-byoutou.json) |
 | The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
+| The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hallways | 284310 | [284310-the-hallways.json](./284310-the-hallways.json) |
@@ -11339,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
 | The Salatroisk Incident | 216168 | [216168-the-salatroisk-incident.json](./216168-the-salatroisk-incident.json) |
 | The Salatroitsk Incident | 180807 | [180807-the-salatroitsk-incident.json](./180807-the-salatroitsk-incident.json) |
+| The Salesman | 376198 | [376198-the-salesman.json](./376198-the-salesman.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
 | The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
@@ -20564,6 +20566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
+| Train Your Focus and Observation Skills: The Spot-the-Difference Challenge | 376230 | [376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json](./376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json) |
 | Train Your Minibot | 148856 | [148856-train-your-minibot.json](./148856-train-your-minibot.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
