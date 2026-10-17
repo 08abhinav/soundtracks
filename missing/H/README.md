@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello World: a developer story | 354089 | [354089-hello-world-a-developer-story.json](./354089-hello-world-a-developer-story.json) |
+| Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
 | Hello, Goodbye, Summer Girl | 151721 | [151721-hello-goodbye-summer-girl.json](./151721-hello-goodbye-summer-girl.json) |
@@ -5263,6 +5264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideous Bill and the Gi-Gants | 25718 | [25718-hideous-bill-and-the-gi-gants.json](./25718-hideous-bill-and-the-gi-gants.json) |
 | Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
+| Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
 | Hierofanía | 147199 | [147199-hierofania.json](./147199-hierofania.json) |
