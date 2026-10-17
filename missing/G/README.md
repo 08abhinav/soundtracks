@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
+| Gears of Freedom | 414092 | [414092-gears-of-freedom.json](./414092-gears-of-freedom.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
@@ -3337,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Heart | 234199 | [234199-glass-heart.json](./234199-glass-heart.json) |
 | Glass Heart: Retold | 323237 | [323237-glass-heart-retold.json](./323237-glass-heart-retold.json) |
 | Glass Hearts | 221191 | [221191-glass-hearts.json](./221191-glass-hearts.json) |
+| Glass Hime | 414106 | [414106-glass-hime.json](./414106-glass-hime.json) |
 | Glass Hime to Kagami no Juusha | 172587 | [172587-glass-hime-to-kagami-no-juusha.json](./172587-glass-hime-to-kagami-no-juusha.json) |
 | Glass Hime to Kagami no Juusha: Limited Edition | 172588 | [172588-glass-hime-to-kagami-no-juusha-limited-edition.json](./172588-glass-hime-to-kagami-no-juusha-limited-edition.json) |
 | Glass Horizon | 322604 | [322604-glass-horizon.json](./322604-glass-horizon.json) |
@@ -6660,6 +6662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
+| Grit Shot | 414128 | [414128-grit-shot.json](./414128-grit-shot.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
 | Gritty Bit VR | 38815 | [38815-gritty-bit-vr.json](./38815-gritty-bit-vr.json) |
@@ -7338,6 +7341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
+| Guītú | 414118 | [414118-guitu.json](./414118-guitu.json) |
 | Guǐyāchuáng | 386346 | [386346-guiyachuang.json](./386346-guiyachuang.json) |
 | GuJian | 54824 | [54824-gujian.json](./54824-gujian.json) |
 | Gujian 3 | 113649 | [113649-gujian-3.json](./113649-gujian-3.json) |
