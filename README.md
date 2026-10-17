@@ -1168,6 +1168,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2d6d4f36fcaf140cc487260" width="60" /> | [Rayman Origins](https://ostdb.net/games/rayman-origins) | **Rayman Origins (Original Game Soundtrack) [Billy Martin Selection]** · [Spotify](https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e3/ce/65/e3ce6520-f538-eb84-db05-32b9884e41bc/8721093407454.png/600x600bb.jpg" width="60" /> | [Ready or Not](https://ostdb.net/games/ready-or-not) | **Ready or Not (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/ready-or-not-original-soundtrack/1755413766?uo=4) · [Album](https://album.link/i/1755413766) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305086a2c04530b02ef064d27" width="60" /> | [Real Racing 3](https://ostdb.net/games/real-racing-3) | **Real Racing 3 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4daNV6OEmkuv8gXyXhPUu1) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d80916acacb4f11233df6199" width="60" /> | [Reanimal](https://ostdb.net/games/reanimal) | **REANIMAL (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1hHJt42xqtAvo5J3ma5CCP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd4b3fc20c85ab28df641ea9" width="60" /> | [Red Dead Redemption](https://ostdb.net/games/red-dead-redemption) | **Red Dead Redemption Original Soundtrack** · [Spotify](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273bd4b3fc20c85ab28df641ea9" width="60" /> | [Red Dead Redemption](https://ostdb.net/games/red-dead-redemption) | **Red Dead Redemption Original Soundtrack** · [Spotify](https://open.spotify.com/album/7vtoDPM9m1Bs4srekUEpCK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733dae5c9cf336a67a5b490608" width="60" /> | [Red Dead Redemption 2](https://ostdb.net/games/red-dead-redemption-2) | **The Music of Red Dead Redemption 2 (Original Score)** · [Spotify](https://open.spotify.com/album/2Gbv0Wjtwn9zQYMvWtTHnK) · [Apple Music](https://music.apple.com/us/album/the-music-of-red-dead-redemption-2-original-score/1472300669)<br>**The Music of Red Dead Redemption 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) · [Apple Music](https://music.apple.com/us/album/the-music-of-red-dead-redemption-2-original-soundtrack/1466175399) |
@@ -1792,4 +1793,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2109 soundtracks · last updated 2026-10-17T15:41:11.479Z_
+_2110 soundtracks · last updated 2026-10-17T15:41:18.955Z_
