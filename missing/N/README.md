@@ -1634,6 +1634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Contra | 20208 | [20208-neo-contra.json](./20208-neo-contra.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
+| Neo Geo Arcade 2 | 371539 | [371539-neo-geo-arcade-2.json](./371539-neo-geo-arcade-2.json) |
+| Neo Geo Arcade 3 | 371540 | [371540-neo-geo-arcade-3.json](./371540-neo-geo-arcade-3.json) |
 | Neo Geo Battle Coliseum | 21518 | [21518-neo-geo-battle-coliseum.json](./21518-neo-geo-battle-coliseum.json) |
 | Neo Geo Battle Coliseum | 39437 | [39437-neo-geo-battle-coliseum.json](./39437-neo-geo-battle-coliseum.json) |
 | Neo Geo CD Special | 75493 | [75493-neo-geo-cd-special.json](./75493-neo-geo-cd-special.json) |
