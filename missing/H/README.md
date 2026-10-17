@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Boy | 218091 | [218091-hair-boy.json](./218091-hair-boy.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
+| Hair Dye | 400052 | [400052-hair-dye.json](./400052-hair-dye.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
 | Hair Removal Salon Simulator | 412917 | [412917-hair-removal-salon-simulator.json](./412917-hair-removal-salon-simulator.json) |
@@ -6571,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
 | Honkai Impact 3rd | 96032 | [96032-honkai-impact-3rd.json](./96032-honkai-impact-3rd.json) |
 | Honkai Impact 3rd: A Lightful Love | 374675 | [374675-honkai-impact-3rd-a-lightful-love.json](./374675-honkai-impact-3rd-a-lightful-love.json) |
+| Honkai Impact 3rd: Adrift in the Sea of Data | 400082 | [400082-honkai-impact-3rd-adrift-in-the-sea-of-data.json](./400082-honkai-impact-3rd-adrift-in-the-sea-of-data.json) |
 | Honkai Impact 3rd: Arrow of Novae | 276426 | [276426-honkai-impact-3rd-arrow-of-novae.json](./276426-honkai-impact-3rd-arrow-of-novae.json) |
 | Honkai Impact 3rd: As Thunders Filled the Sky | 279719 | [279719-honkai-impact-3rd-as-thunders-filled-the-sky.json](./279719-honkai-impact-3rd-as-thunders-filled-the-sky.json) |
 | Honkai Impact 3rd: Aurelia Invicta | 279710 | [279710-honkai-impact-3rd-aurelia-invicta.json](./279710-honkai-impact-3rd-aurelia-invicta.json) |
@@ -8179,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Fires: Episode 2 | 412547 | [412547-hundred-fires-episode-2.json](./412547-hundred-fires-episode-2.json) |
 | Hundred Fires: The Rising of Red Star | 195957 | [195957-hundred-fires-the-rising-of-red-star.json](./195957-hundred-fires-the-rising-of-red-star.json) |
 | Hundred Fires: The Rising of Red Star - Episode 3 | 264808 | [264808-hundred-fires-the-rising-of-red-star-episode-3.json](./264808-hundred-fires-the-rising-of-red-star-episode-3.json) |
+| Hundred Fires: The Rising of Red Star Episode 2 | 400067 | [400067-hundred-fires-the-rising-of-red-star-episode-2.json](./400067-hundred-fires-the-rising-of-red-star-episode-2.json) |
 | Hundred Furious Fist Momoko: Wonderful Pink 2 | 228710 | [228710-hundred-furious-fist-momoko-wonderful-pink-2.json](./228710-hundred-furious-fist-momoko-wonderful-pink-2.json) |
 | Hundred Nights: DIFU | 395236 | [395236-hundred-nights-difu.json](./395236-hundred-nights-difu.json) |
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
