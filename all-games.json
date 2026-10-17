@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:00:33.702Z",
-  "total_soundtracks": 2006,
+  "generated_at": "2026-10-17T12:00:42.743Z",
+  "total_soundtracks": 2007,
   "games": [
     {
       "igdb_id": 7522,
@@ -8535,6 +8535,20 @@
         {
           "album_name": "Giana Sisters: Twisted Dreams - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2N1TZDls2IwO2Ythp3htG9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11338,
+      "game_name": "Gitaroo Man",
+      "game_url": "https://ostdb.net/games/gitaroo-man",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d1fb777e163ee5ea29c659b9",
+      "albums": [
+        {
+          "album_name": "“GITAROO-MAN” ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/5OKe383gL2uOrvtEYO8h5o",
           "apple_music_url": "",
           "album_link_url": ""
         }
