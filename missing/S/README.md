@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
+| SakaTsuku Shoot! | 406634 | [406634-sakatsuku-shoot.json](./406634-sakatsuku-shoot.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seriously Warped Deathmatch | 361921 | [361921-seriously-warped-deathmatch.json](./361921-seriously-warped-deathmatch.json) |
 | Seris the Devil Killer in Harbor Village | 83148 | [83148-seris-the-devil-killer-in-harbor-village.json](./83148-seris-the-devil-killer-in-harbor-village.json) |
 | Serizawa Hachidan no Tsume Shogi | 6132 | [6132-serizawa-hachidan-no-tsume-shogi.json](./6132-serizawa-hachidan-no-tsume-shogi.json) |
+| Serizawa Nobuo no Birdie Try | 406567 | [406567-serizawa-nobuo-no-birdie-try.json](./406567-serizawa-nobuo-no-birdie-try.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
@@ -9976,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis Pro Tournament 2 | 20184 | [20184-smash-court-tennis-pro-tournament-2.json](./20184-smash-court-tennis-pro-tournament-2.json) |
 | Smash Crabs | 151744 | [151744-smash-crabs.json](./151744-smash-crabs.json) |
+| Smash Dash: Demolition Run | 406575 | [406575-smash-dash-demolition-run.json](./406575-smash-dash-demolition-run.json) |
 | Smash Drums: Pop Rock Legends | 306954 | [306954-smash-drums-pop-rock-legends.json](./306954-smash-drums-pop-rock-legends.json) |
 | Smash Dungeon | 115189 | [115189-smash-dungeon.json](./115189-smash-dungeon.json) |
 | Smash Frenzy | 54373 | [54373-smash-frenzy.json](./54373-smash-frenzy.json) |
@@ -15974,6 +15977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Spriggan: Lunar Verse | 43768 | [43768-spriggan-lunar-verse.json](./43768-spriggan-lunar-verse.json) |
+| Spright | 406568 | [406568-spright.json](./406568-spright.json) |
 | Sprill & Ritchie: Adventures in Time | 54420 | [54420-sprill-and-ritchie-adventures-in-time.json](./54420-sprill-and-ritchie-adventures-in-time.json) |
 | Sprill: Aqua Adventures | 297460 | [297460-sprill-aqua-adventures.json](./297460-sprill-aqua-adventures.json) |
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
