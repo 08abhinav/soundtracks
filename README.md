@@ -1194,6 +1194,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27317204e505e3c5c324efee2a4" width="60" /> | [Runaway 3: A Twist of Fate](https://ostdb.net/games/runaway-3-a-twist-of-fate) | **Runaway 3 - A Twist of Fate (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0zh21RwHVQrnlMdgR4djQ2) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/87/68/7c876843-600d-9100-c551-7d4315419ba5/8721466129389.png/600x600bb.jpg" width="60" /> | [Rust](https://ostdb.net/games/rust) | **Rust Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N) · [Apple Music](https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023) · [Album](https://album.link/i/1887857023) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ededa694d227d28d770ef7" width="60" /> | [Rusty Lake Hotel](https://ostdb.net/games/rusty-lake-hotel) | **Rusty Lake Hotel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9180693aa0c5eac7428c5be" width="60" /> | [Rusty Lake Paradise](https://ostdb.net/games/rusty-lake-paradise) | **Rusty Lake: Paradise (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3MgW9tksAjIXMDWxUS16Sc) |
 
 ### S
 
@@ -1732,4 +1733,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2049 soundtracks · last updated 2026-10-17T15:11:32.549Z_
+_2050 soundtracks · last updated 2026-10-17T15:11:40.533Z_
