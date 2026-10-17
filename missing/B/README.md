@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
 | Badass | 29536 | [29536-badass.json](./29536-badass.json) |
+| Badass Brigade | 376209 | [376209-badass-brigade.json](./376209-badass-brigade.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
 | Badd Bunny Breakout | 410068 | [410068-badd-bunny-breakout.json](./410068-badd-bunny-breakout.json) |
 | BadDool | 279899 | [279899-baddool.json](./279899-baddool.json) |
@@ -3495,6 +3496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Car Crash Derby | 151484 | [151484-beam-car-crash-derby.json](./151484-beam-car-crash-derby.json) |
+| Beam Car Crash: Drive Simulator 2025 | 376226 | [376226-beam-car-crash-drive-simulator-2025.json](./376226-beam-car-crash-drive-simulator-2025.json) |
 | Beam Cat | 224666 | [224666-beam-cat.json](./224666-beam-cat.json) |
 | Beam Driver | 360048 | [360048-beam-driver.json](./360048-beam-driver.json) |
 | Beam Invader | 255363 | [255363-beam-invader.json](./255363-beam-invader.json) |
@@ -10204,6 +10206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Workout: 15 Puzzles for Memory, Math & Logic | 357977 | [357977-brain-workout-15-puzzles-for-memory-math-and-logic.json](./357977-brain-workout-15-puzzles-for-memory-math-and-logic.json) |
 | Brain Workout! Find the Difference in Classic Art | 351224 | [351224-brain-workout-find-the-difference-in-classic-art.json](./351224-brain-workout-find-the-difference-in-classic-art.json) |
 | Brain Workout! Jellyfish Puzzle | 364099 | [364099-brain-workout-jellyfish-puzzle.json](./364099-brain-workout-jellyfish-puzzle.json) |
+| Brain Workout! Spinning Animal Puzzle | 376227 | [376227-brain-workout-spinning-animal-puzzle.json](./376227-brain-workout-spinning-animal-puzzle.json) |
 | Brain Workout! Spinning Insect Puzzle | 378999 | [378999-brain-workout-spinning-insect-puzzle.json](./378999-brain-workout-spinning-insect-puzzle.json) |
 | Brain You Later | 135677 | [135677-brain-you-later.json](./135677-brain-you-later.json) |
 | BrainAccelerator | 211462 | [211462-brainaccelerator.json](./211462-brainaccelerator.json) |
