@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
 | Neon Racer | 192464 | [192464-neon-racer.json](./192464-neon-racer.json) |
+| Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
 | Neon River | 277814 | [277814-neon-river.json](./277814-neon-river.json) |
@@ -1896,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Survivors | 245759 | [245759-neon-survivors.json](./245759-neon-survivors.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
 | Neon Tail | 119431 | [119431-neon-tail.json](./119431-neon-tail.json) |
+| Neon Tea | 363169 | [363169-neon-tea.json](./363169-neon-tea.json) |
 | Neon Tide | 120912 | [120912-neon-tide.json](./120912-neon-tide.json) |
 | Neon Tower Blast | 120757 | [120757-neon-tower-blast.json](./120757-neon-tower-blast.json) |
 | Neon Trap Defense | 185526 | [185526-neon-trap-defense.json](./185526-neon-trap-defense.json) |
