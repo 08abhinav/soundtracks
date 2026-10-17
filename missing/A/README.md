@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
+| Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
@@ -1519,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
+| Abyssbound | 379083 | [379083-abyssbound.json](./379083-abyssbound.json) |
 | Abyssdia | 363049 | [363049-abyssdia.json](./363049-abyssdia.json) |
 | Abyssey | 259501 | [259501-abyssey.json](./259501-abyssey.json) |
 | Abyssfall: Seekers Within | 337706 | [337706-abyssfall-seekers-within.json](./337706-abyssfall-seekers-within.json) |
@@ -1526,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
+| Abyssus: Brineguard Pack | 379084 | [379084-abyssus-brineguard-pack.json](./379084-abyssus-brineguard-pack.json) |
 | Abysswalkers | 260646 | [260646-abysswalkers.json](./260646-abysswalkers.json) |
 | Abysus Arena | 303751 | [303751-abysus-arena.json](./303751-abysus-arena.json) |
 | ABZoo | 14203 | [14203-abzoo.json](./14203-abzoo.json) |
@@ -8158,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
+| Apples in the Abyss | 379088 | [379088-apples-in-the-abyss.json](./379088-apples-in-the-abyss.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
 | Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
@@ -9915,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
+| Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
 | Arrapha | 136229 | [136229-arrapha.json](./136229-arrapha.json) |
