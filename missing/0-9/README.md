@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'The | 247183 | [247183-the.json](./247183-the.json) |
 | 'Till Death Do Us Part | 398026 | [398026-till-death-do-us-part.json](./398026-till-death-do-us-part.json) |
 | "A" Find & Touch | 83204 | [83204-a-find-and-touch.json](./83204-a-find-and-touch.json) |
+| "Alone" | 406633 | [406633-alone.json](./406633-alone.json) |
 | "Did You Submit a Ticket?" Simulator | 417551 | [417551-did-you-submit-a-ticket-simulator.json](./417551-did-you-submit-a-ticket-simulator.json) |
 | "Draw a card" Simulator | 168659 | [168659-draw-a-card-simulator.json](./168659-draw-a-card-simulator.json) |
 | "Edna & Harvey" Bundle | 271701 | [271701-edna-and-harvey-bundle.json](./271701-edna-and-harvey-bundle.json) |
