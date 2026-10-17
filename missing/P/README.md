@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
+| Patience Is a Virtue | 404703 | [404703-patience-is-a-virtue.json](./404703-patience-is-a-virtue.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient 001 | 331395 | [331395-patient-001.json](./331395-patient-001.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
@@ -6951,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Player Manager 2001 | 50025 | [50025-player-manager-2001.json](./50025-player-manager-2001.json) |
 | Player Manager 98/99 | 43765 | [43765-player-manager-98-99.json](./43765-player-manager-98-99.json) |
 | Player Non Player | 223367 | [223367-player-non-player.json](./223367-player-non-player.json) |
+| Player of the Year | 404852 | [404852-player-of-the-year.json](./404852-player-of-the-year.json) |
 | Player's Eleven | 129230 | [129230-players-eleven.json](./129230-players-eleven.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
