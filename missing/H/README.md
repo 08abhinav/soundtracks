@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
 | Hanako in the Abandoned School | 207766 | [207766-hanako-in-the-abandoned-school.json](./207766-hanako-in-the-abandoned-school.json) |
 | Hanako: Honor & Blade | 36605 | [36605-hanako-honor-and-blade.json](./36605-hanako-honor-and-blade.json) |
+| Hanamaru Koumuten | 363672 | [363672-hanamaru-koumuten.json](./363672-hanamaru-koumuten.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
@@ -6877,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooray for Maths | 318034 | [318034-hooray-for-maths.json](./318034-hooray-for-maths.json) |
 | Hooray for Spelling | 318044 | [318044-hooray-for-spelling.json](./318044-hooray-for-spelling.json) |
 | Hoosegow | 207213 | [207213-hoosegow.json](./207213-hoosegow.json) |
+| Hoosegow: Prison Boss | 363694 | [363694-hoosegow-prison-boss.json](./363694-hoosegow-prison-boss.json) |
 | Hoosegow: Prison Survival | 399926 | [399926-hoosegow-prison-survival.json](./399926-hoosegow-prison-survival.json) |
 | Hoover Dam | 272923 | [272923-hoover-dam.json](./272923-hoover-dam.json) |
 | Hoover Heroes | 329963 | [329963-hoover-heroes.json](./329963-hoover-heroes.json) |
@@ -9060,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
+| Hypnosis Knight-Princess | 363664 | [363664-hypnosis-knight-princess.json](./363664-hypnosis-knight-princess.json) |
 | Hypnosis Lite: mind-blowing adventure | 99713 | [99713-hypnosis-lite-mind-blowing-adventure.json](./99713-hypnosis-lite-mind-blowing-adventure.json) |
 | Hypnosis Mic: Alternative Rap Battle 1st Period | 287897 | [287897-hypnosis-mic-alternative-rap-battle-1st-period.json](./287897-hypnosis-mic-alternative-rap-battle-1st-period.json) |
 | Hypnosis Mic: Alternative Rap Battle 2nd Period | 287898 | [287898-hypnosis-mic-alternative-rap-battle-2nd-period.json](./287898-hypnosis-mic-alternative-rap-battle-2nd-period.json) |
