@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peggle Blast HD | 354985 | [354985-peggle-blast-hd.json](./354985-peggle-blast-hd.json) |
 | Peggle Deluxe | 28975 | [28975-peggle-deluxe.json](./28975-peggle-deluxe.json) |
 | Peggle Extreme | 15646 | [15646-peggle-extreme.json](./15646-peggle-extreme.json) |
+| Peggle Fevers | 413527 | [413527-peggle-fevers.json](./413527-peggle-fevers.json) |
 | Peggle Nights | 14813 | [14813-peggle-nights.json](./14813-peggle-nights.json) |
 | Peggle: Dual Shot | 21257 | [21257-peggle-dual-shot.json](./21257-peggle-dual-shot.json) |
 | Pegglo | 302689 | [302689-pegglo.json](./302689-pegglo.json) |
@@ -8689,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle - Superior Edition | 413572 | [413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json](./413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
 | Pool 2 | 335496 | [335496-pool-2.json](./335496-pool-2.json) |
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
