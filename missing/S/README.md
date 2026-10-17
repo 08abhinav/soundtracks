@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeaWorld Adventure Park: Shamu's Deep Sea Adventures | 50565 | [50565-seaworld-adventure-park-shamus-deep-sea-adventures.json](./50565-seaworld-adventure-park-shamus-deep-sea-adventures.json) |
 | SeaWorld Adventure Parks | 81151 | [81151-seaworld-adventure-parks.json](./81151-seaworld-adventure-parks.json) |
 | SeaWorld Adventure Parks Tycoon | 73288 | [73288-seaworld-adventure-parks-tycoon.json](./73288-seaworld-adventure-parks-tycoon.json) |
+| Sebastian | 397025 | [397025-sebastian.json](./397025-sebastian.json) |
 | Sebastian's Quest | 329038 | [329038-sebastians-quest.json](./329038-sebastians-quest.json) |
 | Sebastian's Sea Urchin Symphony | 246518 | [246518-sebastians-sea-urchin-symphony.json](./246518-sebastians-sea-urchin-symphony.json) |
 | Sebastian's Treasure Hunt | 246520 | [246520-sebastians-treasure-hunt.json](./246520-sebastians-treasure-hunt.json) |
@@ -5682,6 +5683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
+| Shiba Boop! | 397016 | [397016-shiba-boop.json](./397016-shiba-boop.json) |
 | Shiba Cafe | 177516 | [177516-shiba-cafe.json](./177516-shiba-cafe.json) |
 | Shiba Eternity | 221385 | [221385-shiba-eternity.json](./221385-shiba-eternity.json) |
 | Shiba Inu Rescue | 147381 | [147381-shiba-inu-rescue.json](./147381-shiba-inu-rescue.json) |
@@ -8214,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisyphus Simulator | 352151 | [352151-sisyphus-simulator.json](./352151-sisyphus-simulator.json) |
 | Sisypush | 236358 | [236358-sisypush.json](./236358-sisypush.json) |
 | Sit 'N Survive | 186113 | [186113-sit-n-survive.json](./186113-sit-n-survive.json) |
+| Sit 'N Survive | 397110 | [397110-sit-n-survive.json](./397110-sit-n-survive.json) |
 | Sit and Spin Adventure | 239542 | [239542-sit-and-spin-adventure.json](./239542-sit-and-spin-adventure.json) |
 | Sit and Spin Adventure 2: Truth - Reason: Second Final | 239543 | [239543-sit-and-spin-adventure-2-truth-reason-second-final.json](./239543-sit-and-spin-adventure-2-truth-reason-second-final.json) |
 | Sit on bottle | 81966 | [81966-sit-on-bottle.json](./81966-sit-on-bottle.json) |
