@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
+| Fate's Ultimatum for Destiny | 364854 | [364854-fates-ultimatum-for-destiny.json](./364854-fates-ultimatum-for-destiny.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
 | Fate/Extella Link | 55137 | [55137-fate-extella-link.json](./55137-fate-extella-link.json) |
 | Fate/Extella Link: Digital Deluxe Edition | 119067 | [119067-fate-extella-link-digital-deluxe-edition.json](./119067-fate-extella-link-digital-deluxe-edition.json) |
@@ -2571,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
 | Fear Them | 187806 | [187806-fear-them.json](./187806-fear-them.json) |
 | Fear Therapy | 185995 | [185995-fear-therapy.json](./185995-fear-therapy.json) |
+| Fear to Face | 364869 | [364869-fear-to-face.json](./364869-fear-to-face.json) |
 | Fear Virtual | 302098 | [302098-fear-virtual.json](./302098-fear-virtual.json) |
 | Fear Within | 389704 | [389704-fear-within.json](./389704-fear-within.json) |
 | Fear: Call of the village. | 190731 | [190731-fear-call-of-the-village.json](./190731-fear-call-of-the-village.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
 | Final Fantasy Legend II | 403 | [403-final-fantasy-legend-ii.json](./403-final-fantasy-legend-ii.json) |
+| Final Fantasy Legend II DX | 364843 | [364843-final-fantasy-legend-ii-dx.json](./364843-final-fantasy-legend-ii-dx.json) |
 | Final Fantasy Legend III DX | 366027 | [366027-final-fantasy-legend-iii-dx.json](./366027-final-fantasy-legend-iii-dx.json) |
 | Final Fantasy Legends: Toki no Suisho | 60600 | [60600-final-fantasy-legends-toki-no-suisho.json](./60600-final-fantasy-legends-toki-no-suisho.json) |
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
@@ -4163,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
+| Fire & Light: Thrones of Tyberion | 364878 | [364878-fire-and-light-thrones-of-tyberion.json](./364878-fire-and-light-thrones-of-tyberion.json) |
 | Fire & Maneuver: American Civil War | 211899 | [211899-fire-and-maneuver-american-civil-war.json](./211899-fire-and-maneuver-american-civil-war.json) |
 | Fire & Reign | 195959 | [195959-fire-and-reign.json](./195959-fire-and-reign.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
@@ -9023,6 +9027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline: World War II | 142192 | [142192-frontline-world-war-ii.json](./142192-frontline-world-war-ii.json) |
 | FrontlineGrunt | 252614 | [252614-frontlinegrunt.json](./252614-frontlinegrunt.json) |
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
+| FrontWars | 364859 | [364859-frontwars.json](./364859-frontwars.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
@@ -10076,5 +10081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fynn's Passage | 363300 | [363300-fynns-passage.json](./363300-fynns-passage.json) |
 | FYR: The Lost Island | 372613 | [372613-fyr-the-lost-island.json](./372613-fyr-the-lost-island.json) |
 | Fyrardien | 384525 | [384525-fyrardien.json](./384525-fyrardien.json) |
+| Fyte | 364825 | [364825-fyte.json](./364825-fyte.json) |
 | Fyz and Now in Olympic Games of Tartarus | 181694 | [181694-fyz-and-now-in-olympic-games-of-tartarus.json](./181694-fyz-and-now-in-olympic-games-of-tartarus.json) |
 | FZDDR | 406700 | [406700-fzddr.json](./406700-fzddr.json) |
