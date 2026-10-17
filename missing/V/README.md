@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V.O.S.S. Turbo | 215918 | [215918-v-o-s-s-turbo.json](./215918-v-o-s-s-turbo.json) |
 | V.R.G. | 181127 | [181127-v-r-g.json](./181127-v-r-g.json) |
 | V.T. | 103838 | [103838-v-t.json](./103838-v-t.json) |
+| V’s Rage | 374895 | [374895-v-s-rage.json](./374895-v-s-rage.json) |
 | V1ruz | 127846 | [127846-v1ruz.json](./127846-v1ruz.json) |
 | V2 Cucumber Scam | 374419 | [374419-v2-cucumber-scam.json](./374419-v2-cucumber-scam.json) |
 | V2000 | 44869 | [44869-v2000.json](./44869-v2000.json) |
@@ -1378,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victoria: An Empire Under the Sun | 11036 | [11036-victoria-an-empire-under-the-sun.json](./11036-victoria-an-empire-under-the-sun.json) |
 | Victoria: Revolutions | 11035 | [11035-victoria-revolutions.json](./11035-victoria-revolutions.json) |
 | Victoria's Body | 158655 | [158655-victorias-body.json](./158655-victorias-body.json) |
+| Victoriam | 374917 | [374917-victoriam.json](./374917-victoriam.json) |
 | Victorian Admirals Anthology | 36399 | [36399-victorian-admirals-anthology.json](./36399-victorian-admirals-anthology.json) |
 | Victorian Admirals: Caroline Crisis 1885 | 58290 | [58290-victorian-admirals-caroline-crisis-1885.json](./58290-victorian-admirals-caroline-crisis-1885.json) |
 | Victorian Admirals: Marianas Incident 1887 | 58293 | [58293-victorian-admirals-marianas-incident-1887.json](./58293-victorian-admirals-marianas-incident-1887.json) |
