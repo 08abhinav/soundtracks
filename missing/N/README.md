@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nascence | 129649 | [129649-nascence.json](./129649-nascence.json) |
 | Naser: Son of Man | 138240 | [138240-naser-son-of-man.json](./138240-naser-son-of-man.json) |
 | Nash Racing 2: Muscle cars | 68598 | [68598-nash-racing-2-muscle-cars.json](./68598-nash-racing-2-muscle-cars.json) |
+| Nash Racing: 70 Seconds Left | 367163 | [367163-nash-racing-70-seconds-left.json](./367163-nash-racing-70-seconds-left.json) |
 | Nash Racing: Battle | 294069 | [294069-nash-racing-battle.json](./294069-nash-racing-battle.json) |
 | NashBored | 113449 | [113449-nashbored.json](./113449-nashbored.json) |
 | Nashi-jiru Busha! Funasshi vs. Dragons | 222481 | [222481-nashi-jiru-busha-funasshi-vs-dragons.json](./222481-nashi-jiru-busha-funasshi-vs-dragons.json) |
@@ -868,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazi 2 | 105248 | [105248-nazi-2.json](./105248-nazi-2.json) |
 | Nazi Bunker | 105252 | [105252-nazi-bunker.json](./105252-nazi-bunker.json) |
 | Nazi Elimination | 81988 | [81988-nazi-elimination.json](./81988-nazi-elimination.json) |
+| Nazi Labs | 367144 | [367144-nazi-labs.json](./367144-nazi-labs.json) |
 | NaziShootout | 88054 | [88054-nazishootout.json](./88054-nazishootout.json) |
 | Nazo no Chinbotsusen | 385713 | [385713-nazo-no-chinbotsusen.json](./385713-nazo-no-chinbotsusen.json) |
 | Nazo No Masquerade | 37669 | [37669-nazo-no-masquerade.json](./37669-nazo-no-masquerade.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
 | Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
 | Ninja Ming | 326664 | [326664-ninja-ming.json](./326664-ninja-ming.json) |
+| Ninja Ming: Novice Area | 367147 | [367147-ninja-ming-novice-area.json](./367147-ninja-ming-novice-area.json) |
 | Ninja Ming: Wu | 341478 | [341478-ninja-ming-wu.json](./341478-ninja-ming-wu.json) |
 | Ninja Monkey | 309849 | [309849-ninja-monkey.json](./309849-ninja-monkey.json) |
 | Ninja Must Die | 143069 | [143069-ninja-must-die.json](./143069-ninja-must-die.json) |
