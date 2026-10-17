@@ -2030,7 +2030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Next Life | 184276 | [184276-in-next-life.json](./184276-in-next-life.json) |
 | In Nightmare | 115862 | [115862-in-nightmare.json](./115862-in-nightmare.json) |
 | In Orbit | 114301 | [114301-in-orbit.json](./114301-in-orbit.json) |
-| In Other Waters | 86504 | [86504-in-other-waters.json](./86504-in-other-waters.json) |
 | In Other Waters: Xenobiologist Edition | 227179 | [227179-in-other-waters-xenobiologist-edition.json](./227179-in-other-waters-xenobiologist-edition.json) |
 | In Our Parlor | 416821 | [416821-in-our-parlor.json](./416821-in-our-parlor.json) |
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
@@ -4475,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
 | Isle of Dinosaurs 2D | 126979 | [126979-isle-of-dinosaurs-2d.json](./126979-isle-of-dinosaurs-2d.json) |
 | Isle of Finbari | 391699 | [391699-isle-of-finbari.json](./391699-isle-of-finbari.json) |
+| Isle of Food | 387149 | [387149-isle-of-food.json](./387149-isle-of-food.json) |
 | Isle of Genesis: Avalon | 175707 | [175707-isle-of-genesis-avalon.json](./175707-isle-of-genesis-avalon.json) |
 | Isle of Jura | 167395 | [167395-isle-of-jura.json](./167395-isle-of-jura.json) |
 | Isle of Jura Fishing Trip | 242055 | [242055-isle-of-jura-fishing-trip.json](./242055-isle-of-jura-fishing-trip.json) |
