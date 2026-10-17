@@ -9258,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life of a Pacifist is Often Fraught With Conflict | 65777 | [65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json](./65777-the-life-of-a-pacifist-is-often-fraught-with-conflict.json) |
 | The Life of an Astronaut | 179027 | [179027-the-life-of-an-astronaut.json](./179027-the-life-of-an-astronaut.json) |
 | The Life of Arthur | 220692 | [220692-the-life-of-arthur.json](./220692-the-life-of-arthur.json) |
+| The Life of Buzludzha | 364228 | [364228-the-life-of-buzludzha.json](./364228-the-life-of-buzludzha.json) |
 | The Life of Frederick Sommer | 148987 | [148987-the-life-of-frederick-sommer.json](./148987-the-life-of-frederick-sommer.json) |
 | The Life of Greather | 31998 | [31998-the-life-of-greather.json](./31998-the-life-of-greather.json) |
 | The Life of Me | 314662 | [314662-the-life-of-me.json](./314662-the-life-of-me.json) |
