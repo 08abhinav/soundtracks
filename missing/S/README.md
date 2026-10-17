@@ -5485,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
+| Sheeple | 410724 | [410724-sheeple.json](./410724-sheeple.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
 | Sheeps | 391303 | [391303-sheeps.json](./391303-sheeps.json) |
@@ -6354,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
 | Shoot The Barrel | 290928 | [290928-shoot-the-barrel.json](./290928-shoot-the-barrel.json) |
 | Shoot The Barrels | 393661 | [393661-shoot-the-barrels.json](./393661-shoot-the-barrels.json) |
+| Shoot The Box | 410710 | [410710-shoot-the-box.json](./410710-shoot-the-box.json) |
 | Shoot the Bubbles Deluxe | 25839 | [25839-shoot-the-bubbles-deluxe.json](./25839-shoot-the-bubbles-deluxe.json) |
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
@@ -10543,8 +10545,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
 | Sniper Elite 4 - Target: Führer | 213297 | [213297-sniper-elite-4-target-fuhrer.json](./213297-sniper-elite-4-target-fuhrer.json) |
+| Sniper Elite 4: Allied Forces Rifle Pack | 410731 | [410731-sniper-elite-4-allied-forces-rifle-pack.json](./410731-sniper-elite-4-allied-forces-rifle-pack.json) |
+| Sniper Elite 4: Camouflage Rifles Skin Pack | 410728 | [410728-sniper-elite-4-camouflage-rifles-skin-pack.json](./410728-sniper-elite-4-camouflage-rifles-skin-pack.json) |
+| Sniper Elite 4: Cold Warfare Winter Expansion Pack | 410733 | [410733-sniper-elite-4-cold-warfare-winter-expansion-pack.json](./410733-sniper-elite-4-cold-warfare-winter-expansion-pack.json) |
+| Sniper Elite 4: Covert Heroes Character Pack | 410730 | [410730-sniper-elite-4-covert-heroes-character-pack.json](./410730-sniper-elite-4-covert-heroes-character-pack.json) |
 | Sniper Elite 4: Deathstorm Part 1 - Inception | 27868 | [27868-sniper-elite-4-deathstorm-part-1-inception.json](./27868-sniper-elite-4-deathstorm-part-1-inception.json) |
 | Sniper Elite 4: Digital Deluxe Edition | 54380 | [54380-sniper-elite-4-digital-deluxe-edition.json](./54380-sniper-elite-4-digital-deluxe-edition.json) |
+| Sniper Elite 4: Lock and Load Weapons Pack | 410734 | [410734-sniper-elite-4-lock-and-load-weapons-pack.json](./410734-sniper-elite-4-lock-and-load-weapons-pack.json) |
+| Sniper Elite 4: Night Fighter Expansion Pack | 410727 | [410727-sniper-elite-4-night-fighter-expansion-pack.json](./410727-sniper-elite-4-night-fighter-expansion-pack.json) |
+| Sniper Elite 4: Silent Warfare Weapons Pack | 410729 | [410729-sniper-elite-4-silent-warfare-weapons-pack.json](./410729-sniper-elite-4-silent-warfare-weapons-pack.json) |
+| Sniper Elite 4: Urban Assault Expansion Pack | 410732 | [410732-sniper-elite-4-urban-assault-expansion-pack.json](./410732-sniper-elite-4-urban-assault-expansion-pack.json) |
 | Sniper Elite 5 | 116238 | [116238-sniper-elite-5.json](./116238-sniper-elite-5.json) |
 | Sniper Elite 5: Airborne Elite Weapon & Skin Pack | 307278 | [307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json](./307278-sniper-elite-5-airborne-elite-weapon-and-skin-pack.json) |
 | Sniper Elite 5: Complete Edition | 263228 | [263228-sniper-elite-5-complete-edition.json](./263228-sniper-elite-5-complete-edition.json) |
@@ -15102,6 +15112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man 3: Escape the Sandman | 245399 | [245399-spider-man-3-escape-the-sandman.json](./245399-spider-man-3-escape-the-sandman.json) |
 | Spider-Man 3: High-Rise Hysteria | 245398 | [245398-spider-man-3-high-rise-hysteria.json](./245398-spider-man-3-high-rise-hysteria.json) |
 | Spider-Man 3: Invasion of Spider-Slayers | 48926 | [48926-spider-man-3-invasion-of-spider-slayers.json](./48926-spider-man-3-invasion-of-spider-slayers.json) |
+| Spider-Man 3: The Battle Within | 410760 | [410760-spider-man-3-the-battle-within.json](./410760-spider-man-3-the-battle-within.json) |
 | Spider-Man 3: The Goblin Strikes! | 245397 | [245397-spider-man-3-the-goblin-strikes.json](./245397-spider-man-3-the-goblin-strikes.json) |
 | Spider-Man 3: Trio of Terror | 245396 | [245396-spider-man-3-trio-of-terror.json](./245396-spider-man-3-trio-of-terror.json) |
 | Spider-Man 3: Vigilante Vengeance | 245395 | [245395-spider-man-3-vigilante-vengeance.json](./245395-spider-man-3-vigilante-vengeance.json) |
@@ -15335,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
 | Spirit Arena | 122258 | [122258-spirit-arena.json](./122258-spirit-arena.json) |
+| Spirit Axis | 410713 | [410713-spirit-axis.json](./410713-spirit-axis.json) |
 | Spirit Bounce | 156587 | [156587-spirit-bounce.json](./156587-spirit-bounce.json) |
 | Spirit Camera: The Cursed Memoir | 6889 | [6889-spirit-camera-the-cursed-memoir.json](./6889-spirit-camera-the-cursed-memoir.json) |
 | Spirit Catcher 93' | 383357 | [383357-spirit-catcher-93.json](./383357-spirit-catcher-93.json) |
@@ -18707,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
 | Stick Saiyan: Fight | 104266 | [104266-stick-saiyan-fight.json](./104266-stick-saiyan-fight.json) |
 | Stick Santa | 220806 | [220806-stick-santa.json](./220806-stick-santa.json) |
+| Stick Scholars | 410718 | [410718-stick-scholars.json](./410718-stick-scholars.json) |
 | Stick Shift | 20257 | [20257-stick-shift.json](./20257-stick-shift.json) |
 | Stick Slasher | 264615 | [264615-stick-slasher.json](./264615-stick-slasher.json) |
 | Stick Soldiers | 68700 | [68700-stick-soldiers.json](./68700-stick-soldiers.json) |
@@ -24539,6 +24552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
+| Sweet Honey Coming | 410712 | [410712-sweet-honey-coming.json](./410712-sweet-honey-coming.json) |
 | Sweet Hospital | 332624 | [332624-sweet-hospital.json](./332624-sweet-hospital.json) |
 | Sweet Hot Spring | 339456 | [339456-sweet-hot-spring.json](./339456-sweet-hot-spring.json) |
 | Sweet Hotel | 339457 | [339457-sweet-hotel.json](./339457-sweet-hotel.json) |
