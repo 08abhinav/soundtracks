@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photons | 288759 | [288759-photons.json](./288759-photons.json) |
 | PhotonVerse | 235881 | [235881-photonverse.json](./235881-photonverse.json) |
 | Photophobia | 373200 | [373200-photophobia.json](./373200-photophobia.json) |
+| Photophobia | 379640 | [379640-photophobia.json](./379640-photophobia.json) |
 | PhotophoBoy | 185363 | [185363-photophoboy.json](./185363-photophoboy.json) |
 | Photopia | 9513 | [9513-photopia.json](./9513-photopia.json) |
 | Photoq | 188875 | [188875-photoq.json](./188875-photoq.json) |
@@ -7010,6 +7011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
+| Playerunknown's Battleboxes | 379625 | [379625-playerunknowns-battleboxes.json](./379625-playerunknowns-battleboxes.json) |
 | PlayerUnknown's Battlegrounds: Season 10 | 144042 | [144042-playerunknowns-battlegrounds-season-10.json](./144042-playerunknowns-battlegrounds-season-10.json) |
 | PlayerUnknown's Battlegrounds: Season 11 | 158956 | [158956-playerunknowns-battlegrounds-season-11.json](./158956-playerunknowns-battlegrounds-season-11.json) |
 | PlayerUnknown's Battlegrounds: Season 12 | 158958 | [158958-playerunknowns-battlegrounds-season-12.json](./158958-playerunknowns-battlegrounds-season-12.json) |
@@ -13221,6 +13223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Places: Premium Puzzles Bundle | 353887 | [353887-puzzling-places-premium-puzzles-bundle.json](./353887-puzzling-places-premium-puzzles-bundle.json) |
 | Puzzling Places: Summer Dive | 353475 | [353475-puzzling-places-summer-dive.json](./353475-puzzling-places-summer-dive.json) |
 | Puzzling Places: The Wave | 353466 | [353466-puzzling-places-the-wave.json](./353466-puzzling-places-the-wave.json) |
+| Puzzling Places: Undead Afterparty | 379660 | [379660-puzzling-places-undead-afterparty.json](./379660-puzzling-places-undead-afterparty.json) |
 | Puzzling Places: Variety Pack - Volume 2 | 353446 | [353446-puzzling-places-variety-pack-volume-2.json](./353446-puzzling-places-variety-pack-volume-2.json) |
 | Puzzling Places: World Heritage Tour | 353485 | [353485-puzzling-places-world-heritage-tour.json](./353485-puzzling-places-world-heritage-tour.json) |
 | Puzzling Robot in the Dungeon | 358465 | [358465-puzzling-robot-in-the-dungeon.json](./358465-puzzling-robot-in-the-dungeon.json) |
