@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | Necromasser | 56311 | [56311-necromasser.json](./56311-necromasser.json) |
+| Necromaster | 382585 | [382585-necromaster.json](./382585-necromaster.json) |
 | Necromental | 363318 | [363318-necromental.json](./363318-necromental.json) |
 | NecroMerger | 200549 | [200549-necromerger.json](./200549-necromerger.json) |
 | Necromonads | 34743 | [34743-necromonads.json](./34743-necromonads.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
 | Nightmare of Weakest Creature | 225560 | [225560-nightmare-of-weakest-creature.json](./225560-nightmare-of-weakest-creature.json) |
+| Nightmare On Maple Road | 382589 | [382589-nightmare-on-maple-road.json](./382589-nightmare-on-maple-road.json) |
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
