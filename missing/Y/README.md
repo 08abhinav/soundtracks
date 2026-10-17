@@ -1121,7 +1121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Chronicles II | 96318 | [96318-ys-chronicles-ii.json](./96318-ys-chronicles-ii.json) |
 | Ys DS | 112195 | [112195-ys-ds.json](./112195-ys-ds.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
-| Ys I & II Chronicles | 21020 | [21020-ys-i-and-ii-chronicles.json](./21020-ys-i-and-ii-chronicles.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
 | Ys II Chronicals | 410167 | [410167-ys-ii-chronicals.json](./410167-ys-ii-chronicals.json) |
 | Ys II DS | 112196 | [112196-ys-ii-ds.json](./112196-ys-ii-ds.json) |
