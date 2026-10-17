@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Reaper | 276844 | [276844-kill-the-reaper.json](./276844-kill-the-reaper.json) |
 | Kill the Santa | 128350 | [128350-kill-the-santa.json](./128350-kill-the-santa.json) |
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
+| Kill the Sun | 364236 | [364236-kill-the-sun.json](./364236-kill-the-sun.json) |
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
@@ -3837,6 +3838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KooZac | 65050 | [65050-koozac.json](./65050-koozac.json) |
 | Kopanito All-Stars Soccer | 25962 | [25962-kopanito-all-stars-soccer.json](./25962-kopanito-all-stars-soccer.json) |
 | Kopernicus: Extraction | 403556 | [403556-kopernicus-extraction.json](./403556-kopernicus-extraction.json) |
+| KopiCat | 364237 | [364237-kopicat.json](./364237-kopicat.json) |
 | Koppotate's Rescue Mission | 294581 | [294581-koppotates-rescue-mission.json](./294581-koppotates-rescue-mission.json) |
 | Koppun-50 | 310214 | [310214-koppun-50.json](./310214-koppun-50.json) |
 | Kops | 71036 | [71036-kops.json](./71036-kops.json) |
