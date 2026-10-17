@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
 | Yard Sale Hidden Treasures: Sunnyville | 66733 | [66733-yard-sale-hidden-treasures-sunnyville.json](./66733-yard-sale-hidden-treasures-sunnyville.json) |
+| Yard Sale Junkie | 381415 | [381415-yard-sale-junkie.json](./381415-yard-sale-junkie.json) |
 | Yard Tale | 101443 | [101443-yard-tale.json](./101443-yard-tale.json) |
 | Yardlings | 133342 | [133342-yardlings.json](./133342-yardlings.json) |
 | Yare.io | 158422 | [158422-yare-io.json](./158422-yare-io.json) |
