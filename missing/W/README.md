@@ -2770,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's the Matter? | 164337 | [164337-whats-the-matter.json](./164337-whats-the-matter.json) |
 | What's the Matter? VR | 153914 | [153914-whats-the-matter-vr.json](./153914-whats-the-matter-vr.json) |
 | What's the Movie? | 233065 | [233065-whats-the-movie.json](./233065-whats-the-movie.json) |
+| What's the Password? | 379637 | [379637-whats-the-password.json](./379637-whats-the-password.json) |
 | What's the Point? | 312200 | [312200-whats-the-point.json](./312200-whats-the-point.json) |
 | What's the Time Mr.Fox | 200140 | [200140-whats-the-time-mr-fox.json](./200140-whats-the-time-mr-fox.json) |
 | What's the Year | 233066 | [233066-whats-the-year.json](./233066-whats-the-year.json) |
