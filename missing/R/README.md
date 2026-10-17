@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaGaBa | 27780 | [27780-ragaba.json](./27780-ragaba.json) |
 | RagBlo Set2 | 97824 | [97824-ragblo-set2.json](./97824-ragblo-set2.json) |
 | RagBrawl | 244163 | [244163-ragbrawl.json](./244163-ragbrawl.json) |
+| Ragdoll Arena: Kick the body | 374893 | [374893-ragdoll-arena-kick-the-body.json](./374893-ragdoll-arena-kick-the-body.json) |
 | Ragdoll Backflips | 104575 | [104575-ragdoll-backflips.json](./104575-ragdoll-backflips.json) |
 | Ragdoll Blaster | 67691 | [67691-ragdoll-blaster.json](./67691-ragdoll-blaster.json) |
 | Ragdoll Blaster 2 | 66775 | [66775-ragdoll-blaster-2.json](./66775-ragdoll-blaster-2.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Fox and the Four Seasons: Design My Forest | 212679 | [212679-red-fox-and-the-four-seasons-design-my-forest.json](./212679-red-fox-and-the-four-seasons-design-my-forest.json) |
 | Red Fox and the Four Seasons: Design My Forest 2 | 215895 | [215895-red-fox-and-the-four-seasons-design-my-forest-2.json](./215895-red-fox-and-the-four-seasons-design-my-forest-2.json) |
 | Red Fox: Exploration on the the Red Fox Island | 358886 | [358886-red-fox-exploration-on-the-the-red-fox-island.json](./358886-red-fox-exploration-on-the-the-red-fox-island.json) |
+| Red Frontier | 374885 | [374885-red-frontier.json](./374885-red-frontier.json) |
 | Red Frozen | 149207 | [149207-red-frozen.json](./149207-red-frozen.json) |
 | Red Galaxy | 156534 | [156534-red-galaxy.json](./156534-red-galaxy.json) |
 | Red Galaxy | 418869 | [418869-red-galaxy.json](./418869-red-galaxy.json) |
@@ -5154,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride to Hell: Beatdown | 63559 | [63559-ride-to-hell-beatdown.json](./63559-ride-to-hell-beatdown.json) |
 | Ride to Hell: Retribution | 2110 | [2110-ride-to-hell-retribution.json](./2110-ride-to-hell-retribution.json) |
 | Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
+| Ride Up | 374890 | [374890-ride-up.json](./374890-ride-up.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
