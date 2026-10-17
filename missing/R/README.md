@@ -8311,6 +8311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
 | Rückblende | 81193 | [81193-ruckblende.json](./81193-ruckblende.json) |
+| Ruckingenur CE | 401778 | [401778-ruckingenur-ce.json](./401778-ruckingenur-ce.json) |
+| Ruckingenur II | 401777 | [401777-ruckingenur-ii.json](./401777-ruckingenur-ii.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
 | Ruction: The Golden Tablet | 32207 | [32207-ruction-the-golden-tablet.json](./32207-ruction-the-golden-tablet.json) |
@@ -8797,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
 | Runner | 279890 | [279890-runner.json](./279890-runner.json) |
 | Runner | 304908 | [304908-runner.json](./304908-runner.json) |
+| Runner | 401907 | [401907-runner.json](./401907-runner.json) |
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
