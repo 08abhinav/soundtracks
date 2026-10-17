@@ -1398,6 +1398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
+| Le Comte & la Communiste | 387127 | [387127-le-comte-and-la-communiste.json](./387127-le-comte-and-la-communiste.json) |
 | Le Concert | 309011 | [309011-le-concert.json](./309011-le-concert.json) |
 | Le Concert ff Fortissimo | 309009 | [309009-le-concert-ff-fortissimo.json](./309009-le-concert-ff-fortissimo.json) |
 | Le Concert pp Pianissimo | 309008 | [309008-le-concert-pp-pianissimo.json](./309008-le-concert-pp-pianissimo.json) |
@@ -1468,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | Leaf Town | 302075 | [302075-leaf-town.json](./302075-leaf-town.json) |
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
+| Leaf Us Alone | 387142 | [387142-leaf-us-alone.json](./387142-leaf-us-alone.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
