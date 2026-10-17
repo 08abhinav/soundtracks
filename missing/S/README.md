@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarab Tales | 35273 | [35273-scarab-tales.json](./35273-scarab-tales.json) |
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
+| Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare: Fatal Picture | 253871 | [253871-scare-fatal-picture.json](./253871-scare-fatal-picture.json) |
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scarecropia | 279258 | [279258-scarecropia.json](./279258-scarecropia.json) |
@@ -8944,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyblazer | 42581 | [42581-skyblazer.json](./42581-skyblazer.json) |
 | Skyblivion | 301423 | [301423-skyblivion.json](./301423-skyblivion.json) |
 | Skyblock Chaos | 301347 | [301347-skyblock-chaos.json](./301347-skyblock-chaos.json) |
+| Skyblock Infinite | 380725 | [380725-skyblock-infinite.json](./380725-skyblock-infinite.json) |
 | Skyblocker | 340388 | [340388-skyblocker.json](./340388-skyblocker.json) |
 | SkyBoats | 31832 | [31832-skyboats.json](./31832-skyboats.json) |
 | Skybolt Zack | 109028 | [109028-skybolt-zack.json](./109028-skybolt-zack.json) |
@@ -20977,6 +20979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
+| Sugoi Girls: Victoria Vogue | 380845 | [380845-sugoi-girls-victoria-vogue.json](./380845-sugoi-girls-victoria-vogue.json) |
 | Sugoi Girls: Vivacious Vampire | 320458 | [320458-sugoi-girls-vivacious-vampire.json](./320458-sugoi-girls-vivacious-vampire.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
 | Sugoro Chronicle | 59327 | [59327-sugoro-chronicle.json](./59327-sugoro-chronicle.json) |
