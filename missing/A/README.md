@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akhenaten: Rule as Pharaoh | 75027 | [75027-akhenaten-rule-as-pharaoh.json](./75027-akhenaten-rule-as-pharaoh.json) |
 | Akhra: The Treasures | 244715 | [244715-akhra-the-treasures.json](./244715-akhra-the-treasures.json) |
 | Aki to Tsukasa no Fushigi no Kabe | 41341 | [41341-aki-to-tsukasa-no-fushigi-no-kabe.json](./41341-aki-to-tsukasa-no-fushigi-no-kabe.json) |
+| Aki Uso: The Only Neat Thing to Do | 379632 | [379632-aki-uso-the-only-neat-thing-to-do.json](./379632-aki-uso-the-only-neat-thing-to-do.json) |
 | Aki: Mahjong Solitaire | 146191 | [146191-aki-mahjong-solitaire.json](./146191-aki-mahjong-solitaire.json) |
 | Akiba Alive Urban Legend of Akihabara in Near Future | 382464 | [382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json](./382464-akiba-alive-urban-legend-of-akihabara-in-near-future.json) |
 | Akiba Lost | 369701 | [369701-akiba-lost.json](./369701-akiba-lost.json) |
