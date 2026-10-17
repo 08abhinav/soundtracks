@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:55:25.816Z",
-  "total_soundtracks": 1999,
+  "generated_at": "2026-10-17T11:55:33.730Z",
+  "total_soundtracks": 2000,
   "games": [
     {
       "igdb_id": 7522,
@@ -6050,6 +6050,20 @@
           "album_name": "DOOM: The Dark Ages (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0uDPC7mKXQst5oZhvDD8QM",
           "apple_music_url": "https://music.apple.com/us/album/doom-the-dark-ages-original-game-soundtrack/1884641346",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55678,
+      "game_name": "Door Kickers: Action Squad",
+      "game_url": "https://ostdb.net/games/door-kickers-action-squad",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ec5f074262cbe44996e196f",
+      "albums": [
+        {
+          "album_name": "Door Kickers: Action Squad (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1dqJ5CApwk5kl1TE3nPOGn",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
