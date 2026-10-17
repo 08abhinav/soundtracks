@@ -2478,7 +2478,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
-| Kingdom Two Crowns | 27436 | [27436-kingdom-two-crowns.json](./27436-kingdom-two-crowns.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
 | Kingdom Two Crowns: Norse Lands | 175663 | [175663-kingdom-two-crowns-norse-lands.json](./175663-kingdom-two-crowns-norse-lands.json) |
