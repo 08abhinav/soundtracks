@@ -9256,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepthrough | 230264 | [230264-sleepthrough.json](./230264-sleepthrough.json) |
 | SleepWalk | 275557 | [275557-sleepwalk.json](./275557-sleepwalk.json) |
 | Sleepwalker | 13079 | [13079-sleepwalker.json](./13079-sleepwalker.json) |
+| Sleepwalker | 415423 | [415423-sleepwalker.json](./415423-sleepwalker.json) |
 | Sleepwalker | 96686 | [96686-sleepwalker.json](./96686-sleepwalker.json) |
 | SleepWalker | 117718 | [117718-sleepwalker.json](./117718-sleepwalker.json) |
 | Sleepwalker & Pinball Fantasies | 100088 | [100088-sleepwalker-and-pinball-fantasies.json](./100088-sleepwalker-and-pinball-fantasies.json) |
@@ -9545,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimey Champions | 166770 | [166770-slimey-champions.json](./166770-slimey-champions.json) |
 | Slimey Climbey Chambers | 314462 | [314462-slimey-climbey-chambers.json](./314462-slimey-climbey-chambers.json) |
 | Slimey, Jump! | 144787 | [144787-slimey-jump.json](./144787-slimey-jump.json) |
+| Slimey's Mine | 415426 | [415426-slimeys-mine.json](./415426-slimeys-mine.json) |
 | Slimg | 333696 | [333696-slimg.json](./333696-slimg.json) |
 | Slimoid | 185608 | [185608-slimoid.json](./185608-slimoid.json) |
 | Slimper | 403079 | [403079-slimper.json](./403079-slimper.json) |
