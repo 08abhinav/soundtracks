@@ -4421,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game - Naughty Girls - Episode 8 | 382389 | [382389-sex-game-naughty-girls-episode-8.json](./382389-sex-game-naughty-girls-episode-8.json) |
 | Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
 | Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
+| Sex Game: BDSM - Episode 2 | 375513 | [375513-sex-game-bdsm-episode-2.json](./375513-sex-game-bdsm-episode-2.json) |
 | Sex Game: Gay Affair - Episode 1 | 384891 | [384891-sex-game-gay-affair-episode-1.json](./384891-sex-game-gay-affair-episode-1.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
@@ -6944,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter | 391145 | [391145-shutter.json](./391145-shutter.json) |
 | Shutter 2 | 158547 | [158547-shutter-2.json](./158547-shutter-2.json) |
 | Shutter Chance Love | 72699 | [72699-shutter-chance-love.json](./72699-shutter-chance-love.json) |
+| Shutter Evidence | 375501 | [375501-shutter-evidence.json](./375501-shutter-evidence.json) |
 | Shutter Heist | 154065 | [154065-shutter-heist.json](./154065-shutter-heist.json) |
 | Shutter Island | 76992 | [76992-shutter-island.json](./76992-shutter-island.json) |
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
@@ -7000,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Si Da Ming Bu | 93387 | [93387-si-da-ming-bu.json](./93387-si-da-ming-bu.json) |
 | Si Kancil : The Adventurous Mouse Deer | 31207 | [31207-si-kancil-the-adventurous-mouse-deer.json](./31207-si-kancil-the-adventurous-mouse-deer.json) |
 | Si-Ki | 397848 | [397848-si-ki.json](./397848-si-ki.json) |
+| Siam | 375495 | [375495-siam.json](./375495-siam.json) |
 | Siam Twinstick | 111714 | [111714-siam-twinstick.json](./111714-siam-twinstick.json) |
 | Siames: Puzzle Heritage Game | 214703 | [214703-siames-puzzle-heritage-game.json](./214703-siames-puzzle-heritage-game.json) |
 | Siana Tales | 219607 | [219607-siana-tales.json](./219607-siana-tales.json) |
@@ -7692,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
+| Simogo Legacy Collection | 375500 | [375500-simogo-legacy-collection.json](./375500-simogo-legacy-collection.json) |
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
@@ -11639,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
+| Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
 | Solitaire | 243634 | [243634-solitaire.json](./243634-solitaire.json) |
