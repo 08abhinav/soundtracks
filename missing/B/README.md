@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
+| Ben 10: Critical Impact | 416039 | [416039-ben-10-critical-impact.json](./416039-ben-10-critical-impact.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210260 | [210260-ben-10-galactic-racing.json](./210260-ben-10-galactic-racing.json) |
@@ -10696,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bric-a-Brac Shop | 178513 | [178513-bric-a-brac-shop.json](./178513-bric-a-brac-shop.json) |
 | Brichi Quest | 217258 | [217258-brichi-quest.json](./217258-brichi-quest.json) |
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
+| Brick | 416129 | [416129-brick.json](./416129-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
 | Brick BiuBiu | 154924 | [154924-brick-biubiu.json](./154924-brick-biubiu.json) |
