@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
 | I Hate Running Backwards | 68843 | [68843-i-hate-running-backwards.json](./68843-i-hate-running-backwards.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
+| I Hate Snake | 402243 | [402243-i-hate-snake.json](./402243-i-hate-snake.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
@@ -1634,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagine: Cheerleader | 7928 | [7928-imagine-cheerleader.json](./7928-imagine-cheerleader.json) |
 | Imagine: Detective | 7939 | [7939-imagine-detective.json](./7939-imagine-detective.json) |
 | Imagine: Family Doctor | 7930 | [7930-imagine-family-doctor.json](./7930-imagine-family-doctor.json) |
+| Imagine: Fashion Designer | 402557 | [402557-imagine-fashion-designer.json](./402557-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer | 7911 | [7911-imagine-fashion-designer.json](./7911-imagine-fashion-designer.json) |
 | Imagine: Fashion Designer New York | 7918 | [7918-imagine-fashion-designer-new-york.json](./7918-imagine-fashion-designer-new-york.json) |
 | Imagine: Fashion Designer World Tour | 7945 | [7945-imagine-fashion-designer-world-tour.json](./7945-imagine-fashion-designer-world-tour.json) |
