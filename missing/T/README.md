@@ -3920,10 +3920,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Absolutely Hilarious Cat Game | 153959 | [153959-the-absolutely-hilarious-cat-game.json](./153959-the-absolutely-hilarious-cat-game.json) |
 | The Abyss | 237353 | [237353-the-abyss.json](./237353-the-abyss.json) |
 | The Abyss | 239717 | [239717-the-abyss.json](./239717-the-abyss.json) |
+| The Abyss | 379095 | [379095-the-abyss.json](./379095-the-abyss.json) |
 | The Abyss Below | 408981 | [408981-the-abyss-below.json](./408981-the-abyss-below.json) |
+| The Abyss Book | 379097 | [379097-the-abyss-book.json](./379097-the-abyss-book.json) |
+| The Abyss Break | 379098 | [379098-the-abyss-break.json](./379098-the-abyss-break.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
 | The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
+| The Abyssal Maze | 379096 | [379096-the-abyssal-maze.json](./379096-the-abyssal-maze.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
 | The Academy | 302947 | [302947-the-academy.json](./302947-the-academy.json) |
 | The Academy of the Cosmic Realm | 385421 | [385421-the-academy-of-the-cosmic-realm.json](./385421-the-academy-of-the-cosmic-realm.json) |
@@ -13706,6 +13710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wordland Scape | 183807 | [183807-the-wordland-scape.json](./183807-the-wordland-scape.json) |
 | The Words Within | 191657 | [191657-the-words-within.json](./191657-the-words-within.json) |
 | The World | 158923 | [158923-the-world.json](./158923-the-world.json) |
+| The World 21: Gambit Abyss | 379099 | [379099-the-world-21-gambit-abyss.json](./379099-the-world-21-gambit-abyss.json) |
 | The World 3: Rise of Demon | 91965 | [91965-the-world-3-rise-of-demon.json](./91965-the-world-3-rise-of-demon.json) |
 | The World A Robot Girl Dream Of | 82871 | [82871-the-world-a-robot-girl-dream-of.json](./82871-the-world-a-robot-girl-dream-of.json) |
 | The World According to Girl | 192823 | [192823-the-world-according-to-girl.json](./192823-the-world-according-to-girl.json) |
@@ -16497,6 +16502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Zone | 14574 | [14574-time-zone.json](./14574-time-zone.json) |
 | Time Zone | 86000 | [86000-time-zone.json](./86000-time-zone.json) |
 | Time-Gate | 69937 | [69937-time-gate.json](./69937-time-gate.json) |
+| Time's Abyss | 379103 | [379103-times-abyss.json](./379103-times-abyss.json) |
 | Time's Disillusion | 236960 | [236960-times-disillusion.json](./236960-times-disillusion.json) |
 | Time's Prison | 318423 | [318423-times-prison.json](./318423-times-prison.json) |
 | Time's Race Against Time | 184326 | [184326-times-race-against-time.json](./184326-times-race-against-time.json) |
