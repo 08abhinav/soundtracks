@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T06:35:20.476Z",
-  "total_missing": 222669,
+  "generated_at": "2026-10-17T06:50:25.716Z",
+  "total_missing": 222719,
   "games": [
     {
       "igdb_id": 191680,
@@ -9465,6 +9465,11 @@
       "igdb_id": 42763,
       "game_name": "5 in 1 Arcade Hits",
       "file": "missing/0-9/42763-5-in-1-arcade-hits.json"
+    },
+    {
+      "igdb_id": 400057,
+      "game_name": "5 in 1 Classics: Fashion Bubble Mania",
+      "file": "missing/0-9/400057-5-in-1-classics-fashion-bubble-mania.json"
     },
     {
       "igdb_id": 282490,
@@ -27135,6 +27140,11 @@
       "igdb_id": 309860,
       "game_name": "Age of Defense: Prehistory",
       "file": "missing/A/309860-age-of-defense-prehistory.json"
+    },
+    {
+      "igdb_id": 400048,
+      "game_name": "Age of Delirium",
+      "file": "missing/A/400048-age-of-delirium.json"
     },
     {
       "igdb_id": 199457,
@@ -58437,6 +58447,11 @@
       "file": "missing/A/34382-ares-omega.json"
     },
     {
+      "igdb_id": 400051,
+      "game_name": "ARES: Automated Relay System",
+      "file": "missing/A/400051-ares-automated-relay-system.json"
+    },
+    {
       "igdb_id": 222820,
       "game_name": "Aretha",
       "file": "missing/A/222820-aretha.json"
@@ -76550,6 +76565,11 @@
       "igdb_id": 225893,
       "game_name": "Baby Shapes for Kids",
       "file": "missing/B/225893-baby-shapes-for-kids.json"
+    },
+    {
+      "igdb_id": 400072,
+      "game_name": "Baby Shapes for Kids: Puzzle, Animal, Funny, Parent, Coloring, Farm Simulator Games",
+      "file": "missing/B/400072-baby-shapes-for-kids-puzzle-animal-funny-parent-coloring-farm-simulator-games.json"
     },
     {
       "igdb_id": 267342,
@@ -98782,6 +98802,11 @@
       "file": "missing/B/151507-best-miner.json"
     },
     {
+      "igdb_id": 400060,
+      "game_name": "Best Mobile Games 5-in-1",
+      "file": "missing/B/400060-best-mobile-games-5-in-1.json"
+    },
+    {
       "igdb_id": 8664,
       "game_name": "Best of Arcade Games",
       "file": "missing/B/8664-best-of-arcade-games.json"
@@ -101755,6 +101780,11 @@
       "igdb_id": 226330,
       "game_name": "Big Kids Games Collection Bundle",
       "file": "missing/B/226330-big-kids-games-collection-bundle.json"
+    },
+    {
+      "igdb_id": 400071,
+      "game_name": "Big Kids Games Collection Bundle 6-in-1 Funny Educational Children & Toddler Learning Pack",
+      "file": "missing/B/400071-big-kids-games-collection-bundle-6-in-1-funny-educational-children-and-toddler-learning-pack.json"
     },
     {
       "igdb_id": 168335,
@@ -127585,6 +127615,11 @@
       "igdb_id": 258089,
       "game_name": "Brawl Tactics: Origins",
       "file": "missing/B/258089-brawl-tactics-origins.json"
+    },
+    {
+      "igdb_id": 400068,
+      "game_name": "Brawl.io",
+      "file": "missing/B/400068-brawl-io.json"
     },
     {
       "igdb_id": 273961,
@@ -200672,6 +200707,11 @@
       "file": "missing/C/319680-crimsonwood.json"
     },
     {
+      "igdb_id": 400077,
+      "game_name": "Crimsooon Sun",
+      "file": "missing/C/400077-crimsooon-sun.json"
+    },
+    {
       "igdb_id": 137065,
       "game_name": "Crimzon Clover",
       "file": "missing/C/137065-crimzon-clover.json"
@@ -250727,6 +250767,11 @@
       "file": "missing/D/342860-diy-horse-race-thing.json"
     },
     {
+      "igdb_id": 400053,
+      "game_name": "DIY Makeup",
+      "file": "missing/D/400053-diy-makeup.json"
+    },
+    {
       "igdb_id": 165704,
       "game_name": "DIY My Boy",
       "file": "missing/D/165704-diy-my-boy.json"
@@ -274685,6 +274730,11 @@
       "igdb_id": 415291,
       "game_name": "Dune: Awakening - Filmic Archive",
       "file": "missing/D/415291-dune-awakening-filmic-archive.json"
+    },
+    {
+      "igdb_id": 400089,
+      "game_name": "Dune: Awakening - The Water Wars DLC",
+      "file": "missing/D/400089-dune-awakening-the-water-wars-dlc.json"
     },
     {
       "igdb_id": 263201,
@@ -329767,6 +329817,11 @@
       "file": "missing/F/173315-fira.json"
     },
     {
+      "igdb_id": 400101,
+      "game_name": "Firby",
+      "file": "missing/F/400101-firby.json"
+    },
+    {
       "igdb_id": 10321,
       "game_name": "Fire",
       "file": "missing/F/10321-fire.json"
@@ -356052,6 +356107,11 @@
       "file": "missing/F/317500-funeralopolis-last-days.json"
     },
     {
+      "igdb_id": 400090,
+      "game_name": "Funerama",
+      "file": "missing/F/400090-funerama.json"
+    },
+    {
       "igdb_id": 104726,
       "game_name": "Funereal Funeral Car",
       "file": "missing/F/104726-funereal-funeral-car.json"
@@ -374357,6 +374417,11 @@
       "file": "missing/G/209622-girl-doll-toy-tamashii-o-kudasai.json"
     },
     {
+      "igdb_id": 400055,
+      "game_name": "Girl Dress Up Classic",
+      "file": "missing/G/400055-girl-dress-up-classic.json"
+    },
+    {
       "igdb_id": 88327,
       "game_name": "Girl Dress Up Makeover",
       "file": "missing/G/88327-girl-dress-up-makeover.json"
@@ -382877,6 +382942,11 @@
       "file": "missing/G/320378-goober-arena.json"
     },
     {
+      "igdb_id": 400097,
+      "game_name": "Goober Shooter 2",
+      "file": "missing/G/400097-goober-shooter-2.json"
+    },
+    {
       "igdb_id": 411751,
       "game_name": "Goobers",
       "file": "missing/G/411751-goobers.json"
@@ -383640,6 +383710,11 @@
       "igdb_id": 327862,
       "game_name": "Google: Squid Game",
       "file": "missing/G/327862-google-squid-game.json"
+    },
+    {
+      "igdb_id": 400093,
+      "game_name": "Google.exe",
+      "file": "missing/G/400093-google-exe.json"
     },
     {
       "igdb_id": 106990,
@@ -400125,6 +400200,11 @@
       "igdb_id": 123038,
       "game_name": "Hair Dash",
       "file": "missing/H/123038-hair-dash.json"
+    },
+    {
+      "igdb_id": 400052,
+      "game_name": "Hair Dye",
+      "file": "missing/H/400052-hair-dye.json"
     },
     {
       "igdb_id": 137052,
@@ -431802,6 +431882,11 @@
       "file": "missing/H/374675-honkai-impact-3rd-a-lightful-love.json"
     },
     {
+      "igdb_id": 400082,
+      "game_name": "Honkai Impact 3rd: Adrift in the Sea of Data",
+      "file": "missing/H/400082-honkai-impact-3rd-adrift-in-the-sea-of-data.json"
+    },
+    {
       "igdb_id": 276426,
       "game_name": "Honkai Impact 3rd: Arrow of Novae",
       "file": "missing/H/276426-honkai-impact-3rd-arrow-of-novae.json"
@@ -439842,6 +439927,11 @@
       "file": "missing/H/264808-hundred-fires-the-rising-of-red-star-episode-3.json"
     },
     {
+      "igdb_id": 400067,
+      "game_name": "Hundred Fires: The Rising of Red Star Episode 2",
+      "file": "missing/H/400067-hundred-fires-the-rising-of-red-star-episode-2.json"
+    },
+    {
       "igdb_id": 228710,
       "game_name": "Hundred Furious Fist Momoko: Wonderful Pink 2",
       "file": "missing/H/228710-hundred-furious-fist-momoko-wonderful-pink-2.json"
@@ -445690,6 +445780,11 @@
       "igdb_id": 372691,
       "game_name": "I Want to Run Away From My Goth Mommy... or Do I?",
       "file": "missing/I/372691-i-want-to-run-away-from-my-goth-mommy-or-do-i.json"
+    },
+    {
+      "igdb_id": 400050,
+      "game_name": "I Want to Wear Your Wool",
+      "file": "missing/I/400050-i-want-to-wear-your-wool.json"
     },
     {
       "igdb_id": 52748,
@@ -473705,6 +473800,11 @@
       "igdb_id": 276845,
       "game_name": "Jigsaw Advent Calendar",
       "file": "missing/J/276845-jigsaw-advent-calendar.json"
+    },
+    {
+      "igdb_id": 400070,
+      "game_name": "Jigsaw Art: 100+ Famous Masterpieces",
+      "file": "missing/J/400070-jigsaw-art-100-famous-masterpieces.json"
     },
     {
       "igdb_id": 94886,
@@ -513322,6 +513422,11 @@
       "file": "missing/L/326588-learn-and-discover-home.json"
     },
     {
+      "igdb_id": 400073,
+      "game_name": "Learn & Play: Dino Coloring",
+      "file": "missing/L/400073-learn-and-play-dino-coloring.json"
+    },
+    {
       "igdb_id": 396220,
       "game_name": "Learn Basic Mandarin!!",
       "file": "missing/L/396220-learn-basic-mandarin.json"
@@ -527040,6 +527145,11 @@
       "igdb_id": 225312,
       "game_name": "Little Red Riding Hood B",
       "file": "missing/L/225312-little-red-riding-hood-b.json"
+    },
+    {
+      "igdb_id": 400066,
+      "game_name": "Little Red Riding Hood: Interactive Book",
+      "file": "missing/L/400066-little-red-riding-hood-interactive-book.json"
     },
     {
       "igdb_id": 288301,
@@ -545787,6 +545897,11 @@
       "file": "missing/M/187488-magic-pen-color-book.json"
     },
     {
+      "igdb_id": 400061,
+      "game_name": "Magic Pen Tracing Book",
+      "file": "missing/M/400061-magic-pen-tracing-book.json"
+    },
+    {
       "igdb_id": 11357,
       "game_name": "Magic Pengel: The Quest for Color",
       "file": "missing/M/11357-magic-pengel-the-quest-for-color.json"
@@ -550377,6 +550492,11 @@
       "file": "missing/M/90473-makethatmoney.json"
     },
     {
+      "igdb_id": 400056,
+      "game_name": "Makeup Artist",
+      "file": "missing/M/400056-makeup-artist.json"
+    },
+    {
       "igdb_id": 107072,
       "game_name": "Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu",
       "file": "missing/M/107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json"
@@ -553435,6 +553555,11 @@
       "igdb_id": 384201,
       "game_name": "Marble's Marbles",
       "file": "missing/M/384201-marbles-marbles.json"
+    },
+    {
+      "igdb_id": 400091,
+      "game_name": "Marblearium",
+      "file": "missing/M/400091-marblearium.json"
     },
     {
       "igdb_id": 416805,
@@ -591867,6 +591992,16 @@
       "file": "missing/M/140436-mobius-front-83.json"
     },
     {
+      "igdb_id": 400076,
+      "game_name": "Möbius Link",
+      "file": "missing/M/400076-mobius-link.json"
+    },
+    {
+      "igdb_id": 400075,
+      "game_name": "Möbius Link 3D",
+      "file": "missing/M/400075-mobius-link-3d.json"
+    },
+    {
       "igdb_id": 225602,
       "game_name": "Mobius Theory",
       "file": "missing/M/225602-mobius-theory.json"
@@ -594870,6 +595005,11 @@
       "igdb_id": 137456,
       "game_name": "Monkeytype",
       "file": "missing/M/137456-monkeytype.json"
+    },
+    {
+      "igdb_id": 400100,
+      "game_name": "Monmon and the Legendary Banana",
+      "file": "missing/M/400100-monmon-and-the-legendary-banana.json"
     },
     {
       "igdb_id": 75970,
@@ -608407,6 +608547,11 @@
       "file": "missing/M/81660-murazu.json"
     },
     {
+      "igdb_id": 400084,
+      "game_name": "Murazu 2",
+      "file": "missing/M/400084-murazu-2.json"
+    },
+    {
       "igdb_id": 395556,
       "game_name": "Murdeer",
       "file": "missing/M/395556-murdeer.json"
@@ -611645,6 +611790,11 @@
       "igdb_id": 81110,
       "game_name": "My Coloring Book: Transport",
       "file": "missing/M/81110-my-coloring-book-transport.json"
+    },
+    {
+      "igdb_id": 400069,
+      "game_name": "My Coloring Books: 2 in 1 Bundle",
+      "file": "missing/M/400069-my-coloring-books-2-in-1-bundle.json"
     },
     {
       "igdb_id": 132217,
@@ -641922,6 +642072,11 @@
       "file": "missing/N/188983-nonograms-22.json"
     },
     {
+      "igdb_id": 400083,
+      "game_name": "Nonograms Pro",
+      "file": "missing/N/400083-nonograms-pro.json"
+    },
+    {
       "igdb_id": 297730,
       "game_name": "Nonograms: Ammunition",
       "file": "missing/N/297730-nonograms-ammunition.json"
@@ -644670,6 +644825,11 @@
       "igdb_id": 305559,
       "game_name": "Nu: Carnival Bliss",
       "file": "missing/N/305559-nu-carnival-bliss.json"
+    },
+    {
+      "igdb_id": 400079,
+      "game_name": "Nu: Ron",
+      "file": "missing/N/400079-nu-ron.json"
     },
     {
       "igdb_id": 93520,
@@ -670067,6 +670227,11 @@
       "file": "missing/P/265135-paint-desk-simulator.json"
     },
     {
+      "igdb_id": 400062,
+      "game_name": "Paint For Kids",
+      "file": "missing/P/400062-paint-for-kids.json"
+    },
+    {
       "igdb_id": 240854,
       "game_name": "Paint Fruit Crush",
       "file": "missing/P/240854-paint-fruit-crush.json"
@@ -670095,6 +670260,11 @@
       "igdb_id": 103631,
       "game_name": "Paint Hit: Color Blast",
       "file": "missing/P/103631-paint-hit-color-blast.json"
+    },
+    {
+      "igdb_id": 400054,
+      "game_name": "Paint it + My Cute Unicorns Bundle",
+      "file": "missing/P/400054-paint-it-my-cute-unicorns-bundle.json"
     },
     {
       "igdb_id": 278651,
@@ -670135,6 +670305,11 @@
       "igdb_id": 119585,
       "game_name": "Paint Park Plus",
       "file": "missing/P/119585-paint-park-plus.json"
+    },
+    {
+      "igdb_id": 400058,
+      "game_name": "Paint Pro for Kids 0+",
+      "file": "missing/P/400058-paint-pro-for-kids-0.json"
     },
     {
       "igdb_id": 341600,
@@ -718657,6 +718832,11 @@
       "file": "missing/P/147734-princess-closet.json"
     },
     {
+      "igdb_id": 400059,
+      "game_name": "Princess Closet: Fashion and Love Will Change Me",
+      "file": "missing/P/400059-princess-closet-fashion-and-love-will-change-me.json"
+    },
+    {
       "igdb_id": 87326,
       "game_name": "Princess Coloring Book +",
       "file": "missing/P/87326-princess-coloring-book.json"
@@ -730380,6 +730560,11 @@
       "igdb_id": 118204,
       "game_name": "Puss in Boots: Fear Not Hooman",
       "file": "missing/P/118204-puss-in-boots-fear-not-hooman.json"
+    },
+    {
+      "igdb_id": 400064,
+      "game_name": "Puss in Boots: Interactive Book",
+      "file": "missing/P/400064-puss-in-boots-interactive-book.json"
     },
     {
       "igdb_id": 298578,
@@ -768997,6 +769182,11 @@
       "file": "missing/R/60071-robbo.json"
     },
     {
+      "igdb_id": 400081,
+      "game_name": "Robbo Millennium",
+      "file": "missing/R/400081-robbo-millennium.json"
+    },
+    {
       "igdb_id": 106804,
       "game_name": "Robbotto",
       "file": "missing/R/106804-robbotto.json"
@@ -784725,6 +784915,11 @@
       "igdb_id": 410320,
       "game_name": "S.O.N.A.R.: Submarine Operators Not Actually Ready",
       "file": "missing/S/410320-s-o-n-a-r-submarine-operators-not-actually-ready.json"
+    },
+    {
+      "igdb_id": 400086,
+      "game_name": "S.O.R.N.",
+      "file": "missing/S/400086-s-o-r-n.json"
     },
     {
       "igdb_id": 381977,
@@ -804942,6 +805137,11 @@
       "file": "missing/S/299202-serious-sam-portals.json"
     },
     {
+      "igdb_id": 400049,
+      "game_name": "Serious Sam: Realm of Thoth",
+      "file": "missing/S/400049-serious-sam-realm-of-thoth.json"
+    },
+    {
       "igdb_id": 79181,
       "game_name": "Serious Sam: The Greek Encounter",
       "file": "missing/S/79181-serious-sam-the-greek-encounter.json"
@@ -825040,6 +825240,11 @@
       "igdb_id": 244792,
       "game_name": "Sir Whoopass & Switchball HD Bundle",
       "file": "missing/S/244792-sir-whoopass-and-switchball-hd-bundle.json"
+    },
+    {
+      "igdb_id": 400094,
+      "game_name": "Sir, We Have an Orc Problem",
+      "file": "missing/S/400094-sir-we-have-an-orc-problem.json"
     },
     {
       "igdb_id": 8478,
@@ -974592,6 +974797,11 @@
       "file": "missing/T/379442-the-three-kingdoms-the-tales-of-jian-an.json"
     },
     {
+      "igdb_id": 400063,
+      "game_name": "The Three Little Pigs: Interactive Book",
+      "file": "missing/T/400063-the-three-little-pigs-interactive-book.json"
+    },
+    {
       "igdb_id": 397425,
       "game_name": "The Three Monkeys",
       "file": "missing/T/397425-the-three-monkeys.json"
@@ -992987,6 +993197,11 @@
       "file": "missing/T/9646-time-commando.json"
     },
     {
+      "igdb_id": 400099,
+      "game_name": "Time Cops",
+      "file": "missing/T/400099-time-cops.json"
+    },
+    {
       "igdb_id": 389440,
       "game_name": "Time Crisis",
       "file": "missing/T/389440-time-crisis.json"
@@ -998440,6 +998655,11 @@
       "igdb_id": 87316,
       "game_name": "Toddler Trainer - Counting Toys Pro",
       "file": "missing/T/87316-toddler-trainer-counting-toys-pro.json"
+    },
+    {
+      "igdb_id": 400096,
+      "game_name": "Toddlers",
+      "file": "missing/T/400096-toddlers.json"
     },
     {
       "igdb_id": 324866,
@@ -1014357,6 +1014577,11 @@
       "file": "missing/T/384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json"
     },
     {
+      "igdb_id": 400080,
+      "game_name": "Trainz Plus DLC: OBB Eurofima Second Class Pack",
+      "file": "missing/T/400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json"
+    },
+    {
       "igdb_id": 208339,
       "game_name": "Trainz Plus DLC: Pro Train - Class 68 ScotRail",
       "file": "missing/T/208339-trainz-plus-dlc-pro-train-class-68-scotrail.json"
@@ -1028565,6 +1028790,11 @@
       "igdb_id": 12971,
       "game_name": "Twin Kingdom Valley",
       "file": "missing/T/12971-twin-kingdom-valley.json"
+    },
+    {
+      "igdb_id": 400098,
+      "game_name": "Twin Legend",
+      "file": "missing/T/400098-twin-legend.json"
     },
     {
       "igdb_id": 228076,
@@ -1072877,6 +1073107,11 @@
       "file": "missing/W/364688-whatcha-loopin-at.json"
     },
     {
+      "igdb_id": 400092,
+      "game_name": "Whatever It Takes",
+      "file": "missing/W/400092-whatever-it-takes.json"
+    },
+    {
       "igdb_id": 313452,
       "game_name": "Whatever We Decide to Call this Game",
       "file": "missing/W/313452-whatever-we-decide-to-call-this-game.json"
@@ -1084422,6 +1084657,11 @@
       "file": "missing/W/405078-wonderful-handhelds.json"
     },
     {
+      "igdb_id": 400078,
+      "game_name": "Wonderful Jigsaw",
+      "file": "missing/W/400078-wonderful-jigsaw.json"
+    },
+    {
       "igdb_id": 175301,
       "game_name": "Wonderful mini golf",
       "file": "missing/W/175301-wonderful-mini-golf.json"
@@ -1089340,6 +1089580,11 @@
       "igdb_id": 316236,
       "game_name": "World War: Fury Wave",
       "file": "missing/W/316236-world-war-fury-wave.json"
+    },
+    {
+      "igdb_id": 400065,
+      "game_name": "World War: Prologue",
+      "file": "missing/W/400065-world-war-prologue.json"
     },
     {
       "igdb_id": 192082,
@@ -1107675,6 +1107920,11 @@
       "igdb_id": 52107,
       "game_name": "Zero Reflex: Black Eye Edition",
       "file": "missing/Z/52107-zero-reflex-black-eye-edition.json"
+    },
+    {
+      "igdb_id": 400088,
+      "game_name": "Zero Sievert 2",
+      "file": "missing/Z/400088-zero-sievert-2.json"
     },
     {
       "igdb_id": 129131,
