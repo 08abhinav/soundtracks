@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
+| Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
