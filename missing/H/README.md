@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic's Fork: The Savior's Descent | 320280 | [320280-heretics-fork-the-saviors-descent.json](./320280-heretics-fork-the-saviors-descent.json) |
 | Heretic's Hope | 216329 | [216329-heretics-hope.json](./216329-heretics-hope.json) |
 | Heretic's Lot | 158566 | [158566-heretics-lot.json](./158566-heretics-lot.json) |
+| HereticOS Mr. Lab | 369363 | [369363-hereticos-mr-lab.json](./369363-hereticos-mr-lab.json) |
 | HereWith | 236889 | [236889-herewith.json](./236889-herewith.json) |
 | Herezh: Generations of Heroes | 212183 | [212183-herezh-generations-of-heroes.json](./212183-herezh-generations-of-heroes.json) |
 | Herios | 182315 | [182315-herios.json](./182315-herios.json) |
@@ -8048,6 +8049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hua Lian Yue Yi | 407197 | [407197-hua-lian-yue-yi.json](./407197-hua-lian-yue-yi.json) |
 | Hua-Z | 397788 | [397788-hua-z.json](./397788-hua-z.json) |
 | Huáijiù Bǎn Sānguózhì Idle RPG | 369188 | [369188-huaijiu-ban-sanguozhi-idle-rpg.json](./369188-huaijiu-ban-sanguozhi-idle-rpg.json) |
+| Huàn Shì Lù | 369350 | [369350-huan-shi-lu.json](./369350-huan-shi-lu.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
 | Huang Ye Ri Ji | 283417 | [283417-huang-ye-ri-ji.json](./283417-huang-ye-ri-ji.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
