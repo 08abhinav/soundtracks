@@ -3325,6 +3325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
+| Cavernous | 414868 | [414868-cavernous.json](./414868-cavernous.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
 | Cheap Game 3 | 153984 | [153984-cheap-game-3.json](./153984-cheap-game-3.json) |
 | Cheap Golf | 28948 | [28948-cheap-golf.json](./28948-cheap-golf.json) |
+| Cheap Tattoo | 414764 | [414764-cheap-tattoo.json](./414764-cheap-tattoo.json) |
 | Cheaphaven | 203247 | [203247-cheaphaven.json](./203247-cheaphaven.json) |
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
@@ -10751,6 +10753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couroland | 223516 | [223516-couroland.json](./223516-couroland.json) |
 | Court of Ashes | 120941 | [120941-court-of-ashes.json](./120941-court-of-ashes.json) |
 | Court of Crowns | 207561 | [207561-court-of-crowns.json](./207561-court-of-crowns.json) |
+| Court of Darkness: Adoration's Kiss | 414790 | [414790-court-of-darkness-adorations-kiss.json](./414790-court-of-darkness-adorations-kiss.json) |
 | Court of Darkness: Captivation's Kiss | 399622 | [399622-court-of-darkness-captivations-kiss.json](./399622-court-of-darkness-captivations-kiss.json) |
 | Court of Darkness: Temptation's Kiss | 370803 | [370803-court-of-darkness-temptations-kiss.json](./370803-court-of-darkness-temptations-kiss.json) |
 | Court Sort VR | 219745 | [219745-court-sort-vr.json](./219745-court-sort-vr.json) |
@@ -10943,6 +10946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Trip | 264146 | [264146-cozy-trip.json](./264146-cozy-trip.json) |
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
+| Cozy Unpacking Collection | 414789 | [414789-cozy-unpacking-collection.json](./414789-cozy-unpacking-collection.json) |
 | Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
@@ -11115,6 +11119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafty Fox | 181328 | [181328-crafty-fox.json](./181328-crafty-fox.json) |
 | Crafty Lands | 249462 | [249462-crafty-lands.json](./249462-crafty-lands.json) |
 | Crafty Racer | 285481 | [285481-crafty-racer.json](./285481-crafty-racer.json) |
+| Crafty Survivors: Wicked Winter | 414767 | [414767-crafty-survivors-wicked-winter.json](./414767-crafty-survivors-wicked-winter.json) |
 | CraftyCounty | 184349 | [184349-craftycounty.json](./184349-craftycounty.json) |
 | CragEx-5 | 346125 | [346125-cragex-5.json](./346125-cragex-5.json) |
 | Craggenrock | 207498 | [207498-craggenrock.json](./207498-craggenrock.json) |
