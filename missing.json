@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:18:35.716Z",
-  "total_missing": 224194,
+  "generated_at": "2026-10-17T15:24:21.364Z",
+  "total_missing": 224175,
   "games": [
     {
       "igdb_id": 191680,
@@ -45627,11 +45627,6 @@
       "file": "missing/A/102139-angry-birds-seasons-hd.json"
     },
     {
-      "igdb_id": 16365,
-      "game_name": "Angry Birds Space",
-      "file": "missing/A/16365-angry-birds-space.json"
-    },
-    {
       "igdb_id": 102601,
       "game_name": "Angry Birds Space HD",
       "file": "missing/A/102601-angry-birds-space-hd.json"
@@ -74737,11 +74732,6 @@
       "file": "missing/A/313506-awesome-tanks-2.json"
     },
     {
-      "igdb_id": 1281,
-      "game_name": "Awesomenauts",
-      "file": "missing/A/1281-awesomenauts.json"
-    },
-    {
       "igdb_id": 90661,
       "game_name": "Awesomenauts Assemble!: Fully Loaded Pack",
       "file": "missing/A/90661-awesomenauts-assemble-fully-loaded-pack.json"
@@ -98480,11 +98470,6 @@
       "igdb_id": 120163,
       "game_name": "Bendy and the Dark Revival",
       "file": "missing/B/120163-bendy-and-the-dark-revival.json"
-    },
-    {
-      "igdb_id": 28311,
-      "game_name": "Bendy and the Ink Machine",
-      "file": "missing/B/28311-bendy-and-the-ink-machine.json"
     },
     {
       "igdb_id": 281029,
@@ -124680,11 +124665,6 @@
       "igdb_id": 157495,
       "game_name": "BouncyBoi in Puzzle Land",
       "file": "missing/B/157495-bouncyboi-in-puzzle-land.json"
-    },
-    {
-      "igdb_id": 14790,
-      "game_name": "Bound",
-      "file": "missing/B/14790-bound.json"
     },
     {
       "igdb_id": 314020,
@@ -322352,11 +322332,6 @@
       "file": "missing/F/321739-fatal-frame.json"
     },
     {
-      "igdb_id": 5106,
-      "game_name": "Fatal Frame",
-      "file": "missing/F/5106-fatal-frame.json"
-    },
-    {
       "igdb_id": 5105,
       "game_name": "Fatal Frame II: Crimson Butterfly",
       "file": "missing/F/5105-fatal-frame-ii-crimson-butterfly.json"
@@ -328995,11 +328970,6 @@
       "igdb_id": 145817,
       "game_name": "Final Fantasy II",
       "file": "missing/F/145817-final-fantasy-ii.json"
-    },
-    {
-      "igdb_id": 16474,
-      "game_name": "Final Fantasy II",
-      "file": "missing/F/16474-final-fantasy-ii.json"
     },
     {
       "igdb_id": 271819,
@@ -405907,11 +405877,6 @@
       "file": "missing/H/201681-hand-of-doom.json"
     },
     {
-      "igdb_id": 9101,
-      "game_name": "Hand of Fate",
-      "file": "missing/H/9101-hand-of-fate.json"
-    },
-    {
       "igdb_id": 111062,
       "game_name": "Hand of Fate 2: The Servant and the Beast",
       "file": "missing/H/111062-hand-of-fate-2-the-servant-and-the-beast.json"
@@ -466322,11 +466287,6 @@
       "file": "missing/I/404339-invisible-war-revised.json"
     },
     {
-      "igdb_id": 6044,
-      "game_name": "Invisible, Inc.",
-      "file": "missing/I/6044-invisible-inc.json"
-    },
-    {
       "igdb_id": 168364,
       "game_name": "Invisible: Story Extension",
       "file": "missing/I/168364-invisible-story-extension.json"
@@ -498737,11 +498697,6 @@
       "file": "missing/K/121422-kingdom-treasury-collection.json"
     },
     {
-      "igdb_id": 27436,
-      "game_name": "Kingdom Two Crowns",
-      "file": "missing/K/27436-kingdom-two-crowns.json"
-    },
-    {
       "igdb_id": 324494,
       "game_name": "Kingdom Two Crowns: Essentials Pack",
       "file": "missing/K/324494-kingdom-two-crowns-essentials-pack.json"
@@ -509035,11 +508990,6 @@
       "igdb_id": 308236,
       "game_name": "L.A. Meltdown 2047",
       "file": "missing/L/308236-l-a-meltdown-2047.json"
-    },
-    {
-      "igdb_id": 59849,
-      "game_name": "L.A. Noire",
-      "file": "missing/L/59849-l-a-noire.json"
     },
     {
       "igdb_id": 117307,
@@ -577217,11 +577167,6 @@
       "file": "missing/M/310075-mercenarian.json"
     },
     {
-      "igdb_id": 2684,
-      "game_name": "Mercenaries 2: World in Flames",
-      "file": "missing/M/2684-mercenaries-2-world-in-flames.json"
-    },
-    {
       "igdb_id": 141648,
       "game_name": "Mercenaries Blaze: Dawn of the Twin Dragons",
       "file": "missing/M/141648-mercenaries-blaze-dawn-of-the-twin-dragons.json"
@@ -620490,11 +620435,6 @@
       "igdb_id": 334868,
       "game_name": "Myst Demake",
       "file": "missing/M/334868-myst-demake.json"
-    },
-    {
-      "igdb_id": 797,
-      "game_name": "Myst III: Exile",
-      "file": "missing/M/797-myst-iii-exile.json"
     },
     {
       "igdb_id": 237366,
@@ -675587,11 +675527,6 @@
       "file": "missing/P/285921-palhalla.json"
     },
     {
-      "igdb_id": 151467,
-      "game_name": "Palia",
-      "file": "missing/P/151467-palia.json"
-    },
-    {
       "igdb_id": 348035,
       "game_name": "Palia: The Elderwood",
       "file": "missing/P/348035-palia-the-elderwood.json"
@@ -678560,11 +678495,6 @@
       "igdb_id": 306428,
       "game_name": "Paplion",
       "file": "missing/P/306428-paplion.json"
-    },
-    {
-      "igdb_id": 7388,
-      "game_name": "Papo & Yo",
-      "file": "missing/P/7388-papo-and-yo.json"
     },
     {
       "igdb_id": 299225,
@@ -772892,11 +772822,6 @@
       "file": "missing/R/204342-river-bones.json"
     },
     {
-      "igdb_id": 117533,
-      "game_name": "River City Girls",
-      "file": "missing/R/117533-river-city-girls.json"
-    },
-    {
       "igdb_id": 346009,
       "game_name": "River City Girls 1, 2, and Zero + Double Dragon DLC Bundle",
       "file": "missing/R/346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json"
@@ -836807,11 +836732,6 @@
       "file": "missing/S/327987-slender-reborn.json"
     },
     {
-      "igdb_id": 2049,
-      "game_name": "Slender: The Arrival",
-      "file": "missing/S/2049-slender-the-arrival.json"
-    },
-    {
       "igdb_id": 265723,
       "game_name": "Slender: The Arrival",
       "file": "missing/S/265723-slender-the-arrival.json"
@@ -888967,11 +888887,6 @@
       "file": "missing/S/242651-street-fighter-alpha-3.json"
     },
     {
-      "igdb_id": 6704,
-      "game_name": "Street Fighter Alpha 3",
-      "file": "missing/S/6704-street-fighter-alpha-3.json"
-    },
-    {
       "igdb_id": 42876,
       "game_name": "Street Fighter Alpha 3 MAX",
       "file": "missing/S/42876-street-fighter-alpha-3-max.json"
@@ -891140,11 +891055,6 @@
       "igdb_id": 18539,
       "game_name": "Stronghold",
       "file": "missing/S/18539-stronghold.json"
-    },
-    {
-      "igdb_id": 9460,
-      "game_name": "Stronghold 2",
-      "file": "missing/S/9460-stronghold-2.json"
     },
     {
       "igdb_id": 74251,
@@ -923510,11 +923420,6 @@
       "igdb_id": 66046,
       "game_name": "Tales of Windy Land",
       "file": "missing/T/66046-tales-of-windy-land.json"
-    },
-    {
-      "igdb_id": 1212,
-      "game_name": "Tales of Xillia",
-      "file": "missing/T/1212-tales-of-xillia.json"
     },
     {
       "igdb_id": 1213,
