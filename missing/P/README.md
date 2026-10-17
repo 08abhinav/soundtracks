@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 4: Bound Love | 236258 | [236258-paper-bride-4-bound-love.json](./236258-paper-bride-4-bound-love.json) |
 | Paper Bride 5 Two Lifetimes | 267828 | [267828-paper-bride-5-two-lifetimes.json](./267828-paper-bride-5-two-lifetimes.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
+| Paper Bride 7: Lethal Bond | 383172 | [383172-paper-bride-7-lethal-bond.json](./383172-paper-bride-7-lethal-bond.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Champion | 242800 | [242800-paper-champion.json](./242800-paper-champion.json) |
 | Paper Chaser's | 247432 | [247432-paper-chasers.json](./247432-paper-chasers.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passengers on the Wind | 15335 | [15335-passengers-on-the-wind.json](./15335-passengers-on-the-wind.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
+| Passerines in End Times | 383193 | [383193-passerines-in-end-times.json](./383193-passerines-in-end-times.json) |
 | Passin'Time | 181042 | [181042-passintime.json](./181042-passintime.json) |
 | Passing By | 201635 | [201635-passing-by.json](./201635-passing-by.json) |
 | Passing By: A Tailwind Journey | 139265 | [139265-passing-by-a-tailwind-journey.json](./139265-passing-by-a-tailwind-journey.json) |
@@ -2395,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws of Coal | 247444 | [247444-paws-of-coal.json](./247444-paws-of-coal.json) |
 | Paws of Fury | 181342 | [181342-paws-of-fury.json](./181342-paws-of-fury.json) |
 | Paws on the Sand: Lionessy Sins | 149699 | [149699-paws-on-the-sand-lionessy-sins.json](./149699-paws-on-the-sand-lionessy-sins.json) |
+| Paws Per Minute | 383163 | [383163-paws-per-minute.json](./383163-paws-per-minute.json) |
 | Paws: A Shelter 2 Game | 17007 | [17007-paws-a-shelter-2-game.json](./17007-paws-a-shelter-2-game.json) |
 | Paws: A Shelter 2 Game - Pitter Patter Edition | 154943 | [154943-paws-a-shelter-2-game-pitter-patter-edition.json](./154943-paws-a-shelter-2-game-pitter-patter-edition.json) |
 | Pawsitive | 298873 | [298873-pawsitive.json](./298873-pawsitive.json) |
@@ -5705,12 +5708,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Enchanted Worlds Pack 3 | 377607 | [377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json](./377607-pixel-cross-stitch-color-by-number-enchanted-worlds-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Minis Pack | 377609 | [377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json](./377609-pixel-cross-stitch-color-by-number-halloween-minis-pack.json) |
 | Pixel Cross Stitch: Color by Number - Halloween Pack 2 | 377608 | [377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json](./377608-pixel-cross-stitch-color-by-number-halloween-pack-2.json) |
+| Pixel Cross Stitch: Color by Number - Simple Nature Pack | 383179 | [383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json](./383179-pixel-cross-stitch-color-by-number-simple-nature-pack.json) |
 | Pixel Cross Stitch: Color by Number - Simple Nature Pack 2 | 374127 | [374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json](./374127-pixel-cross-stitch-color-by-number-simple-nature-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Simple Patterns Pack 5 | 374128 | [374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json](./374128-pixel-cross-stitch-color-by-number-simple-patterns-pack-5.json) |
 | Pixel Cross Stitch: Color by Number - Summer Pack 3 | 361077 | [361077-pixel-cross-stitch-color-by-number-summer-pack-3.json](./361077-pixel-cross-stitch-color-by-number-summer-pack-3.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
+| Pixel Cross Stitch: Color by Number - Women At Work Pack | 383178 | [383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json](./383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
@@ -7622,6 +7627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
+| PokéHeroes | 383188 | [383188-pokeheroes.json](./383188-pokeheroes.json) |
 | Pokémate | 61003 | [61003-pokemate.json](./61003-pokemate.json) |
 | Pokémath! | 291987 | [291987-pokemath.json](./291987-pokemath.json) |
 | Pokémblem | 257412 | [257412-pokemblem.json](./257412-pokemblem.json) |
@@ -8041,11 +8047,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
+| Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
 | Pokémon Pearl Version | 1518 | [1518-pokemon-pearl-version.json](./1518-pokemon-pearl-version.json) |
 | Pokemon Penumbra Moon | 288205 | [288205-pokemon-penumbra-moon.json](./288205-pokemon-penumbra-moon.json) |
+| Pokémon Peridot | 383194 | [383194-pokemon-peridot.json](./383194-pokemon-peridot.json) |
 | Pokémon Pesadilla | 254529 | [254529-pokemon-pesadilla.json](./254529-pokemon-pesadilla.json) |
 | Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
@@ -11602,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
+| Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
 | Prometheus Unbound | 290019 | [290019-prometheus-unbound.json](./290019-prometheus-unbound.json) |
@@ -13048,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
+| Puzzle Vault | 383165 | [383165-puzzle-vault.json](./383165-puzzle-vault.json) |
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
 | Puzzle Wars: Heroes | 261422 | [261422-puzzle-wars-heroes.json](./261422-puzzle-wars-heroes.json) |
