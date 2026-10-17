@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Throttle | 419962 | [419962-waddle-throttle.json](./419962-waddle-throttle.json) |
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
+| WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
@@ -5572,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worker Riot | 203554 | [203554-worker-riot.json](./203554-worker-riot.json) |
 | Workers & Resources: Soviet Republic | 103065 | [103065-workers-and-resources-soviet-republic.json](./103065-workers-and-resources-soviet-republic.json) |
 | Workhorse | 357861 | [357861-workhorse.json](./357861-workhorse.json) |
+| Workhorse Desktop | 387162 | [387162-workhorse-desktop.json](./387162-workhorse-desktop.json) |
 | Working Class Monsters | 390758 | [390758-working-class-monsters.json](./390758-working-class-monsters.json) |
 | Working Dawgs: A-Maze-ing Pipes | 23585 | [23585-working-dawgs-a-maze-ing-pipes.json](./23585-working-dawgs-a-maze-ing-pipes.json) |
 | Working Dawgs: Rivet Retriever | 84936 | [84936-working-dawgs-rivet-retriever.json](./84936-working-dawgs-rivet-retriever.json) |
