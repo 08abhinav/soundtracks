@@ -5324,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highborn: Chapter 3 | 168839 | [168839-highborn-chapter-3.json](./168839-highborn-chapter-3.json) |
 | Higher | 174060 | [174060-higher.json](./174060-higher.json) |
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
+| Higher or Lower: Spotify Edition | 378504 | [378504-higher-or-lower-spotify-edition.json](./378504-higher-or-lower-spotify-edition.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
