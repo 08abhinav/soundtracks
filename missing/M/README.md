@@ -15420,6 +15420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Trackers: Raincliff's Phantoms | 201829 | [201829-mystery-trackers-raincliffs-phantoms.json](./201829-mystery-trackers-raincliffs-phantoms.json) |
 | Mystery Trackers: Raincliff's Phantoms - Collector's Edition | 381380 | [381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json](./381380-mystery-trackers-raincliffs-phantoms-collectors-edition.json) |
 | Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret | 201817 | [201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json](./201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json) |
+| Mystery Trackers: Reflections of the Past - Collector's Edition | 366024 | [366024-mystery-trackers-reflections-of-the-past-collectors-edition.json](./366024-mystery-trackers-reflections-of-the-past-collectors-edition.json) |
 | Mystery Trackers: Silent Hollow | 22110 | [22110-mystery-trackers-silent-hollow.json](./22110-mystery-trackers-silent-hollow.json) |
 | Mystery Trackers: The Fall of Iron Rock | 187935 | [187935-mystery-trackers-the-fall-of-iron-rock.json](./187935-mystery-trackers-the-fall-of-iron-rock.json) |
 | Mystery Trackers: The Four Aces & Mystery Trackers: Silent Hollow | 200955 | [200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json](./200955-mystery-trackers-the-four-aces-and-mystery-trackers-silent-hollow.json) |
