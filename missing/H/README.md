@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack.ing | 290927 | [290927-hack-ing.json](./290927-hack-ing.json) |
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
 | Hack'n Stalk 2.0 | 129490 | [129490-hackn-stalk-2-0.json](./129490-hackn-stalk-2-0.json) |
+| HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker Ball | 185128 | [185128-hacker-ball.json](./185128-hacker-ball.json) |
@@ -346,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Grip | 413472 | [413472-half-grip.json](./413472-half-grip.json) |
 | Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
 | Half Hour RPG | 415187 | [415187-half-hour-rpg.json](./415187-half-hour-rpg.json) |
+| Half Left | 398187 | [398187-half-left.json](./398187-half-left.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
@@ -4406,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Pool | 40172 | [40172-hex-pool.json](./40172-hex-pool.json) |
 | Hex Racer | 259061 | [259061-hex-racer.json](./259061-hex-racer.json) |
 | Hex Rally Racers | 201251 | [201251-hex-rally-racers.json](./201251-hex-rally-racers.json) |
+| Hex Shop | 398260 | [398260-hex-shop.json](./398260-hex-shop.json) |
 | Hex Slayer | 158115 | [158115-hex-slayer.json](./158115-hex-slayer.json) |
 | Hex Tetris | 61331 | [61331-hex-tetris.json](./61331-hex-tetris.json) |
 | Hex Tunnel Touch | 100602 | [100602-hex-tunnel-touch.json](./100602-hex-tunnel-touch.json) |
@@ -8620,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
 | Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
+| Hyper Cars Ramp Crash | 398271 | [398271-hyper-cars-ramp-crash.json](./398271-hyper-cars-ramp-crash.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
@@ -8872,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
+| Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
 | Hypno Tetris | 269469 | [269469-hypno-tetris.json](./269469-hypno-tetris.json) |
 | Hypno's Lullaby | 140537 | [140537-hypnos-lullaby.json](./140537-hypnos-lullaby.json) |
 | HypnoCuck: The Arrogant Rich Bitch Till She Falls | 82761 | [82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json](./82761-hypnocuck-the-arrogant-rich-bitch-till-she-falls.json) |
