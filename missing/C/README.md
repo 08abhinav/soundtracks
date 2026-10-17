@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catellite-609: Feline Space Adventure - Mysterious Sphere | 219224 | [219224-catellite-609-feline-space-adventure-mysterious-sphere.json](./219224-catellite-609-feline-space-adventure-mysterious-sphere.json) |
 | Caten Village | 392313 | [392313-caten-village.json](./392313-caten-village.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
+| Cater Co. | 393993 | [393993-cater-co.json](./393993-cater-co.json) |
 | Cateran | 96767 | [96767-cateran.json](./96767-cateran.json) |
 | Caterpiggle | 108885 | [108885-caterpiggle.json](./108885-caterpiggle.json) |
 | Caterpilla | 83266 | [83266-caterpilla.json](./83266-caterpilla.json) |
@@ -5173,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Pope Door | 264677 | [264677-chinese-pope-door.json](./264677-chinese-pope-door.json) |
 | Chinese SimpleLife | 236413 | [236413-chinese-simplelife.json](./236413-chinese-simplelife.json) |
 | Chinese Souls: Hua Garden | 90614 | [90614-chinese-souls-hua-garden.json](./90614-chinese-souls-hua-garden.json) |
+| Chinese Street Food Legend | 393987 | [393987-chinese-street-food-legend.json](./393987-chinese-street-food-legend.json) |
 | Chinese Style School | 358501 | [358501-chinese-style-school.json](./358501-chinese-style-school.json) |
 | Chinese Takeout! | 180640 | [180640-chinese-takeout.json](./180640-chinese-takeout.json) |
 | Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
