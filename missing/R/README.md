@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
+| Radium | 405335 | [405335-radium.json](./405335-radium.json) |
 | Radium Lux | 349392 | [349392-radium-lux.json](./349392-radium-lux.json) |
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
@@ -6011,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Rebuild Edition | 374732 | [374732-roadcraft-rebuild-edition.json](./374732-roadcraft-rebuild-edition.json) |
 | RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
+| Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
 | Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
@@ -6666,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Roger | 40960 | [40960-rocket-roger.json](./40960-rocket-roger.json) |
 | Rocket Royale | 208961 | [208961-rocket-royale.json](./208961-rocket-royale.json) |
 | Rocket Rumble | 144974 | [144974-rocket-rumble.json](./144974-rocket-rumble.json) |
+| Rocket Rush | 405369 | [405369-rocket-rush.json](./405369-rocket-rush.json) |
 | Rocket Rush | 99633 | [99633-rocket-rush.json](./99633-rocket-rush.json) |
 | Rocket Science | 232417 | [232417-rocket-science.json](./232417-rocket-science.json) |
 | Rocket Shipment | 129615 | [129615-rocket-shipment.json](./129615-rocket-shipment.json) |
