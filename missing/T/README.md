@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time I Got Reincarnated as a Slime: Isekai Chronicles: Digital Deluxe Edition | 313133 | [313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json](./313133-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-digital-deluxe-edition.json) |
 | That Time I Got Reincarnated as a Slime: The Saga of How the Demon Lord and Dragon Founded a Nation | 174820 | [174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json](./174820-that-time-i-got-reincarnated-as-a-slime-the-saga-of-how-the-demon-lord-and-dragon-founded-a-nation.json) |
 | That Time I Got Reincarnated as a Succubus | 266307 | [266307-that-time-i-got-reincarnated-as-a-succubus.json](./266307-that-time-i-got-reincarnated-as-a-succubus.json) |
+| That Time I Got Reincarnated as an Autonomous Robotic Vacuum Cleaner | 375512 | [375512-that-time-i-got-reincarnated-as-an-autonomous-robotic-vacuum-cleaner.json](./375512-that-time-i-got-reincarnated-as-an-autonomous-robotic-vacuum-cleaner.json) |
 | That Time I Got Reincarnated as an Orc | 152987 | [152987-that-time-i-got-reincarnated-as-an-orc.json](./152987-that-time-i-got-reincarnated-as-an-orc.json) |
 | That Time I Got Trapped in an Office Dungeon | 346246 | [346246-that-time-i-got-trapped-in-an-office-dungeon.json](./346246-that-time-i-got-trapped-in-an-office-dungeon.json) |
 | That time I was about to do something important but a god zipped me to another world full of people with masks and I needed to make them fall in love with me to go back | 228990 | [228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json](./228990-that-time-i-was-about-to-do-something-important-but-a-god-zipped-me-to-another-world-full-of-people-with-masks-and-i-needed-to-make-them-fall-in-love-with-me-to-go-back.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
 | The Core | 376279 | [376279-the-core.json](./376279-the-core.json) |
 | The Core Message | 132570 | [132570-the-core-message.json](./132570-the-core-message.json) |
+| The Corgi Knight | 375505 | [375505-the-corgi-knight.json](./375505-the-corgi-knight.json) |
 | The Cork | 137954 | [137954-the-cork.json](./137954-the-cork.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Corner Cafe | 390184 | [390184-the-corner-cafe.json](./390184-the-corner-cafe.json) |
@@ -9862,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mine | 13739 | [13739-the-mine.json](./13739-the-mine.json) |
 | The Mine | 343769 | [343769-the-mine.json](./343769-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
+| The Mine Room | 375528 | [375528-the-mine-room.json](./375528-the-mine-room.json) |
 | The Minecraft tribute game | 46077 | [46077-the-minecraft-tribute-game.json](./46077-the-minecraft-tribute-game.json) |
 | The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
 | The Miner's Routine | 421317 | [421317-the-miners-routine.json](./421317-the-miners-routine.json) |
@@ -13247,6 +13250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Verbose Vault Venture | 311744 | [311744-the-verbose-vault-venture.json](./311744-the-verbose-vault-venture.json) |
 | The Verge Miner | 280161 | [280161-the-verge-miner.json](./280161-the-verge-miner.json) |
+| The Vernyhorn | 375511 | [375511-the-vernyhorn.json](./375511-the-vernyhorn.json) |
 | The Vertigo lite | 129665 | [129665-the-vertigo-lite.json](./129665-the-vertigo-lite.json) |
 | The Very Big Cave Adventure | 26477 | [26477-the-very-big-cave-adventure.json](./26477-the-very-big-cave-adventure.json) |
 | The Very Hungry Caterpillar: First Words | 101013 | [101013-the-very-hungry-caterpillar-first-words.json](./101013-the-very-hungry-caterpillar-first-words.json) |
@@ -21970,6 +21974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
+| Trick or Treat | 375496 | [375496-trick-or-treat.json](./375496-trick-or-treat.json) |
 | Trick or Treat | 94358 | [94358-trick-or-treat.json](./94358-trick-or-treat.json) |
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
 | Trick or Treat Training | 175222 | [175222-trick-or-treat-training.json](./175222-trick-or-treat-training.json) |
