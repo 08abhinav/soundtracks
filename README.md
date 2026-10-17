@@ -97,6 +97,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2731fe696d507b16dc64a5f1597" width="60" /> | [Apex Legends](https://ostdb.net/games/apex-legends) | **Apex Legends (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3hYzCtvSB0hmozcZZtBMDd)<br>**Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw) · [Apple Music](https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739a985531a29913bfe34b07c8" width="60" /> | [Apotheon](https://ostdb.net/games/apotheon) | **Apotheon (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/05KZzNMhPR6jUPKDxrY8fz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273761a311920a2c0a1fc7c9815" width="60" /> | [Apsulov: End of Gods](https://ostdb.net/games/apsulov-end-of-gods) | **Apsulov: End of Gods (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273434c03e1ac265e34e0b219cb" width="60" /> | [Aragami](https://ostdb.net/games/aragami) | **Aragami (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/59EuNnwsJyfhGf6XQ5KS0Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c0340c272cfc866398f27914" width="60" /> | [Aragami 2](https://ostdb.net/games/aragami-2) | **Aragami 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0w1brI7dB7Bws2EufCqgx1) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/68/07/42/6807422b-951a-540b-1f7e-d6f9a2c4e9cf/artwork.jpg/600x600bb.jpg" width="60" /> | [Arctic Awakening](https://ostdb.net/games/arctic-awakening) | **Arctic Awakening (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/arctic-awakening-original-game-soundtrack/1839607348?uo=4) · [Album](https://album.link/i/1839607348) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2b53d25a09cbca21b0f1ec2" width="60" /> | [Arena Breakout: Infinite](https://ostdb.net/games/arena-breakout-infinite) | **Arena Breakout: Infinite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4oK7uAdU2W49XQI7U4oVfR) |
@@ -1785,4 +1786,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2102 soundtracks · last updated 2026-10-17T15:38:01.191Z_
+_2103 soundtracks · last updated 2026-10-17T15:40:25.901Z_
