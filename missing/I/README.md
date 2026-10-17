@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incubo | 113609 | [113609-incubo.json](./113609-incubo.json) |
 | Incubus | 200567 | [200567-incubus.json](./200567-incubus.json) |
 | Incubus: A ghost-hunters tale | 221683 | [221683-incubus-a-ghost-hunters-tale.json](./221683-incubus-a-ghost-hunters-tale.json) |
+| Incursion | 373819 | [373819-incursion.json](./373819-incursion.json) |
 | Incursion | 80792 | [80792-incursion.json](./80792-incursion.json) |
 | Incursion 2: The Artifact | 95947 | [95947-incursion-2-the-artifact.json](./95947-incursion-2-the-artifact.json) |
 | Incursion: The Thing | 30723 | [30723-incursion-the-thing.json](./30723-incursion-the-thing.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insight | 175657 | [175657-insight.json](./175657-insight.json) |
 | Insight | 302670 | [302670-insight.json](./302670-insight.json) |
 | InSight | 302955 | [302955-insight.json](./302955-insight.json) |
+| Insight Room | 373803 | [373803-insight-room.json](./373803-insight-room.json) |
 | Insights: Maniac Vortex | 170974 | [170974-insights-maniac-vortex.json](./170974-insights-maniac-vortex.json) |
 | Insignia | 152232 | [152232-insignia.json](./152232-insignia.json) |
 | Insignia: Tactics | 175139 | [175139-insignia-tactics.json](./175139-insignia-tactics.json) |
