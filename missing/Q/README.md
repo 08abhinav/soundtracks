@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quichotte’s Never-Ending Watch: A Lofi Companion | 360722 | [360722-quichotte-s-never-ending-watch-a-lofi-companion.json](./360722-quichotte-s-never-ending-watch-a-lofi-companion.json) |
 | Quick Brain Letter Hunt | 394561 | [394561-quick-brain-letter-hunt.json](./394561-quick-brain-letter-hunt.json) |
 | Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
+| Quick Brown | 393982 | [393982-quick-brown.json](./393982-quick-brown.json) |
 | Quick Choice Girl | 259715 | [259715-quick-choice-girl.json](./259715-quick-choice-girl.json) |
 | Quick Deduction Short Mysteries | 394558 | [394558-quick-deduction-short-mysteries.json](./394558-quick-deduction-short-mysteries.json) |
 | Quick Draw | 260150 | [260150-quick-draw.json](./260150-quick-draw.json) |
