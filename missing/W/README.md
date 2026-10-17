@@ -4215,7 +4215,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings VR | 211221 | [211221-wings-vr.json](./211221-wings-vr.json) |
 | Wings: Emulated Amiga Edition | 154945 | [154945-wings-emulated-amiga-edition.json](./154945-wings-emulated-amiga-edition.json) |
 | Wings! Remastered Edition | 8801 | [8801-wings-remastered-edition.json](./8801-wings-remastered-edition.json) |
-| Wingspan | 121586 | [121586-wingspan.json](./121586-wingspan.json) |
 | Wingspan + European Expansion | 200514 | [200514-wingspan-european-expansion.json](./200514-wingspan-european-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion | 275894 | [275894-wingspan-european-expansion-oceania-expansion.json](./275894-wingspan-european-expansion-oceania-expansion.json) |
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
