@@ -593,6 +593,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
 | 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
+| 101 Cats in Brussels | 408528 | [408528-101-cats-in-brussels.json](./408528-101-cats-in-brussels.json) |
+| 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Hanoi | 400875 | [400875-101-cats-in-hanoi.json](./400875-101-cats-in-hanoi.json) |
 | 101 Cats in Hungary | 385292 | [385292-101-cats-in-hungary.json](./385292-101-cats-in-hungary.json) |
