@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:40:33.541Z",
-  "total_soundtracks": 2104,
+  "generated_at": "2026-10-17T15:40:41.060Z",
+  "total_soundtracks": 2105,
   "games": [
     {
       "igdb_id": 7522,
@@ -4357,6 +4357,20 @@
         {
           "album_name": "Cosmic Star Heroine (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5b0MzKoPeFOQIkLk4HW8FI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5637,
+      "game_name": "Costume Quest",
+      "game_url": "https://ostdb.net/games/costume-quest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d058dca50c5cc926b650b87c",
+      "albums": [
+        {
+          "album_name": "Costume Quest: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3TCVBRgRkhAZ0PeQ7tjjvf",
           "apple_music_url": "",
           "album_link_url": ""
         }
