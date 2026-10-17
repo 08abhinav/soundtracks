@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
+| Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
 | Eelah | 190893 | [190893-eelah.json](./190893-eelah.json) |
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
@@ -1202,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidolon Adventure | 119459 | [119459-eidolon-adventure.json](./119459-eidolon-adventure.json) |
 | Eidolon Awakened | 262874 | [262874-eidolon-awakened.json](./262874-eidolon-awakened.json) |
 | Eidolons: Nethergate | 116818 | [116818-eidolons-nethergate.json](./116818-eidolons-nethergate.json) |
+| Eien | 392743 | [392743-eien.json](./392743-eien.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
