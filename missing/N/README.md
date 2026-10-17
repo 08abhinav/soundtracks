@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Armada | 127732 | [127732-naval-armada.json](./127732-naval-armada.json) |
 | Naval Assault: The Killing Tide | 47403 | [47403-naval-assault-the-killing-tide.json](./47403-naval-assault-the-killing-tide.json) |
 | Naval Battle Online | 224533 | [224533-naval-battle-online.json](./224533-naval-battle-online.json) |
+| Naval Battle: Mission Commander | 403031 | [403031-naval-battle-mission-commander.json](./403031-naval-battle-mission-commander.json) |
 | Naval Battles Simulator | 130705 | [130705-naval-battles-simulator.json](./130705-naval-battles-simulator.json) |
 | Naval Campaigns Guadalcanal | 141668 | [141668-naval-campaigns-guadalcanal.json](./141668-naval-campaigns-guadalcanal.json) |
 | Naval Campaigns Jutland | 141670 | [141670-naval-campaigns-jutland.json](./141670-naval-campaigns-jutland.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
 | New Era | 135862 | [135862-new-era.json](./135862-new-era.json) |
+| New Era Mod | 403058 | [403058-new-era-mod.json](./403058-new-era-mod.json) |
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Face On The Block | 388185 | [388185-new-face-on-the-block.json](./388185-new-face-on-the-block.json) |
 | New fantasia | 39810 | [39810-new-fantasia.json](./39810-new-fantasia.json) |
