@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:25:41.191Z",
-  "total_soundtracks": 1994,
+  "generated_at": "2026-10-17T11:40:25.555Z",
+  "total_soundtracks": 1995,
   "games": [
     {
       "igdb_id": 7522,
@@ -11676,6 +11676,20 @@
     },
     {
       "igdb_id": 191407,
+      "game_name": "Live A Live",
+      "game_url": "https://ostdb.net/games/live-a-live",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735cd229a097fd284700e2c25a",
+      "albums": [
+        {
+          "album_name": "LIVE A LIVE Original Soundtrack Re-Release",
+          "spotify_url": "https://open.spotify.com/album/6PMCmi6QQjdedrkFrPDrAT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15835,
       "game_name": "Live A Live",
       "game_url": "https://ostdb.net/games/live-a-live",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b2735cd229a097fd284700e2c25a",
