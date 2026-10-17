@@ -701,6 +701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
 | Offline Games | 336389 | [336389-offline-games.json](./336389-offline-games.json) |
 | OffRoad | 85839 | [85839-offroad.json](./85839-offroad.json) |
+| Offroad 4x4 Canyon Driving | 411458 | [411458-offroad-4x4-canyon-driving.json](./411458-offroad-4x4-canyon-driving.json) |
 | Offroad Arcade | 389981 | [389981-offroad-arcade.json](./389981-offroad-arcade.json) |
 | Offroad Bike Driving Simulator | 100786 | [100786-offroad-bike-driving-simulator.json](./100786-offroad-bike-driving-simulator.json) |
 | Offroad Craft Runner 4x4 Simulator | 403747 | [403747-offroad-craft-runner-4x4-simulator.json](./403747-offroad-craft-runner-4x4-simulator.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshi to Hanaseru! Hangul Kiso Phrase | 276468 | [276468-oshi-to-hanaseru-hangul-kiso-phrase.json](./276468-oshi-to-hanaseru-hangul-kiso-phrase.json) |
 | Oshidashi Zintrick | 130369 | [130369-oshidashi-zintrick.json](./130369-oshidashi-zintrick.json) |
 | Oshidashi Zintrick | 282519 | [282519-oshidashi-zintrick.json](./282519-oshidashi-zintrick.json) |
+| Oshiete! Popotan | 411405 | [411405-oshiete-popotan.json](./411405-oshiete-popotan.json) |
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
@@ -3293,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otonano Tamu no Keisan Training DS | 78588 | [78588-otonano-tamu-no-keisan-training-ds.json](./78588-otonano-tamu-no-keisan-training-ds.json) |
 | Otonari Koi Sensou! | 194547 | [194547-otonari-koi-sensou.json](./194547-otonari-koi-sensou.json) |
 | Otonari no Kokujin Otto ni Dakarete Nakimodaeru Saiai no Tsuma. Sono Hikikae ni Ajiwau Kokujin Tsuma no Hada. Big Black Cock & Big Black Butt & My Sweet Wife | 82975 | [82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json](./82975-otonari-no-kokujin-otto-ni-dakarete-nakimodaeru-saiai-no-tsuma-sono-hikikae-ni-ajiwau-kokujin-tsuma-no-hada-big-black-cock-and-big-black-butt-and-my-sweet-wife.json) |
+| Otonari no Tenshi-sama ni itsu no ma ni ka Dame Ningen ni Sareteita ken: Memorial Vacation | 411387 | [411387-otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation.json](./411387-otonari-no-tenshi-sama-ni-itsu-no-ma-ni-ka-dame-ningen-ni-sareteita-ken-memorial-vacation.json) |
 | Otoranger | 239595 | [239595-otoranger.json](./239595-otoranger.json) |
 | Otosan | 241366 | [241366-otosan.json](./241366-otosan.json) |
 | Otostaz | 175947 | [175947-otostaz.json](./175947-otostaz.json) |
