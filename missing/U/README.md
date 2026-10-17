@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea | 287570 | [287570-undersea.json](./287570-undersea.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
+| Undersea: Waves and Adventures | 369328 | [369328-undersea-waves-and-adventures.json](./369328-undersea-waves-and-adventures.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
 | Understeel | 382204 | [382204-understeel.json](./382204-understeel.json) |
 | Underswap: Distrust the Game 2 | 331930 | [331930-underswap-distrust-the-game-2.json](./331930-underswap-distrust-the-game-2.json) |
