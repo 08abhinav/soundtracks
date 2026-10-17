@@ -5895,7 +5895,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiveswap Friendsim: Volume Three | 161238 | [161238-hiveswap-friendsim-volume-three.json](./161238-hiveswap-friendsim-volume-three.json) |
 | Hiveswap Friendsim: Volume Twelve | 161247 | [161247-hiveswap-friendsim-volume-twelve.json](./161247-hiveswap-friendsim-volume-twelve.json) |
 | Hiveswap Friendsim: Volume Two | 161237 | [161237-hiveswap-friendsim-volume-two.json](./161237-hiveswap-friendsim-volume-two.json) |
-| Hiveswap: Act 1 | 11631 | [11631-hiveswap-act-1.json](./11631-hiveswap-act-1.json) |
 | Hiveswap: Act 2 | 125164 | [125164-hiveswap-act-2.json](./125164-hiveswap-act-2.json) |
 | Hivex | 409246 | [409246-hivex.json](./409246-hivex.json) |
 | Hix: Puzzle Islands | 146842 | [146842-hix-puzzle-islands.json](./146842-hix-puzzle-islands.json) |
