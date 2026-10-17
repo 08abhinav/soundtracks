@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
 | Man Human Person Thingy's Quest To Get Back The Gun | 316355 | [316355-man-human-person-thingys-quest-to-get-back-the-gun.json](./316355-man-human-person-thingys-quest-to-get-back-the-gun.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
+| Man I Just Wanna Live | 412338 | [412338-man-i-just-wanna-live.json](./412338-man-i-just-wanna-live.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man in a Maze: Deathmatch | 17576 | [17576-man-in-a-maze-deathmatch.json](./17576-man-in-a-maze-deathmatch.json) |
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
@@ -8821,6 +8822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
+| Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
+| Mini Colors | 412334 | [412334-mini-colors.json](./412334-mini-colors.json) |
 | Mini Countries | 133192 | [133192-mini-countries.json](./133192-mini-countries.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
@@ -8829,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Crossword | 384254 | [384254-mini-crossword.json](./384254-mini-crossword.json) |
 | Mini Crossword Puzzles | 233098 | [233098-mini-crossword-puzzles.json](./233098-mini-crossword-puzzles.json) |
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
+| Mini Dash | 412330 | [412330-mini-dash.json](./412330-mini-dash.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
 | Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
 | mini DDrink | 95634 | [95634-mini-ddrink.json](./95634-mini-ddrink.json) |
@@ -8892,6 +8896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Island: Autumn | 166601 | [166601-mini-island-autumn.json](./166601-mini-island-autumn.json) |
 | Mini Island: Night | 127692 | [127692-mini-island-night.json](./127692-mini-island-night.json) |
 | Mini Jumper | 163990 | [163990-mini-jumper.json](./163990-mini-jumper.json) |
+| Mini Jumps | 412304 | [412304-mini-jumps.json](./412304-mini-jumps.json) |
 | Mini Kaizo Bros. 3 | 220782 | [220782-mini-kaizo-bros-3.json](./220782-mini-kaizo-bros-3.json) |
 | Mini Kart Racing | 154356 | [154356-mini-kart-racing.json](./154356-mini-kart-racing.json) |
 | Mini Knight | 83488 | [83488-mini-knight.json](./83488-mini-knight.json) |
@@ -8921,6 +8926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
+| Mini Push | 412302 | [412302-mini-push.json](./412302-mini-push.json) |
 | Mini Puzzle Balls | 147784 | [147784-mini-puzzle-balls.json](./147784-mini-puzzle-balls.json) |
 | mini PVP | 118088 | [118088-mini-pvp.json](./118088-mini-pvp.json) |
 | Mini Quests | 207852 | [207852-mini-quests.json](./207852-mini-quests.json) |
@@ -8931,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Raid Leader | 398999 | [398999-mini-raid-leader.json](./398999-mini-raid-leader.json) |
 | Mini Ranger | 255127 | [255127-mini-ranger.json](./255127-mini-ranger.json) |
 | Mini Reaper | 307122 | [307122-mini-reaper.json](./307122-mini-reaper.json) |
+| Mini Rocket | 412301 | [412301-mini-rocket.json](./412301-mini-rocket.json) |
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
@@ -8945,6 +8952,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Star Quest | 344948 | [344948-mini-star-quest.json](./344948-mini-star-quest.json) |
 | Mini Star Survivor | 262902 | [262902-mini-star-survivor.json](./262902-mini-star-survivor.json) |
 | Mini Stasol | 366918 | [366918-mini-stasol.json](./366918-mini-stasol.json) |
+| Mini Sticky | 412298 | [412298-mini-sticky.json](./412298-mini-sticky.json) |
+| Mini Stilts | 412295 | [412295-mini-stilts.json](./412295-mini-stilts.json) |
 | Mini Subway: Logic on the Metro Line | 209693 | [209693-mini-subway-logic-on-the-metro-line.json](./209693-mini-subway-logic-on-the-metro-line.json) |
 | Mini Sudoku Keychain | 264240 | [264240-mini-sudoku-keychain.json](./264240-mini-sudoku-keychain.json) |
 | Mini Swim | 412157 | [412157-mini-swim.json](./412157-mini-swim.json) |
