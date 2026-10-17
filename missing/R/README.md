@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
 | Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
+| Remember Me | 372230 | [372230-remember-me.json](./372230-remember-me.json) |
 | Remember Me Before Andromeda | 364366 | [364366-remember-me-before-andromeda.json](./364366-remember-me-before-andromeda.json) |
 | Remember Places? | 177346 | [177346-remember-places.json](./177346-remember-places.json) |
 | Remember Saint Patrick | 335079 | [335079-remember-saint-patrick.json](./335079-remember-saint-patrick.json) |
@@ -6483,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
+| Robotic Space Zamboni | 372188 | [372188-robotic-space-zamboni.json](./372188-robotic-space-zamboni.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
 | Robotica | 19744 | [19744-robotica.json](./19744-robotica.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
