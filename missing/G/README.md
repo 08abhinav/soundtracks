@@ -7117,6 +7117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla War | 274100 | [274100-guerrilla-war.json](./274100-guerrilla-war.json) |
 | Guerrilla War | 39787 | [39787-guerrilla-war.json](./39787-guerrilla-war.json) |
 | Guerrilla War | 55213 | [55213-guerrilla-war.json](./55213-guerrilla-war.json) |
+| Guess Battle | 407902 | [407902-guess-battle.json](./407902-guess-battle.json) |
 | Guess Colors | 164606 | [164606-guess-colors.json](./164606-guess-colors.json) |
 | Guess Da Meme | 104067 | [104067-guess-da-meme.json](./104067-guess-da-meme.json) |
 | Guess Game | 115068 | [115068-guess-game.json](./115068-guess-game.json) |
