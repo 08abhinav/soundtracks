@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZDSimulator | 108792 | [108792-zdsimulator.json](./108792-zdsimulator.json) |
 | ZDSimulator: Shevchenko-Timkove Route | 392436 | [392436-zdsimulator-shevchenko-timkove-route.json](./392436-zdsimulator-shevchenko-timkove-route.json) |
 | ZDSS: Zombie Drone Survival Show | 289336 | [289336-zdss-zombie-drone-survival-show.json](./289336-zdss-zombie-drone-survival-show.json) |
+| Ze Bomber | 388155 | [388155-ze-bomber.json](./388155-ze-bomber.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
@@ -1133,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection | 223014 | [223014-zombie-infection.json](./223014-zombie-infection.json) |
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
+| Zombie Inglor | 388115 | [388115-zombie-inglor.json](./388115-zombie-inglor.json) |
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
 | Zombie Invasion: FPS Defense | 269097 | [269097-zombie-invasion-fps-defense.json](./269097-zombie-invasion-fps-defense.json) |
 | Zombie Island | 127084 | [127084-zombie-island.json](./127084-zombie-island.json) |
@@ -1433,6 +1435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
 | Zomdied | 399432 | [399432-zomdied.json](./399432-zomdied.json) |
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
+| zOMG!es | 388114 | [388114-zomg-es.json](./388114-zomg-es.json) |
 | Zomon: The Path of Heroes | 19208 | [19208-zomon-the-path-of-heroes.json](./19208-zomon-the-path-of-heroes.json) |
 | Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
 | Zompiercer | 132247 | [132247-zompiercer.json](./132247-zompiercer.json) |
