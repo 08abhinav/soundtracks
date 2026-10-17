@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
+| Rainmaker | 397612 | [397612-rainmaker.json](./397612-rainmaker.json) |
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
@@ -8239,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTCW Pro | 362728 | [362728-rtcw-pro.json](./362728-rtcw-pro.json) |
 | RTD: Road to Desolace | 212151 | [212151-rtd-road-to-desolace.json](./212151-rtd-road-to-desolace.json) |
 | RTE Worlds | 273127 | [273127-rte-worlds.json](./273127-rte-worlds.json) |
+| RTFM | 397619 | [397619-rtfm.json](./397619-rtfm.json) |
 | Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
 | RTL Freestyle Skiing | 175310 | [175310-rtl-freestyle-skiing.json](./175310-rtl-freestyle-skiing.json) |
