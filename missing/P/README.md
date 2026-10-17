@@ -3309,7 +3309,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
+| Persona 5 Royal: Battle Bundle | 405356 | [405356-persona-5-royal-battle-bundle.json](./405356-persona-5-royal-battle-bundle.json) |
+| Persona 5 Royal: Kasumi Costume Bundle | 405357 | [405357-persona-5-royal-kasumi-costume-bundle.json](./405357-persona-5-royal-kasumi-costume-bundle.json) |
 | Persona 5 Royal: Launch Edition | 134222 | [134222-persona-5-royal-launch-edition.json](./134222-persona-5-royal-launch-edition.json) |
+| Persona 5 Royal: P5D Costume & BGM Set | 405345 | [405345-persona-5-royal-p5d-costume-and-bgm-set.json](./405345-persona-5-royal-p5d-costume-and-bgm-set.json) |
+| Persona 5 Royal: P5D Featherman Costume & BGM Set | 405352 | [405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json](./405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json) |
+| Persona 5 Royal: Persona Bundle | 405358 | [405358-persona-5-royal-persona-bundle.json](./405358-persona-5-royal-persona-bundle.json) |
+| Persona 5 Royal: Persona Q2 Costume & BGM Special Set | 405346 | [405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json](./405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json) |
+| Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set | 405355 | [405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json](./405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json) |
+| Persona 5 Royal: Tracksuit Costume Set | 405353 | [405353-persona-5-royal-tracksuit-costume-set.json](./405353-persona-5-royal-tracksuit-costume-set.json) |
+| Persona 5 Royal: Velvet Room Costume & BGM Set | 405351 | [405351-persona-5-royal-velvet-room-costume-and-bgm-set.json](./405351-persona-5-royal-velvet-room-costume-and-bgm-set.json) |
 | Persona 5 Strikers | 117731 | [117731-persona-5-strikers.json](./117731-persona-5-strikers.json) |
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
