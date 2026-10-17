@@ -9152,6 +9152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minim | 178877 | [178877-minim.json](./178877-minim.json) |
 | Minima | 183358 | [183358-minima.json](./183358-minima.json) |
 | Minima | 293652 | [293652-minima.json](./293652-minima.json) |
+| Minima | 380160 | [380160-minima.json](./380160-minima.json) |
 | Minimal | 33392 | [33392-minimal.json](./33392-minimal.json) |
 | Minimal Affect | 132831 | [132831-minimal-affect.json](./132831-minimal-affect.json) |
 | Minimal Arcade | 319130 | [319130-minimal-arcade.json](./319130-minimal-arcade.json) |
@@ -10517,6 +10518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mom | 319278 | [319278-mom.json](./319278-mom.json) |
 | Mom Crush: Hidden Hotel Love Story | 387673 | [387673-mom-crush-hidden-hotel-love-story.json](./387673-mom-crush-hidden-hotel-love-story.json) |
 | Mom Hid My Game! | 78160 | [78160-mom-hid-my-game.json](./78160-mom-hid-my-game.json) |
+| Mom Life Simulator | 380163 | [380163-mom-life-simulator.json](./380163-mom-life-simulator.json) |
 | Mom Simulator 2023 | 277841 | [277841-mom-simulator-2023.json](./277841-mom-simulator-2023.json) |
 | Mom-chan Diet Wii Figureobics by Jung Da-yeon | 5013 | [5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json](./5013-mom-chan-diet-wii-figureobics-by-jung-da-yeon.json) |
 | Mombo Combo 2 | 134331 | [134331-mombo-combo-2.json](./134331-mombo-combo-2.json) |
@@ -14292,6 +14294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Ex-Boyfriend the Space Tyrant | 17624 | [17624-my-ex-boyfriend-the-space-tyrant.json](./17624-my-ex-boyfriend-the-space-tyrant.json) |
 | My Ex-future Family: Premium Edition | 266989 | [266989-my-ex-future-family-premium-edition.json](./266989-my-ex-future-family-premium-edition.json) |
 | My Exercise | 138033 | [138033-my-exercise.json](./138033-my-exercise.json) |
+| My Existential Crisis | 380169 | [380169-my-existential-crisis.json](./380169-my-existential-crisis.json) |
 | My Exit | 293687 | [293687-my-exit.json](./293687-my-exit.json) |
 | My Exotic Farm | 66391 | [66391-my-exotic-farm.json](./66391-my-exotic-farm.json) |
 | My Exotic Farm 2018 | 114132 | [114132-my-exotic-farm-2018.json](./114132-my-exotic-farm-2018.json) |
