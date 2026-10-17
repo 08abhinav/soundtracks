@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
 | NieR Replicant ver.1.22474487139...: 4 YoRHa | 360511 | [360511-nier-replicant-ver-1-22474487139-4-yorha.json](./360511-nier-replicant-ver-1-22474487139-4-yorha.json) |
 | NieR Replicant ver.1.22474487139...: Lunar Tear Edition | 167139 | [167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json](./167139-nier-replicant-ver-1-22474487139-lunar-tear-edition.json) |
+| NieR Replicant: Red and Black | 375545 | [375545-nier-replicant-red-and-black.json](./375545-nier-replicant-red-and-black.json) |
 | NieR: Automata - 6C2P4A118680823 | 312117 | [312117-nier-automata-6c2p4a118680823.json](./312117-nier-automata-6c2p4a118680823.json) |
 | Nier: Automata - Become as Gods Edition | 103294 | [103294-nier-automata-become-as-gods-edition.json](./103294-nier-automata-become-as-gods-edition.json) |
 | NieR: Automata - Black Box Edition | 144331 | [144331-nier-automata-black-box-edition.json](./144331-nier-automata-black-box-edition.json) |
