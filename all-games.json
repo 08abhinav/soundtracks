@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:30:25.764Z",
-  "total_soundtracks": 2126,
+  "generated_at": "2026-10-17T23:30:33.029Z",
+  "total_soundtracks": 2127,
   "games": [
     {
       "igdb_id": 7522,
@@ -1087,6 +1087,20 @@
         {
           "album_name": "Anno 2070 (Original Game Soundtrack) [Collector's Edition]",
           "spotify_url": "https://open.spotify.com/album/45wvyBpfoVt3gJ3NiR4Tx1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 106980,
+      "game_name": "Anno: Mutationem",
+      "game_url": "https://ostdb.net/games/anno-mutationem",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f569b32177c05d8c9e1db532",
+      "albums": [
+        {
+          "album_name": "ANNO: Mutationem (Original Game Soundtrack) [Complete Edition]",
+          "spotify_url": "https://open.spotify.com/album/6asgGskKHncdFM9e1lwHr7",
           "apple_music_url": "",
           "album_link_url": ""
         }
