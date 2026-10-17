@@ -5541,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordWhizzle Connect | 86799 | [86799-wordwhizzle-connect.json](./86799-wordwhizzle-connect.json) |
 | WordWhizzle Pop | 100692 | [100692-wordwhizzle-pop.json](./100692-wordwhizzle-pop.json) |
 | WordWhizzle Search | 52881 | [52881-wordwhizzle-search.json](./52881-wordwhizzle-search.json) |
+| Wordy Online | 391016 | [391016-wordy-online.json](./391016-wordy-online.json) |
 | WordyBuilder | 245972 | [245972-wordybuilder.json](./245972-wordybuilder.json) |
 | Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
@@ -6487,6 +6488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
+| Writer's Block | 391020 | [391020-writers-block.json](./391020-writers-block.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writers | 75105 | [75105-writers.json](./75105-writers.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
