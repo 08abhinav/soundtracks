@@ -7903,7 +7903,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
-| Coffee Talk | 106847 | [106847-coffee-talk.json](./106847-coffee-talk.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
 | Coffee Talk: Tokyo | 314928 | [314928-coffee-talk-tokyo.json](./314928-coffee-talk-tokyo.json) |
@@ -10701,7 +10700,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costume Curse | 326218 | [326218-costume-curse.json](./326218-costume-curse.json) |
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
-| Costume Quest | 5637 | [5637-costume-quest.json](./5637-costume-quest.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
 | Cosy Company Puzzle | 346686 | [346686-cosy-company-puzzle.json](./346686-cosy-company-puzzle.json) |
 | Cosy Housing | 391768 | [391768-cosy-housing.json](./391768-cosy-housing.json) |
