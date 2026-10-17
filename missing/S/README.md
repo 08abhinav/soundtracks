@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
+| Scrub Dudes | 390068 | [390068-scrub-dudes.json](./390068-scrub-dudes.json) |
 | Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
 | Scruffy 3: A Day in the Life | 265683 | [265683-scruffy-3-a-day-in-the-life.json](./265683-scruffy-3-a-day-in-the-life.json) |
@@ -3348,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
 | Sector | 35347 | [35347-sector.json](./35347-sector.json) |
 | Sector 01 | 177577 | [177577-sector-01.json](./177577-sector-01.json) |
+| Sector 13: Haunted Woods | 390056 | [390056-sector-13-haunted-woods.json](./390056-sector-13-haunted-woods.json) |
 | Sector 177 | 75200 | [75200-sector-177.json](./75200-sector-177.json) |
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
 | Sector 452 | 139330 | [139330-sector-452.json](./139330-sector-452.json) |
@@ -11338,6 +11340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | SokoFrog | 219593 | [219593-sokofrog.json](./219593-sokofrog.json) |
+| SokoGhost: Unfinished Business | 390021 | [390021-sokoghost-unfinished-business.json](./390021-sokoghost-unfinished-business.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
 | Sokoman | 66575 | [66575-sokoman.json](./66575-sokoman.json) |
@@ -14962,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
 | Spelldash | 197149 | [197149-spelldash.json](./197149-spelldash.json) |
 | Spellfall | 60072 | [60072-spellfall.json](./60072-spellfall.json) |
+| Spellfall: Last Mage Standing | 390025 | [390025-spellfall-last-mage-standing.json](./390025-spellfall-last-mage-standing.json) |
 | Spellfarers | 308580 | [308580-spellfarers.json](./308580-spellfarers.json) |
 | Spellfast | 70393 | [70393-spellfast.json](./70393-spellfast.json) |
 | Spellfire Odyssey | 239764 | [239764-spellfire-odyssey.json](./239764-spellfire-odyssey.json) |
