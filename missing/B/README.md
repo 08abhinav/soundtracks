@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Lost Place | 290543 | [290543-backrooms-lost-place.json](./290543-backrooms-lost-place.json) |
 | Backrooms: Maintenance | 308905 | [308905-backrooms-maintenance.json](./308905-backrooms-maintenance.json) |
 | Backrooms: Meg Archives | 292297 | [292297-backrooms-meg-archives.json](./292297-backrooms-meg-archives.json) |
+| Backrooms: Missing Persons | 374889 | [374889-backrooms-missing-persons.json](./374889-backrooms-missing-persons.json) |
 | Backrooms: Multiplayer Horror | 405440 | [405440-backrooms-multiplayer-horror.json](./405440-backrooms-multiplayer-horror.json) |
 | Backrooms: Multiverse | 409744 | [409744-backrooms-multiverse.json](./409744-backrooms-multiverse.json) |
 | Backrooms: No Escape | 389726 | [389726-backrooms-no-escape.json](./389726-backrooms-no-escape.json) |
