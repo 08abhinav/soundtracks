@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scared of Zombies | 371860 | [371860-scared-of-zombies.json](./371860-scared-of-zombies.json) |
 | Scared Rider Xechs + Stardust Lovers | 322811 | [322811-scared-rider-xechs-stardust-lovers.json](./322811-scared-rider-xechs-stardust-lovers.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
+| Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serin Fate | 118235 | [118235-serin-fate.json](./118235-serin-fate.json) |
 | Serious Breakdown | 191223 | [191223-serious-breakdown.json](./191223-serious-breakdown.json) |
 | Serious Carnage: Adrenaline Shooter | 403731 | [403731-serious-carnage-adrenaline-shooter.json](./403731-serious-carnage-adrenaline-shooter.json) |
+| Serious DOOM: 2016 | 364860 | [364860-serious-doom-2016.json](./364860-serious-doom-2016.json) |
 | Serious Fun Football | 156202 | [156202-serious-fun-football.json](./156202-serious-fun-football.json) |
 | Serious Metal Detecting | 28376 | [28376-serious-metal-detecting.json](./28376-serious-metal-detecting.json) |
 | Serious Office | 81950 | [81950-serious-office.json](./81950-serious-office.json) |
@@ -10239,6 +10241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smell of Death | 33470 | [33470-smell-of-death.json](./33470-smell-of-death.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
+| Smells Like Fear Blossoms | 364838 | [364838-smells-like-fear-blossoms.json](./364838-smells-like-fear-blossoms.json) |
 | Smells Like Grandma's | 271721 | [271721-smells-like-grandmas.json](./271721-smells-like-grandmas.json) |
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
@@ -11109,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Year 3 Pass | 230832 | [230832-snowrunner-year-3-pass.json](./230832-snowrunner-year-3-pass.json) |
 | SnowRunner: Year 4 Pass | 284961 | [284961-snowrunner-year-4-pass.json](./284961-snowrunner-year-4-pass.json) |
 | SnowRunner: Year 5 Pass | 397753 | [397753-snowrunner-year-5-pass.json](./397753-snowrunner-year-5-pass.json) |
+| Snowscape | 364868 | [364868-snowscape.json](./364868-snowscape.json) |
 | Snowscapes | 244145 | [244145-snowscapes.json](./244145-snowscapes.json) |
 | Snowsquall Grip | 302375 | [302375-snowsquall-grip.json](./302375-snowsquall-grip.json) |
 | Snowstorm | 405717 | [405717-snowstorm.json](./405717-snowstorm.json) |
@@ -21643,6 +21647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine & Overcast | 119595 | [119595-sunshine-and-overcast.json](./119595-sunshine-and-overcast.json) |
 | Sunshine Acres | 25002 | [25002-sunshine-acres.json](./25002-sunshine-acres.json) |
 | Sunshine Farm | 333005 | [333005-sunshine-farm.json](./333005-sunshine-farm.json) |
+| Sunshine Gravy: Fall | 364842 | [364842-sunshine-gravy-fall.json](./364842-sunshine-gravy-fall.json) |
 | Sunshine Heavy Industries | 146834 | [146834-sunshine-heavy-industries.json](./146834-sunshine-heavy-industries.json) |
 | Sunshine Island | 237647 | [237647-sunshine-island.json](./237647-sunshine-island.json) |
 | Sunshine Love | 342763 | [342763-sunshine-love.json](./342763-sunshine-love.json) |
