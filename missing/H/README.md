@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell-Hell | 206182 | [206182-hell-hell.json](./206182-hell-hell.json) |
 | Hell-IX | 110238 | [110238-hell-ix.json](./110238-hell-ix.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
+| Hell-Yeah Copter | 405955 | [405955-hell-yeah-copter.json](./405955-hell-yeah-copter.json) |
 | Hell, the Dungeon Again! | 96259 | [96259-hell-the-dungeon-again.json](./96259-hell-the-dungeon-again.json) |
 | Hell: A Cyberpunk Thriller | 4297 | [4297-hell-a-cyberpunk-thriller.json](./4297-hell-a-cyberpunk-thriller.json) |
 | Hell: Fight for Gilrand | 187781 | [187781-hell-fight-for-gilrand.json](./187781-hell-fight-for-gilrand.json) |
