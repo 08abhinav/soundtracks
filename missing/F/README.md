@@ -6484,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
+| Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
