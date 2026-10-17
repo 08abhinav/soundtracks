@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
+| Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
 | Perplexigon | 36827 | [36827-perplexigon.json](./36827-perplexigon.json) |
 | PerPuzzle | 105911 | [105911-perpuzzle.json](./105911-perpuzzle.json) |
@@ -6268,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
 | Pixicharm: Jack-O-Fall | 340525 | [340525-pixicharm-jack-o-fall.json](./340525-pixicharm-jack-o-fall.json) |
+| Pixicharm: Knightritious | 378493 | [378493-pixicharm-knightritious.json](./378493-pixicharm-knightritious.json) |
 | Pixicharm: Kunai Zone | 359336 | [359336-pixicharm-kunai-zone.json](./359336-pixicharm-kunai-zone.json) |
 | Pixicharm: Majestreats | 360046 | [360046-pixicharm-majestreats.json](./360046-pixicharm-majestreats.json) |
 | Pixicharm: Mariana Gold | 335081 | [335081-pixicharm-mariana-gold.json](./335081-pixicharm-mariana-gold.json) |
@@ -8175,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
+| Pokémon Tourmaline | 378601 | [378601-pokemon-tourmaline.json](./378601-pokemon-tourmaline.json) |
 | Pokémon Tower Battle | 254176 | [254176-pokemon-tower-battle.json](./254176-pokemon-tower-battle.json) |
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
