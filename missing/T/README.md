@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Templar Castle Builder | 152790 | [152790-templar-castle-builder.json](./152790-templar-castle-builder.json) |
 | TemplarGFX's Aliens Colonial Marines Overhaul | 340008 | [340008-templargfxs-aliens-colonial-marines-overhaul.json](./340008-templargfxs-aliens-colonial-marines-overhaul.json) |
 | Templars | 133833 | [133833-templars.json](./133833-templars.json) |
+| Template!!: An Angel’s Gift | 402844 | [402844-template-an-angel-s-gift.json](./402844-template-an-angel-s-gift.json) |
 | Temple and Secrets | 231773 | [231773-temple-and-secrets.json](./231773-temple-and-secrets.json) |
 | Temple Crawler | 276810 | [276810-temple-crawler.json](./276810-temple-crawler.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
@@ -13009,6 +13010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
+| The Undead Lawyer | 402843 | [402843-the-undead-lawyer.json](./402843-the-undead-lawyer.json) |
 | The Under | 75708 | [75708-the-under.json](./75708-the-under.json) |
 | The Under Presents | 132208 | [132208-the-under-presents.json](./132208-the-under-presents.json) |
 | The Underdog | 373013 | [373013-the-underdog.json](./373013-the-underdog.json) |
@@ -18939,6 +18941,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
 | Touhou Soccer | 128380 | [128380-touhou-soccer.json](./128380-touhou-soccer.json) |
 | Touhou Soccer Moushuuden | 128381 | [128381-touhou-soccer-moushuuden.json](./128381-touhou-soccer-moushuuden.json) |
+| Touhou Sorayumebako Gaiden: Konohana no Sorayume | 402841 | [402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json](./402841-touhou-sorayumebako-gaiden-konohana-no-sorayume.json) |
+| Touhou Sorayumebako: Gift from the Gods. | 402760 | [402760-touhou-sorayumebako-gift-from-the-gods.json](./402760-touhou-sorayumebako-gift-from-the-gods.json) |
 | Touhou Soujinengi V & Touhou Genso Maroku W Double Pack | 110845 | [110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json](./110845-touhou-soujinengi-v-and-touhou-genso-maroku-w-double-pack.json) |
 | Touhou Soujinengi V: The Genius of Sappheiros | 105121 | [105121-touhou-soujinengi-v-the-genius-of-sappheiros.json](./105121-touhou-soujinengi-v-the-genius-of-sappheiros.json) |
 | Touhou Soujinengi: The Genius of Sappheiros | 65194 | [65194-touhou-soujinengi-the-genius-of-sappheiros.json](./65194-touhou-soujinengi-the-genius-of-sappheiros.json) |
