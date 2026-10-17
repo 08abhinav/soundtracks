@@ -644,6 +644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
 | Offensive Dimensions | 75782 | [75782-offensive-dimensions.json](./75782-offensive-dimensions.json) |
 | OffiAtrix: Rise of the Team Leader | 332841 | [332841-offiatrix-rise-of-the-team-leader.json](./332841-offiatrix-rise-of-the-team-leader.json) |
+| Office Aberrations | 366543 | [366543-office-aberrations.json](./366543-office-aberrations.json) |
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omina Mortis | 36983 | [36983-omina-mortis.json](./36983-omina-mortis.json) |
 | Ominoflux | 336595 | [336595-ominoflux.json](./336595-ominoflux.json) |
 | Ominous | 273126 | [273126-ominous.json](./273126-ominous.json) |
+| Ominous | 366583 | [366583-ominous.json](./366583-ominous.json) |
 | Ominous Gift | 384252 | [384252-ominous-gift.json](./384252-ominous-gift.json) |
 | Ominous Horizons: A Paladin's Calling | 69877 | [69877-ominous-horizons-a-paladins-calling.json](./69877-ominous-horizons-a-paladins-calling.json) |
 | Ominous Neighbor | 95869 | [95869-ominous-neighbor.json](./95869-ominous-neighbor.json) |
@@ -2120,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
+| Oniria | 366610 | [366610-oniria.json](./366610-oniria.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
 | Onirica | 216347 | [216347-onirica.json](./216347-onirica.json) |
@@ -2492,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Gunship | 72585 | [72585-operation-gunship.json](./72585-operation-gunship.json) |
 | Operation H.O.P.E. | 392784 | [392784-operation-h-o-p-e.json](./392784-operation-h-o-p-e.json) |
 | Operation Hardcore | 22035 | [22035-operation-hardcore.json](./22035-operation-hardcore.json) |
+| Operation Highjump: The Fall of Berlin | 366619 | [366619-operation-highjump-the-fall-of-berlin.json](./366619-operation-highjump-the-fall-of-berlin.json) |
 | Operation Hongkong | 28698 | [28698-operation-hongkong.json](./28698-operation-hongkong.json) |
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
