@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are you, Cinderella? | 193305 | [193305-where-are-you-cinderella.json](./193305-where-are-you-cinderella.json) |
 | Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
+| Where Are You? | 373818 | [373818-where-are-you.json](./373818-where-are-you.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
 | Where Cats? | 275815 | [275815-where-cats.json](./275815-where-cats.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Magic Factory | 121389 | [121389-winter-magic-factory.json](./121389-winter-magic-factory.json) |
 | Winter Mahjong | 415978 | [415978-winter-mahjong.json](./415978-winter-mahjong.json) |
 | Winter Makes Me Lonely but at Least I Have You | 364378 | [364378-winter-makes-me-lonely-but-at-least-i-have-you.json](./364378-winter-makes-me-lonely-but-at-least-i-have-you.json) |
+| Winter Mercenary | 373812 | [373812-winter-mercenary.json](./373812-winter-mercenary.json) |
 | Winter Mosaics | 415908 | [415908-winter-mosaics.json](./415908-winter-mosaics.json) |
 | Winter Night | 287700 | [287700-winter-night.json](./287700-winter-night.json) |
 | Winter Night: Terrorist Strike | 224086 | [224086-winter-night-terrorist-strike.json](./224086-winter-night-terrorist-strike.json) |
