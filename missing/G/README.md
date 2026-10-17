@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Life Kuzushi | 366434 | [366434-game-of-life-kuzushi.json](./366434-game-of-life-kuzushi.json) |
 | Game of Life: Time | 292263 | [292263-game-of-life-time.json](./292263-game-of-life-time.json) |
 | Game of Mafia | 169415 | [169415-game-of-mafia.json](./169415-game-of-mafia.json) |
+| Game of Planets | 391569 | [391569-game-of-planets.json](./391569-game-of-planets.json) |
 | Game of Puzzles: Animals | 163428 | [163428-game-of-puzzles-animals.json](./163428-game-of-puzzles-animals.json) |
 | Game of Puzzles: Animals - Expansion Pack | 163429 | [163429-game-of-puzzles-animals-expansion-pack.json](./163429-game-of-puzzles-animals-expansion-pack.json) |
 | Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
@@ -2578,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
+| Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
 | Ghost and Joker: A thing to do for you | 255886 | [255886-ghost-and-joker-a-thing-to-do-for-you.json](./255886-ghost-and-joker-a-thing-to-do-for-you.json) |
 | Ghost Ascension | 290486 | [290486-ghost-ascension.json](./290486-ghost-ascension.json) |
 | Ghost Assassin: Stealth Strike | 320446 | [320446-ghost-assassin-stealth-strike.json](./320446-ghost-assassin-stealth-strike.json) |
@@ -7085,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Tales | 133433 | [133433-guardian-tales.json](./133433-guardian-tales.json) |
 | Guardian War | 4314 | [4314-guardian-war.json](./4314-guardian-war.json) |
 | Guardian war VR | 31604 | [31604-guardian-war-vr.json](./31604-guardian-war-vr.json) |
+| Guardian Zero | 391636 | [391636-guardian-zero.json](./391636-guardian-zero.json) |
 | Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
