@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die | 80713 | [80713-earn-to-die.json](./80713-earn-to-die.json) |
 | Earn to Die 2 | 26524 | [26524-earn-to-die-2.json](./26524-earn-to-die-2.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
+| Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
 | Ears and Burgers | 174295 | [174295-ears-and-burgers.json](./174295-ears-and-burgers.json) |
 | Ears of the Killer | 206957 | [206957-ears-of-the-killer.json](./206957-ears-of-the-killer.json) |
@@ -5282,6 +5283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
 | Exit 2: Directions | 43146 | [43146-exit-2-directions.json](./43146-exit-2-directions.json) |
 | Exit 3: Painter | 75497 | [75497-exit-3-painter.json](./75497-exit-3-painter.json) |
+| Exit 8 / Platform 8 | 404112 | [404112-exit-8-platform-8.json](./404112-exit-8-platform-8.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit DS | 21471 | [21471-exit-ds.json](./21471-exit-ds.json) |
 | Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
