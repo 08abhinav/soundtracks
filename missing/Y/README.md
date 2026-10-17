@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are a Torpedo AI | 75777 | [75777-you-are-a-torpedo-ai.json](./75777-you-are-a-torpedo-ai.json) |
 | You Are a Whale Part 1 | 151642 | [151642-you-are-a-whale-part-1.json](./151642-you-are-a-whale-part-1.json) |
 | You are an Ancient Chinese Poet in Exile | 326768 | [326768-you-are-an-ancient-chinese-poet-in-exile.json](./326768-you-are-an-ancient-chinese-poet-in-exile.json) |
+| You Are an Ancient Poet at the Neo-Orchid Pavilion | 367188 | [367188-you-are-an-ancient-poet-at-the-neo-orchid-pavilion.json](./367188-you-are-an-ancient-poet-at-the-neo-orchid-pavilion.json) |
 | You are Awake Now | 234716 | [234716-you-are-awake-now.json](./234716-you-are-awake-now.json) |
 | You Are Being Followed | 152293 | [152293-you-are-being-followed.json](./152293-you-are-being-followed.json) |
 | You Are Being Watched | 230764 | [230764-you-are-being-watched.json](./230764-you-are-being-watched.json) |
