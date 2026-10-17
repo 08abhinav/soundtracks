@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telluria: Forebodings Gear Minigame - Final Stage | 270881 | [270881-telluria-forebodings-gear-minigame-final-stage.json](./270881-telluria-forebodings-gear-minigame-final-stage.json) |
 | Tellurian Defense | 73555 | [73555-tellurian-defense.json](./73555-tellurian-defense.json) |
 | Telluricene | 393990 | [393990-telluricene.json](./393990-telluricene.json) |
+| Tellus: Echo of the Void | 392116 | [392116-tellus-echo-of-the-void.json](./392116-tellus-echo-of-the-void.json) |
 | Telly Addicts | 43213 | [43213-telly-addicts.json](./43213-telly-addicts.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
+| The Fruit | 392165 | [392165-the-fruit.json](./392165-the-fruit.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Games: Summer Edition | 47197 | [47197-the-games-summer-edition.json](./47197-the-games-summer-edition.json) |
 | The Games: Winter Challenge | 14434 | [14434-the-games-winter-challenge.json](./14434-the-games-winter-challenge.json) |
 | The Games: Winter Edition | 47196 | [47196-the-games-winter-edition.json](./47196-the-games-winter-edition.json) |
+| The Gaming Cafe | 392179 | [392179-the-gaming-cafe.json](./392179-the-gaming-cafe.json) |
 | The Gang | 284446 | [284446-the-gang.json](./284446-the-gang.json) |
 | The Gang Auto: VIP city | 100782 | [100782-the-gang-auto-vip-city.json](./100782-the-gang-auto-vip-city.json) |
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
@@ -16138,6 +16141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Tale | 412942 | [412942-tile-tale.json](./412942-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
+| Tile Trials | 392196 | [392196-tile-trials.json](./392196-tile-trials.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
 | Tile Typer | 81673 | [81673-tile-typer.json](./81673-tile-typer.json) |
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
@@ -16947,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
 | Titan Souls | 9559 | [9559-titan-souls.json](./9559-titan-souls.json) |
 | Titan Souls: Digital Special Edition | 53807 | [53807-titan-souls-digital-special-edition.json](./53807-titan-souls-digital-special-edition.json) |
+| Titan Star | 392112 | [392112-titan-star.json](./392112-titan-star.json) |
 | Titan Station | 217319 | [217319-titan-station.json](./217319-titan-station.json) |
 | Titan Station: VR | 276146 | [276146-titan-station-vr.json](./276146-titan-station-vr.json) |
 | Titan Survival | 267676 | [267676-titan-survival.json](./267676-titan-survival.json) |
@@ -17129,6 +17134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
 | To Have and to Hold | 260317 | [260317-to-have-and-to-hold.json](./260317-to-have-and-to-hold.json) |
+| To Heaven | 392107 | [392107-to-heaven.json](./392107-to-heaven.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -19847,6 +19853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail of Nanook | 216696 | [216696-trail-of-nanook.json](./216696-trail-of-nanook.json) |
 | Trail of Pigs | 184951 | [184951-trail-of-pigs.json](./184951-trail-of-pigs.json) |
 | Trail of Stars | 329966 | [329966-trail-of-stars.json](./329966-trail-of-stars.json) |
+| Trail of the Cryptid | 392197 | [392197-trail-of-the-cryptid.json](./392197-trail-of-the-cryptid.json) |
 | Trail of the Damned | 160222 | [160222-trail-of-the-damned.json](./160222-trail-of-the-damned.json) |
 | Trail of the Wretched | 280246 | [280246-trail-of-the-wretched.json](./280246-trail-of-the-wretched.json) |
 | Trail of Toads | 223166 | [223166-trail-of-toads.json](./223166-trail-of-toads.json) |
@@ -21284,6 +21291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Backrooms | 404793 | [404793-trapped-in-the-backrooms.json](./404793-trapped-in-the-backrooms.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
+| Trapped in the Omniverse | 392113 | [392113-trapped-in-the-omniverse.json](./392113-trapped-in-the-omniverse.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
