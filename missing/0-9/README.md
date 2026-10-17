@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
 | 2021: Moon Escape | 246869 | [246869-2021-moon-escape.json](./246869-2021-moon-escape.json) |
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
+| 2023: Alien Bugs Invade Earth | 367716 | [367716-2023-alien-bugs-invade-earth.json](./367716-2023-alien-bugs-invade-earth.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
 | 2025: Battle for Fatherland | 72917 | [72917-2025-battle-for-fatherland.json](./72917-2025-battle-for-fatherland.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
 | 3001 Pages: A fairy tale for 33 | 284275 | [284275-3001-pages-a-fairy-tale-for-33.json](./284275-3001-pages-a-fairy-tale-for-33.json) |
 | 3001: O'Connors Fight | 38853 | [38853-3001-oconnors-fight.json](./38853-3001-oconnors-fight.json) |
+| 300k: The Game | 367742 | [367742-300k-the-game.json](./367742-300k-the-game.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
