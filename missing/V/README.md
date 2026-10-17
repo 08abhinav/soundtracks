@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venari | 128434 | [128434-venari.json](./128434-venari.json) |
 | Venatio | 188073 | [188073-venatio.json](./188073-venatio.json) |
 | Venatrix | 267369 | [267369-venatrix.json](./267369-venatrix.json) |
+| Venba: Deluxe Edition | 380149 | [380149-venba-deluxe-edition.json](./380149-venba-deluxe-edition.json) |
 | Vendetta | 39526 | [39526-vendetta.json](./39526-vendetta.json) |
 | Vendetta | 91874 | [91874-vendetta.json](./91874-vendetta.json) |
 | Vendetta Forever | 313771 | [313771-vendetta-forever.json](./313771-vendetta-forever.json) |
