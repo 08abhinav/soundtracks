@@ -1518,6 +1518,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d860eca1a35c2273adb3afb" width="60" /> | [Tinykin](https://ostdb.net/games/tinykin) | **Tinykin (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7naJ6tOOyEls9jOdQQdgqu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e23b4eca6e885b7c1c4aa4b" width="60" /> | [Titanfall](https://ostdb.net/games/titanfall) | **Titanfall** · [Spotify](https://open.spotify.com/album/5jbYUxvdzAj6zpSp01o1J8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8b008615918e3da909a455e" width="60" /> | [Titanfall 2](https://ostdb.net/games/titanfall-2) | **Titanfall 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6obLTHdJ6Dt2fubk4iP9QB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b8d90b994b5092f4e7885511" width="60" /> | [Toki Tori](https://ostdb.net/games/toki-tori) | **Toki Tori (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6aXq1fQLDUye94PoOflcsW) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/ed/40/2f/ed402f87-cc94-c5db-a159-0ffd8ffe63a1/3663729096258_cover.jpg/600x600bb.jpg" width="60" /> | [Tom Clancy's Ghost Recon: Breakpoint](https://ostdb.net/games/tom-clancys-ghost-recon-breakpoint) | **Karma Police (Tom Clancy's Ghost Recon Breakpoint Game: Announce Trailer Cover Song) - Single** · [Spotify](https://music.apple.com/us/album/karma-police-tom-clancys-ghost-recon-breakpoint-game/1475648408?uo=4) · [Album](https://album.link/i/1475648408)<br>**Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tom-clancys-ghost-recon-breakpoint-original-game-soundtrack/1593869909?uo=4) · [Album](https://album.link/i/1593869909) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c4055a11bad70099e805af05" width="60" /> | [Tom Clancy's Ghost Recon: Wildlands](https://ostdb.net/games/tom-clancys-ghost-recon-wildlands) | **Tom Clancy's Ghost Recon Wildlands (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/070T6VGF62h9yxjyZpBBAe) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27323af14953accb8483d6e3fd1" width="60" /> | [Tom Clancy's Splinter Cell: Conviction](https://ostdb.net/games/tom-clancys-splinter-cell-conviction) | **Tom Clancy's Splinter Cell Conviction (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5QwO3vHUx9DvFPywMXV8nG) |
@@ -1722,4 +1723,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2039 soundtracks · last updated 2026-10-17T15:06:00.449Z_
+_2040 soundtracks · last updated 2026-10-17T15:06:08.780Z_
