@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
 | A Tale of Synapse: The Chaos Theories - Collector's Edition | 152341 | [152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json](./152341-a-tale-of-synapse-the-chaos-theories-collectors-edition.json) |
+| A Tale of Two Flowers | 380229 | [380229-a-tale-of-two-flowers.json](./380229-a-tale-of-two-flowers.json) |
 | A Tale of Two Kingdoms | 29264 | [29264-a-tale-of-two-kingdoms.json](./29264-a-tale-of-two-kingdoms.json) |
 | A Tale of Two Lovers | 271116 | [271116-a-tale-of-two-lovers.json](./271116-a-tale-of-two-lovers.json) |
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
