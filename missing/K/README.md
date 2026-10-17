@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Your Friends | 407298 | [407298-kill-your-friends.json](./407298-kill-your-friends.json) |
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
+| Kill Ze Bugs | 363688 | [363688-kill-ze-bugs.json](./363688-kill-ze-bugs.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
 | Kill.Switch | 5881 | [5881-kill-switch.json](./5881-kill-switch.json) |
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
