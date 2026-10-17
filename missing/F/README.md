@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiore I: Daffodil | 153918 | [153918-fiore-i-daffodil.json](./153918-fiore-i-daffodil.json) |
 | Fir Flowers and Hyacinths | 369636 | [369636-fir-flowers-and-hyacinths.json](./369636-fir-flowers-and-hyacinths.json) |
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
+| Firby | 400101 | [400101-firby.json](./400101-firby.json) |
 | Fire | 10321 | [10321-fire.json](./10321-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
@@ -9373,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeral Song for the Elemental Lords | 313260 | [313260-funeral-song-for-the-elemental-lords.json](./313260-funeral-song-for-the-elemental-lords.json) |
 | Funeral Toll | 272837 | [272837-funeral-toll.json](./272837-funeral-toll.json) |
 | Funeralopolis: Last Days | 317500 | [317500-funeralopolis-last-days.json](./317500-funeralopolis-last-days.json) |
+| Funerama | 400090 | [400090-funerama.json](./400090-funerama.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
