@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T22:04:03.423Z",
-  "total_missing": 225499,
+  "generated_at": "2026-10-17T22:18:09.518Z",
+  "total_missing": 225549,
   "games": [
     {
       "igdb_id": 191680,
@@ -37335,6 +37335,11 @@
       "igdb_id": 68216,
       "game_name": "All Our Asias",
       "file": "missing/A/68216-all-our-asias.json"
+    },
+    {
+      "igdb_id": 366025,
+      "game_name": "All Our Broken Parts",
+      "file": "missing/A/366025-all-our-broken-parts.json"
     },
     {
       "igdb_id": 58034,
@@ -331027,6 +331032,11 @@
       "file": "missing/F/403-final-fantasy-legend-ii.json"
     },
     {
+      "igdb_id": 366027,
+      "game_name": "Final Fantasy Legend III DX",
+      "file": "missing/F/366027-final-fantasy-legend-iii-dx.json"
+    },
+    {
       "igdb_id": 60600,
       "game_name": "Final Fantasy Legends: Toki no Suisho",
       "file": "missing/F/60600-final-fantasy-legends-toki-no-suisho.json"
@@ -336762,9 +336772,164 @@
       "file": "missing/F/25744-fishing-paradise-3d.json"
     },
     {
+      "igdb_id": 366005,
+      "game_name": "Fishing Planet Anniversary Pack",
+      "file": "missing/F/366005-fishing-planet-anniversary-pack.json"
+    },
+    {
+      "igdb_id": 366001,
+      "game_name": "Fishing Planet Boat Series Pack",
+      "file": "missing/F/366001-fishing-planet-boat-series-pack.json"
+    },
+    {
+      "igdb_id": 365993,
+      "game_name": "Fishing Planet: Advanced Pack",
+      "file": "missing/F/365993-fishing-planet-advanced-pack.json"
+    },
+    {
+      "igdb_id": 365995,
+      "game_name": "Fishing Planet: Amazon Carnival Pack",
+      "file": "missing/F/365995-fishing-planet-amazon-carnival-pack.json"
+    },
+    {
+      "igdb_id": 365982,
+      "game_name": "Fishing Planet: Atoll Scout Pack",
+      "file": "missing/F/365982-fishing-planet-atoll-scout-pack.json"
+    },
+    {
+      "igdb_id": 366004,
+      "game_name": "Fishing Planet: BassBoat Explorer Pack",
+      "file": "missing/F/366004-fishing-planet-bassboat-explorer-pack.json"
+    },
+    {
+      "igdb_id": 365988,
+      "game_name": "Fishing Planet: Bottom Pack",
+      "file": "missing/F/365988-fishing-planet-bottom-pack.json"
+    },
+    {
+      "igdb_id": 365996,
+      "game_name": "Fishing Planet: Bream Feeder Frenzy Pack",
+      "file": "missing/F/365996-fishing-planet-bream-feeder-frenzy-pack.json"
+    },
+    {
+      "igdb_id": 366019,
+      "game_name": "Fishing Planet: Carp Lord Pack",
+      "file": "missing/F/366019-fishing-planet-carp-lord-pack.json"
+    },
+    {
+      "igdb_id": 365987,
+      "game_name": "Fishing Planet: Carp Pro Pack",
+      "file": "missing/F/365987-fishing-planet-carp-pro-pack.json"
+    },
+    {
+      "igdb_id": 365981,
+      "game_name": "Fishing Planet: Chamaeleon Cruiser Pack",
+      "file": "missing/F/365981-fishing-planet-chamaeleon-cruiser-pack.json"
+    },
+    {
+      "igdb_id": 366014,
+      "game_name": "Fishing Planet: Christmas Giant's Pack",
+      "file": "missing/F/366014-fishing-planet-christmas-giants-pack.json"
+    },
+    {
+      "igdb_id": 366010,
+      "game_name": "Fishing Planet: Congo Discovery Pack",
+      "file": "missing/F/366010-fishing-planet-congo-discovery-pack.json"
+    },
+    {
+      "igdb_id": 365986,
+      "game_name": "Fishing Planet: Daredevil Boat Pack",
+      "file": "missing/F/365986-fishing-planet-daredevil-boat-pack.json"
+    },
+    {
+      "igdb_id": 365985,
+      "game_name": "Fishing Planet: Dnipro Delta Pack",
+      "file": "missing/F/365985-fishing-planet-dnipro-delta-pack.json"
+    },
+    {
+      "igdb_id": 366003,
+      "game_name": "Fishing Planet: Feeder Dream Pack",
+      "file": "missing/F/366003-fishing-planet-feeder-dream-pack.json"
+    },
+    {
+      "igdb_id": 365983,
+      "game_name": "Fishing Planet: Golden Angler Pack",
+      "file": "missing/F/365983-fishing-planet-golden-angler-pack.json"
+    },
+    {
+      "igdb_id": 365984,
+      "game_name": "Fishing Planet: Green Fortune Event Pack",
+      "file": "missing/F/365984-fishing-planet-green-fortune-event-pack.json"
+    },
+    {
+      "igdb_id": 366015,
+      "game_name": "Fishing Planet: Happy 4th of July Pack!",
+      "file": "missing/F/366015-fishing-planet-happy-4th-of-july-pack.json"
+    },
+    {
+      "igdb_id": 365997,
+      "game_name": "Fishing Planet: Kayaks Adventure Pack",
+      "file": "missing/F/365997-fishing-planet-kayaks-adventure-pack.json"
+    },
+    {
+      "igdb_id": 366002,
+      "game_name": "Fishing Planet: Krampus Catcher Pack",
+      "file": "missing/F/366002-fishing-planet-krampus-catcher-pack.json"
+    },
+    {
+      "igdb_id": 366013,
+      "game_name": "Fishing Planet: Live Bait Fiesta Pack",
+      "file": "missing/F/366013-fishing-planet-live-bait-fiesta-pack.json"
+    },
+    {
       "igdb_id": 118865,
       "game_name": "Fishing Planet: Lucky Start Bundle",
       "file": "missing/F/118865-fishing-planet-lucky-start-bundle.json"
+    },
+    {
+      "igdb_id": 366007,
+      "game_name": "Fishing Planet: Rainforest Journey Pack",
+      "file": "missing/F/366007-fishing-planet-rainforest-journey-pack.json"
+    },
+    {
+      "igdb_id": 365990,
+      "game_name": "Fishing Planet: Sailor Collection Pack",
+      "file": "missing/F/365990-fishing-planet-sailor-collection-pack.json"
+    },
+    {
+      "igdb_id": 366012,
+      "game_name": "Fishing Planet: Saltwater Match Pack",
+      "file": "missing/F/366012-fishing-planet-saltwater-match-pack.json"
+    },
+    {
+      "igdb_id": 366008,
+      "game_name": "Fishing Planet: Santa's Kayak Pack",
+      "file": "missing/F/366008-fishing-planet-santas-kayak-pack.json"
+    },
+    {
+      "igdb_id": 365994,
+      "game_name": "Fishing Planet: Sport Bottom Pack",
+      "file": "missing/F/365994-fishing-planet-sport-bottom-pack.json"
+    },
+    {
+      "igdb_id": 366017,
+      "game_name": "Fishing Planet: Sport Carp Pack",
+      "file": "missing/F/366017-fishing-planet-sport-carp-pack.json"
+    },
+    {
+      "igdb_id": 366018,
+      "game_name": "Fishing Planet: Sport Casting Bass Pack",
+      "file": "missing/F/366018-fishing-planet-sport-casting-bass-pack.json"
+    },
+    {
+      "igdb_id": 366016,
+      "game_name": "Fishing Planet: Sport Feeder Pack",
+      "file": "missing/F/366016-fishing-planet-sport-feeder-pack.json"
+    },
+    {
+      "igdb_id": 366011,
+      "game_name": "Fishing Planet: Sport Float Pack",
+      "file": "missing/F/366011-fishing-planet-sport-float-pack.json"
     },
     {
       "igdb_id": 292673,
@@ -336772,9 +336937,39 @@
       "file": "missing/F/292673-fishing-planet-sport-kayak-pack.json"
     },
     {
+      "igdb_id": 365999,
+      "game_name": "Fishing Planet: Sport Topwater Night Pack",
+      "file": "missing/F/365999-fishing-planet-sport-topwater-night-pack.json"
+    },
+    {
+      "igdb_id": 365989,
+      "game_name": "Fishing Planet: Supernatural Explorer Pack",
+      "file": "missing/F/365989-fishing-planet-supernatural-explorer-pack.json"
+    },
+    {
+      "igdb_id": 366006,
+      "game_name": "Fishing Planet: Taimen Khan Pack",
+      "file": "missing/F/366006-fishing-planet-taimen-khan-pack.json"
+    },
+    {
       "igdb_id": 277352,
       "game_name": "Fishing Planet: Thanksgiving Cornucopia Pack",
       "file": "missing/F/277352-fishing-planet-thanksgiving-cornucopia-pack.json"
+    },
+    {
+      "igdb_id": 366000,
+      "game_name": "Fishing Planet: Tropic Hunter Pack",
+      "file": "missing/F/366000-fishing-planet-tropic-hunter-pack.json"
+    },
+    {
+      "igdb_id": 365998,
+      "game_name": "Fishing Planet: Ultimate Sport Bundle",
+      "file": "missing/F/365998-fishing-planet-ultimate-sport-bundle.json"
+    },
+    {
+      "igdb_id": 366009,
+      "game_name": "Fishing Planet: World Cats Cup Pack",
+      "file": "missing/F/366009-fishing-planet-world-cats-cup-pack.json"
     },
     {
       "igdb_id": 346157,
@@ -497802,6 +497997,11 @@
       "file": "missing/K/270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json"
     },
     {
+      "igdb_id": 366021,
+      "game_name": "Kikai Shushi: MachinE SeeD",
+      "file": "missing/K/366021-kikai-shushi-machine-seed.json"
+    },
+    {
       "igdb_id": 261221,
       "game_name": "Kikai: The Silent Cat",
       "file": "missing/K/261221-kikai-the-silent-cat.json"
@@ -625250,6 +625450,11 @@
       "igdb_id": 201817,
       "game_name": "Mystery Trackers: Raincliff's Phantoms & Mystery Trackers: Blackrow's Secret",
       "file": "missing/M/201817-mystery-trackers-raincliffs-phantoms-and-mystery-trackers-blackrows-secret.json"
+    },
+    {
+      "igdb_id": 366024,
+      "game_name": "Mystery Trackers: Reflections of the Past - Collector's Edition",
+      "file": "missing/M/366024-mystery-trackers-reflections-of-the-past-collectors-edition.json"
     },
     {
       "igdb_id": 22110,
@@ -922437,6 +922642,11 @@
       "file": "missing/S/192979-synco-2321.json"
     },
     {
+      "igdb_id": 366028,
+      "game_name": "Synco Path: Automaton Prison",
+      "file": "missing/S/366028-synco-path-automaton-prison.json"
+    },
+    {
       "igdb_id": 189041,
       "game_name": "Syncope",
       "file": "missing/S/189041-syncope.json"
@@ -1079377,6 +1079587,11 @@
       "file": "missing/W/211104-warped-times.json"
     },
     {
+      "igdb_id": 366030,
+      "game_name": "Warped Universe",
+      "file": "missing/W/366030-warped-universe.json"
+    },
+    {
       "igdb_id": 364554,
       "game_name": "Warpfire",
       "file": "missing/W/364554-warpfire.json"
@@ -1083445,6 +1083660,11 @@
       "igdb_id": 236272,
       "game_name": "Web or Dead",
       "file": "missing/W/236272-web-or-dead.json"
+    },
+    {
+      "igdb_id": 366029,
+      "game_name": "Web Phantom Brave",
+      "file": "missing/W/366029-web-phantom-brave.json"
     },
     {
       "igdb_id": 228983,
@@ -1111105,6 +1111325,36 @@
       "igdb_id": 64868,
       "game_name": "Yakouchuu II: Satsujin Kouro",
       "file": "missing/Y/64868-yakouchuu-ii-satsujin-kouro.json"
+    },
+    {
+      "igdb_id": 365991,
+      "game_name": "Yakouga 3",
+      "file": "missing/Y/365991-yakouga-3.json"
+    },
+    {
+      "igdb_id": 365992,
+      "game_name": "Yakouga 4",
+      "file": "missing/Y/365992-yakouga-4.json"
+    },
+    {
+      "igdb_id": 366020,
+      "game_name": "Yakouga 5",
+      "file": "missing/Y/366020-yakouga-5.json"
+    },
+    {
+      "igdb_id": 366022,
+      "game_name": "Yakouga 6",
+      "file": "missing/Y/366022-yakouga-6.json"
+    },
+    {
+      "igdb_id": 366023,
+      "game_name": "Yakouga 7",
+      "file": "missing/Y/366023-yakouga-7.json"
+    },
+    {
+      "igdb_id": 366026,
+      "game_name": "Yakouga 8",
+      "file": "missing/Y/366026-yakouga-8.json"
     },
     {
       "igdb_id": 386326,
