@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Ft. 10 Pak: Volume Two | 401080 | [401080-5-ft-10-pak-volume-two.json](./401080-5-ft-10-pak-volume-two.json) |
 | 5 Golden Skulls | 377390 | [377390-5-golden-skulls.json](./377390-5-golden-skulls.json) |
 | 5 in 1 Arcade Hits | 42763 | [42763-5-in-1-arcade-hits.json](./42763-5-in-1-arcade-hits.json) |
+| 5 in 1 Classics: Fashion Bubble Mania | 400057 | [400057-5-in-1-classics-fashion-bubble-mania.json](./400057-5-in-1-classics-fashion-bubble-mania.json) |
 | 5 in 1 FunPak | 282490 | [282490-5-in-1-funpak.json](./282490-5-in-1-funpak.json) |
 | 5 in 1 Mahjong | 79874 | [79874-5-in-1-mahjong.json](./79874-5-in-1-mahjong.json) |
 | 5 in 1 Solitaire | 51053 | [51053-5-in-1-solitaire.json](./51053-5-in-1-solitaire.json) |
