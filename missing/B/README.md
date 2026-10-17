@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
 | Bakery Story | 39198 | [39198-bakery-story.json](./39198-bakery-story.json) |
 | Bakery Story 2 | 349297 | [349297-bakery-story-2.json](./349297-bakery-story-2.json) |
+| BakeryDiary | 391624 | [391624-bakerydiary.json](./391624-bakerydiary.json) |
 | Baki Hanma: Blood Arena | 337462 | [337462-baki-hanma-blood-arena.json](./337462-baki-hanma-blood-arena.json) |
 | Baki the Grappler: Ultimate Championship | 44109 | [44109-baki-the-grappler-ultimate-championship.json](./44109-baki-the-grappler-ultimate-championship.json) |
 | Baking Bad | 372028 | [372028-baking-bad.json](./372028-baking-bad.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
 | Black Abyss Zero | 421362 | [421362-black-abyss-zero.json](./421362-black-abyss-zero.json) |
 | Black Ace | 191067 | [191067-black-ace.json](./191067-black-ace.json) |
+| Black Arhat: Wujing | 391644 | [391644-black-arhat-wujing.json](./391644-black-arhat-wujing.json) |
 | Black Armor: Battle For Survivors | 326173 | [326173-black-armor-battle-for-survivors.json](./326173-black-armor-battle-for-survivors.json) |
 | Black Astral | 201317 | [201317-black-astral.json](./201317-black-astral.json) |
 | Black Baby | 139292 | [139292-black-baby.json](./139292-black-baby.json) |
@@ -6321,6 +6323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Ink | 199495 | [199495-black-ink.json](./199495-black-ink.json) |
 | Black Jack | 246377 | [246377-black-jack.json](./246377-black-jack.json) |
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
+| Black Jack | 391650 | [391650-black-jack.json](./391650-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
@@ -8296,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
+| Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
@@ -12009,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Looper | 180051 | [180051-bullet-looper.json](./180051-bullet-looper.json) |
 | Bullet Maniac | 237629 | [237629-bullet-maniac.json](./237629-bullet-maniac.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
+| Bullet Ouroboros | 391646 | [391646-bullet-ouroboros.json](./391646-bullet-ouroboros.json) |
 | Bullet Priest | 219732 | [219732-bullet-priest.json](./219732-bullet-priest.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
@@ -12314,6 +12319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burden of Truth | 306714 | [306714-burden-of-truth.json](./306714-burden-of-truth.json) |
 | Burden RPG | 388403 | [388403-burden-rpg.json](./388403-burden-rpg.json) |
 | Burden Street Station | 347812 | [347812-burden-street-station.json](./347812-burden-street-station.json) |
+| Burdenfall | 391664 | [391664-burdenfall.json](./391664-burdenfall.json) |
 | Burder | 250853 | [250853-burder.json](./250853-burder.json) |
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
