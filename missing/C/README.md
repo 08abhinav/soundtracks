@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Captor Sakura: Sakura Card-hen - Sakura Card to Tomodachi | 49518 | [49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json](./49518-card-captor-sakura-sakura-card-hen-sakura-card-to-tomodachi.json) |
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
+| Card City Nights Forever | 407880 | [407880-card-city-nights-forever.json](./407880-card-city-nights-forever.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
 | Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
@@ -1579,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
+| Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
 | Card Nova Hyper | 236193 | [236193-card-nova-hyper.json](./236193-card-nova-hyper.json) |
 | Card of Darkness | 122759 | [122759-card-of-darkness.json](./122759-card-of-darkness.json) |
 | Card Party | 49520 | [49520-card-party.json](./49520-card-party.json) |
@@ -1817,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cario | 220341 | [220341-cario.json](./220341-cario.json) |
 | Carious Weltling | 354450 | [354450-carious-weltling.json](./354450-carious-weltling.json) |
 | Carious Weltling II | 111553 | [111553-carious-weltling-ii.json](./111553-carious-weltling-ii.json) |
+| Carist | 407896 | [407896-carist.json](./407896-carist.json) |
 | CarJacker: Hotwired and Gone! | 66365 | [66365-carjacker-hotwired-and-gone.json](./66365-carjacker-hotwired-and-gone.json) |
 | Carl | 176233 | [176233-carl.json](./176233-carl.json) |
 | Carl Currency, Expert Exchanger | 229345 | [229345-carl-currency-expert-exchanger.json](./229345-carl-currency-expert-exchanger.json) |
@@ -2947,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Vandal | 298278 | [298278-catch-the-vandal.json](./298278-catch-the-vandal.json) |
 | Catch the Wally - Hide & Seek | 108247 | [108247-catch-the-wally-hide-and-seek.json](./108247-catch-the-wally-hide-and-seek.json) |
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
+| Catch Them All! | 407882 | [407882-catch-them-all.json](./407882-catch-them-all.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
@@ -4117,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charem of Metropolitan | 236909 | [236909-charem-of-metropolitan.json](./236909-charem-of-metropolitan.json) |
 | Charge | 120992 | [120992-charge.json](./120992-charge.json) |
 | Charge 'n Blast | 45822 | [45822-charge-n-blast.json](./45822-charge-n-blast.json) |
+| Charge 'N Zap! | 407871 | [407871-charge-n-zap.json](./407871-charge-n-zap.json) |
 | Charge Blade Hero | 158642 | [158642-charge-blade-hero.json](./158642-charge-blade-hero.json) |
 | Charge Champs | 172086 | [172086-charge-champs.json](./172086-charge-champs.json) |
 | Charge Cycles | 183976 | [183976-charge-cycles.json](./183976-charge-cycles.json) |
@@ -11024,6 +11029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabby Adventure | 66953 | [66953-crabby-adventure.json](./66953-crabby-adventure.json) |
 | Crabby Beach | 191830 | [191830-crabby-beach.json](./191830-crabby-beach.json) |
 | Crabby Fishes | 335367 | [335367-crabby-fishes.json](./335367-crabby-fishes.json) |
+| Crabgrass | 407860 | [407860-crabgrass.json](./407860-crabgrass.json) |
 | Crabitron | 22162 | [22162-crabitron.json](./22162-crabitron.json) |
 | Crabity | 301807 | [301807-crabity.json](./301807-crabity.json) |
 | Crabland | 290998 | [290998-crabland.json](./290998-crabland.json) |
