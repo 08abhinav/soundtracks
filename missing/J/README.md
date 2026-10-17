@@ -216,6 +216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jade Guardian | 310186 | [310186-jade-guardian.json](./310186-jade-guardian.json) |
 | Jade Konoichi: Butterfly Legend | 97277 | [97277-jade-konoichi-butterfly-legend.json](./97277-jade-konoichi-butterfly-legend.json) |
 | Jade Legends: Immortal Realm | 304214 | [304214-jade-legends-immortal-realm.json](./304214-jade-legends-immortal-realm.json) |
+| Jade Shadows: Constellations | 408525 | [408525-jade-shadows-constellations.json](./408525-jade-shadows-constellations.json) |
 | Jade Spring | 349863 | [349863-jade-spring.json](./349863-jade-spring.json) |
 | Jade Wolf | 197899 | [197899-jade-wolf.json](./197899-jade-wolf.json) |
 | Jade Wolf 2 | 197900 | [197900-jade-wolf-2.json](./197900-jade-wolf-2.json) |
@@ -1374,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Realms: Villages | 386370 | [386370-jigsaw-realms-villages.json](./386370-jigsaw-realms-villages.json) |
 | Jigsaw Rogue | 355182 | [355182-jigsaw-rogue.json](./355182-jigsaw-rogue.json) |
 | Jigsaw Royal Princess | 295684 | [295684-jigsaw-royal-princess.json](./295684-jigsaw-royal-princess.json) |
+| Jigsaw Savant | 408547 | [408547-jigsaw-savant.json](./408547-jigsaw-savant.json) |
 | Jigsaw Swimsuit | 326186 | [326186-jigsaw-swimsuit.json](./326186-jigsaw-swimsuit.json) |
 | Jigsaw Tetra | 147981 | [147981-jigsaw-tetra.json](./147981-jigsaw-tetra.json) |
 | Jigsaw Tile | 243736 | [243736-jigsaw-tile.json](./243736-jigsaw-tile.json) |
