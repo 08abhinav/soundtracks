@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro | 184279 | [184279-maestro.json](./184279-maestro.json) |
 | Maestro | 306924 | [306924-maestro.json](./306924-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
+| Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
@@ -2251,6 +2252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantis Burn Racing: Battle Cars | 170307 | [170307-mantis-burn-racing-battle-cars.json](./170307-mantis-burn-racing-battle-cars.json) |
 | Mantis Burn Racing: Elite Class | 170305 | [170305-mantis-burn-racing-elite-class.json](./170305-mantis-burn-racing-elite-class.json) |
 | Mantis Burn Racing: Snowbound Pack | 170306 | [170306-mantis-burn-racing-snowbound-pack.json](./170306-mantis-burn-racing-snowbound-pack.json) |
+| Mantis Clicker | 414787 | [414787-mantis-clicker.json](./414787-mantis-clicker.json) |
 | Mantle Crater | 386429 | [386429-mantle-crater.json](./386429-mantle-crater.json) |
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
@@ -7231,6 +7233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mibibli's Quest | 33229 | [33229-mibiblis-quest.json](./33229-mibiblis-quest.json) |
 | Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita | 82972 | [82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json](./82972-miboujin-nikki-akogare-no-ano-hito-to-hitotsu-yane-no-shita.json) |
 | Miburi and Teburi | 230271 | [230271-miburi-and-teburi.json](./230271-miburi-and-teburi.json) |
+| Mica King | 414749 | [414749-mica-king.json](./414749-mica-king.json) |
 | Mica: Apoptosis | 177515 | [177515-mica-apoptosis.json](./177515-mica-apoptosis.json) |
 | Mice Tea | 223528 | [223528-mice-tea.json](./223528-mice-tea.json) |
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
@@ -13531,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse: Night Out | 149399 | [149399-muse-night-out.json](./149399-muse-night-out.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
+| Museologist: Tidy Up the Museum! | 414758 | [414758-museologist-tidy-up-the-museum.json](./414758-museologist-tidy-up-the-museum.json) |
 | Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
@@ -14625,6 +14629,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
 | My Singing Monsters Composer | 99181 | [99181-my-singing-monsters-composer.json](./99181-my-singing-monsters-composer.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
+| My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
+| My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
