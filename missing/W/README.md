@@ -3125,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash - Crash Valley | 30652 | [30652-whiplash-crash-valley.json](./30652-whiplash-crash-valley.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
+| Whippet At Large | 395728 | [395728-whippet-at-large.json](./395728-whippet-at-large.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
 | Whirl Tour | 4233 | [4233-whirl-tour.json](./4233-whirl-tour.json) |
@@ -6427,6 +6428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
 | Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
+| Wreckless Roger | 395820 | [395820-wreckless-roger.json](./395820-wreckless-roger.json) |
 | Wreckless: The Yakuza Missions | 4568 | [4568-wreckless-the-yakuza-missions.json](./4568-wreckless-the-yakuza-missions.json) |
 | Wreckman | 268516 | [268516-wreckman.json](./268516-wreckman.json) |
 | Wreckout | 123576 | [123576-wreckout.json](./123576-wreckout.json) |
