@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirikou | 220785 | [220785-kirikou.json](./220785-kirikou.json) |
 | Kirikou | 50028 | [50028-kirikou.json](./50028-kirikou.json) |
 | Kirilma: Helix Horizon | 406847 | [406847-kirilma-helix-horizon.json](./406847-kirilma-helix-horizon.json) |
+| Kirisame Escape | 377363 | [377363-kirisame-escape.json](./377363-kirisame-escape.json) |
 | Kiritan Island Okawari! | 204731 | [204731-kiritan-island-okawari.json](./204731-kiritan-island-okawari.json) |
 | Kiritan Thruster | 351761 | [351761-kiritan-thruster.json](./351761-kiritan-thruster.json) |
 | Kiritan vs. Kanitan: Zunda-mochi Defense! | 114869 | [114869-kiritan-vs-kanitan-zunda-mochi-defense.json](./114869-kiritan-vs-kanitan-zunda-mochi-defense.json) |
@@ -3970,6 +3971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koufuku wo Yobu Game: Dora Dora Dora | 48789 | [48789-koufuku-wo-yobu-game-dora-dora-dora.json](./48789-koufuku-wo-yobu-game-dora-dora-dora.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
+| Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
 | Koumajou Densetsu: Scarlet Symphony | 65765 | [65765-koumajou-densetsu-scarlet-symphony.json](./65765-koumajou-densetsu-scarlet-symphony.json) |
 | Koumajou Remilia Ⅱ: Stranger's Requiem | 79973 | [79973-koumajou-remilia-ii-strangers-requiem.json](./79973-koumajou-remilia-ii-strangers-requiem.json) |
 | Kounai Shasei Vol.1: Yonimo H na Monogatari | 248107 | [248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json](./248107-kounai-shasei-vol-1-yonimo-h-na-monogatari.json) |
