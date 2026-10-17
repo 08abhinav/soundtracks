@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
 | Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
+| Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
 | Terra Ventura | 154074 | [154074-terra-ventura.json](./154074-terra-ventura.json) |
 | Terra: Battle for the Outland | 145949 | [145949-terra-battle-for-the-outland.json](./145949-terra-battle-for-the-outland.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Attic's a Dungeon ?! | 176431 | [176431-the-attics-a-dungeon.json](./176431-the-attics-a-dungeon.json) |
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
+| The Aurora Chronicles | 383203 | [383203-the-aurora-chronicles.json](./383203-the-aurora-chronicles.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
 | The Automatician | 51504 | [51504-the-automatician.json](./51504-the-automatician.json) |
@@ -6958,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fox Awaits Me Hana | 265642 | [265642-the-fox-awaits-me-hana.json](./265642-the-fox-awaits-me-hana.json) |
 | The Fox Awaits Me: Limited Edition | 188644 | [188644-the-fox-awaits-me-limited-edition.json](./188644-the-fox-awaits-me-limited-edition.json) |
 | The Fox of Capistrano | 407404 | [407404-the-fox-of-capistrano.json](./407404-the-fox-of-capistrano.json) |
+| The Fox's Dream | 383162 | [383162-the-foxs-dream.json](./383162-the-foxs-dream.json) |
 | The Fox's Way Home | 308875 | [308875-the-foxs-way-home.json](./308875-the-foxs-way-home.json) |
 | The Foxglove Catcher | 229755 | [229755-the-foxglove-catcher.json](./229755-the-foxglove-catcher.json) |
 | The Fractured Shimmer | 328688 | [328688-the-fractured-shimmer.json](./328688-the-fractured-shimmer.json) |
@@ -10479,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
+| The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
 | The Palace of Unrest | 231404 | [231404-the-palace-of-unrest.json](./231404-the-palace-of-unrest.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
@@ -11050,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
+| The Reincarnation | 383107 | [383107-the-reincarnation.json](./383107-the-reincarnation.json) |
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
 | The Remainder: Act 1 | 170855 | [170855-the-remainder-act-1.json](./170855-the-remainder-act-1.json) |
@@ -23545,6 +23550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
+| Twins of the Sun: Arena of Heroes | 383094 | [383094-twins-of-the-sun-arena-of-heroes.json](./383094-twins-of-the-sun-arena-of-heroes.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twinsanity: Omicron | 177374 | [177374-twinsanity-omicron.json](./177374-twinsanity-omicron.json) |
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
