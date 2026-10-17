@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:20:33.464Z",
-  "total_soundtracks": 2054,
+  "generated_at": "2026-10-17T15:20:41.002Z",
+  "total_soundtracks": 2055,
   "games": [
     {
       "igdb_id": 7522,
@@ -2562,6 +2562,20 @@
           "album_name": "Below (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3eNQpoIwtuWCV8sADe1vL9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28311,
+      "game_name": "Bendy and the Ink Machine",
+      "game_url": "https://ostdb.net/games/bendy-and-the-ink-machine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736ebc391f388d998b604fa5c1",
+      "albums": [
+        {
+          "album_name": "Bendy and the Ink Machine (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/79RrM0HdEe2NIh2OjlQciN",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
