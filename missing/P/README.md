@@ -10127,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Rage | 4271 | [4271-primal-rage.json](./4271-primal-rage.json) |
 | Primal Rage II | 167154 | [167154-primal-rage-ii.json](./167154-primal-rage-ii.json) |
 | Primal Reign | 36825 | [36825-primal-reign.json](./36825-primal-reign.json) |
+| Primal Reign: The Age of New Kings | 387152 | [387152-primal-reign-the-age-of-new-kings.json](./387152-primal-reign-the-age-of-new-kings.json) |
 | Primal Rift | 250810 | [250810-primal-rift.json](./250810-primal-rift.json) |
 | Primal Roar: Jurassic Dinosaur Era | 220652 | [220652-primal-roar-jurassic-dinosaur-era.json](./220652-primal-roar-jurassic-dinosaur-era.json) |
 | Primal Slideee | 336669 | [336669-primal-slideee.json](./336669-primal-slideee.json) |
