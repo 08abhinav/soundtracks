@@ -10730,7 +10730,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper Zombies | 227491 | [227491-sniper-zombies.json](./227491-sniper-zombies.json) |
 | Sniper: Elite Shooter Squad | 283222 | [283222-sniper-elite-shooter-squad.json](./283222-sniper-elite-shooter-squad.json) |
-| Sniper: Ghost Warrior | 1367 | [1367-sniper-ghost-warrior.json](./1367-sniper-ghost-warrior.json) |
 | Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
