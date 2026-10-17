@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
+| Math Heads | 411096 | [411096-math-heads.json](./411096-math-heads.json) |
 | Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
 | Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
@@ -12151,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi Monsters: School of ROX | 230391 | [230391-moshi-monsters-school-of-rox.json](./230391-moshi-monsters-school-of-rox.json) |
 | Moshi Play | 381913 | [381913-moshi-play.json](./381913-moshi-play.json) |
 | Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. | 131914 | [131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json](./131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json) |
+| Moshinken Monogatari | 410898 | [410898-moshinken-monogatari.json](./410898-moshinken-monogatari.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
