@@ -6661,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook Only | 144607 | [144607-hook-only.json](./144607-hook-only.json) |
+| Hook Party Arena | 412323 | [412323-hook-party-arena.json](./412323-hook-party-arena.json) |
 | Hook Up: The Game | 223037 | [223037-hook-up-the-game.json](./223037-hook-up-the-game.json) |
 | Hook Worlds | 91941 | [91941-hook-worlds.json](./91941-hook-worlds.json) |
 | Hook-a-Duck VR | 312148 | [312148-hook-a-duck-vr.json](./312148-hook-a-duck-vr.json) |
@@ -7047,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Club Adventures 2: Hazelwood Stories | 210914 | [210914-horse-club-adventures-2-hazelwood-stories.json](./210914-horse-club-adventures-2-hazelwood-stories.json) |
 | Horse Club Adventures 2: Secrets of Skeifa | 252624 | [252624-horse-club-adventures-2-secrets-of-skeifa.json](./252624-horse-club-adventures-2-secrets-of-skeifa.json) |
 | Horse Club Adventures: Complete Collection | 252627 | [252627-horse-club-adventures-complete-collection.json](./252627-horse-club-adventures-complete-collection.json) |
+| Horse Club Ride West | 412345 | [412345-horse-club-ride-west.json](./412345-horse-club-ride-west.json) |
 | Horse Dash | 349806 | [349806-horse-dash.json](./349806-horse-dash.json) |
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
