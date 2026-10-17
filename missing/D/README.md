@@ -7657,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
 | Dizzy Panic | 12050 | [12050-dizzy-panic.json](./12050-dizzy-panic.json) |
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
+| Dizzy Sheep Disaster: EX | 395755 | [395755-dizzy-sheep-disaster-ex.json](./395755-dizzy-sheep-disaster-ex.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
