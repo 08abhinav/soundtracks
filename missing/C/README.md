@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
+| Calmed by the Dαrk | 388788 | [388788-calmed-by-the-d-rk.json](./388788-calmed-by-the-d-rk.json) |
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
 | CalmLine | 238448 | [238448-calmline.json](./238448-calmline.json) |
 | Calon Arang Nightmare of Revenge | 387557 | [387557-calon-arang-nightmare-of-revenge.json](./387557-calon-arang-nightmare-of-revenge.json) |
@@ -8032,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Massacre | 220585 | [220585-cold-massacre.json](./220585-cold-massacre.json) |
 | Cold Meat | 166716 | [166716-cold-meat.json](./166716-cold-meat.json) |
 | Cold Pines | 391877 | [391877-cold-pines.json](./391877-cold-pines.json) |
+| Cold Rails | 388798 | [388798-cold-rails.json](./388798-cold-rails.json) |
 | Cold Renegade | 219226 | [219226-cold-renegade.json](./219226-cold-renegade.json) |
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
 | Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
@@ -13892,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
 | Cursed Mansion: Rose Christmas Costume | 285122 | [285122-cursed-mansion-rose-christmas-costume.json](./285122-cursed-mansion-rose-christmas-costume.json) |
+| Cursed Meal | 388808 | [388808-cursed-meal.json](./388808-cursed-meal.json) |
 | Cursed Memory | 370549 | [370549-cursed-memory.json](./370549-cursed-memory.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
