@@ -4064,6 +4064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Patrol: The Venus Virus | 209543 | [209543-math-patrol-the-venus-virus.json](./209543-math-patrol-the-venus-virus.json) |
 | Math Pixels | 294260 | [294260-math-pixels.json](./294260-math-pixels.json) |
 | Math Problem Challenge | 101616 | [101616-math-problem-challenge.json](./101616-math-problem-challenge.json) |
+| Math Push | 380828 | [380828-math-push.json](./380828-math-push.json) |
 | Math Puzzle Alpha Challenge | 384523 | [384523-math-puzzle-alpha-challenge.json](./384523-math-puzzle-alpha-challenge.json) |
 | Math puzzle PRO 2018 | 105941 | [105941-math-puzzle-pro-2018.json](./105941-math-puzzle-pro-2018.json) |
 | Math Puzzles and Brain Teasers 2018 | 106549 | [106549-math-puzzles-and-brain-teasers-2018.json](./106549-math-puzzles-and-brain-teasers-2018.json) |
@@ -4718,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Academy | 267302 | [267302-mech-academy.json](./267302-mech-academy.json) |
 | Mech Ace Combat Trainer | 31880 | [31880-mech-ace-combat-trainer.json](./31880-mech-ace-combat-trainer.json) |
 | Mech Anarchy | 34018 | [34018-mech-anarchy.json](./34018-mech-anarchy.json) |
+| Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
@@ -11431,6 +11433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
 | Monsters Everywhere | 256358 | [256358-monsters-everywhere.json](./256358-monsters-everywhere.json) |
 | Monsters Idle RPG | 238721 | [238721-monsters-idle-rpg.json](./238721-monsters-idle-rpg.json) |
+| Monsters in Cards | 380844 | [380844-monsters-in-cards.json](./380844-monsters-in-cards.json) |
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
@@ -14798,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sexy Boss: Office Romance Boys | 420667 | [420667-my-sexy-boss-office-romance-boys.json](./420667-my-sexy-boss-office-romance-boys.json) |
 | My Sexy Fairies | 415161 | [415161-my-sexy-fairies.json](./415161-my-sexy-fairies.json) |
 | My Sexy Neighbor | 291061 | [291061-my-sexy-neighbor.json](./291061-my-sexy-neighbor.json) |
+| My Sexy Neighbour 2 | 380738 | [380738-my-sexy-neighbour-2.json](./380738-my-sexy-neighbour-2.json) |
 | My Sexy Waitress | 155548 | [155548-my-sexy-waitress.json](./155548-my-sexy-waitress.json) |
 | My Shadow | 133337 | [133337-my-shadow.json](./133337-my-shadow.json) |
 | My Shadow | 289432 | [289432-my-shadow.json](./289432-my-shadow.json) |
