@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadRoot | 404919 | [404919-deadroot.json](./404919-deadroot.json) |
 | Deadrop | 210684 | [210684-deadrop.json](./210684-deadrop.json) |
 | Deads On The Road: Shoot Zombie Hunting 2024 | 319784 | [319784-deads-on-the-road-shoot-zombie-hunting-2024.json](./319784-deads-on-the-road-shoot-zombie-hunting-2024.json) |
+| Deadship Protocol | 414086 | [414086-deadship-protocol.json](./414086-deadship-protocol.json) |
 | DeadShore | 356641 | [356641-deadshore.json](./356641-deadshore.json) |
 | Deadshot | 215784 | [215784-deadshot.json](./215784-deadshot.json) |
 | Deadshot | 260059 | [260059-deadshot.json](./260059-deadshot.json) |
@@ -3140,6 +3141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
+| Death Race 2600 | 414099 | [414099-death-race-2600.json](./414099-death-race-2600.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
@@ -11416,6 +11418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
 | Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
+| Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
@@ -13102,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
+| Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
