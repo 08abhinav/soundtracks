@@ -6363,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
 | Wow! Wow! Wubbzy | 76890 | [76890-wow-wow-wubbzy.json](./76890-wow-wow-wubbzy.json) |
+| Wowo Island | 375508 | [375508-wowo-island.json](./375508-wowo-island.json) |
 | Wowowow Korone Box | 165402 | [165402-wowowow-korone-box.json](./165402-wowowow-korone-box.json) |
 | Woyo!! | 301958 | [301958-woyo.json](./301958-woyo.json) |
 | Wozznic | 88839 | [88839-wozznic.json](./88839-wozznic.json) |
