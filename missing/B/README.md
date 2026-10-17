@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Limited Edition | 51530 | [51530-battlefield-4-limited-edition.json](./51530-battlefield-4-limited-edition.json) |
 | Battlefield 4: Premium | 26098 | [26098-battlefield-4-premium.json](./26098-battlefield-4-premium.json) |
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
+| Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
+| Berserk Emblem | 401306 | [401306-berserk-emblem.json](./401306-berserk-emblem.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
@@ -4743,6 +4745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
 | Better Me Tree | 238764 | [238764-better-me-tree.json](./238764-better-me-tree.json) |
+| Better Minesweeper | 401276 | [401276-better-minesweeper.json](./401276-better-minesweeper.json) |
 | Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
 | Better Super Mario Sunshine Online | 411435 | [411435-better-super-mario-sunshine-online.json](./411435-better-super-mario-sunshine-online.json) |
@@ -7399,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Warriors | 55236 | [55236-block-warriors.json](./55236-block-warriors.json) |
 | Block Wars | 77224 | [77224-block-wars.json](./77224-block-wars.json) |
 | Block Wars: Falling Duel | 421186 | [421186-block-wars-falling-duel.json](./421186-block-wars-falling-duel.json) |
+| Block Witch | 401299 | [401299-block-witch.json](./401299-block-witch.json) |
 | Block x3 | 253013 | [253013-block-x3.json](./253013-block-x3.json) |
 | Block Yard | 175823 | [175823-block-yard.json](./175823-block-yard.json) |
 | Block Zombies! | 65415 | [65415-block-zombies.json](./65415-block-zombies.json) |
@@ -10656,6 +10660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakwaters | 148425 | [148425-breakwaters.json](./148425-breakwaters.json) |
 | Breakyo | 208835 | [208835-breakyo.json](./208835-breakyo.json) |
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
+| Breath Bound | 401298 | [401298-breath-bound.json](./401298-breath-bound.json) |
 | Breath of Death VII | 16259 | [16259-breath-of-death-vii.json](./16259-breath-of-death-vii.json) |
 | Breath of Death VII: The Beginning - Reanimated | 324914 | [324914-breath-of-death-vii-the-beginning-reanimated.json](./324914-breath-of-death-vii-the-beginning-reanimated.json) |
 | Breath of Dragon II | 203551 | [203551-breath-of-dragon-ii.json](./203551-breath-of-dragon-ii.json) |
