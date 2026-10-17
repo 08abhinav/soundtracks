@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
+| Mado | 364841 | [364841-mado.json](./364841-mado.json) |
 | Mado Marks | 414617 | [414617-mado-marks.json](./414617-mado-marks.json) |
 | Mado Monogatari: Fia and the Wondrous Academy - Deluxe Edition | 351236 | [351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json](./351236-mado-monogatari-fia-and-the-wondrous-academy-deluxe-edition.json) |
 | Mado no Naka no Saki ni Aru Mono | 152115 | [152115-mado-no-naka-no-saki-ni-aru-mono.json](./152115-mado-no-naka-no-saki-ni-aru-mono.json) |
@@ -7466,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Smash | 220184 | [220184-micro-smash.json](./220184-micro-smash.json) |
 | Micro Stream RPG | 291907 | [291907-micro-stream-rpg.json](./291907-micro-stream-rpg.json) |
 | Micro Stunt Machina | 195485 | [195485-micro-stunt-machina.json](./195485-micro-stunt-machina.json) |
+| Micro Titans Wrestling | 364877 | [364877-micro-titans-wrestling.json](./364877-micro-titans-wrestling.json) |
 | Micro Trans Actions | 176938 | [176938-micro-trans-actions.json](./176938-micro-trans-actions.json) |
 | Micro Vendor Adventures | 110796 | [110796-micro-vendor-adventures.json](./110796-micro-vendor-adventures.json) |
 | Micro Wars | 314450 | [314450-micro-wars.json](./314450-micro-wars.json) |
@@ -8615,6 +8617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Trap Reborn | 140509 | [140509-mine-trap-reborn.json](./140509-mine-trap-reborn.json) |
 | Mine Upgrade | 369585 | [369585-mine-upgrade.json](./369585-mine-upgrade.json) |
 | Mine Your Way Out 2 | 345623 | [345623-mine-your-way-out-2.json](./345623-mine-your-way-out-2.json) |
+| Mine: Forever | 364870 | [364870-mine-forever.json](./364870-mine-forever.json) |
 | Mine! | 59257 | [59257-mine.json](./59257-mine.json) |
 | Mine? Sweeper | 287000 | [287000-mine-sweeper.json](./287000-mine-sweeper.json) |
 | Mineblader | 419989 | [419989-mineblader.json](./419989-mineblader.json) |
