@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexbox | 351643 | [351643-vexbox.json](./351643-vexbox.json) |
 | Vexed Heroes | 261419 | [261419-vexed-heroes.json](./261419-vexed-heroes.json) |
 | Vexius | 76677 | [76677-vexius.json](./76677-vexius.json) |
+| Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
 | Veylora | 382407 | [382407-veylora.json](./382407-veylora.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
 | Veyrasol | 413754 | [413754-veyrasol.json](./413754-veyrasol.json) |
