@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman & The Flash: Hero Run | 61546 | [61546-batman-and-the-flash-hero-run.json](./61546-batman-and-the-flash-hero-run.json) |
 | Batman Arkham Origins: Blackgate - Deluxe Edition | 21066 | [21066-batman-arkham-origins-blackgate-deluxe-edition.json](./21066-batman-arkham-origins-blackgate-deluxe-edition.json) |
 | Batman Begins | 229719 | [229719-batman-begins.json](./229719-batman-begins.json) |
+| Batman Begins | 386533 | [386533-batman-begins.json](./386533-batman-begins.json) |
 | Batman Begins: Batarang | 245556 | [245556-batman-begins-batarang.json](./245556-batman-begins-batarang.json) |
 | Batman Begins: Batmobile | 245555 | [245555-batman-begins-batmobile.json](./245555-batman-begins-batmobile.json) |
 | Batman Begins: Fast Pursuit | 245554 | [245554-batman-begins-fast-pursuit.json](./245554-batman-begins-fast-pursuit.json) |
@@ -9225,6 +9226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
+| Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
 | Boomliner | 376866 | [376866-boomliner.json](./376866-boomliner.json) |
