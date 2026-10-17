@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
 | Baldur's Gate: Dark Alliance II | 84 | [84-baldurs-gate-dark-alliance-ii.json](./84-baldurs-gate-dark-alliance-ii.json) |
+| Baldur's Gate: Dark Horizons | 403435 | [403435-baldurs-gate-dark-horizons.json](./403435-baldurs-gate-dark-horizons.json) |
 | Baldur's Gate: Enhanced Edition | 1880 | [1880-baldurs-gate-enhanced-edition.json](./1880-baldurs-gate-enhanced-edition.json) |
 | Baldur's Gate: Enhanced Edition - Deluxe Edition | 169219 | [169219-baldurs-gate-enhanced-edition-deluxe-edition.json](./169219-baldurs-gate-enhanced-edition-deluxe-edition.json) |
 | Baldur's Gate: Siege of Dragonspear | 14292 | [14292-baldurs-gate-siege-of-dragonspear.json](./14292-baldurs-gate-siege-of-dragonspear.json) |
@@ -3969,6 +3970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeaverKarts | 253254 | [253254-beaverkarts.json](./253254-beaverkarts.json) |
 | Beavers | 12350 | [12350-beavers.json](./12350-beavers.json) |
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
+| Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
 | Bebder Game: Bebder Than the Rest | 209389 | [209389-bebder-game-bebder-than-the-rest.json](./209389-bebder-game-bebder-than-the-rest.json) |
 | Bebe Miner | 416664 | [416664-bebe-miner.json](./416664-bebe-miner.json) |
 | Beberserker | 132094 | [132094-beberserker.json](./132094-beberserker.json) |
@@ -8059,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxiti | 348731 | [348731-bloxiti.json](./348731-bloxiti.json) |
 | Bloxland Story | 60906 | [60906-bloxland-story.json](./60906-bloxland-story.json) |
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
+| Bloxorz | 403450 | [403450-bloxorz.json](./403450-bloxorz.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
@@ -10355,8 +10358,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
+| Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
+| Brawl Chess: Fairy | 403416 | [403416-brawl-chess-fairy.json](./403416-brawl-chess-fairy.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
 | Brawl Chess: Gambit + Cyber Protocol | 218453 | [218453-brawl-chess-gambit-cyber-protocol.json](./218453-brawl-chess-gambit-cyber-protocol.json) |
+| Brawl Chess: Ghost | 403427 | [403427-brawl-chess-ghost.json](./403427-brawl-chess-ghost.json) |
 | Brawl Chess: Girl Power | 222240 | [222240-brawl-chess-girl-power.json](./222240-brawl-chess-girl-power.json) |
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
