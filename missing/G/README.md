@@ -7061,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guàishòu | 277970 | [277970-guaishou.json](./277970-guaishou.json) |
 | Guānyú Sīmén Shì de Yīxiē Chuányán | 397690 | [397690-guanyu-simen-shi-de-yixie-chuanyan.json](./397690-guanyu-simen-shi-de-yixie-chuanyan.json) |
 | Guānyú Wǒ Bèi Xuéjiě Jiǎn Huí Jiā Dāng Nǚyǒu Zhè Jiàn Shì | 397226 | [397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json](./397226-guanyu-wo-bei-xuejie-jian-hui-jia-dang-nuyou-zhe-jian-shi.json) |
+| Guará Guaraná | 381310 | [381310-guara-guarana.json](./381310-guara-guarana.json) |
 | Guard Duty | 6741 | [6741-guard-duty.json](./6741-guard-duty.json) |
 | Guard Force: Covert Strike | 133754 | [133754-guard-force-covert-strike.json](./133754-guard-force-covert-strike.json) |
 | Guard of Wonderland VR | 88126 | [88126-guard-of-wonderland-vr.json](./88126-guard-of-wonderland-vr.json) |
