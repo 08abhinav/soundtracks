@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
+| Chill | 368236 | [368236-chill.json](./368236-chill.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
 | Chill Cat | 409197 | [409197-chill-cat.json](./409197-chill-cat.json) |
 | Chill Corner | 173072 | [173072-chill-corner.json](./173072-chill-corner.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
 | Clown Art | 267856 | [267856-clown-art.json](./267856-clown-art.json) |
+| Clown Ball | 368228 | [368228-clown-ball.json](./368228-clown-ball.json) |
 | Clown Camp | 346081 | [346081-clown-camp.json](./346081-clown-camp.json) |
 | Clown House | 90599 | [90599-clown-house.json](./90599-clown-house.json) |
 | Clown House: Lunacy | 381610 | [381610-clown-house-lunacy.json](./381610-clown-house-lunacy.json) |
