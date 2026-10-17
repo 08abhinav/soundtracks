@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
+| Phrenetic Shooting Reunion | 372186 | [372186-phrenetic-shooting-reunion.json](./372186-phrenetic-shooting-reunion.json) |
 | Phrixothrix | 245857 | [245857-phrixothrix.json](./245857-phrixothrix.json) |
 | Phromg Game | 201468 | [201468-phromg-game.json](./201468-phromg-game.json) |
 | Phucker in the Ashes | 369019 | [369019-phucker-in-the-ashes.json](./369019-phucker-in-the-ashes.json) |
@@ -5810,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Gun Battle | 370201 | [370201-pixel-gun-battle.json](./370201-pixel-gun-battle.json) |
 | Pixel Gun World | 307855 | [307855-pixel-gun-world.json](./307855-pixel-gun-world.json) |
 | Pixel Gunmen | 226772 | [226772-pixel-gunmen.json](./226772-pixel-gunmen.json) |
+| Pixel Harvester | 372189 | [372189-pixel-harvester.json](./372189-pixel-harvester.json) |
 | Pixel Hentai Mosaic | 103789 | [103789-pixel-hentai-mosaic.json](./103789-pixel-hentai-mosaic.json) |
 | Pixel Heroes: Byte & Magic | 10699 | [10699-pixel-heroes-byte-and-magic.json](./10699-pixel-heroes-byte-and-magic.json) |
 | Pixel Heroes: Tales of Emond | 294690 | [294690-pixel-heroes-tales-of-emond.json](./294690-pixel-heroes-tales-of-emond.json) |
@@ -6663,6 +6665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
+| PlanetariumVR | 372220 | [372220-planetariumvr.json](./372220-planetariumvr.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Assembly | 184272 | [184272-planetary-assembly.json](./184272-planetary-assembly.json) |
@@ -7407,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
+| Pocket Math | 372194 | [372194-pocket-math.json](./372194-pocket-math.json) |
 | Pocket Meat | 49504 | [49504-pocket-meat.json](./49504-pocket-meat.json) |
 | Pocket Mine | 38909 | [38909-pocket-mine.json](./38909-pocket-mine.json) |
 | Pocket Mine 2 | 39218 | [39218-pocket-mine-2.json](./39218-pocket-mine-2.json) |
