@@ -4240,8 +4240,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunai | 114094 | [114094-kunai.json](./114094-kunai.json) |
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
+| Kundara: Art of Cards | 381311 | [381311-kundara-art-of-cards.json](./381311-kundara-art-of-cards.json) |
 | Kung Food | 12365 | [12365-kung-food.json](./12365-kung-food.json) |
 | Kung Fu | 214458 | [214458-kung-fu.json](./214458-kung-fu.json) |
+| Kung Fu Addiction | 381316 | [381316-kung-fu-addiction.json](./381316-kung-fu-addiction.json) |
 | Kung Fu Chaos | 5898 | [5898-kung-fu-chaos.json](./5898-kung-fu-chaos.json) |
 | Kung Fu Chess | 180198 | [180198-kung-fu-chess.json](./180198-kung-fu-chess.json) |
 | Kung Fu Clicker | 106983 | [106983-kung-fu-clicker.json](./106983-kung-fu-clicker.json) |
