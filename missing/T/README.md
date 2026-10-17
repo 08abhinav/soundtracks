@@ -4654,7 +4654,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Epiphany | 223039 | [223039-the-binding-of-isaac-epiphany.json](./223039-the-binding-of-isaac-epiphany.json) |
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
-| The Binding of Isaac: Repentance | 109241 | [109241-the-binding-of-isaac-repentance.json](./109241-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of Isaac: Wrath of the Lamb | 14542 | [14542-the-binding-of-isaac-wrath-of-the-lamb.json](./14542-the-binding-of-isaac-wrath-of-the-lamb.json) |
@@ -14106,7 +14105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thexder 95 | 57565 | [57565-thexder-95.json](./57565-thexder-95.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
-| They Are Billions | 36616 | [36616-they-are-billions.json](./36616-they-are-billions.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
 | They are Confined | 229758 | [229758-they-are-confined.json](./229758-they-are-confined.json) |
@@ -21727,7 +21725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
-| Trek to Yomi | 152203 | [152203-trek-to-yomi.json](./152203-trek-to-yomi.json) |
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
 | Trek Trivia | 100103 | [100103-trek-trivia.json](./100103-trek-trivia.json) |
 | Trek: Travel Around the World | 105083 | [105083-trek-travel-around-the-world.json](./105083-trek-travel-around-the-world.json) |
@@ -22083,7 +22080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trine 3: The Artifacts of Power | 8255 | [8255-trine-3-the-artifacts-of-power.json](./8255-trine-3-the-artifacts-of-power.json) |
 | Trine 4: Definitive Edition | 347277 | [347277-trine-4-definitive-edition.json](./347277-trine-4-definitive-edition.json) |
 | Trine 4: Melody of Mystery | 152036 | [152036-trine-4-melody-of-mystery.json](./152036-trine-4-melody-of-mystery.json) |
-| Trine 4: The Nightmare Prince | 110846 | [110846-trine-4-the-nightmare-prince.json](./110846-trine-4-the-nightmare-prince.json) |
 | Trine 5: A Clockwork Conspiracy | 245390 | [245390-trine-5-a-clockwork-conspiracy.json](./245390-trine-5-a-clockwork-conspiracy.json) |
 | Trine Bundle | 142369 | [142369-trine-bundle.json](./142369-trine-bundle.json) |
 | Trine Classic Collection | 383137 | [383137-trine-classic-collection.json](./383137-trine-classic-collection.json) |
