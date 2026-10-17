@@ -7539,7 +7539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
-| Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
