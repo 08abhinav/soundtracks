@@ -2222,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Solitaire | 39196 | [39196-king-of-solitaire.json](./39196-king-of-solitaire.json) |
 | King of Sopio | 242459 | [242459-king-of-sopio.json](./242459-king-of-sopio.json) |
 | King of Space | 345515 | [345515-king-of-space.json](./345515-king-of-space.json) |
+| King of Spies | 380830 | [380830-king-of-spies.json](./380830-king-of-spies.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
