@@ -12160,7 +12160,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Creator 2 | 306082 | [306082-duck-creator-2.json](./306082-duck-creator-2.json) |
 | Duck Dash | 290539 | [290539-duck-dash.json](./290539-duck-dash.json) |
 | Duck Dash Delivery | 398320 | [398320-duck-dash-delivery.json](./398320-duck-dash-delivery.json) |
-| Duck Detective: The Secret Salami | 279374 | [279374-duck-detective-the-secret-salami.json](./279374-duck-detective-the-secret-salami.json) |
 | Duck Dodgers Starring Daffy Duck | 3336 | [3336-duck-dodgers-starring-daffy-duck.json](./3336-duck-dodgers-starring-daffy-duck.json) |
 | Duck Doom Deluxe | 201180 | [201180-duck-doom-deluxe.json](./201180-duck-doom-deluxe.json) |
 | Duck Duck Goose | 358870 | [358870-duck-duck-goose.json](./358870-duck-duck-goose.json) |
@@ -12771,7 +12770,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
 | Dungeon of the Damned | 200585 | [200585-dungeon-of-the-damned.json](./200585-dungeon-of-the-damned.json) |
 | Dungeon of the Devourer | 334073 | [334073-dungeon-of-the-devourer.json](./334073-dungeon-of-the-devourer.json) |
-| Dungeon of the Endless | 9683 | [9683-dungeon-of-the-endless.json](./9683-dungeon-of-the-endless.json) |
 | Dungeon of the Endless: Deep Freeze | 168244 | [168244-dungeon-of-the-endless-deep-freeze.json](./168244-dungeon-of-the-endless-deep-freeze.json) |
 | Dungeon of the Endless: Rescue Team | 168245 | [168245-dungeon-of-the-endless-rescue-team.json](./168245-dungeon-of-the-endless-rescue-team.json) |
 | Dungeon of the Forgotten King | 257981 | [257981-dungeon-of-the-forgotten-king.json](./257981-dungeon-of-the-forgotten-king.json) |
