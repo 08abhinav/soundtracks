@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:35:57.921Z",
-  "total_soundtracks": 2087,
+  "generated_at": "2026-10-17T15:36:06.578Z",
+  "total_soundtracks": 2088,
   "games": [
     {
       "igdb_id": 7522,
@@ -8182,6 +8182,20 @@
           "album_name": "For Honor: Year of the Harbinger (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2QtvSDgDX1WnZKuZRvUnaQ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20331,
+      "game_name": "For the King",
+      "game_url": "https://ostdb.net/games/for-the-king",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bc1cc6237380f4dc1b53ce00",
+      "albums": [
+        {
+          "album_name": "For The King (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ekl3CLanTsxFBmM2dKp6A",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
