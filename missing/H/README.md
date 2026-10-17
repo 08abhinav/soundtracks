@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HemiRoids | 229020 | [229020-hemiroids.json](./229020-hemiroids.json) |
 | Hemlock | 295862 | [295862-hemlock.json](./295862-hemlock.json) |
 | Hemlon the Grey | 408721 | [408721-hemlon-the-grey.json](./408721-hemlon-the-grey.json) |
+| Hemobloom | 373263 | [373263-hemobloom.json](./373263-hemobloom.json) |
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
@@ -4560,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Year 4 Pass | 295864 | [295864-hexceed-year-4-pass.json](./295864-hexceed-year-4-pass.json) |
 | Hexceed: Year 5 Season Pass! | 397888 | [397888-hexceed-year-5-season-pass.json](./397888-hexceed-year-5-season-pass.json) |
 | Hexcells | 9603 | [9603-hexcells.json](./9603-hexcells.json) |
+| Hexcells Complete Pack | 373259 | [373259-hexcells-complete-pack.json](./373259-hexcells-complete-pack.json) |
 | Hexcells Infinite | 11061 | [11061-hexcells-infinite.json](./11061-hexcells-infinite.json) |
 | Hexcells Plus | 11060 | [11060-hexcells-plus.json](./11060-hexcells-plus.json) |
 | HexChess 360 | 92506 | [92506-hexchess-360.json](./92506-hexchess-360.json) |
