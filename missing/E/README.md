@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
+| Ecco the Dolphin | 388157 | [388157-ecco-the-dolphin.json](./388157-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 5378 | [5378-ecco-the-dolphin.json](./5378-ecco-the-dolphin.json) |
 | Ecco the Dolphin: Defender of the Future | 9188 | [9188-ecco-the-dolphin-defender-of-the-future.json](./9188-ecco-the-dolphin-defender-of-the-future.json) |
 | Ecco: The Tides of Time | 237314 | [237314-ecco-the-tides-of-time.json](./237314-ecco-the-tides-of-time.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXceed Gun Bullet Children | 9290 | [9290-exceed-gun-bullet-children.json](./9290-exceed-gun-bullet-children.json) |
 | Excelios | 285932 | [285932-excelios.json](./285932-excelios.json) |
 | Excellent | 373738 | [373738-excellent.json](./373738-excellent.json) |
+| Excellent Bifurcation | 388217 | [388217-excellent-bifurcation.json](./388217-excellent-bifurcation.json) |
 | Excellent Card Games | 100283 | [100283-excellent-card-games.json](./100283-excellent-card-games.json) |
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
@@ -5789,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Ouroboros | 158130 | [158130-eye-of-ouroboros.json](./158130-eye-of-ouroboros.json) |
 | Eye of Ra | 133992 | [133992-eye-of-ra.json](./133992-eye-of-ra.json) |
 | Eye of Saccharine | 249187 | [249187-eye-of-saccharine.json](./249187-eye-of-saccharine.json) |
+| Eye of Syn | 388126 | [388126-eye-of-syn.json](./388126-eye-of-syn.json) |
 | Eye of the Beholder | 292686 | [292686-eye-of-the-beholder.json](./292686-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
