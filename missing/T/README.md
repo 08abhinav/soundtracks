@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Tales | 239139 | [239139-tall-tales.json](./239139-tall-tales.json) |
 | Tall Twins Tower | 62547 | [62547-tall-twins-tower.json](./62547-tall-twins-tower.json) |
 | Tallawa Game Nights | 415894 | [415894-tallawa-game-nights.json](./415894-tallawa-game-nights.json) |
+| Tally | 363154 | [363154-tally.json](./363154-tally.json) |
 | Tally Castle | 182857 | [182857-tally-castle.json](./182857-tally-castle.json) |
 | Tally Man | 412399 | [412399-tally-man.json](./412399-tally-man.json) |
 | TallyUP | 183865 | [183865-tallyup.json](./183865-tallyup.json) |
@@ -19214,6 +19215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Tower Defense Aigisyu | 204558 | [204558-touhou-tower-defense-aigisyu.json](./204558-touhou-tower-defense-aigisyu.json) |
 | Touhou Tower Defense Aigisyu: Complete Edition | 204559 | [204559-touhou-tower-defense-aigisyu-complete-edition.json](./204559-touhou-tower-defense-aigisyu-complete-edition.json) |
 | Touhou Traveler | 234578 | [234578-touhou-traveler.json](./234578-touhou-traveler.json) |
+| Touhou Unite Arena | 363165 | [363165-touhou-unite-arena.json](./363165-touhou-unite-arena.json) |
 | Touhou Unreal Mahjong | 59894 | [59894-touhou-unreal-mahjong.json](./59894-touhou-unreal-mahjong.json) |
 | Touhou Usojikuu: Fools_rush_in | 366633 | [366633-touhou-usojikuu-fools-rush-in.json](./366633-touhou-usojikuu-fools-rush-in.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
