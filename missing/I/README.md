@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incoboto Mini | 41511 | [41511-incoboto-mini.json](./41511-incoboto-mini.json) |
 | Incognito | 35782 | [35782-incognito.json](./35782-incognito.json) |
 | Incoherence | 291573 | [291573-incoherence.json](./291573-incoherence.json) |
+| Incoherence: Dark Rooms | 380234 | [380234-incoherence-dark-rooms.json](./380234-incoherence-dark-rooms.json) |
 | Incomer | 212203 | [212203-incomer.json](./212203-incomer.json) |
 | Incoming War | 211979 | [211979-incoming-war.json](./211979-incoming-war.json) |
 | Incoming! | 67893 | [67893-incoming.json](./67893-incoming.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Park: Chapter 2 | 402870 | [402870-indigo-park-chapter-2.json](./402870-indigo-park-chapter-2.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
+| Indika: Deluxe Edition | 380153 | [380153-indika-deluxe-edition.json](./380153-indika-deluxe-edition.json) |
 | Indirection | 186000 | [186000-indirection.json](./186000-indirection.json) |
 | Indirian Solitaire | 91732 | [91732-indirian-solitaire.json](./91732-indirian-solitaire.json) |
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
@@ -3652,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 178936 | [178936-interview.json](./178936-interview.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
+| Intervoid | 380166 | [380166-intervoid.json](./380166-intervoid.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds | 74220 | [74220-interworlds.json](./74220-interworlds.json) |
 | Interworlds Academy | 117080 | [117080-interworlds-academy.json](./117080-interworlds-academy.json) |
