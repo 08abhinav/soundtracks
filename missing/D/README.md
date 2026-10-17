@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructamundo | 17842 | [17842-destructamundo.json](./17842-destructamundo.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
+| Destruction AllStars: Season 1 - Hotshots | 412362 | [412362-destruction-allstars-season-1-hotshots.json](./412362-destruction-allstars-season-1-hotshots.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
 | Destruction Derby | 1168 | [1168-destruction-derby.json](./1168-destruction-derby.json) |
@@ -7789,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do-M Imouto O-nedari Kojin Lesson: Watashi no Sex Katei-kyoushi Oniichan | 108917 | [108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json](./108917-do-m-imouto-o-nedari-kojin-lesson-watashi-no-sex-katei-kyoushi-oniichan.json) |
 | Do! Run Run | 12729 | [12729-do-run-run.json](./12729-do-run-run.json) |
 | Doala de Wii | 81237 | [81237-doala-de-wii.json](./81237-doala-de-wii.json) |
+| Doamari | 412340 | [412340-doamari.json](./412340-doamari.json) |
 | Doashime | 274538 | [274538-doashime.json](./274538-doashime.json) |
 | Doba Dash | 182942 | [182942-doba-dash.json](./182942-doba-dash.json) |
 | Dobbel Dungeon | 290612 | [290612-dobbel-dungeon.json](./290612-dobbel-dungeon.json) |
@@ -12177,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Love: Koisuru Otome wa Shouri no Megami | 123306 | [123306-duel-love-koisuru-otome-wa-shouri-no-megami.json](./123306-duel-love-koisuru-otome-wa-shouri-no-megami.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
+| Duel Masters 3 | 412221 | [412221-duel-masters-3.json](./412221-duel-masters-3.json) |
 | Duel Masters: Kaijudo Showdown | 24257 | [24257-duel-masters-kaijudo-showdown.json](./24257-duel-masters-kaijudo-showdown.json) |
 | Duel Masters: Sempai Legends | 49198 | [49198-duel-masters-sempai-legends.json](./49198-duel-masters-sempai-legends.json) |
 | Duel Masters: Shadow of the Code | 49402 | [49402-duel-masters-shadow-of-the-code.json](./49402-duel-masters-shadow-of-the-code.json) |
