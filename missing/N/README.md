@@ -4093,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
+| No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
 | No Fate! Only the Power of Will | 7123 | [7123-no-fate-only-the-power-of-will.json](./7123-no-fate-only-the-power-of-will.json) |
 | No Fear | 153161 | [153161-no-fear.json](./153161-no-fear.json) |
