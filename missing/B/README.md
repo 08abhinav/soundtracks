@@ -3448,6 +3448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Resort Simulator | 36189 | [36189-beach-resort-simulator.json](./36189-beach-resort-simulator.json) |
 | Beach Restaurant | 80924 | [80924-beach-restaurant.json](./80924-beach-restaurant.json) |
 | Beach Rules | 81784 | [81784-beach-rules.json](./81784-beach-rules.json) |
+| Beach Runner | 380729 | [380729-beach-runner.json](./380729-beach-runner.json) |
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
@@ -4777,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Off Tread | 55521 | [55521-better-off-tread.json](./55521-better-off-tread.json) |
 | Better Save Souls | 235731 | [235731-better-save-souls.json](./235731-better-save-souls.json) |
 | Better Super Mario Sunshine Online | 411435 | [411435-better-super-mario-sunshine-online.json](./411435-better-super-mario-sunshine-online.json) |
+| Better Than Us | 380834 | [380834-better-than-us.json](./380834-better-than-us.json) |
 | Better Than Wolves | 297008 | [297008-better-than-wolves.json](./297008-better-than-wolves.json) |
 | Better to Upload | 183429 | [183429-better-to-upload.json](./183429-better-to-upload.json) |
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
@@ -5925,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds & Balls | 95233 | [95233-birds-and-balls.json](./95233-birds-and-balls.json) |
 | Birds and Blocks | 147926 | [147926-birds-and-blocks.json](./147926-birds-and-blocks.json) |
 | Birds and Blocks 2 | 242013 | [242013-birds-and-blocks-2.json](./242013-birds-and-blocks-2.json) |
+| Birds and Nuts | 380734 | [380734-birds-and-nuts.json](./380734-birds-and-nuts.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Are Real | 211456 | [211456-birds-are-real.json](./211456-birds-are-real.json) |
 | Birds Aren’t Real | 249357 | [249357-birds-aren-t-real.json](./249357-birds-aren-t-real.json) |
@@ -8396,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
+| Boars in Rome | 380833 | [380833-boars-in-rome.json](./380833-boars-in-rome.json) |
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
@@ -8456,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Robber 2 | 181607 | [181607-bob-the-robber-2.json](./181607-bob-the-robber-2.json) |
 | Bob the Robber 4 | 342199 | [342199-bob-the-robber-4.json](./342199-bob-the-robber-4.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
+| Bob To The Top | 380810 | [380810-bob-to-the-top.json](./380810-bob-to-the-top.json) |
 | Bob Venture 3D Level Editor | 130199 | [130199-bob-venture-3d-level-editor.json](./130199-bob-venture-3d-level-editor.json) |
 | Bob vs the Mob | 57670 | [57670-bob-vs-the-mob.json](./57670-bob-vs-the-mob.json) |
 | Bob Wants to Go Home | 129744 | [129744-bob-wants-to-go-home.json](./129744-bob-wants-to-go-home.json) |
@@ -12125,6 +12130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullynoid | 115504 | [115504-bullynoid.json](./115504-bullynoid.json) |
 | Bullyparade: Der Spiel | 55024 | [55024-bullyparade-der-spiel.json](./55024-bullyparade-der-spiel.json) |
 | Bulorgus | 149559 | [149559-bulorgus.json](./149559-bulorgus.json) |
+| Bult: Hunting Simulator | 380724 | [380724-bult-hunting-simulator.json](./380724-bult-hunting-simulator.json) |
 | Bultaneun Yeonghon | 145596 | [145596-bultaneun-yeonghon.json](./145596-bultaneun-yeonghon.json) |
 | Bulu Monster | 262350 | [262350-bulu-monster.json](./262350-bulu-monster.json) |
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
@@ -12667,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business Man 2000 | 69933 | [69933-business-man-2000.json](./69933-business-man-2000.json) |
 | Business Management | 400853 | [400853-business-management.json](./400853-business-management.json) |
 | Business Ryoku Kentei DS | 70410 | [70410-business-ryoku-kentei-ds.json](./70410-business-ryoku-kentei-ds.json) |
+| Business Simulator | 380826 | [380826-business-simulator.json](./380826-business-simulator.json) |
 | Business Superstar Idle Tycoon | 262346 | [262346-business-superstar-idle-tycoon.json](./262346-business-superstar-idle-tycoon.json) |
 | Business Tour Deluxe | 173128 | [173128-business-tour-deluxe.json](./173128-business-tour-deluxe.json) |
 | Business Tour: Crazy Heroes - Mr. and Mrs. Balloonski | 170239 | [170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json](./170239-business-tour-crazy-heroes-mr-and-mrs-balloonski.json) |
