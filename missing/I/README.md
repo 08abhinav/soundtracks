@@ -1682,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagined Leviathans | 156204 | [156204-imagined-leviathans.json](./156204-imagined-leviathans.json) |
 | Imaginext: Battle Castle | 209431 | [209431-imaginext-battle-castle.json](./209431-imaginext-battle-castle.json) |
 | Imaginytes | 327950 | [327950-imaginytes.json](./327950-imaginytes.json) |
+| Imago | 377342 | [377342-imago.json](./377342-imago.json) |
 | Imago | 97864 | [97864-imago.json](./97864-imago.json) |
 | Imagynasium | 222814 | [222814-imagynasium.json](./222814-imagynasium.json) |
 | iMahjong - Mahjong Pairs | 90041 | [90041-imahjong-mahjong-pairs.json](./90041-imahjong-mahjong-pairs.json) |
