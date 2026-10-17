@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voice of Power | 376236 | [376236-mage-arena-voice-of-power.json](./376236-mage-arena-voice-of-power.json) |
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
+| Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
 | Mage Craft | 130897 | [130897-mage-craft.json](./130897-mage-craft.json) |
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
@@ -8156,6 +8157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
+| Miko Funk | 370428 | [370428-miko-funk.json](./370428-miko-funk.json) |
 | Miko Gakkou Monogatari: Kaede Episode | 36177 | [36177-miko-gakkou-monogatari-kaede-episode.json](./36177-miko-gakkou-monogatari-kaede-episode.json) |
 | Miko Gakkou: Second Year | 36169 | [36169-miko-gakkou-second-year.json](./36169-miko-gakkou-second-year.json) |
 | Miko Kanna Noukin Taimaki | 82738 | [82738-miko-kanna-noukin-taimaki.json](./82738-miko-kanna-noukin-taimaki.json) |
@@ -11802,6 +11804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshire | 280933 | [280933-moonshire.json](./280933-moonshire.json) |
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
+| Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonsigil Atlas | 322204 | [322204-moonsigil-atlas.json](./322204-moonsigil-atlas.json) |
 | Moonsouls: Echoes of the Past | 234301 | [234301-moonsouls-echoes-of-the-past.json](./234301-moonsouls-echoes-of-the-past.json) |
@@ -13932,6 +13935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
+| Mutable 50 | 370422 | [370422-mutable-50.json](./370422-mutable-50.json) |
 | Mutabor | 257301 | [257301-mutabor.json](./257301-mutabor.json) |
 | Mutagenic | 210690 | [210690-mutagenic.json](./210690-mutagenic.json) |
 | Mutagenic 2 | 390610 | [390610-mutagenic-2.json](./390610-mutagenic-2.json) |
@@ -15627,6 +15631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
+| Myths of Switzerland | 370429 | [370429-myths-of-switzerland.json](./370429-myths-of-switzerland.json) |
 | Myths of the World: Behind the Veil | 140241 | [140241-myths-of-the-world-behind-the-veil.json](./140241-myths-of-the-world-behind-the-veil.json) |
 | Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
 | Myths of the World: Black Rose | 140242 | [140242-myths-of-the-world-black-rose.json](./140242-myths-of-the-world-black-rose.json) |
