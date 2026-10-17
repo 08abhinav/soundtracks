@@ -1464,9 +1464,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Orochi 4: Scenario Pack 2 | 226880 | [226880-warriors-orochi-4-scenario-pack-2.json](./226880-warriors-orochi-4-scenario-pack-2.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
+| Warriors: Abyss - "Dynasty Warriors" Costume Set | 379117 | [379117-warriors-abyss-dynasty-warriors-costume-set.json](./379117-warriors-abyss-dynasty-warriors-costume-set.json) |
 | Warriors: Abyss - Atelier Series Academy Costume Set | 379120 | [379120-warriors-abyss-atelier-series-academy-costume-set.json](./379120-warriors-abyss-atelier-series-academy-costume-set.json) |
 | Warriors: Abyss - Atelier Series Vacation Costume Set | 379119 | [379119-warriors-abyss-atelier-series-vacation-costume-set.json](./379119-warriors-abyss-atelier-series-vacation-costume-set.json) |
 | Warriors: Abyss - Dynasty Warriors Classic Costume Set | 379118 | [379118-warriors-abyss-dynasty-warriors-classic-costume-set.json](./379118-warriors-abyss-dynasty-warriors-classic-costume-set.json) |
+| Warriors: Abyss - Dynasty Warriors Jin Dynasty Classic Costume Set | 379116 | [379116-warriors-abyss-dynasty-warriors-jin-dynasty-classic-costume-set.json](./379116-warriors-abyss-dynasty-warriors-jin-dynasty-classic-costume-set.json) |
+| Warriors: Abyss - Hack'n'Dash Legendary Costume Set | 379115 | [379115-warriors-abyss-hackndash-legendary-costume-set.json](./379115-warriors-abyss-hackndash-legendary-costume-set.json) |
+| Warriors: Abyss - Master Ninja Formal Costume Set | 379114 | [379114-warriors-abyss-master-ninja-formal-costume-set.json](./379114-warriors-abyss-master-ninja-formal-costume-set.json) |
+| Warriors: Abyss - Master Ninja Legacy Costume Set | 379113 | [379113-warriors-abyss-master-ninja-legacy-costume-set.json](./379113-warriors-abyss-master-ninja-legacy-costume-set.json) |
+| Warriors: Abyss - Nobunaga's Ambition Yukimura Sanada Costume Set | 379112 | [379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json](./379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json) |
+| Warriors: Abyss - Samurai Warriors Classic Costume Set | 379111 | [379111-warriors-abyss-samurai-warriors-classic-costume-set.json](./379111-warriors-abyss-samurai-warriors-classic-costume-set.json) |
+| Warriors: Abyss - Samurai Warriors Western Japan Classic Costume Set | 379110 | [379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json](./379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json) |
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
@@ -5740,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World in Conflict | 941 | [941-world-in-conflict.json](./941-world-in-conflict.json) |
 | World in Conflict: Soviet Assault | 9338 | [9338-world-in-conflict-soviet-assault.json](./9338-world-in-conflict-soviet-assault.json) |
 | World in fire | 284833 | [284833-world-in-fire.json](./284833-world-in-fire.json) |
+| World In The Abyss | 379107 | [379107-world-in-the-abyss.json](./379107-world-in-the-abyss.json) |
 | World is Lava | 376713 | [376713-world-is-lava.json](./376713-world-is-lava.json) |
 | World Jockey | 37650 | [37650-world-jockey.json](./37650-world-jockey.json) |
 | World Karate Championship | 79620 | [79620-world-karate-championship.json](./79620-world-karate-championship.json) |
