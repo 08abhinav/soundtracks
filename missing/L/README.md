@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
 | Lapin Malin : J'apprends à lire et à ecrire | 147201 | [147201-lapin-malin-japprends-a-lire-et-a-ecrire.json](./147201-lapin-malin-japprends-a-lire-et-a-ecrire.json) |
+| Lapinka and Hidden Shield | 392716 | [392716-lapinka-and-hidden-shield.json](./392716-lapinka-and-hidden-shield.json) |
 | Lapis Lazuli | 307049 | [307049-lapis-lazuli.json](./307049-lapis-lazuli.json) |
 | Lapis x Labyrinth | 109233 | [109233-lapis-x-labyrinth.json](./109233-lapis-x-labyrinth.json) |
 | Lapis x Labyrinth: Limited Edition | 107260 | [107260-lapis-x-labyrinth-limited-edition.json](./107260-lapis-x-labyrinth-limited-edition.json) |
@@ -2825,6 +2826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter Targets | 94380 | [94380-letter-targets.json](./94380-letter-targets.json) |
 | Letter To A Friend | 251451 | [251451-letter-to-a-friend.json](./251451-letter-to-a-friend.json) |
 | Letter to a Landlord | 309345 | [309345-letter-to-a-landlord.json](./309345-letter-to-a-landlord.json) |
+| Letter to Neml | 392710 | [392710-letter-to-neml.json](./392710-letter-to-neml.json) |
 | Letter Vetter | 149084 | [149084-letter-vetter.json](./149084-letter-vetter.json) |
 | Letter Wizard | 175856 | [175856-letter-wizard.json](./175856-letter-wizard.json) |
 | Letter Zap! | 70430 | [70430-letter-zap.json](./70430-letter-zap.json) |
