@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
+| Haunted Graveyard | 399428 | [399428-haunted-graveyard.json](./399428-haunted-graveyard.json) |
 | Haunted Halls: Fears from Childhood - Collector's Edition | 86437 | [86437-haunted-halls-fears-from-childhood-collectors-edition.json](./86437-haunted-halls-fears-from-childhood-collectors-edition.json) |
 | Haunted Halls: Green Hills Sanitarium | 84146 | [84146-haunted-halls-green-hills-sanitarium.json](./84146-haunted-halls-green-hills-sanitarium.json) |
 | Haunted Halls: Green Hills Sanitarium - Collector's Edition | 37011 | [37011-haunted-halls-green-hills-sanitarium-collectors-edition.json](./37011-haunted-halls-green-hills-sanitarium-collectors-edition.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshiiro no Okurimono | 218376 | [218376-hoshiiro-no-okurimono.json](./218376-hoshiiro-no-okurimono.json) |
 | Hoshiiro no Okurimono Portable | 218377 | [218377-hoshiiro-no-okurimono-portable.json](./218377-hoshiiro-no-okurimono-portable.json) |
 | Hoshimago | 236341 | [236341-hoshimago.json](./236341-hoshimago.json) |
+| Hoshiomio | 399425 | [399425-hoshiomio.json](./399425-hoshiomio.json) |
 | Hoshis Elektronauts | 81957 | [81957-hoshis-elektronauts.json](./81957-hoshis-elektronauts.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
@@ -8590,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyenas | 206103 | [206103-hyenas.json](./206103-hyenas.json) |
 | Hyke: Northern Light(s) | 339994 | [339994-hyke-northern-light-s.json](./339994-hyke-northern-light-s.json) |
+| Hyke: Northern Light(s) - A Witch’s Chill Time | 399417 | [399417-hyke-northern-light-s-a-witch-s-chill-time.json](./399417-hyke-northern-light-s-a-witch-s-chill-time.json) |
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics | 11599 | [11599-hylics.json](./11599-hylics.json) |
 | Hylics 2 | 98469 | [98469-hylics-2.json](./98469-hylics-2.json) |
