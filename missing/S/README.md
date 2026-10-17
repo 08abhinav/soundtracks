@@ -12230,6 +12230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
 | Sonic and the Dragon's Path | 334684 | [334684-sonic-and-the-dragons-path.json](./334684-sonic-and-the-dragons-path.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
+| Sonic and the Moon Faucility | 363153 | [363153-sonic-and-the-moon-faucility.json](./363153-sonic-and-the-moon-faucility.json) |
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
@@ -22135,6 +22136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling Special | 38286 | [38286-super-fire-pro-wrestling-special.json](./38286-super-fire-pro-wrestling-special.json) |
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
+| Super Firefighter | 363160 | [363160-super-firefighter.json](./363160-super-firefighter.json) |
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
 | Super Fishermind | 266139 | [266139-super-fishermind.json](./266139-super-fishermind.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
