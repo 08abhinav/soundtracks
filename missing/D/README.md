@@ -3106,6 +3106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flash | 97251 | [97251-death-flash.json](./97251-death-flash.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
+| Death Forest Abyss | 379094 | [379094-death-forest-abyss.json](./379094-death-forest-abyss.json) |
 | Death Forest Echoes | 413018 | [413018-death-forest-echoes.json](./413018-death-forest-echoes.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
@@ -4268,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltaruined | 329665 | [329665-deltaruined.json](./329665-deltaruined.json) |
 | Deltarune - Spamton Restitched | 312636 | [312636-deltarune-spamton-restitched.json](./312636-deltarune-spamton-restitched.json) |
 | Deltarune 97 | 277964 | [277964-deltarune-97.json](./277964-deltarune-97.json) |
+| Deltarune Explorers Of Sky: Battle Against Primal Dialga | 379189 | [379189-deltarune-explorers-of-sky-battle-against-primal-dialga.json](./379189-deltarune-explorers-of-sky-battle-against-primal-dialga.json) |
 | Deltarune Paraphrase: Steamton Edition | 374683 | [374683-deltarune-paraphrase-steamton-edition.json](./374683-deltarune-paraphrase-steamton-edition.json) |
 | Deltarune Sakuya Battle | 347258 | [347258-deltarune-sakuya-battle.json](./347258-deltarune-sakuya-battle.json) |
 | Deltarune Wandering Makers: Pantheon of the Discarded | 330549 | [330549-deltarune-wandering-makers-pantheon-of-the-discarded.json](./330549-deltarune-wandering-makers-pantheon-of-the-discarded.json) |
@@ -7674,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diving Corsola | 71567 | [71567-diving-corsola.json](./71567-diving-corsola.json) |
 | Diving Disorder | 157567 | [157567-diving-disorder.json](./157567-diving-disorder.json) |
 | Diving Focus | 348368 | [348368-diving-focus.json](./348368-diving-focus.json) |
+| Diving Into Abyss | 379093 | [379093-diving-into-abyss.json](./379093-diving-into-abyss.json) |
 | Diving Through Hell | 418556 | [418556-diving-through-hell.json](./418556-diving-through-hell.json) |
 | Divinia Chronicles: Relics of Gan-Ti | 17437 | [17437-divinia-chronicles-relics-of-gan-ti.json](./17437-divinia-chronicles-relics-of-gan-ti.json) |
 | Divinity | 381216 | [381216-divinity.json](./381216-divinity.json) |
