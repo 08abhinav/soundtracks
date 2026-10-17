@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
+| Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
 | Early Mellow | 296394 | [296394-early-mellow.json](./296394-early-mellow.json) |
 | Early-blooming Black Lily: Hana to Itsuki no Naisho no Hanashi 1 | 276135 | [276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json](./276135-early-blooming-black-lily-hana-to-itsuki-no-naisho-no-hanashi-1.json) |
