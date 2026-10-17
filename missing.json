@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T16:18:39.882Z",
-  "total_missing": 224328,
+  "generated_at": "2026-10-17T16:33:36.047Z",
+  "total_missing": 224378,
   "games": [
     {
       "igdb_id": 191680,
@@ -18967,6 +18967,11 @@
       "file": "missing/A/227209-absolute-talent.json"
     },
     {
+      "igdb_id": 379082,
+      "game_name": "Absolute Tennis Manager 2",
+      "file": "missing/A/379082-absolute-tennis-manager-2.json"
+    },
+    {
       "igdb_id": 137997,
       "game_name": "Absolute Territory: The Space Combat Simulator",
       "file": "missing/A/137997-absolute-territory-the-space-combat-simulator.json"
@@ -19572,6 +19577,11 @@
       "file": "missing/A/312662-abyssalrestaurant.json"
     },
     {
+      "igdb_id": 379083,
+      "game_name": "Abyssbound",
+      "file": "missing/A/379083-abyssbound.json"
+    },
+    {
       "igdb_id": 363049,
       "game_name": "Abyssdia",
       "file": "missing/A/363049-abyssdia.json"
@@ -19605,6 +19615,11 @@
       "igdb_id": 309322,
       "game_name": "Abyssus Deep Under",
       "file": "missing/A/309322-abyssus-deep-under.json"
+    },
+    {
+      "igdb_id": 379084,
+      "game_name": "Abyssus: Brineguard Pack",
+      "file": "missing/A/379084-abyssus-brineguard-pack.json"
     },
     {
       "igdb_id": 260646,
@@ -52812,6 +52827,11 @@
       "file": "missing/A/308424-apples-and-oranges.json"
     },
     {
+      "igdb_id": 379088,
+      "game_name": "Apples in the Abyss",
+      "file": "missing/A/379088-apples-in-the-abyss.json"
+    },
+    {
       "igdb_id": 380028,
       "game_name": "Apples in the Tree",
       "file": "missing/A/380028-apples-in-the-tree.json"
@@ -61605,6 +61625,11 @@
       "igdb_id": 187176,
       "game_name": "Arpsic",
       "file": "missing/A/187176-arpsic.json"
+    },
+    {
+      "igdb_id": 379085,
+      "game_name": "Arq Of The Abyss",
+      "file": "missing/A/379085-arq-of-the-abyss.json"
     },
     {
       "igdb_id": 172519,
@@ -101607,6 +101632,11 @@
       "file": "missing/B/129135-bienvenue-a-la-cosy-academie.json"
     },
     {
+      "igdb_id": 379190,
+      "game_name": "Bienvenue au club Tom-Tom et Nana",
+      "file": "missing/B/379190-bienvenue-au-club-tom-tom-et-nana.json"
+    },
+    {
       "igdb_id": 130121,
       "game_name": "Bierwagen Rush",
       "file": "missing/B/130121-bierwagen-rush.json"
@@ -137622,6 +137652,11 @@
       "file": "missing/B/335518-bunny-roulette.json"
     },
     {
+      "igdb_id": 379177,
+      "game_name": "Bunny Space Odyssey: FlopHop",
+      "file": "missing/B/379177-bunny-space-odyssey-flophop.json"
+    },
+    {
       "igdb_id": 126330,
       "game_name": "Bunny Sudoku",
       "file": "missing/B/126330-bunny-sudoku.json"
@@ -149615,6 +149650,11 @@
       "igdb_id": 291620,
       "game_name": "Cards with Personalities Classic",
       "file": "missing/C/291620-cards-with-personalities-classic.json"
+    },
+    {
+      "igdb_id": 379187,
+      "game_name": "Cards, the Universe and Everything",
+      "file": "missing/C/379187-cards-the-universe-and-everything.json"
     },
     {
       "igdb_id": 248154,
@@ -162582,6 +162622,11 @@
       "file": "missing/C/415433-chatle.json"
     },
     {
+      "igdb_id": 379185,
+      "game_name": "ChatPlay",
+      "file": "missing/C/379185-chatplay.json"
+    },
+    {
       "igdb_id": 306678,
       "game_name": "ChatTDT: Tower Defense Twitch",
       "file": "missing/C/306678-chattdt-tower-defense-twitch.json"
@@ -169847,6 +169892,11 @@
       "file": "missing/C/303734-chronicles-of-fear-the-babysitters-tale.json"
     },
     {
+      "igdb_id": 379087,
+      "game_name": "Chronicles of Immortality in the Cloud Abyss",
+      "file": "missing/C/379087-chronicles-of-immortality-in-the-cloud-abyss.json"
+    },
+    {
       "igdb_id": 284899,
       "game_name": "Chronicles of Lussaria",
       "file": "missing/C/284899-chronicles-of-lussaria.json"
@@ -170790,6 +170840,11 @@
       "igdb_id": 335960,
       "game_name": "Chunithm Verse",
       "file": "missing/C/335960-chunithm-verse.json"
+    },
+    {
+      "igdb_id": 379181,
+      "game_name": "Chunithm X-Verse-X",
+      "file": "missing/C/379181-chunithm-x-verse-x.json"
     },
     {
       "igdb_id": 397774,
@@ -205602,6 +205657,11 @@
       "file": "missing/C/61554-crw-counter-revolution-war.json"
     },
     {
+      "igdb_id": 379086,
+      "game_name": "Cry From the Abyss",
+      "file": "missing/C/379086-cry-from-the-abyss.json"
+    },
+    {
       "igdb_id": 158506,
       "game_name": "Cry of Athena",
       "file": "missing/C/158506-cry-of-athena.json"
@@ -229662,6 +229722,11 @@
       "file": "missing/D/140622-death-flush.json"
     },
     {
+      "igdb_id": 379094,
+      "game_name": "Death Forest Abyss",
+      "file": "missing/D/379094-death-forest-abyss.json"
+    },
+    {
       "igdb_id": 413018,
       "game_name": "Death Forest Echoes",
       "file": "missing/D/413018-death-forest-echoes.json"
@@ -235470,6 +235535,11 @@
       "igdb_id": 277964,
       "game_name": "Deltarune 97",
       "file": "missing/D/277964-deltarune-97.json"
+    },
+    {
+      "igdb_id": 379189,
+      "game_name": "Deltarune Explorers Of Sky: Battle Against Primal Dialga",
+      "file": "missing/D/379189-deltarune-explorers-of-sky-battle-against-primal-dialga.json"
     },
     {
       "igdb_id": 374683,
@@ -252500,6 +252570,11 @@
       "igdb_id": 348368,
       "game_name": "Diving Focus",
       "file": "missing/D/348368-diving-focus.json"
+    },
+    {
+      "igdb_id": 379093,
+      "game_name": "Diving Into Abyss",
+      "file": "missing/D/379093-diving-into-abyss.json"
     },
     {
       "igdb_id": 418556,
@@ -284740,6 +284815,11 @@
       "igdb_id": 226812,
       "game_name": "Echo of the Last Light",
       "file": "missing/E/226812-echo-of-the-last-light.json"
+    },
+    {
+      "igdb_id": 379179,
+      "game_name": "Echo of the Walls",
+      "file": "missing/E/379179-echo-of-the-walls.json"
     },
     {
       "igdb_id": 17514,
@@ -396877,6 +396957,11 @@
       "file": "missing/G/386442-guardian-of-the-sacred-seal.json"
     },
     {
+      "igdb_id": 379183,
+      "game_name": "Guardian of the Water Altar",
+      "file": "missing/G/379183-guardian-of-the-water-altar.json"
+    },
+    {
       "igdb_id": 104580,
       "game_name": "Guardian Prelude",
       "file": "missing/G/104580-guardian-prelude.json"
@@ -435537,6 +435622,11 @@
       "file": "missing/H/152939-hook-master.json"
     },
     {
+      "igdb_id": 379109,
+      "game_name": "Hook of Abyss",
+      "file": "missing/H/379109-hook-of-abyss.json"
+    },
+    {
       "igdb_id": 144607,
       "game_name": "Hook Only",
       "file": "missing/H/144607-hook-only.json"
@@ -439262,6 +439352,11 @@
       "file": "missing/H/409218-hotel-8.json"
     },
     {
+      "igdb_id": 379089,
+      "game_name": "Hotel Abyss",
+      "file": "missing/H/379089-hotel-abyss.json"
+    },
+    {
       "igdb_id": 128907,
       "game_name": "Hotel Afterlife",
       "file": "missing/H/128907-hotel-afterlife.json"
@@ -440395,6 +440490,11 @@
       "igdb_id": 169138,
       "game_name": "House of Rules",
       "file": "missing/H/169138-house-of-rules.json"
+    },
+    {
+      "igdb_id": 379191,
+      "game_name": "House of Saturn",
+      "file": "missing/H/379191-house-of-saturn.json"
     },
     {
       "igdb_id": 230907,
@@ -444050,6 +444150,11 @@
       "igdb_id": 409233,
       "game_name": "Hunter: Brotherhood",
       "file": "missing/H/409233-hunter-brotherhood.json"
+    },
+    {
+      "igdb_id": 379090,
+      "game_name": "Hunter: Into the Abyss",
+      "file": "missing/H/379090-hunter-into-the-abyss.json"
     },
     {
       "igdb_id": 409232,
@@ -502597,6 +502702,11 @@
       "file": "missing/K/17939-knight-of-the-hamsters.json"
     },
     {
+      "igdb_id": 379184,
+      "game_name": "Knight of the Keep",
+      "file": "missing/K/379184-knight-of-the-keep.json"
+    },
+    {
       "igdb_id": 191885,
       "game_name": "Knight of the Living Dead",
       "file": "missing/K/191885-knight-of-the-living-dead.json"
@@ -502865,6 +502975,11 @@
       "igdb_id": 188435,
       "game_name": "Knight's Try",
       "file": "missing/K/188435-knights-try.json"
+    },
+    {
+      "igdb_id": 379182,
+      "game_name": "Knight´s Quest",
+      "file": "missing/K/379182-knight-s-quest.json"
     },
     {
       "igdb_id": 194900,
@@ -514925,6 +515040,11 @@
       "igdb_id": 374965,
       "game_name": "Late Metro Drive",
       "file": "missing/L/374965-late-metro-drive.json"
+    },
+    {
+      "igdb_id": 379101,
+      "game_name": "Late Ming Dynasty",
+      "file": "missing/L/379101-late-ming-dynasty.json"
     },
     {
       "igdb_id": 339904,
@@ -637547,6 +637667,11 @@
       "file": "missing/N/192759-nia.json"
     },
     {
+      "igdb_id": 379091,
+      "game_name": "Nia and The Abyss",
+      "file": "missing/N/379091-nia-and-the-abyss.json"
+    },
+    {
       "igdb_id": 185511,
       "game_name": "Nia in Mushroom World",
       "file": "missing/N/185511-nia-in-mushroom-world.json"
@@ -641180,6 +641305,11 @@
       "igdb_id": 15271,
       "game_name": "Nine Princes in Amber",
       "file": "missing/N/15271-nine-princes-in-amber.json"
+    },
+    {
+      "igdb_id": 379092,
+      "game_name": "Nine Prophets: The Abyss",
+      "file": "missing/N/379092-nine-prophets-the-abyss.json"
     },
     {
       "igdb_id": 130064,
@@ -662060,6 +662190,11 @@
       "igdb_id": 259592,
       "game_name": "Only Down",
       "file": "missing/O/259592-only-down.json"
+    },
+    {
+      "igdb_id": 379102,
+      "game_name": "Only Down: Into the Abyss",
+      "file": "missing/O/379102-only-down-into-the-abyss.json"
     },
     {
       "igdb_id": 383782,
@@ -767117,6 +767252,11 @@
       "file": "missing/R/343346-reverse-1999-the-haunted-highway.json"
     },
     {
+      "igdb_id": 379188,
+      "game_name": "Reverse 1999: The Midnight Whistle",
+      "file": "missing/R/379188-reverse-1999-the-midnight-whistle.json"
+    },
+    {
       "igdb_id": 279785,
       "game_name": "Reverse 1999: The Theft of the Rimet Cup",
       "file": "missing/R/279785-reverse-1999-the-theft-of-the-rimet-cup.json"
@@ -847167,6 +847307,11 @@
       "file": "missing/S/166808-sokocat-dungeon.json"
     },
     {
+      "igdb_id": 379186,
+      "game_name": "Sokocat: Islands - Remastered",
+      "file": "missing/S/379186-sokocat-islands-remastered.json"
+    },
+    {
       "igdb_id": 201496,
       "game_name": "SokoChess",
       "file": "missing/S/201496-sokochess.json"
@@ -854675,6 +854820,11 @@
       "igdb_id": 41917,
       "game_name": "Sorcerer's Dream",
       "file": "missing/S/41917-sorcerers-dream.json"
+    },
+    {
+      "igdb_id": 379178,
+      "game_name": "Sorcerer's Fortitude",
+      "file": "missing/S/379178-sorcerers-fortitude.json"
     },
     {
       "igdb_id": 46197,
@@ -876252,6 +876402,11 @@
       "file": "missing/S/283672-star-stable-the-winter-rider.json"
     },
     {
+      "igdb_id": 379100,
+      "game_name": "Star Station Frontier",
+      "file": "missing/S/379100-star-station-frontier.json"
+    },
+    {
       "igdb_id": 183962,
       "game_name": "Star Stealing Prince: Definitive",
       "file": "missing/S/183962-star-stealing-prince-definitive.json"
@@ -878090,6 +878245,11 @@
       "igdb_id": 174301,
       "game_name": "Star*Burst",
       "file": "missing/S/174301-star-burst.json"
+    },
+    {
+      "igdb_id": 379108,
+      "game_name": "StarAbyss Heroes",
+      "file": "missing/S/379108-starabyss-heroes.json"
     },
     {
       "igdb_id": 349377,
@@ -885537,6 +885697,11 @@
       "file": "missing/S/420510-sticky-sword.json"
     },
     {
+      "igdb_id": 379106,
+      "game_name": "Sticky Twig Dash!",
+      "file": "missing/S/379106-sticky-twig-dash.json"
+    },
+    {
       "igdb_id": 178505,
       "game_name": "Sticky Zeitgeist: Episode 3 - A Trick With Ants",
       "file": "missing/S/178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json"
@@ -892885,6 +893050,11 @@
       "igdb_id": 264149,
       "game_name": "Sube",
       "file": "missing/S/264149-sube.json"
+    },
+    {
+      "igdb_id": 379105,
+      "game_name": "Subell's Abyss",
+      "file": "missing/S/379105-subells-abyss.json"
     },
     {
       "igdb_id": 189079,
@@ -938362,9 +938532,24 @@
       "file": "missing/T/239717-the-abyss.json"
     },
     {
+      "igdb_id": 379095,
+      "game_name": "The Abyss",
+      "file": "missing/T/379095-the-abyss.json"
+    },
+    {
       "igdb_id": 408981,
       "game_name": "The Abyss Below",
       "file": "missing/T/408981-the-abyss-below.json"
+    },
+    {
+      "igdb_id": 379097,
+      "game_name": "The Abyss Book",
+      "file": "missing/T/379097-the-abyss-book.json"
+    },
+    {
+      "igdb_id": 379098,
+      "game_name": "The Abyss Break",
+      "file": "missing/T/379098-the-abyss-break.json"
     },
     {
       "igdb_id": 195760,
@@ -938380,6 +938565,11 @@
       "igdb_id": 400939,
       "game_name": "The Abyssal Diplomat",
       "file": "missing/T/400939-the-abyssal-diplomat.json"
+    },
+    {
+      "igdb_id": 379096,
+      "game_name": "The Abyssal Maze",
+      "file": "missing/T/379096-the-abyssal-maze.json"
     },
     {
       "igdb_id": 12246,
@@ -987292,6 +987482,11 @@
       "file": "missing/T/158923-the-world.json"
     },
     {
+      "igdb_id": 379099,
+      "game_name": "The World 21: Gambit Abyss",
+      "file": "missing/T/379099-the-world-21-gambit-abyss.json"
+    },
+    {
       "igdb_id": 91965,
       "game_name": "The World 3: Rise of Demon",
       "file": "missing/T/91965-the-world-3-rise-of-demon.json"
@@ -1001245,6 +1001440,11 @@
       "igdb_id": 69937,
       "game_name": "Time-Gate",
       "file": "missing/T/69937-time-gate.json"
+    },
+    {
+      "igdb_id": 379103,
+      "game_name": "Time's Abyss",
+      "file": "missing/T/379103-times-abyss.json"
     },
     {
       "igdb_id": 236960,
@@ -1062077,6 +1062277,11 @@
       "file": "missing/V/419860-visceral.json"
     },
     {
+      "igdb_id": 379104,
+      "game_name": "Visceral Abyss",
+      "file": "missing/V/379104-visceral-abyss.json"
+    },
+    {
       "igdb_id": 96462,
       "game_name": "Visceral Cubes",
       "file": "missing/V/96462-visceral-cubes.json"
@@ -1074277,6 +1074482,11 @@
       "file": "missing/W/336559-warriors-waifus-mahjong.json"
     },
     {
+      "igdb_id": 379117,
+      "game_name": "Warriors: Abyss - \"Dynasty Warriors\" Costume Set",
+      "file": "missing/W/379117-warriors-abyss-dynasty-warriors-costume-set.json"
+    },
+    {
       "igdb_id": 379120,
       "game_name": "Warriors: Abyss - Atelier Series Academy Costume Set",
       "file": "missing/W/379120-warriors-abyss-atelier-series-academy-costume-set.json"
@@ -1074290,6 +1074500,41 @@
       "igdb_id": 379118,
       "game_name": "Warriors: Abyss - Dynasty Warriors Classic Costume Set",
       "file": "missing/W/379118-warriors-abyss-dynasty-warriors-classic-costume-set.json"
+    },
+    {
+      "igdb_id": 379116,
+      "game_name": "Warriors: Abyss - Dynasty Warriors Jin Dynasty Classic Costume Set",
+      "file": "missing/W/379116-warriors-abyss-dynasty-warriors-jin-dynasty-classic-costume-set.json"
+    },
+    {
+      "igdb_id": 379115,
+      "game_name": "Warriors: Abyss - Hack'n'Dash Legendary Costume Set",
+      "file": "missing/W/379115-warriors-abyss-hackndash-legendary-costume-set.json"
+    },
+    {
+      "igdb_id": 379114,
+      "game_name": "Warriors: Abyss - Master Ninja Formal Costume Set",
+      "file": "missing/W/379114-warriors-abyss-master-ninja-formal-costume-set.json"
+    },
+    {
+      "igdb_id": 379113,
+      "game_name": "Warriors: Abyss - Master Ninja Legacy Costume Set",
+      "file": "missing/W/379113-warriors-abyss-master-ninja-legacy-costume-set.json"
+    },
+    {
+      "igdb_id": 379112,
+      "game_name": "Warriors: Abyss - Nobunaga's Ambition Yukimura Sanada Costume Set",
+      "file": "missing/W/379112-warriors-abyss-nobunagas-ambition-yukimura-sanada-costume-set.json"
+    },
+    {
+      "igdb_id": 379111,
+      "game_name": "Warriors: Abyss - Samurai Warriors Classic Costume Set",
+      "file": "missing/W/379111-warriors-abyss-samurai-warriors-classic-costume-set.json"
+    },
+    {
+      "igdb_id": 379110,
+      "game_name": "Warriors: Abyss - Samurai Warriors Western Japan Classic Costume Set",
+      "file": "missing/W/379110-warriors-abyss-samurai-warriors-western-japan-classic-costume-set.json"
     },
     {
       "igdb_id": 7244,
@@ -1095655,6 +1095900,11 @@
       "igdb_id": 284833,
       "game_name": "World in fire",
       "file": "missing/W/284833-world-in-fire.json"
+    },
+    {
+      "igdb_id": 379107,
+      "game_name": "World In The Abyss",
+      "file": "missing/W/379107-world-in-the-abyss.json"
     },
     {
       "igdb_id": 376713,
