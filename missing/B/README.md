@@ -4329,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
 | Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
+| Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
 | Bell Ringer | 33919 | [33919-bell-ringer.json](./33919-bell-ringer.json) |
@@ -6582,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Roulette | 380530 | [380530-blackjack-roulette.json](./380530-blackjack-roulette.json) |
 | Blackjack Roulette | 390217 | [390217-blackjack-roulette.json](./390217-blackjack-roulette.json) |
 | Blackjack Royale | 90986 | [90986-blackjack-royale.json](./90986-blackjack-royale.json) |
+| Blackjack Simple | 369322 | [369322-blackjack-simple.json](./369322-blackjack-simple.json) |
 | Blackjack Simulator 2024 | 266297 | [266297-blackjack-simulator-2024.json](./266297-blackjack-simulator-2024.json) |
 | Blackjack Simulator 2025 | 359000 | [359000-blackjack-simulator-2025.json](./359000-blackjack-simulator-2025.json) |
 | Blackjack story | 180119 | [180119-blackjack-story.json](./180119-blackjack-story.json) |
@@ -7157,6 +7159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Girl | 111489 | [111489-blind-girl.json](./111489-blind-girl.json) |
 | Blind Jump | 304638 | [304638-blind-jump.json](./304638-blind-jump.json) |
 | Blind Love | 30009 | [30009-blind-love.json](./30009-blind-love.json) |
+| Blind Man's Sun | 369330 | [369330-blind-mans-sun.json](./369330-blind-mans-sun.json) |
 | Blind Men | 44176 | [44176-blind-men.json](./44176-blind-men.json) |
 | Blind Mind | 96877 | [96877-blind-mind.json](./96877-blind-mind.json) |
 | Blind Monk's Society | 201765 | [201765-blind-monks-society.json](./201765-blind-monks-society.json) |
@@ -10241,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainRot | 336518 | [336518-brainrot.json](./336518-brainrot.json) |
 | Brainrot Battle | 363564 | [363564-brainrot-battle.json](./363564-brainrot-battle.json) |
 | Brainrot Battle Royale | 366730 | [366730-brainrot-battle-royale.json](./366730-brainrot-battle-royale.json) |
+| Brainrot Battle Simulator | 369317 | [369317-brainrot-battle-simulator.json](./369317-brainrot-battle-simulator.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
