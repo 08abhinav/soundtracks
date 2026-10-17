@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
+| Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
 | SaHwa: The Altered Timeline | 368601 | [368601-sahwa-the-altered-timeline.json](./368601-sahwa-the-altered-timeline.json) |
 | Sai | 133880 | [133880-sai.json](./133880-sai.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
+| Shadow Quest | 372738 | [372738-shadow-quest.json](./372738-shadow-quest.json) |
 | Shadow Racer | 120344 | [120344-shadow-racer.json](./120344-shadow-racer.json) |
 | Shadow Rasa | 390147 | [390147-shadow-rasa.json](./390147-shadow-rasa.json) |
 | Shadow Realms | 7617 | [7617-shadow-realms.json](./7617-shadow-realms.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shine's Adventures 3 (Sea Fight) | 127811 | [127811-shines-adventures-3-sea-fight.json](./127811-shines-adventures-3-sea-fight.json) |
 | Shine's Adventures 4 (Nightmare) | 129659 | [129659-shines-adventures-4-nightmare.json](./129659-shines-adventures-4-nightmare.json) |
 | Shine's Adventures 5: World of Box | 127318 | [127318-shines-adventures-5-world-of-box.json](./127318-shines-adventures-5-world-of-box.json) |
+| Shinebringers | 372755 | [372755-shinebringers.json](./372755-shinebringers.json) |
 | ShineG Has Nightmares | 68675 | [68675-shineg-has-nightmares.json](./68675-shineg-has-nightmares.json) |
 | ShineG In Bumpercat | 112462 | [112462-shineg-in-bumpercat.json](./112462-shineg-in-bumpercat.json) |
 | ShineG In Future Factory | 90181 | [90181-shineg-in-future-factory.json](./90181-shineg-in-future-factory.json) |
@@ -22439,6 +22442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 2D Land | 269114 | [269114-super-mario-2d-land.json](./269114-super-mario-2d-land.json) |
 | Super Mario 3D All-Stars | 138225 | [138225-super-mario-3d-all-stars.json](./138225-super-mario-3d-all-stars.json) |
+| Super Mario 3D All-Stars Deluxe | 372760 | [372760-super-mario-3d-all-stars-deluxe.json](./372760-super-mario-3d-all-stars-deluxe.json) |
 | Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
 | Super Mario 3D World | 229339 | [229339-super-mario-3d-world.json](./229339-super-mario-3d-world.json) |
 | Super Mario 3D World + Bowser's Fury | 138227 | [138227-super-mario-3d-world-bowsers-fury.json](./138227-super-mario-3d-world-bowsers-fury.json) |
@@ -24118,6 +24122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sur5 | 236310 | [236310-sur5.json](./236310-sur5.json) |
 | Sura: Shattered Star | 412474 | [412474-sura-shattered-star.json](./412474-sura-shattered-star.json) |
 | Surabaya Inferno | 150676 | [150676-surabaya-inferno.json](./150676-surabaya-inferno.json) |
+| Surangama | 372742 | [372742-surangama.json](./372742-surangama.json) |
 | Surbird | 292555 | [292555-surbird.json](./292555-surbird.json) |
 | Sure Instinct | 251713 | [251713-sure-instinct.json](./251713-sure-instinct.json) |
 | Sure Shot | 355543 | [355543-sure-shot.json](./355543-sure-shot.json) |
