@@ -2990,12 +2990,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
+| Penumbra: Overture VR | 410177 | [410177-penumbra-overture-vr.json](./410177-penumbra-overture-vr.json) |
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People and Zombies | 341451 | [341451-people-and-zombies.json](./341451-people-and-zombies.json) |
 | People are Labyrinths | 204240 | [204240-people-are-labyrinths.json](./204240-people-are-labyrinths.json) |
+| People are Tools | 410291 | [410291-people-are-tools.json](./410291-people-are-tools.json) |
 | People Cu3ed | 108049 | [108049-people-cu3ed.json](./108049-people-cu3ed.json) |
 | People Eater | 28901 | [28901-people-eater.json](./28901-people-eater.json) |
 | People Farm | 387088 | [387088-people-farm.json](./387088-people-farm.json) |
@@ -3106,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark | 1464 | [1464-perfect-dark.json](./1464-perfect-dark.json) |
 | Perfect Dark | 1466 | [1466-perfect-dark.json](./1466-perfect-dark.json) |
 | Perfect Dark PC Port | 271424 | [271424-perfect-dark-pc-port.json](./271424-perfect-dark-pc-port.json) |
+| Perfect Dark VR | 410083 | [410083-perfect-dark-vr.json](./410083-perfect-dark-vr.json) |
 | Perfect Dark With Mario Characters | 283111 | [283111-perfect-dark-with-mario-characters.json](./283111-perfect-dark-with-mario-characters.json) |
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
