@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Mutant | 370711 | [370711-parasite-mutant.json](./370711-parasite-mutant.json) |
 | Parasite Pack | 207292 | [207292-parasite-pack.json](./207292-parasite-pack.json) |
 | Parasite Star | 177972 | [177972-parasite-star.json](./177972-parasite-star.json) |
+| Parasite Tunnel | 381875 | [381875-parasite-tunnel.json](./381875-parasite-tunnel.json) |
 | Parasited Will | 333060 | [333060-parasited-will.json](./333060-parasited-will.json) |
 | Parasites | 282840 | [282840-parasites.json](./282840-parasites.json) |
 | Parasitic Descent | 319117 | [319117-parasitic-descent.json](./319117-parasitic-descent.json) |
@@ -1954,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
+| Pass the Fear | 381896 | [381896-pass-the-fear.json](./381896-pass-the-fear.json) |
 | Pass the Mask! | 401051 | [401051-pass-the-mask.json](./401051-pass-the-mask.json) |
 | Pass the Pigs | 18271 | [18271-pass-the-pigs.json](./18271-pass-the-pigs.json) |
 | Pass the Punch | 121358 | [121358-pass-the-punch.json](./121358-pass-the-punch.json) |
@@ -7318,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Adventurer | 416043 | [416043-pocket-adventurer.json](./416043-pocket-adventurer.json) |
 | Pocket Ants | 193954 | [193954-pocket-ants.json](./193954-pocket-ants.json) |
 | Pocket Aquarium | 104712 | [104712-pocket-aquarium.json](./104712-pocket-aquarium.json) |
+| Pocket Aquarium | 381900 | [381900-pocket-aquarium.json](./381900-pocket-aquarium.json) |
 | Pocket Arcade Story | 56989 | [56989-pocket-arcade-story.json](./56989-pocket-arcade-story.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
 | Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
@@ -8175,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Tower Defense 2 | 180292 | [180292-pokemon-tower-defense-2.json](./180292-pokemon-tower-defense-2.json) |
 | Pokémon Trading Card Game Live | 171816 | [171816-pokemon-trading-card-game-live.json](./171816-pokemon-trading-card-game-live.json) |
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
+| Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
