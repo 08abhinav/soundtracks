@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
 | Lights Out | 393161 | [393161-lights-out.json](./393161-lights-out.json) |
 | Lights Out Luigi | 323285 | [323285-lights-out-luigi.json](./323285-lights-out-luigi.json) |
+| Lights Out! | 376190 | [376190-lights-out.json](./376190-lights-out.json) |
 | Lights, Camera, Party! | 52543 | [52543-lights-camera-party.json](./52543-lights-camera-party.json) |
 | Lightsaver | 388384 | [388384-lightsaver.json](./388384-lightsaver.json) |
 | Lightseekers | 76550 | [76550-lightseekers.json](./76550-lightseekers.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Guys | 322992 | [322992-lil-guys.json](./322992-lil-guys.json) |
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
+| Lil Kobold's Big Stew | 376203 | [376203-lil-kobolds-big-stew.json](./376203-lil-kobolds-big-stew.json) |
 | Lil Pump Piano Tiles | 95867 | [95867-lil-pump-piano-tiles.json](./95867-lil-pump-piano-tiles.json) |
 | Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
 | Lil Spoops | 236021 | [236021-lil-spoops.json](./236021-lil-spoops.json) |
@@ -3740,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limos' Lair | 249899 | [249899-limos-lair.json](./249899-limos-lair.json) |
 | Limousine Parking Simulator | 211652 | [211652-limousine-parking-simulator.json](./211652-limousine-parking-simulator.json) |
 | Limp Heroes+ | 292258 | [292258-limp-heroes.json](./292258-limp-heroes.json) |
+| Limp Knight | 376197 | [376197-limp-knight.json](./376197-limp-knight.json) |
 | Limp Mode | 414575 | [414575-limp-mode.json](./414575-limp-mode.json) |
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
 | Limscape | 322097 | [322097-limscape.json](./322097-limscape.json) |
