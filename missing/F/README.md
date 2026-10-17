@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fightmons | 120224 | [120224-fightmons.json](./120224-fightmons.json) |
 | Fights in Tight Spaces | 132422 | [132422-fights-in-tight-spaces.json](./132422-fights-in-tight-spaces.json) |
 | Fights in Tight Spaces: Complete Edition | 270309 | [270309-fights-in-tight-spaces-complete-edition.json](./270309-fights-in-tight-spaces-complete-edition.json) |
+| Fights in Tight Spaces: Frights in Tight Spaces | 375531 | [375531-fights-in-tight-spaces-frights-in-tight-spaces.json](./375531-fights-in-tight-spaces-frights-in-tight-spaces.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
