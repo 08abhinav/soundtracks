@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
 | Das Geisterschiff Remixed | 179421 | [179421-das-geisterschiff-remixed.json](./179421-das-geisterschiff-remixed.json) |
+| Das Kopialbuch | 405482 | [405482-das-kopialbuch.json](./405482-das-kopialbuch.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
 | Das neue Dr. Brain Gehirn Jogging | 91613 | [91613-das-neue-dr-brain-gehirn-jogging.json](./91613-das-neue-dr-brain-gehirn-jogging.json) |
@@ -2980,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| Dearbnb | 405361 | [405361-dearbnb.json](./405361-dearbnb.json) |
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
 | Deardrops Distortion | 125741 | [125741-deardrops-distortion.json](./125741-deardrops-distortion.json) |
@@ -3982,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deflex V | 315510 | [315510-deflex-v.json](./315510-deflex-v.json) |
 | Deformed | 244248 | [244248-deformed.json](./244248-deformed.json) |
 | Deformers | 207118 | [207118-deformers.json](./207118-deformers.json) |
+| Deformuseum | 405485 | [405485-deformuseum.json](./405485-deformuseum.json) |
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Defy Gravity Extended | 16242 | [16242-defy-gravity-extended.json](./16242-defy-gravity-extended.json) |
@@ -6017,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Again: Northern Front | 172091 | [172091-die-again-northern-front.json](./172091-die-again-northern-front.json) |
 | Die Alien Slime | 13593 | [13593-die-alien-slime.json](./13593-die-alien-slime.json) |
 | Die Bahnwelt | 82035 | [82035-die-bahnwelt.json](./82035-die-bahnwelt.json) |
+| Die Bewerbung | 405484 | [405484-die-bewerbung.json](./405484-die-bewerbung.json) |
 | Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
 | Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
@@ -6050,6 +6054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Gekirin & Die Dekirin II Pack | 137457 | [137457-die-gekirin-and-die-dekirin-ii-pack.json](./137457-die-gekirin-and-die-dekirin-ii-pack.json) |
 | Die Gekirin II | 137463 | [137463-die-gekirin-ii.json](./137463-die-gekirin-ii.json) |
 | Die Gekirin III | 137458 | [137458-die-gekirin-iii.json](./137458-die-gekirin-iii.json) |
+| Die Geschichte des Herrn P. | 405495 | [405495-die-geschichte-des-herrn-p.json](./405495-die-geschichte-des-herrn-p.json) |
 | Die goldene Maske | 141154 | [141154-die-goldene-maske.json](./141154-die-goldene-maske.json) |
 | Die Große Jump & Run-Box | 93971 | [93971-die-gro-e-jump-and-run-box.json](./93971-die-gro-e-jump-and-run-box.json) |
 | Die Hard | 245290 | [245290-die-hard.json](./245290-die-hard.json) |
@@ -6430,6 +6435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional: Prophecy of Zohar | 187888 | [187888-dimensional-prophecy-of-zohar.json](./187888-dimensional-prophecy-of-zohar.json) |
 | Dimensional: Prophecy of Zohar 2 | 342892 | [342892-dimensional-prophecy-of-zohar-2.json](./342892-dimensional-prophecy-of-zohar-2.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
+| Dimensione Sconosciuta | 405505 | [405505-dimensione-sconosciuta.json](./405505-dimensione-sconosciuta.json) |
 | Dimensionless | 241296 | [241296-dimensionless.json](./241296-dimensionless.json) |
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
 | Dimensions | 249474 | [249474-dimensions.json](./249474-dimensions.json) |
