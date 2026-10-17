@@ -6903,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle World | 123980 | [123980-shuffle-world.json](./123980-shuffle-world.json) |
 | Shuffle! | 31127 | [31127-shuffle.json](./31127-shuffle.json) |
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
+| Shuffle! Love Rainbow | 371580 | [371580-shuffle-love-rainbow.json](./371580-shuffle-love-rainbow.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
@@ -15016,6 +15017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbounce | 281328 | [281328-spellbounce.json](./281328-spellbounce.json) |
 | Spellbound | 12361 | [12361-spellbound.json](./12361-spellbound.json) |
 | Spellbound | 179683 | [179683-spellbound.json](./179683-spellbound.json) |
+| SpellBound | 371571 | [371571-spellbound.json](./371571-spellbound.json) |
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
@@ -19033,6 +19035,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Party | 323378 | [323378-stickman-party.json](./323378-stickman-party.json) |
 | Stickman Physics Battle Arena | 391757 | [391757-stickman-physics-battle-arena.json](./391757-stickman-physics-battle-arena.json) |
 | Stickman Pixel Archer | 239348 | [239348-stickman-pixel-archer.json](./239348-stickman-pixel-archer.json) |
+| Stickman Project | 371543 | [371543-stickman-project.json](./371543-stickman-project.json) |
+| Stickman Project: Rebirth | 371544 | [371544-stickman-project-rebirth.json](./371544-stickman-project-rebirth.json) |
 | Stickman Puzzle | 348297 | [348297-stickman-puzzle.json](./348297-stickman-puzzle.json) |
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
@@ -22412,6 +22416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
+| Super Lunch-Out 2 Turbo | 371530 | [371530-super-lunch-out-2-turbo.json](./371530-super-lunch-out-2-turbo.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
 | Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
