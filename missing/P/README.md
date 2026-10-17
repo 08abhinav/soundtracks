@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pal Go | 343831 | [343831-pal-go.json](./343831-pal-go.json) |
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
+| Pal-world!: More Than Just Pals | 405947 | [405947-pal-world-more-than-just-pals.json](./405947-pal-world-more-than-just-pals.json) |
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
 | Palabras en inglés para aprender en la primaria | 415393 | [415393-palabras-en-ingles-para-aprender-en-la-primaria.json](./415393-palabras-en-ingles-para-aprender-en-la-primaria.json) |
 | Palace Jam 1 | 343389 | [343389-palace-jam-1.json](./343389-palace-jam-1.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parthian Kings | 23963 | [23963-parthian-kings.json](./23963-parthian-kings.json) |
 | Partia 3 | 197346 | [197346-partia-3.json](./197346-partia-3.json) |
 | Partial Control | 118358 | [118358-partial-control.json](./118358-partial-control.json) |
+| Partially Realio: Bittersweet 16 | 405983 | [405983-partially-realio-bittersweet-16.json](./405983-partially-realio-bittersweet-16.json) |
 | Partical City Guardians | 32245 | [32245-partical-city-guardians.json](./32245-partical-city-guardians.json) |
 | Particle | 309496 | [309496-particle.json](./309496-particle.json) |
 | Particle Accelerator | 357362 | [357362-particle-accelerator.json](./357362-particle-accelerator.json) |
