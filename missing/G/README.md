@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
 | GallowsHill | 265529 | [265529-gallowshill.json](./265529-gallowshill.json) |
 | Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
+| Galo's Strife | 374360 | [374360-galos-strife.json](./374360-galos-strife.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | Galppo Club | 92132 | [92132-galppo-club.json](./92132-galppo-club.json) |
 | GalRock Girls | 258440 | [258440-galrock-girls.json](./258440-galrock-girls.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
 | Gay World | 81954 | [81954-gay-world.json](./81954-gay-world.json) |
 | Gay Zodiac | 183034 | [183034-gay-zodiac.json](./183034-gay-zodiac.json) |
+| Gaya: The Mystery | 374379 | [374379-gaya-the-mystery.json](./374379-gaya-the-mystery.json) |
 | Gayandere | 215782 | [215782-gayandere.json](./215782-gayandere.json) |
 | GayBlade | 137326 | [137326-gayblade.json](./137326-gayblade.json) |
 | Gaydorado | 87004 | [87004-gaydorado.json](./87004-gaydorado.json) |
@@ -3353,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
+| Gladiators of Roma Revixit | 374369 | [374369-gladiators-of-roma-revixit.json](./374369-gladiators-of-roma-revixit.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
@@ -5781,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Up! | 312648 | [312648-grapple-up.json](./312648-grapple-up.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
+| GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
