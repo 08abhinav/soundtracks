@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:05:35.172Z",
-  "total_soundtracks": 2036,
+  "generated_at": "2026-10-17T15:05:42.668Z",
+  "total_soundtracks": 2037,
   "games": [
     {
       "igdb_id": 7522,
@@ -18543,6 +18543,20 @@
         {
           "album_name": "SOULCALIBUR Ⅳ ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/2KXbLwn7OWdJMTPzTCJwhv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 210585,
+      "game_name": "Soulstone Survivors",
+      "game_url": "https://ostdb.net/games/soulstone-survivors",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346594b3696255fe3ee20d70d",
+      "albums": [
+        {
+          "album_name": "Soulstone Survivors (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1jQC0EFLQg0xX6PKD9kEWG",
           "apple_music_url": "",
           "album_link_url": ""
         }
