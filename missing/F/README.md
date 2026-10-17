@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Boyard | 50030 | [50030-fort-boyard.json](./50030-fort-boyard.json) |
 | Fort Boyard 2022 | 199324 | [199324-fort-boyard-2022.json](./199324-fort-boyard-2022.json) |
 | Fort Boyard, le jeu | 268131 | [268131-fort-boyard-le-jeu.json](./268131-fort-boyard-le-jeu.json) |
+| Fort Boyard: La Légende | 400680 | [400680-fort-boyard-la-legende.json](./400680-fort-boyard-la-legende.json) |
 | Fort Boyard: Millennium | 310666 | [310666-fort-boyard-millennium.json](./310666-fort-boyard-millennium.json) |
 | Fort Boyard: The Challenge | 388268 | [388268-fort-boyard-the-challenge.json](./388268-fort-boyard-the-challenge.json) |
 | Fort Commander II: Counterattack | 118932 | [118932-fort-commander-ii-counterattack.json](./118932-fort-commander-ii-counterattack.json) |
@@ -7705,6 +7706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
 | Foxventures | 235763 | [235763-foxventures.json](./235763-foxventures.json) |
+| FoxWolf Saga | 400659 | [400659-foxwolf-saga.json](./400659-foxwolf-saga.json) |
 | Foxx Fights Back | 13851 | [13851-foxx-fights-back.json](./13851-foxx-fights-back.json) |
 | Foxxel Quest | 339297 | [339297-foxxel-quest.json](./339297-foxxel-quest.json) |
 | Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
@@ -8578,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frog Telephone | 407163 | [407163-frog-telephone.json](./407163-frog-telephone.json) |
 | Frog Up! | 390816 | [390816-frog-up.json](./390816-frog-up.json) |
+| Frog Up! | 400664 | [400664-frog-up.json](./400664-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
