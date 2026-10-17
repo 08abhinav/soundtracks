@@ -2691,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Demon Island | 109903 | [109903-cat-demon-island.json](./109903-cat-demon-island.json) |
 | Cat Designer Mocha | 152192 | [152192-cat-designer-mocha.json](./152192-cat-designer-mocha.json) |
 | Cat Detective Albert Wilde | 191800 | [191800-cat-detective-albert-wilde.json](./191800-cat-detective-albert-wilde.json) |
+| Cat Doctor | 372763 | [372763-cat-doctor.json](./372763-cat-doctor.json) |
 | Cat Doctor: For Loyal Servants | 396880 | [396880-cat-doctor-for-loyal-servants.json](./396880-cat-doctor-for-loyal-servants.json) |
 | Cat doesn't like banana | 108033 | [108033-cat-doesnt-like-banana.json](./108033-cat-doesnt-like-banana.json) |
 | Cat Drift | 320824 | [320824-cat-drift.json](./320824-cat-drift.json) |
@@ -6818,6 +6819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of the Living Dead | 231428 | [231428-class-of-the-living-dead.json](./231428-class-of-the-living-dead.json) |
 | Class Trip Crush | 238411 | [238411-class-trip-crush.json](./238411-class-trip-crush.json) |
 | Class4 (working title) | 131466 | [131466-class4-working-title.json](./131466-class4-working-title.json) |
+| ClassBoom | 372748 | [372748-classboom.json](./372748-classboom.json) |
 | Classic Action: Devilish | 47890 | [47890-classic-action-devilish.json](./47890-classic-action-devilish.json) |
 | Classic Adventure | 25589 | [25589-classic-adventure.json](./25589-classic-adventure.json) |
 | Classic Adventures: The Great Gatsby | 417686 | [417686-classic-adventures-the-great-gatsby.json](./417686-classic-adventures-the-great-gatsby.json) |
@@ -10004,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Story Crush | 166302 | [166302-cookie-story-crush.json](./166302-cookie-story-crush.json) |
 | Cookie's Bakery | 181856 | [181856-cookies-bakery.json](./181856-cookies-bakery.json) |
 | Cookie's Bustle | 122887 | [122887-cookies-bustle.json](./122887-cookies-bustle.json) |
+| Cookie's Trails | 372762 | [372762-cookies-trails.json](./372762-cookies-trails.json) |
 | CookieRun: Crumble - Idle RPG | 412209 | [412209-cookierun-crumble-idle-rpg.json](./412209-cookierun-crumble-idle-rpg.json) |
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
@@ -10686,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Defenders | 85553 | [85553-cosmos-defenders.json](./85553-cosmos-defenders.json) |
 | Cosmos Iter | 386884 | [386884-cosmos-iter.json](./386884-cosmos-iter.json) |
 | Cosmos Kitten | 332843 | [332843-cosmos-kitten.json](./332843-cosmos-kitten.json) |
+| Cosmos Milk Tea | 372728 | [372728-cosmos-milk-tea.json](./372728-cosmos-milk-tea.json) |
 | Cosmos no Sora ni | 395012 | [395012-cosmos-no-sora-ni.json](./395012-cosmos-no-sora-ni.json) |
 | Cosmos Quest | 395859 | [395859-cosmos-quest.json](./395859-cosmos-quest.json) |
 | Cosmos Quest I: To Find a Sun | 71405 | [71405-cosmos-quest-i-to-find-a-sun.json](./71405-cosmos-quest-i-to-find-a-sun.json) |
@@ -12355,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Mass | 13534 | [13534-critical-mass.json](./13534-critical-mass.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
 | Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
+| Critical Ops: Dead Zone | 372739 | [372739-critical-ops-dead-zone.json](./372739-critical-ops-dead-zone.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
 | Critical Point | 337490 | [337490-critical-point.json](./337490-critical-point.json) |
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
@@ -13985,6 +13990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
 | Cursed Place | 294554 | [294554-cursed-place.json](./294554-cursed-place.json) |
+| Cursed Presence | 372749 | [372749-cursed-presence.json](./372749-cursed-presence.json) |
 | Cursed Puppetry | 114314 | [114314-cursed-puppetry.json](./114314-cursed-puppetry.json) |
 | Cursed Queen : Wicked Witch | 105371 | [105371-cursed-queen-wicked-witch.json](./105371-cursed-queen-wicked-witch.json) |
 | Cursed Realm | 258722 | [258722-cursed-realm.json](./258722-cursed-realm.json) |
