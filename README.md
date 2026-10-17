@@ -1563,6 +1563,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2730dd38ac7403eb23056eb53a5" width="60" /> | [The Sims: Vacation](https://ostdb.net/games/the-sims-vacation) | **The Sims: Vacation (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1B464scEXJFyzjSbVYufgL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a" width="60" /> | [The Stanley Parable](https://ostdb.net/games/the-stanley-parable) | **The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26yMmck9922U47xc62MbOw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c17a7dfbff479cfd7781d48a" width="60" /> | [The Stanley Parable: Ultra Deluxe](https://ostdb.net/games/the-stanley-parable-ultra-deluxe) | **The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26yMmck9922U47xc62MbOw) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273389d2293c77381c8362ba883" width="60" /> | [The Suffering](https://ostdb.net/games/the-suffering) | **The Suffering (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/16UxM1JwJCYw3IBZWduglx) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/56/c3/01/56c3011b-6230-4b5f-93bd-c83908288cd7/cover.jpg/600x600bb.jpg" width="60" /> | [The Surge 2](https://ostdb.net/games/the-surge-2) | **The Surge 2 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-surge-2-original-game-soundtrack/1571149387?uo=4) · [Album](https://album.link/i/1571149387) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273248ba64df3cd01498bb9f10f" width="60" /> | [The Talos Principle](https://ostdb.net/games/the-talos-principle) | **The Talos Principle (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7CneZnc5pSVscz4QszEGht) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27341f5a0c5d31b7997562200ff" width="60" /> | [The Texas Chain Saw Massacre](https://ostdb.net/games/the-texas-chain-saw-massacre) | **The Texas Chain Saw Massacre (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4rKZ6V37L5ujYjOeLCTaVr) |
@@ -1807,4 +1808,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2124 soundtracks · last updated 2026-10-17T15:51:27.282Z_
+_2125 soundtracks · last updated 2026-10-17T15:51:35.593Z_
