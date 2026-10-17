@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hemoglobin Project | 177978 | [177978-hemoglobin-project.json](./177978-hemoglobin-project.json) |
 | Hemomancer | 357413 | [357413-hemomancer.json](./357413-hemomancer.json) |
 | Hemophobia | 299160 | [299160-hemophobia.json](./299160-hemophobia.json) |
+| Hemp Paradise | 381295 | [381295-hemp-paradise.json](./381295-hemp-paradise.json) |
 | Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
@@ -7465,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
+| Hotcorn | 381314 | [381314-hotcorn.json](./381314-hotcorn.json) |
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Cart Simulator | 385447 | [385447-hotdog-cart-simulator.json](./385447-hotdog-cart-simulator.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
