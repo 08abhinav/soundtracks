@@ -1279,6 +1279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
+| Fang and Izzy Pinball Bash | 407192 | [407192-fang-and-izzy-pinball-bash.json](./407192-fang-and-izzy-pinball-bash.json) |
 | Fāngkuài Liánméng | 114161 | [114161-fangkuai-lianmeng.json](./114161-fangkuai-lianmeng.json) |
 | Fangs | 172477 | [172477-fangs.json](./172477-fangs.json) |
 | Fangs and Friends | 176436 | [176436-fangs-and-friends.json](./176436-fangs-and-friends.json) |
@@ -8555,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
+| Frog Telephone | 407163 | [407163-frog-telephone.json](./407163-frog-telephone.json) |
 | Frog Up! | 390816 | [390816-frog-up.json](./390816-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
@@ -9366,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
+| Fungidemi | 407146 | [407146-fungidemi.json](./407146-fungidemi.json) |
 | Fungiman | 207562 | [207562-fungiman.json](./207562-fungiman.json) |
 | Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
 | Fungoids: Steam Version | 93613 | [93613-fungoids-steam-version.json](./93613-fungoids-steam-version.json) |
