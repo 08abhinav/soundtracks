@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Juice | 88438 | [88438-jelly-juice.json](./88438-jelly-juice.json) |
 | Jelly Jump | 147411 | [147411-jelly-jump.json](./147411-jelly-jump.json) |
 | Jelly Jump | 86950 | [86950-jelly-jump.json](./86950-jelly-jump.json) |
+| Jelly Jumper | 416749 | [416749-jelly-jumper.json](./416749-jelly-jumper.json) |
 | Jelly Killer | 33538 | [33538-jelly-killer.json](./33538-jelly-killer.json) |
 | Jelly Lab Reloaded | 246082 | [246082-jelly-lab-reloaded.json](./246082-jelly-lab-reloaded.json) |
 | Jelly Lam | 102037 | [102037-jelly-lam.json](./102037-jelly-lam.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumping Platform Minigame | 158683 | [158683-jumping-platform-minigame.json](./158683-jumping-platform-minigame.json) |
 | Jumping Pop | 46798 | [46798-jumping-pop.json](./46798-jumping-pop.json) |
 | Jumping Tank | 29701 | [29701-jumping-tank.json](./29701-jumping-tank.json) |
+| Jumping Troll | 416751 | [416751-jumping-troll.json](./416751-jumping-troll.json) |
 | Jumping Whopper | 238203 | [238203-jumping-whopper.json](./238203-jumping-whopper.json) |
 | Jumping With Friends | 411120 | [411120-jumping-with-friends.json](./411120-jumping-with-friends.json) |
 | Jumping! | 209655 | [209655-jumping.json](./209655-jumping.json) |
