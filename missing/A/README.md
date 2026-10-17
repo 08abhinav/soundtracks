@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Tenjinroku | 208850 | [208850-akatsuki-no-tenjinroku.json](./208850-akatsuki-no-tenjinroku.json) |
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Yureru Koi Akari SS: Asahi to One Room - Toaru Natsu no Ichinichi | 371589 | [371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json](./371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json) |
+| Akatsuki Yureru Koi Akari SS: Momiji to One Room - Toaru Natsu no Ichinichi | 371582 | [371582-akatsuki-yureru-koi-akari-ss-momiji-to-one-room-toaru-natsu-no-ichinichi.json](./371582-akatsuki-yureru-koi-akari-ss-momiji-to-one-room-toaru-natsu-no-ichinichi.json) |
 | Akatsuki Zero | 258127 | [258127-akatsuki-zero.json](./258127-akatsuki-zero.json) |
 | Akatsuki: Lord of the Dawn | 291392 | [291392-akatsuki-lord-of-the-dawn.json](./291392-akatsuki-lord-of-the-dawn.json) |
 | Akatsuki: Shisei Ichi-go | 61628 | [61628-akatsuki-shisei-ichi-go.json](./61628-akatsuki-shisei-ichi-go.json) |
@@ -4162,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alaskan Malamute G.C. | 240891 | [240891-alaskan-malamute-g-c.json](./240891-alaskan-malamute-g-c.json) |
 | Alaskan Road Truckers: Highway Edition | 302737 | [302737-alaskan-road-truckers-highway-edition.json](./302737-alaskan-road-truckers-highway-edition.json) |
 | Alaskan Road Truckers: Highway Edition - Cosmetic Bundle | 331447 | [331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json](./331447-alaskan-road-truckers-highway-edition-cosmetic-bundle.json) |
+| Alaskan Road Truckers: Mother Truckers DLC | 371572 | [371572-alaskan-road-truckers-mother-truckers-dlc.json](./371572-alaskan-road-truckers-mother-truckers-dlc.json) |
 | Alaskan Road Truckers: Truck Skin Pack | 323265 | [323265-alaskan-road-truckers-truck-skin-pack.json](./323265-alaskan-road-truckers-truck-skin-pack.json) |
 | Alastrius | 383582 | [383582-alastrius.json](./383582-alastrius.json) |
 | Alawar Adventure Collection | 52591 | [52591-alawar-adventure-collection.json](./52591-alawar-adventure-collection.json) |
@@ -7633,6 +7635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
 | Antaresian Reliquary | 141566 | [141566-antaresian-reliquary.json](./141566-antaresian-reliquary.json) |
 | Antartica | 400962 | [400962-antartica.json](./400962-antartica.json) |
+| Antbear | 371561 | [371561-antbear.json](./371561-antbear.json) |
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Ante | 148868 | [148868-ante.json](./148868-ante.json) |
@@ -12207,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista 2: Hockenheimring Pack | 156164 | [156164-automobilista-2-hockenheimring-pack.json](./156164-automobilista-2-hockenheimring-pack.json) |
 | Automobilista 2: IMSA Track Pack | 352742 | [352742-automobilista-2-imsa-track-pack.json](./352742-automobilista-2-imsa-track-pack.json) |
 | Automobilista 2: Lamborghini Dream Pack Pt1 | 352740 | [352740-automobilista-2-lamborghini-dream-pack-pt1.json](./352740-automobilista-2-lamborghini-dream-pack-pt1.json) |
+| Automobilista 2: Nürburgring 2025 | 371520 | [371520-automobilista-2-nurburgring-2025.json](./371520-automobilista-2-nurburgring-2025.json) |
 | Automobilista 2: Nurburgring Pack | 156199 | [156199-automobilista-2-nurburgring-pack.json](./156199-automobilista-2-nurburgring-pack.json) |
 | Automobilista 2: Racin' USA | 169333 | [169333-automobilista-2-racin-usa.json](./169333-automobilista-2-racin-usa.json) |
 | Automobilista 2: Racin' USA Pack Pt3 | 227517 | [227517-automobilista-2-racin-usa-pack-pt3.json](./227517-automobilista-2-racin-usa-pack-pt3.json) |
