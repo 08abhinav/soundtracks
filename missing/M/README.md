@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
 | Madcap's Plane | 367621 | [367621-madcaps-plane.json](./367621-madcaps-plane.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
+| MadCowBalls2 | 367153 | [367153-madcowballs2.json](./367153-madcowballs2.json) |
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
@@ -1590,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailstrom | 36862 | [36862-mailstrom.json](./36862-mailstrom.json) |
 | Maimai DX | 130331 | [130331-maimai-dx.json](./130331-maimai-dx.json) |
 | Maimai DX Buddies Plus | 309594 | [309594-maimai-dx-buddies-plus.json](./309594-maimai-dx-buddies-plus.json) |
+| Maimai DX Circle | 367190 | [367190-maimai-dx-circle.json](./367190-maimai-dx-circle.json) |
 | Maimai DX Festival Plus | 243688 | [243688-maimai-dx-festival-plus.json](./243688-maimai-dx-festival-plus.json) |
 | Maimai DX Plus | 331676 | [331676-maimai-dx-plus.json](./331676-maimai-dx-plus.json) |
 | Maimai DX Prism | 316354 | [316354-maimai-dx-prism.json](./316354-maimai-dx-prism.json) |
@@ -8201,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles From Tomorrowland: Missions | 249365 | [249365-miles-from-tomorrowland-missions.json](./249365-miles-from-tomorrowland-missions.json) |
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
+| Milf Collection | 367165 | [367165-milf-collection.json](./367165-milf-collection.json) |
 | Milf Dream | 278949 | [278949-milf-dream.json](./278949-milf-dream.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
@@ -15139,6 +15142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
 | Myridian: The Last Stand | 128969 | [128969-myridian-the-last-stand.json](./128969-myridian-the-last-stand.json) |
+| Myrk: Echoes of the Forgotten | 367141 | [367141-myrk-echoes-of-the-forgotten.json](./367141-myrk-echoes-of-the-forgotten.json) |
 | Myrm Emblem | 279784 | [279784-myrm-emblem.json](./279784-myrm-emblem.json) |
 | Myrmidon | 333501 | [333501-myrmidon.json](./333501-myrmidon.json) |
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
