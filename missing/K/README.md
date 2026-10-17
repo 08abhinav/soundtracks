@@ -2386,7 +2386,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Final Mix: Platinum Limited Edition | 151255 | [151255-kingdom-hearts-final-mix-platinum-limited-edition.json](./151255-kingdom-hearts-final-mix-platinum-limited-edition.json) |
 | Kingdom Hearts Gummiship Studio | 405370 | [405370-kingdom-hearts-gummiship-studio.json](./405370-kingdom-hearts-gummiship-studio.json) |
 | Kingdom Hearts HD 1.5 + 2.5 Remix | 27979 | [27979-kingdom-hearts-hd-1-5-2-5-remix.json](./27979-kingdom-hearts-hd-1-5-2-5-remix.json) |
-| Kingdom Hearts HD 1.5 Remix | 7356 | [7356-kingdom-hearts-hd-1-5-remix.json](./7356-kingdom-hearts-hd-1-5-remix.json) |
 | Kingdom Hearts HD 1.5 Remix: Limited Edition | 81206 | [81206-kingdom-hearts-hd-1-5-remix-limited-edition.json](./81206-kingdom-hearts-hd-1-5-remix-limited-edition.json) |
 | Kingdom Hearts HD 2.5 Remix | 7841 | [7841-kingdom-hearts-hd-2-5-remix.json](./7841-kingdom-hearts-hd-2-5-remix.json) |
 | Kingdom Hearts HD 2.5 Remix: Limited Edition | 45159 | [45159-kingdom-hearts-hd-2-5-remix-limited-edition.json](./45159-kingdom-hearts-hd-2-5-remix-limited-edition.json) |
@@ -2720,7 +2719,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby: Canvas Curse | 3722 | [3722-kirby-canvas-curse.json](./3722-kirby-canvas-curse.json) |
 | Kirby: Cosmic Chaos | 323915 | [323915-kirby-cosmic-chaos.json](./323915-kirby-cosmic-chaos.json) |
 | Kirby: Nightmare in Dream Land | 3726 | [3726-kirby-nightmare-in-dream-land.json](./3726-kirby-nightmare-in-dream-land.json) |
-| Kirby: Planet Robobot | 18221 | [18221-kirby-planet-robobot.json](./18221-kirby-planet-robobot.json) |
 | Kirby: Revenge of Dream Land | 196707 | [196707-kirby-revenge-of-dream-land.json](./196707-kirby-revenge-of-dream-land.json) |
 | Kirby: Soft & Wet | 369145 | [369145-kirby-soft-and-wet.json](./369145-kirby-soft-and-wet.json) |
 | Kirby: Squeak Squad | 3723 | [3723-kirby-squeak-squad.json](./3723-kirby-squeak-squad.json) |
