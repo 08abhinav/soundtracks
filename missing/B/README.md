@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
+| Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
@@ -1591,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
 | Banzo: Marks of Slavery | 105199 | [105199-banzo-marks-of-slavery.json](./105199-banzo-marks-of-slavery.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
+| Bao Bao's Cozy Cleaning Services | 375527 | [375527-bao-baos-cozy-cleaning-services.json](./375527-bao-baos-cozy-cleaning-services.json) |
 | Bao Bao's Cozy Laundromat | 316705 | [316705-bao-baos-cozy-laundromat.json](./316705-bao-baos-cozy-laundromat.json) |
 | Bāo Qīngtiān | 84440 | [84440-bao-qingtian.json](./84440-bao-qingtian.json) |
 | Baobabs Mausoleum Ep. 2 1313 Barnabas Dead End Drive | 81164 | [81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json](./81164-baobabs-mausoleum-ep-2-1313-barnabas-dead-end-drive.json) |
@@ -8310,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues and Bullets | 11415 | [11415-blues-and-bullets.json](./11415-blues-and-bullets.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
+| Blues Brothers 2025 | 375502 | [375502-blues-brothers-2025.json](./375502-blues-brothers-2025.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
 | BlueSkies 3 | 291383 | [291383-blueskies-3.json](./291383-blueskies-3.json) |
