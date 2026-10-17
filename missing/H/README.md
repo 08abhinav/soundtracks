@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardline | 94221 | [94221-hardline.json](./94221-hardline.json) |
 | Hardly Workin' | 352289 | [352289-hardly-workin.json](./352289-hardly-workin.json) |
 | Hardnoid | 29976 | [29976-hardnoid.json](./29976-hardnoid.json) |
+| Hardpoint | 372187 | [372187-hardpoint.json](./372187-hardpoint.json) |
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
@@ -5649,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
 | Hiragana Hero | 303308 | [303308-hiragana-hero.json](./303308-hiragana-hero.json) |
+| Hiragana Katakana Ninja | 372185 | [372185-hiragana-katakana-ninja.json](./372185-hiragana-katakana-ninja.json) |
 | Hiragana Word Challenge | 418325 | [418325-hiragana-word-challenge.json](./418325-hiragana-word-challenge.json) |
 | Hirai Nya | 333507 | [333507-hirai-nya.json](./333507-hirai-nya.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
@@ -6215,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
+| Hollowbrook: Apartments | 372181 | [372181-hollowbrook-apartments.json](./372181-hollowbrook-apartments.json) |
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
@@ -8143,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
+| Hulesverd | 372207 | [372207-hulesverd.json](./372207-hulesverd.json) |
 | Huli the Mage | 111466 | [111466-huli-the-mage.json](./111466-huli-the-mage.json) |
 | Hulk | 245463 | [245463-hulk.json](./245463-hulk.json) |
 | Hulk Hogan's Main Event | 20163 | [20163-hulk-hogans-main-event.json](./20163-hulk-hogans-main-event.json) |
