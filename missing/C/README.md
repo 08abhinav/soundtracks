@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captains & Dungeons | 157425 | [157425-captains-and-dungeons.json](./157425-captains-and-dungeons.json) |
 | Captains of the Wacky Waters | 146045 | [146045-captains-of-the-wacky-waters.json](./146045-captains-of-the-wacky-waters.json) |
 | Captcha Overload | 411493 | [411493-captcha-overload.json](./411493-captcha-overload.json) |
+| CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
 | Captive | 412946 | [412946-captive.json](./412946-captive.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Project | 189149 | [189149-celestial-project.json](./189149-celestial-project.json) |
 | Celestial Raider | 243588 | [243588-celestial-raider.json](./243588-celestial-raider.json) |
 | Celestial Return | 277763 | [277763-celestial-return.json](./277763-celestial-return.json) |
+| Celestial Reverie | 406574 | [406574-celestial-reverie.json](./406574-celestial-reverie.json) |
 | Celestial Rune Consortium: Shadows of Ascension | 293627 | [293627-celestial-rune-consortium-shadows-of-ascension.json](./293627-celestial-rune-consortium-shadows-of-ascension.json) |
 | Celestial Soul | 316144 | [316144-celestial-soul.json](./316144-celestial-soul.json) |
 | Celestial Tear: Lost World | 211170 | [211170-celestial-tear-lost-world.json](./211170-celestial-tear-lost-world.json) |
@@ -5712,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
 | Chronicle of Forgotten Times: Pawn of the Gods | 202642 | [202642-chronicle-of-forgotten-times-pawn-of-the-gods.json](./202642-chronicle-of-forgotten-times-pawn-of-the-gods.json) |
+| Chronicle of Wuxia & Xianxia Survivors | 406548 | [406548-chronicle-of-wuxia-and-xianxia-survivors.json](./406548-chronicle-of-wuxia-and-xianxia-survivors.json) |
 | Chronicle Survivors | 287198 | [287198-chronicle-survivors.json](./287198-chronicle-survivors.json) |
 | Chronicle: Rewritten | 307845 | [307845-chronicle-rewritten.json](./307845-chronicle-rewritten.json) |
 | Chronicle: RuneScape Legends | 19433 | [19433-chronicle-runescape-legends.json](./19433-chronicle-runescape-legends.json) |
@@ -5756,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
+| Chronicles Puzzle: History Path | 406554 | [406554-chronicles-puzzle-history-path.json](./406554-chronicles-puzzle-history-path.json) |
 | Chronicles: Medieval | 347635 | [347635-chronicles-medieval.json](./347635-chronicles-medieval.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
 | Chronicon Apocalyptica | 114302 | [114302-chronicon-apocalyptica.json](./114302-chronicon-apocalyptica.json) |
@@ -11593,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Frog Racer: Christmas Edition | 210554 | [210554-crazy-frog-racer-christmas-edition.json](./210554-crazy-frog-racer-christmas-edition.json) |
+| Crazy Frog Runner Ding Dash | 406569 | [406569-crazy-frog-runner-ding-dash.json](./406569-crazy-frog-runner-ding-dash.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
 | Crazy Frog's Dancing | 224454 | [224454-crazy-frogs-dancing.json](./224454-crazy-frogs-dancing.json) |
 | Crazy Fruit Shooter | 406142 | [406142-crazy-fruit-shooter.json](./406142-crazy-fruit-shooter.json) |
@@ -13655,6 +13660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Expedition 2: Robots of Lux | 216160 | [216160-curious-expedition-2-robots-of-lux.json](./216160-curious-expedition-2-robots-of-lux.json) |
 | Curious Expedition 2: Shores of Taishi | 200928 | [200928-curious-expedition-2-shores-of-taishi.json](./200928-curious-expedition-2-shores-of-taishi.json) |
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
+| Curious George Car Driving Challenge | 406629 | [406629-curious-george-car-driving-challenge.json](./406629-curious-george-car-driving-challenge.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
 | Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
