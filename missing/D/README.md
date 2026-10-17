@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
+| Dino Escape | 398905 | [398905-dino-escape.json](./398905-dino-escape.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Boys | 401117 | [401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json](./401117-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-boys.json) |
 | Dino Evolution: Catch Dinosaurs and Raise Anime Primeval Girls | 401722 | [401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json](./401722-dino-evolution-catch-dinosaurs-and-raise-anime-primeval-girls.json) |
 | Dino Fighters | 241975 | [241975-dino-fighters.json](./241975-dino-fighters.json) |
