@@ -577,6 +577,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27329d460119dff39078361513d" width="60" /> | [Ghost of Yotei](https://ostdb.net/games/ghost-of-yotei) | **Ghost of Yōtei (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7fvFqlSScHtQ6RVpV7XN3Y) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d9/96/14d9963e-74ba-6bae-8d8e-f3fdcdd9d0d9/196874199831.jpg/600x600bb.jpg" width="60" /> | [Ghost of Yotei: Legends](https://ostdb.net/games/ghost-of-yotei-legends) | **Ghost of Yōtei Legends (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghost-of-y%C5%8Dtei-legends-original-soundtrack/1887165944?uo=4) · [Album](https://album.link/i/1887165944) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/ec/56/29ec568e-a90e-bc71-a5b5-e1c84d91bc9c/artwork.jpg/600x600bb.jpg" width="60" /> | [Ghostrunner](https://ostdb.net/games/ghostrunner) | **Ghostrunner (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/ghostrunner-original-soundtrack/1538078931?uo=4) · [Album](https://album.link/i/1538078931) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737f89bd656cb1355729cbc37b" width="60" /> | [Ghosts 'n Goblins Resurrection](https://ostdb.net/games/ghosts-n-goblins-resurrection) | **Ghosts 'n Goblins Resurrection Original Soundtrack** · [Spotify](https://open.spotify.com/album/30uSq4WYLVBeXPLbN8HixN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734f6a4a977b5ec99f2df9d70e" width="60" /> | [Ghostwire: Tokyo](https://ostdb.net/games/ghostwire-tokyo) | **Ghostwire Tokyo (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7veomM7sMglqkbrTsk1BaB)<br>**Ghostwire: Tokyo Spider's Thread (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0zvMFU4qtuT61XKbyMYo5k) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27305e76a4367d9a79472eeeb14" width="60" /> | [Giana Sisters: Twisted Dreams](https://ostdb.net/games/giana-sisters-twisted-dreams) | **Giana Sisters: Twisted Dreams - Original Soundtrack** · [Spotify](https://open.spotify.com/album/2N1TZDls2IwO2Ythp3htG9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739746e12f73acef159f6156b6" width="60" /> | [Gnog](https://ostdb.net/games/gnog) | **Gnog (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7qaWGfwuLl1L1V4FG8khFm) |
@@ -1662,4 +1663,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1979 soundtracks · last updated 2026-10-17T11:21:19.226Z_
+_1980 soundtracks · last updated 2026-10-17T11:21:26.879Z_
