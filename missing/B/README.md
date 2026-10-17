@@ -6270,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Dust | 318211 | [318211-black-dust.json](./318211-black-dust.json) |
 | Black Eagle 2 | 63690 | [63690-black-eagle-2.json](./63690-black-eagle-2.json) |
 | Black Emperor | 125471 | [125471-black-emperor.json](./125471-black-emperor.json) |
+| Black Equation | 398296 | [398296-black-equation.json](./398296-black-equation.json) |
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
@@ -7030,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleeding Roots | 316162 | [316162-bleeding-roots.json](./316162-bleeding-roots.json) |
 | Bleemcast! for Metal Gear Solid | 315682 | [315682-bleemcast-for-metal-gear-solid.json](./315682-bleemcast-for-metal-gear-solid.json) |
+| Bleemcast! for Tekken 3 | 398277 | [398277-bleemcast-for-tekken-3.json](./398277-bleemcast-for-tekken-3.json) |
 | Bleepfrog | 343987 | [343987-bleepfrog.json](./343987-bleepfrog.json) |
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
