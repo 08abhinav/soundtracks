@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvador Dali painting match | 103529 | [103529-salvador-dali-painting-match.json](./103529-salvador-dali-painting-match.json) |
 | Salvage | 137927 | [137927-salvage.json](./137927-salvage.json) |
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
+| Salvage | 377349 | [377349-salvage.json](./377349-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
@@ -6341,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shofer Race Driver | 35319 | [35319-shofer-race-driver.json](./35319-shofer-race-driver.json) |
 | Shoganai | 154428 | [154428-shoganai.json](./154428-shoganai.json) |
 | Shogi | 206024 | [206024-shogi.json](./206024-shogi.json) |
+| Shogi | 377354 | [377354-shogi.json](./377354-shogi.json) |
 | Shogi | 63582 | [63582-shogi.json](./63582-shogi.json) |
 | Shogi 2 | 282637 | [282637-shogi-2.json](./282637-shogi-2.json) |
 | Shogi 3 | 282638 | [282638-shogi-3.json](./282638-shogi-3.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
 | Signal Hill | 390655 | [390655-signal-hill.json](./390655-signal-hill.json) |
 | Signal Lost | 327358 | [327358-signal-lost.json](./327358-signal-lost.json) |
+| Signal Lost | 377331 | [377331-signal-lost.json](./377331-signal-lost.json) |
 | Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Zone | 381195 | [381195-signal-zone.json](./381195-signal-zone.json) |
@@ -9615,6 +9618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Store Simulator | 344988 | [344988-slime-store-simulator.json](./344988-slime-store-simulator.json) |
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
+| Slime Time | 377347 | [377347-slime-time.json](./377347-slime-time.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
 | Slime Tower | 351600 | [351600-slime-tower.json](./351600-slime-tower.json) |
@@ -9936,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64EX Coop: Star Revenge 4 - The Kedama Takeover 64 | 378267 | [378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json](./378267-sm64ex-coop-star-revenge-4-the-kedama-takeover-64.json) |
 | SM64EX Coop: Super Mario 64 Moonshine | 378301 | [378301-sm64ex-coop-super-mario-64-moonshine.json](./378301-sm64ex-coop-super-mario-64-moonshine.json) |
 | SM64EX Coop: Yoshi's Adventure 64 | 378263 | [378263-sm64ex-coop-yoshis-adventure-64.json](./378263-sm64ex-coop-yoshis-adventure-64.json) |
+| SM64Kitty's Kaizo Hack | 377358 | [377358-sm64kittys-kaizo-hack.json](./377358-sm64kittys-kaizo-hack.json) |
 | SM64RT | 307740 | [307740-sm64rt.json](./307740-sm64rt.json) |
 | SM74&EE | 378288 | [378288-sm74-and-ee.json](./378288-sm74-and-ee.json) |
 | Små Ord | 319184 | [319184-sma-ord.json](./319184-sma-ord.json) |
@@ -11436,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol705 | 89939 | [89939-sol705.json](./89939-sol705.json) |
 | Sola | 173223 | [173223-sola.json](./173223-sola.json) |
 | Sola Rola: The Gravity Maze | 269855 | [269855-sola-rola-the-gravity-maze.json](./269855-sola-rola-the-gravity-maze.json) |
+| Solace | 377337 | [377337-solace.json](./377337-solace.json) |
 | Solace | 91840 | [91840-solace.json](./91840-solace.json) |
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
