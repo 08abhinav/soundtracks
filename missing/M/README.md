@@ -2076,6 +2076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
+| Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
 | Manall's FF1 | 309580 | [309580-manalls-ff1.json](./309580-manalls-ff1.json) |
 | ManaRocks | 77163 | [77163-manarocks.json](./77163-manarocks.json) |
