@@ -3917,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Room | 339772 | [339772-escape-the-room.json](./339772-escape-the-room.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
+| Escape the Script | 378598 | [378598-escape-the-script.json](./378598-escape-the-script.json) |
 | Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
 | Escape the Super Nerdy Dungeon: W100 Master Edition | 279523 | [279523-escape-the-super-nerdy-dungeon-w100-master-edition.json](./279523-escape-the-super-nerdy-dungeon-w100-master-edition.json) |
 | Escape the Tank | 153362 | [153362-escape-the-tank.json](./153362-escape-the-tank.json) |
