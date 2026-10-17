@@ -8810,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
 | Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
+| RunGX mini | 391011 | [391011-rungx-mini.json](./391011-rungx-mini.json) |
 | Runi's Math Castle | 306337 | [306337-runis-math-castle.json](./306337-runis-math-castle.json) |
 | Runic | 215881 | [215881-runic.json](./215881-runic.json) |
 | Runic Curse | 207851 | [207851-runic-curse.json](./207851-runic-curse.json) |
