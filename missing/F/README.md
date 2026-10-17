@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
 | Feng Qi Chang'an: Yu Gu Ren | 271674 | [271674-feng-qi-changan-yu-gu-ren.json](./271674-feng-qi-changan-yu-gu-ren.json) |
 | Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
+| Fēng Shén Chuánqí | 414120 | [414120-feng-shen-chuanqi.json](./414120-feng-shen-chuanqi.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
 | Fengdu: Chronicles of Battle | 318064 | [318064-fengdu-chronicles-of-battle.json](./318064-fengdu-chronicles-of-battle.json) |
 | Fēngkuáng Pào Pào Bǔyú | 369187 | [369187-fengkuang-pao-pao-buyu.json](./369187-fengkuang-pao-pao-buyu.json) |
@@ -8628,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
 | Froggy Castle 2 | 243407 | [243407-froggy-castle-2.json](./243407-froggy-castle-2.json) |
 | Froggy Crossing | 187470 | [187470-froggy-crossing.json](./187470-froggy-crossing.json) |
+| Froggy Daycare | 414089 | [414089-froggy-daycare.json](./414089-froggy-daycare.json) |
 | Froggy Destroyer | 157711 | [157711-froggy-destroyer.json](./157711-froggy-destroyer.json) |
 | Froggy Drink Bar! | 329965 | [329965-froggy-drink-bar.json](./329965-froggy-drink-bar.json) |
 | Froggy Family Fort | 175963 | [175963-froggy-family-fort.json](./175963-froggy-family-fort.json) |
@@ -8896,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Depths | 67632 | [67632-frozen-depths.json](./67632-frozen-depths.json) |
 | Frozen Dragon Gems | 96849 | [96849-frozen-dragon-gems.json](./96849-frozen-dragon-gems.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
+| Frozen Echo | 414115 | [414115-frozen-echo.json](./414115-frozen-echo.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
 | Frozen Free Fall | 18131 | [18131-frozen-free-fall.json](./18131-frozen-free-fall.json) |
