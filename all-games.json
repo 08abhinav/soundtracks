@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:50:49.853Z",
-  "total_soundtracks": 2119,
+  "generated_at": "2026-10-17T15:50:56.565Z",
+  "total_soundtracks": 2120,
   "games": [
     {
       "igdb_id": 7522,
@@ -11905,6 +11905,20 @@
         {
           "album_name": "L.A. Noire Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36543,
+      "game_name": "Last Day of June",
+      "game_url": "https://ostdb.net/games/last-day-of-june",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734880d257256de0396cdc7a0d",
+      "albums": [
+        {
+          "album_name": "Last Day Of June (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5e5WJwdXlbWIDbQuoSd4uJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
