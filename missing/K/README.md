@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanamono | 168215 | [168215-kanamono.json](./168215-kanamono.json) |
 | Kanashibari | 235788 | [235788-kanashibari.json](./235788-kanashibari.json) |
 | Kanashimi Arabesque | 294807 | [294807-kanashimi-arabesque.json](./294807-kanashimi-arabesque.json) |
+| Kanata no Ningyo Hime | 416574 | [416574-kanata-no-ningyo-hime.json](./416574-kanata-no-ningyo-hime.json) |
 | KanaTales | 191551 | [191551-kanatales.json](./191551-kanatales.json) |
 | Kanazawa Shogi: Level 300 | 219008 | [219008-kanazawa-shogi-level-300.json](./219008-kanazawa-shogi-level-300.json) |
 | Kanban-mura | 310719 | [310719-kanban-mura.json](./310719-kanban-mura.json) |
@@ -2267,6 +2268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Field Mobile II | 340965 | [340965-kings-field-mobile-ii.json](./340965-kings-field-mobile-ii.json) |
 | King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
 | King's Gambit | 309540 | [309540-kings-gambit.json](./309540-kings-gambit.json) |
+| King's Game | 416752 | [416752-kings-game.json](./416752-kings-game.json) |
+| King's Game 2 | 416753 | [416753-kings-game-2.json](./416753-kings-game-2.json) |
 | King's Guard | 345539 | [345539-kings-guard.json](./345539-kings-guard.json) |
 | King's Guard TD | 32750 | [32750-kings-guard-td.json](./32750-kings-guard-td.json) |
 | King's Hand | 385375 | [385375-kings-hand.json](./385375-kings-hand.json) |
@@ -3772,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
+| Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
 | Kore ga Pro Yakyuu '90 | 37686 | [37686-kore-ga-pro-yakyuu-90.json](./37686-kore-ga-pro-yakyuu-90.json) |
 | Kore VR | 244170 | [244170-kore-vr.json](./244170-kore-vr.json) |
