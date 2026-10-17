@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
+| Paddle vs Paddle | 413015 | [413015-paddle-vs-paddle.json](./413015-paddle-vs-paddle.json) |
 | Paddle Vs. Paddle | 99741 | [99741-paddle-vs-paddle.json](./99741-paddle-vs-paddle.json) |
 | Paddlenoid | 381377 | [381377-paddlenoid.json](./381377-paddlenoid.json) |
 | Paddler | 403650 | [403650-paddler.json](./403650-paddler.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
 | Personal Chef to the Stars | 218707 | [218707-personal-chef-to-the-stars.json](./218707-personal-chef-to-the-stars.json) |
 | Personal Disco VR | 28895 | [28895-personal-disco-vr.json](./28895-personal-disco-vr.json) |
@@ -4420,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
+| Piece by Piece | 412923 | [412923-piece-by-piece.json](./412923-piece-by-piece.json) |
 | Piece It! | 295143 | [295143-piece-it.json](./295143-piece-it.json) |
 | Piece Link | 278157 | [278157-piece-link.json](./278157-piece-link.json) |
 | Piece O'Cake | 40785 | [40785-piece-ocake.json](./40785-piece-ocake.json) |
@@ -6279,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Panic! | 393469 | [393469-pizza-panic.json](./393469-pizza-panic.json) |
 | Pizza Parking | 115057 | [115057-pizza-parking.json](./115057-pizza-parking.json) |
 | Pizza Party | 167197 | [167197-pizza-party.json](./167197-pizza-party.json) |
+| Pizza Patrol | 413017 | [413017-pizza-patrol.json](./413017-pizza-patrol.json) |
 | Pizza Penguins | 103979 | [103979-pizza-penguins.json](./103979-pizza-penguins.json) |
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
@@ -11503,6 +11507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
+| Prop of the Class | 412940 | [412940-prop-of-the-class.json](./412940-prop-of-the-class.json) |
 | Prop Revolt | 416793 | [416793-prop-revolt.json](./416793-prop-revolt.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
