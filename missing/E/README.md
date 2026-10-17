@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Marchen Veil II PC-9801 | 403743 | [403743-eggconsole-marchen-veil-ii-pc-9801.json](./403743-eggconsole-marchen-veil-ii-pc-9801.json) |
 | Eggconsole Meurtre d'un Clown PC-8801 | 401113 | [401113-eggconsole-meurtre-dun-clown-pc-8801.json](./401113-eggconsole-meurtre-dun-clown-pc-8801.json) |
 | Eggconsole Mirai MSX2 | 406080 | [406080-eggconsole-mirai-msx2.json](./406080-eggconsole-mirai-msx2.json) |
+| Eggconsole Mugen no Shinzou II PC-8801 | 376220 | [376220-eggconsole-mugen-no-shinzou-ii-pc-8801.json](./376220-eggconsole-mugen-no-shinzou-ii-pc-8801.json) |
 | Eggconsole Mugen no Shinzou III PC-8801mkIISR | 390490 | [390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json](./390490-eggconsole-mugen-no-shinzou-iii-pc-8801mkiisr.json) |
 | Eggconsole Mugen no Shinzou PC-8801 | 345990 | [345990-eggconsole-mugen-no-shinzou-pc-8801.json](./345990-eggconsole-mugen-no-shinzou-pc-8801.json) |
 | Eggconsole Murder Club PC-8801 | 320447 | [320447-eggconsole-murder-club-pc-8801.json](./320447-eggconsole-murder-club-pc-8801.json) |
