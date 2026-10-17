@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:03:22.066Z",
-  "total_missing": 225699,
+  "generated_at": "2026-10-17T23:18:21.647Z",
+  "total_missing": 225749,
   "games": [
     {
       "igdb_id": 191680,
@@ -63227,9 +63227,29 @@
       "file": "missing/A/216470-artificial-extinction-2.json"
     },
     {
+      "igdb_id": 363693,
+      "game_name": "Artificial Fashionista: Autumn Collection",
+      "file": "missing/A/363693-artificial-fashionista-autumn-collection.json"
+    },
+    {
+      "igdb_id": 363691,
+      "game_name": "Artificial Fashionista: Extra Collection",
+      "file": "missing/A/363691-artificial-fashionista-extra-collection.json"
+    },
+    {
+      "igdb_id": 363692,
+      "game_name": "Artificial Fashionista: Spring Collection",
+      "file": "missing/A/363692-artificial-fashionista-spring-collection.json"
+    },
+    {
       "igdb_id": 336694,
       "game_name": "Artificial Fashionista: Summer Collection",
       "file": "missing/A/336694-artificial-fashionista-summer-collection.json"
+    },
+    {
+      "igdb_id": 363684,
+      "game_name": "Artificial Fashionista: Winter Collection",
+      "file": "missing/A/363684-artificial-fashionista-winter-collection.json"
     },
     {
       "igdb_id": 253451,
@@ -82527,6 +82547,11 @@
       "file": "missing/B/32327-ballistic-tanks.json"
     },
     {
+      "igdb_id": 363667,
+      "game_name": "Ballistic Tilt",
+      "file": "missing/B/363667-ballistic-tilt.json"
+    },
+    {
       "igdb_id": 211087,
       "game_name": "Ballistic Zen",
       "file": "missing/B/211087-ballistic-zen.json"
@@ -91885,6 +91910,16 @@
       "igdb_id": 353,
       "game_name": "Battlefield Online",
       "file": "missing/B/353-battlefield-online.json"
+    },
+    {
+      "igdb_id": 363689,
+      "game_name": "Battlefield Pirates",
+      "file": "missing/B/363689-battlefield-pirates.json"
+    },
+    {
+      "igdb_id": 363690,
+      "game_name": "Battlefield Pirates 2",
+      "file": "missing/B/363690-battlefield-pirates-2.json"
     },
     {
       "igdb_id": 211427,
@@ -111190,6 +111225,11 @@
       "igdb_id": 135014,
       "game_name": "Blaster Bunny +",
       "file": "missing/B/135014-blaster-bunny.json"
+    },
+    {
+      "igdb_id": 363661,
+      "game_name": "Blaster Bunny Chronicles",
+      "file": "missing/B/363661-blaster-bunny-chronicles.json"
     },
     {
       "igdb_id": 68759,
@@ -131845,6 +131885,11 @@
       "igdb_id": 136950,
       "game_name": "Brigandine: The Legend of Runersia - Limited Edition",
       "file": "missing/B/136950-brigandine-the-legend-of-runersia-limited-edition.json"
+    },
+    {
+      "igdb_id": 363687,
+      "game_name": "Brigands",
+      "file": "missing/B/363687-brigands.json"
     },
     {
       "igdb_id": 223637,
@@ -171132,6 +171177,11 @@
       "file": "missing/C/390176-chrono-spin.json"
     },
     {
+      "igdb_id": 363659,
+      "game_name": "Chrono Stranded",
+      "file": "missing/C/363659-chrono-stranded.json"
+    },
+    {
       "igdb_id": 214690,
       "game_name": "Chrono Survival",
       "file": "missing/C/214690-chrono-survival.json"
@@ -187992,6 +188042,11 @@
       "file": "missing/C/72281-computer-scrabble-de-luxe.json"
     },
     {
+      "igdb_id": 363679,
+      "game_name": "Computer Shrilow",
+      "file": "missing/C/363679-computer-shrilow.json"
+    },
+    {
       "igdb_id": 11245,
       "game_name": "Computer Space",
       "file": "missing/C/11245-computer-space.json"
@@ -196170,6 +196225,11 @@
       "igdb_id": 300427,
       "game_name": "Countryballs At War",
       "file": "missing/C/300427-countryballs-at-war.json"
+    },
+    {
+      "igdb_id": 363683,
+      "game_name": "Countryballs Conquest",
+      "file": "missing/C/363683-countryballs-conquest.json"
     },
     {
       "igdb_id": 83546,
@@ -223475,6 +223535,11 @@
       "igdb_id": 188590,
       "game_name": "Darling Pet",
       "file": "missing/D/188590-darling-pet.json"
+    },
+    {
+      "igdb_id": 363680,
+      "game_name": "Darling, Darling... Dead?",
+      "file": "missing/D/363680-darling-darling-dead.json"
     },
     {
       "igdb_id": 365183,
@@ -286982,6 +287047,11 @@
       "file": "missing/E/303512-echoes-of-the-woods.json"
     },
     {
+      "igdb_id": 363665,
+      "game_name": "Echoes of Time",
+      "file": "missing/E/363665-echoes-of-time.json"
+    },
+    {
       "igdb_id": 369643,
       "game_name": "Echoes of Tomorrow",
       "file": "missing/E/369643-echoes-of-tomorrow.json"
@@ -287505,6 +287575,11 @@
       "igdb_id": 85108,
       "game_name": "EctoPlaza",
       "file": "missing/E/85108-ectoplaza.json"
+    },
+    {
+      "igdb_id": 363677,
+      "game_name": "Ectorider",
+      "file": "missing/E/363677-ectorider.json"
     },
     {
       "igdb_id": 253442,
@@ -333995,6 +334070,11 @@
       "igdb_id": 61138,
       "game_name": "Fionna Fights: Adventure Time",
       "file": "missing/F/61138-fionna-fights-adventure-time.json"
+    },
+    {
+      "igdb_id": 363686,
+      "game_name": "Fiora",
+      "file": "missing/F/363686-fiora.json"
     },
     {
       "igdb_id": 273494,
@@ -408587,6 +408667,11 @@
       "file": "missing/H/36605-hanako-honor-and-blade.json"
     },
     {
+      "igdb_id": 363672,
+      "game_name": "Hanamaru Koumuten",
+      "file": "missing/H/363672-hanamaru-koumuten.json"
+    },
+    {
       "igdb_id": 200742,
       "game_name": "Hananezumi",
       "file": "missing/H/200742-hananezumi.json"
@@ -438707,6 +438792,11 @@
       "file": "missing/H/207213-hoosegow.json"
     },
     {
+      "igdb_id": 363694,
+      "game_name": "Hoosegow: Prison Boss",
+      "file": "missing/H/363694-hoosegow-prison-boss.json"
+    },
+    {
       "igdb_id": 399926,
       "game_name": "Hoosegow: Prison Survival",
       "file": "missing/H/399926-hoosegow-prison-survival.json"
@@ -449620,6 +449710,11 @@
       "igdb_id": 82926,
       "game_name": "Hypnosis Done Braves",
       "file": "missing/H/82926-hypnosis-done-braves.json"
+    },
+    {
+      "igdb_id": 363664,
+      "game_name": "Hypnosis Knight-Princess",
+      "file": "missing/H/363664-hypnosis-knight-princess.json"
     },
     {
       "igdb_id": 99713,
@@ -474352,6 +474447,66 @@
       "file": "missing/I/363436-iwl-interstellar-wrestling-league-054-mod-tria-pan-3.json"
     },
     {
+      "igdb_id": 363697,
+      "game_name": "IWL: Interstellar Wrestling League - 055: Mod - Orion's Belt",
+      "file": "missing/I/363697-iwl-interstellar-wrestling-league-055-mod-orions-belt.json"
+    },
+    {
+      "igdb_id": 363698,
+      "game_name": "IWL: Interstellar Wrestling League - 056: Mod - Planet Crusher",
+      "file": "missing/I/363698-iwl-interstellar-wrestling-league-056-mod-planet-crusher.json"
+    },
+    {
+      "igdb_id": 363699,
+      "game_name": "IWL: Interstellar Wrestling League - 057: Mod - The Force... to Be Reckoned with",
+      "file": "missing/I/363699-iwl-interstellar-wrestling-league-057-mod-the-force-to-be-reckoned-with.json"
+    },
+    {
+      "igdb_id": 363700,
+      "game_name": "IWL: Interstellar Wrestling League - 058: Mod - Unum Apollo Daum",
+      "file": "missing/I/363700-iwl-interstellar-wrestling-league-058-mod-unum-apollo-daum.json"
+    },
+    {
+      "igdb_id": 363701,
+      "game_name": "IWL: Interstellar Wrestling League - 059: Mod - Unum Mercury Daum",
+      "file": "missing/I/363701-iwl-interstellar-wrestling-league-059-mod-unum-mercury-daum.json"
+    },
+    {
+      "igdb_id": 363702,
+      "game_name": "IWL: Interstellar Wrestling League - 060: Mod - Tria Hercules 3",
+      "file": "missing/I/363702-iwl-interstellar-wrestling-league-060-mod-tria-hercules-3.json"
+    },
+    {
+      "igdb_id": 363703,
+      "game_name": "IWL: Interstellar Wrestling League - 061: Mod - Tria Apollo 3",
+      "file": "missing/I/363703-iwl-interstellar-wrestling-league-061-mod-tria-apollo-3.json"
+    },
+    {
+      "igdb_id": 363704,
+      "game_name": "IWL: Interstellar Wrestling League - 062: Mod - Tria Apollo Mercury 3",
+      "file": "missing/I/363704-iwl-interstellar-wrestling-league-062-mod-tria-apollo-mercury-3.json"
+    },
+    {
+      "igdb_id": 363706,
+      "game_name": "IWL: Interstellar Wrestling League - 063: Mod - Tria Atlas 3",
+      "file": "missing/I/363706-iwl-interstellar-wrestling-league-063-mod-tria-atlas-3.json"
+    },
+    {
+      "igdb_id": 363707,
+      "game_name": "IWL: Interstellar Wrestling League - 064: Mod - Max Apollo Meyiotos",
+      "file": "missing/I/363707-iwl-interstellar-wrestling-league-064-mod-max-apollo-meyiotos.json"
+    },
+    {
+      "igdb_id": 363708,
+      "game_name": "IWL: Interstellar Wrestling League - 065: Mod - Max Atlas Meyiotos",
+      "file": "missing/I/363708-iwl-interstellar-wrestling-league-065-mod-max-atlas-meyiotos.json"
+    },
+    {
+      "igdb_id": 363709,
+      "game_name": "IWL: Interstellar Wrestling League - 066: Mod - Apocules",
+      "file": "missing/I/363709-iwl-interstellar-wrestling-league-066-mod-apocules.json"
+    },
+    {
       "igdb_id": 32979,
       "game_name": "IWO: Bloodbath in the Bonins",
       "file": "missing/I/32979-iwo-bloodbath-in-the-bonins.json"
@@ -499065,6 +499220,11 @@
       "igdb_id": 132690,
       "game_name": "Kill Yourself",
       "file": "missing/K/132690-kill-yourself.json"
+    },
+    {
+      "igdb_id": 363688,
+      "game_name": "Kill Ze Bugs",
+      "file": "missing/K/363688-kill-ze-bugs.json"
     },
     {
       "igdb_id": 248588,
@@ -596272,6 +596432,11 @@
       "file": "missing/M/307885-miroh-jr.json"
     },
     {
+      "igdb_id": 363671,
+      "game_name": "Mirren: Star Legends",
+      "file": "missing/M/363671-mirren-star-legends.json"
+    },
+    {
       "igdb_id": 57501,
       "game_name": "Mirror and Queen",
       "file": "missing/M/57501-mirror-and-queen.json"
@@ -636227,6 +636392,11 @@
       "file": "missing/N/120652-neon-exile.json"
     },
     {
+      "igdb_id": 363685,
+      "game_name": "Neon Exploding Bread",
+      "file": "missing/N/363685-neon-exploding-bread.json"
+    },
+    {
       "igdb_id": 310723,
       "game_name": "Neon Express",
       "file": "missing/N/310723-neon-express.json"
@@ -648312,6 +648482,11 @@
       "file": "missing/N/403195-no-mans-sky-the-swarm.json"
     },
     {
+      "igdb_id": 363705,
+      "game_name": "No Man's Sky: Voyagers",
+      "file": "missing/N/363705-no-mans-sky-voyagers.json"
+    },
+    {
       "igdb_id": 308973,
       "game_name": "No Man's Sky: Worlds Part I",
       "file": "missing/N/308973-no-mans-sky-worlds-part-i.json"
@@ -651515,6 +651690,11 @@
       "igdb_id": 307262,
       "game_name": "Noroi E: Darkness",
       "file": "missing/N/307262-noroi-e-darkness.json"
+    },
+    {
+      "igdb_id": 363678,
+      "game_name": "Noroi E: Nightmares",
+      "file": "missing/N/363678-noroi-e-nightmares.json"
     },
     {
       "igdb_id": 240945,
@@ -665430,6 +665610,11 @@
       "igdb_id": 344011,
       "game_name": "One's Own Exile",
       "file": "missing/O/344011-ones-own-exile.json"
+    },
+    {
+      "igdb_id": 363666,
+      "game_name": "One/Iro",
+      "file": "missing/O/363666-one-iro.json"
     },
     {
       "igdb_id": 223556,
@@ -695920,6 +696105,11 @@
       "igdb_id": 11324,
       "game_name": "Phantom Breaker: Battle Grounds",
       "file": "missing/P/11324-phantom-breaker-battle-grounds.json"
+    },
+    {
+      "igdb_id": 363670,
+      "game_name": "Phantom Breaker: Battle Grounds Mobile",
+      "file": "missing/P/363670-phantom-breaker-battle-grounds-mobile.json"
     },
     {
       "igdb_id": 319268,
@@ -734197,6 +734387,11 @@
       "file": "missing/P/319004-project-slippi.json"
     },
     {
+      "igdb_id": 363673,
+      "game_name": "Project Smile",
+      "file": "missing/P/363673-project-smile.json"
+    },
+    {
       "igdb_id": 325449,
       "game_name": "Project Solaris",
       "file": "missing/P/325449-project-solaris.json"
@@ -738927,6 +739122,11 @@
       "file": "missing/P/192962-punji-vr.json"
     },
     {
+      "igdb_id": 363660,
+      "game_name": "Punk Girl",
+      "file": "missing/P/363660-punk-girl.json"
+    },
+    {
       "igdb_id": 395157,
       "game_name": "Punk Plush Panic",
       "file": "missing/P/395157-punk-plush-panic.json"
@@ -743087,6 +743287,11 @@
       "file": "missing/P/353888-puzzling-places-cityscapes-bundle.json"
     },
     {
+      "igdb_id": 363675,
+      "game_name": "Puzzling Places: Cozy Corner",
+      "file": "missing/P/363675-puzzling-places-cozy-corner.json"
+    },
+    {
       "igdb_id": 353889,
       "game_name": "Puzzling Places: Cozy Rooms Bundle",
       "file": "missing/P/353889-puzzling-places-cozy-rooms-bundle.json"
@@ -743295,6 +743500,11 @@
       "igdb_id": 353887,
       "game_name": "Puzzling Places: Premium Puzzles Bundle",
       "file": "missing/P/353887-puzzling-places-premium-puzzles-bundle.json"
+    },
+    {
+      "igdb_id": 363676,
+      "game_name": "Puzzling Places: Return to Greece",
+      "file": "missing/P/363676-puzzling-places-return-to-greece.json"
     },
     {
       "igdb_id": 353475,
@@ -771220,6 +771430,11 @@
       "igdb_id": 401682,
       "game_name": "Reus 2: Grasslands",
       "file": "missing/R/401682-reus-2-grasslands.json"
+    },
+    {
+      "igdb_id": 363682,
+      "game_name": "Reus 2: Ice Age",
+      "file": "missing/R/363682-reus-2-ice-age.json"
     },
     {
       "igdb_id": 312031,
@@ -819955,6 +820170,11 @@
       "igdb_id": 304838,
       "game_name": "Shadowed Descent",
       "file": "missing/S/304838-shadowed-descent.json"
+    },
+    {
+      "igdb_id": 363669,
+      "game_name": "Shadowed: The Demon Castle of Ooe",
+      "file": "missing/S/363669-shadowed-the-demon-castle-of-ooe.json"
     },
     {
       "igdb_id": 250990,
@@ -873602,6 +873822,11 @@
       "file": "missing/S/363409-spirit-whisperer-conversation-with-akari.json"
     },
     {
+      "igdb_id": 363663,
+      "game_name": "Spirit Whisperer Conversation With Kamiko",
+      "file": "missing/S/363663-spirit-whisperer-conversation-with-kamiko.json"
+    },
+    {
       "igdb_id": 189938,
       "game_name": "Spirit Wolves",
       "file": "missing/S/189938-spirit-wolves.json"
@@ -891510,6 +891735,11 @@
       "igdb_id": 418317,
       "game_name": "Stock Cars Racing",
       "file": "missing/S/418317-stock-cars-racing.json"
+    },
+    {
+      "igdb_id": 363695,
+      "game_name": "Stock Exchange Game",
+      "file": "missing/S/363695-stock-exchange-game.json"
     },
     {
       "igdb_id": 76136,
@@ -924880,6 +925110,11 @@
       "igdb_id": 412396,
       "game_name": "Tabletop Baseball",
       "file": "missing/T/412396-tabletop-baseball.json"
+    },
+    {
+      "igdb_id": 363674,
+      "game_name": "Tabletop Defense",
+      "file": "missing/T/363674-tabletop-defense.json"
     },
     {
       "igdb_id": 108617,
@@ -963317,6 +963552,11 @@
       "file": "missing/T/192389-the-house-where-they-dwell.json"
     },
     {
+      "igdb_id": 363681,
+      "game_name": "The House: A Maple Street Story",
+      "file": "missing/T/363681-the-house-a-maple-street-story.json"
+    },
+    {
       "igdb_id": 390039,
       "game_name": "The Housekeeper",
       "file": "missing/T/390039-the-housekeeper.json"
@@ -997905,6 +998145,11 @@
       "igdb_id": 159083,
       "game_name": "Throne: Kingdom at War",
       "file": "missing/T/159083-throne-kingdom-at-war.json"
+    },
+    {
+      "igdb_id": 363662,
+      "game_name": "ThroneBreaker",
+      "file": "missing/T/363662-thronebreaker.json"
     },
     {
       "igdb_id": 236547,
@@ -1046805,6 +1047050,11 @@
       "igdb_id": 286690,
       "game_name": "Ultimate Mortal Kombat 3",
       "file": "missing/U/286690-ultimate-mortal-kombat-3.json"
+    },
+    {
+      "igdb_id": 363668,
+      "game_name": "Ultimate Mortal Kombat 3: WaveNet Edition",
+      "file": "missing/U/363668-ultimate-mortal-kombat-3-wavenet-edition.json"
     },
     {
       "igdb_id": 45153,
