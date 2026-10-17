@@ -6389,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotfindskitten | 142978 | [142978-robotfindskitten.json](./142978-robotfindskitten.json) |
 | Robotfindskitten | 205093 | [205093-robotfindskitten.json](./205093-robotfindskitten.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
+| Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
 | Robotic Worlds | 146692 | [146692-robotic-worlds.json](./146692-robotic-worlds.json) |
 | Robotica | 19744 | [19744-robotica.json](./19744-robotica.json) |
 | Robotica | 211292 | [211292-robotica.json](./211292-robotica.json) |
@@ -8175,6 +8176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Workshop Max 2 | 262444 | [262444-rpg-workshop-max-2.json](./262444-rpg-workshop-max-2.json) |
 | RPG World - Action RPG Maker | 131334 | [131334-rpg-world-action-rpg-maker.json](./131334-rpg-world-action-rpg-maker.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
+| RPG: Fire Keeper | 405966 | [405966-rpg-fire-keeper.json](./405966-rpg-fire-keeper.json) |
 | RPG: The Legends of Power Volume 1 | 351590 | [351590-rpg-the-legends-of-power-volume-1.json](./351590-rpg-the-legends-of-power-volume-1.json) |
 | RPG2 | 407195 | [407195-rpg2.json](./407195-rpg2.json) |
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
