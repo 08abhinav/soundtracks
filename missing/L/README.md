@@ -851,7 +851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day | 224026 | [224026-last-day.json](./224026-last-day.json) |
 | Last Day Lockdown | 272758 | [272758-last-day-lockdown.json](./272758-last-day-lockdown.json) |
 | Last Day of Fear | 77168 | [77168-last-day-of-fear.json](./77168-last-day-of-fear.json) |
-| Last Day of June | 36543 | [36543-last-day-of-june.json](./36543-last-day-of-june.json) |
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
