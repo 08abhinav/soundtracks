@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cyber Dungeon | 221229 | [221229-idle-cyber-dungeon.json](./221229-idle-cyber-dungeon.json) |
 | Idle Dangers | 347200 | [347200-idle-dangers.json](./347200-idle-dangers.json) |
 | Idle Death Knight | 208031 | [208031-idle-death-knight.json](./208031-idle-death-knight.json) |
+| Idle Deepcore | 398901 | [398901-idle-deepcore.json](./398901-idle-deepcore.json) |
 | Idle Dessert Tycoon | 299452 | [299452-idle-dessert-tycoon.json](./299452-idle-dessert-tycoon.json) |
 | Idle Devils | 235851 | [235851-idle-devils.json](./235851-idle-devils.json) |
 | Idle Devils: New Character - Belial | 293848 | [293848-idle-devils-new-character-belial.json](./293848-idle-devils-new-character-belial.json) |
