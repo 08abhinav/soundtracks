@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
 | Yoshi's Island | 270350 | [270350-yoshis-island.json](./270350-yoshis-island.json) |
 | Yoshi's Isle: Sonic Style | 323909 | [323909-yoshis-isle-sonic-style.json](./323909-yoshis-isle-sonic-style.json) |
+| Yoshi's Lullaby | 412299 | [412299-yoshis-lullaby.json](./412299-yoshis-lullaby.json) |
 | Yoshi's Mix-Up | 231652 | [231652-yoshis-mix-up.json](./231652-yoshis-mix-up.json) |
 | Yoshi's New Island | 4591 | [4591-yoshis-new-island.json](./4591-yoshis-new-island.json) |
 | Yoshi's Racing Story | 195026 | [195026-yoshis-racing-story.json](./195026-yoshis-racing-story.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
 | Yukikoi Melt | 60458 | [60458-yukikoi-melt.json](./60458-yukikoi-melt.json) |
+| Yukimichi | 412333 | [412333-yukimichi.json](./412333-yukimichi.json) |
 | Yukinas Diary | 114254 | [114254-yukinas-diary.json](./114254-yukinas-diary.json) |
 | Yukinko Burning | 167122 | [167122-yukinko-burning.json](./167122-yukinko-burning.json) |
 | Yukiusa | 277270 | [277270-yukiusa.json](./277270-yukiusa.json) |
