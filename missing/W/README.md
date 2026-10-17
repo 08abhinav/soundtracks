@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warcraft Rumble | 199925 | [199925-warcraft-rumble.json](./199925-warcraft-rumble.json) |
 | Warcraft: Guardians of Azeroth 2 | 356033 | [356033-warcraft-guardians-of-azeroth-2.json](./356033-warcraft-guardians-of-azeroth-2.json) |
 | Warcube | 31973 | [31973-warcube.json](./31973-warcube.json) |
+| Ward 107: Silence | 392822 | [392822-ward-107-silence.json](./392822-ward-107-silence.json) |
 | Ward 13 | 399722 | [399722-ward-13.json](./399722-ward-13.json) |
 | Ward 777 | 357460 | [357460-ward-777.json](./357460-ward-777.json) |
 | Warden | 377157 | [377157-warden.json](./377157-warden.json) |
