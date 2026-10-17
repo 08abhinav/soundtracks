@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
+| Z Evil Road | 374886 | [374886-z-evil-road.json](./374886-z-evil-road.json) |
 | Z is for Zombie | 223623 | [223623-z-is-for-zombie.json](./223623-z-is-for-zombie.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
 | Z Line | 254152 | [254152-z-line.json](./254152-z-line.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombobox: Bredo Story | 405602 | [405602-zombobox-bredo-story.json](./405602-zombobox-bredo-story.json) |
 | Zombocalypse | 345559 | [345559-zombocalypse.json](./345559-zombocalypse.json) |
 | Zombocalypse | 389509 | [389509-zombocalypse.json](./389509-zombocalypse.json) |
+| Zombocalypse Now! | 374914 | [374914-zombocalypse-now.json](./374914-zombocalypse-now.json) |
 | Zombodrive | 192826 | [192826-zombodrive.json](./192826-zombodrive.json) |
 | Zomborg | 75006 | [75006-zomborg.json](./75006-zomborg.json) |
 | Zombotron | 278616 | [278616-zombotron.json](./278616-zombotron.json) |
