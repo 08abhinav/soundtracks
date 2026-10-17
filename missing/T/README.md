@@ -21382,6 +21382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Chest Clicker | 250852 | [250852-treasure-chest-clicker.json](./250852-treasure-chest-clicker.json) |
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
+| Treasure Cove | 409196 | [409196-treasure-cove.json](./409196-treasure-cove.json) |
 | Treasure Cove! | 100081 | [100081-treasure-cove.json](./100081-treasure-cove.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
@@ -23249,6 +23250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
+| Twin Hotel, Spa, and More | 409208 | [409208-twin-hotel-spa-and-more.json](./409208-twin-hotel-spa-and-more.json) |
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
 | Twin Kingdom Valley | 12971 | [12971-twin-kingdom-valley.json](./12971-twin-kingdom-valley.json) |
