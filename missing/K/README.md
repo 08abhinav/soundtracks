@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Cup | 143441 | [143441-kings-cup.json](./143441-kings-cup.json) |
 | King's Devotion | 381146 | [381146-kings-devotion.json](./381146-kings-devotion.json) |
+| King's Downfall | 383675 | [383675-kings-downfall.json](./383675-kings-downfall.json) |
 | King's Dungeon | 228691 | [228691-kings-dungeon.json](./228691-kings-dungeon.json) |
 | King's Empire | 344002 | [344002-kings-empire.json](./344002-kings-empire.json) |
 | King's Field | 340963 | [340963-kings-field.json](./340963-kings-field.json) |
