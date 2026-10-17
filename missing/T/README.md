@@ -11575,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
 | The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
+| The Silence: The Forest | 411372 | [411372-the-silence-the-forest.json](./411372-the-silence-the-forest.json) |
 | The Silent Age | 11444 | [11444-the-silent-age.json](./11444-the-silent-age.json) |
 | The Silent Bells | 292407 | [292407-the-silent-bells.json](./292407-the-silent-bells.json) |
 | The Silent Cartographer: Evolved | 375319 | [375319-the-silent-cartographer-evolved.json](./375319-the-silent-cartographer-evolved.json) |
