@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Lord | 242685 | [242685-beast-lord.json](./242685-beast-lord.json) |
 | Beast Lord: The New Land | 297500 | [297500-beast-lord-the-new-land.json](./297500-beast-lord-the-new-land.json) |
 | Beast Market | 416107 | [416107-beast-market.json](./416107-beast-market.json) |
+| Beast Mask | 392750 | [392750-beast-mask.json](./392750-beast-mask.json) |
 | Beast Master and Prince: Snow Bride | 136452 | [136452-beast-master-and-prince-snow-bride.json](./136452-beast-master-and-prince-snow-bride.json) |
 | Beast Mode | 332652 | [332652-beast-mode.json](./332652-beast-mode.json) |
 | Beast Mode: Night of the Werewolf | 43541 | [43541-beast-mode-night-of-the-werewolf.json](./43541-beast-mode-night-of-the-werewolf.json) |
@@ -4651,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friends: My Horse | 49229 | [49229-best-friends-my-horse.json](./49229-best-friends-my-horse.json) |
 | Best Friends: My Horse 3D | 84983 | [84983-best-friends-my-horse-3d.json](./84983-best-friends-my-horse-3d.json) |
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
+| Best Gopher Ever | 392746 | [392746-best-gopher-ever.json](./392746-best-gopher-ever.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best Hits Fun Collection 10 in 1 Bundle | 417287 | [417287-best-hits-fun-collection-10-in-1-bundle.json](./417287-best-hits-fun-collection-10-in-1-bundle.json) |
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
@@ -6216,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Belt Challenge | 49310 | [49310-black-belt-challenge.json](./49310-black-belt-challenge.json) |
 | Black Bird | 100439 | [100439-black-bird.json](./100439-black-bird.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
+| Black Bird: Tori-tachi no Tooboe | 392745 | [392745-black-bird-tori-tachi-no-tooboe.json](./392745-black-bird-tori-tachi-no-tooboe.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black blood | 132781 | [132781-black-blood.json](./132781-black-blood.json) |
 | Black Blood | 379357 | [379357-black-blood.json](./379357-black-blood.json) |
@@ -8260,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
+| Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
