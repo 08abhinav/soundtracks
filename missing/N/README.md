@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Merger | 339309 | [339309-neon-merger.json](./339309-neon-merger.json) |
 | Neon Net | 291569 | [291569-neon-net.json](./291569-neon-net.json) |
 | Neon Nexus | 301973 | [301973-neon-nexus.json](./301973-neon-nexus.json) |
+| Neon Nexus | 369343 | [369343-neon-nexus.json](./369343-neon-nexus.json) |
 | Neon Nights | 159821 | [159821-neon-nights.json](./159821-neon-nights.json) |
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numeral Strike | 361628 | [361628-numeral-strike.json](./361628-numeral-strike.json) |
+| Numeric Demon Cat | 369329 | [369329-numeric-demon-cat.json](./369329-numeric-demon-cat.json) |
 | Numerical Alchemist | 416567 | [416567-numerical-alchemist.json](./416567-numerical-alchemist.json) |
 | Numerium Challenge | 118126 | [118126-numerium-challenge.json](./118126-numerium-challenge.json) |
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
