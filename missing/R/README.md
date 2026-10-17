@@ -8731,6 +8731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
+| Run Sausage Run!: Bones Edition | 368779 | [368779-run-sausage-run-bones-edition.json](./368779-run-sausage-run-bones-edition.json) |
 | Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
 | Run Sausage Run!: Diamond Edition | 380722 | [380722-run-sausage-run-diamond-edition.json](./380722-run-sausage-run-diamond-edition.json) |
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
