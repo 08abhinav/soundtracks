@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Week With The Mafia | 273435 | [273435-one-week-with-the-mafia.json](./273435-one-week-with-the-mafia.json) |
 | One Week With You | 191128 | [191128-one-week-with-you.json](./191128-one-week-with-you.json) |
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
+| One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
 | One-Armed Cook | 199648 | [199648-one-armed-cook.json](./199648-one-armed-cook.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
+| Operation Purge | 374381 | [374381-operation-purge.json](./374381-operation-purge.json) |
 | Operation Red Dragon | 75665 | [75665-operation-red-dragon.json](./75665-operation-red-dragon.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
