@@ -8548,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Roost | 410169 | [410169-ruler-of-the-roost.json](./410169-ruler-of-the-roost.json) |
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
+| Rulers of Cospaia | 379719 | [379719-rulers-of-cospaia.json](./379719-rulers-of-cospaia.json) |
 | Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
