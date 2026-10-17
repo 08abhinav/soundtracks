@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenmark: Mercenaries | 63534 | [63534-ravenmark-mercenaries.json](./63534-ravenmark-mercenaries.json) |
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous | 361635 | [361635-ravenous.json](./361635-ravenous.json) |
+| Ravenous | 377340 | [377340-ravenous.json](./377340-ravenous.json) |
 | Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
 | Ravenous Frog | 96291 | [96291-ravenous-frog.json](./96291-ravenous-frog.json) |
 | Ravenous Hand | 377991 | [377991-ravenous-hand.json](./377991-ravenous-hand.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
 | Reborder | 415850 | [415850-reborder.json](./415850-reborder.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
+| Reborn | 377335 | [377335-reborn.json](./377335-reborn.json) |
 | Reborn | 76431 | [76431-reborn.json](./76431-reborn.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
 | Reborn in Sin | 157000 | [157000-reborn-in-sin.json](./157000-reborn-in-sin.json) |
