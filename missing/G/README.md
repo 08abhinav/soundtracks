@@ -5575,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
+| Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
 | Grand Theft Auto: iFruit | 62701 | [62701-grand-theft-auto-ifruit.json](./62701-grand-theft-auto-ifruit.json) |
 | Grand Theft Auto: Liberty City 2001 | 327430 | [327430-grand-theft-auto-liberty-city-2001.json](./327430-grand-theft-auto-liberty-city-2001.json) |
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
@@ -7203,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guildmaster Story | 115475 | [115475-guildmaster-story.json](./115475-guildmaster-story.json) |
 | Guildmaster: Gratuitous Subtitle | 141021 | [141021-guildmaster-gratuitous-subtitle.json](./141021-guildmaster-gratuitous-subtitle.json) |
 | GuildMestar | 276665 | [276665-guildmestar.json](./276665-guildmestar.json) |
+| Guildrun | 410290 | [410290-guildrun.json](./410290-guildrun.json) |
 | Guilds n Glory | 213001 | [213001-guilds-n-glory.json](./213001-guilds-n-glory.json) |
 | Guilds of Delenar | 112724 | [112724-guilds-of-delenar.json](./112724-guilds-of-delenar.json) |
 | Guilds of Gods | 130775 | [130775-guilds-of-gods.json](./130775-guilds-of-gods.json) |
@@ -7964,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gymnastics Queen - Go for the Olympic Champion! | 97218 | [97218-gymnastics-queen-go-for-the-olympic-champion.json](./97218-gymnastics-queen-go-for-the-olympic-champion.json) |
 | Gynogenesis: The Next Day | 256899 | [256899-gynogenesis-the-next-day.json](./256899-gynogenesis-the-next-day.json) |
 | Gynotai | 319866 | [319866-gynotai.json](./319866-gynotai.json) |
+| Gynoug | 410065 | [410065-gynoug.json](./410065-gynoug.json) |
 | Gyossait | 42684 | [42684-gyossait.json](./42684-gyossait.json) |
 | Gyossait: Deluxe Edition | 134001 | [134001-gyossait-deluxe-edition.json](./134001-gyossait-deluxe-edition.json) |
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
