@@ -2445,6 +2445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 146059 | [146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./146059-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles 3: Mutant Nightmare | 4197 | [4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json](./4197-teenage-mutant-ninja-turtles-3-mutant-nightmare.json) |
 | Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants | 288335 | [288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json](./288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json) |
+| Teenage Mutant Ninja Turtles Arcade: Wrath of The Mutants - Ninja Edition | 415394 | [415394-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition.json](./415394-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition.json) |
 | Teenage Mutant Ninja Turtles Double Pack | 78938 | [78938-teenage-mutant-ninja-turtles-double-pack.json](./78938-teenage-mutant-ninja-turtles-double-pack.json) |
 | Teenage Mutant Ninja Turtles Fast Forward: Ninja Training NYC | 146104 | [146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json](./146104-teenage-mutant-ninja-turtles-fast-forward-ninja-training-nyc.json) |
 | Teenage Mutant Ninja Turtles II: Back from the Sewers | 18639 | [18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json](./18639-teenage-mutant-ninja-turtles-ii-back-from-the-sewers.json) |
@@ -4944,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Candyman | 186729 | [186729-the-candyman.json](./186729-the-candyman.json) |
 | The Cannon Fighters | 253597 | [253597-the-cannon-fighters.json](./253597-the-cannon-fighters.json) |
 | The Cannonball Run 2 | 98252 | [98252-the-cannonball-run-2.json](./98252-the-cannonball-run-2.json) |
+| The Canon Keeper | 415397 | [415397-the-canon-keeper.json](./415397-the-canon-keeper.json) |
 | The Capcom Collection | 246090 | [246090-the-capcom-collection.json](./246090-the-capcom-collection.json) |
 | The Caped Crusader | 278715 | [278715-the-caped-crusader.json](./278715-the-caped-crusader.json) |
 | The Capital of Feilai | 187779 | [187779-the-capital-of-feilai.json](./187779-the-capital-of-feilai.json) |
@@ -8547,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
 | The Last Opening | 396902 | [396902-the-last-opening.json](./396902-the-last-opening.json) |
+| The Last Ores | 415421 | [415421-the-last-ores.json](./415421-the-last-ores.json) |
 | The Last Orgasm | 392897 | [392897-the-last-orgasm.json](./392897-the-last-orgasm.json) |
 | The Last Orpheus | 276758 | [276758-the-last-orpheus.json](./276758-the-last-orpheus.json) |
 | The Last Phoenix | 375447 | [375447-the-last-phoenix.json](./375447-the-last-phoenix.json) |
