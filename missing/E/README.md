@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ele Blaze | 68662 | [68662-ele-blaze.json](./68662-ele-blaze.json) |
 | Ele-Mental | 149082 | [149082-ele-mental.json](./149082-ele-mental.json) |
 | Elea | 17469 | [17469-elea.json](./17469-elea.json) |
+| Elea Eluanda: Das verschwundene Tröstereulenbuch | 364822 | [364822-elea-eluanda-das-verschwundene-trostereulenbuch.json](./364822-elea-eluanda-das-verschwundene-trostereulenbuch.json) |
 | Eleanor 3 | 286502 | [286502-eleanor-3.json](./286502-eleanor-3.json) |
 | Eleanor in Miami | 369772 | [369772-eleanor-in-miami.json](./369772-eleanor-in-miami.json) |
 | Eleanor's Handmaid | 253967 | [253967-eleanors-handmaid.json](./253967-eleanors-handmaid.json) |
@@ -2954,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
+| Ensemble Training!! | 364828 | [364828-ensemble-training.json](./364828-ensemble-training.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
 | Ensign-1 | 17606 | [17606-ensign-1.json](./17606-ensign-1.json) |
@@ -4729,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everchained | 304643 | [304643-everchained.json](./304643-everchained.json) |
 | Everchanging | 157153 | [157153-everchanging.json](./157153-everchanging.json) |
 | Everdark Tower | 121744 | [121744-everdark-tower.json](./121744-everdark-tower.json) |
+| Everdark: Undead Apocalypse | 366590 | [366590-everdark-undead-apocalypse.json](./366590-everdark-undead-apocalypse.json) |
 | Everdate: The Let's Play Dating Game | 244143 | [244143-everdate-the-lets-play-dating-game.json](./244143-everdate-the-lets-play-dating-game.json) |
 | Everdawn | 185494 | [185494-everdawn.json](./185494-everdawn.json) |
 | EverDead: Zombie Apocalypse | 63681 | [63681-everdead-zombie-apocalypse.json](./63681-everdead-zombie-apocalypse.json) |
@@ -5004,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Hunter Tycoon | 197357 | [197357-evil-hunter-tycoon.json](./197357-evil-hunter-tycoon.json) |
 | Evil Icebox | 149001 | [149001-evil-icebox.json](./149001-evil-icebox.json) |
 | Evil Inside | 144419 | [144419-evil-inside.json](./144419-evil-inside.json) |
+| Evil Inside VR | 366599 | [366599-evil-inside-vr.json](./366599-evil-inside-vr.json) |
 | Evil Islands: Curse of the Lost Soul | 13156 | [13156-evil-islands-curse-of-the-lost-soul.json](./13156-evil-islands-curse-of-the-lost-soul.json) |
 | Evil Labs | 55426 | [55426-evil-labs.json](./55426-evil-labs.json) |
 | Evil Manor | 137485 | [137485-evil-manor.json](./137485-evil-manor.json) |
