@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:01:06.609Z",
-  "total_soundtracks": 2010,
+  "generated_at": "2026-10-17T12:01:14.521Z",
+  "total_soundtracks": 2011,
   "games": [
     {
       "igdb_id": 7522,
@@ -17611,6 +17611,20 @@
         {
           "album_name": "Shin Megami Tensei: Devil Survivor Overclocked Original SoundTrack",
           "spotify_url": "https://open.spotify.com/album/7v3zzoshkuibcTqvN1a2hW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10223,
+      "game_name": "Shinobi",
+      "game_url": "https://ostdb.net/games/shinobi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27337bb627de26af58f737c30c6",
+      "albums": [
+        {
+          "album_name": "Shinobi Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1",
           "apple_music_url": "",
           "album_link_url": ""
         }
