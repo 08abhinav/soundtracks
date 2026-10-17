@@ -472,6 +472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactoids: Galactic Invaders | 217279 | [217279-galactoids-galactic-invaders.json](./217279-galactoids-galactic-invaders.json) |
 | Galactory | 160275 | [160275-galactory.json](./160275-galactory.json) |
 | Galactose: Pastries in Space | 109047 | [109047-galactose-pastries-in-space.json](./109047-galactose-pastries-in-space.json) |
+| Galactum Meridian | 415443 | [415443-galactum-meridian.json](./415443-galactum-meridian.json) |
 | Galador: The Prince and the Coward | 26484 | [26484-galador-the-prince-and-the-coward.json](./26484-galador-the-prince-and-the-coward.json) |
 | Galaforce | 13719 | [13719-galaforce.json](./13719-galaforce.json) |
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage: Bad Dream Adventure | 152048 | [152048-garage-bad-dream-adventure.json](./152048-garage-bad-dream-adventure.json) |
 | Garage: Bad Dream Adventure | 24947 | [24947-garage-bad-dream-adventure.json](./24947-garage-bad-dream-adventure.json) |
 | Garagem SA | 345628 | [345628-garagem-sa.json](./345628-garagem-sa.json) |
+| Garaji | 415414 | [415414-garaji.json](./415414-garaji.json) |
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
 | Garakutale | 94004 | [94004-garakutale.json](./94004-garakutale.json) |
 | Garbage | 133215 | [133215-garbage.json](./133215-garbage.json) |
@@ -5402,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Deluxe Edition | 260718 | [260718-granblue-fantasy-versus-rising-deluxe-edition.json](./260718-granblue-fantasy-versus-rising-deluxe-edition.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 1 | 379684 | [379684-granblue-fantasy-versus-rising-figure-studio-set-1.json](./379684-granblue-fantasy-versus-rising-figure-studio-set-1.json) |
 | Granblue Fantasy Versus: Rising - Figure Studio Set 2 | 379685 | [379685-granblue-fantasy-versus-rising-figure-studio-set-2.json](./379685-granblue-fantasy-versus-rising-figure-studio-set-2.json) |
+| Granblue Fantasy Versus: Rising - Legendary Edition | 415415 | [415415-granblue-fantasy-versus-rising-legendary-edition.json](./415415-granblue-fantasy-versus-rising-legendary-edition.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set (Pop Team Epic) | 379686 | [379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json](./379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json) |
 | Granblue Fantasy Versus: Rising - Premium Avatar Set: Shadowverse | 294993 | [294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json](./294993-granblue-fantasy-versus-rising-premium-avatar-set-shadowverse.json) |
 | Granblue Fantasy Versus: Rising - System Voice Set 3 | 379687 | [379687-granblue-fantasy-versus-rising-system-voice-set-3.json](./379687-granblue-fantasy-versus-rising-system-voice-set-3.json) |
@@ -5805,6 +5808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Gunslingers | 258021 | [258021-graveyard-gunslingers.json](./258021-graveyard-gunslingers.json) |
 | Graveyard Keeper | 27384 | [27384-graveyard-keeper.json](./27384-graveyard-keeper.json) |
 | Graveyard Keeper II | 397817 | [397817-graveyard-keeper-ii.json](./397817-graveyard-keeper-ii.json) |
+| Graveyard Keeper II: Pre-Order Bonus | 415416 | [415416-graveyard-keeper-ii-pre-order-bonus.json](./415416-graveyard-keeper-ii-pre-order-bonus.json) |
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
