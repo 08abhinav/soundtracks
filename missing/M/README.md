@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
+| Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
 | Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
@@ -3474,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masala Drive | 263542 | [263542-masala-drive.json](./263542-masala-drive.json) |
 | Masamune | 117424 | [117424-masamune.json](./117424-masamune.json) |
 | Masarada Town Story | 223372 | [223372-masarada-town-story.json](./223372-masarada-town-story.json) |
+| Masc, Mask & Masked! | 391661 | [391661-masc-mask-and-masked.json](./391661-masc-mask-and-masked.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
@@ -3513,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mask of Fury | 86419 | [86419-mask-of-fury.json](./86419-mask-of-fury.json) |
 | Mask of Lion | 233626 | [233626-mask-of-lion.json](./233626-mask-of-lion.json) |
 | Mask of Sanity | 121696 | [121696-mask-of-sanity.json](./121696-mask-of-sanity.json) |
+| Mask of Souls | 391657 | [391657-mask-of-souls.json](./391657-mask-of-souls.json) |
 | Mask of the Plague Doctor | 129712 | [129712-mask-of-the-plague-doctor.json](./129712-mask-of-the-plague-doctor.json) |
 | Mask Quest | 236934 | [236934-mask-quest.json](./236934-mask-quest.json) |
 | Mask Two Two | 198378 | [198378-mask-two-two.json](./198378-mask-two-two.json) |
@@ -4023,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Hero: Minimalist Puzzle | 163556 | [163556-math-hero-minimalist-puzzle.json](./163556-math-hero-minimalist-puzzle.json) |
 | Math Heroes | 238935 | [238935-math-heroes.json](./238935-math-heroes.json) |
 | Math Invaders | 209546 | [209546-math-invaders.json](./209546-math-invaders.json) |
+| Math Is Hard | 391632 | [391632-math-is-hard.json](./391632-math-is-hard.json) |
 | Math is Horror | 278542 | [278542-math-is-horror.json](./278542-math-is-horror.json) |
 | Math it Right 3D Adventure | 190960 | [190960-math-it-right-3d-adventure.json](./190960-math-it-right-3d-adventure.json) |
 | Math Jam | 138493 | [138493-math-jam.json](./138493-math-jam.json) |
@@ -7887,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Thunder Drive | 258084 | [258084-midnight-thunder-drive.json](./258084-midnight-thunder-drive.json) |
 | Midnight Toybox | 416667 | [416667-midnight-toybox.json](./416667-midnight-toybox.json) |
 | Midnight Train | 138255 | [138255-midnight-train.json](./138255-midnight-train.json) |
+| Midnight Train | 391637 | [391637-midnight-train.json](./391637-midnight-train.json) |
 | Midnight Train: Going Anywhere | 176489 | [176489-midnight-train-going-anywhere.json](./176489-midnight-train-going-anywhere.json) |
 | Midnight Train: New Moon | 401047 | [401047-midnight-train-new-moon.json](./401047-midnight-train-new-moon.json) |
 | Midnight Transmission | 331334 | [331334-midnight-transmission.json](./331334-midnight-transmission.json) |
