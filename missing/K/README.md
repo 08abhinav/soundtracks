@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kova | 27883 | [27883-kova.json](./27883-kova.json) |
 | KovaaK 2.0: Tracking Trainer | 171035 | [171035-kovaak-2-0-tracking-trainer.json](./171035-kovaak-2-0-tracking-trainer.json) |
 | KovaaK's Aim Trainer | 126032 | [126032-kovaaks-aim-trainer.json](./126032-kovaaks-aim-trainer.json) |
+| Kovoclak | 369362 | [369362-kovoclak.json](./369362-kovoclak.json) |
 | Kovox Pitch | 133139 | [133139-kovox-pitch.json](./133139-kovox-pitch.json) |
 | Kowai Mono ni ha Futa wo Shiro | 307837 | [307837-kowai-mono-ni-ha-futa-wo-shiro.json](./307837-kowai-mono-ni-ha-futa-wo-shiro.json) |
 | Kowai Shashin: Shinrei Shashin Kitan | 137561 | [137561-kowai-shashin-shinrei-shashin-kitan.json](./137561-kowai-shashin-shinrei-shashin-kitan.json) |
