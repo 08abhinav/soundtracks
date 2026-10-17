@@ -2538,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
+| Marimo Pants | 412817 | [412817-marimo-pants.json](./412817-marimo-pants.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
 | Marina Manager | 420489 | [420489-marina-manager.json](./420489-marina-manager.json) |
 | Marina Militare It Navy Sim | 193849 | [193849-marina-militare-it-navy-sim.json](./193849-marina-militare-it-navy-sim.json) |
