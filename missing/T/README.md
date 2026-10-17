@@ -5781,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
+| The Death of Harsh Noise | 410064 | [410064-the-death-of-harsh-noise.json](./410064-the-death-of-harsh-noise.json) |
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
@@ -6672,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Rescue | 190918 | [190918-the-final-rescue.json](./190918-the-final-rescue.json) |
 | The Final Round | 139245 | [139245-the-final-round.json](./139245-the-final-round.json) |
 | The Final Round | 19709 | [19709-the-final-round.json](./19709-the-final-round.json) |
+| The Final Shuffle | 410275 | [410275-the-final-shuffle.json](./410275-the-final-shuffle.json) |
 | The Final Specimen: Arrival | 30037 | [30037-the-final-specimen-arrival.json](./30037-the-final-specimen-arrival.json) |
 | The Final Stand: Breakout | 128302 | [128302-the-final-stand-breakout.json](./128302-the-final-stand-breakout.json) |
 | The Final Station | 16136 | [16136-the-final-station.json](./16136-the-final-station.json) |
@@ -18276,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torino 2006 | 6205 | [6205-torino-2006.json](./6205-torino-2006.json) |
 | Torins Towers: Rise of Heroes | 167255 | [167255-torins-towers-rise-of-heroes.json](./167255-torins-towers-rise-of-heroes.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
+| Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
