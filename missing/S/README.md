@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
 | Sahara Storms WWIII | 239713 | [239713-sahara-storms-wwiii.json](./239713-sahara-storms-wwiii.json) |
+| Sahara's Underworld | 367744 | [367744-saharas-underworld.json](./367744-saharas-underworld.json) |
 | Sahir: Shiv of Memories | 372737 | [372737-sahir-shiv-of-memories.json](./372737-sahir-shiv-of-memories.json) |
 | SAHUR: Escape Together | 367936 | [367936-sahur-escape-together.json](./367936-sahur-escape-together.json) |
 | SaHwa: The Altered Timeline | 368601 | [368601-sahwa-the-altered-timeline.json](./368601-sahwa-the-altered-timeline.json) |
@@ -11643,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
 | Soldiers of Fortune | 4527 | [4527-soldiers-of-fortune.json](./4527-soldiers-of-fortune.json) |
 | Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
+| Soldiers of Heaven VR | 367703 | [367703-soldiers-of-heaven-vr.json](./367703-soldiers-of-heaven-vr.json) |
 | Soldiers of the Universe | 43883 | [43883-soldiers-of-the-universe.json](./43883-soldiers-of-the-universe.json) |
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
@@ -13777,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
+| Space Fighter | 367708 | [367708-space-fighter.json](./367708-space-fighter.json) |
 | Space Fighter | 55674 | [55674-space-fighter.json](./55674-space-fighter.json) |
 | Space Fighter | 80830 | [80830-space-fighter.json](./80830-space-fighter.json) |
 | Space Fighter 4000: Training Missions | 61457 | [61457-space-fighter-4000-training-missions.json](./61457-space-fighter-4000-training-missions.json) |
@@ -18371,6 +18374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
 | Stay Alive | 258444 | [258444-stay-alive.json](./258444-stay-alive.json) |
 | Stay Alive | 339667 | [339667-stay-alive.json](./339667-stay-alive.json) |
+| Stay Alive, My Son PC | 367706 | [367706-stay-alive-my-son-pc.json](./367706-stay-alive-my-son-pc.json) |
 | Stay Alive, My Son VR | 293637 | [293637-stay-alive-my-son-vr.json](./293637-stay-alive-my-son-vr.json) |
 | Stay Alive: Apocalypse | 76582 | [76582-stay-alive-apocalypse.json](./76582-stay-alive-apocalypse.json) |
 | Stay Alive: Zombie Survival | 153508 | [153508-stay-alive-zombie-survival.json](./153508-stay-alive-zombie-survival.json) |
