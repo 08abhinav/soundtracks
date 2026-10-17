@@ -1281,6 +1281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekoh Beach | 189109 | [189109-ekoh-beach.json](./189109-ekoh-beach.json) |
 | Ekonomi Bakani Simulator | 183891 | [183891-ekonomi-bakani-simulator.json](./183891-ekonomi-bakani-simulator.json) |
 | Ekorella Vol 1 | 199926 | [199926-ekorella-vol-1.json](./199926-ekorella-vol-1.json) |
+| Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enid | 247418 | [247418-enid.json](./247418-enid.json) |
 | Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
+| Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
 | Enigma Engine | 143561 | [143561-enigma-engine.json](./143561-enigma-engine.json) |
