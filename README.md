@@ -1272,6 +1272,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273cf4491c39ee263a3a9e0e2c1" width="60" /> | [Sherlock Holmes: Chapter One](https://ostdb.net/games/sherlock-holmes-chapter-one) | **Sherlock Holmes: Chapter One (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2TGq2ItYAsrxuxvAlJPzK9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273312418d9f30b6f559dd1b70e" width="60" /> | [Sherlock Holmes: The Awakened](https://ostdb.net/games/sherlock-holmes-the-awakened) | **Sherlock Holmes the Awakened (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5eIXer3q13ChddjYnC9RPF) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273069cf7cc78b0f37b895c96b5" width="60" /> | [Shin Megami Tensei](https://ostdb.net/games/shin-megami-tensei) | **Shin Megami Tensei Original Soundtrack (Super Famicom version)** · [Spotify](https://open.spotify.com/album/1zwRAaq0ZJBM4OcTZfvU4i) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273bb633963c7fb32c6dec0793a" width="60" /> | [Shin Megami Tensei IV](https://ostdb.net/games/shin-megami-tensei-iv) | **Shin Megami Tensei Ⅳ Original Soundtrack** · [Spotify](https://open.spotify.com/album/7LTdrQyj7SXU17IRf25eFg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737582b1edfeac005f53f1a49d" width="60" /> | [Shin Megami Tensei V: Vengeance](https://ostdb.net/games/shin-megami-tensei-v-vengeance) | **Shin Megami Tensei V: Vengeance Original Soundtrack** · [Spotify](https://open.spotify.com/album/1zO2V5WtzAHLulAiRUoUcS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738deeb206f36e202570b34a1c" width="60" /> | [Shin Megami Tensei: Devil Survivor Overclocked](https://ostdb.net/games/shin-megami-tensei-devil-survivor-overclocked) | **Shin Megami Tensei: Devil Survivor Overclocked Original SoundTrack** · [Spotify](https://open.spotify.com/album/7v3zzoshkuibcTqvN1a2hW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27337bb627de26af58f737c30c6" width="60" /> | [Shinobi](https://ostdb.net/games/shinobi) | **Shinobi Original Soundtrack** · [Spotify](https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1) |
@@ -1776,4 +1777,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2093 soundtracks · last updated 2026-10-17T15:36:45.169Z_
+_2094 soundtracks · last updated 2026-10-17T15:36:53.524Z_
