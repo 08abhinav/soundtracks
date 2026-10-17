@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
 | Mahjong Quest III: Balance of Life | 286437 | [286437-mahjong-quest-iii-balance-of-life.json](./286437-mahjong-quest-iii-balance-of-life.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
+| Mahjong Riichi Multiplayer | 373845 | [373845-mahjong-riichi-multiplayer.json](./373845-mahjong-riichi-multiplayer.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
 | Mahjong Royal Towers | 63103 | [63103-mahjong-royal-towers.json](./63103-mahjong-royal-towers.json) |
@@ -10331,6 +10332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modulate | 61733 | [61733-modulate.json](./61733-modulate.json) |
 | Module | 372651 | [372651-module.json](./372651-module.json) |
 | Module TD. Sci Fi Tower Defense | 103350 | [103350-module-td-sci-fi-tower-defense.json](./103350-module-td-sci-fi-tower-defense.json) |
+| Modulea | 373823 | [373823-modulea.json](./373823-modulea.json) |
 | Modulo | 142774 | [142774-modulo.json](./142774-modulo.json) |
 | Modulor | 265321 | [265321-modulor.json](./265321-modulor.json) |
 | Moduwar | 109753 | [109753-moduwar.json](./109753-moduwar.json) |
