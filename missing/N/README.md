@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Club Penguin | 246088 | [246088-new-club-penguin.json](./246088-new-club-penguin.json) |
 | New Colony | 129521 | [129521-new-colony.json](./129521-new-colony.json) |
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
+| New Dawn Protocol | 416562 | [416562-new-dawn-protocol.json](./416562-new-dawn-protocol.json) |
 | New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Earth | 275716 | [275716-new-earth.json](./275716-new-earth.json) |
@@ -5160,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NTRstory | 245933 | [245933-ntrstory.json](./245933-ntrstory.json) |
 | Nu pogodi! Vypusk 3: Pesnya dlya zajca | 232658 | [232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json](./232658-nu-pogodi-vypusk-3-pesnya-dlya-zajca.json) |
 | Nu, pogodi! | 245427 | [245427-nu-pogodi.json](./245427-nu-pogodi.json) |
+| Nu, pogodi! | 416707 | [416707-nu-pogodi.json](./416707-nu-pogodi.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nu: Carnival Bliss | 305559 | [305559-nu-carnival-bliss.json](./305559-nu-carnival-bliss.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
@@ -5346,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numeral Strike | 361628 | [361628-numeral-strike.json](./361628-numeral-strike.json) |
+| Numerical Alchemist | 416567 | [416567-numerical-alchemist.json](./416567-numerical-alchemist.json) |
 | Numerium Challenge | 118126 | [118126-numerium-challenge.json](./118126-numerium-challenge.json) |
 | Numerix Math Game | 56760 | [56760-numerix-math-game.json](./56760-numerix-math-game.json) |
 | Numerology of Artifacts | 263143 | [263143-numerology-of-artifacts.json](./263143-numerology-of-artifacts.json) |
