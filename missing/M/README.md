@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
 | Makai Wars | 51444 | [51444-makai-wars.json](./51444-makai-wars.json) |
+| Makaimura | 393958 | [393958-makaimura.json](./393958-makaimura.json) |
 | Makaimura Gaiden: The Demon Darkness | 84640 | [84640-makaimura-gaiden-the-demon-darkness.json](./84640-makaimura-gaiden-the-demon-darkness.json) |
 | Makaimura Online | 63297 | [63297-makaimura-online.json](./63297-makaimura-online.json) |
 | Makber | 165419 | [165419-makber.json](./165419-makber.json) |
@@ -4777,6 +4778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
 | Mechanical Defense Line | 406564 | [406564-mechanical-defense-line.json](./406564-mechanical-defense-line.json) |
+| Mechanical Dynasty | 393973 | [393973-mechanical-dynasty.json](./393973-mechanical-dynasty.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
@@ -6449,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
+| Merchant's Rise | 393964 | [393964-merchants-rise.json](./393964-merchants-rise.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
 | Merchants of Sol | 207380 | [207380-merchants-of-sol.json](./207380-merchants-of-sol.json) |
@@ -6815,6 +6818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Heads | 121494 | [121494-metal-heads.json](./121494-metal-heads.json) |
 | Metal Hunter | 189202 | [189202-metal-hunter.json](./189202-metal-hunter.json) |
 | Metal Hunter | 392783 | [392783-metal-hunter.json](./392783-metal-hunter.json) |
+| Metal Hunter | 393965 | [393965-metal-hunter.json](./393965-metal-hunter.json) |
 | Metal Jacket | 147172 | [147172-metal-jacket.json](./147172-metal-jacket.json) |
 | Metal Knight | 132753 | [132753-metal-knight.json](./132753-metal-knight.json) |
 | Metal Knight: Mission - Terminate Resistance | 167188 | [167188-metal-knight-mission-terminate-resistance.json](./167188-metal-knight-mission-terminate-resistance.json) |
@@ -9785,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misuzu no Kuni | 341591 | [341591-misuzu-no-kuni.json](./341591-misuzu-no-kuni.json) |
 | Miszou | 224752 | [224752-miszou.json](./224752-miszou.json) |
 | Mitako Tatari’s Cursed Village Stream ZP | 376271 | [376271-mitako-tatari-s-cursed-village-stream-zp.json](./376271-mitako-tatari-s-cursed-village-stream-zp.json) |
+| Mitch | 393980 | [393980-mitch.json](./393980-mitch.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
