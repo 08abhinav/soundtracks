@@ -6768,6 +6768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
+| The First Alkahistorian: Stage Two | 381877 | [381877-the-first-alkahistorian-stage-two.json](./381877-the-first-alkahistorian-stage-two.json) |
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
@@ -13617,6 +13618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
 | The Witch's Disciples | 395828 | [395828-the-witchs-disciples.json](./395828-the-witchs-disciples.json) |
+| The Witch's Fabulous Cracker Show | 381873 | [381873-the-witchs-fabulous-cracker-show.json](./381873-the-witchs-fabulous-cracker-show.json) |
 | The Witch's Fairy Tale | 318428 | [318428-the-witchs-fairy-tale.json](./318428-the-witchs-fairy-tale.json) |
 | The Witch's House | 226714 | [226714-the-witchs-house.json](./226714-the-witchs-house.json) |
 | The Witch's House MV | 111081 | [111081-the-witchs-house-mv.json](./111081-the-witchs-house-mv.json) |
@@ -23384,6 +23386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelves: Shadow | 360688 | [360688-twelves-shadow.json](./360688-twelves-shadow.json) |
 | Twenties Flappers vs. The Mummy | 269836 | [269836-twenties-flappers-vs-the-mummy.json](./269836-twenties-flappers-vs-the-mummy.json) |
 | Twenty | 59389 | [59389-twenty.json](./59389-twenty.json) |
+| Twenty Days | 381891 | [381891-twenty-days.json](./381891-twenty-days.json) |
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
