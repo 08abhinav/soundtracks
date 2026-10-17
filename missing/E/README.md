@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
+| Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
 | Edge of Atlantis | 28946 | [28946-edge-of-atlantis.json](./28946-edge-of-atlantis.json) |
 | Edge of Book | 130229 | [130229-edge-of-book.json](./130229-edge-of-book.json) |
 | Edge of Collapse | 214387 | [214387-edge-of-collapse.json](./214387-edge-of-collapse.json) |
@@ -1255,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Einstein Riddle Island Puzzle | 388272 | [388272-einstein-riddle-island-puzzle.json](./388272-einstein-riddle-island-puzzle.json) |
 | Einstein's Brain Power | 209189 | [209189-einsteins-brain-power.json](./209189-einsteins-brain-power.json) |
 | Einstein's Cats | 291594 | [291594-einsteins-cats.json](./291594-einsteins-cats.json) |
+| Einstein's Riddle | 391103 | [391103-einsteins-riddle.json](./391103-einsteins-riddle.json) |
 | Einsteins Riddle | 156605 | [156605-einsteins-riddle.json](./156605-einsteins-riddle.json) |
 | Eipc Free Tetris | 68877 | [68877-eipc-free-tetris.json](./68877-eipc-free-tetris.json) |
 | Eira | 188418 | [188418-eira.json](./188418-eira.json) |
