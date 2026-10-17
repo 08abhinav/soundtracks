@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
 | Watsonville | 401076 | [401076-watsonville.json](./401076-watsonville.json) |
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
+| Wattson the Bulb | 385349 | [385349-wattson-the-bulb.json](./385349-wattson-the-bulb.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave 43 | 408124 | [408124-wave-43.json](./408124-wave-43.json) |
