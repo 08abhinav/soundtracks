@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
+| Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
 | Easy Jigsaw Puzzle | 377174 | [377174-easy-jigsaw-puzzle.json](./377174-easy-jigsaw-puzzle.json) |
 | Easy Joe | 92462 | [92462-easy-joe.json](./92462-easy-joe.json) |
 | Easy Joe 2 | 399487 | [399487-easy-joe-2.json](./399487-easy-joe-2.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Cum | 203946 | [203946-enter-the-cum.json](./203946-enter-the-cum.json) |
 | Enter the Cyberjungle | 241853 | [241853-enter-the-cyberjungle.json](./241853-enter-the-cyberjungle.json) |
 | Enter the Depths | 406137 | [406137-enter-the-depths.json](./406137-enter-the-depths.json) |
+| Enter the Dojo | 367732 | [367732-enter-the-dojo.json](./367732-enter-the-dojo.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
@@ -4254,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Hand | 355184 | [355184-eternal-hand.json](./355184-eternal-hand.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
 | Eternal Hearts: Curse of the Endless | 207267 | [207267-eternal-hearts-curse-of-the-endless.json](./207267-eternal-hearts-curse-of-the-endless.json) |
+| Eternal Hell | 367741 | [367741-eternal-hell.json](./367741-eternal-hell.json) |
 | Eternal Home Floristry | 123587 | [123587-eternal-home-floristry.json](./123587-eternal-home-floristry.json) |
 | Eternal Hope | 124198 | [124198-eternal-hope.json](./124198-eternal-hope.json) |
 | Eternal Hunger | 397939 | [397939-eternal-hunger.json](./397939-eternal-hunger.json) |
