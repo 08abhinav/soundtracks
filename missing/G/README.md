@@ -6492,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridlocke | 236791 | [236791-gridlocke.json](./236791-gridlocke.json) |
 | GridMath | 151020 | [151020-gridmath.json](./151020-gridmath.json) |
 | Gridmount | 328954 | [328954-gridmount.json](./328954-gridmount.json) |
+| Gridpaper | 383199 | [383199-gridpaper.json](./383199-gridpaper.json) |
 | GridRoad | 269761 | [269761-gridroad.json](./269761-gridroad.json) |
 | Gridrunner | 310566 | [310566-gridrunner.json](./310566-gridrunner.json) |
 | Gridrunner++ | 61033 | [61033-gridrunner.json](./61033-gridrunner.json) |
@@ -6682,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
+| Grimtrace | 383197 | [383197-grimtrace.json](./383197-grimtrace.json) |
 | Grimville: The Gift of Darkness | 96760 | [96760-grimville-the-gift-of-darkness.json](./96760-grimville-the-gift-of-darkness.json) |
 | Grimwalker | 244887 | [244887-grimwalker.json](./244887-grimwalker.json) |
 | Grimwar | 343915 | [343915-grimwar.json](./343915-grimwar.json) |
