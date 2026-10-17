@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:07:20.026Z",
-  "total_missing": 224156,
+  "generated_at": "2026-10-17T15:13:20.289Z",
+  "total_missing": 224144,
   "games": [
     {
       "igdb_id": 191680,
@@ -14350,11 +14350,6 @@
       "igdb_id": 158419,
       "game_name": "A Little Time",
       "file": "missing/A/158419-a-little-time.json"
-    },
-    {
-      "igdb_id": 152180,
-      "game_name": "A Little to the Left",
-      "file": "missing/A/152180-a-little-to-the-left.json"
     },
     {
       "igdb_id": 312110,
@@ -187147,11 +187142,6 @@
       "file": "missing/C/414555-concrete-burial.json"
     },
     {
-      "igdb_id": 75238,
-      "game_name": "Concrete Genie",
-      "file": "missing/C/75238-concrete-genie.json"
-    },
-    {
       "igdb_id": 132227,
       "game_name": "Concrete Genie: Digital Deluxe Edition",
       "file": "missing/C/132227-concrete-genie-digital-deluxe-edition.json"
@@ -221235,11 +221225,6 @@
       "igdb_id": 370670,
       "game_name": "Darkest Descent",
       "file": "missing/D/370670-darkest-descent.json"
-    },
-    {
-      "igdb_id": 115425,
-      "game_name": "Darkest Dungeon II",
-      "file": "missing/D/115425-darkest-dungeon-ii.json"
     },
     {
       "igdb_id": 370240,
@@ -346352,11 +346337,6 @@
       "file": "missing/F/373194-forgotten-whispers-from-ashes.json"
     },
     {
-      "igdb_id": 24426,
-      "game_name": "Forgotton Anne",
-      "file": "missing/F/24426-forgotton-anne.json"
-    },
-    {
       "igdb_id": 350438,
       "game_name": "Fork Frog",
       "file": "missing/F/350438-fork-frog.json"
@@ -348800,11 +348780,6 @@
       "igdb_id": 136175,
       "game_name": "Forza Motorsport 5: Game of the Year Edition",
       "file": "missing/F/136175-forza-motorsport-5-game-of-the-year-edition.json"
-    },
-    {
-      "igdb_id": 8558,
-      "game_name": "Forza Motorsport 6",
-      "file": "missing/F/8558-forza-motorsport-6.json"
     },
     {
       "igdb_id": 36872,
@@ -392325,11 +392300,6 @@
       "igdb_id": 322094,
       "game_name": "Green Heights",
       "file": "missing/G/322094-green-heights.json"
-    },
-    {
-      "igdb_id": 101461,
-      "game_name": "Green Hell",
-      "file": "missing/G/101461-green-hell.json"
     },
     {
       "igdb_id": 152223,
@@ -498152,11 +498122,6 @@
       "file": "missing/K/27979-kingdom-hearts-hd-1-5-2-5-remix.json"
     },
     {
-      "igdb_id": 7356,
-      "game_name": "Kingdom Hearts HD 1.5 Remix",
-      "file": "missing/K/7356-kingdom-hearts-hd-1-5-remix.json"
-    },
-    {
       "igdb_id": 81206,
       "game_name": "Kingdom Hearts HD 1.5 Remix: Limited Edition",
       "file": "missing/K/81206-kingdom-hearts-hd-1-5-remix-limited-edition.json"
@@ -499820,11 +499785,6 @@
       "igdb_id": 3726,
       "game_name": "Kirby: Nightmare in Dream Land",
       "file": "missing/K/3726-kirby-nightmare-in-dream-land.json"
-    },
-    {
-      "igdb_id": 18221,
-      "game_name": "Kirby: Planet Robobot",
-      "file": "missing/K/18221-kirby-planet-robobot.json"
     },
     {
       "igdb_id": 196707,
@@ -690302,11 +690262,6 @@
       "file": "missing/P/130817-pewdiepies-pixelings.json"
     },
     {
-      "igdb_id": 23867,
-      "game_name": "PewDiePie's Tuber Simulator",
-      "file": "missing/P/23867-pewdiepies-tuber-simulator.json"
-    },
-    {
       "igdb_id": 101988,
       "game_name": "Pewduckpie 2 - An Unexpected Journey",
       "file": "missing/P/101988-pewduckpie-2-an-unexpected-journey.json"
@@ -789107,11 +789062,6 @@
       "file": "missing/R/23524-rusty-hearts.json"
     },
     {
-      "igdb_id": 54678,
-      "game_name": "Rusty Lake Paradise",
-      "file": "missing/R/54678-rusty-lake-paradise.json"
-    },
-    {
       "igdb_id": 25222,
       "game_name": "Rusty Lake: Roots",
       "file": "missing/R/25222-rusty-lake-roots.json"
@@ -886955,11 +886905,6 @@
       "igdb_id": 162257,
       "game_name": "Stranded B",
       "file": "missing/S/162257-stranded-b.json"
-    },
-    {
-      "igdb_id": 8751,
-      "game_name": "Stranded Deep",
-      "file": "missing/S/8751-stranded-deep.json"
     },
     {
       "igdb_id": 273398,
@@ -1062435,11 +1062380,6 @@
       "igdb_id": 355041,
       "game_name": "Void Authority",
       "file": "missing/V/355041-void-authority.json"
-    },
-    {
-      "igdb_id": 111846,
-      "game_name": "Void Bastards",
-      "file": "missing/V/111846-void-bastards.json"
     },
     {
       "igdb_id": 236505,
