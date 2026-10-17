@@ -6483,7 +6483,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homemade TCG | 199504 | [199504-homemade-tcg.json](./199504-homemade-tcg.json) |
 | Homeostasis | 389444 | [389444-homeostasis.json](./389444-homeostasis.json) |
 | Homepage | 347702 | [347702-homepage.json](./347702-homepage.json) |
+| Homer The Flanders Killer 2 | 383768 | [383768-homer-the-flanders-killer-2.json](./383768-homer-the-flanders-killer-2.json) |
+| Homer The Flanders Killer 3 | 383769 | [383769-homer-the-flanders-killer-3.json](./383769-homer-the-flanders-killer-3.json) |
+| Homer The Flanders Killer 4 | 383770 | [383770-homer-the-flanders-killer-4.json](./383770-homer-the-flanders-killer-4.json) |
+| Homer The Flanders Killer 5 | 383771 | [383771-homer-the-flanders-killer-5.json](./383771-homer-the-flanders-killer-5.json) |
 | Homer the Flanders Killer 6 | 268487 | [268487-homer-the-flanders-killer-6.json](./268487-homer-the-flanders-killer-6.json) |
+| Homer The Flanders Killer 7 | 383772 | [383772-homer-the-flanders-killer-7.json](./383772-homer-the-flanders-killer-7.json) |
+| Homer The Flanders Killer 8 | 383773 | [383773-homer-the-flanders-killer-8.json](./383773-homer-the-flanders-killer-8.json) |
 | Homer's Odyssey | 123977 | [123977-homers-odyssey.json](./123977-homers-odyssey.json) |
 | Homerun | 172462 | [172462-homerun.json](./172462-homerun.json) |
 | HomeRun | 388193 | [388193-homerun.json](./388193-homerun.json) |
