@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
 | Dark Dragonkin | 160066 | [160066-dark-dragonkin.json](./160066-dark-dragonkin.json) |
+| Dark Dreams on Diverging Roads | 382592 | [382592-dark-dreams-on-diverging-roads.json](./382592-dark-dreams-on-diverging-roads.json) |
 | Dark Drive | 95620 | [95620-dark-drive.json](./95620-dark-drive.json) |
 | Dark Dungeon Feminized | 334340 | [334340-dark-dungeon-feminized.json](./334340-dark-dungeon-feminized.json) |
 | Dark Dynasty: The Siege of Londor | 317522 | [317522-dark-dynasty-the-siege-of-londor.json](./317522-dark-dynasty-the-siege-of-londor.json) |
