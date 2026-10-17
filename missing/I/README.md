@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
+| Idle Fleet | 410723 | [410723-idle-fleet.json](./410723-idle-fleet.json) |
 | Idle Flipper | 87666 | [87666-idle-flipper.json](./87666-idle-flipper.json) |
 | Idle Food Empire Tycoon | 219268 | [219268-idle-food-empire-tycoon.json](./219268-idle-food-empire-tycoon.json) |
 | Idle Galaxy | 203805 | [203805-idle-galaxy.json](./203805-idle-galaxy.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Manager 2025 | 323306 | [323306-internet-cafe-manager-2025.json](./323306-internet-cafe-manager-2025.json) |
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
+| Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
@@ -3650,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Eagle's Nest | 12616 | [12616-into-the-eagles-nest.json](./12616-into-the-eagles-nest.json) |
 | Into the Emberlands | 304726 | [304726-into-the-emberlands.json](./304726-into-the-emberlands.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
+| Into the End (Of the World) | 410711 | [410711-into-the-end-of-the-world.json](./410711-into-the-end-of-the-world.json) |
 | Into the Evernight | 356798 | [356798-into-the-evernight.json](./356798-into-the-evernight.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Fire | 322703 | [322703-into-the-fire.json](./322703-into-the-fire.json) |
