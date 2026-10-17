@@ -1096,6 +1096,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273d9e028c1b058610a1f01a8bd" width="60" /> | [Palia](https://ostdb.net/games/palia) | **Palia (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7GAFfYy6vmuPYueYU3J5rw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27351a66ad2cbc7648534d5f212" width="60" /> | [Panzer Dragoon Orta](https://ostdb.net/games/panzer-dragoon-orta) | **Panzer Dragoon Orta Original Soundtrack** · [Spotify](https://open.spotify.com/album/3kKsFvmgIeJshU1yQP0Eds) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e4eda058e55d0254a0f12f76" width="60" /> | [Papers, Please](https://ostdb.net/games/papers-please) | **Papers, Please (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0lKVow2QmwXI6NlxCr2LNW) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273739a2d82ab28b2ea14cc45f0" width="60" /> | [Papetura](https://ostdb.net/games/papetura) | **Papetura (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6GGH4AF4EGa0PnlTiB1PXP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de9bc8440147447897d4c991" width="60" /> | [Papo & Yo](https://ostdb.net/games/papo-and-yo) | **Papo & Yo Soundtrack** · [Spotify](https://open.spotify.com/album/73qxzEZNtpyke9P7IYvbr5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739216f4bd2a336346c96d126c" width="60" /> | [Paranormasight: The Seven Mysteries of Honjo](https://ostdb.net/games/paranormasight-the-seven-mysteries-of-honjo) | **PARANORMASIGHT: The Seven Mysteries of Honjo Original Soundtrack** · [Spotify](https://open.spotify.com/album/4HLKsb4uWmqpvAtnedvDcC) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe51a1cbc3b670ccfd336388" width="60" /> | [Payday 2](https://ostdb.net/games/payday-2) | **Payday 2 (Official Soundtrack, Vol. 2)** · [Spotify](https://open.spotify.com/album/6v0j3JMm1FXvPFy9ORAmrl)<br>**Payday 2 Remastered (Official Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/3vRxcJ43dTDDx5a77ccgxW) |
@@ -1817,4 +1818,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2134 soundtracks · last updated 2026-10-17T23:35:25.427Z_
+_2135 soundtracks · last updated 2026-10-17T23:35:32.906Z_
