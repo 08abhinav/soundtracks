@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap In The Right Direction | 296487 | [296487-leap-in-the-right-direction.json](./296487-leap-in-the-right-direction.json) |
 | Leap of Champions | 129650 | [129650-leap-of-champions.json](./129650-leap-of-champions.json) |
 | Leap of Faith | 139130 | [139130-leap-of-faith.json](./139130-leap-of-faith.json) |
+| Leap of Faith | 394617 | [394617-leap-of-faith.json](./394617-leap-of-faith.json) |
 | Leap Of Faith | 333127 | [333127-leap-of-faith.json](./333127-leap-of-faith.json) |
 | Leap of Fate | 50227 | [50227-leap-of-fate.json](./50227-leap-of-fate.json) |
 | Leap of Leaf | 131923 | [131923-leap-of-leaf.json](./131923-leap-of-leaf.json) |
@@ -3597,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilith's Lair | 327235 | [327235-liliths-lair.json](./327235-liliths-lair.json) |
 | Lilith's Syndrome | 297037 | [297037-liliths-syndrome.json](./297037-liliths-syndrome.json) |
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
+| Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
@@ -3911,6 +3913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linn the Protector and the Seven Daughters of Ran | 170270 | [170270-linn-the-protector-and-the-seven-daughters-of-ran.json](./170270-linn-the-protector-and-the-seven-daughters-of-ran.json) |
 | Linq! | 200445 | [200445-linq.json](./200445-linq.json) |
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
+| Lint | 394619 | [394619-lint.json](./394619-lint.json) |
 | Lint | 55972 | [55972-lint.json](./55972-lint.json) |
 | Lintrix | 58151 | [58151-lintrix.json](./58151-lintrix.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
