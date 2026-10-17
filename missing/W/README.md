@@ -5173,6 +5173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WonderLang Japanese | 360710 | [360710-wonderlang-japanese.json](./360710-wonderlang-japanese.json) |
 | Wonderlang Korean | 345031 | [345031-wonderlang-korean.json](./345031-wonderlang-korean.json) |
 | WonderLang Mandarin Chinese | 395258 | [395258-wonderlang-mandarin-chinese.json](./395258-wonderlang-mandarin-chinese.json) |
+| WonderLang Polyglot | 368225 | [368225-wonderlang-polyglot.json](./368225-wonderlang-polyglot.json) |
 | WonderLang Portuguese | 381969 | [381969-wonderlang-portuguese.json](./381969-wonderlang-portuguese.json) |
 | WonderLang Spanish | 381733 | [381733-wonderlang-spanish.json](./381733-wonderlang-spanish.json) |
 | Wondermega Collection | 45870 | [45870-wondermega-collection.json](./45870-wondermega-collection.json) |
@@ -5637,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
+| World 23 | 368226 | [368226-world-23.json](./368226-world-23.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
 | World Air War | 290118 | [290118-world-air-war.json](./290118-world-air-war.json) |
 | World Airports | 68057 | [68057-world-airports.json](./68057-world-airports.json) |
