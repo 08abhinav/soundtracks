@@ -9272,6 +9272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
 | Arena of Octos | 192112 | [192112-arena-of-octos.json](./192112-arena-of-octos.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
+| Arena of Sacrifice | 399426 | [399426-arena-of-sacrifice.json](./399426-arena-of-sacrifice.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
 | Arena of the Mad King | 234142 | [234142-arena-of-the-mad-king.json](./234142-arena-of-the-mad-king.json) |
@@ -11217,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asuka 120% Burning Fest. Excellent | 191681 | [191681-asuka-120-burning-fest-excellent.json](./191681-asuka-120-burning-fest-excellent.json) |
 | Asuka 120% Excellent Burning Fest. | 81336 | [81336-asuka-120-excellent-burning-fest.json](./81336-asuka-120-excellent-burning-fest.json) |
 | Asuka 120% Limited Burning Fest. | 46088 | [46088-asuka-120-limited-burning-fest.json](./46088-asuka-120-limited-burning-fest.json) |
+| Asuka Idol Journey | 399410 | [399410-asuka-idol-journey.json](./399410-asuka-idol-journey.json) |
 | Asuka x Redline Reverie | 405510 | [405510-asuka-x-redline-reverie.json](./405510-asuka-x-redline-reverie.json) |
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
