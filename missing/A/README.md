@@ -7227,6 +7227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
+| Animula Nook | 369856 | [369856-animula-nook.json](./369856-animula-nook.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
@@ -7855,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao Zora to Nakama Tachi: Yume no Bouken | 49492 | [49492-ao-zora-to-nakama-tachi-yume-no-bouken.json](./49492-ao-zora-to-nakama-tachi-yume-no-bouken.json) |
 | Ao Zora to Nakama Tachi: Yume no Bouken Plus | 44842 | [44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json](./44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json) |
 | Ao-Don DS: Hanabi no Goku & Hanabi no Takumi | 269649 | [269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json](./269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json) |
+| AO3dle | 369853 | [369853-ao3dle.json](./369853-ao3dle.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
