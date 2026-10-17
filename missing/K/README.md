@@ -335,6 +335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony | 292295 | [292295-kalpa-cosmic-symphony.json](./292295-kalpa-cosmic-symphony.json) |
 | Kalpa: Cosmic Symphony - Camellia Pack | 397712 | [397712-kalpa-cosmic-symphony-camellia-pack.json](./397712-kalpa-cosmic-symphony-camellia-pack.json) |
 | Kalpa: Cosmic Symphony - Cosmic Edition | 411101 | [411101-kalpa-cosmic-symphony-cosmic-edition.json](./411101-kalpa-cosmic-symphony-cosmic-edition.json) |
+| Kalpa: Cosmic Symphony - Mass Recall Omega Pack | 397595 | [397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json](./397595-kalpa-cosmic-symphony-mass-recall-omega-pack.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 1 | 405002 | [405002-kalpa-cosmic-symphony-origin-vol-1.json](./405002-kalpa-cosmic-symphony-origin-vol-1.json) |
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
