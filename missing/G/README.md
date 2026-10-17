@@ -6623,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grime: Definitive Edition | 284491 | [284491-grime-definitive-edition.json](./284491-grime-definitive-edition.json) |
 | Grime: Tinge of Terror | 252363 | [252363-grime-tinge-of-terror.json](./252363-grime-tinge-of-terror.json) |
 | Grime&Gold | 345554 | [345554-grime-and-gold.json](./345554-grime-and-gold.json) |
+| Grimfog: Dead Hand Path | 379641 | [379641-grimfog-dead-hand-path.json](./379641-grimfog-dead-hand-path.json) |
 | Grimgig Railway | 322156 | [322156-grimgig-railway.json](./322156-grimgig-railway.json) |
 | Grimgrad | 199612 | [199612-grimgrad.json](./199612-grimgrad.json) |
 | GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
