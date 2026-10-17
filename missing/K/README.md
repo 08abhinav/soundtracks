@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
 | Komako | 165051 | [165051-komako.json](./165051-komako.json) |
 | Komayama Kiri ha Zenbu Yari ni Iku | 404250 | [404250-komayama-kiri-ha-zenbu-yari-ni-iku.json](./404250-komayama-kiri-ha-zenbu-yari-ni-iku.json) |
+| Kombat Fighters: King of the Kards | 390567 | [390567-kombat-fighters-king-of-the-kards.json](./390567-kombat-fighters-king-of-the-kards.json) |
 | Kombat Hamster | 309880 | [309880-kombat-hamster.json](./309880-kombat-hamster.json) |
 | Kombat Kars | 70446 | [70446-kombat-kars.json](./70446-kombat-kars.json) |
 | Kombate Mexicano Elexiones | 261555 | [261555-kombate-mexicano-elexiones.json](./261555-kombate-mexicano-elexiones.json) |
