@@ -576,6 +576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
 | Saki Zenkoku Hen Plus | 136751 | [136751-saki-zenkoku-hen-plus.json](./136751-saki-zenkoku-hen-plus.json) |
 | Saki: Achiga-Hen Episode of Side-A Portable | 135902 | [135902-saki-achiga-hen-episode-of-side-a-portable.json](./135902-saki-achiga-hen-episode-of-side-a-portable.json) |
+| Saki's Slutty Striptease | 403524 | [403524-sakis-slutty-striptease.json](./403524-sakis-slutty-striptease.json) |
 | Sakigake!! Kuromati Koukou | 56960 | [56960-sakigake-kuromati-koukou.json](./56960-sakigake-kuromati-koukou.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
@@ -14841,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | Spellbinders | 58708 | [58708-spellbinders.json](./58708-spellbinders.json) |
+| Spellblade: Vengeance of the Witch Sisters | 403444 | [403444-spellblade-vengeance-of-the-witch-sisters.json](./403444-spellblade-vengeance-of-the-witch-sisters.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbook Demonslayers | 209740 | [209740-spellbook-demonslayers.json](./209740-spellbook-demonslayers.json) |
 | Spellbook Demonslayers NSFW | 297743 | [297743-spellbook-demonslayers-nsfw.json](./297743-spellbook-demonslayers-nsfw.json) |
@@ -15685,6 +15687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom Deluxe | 358255 | [358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json](./358255-spongebob-squarepants-battle-for-bikini-bottom-deluxe.json) |
 | SpongeBob SquarePants: Bikini Bottom 500 | 220117 | [220117-spongebob-squarepants-bikini-bottom-500.json](./220117-spongebob-squarepants-bikini-bottom-500.json) |
+| SpongeBob SquarePants: Bikini Bottom Bust Up | 403626 | [403626-spongebob-squarepants-bikini-bottom-bust-up.json](./403626-spongebob-squarepants-bikini-bottom-bust-up.json) |
 | SpongeBob SquarePants: Bundle | 286514 | [286514-spongebob-squarepants-bundle.json](./286514-spongebob-squarepants-bundle.json) |
 | Spongebob Squarepants: Clash of Triton | 285586 | [285586-spongebob-squarepants-clash-of-triton.json](./285586-spongebob-squarepants-clash-of-triton.json) |
 | SpongeBob SquarePants: Defending the Secret Formula | 228487 | [228487-spongebob-squarepants-defending-the-secret-formula.json](./228487-spongebob-squarepants-defending-the-secret-formula.json) |
