@@ -2922,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redaction | 223399 | [223399-redaction.json](./223399-redaction.json) |
 | Redactle | 197384 | [197384-redactle.json](./197384-redactle.json) |
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
+| REday -1 | 377931 | [377931-reday-1.json](./377931-reday-1.json) |
 | Redbean | 412464 | [412464-redbean.json](./412464-redbean.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
