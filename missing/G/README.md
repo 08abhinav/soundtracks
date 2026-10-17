@@ -7104,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian of the Grave | 340402 | [340402-guardian-of-the-grave.json](./340402-guardian-of-the-grave.json) |
 | Guardian of the Rebellion | 347096 | [347096-guardian-of-the-rebellion.json](./347096-guardian-of-the-rebellion.json) |
 | Guardian of the Sacred Seal | 386442 | [386442-guardian-of-the-sacred-seal.json](./386442-guardian-of-the-sacred-seal.json) |
+| Guardian of the Water Altar | 379183 | [379183-guardian-of-the-water-altar.json](./379183-guardian-of-the-water-altar.json) |
 | Guardian Prelude | 104580 | [104580-guardian-prelude.json](./104580-guardian-prelude.json) |
 | Guardian Project | 196539 | [196539-guardian-project.json](./196539-guardian-project.json) |
 | Guardian Realms RPG | 365188 | [365188-guardian-realms-rpg.json](./365188-guardian-realms-rpg.json) |
