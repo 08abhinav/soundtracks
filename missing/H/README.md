@@ -5038,6 +5038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Portals: Eternal Balance | 416701 | [416701-hidden-portals-eternal-balance.json](./416701-hidden-portals-eternal-balance.json) |
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
 | Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
+| Hidden Rabbit | 397033 | [397033-hidden-rabbit.json](./397033-hidden-rabbit.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
 | Hidden Raccoons in Asia | 403185 | [403185-hidden-raccoons-in-asia.json](./403185-hidden-raccoons-in-asia.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Chavez | 273821 | [273821-house-of-chavez.json](./273821-house-of-chavez.json) |
 | House of Dead Skin | 316078 | [316078-house-of-dead-skin.json](./316078-house-of-dead-skin.json) |
 | House of Detention | 137405 | [137405-house-of-detention.json](./137405-house-of-detention.json) |
+| House of Empty Names | 397027 | [397027-house-of-empty-names.json](./397027-house-of-empty-names.json) |
 | House of Everlast | 269004 | [269004-house-of-everlast.json](./269004-house-of-everlast.json) |
 | House of Evil | 76477 | [76477-house-of-evil.json](./76477-house-of-evil.json) |
 | House of Fate | 184441 | [184441-house-of-fate.json](./184441-house-of-fate.json) |
@@ -8003,6 +8005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
 | Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
+| Hug Your Mama | 397020 | [397020-hug-your-mama.json](./397020-hug-your-mama.json) |
 | Hugbot | 180695 | [180695-hugbot.json](./180695-hugbot.json) |
 | Huge | 156228 | [156228-huge.json](./156228-huge.json) |
 | Huge Beer Pong Challenges VR | 81674 | [81674-huge-beer-pong-challenges-vr.json](./81674-huge-beer-pong-challenges-vr.json) |
@@ -8883,6 +8886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
+| Hypnophobia; From Your Shadow | 397035 | [397035-hypnophobia-from-your-shadow.json](./397035-hypnophobia-from-your-shadow.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
 | Hypnorain | 22043 | [22043-hypnorain.json](./22043-hypnorain.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
