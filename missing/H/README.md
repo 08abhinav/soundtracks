@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
+| Halcyon | 383189 | [383189-halcyon.json](./383189-halcyon.json) |
 | Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
