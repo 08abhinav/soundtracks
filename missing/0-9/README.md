@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
 | 3D Watermelon Game | 277950 | [277950-3d-watermelon-game.json](./277950-3d-watermelon-game.json) |
 | 3D Workers Island | 321462 | [321462-3d-workers-island.json](./321462-3d-workers-island.json) |
+| 3D-Dungeon | 409220 | [409220-3d-dungeon.json](./409220-3d-dungeon.json) |
 | 3D-Laby | 98226 | [98226-3d-laby.json](./98226-3d-laby.json) |
 | 3D3D | 291042 | [291042-3d3d.json](./291042-3d3d.json) |
 | 3Dash | 326188 | [326188-3dash.json](./326188-3dash.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3rd Invasion: Zombies vs. Steel | 114555 | [114555-3rd-invasion-zombies-vs-steel.json](./114555-3rd-invasion-zombies-vs-steel.json) |
 | 3rd World Farmer | 56460 | [56460-3rd-world-farmer.json](./56460-3rd-world-farmer.json) |
 | 3Souls | 26407 | [26407-3souls.json](./26407-3souls.json) |
+| 3Souls | 409216 | [409216-3souls.json](./409216-3souls.json) |
 | 3SwitcheD | 9934 | [9934-3switched.json](./9934-3switched.json) |
 | 3T Games Compilation | 80400 | [80400-3t-games-compilation.json](./80400-3t-games-compilation.json) |
 | 3T Games Compilation 1 | 60615 | [60615-3t-games-compilation-1.json](./60615-3t-games-compilation-1.json) |
