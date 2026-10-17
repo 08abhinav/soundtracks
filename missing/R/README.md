@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road to Exotics! | 275337 | [275337-road-to-exotics.json](./275337-road-to-exotics.json) |
 | Road to Fame | 367408 | [367408-road-to-fame.json](./367408-road-to-fame.json) |
 | Road to Fame | 54326 | [54326-road-to-fame.json](./54326-road-to-fame.json) |
+| Road to Glory | 416572 | [416572-road-to-glory.json](./416572-road-to-glory.json) |
 | Road to Guangdong | 114520 | [114520-road-to-guangdong.json](./114520-road-to-guangdong.json) |
 | Road To Heaven | 400566 | [400566-road-to-heaven.json](./400566-road-to-heaven.json) |
 | Road to Jonin! The 3-Choice Ninja Quiz | 406060 | [406060-road-to-jonin-the-3-choice-ninja-quiz.json](./406060-road-to-jonin-the-3-choice-ninja-quiz.json) |
@@ -8465,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
+| Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rummy With Clara | 418599 | [418599-rummy-with-clara.json](./418599-rummy-with-clara.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
