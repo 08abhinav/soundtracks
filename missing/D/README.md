@@ -6811,6 +6811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
+| Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
@@ -9629,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Time Dash | 183323 | [183323-double-time-dash.json](./183323-double-time-dash.json) |
 | Double Trouble | 215928 | [215928-double-trouble.json](./215928-double-trouble.json) |
 | Double Trouble | 267470 | [267470-double-trouble.json](./267470-double-trouble.json) |
+| Double Trouble: Sexy Adventure | 387107 | [387107-double-trouble-sexy-adventure.json](./387107-double-trouble-sexy-adventure.json) |
 | Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
@@ -13297,6 +13299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
 | DX Monopoly GB | 228501 | [228501-dx-monopoly-gb.json](./228501-dx-monopoly-gb.json) |
 | DX Nippon Tokkyuu Ryokou Game: Let's Travel in Japan | 268641 | [268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json](./268641-dx-nippon-tokkyuu-ryokou-game-lets-travel-in-japan.json) |
+| DX Shachou Game | 387122 | [387122-dx-shachou-game.json](./387122-dx-shachou-game.json) |
 | DX-Ball | 19224 | [19224-dx-ball.json](./19224-dx-ball.json) |
 | DX-Ball 2 | 19225 | [19225-dx-ball-2.json](./19225-dx-ball-2.json) |
 | Dyad | 242079 | [242079-dyad.json](./242079-dyad.json) |
