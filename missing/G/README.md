@@ -6449,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid-M | 257921 | [257921-grid-m.json](./257921-grid-m.json) |
+| Grid-Tsugi | 386538 | [386538-grid-tsugi.json](./386538-grid-tsugi.json) |
 | Grid: Autosport - Drag Pack | 365684 | [365684-grid-autosport-drag-pack.json](./365684-grid-autosport-drag-pack.json) |
 | Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
 | Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
