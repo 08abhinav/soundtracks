@@ -4492,7 +4492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
 | Witch Isis | 82835 | [82835-witch-isis.json](./82835-witch-isis.json) |
 | Witch Island II | 82367 | [82367-witch-island-ii.json](./82367-witch-island-ii.json) |
-| Witch It | 30408 | [30408-witch-it.json](./30408-witch-it.json) |
 | Witch Machine | 398023 | [398023-witch-machine.json](./398023-witch-machine.json) |
 | Witch Machine: Spilled Vessel | 398025 | [398025-witch-machine-spilled-vessel.json](./398025-witch-machine-spilled-vessel.json) |
 | Witch Maker | 334321 | [334321-witch-maker.json](./334321-witch-maker.json) |
