@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oplero | 330672 | [330672-oplero.json](./330672-oplero.json) |
 | Oplitak | 155982 | [155982-oplitak.json](./155982-oplitak.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
+| Opona | 380822 | [380822-opona.json](./380822-opona.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Daisuki | 393373 | [393373-oppai-daisuki.json](./393373-oppai-daisuki.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
