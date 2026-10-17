@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Tycoon | 203192 | [203192-oil-tycoon.json](./203192-oil-tycoon.json) |
 | Oil Tycoon 2 | 219261 | [219261-oil-tycoon-2.json](./219261-oil-tycoon-2.json) |
 | Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
+| Oil.exe | 407889 | [407889-oil-exe.json](./407889-oil-exe.json) |
 | Oil's Well | 40901 | [40901-oils-well.json](./40901-oils-well.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
@@ -2862,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderlyWorld | 423288 | [423288-orderlyworld.json](./423288-orderlyworld.json) |
 | Orders of the Ruler | 123366 | [123366-orders-of-the-ruler.json](./123366-orders-of-the-ruler.json) |
+| Orders, Captain! | 407888 | [407888-orders-captain.json](./407888-orders-captain.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
