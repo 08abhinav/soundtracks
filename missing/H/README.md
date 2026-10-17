@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haegemonia: The Solon Heritage | 17299 | [17299-haegemonia-the-solon-heritage.json](./17299-haegemonia-the-solon-heritage.json) |
 | Haemo | 133934 | [133934-haemo.json](./133934-haemo.json) |
 | Haengbulhaeng: Haengbogui Sijageun Jigeumbuteo | 264543 | [264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json](./264543-haengbulhaeng-haengbogui-sijageun-jigeumbuteo.json) |
+| HaeTae: Guardians | 392202 | [392202-haetae-guardians.json](./392202-haetae-guardians.json) |
 | Haeven | 31930 | [31930-haeven.json](./31930-haeven.json) |
 | Haex | 404685 | [404685-haex.json](./404685-haex.json) |
 | Hafermann | 177297 | [177297-hafermann.json](./177297-hafermann.json) |
@@ -3019,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
+| Hellfire: Wukong | 392184 | [392184-hellfire-wukong.json](./392184-hellfire-wukong.json) |
 | Hellfo | 123969 | [123969-hellfo.json](./123969-hellfo.json) |
 | Hellforces | 84469 | [84469-hellforces.json](./84469-hellforces.json) |
 | Hellfrost Dark Knight Styria: The Ultimate Knight Falleth Flesh Toilet | 82657 | [82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json](./82657-hellfrost-dark-knight-styria-the-ultimate-knight-falleth-flesh-toilet.json) |
