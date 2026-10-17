@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Fever | 49352 | [49352-racing-fever.json](./49352-racing-fever.json) |
 | Racing Fever: Moto | 106003 | [106003-racing-fever-moto.json](./106003-racing-fever-moto.json) |
 | Racing Fighters | 118249 | [118249-racing-fighters.json](./118249-racing-fighters.json) |
+| Racing Game | 393952 | [393952-racing-game.json](./393952-racing-game.json) |
 | Racing Game Bundle | 379006 | [379006-racing-game-bundle.json](./379006-racing-game-bundle.json) |
 | Racing Girl | 212498 | [212498-racing-girl.json](./212498-racing-girl.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
@@ -1047,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise | 216948 | [216948-raise.json](./216948-raise.json) |
 | Raise | 239556 | [239556-raise.json](./239556-raise.json) |
+| Raise the Bass | 393938 | [393938-raise-the-bass.json](./393938-raise-the-bass.json) |
 | Raise the Colours | 393816 | [393816-raise-the-colours.json](./393816-raise-the-colours.json) |
 | Raise the Dead | 37021 | [37021-raise-the-dead.json](./37021-raise-the-dead.json) |
 | Raise the Flag | 274677 | [274677-raise-the-flag.json](./274677-raise-the-flag.json) |
@@ -2492,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recipe For Disaster | 398022 | [398022-recipe-for-disaster.json](./398022-recipe-for-disaster.json) |
 | Recipe For Love | 177354 | [177354-recipe-for-love.json](./177354-recipe-for-love.json) |
 | Recipe of Love | 376709 | [376709-recipe-of-love.json](./376709-recipe-of-love.json) |
+| Reciros | 393949 | [393949-reciros.json](./393949-reciros.json) |
 | Recital of the Heart | 335366 | [335366-recital-of-the-heart.json](./335366-recital-of-the-heart.json) |
 | Reckless Auto Racing | 230779 | [230779-reckless-auto-racing.json](./230779-reckless-auto-racing.json) |
 | Reckless Death Race | 239108 | [239108-reckless-death-race.json](./239108-reckless-death-race.json) |
@@ -4172,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
+| Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
 | Retimed | 76921 | [76921-retimed.json](./76921-retimed.json) |
 | Retired Men's Nude Beach Volleyball League | 163452 | [163452-retired-mens-nude-beach-volleyball-league.json](./163452-retired-mens-nude-beach-volleyball-league.json) |
@@ -8438,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
+| Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
