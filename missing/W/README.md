@@ -1137,6 +1137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer Age of Sigmar: Storm Ground | 137328 | [137328-warhammer-age-of-sigmar-storm-ground.json](./137328-warhammer-age-of-sigmar-storm-ground.json) |
 | Warhammer Age of Sigmar: Tempestfall | 145080 | [145080-warhammer-age-of-sigmar-tempestfall.json](./145080-warhammer-age-of-sigmar-tempestfall.json) |
 | Warhammer Blood Bowl | 394515 | [394515-warhammer-blood-bowl.json](./394515-warhammer-blood-bowl.json) |
+| Warhammer Classics: Complete Collection | 398313 | [398313-warhammer-classics-complete-collection.json](./398313-warhammer-classics-complete-collection.json) |
+| Warhammer Fantasy Classics | 398312 | [398312-warhammer-fantasy-classics.json](./398312-warhammer-fantasy-classics.json) |
 | Warhammer Online: Age of Reckoning | 215 | [215-warhammer-online-age-of-reckoning.json](./215-warhammer-online-age-of-reckoning.json) |
 | Warhammer Online: Return of Reckoning | 398835 | [398835-warhammer-online-return-of-reckoning.json](./398835-warhammer-online-return-of-reckoning.json) |
 | Warhammer Pack: Hack and Slash | 224159 | [224159-warhammer-pack-hack-and-slash.json](./224159-warhammer-pack-hack-and-slash.json) |
@@ -5481,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Collide | 254165 | [254165-words-collide.json](./254165-words-collide.json) |
 | Words for a bird | 134692 | [134692-words-for-a-bird.json](./134692-words-for-a-bird.json) |
 | Words for Evil | 36107 | [36107-words-for-evil.json](./36107-words-for-evil.json) |
+| Words for in Between | 398282 | [398282-words-for-in-between.json](./398282-words-for-in-between.json) |
 | Words Guesser | 314664 | [314664-words-guesser.json](./314664-words-guesser.json) |
 | Words in Pics - Drawing Puzzle | 106948 | [106948-words-in-pics-drawing-puzzle.json](./106948-words-in-pics-drawing-puzzle.json) |
 | Words In Progress | 286596 | [286596-words-in-progress.json](./286596-words-in-progress.json) |
