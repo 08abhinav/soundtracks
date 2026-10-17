@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
+| Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
@@ -3195,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Snowday Adventure | 89498 | [89498-epic-snowday-adventure.json](./89498-epic-snowday-adventure.json) |
 | Epic Space Trader | 337664 | [337664-epic-space-trader.json](./337664-epic-space-trader.json) |
 | Epic Space: Online | 36322 | [36322-epic-space-online.json](./36322-epic-space-online.json) |
+| Epic Super Bowser World | 387506 | [387506-epic-super-bowser-world.json](./387506-epic-super-bowser-world.json) |
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
