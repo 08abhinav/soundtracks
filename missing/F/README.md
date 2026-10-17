@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falconet | 189102 | [189102-falconet.json](./189102-falconet.json) |
 | Falcons | 24884 | [24884-falcons.json](./24884-falcons.json) |
 | Falcross | 371454 | [371454-falcross.json](./371454-falcross.json) |
+| Faldon | 395860 | [395860-faldon.json](./395860-faldon.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
@@ -2851,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrari Virtual Race | 129811 | [129811-ferrari-virtual-race.json](./129811-ferrari-virtual-race.json) |
 | Ferret Frenzy | 381734 | [381734-ferret-frenzy.json](./381734-ferret-frenzy.json) |
 | Ferret Monogatari: Watashi no Okini Iri | 65512 | [65512-ferret-monogatari-watashi-no-okini-iri.json](./65512-ferret-monogatari-watashi-no-okini-iri.json) |
+| Ferret Quest | 395729 | [395729-ferret-quest.json](./395729-ferret-quest.json) |
 | Ferret Scoundrels | 117434 | [117434-ferret-scoundrels.json](./117434-ferret-scoundrels.json) |
 | Ferric Oxide | 299845 | [299845-ferric-oxide.json](./299845-ferric-oxide.json) |
 | Ferris Mueller's Day Off | 95319 | [95319-ferris-muellers-day-off.json](./95319-ferris-muellers-day-off.json) |
@@ -5828,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flounder's Starry Night | 246524 | [246524-flounders-starry-night.json](./246524-flounders-starry-night.json) |
 | Flour Hour | 183033 | [183033-flour-hour.json](./183033-flour-hour.json) |
 | Flourish | 122949 | [122949-flourish.json](./122949-flourish.json) |
+| Flourish | 395736 | [395736-flourish.json](./395736-flourish.json) |
 | Flow | 171584 | [171584-flow.json](./171584-flow.json) |
 | Flow | 315530 | [315530-flow.json](./315530-flow.json) |
 | Flow | 395829 | [395829-flow.json](./395829-flow.json) |
@@ -7122,6 +7125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One World Championship: Beyond the Limit | 5388 | [5388-formula-one-world-championship-beyond-the-limit.json](./5388-formula-one-world-championship-beyond-the-limit.json) |
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
 | Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
+| Formula Racer | 395877 | [395877-formula-racer.json](./395877-formula-racer.json) |
 | Formula Racing Pro 2025 | 328536 | [328536-formula-racing-pro-2025.json](./328536-formula-racing-pro-2025.json) |
 | Formula Racing Pro 2025: Extended Edition | 333721 | [333721-formula-racing-pro-2025-extended-edition.json](./333721-formula-racing-pro-2025-extended-edition.json) |
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
