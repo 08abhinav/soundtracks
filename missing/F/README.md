@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasic Cube | 129763 | [129763-fantasic-cube.json](./129763-fantasic-cube.json) |
 | Fantasic Tambourine | 129537 | [129537-fantasic-tambourine.json](./129537-fantasic-tambourine.json) |
+| FantasicReverie | 407897 | [407897-fantasicreverie.json](./407897-fantasicreverie.json) |
 | Fantasization | 68593 | [68593-fantasization.json](./68593-fantasization.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipol | 167596 | [167596-flipol.json](./167596-flipol.json) |
 | Flipominos | 58467 | [58467-flipominos.json](./58467-flipominos.json) |
 | FlipOut! | 2622 | [2622-flipout.json](./2622-flipout.json) |
+| Flippant | 407855 | [407855-flippant.json](./407855-flippant.json) |
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
 | Flipped On | 81811 | [81811-flipped-on.json](./81811-flipped-on.json) |
