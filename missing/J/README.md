@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JanKenUP! | 180199 | [180199-jankenup.json](./180199-jankenup.json) |
 | Janko | 306365 | [306365-janko.json](./306365-janko.json) |
 | Janky Golf with Stream | 378012 | [378012-janky-golf-with-stream.json](./378012-janky-golf-with-stream.json) |
+| Janky Horse | 404089 | [404089-janky-horse.json](./404089-janky-horse.json) |
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Jankyou | 77159 | [77159-jankyou.json](./77159-jankyou.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
