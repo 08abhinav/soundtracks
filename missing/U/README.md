@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
 | UnderWay | 201482 | [201482-underway.json](./201482-underway.json) |
+| Underway Remastered | 375488 | [375488-underway-remastered.json](./375488-underway-remastered.json) |
 | Underwheels | 355073 | [355073-underwheels.json](./355073-underwheels.json) |
 | Underworld | 174107 | [174107-underworld.json](./174107-underworld.json) |
 | Underworld | 343436 | [343436-underworld.json](./343436-underworld.json) |
@@ -1564,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
+| Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
 | Ungrateful Birds: No Good Deed | 231327 | [231327-ungrateful-birds-no-good-deed.json](./231327-ungrateful-birds-no-good-deed.json) |
