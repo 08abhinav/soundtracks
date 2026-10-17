@@ -3772,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Frog | 301399 | [301399-final-frog.json](./301399-final-frog.json) |
 | Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
+| Final Frost | 392192 | [392192-final-frost.json](./392192-final-frost.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Auto | 6998 | [6998-full-auto.json](./6998-full-auto.json) |
 | Full Auto 2: Battlelines | 197931 | [197931-full-auto-2-battlelines.json](./197931-full-auto-2-battlelines.json) |
 | Full Belly Breakout | 402912 | [402912-full-belly-breakout.json](./402912-full-belly-breakout.json) |
+| Full Bet: Fighting Casino | 392189 | [392189-full-bet-fighting-casino.json](./392189-full-bet-fighting-casino.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
