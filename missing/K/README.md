@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagikko Adventure | 184457 | [184457-kagikko-adventure.json](./184457-kagikko-adventure.json) |
 | Kagirinaki Tatakai | 64397 | [64397-kagirinaki-tatakai.json](./64397-kagirinaki-tatakai.json) |
 | Kagitori: Bird in Cage Hiding the Key | 260121 | [260121-kagitori-bird-in-cage-hiding-the-key.json](./260121-kagitori-bird-in-cage-hiding-the-key.json) |
+| Kago | 412327 | [412327-kago.json](./412327-kago.json) |
 | Kago no Naka no Alicis | 218383 | [218383-kago-no-naka-no-alicis.json](./218383-kago-no-naka-no-alicis.json) |
 | Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
@@ -2900,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittenship Care | 364062 | [364062-kittenship-care.json](./364062-kittenship-care.json) |
 | Kittentegy | 303613 | [303613-kittentegy.json](./303613-kittentegy.json) |
 | Kittie's Mazes | 98888 | [98888-kitties-mazes.json](./98888-kitties-mazes.json) |
+| Kitties Solitaire | 412344 | [412344-kitties-solitaire.json](./412344-kitties-solitaire.json) |
 | Kitto Zenbu Watashi no Sei | 243629 | [243629-kitto-zenbu-watashi-no-sei.json](./243629-kitto-zenbu-watashi-no-sei.json) |
 | Kitty & Friends: Blast of Fun | 239886 | [239886-kitty-and-friends-blast-of-fun.json](./239886-kitty-and-friends-blast-of-fun.json) |
 | Kitty Can Cook | 373162 | [373162-kitty-can-cook.json](./373162-kitty-can-cook.json) |
