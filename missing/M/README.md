@@ -7119,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Takeover | 255384 | [255384-metroid-takeover.json](./255384-metroid-takeover.json) |
 | Metroid: The Blue Plague | 220779 | [220779-metroid-the-blue-plague.json](./220779-metroid-the-blue-plague.json) |
 | Metroidvania Bundle | 268482 | [268482-metroidvania-bundle.json](./268482-metroidvania-bundle.json) |
+| Metroidvania Maker | 407169 | [407169-metroidvania-maker.json](./407169-metroidvania-maker.json) |
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
@@ -13086,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms Jenkins Estate | 217300 | [217300-ms-jenkins-estate.json](./217300-ms-jenkins-estate.json) |
 | MS Saga: A New Dawn | 20492 | [20492-ms-saga-a-new-dawn.json](./20492-ms-saga-a-new-dawn.json) |
 | Ms Vampire Love to Date With Me | 372548 | [372548-ms-vampire-love-to-date-with-me.json](./372548-ms-vampire-love-to-date-with-me.json) |
+| MS_Dos | 407147 | [407147-ms-dos.json](./407147-ms-dos.json) |
 | MS: Space Express | 192285 | [192285-ms-space-express.json](./192285-ms-space-express.json) |
 | Ms. Holmes: Five Orange Pips | 187943 | [187943-ms-holmes-five-orange-pips.json](./187943-ms-holmes-five-orange-pips.json) |
 | Ms. Holmes: Letter M - Collector's Edition | 362847 | [362847-ms-holmes-letter-m-collectors-edition.json](./362847-ms-holmes-letter-m-collectors-edition.json) |
