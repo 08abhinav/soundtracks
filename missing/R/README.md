@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reboot My Heart | 368900 | [368900-reboot-my-heart.json](./368900-reboot-my-heart.json) |
 | Reboot the World | 196532 | [196532-reboot-the-world.json](./196532-reboot-the-world.json) |
 | Rebop Blasters | 131921 | [131921-rebop-blasters.json](./131921-rebop-blasters.json) |
+| Reborder | 415850 | [415850-reborder.json](./415850-reborder.json) |
 | Reborn | 301985 | [301985-reborn.json](./301985-reborn.json) |
 | Reborn | 76431 | [76431-reborn.json](./76431-reborn.json) |
 | Reborn a Zombie! | 246004 | [246004-reborn-a-zombie.json](./246004-reborn-a-zombie.json) |
@@ -3422,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
+| Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
 | ReMaz! | 116859 | [116859-remaz.json](./116859-remaz.json) |
 | Rembrunir | 384209 | [384209-rembrunir.json](./384209-rembrunir.json) |
 | Remedium | 204324 | [204324-remedium.json](./204324-remedium.json) |
@@ -8414,6 +8416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rule the Waves 3: Expanded Battles | 324928 | [324928-rule-the-waves-3-expanded-battles.json](./324928-rule-the-waves-3-expanded-battles.json) |
 | Rule with an Iron Fish | 55122 | [55122-rule-with-an-iron-fish.json](./55122-rule-with-an-iron-fish.json) |
 | Rule Your School | 30165 | [30165-rule-your-school.json](./30165-rule-your-school.json) |
+| Rule: After Waking Up, Please Don't Call Me | 415848 | [415848-rule-after-waking-up-please-dont-call-me.json](./415848-rule-after-waking-up-please-dont-call-me.json) |
 | Rule34dle | 361573 | [361573-rule34dle.json](./361573-rule34dle.json) |
 | Rulebound | 413492 | [413492-rulebound.json](./413492-rulebound.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
@@ -8451,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumble Road | 58666 | [58666-rumble-road.json](./58666-rumble-road.json) |
 | Rumble Roses XX | 7167 | [7167-rumble-roses-xx.json](./7167-rumble-roses-xx.json) |
 | Rumble Runners | 152458 | [152458-rumble-runners.json](./152458-rumble-runners.json) |
+| Rumble Solitaire | 416040 | [416040-rumble-solitaire.json](./416040-rumble-solitaire.json) |
 | Rumble Sus | 238437 | [238437-rumble-sus.json](./238437-rumble-sus.json) |
 | Rumble Trucks | 44515 | [44515-rumble-trucks.json](./44515-rumble-trucks.json) |
 | Rumbo and the Quest for Scar City | 185382 | [185382-rumbo-and-the-quest-for-scar-city.json](./185382-rumbo-and-the-quest-for-scar-city.json) |
