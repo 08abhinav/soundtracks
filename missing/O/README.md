@@ -2876,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
 | Ordinem | 114339 | [114339-ordinem.json](./114339-ordinem.json) |
 | Ordo Et Chao: New World | 113562 | [113562-ordo-et-chao-new-world.json](./113562-ordo-et-chao-new-world.json) |
+| Ore & Odds | 400688 | [400688-ore-and-odds.json](./400688-ore-and-odds.json) |
 | Ore Dake no Idol: eye no Sainou | 194594 | [194594-ore-dake-no-idol-eye-no-sainou.json](./194594-ore-dake-no-idol-eye-no-sainou.json) |
 | Ore ga Konna ni Tsuyoi no mo Akira Maeda no Cracker | 280458 | [280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json](./280458-ore-ga-konna-ni-tsuyoi-no-mo-akira-maeda-no-cracker.json) |
 | Ore ga Omae wo Mamoru | 69213 | [69213-ore-ga-omae-wo-mamoru.json](./69213-ore-ga-omae-wo-mamoru.json) |
