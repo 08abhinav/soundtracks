@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
 | A-Train 9 V4.0: Japan Rail Simulator | 36406 | [36406-a-train-9-v4-0-japan-rail-simulator.json](./36406-a-train-9-v4-0-japan-rail-simulator.json) |
 | A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack | 171908 | [171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json](./171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json) |
+| A-Train 9 V5.0 : Japan Train Simulator Ultimate Edition | 378606 | [378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json](./378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
@@ -1064,6 +1065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train: All Aboard! Tourism - Nintendo Switch 2 Edition | 380696 | [380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json](./380696-a-train-all-aboard-tourism-nintendo-switch-2-edition.json) |
 | A-Train: City Simulator | 85874 | [85874-a-train-city-simulator.json](./85874-a-train-city-simulator.json) |
 | A-Train: Trains, Power, Money | 98269 | [98269-a-train-trains-power-money.json](./98269-a-train-trains-power-money.json) |
+| A-Train9 Train Construction | 378607 | [378607-a-train9-train-construction.json](./378607-a-train9-train-construction.json) |
 | A-Vroom! | 123927 | [123927-a-vroom.json](./123927-a-vroom.json) |
 | A-Z | 390157 | [390157-a-z.json](./390157-a-z.json) |
 | A.A.U. Black Site | 357776 | [357776-a-a-u-black-site.json](./357776-a-a-u-black-site.json) |
@@ -3385,6 +3387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Kiss: Limited Edition | 167081 | [167081-ai-kiss-limited-edition.json](./167081-ai-kiss-limited-edition.json) |
 | Ai Land Honeymoon with Sweet Kanade Toba | 280700 | [280700-ai-land-honeymoon-with-sweet-kanade-toba.json](./280700-ai-land-honeymoon-with-sweet-kanade-toba.json) |
 | AI Limit | 115846 | [115846-ai-limit.json](./115846-ai-limit.json) |
+| AI Limit: Eirene's Furnace of War | 378528 | [378528-ai-limit-eirenes-furnace-of-war.json](./378528-ai-limit-eirenes-furnace-of-war.json) |
 | AI Mahjong | 56534 | [56534-ai-mahjong.json](./56534-ai-mahjong.json) |
 | AI Mahjong 2003 | 269327 | [269327-ai-mahjong-2003.json](./269327-ai-mahjong-2003.json) |
 | AI Mahjong Selection | 349952 | [349952-ai-mahjong-selection.json](./349952-ai-mahjong-selection.json) |
@@ -3942,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akaku Forest | 318123 | [318123-akaku-forest.json](./318123-akaku-forest.json) |
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
+| Akalabeth: World of Doom | 378498 | [378498-akalabeth-world-of-doom.json](./378498-akalabeth-world-of-doom.json) |
 | Akane Chan-bara | 204685 | [204685-akane-chan-bara.json](./204685-akane-chan-bara.json) |
 | Akane Maniax: Nagareboshi Densetsu Gouda | 62627 | [62627-akane-maniax-nagareboshi-densetsu-gouda.json](./62627-akane-maniax-nagareboshi-densetsu-gouda.json) |
 | Akane-iro ni Somaru Saka Parallels | 79590 | [79590-akane-iro-ni-somaru-saka-parallels.json](./79590-akane-iro-ni-somaru-saka-parallels.json) |
@@ -4985,6 +4989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All New Ultimate Pub Quiz 2008 | 320900 | [320900-all-new-ultimate-pub-quiz-2008.json](./320900-all-new-ultimate-pub-quiz-2008.json) |
 | All New World of Lemmings | 14246 | [14246-all-new-world-of-lemmings.json](./14246-all-new-world-of-lemmings.json) |
 | All Night Nippon Super Mario Bros. | 41272 | [41272-all-night-nippon-super-mario-bros.json](./41272-all-night-nippon-super-mario-bros.json) |
+| All Night Nippon Super Mario Bros. Remastered | 378502 | [378502-all-night-nippon-super-mario-bros-remastered.json](./378502-all-night-nippon-super-mario-bros-remastered.json) |
 | All Noobs Must Die | 264806 | [264806-all-noobs-must-die.json](./264806-all-noobs-must-die.json) |
 | All of Our Friends Are Dead | 124630 | [124630-all-of-our-friends-are-dead.json](./124630-all-of-our-friends-are-dead.json) |
 | All of Touhou Mystia's Izakaya | 209978 | [209978-all-of-touhou-mystias-izakaya.json](./209978-all-of-touhou-mystias-izakaya.json) |
@@ -7077,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
+| Anime Dream Match: Horses | 378531 | [378531-anime-dream-match-horses.json](./378531-anime-dream-match-horses.json) |
 | Anime Dream Match: Predators | 366134 | [366134-anime-dream-match-predators.json](./366134-anime-dream-match-predators.json) |
 | Anime Dream Match: Primates | 351558 | [351558-anime-dream-match-primates.json](./351558-anime-dream-match-primates.json) |
 | Anime Dream Match: Rodents | 362349 | [362349-anime-dream-match-rodents.json](./362349-anime-dream-match-rodents.json) |
@@ -8466,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
 | Arcade Archives 2: Bermuda Triangle | 382576 | [382576-arcade-archives-2-bermuda-triangle.json](./382576-arcade-archives-2-bermuda-triangle.json) |
+| Arcade Archives 2: Bomb Bee | 378489 | [378489-arcade-archives-2-bomb-bee.json](./378489-arcade-archives-2-bomb-bee.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
@@ -10705,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassination Station | 54985 | [54985-assassination-station.json](./54985-assassination-station.json) |
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
+| Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
 | Assau!t | 168221 | [168221-assau-t.json](./168221-assau-t.json) |
 | Assault | 6881 | [6881-assault.json](./6881-assault.json) |
 | Assault Android Cactus+ | 115456 | [115456-assault-android-cactus.json](./115456-assault-android-cactus.json) |
