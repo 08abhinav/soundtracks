@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapsul Infinite | 31576 | [31576-kapsul-infinite.json](./31576-kapsul-infinite.json) |
 | Kapsyljakt med Anki & Pytte | 225648 | [225648-kapsyljakt-med-anki-and-pytte.json](./225648-kapsyljakt-med-anki-and-pytte.json) |
 | Käpt'n Blaubär: Die Verrückte Schatzsuche | 86070 | [86070-kaptn-blaubar-die-verruckte-schatzsuche.json](./86070-kaptn-blaubar-die-verruckte-schatzsuche.json) |
+| Kaputte Kranz Chap1 | 370992 | [370992-kaputte-kranz-chap1.json](./370992-kaputte-kranz-chap1.json) |
 | Kara Legends | 133134 | [133134-kara-legends.json](./133134-kara-legends.json) |
 | Kara no Oukoku | 380433 | [380433-kara-no-oukoku.json](./380433-kara-no-oukoku.json) |
 | Kara's Darkness Chapter 1 | 102154 | [102154-karas-darkness-chapter-1.json](./102154-karas-darkness-chapter-1.json) |
