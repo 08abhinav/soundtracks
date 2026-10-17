@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
+| Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
@@ -3636,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
+| Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
 | Centifeed | 111494 | [111494-centifeed.json](./111494-centifeed.json) |
@@ -4302,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chased | 221684 | [221684-chased.json](./221684-chased.json) |
 | Chased Around the World | 211963 | [211963-chased-around-the-world.json](./211963-chased-around-the-world.json) |
 | Chased by Darkness | 147622 | [147622-chased-by-darkness.json](./147622-chased-by-darkness.json) |
+| Chased by Nightmares | 386537 | [386537-chased-by-nightmares.json](./386537-chased-by-nightmares.json) |
 | Chaser | 242694 | [242694-chaser.json](./242694-chaser.json) |
 | Chaser | 380072 | [380072-chaser.json](./380072-chaser.json) |
 | Chaser | 55680 | [55680-chaser.json](./55680-chaser.json) |
@@ -6583,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citypurger | 323411 | [323411-citypurger.json](./323411-citypurger.json) |
 | Cityquiz.io | 305324 | [305324-cityquiz-io.json](./305324-cityquiz-io.json) |
 | Cityscape Sprint | 208676 | [208676-cityscape-sprint.json](./208676-cityscape-sprint.json) |
+| Cityscapes | 386554 | [386554-cityscapes.json](./386554-cityscapes.json) |
 | Cityscapes: Sim Builder | 248581 | [248581-cityscapes-sim-builder.json](./248581-cityscapes-sim-builder.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
@@ -11060,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
+| Cozy Pets and Friends | 386544 | [386544-cozy-pets-and-friends.json](./386544-cozy-pets-and-friends.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
 | Cozy Room Decorator | 269688 | [269688-cozy-room-decorator.json](./269688-cozy-room-decorator.json) |
@@ -12298,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
 | Critical Bullet: 7th Target | 72121 | [72121-critical-bullet-7th-target.json](./72121-critical-bullet-7th-target.json) |
 | Critical Damage | 24732 | [24732-critical-damage.json](./24732-critical-damage.json) |
+| Critical Descent | 386548 | [386548-critical-descent.json](./386548-critical-descent.json) |
 | Critical Failure: No Man's Land | 415977 | [415977-critical-failure-no-mans-land.json](./415977-critical-failure-no-mans-land.json) |
 | Critical Fishing | 293144 | [293144-critical-fishing.json](./293144-critical-fishing.json) |
 | Critical Gravity | 89088 | [89088-critical-gravity.json](./89088-critical-gravity.json) |
@@ -13716,6 +13722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cup Heroes: Beginner Merge Bundle | 414455 | [414455-cup-heroes-beginner-merge-bundle.json](./414455-cup-heroes-beginner-merge-bundle.json) |
 | Cup Heroes: Diamond Bag Bundle | 397885 | [397885-cup-heroes-diamond-bag-bundle.json](./397885-cup-heroes-diamond-bag-bundle.json) |
 | Cup Heroes: Diamond Satchel Bundle | 410855 | [410855-cup-heroes-diamond-satchel-bundle.json](./410855-cup-heroes-diamond-satchel-bundle.json) |
+| Cup Heroes: Handful Bundle | 386564 | [386564-cup-heroes-handful-bundle.json](./386564-cup-heroes-handful-bundle.json) |
 | Cup Manager | 93170 | [93170-cup-manager.json](./93170-cup-manager.json) |
 | Cup of Ethanol | 249281 | [249281-cup-of-ethanol.json](./249281-cup-of-ethanol.json) |
 | Cupcake Baker | 87719 | [87719-cupcake-baker.json](./87719-cupcake-baker.json) |
