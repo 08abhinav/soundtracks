@@ -4785,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 131522 | [131522-pinball.json](./131522-pinball.json) |
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
+| Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
@@ -7547,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
+| Pokémon All In Version | 410794 | [410794-pokemon-all-in-version.json](./410794-pokemon-all-in-version.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
 | Pokémon Altar | 232685 | [232685-pokemon-altar.json](./232685-pokemon-altar.json) |
@@ -10179,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess escape | 174119 | [174119-princess-escape.json](./174119-princess-escape.json) |
 | Princess Evangile W Happiness | 140525 | [140525-princess-evangile-w-happiness.json](./140525-princess-evangile-w-happiness.json) |
 | Princess Evangile W Happiness | 43360 | [43360-princess-evangile-w-happiness.json](./43360-princess-evangile-w-happiness.json) |
+| Princess Fantasy Catventure | 410887 | [410887-princess-fantasy-catventure.json](./410887-princess-fantasy-catventure.json) |
 | Princess Home | 227243 | [227243-princess-home.json](./227243-princess-home.json) |
 | Princess in Airiness | 160161 | [160161-princess-in-airiness.json](./160161-princess-in-airiness.json) |
 | Princess in Love | 67663 | [67663-princess-in-love.json](./67663-princess-in-love.json) |
