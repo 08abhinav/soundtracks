@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Talk | 238488 | [238488-tavern-talk.json](./238488-tavern-talk.json) |
 | Tavern Talk + Pirate Palooza (Costume AOC) | 378868 | [378868-tavern-talk-pirate-palooza-costume-aoc.json](./378868-tavern-talk-pirate-palooza-costume-aoc.json) |
 | Tavern Talk Stories: Dreamwalker | 345852 | [345852-tavern-talk-stories-dreamwalker.json](./345852-tavern-talk-stories-dreamwalker.json) |
+| Tavern Talk: Pirate Palooza (Costume Pack) | 376798 | [376798-tavern-talk-pirate-palooza-costume-pack.json](./376798-tavern-talk-pirate-palooza-costume-pack.json) |
 | Tavern Talk: Tempest Tantrum | 336038 | [336038-tavern-talk-tempest-tantrum.json](./336038-tavern-talk-tempest-tantrum.json) |
 | Tavern Timer | 406886 | [406886-tavern-timer.json](./406886-tavern-timer.json) |
 | Tavern Tycoon | 33603 | [33603-tavern-tycoon.json](./33603-tavern-tycoon.json) |
@@ -21839,6 +21840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial and Terror | 126915 | [126915-trial-and-terror.json](./126915-trial-and-terror.json) |
 | Trial by Chat | 414332 | [414332-trial-by-chat.json](./414332-trial-by-chat.json) |
 | Trial by Magic | 2502 | [2502-trial-by-magic.json](./2502-trial-by-magic.json) |
+| Trial By Magic | 376809 | [376809-trial-by-magic.json](./376809-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
