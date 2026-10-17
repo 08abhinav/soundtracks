@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent Calendar | 212875 | [212875-advent-calendar.json](./212875-advent-calendar.json) |
 | Advent Calendar | 379475 | [379475-advent-calendar.json](./379475-advent-calendar.json) |
 | Advent Crossroad | 154404 | [154404-advent-crossroad.json](./154404-advent-crossroad.json) |
+| Advent Incremental | 382574 | [382574-advent-incremental.json](./382574-advent-incremental.json) |
 | Advent Neon | 139128 | [139128-advent-neon.json](./139128-advent-neon.json) |
 | Advent of God: Legends | 304168 | [304168-advent-of-god-legends.json](./304168-advent-of-god-legends.json) |
 | Advent Rising | 5716 | [5716-advent-rising.json](./5716-advent-rising.json) |
@@ -8454,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Aqua Jet | 361238 | [361238-arcade-archives-2-aqua-jet.json](./361238-arcade-archives-2-aqua-jet.json) |
 | Arcade Archives 2: Arkanoid - Revenge of Doh | 417315 | [417315-arcade-archives-2-arkanoid-revenge-of-doh.json](./417315-arcade-archives-2-arkanoid-revenge-of-doh.json) |
 | Arcade Archives 2: Armadillo Racing | 411154 | [411154-arcade-archives-2-armadillo-racing.json](./411154-arcade-archives-2-armadillo-racing.json) |
+| Arcade Archives 2: Bermuda Triangle | 382576 | [382576-arcade-archives-2-bermuda-triangle.json](./382576-arcade-archives-2-bermuda-triangle.json) |
 | Arcade Archives 2: Cameltry | 404379 | [404379-arcade-archives-2-cameltry.json](./404379-arcade-archives-2-cameltry.json) |
 | Arcade Archives 2: Cyber Cycles | 414798 | [414798-arcade-archives-2-cyber-cycles.json](./414798-arcade-archives-2-cyber-cycles.json) |
 | Arcade Archives 2: Galactic Warriors | 377686 | [377686-arcade-archives-2-galactic-warriors.json](./377686-arcade-archives-2-galactic-warriors.json) |
@@ -9517,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark: Extinction Ascended | 338826 | [338826-ark-extinction-ascended.json](./338826-ark-extinction-ascended.json) |
 | Ark: Fantastic Tames - Pyromane | 304377 | [304377-ark-fantastic-tames-pyromane.json](./304377-ark-fantastic-tames-pyromane.json) |
 | Ark: Genesis | 131698 | [131698-ark-genesis.json](./131698-ark-genesis.json) |
+| Ark: Lost Colony | 382572 | [382572-ark-lost-colony.json](./382572-ark-lost-colony.json) |
 | Ark: Ragnarok Ascended | 350531 | [350531-ark-ragnarok-ascended.json](./350531-ark-ragnarok-ascended.json) |
 | Ark: Scorched Earth | 103514 | [103514-ark-scorched-earth.json](./103514-ark-scorched-earth.json) |
 | Ark: Scorched Earth Ascended | 294992 | [294992-ark-scorched-earth-ascended.json](./294992-ark-scorched-earth-ascended.json) |
