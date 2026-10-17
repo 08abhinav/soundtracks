@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
+| Kulipari: United | 383198 | [383198-kulipari-united.json](./383198-kulipari-united.json) |
 | KuloNiku: Bowl Up! | 346735 | [346735-kuloniku-bowl-up.json](./346735-kuloniku-bowl-up.json) |
 | Kult of Ktulu: Olympic | 29629 | [29629-kult-of-ktulu-olympic.json](./29629-kult-of-ktulu-olympic.json) |
 | Kuma no Pooh-San: 100 Acre no Mori no Cooking Book | 130752 | [130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json](./130752-kuma-no-pooh-san-100-acre-no-mori-no-cooking-book.json) |
