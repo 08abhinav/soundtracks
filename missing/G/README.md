@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargoyles Remastered | 216282 | [216282-gargoyles-remastered.json](./216282-gargoyles-remastered.json) |
 | Gargoyles: Night Flight | 198745 | [198745-gargoyles-night-flight.json](./198745-gargoyles-night-flight.json) |
 | Garin Game: Curse of Revival Ceremony | 214747 | [214747-garin-game-curse-of-revival-ceremony.json](./214747-garin-game-curse-of-revival-ceremony.json) |
+| Garisani Detective Agency | 406571 | [406571-garisani-detective-agency.json](./406571-garisani-detective-agency.json) |
 | Garland Boy | 327187 | [327187-garland-boy.json](./327187-garland-boy.json) |
 | Garlic | 132685 | [132685-garlic.json](./132685-garlic.json) |
 | Garlic Builder | 263985 | [263985-garlic-builder.json](./263985-garlic-builder.json) |
@@ -2906,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Rush: Silly DLC | 324438 | [324438-giant-rush-silly-dlc.json](./324438-giant-rush-silly-dlc.json) |
 | Giant Snake Girl Wants the Burger! | 383379 | [383379-giant-snake-girl-wants-the-burger.json](./383379-giant-snake-girl-wants-the-burger.json) |
 | Giant Trucks Driving Simulator | 90355 | [90355-giant-trucks-driving-simulator.json](./90355-giant-trucks-driving-simulator.json) |
+| Giant Waifu Wash Simulator | 406570 | [406570-giant-waifu-wash-simulator.json](./406570-giant-waifu-wash-simulator.json) |
 | GiAnt: Warfare | 172118 | [172118-giant-warfare.json](./172118-giant-warfare.json) |
 | Giant’s Heart | 349948 | [349948-giant-s-heart.json](./349948-giant-s-heart.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
@@ -6390,6 +6392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Masters | 33337 | [33337-grid-masters.json](./33337-grid-masters.json) |
 | Grid Miner | 199496 | [199496-grid-miner.json](./199496-grid-miner.json) |
 | Grid Ranger | 304905 | [304905-grid-ranger.json](./304905-grid-ranger.json) |
+| Grid Realm | 406566 | [406566-grid-realm.json](./406566-grid-realm.json) |
 | Grid Run and Pontoon | 93203 | [93203-grid-run-and-pontoon.json](./93203-grid-run-and-pontoon.json) |
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
@@ -7463,6 +7466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Man | 115157 | [115157-gun-man.json](./115157-gun-man.json) |
 | Gun Man | 346091 | [346091-gun-man.json](./346091-gun-man.json) |
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
+| Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
 | Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
 | Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
