@@ -16216,6 +16216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
+| Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Commando | 9646 | [9646-time-commando.json](./9646-time-commando.json) |
@@ -17312,6 +17313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toddler Tech Laptop | 333374 | [333374-toddler-tech-laptop.json](./333374-toddler-tech-laptop.json) |
 | Toddler Trainer - Counting Toys Pro | 87316 | [87316-toddler-trainer-counting-toys-pro.json](./87316-toddler-trainer-counting-toys-pro.json) |
 | Toddlers | 400096 | [400096-toddlers.json](./400096-toddlers.json) |
+| Toddlers Shake It | 399429 | [399429-toddlers-shake-it.json](./399429-toddlers-shake-it.json) |
 | Todesangst | 324866 | [324866-todesangst.json](./324866-todesangst.json) |
 | Todesangst 2: Der Echte Feind | 324868 | [324868-todesangst-2-der-echte-feind.json](./324868-todesangst-2-der-echte-feind.json) |
 | Todlio | 107074 | [107074-todlio.json](./107074-todlio.json) |
@@ -21521,6 +21523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure of Big Totem 7 | 315266 | [315266-treasure-of-big-totem-7.json](./315266-treasure-of-big-totem-7.json) |
 | Treasure of Big Totem 8 | 315267 | [315267-treasure-of-big-totem-8.json](./315267-treasure-of-big-totem-8.json) |
 | Treasure of Cutlass Reef | 261211 | [261211-treasure-of-cutlass-reef.json](./261211-treasure-of-cutlass-reef.json) |
+| Treasure of Ocean | 399435 | [399435-treasure-of-ocean.json](./399435-treasure-of-ocean.json) |
 | Treasure of the Caribbean Sea | 416184 | [416184-treasure-of-the-caribbean-sea.json](./416184-treasure-of-the-caribbean-sea.json) |
 | Treasure Of The Giantess | 271275 | [271275-treasure-of-the-giantess.json](./271275-treasure-of-the-giantess.json) |
 | Treasure Protector | 309479 | [309479-treasure-protector.json](./309479-treasure-protector.json) |
