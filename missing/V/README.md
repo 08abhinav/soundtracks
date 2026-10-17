@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Parking Collection | 328462 | [328462-vacation-parking-collection.json](./328462-vacation-parking-collection.json) |
 | Vacation Quest Australia | 50862 | [50862-vacation-quest-australia.json](./50862-vacation-quest-australia.json) |
 | Vacation Quest: The Hawaiian Islands | 61674 | [61674-vacation-quest-the-hawaiian-islands.json](./61674-vacation-quest-the-hawaiian-islands.json) |
+| Vacation Romance | 367198 | [367198-vacation-romance.json](./367198-vacation-romance.json) |
 | Vacation Simulator | 76878 | [76878-vacation-simulator.json](./76878-vacation-simulator.json) |
 | Vacation Simulator: Back to Job | 135123 | [135123-vacation-simulator-back-to-job.json](./135123-vacation-simulator-back-to-job.json) |
 | Vacation Sports | 51106 | [51106-vacation-sports.json](./51106-vacation-sports.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vossarium | 400517 | [400517-vossarium.json](./400517-vossarium.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
 | Vote: The Game | 93554 | [93554-vote-the-game.json](./93554-vote-the-game.json) |
+| Votum | 367160 | [367160-votum.json](./367160-votum.json) |
 | Vovu | 57745 | [57745-vovu.json](./57745-vovu.json) |
 | Vow | 347342 | [347342-vow.json](./347342-vow.json) |
 | Vow of Heroes | 106981 | [106981-vow-of-heroes.json](./106981-vow-of-heroes.json) |
