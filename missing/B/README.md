@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
+| Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
 | Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 292081 | [292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./292081-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
 | Beach-Head | 8526 | [8526-beach-head.json](./8526-beach-head.json) |
@@ -11431,6 +11432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Heroes Galaxy | 108243 | [108243-bubble-heroes-galaxy.json](./108243-bubble-heroes-galaxy.json) |
 | Bubble Hunt | 181071 | [181071-bubble-hunt.json](./181071-bubble-hunt.json) |
 | Bubble Investor | 361727 | [361727-bubble-investor.json](./361727-bubble-investor.json) |
+| Bubble Island | 412785 | [412785-bubble-island.json](./412785-bubble-island.json) |
 | Bubble Jam | 331366 | [331366-bubble-jam.json](./331366-bubble-jam.json) |
 | Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
@@ -11777,6 +11779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build It!: Das Bauhaus | 14352 | [14352-build-it-das-bauhaus.json](./14352-build-it-das-bauhaus.json) |
 | Build Lands | 201239 | [201239-build-lands.json](./201239-build-lands.json) |
 | Build Master: MarsVille | 267864 | [267864-build-master-marsville.json](./267864-build-master-marsville.json) |
+| Build My Arcade | 412949 | [412949-build-my-arcade.json](./412949-build-my-arcade.json) |
 | Build Royale | 112275 | [112275-build-royale.json](./112275-build-royale.json) |
 | Build Scrap | 340548 | [340548-build-scrap.json](./340548-build-scrap.json) |
 | Build the Bridge | 286638 | [286638-build-the-bridge.json](./286638-build-the-bridge.json) |
