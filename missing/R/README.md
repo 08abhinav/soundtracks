@@ -1046,6 +1046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raise Your Own Clone | 32634 | [32634-raise-your-own-clone.json](./32634-raise-your-own-clone.json) |
 | Raise-a-Wish | 404255 | [404255-raise-a-wish.json](./404255-raise-a-wish.json) |
 | Raise, Rise & Die | 416734 | [416734-raise-rise-and-die.json](./416734-raise-rise-and-die.json) |
+| Raise: Embrace the Future | 406561 | [406561-raise-embrace-the-future.json](./406561-raise-embrace-the-future.json) |
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
