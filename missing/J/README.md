@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Food Adventure - Tokyo | 100316 | [100316-japan-food-adventure-tokyo.json](./100316-japan-food-adventure-tokyo.json) |
 | Japan Mahjong | 334660 | [334660-japan-mahjong.json](./334660-japan-mahjong.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
+| Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
 | Japan Train Models: JR Freight Edition | 294982 | [294982-japan-train-models-jr-freight-edition.json](./294982-japan-train-models-jr-freight-edition.json) |
@@ -531,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Goblins | 220871 | [220871-japanese-goblins.json](./220871-japanese-goblins.json) |
 | Japanese Hiragana & Katakana Review DS | 342834 | [342834-japanese-hiragana-and-katakana-review-ds.json](./342834-japanese-hiragana-and-katakana-review-ds.json) |
 | Japanese House Exploration | 308893 | [308893-japanese-house-exploration.json](./308893-japanese-house-exploration.json) |
+| Japanese Level Design Collab | 381999 | [381999-japanese-level-design-collab.json](./381999-japanese-level-design-collab.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Mah-jongg | 100711 | [100711-japanese-mah-jongg.json](./100711-japanese-mah-jongg.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
