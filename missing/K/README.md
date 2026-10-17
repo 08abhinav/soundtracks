@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissrim | 378917 | [378917-kissrim.json](./378917-kissrim.json) |
 | Kisten Royale | 352228 | [352228-kisten-royale.json](./352228-kisten-royale.json) |
 | Kit Cat | 297806 | [297806-kit-cat.json](./297806-kit-cat.json) |
+| KIT-10 | 372211 | [372211-kit-10.json](./372211-kit-10.json) |
 | Kit's Quest | 228634 | [228634-kits-quest.json](./228634-kits-quest.json) |
 | Kita e. Photo Memories | 239082 | [239082-kita-e-photo-memories.json](./239082-kita-e-photo-memories.json) |
 | Kita he: White Illumination | 237433 | [237433-kita-he-white-illumination.json](./237433-kita-he-white-illumination.json) |
