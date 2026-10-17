@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassandra's Fabulous Foray | 67931 | [67931-cassandras-fabulous-foray.json](./67931-cassandras-fabulous-foray.json) |
 | Cassandra's Journey 2: The Fifth Sun of Nostradamus | 56901 | [56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json](./56901-cassandras-journey-2-the-fifth-sun-of-nostradamus.json) |
 | Cassandra's Journey: The Legacy of Nostradamus | 64725 | [64725-cassandras-journey-the-legacy-of-nostradamus.json](./64725-cassandras-journey-the-legacy-of-nostradamus.json) |
+| Casse-Croute Deckbuilder | 399401 | [399401-casse-croute-deckbuilder.json](./399401-casse-croute-deckbuilder.json) |
 | Cassette 50 | 93344 | [93344-cassette-50.json](./93344-cassette-50.json) |
 | Cassette Beasts 2002 | 404378 | [404378-cassette-beasts-2002.json](./404378-cassette-beasts-2002.json) |
 | Cassette Beasts: Deluxe Edition | 251108 | [251108-cassette-beasts-deluxe-edition.json](./251108-cassette-beasts-deluxe-edition.json) |
@@ -4561,6 +4562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess & Chapter | 378398 | [378398-chess-and-chapter.json](./378398-chess-and-chapter.json) |
 | Chess & Guns | 235700 | [235700-chess-and-guns.json](./235700-chess-and-guns.json) |
 | Chess 2 | 296807 | [296807-chess-2.json](./296807-chess-2.json) |
+| Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess Ace | 147861 | [147861-chess-ace.json](./147861-chess-ace.json) |
@@ -10776,6 +10778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
+| Countrytale 2010 | 399409 | [399409-countrytale-2010.json](./399409-countrytale-2010.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
 | County Cricket | 13525 | [13525-county-cricket.json](./13525-county-cricket.json) |
@@ -12675,6 +12678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
+| Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
 | Crows Coming | 245018 | [245018-crows-coming.json](./245018-crows-coming.json) |
@@ -12830,6 +12834,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Penguin | 219233 | [219233-crush-penguin.json](./219233-crush-penguin.json) |
 | Crush Roller | 39641 | [39641-crush-roller.json](./39641-crush-roller.json) |
 | Crush Roller | 72747 | [72747-crush-roller.json](./72747-crush-roller.json) |
+| Crush the Castle 2 Players Pack | 399454 | [399454-crush-the-castle-2-players-pack.json](./399454-crush-the-castle-2-players-pack.json) |
+| Crush the Castle Players Pack | 399453 | [399453-crush-the-castle-players-pack.json](./399453-crush-the-castle-players-pack.json) |
+| Crush the Castle TD | 399451 | [399451-crush-the-castle-td.json](./399451-crush-the-castle-td.json) |
 | Crush the Industry | 158700 | [158700-crush-the-industry.json](./158700-crush-the-industry.json) |
 | Crush the Monsters: Cannon Game | 232398 | [232398-crush-the-monsters-cannon-game.json](./232398-crush-the-monsters-cannon-game.json) |
 | Crush the Rebellion! | 373136 | [373136-crush-the-rebellion.json](./373136-crush-the-rebellion.json) |
@@ -12880,6 +12887,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crymachina | 240141 | [240141-crymachina.json](./240141-crymachina.json) |
 | Crymachina: Standard Uniform Set | 312116 | [312116-crymachina-standard-uniform-set.json](./312116-crymachina-standard-uniform-set.json) |
 | Crymachina: Trinity Set | 312115 | [312115-crymachina-trinity-set.json](./312115-crymachina-trinity-set.json) |
+| Crymelight | 399408 | [399408-crymelight.json](./399408-crymelight.json) |
+| Crymelight: Tea Party Box | 399436 | [399436-crymelight-tea-party-box.json](./399436-crymelight-tea-party-box.json) |
 | Cryo | 374688 | [374688-cryo.json](./374688-cryo.json) |
 | Cryodeath VR | 235666 | [235666-cryodeath-vr.json](./235666-cryodeath-vr.json) |
 | Cryogear | 123302 | [123302-cryogear.json](./123302-cryogear.json) |
@@ -13661,6 +13670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
+| Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
 | Cupky Jump | 252157 | [252157-cupky-jump.json](./252157-cupky-jump.json) |
