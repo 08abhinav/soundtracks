@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters to a Friend: Farewell | 186081 | [186081-letters-to-a-friend-farewell.json](./186081-letters-to-a-friend-farewell.json) |
 | Letters to Arralla | 224565 | [224565-letters-to-arralla.json](./224565-letters-to-arralla.json) |
 | Letters to Heaven | 274463 | [274463-letters-to-heaven.json](./274463-letters-to-heaven.json) |
+| Letters to Rosa | 378514 | [378514-letters-to-rosa.json](./378514-letters-to-rosa.json) |
 | Letters to the Metro | 182548 | [182548-letters-to-the-metro.json](./182548-letters-to-the-metro.json) |
 | Letters: Collector's Edition | 193748 | [193748-letters-collectors-edition.json](./193748-letters-collectors-edition.json) |
 | LettersFall 110% | 392794 | [392794-lettersfall-110.json](./392794-lettersfall-110.json) |
