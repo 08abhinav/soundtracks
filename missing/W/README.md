@@ -3079,6 +3079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Egg? | 387592 | [387592-wheres-my-egg.json](./387592-wheres-my-egg.json) |
 | Where’s My Futa Deck? Bonekeep | 393376 | [393376-where-s-my-futa-deck-bonekeep.json](./393376-where-s-my-futa-deck-bonekeep.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
+| Where's my Hentai Deck? | 370463 | [370463-wheres-my-hentai-deck.json](./370463-wheres-my-hentai-deck.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
 | Where's My Kitty | 338374 | [338374-wheres-my-kitty.json](./338374-wheres-my-kitty.json) |
 | Where's My Lunch?! | 170360 | [170360-wheres-my-lunch.json](./170360-wheres-my-lunch.json) |
