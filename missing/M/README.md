@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Patrol Envoy | 311135 | [311135-magic-patrol-envoy.json](./311135-magic-patrol-envoy.json) |
 | Magic Pearls | 70059 | [70059-magic-pearls.json](./70059-magic-pearls.json) |
 | Magic Pen Color Book | 187488 | [187488-magic-pen-color-book.json](./187488-magic-pen-color-book.json) |
+| Magic Pen Tracing Book | 400061 | [400061-magic-pen-tracing-book.json](./400061-magic-pen-tracing-book.json) |
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
@@ -1827,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeruna! Makendo 2: Kimero Yokai Souri | 38265 | [38265-makeruna-makendo-2-kimero-yokai-souri.json](./38265-makeruna-makendo-2-kimero-yokai-souri.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
+| Makeup Artist | 400056 | [400056-makeup-artist.json](./400056-makeup-artist.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Maki Coco | 183316 | [183316-maki-coco.json](./183316-maki-coco.json) |
@@ -2439,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble World | 144745 | [144745-marble-world.json](./144745-marble-world.json) |
 | Marble-O-Tron | 174294 | [174294-marble-o-tron.json](./174294-marble-o-tron.json) |
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
+| Marblearium | 400091 | [400091-marblearium.json](./400091-marblearium.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
 | Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
@@ -10125,6 +10128,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Möbius Drive | 408867 | [408867-mobius-drive.json](./408867-mobius-drive.json) |
 | Mobius Final Fantasy | 21628 | [21628-mobius-final-fantasy.json](./21628-mobius-final-fantasy.json) |
 | Möbius Front '83 | 140436 | [140436-mobius-front-83.json](./140436-mobius-front-83.json) |
+| Möbius Link | 400076 | [400076-mobius-link.json](./400076-mobius-link.json) |
+| Möbius Link 3D | 400075 | [400075-mobius-link-3d.json](./400075-mobius-link-3d.json) |
 | Mobius Theory | 225602 | [225602-mobius-theory.json](./225602-mobius-theory.json) |
 | Möbius Trip | 364643 | [364643-mobius-trip.json](./364643-mobius-trip.json) |
 | Möbler | 118301 | [118301-mobler.json](./118301-mobler.json) |
@@ -10726,6 +10731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys!! | 416023 | [416023-monkeys.json](./416023-monkeys.json) |
 | Monkeyshines | 41566 | [41566-monkeyshines.json](./41566-monkeyshines.json) |
 | Monkeytype | 137456 | [137456-monkeytype.json](./137456-monkeytype.json) |
+| Monmon and the Legendary Banana | 400100 | [400100-monmon-and-the-legendary-banana.json](./400100-monmon-and-the-legendary-banana.json) |
 | MONMUSU | 75970 | [75970-monmusu.json](./75970-monmusu.json) |
 | Monmusu Fight! | 99601 | [99601-monmusu-fight.json](./99601-monmusu-fight.json) |
 | Monmusu Gladiator | 151749 | [151749-monmusu-gladiator.json](./151749-monmusu-gladiator.json) |
@@ -13433,6 +13439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murasaki7 | 127306 | [127306-murasaki7.json](./127306-murasaki7.json) |
 | Murasame | 195164 | [195164-murasame.json](./195164-murasame.json) |
 | Murazu | 81660 | [81660-murazu.json](./81660-murazu.json) |
+| Murazu 2 | 400084 | [400084-murazu-2.json](./400084-murazu-2.json) |
 | Murdeer | 395556 | [395556-murdeer.json](./395556-murdeer.json) |
 | Murder | 14158 | [14158-murder.json](./14158-murder.json) |
 | Murder | 226764 | [226764-murder.json](./226764-murder.json) |
@@ -14081,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Coloring Book: Food and Beverage | 76785 | [76785-my-coloring-book-food-and-beverage.json](./76785-my-coloring-book-food-and-beverage.json) |
 | My Coloring Book: Professions | 82285 | [82285-my-coloring-book-professions.json](./82285-my-coloring-book-professions.json) |
 | My Coloring Book: Transport | 81110 | [81110-my-coloring-book-transport.json](./81110-my-coloring-book-transport.json) |
+| My Coloring Books: 2 in 1 Bundle | 400069 | [400069-my-coloring-books-2-in-1-bundle.json](./400069-my-coloring-books-2-in-1-bundle.json) |
 | My Company and I Fell Into an RPG | 132217 | [132217-my-company-and-i-fell-into-an-rpg.json](./132217-my-company-and-i-fell-into-an-rpg.json) |
 | My Confounding Cat is Criminally Cute! | 284911 | [284911-my-confounding-cat-is-criminally-cute.json](./284911-my-confounding-cat-is-criminally-cute.json) |
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
