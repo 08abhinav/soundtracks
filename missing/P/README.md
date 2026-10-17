@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
+| Pavane: See No Evil | 396445 | [396445-pavane-see-no-evil.json](./396445-pavane-see-no-evil.json) |
 | Pavel Quest | 35333 | [35333-pavel-quest.json](./35333-pavel-quest.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
@@ -7937,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Go: World of Wonders | 383000 | [383000-pokemon-go-world-of-wonders.json](./383000-pokemon-go-world-of-wonders.json) |
 | Pokémon Goita | 377713 | [377713-pokemon-goita.json](./377713-pokemon-goita.json) |
 | Pokémon Gold and Silver 97: Reforged | 203224 | [203224-pokemon-gold-and-silver-97-reforged.json](./203224-pokemon-gold-and-silver-97-reforged.json) |
+| Pokémon Golden Shield | 396519 | [396519-pokemon-golden-shield.json](./396519-pokemon-golden-shield.json) |
 | Pokémon Grand Colosseum | 212982 | [212982-pokemon-grand-colosseum.json](./212982-pokemon-grand-colosseum.json) |
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
@@ -11190,6 +11192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Liminal Redux | 242479 | [242479-project-liminal-redux.json](./242479-project-liminal-redux.json) |
 | Project LMDE | 314571 | [314571-project-lmde.json](./314571-project-lmde.json) |
 | Project Lodus | 64744 | [64744-project-lodus.json](./64744-project-lodus.json) |
+| Project Looking Glass | 396343 | [396343-project-looking-glass.json](./396343-project-looking-glass.json) |
 | Project Loro | 262690 | [262690-project-loro.json](./262690-project-loro.json) |
 | Project Lounge | 31895 | [31895-project-lounge.json](./31895-project-lounge.json) |
 | Project Luminext | 372653 | [372653-project-luminext.json](./372653-project-luminext.json) |
