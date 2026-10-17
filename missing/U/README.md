@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UltiMage | 385191 | [385191-ultimage.json](./385191-ultimage.json) |
 | Ultimagus | 29845 | [29845-ultimagus.json](./29845-ultimagus.json) |
 | UltiMahjong | 289928 | [289928-ultimahjong.json](./289928-ultimahjong.json) |
+| Ultimate 14 | 394604 | [394604-ultimate-14.json](./394604-ultimate-14.json) |
 | Ultimate 1v1 | 125902 | [125902-ultimate-1v1.json](./125902-ultimate-1v1.json) |
 | Ultimate 20-Game Bundle | 392766 | [392766-ultimate-20-game-bundle.json](./392766-ultimate-20-game-bundle.json) |
 | Ultimate 4x4 Offroad Parking Trucks: Car Driving Racing Simulator 2023 | 242976 | [242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json](./242976-ultimate-4x4-offroad-parking-trucks-car-driving-racing-simulator-2023.json) |
@@ -476,6 +477,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
 | Ultimate Puzzles 500 | 206622 | [206622-ultimate-puzzles-500.json](./206622-ultimate-puzzles-500.json) |
+| Ultimate Quake | 394629 | [394629-ultimate-quake.json](./394629-ultimate-quake.json) |
+| Ultimate Quake | 394631 | [394631-ultimate-quake.json](./394631-ultimate-quake.json) |
 | Ultimate Quest: Journey to the Far Side of Possible | 7513 | [7513-ultimate-quest-journey-to-the-far-side-of-possible.json](./7513-ultimate-quest-journey-to-the-far-side-of-possible.json) |
 | Ultimate Race Pro | 47121 | [47121-ultimate-race-pro.json](./47121-ultimate-race-pro.json) |
 | Ultimate Racing 2D | 99538 | [99538-ultimate-racing-2d.json](./99538-ultimate-racing-2d.json) |
