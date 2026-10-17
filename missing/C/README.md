@@ -6345,7 +6345,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
 | Citizen Siege | 72778 | [72778-citizen-siege.json](./72778-citizen-siege.json) |
-| Citizen Sleeper | 152271 | [152271-citizen-sleeper.json](./152271-citizen-sleeper.json) |
 | Citizen Sleeper: Deluxe Edition | 200501 | [200501-citizen-sleeper-deluxe-edition.json](./200501-citizen-sleeper-deluxe-edition.json) |
 | Citizen Sleeper: Episode - Flux | 210738 | [210738-citizen-sleeper-episode-flux.json](./210738-citizen-sleeper-episode-flux.json) |
 | Citizen Sleeper: Episode - Refuge | 223060 | [223060-citizen-sleeper-episode-refuge.json](./223060-citizen-sleeper-episode-refuge.json) |
