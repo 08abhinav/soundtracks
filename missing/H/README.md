@@ -6743,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
+| Hook of Abyss | 379109 | [379109-hook-of-abyss.json](./379109-hook-of-abyss.json) |
 | Hook Only | 144607 | [144607-hook-only.json](./144607-hook-only.json) |
 | Hook Party Arena | 412323 | [412323-hook-party-arena.json](./412323-hook-party-arena.json) |
 | Hook Up: The Game | 223037 | [223037-hook-up-the-game.json](./223037-hook-up-the-game.json) |
@@ -7488,6 +7489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
 | Hotel 8 | 409218 | [409218-hotel-8.json](./409218-hotel-8.json) |
+| Hotel Abyss | 379089 | [379089-hotel-abyss.json](./379089-hotel-abyss.json) |
 | Hotel Afterlife | 128907 | [128907-hotel-afterlife.json](./128907-hotel-afterlife.json) |
 | Hotel Alien | 229368 | [229368-hotel-alien.json](./229368-hotel-alien.json) |
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
@@ -7715,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Plague 0 | 107907 | [107907-house-of-plague-0.json](./107907-house-of-plague-0.json) |
 | House of Portals VR | 154384 | [154384-house-of-portals-vr.json](./154384-house-of-portals-vr.json) |
 | House of Rules | 169138 | [169138-house-of-rules.json](./169138-house-of-rules.json) |
+| House of Saturn | 379191 | [379191-house-of-saturn.json](./379191-house-of-saturn.json) |
 | House of Shadow | 230907 | [230907-house-of-shadow.json](./230907-house-of-shadow.json) |
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
@@ -8446,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter: Brotherhood | 409233 | [409233-hunter-brotherhood.json](./409233-hunter-brotherhood.json) |
+| Hunter: Into the Abyss | 379090 | [379090-hunter-into-the-abyss.json](./379090-hunter-into-the-abyss.json) |
 | Hunter: Red Star | 409232 | [409232-hunter-red-star.json](./409232-hunter-red-star.json) |
 | Hunter: Snowfall | 409231 | [409231-hunter-snowfall.json](./409231-hunter-snowfall.json) |
 | Hunter: The Reckoning | 3950 | [3950-hunter-the-reckoning.json](./3950-hunter-the-reckoning.json) |
