@@ -13087,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
 | Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
+| Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | Dunkshot | 41809 | [41809-dunkshot.json](./41809-dunkshot.json) |
@@ -13242,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVD Survivors | 395479 | [395479-dvd-survivors.json](./395479-dvd-survivors.json) |
 | DvDrum, Ultimate Drum Simulator! | 27206 | [27206-dvdrum-ultimate-drum-simulator.json](./27206-dvdrum-ultimate-drum-simulator.json) |
 | Dvergatal: Thorin's Quest | 178420 | [178420-dvergatal-thorins-quest.json](./178420-dvergatal-thorins-quest.json) |
+| Dverghold | 380832 | [380832-dverghold.json](./380832-dverghold.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
