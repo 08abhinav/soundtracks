@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Bar Fight VR | 198447 | [198447-galactic-bar-fight-vr.json](./198447-galactic-bar-fight-vr.json) |
 | Galactic Battle | 73707 | [73707-galactic-battle.json](./73707-galactic-battle.json) |
 | Galactic Battles | 81951 | [81951-galactic-battles.json](./81951-galactic-battles.json) |
+| Galactic Blasters BR: Artist's Faith | 366568 | [366568-galactic-blasters-br-artists-faith.json](./366568-galactic-blasters-br-artists-faith.json) |
 | Galactic Blasters D: Future Darkness | 336165 | [336165-galactic-blasters-d-future-darkness.json](./336165-galactic-blasters-d-future-darkness.json) |
 | Galactic Blasters D2: Brilliant Supernova | 265931 | [265931-galactic-blasters-d2-brilliant-supernova.json](./265931-galactic-blasters-d2-brilliant-supernova.json) |
 | Galactic Blitz | 22560 | [22560-galactic-blitz.json](./22560-galactic-blitz.json) |
@@ -6500,6 +6501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
 | Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
+| GridBeat! | 366584 | [366584-gridbeat.json](./366584-gridbeat.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
 | Gridbusters | 382494 | [382494-gridbusters.json](./382494-gridbusters.json) |
