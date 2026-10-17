@@ -6246,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAF: Final Purgatory | 184290 | [184290-fnaf-final-purgatory.json](./184290-fnaf-final-purgatory.json) |
 | FNAF: Killer in Purple 2 | 383052 | [383052-fnaf-killer-in-purple-2.json](./383052-fnaf-killer-in-purple-2.json) |
 | FNaF: Wii U Edition | 357443 | [357443-fnaf-wii-u-edition.json](./357443-fnaf-wii-u-edition.json) |
+| FNAFB: Desk Fan's Particularly Unusual Journey - Refreshed Edition | 373849 | [373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json](./373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json) |
 | FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
