@@ -4431,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pics Towers of Defense | 110275 | [110275-pics-towers-of-defense.json](./110275-pics-towers-of-defense.json) |
 | Picscape | 339347 | [339347-picscape.json](./339347-picscape.json) |
 | Pictassembler | 127178 | [127178-pictassembler.json](./127178-pictassembler.json) |
+| Pictective | 373272 | [373272-pictective.json](./373272-pictective.json) |
 | Picterra | 305957 | [305957-picterra.json](./305957-picterra.json) |
 | Pictionary | 92052 | [92052-pictionary.json](./92052-pictionary.json) |
 | Pictionary: The Game of Video Quick Draw | 48224 | [48224-pictionary-the-game-of-video-quick-draw.json](./48224-pictionary-the-game-of-video-quick-draw.json) |
@@ -9780,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Wallace & Gromit Special Pack | 327786 | [327786-powerwash-simulator-wallace-and-gromit-special-pack.json](./327786-powerwash-simulator-wallace-and-gromit-special-pack.json) |
 | PowerWash Simulator: Warhammer 40,000 Content Pack | 251220 | [251220-powerwash-simulator-warhammer-40-000-content-pack.json](./251220-powerwash-simulator-warhammer-40-000-content-pack.json) |
 | PowerZ | 146317 | [146317-powerz.json](./146317-powerz.json) |
+| Powwow Bound: A Menominee Homecoming | 373288 | [373288-powwow-bound-a-menominee-homecoming.json](./373288-powwow-bound-a-menominee-homecoming.json) |
 | Pox Nora | 9595 | [9595-pox-nora.json](./9595-pox-nora.json) |
 | Poxel.io | 349951 | [349951-poxel-io.json](./349951-poxel-io.json) |
 | Poy Poy | 45092 | [45092-poy-poy.json](./45092-poy-poy.json) |
@@ -11714,6 +11716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protagonist Complex One | 392146 | [392146-protagonist-complex-one.json](./392146-protagonist-complex-one.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
+| Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
@@ -12836,6 +12839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Battler! Mirai | 188906 | [188906-puzzle-battler-mirai.json](./188906-puzzle-battler-mirai.json) |
 | Puzzle Bear | 121019 | [121019-puzzle-bear.json](./121019-puzzle-bear.json) |
 | Puzzle Bebop | 104230 | [104230-puzzle-bebop.json](./104230-puzzle-bebop.json) |
+| Puzzle Blast | 373279 | [373279-puzzle-blast.json](./373279-puzzle-blast.json) |
 | Puzzle Blast | 92943 | [92943-puzzle-blast.json](./92943-puzzle-blast.json) |
 | Puzzle Block - Glow Block Game | 91289 | [91289-puzzle-block-glow-block-game.json](./91289-puzzle-block-glow-block-game.json) |
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
