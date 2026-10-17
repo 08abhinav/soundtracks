@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off Shore | 223164 | [223164-off-shore.json](./223164-off-shore.json) |
 | Off Shore Warrior | 69492 | [69492-off-shore-warrior.json](./69492-off-shore-warrior.json) |
 | Off Target | 379893 | [379893-off-target.json](./379893-off-target.json) |
+| Off the Beaten Track | 391626 | [391626-off-the-beaten-track.json](./391626-off-the-beaten-track.json) |
 | Off the Chains Disc Golf | 170247 | [170247-off-the-chains-disc-golf.json](./170247-off-the-chains-disc-golf.json) |
 | Off the Clock | 184363 | [184363-off-the-clock.json](./184363-off-the-clock.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollam House | 128628 | [128628-ollam-house.json](./128628-ollam-house.json) |
 | Olli & Lissa 3: The Candlelight Adventure | 70920 | [70920-olli-and-lissa-3-the-candlelight-adventure.json](./70920-olli-and-lissa-3-the-candlelight-adventure.json) |
 | Ollie & Bollie: Outdoor Estate | 129660 | [129660-ollie-and-bollie-outdoor-estate.json](./129660-ollie-and-bollie-outdoor-estate.json) |
+| Ollie and the Merchant of Dreams | 391564 | [391564-ollie-and-the-merchant-of-dreams.json](./391564-ollie-and-the-merchant-of-dreams.json) |
 | Ollie Ollie Oxen Free | 60010 | [60010-ollie-ollie-oxen-free.json](./60010-ollie-ollie-oxen-free.json) |
 | Ollie's Follies | 25896 | [25896-ollies-follies.json](./25896-ollies-follies.json) |
 | Ollie's Manor | 196536 | [196536-ollies-manor.json](./196536-ollies-manor.json) |
