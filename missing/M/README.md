@@ -6431,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercs | 4487 | [4487-mercs.json](./4487-mercs.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
 | Mercs Inc. | 80407 | [80407-mercs-inc.json](./80407-mercs-inc.json) |
+| Mercuria: Mizu no Miyako ni Koi no Hanataba wo | 411400 | [411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json](./411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
@@ -12347,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
 | Motocross Championship | 19779 | [19779-motocross-championship.json](./19779-motocross-championship.json) |
 | Motocross Evolution 2025 | 384822 | [384822-motocross-evolution-2025.json](./384822-motocross-evolution-2025.json) |
+| Motocross Extreme Racing 3D | 411457 | [411457-motocross-extreme-racing-3d.json](./411457-motocross-extreme-racing-3d.json) |
 | Motocross Go! | 129113 | [129113-motocross-go.json](./129113-motocross-go.json) |
 | Motocross Madness | 10260 | [10260-motocross-madness.json](./10260-motocross-madness.json) |
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
