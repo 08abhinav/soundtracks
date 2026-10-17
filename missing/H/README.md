@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haram | 228947 | [228947-haram.json](./228947-haram.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
+| Harapeko Einya | 368239 | [368239-harapeko-einya.json](./368239-harapeko-einya.json) |
 | Harapeko Pakkun | 97795 | [97795-harapeko-pakkun.json](./97795-harapeko-pakkun.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
 | Harbinger | 315204 | [315204-harbinger.json](./315204-harbinger.json) |
@@ -5753,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History in Letters - The Eternal Alchemist | 36226 | [36226-history-in-letters-the-eternal-alchemist.json](./36226-history-in-letters-the-eternal-alchemist.json) |
 | History Lesson | 139388 | [139388-history-lesson.json](./139388-history-lesson.json) |
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
+| History of Korea: VR | 368266 | [368266-history-of-korea-vr.json](./368266-history-of-korea-vr.json) |
 | History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
