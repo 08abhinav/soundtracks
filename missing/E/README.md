@@ -4146,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
+| Eternal Blade | 412325 | [412325-eternal-blade.json](./412325-eternal-blade.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
 | Eternal Burden | 291892 | [291892-eternal-burden.json](./291892-eternal-burden.json) |
 | Eternal Chamber | 422463 | [422463-eternal-chamber.json](./422463-eternal-chamber.json) |
