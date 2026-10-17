@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why the Long Gun? | 364607 | [364607-why-the-long-gun.json](./364607-why-the-long-gun.json) |
 | Why the Wrong Face? | 273872 | [273872-why-the-wrong-face.json](./273872-why-the-wrong-face.json) |
 | Why? | 335243 | [335243-why.json](./335243-why.json) |
+| Why's It Getting Darker?! | 374922 | [374922-whys-it-getting-darker.json](./374922-whys-it-getting-darker.json) |
 | WhyImmortal | 289897 | [289897-whyimmortal.json](./289897-whyimmortal.json) |
 | Whys & Wonders Secrets of Our Bodies | 409656 | [409656-whys-and-wonders-secrets-of-our-bodies.json](./409656-whys-and-wonders-secrets-of-our-bodies.json) |
 | Wi-fi Dungeon: Organism Online | 272466 | [272466-wi-fi-dungeon-organism-online.json](./272466-wi-fi-dungeon-organism-online.json) |
