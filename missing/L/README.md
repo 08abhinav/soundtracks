@@ -6274,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Anemone | 184905 | [184905-lovely-anemone.json](./184905-lovely-anemone.json) |
 | Lovely Animal Stories | 173201 | [173201-lovely-animal-stories.json](./173201-lovely-animal-stories.json) |
 | Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
+| Lovely Anime Puzzle: Easter | 397639 | [397639-lovely-anime-puzzle-easter.json](./397639-lovely-anime-puzzle-easter.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
