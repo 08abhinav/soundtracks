@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing In the Moonlight | 155871 | [155871-dancing-in-the-moonlight.json](./155871-dancing-in-the-moonlight.json) |
 | Dancing Lights | 256241 | [256241-dancing-lights.json](./256241-dancing-lights.json) |
 | Dancing Line | 87048 | [87048-dancing-line.json](./87048-dancing-line.json) |
+| Dancing Line: Community Edition | 393403 | [393403-dancing-line-community-edition.json](./393403-dancing-line-community-edition.json) |
 | Dancing Monster | 13836 | [13836-dancing-monster.json](./13836-dancing-monster.json) |
 | Dancing on Ice | 20419 | [20419-dancing-on-ice.json](./20419-dancing-on-ice.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
@@ -9430,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Brain | 238985 | [238985-dot-brain.json](./238985-dot-brain.json) |
 | Dot by Dot+ | 19383 | [19383-dot-by-dot.json](./19383-dot-by-dot.json) |
 | Dot Clicker | 411575 | [411575-dot-clicker.json](./411575-dot-clicker.json) |
+| Dot Com Mystery | 393383 | [393383-dot-com-mystery.json](./393383-dot-com-mystery.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
 | Dot Hop | 295803 | [295803-dot-hop.json](./295803-dot-hop.json) |
