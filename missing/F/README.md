@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | Farmyard Survivors | 332969 | [332969-farmyard-survivors.json](./332969-farmyard-survivors.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
+| Faro | 377923 | [377923-faro.json](./377923-faro.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
@@ -4027,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding fairies | 254582 | [254582-finding-fairies.json](./254582-finding-fairies.json) |
+| Finding Father | 377928 | [377928-finding-father.json](./377928-finding-father.json) |
 | Finding Felicia | 208335 | [208335-finding-felicia.json](./208335-finding-felicia.json) |
 | Finding Fern | 239659 | [239659-finding-fern.json](./239659-finding-fern.json) |
 | Finding Fido: The Journey | 150978 | [150978-finding-fido-the-journey.json](./150978-finding-fido-the-journey.json) |
@@ -4419,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
 | Firesky | 291184 | [291184-firesky.json](./291184-firesky.json) |
 | Firesoul | 217401 | [217401-firesoul.json](./217401-firesoul.json) |
+| FiresOut! | 377948 | [377948-firesout.json](./377948-firesout.json) |
 | Firestarter | 183894 | [183894-firestarter.json](./183894-firestarter.json) |
 | Firestarter | 78049 | [78049-firestarter.json](./78049-firestarter.json) |
 | FireStarter 2 | 312720 | [312720-firestarter-2.json](./312720-firestarter-2.json) |
@@ -6157,6 +6160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Saucer | 358845 | [358845-flying-saucer.json](./358845-flying-saucer.json) |
 | Flying Saucer | 73751 | [73751-flying-saucer.json](./73751-flying-saucer.json) |
 | Flying Saucers | 230866 | [230866-flying-saucers.json](./230866-flying-saucers.json) |
+| Flying Shark | 377902 | [377902-flying-shark.json](./377902-flying-shark.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
 | Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
 | Flying Sofa Simulator | 169350 | [169350-flying-sofa-simulator.json](./169350-flying-sofa-simulator.json) |
