@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Paradise 2 | 404248 | [404248-dead-paradise-2.json](./404248-dead-paradise-2.json) |
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
 | Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
+| Dead Party | 397029 | [397029-dead-party.json](./397029-dead-party.json) |
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
 | Dead Petals Bliss | 258547 | [258547-dead-petals-bliss.json](./258547-dead-petals-bliss.json) |
