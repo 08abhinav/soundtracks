@@ -3880,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go home, you're drunk! | 134345 | [134345-go-home-youre-drunk.json](./134345-go-home-youre-drunk.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
 | Go Kart Go! Ultra! | 176208 | [176208-go-kart-go-ultra.json](./176208-go-kart-go-ultra.json) |
+| Go Kart Island | 369864 | [369864-go-kart-island.json](./369864-go-kart-island.json) |
 | Go Kart Mania: Discovery Edition | 332509 | [332509-go-kart-mania-discovery-edition.json](./332509-go-kart-mania-discovery-edition.json) |
 | Go Kart Mania: Premium Edition | 317255 | [317255-go-kart-mania-premium-edition.json](./317255-go-kart-mania-premium-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
