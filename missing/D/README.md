@@ -5749,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Divine Intervention | 380541 | [380541-diablo-iv-season-of-divine-intervention.json](./380541-diablo-iv-season-of-divine-intervention.json) |
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
+| Diablo IV: Season of Reckoning | 403538 | [403538-diablo-iv-season-of-reckoning.json](./403538-diablo-iv-season-of-reckoning.json) |
 | Diablo IV: Season of the Construct | 283102 | [283102-diablo-iv-season-of-the-construct.json](./283102-diablo-iv-season-of-the-construct.json) |
 | Diablo IV: Season of the Infernal Hordes | 312216 | [312216-diablo-iv-season-of-the-infernal-hordes.json](./312216-diablo-iv-season-of-the-infernal-hordes.json) |
 | Diablo IV: Season of Witchcraft | 328937 | [328937-diablo-iv-season-of-witchcraft.json](./328937-diablo-iv-season-of-witchcraft.json) |
@@ -9532,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
 | Double Dribble | 4699 | [4699-double-dribble.json](./4699-double-dribble.json) |
 | Double Dribble: 5 on 5 | 48952 | [48952-double-dribble-5-on-5.json](./48952-double-dribble-5-on-5.json) |
+| Double Duck | 403447 | [403447-double-duck.json](./403447-double-duck.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
 | Double Eagle | 98257 | [98257-double-eagle.json](./98257-double-eagle.json) |
