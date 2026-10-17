@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Girl in High School | 223998 | [223998-only-girl-in-high-school.json](./223998-only-girl-in-high-school.json) |
 | Only Go Up 2 | 370819 | [370819-only-go-up-2.json](./370819-only-go-up-2.json) |
 | Only Golf | 291397 | [291397-only-golf.json](./291397-only-golf.json) |
+| Only Good Babysitters Go to Heaven | 410495 | [410495-only-good-babysitters-go-to-heaven.json](./410495-only-good-babysitters-go-to-heaven.json) |
 | Only High | 291144 | [291144-only-high.json](./291144-only-high.json) |
 | Only Hope: Episode 1 | 170917 | [170917-only-hope-episode-1.json](./170917-only-hope-episode-1.json) |
 | Only Hope: Episode 2 | 170919 | [170919-only-hope-episode-2.json](./170919-only-hope-episode-2.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OtterQuest | 188488 | [188488-otterquest.json](./188488-otterquest.json) |
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
 | Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
+| Ottifanten: Ostfriesen Lemminge in Not | 410100 | [410100-ottifanten-ostfriesen-lemminge-in-not.json](./410100-ottifanten-ostfriesen-lemminge-in-not.json) |
 | Otto | 103268 | [103268-otto.json](./103268-otto.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
 | Otto Dokkoi | 385333 | [385333-otto-dokkoi.json](./385333-otto-dokkoi.json) |
