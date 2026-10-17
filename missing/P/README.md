@@ -1341,6 +1341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
+| Parabellum: Artifacts of War | 400701 | [400701-parabellum-artifacts-of-war.json](./400701-parabellum-artifacts-of-war.json) |
 | Parable Academy | 346708 | [346708-parable-academy.json](./346708-parable-academy.json) |
 | Parables of the Set Apart: The Pursuit of Wisdom | 387530 | [387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json](./387530-parables-of-the-set-apart-the-pursuit-of-wisdom.json) |
 | Parabolus | 82317 | [82317-parabolus.json](./82317-parabolus.json) |
@@ -7957,6 +7958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Lost World: Echoes of Eternity | 360181 | [360181-pokemon-lost-world-echoes-of-eternity.json](./360181-pokemon-lost-world-echoes-of-eternity.json) |
 | Pokémon LuigiGreen | 372605 | [372605-pokemon-luigigreen.json](./372605-pokemon-luigigreen.json) |
 | Pokémon Luminescent Platinum | 199621 | [199621-pokemon-luminescent-platinum.json](./199621-pokemon-luminescent-platinum.json) |
+| Pokemon Luminous Lands | 400684 | [400684-pokemon-luminous-lands.json](./400684-pokemon-luminous-lands.json) |
 | Pokémon MarioRed | 372602 | [372602-pokemon-mariored.json](./372602-pokemon-mariored.json) |
 | Pokémon Masters | 119156 | [119156-pokemon-masters.json](./119156-pokemon-masters.json) |
 | Pokémon Masters EX | 144248 | [144248-pokemon-masters-ex.json](./144248-pokemon-masters-ex.json) |
@@ -9107,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Shipping Tycoon | 351718 | [351718-port-shipping-tycoon.json](./351718-port-shipping-tycoon.json) |
 | Port Simulator 2012 - Hamburg | 54282 | [54282-port-simulator-2012-hamburg.json](./54282-port-simulator-2012-hamburg.json) |
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
+| Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
 | Portability | 159769 | [159769-portability.json](./159769-portability.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
@@ -9819,6 +9822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
 | Prehistoric Isle 2 | 39280 | [39280-prehistoric-isle-2.json](./39280-prehistoric-isle-2.json) |
 | Prehistoric Kingdom | 54499 | [54499-prehistoric-kingdom.json](./54499-prehistoric-kingdom.json) |
+| Prehistoric Pack | 400660 | [400660-prehistoric-pack.json](./400660-prehistoric-pack.json) |
 | Prehistoric Park | 62709 | [62709-prehistoric-park.json](./62709-prehistoric-park.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
@@ -11114,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Haven | 124008 | [124008-project-haven.json](./124008-project-haven.json) |
 | Project Heartbeat | 130920 | [130920-project-heartbeat.json](./130920-project-heartbeat.json) |
 | Project Hedra | 53481 | [53481-project-hedra.json](./53481-project-hedra.json) |
+| Project Heist Boss | 400669 | [400669-project-heist-boss.json](./400669-project-heist-boss.json) |
 | Project Helix | 317608 | [317608-project-helix.json](./317608-project-helix.json) |
 | Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
 | Project Highrise | 20875 | [20875-project-highrise.json](./20875-project-highrise.json) |
