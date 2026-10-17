@@ -568,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Languages | 299151 | [299151-lands-of-languages.json](./299151-lands-of-languages.json) |
 | Lands of Lore: Guardians of Destiny | 2494 | [2494-lands-of-lore-guardians-of-destiny.json](./2494-lands-of-lore-guardians-of-destiny.json) |
 | Lands of Lore: The Throne of Chaos | 2528 | [2528-lands-of-lore-the-throne-of-chaos.json](./2528-lands-of-lore-the-throne-of-chaos.json) |
+| Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
 | Lands of the Lost | 102962 | [102962-lands-of-the-lost.json](./102962-lands-of-the-lost.json) |
@@ -1179,6 +1180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latto-Latto Simulator | 233453 | [233453-latto-latto-simulator.json](./233453-latto-latto-simulator.json) |
 | Laufen Und Raufen | 122036 | [122036-laufen-und-raufen.json](./122036-laufen-und-raufen.json) |
 | Laugh & Learn: Animal Sounds | 101577 | [101577-laugh-and-learn-animal-sounds.json](./101577-laugh-and-learn-animal-sounds.json) |
+| Laugh Track | 364882 | [364882-laugh-track.json](./364882-laugh-track.json) |
 | Laughing in the Wind Mobile | 174880 | [174880-laughing-in-the-wind-mobile.json](./174880-laughing-in-the-wind-mobile.json) |
 | Laughing to Die | 267571 | [267571-laughing-to-die.json](./267571-laughing-to-die.json) |
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
