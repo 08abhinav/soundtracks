@@ -8186,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans 1 and 2 | 92922 | [92922-humans-1-and-2.json](./92922-humans-1-and-2.json) |
 | Humans 101 | 121405 | [121405-humans-101.json](./121405-humans-101.json) |
 | Humans 3: Evolution - Lost in Time | 39031 | [39031-humans-3-evolution-lost-in-time.json](./39031-humans-3-evolution-lost-in-time.json) |
+| Humans are not that against Lizardwomen 2 | 385970 | [385970-humans-are-not-that-against-lizardwomen-2.json](./385970-humans-are-not-that-against-lizardwomen-2.json) |
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
@@ -8788,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperBrawl Tournament | 29495 | [29495-hyperbrawl-tournament.json](./29495-hyperbrawl-tournament.json) |
 | HyperBrawl Tournament: Ultimate Edition | 188012 | [188012-hyperbrawl-tournament-ultimate-edition.json](./188012-hyperbrawl-tournament-ultimate-edition.json) |
 | Hyperburner | 94780 | [94780-hyperburner.json](./94780-hyperburner.json) |
+| Hypercar Evolution 2025 | 385977 | [385977-hypercar-evolution-2025.json](./385977-hypercar-evolution-2025.json) |
 | Hypercharge: Unboxed | 39758 | [39758-hypercharge-unboxed.json](./39758-hypercharge-unboxed.json) |
 | Hypercharge: Unboxed - Complete Edition | 227408 | [227408-hypercharge-unboxed-complete-edition.json](./227408-hypercharge-unboxed-complete-edition.json) |
 | Hyperchase Auto Race | 41990 | [41990-hyperchase-auto-race.json](./41990-hyperchase-auto-race.json) |
