@@ -5316,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift: Nightmare Tide | 19322 | [19322-rift-nightmare-tide.json](./19322-rift-nightmare-tide.json) |
 | Rift: Storm Legion | 1935 | [1935-rift-storm-legion.json](./1935-rift-storm-legion.json) |
 | Rift's Cave | 36079 | [36079-rifts-cave.json](./36079-rifts-cave.json) |
+| Riftborn | 370459 | [370459-riftborn.json](./370459-riftborn.json) |
 | Riftborne | 398474 | [398474-riftborne.json](./398474-riftborne.json) |
 | Riftcast | 311635 | [311635-riftcast.json](./311635-riftcast.json) |
 | Rifted Worlds | 280439 | [280439-rifted-worlds.json](./280439-rifted-worlds.json) |
@@ -8051,6 +8052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette Simulator 2 | 385989 | [385989-roulette-simulator-2.json](./385989-roulette-simulator-2.json) |
 | Roulette Simulator 2024 | 266804 | [266804-roulette-simulator-2024.json](./266804-roulette-simulator-2024.json) |
 | Roulette Simulator 2025 | 310503 | [310503-roulette-simulator-2025.json](./310503-roulette-simulator-2025.json) |
+| Roulette Simulator 2026 | 370421 | [370421-roulette-simulator-2026.json](./370421-roulette-simulator-2026.json) |
 | Roulette VIP | 256252 | [256252-roulette-vip.json](./256252-roulette-vip.json) |
 | Round 99 | 140300 | [140300-round-99.json](./140300-round-99.json) |
 | Round About | 25858 | [25858-round-about.json](./25858-round-about.json) |
@@ -8282,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
 | RPG Quiz | 368498 | [368498-rpg-quiz.json](./368498-rpg-quiz.json) |
+| RPG Stories | 370445 | [370445-rpg-stories.json](./370445-rpg-stories.json) |
 | RPG Time: The Legend of Wright | 110395 | [110395-rpg-time-the-legend-of-wright.json](./110395-rpg-time-the-legend-of-wright.json) |
 | RPG Town | 217297 | [217297-rpg-town.json](./217297-rpg-town.json) |
 | RPG Tsukuuru 2 Taiou Data: BS Kure-kure Mou Race | 150574 | [150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json](./150574-rpg-tsukuuru-2-taiou-data-bs-kure-kure-mou-race.json) |
@@ -9135,6 +9138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
 | Rust | 299432 | [299432-rust.json](./299432-rust.json) |
 | Rust 'n Dust | 165693 | [165693-rust-n-dust.json](./165693-rust-n-dust.json) |
+| Rust & Roots | 370442 | [370442-rust-and-roots.json](./370442-rust-and-roots.json) |
 | Rust and Resolve | 244213 | [244213-rust-and-resolve.json](./244213-rust-and-resolve.json) |
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
