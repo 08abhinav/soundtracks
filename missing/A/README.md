@@ -481,7 +481,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
 | A Little Shop in Squirrel Town | 139714 | [139714-a-little-shop-in-squirrel-town.json](./139714-a-little-shop-in-squirrel-town.json) |
 | A Little Time | 158419 | [158419-a-little-time.json](./158419-a-little-time.json) |
-| A Little to the Left | 152180 | [152180-a-little-to-the-left.json](./152180-a-little-to-the-left.json) |
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Extra Tidy Bundle | 312836 | [312836-a-little-to-the-left-extra-tidy-bundle.json](./312836-a-little-to-the-left-extra-tidy-bundle.json) |
