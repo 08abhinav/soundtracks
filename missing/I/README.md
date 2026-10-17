@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icy Tower 2 | 326628 | [326628-icy-tower-2.json](./326628-icy-tower-2.json) |
 | Icy Tower Classic | 18096 | [18096-icy-tower-classic.json](./18096-icy-tower-classic.json) |
 | ICY: Frostbite Edition | 52095 | [52095-icy-frostbite-edition.json](./52095-icy-frostbite-edition.json) |
+| Icycle | 395111 | [395111-icycle.json](./395111-icycle.json) |
 | iD | 172035 | [172035-id.json](./172035-id.json) |
 | id Action Pack Vol. 3 | 222855 | [222855-id-action-pack-vol-3.json](./222855-id-action-pack-vol-3.json) |
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniroom | 120229 | [120229-infiniroom.json](./120229-infiniroom.json) |
 | InfiniSweeper | 375573 | [375573-infinisweeper.json](./375573-infinisweeper.json) |
 | Infinita Strada | 61682 | [61682-infinita-strada.json](./61682-infinita-strada.json) |
+| Infinita Strada Hana | 395246 | [395246-infinita-strada-hana.json](./395246-infinita-strada-hana.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
@@ -3297,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Parker | 73549 | [73549-inspector-parker.json](./73549-inspector-parker.json) |
 | Inspector Parker Unsolved | 50858 | [50858-inspector-parker-unsolved.json](./50858-inspector-parker-unsolved.json) |
 | Inspector Schmidt: The Ebbing | 306585 | [306585-inspector-schmidt-the-ebbing.json](./306585-inspector-schmidt-the-ebbing.json) |
+| Inspector Waffles Full Story | 395289 | [395289-inspector-waffles-full-story.json](./395289-inspector-waffles-full-story.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | Inspektor | 366726 | [366726-inspektor.json](./366726-inspektor.json) |
 | Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
@@ -4140,6 +4143,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man: Aerial Assault | 69167 | [69167-iron-man-aerial-assault.json](./69167-iron-man-aerial-assault.json) |
 | Iron Man: Mushroom Avenger | 308982 | [308982-iron-man-mushroom-avenger.json](./308982-iron-man-mushroom-avenger.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
+| Iron Marines: Hero Ajax | 395272 | [395272-iron-marines-hero-ajax.json](./395272-iron-marines-hero-ajax.json) |
+| Iron Marines: Hero Blue Dragon | 395274 | [395274-iron-marines-hero-blue-dragon.json](./395274-iron-marines-hero-blue-dragon.json) |
+| Iron Marines: Hero Dr.Graff | 395273 | [395273-iron-marines-hero-dr-graff.json](./395273-iron-marines-hero-dr-graff.json) |
+| Iron Marines: Hero Fate | 395271 | [395271-iron-marines-hero-fate.json](./395271-iron-marines-hero-fate.json) |
+| Iron Marines: Hero Mark X | 395275 | [395275-iron-marines-hero-mark-x.json](./395275-iron-marines-hero-mark-x.json) |
+| Iron Marines: Hero Sha'Tra | 395270 | [395270-iron-marines-hero-shatra.json](./395270-iron-marines-hero-shatra.json) |
+| Iron Marines+ | 395276 | [395276-iron-marines.json](./395276-iron-marines.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
@@ -4656,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Always Sunny: The Gang Goes Mobile | 110286 | [110286-its-always-sunny-the-gang-goes-mobile.json](./110286-its-always-sunny-the-gang-goes-mobile.json) |
 | It's Barbaric: Euroza | 244164 | [244164-its-barbaric-euroza.json](./244164-its-barbaric-euroza.json) |
 | It's Breaking Out | 358347 | [358347-its-breaking-out.json](./358347-its-breaking-out.json) |
+| It's Chopping Time! | 395265 | [395265-its-chopping-time.json](./395265-its-chopping-time.json) |
 | It's Chopping Time!: Gold Edition | 406871 | [406871-its-chopping-time-gold-edition.json](./406871-its-chopping-time-gold-edition.json) |
 | It's Christmas Bundle! | 234307 | [234307-its-christmas-bundle.json](./234307-its-christmas-bundle.json) |
 | It's Dark | 207779 | [207779-its-dark.json](./207779-its-dark.json) |
