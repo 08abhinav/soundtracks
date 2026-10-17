@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico | 122345 | [122345-calico.json](./122345-calico.json) |
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
+| Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
