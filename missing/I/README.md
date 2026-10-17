@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity Clicker | 34706 | [34706-insanity-clicker.json](./34706-insanity-clicker.json) |
 | Insanity Ice | 199380 | [199380-insanity-ice.json](./199380-insanity-ice.json) |
 | Insanity Locked | 350962 | [350962-insanity-locked.json](./350962-insanity-locked.json) |
+| Insanity Path | 383100 | [383100-insanity-path.json](./383100-insanity-path.json) |
 | Insanity VR: Last Score | 53097 | [53097-insanity-vr-last-score.json](./53097-insanity-vr-last-score.json) |
 | Insanity Within | 341653 | [341653-insanity-within.json](./341653-insanity-within.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
