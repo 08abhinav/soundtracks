@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
 | Obreno: Chapter One | 138585 | [138585-obreno-chapter-one.json](./138585-obreno-chapter-one.json) |
+| Obrii | 371028 | [371028-obrii.json](./371028-obrii.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | Obsccurus Somulum | 335236 | [335236-obsccurus-somulum.json](./335236-obsccurus-somulum.json) |
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
@@ -227,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
 | Obsolete: After the Accident | 319891 | [319891-obsolete-after-the-accident.json](./319891-obsolete-after-the-accident.json) |
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
+| Obstacle Challenge | 370991 | [370991-obstacle-challenge.json](./370991-obstacle-challenge.json) |
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
