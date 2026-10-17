@@ -976,6 +976,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hank's Voyage | 144908 | [144908-hanks-voyage.json](./144908-hanks-voyage.json) |
 | Hanna Barbera's Cartoon Carnival | 45939 | [45939-hanna-barberas-cartoon-carnival.json](./45939-hanna-barberas-cartoon-carnival.json) |
 | Hanna Barbera's Turbo Toons | 42619 | [42619-hanna-barberas-turbo-toons.json](./42619-hanna-barberas-turbo-toons.json) |
+| Hanna in a Choppa | 416744 | [416744-hanna-in-a-choppa.json](./416744-hanna-in-a-choppa.json) |
+| Hanna in a Choppa 2 | 416746 | [416746-hanna-in-a-choppa-2.json](./416746-hanna-in-a-choppa-2.json) |
 | Hannah & Henry | 257067 | [257067-hannah-and-henry.json](./257067-hannah-and-henry.json) |
 | Hannah and the Ice Caves | 338367 | [338367-hannah-and-the-ice-caves.json](./338367-hannah-and-the-ice-caves.json) |
 | Hannah and the Kreludor Caves | 338381 | [338381-hannah-and-the-kreludor-caves.json](./338381-hannah-and-the-kreludor-caves.json) |
@@ -4529,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexiHashi | 150467 | [150467-hexihashi.json](./150467-hexihashi.json) |
 | Hexile | 105544 | [105544-hexile.json](./105544-hexile.json) |
 | Hexin : Space Chess Game | 102211 | [102211-hexin-space-chess-game.json](./102211-hexin-space-chess-game.json) |
+| Hexiom Connect | 416748 | [416748-hexiom-connect.json](./416748-hexiom-connect.json) |
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
