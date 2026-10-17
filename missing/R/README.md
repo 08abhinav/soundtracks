@@ -4685,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revvver | 285450 | [285450-revvver.json](./285450-revvver.json) |
 | Rewilder | 303782 | [303782-rewilder.json](./303782-rewilder.json) |
 | Rewind | 33621 | [33621-rewind.json](./33621-rewind.json) |
+| Rewind | 409829 | [409829-rewind.json](./409829-rewind.json) |
 | Rewind 99 | 374207 | [374207-rewind-99.json](./374207-rewind-99.json) |
 | Rewind Night | 390698 | [390698-rewind-night.json](./390698-rewind-night.json) |
 | Rewind or Die | 244116 | [244116-rewind-or-die.json](./244116-rewind-or-die.json) |
