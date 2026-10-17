@@ -169,6 +169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackyZack | 28076 | [28076-hackyzack.json](./28076-hackyzack.json) |
 | HacX: Twitch 'n Kill | 78912 | [78912-hacx-twitch-n-kill.json](./78912-hacx-twitch-n-kill.json) |
 | Had | 239085 | [239085-had.json](./239085-had.json) |
+| Hadal | 384310 | [384310-hadal.json](./384310-hadal.json) |
+| Hadalis | 384311 | [384311-hadalis.json](./384311-hadalis.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
