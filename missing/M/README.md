@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxi Trucks Racing | 366212 | [366212-maxi-trucks-racing.json](./366212-maxi-trucks-racing.json) |
 | MaxiGolf | 102594 | [102594-maxigolf.json](./102594-maxigolf.json) |
 | Maxim | 369217 | [369217-maxim.json](./369217-maxim.json) |
+| Maxim's Seaside Adventure | 416756 | [416756-maxims-seaside-adventure.json](./416756-maxims-seaside-adventure.json) |
 | Maxima: Keepers of the 2nd Law | 348377 | [348377-maxima-keepers-of-the-2nd-law.json](./348377-maxima-keepers-of-the-2nd-law.json) |
 | Maximal Mahjongg | 94235 | [94235-maximal-mahjongg.json](./94235-maximal-mahjongg.json) |
 | Maximize | 110253 | [110253-maximize.json](./110253-maximize.json) |
@@ -6367,6 +6368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowniverse | 391584 | [391584-meowniverse.json](./391584-meowniverse.json) |
 | Meowoof | 207854 | [207854-meowoof.json](./207854-meowoof.json) |
 | Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
+| Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
 | Meowstery Wisp | 383067 | [383067-meowstery-wisp.json](./383067-meowstery-wisp.json) |
 | Meowter Space | 239607 | [239607-meowter-space.json](./239607-meowter-space.json) |
@@ -6425,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
 | Mercury | 248333 | [248333-mercury.json](./248333-mercury.json) |
 | Mercury Abbey | 172701 | [172701-mercury-abbey.json](./172701-mercury-abbey.json) |
+| Mercury Drops | 416758 | [416758-mercury-drops.json](./416758-mercury-drops.json) |
 | Mercury Elopement Syndrome | 395237 | [395237-mercury-elopement-syndrome.json](./395237-mercury-elopement-syndrome.json) |
 | Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
@@ -8653,6 +8656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Village & Pillage | 221919 | [221919-minecraft-village-and-pillage.json](./221919-minecraft-village-and-pillage.json) |
 | MInecraft: Weapon Fusion 2 | 333585 | [333585-minecraft-weapon-fusion-2.json](./333585-minecraft-weapon-fusion-2.json) |
 | Minecraft: Wii U Edition | 84610 | [84610-minecraft-wii-u-edition.json](./84610-minecraft-wii-u-edition.json) |
+| Minecraft: Wilderness Bound | 416571 | [416571-minecraft-wilderness-bound.json](./416571-minecraft-wilderness-bound.json) |
 | Minecraft: Winter Whimsy Skin Pack | 324892 | [324892-minecraft-winter-whimsy-skin-pack.json](./324892-minecraft-winter-whimsy-skin-pack.json) |
 | Minecraft: World of Color Update | 221878 | [221878-minecraft-world-of-color-update.json](./221878-minecraft-world-of-color-update.json) |
 | Minecraft: Wukong Uproar In Heaven | 332582 | [332582-minecraft-wukong-uproar-in-heaven.json](./332582-minecraft-wukong-uproar-in-heaven.json) |
@@ -14116,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eyes Deceive | 274399 | [274399-my-eyes-deceive.json](./274399-my-eyes-deceive.json) |
 | My Eyes on You | 57694 | [57694-my-eyes-on-you.json](./57694-my-eyes-on-you.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
+| My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
