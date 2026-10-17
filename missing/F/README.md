@@ -5379,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flempire | 224248 | [224248-flempire.json](./224248-flempire.json) |
 | Flesh | 216244 | [216244-flesh.json](./216244-flesh.json) |
 | Flesh & Spirit | 383365 | [383365-flesh-and-spirit.json](./383365-flesh-and-spirit.json) |
+| Flesh & Wire | 392820 | [392820-flesh-and-wire.json](./392820-flesh-and-wire.json) |
 | Flesh 4 Boy | 178544 | [178544-flesh-4-boy.json](./178544-flesh-4-boy.json) |
 | Flesh Blossom | 398000 | [398000-flesh-blossom.json](./398000-flesh-blossom.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
@@ -6406,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
+| Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
 | Foolish Mortals | 217011 | [217011-foolish-mortals.json](./217011-foolish-mortals.json) |
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
