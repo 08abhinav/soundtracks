@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:41:18.955Z",
-  "total_soundtracks": 2110,
+  "generated_at": "2026-10-17T15:41:26.352Z",
+  "total_soundtracks": 2111,
   "games": [
     {
       "igdb_id": 7522,
@@ -19216,6 +19216,20 @@
           "album_name": "Sonic Racing: CrossWorlds Original Soundtrack - Echoes of Dimensions",
           "spotify_url": "https://open.spotify.com/album/7ujwIs3yXw2nRsDK29ki4a",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 4158,
+      "game_name": "Sonic Riders",
+      "game_url": "https://ostdb.net/games/sonic-riders",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d8742ca2713090ce3511557b",
+      "albums": [
+        {
+          "album_name": "SONIC RIDERS Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0oa3ysi2xnopGLfyrZ0QFv",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
