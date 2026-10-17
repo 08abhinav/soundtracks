@@ -6753,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
+| Rockhounds | 391653 | [391653-rockhounds.json](./391653-rockhounds.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
@@ -7865,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosie's Reality | 356020 | [356020-rosies-reality.json](./356020-rosies-reality.json) |
 | Roskur's Run | 300802 | [300802-roskurs-run.json](./300802-roskurs-run.json) |
 | Roster: Alice's White Mouse | 392110 | [392110-roster-alices-white-mouse.json](./392110-roster-alices-white-mouse.json) |
+| Rostros de la arena | 391660 | [391660-rostros-de-la-arena.json](./391660-rostros-de-la-arena.json) |
 | Roswell Conspiracies: Aliens, Myths & Legends | 49883 | [49883-roswell-conspiracies-aliens-myths-and-legends.json](./49883-roswell-conspiracies-aliens-myths-and-legends.json) |
 | Roswell Fighter | 21774 | [21774-roswell-fighter.json](./21774-roswell-fighter.json) |
 | Roswell Pinball | 314913 | [314913-roswell-pinball.json](./314913-roswell-pinball.json) |
