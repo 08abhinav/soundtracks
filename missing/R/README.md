@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rätsel & Denkspiele Extra | 91602 | [91602-ratsel-and-denkspiele-extra.json](./91602-ratsel-and-denkspiele-extra.json) |
 | Ratshaker | 321428 | [321428-ratshaker.json](./321428-ratshaker.json) |
 | Ratshaker: Rat-Chan Pack | 395801 | [395801-ratshaker-rat-chan-pack.json](./395801-ratshaker-rat-chan-pack.json) |
+| Ratshot | 376215 | [376215-ratshot.json](./376215-ratshot.json) |
 | Ratstronaut | 362912 | [362912-ratstronaut.json](./362912-ratstronaut.json) |
 | Ratten Reich | 195961 | [195961-ratten-reich.json](./195961-ratten-reich.json) |
 | Ratten Reich: Dance of Kings | 149032 | [149032-ratten-reich-dance-of-kings.json](./149032-ratten-reich-dance-of-kings.json) |
@@ -2321,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealSports Football | 18418 | [18418-realsports-football.json](./18418-realsports-football.json) |
 | RealSports Tennis | 18419 | [18419-realsports-tennis.json](./18419-realsports-tennis.json) |
 | RealSports Volleyball | 18420 | [18420-realsports-volleyball.json](./18420-realsports-volleyball.json) |
+| Realtime Mining Simulator | 376191 | [376191-realtime-mining-simulator.json](./376191-realtime-mining-simulator.json) |
 | Realtor | 273445 | [273445-realtor.json](./273445-realtor.json) |
 | Reanimal: Collector's Edition | 378339 | [378339-reanimal-collectors-edition.json](./378339-reanimal-collectors-edition.json) |
 | Reanimal: Deluxe Edition | 378346 | [378346-reanimal-deluxe-edition.json](./378346-reanimal-deluxe-edition.json) |
