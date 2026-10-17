@@ -3778,6 +3778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kooky Kids Fort Defense | 255958 | [255958-kooky-kids-fort-defense.json](./255958-kooky-kids-fort-defense.json) |
 | Kooky Sphere | 229723 | [229723-kooky-sphere.json](./229723-kooky-sphere.json) |
 | Kool-Aid Man | 5676 | [5676-kool-aid-man.json](./5676-kool-aid-man.json) |
+| Kooo to Jump! | 403432 | [403432-kooo-to-jump.json](./403432-kooo-to-jump.json) |
 | Koopa CD | 233599 | [233599-koopa-cd.json](./233599-koopa-cd.json) |
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krystals of Zong | 73879 | [73879-krystals-of-zong.json](./73879-krystals-of-zong.json) |
 | Krystals with A K | 224715 | [224715-krystals-with-a-k.json](./224715-krystals-with-a-k.json) |
 | Krystine and the children in chains | 101696 | [101696-krystine-and-the-children-in-chains.json](./101696-krystine-and-the-children-in-chains.json) |
+| Kryva Hora | 403419 | [403419-kryva-hora.json](./403419-kryva-hora.json) |
 | Kryzta | 199113 | [199113-kryzta.json](./199113-kryzta.json) |
 | Krzosek W Krainie Czarów | 142759 | [142759-krzosek-w-krainie-czarow.json](./142759-krzosek-w-krainie-czarow.json) |
 | Krzyżacy: The Knights of the Cross | 213312 | [213312-krzyzacy-the-knights-of-the-cross.json](./213312-krzyzacy-the-knights-of-the-cross.json) |
