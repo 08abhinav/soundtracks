@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanxillium | 110232 | [110232-xanxillium.json](./110232-xanxillium.json) |
 | Xaphan: Battle Simulator | 265120 | [265120-xaphan-battle-simulator.json](./265120-xaphan-battle-simulator.json) |
 | Xargon | 70129 | [70129-xargon.json](./70129-xargon.json) |
+| Xargon Remake Ep.1 | 372213 | [372213-xargon-remake-ep-1.json](./372213-xargon-remake-ep-1.json) |
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
 | Xark | 30840 | [30840-xark.json](./30840-xark.json) |
 | Xarq: The Zimmerman Trenches | 31185 | [31185-xarq-the-zimmerman-trenches.json](./31185-xarq-the-zimmerman-trenches.json) |
