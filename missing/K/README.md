@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Dog | 135814 | [135814-killer-dog.json](./135814-killer-dog.json) |
 | Killer Escape 4 | 386945 | [386945-killer-escape-4.json](./386945-killer-escape-4.json) |
 | Killer Escape III | 386938 | [386938-killer-escape-iii.json](./386938-killer-escape-iii.json) |
+| Killer Eyelashes | 372724 | [372724-killer-eyelashes.json](./372724-killer-eyelashes.json) |
 | Killer Freaks From Outer Space | 132063 | [132063-killer-freaks-from-outer-space.json](./132063-killer-freaks-from-outer-space.json) |
 | Killer Gorilla | 13733 | [13733-killer-gorilla.json](./13733-killer-gorilla.json) |
 | Killer Inside Us | 157189 | [157189-killer-inside-us.json](./157189-killer-inside-us.json) |
@@ -1989,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ni Steady | 263693 | [263693-kimi-ni-steady.json](./263693-kimi-ni-steady.json) |
 | Kimi ni Steady | 263694 | [263694-kimi-ni-steady.json](./263694-kimi-ni-steady.json) |
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
+| Kimi no Hitomi ni Hit Me | 372774 | [372774-kimi-no-hitomi-ni-hit-me.json](./372774-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
 | Kimi no Nisemono ni Koi wo Suru Asterism | 396470 | [396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json](./396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json) |
