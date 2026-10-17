@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youngblood: Search and Destroy | 202395 | [202395-youngblood-search-and-destroy.json](./202395-youngblood-search-and-destroy.json) |
 | Youniverse | 337761 | [337761-youniverse.json](./337761-youniverse.json) |
 | Your “Hidden Side” Test | 399796 | [399796-your-hidden-side-test.json](./399796-your-hidden-side-test.json) |
+| Your AI Slop Bores Me | 394609 | [394609-your-ai-slop-bores-me.json](./394609-your-ai-slop-bores-me.json) |
 | Your Android | 329644 | [329644-your-android.json](./329644-your-android.json) |
 | Your Anime Waifu | 368080 | [368080-your-anime-waifu.json](./368080-your-anime-waifu.json) |
 | Your Answers or Your Breakfast! | 181752 | [181752-your-answers-or-your-breakfast.json](./181752-your-answers-or-your-breakfast.json) |
