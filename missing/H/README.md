@@ -3445,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Dating Stories: Brazil - Special Edition | 315862 | [315862-hentai-dating-stories-brazil-special-edition.json](./315862-hentai-dating-stories-brazil-special-edition.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
+| Hentai Desire: Sexy Waifus | 376221 | [376221-hentai-desire-sexy-waifus.json](./376221-hentai-desire-sexy-waifus.json) |
 | Hentai Detective | 384705 | [384705-hentai-detective.json](./384705-hentai-detective.json) |
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
 | Hentai DevilGirl | 228083 | [228083-hentai-devilgirl.json](./228083-hentai-devilgirl.json) |
@@ -8705,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
+| Hyper Demon PvP | 376184 | [376184-hyper-demon-pvp.json](./376184-hyper-demon-pvp.json) |
 | Hyper Detonator | 380198 | [380198-hyper-detonator.json](./380198-hyper-detonator.json) |
 | Hyper Dimensional Basement Crawler | 177944 | [177944-hyper-dimensional-basement-crawler.json](./177944-hyper-dimensional-basement-crawler.json) |
 | Hyper Dimensional Dynamo | 183919 | [183919-hyper-dimensional-dynamo.json](./183919-hyper-dimensional-dynamo.json) |
