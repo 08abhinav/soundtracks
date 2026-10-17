@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
+| Bad Football | 407893 | [407893-bad-football.json](./407893-bad-football.json) |
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
@@ -11052,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Helix | 19996 | [19996-broken-helix.json](./19996-broken-helix.json) |
 | Broken In Time | 223499 | [223499-broken-in-time.json](./223499-broken-in-time.json) |
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
+| Broken Knuckles | 407851 | [407851-broken-knuckles.json](./407851-broken-knuckles.json) |
 | Broken Lands: Tower Defense | 281971 | [281971-broken-lands-tower-defense.json](./281971-broken-lands-tower-defense.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
