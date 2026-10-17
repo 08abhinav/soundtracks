@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakapo-Go! | 112277 | [112277-kakapo-go.json](./112277-kakapo-go.json) |
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
+| Kakegae no Nai Kimi he | 396471 | [396471-kakegae-no-nai-kimi-he.json](./396471-kakegae-no-nai-kimi-he.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakele Online: MMORPG - Bonanza | 265732 | [265732-kakele-online-mmorpg-bonanza.json](./265732-kakele-online-mmorpg-bonanza.json) |
@@ -596,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapital13 | 199299 | [199299-kapital13.json](./199299-kapital13.json) |
 | Kapitan Pronin: Odin protiv vseh | 202199 | [202199-kapitan-pronin-odin-protiv-vseh.json](./202199-kapitan-pronin-odin-protiv-vseh.json) |
 | Kapka The Game | 416014 | [416014-kapka-the-game.json](./416014-kapka-the-game.json) |
+| Kaporanga | 396454 | [396454-kaporanga.json](./396454-kaporanga.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazekao | 340786 | [340786-kazekao.json](./340786-kazekao.json) |
 | Kazfall | 413875 | [413875-kazfall.json](./413875-kazfall.json) |
 | Kazoe Meshi | 258953 | [258953-kazoe-meshi.json](./258953-kazoe-meshi.json) |
+| Kazoku Gokko | 396474 | [396474-kazoku-gokko.json](./396474-kazoku-gokko.json) |
 | Kazoku Keikaku | 56773 | [56773-kazoku-keikaku.json](./56773-kazoku-keikaku.json) |
 | Kazoku Keikaku Soshite Mata Kazoku Keikaku o | 237408 | [237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json](./237408-kazoku-keikaku-soshite-mata-kazoku-keikaku-o.json) |
 | Kazoku Minna no Nouryoku Trainer | 327595 | [327595-kazoku-minna-no-nouryoku-trainer.json](./327595-kazoku-minna-no-nouryoku-trainer.json) |
@@ -1812,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
+| Killbot! | 396395 | [396395-killbot.json](./396395-killbot.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
@@ -1974,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ni Todoke: Sodateru Omoi | 66964 | [66964-kimi-ni-todoke-sodateru-omoi.json](./66964-kimi-ni-todoke-sodateru-omoi.json) |
 | Kimi no Hitomi ni Hit Me | 82803 | [82803-kimi-no-hitomi-ni-hit-me.json](./82803-kimi-no-hitomi-ni-hit-me.json) |
 | Kimi no Mirai | 251537 | [251537-kimi-no-mirai.json](./251537-kimi-no-mirai.json) |
+| Kimi no Nisemono ni Koi wo Suru Asterism | 396470 | [396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json](./396470-kimi-no-nisemono-ni-koi-wo-suru-asterism.json) |
 | Kimi no Tonari de Koishiteru! | 194548 | [194548-kimi-no-tonari-de-koishiteru.json](./194548-kimi-no-tonari-de-koishiteru.json) |
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
@@ -3982,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koya Rift | 17953 | [17953-koya-rift.json](./17953-koya-rift.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koza | 183314 | [183314-koza.json](./183314-koza.json) |
+| Kozeni Mushi | 396453 | [396453-kozeni-mushi.json](./396453-kozeni-mushi.json) |
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
