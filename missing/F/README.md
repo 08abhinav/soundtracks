@@ -2594,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feda: The Emblem of Justice | 42555 | [42555-feda-the-emblem-of-justice.json](./42555-feda-the-emblem-of-justice.json) |
 | Feda: The Emblem of Justice Remake | 45521 | [45521-feda-the-emblem-of-justice-remake.json](./45521-feda-the-emblem-of-justice-remake.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
+| Federal Cadet | 412257 | [412257-federal-cadet.json](./412257-federal-cadet.json) |
 | Federation | 257004 | [257004-federation.json](./257004-federation.json) |
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
 | Federation Quest 1: BSS Jane Seymour | 65210 | [65210-federation-quest-1-bss-jane-seymour.json](./65210-federation-quest-1-bss-jane-seymour.json) |
