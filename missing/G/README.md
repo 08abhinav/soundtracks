@@ -1031,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameDev Life Simulator | 236318 | [236318-gamedev-life-simulator.json](./236318-gamedev-life-simulator.json) |
 | Gamedev simulator | 130958 | [130958-gamedev-simulator.json](./130958-gamedev-simulator.json) |
 | GameDev Trash | 260573 | [260573-gamedev-trash.json](./260573-gamedev-trash.json) |
+| Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
@@ -4336,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: The Atomar Nightmare | 135595 | [135595-godzilla-the-atomar-nightmare.json](./135595-godzilla-the-atomar-nightmare.json) |
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
+| Godzone 6 | 401926 | [401926-godzone-6.json](./401926-godzone-6.json) |
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
 | Goemon: Mononoke Sugoroku | 3507 | [3507-goemon-mononoke-sugoroku.json](./3507-goemon-mononoke-sugoroku.json) |
 | Goemon: New Age Shutsudou! | 49598 | [49598-goemon-new-age-shutsudou.json](./49598-goemon-new-age-shutsudou.json) |
@@ -5061,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorble | 311272 | [311272-gorble.json](./311272-gorble.json) |
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
+| Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
 | Gordian Rooms: A Curious Heritage | 138477 | [138477-gordian-rooms-a-curious-heritage.json](./138477-gordian-rooms-a-curious-heritage.json) |
