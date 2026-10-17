@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Smell | 62083 | [62083-bad-smell.json](./62083-bad-smell.json) |
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
+| Bad Status Dragon Rider | 365451 | [365451-bad-status-dragon-rider.json](./365451-bad-status-dragon-rider.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
@@ -11049,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Days in Quarantine | 158517 | [158517-bright-days-in-quarantine.json](./158517-bright-days-in-quarantine.json) |
 | Bright Escape | 328389 | [328389-bright-escape.json](./328389-bright-escape.json) |
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
+| Bright Gems | 365467 | [365467-bright-gems.json](./365467-bright-gems.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Lights of Svetlov | 170273 | [170273-bright-lights-of-svetlov.json](./170273-bright-lights-of-svetlov.json) |
