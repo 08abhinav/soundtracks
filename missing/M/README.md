@@ -3759,6 +3759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
+| Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of the Skies: The Red Ace | 63183 | [63183-master-of-the-skies-the-red-ace.json](./63183-master-of-the-skies-the-red-ace.json) |
 | Master of the Wind | 123642 | [123642-master-of-the-wind.json](./123642-master-of-the-wind.json) |
@@ -7207,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
 | Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
+| Meyow | 388151 | [388151-meyow.json](./388151-meyow.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Monmusu Idol | 77847 | [77847-mezase-monmusu-idol.json](./77847-mezase-monmusu-idol.json) |
