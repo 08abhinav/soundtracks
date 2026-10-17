@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Decade Outside | 186043 | [186043-a-decade-outside.json](./186043-a-decade-outside.json) |
 | A Deep Dive | 349872 | [349872-a-deep-dive.json](./349872-a-deep-dive.json) |
 | A Demon's Game: Episode 1 | 30053 | [30053-a-demons-game-episode-1.json](./30053-a-demons-game-episode-1.json) |
+| A Description of the Newest Sculpture in the Gallery | 401255 | [401255-a-description-of-the-newest-sculpture-in-the-gallery.json](./401255-a-description-of-the-newest-sculpture-in-the-gallery.json) |
 | A Desert Christmas Story | 235974 | [235974-a-desert-christmas-story.json](./235974-a-desert-christmas-story.json) |
 | A Desert Dusk | 280226 | [280226-a-desert-dusk.json](./280226-a-desert-dusk.json) |
 | A Detective Game | 302498 | [302498-a-detective-game.json](./302498-a-detective-game.json) |
@@ -1915,6 +1916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
+| Acting Out | 401278 | [401278-acting-out.json](./401278-acting-out.json) |
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
 | Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
@@ -5069,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
+| Alley 19 Bowling | 401302 | [401302-alley-19-bowling.json](./401302-alley-19-bowling.json) |
 | Alley Cats | 206108 | [206108-alley-cats.json](./206108-alley-cats.json) |
 | Alley Master | 40243 | [40243-alley-master.json](./40243-alley-master.json) |
 | Alley Nine | 293550 | [293550-alley-nine.json](./293550-alley-nine.json) |
@@ -5750,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambulance Rescue | 101678 | [101678-ambulance-rescue.json](./101678-ambulance-rescue.json) |
 | Ambulance Simulator | 9973 | [9973-ambulance-simulator.json](./9973-ambulance-simulator.json) |
 | Ambulance Simulator 911 Rescue | 370560 | [370560-ambulance-simulator-911-rescue.json](./370560-ambulance-simulator-911-rescue.json) |
+| Ambunkular Flumbulus | 401269 | [401269-ambunkular-flumbulus.json](./401269-ambunkular-flumbulus.json) |
 | Ambush | 164935 | [164935-ambush.json](./164935-ambush.json) |
 | Ambush | 39467 | [39467-ambush.json](./39467-ambush.json) |
 | Ambush at Sorinor | 69903 | [69903-ambush-at-sorinor.json](./69903-ambush-at-sorinor.json) |
@@ -6433,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anderson | 171444 | [171444-anderson.json](./171444-anderson.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
+| Andon | 401287 | [401287-andon.json](./401287-andon.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
@@ -9973,6 +9978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Style: Zengage | 84762 | [84762-art-style-zengage.json](./84762-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
+| Art Without Blood | 401253 | [401253-art-without-blood.json](./401253-art-without-blood.json) |
 | Art World | 82186 | [82186-art-world.json](./82186-art-world.json) |
 | Art-O-Ween: A Ghost in the Gallery | 272461 | [272461-art-o-ween-a-ghost-in-the-gallery.json](./272461-art-o-ween-a-ghost-in-the-gallery.json) |
 | Art-O-Ween: Night at the Gallery | 236811 | [236811-art-o-ween-night-at-the-gallery.json](./236811-art-o-ween-night-at-the-gallery.json) |
