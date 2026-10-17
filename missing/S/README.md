@@ -5592,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
+| Sheng Tian: Episode 1 | 395257 | [395257-sheng-tian-episode-1.json](./395257-sheng-tian-episode-1.json) |
 | Shengnü Zhi Ge: Heroine Anthem - The Elect of Wassernixe | 80192 | [80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json](./80192-shengnu-zhi-ge-heroine-anthem-the-elect-of-wassernixe.json) |
 | Shèngshì Zhē Tiān | 130097 | [130097-shengshi-zhe-tian.json](./130097-shengshi-zhe-tian.json) |
 | Shēngwù Dàmàoxiǎn | 128326 | [128326-shengwu-damaoxian.json](./128326-shengwu-damaoxian.json) |
@@ -15482,6 +15483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
 | Spirit Realm | 51498 | [51498-spirit-realm.json](./51498-spirit-realm.json) |
 | Spirit Realm Saga | 295336 | [295336-spirit-realm-saga.json](./295336-spirit-realm-saga.json) |
+| Spirit Reforged | 395286 | [395286-spirit-reforged.json](./395286-spirit-reforged.json) |
 | Spirit Riding Free: Ride Along Adventure | 256866 | [256866-spirit-riding-free-ride-along-adventure.json](./256866-spirit-riding-free-ride-along-adventure.json) |
 | Spirit Roots | 96858 | [96858-spirit-roots.json](./96858-spirit-roots.json) |
 | Spirit Rover | 107208 | [107208-spirit-rover.json](./107208-spirit-rover.json) |
@@ -16680,6 +16682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalingrad Abatis | 109888 | [109888-stalingrad-abatis.json](./109888-stalingrad-abatis.json) |
 | Stalk the Giant | 249788 | [249788-stalk-the-giant.json](./249788-stalk-the-giant.json) |
 | Stalked | 163313 | [163313-stalked.json](./163313-stalked.json) |
+| Stalked At Home | 395259 | [395259-stalked-at-home.json](./395259-stalked-at-home.json) |
 | Stalked in Solitude | 334257 | [334257-stalked-in-solitude.json](./334257-stalked-in-solitude.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
@@ -24925,6 +24928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switcheroo | 340397 | [340397-switcheroo.json](./340397-switcheroo.json) |
 | Switcheroo | 59686 | [59686-switcheroo.json](./59686-switcheroo.json) |
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
+| Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
