@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
+| Deep Sea Trophy Fishing | 410802 | [410802-deep-sea-trophy-fishing.json](./410802-deep-sea-trophy-fishing.json) |
 | Deep Sea Tycoon | 50451 | [50451-deep-sea-tycoon.json](./50451-deep-sea-tycoon.json) |
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
@@ -5154,6 +5155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Connect: Tick-Tock Travelers - Capsule Edition | 136200 | [136200-destiny-connect-tick-tock-travelers-capsule-edition.json](./136200-destiny-connect-tick-tock-travelers-capsule-edition.json) |
 | Destiny Contract | 101081 | [101081-destiny-contract.json](./101081-destiny-contract.json) |
 | Destiny Duel | 236546 | [236546-destiny-duel.json](./236546-destiny-duel.json) |
+| Destiny Eleven | 410905 | [410905-destiny-eleven.json](./410905-destiny-eleven.json) |
 | Destiny Encore | 311687 | [311687-destiny-encore.json](./311687-destiny-encore.json) |
 | Destiny Fails Us: A New Life | 134516 | [134516-destiny-fails-us-a-new-life.json](./134516-destiny-fails-us-a-new-life.json) |
 | Destiny Fantasia | 197756 | [197756-destiny-fantasia.json](./197756-destiny-fantasia.json) |
@@ -6412,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
+| Dimensional Wars | 410913 | [410913-dimensional-wars.json](./410913-dimensional-wars.json) |
 | Dimensional: Prophecy of Zohar | 187888 | [187888-dimensional-prophecy-of-zohar.json](./187888-dimensional-prophecy-of-zohar.json) |
 | Dimensional: Prophecy of Zohar 2 | 342892 | [342892-dimensional-prophecy-of-zohar-2.json](./342892-dimensional-prophecy-of-zohar-2.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
