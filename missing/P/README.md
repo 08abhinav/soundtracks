@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
+| Plucked Up | 385426 | [385426-plucked-up.json](./385426-plucked-up.json) |
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
