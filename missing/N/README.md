@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakana Bundle 1: Soul Searching + A Night at the Races + Infini | 204976 | [204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json](./204976-nakana-bundle-1-soul-searching-a-night-at-the-races-infini.json) |
 | Nakana Bundle 2: Mythic Ocean + Journey of the Broken Circle + Cosmic Top Secret | 204972 | [204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json](./204972-nakana-bundle-2-mythic-ocean-journey-of-the-broken-circle-cosmic-top-secret.json) |
 | Nakana Bundle 3: Eqqo + Lydia + Stilstand | 207900 | [207900-nakana-bundle-3-eqqo-lydia-stilstand.json](./207900-nakana-bundle-3-eqqo-lydia-stilstand.json) |
+| Nakano Jinkaku Ishoku Kenkyuushou | 395279 | [395279-nakano-jinkaku-ishoku-kenkyuushou.json](./395279-nakano-jinkaku-ishoku-kenkyuushou.json) |
 | Nakano Kouichi Kanshuu: Keirin-ou | 37913 | [37913-nakano-kouichi-kanshuu-keirin-ou.json](./37913-nakano-kouichi-kanshuu-keirin-ou.json) |
 | Nakashima Tetsunari no Othello Seminar | 54943 | [54943-nakashima-tetsunari-no-othello-seminar.json](./54943-nakashima-tetsunari-no-othello-seminar.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
@@ -4831,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard: Ratatoskr, Clan of the Squirrel | 159702 | [159702-northgard-ratatoskr-clan-of-the-squirrel.json](./159702-northgard-ratatoskr-clan-of-the-squirrel.json) |
 | Northgard: The Viking Age Edition | 145535 | [145535-northgard-the-viking-age-edition.json](./145535-northgard-the-viking-age-edition.json) |
 | Northgard: Vordr, Clan of the Owl | 276976 | [276976-northgard-vordr-clan-of-the-owl.json](./276976-northgard-vordr-clan-of-the-owl.json) |
+| NorthHold | 395269 | [395269-northhold.json](./395269-northhold.json) |
 | Northmark: Hour of the Wolf | 17532 | [17532-northmark-hour-of-the-wolf.json](./17532-northmark-hour-of-the-wolf.json) |
 | NorthStar | 55207 | [55207-northstar.json](./55207-northstar.json) |
 | Northstar Courier | 357367 | [357367-northstar-courier.json](./357367-northstar-courier.json) |
