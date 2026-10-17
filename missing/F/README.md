@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall of Porcupine: Save the World Edition | 254153 | [254153-fall-of-porcupine-save-the-world-edition.json](./254153-fall-of-porcupine-save-the-world-edition.json) |
+| Fall of the Final Age | 384901 | [384901-fall-of-the-final-age.json](./384901-fall-of-the-final-age.json) |
 | Fall of the Mafia | 157395 | [157395-fall-of-the-mafia.json](./157395-fall-of-the-mafia.json) |
 | Fall of the Mist | 293684 | [293684-fall-of-the-mist.json](./293684-fall-of-the-mist.json) |
 | Fall Of The MS Estonia | 294295 | [294295-fall-of-the-ms-estonia.json](./294295-fall-of-the-ms-estonia.json) |
@@ -1626,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fap Titans | 98475 | [98475-fap-titans.json](./98475-fap-titans.json) |
 | Fap&Click | 331100 | [331100-fap-and-click.json](./331100-fap-and-click.json) |
 | Fapic | 53091 | [53091-fapic.json](./53091-fapic.json) |
+| Fapout 69 | 384910 | [384910-fapout-69.json](./384910-fapout-69.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
@@ -2771,6 +2773,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Girlfriend 8: Sensual Femdom | 384849 | [384849-femdom-girlfriend-8-sensual-femdom.json](./384849-femdom-girlfriend-8-sensual-femdom.json) |
 | Femdom Girlfriend 9: Yuki's Femdom Beatdown | 384850 | [384850-femdom-girlfriend-9-yukis-femdom-beatdown.json](./384850-femdom-girlfriend-9-yukis-femdom-beatdown.json) |
 | Femdom Hero | 382480 | [382480-femdom-hero.json](./382480-femdom-hero.json) |
+| Femdom Hero 2 | 384898 | [384898-femdom-hero-2.json](./384898-femdom-hero-2.json) |
+| Femdom Hero 3 | 384909 | [384909-femdom-hero-3.json](./384909-femdom-hero-3.json) |
 | Femdom Lines | 368130 | [368130-femdom-lines.json](./368130-femdom-lines.json) |
 | Femdom Overtime | 400901 | [400901-femdom-overtime.json](./400901-femdom-overtime.json) |
 | Femdom Stories: Findom Simulator Sex Game | 368129 | [368129-femdom-stories-findom-simulator-sex-game.json](./368129-femdom-stories-findom-simulator-sex-game.json) |
@@ -3861,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Vendetta: Super Limited Edition | 198129 | [198129-final-vendetta-super-limited-edition.json](./198129-final-vendetta-super-limited-edition.json) |
 | Final War | 368510 | [368510-final-war.json](./368510-final-war.json) |
 | Final Warfare | 231956 | [231956-final-warfare.json](./231956-final-warfare.json) |
+| Final Word Royale | 384900 | [384900-final-word-royale.json](./384900-final-word-royale.json) |
 | Final World | 90646 | [90646-final-world.json](./90646-final-world.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
