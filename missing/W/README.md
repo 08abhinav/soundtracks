@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
 | Whispers | 25335 | [25335-whispers.json](./25335-whispers.json) |
 | Whispers | 299154 | [299154-whispers.json](./299154-whispers.json) |
+| Whispers Among the Poppies | 372753 | [372753-whispers-among-the-poppies.json](./372753-whispers-among-the-poppies.json) |
 | Whispers Between Worlds | 384869 | [384869-whispers-between-worlds.json](./384869-whispers-between-worlds.json) |
 | Whispers Beyond | 380811 | [380811-whispers-beyond.json](./380811-whispers-beyond.json) |
 | Whispers From the Rift | 123479 | [123479-whispers-from-the-rift.json](./123479-whispers-from-the-rift.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
 | Wildfire | 33813 | [33813-wildfire.json](./33813-wildfire.json) |
+| Wildfire | 372768 | [372768-wildfire.json](./372768-wildfire.json) |
 | Wildfire | 94915 | [94915-wildfire.json](./94915-wildfire.json) |
 | Wildfire: Ticket to Rock | 161719 | [161719-wildfire-ticket-to-rock.json](./161719-wildfire-ticket-to-rock.json) |
 | Wildflower: From the Embers | 178095 | [178095-wildflower-from-the-embers.json](./178095-wildflower-from-the-embers.json) |
@@ -4046,6 +4048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Surf Willy | 10850 | [10850-wind-surf-willy.json](./10850-wind-surf-willy.json) |
 | Wind Traveler | 324311 | [324311-wind-traveler.json](./324311-wind-traveler.json) |
+| Wind Tunnel Simulator | 372729 | [372729-wind-tunnel-simulator.json](./372729-wind-tunnel-simulator.json) |
 | Wind Up | 231291 | [231291-wind-up.json](./231291-wind-up.json) |
 | Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
