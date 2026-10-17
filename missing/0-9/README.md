@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Women: Guess the Name of 100 Famous Women | 369054 | [369054-100-women-guess-the-name-of-100-famous-women.json](./369054-100-women-guess-the-name-of-100-famous-women.json) |
 | 100 Words | 365859 | [365859-100-words.json](./365859-100-words.json) |
 | 100 Worlds: Escape Room Game | 169674 | [169674-100-worlds-escape-room-game.json](./169674-100-worlds-escape-room-game.json) |
+| 100 Years A Vampire | 382004 | [382004-100-years-a-vampire.json](./382004-100-years-a-vampire.json) |
 | 100 Years: Life Simulator | 212457 | [212457-100-years-life-simulator.json](./212457-100-years-life-simulator.json) |
 | 100 Years' War | 96687 | [96687-100-years-war.json](./96687-100-years-war.json) |
 | 100 Yen Exorcist | 408725 | [408725-100-yen-exorcist.json](./408725-100-yen-exorcist.json) |
@@ -1392,6 +1393,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 out of 10: EP 5 - "The Rig Is Up!" | 138228 | [138228-3-out-of-10-ep-5-the-rig-is-up.json](./138228-3-out-of-10-ep-5-the-rig-is-up.json) |
 | 3 out of 10: Season Two | 145349 | [145349-3-out-of-10-season-two.json](./145349-3-out-of-10-season-two.json) |
 | 3 Pack | 86016 | [86016-3-pack.json](./86016-3-pack.json) |
+| 3 Pandas In Fantasy | 381988 | [381988-3-pandas-in-fantasy.json](./381988-3-pandas-in-fantasy.json) |
+| 3 Pandas in Japan | 381989 | [381989-3-pandas-in-japan.json](./381989-3-pandas-in-japan.json) |
 | 3 Player Battle | 58720 | [58720-3-player-battle.json](./58720-3-player-battle.json) |
 | 3 Point Contest | 64319 | [64319-3-point-contest.json](./64319-3-point-contest.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
@@ -1954,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5.84 Wing | 115517 | [115517-5-84-wing.json](./115517-5-84-wing.json) |
 | 50 | 186671 | [186671-50.json](./186671-50.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
+| 50 Coins of Deadly Doom | 381979 | [381979-50-coins-of-deadly-doom.json](./381979-50-coins-of-deadly-doom.json) |
 | 50 Days to Survive | 239100 | [239100-50-days-to-survive.json](./239100-50-days-to-survive.json) |
 | 50 Doors | 377392 | [377392-50-doors.json](./377392-50-doors.json) |
 | 50 flags and seals of the United States HD | 109013 | [109013-50-flags-and-seals-of-the-united-states-hd.json](./109013-50-flags-and-seals-of-the-united-states-hd.json) |
