@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit's All-Comers Mapping Project | 260958 | [260958-rabbits-all-comers-mapping-project.json](./260958-rabbits-all-comers-mapping-project.json) |
 | Rabbit's All-Comers Mapping Project 2022 | 260962 | [260962-rabbits-all-comers-mapping-project-2022.json](./260962-rabbits-all-comers-mapping-project-2022.json) |
 | Rabbit's All-Comers Mapping Project 2023 | 260963 | [260963-rabbits-all-comers-mapping-project-2023.json](./260963-rabbits-all-comers-mapping-project-2023.json) |
+| Rabbit's All-corners Mapping Project 2024 | 378497 | [378497-rabbits-all-corners-mapping-project-2024.json](./378497-rabbits-all-corners-mapping-project-2024.json) |
 | Rabbit's Fall | 265524 | [265524-rabbits-fall.json](./265524-rabbits-fall.json) |
 | Rabbit's Hop | 373330 | [373330-rabbits-hop.json](./373330-rabbits-hop.json) |
 | Rabbit's Quest | 142342 | [142342-rabbits-quest.json](./142342-rabbits-quest.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIIP | 394445 | [394445-riip.json](./394445-riip.json) |
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rijn the Specpyre in... Manor of the Damned! | 10770 | [10770-rijn-the-specpyre-in-manor-of-the-damned.json](./10770-rijn-the-specpyre-in-manor-of-the-damned.json) |
+| Rika Furude Simulator '25 | 378518 | [378518-rika-furude-simulator-25.json](./378518-rika-furude-simulator-25.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
