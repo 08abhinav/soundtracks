@@ -3087,10 +3087,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
 | Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
+| Which Era Is This? Japanese History Era Guess Quiz | 397718 | [397718-which-era-is-this-japanese-history-era-guess-quiz.json](./397718-which-era-is-this-japanese-history-era-guess-quiz.json) |
+| Which Era Is This? World History Era Guess Quiz | 397717 | [397717-which-era-is-this-world-history-era-guess-quiz.json](./397717-which-era-is-this-world-history-era-guess-quiz.json) |
 | Which hand? | 379866 | [379866-which-hand.json](./379866-which-hand.json) |
 | Which Kanji? So Fancy! | 308486 | [308486-which-kanji-so-fancy.json](./308486-which-kanji-so-fancy.json) |
 | Which Naruto Character Are You? | 230540 | [230540-which-naruto-character-are-you.json](./230540-which-naruto-character-are-you.json) |
 | Which Place in the World? Sightseeing Word Quiz | 100314 | [100314-which-place-in-the-world-sightseeing-word-quiz.json](./100314-which-place-in-the-world-sightseeing-word-quiz.json) |
+| Which Sausage, Mate? | 397597 | [397597-which-sausage-mate.json](./397597-which-sausage-mate.json) |
 | Which Way | 246372 | [246372-which-way.json](./246372-which-way.json) |
 | Which Way Out | 104088 | [104088-which-way-out.json](./104088-which-way-out.json) |
 | Which Way Up: Galaxy Games | 240762 | [240762-which-way-up-galaxy-games.json](./240762-which-way-up-galaxy-games.json) |
