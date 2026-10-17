@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weasel Willy | 315277 | [315277-weasel-willy.json](./315277-weasel-willy.json) |
 | Weasel Words | 180823 | [180823-weasel-words.json](./180823-weasel-words.json) |
 | Weather Dominance | 253452 | [253452-weather-dominance.json](./253452-weather-dominance.json) |
+| Weather Dragger | 390018 | [390018-weather-dragger.json](./390018-weather-dragger.json) |
 | Weather Lord | 53132 | [53132-weather-lord.json](./53132-weather-lord.json) |
 | Weather Lord: Following the Princess | 96770 | [96770-weather-lord-following-the-princess.json](./96770-weather-lord-following-the-princess.json) |
 | Weather Lord: Following the Princess - Collector's Edition | 33164 | [33164-weather-lord-following-the-princess-collectors-edition.json](./33164-weather-lord-following-the-princess-collectors-edition.json) |
@@ -6548,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
+| Wukong Survivors | 389519 | [389519-wukong-survivors.json](./389519-wukong-survivors.json) |
 | Wukong Survivors: Begin | 387379 | [387379-wukong-survivors-begin.json](./387379-wukong-survivors-begin.json) |
 | Wukong Survivors: God Slayer | 387507 | [387507-wukong-survivors-god-slayer.json](./387507-wukong-survivors-god-slayer.json) |
 | WuKong Up | 288452 | [288452-wukong-up.json](./288452-wukong-up.json) |
