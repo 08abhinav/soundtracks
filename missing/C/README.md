@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 3 - Collection 4: Final Assault | 194417 | [194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json](./194417-call-of-duty-modern-warfare-3-collection-4-final-assault.json) |
 | Call of Duty: Modern Warfare 3 - Defiance | 134652 | [134652-call-of-duty-modern-warfare-3-defiance.json](./134652-call-of-duty-modern-warfare-3-defiance.json) |
 | Call of Duty: Modern Warfare 3 - Hardened Edition | 47425 | [47425-call-of-duty-modern-warfare-3-hardened-edition.json](./47425-call-of-duty-modern-warfare-3-hardened-edition.json) |
+| Call of Duty: Modern Warfare 4 - Vault Edition | 415399 | [415399-call-of-duty-modern-warfare-4-vault-edition.json](./415399-call-of-duty-modern-warfare-4-vault-edition.json) |
 | Call of Duty: Modern Warfare Collection | 136209 | [136209-call-of-duty-modern-warfare-collection.json](./136209-call-of-duty-modern-warfare-collection.json) |
 | Call of Duty: Modern Warfare II - Graffiti Tactical: Pro Pack | 257325 | [257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json](./257325-call-of-duty-modern-warfare-ii-graffiti-tactical-pro-pack.json) |
 | Call of Duty: Modern Warfare II - Griffin: Pro Pack | 254759 | [254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json](./254759-call-of-duty-modern-warfare-ii-griffin-pro-pack.json) |
@@ -2051,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
+| Cartoon Crime | 415431 | [415431-cartoon-crime.json](./415431-cartoon-crime.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
 | Cartoon Jukebox | 127151 | [127151-cartoon-jukebox.json](./127151-cartoon-jukebox.json) |
 | Cartoon Kingdom | 66957 | [66957-cartoon-kingdom.json](./66957-cartoon-kingdom.json) |
@@ -4275,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Château Royale Jigsaw: Expansion Pack 3 | 357878 | [357878-chateau-royale-jigsaw-expansion-pack-3.json](./357878-chateau-royale-jigsaw-expansion-pack-3.json) |
 | ChatFight! | 220544 | [220544-chatfight.json](./220544-chatfight.json) |
 | ChatGladiators | 411104 | [411104-chatgladiators.json](./411104-chatgladiators.json) |
+| Chatle | 415433 | [415433-chatle.json](./415433-chatle.json) |
 | ChatTDT: Tower Defense Twitch | 306678 | [306678-chattdt-tower-defense-twitch.json](./306678-chattdt-tower-defense-twitch.json) |
 | Chatteract | 138710 | [138710-chatteract.json](./138710-chatteract.json) |
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
@@ -9456,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
+| Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
 | Console Info: 2010 Edition | 91399 | [91399-console-info-2010-edition.json](./91399-console-info-2010-edition.json) |
 | Console Store Simulator | 391748 | [391748-console-store-simulator.json](./391748-console-store-simulator.json) |
@@ -10892,6 +10896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Desktop Konbini | 358228 | [358228-cozy-desktop-konbini.json](./358228-cozy-desktop-konbini.json) |
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
+| Cozy Farm Defense | 415386 | [415386-cozy-farm-defense.json](./415386-cozy-farm-defense.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
 | Cozy Farm: Tidy Up! | 417348 | [417348-cozy-farm-tidy-up.json](./417348-cozy-farm-tidy-up.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
@@ -12008,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
+| Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
 | Criminal Investigation Agents: Petrodollars | 90528 | [90528-criminal-investigation-agents-petrodollars.json](./90528-criminal-investigation-agents-petrodollars.json) |
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
 | Criminal Pursuit Force | 110349 | [110349-criminal-pursuit-force.json](./110349-criminal-pursuit-force.json) |
