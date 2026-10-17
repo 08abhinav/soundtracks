@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Är Alfons Åberg hemma? | 336033 | [336033-ar-alfons-aberg-hemma.json](./336033-ar-alfons-aberg-hemma.json) |
 | Àrengard: Invasion | 228081 | [228081-arengard-invasion.json](./228081-arengard-invasion.json) |
 | Āsh | 408828 | [408828-ash.json](./408828-ash.json) |
+| Čtyřka | 416576 | [416576-ctyrka.json](./416576-ctyrka.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
 | Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
