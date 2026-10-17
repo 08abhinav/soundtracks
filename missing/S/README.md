@@ -4916,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
+| Shadow's Grove | 370433 | [370433-shadows-grove.json](./370433-shadows-grove.json) |
 | Shadow's Kiss | 201584 | [201584-shadows-kiss.json](./201584-shadows-kiss.json) |
 | Shadowalker | 223007 | [223007-shadowalker.json](./223007-shadowalker.json) |
 | ShadoWave | 212188 | [212188-shadowave.json](./212188-shadowave.json) |
@@ -7583,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silvanis | 365848 | [365848-silvanis.json](./365848-silvanis.json) |
 | Silvarn | 384917 | [384917-silvarn.json](./384917-silvarn.json) |
+| Silvatale | 370414 | [370414-silvatale.json](./370414-silvatale.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
@@ -9082,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skylight Freerange | 99506 | [99506-skylight-freerange.json](./99506-skylight-freerange.json) |
 | Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
+| Skyline | 370425 | [370425-skyline.json](./370425-skyline.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
@@ -12476,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic R Mania | 401296 | [401296-sonic-r-mania.json](./401296-sonic-r-mania.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing CrossWorlds: Season Pass | 370461 | [370461-sonic-racing-crossworlds-season-pass.json](./370461-sonic-racing-crossworlds-season-pass.json) |
 | Sonic Racing CrossWorlds: Season Pass 2 | 422509 | [422509-sonic-racing-crossworlds-season-pass-2.json](./422509-sonic-racing-crossworlds-season-pass-2.json) |
 | Sonic Racing Kart | 210306 | [210306-sonic-racing-kart.json](./210306-sonic-racing-kart.json) |
 | Sonic Racing Shift Up | 210308 | [210308-sonic-racing-shift-up.json](./210308-sonic-racing-shift-up.json) |
@@ -14585,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
 | Sparta Anthology | 324565 | [324565-sparta-anthology.json](./324565-sparta-anthology.json) |
+| Spartacus Blood Arena | 370447 | [370447-spartacus-blood-arena.json](./370447-spartacus-blood-arena.json) |
 | Spartacus Legends | 2326 | [2326-spartacus-legends.json](./2326-spartacus-legends.json) |
 | Spartacus: Blood and Sand | 66648 | [66648-spartacus-blood-and-sand.json](./66648-spartacus-blood-and-sand.json) |
 | Spartaga | 51853 | [51853-spartaga.json](./51853-spartaga.json) |
@@ -15272,6 +15277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
 | Spider Shooting Bee | 119793 | [119793-spider-shooting-bee.json](./119793-spider-shooting-bee.json) |
 | Spider Slingers | 201518 | [201518-spider-slingers.json](./201518-spider-slingers.json) |
+| Spider Solitaire | 370408 | [370408-spider-solitaire.json](./370408-spider-solitaire.json) |
 | Spider Solitaire | 83466 | [83466-spider-solitaire.json](./83466-spider-solitaire.json) |
 | Spider Solitaire - Classic Deck Card Games | 88588 | [88588-spider-solitaire-classic-deck-card-games.json](./88588-spider-solitaire-classic-deck-card-games.json) |
 | Spider Solitaire 2018 | 87636 | [87636-spider-solitaire-2018.json](./87636-spider-solitaire-2018.json) |
@@ -20717,6 +20723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subwar 2050 | 39038 | [39038-subwar-2050.json](./39038-subwar-2050.json) |
 | Subwar 2050 Complete | 51935 | [51935-subwar-2050-complete.json](./51935-subwar-2050-complete.json) |
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
+| Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
 | Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
 | Subway Exorcist Girl | 329389 | [329389-subway-exorcist-girl.json](./329389-subway-exorcist-girl.json) |
