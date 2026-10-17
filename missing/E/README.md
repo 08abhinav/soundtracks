@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecstatica II | 15479 | [15479-ecstatica-ii.json](./15479-ecstatica-ii.json) |
 | Ecstatica II | 414855 | [414855-ecstatica-ii.json](./414855-ecstatica-ii.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
+| Ecto Mercenary Program | 373292 | [373292-ecto-mercenary-program.json](./373292-ecto-mercenary-program.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
 | EctoPlaza | 85108 | [85108-ectoplaza.json](./85108-ectoplaza.json) |
@@ -2342,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Employee Rules of the Night Strings | 309361 | [309361-employee-rules-of-the-night-strings.json](./309361-employee-rules-of-the-night-strings.json) |
 | Emporea | 34091 | [34091-emporea.json](./34091-emporea.json) |
 | Emporium | 28593 | [28593-emporium.json](./28593-emporium.json) |
+| Empous | 373262 | [373262-empous.json](./373262-empous.json) |
 | Empower Your Intent | 347188 | [347188-empower-your-intent.json](./347188-empower-your-intent.json) |
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
@@ -2791,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
 | Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
+| Energetic | 373290 | [373290-energetic.json](./373290-energetic.json) |
 | Energie-Manager | 94659 | [94659-energie-manager.json](./94659-energie-manager.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
