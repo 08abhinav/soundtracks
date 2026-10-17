@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
+| Casino Mega Collection | 372214 | [372214-casino-mega-collection.json](./372214-casino-mega-collection.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
 | Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
@@ -7862,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
+| Codename: Black Crow | 372226 | [372226-codename-black-crow.json](./372226-codename-black-crow.json) |
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
@@ -7899,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coelhos Construtores | 290095 | [290095-coelhos-construtores.json](./290095-coelhos-construtores.json) |
 | Coeus Plan | 149217 | [149217-coeus-plan.json](./149217-coeus-plan.json) |
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
+| Coffee & Boobs: Raiders of the Witch’s Elixir | 372184 | [372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json](./372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
@@ -8041,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
 | Col:Verse | 293830 | [293830-col-verse.json](./293830-col-verse.json) |
+| Cola | 372202 | [372202-cola.json](./372202-cola.json) |
 | CoLab | 31943 | [31943-colab.json](./31943-colab.json) |
 | CoLane | 405666 | [405666-colane.json](./405666-colane.json) |
 | Colby | 47156 | [47156-colby.json](./47156-colby.json) |
