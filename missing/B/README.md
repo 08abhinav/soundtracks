@@ -4484,7 +4484,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bending the Light | 167911 | [167911-bending-the-light.json](./167911-bending-the-light.json) |
 | Bendo | 245981 | [245981-bendo.json](./245981-bendo.json) |
 | Bendy and the Dark Revival | 120163 | [120163-bendy-and-the-dark-revival.json](./120163-bendy-and-the-dark-revival.json) |
-| Bendy and the Ink Machine | 28311 | [28311-bendy-and-the-ink-machine.json](./28311-bendy-and-the-ink-machine.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Tracks | 106647 | [106647-bendy-tracks.json](./106647-bendy-tracks.json) |
@@ -9724,7 +9723,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bouncy's Obstacle Course | 377829 | [377829-bouncys-obstacle-course.json](./377829-bouncys-obstacle-course.json) |
 | BouncyBoi in Puzzle Land | 157495 | [157495-bouncyboi-in-puzzle-land.json](./157495-bouncyboi-in-puzzle-land.json) |
-| Bound | 14790 | [14790-bound.json](./14790-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
 | Bound Between Desks | 347765 | [347765-bound-between-desks.json](./347765-bound-between-desks.json) |
 | Bound By A Curse | 402365 | [402365-bound-by-a-curse.json](./402365-bound-by-a-curse.json) |
