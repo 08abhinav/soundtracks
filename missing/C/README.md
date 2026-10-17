@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravan Stories: Academy of Magic | 194037 | [194037-caravan-stories-academy-of-magic.json](./194037-caravan-stories-academy-of-magic.json) |
 | Caravan Trade Tycoon | 138673 | [138673-caravan-trade-tycoon.json](./138673-caravan-trade-tycoon.json) |
 | Caravan Village: Farming Life | 389590 | [389590-caravan-village-farming-life.json](./389590-caravan-village-farming-life.json) |
+| Caravan: The Trade Road | 390563 | [390563-caravan-the-trade-road.json](./390563-caravan-the-trade-road.json) |
 | Caravana 2000 | 400367 | [400367-caravana-2000.json](./400367-caravana-2000.json) |
 | Caravaneer 2 | 102034 | [102034-caravaneer-2.json](./102034-caravaneer-2.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
+| Card Corner | 390558 | [390558-card-corner.json](./390558-card-corner.json) |
 | Card Crawl 2 | 404815 | [404815-card-crawl-2.json](./404815-card-crawl-2.json) |
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
@@ -1739,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards and Towers | 299139 | [299139-cards-and-towers.json](./299139-cards-and-towers.json) |
 | Cards from the West | 219221 | [219221-cards-from-the-west.json](./219221-cards-from-the-west.json) |
 | Cards Infinity | 187836 | [187836-cards-infinity.json](./187836-cards-infinity.json) |
+| Cards Lie | 390487 | [390487-cards-lie.json](./390487-cards-lie.json) |
 | Cards of Action | 400971 | [400971-cards-of-action.json](./400971-cards-of-action.json) |
 | Cards of Binokee | 207351 | [207351-cards-of-binokee.json](./207351-cards-of-binokee.json) |
 | Cards of Calling | 422144 | [422144-cards-of-calling.json](./422144-cards-of-calling.json) |
@@ -6459,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Secrets 2: Episode 1 | 146872 | [146872-city-of-secrets-2-episode-1.json](./146872-city-of-secrets-2-episode-1.json) |
 | City of sky | 88013 | [88013-city-of-sky.json](./88013-city-of-sky.json) |
 | City of Springs | 217219 | [217219-city-of-springs.json](./217219-city-of-springs.json) |
+| City of Stars | 390569 | [390569-city-of-stars.json](./390569-city-of-stars.json) |
 | City of Steam | 63546 | [63546-city-of-steam.json](./63546-city-of-steam.json) |
 | City of Stolen Worlds | 319210 | [319210-city-of-stolen-worlds.json](./319210-city-of-stolen-worlds.json) |
 | City of Stories: Stephan's Journey - Collector's Edition | 362835 | [362835-city-of-stories-stephans-journey-collectors-edition.json](./362835-city-of-stories-stephans-journey-collectors-edition.json) |
@@ -8319,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Me !!! for Mac | 99375 | [99375-color-me-for-mac.json](./99375-color-me-for-mac.json) |
 | Color Meme | 107057 | [107057-color-meme.json](./107057-color-meme.json) |
 | Color Meteoroids | 93449 | [93449-color-meteoroids.json](./93449-color-meteoroids.json) |
+| Color Mismatch Brain Quiz | 390488 | [390488-color-mismatch-brain-quiz.json](./390488-color-mismatch-brain-quiz.json) |
 | Color Move 2 | 407246 | [407246-color-move-2.json](./407246-color-move-2.json) |
 | Color Muse | 368618 | [368618-color-muse.json](./368618-color-muse.json) |
 | Color Ninjas | 181782 | [181782-color-ninjas.json](./181782-color-ninjas.json) |
@@ -12100,6 +12105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Solitaire 2: The Smoking Gun | 22125 | [22125-crime-solitaire-2-the-smoking-gun.json](./22125-crime-solitaire-2-the-smoking-gun.json) |
 | Crime Spree | 42771 | [42771-crime-spree.json](./42771-crime-spree.json) |
 | Crime Stories: Days of Vengeance | 105247 | [105247-crime-stories-days-of-vengeance.json](./105247-crime-stories-days-of-vengeance.json) |
+| Crime Thief Simulator | 390489 | [390489-crime-thief-simulator.json](./390489-crime-thief-simulator.json) |
 | Crime Time | 12017 | [12017-crime-time.json](./12017-crime-time.json) |
 | Crime Wave | 12018 | [12018-crime-wave.json](./12018-crime-wave.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
@@ -14006,6 +14012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut | 202201 | [202201-cut.json](./202201-cut.json) |
 | Cut 2017 | 91411 | [91411-cut-2017.json](./91411-cut-2017.json) |
 | Cut Cats' Balls | 410309 | [410309-cut-cats-balls.json](./410309-cut-cats-balls.json) |
+| Cut Content Restored | 390540 | [390540-cut-content-restored.json](./390540-cut-content-restored.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
