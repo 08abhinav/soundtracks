@@ -2930,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Kiss Him Already! | 225310 | [225310-just-kiss-him-already.json](./225310-just-kiss-him-already.json) |
 | Just Loot | 410162 | [410162-just-loot.json](./410162-just-loot.json) |
 | Just Made a MageTower | 369628 | [369628-just-made-a-magetower.json](./369628-just-made-a-magetower.json) |
+| Just Madness: Earth Apocalypse 1979 | 412250 | [412250-just-madness-earth-apocalypse-1979.json](./412250-just-madness-earth-apocalypse-1979.json) |
 | Just Maze | 184295 | [184295-just-maze.json](./184295-just-maze.json) |
 | Just Me and Only Me Against the World | 176437 | [176437-just-me-and-only-me-against-the-world.json](./176437-just-me-and-only-me-against-the-world.json) |
 | Just Move Fall Dungeon Endless Abyss | 360661 | [360661-just-move-fall-dungeon-endless-abyss.json](./360661-just-move-fall-dungeon-endless-abyss.json) |
