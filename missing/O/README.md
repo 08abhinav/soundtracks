@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurum | 276184 | [276184-obscurum.json](./276184-obscurum.json) |
 | Observance of Homeland | 368151 | [368151-observance-of-homeland.json](./368151-observance-of-homeland.json) |
 | Observation at Freddy's | 318639 | [318639-observation-at-freddys.json](./318639-observation-at-freddys.json) |
+| Observation Beauty | 398913 | [398913-observation-beauty.json](./398913-observation-beauty.json) |
 | Observation Daruma Log | 400262 | [400262-observation-daruma-log.json](./400262-observation-daruma-log.json) |
 | Observation Protocol | 416032 | [416032-observation-protocol.json](./416032-observation-protocol.json) |
 | Observatory: A VR Variety Pack | 19062 | [19062-observatory-a-vr-variety-pack.json](./19062-observatory-a-vr-variety-pack.json) |
