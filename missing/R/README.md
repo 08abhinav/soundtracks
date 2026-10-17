@@ -4249,6 +4249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Runner: Endless Runner Adventure | 96490 | [96490-retro-runner-endless-runner-adventure.json](./96490-retro-runner-endless-runner-adventure.json) |
 | Retro Runners X2 | 387725 | [387725-retro-runners-x2.json](./387725-retro-runners-x2.json) |
 | Retro Santa Run | 327434 | [327434-retro-santa-run.json](./327434-retro-santa-run.json) |
+| Retro Sci-Fi Adventure | 413447 | [413447-retro-sci-fi-adventure.json](./413447-retro-sci-fi-adventure.json) |
 | Retro Shooter Rampage Bundle | 154489 | [154489-retro-shooter-rampage-bundle.json](./154489-retro-shooter-rampage-bundle.json) |
 | Retro Shooting | 57329 | [57329-retro-shooting.json](./57329-retro-shooting.json) |
 | Retro Short Game | 241269 | [241269-retro-short-game.json](./241269-retro-short-game.json) |
@@ -4518,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge: Jane The Killer | 286569 | [286569-revenge-jane-the-killer.json](./286569-revenge-jane-the-killer.json) |
 | Revenge: Rhobar's myth | 17864 | [17864-revenge-rhobars-myth.json](./17864-revenge-rhobars-myth.json) |
 | Revenger | 164983 | [164983-revenger.json](./164983-revenger.json) |
+| Revenger Origin | 413450 | [413450-revenger-origin.json](./413450-revenger-origin.json) |
 | Revenger: Age of Morons | 89980 | [89980-revenger-age-of-morons.json](./89980-revenger-age-of-morons.json) |
 | Revengers | 220626 | [220626-revengers.json](./220626-revengers.json) |
 | Revenggie | 412308 | [412308-revenggie.json](./412308-revenggie.json) |
