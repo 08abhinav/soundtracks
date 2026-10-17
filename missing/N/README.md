@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
 | Natsu to Hakaba to Urameshiya | 285378 | [285378-natsu-to-hakaba-to-urameshiya.json](./285378-natsu-to-hakaba-to-urameshiya.json) |
+| Natsu Uso: Ahead of the Reminiscence | 379631 | [379631-natsu-uso-ahead-of-the-reminiscence.json](./379631-natsu-uso-ahead-of-the-reminiscence.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Return | 198350 | [198350-no-return.json](./198350-no-return.json) |
 | No Return Address | 412207 | [412207-no-return-address.json](./412207-no-return-address.json) |
 | No Road to Peak: Together | 358988 | [358988-no-road-to-peak-together.json](./358988-no-road-to-peak-together.json) |
+| No Roads: 4×4 Off-Road Challenge | 379723 | [379723-no-roads-4-4-off-road-challenge.json](./379723-no-roads-4-4-off-road-challenge.json) |
 | No Rules Box! | 301815 | [301815-no-rules-box.json](./301815-no-rules-box.json) |
 | No Rush | 25533 | [25533-no-rush.json](./25533-no-rush.json) |
 | No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
