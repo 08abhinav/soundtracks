@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
 | Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
 | Haunted Room! Urami-chan | 351785 | [351785-haunted-room-urami-chan.json](./351785-haunted-room-urami-chan.json) |
+| Haunted School | 403170 | [403170-haunted-school.json](./403170-haunted-school.json) |
 | Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help Hurt Hopp | 148934 | [148934-help-hurt-hopp.json](./148934-help-hurt-hopp.json) |
 | Help Me | 190038 | [190038-help-me.json](./190038-help-me.json) |
 | Help me Braveman! | 212484 | [212484-help-me-braveman.json](./212484-help-me-braveman.json) |
+| Help me Cleaner Sama!: I Got Isekai'd to Clean Monster Girl Basements | 402756 | [402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json](./402756-help-me-cleaner-sama-i-got-isekaid-to-clean-monster-girl-basements.json) |
 | Help Me Escape! The Puzzle Maker's Office | 108438 | [108438-help-me-escape-the-puzzle-makers-office.json](./108438-help-me-escape-the-puzzle-makers-office.json) |
 | Help Me Fly | 240832 | [240832-help-me-fly.json](./240832-help-me-fly.json) |
 | Help Me Jack: Save the Dogs | 175731 | [175731-help-me-jack-save-the-dogs.json](./175731-help-me-jack-save-the-dogs.json) |
@@ -5233,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Love: A Visual Novel Romance | 328519 | [328519-high-school-love-a-visual-novel-romance.json](./328519-high-school-love-a-visual-novel-romance.json) |
 | High School Maze 3D | 297633 | [297633-high-school-maze-3d.json](./297633-high-school-maze-3d.json) |
 | High School Musical 2: Work This Out! | 21371 | [21371-high-school-musical-2-work-this-out.json](./21371-high-school-musical-2-work-this-out.json) |
+| High School Musical 3: High School Pinball | 402827 | [402827-high-school-musical-3-high-school-pinball.json](./402827-high-school-musical-3-high-school-pinball.json) |
 | High School Musical 3: Senior Year | 138091 | [138091-high-school-musical-3-senior-year.json](./138091-high-school-musical-3-senior-year.json) |
 | High School Musical 3: Senior Year Dance | 4912 | [4912-high-school-musical-3-senior-year-dance.json](./4912-high-school-musical-3-senior-year-dance.json) |
 | High School Musical Makin' the Cut! | 44063 | [44063-high-school-musical-makin-the-cut.json](./44063-high-school-musical-makin-the-cut.json) |
