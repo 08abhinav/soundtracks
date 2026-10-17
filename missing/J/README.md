@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's USAF | 71409 | [71409-janes-usaf.json](./71409-janes-usaf.json) |
 | Jane's Zoo | 25486 | [25486-janes-zoo.json](./25486-janes-zoo.json) |
 | Jane`s Hotel 2: Family Hero | 180092 | [180092-jane-s-hotel-2-family-hero.json](./180092-jane-s-hotel-2-family-hero.json) |
+| Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
