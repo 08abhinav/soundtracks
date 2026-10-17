@@ -2825,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Survivor | 272736 | [272736-orc-survivor.json](./272736-orc-survivor.json) |
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
+| Orc's Bride | 367196 | [367196-orcs-bride.json](./367196-orcs-bride.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orch Star | 76615 | [76615-orch-star.json](./76615-orch-star.json) |
 | Orchard | 92511 | [92511-orchard.json](./92511-orchard.json) |
