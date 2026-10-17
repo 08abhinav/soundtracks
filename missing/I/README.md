@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Police Tycoon | 169900 | [169900-idle-police-tycoon.json](./169900-idle-police-tycoon.json) |
 | Idle Portal Guardian | 118372 | [118372-idle-portal-guardian.json](./118372-idle-portal-guardian.json) |
 | Idle Quest Giver | 247210 | [247210-idle-quest-giver.json](./247210-idle-quest-giver.json) |
+| Idle Quest Simulator | 390058 | [390058-idle-quest-simulator.json](./390058-idle-quest-simulator.json) |
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
 | Idle Raid | 147245 | [147245-idle-raid.json](./147245-idle-raid.json) |
 | Idle Raiders: Second Run | 423291 | [423291-idle-raiders-second-run.json](./423291-idle-raiders-second-run.json) |
@@ -3971,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invizimals: The Alliance | 23417 | [23417-invizimals-the-alliance.json](./23417-invizimals-the-alliance.json) |
 | Invizimals: The Lost Kingdom | 23357 | [23357-invizimals-the-lost-kingdom.json](./23357-invizimals-the-lost-kingdom.json) |
 | Invizimals: The Lost Tribes | 3001 | [3001-invizimals-the-lost-tribes.json](./3001-invizimals-the-lost-tribes.json) |
+| Invocation: Ghost Photography | 390057 | [390057-invocation-ghost-photography.json](./390057-invocation-ghost-photography.json) |
 | Invocation: The Festival of Souls | 221084 | [221084-invocation-the-festival-of-souls.json](./221084-invocation-the-festival-of-souls.json) |
 | inVokeR | 36821 | [36821-invoker.json](./36821-invoker.json) |
 | Invokers Tournament | 60781 | [60781-invokers-tournament.json](./60781-invokers-tournament.json) |
