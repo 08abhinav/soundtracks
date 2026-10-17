@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Survivor: Undead City Attack | 262002 | [262002-zombie-survivor-undead-city-attack.json](./262002-zombie-survivor-undead-city-attack.json) |
 | Zombie Survivors | 316679 | [316679-zombie-survivors.json](./316679-zombie-survivors.json) |
 | Zombie Survivors | 367823 | [367823-zombie-survivors.json](./367823-zombie-survivors.json) |
+| Zombie Survivors: Eternal Nightfall | 384315 | [384315-zombie-survivors-eternal-nightfall.json](./384315-zombie-survivors-eternal-nightfall.json) |
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
