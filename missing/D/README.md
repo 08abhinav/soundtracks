@@ -15,6 +15,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Cube Planet | 66980 | [66980-d-cube-planet.json](./66980-d-cube-planet.json) |
 | D-Day | 14768 | [14768-d-day.json](./14768-d-day.json) |
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
+| D-Day | 410295 | [410295-d-day.json](./410295-d-day.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
 | D-Day: America Invades | 69911 | [69911-d-day-america-invades.json](./69911-d-day-america-invades.json) |
@@ -1404,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Connect | 381777 | [381777-dark-witch-connect.json](./381777-dark-witch-connect.json) |
+| Dark Witch Match! | 410487 | [410487-dark-witch-match.json](./410487-dark-witch-match.json) |
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
@@ -1530,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
+| DarkRay | 410492 | [410492-darkray.json](./410492-darkray.json) |
 | Darkrite: The Blight of Love | 386449 | [386449-darkrite-the-blight-of-love.json](./386449-darkrite-the-blight-of-love.json) |
 | Darkroom | 356607 | [356607-darkroom.json](./356607-darkroom.json) |
 | Darkroom | 75666 | [75666-darkroom.json](./75666-darkroom.json) |
@@ -2681,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Tropics | 96907 | [96907-dead-tropics.json](./96907-dead-tropics.json) |
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
+| Dead Turn | 410284 | [410284-dead-turn.json](./410284-dead-turn.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
@@ -2761,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
+| Deadlined. | 410485 | [410485-deadlined.json](./410485-deadlined.json) |
 | Deadliners | 46489 | [46489-deadliners.json](./46489-deadliners.json) |
 | Deadlings: Rotten Edition | 26822 | [26822-deadlings-rotten-edition.json](./26822-deadlings-rotten-edition.json) |
 | Deadlink | 204239 | [204239-deadlink.json](./204239-deadlink.json) |
@@ -4305,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
+| Democracy Manifest | 410499 | [410499-democracy-manifest.json](./410499-democracy-manifest.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
 | Democratic Socialism Simulator | 131780 | [131780-democratic-socialism-simulator.json](./131780-democratic-socialism-simulator.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
@@ -6126,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
+| Difficult? Punch-Out!! | 410279 | [410279-difficult-punch-out.json](./410279-difficult-punch-out.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
 | Dig | 304283 | [304283-dig.json](./304283-dig.json) |
@@ -8606,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
+| Don't Play Their Game | 410491 | [410491-dont-play-their-game.json](./410491-dont-play-their-game.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
 | Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
@@ -10195,6 +10203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
 | Dragon Battle | 183945 | [183945-dragon-battle.json](./183945-dragon-battle.json) |
 | Dragon Beat: Legend of Pinball | 73754 | [73754-dragon-beat-legend-of-pinball.json](./73754-dragon-beat-legend-of-pinball.json) |
+| Dragon Blade 2 | 410339 | [410339-dragon-blade-2.json](./410339-dragon-blade-2.json) |
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
@@ -12198,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Survival | 67913 | [67913-duel-survival.json](./67913-duel-survival.json) |
 | Duel Toys 2 | 222860 | [222860-duel-toys-2.json](./222860-duel-toys-2.json) |
 | Duel VR | 29083 | [29083-duel-vr.json](./29083-duel-vr.json) |
+| Duel: The Game Show | 410066 | [410066-duel-the-game-show.json](./410066-duel-the-game-show.json) |
 | Duel! | 137429 | [137429-duel.json](./137429-duel.json) |
 | Duelant | 311456 | [311456-duelant.json](./311456-duelant.json) |
 | Dueledged | 200013 | [200013-dueledged.json](./200013-dueledged.json) |
