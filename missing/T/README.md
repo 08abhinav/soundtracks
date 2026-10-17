@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Life | 333532 | [333532-tennis-life.json](./333532-tennis-life.json) |
 | Tennis Manager 2021 | 148444 | [148444-tennis-manager-2021.json](./148444-tennis-manager-2021.json) |
 | Tennis Manager 25 | 338259 | [338259-tennis-manager-25.json](./338259-tennis-manager-25.json) |
+| Tennis Manager 26 | 398827 | [398827-tennis-manager-26.json](./398827-tennis-manager-26.json) |
 | Tennis Manager Mobile | 234016 | [234016-tennis-manager-mobile.json](./234016-tennis-manager-mobile.json) |
 | Tennis Masters Series | 18334 | [18334-tennis-masters-series.json](./18334-tennis-masters-series.json) |
 | Tennis Masters Series 2003 | 23698 | [23698-tennis-masters-series-2003.json](./23698-tennis-masters-series-2003.json) |
@@ -7668,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House the Dead Built | 231802 | [231802-the-house-the-dead-built.json](./231802-the-house-the-dead-built.json) |
 | The House Unrest | 392166 | [392166-the-house-unrest.json](./392166-the-house-unrest.json) |
 | The House Where They Dwell | 192389 | [192389-the-house-where-they-dwell.json](./192389-the-house-where-they-dwell.json) |
+| The Housekeeper | 398903 | [398903-the-housekeeper.json](./398903-the-housekeeper.json) |
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
@@ -22004,6 +22006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip Movie /Mosaic: Shounen Alice Satsujin Jiken | 366243 | [366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json](./366243-trip-movie-mosaic-shounen-alice-satsujin-jiken.json) |
 | Trip The Light | 379958 | [379958-trip-the-light.json](./379958-trip-the-light.json) |
 | Trip Time Collection | 328467 | [328467-trip-time-collection.json](./328467-trip-time-collection.json) |
+| Trip to Europe 12: Romantic Tour - Collector's Edition | 398815 | [398815-trip-to-europe-12-romantic-tour-collectors-edition.json](./398815-trip-to-europe-12-romantic-tour-collectors-edition.json) |
 | Trip To Nonogram: Bali Ubud | 245375 | [245375-trip-to-nonogram-bali-ubud.json](./245375-trip-to-nonogram-bali-ubud.json) |
 | Trip to Vinelands | 30865 | [30865-trip-to-vinelands.json](./30865-trip-to-vinelands.json) |
 | Trip World | 6549 | [6549-trip-world.json](./6549-trip-world.json) |
