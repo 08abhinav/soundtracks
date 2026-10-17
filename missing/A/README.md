@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Guardians | 423275 | [423275-abyssal-guardians.json](./423275-abyssal-guardians.json) |
 | Abyssal Lapidary | 411093 | [411093-abyssal-lapidary.json](./411093-abyssal-lapidary.json) |
 | Abyssal Maw | 372125 | [372125-abyssal-maw.json](./372125-abyssal-maw.json) |
+| Abyssal Merge | 384912 | [384912-abyssal-merge.json](./384912-abyssal-merge.json) |
 | Abyssal Shade | 337790 | [337790-abyssal-shade.json](./337790-abyssal-shade.json) |
 | Abyssal Soul | 412810 | [412810-abyssal-soul.json](./412810-abyssal-soul.json) |
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
@@ -3212,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Gone... Fishing VR | 182789 | [182789-agent-gone-fishing-vr.json](./182789-agent-gone-fishing-vr.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
+| Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
@@ -8125,6 +8127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Pipe | 26461 | [26461-apple-pipe.json](./26461-apple-pipe.json) |
 | Apple Pop | 121460 | [121460-apple-pop.json](./121460-apple-pop.json) |
 | Apple Quest Monsters DX | 249740 | [249740-apple-quest-monsters-dx.json](./249740-apple-quest-monsters-dx.json) |
+| Apple Rabble Dazzle | 384925 | [384925-apple-rabble-dazzle.json](./384925-apple-rabble-dazzle.json) |
 | Apple Sauce Apartments | 176460 | [176460-apple-sauce-apartments.json](./176460-apple-sauce-apartments.json) |
 | Apple Sauce Beach | 242691 | [242691-apple-sauce-beach.json](./242691-apple-sauce-beach.json) |
 | Apple Sauce Hinamatsuri | 239073 | [239073-apple-sauce-hinamatsuri.json](./239073-apple-sauce-hinamatsuri.json) |
@@ -8902,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Tactics | 130694 | [130694-arcana-tactics.json](./130694-arcana-tactics.json) |
 | Arcana: Boundless Horizon | 220306 | [220306-arcana-boundless-horizon.json](./220306-arcana-boundless-horizon.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
+| Arcana: Heat and Cold - Season 3 | 384903 | [384903-arcana-heat-and-cold-season-3.json](./384903-arcana-heat-and-cold-season-3.json) |
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
@@ -11507,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Extra Area: Atelier Plachta | 199509 | [199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json](./199509-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-extra-area-atelier-plachta.json) |
 | Atelier Sophie 2: The Alchemist of the Mysterious Dream - Ultimate Edition | 199870 | [199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json](./199870-atelier-sophie-2-the-alchemist-of-the-mysterious-dream-ultimate-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book | 12633 | [12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json](./12633-atelier-sophie-the-alchemist-of-the-mysterious-book.json) |
+| Atelier Sophie: The Alchemist of the Mysterious Book - Limited Edition | 384887 | [384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json](./384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json) |
 | Atelier Tia | 169739 | [169739-atelier-tia.json](./169739-atelier-tia.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
