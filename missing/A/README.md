@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A G-G-Ghost! | 311656 | [311656-a-g-g-ghost.json](./311656-a-g-g-ghost.json) |
 | A Game About | 110919 | [110919-a-game-about.json](./110919-a-game-about.json) |
 | A Game About a King Saving a Dragon | 384142 | [384142-a-game-about-a-king-saving-a-dragon.json](./384142-a-game-about-a-king-saving-a-dragon.json) |
+| A Game About Achieving Stuff | 395734 | [395734-a-game-about-achieving-stuff.json](./395734-a-game-about-achieving-stuff.json) |
 | A Game About AI | 405946 | [405946-a-game-about-ai.json](./405946-a-game-about-ai.json) |
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
@@ -748,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Short Tale of Solitude | 169351 | [169351-a-short-tale-of-solitude.json](./169351-a-short-tale-of-solitude.json) |
 | A Show of Hands | 52563 | [52563-a-show-of-hands.json](./52563-a-show-of-hands.json) |
 | A Show of Kindness | 112465 | [112465-a-show-of-kindness.json](./112465-a-show-of-kindness.json) |
+| A show she never watched. | 395739 | [395739-a-show-she-never-watched.json](./395739-a-show-she-never-watched.json) |
 | A Silent Statue | 274939 | [274939-a-silent-statue.json](./274939-a-silent-statue.json) |
 | A Silent Wood | 61318 | [61318-a-silent-wood.json](./61318-a-silent-wood.json) |
 | A Silly Goofy Dream 2 | 253477 | [253477-a-silly-goofy-dream-2.json](./253477-a-silly-goofy-dream-2.json) |
@@ -4770,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Invasion | 282800 | [282800-aliens-invasion.json](./282800-aliens-invasion.json) |
 | Aliens Like Milk | 200186 | [200186-aliens-like-milk.json](./200186-aliens-like-milk.json) |
 | Aliens Love Beefs | 132529 | [132529-aliens-love-beefs.json](./132529-aliens-love-beefs.json) |
+| Aliens Must Die | 395869 | [395869-aliens-must-die.json](./395869-aliens-must-die.json) |
 | Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
@@ -5663,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Joes Journey | 157045 | [157045-amazing-joes-journey.json](./157045-amazing-joes-journey.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
+| Amazing Loot Grind | 395758 | [395758-amazing-loot-grind.json](./395758-amazing-loot-grind.json) |
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
 | Amazing Machines | 187385 | [187385-amazing-machines.json](./187385-amazing-machines.json) |
 | Amazing Maze | 18115 | [18115-amazing-maze.json](./18115-amazing-maze.json) |
@@ -6926,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
 | Animal Smash | 365068 | [365068-animal-smash.json](./365068-animal-smash.json) |
 | Animal Soccer World | 43355 | [43355-animal-soccer-world.json](./43355-animal-soccer-world.json) |
+| Animal Stackers | 395870 | [395870-animal-stackers.json](./395870-animal-stackers.json) |
 | Animal Striker 2 | 321651 | [321651-animal-striker-2.json](./321651-animal-striker-2.json) |
 | Animal Style | 391594 | [391594-animal-style.json](./391594-animal-style.json) |
 | Animal Super Squad | 74598 | [74598-animal-super-squad.json](./74598-animal-super-squad.json) |
@@ -9756,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Antz | 175721 | [175721-army-antz.json](./175721-army-antz.json) |
 | Army Attack | 115544 | [115544-army-attack.json](./115544-army-attack.json) |
 | Army Battle Simulator | 91244 | [91244-army-battle-simulator.json](./91244-army-battle-simulator.json) |
+| Army Car Team | 395871 | [395871-army-car-team.json](./395871-army-car-team.json) |
 | Army Chess | 89848 | [89848-army-chess.json](./89848-army-chess.json) |
 | Army Chess Super Online | 99110 | [99110-army-chess-super-online.json](./99110-army-chess-super-online.json) |
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
@@ -12067,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autogun Heroes: Supercharged | 325518 | [325518-autogun-heroes-supercharged.json](./325518-autogun-heroes-supercharged.json) |
 | AutoHeroes | 248883 | [248883-autoheroes.json](./248883-autoheroes.json) |
 | AutoLand | 149876 | [149876-autoland.json](./149876-autoland.json) |
+| Automa | 395737 | [395737-automa.json](./395737-automa.json) |
 | Automachef | 107217 | [107217-automachef.json](./107217-automachef.json) |
 | Automakhan | 56303 | [56303-automakhan.json](./56303-automakhan.json) |
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
