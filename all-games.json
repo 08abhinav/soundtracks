@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:21:35.261Z",
-  "total_soundtracks": 2062,
+  "generated_at": "2026-10-17T15:21:42.988Z",
+  "total_soundtracks": 2063,
   "games": [
     {
       "igdb_id": 7522,
@@ -13156,6 +13156,20 @@
           "album_name": "Mega Man 2 Sound Collection",
           "spotify_url": "https://open.spotify.com/album/0D1qEM8x4CuxftLHLKfv9m",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2684,
+      "game_name": "Mercenaries 2: World in Flames",
+      "game_url": "https://ostdb.net/games/mercenaries-2-world-in-flames",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273112114d2eb5c1f38e2be13c6",
+      "albums": [
+        {
+          "album_name": "Mercenaries 2: World in Flames (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7oLVpH6m0NRls6ZZBq6VuT",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
