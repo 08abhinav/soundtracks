@@ -3121,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jr. | 45988 | [45988-death-jr.json](./45988-death-jr.json) |
 | Death Jr. and the Science Fair of Doom | 21412 | [21412-death-jr-and-the-science-fair-of-doom.json](./21412-death-jr-and-the-science-fair-of-doom.json) |
 | Death Jump | 118237 | [118237-death-jump.json](./118237-death-jump.json) |
+| Death Jump | 383785 | [383785-death-jump.json](./383785-death-jump.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
@@ -5025,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
+| Desktop Aquarium | 383742 | [383742-desktop-aquarium.json](./383742-desktop-aquarium.json) |
 | Desktop Baseball | 119525 | [119525-desktop-baseball.json](./119525-desktop-baseball.json) |
 | Desktop Basketball | 147851 | [147851-desktop-basketball.json](./147851-desktop-basketball.json) |
 | Desktop Basketball 2 | 262880 | [262880-desktop-basketball-2.json](./262880-desktop-basketball-2.json) |
@@ -7456,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
+| Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissidia Final Fantasy NT: Special Steelbook Edition | 386253 | [386253-dissidia-final-fantasy-nt-special-steelbook-edition.json](./386253-dissidia-final-fantasy-nt-special-steelbook-edition.json) |
@@ -11376,6 +11379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamsend: Wintersong | 411537 | [411537-dreamsend-wintersong.json](./411537-dreamsend-wintersong.json) |
 | Dreamsettler | 196002 | [196002-dreamsettler.json](./196002-dreamsettler.json) |
 | Dreamshard | 132750 | [132750-dreamshard.json](./132750-dreamshard.json) |
+| Dreamshift | 383797 | [383797-dreamshift.json](./383797-dreamshift.json) |
 | DreamShock | 316159 | [316159-dreamshock.json](./316159-dreamshock.json) |
 | Dreamshot Fantasia | 278914 | [278914-dreamshot-fantasia.json](./278914-dreamshot-fantasia.json) |
 | DreamSleuth: hidden object adventure quest lite | 88311 | [88311-dreamsleuth-hidden-object-adventure-quest-lite.json](./88311-dreamsleuth-hidden-object-adventure-quest-lite.json) |
