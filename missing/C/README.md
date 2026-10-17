@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't buy me love! | 363940 | [363940-cant-buy-me-love.json](./363940-cant-buy-me-love.json) |
 | Can't Drive This | 27097 | [27097-cant-drive-this.json](./27097-cant-drive-this.json) |
 | Can't Even See the Sky | 361922 | [361922-cant-even-see-the-sky.json](./361922-cant-even-see-the-sky.json) |
+| Can't Hold My Feelings | 403434 | [403434-cant-hold-my-feelings.json](./403434-cant-hold-my-feelings.json) |
 | Can't Run Frm Evil | 262294 | [262294-cant-run-frm-evil.json](./262294-cant-run-frm-evil.json) |
 | Can't Sleep! | 333627 | [333627-cant-sleep.json](./333627-cant-sleep.json) |
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
+| Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Train | 177493 | [177493-cat-train.json](./177493-cat-train.json) |
@@ -11642,6 +11644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
+| Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
