@@ -8503,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
 | Body Harvest: Recompiled | 418633 | [418633-body-harvest-recompiled.json](./418633-body-harvest-recompiled.json) |
+| Body Hiding Simulator | 400689 | [400689-body-hiding-simulator.json](./400689-body-hiding-simulator.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
@@ -8723,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Squad Academy | 28012 | [28012-bomb-squad-academy.json](./28012-bomb-squad-academy.json) |
 | Bomb Sweeper VR | 187179 | [187179-bomb-sweeper-vr.json](./187179-bomb-sweeper-vr.json) |
 | Bomb the City | 57669 | [57669-bomb-the-city.json](./57669-bomb-the-city.json) |
+| Bomb the Hill | 400674 | [400674-bomb-the-hill.json](./400674-bomb-the-hill.json) |
 | Bomb the Monsters! | 35638 | [35638-bomb-the-monsters.json](./35638-bomb-the-monsters.json) |
 | Bomb the Town | 319968 | [319968-bomb-the-town.json](./319968-bomb-the-town.json) |
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
@@ -10953,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
+| BrikGames | 400690 | [400690-brikgames.json](./400690-brikgames.json) |
 | Briks | 99505 | [99505-briks.json](./99505-briks.json) |
 | Briks 2 | 89668 | [89668-briks-2.json](./89668-briks-2.json) |
 | Briks Boss Battle | 374669 | [374669-briks-boss-battle.json](./374669-briks-boss-battle.json) |
@@ -12586,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
 | Business Empire | 235374 | [235374-business-empire.json](./235374-business-empire.json) |
+| Business Empire | 400657 | [400657-business-empire.json](./400657-business-empire.json) |
 | Business Empire Tycoon | 309489 | [309489-business-empire-tycoon.json](./309489-business-empire-tycoon.json) |
 | Business Empire: RichMan | 280220 | [280220-business-empire-richman.json](./280220-business-empire-richman.json) |
 | Business Magnate | 112754 | [112754-business-magnate.json](./112754-business-magnate.json) |
