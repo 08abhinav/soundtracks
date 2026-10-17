@@ -6170,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiroi Ringu he: Twinkle Little Star | 38217 | [38217-shiroi-ringu-he-twinkle-little-star.json](./38217-shiroi-ringu-he-twinkle-little-star.json) |
 | Shiroki Koutetsu no X: The Out of Gunvolt | 136781 | [136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json](./136781-shiroki-koutetsu-no-x-the-out-of-gunvolt.json) |
 | Shirokoi Sakura Gram | 370245 | [370245-shirokoi-sakura-gram.json](./370245-shirokoi-sakura-gram.json) |
+| ShiroKuro | 414125 | [414125-shirokuro.json](./414125-shirokuro.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
 | Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
@@ -9269,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Heroes | 357366 | [357366-sleepy-heroes.json](./357366-sleepy-heroes.json) |
 | Sleepy in Saigon | 131929 | [131929-sleepy-in-saigon.json](./131929-sleepy-in-saigon.json) |
 | Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
+| Sleepy Racers | 414107 | [414107-sleepy-racers.json](./414107-sleepy-racers.json) |
 | Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
@@ -10817,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowday! | 310945 | [310945-snowday.json](./310945-snowday.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdown | 176228 | [176228-snowdown.json](./176228-snowdown.json) |
+| Snowdown Sled Racers | 414097 | [414097-snowdown-sled-racers.json](./414097-snowdown-sled-racers.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
@@ -15505,6 +15508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splat! 2 | 416580 | [416580-splat-2.json](./416580-splat-2.json) |
+| Splatchinko | 414085 | [414085-splatchinko.json](./414085-splatchinko.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
@@ -15617,6 +15621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants Saves the Krusty Krab | 135810 | [135810-spongebob-squarepants-saves-the-krusty-krab.json](./135810-spongebob-squarepants-saves-the-krusty-krab.json) |
 | SpongeBob SquarePants Talking Heads | 382919 | [382919-spongebob-squarepants-talking-heads.json](./382919-spongebob-squarepants-talking-heads.json) |
 | SpongeBob SquarePants Typing | 46444 | [46444-spongebob-squarepants-typing.json](./46444-spongebob-squarepants-typing.json) |
+| Spongebob Squarepants x One Piece | 414109 | [414109-spongebob-squarepants-x-one-piece.json](./414109-spongebob-squarepants-x-one-piece.json) |
 | SpongeBob SquarePants: A Day in the Life of a Sponge | 73000 | [73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json](./73000-spongebob-squarepants-a-day-in-the-life-of-a-sponge.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 133910 | [133910-spongebob-squarepants-battle-for-bikini-bottom.json](./133910-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
@@ -16026,6 +16031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprout Valley: Special Edition | 304776 | [304776-sprout-valley-special-edition.json](./304776-sprout-valley-special-edition.json) |
 | Sprout Valley: Spray Paint | 317291 | [317291-sprout-valley-spray-paint.json](./317291-sprout-valley-spray-paint.json) |
+| Sprout's Meadow | 414110 | [414110-sprouts-meadow.json](./414110-sprouts-meadow.json) |
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
