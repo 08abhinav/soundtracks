@@ -23616,6 +23616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Farmer | 392323 | [392323-typing-farmer.json](./392323-typing-farmer.json) |
 | Typing Faster | 125928 | [125928-typing-faster.json](./125928-typing-faster.json) |
 | Typing Fingers | 167352 | [167352-typing-fingers.json](./167352-typing-fingers.json) |
+| Typing Frankenstein | 407862 | [407862-typing-frankenstein.json](./407862-typing-frankenstein.json) |
 | Typing game | 109386 | [109386-typing-game.json](./109386-typing-game.json) |
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
