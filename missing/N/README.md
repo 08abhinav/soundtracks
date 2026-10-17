@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni-Hao Kai-Lan: Kai-Lan's Great trip to China! | 210026 | [210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json](./210026-ni-hao-kai-lan-kai-lans-great-trip-to-china.json) |
 | Ni'mRoD | 256818 | [256818-nimrod.json](./256818-nimrod.json) |
 | Nia | 192759 | [192759-nia.json](./192759-nia.json) |
+| Nia and The Abyss | 379091 | [379091-nia-and-the-abyss.json](./379091-nia-and-the-abyss.json) |
 | Nia in Mushroom World | 185511 | [185511-nia-in-mushroom-world.json](./185511-nia-in-mushroom-world.json) |
 | Nia: Jewel Hunter | 358299 | [358299-nia-jewel-hunter.json](./358299-nia-jewel-hunter.json) |
 | Niaki | 262065 | [262065-niaki.json](./262065-niaki.json) |
@@ -3556,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
 | Nine Princes in Amber | 15271 | [15271-nine-princes-in-amber.json](./15271-nine-princes-in-amber.json) |
+| Nine Prophets: The Abyss | 379092 | [379092-nine-prophets-the-abyss.json](./379092-nine-prophets-the-abyss.json) |
 | Nine Provinces: Caravan | 130064 | [130064-nine-provinces-caravan.json](./130064-nine-provinces-caravan.json) |
 | Nine Realms: Dawn Touch | 296259 | [296259-nine-realms-dawn-touch.json](./296259-nine-realms-dawn-touch.json) |
 | Nine Realms: Revolt | 254770 | [254770-nine-realms-revolt.json](./254770-nine-realms-revolt.json) |
