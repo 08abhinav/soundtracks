@@ -9790,6 +9790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Pharaoh | 212520 | [212520-the-missing-pharaoh.json](./212520-the-missing-pharaoh.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
+| The Missing Threads | 412925 | [412925-the-missing-threads.json](./412925-the-missing-threads.json) |
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
 | The Missing: J.J. Macfield and the Island of Memories | 87499 | [87499-the-missing-j-j-macfield-and-the-island-of-memories.json](./87499-the-missing-j-j-macfield-and-the-island-of-memories.json) |
 | The Mission | 78027 | [78027-the-mission.json](./78027-the-mission.json) |
@@ -10488,6 +10489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
+| The Phantom of the Museum | 412937 | [412937-the-phantom-of-the-museum.json](./412937-the-phantom-of-the-museum.json) |
 | The Phantom P.I. Mission Apparition | 61894 | [61894-the-phantom-p-i-mission-apparition.json](./61894-the-phantom-p-i-mission-apparition.json) |
 | The Phantom Slayer | 71212 | [71212-the-phantom-slayer.json](./71212-the-phantom-slayer.json) |
 | The Phantom Soul | 57548 | [57548-the-phantom-soul.json](./57548-the-phantom-soul.json) |
@@ -16040,6 +16042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Star 2 | 233080 | [233080-tile-star-2.json](./233080-tile-star-2.json) |
 | Tile Tale | 204975 | [204975-tile-tale.json](./204975-tile-tale.json) |
 | Tile Tale | 266150 | [266150-tile-tale.json](./266150-tile-tale.json) |
+| Tile Tale | 412942 | [412942-tile-tale.json](./412942-tile-tale.json) |
 | Tile Tales: Pirate | 325250 | [325250-tile-tales-pirate.json](./325250-tile-tales-pirate.json) |
 | Tile Tempest | 373338 | [373338-tile-tempest.json](./373338-tile-tempest.json) |
 | Tile Triple 3D | 227509 | [227509-tile-triple-3d.json](./227509-tile-triple-3d.json) |
