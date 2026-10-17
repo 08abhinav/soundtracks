@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
+| Onefold Taxi Simulator | 370426 | [370426-onefold-taxi-simulator.json](./370426-onefold-taxi-simulator.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
 | Onegai My Melody: My Melody Adventure | 315563 | [315563-onegai-my-melody-my-melody-adventure.json](./315563-onegai-my-melody-my-melody-adventure.json) |
 | Onegai My Melody: Yume no Kuni no Daibouken | 97812 | [97812-onegai-my-melody-yume-no-kuni-no-daibouken.json](./97812-onegai-my-melody-yume-no-kuni-no-daibouken.json) |
