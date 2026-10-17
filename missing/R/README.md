@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
 | Range is HOT! | 146230 | [146230-range-is-hot.json](./146230-range-is-hot.json) |
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
+| Rangedrifter | 401275 | [401275-rangedrifter.json](./401275-rangedrifter.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
@@ -3427,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | REM-9: The Yume Nikki Randomizer | 229704 | [229704-rem-9-the-yume-nikki-randomizer.json](./229704-rem-9-the-yume-nikki-randomizer.json) |
 | Rem: The Dreamer | 368653 | [368653-rem-the-dreamer.json](./368653-rem-the-dreamer.json) |
 | Rema the Truth | 111887 | [111887-rema-the-truth.json](./111887-rema-the-truth.json) |
+| Remagotchi | 401300 | [401300-remagotchi.json](./401300-remagotchi.json) |
 | Remain | 30054 | [30054-remain.json](./30054-remain.json) |
 | Remain 1 | 260854 | [260854-remain-1.json](./260854-remain-1.json) |
 | Remain 3 | 260855 | [260855-remain-3.json](./260855-remain-3.json) |
@@ -9037,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
+| Rust: Sunburn Pack | 401308 | [401308-rust-sunburn-pack.json](./401308-rust-sunburn-pack.json) |
 | Rust: Voice Props Pack | 154246 | [154246-rust-voice-props-pack.json](./154246-rust-voice-props-pack.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
