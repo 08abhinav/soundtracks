@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell | 167123 | [167123-farewell.json](./167123-farewell.json) |
 | Farewell | 252987 | [252987-farewell.json](./252987-farewell.json) |
 | Farewell Avalon | 250901 | [250901-farewell-avalon.json](./250901-farewell-avalon.json) |
+| Farewell Intervale | 385436 | [385436-farewell-intervale.json](./385436-farewell-intervale.json) |
 | Farewell Jack | 390251 | [390251-farewell-jack.json](./390251-farewell-jack.json) |
 | Farewell North | 148788 | [148788-farewell-north.json](./148788-farewell-north.json) |
 | Farewell of Life | 329569 | [329569-farewell-of-life.json](./329569-farewell-of-life.json) |
