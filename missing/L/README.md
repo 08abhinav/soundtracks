@@ -4579,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
 | Living with Temptation 1: Wild Weekends & Wife Gone Wilder | 234112 | [234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json](./234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json) |
+| Living with Temptation 2: French Confessions | 384894 | [384894-living-with-temptation-2-french-confessions.json](./384894-living-with-temptation-2-french-confessions.json) |
 | Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
 | Living World Racing | 174792 | [174792-living-world-racing.json](./174792-living-world-racing.json) |
 | Living_City | 330830 | [330830-living-city.json](./330830-living-city.json) |
@@ -5069,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Catgirl is the Purrfect Pussy | 156629 | [156629-lonely-catgirl-is-the-purrfect-pussy.json](./156629-lonely-catgirl-is-the-purrfect-pussy.json) |
 | Lonely Chess | 181628 | [181628-lonely-chess.json](./181628-lonely-chess.json) |
 | Lonely Christmas | 326140 | [326140-lonely-christmas.json](./326140-lonely-christmas.json) |
+| Lonely Christmas: Cute Santa 2 | 384897 | [384897-lonely-christmas-cute-santa-2.json](./384897-lonely-christmas-cute-santa-2.json) |
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
@@ -5334,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Line: Season 1 | 397017 | [397017-loot-line-season-1.json](./397017-loot-line-season-1.json) |
+| Loot Line: Season 2 | 384895 | [384895-loot-line-season-2.json](./384895-loot-line-season-2.json) |
 | Loot List | 226875 | [226875-loot-list.json](./226875-loot-list.json) |
 | Loot Loop | 391204 | [391204-loot-loop.json](./391204-loot-loop.json) |
 | Loot Loot Goblin | 316778 | [316778-loot-loot-goblin.json](./316778-loot-loot-goblin.json) |
