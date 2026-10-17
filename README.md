@@ -1171,6 +1171,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War](https://ostdb.net/games/rome-total-war) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Alexander](https://ostdb.net/games/rome-total-war-alexander) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c30055ab78de65fa56c87e7b" width="60" /> | [Rome: Total War - Barbarian Invasion](https://ostdb.net/games/rome-total-war-barbarian-invasion) | **Rome Total War (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6rBrMTjROx03uL5oz8boX8) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27317204e505e3c5c324efee2a4" width="60" /> | [Runaway 3: A Twist of Fate](https://ostdb.net/games/runaway-3-a-twist-of-fate) | **Runaway 3 - A Twist of Fate (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0zh21RwHVQrnlMdgR4djQ2) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/87/68/7c876843-600d-9100-c551-7d4315419ba5/8721466129389.png/600x600bb.jpg" width="60" /> | [Rust](https://ostdb.net/games/rust) | **Rust Vol. 1 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RAynSIRV1VJlszPBJ6N3N) · [Apple Music](https://music.apple.com/us/album/rust-vol-1-original-game-soundtrack/1887857023) · [Album](https://album.link/i/1887857023) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362ededa694d227d28d770ef7" width="60" /> | [Rusty Lake Hotel](https://ostdb.net/games/rusty-lake-hotel) | **Rusty Lake Hotel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0bbLKL23ag3UiyZFFsekiY) |
 
@@ -1692,4 +1693,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2009 soundtracks · last updated 2026-10-17T12:00:58.466Z_
+_2010 soundtracks · last updated 2026-10-17T12:01:06.609Z_
