@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T17:03:42.357Z",
-  "total_missing": 224478,
+  "generated_at": "2026-10-17T17:18:37.586Z",
+  "total_missing": 224528,
   "games": [
     {
       "igdb_id": 191680,
@@ -3470,6 +3470,11 @@
       "igdb_id": 247052,
       "game_name": "110 Hurdles",
       "file": "missing/0-9/247052-110-hurdles.json"
+    },
+    {
+      "igdb_id": 377367,
+      "game_name": "1111-Strike",
+      "file": "missing/0-9/377367-1111-strike.json"
     },
     {
       "igdb_id": 219505,
@@ -8542,6 +8547,11 @@
       "file": "missing/0-9/187449-3m-spain-foundation-stem-vr.json"
     },
     {
+      "igdb_id": 377374,
+      "game_name": "3on3 FreeStyle: 2025 Special Pack",
+      "file": "missing/0-9/377374-3on3-freestyle-2025-special-pack.json"
+    },
+    {
       "igdb_id": 269049,
       "game_name": "3on3 FreeStyle: Battle Pass 2023 Autumn Bundle Part 1",
       "file": "missing/0-9/269049-3on3-freestyle-battle-pass-2023-autumn-bundle-part-1.json"
@@ -8555,6 +8565,36 @@
       "igdb_id": 276858,
       "game_name": "3on3 FreeStyle: Battle Pass 2023 Autumn Part 2",
       "file": "missing/0-9/276858-3on3-freestyle-battle-pass-2023-autumn-part-2.json"
+    },
+    {
+      "igdb_id": 377373,
+      "game_name": "3on3 FreeStyle: Beginner's Starter Kit",
+      "file": "missing/0-9/377373-3on3-freestyle-beginners-starter-kit.json"
+    },
+    {
+      "igdb_id": 377372,
+      "game_name": "3on3 FreeStyle: Character Access Pass",
+      "file": "missing/0-9/377372-3on3-freestyle-character-access-pass.json"
+    },
+    {
+      "igdb_id": 377371,
+      "game_name": "3on3 FreeStyle: Crossplay 4th Anniversary Gift Pack",
+      "file": "missing/0-9/377371-3on3-freestyle-crossplay-4th-anniversary-gift-pack.json"
+    },
+    {
+      "igdb_id": 377370,
+      "game_name": "3on3 FreeStyle: P5 Selection Pro Pack",
+      "file": "missing/0-9/377370-3on3-freestyle-p5-selection-pro-pack.json"
+    },
+    {
+      "igdb_id": 377369,
+      "game_name": "3on3 FreeStyle: P5 Selection Rookie Pack",
+      "file": "missing/0-9/377369-3on3-freestyle-p5-selection-rookie-pack.json"
+    },
+    {
+      "igdb_id": 377368,
+      "game_name": "3on3 FreeStyle: P6 Selection Rookie Pack",
+      "file": "missing/0-9/377368-3on3-freestyle-p6-selection-rookie-pack.json"
     },
     {
       "igdb_id": 135748,
@@ -8675,6 +8715,21 @@
       "igdb_id": 274943,
       "game_name": "3Xtinction",
       "file": "missing/0-9/274943-3xtinction.json"
+    },
+    {
+      "igdb_id": 377375,
+      "game_name": "3xtinction: 2urvive Mercenaries Pack",
+      "file": "missing/0-9/377375-3xtinction-2urvive-mercenaries-pack.json"
+    },
+    {
+      "igdb_id": 377376,
+      "game_name": "3xtinction: Broken Mind Mercenaries Pack",
+      "file": "missing/0-9/377376-3xtinction-broken-mind-mercenaries-pack.json"
+    },
+    {
+      "igdb_id": 377377,
+      "game_name": "3xtinction: Premium Pack 2",
+      "file": "missing/0-9/377377-3xtinction-premium-pack-2.json"
     },
     {
       "igdb_id": 420699,
@@ -9310,6 +9365,36 @@
       "igdb_id": 27734,
       "game_name": "4Story Online",
       "file": "missing/0-9/27734-4story-online.json"
+    },
+    {
+      "igdb_id": 377378,
+      "game_name": "4Story: Archer Armor Package",
+      "file": "missing/0-9/377378-4story-archer-armor-package.json"
+    },
+    {
+      "igdb_id": 377379,
+      "game_name": "4Story: Assassin Armor Package",
+      "file": "missing/0-9/377379-4story-assassin-armor-package.json"
+    },
+    {
+      "igdb_id": 377380,
+      "game_name": "4Story: Mage Armor Package",
+      "file": "missing/0-9/377380-4story-mage-armor-package.json"
+    },
+    {
+      "igdb_id": 377381,
+      "game_name": "4Story: Permanent Dragon Mount Package",
+      "file": "missing/0-9/377381-4story-permanent-dragon-mount-package.json"
+    },
+    {
+      "igdb_id": 377382,
+      "game_name": "4Story: Permanent Nine-tailed Fox Mount Package",
+      "file": "missing/0-9/377382-4story-permanent-nine-tailed-fox-mount-package.json"
+    },
+    {
+      "igdb_id": 377383,
+      "game_name": "4Story: Priest Armor Package",
+      "file": "missing/0-9/377383-4story-priest-armor-package.json"
     },
     {
       "igdb_id": 377384,
@@ -46250,6 +46335,11 @@
       "igdb_id": 94658,
       "game_name": "Animal Agents",
       "file": "missing/A/94658-animal-agents.json"
+    },
+    {
+      "igdb_id": 377359,
+      "game_name": "Animal Anatomy VR",
+      "file": "missing/A/377359-animal-anatomy-vr.json"
     },
     {
       "igdb_id": 274950,
@@ -137317,6 +137407,11 @@
       "file": "missing/B/145640-bungmyeong.json"
     },
     {
+      "igdb_id": 377332,
+      "game_name": "Bungo Bash",
+      "file": "missing/B/377332-bungo-bash.json"
+    },
+    {
       "igdb_id": 105830,
       "game_name": "Bungo Stray Dogs: Tales of the Lost",
       "file": "missing/B/105830-bungo-stray-dogs-tales-of-the-lost.json"
@@ -159785,6 +159880,11 @@
       "igdb_id": 264566,
       "game_name": "Chain Reaction",
       "file": "missing/C/264566-chain-reaction.json"
+    },
+    {
+      "igdb_id": 377351,
+      "game_name": "Chain Reaction",
+      "file": "missing/C/377351-chain-reaction.json"
     },
     {
       "igdb_id": 241352,
@@ -184092,6 +184192,11 @@
       "file": "missing/C/101658-colorpixel-color-by-number-pixel-art.json"
     },
     {
+      "igdb_id": 377345,
+      "game_name": "Colors",
+      "file": "missing/C/377345-colors.json"
+    },
+    {
       "igdb_id": 62009,
       "game_name": "Colors -Break Bricks-",
       "file": "missing/C/62009-colors-break-bricks.json"
@@ -192575,6 +192680,11 @@
       "igdb_id": 334726,
       "game_name": "Corporation Inc.",
       "file": "missing/C/334726-corporation-inc.json"
+    },
+    {
+      "igdb_id": 377352,
+      "game_name": "Corporation Inc.",
+      "file": "missing/C/377352-corporation-inc.json"
     },
     {
       "igdb_id": 379030,
@@ -279002,6 +279112,11 @@
       "file": "missing/D/363008-dungeoncrawlers.json"
     },
     {
+      "igdb_id": 377334,
+      "game_name": "Dungeoneer",
+      "file": "missing/D/377334-dungeoneer.json"
+    },
+    {
       "igdb_id": 76957,
       "game_name": "Dungeoneer",
       "file": "missing/D/76957-dungeoneer.json"
@@ -290010,6 +290125,11 @@
       "igdb_id": 286793,
       "game_name": "Element Battle Royale",
       "file": "missing/E/286793-element-battle-royale.json"
+    },
+    {
+      "igdb_id": 377361,
+      "game_name": "Element Cattos",
+      "file": "missing/E/377361-element-cattos.json"
     },
     {
       "igdb_id": 125438,
@@ -301690,6 +301810,11 @@
       "igdb_id": 355217,
       "game_name": "Escape the School",
       "file": "missing/E/355217-escape-the-school.json"
+    },
+    {
+      "igdb_id": 377336,
+      "game_name": "Escape The School",
+      "file": "missing/E/377336-escape-the-school.json"
     },
     {
       "igdb_id": 378598,
@@ -368697,6 +368822,11 @@
       "file": "missing/G/300792-garn47.json"
     },
     {
+      "igdb_id": 377366,
+      "game_name": "Garnet Arena: Mages of Magicary",
+      "file": "missing/G/377366-garnet-arena-mages-of-magicary.json"
+    },
+    {
       "igdb_id": 221412,
       "game_name": "Garnet Cradle",
       "file": "missing/G/221412-garnet-cradle.json"
@@ -412552,6 +412682,11 @@
       "file": "missing/H/186147-hazard.json"
     },
     {
+      "igdb_id": 377355,
+      "game_name": "Hazard",
+      "file": "missing/H/377355-hazard.json"
+    },
+    {
       "igdb_id": 247602,
       "game_name": "Hazard Hill Idle",
       "file": "missing/H/247602-hazard-hill-idle.json"
@@ -455510,6 +455645,11 @@
       "igdb_id": 327950,
       "game_name": "Imaginytes",
       "file": "missing/I/327950-imaginytes.json"
+    },
+    {
+      "igdb_id": 377342,
+      "game_name": "Imago",
+      "file": "missing/I/377342-imago.json"
     },
     {
       "igdb_id": 97864,
@@ -500787,6 +500927,11 @@
       "file": "missing/K/406847-kirilma-helix-horizon.json"
     },
     {
+      "igdb_id": 377363,
+      "game_name": "Kirisame Escape",
+      "file": "missing/K/377363-kirisame-escape.json"
+    },
+    {
       "igdb_id": 204731,
       "game_name": "Kiritan Island Okawari!",
       "file": "missing/K/204731-kiritan-island-okawari.json"
@@ -506865,6 +507010,11 @@
       "igdb_id": 228584,
       "game_name": "Koukiatsu Boy",
       "file": "missing/K/228584-koukiatsu-boy.json"
+    },
+    {
+      "igdb_id": 377365,
+      "game_name": "Kouma no Kagi",
+      "file": "missing/K/377365-kouma-no-kagi.json"
     },
     {
       "igdb_id": 65765,
@@ -522365,6 +522515,11 @@
       "igdb_id": 120336,
       "game_name": "Let me go",
       "file": "missing/L/120336-let-me-go.json"
+    },
+    {
+      "igdb_id": 377344,
+      "game_name": "Let Me Go",
+      "file": "missing/L/377344-let-me-go.json"
     },
     {
       "igdb_id": 342726,
@@ -577642,6 +577797,11 @@
       "file": "missing/M/300534-meow-bistro.json"
     },
     {
+      "igdb_id": 377333,
+      "game_name": "Meow Cafe",
+      "file": "missing/M/377333-meow-cafe.json"
+    },
+    {
       "igdb_id": 314471,
       "game_name": "Meow Cat Village",
       "file": "missing/M/314471-meow-cat-village.json"
@@ -601825,6 +601985,11 @@
       "igdb_id": 351608,
       "game_name": "Monster Mayhem",
       "file": "missing/M/351608-monster-mayhem.json"
+    },
+    {
+      "igdb_id": 377338,
+      "game_name": "Monster Mayhem",
+      "file": "missing/M/377338-monster-mayhem.json"
     },
     {
       "igdb_id": 30772,
@@ -627920,6 +628085,11 @@
       "igdb_id": 274549,
       "game_name": "Navigating the Labyrinth",
       "file": "missing/N/274549-navigating-the-labyrinth.json"
+    },
+    {
+      "igdb_id": 377348,
+      "game_name": "Navigator",
+      "file": "missing/N/377348-navigator.json"
     },
     {
       "igdb_id": 94666,
@@ -664985,6 +665155,11 @@
       "igdb_id": 242456,
       "game_name": "Oran's Table",
       "file": "missing/O/242456-orans-table.json"
+    },
+    {
+      "igdb_id": 377343,
+      "game_name": "Orange",
+      "file": "missing/O/377343-orange.json"
     },
     {
       "igdb_id": 31860,
@@ -722392,6 +722567,11 @@
       "file": "missing/P/361905-predator-hunting-grounds-oni-predator.json"
     },
     {
+      "igdb_id": 377350,
+      "game_name": "Predators",
+      "file": "missing/P/377350-predators.json"
+    },
+    {
       "igdb_id": 79534,
       "game_name": "Predators",
       "file": "missing/P/79534-predators.json"
@@ -723545,6 +723725,11 @@
       "igdb_id": 328051,
       "game_name": "Prickly Goo To The Rescue",
       "file": "missing/P/328051-prickly-goo-to-the-rescue.json"
+    },
+    {
+      "igdb_id": 377362,
+      "game_name": "Prickly Pistoleros",
+      "file": "missing/P/377362-prickly-pistoleros.json"
     },
     {
       "igdb_id": 260237,
@@ -752522,6 +752707,11 @@
       "file": "missing/R/361635-ravenous.json"
     },
     {
+      "igdb_id": 377340,
+      "game_name": "Ravenous",
+      "file": "missing/R/377340-ravenous.json"
+    },
+    {
       "igdb_id": 173033,
       "game_name": "Ravenous Devils",
       "file": "missing/R/173033-ravenous-devils.json"
@@ -756705,6 +756895,11 @@
       "igdb_id": 301985,
       "game_name": "Reborn",
       "file": "missing/R/301985-reborn.json"
+    },
+    {
+      "igdb_id": 377335,
+      "game_name": "Reborn",
+      "file": "missing/R/377335-reborn.json"
     },
     {
       "igdb_id": 76431,
@@ -794762,6 +794957,11 @@
       "file": "missing/S/181242-salvage.json"
     },
     {
+      "igdb_id": 377349,
+      "game_name": "Salvage",
+      "file": "missing/S/377349-salvage.json"
+    },
+    {
       "igdb_id": 206634,
       "game_name": "Salvage Crew",
       "file": "missing/S/206634-salvage-crew.json"
@@ -822537,6 +822737,11 @@
       "file": "missing/S/206024-shogi.json"
     },
     {
+      "igdb_id": 377354,
+      "game_name": "Shogi",
+      "file": "missing/S/377354-shogi.json"
+    },
+    {
       "igdb_id": 63582,
       "game_name": "Shogi",
       "file": "missing/S/63582-shogi.json"
@@ -827305,6 +827510,11 @@
       "igdb_id": 327358,
       "game_name": "Signal Lost",
       "file": "missing/S/327358-signal-lost.json"
+    },
+    {
+      "igdb_id": 377331,
+      "game_name": "Signal Lost",
+      "file": "missing/S/377331-signal-lost.json"
     },
     {
       "igdb_id": 231821,
@@ -838907,6 +839117,11 @@
       "file": "missing/S/113592-slime-tactics.json"
     },
     {
+      "igdb_id": 377347,
+      "game_name": "Slime Time",
+      "file": "missing/S/377347-slime-time.json"
+    },
+    {
       "igdb_id": 153404,
       "game_name": "Slime Time TD",
       "file": "missing/S/153404-slime-time-td.json"
@@ -840510,6 +840725,11 @@
       "igdb_id": 378263,
       "game_name": "SM64EX Coop: Yoshi's Adventure 64",
       "file": "missing/S/378263-sm64ex-coop-yoshis-adventure-64.json"
+    },
+    {
+      "igdb_id": 377358,
+      "game_name": "SM64Kitty's Kaizo Hack",
+      "file": "missing/S/377358-sm64kittys-kaizo-hack.json"
     },
     {
       "igdb_id": 307740,
@@ -848010,6 +848230,11 @@
       "igdb_id": 269855,
       "game_name": "Sola Rola: The Gravity Maze",
       "file": "missing/S/269855-sola-rola-the-gravity-maze.json"
+    },
+    {
+      "igdb_id": 377337,
+      "game_name": "Solace",
+      "file": "missing/S/377337-solace.json"
     },
     {
       "igdb_id": 91840,
@@ -939172,6 +939397,11 @@
       "file": "missing/T/28925-the-adventures-of-alvis.json"
     },
     {
+      "igdb_id": 377339,
+      "game_name": "The Adventures of Astel and the Dark Curse",
+      "file": "missing/T/377339-the-adventures-of-astel-and-the-dark-curse.json"
+    },
+    {
       "igdb_id": 333061,
       "game_name": "The Adventures of Badgersaw: Chapter 1",
       "file": "missing/T/333061-the-adventures-of-badgersaw-chapter-1.json"
@@ -941000,6 +941230,11 @@
       "igdb_id": 288271,
       "game_name": "The Attic",
       "file": "missing/T/288271-the-attic.json"
+    },
+    {
+      "igdb_id": 377353,
+      "game_name": "The Attic",
+      "file": "missing/T/377353-the-attic.json"
     },
     {
       "igdb_id": 412363,
@@ -951700,6 +951935,11 @@
       "igdb_id": 319939,
       "game_name": "The Exit Project: Backstreets",
       "file": "missing/T/319939-the-exit-project-backstreets.json"
+    },
+    {
+      "igdb_id": 377346,
+      "game_name": "The Exit Strategy",
+      "file": "missing/T/377346-the-exit-strategy.json"
     },
     {
       "igdb_id": 153930,
@@ -985257,6 +985497,11 @@
       "file": "missing/T/199665-the-unsettled.json"
     },
     {
+      "igdb_id": 377341,
+      "game_name": "The Unsolved",
+      "file": "missing/T/377341-the-unsolved.json"
+    },
+    {
       "igdb_id": 418549,
       "game_name": "The Unsolved",
       "file": "missing/T/418549-the-unsolved.json"
@@ -1014475,6 +1014720,11 @@
       "igdb_id": 293322,
       "game_name": "Touhou Koukayaku The Game",
       "file": "missing/T/293322-touhou-koukayaku-the-game.json"
+    },
+    {
+      "igdb_id": 377364,
+      "game_name": "Touhou Koumadan",
+      "file": "missing/T/377364-touhou-koumadan.json"
     },
     {
       "igdb_id": 405461,
