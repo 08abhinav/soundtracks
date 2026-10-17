@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: The Thousand-Year Door | 328663 | [328663-paper-mario-the-thousand-year-door.json](./328663-paper-mario-the-thousand-year-door.json) |
 | Paper Mario: The Thousand-Year Door - Hero Mode | 257966 | [257966-paper-mario-the-thousand-year-door-hero-mode.json](./257966-paper-mario-the-thousand-year-door-hero-mode.json) |
 | Paper Mario: The Thousand-Year Door Encore | 357451 | [357451-paper-mario-the-thousand-year-door-encore.json](./357451-paper-mario-the-thousand-year-door-encore.json) |
+| Paper Mario: The Thousand-Year Door Randomizer | 407252 | [407252-paper-mario-the-thousand-year-door-randomizer.json](./407252-paper-mario-the-thousand-year-door-randomizer.json) |
 | Paper Mario: Time Strewn Star | 323363 | [323363-paper-mario-time-strewn-star.json](./323363-paper-mario-time-strewn-star.json) |
 | Paper Mario: TTYD - Tower of Trials v3.0 | 358321 | [358321-paper-mario-ttyd-tower-of-trials-v3-0.json](./358321-paper-mario-ttyd-tower-of-trials-v3-0.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
@@ -3893,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phelios | 19510 | [19510-phelios.json](./19510-phelios.json) |
 | Phelios | 199420 | [199420-phelios.json](./199420-phelios.json) |
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
+| Phenomena | 407239 | [407239-phenomena.json](./407239-phenomena.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
 | Phenomenon: City of Cyan | 61531 | [61531-phenomenon-city-of-cyan.json](./61531-phenomenon-city-of-cyan.json) |
 | Phenomenon: Outcome | 61533 | [61533-phenomenon-outcome.json](./61533-phenomenon-outcome.json) |
@@ -6633,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetoids | 210873 | [210873-planetoids.json](./210873-planetoids.json) |
 | Planetoids | 45353 | [45353-planetoids.json](./45353-planetoids.json) |
 | Planetone | 184990 | [184990-planetone.json](./184990-planetone.json) |
+| PlanetOrbit | 407156 | [407156-planetorbit.json](./407156-planetorbit.json) |
 | Planetris | 366127 | [366127-planetris.json](./366127-planetris.json) |
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
@@ -7989,6 +7992,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Poké Ball | 198864 | [198864-pokemon-poke-ball.json](./198864-pokemon-poke-ball.json) |
 | Pokémon Poké Ball Launcher | 61007 | [61007-pokemon-poke-ball-launcher.json](./61007-pokemon-poke-ball-launcher.json) |
 | Pokémon Pokédex Organizer | 198865 | [198865-pokemon-pokedex-organizer.json](./198865-pokemon-pokedex-organizer.json) |
+| Pokémon Pokopia: Part 2 | 407137 | [407137-pokemon-pokopia-part-2.json](./407137-pokemon-pokopia-part-2.json) |
+| Pokémon Pokopia: Part 3 | 407138 | [407138-pokemon-pokopia-part-3.json](./407138-pokemon-pokopia-part-3.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
 | Pokémon Potassium | 360040 | [360040-pokemon-potassium.json](./360040-pokemon-potassium.json) |
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
@@ -8869,6 +8874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POP: Methodology Experiment One | 17515 | [17515-pop-methodology-experiment-one.json](./17515-pop-methodology-experiment-one.json) |
 | Pop! | 122281 | [122281-pop.json](./122281-pop.json) |
 | Pop! | 147195 | [147195-pop.json](./147195-pop.json) |
+| Pop! Pachinko | 407158 | [407158-pop-pachinko.json](./407158-pop-pachinko.json) |
 | Pop! Slots | 370752 | [370752-pop-slots.json](./370752-pop-slots.json) |
 | Pop'n Emojis | 107039 | [107039-popn-emojis.json](./107039-popn-emojis.json) |
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
