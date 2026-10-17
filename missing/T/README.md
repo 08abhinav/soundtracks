@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End is Nahual: If I May Say So | 216415 | [216415-the-end-is-nahual-if-i-may-say-so.json](./216415-the-end-is-nahual-if-i-may-say-so.json) |
 | The End is Never the End | 269850 | [269850-the-end-is-never-the-end.json](./269850-the-end-is-never-the-end.json) |
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
+| The End of Allegoria | 416565 | [416565-the-end-of-allegoria.json](./416565-the-end-of-allegoria.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
 | The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
@@ -6694,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
+| The First Cub | 416691 | [416691-the-first-cub.json](./416691-the-first-cub.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
 | The First Descendant: Season 3 | 347660 | [347660-the-first-descendant-season-3.json](./347660-the-first-descendant-season-3.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
@@ -8279,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Knights of Dice | 184469 | [184469-the-knights-of-dice.json](./184469-the-knights-of-dice.json) |
 | The Knights of the Cross | 394556 | [394556-the-knights-of-the-cross.json](./394556-the-knights-of-the-cross.json) |
 | The Knights Quest | 143467 | [143467-the-knights-quest.json](./143467-the-knights-quest.json) |
+| The Knocker | 416754 | [416754-the-knocker.json](./416754-the-knocker.json) |
 | The Knowledge of Hermit | 272894 | [272894-the-knowledge-of-hermit.json](./272894-the-knowledge-of-hermit.json) |
 | The Koala Brothers: Outback Adventures | 49398 | [49398-the-koala-brothers-outback-adventures.json](./49398-the-koala-brothers-outback-adventures.json) |
 | The Kobolds Left Behind | 201701 | [201701-the-kobolds-left-behind.json](./201701-the-kobolds-left-behind.json) |
@@ -14289,6 +14292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
 | Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
+| Thoughts | 416575 | [416575-thoughts.json](./416575-thoughts.json) |
 | Thousand Arms | 15461 | [15461-thousand-arms.json](./15461-thousand-arms.json) |
 | Thousand Hells: The Underworld Heists | 360177 | [360177-thousand-hells-the-underworld-heists.json](./360177-thousand-hells-the-underworld-heists.json) |
 | Thousand Island Solitaire | 206225 | [206225-thousand-island-solitaire.json](./206225-thousand-island-solitaire.json) |
@@ -22827,6 +22831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
 | Turbo GT | 94635 | [94635-turbo-gt.json](./94635-turbo-gt.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
+| Turbo Kart Racer | 416554 | [416554-turbo-kart-racer.json](./416554-turbo-kart-racer.json) |
 | Turbo Kid | 212164 | [212164-turbo-kid.json](./212164-turbo-kid.json) |
 | Turbo Kids | 240348 | [240348-turbo-kids.json](./240348-turbo-kids.json) |
 | Turbo Leaper | 266204 | [266204-turbo-leaper.json](./266204-turbo-leaper.json) |
@@ -23264,6 +23269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Yohane | 405501 | [405501-twinkle-yohane.json](./405501-twinkle-yohane.json) |
 | Twinkle’s Galactic Tour | 374266 | [374266-twinkle-s-galactic-tour.json](./374266-twinkle-s-galactic-tour.json) |
 | Twinkleby | 340589 | [340589-twinkleby.json](./340589-twinkleby.json) |
+| Twinky Goes Hiking | 416653 | [416653-twinky-goes-hiking.json](./416653-twinky-goes-hiking.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
