@@ -6933,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
+| Rodent Rooms | 403449 | [403449-rodent-rooms.json](./403449-rodent-rooms.json) |
 | Rodent Rumble | 272943 | [272943-rodent-rumble.json](./272943-rodent-rumble.json) |
 | Rodent's Revenge | 56881 | [56881-rodents-revenge.json](./56881-rodents-revenge.json) |
 | Rodeo | 71559 | [71559-rodeo.json](./71559-rodeo.json) |
