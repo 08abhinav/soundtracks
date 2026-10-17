@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:37:19.131Z",
-  "total_soundtracks": 2097,
+  "generated_at": "2026-10-17T15:37:27.713Z",
+  "total_soundtracks": 2098,
   "games": [
     {
       "igdb_id": 7522,
@@ -21705,6 +21705,20 @@
           "spotify_url": "https://music.apple.com/us/album/hundred-line-%E6%9C%80%E7%B5%82%E9%98%B2%E8%A1%9B%E5%AD%A6%E5%9C%92-original-soundtrack/1868934594?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1868934594"
+        }
+      ]
+    },
+    {
+      "igdb_id": 138906,
+      "game_name": "The Invincible",
+      "game_url": "https://ostdb.net/games/the-invincible",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735586a932e7c4af1709bf2e69",
+      "albums": [
+        {
+          "album_name": "The Invincible (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4AKXBlPXLh7DQcV8Jv7KSG",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
