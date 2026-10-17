@@ -11007,6 +11007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Moon | 105320 | [105320-the-red-moon.json](./105320-the-red-moon.json) |
 | The Red Odyssey | 73864 | [73864-the-red-odyssey.json](./73864-the-red-odyssey.json) |
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
+| The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Square | 91344 | [91344-the-red-square.json](./91344-the-red-square.json) |
@@ -16906,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TinyWars | 122207 | [122207-tinywars.json](./122207-tinywars.json) |
 | Tip | 362987 | [362987-tip.json](./362987-tip.json) |
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
+| Tip of the Tongue | 387756 | [387756-tip-of-the-tongue.json](./387756-tip-of-the-tongue.json) |
 | Tip Off | 12798 | [12798-tip-off.json](./12798-tip-off.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip Top Table Tennis | 301537 | [301537-tip-top-table-tennis.json](./301537-tip-top-table-tennis.json) |
@@ -22853,6 +22855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyokiss: Mighty Heart | 62432 | [62432-tsuyokiss-mighty-heart.json](./62432-tsuyokiss-mighty-heart.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | Tsuyukusa Euphoria | 390538 | [390538-tsuyukusa-euphoria.json](./390538-tsuyukusa-euphoria.json) |
+| Tsuzumigusa | 387572 | [387572-tsuzumigusa.json](./387572-tsuzumigusa.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
 | TT Isle of Man: Ride on the Edge | 81220 | [81220-tt-isle-of-man-ride-on-the-edge.json](./81220-tt-isle-of-man-ride-on-the-edge.json) |
@@ -23764,6 +23767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
+| Typeoids | 387477 | [387477-typeoids.json](./387477-typeoids.json) |
 | Typer | 88354 | [88354-typer.json](./88354-typer.json) |
 | Typer Hero | 173013 | [173013-typer-hero.json](./173013-typer-hero.json) |
 | TypeRacer | 91271 | [91271-typeracer.json](./91271-typeracer.json) |
