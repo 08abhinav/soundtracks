@@ -8719,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Cards | 209936 | [209936-hyper-cards.json](./209936-hyper-cards.json) |
 | Hyper Cars Ramp Crash | 398271 | [398271-hyper-cars-ramp-crash.json](./398271-hyper-cars-ramp-crash.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
+| Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
