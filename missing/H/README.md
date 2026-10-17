@@ -876,7 +876,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Anima | 294364 | [294364-hand-of-anima.json](./294364-hand-of-anima.json) |
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
-| Hand of Fate | 9101 | [9101-hand-of-fate.json](./9101-hand-of-fate.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
