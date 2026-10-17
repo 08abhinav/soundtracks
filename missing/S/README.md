@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
+| Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
 | Sarah, you are way too heavy | 118364 | [118364-sarah-you-are-way-too-heavy.json](./118364-sarah-you-are-way-too-heavy.json) |
 | Sarah: Story of a Young Thief | 302967 | [302967-sarah-story-of-a-young-thief.json](./302967-sarah-story-of-a-young-thief.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Fools: Aquapocalypse Edition | 277906 | [277906-ship-of-fools-aquapocalypse-edition.json](./277906-ship-of-fools-aquapocalypse-edition.json) |
 | Ship of Fools: Deep Sea Duo | 277910 | [277910-ship-of-fools-deep-sea-duo.json](./277910-ship-of-fools-deep-sea-duo.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
+| Ship of Harkinian VR | 411723 | [411723-ship-of-harkinian-vr.json](./411723-ship-of-harkinian-vr.json) |
 | Ship of Heroes | 27515 | [27515-ship-of-heroes.json](./27515-ship-of-heroes.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
@@ -12700,6 +12702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
+| Sora no Hiraketa Basho | 411403 | [411403-sora-no-hiraketa-basho.json](./411403-sora-no-hiraketa-basho.json) |
 | Sora no Hiraketa Basho: Chord:OOC | 413830 | [413830-sora-no-hiraketa-basho-chord-ooc.json](./413830-sora-no-hiraketa-basho-chord-ooc.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
@@ -24625,6 +24628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet X'mas | 326183 | [326183-sweet-xmas.json](./326183-sweet-xmas.json) |
 | Sweet Zodiac 1 | 339429 | [339429-sweet-zodiac-1.json](./339429-sweet-zodiac-1.json) |
 | Sweet Zodiac 2 | 339428 | [339428-sweet-zodiac-2.json](./339428-sweet-zodiac-2.json) |
+| Sweet, Sweet Indigo | 411366 | [411366-sweet-sweet-indigo.json](./411366-sweet-sweet-indigo.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
