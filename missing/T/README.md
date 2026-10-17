@@ -4664,6 +4664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Birdsong Tree | 404435 | [404435-the-birdsong-tree.json](./404435-the-birdsong-tree.json) |
 | The Birth of an Artificial Intelligence | 165778 | [165778-the-birth-of-an-artificial-intelligence.json](./165778-the-birth-of-an-artificial-intelligence.json) |
 | The Birth of Magic | 421803 | [421803-the-birth-of-magic.json](./421803-the-birth-of-magic.json) |
+| The Bistro: Ryouri & Wine no Shokunin tachi | 387137 | [387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json](./387137-the-bistro-ryouri-and-wine-no-shokunin-tachi.json) |
 | The Bit.Trip | 20152 | [20152-the-bit-trip.json](./20152-the-bit-trip.json) |
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
@@ -6049,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreadnaught Factor | 5672 | [5672-the-dreadnaught-factor.json](./5672-the-dreadnaught-factor.json) |
 | The Dream | 178413 | [178413-the-dream.json](./178413-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
+| The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
 | The Dream Globe | 371989 | [371989-the-dream-globe.json](./371989-the-dream-globe.json) |
 | The Dream Libra Had | 158714 | [158714-the-dream-libra-had.json](./158714-the-dream-libra-had.json) |
@@ -6801,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flames | 176510 | [176510-the-flames.json](./176510-the-flames.json) |
 | The Flames | 200926 | [200926-the-flames.json](./200926-the-flames.json) |
 | The Flash | 100289 | [100289-the-flash.json](./100289-the-flash.json) |
+| The Flash | 387115 | [387115-the-flash.json](./387115-the-flash.json) |
 | The Flash | 48945 | [48945-the-flash.json](./48945-the-flash.json) |
 | The Flat | 262910 | [262910-the-flat.json](./262910-the-flat.json) |
 | The Flawless Cup | 156000 | [156000-the-flawless-cup.json](./156000-the-flawless-cup.json) |
@@ -17089,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
+| TMT 1 | 387164 | [387164-tmt-1.json](./387164-tmt-1.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
 | TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
