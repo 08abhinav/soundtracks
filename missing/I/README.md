@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
+| Icup | 369333 | [369333-icup.json](./369333-icup.json) |
 | Icy Cave | 409242 | [409242-icy-cave.json](./409242-icy-cave.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
@@ -4439,6 +4440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of AIto: Life After Death | 226852 | [226852-island-of-aito-life-after-death.json](./226852-island-of-aito-life-after-death.json) |
 | Island of Ash | 386545 | [386545-island-of-ash.json](./386545-island-of-ash.json) |
 | Island of Death | 137359 | [137359-island-of-death.json](./137359-island-of-death.json) |
+| Island of Death: Demons and Despair | 369313 | [369313-island-of-death-demons-and-despair.json](./369313-island-of-death-demons-and-despair.json) |
 | Island of Despair | 326801 | [326801-island-of-despair.json](./326801-island-of-despair.json) |
 | Island of Enchantment | 296940 | [296940-island-of-enchantment.json](./296940-island-of-enchantment.json) |
 | Island of Girls Dreams | 163205 | [163205-island-of-girls-dreams.json](./163205-island-of-girls-dreams.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
+| Island Treasure Chase | 369316 | [369316-island-treasure-chase.json](./369316-island-treasure-chase.json) |
 | Island Tribe | 54117 | [54117-island-tribe.json](./54117-island-tribe.json) |
 | Island Tribe 3 | 25001 | [25001-island-tribe-3.json](./25001-island-tribe-3.json) |
 | Island Tribe 4 | 76635 | [76635-island-tribe-4.json](./76635-island-tribe-4.json) |
@@ -4771,6 +4774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itazura Madness | 305907 | [305907-itazura-madness.json](./305907-itazura-madness.json) |
 | Itch! | 143745 | [143745-itch.json](./143745-itch.json) |
 | Itchana Tchones Zombie Terror | 285139 | [285139-itchana-tchones-zombie-terror.json](./285139-itchana-tchones-zombie-terror.json) |
+| Item Collector: Pirates | 369338 | [369338-item-collector-pirates.json](./369338-item-collector-pirates.json) |
 | Item Frenzy | 328516 | [328516-item-frenzy.json](./328516-item-frenzy.json) |
 | Item Shop Simulator | 406226 | [406226-item-shop-simulator.json](./406226-item-shop-simulator.json) |
 | Item Synthesis and Dungeon Exploration | 196124 | [196124-item-synthesis-and-dungeon-exploration.json](./196124-item-synthesis-and-dungeon-exploration.json) |
