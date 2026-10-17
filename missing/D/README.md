@@ -5108,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destind: Mr. Almost Right | 239209 | [239209-destind-mr-almost-right.json](./239209-destind-mr-almost-right.json) |
 | Destined | 100708 | [100708-destined.json](./100708-destined.json) |
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
+| Destined Notes: The Written Fate | 415435 | [415435-destined-notes-the-written-fate.json](./415435-destined-notes-the-written-fate.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
@@ -7370,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disruptive | 260585 | [260585-disruptive.json](./260585-disruptive.json) |
 | Disruptive Compassion | 364496 | [364496-disruptive-compassion.json](./364496-disruptive-compassion.json) |
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
+| Diss Diss Discussion | 415444 | [415444-diss-diss-discussion.json](./415444-diss-diss-discussion.json) |
 | Dissecting Love | 291373 | [291373-dissecting-love.json](./291373-dissecting-love.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
@@ -11548,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver 2 Advance | 49199 | [49199-driver-2-advance.json](./49199-driver-2-advance.json) |
 | Driver 2: Back on the Streets | 6391 | [6391-driver-2-back-on-the-streets.json](./6391-driver-2-back-on-the-streets.json) |
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
+| Driver Manager | 415422 | [415422-driver-manager.json](./415422-driver-manager.json) |
 | Driver Mini | 240107 | [240107-driver-mini.json](./240107-driver-mini.json) |
 | Driver Platinum | 24140 | [24140-driver-platinum.json](./24140-driver-platinum.json) |
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
