@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
+| Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
 | Vortex Attack EX | 124235 | [124235-vortex-attack-ex.json](./124235-vortex-attack-ex.json) |
