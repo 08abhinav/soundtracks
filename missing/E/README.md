@@ -370,6 +370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Bunneh | 79941 | [79941-easter-bunneh.json](./79941-easter-bunneh.json) |
 | Easter Bunny | 194998 | [194998-easter-bunny.json](./194998-easter-bunny.json) |
 | Easter Bunny | 278154 | [278154-easter-bunny.json](./278154-easter-bunny.json) |
+| Easter Bunny EggVenture | 400656 | [400656-easter-bunny-eggventure.json](./400656-easter-bunny-eggventure.json) |
 | Easter Bunny on Speed | 186270 | [186270-easter-bunny-on-speed.json](./186270-easter-bunny-on-speed.json) |
 | Easter Candy Break: Head to Head | 210696 | [210696-easter-candy-break-head-to-head.json](./210696-easter-candy-break-head-to-head.json) |
 | Easter Clicker: Idle Manager | 118339 | [118339-easter-clicker-idle-manager.json](./118339-easter-clicker-idle-manager.json) |
@@ -738,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecliptica | 398001 | [398001-ecliptica.json](./398001-ecliptica.json) |
 | Eclosion | 266695 | [266695-eclosion.json](./266695-eclosion.json) |
 | Eco | 34939 | [34939-eco.json](./34939-eco.json) |
+| Eco Balance | 400704 | [400704-eco-balance.json](./400704-eco-balance.json) |
 | Eco Breaker | 213896 | [213896-eco-breaker.json](./213896-eco-breaker.json) |
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
