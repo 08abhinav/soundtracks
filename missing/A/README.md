@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
 | Age of Defense: Prehistory | 309860 | [309860-age-of-defense-prehistory.json](./309860-age-of-defense-prehistory.json) |
+| Age of Delirium | 400048 | [400048-age-of-delirium.json](./400048-age-of-delirium.json) |
 | Age of Discovery | 199457 | [199457-age-of-discovery.json](./199457-age-of-discovery.json) |
 | Age of DOOM | 218053 | [218053-age-of-doom.json](./218053-age-of-doom.json) |
 | Age of Dynasties: Shogun | 219260 | [219260-age-of-dynasties-shogun.json](./219260-age-of-dynasties-shogun.json) |
@@ -9303,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
+| ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
 | Aretha | 222820 | [222820-aretha.json](./222820-aretha.json) |
 | Aretha II | 137076 | [137076-aretha-ii.json](./137076-aretha-ii.json) |
 | Aretha II: Ariel no Fushigi na Tabi | 15896 | [15896-aretha-ii-ariel-no-fushigi-na-tabi.json](./15896-aretha-ii-ariel-no-fushigi-na-tabi.json) |
