@@ -827,6 +827,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
+| Hanagane Kanade Gram: Chapter 1 - Kozakura Yui | 396457 | [396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json](./396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json) |
+| Hanagane Kanade Gram: Chapter 2 - Hananoka Sumire | 396459 | [396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json](./396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json) |
+| Hanagane Kanade Gram: Chapter 3 - Hoshiizumi Kotona | 396460 | [396460-hanagane-kanade-gram-chapter-3-hoshiizumi-kotona.json](./396460-hanagane-kanade-gram-chapter-3-hoshiizumi-kotona.json) |
+| Hanagane Kanade Gram: Chapter 4 - Ayase Kanade: Saishuushou | 396462 | [396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json](./396462-hanagane-kanade-gram-chapter-4-ayase-kanade-saishuushou.json) |
 | Hanage Nuki! Nuki! - Nose Hair Master | 342652 | [342652-hanage-nuki-nuki-nose-hair-master.json](./342652-hanage-nuki-nuki-nose-hair-master.json) |
 | Hanagumi Taisen Columns | 69307 | [69307-hanagumi-taisen-columns.json](./69307-hanagumi-taisen-columns.json) |
 | Hanakisou | 234529 | [234529-hanakisou.json](./234529-hanakisou.json) |
@@ -1676,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
+| Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
@@ -5595,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hips N Noses | 368826 | [368826-hips-n-noses.json](./368826-hips-n-noses.json) |
 | Hipster Cafe | 99649 | [99649-hipster-cafe.json](./99649-hipster-cafe.json) |
 | Hipster Chess | 256438 | [256438-hipster-chess.json](./256438-hipster-chess.json) |
+| Hipster Kickball | 396384 | [396384-hipster-kickball.json](./396384-hipster-kickball.json) |
 | Hipster Sheep | 114736 | [114736-hipster-sheep.json](./114736-hipster-sheep.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
