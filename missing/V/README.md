@@ -713,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of Honor | 43187 | [43187-vault-of-honor.json](./43187-vault-of-honor.json) |
 | Vault of Power | 260390 | [260390-vault-of-power.json](./260390-vault-of-power.json) |
 | Vault of Terror | 356661 | [356661-vault-of-terror.json](./356661-vault-of-terror.json) |
+| Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vaulted | 253825 | [253825-vaulted.json](./253825-vaulted.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
