@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
+| Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
 | Mahou Show-Jo | 185426 | [185426-mahou-show-jo.json](./185426-mahou-show-jo.json) |
 | Mahou Tsukai Kurohime | 108956 | [108956-mahou-tsukai-kurohime.json](./108956-mahou-tsukai-kurohime.json) |
@@ -4989,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval and Secrets | 232439 | [232439-medieval-and-secrets.json](./232439-medieval-and-secrets.json) |
 | Medieval Archer Simulator | 348240 | [348240-medieval-archer-simulator.json](./348240-medieval-archer-simulator.json) |
 | Medieval Archery Simulator | 171443 | [171443-medieval-archery-simulator.json](./171443-medieval-archery-simulator.json) |
+| Medieval Battle: Food Truck | 385960 | [385960-medieval-battle-food-truck.json](./385960-medieval-battle-food-truck.json) |
 | Medieval Battlefields: Black Edition | 33081 | [33081-medieval-battlefields-black-edition.json](./33081-medieval-battlefields-black-edition.json) |
 | Medieval Battlegrounds | 188669 | [188669-medieval-battlegrounds.json](./188669-medieval-battlegrounds.json) |
 | Medieval Builders: Strongholds & Castles | 236908 | [236908-medieval-builders-strongholds-and-castles.json](./236908-medieval-builders-strongholds-and-castles.json) |
@@ -5850,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meian | 416759 | [416759-meian.json](./416759-meian.json) |
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
+| MeiErWo Plan | 385987 | [385987-meierwo-plan.json](./385987-meierwo-plan.json) |
 | Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
 | Meiji Katsugeki Haikara Ryuuseigumi: Seibai Shimaseu, Yonaoshi Kagyou | 136827 | [136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json](./136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json) |
@@ -14752,6 +14755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables 3D - Jumping for the Team | 84718 | [84718-my-riding-stables-3d-jumping-for-the-team.json](./84718-my-riding-stables-3d-jumping-for-the-team.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
+| My Royal Maid R | 385884 | [385884-my-royal-maid-r.json](./385884-my-royal-maid-r.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
 | My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
