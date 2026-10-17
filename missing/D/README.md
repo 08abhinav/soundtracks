@@ -4776,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deppart Prototype | 256802 | [256802-deppart-prototype.json](./256802-deppart-prototype.json) |
 | Depper Jar | 329664 | [329664-depper-jar.json](./329664-depper-jar.json) |
 | DepraviA | 390812 | [390812-depravia.json](./390812-depravia.json) |
+| Depression | 367194 | [367194-depression.json](./367194-depression.json) |
 | Depression Level 50 | 362878 | [362878-depression-level-50.json](./362878-depression-level-50.json) |
 | Depression Presented Ludically in the Style of a Videogame | 342905 | [342905-depression-presented-ludically-in-the-style-of-a-videogame.json](./342905-depression-presented-ludically-in-the-style-of-a-videogame.json) |
 | Depression the Game | 103456 | [103456-depression-the-game.json](./103456-depression-the-game.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DevLife | 146642 | [146642-devlife.json](./146642-devlife.json) |
 | Devo Presents: Adventures of the Smart Patrol | 71739 | [71739-devo-presents-adventures-of-the-smart-patrol.json](./71739-devo-presents-adventures-of-the-smart-patrol.json) |
 | Devoid | 229212 | [229212-devoid.json](./229212-devoid.json) |
+| Devoid | 367192 | [367192-devoid.json](./367192-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
@@ -6196,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, A.I | 203191 | [203191-die-a-i.json](./203191-die-a-i.json) |
 | Die, A.I. | 191183 | [191183-die-a-i.json](./191183-die-a-i.json) |
 | Die, Pablo! | 270119 | [270119-die-pablo.json](./270119-die-pablo.json) |
+| Die, Zombie Sausage, Die! | 367151 | [367151-die-zombie-sausage-die.json](./367151-die-zombie-sausage-die.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
@@ -7602,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ditto Leapfrog | 94206 | [94206-ditto-leapfrog.json](./94206-ditto-leapfrog.json) |
 | Diva | 122282 | [122282-diva.json](./122282-diva.json) |
 | Diva Girls: Divas on Ice | 51035 | [51035-diva-girls-divas-on-ice.json](./51035-diva-girls-divas-on-ice.json) |
+| Diva Lovers | 367193 | [367193-diva-lovers.json](./367193-diva-lovers.json) |
 | Diva Starz | 71601 | [71601-diva-starz.json](./71601-diva-starz.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
