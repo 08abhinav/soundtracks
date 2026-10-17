@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
+| Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
