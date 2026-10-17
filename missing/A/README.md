@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Boy Cheapskate | 95928 | [95928-adventure-boy-cheapskate.json](./95928-adventure-boy-cheapskate.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
+| Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
@@ -3128,6 +3129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Legion | 148968 | [148968-age-of-legion.json](./148968-age-of-legion.json) |
 | Age of Mage | 176191 | [176191-age-of-mage.json](./176191-age-of-mage.json) |
 | Age of Magic CCG | 33894 | [33894-age-of-magic-ccg.json](./33894-age-of-magic-ccg.json) |
+| Age of Memology | 392819 | [392819-age-of-memology.json](./392819-age-of-memology.json) |
 | Age of Mythology: Retold - Heavenly Spear | 348197 | [348197-age-of-mythology-retold-heavenly-spear.json](./348197-age-of-mythology-retold-heavenly-spear.json) |
 | Age of Mythology: Retold - Obsidian Mirror | 395818 | [395818-age-of-mythology-retold-obsidian-mirror.json](./395818-age-of-mythology-retold-obsidian-mirror.json) |
 | Age of Mythology: Tale of the Dragon | 13186 | [13186-age-of-mythology-tale-of-the-dragon.json](./13186-age-of-mythology-tale-of-the-dragon.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse: Floodgates | 195530 | [195530-apocalypse-floodgates.json](./195530-apocalypse-floodgates.json) |
 | Apocalypse: Party's Over | 35294 | [35294-apocalypse-partys-over.json](./35294-apocalypse-partys-over.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
+| Apocalypse: The Hunger | 392715 | [392715-apocalypse-the-hunger.json](./392715-apocalypse-the-hunger.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
@@ -8005,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
 | ApocaShift | 346614 | [346614-apocashift.json](./346614-apocashift.json) |
 | Apoclone | 363427 | [363427-apoclone.json](./363427-apoclone.json) |
+| Apococlicks | 392754 | [392754-apococlicks.json](./392754-apococlicks.json) |
 | Apocolypse: Vel | 316830 | [316830-apocolypse-vel.json](./316830-apocolypse-vel.json) |
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
@@ -11660,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Sky | 55226 | [55226-atomic-sky.json](./55226-atomic-sky.json) |
 | Atomic Society | 31679 | [31679-atomic-society.json](./31679-atomic-society.json) |
 | Atomic Space Command | 33475 | [33475-atomic-space-command.json](./33475-atomic-space-command.json) |
+| Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
@@ -11944,6 +11949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 171522 | [171522-aurora.json](./171522-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
+| Aurora | 392730 | [392730-aurora.json](./392730-aurora.json) |
 | Aurora 4x | 60045 | [60045-aurora-4x.json](./60045-aurora-4x.json) |
 | Aurora Adventure: A Space Academy Tale | 260295 | [260295-aurora-adventure-a-space-academy-tale.json](./260295-aurora-adventure-a-space-academy-tale.json) |
 | Aurora Chronicles | 217228 | [217228-aurora-chronicles.json](./217228-aurora-chronicles.json) |
