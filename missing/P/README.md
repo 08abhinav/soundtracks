@@ -8907,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
+| Poop City | 367185 | [367185-poop-city.json](./367185-poop-city.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
 | Poop Collector | 196169 | [196169-poop-collector.json](./196169-poop-collector.json) |
 | Poop Collector: Number 2 | 245282 | [245282-poop-collector-number-2.json](./245282-poop-collector-number-2.json) |
