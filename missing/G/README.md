@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Burger | 295134 | [295134-galaxy-burger.json](./295134-galaxy-burger.json) |
 | Galaxy Cannon Rider | 33051 | [33051-galaxy-cannon-rider.json](./33051-galaxy-cannon-rider.json) |
 | Galaxy Card Game | 404064 | [404064-galaxy-card-game.json](./404064-galaxy-card-game.json) |
+| Galaxy Cleaners: Dracula's Castle | 385431 | [385431-galaxy-cleaners-draculas-castle.json](./385431-galaxy-cleaners-draculas-castle.json) |
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Control: Arena Station | 89823 | [89823-galaxy-control-arena-station.json](./89823-galaxy-control-arena-station.json) |
 | Galaxy Crisis | 150450 | [150450-galaxy-crisis.json](./150450-galaxy-crisis.json) |
@@ -1735,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War: Ultimate Edition - Deluxe Version | 164770 | [164770-gears-of-war-ultimate-edition-deluxe-version.json](./164770-gears-of-war-ultimate-edition-deluxe-version.json) |
 | Gears of War: Ultimate Edition and Rare Replay | 41613 | [41613-gears-of-war-ultimate-edition-and-rare-replay.json](./41613-gears-of-war-ultimate-edition-and-rare-replay.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
+| Gearspark | 385450 | [385450-gearspark.json](./385450-gearspark.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
 | Gearverse | 181159 | [181159-gearverse.json](./181159-gearverse.json) |
 | Gearz | 71763 | [71763-gearz.json](./71763-gearz.json) |
@@ -2600,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Bros | 224236 | [224236-ghost-bros.json](./224236-ghost-bros.json) |
 | Ghost Buster 3D | 114937 | [114937-ghost-buster-3d.json](./114937-ghost-buster-3d.json) |
 | Ghost Buster:Village | 401063 | [401063-ghost-buster-village.json](./401063-ghost-buster-village.json) |
+| Ghost Car | 385440 | [385440-ghost-car.json](./385440-ghost-car.json) |
 | Ghost Case | 174696 | [174696-ghost-case.json](./174696-ghost-case.json) |
 | Ghost Case | 415228 | [415228-ghost-case.json](./415228-ghost-case.json) |
 | Ghost Castle | 192821 | [192821-ghost-castle.json](./192821-ghost-castle.json) |
@@ -3583,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomhaven: Mercenaries Edition | 254680 | [254680-gloomhaven-mercenaries-edition.json](./254680-gloomhaven-mercenaries-edition.json) |
 | Gloomscape | 253396 | [253396-gloomscape.json](./253396-gloomscape.json) |
 | Gloomsday | 285459 | [285459-gloomsday.json](./285459-gloomsday.json) |
+| Gloomveil | 385351 | [385351-gloomveil.json](./385351-gloomveil.json) |
 | Gloomwood | 134127 | [134127-gloomwood.json](./134127-gloomwood.json) |
 | Gloomy Clues | 360152 | [360152-gloomy-clues.json](./360152-gloomy-clues.json) |
 | Gloomy Detective and Devil Girl | 309982 | [309982-gloomy-detective-and-devil-girl.json](./309982-gloomy-detective-and-devil-girl.json) |
