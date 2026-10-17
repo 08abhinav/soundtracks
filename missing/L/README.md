@@ -6311,6 +6311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovers ' Smiles | 111184 | [111184-lovers-smiles.json](./111184-lovers-smiles.json) |
 | Lovers ' Smiles 2 | 115637 | [115637-lovers-smiles-2.json](./115637-lovers-smiles-2.json) |
 | Lovers Anonymous: Rehab for Romantics | 217482 | [217482-lovers-anonymous-rehab-for-romantics.json](./217482-lovers-anonymous-rehab-for-romantics.json) |
+| Lovers Die | 414810 | [414810-lovers-die.json](./414810-lovers-die.json) |
 | Lovers in a Dangerous Spacetime | 12520 | [12520-lovers-in-a-dangerous-spacetime.json](./12520-lovers-in-a-dangerous-spacetime.json) |
 | Lovers in Playa Rosa | 241374 | [241374-lovers-in-playa-rosa.json](./241374-lovers-in-playa-rosa.json) |
 | Lovers of Aether | 117041 | [117041-lovers-of-aether.json](./117041-lovers-of-aether.json) |
