@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
+| Chessmaster | 402778 | [402778-chessmaster.json](./402778-chessmaster.json) |
 | Chessmaster 10th Edition | 15883 | [15883-chessmaster-10th-edition.json](./15883-chessmaster-10th-edition.json) |
 | Chessmaster 5000 | 630 | [630-chessmaster-5000.json](./630-chessmaster-5000.json) |
 | Chessmaster 5500 | 631 | [631-chessmaster-5500.json](./631-chessmaster-5500.json) |
@@ -6189,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadale: The Legends Trilogy | 56151 | [56151-citadale-the-legends-trilogy.json](./56151-citadale-the-legends-trilogy.json) |
 | Citadel | 13704 | [13704-citadel.json](./13704-citadel.json) |
 | Citadel | 276477 | [276477-citadel.json](./276477-citadel.json) |
+| Citadel | 403071 | [403071-citadel.json](./403071-citadel.json) |
 | Citadel | 404944 | [404944-citadel.json](./404944-citadel.json) |
 | Citadel | 75523 | [75523-citadel.json](./75523-citadel.json) |
 | Citadel | 78595 | [78595-citadel.json](./78595-citadel.json) |
@@ -11341,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
+| Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
@@ -11410,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashy Laps | 244237 | [244237-crashy-laps.json](./244237-crashy-laps.json) |
 | Crashy Racing | 113157 | [113157-crashy-racing.json](./113157-crashy-racing.json) |
 | Crat Strat's Sonic 1 Hack | 332648 | [332648-crat-strats-sonic-1-hack.json](./332648-crat-strats-sonic-1-hack.json) |
+| Crate Beyond | 402860 | [402860-crate-beyond.json](./402860-crate-beyond.json) |
 | Crate Escape | 269283 | [269283-crate-escape.json](./269283-crate-escape.json) |
 | Crate Expectations | 299446 | [299446-crate-expectations.json](./299446-crate-expectations.json) |
 | Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
