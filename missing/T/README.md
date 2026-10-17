@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
 | Tahul | 160067 | [160067-tahul.json](./160067-tahul.json) |
 | Tai | 187878 | [187878-tai.json](./187878-tai.json) |
+| Tai Chi Game | 392748 | [392748-tai-chi-game.json](./392748-tai-chi-game.json) |
 | Tai-Pan | 37297 | [37297-tai-pan.json](./37297-tai-pan.json) |
 | Taichi Panda | 69338 | [69338-taichi-panda.json](./69338-taichi-panda.json) |
 | Taiga | 153347 | [153347-taiga.json](./153347-taiga.json) |
@@ -3042,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tens Junior Maths IQ Challenge | 103993 | [103993-tens-junior-maths-iq-challenge.json](./103993-tens-junior-maths-iq-challenge.json) |
 | Tensai Bakabon | 46110 | [46110-tensai-bakabon.json](./46110-tensai-bakabon.json) |
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
+| Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
@@ -6223,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Travels: Stormhold | 23756 | [23756-the-elder-scrolls-travels-stormhold.json](./23756-the-elder-scrolls-travels-stormhold.json) |
 | The Elder Scrolls V: Skyrim | 37034 | [37034-the-elder-scrolls-v-skyrim.json](./37034-the-elder-scrolls-v-skyrim.json) |
 | The Elder Scrolls V: Skyrim - Anniversary Edition | 165192 | [165192-the-elder-scrolls-v-skyrim-anniversary-edition.json](./165192-the-elder-scrolls-v-skyrim-anniversary-edition.json) |
+| The Elder Scrolls V: Skyrim - Apostasy | 392823 | [392823-the-elder-scrolls-v-skyrim-apostasy.json](./392823-the-elder-scrolls-v-skyrim-apostasy.json) |
 | The Elder Scrolls V: Skyrim - Dawnguard | 2992 | [2992-the-elder-scrolls-v-skyrim-dawnguard.json](./2992-the-elder-scrolls-v-skyrim-dawnguard.json) |
 | The Elder Scrolls V: Skyrim - Dragonborn | 6069 | [6069-the-elder-scrolls-v-skyrim-dragonborn.json](./6069-the-elder-scrolls-v-skyrim-dragonborn.json) |
 | The Elder Scrolls V: Skyrim - Legendary Edition | 47445 | [47445-the-elder-scrolls-v-skyrim-legendary-edition.json](./47445-the-elder-scrolls-v-skyrim-legendary-edition.json) |
@@ -6844,6 +6847,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog | 54307 | [54307-the-fog.json](./54307-the-fog.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
+| The Fog Fall 3 | 392734 | [392734-the-fog-fall-3.json](./392734-the-fog-fall-3.json) |
+| The Fog Fall 4 | 392739 | [392739-the-fog-fall-4.json](./392739-the-fog-fall-4.json) |
 | The Fog: Trap for Moths | 53738 | [53738-the-fog-trap-for-moths.json](./53738-the-fog-trap-for-moths.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
@@ -11308,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scary Square | 169862 | [169862-the-scary-square.json](./169862-the-scary-square.json) |
 | The Scavenger | 69198 | [69198-the-scavenger.json](./69198-the-scavenger.json) |
 | The Scene Of the Crime | 383374 | [383374-the-scene-of-the-crime.json](./383374-the-scene-of-the-crime.json) |
+| The Scene of the Crime: Golden Doll | 392733 | [392733-the-scene-of-the-crime-golden-doll.json](./392733-the-scene-of-the-crime-golden-doll.json) |
 | The Scenic Treasures - Japanese Learning Visual Novel | 112927 | [112927-the-scenic-treasures-japanese-learning-visual-novel.json](./112927-the-scenic-treasures-japanese-learning-visual-novel.json) |
 | The Scent of Home | 181729 | [181729-the-scent-of-home.json](./181729-the-scent-of-home.json) |
 | The Scent of Summer | 81983 | [81983-the-scent-of-summer.json](./81983-the-scent-of-summer.json) |
@@ -14100,6 +14106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They’ll Hang You for That Face | 413909 | [413909-they-ll-hang-you-for-that-face.json](./413909-they-ll-hang-you-for-that-face.json) |
 | They're Alive! | 53795 | [53795-theyre-alive.json](./53795-theyre-alive.json) |
 | They're Coming | 163200 | [163200-theyre-coming.json](./163200-theyre-coming.json) |
+| They're Gonna Get In | 392720 | [392720-theyre-gonna-get-in.json](./392720-theyre-gonna-get-in.json) |
 | Theyest Thou | 129272 | [129272-theyest-thou.json](./129272-theyest-thou.json) |
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
@@ -14246,6 +14253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
 | This Game is Crap | 370888 | [370888-this-game-is-crap.json](./370888-this-game-is-crap.json) |
 | This Game is Ground Breaking | 350039 | [350039-this-game-is-ground-breaking.json](./350039-this-game-is-ground-breaking.json) |
+| This Game Is Not Real | 392825 | [392825-this-game-is-not-real.json](./392825-this-game-is-not-real.json) |
 | This Game is Self-Aware | 177324 | [177324-this-game-is-self-aware.json](./177324-this-game-is-self-aware.json) |
 | This Game is Simple | 416121 | [416121-this-game-is-simple.json](./416121-this-game-is-simple.json) |
 | This Game Might Improve Your Memory | 149695 | [149695-this-game-might-improve-your-memory.json](./149695-this-game-might-improve-your-memory.json) |
@@ -18456,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
 | Torso Tennis | 292429 | [292429-torso-tennis.json](./292429-torso-tennis.json) |
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
+| Tortuga 3 | 392731 | [392731-tortuga-3.json](./392731-tortuga-3.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga Escape | 383371 | [383371-tortuga-escape.json](./383371-tortuga-escape.json) |
 | Tortuga: A Pirate's Tale | 214399 | [214399-tortuga-a-pirates-tale.json](./214399-tortuga-a-pirates-tale.json) |
@@ -22199,6 +22208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivial Trivia | 246905 | [246905-trivial-trivia.json](./246905-trivial-trivia.json) |
 | Triviaverse | 256884 | [256884-triviaverse.json](./256884-triviaverse.json) |
 | Triwave | 111435 | [111435-triwave.json](./111435-triwave.json) |
+| Trix | 392817 | [392817-trix.json](./392817-trix.json) |
 | Trix and the Horny Tower | 367016 | [367016-trix-and-the-horny-tower.json](./367016-trix-and-the-horny-tower.json) |
 | Trix: Witching World | 272233 | [272233-trix-witching-world.json](./272233-trix-witching-world.json) |
 | Trixology | 381231 | [381231-trixology.json](./381231-trixology.json) |
