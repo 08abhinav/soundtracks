@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned Life | 164513 | [164513-abandoned-life.json](./164513-abandoned-life.json) |
 | Abandoned Passage | 377425 | [377425-abandoned-passage.json](./377425-abandoned-passage.json) |
 | Abandoned Realms | 229108 | [229108-abandoned-realms.json](./229108-abandoned-realms.json) |
+| Abandoned Stories: Inherited Silence | 395245 | [395245-abandoned-stories-inherited-silence.json](./395245-abandoned-stories-inherited-silence.json) |
 | Abandoned Well | 73550 | [73550-abandoned-well.json](./73550-abandoned-well.json) |
 | Abandoned World | 243598 | [243598-abandoned-world.json](./243598-abandoned-world.json) |
 | Abandoned: A Tale of Forgotten Lives | 391231 | [391231-abandoned-a-tale-of-forgotten-lives.json](./391231-abandoned-a-tale-of-forgotten-lives.json) |
