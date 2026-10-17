@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vermiworm | 183309 | [183309-vermiworm.json](./183309-vermiworm.json) |
 | Vernal Edge | 138365 | [138365-vernal-edge.json](./138365-vernal-edge.json) |
 | Verne World | 37772 | [37772-verne-world.json](./37772-verne-world.json) |
+| Verocity | 367745 | [367745-verocity.json](./367745-verocity.json) |
 | Verona | 110221 | [110221-verona.json](./110221-verona.json) |
 | Veronica | 343792 | [343792-veronica.json](./343792-veronica.json) |
 | Veronica Rivers: The Order of Conspiracy | 416145 | [416145-veronica-rivers-the-order-of-conspiracy.json](./416145-veronica-rivers-the-order-of-conspiracy.json) |
