@@ -9884,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
 | Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
+| Contrasting Brothers | 371557 | [371557-contrasting-brothers.json](./371557-contrasting-brothers.json) |
 | Contrauri | 397013 | [397013-contrauri.json](./397013-contrauri.json) |
 | Contre Jour | 93578 | [93578-contre-jour.json](./93578-contre-jour.json) |
 | Contre Jour HD | 101959 | [101959-contre-jour-hd.json](./101959-contre-jour-hd.json) |
@@ -12963,6 +12964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
 | Crush Crush: - 18+ Naughty | 279778 | [279778-crush-crush-18-naughty.json](./279778-crush-crush-18-naughty.json) |
+| Crush Depth | 371553 | [371553-crush-depth.json](./371553-crush-depth.json) |
 | Crush Depth: U-Boat Simulator | 150050 | [150050-crush-depth-u-boat-simulator.json](./150050-crush-depth-u-boat-simulator.json) |
 | Crush Insects | 112817 | [112817-crush-insects.json](./112817-crush-insects.json) |
 | Crush Link TD | 272865 | [272865-crush-link-td.json](./272865-crush-link-td.json) |
@@ -14040,6 +14042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curtain Call Crusade | 255570 | [255570-curtain-call-crusade.json](./255570-curtain-call-crusade.json) |
 | Curtain Drop | 352828 | [352828-curtain-drop.json](./352828-curtain-drop.json) |
 | Curtainfall | 367613 | [367613-curtainfall.json](./367613-curtainfall.json) |
+| Curtains The Clown | 371559 | [371559-curtains-the-clown.json](./371559-curtains-the-clown.json) |
 | Curtiss | 40739 | [40739-curtiss.json](./40739-curtiss.json) |
 | Curupira | 218484 | [218484-curupira.json](./218484-curupira.json) |
 | Cururu: Whispers of the Forest | 383951 | [383951-cururu-whispers-of-the-forest.json](./383951-cururu-whispers-of-the-forest.json) |
@@ -14506,6 +14509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Vincent Sin Edition | 173119 | [173119-cyberpunk-2077-vincent-sin-edition.json](./173119-cyberpunk-2077-vincent-sin-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
+| Cyberpunk City | 371573 | [371573-cyberpunk-city.json](./371573-cyberpunk-city.json) |
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
 | Cyberpunk Dodgeball | 54966 | [54966-cyberpunk-dodgeball.json](./54966-cyberpunk-dodgeball.json) |
