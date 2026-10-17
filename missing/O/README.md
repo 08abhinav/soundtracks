@@ -3385,6 +3385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Eyes See No Evil | 361841 | [361841-our-eyes-see-no-evil.json](./361841-our-eyes-see-no-evil.json) |
 | Our Fantasy Quest | 221737 | [221737-our-fantasy-quest.json](./221737-our-fantasy-quest.json) |
 | Our Fate Forsaken | 197411 | [197411-our-fate-forsaken.json](./197411-our-fate-forsaken.json) |
+| Our Favorite Mortal Potter | 414083 | [414083-our-favorite-mortal-potter.json](./414083-our-favorite-mortal-potter.json) |
 | Our Field Trip Adventure | 298582 | [298582-our-field-trip-adventure.json](./298582-our-field-trip-adventure.json) |
 | Our Field Trip Adventure + More Missions Pack Set | 304812 | [304812-our-field-trip-adventure-more-missions-pack-set.json](./304812-our-field-trip-adventure-more-missions-pack-set.json) |
 | Our Flick Erasers | 123375 | [123375-our-flick-erasers.json](./123375-our-flick-erasers.json) |
