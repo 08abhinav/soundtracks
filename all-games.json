@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:20:26.097Z",
-  "total_soundtracks": 1972,
+  "generated_at": "2026-10-17T11:20:33.907Z",
+  "total_soundtracks": 1973,
   "games": [
     {
       "igdb_id": 7522,
@@ -707,6 +707,20 @@
         {
           "album_name": "Agony (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/322KTHHaiM1VLqOxfSzQr6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 103484,
+      "game_name": "Akane",
+      "game_url": "https://ostdb.net/games/akane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27304c7b3a5e37e70c78559bffa",
+      "albums": [
+        {
+          "album_name": "Akane (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/09lypP3enGf4kAmYEOU8Ur",
           "apple_music_url": "",
           "album_link_url": ""
         }
