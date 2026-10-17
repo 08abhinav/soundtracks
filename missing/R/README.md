@@ -1294,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
 | Random Dice: Wars | 216130 | [216130-random-dice-wars.json](./216130-random-dice-wars.json) |
+| Random Dragons | 389525 | [389525-random-dragons.json](./389525-random-dragons.json) |
 | Random Dungeon | 260725 | [260725-random-dungeon.json](./260725-random-dungeon.json) |
 | Random Dungeon Game | 333018 | [333018-random-dungeon-game.json](./333018-random-dungeon-game.json) |
 | Random Heroes | 59895 | [59895-random-heroes.json](./59895-random-heroes.json) |
@@ -5791,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Ball 2 | 54325 | [54325-rival-ball-2.json](./54325-rival-ball-2.json) |
 | Rival Ball Tournament | 71707 | [71707-rival-ball-tournament.json](./71707-rival-ball-tournament.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
+| Rival Commanders | 389478 | [389478-rival-commanders.json](./389478-rival-commanders.json) |
 | Rival Fire | 227168 | [227168-rival-fire.json](./227168-rival-fire.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
 | Rival Gears Racing | 262467 | [262467-rival-gears-racing.json](./262467-rival-gears-racing.json) |
@@ -7266,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolie Polie Olie: The Search for Spot | 209366 | [209366-rolie-polie-olie-the-search-for-spot.json](./209366-rolie-polie-olie-the-search-for-spot.json) |
 | Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
+| Roll 'n Bounce | 389482 | [389482-roll-n-bounce.json](./389482-roll-n-bounce.json) |
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
@@ -8109,6 +8112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
 | Royal Defense: Invisible Threat | 25510 | [25510-royal-defense-invisible-threat.json](./25510-royal-defense-invisible-threat.json) |
+| Royal Dental | 389526 | [389526-royal-dental.json](./389526-royal-dental.json) |
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
