@@ -2506,7 +2506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
-| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
 | Adventures of Beetlejuice: Skeletons in the Closet | 50826 | [50826-adventures-of-beetlejuice-skeletons-in-the-closet.json](./50826-adventures-of-beetlejuice-skeletons-in-the-closet.json) |
@@ -6432,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And These Iron Limbs Exiled From Heaven | 278486 | [278486-and-these-iron-limbs-exiled-from-heaven.json](./278486-and-these-iron-limbs-exiled-from-heaven.json) |
 | And Yet It Hurt | 229628 | [229628-and-yet-it-hurt.json](./229628-and-yet-it-hurt.json) |
 | And Yet It Moves | 9772 | [9772-and-yet-it-moves.json](./9772-and-yet-it-moves.json) |
+| And Yet, We Dream | 394624 | [394624-and-yet-we-dream.json](./394624-and-yet-we-dream.json) |
 | And-Kensaku | 4953 | [4953-and-kensaku.json](./4953-and-kensaku.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
 | Andalas: Realms of Eternal Lights | 330946 | [330946-andalas-realms-of-eternal-lights.json](./330946-andalas-realms-of-eternal-lights.json) |
