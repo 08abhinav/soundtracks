@@ -4656,7 +4656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Binding of Isaac: Eternal Edition | 341546 | [341546-the-binding-of-isaac-eternal-edition.json](./341546-the-binding-of-isaac-eternal-edition.json) |
 | The Binding of Isaac: Rebirth | 309607 | [309607-the-binding-of-isaac-rebirth.json](./309607-the-binding-of-isaac-rebirth.json) |
 | The Binding of Isaac: Repentance | 109241 | [109241-the-binding-of-isaac-repentance.json](./109241-the-binding-of-isaac-repentance.json) |
-| The Binding of Isaac: Repentance | 228374 | [228374-the-binding-of-isaac-repentance.json](./228374-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Repentance | 310643 | [310643-the-binding-of-isaac-repentance.json](./310643-the-binding-of-isaac-repentance.json) |
 | The Binding of Isaac: Revelations | 376126 | [376126-the-binding-of-isaac-revelations.json](./376126-the-binding-of-isaac-revelations.json) |
 | The Binding of Isaac: Wrath of the Lamb | 14542 | [14542-the-binding-of-isaac-wrath-of-the-lamb.json](./14542-the-binding-of-isaac-wrath-of-the-lamb.json) |
@@ -8744,7 +8743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
 | The Last Time | 23942 | [23942-the-last-time.json](./23942-the-last-time.json) |
-| The Last Tinker: City of Colors | 2346 | [2346-the-last-tinker-city-of-colors.json](./2346-the-last-tinker-city-of-colors.json) |
 | The Last Tower | 93798 | [93798-the-last-tower.json](./93798-the-last-tower.json) |
 | The Last Town | 118829 | [118829-the-last-town.json](./118829-the-last-town.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
@@ -10550,7 +10548,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Peak Addiction | 61637 | [61637-the-peak-addiction.json](./61637-the-peak-addiction.json) |
 | The Peak Climb VR | 215734 | [215734-the-peak-climb-vr.json](./215734-the-peak-climb-vr.json) |
 | The Peanuts Movie: Snoopy's Grand Adventure | 18993 | [18993-the-peanuts-movie-snoopys-grand-adventure.json](./18993-the-peanuts-movie-snoopys-grand-adventure.json) |
-| The Pedestrian | 25837 | [25837-the-pedestrian.json](./25837-the-pedestrian.json) |
 | The Peephole's Chronicles: Weird John | 150030 | [150030-the-peepholes-chronicles-weird-john.json](./150030-the-peepholes-chronicles-weird-john.json) |
 | The Pegasus Expedition: Grand Admiral Edition | 254413 | [254413-the-pegasus-expedition-grand-admiral-edition.json](./254413-the-pegasus-expedition-grand-admiral-edition.json) |
 | The Pellar | 247603 | [247603-the-pellar.json](./247603-the-pellar.json) |
@@ -23246,7 +23243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
 | Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
-| Turnip Boy Robs a Bank | 217645 | [217645-turnip-boy-robs-a-bank.json](./217645-turnip-boy-robs-a-bank.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | TurnOn | 19606 | [19606-turnon.json](./19606-turnon.json) |
 | Turnout | 337760 | [337760-turnout.json](./337760-turnout.json) |
