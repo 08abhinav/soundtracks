@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady In Wading | 40649 | [40649-lady-in-wading.json](./40649-lady-in-wading.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
+| Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
 | Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Library of Ruina | 131760 | [131760-library-of-ruina.json](./131760-library-of-ruina.json) |
 | Library of Souls | 183568 | [183568-library-of-souls.json](./183568-library-of-souls.json) |
 | Libre TrainSim | 184426 | [184426-libre-trainsim.json](./184426-libre-trainsim.json) |
+| LibreQuake | 383788 | [383788-librequake.json](./383788-librequake.json) |
 | Librerama | 176992 | [176992-librerama.json](./176992-librerama.json) |
 | Libretta | 56129 | [56129-libretta.json](./56129-libretta.json) |
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
@@ -6302,6 +6304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
+| Loveless General Hospital | 383774 | [383774-loveless-general-hospital.json](./383774-loveless-general-hospital.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
 | Loveless: A Mattlanta Story | 107093 | [107093-loveless-a-mattlanta-story.json](./107093-loveless-a-mattlanta-story.json) |
 | Lovelink | 204709 | [204709-lovelink.json](./204709-lovelink.json) |
