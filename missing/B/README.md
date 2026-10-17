@@ -3594,6 +3594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
+| Bearskull 2 | 373833 | [373833-bearskull-2.json](./373833-bearskull-2.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
 | Bearstone Campsite | 346607 | [346607-bearstone-campsite.json](./346607-bearstone-campsite.json) |
 | Beartopia | 27502 | [27502-beartopia.json](./27502-beartopia.json) |
@@ -10296,6 +10297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
+| Brass Rain | 373836 | [373836-brass-rain.json](./373836-brass-rain.json) |
 | Brass Restoration | 69153 | [69153-brass-restoration.json](./69153-brass-restoration.json) |
 | Brass Town Wrestling | 128271 | [128271-brass-town-wrestling.json](./128271-brass-town-wrestling.json) |
 | Brass: Birmingham | 153870 | [153870-brass-birmingham.json](./153870-brass-birmingham.json) |
@@ -12877,6 +12879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
+| Buzz Wars | 373808 | [373808-buzz-wars.json](./373808-buzz-wars.json) |
 | Buzz-Saw Blood House | 125260 | [125260-buzz-saw-blood-house.json](./125260-buzz-saw-blood-house.json) |
 | Buzz! Brain Bender | 23267 | [23267-buzz-brain-bender.json](./23267-buzz-brain-bender.json) |
 | Buzz! Brain of the UK | 21131 | [21131-buzz-brain-of-the-uk.json](./21131-buzz-brain-of-the-uk.json) |
@@ -12896,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzed! Trivia | 133700 | [133700-buzzed-trivia.json](./133700-buzzed-trivia.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
+| Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
 | Buzzsaw | 60760 | [60760-buzzsaw.json](./60760-buzzsaw.json) |
 | Buzzsaw Cat | 184407 | [184407-buzzsaw-cat.json](./184407-buzzsaw-cat.json) |
 | Buzzsaw+ | 403761 | [403761-buzzsaw.json](./403761-buzzsaw.json) |
