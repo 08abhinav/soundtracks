@@ -7050,7 +7050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten: Whispers From Ashes | 373194 | [373194-forgotten-whispers-from-ashes.json](./373194-forgotten-whispers-from-ashes.json) |
-| Forgotton Anne | 24426 | [24426-forgotton-anne.json](./24426-forgotton-anne.json) |
 | Fork Frog | 350438 | [350438-fork-frog.json](./350438-fork-frog.json) |
 | Fork in the Road | 294155 | [294155-fork-in-the-road.json](./294155-fork-in-the-road.json) |
 | Fork Knights | 119757 | [119757-fork-knights.json](./119757-fork-knights.json) |
@@ -7540,7 +7539,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
-| Forza Motorsport 6 | 8558 | [8558-forza-motorsport-6.json](./8558-forza-motorsport-6.json) |
 | Forza Motorsport 7 | 36872 | [36872-forza-motorsport-7.json](./36872-forza-motorsport-7.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
