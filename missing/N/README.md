@@ -3544,7 +3544,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Nights: Martial Ci Lang Story | 300857 | [300857-nine-nights-martial-ci-lang-story.json](./300857-nine-nights-martial-ci-lang-story.json) |
 | Nine Paradise: The Origin | 253349 | [253349-nine-paradise-the-origin.json](./253349-nine-paradise-the-origin.json) |
-| Nine Parchments | 23330 | [23330-nine-parchments.json](./23330-nine-parchments.json) |
 | Nine Princes in Amber | 15271 | [15271-nine-princes-in-amber.json](./15271-nine-princes-in-amber.json) |
 | Nine Provinces: Caravan | 130064 | [130064-nine-provinces-caravan.json](./130064-nine-provinces-caravan.json) |
 | Nine Realms: Dawn Touch | 296259 | [296259-nine-realms-dawn-touch.json](./296259-nine-realms-dawn-touch.json) |
