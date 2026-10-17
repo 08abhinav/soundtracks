@@ -479,7 +479,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
+| Vampire Survivors: 1.14 | 375523 | [375523-vampire-survivors-1-14.json](./375523-vampire-survivors-1-14.json) |
 | Vampire Survivors: 1.5 | 252864 | [252864-vampire-survivors-1-5.json](./252864-vampire-survivors-1-5.json) |
+| Vampire Survivors: Ante Chamber | 375522 | [375522-vampire-survivors-ante-chamber.json](./375522-vampire-survivors-ante-chamber.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
 | Vampire Survivors: Legacy of the Bloodmoon | 404912 | [404912-vampire-survivors-legacy-of-the-bloodmoon.json](./404912-vampire-survivors-legacy-of-the-bloodmoon.json) |
@@ -879,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
+| Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
