@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killbot! | 396395 | [396395-killbot.json](./396395-killbot.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
 | Killbox | 55702 | [55702-killbox.json](./55702-killbox.json) |
+| KillCam Blablublas Battle Royale | 374911 | [374911-killcam-blablublas-battle-royale.json](./374911-killcam-blablublas-battle-royale.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killdozer Simulator | 291386 | [291386-killdozer-simulator.json](./291386-killdozer-simulator.json) |
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
+| Korean Rail Celesti Express ITX-MAUM Taebaek Line | 374896 | [374896-korean-rail-celesti-express-itx-maum-taebaek-line.json](./374896-korean-rail-celesti-express-itx-maum-taebaek-line.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
