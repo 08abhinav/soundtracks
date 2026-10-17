@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode One - A Bump in the Night | 84153 | [84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json](./84153-jacob-jones-and-the-bigfoot-mystery-episode-one-a-bump-in-the-night.json) |
 | Jacob The Farmer | 148669 | [148669-jacob-the-farmer.json](./148669-jacob-the-farmer.json) |
+| Jacob's Ladder | 363166 | [363166-jacobs-ladder.json](./363166-jacobs-ladder.json) |
 | Jacob's Quest | 226731 | [226731-jacobs-quest.json](./226731-jacobs-quest.json) |
 | Jacob's Quest: Voyage | 265341 | [265341-jacobs-quest-voyage.json](./265341-jacobs-quest-voyage.json) |
 | Jacob's Room | 228988 | [228988-jacobs-room.json](./228988-jacobs-room.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
+| Job Hunting 9000 | 363164 | [363164-job-hunting-9000.json](./363164-job-hunting-9000.json) |
 | Job Hunting 9000 Dehlux | 385936 | [385936-job-hunting-9000-dehlux.json](./385936-job-hunting-9000-dehlux.json) |
 | Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
