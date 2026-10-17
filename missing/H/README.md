@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
 | Hell Throne | 262845 | [262845-hell-throne.json](./262845-hell-throne.json) |
+| Hell Thug | 367180 | [367180-hell-thug.json](./367180-hell-thug.json) |
 | Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
@@ -3385,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Ami | 245995 | [245995-hentai-ami.json](./245995-hentai-ami.json) |
 | Hentai Animation Puzzle | 367037 | [367037-hentai-animation-puzzle.json](./367037-hentai-animation-puzzle.json) |
 | Hentai Anime Poker | 131271 | [131271-hentai-anime-poker.json](./131271-hentai-anime-poker.json) |
+| Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
@@ -3620,6 +3622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
 | Hentai Memory: Sexy Couples | 286438 | [286438-hentai-memory-sexy-couples.json](./286438-hentai-memory-sexy-couples.json) |
+| Hentai Men | 367162 | [367162-hentai-men.json](./367162-hentai-men.json) |
 | Hentai Mermaid Sirena | 370469 | [370469-hentai-mermaid-sirena.json](./370469-hentai-mermaid-sirena.json) |
 | Hentai Mia | 340440 | [340440-hentai-mia.json](./340440-hentai-mia.json) |
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
@@ -8447,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter | 112716 | [112716-hunter.json](./112716-hunter.json) |
 | Hunter | 12149 | [12149-hunter.json](./12149-hunter.json) |
 | Hunter | 303816 | [303816-hunter.json](./303816-hunter.json) |
+| Hunter | 367139 | [367139-hunter.json](./367139-hunter.json) |
 | Hunter | 409230 | [409230-hunter.json](./409230-hunter.json) |
 | Hunter A Hunter | 192461 | [192461-hunter-a-hunter.json](./192461-hunter-a-hunter.json) |
 | Hunter and Tavern | 374664 | [374664-hunter-and-tavern.json](./374664-hunter-and-tavern.json) |
