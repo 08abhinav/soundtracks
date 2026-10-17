@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:51:27.282Z",
-  "total_soundtracks": 2124,
+  "generated_at": "2026-10-17T15:51:35.593Z",
+  "total_soundtracks": 2125,
   "games": [
     {
       "igdb_id": 7522,
@@ -22733,6 +22733,20 @@
         {
           "album_name": "The Stanley Parable: Ultra Deluxe (Additional Music from the Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/26yMmck9922U47xc62MbOw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6180,
+      "game_name": "The Suffering",
+      "game_url": "https://ostdb.net/games/the-suffering",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273389d2293c77381c8362ba883",
+      "albums": [
+        {
+          "album_name": "The Suffering (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/16UxM1JwJCYw3IBZWduglx",
           "apple_music_url": "",
           "album_link_url": ""
         }
