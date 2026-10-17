@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Warrior | 303506 | [303506-eden-warrior.json](./303506-eden-warrior.json) |
 | Eden: A Genesis Through Time | 290722 | [290722-eden-a-genesis-through-time.json](./290722-eden-a-genesis-through-time.json) |
 | Eden: New Dawn | 369642 | [369642-eden-new-dawn.json](./369642-eden-new-dawn.json) |
+| Eden: New Dawn - Free Edition | 395263 | [395263-eden-new-dawn-free-edition.json](./395263-eden-new-dawn-free-edition.json) |
 | Eden: Project New Earth | 286228 | [286228-eden-project-new-earth.json](./286228-eden-project-new-earth.json) |
 | Eden: World Builder Simulator | 259626 | [259626-eden-world-builder-simulator.json](./259626-eden-world-builder-simulator.json) |
 | Eden.schemata(); | 151707 | [151707-eden-schemata.json](./151707-eden-schemata.json) |
@@ -5118,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
+| Ewig | 395247 | [395247-ewig.json](./395247-ewig.json) |
 | Ewoks | 373198 | [373198-ewoks.json](./373198-ewoks.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ewwe | 106498 | [106498-ewwe.json](./106498-ewwe.json) |
