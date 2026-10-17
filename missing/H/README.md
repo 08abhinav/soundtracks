@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajime no Ippo: The Fighting! 2 - Victorious Road | 61450 | [61450-hajime-no-ippo-the-fighting-2-victorious-road.json](./61450-hajime-no-ippo-the-fighting-2-victorious-road.json) |
 | Hajime no Ippo: The Fighting! DS | 70566 | [70566-hajime-no-ippo-the-fighting-ds.json](./70566-hajime-no-ippo-the-fighting-ds.json) |
 | Hajime no Ippo: The Fighting! Portable - Victorious Spirits | 61447 | [61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json](./61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json) |
+| Hajime no Ippo: Victorious Boxers - Championship Version | 403521 | [403521-hajime-no-ippo-victorious-boxers-championship-version.json](./403521-hajime-no-ippo-victorious-boxers-championship-version.json) |
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: The Winds of Anthos - Animal Avalanche Pack | 269053 | [269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json](./269053-harvest-moon-the-winds-of-anthos-animal-avalanche-pack.json) |
 | Harvest Moon: The Winds of Anthos - Visitors From Afar Pack | 270288 | [270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json](./270288-harvest-moon-the-winds-of-anthos-visitors-from-afar-pack.json) |
 | Harvest Moon: The Winds of Anthos Bundle | 269054 | [269054-harvest-moon-the-winds-of-anthos-bundle.json](./269054-harvest-moon-the-winds-of-anthos-bundle.json) |
+| Harvest of Names | 403443 | [403443-harvest-of-names.json](./403443-harvest-of-names.json) |
 | Harvest of the Sun Vincent Van Gogh Revisited | 45887 | [45887-harvest-of-the-sun-vincent-van-gogh-revisited.json](./45887-harvest-of-the-sun-vincent-van-gogh-revisited.json) |
 | Harvest on Jupiter | 260331 | [260331-harvest-on-jupiter.json](./260331-harvest-on-jupiter.json) |
 | Harvest Overdrive | 420514 | [420514-harvest-overdrive.json](./420514-harvest-overdrive.json) |
@@ -1976,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have Your Monster | 314368 | [314368-have-your-monster.json](./314368-have-your-monster.json) |
 | Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
 | Haven | 380666 | [380666-haven.json](./380666-haven.json) |
+| Haven | 403429 | [403429-haven.json](./403429-haven.json) |
 | Haven & Hearth | 213961 | [213961-haven-and-hearth.json](./213961-haven-and-hearth.json) |
 | Haven & Hearth | 328235 | [328235-haven-and-hearth.json](./328235-haven-and-hearth.json) |
 | Haven & Hearth | 94176 | [94176-haven-and-hearth.json](./94176-haven-and-hearth.json) |
@@ -3150,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
 | Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
+| Hello Neighbor: Vintage | 403456 | [403456-hello-neighbor-vintage.json](./403456-hello-neighbor-vintage.json) |
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
@@ -7983,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huetopia | 57756 | [57756-huetopia.json](./57756-huetopia.json) |
 | Hufu Riding and Shooting | 253430 | [253430-hufu-riding-and-shooting.json](./253430-hufu-riding-and-shooting.json) |
 | Hug & Betray | 416851 | [416851-hug-and-betray.json](./416851-hug-and-betray.json) |
+| Hug Factory | 403440 | [403440-hug-factory.json](./403440-hug-factory.json) |
 | Hug Me, Senpai! | 368519 | [368519-hug-me-senpai.json](./368519-hug-me-senpai.json) |
 | Hugbot | 180695 | [180695-hugbot.json](./180695-hugbot.json) |
 | Huge | 156228 | [156228-huge.json](./156228-huge.json) |
