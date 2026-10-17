@@ -1191,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Guy: Stewie 2.0 | 257843 | [257843-family-guy-stewie-2-0.json](./257843-family-guy-stewie-2-0.json) |
 | Family Guy: The Quest for Stuff | 38908 | [38908-family-guy-the-quest-for-stuff.json](./38908-family-guy-the-quest-for-stuff.json) |
 | Family Guy: Time Warped | 66114 | [66114-family-guy-time-warped.json](./66114-family-guy-time-warped.json) |
+| Family Hidden Secret | 368258 | [368258-family-hidden-secret.json](./368258-family-hidden-secret.json) |
 | Family Igo: Super Strong | 83472 | [83472-family-igo-super-strong.json](./83472-family-igo-super-strong.json) |
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
