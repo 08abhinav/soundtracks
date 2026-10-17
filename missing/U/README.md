@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Mahjongg 15 | 206056 | [206056-ultimate-mahjongg-15.json](./206056-ultimate-mahjongg-15.json) |
 | Ultimate Mahjongg 20 | 53942 | [53942-ultimate-mahjongg-20.json](./53942-ultimate-mahjongg-20.json) |
 | Ultimate MahJongg 5 | 206055 | [206055-ultimate-mahjongg-5.json](./206055-ultimate-mahjongg-5.json) |
+| Ultimate Marvel vs. Capcom 3: Community Edition | 406534 | [406534-ultimate-marvel-vs-capcom-3-community-edition.json](./406534-ultimate-marvel-vs-capcom-3-community-edition.json) |
 | Ultimate Match 3D | 282256 | [282256-ultimate-match-3d.json](./282256-ultimate-match-3d.json) |
 | Ultimate MMA | 133385 | [133385-ultimate-mma.json](./133385-ultimate-mma.json) |
 | Ultimate Monster Trucks | 53941 | [53941-ultimate-monster-trucks.json](./53941-ultimate-monster-trucks.json) |
