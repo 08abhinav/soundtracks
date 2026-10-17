@@ -2803,6 +2803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempus Chronicle | 63536 | [63536-tempus-chronicle.json](./63536-tempus-chronicle.json) |
 | Tempus Denique | 177998 | [177998-tempus-denique.json](./177998-tempus-denique.json) |
 | Tempus Irae | 270319 | [270319-tempus-irae.json](./270319-tempus-irae.json) |
+| Tempus Irae Redux | 416082 | [416082-tempus-irae-redux.json](./416082-tempus-irae-redux.json) |
 | Tempus is the Ignis | 271319 | [271319-tempus-is-the-ignis.json](./271319-tempus-is-the-ignis.json) |
 | Tempus Vitae | 404455 | [404455-tempus-vitae.json](./404455-tempus-vitae.json) |
 | Tempusia | 207559 | [207559-tempusia.json](./207559-tempusia.json) |
@@ -5011,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cat in the Hat By Dr Seuss | 49507 | [49507-the-cat-in-the-hat-by-dr-seuss.json](./49507-the-cat-in-the-hat-by-dr-seuss.json) |
 | The Cat in the Hat: Rainy Day Mayhem | 403720 | [403720-the-cat-in-the-hat-rainy-day-mayhem.json](./403720-the-cat-in-the-hat-rainy-day-mayhem.json) |
 | The Cat in the Hijab | 55930 | [55930-the-cat-in-the-hijab.json](./55930-the-cat-in-the-hijab.json) |
+| The Cat in Yellow | 415851 | [415851-the-cat-in-yellow.json](./415851-the-cat-in-yellow.json) |
 | The Cat is Dying | 383075 | [383075-the-cat-is-dying.json](./383075-the-cat-is-dying.json) |
 | The Cat Machine | 34837 | [34837-the-cat-machine.json](./34837-the-cat-machine.json) |
 | The Cat Maze | 218709 | [218709-the-cat-maze.json](./218709-the-cat-maze.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greenskins | 74374 | [74374-the-greenskins.json](./74374-the-greenskins.json) |
 | The Grey Company | 362324 | [362324-the-grey-company.json](./362324-the-grey-company.json) |
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
+| The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
 | The Grid | 407546 | [407546-the-grid.json](./407546-the-grid.json) |
 | The Griffon Legend | 202975 | [202975-the-griffon-legend.json](./202975-the-griffon-legend.json) |
 | The Grim Adventures of Billy & Mandy | 248521 | [248521-the-grim-adventures-of-billy-and-mandy.json](./248521-the-grim-adventures-of-billy-and-mandy.json) |
@@ -8743,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Eratus: Dragonlord | 167268 | [167268-the-legend-of-eratus-dragonlord.json](./167268-the-legend-of-eratus-dragonlord.json) |
 | The Legend of Evil | 110892 | [110892-the-legend-of-evil.json](./110892-the-legend-of-evil.json) |
 | The Legend of Excalipurr | 28892 | [28892-the-legend-of-excalipurr.json](./28892-the-legend-of-excalipurr.json) |
+| The Legend of Fatinha | 415846 | [415846-the-legend-of-fatinha.json](./415846-the-legend-of-fatinha.json) |
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
@@ -11258,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
+| The Sea Is Our Stage | 415994 | [415994-the-sea-is-our-stage.json](./415994-the-sea-is-our-stage.json) |
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
 | The Sea Will Claim Everything | 36051 | [36051-the-sea-will-claim-everything.json](./36051-the-sea-will-claim-everything.json) |
@@ -16153,6 +16158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
+| Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
