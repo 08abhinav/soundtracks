@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:50:56.565Z",
-  "total_soundtracks": 2120,
+  "generated_at": "2026-10-17T15:51:03.573Z",
+  "total_soundtracks": 2121,
   "games": [
     {
       "igdb_id": 7522,
@@ -14234,6 +14234,20 @@
           "album_name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 113344,
+      "game_name": "Monster Hunter: World - Iceborne",
+      "game_url": "https://ostdb.net/games/monster-hunter-world-iceborne",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273748811f8cf42924cfac1273d",
+      "albums": [
+        {
+          "album_name": "Monster Hunter World: Iceborne Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3b2jnwe18Wy4CVMe6HgGeN",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
