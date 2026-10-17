@@ -501,12 +501,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Chase | 317578 | [317578-paint-chase.json](./317578-paint-chase.json) |
 | Paint Chips | 154781 | [154781-paint-chips.json](./154781-paint-chips.json) |
 | Paint Desk Simulator | 265135 | [265135-paint-desk-simulator.json](./265135-paint-desk-simulator.json) |
+| Paint For Kids | 400062 | [400062-paint-for-kids.json](./400062-paint-for-kids.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
 | Paint Gang | 419878 | [419878-paint-gang.json](./419878-paint-gang.json) |
 | Paint Girl | 169663 | [169663-paint-girl.json](./169663-paint-girl.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
+| Paint it + My Cute Unicorns Bundle | 400054 | [400054-paint-it-my-cute-unicorns-bundle.json](./400054-paint-it-my-cute-unicorns-bundle.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Over | 244150 | [244150-paint-over.json](./244150-paint-over.json) |
 | Paint Park | 65249 | [65249-paint-park.json](./65249-paint-park.json) |
 | Paint Park Plus | 119585 | [119585-paint-park-plus.json](./119585-paint-park-plus.json) |
+| Paint Pro for Kids 0+ | 400058 | [400058-paint-pro-for-kids-0.json](./400058-paint-pro-for-kids-0.json) |
 | Paint Puzzle Quest | 341600 | [341600-paint-puzzle-quest.json](./341600-paint-puzzle-quest.json) |
 | Paint Rider | 179187 | [179187-paint-rider.json](./179187-paint-rider.json) |
 | Paint Rings | 290462 | [290462-paint-rings.json](./290462-paint-rings.json) |
@@ -10219,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
 | Princess Closet | 147734 | [147734-princess-closet.json](./147734-princess-closet.json) |
+| Princess Closet: Fashion and Love Will Change Me | 400059 | [400059-princess-closet-fashion-and-love-will-change-me.json](./400059-princess-closet-fashion-and-love-will-change-me.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
 | Princess Connect! | 22792 | [22792-princess-connect.json](./22792-princess-connect.json) |
 | Princess Covenant | 367632 | [367632-princess-covenant.json](./367632-princess-covenant.json) |
@@ -12564,6 +12568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Boots | 3676 | [3676-puss-in-boots.json](./3676-puss-in-boots.json) |
 | Puss In Boots | 192927 | [192927-puss-in-boots.json](./192927-puss-in-boots.json) |
 | Puss in Boots: Fear Not Hooman | 118204 | [118204-puss-in-boots-fear-not-hooman.json](./118204-puss-in-boots-fear-not-hooman.json) |
+| Puss in Boots: Interactive Book | 400064 | [400064-puss-in-boots-interactive-book.json](./400064-puss-in-boots-interactive-book.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Puss in Pants | 359044 | [359044-puss-in-pants.json](./359044-puss-in-pants.json) |
 | Puss in Woods | 304389 | [304389-puss-in-woods.json](./304389-puss-in-woods.json) |
