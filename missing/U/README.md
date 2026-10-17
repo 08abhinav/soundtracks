@@ -82,6 +82,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uboat Attack: Zeppelin DLC | 316233 | [316233-uboat-attack-zeppelin-dlc.json](./316233-uboat-attack-zeppelin-dlc.json) |
 | Uboat Commander | 155878 | [155878-uboat-commander.json](./155878-uboat-commander.json) |
 | UBoat: The Silent Wolf | 217469 | [217469-uboat-the-silent-wolf.json](./217469-uboat-the-silent-wolf.json) |
+| UBoat: Type IX - Distant Coasts | 398830 | [398830-uboat-type-ix-distant-coasts.json](./398830-uboat-type-ix-distant-coasts.json) |
 | Ubok. | 150160 | [150160-ubok.json](./150160-ubok.json) |
 | Ubongo Puzzle Adventure | 53946 | [53946-ubongo-puzzle-adventure.json](./53946-ubongo-puzzle-adventure.json) |
 | UBRocks | 90683 | [90683-ubrocks.json](./90683-ubrocks.json) |
