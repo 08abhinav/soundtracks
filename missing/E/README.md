@@ -1581,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
 | Element Battle Royale | 286793 | [286793-element-battle-royale.json](./286793-element-battle-royale.json) |
+| Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
 | Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Room | 339772 | [339772-escape-the-room.json](./339772-escape-the-room.json) |
 | Escape the Room Inscryption Door | 221715 | [221715-escape-the-room-inscryption-door.json](./221715-escape-the-room-inscryption-door.json) |
 | Escape the School | 355217 | [355217-escape-the-school.json](./355217-escape-the-school.json) |
+| Escape The School | 377336 | [377336-escape-the-school.json](./377336-escape-the-school.json) |
 | Escape the Script | 378598 | [378598-escape-the-script.json](./378598-escape-the-script.json) |
 | Escape the SoulKeeper's Forest | 176829 | [176829-escape-the-soulkeepers-forest.json](./176829-escape-the-soulkeepers-forest.json) |
 | Escape the Super Nerdy Dungeon: W100 Master Edition | 279523 | [279523-escape-the-super-nerdy-dungeon-w100-master-edition.json](./279523-escape-the-super-nerdy-dungeon-w100-master-edition.json) |
