@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:37:10.592Z",
-  "total_soundtracks": 2096,
+  "generated_at": "2026-10-17T15:37:19.131Z",
+  "total_soundtracks": 2097,
   "games": [
     {
       "igdb_id": 7522,
@@ -21661,6 +21661,20 @@
         {
           "album_name": "The Gunk (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0u54Iiqqzh1J63VXqMpoj7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120710,
+      "game_name": "The Henry Stickmin Collection",
+      "game_url": "https://ostdb.net/games/the-henry-stickmin-collection",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731aea4d3d9111352979084d6b",
+      "albums": [
+        {
+          "album_name": "The Henry Stickmin Collection (Soundtrack, Ockeroid Edition)",
+          "spotify_url": "https://open.spotify.com/album/3Fjilv525yi9VkIsTZBnoD",
           "apple_music_url": "",
           "album_link_url": ""
         }
