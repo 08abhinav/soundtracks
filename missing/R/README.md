@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirthday | 176939 | [176939-rebirthday.json](./176939-rebirthday.json) |
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
 | RebirthM | 174879 | [174879-rebirthm.json](./174879-rebirthm.json) |
+| ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Rebooker | 377415 | [377415-rebooker.json](./377415-rebooker.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2 | 287844 | [287844-resident-evil-2.json](./287844-resident-evil-2.json) |
 | Resident Evil 2 | 396728 | [396728-resident-evil-2.json](./396728-resident-evil-2.json) |
 | Resident Evil 2 + Resident Evil 3 Bundle | 167078 | [167078-resident-evil-2-resident-evil-3-bundle.json](./167078-resident-evil-2-resident-evil-3-bundle.json) |
+| Resident Evil 2: Arcade | 387130 | [387130-resident-evil-2-arcade.json](./387130-resident-evil-2-arcade.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Collector's Edition | 221401 | [221401-resident-evil-2-collectors-edition.json](./221401-resident-evil-2-collectors-edition.json) |
 | Resident Evil 2: Deluxe Edition | 110809 | [110809-resident-evil-2-deluxe-edition.json](./110809-resident-evil-2-deluxe-edition.json) |
@@ -4098,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
 | Restaurant Cooking Simulator | 317558 | [317558-restaurant-cooking-simulator.json](./317558-restaurant-cooking-simulator.json) |
 | Restaurant Diary | 233441 | [233441-restaurant-diary.json](./233441-restaurant-diary.json) |
+| Restaurant Dream | 387126 | [387126-restaurant-dream.json](./387126-restaurant-dream.json) |
 | Restaurant Empire | 10766 | [10766-restaurant-empire.json](./10766-restaurant-empire.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
