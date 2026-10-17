@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:32:32.072Z",
-  "total_missing": 225743,
+  "generated_at": "2026-10-17T23:36:39.304Z",
+  "total_missing": 225741,
   "games": [
     {
       "igdb_id": 191680,
@@ -70040,11 +70040,6 @@
       "igdb_id": 105031,
       "game_name": "Atelier Rorona: The Alchemist of Arland DX",
       "file": "missing/A/105031-atelier-rorona-the-alchemist-of-arland-dx.json"
-    },
-    {
-      "igdb_id": 136414,
-      "game_name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
-      "file": "missing/A/136414-atelier-ryza-2-lost-legends-and-the-secret-fairy.json"
     },
     {
       "igdb_id": 168937,
@@ -683335,11 +683330,6 @@
       "igdb_id": 374620,
       "game_name": "Paperwork",
       "file": "missing/P/374620-paperwork.json"
-    },
-    {
-      "igdb_id": 121567,
-      "game_name": "Papetura",
-      "file": "missing/P/121567-papetura.json"
     },
     {
       "igdb_id": 87107,
