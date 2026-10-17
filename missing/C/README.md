@@ -11111,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cracked | 261769 | [261769-cracked.json](./261769-cracked.json) |
 | Cracked | 265432 | [265432-cracked.json](./265432-cracked.json) |
 | Cracked Up | 164961 | [164961-cracked-up.json](./164961-cracked-up.json) |
+| Crackheads | 396342 | [396342-crackheads.json](./396342-crackheads.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
