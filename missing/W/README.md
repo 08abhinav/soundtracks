@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Space Marine II - Trygon Update | 340584 | [340584-warhammer-40-000-space-marine-ii-trygon-update.json](./340584-warhammer-40-000-space-marine-ii-trygon-update.json) |
 | Warhammer 40,000: Space Marine II - Ultra Edition | 302738 | [302738-warhammer-40-000-space-marine-ii-ultra-edition.json](./302738-warhammer-40-000-space-marine-ii-ultra-edition.json) |
 | Warhammer 40,000: Space Marine II - Ultramarines Cosmetic Pack | 332084 | [332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json](./332084-warhammer-40-000-space-marine-ii-ultramarines-cosmetic-pack.json) |
+| Warhammer 40,000: Space Marine II: Blood Angels Champion Pack | 378614 | [378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json](./378614-warhammer-40-000-space-marine-ii-blood-angels-champion-pack.json) |
 | Warhammer 40,000: Space Marine III | 335432 | [335432-warhammer-40-000-space-marine-iii.json](./335432-warhammer-40-000-space-marine-iii.json) |
 | Warhammer 40,000: Space Marine VR - Defenders of Avarax | 402514 | [402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json](./402514-warhammer-40-000-space-marine-vr-defenders-of-avarax.json) |
 | Warhammer 40,000: Space Wolf | 30283 | [30283-warhammer-40-000-space-wolf.json](./30283-warhammer-40-000-space-wolf.json) |
