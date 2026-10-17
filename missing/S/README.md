@@ -11363,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat: Castaway | 399689 | [399689-sokocat-castaway.json](./399689-sokocat-castaway.json) |
 | Sokocat: Combo | 203267 | [203267-sokocat-combo.json](./203267-sokocat-combo.json) |
 | Sokocat: Dungeon | 166808 | [166808-sokocat-dungeon.json](./166808-sokocat-dungeon.json) |
+| Sokocat: Islands - Remastered | 379186 | [379186-sokocat-islands-remastered.json](./379186-sokocat-islands-remastered.json) |
 | SokoChess | 201496 | [201496-sokochess.json](./201496-sokochess.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
@@ -12864,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerer's Choice: Angel or Demon? | 237537 | [237537-sorcerers-choice-angel-or-demon.json](./237537-sorcerers-choice-angel-or-demon.json) |
 | Sorcerer's Choice: Angel or Demon? Steam Version | 246657 | [246657-sorcerers-choice-angel-or-demon-steam-version.json](./246657-sorcerers-choice-angel-or-demon-steam-version.json) |
 | Sorcerer's Dream | 41917 | [41917-sorcerers-dream.json](./41917-sorcerers-dream.json) |
+| Sorcerer's Fortitude | 379178 | [379178-sorcerers-fortitude.json](./379178-sorcerers-fortitude.json) |
 | Sorcerer's Kingdom | 46197 | [46197-sorcerers-kingdom.json](./46197-sorcerers-kingdom.json) |
 | Sorcerer's Mid-month Exam | 247613 | [247613-sorcerers-mid-month-exam.json](./247613-sorcerers-mid-month-exam.json) |
 | Sorcerer's Path | 87969 | [87969-sorcerers-path.json](./87969-sorcerers-path.json) |
@@ -17179,6 +17181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Stable: The Autumn Rider | 283667 | [283667-star-stable-the-autumn-rider.json](./283667-star-stable-the-autumn-rider.json) |
 | Star Stable: The Summer Rider | 283675 | [283675-star-stable-the-summer-rider.json](./283675-star-stable-the-summer-rider.json) |
 | Star Stable: The Winter Rider | 283672 | [283672-star-stable-the-winter-rider.json](./283672-star-stable-the-winter-rider.json) |
+| Star Station Frontier | 379100 | [379100-star-station-frontier.json](./379100-star-station-frontier.json) |
 | Star Stealing Prince: Definitive | 183962 | [183962-star-stealing-prince-definitive.json](./183962-star-stealing-prince-definitive.json) |
 | Star Steel | 159837 | [159837-star-steel.json](./159837-star-steel.json) |
 | Star Stone Splash | 274491 | [274491-star-stone-splash.json](./274491-star-stone-splash.json) |
@@ -17546,6 +17549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star.Bit | 184898 | [184898-star-bit.json](./184898-star-bit.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
 | Star*Burst | 174301 | [174301-star-burst.json](./174301-star-burst.json) |
+| StarAbyss Heroes | 379108 | [379108-starabyss-heroes.json](./379108-starabyss-heroes.json) |
 | Staraway | 349377 | [349377-staraway.json](./349377-staraway.json) |
 | Starazius | 122423 | [122423-starazius.json](./122423-starazius.json) |
 | Starback: Planetdestroyer Redux | 101724 | [101724-starback-planetdestroyer-redux.json](./101724-starback-planetdestroyer-redux.json) |
@@ -19035,6 +19039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Sticky Struggles | 286599 | [286599-sticky-struggles.json](./286599-sticky-struggles.json) |
 | Sticky Sword | 420510 | [420510-sticky-sword.json](./420510-sticky-sword.json) |
+| Sticky Twig Dash! | 379106 | [379106-sticky-twig-dash.json](./379106-sticky-twig-dash.json) |
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
@@ -20505,6 +20510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subdivision Infinity DX | 110798 | [110798-subdivision-infinity-dx.json](./110798-subdivision-infinity-dx.json) |
 | Subdread | 415475 | [415475-subdread.json](./415475-subdread.json) |
 | Sube | 264149 | [264149-sube.json](./264149-sube.json) |
+| Subell's Abyss | 379105 | [379105-subells-abyss.json](./379105-subells-abyss.json) |
 | Suber Driver | 189079 | [189079-suber-driver.json](./189079-suber-driver.json) |
 | Subete wa Oshi no Tame ni!! Josou Shitara Chouzetsu Oshi ni Niteta Ken | 77866 | [77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json](./77866-subete-wa-oshi-no-tame-ni-josou-shitara-chouzetsu-oshi-ni-niteta-ken.json) |
 | Subject | 131341 | [131341-subject.json](./131341-subject.json) |
