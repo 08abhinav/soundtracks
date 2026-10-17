@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Battlegrounds | 105283 | [105283-infected-battlegrounds.json](./105283-infected-battlegrounds.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
+| Infected Escaped: Upgrade | 379720 | [379720-infected-escaped-upgrade.json](./379720-infected-escaped-upgrade.json) |
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
 | Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
 | Infected Mushroom Pinball | 353770 | [353770-infected-mushroom-pinball.json](./353770-infected-mushroom-pinball.json) |
@@ -4615,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IT Clicker: Dinosaur in the Code World | 251002 | [251002-it-clicker-dinosaur-in-the-code-world.json](./251002-it-clicker-dinosaur-in-the-code-world.json) |
 | It Comes at Night | 412190 | [412190-it-comes-at-night.json](./412190-it-comes-at-night.json) |
 | It Comes in Waves | 242433 | [242433-it-comes-in-waves.json](./242433-it-comes-in-waves.json) |
+| It Commands | 379627 | [379627-it-commands.json](./379627-it-commands.json) |
 | It Consumes | 245778 | [245778-it-consumes.json](./245778-it-consumes.json) |
 | It Depends | 58669 | [58669-it-depends.json](./58669-it-depends.json) |
 | It Devours Our Souls | 184956 | [184956-it-devours-our-souls.json](./184956-it-devours-our-souls.json) |
