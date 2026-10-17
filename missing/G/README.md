@@ -2387,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gestures on iOS | 232589 | [232589-gestures-on-ios.json](./232589-gestures-on-ios.json) |
 | Gestures Towards Divinity | 393510 | [393510-gestures-towards-divinity.json](./393510-gestures-towards-divinity.json) |
 | Gestüt: Ein Leben für die Pferde | 136369 | [136369-gestut-ein-leben-fur-die-pferde.json](./136369-gestut-ein-leben-fur-die-pferde.json) |
+| Gesui Oukoku | 412251 | [412251-gesui-oukoku.json](./412251-gesui-oukoku.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
 | Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
 | Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
@@ -2829,6 +2830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
+| Ghosts of Tabor: Legacy | 412321 | [412321-ghosts-of-tabor-legacy.json](./412321-ghosts-of-tabor-legacy.json) |
 | Ghosts of Tabor: Taran Tactical JW3 | 273829 | [273829-ghosts-of-tabor-taran-tactical-jw3.json](./273829-ghosts-of-tabor-taran-tactical-jw3.json) |
 | Ghosts of the Past: Bones of Meadows Town - Collector's Edition | 381378 | [381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json](./381378-ghosts-of-the-past-bones-of-meadows-town-collectors-edition.json) |
 | Ghosts of the Tozai Line | 416661 | [416661-ghosts-of-the-tozai-line.json](./416661-ghosts-of-the-tozai-line.json) |
@@ -4765,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Fireflies | 82355 | [82355-gone-fireflies.json](./82355-gone-fireflies.json) |
 | Gone Fishin' with Archimedes | 230731 | [230731-gone-fishin-with-archimedes.json](./230731-gone-fishin-with-archimedes.json) |
 | Gone Fishing | 348447 | [348447-gone-fishing.json](./348447-gone-fishing.json) |
+| Gone Fishing | 412372 | [412372-gone-fishing.json](./412372-gone-fishing.json) |
 | Gone Home: Console Edition | 82387 | [82387-gone-home-console-edition.json](./82387-gone-home-console-edition.json) |
 | Gone In November: Collector's Edition | 53074 | [53074-gone-in-november-collectors-edition.json](./53074-gone-in-november-collectors-edition.json) |
 | Gone Rogue | 182245 | [182245-gone-rogue.json](./182245-gone-rogue.json) |
@@ -5269,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbed by the Ghoulies | 324860 | [324860-grabbed-by-the-ghoulies.json](./324860-grabbed-by-the-ghoulies.json) |
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
+| Grabit | 412373 | [412373-grabit.json](./412373-grabit.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
 | Grabity | 75073 | [75073-grabity.json](./75073-grabity.json) |
 | Grace Hopper: Bug Rescue | 217451 | [217451-grace-hopper-bug-rescue.json](./217451-grace-hopper-bug-rescue.json) |
@@ -5356,6 +5360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
 | Gran Turismo 7: Power Pack | 377243 | [377243-gran-turismo-7-power-pack.json](./377243-gran-turismo-7-power-pack.json) |
+| Gran Turismo 7: Spec II | 412370 | [412370-gran-turismo-7-spec-ii.json](./412370-gran-turismo-7-spec-ii.json) |
 | Gran Turismo 7: Spec III | 370002 | [370002-gran-turismo-7-spec-iii.json](./370002-gran-turismo-7-spec-iii.json) |
 | Gran Turismo 7: Spec IV | 416116 | [416116-gran-turismo-7-spec-iv.json](./416116-gran-turismo-7-spec-iv.json) |
 | Gran Turismo Concept: 2001 Tokyo | 80163 | [80163-gran-turismo-concept-2001-tokyo.json](./80163-gran-turismo-concept-2001-tokyo.json) |
