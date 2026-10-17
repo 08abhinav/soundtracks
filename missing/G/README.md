@@ -3585,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
+| Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
 | Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
 | Glorg | 286653 | [286653-glorg.json](./286653-glorg.json) |
 | Glorgorian Weather Initiative | 393509 | [393509-glorgorian-weather-initiative.json](./393509-glorgorian-weather-initiative.json) |
@@ -5198,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Classic Khorinis Saga | 300389 | [300389-gothic-classic-khorinis-saga.json](./300389-gothic-classic-khorinis-saga.json) |
 | Gothic Clicker | 345011 | [345011-gothic-clicker.json](./345011-gothic-clicker.json) |
 | Gothic Girls | 169815 | [169815-gothic-girls.json](./169815-gothic-girls.json) |
+| Gothic Hell: Survivors | 393991 | [393991-gothic-hell-survivors.json](./393991-gothic-hell-survivors.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
 | Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
