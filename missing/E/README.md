@@ -5668,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
+| Extract Game | 380154 | [380154-extract-game.json](./380154-extract-game.json) |
 | ExtracTD | 337675 | [337675-extractd.json](./337675-extractd.json) |
 | Extraction Force | 220021 | [220021-extraction-force.json](./220021-extraction-force.json) |
 | Extraction Point: Alien Shootout | 69140 | [69140-extraction-point-alien-shootout.json](./69140-extraction-point-alien-shootout.json) |
