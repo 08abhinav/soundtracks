@@ -4357,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below the Surface: Uncovering the Truth in the Sewers | 372074 | [372074-below-the-surface-uncovering-the-truth-in-the-sewers.json](./372074-below-the-surface-uncovering-the-truth-in-the-sewers.json) |
 | Below Zero: Prologue | 317326 | [317326-below-zero-prologue.json](./317326-below-zero-prologue.json) |
 | Below, Rusted Gods | 304148 | [304148-below-rusted-gods.json](./304148-below-rusted-gods.json) |
+| Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
 | Belts of Iron | 374243 | [374243-belts-of-iron.json](./374243-belts-of-iron.json) |
 | Beluflin: Beautiful Luminous Flying Insects | 325268 | [325268-beluflin-beautiful-luminous-flying-insects.json](./325268-beluflin-beautiful-luminous-flying-insects.json) |
@@ -10395,6 +10396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Bolts | 114743 | [114743-brawl-bolts.json](./114743-brawl-bolts.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
+| Brawl Burrow | 391094 | [391094-brawl-burrow.json](./391094-brawl-burrow.json) |
 | Brawl Busters | 20714 | [20714-brawl-busters.json](./20714-brawl-busters.json) |
 | Brawl Chess | 140374 | [140374-brawl-chess.json](./140374-brawl-chess.json) |
 | Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
