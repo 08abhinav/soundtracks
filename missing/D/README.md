@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Gears: Space of War | 401118 | [401118-dead-gears-space-of-war.json](./401118-dead-gears-space-of-war.json) |
 | Dead Girl's Notebook | 249322 | [249322-dead-girls-notebook.json](./249322-dead-girls-notebook.json) |
 | Dead Giveaway: Zombie Quiz | 232044 | [232044-dead-giveaway-zombie-quiz.json](./232044-dead-giveaway-zombie-quiz.json) |
+| Dead Gods Realm: Morar | 401305 | [401305-dead-gods-realm-morar.json](./401305-dead-gods-realm-morar.json) |
 | Dead Grid | 163803 | [163803-dead-grid.json](./163803-dead-grid.json) |
 | Dead Ground Arcade | 128292 | [128292-dead-ground-arcade.json](./128292-dead-ground-arcade.json) |
 | Dead Ground Arcade: Ellis Island | 264768 | [264768-dead-ground-arcade-ellis-island.json](./264768-dead-ground-arcade-ellis-island.json) |
@@ -9873,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. What & Detective Son | 289806 | [289806-dr-what-and-detective-son.json](./289806-dr-what-and-detective-son.json) |
 | Dr. Wise: Medical Mysteries | 65185 | [65185-dr-wise-medical-mysteries.json](./65185-dr-wise-medical-mysteries.json) |
 | Dr. Woo's Twisted Clone Shop | 343996 | [343996-dr-woos-twisted-clone-shop.json](./343996-dr-woos-twisted-clone-shop.json) |
+| Dr. Yue's Dream Hospital | 401257 | [401257-dr-yues-dream-hospital.json](./401257-dr-yues-dream-hospital.json) |
 | Dr.Brain Gehirn Jogging Frühjahrsedition | 91612 | [91612-dr-brain-gehirn-jogging-fruhjahrsedition.json](./91612-dr-brain-gehirn-jogging-fruhjahrsedition.json) |
 | Dr.Brain Nonogram PC | 91600 | [91600-dr-brain-nonogram-pc.json](./91600-dr-brain-nonogram-pc.json) |
 | Dr.Green | 36001 | [36001-dr-green.json](./36001-dr-green.json) |
