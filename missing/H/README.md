@@ -5709,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitboxer | 214418 | [214418-hitboxer.json](./214418-hitboxer.json) |
 | Hitchhiker | 83416 | [83416-hitchhiker.json](./83416-hitchhiker.json) |
 | Hitchhiking to Hell | 405684 | [405684-hitchhiking-to-hell.json](./405684-hitchhiking-to-hell.json) |
+| Hitherto: School of Swordcery and Shieldjuration | 414757 | [414757-hitherto-school-of-swordcery-and-shieldjuration.json](./414757-hitherto-school-of-swordcery-and-shieldjuration.json) |
 | Hitler is My Crush: Love and Fascism | 318420 | [318420-hitler-is-my-crush-love-and-fascism.json](./318420-hitler-is-my-crush-love-and-fascism.json) |
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
@@ -7780,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Mech Friends and Influence Goblings | 184800 | [184800-how-to-mech-friends-and-influence-goblings.json](./184800-how-to-mech-friends-and-influence-goblings.json) |
 | How to Melt a Maiden's Heart | 326280 | [326280-how-to-melt-a-maidens-heart.json](./326280-how-to-melt-a-maidens-heart.json) |
 | How to Raise a Wolf Girl | 122825 | [122825-how-to-raise-a-wolf-girl.json](./122825-how-to-raise-a-wolf-girl.json) |
+| How to Ride Elevators Like a Human | 414761 | [414761-how-to-ride-elevators-like-a-human.json](./414761-how-to-ride-elevators-like-a-human.json) |
 | How to Say Goodbye | 126445 | [126445-how-to-say-goodbye.json](./126445-how-to-say-goodbye.json) |
 | How to Sing to Open Your Heart: Remastered | 188424 | [188424-how-to-sing-to-open-your-heart-remastered.json](./188424-how-to-sing-to-open-your-heart-remastered.json) |
 | How to Sovle Rubiks Cube in 30 seconds | 103669 | [103669-how-to-sovle-rubiks-cube-in-30-seconds.json](./103669-how-to-sovle-rubiks-cube-in-30-seconds.json) |
