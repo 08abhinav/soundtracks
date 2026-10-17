@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flan | 116263 | [116263-flan.json](./116263-flan.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
 | Flan's Mod | 232680 | [232680-flans-mod.json](./232680-flans-mod.json) |
+| Flanders KIller | 383767 | [383767-flanders-killer.json](./383767-flanders-killer.json) |
 | Flanker 2.0 | 708 | [708-flanker-2-0.json](./708-flanker-2-0.json) |
 | Flanker 2.5 | 709 | [709-flanker-2-5.json](./709-flanker-2-5.json) |
 | Flanker: Call of the Ghost | 353792 | [353792-flanker-call-of-the-ghost.json](./353792-flanker-call-of-the-ghost.json) |
@@ -5576,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Me Not | 405008 | [405008-flip-me-not.json](./405008-flip-me-not.json) |
 | Flip n Fry | 181619 | [181619-flip-n-fry.json](./181619-flip-n-fry.json) |
 | Flip of Light | 185119 | [185119-flip-of-light.json](./185119-flip-of-light.json) |
+| Flip or Fade: The Bottle Flip | 383754 | [383754-flip-or-fade-the-bottle-flip.json](./383754-flip-or-fade-the-bottle-flip.json) |
 | Flip or Flop: Home Edition | 209453 | [209453-flip-or-flop-home-edition.json](./209453-flip-or-flop-home-edition.json) |
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
@@ -7626,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
 | Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
+| Four Bombs | 383756 | [383756-four-bombs.json](./383756-four-bombs.json) |
 | Four Card Solitaire | 94675 | [94675-four-card-solitaire.json](./94675-four-card-solitaire.json) |
 | Four Chambers of the Human Heart | 250455 | [250455-four-chambers-of-the-human-heart.json](./250455-four-chambers-of-the-human-heart.json) |
 | Four Circles | 365829 | [365829-four-circles.json](./365829-four-circles.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy: Sideboob Story | 127949 | [127949-funbag-fantasy-sideboob-story.json](./127949-funbag-fantasy-sideboob-story.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
+| Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
 | Function Ball | 293503 | [293503-function-ball.json](./293503-function-ball.json) |
 | Function.Repair | 63827 | [63827-function-repair.json](./63827-function-repair.json) |
