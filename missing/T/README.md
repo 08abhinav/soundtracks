@@ -4432,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baker of Shireton | 59683 | [59683-the-baker-of-shireton.json](./59683-the-baker-of-shireton.json) |
 | The Bakerville Case | 217383 | [217383-the-bakerville-case.json](./217383-the-bakerville-case.json) |
 | The Bakery Tales | 328475 | [328475-the-bakery-tales.json](./328475-the-bakery-tales.json) |
+| The Baldina | 367183 | [367183-the-baldina.json](./367183-the-baldina.json) |
 | The Ball | 363961 | [363961-the-ball.json](./363961-the-ball.json) |
 | The Ball | 9402 | [9402-the-ball.json](./9402-the-ball.json) |
 | The Ball 2 | 224475 | [224475-the-ball-2.json](./224475-the-ball-2.json) |
@@ -9946,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Rune | 408492 | [408492-the-missing-rune.json](./408492-the-missing-rune.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
+| The Missing Thing | 367191 | [367191-the-missing-thing.json](./367191-the-missing-thing.json) |
 | The Missing Threads | 412925 | [412925-the-missing-threads.json](./412925-the-missing-threads.json) |
 | The Missing Trail | 307703 | [307703-the-missing-trail.json](./307703-the-missing-trail.json) |
 | The Missing: J.J. Macfield and the Island of Memories | 87499 | [87499-the-missing-j-j-macfield-and-the-island-of-memories.json](./87499-the-missing-j-j-macfield-and-the-island-of-memories.json) |
@@ -23206,6 +23208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
+| Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
 | Turbo Pug | 34074 | [34074-turbo-pug.json](./34074-turbo-pug.json) |
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
