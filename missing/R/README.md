@@ -1592,6 +1592,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenous Frog | 96291 | [96291-ravenous-frog.json](./96291-ravenous-frog.json) |
 | Ravenous Hand | 377991 | [377991-ravenous-hand.json](./377991-ravenous-hand.json) |
 | Ravenous Horde | 268980 | [268980-ravenous-horde.json](./268980-ravenous-horde.json) |
+| RavenQuest: Munk Madness | 414094 | [414094-ravenquest-munk-madness.json](./414094-ravenquest-munk-madness.json) |
+| RavenQuest: Rise of Tyrants | 414192 | [414192-ravenquest-rise-of-tyrants.json](./414192-ravenquest-rise-of-tyrants.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
