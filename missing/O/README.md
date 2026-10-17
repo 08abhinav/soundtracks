@@ -1124,7 +1124,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympimania | 354592 | [354592-olympimania.json](./354592-olympimania.json) |
 | Olympique de Marseille Club Football 2005 | 267907 | [267907-olympique-de-marseille-club-football-2005.json](./267907-olympique-de-marseille-club-football-2005.json) |
 | Olympus 2207 | 219118 | [219118-olympus-2207.json](./219118-olympus-2207.json) |
+| Olympus Rising | 408496 | [408496-olympus-rising.json](./408496-olympus-rising.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
+| Olympus Rising: Ragnarok | 408499 | [408499-olympus-rising-ragnarok.json](./408499-olympus-rising-ragnarok.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
 | Om Nom: Coloring, Toons & Puzzle | 194255 | [194255-om-nom-coloring-toons-and-puzzle.json](./194255-om-nom-coloring-toons-and-puzzle.json) |
@@ -1552,6 +1554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Barbarian Futa Tribe Chapter 2: Red | 297171 | [297171-one-barbarian-futa-tribe-chapter-2-red.json](./297171-one-barbarian-futa-tribe-chapter-2-red.json) |
 | One Bear Army | 272275 | [272275-one-bear-army.json](./272275-one-bear-army.json) |
 | One Beat Min | 222827 | [222827-one-beat-min.json](./222827-one-beat-min.json) |
+| One Billion Ducks | 408542 | [408542-one-billion-ducks.json](./408542-one-billion-ducks.json) |
 | One Bit | 48007 | [48007-one-bit.json](./48007-one-bit.json) |
 | One Bit Arena | 86762 | [86762-one-bit-arena.json](./86762-one-bit-arena.json) |
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
@@ -3414,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Beginnings & Always - Baxter's Story | 248049 | [248049-our-life-beginnings-and-always-baxters-story.json](./248049-our-life-beginnings-and-always-baxters-story.json) |
 | Our Life: Beginnings & Always - Derek's Story | 216140 | [216140-our-life-beginnings-and-always-dereks-story.json](./216140-our-life-beginnings-and-always-dereks-story.json) |
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
+| Our Light Affliction: Spider's Covenant | 408537 | [408537-our-light-affliction-spiders-covenant.json](./408537-our-light-affliction-spiders-covenant.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
 | Our Magic Window | 271939 | [271939-our-magic-window.json](./271939-our-magic-window.json) |
