@@ -7186,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
+| Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
 | Plumber World | 403752 | [403752-plumber-world.json](./403752-plumber-world.json) |
 | Plumber’s Legacy | 351772 | [351772-plumber-s-legacy.json](./351772-plumber-s-legacy.json) |
@@ -9844,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Adventure | 413205 | [413205-prehistoric-adventure.json](./413205-prehistoric-adventure.json) |
 | Prehistoric Animals | 69223 | [69223-prehistoric-animals.json](./69223-prehistoric-animals.json) |
 | Prehistoric Dude | 138774 | [138774-prehistoric-dude.json](./138774-prehistoric-dude.json) |
+| Prehistoric Football | 392728 | [392728-prehistoric-football.json](./392728-prehistoric-football.json) |
 | Prehistoric Gal | 293656 | [293656-prehistoric-gal.json](./293656-prehistoric-gal.json) |
 | Prehistoric Hunt | 142203 | [142203-prehistoric-hunt.json](./142203-prehistoric-hunt.json) |
 | Prehistoric Isle | 78964 | [78964-prehistoric-isle.json](./78964-prehistoric-isle.json) |
@@ -12322,6 +12324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuPaiPo Space Deluxe | 126969 | [126969-pupaipo-space-deluxe.json](./126969-pupaipo-space-deluxe.json) |
 | Pupil: Wandering VR | 117834 | [117834-pupil-wandering-vr.json](./117834-pupil-wandering-vr.json) |
 | Pupillary | 408296 | [408296-pupillary.json](./408296-pupillary.json) |
+| Puppe Yerde | 392753 | [392753-puppe-yerde.json](./392753-puppe-yerde.json) |
 | Puppers Delivers | 183430 | [183430-puppers-delivers.json](./183430-puppers-delivers.json) |
 | Puppertrator | 185399 | [185399-puppertrator.json](./185399-puppertrator.json) |
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
