@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
 | Viscerafest | 137358 | [137358-viscerafest.json](./137358-viscerafest.json) |
 | Visceral | 419860 | [419860-visceral.json](./419860-visceral.json) |
+| Visceral Abyss | 379104 | [379104-visceral-abyss.json](./379104-visceral-abyss.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
