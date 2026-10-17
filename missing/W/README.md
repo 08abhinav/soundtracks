@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartales: The Skelmar Invasion | 322788 | [322788-wartales-the-skelmar-invasion.json](./322788-wartales-the-skelmar-invasion.json) |
 | Wartales: The Tavern Opens! | 296870 | [296870-wartales-the-tavern-opens.json](./296870-wartales-the-tavern-opens.json) |
 | WarTech: Senko no Ronde | 7245 | [7245-wartech-senko-no-ronde.json](./7245-wartech-senko-no-ronde.json) |
+| Wartheon | 367722 | [367722-wartheon.json](./367722-wartheon.json) |
 | Warthog Launch | 165168 | [165168-warthog-launch.json](./165168-warthog-launch.json) |
 | Warthog Rally | 393022 | [393022-warthog-rally.json](./393022-warthog-rally.json) |
 | Wartide | 389671 | [389671-wartide.json](./389671-wartide.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 367753 | [367753-where-in-the-world-is-carmen-sandiego.json](./367753-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? Enhanced Edition | 143640 | [143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json](./143640-where-in-the-world-is-carmen-sandiego-enhanced-edition.json) |
 | Where in the World Is Carmen Sandiego? Treasures of Knowledge | 58907 | [58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json](./58907-where-in-the-world-is-carmen-sandiego-treasures-of-knowledge.json) |
@@ -5353,6 +5355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Farm Adventure | 154793 | [154793-word-farm-adventure.json](./154793-word-farm-adventure.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
+| Word Flyer | 367714 | [367714-word-flyer.json](./367714-word-flyer.json) |
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
 | Word Game | 88428 | [88428-word-game.json](./88428-word-game.json) |
