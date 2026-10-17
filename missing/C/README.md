@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
+| Casino of Time | 409857 | [409857-casino-of-time.json](./409857-casino-of-time.json) |
 | Casino Pokies-CPC | 360590 | [360590-casino-pokies-cpc.json](./360590-casino-pokies-cpc.json) |
 | Casino Resort | 255059 | [255059-casino-resort.json](./255059-casino-resort.json) |
 | Casino Rogue | 304634 | [304634-casino-rogue.json](./304634-casino-rogue.json) |
@@ -6825,6 +6826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clavis Kinkygate: Treasure of Danau River | 294033 | [294033-clavis-kinkygate-treasure-of-danau-river.json](./294033-clavis-kinkygate-treasure-of-danau-river.json) |
 | Claw | 176853 | [176853-claw.json](./176853-claw.json) |
 | Claw | 2474 | [2474-claw.json](./2474-claw.json) |
+| Claw and Conjure | 409880 | [409880-claw-and-conjure.json](./409880-claw-and-conjure.json) |
 | Claw Arena | 172439 | [172439-claw-arena.json](./172439-claw-arena.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
@@ -8544,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
+| Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
@@ -10602,6 +10605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
+| Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
 | Cotton to Freaks | 410254 | [410254-cotton-to-freaks.json](./410254-cotton-to-freaks.json) |
 | Cotton: Fantastic Night Dreams | 39488 | [39488-cotton-fantastic-night-dreams.json](./39488-cotton-fantastic-night-dreams.json) |
