@@ -3361,6 +3361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
+| Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
@@ -6019,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Den | 33177 | [33177-gravity-den.json](./33177-gravity-den.json) |
 | Gravity Duck | 121815 | [121815-gravity-duck.json](./121815-gravity-duck.json) |
 | Gravity Escape | 128255 | [128255-gravity-escape.json](./128255-gravity-escape.json) |
+| Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
 | Gravity Flip | 190204 | [190204-gravity-flip.json](./190204-gravity-flip.json) |
@@ -6462,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
 | Gridbug | 67680 | [67680-gridbug.json](./67680-gridbug.json) |
+| Gridbusters | 382494 | [382494-gridbusters.json](./382494-gridbusters.json) |
 | Gridcannon Evolution | 123946 | [123946-gridcannon-evolution.json](./123946-gridcannon-evolution.json) |
 | gridCrack | 89250 | [89250-gridcrack.json](./89250-gridcrack.json) |
 | Gridd: Retroenhanced | 30583 | [30583-gridd-retroenhanced.json](./30583-gridd-retroenhanced.json) |
@@ -7572,6 +7575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Trails | 259277 | [259277-gun-trails.json](./259277-gun-trails.json) |
 | Gun Tycoon | 224051 | [224051-gun-tycoon.json](./224051-gun-tycoon.json) |
 | Gun Ugly | 190920 | [190920-gun-ugly.json](./190920-gun-ugly.json) |
+| Gun Up | 382596 | [382596-gun-up.json](./382596-gun-up.json) |
 | Gun vs. Bottles | 233442 | [233442-gun-vs-bottles.json](./233442-gun-vs-bottles.json) |
 | Gun Warrior: The Rider From Nowhere | 27537 | [27537-gun-warrior-the-rider-from-nowhere.json](./27537-gun-warrior-the-rider-from-nowhere.json) |
 | Gun Witch | 142183 | [142183-gun-witch.json](./142183-gun-witch.json) |
