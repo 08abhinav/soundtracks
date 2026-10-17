@@ -12851,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS | 72334 | [72334-sos.json](./72334-sos.json) |
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
+| SOS Naufrágio | 405498 | [405498-sos-naufragio.json](./405498-sos-naufragio.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
@@ -14265,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacerat Miner | 275659 | [275659-spacerat-miner.json](./275659-spacerat-miner.json) |
 | SpaceRiddle | 409833 | [409833-spaceriddle.json](./409833-spaceriddle.json) |
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
+| Spacero: Origins | 405348 | [405348-spacero-origins.json](./405348-spacero-origins.json) |
 | SpaceRoads | 75420 | [75420-spaceroads.json](./75420-spaceroads.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
