@@ -2065,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daybreak | 380239 | [380239-daybreak.json](./380239-daybreak.json) |
 | Daybreak Legends: Origin | 101069 | [101069-daybreak-legends-origin.json](./101069-daybreak-legends-origin.json) |
 | DayBreak Online | 112867 | [112867-daybreak-online.json](./112867-daybreak-online.json) |
+| Daybreak Slam | 363146 | [363146-daybreak-slam.json](./363146-daybreak-slam.json) |
 | Daybreaker VR | 208833 | [208833-daybreaker-vr.json](./208833-daybreaker-vr.json) |
 | Daybreakers | 259062 | [259062-daybreakers.json](./259062-daybreakers.json) |
 | Daycare Descent | 256909 | [256909-daycare-descent.json](./256909-daycare-descent.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Run 3D | 102041 | [102041-death-run-3d.json](./102041-death-run-3d.json) |
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
 | Death Scream Land | 139081 | [139081-death-scream-land.json](./139081-death-scream-land.json) |
+| Death Sees Twice: Spot the Difference | 363174 | [363174-death-sees-twice-spot-the-difference.json](./363174-death-sees-twice-spot-the-difference.json) |
 | Death Shooter 4 : Mission Impossible | 104614 | [104614-death-shooter-4-mission-impossible.json](./104614-death-shooter-4-mission-impossible.json) |
 | Death Sketchbook | 393134 | [393134-death-sketchbook.json](./393134-death-sketchbook.json) |
 | Death Ski | 156707 | [156707-death-ski.json](./156707-death-ski.json) |
@@ -3490,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deck RX | 180509 | [180509-deck-rx.json](./180509-deck-rx.json) |
 | Deck the Halls, Gieves | 371403 | [371403-deck-the-halls-gieves.json](./371403-deck-the-halls-gieves.json) |
 | Deck the Underhalls | 326803 | [326803-deck-the-underhalls.json](./326803-deck-the-underhalls.json) |
+| Deck vs. Doom | 363175 | [363175-deck-vs-doom.json](./363175-deck-vs-doom.json) |
 | Deck Warlords | 110304 | [110304-deck-warlords.json](./110304-deck-warlords.json) |
 | Deck'n'Bag | 402362 | [402362-decknbag.json](./402362-decknbag.json) |
 | Deckadent | 400706 | [400706-deckadent.json](./400706-deckadent.json) |
@@ -4542,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Waltz | 398594 | [398594-demon-waltz.json](./398594-demon-waltz.json) |
 | Demon War: Idle Rebellion | 101765 | [101765-demon-war-idle-rebellion.json](./101765-demon-war-idle-rebellion.json) |
 | Demon With a Candy Crisis | 391329 | [391329-demon-with-a-candy-crisis.json](./391329-demon-with-a-candy-crisis.json) |
+| Demon with a Pickaxe | 363145 | [363145-demon-with-a-pickaxe.json](./363145-demon-with-a-pickaxe.json) |
 | Demon Wolf Simulator | 102779 | [102779-demon-wolf-simulator.json](./102779-demon-wolf-simulator.json) |
 | Demon World Survival | 195201 | [195201-demon-world-survival.json](./195201-demon-world-survival.json) |
 | Demon World: Raya's Way of Life | 412922 | [412922-demon-world-rayas-way-of-life.json](./412922-demon-world-rayas-way-of-life.json) |
@@ -9290,6 +9294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Contact | 219752 | [219752-doomsday-contact.json](./219752-doomsday-contact.json) |
 | Doomsday Dealer | 347769 | [347769-doomsday-dealer.json](./347769-doomsday-dealer.json) |
 | Doomsday Derby | 249192 | [249192-doomsday-derby.json](./249192-doomsday-derby.json) |
+| Doomsday Diner | 363173 | [363173-doomsday-diner.json](./363173-doomsday-diner.json) |
 | Doomsday Dispute | 192386 | [192386-doomsday-dispute.json](./192386-doomsday-dispute.json) |
 | Doomsday Draft | 408234 | [408234-doomsday-draft.json](./408234-doomsday-draft.json) |
 | Doomsday Dreamgirl | 186084 | [186084-doomsday-dreamgirl.json](./186084-doomsday-dreamgirl.json) |
