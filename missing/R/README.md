@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
 | Ranger Mission | 39436 | [39436-ranger-mission.json](./39436-ranger-mission.json) |
+| Ranger Quest: The Adventure Begins | 367725 | [367725-ranger-quest-the-adventure-begins.json](./367725-ranger-quest-the-adventure-begins.json) |
 | Ranger Quest: The Elemental Orbs | 236766 | [236766-ranger-quest-the-elemental-orbs.json](./236766-ranger-quest-the-elemental-orbs.json) |
 | Ranger vs. Drones | 154364 | [154364-ranger-vs-drones.json](./154364-ranger-vs-drones.json) |
 | Ranger vs. Space Mutants | 101623 | [101623-ranger-vs-space-mutants.json](./101623-ranger-vs-space-mutants.json) |
@@ -3108,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel it! Ocean Fishing | 362350 | [362350-reel-it-ocean-fishing.json](./362350-reel-it-ocean-fishing.json) |
 | Reel it! World Fishing | 403749 | [403749-reel-it-world-fishing.json](./403749-reel-it-world-fishing.json) |
 | Reel Me In | 316949 | [316949-reel-me-in.json](./316949-reel-me-in.json) |
+| Reel Run | 367743 | [367743-reel-run.json](./367743-reel-run.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
@@ -3689,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repeater | 374837 | [374837-repeater.json](./374837-repeater.json) |
 | RepeatyBots | 58498 | [58498-repeatybots.json](./58498-repeatybots.json) |
 | Repel Aliens 3D | 114938 | [114938-repel-aliens-3d.json](./114938-repel-aliens-3d.json) |
+| Repel the Rifts | 367719 | [367719-repel-the-rifts.json](./367719-repel-the-rifts.json) |
 | Repella Fella | 190397 | [190397-repella-fella.json](./190397-repella-fella.json) |
 | Repent | 270938 | [270938-repent.json](./270938-repent.json) |
 | Repentance | 202326 | [202326-repentance.json](./202326-repentance.json) |
