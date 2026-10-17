@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
 | Daibouken: Saint Elmos no Kiseki | 97337 | [97337-daibouken-saint-elmos-no-kiseki.json](./97337-daibouken-saint-elmos-no-kiseki.json) |
 | Daibutsu Paradise | 151748 | [151748-daibutsu-paradise.json](./151748-daibutsu-paradise.json) |
+| Daice | 393945 | [393945-daice.json](./393945-daice.json) |
 | Daichikun Crisis: Do Natural | 42029 | [42029-daichikun-crisis-do-natural.json](./42029-daichikun-crisis-do-natural.json) |
 | Daidai no Ginyoku: Skyland no Majo no Miko | 84533 | [84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json](./84533-daidai-no-ginyoku-skyland-no-majo-no-miko.json) |
 | Daidassou | 237548 | [237548-daidassou.json](./237548-daidassou.json) |
@@ -553,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance of the Butterflies | 412278 | [412278-dance-of-the-butterflies.json](./412278-dance-of-the-butterflies.json) |
 | Dance of the Stereomancer | 364692 | [364692-dance-of-the-stereomancer.json](./364692-dance-of-the-stereomancer.json) |
 | Dance of the Vampires | 168323 | [168323-dance-of-the-vampires.json](./168323-dance-of-the-vampires.json) |
+| Dance of Theseus | 393986 | [393986-dance-of-theseus.json](./393986-dance-of-theseus.json) |
 | Dance On | 54685 | [54685-dance-on.json](./54685-dance-on.json) |
 | Dance on Broadway | 2663 | [2663-dance-on-broadway.json](./2663-dance-on-broadway.json) |
 | Dance On Radar | 342801 | [342801-dance-on-radar.json](./342801-dance-on-radar.json) |
@@ -1797,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Kimiko no Virtual Tennis | 42435 | [42435-date-kimiko-no-virtual-tennis.json](./42435-date-kimiko-no-virtual-tennis.json) |
 | Date ni Game Tsui Wake Jane! Dungeon Maker Girls Type | 214552 | [214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json](./214552-date-ni-game-tsui-wake-jane-dungeon-maker-girls-type.json) |
 | Date Night | 179077 | [179077-date-night.json](./179077-date-night.json) |
+| Date Night | 393971 | [393971-date-night.json](./393971-date-night.json) |
 | Date Night Bowling | 137109 | [137109-date-night-bowling.json](./137109-date-night-bowling.json) |
 | Date Nite | 336598 | [336598-date-nite.json](./336598-date-nite.json) |
 | Date of Death: Origin | 195553 | [195553-date-of-death-origin.json](./195553-date-of-death-origin.json) |
@@ -2585,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
+| Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
@@ -5765,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo IV: Season of Hatred Rising | 314387 | [314387-diablo-iv-season-of-hatred-rising.json](./314387-diablo-iv-season-of-hatred-rising.json) |
 | Diablo IV: Season of Infernal Chaos | 372053 | [372053-diablo-iv-season-of-infernal-chaos.json](./372053-diablo-iv-season-of-infernal-chaos.json) |
 | Diablo IV: Season of Reckoning | 403538 | [403538-diablo-iv-season-of-reckoning.json](./403538-diablo-iv-season-of-reckoning.json) |
+| Diablo IV: Season of Slaughter | 393963 | [393963-diablo-iv-season-of-slaughter.json](./393963-diablo-iv-season-of-slaughter.json) |
 | Diablo IV: Season of the Construct | 283102 | [283102-diablo-iv-season-of-the-construct.json](./283102-diablo-iv-season-of-the-construct.json) |
 | Diablo IV: Season of the Infernal Hordes | 312216 | [312216-diablo-iv-season-of-the-infernal-hordes.json](./312216-diablo-iv-season-of-the-infernal-hordes.json) |
 | Diablo IV: Season of Witchcraft | 328937 | [328937-diablo-iv-season-of-witchcraft.json](./328937-diablo-iv-season-of-witchcraft.json) |
