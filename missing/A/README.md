@@ -5370,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altarage | 157150 | [157150-altarage.json](./157150-altarage.json) |
 | Altarays | 161165 | [161165-altarays.json](./161165-altarays.json) |
 | Altarium | 290307 | [290307-altarium.json](./290307-altarium.json) |
+| Altaron | 403439 | [403439-altaron.json](./403439-altaron.json) |
 | Altars of Madness | 258891 | [258891-altars-of-madness.json](./258891-altars-of-madness.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
@@ -5411,6 +5412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
+| Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
 | Alternate Worlds | 62768 | [62768-alternate-worlds.json](./62768-alternate-worlds.json) |
@@ -6699,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies | 328437 | [328437-angry-bunnies.json](./328437-angry-bunnies.json) |
 | Angry Bunnies | 62200 | [62200-angry-bunnies.json](./62200-angry-bunnies.json) |
 | Angry Bunnies: Colossal Carrot Crusade | 84756 | [84756-angry-bunnies-colossal-carrot-crusade.json](./84756-angry-bunnies-colossal-carrot-crusade.json) |
+| Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
 | Angry Cat | 212815 | [212815-angry-cat.json](./212815-angry-cat.json) |
