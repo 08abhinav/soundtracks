@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #70 | 382207 | [382207-indiepocalypse-70.json](./382207-indiepocalypse-70.json) |
 | Indiepocalypse #71 | 382206 | [382206-indiepocalypse-71.json](./382206-indiepocalypse-71.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
+| Indiepocalypse #77 | 412930 | [412930-indiepocalypse-77.json](./412930-indiepocalypse-77.json) |
 | Indies' Lies: Desires Flowing | 349374 | [349374-indies-lies-desires-flowing.json](./349374-indies-lies-desires-flowing.json) |
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
@@ -4794,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ixion: Deluxe Edition | 230975 | [230975-ixion-deluxe-edition.json](./230975-ixion-deluxe-edition.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
+| Izakaya Izakoza | 412931 | [412931-izakaya-izakoza.json](./412931-izakaya-izakoza.json) |
 | Izakaya Rush | 415886 | [415886-izakaya-rush.json](./415886-izakaya-rush.json) |
 | Izanagi Online | 142751 | [142751-izanagi-online.json](./142751-izanagi-online.json) |
 | Izanami | 173065 | [173065-izanami.json](./173065-izanami.json) |
