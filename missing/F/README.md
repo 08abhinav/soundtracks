@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Pig | 403230 | [403230-feed-the-pig.json](./403230-feed-the-pig.json) |
 | Feed the Pig | 75522 | [75522-feed-the-pig.json](./75522-feed-the-pig.json) |
 | Feed The Pit | 325712 | [325712-feed-the-pit.json](./325712-feed-the-pit.json) |
+| Feed The Queen | 387138 | [387138-feed-the-queen.json](./387138-feed-the-queen.json) |
 | Feed The Reactor | 384052 | [384052-feed-the-reactor.json](./384052-feed-the-reactor.json) |
 | Feed The Scorchpot | 377819 | [377819-feed-the-scorchpot.json](./377819-feed-the-scorchpot.json) |
 | Feed Us | 235245 | [235245-feed-us.json](./235245-feed-us.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
 | Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
+| Fisher's Road | 387121 | [387121-fishers-road.json](./387121-fishers-road.json) |
 | Fisherman | 326247 | [326247-fisherman.json](./326247-fisherman.json) |
 | Fisherman Simulator | 318694 | [318694-fisherman-simulator.json](./318694-fisherman-simulator.json) |
 | Fisherman: Idle Fishing Clicker | 183814 | [183814-fisherman-idle-fishing-clicker.json](./183814-fisherman-idle-fishing-clicker.json) |
@@ -6863,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
+| Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
 | Forestry | 29950 | [29950-forestry.json](./29950-forestry.json) |
