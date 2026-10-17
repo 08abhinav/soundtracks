@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kana Quest | 126495 | [126495-kana-quest.json](./126495-kana-quest.json) |
 | Kana Seito Defense | 324293 | [324293-kana-seito-defense.json](./324293-kana-seito-defense.json) |
 | Kana: Imouto | 56771 | [56771-kana-imouto.json](./56771-kana-imouto.json) |
+| Kana: Imouto - Limited Edition | 381889 | [381889-kana-imouto-limited-edition.json](./381889-kana-imouto-limited-edition.json) |
 | Kanade | 317332 | [317332-kanade.json](./317332-kanade.json) |
 | Kanaete! Magical Star | 376684 | [376684-kanaete-magical-star.json](./376684-kanaete-magical-star.json) |
 | Kanako Enomoto Junk Brain Diagnosis | 209450 | [209450-kanako-enomoto-junk-brain-diagnosis.json](./209450-kanako-enomoto-junk-brain-diagnosis.json) |
@@ -740,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karoshi: Suicide Salaryman | 266379 | [266379-karoshi-suicide-salaryman.json](./266379-karoshi-suicide-salaryman.json) |
+| Karous | 381992 | [381992-karous.json](./381992-karous.json) |
 | Karous | 45818 | [45818-karous.json](./45818-karous.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
@@ -3380,6 +3382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Knock | 323988 | [323988-knock-knock.json](./323988-knock-knock.json) |
 | Knock Knock Traveling soulsman | 178013 | [178013-knock-knock-traveling-soulsman.json](./178013-knock-knock-traveling-soulsman.json) |
 | Knock on the Coffin Lid | 131645 | [131645-knock-on-the-coffin-lid.json](./131645-knock-on-the-coffin-lid.json) |
+| Knock on the Coffin Lid: Nightmares of Millenis | 381880 | [381880-knock-on-the-coffin-lid-nightmares-of-millenis.json](./381880-knock-on-the-coffin-lid-nightmares-of-millenis.json) |
 | Knock on the Occult Door | 374817 | [374817-knock-on-the-occult-door.json](./374817-knock-on-the-occult-door.json) |
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
