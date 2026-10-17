@@ -7696,6 +7696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House | 17440 | [17440-the-house.json](./17440-the-house.json) |
 | The House | 240315 | [240315-the-house.json](./240315-the-house.json) |
 | The House | 352303 | [352303-the-house.json](./352303-the-house.json) |
+| The House Always Wins | 378526 | [378526-the-house-always-wins.json](./378526-the-house-always-wins.json) |
 | The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
 | The House in Fata Morgana | 36278 | [36278-the-house-in-fata-morgana.json](./36278-the-house-in-fata-morgana.json) |
@@ -7999,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invisible Guardian | 185670 | [185670-the-invisible-guardian.json](./185670-the-invisible-guardian.json) |
 | The Invisible Hand | 25224 | [25224-the-invisible-hand.json](./25224-the-invisible-hand.json) |
 | The Invisible Hand: Deep Pockets Edition | 155051 | [155051-the-invisible-hand-deep-pockets-edition.json](./155051-the-invisible-hand-deep-pockets-edition.json) |
+| The Invisible Us | 378532 | [378532-the-invisible-us.json](./378532-the-invisible-us.json) |
 | The IOTA Project | 55671 | [55671-the-iota-project.json](./55671-the-iota-project.json) |
 | The Irate Gamer Game | 20195 | [20195-the-irate-gamer-game.json](./20195-the-irate-gamer-game.json) |
 | The Irem Major Title | 42493 | [42493-the-irem-major-title.json](./42493-the-irem-major-title.json) |
@@ -11222,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rolling Edge | 26966 | [26966-the-rolling-edge.json](./26966-the-rolling-edge.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
+| The Romance of the Moth and the Flame | 378515 | [378515-the-romance-of-the-moth-and-the-flame.json](./378515-the-romance-of-the-moth-and-the-flame.json) |
 | The Romance Theorem | 185367 | [185367-the-romance-theorem.json](./185367-the-romance-theorem.json) |
 | The Romantic Blue | 232551 | [232551-the-romantic-blue.json](./232551-the-romantic-blue.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
@@ -18630,6 +18633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Survival Simulator | 407361 | [407361-total-survival-simulator.json](./407361-total-survival-simulator.json) |
 | Total Tank Generals | 215725 | [215725-total-tank-generals.json](./215725-total-tank-generals.json) |
 | Total Tank Simulator | 75252 | [75252-total-tank-simulator.json](./75252-total-tank-simulator.json) |
+| Total Tank Simulator 2 | 378521 | [378521-total-tank-simulator-2.json](./378521-total-tank-simulator-2.json) |
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
