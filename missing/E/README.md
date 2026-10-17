@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Sun | 289815 | [289815-echoes-of-the-sun.json](./289815-echoes-of-the-sun.json) |
 | Echoes of the Wind | 366124 | [366124-echoes-of-the-wind.json](./366124-echoes-of-the-wind.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
+| Echoes of Time | 363665 | [363665-echoes-of-time.json](./363665-echoes-of-time.json) |
 | Echoes of Tomorrow | 369643 | [369643-echoes-of-tomorrow.json](./369643-echoes-of-tomorrow.json) |
 | Echoes of Undeath | 355019 | [355019-echoes-of-undeath.json](./355019-echoes-of-undeath.json) |
 | Echoes of Vision | 321776 | [321776-echoes-of-vision.json](./321776-echoes-of-vision.json) |
@@ -791,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
 | EctoPlaza | 85108 | [85108-ectoplaza.json](./85108-ectoplaza.json) |
+| Ectorider | 363677 | [363677-ectorider.json](./363677-ectorider.json) |
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
 | ECW Anarchy Rulz | 72029 | [72029-ecw-anarchy-rulz.json](./72029-ecw-anarchy-rulz.json) |
 | ECW Hardcore Revolution | 3483 | [3483-ecw-hardcore-revolution.json](./3483-ecw-hardcore-revolution.json) |
