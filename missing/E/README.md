@@ -180,10 +180,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 4.1: Wing Diver the Shooter | 57020 | [57020-earth-defense-force-4-1-wing-diver-the-shooter.json](./57020-earth-defense-force-4-1-wing-diver-the-shooter.json) |
 | Earth Defense Force 4.1: Wing Diver the Shooter - Training Mode | 168224 | [168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json](./168224-earth-defense-force-4-1-wing-diver-the-shooter-training-mode.json) |
 | Earth Defense Force 5 | 27283 | [27283-earth-defense-force-5.json](./27283-earth-defense-force-5.json) |
+| Earth Defense Force 5: Air Raider Piloted Weapon - Blacker Number 5 | 415400 | [415400-earth-defense-force-5-air-raider-piloted-weapon-blacker-number-5.json](./415400-earth-defense-force-5-air-raider-piloted-weapon-blacker-number-5.json) |
+| Earth Defense Force 5: Air Raider Piloted Weapon - Combat Frame Phantasia Shield Nyx | 415401 | [415401-earth-defense-force-5-air-raider-piloted-weapon-combat-frame-phantasia-shield-nyx.json](./415401-earth-defense-force-5-air-raider-piloted-weapon-combat-frame-phantasia-shield-nyx.json) |
+| Earth Defense Force 5: Air Raider Vehicle - Caliban Armored Ambulance Joyful Marking | 415402 | [415402-earth-defense-force-5-air-raider-vehicle-caliban-armored-ambulance-joyful-marking.json](./415402-earth-defense-force-5-air-raider-vehicle-caliban-armored-ambulance-joyful-marking.json) |
+| Earth Defense Force 5: Air Raider Weapon - FZ-GUN | 415403 | [415403-earth-defense-force-5-air-raider-weapon-fz-gun.json](./415403-earth-defense-force-5-air-raider-weapon-fz-gun.json) |
 | Earth Defense Force 5: Air Raider Weapon Singing and Dancing Pure Decoy Launcher Set of 8 | 168230 | [168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json](./168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json) |
 | Earth Defense Force 5: Deluxe Edition | 118953 | [118953-earth-defense-force-5-deluxe-edition.json](./118953-earth-defense-force-5-deluxe-edition.json) |
+| Earth Defense Force 5: Fencer Support Device - Wild Skeleton | 415404 | [415404-earth-defense-force-5-fencer-support-device-wild-skeleton.json](./415404-earth-defense-force-5-fencer-support-device-wild-skeleton.json) |
+| Earth Defense Force 5: Fencer Weapon - Grim Reaper Shield | 415405 | [415405-earth-defense-force-5-fencer-weapon-grim-reaper-shield.json](./415405-earth-defense-force-5-fencer-weapon-grim-reaper-shield.json) |
+| Earth Defense Force 5: Fencer Weapon - Happy Body Pillow | 415406 | [415406-earth-defense-force-5-fencer-weapon-happy-body-pillow.json](./415406-earth-defense-force-5-fencer-weapon-happy-body-pillow.json) |
 | Earth Defense Force 5: Mission Pack 2 - Super Challenge | 168223 | [168223-earth-defense-force-5-mission-pack-2-super-challenge.json](./168223-earth-defense-force-5-mission-pack-2-super-challenge.json) |
+| Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Civilian) | 415407 | [415407-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-civilian.json](./415407-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-civilian.json) |
+| Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Soldier) | 415408 | [415408-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-soldier.json](./415408-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-soldier.json) |
+| Earth Defense Force 5: Ranger Piloted Weapon - Blacker Number 4.1 | 415409 | [415409-earth-defense-force-5-ranger-piloted-weapon-blacker-number-4-1.json](./415409-earth-defense-force-5-ranger-piloted-weapon-blacker-number-4-1.json) |
+| Earth Defense Force 5: Ranger Piloted Weapon - Omega Freesia | 415410 | [415410-earth-defense-force-5-ranger-piloted-weapon-omega-freesia.json](./415410-earth-defense-force-5-ranger-piloted-weapon-omega-freesia.json) |
+| Earth Defense Force 5: Ranger Support Device - Detector S-Type | 415411 | [415411-earth-defense-force-5-ranger-support-device-detector-s-type.json](./415411-earth-defense-force-5-ranger-support-device-detector-s-type.json) |
+| Earth Defense Force 5: Ranger Vehicle - Light Truck | 415412 | [415412-earth-defense-force-5-ranger-vehicle-light-truck.json](./415412-earth-defense-force-5-ranger-vehicle-light-truck.json) |
 | Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing) | 168236 | [168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json](./168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json) |
+| Earth Defense Force 5: Wing Diver Support Device - Reverse Core S-Type | 415413 | [415413-earth-defense-force-5-wing-diver-support-device-reverse-core-s-type.json](./415413-earth-defense-force-5-wing-diver-support-device-reverse-core-s-type.json) |
 | Earth Defense Force 6 | 137427 | [137427-earth-defense-force-6.json](./137427-earth-defense-force-6.json) |
 | Earth Defense Force 6: Additional Mission Pack 2 - Visions of Malice | 319369 | [319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json](./319369-earth-defense-force-6-additional-mission-pack-2-visions-of-malice.json) |
 | Earth Defense Force 6: Air Raider Boarding Weapons - Eros No. 6 | 325422 | [325422-earth-defense-force-6-air-raider-boarding-weapons-eros-no-6.json](./325422-earth-defense-force-6-air-raider-boarding-weapons-eros-no-6.json) |
@@ -3484,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Artist | 386136 | [386136-escape-artist.json](./386136-escape-artist.json) |
 | Escape Artist: The Trial | 30591 | [30591-escape-artist-the-trial.json](./30591-escape-artist-the-trial.json) |
 | Escape Asylum | 96936 | [96936-escape-asylum.json](./96936-escape-asylum.json) |
+| Escape Backrooms Collection | 415388 | [415388-escape-backrooms-collection.json](./415388-escape-backrooms-collection.json) |
 | Escape Basement | 261206 | [261206-escape-basement.json](./261206-escape-basement.json) |
 | Escape Black Orion VR | 107408 | [107408-escape-black-orion-vr.json](./107408-escape-black-orion-vr.json) |
 | Escape Block King | 402311 | [402311-escape-block-king.json](./402311-escape-block-king.json) |
@@ -3779,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room: Mystery Tales | 261317 | [261317-escape-room-mystery-tales.json](./261317-escape-room-mystery-tales.json) |
 | Escape Room: Reality | 51455 | [51455-escape-room-reality.json](./51455-escape-room-reality.json) |
 | Escape Room: Romy Project | 264766 | [264766-escape-room-romy-project.json](./264766-escape-room-romy-project.json) |
+| Escape Room: The Secret Portal Puzzle | 415389 | [415389-escape-room-the-secret-portal-puzzle.json](./415389-escape-room-the-secret-portal-puzzle.json) |
 | Escape Room: The Sorcerer's Curse | 190030 | [190030-escape-room-the-sorcerers-curse.json](./190030-escape-room-the-sorcerers-curse.json) |
 | Escape Roomble | 346705 | [346705-escape-roomble.json](./346705-escape-roomble.json) |
 | Escape Rooms Pack 1 | 299899 | [299899-escape-rooms-pack-1.json](./299899-escape-rooms-pack-1.json) |
@@ -3817,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Enterprise | 110552 | [110552-escape-the-enterprise.json](./110552-escape-the-enterprise.json) |
 | Escape The Escape Rooms | 237066 | [237066-escape-the-escape-rooms.json](./237066-escape-the-escape-rooms.json) |
 | Escape The Evil | 297093 | [297093-escape-the-evil.json](./297093-escape-the-evil.json) |
+| Escape the Exomoon | 415419 | [415419-escape-the-exomoon.json](./415419-escape-the-exomoon.json) |
 | Escape the Farm | 274486 | [274486-escape-the-farm.json](./274486-escape-the-farm.json) |
 | Escape the Floor | 329011 | [329011-escape-the-floor.json](./329011-escape-the-floor.json) |
 | Escape The Forest | 301828 | [301828-escape-the-forest.json](./301828-escape-the-forest.json) |
