@@ -73,6 +73,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakouchuu | 37761 | [37761-yakouchuu.json](./37761-yakouchuu.json) |
 | Yakouchuu GB | 282797 | [282797-yakouchuu-gb.json](./282797-yakouchuu-gb.json) |
 | Yakouchuu II: Satsujin Kouro | 64868 | [64868-yakouchuu-ii-satsujin-kouro.json](./64868-yakouchuu-ii-satsujin-kouro.json) |
+| Yakouga 3 | 365991 | [365991-yakouga-3.json](./365991-yakouga-3.json) |
+| Yakouga 4 | 365992 | [365992-yakouga-4.json](./365992-yakouga-4.json) |
+| Yakouga 5 | 366020 | [366020-yakouga-5.json](./366020-yakouga-5.json) |
+| Yakouga 6 | 366022 | [366022-yakouga-6.json](./366022-yakouga-6.json) |
+| Yakouga 7 | 366023 | [366023-yakouga-7.json](./366023-yakouga-7.json) |
+| Yakouga 8 | 366026 | [366026-yakouga-8.json](./366026-yakouga-8.json) |
 | Yaksa | 386326 | [386326-yaksa.json](./386326-yaksa.json) |
 | Yaku Slap | 329976 | [329976-yaku-slap.json](./329976-yaku-slap.json) |
 | Yaku: Yuujou Dangi | 124642 | [124642-yaku-yuujou-dangi.json](./124642-yaku-yuujou-dangi.json) |
