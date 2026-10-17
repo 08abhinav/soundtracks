@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathshot | 298806 | [298806-mathshot.json](./298806-mathshot.json) |
 | MathsJack | 56567 | [56567-mathsjack.json](./56567-mathsjack.json) |
 | Mathville | 387698 | [387698-mathville.json](./387698-mathville.json) |
+| Matilda | 406546 | [406546-matilda.json](./406546-matilda.json) |
 | Matilda 2 | 409609 | [409609-matilda-2.json](./409609-matilda-2.json) |
 | Mating Zone | 59888 | [59888-mating-zone.json](./59888-mating-zone.json) |
 | Matisse's 3D World | 215313 | [215313-matisses-3d-world.json](./215313-matisses-3d-world.json) |
@@ -4315,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
 | Maybe I Can | 153957 | [153957-maybe-i-can.json](./153957-maybe-i-can.json) |
+| Maybe It Meant Something | 406560 | [406560-maybe-it-meant-something.json](./406560-maybe-it-meant-something.json) |
 | Maybe Tomorrow | 238740 | [238740-maybe-tomorrow.json](./238740-maybe-tomorrow.json) |
 | Maybe: Interactive Stories | 139886 | [139886-maybe-interactive-stories.json](./139886-maybe-interactive-stories.json) |
 | Maybe: Interactive Stories - Princess Irene | 139695 | [139695-maybe-interactive-stories-princess-irene.json](./139695-maybe-interactive-stories-princess-irene.json) |
@@ -4761,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
+| Mechanical Defense Line | 406564 | [406564-mechanical-defense-line.json](./406564-mechanical-defense-line.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Relations | 381794 | [381794-mechanical-relations.json](./381794-mechanical-relations.json) |
@@ -5504,6 +5507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
+| Mega Man: Revenge of the Fallen | 406535 | [406535-mega-man-revenge-of-the-fallen.json](./406535-mega-man-revenge-of-the-fallen.json) |
 | Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
@@ -6144,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory | 383929 | [383929-memory.json](./383929-memory.json) |
 | Memory | 95230 | [95230-memory.json](./95230-memory.json) |
 | Memory Battle | 138574 | [138574-memory-battle.json](./138574-memory-battle.json) |
+| Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
 | Memory Challenge! | 89676 | [89676-memory-challenge.json](./89676-memory-challenge.json) |
 | Memory Chase | 243811 | [243811-memory-chase.json](./243811-memory-chase.json) |
