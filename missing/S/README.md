@@ -4251,6 +4251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
 | Settlers of the Deep | 121607 | [121607-settlers-of-the-deep.json](./121607-settlers-of-the-deep.json) |
 | Settris | 252269 | [252269-settris.json](./252269-settris.json) |
+| Setuna: Legend of Hamburger 2 | 391108 | [391108-setuna-legend-of-hamburger-2.json](./391108-setuna-legend-of-hamburger-2.json) |
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
@@ -5092,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
+| Shalnor: Silverwind Saga 2 | 391012 | [391012-shalnor-silverwind-saga-2.json](./391012-shalnor-silverwind-saga-2.json) |
 | Shalnor: Silverwind Saga Bundle | 417285 | [417285-shalnor-silverwind-saga-bundle.json](./417285-shalnor-silverwind-saga-bundle.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
@@ -8609,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
 | Skiing Yeti Mountain | 59463 | [59463-skiing-yeti-mountain.json](./59463-skiing-yeti-mountain.json) |
+| Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
 | Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
@@ -18150,6 +18153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
+| States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
 | Static | 179570 | [179570-static.json](./179570-static.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
