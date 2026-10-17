@@ -1193,6 +1193,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27352a58c8265ea745258603873" width="60" /> | [Rise of the Triad](https://ostdb.net/games/rise-of-the-triad) | **Rise of the Triad (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1d406pelhH3cxxeT2Zi6GU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736697f4b4355ca2590ad808be" width="60" /> | [Risk of Rain 2](https://ostdb.net/games/risk-of-rain-2) | **Risk of Rain 2** · [Spotify](https://open.spotify.com/album/3eFWXLdogrCHW11f8ZQLoa) · [Apple Music](https://music.apple.com/us/album/risk-of-rain-2/1524853282) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/ef/9a/74/mzi.ewaxdwhf.jpg/600x600bb.jpg" width="60" /> | [Riven](https://ostdb.net/games/riven) | **Riven - The Soundtrack** · [Spotify](https://music.apple.com/us/album/riven-the-soundtrack/319255281?uo=4) · [Album](https://album.link/i/319255281) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c4841d304559b1e4af12173c" width="60" /> | [River City Girls](https://ostdb.net/games/river-city-girls) | **River City Girls (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/359E5Uu9UapJWnXp2SJ1Hl) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/6b/b3/276bb3f8-3dee-d5f7-5a9a-797fd571750f/4059251120094.jpg/600x600bb.jpg" width="60" /> | [Robinson: The Journey](https://ostdb.net/games/robinson-the-journey) | **Robinson: The Journey (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4) · [Album](https://album.link/i/1746292612) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8af3e77267a474a1aba7282" width="60" /> | [RoboCop](https://ostdb.net/games/robocop) | **Robocop (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4hPydoZ7jW3MqNmZ7dkEDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273216a09182ea204b57f742ba5" width="60" /> | [Rochard](https://ostdb.net/games/rochard) | **Rochard (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BjfmrdaAtDtJCcr6HFNFf) |
@@ -1750,4 +1751,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2067 soundtracks · last updated 2026-10-17T15:22:16.262Z_
+_2068 soundtracks · last updated 2026-10-17T15:22:23.794Z_
