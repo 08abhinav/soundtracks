@@ -7786,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
 | Simple Golfing | 99434 | [99434-simple-golfing.json](./99434-simple-golfing.json) |
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
+| Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
@@ -13868,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
+| Space Pew Pew | 405934 | [405934-space-pew-pew.json](./405934-space-pew-pew.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
 | Space Piercer | 192251 | [192251-space-piercer.json](./192251-space-piercer.json) |
 | Space Pilgrim Academy: Year 2 | 95596 | [95596-space-pilgrim-academy-year-2.json](./95596-space-pilgrim-academy-year-2.json) |
