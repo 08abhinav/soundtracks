@@ -665,6 +665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy: Zeuon no Fukkatsu | 41244 | [41244-dandy-zeuon-no-fukkatsu.json](./41244-dandy-zeuon-no-fukkatsu.json) |
 | Daneta | 125456 | [125456-daneta.json](./125456-daneta.json) |
 | Daneta2 | 125455 | [125455-daneta2.json](./125455-daneta2.json) |
+| Dang Darn Island | 373800 | [373800-dang-darn-island.json](./373800-dang-darn-island.json) |
 | Dangan GB | 116963 | [116963-dangan-gb.json](./116963-dangan-gb.json) |
 | Dangan GB2 | 279666 | [279666-dangan-gb2.json](./279666-dangan-gb2.json) |
 | Danganronpa 1-2 Reload | 42914 | [42914-danganronpa-1-2-reload.json](./42914-danganronpa-1-2-reload.json) |
@@ -3408,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decay | 272018 | [272018-decay.json](./272018-decay.json) |
 | Decay of Logos | 56510 | [56510-decay-of-logos.json](./56510-decay-of-logos.json) |
 | Decay of Opulence | 318128 | [318128-decay-of-opulence.json](./318128-decay-of-opulence.json) |
+| Decay of Worlds | 373832 | [373832-decay-of-worlds.json](./373832-decay-of-worlds.json) |
 | Decay Z : Space Survival | 107152 | [107152-decay-z-space-survival.json](./107152-decay-z-space-survival.json) |
 | Decay: The Mare - Episode 1 | 79950 | [79950-decay-the-mare-episode-1.json](./79950-decay-the-mare-episode-1.json) |
 | Decay: The Mare - Episode 2 | 79949 | [79949-decay-the-mare-episode-2.json](./79949-decay-the-mare-episode-2.json) |
