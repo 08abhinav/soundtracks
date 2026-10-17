@@ -4990,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
 | Ricochet Infinity | 23820 | [23820-ricochet-infinity.json](./23820-ricochet-infinity.json) |
+| Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
 | Ricochet Kills: Noir | 29397 | [29397-ricochet-kills-noir.json](./29397-ricochet-kills-noir.json) |
 | Ricochet Raven | 370668 | [370668-ricochet-raven.json](./370668-ricochet-raven.json) |
@@ -6272,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robocop vs. Predator | 281502 | [281502-robocop-vs-predator.json](./281502-robocop-vs-predator.json) |
 | RoboCop: Rogue City - Alex Murphy Edition | 271282 | [271282-robocop-rogue-city-alex-murphy-edition.json](./271282-robocop-rogue-city-alex-murphy-edition.json) |
 | RoboCop: Rogue City - Alex Murphy Pack | 275073 | [275073-robocop-rogue-city-alex-murphy-pack.json](./275073-robocop-rogue-city-alex-murphy-pack.json) |
+| RoboCop: Rogue City - Collection | 383166 | [383166-robocop-rogue-city-collection.json](./383166-robocop-rogue-city-collection.json) |
 | RoboCop: Rogue City - Unfinished Business - Prime Directives Pack | 383132 | [383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json](./383132-robocop-rogue-city-unfinished-business-prime-directives-pack.json) |
 | RoboCop: Rogue City - Vanguard Pack | 275074 | [275074-robocop-rogue-city-vanguard-pack.json](./275074-robocop-rogue-city-vanguard-pack.json) |
 | RoboCorps | 58794 | [58794-robocorps.json](./58794-robocorps.json) |
