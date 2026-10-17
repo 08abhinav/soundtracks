@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HamsterVeRse | 153887 | [153887-hamsterverse.json](./153887-hamsterverse.json) |
 | Hamsterz Life | 9248 | [9248-hamsterz-life.json](./9248-hamsterz-life.json) |
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
+| Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
 | Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
@@ -1852,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Halls: Revenge of Doctor Blackmore - Collector's Edition | 105163 | [105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json](./105163-haunted-halls-revenge-of-doctor-blackmore-collectors-edition.json) |
 | Haunted Heart | 299533 | [299533-haunted-heart.json](./299533-haunted-heart.json) |
 | Haunted Hearts Hotel | 340418 | [340418-haunted-hearts-hotel.json](./340418-haunted-hearts-hotel.json) |
+| Haunted Heist | 391023 | [391023-haunted-heist.json](./391023-haunted-heist.json) |
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
+| Horror Scenarios: The Redwood Estate | 391086 | [391086-horror-scenarios-the-redwood-estate.json](./391086-horror-scenarios-the-redwood-estate.json) |
 | Horror School: The Classroom | 303090 | [303090-horror-school-the-classroom.json](./303090-horror-school-the-classroom.json) |
 | Horror Sense: Daruma-san ga Koronda | 44156 | [44156-horror-sense-daruma-san-ga-koronda.json](./44156-horror-sense-daruma-san-ga-koronda.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
@@ -8674,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Dyne: Side Arms | 42033 | [42033-hyper-dyne-side-arms.json](./42033-hyper-dyne-side-arms.json) |
 | Hyper Echelon | 148923 | [148923-hyper-echelon.json](./148923-hyper-echelon.json) |
 | Hyper Empire | 333790 | [333790-hyper-empire.json](./333790-hyper-empire.json) |
+| Hyper Euphoria | 391088 | [391088-hyper-euphoria.json](./391088-hyper-euphoria.json) |
 | Hyper Fighter Boost Mode ON | 98895 | [98895-hyper-fighter-boost-mode-on.json](./98895-hyper-fighter-boost-mode-on.json) |
 | Hyper Fighters | 10423 | [10423-hyper-fighters.json](./10423-hyper-fighters.json) |
 | Hyper Fighting | 195212 | [195212-hyper-fighting.json](./195212-hyper-fighting.json) |
