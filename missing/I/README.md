@@ -4144,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Tides | 51561 | [51561-iron-tides.json](./51561-iron-tides.json) |
 | Iron Trails: Outlaw Pursuit | 322242 | [322242-iron-trails-outlaw-pursuit.json](./322242-iron-trails-outlaw-pursuit.json) |
 | Iron Vulture | 132734 | [132734-iron-vulture.json](./132734-iron-vulture.json) |
+| Iron Wasteland | 406572 | [406572-iron-wasteland.json](./406572-iron-wasteland.json) |
 | Iron Works | 383350 | [383350-iron-works.json](./383350-iron-works.json) |
 | Ironblood | 402498 | [402498-ironblood.json](./402498-ironblood.json) |
 | IronBorn | 109585 | [109585-ironborn.json](./109585-ironborn.json) |
