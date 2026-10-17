@@ -396,6 +396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
 | Backroom Beyond | 206596 | [206596-backroom-beyond.json](./206596-backroom-beyond.json) |
+| Backroom Cleaners | 383672 | [383672-backroom-cleaners.json](./383672-backroom-cleaners.json) |
 | Backroom Company | 309554 | [309554-backroom-company.json](./309554-backroom-company.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
@@ -486,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: What's Next | 404792 | [404792-backrooms-whats-next.json](./404792-backrooms-whats-next.json) |
 | BackRooms's 1995 The Lost Footage: Chapter 1 | 298562 | [298562-backroomss-1995-the-lost-footage-chapter-1.json](./298562-backroomss-1995-the-lost-footage-chapter-1.json) |
 | BackRooms's 1995: The Lost Footage - Chapter1 | 303097 | [303097-backroomss-1995-the-lost-footage-chapter1.json](./303097-backroomss-1995-the-lost-footage-chapter1.json) |
+| Backseat | 383753 | [383753-backseat.json](./383753-backseat.json) |
 | Backseat Champions | 389098 | [389098-backseat-champions.json](./389098-backseat-champions.json) |
 | Backseat Drivers | 342047 | [342047-backseat-drivers.json](./342047-backseat-drivers.json) |
 | BackSlap | 349318 | [349318-backslap.json](./349318-backslap.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Balls 2: Christmas Edition | 216455 | [216455-bikini-balls-2-christmas-edition.json](./216455-bikini-balls-2-christmas-edition.json) |
 | Bikini Beach: Anime Girls Assault | 301510 | [301510-bikini-beach-anime-girls-assault.json](./301510-bikini-beach-anime-girls-assault.json) |
 | Bikini Beach: Stunt Racer | 73750 | [73750-bikini-beach-stunt-racer.json](./73750-bikini-beach-stunt-racer.json) |
+| Bikini Bottom Brawlers | 383778 | [383778-bikini-bottom-brawlers.json](./383778-bikini-bottom-brawlers.json) |
 | Bikini Brickout | 370290 | [370290-bikini-brickout.json](./370290-bikini-brickout.json) |
 | Bikini Girls | 169418 | [169418-bikini-girls.json](./169418-bikini-girls.json) |
 | Bikini Girls | 387080 | [387080-bikini-girls.json](./387080-bikini-girls.json) |
