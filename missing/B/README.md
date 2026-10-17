@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Green Day - "Holiday" | 357247 | [357247-beat-saber-green-day-holiday.json](./357247-beat-saber-green-day-holiday.json) |
 | Beat Saber: Green Day Music Pack | 357397 | [357397-beat-saber-green-day-music-pack.json](./357397-beat-saber-green-day-music-pack.json) |
 | Beat Saber: Hip Hop Mixtape | 357263 | [357263-beat-saber-hip-hop-mixtape.json](./357263-beat-saber-hip-hop-mixtape.json) |
+| Beat Saber: Katseye - "Gabriela" | 407194 | [407194-beat-saber-katseye-gabriela.json](./407194-beat-saber-katseye-gabriela.json) |
 | Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
@@ -11535,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Bubblien Pop | 81709 | [81709-bubblien-pop.json](./81709-bubblien-pop.json) |
+| Bubbly | 407150 | [407150-bubbly.json](./407150-bubbly.json) |
 | Bubbly Letters | 292058 | [292058-bubbly-letters.json](./292058-bubbly-letters.json) |
 | Bubbo: The Lost Hat | 148121 | [148121-bubbo-the-lost-hat.json](./148121-bubbo-the-lost-hat.json) |
 | Bubbu School | 224077 | [224077-bubbu-school.json](./224077-bubbu-school.json) |
@@ -12209,6 +12211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BunnyBarTalk | 360494 | [360494-bunnybartalk.json](./360494-bunnybartalk.json) |
 | BunnyBuns | 192106 | [192106-bunnybuns.json](./192106-bunnybuns.json) |
 | BunnyFlow | 390514 | [390514-bunnyflow.json](./390514-bunnyflow.json) |
+| BunnyFly: Season of Summer | 407196 | [407196-bunnyfly-season-of-summer.json](./407196-bunnyfly-season-of-summer.json) |
 | Bunnymare: Circus Escape | 120234 | [120234-bunnymare-circus-escape.json](./120234-bunnymare-circus-escape.json) |
 | BunnyOps | 378417 | [378417-bunnyops.json](./378417-bunnyops.json) |
 | BunnyRace Duracell | 102070 | [102070-bunnyrace-duracell.json](./102070-bunnyrace-duracell.json) |
