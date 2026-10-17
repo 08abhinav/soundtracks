@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory | 68342 | [68342-field-of-glory.json](./68342-field-of-glory.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
+| Field of Glory II: Masters Edition | 395288 | [395288-field-of-glory-ii-masters-edition.json](./395288-field-of-glory-ii-masters-edition.json) |
 | Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
 | Field of Glory II: Medieval - Rise of the Swiss | 200944 | [200944-field-of-glory-ii-medieval-rise-of-the-swiss.json](./200944-field-of-glory-ii-medieval-rise-of-the-swiss.json) |
@@ -7653,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourth Time Around | 374791 | [374791-fourth-time-around.json](./374791-fourth-time-around.json) |
 | Fourthy | 129199 | [129199-fourthy.json](./129199-fourthy.json) |
 | Fourville | 281503 | [281503-fourville.json](./281503-fourville.json) |
+| Fourvive | 395243 | [395243-fourvive.json](./395243-fourvive.json) |
 | Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
