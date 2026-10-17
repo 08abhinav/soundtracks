@@ -12874,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusade Runner | 48017 | [48017-crusade-runner.json](./48017-crusade-runner.json) |
 | Crusade to Die | 261226 | [261226-crusade-to-die.json](./261226-crusade-to-die.json) |
 | Crusader | 262989 | [262989-crusader.json](./262989-crusader.json) |
+| Crusader | 376833 | [376833-crusader.json](./376833-crusader.json) |
 | Crusader Crash | 48013 | [48013-crusader-crash.json](./48013-crusader-crash.json) |
 | Crusader Kings | 2922 | [2922-crusader-kings.json](./2922-crusader-kings.json) |
 | Crusader Kings Complete | 25415 | [25415-crusader-kings-complete.json](./25415-crusader-kings-complete.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryostasis | 2967 | [2967-cryostasis.json](./2967-cryostasis.json) |
 | Cryowakers | 266428 | [266428-cryowakers.json](./266428-cryowakers.json) |
 | Cryphora | 342288 | [342288-cryphora.json](./342288-cryphora.json) |
+| Crypt | 376824 | [376824-crypt.json](./376824-crypt.json) |
 | Crypt Architect | 236269 | [236269-crypt-architect.json](./236269-crypt-architect.json) |
 | Crypt Capers | 348938 | [348938-crypt-capers.json](./348938-crypt-capers.json) |
 | Crypt Carnage | 399628 | [399628-crypt-carnage.json](./399628-crypt-carnage.json) |
@@ -13893,6 +13895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Seal Rotation | 279896 | [279896-curse-seal-rotation.json](./279896-curse-seal-rotation.json) |
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
 | Curse the Cursor | 369028 | [369028-curse-the-cursor.json](./369028-curse-the-cursor.json) |
+| Curse the Cursor | 376834 | [376834-curse-the-cursor.json](./376834-curse-the-cursor.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
 | Curse You! Red Baron | 68738 | [68738-curse-you-red-baron.json](./68738-curse-you-red-baron.json) |
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
