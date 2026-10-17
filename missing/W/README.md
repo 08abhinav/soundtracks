@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We're Getting There | 184317 | [184317-were-getting-there.json](./184317-were-getting-there.json) |
 | We're Here, Papa | 410922 | [410922-were-here-papa.json](./410922-were-here-papa.json) |
 | We're in the Same Boat | 399704 | [399704-were-in-the-same-boat.json](./399704-were-in-the-same-boat.json) |
+| We’re In Trouble | 405340 | [405340-we-re-in-trouble.json](./405340-we-re-in-trouble.json) |
 | We're Tethered Together | 269195 | [269195-were-tethered-together.json](./269195-were-tethered-together.json) |
 | We'reWolves | 270645 | [270645-werewolves.json](./270645-werewolves.json) |
 | Weable 2 | 83816 | [83816-weable-2.json](./83816-weable-2.json) |
@@ -3504,6 +3505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
 | WiccAtriX | 282212 | [282212-wiccatrix.json](./282212-wiccatrix.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
+| Wichtel | 405483 | [405483-wichtel.json](./405483-wichtel.json) |
 | Wicked | 12233 | [12233-wicked.json](./12233-wicked.json) |
 | Wicked | 216827 | [216827-wicked.json](./216827-wicked.json) |
 | Wicked 18 | 38826 | [38826-wicked-18.json](./38826-wicked-18.json) |
@@ -4557,6 +4559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches' Legacy: The Dark Throne HD | 89120 | [89120-witches-legacy-the-dark-throne-hd.json](./89120-witches-legacy-the-dark-throne-hd.json) |
 | Witches' Legacy: The Ties That Bind - Collector's Edition | 32735 | [32735-witches-legacy-the-ties-that-bind-collectors-edition.json](./32735-witches-legacy-the-ties-that-bind-collectors-edition.json) |
 | Witcheye | 121440 | [121440-witcheye.json](./121440-witcheye.json) |
+| Witchfall | 405371 | [405371-witchfall.json](./405371-witchfall.json) |
 | Witchfall: Secrets of Emotica | 173016 | [173016-witchfall-secrets-of-emotica.json](./173016-witchfall-secrets-of-emotica.json) |
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witchfire | 76880 | [76880-witchfire.json](./76880-witchfire.json) |
