@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scum: Vehicle Skins Pack | 288905 | [288905-scum-vehicle-skins-pack.json](./288905-scum-vehicle-skins-pack.json) |
 | Scumball | 45361 | [45361-scumball.json](./45361-scumball.json) |
 | Scuos | 116167 | [116167-scuos.json](./116167-scuos.json) |
+| Scurry | 374898 | [374898-scurry.json](./374898-scurry.json) |
 | Scurry | 97711 | [97711-scurry.json](./97711-scurry.json) |
 | Scurvy Dogs | 224761 | [224761-scurvy-dogs.json](./224761-scurvy-dogs.json) |
 | Scurvy Scallywags | 63663 | [63663-scurvy-scallywags.json](./63663-scurvy-scallywags.json) |
@@ -10582,6 +10583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
+| Snapshot Girls 5 | 374897 | [374897-snapshot-girls-5.json](./374897-snapshot-girls-5.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
@@ -14549,6 +14551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparky | 258970 | [258970-sparky.json](./258970-sparky.json) |
 | Sparky Marky: Episode 2 | 252263 | [252263-sparky-marky-episode-2.json](./252263-sparky-marky-episode-2.json) |
 | Sparky Marky: Episode 3 | 258178 | [258178-sparky-marky-episode-3.json](./258178-sparky-marky-episode-3.json) |
+| Sparky Rush: Purrils in Pawsville! | 374912 | [374912-sparky-rush-purrils-in-pawsville.json](./374912-sparky-rush-purrils-in-pawsville.json) |
 | Sparky's Hunt | 31681 | [31681-sparkys-hunt.json](./31681-sparkys-hunt.json) |
 | Sparrow Country | 408157 | [408157-sparrow-country.json](./408157-sparrow-country.json) |
 | Sparrow Shop | 384196 | [384196-sparrow-shop.json](./384196-sparrow-shop.json) |
