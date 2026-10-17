@@ -5486,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Zapper | 46884 | [46884-word-zapper.json](./46884-word-zapper.json) |
 | Word Zip - Free Word Games | 105972 | [105972-word-zip-free-word-games.json](./105972-word-zip-free-word-games.json) |
 | Word-O-Mania | 232475 | [232475-word-o-mania.json](./232475-word-o-mania.json) |
+| Word2 | 370995 | [370995-word2.json](./370995-word2.json) |
 | Word95 | 382459 | [382459-word95.json](./382459-word95.json) |
 | Wordament: Snap Attack | 14592 | [14592-wordament-snap-attack.json](./14592-wordament-snap-attack.json) |
 | WordApt | 109504 | [109504-wordapt.json](./109504-wordapt.json) |
