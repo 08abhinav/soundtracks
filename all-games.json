@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:22:16.559Z",
-  "total_soundtracks": 1987,
+  "generated_at": "2026-10-17T11:22:23.728Z",
+  "total_soundtracks": 1988,
   "games": [
     {
       "igdb_id": 7522,
@@ -16429,6 +16429,20 @@
         {
           "album_name": "Rise & Shine (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1mxBwLLyqaEFMkyB3SuCer",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 51577,
+      "game_name": "Rise of Industry",
+      "game_url": "https://ostdb.net/games/rise-of-industry",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735468ee88d7124d46bd59b838",
+      "albums": [
+        {
+          "album_name": "Rise of Industry (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2YPm9dz3BVI9MkIslpXFYZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
