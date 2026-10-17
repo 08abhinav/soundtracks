@@ -9477,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miro | 291051 | [291051-miro.json](./291051-miro.json) |
 | Miro and the Flower of Youth | 305483 | [305483-miro-and-the-flower-of-youth.json](./305483-miro-and-the-flower-of-youth.json) |
 | Miroh Jr. | 307885 | [307885-miroh-jr.json](./307885-miroh-jr.json) |
+| Mirren: Star Legends | 363671 | [363671-mirren-star-legends.json](./363671-mirren-star-legends.json) |
 | Mirror and Queen | 57501 | [57501-mirror-and-queen.json](./57501-mirror-and-queen.json) |
 | Mirror Angel's Paradise | 107702 | [107702-mirror-angels-paradise.json](./107702-mirror-angels-paradise.json) |
 | Mirror Atelier | 369351 | [369351-mirror-atelier.json](./369351-mirror-atelier.json) |
