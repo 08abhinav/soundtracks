@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Freeze | 44757 | [44757-deep-freeze.json](./44757-deep-freeze.json) |
 | Deep Fried Nikki | 229667 | [229667-deep-fried-nikki.json](./229667-deep-fried-nikki.json) |
 | Deep Fringe | 335419 | [335419-deep-fringe.json](./335419-deep-fringe.json) |
+| Deep Fry | 381904 | [381904-deep-fry.json](./381904-deep-fry.json) |
 | Deep Fry Maker | 227520 | [227520-deep-fry-maker.json](./227520-deep-fry-maker.json) |
 | Deep GachiGasm | 75271 | [75271-deep-gachigasm.json](./75271-deep-gachigasm.json) |
 | Deep Golf | 250658 | [250658-deep-golf.json](./250658-deep-golf.json) |
