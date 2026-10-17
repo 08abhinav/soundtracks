@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your City in 3D | 158662 | [158662-your-city-in-3d.json](./158662-your-city-in-3d.json) |
 | Your Computer Might Be at Risk | 200034 | [200034-your-computer-might-be-at-risk.json](./200034-your-computer-might-be-at-risk.json) |
 | Your courier is on their way! | 192845 | [192845-your-courier-is-on-their-way.json](./192845-your-courier-is-on-their-way.json) |
+| Your Cow | 387485 | [387485-your-cow.json](./387485-your-cow.json) |
 | Your Cozy Unboxing | 414538 | [414538-your-cozy-unboxing.json](./414538-your-cozy-unboxing.json) |
 | Your Crown Is Mine | 332580 | [332580-your-crown-is-mine.json](./332580-your-crown-is-mine.json) |
 | Your Cute Wife | 401265 | [401265-your-cute-wife.json](./401265-your-cute-wife.json) |
@@ -1292,6 +1293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukai de Kudaranai Game | 331875 | [331875-yukai-de-kudaranai-game.json](./331875-yukai-de-kudaranai-game.json) |
 | Yukar From the Abyss | 216808 | [216808-yukar-from-the-abyss.json](./216808-yukar-from-the-abyss.json) |
 | Yuke Yuke Aku no Monmusu Gundan! Kaijin Musume ni Shibori Torareru Ecchi de Kakoku na Sekai Seifuku Daisakusen | 77867 | [77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json](./77867-yuke-yuke-aku-no-monmusu-gundan-kaijin-musume-ni-shibori-torareru-ecchi-de-kakoku-na-sekai-seifuku-daisakusen.json) |
+| Yuki ha Toketa no ni, Boku no Tenohira Dake ga Cocoa no Nukumori wo Oboeteru | 387731 | [387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json](./387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json) |
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
