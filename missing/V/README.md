@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
 | Virtual World: Digital Girl | 379544 | [379544-virtual-world-digital-girl.json](./379544-virtual-world-digital-girl.json) |
 | VirtualAbbey | 107131 | [107131-virtualabbey.json](./107131-virtualabbey.json) |
+| VirtualBus | 383790 | [383790-virtualbus.json](./383790-virtualbus.json) |
 | VirtualCast | 180212 | [180212-virtualcast.json](./180212-virtualcast.json) |
 | Virtuále: Heist Simulations | 338567 | [338567-virtuale-heist-simulations.json](./338567-virtuale-heist-simulations.json) |
 | Virtualis Galeria | 383505 | [383505-virtualis-galeria.json](./383505-virtualis-galeria.json) |
