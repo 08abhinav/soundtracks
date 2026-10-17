@@ -5878,6 +5878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroniric | 107251 | [107251-chroniric.json](./107251-chroniric.json) |
 | Chrono | 112964 | [112964-chrono.json](./112964-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
+| Chrono Ark: Deluxe Edition | 367728 | [367728-chrono-ark-deluxe-edition.json](./367728-chrono-ark-deluxe-edition.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono Belt: Ayakashibito & Bullet Butlers Crossover Disc | 259484 | [259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json](./259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
+| Classic Card Games Collection | 367702 | [367702-classic-card-games-collection.json](./367702-classic-card-games-collection.json) |
 | Classic Casino | 195034 | [195034-classic-casino.json](./195034-classic-casino.json) |
 | Classic Checkers | 147860 | [147860-classic-checkers.json](./147860-classic-checkers.json) |
 | Classic Collection | 52848 | [52848-classic-collection.json](./52848-classic-collection.json) |
@@ -7240,6 +7242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
+| Cling to Blindness | 367729 | [367729-cling-to-blindness.json](./367729-cling-to-blindness.json) |
 | Cling! | 21730 | [21730-cling.json](./21730-cling.json) |
 | Clinical Marshmallows | 374285 | [374285-clinical-marshmallows.json](./374285-clinical-marshmallows.json) |
 | Clinical Trial | 326760 | [326760-clinical-trial.json](./326760-clinical-trial.json) |
@@ -7848,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code/The Werewolf Party | 120927 | [120927-code-the-werewolf-party.json](./120927-code-the-werewolf-party.json) |
 | Code2040 | 119632 | [119632-code2040.json](./119632-code2040.json) |
 | Code5erpent | 281998 | [281998-code5erpent.json](./281998-code5erpent.json) |
+| Codebound | 367748 | [367748-codebound.json](./367748-codebound.json) |
 | Codebreaker | 40627 | [40627-codebreaker.json](./40627-codebreaker.json) |
 | Codebreaker | 68567 | [68567-codebreaker.json](./68567-codebreaker.json) |
 | Codebreaker Puzzle 1000! ENG & JAN | 147958 | [147958-codebreaker-puzzle-1000-eng-and-jan.json](./147958-codebreaker-puzzle-1000-eng-and-jan.json) |
@@ -10535,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Commando | 60518 | [60518-cosmic-commando.json](./60518-cosmic-commando.json) |
 | Cosmic Commute | 229624 | [229624-cosmic-commute.json](./229624-cosmic-commute.json) |
 | Cosmic Composer | 372630 | [372630-cosmic-composer.json](./372630-cosmic-composer.json) |
+| Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
