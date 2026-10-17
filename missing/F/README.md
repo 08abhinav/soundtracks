@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
 | Finger Physics | 66426 | [66426-finger-physics.json](./66426-finger-physics.json) |
+| Finger Pump | 381990 | [381990-finger-pump.json](./381990-finger-pump.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
 | Finger Safari | 60381 | [60381-finger-safari.json](./60381-finger-safari.json) |
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
@@ -5080,6 +5081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixeight | 296612 | [296612-fixeight.json](./296612-fixeight.json) |
 | FixForce | 393101 | [393101-fixforce.json](./393101-fixforce.json) |
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
+| Fixora | 381994 | [381994-fixora.json](./381994-fixora.json) |
 | Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
 | FizzBall | 71564 | [71564-fizzball.json](./71564-fizzball.json) |
