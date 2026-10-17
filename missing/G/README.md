@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
 | Glow Ball: Not a Billiard Puzzle Game | 100582 | [100582-glow-ball-not-a-billiard-puzzle-game.json](./100582-glow-ball-not-a-billiard-puzzle-game.json) |
+| Glow Box | 411398 | [411398-glow-box.json](./411398-glow-box.json) |
 | Glow Chess | 106583 | [106583-glow-chess.json](./106583-glow-chess.json) |
 | Glow Glow Firefly | 70318 | [70318-glow-glow-firefly.json](./70318-glow-glow-firefly.json) |
 | Glow Hockey | 103694 | [103694-glow-hockey.json](./103694-glow-hockey.json) |
