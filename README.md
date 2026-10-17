@@ -458,6 +458,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273506d4863d9bf9a5648ec9727" width="60" /> | [Dragon's Dogma II](https://ostdb.net/games/dragons-dogma-ii) | **Dragon's Dogma 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XLrb4v672hJNV3YO4LPUo) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/41/6d/99416dff-f756-252a-eee7-977da59a82cf/artwork.jpg/600x600bb.jpg" width="60" /> | [Dragonkin: The Banished](https://ostdb.net/games/dragonkin-the-banished) | **Dragonkin: The Banished (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dragonkin-the-banished-original-game-soundtrack/1833064565?uo=4) · [Album](https://album.link/i/1833064565) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381f6e9d86f64a4a4e5c319c8" width="60" /> | [Drakengard 3](https://ostdb.net/games/drakengard-3) | **Drakengard 3 Original Soundtrack** · [Spotify](https://open.spotify.com/album/4FNAsVcqKs7stQCHnpu7SC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273c210b5df931cc06c5c1a724f" width="60" /> | [Dreamfall Chapters](https://ostdb.net/games/dreamfall-chapters) | **Dreamfall Chapters (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2RlsC44qWF5C5YWt39g43R) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c4/44/6c/c4446c22-b30c-f7f6-2a20-370258679d5c/artwork.jpg/600x600bb.jpg" width="60" /> | [Dredge](https://ostdb.net/games/dredge) | **DREDGE (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/03vh7zjvWbHkpw1IJmqqeW) · [Apple Music](https://music.apple.com/us/album/dredge-original-game-soundtrack/1680000800) · [Album](https://album.link/i/1680000800) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/8b/b0/0c8bb060-bce4-f7b0-7b87-a972e2e72758/196589977601.jpg/600x600bb.jpg" width="60" /> | [Driveclub](https://ostdb.net/games/driveclub) | **Driveclub Original Game Soundtrack (Remixes)** · [Spotify](https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4) · [Album](https://album.link/i/1678587227) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2e6d5323e99e4345116bbce" width="60" /> | [Duck Detective: The Secret Salami](https://ostdb.net/games/duck-detective-the-secret-salami) | **Duck Detective (The Secret Salami Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0s73kUkRzWLExSX7wQMIz9) |
@@ -1800,4 +1801,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2117 soundtracks · last updated 2026-10-17T15:50:34.220Z_
+_2118 soundtracks · last updated 2026-10-17T15:50:42.034Z_
