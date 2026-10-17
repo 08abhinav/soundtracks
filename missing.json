@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:51:23.639Z",
-  "total_missing": 223647,
+  "generated_at": "2026-10-17T12:03:21.661Z",
+  "total_missing": 223630,
   "games": [
     {
       "igdb_id": 191680,
@@ -141392,11 +141392,6 @@
       "file": "missing/C/7509-caesar-ii.json"
     },
     {
-      "igdb_id": 7508,
-      "game_name": "Caesar IV",
-      "file": "missing/C/7508-caesar-iv.json"
-    },
-    {
       "igdb_id": 200504,
       "game_name": "Caesar Palace Slots",
       "file": "missing/C/200504-caesar-palace-slots.json"
@@ -185835,11 +185830,6 @@
       "igdb_id": 52834,
       "game_name": "Company of Heroes 2: Victory at Stalingrad",
       "file": "missing/C/52834-company-of-heroes-2-victory-at-stalingrad.json"
-    },
-    {
-      "igdb_id": 156150,
-      "game_name": "Company of Heroes 3",
-      "file": "missing/C/156150-company-of-heroes-3.json"
     },
     {
       "igdb_id": 228537,
@@ -259707,11 +259697,6 @@
       "file": "missing/D/171586-door-2-key-path-to-heaven.json"
     },
     {
-      "igdb_id": 55678,
-      "game_name": "Door Kickers: Action Squad",
-      "file": "missing/D/55678-door-kickers-action-squad.json"
-    },
-    {
       "igdb_id": 122336,
       "game_name": "Door Knocker",
       "file": "missing/D/122336-door-knocker.json"
@@ -328477,11 +328462,6 @@
       "file": "missing/F/146069-final-fantasy-v.json"
     },
     {
-      "igdb_id": 158984,
-      "game_name": "Final Fantasy V",
-      "file": "missing/F/158984-final-fantasy-v.json"
-    },
-    {
       "igdb_id": 288349,
       "game_name": "Final Fantasy V",
       "file": "missing/F/288349-final-fantasy-v.json"
@@ -376572,11 +376552,6 @@
       "file": "missing/G/154823-gitadora-tri-boost-re-evolve.json"
     },
     {
-      "igdb_id": 11338,
-      "game_name": "Gitaroo Man",
-      "file": "missing/G/11338-gitaroo-man.json"
-    },
-    {
       "igdb_id": 42813,
       "game_name": "Gitaroo Man Lives!",
       "file": "missing/G/42813-gitaroo-man-lives.json"
@@ -384760,11 +384735,6 @@
       "igdb_id": 178564,
       "game_name": "Good Night, Rowan",
       "file": "missing/G/178564-good-night-rowan.json"
-    },
-    {
-      "igdb_id": 87367,
-      "game_name": "Good Pizza, Great Pizza",
-      "file": "missing/G/87367-good-pizza-great-pizza.json"
     },
     {
       "igdb_id": 272751,
@@ -455572,11 +455542,6 @@
       "file": "missing/I/114301-in-orbit.json"
     },
     {
-      "igdb_id": 86504,
-      "game_name": "In Other Waters",
-      "file": "missing/I/86504-in-other-waters.json"
-    },
-    {
       "igdb_id": 227179,
       "game_name": "In Other Waters: Xenobiologist Edition",
       "file": "missing/I/227179-in-other-waters-xenobiologist-edition.json"
@@ -513987,11 +513952,6 @@
       "file": "missing/L/292425-law-transporter.json"
     },
     {
-      "igdb_id": 11797,
-      "game_name": "LawBreakers",
-      "file": "missing/L/11797-lawbreakers.json"
-    },
-    {
       "igdb_id": 234195,
       "game_name": "Lawbringer",
       "file": "missing/L/234195-lawbringer.json"
@@ -561480,11 +561440,6 @@
       "igdb_id": 783,
       "game_name": "Mass Effect 2: Overlord",
       "file": "missing/M/783-mass-effect-2-overlord.json"
-    },
-    {
-      "igdb_id": 78460,
-      "game_name": "Mass Effect 3: Extended Cut",
-      "file": "missing/M/78460-mass-effect-3-extended-cut.json"
     },
     {
       "igdb_id": 13910,
@@ -785272,11 +785227,6 @@
       "file": "missing/R/13227-runaway-2-the-dream-of-the-turtle.json"
     },
     {
-      "igdb_id": 13228,
-      "game_name": "Runaway 3: A Twist of Fate",
-      "file": "missing/R/13228-runaway-3-a-twist-of-fate.json"
-    },
-    {
       "igdb_id": 207360,
       "game_name": "Runaway Animals",
       "file": "missing/R/207360-runaway-animals.json"
@@ -817952,11 +817902,6 @@
       "file": "missing/S/10219-shinobi.json"
     },
     {
-      "igdb_id": 10223,
-      "game_name": "Shinobi",
-      "file": "missing/S/10223-shinobi.json"
-    },
-    {
       "igdb_id": 307860,
       "game_name": "Shinobi",
       "file": "missing/S/307860-shinobi.json"
@@ -828745,11 +828690,6 @@
       "igdb_id": 200432,
       "game_name": "Sire Abandon",
       "file": "missing/S/200432-sire-abandon.json"
-    },
-    {
-      "igdb_id": 14522,
-      "game_name": "Siren",
-      "file": "missing/S/14522-siren.json"
     },
     {
       "igdb_id": 195494,
@@ -861222,11 +861162,6 @@
       "file": "missing/S/393791-spectro-phantom-tower.json"
     },
     {
-      "igdb_id": 5174,
-      "game_name": "Spectrobes",
-      "file": "missing/S/5174-spectrobes.json"
-    },
-    {
       "igdb_id": 5175,
       "game_name": "Spectrobes: Beyond the Portals",
       "file": "missing/S/5175-spectrobes-beyond-the-portals.json"
@@ -876570,11 +876505,6 @@
       "igdb_id": 305956,
       "game_name": "Starlines",
       "file": "missing/S/305956-starlines.json"
-    },
-    {
-      "igdb_id": 37066,
-      "game_name": "Starlink: Battle for Atlas",
-      "file": "missing/S/37066-starlink-battle-for-atlas.json"
     },
     {
       "igdb_id": 168441,
@@ -928770,11 +928700,6 @@
       "igdb_id": 1236,
       "game_name": "Tekken 6",
       "file": "missing/T/1236-tekken-6.json"
-    },
-    {
-      "igdb_id": 195868,
-      "game_name": "Tekken 6",
-      "file": "missing/T/195868-tekken-6.json"
     },
     {
       "igdb_id": 272551,
@@ -999250,11 +999175,6 @@
       "igdb_id": 4146,
       "game_name": "Tiny Bullets",
       "file": "missing/T/4146-tiny-bullets.json"
-    },
-    {
-      "igdb_id": 131653,
-      "game_name": "Tiny Bunny",
-      "file": "missing/T/131653-tiny-bunny.json"
     },
     {
       "igdb_id": 319297,
@@ -1086195,11 +1086115,6 @@
       "igdb_id": 82367,
       "game_name": "Witch Island II",
       "file": "missing/W/82367-witch-island-ii.json"
-    },
-    {
-      "igdb_id": 30408,
-      "game_name": "Witch It",
-      "file": "missing/W/30408-witch-it.json"
     },
     {
       "igdb_id": 398023,
