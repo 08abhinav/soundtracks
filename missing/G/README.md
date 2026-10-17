@@ -6387,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grems | 386710 | [386710-grems.json](./386710-grems.json) |
 | Grendel's Revenge | 370678 | [370678-grendels-revenge.json](./370678-grendels-revenge.json) |
 | Grenouilles 3D | 401550 | [401550-grenouilles-3d.json](./401550-grenouilles-3d.json) |
+| Grenzgänger: Aus der DDR in den Westen | 375492 | [375492-grenzganger-aus-der-ddr-in-den-westen.json](./375492-grenzganger-aus-der-ddr-in-den-westen.json) |
 | Grepolis | 62922 | [62922-grepolis.json](./62922-grepolis.json) |
 | Grepr | 185556 | [185556-grepr.json](./185556-grepr.json) |
 | Greta Sees Ghosts! | 348348 | [348348-greta-sees-ghosts.json](./348348-greta-sees-ghosts.json) |
