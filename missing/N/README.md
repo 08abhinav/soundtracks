@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newgothic Movement 1 | 186762 | [186762-newgothic-movement-1.json](./186762-newgothic-movement-1.json) |
 | Newgothic Movement 2 | 275571 | [275571-newgothic-movement-2.json](./275571-newgothic-movement-2.json) |
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
+| NewHrdGame | 367715 | [367715-newhrdgame.json](./367715-newhrdgame.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
 | Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
 | Ni Hao, Kai-Lan: Super Happy Day! | 230393 | [230393-ni-hao-kai-lan-super-happy-day.json](./230393-ni-hao-kai-lan-super-happy-day.json) |
+| Nǐ Jiùshì Zhǔbō? | 367705 | [367705-ni-jiushi-zhubo.json](./367705-ni-jiushi-zhubo.json) |
 | Ni no Kuni II: Revenant Kingdom - Adventure Pack | 154454 | [154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json](./154454-ni-no-kuni-ii-revenant-kingdom-adventure-pack.json) |
 | Ni no Kuni II: Revenant Kingdom - Collector's Edition | 136358 | [136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json](./136358-ni-no-kuni-ii-revenant-kingdom-collectors-edition.json) |
 | Ni no Kuni II: Revenant Kingdom - Day One Edition | 136325 | [136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json](./136325-ni-no-kuni-ii-revenant-kingdom-day-one-edition.json) |
