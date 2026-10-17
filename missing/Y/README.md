@@ -1391,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumemiru Pyon-pyon Land | 206442 | [206442-yumemiru-pyon-pyon-land.json](./206442-yumemiru-pyon-pyon-land.json) |
 | Yumemiru Sepia | 383609 | [383609-yumemiru-sepia.json](./383609-yumemiru-sepia.json) |
 | Yumemori | 238561 | [238561-yumemori.json](./238561-yumemori.json) |
+| YumeNoka | 405978 | [405978-yumenoka.json](./405978-yumenoka.json) |
 | Yumeochi no Melme | 370853 | [370853-yumeochi-no-melme.json](./370853-yumeochi-no-melme.json) |
 | Yumeria | 63934 | [63934-yumeria.json](./63934-yumeria.json) |
 | YumeSD | 202345 | [202345-yumesd.json](./202345-yumesd.json) |
