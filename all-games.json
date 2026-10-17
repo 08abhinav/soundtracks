@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:21:51.538Z",
-  "total_soundtracks": 2064,
+  "generated_at": "2026-10-17T15:22:00.160Z",
+  "total_soundtracks": 2065,
   "games": [
     {
       "igdb_id": 7522,
@@ -15305,6 +15305,20 @@
         {
           "album_name": "Paint the Town Red (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6BXCjXC3yykovLDwl9YQI3",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 151467,
+      "game_name": "Palia",
+      "game_url": "https://ostdb.net/games/palia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d9e028c1b058610a1f01a8bd",
+      "albums": [
+        {
+          "album_name": "Palia (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7GAFfYy6vmuPYueYU3J5rw",
           "apple_music_url": "",
           "album_link_url": ""
         }
