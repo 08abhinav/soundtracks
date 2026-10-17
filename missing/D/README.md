@@ -4046,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déjà Vu I & II: The Casebooks of Ace Harding | 49895 | [49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json](./49895-deja-vu-i-and-ii-the-casebooks-of-ace-harding.json) |
 | Déjà Vu II | 310193 | [310193-deja-vu-ii.json](./310193-deja-vu-ii.json) |
 | Deja Vu II: MacVenture Series | 35914 | [35914-deja-vu-ii-macventure-series.json](./35914-deja-vu-ii-macventure-series.json) |
+| Déja Vu PD | 395281 | [395281-deja-vu-pd.json](./395281-deja-vu-pd.json) |
 | Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
 | Dejar Ir: A Pandemic Soulful Tale | 203803 | [203803-dejar-ir-a-pandemic-soulful-tale.json](./203803-dejar-ir-a-pandemic-soulful-tale.json) |
@@ -10251,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
+| Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
 | Dragon Booster | 47891 | [47891-dragon-booster.json](./47891-dragon-booster.json) |
 | Dragon Bowl | 37344 | [37344-dragon-bowl.json](./37344-dragon-bowl.json) |
