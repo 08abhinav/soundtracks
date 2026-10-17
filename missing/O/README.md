@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okay, Panic! | 120051 | [120051-okay-panic.json](./120051-okay-panic.json) |
 | Okayu Nyumu! | 320166 | [320166-okayu-nyumu.json](./320166-okayu-nyumu.json) |
 | Okayu Nyumu! R | 395849 | [395849-okayu-nyumu-r.json](./395849-okayu-nyumu-r.json) |
+| Okeānija | 410758 | [410758-okeanija.json](./410758-okeanija.json) |
 | Okekenuki | 280420 | [280420-okekenuki.json](./280420-okekenuki.json) |
 | Okhlos: Omega | 34521 | [34521-okhlos-omega.json](./34521-okhlos-omega.json) |
 | Okhlos: Omega - Olympus Edition | 51864 | [51864-okhlos-omega-olympus-edition.json](./51864-okhlos-omega-olympus-edition.json) |
