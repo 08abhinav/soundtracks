@@ -3637,6 +3637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstate '76 | 760 | [760-interstate-76.json](./760-interstate-76.json) |
 | Interstate '76: Nitro Pack | 73208 | [73208-interstate-76-nitro-pack.json](./73208-interstate-76-nitro-pack.json) |
 | Interstate '82 | 8788 | [8788-interstate-82.json](./8788-interstate-82.json) |
+| Interstate 1982 | 364827 | [364827-interstate-1982.json](./364827-interstate-1982.json) |
 | Interstate 35 | 322155 | [322155-interstate-35.json](./322155-interstate-35.json) |
 | Interstate Cowboys | 292322 | [292322-interstate-cowboys.json](./292322-interstate-cowboys.json) |
 | Interstate Drifter 1999 | 141776 | [141776-interstate-drifter-1999.json](./141776-interstate-drifter-1999.json) |
