@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:29.814Z",
-  "total_soundtracks": 2091,
+  "generated_at": "2026-10-17T15:36:37.802Z",
+  "total_soundtracks": 2092,
   "games": [
     {
       "igdb_id": 7522,
@@ -17703,6 +17703,20 @@
         {
           "album_name": "Rusty Lake: Paradise (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3MgW9tksAjIXMDWxUS16Sc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 25222,
+      "game_name": "Rusty Lake: Roots",
+      "game_url": "https://ostdb.net/games/rusty-lake-roots",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be7271b3e5d507041ea0c296",
+      "albums": [
+        {
+          "album_name": "Rusty Lake: Roots (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5VMhU7vjMBXlZdFLvHLPrw",
           "apple_music_url": "",
           "album_link_url": ""
         }
