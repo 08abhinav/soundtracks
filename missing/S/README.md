@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphic Destroyer | 126343 | [126343-seraphic-destroyer.json](./126343-seraphic-destroyer.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
 | Seraphim | 266759 | [266759-seraphim.json](./266759-seraphim.json) |
+| Seraphim Flame | 402352 | [402352-seraphim-flame.json](./402352-seraphim-flame.json) |
 | Seraphim: Master of Legend | 146537 | [146537-seraphim-master-of-legend.json](./146537-seraphim-master-of-legend.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
@@ -11909,6 +11910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
 | Songbringer Bundle | 118864 | [118864-songbringer-bundle.json](./118864-songbringer-bundle.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
+| Songless | 402309 | [402309-songless.json](./402309-songless.json) |
 | Songless | 409608 | [409608-songless.json](./409608-songless.json) |
 | SongPop | 231455 | [231455-songpop.json](./231455-songpop.json) |
 | SongPop Classic | 88775 | [88775-songpop-classic.json](./88775-songpop-classic.json) |
@@ -12830,6 +12832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
+| Sorry We're Closed: Deluxe Edition | 402332 | [402332-sorry-were-closed-deluxe-edition.json](./402332-sorry-were-closed-deluxe-edition.json) |
 | Sorry We're Closed: Perfect Combo Edition | 402333 | [402333-sorry-were-closed-perfect-combo-edition.json](./402333-sorry-were-closed-perfect-combo-edition.json) |
 | Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
 | Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
@@ -25020,6 +25023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
 | Sword World VR | 372808 | [372808-sword-world-vr.json](./372808-sword-world-vr.json) |
 | Sword x Hime | 148961 | [148961-sword-x-hime.json](./148961-sword-x-hime.json) |
+| Sword x Staff | 402324 | [402324-sword-x-staff.json](./402324-sword-x-staff.json) |
 | Sword: Depths of the Void | 216193 | [216193-sword-depths-of-the-void.json](./216193-sword-depths-of-the-void.json) |
 | Sword's Soul Duel | 159636 | [159636-swords-soul-duel.json](./159636-swords-soul-duel.json) |
 | Sword&Magic | 226153 | [226153-sword-and-magic.json](./226153-sword-and-magic.json) |
