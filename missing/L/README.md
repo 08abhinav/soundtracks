@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | License to Breed | 262579 | [262579-license-to-breed.json](./262579-license-to-breed.json) |
 | License To Clone | 319689 | [319689-license-to-clone.json](./319689-license-to-clone.json) |
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
+| Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loading... | 365761 | [365761-loading.json](./365761-loading.json) |
 | Loadout: Premium Edition | 118718 | [118718-loadout-premium-edition.json](./118718-loadout-premium-edition.json) |
 | Loadstar: The Legend of Tully Bodine | 46424 | [46424-loadstar-the-legend-of-tully-bodine.json](./46424-loadstar-the-legend-of-tully-bodine.json) |
+| Loaf the Video Game 3 | 407858 | [407858-loaf-the-video-game-3.json](./407858-loaf-the-video-game-3.json) |
 | Loaf: The Video Game | 408148 | [408148-loaf-the-video-game.json](./408148-loaf-the-video-game.json) |
 | Loaf's Adventure | 408147 | [408147-loafs-adventure.json](./408147-loafs-adventure.json) |
 | Loafing Town | 369064 | [369064-loafing-town.json](./369064-loafing-town.json) |
