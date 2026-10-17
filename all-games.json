@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:55:33.730Z",
-  "total_soundtracks": 2000,
+  "generated_at": "2026-10-17T11:55:41.302Z",
+  "total_soundtracks": 2001,
   "games": [
     {
       "igdb_id": 7522,
@@ -6341,6 +6341,20 @@
         {
           "album_name": "Dungeons of Dredmor (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4AVNjCot0zr9QVMz07rO7P",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 146917,
+      "game_name": "Dungeons of Hinterberg",
+      "game_url": "https://ostdb.net/games/dungeons-of-hinterberg",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b452d5b385d4531af810b0a3",
+      "albums": [
+        {
+          "album_name": "Dungeons of Hinterberg (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5OzfZxATcJhS4j510OxksL",
           "apple_music_url": "",
           "album_link_url": ""
         }
