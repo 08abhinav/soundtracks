@@ -5430,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcism Agency | 355208 | [355208-exorcism-agency.json](./355208-exorcism-agency.json) |
 | Exorcism Express | 181153 | [181153-exorcism-express.json](./181153-exorcism-express.json) |
 | Exorcism: Case Zero | 72489 | [72489-exorcism-case-zero.json](./72489-exorcism-case-zero.json) |
+| Exorcism:Nuo Rituals | 390564 | [390564-exorcism-nuo-rituals.json](./390564-exorcism-nuo-rituals.json) |
 | Exorcist | 200360 | [200360-exorcist.json](./200360-exorcist.json) |
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
