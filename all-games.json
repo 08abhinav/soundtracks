@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:51:18.738Z",
-  "total_soundtracks": 2123,
+  "generated_at": "2026-10-17T15:51:27.282Z",
+  "total_soundtracks": 2124,
   "games": [
     {
       "igdb_id": 7522,
@@ -22499,6 +22499,20 @@
           "spotify_url": "https://open.spotify.com/album/7rJBBhUmOuTONh8fOmIFjr",
           "apple_music_url": "https://music.apple.com/us/album/the-quarry-original-soundtrack/1637853854",
           "album_link_url": "https://album.link/i/1637853854"
+        }
+      ]
+    },
+    {
+      "igdb_id": 75247,
+      "game_name": "The Red Strings Club",
+      "game_url": "https://ostdb.net/games/the-red-strings-club",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b496f842dbca1827ff461bf1",
+      "albums": [
+        {
+          "album_name": "The Red Strings Club Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3PiMG7hNXg92FIfbyjWg8p",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
