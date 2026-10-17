@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet | 250803 | [250803-cabernet.json](./250803-cabernet.json) |
+| Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
 | Cabin Corpse | 303718 | [303718-cabin-corpse.json](./303718-cabin-corpse.json) |
 | Cabin Crew Life Simulator | 302423 | [302423-cabin-crew-life-simulator.json](./302423-cabin-crew-life-simulator.json) |
 | Cabin Escape | 362984 | [362984-cabin-escape.json](./362984-cabin-escape.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Brawl | 13675 | [13675-cannon-brawl.json](./13675-cannon-brawl.json) |
 | Cannon Canines | 190216 | [190216-cannon-canines.json](./190216-cannon-canines.json) |
 | Cannon Dancer: Osman | 231222 | [231222-cannon-dancer-osman.json](./231222-cannon-dancer-osman.json) |
+| Cannon Defender | 380172 | [380172-cannon-defender.json](./380172-cannon-defender.json) |
 | Cannon Dinghies | 404768 | [404768-cannon-dinghies.json](./404768-cannon-dinghies.json) |
 | Cannon Father | 134600 | [134600-cannon-father.json](./134600-cannon-father.json) |
 | Cannon Fire | 83602 | [83602-cannon-fire.json](./83602-cannon-fire.json) |
@@ -2285,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
 | Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
+| Cast Outs | 380165 | [380165-cast-outs.json](./380165-cast-outs.json) |
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
@@ -10269,6 +10272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
+| Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
 | Corinne | 377986 | [377986-corinne.json](./377986-corinne.json) |
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
@@ -12451,6 +12455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croquettes Gang | 303089 | [303089-croquettes-gang.json](./303089-croquettes-gang.json) |
 | CroquettesClicker | 336138 | [336138-croquettesclicker.json](./336138-croquettesclicker.json) |
 | Crordle | 223555 | [223555-crordle.json](./223555-crordle.json) |
+| Crosak | 380164 | [380164-crosak.json](./380164-crosak.json) |
 | Crosps | 125844 | [125844-crosps.json](./125844-crosps.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
