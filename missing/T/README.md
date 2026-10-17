@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailed Monsters Puzzle | 224160 | [224160-tailed-monsters-puzzle.json](./224160-tailed-monsters-puzzle.json) |
 | Tailgate | 314007 | [314007-tailgate.json](./314007-tailgate.json) |
 | Tailgunner | 132130 | [132130-tailgunner.json](./132130-tailgunner.json) |
+| Tailor Simulator | 374887 | [374887-tailor-simulator.json](./374887-tailor-simulator.json) |
 | Tailor Tales | 110929 | [110929-tailor-tales.json](./110929-tailor-tales.json) |
 | Tailor Tales - Aiden Plus | 305544 | [305544-tailor-tales-aiden-plus.json](./305544-tailor-tales-aiden-plus.json) |
 | Tailor Tales: Caine Plus | 257550 | [257550-tailor-tales-caine-plus.json](./257550-tailor-tales-caine-plus.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taste of Heaven | 200407 | [200407-taste-of-heaven.json](./200407-taste-of-heaven.json) |
 | Taste of Seduction | 212198 | [212198-taste-of-seduction.json](./212198-taste-of-seduction.json) |
 | Taste of Sweet Magic | 217784 | [217784-taste-of-sweet-magic.json](./217784-taste-of-sweet-magic.json) |
+| Taste of the Sea | 374891 | [374891-taste-of-the-sea.json](./374891-taste-of-the-sea.json) |
 | Taste of the Wind | 366249 | [366249-taste-of-the-wind.json](./366249-taste-of-the-wind.json) |
 | Taste of Victory | 253839 | [253839-taste-of-victory.json](./253839-taste-of-victory.json) |
 | Taste of War | 232929 | [232929-taste-of-war.json](./232929-taste-of-war.json) |
@@ -6860,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: The Movie | 146331 | [146331-the-flintstones-the-movie.json](./146331-the-flintstones-the-movie.json) |
 | The Flintstones: The Treasure of Sierra Madrock | 8450 | [8450-the-flintstones-the-treasure-of-sierra-madrock.json](./8450-the-flintstones-the-treasure-of-sierra-madrock.json) |
 | The Flintstones' Keyboard Fun | 41494 | [41494-the-flintstones-keyboard-fun.json](./41494-the-flintstones-keyboard-fun.json) |
+| The Flipbook | 374900 | [374900-the-flipbook.json](./374900-the-flipbook.json) |
 | The Floating City | 148884 | [148884-the-floating-city.json](./148884-the-floating-city.json) |
 | The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
 | The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
@@ -7807,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
+| The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
 | The Iceman | 278106 | [278106-the-iceman.json](./278106-the-iceman.json) |
@@ -8676,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Plast | 302126 | [302126-the-last-plast.json](./302126-the-last-plast.json) |
 | The Last Player | 115469 | [115469-the-last-player.json](./115469-the-last-player.json) |
 | The Last Poem: The Trials of Poe | 152776 | [152776-the-last-poem-the-trials-of-poe.json](./152776-the-last-poem-the-trials-of-poe.json) |
+| The Last Portrait | 374928 | [374928-the-last-portrait.json](./374928-the-last-portrait.json) |
 | The Last Practice Sectis | 196044 | [196044-the-last-practice-sectis.json](./196044-the-last-practice-sectis.json) |
 | The Last Prayer | 401304 | [401304-the-last-prayer.json](./401304-the-last-prayer.json) |
 | The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
