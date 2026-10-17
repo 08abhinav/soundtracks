@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow | 83171 | [83171-meow.json](./83171-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
 | Meow Bistro! | 300534 | [300534-meow-bistro.json](./300534-meow-bistro.json) |
+| Meow Cafe | 377333 | [377333-meow-cafe.json](./377333-meow-cafe.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
@@ -11230,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
+| Monster Mayhem | 377338 | [377338-monster-mayhem.json](./377338-monster-mayhem.json) |
 | Monster Maze VR | 30772 | [30772-monster-maze-vr.json](./30772-monster-maze-vr.json) |
 | Monster Medic | 18236 | [18236-monster-medic.json](./18236-monster-medic.json) |
 | Monster Meltdown | 63284 | [63284-monster-meltdown.json](./63284-monster-meltdown.json) |
