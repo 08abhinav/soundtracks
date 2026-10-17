@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kameleon | 185452 | [185452-kameleon.json](./185452-kameleon.json) |
 | Kamen no Maid Guy: Boyoyon Battle Royale | 44497 | [44497-kamen-no-maid-guy-boyoyon-battle-royale.json](./44497-kamen-no-maid-guy-boyoyon-battle-royale.json) |
 | Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
+| Kamen Rider 555 | 404098 | [404098-kamen-rider-555.json](./404098-kamen-rider-555.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
 | Kamen Rider Agito & Kuuga: Wild Battle | 62742 | [62742-kamen-rider-agito-and-kuuga-wild-battle.json](./62742-kamen-rider-agito-and-kuuga-wild-battle.json) |
