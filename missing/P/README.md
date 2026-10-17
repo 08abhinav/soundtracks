@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pal Pachinko | 390593 | [390593-pal-pachinko.json](./390593-pal-pachinko.json) |
 | Pal-Mon | 393801 | [393801-pal-mon.json](./393801-pal-mon.json) |
 | PAL: Shinken Densetsu | 166517 | [166517-pal-shinken-densetsu.json](./166517-pal-shinken-densetsu.json) |
+| Palabras en inglés para aprender en la primaria | 415393 | [415393-palabras-en-ingles-para-aprender-en-la-primaria.json](./415393-palabras-en-ingles-para-aprender-en-la-primaria.json) |
 | Palace Jam 1 | 343389 | [343389-palace-jam-1.json](./343389-palace-jam-1.json) |
 | Palace of a Thousand Curses | 328017 | [328017-palace-of-a-thousand-curses.json](./328017-palace-of-a-thousand-curses.json) |
 | Palace of Cards | 81384 | [81384-palace-of-cards.json](./81384-palace-of-cards.json) |
