@@ -1920,6 +1920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
+| Scarf Tale | 384915 | [384915-scarf-tale.json](./384915-scarf-tale.json) |
 | Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
@@ -4409,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game - Naughty Girls - Episode 8 | 382389 | [382389-sex-game-naughty-girls-episode-8.json](./382389-sex-game-naughty-girls-episode-8.json) |
 | Sex Game - Threesome - Episode 5 | 382385 | [382385-sex-game-threesome-episode-5.json](./382385-sex-game-threesome-episode-5.json) |
 | Sex Game - Threesome - Episode 6 | 382392 | [382392-sex-game-threesome-episode-6.json](./382392-sex-game-threesome-episode-6.json) |
+| Sex Game: Gay Affair - Episode 1 | 384891 | [384891-sex-game-gay-affair-episode-1.json](./384891-sex-game-gay-affair-episode-1.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
 | Sex Game: Naughty Couple - Episode 2 | 371055 | [371055-sex-game-naughty-couple-episode-2.json](./371055-sex-game-naughty-couple-episode-2.json) |
@@ -4570,6 +4572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Miss | 116264 | [116264-sexy-miss.json](./116264-sexy-miss.json) |
 | Sexy Mystic Survivors | 199508 | [199508-sexy-mystic-survivors.json](./199508-sexy-mystic-survivors.json) |
 | Sexy Nurse Puzzle | 367288 | [367288-sexy-nurse-puzzle.json](./367288-sexy-nurse-puzzle.json) |
+| Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
 | Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
@@ -7537,6 +7540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silva Saga II: The Legend of Light and Darkness | 63758 | [63758-silva-saga-ii-the-legend-of-light-and-darkness.json](./63758-silva-saga-ii-the-legend-of-light-and-darkness.json) |
 | SilvaGunner: Rebooted | 326957 | [326957-silvagunner-rebooted.json](./326957-silvagunner-rebooted.json) |
 | Silvanis | 365848 | [365848-silvanis.json](./365848-silvanis.json) |
+| Silvarn | 384917 | [384917-silvarn.json](./384917-silvarn.json) |
 | Silver | 7042 | [7042-silver.json](./7042-silver.json) |
 | Silver Axe: The Honest Elf | 195129 | [195129-silver-axe-the-honest-elf.json](./195129-silver-axe-the-honest-elf.json) |
 | Silver Blade of Gods' End | 301602 | [301602-silver-blade-of-gods-end.json](./301602-silver-blade-of-gods-end.json) |
@@ -13949,6 +13953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
 | Space Ninja Simulator | 157404 | [157404-space-ninja-simulator.json](./157404-space-ninja-simulator.json) |
+| Space Oddity | 384924 | [384924-space-oddity.json](./384924-space-oddity.json) |
 | Space Oddity 2 | 392732 | [392732-space-oddity-2.json](./392732-space-oddity-2.json) |
 | Space Odyssey | 24829 | [24829-space-odyssey.json](./24829-space-odyssey.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
@@ -20577,6 +20582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SubSpace | 19148 | [19148-subspace.json](./19148-subspace.json) |
 | Subspace Reticulum | 367537 | [367537-subspace-reticulum.json](./367537-subspace-reticulum.json) |
 | Subspace Voyage | 365850 | [365850-subspace-voyage.json](./365850-subspace-voyage.json) |
+| Substance Wars 64 | 384878 | [384878-substance-wars-64.json](./384878-substance-wars-64.json) |
 | Substrate: Emergence | 398531 | [398531-substrate-emergence.json](./398531-substrate-emergence.json) |
 | Substratum | 128432 | [128432-substratum.json](./128432-substratum.json) |
 | Substream | 110276 | [110276-substream.json](./110276-substream.json) |
@@ -25152,6 +25158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Resistance | 134640 | [134640-sword-of-resistance.json](./134640-sword-of-resistance.json) |
 | Sword of Rule | 376075 | [376075-sword-of-rule.json](./376075-sword-of-rule.json) |
 | Sword of Saros | 40727 | [40727-sword-of-saros.json](./40727-sword-of-saros.json) |
+| Sword of Shandar | 384914 | [384914-sword-of-shandar.json](./384914-sword-of-shandar.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
 | Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
