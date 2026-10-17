@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
 | CBeebies Playtime Island: Game | 321783 | [321783-cbeebies-playtime-island-game.json](./321783-cbeebies-playtime-island-game.json) |
+| Cbs: The Beginning | 392194 | [392194-cbs-the-beginning.json](./392194-cbs-the-beginning.json) |
 | CBT With Yuuka Kazami: Getting Help With Patchouli Knowledge | 182247 | [182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json](./182247-cbt-with-yuuka-kazami-getting-help-with-patchouli-knowledge.json) |
 | CC & SH Smash Hits | 74303 | [74303-cc-and-sh-smash-hits.json](./74303-cc-and-sh-smash-hits.json) |
 | CCCP Calls! | 100490 | [100490-cccp-calls.json](./100490-cccp-calls.json) |
@@ -4483,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
+| Chefs Arena | 392186 | [392186-chefs-arena.json](./392186-chefs-arena.json) |
 | Chefs Together | 284817 | [284817-chefs-together.json](./284817-chefs-together.json) |
 | ChefU | 55427 | [55427-chefu.json](./55427-chefu.json) |
 | Chefware | 376535 | [376535-chefware.json](./376535-chefware.json) |
@@ -7825,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
+| Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex: Recall | 419171 | [419171-codex-recall.json](./419171-codex-recall.json) |
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
@@ -8742,6 +8745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
+| Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
 | Combat Raccoon | 54857 | [54857-combat-raccoon.json](./54857-combat-raccoon.json) |
 | Combat Racers | 33461 | [33461-combat-racers.json](./33461-combat-racers.json) |
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
@@ -10182,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Breach | 292991 | [292991-core-breach.json](./292991-core-breach.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
+| Core Descent | 392188 | [392188-core-descent.json](./392188-core-descent.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
 | Core Diggers | 397645 | [397645-core-diggers.json](./397645-core-diggers.json) |
 | Core Disruption | 194922 | [194922-core-disruption.json](./194922-core-disruption.json) |
