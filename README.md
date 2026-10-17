@@ -1493,6 +1493,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f9/bf/ff/f9bfffaf-f81e-d43f-75c0-31c8932ac470/859709153322_cover.tif/600x600bb.jpg" width="60" /> | [Thomas Was Alone](https://ostdb.net/games/thomas-was-alone) | **Thomas Was Alone Ost** · [Spotify](https://open.spotify.com/album/0Iw5Z8FWMPL28DC44z2kda) · [Apple Music](https://music.apple.com/us/album/thomas-was-alone-original-soundtrack/576915445) · [Album](https://album.link/i/576915445) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f5/6b/f2/f56bf2f3-5070-73fd-2a9c-b2e109fb76de/0000451925846.jpg/600x600bb.jpg" width="60" /> | [Thronebreaker: The Witcher Tales](https://ostdb.net/games/thronebreaker-the-witcher-tales) | **Thronebreaker: The Witcher Tales (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3dB7GJBPHfEPtaQ38yLBpX) · [Apple Music](https://music.apple.com/us/album/thronebreaker-the-witcher-tales-original-game-soundtrack/1445188244) · [Album](https://album.link/i/1445188244) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f91c5ae18e8c313c673afee9" width="60" /> | [TimeSplitters](https://ostdb.net/games/timesplitters) | **TimeSplitters (Soundtrack)** · [Spotify](https://open.spotify.com/album/6FfNaXPZx9Zt7frfqDrgFK) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d85828bf47cc109dedb45d8d" width="60" /> | [Tiny Bunny](https://ostdb.net/games/tiny-bunny) | **Tiny Bunny (Original Game Soundtrack Compilation 1-4 Episode)** · [Spotify](https://open.spotify.com/album/5kL3FbRjyYQnpqik4vsIgP) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5c/a0/46/5ca046b5-e6b0-eaa6-5c4a-e794904a7c59/artwork.jpg/600x600bb.jpg" width="60" /> | [Tiny Glade](https://ostdb.net/games/tiny-glade) | **Tiny Glade (Original Video Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tiny-glade-original-video-game-soundtrack/1770531849?uo=4) · [Album](https://album.link/i/1770531849) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735d860eca1a35c2273adb3afb" width="60" /> | [Tinykin](https://ostdb.net/games/tinykin) | **Tinykin (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7naJ6tOOyEls9jOdQQdgqu) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736e23b4eca6e885b7c1c4aa4b" width="60" /> | [Titanfall](https://ostdb.net/games/titanfall) | **Titanfall** · [Spotify](https://open.spotify.com/album/5jbYUxvdzAj6zpSp01o1J8) |
@@ -1698,4 +1699,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2015 soundtracks · last updated 2026-10-17T12:01:49.759Z_
+_2016 soundtracks · last updated 2026-10-17T12:01:59.362Z_
