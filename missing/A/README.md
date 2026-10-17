@@ -652,6 +652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Piano Tale | 201677 | [201677-a-piano-tale.json](./201677-a-piano-tale.json) |
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
 | A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
+| A Pinball Game That Makes You Mad | 371002 | [371002-a-pinball-game-that-makes-you-mad.json](./371002-a-pinball-game-that-makes-you-mad.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
@@ -3189,11 +3190,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
+| Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
 | Age of Wonders 4: Dragon Dawn | 252621 | [252621-age-of-wonders-4-dragon-dawn.json](./252621-age-of-wonders-4-dragon-dawn.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
 | Age of Wonders 4: Primal Fury | 288837 | [288837-age-of-wonders-4-primal-fury.json](./288837-age-of-wonders-4-primal-fury.json) |
+| Age of Wonders 4: Rise from Ruin | 371022 | [371022-age-of-wonders-4-rise-from-ruin.json](./371022-age-of-wonders-4-rise-from-ruin.json) |
+| Age of Wonders 4: Secrets of the Archmages | 371021 | [371021-age-of-wonders-4-secrets-of-the-archmages.json](./371021-age-of-wonders-4-secrets-of-the-archmages.json) |
+| Age of Wonders 4: Thrones of Blood | 371023 | [371023-age-of-wonders-4-thrones-of-blood.json](./371023-age-of-wonders-4-thrones-of-blood.json) |
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
 | Age of Wonders: Planetfall - Day One Edition | 136153 | [136153-age-of-wonders-planetfall-day-one-edition.json](./136153-age-of-wonders-planetfall-day-one-edition.json) |
