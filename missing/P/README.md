@@ -11721,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Nadir | 367940 | [367940-protocol-nadir.json](./367940-protocol-nadir.json) |
 | Protocol Paradox | 373512 | [373512-protocol-paradox.json](./373512-protocol-paradox.json) |
 | Protocol Rift | 322705 | [322705-protocol-rift.json](./322705-protocol-rift.json) |
+| Protocol Solari: Escape Room | 385954 | [385954-protocol-solari-escape-room.json](./385954-protocol-solari-escape-room.json) |
 | Protocol VR | 116289 | [116289-protocol-vr.json](./116289-protocol-vr.json) |
 | Protocol Xeno | 211967 | [211967-protocol-xeno.json](./211967-protocol-xeno.json) |
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
@@ -12116,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pug'llector | 311252 | [311252-pugllector.json](./311252-pugllector.json) |
 | Pug's Quest | 82954 | [82954-pugs-quest.json](./82954-pugs-quest.json) |
 | Pugg | 211911 | [211911-pugg.json](./211911-pugg.json) |
+| Pugnite | 385992 | [385992-pugnite.json](./385992-pugnite.json) |
 | Pugovki | 177051 | [177051-pugovki.json](./177051-pugovki.json) |
 | Pui Pui Molcar Let's! Molcar Party! | 175849 | [175849-pui-pui-molcar-lets-molcar-party.json](./175849-pui-pui-molcar-lets-molcar-party.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
