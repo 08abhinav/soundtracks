@@ -13540,6 +13540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Break 2 Head to Head | 214059 | [214059-space-break-2-head-to-head.json](./214059-space-break-2-head-to-head.json) |
 | Space Bross | 348832 | [348832-space-bross.json](./348832-space-bross.json) |
 | Space Bubble Cat | 145476 | [145476-space-bubble-cat.json](./145476-space-bubble-cat.json) |
+| Space Bubble Shooter | 378491 | [378491-space-bubble-shooter.json](./378491-space-bubble-shooter.json) |
 | Space Bubbles Must Die! | 344399 | [344399-space-bubbles-must-die.json](./344399-space-bubbles-must-die.json) |
 | Space Bucks | 71731 | [71731-space-bucks.json](./71731-space-bucks.json) |
 | Space Bugger | 281028 | [281028-space-bugger.json](./281028-space-bugger.json) |
@@ -13869,7 +13870,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Inversion Puzzle | 255720 | [255720-space-inversion-puzzle.json](./255720-space-inversion-puzzle.json) |
 | Space is Hard | 198296 | [198296-space-is-hard.json](./198296-space-is-hard.json) |
 | Space is Key | 243107 | [243107-space-is-key.json](./243107-space-is-key.json) |
+| Space is Key 2 | 378508 | [378508-space-is-key-2.json](./378508-space-is-key-2.json) |
 | Space is Key Christmas | 408824 | [408824-space-is-key-christmas.json](./408824-space-is-key-christmas.json) |
+| Space is Key Hell | 378509 | [378509-space-is-key-hell.json](./378509-space-is-key-hell.json) |
 | Space Is Limited | 184374 | [184374-space-is-limited.json](./184374-space-is-limited.json) |
 | Space is Red | 128573 | [128573-space-is-red.json](./128573-space-is-red.json) |
 | Space Is Red | 379341 | [379341-space-is-red.json](./379341-space-is-red.json) |
@@ -22546,11 +22549,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Plus | 268362 | [268362-super-mario-bros-plus.json](./268362-super-mario-bros-plus.json) |
 | Super Mario Bros. R | 268363 | [268363-super-mario-bros-r.json](./268363-super-mario-bros-r.json) |
 | Super Mario Bros. Remastered | 358244 | [358244-super-mario-bros-remastered.json](./358244-super-mario-bros-remastered.json) |
+| Super Mario Bros. Remastered | 378499 | [378499-super-mario-bros-remastered.json](./378499-super-mario-bros-remastered.json) |
 | Super Mario Bros. S | 313430 | [313430-super-mario-bros-s.json](./313430-super-mario-bros-s.json) |
 | Super Mario Bros. SNES | 377742 | [377742-super-mario-bros-snes.json](./377742-super-mario-bros-snes.json) |
 | Super Mario Bros. SNES Days | 321586 | [321586-super-mario-bros-snes-days.json](./321586-super-mario-bros-snes-days.json) |
 | Super Mario Bros. SNES Days 2 | 321585 | [321585-super-mario-bros-snes-days-2.json](./321585-super-mario-bros-snes-days-2.json) |
 | Super Mario Bros. Special | 77228 | [77228-super-mario-bros-special.json](./77228-super-mario-bros-special.json) |
+| Super Mario Bros. Special Remastered | 378501 | [378501-super-mario-bros-special-remastered.json](./378501-super-mario-bros-special-remastered.json) |
 | Super Mario Bros. Star Scramble 2: Ghost Island | 215251 | [215251-super-mario-bros-star-scramble-2-ghost-island.json](./215251-super-mario-bros-star-scramble-2-ghost-island.json) |
 | Super Mario Bros. Star Scramble DX | 265069 | [265069-super-mario-bros-star-scramble-dx.json](./265069-super-mario-bros-star-scramble-dx.json) |
 | Super Mario Bros. Wonder | 254339 | [254339-super-mario-bros-wonder.json](./254339-super-mario-bros-wonder.json) |
@@ -22562,6 +22567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
 | Super Mario Bros.: The Extra Objects | 313405 | [313405-super-mario-bros-the-extra-objects.json](./313405-super-mario-bros-the-extra-objects.json) |
+| Super Mario Bros.: The Lost Levels Remastered | 378500 | [378500-super-mario-bros-the-lost-levels-remastered.json](./378500-super-mario-bros-the-lost-levels-remastered.json) |
 | Super Mario Bros.: The New Worlds | 255601 | [255601-super-mario-bros-the-new-worlds.json](./255601-super-mario-bros-the-new-worlds.json) |
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
