@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
+| Waffles' Cranked Stories | 382500 | [382500-waffles-cranked-stories.json](./382500-waffles-cranked-stories.json) |
 | Wag | 312562 | [312562-wag.json](./312562-wag.json) |
 | Wag Royale | 124613 | [124613-wag-royale.json](./124613-wag-royale.json) |
 | Waga Seishun no Arcadia | 385731 | [385731-waga-seishun-no-arcadia.json](./385731-waga-seishun-no-arcadia.json) |
@@ -2126,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
+| Weaponeers | 382595 | [382595-weaponeers.json](./382595-weaponeers.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
@@ -4422,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WireWalking | 284836 | [284836-wirewalking.json](./284836-wirewalking.json) |
 | Wirtschaftsgiganten | 98968 | [98968-wirtschaftsgiganten.json](./98968-wirtschaftsgiganten.json) |
 | Wisdom | 149196 | [149196-wisdom.json](./149196-wisdom.json) |
+| Wisdom Tower | 382499 | [382499-wisdom-tower.json](./382499-wisdom-tower.json) |
 | Wisdom Tree Collection | 134347 | [134347-wisdom-tree-collection.json](./134347-wisdom-tree-collection.json) |
 | Wisdom Tree GBA Collection | 134349 | [134349-wisdom-tree-gba-collection.json](./134349-wisdom-tree-gba-collection.json) |
 | Wisdom Tree Sega Genesis Collection | 134348 | [134348-wisdom-tree-sega-genesis-collection.json](./134348-wisdom-tree-sega-genesis-collection.json) |
@@ -6325,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WortWechsel | 58232 | [58232-wortwechsel.json](./58232-wortwechsel.json) |
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
+| Would You Lie with Me and Just Forget the World | 382582 | [382582-would-you-lie-with-me-and-just-forget-the-world.json](./382582-would-you-lie-with-me-and-just-forget-the-world.json) |
 | Would You Like to Run an Idol Café? 3 | 192650 | [192650-would-you-like-to-run-an-idol-cafe-3.json](./192650-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Love Me If I Was a Snake? | 400346 | [400346-would-you-love-me-if-i-was-a-snake.json](./400346-would-you-love-me-if-i-was-a-snake.json) |
