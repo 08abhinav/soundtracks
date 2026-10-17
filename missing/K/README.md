@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kessen II | 10897 | [10897-kessen-ii.json](./10897-kessen-ii.json) |
 | Kessen III | 20200 | [20200-kessen-iii.json](./20200-kessen-iii.json) |
 | Kessen! Dokapon Okukoku IV: Densetsu no Yuusha-tachi | 37963 | [37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json](./37963-kessen-dokapon-okukoku-iv-densetsu-no-yuusha-tachi.json) |
+| Kessis and her Geeky Secret | 405932 | [405932-kessis-and-her-geeky-secret.json](./405932-kessis-and-her-geeky-secret.json) |
 | Kessler Effect | 132520 | [132520-kessler-effect.json](./132520-kessler-effect.json) |
 | Kestrel | 152386 | [152386-kestrel.json](./152386-kestrel.json) |
 | Ketamina | 249848 | [249848-ketamina.json](./249848-ketamina.json) |
