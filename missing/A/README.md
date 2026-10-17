@@ -6060,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
 | Amnesia: Final Revelations | 116950 | [116950-amnesia-final-revelations.json](./116950-amnesia-final-revelations.json) |
+| Amnesia: Rain | 376173 | [376173-amnesia-rain.json](./376173-amnesia-rain.json) |
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
@@ -12220,6 +12221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoSquad | 390017 | [390017-autosquad.json](./390017-autosquad.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
+| Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
 | Autumn Dynasty Warlords | 23424 | [23424-autumn-dynasty-warlords.json](./23424-autumn-dynasty-warlords.json) |
 | Autumn Garden | 82181 | [82181-autumn-garden.json](./82181-autumn-garden.json) |
 | Autumn Hike | 257431 | [257431-autumn-hike.json](./257431-autumn-hike.json) |
