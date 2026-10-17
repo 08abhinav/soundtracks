@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
+| Xvirus | 397009 | [397009-xvirus.json](./397009-xvirus.json) |
 | XVM | 277404 | [277404-xvm.json](./277404-xvm.json) |
 | XVTM | 288457 | [288457-xvtm.json](./288457-xvtm.json) |
 | XWarShooterVR | 283856 | [283856-xwarshootervr.json](./283856-xwarshootervr.json) |
