@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Route 66 Simulator | 151094 | [151094-route-66-simulator.json](./151094-route-66-simulator.json) |
 | Route Candle for Steam | 90560 | [90560-route-candle-for-steam.json](./90560-route-candle-for-steam.json) |
 | Route Me Mail and Delivery Co | 147477 | [147477-route-me-mail-and-delivery-co.json](./147477-route-me-mail-and-delivery-co.json) |
+| Route Z | 407305 | [407305-route-z.json](./407305-route-z.json) |
 | Route-16 | 40185 | [40185-route-16.json](./40185-route-16.json) |
 | Route-16 Collection | 411156 | [411156-route-16-collection.json](./411156-route-16-collection.json) |
 | Route-16 Turbo | 411159 | [411159-route-16-turbo.json](./411159-route-16-turbo.json) |
@@ -8174,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG World - Action RPG Maker | 131334 | [131334-rpg-world-action-rpg-maker.json](./131334-rpg-world-action-rpg-maker.json) |
 | RPG World Online | 93526 | [93526-rpg-world-online.json](./93526-rpg-world-online.json) |
 | RPG: The Legends of Power Volume 1 | 351590 | [351590-rpg-the-legends-of-power-volume-1.json](./351590-rpg-the-legends-of-power-volume-1.json) |
+| RPG2 | 407195 | [407195-rpg2.json](./407195-rpg2.json) |
 | RpgEra | 106158 | [106158-rpgera.json](./106158-rpgera.json) |
 | RPGHub | 125905 | [125905-rpghub.json](./125905-rpghub.json) |
 | RPGirl | 297210 | [297210-rpgirl.json](./297210-rpgirl.json) |
@@ -8997,6 +8999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust in Peace | 271765 | [271765-rust-in-peace.json](./271765-rust-in-peace.json) |
 | Rust Knight | 193948 | [193948-rust-knight.json](./193948-rust-knight.json) |
 | Rust Mobile | 358975 | [358975-rust-mobile.json](./358975-rust-mobile.json) |
+| Rust of New York | 407168 | [407168-rust-of-new-york.json](./407168-rust-of-new-york.json) |
 | Rust Onslaught | 341511 | [341511-rust-onslaught.json](./341511-rust-onslaught.json) |
 | Rust Racers | 133815 | [133815-rust-racers.json](./133815-rust-racers.json) |
 | Rust Racers 2D | 126026 | [126026-rust-racers-2d.json](./126026-rust-racers-2d.json) |
