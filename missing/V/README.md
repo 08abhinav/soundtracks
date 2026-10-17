@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Reaper | 280129 | [280129-void-reaper.json](./280129-void-reaper.json) |
 | Void Reaver | 390730 | [390730-void-reaver.json](./390730-void-reaver.json) |
 | Void Red | 376001 | [376001-void-red.json](./376001-void-red.json) |
+| Void Reforest | 382597 | [382597-void-reforest.json](./382597-void-reforest.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
