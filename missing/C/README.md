@@ -7262,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
 | Clock Out | 312922 | [312922-clock-out.json](./312922-clock-out.json) |
 | Clock Out At 2 | 313173 | [313173-clock-out-at-2.json](./313173-clock-out-at-2.json) |
+| Clock Out!! | 370444 | [370444-clock-out.json](./370444-clock-out.json) |
 | clock out. | 310963 | [310963-clock-out.json](./310963-clock-out.json) |
 | Clock Overwhelmed | 152800 | [152800-clock-overwhelmed.json](./152800-clock-overwhelmed.json) |
 | Clock Rogue | 295004 | [295004-clock-rogue.json](./295004-clock-rogue.json) |
@@ -13768,6 +13769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cum On! Bukkake Ranch! | 322950 | [322950-cum-on-bukkake-ranch.json](./322950-cum-on-bukkake-ranch.json) |
 | Cum Queens | 285131 | [285131-cum-queens.json](./285131-cum-queens.json) |
 | Cumboy in Space | 370467 | [370467-cumboy-in-space.json](./370467-cumboy-in-space.json) |
+| Cumboy in Space 2 | 370443 | [370443-cumboy-in-space-2.json](./370443-cumboy-in-space-2.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
