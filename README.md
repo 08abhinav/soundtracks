@@ -836,6 +836,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/a0/d8/73a0d863-a38e-8f32-e9d2-6efbabbaa7e1/196872755732.jpg/600x600bb.jpg" width="60" /> | [LEGO Horizon Adventures](https://ostdb.net/games/lego-horizon-adventures) | **LEGO® Horizon Adventures™ (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/lego-horizon-adventures-original-game-soundtrack/1805638652?uo=4) · [Album](https://album.link/i/1805638652) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273440265622dca32b5b819f1be" width="60" /> | [LEGO Marvel Super Heroes](https://ostdb.net/games/lego-marvel-super-heroes) | **Marvel Superheroes Compilation, Vol. one** · [Spotify](https://open.spotify.com/album/4HyhfPFm4VjGygwV3As5ef) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27363e21532c3c69a653859462c" width="60" /> | [LEGO Voyagers](https://ostdb.net/games/lego-voyagers) | **LEGO Voyagers (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7rjVUsWvSi304oX18mWTYm) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734880d257256de0396cdc7a0d" width="60" /> | [Last Day of June](https://ostdb.net/games/last-day-of-june) | **Last Day Of June (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5e5WJwdXlbWIDbQuoSd4uJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27389a4ac2f90eae803ba519d5d" width="60" /> | [Last Epoch](https://ostdb.net/games/last-epoch) | **Last Epoch (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0vXDBzCpZJzeNqi4WQ0Alm) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/96/99/7196995f-ce3c-06fb-c5f6-27bb5ad0d948/artwork.jpg/600x600bb.jpg" width="60" /> | [Last Sentinel](https://ostdb.net/games/last-sentinel) | **Last Sentinel: Chapter Green, Vol. 1 (Original Game Soundtrack) - Single** · [Spotify](https://music.apple.com/us/album/last-sentinel-chapter-green-vol-1-original-game-soundtrack/1885208502?uo=4) · [Album](https://album.link/i/1885208502) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dbb8a06ba83de4596d58adbb" width="60" /> | [LawBreakers](https://ostdb.net/games/lawbreakers) | **LawBreakers (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6JMhEu3PjQKCNwXn8fRn1u) |
@@ -1802,4 +1803,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2119 soundtracks · last updated 2026-10-17T15:50:49.853Z_
+_2120 soundtracks · last updated 2026-10-17T15:50:56.565Z_
