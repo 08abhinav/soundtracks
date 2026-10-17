@@ -6265,7 +6265,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
 | Green Hawk Platoon | 215014 | [215014-green-hawk-platoon.json](./215014-green-hawk-platoon.json) |
 | Green Heights | 322094 | [322094-green-heights.json](./322094-green-heights.json) |
-| Green Hell | 101461 | [101461-green-hell.json](./101461-green-hell.json) |
 | Green Hell VR | 152223 | [152223-green-hell-vr.json](./152223-green-hell-vr.json) |
 | Green Hill Zone 2.5D | 332550 | [332550-green-hill-zone-2-5d.json](./332550-green-hill-zone-2-5d.json) |
 | Green Horizon: VR Golf | 382531 | [382531-green-horizon-vr-golf.json](./382531-green-horizon-vr-golf.json) |
