@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:00:59.684Z",
-  "total_soundtracks": 2025,
+  "generated_at": "2026-10-17T15:01:07.663Z",
+  "total_soundtracks": 2026,
   "games": [
     {
       "igdb_id": 7522,
@@ -13659,6 +13659,20 @@
         {
           "album_name": "Mordhau (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ZND2W4JhgMCy14xpED0LC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 242237,
+      "game_name": "Mortal Kombat",
+      "game_url": "https://ostdb.net/games/mortal-kombat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c93bb650c2763bb25d92a4fb",
+      "albums": [
+        {
+          "album_name": "Mortal Kombat (Soundtrack from the Arcade Game) [2021 Remaster]",
+          "spotify_url": "https://open.spotify.com/album/5ADzg7I1UtDGjAPP57XNjO",
           "apple_music_url": "",
           "album_link_url": ""
         }
