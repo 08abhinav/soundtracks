@@ -1091,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
+| Eggconsole Super Laydock Mission Striker MSX | 380840 | [380840-eggconsole-super-laydock-mission-striker-msx.json](./380840-eggconsole-super-laydock-mission-striker-msx.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
 | Eggconsole Templo Del Sol: Asteka II PC-8801 | 319319 | [319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json](./319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evacuation Zone: Tampere | 342759 | [342759-evacuation-zone-tampere.json](./342759-evacuation-zone-tampere.json) |
 | Evade 2 | 144373 | [144373-evade-2.json](./144373-evade-2.json) |
 | Evade 2 | 227469 | [227469-evade-2.json](./227469-evade-2.json) |
+| Evade Prison | 380812 | [380812-evade-prison.json](./380812-evade-prison.json) |
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evade Zero | 169745 | [169745-evade-zero.json](./169745-evade-zero.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
@@ -4872,6 +4874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody's Sad | 113672 | [113672-everybodys-sad.json](./113672-everybodys-sad.json) |
 | Everybody's Solitary | 183817 | [183817-everybodys-solitary.json](./183817-everybodys-solitary.json) |
 | Everyday Baseball VR | 107415 | [107415-everyday-baseball-vr.json](./107415-everyday-baseball-vr.json) |
+| Everyday Devil | 380839 | [380839-everyday-devil.json](./380839-everyday-devil.json) |
 | Everyday Heroines: 3 in 1 | 332012 | [332012-everyday-heroines-3-in-1.json](./332012-everyday-heroines-3-in-1.json) |
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
