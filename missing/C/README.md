@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
+| Card Make Arena | 414129 | [414129-card-make-arena.json](./414129-card-make-arena.json) |
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
@@ -12591,6 +12592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowned in Steel | 278482 | [278482-crowned-in-steel.json](./278482-crowned-in-steel.json) |
 | CrownFall | 82506 | [82506-crownfall.json](./82506-crownfall.json) |
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
+| Crownhold | 414112 | [414112-crownhold.json](./414112-crownhold.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
@@ -13586,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
 | Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
+| Curb Hound | 414100 | [414100-curb-hound.json](./414100-curb-hound.json) |
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
