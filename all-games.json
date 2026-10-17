@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:22:48.303Z",
-  "total_soundtracks": 2071,
+  "generated_at": "2026-10-17T15:22:56.494Z",
+  "total_soundtracks": 2072,
   "games": [
     {
       "igdb_id": 7522,
@@ -20281,6 +20281,20 @@
         {
           "album_name": "Tales of Vesperia Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1212,
+      "game_name": "Tales of Xillia",
+      "game_url": "https://ostdb.net/games/tales-of-xillia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d08c3dd9d3d1703a37736697",
+      "albums": [
+        {
+          "album_name": "TALES OF XILLIA Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2ELrHq6HrVN6jgSyC0XhBn",
           "apple_music_url": "",
           "album_link_url": ""
         }
