@@ -4663,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With You | 188710 | [188710-with-you.json](./188710-with-you.json) |
 | With You: Mitsumete Itai | 37347 | [37347-with-you-mitsumete-itai.json](./37347-with-you-mitsumete-itai.json) |
+| Wither | 376822 | [376822-wither.json](./376822-wither.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Witherheart | 396463 | [396463-witherheart.json](./396463-witherheart.json) |
