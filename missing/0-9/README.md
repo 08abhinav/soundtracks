@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
+| [Visible] | 381404 | [381404-visible.json](./381404-visible.json) |
 | {Undefined} | 159190 | [159190-undefined.json](./159190-undefined.json) |
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
@@ -808,6 +809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants | 203858 | [203858-14-minesweeper-variants.json](./203858-14-minesweeper-variants.json) |
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
+| 14 Nights With Beatrice | 381403 | [381403-14-nights-with-beatrice.json](./381403-14-nights-with-beatrice.json) |
 | 14/? | 259464 | [259464-14.json](./259464-14.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
 | 141 | 126351 | [126351-141.json](./126351-141.json) |
