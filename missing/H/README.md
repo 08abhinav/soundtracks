@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
 | Hangman | 377831 | [377831-hangman.json](./377831-hangman.json) |
+| Hangman | 388282 | [388282-hangman.json](./388282-hangman.json) |
 | Hangman 2 | 181652 | [181652-hangman-2.json](./181652-hangman-2.json) |
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
