@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
 | ZombWave | 207402 | [207402-zombwave.json](./207402-zombwave.json) |
 | ZomDay | 54476 | [54476-zomday.json](./54476-zomday.json) |
+| Zomdied | 399432 | [399432-zomdied.json](./399432-zomdied.json) |
 | ZOMG! | 25020 | [25020-zomg.json](./25020-zomg.json) |
 | Zomon: The Path of Heroes | 19208 | [19208-zomon-the-path-of-heroes.json](./19208-zomon-the-path-of-heroes.json) |
 | Zompell | 357439 | [357439-zompell.json](./357439-zompell.json) |
