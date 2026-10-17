@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T00:21:04.188Z",
-  "total_missing": 221419,
+  "generated_at": "2026-10-17T00:35:29.518Z",
+  "total_missing": 221469,
   "games": [
     {
       "igdb_id": 191680,
@@ -6582,6 +6582,11 @@
       "file": "missing/0-9/386485-2xko-ps-benefit-bundle-y1s1.json"
     },
     {
+      "igdb_id": 415424,
+      "game_name": "2XKO: PS+ Benefit Bundle Y1S3",
+      "file": "missing/0-9/415424-2xko-ps-benefit-bundle-y1s3.json"
+    },
+    {
       "igdb_id": 386484,
       "game_name": "2XKO: Starter Edition Standard",
       "file": "missing/0-9/386484-2xko-starter-edition-standard.json"
@@ -7250,6 +7255,11 @@
       "igdb_id": 318700,
       "game_name": "30XX: Feline Fury",
       "file": "missing/0-9/318700-30xx-feline-fury.json"
+    },
+    {
+      "igdb_id": 415384,
+      "game_name": "31 Full Games for Everyone",
+      "file": "missing/0-9/415384-31-full-games-for-everyone.json"
     },
     {
       "igdb_id": 315648,
@@ -141582,6 +141592,11 @@
       "file": "missing/C/47425-call-of-duty-modern-warfare-3-hardened-edition.json"
     },
     {
+      "igdb_id": 415399,
+      "game_name": "Call of Duty: Modern Warfare 4 - Vault Edition",
+      "file": "missing/C/415399-call-of-duty-modern-warfare-4-vault-edition.json"
+    },
+    {
       "igdb_id": 136209,
       "game_name": "Call of Duty: Modern Warfare Collection",
       "file": "missing/C/136209-call-of-duty-modern-warfare-collection.json"
@@ -149205,6 +149220,11 @@
       "igdb_id": 53777,
       "game_name": "Cartoon Collection",
       "file": "missing/C/53777-cartoon-collection.json"
+    },
+    {
+      "igdb_id": 415431,
+      "game_name": "Cartoon Crime",
+      "file": "missing/C/415431-cartoon-crime.json"
     },
     {
       "igdb_id": 95865,
@@ -160325,6 +160345,11 @@
       "igdb_id": 411104,
       "game_name": "ChatGladiators",
       "file": "missing/C/411104-chatgladiators.json"
+    },
+    {
+      "igdb_id": 415433,
+      "game_name": "Chatle",
+      "file": "missing/C/415433-chatle.json"
     },
     {
       "igdb_id": 306678,
@@ -186232,6 +186257,11 @@
       "file": "missing/C/402567-console-archives-toujin-makyou-den-heracles-no-eikou.json"
     },
     {
+      "igdb_id": 415385,
+      "game_name": "Console Archives: Touki Denshou Angel Eyes",
+      "file": "missing/C/415385-console-archives-touki-denshou-angel-eyes.json"
+    },
+    {
       "igdb_id": 407308,
       "game_name": "Console Colour: Disney's Planes",
       "file": "missing/C/407308-console-colour-disneys-planes.json"
@@ -193412,6 +193442,11 @@
       "file": "missing/C/279006-cozy-escapes.json"
     },
     {
+      "igdb_id": 415386,
+      "game_name": "Cozy Farm Defense",
+      "file": "missing/C/415386-cozy-farm-defense.json"
+    },
+    {
       "igdb_id": 412458,
       "game_name": "Cozy Farm Life Simulator",
       "file": "missing/C/412458-cozy-farm-life-simulator.json"
@@ -198990,6 +199025,11 @@
       "igdb_id": 11746,
       "game_name": "Criminal Girls: Invite Only",
       "file": "missing/C/11746-criminal-girls-invite-only.json"
+    },
+    {
+      "igdb_id": 415387,
+      "game_name": "Criminal Hearts: Obsession Bad Girls Dating Sim",
+      "file": "missing/C/415387-criminal-hearts-obsession-bad-girls-dating-sim.json"
     },
     {
       "igdb_id": 90528,
@@ -236757,6 +236797,11 @@
       "file": "missing/D/349974-destined-corp-awakening.json"
     },
     {
+      "igdb_id": 415435,
+      "game_name": "Destined Notes: The Written Fate",
+      "file": "missing/D/415435-destined-notes-the-written-fate.json"
+    },
+    {
       "igdb_id": 163230,
       "game_name": "Destined to Love: Ikemen Samurai Romances",
       "file": "missing/D/163230-destined-to-love-ikemen-samurai-romances.json"
@@ -248065,6 +248110,11 @@
       "igdb_id": 20654,
       "game_name": "Disruptor",
       "file": "missing/D/20654-disruptor.json"
+    },
+    {
+      "igdb_id": 415444,
+      "game_name": "Diss Diss Discussion",
+      "file": "missing/D/415444-diss-diss-discussion.json"
     },
     {
       "igdb_id": 291373,
@@ -268957,6 +269007,11 @@
       "file": "missing/D/269827-driver-dans-story-train.json"
     },
     {
+      "igdb_id": 415422,
+      "game_name": "Driver Manager",
+      "file": "missing/D/415422-driver-manager.json"
+    },
+    {
       "igdb_id": 240107,
       "game_name": "Driver Mini",
       "file": "missing/D/240107-driver-mini.json"
@@ -279032,6 +279087,26 @@
       "file": "missing/E/27283-earth-defense-force-5.json"
     },
     {
+      "igdb_id": 415400,
+      "game_name": "Earth Defense Force 5: Air Raider Piloted Weapon - Blacker Number 5",
+      "file": "missing/E/415400-earth-defense-force-5-air-raider-piloted-weapon-blacker-number-5.json"
+    },
+    {
+      "igdb_id": 415401,
+      "game_name": "Earth Defense Force 5: Air Raider Piloted Weapon - Combat Frame Phantasia Shield Nyx",
+      "file": "missing/E/415401-earth-defense-force-5-air-raider-piloted-weapon-combat-frame-phantasia-shield-nyx.json"
+    },
+    {
+      "igdb_id": 415402,
+      "game_name": "Earth Defense Force 5: Air Raider Vehicle - Caliban Armored Ambulance Joyful Marking",
+      "file": "missing/E/415402-earth-defense-force-5-air-raider-vehicle-caliban-armored-ambulance-joyful-marking.json"
+    },
+    {
+      "igdb_id": 415403,
+      "game_name": "Earth Defense Force 5: Air Raider Weapon - FZ-GUN",
+      "file": "missing/E/415403-earth-defense-force-5-air-raider-weapon-fz-gun.json"
+    },
+    {
       "igdb_id": 168230,
       "game_name": "Earth Defense Force 5: Air Raider Weapon Singing and Dancing Pure Decoy Launcher Set of 8",
       "file": "missing/E/168230-earth-defense-force-5-air-raider-weapon-singing-and-dancing-pure-decoy-launcher-set-of-8.json"
@@ -279042,14 +279117,64 @@
       "file": "missing/E/118953-earth-defense-force-5-deluxe-edition.json"
     },
     {
+      "igdb_id": 415404,
+      "game_name": "Earth Defense Force 5: Fencer Support Device - Wild Skeleton",
+      "file": "missing/E/415404-earth-defense-force-5-fencer-support-device-wild-skeleton.json"
+    },
+    {
+      "igdb_id": 415405,
+      "game_name": "Earth Defense Force 5: Fencer Weapon - Grim Reaper Shield",
+      "file": "missing/E/415405-earth-defense-force-5-fencer-weapon-grim-reaper-shield.json"
+    },
+    {
+      "igdb_id": 415406,
+      "game_name": "Earth Defense Force 5: Fencer Weapon - Happy Body Pillow",
+      "file": "missing/E/415406-earth-defense-force-5-fencer-weapon-happy-body-pillow.json"
+    },
+    {
       "igdb_id": 168223,
       "game_name": "Earth Defense Force 5: Mission Pack 2 - Super Challenge",
       "file": "missing/E/168223-earth-defense-force-5-mission-pack-2-super-challenge.json"
     },
     {
+      "igdb_id": 415407,
+      "game_name": "Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Civilian)",
+      "file": "missing/E/415407-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-civilian.json"
+    },
+    {
+      "igdb_id": 415408,
+      "game_name": "Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Soldier)",
+      "file": "missing/E/415408-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-soldier.json"
+    },
+    {
+      "igdb_id": 415409,
+      "game_name": "Earth Defense Force 5: Ranger Piloted Weapon - Blacker Number 4.1",
+      "file": "missing/E/415409-earth-defense-force-5-ranger-piloted-weapon-blacker-number-4-1.json"
+    },
+    {
+      "igdb_id": 415410,
+      "game_name": "Earth Defense Force 5: Ranger Piloted Weapon - Omega Freesia",
+      "file": "missing/E/415410-earth-defense-force-5-ranger-piloted-weapon-omega-freesia.json"
+    },
+    {
+      "igdb_id": 415411,
+      "game_name": "Earth Defense Force 5: Ranger Support Device - Detector S-Type",
+      "file": "missing/E/415411-earth-defense-force-5-ranger-support-device-detector-s-type.json"
+    },
+    {
+      "igdb_id": 415412,
+      "game_name": "Earth Defense Force 5: Ranger Vehicle - Light Truck",
+      "file": "missing/E/415412-earth-defense-force-5-ranger-vehicle-light-truck.json"
+    },
+    {
       "igdb_id": 168236,
       "game_name": "Earth Defense Force 5: Ranger Weapon Decoy Launcher (Pale Wing)",
       "file": "missing/E/168236-earth-defense-force-5-ranger-weapon-decoy-launcher-pale-wing.json"
+    },
+    {
+      "igdb_id": 415413,
+      "game_name": "Earth Defense Force 5: Wing Diver Support Device - Reverse Core S-Type",
+      "file": "missing/E/415413-earth-defense-force-5-wing-diver-support-device-reverse-core-s-type.json"
     },
     {
       "igdb_id": 137427,
@@ -295567,6 +295692,11 @@
       "file": "missing/E/96936-escape-asylum.json"
     },
     {
+      "igdb_id": 415388,
+      "game_name": "Escape Backrooms Collection",
+      "file": "missing/E/415388-escape-backrooms-collection.json"
+    },
+    {
       "igdb_id": 261206,
       "game_name": "Escape Basement",
       "file": "missing/E/261206-escape-basement.json"
@@ -297042,6 +297172,11 @@
       "file": "missing/E/264766-escape-room-romy-project.json"
     },
     {
+      "igdb_id": 415389,
+      "game_name": "Escape Room: The Secret Portal Puzzle",
+      "file": "missing/E/415389-escape-room-the-secret-portal-puzzle.json"
+    },
+    {
       "igdb_id": 190030,
       "game_name": "Escape Room: The Sorcerer's Curse",
       "file": "missing/E/190030-escape-room-the-sorcerers-curse.json"
@@ -297230,6 +297365,11 @@
       "igdb_id": 297093,
       "game_name": "Escape The Evil",
       "file": "missing/E/297093-escape-the-evil.json"
+    },
+    {
+      "igdb_id": 415419,
+      "game_name": "Escape the Exomoon",
+      "file": "missing/E/415419-escape-the-exomoon.json"
     },
     {
       "igdb_id": 274486,
@@ -334512,6 +334652,11 @@
       "file": "missing/F/401128-flight-simulator-2026.json"
     },
     {
+      "igdb_id": 415390,
+      "game_name": "Flight Simulator 2026 Collection",
+      "file": "missing/F/415390-flight-simulator-2026-collection.json"
+    },
+    {
       "igdb_id": 223935,
       "game_name": "Flight Simulator 2d",
       "file": "missing/F/223935-flight-simulator-2d.json"
@@ -358932,6 +359077,11 @@
       "file": "missing/G/109047-galactose-pastries-in-space.json"
     },
     {
+      "igdb_id": 415443,
+      "game_name": "Galactum Meridian",
+      "file": "missing/G/415443-galactum-meridian.json"
+    },
+    {
       "igdb_id": 26484,
       "game_name": "Galador: The Prince and the Coward",
       "file": "missing/G/26484-galador-the-prince-and-the-coward.json"
@@ -362700,6 +362850,11 @@
       "igdb_id": 345628,
       "game_name": "Garagem SA",
       "file": "missing/G/345628-garagem-sa.json"
+    },
+    {
+      "igdb_id": 415414,
+      "game_name": "Garaji",
+      "file": "missing/G/415414-garaji.json"
     },
     {
       "igdb_id": 122882,
@@ -383587,6 +383742,11 @@
       "file": "missing/G/379685-granblue-fantasy-versus-rising-figure-studio-set-2.json"
     },
     {
+      "igdb_id": 415415,
+      "game_name": "Granblue Fantasy Versus: Rising - Legendary Edition",
+      "file": "missing/G/415415-granblue-fantasy-versus-rising-legendary-edition.json"
+    },
+    {
       "igdb_id": 379686,
       "game_name": "Granblue Fantasy Versus: Rising - Premium Avatar Set (Pop Team Epic)",
       "file": "missing/G/379686-granblue-fantasy-versus-rising-premium-avatar-set-pop-team-epic.json"
@@ -385600,6 +385760,11 @@
       "igdb_id": 397817,
       "game_name": "Graveyard Keeper II",
       "file": "missing/G/397817-graveyard-keeper-ii.json"
+    },
+    {
+      "igdb_id": 415416,
+      "game_name": "Graveyard Keeper II: Pre-Order Bonus",
+      "file": "missing/G/415416-graveyard-keeper-ii-pre-order-bonus.json"
     },
     {
       "igdb_id": 111556,
@@ -429297,6 +429462,11 @@
       "file": "missing/H/361297-honkai-impact-3rd-the-fleet-sets-sail.json"
     },
     {
+      "igdb_id": 415396,
+      "game_name": "Honkai Impact 3rd: The Light at Dream's End",
+      "file": "missing/H/415396-honkai-impact-3rd-the-light-at-dreams-end.json"
+    },
+    {
       "igdb_id": 282498,
       "game_name": "Honkai Impact 3rd: The Wings to Mars",
       "file": "missing/H/282498-honkai-impact-3rd-the-wings-to-mars.json"
@@ -440862,6 +441032,11 @@
       "file": "missing/I/323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json"
     },
     {
+      "igdb_id": 415391,
+      "game_name": "I am an Air Traffic Controller: Airport Hero Centrair EX",
+      "file": "missing/I/415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json"
+    },
+    {
       "igdb_id": 237971,
       "game_name": "I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack",
       "file": "missing/I/237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json"
@@ -441335,6 +441510,11 @@
       "igdb_id": 340501,
       "game_name": "I Bug",
       "file": "missing/I/340501-i-bug.json"
+    },
+    {
+      "igdb_id": 415445,
+      "game_name": "I Buried Steve",
+      "file": "missing/I/415445-i-buried-steve.json"
     },
     {
       "igdb_id": 84543,
@@ -506365,6 +506545,11 @@
       "igdb_id": 413756,
       "game_name": "Last Breath",
       "file": "missing/L/413756-last-breath.json"
+    },
+    {
+      "igdb_id": 415436,
+      "game_name": "Last Breath",
+      "file": "missing/L/415436-last-breath.json"
     },
     {
       "igdb_id": 39451,
@@ -608867,6 +609052,11 @@
       "file": "missing/M/415072-my-friend-the-wickhorn.json"
     },
     {
+      "igdb_id": 415395,
+      "game_name": "My Friendly Little Island Deluxe",
+      "file": "missing/M/415395-my-friendly-little-island-deluxe.json"
+    },
+    {
       "igdb_id": 172023,
       "game_name": "My Friendly Neighborhood",
       "file": "missing/M/172023-my-friendly-neighborhood.json"
@@ -648117,6 +648307,11 @@
       "file": "missing/O/46266-olympic-gold-barcelona-92.json"
     },
     {
+      "igdb_id": 415438,
+      "game_name": "Olympic Snow Girl",
+      "file": "missing/O/415438-olympic-snow-girl.json"
+    },
+    {
       "igdb_id": 4292,
       "game_name": "Olympic Soccer",
       "file": "missing/O/4292-olympic-soccer.json"
@@ -666730,6 +666925,11 @@
       "igdb_id": 166517,
       "game_name": "PAL: Shinken Densetsu",
       "file": "missing/P/166517-pal-shinken-densetsu.json"
+    },
+    {
+      "igdb_id": 415393,
+      "game_name": "Palabras en inglés para aprender en la primaria",
+      "file": "missing/P/415393-palabras-en-ingles-para-aprender-en-la-primaria.json"
     },
     {
       "igdb_id": 343389,
@@ -757142,6 +757342,11 @@
       "file": "missing/R/320242-revert.json"
     },
     {
+      "igdb_id": 415420,
+      "game_name": "Revertices",
+      "file": "missing/R/415420-revertices.json"
+    },
+    {
       "igdb_id": 121619,
       "game_name": "Revery Rebirth",
       "file": "missing/R/121619-revery-rebirth.json"
@@ -826067,6 +826272,11 @@
       "file": "missing/S/13079-sleepwalker.json"
     },
     {
+      "igdb_id": 415423,
+      "game_name": "Sleepwalker",
+      "file": "missing/S/415423-sleepwalker.json"
+    },
+    {
       "igdb_id": 96686,
       "game_name": "Sleepwalker",
       "file": "missing/S/96686-sleepwalker.json"
@@ -827510,6 +827720,11 @@
       "igdb_id": 144787,
       "game_name": "Slimey, Jump!",
       "file": "missing/S/144787-slimey-jump.json"
+    },
+    {
+      "igdb_id": 415426,
+      "game_name": "Slimey's Mine",
+      "file": "missing/S/415426-slimeys-mine.json"
     },
     {
       "igdb_id": 333696,
@@ -918892,6 +919107,11 @@
       "file": "missing/T/288335-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants.json"
     },
     {
+      "igdb_id": 415394,
+      "game_name": "Teenage Mutant Ninja Turtles Arcade: Wrath of The Mutants - Ninja Edition",
+      "file": "missing/T/415394-teenage-mutant-ninja-turtles-arcade-wrath-of-the-mutants-ninja-edition.json"
+    },
+    {
       "igdb_id": 78938,
       "game_name": "Teenage Mutant Ninja Turtles Double Pack",
       "file": "missing/T/78938-teenage-mutant-ninja-turtles-double-pack.json"
@@ -931385,6 +931605,11 @@
       "igdb_id": 98252,
       "game_name": "The Cannonball Run 2",
       "file": "missing/T/98252-the-cannonball-run-2.json"
+    },
+    {
+      "igdb_id": 415397,
+      "game_name": "The Canon Keeper",
+      "file": "missing/T/415397-the-canon-keeper.json"
     },
     {
       "igdb_id": 246090,
@@ -949400,6 +949625,11 @@
       "igdb_id": 396902,
       "game_name": "The Last Opening",
       "file": "missing/T/396902-the-last-opening.json"
+    },
+    {
+      "igdb_id": 415421,
+      "game_name": "The Last Ores",
+      "file": "missing/T/415421-the-last-ores.json"
     },
     {
       "igdb_id": 392897,
@@ -1045732,6 +1045962,11 @@
       "file": "missing/V/85476-viking-invasion-2-tower-defense.json"
     },
     {
+      "igdb_id": 415427,
+      "game_name": "Viking Raiders",
+      "file": "missing/V/415427-viking-raiders.json"
+    },
+    {
       "igdb_id": 246290,
       "game_name": "Viking Rise",
       "file": "missing/V/246290-viking-rise.json"
@@ -1049435,6 +1049670,11 @@
       "igdb_id": 410395,
       "game_name": "Void Captains",
       "file": "missing/V/410395-void-captains.json"
+    },
+    {
+      "igdb_id": 415441,
+      "game_name": "Void Cargo: Equilibrium",
+      "file": "missing/V/415441-void-cargo-equilibrium.json"
     },
     {
       "igdb_id": 304698,
@@ -1068130,6 +1068370,11 @@
       "igdb_id": 177937,
       "game_name": "Where To?",
       "file": "missing/W/177937-where-to.json"
+    },
+    {
+      "igdb_id": 415434,
+      "game_name": "Where To?",
+      "file": "missing/W/415434-where-to.json"
     },
     {
       "igdb_id": 305971,
@@ -1099755,6 +1100000,11 @@
       "igdb_id": 91901,
       "game_name": "Zeebo Sports Tênis",
       "file": "missing/Z/91901-zeebo-sports-tenis.json"
+    },
+    {
+      "igdb_id": 415463,
+      "game_name": "Zeemenshu -Aftermath-",
+      "file": "missing/Z/415463-zeemenshu-aftermath.json"
     },
     {
       "igdb_id": 224119,
