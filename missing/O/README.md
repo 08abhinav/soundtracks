@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
+| One Man and His Dinosaur | 396430 | [396430-one-man-and-his-dinosaur.json](./396430-one-man-and-his-dinosaur.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man Army | 402565 | [402565-one-man-army.json](./402565-one-man-army.json) |
 | One Man Army | 65462 | [65462-one-man-army.json](./65462-one-man-army.json) |
