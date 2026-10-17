@@ -7953,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
+| Coin Harvest | 389480 | [389480-coin-harvest.json](./389480-coin-harvest.json) |
 | Coin Hound Lounge | 202015 | [202015-coin-hound-lounge.json](./202015-coin-hound-lounge.json) |
 | Coin Hunt World! | 153128 | [153128-coin-hunt-world.json](./153128-coin-hunt-world.json) |
 | Coin Hunter | 331678 | [331678-coin-hunter.json](./331678-coin-hunter.json) |
