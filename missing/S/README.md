@@ -13254,7 +13254,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
-| Soulstone Survivors | 210585 | [210585-soulstone-survivors.json](./210585-soulstone-survivors.json) |
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
@@ -18432,7 +18431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamshovel Harry | 282809 | [282809-steamshovel-harry.json](./282809-steamshovel-harry.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
-| SteamWorld Build | 232908 | [232908-steamworld-build.json](./232908-steamworld-build.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Build: Deluxe Edition | 295643 | [295643-steamworld-build-deluxe-edition.json](./295643-steamworld-build-deluxe-edition.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
