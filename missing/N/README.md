@@ -3529,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
+| Niman | 370983 | [370983-niman.json](./370983-niman.json) |
 | Nimbatus: Drone Creator | 132564 | [132564-nimbatus-drone-creator.json](./132564-nimbatus-drone-creator.json) |
 | Nimbit Frontier | 258173 | [258173-nimbit-frontier.json](./258173-nimbit-frontier.json) |
 | Nimble Bunn | 68805 | [68805-nimble-bunn.json](./68805-nimble-bunn.json) |
@@ -4647,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Linear Text Quests | 103924 | [103924-non-linear-text-quests.json](./103924-non-linear-text-quests.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
+| Non-Virtual Reality Games | 371033 | [371033-non-virtual-reality-games.json](./371033-non-virtual-reality-games.json) |
 | Nona's Game | 211925 | [211925-nonas-game.json](./211925-nonas-game.json) |
 | Nonamed | 84264 | [84264-nonamed.json](./84264-nonamed.json) |
 | None | 229652 | [229652-none.json](./229652-none.json) |
@@ -4661,6 +4663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonet Sympathia | 124761 | [124761-nonet-sympathia.json](./124761-nonet-sympathia.json) |
 | Nonetbeat | 374402 | [374402-nonetbeat.json](./374402-nonetbeat.json) |
 | Nonetheless | 294362 | [294362-nonetheless.json](./294362-nonetheless.json) |
+| NonFullControl | 370988 | [370988-nonfullcontrol.json](./370988-nonfullcontrol.json) |
 | Nongon Alpha | 56305 | [56305-nongon-alpha.json](./56305-nongon-alpha.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
