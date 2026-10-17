@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
 | Paranoia 2: Savior | 123592 | [123592-paranoia-2-savior.json](./123592-paranoia-2-savior.json) |
 | Paranoia Place | 214118 | [214118-paranoia-place.json](./214118-paranoia-place.json) |
+| Paranoia Vol 1 | 398269 | [398269-paranoia-vol-1.json](./398269-paranoia-vol-1.json) |
 | Paranoia: Happiness is Mandatory | 117313 | [117313-paranoia-happiness-is-mandatory.json](./117313-paranoia-happiness-is-mandatory.json) |
 | Paranoia: The Game Edition | 255574 | [255574-paranoia-the-game-edition.json](./255574-paranoia-the-game-edition.json) |
 | Paranoia: The Official Video Game | 90105 | [90105-paranoia-the-official-video-game.json](./90105-paranoia-the-official-video-game.json) |
@@ -3903,6 +3904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phaser | 138492 | [138492-phaser.json](./138492-phaser.json) |
 | Phaser Fire | 172725 | [172725-phaser-fire.json](./172725-phaser-fire.json) |
 | Phaser Patrol | 18564 | [18564-phaser-patrol.json](./18564-phaser-patrol.json) |
+| Phases | 398280 | [398280-phases.json](./398280-phases.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
@@ -8480,6 +8482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pollywog | 386398 | [386398-pollywog.json](./386398-pollywog.json) |
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | Polo | 40661 | [40661-polo.json](./40661-polo.json) |
+| Polt | 398311 | [398311-polt.json](./398311-polt.json) |
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
@@ -9312,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
 | Postmortem: One must Die | 10715 | [10715-postmortem-one-must-die.json](./10715-postmortem-one-must-die.json) |
 | Postmortem: One Must Die (Extended Cut) | 30257 | [30257-postmortem-one-must-die-extended-cut.json](./30257-postmortem-one-must-die-extended-cut.json) |
+| Postponed | 398301 | [398301-postponed.json](./398301-postponed.json) |
 | PostScriptum | 360043 | [360043-postscriptum.json](./360043-postscriptum.json) |
 | PostZ: Zombies VR | 172148 | [172148-postz-zombies-vr.json](./172148-postz-zombies-vr.json) |
 | Poszukiwacze Zaginionej Warszawy | 85962 | [85962-poszukiwacze-zaginionej-warszawy.json](./85962-poszukiwacze-zaginionej-warszawy.json) |
@@ -12395,6 +12399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Hold 'Em World Poker Championships | 201056 | [201056-pure-hold-em-world-poker-championships.json](./201056-pure-hold-em-world-poker-championships.json) |
 | Pure Hold'em | 17840 | [17840-pure-holdem.json](./17840-pure-holdem.json) |
 | Pure Hold'em: Full House Poker Bundle | 90984 | [90984-pure-holdem-full-house-poker-bundle.json](./90984-pure-holdem-full-house-poker-bundle.json) |
+| Pure Idle | 398297 | [398297-pure-idle.json](./398297-pure-idle.json) |
 | Pure Love | 368048 | [368048-pure-love.json](./368048-pure-love.json) |
 | Pure Mahjong | 119518 | [119518-pure-mahjong.json](./119518-pure-mahjong.json) |
 | Pure Metal: Feature 1 | 169288 | [169288-pure-metal-feature-1.json](./169288-pure-metal-feature-1.json) |
