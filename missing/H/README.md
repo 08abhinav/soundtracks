@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haos | 164086 | [164086-haos.json](./164086-haos.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
+| Hapervil | 410714 | [410714-hapervil.json](./410714-hapervil.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Hapland 3 | 336009 | [336009-hapland-3.json](./336009-hapland-3.json) |
 | Hapland Trilogy | 164044 | [164044-hapland-trilogy.json](./164044-hapland-trilogy.json) |
@@ -6494,6 +6495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Bee | 71186 | [71186-honey-bee.json](./71186-honey-bee.json) |
 | Honey Bee With Guns | 298663 | [298663-honey-bee-with-guns.json](./298663-honey-bee-with-guns.json) |
 | Honey Bunny | 265699 | [265699-honey-bunny.json](./265699-honey-bunny.json) |
+| Honey Coming Clair Mini Fan Disc | 410716 | [410716-honey-coming-clair-mini-fan-disc.json](./410716-honey-coming-clair-mini-fan-disc.json) |
 | Honey Dance | 130083 | [130083-honey-dance.json](./130083-honey-dance.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
