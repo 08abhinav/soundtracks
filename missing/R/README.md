@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Blue | 111197 | [111197-red-blue.json](./111197-red-blue.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
 | Red Book: Discordia Tales | 151825 | [151825-red-book-discordia-tales.json](./151825-red-book-discordia-tales.json) |
+| Red Booth | 381400 | [381400-red-booth.json](./381400-red-booth.json) |
 | Red Bow | 118122 | [118122-red-bow.json](./118122-red-bow.json) |
 | Red Bow: Strange Dream | 380998 | [380998-red-bow-strange-dream.json](./380998-red-bow-strange-dream.json) |
 | Red Brick Hotel | 163401 | [163401-red-brick-hotel.json](./163401-red-brick-hotel.json) |
@@ -7777,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooster: Princess Rescue | 409558 | [409558-rooster-princess-rescue.json](./409558-rooster-princess-rescue.json) |
 | Root | 139145 | [139145-root.json](./139145-root.json) |
 | Root | 24036 | [24036-root.json](./24036-root.json) |
+| Root | 381321 | [381321-root.json](./381321-root.json) |
 | Root After and Another | 72720 | [72720-root-after-and-another.json](./72720-root-after-and-another.json) |
 | Root Bear | 235214 | [235214-root-bear.json](./235214-root-bear.json) |
 | Root Beer on Tap | 115566 | [115566-root-beer-on-tap.json](./115566-root-beer-on-tap.json) |
