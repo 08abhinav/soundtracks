@@ -2443,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Torgeath Redux | 130180 | [130180-castle-torgeath-redux.json](./130180-castle-torgeath-redux.json) |
 | Castle Torgeath: Descent into Darkness | 26590 | [26590-castle-torgeath-descent-into-darkness.json](./26590-castle-torgeath-descent-into-darkness.json) |
 | Castle Travel | 364563 | [364563-castle-travel.json](./364563-castle-travel.json) |
+| Castle Tycoon Simulator | 393415 | [393415-castle-tycoon-simulator.json](./393415-castle-tycoon-simulator.json) |
 | Castle V Castle | 331947 | [331947-castle-v-castle.json](./331947-castle-v-castle.json) |
 | Castle Walker | 216410 | [216410-castle-walker.json](./216410-castle-walker.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
 | Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
+| Cathode Quest 64 | 393412 | [393412-cathode-quest-64.json](./393412-cathode-quest-64.json) |
 | Cathode Ray Sunshine | 290340 | [290340-cathode-ray-sunshine.json](./290340-cathode-ray-sunshine.json) |
 | Cathode Ray Tube Amusement Device | 11321 | [11321-cathode-ray-tube-amusement-device.json](./11321-cathode-ray-tube-amusement-device.json) |
 | Cathode-ray Tube Amusement Device Simulator | 340018 | [340018-cathode-ray-tube-amusement-device-simulator.json](./340018-cathode-ray-tube-amusement-device-simulator.json) |
@@ -11498,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
+| Crayon Little Dino | 393416 | [393416-crayon-little-dino.json](./393416-crayon-little-dino.json) |
 | Crayon Magic World | 402566 | [402566-crayon-magic-world.json](./402566-crayon-magic-world.json) |
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
@@ -11830,6 +11833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
 | Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
+| CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
 | Create | 4778 | [4778-create.json](./4778-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
