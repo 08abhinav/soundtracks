@@ -1320,6 +1320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Heroes | 59646 | [59646-2d-heroes.json](./59646-2d-heroes.json) |
 | 2D House of Terror | 94164 | [94164-2d-house-of-terror.json](./94164-2d-house-of-terror.json) |
 | 2D Indie Bundle | 301007 | [301007-2d-indie-bundle.json](./301007-2d-indie-bundle.json) |
+| 2D Knifflis | 365463 | [365463-2d-knifflis.json](./365463-2d-knifflis.json) |
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
@@ -1605,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
+| 3D Knifflis | 365464 | [365464-3d-knifflis.json](./365464-3d-knifflis.json) |
 | 3D Magic Chess HD | 90089 | [90089-3d-magic-chess-hd.json](./90089-3d-magic-chess-hd.json) |
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
@@ -1870,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
+| 4Blox | 365466 | [365466-4blox.json](./365466-4blox.json) |
 | 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
 | 4D Prince of Persia | 300521 | [300521-4d-prince-of-persia.json](./300521-4d-prince-of-persia.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
