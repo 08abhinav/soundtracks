@@ -6556,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinah's Dreamwoods | 399601 | [399601-dinahs-dreamwoods.json](./399601-dinahs-dreamwoods.json) |
 | DinD | 303477 | [303477-dind.json](./303477-dind.json) |
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
+| Dine-In Dungeon | 364872 | [364872-dine-in-dungeon.json](./364872-dine-in-dungeon.json) |
 | DineInn | 343434 | [343434-dineinn.json](./343434-dineinn.json) |
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Bros 2 | 346700 | [346700-diner-bros-2.json](./346700-diner-bros-2.json) |
@@ -8880,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Ball | 365814 | [365814-donkey-ball.json](./365814-donkey-ball.json) |
 | Donkey BoM | 398315 | [398315-donkey-bom.json](./398315-donkey-bom.json) |
 | Donkey Gorilla | 267992 | [267992-donkey-gorilla.json](./267992-donkey-gorilla.json) |
+| Donkey Jump: In the Loop | 364883 | [364883-donkey-jump-in-the-loop.json](./364883-donkey-jump-in-the-loop.json) |
 | Donkey King Arcade Game | 96713 | [96713-donkey-king-arcade-game.json](./96713-donkey-king-arcade-game.json) |
 | Donkey Kong | 1086 | [1086-donkey-kong.json](./1086-donkey-kong.json) |
 | Donkey Kong | 1089 | [1089-donkey-kong.json](./1089-donkey-kong.json) |
