@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Cameraman Part 2: Kawai Natsumi and Tachihara Kimi | 227812 | [227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json](./227812-virtual-cameraman-part-2-kawai-natsumi-and-tachihara-kimi.json) |
 | Virtual Cameraman Part 4: Toya Shiori | 217878 | [217878-virtual-cameraman-part-4-toya-shiori.json](./217878-virtual-cameraman-part-4-toya-shiori.json) |
 | Virtual Cameraman Part 5: Anzo Ari | 216769 | [216769-virtual-cameraman-part-5-anzo-ari.json](./216769-virtual-cameraman-part-5-anzo-ari.json) |
+| Virtual Campus | 384352 | [384352-virtual-campus.json](./384352-virtual-campus.json) |
 | Virtual Casino | 45517 | [45517-virtual-casino.json](./45517-virtual-casino.json) |
 | Virtual Cell | 63000 | [63000-virtual-cell.json](./63000-virtual-cell.json) |
 | Virtual Chess | 351645 | [351645-virtual-chess.json](./351645-virtual-chess.json) |
