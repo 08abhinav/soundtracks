@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life | 401474 | [401474-half-life.json](./401474-half-life.json) |
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
+| Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
 | Half-Life 2: Calamity | 185975 | [185975-half-life-2-calamity.json](./185975-half-life-2-calamity.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
@@ -3796,22 +3797,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
 | Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
 | Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
+| Hentai Tentacle Survivors | 366522 | [366522-hentai-tentacle-survivors.json](./366522-hentai-tentacle-survivors.json) |
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
+| Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
+| Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
 | Hentai vs. Evil | 146095 | [146095-hentai-vs-evil.json](./146095-hentai-vs-evil.json) |
 | Hentai vs. Furries | 164376 | [164376-hentai-vs-furries.json](./164376-hentai-vs-furries.json) |
 | Hentai vs. Orcs | 161388 | [161388-hentai-vs-orcs.json](./161388-hentai-vs-orcs.json) |
+| Hentai Waifu | 366525 | [366525-hentai-waifu.json](./366525-hentai-waifu.json) |
 | Hentai Waifu 101 | 156098 | [156098-hentai-waifu-101.json](./156098-hentai-waifu-101.json) |
 | Hentai Waifu 2 | 324451 | [324451-hentai-waifu-2.json](./324451-hentai-waifu-2.json) |
 | Hentai Waifu 4 | 330232 | [330232-hentai-waifu-4.json](./330232-hentai-waifu-4.json) |
 | Hentai Waifu 5 | 333734 | [333734-hentai-waifu-5.json](./333734-hentai-waifu-5.json) |
 | Hentai Waifu II | 286497 | [286497-hentai-waifu-ii.json](./286497-hentai-waifu-ii.json) |
+| Hentai War | 366526 | [366526-hentai-war.json](./366526-hentai-war.json) |
+| Hentai Warfare | 366527 | [366527-hentai-warfare.json](./366527-hentai-warfare.json) |
 | Hentai Witch | 296949 | [296949-hentai-witch.json](./296949-hentai-witch.json) |
 | Hentai Woman | 111585 | [111585-hentai-woman.json](./111585-hentai-woman.json) |
 | Hentai Words | 104151 | [104151-hentai-words.json](./104151-hentai-words.json) |
@@ -5683,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiromechia | 363935 | [363935-hiromechia.json](./363935-hiromechia.json) |
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiroshi | 343290 | [343290-hiroshi.json](./343290-hiroshi.json) |
+| Hirotonfa's American Revolution Smuggler | 366565 | [366565-hirotonfas-american-revolution-smuggler.json](./366565-hirotonfas-american-revolution-smuggler.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
 | Hiryuu no Ken Densetsu GB: SD Version | 351574 | [351574-hiryuu-no-ken-densetsu-gb-sd-version.json](./351574-hiryuu-no-ken-densetsu-gb-sd-version.json) |
@@ -8046,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HSX: Hypersonic Xtreme | 43656 | [43656-hsx-hypersonic-xtreme.json](./43656-hsx-hypersonic-xtreme.json) |
 | HTC | 221914 | [221914-htc.json](./221914-htc.json) |
 | HTD | 150960 | [150960-htd.json](./150960-htd.json) |
+| HTML5 Pacman | 366552 | [366552-html5-pacman.json](./366552-html5-pacman.json) |
 | htoL#NiQ: The Firefly Diary | 20055 | [20055-htol-niq-the-firefly-diary.json](./20055-htol-niq-the-firefly-diary.json) |
 | htoL#NiQ: The Firefly Diary - Limited Edition | 89918 | [89918-htol-niq-the-firefly-diary-limited-edition.json](./89918-htol-niq-the-firefly-diary-limited-edition.json) |
 | HTown Fight | 97530 | [97530-htown-fight.json](./97530-htown-fight.json) |
@@ -8834,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Wars | 243238 | [243238-hyper-wars.json](./243238-hyper-wars.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyper-5 | 145378 | [145378-hyper-5.json](./145378-hyper-5.json) |
+| Hyper-Casual Hentai | 366528 | [366528-hyper-casual-hentai.json](./366528-hyper-casual-hentai.json) |
 | Hyper-Galactic Spiders from Mars | 109180 | [109180-hyper-galactic-spiders-from-mars.json](./109180-hyper-galactic-spiders-from-mars.json) |
 | Hyper! Danganronpa H20: Abandon All Hope | 267987 | [267987-hyper-danganronpa-h20-abandon-all-hope.json](./267987-hyper-danganronpa-h20-abandon-all-hope.json) |
 | Hyper's Quest Reborn | 316969 | [316969-hypers-quest-reborn.json](./316969-hypers-quest-reborn.json) |
@@ -8987,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
 | Hyperwurm Is Back! | 400714 | [400714-hyperwurm-is-back.json](./400714-hyperwurm-is-back.json) |
+| HyperYuki: Snowboard Syndicate | 366586 | [366586-hyperyuki-snowboard-syndicate.json](./366586-hyperyuki-snowboard-syndicate.json) |
 | HyperZen Training | 105330 | [105330-hyperzen-training.json](./105330-hyperzen-training.json) |
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
