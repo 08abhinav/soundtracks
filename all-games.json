@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:01:14.521Z",
-  "total_soundtracks": 2011,
+  "generated_at": "2026-10-17T12:01:22.933Z",
+  "total_soundtracks": 2012,
   "games": [
     {
       "igdb_id": 7522,
@@ -17841,6 +17841,20 @@
         {
           "album_name": "Sins of a Solar Empire: Rebellion Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7xuAvuOZH36yFfosvVy6wM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14522,
+      "game_name": "Siren",
+      "game_url": "https://ostdb.net/games/siren",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735656fa8cbac1318774c7d93a",
+      "albums": [
+        {
+          "album_name": "SIREN ORIGINAL SOUNDTRACK (2023 Remaster)",
+          "spotify_url": "https://open.spotify.com/album/2gLdyc8Y3sFqqPdmo1GCvi",
           "apple_music_url": "",
           "album_link_url": ""
         }
