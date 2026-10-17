@@ -3142,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
 | Night Out | 183939 | [183939-night-out.json](./183939-night-out.json) |
 | Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
+| Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Pump | 399005 | [399005-night-pump.json](./399005-night-pump.json) |
@@ -4686,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonogram Animals | 305913 | [305913-nonogram-animals.json](./305913-nonogram-animals.json) |
 | Nonogram Desserts | 347759 | [347759-nonogram-desserts.json](./347759-nonogram-desserts.json) |
 | Nonogram Galaxy 2 | 212699 | [212699-nonogram-galaxy-2.json](./212699-nonogram-galaxy-2.json) |
+| Nonogram Kingdom | 368247 | [368247-nonogram-kingdom.json](./368247-nonogram-kingdom.json) |
 | Nonogram Madness | 102709 | [102709-nonogram-madness.json](./102709-nonogram-madness.json) |
 | Nonogram Maker | 399290 | [399290-nonogram-maker.json](./399290-nonogram-maker.json) |
 | Nonogram Minimal | 197918 | [197918-nonogram-minimal.json](./197918-nonogram-minimal.json) |
