@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hat on Time | 144070 | [144070-a-hat-on-time.json](./144070-a-hat-on-time.json) |
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
+| A Haunting Novel: Burton Hotel - Collector's Edition | 365462 | [365462-a-haunting-novel-burton-hotel-collectors-edition.json](./365462-a-haunting-novel-burton-hotel-collectors-edition.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
