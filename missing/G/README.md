@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo no Nazo | 62253 | [62253-gensokyo-no-nazo.json](./62253-gensokyo-no-nazo.json) |
 | Gensokyo Odyssey | 192364 | [192364-gensokyo-odyssey.json](./192364-gensokyo-odyssey.json) |
 | Gensokyo Pro Wrestling Muscle Tag Match | 287891 | [287891-gensokyo-pro-wrestling-muscle-tag-match.json](./287891-gensokyo-pro-wrestling-muscle-tag-match.json) |
+| Gensokyo Recollection | 405977 | [405977-gensokyo-recollection.json](./405977-gensokyo-recollection.json) |
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
@@ -3578,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
+| Gloria Victis: Merchant Pack | 405949 | [405949-gloria-victis-merchant-pack.json](./405949-gloria-victis-merchant-pack.json) |
 | Gloria: Kindan no Ketsuzoku | 94940 | [94940-gloria-kindan-no-ketsuzoku.json](./94940-gloria-kindan-no-ketsuzoku.json) |
 | Gloriana | 169888 | [169888-gloriana.json](./169888-gloriana.json) |
 | Glorious | 169851 | [169851-glorious.json](./169851-glorious.json) |
