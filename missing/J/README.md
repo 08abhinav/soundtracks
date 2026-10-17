@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jartycuck's Basics in Coal and Goonin 2 'p | 400943 | [400943-jartycucks-basics-in-coal-and-goonin-2-p.json](./400943-jartycucks-basics-in-coal-and-goonin-2-p.json) |
 | Jarvis | 59383 | [59383-jarvis.json](./59383-jarvis.json) |
 | JASBIAC | 302619 | [302619-jasbiac.json](./302619-jasbiac.json) |
+| Jaseiken Necromancer 2 | 412787 | [412787-jaseiken-necromancer-2.json](./412787-jaseiken-necromancer-2.json) |
 | JASEM: Just Another Shooter with Electronic Music | 29109 | [29109-jasem-just-another-shooter-with-electronic-music.json](./29109-jasem-just-another-shooter-with-electronic-music.json) |
 | Jash | 187443 | [187443-jash.json](./187443-jash.json) |
 | Jashinchan: 7th Devil | 178330 | [178330-jashinchan-7th-devil.json](./178330-jashinchan-7th-devil.json) |
