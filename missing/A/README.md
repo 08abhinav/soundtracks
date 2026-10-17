@@ -9470,6 +9470,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
 | ArkLight | 52406 | [52406-arklight.json](./52406-arklight.json) |
 | Arknights | 123395 | [123395-arknights.json](./123395-arknights.json) |
+| Arknights Episode 04: Burning Run | 413425 | [413425-arknights-episode-04-burning-run.json](./413425-arknights-episode-04-burning-run.json) |
+| Arknights Episode 05: Necessary Solutions | 413427 | [413427-arknights-episode-05-necessary-solutions.json](./413427-arknights-episode-05-necessary-solutions.json) |
+| Arknights Episode 06: Partial Necrosis | 413428 | [413428-arknights-episode-06-partial-necrosis.json](./413428-arknights-episode-06-partial-necrosis.json) |
+| Arknights Episode 07: The Birth of Tragedy | 413430 | [413430-arknights-episode-07-the-birth-of-tragedy.json](./413430-arknights-episode-07-the-birth-of-tragedy.json) |
+| Arknights Episode 08: Roaring Flare | 413431 | [413431-arknights-episode-08-roaring-flare.json](./413431-arknights-episode-08-roaring-flare.json) |
+| Arknights Episode 09: Stormwatch | 413432 | [413432-arknights-episode-09-stormwatch.json](./413432-arknights-episode-09-stormwatch.json) |
+| Arknights Episode 10: Shatterpoint | 413433 | [413433-arknights-episode-10-shatterpoint.json](./413433-arknights-episode-10-shatterpoint.json) |
+| Arknights Episode 11: Return to Mist | 413434 | [413434-arknights-episode-11-return-to-mist.json](./413434-arknights-episode-11-return-to-mist.json) |
+| Arknights Episode 12: All Quiet Under the Thunder | 413435 | [413435-arknights-episode-12-all-quiet-under-the-thunder.json](./413435-arknights-episode-12-all-quiet-under-the-thunder.json) |
+| Arknights Episode 13: The Whirlpool That Is Passion | 413436 | [413436-arknights-episode-13-the-whirlpool-that-is-passion.json](./413436-arknights-episode-13-the-whirlpool-that-is-passion.json) |
+| Arknights Episode 14: Absolved Will Be the Seekers | 413437 | [413437-arknights-episode-14-absolved-will-be-the-seekers.json](./413437-arknights-episode-14-absolved-will-be-the-seekers.json) |
+| Arknights Episode 15: Dissociative Recombination | 413438 | [413438-arknights-episode-15-dissociative-recombination.json](./413438-arknights-episode-15-dissociative-recombination.json) |
+| Arknights Episode 16: Abnormal Spectrum | 413439 | [413439-arknights-episode-16-abnormal-spectrum.json](./413439-arknights-episode-16-abnormal-spectrum.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
@@ -12444,6 +12457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axial Disc 1 | 164869 | [164869-axial-disc-1.json](./164869-axial-disc-1.json) |
 | Axial Disc 2 | 217408 | [217408-axial-disc-2.json](./217408-axial-disc-2.json) |
 | Axial Drift | 190394 | [190394-axial-drift.json](./190394-axial-drift.json) |
+| Axial Shift | 413581 | [413581-axial-shift.json](./413581-axial-shift.json) |
 | Axie Infinity | 109024 | [109024-axie-infinity.json](./109024-axie-infinity.json) |
 | aXiebal 2004 | 93174 | [93174-axiebal-2004.json](./93174-axiebal-2004.json) |
 | Axiel | 127827 | [127827-axiel.json](./127827-axiel.json) |
