@@ -5254,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
 | Loong: The Power of the Dragon | 23526 | [23526-loong-the-power-of-the-dragon.json](./23526-loong-the-power-of-the-dragon.json) |
+| Loonicycle | 366569 | [366569-loonicycle.json](./366569-loonicycle.json) |
 | Loonies 8192 | 175654 | [175654-loonies-8192.json](./175654-loonies-8192.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
@@ -6137,6 +6138,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Goes Toward Love | 212805 | [212805-love-goes-toward-love.json](./212805-love-goes-toward-love.json) |
 | Love Heaven | 315067 | [315067-love-heaven.json](./315067-love-heaven.json) |
 | Love Hell | 303635 | [303635-love-hell.json](./303635-love-hell.json) |
+| Love Hentai and Puzzles: Cyberpunk Babes | 366529 | [366529-love-hentai-and-puzzles-cyberpunk-babes.json](./366529-love-hentai-and-puzzles-cyberpunk-babes.json) |
+| Love Hentai and Puzzles: Gamer Girls | 366531 | [366531-love-hentai-and-puzzles-gamer-girls.json](./366531-love-hentai-and-puzzles-gamer-girls.json) |
+| Love Hentai and Puzzles: Yokai | 366532 | [366532-love-hentai-and-puzzles-yokai.json](./366532-love-hentai-and-puzzles-yokai.json) |
 | Love Hentai: Fap Fast, Die Young | 367021 | [367021-love-hentai-fap-fast-die-young.json](./367021-love-hentai-fap-fast-die-young.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hex | 326847 | [326847-love-hex.json](./326847-love-hex.json) |
