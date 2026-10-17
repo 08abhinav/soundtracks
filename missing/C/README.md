@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 200472 | [200472-candlelight.json](./200472-candlelight.json) |
 | Candlelight | 276456 | [276456-candlelight.json](./276456-candlelight.json) |
 | Candlelight | 33296 | [33296-candlelight.json](./33296-candlelight.json) |
+| Candlelight | 366581 | [366581-candlelight.json](./366581-candlelight.json) |
 | Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
 | Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
@@ -1246,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
 | Captain Comet | 400453 | [400453-captain-comet.json](./400453-captain-comet.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
+| Captain Commander's Conquest | 366566 | [366566-captain-commanders-conquest.json](./366566-captain-commanders-conquest.json) |
 | Captain Commando | 19821 | [19821-captain-commando.json](./19821-captain-commando.json) |
 | Captain Contraband | 129201 | [129201-captain-contraband.json](./129201-captain-contraband.json) |
 | Captain Contraption's Safari Park | 386975 | [386975-captain-contraptions-safari-park.json](./386975-captain-contraptions-safari-park.json) |
@@ -2872,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
+| Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
 | Cat's Request | 237043 | [237043-cats-request.json](./237043-cats-request.json) |
 | Cat's Vote | 274509 | [274509-cats-vote.json](./274509-cats-vote.json) |
 | Cat's Wars | 369097 | [369097-cats-wars.json](./369097-cats-wars.json) |
@@ -14258,6 +14261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutlass Call | 286031 | [286031-cutlass-call.json](./286031-cutlass-call.json) |
 | CutNRun | 93579 | [93579-cutnrun.json](./93579-cutnrun.json) |
 | Cutout | 415178 | [415178-cutout.json](./415178-cutout.json) |
+| Cutout Village | 366620 | [366620-cutout-village.json](./366620-cutout-village.json) |
 | Cutout World | 339356 | [339356-cutout-world.json](./339356-cutout-world.json) |
 | Cutouts! | 93454 | [93454-cutouts.json](./93454-cutouts.json) |
 | Cutthroat | 80929 | [80929-cutthroat.json](./80929-cutthroat.json) |
