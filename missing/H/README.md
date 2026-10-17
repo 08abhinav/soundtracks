@@ -7665,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House Flipper: Pets Edition | 300470 | [300470-house-flipper-pets-edition.json](./300470-house-flipper-pets-edition.json) |
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
+| House Ghost | 373842 | [373842-house-ghost.json](./373842-house-ghost.json) |
 | House Hopper | 250281 | [250281-house-hopper.json](./250281-house-hopper.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
