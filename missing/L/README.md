@@ -3247,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
 | Lifeboat | 363308 | [363308-lifeboat.json](./363308-lifeboat.json) |
+| Lifecycles of the Traveler Spider | 390575 | [390575-lifecycles-of-the-traveler-spider.json](./390575-lifecycles-of-the-traveler-spider.json) |
 | LifeDev | 258470 | [258470-lifedev.json](./258470-lifedev.json) |
 | Lifeflame Compendium | 150040 | [150040-lifeflame-compendium.json](./150040-lifeflame-compendium.json) |
 | LifeGameSimulator | 102328 | [102328-lifegamesimulator.json](./102328-lifegamesimulator.json) |
@@ -6413,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
+| LowPoly 3D Art Paint by Number | 390548 | [390548-lowpoly-3d-art-paint-by-number.json](./390548-lowpoly-3d-art-paint-by-number.json) |
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | LowPolyExplorer | 163019 | [163019-lowpolyexplorer.json](./163019-lowpolyexplorer.json) |
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
