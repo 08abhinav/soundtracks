@@ -5235,6 +5235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excellent Card Games | 100283 | [100283-excellent-card-games.json](./100283-excellent-card-games.json) |
 | Excellent Expectations | 76520 | [76520-excellent-expectations.json](./76520-excellent-expectations.json) |
 | Excellent Game | 374274 | [374274-excellent-game.json](./374274-excellent-game.json) |
+| Excellent Love Comedy | 367142 | [367142-excellent-love-comedy.json](./367142-excellent-love-comedy.json) |
 | Excelsior | 39852 | [39852-excelsior.json](./39852-excelsior.json) |
 | Excelsior Phase Two: Errondor | 68880 | [68880-excelsior-phase-two-errondor.json](./68880-excelsior-phase-two-errondor.json) |
 | Exception; | 129166 | [129166-exception.json](./129166-exception.json) |
