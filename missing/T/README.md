@@ -6506,6 +6506,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faery Tale Adventure | 12087 | [12087-the-faery-tale-adventure.json](./12087-the-faery-tale-adventure.json) |
 | The Failure of Aniconfuku: Convention Murder Episode | 293332 | [293332-the-failure-of-aniconfuku-convention-murder-episode.json](./293332-the-failure-of-aniconfuku-convention-murder-episode.json) |
 | The Fairies' Curse | 128601 | [128601-the-fairies-curse.json](./128601-the-fairies-curse.json) |
+| The Fairly OddParents Wishology: Chapter 1 - The Chosen One! | 395745 | [395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json](./395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json) |
+| The Fairly OddParents Wishology: Chapter 2 - The Darkness' Revenge! | 395747 | [395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json](./395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json) |
+| The Fairly OddParents Wishology: Chapter 3 - The Return of the Chosen One! | 395749 | [395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json](./395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json) |
 | The Fairly OddParents: Breakin' da Rules | 243198 | [243198-the-fairly-oddparents-breakin-da-rules.json](./243198-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Breakin' da Rules | 3911 | [3911-the-fairly-oddparents-breakin-da-rules.json](./3911-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
@@ -6743,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Greek Odyssey | 175843 | [175843-the-first-greek-odyssey.json](./175843-the-first-greek-odyssey.json) |
 | The First Island | 176200 | [176200-the-first-island.json](./176200-the-first-island.json) |
 | The First Mile | 73535 | [73535-the-first-mile.json](./73535-the-first-mile.json) |
+| The First Million | 395740 | [395740-the-first-million.json](./395740-the-first-million.json) |
 | The First Mountain | 219634 | [219634-the-first-mountain.json](./219634-the-first-mountain.json) |
 | The First Odyssey | 190006 | [190006-the-first-odyssey.json](./190006-the-first-odyssey.json) |
 | The First Present | 278675 | [278675-the-first-present.json](./278675-the-first-present.json) |
@@ -16467,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timelord | 78615 | [78615-timelord.json](./78615-timelord.json) |
 | TimeLost | 215726 | [215726-timelost.json](./215726-timelost.json) |
 | Timeman One | 13040 | [13040-timeman-one.json](./13040-timeman-one.json) |
+| Timeman Two | 395824 | [395824-timeman-two.json](./395824-timeman-two.json) |
 | TimeMelters | 210869 | [210869-timemelters.json](./210869-timemelters.json) |
 | Timemoon | 330892 | [330892-timemoon.json](./330892-timemoon.json) |
 | Timen runner | 28689 | [28689-timen-runner.json](./28689-timen-runner.json) |
@@ -18458,6 +18463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torvak the Warrior | 12799 | [12799-torvak-the-warrior.json](./12799-torvak-the-warrior.json) |
 | Toryumon | 266284 | [266284-toryumon.json](./266284-toryumon.json) |
 | ToSaVa | 409721 | [409721-tosava.json](./409721-tosava.json) |
+| Tosbik Around The World | 395752 | [395752-tosbik-around-the-world.json](./395752-tosbik-around-the-world.json) |
 | Toshi Tensou Keikaku: Eternal City | 37725 | [37725-toshi-tensou-keikaku-eternal-city.json](./37725-toshi-tensou-keikaku-eternal-city.json) |
 | Toshinden 4 | 1416 | [1416-toshinden-4.json](./1416-toshinden-4.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
@@ -19680,6 +19686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track No.9 | 339808 | [339808-track-no-9.json](./339808-track-no-9.json) |
 | Track Racing: The Holy Rosary | 275133 | [275133-track-racing-the-holy-rosary.json](./275133-track-racing-the-holy-rosary.json) |
 | Track Star | 284441 | [284441-track-star.json](./284441-track-star.json) |
+| Track Star | 395754 | [395754-track-star.json](./395754-track-star.json) |
 | Track: Breakthrough Gaming Arcade - Challenge Mode Edition | 207049 | [207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json](./207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
