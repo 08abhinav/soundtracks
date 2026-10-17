@@ -417,6 +417,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273d8f3434f282e7fefbd6340ea" width="60" /> | [Diablo IV](https://ostdb.net/games/diablo-iv) | **Diablo IV (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/30Qpwgol26uwWtTfYcki2b)<br>**Diablo IV: Vessel of Hatred (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273846e1cb919cc0df200694cc5" width="60" /> | [Diablo IV: Vessel of Hatred](https://ostdb.net/games/diablo-iv-vessel-of-hatred) | **Diablo IV: Vessel of Hatred (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/6b/8b/776b8bae-76a5-fc7f-ec00-71912440ea10/047875103900_cover.jpg/600x600bb.jpg" width="60" /> | [Diablo Immortal](https://ostdb.net/games/diablo-immortal) | **Diablo Immortal (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/diablo-immortal-original-soundtrack/1833020944?uo=4) · [Album](https://album.link/i/1833020944) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d2b874fc3309cb0ef08be0eb" width="60" /> | [Dig Dug](https://ostdb.net/games/dig-dug) | **Dig Dug (Game Sound Effect) Original Soundtrack** · [Spotify](https://open.spotify.com/album/6Q8Xvmxz9QBJbHR5NXA7Kf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27326aa30a91b470ad52be06473" width="60" /> | [Dino Crisis](https://ostdb.net/games/dino-crisis) | **DINO CRISIS ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/59MjtE5jblVQcbTBnKAW9I) · [Album](https://album.link/s/59MjtE5jblVQcbTBnKAW9I) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27379ab25cf0fe24c306a7d52a4" width="60" /> | [Dino Crisis 2](https://ostdb.net/games/dino-crisis-2) | **DINO CRISIS 2 ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2OI8nGskwIpDJ3rXszm4nz) · [Album](https://album.link/s/2OI8nGskwIpDJ3rXszm4nz) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/87/56/89/875689fa-147e-07b6-b91f-55a14779205f/199999653103.png/600x600bb.jpg" width="60" /> | [Directive 8020](https://ostdb.net/games/directive-8020) | **The Dark Pictures Anthology: Directive 8020 (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/the-dark-pictures-anthology-directive-8020-original/6771017114?uo=4) |
@@ -1789,4 +1790,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2106 soundtracks · last updated 2026-10-17T15:40:48.680Z_
+_2107 soundtracks · last updated 2026-10-17T15:40:56.305Z_
