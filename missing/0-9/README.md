@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures: Carnival | 73260 | [73260-3d-ultra-minigolf-adventures-carnival.json](./73260-3d-ultra-minigolf-adventures-carnival.json) |
 | 3D Ultra Minigolf Adventures: Space | 137378 | [137378-3d-ultra-minigolf-adventures-space.json](./137378-3d-ultra-minigolf-adventures-space.json) |
+| 3D Visual Novel Maker | 371018 | [371018-3d-visual-novel-maker.json](./371018-3d-visual-novel-maker.json) |
 | 3D Waifu - a physical experience | 139110 | [139110-3d-waifu-a-physical-experience.json](./139110-3d-waifu-a-physical-experience.json) |
 | 3D Water Bike | 255033 | [255033-3d-water-bike.json](./255033-3d-water-bike.json) |
 | 3D Water Driver | 47561 | [47561-3d-water-driver.json](./47561-3d-water-driver.json) |
@@ -2234,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8 Hours Till Dawn | 407153 | [407153-8-hours-till-dawn.json](./407153-8-hours-till-dawn.json) |
 | 8 Legs to Love | 181252 | [181252-8-legs-to-love.json](./181252-8-legs-to-love.json) |
 | 8 Links | 173075 | [173075-8-links.json](./173075-8-links.json) |
+| 8 More Lives | 370984 | [370984-8-more-lives.json](./370984-8-more-lives.json) |
 | 8 Realms | 92383 | [92383-8-realms.json](./92383-8-realms.json) |
 | 8 To Glory | 125321 | [125321-8-to-glory.json](./125321-8-to-glory.json) |
 | 8 Yous+ | 334089 | [334089-8-yous.json](./334089-8-yous.json) |
