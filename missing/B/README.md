@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bare Metal | 76688 | [76688-bare-metal.json](./76688-bare-metal.json) |
 | Barefort | 390612 | [390612-barefort.json](./390612-barefort.json) |
 | Barely Afloat | 123579 | [123579-barely-afloat.json](./123579-barely-afloat.json) |
+| Barely Alive | 387111 | [387111-barely-alive.json](./387111-barely-alive.json) |
 | Barely Floating | 138214 | [138214-barely-floating.json](./138214-barely-floating.json) |
 | Barezu ni Ikiru! | 212465 | [212465-barezu-ni-ikiru.json](./212465-barezu-ni-ikiru.json) |
 | Barf and Beer | 92615 | [92615-barf-and-beer.json](./92615-barf-and-beer.json) |
@@ -4244,6 +4245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
 | Behind the Kurten | 176746 | [176746-behind-the-kurten.json](./176746-behind-the-kurten.json) |
+| Behind the Light: The Extraordinary Life of Luca Comerio | 387134 | [387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json](./387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json) |
 | Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
 | Behind The Mask Bundle | 308578 | [308578-behind-the-mask-bundle.json](./308578-behind-the-mask-bundle.json) |
 | Behind the Red Dais | 252036 | [252036-behind-the-red-dais.json](./252036-behind-the-red-dais.json) |
@@ -7057,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeping Spaceships | 373673 | [373673-bleeping-spaceships.json](./373673-bleeping-spaceships.json) |
 | Bleeping Spaceships MR | 357298 | [357298-bleeping-spaceships-mr.json](./357298-bleeping-spaceships-mr.json) |
 | Blemo | 389496 | [389496-blemo.json](./389496-blemo.json) |
+| Blend X Brand | 387133 | [387133-blend-x-brand.json](./387133-blend-x-brand.json) |
 | Blend_IT | 338245 | [338245-blend-it.json](./338245-blend-it.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
