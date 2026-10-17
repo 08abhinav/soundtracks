@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T12:48:22.144Z",
-  "total_missing": 223778,
+  "generated_at": "2026-10-17T13:03:29.039Z",
+  "total_missing": 223828,
   "games": [
     {
       "igdb_id": 191680,
@@ -47297,6 +47297,16 @@
       "file": "missing/A/371231-anime-feet-aim-trainer.json"
     },
     {
+      "igdb_id": 386558,
+      "game_name": "Anime Feet Boys: The Charm Finder Quest",
+      "file": "missing/A/386558-anime-feet-boys-the-charm-finder-quest.json"
+    },
+    {
+      "igdb_id": 386557,
+      "game_name": "Anime Feet Girls: The Charm Finder Quest",
+      "file": "missing/A/386557-anime-feet-girls-the-charm-finder-quest.json"
+    },
+    {
       "igdb_id": 105175,
       "game_name": "Anime Fight in the Arena of Death",
       "file": "missing/A/105175-anime-fight-in-the-arena-of-death.json"
@@ -58210,6 +58220,11 @@
       "igdb_id": 271478,
       "game_name": "Are you yet Living?",
       "file": "missing/A/271478-are-you-yet-living.json"
+    },
+    {
+      "igdb_id": 386524,
+      "game_name": "Are! Mo Kore? Mo Momotarou",
+      "file": "missing/A/386524-are-mo-kore-mo-momotarou.json"
     },
     {
       "igdb_id": 289545,
@@ -87690,6 +87705,11 @@
       "igdb_id": 229719,
       "game_name": "Batman Begins",
       "file": "missing/B/229719-batman-begins.json"
+    },
+    {
+      "igdb_id": 386533,
+      "game_name": "Batman Begins",
+      "file": "missing/B/386533-batman-begins.json"
     },
     {
       "igdb_id": 245556,
@@ -121997,6 +122017,11 @@
       "file": "missing/B/297248-boomerang-rpg.json"
     },
     {
+      "igdb_id": 386550,
+      "game_name": "Boomerang Survivor 3",
+      "file": "missing/B/386550-boomerang-survivor-3.json"
+    },
+    {
       "igdb_id": 258522,
       "game_name": "Boomeraxe",
       "file": "missing/B/258522-boomeraxe.json"
@@ -143322,6 +143347,11 @@
       "file": "missing/C/116977-call-of-fries.json"
     },
     {
+      "igdb_id": 386563,
+      "game_name": "Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection",
+      "file": "missing/C/386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json"
+    },
+    {
       "igdb_id": 367511,
       "game_name": "Call of Hentai Neko",
       "file": "missing/C/367511-call-of-hentai-neko.json"
@@ -158617,6 +158647,11 @@
       "file": "missing/C/29158-center-of-gravity.json"
     },
     {
+      "igdb_id": 386523,
+      "game_name": "Center Shiken Trial: Eigo no Tetsujin",
+      "file": "missing/C/386523-center-shiken-trial-eigo-no-tetsujin.json"
+    },
+    {
       "igdb_id": 11996,
       "game_name": "Centerfold Squares",
       "file": "missing/C/11996-centerfold-squares.json"
@@ -161945,6 +161980,11 @@
       "igdb_id": 147622,
       "game_name": "Chased by Darkness",
       "file": "missing/C/147622-chased-by-darkness.json"
+    },
+    {
+      "igdb_id": 386537,
+      "game_name": "Chased by Nightmares",
+      "file": "missing/C/386537-chased-by-nightmares.json"
     },
     {
       "igdb_id": 242694,
@@ -173350,6 +173390,11 @@
       "igdb_id": 208676,
       "game_name": "Cityscape Sprint",
       "file": "missing/C/208676-cityscape-sprint.json"
+    },
+    {
+      "igdb_id": 386554,
+      "game_name": "Cityscapes",
+      "file": "missing/C/386554-cityscapes.json"
     },
     {
       "igdb_id": 248581,
@@ -195737,6 +195782,11 @@
       "file": "missing/C/405571-cozy-offroad-simulator-together.json"
     },
     {
+      "igdb_id": 386544,
+      "game_name": "Cozy Pets and Friends",
+      "file": "missing/C/386544-cozy-pets-and-friends.json"
+    },
+    {
       "igdb_id": 82176,
       "game_name": "Cozy Places",
       "file": "missing/C/82176-cozy-places.json"
@@ -201925,6 +201975,11 @@
       "igdb_id": 24732,
       "game_name": "Critical Damage",
       "file": "missing/C/24732-critical-damage.json"
+    },
+    {
+      "igdb_id": 386548,
+      "game_name": "Critical Descent",
+      "file": "missing/C/386548-critical-descent.json"
     },
     {
       "igdb_id": 415977,
@@ -209020,6 +209075,11 @@
       "igdb_id": 410855,
       "game_name": "Cup Heroes: Diamond Satchel Bundle",
       "file": "missing/C/410855-cup-heroes-diamond-satchel-bundle.json"
+    },
+    {
+      "igdb_id": 386564,
+      "game_name": "Cup Heroes: Handful Bundle",
+      "file": "missing/C/386564-cup-heroes-handful-bundle.json"
     },
     {
       "igdb_id": 93170,
@@ -250977,6 +251037,11 @@
       "file": "missing/D/34029-dissonance-an-interactive-novelette.json"
     },
     {
+      "igdb_id": 386551,
+      "game_name": "Dissonant",
+      "file": "missing/D/386551-dissonant.json"
+    },
+    {
       "igdb_id": 385378,
       "game_name": "Distance",
       "file": "missing/D/385378-distance.json"
@@ -255700,6 +255765,11 @@
       "igdb_id": 400396,
       "game_name": "Dome Keeper: The Lost Keepers",
       "file": "missing/D/400396-dome-keeper-the-lost-keepers.json"
+    },
+    {
+      "igdb_id": 386522,
+      "game_name": "Dome no Yabou F1 GP Nippon no Chousen",
+      "file": "missing/D/386522-dome-no-yabou-f1-gp-nippon-no-chousen.json"
     },
     {
       "igdb_id": 152283,
@@ -392747,6 +392817,11 @@
       "file": "missing/G/257921-grid-m.json"
     },
     {
+      "igdb_id": 386538,
+      "game_name": "Grid-Tsugi",
+      "file": "missing/G/386538-grid-tsugi.json"
+    },
+    {
       "igdb_id": 365684,
       "game_name": "Grid: Autosport - Drag Pack",
       "file": "missing/G/365684-grid-autosport-drag-pack.json"
@@ -417730,6 +417805,11 @@
       "igdb_id": 380701,
       "game_name": "Hentai Balls 3D: Heavy Attraction",
       "file": "missing/H/380701-hentai-balls-3d-heavy-attraction.json"
+    },
+    {
+      "igdb_id": 386540,
+      "game_name": "Hentai Balls 3D: Perfect Motion",
+      "file": "missing/H/386540-hentai-balls-3d-perfect-motion.json"
     },
     {
       "igdb_id": 390497,
@@ -467750,6 +467830,11 @@
       "igdb_id": 226852,
       "game_name": "Island of AIto: Life After Death",
       "file": "missing/I/226852-island-of-aito-life-after-death.json"
+    },
+    {
+      "igdb_id": 386545,
+      "game_name": "Island of Ash",
+      "file": "missing/I/386545-island-of-ash.json"
     },
     {
       "igdb_id": 137359,
@@ -552457,6 +552542,11 @@
       "file": "missing/M/39384-major-havoc.json"
     },
     {
+      "igdb_id": 386556,
+      "game_name": "Major Hoof",
+      "file": "missing/M/386556-major-hoof.json"
+    },
+    {
       "igdb_id": 199645,
       "game_name": "Major League",
       "file": "missing/M/199645-major-league.json"
@@ -560787,6 +560877,26 @@
       "file": "missing/M/386493-marvel-vs-capcom-infinite-frank-west-proto-man-costume.json"
     },
     {
+      "igdb_id": 386529,
+      "game_name": "Marvel vs. Capcom Infinite: Jedah Makai Messiah Costume",
+      "file": "missing/M/386529-marvel-vs-capcom-infinite-jedah-makai-messiah-costume.json"
+    },
+    {
+      "igdb_id": 386530,
+      "game_name": "Marvel vs. Capcom Infinite: Space Suit Rocket Raccoon Costume",
+      "file": "missing/M/386530-marvel-vs-capcom-infinite-space-suit-rocket-raccoon-costume.json"
+    },
+    {
+      "igdb_id": 386531,
+      "game_name": "Marvel vs. Capcom Infinite: Special X Costume",
+      "file": "missing/M/386531-marvel-vs-capcom-infinite-special-x-costume.json"
+    },
+    {
+      "igdb_id": 386532,
+      "game_name": "Marvel vs. Capcom Infinite: Spencer Gottfried Costume",
+      "file": "missing/M/386532-marvel-vs-capcom-infinite-spencer-gottfried-costume.json"
+    },
+    {
       "igdb_id": 8246,
       "game_name": "Marvel vs. Capcom: Clash of Super Heroes",
       "file": "missing/M/8246-marvel-vs-capcom-clash-of-super-heroes.json"
@@ -560820,6 +560930,11 @@
       "igdb_id": 386491,
       "game_name": "Marvel vs. Capcom: Infinite - Chris Classic Costume",
       "file": "missing/M/386491-marvel-vs-capcom-infinite-chris-classic-costume.json"
+    },
+    {
+      "igdb_id": 386455,
+      "game_name": "Marvel vs. Capcom: Infinite - Dante Nephilim Costume",
+      "file": "missing/M/386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json"
     },
     {
       "igdb_id": 386492,
@@ -560862,6 +560977,11 @@
       "file": "missing/M/386479-marvel-vs-capcom-infinite-morrigan-night-warrior-costume.json"
     },
     {
+      "igdb_id": 386458,
+      "game_name": "Marvel vs. Capcom: Infinite - Nova Prime Costume",
+      "file": "missing/M/386458-marvel-vs-capcom-infinite-nova-prime-costume.json"
+    },
+    {
       "igdb_id": 161322,
       "game_name": "Marvel vs. Capcom: Infinite - Sigma",
       "file": "missing/M/161322-marvel-vs-capcom-infinite-sigma.json"
@@ -560895,6 +561015,11 @@
       "igdb_id": 161318,
       "game_name": "Marvel vs. Capcom: Infinite - Venom",
       "file": "missing/M/161318-marvel-vs-capcom-infinite-venom.json"
+    },
+    {
+      "igdb_id": 386456,
+      "game_name": "Marvel vs. Capcom: Infinite - Warrior Thor Costume",
+      "file": "missing/M/386456-marvel-vs-capcom-infinite-warrior-thor-costume.json"
     },
     {
       "igdb_id": 161321,
@@ -604665,6 +604790,11 @@
       "igdb_id": 388955,
       "game_name": "Mortal Kombat: Warrior Kenshi",
       "file": "missing/M/388955-mortal-kombat-warrior-kenshi.json"
+    },
+    {
+      "igdb_id": 386553,
+      "game_name": "Mortal Mythos: Island of Fairies",
+      "file": "missing/M/386553-mortal-mythos-island-of-fairies.json"
     },
     {
       "igdb_id": 127546,
@@ -672242,6 +672372,11 @@
       "file": "missing/P/55962-pachinko-cr-daiku-no-gen-san-gb.json"
     },
     {
+      "igdb_id": 386519,
+      "game_name": "Pachinko Dream",
+      "file": "missing/P/386519-pachinko-dream.json"
+    },
+    {
       "igdb_id": 42236,
       "game_name": "Pachinko Fan: Shouri Sengen",
       "file": "missing/P/42236-pachinko-fan-shouri-sengen.json"
@@ -693850,6 +693985,11 @@
       "igdb_id": 93508,
       "game_name": "PigMan",
       "file": "missing/P/93508-pigman.json"
+    },
+    {
+      "igdb_id": 386555,
+      "game_name": "Pigmarines",
+      "file": "missing/P/386555-pigmarines.json"
     },
     {
       "igdb_id": 379708,
@@ -717532,6 +717672,11 @@
       "file": "missing/P/417581-postcard-through-time.json"
     },
     {
+      "igdb_id": 386552,
+      "game_name": "Postcards from the Apocalypse",
+      "file": "missing/P/386552-postcards-from-the-apocalypse.json"
+    },
+    {
       "igdb_id": 194318,
       "game_name": "Postcat Caitsith",
       "file": "missing/P/194318-postcat-caitsith.json"
@@ -733955,6 +734100,11 @@
       "igdb_id": 166296,
       "game_name": "Pushing Hands: Fighting Game",
       "file": "missing/P/166296-pushing-hands-fighting-game.json"
+    },
+    {
+      "igdb_id": 386517,
+      "game_name": "Pushing it",
+      "file": "missing/P/386517-pushing-it.json"
     },
     {
       "igdb_id": 298033,
@@ -769992,6 +770142,11 @@
       "file": "missing/R/149541-rise-of-mavros.json"
     },
     {
+      "igdb_id": 386547,
+      "game_name": "Rise of Mutant Swarms",
+      "file": "missing/R/386547-rise-of-mutant-swarms.json"
+    },
+    {
       "igdb_id": 23618,
       "game_name": "Rise of Mythos",
       "file": "missing/R/23618-rise-of-mythos.json"
@@ -785250,6 +785405,11 @@
       "igdb_id": 224543,
       "game_name": "Run Foxy, Run!",
       "file": "missing/R/224543-run-foxy-run.json"
+    },
+    {
+      "igdb_id": 386543,
+      "game_name": "Run from Blablublas horror",
+      "file": "missing/R/386543-run-from-blablublas-horror.json"
     },
     {
       "igdb_id": 359990,
@@ -817422,6 +817582,11 @@
       "file": "missing/S/365818-shin-era-tensei.json"
     },
     {
+      "igdb_id": 386549,
+      "game_name": "Shin Fangame Tensei",
+      "file": "missing/S/386549-shin-fangame-tensei.json"
+    },
+    {
       "igdb_id": 229027,
       "game_name": "Shin Fumi Ikemen Ouoku Kinjirareta Koi",
       "file": "missing/S/229027-shin-fumi-ikemen-ouoku-kinjirareta-koi.json"
@@ -817730,6 +817895,11 @@
       "igdb_id": 357453,
       "game_name": "Shin Megami Tensei: Devil Summoner",
       "file": "missing/S/357453-shin-megami-tensei-devil-summoner.json"
+    },
+    {
+      "igdb_id": 386457,
+      "game_name": "Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Fiefdom of Death",
+      "file": "missing/S/386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json"
     },
     {
       "igdb_id": 281414,
@@ -841440,6 +841610,11 @@
       "igdb_id": 34465,
       "game_name": "Sniper Blacklist",
       "file": "missing/S/34465-sniper-blacklist.json"
+    },
+    {
+      "igdb_id": 386546,
+      "game_name": "Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026",
+      "file": "missing/S/386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json"
     },
     {
       "igdb_id": 3077,
@@ -874642,6 +874817,16 @@
       "file": "missing/S/362088-star-trek-voyager-across-the-unknown.json"
     },
     {
+      "igdb_id": 386561,
+      "game_name": "Star Trek: Voyager - Across the Unknown: Deluxe DLC",
+      "file": "missing/S/386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json"
+    },
+    {
+      "igdb_id": 386562,
+      "game_name": "Star Trek: Voyager - Across the Unknown: Deluxe Edition",
+      "file": "missing/S/386562-star-trek-voyager-across-the-unknown-deluxe-edition.json"
+    },
+    {
       "igdb_id": 77313,
       "game_name": "Star Trek: Voyager - Elite Force Expansion Pack",
       "file": "missing/S/77313-star-trek-voyager-elite-force-expansion-pack.json"
@@ -887067,6 +887252,11 @@
       "file": "missing/S/305382-street-cleaner-3.json"
     },
     {
+      "igdb_id": 386541,
+      "game_name": "Street Combat Fighting",
+      "file": "missing/S/386541-street-combat-fighting.json"
+    },
+    {
       "igdb_id": 48236,
       "game_name": "Street Cop",
       "file": "missing/S/48236-street-cop.json"
@@ -889802,6 +889992,11 @@
       "file": "missing/S/130913-studio-100-speeleiland.json"
     },
     {
+      "igdb_id": 386518,
+      "game_name": "Studio P",
+      "file": "missing/S/386518-studio-p.json"
+    },
+    {
       "igdb_id": 410942,
       "game_name": "Studio Sim: The Painting Game",
       "file": "missing/S/410942-studio-sim-the-painting-game.json"
@@ -891587,6 +891782,11 @@
       "file": "missing/S/192443-succubus-girl-story.json"
     },
     {
+      "igdb_id": 386560,
+      "game_name": "Succubus Hearts: Demon Love Redemption",
+      "file": "missing/S/386560-succubus-hearts-demon-love-redemption.json"
+    },
+    {
       "igdb_id": 83258,
       "game_name": "Succubus Imprisoned",
       "file": "missing/S/83258-succubus-imprisoned.json"
@@ -893035,6 +893235,11 @@
       "igdb_id": 317230,
       "game_name": "Sugoi Girls: Mighty Mecha",
       "file": "missing/S/317230-sugoi-girls-mighty-mecha.json"
+    },
+    {
+      "igdb_id": 386542,
+      "game_name": "Sugoi Girls: Pretty Party",
+      "file": "missing/S/386542-sugoi-girls-pretty-party.json"
     },
     {
       "igdb_id": 345704,
@@ -927397,6 +927602,11 @@
       "file": "missing/T/206612-team-dk-bmx.json"
     },
     {
+      "igdb_id": 386525,
+      "game_name": "Team F1",
+      "file": "missing/T/386525-team-f1.json"
+    },
+    {
       "igdb_id": 203535,
       "game_name": "Team Force 2",
       "file": "missing/T/203535-team-force-2.json"
@@ -941937,6 +942147,11 @@
       "file": "missing/T/110998-the-cells.json"
     },
     {
+      "igdb_id": 386536,
+      "game_name": "The Cemetery Shift",
+      "file": "missing/T/386536-the-cemetery-shift.json"
+    },
+    {
       "igdb_id": 231303,
       "game_name": "The Cenozoic Era",
       "file": "missing/T/231303-the-cenozoic-era.json"
@@ -946567,6 +946782,11 @@
       "file": "missing/T/74136-the-doorbreaker.json"
     },
     {
+      "igdb_id": 386535,
+      "game_name": "The Doors",
+      "file": "missing/T/386535-the-doors.json"
+    },
+    {
       "igdb_id": 336604,
       "game_name": "The Doors That Led to Nowhere",
       "file": "missing/T/336604-the-doors-that-led-to-nowhere.json"
@@ -948085,6 +948305,11 @@
       "igdb_id": 379162,
       "game_name": "The End of the Age",
       "file": "missing/T/379162-the-end-of-the-age.json"
+    },
+    {
+      "igdb_id": 386559,
+      "game_name": "The End of the Beginning of Courage, Reasoning, and Seaweed 10",
+      "file": "missing/T/386559-the-end-of-the-beginning-of-courage-reasoning-and-seaweed-10.json"
     },
     {
       "igdb_id": 420483,
@@ -976167,6 +976392,11 @@
       "file": "missing/T/85981-the-skin-game-at-bighorn.json"
     },
     {
+      "igdb_id": 386539,
+      "game_name": "The Skin Stapler",
+      "file": "missing/T/386539-the-skin-stapler.json"
+    },
+    {
       "igdb_id": 164973,
       "game_name": "The Skinwalker Investigations",
       "file": "missing/T/164973-the-skinwalker-investigations.json"
@@ -1003477,6 +1003707,11 @@
       "file": "missing/T/157143-toewr-le-fence.json"
     },
     {
+      "igdb_id": 386534,
+      "game_name": "Toey Weedz Smoke Dead Mirror",
+      "file": "missing/T/386534-toey-weedz-smoke-dead-mirror.json"
+    },
+    {
       "igdb_id": 369681,
       "game_name": "Toffee Cats",
       "file": "missing/T/369681-toffee-cats.json"
@@ -1007200,6 +1007435,11 @@
       "igdb_id": 361745,
       "game_name": "Tony's Crispy Crisps",
       "file": "missing/T/361745-tonys-crispy-crisps.json"
+    },
+    {
+      "igdb_id": 386520,
+      "game_name": "Tonzura-kun",
+      "file": "missing/T/386520-tonzura-kun.json"
     },
     {
       "igdb_id": 66630,
@@ -1030640,6 +1030880,11 @@
       "igdb_id": 163362,
       "game_name": "Tsurezure Nikki",
       "file": "missing/T/163362-tsurezure-nikki.json"
+    },
+    {
+      "igdb_id": 386526,
+      "game_name": "Tsuri Baka Nisshi",
+      "file": "missing/T/386526-tsuri-baka-nisshi.json"
     },
     {
       "igdb_id": 48875,
@@ -1103325,6 +1103570,11 @@
       "igdb_id": 230748,
       "game_name": "Yaoi Beast Boys",
       "file": "missing/Y/230748-yaoi-beast-boys.json"
+    },
+    {
+      "igdb_id": 386527,
+      "game_name": "Yaoi Junichi Gokuhi Project: UFO wo Oe!!",
+      "file": "missing/Y/386527-yaoi-junichi-gokuhi-project-ufo-wo-oe.json"
     },
     {
       "igdb_id": 373711,
