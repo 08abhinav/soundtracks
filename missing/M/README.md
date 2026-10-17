@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
+| Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
 | Mag | 178431 | [178431-mag.json](./178431-mag.json) |
 | MAG | 229766 | [229766-mag.json](./229766-mag.json) |
 | MAG | 7365 | [7365-mag.json](./7365-mag.json) |
@@ -12050,6 +12051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
 | Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
+| Mortal Kombat 11: Hellspawn Jacqui | 388867 | [388867-mortal-kombat-11-hellspawn-jacqui.json](./388867-mortal-kombat-11-hellspawn-jacqui.json) |
 | Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
 | Mortal Kombat 11: Kollector's Edition | 136267 | [136267-mortal-kombat-11-kollectors-edition.json](./136267-mortal-kombat-11-kollectors-edition.json) |
 | Mortal Kombat 11: Kombat Pack | 133278 | [133278-mortal-kombat-11-kombat-pack.json](./133278-mortal-kombat-11-kombat-pack.json) |
@@ -12068,6 +12070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: Spawn | 133277 | [133277-mortal-kombat-11-spawn.json](./133277-mortal-kombat-11-spawn.json) |
 | Mortal Kombat 11: Terminator T-800 | 133275 | [133275-mortal-kombat-11-terminator-t-800.json](./133275-mortal-kombat-11-terminator-t-800.json) |
 | Mortal Kombat 11: The Joker | 128009 | [128009-mortal-kombat-11-the-joker.json](./128009-mortal-kombat-11-the-joker.json) |
+| Mortal Kombat 11: Time Lord of Apokolips Geras | 388869 | [388869-mortal-kombat-11-time-lord-of-apokolips-geras.json](./388869-mortal-kombat-11-time-lord-of-apokolips-geras.json) |
+| Mortal Kombat 11: Time Warriors Skin Pack | 388866 | [388866-mortal-kombat-11-time-warriors-skin-pack.json](./388866-mortal-kombat-11-time-warriors-skin-pack.json) |
 | Mortal Kombat 11: Ultimate | 139446 | [139446-mortal-kombat-11-ultimate.json](./139446-mortal-kombat-11-ultimate.json) |
 | Mortal Kombat 11: Ultimate + Injustice 2 Legendary Edition Bundle | 164774 | [164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json](./164774-mortal-kombat-11-ultimate-injustice-2-legendary-edition-bundle.json) |
 | Mortal Kombat 11: War Games Sonya Blade | 388871 | [388871-mortal-kombat-11-war-games-sonya-blade.json](./388871-mortal-kombat-11-war-games-sonya-blade.json) |
@@ -12115,6 +12119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Special Edition | 140997 | [140997-mortal-kombat-x-special-edition.json](./140997-mortal-kombat-x-special-edition.json) |
 | Mortal Kombat X: Triborg | 27887 | [27887-mortal-kombat-x-triborg.json](./27887-mortal-kombat-x-triborg.json) |
 | Mortal Kombat: Armageddon - Premium Edition | 23793 | [23793-mortal-kombat-armageddon-premium-edition.json](./23793-mortal-kombat-armageddon-premium-edition.json) |
+| Mortal Kombat: Compatibility Pack 1 | 388882 | [388882-mortal-kombat-compatibility-pack-1.json](./388882-mortal-kombat-compatibility-pack-1.json) |
+| Mortal Kombat: Compatibility Pack 2 | 388883 | [388883-mortal-kombat-compatibility-pack-2.json](./388883-mortal-kombat-compatibility-pack-2.json) |
 | Mortal Kombat: Deadly Alliance | 229852 | [229852-mortal-kombat-deadly-alliance.json](./229852-mortal-kombat-deadly-alliance.json) |
 | Mortal Kombat: Deception | 1613 | [1613-mortal-kombat-deception.json](./1613-mortal-kombat-deception.json) |
 | Mortal Kombat: Deception - Kollector's Edition | 45151 | [45151-mortal-kombat-deception-kollectors-edition.json](./45151-mortal-kombat-deception-kollectors-edition.json) |
@@ -14880,6 +14886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Time With Dee Dee volume 0 | 347135 | [347135-my-time-with-dee-dee-volume-0.json](./347135-my-time-with-dee-dee-volume-0.json) |
 | My Tiny Grocery Store | 413443 | [413443-my-tiny-grocery-store.json](./413443-my-tiny-grocery-store.json) |
 | My Tiny Island | 362340 | [362340-my-tiny-island.json](./362340-my-tiny-island.json) |
+| My Tiny Park | 388785 | [388785-my-tiny-park.json](./388785-my-tiny-park.json) |
 | My Tiny Room | 348451 | [348451-my-tiny-room.json](./348451-my-tiny-room.json) |
 | My Tizi Town: Daycare | 299215 | [299215-my-tizi-town-daycare.json](./299215-my-tizi-town-daycare.json) |
 | My Tizi Town: Grandparents Home | 299210 | [299210-my-tizi-town-grandparents-home.json](./299210-my-tizi-town-grandparents-home.json) |
