@@ -1674,6 +1674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
+| Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
 | Dash Fleet | 29626 | [29626-dash-fleet.json](./29626-dash-fleet.json) |
 | Dash For Your Life | 257911 | [257911-dash-for-your-life.json](./257911-dash-for-your-life.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
@@ -2278,6 +2279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead | 168127 | [168127-dead.json](./168127-dead.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
+| Dead 4 Now: Bio-weapon Simulator | 391625 | [391625-dead-4-now-bio-weapon-simulator.json](./391625-dead-4-now-bio-weapon-simulator.json) |
 | Dead Above | 366309 | [366309-dead-above.json](./366309-dead-above.json) |
 | Dead Abyss | 321336 | [321336-dead-abyss.json](./321336-dead-abyss.json) |
 | Dead Against Us | 193759 | [193759-dead-against-us.json](./193759-dead-against-us.json) |
@@ -4391,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
+| Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
 | Demon Gaze Extra | 148525 | [148525-demon-gaze-extra.json](./148525-demon-gaze-extra.json) |
 | Demon Gaze Extra: Memorial Edition | 148520 | [148520-demon-gaze-extra-memorial-edition.json](./148520-demon-gaze-extra-memorial-edition.json) |
@@ -9302,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora Laparoscopic Appendectomy | 343935 | [343935-dora-laparoscopic-appendectomy.json](./343935-dora-laparoscopic-appendectomy.json) |
 | Dora Star Explorer | 406776 | [406776-dora-star-explorer.json](./406776-dora-star-explorer.json) |
 | Dora the Explorer | 221672 | [221672-dora-the-explorer.json](./221672-dora-the-explorer.json) |
+| Dora the Explorer: 3D Pyramid Adventure | 391654 | [391654-dora-the-explorer-3d-pyramid-adventure.json](./391654-dora-the-explorer-3d-pyramid-adventure.json) |
 | Dora the Explorer: Adventures 3-Pack | 100113 | [100113-dora-the-explorer-adventures-3-pack.json](./100113-dora-the-explorer-adventures-3-pack.json) |
 | Dora the Explorer: Animal Adventures | 77328 | [77328-dora-the-explorer-animal-adventures.json](./77328-dora-the-explorer-animal-adventures.json) |
 | Dora the Explorer: Backpack Adventure | 27483 | [27483-dora-the-explorer-backpack-adventure.json](./27483-dora-the-explorer-backpack-adventure.json) |
@@ -12597,6 +12601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Destroyer | 363317 | [363317-dungeon-destroyer.json](./363317-dungeon-destroyer.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
+| Dungeon Directive | 391627 | [391627-dungeon-directive.json](./391627-dungeon-directive.json) |
 | Dungeon Display | 159867 | [159867-dungeon-display.json](./159867-dungeon-display.json) |
 | Dungeon Divas | 381776 | [381776-dungeon-divas.json](./381776-dungeon-divas.json) |
 | Dungeon Dogs | 224059 | [224059-dungeon-dogs.json](./224059-dungeon-dogs.json) |
