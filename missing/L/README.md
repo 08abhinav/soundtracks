@@ -6714,6 +6714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
+| Lumeshift | 416061 | [416061-lumeshift.json](./416061-lumeshift.json) |
 | Lumexa | 151115 | [151115-lumexa.json](./151115-lumexa.json) |
 | Lumi Master | 410215 | [410215-lumi-master.json](./410215-lumi-master.json) |
 | Lumi: Starbound Adventure | 296523 | [296523-lumi-starbound-adventure.json](./296523-lumi-starbound-adventure.json) |
