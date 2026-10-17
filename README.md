@@ -225,6 +225,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734e55d37e64590988ae67828f" width="60" /> | [Caesar IV](https://ostdb.net/games/caesar-iv) | **Caesar IV- Original Game Music Score** · [Spotify](https://open.spotify.com/album/5v6ax5nCQViqJGPkGJYgNJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8c7c61c19e54862a3023a65" width="60" /> | [Cairn](https://ostdb.net/games/cairn) | **Cairn (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3goW8YLesdd64Jh2DBiWhw) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ab258be3d9941f256a207eea" width="60" /> | [Call of Duty: Advanced Warfare](https://ostdb.net/games/call-of-duty-advanced-warfare) | **Call of Duty: Advanced Warfare (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3q2PCUW9MCsimUi5BFLAnE) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b8edf054daabeb2da797691b" width="60" /> | [Call of Duty: Black Ops](https://ostdb.net/games/call-of-duty-black-ops) | **Call of Duty: Black Ops (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3Y8ClzfVlZHVWkKazWj1j9) |
@@ -1681,4 +1682,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1998 soundtracks · last updated 2026-10-17T11:50:25.506Z_
+_1999 soundtracks · last updated 2026-10-17T11:55:25.816Z_
