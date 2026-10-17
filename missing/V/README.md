@@ -2322,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Excursion | 79130 | [79130-void-excursion.json](./79130-void-excursion.json) |
+| Void Fate | 412916 | [412916-void-fate.json](./412916-void-fate.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Works Quest | 182836 | [182836-voxel-works-quest.json](./182836-voxel-works-quest.json) |
 | Voxel World | 312559 | [312559-voxel-world.json](./312559-voxel-world.json) |
 | Voxel World | 88247 | [88247-voxel-world.json](./88247-voxel-world.json) |
+| Voxelantis | 413012 | [413012-voxelantis.json](./413012-voxelantis.json) |
 | Voxelaxy | 51967 | [51967-voxelaxy.json](./51967-voxelaxy.json) |
 | Voxeldom | 62180 | [62180-voxeldom.json](./62180-voxeldom.json) |
 | Voxelfield | 137581 | [137581-voxelfield.json](./137581-voxelfield.json) |
