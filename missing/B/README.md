@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance The Stick | 255844 | [255844-balance-the-stick.json](./255844-balance-the-stick.json) |
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
+| Balanced Food CalorieMate for Game Creators: Jelly Mission | 368767 | [368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json](./368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
@@ -9346,6 +9347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoozeBall | 219726 | [219726-boozeball.json](./219726-boozeball.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
+| Bop It! The Video Game | 368758 | [368758-bop-it-the-video-game.json](./368758-bop-it-the-video-game.json) |
 | Bop the Blox | 102265 | [102265-bop-the-blox.json](./102265-bop-the-blox.json) |
 | Bop'n Rumble | 47219 | [47219-bopn-rumble.json](./47219-bopn-rumble.json) |
 | Bopimo! | 325696 | [325696-bopimo.json](./325696-bopimo.json) |
@@ -9802,6 +9804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
 | Bounty Bob Strikes Back! | 12305 | [12305-bounty-bob-strikes-back.json](./12305-bounty-bob-strikes-back.json) |
 | Bounty Bots | 235286 | [235286-bounty-bots.json](./235286-bounty-bots.json) |
+| Bounty Brawl: Most Wanted | 368791 | [368791-bounty-brawl-most-wanted.json](./368791-bounty-brawl-most-wanted.json) |
 | Bounty City: 3-Way Battle | 271649 | [271649-bounty-city-3-way-battle.json](./271649-bounty-city-3-way-battle.json) |
 | Bounty Drag Racing: Import Modified Pack 1 | 267074 | [267074-bounty-drag-racing-import-modified-pack-1.json](./267074-bounty-drag-racing-import-modified-pack-1.json) |
 | Bounty Drag Racing: Outlaw Pack 3 | 267075 | [267075-bounty-drag-racing-outlaw-pack-3.json](./267075-bounty-drag-racing-outlaw-pack-3.json) |
@@ -10252,6 +10255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Wars | 344965 | [344965-brainrot-wars.json](./344965-brainrot-wars.json) |
 | Brainrot: Animal Quizzes | 343259 | [343259-brainrot-animal-quizzes.json](./343259-brainrot-animal-quizzes.json) |
 | Brainrot: Story of Glorbo Frutodrillo & Ballerino Cappuccino | 351591 | [351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json](./351591-brainrot-story-of-glorbo-frutodrillo-and-ballerino-cappuccino.json) |
+| Brainrot: Tralalero and The Lost Soul of AI | 368760 | [368760-brainrot-tralalero-and-the-lost-soul-of-ai.json](./368760-brainrot-tralalero-and-the-lost-soul-of-ai.json) |
 | Brains & Hearts | 330163 | [330163-brains-and-hearts.json](./330163-brains-and-hearts.json) |
 | Brains Diamonds | 246435 | [246435-brains-diamonds.json](./246435-brains-diamonds.json) |
 | Brains: Denshinou Kougeki Shirei | 66054 | [66054-brains-denshinou-kougeki-shirei.json](./66054-brains-denshinou-kougeki-shirei.json) |
