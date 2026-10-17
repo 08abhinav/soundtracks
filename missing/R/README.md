@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
+| Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
@@ -3462,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | RemiLore: Lost Girl in the Lands of Lore | 103259 | [103259-remilore-lost-girl-in-the-lands-of-lore.json](./103259-remilore-lost-girl-in-the-lands-of-lore.json) |
+| REMinal | 404769 | [404769-reminal.json](./404769-reminal.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
 | Remington Great American Bird Hunt | 51134 | [51134-remington-great-american-bird-hunt.json](./51134-remington-great-american-bird-hunt.json) |
 | Remington Super Slam Hunting Africa | 10764 | [10764-remington-super-slam-hunting-africa.json](./10764-remington-super-slam-hunting-africa.json) |
@@ -3939,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Revelations Collection | 53790 | [53790-resident-evil-revelations-collection.json](./53790-resident-evil-revelations-collection.json) |
 | Resident Evil RPG | 276132 | [276132-resident-evil-rpg.json](./276132-resident-evil-rpg.json) |
 | Resident Evil Survivor | 967 | [967-resident-evil-survivor.json](./967-resident-evil-survivor.json) |
+| Resident Evil Veronica | 404673 | [404673-resident-evil-veronica.json](./404673-resident-evil-veronica.json) |
 | Resident Evil Village & Resident Evil 7 Complete Bundle | 142813 | [142813-resident-evil-village-and-resident-evil-7-complete-bundle.json](./142813-resident-evil-village-and-resident-evil-7-complete-bundle.json) |
 | Resident Evil Village: Collector's Edition | 142812 | [142812-resident-evil-village-collectors-edition.json](./142812-resident-evil-village-collectors-edition.json) |
 | Resident Evil Village: Deluxe Edition | 142810 | [142810-resident-evil-village-deluxe-edition.json](./142810-resident-evil-village-deluxe-edition.json) |
