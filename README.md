@@ -223,6 +223,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27327e2f63387bad6caa3379b5a" width="60" /> | [Borderlands: The Pre-Sequel](https://ostdb.net/games/borderlands-the-pre-sequel) | **Borderlands: The Pre-Sequel (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5oofwGEBykvo5L36VQnyRg)<br>**Borderlands: The Pre-Sequel - Claptastic Voyage (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4w6dJISMPFbanSqo3wafmL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739593955c646348c9e62913e5" width="60" /> | [Bound](https://ostdb.net/games/bound) | **Bound (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4SzHEr9IsLYY0SznFkWoJQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c7133b46c7029722e8895940" width="60" /> | [Bound By Flame](https://ostdb.net/games/bound-by-flame) | **Bound By Flame (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7iseRLOjgTXOnKxq2fCm9X) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2735d543f84de7e21b54dd12afe" width="60" /> | [Bramble: The Mountain King](https://ostdb.net/games/bramble-the-mountain-king) | **Bramble: The Mountain King (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4HyeqcMHnJhYm7kQSrfwiJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d0e160c76a6193a288cf71cb" width="60" /> | [Broken Age](https://ostdb.net/games/broken-age) | **Broken Age (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3mJ4hyPdq3BDhg6ra4G766) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/3a/f9/463af98a-8222-1fc5-c9b5-9c036d34351c/artwork.jpg/600x600bb.jpg" width="60" /> | [BrokenLore: Unfollow](https://ostdb.net/games/brokenlore-unfollow) | **BrokenLore: UNFOLLOW Original Soundtrack (feat. Shorelle) - Single** · [Spotify](https://music.apple.com/us/album/brokenlore-unfollow-original-soundtrack-feat-shorelle/1711757115?uo=4) · [Album](https://album.link/i/1711757115) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736433ac168f12282fd029710e" width="60" /> | [Brothers: A Tale of Two Sons](https://ostdb.net/games/brothers-a-tale-of-two-sons) | **Brothers: A Tale of Two Sons Remake (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/70GKsHcGolG4rvXOgwoeG9) |
@@ -1766,4 +1767,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2083 soundtracks · last updated 2026-10-17T15:35:25.733Z_
+_2084 soundtracks · last updated 2026-10-17T15:35:33.968Z_
