@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
 | Late Laundry | 312858 | [312858-late-laundry.json](./312858-late-laundry.json) |
 | Late Metro Drive | 374965 | [374965-late-metro-drive.json](./374965-late-metro-drive.json) |
+| Late Ming Dynasty | 379101 | [379101-late-ming-dynasty.json](./379101-late-ming-dynasty.json) |
 | Late Ming Fly Guy | 339904 | [339904-late-ming-fly-guy.json](./339904-late-ming-fly-guy.json) |
 | Late Night 1320 | 115654 | [115654-late-night-1320.json](./115654-late-night-1320.json) |
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
