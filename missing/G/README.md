@@ -4965,6 +4965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodboy Galaxy/Witch n' Wiz | 260091 | [260091-goodboy-galaxy-witch-n-wiz.json](./260091-goodboy-galaxy-witch-n-wiz.json) |
 | Goodbye | 130741 | [130741-goodbye.json](./130741-goodbye.json) |
 | Goodbye | 178455 | [178455-goodbye.json](./178455-goodbye.json) |
+| Goodbye | 365456 | [365456-goodbye.json](./365456-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
