@@ -1140,6 +1140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Raid | 220062 | [220062-undead-raid.json](./220062-undead-raid.json) |
 | Undead Realm: Ego | 327836 | [327836-undead-realm-ego.json](./327836-undead-realm-ego.json) |
 | Undead Residence | 411662 | [411662-undead-residence.json](./411662-undead-residence.json) |
+| Undead Rider | 387566 | [387566-undead-rider.json](./387566-undead-rider.json) |
 | Undead Run | 163741 | [163741-undead-run.json](./163741-undead-run.json) |
 | Undead Slayer | 46755 | [46755-undead-slayer.json](./46755-undead-slayer.json) |
 | Undead Souls | 55496 | [55496-undead-souls.json](./55496-undead-souls.json) |
