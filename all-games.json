@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:06.578Z",
-  "total_soundtracks": 2088,
+  "generated_at": "2026-10-17T15:36:14.715Z",
+  "total_soundtracks": 2089,
   "games": [
     {
       "igdb_id": 7522,
@@ -11779,6 +11779,20 @@
         {
           "album_name": "L.A. Noire Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 95118,
+      "game_name": "Last Epoch",
+      "game_url": "https://ostdb.net/games/last-epoch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27389a4ac2f90eae803ba519d5d",
+      "albums": [
+        {
+          "album_name": "Last Epoch (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0vXDBzCpZJzeNqi4WQ0Alm",
           "apple_music_url": "",
           "album_link_url": ""
         }
