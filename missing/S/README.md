@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
+| Scream You Lose | 404164 | [404164-scream-you-lose.json](./404164-scream-you-lose.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
 | ScreamCap | 190723 | [190723-screamcap.json](./190723-screamcap.json) |
 | Screamdown | 265098 | [265098-screamdown.json](./265098-screamdown.json) |
@@ -5565,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltered From the Storm | 373865 | [373865-sheltered-from-the-storm.json](./373865-sheltered-from-the-storm.json) |
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
 | Shenaniganza | 304561 | [304561-shenaniganza.json](./304561-shenaniganza.json) |
@@ -7324,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill: The Gallows | 275627 | [275627-silent-hill-the-gallows.json](./275627-silent-hill-the-gallows.json) |
 | Silent Hill: Townfall | 222342 | [222342-silent-hill-townfall.json](./222342-silent-hill-townfall.json) |
 | Silent Hill: Townfall - Day One Edition | 420561 | [420561-silent-hill-townfall-day-one-edition.json](./420561-silent-hill-townfall-day-one-edition.json) |
+| Silent Hill: Townfall Deluxe Edition | 404083 | [404083-silent-hill-townfall-deluxe-edition.json](./404083-silent-hill-townfall-deluxe-edition.json) |
 | Silent Hills | 7611 | [7611-silent-hills.json](./7611-silent-hills.json) |
 | Silent Hope | 254330 | [254330-silent-hope.json](./254330-silent-hope.json) |
 | Silent Hope: Wanderer's Weapon & Item Set | 254464 | [254464-silent-hope-wanderers-weapon-and-item-set.json](./254464-silent-hope-wanderers-weapon-and-item-set.json) |
@@ -8814,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Racket | 115006 | [115006-sky-racket.json](./115006-sky-racket.json) |
 | Sky Raider | 24830 | [24830-sky-raider.json](./24830-sky-raider.json) |
 | Sky Reach | 382347 | [382347-sky-reach.json](./382347-sky-reach.json) |
+| Sky Realm Idle | 404067 | [404067-sky-realm-idle.json](./404067-sky-realm-idle.json) |
 | Sky Realm: Essences | 118332 | [118332-sky-realm-essences.json](./118332-sky-realm-essences.json) |
 | Sky Reaper | 114223 | [114223-sky-reaper.json](./114223-sky-reaper.json) |
 | Sky Reclaimers | 348247 | [348247-sky-reclaimers.json](./348247-sky-reclaimers.json) |
@@ -25423,6 +25427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
+| System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
 | System Clues | 373000 | [373000-system-clues.json](./373000-system-clues.json) |
