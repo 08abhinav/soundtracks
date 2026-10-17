@@ -6718,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forecast Death | 382758 | [382758-forecast-death.json](./382758-forecast-death.json) |
 | Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
 | Foreclosure Simulator | 201502 | [201502-foreclosure-simulator.json](./201502-foreclosure-simulator.json) |
+| Forefeathers | 414752 | [414752-forefeathers.json](./414752-forefeathers.json) |
 | Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
