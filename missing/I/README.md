@@ -3047,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
+| Inner Rooms | 405938 | [405938-inner-rooms.json](./405938-inner-rooms.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
 | Inner silence | 29869 | [29869-inner-silence.json](./29869-inner-silence.json) |
 | Inner Struggle | 297918 | [297918-inner-struggle.json](./297918-inner-struggle.json) |
@@ -3328,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insula: Bounty Royale | 149959 | [149959-insula-bounty-royale.json](./149959-insula-bounty-royale.json) |
 | Insularis Draco | 356239 | [356239-insularis-draco.json](./356239-insularis-draco.json) |
 | Insulted | 229676 | [229676-insulted.json](./229676-insulted.json) |
+| Insurance Hunter | 405952 | [405952-insurance-hunter.json](./405952-insurance-hunter.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
