@@ -1259,7 +1259,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
-| Papetura | 121567 | [121567-papetura.json](./121567-papetura.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
 | PapiBatting | 87237 | [87237-papibatting.json](./87237-papibatting.json) |
