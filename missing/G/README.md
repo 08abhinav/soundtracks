@@ -7050,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
+| Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
