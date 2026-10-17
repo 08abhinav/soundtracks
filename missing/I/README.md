@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am an Air Traffic Controller 4: Airport Narita - RJAA | 310386 | [310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json](./310386-i-am-an-air-traffic-controller-4-airport-narita-rjaa.json) |
 | I am an Air Traffic Controller Airport Hero Hawaii | 84545 | [84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json](./84545-i-am-an-air-traffic-controller-airport-hero-hawaii.json) |
 | I am an Air Traffic Controller: Airport Hero Centrair - 20th Anniversary | 323700 | [323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json](./323700-i-am-an-air-traffic-controller-airport-hero-centrair-20th-anniversary.json) |
+| I am an Air Traffic Controller: Airport Hero Centrair EX | 415391 | [415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json](./415391-i-am-an-air-traffic-controller-airport-hero-centrair-ex.json) |
 | I am an Air Traffic Controller: Airport Hero Haneda - Sky Day! Variety Pack | 237971 | [237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json](./237971-i-am-an-air-traffic-controller-airport-hero-haneda-sky-day-variety-pack.json) |
 | I Am An Air Traffic Controller: Airport Hero Kankuu | 77859 | [77859-i-am-an-air-traffic-controller-airport-hero-kankuu.json](./77859-i-am-an-air-traffic-controller-airport-hero-kankuu.json) |
 | I Am An Air Traffic Controller: Airport Hero Naha | 56475 | [56475-i-am-an-air-traffic-controller-airport-hero-naha.json](./56475-i-am-an-air-traffic-controller-airport-hero-naha.json) |
@@ -117,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
 | I Bug | 340501 | [340501-i-bug.json](./340501-i-bug.json) |
+| I Buried Steve | 415445 | [415445-i-buried-steve.json](./415445-i-buried-steve.json) |
 | I C Redd | 84543 | [84543-i-c-redd.json](./84543-i-c-redd.json) |
 | I Can Be a Dinosaur Finder | 85976 | [85976-i-can-be-a-dinosaur-finder.json](./85976-i-can-be-a-dinosaur-finder.json) |
 | I Can Destroy Everything!!! | 274739 | [274739-i-can-destroy-everything.json](./274739-i-can-destroy-everything.json) |
