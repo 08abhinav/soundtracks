@@ -2307,6 +2307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
 | Fate Machine | 377959 | [377959-fate-machine.json](./377959-fate-machine.json) |
+| Fate of Antara | 370457 | [370457-fate-of-antara.json](./370457-fate-of-antara.json) |
 | Fate of Hellas | 21302 | [21302-fate-of-hellas.json](./21302-fate-of-hellas.json) |
 | Fate of India | 104324 | [104324-fate-of-india.json](./104324-fate-of-india.json) |
 | Fate of Kai | 139314 | [139314-fate-of-kai.json](./139314-fate-of-kai.json) |
@@ -6490,6 +6491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
+| Football Agent | 370452 | [370452-football-agent.json](./370452-football-agent.json) |
 | Football Battle | 187243 | [187243-football-battle.json](./187243-football-battle.json) |
 | Football Battle: Touchdown! | 231952 | [231952-football-battle-touchdown.json](./231952-football-battle-touchdown.json) |
 | Football Betting | 167246 | [167246-football-betting.json](./167246-football-betting.json) |
