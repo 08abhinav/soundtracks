@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
+| In Gehenna Fantasy Heroine Edition | 367735 | [367735-in-gehenna-fantasy-heroine-edition.json](./367735-in-gehenna-fantasy-heroine-edition.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
 | In Hazy Clouds | 212761 | [212761-in-hazy-clouds.json](./212761-in-hazy-clouds.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Integer | 178030 | [178030-integer.json](./178030-integer.json) |
 | Integrifix | 335845 | [335845-integrifix.json](./335845-integrifix.json) |
 | Integrity | 387500 | [387500-integrity.json](./387500-integrity.json) |
+| Integuments: Shadow of Shrek | 367700 | [367700-integuments-shadow-of-shrek.json](./367700-integuments-shadow-of-shrek.json) |
 | Intel Discovered | 64470 | [64470-intel-discovered.json](./64470-intel-discovered.json) |
 | Intelektronica | 400468 | [400468-intelektronica.json](./400468-intelektronica.json) |
 | Intellectual Decathlon | 401790 | [401790-intellectual-decathlon.json](./401790-intellectual-decathlon.json) |
@@ -4678,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Sucks to Be Us | 397062 | [397062-it-sucks-to-be-us.json](./397062-it-sucks-to-be-us.json) |
 | It sucks, y'know | 302661 | [302661-it-sucks-yknow.json](./302661-it-sucks-yknow.json) |
 | It Takes a Village | 290861 | [290861-it-takes-a-village.json](./290861-it-takes-a-village.json) |
+| It Takes a War | 367738 | [367738-it-takes-a-war.json](./367738-it-takes-a-war.json) |
 | It Takes a War: Demo Drills - Director's Cut | 402538 | [402538-it-takes-a-war-demo-drills-directors-cut.json](./402538-it-takes-a-war-demo-drills-directors-cut.json) |
 | It Takes Many | 370188 | [370188-it-takes-many.json](./370188-it-takes-many.json) |
 | It Takes One Year To Beat This Game | 339307 | [339307-it-takes-one-year-to-beat-this-game.json](./339307-it-takes-one-year-to-beat-this-game.json) |
