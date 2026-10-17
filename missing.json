@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:26:41.087Z",
-  "total_missing": 223600,
+  "generated_at": "2026-10-17T11:41:41.282Z",
+  "total_missing": 223647,
   "games": [
     {
       "igdb_id": 191680,
@@ -28482,6 +28482,11 @@
       "file": "missing/A/389539-agro-simulator-season-26.json"
     },
     {
+      "igdb_id": 388794,
+      "game_name": "Agrocracy",
+      "file": "missing/A/388794-agrocracy.json"
+    },
+    {
       "igdb_id": 381849,
       "game_name": "Agromatic",
       "file": "missing/A/381849-agromatic.json"
@@ -56075,6 +56080,11 @@
       "igdb_id": 50626,
       "game_name": "Arcade Shooting Gallery",
       "file": "missing/A/50626-arcade-shooting-gallery.json"
+    },
+    {
+      "igdb_id": 388791,
+      "game_name": "Arcade Shop Simulator",
+      "file": "missing/A/388791-arcade-shop-simulator.json"
     },
     {
       "igdb_id": 84177,
@@ -143647,6 +143657,11 @@
       "file": "missing/C/153967-calmed-by-the-dark-leviathan.json"
     },
     {
+      "igdb_id": 388788,
+      "game_name": "Calmed by the Dαrk",
+      "file": "missing/C/388788-calmed-by-the-d-rk.json"
+    },
+    {
       "igdb_id": 261161,
       "game_name": "Calming Lia",
       "file": "missing/C/261161-calming-lia.json"
@@ -180517,6 +180532,11 @@
       "file": "missing/C/391877-cold-pines.json"
     },
     {
+      "igdb_id": 388798,
+      "game_name": "Cold Rails",
+      "file": "missing/C/388798-cold-rails.json"
+    },
+    {
       "igdb_id": 219226,
       "game_name": "Cold Renegade",
       "file": "missing/C/219226-cold-renegade.json"
@@ -209820,6 +209840,11 @@
       "igdb_id": 285122,
       "game_name": "Cursed Mansion: Rose Christmas Costume",
       "file": "missing/C/285122-cursed-mansion-rose-christmas-costume.json"
+    },
+    {
+      "igdb_id": 388808,
+      "game_name": "Cursed Meal",
+      "file": "missing/C/388808-cursed-meal.json"
     },
     {
       "igdb_id": 370549,
@@ -318420,6 +318445,11 @@
       "igdb_id": 48627,
       "game_name": "Fantasy Zone II: Opa-Opa no Namida",
       "file": "missing/F/48627-fantasy-zone-ii-opa-opa-no-namida.json"
+    },
+    {
+      "igdb_id": 388998,
+      "game_name": "Fantasy Zone II: The Tears of Opa-Opa",
+      "file": "missing/F/388998-fantasy-zone-ii-the-tears-of-opa-opa.json"
     },
     {
       "igdb_id": 45658,
@@ -507977,6 +508007,11 @@
       "file": "missing/L/12375-la-abadia-del-crimen.json"
     },
     {
+      "igdb_id": 388786,
+      "game_name": "La Artesana de Rostros",
+      "file": "missing/L/388786-la-artesana-de-rostros.json"
+    },
+    {
       "igdb_id": 74226,
       "game_name": "La Aventura De Axel",
       "file": "missing/L/74226-la-aventura-de-axel.json"
@@ -526762,6 +526797,11 @@
       "file": "missing/L/367530-lines-98.json"
     },
     {
+      "igdb_id": 388792,
+      "game_name": "Lines 98 Classic",
+      "file": "missing/L/388792-lines-98-classic.json"
+    },
+    {
       "igdb_id": 221994,
       "game_name": "Lines Frenzy",
       "file": "missing/L/221994-lines-frenzy.json"
@@ -530015,11 +530055,6 @@
       "igdb_id": 386475,
       "game_name": "Liv",
       "file": "missing/L/386475-liv.json"
-    },
-    {
-      "igdb_id": 15835,
-      "game_name": "Live A Live",
-      "file": "missing/L/15835-live-a-live.json"
     },
     {
       "igdb_id": 319312,
@@ -540257,11 +540292,6 @@
       "file": "missing/L/356240-lucium-total-war.json"
     },
     {
-      "igdb_id": 17329,
-      "game_name": "Lucius II",
-      "file": "missing/L/17329-lucius-ii.json"
-    },
-    {
       "igdb_id": 142035,
       "game_name": "Luck be a Landlord",
       "file": "missing/L/142035-luck-be-a-landlord.json"
@@ -546770,6 +546800,11 @@
       "igdb_id": 348499,
       "game_name": "Mafioso",
       "file": "missing/M/348499-mafioso.json"
+    },
+    {
+      "igdb_id": 388793,
+      "game_name": "Mafioso",
+      "file": "missing/M/388793-mafioso.json"
     },
     {
       "igdb_id": 178431,
@@ -603852,6 +603887,11 @@
       "file": "missing/M/405350-mortal-kombat-11-gothic-horror-skin-pack.json"
     },
     {
+      "igdb_id": 388867,
+      "game_name": "Mortal Kombat 11: Hellspawn Jacqui",
+      "file": "missing/M/388867-mortal-kombat-11-hellspawn-jacqui.json"
+    },
+    {
       "igdb_id": 406877,
       "game_name": "Mortal Kombat 11: Klassic Cassie",
       "file": "missing/M/406877-mortal-kombat-11-klassic-cassie.json"
@@ -603940,6 +603980,16 @@
       "igdb_id": 128009,
       "game_name": "Mortal Kombat 11: The Joker",
       "file": "missing/M/128009-mortal-kombat-11-the-joker.json"
+    },
+    {
+      "igdb_id": 388869,
+      "game_name": "Mortal Kombat 11: Time Lord of Apokolips Geras",
+      "file": "missing/M/388869-mortal-kombat-11-time-lord-of-apokolips-geras.json"
+    },
+    {
+      "igdb_id": 388866,
+      "game_name": "Mortal Kombat 11: Time Warriors Skin Pack",
+      "file": "missing/M/388866-mortal-kombat-11-time-warriors-skin-pack.json"
     },
     {
       "igdb_id": 139446,
@@ -604175,6 +604225,16 @@
       "igdb_id": 23793,
       "game_name": "Mortal Kombat: Armageddon - Premium Edition",
       "file": "missing/M/23793-mortal-kombat-armageddon-premium-edition.json"
+    },
+    {
+      "igdb_id": 388882,
+      "game_name": "Mortal Kombat: Compatibility Pack 1",
+      "file": "missing/M/388882-mortal-kombat-compatibility-pack-1.json"
+    },
+    {
+      "igdb_id": 388883,
+      "game_name": "Mortal Kombat: Compatibility Pack 2",
+      "file": "missing/M/388883-mortal-kombat-compatibility-pack-2.json"
     },
     {
       "igdb_id": 229852,
@@ -618000,6 +618060,11 @@
       "igdb_id": 362340,
       "game_name": "My Tiny Island",
       "file": "missing/M/362340-my-tiny-island.json"
+    },
+    {
+      "igdb_id": 388785,
+      "game_name": "My Tiny Park",
+      "file": "missing/M/388785-my-tiny-park.json"
     },
     {
       "igdb_id": 348451,
@@ -654557,6 +654622,11 @@
       "file": "missing/O/419352-olenveld.json"
     },
     {
+      "igdb_id": 388837,
+      "game_name": "Olga Doesn't Die",
+      "file": "missing/O/388837-olga-doesnt-die.json"
+    },
+    {
       "igdb_id": 192791,
       "game_name": "Oli",
       "file": "missing/O/192791-oli.json"
@@ -672510,6 +672580,11 @@
       "igdb_id": 413904,
       "game_name": "Paddle Momentum",
       "file": "missing/P/413904-paddle-momentum.json"
+    },
+    {
+      "igdb_id": 388895,
+      "game_name": "Paddle Pop Kombatei",
+      "file": "missing/P/388895-paddle-pop-kombatei.json"
     },
     {
       "igdb_id": 366244,
@@ -703635,11 +703710,6 @@
       "igdb_id": 108906,
       "game_name": "Planetarix",
       "file": "missing/P/108906-planetarix.json"
-    },
-    {
-      "igdb_id": 2958,
-      "game_name": "Planetary Annihilation",
-      "file": "missing/P/2958-planetary-annihilation.json"
     },
     {
       "igdb_id": 18962,
@@ -747972,6 +748042,11 @@
       "file": "missing/R/231989-ranbu-sangokushi-rumble.json"
     },
     {
+      "igdb_id": 388830,
+      "game_name": "Rance 01",
+      "file": "missing/R/388830-rance-01.json"
+    },
+    {
       "igdb_id": 384828,
       "game_name": "Rance 01 + 02",
       "file": "missing/R/384828-rance-01-02.json"
@@ -762395,6 +762470,11 @@
       "igdb_id": 112504,
       "game_name": "Resuffer: Down the Rabbit Hole",
       "file": "missing/R/112504-resuffer-down-the-rabbit-hole.json"
+    },
+    {
+      "igdb_id": 388784,
+      "game_name": "Resultare",
+      "file": "missing/R/388784-resultare.json"
     },
     {
       "igdb_id": 406681,
@@ -783995,6 +784075,11 @@
       "igdb_id": 169148,
       "game_name": "Ruins of Albion",
       "file": "missing/R/169148-ruins-of-albion.json"
+    },
+    {
+      "igdb_id": 388787,
+      "game_name": "Ruins of Blackspire",
+      "file": "missing/R/388787-ruins-of-blackspire.json"
     },
     {
       "igdb_id": 310000,
@@ -871507,6 +871592,11 @@
       "file": "missing/S/266971-stand-your-ground.json"
     },
     {
+      "igdb_id": 388790,
+      "game_name": "Stand: Sins of the Immortals",
+      "file": "missing/S/388790-stand-sins-of-the-immortals.json"
+    },
+    {
       "igdb_id": 108835,
       "game_name": "Standard Bits",
       "file": "missing/S/108835-standard-bits.json"
@@ -887062,6 +887152,11 @@
       "file": "missing/S/342577-street-fighter-v-story-costume-pack-season-1-3.json"
     },
     {
+      "igdb_id": 388881,
+      "game_name": "Street Fighter V: Zangief Costume Bundle",
+      "file": "missing/S/388881-street-fighter-v-zangief-costume-bundle.json"
+    },
+    {
       "igdb_id": 332476,
       "game_name": "Street Fighter V: Zeku",
       "file": "missing/S/332476-street-fighter-v-zeku.json"
@@ -887092,9 +887187,124 @@
       "file": "missing/S/1065-street-fighter-x-tekken.json"
     },
     {
+      "igdb_id": 388831,
+      "game_name": "Street Fighter X Tekken: Abel (Swap Costume)",
+      "file": "missing/S/388831-street-fighter-x-tekken-abel-swap-costume.json"
+    },
+    {
+      "igdb_id": 388844,
+      "game_name": "Street Fighter X Tekken: Akuma (Swap Costume)",
+      "file": "missing/S/388844-street-fighter-x-tekken-akuma-swap-costume.json"
+    },
+    {
+      "igdb_id": 388825,
+      "game_name": "Street Fighter X Tekken: Asuka (Swap Costume)",
+      "file": "missing/S/388825-street-fighter-x-tekken-asuka-swap-costume.json"
+    },
+    {
+      "igdb_id": 388827,
+      "game_name": "Street Fighter X Tekken: Balrog (Swap Costume)",
+      "file": "missing/S/388827-street-fighter-x-tekken-balrog-swap-costume.json"
+    },
+    {
+      "igdb_id": 388838,
+      "game_name": "Street Fighter X Tekken: Blanka (Swap Costume)",
+      "file": "missing/S/388838-street-fighter-x-tekken-blanka-swap-costume.json"
+    },
+    {
+      "igdb_id": 388832,
+      "game_name": "Street Fighter X Tekken: Chun-Li (Swap Costume)",
+      "file": "missing/S/388832-street-fighter-x-tekken-chun-li-swap-costume.json"
+    },
+    {
+      "igdb_id": 388819,
+      "game_name": "Street Fighter X Tekken: Hugo (Swap Costume)",
+      "file": "missing/S/388819-street-fighter-x-tekken-hugo-swap-costume.json"
+    },
+    {
+      "igdb_id": 388835,
+      "game_name": "Street Fighter X Tekken: Jin (Swap Costume)",
+      "file": "missing/S/388835-street-fighter-x-tekken-jin-swap-costume.json"
+    },
+    {
+      "igdb_id": 388826,
+      "game_name": "Street Fighter X Tekken: Juri (Swap Costume)",
+      "file": "missing/S/388826-street-fighter-x-tekken-juri-swap-costume.json"
+    },
+    {
+      "igdb_id": 388833,
+      "game_name": "Street Fighter X Tekken: Ken (Swap Costume)",
+      "file": "missing/S/388833-street-fighter-x-tekken-ken-swap-costume.json"
+    },
+    {
+      "igdb_id": 388828,
+      "game_name": "Street Fighter X Tekken: Law (Swap Costume)",
+      "file": "missing/S/388828-street-fighter-x-tekken-law-swap-costume.json"
+    },
+    {
+      "igdb_id": 388822,
+      "game_name": "Street Fighter X Tekken: Lili (Swap Costume)",
+      "file": "missing/S/388822-street-fighter-x-tekken-lili-swap-costume.json"
+    },
+    {
+      "igdb_id": 388816,
+      "game_name": "Street Fighter X Tekken: Nina (Swap Costume)",
+      "file": "missing/S/388816-street-fighter-x-tekken-nina-swap-costume.json"
+    },
+    {
+      "igdb_id": 388815,
+      "game_name": "Street Fighter X Tekken: Paul (Swap Costume)",
+      "file": "missing/S/388815-street-fighter-x-tekken-paul-swap-costume.json"
+    },
+    {
+      "igdb_id": 388823,
+      "game_name": "Street Fighter X Tekken: Poison (Swap Costume)",
+      "file": "missing/S/388823-street-fighter-x-tekken-poison-swap-costume.json"
+    },
+    {
+      "igdb_id": 388824,
+      "game_name": "Street Fighter X Tekken: Rolento (Swap Costume)",
+      "file": "missing/S/388824-street-fighter-x-tekken-rolento-swap-costume.json"
+    },
+    {
+      "igdb_id": 388818,
+      "game_name": "Street Fighter X Tekken: Rufus (Swap Costume)",
+      "file": "missing/S/388818-street-fighter-x-tekken-rufus-swap-costume.json"
+    },
+    {
+      "igdb_id": 388834,
+      "game_name": "Street Fighter X Tekken: Ryu (Swap Costume)",
+      "file": "missing/S/388834-street-fighter-x-tekken-ryu-swap-costume.json"
+    },
+    {
+      "igdb_id": 388817,
+      "game_name": "Street Fighter X Tekken: Sagat (Swap Costume)",
+      "file": "missing/S/388817-street-fighter-x-tekken-sagat-swap-costume.json"
+    },
+    {
       "igdb_id": 45197,
       "game_name": "Street Fighter X Tekken: Special Edition",
       "file": "missing/S/45197-street-fighter-x-tekken-special-edition.json"
+    },
+    {
+      "igdb_id": 388820,
+      "game_name": "Street Fighter X Tekken: Steve (Swap Costume)",
+      "file": "missing/S/388820-street-fighter-x-tekken-steve-swap-costume.json"
+    },
+    {
+      "igdb_id": 388814,
+      "game_name": "Street Fighter X Tekken: Tekken Booster Pack 3",
+      "file": "missing/S/388814-street-fighter-x-tekken-tekken-booster-pack-3.json"
+    },
+    {
+      "igdb_id": 388821,
+      "game_name": "Street Fighter X Tekken: Xiaoyu (Swap Costume)",
+      "file": "missing/S/388821-street-fighter-x-tekken-xiaoyu-swap-costume.json"
+    },
+    {
+      "igdb_id": 388829,
+      "game_name": "Street Fighter X Tekken: Zangief (Swap Costume)",
+      "file": "missing/S/388829-street-fighter-x-tekken-zangief-swap-costume.json"
     },
     {
       "igdb_id": 242649,
@@ -903797,6 +904007,16 @@
       "file": "missing/S/239098-super-smash-asteroids.json"
     },
     {
+      "igdb_id": 388797,
+      "game_name": "Super Smash Bros Ultimate: Cuphead Outfit and Hat",
+      "file": "missing/S/388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json"
+    },
+    {
+      "igdb_id": 388795,
+      "game_name": "Super Smash Bros Ultimate: Erdrick's Armor and Helmet",
+      "file": "missing/S/388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json"
+    },
+    {
       "igdb_id": 306045,
       "game_name": "Super Smash Bros Ultimate: Jacky's Outfit and Wig",
       "file": "missing/S/306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json"
@@ -903830,6 +904050,11 @@
       "igdb_id": 350409,
       "game_name": "Super Smash Bros Ultimate: Veronica's Outfit and Hat",
       "file": "missing/S/350409-super-smash-bros-ultimate-veronicas-outfit-and-hat.json"
+    },
+    {
+      "igdb_id": 388796,
+      "game_name": "Super Smash Bros Ultitmate: Team Rocket Outfit and Hat",
+      "file": "missing/S/388796-super-smash-bros-ultitmate-team-rocket-outfit-and-hat.json"
     },
     {
       "igdb_id": 394607,
@@ -963915,6 +964140,11 @@
       "igdb_id": 272352,
       "game_name": "The Man from the Window 2",
       "file": "missing/T/272352-the-man-from-the-window-2.json"
+    },
+    {
+      "igdb_id": 388807,
+      "game_name": "The Man I Love",
+      "file": "missing/T/388807-the-man-i-love.json"
     },
     {
       "igdb_id": 65816,
@@ -1106565,6 +1106795,11 @@
       "igdb_id": 385608,
       "game_name": "Your Mom",
       "file": "missing/Y/385608-your-mom.json"
+    },
+    {
+      "igdb_id": 388801,
+      "game_name": "Your Mother Disgusts Me",
+      "file": "missing/Y/388801-your-mother-disgusts-me.json"
     },
     {
       "igdb_id": 235723,
