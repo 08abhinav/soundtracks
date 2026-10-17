@@ -9299,6 +9299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
 | Minos Starfighter VR | 104639 | [104639-minos-starfighter-vr.json](./104639-minos-starfighter-vr.json) |
 | Minos Trials | 392173 | [392173-minos-trials.json](./392173-minos-trials.json) |
+| Minos: Home A-Labyrinth | 381905 | [381905-minos-home-a-labyrinth.json](./381905-minos-home-a-labyrinth.json) |
 | Minotaur | 305839 | [305839-minotaur.json](./305839-minotaur.json) |
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
@@ -11256,6 +11257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
 | Monster Ops 5 | 370276 | [370276-monster-ops-5.json](./370276-monster-ops-5.json) |
+| Monster Ops 7 | 382007 | [382007-monster-ops-7.json](./382007-monster-ops-7.json) |
 | Monster Outbreak | 154046 | [154046-monster-outbreak.json](./154046-monster-outbreak.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
@@ -14508,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hunting Adventure Time | 261156 | [261156-my-hunting-adventure-time.json](./261156-my-hunting-adventure-time.json) |
 | My Husband is a Stranger | 352144 | [352144-my-husband-is-a-stranger.json](./352144-my-husband-is-a-stranger.json) |
 | My Ice Cream Maker | 408069 | [408069-my-ice-cream-maker.json](./408069-my-ice-cream-maker.json) |
+| My Idle Space Cruiser | 381895 | [381895-my-idle-space-cruiser.json](./381895-my-idle-space-cruiser.json) |
 | My Idle Witch | 395589 | [395589-my-idle-witch.json](./395589-my-idle-witch.json) |
 | My Illegal Cafe | 245749 | [245749-my-illegal-cafe.json](./245749-my-illegal-cafe.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
