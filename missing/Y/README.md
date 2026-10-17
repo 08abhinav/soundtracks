@@ -400,6 +400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Incremental Game (But This Time About Coding) | 412965 | [412965-yet-another-incremental-game-but-this-time-about-coding.json](./412965-yet-another-incremental-game-but-this-time-about-coding.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
+| Yet Another PS2 Half-Life Port | 401274 | [401274-yet-another-ps2-half-life-port.json](./401274-yet-another-ps2-half-life-port.json) |
 | Yet Another Research Dog | 83589 | [83589-yet-another-research-dog.json](./83589-yet-another-research-dog.json) |
 | Yet Another Snake Game | 111195 | [111195-yet-another-snake-game.json](./111195-yet-another-snake-game.json) |
 | Yet Another Solitaire Game | 316981 | [316981-yet-another-solitaire-game.json](./316981-yet-another-solitaire-game.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your courier is on their way! | 192845 | [192845-your-courier-is-on-their-way.json](./192845-your-courier-is-on-their-way.json) |
 | Your Cozy Unboxing | 414538 | [414538-your-cozy-unboxing.json](./414538-your-cozy-unboxing.json) |
 | Your Crown Is Mine | 332580 | [332580-your-crown-is-mine.json](./332580-your-crown-is-mine.json) |
+| Your Cute Wife | 401265 | [401265-your-cute-wife.json](./401265-your-cute-wife.json) |
 | Your Dead Majesty | 149021 | [149021-your-dead-majesty.json](./149021-your-dead-majesty.json) |
 | Your Debt Is Paid | 422098 | [422098-your-debt-is-paid.json](./422098-your-debt-is-paid.json) |
 | Your Diary+ | 106640 | [106640-your-diary.json](./106640-your-diary.json) |
