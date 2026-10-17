@@ -2684,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecaminosa | 140807 | [140807-pecaminosa.json](./140807-pecaminosa.json) |
 | Pecaminosa: Collector's Edition | 146141 | [146141-pecaminosa-collectors-edition.json](./146141-pecaminosa-collectors-edition.json) |
 | Peccator-It's Not Over Yet | 180104 | [180104-peccator-its-not-over-yet.json](./180104-peccator-its-not-over-yet.json) |
+| Péché Mignon | 394644 | [394644-peche-mignon.json](./394644-peche-mignon.json) |
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
@@ -6312,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Empire | 151104 | [151104-pizza-empire.json](./151104-pizza-empire.json) |
+| Pizza Empire | 394630 | [394630-pizza-empire.json](./394630-pizza-empire.json) |
 | Pizza Empire! | 172048 | [172048-pizza-empire.json](./172048-pizza-empire.json) |
 | Pizza Express | 35121 | [35121-pizza-express.json](./35121-pizza-express.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
@@ -8490,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polnyj ulyot | 129105 | [129105-polnyj-ulyot.json](./129105-polnyj-ulyot.json) |
 | Polo | 40661 | [40661-polo.json](./40661-polo.json) |
 | Polt | 398311 | [398311-polt.json](./398311-polt.json) |
+| Polter Geists | 394637 | [394637-polter-geists.json](./394637-polter-geists.json) |
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
