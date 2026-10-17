@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
+| Upwell | 414184 | [414184-upwell.json](./414184-upwell.json) |
 | Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
 | UpWords, Boggle, Hangman & Word Hunter Collection | 84291 | [84291-upwords-boggle-hangman-and-word-hunter-collection.json](./84291-upwords-boggle-hangman-and-word-hunter-collection.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
