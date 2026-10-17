@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evade the Light | 151157 | [151157-evade-the-light.json](./151157-evade-the-light.json) |
 | Evade Zero | 169745 | [169745-evade-zero.json](./169745-evade-zero.json) |
 | Evader | 290693 | [290693-evader.json](./290693-evader.json) |
+| Evades X | 396444 | [396444-evades-x.json](./396444-evades-x.json) |
 | Evades.io | 112223 | [112223-evades-io.json](./112223-evades-io.json) |
 | Evan Quest | 170357 | [170357-evan-quest.json](./170357-evan-quest.json) |
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
