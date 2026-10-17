@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klash | 62697 | [62697-klash.json](./62697-klash.json) |
 | KlashBall | 67941 | [67941-klashball.json](./67941-klashball.json) |
 | Klass of '99 | 120660 | [120660-klass-of-99.json](./120660-klass-of-99.json) |
+| Klasztor: Das Kloster | 398813 | [398813-klasztor-das-kloster.json](./398813-klasztor-das-kloster.json) |
 | Klątwa | 78573 | [78573-klatwa.json](./78573-klatwa.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
