@@ -4947,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
+| Shadowed: The Demon Castle of Ooe | 363669 | [363669-shadowed-the-demon-castle-of-ooe.json](./363669-shadowed-the-demon-castle-of-ooe.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
 | Shadowfax | 77333 | [77333-shadowfax.json](./77333-shadowfax.json) |
 | Shadowfire | 13034 | [13034-shadowfire.json](./13034-shadowfire.json) |
@@ -15675,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
+| Spirit Whisperer Conversation With Kamiko | 363663 | [363663-spirit-whisperer-conversation-with-kamiko.json](./363663-spirit-whisperer-conversation-with-kamiko.json) |
 | Spirit Wolves | 189938 | [189938-spirit-wolves.json](./189938-spirit-wolves.json) |
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
@@ -19256,6 +19258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Car Racing | 87867 | [87867-stock-car-racing.json](./87867-stock-car-racing.json) |
 | Stock Car USA | 408152 | [408152-stock-car-usa.json](./408152-stock-car-usa.json) |
 | Stock Cars Racing | 418317 | [418317-stock-cars-racing.json](./418317-stock-cars-racing.json) |
+| Stock Exchange Game | 363695 | [363695-stock-exchange-game.json](./363695-stock-exchange-game.json) |
 | Stock Exchange Kabutore Next | 76136 | [76136-stock-exchange-kabutore-next.json](./76136-stock-exchange-kabutore-next.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
