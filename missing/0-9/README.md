@@ -165,6 +165,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 005 | 38521 | [38521-005.json](./38521-005.json) |
 | 007 Charles 2 | 349891 | [349891-007-charles-2.json](./349891-007-charles-2.json) |
 | 007 First Light: Deluxe Edition | 405431 | [405431-007-first-light-deluxe-edition.json](./405431-007-first-light-deluxe-edition.json) |
+| 007 First Light: Desert Explorer | 404669 | [404669-007-first-light-desert-explorer.json](./404669-007-first-light-desert-explorer.json) |
+| 007 First Light: Gentleman Operator | 404672 | [404672-007-first-light-gentleman-operator.json](./404672-007-first-light-gentleman-operator.json) |
+| 007 First Light: Gleaming Lighter | 404671 | [404671-007-first-light-gleaming-lighter.json](./404671-007-first-light-gleaming-lighter.json) |
+| 007 First Light: Gleaming Pen | 404670 | [404670-007-first-light-gleaming-pen.json](./404670-007-first-light-gleaming-pen.json) |
 | 007 Legends | 1649 | [1649-007-legends.json](./1649-007-legends.json) |
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
@@ -844,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
+| 1666: Amsterdam | 404693 | [404693-1666-amsterdam.json](./404693-1666-amsterdam.json) |
 | 16Bit Rhythm Land | 213860 | [213860-16bit-rhythm-land.json](./213860-16bit-rhythm-land.json) |
 | 16bit Trader | 26837 | [26837-16bit-trader.json](./26837-16bit-trader.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
