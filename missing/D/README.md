@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dai-4-ji Super Robot Taisen | 42563 | [42563-dai-4-ji-super-robot-taisen.json](./42563-dai-4-ji-super-robot-taisen.json) |
 | Dai-chan's Great Adventure: World's End | 320366 | [320366-dai-chans-great-adventure-worlds-end.json](./320366-dai-chans-great-adventure-worlds-end.json) |
 | Dai-Dai-Kakumei | 65394 | [65394-dai-dai-kakumei.json](./65394-dai-dai-kakumei.json) |
+| Daibadestructor | 371008 | [371008-daibadestructor.json](./371008-daibadestructor.json) |
 | Daibakushou: Jinsei Gekijoh | 44415 | [44415-daibakushou-jinsei-gekijoh.json](./44415-daibakushou-jinsei-gekijoh.json) |
 | Daibakushou: Jinsei Gekijoh - Zukkoke Salaryman-hen | 44416 | [44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json](./44416-daibakushou-jinsei-gekijoh-zukkoke-salaryman-hen.json) |
 | Daiblos Core | 413067 | [413067-daiblos-core.json](./413067-daiblos-core.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Tycoon: Diver's Paradise | 146201 | [146201-deep-sea-tycoon-divers-paradise.json](./146201-deep-sea-tycoon-divers-paradise.json) |
 | Deep Sea Valentine | 143485 | [143485-deep-sea-valentine.json](./143485-deep-sea-valentine.json) |
 | Deep Sheol | 372838 | [372838-deep-sheol.json](./372838-deep-sheol.json) |
+| Deep Siren | 371010 | [371010-deep-siren.json](./371010-deep-siren.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
