@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verse Project | 378312 | [378312-verse-project.json](./378312-verse-project.json) |
 | Verse Roll | 263564 | [263564-verse-roll.json](./263564-verse-roll.json) |
 | Verse Surf | 141800 | [141800-verse-surf.json](./141800-verse-surf.json) |
+| Verse Unknown | 396341 | [396341-verse-unknown.json](./396341-verse-unknown.json) |
 | Verses | 359524 | [359524-verses.json](./359524-verses.json) |
 | Verses of Enchantment | 211982 | [211982-verses-of-enchantment.json](./211982-verses-of-enchantment.json) |
 | Verses of Hope | 313199 | [313199-verses-of-hope.json](./313199-verses-of-hope.json) |
@@ -3051,3 +3052,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
 | Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
+| VZones | 396501 | [396501-vzones.json](./396501-vzones.json) |
