@@ -11162,7 +11162,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Collector's Edition | 81289 | [81289-monster-hunter-world-collectors-edition.json](./81289-monster-hunter-world-collectors-edition.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
-| Monster Hunter: World - Iceborne | 113344 | [113344-monster-hunter-world-iceborne.json](./113344-monster-hunter-world-iceborne.json) |
 | Monster Hunter: World - Iceborne Deluxe Kit | 148509 | [148509-monster-hunter-world-iceborne-deluxe-kit.json](./148509-monster-hunter-world-iceborne-deluxe-kit.json) |
 | Monster Hunter: World - Iceborne: Complete Handler Costume Pack | 164577 | [164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json](./164577-monster-hunter-world-iceborne-complete-handler-costume-pack.json) |
 | Monster Hunter: World - Iceborne: Master Edition Digital Deluxe | 164814 | [164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json](./164814-monster-hunter-world-iceborne-master-edition-digital-deluxe.json) |
