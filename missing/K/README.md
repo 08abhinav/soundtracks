@@ -2498,7 +2498,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: Classic | 13686 | [13686-kingdom-classic.json](./13686-kingdom-classic.json) |
 | Kingdom: Flames of War | 372051 | [372051-kingdom-flames-of-war.json](./372051-kingdom-flames-of-war.json) |
 | Kingdom: Ikkitousen no Tsurugi | 59367 | [59367-kingdom-ikkitousen-no-tsurugi.json](./59367-kingdom-ikkitousen-no-tsurugi.json) |
-| Kingdom: New Lands | 24881 | [24881-kingdom-new-lands.json](./24881-kingdom-new-lands.json) |
 | Kingdom: The Blood | 174852 | [174852-kingdom-the-blood.json](./174852-kingdom-the-blood.json) |
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
