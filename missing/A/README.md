@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
+| A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
 | A Tiny Ghost Game | 418608 | [418608-a-tiny-ghost-game.json](./418608-a-tiny-ghost-game.json) |
+| A Tiny Life | 409219 | [409219-a-tiny-life.json](./409219-a-tiny-life.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A to Z | 88792 | [88792-a-to-z.json](./88792-a-to-z.json) |
@@ -5346,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altair Breaker | 208682 | [208682-altair-breaker.json](./208682-altair-breaker.json) |
 | Altar | 25598 | [25598-altar.json](./25598-altar.json) |
 | Altar | 337820 | [337820-altar.json](./337820-altar.json) |
+| Altar Corp | 409225 | [409225-altar-corp.json](./409225-altar-corp.json) |
 | Altar Guardian | 30776 | [30776-altar-guardian.json](./30776-altar-guardian.json) |
 | Altar of Evil | 269116 | [269116-altar-of-evil.json](./269116-altar-of-evil.json) |
 | Altar of Gems | 80167 | [80167-altar-of-gems.json](./80167-altar-of-gems.json) |
@@ -7998,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
 | Apothecary | 264227 | [264227-apothecary.json](./264227-apothecary.json) |
+| Apothecary Grounds | 409188 | [409188-apothecary-grounds.json](./409188-apothecary-grounds.json) |
 | Apothecary of Ashes | 408213 | [408213-apothecary-of-ashes.json](./408213-apothecary-of-ashes.json) |
 | Apothecurse | 334175 | [334175-apothecurse.json](./334175-apothecurse.json) |
 | Apotheker | 141880 | [141880-apotheker.json](./141880-apotheker.json) |
