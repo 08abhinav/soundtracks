@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T14:48:26.684Z",
-  "total_missing": 224178,
+  "generated_at": "2026-10-17T15:03:39.288Z",
+  "total_missing": 224162,
   "games": [
     {
       "igdb_id": 191680,
@@ -39800,11 +39800,6 @@
       "igdb_id": 262405,
       "game_name": "Amanda Stories",
       "file": "missing/A/262405-amanda-stories.json"
-    },
-    {
-      "igdb_id": 202601,
-      "game_name": "Amanda the Adventurer",
-      "file": "missing/A/202601-amanda-the-adventurer.json"
     },
     {
       "igdb_id": 272840,
@@ -115077,11 +115072,6 @@
       "file": "missing/B/406298-blood-welkin.json"
     },
     {
-      "igdb_id": 188555,
-      "game_name": "Blood West",
-      "file": "missing/B/188555-blood-west.json"
-    },
-    {
       "igdb_id": 369770,
       "game_name": "Blood West: Scavengers",
       "file": "missing/B/369770-blood-west-scavengers.json"
@@ -118810,11 +118800,6 @@
       "igdb_id": 393471,
       "game_name": "Body Sushi",
       "file": "missing/B/393471-body-sushi.json"
-    },
-    {
-      "igdb_id": 248994,
-      "game_name": "Bodycam",
-      "file": "missing/B/248994-bodycam.json"
     },
     {
       "igdb_id": 335092,
@@ -132385,11 +132370,6 @@
       "igdb_id": 250875,
       "game_name": "Brothers in Hell",
       "file": "missing/B/250875-brothers-in-hell.json"
-    },
-    {
-      "igdb_id": 279612,
-      "game_name": "Brothers: A Tale of Two Sons Remake",
-      "file": "missing/B/279612-brothers-a-tale-of-two-sons-remake.json"
     },
     {
       "igdb_id": 252152,
@@ -274777,11 +274757,6 @@
       "file": "missing/D/398320-duck-dash-delivery.json"
     },
     {
-      "igdb_id": 279374,
-      "game_name": "Duck Detective: The Secret Salami",
-      "file": "missing/D/279374-duck-detective-the-secret-salami.json"
-    },
-    {
       "igdb_id": 3336,
       "game_name": "Duck Dodgers Starring Daffy Duck",
       "file": "missing/D/3336-duck-dodgers-starring-daffy-duck.json"
@@ -277830,11 +277805,6 @@
       "igdb_id": 334073,
       "game_name": "Dungeon of the Devourer",
       "file": "missing/D/334073-dungeon-of-the-devourer.json"
-    },
-    {
-      "igdb_id": 9683,
-      "game_name": "Dungeon of the Endless",
-      "file": "missing/D/9683-dungeon-of-the-endless.json"
     },
     {
       "igdb_id": 168244,
@@ -313095,11 +313065,6 @@
       "igdb_id": 124188,
       "game_name": "Fadó",
       "file": "missing/F/124188-fado.json"
-    },
-    {
-      "igdb_id": 217555,
-      "game_name": "Fae Farm",
-      "file": "missing/F/217555-fae-farm.json"
     },
     {
       "igdb_id": 278681,
@@ -605067,11 +605032,6 @@
       "file": "missing/M/242151-mortal-kombat.json"
     },
     {
-      "igdb_id": 242237,
-      "game_name": "Mortal Kombat",
-      "file": "missing/M/242237-mortal-kombat.json"
-    },
-    {
       "igdb_id": 242239,
       "game_name": "Mortal Kombat",
       "file": "missing/M/242239-mortal-kombat.json"
@@ -629480,11 +629440,6 @@
       "igdb_id": 322164,
       "game_name": "Need for speed: Mobile",
       "file": "missing/N/322164-need-for-speed-mobile.json"
-    },
-    {
-      "igdb_id": 210161,
-      "game_name": "Need for Speed: Most Wanted",
-      "file": "missing/N/210161-need-for-speed-most-wanted.json"
     },
     {
       "igdb_id": 242991,
@@ -852362,11 +852317,6 @@
       "file": "missing/S/270221-sonic-sunventure.json"
     },
     {
-      "igdb_id": 252478,
-      "game_name": "Sonic Superstars",
-      "file": "missing/S/252478-sonic-superstars.json"
-    },
-    {
       "igdb_id": 263550,
       "game_name": "Sonic Superstars: Digital Deluxe Edition featuring LEGO",
       "file": "missing/S/263550-sonic-superstars-digital-deluxe-edition-featuring-lego.json"
@@ -918022,11 +917972,6 @@
       "file": "missing/S/219562-system-restore.json"
     },
     {
-      "igdb_id": 18375,
-      "game_name": "System Shock",
-      "file": "missing/S/18375-system-shock.json"
-    },
-    {
       "igdb_id": 413511,
       "game_name": "System Shock VR",
       "file": "missing/S/413511-system-shock-vr.json"
@@ -941397,11 +941342,6 @@
       "file": "missing/T/109241-the-binding-of-isaac-repentance.json"
     },
     {
-      "igdb_id": 228374,
-      "game_name": "The Binding of Isaac: Repentance",
-      "file": "missing/T/228374-the-binding-of-isaac-repentance.json"
-    },
-    {
       "igdb_id": 310643,
       "game_name": "The Binding of Isaac: Repentance",
       "file": "missing/T/310643-the-binding-of-isaac-repentance.json"
@@ -961837,11 +961777,6 @@
       "file": "missing/T/23942-the-last-time.json"
     },
     {
-      "igdb_id": 2346,
-      "game_name": "The Last Tinker: City of Colors",
-      "file": "missing/T/2346-the-last-tinker-city-of-colors.json"
-    },
-    {
       "igdb_id": 93798,
       "game_name": "The Last Tower",
       "file": "missing/T/93798-the-last-tower.json"
@@ -970865,11 +970800,6 @@
       "igdb_id": 18993,
       "game_name": "The Peanuts Movie: Snoopy's Grand Adventure",
       "file": "missing/T/18993-the-peanuts-movie-snoopys-grand-adventure.json"
-    },
-    {
-      "igdb_id": 25837,
-      "game_name": "The Pedestrian",
-      "file": "missing/T/25837-the-pedestrian.json"
     },
     {
       "igdb_id": 150030,
@@ -1034347,11 +1034277,6 @@
       "file": "missing/T/196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json"
     },
     {
-      "igdb_id": 217645,
-      "game_name": "Turnip Boy Robs a Bank",
-      "file": "missing/T/217645-turnip-boy-robs-a-bank.json"
-    },
-    {
       "igdb_id": 342657,
       "game_name": "Turnip Boy Steals the Mail",
       "file": "missing/T/342657-turnip-boy-steals-the-mail.json"
@@ -1066525,11 +1066450,6 @@
       "igdb_id": 332992,
       "game_name": "Wacky West",
       "file": "missing/W/332992-wacky-west.json"
-    },
-    {
-      "igdb_id": 8880,
-      "game_name": "Wacky Wheels",
-      "file": "missing/W/8880-wacky-wheels.json"
     },
     {
       "igdb_id": 30162,
