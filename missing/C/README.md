@@ -2959,6 +2959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
 | Catch the Candy: Remastered | 330922 | [330922-catch-the-candy-remastered.json](./330922-catch-the-candy-remastered.json) |
+| Catch the Chiken | 397599 | [397599-catch-the-chiken.json](./397599-catch-the-chiken.json) |
 | Catch the Clown II | 331897 | [331897-catch-the-clown-ii.json](./331897-catch-the-clown-ii.json) |
 | Catch the Donut | 164276 | [164276-catch-the-donut.json](./164276-catch-the-donut.json) |
 | Catch the Dustling | 329077 | [329077-catch-the-dustling.json](./329077-catch-the-dustling.json) |
@@ -3584,6 +3585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
 | Celsius | 121375 | [121375-celsius.json](./121375-celsius.json) |
 | Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
+| Celsius Strays | 397616 | [397616-celsius-strays.json](./397616-celsius-strays.json) |
 | Celtabula | 68892 | [68892-celtabula.json](./68892-celtabula.json) |
 | Celted | 176478 | [176478-celted.json](./176478-celted.json) |
 | Celtic Carnage | 58821 | [58821-celtic-carnage.json](./58821-celtic-carnage.json) |
@@ -4306,6 +4308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
+| ChatAid | 397600 | [397600-chataid.json](./397600-chataid.json) |
 | Chatan Yarakuu Shanku: The Karate Tournament | 62006 | [62006-chatan-yarakuu-shanku-the-karate-tournament.json](./62006-chatan-yarakuu-shanku-the-karate-tournament.json) |
 | ChatBattlers | 316821 | [316821-chatbattlers.json](./316821-chatbattlers.json) |
 | ChatBBT | 291451 | [291451-chatbbt.json](./291451-chatbbt.json) |
@@ -6996,6 +6999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliax Codec | 404970 | [404970-cliax-codec.json](./404970-cliax-codec.json) |
 | Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
+| Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click Build Repeat | 404419 | [404419-click-build-repeat.json](./404419-click-build-repeat.json) |
@@ -10168,6 +10172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
+| Core Diggers | 397645 | [397645-core-diggers.json](./397645-core-diggers.json) |
 | Core Disruption | 194922 | [194922-core-disruption.json](./194922-core-disruption.json) |
 | Core Hustlers | 369034 | [369034-core-hustlers.json](./369034-core-hustlers.json) |
 | Core Keeper | 152127 | [152127-core-keeper.json](./152127-core-keeper.json) |
@@ -11852,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
+| Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
@@ -12763,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunch Element | 119770 | [119770-crunch-element.json](./119770-crunch-element.json) |
 | Crunch Time! | 218161 | [218161-crunch-time.json](./218161-crunch-time.json) |
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
+| Crunchdown | 397696 | [397696-crunchdown.json](./397696-crunchdown.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | Crunchy Numbers Math Arcade | 205082 | [205082-crunchy-numbers-math-arcade.json](./205082-crunchy-numbers-math-arcade.json) |
@@ -14361,6 +14368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
 | Cyberpunk 2077: Edgerunners Update | 222969 | [222969-cyberpunk-2077-edgerunners-update.json](./222969-cyberpunk-2077-edgerunners-update.json) |
+| Cyberpunk 2077: Turf Wars | 397607 | [397607-cyberpunk-2077-turf-wars.json](./397607-cyberpunk-2077-turf-wars.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 2077: Vincent Sin Edition | 173119 | [173119-cyberpunk-2077-vincent-sin-edition.json](./173119-cyberpunk-2077-vincent-sin-edition.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
