@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementals Reborn | 55484 | [55484-elementals-reborn.json](./55484-elementals-reborn.json) |
 | Elementals: The Magic Key | 209679 | [209679-elementals-the-magic-key.json](./209679-elementals-the-magic-key.json) |
 | Elementalt Guardian | 372228 | [372228-elementalt-guardian.json](./372228-elementalt-guardian.json) |
+| Elementary Anatomy: With Story Mode | 369332 | [369332-elementary-anatomy-with-story-mode.json](./369332-elementary-anatomy-with-story-mode.json) |
 | Elementary Arithmetic Game | 113021 | [113021-elementary-arithmetic-game.json](./113021-elementary-arithmetic-game.json) |
 | Elementary math / Bingo Math | 169266 | [169266-elementary-math-bingo-math.json](./169266-elementary-math-bingo-math.json) |
 | Elementary My Dear Majesty! | 35902 | [35902-elementary-my-dear-majesty.json](./35902-elementary-my-dear-majesty.json) |
