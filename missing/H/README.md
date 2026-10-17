@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
+| Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
+| Hostile Entity | 408491 | [408491-hostile-entity.json](./408491-hostile-entity.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
