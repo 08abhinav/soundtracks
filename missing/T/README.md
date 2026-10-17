@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetron | 153411 | [153411-tetron.json](./153411-tetron.json) |
 | Tetroon | 234594 | [234594-tetroon.json](./234594-tetroon.json) |
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
+| Tetrx 360: Eons of Time | 385994 | [385994-tetrx-360-eons-of-time.json](./385994-tetrx-360-eons-of-time.json) |
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Nippon! Memorial: JR Tokai KiHa 85 Tokkyuu Nanki-hen | 356242 | [356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json](./356242-tetsudou-nippon-memorial-jr-tokai-kiha-85-tokkyuu-nanki-hen.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Yorle: Save the Countryside | 174154 | [174154-the-book-of-yorle-save-the-countryside.json](./174154-the-book-of-yorle-save-the-countryside.json) |
 | The Book of Yorle: Save the Kingdom | 172065 | [172065-the-book-of-yorle-save-the-kingdom.json](./172065-the-book-of-yorle-save-the-kingdom.json) |
 | The Book of Yorle: Save the Village | 169964 | [169964-the-book-of-yorle-save-the-village.json](./169964-the-book-of-yorle-save-the-village.json) |
+| The Bookman | 385973 | [385973-the-bookman.json](./385973-the-bookman.json) |
 | The Books Tale: A Hop Adventure | 249844 | [249844-the-books-tale-a-hop-adventure.json](./249844-the-books-tale-a-hop-adventure.json) |
 | The Bookwalker: Thief of Tales | 172454 | [172454-the-bookwalker-thief-of-tales.json](./172454-the-bookwalker-thief-of-tales.json) |
 | The Boomies Show | 405633 | [405633-the-boomies-show.json](./405633-the-boomies-show.json) |
@@ -6297,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Empress: Awakening | 255851 | [255851-the-empress-awakening.json](./255851-the-empress-awakening.json) |
 | The Emptiness | 139431 | [139431-the-emptiness.json](./139431-the-emptiness.json) |
 | The Empty Desk | 333612 | [333612-the-empty-desk.json](./333612-the-empty-desk.json) |
+| The Empty Eyes | 385967 | [385967-the-empty-eyes.json](./385967-the-empty-eyes.json) |
 | The Empty House: A Dementia Interactive Experience | 342014 | [342014-the-empty-house-a-dementia-interactive-experience.json](./342014-the-empty-house-a-dementia-interactive-experience.json) |
 | The Empty Kingdom | 102033 | [102033-the-empty-kingdom.json](./102033-the-empty-kingdom.json) |
 | The Empty Turnabout | 303252 | [303252-the-empty-turnabout.json](./303252-the-empty-turnabout.json) |
@@ -7459,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Happiest Days of Your Life | 13870 | [13870-the-happiest-days-of-your-life.json](./13870-the-happiest-days-of-your-life.json) |
 | The Happy Hereafter | 17521 | [17521-the-happy-hereafter.json](./17521-the-happy-hereafter.json) |
 | The Happyhills Homicide | 209496 | [209496-the-happyhills-homicide.json](./209496-the-happyhills-homicide.json) |
+| The Harakin | 385968 | [385968-the-harakin.json](./385968-the-harakin.json) |
 | The Harbinger's Head | 103466 | [103466-the-harbingers-head.json](./103466-the-harbingers-head.json) |
 | The Hard Game | 215743 | [215743-the-hard-game.json](./215743-the-hard-game.json) |
 | The Hardest BrickBreaker | 113708 | [113708-the-hardest-brickbreaker.json](./113708-the-hardest-brickbreaker.json) |
@@ -14515,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Lesbians in a Barrow | 134524 | [134524-three-lesbians-in-a-barrow.json](./134524-three-lesbians-in-a-barrow.json) |
 | Three life | 106399 | [106399-three-life.json](./106399-three-life.json) |
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
+| Three Lions | 385966 | [385966-three-lions.json](./385966-three-lions.json) |
 | Three Little Pigs - fairy tale with games for kids | 91154 | [91154-three-little-pigs-fairy-tale-with-games-for-kids.json](./91154-three-little-pigs-fairy-tale-with-games-for-kids.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
@@ -16252,6 +16257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim's Birthday | 150126 | [150126-tims-birthday.json](./150126-tims-birthday.json) |
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
+| Timber Fever | 385974 | [385974-timber-fever.json](./385974-timber-fever.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
 | Timber Rush | 389705 | [389705-timber-rush.json](./389705-timber-rush.json) |
 | Timber Slash | 108473 | [108473-timber-slash.json](./108473-timber-slash.json) |
@@ -19302,6 +19308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Lust | 68329 | [68329-tower-of-lust.json](./68329-tower-of-lust.json) |
 | Tower of Madness | 318692 | [318692-tower-of-madness.json](./318692-tower-of-madness.json) |
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
+| Tower of Megami Descents | 385969 | [385969-tower-of-megami-descents.json](./385969-tower-of-megami-descents.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
@@ -22332,6 +22339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
 | Trophiends | 409897 | [409897-trophiends.json](./409897-trophiends.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
+| Trophies: A Corruption Tale | 385885 | [385885-trophies-a-corruption-tale.json](./385885-trophies-a-corruption-tale.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
@@ -23103,6 +23111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Tunnel | 102348 | [102348-turbo-tunnel.json](./102348-turbo-tunnel.json) |
 | Turbo Turbo Turbo | 397105 | [397105-turbo-turbo-turbo.json](./397105-turbo-turbo-turbo.json) |
 | Turbo Turtle Adventure | 49345 | [49345-turbo-turtle-adventure.json](./49345-turbo-turtle-adventure.json) |
+| Turbo Ziggurat | 385949 | [385949-turbo-ziggurat.json](./385949-turbo-ziggurat.json) |
 | Turbo-Trex By Orazio Cacciola | 267562 | [267562-turbo-trex-by-orazio-cacciola.json](./267562-turbo-trex-by-orazio-cacciola.json) |
 | Turbo: Super Stunt Squad | 11053 | [11053-turbo-super-stunt-squad.json](./11053-turbo-super-stunt-squad.json) |
 | Turboat | 94942 | [94942-turboat.json](./94942-turboat.json) |
@@ -23144,6 +23153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turmoil | 18559 | [18559-turmoil.json](./18559-turmoil.json) |
 | Turmoil | 305530 | [305530-turmoil.json](./305530-turmoil.json) |
 | Turmoil | 47153 | [47153-turmoil.json](./47153-turmoil.json) |
+| Turmoil Uprising: Dynasty | 385982 | [385982-turmoil-uprising-dynasty.json](./385982-turmoil-uprising-dynasty.json) |
 | Turmoil: Deeper Underground | 319085 | [319085-turmoil-deeper-underground.json](./319085-turmoil-deeper-underground.json) |
 | Turmoil: The Heat Is On | 124826 | [124826-turmoil-the-heat-is-on.json](./124826-turmoil-the-heat-is-on.json) |
 | Turn | 82013 | [82013-turn.json](./82013-turn.json) |
