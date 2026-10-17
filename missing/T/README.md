@@ -6631,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fierce Livid | 271764 | [271764-the-fierce-livid.json](./271764-the-fierce-livid.json) |
 | The Fiery Crater | 268474 | [268474-the-fiery-crater.json](./268474-the-fiery-crater.json) |
 | The Fiery Descent | 268475 | [268475-the-fiery-descent.json](./268475-the-fiery-descent.json) |
+| The Fifteenth: A Pluvial Prelude | 406565 | [406565-the-fifteenth-a-pluvial-prelude.json](./406565-the-fifteenth-a-pluvial-prelude.json) |
 | The Fifth Ark | 175701 | [175701-the-fifth-ark.json](./175701-the-fifth-ark.json) |
 | The Fifth Bell | 370770 | [370770-the-fifth-bell.json](./370770-the-fifth-bell.json) |
 | The Fifth Day | 17599 | [17599-the-fifth-day.json](./17599-the-fifth-day.json) |
@@ -11471,6 +11472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sex Adventures of a Gladiator | 367766 | [367766-the-sex-adventures-of-a-gladiator.json](./367766-the-sex-adventures-of-a-gladiator.json) |
 | The Sexorcist | 211723 | [211723-the-sexorcist.json](./211723-the-sexorcist.json) |
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
+| The Shackles Holder #735 | 406551 | [406551-the-shackles-holder-735.json](./406551-the-shackles-holder-735.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
 | The Shadow | 323990 | [323990-the-shadow.json](./323990-the-shadow.json) |
@@ -17768,24 +17770,41 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Starring Lara Croft | 36878 | [36878-tomb-raider-starring-lara-croft.json](./36878-tomb-raider-starring-lara-croft.json) |
 | Tomb Raider VR: Lara's Escape | 322639 | [322639-tomb-raider-vr-laras-escape.json](./322639-tomb-raider-vr-laras-escape.json) |
 | Tomb Raider: 10th Anniversary Edition | 142826 | [142826-tomb-raider-10th-anniversary-edition.json](./142826-tomb-raider-10th-anniversary-edition.json) |
+| Tomb Raider: Agency SPS 12 | 406541 | [406541-tomb-raider-agency-sps-12.json](./406541-tomb-raider-agency-sps-12.json) |
 | Tomb Raider: Anniversary | 312286 | [312286-tomb-raider-anniversary.json](./312286-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 370001 | [370001-tomb-raider-anniversary.json](./370001-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary | 381690 | [381690-tomb-raider-anniversary.json](./381690-tomb-raider-anniversary.json) |
 | Tomb Raider: Anniversary - Collectors Edition | 202972 | [202972-tomb-raider-anniversary-collectors-edition.json](./202972-tomb-raider-anniversary-collectors-edition.json) |
 | Tomb Raider: Catalyst | 381234 | [381234-tomb-raider-catalyst.json](./381234-tomb-raider-catalyst.json) |
+| Tomb Raider: Caves and Cliffs Multiplayer Map Pack | 406533 | [406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json](./406533-tomb-raider-caves-and-cliffs-multiplayer-map-pack.json) |
 | Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
+| Tomb Raider: Demolition Skin | 406536 | [406536-tomb-raider-demolition-skin.json](./406536-tomb-raider-demolition-skin.json) |
+| Tomb Raider: Fisherman | 406537 | [406537-tomb-raider-fisherman.json](./406537-tomb-raider-fisherman.json) |
 | Tomb Raider: Game of the Year Edition | 53818 | [53818-tomb-raider-game-of-the-year-edition.json](./53818-tomb-raider-game-of-the-year-edition.json) |
+| Tomb Raider: Guerilla Skin | 406538 | [406538-tomb-raider-guerilla-skin.json](./406538-tomb-raider-guerilla-skin.json) |
 | Tomb Raider: Hashep Oasis | 328588 | [328588-tomb-raider-hashep-oasis.json](./328588-tomb-raider-hashep-oasis.json) |
+| Tomb Raider: Headshot Reticule | 406539 | [406539-tomb-raider-headshot-reticule.json](./406539-tomb-raider-headshot-reticule.json) |
+| Tomb Raider: Hunter Skin | 406544 | [406544-tomb-raider-hunter-skin.json](./406544-tomb-raider-hunter-skin.json) |
+| Tomb Raider: HX AP-15 | 406542 | [406542-tomb-raider-hx-ap-15.json](./406542-tomb-raider-hx-ap-15.json) |
 | Tomb Raider: Legacy of Atlantis | 381235 | [381235-tomb-raider-legacy-of-atlantis.json](./381235-tomb-raider-legacy-of-atlantis.json) |
 | Tomb Raider: Legend | 146717 | [146717-tomb-raider-legend.json](./146717-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 146718 | [146718-tomb-raider-legend.json](./146718-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 248536 | [248536-tomb-raider-legend.json](./248536-tomb-raider-legend.json) |
 | Tomb Raider: Legend | 305560 | [305560-tomb-raider-legend.json](./305560-tomb-raider-legend.json) |
 | Tomb Raider: Lost and Found | 408978 | [408978-tomb-raider-lost-and-found.json](./408978-tomb-raider-lost-and-found.json) |
+| Tomb Raider: Mountaineer Skin | 406545 | [406545-tomb-raider-mountaineer-skin.json](./406545-tomb-raider-mountaineer-skin.json) |
+| Tomb Raider: Pistol Burst | 406547 | [406547-tomb-raider-pistol-burst.json](./406547-tomb-raider-pistol-burst.json) |
+| Tomb Raider: Pistol Silencer | 406549 | [406549-tomb-raider-pistol-silencer.json](./406549-tomb-raider-pistol-silencer.json) |
 | Tomb Raider: Quest for Cinnabar | 165177 | [165177-tomb-raider-quest-for-cinnabar.json](./165177-tomb-raider-quest-for-cinnabar.json) |
+| Tomb Raider: Scavenger Bandit | 406550 | [406550-tomb-raider-scavenger-bandit.json](./406550-tomb-raider-scavenger-bandit.json) |
+| Tomb Raider: Scavenger Executioner | 406552 | [406552-tomb-raider-scavenger-executioner.json](./406552-tomb-raider-scavenger-executioner.json) |
+| Tomb Raider: Scavenger Scout | 406555 | [406555-tomb-raider-scavenger-scout.json](./406555-tomb-raider-scavenger-scout.json) |
 | Tomb Raider: Shanty Town | 172133 | [172133-tomb-raider-shanty-town.json](./172133-tomb-raider-shanty-town.json) |
+| Tomb Raider: Shipwrecked Multiplayer Map Pack | 406556 | [406556-tomb-raider-shipwrecked-multiplayer-map-pack.json](./406556-tomb-raider-shipwrecked-multiplayer-map-pack.json) |
+| Tomb Raider: Silverballer | 406543 | [406543-tomb-raider-silverballer.json](./406543-tomb-raider-silverballer.json) |
+| Tomb Raider: Sure-Shot Skin | 406558 | [406558-tomb-raider-sure-shot-skin.json](./406558-tomb-raider-sure-shot-skin.json) |
 | Tomb Raider: Survival Edition | 53817 | [53817-tomb-raider-survival-edition.json](./53817-tomb-raider-survival-edition.json) |
 | Tomb Raider: The Action Adventure | 123009 | [123009-tomb-raider-the-action-adventure.json](./123009-tomb-raider-the-action-adventure.json) |
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
