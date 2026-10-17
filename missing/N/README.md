@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
 | Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
 | Necro Saga | 219504 | [219504-necro-saga.json](./219504-necro-saga.json) |
+| Necro Survivors | 400666 | [400666-necro-survivors.json](./400666-necro-survivors.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
@@ -1235,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
+| Necrotel: No Checkout | 400665 | [400665-necrotel-no-checkout.json](./400665-necrotel-no-checkout.json) |
 | Necrotic Drift | 76179 | [76179-necrotic-drift.json](./76179-necrotic-drift.json) |
 | Necrotic Haze | 256420 | [256420-necrotic-haze.json](./256420-necrotic-haze.json) |
 | Necrotyper | 360594 | [360594-necrotyper.json](./360594-necrotyper.json) |
