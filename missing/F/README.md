@@ -3618,6 +3618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Revelation: Armor - Nymphwing Bracelet | 416152 | [416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json](./416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json) |
 | Final Fantasy VII Revelation: Premium Edition | 416142 | [416142-final-fantasy-vii-revelation-premium-edition.json](./416142-final-fantasy-vii-revelation-premium-edition.json) |
 | Final Fantasy VII Revelation: Premium Plus Edition | 416154 | [416154-final-fantasy-vii-revelation-premium-plus-edition.json](./416154-final-fantasy-vii-revelation-premium-plus-edition.json) |
+| Final Fantasy VII Revelation: Story DLC 1 - Sephiroth | 416131 | [416131-final-fantasy-vii-revelation-story-dlc-1-sephiroth.json](./416131-final-fantasy-vii-revelation-story-dlc-1-sephiroth.json) |
+| Final Fantasy VII Revelation: Story DLC 2 - Vincent & the Turks | 416132 | [416132-final-fantasy-vii-revelation-story-dlc-2-vincent-and-the-turks.json](./416132-final-fantasy-vii-revelation-story-dlc-2-vincent-and-the-turks.json) |
 | Final Fantasy VII Revelation: Story Expansion Pass | 416141 | [416141-final-fantasy-vii-revelation-story-expansion-pass.json](./416141-final-fantasy-vii-revelation-story-expansion-pass.json) |
 | Final Fantasy VII Revelation: Summoning Materia - Polydroid Alexander | 416151 | [416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json](./416151-final-fantasy-vii-revelation-summoning-materia-polydroid-alexander.json) |
 | Final Fantasy VII Snowboarding | 127832 | [127832-final-fantasy-vii-snowboarding.json](./127832-final-fantasy-vii-snowboarding.json) |
