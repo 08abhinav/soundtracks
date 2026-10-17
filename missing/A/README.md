@@ -6230,6 +6230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anata no Shiranai Kangofu: Seiteki Byoutou 24 Ji | 77922 | [77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json](./77922-anata-no-shiranai-kangofu-seiteki-byoutou-24-ji.json) |
 | Anata o Yurusanai | 59396 | [59396-anata-o-yurusanai.json](./59396-anata-o-yurusanai.json) |
 | Anata wa Watashi no Danna-sama | 163233 | [163233-anata-wa-watashi-no-danna-sama.json](./163233-anata-wa-watashi-no-danna-sama.json) |
+| Anathema | 411408 | [411408-anathema.json](./411408-anathema.json) |
 | Anathema | 54688 | [54688-anathema.json](./54688-anathema.json) |
 | Anathema Tower Defense | 272227 | [272227-anathema-tower-defense.json](./272227-anathema-tower-defense.json) |
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
