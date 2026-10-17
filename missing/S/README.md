@@ -7192,11 +7192,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads 2 | 283247 | [283247-sift-heads-2.json](./283247-sift-heads-2.json) |
 | Sift Heads 3 | 234134 | [234134-sift-heads-3.json](./234134-sift-heads-3.json) |
 | Sift Heads 5 | 283246 | [283246-sift-heads-5.json](./283246-sift-heads-5.json) |
+| Sift Heads Assault | 393386 | [393386-sift-heads-assault.json](./393386-sift-heads-assault.json) |
+| Sift Heads Assault 2 | 393387 | [393387-sift-heads-assault-2.json](./393387-sift-heads-assault-2.json) |
+| Sift Heads Assault 3 | 393389 | [393389-sift-heads-assault-3.json](./393389-sift-heads-assault-3.json) |
+| Sift Heads Cartels Act 1 | 393394 | [393394-sift-heads-cartels-act-1.json](./393394-sift-heads-cartels-act-1.json) |
+| Sift Heads Cartels Act 2 | 393395 | [393395-sift-heads-cartels-act-2.json](./393395-sift-heads-cartels-act-2.json) |
+| Sift Heads Cartels Act 3 | 393396 | [393396-sift-heads-cartels-act-3.json](./393396-sift-heads-cartels-act-3.json) |
 | Sift Heads Reborn | 191898 | [191898-sift-heads-reborn.json](./191898-sift-heads-reborn.json) |
 | Sift Heads World: Act 1 - Deadly Newcomer | 191902 | [191902-sift-heads-world-act-1-deadly-newcomer.json](./191902-sift-heads-world-act-1-deadly-newcomer.json) |
 | Sift Heads World: Act 3 - Alonzo's Reinforcement | 229949 | [229949-sift-heads-world-act-3-alonzos-reinforcement.json](./229949-sift-heads-world-act-3-alonzos-reinforcement.json) |
 | Sift Heads: Cartels 4 | 414489 | [414489-sift-heads-cartels-4.json](./414489-sift-heads-cartels-4.json) |
 | Sift Heads: Legendary Pack | 311993 | [311993-sift-heads-legendary-pack.json](./311993-sift-heads-legendary-pack.json) |
+| Sift Renegade | 393397 | [393397-sift-renegade.json](./393397-sift-renegade.json) |
+| Sift Renegade 2 | 393399 | [393399-sift-renegade-2.json](./393399-sift-renegade-2.json) |
+| Sift Renegade 3 | 393400 | [393400-sift-renegade-3.json](./393400-sift-renegade-3.json) |
+| Sift Renegade 3 Defiance | 393401 | [393401-sift-renegade-3-defiance.json](./393401-sift-renegade-3-defiance.json) |
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
 | Sifu: Deluxe Edition | 169165 | [169165-sifu-deluxe-edition.json](./169165-sifu-deluxe-edition.json) |
@@ -17508,6 +17518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
 | Starboy and the Captain of Outer Space: Mutant Hotdog Game | 396389 | [396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json](./396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json) |
+| Starboys | 393402 | [393402-starboys.json](./393402-starboys.json) |
 | StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
 | Starbrew Cafe: Mystical Merge | 352184 | [352184-starbrew-cafe-mystical-merge.json](./352184-starbrew-cafe-mystical-merge.json) |
 | Starbrew Station | 372569 | [372569-starbrew-station.json](./372569-starbrew-station.json) |
