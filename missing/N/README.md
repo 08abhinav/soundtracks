@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
 | Neonoen | 120782 | [120782-neonoen.json](./120782-neonoen.json) |
+| NeoNoid | 414791 | [414791-neonoid.json](./414791-neonoid.json) |
 | NeoNomicon | 37005 | [37005-neonomicon.json](./37005-neonomicon.json) |
 | NeonPlat's Cosmic Adventure | 59825 | [59825-neonplats-cosmic-adventure.json](./59825-neonplats-cosmic-adventure.json) |
 | NeonPowerUp! | 267841 | [267841-neonpowerup.json](./267841-neonpowerup.json) |
@@ -4021,6 +4022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Breaks Valet | 268949 | [268949-no-breaks-valet.json](./268949-no-breaks-valet.json) |
 | No Bugs On My Windshield | 292584 | [292584-no-bugs-on-my-windshield.json](./292584-no-bugs-on-my-windshield.json) |
 | No Chance | 146866 | [146866-no-chance.json](./146866-no-chance.json) |
+| No Clean, No Exit | 414769 | [414769-no-clean-no-exit.json](./414769-no-clean-no-exit.json) |
 | No Clue VR | 28669 | [28669-no-clue-vr.json](./28669-no-clue-vr.json) |
 | No Contact | 302114 | [302114-no-contact.json](./302114-no-contact.json) |
 | No Cook Today | 414829 | [414829-no-cook-today.json](./414829-no-cook-today.json) |
@@ -4831,6 +4833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
+| Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
 | Nostalgiarian | 127375 | [127375-nostalgiarian.json](./127375-nostalgiarian.json) |
 | Nostalgic Entropy: Neo Retro | 312899 | [312899-nostalgic-entropy-neo-retro.json](./312899-nostalgic-entropy-neo-retro.json) |
