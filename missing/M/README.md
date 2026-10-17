@@ -4931,7 +4931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
-| Medal of Honor: Underground | 1308 | [1308-medal-of-honor-underground.json](./1308-medal-of-honor-underground.json) |
 | Medal of Honor: Warfighter | 1306 | [1306-medal-of-honor-warfighter.json](./1306-medal-of-honor-warfighter.json) |
 | Medal of Valor 4 | 105803 | [105803-medal-of-valor-4.json](./105803-medal-of-valor-4.json) |
 | Medal Tree | 370014 | [370014-medal-tree.json](./370014-medal-tree.json) |
