@@ -5074,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktopia: End of the Road | 232453 | [232453-desktopia-end-of-the-road.json](./232453-desktopia-end-of-the-road.json) |
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
 | Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
+| Deskworm | 387487 | [387487-deskworm.json](./387487-deskworm.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
