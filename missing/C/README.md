@@ -5016,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chili's Big Smasher BurgerTime | 307261 | [307261-chilis-big-smasher-burgertime.json](./307261-chilis-big-smasher-burgertime.json) |
 | Chilie Peppers | 82004 | [82004-chilie-peppers.json](./82004-chilie-peppers.json) |
 | Chill | 79608 | [79608-chill.json](./79608-chill.json) |
+| Chill Cat | 409197 | [409197-chill-cat.json](./409197-chill-cat.json) |
 | Chill Corner | 173072 | [173072-chill-corner.json](./173072-chill-corner.json) |
 | Chill Corner: Extras | 310653 | [310653-chill-corner-extras.json](./310653-chill-corner-extras.json) |
 | Chill Drive | 330387 | [330387-chill-drive.json](./330387-chill-drive.json) |
@@ -10172,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
+| Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
@@ -13644,6 +13646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curious Fishing | 249746 | [249746-curious-fishing.json](./249746-curious-fishing.json) |
 | Curious George Comes Home | 145899 | [145899-curious-george-comes-home.json](./145899-curious-george-comes-home.json) |
 | Curious George Early Learning Adventure | 384220 | [384220-curious-george-early-learning-adventure.json](./384220-curious-george-early-learning-adventure.json) |
+| Curious Paws: Hidden Objects | 409206 | [409206-curious-paws-hidden-objects.json](./409206-curious-paws-hidden-objects.json) |
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
