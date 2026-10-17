@@ -557,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Light and Darkness: The Prophecy | 50385 | [50385-of-light-and-darkness-the-prophecy.json](./50385-of-light-and-darkness-the-prophecy.json) |
 | Of Light and Darkness: The Prophecy - Premonitions | 79564 | [79564-of-light-and-darkness-the-prophecy-premonitions.json](./79564-of-light-and-darkness-the-prophecy-premonitions.json) |
 | Of Love and Sorrow | 32161 | [32161-of-love-and-sorrow.json](./32161-of-love-and-sorrow.json) |
+| Of Love and Violence | 409236 | [409236-of-love-and-violence.json](./409236-of-love-and-violence.json) |
 | Of Man and War | 184865 | [184865-of-man-and-war.json](./184865-of-man-and-war.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
@@ -3921,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overage: Child of Chaos | 203306 | [203306-overage-child-of-chaos.json](./203306-overage-child-of-chaos.json) |
 | Overall The Ball | 303711 | [303711-overall-the-ball.json](./303711-overall-the-ball.json) |
 | Overball | 208899 | [208899-overball.json](./208899-overball.json) |
+| Overball | 409222 | [409222-overball.json](./409222-overball.json) |
 | Overbeast | 247169 | [247169-overbeast.json](./247169-overbeast.json) |
 | OverBlood 2 | 20000 | [20000-overblood-2.json](./20000-overblood-2.json) |
 | Overboard | 122430 | [122430-overboard.json](./122430-overboard.json) |
