@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:26:20.159Z",
-  "total_soundtracks": 2080,
+  "generated_at": "2026-10-17T15:26:28.506Z",
+  "total_soundtracks": 2081,
   "games": [
     {
       "igdb_id": 7522,
@@ -22988,6 +22988,20 @@
           "album_name": "Transistor Original Soundtrack Extended",
           "spotify_url": "https://open.spotify.com/album/5TiFIK3DBVyJqzMurOg7PR",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152203,
+      "game_name": "Trek to Yomi",
+      "game_url": "https://ostdb.net/games/trek-to-yomi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27390ab8318cce816b6ad2ec5e8",
+      "albums": [
+        {
+          "album_name": "Trek to Yomi (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4sLX1THUsrqQkVkrD8y4gy",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
