@@ -228,6 +228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-Button platformer | 323311 | [323311-1-button-platformer.json](./323311-1-button-platformer.json) |
 | 1, 2 Blame! | 146107 | [146107-1-2-blame.json](./146107-1-2-blame.json) |
 | 1, 2, 3... Bruegel! | 118319 | [118319-1-2-3-bruegel.json](./118319-1-2-3-bruegel.json) |
+| 1,000,000,000 Spells | 403530 | [403530-1-000-000-000-spells.json](./403530-1-000-000-000-spells.json) |
 | 1... 2... 3... Kick It!: Drop That Beat Like an Ugly Baby | 15938 | [15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json](./15938-1-2-3-kick-it-drop-that-beat-like-an-ugly-baby.json) |
 | 1.5-Hour Community Build Project | 308481 | [308481-1-5-hour-community-build-project.json](./308481-1-5-hour-community-build-project.json) |
 | 1.96.9 All Update | 334940 | [334940-1-96-9-all-update.json](./334940-1-96-9-all-update.json) |
@@ -1594,6 +1595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Munchy | 15577 | [15577-3d-munchy.json](./15577-3d-munchy.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pinball: Space Cadet | 403520 | [403520-3d-pinball-space-cadet.json](./403520-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
 | 3D Pitfall | 92859 | [92859-3d-pitfall.json](./92859-3d-pitfall.json) |
