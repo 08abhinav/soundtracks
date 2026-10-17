@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2x0ng | 342039 | [342039-2x0ng.json](./342039-2x0ng.json) |
 | 2x4 Nails | 258003 | [258003-2x4-nails.json](./258003-2x4-nails.json) |
 | 2XKO: PS+ Benefit Bundle Y1S1 | 386485 | [386485-2xko-ps-benefit-bundle-y1s1.json](./386485-2xko-ps-benefit-bundle-y1s1.json) |
+| 2XKO: PS+ Benefit Bundle Y1S3 | 415424 | [415424-2xko-ps-benefit-bundle-y1s3.json](./415424-2xko-ps-benefit-bundle-y1s3.json) |
 | 2XKO: Starter Edition Standard | 386484 | [386484-2xko-starter-edition-standard.json](./386484-2xko-starter-edition-standard.json) |
 | 2XL ATV Offroad | 197676 | [197676-2xl-atv-offroad.json](./197676-2xl-atv-offroad.json) |
 | 2XL Snocross | 95653 | [95653-2xl-snocross.json](./95653-2xl-snocross.json) |
@@ -1455,6 +1456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30km survival zone: Chernobyl | 131272 | [131272-30km-survival-zone-chernobyl.json](./131272-30km-survival-zone-chernobyl.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
+| 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
 | 31-in-1 Mighty Mix | 270048 | [270048-31-in-1-mighty-mix.json](./270048-31-in-1-mighty-mix.json) |
