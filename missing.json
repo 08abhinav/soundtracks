@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:48:21.863Z",
-  "total_missing": 224234,
+  "generated_at": "2026-10-17T15:52:58.029Z",
+  "total_missing": 224228,
   "games": [
     {
       "igdb_id": 191680,
@@ -498917,11 +498917,6 @@
       "file": "missing/K/59367-kingdom-ikkitousen-no-tsurugi.json"
     },
     {
-      "igdb_id": 24881,
-      "game_name": "Kingdom: New Lands",
-      "file": "missing/K/24881-kingdom-new-lands.json"
-    },
-    {
       "igdb_id": 174852,
       "game_name": "Kingdom: The Blood",
       "file": "missing/K/174852-kingdom-the-blood.json"
@@ -513270,11 +513265,6 @@
       "igdb_id": 77168,
       "game_name": "Last Day of Fear",
       "file": "missing/L/77168-last-day-of-fear.json"
-    },
-    {
-      "igdb_id": 36543,
-      "game_name": "Last Day of June",
-      "file": "missing/L/36543-last-day-of-june.json"
     },
     {
       "igdb_id": 119551,
@@ -600827,11 +600817,6 @@
       "file": "missing/M/81354-monster-hunter-world-digital-deluxe-edition.json"
     },
     {
-      "igdb_id": 113344,
-      "game_name": "Monster Hunter: World - Iceborne",
-      "file": "missing/M/113344-monster-hunter-world-iceborne.json"
-    },
-    {
       "igdb_id": 148509,
       "game_name": "Monster Hunter: World - Iceborne Deluxe Kit",
       "file": "missing/M/148509-monster-hunter-world-iceborne-deluxe-kit.json"
@@ -629775,11 +629760,6 @@
       "igdb_id": 210103,
       "game_name": "Need for Speed: Top Speed",
       "file": "missing/N/210103-need-for-speed-top-speed.json"
-    },
-    {
-      "igdb_id": 219442,
-      "game_name": "Need for Speed: Unbound",
-      "file": "missing/N/219442-need-for-speed-unbound.json"
     },
     {
       "igdb_id": 301851,
@@ -843617,11 +843597,6 @@
       "file": "missing/S/283222-sniper-elite-shooter-squad.json"
     },
     {
-      "igdb_id": 1367,
-      "game_name": "Sniper: Ghost Warrior",
-      "file": "missing/S/1367-sniper-ghost-warrior.json"
-    },
-    {
       "igdb_id": 10882,
       "game_name": "Sniper: Ghost Warrior 2 - Siberian Strike",
       "file": "missing/S/10882-sniper-ghost-warrior-2-siberian-strike.json"
@@ -973525,11 +973500,6 @@
       "igdb_id": 28670,
       "game_name": "The Red Stare",
       "file": "missing/T/28670-the-red-stare.json"
-    },
-    {
-      "igdb_id": 75247,
-      "game_name": "The Red Strings Club",
-      "file": "missing/T/75247-the-red-strings-club.json"
     },
     {
       "igdb_id": 252396,
