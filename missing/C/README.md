@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Parking 2 | 232448 | [232448-car-parking-2.json](./232448-car-parking-2.json) |
 | Car Parking Adventure | 384283 | [384283-car-parking-adventure.json](./384283-car-parking-adventure.json) |
 | Car Parking Game 3D - Real City Driving School | 83585 | [83585-car-parking-game-3d-real-city-driving-school.json](./83585-car-parking-game-3d-real-city-driving-school.json) |
+| Car Parking Legends: Deluxe Edition | 413577 | [413577-car-parking-legends-deluxe-edition.json](./413577-car-parking-legends-deluxe-edition.json) |
 | Car Parking Legends: Drive & Park Adventure | 322661 | [322661-car-parking-legends-drive-and-park-adventure.json](./322661-car-parking-legends-drive-and-park-adventure.json) |
 | Car Parking Madness School Drive Mechanic Car Games Simulator 2023 | 226331 | [226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json](./226331-car-parking-madness-school-drive-mechanic-car-games-simulator-2023.json) |
 | Car Parking Multiplayer | 232563 | [232563-car-parking-multiplayer.json](./232563-car-parking-multiplayer.json) |
@@ -6301,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Car Driving 2.0 | 403690 | [403690-city-car-driving-2-0.json](./403690-city-car-driving-2-0.json) |
 | City Car Parking Simulator | 256336 | [256336-city-car-parking-simulator.json](./256336-city-car-parking-simulator.json) |
 | City Centurian | 73737 | [73737-city-centurian.json](./73737-city-centurian.json) |
+| City Cleaning 2 | 413455 | [413455-city-cleaning-2.json](./413455-city-cleaning-2.json) |
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
 | City Coach Bus Simulator: Bus Games 2021 | 175685 | [175685-city-coach-bus-simulator-bus-games-2021.json](./175685-city-coach-bus-simulator-bus-games-2021.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
@@ -7337,6 +7339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover Party | 374936 | [374936-clover-party.json](./374936-clover-party.json) |
 | Clover Reset | 329621 | [329621-clover-reset.json](./329621-clover-reset.json) |
+| Clover Toshokan no Juunin-tachi Compleat | 413603 | [413603-clover-toshokan-no-juunin-tachi-compleat.json](./413603-clover-toshokan-no-juunin-tachi-compleat.json) |
 | Clover: A Curious Tale | 52502 | [52502-clover-a-curious-tale.json](./52502-clover-a-curious-tale.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
@@ -7391,6 +7394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
+| Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
 | Clubhouse Games | 18597 | [18597-clubhouse-games.json](./18597-clubhouse-games.json) |
 | Clubhouse Games Express: Card Classics | 70418 | [70418-clubhouse-games-express-card-classics.json](./70418-clubhouse-games-express-card-classics.json) |
@@ -10854,6 +10858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboys n' Stuff | 169386 | [169386-cowboys-n-stuff.json](./169386-cowboys-n-stuff.json) |
 | Cowboys vs. Monsters | 302096 | [302096-cowboys-vs-monsters.json](./302096-cowboys-vs-monsters.json) |
 | Cowboys vs. Zombies | 328545 | [328545-cowboys-vs-zombies.json](./328545-cowboys-vs-zombies.json) |
+| Cowboys vs. Zombies: Gold Edition | 413575 | [413575-cowboys-vs-zombies-gold-edition.json](./413575-cowboys-vs-zombies-gold-edition.json) |
 | Cowculanes | 175377 | [175377-cowculanes.json](./175377-cowculanes.json) |
 | Cowgirl Adventures | 212202 | [212202-cowgirl-adventures.json](./212202-cowgirl-adventures.json) |
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
@@ -11143,6 +11148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank & Watch: Ball | 271689 | [271689-crank-and-watch-ball.json](./271689-crank-and-watch-ball.json) |
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank and Shoot!! | 274681 | [274681-crank-and-shoot.json](./274681-crank-and-shoot.json) |
+| Crank Bass | 413579 | [413579-crank-bass.json](./413579-crank-bass.json) |
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
 | Crank Crawl | 253285 | [253285-crank-crawl.json](./253285-crank-crawl.json) |
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
@@ -11164,6 +11170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Whirlbot Assembly | 180052 | [180052-crankies-workshop-whirlbot-assembly.json](./180052-crankies-workshop-whirlbot-assembly.json) |
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
+| CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
@@ -11171,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranks Playdate Baseball | 273673 | [273673-cranks-playdate-baseball.json](./273673-cranks-playdate-baseball.json) |
 | CrankShaft | 268925 | [268925-crankshaft.json](./268925-crankshaft.json) |
 | Crankstone | 361914 | [361914-crankstone.json](./361914-crankstone.json) |
+| CranKuro | 413584 | [413584-crankuro.json](./413584-crankuro.json) |
 | Crankventure Capitalist | 314494 | [314494-crankventure-capitalist.json](./314494-crankventure-capitalist.json) |
 | Cranky Bird | 207285 | [207285-cranky-bird.json](./207285-cranky-bird.json) |
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
@@ -12094,6 +12102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
+| Crimson Wars | 413512 | [413512-crimson-wars.json](./413512-crimson-wars.json) |
 | Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
