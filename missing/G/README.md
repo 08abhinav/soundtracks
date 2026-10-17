@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
 | GT Racing 2: The Real Car Experience | 38939 | [38939-gt-racing-2-the-real-car-experience.json](./38939-gt-racing-2-the-real-car-experience.json) |
 | GT Racing 97 | 84212 | [84212-gt-racing-97.json](./84212-gt-racing-97.json) |
+| GT Racing: Motor Academy | 372779 | [372779-gt-racing-motor-academy.json](./372779-gt-racing-motor-academy.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
@@ -7991,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gus Track Adventures VR | 28672 | [28672-gus-track-adventures-vr.json](./28672-gus-track-adventures-vr.json) |
 | Gus's Feed Sort | 246529 | [246529-guss-feed-sort.json](./246529-guss-feed-sort.json) |
 | Gusano Go | 183860 | [183860-gusano-go.json](./183860-gusano-go.json) |
+| Gushers Re-Do Your Room | 372730 | [372730-gushers-re-do-your-room.json](./372730-gushers-re-do-your-room.json) |
 | Gussun Oyoyo | 64740 | [64740-gussun-oyoyo.json](./64740-gussun-oyoyo.json) |
 | Gust | 221130 | [221130-gust.json](./221130-gust.json) |
 | Gust Buster | 24007 | [24007-gust-buster.json](./24007-gust-buster.json) |
