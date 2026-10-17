@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
 | Pamir Saga | 149369 | [149369-pamir-saga.json](./149369-pamir-saga.json) |
+| Pammela’s Purgatory: Infinite Debt | 414088 | [414088-pammela-s-purgatory-infinite-debt.json](./414088-pammela-s-purgatory-infinite-debt.json) |
 | Pamoja Mtaani | 70565 | [70565-pamoja-mtaani.json](./70565-pamoja-mtaani.json) |
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
@@ -4115,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pi in the Sky | 354647 | [354647-pi-in-the-sky.json](./354647-pi-in-the-sky.json) |
 | Pi Story | 93987 | [93987-pi-story.json](./93987-pi-story.json) |
 | Pi-Balled | 354646 | [354646-pi-balled.json](./354646-pi-balled.json) |
+| Pi-Eyed | 414123 | [414123-pi-eyed.json](./414123-pi-eyed.json) |
 | Pi.exe | 192463 | [192463-pi-exe.json](./192463-pi-exe.json) |
 | PI.EXE Enhanced Edition | 253877 | [253877-pi-exe-enhanced-edition.json](./253877-pi-exe-enhanced-edition.json) |
 | Pi2 | 274140 | [274140-pi2.json](./274140-pi2.json) |
@@ -10503,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2026 | 371609 | [371609-pro-basketball-manager-2026.json](./371609-pro-basketball-manager-2026.json) |
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
+| Pro Birder | 414185 | [414185-pro-birder.json](./414185-pro-birder.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
@@ -11881,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pub Toilet Simulator 25 | 339798 | [339798-pub-toilet-simulator-25.json](./339798-pub-toilet-simulator-25.json) |
 | Puber Lario Mand | 402466 | [402466-puber-lario-mand.json](./402466-puber-lario-mand.json) |
 | Pubes | 406284 | [406284-pubes.json](./406284-pubes.json) |
+| PUBG Ded.Net | 414104 | [414104-pubg-ded-net.json](./414104-pubg-ded-net.json) |
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
 | PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
