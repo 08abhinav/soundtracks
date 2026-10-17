@@ -6253,6 +6253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
+| Worn by the Forgotten | 407866 | [407866-worn-by-the-forgotten.json](./407866-worn-by-the-forgotten.json) |
 | Worrrm Rebirth | 253253 | [253253-worrrm-rebirth.json](./253253-worrrm-rebirth.json) |
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
