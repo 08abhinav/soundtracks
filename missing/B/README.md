@@ -12230,6 +12230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bungee Run | 295472 | [295472-bungee-run.json](./295472-bungee-run.json) |
 | Bungie Mac Action Sack | 172660 | [172660-bungie-mac-action-sack.json](./172660-bungie-mac-action-sack.json) |
 | Bungmyeong | 145640 | [145640-bungmyeong.json](./145640-bungmyeong.json) |
+| Bungo Bash | 377332 | [377332-bungo-bash.json](./377332-bungo-bash.json) |
 | Bungo Stray Dogs: Tales of the Lost | 105830 | [105830-bungo-stray-dogs-tales-of-the-lost.json](./105830-bungo-stray-dogs-tales-of-the-lost.json) |
 | Bungo to Alchemist | 314458 | [314458-bungo-to-alchemist.json](./314458-bungo-to-alchemist.json) |
 | BuniBon | 315238 | [315238-bunibon.json](./315238-bunibon.json) |
