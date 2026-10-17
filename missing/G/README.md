@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaijin Troubles | 126630 | [126630-gaijin-troubles.json](./126630-gaijin-troubles.json) |
 | Gailardia 2: The One That Survived | 376696 | [376696-gailardia-2-the-one-that-survived.json](./376696-gailardia-2-the-one-that-survived.json) |
 | Gailardia 3: Eternal Peace | 376698 | [376698-gailardia-3-eternal-peace.json](./376698-gailardia-3-eternal-peace.json) |
+| Gailardia Trilogy | 376808 | [376808-gailardia-trilogy.json](./376808-gailardia-trilogy.json) |
 | Gailardia: Legend of the Demon King | 376694 | [376694-gailardia-legend-of-the-demon-king.json](./376694-gailardia-legend-of-the-demon-king.json) |
 | Gain | 33109 | [33109-gain.json](./33109-gain.json) |
 | Gain Foxes | 245888 | [245888-gain-foxes.json](./245888-gain-foxes.json) |
@@ -5690,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
+| Grandma's Garden | 376810 | [376810-grandmas-garden.json](./376810-grandmas-garden.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's House: College Days | 274923 | [274923-grandmas-house-college-days.json](./274923-grandmas-house-college-days.json) |
