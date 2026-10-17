@@ -9394,7 +9394,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: Lonely Home | 126446 | [126446-slender-lonely-home.json](./126446-slender-lonely-home.json) |
 | Slender: New Hope | 321430 | [321430-slender-new-hope.json](./321430-slender-new-hope.json) |
 | Slender: Reborn | 327987 | [327987-slender-reborn.json](./327987-slender-reborn.json) |
-| Slender: The Arrival | 2049 | [2049-slender-the-arrival.json](./2049-slender-the-arrival.json) |
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
@@ -19824,7 +19823,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 2 | 6703 | [6703-street-fighter-alpha-2.json](./6703-street-fighter-alpha-2.json) |
 | Street Fighter Alpha 3 | 242650 | [242650-street-fighter-alpha-3.json](./242650-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 | 242651 | [242651-street-fighter-alpha-3.json](./242651-street-fighter-alpha-3.json) |
-| Street Fighter Alpha 3 | 6704 | [6704-street-fighter-alpha-3.json](./6704-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 MAX | 42876 | [42876-street-fighter-alpha-3-max.json](./42876-street-fighter-alpha-3-max.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
@@ -20259,7 +20257,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
-| Stronghold 2 | 9460 | [9460-stronghold-2.json](./9460-stronghold-2.json) |
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
