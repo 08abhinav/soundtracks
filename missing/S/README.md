@@ -2228,6 +2228,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
+| Schwarzesmarken: Junkyousha-tachi | 374377 | [374377-schwarzesmarken-junkyousha-tachi.json](./374377-schwarzesmarken-junkyousha-tachi.json) |
+| Schwarzesmarken: Kouketsu no Monshou | 374363 | [374363-schwarzesmarken-kouketsu-no-monshou.json](./374363-schwarzesmarken-kouketsu-no-monshou.json) |
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
 | Schwerkraftprojektionsgerät | 139155 | [139155-schwerkraftprojektionsgerat.json](./139155-schwerkraftprojektionsgerat.json) |
@@ -2544,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bolts | 246294 | [246294-scrap-bolts.json](./246294-scrap-bolts.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
+| Scrap Bulwark Guide | 374352 | [374352-scrap-bulwark-guide.json](./374352-scrap-bulwark-guide.json) |
 | Scrap City | 100686 | [100686-scrap-city.json](./100686-scrap-city.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
@@ -3247,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Fantasy | 374203 | [374203-secret-of-fantasy.json](./374203-secret-of-fantasy.json) |
 | Secret of Harrow Manor | 97497 | [97497-secret-of-harrow-manor.json](./97497-secret-of-harrow-manor.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
+| Secret of Havendor | 374382 | [374382-secret-of-havendor.json](./374382-secret-of-havendor.json) |
 | Secret of Lost Pyramid | 103876 | [103876-secret-of-lost-pyramid.json](./103876-secret-of-lost-pyramid.json) |
 | Secret of Mana: Relocalized | 249276 | [249276-secret-of-mana-relocalized.json](./249276-secret-of-mana-relocalized.json) |
 | Secret of Qwerty | 124581 | [124581-secret-of-qwerty.json](./124581-secret-of-qwerty.json) |
@@ -4028,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seoul Station | 312196 | [312196-seoul-station.json](./312196-seoul-station.json) |
 | Sep's Diner | 159718 | [159718-seps-diner.json](./159718-seps-diner.json) |
 | Sepak U: Sports Fighting Game | 404802 | [404802-sepak-u-sports-fighting-game.json](./404802-sepak-u-sports-fighting-game.json) |
+| Sepan and the Seven Flasks | 374353 | [374353-sepan-and-the-seven-flasks.json](./374353-sepan-and-the-seven-flasks.json) |
 | Sepapu | 408702 | [408702-sepapu.json](./408702-sepapu.json) |
 | Separate Blue | 388135 | [388135-separate-blue.json](./388135-separate-blue.json) |
 | Separated | 304622 | [304622-separated.json](./304622-separated.json) |
@@ -8601,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
+| Ski Jumping World Cup | 374349 | [374349-ski-jumping-world-cup.json](./374349-ski-jumping-world-cup.json) |
 | Ski on Neon HD | 108599 | [108599-ski-on-neon-hd.json](./108599-ski-on-neon-hd.json) |
 | Ski or Die | 11675 | [11675-ski-or-die.json](./11675-ski-or-die.json) |
 | Ski Play by Samplay | 202017 | [202017-ski-play-by-samplay.json](./202017-ski-play-by-samplay.json) |
@@ -11903,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone’s Ghost Photos | 399721 | [399721-someone-s-ghost-photos.json](./399721-someone-s-ghost-photos.json) |
 | Someone's Here | 410921 | [410921-someones-here.json](./410921-someones-here.json) |
 | Someone's in the Kitchen! | 208874 | [208874-someones-in-the-kitchen.json](./208874-someones-in-the-kitchen.json) |
+| Someone's Inside Me | 374390 | [374390-someones-inside-me.json](./374390-someones-inside-me.json) |
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
@@ -13274,6 +13281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 120764 | [120764-soulscape.json](./120764-soulscape.json) |
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
+| Soulscape 2: Fragments of the Present | 374380 | [374380-soulscape-2-fragments-of-the-present.json](./374380-soulscape-2-fragments-of-the-present.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
@@ -13602,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cavern | 18502 | [18502-space-cavern.json](./18502-space-cavern.json) |
 | Space Challenge | 96640 | [96640-space-challenge.json](./96640-space-challenge.json) |
 | Space Channel 5: Ulala's Cosmic Attack | 23716 | [23716-space-channel-5-ulalas-cosmic-attack.json](./23716-space-channel-5-ulalas-cosmic-attack.json) |
+| Space Chaos | 374354 | [374354-space-chaos.json](./374354-space-chaos.json) |
 | Space Chase: Odyssey | 333599 | [333599-space-chase-odyssey.json](./333599-space-chase-odyssey.json) |
 | Space Chaser | 39803 | [39803-space-chaser.json](./39803-space-chaser.json) |
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
@@ -15225,6 +15234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
+| Spider Hotel | 374371 | [374371-spider-hotel.json](./374371-spider-hotel.json) |
 | Spider Hunter | 234527 | [234527-spider-hunter.json](./234527-spider-hunter.json) |
 | Spider Inferno | 285460 | [285460-spider-inferno.json](./285460-spider-inferno.json) |
 | Spider Jack | 65478 | [65478-spider-jack.json](./65478-spider-jack.json) |
@@ -15937,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Manor | 62422 | [62422-spooky-manor.json](./62422-spooky-manor.json) |
 | Spooky Mansion Manager | 213546 | [213546-spooky-mansion-manager.json](./213546-spooky-mansion-manager.json) |
 | Spooky Milk Life | 208631 | [208631-spooky-milk-life.json](./208631-spooky-milk-life.json) |
+| Spooky Monster | 374372 | [374372-spooky-monster.json](./374372-spooky-monster.json) |
 | Spooky Murder House | 369242 | [369242-spooky-murder-house.json](./369242-spooky-murder-house.json) |
 | Spooky Night 2 | 125104 | [125104-spooky-night-2.json](./125104-spooky-night-2.json) |
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
@@ -20003,6 +20014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Legal Racing: Redline v2.3.1 | 32221 | [32221-street-legal-racing-redline-v2-3-1.json](./32221-street-legal-racing-redline-v2-3-1.json) |
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
+| Street Life Simulator | 374347 | [374347-street-life-simulator.json](./374347-street-life-simulator.json) |
 | Street Master | 45987 | [45987-street-master.json](./45987-street-master.json) |
 | Street Masters | 175196 | [175196-street-masters.json](./175196-street-masters.json) |
 | Street Ninja | 217946 | [217946-street-ninja.json](./217946-street-ninja.json) |
