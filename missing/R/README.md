@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
 | Raging Fists: Retribution | 166723 | [166723-raging-fists-retribution.json](./166723-raging-fists-retribution.json) |
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
+| Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragna-Block | 97984 | [97984-ragna-block.json](./97984-ragna-block.json) |
 | Ragnagard | 40201 | [40201-ragnagard.json](./40201-ragnagard.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
 | Reservoir Dogs: Bloody Days | 27728 | [27728-reservoir-dogs-bloody-days.json](./27728-reservoir-dogs-bloody-days.json) |
+| Reservoir Stroggs | 402809 | [402809-reservoir-stroggs.json](./402809-reservoir-stroggs.json) |
 | Reset | 15831 | [15831-reset.json](./15831-reset.json) |
 | Reset | 195635 | [195635-reset.json](./195635-reset.json) |
 | Reset | 23906 | [23906-reset.json](./23906-reset.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rory's Restaurant: Origins | 188416 | [188416-rorys-restaurant-origins.json](./188416-rorys-restaurant-origins.json) |
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
+| Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
@@ -8723,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
 | Runebound Bastion | 368290 | [368290-runebound-bastion.json](./368290-runebound-bastion.json) |
+| RuneCipher | 402866 | [402866-runecipher.json](./402866-runecipher.json) |
 | Runecraft | 304644 | [304644-runecraft.json](./304644-runecraft.json) |
 | RuneEra | 422487 | [422487-runeera.json](./422487-runeera.json) |
 | Runefall | 27184 | [27184-runefall.json](./27184-runefall.json) |
