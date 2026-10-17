@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
+| Eon Empires | 406576 | [406576-eon-empires.json](./406576-eon-empires.json) |
 | Eon Fighter | 219251 | [219251-eon-fighter.json](./219251-eon-fighter.json) |
 | Eon Fleet | 96885 | [96885-eon-fleet.json](./96885-eon-fleet.json) |
 | Eon of the Green | 233577 | [233577-eon-of-the-green.json](./233577-eon-of-the-green.json) |
@@ -3590,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Garbage House | 249894 | [249894-escape-from-garbage-house.json](./249894-escape-from-garbage-house.json) |
 | Escape from Ghosts | 385314 | [385314-escape-from-ghosts.json](./385314-escape-from-ghosts.json) |
 | Escape from Grimazel's Cottage | 410453 | [410453-escape-from-grimazels-cottage.json](./410453-escape-from-grimazels-cottage.json) |
+| Escape From Ground | 406563 | [406563-escape-from-ground.json](./406563-escape-from-ground.json) |
 | Escape From Hadrian's Wall | 372603 | [372603-escape-from-hadrians-wall.json](./372603-escape-from-hadrians-wall.json) |
 | Escape from Haon Island | 339768 | [339768-escape-from-haon-island.json](./339768-escape-from-haon-island.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
@@ -4382,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eugenics | 18426 | [18426-eugenics.json](./18426-eugenics.json) |
 | Eukarion Tales 2 | 247422 | [247422-eukarion-tales-2.json](./247422-eukarion-tales-2.json) |
 | Eukarion Tales: Origins | 259581 | [259581-eukarion-tales-origins.json](./259581-eukarion-tales-origins.json) |
+| EULA | 406557 | [406557-eula.json](./406557-eula.json) |
 | Euler Wars | 130166 | [130166-euler-wars.json](./130166-euler-wars.json) |
 | Eulogy for Nonno | 374813 | [374813-eulogy-for-nonno.json](./374813-eulogy-for-nonno.json) |
 | Eumel | 91584 | [91584-eumel.json](./91584-eumel.json) |
