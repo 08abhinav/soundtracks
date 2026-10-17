@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
 | Warped Times | 211104 | [211104-warped-times.json](./211104-warped-times.json) |
+| Warped Universe | 366030 | [366030-warped-universe.json](./366030-warped-universe.json) |
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
 | Web or Dead | 236272 | [236272-web-or-dead.json](./236272-web-or-dead.json) |
+| Web Phantom Brave | 366029 | [366029-web-phantom-brave.json](./366029-web-phantom-brave.json) |
 | Web Power Dolls | 228983 | [228983-web-power-dolls.json](./228983-web-power-dolls.json) |
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice | 88230 | [88230-web-spice.json](./88230-web-spice.json) |
