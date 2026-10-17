@@ -3828,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
+| Phantom Lamb | 377906 | [377906-phantom-lamb.json](./377906-phantom-lamb.json) |
 | Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
 | Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
@@ -3995,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
 | Phobolis | 255854 | [255854-phobolis.json](./255854-phobolis.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
+| Phobophobia 1.0: The Experiment | 377905 | [377905-phobophobia-1-0-the-experiment.json](./377905-phobophobia-1-0-the-experiment.json) |
 | Phobos | 141096 | [141096-phobos.json](./141096-phobos.json) |
 | Phobos | 184093 | [184093-phobos.json](./184093-phobos.json) |
 | Phobos Dere.GB | 260851 | [260851-phobos-dere-gb.json](./260851-phobos-dere-gb.json) |
@@ -13247,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
+| PWK Trivia Collection | 377932 | [377932-pwk-trivia-collection.json](./377932-pwk-trivia-collection.json) |
 | PWN: Combat Hacking | 63677 | [63677-pwn-combat-hacking.json](./63677-pwn-combat-hacking.json) |
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
