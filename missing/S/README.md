@@ -16864,7 +16864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Control | 4497 | [4497-star-control.json](./4497-star-control.json) |
 | Star Control I & II | 154237 | [154237-star-control-i-and-ii.json](./154237-star-control-i-and-ii.json) |
 | Star Control II | 1046 | [1046-star-control-ii.json](./1046-star-control-ii.json) |
-| Star Control: Origins | 25311 | [25311-star-control-origins.json](./25311-star-control-origins.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
 | Star Control: Origins - Multiverse | 124805 | [124805-star-control-origins-multiverse.json](./124805-star-control-origins-multiverse.json) |
 | Star Cosmic | 407309 | [407309-star-cosmic.json](./407309-star-cosmic.json) |
