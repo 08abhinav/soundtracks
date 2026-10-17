@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
 | Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
 | Can Can Bunny Superior | 108893 | [108893-can-can-bunny-superior.json](./108893-can-can-bunny-superior.json) |
+| Can Deliver? Survival Kit | 402233 | [402233-can-deliver-survival-kit.json](./402233-can-deliver-survival-kit.json) |
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
@@ -11017,6 +11018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
 | CPU Architecture Sim | 116930 | [116930-cpu-architecture-sim.json](./116930-cpu-architecture-sim.json) |
+| CPU Invaders: 3i Atlas | 402234 | [402234-cpu-invaders-3i-atlas.json](./402234-cpu-invaders-3i-atlas.json) |
 | CPU Invaders: Aim Hero | 413665 | [413665-cpu-invaders-aim-hero.json](./413665-cpu-invaders-aim-hero.json) |
 | CPU Invaders: Cyber Arcade | 413136 | [413136-cpu-invaders-cyber-arcade.json](./413136-cpu-invaders-cyber-arcade.json) |
 | CPU Invaders: Micro Spheres | 413658 | [413658-cpu-invaders-micro-spheres.json](./413658-cpu-invaders-micro-spheres.json) |
