@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helena's Mercenary Army: Fellows Are Cucked One by One | 82663 | [82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json](./82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
+| Helenland | 389502 | [389502-helenland.json](./389502-helenland.json) |
 | Helevenium | 177788 | [177788-helevenium.json](./177788-helevenium.json) |
 | Helga Deep In Trouble | 315205 | [315205-helga-deep-in-trouble.json](./315205-helga-deep-in-trouble.json) |
 | Helga the Viking Warrior | 192817 | [192817-helga-the-viking-warrior.json](./192817-helga-the-viking-warrior.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper | 27744 | [27744-house-flipper.json](./27744-house-flipper.json) |
 | House Flipper 2: Co-op DLC | 402395 | [402395-house-flipper-2-co-op-dlc.json](./402395-house-flipper-2-co-op-dlc.json) |
 | House Flipper 2: Pets | 370700 | [370700-house-flipper-2-pets.json](./370700-house-flipper-2-pets.json) |
+| House Flipper 2: Sakura DLC | 389511 | [389511-house-flipper-2-sakura-dlc.json](./389511-house-flipper-2-sakura-dlc.json) |
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
 | House Flipper Hairdreser Bundle | 312839 | [312839-house-flipper-hairdreser-bundle.json](./312839-house-flipper-hairdreser-bundle.json) |
@@ -8325,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Grounds | 366949 | [366949-hunt-grounds.json](./366949-hunt-grounds.json) |
 | Hunt Hide Run | 296916 | [296916-hunt-hide-run.json](./296916-hunt-hide-run.json) |
 | Hunt Me | 305972 | [305972-hunt-me.json](./305972-hunt-me.json) |
+| Hunt or Die! | 389506 | [389506-hunt-or-die.json](./389506-hunt-or-die.json) |
 | Hunt Planet Bug | 133351 | [133351-hunt-planet-bug.json](./133351-hunt-planet-bug.json) |
 | Hunt Royale | 159347 | [159347-hunt-royale.json](./159347-hunt-royale.json) |
 | Hunt Souleater | 189024 | [189024-hunt-souleater.json](./189024-hunt-souleater.json) |
