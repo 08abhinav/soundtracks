@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panelki | 192269 | [192269-panelki.json](./192269-panelki.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
 | Paneltia Story: Karen no Daibouken | 97339 | [97339-paneltia-story-karen-no-daibouken.json](./97339-paneltia-story-karen-no-daibouken.json) |
+| Panema | 399413 | [399413-panema.json](./399413-panema.json) |
 | Panfu | 89508 | [89508-panfu.json](./89508-panfu.json) |
 | Pang & Bang | 110963 | [110963-pang-and-bang.json](./110963-pang-and-bang.json) |
 | Pang Pang Terrible | 287571 | [287571-pang-pang-terrible.json](./287571-pang-pang-terrible.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigu Wang 7 Hab | 130685 | [130685-pigu-wang-7-hab.json](./130685-pigu-wang-7-hab.json) |
 | PigUp | 348902 | [348902-pigup.json](./348902-pigup.json) |
 | Pih | 375457 | [375457-pih.json](./375457-pih.json) |
+| Pih 2 | 399411 | [399411-pih-2.json](./399411-pih-2.json) |
 | PiiSim | 125931 | [125931-piisim.json](./125931-piisim.json) |
 | Pik's Epic Kirby Sprite Comics: Teh Game 2 | 246666 | [246666-piks-epic-kirby-sprite-comics-teh-game-2.json](./246666-piks-epic-kirby-sprite-comics-teh-game-2.json) |
 | Pika Pika Nurse Monogatari 2 | 222443 | [222443-pika-pika-nurse-monogatari-2.json](./222443-pika-pika-nurse-monogatari-2.json) |
@@ -7298,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
 | Pocket Cowboy | 175437 | [175437-pocket-cowboy.json](./175437-pocket-cowboy.json) |
 | Pocket Cowboys | 235255 | [235255-pocket-cowboys.json](./235255-pocket-cowboys.json) |
+| Pocket Creature PVP | 399480 | [399480-pocket-creature-pvp.json](./399480-pocket-creature-pvp.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
@@ -8314,6 +8317,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pathways | 295386 | [295386-polar-pathways.json](./295386-polar-pathways.json) |
 | Polar Payne | 216341 | [216341-polar-payne.json](./216341-polar-payne.json) |
 | Polar Penguin | 239731 | [239731-polar-penguin.json](./239731-polar-penguin.json) |
+| Polar Pwnd | 399457 | [399457-polar-pwnd.json](./399457-polar-pwnd.json) |
+| Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | PolarDread | 298276 | [298276-polardread.json](./298276-polardread.json) |
@@ -11674,6 +11679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol Zero | 57929 | [57929-protocol-zero.json](./57929-protocol-zero.json) |
 | Protocol: Chapter 1 - Limbo | 415150 | [415150-protocol-chapter-1-limbo.json](./415150-protocol-chapter-1-limbo.json) |
 | Protocol: Children of War | 215325 | [215325-protocol-children-of-war.json](./215325-protocol-children-of-war.json) |
+| Protocol: Requiem | 399412 | [399412-protocol-requiem.json](./399412-protocol-requiem.json) |
 | Protocol: Zero-Day | 397998 | [397998-protocol-zero-day.json](./397998-protocol-zero-day.json) |
 | Protocol:Null | 301982 | [301982-protocol-null.json](./301982-protocol-null.json) |
 | Protocole: Hedera | 270101 | [270101-protocole-hedera.json](./270101-protocole-hedera.json) |
