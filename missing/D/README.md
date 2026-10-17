@@ -3354,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
+| Debts and Dungeons | 389479 | [389479-debts-and-dungeons.json](./389479-debts-and-dungeons.json) |
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debug | 417988 | [417988-debug.json](./417988-debug.json) |
@@ -6564,6 +6565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Crisis 2 | 329776 | [329776-dino-crisis-2.json](./329776-dino-crisis-2.json) |
 | Dino Crisis 2 | 416083 | [416083-dino-crisis-2.json](./416083-dino-crisis-2.json) |
 | Dino Crisis Bundle | 329777 | [329777-dino-crisis-bundle.json](./329777-dino-crisis-bundle.json) |
+| Dino Crisis Rebirth | 389501 | [389501-dino-crisis-rebirth.json](./389501-dino-crisis-rebirth.json) |
 | Dino Crisis: 5th Anniversary | 161345 | [161345-dino-crisis-5th-anniversary.json](./161345-dino-crisis-5th-anniversary.json) |
 | Dino Crisis: Dungeon in Chaos | 146923 | [146923-dino-crisis-dungeon-in-chaos.json](./146923-dino-crisis-dungeon-in-chaos.json) |
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
@@ -6734,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
 | Dinosaur Zookeeper | 318233 | [318233-dinosaur-zookeeper.json](./318233-dinosaur-zookeeper.json) |
+| Dinosaur! | 389576 | [389576-dinosaur.json](./389576-dinosaur.json) |
 | Dinosaur'us | 65584 | [65584-dinosaurus.json](./65584-dinosaurus.json) |
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
@@ -8672,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Open | 398421 | [398421-don-t-open.json](./398421-don-t-open.json) |
 | Don't Open This Book | 336524 | [336524-dont-open-this-book.json](./336524-dont-open-this-book.json) |
 | Don't Panic | 13603 | [13603-dont-panic.json](./13603-dont-panic.json) |
+| Don't Panic Together | 389527 | [389527-dont-panic-together.json](./389527-dont-panic-together.json) |
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
@@ -12190,6 +12194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Souls+ | 131965 | [131965-duck-souls.json](./131965-duck-souls.json) |
 | Duck Tales SNES | 377743 | [377743-duck-tales-snes.json](./377743-duck-tales-snes.json) |
 | Duck Tales ZX: Webby to the Rescue! | 279736 | [279736-duck-tales-zx-webby-to-the-rescue.json](./279736-duck-tales-zx-webby-to-the-rescue.json) |
+| Duck the Miner | 389524 | [389524-duck-the-miner.json](./389524-duck-the-miner.json) |
 | Duck Turnip | 228963 | [228963-duck-turnip.json](./228963-duck-turnip.json) |
 | Duck vs. Evil | 350453 | [350453-duck-vs-evil.json](./350453-duck-vs-evil.json) |
 | Duck Warfare | 96811 | [96811-duck-warfare.json](./96811-duck-warfare.json) |
