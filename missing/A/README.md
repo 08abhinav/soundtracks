@@ -6849,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
 | Animal Agents | 94658 | [94658-animal-agents.json](./94658-animal-agents.json) |
+| Animal Anatomy VR | 377359 | [377359-animal-anatomy-vr.json](./377359-animal-anatomy-vr.json) |
 | Animal Arena | 274950 | [274950-animal-arena.json](./274950-animal-arena.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
