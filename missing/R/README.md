@@ -4616,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Showdown in Chinatown | 342261 | [342261-reverse-1999-showdown-in-chinatown.json](./342261-reverse-1999-showdown-in-chinatown.json) |
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
+| Reverse 1999: The Midnight Whistle | 379188 | [379188-reverse-1999-the-midnight-whistle.json](./379188-reverse-1999-the-midnight-whistle.json) |
 | Reverse 1999: The Theft of the Rimet Cup | 279785 | [279785-reverse-1999-the-theft-of-the-rimet-cup.json](./279785-reverse-1999-the-theft-of-the-rimet-cup.json) |
 | Reverse 1999: The Turquoise Serpent Club | 401741 | [401741-reverse-1999-the-turquoise-serpent-club.json](./401741-reverse-1999-the-turquoise-serpent-club.json) |
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
