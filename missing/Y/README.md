@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
+| Yeet the Chest | 414084 | [414084-yeet-the-chest.json](./414084-yeet-the-chest.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You are cursed, Mr.Mayor! | 183801 | [183801-you-are-cursed-mr-mayor.json](./183801-you-are-cursed-mr-mayor.json) |
 | You Are Dead! | 323798 | [323798-you-are-dead.json](./323798-you-are-dead.json) |
 | You are Dough | 243643 | [243643-you-are-dough.json](./243643-you-are-dough.json) |
+| You Are Empty: Absolute Edition | 414126 | [414126-you-are-empty-absolute-edition.json](./414126-you-are-empty-absolute-edition.json) |
 | You Are Family | 418531 | [418531-you-are-family.json](./418531-you-are-family.json) |
 | You Are Grounded | 370191 | [370191-you-are-grounded.json](./370191-you-are-grounded.json) |
 | You Are Here | 114169 | [114169-you-are-here.json](./114169-you-are-here.json) |
