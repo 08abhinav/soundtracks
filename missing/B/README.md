@@ -7071,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
+| Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Bless Unleashed: Deluxe Founder's Pack | 166082 | [166082-bless-unleashed-deluxe-founders-pack.json](./166082-bless-unleashed-deluxe-founders-pack.json) |
 | Bless Unleashed: Exalted Founder's Pack | 166077 | [166077-bless-unleashed-exalted-founders-pack.json](./166077-bless-unleashed-exalted-founders-pack.json) |
@@ -7242,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzkrieg: Toubu Sensen 1941-45 | 242517 | [242517-blitzkrieg-toubu-sensen-1941-45.json](./242517-blitzkrieg-toubu-sensen-1941-45.json) |
 | BlitzPunch | 188123 | [188123-blitzpunch.json](./188123-blitzpunch.json) |
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
+| BlitzRift | 382501 | [382501-blitzrift.json](./382501-blitzrift.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
 | Blizz! | 354945 | [354945-blizz.json](./354945-blizz.json) |
