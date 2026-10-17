@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Frozen Beauty | 62837 | [62837-living-legends-frozen-beauty.json](./62837-living-legends-frozen-beauty.json) |
 | Living Legends: Frozen Beauty Collector's Edition | 355542 | [355542-living-legends-frozen-beauty-collectors-edition.json](./355542-living-legends-frozen-beauty-collectors-edition.json) |
 | Living Legends: Frozen Destiny | 397040 | [397040-living-legends-frozen-destiny.json](./397040-living-legends-frozen-destiny.json) |
+| Living Legends: Frozen Destiny Collector's Edition | 369359 | [369359-living-legends-frozen-destiny-collectors-edition.json](./369359-living-legends-frozen-destiny-collectors-edition.json) |
 | Living Legends: Haunting Melody | 355552 | [355552-living-legends-haunting-melody.json](./355552-living-legends-haunting-melody.json) |
 | Living Legends: Haunting Melody - Collector's Edition | 397041 | [397041-living-legends-haunting-melody-collectors-edition.json](./397041-living-legends-haunting-melody-collectors-edition.json) |
 | Living Legends: Ice Rose | 62835 | [62835-living-legends-ice-rose.json](./62835-living-legends-ice-rose.json) |
@@ -6883,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
 | Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
+| Luna and the Sea | 369356 | [369356-luna-and-the-sea.json](./369356-luna-and-the-sea.json) |
 | Luna and the Stars | 225554 | [225554-luna-and-the-stars.json](./225554-luna-and-the-stars.json) |
 | Luna and the Wasted City of Sin | 326791 | [326791-luna-and-the-wasted-city-of-sin.json](./326791-luna-and-the-wasted-city-of-sin.json) |
 | Luna Anomaly | 369195 | [369195-luna-anomaly.json](./369195-luna-anomaly.json) |
