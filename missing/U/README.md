@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
+| UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
 | UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
 | UFC: Throwdown | 4221 | [4221-ufc-throwdown.json](./4221-ufc-throwdown.json) |
 | UFHO2 | 35793 | [35793-ufho2.json](./35793-ufho2.json) |
