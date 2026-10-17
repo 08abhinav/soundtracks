@@ -5215,6 +5215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop Theory | 288817 | [288817-loop-theory.json](./288817-loop-theory.json) |
 | Loop Trace | 417455 | [417455-loop-trace.json](./417455-loop-trace.json) |
 | Loop Train | 179447 | [179447-loop-train.json](./179447-loop-train.json) |
+| Loop x Loop | 414105 | [414105-loop-x-loop.json](./414105-loop-x-loop.json) |
 | Loop Yourself | 359021 | [359021-loop-yourself.json](./359021-loop-yourself.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
