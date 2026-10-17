@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Riot | 149209 | [149209-rabbit-riot.json](./149209-rabbit-riot.json) |
 | Rabbit Run Away | 212466 | [212466-rabbit-run-away.json](./212466-rabbit-run-away.json) |
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
+| Rabbit Runner | 402228 | [402228-rabbit-runner.json](./402228-rabbit-runner.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
 | Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
@@ -1884,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Call | 364068 | [364068-re-call.json](./364068-re-call.json) |
 | Re:Call | 92486 | [92486-re-call.json](./92486-re-call.json) |
 | Re:Connect | 306064 | [306064-re-connect.json](./306064-re-connect.json) |
+| Re:cord Noah: Fractal of Oblivion | 402327 | [402327-re-cord-noah-fractal-of-oblivion.json](./402327-re-cord-noah-fractal-of-oblivion.json) |
 | Re:D Cherish! | 273298 | [273298-re-d-cherish.json](./273298-re-d-cherish.json) |
 | Re:D Cherish! SS: Desperado's One Operation | 370696 | [370696-re-d-cherish-ss-desperados-one-operation.json](./370696-re-d-cherish-ss-desperados-one-operation.json) |
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
@@ -2886,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Zone | 12744 | [12744-red-zone.json](./12744-red-zone.json) |
 | Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
+| Red: Flame & Fable | 402221 | [402221-red-flame-and-fable.json](./402221-red-flame-and-fable.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
@@ -3193,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
+| Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
@@ -3693,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
 | Reptile Island | 386383 | [386383-reptile-island.json](./386383-reptile-island.json) |
 | Reptile Park VR | 253863 | [253863-reptile-park-vr.json](./253863-reptile-park-vr.json) |
+| Reptile Recall | 402319 | [402319-reptile-recall.json](./402319-reptile-recall.json) |
 | Reptile Rehab | 215323 | [215323-reptile-rehab.json](./215323-reptile-rehab.json) |
 | Reptile Silhouette | 361344 | [361344-reptile-silhouette.json](./361344-reptile-silhouette.json) |
 | Reptiles: In Hunt | 105171 | [105171-reptiles-in-hunt.json](./105171-reptiles-in-hunt.json) |
