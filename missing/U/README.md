@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsheltered | 250843 | [250843-unsheltered.json](./250843-unsheltered.json) |
 | Unshuffle | 356609 | [356609-unshuffle.json](./356609-unshuffle.json) |
 | Unsighted | 111815 | [111815-unsighted.json](./111815-unsighted.json) |
+| Unslaad | 373834 | [373834-unslaad.json](./373834-unslaad.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
 | Unsolved Case | 216491 | [216491-unsolved-case.json](./216491-unsolved-case.json) |
