@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Time | 64384 | [64384-passing-time.json](./64384-passing-time.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
+| Passionstruck | 409840 | [409840-passionstruck.json](./409840-passionstruck.json) |
 | Passive Hero: Save the World in 100 Days! | 359575 | [359575-passive-hero-save-the-world-in-100-days.json](./359575-passive-hero-save-the-world-in-100-days.json) |
 | Passive Income | 167192 | [167192-passive-income.json](./167192-passive-income.json) |
 | Passpartout 2: The Lost Artist - Special Edition | 250284 | [250284-passpartout-2-the-lost-artist-special-edition.json](./250284-passpartout-2-the-lost-artist-special-edition.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Periculum | 317542 | [317542-periculum.json](./317542-periculum.json) |
 | Peridium | 54895 | [54895-peridium.json](./54895-peridium.json) |
 | Perigee | 83950 | [83950-perigee.json](./83950-perigee.json) |
+| Perihelion: Rogue Orbit | 409845 | [409845-perihelion-rogue-orbit.json](./409845-perihelion-rogue-orbit.json) |
 | Perihelion: The Prophecy | 72287 | [72287-perihelion-the-prophecy.json](./72287-perihelion-the-prophecy.json) |
 | Perika Game | 302739 | [302739-perika-game.json](./302739-perika-game.json) |
 | Peril | 177036 | [177036-peril.json](./177036-peril.json) |
@@ -4418,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Puzzle Pack 3-in-1 | 136960 | [136960-piczle-puzzle-pack-3-in-1.json](./136960-piczle-puzzle-pack-3-in-1.json) |
 | Pid | 1892 | [1892-pid.json](./1892-pid.json) |
 | Pid | 225890 | [225890-pid.json](./225890-pid.json) |
+| Pidgeon Pocket | 409879 | [409879-pidgeon-pocket.json](./409879-pidgeon-pocket.json) |
 | Pido1 | 105367 | [105367-pido1.json](./105367-pido1.json) |
 | Pie Die: Pewdiepie Edition | 88444 | [88444-pie-die-pewdiepie-edition.json](./88444-pie-die-pewdiepie-edition.json) |
 | Pie in the Sky | 298346 | [298346-pie-in-the-sky.json](./298346-pie-in-the-sky.json) |
