@@ -10992,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Challenge Circus | 17395 | [17395-monster-challenge-circus.json](./17395-monster-challenge-circus.json) |
 | Monster Charmer | 310724 | [310724-monster-charmer.json](./310724-monster-charmer.json) |
 | Monster Chase | 60566 | [60566-monster-chase.json](./60566-monster-chase.json) |
+| Monster Chef | 371556 | [371556-monster-chef.json](./371556-monster-chef.json) |
 | Monster Chef | 91086 | [91086-monster-chef.json](./91086-monster-chef.json) |
 | Monster Chronicle | 56473 | [56473-monster-chronicle.json](./56473-monster-chronicle.json) |
 | Monster City: A Monster College Story | 370576 | [370576-monster-city-a-monster-college-story.json](./370576-monster-city-a-monster-college-story.json) |
@@ -13097,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Manor Escape | 196119 | [196119-mr-hopps-manor-escape.json](./196119-mr-hopps-manor-escape.json) |
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
+| Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Jumpington | 55652 | [55652-mr-jumpington.json](./55652-mr-jumpington.json) |
 | Mr. Jumpington 2 | 55651 | [55651-mr-jumpington-2.json](./55651-mr-jumpington-2.json) |
@@ -13981,6 +13983,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
 | Mutants Of Mist | 285964 | [285964-mutants-of-mist.json](./285964-mutants-of-mist.json) |
+| Mutants vs. the Chosen | 371579 | [371579-mutants-vs-the-chosen.json](./371579-mutants-vs-the-chosen.json) |
+| Mutants vs. the Chosen Part 2 | 371583 | [371583-mutants-vs-the-chosen-part-2.json](./371583-mutants-vs-the-chosen-part-2.json) |
 | Mutants: Genesis | 220144 | [220144-mutants-genesis.json](./220144-mutants-genesis.json) |
 | Mutasmagoria | 382498 | [382498-mutasmagoria.json](./382498-mutasmagoria.json) |
 | Mutate! Fight! Purr! | 381640 | [381640-mutate-fight-purr.json](./381640-mutate-fight-purr.json) |
@@ -14609,6 +14613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Car Wash | 174238 | [174238-my-little-car-wash.json](./174238-my-little-car-wash.json) |
 | My Little Career | 261852 | [261852-my-little-career.json](./261852-my-little-career.json) |
 | My Little Cemetery | 294173 | [294173-my-little-cemetery.json](./294173-my-little-cemetery.json) |
+| My Little Coffee Shop | 371548 | [371548-my-little-coffee-shop.json](./371548-my-little-coffee-shop.json) |
 | My Little Dog Adventure | 146772 | [146772-my-little-dog-adventure.json](./146772-my-little-dog-adventure.json) |
 | My Little Farm | 391620 | [391620-my-little-farm.json](./391620-my-little-farm.json) |
 | My Little Fast Food Booth | 147457 | [147457-my-little-fast-food-booth.json](./147457-my-little-fast-food-booth.json) |
