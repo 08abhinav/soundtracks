@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail of Möbius | 147810 | [147810-rail-of-mobius.json](./147810-rail-of-mobius.json) |
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
+| Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
 | Rail Route | 145422 | [145422-rail-route.json](./145422-rail-route.json) |
 | Rail Route: Happy Passengers | 302036 | [302036-rail-route-happy-passengers.json](./302036-rail-route-happy-passengers.json) |
@@ -2038,9 +2039,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
+| Real Boxing 2: Remastered - El Loco Edition | 380721 | [380721-real-boxing-2-remastered-el-loco-edition.json](./380721-real-boxing-2-remastered-el-loco-edition.json) |
 | Real Boxing 2: Remastered - Gold Edition | 411837 | [411837-real-boxing-2-remastered-gold-edition.json](./411837-real-boxing-2-remastered-gold-edition.json) |
 | Real Boxing 2: Remastered - Jonathan DLC | 393068 | [393068-real-boxing-2-remastered-jonathan-dlc.json](./393068-real-boxing-2-remastered-jonathan-dlc.json) |
 | Real Boxing 2: Remastered - Landon Edition | 346002 | [346002-real-boxing-2-remastered-landon-edition.json](./346002-real-boxing-2-remastered-landon-edition.json) |
+| Real Boxing 2: Remastered - Mark Rouser DLC | 380720 | [380720-real-boxing-2-remastered-mark-rouser-dlc.json](./380720-real-boxing-2-remastered-mark-rouser-dlc.json) |
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
@@ -8313,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTO | 84851 | [84851-rto.json](./84851-rto.json) |
 | RTO 3 | 106519 | [106519-rto-3.json](./106519-rto-3.json) |
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
+| RTS Hero | 380817 | [380817-rts-hero.json](./380817-rts-hero.json) |
 | RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
@@ -8689,6 +8693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
 | Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
+| Run Sausage Run!: Diamond Edition | 380722 | [380722-run-sausage-run-diamond-edition.json](./380722-run-sausage-run-diamond-edition.json) |
 | Run Sausage Run!: Emerald Edition | 411838 | [411838-run-sausage-run-emerald-edition.json](./411838-run-sausage-run-emerald-edition.json) |
 | Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
