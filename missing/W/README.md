@@ -5849,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Mixed Martial Arts 4 | 58187 | [58187-world-of-mixed-martial-arts-4.json](./58187-world-of-mixed-martial-arts-4.json) |
 | World of Mixed Martial Arts 5 | 125436 | [125436-world-of-mixed-martial-arts-5.json](./125436-world-of-mixed-martial-arts-5.json) |
 | World Of Modern Warfare | 89190 | [89190-world-of-modern-warfare.json](./89190-world-of-modern-warfare.json) |
+| World of Motors | 369324 | [369324-world-of-motors.json](./369324-world-of-motors.json) |
 | World of Motors 2 | 220722 | [220722-world-of-motors-2.json](./220722-world-of-motors-2.json) |
 | World of Movies: Puzzle Game Challenge | 328463 | [328463-world-of-movies-puzzle-game-challenge.json](./328463-world-of-movies-puzzle-game-challenge.json) |
 | World of Mystery | 230966 | [230966-world-of-mystery.json](./230966-world-of-mystery.json) |
