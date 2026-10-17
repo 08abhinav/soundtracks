@@ -3026,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inn Hand | 325865 | [325865-inn-hand.json](./325865-inn-hand.json) |
 | Inn Mage | 156608 | [156608-inn-mage.json](./156608-inn-mage.json) |
 | Inn Need | 225766 | [225766-inn-need.json](./225766-inn-need.json) |
+| Inn Over Your Head | 408494 | [408494-inn-over-your-head.json](./408494-inn-over-your-head.json) |
 | Inn The Dark | 255985 | [255985-inn-the-dark.json](./255985-inn-the-dark.json) |
 | Inn: the Countryside | 106460 | [106460-inn-the-countryside.json](./106460-inn-the-countryside.json) |
 | Innadreem | 383938 | [383938-innadreem.json](./383938-innadreem.json) |
