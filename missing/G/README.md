@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Cocoa | 363573 | [363573-galaxy-cocoa.json](./363573-galaxy-cocoa.json) |
 | Galaxy Control: Arena Station | 89823 | [89823-galaxy-control-arena-station.json](./89823-galaxy-control-arena-station.json) |
 | Galaxy Crisis | 150450 | [150450-galaxy-crisis.json](./150450-galaxy-crisis.json) |
+| Galaxy Critter Co. | 412918 | [412918-galaxy-critter-co.json](./412918-galaxy-critter-co.json) |
 | Galaxy Defenders: Classic TD | 359068 | [359068-galaxy-defenders-classic-td.json](./359068-galaxy-defenders-classic-td.json) |
 | Galaxy Defense | 188347 | [188347-galaxy-defense.json](./188347-galaxy-defense.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
@@ -1517,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate | 170353 | [170353-gate.json](./170353-gate.json) |
 | Gate | 417986 | [417986-gate.json](./417986-gate.json) |
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
+| Gate Breaker: Ascension | 412921 | [412921-gate-breaker-ascension.json](./412921-gate-breaker-ascension.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
@@ -3429,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch Pets | 104828 | [104828-glitch-pets.json](./104828-glitch-pets.json) |
 | Glitch Puzzle | 202214 | [202214-glitch-puzzle.json](./202214-glitch-puzzle.json) |
 | Glitch Racer | 383936 | [383936-glitch-racer.json](./383936-glitch-racer.json) |
+| Glitch Run | 412977 | [412977-glitch-run.json](./412977-glitch-run.json) |
 | Glitch Strike | 134611 | [134611-glitch-strike.json](./134611-glitch-strike.json) |
 | Glitch Tower | 376453 | [376453-glitch-tower.json](./376453-glitch-tower.json) |
 | Glitch War | 138006 | [138006-glitch-war.json](./138006-glitch-war.json) |
@@ -7383,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gummy Bears Mini Golf | 85169 | [85169-gummy-bears-mini-golf.json](./85169-gummy-bears-mini-golf.json) |
 | Gummy Bears: Magical Medallion | 50628 | [50628-gummy-bears-magical-medallion.json](./50628-gummy-bears-magical-medallion.json) |
 | Gummy Drop! | 86822 | [86822-gummy-drop.json](./86822-gummy-drop.json) |
+| Gummy Invaders | 412945 | [412945-gummy-invaders.json](./412945-gummy-invaders.json) |
 | Gummy Jump 2 | 321496 | [321496-gummy-jump-2.json](./321496-gummy-jump-2.json) |
 | Gummy Nightmares | 305743 | [305743-gummy-nightmares.json](./305743-gummy-nightmares.json) |
 | Gummy Slide | 251236 | [251236-gummy-slide.json](./251236-gummy-slide.json) |
