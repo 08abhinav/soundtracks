@@ -2330,7 +2330,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void And Rainbow | 256875 | [256875-void-and-rainbow.json](./256875-void-and-rainbow.json) |
 | Void Arena | 155844 | [155844-void-arena.json](./155844-void-arena.json) |
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
-| Void Bastards | 111846 | [111846-void-bastards.json](./111846-void-bastards.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
 | Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
