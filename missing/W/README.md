@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
 | What's Your Sign? | 74714 | [74714-whats-your-sign.json](./74714-whats-your-sign.json) |
 | Whatcha Loopin At? | 364688 | [364688-whatcha-loopin-at.json](./364688-whatcha-loopin-at.json) |
+| Whatever It Takes | 400092 | [400092-whatever-it-takes.json](./400092-whatever-it-takes.json) |
 | Whatever We Decide to Call this Game | 313452 | [313452-whatever-we-decide-to-call-this-game.json](./313452-whatever-we-decide-to-call-this-game.json) |
 | Whateverland | 126594 | [126594-whateverland.json](./126594-whateverland.json) |
 | Whatnever | 348782 | [348782-whatnever.json](./348782-whatnever.json) |
@@ -5074,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Everyday: Down the Rabbit-Hole | 172667 | [172667-wonderful-everyday-down-the-rabbit-hole.json](./172667-wonderful-everyday-down-the-rabbit-hole.json) |
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
+| Wonderful Jigsaw | 400078 | [400078-wonderful-jigsaw.json](./400078-wonderful-jigsaw.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
 | Wonderful Purgatory | 369228 | [369228-wonderful-purgatory.json](./369228-wonderful-purgatory.json) |
@@ -6058,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War: D-Day Part One | 275042 | [275042-world-war-d-day-part-one.json](./275042-world-war-d-day-part-one.json) |
 | World War: D-Day Part Two | 278663 | [278663-world-war-d-day-part-two.json](./278663-world-war-d-day-part-two.json) |
 | World War: Fury Wave | 316236 | [316236-world-war-fury-wave.json](./316236-world-war-fury-wave.json) |
+| World War: Prologue | 400065 | [400065-world-war-prologue.json](./400065-world-war-prologue.json) |
 | World War: Tank Battle | 192082 | [192082-world-war-tank-battle.json](./192082-world-war-tank-battle.json) |
 | World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
