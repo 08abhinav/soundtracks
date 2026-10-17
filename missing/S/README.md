@@ -6021,7 +6021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShinNaZuki | 355196 | [355196-shinnazuki.json](./355196-shinnazuki.json) |
 | Shinnyuushain Tooru-Kun | 6133 | [6133-shinnyuushain-tooru-kun.json](./6133-shinnyuushain-tooru-kun.json) |
 | Shinobi | 10219 | [10219-shinobi.json](./10219-shinobi.json) |
-| Shinobi | 10223 | [10223-shinobi.json](./10223-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
@@ -8180,7 +8179,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim 3 | 100422 | [100422-siralim-3.json](./100422-siralim-3.json) |
 | Sire Abandon | 200432 | [200432-sire-abandon.json](./200432-sire-abandon.json) |
-| Siren | 14522 | [14522-siren.json](./14522-siren.json) |
 | Siren | 195494 | [195494-siren.json](./195494-siren.json) |
 | Siren for Hire | 182766 | [182766-siren-for-hire.json](./182766-siren-for-hire.json) |
 | Siren Head | 125564 | [125564-siren-head.json](./125564-siren-head.json) |
@@ -14674,7 +14672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectres | 45359 | [45359-spectres.json](./45359-spectres.json) |
 | Spectrewoods | 154987 | [154987-spectrewoods.json](./154987-spectrewoods.json) |
 | Spectro: Phantom Tower | 393791 | [393791-spectro-phantom-tower.json](./393791-spectro-phantom-tower.json) |
-| Spectrobes | 5174 | [5174-spectrobes.json](./5174-spectrobes.json) |
 | Spectrobes: Beyond the Portals | 5175 | [5175-spectrobes-beyond-the-portals.json](./5175-spectrobes-beyond-the-portals.json) |
 | Spectrobes: Origins | 5173 | [5173-spectrobes-origins.json](./5173-spectrobes-origins.json) |
 | Spectrolite | 176361 | [176361-spectrolite.json](./176361-spectrolite.json) |
@@ -17743,7 +17740,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
-| Starlink: Battle for Atlas | 37066 | [37066-starlink-battle-for-atlas.json](./37066-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
