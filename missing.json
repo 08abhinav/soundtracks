@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:33:42.187Z",
-  "total_missing": 224215,
+  "generated_at": "2026-10-17T15:39:22.086Z",
+  "total_missing": 224195,
   "games": [
     {
       "igdb_id": 191680,
@@ -66662,11 +66662,6 @@
       "file": "missing/A/319568-asteroids.json"
     },
     {
-      "igdb_id": 7758,
-      "game_name": "Asteroids",
-      "file": "missing/A/7758-asteroids.json"
-    },
-    {
       "igdb_id": 80932,
       "game_name": "Asteroids",
       "file": "missing/A/80932-asteroids.json"
@@ -127255,11 +127250,6 @@
       "igdb_id": 317991,
       "game_name": "Bramble Royale: A Meteorfall Story",
       "file": "missing/B/317991-bramble-royale-a-meteorfall-story.json"
-    },
-    {
-      "igdb_id": 152124,
-      "game_name": "Bramble: The Mountain King",
-      "file": "missing/B/152124-bramble-the-mountain-king.json"
     },
     {
       "igdb_id": 168338,
@@ -222017,11 +222007,6 @@
       "file": "missing/D/139157-darkwood.json"
     },
     {
-      "igdb_id": 17032,
-      "game_name": "Darkwood",
-      "file": "missing/D/17032-darkwood.json"
-    },
-    {
       "igdb_id": 118154,
       "game_name": "Darkwood: Special Edition",
       "file": "missing/D/118154-darkwood-special-edition.json"
@@ -298652,11 +298637,6 @@
       "file": "missing/E/170342-erics-ultimate-solitaire.json"
     },
     {
-      "igdb_id": 75240,
-      "game_name": "Erica",
-      "file": "missing/E/75240-erica.json"
-    },
-    {
       "igdb_id": 227248,
       "game_name": "Erich Sann",
       "file": "missing/E/227248-erich-sann.json"
@@ -329057,11 +329037,6 @@
       "file": "missing/F/380633-final-fantasy-ii.json"
     },
     {
-      "igdb_id": 387,
-      "game_name": "Final Fantasy II",
-      "file": "missing/F/387-final-fantasy-ii.json"
-    },
-    {
       "igdb_id": 121717,
       "game_name": "Final Fantasy II: 20th Anniversary Edition",
       "file": "missing/F/121717-final-fantasy-ii-20th-anniversary-edition.json"
@@ -344695,11 +344670,6 @@
       "igdb_id": 134646,
       "game_name": "For the Honor",
       "file": "missing/F/134646-for-the-honor.json"
-    },
-    {
-      "igdb_id": 20331,
-      "game_name": "For the King",
-      "file": "missing/F/20331-for-the-king.json"
     },
     {
       "igdb_id": 374979,
@@ -513372,11 +513342,6 @@
       "file": "missing/L/80927-last-encounter.json"
     },
     {
-      "igdb_id": 95118,
-      "game_name": "Last Epoch",
-      "file": "missing/L/95118-last-epoch.json"
-    },
-    {
       "igdb_id": 286564,
       "game_name": "Last Epoch: \"Golden Guppy\" the Baby Chronowyrm",
       "file": "missing/L/286564-last-epoch-golden-guppy-the-baby-chronowyrm.json"
@@ -540900,11 +540865,6 @@
       "igdb_id": 414810,
       "game_name": "Lovers Die",
       "file": "missing/L/414810-lovers-die.json"
-    },
-    {
-      "igdb_id": 12520,
-      "game_name": "Lovers in a Dangerous Spacetime",
-      "file": "missing/L/12520-lovers-in-a-dangerous-spacetime.json"
     },
     {
       "igdb_id": 241374,
@@ -569650,11 +569610,6 @@
       "igdb_id": 47463,
       "game_name": "Medal of Honor: Tier 1 Edition",
       "file": "missing/M/47463-medal-of-honor-tier-1-edition.json"
-    },
-    {
-      "igdb_id": 1308,
-      "game_name": "Medal of Honor: Underground",
-      "file": "missing/M/1308-medal-of-honor-underground.json"
     },
     {
       "igdb_id": 1306,
@@ -789367,11 +789322,6 @@
       "file": "missing/R/23524-rusty-hearts.json"
     },
     {
-      "igdb_id": 25222,
-      "game_name": "Rusty Lake: Roots",
-      "file": "missing/R/25222-rusty-lake-roots.json"
-    },
-    {
       "igdb_id": 95560,
       "game_name": "Rusty Orb",
       "file": "missing/R/95560-rusty-orb.json"
@@ -792550,11 +792500,6 @@
       "igdb_id": 198113,
       "game_name": "Saints Row",
       "file": "missing/S/198113-saints-row.json"
-    },
-    {
-      "igdb_id": 825,
-      "game_name": "Saints Row",
-      "file": "missing/S/825-saints-row.json"
     },
     {
       "igdb_id": 99971,
@@ -819270,11 +819215,6 @@
       "igdb_id": 231375,
       "game_name": "Shin Megami Tensei III: Nocturne Maniax Chronicle Edition",
       "file": "missing/S/231375-shin-megami-tensei-iii-nocturne-maniax-chronicle-edition.json"
-    },
-    {
-      "igdb_id": 6886,
-      "game_name": "Shin Megami Tensei IV",
-      "file": "missing/S/6886-shin-megami-tensei-iv.json"
     },
     {
       "igdb_id": 138483,
@@ -851247,11 +851187,6 @@
       "file": "missing/S/305283-sonic-frenzy-adventure.json"
     },
     {
-      "igdb_id": 150010,
-      "game_name": "Sonic Frontiers",
-      "file": "missing/S/150010-sonic-frontiers.json"
-    },
-    {
       "igdb_id": 336348,
       "game_name": "Sonic Frontiers 2D",
       "file": "missing/S/336348-sonic-frontiers-2d.json"
@@ -855775,11 +855710,6 @@
       "igdb_id": 5170,
       "game_name": "Soulcalibur Legends",
       "file": "missing/S/5170-soulcalibur-legends.json"
-    },
-    {
-      "igdb_id": 1013,
-      "game_name": "SoulCalibur V",
-      "file": "missing/S/1013-soulcalibur-v.json"
     },
     {
       "igdb_id": 44655,
@@ -956112,11 +956042,6 @@
       "file": "missing/T/389670-the-henchmen.json"
     },
     {
-      "igdb_id": 120710,
-      "game_name": "The Henry Stickmin Collection",
-      "file": "missing/T/120710-the-henry-stickmin-collection.json"
-    },
-    {
       "igdb_id": 190222,
       "game_name": "The Hepatica Spring",
       "file": "missing/T/190222-the-hepatica-spring.json"
@@ -958227,11 +958152,6 @@
       "file": "missing/T/133387-the-investigation-files-of-assistant-arimura.json"
     },
     {
-      "igdb_id": 138906,
-      "game_name": "The Invincible",
-      "file": "missing/T/138906-the-invincible.json"
-    },
-    {
       "igdb_id": 270878,
       "game_name": "The InVincible Iron Ivy: Enter the Pretty, Pretty Princess",
       "file": "missing/T/270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json"
@@ -958515,11 +958435,6 @@
       "igdb_id": 19081,
       "game_name": "The Jackbox Party Pack 2",
       "file": "missing/T/19081-the-jackbox-party-pack-2.json"
-    },
-    {
-      "igdb_id": 19082,
-      "game_name": "The Jackbox Party Pack 3",
-      "file": "missing/T/19082-the-jackbox-party-pack-3.json"
     },
     {
       "igdb_id": 144783,
@@ -1002652,11 +1002567,6 @@
       "file": "missing/T/180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json"
     },
     {
-      "igdb_id": 152061,
-      "game_name": "Tiny Tina's Wonderlands",
-      "file": "missing/T/152061-tiny-tinas-wonderlands.json"
-    },
-    {
       "igdb_id": 169160,
       "game_name": "Tiny Tina's Wonderlands: Chaotic Great Edition",
       "file": "missing/T/169160-tiny-tinas-wonderlands-chaotic-great-edition.json"
@@ -1034602,11 +1034512,6 @@
       "file": "missing/T/1325-turok-battle-of-the-bionosaurs.json"
     },
     {
-      "igdb_id": 1321,
-      "game_name": "Turok: Dinosaur Hunter",
-      "file": "missing/T/1321-turok-dinosaur-hunter.json"
-    },
-    {
       "igdb_id": 146695,
       "game_name": "Turok: Evolution",
       "file": "missing/T/146695-turok-evolution.json"
@@ -1051165,11 +1051070,6 @@
       "igdb_id": 111215,
       "game_name": "V poiskakh Atlantidy",
       "file": "missing/V/111215-v-poiskakh-atlantidy.json"
-    },
-    {
-      "igdb_id": 148228,
-      "game_name": "V Rising",
-      "file": "missing/V/148228-v-rising.json"
     },
     {
       "igdb_id": 226891,
