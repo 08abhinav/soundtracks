@@ -7118,6 +7118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lux DLX 3 - Map Conquest Game | 96895 | [96895-lux-dlx-3-map-conquest-game.json](./96895-lux-dlx-3-map-conquest-game.json) |
 | Lux Ex: Cyber Initiation | 214190 | [214190-lux-ex-cyber-initiation.json](./214190-lux-ex-cyber-initiation.json) |
 | Lux Intacta | 217286 | [217286-lux-intacta.json](./217286-lux-intacta.json) |
+| Lux Licentia | 383204 | [383204-lux-licentia.json](./383204-lux-licentia.json) |
 | Lux mina | 163036 | [163036-lux-mina.json](./163036-lux-mina.json) |
 | Lux Sine | 149030 | [149030-lux-sine.json](./149030-lux-sine.json) |
 | Lux Ski Jump | 151472 | [151472-lux-ski-jump.json](./151472-lux-ski-jump.json) |
