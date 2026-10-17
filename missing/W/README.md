@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where To? | 415434 | [415434-where-to.json](./415434-where-to.json) |
+| Where We Used to Play | 385956 | [385956-where-we-used-to-play.json](./385956-where-we-used-to-play.json) |
 | Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
 | Where Winds Meet: Spring's Bliss | 388906 | [388906-where-winds-meet-springs-bliss.json](./388906-where-winds-meet-springs-bliss.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked 18 | 38826 | [38826-wicked-18.json](./38826-wicked-18.json) |
 | Wicked Angels | 282208 | [282208-wicked-angels.json](./282208-wicked-angels.json) |
 | Wicked Be The Ways of Men | 273551 | [273551-wicked-be-the-ways-of-men.json](./273551-wicked-be-the-ways-of-men.json) |
+| Wicked Boy | 385955 | [385955-wicked-boy.json](./385955-wicked-boy.json) |
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
 | Wicked Cabins | 352393 | [352393-wicked-cabins.json](./352393-wicked-cabins.json) |
 | Wicked Delights | 404822 | [404822-wicked-delights.json](./404822-wicked-delights.json) |
@@ -4179,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingsuit Thrill | 216839 | [216839-wingsuit-thrill.json](./216839-wingsuit-thrill.json) |
 | WingSuit Wiley 2.0 | 251735 | [251735-wingsuit-wiley-2-0.json](./251735-wingsuit-wiley-2-0.json) |
 | Wingsuit: Gudvangen | 123024 | [123024-wingsuit-gudvangen.json](./123024-wingsuit-gudvangen.json) |
+| Wingsuit: Romsdalen | 385959 | [385959-wingsuit-romsdalen.json](./385959-wingsuit-romsdalen.json) |
 | Winguel | 54210 | [54210-winguel.json](./54210-winguel.json) |
 | WingWhiz | 350454 | [350454-wingwhiz.json](./350454-wingwhiz.json) |
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
