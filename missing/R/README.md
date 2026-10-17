@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reus 2 | 250829 | [250829-reus-2.json](./250829-reus-2.json) |
 | Reus 2: Everglades | 355144 | [355144-reus-2-everglades.json](./355144-reus-2-everglades.json) |
 | Reus 2: Grasslands | 401682 | [401682-reus-2-grasslands.json](./401682-reus-2-grasslands.json) |
+| Reus 2: Ice Age | 363682 | [363682-reus-2-ice-age.json](./363682-reus-2-ice-age.json) |
 | Reus 2: Supporter Pack | 312031 | [312031-reus-2-supporter-pack.json](./312031-reus-2-supporter-pack.json) |
 | Réussir: Code de la Route - Bonus ASSR 1 - ASSR 2: Permis AM - French Highway Code | 298157 | [298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json](./298157-reussir-code-de-la-route-bonus-assr-1-assr-2-permis-am-french-highway-code.json) |
 | Réussir: Code de la Route - Nouvelle édition | 144206 | [144206-reussir-code-de-la-route-nouvelle-edition.json](./144206-reussir-code-de-la-route-nouvelle-edition.json) |
