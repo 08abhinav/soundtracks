@@ -1739,11 +1739,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Legacy: The Jade Cipher - Console Edition | 132851 | [132851-immortal-legacy-the-jade-cipher-console-edition.json](./132851-immortal-legacy-the-jade-cipher-console-edition.json) |
 | Immortal Life | 151738 | [151738-immortal-life.json](./151738-immortal-life.json) |
 | Immortal Love: Bitter Awakening | 187951 | [187951-immortal-love-bitter-awakening.json](./187951-immortal-love-bitter-awakening.json) |
+| Immortal Love: Black Lotus | 397121 | [397121-immortal-love-black-lotus.json](./397121-immortal-love-black-lotus.json) |
+| Immortal Love: Black Lotus - Collector's Edition | 397122 | [397122-immortal-love-black-lotus-collectors-edition.json](./397122-immortal-love-black-lotus-collectors-edition.json) |
+| Immortal Love: Blind Desire - Collector's Edition | 397120 | [397120-immortal-love-blind-desire-collectors-edition.json](./397120-immortal-love-blind-desire-collectors-edition.json) |
 | Immortal Love: Kiss of the Night | 120796 | [120796-immortal-love-kiss-of-the-night.json](./120796-immortal-love-kiss-of-the-night.json) |
+| Immortal Love: Kiss of the Night - Collector's Edition | 397123 | [397123-immortal-love-kiss-of-the-night-collectors-edition.json](./397123-immortal-love-kiss-of-the-night-collectors-edition.json) |
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Letter from the Past - Collector's Edition | 88809 | [88809-immortal-love-letter-from-the-past-collectors-edition.json](./88809-immortal-love-letter-from-the-past-collectors-edition.json) |
+| Immortal Love: Polar Lights | 397125 | [397125-immortal-love-polar-lights.json](./397125-immortal-love-polar-lights.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
+| Immortal Love: Sparkle of Talent - Collector's Edition | 397126 | [397126-immortal-love-sparkle-of-talent-collectors-edition.json](./397126-immortal-love-sparkle-of-talent-collectors-edition.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
+| Immortal Love: The Price of a Miracle | 397118 | [397118-immortal-love-the-price-of-a-miracle.json](./397118-immortal-love-the-price-of-a-miracle.json) |
+| Immortal Love: The Price of a Miracle - Collector's Edition | 397119 | [397119-immortal-love-the-price-of-a-miracle-collectors-edition.json](./397119-immortal-love-the-price-of-a-miracle-collectors-edition.json) |
 | Immortal Love: True Treasure - Collector's Edition | 192778 | [192778-immortal-love-true-treasure-collectors-edition.json](./192778-immortal-love-true-treasure-collectors-edition.json) |
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
