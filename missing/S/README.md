@@ -7126,12 +7126,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
 | Sid Meier's Civilization VII: Himiko (High Shaman) Persona | 360539 | [360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json](./360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json) |
 | Sid Meier's Civilization VII: Iceland Pack | 376794 | [376794-sid-meiers-civilization-vii-iceland-pack.json](./376794-sid-meiers-civilization-vii-iceland-pack.json) |
+| Sid Meier's Civilization VII: Lakshmibai Pack | 371026 | [371026-sid-meiers-civilization-vii-lakshmibai-pack.json](./371026-sid-meiers-civilization-vii-lakshmibai-pack.json) |
 | Sid Meier's Civilization VII: Nepal Pack | 360532 | [360532-sid-meiers-civilization-vii-nepal-pack.json](./360532-sid-meiers-civilization-vii-nepal-pack.json) |
 | Sid Meier's Civilization VII: Ottomans Pack | 376795 | [376795-sid-meiers-civilization-vii-ottomans-pack.json](./376795-sid-meiers-civilization-vii-ottomans-pack.json) |
+| Sid Meier's Civilization VII: Qajar Pack | 371025 | [371025-sid-meiers-civilization-vii-qajar-pack.json](./371025-sid-meiers-civilization-vii-qajar-pack.json) |
 | Sid Meier's Civilization VII: Republic of Pirates Pack | 376176 | [376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json](./376176-sid-meiers-civilization-vii-republic-of-pirates-pack.json) |
 | Sid Meier's Civilization VII: Right to Rule Collection | 360541 | [360541-sid-meiers-civilization-vii-right-to-rule-collection.json](./360541-sid-meiers-civilization-vii-right-to-rule-collection.json) |
 | Sid Meier's Civilization VII: Sayyida al Hurra Pack | 376796 | [376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json](./376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
+| Sid Meier's Civilization VII: Silla Pack | 371027 | [371027-sid-meiers-civilization-vii-silla-pack.json](./371027-sid-meiers-civilization-vii-silla-pack.json) |
 | Sid Meier's Civilization VII: Simón Bolívar Pack | 360527 | [360527-sid-meiers-civilization-vii-simon-bolivar-pack.json](./360527-sid-meiers-civilization-vii-simon-bolivar-pack.json) |
 | Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
 | Sid Meier's Civilization VII: Tides of Power Collection | 376099 | [376099-sid-meiers-civilization-vii-tides-of-power-collection.json](./376099-sid-meiers-civilization-vii-tides-of-power-collection.json) |
@@ -8665,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skies of Blue: Remake | 204220 | [204220-skies-of-blue-remake.json](./204220-skies-of-blue-remake.json) |
 | Skies of Chaos | 111844 | [111844-skies-of-chaos.json](./111844-skies-of-chaos.json) |
 | Skies of Glory | 62446 | [62446-skies-of-glory.json](./62446-skies-of-glory.json) |
+| Skies Scrapper | 371030 | [371030-skies-scrapper.json](./371030-skies-scrapper.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing Race | 175245 | [175245-skiing-race.json](./175245-skiing-race.json) |
@@ -8989,6 +8993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyborg: Into the Vortex | 122940 | [122940-skyborg-into-the-vortex.json](./122940-skyborg-into-the-vortex.json) |
 | Skyborn | 9423 | [9423-skyborn.json](./9423-skyborn.json) |
 | Skyborn: IronWings | 361253 | [361253-skyborn-ironwings.json](./361253-skyborn-ironwings.json) |
+| Skyborne Chronicles | 371007 | [371007-skyborne-chronicles.json](./371007-skyborne-chronicles.json) |
 | Skyborne Terrors | 383711 | [383711-skyborne-terrors.json](./383711-skyborne-terrors.json) |
 | Skybound | 381387 | [381387-skybound.json](./381387-skybound.json) |
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
@@ -18089,6 +18094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars in Shadow: Legacies | 124781 | [124781-stars-in-shadow-legacies.json](./124781-stars-in-shadow-legacies.json) |
 | Stars Link | 234511 | [234511-stars-link.json](./234511-stars-link.json) |
 | Stars of Icarus | 348306 | [348306-stars-of-icarus.json](./348306-stars-of-icarus.json) |
+| Stars of Prey VR | 370990 | [370990-stars-of-prey-vr.json](./370990-stars-of-prey-vr.json) |
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
