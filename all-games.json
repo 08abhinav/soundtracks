@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:22:38.812Z",
-  "total_soundtracks": 1990,
+  "generated_at": "2026-10-17T11:22:45.131Z",
+  "total_soundtracks": 1991,
   "games": [
     {
       "igdb_id": 7522,
@@ -23907,6 +23907,20 @@
         {
           "album_name": "Yooka-Laylee and the Impossible Lair (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5RcPDRFhmsAJV3it1klETs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 21020,
+      "game_name": "Ys I & II Chronicles",
+      "game_url": "https://ostdb.net/games/ys-i-and-ii-chronicles",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737976445935151c72a174076b",
+      "albums": [
+        {
+          "album_name": "Ys I&II Chronicles Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/22jEkrUnflpu6FZ2bz46VG",
           "apple_music_url": "",
           "album_link_url": ""
         }
