@@ -5630,6 +5630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
 | Lost Ember: Rekindled Edition | 314439 | [314439-lost-ember-rekindled-edition.json](./314439-lost-ember-rekindled-edition.json) |
 | Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
+| Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Episodes Alone | 388365 | [388365-lost-episodes-alone.json](./388365-lost-episodes-alone.json) |
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
