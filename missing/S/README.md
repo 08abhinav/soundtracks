@@ -9865,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
+| Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
@@ -18564,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steelborn: Tank Idle RPG | 418517 | [418517-steelborn-tank-idle-rpg.json](./418517-steelborn-tank-idle-rpg.json) |
 | Steelbreakers | 184842 | [184842-steelbreakers.json](./184842-steelbreakers.json) |
 | SteelFront | 350558 | [350558-steelfront.json](./350558-steelfront.json) |
+| SteelGuard | 382503 | [382503-steelguard.json](./382503-steelguard.json) |
 | SteelLife | 113541 | [113541-steellife.json](./113541-steellife.json) |
 | Steelpaw | 124141 | [124141-steelpaw.json](./124141-steelpaw.json) |
 | SteelPinion | 192703 | [192703-steelpinion.json](./192703-steelpinion.json) |
@@ -20603,6 +20605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Substream | 110276 | [110276-substream.json](./110276-substream.json) |
 | Substructure | 380408 | [380408-substructure.json](./380408-substructure.json) |
 | Subsuelo | 272035 | [272035-subsuelo.json](./272035-subsuelo.json) |
+| Subsumed | 382496 | [382496-subsumed.json](./382496-subsumed.json) |
 | Subsurface | 281343 | [281343-subsurface.json](./281343-subsurface.json) |
 | Subsurface | 411732 | [411732-subsurface.json](./411732-subsurface.json) |
 | Subtension | 239670 | [239670-subtension.json](./239670-subtension.json) |
