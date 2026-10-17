@@ -13774,6 +13774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
 | Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
 | Curb Hound | 414100 | [414100-curb-hound.json](./414100-curb-hound.json) |
+| Curdle | 382578 | [382578-curdle.json](./382578-curdle.json) |
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
