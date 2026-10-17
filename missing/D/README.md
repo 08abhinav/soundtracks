@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
+| Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
@@ -1127,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Heart Mansion | 156994 | [156994-dark-heart-mansion.json](./156994-dark-heart-mansion.json) |
 | Dark Hero Dash | 214105 | [214105-dark-hero-dash.json](./214105-dark-hero-dash.json) |
 | Dark Hill Museum of Death | 99248 | [99248-dark-hill-museum-of-death.json](./99248-dark-hill-museum-of-death.json) |
+| Dark History | 375504 | [375504-dark-history.json](./375504-dark-history.json) |
 | Dark Honor | 403652 | [403652-dark-honor.json](./403652-dark-honor.json) |
 | Dark Hope | 116785 | [116785-dark-hope.json](./116785-dark-hope.json) |
 | Dark Horizon | 19639 | [19639-dark-horizon.json](./19639-dark-horizon.json) |
@@ -1596,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwing Duck | 210309 | [210309-darkwing-duck.json](./210309-darkwing-duck.json) |
 | Darkwing Duck R | 363974 | [363974-darkwing-duck-r.json](./363974-darkwing-duck-r.json) |
 | Darkwood | 139157 | [139157-darkwood.json](./139157-darkwood.json) |
+| Darkwood II | 375514 | [375514-darkwood-ii.json](./375514-darkwood-ii.json) |
 | Darkwood: Special Edition | 118154 | [118154-darkwood-special-edition.json](./118154-darkwood-special-edition.json) |
 | Darkworld | 273002 | [273002-darkworld.json](./273002-darkworld.json) |
 | Darkwurlde | 13572 | [13572-darkwurlde.json](./13572-darkwurlde.json) |
@@ -3521,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
+| Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
@@ -8751,6 +8755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
 | Don't Sleep | 343400 | [343400-dont-sleep.json](./343400-dont-sleep.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
+| Don't Sleep: Hard Mode | 375539 | [375539-dont-sleep-hard-mode.json](./375539-dont-sleep-hard-mode.json) |
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
@@ -12903,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
+| Dungeon Tourists | 375542 | [375542-dungeon-tourists.json](./375542-dungeon-tourists.json) |
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
 | Dungeon Trader | 183832 | [183832-dungeon-trader.json](./183832-dungeon-trader.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
