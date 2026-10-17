@@ -2208,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
 | Emoji Solitaire | 89831 | [89831-emoji-solitaire.json](./89831-emoji-solitaire.json) |
 | Emoji Sport | 274539 | [274539-emoji-sport.json](./274539-emoji-sport.json) |
+| Emoji Squad | 389514 | [389514-emoji-squad.json](./389514-emoji-squad.json) |
 | Emoji Survival | 294264 | [294264-emoji-survival.json](./294264-emoji-survival.json) |
 | Emoji TD | 368671 | [368671-emoji-td.json](./368671-emoji-td.json) |
 | Emoji Wars | 397649 | [397649-emoji-wars.json](./397649-emoji-wars.json) |
@@ -4298,6 +4299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
 | Eternal Zone Online | 393761 | [393761-eternal-zone-online.json](./393761-eternal-zone-online.json) |
+| Eternally | 389492 | [389492-eternally.json](./389492-eternally.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
 | Eternals' Path | 249999 | [249999-eternals-path.json](./249999-eternals-path.json) |
