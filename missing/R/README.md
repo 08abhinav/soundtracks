@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rei: A Girl With Wings | 291393 | [291393-rei-a-girl-with-wings.json](./291393-rei-a-girl-with-wings.json) |
 | Reigen Doushi | 215135 | [215135-reigen-doushi.json](./215135-reigen-doushi.json) |
 | Reigen Doushi: Kyonshii Horror Daisensou | 385786 | [385786-reigen-doushi-kyonshii-horror-daisensou.json](./385786-reigen-doushi-kyonshii-horror-daisensou.json) |
+| Reign | 390027 | [390027-reign.json](./390027-reign.json) |
 | Reign and Ruin | 211662 | [211662-reign-and-ruin.json](./211662-reign-and-ruin.json) |
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
@@ -6984,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
+| Rogualik | 390024 | [390024-rogualik.json](./390024-rogualik.json) |
 | Rogue | 126478 | [126478-rogue.json](./126478-rogue.json) |
 | Rogue | 183032 | [183032-rogue.json](./183032-rogue.json) |
 | Rogue | 2872 | [2872-rogue.json](./2872-rogue.json) |
@@ -7575,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romeo Must Live | 144020 | [144020-romeo-must-live.json](./144020-romeo-must-live.json) |
 | Romeo vs. Juliet: All Series Pack | 59447 | [59447-romeo-vs-juliet-all-series-pack.json](./59447-romeo-vs-juliet-all-series-pack.json) |
 | Romeow & Julicat | 141109 | [141109-romeow-and-julicat.json](./141109-romeow-and-julicat.json) |
+| Romeow: Home Sweet Home | 390060 | [390060-romeow-home-sweet-home.json](./390060-romeow-home-sweet-home.json) |
 | Romero's Aftermath | 26714 | [26714-romeros-aftermath.json](./26714-romeros-aftermath.json) |
 | Romestead | 336150 | [336150-romestead.json](./336150-romestead.json) |
 | Romgadr | 259291 | [259291-romgadr.json](./259291-romgadr.json) |
