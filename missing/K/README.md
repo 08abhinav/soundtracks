@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kattish | 218726 | [218726-kattish.json](./218726-kattish.json) |
 | Katto | 102966 | [102966-katto.json](./102966-katto.json) |
 | Katto: Rising Tides | 315224 | [315224-katto-rising-tides.json](./315224-katto-rising-tides.json) |
+| Kattobase! Pawapuro-kun | 385975 | [385975-kattobase-pawapuro-kun.json](./385975-kattobase-pawapuro-kun.json) |
 | Kattobi Tune | 214618 | [214618-kattobi-tune.json](./214618-kattobi-tune.json) |
 | Kattobi! Takuhai Kun | 37682 | [37682-kattobi-takuhai-kun.json](./37682-kattobi-takuhai-kun.json) |
 | Kattobi! Warabe Ji | 63296 | [63296-kattobi-warabe-ji.json](./63296-kattobi-warabe-ji.json) |
@@ -1126,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepy Uppy | 229353 | [229353-keepy-uppy.json](./229353-keepy-uppy.json) |
 | Keezeh: The Spector of Time | 160268 | [160268-keezeh-the-spector-of-time.json](./160268-keezeh-the-spector-of-time.json) |
 | Kef-Li Learns Hebrew | 73504 | [73504-kef-li-learns-hebrew.json](./73504-kef-li-learns-hebrew.json) |
+| Keg & Quest | 385951 | [385951-keg-and-quest.json](./385951-keg-and-quest.json) |
 | Keg Bearer | 200127 | [200127-keg-bearer.json](./200127-keg-bearer.json) |
 | Keg War | 183444 | [183444-keg-war.json](./183444-keg-war.json) |
 | Keg Wars | 104249 | [104249-keg-wars.json](./104249-keg-wars.json) |
