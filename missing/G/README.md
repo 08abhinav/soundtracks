@@ -4041,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Keeper | 23558 | [23558-goblin-keeper.json](./23558-goblin-keeper.json) |
 | Goblin Museum | 404346 | [404346-goblin-museum.json](./404346-goblin-museum.json) |
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
+| Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
@@ -7678,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
+| Gunja Tteokbokki | 395730 | [395730-gunja-tteokbokki.json](./395730-gunja-tteokbokki.json) |
 | Gunjack | 18363 | [18363-gunjack.json](./18363-gunjack.json) |
 | Gunjack Next (working title) | 100070 | [100070-gunjack-next-working-title.json](./100070-gunjack-next-working-title.json) |
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
