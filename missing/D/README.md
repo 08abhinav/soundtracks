@@ -4955,6 +4955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
+| DescTop | 369331 | [369331-desctop.json](./369331-desctop.json) |
 | Desdemona | 150545 | [150545-desdemona.json](./150545-desdemona.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
