@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Daechon Beach | 362181 | [362181-korean-drone-flying-tour-daechon-beach.json](./362181-korean-drone-flying-tour-daechon-beach.json) |
 | Korean Drone Flying Tour Daedunsan | 386371 | [386371-korean-drone-flying-tour-daedunsan.json](./386371-korean-drone-flying-tour-daedunsan.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
+| Korean Drone Flying Tour Geumsan-gun | 376222 | [376222-korean-drone-flying-tour-geumsan-gun.json](./376222-korean-drone-flying-tour-geumsan-gun.json) |
 | Korean Drone Flying Tour Hangang Park | 351220 | [351220-korean-drone-flying-tour-hangang-park.json](./351220-korean-drone-flying-tour-hangang-park.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Tomb of Prince Imyeong | 351222 | [351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json](./351222-korean-drone-flying-tour-tomb-of-prince-imyeong.json) |
 | Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
+| Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
