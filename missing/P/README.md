@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
 | Phantom Kiosk | 345708 | [345708-phantom-kiosk.json](./345708-phantom-kiosk.json) |
 | Phantom Legacy | 124527 | [124527-phantom-legacy.json](./124527-phantom-legacy.json) |
+| Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
 | Phantom of the Grove | 337306 | [337306-phantom-of-the-grove.json](./337306-phantom-of-the-grove.json) |
