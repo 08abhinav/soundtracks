@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinstrife | 277774 | [277774-kinstrife.json](./277774-kinstrife.json) |
 | Kintsugi | 135682 | [135682-kintsugi.json](./135682-kintsugi.json) |
 | Kintsugi | 396400 | [396400-kintsugi.json](./396400-kintsugi.json) |
+| Kintsugi | 398303 | [398303-kintsugi.json](./398303-kintsugi.json) |
 | Kintsugi Moon | 423243 | [423243-kintsugi-moon.json](./423243-kintsugi-moon.json) |
 | Kintsugi: A Journey Through the Broken Pieces | 339927 | [339927-kintsugi-a-journey-through-the-broken-pieces.json](./339927-kintsugi-a-journey-through-the-broken-pieces.json) |
 | Kintsukuroi | 57744 | [57744-kintsukuroi.json](./57744-kintsukuroi.json) |
