@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ushio to Tora: Shinen no Daiyou | 48554 | [48554-ushio-to-tora-shinen-no-daiyou.json](./48554-ushio-to-tora-shinen-no-daiyou.json) |
 | Ushiro | 92685 | [92685-ushiro.json](./92685-ushiro.json) |
 | Ushuaïa, Le Jeu: À la Poursuite des Biotrafiquants | 298409 | [298409-ushuaia-le-jeu-a-la-poursuite-des-biotrafiquants.json](./298409-ushuaia-le-jeu-a-la-poursuite-des-biotrafiquants.json) |
+| Uso Series Ninki Touhyou Kinen SS | 379639 | [379639-uso-series-ninki-touhyou-kinen-ss.json](./379639-uso-series-ninki-touhyou-kinen-ss.json) |
 | UsoNatsu: The Summer Romance Bloomed From a Lie | 234340 | [234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json](./234340-usonatsu-the-summer-romance-bloomed-from-a-lie.json) |
 | Usotsuki Game | 83528 | [83528-usotsuki-game.json](./83528-usotsuki-game.json) |
 | Usotsuki Shangurira | 132090 | [132090-usotsuki-shangurira.json](./132090-usotsuki-shangurira.json) |
