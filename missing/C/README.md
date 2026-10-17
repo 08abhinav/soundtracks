@@ -205,7 +205,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
 | Caesar II | 7509 | [7509-caesar-ii.json](./7509-caesar-ii.json) |
-| Caesar IV | 7508 | [7508-caesar-iv.json](./7508-caesar-iv.json) |
 | Caesar Palace Slots | 200504 | [200504-caesar-palace-slots.json](./200504-caesar-palace-slots.json) |
 | Caesar: Gold Edition | 129480 | [129480-caesar-gold-edition.json](./129480-caesar-gold-edition.json) |
 | Caesar's Palace VIP Series: BlackJack | 206699 | [206699-caesars-palace-vip-series-blackjack.json](./206699-caesars-palace-vip-series-blackjack.json) |
@@ -9094,7 +9093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes 2: The Western Front Armies - US Forces | 36374 | [36374-company-of-heroes-2-the-western-front-armies-us-forces.json](./36374-company-of-heroes-2-the-western-front-armies-us-forces.json) |
 | Company of Heroes 2: US Forces Commander - Rifle Company | 168290 | [168290-company-of-heroes-2-us-forces-commander-rifle-company.json](./168290-company-of-heroes-2-us-forces-commander-rifle-company.json) |
 | Company of Heroes 2: Victory at Stalingrad | 52834 | [52834-company-of-heroes-2-victory-at-stalingrad.json](./52834-company-of-heroes-2-victory-at-stalingrad.json) |
-| Company of Heroes 3 | 156150 | [156150-company-of-heroes-3.json](./156150-company-of-heroes-3.json) |
 | Company of Heroes 3: Console Edition | 228537 | [228537-company-of-heroes-3-console-edition.json](./228537-company-of-heroes-3-console-edition.json) |
 | Company of Heroes 3: Console Launch Edition | 247187 | [247187-company-of-heroes-3-console-launch-edition.json](./247187-company-of-heroes-3-console-launch-edition.json) |
 | Company of Heroes 3: Dare & Destroy | 398517 | [398517-company-of-heroes-3-dare-and-destroy.json](./398517-company-of-heroes-3-dare-and-destroy.json) |
