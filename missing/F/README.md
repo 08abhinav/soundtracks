@@ -5339,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
 | Flee the Fallen | 370307 | [370307-flee-the-fallen.json](./370307-flee-the-fallen.json) |
+| Flee, My Elven Ninja! 3D | 404698 | [404698-flee-my-elven-ninja-3d.json](./404698-flee-my-elven-ninja-3d.json) |
 | Fleece Lightning | 175392 | [175392-fleece-lightning.json](./175392-fleece-lightning.json) |
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
@@ -7285,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
+| Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
 | Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
