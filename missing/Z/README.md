@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Family Pack | 100263 | [100263-zeebo-family-pack.json](./100263-zeebo-family-pack.json) |
 | Zeebo Sports Peteca | 91902 | [91902-zeebo-sports-peteca.json](./91902-zeebo-sports-peteca.json) |
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
+| Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
 | Zefira | 119000 | [119000-zefira.json](./119000-zefira.json) |
 | ZeGame | 19346 | [19346-zegame.json](./19346-zegame.json) |
