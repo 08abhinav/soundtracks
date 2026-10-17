@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo! Unmasked | 210729 | [210729-scooby-doo-unmasked.json](./210729-scooby-doo-unmasked.json) |
 | Scooby-Doo!: Big Air | 222811 | [222811-scooby-doo-big-air.json](./222811-scooby-doo-big-air.json) |
 | Scooby-Doo!: Catch Shaggy | 245412 | [245412-scooby-doo-catch-shaggy.json](./245412-scooby-doo-catch-shaggy.json) |
+| Scooby-Doo!: Creepy Run | 401284 | [401284-scooby-doo-creepy-run.json](./401284-scooby-doo-creepy-run.json) |
 | Scooby-Doo!: Mistery Mayhem | 44634 | [44634-scooby-doo-mistery-mayhem.json](./44634-scooby-doo-mistery-mayhem.json) |
 | Scooby-Doo!: Mystery Mayhem | 49225 | [49225-scooby-doo-mystery-mayhem.json](./49225-scooby-doo-mystery-mayhem.json) |
 | Scooby-Doo!: Pirate Ghost of the Barbary Coast | 137540 | [137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json](./137540-scooby-doo-pirate-ghost-of-the-barbary-coast.json) |
@@ -4305,6 +4306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seventh Lair | 194970 | [194970-seventh-lair.json](./194970-seventh-lair.json) |
 | Seventh Rebirth | 25103 | [25103-seventh-rebirth.json](./25103-seventh-rebirth.json) |
 | Seventh Song | 309510 | [309510-seventh-song.json](./309510-seventh-song.json) |
+| Sever | 401313 | [401313-sever.json](./401313-sever.json) |
 | Sever the Wicked! | 363470 | [363470-sever-the-wicked.json](./363470-sever-the-wicked.json) |
 | Severance | 196235 | [196235-severance.json](./196235-severance.json) |
 | Severance | 327843 | [327843-severance.json](./327843-severance.json) |
@@ -12335,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic QWERTY | 266511 | [266511-sonic-qwerty.json](./266511-sonic-qwerty.json) |
 | Sonic R | 202757 | [202757-sonic-r.json](./202757-sonic-r.json) |
 | Sonic R Characters: Metal Knuckles & Tails Doll | 242033 | [242033-sonic-r-characters-metal-knuckles-and-tails-doll.json](./242033-sonic-r-characters-metal-knuckles-and-tails-doll.json) |
+| Sonic R Mania | 401296 | [401296-sonic-r-mania.json](./401296-sonic-r-mania.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
 | Sonic Racing CrossWorlds: Season Pass 2 | 422509 | [422509-sonic-racing-crossworlds-season-pass-2.json](./422509-sonic-racing-crossworlds-season-pass-2.json) |
@@ -13757,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Extreme Z | 79611 | [79611-space-invaders-extreme-z.json](./79611-space-invaders-extreme-z.json) |
 | Space Invaders Forever | 139864 | [139864-space-invaders-forever.json](./139864-space-invaders-forever.json) |
 | Space Invaders Get Even | 21789 | [21789-space-invaders-get-even.json](./21789-space-invaders-get-even.json) |
+| Space Invaders Gigamax | 401283 | [401283-space-invaders-gigamax.json](./401283-space-invaders-gigamax.json) |
 | Space Invaders II | 46839 | [46839-space-invaders-ii.json](./46839-space-invaders-ii.json) |
 | Space Invaders Micro Player | 229786 | [229786-space-invaders-micro-player.json](./229786-space-invaders-micro-player.json) |
 | Space Invaders Mini Electronic | 198898 | [198898-space-invaders-mini-electronic.json](./198898-space-invaders-mini-electronic.json) |
@@ -13934,6 +13938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raft | 142117 | [142117-space-raft.json](./142117-space-raft.json) |
 | Space Rage | 105947 | [105947-space-rage.json](./105947-space-rage.json) |
 | Space Raid | 46894 | [46894-space-raid.json](./46894-space-raid.json) |
+| Space Raider | 401271 | [401271-space-raider.json](./401271-space-raider.json) |
 | Space Raiders | 295938 | [295938-space-raiders.json](./295938-space-raiders.json) |
 | Space Raiders | 320906 | [320906-space-raiders.json](./320906-space-raiders.json) |
 | Space Raiders | 4159 | [4159-space-raiders.json](./4159-space-raiders.json) |
@@ -20312,6 +20317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SU the Son of Gaia | 211795 | [211795-su-the-son-of-gaia.json](./211795-su-the-son-of-gaia.json) |
 | Su-27 Flanker | 22621 | [22621-su-27-flanker.json](./22621-su-27-flanker.json) |
 | Su-27 Flanker Mission Disk | 74051 | [74051-su-27-flanker-mission-disk.json](./74051-su-27-flanker-mission-disk.json) |
+| SU-93 Survivor | 401301 | [401301-su-93-survivor.json](./401301-su-93-survivor.json) |
 | Su: Unlocking the 4th Dimension | 297903 | [297903-su-unlocking-the-4th-dimension.json](./297903-su-unlocking-the-4th-dimension.json) |
 | SU42: Hired Gun | 345669 | [345669-su42-hired-gun.json](./345669-su42-hired-gun.json) |
 | Su8way | 408704 | [408704-su8way.json](./408704-su8way.json) |
