@@ -3982,6 +3982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | Nitrous Fury | 385085 | [385085-nitrous-fury.json](./385085-nitrous-fury.json) |
+| NitroVerse | 414108 | [414108-nitroverse.json](./414108-nitroverse.json) |
 | NitroZ | 262589 | [262589-nitroz.json](./262589-nitroz.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
 | Nium | 217817 | [217817-nium.json](./217817-nium.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
 | Noctemis | 85314 | [85314-noctemis.json](./85314-noctemis.json) |
+| Nocthra | 414091 | [414091-nocthra.json](./414091-nocthra.json) |
 | Noctilucent: Before Dawn | 350394 | [350394-noctilucent-before-dawn.json](./350394-noctilucent-before-dawn.json) |
 | Noctiria | 409759 | [409759-noctiria.json](./409759-noctiria.json) |
 | Noctropolis | 12327 | [12327-noctropolis.json](./12327-noctropolis.json) |
