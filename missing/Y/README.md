@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're a Dad | 318109 | [318109-youre-a-dad.json](./318109-youre-a-dad.json) |
 | You're A Dick | 27705 | [27705-youre-a-dick.json](./27705-youre-a-dick.json) |
+| You’re a Scalper, Aren’t You? | 403531 | [403531-you-re-a-scalper-aren-t-you.json](./403531-you-re-a-scalper-aren-t-you.json) |
 | You're Alive, Phil | 413919 | [413919-youre-alive-phil.json](./413919-youre-alive-phil.json) |
 | You're Boned | 287672 | [287672-youre-boned.json](./287672-youre-boned.json) |
 | You're Doomed | 112154 | [112154-youre-doomed.json](./112154-youre-doomed.json) |
