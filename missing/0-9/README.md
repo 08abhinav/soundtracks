@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
+| 100 Rooms | 376837 | [376837-100-rooms.json](./376837-100-rooms.json) |
 | 100 Rounds | 270067 | [270067-100-rounds.json](./270067-100-rounds.json) |
 | 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Minute Climb | 245786 | [245786-5-minute-climb.json](./245786-5-minute-climb.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
+| 5 Minutes | 376839 | [376839-5-minutes.json](./376839-5-minutes.json) |
 | 5 Minutes Rage | 34098 | [34098-5-minutes-rage.json](./34098-5-minutes-rage.json) |
 | 5 Minutes to Kill | 315818 | [315818-5-minutes-to-kill.json](./315818-5-minutes-to-kill.json) |
 | 5 Minutes until Goodbye | 300970 | [300970-5-minutes-until-goodbye.json](./300970-5-minutes-until-goodbye.json) |
