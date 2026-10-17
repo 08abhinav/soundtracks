@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: Aim at the Victory! | 49851 | [49851-tennis-no-ouji-sama-aim-at-the-victory.json](./49851-tennis-no-ouji-sama-aim-at-the-victory.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Genius Boys Academy | 49850 | [49850-tennis-no-ouji-sama-genius-boys-academy.json](./49850-tennis-no-ouji-sama-genius-boys-academy.json) |
+| Tennis no Ouji-sama: Rush & Dream! | 402412 | [402412-tennis-no-ouji-sama-rush-and-dream.json](./402412-tennis-no-ouji-sama-rush-and-dream.json) |
 | Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
 | Tennis no Ouji-sama: Smash Hit! | 405516 | [405516-tennis-no-ouji-sama-smash-hit.json](./405516-tennis-no-ouji-sama-smash-hit.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
@@ -10200,6 +10201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
 | The Occluder | 110749 | [110749-the-occluder.json](./110749-the-occluder.json) |
 | The Occult Detective | 345060 | [345060-the-occult-detective.json](./345060-the-occult-detective.json) |
+| The Occultist: Deluxe Edition | 402328 | [402328-the-occultist-deluxe-edition.json](./402328-the-occultist-deluxe-edition.json) |
 | The Occupant | 74432 | [74432-the-occupant.json](./74432-the-occupant.json) |
 | The Occupied Base | 271309 | [271309-the-occupied-base.json](./271309-the-occupied-base.json) |
 | The Ocean | 143678 | [143678-the-ocean.json](./143678-the-ocean.json) |
@@ -13899,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There | 79774 | [79774-there.json](./79774-there.json) |
 | There a no Armadillos in this game | 129212 | [129212-there-a-no-armadillos-in-this-game.json](./129212-there-a-no-armadillos-in-this-game.json) |
 | There Are Ghosts In These Stalls | 177292 | [177292-there-are-ghosts-in-these-stalls.json](./177292-there-are-ghosts-in-these-stalls.json) |
+| There Are Millions of Goblins | 402248 | [402248-there-are-millions-of-goblins.json](./402248-there-are-millions-of-goblins.json) |
 | There Are No Ghosts at the Grand | 347841 | [347841-there-are-no-ghosts-at-the-grand.json](./347841-there-are-no-ghosts-at-the-grand.json) |
 | There Are People In Your Walls | 373644 | [373644-there-are-people-in-your-walls.json](./373644-there-are-people-in-your-walls.json) |
 | There Aren't Really Words... | 135852 | [135852-there-arent-really-words.json](./135852-there-arent-really-words.json) |
@@ -18160,7 +18163,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
+| Top Gear: Caravan Crush | 402325 | [402325-top-gear-caravan-crush.json](./402325-top-gear-caravan-crush.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
+| Top Gear: Donut Dash | 402326 | [402326-top-gear-donut-dash.json](./402326-top-gear-donut-dash.json) |
+| Top Gear: Rocket Robin | 402331 | [402331-top-gear-rocket-robin.json](./402331-top-gear-rocket-robin.json) |
 | Top Gear: Stunt School SSR | 257363 | [257363-top-gear-stunt-school-ssr.json](./257363-top-gear-stunt-school-ssr.json) |
 | Top Gnome | 258366 | [258366-top-gnome.json](./258366-top-gnome.json) |
 | Top God: Idle Heroes | 303038 | [303038-top-god-idle-heroes.json](./303038-top-god-idle-heroes.json) |
@@ -18416,6 +18422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
+| Toss | 402223 | [402223-toss.json](./402223-toss.json) |
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
@@ -22687,6 +22694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukuyomi: The Divine Hunter | 342812 | [342812-tsukuyomi-the-divine-hunter.json](./342812-tsukuyomi-the-divine-hunter.json) |
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumamigui 2 | 59219 | [59219-tsumamigui-2.json](./59219-tsumamigui-2.json) |
+| Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
