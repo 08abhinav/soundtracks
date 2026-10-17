@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting There | 305926 | [305926-getting-there.json](./305926-getting-there.json) |
 | Getting to the Other Side!!! | 243565 | [243565-getting-to-the-other-side.json](./243565-getting-to-the-other-side.json) |
 | Getting Touchy with Albertine | 400933 | [400933-getting-touchy-with-albertine.json](./400933-getting-touchy-with-albertine.json) |
+| Getting Vivisected! (ASMR) | 401254 | [401254-getting-vivisected-asmr.json](./401254-getting-vivisected-asmr.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Ninja | 289447 | [289447-ghost-ninja.json](./289447-ghost-ninja.json) |
+| Ghost Ninja: Zombie Beatdown | 401311 | [401311-ghost-ninja-zombie-beatdown.json](./401311-ghost-ninja-zombie-beatdown.json) |
 | Ghost Observation | 395047 | [395047-ghost-observation.json](./395047-ghost-observation.json) |
 | Ghost of a Tale | 7684 | [7684-ghost-of-a-tale.json](./7684-ghost-of-a-tale.json) |
 | Ghost of Dragon | 133143 | [133143-ghost-of-dragon.json](./133143-ghost-of-dragon.json) |
@@ -5161,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotcha! | 27535 | [27535-gotcha.json](./27535-gotcha.json) |
 | Gotcha! The Sport! | 5848 | [5848-gotcha-the-sport.json](./5848-gotcha-the-sport.json) |
 | Gotchi Guardians | 354980 | [354980-gotchi-guardians.json](./354980-gotchi-guardians.json) |
+| Goth Obsession | 401266 | [401266-goth-obsession.json](./401266-goth-obsession.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
 | Gotham City Impostors: Pretty Poison | 170876 | [170876-gotham-city-impostors-pretty-poison.json](./170876-gotham-city-impostors-pretty-poison.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
