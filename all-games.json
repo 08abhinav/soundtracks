@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:22:23.794Z",
-  "total_soundtracks": 2068,
+  "generated_at": "2026-10-17T15:22:31.027Z",
+  "total_soundtracks": 2069,
   "games": [
     {
       "igdb_id": 7522,
@@ -18520,6 +18520,20 @@
           "album_name": "Sleeping Dogs (Original Motion Picture Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5EtvSNRBjcMAAaalUMYprz",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2049,
+      "game_name": "Slender: The Arrival",
+      "game_url": "https://ostdb.net/games/slender-the-arrival",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27349acb32e1b1b00cd2427e2df",
+      "albums": [
+        {
+          "album_name": "Slender: The Arrival (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hiGwOqnzzeVHcmmWtzPjl",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
