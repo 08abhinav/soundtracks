@@ -7067,6 +7067,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Fart Simulator | 397648 | [397648-anime-fart-simulator.json](./397648-anime-fart-simulator.json) |
 | Anime fashion show | 99500 | [99500-anime-fashion-show.json](./99500-anime-fashion-show.json) |
 | Anime Feet Aim Trainer | 371231 | [371231-anime-feet-aim-trainer.json](./371231-anime-feet-aim-trainer.json) |
+| Anime Feet Boys: The Charm Finder Quest | 386558 | [386558-anime-feet-boys-the-charm-finder-quest.json](./386558-anime-feet-boys-the-charm-finder-quest.json) |
+| Anime Feet Girls: The Charm Finder Quest | 386557 | [386557-anime-feet-girls-the-charm-finder-quest.json](./386557-anime-feet-girls-the-charm-finder-quest.json) |
 | Anime Fight in the Arena of Death | 105175 | [105175-anime-fight-in-the-arena-of-death.json](./105175-anime-fight-in-the-arena-of-death.json) |
 | Anime Fighting Jam | 222872 | [222872-anime-fighting-jam.json](./222872-anime-fighting-jam.json) |
 | Anime for Sex Motel | 288890 | [288890-anime-for-sex-motel.json](./288890-anime-for-sex-motel.json) |
@@ -9245,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
 | Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
+| Are! Mo Kore? Mo Momotarou | 386524 | [386524-are-mo-kore-mo-momotarou.json](./386524-are-mo-kore-mo-momotarou.json) |
 | Area 19 | 289545 | [289545-area-19.json](./289545-area-19.json) |
 | Area 4643 | 112756 | [112756-area-4643.json](./112756-area-4643.json) |
 | Area 51 | 199022 | [199022-area-51.json](./199022-area-51.json) |
