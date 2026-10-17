@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
 | Mana Monsters | 321504 | [321504-mana-monsters.json](./321504-mana-monsters.json) |
 | Mana Quest | 272201 | [272201-mana-quest.json](./272201-mana-quest.json) |
+| Mana Rush | 414093 | [414093-mana-rush.json](./414093-mana-rush.json) |
 | Mana Sisters | 255261 | [255261-mana-sisters.json](./255261-mana-sisters.json) |
 | Mana Smack | 346542 | [346542-mana-smack.json](./346542-mana-smack.json) |
 | Mana Spark | 50745 | [50745-mana-spark.json](./50745-mana-spark.json) |
@@ -7877,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
+| Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
 | Midwinter II: Flames of Freedom | 15266 | [15266-midwinter-ii-flames-of-freedom.json](./15266-midwinter-ii-flames-of-freedom.json) |
 | MidZone | 110484 | [110484-midzone.json](./110484-midzone.json) |
