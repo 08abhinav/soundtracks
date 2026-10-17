@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
+| Viking Raiders | 415427 | [415427-viking-raiders.json](./415427-viking-raiders.json) |
 | Viking Rise | 246290 | [246290-viking-rise.json](./246290-viking-rise.json) |
 | Viking Rush: Clan Defenders' Glory Clash Chronicle | 235147 | [235147-viking-rush-clan-defenders-glory-clash-chronicle.json](./235147-viking-rush-clan-defenders-glory-clash-chronicle.json) |
 | Viking Saga: The Cursed Ring | 34113 | [34113-viking-saga-the-cursed-ring.json](./34113-viking-saga-the-cursed-ring.json) |
@@ -2302,6 +2303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
 | Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
 | Void Captains | 410395 | [410395-void-captains.json](./410395-void-captains.json) |
+| Void Cargo: Equilibrium | 415441 | [415441-void-cargo-equilibrium.json](./415441-void-cargo-equilibrium.json) |
 | Void Carrier | 304698 | [304698-void-carrier.json](./304698-void-carrier.json) |
 | Void Chaser | 261709 | [261709-void-chaser.json](./261709-void-chaser.json) |
 | Void Climber | 316062 | [316062-void-climber.json](./316062-void-climber.json) |
