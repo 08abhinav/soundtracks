@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilu | 100681 | [100681-ilu.json](./100681-ilu.json) |
 | iLudo | 90359 | [90359-iludo.json](./90359-iludo.json) |
 | Ilulissat Water Taxi | 110259 | [110259-ilulissat-water-taxi.json](./110259-ilulissat-water-taxi.json) |
+| Iluminatus Bizarre Ascent | 372778 | [372778-iluminatus-bizarre-ascent.json](./372778-iluminatus-bizarre-ascent.json) |
 | Ilyad | 366984 | [366984-ilyad.json](./366984-ilyad.json) |
 | Ilysia | 123575 | [123575-ilysia.json](./123575-ilysia.json) |
 | Im Bann Der Dunklen Jagd | 324674 | [324674-im-bann-der-dunklen-jagd.json](./324674-im-bann-der-dunklen-jagd.json) |
@@ -2025,6 +2026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Hope Voiden | 350022 | [350022-in-hope-voiden.json](./350022-in-hope-voiden.json) |
 | In League | 103952 | [103952-in-league.json](./103952-in-league.json) |
 | In Light | 68278 | [68278-in-light.json](./68278-in-light.json) |
+| In Loving, Oblivion | 372761 | [372761-in-loving-oblivion.json](./372761-in-loving-oblivion.json) |
 | In Memoriam | 303586 | [303586-in-memoriam.json](./303586-in-memoriam.json) |
 | In Memory of Mrs Frog | 416595 | [416595-in-memory-of-mrs-frog.json](./416595-in-memory-of-mrs-frog.json) |
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
