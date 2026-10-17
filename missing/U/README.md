@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
 | Uh Oh Bartender | 122297 | [122297-uh-oh-bartender.json](./122297-uh-oh-bartender.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
+| Uh Oh, AI! | 393935 | [393935-uh-oh-ai.json](./393935-uh-oh-ai.json) |
 | Uh Oh, UFO! | 232020 | [232020-uh-oh-ufo.json](./232020-uh-oh-ufo.json) |
 | Uh-Oh! | 223950 | [223950-uh-oh.json](./223950-uh-oh.json) |
 | Uh? | 419847 | [419847-uh.json](./419847-uh.json) |
