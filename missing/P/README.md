@@ -8365,6 +8365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokubittu | 97836 | [97836-pokubittu.json](./97836-pokubittu.json) |
 | Polandball Go | 376047 | [376047-polandball-go.json](./376047-polandball-go.json) |
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
+| Polandball: The Black Apocalypse | 374345 | [374345-polandball-the-black-apocalypse.json](./374345-polandball-the-black-apocalypse.json) |
 | Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
@@ -8906,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
+| PooPig | 374367 | [374367-poopig.json](./374367-poopig.json) |
 | Poople | 420545 | [420545-poople.json](./420545-poople.json) |
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
@@ -11323,6 +11325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
+| Project Obscure | 374370 | [374370-project-obscure.json](./374370-project-obscure.json) |
 | Project Octavia | 361271 | [361271-project-octavia.json](./361271-project-octavia.json) |
 | Project of the Gods | 156118 | [156118-project-of-the-gods.json](./156118-project-of-the-gods.json) |
 | Project Offset | 73013 | [73013-project-offset.json](./73013-project-offset.json) |
@@ -12280,6 +12283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
+| Pumpkin Simulator | 374348 | [374348-pumpkin-simulator.json](./374348-pumpkin-simulator.json) |
 | Pumpkin Slasher | 176231 | [176231-pumpkin-slasher.json](./176231-pumpkin-slasher.json) |
 | Pumpkin Smasher VR | 123911 | [123911-pumpkin-smasher-vr.json](./123911-pumpkin-smasher-vr.json) |
 | Pumpkin Story | 201571 | [201571-pumpkin-story.json](./201571-pumpkin-story.json) |
