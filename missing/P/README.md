@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
 | Paper World Escape 3 | 315688 | [315688-paper-world-escape-3.json](./315688-paper-world-escape-3.json) |
 | Paper World Escape 4 | 315691 | [315691-paper-world-escape-4.json](./315691-paper-world-escape-4.json) |
+| Paper Xian | 374906 | [374906-paper-xian.json](./374906-paper-xian.json) |
 | Paper Zelda RPG | 142889 | [142889-paper-zelda-rpg.json](./142889-paper-zelda-rpg.json) |
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
