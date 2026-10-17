@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:37:44.490Z",
-  "total_soundtracks": 2100,
+  "generated_at": "2026-10-17T15:37:52.685Z",
+  "total_soundtracks": 2101,
   "games": [
     {
       "igdb_id": 7522,
@@ -23453,6 +23453,20 @@
         {
           "album_name": "Turnip Boy Robs a Bank (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0V4sNrqNUQdOP8APcSSzpD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1321,
+      "game_name": "Turok: Dinosaur Hunter",
+      "game_url": "https://ostdb.net/games/turok-dinosaur-hunter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a56d7d655d502967d5d2324",
+      "albums": [
+        {
+          "album_name": "Turok: Dinosaur Hunter (Original N64 Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1a3rVoZwCn6jaU09UVAkZe",
           "apple_music_url": "",
           "album_link_url": ""
         }
