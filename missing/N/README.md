@@ -4085,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
 | No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
+| No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
 | No Fair Play | 172755 | [172755-no-fair-play.json](./172755-no-fair-play.json) |
@@ -4742,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nora & Magic That Does Not Turn Back Time | 348882 | [348882-nora-and-magic-that-does-not-turn-back-time.json](./348882-nora-and-magic-that-does-not-turn-back-time.json) |
 | Nora and Frank | 358925 | [358925-nora-and-frank.json](./358925-nora-and-frank.json) |
 | Nora Roberts: Vision in White | 143330 | [143330-nora-roberts-vision-in-white.json](./143330-nora-roberts-vision-in-white.json) |
+| Nora the girl | 378611 | [378611-nora-the-girl.json](./378611-nora-the-girl.json) |
 | Nora to Oujo to Noraneko Heart 2 | 205267 | [205267-nora-to-oujo-to-noraneko-heart-2.json](./205267-nora-to-oujo-to-noraneko-heart-2.json) |
 | Nora to Oujo to Noraneko Heart 2: Dakimakura Cover Set | 136972 | [136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json](./136972-nora-to-oujo-to-noraneko-heart-2-dakimakura-cover-set.json) |
 | Nora to Toki no Koubou: Kiri no Mori no Majo | 65848 | [65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json](./65848-nora-to-toki-no-koubou-kiri-no-mori-no-majo.json) |
