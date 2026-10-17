@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
+| Undefeated | 409862 | [409862-undefeated.json](./409862-undefeated.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undelve | 406050 | [406050-undelve.json](./406050-undelve.json) |
 | Undemon | 182363 | [182363-undemon.json](./182363-undemon.json) |
