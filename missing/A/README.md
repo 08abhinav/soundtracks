@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
+| A Game About Flipping Cards | 407864 | [407864-a-game-about-flipping-cards.json](./407864-a-game-about-flipping-cards.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
@@ -7414,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
 | Another Museum | 217855 | [217855-another-museum.json](./217855-another-museum.json) |
 | Another Mythical Journey | 185091 | [185091-another-mythical-journey.json](./185091-another-mythical-journey.json) |
+| Another Night at the Archive | 407877 | [407877-another-night-at-the-archive.json](./407877-another-night-at-the-archive.json) |
 | Another Nightmare | 217856 | [217856-another-nightmare.json](./217856-another-nightmare.json) |
 | Another Path | 196884 | [196884-another-path.json](./196884-another-path.json) |
 | Another Perspective | 9978 | [9978-another-perspective.json](./9978-another-perspective.json) |
@@ -10697,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astaroth: The Angel of Death | 14171 | [14171-astaroth-the-angel-of-death.json](./14171-astaroth-the-angel-of-death.json) |
+| Astaryn: RPG Idler | 407879 | [407879-astaryn-rpg-idler.json](./407879-astaryn-rpg-idler.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
 | Astatos | 186111 | [186111-astatos.json](./186111-astatos.json) |
 | Astebreed | 8356 | [8356-astebreed.json](./8356-astebreed.json) |
