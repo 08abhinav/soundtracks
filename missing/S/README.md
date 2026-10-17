@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
 | SaveKunkun | 336656 | [336656-savekunkun.json](./336656-savekunkun.json) |
 | Saveseeker | 356279 | [356279-saveseeker.json](./356279-saveseeker.json) |
+| Savi's Tale: When White Petals Fall Like First Snow | 412929 | [412929-savis-tale-when-white-petals-fall-like-first-snow.json](./412929-savis-tale-when-white-petals-fall-like-first-snow.json) |
 | Saviner | 383524 | [383524-saviner.json](./383524-saviner.json) |
 | Saving Animals | 148983 | [148983-saving-animals.json](./148983-saving-animals.json) |
 | Saving Astral | 285510 | [285510-saving-astral.json](./285510-saving-astral.json) |
@@ -1875,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scape | 415979 | [415979-scape.json](./415979-scape.json) |
 | Scapefall | 238932 | [238932-scapefall.json](./238932-scapefall.json) |
 | Scapeghost | 12208 | [12208-scapeghost.json](./12208-scapeghost.json) |
+| Scapegoat & Rational | 412926 | [412926-scapegoat-and-rational.json](./412926-scapegoat-and-rational.json) |
 | Scapeland | 33493 | [33493-scapeland.json](./33493-scapeland.json) |
 | Scaper Dash | 147232 | [147232-scaper-dash.json](./147232-scaper-dash.json) |
 | Scapevale | 130669 | [130669-scapevale.json](./130669-scapevale.json) |
@@ -3449,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeker Of Shadows | 296625 | [296625-seeker-of-shadows.json](./296625-seeker-of-shadows.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
+| Seeker Tactics | 412935 | [412935-seeker-tactics.json](./412935-seeker-tactics.json) |
 | Seekers | 169342 | [169342-seekers.json](./169342-seekers.json) |
 | Seekers Aeterna | 217339 | [217339-seekers-aeterna.json](./217339-seekers-aeterna.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
@@ -5966,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinkansen 0 | 292568 | [292568-shinkansen-0.json](./292568-shinkansen-0.json) |
 | Shinkansen Card Pull Simulator | 399783 | [399783-shinkansen-card-pull-simulator.json](./399783-shinkansen-card-pull-simulator.json) |
 | Shinkei Suijaku: Indo-hen | 233409 | [233409-shinkei-suijaku-indo-hen.json](./233409-shinkei-suijaku-indo-hen.json) |
+| Shinki Kakusei Valcross | 412944 | [412944-shinki-kakusei-valcross.json](./412944-shinki-kakusei-valcross.json) |
 | Shinkon Gattai Godannar!! | 70905 | [70905-shinkon-gattai-godannar.json](./70905-shinkon-gattai-godannar.json) |
 | Shinkyoku Soukai Polyphonica: 0~4 wa Full Pack | 269529 | [269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json](./269529-shinkyoku-soukai-polyphonica-0-4-wa-full-pack.json) |
 | Shinmai Kyoushi | 320835 | [320835-shinmai-kyoushi.json](./320835-shinmai-kyoushi.json) |
@@ -12665,6 +12669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
 | Soon Shine | 85389 | [85389-soon-shine.json](./85389-soon-shine.json) |
+| Soon, Only the Ocean | 412938 | [412938-soon-only-the-ocean.json](./412938-soon-only-the-ocean.json) |
 | Soona | 128923 | [128923-soona.json](./128923-soona.json) |
 | Soopah Doopah Poopah | 138151 | [138151-soopah-doopah-poopah.json](./138151-soopah-doopah-poopah.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
