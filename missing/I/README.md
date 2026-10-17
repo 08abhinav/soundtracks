@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
 | Influence | 25482 | [25482-influence.json](./25482-influence.json) |
 | Influenced | 179675 | [179675-influenced.json](./179675-influenced.json) |
+| Influencer Simulator 25 | 374392 | [374392-influencer-simulator-25.json](./374392-influencer-simulator-25.json) |
 | Influent Language Learning Game | 17037 | [17037-influent-language-learning-game.json](./17037-influent-language-learning-game.json) |
 | Influent: Definitive Edition | 252604 | [252604-influent-definitive-edition.json](./252604-influent-definitive-edition.json) |
 | Influenza A | 135775 | [135775-influenza-a.json](./135775-influenza-a.json) |
@@ -3057,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkub | 85192 | [85192-inkub.json](./85192-inkub.json) |
 | Inkubus Sukkubus: She of a Thousand Names | 244342 | [244342-inkubus-sukkubus-she-of-a-thousand-names.json](./244342-inkubus-sukkubus-she-of-a-thousand-names.json) |
 | Inkulinati: Supporter Bundle | 336135 | [336135-inkulinati-supporter-bundle.json](./336135-inkulinati-supporter-bundle.json) |
+| Inkulinati: Supporter Pack | 374364 | [374364-inkulinati-supporter-pack.json](./374364-inkulinati-supporter-pack.json) |
 | Inkventure | 347326 | [347326-inkventure.json](./347326-inkventure.json) |
 | Inkwell | 376731 | [376731-inkwell.json](./376731-inkwell.json) |
 | Inkwellers | 333555 | [333555-inkwellers.json](./333555-inkwellers.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
 | Innergy | 81398 | [81398-innergy.json](./81398-innergy.json) |
 | InnerSpace | 35844 | [35844-innerspace.json](./35844-innerspace.json) |
+| Innerwhy | 374393 | [374393-innerwhy.json](./374393-innerwhy.json) |
 | Inniku Dorei no Shu | 97518 | [97518-inniku-dorei-no-shu.json](./97518-inniku-dorei-no-shu.json) |
 | Innkeeper VR | 320917 | [320917-innkeeper-vr.json](./320917-innkeeper-vr.json) |
 | Innkeeper's Basement | 243275 | [243275-innkeepers-basement.json](./243275-innkeepers-basement.json) |
@@ -4341,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Slowlife | 402894 | [402894-isekai-slowlife.json](./402894-isekai-slowlife.json) |
 | Isekai Succubus: My Genderbent Saga in Another World | 187185 | [187185-isekai-succubus-my-genderbent-saga-in-another-world.json](./187185-isekai-succubus-my-genderbent-saga-in-another-world.json) |
 | Isekai Survivors | 317972 | [317972-isekai-survivors.json](./317972-isekai-survivors.json) |
+| Isekai Training | 374346 | [374346-isekai-training.json](./374346-isekai-training.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
