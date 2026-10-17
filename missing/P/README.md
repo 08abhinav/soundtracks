@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Memo | 246385 | [246385-pair-memo.json](./246385-pair-memo.json) |
 | Pair of Aces | 149397 | [149397-pair-of-aces.json](./149397-pair-of-aces.json) |
 | Pair of Stamps | 227870 | [227870-pair-of-stamps.json](./227870-pair-of-stamps.json) |
+| Pair Panic | 373807 | [373807-pair-panic.json](./373807-pair-panic.json) |
 | Pair Room | 393806 | [393806-pair-room.json](./393806-pair-room.json) |
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
@@ -2424,6 +2425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay Respects | 176202 | [176202-pay-respects.json](./176202-pay-respects.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
+| Payasos & Balazos | 373828 | [373828-payasos-and-balazos.json](./373828-payasos-and-balazos.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
@@ -10873,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Proelium | 110745 | [110745-proelium.json](./110745-proelium.json) |
 | Prof. Miyamoto's Soroban & Flash Anzan | 244825 | [244825-prof-miyamotos-soroban-and-flash-anzan.json](./244825-prof-miyamotos-soroban-and-flash-anzan.json) |
+| Profana | 373825 | [373825-profana.json](./373825-profana.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
 | Profession investigator | 190967 | [190967-profession-investigator.json](./190967-profession-investigator.json) |
