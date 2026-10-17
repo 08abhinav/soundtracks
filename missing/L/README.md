@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa to Issho ni Tairiku Oudan: A-Ressha de Ikou | 56555 | [56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json](./56555-lisa-to-issho-ni-tairiku-oudan-a-ressha-de-ikou.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
+| Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlebird/TrueEyes | 241524 | [241524-littlebird-trueeyes.json](./241524-littlebird-trueeyes.json) |
 | LittleMouseHero | 285912 | [285912-littlemousehero.json](./285912-littlemousehero.json) |
 | Littleroot Researchers | 195087 | [195087-littleroot-researchers.json](./195087-littleroot-researchers.json) |
+| LittleRunner | 387483 | [387483-littlerunner.json](./387483-littlerunner.json) |
 | Littlest Pet Shop | 353919 | [353919-littlest-pet-shop.json](./353919-littlest-pet-shop.json) |
 | Littlest Pet Shop | 4975 | [4975-littlest-pet-shop.json](./4975-littlest-pet-shop.json) |
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
+| Lost Trust: Episode 1 | 387488 | [387488-lost-trust-episode-1.json](./387488-lost-trust-episode-1.json) |
 | Lost Twins 2 | 173308 | [173308-lost-twins-2.json](./173308-lost-twins-2.json) |
 | Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
@@ -6040,6 +6043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
+| Love Battle Spirit | 387744 | [387744-love-battle-spirit.json](./387744-love-battle-spirit.json) |
 | Love Begins with Goodbye | 344975 | [344975-love-begins-with-goodbye.json](./344975-love-begins-with-goodbye.json) |
 | Love Birds | 236734 | [236734-love-birds.json](./236734-love-birds.json) |
 | Love Bites | 254451 | [254451-love-bites.json](./254451-love-bites.json) |
@@ -6915,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
 | Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
+| Lunar Mystery 2103 | 387480 | [387480-lunar-mystery-2103.json](./387480-lunar-mystery-2103.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
