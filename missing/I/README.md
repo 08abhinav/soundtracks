@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Mice 4 | 287068 | [287068-i-commissioned-some-mice-4.json](./287068-i-commissioned-some-mice-4.json) |
 | I Commissioned Some Mice 5 | 287069 | [287069-i-commissioned-some-mice-5.json](./287069-i-commissioned-some-mice-5.json) |
 | I Commissioned Some Pigeons | 252250 | [252250-i-commissioned-some-pigeons.json](./252250-i-commissioned-some-pigeons.json) |
+| I Commissioned Some Pigeons 2 | 378529 | [378529-i-commissioned-some-pigeons-2.json](./378529-i-commissioned-some-pigeons-2.json) |
 | I Commissioned Some Pigeons 3 | 377679 | [377679-i-commissioned-some-pigeons-3.json](./377679-i-commissioned-some-pigeons-3.json) |
 | I Commissioned Some Pigeons 4 | 377680 | [377680-i-commissioned-some-pigeons-4.json](./377680-i-commissioned-some-pigeons-4.json) |
 | I Commissioned Some Snails | 288783 | [288783-i-commissioned-some-snails.json](./288783-i-commissioned-some-snails.json) |
