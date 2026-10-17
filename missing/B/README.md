@@ -3820,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatJunkies | 168134 | [168134-beatjunkies.json](./168134-beatjunkies.json) |
 | Beatless | 174641 | [174641-beatless.json](./174641-beatless.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
+| Beatlow | 399427 | [399427-beatlow.json](./399427-beatlow.json) |
 | Beatmania | 20498 | [20498-beatmania.json](./20498-beatmania.json) |
 | Beatmania | 379146 | [379146-beatmania.json](./379146-beatmania.json) |
 | Beatmania 2ndMix | 94746 | [94746-beatmania-2ndmix.json](./94746-beatmania-2ndmix.json) |
