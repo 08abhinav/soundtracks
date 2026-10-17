@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurose Neurones | 310766 | [310766-neurose-neurones.json](./310766-neurose-neurones.json) |
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neurosis | 245760 | [245760-neurosis.json](./245760-neurosis.json) |
+| Neurosis | 385403 | [385403-neurosis.json](./385403-neurosis.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
 | Neurospasm | 404079 | [404079-neurospasm.json](./404079-neurospasm.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
@@ -4263,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Throwing | 341487 | [341487-no-throwing.json](./341487-no-throwing.json) |
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time | 116296 | [116296-no-time.json](./116296-no-time.json) |
+| No Time 2 Freeze | 385443 | [385443-no-time-2-freeze.json](./385443-no-time-2-freeze.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
 | No Time Left | 397935 | [397935-no-time-left.json](./397935-no-time-left.json) |
