@@ -1753,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Tank | 239718 | [239718-water-tank.json](./239718-water-tank.json) |
 | Water Tower | 336384 | [336384-water-tower.json](./336384-water-tower.json) |
 | Water Warfare | 21212 | [21212-water-warfare.json](./21212-water-warfare.json) |
+| Water We Doing? | 406626 | [406626-water-we-doing.json](./406626-water-we-doing.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Water's Bounty | 414804 | [414804-waters-bounty.json](./414804-waters-bounty.json) |
