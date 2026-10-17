@@ -4324,6 +4324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maybe: Interactive Stories - Triangle of Kisses | 139694 | [139694-maybe-interactive-stories-triangle-of-kisses.json](./139694-maybe-interactive-stories-triangle-of-kisses.json) |
 | Mayday | 38577 | [38577-mayday.json](./38577-mayday.json) |
 | Mayday | 392860 | [392860-mayday.json](./392860-mayday.json) |
+| MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
@@ -10633,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
 | Monkey Barrels | 125160 | [125160-monkey-barrels.json](./125160-monkey-barrels.json) |
+| Monkey Bizniz | 405950 | [405950-monkey-bizniz.json](./405950-monkey-bizniz.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
