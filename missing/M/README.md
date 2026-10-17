@@ -5642,6 +5642,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
+| Megacraft Hentai And Zombies | 366533 | [366533-megacraft-hentai-and-zombies.json](./366533-megacraft-hentai-and-zombies.json) |
+| Megacraft Hentai Apocalipsis | 366534 | [366534-megacraft-hentai-apocalipsis.json](./366534-megacraft-hentai-apocalipsis.json) |
 | Megacraft Hentai Edition | 144886 | [144886-megacraft-hentai-edition.json](./144886-megacraft-hentai-edition.json) |
 | Megacraft Hentai Survival | 149428 | [149428-megacraft-hentai-survival.json](./149428-megacraft-hentai-survival.json) |
 | MegaCryptoPolis | 182339 | [182339-megacryptopolis.json](./182339-megacryptopolis.json) |
