@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
+| Pac-Man 3D: White House Edition | 364837 | [364837-pac-man-3d-white-house-edition.json](./364837-pac-man-3d-white-house-edition.json) |
 | Pac-Man 4K | 277412 | [277412-pac-man-4k.json](./277412-pac-man-4k.json) |
 | Pac-Man 4K | 40655 | [40655-pac-man-4k.json](./40655-pac-man-4k.json) |
 | Pac-Man 99 | 145515 | [145515-pac-man-99.json](./145515-pac-man-99.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Survival | 412274 | [412274-path-of-survival.json](./412274-path-of-survival.json) |
 | Path of Tengri | 202716 | [202716-path-of-tengri.json](./202716-path-of-tengri.json) |
 | Path of the Bogatyr | 356569 | [356569-path-of-the-bogatyr.json](./356569-path-of-the-bogatyr.json) |
+| Path of the Heart | 364885 | [364885-path-of-the-heart.json](./364885-path-of-the-heart.json) |
 | Path of the Martyrs | 138561 | [138561-path-of-the-martyrs.json](./138561-path-of-the-martyrs.json) |
 | Path of the Midnight Sun | 126443 | [126443-path-of-the-midnight-sun.json](./126443-path-of-the-midnight-sun.json) |
 | Path of the Oxiflame | 319842 | [319842-path-of-the-oxiflame.json](./319842-path-of-the-oxiflame.json) |
@@ -3568,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
+| Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
@@ -6344,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Legendary Edition | 332508 | [332508-pizza-bar-tycoon-legendary-edition.json](./332508-pizza-bar-tycoon-legendary-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Edition | 247594 | [247594-pizza-bar-tycoon-multiplayer-edition.json](./247594-pizza-bar-tycoon-multiplayer-edition.json) |
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
+| Pizza Blitz | 364864 | [364864-pizza-blitz.json](./364864-pizza-blitz.json) |
 | Pizza Boy | 303746 | [303746-pizza-boy.json](./303746-pizza-boy.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Chef | 40758 | [40758-pizza-chef.json](./40758-pizza-chef.json) |
