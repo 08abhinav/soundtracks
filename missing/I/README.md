@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immersive Horror Room: Hospital Escape Terror | 52003 | [52003-immersive-horror-room-hospital-escape-terror.json](./52003-immersive-horror-room-hospital-escape-terror.json) |
 | Immersive Jurassic World Roller Coaster VR | 250491 | [250491-immersive-jurassic-world-roller-coaster-vr.json](./250491-immersive-jurassic-world-roller-coaster-vr.json) |
 | Immies & Aggies | 40685 | [40685-immies-and-aggies.json](./40685-immies-and-aggies.json) |
+| Imminent | 384346 | [384346-imminent.json](./384346-imminent.json) |
 | Immoral Quartet | 147316 | [147316-immoral-quartet.json](./147316-immoral-quartet.json) |
 | Immoral Shadows | 236829 | [236829-immoral-shadows.json](./236829-immoral-shadows.json) |
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
@@ -3590,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplayer | 301906 | [301906-interplayer.json](./301906-interplayer.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
+| Interpret | 384333 | [384333-interpret.json](./384333-interpret.json) |
 | Interquel | 369370 | [369370-interquel.json](./369370-interquel.json) |
 | Interred | 405690 | [405690-interred.json](./405690-interred.json) |
 | Interregnum Chronicles: Signal | 153753 | [153753-interregnum-chronicles-signal.json](./153753-interregnum-chronicles-signal.json) |
@@ -3915,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investation | 92527 | [92527-investation.json](./92527-investation.json) |
 | Investi-Gator: The Case of the Big Crime | 116092 | [116092-investi-gator-the-case-of-the-big-crime.json](./116092-investi-gator-the-case-of-the-big-crime.json) |
 | Investigate | 229017 | [229017-investigate.json](./229017-investigate.json) |
+| Investigate | 384334 | [384334-investigate.json](./384334-investigate.json) |
 | Investigating Alien Cats | 368591 | [368591-investigating-alien-cats.json](./368591-investigating-alien-cats.json) |
 | Investigation Stories: Gunsound | 369552 | [369552-investigation-stories-gunsound.json](./369552-investigation-stories-gunsound.json) |
 | Investigation Stories: Windsound | 216395 | [216395-investigation-stories-windsound.json](./216395-investigation-stories-windsound.json) |
