@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esper Dream | 47243 | [47243-esper-dream.json](./47243-esper-dream.json) |
 | Esper Dream 2: Aratanaru Tatakai | 48505 | [48505-esper-dream-2-aratanaru-tatakai.json](./48505-esper-dream-2-aratanaru-tatakai.json) |
 | Esper Girls | 265925 | [265925-esper-girls.json](./265925-esper-girls.json) |
+| Esper X Guide | 375540 | [375540-esper-x-guide.json](./375540-esper-x-guide.json) |
 | Esper: Make You Live Again | 114991 | [114991-esper-make-you-live-again.json](./114991-esper-make-you-live-again.json) |
 | Esper: The Collection | 23894 | [23894-esper-the-collection.json](./23894-esper-the-collection.json) |
 | Esperia ~ Uprising of the Scarlet Witch ~ | 126925 | [126925-esperia-uprising-of-the-scarlet-witch.json](./126925-esperia-uprising-of-the-scarlet-witch.json) |
