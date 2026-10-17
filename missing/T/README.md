@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
+| Thanks for the Soup | 408519 | [408519-thanks-for-the-soup.json](./408519-thanks-for-the-soup.json) |
 | Thanks Merlin | 297344 | [297344-thanks-merlin.json](./297344-thanks-merlin.json) |
 | Thanks, Come Again | 245389 | [245389-thanks-come-again.json](./245389-thanks-come-again.json) |
 | Thanks, Light. | 262934 | [262934-thanks-light.json](./262934-thanks-light.json) |
@@ -8533,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
+| The Last Node | 408500 | [408500-the-last-node.json](./408500-the-last-node.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
@@ -9795,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Parts of Maria Gwozdek | 236961 | [236961-the-missing-parts-of-maria-gwozdek.json](./236961-the-missing-parts-of-maria-gwozdek.json) |
 | The Missing Pharaoh | 212520 | [212520-the-missing-pharaoh.json](./212520-the-missing-pharaoh.json) |
+| The Missing Rune | 408492 | [408492-the-missing-rune.json](./408492-the-missing-rune.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
 | The Missing Threads | 412925 | [412925-the-missing-threads.json](./412925-the-missing-threads.json) |
@@ -12564,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
 | The Torture House | 303177 | [303177-the-torture-house.json](./303177-the-torture-house.json) |
 | The Torus Syndicate | 30725 | [30725-the-torus-syndicate.json](./30725-the-torus-syndicate.json) |
+| The Totemist | 408524 | [408524-the-totemist.json](./408524-the-totemist.json) |
 | The Touch | 415498 | [415498-the-touch.json](./415498-the-touch.json) |
 | The Tour | 179178 | [179178-the-tour.json](./179178-the-tour.json) |
 | The Tour | 282029 | [282029-the-tour.json](./282029-the-tour.json) |
