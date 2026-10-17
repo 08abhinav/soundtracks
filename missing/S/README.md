@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samantha Swift and the Mystery From Atlantis | 62460 | [62460-samantha-swift-and-the-mystery-from-atlantis.json](./62460-samantha-swift-and-the-mystery-from-atlantis.json) |
 | Samantha Wins | 128561 | [128561-samantha-wins.json](./128561-samantha-wins.json) |
 | Samara | 291084 | [291084-samara.json](./291084-samara.json) |
+| Samara | 376826 | [376826-samara.json](./376826-samara.json) |
 | Samawa Idle | 265304 | [265304-samawa-idle.json](./265304-samawa-idle.json) |
 | Samba de Amigo | 21807 | [21807-samba-de-amigo.json](./21807-samba-de-amigo.json) |
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
@@ -2036,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scatteria | 110758 | [110758-scatteria.json](./110758-scatteria.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
+| Scav | 376816 | [376816-scav.json](./376816-scav.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
@@ -4457,6 +4459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Olympics | 289398 | [289398-sex-olympics.json](./289398-sex-olympics.json) |
 | Sex on Beach | 252271 | [252271-sex-on-beach.json](./252271-sex-on-beach.json) |
 | Sex On The Beach | 301651 | [301651-sex-on-the-beach.json](./301651-sex-on-the-beach.json) |
+| Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
@@ -7106,8 +7109,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Great Britain Pack | 360530 | [360530-sid-meiers-civilization-vii-great-britain-pack.json](./360530-sid-meiers-civilization-vii-great-britain-pack.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
 | Sid Meier's Civilization VII: Himiko (High Shaman) Persona | 360539 | [360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json](./360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json) |
+| Sid Meier's Civilization VII: Iceland Pack | 376794 | [376794-sid-meiers-civilization-vii-iceland-pack.json](./376794-sid-meiers-civilization-vii-iceland-pack.json) |
 | Sid Meier's Civilization VII: Nepal Pack | 360532 | [360532-sid-meiers-civilization-vii-nepal-pack.json](./360532-sid-meiers-civilization-vii-nepal-pack.json) |
+| Sid Meier's Civilization VII: Ottomans Pack | 376795 | [376795-sid-meiers-civilization-vii-ottomans-pack.json](./376795-sid-meiers-civilization-vii-ottomans-pack.json) |
 | Sid Meier's Civilization VII: Right to Rule Collection | 360541 | [360541-sid-meiers-civilization-vii-right-to-rule-collection.json](./360541-sid-meiers-civilization-vii-right-to-rule-collection.json) |
+| Sid Meier's Civilization VII: Sayyida al Hurra Pack | 376796 | [376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json](./376796-sid-meiers-civilization-vii-sayyida-al-hurra-pack.json) |
 | Sid Meier's Civilization VII: Sengoku Japan Pack | 411599 | [411599-sid-meiers-civilization-vii-sengoku-japan-pack.json](./411599-sid-meiers-civilization-vii-sengoku-japan-pack.json) |
 | Sid Meier's Civilization VII: Simón Bolívar Pack | 360527 | [360527-sid-meiers-civilization-vii-simon-bolivar-pack.json](./360527-sid-meiers-civilization-vii-simon-bolivar-pack.json) |
 | Sid Meier's Civilization VII: Tecumseh and Shawnee Pack | 360536 | [360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json](./360536-sid-meiers-civilization-vii-tecumseh-and-shawnee-pack.json) |
@@ -9230,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterfest 2012 | 140891 | [140891-slaughterfest-2012.json](./140891-slaughterfest-2012.json) |
 | Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
+| Slaughterhouse | 376815 | [376815-slaughterhouse.json](./376815-slaughterhouse.json) |
 | Slaughtertrain | 179457 | [179457-slaughtertrain.json](./179457-slaughtertrain.json) |
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
@@ -17684,6 +17691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
+| Starfall | 376812 | [376812-starfall.json](./376812-starfall.json) |
 | Starfall | 377279 | [377279-starfall.json](./377279-starfall.json) |
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
 | Starfall Arena | 227170 | [227170-starfall-arena.json](./227170-starfall-arena.json) |
@@ -19477,6 +19485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
 | Stranded | 308327 | [308327-stranded.json](./308327-stranded.json) |
 | Stranded | 337676 | [337676-stranded.json](./337676-stranded.json) |
+| Stranded | 376811 | [376811-stranded.json](./376811-stranded.json) |
 | Stranded 2 | 170896 | [170896-stranded-2.json](./170896-stranded-2.json) |
 | Stranded at Sea | 365737 | [365737-stranded-at-sea.json](./365737-stranded-at-sea.json) |
 | Stranded B | 162257 | [162257-stranded-b.json](./162257-stranded-b.json) |
@@ -24876,6 +24885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Seasons | 110531 | [110531-sweet-seasons.json](./110531-sweet-seasons.json) |
 | Sweet Shell | 328043 | [328043-sweet-shell.json](./328043-sweet-shell.json) |
 | Sweet Shine | 159825 | [159825-sweet-shine.json](./159825-sweet-shine.json) |
+| Sweet Shop | 376813 | [376813-sweet-shop.json](./376813-sweet-shop.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
