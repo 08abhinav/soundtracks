@@ -1671,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save My Pet | 89278 | [89278-save-my-pet.json](./89278-save-my-pet.json) |
 | Save My Scrap | 380047 | [380047-save-my-scrap.json](./380047-save-my-scrap.json) |
 | Save My Sister | 257679 | [257679-save-my-sister.json](./257679-save-my-sister.json) |
+| Save My Wife | 400662 | [400662-save-my-wife.json](./400662-save-my-wife.json) |
 | Save Next Christmas | 397069 | [397069-save-next-christmas.json](./397069-save-next-christmas.json) |
 | Save One More | 90278 | [90278-save-one-more.json](./90278-save-one-more.json) |
 | Save Our Ship | 40697 | [40697-save-our-ship.json](./40697-save-our-ship.json) |
@@ -11164,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
 | Sock It | 196236 | [196236-sock-it.json](./196236-sock-it.json) |
 | Sock Monster | 143012 | [143012-sock-monster.json](./143012-sock-monster.json) |
+| Sock Puppet Superstar | 400678 | [400678-sock-puppet-superstar.json](./400678-sock-puppet-superstar.json) |
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
@@ -21230,6 +21232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundel Bolong Revenge | 188343 | [188343-sundel-bolong-revenge.json](./188343-sundel-bolong-revenge.json) |
 | Sunder | 135865 | [135865-sunder.json](./135865-sunder.json) |
 | Sunder For People Who Don't Have Time To Play Sunder | 296041 | [296041-sunder-for-people-who-dont-have-time-to-play-sunder.json](./296041-sunder-for-people-who-dont-have-time-to-play-sunder.json) |
+| Sunder Siege | 400711 | [400711-sunder-siege.json](./400711-sunder-siege.json) |
 | SunderBound | 374708 | [374708-sunderbound.json](./374708-sunderbound.json) |
 | Sundered Soul: Chains of the Undying | 393122 | [393122-sundered-soul-chains-of-the-undying.json](./393122-sundered-soul-chains-of-the-undying.json) |
 | Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
