@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catanks | 409404 | [409404-catanks.json](./409404-catanks.json) |
 | catAnod | 96429 | [96429-catanod.json](./96429-catanod.json) |
 | Cataplexy | 186826 | [186826-cataplexy.json](./186826-cataplexy.json) |
+| Catapole | 405489 | [405489-catapole.json](./405489-catapole.json) |
 | Catapult | 180599 | [180599-catapult.json](./180599-catapult.json) |
 | Catapult Battle Simulator! | 122399 | [122399-catapult-battle-simulator.json](./122399-catapult-battle-simulator.json) |
 | Catapult for Hire | 63002 | [63002-catapult-for-hire.json](./63002-catapult-for-hire.json) |
