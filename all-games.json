@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:05:26.883Z",
-  "total_soundtracks": 2035,
+  "generated_at": "2026-10-17T15:05:35.172Z",
+  "total_soundtracks": 2036,
   "games": [
     {
       "igdb_id": 7522,
@@ -11963,6 +11963,20 @@
         {
           "album_name": "LIVE A LIVE Original Soundtrack Re-Release",
           "spotify_url": "https://open.spotify.com/album/6PMCmi6QQjdedrkFrPDrAT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1459,
+      "game_name": "LocoRoco",
+      "game_url": "https://ostdb.net/games/locoroco",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273eccf7951504780cf9ae30c94",
+      "albums": [
+        {
+          "album_name": "LocoRoco Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2viinzlDkAeC3KprABzu4M",
           "apple_music_url": "",
           "album_link_url": ""
         }
