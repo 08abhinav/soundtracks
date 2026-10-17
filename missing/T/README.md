@@ -3155,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Connection | 339408 | [339408-terminal-connection.json](./339408-terminal-connection.json) |
 | Terminal Defense | 298636 | [298636-terminal-defense.json](./298636-terminal-defense.json) |
 | Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
+| Terminal Escape | 383740 | [383740-terminal-escape.json](./383740-terminal-escape.json) |
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
 | Terminal Hacker - Into the Deep | 35935 | [35935-terminal-hacker-into-the-deep.json](./35935-terminal-hacker-into-the-deep.json) |
@@ -5652,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
+| The Daily Spell | 383781 | [383781-the-daily-spell.json](./383781-the-daily-spell.json) |
 | The Daily Sudoku | 264239 | [264239-the-daily-sudoku.json](./264239-the-daily-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
 | The Dalmatians | 44847 | [44847-the-dalmatians.json](./44847-the-dalmatians.json) |
@@ -21847,6 +21849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
+| Trials of Luna | 383795 | [383795-trials-of-luna.json](./383795-trials-of-luna.json) |
 | Trials of Mana | 11227 | [11227-trials-of-mana.json](./11227-trials-of-mana.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
 | Trials of Proelium | 192661 | [192661-trials-of-proelium.json](./192661-trials-of-proelium.json) |
@@ -23394,6 +23397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
 | Twilight Fangs | 298990 | [298990-twilight-fangs.json](./298990-twilight-fangs.json) |
+| Twilight Ferry | 383793 | [383793-twilight-ferry.json](./383793-twilight-ferry.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
 | Twilight Flyer | 307711 | [307711-twilight-flyer.json](./307711-twilight-flyer.json) |
 | Twilight Forest | 213879 | [213879-twilight-forest.json](./213879-twilight-forest.json) |
