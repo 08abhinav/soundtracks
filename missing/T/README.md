@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
+| Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
 | Tainted Keep | 39782 | [39782-tainted-keep.json](./39782-tainted-keep.json) |
@@ -2130,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tchou | 179458 | [179458-tchou.json](./179458-tchou.json) |
 | Tchow Rainbow | 216449 | [216449-tchow-rainbow.json](./216449-tchow-rainbow.json) |
 | Tchunk | 323437 | [323437-tchunk.json](./323437-tchunk.json) |
+| TCM Racing 2 | 380730 | [380730-tcm-racing-2.json](./380730-tcm-racing-2.json) |
 | TCQ | 216272 | [216272-tcq.json](./216272-tcq.json) |
 | TCStrikers5 | 339414 | [339414-tcstrikers5.json](./339414-tcstrikers5.json) |
 | TD Overdrive: The Brotherhood of Speed | 6191 | [6191-td-overdrive-the-brotherhood-of-speed.json](./6191-td-overdrive-the-brotherhood-of-speed.json) |
@@ -14044,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Differences: Monsters | 373313 | [373313-theres-no-differences-monsters.json](./373313-theres-no-differences-monsters.json) |
+| There's No Differences: Santa | 380846 | [380846-theres-no-differences-santa.json](./380846-theres-no-differences-santa.json) |
 | There's No Dinosaurs 2 | 289970 | [289970-theres-no-dinosaurs-2.json](./289970-theres-no-dinosaurs-2.json) |
 | There's No Dinosaurs 2: Dark | 316239 | [316239-theres-no-dinosaurs-2-dark.json](./316239-theres-no-dinosaurs-2-dark.json) |
 | There's No Dragon! | 325024 | [325024-theres-no-dragon.json](./325024-theres-no-dragon.json) |
@@ -14380,6 +14383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This was Once a Place of Honour | 239199 | [239199-this-was-once-a-place-of-honour.json](./239199-this-was-once-a-place-of-honour.json) |
 | This Way Madness Lies | 221775 | [221775-this-way-madness-lies.json](./221775-this-way-madness-lies.json) |
 | This Way!! | 199943 | [199943-this-way.json](./199943-this-way.json) |
+| This Winter of Ours | 380726 | [380726-this-winter-of-ours.json](./380726-this-winter-of-ours.json) |
 | This World Is Over | 348386 | [348386-this-world-is-over.json](./348386-this-world-is-over.json) |
 | This, My Soul | 179692 | [179692-this-my-soul.json](./179692-this-my-soul.json) |
 | This, Too, Shall Pass | 176235 | [176235-this-too-shall-pass.json](./176235-this-too-shall-pass.json) |
