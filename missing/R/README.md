@@ -5563,6 +5563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Man | 50526 | [50526-rise-of-man.json](./50526-rise-of-man.json) |
 | Rise of Man | 50529 | [50529-rise-of-man.json](./50529-rise-of-man.json) |
 | Rise of Mavros | 149541 | [149541-rise-of-mavros.json](./149541-rise-of-mavros.json) |
+| Rise of Mutant Swarms | 386547 | [386547-rise-of-mutant-swarms.json](./386547-rise-of-mutant-swarms.json) |
 | Rise of Mythos | 23618 | [23618-rise-of-mythos.json](./23618-rise-of-mythos.json) |
 | Rise of Nations | 848 | [848-rise-of-nations.json](./848-rise-of-nations.json) |
 | Rise of Nations: Extended Edition | 22344 | [22344-rise-of-nations-extended-edition.json](./22344-rise-of-nations-extended-edition.json) |
@@ -8615,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Your Life | 138476 | [138476-run-for-your-life.json](./138476-run-for-your-life.json) |
 | Run Forrest Run | 305912 | [305912-run-forrest-run.json](./305912-run-forrest-run.json) |
 | Run Foxy, Run! | 224543 | [224543-run-foxy-run.json](./224543-run-foxy-run.json) |
+| Run from Blablublas horror | 386543 | [386543-run-from-blablublas-horror.json](./386543-run-from-blablublas-horror.json) |
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
 | Run Gor | 270932 | [270932-run-gor.json](./270932-run-gor.json) |
