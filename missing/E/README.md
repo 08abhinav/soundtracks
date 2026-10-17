@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Aetheria | 27759 | [27759-echoes-of-aetheria.json](./27759-echoes-of-aetheria.json) |
 | Echoes of Agony | 387354 | [387354-echoes-of-agony.json](./387354-echoes-of-agony.json) |
 | Echoes of Aincrad | 393932 | [393932-echoes-of-aincrad.json](./393932-echoes-of-aincrad.json) |
+| Echoes of Aincrad: Genesis Maidens | 416126 | [416126-echoes-of-aincrad-genesis-maidens.json](./416126-echoes-of-aincrad-genesis-maidens.json) |
 | Echoes of Aincrad: Special Edition | 409589 | [409589-echoes-of-aincrad-special-edition.json](./409589-echoes-of-aincrad-special-edition.json) |
 | Echoes of Baikal | 387622 | [387622-echoes-of-baikal.json](./387622-echoes-of-baikal.json) |
 | Echoes Of Despair | 290494 | [290494-echoes-of-despair.json](./290494-echoes-of-despair.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Clicker | 309430 | [309430-emoji-clicker.json](./309430-emoji-clicker.json) |
 | Emoji Craft ! | 103503 | [103503-emoji-craft.json](./103503-emoji-craft.json) |
 | Emoji Face Jump! | 272206 | [272206-emoji-face-jump.json](./272206-emoji-face-jump.json) |
+| Emoji Janken RPG | 416017 | [416017-emoji-janken-rpg.json](./416017-emoji-janken-rpg.json) |
 | Emoji Match-3 Game | 103156 | [103156-emoji-match-3-game.json](./103156-emoji-match-3-game.json) |
 | Emoji Puzzle | 305416 | [305416-emoji-puzzle.json](./305416-emoji-puzzle.json) |
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
@@ -2445,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Space Project | 264651 | [264651-end-of-space-project.json](./264651-end-of-space-project.json) |
 | End of Starchild | 400374 | [400374-end-of-starchild.json](./400374-end-of-starchild.json) |
 | End of Summer | 210570 | [210570-end-of-summer.json](./210570-end-of-summer.json) |
+| End of Summer | 415852 | [415852-end-of-summer.json](./415852-end-of-summer.json) |
 | End of the Mine | 33283 | [33283-end-of-the-mine.json](./33283-end-of-the-mine.json) |
 | End of the Road VR | 43125 | [43125-end-of-the-road-vr.json](./43125-end-of-the-road-vr.json) |
 | End of the Skyline | 140499 | [140499-end-of-the-skyline.json](./140499-end-of-the-skyline.json) |
@@ -3276,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
+| Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
 | Eradicator | 8340 | [8340-eradicator.json](./8340-eradicator.json) |
@@ -5096,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exalted Seracthon | 235856 | [235856-exalted-seracthon.json](./235856-exalted-seracthon.json) |
 | ExAltered | 289412 | [289412-exaltered.json](./289412-exaltered.json) |
 | Exam | 364994 | [364994-exam.json](./364994-exam.json) |
+| Exam Simulator 2024 | 415998 | [415998-exam-simulator-2024.json](./415998-exam-simulator-2024.json) |
 | Examination Chambers | 182213 | [182213-examination-chambers.json](./182213-examination-chambers.json) |
 | Examination of Fear | 255665 | [255665-examination-of-fear.json](./255665-examination-of-fear.json) |
 | Example Block Game | 289018 | [289018-example-block-game.json](./289018-example-block-game.json) |
