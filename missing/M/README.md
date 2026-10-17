@@ -4417,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
+| Maze Art: Red | 387489 | [387489-maze-art-red.json](./387489-maze-art-red.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
 | Maze Blaze | 219287 | [219287-maze-blaze.json](./219287-maze-blaze.json) |
@@ -5910,6 +5911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
 | Mel The Cat | 375433 | [375433-mel-the-cat.json](./375433-mel-the-cat.json) |
 | Mel The Pyramid Cat | 401742 | [401742-mel-the-pyramid-cat.json](./401742-mel-the-pyramid-cat.json) |
+| Mel The Space Cat | 387482 | [387482-mel-the-space-cat.json](./387482-mel-the-space-cat.json) |
 | Mel-Practice | 402481 | [402481-mel-practice.json](./402481-mel-practice.json) |
 | Melancholia Maze | 366305 | [366305-melancholia-maze.json](./366305-melancholia-maze.json) |
 | Melancholic Dreamtower | 322727 | [322727-melancholic-dreamtower.json](./322727-melancholic-dreamtower.json) |
@@ -7454,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Football 2 | 94265 | [94265-microleague-football-2.json](./94265-microleague-football-2.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
+| MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
 | MicroMan | 24760 | [24760-microman.json](./24760-microman.json) |
 | MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
@@ -11318,6 +11321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
 | Monster Tower Quest | 234516 | [234516-monster-tower-quest.json](./234516-monster-tower-quest.json) |
+| Monster Train 2: Destiny of the Railforged | 387479 | [387479-monster-train-2-destiny-of-the-railforged.json](./387479-monster-train-2-destiny-of-the-railforged.json) |
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
@@ -12371,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
 | Mothman's Caravan | 357401 | [357401-mothmans-caravan.json](./357401-mothmans-caravan.json) |
 | Mothra Tamagotchi | 229847 | [229847-mothra-tamagotchi.json](./229847-mothra-tamagotchi.json) |
+| Moths | 387728 | [387728-moths.json](./387728-moths.json) |
 | Motian Chengwei Meimei | 403639 | [403639-motian-chengwei-meimei.json](./403639-motian-chengwei-meimei.json) |
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
