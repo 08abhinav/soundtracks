@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:20:41.654Z",
-  "total_soundtracks": 1974,
+  "generated_at": "2026-10-17T11:20:49.511Z",
+  "total_soundtracks": 1975,
   "games": [
     {
       "igdb_id": 7522,
@@ -2717,6 +2717,20 @@
           "spotify_url": "https://music.apple.com/us/album/%C3%BCbermensch-from-bleak-faith-forsaken-single/1570538934?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1570538934"
+        }
+      ]
+    },
+    {
+      "igdb_id": 119260,
+      "game_name": "Bleeding Edge",
+      "game_url": "https://ostdb.net/games/bleeding-edge",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273351eee714a7f4c2ff64d64d8",
+      "albums": [
+        {
+          "album_name": "Bleeding Edge (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
