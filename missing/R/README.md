@@ -6988,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Scarlet Contract Starter Pack | 406757 | [406757-rogue-company-scarlet-contract-starter-pack.json](./406757-rogue-company-scarlet-contract-starter-pack.json) |
 | Rogue Company: Season 1 | 403225 | [403225-rogue-company-season-1.json](./403225-rogue-company-season-1.json) |
 | Rogue Company: Season 14 - The Winter Warfare | 403214 | [403214-rogue-company-season-14-the-winter-warfare.json](./403214-rogue-company-season-14-the-winter-warfare.json) |
+| Rogue Company: Season 2 | 404140 | [404140-rogue-company-season-2.json](./404140-rogue-company-season-2.json) |
 | Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
 | Rogue Company: Season Three Starter Pack | 406821 | [406821-rogue-company-season-three-starter-pack.json](./406821-rogue-company-season-three-starter-pack.json) |
 | Rogue Company: Season Two Starter Pack | 406822 | [406822-rogue-company-season-two-starter-pack.json](./406822-rogue-company-season-two-starter-pack.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogues of Titan | 366346 | [366346-rogues-of-titan.json](./366346-rogues-of-titan.json) |
 | Rogues' Tales | 174779 | [174779-rogues-tales.json](./174779-rogues-tales.json) |
 | Roguescape | 131936 | [131936-roguescape.json](./131936-roguescape.json) |
+| RogueScape | 404080 | [404080-roguescape.json](./404080-roguescape.json) |
 | Roguesphere | 297227 | [297227-roguesphere.json](./297227-roguesphere.json) |
 | Roguestorm Beats | 416651 | [416651-roguestorm-beats.json](./416651-roguestorm-beats.json) |
 | Roguesweeper | 389126 | [389126-roguesweeper.json](./389126-roguesweeper.json) |
@@ -7683,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
+| Roomrush Racer | 404166 | [404166-roomrush-racer.json](./404166-roomrush-racer.json) |
 | Rooms | 265556 | [265556-rooms.json](./265556-rooms.json) |
 | Rooms | 388930 | [388930-rooms.json](./388930-rooms.json) |
 | Rooms of Dread | 232027 | [232027-rooms-of-dread.json](./232027-rooms-of-dread.json) |
