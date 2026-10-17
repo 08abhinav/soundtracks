@@ -7703,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
+| DK64: Rekongpiled | 408549 | [408549-dk64-rekongpiled.json](./408549-dk64-rekongpiled.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
 | DKC X Mario | 309141 | [309141-dkc-x-mario.json](./309141-dkc-x-mario.json) |
 | DKDC: Donkey Kong Distortion Country | 162830 | [162830-dkdc-donkey-kong-distortion-country.json](./162830-dkdc-donkey-kong-distortion-country.json) |
@@ -7847,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Ku: The Kitchen | 315099 | [315099-doctor-ku-the-kitchen.json](./315099-doctor-ku-the-kitchen.json) |
 | Doctor Kvorak's Obliteration Game | 18368 | [18368-doctor-kvoraks-obliteration-game.json](./18368-doctor-kvoraks-obliteration-game.json) |
 | Doctor Life Simulator | 344001 | [344001-doctor-life-simulator.json](./344001-doctor-life-simulator.json) |
+| Doctor Lind | 408501 | [408501-doctor-lind.json](./408501-doctor-lind.json) |
 | Doctor Nanobot | 207530 | [207530-doctor-nanobot.json](./207530-doctor-nanobot.json) |
 | Doctor Pigeon Simulator | 407360 | [407360-doctor-pigeon-simulator.json](./407360-doctor-pigeon-simulator.json) |
 | Doctor Plague | 416823 | [416823-doctor-plague.json](./416823-doctor-plague.json) |
@@ -10876,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadEye VR | 75167 | [75167-dreadeye-vr.json](./75167-dreadeye-vr.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
+| Dreadful 5th Floor | 408497 | [408497-dreadful-5th-floor.json](./408497-dreadful-5th-floor.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
 | Dreadful Tales: The Space Between - Collector's Edition | 182252 | [182252-dreadful-tales-the-space-between-collectors-edition.json](./182252-dreadful-tales-the-space-between-collectors-edition.json) |
