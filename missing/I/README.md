@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Racing GO: Car Clicker Tycoon | 113604 | [113604-idle-racing-go-car-clicker-tycoon.json](./113604-idle-racing-go-car-clicker-tycoon.json) |
 | Idle Raid | 147245 | [147245-idle-raid.json](./147245-idle-raid.json) |
 | Idle Raiders: Second Run | 423291 | [423291-idle-raiders-second-run.json](./423291-idle-raiders-second-run.json) |
+| Idle Rat: Island Digger | 390562 | [390562-idle-rat-island-digger.json](./390562-idle-rat-island-digger.json) |
 | Idle Realms: The Eternal Spire | 403657 | [403657-idle-realms-the-eternal-spire.json](./403657-idle-realms-the-eternal-spire.json) |
 | Idle Regenerator | 408041 | [408041-idle-regenerator.json](./408041-idle-regenerator.json) |
 | Idle Robot: Build Your Own Mecha | 199940 | [199940-idle-robot-build-your-own-mecha.json](./199940-idle-robot-build-your-own-mecha.json) |
