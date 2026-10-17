@@ -11269,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
+| Dreampedia | 402368 | [402368-dreampedia.json](./402368-dreampedia.json) |
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
