@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
+| Neon Fantasy: Fairies | 387754 | [387754-neon-fantasy-fairies.json](./387754-neon-fantasy-fairies.json) |
 | Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
 | Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
 | Neon Fantasy: Owls | 395785 | [395785-neon-fantasy-owls.json](./395785-neon-fantasy-owls.json) |
@@ -2483,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yatterman: Nandai Kandai Yajirobee | 37908 | [37908-new-yatterman-nandai-kandai-yajirobee.json](./37908-new-yatterman-nandai-kandai-yajirobee.json) |
 | New Year Break | 239726 | [239726-new-year-break.json](./239726-new-year-break.json) |
 | New Year Girls | 191085 | [191085-new-year-girls.json](./191085-new-year-girls.json) |
+| New Year Home | 387753 | [387753-new-year-home.json](./387753-new-year-home.json) |
 | New Year Simulator 2025 | 326390 | [326390-new-year-simulator-2025.json](./326390-new-year-simulator-2025.json) |
 | New Year, New Nanos | 302613 | [302613-new-year-new-nanos.json](./302613-new-year-new-nanos.json) |
 | New Year's Eve 2020 | 127187 | [127187-new-years-eve-2020.json](./127187-new-years-eve-2020.json) |
