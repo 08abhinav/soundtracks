@@ -7705,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
+| Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
 | Antix | 15597 | [15597-antix.json](./15597-antix.json) |
 | Antixonix | 140493 | [140493-antixonix.json](./140493-antixonix.json) |
 | Antiyoy | 25554 | [25554-antiyoy.json](./25554-antiyoy.json) |
@@ -11766,6 +11767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
+| Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
 | Attack of the Earthlings | 36972 | [36972-attack-of-the-earthlings.json](./36972-attack-of-the-earthlings.json) |
