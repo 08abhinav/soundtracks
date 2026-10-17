@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reporter | 105975 | [105975-reporter.json](./105975-reporter.json) |
 | Reporter 2 | 123393 | [123393-reporter-2.json](./123393-reporter-2.json) |
 | Repose | 272831 | [272831-repose.json](./272831-repose.json) |
+| Repose: Deluxe Edition | 380148 | [380148-repose-deluxe-edition.json](./380148-repose-deluxe-edition.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
@@ -6279,6 +6280,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop 3 | 12749 | [12749-robocop-3.json](./12749-robocop-3.json) |
 | RoboCop 3 | 19695 | [19695-robocop-3.json](./19695-robocop-3.json) |
 | RoboCop 3 | 25167 | [25167-robocop-3.json](./25167-robocop-3.json) |
+| RoboCop 3 | 380155 | [380155-robocop-3.json](./380155-robocop-3.json) |
+| RoboCop 3 | 380156 | [380156-robocop-3.json](./380156-robocop-3.json) |
+| RoboCop 3 | 380168 | [380168-robocop-3.json](./380168-robocop-3.json) |
 | Robocop 3D | 98878 | [98878-robocop-3d.json](./98878-robocop-3d.json) |
 | RoboCop Doom | 196020 | [196020-robocop-doom.json](./196020-robocop-doom.json) |
 | RoboCop Versus the Terminator | 288341 | [288341-robocop-versus-the-terminator.json](./288341-robocop-versus-the-terminator.json) |
