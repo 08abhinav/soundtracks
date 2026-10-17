@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
 | Medchess | 240781 | [240781-medchess.json](./240781-medchess.json) |
 | MedCorps | 58758 | [58758-medcorps.json](./58758-medcorps.json) |
+| Medetashi Medetashi | 374373 | [374373-medetashi-medetashi.json](./374373-medetashi-medetashi.json) |
 | Medevac Hero | 104519 | [104519-medevac-hero.json](./104519-medevac-hero.json) |
 | MedEvil | 262289 | [262289-medevil.json](./262289-medevil.json) |
 | Medford Asylum: Paranormal Case | 122101 | [122101-medford-asylum-paranormal-case.json](./122101-medford-asylum-paranormal-case.json) |
