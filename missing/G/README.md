@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Croquet | 32751 | [32751-ghost-croquet.json](./32751-ghost-croquet.json) |
 | Ghost Deliverer | 350393 | [350393-ghost-deliverer.json](./350393-ghost-deliverer.json) |
 | Ghost Dimension | 126403 | [126403-ghost-dimension.json](./126403-ghost-dimension.json) |
+| Ghost Dragon III | 384304 | [384304-ghost-dragon-iii.json](./384304-ghost-dragon-iii.json) |
 | Ghost Eater | 278997 | [278997-ghost-eater.json](./278997-ghost-eater.json) |
 | Ghost Encounters | 59453 | [59453-ghost-encounters.json](./59453-ghost-encounters.json) |
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
