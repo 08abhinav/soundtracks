@@ -5431,7 +5431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
-| Ring of Pain | 115036 | [115036-ring-of-pain.json](./115036-ring-of-pain.json) |
 | Ring of Red | 22010 | [22010-ring-of-red.json](./22010-ring-of-red.json) |
 | Ring of The Devil | 285935 | [285935-ring-of-the-devil.json](./285935-ring-of-the-devil.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
