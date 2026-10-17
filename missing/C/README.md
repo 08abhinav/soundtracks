@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Crown | 318119 | [318119-celestial-crown.json](./318119-celestial-crown.json) |
 | Celestial Crusade | 122983 | [122983-celestial-crusade.json](./122983-celestial-crusade.json) |
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
+| Celestial Fall | 376224 | [376224-celestial-fall.json](./376224-celestial-fall.json) |
 | Celestial Fate | 208083 | [208083-celestial-fate.json](./208083-celestial-fate.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
@@ -10441,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cortex Chronicles 3: The Escape of Rowan Reed | 290989 | [290989-cortex-chronicles-3-the-escape-of-rowan-reed.json](./290989-cortex-chronicles-3-the-escape-of-rowan-reed.json) |
 | Cortex Chronicles 6: The Infiltration of Nyx Sterling | 290986 | [290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json](./290986-cortex-chronicles-6-the-infiltration-of-nyx-sterling.json) |
 | Cortex Command | 10428 | [10428-cortex-command.json](./10428-cortex-command.json) |
+| Cortex Command 3D | 376210 | [376210-cortex-command-3d.json](./376210-cortex-command-3d.json) |
 | Cortex Protocol | 99689 | [99689-cortex-protocol.json](./99689-cortex-protocol.json) |
 | Corum II: Dark Lord | 146209 | [146209-corum-ii-dark-lord.json](./146209-corum-ii-dark-lord.json) |
 | Corum III: Chaotic Magic | 146210 | [146210-corum-iii-chaotic-magic.json](./146210-corum-iii-chaotic-magic.json) |
