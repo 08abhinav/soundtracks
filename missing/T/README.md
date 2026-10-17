@@ -1951,6 +1951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Planet | 73305 | [73305-tasty-planet.json](./73305-tasty-planet.json) |
 | Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
+| Tasty Planet: Final Bite | 384906 | [384906-tasty-planet-final-bite.json](./384906-tasty-planet-final-bite.json) |
 | Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
@@ -3146,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal 81R | 339409 | [339409-terminal-81r.json](./339409-terminal-81r.json) |
 | Terminal Bore | 333025 | [333025-terminal-bore.json](./333025-terminal-bore.json) |
 | Terminal Breach | 217394 | [217394-terminal-breach.json](./217394-terminal-breach.json) |
+| Terminal Breach: Final Dawn | 384902 | [384902-terminal-breach-final-dawn.json](./384902-terminal-breach-final-dawn.json) |
 | Terminal City | 314463 | [314463-terminal-city.json](./314463-terminal-city.json) |
 | Terminal Compression | 331969 | [331969-terminal-compression.json](./331969-terminal-compression.json) |
 | Terminal Conflict | 112417 | [112417-terminal-conflict.json](./112417-terminal-conflict.json) |
@@ -6934,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forlorn | 415163 | [415163-the-forlorn.json](./415163-the-forlorn.json) |
 | The Forsaken Anthology: Obsession | 395262 | [395262-the-forsaken-anthology-obsession.json](./395262-the-forsaken-anthology-obsession.json) |
 | The Forsaken Ruins | 157911 | [157911-the-forsaken-ruins.json](./157911-the-forsaken-ruins.json) |
+| The Forsaken Tomb | 384820 | [384820-the-forsaken-tomb.json](./384820-the-forsaken-tomb.json) |
 | The Fortress | 346730 | [346730-the-fortress.json](./346730-the-fortress.json) |
 | The Fortune Teller Game | 342178 | [342178-the-fortune-teller-game.json](./342178-the-fortune-teller-game.json) |
 | The Found Magic | 386426 | [386426-the-found-magic.json](./386426-the-found-magic.json) |
@@ -14436,6 +14439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Who Remain | 83848 | [83848-those-who-remain.json](./83848-those-who-remain.json) |
 | Those Who Rule | 211226 | [211226-those-who-rule.json](./211226-those-who-rule.json) |
 | Those Who Rule II | 394374 | [394374-those-who-rule-ii.json](./394374-those-who-rule-ii.json) |
+| Thot on Trial | 384879 | [384879-thot-on-trial.json](./384879-thot-on-trial.json) |
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
 | Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
 | Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
@@ -14480,6 +14484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
 | Three Finger Battle Arena | 192965 | [192965-three-finger-battle-arena.json](./192965-three-finger-battle-arena.json) |
+| Three Forbidden Books: Eins | 384896 | [384896-three-forbidden-books-eins.json](./384896-three-forbidden-books-eins.json) |
 | Three Foreign Sisters!! | 379352 | [379352-three-foreign-sisters.json](./379352-three-foreign-sisters.json) |
 | Three Fourths Home: Extended Edition | 20957 | [20957-three-fourths-home-extended-edition.json](./20957-three-fourths-home-extended-edition.json) |
 | Three Fourths Home: Extended Edition - Deluxe | 213581 | [213581-three-fourths-home-extended-edition-deluxe.json](./213581-three-fourths-home-extended-edition-deluxe.json) |
@@ -14564,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrice in a row: A new adventure | 153529 | [153529-thrice-in-a-row-a-new-adventure.json](./153529-thrice-in-a-row-a-new-adventure.json) |
 | Thrice in a row: Last Adventure | 213419 | [213419-thrice-in-a-row-last-adventure.json](./213419-thrice-in-a-row-last-adventure.json) |
 | Thrift Store Treasure: Hidden Objects | 417510 | [417510-thrift-store-treasure-hidden-objects.json](./417510-thrift-store-treasure-hidden-objects.json) |
+| Thriftgirl | 384818 | [384818-thriftgirl.json](./384818-thriftgirl.json) |
 | Thrill Drill | 391109 | [391109-thrill-drill.json](./391109-thrill-drill.json) |
 | Thrill Penguin | 204332 | [204332-thrill-penguin.json](./204332-thrill-penguin.json) |
 | Thrill Rush | 103400 | [103400-thrill-rush.json](./103400-thrill-rush.json) |
