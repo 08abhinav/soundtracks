@@ -11613,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy in Sonic 2 | 360099 | [360099-bubsy-in-sonic-2.json](./360099-bubsy-in-sonic-2.json) |
 | Bubsy In: The Purrfect Collection | 306587 | [306587-bubsy-in-the-purrfect-collection.json](./306587-bubsy-in-the-purrfect-collection.json) |
 | Bubsy Two-Fur | 33965 | [33965-bubsy-two-fur.json](./33965-bubsy-two-fur.json) |
+| Bubsy: Less Bad Edition | 393941 | [393941-bubsy-less-bad-edition.json](./393941-bubsy-less-bad-edition.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
