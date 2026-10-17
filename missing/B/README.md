@@ -4143,6 +4143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
 | Beer Gunner | 399251 | [399251-beer-gunner.json](./399251-beer-gunner.json) |
+| Beer Manufacture Simulator | 373268 | [373268-beer-manufacture-simulator.json](./373268-beer-manufacture-simulator.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong League | 111342 | [111342-beer-pong-league.json](./111342-beer-pong-league.json) |
 | Beer Pong VR | 88194 | [88194-beer-pong-vr.json](./88194-beer-pong-vr.json) |
@@ -5560,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilson | 356019 | [356019-bilson.json](./356019-bilson.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
 | Biluo Story | 111674 | [111674-biluo-story.json](./111674-biluo-story.json) |
+| Bily'Sine | 373264 | [373264-bilysine.json](./373264-bilysine.json) |
 | Bima-X | 60056 | [60056-bima-x.json](./60056-bima-x.json) |
 | BimbleBorn | 105116 | [105116-bimbleborn.json](./105116-bimbleborn.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
@@ -9118,6 +9120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
 | Boobsle | 284269 | [284269-boobsle.json](./284269-boobsle.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
+| BoobyRogue: Tumor Takedown | 373295 | [373295-boobyrogue-tumor-takedown.json](./373295-boobyrogue-tumor-takedown.json) |
 | Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
 | Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
@@ -10722,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout Money | 108624 | [108624-breakout-money.json](./108624-breakout-money.json) |
 | Breakout Planet | 153368 | [153368-breakout-planet.json](./153368-breakout-planet.json) |
 | Breakout Poetry | 135611 | [135611-breakout-poetry.json](./135611-breakout-poetry.json) |
+| Breakout Season | 373300 | [373300-breakout-season.json](./373300-breakout-season.json) |
 | Breakout VR | 166803 | [166803-breakout-vr.json](./166803-breakout-vr.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
