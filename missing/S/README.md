@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | See-Through Jewels | 182220 | [182220-see-through-jewels.json](./182220-see-through-jewels.json) |
 | Seeb Defender | 244777 | [244777-seeb-defender.json](./244777-seeb-defender.json) |
 | Seed | 36953 | [36953-seed.json](./36953-seed.json) |
+| Seed | 383792 | [383792-seed.json](./383792-seed.json) |
 | Seed | 403825 | [403825-seed.json](./403825-seed.json) |
 | Seed 2313 | 359604 | [359604-seed-2313.json](./359604-seed-2313.json) |
 | Seed In | 266787 | [266787-seed-in.json](./266787-seed-in.json) |
@@ -9394,6 +9395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slender: The Arrival | 265723 | [265723-slender-the-arrival.json](./265723-slender-the-arrival.json) |
 | Slender: The Arrival VR | 302594 | [302594-slender-the-arrival-vr.json](./302594-slender-the-arrival-vr.json) |
 | Slender: The Eight Pages | 12938 | [12938-slender-the-eight-pages.json](./12938-slender-the-eight-pages.json) |
+| Slender: The Eight Pages - Tiger Electronic Version | 383760 | [383760-slender-the-eight-pages-tiger-electronic-version.json](./383760-slender-the-eight-pages-tiger-electronic-version.json) |
 | Slender: Visit into the Woods | 236922 | [236922-slender-visit-into-the-woods.json](./236922-slender-visit-into-the-woods.json) |
 | Slenderman | 152491 | [152491-slenderman.json](./152491-slenderman.json) |
 | Slenderman History: WWII Faceless Horror | 321165 | [321165-slenderman-history-wwii-faceless-horror.json](./321165-slenderman-history-wwii-faceless-horror.json) |
@@ -11298,6 +11300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
 | Soggy Froggy | 417431 | [417431-soggy-froggy.json](./417431-soggy-froggy.json) |
+| Soglia | 383748 | [383748-soglia.json](./383748-soglia.json) |
 | Sogo Vego | 161353 | [161353-sogo-vego.json](./161353-sogo-vego.json) |
 | Sohee | 355020 | [355020-sohee.json](./355020-sohee.json) |
 | Soi Kano: Gyutto Dakishimete | 98376 | [98376-soi-kano-gyutto-dakishimete.json](./98376-soi-kano-gyutto-dakishimete.json) |
@@ -11950,6 +11953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonar | 418276 | [418276-sonar.json](./418276-sonar.json) |
 | Sonar Beat | 113841 | [113841-sonar-beat.json](./113841-sonar-beat.json) |
 | Sonata | 271137 | [271137-sonata.json](./271137-sonata.json) |
+| Sonata | 383787 | [383787-sonata.json](./383787-sonata.json) |
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
@@ -12899,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Karada no Naka no Daibouken | 230278 | [230278-soreike-anpanman-karada-no-naka-no-daibouken.json](./230278-soreike-anpanman-karada-no-naka-no-daibouken.json) |
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
+| Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
@@ -22889,6 +22894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
 | Super Monkey Ball: Tip 'n Tilt | 336925 | [336925-super-monkey-ball-tip-n-tilt.json](./336925-super-monkey-ball-tip-n-tilt.json) |
+| Super Monkey Disco Ball | 383780 | [383780-super-monkey-disco-ball.json](./383780-super-monkey-disco-ball.json) |
 | Super Monkie Bounce Fatal | 252809 | [252809-super-monkie-bounce-fatal.json](./252809-super-monkie-bounce-fatal.json) |
 | Super Monster | 101108 | [101108-super-monster.json](./101108-super-monster.json) |
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
@@ -25446,6 +25452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synchrobeatings | 333707 | [333707-synchrobeatings.json](./333707-synchrobeatings.json) |
 | Synchrom | 34710 | [34710-synchrom.json](./34710-synchrom.json) |
 | Synchronicity | 223400 | [223400-synchronicity.json](./223400-synchronicity.json) |
+| Synchronite_Drive1 | 383744 | [383744-synchronite-drive1.json](./383744-synchronite-drive1.json) |
 | Synchronity | 381116 | [381116-synchronity.json](./381116-synchronity.json) |
 | Synchronizacja | 187539 | [187539-synchronizacja.json](./187539-synchronizacja.json) |
 | Synchronizers: Undead Marines | 154373 | [154373-synchronizers-undead-marines.json](./154373-synchronizers-undead-marines.json) |
