@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
 | Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
+| Hatsune Miku: Project DIVA Future Tone Season Pass | 372751 | [372751-hatsune-miku-project-diva-future-tone-season-pass.json](./372751-hatsune-miku-project-diva-future-tone-season-pass.json) |
 | Hatsune Miku: Project Diva Mega Mix | 120278 | [120278-hatsune-miku-project-diva-mega-mix.json](./120278-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Project Diva Mega Mix+ | 202864 | [202864-hatsune-miku-project-diva-mega-mix.json](./202864-hatsune-miku-project-diva-mega-mix.json) |
@@ -6496,6 +6497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeless Guy | 258733 | [258733-homeless-guy.json](./258733-homeless-guy.json) |
 | Homeless Guy: Fight in Heaven | 199962 | [199962-homeless-guy-fight-in-heaven.json](./199962-homeless-guy-fight-in-heaven.json) |
 | Homeless Life | 248162 | [248162-homeless-life.json](./248162-homeless-life.json) |
+| Homeless Life Simulator | 372744 | [372744-homeless-life-simulator.json](./372744-homeless-life-simulator.json) |
 | Homeless Pigeon | 177321 | [177321-homeless-pigeon.json](./177321-homeless-pigeon.json) |
 | Homeless Simulator 2 | 118416 | [118416-homeless-simulator-2.json](./118416-homeless-simulator-2.json) |
 | Homelessvania | 362999 | [362999-homelessvania.json](./362999-homelessvania.json) |
@@ -6951,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
+| Horde of Viscount | 372780 | [372780-horde-of-viscount.json](./372780-horde-of-viscount.json) |
 | Horde Reapers | 418616 | [418616-horde-reapers.json](./418616-horde-reapers.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
 | Horde Survival Bundle Xbox: Andromeda Survivors, Beyond Border, Farmer Survivors, Primal Survivors, Shield King | 333692 | [333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json](./333692-horde-survival-bundle-xbox-andromeda-survivors-beyond-border-farmer-survivors-primal-survivors-shield-king.json) |
