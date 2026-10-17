@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
 | S.U.M. Slay Uncool Monsters: Rogue | 168251 | [168251-s-u-m-slay-uncool-monsters-rogue.json](./168251-s-u-m-slay-uncool-monsters-rogue.json) |
 | S.U.M. Slay Uncool Monsters: Wizard | 168249 | [168249-s-u-m-slay-uncool-monsters-wizard.json](./168249-s-u-m-slay-uncool-monsters-wizard.json) |
+| S.U.S | 391638 | [391638-s-u-s.json](./391638-s-u-s.json) |
 | S.W.I.N.E. | 51224 | [51224-s-w-i-n-e.json](./51224-s-w-i-n-e.json) |
 | S.X.E. Slider | 298247 | [298247-s-x-e-slider.json](./298247-s-x-e-slider.json) |
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP-479: Shadows of the Mind | 264638 | [264638-scp-479-shadows-of-the-mind.json](./264638-scp-479-shadows-of-the-mind.json) |
 | SCP-847 | 415490 | [415490-scp-847.json](./415490-scp-847.json) |
 | SCP-9735-Alpha: Arch1tect | 291883 | [291883-scp-9735-alpha-arch1tect.json](./291883-scp-9735-alpha-arch1tect.json) |
+| SCP-9779-JP | 391645 | [391645-scp-9779-jp.json](./391645-scp-9779-jp.json) |
 | SCP-D38813 | 291024 | [291024-scp-d38813.json](./291024-scp-d38813.json) |
 | SCP: A Star Replicator | 320555 | [320555-scp-a-star-replicator.json](./320555-scp-a-star-replicator.json) |
 | SCP: Blackout | 111246 | [111246-scp-blackout.json](./111246-scp-blackout.json) |
@@ -17470,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wolves 3: Ashes of Victory | 65847 | [65847-star-wolves-3-ashes-of-victory.json](./65847-star-wolves-3-ashes-of-victory.json) |
 | Star Wolves 3: Civil War | 9851 | [9851-star-wolves-3-civil-war.json](./9851-star-wolves-3-civil-war.json) |
 | Star Word | 318784 | [318784-star-word.json](./318784-star-word.json) |
+| Star Wrath | 391648 | [391648-star-wrath.json](./391648-star-wrath.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
@@ -24558,6 +24561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
+| Swarm Survivor: Endless Siege | 391630 | [391630-swarm-survivor-endless-siege.json](./391630-swarm-survivor-endless-siege.json) |
 | Swarm Sweeper | 351604 | [351604-swarm-sweeper.json](./351604-swarm-sweeper.json) |
 | Swarm the City | 152391 | [152391-swarm-the-city.json](./152391-swarm-the-city.json) |
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
