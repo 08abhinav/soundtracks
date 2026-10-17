@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:10:32.838Z",
-  "total_soundtracks": 1967,
+  "generated_at": "2026-10-17T11:10:41.122Z",
+  "total_soundtracks": 1968,
   "games": [
     {
       "igdb_id": 7522,
@@ -4295,6 +4295,20 @@
           "spotify_url": "https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE",
           "apple_music_url": "https://music.apple.com/us/album/cult-of-the-lamb-original-soundtrack/1636653441",
           "album_link_url": "https://album.link/i/1636653441"
+        }
+      ]
+    },
+    {
+      "igdb_id": 164944,
+      "game_name": "Cultic",
+      "game_url": "https://ostdb.net/games/cultic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27375e1213acceab8bd16d30477",
+      "albums": [
+        {
+          "album_name": "Cultic (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7frjI72EG22KrQaO2VrLJ6",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
