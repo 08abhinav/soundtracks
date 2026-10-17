@@ -5950,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
+| The Doll Museum | 410736 | [410736-the-doll-museum.json](./410736-the-doll-museum.json) |
 | The Doll Shop | 123627 | [123627-the-doll-shop.json](./123627-the-doll-shop.json) |
 | The Dollar Game | 108216 | [108216-the-dollar-game.json](./108216-the-dollar-game.json) |
 | The Dollmaker | 272919 | [272919-the-dollmaker.json](./272919-the-dollmaker.json) |
@@ -11383,6 +11384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sensational December Machine | 321623 | [321623-the-sensational-december-machine.json](./321623-the-sensational-december-machine.json) |
 | The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
+| The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
 | The Sentinel Remake | 212230 | [212230-the-sentinel-remake.json](./212230-the-sentinel-remake.json) |
 | The Sentinels | 395897 | [395897-the-sentinels.json](./395897-the-sentinels.json) |
