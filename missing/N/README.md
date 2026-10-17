@@ -5314,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null Vector | 55710 | [55710-null-vector.json](./55710-null-vector.json) |
 | Null: Remastered | 392719 | [392719-null-remastered.json](./392719-null-remastered.json) |
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
+| Nulla Via | 390023 | [390023-nulla-via.json](./390023-nulla-via.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
