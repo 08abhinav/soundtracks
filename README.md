@@ -1043,6 +1043,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273ade80ad0c73719af019b5366" width="60" /> | [Planet Alpha](https://ostdb.net/games/planet-alpha) | **Planet Alpha (Original Video Game Music)** · [Spotify](https://open.spotify.com/album/0MUfSsNWsEDyg0LhnoYrxx) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfd7a8e82ed47b83fb964bc9" width="60" /> | [Planet Crafter](https://ostdb.net/games/planet-crafter) | **Planet Crafter (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0ezBrNnZWMzAMCYzpf9AOo) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318a99659889fc1c53318b652" width="60" /> | [Planet of Lana](https://ostdb.net/games/planet-of-lana) | **Planet of Lana (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/26vBjTqpavqsGycyHgr3ux) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a9874339f1612ad2c7b7e46d" width="60" /> | [Planetary Annihilation](https://ostdb.net/games/planetary-annihilation) | **Planetary Annihilation (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1EIoHkIn6APxZF5ID1TvOq) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27318c402a39b082e7a7ba82d41" width="60" /> | [Planetbase](https://ostdb.net/games/planetbase) | **Planetbase (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6G4IJ2ngsYOHM2QvmO0Bs8) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273486983be2d3af3d6d09d20d4" width="60" /> | [Plants vs. Zombies](https://ostdb.net/games/plants-vs-zombies) | **Plants Vs. Zombies (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f2343492aaf8a1fddda99a81" width="60" /> | [Playboy: The Mansion](https://ostdb.net/games/playboy-the-mansion) | **PLAYBOY: The Mansion Soundtrack- Mixed By Felix da Housecat** · [Spotify](https://open.spotify.com/album/3dlg0F9FTXCV408qqcKpYU) |
@@ -1679,4 +1680,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_1996 soundtracks · last updated 2026-10-17T11:40:34.129Z_
+_1997 soundtracks · last updated 2026-10-17T11:40:41.992Z_
