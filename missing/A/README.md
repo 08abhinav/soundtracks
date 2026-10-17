@@ -522,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mallard's Song | 282087 | [282087-a-mallards-song.json](./282087-a-mallards-song.json) |
 | A Man with a Monocle | 25005 | [25005-a-man-with-a-monocle.json](./25005-a-man-with-a-monocle.json) |
 | A Mansão | 342221 | [342221-a-mansao.json](./342221-a-mansao.json) |
+| A Mansion on the Hill | 397618 | [397618-a-mansion-on-the-hill.json](./397618-a-mansion-on-the-hill.json) |
 | A Mars Journey: Redturtle | 109394 | [109394-a-mars-journey-redturtle.json](./109394-a-mars-journey-redturtle.json) |
 | A Mask's Tale | 306997 | [306997-a-masks-tale.json](./306997-a-masks-tale.json) |
 | A Mass of Dead | 16924 | [16924-a-mass-of-dead.json](./16924-a-mass-of-dead.json) |
@@ -2680,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroStrike | 379495 | [379495-aerostrike.json](./379495-aerostrike.json) |
 | Aerotopia | 379496 | [379496-aerotopia.json](./379496-aerotopia.json) |
 | Aerovice Frutiger World | 411785 | [411785-aerovice-frutiger-world.json](./411785-aerovice-frutiger-world.json) |
+| AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
@@ -7194,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
 | Anna Girl | 284270 | [284270-anna-girl.json](./284270-anna-girl.json) |
 | Anna Kournikova's Smash Court Tennis | 18666 | [18666-anna-kournikovas-smash-court-tennis.json](./18666-anna-kournikovas-smash-court-tennis.json) |
+| Anna Redux | 397638 | [397638-anna-redux.json](./397638-anna-redux.json) |
 | Anna vs. Sentimental Fighter | 330933 | [330933-anna-vs-sentimental-fighter.json](./330933-anna-vs-sentimental-fighter.json) |
 | Anna-san-tachi no Fushigi no Meikyuu | 208405 | [208405-anna-san-tachi-no-fushigi-no-meikyuu.json](./208405-anna-san-tachi-no-fushigi-no-meikyuu.json) |
 | Anna: The Magic of Words | 210701 | [210701-anna-the-magic-of-words.json](./210701-anna-the-magic-of-words.json) |
@@ -7325,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
+| Anode Heart: Tenelon | 397589 | [397589-anode-heart-tenelon.json](./397589-anode-heart-tenelon.json) |
 | Anodos | 211398 | [211398-anodos.json](./211398-anodos.json) |
 | Anodyne 2: Return to Dust | 104890 | [104890-anodyne-2-return-to-dust.json](./104890-anodyne-2-return-to-dust.json) |
 | Anodyne Mobile | 108454 | [108454-anodyne-mobile.json](./108454-anodyne-mobile.json) |
@@ -9123,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Adventures: Polar's Puzzles | 118931 | [118931-arctic-adventures-polars-puzzles.json](./118931-arctic-adventures-polars-puzzles.json) |
 | Arctic alive | 33647 | [33647-arctic-alive.json](./33647-arctic-alive.json) |
 | Arctic Anxiety | 151499 | [151499-arctic-anxiety.json](./151499-arctic-anxiety.json) |
+| Arctic Blue | 397588 | [397588-arctic-blue.json](./397588-arctic-blue.json) |
 | Arctic Cat Snowmobile Racing | 234499 | [234499-arctic-cat-snowmobile-racing.json](./234499-arctic-cat-snowmobile-racing.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
@@ -10004,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
 | Artania | 54998 | [54998-artania.json](./54998-artania.json) |
 | ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
+| Artdink Game Log: Aquanaut’s Holiday | 397629 | [397629-artdink-game-log-aquanaut-s-holiday.json](./397629-artdink-game-log-aquanaut-s-holiday.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
 | Artelius | 68893 | [68893-artelius.json](./68893-artelius.json) |
 | Artemis | 185542 | [185542-artemis.json](./185542-artemis.json) |
