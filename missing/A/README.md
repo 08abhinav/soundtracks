@@ -10204,7 +10204,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Dreams | 14170 | [14170-artificial-dreams.json](./14170-artificial-dreams.json) |
 | Artificial Entanglement | 192768 | [192768-artificial-entanglement.json](./192768-artificial-entanglement.json) |
 | Artificial Extinction 2 | 216470 | [216470-artificial-extinction-2.json](./216470-artificial-extinction-2.json) |
+| Artificial Fashionista: Autumn Collection | 363693 | [363693-artificial-fashionista-autumn-collection.json](./363693-artificial-fashionista-autumn-collection.json) |
+| Artificial Fashionista: Extra Collection | 363691 | [363691-artificial-fashionista-extra-collection.json](./363691-artificial-fashionista-extra-collection.json) |
+| Artificial Fashionista: Spring Collection | 363692 | [363692-artificial-fashionista-spring-collection.json](./363692-artificial-fashionista-spring-collection.json) |
 | Artificial Fashionista: Summer Collection | 336694 | [336694-artificial-fashionista-summer-collection.json](./336694-artificial-fashionista-summer-collection.json) |
+| Artificial Fashionista: Winter Collection | 363684 | [363684-artificial-fashionista-winter-collection.json](./363684-artificial-fashionista-winter-collection.json) |
 | Artificial Fright | 253451 | [253451-artificial-fright.json](./253451-artificial-fright.json) |
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 2 | 19808 | [19808-artificial-girl-2.json](./19808-artificial-girl-2.json) |
