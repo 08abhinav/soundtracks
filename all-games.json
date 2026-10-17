@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:21:27.740Z",
-  "total_soundtracks": 2061,
+  "generated_at": "2026-10-17T15:21:35.261Z",
+  "total_soundtracks": 2062,
   "games": [
     {
       "igdb_id": 7522,
@@ -11612,6 +11612,20 @@
           "album_name": "L.A. Noire Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 59849,
+      "game_name": "L.A. Noire",
+      "game_url": "https://ostdb.net/games/l-a-noire",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1331a928ac09ac850ac6754",
+      "albums": [
+        {
+          "album_name": "L.A. Noire Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
