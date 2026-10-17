@@ -5179,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Race | 300923 | [300923-ping-race.json](./300923-ping-race.json) |
 | Ping Redux | 119797 | [119797-ping-redux.json](./119797-ping-redux.json) |
 | Ping Time | 68541 | [68541-ping-time.json](./68541-ping-time.json) |
+| Ping! | 376817 | [376817-ping.json](./376817-ping.json) |
 | Ping! | 79906 | [79906-ping.json](./79906-ping.json) |
 | Pinga Ponga | 31850 | [31850-pinga-ponga.json](./31850-pinga-ponga.json) |
 | PingBall | 28690 | [28690-pingball.json](./28690-pingball.json) |
