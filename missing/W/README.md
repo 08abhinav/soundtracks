@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
+| Welt der Wunder: Eine Insel in Gefahr | 401850 | [401850-welt-der-wunder-eine-insel-in-gefahr.json](./401850-welt-der-wunder-eine-insel-in-gefahr.json) |
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
 | Wembley International Soccer | 38839 | [38839-wembley-international-soccer.json](./38839-wembley-international-soccer.json) |
@@ -4119,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Angels | 247991 | [247991-wings-of-angels.json](./247991-wings-of-angels.json) |
 | Wings of Aviora | 390085 | [390085-wings-of-aviora.json](./390085-wings-of-aviora.json) |
 | Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
+| Wings of Dawn | 401817 | [401817-wings-of-dawn.json](./401817-wings-of-dawn.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
@@ -6455,6 +6457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrigglers | 63784 | [63784-wrigglers.json](./63784-wrigglers.json) |
 | Wrigglui | 280867 | [280867-wrigglui.json](./280867-wrigglui.json) |
 | Wrinkle in Time | 108890 | [108890-wrinkle-in-time.json](./108890-wrinkle-in-time.json) |
+| Wrispell | 401920 | [401920-wrispell.json](./401920-wrispell.json) |
 | Wrist Nebula | 208020 | [208020-wrist-nebula.json](./208020-wrist-nebula.json) |
 | Wrist Sprinter | 181364 | [181364-wrist-sprinter.json](./181364-wrist-sprinter.json) |
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
