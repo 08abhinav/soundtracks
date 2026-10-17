@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:41:04.054Z",
-  "total_soundtracks": 2108,
+  "generated_at": "2026-10-17T15:41:11.479Z",
+  "total_soundtracks": 2109,
   "games": [
     {
       "igdb_id": 7522,
@@ -15882,6 +15882,20 @@
           "album_name": "Persona 5 Royal: Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5DFy4n6tGVadO1bqkEQw1I",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117731,
+      "game_name": "Persona 5 Strikers",
+      "game_url": "https://ostdb.net/games/persona-5-strikers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+      "albums": [
+        {
+          "album_name": "Persona 5 Strikers: Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2WZEYrTuMBIo2rYVcm4WHc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
