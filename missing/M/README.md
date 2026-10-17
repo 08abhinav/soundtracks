@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Sanctuary | 354982 | [354982-mahjong-sanctuary.json](./354982-mahjong-sanctuary.json) |
 | Mahjong Secrets | 88621 | [88621-mahjong-secrets.json](./88621-mahjong-secrets.json) |
 | Mahjong Sengoku Monogatari | 37743 | [37743-mahjong-sengoku-monogatari.json](./37743-mahjong-sengoku-monogatari.json) |
+| Mahjong Senjutsu: Ando Mitsuru Pro no Akuukan Sappou | 383088 | [383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json](./383088-mahjong-senjutsu-ando-mitsuru-pro-no-akuukan-sappou.json) |
 | Mahjong Shikaku | 138675 | [138675-mahjong-shikaku.json](./138675-mahjong-shikaku.json) |
 | Mahjong Shikaku Retsuden: Mahjong Wars | 37676 | [37676-mahjong-shikaku-retsuden-mahjong-wars.json](./37676-mahjong-shikaku-retsuden-mahjong-wars.json) |
 | Mahjong Solitaire | 232382 | [232382-mahjong-solitaire.json](./232382-mahjong-solitaire.json) |
@@ -3042,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Empire Simulator | 366962 | [366962-market-empire-simulator.json](./366962-market-empire-simulator.json) |
 | Market Hours | 399710 | [399710-market-hours.json](./399710-market-hours.json) |
 | Market Master Simulator | 309952 | [309952-market-master-simulator.json](./309952-market-master-simulator.json) |
+| Market Moe | 383171 | [383171-market-moe.json](./383171-market-moe.json) |
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
@@ -9848,6 +9850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
 | Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
+| Mitnal | 383099 | [383099-mitnal.json](./383099-mitnal.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
