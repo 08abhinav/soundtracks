@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bits at Work | 338242 | [338242-bits-at-work.json](./338242-bits-at-work.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
+| BitSlaps | 364853 | [364853-bitslaps.json](./364853-bitslaps.json) |
 | Bitsnake | 135281 | [135281-bitsnake.json](./135281-bitsnake.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
