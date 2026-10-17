@@ -3881,7 +3881,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Fins | 157162 | [157162-invincible-fins.json](./157162-invincible-fins.json) |
 | Invincible Iron Man Gagaga-In | 234088 | [234088-invincible-iron-man-gagaga-in.json](./234088-invincible-iron-man-gagaga-in.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
+| Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
+| Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
+| Invincible Vs.: Dupli-Kate - Hidden Zero Skin | 411386 | [411386-invincible-vs-dupli-kate-hidden-zero-skin.json](./411386-invincible-vs-dupli-kate-hidden-zero-skin.json) |
+| Invincible Vs.: Rex Splode - Towel Skin | 411385 | [411385-invincible-vs-rex-splode-towel-skin.json](./411385-invincible-vs-rex-splode-towel-skin.json) |
 | Invincible Vs.: The Immortal - Additional Fighter | 410817 | [410817-invincible-vs-the-immortal-additional-fighter.json](./410817-invincible-vs-the-immortal-additional-fighter.json) |
+| Invincible Vs.: The Immortal - Honest Abe Skin | 411384 | [411384-invincible-vs-the-immortal-honest-abe-skin.json](./411384-invincible-vs-the-immortal-honest-abe-skin.json) |
+| Invincible Vs.: Titan - Streetwear Skin | 411377 | [411377-invincible-vs-titan-streetwear-skin.json](./411377-invincible-vs-titan-streetwear-skin.json) |
+| Invincible Vs.: Universa - Additional Fighter | 411383 | [411383-invincible-vs-universa-additional-fighter.json](./411383-invincible-vs-universa-additional-fighter.json) |
+| Invincible Vs.: Universa - GDA Prisoner Skin | 411388 | [411388-invincible-vs-universa-gda-prisoner-skin.json](./411388-invincible-vs-universa-gda-prisoner-skin.json) |
 | Invincible Vs.: Zero-Suit Mark Cosmetic Skin | 410816 | [410816-invincible-vs-zero-suit-mark-cosmetic-skin.json](./410816-invincible-vs-zero-suit-mark-cosmetic-skin.json) |
 | Invincible: Guarding the Globe | 257102 | [257102-invincible-guarding-the-globe.json](./257102-invincible-guarding-the-globe.json) |
 | Invirium | 143346 | [143346-invirium.json](./143346-invirium.json) |
