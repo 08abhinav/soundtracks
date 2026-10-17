@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
 | Pinzzo | 195597 | [195597-pinzzo.json](./195597-pinzzo.json) |
+| Pio the Chick | 391663 | [391663-pio-the-chick.json](./391663-pio-the-chick.json) |
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
@@ -10303,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess of the Moon Ultimate | 200547 | [200547-princess-of-the-moon-ultimate.json](./200547-princess-of-the-moon-ultimate.json) |
 | Princess of the Moon: Allure of the Midnight Kiss | 274402 | [274402-princess-of-the-moon-allure-of-the-midnight-kiss.json](./274402-princess-of-the-moon-allure-of-the-midnight-kiss.json) |
 | Princess of the Tomb | 353862 | [353862-princess-of-the-tomb.json](./353862-princess-of-the-tomb.json) |
+| Princess of Worlds End | 391641 | [391641-princess-of-worlds-end.json](./391641-princess-of-worlds-end.json) |
 | Princess of Zeven | 116165 | [116165-princess-of-zeven.json](./116165-princess-of-zeven.json) |
 | Princess Pairs - Games for Girls | 88108 | [88108-princess-pairs-games-for-girls.json](./88108-princess-pairs-games-for-girls.json) |
 | Princess Pajama | 316803 | [316803-princess-pajama.json](./316803-princess-pajama.json) |
