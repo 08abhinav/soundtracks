@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
+| Memories Off Remake | 399438 | [399438-memories-off-remake.json](./399438-memories-off-remake.json) |
 | Memories Off Sousou: Not Always True | 333791 | [333791-memories-off-sousou-not-always-true.json](./333791-memories-off-sousou-not-always-true.json) |
 | Memories Off: Festa | 37361 | [37361-memories-off-festa.json](./37361-memories-off-festa.json) |
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
@@ -8845,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Airways | 288116 | [288116-mini-airways.json](./288116-mini-airways.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
+| Mini Army | 399402 | [399402-mini-army.json](./399402-mini-army.json) |
 | Mini Attack Submarine | 57763 | [57763-mini-attack-submarine.json](./57763-mini-attack-submarine.json) |
 | Mini Basketball | 194630 | [194630-mini-basketball.json](./194630-mini-basketball.json) |
 | Mini Battle Ground | 191033 | [191033-mini-battle-ground.json](./191033-mini-battle-ground.json) |
@@ -11226,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster RPG 2 | 34312 | [34312-monster-rpg-2.json](./34312-monster-rpg-2.json) |
 | Monster RPG 3 | 97015 | [97015-monster-rpg-3.json](./97015-monster-rpg-3.json) |
 | Monster Run: Downfall of the Empire | 258524 | [258524-monster-run-downfall-of-the-empire.json](./258524-monster-run-downfall-of-the-empire.json) |
+| Monster Rush Survivors | 399442 | [399442-monster-rush-survivors.json](./399442-monster-rush-survivors.json) |
 | Monster Safari | 110924 | [110924-monster-safari.json](./110924-monster-safari.json) |
 | Monster Saga | 362269 | [362269-monster-saga.json](./362269-monster-saga.json) |
 | Monster Saga: Evolution | 304248 | [304248-monster-saga-evolution.json](./304248-monster-saga-evolution.json) |
@@ -13658,6 +13661,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Kingdom Showdown | 307714 | [307714-mushroom-kingdom-showdown.json](./307714-mushroom-kingdom-showdown.json) |
 | Mushroom Kingdom Showdown 2 | 321412 | [321412-mushroom-kingdom-showdown-2.json](./321412-mushroom-kingdom-showdown-2.json) |
 | Mushroom Kingdom: Under Crimson Skies | 220786 | [220786-mushroom-kingdom-under-crimson-skies.json](./220786-mushroom-kingdom-under-crimson-skies.json) |
+| Mushroom Madness | 399462 | [399462-mushroom-madness.json](./399462-mushroom-madness.json) |
+| Mushroom Madness 2 | 399463 | [399463-mushroom-madness-2.json](./399463-mushroom-madness-2.json) |
+| Mushroom Madness 3 | 399465 | [399465-mushroom-madness-3.json](./399465-mushroom-madness-3.json) |
 | Mushroom Manor | 358476 | [358476-mushroom-manor.json](./358476-mushroom-manor.json) |
 | Mushroom Moonrise | 287780 | [287780-mushroom-moonrise.json](./287780-mushroom-moonrise.json) |
 | Mushroom Mountain | 248114 | [248114-mushroom-mountain.json](./248114-mushroom-mountain.json) |
