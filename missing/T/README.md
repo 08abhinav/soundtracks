@@ -3773,6 +3773,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
+| That's a Cow: Banana | 403422 | [403422-thats-a-cow-banana.json](./403422-thats-a-cow-banana.json) |
+| That's a Cow: Crown | 403423 | [403423-thats-a-cow-crown.json](./403423-thats-a-cow-crown.json) |
 | That's a Cow: Deluxe Edition | 232994 | [232994-thats-a-cow-deluxe-edition.json](./232994-thats-a-cow-deluxe-edition.json) |
 | That's a Cow: Eggshell | 233001 | [233001-thats-a-cow-eggshell.json](./233001-thats-a-cow-eggshell.json) |
 | That's a Cow: Premium Edition | 250364 | [250364-thats-a-cow-premium-edition.json](./250364-thats-a-cow-premium-edition.json) |
@@ -6241,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elysian Field | 153976 | [153976-the-elysian-field.json](./153976-the-elysian-field.json) |
 | The Elysian Fields and Other Greek Myths | 122985 | [122985-the-elysian-fields-and-other-greek-myths.json](./122985-the-elysian-fields-and-other-greek-myths.json) |
 | The Ember Guardian | 342161 | [342161-the-ember-guardian.json](./342161-the-ember-guardian.json) |
+| The Embodiment of Scarlet Hair Portable: I'm Lovin' It | 403446 | [403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json](./403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
 | The Emeralds' Awakening | 326721 | [326721-the-emeralds-awakening.json](./326721-the-emeralds-awakening.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
@@ -9624,6 +9627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
 | The Marvelous Misadventures of Flapjack: Bottle Cap'n | 259724 | [259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json](./259724-the-marvelous-misadventures-of-flapjack-bottle-capn.json) |
+| The Marvelous Misadventures of Flapjack: Journey to Plague Island | 403660 | [403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json](./403660-the-marvelous-misadventures-of-flapjack-journey-to-plague-island.json) |
 | The Marvelous Raincaster of Yell Holler | 402520 | [402520-the-marvelous-raincaster-of-yell-holler.json](./402520-the-marvelous-raincaster-of-yell-holler.json) |
 | The Marvelous Snail | 208849 | [208849-the-marvelous-snail.json](./208849-the-marvelous-snail.json) |
 | The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
@@ -11987,6 +11991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitaire Conspiracy: Return of the Merry | 243808 | [243808-the-solitaire-conspiracy-return-of-the-merry.json](./243808-the-solitaire-conspiracy-return-of-the-merry.json) |
 | The Solitaire Conspiracy: The Atlantis Project | 243807 | [243807-the-solitaire-conspiracy-the-atlantis-project.json](./243807-the-solitaire-conspiracy-the-atlantis-project.json) |
 | The Solitary Existence of a Little Universe | 370226 | [370226-the-solitary-existence-of-a-little-universe.json](./370226-the-solitary-existence-of-a-little-universe.json) |
+| The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
 | The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
@@ -16517,6 +16522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinhead | 46593 | [46593-tinhead.json](./46593-tinhead.json) |
 | Tinicraft | 184381 | [184381-tinicraft.json](./184381-tinicraft.json) |
 | Tinier Me | 327215 | [327215-tinier-me.json](./327215-tinier-me.json) |
+| Tinies Farter | 403704 | [403704-tinies-farter.json](./403704-tinies-farter.json) |
 | Tinja | 81647 | [81647-tinja.json](./81647-tinja.json) |
 | Tink: The Last Fairy | 289946 | [289946-tink-the-last-fairy.json](./289946-tink-the-last-fairy.json) |
 | Tinker | 51212 | [51212-tinker.json](./51212-tinker.json) |
@@ -21835,6 +21841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
 | Tricky Thief | 240180 | [240180-tricky-thief.json](./240180-tricky-thief.json) |
+| Tricky Towers: Galaxy Bricks | 403418 | [403418-tricky-towers-galaxy-bricks.json](./403418-tricky-towers-galaxy-bricks.json) |
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
