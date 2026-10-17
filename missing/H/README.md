@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
+| Hacking with Benefits | 379646 | [379646-hacking-with-benefits.json](./379646-hacking-with-benefits.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
 | Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
@@ -1419,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare Nochi Munasawagi | 335827 | [335827-hare-nochi-munasawagi.json](./335827-hare-nochi-munasawagi.json) |
 | Hare Nochi Oosawagi! | 257668 | [257668-hare-nochi-oosawagi.json](./257668-hare-nochi-oosawagi.json) |
 | Hare Trigger | 302444 | [302444-hare-trigger.json](./302444-hare-trigger.json) |
+| Hare Uso: Original Harem Story | 379638 | [379638-hare-uso-original-harem-story.json](./379638-hare-uso-original-harem-story.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
@@ -2883,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
 | Hell Let Loose: Western Desert Campaign Units | 372251 | [372251-hell-let-loose-western-desert-campaign-units.json](./372251-hell-let-loose-western-desert-campaign-units.json) |
 | Hell Loop | 149526 | [149526-hell-loop.json](./149526-hell-loop.json) |
+| Hell Loop | 379643 | [379643-hell-loop.json](./379643-hell-loop.json) |
 | Hell Madness | 209677 | [209677-hell-madness.json](./209677-hell-madness.json) |
 | Hell Maiden | 327817 | [327817-hell-maiden.json](./327817-hell-maiden.json) |
 | Hell Manager | 224102 | [224102-hell-manager.json](./224102-hell-manager.json) |
@@ -3618,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai MineSweeper | 146280 | [146280-hentai-minesweeper.json](./146280-hentai-minesweeper.json) |
 | Hentai MineSweeper: Endless Mode | 146281 | [146281-hentai-minesweeper-endless-mode.json](./146281-hentai-minesweeper-endless-mode.json) |
 | Hentai Misuzu | 296670 | [296670-hentai-misuzu.json](./296670-hentai-misuzu.json) |
+| Hentai Mommy | 379652 | [379652-hentai-mommy.json](./379652-hentai-mommy.json) |
 | Hentai Morgana | 411072 | [411072-hentai-morgana.json](./411072-hentai-morgana.json) |
 | Hentai Mosaique Fix-IT Shoppe | 139429 | [139429-hentai-mosaique-fix-it-shoppe.json](./139429-hentai-mosaique-fix-it-shoppe.json) |
 | Hentai Mosaique Neko Waifus | 167807 | [167807-hentai-mosaique-neko-waifus.json](./167807-hentai-mosaique-neko-waifus.json) |
@@ -3654,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
 | Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
+| Hentai Pieces | 379657 | [379657-hentai-pieces.json](./379657-hentai-pieces.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Plus Girl: Puzzle Pack - 5 Girls | 163543 | [163543-hentai-plus-girl-puzzle-pack-5-girls.json](./163543-hentai-plus-girl-puzzle-pack-5-girls.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
@@ -3741,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Stewardese Girls | 332494 | [332494-hentai-stewardese-girls.json](./332494-hentai-stewardese-girls.json) |
 | Hentai Store | 370274 | [370274-hentai-store.json](./370274-hentai-store.json) |
 | Hentai Stories | 274687 | [274687-hentai-stories.json](./274687-hentai-stories.json) |
+| Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
@@ -7992,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hrana | 395461 | [395461-hrana.json](./395461-hrana.json) |
 | Hrdina | 119543 | [119543-hrdina.json](./119543-hrdina.json) |
 | HRmageddon | 397409 | [397409-hrmageddon.json](./397409-hrmageddon.json) |
+| Hrolfr vs. Evil Skulls | 379721 | [379721-hrolfr-vs-evil-skulls.json](./379721-hrolfr-vs-evil-skulls.json) |
 | Hrumka | 277825 | [277825-hrumka.json](./277825-hrumka.json) |
 | HS Galaxy | 147450 | [147450-hs-galaxy.json](./147450-hs-galaxy.json) |
 | HSHS | 303574 | [303574-hshs.json](./303574-hshs.json) |
