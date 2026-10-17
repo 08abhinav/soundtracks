@@ -2986,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
+| Caterpillar Crunch | 411108 | [411108-caterpillar-crunch.json](./411108-caterpillar-crunch.json) |
 | Caterpillar King | 384085 | [384085-caterpillar-king.json](./384085-caterpillar-king.json) |
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
+| Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
@@ -5163,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chipmonk! | 114947 | [114947-chipmonk.json](./114947-chipmonk.json) |
 | Chipmunk's Adventures | 139712 | [139712-chipmunks-adventures.json](./139712-chipmunks-adventures.json) |
 | Chipper & Sons Lumber Co. | 59984 | [59984-chipper-and-sons-lumber-co.json](./59984-chipper-and-sons-lumber-co.json) |
+| Chipper and Sons Lumber Co. Deluxe | 411095 | [411095-chipper-and-sons-lumber-co-deluxe.json](./411095-chipper-and-sons-lumber-co-deluxe.json) |
 | Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
