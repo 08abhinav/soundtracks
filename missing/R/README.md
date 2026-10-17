@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Racing Evolution | 4076 | [4076-r-racing-evolution.json](./4076-r-racing-evolution.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
+| R.A.I.D | 400673 | [400673-r-a-i-d.json](./400673-r-a-i-d.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.M. | 141625 | [141625-r-a-m.json](./141625-r-a-m.json) |
 | R.A.S.P. Mobility-Unit | 359023 | [359023-r-a-s-p-mobility-unit.json](./359023-r-a-s-p-mobility-unit.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
+| Restlos | 400708 | [400708-restlos.json](./400708-restlos.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
 | Restoration | 55356 | [55356-restoration.json](./55356-restoration.json) |
