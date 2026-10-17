@@ -9081,7 +9081,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
-| Doom | 76217 | [76217-doom.json](./76217-doom.json) |
 | Doom & Destiny | 13168 | [13168-doom-and-destiny.json](./13168-doom-and-destiny.json) |
 | Doom & Destiny Advanced | 25944 | [25944-doom-and-destiny-advanced.json](./25944-doom-and-destiny-advanced.json) |
 | Doom & Destiny Worlds | 133012 | [133012-doom-and-destiny-worlds.json](./133012-doom-and-destiny-worlds.json) |
