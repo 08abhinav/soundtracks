@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Kain: Soul Reaver Remastered | 324083 | [324083-legacy-of-kain-soul-reaver-remastered.json](./324083-legacy-of-kain-soul-reaver-remastered.json) |
 | Legacy of Kalevala | 304120 | [304120-legacy-of-kalevala.json](./304120-legacy-of-kalevala.json) |
 | Legacy of Lina | 110521 | [110521-legacy-of-lina.json](./110521-legacy-of-lina.json) |
+| Legacy of Orsinium | 393944 | [393944-legacy-of-orsinium.json](./393944-legacy-of-orsinium.json) |
 | Legacy of Rust | 313118 | [313118-legacy-of-rust.json](./313118-legacy-of-rust.json) |
 | Legacy of Sin: Ill-Boding | 301243 | [301243-legacy-of-sin-ill-boding.json](./301243-legacy-of-sin-ill-boding.json) |
 | Legacy of Solitaire 3D | 252713 | [252713-legacy-of-solitaire-3d.json](./252713-legacy-of-solitaire-3d.json) |
@@ -3473,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
+| LightRay: Wayfinder | 393940 | [393940-lightray-wayfinder.json](./393940-lightray-wayfinder.json) |
 | Lightrise | 34937 | [34937-lightrise.json](./34937-lightrise.json) |
 | Lightrix | 372989 | [372989-lightrix.json](./372989-lightrix.json) |
 | Lightrock | 205065 | [205065-lightrock.json](./205065-lightrock.json) |
