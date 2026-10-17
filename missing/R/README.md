@@ -5378,6 +5378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringbound | 397931 | [397931-ringbound.json](./397931-ringbound.json) |
 | Ringer | 324336 | [324336-ringer.json](./324336-ringer.json) |
 | Ringies | 34637 | [34637-ringies.json](./34637-ringies.json) |
+| Ringing the Bells for Jim | 397108 | [397108-ringing-the-bells-for-jim.json](./397108-ringing-the-bells-for-jim.json) |
 | Ringleaders | 263013 | [263013-ringleaders.json](./263013-ringleaders.json) |
 | Ringling Bros. and Barnum & Bailey Circus | 67320 | [67320-ringling-bros-and-barnum-and-bailey-circus.json](./67320-ringling-bros-and-barnum-and-bailey-circus.json) |
 | Ringling Bros. and Barnum & Bailey: Circus Friends - Asian Elephants | 209163 | [209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json](./209163-ringling-bros-and-barnum-and-bailey-circus-friends-asian-elephants.json) |
@@ -9089,6 +9090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Seas | 207319 | [207319-rusty-seas.json](./207319-rusty-seas.json) |
 | Rusty Spout Rescue Adventure | 140956 | [140956-rusty-spout-rescue-adventure.json](./140956-rusty-spout-rescue-adventure.json) |
 | Rusty Stings | 2962 | [2962-rusty-stings.json](./2962-rusty-stings.json) |
+| Rusty Strings | 397028 | [397028-rusty-strings.json](./397028-rusty-strings.json) |
 | Rusty Vein | 411714 | [411714-rusty-vein.json](./411714-rusty-vein.json) |
 | Rusty Wind Blows | 177969 | [177969-rusty-wind-blows.json](./177969-rusty-wind-blows.json) |
 | Rusty Winter | 370688 | [370688-rusty-winter.json](./370688-rusty-winter.json) |
