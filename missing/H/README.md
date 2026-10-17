@@ -1152,6 +1152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Hotel | 322132 | [322132-happy-hotel.json](./322132-happy-hotel.json) |
 | Happy Hour Hero | 277007 | [277007-happy-hour-hero.json](./277007-happy-hour-hero.json) |
 | Happy Hunt | 165625 | [165625-happy-hunt.json](./165625-happy-hunt.json) |
+| Happy Island Fantasy | 369871 | [369871-happy-island-fantasy.json](./369871-happy-island-fantasy.json) |
 | Happy Jump | 112902 | [112902-happy-jump.json](./112902-happy-jump.json) |
 | Happy Lesson | 78643 | [78643-happy-lesson.json](./78643-happy-lesson.json) |
 | Happy Lesson: First Lesson | 64753 | [64753-happy-lesson-first-lesson.json](./64753-happy-lesson-first-lesson.json) |
@@ -8714,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
+| HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
