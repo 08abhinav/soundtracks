@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.C.5 to 4: Luminous Memories | 408137 | [408137-d-c-5-to-4-luminous-memories.json](./408137-d-c-5-to-4-luminous-memories.json) |
 | D.C.5 to 4: Luminous Memories - Deluxe Limited Edition | 408140 | [408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json](./408140-d-c-5-to-4-luminous-memories-deluxe-limited-edition.json) |
 | D.C.5 to 4: Luminous Memories - First Press Edition | 408139 | [408139-d-c-5-to-4-luminous-memories-first-press-edition.json](./408139-d-c-5-to-4-luminous-memories-first-press-edition.json) |
+| D.C.F.S.: Da Capo Four Seasons | 371577 | [371577-d-c-f-s-da-capo-four-seasons.json](./371577-d-c-f-s-da-capo-four-seasons.json) |
 | D.C.K.: Dock Chess King | 244251 | [244251-d-c-k-dock-chess-king.json](./244251-d-c-k-dock-chess-king.json) |
 | D.E.E.P.: Battle of Jove | 139485 | [139485-d-e-e-p-battle-of-jove.json](./139485-d-e-e-p-battle-of-jove.json) |
 | D.E.V Bloodline | 213479 | [213479-d-e-v-bloodline.json](./213479-d-e-v-bloodline.json) |
@@ -114,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
+| Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
 | Dà Mèng Chūnqiū | 373702 | [373702-da-meng-chunqiu.json](./373702-da-meng-chunqiu.json) |
 | Da New Guys: Day of the Jackass | 65296 | [65296-da-new-guys-day-of-the-jackass.json](./65296-da-new-guys-day-of-the-jackass.json) |
@@ -5882,6 +5884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Hollow | 286649 | [286649-diamond-hollow.json](./286649-diamond-hollow.json) |
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
+| Diamond Hunt | 371575 | [371575-diamond-hunt.json](./371575-diamond-hunt.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
