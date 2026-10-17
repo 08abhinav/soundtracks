@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
 | Path of Redemption | 128270 | [128270-path-of-redemption.json](./128270-path-of-redemption.json) |
@@ -11406,6 +11407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
+| Project Revenant | 368793 | [368793-project-revenant.json](./368793-project-revenant.json) |
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
