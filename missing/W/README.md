@@ -6194,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldcup Volleyball '95 | 378596 | [378596-worldcup-volleyball-95.json](./378596-worldcup-volleyball-95.json) |
 | Worlde Lande Countrie | 316691 | [316691-worlde-lande-countrie.json](./316691-worlde-lande-countrie.json) |
 | Worldend Dominator Rosa | 380185 | [380185-worldend-dominator-rosa.json](./380185-worldend-dominator-rosa.json) |
+| Worldend Heroes | 364826 | [364826-worldend-heroes.json](./364826-worldend-heroes.json) |
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
