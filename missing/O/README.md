@@ -3007,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origins TCG | 412262 | [412262-origins-tcg.json](./412262-origins-tcg.json) |
 | Origins2 | 130617 | [130617-origins2.json](./130617-origins2.json) |
 | Orika: Rise From The Crash | 336587 | [336587-orika-rise-from-the-crash.json](./336587-orika-rise-from-the-crash.json) |
+| Oriko Days | 385979 | [385979-oriko-days.json](./385979-oriko-days.json) |
 | Orin | 262850 | [262850-orin.json](./262850-orin.json) |
 | Orin Gamble | 396901 | [396901-orin-gamble.json](./396901-orin-gamble.json) |
 | Orion | 95180 | [95180-orion.json](./95180-orion.json) |
@@ -4114,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
+| Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
 | OverTrip | 307818 | [307818-overtrip.json](./307818-overtrip.json) |
 | Overturn | 68584 | [68584-overturn.json](./68584-overturn.json) |
