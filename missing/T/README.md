@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
 | Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
 | Taming the Heart of a Beast | 228067 | [228067-taming-the-heart-of-a-beast.json](./228067-taming-the-heart-of-a-beast.json) |
+| Taming Yore Dragon | 384319 | [384319-taming-yore-dragon.json](./384319-taming-yore-dragon.json) |
 | Tamitos: Tale of Understanding | 399155 | [399155-tamitos-tale-of-understanding.json](./399155-tamitos-tale-of-understanding.json) |
 | Tamori no Picross | 65767 | [65767-tamori-no-picross.json](./65767-tamori-no-picross.json) |
 | Tamori no Picross 4/23 | 345499 | [345499-tamori-no-picross-4-23.json](./345499-tamori-no-picross-4-23.json) |
@@ -5244,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
+| The Clockwork Requiem | 384314 | [384314-the-clockwork-requiem.json](./384314-the-clockwork-requiem.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
 | The Closer: Game of the Year Edition | 141591 | [141591-the-closer-game-of-the-year-edition.json](./141591-the-closer-game-of-the-year-edition.json) |
 | The Closing Shift | 187715 | [187715-the-closing-shift.json](./187715-the-closing-shift.json) |
@@ -8026,6 +8028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isle Tide Hotel | 227210 | [227210-the-isle-tide-hotel.json](./227210-the-isle-tide-hotel.json) |
 | The Isles of the Seven Moons | 306005 | [306005-the-isles-of-the-seven-moons.json](./306005-the-isles-of-the-seven-moons.json) |
+| The Isolated | 384351 | [384351-the-isolated.json](./384351-the-isolated.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
@@ -8579,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
 | The Last Journey | 231538 | [231538-the-last-journey.json](./231538-the-last-journey.json) |
 | The Last Journey | 267924 | [267924-the-last-journey.json](./267924-the-last-journey.json) |
+| The Last Joy | 384309 | [384309-the-last-joy.json](./384309-the-last-joy.json) |
 | The Last Keeper | 368905 | [368905-the-last-keeper.json](./368905-the-last-keeper.json) |
 | The Last Kids on Earth: Happy Apocalypse to You | 256865 | [256865-the-last-kids-on-earth-happy-apocalypse-to-you.json](./256865-the-last-kids-on-earth-happy-apocalypse-to-you.json) |
 | The Last King | 258200 | [258200-the-last-king.json](./258200-the-last-king.json) |
