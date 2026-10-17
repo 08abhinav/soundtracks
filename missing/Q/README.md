@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qubic | 31906 | [31906-qubic.json](./31906-qubic.json) |
 | Qubic | 388284 | [388284-qubic.json](./388284-qubic.json) |
 | Qubic 2025 Bestsellers | 393051 | [393051-qubic-2025-bestsellers.json](./393051-qubic-2025-bestsellers.json) |
+| Qubica | 381414 | [381414-qubica.json](./381414-qubica.json) |
 | Qubicks | 346599 | [346599-qubicks.json](./346599-qubicks.json) |
 | Qubie: Invader of Worlds | 169865 | [169865-qubie-invader-of-worlds.json](./169865-qubie-invader-of-worlds.json) |
 | Qubit's Quest | 283762 | [283762-qubits-quest.json](./283762-qubits-quest.json) |
