@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quacktangled | 185525 | [185525-quacktangled.json](./185525-quacktangled.json) |
 | Quacktown Smackdown | 239062 | [239062-quacktown-smackdown.json](./239062-quacktown-smackdown.json) |
 | Quacky Oliver | 216945 | [216945-quacky-oliver.json](./216945-quacky-oliver.json) |
+| Quackyard | 414759 | [414759-quackyard.json](./414759-quackyard.json) |
 | Quacolé Tennis | 352305 | [352305-quacole-tennis.json](./352305-quacole-tennis.json) |
 | Quad Battle | 294254 | [294254-quad-battle.json](./294254-quad-battle.json) |
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
