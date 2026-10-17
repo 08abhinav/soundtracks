@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:01:07.663Z",
-  "total_soundtracks": 2026,
+  "generated_at": "2026-10-17T15:01:16.193Z",
+  "total_soundtracks": 2027,
   "games": [
     {
       "igdb_id": 7522,
@@ -14030,6 +14030,20 @@
     },
     {
       "igdb_id": 243048,
+      "game_name": "Need for Speed: Most Wanted",
+      "game_url": "https://ostdb.net/games/need-for-speed-most-wanted",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735032738dfd5020d5e7902021",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Most Wanted (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/40bTcfUD6vXIQ5nj1SGfzM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 210161,
       "game_name": "Need for Speed: Most Wanted",
       "game_url": "https://ostdb.net/games/need-for-speed-most-wanted",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b2735032738dfd5020d5e7902021",
