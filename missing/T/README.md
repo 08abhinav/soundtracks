@@ -8568,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Guild | 342200 | [342200-the-last-guild.json](./342200-the-last-guild.json) |
 | The Last Hair | 236219 | [236219-the-last-hair.json](./236219-the-last-hair.json) |
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
+| The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
@@ -16229,6 +16230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileSwitcher | 202028 | [202028-tileswitcher.json](./202028-tileswitcher.json) |
 | TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
+| Tiling Town | 381417 | [381417-tiling-town.json](./381417-tiling-town.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
 | Till the dawn, waiting | 81679 | [81679-till-the-dawn-waiting.json](./81679-till-the-dawn-waiting.json) |
 | Till The Light | 406933 | [406933-till-the-light.json](./406933-till-the-light.json) |
@@ -22447,6 +22449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
+| Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
 | Trouble Zone | 92403 | [92403-trouble-zone.json](./92403-trouble-zone.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
@@ -23317,6 +23320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtoa: Global Rhythm | 163884 | [163884-turtoa-global-rhythm.json](./163884-turtoa-global-rhythm.json) |
 | Turtwig's Target Smash! | 234096 | [234096-turtwigs-target-smash.json](./234096-turtwigs-target-smash.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
+| Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tut's Tomb | 282107 | [282107-tuts-tomb.json](./282107-tuts-tomb.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
