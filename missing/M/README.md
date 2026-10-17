@@ -5522,7 +5522,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X: Generation | 213895 | [213895-mega-man-x-generation.json](./213895-mega-man-x-generation.json) |
 | Mega Man X: Hard Edition | 268422 | [268422-mega-man-x-hard-edition.json](./268422-mega-man-x-hard-edition.json) |
 | Mega Man X: Hard-Type | 268429 | [268429-mega-man-x-hard-type.json](./268429-mega-man-x-hard-type.json) |
-| Mega Man X: Legacy Collection | 96252 | [96252-mega-man-x-legacy-collection.json](./96252-mega-man-x-legacy-collection.json) |
 | Mega Man X: Legacy Collection 1+2 | 96248 | [96248-mega-man-x-legacy-collection-1-2.json](./96248-mega-man-x-legacy-collection-1-2.json) |
 | Mega Man X: Maverick Wars | 240148 | [240148-mega-man-x-maverick-wars.json](./240148-mega-man-x-maverick-wars.json) |
 | Mega Man X: Project Zero | 376479 | [376479-mega-man-x-project-zero.json](./376479-mega-man-x-project-zero.json) |
