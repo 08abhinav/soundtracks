@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Wastelanders | 132141 | [132141-fallout-76-wastelanders.json](./132141-fallout-76-wastelanders.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
+| Fallout Equestria: Silent Village | 369899 | [369899-fallout-equestria-silent-village.json](./369899-fallout-equestria-silent-village.json) |
 | Fallout Online | 77192 | [77192-fallout-online.json](./77192-fallout-online.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireflies | 125850 | [125850-fireflies.json](./125850-fireflies.json) |
 | Fireflies | 233999 | [233999-fireflies.json](./233999-fireflies.json) |
 | Fireflies | 336718 | [336718-fireflies.json](./336718-fireflies.json) |
+| Firefly | 369859 | [369859-firefly.json](./369859-firefly.json) |
 | Firefly | 55209 | [55209-firefly.json](./55209-firefly.json) |
 | FireFly | 169861 | [169861-firefly.json](./169861-firefly.json) |
 | FireFly | 381018 | [381018-firefly.json](./381018-firefly.json) |
@@ -6878,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest of Liars | 96494 | [96494-forest-of-liars.json](./96494-forest-of-liars.json) |
 | Forest of Long Shadows | 356676 | [356676-forest-of-long-shadows.json](./356676-forest-of-long-shadows.json) |
 | Forest of Perdition 2: The School Trip | 315057 | [315057-forest-of-perdition-2-the-school-trip.json](./315057-forest-of-perdition-2-the-school-trip.json) |
+| Forest Of Terenu | 369875 | [369875-forest-of-terenu.json](./369875-forest-of-terenu.json) |
 | Forest of the Abyss 2 | 98458 | [98458-forest-of-the-abyss-2.json](./98458-forest-of-the-abyss-2.json) |
 | Forest Offroad Driving Simulator | 270568 | [270568-forest-offroad-driving-simulator.json](./270568-forest-offroad-driving-simulator.json) |
 | Forest Plague | 109712 | [109712-forest-plague.json](./109712-forest-plague.json) |
@@ -9477,6 +9480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funghi Explosion | 112100 | [112100-funghi-explosion.json](./112100-funghi-explosion.json) |
 | Fungi Crossing | 333157 | [333157-fungi-crossing.json](./333157-fungi-crossing.json) |
 | Fungi Fantastico | 333013 | [333013-fungi-fantastico.json](./333013-fungi-fantastico.json) |
+| Fungiculture | 369906 | [369906-fungiculture.json](./369906-fungiculture.json) |
 | Fungidemi | 407146 | [407146-fungidemi.json](./407146-fungidemi.json) |
 | Fungiman | 207562 | [207562-fungiman.json](./207562-fungiman.json) |
 | Fungiman 2 | 333645 | [333645-fungiman-2.json](./333645-fungiman-2.json) |
@@ -9533,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Physics | 85162 | [85162-funky-physics.json](./85162-funky-physics.json) |
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
+| Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny AntiVirus TD | 128293 | [128293-funny-antivirus-td.json](./128293-funny-antivirus-td.json) |
