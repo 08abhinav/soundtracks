@@ -3011,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: Smash Hit! | 405516 | [405516-tennis-no-ouji-sama-smash-hit.json](./405516-tennis-no-ouji-sama-smash-hit.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
+| Tennis Pro Tour | 372190 | [372190-tennis-pro-tour.json](./372190-tennis-pro-tour.json) |
 | Tennis Pro Tournaments | 274737 | [274737-tennis-pro-tournaments.json](./274737-tennis-pro-tournaments.json) |
 | Tennis Slam: Global Duel Arena | 244807 | [244807-tennis-slam-global-duel-arena.json](./244807-tennis-slam-global-duel-arena.json) |
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
@@ -11667,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
 | The Shattering | 57834 | [57834-the-shattering.json](./57834-the-shattering.json) |
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
+| The Shed | 372205 | [372205-the-shed.json](./372205-the-shed.json) |
 | The Shedding | 114372 | [114372-the-shedding.json](./114372-the-shedding.json) |
 | The Sheep Quiz | 210602 | [210602-the-sheep-quiz.json](./210602-the-sheep-quiz.json) |
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
@@ -21177,6 +21179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor | 275639 | [275639-traitor.json](./275639-traitor.json) |
 | Traitor | 372252 | [372252-traitor.json](./372252-traitor.json) |
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
+| Traitor's Kitchen | 372225 | [372225-traitors-kitchen.json](./372225-traitors-kitchen.json) |
 | Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
 | Traitors Gate | 69786 | [69786-traitors-gate.json](./69786-traitors-gate.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
@@ -23701,6 +23704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
+| Twnkl Gft 2: A Lust For Blood | 372212 | [372212-twnkl-gft-2-a-lust-for-blood.json](./372212-twnkl-gft-2-a-lust-for-blood.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
 | Two & One Hundred Ways Bundle | 188020 | [188020-two-and-one-hundred-ways-bundle.json](./188020-two-and-one-hundred-ways-bundle.json) |
 | Two Against the Legion | 158509 | [158509-two-against-the-legion.json](./158509-two-against-the-legion.json) |
