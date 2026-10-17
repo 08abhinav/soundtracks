@@ -3698,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limitless Hunger | 190986 | [190986-limitless-hunger.json](./190986-limitless-hunger.json) |
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
+| Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limkin | 187828 | [187828-limkin.json](./187828-limkin.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Load Runner 4 | 39511 | [39511-load-runner-4.json](./39511-load-runner-4.json) |
 | Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
+| Loaded Dice | 407177 | [407177-loaded-dice.json](./407177-loaded-dice.json) |
 | Loaded Dice | 419162 | [419162-loaded-dice.json](./419162-loaded-dice.json) |
 | Loader | 96679 | [96679-loader.json](./96679-loader.json) |
 | Loader Larry | 73809 | [73809-loader-larry.json](./73809-loader-larry.json) |
