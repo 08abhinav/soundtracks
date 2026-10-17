@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:40:34.129Z",
-  "total_soundtracks": 1996,
+  "generated_at": "2026-10-17T11:40:41.992Z",
+  "total_soundtracks": 1997,
   "games": [
     {
       "igdb_id": 7522,
@@ -15095,6 +15095,20 @@
         {
           "album_name": "Planet of Lana (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/26vBjTqpavqsGycyHgr3ux",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2958,
+      "game_name": "Planetary Annihilation",
+      "game_url": "https://ostdb.net/games/planetary-annihilation",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a9874339f1612ad2c7b7e46d",
+      "albums": [
+        {
+          "album_name": "Planetary Annihilation (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1EIoHkIn6APxZF5ID1TvOq",
           "apple_music_url": "",
           "album_link_url": ""
         }
