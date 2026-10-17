@@ -3052,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marko | 19774 | [19774-marko.json](./19774-marko.json) |
 | Marko: Beyond Brave | 223167 | [223167-marko-beyond-brave.json](./223167-marko-beyond-brave.json) |
 | Marko's Magic Football | 368608 | [368608-markos-magic-football.json](./368608-markos-magic-football.json) |
+| Marks of Ki | 384349 | [384349-marks-of-ki.json](./384349-marks-of-ki.json) |
 | Marks the Spot | 176762 | [176762-marks-the-spot.json](./176762-marks-the-spot.json) |
 | Marksman Shooting | 245298 | [245298-marksman-shooting.json](./245298-marksman-shooting.json) |
 | Marksman VR | 344503 | [344503-marksman-vr.json](./344503-marksman-vr.json) |
@@ -3830,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Puzzle: Echoes | 151209 | [151209-masters-of-puzzle-echoes.json](./151209-masters-of-puzzle-echoes.json) |
 | Masters of Puzzle: In Serenity | 151217 | [151217-masters-of-puzzle-in-serenity.json](./151217-masters-of-puzzle-in-serenity.json) |
 | Masters of Sound | 73882 | [73882-masters-of-sound.json](./73882-masters-of-sound.json) |
+| Masters of the Air | 384327 | [384327-masters-of-the-air.json](./384327-masters-of-the-air.json) |
 | Masters of the Broken World | 65398 | [65398-masters-of-the-broken-world.json](./65398-masters-of-the-broken-world.json) |
 | Masters of the Elements | 70117 | [70117-masters-of-the-elements.json](./70117-masters-of-the-elements.json) |
 | Masters of the Universe | 245451 | [245451-masters-of-the-universe.json](./245451-masters-of-the-universe.json) |
@@ -4545,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
+| MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
 | Mazey Village | 191032 | [191032-mazey-village.json](./191032-mazey-village.json) |
 | MazezaM: Puzzle Game | 147358 | [147358-mazezam-puzzle-game.json](./147358-mazezam-puzzle-game.json) |
@@ -9466,6 +9469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Phantoms | 333180 | [333180-mirrored-phantoms.json](./333180-mirrored-phantoms.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
+| Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
@@ -9841,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mithraeum | 213622 | [213622-mithraeum.json](./213622-mithraeum.json) |
 | Mithral Gun | 196330 | [196330-mithral-gun.json](./196330-mithral-gun.json) |
 | Mithronia: Tower Wars | 265322 | [265322-mithronia-tower-wars.json](./265322-mithronia-tower-wars.json) |
+| Mitigate | 384348 | [384348-mitigate.json](./384348-mitigate.json) |
 | Mitla | 373657 | [373657-mitla.json](./373657-mitla.json) |
 | Mito da Criação | 131368 | [131368-mito-da-criacao.json](./131368-mito-da-criacao.json) |
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
@@ -10482,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
+| Molest | 384332 | [384332-molest.json](./384332-molest.json) |
 | Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
 | Moley Christmas | 59679 | [59679-moley-christmas.json](./59679-moley-christmas.json) |
 | MoleZ | 75411 | [75411-molez.json](./75411-molez.json) |
@@ -14760,6 +14766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables 3D - Jumping for the Team | 84718 | [84718-my-riding-stables-3d-jumping-for-the-team.json](./84718-my-riding-stables-3d-jumping-for-the-team.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
+| My Rose | 384317 | [384317-my-rose.json](./384317-my-rose.json) |
 | My Royal Maid R | 385884 | [385884-my-royal-maid-r.json](./385884-my-royal-maid-r.json) |
 | My Rusty Submarine: New Waters | 358291 | [358291-my-rusty-submarine-new-waters.json](./358291-my-rusty-submarine-new-waters.json) |
 | My RV Skills | 316857 | [316857-my-rv-skills.json](./316857-my-rv-skills.json) |
