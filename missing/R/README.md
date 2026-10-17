@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.T.: Human Error – Episode One | 350507 | [350507-r-a-t-human-error-episode-one.json](./350507-r-a-t-human-error-episode-one.json) |
 | R.A.T.S. | 30606 | [30606-r-a-t-s.json](./30606-r-a-t-s.json) |
 | R.A.T.T.Z. Maze | 238563 | [238563-r-a-t-t-z-maze.json](./238563-r-a-t-t-z-maze.json) |
+| R.A.T#200 | 395738 | [395738-r-a-t-200.json](./395738-r-a-t-200.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
 | Reprisal Universe | 8871 | [8871-reprisal-universe.json](./8871-reprisal-universe.json) |
 | Reprobate | 230173 | [230173-reprobate.json](./230173-reprobate.json) |
+| Reprobate | 395731 | [395731-reprobate.json](./395731-reprobate.json) |
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
