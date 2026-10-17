@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
+| Exaverse | 397601 | [397601-exaverse.json](./397601-exaverse.json) |
 | Exc. Reigai Jishou Kanshikyoku | 405018 | [405018-exc-reigai-jishou-kanshikyoku.json](./405018-exc-reigai-jishou-kanshikyoku.json) |
 | Exc.: Reigai Jishou Kanshikyoku | 401157 | [401157-exc-reigai-jishou-kanshikyoku.json](./401157-exc-reigai-jishou-kanshikyoku.json) |
 | Excaliba | 13844 | [13844-excaliba.json](./13844-excaliba.json) |
@@ -5348,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo-Adventures | 108232 | [108232-exo-adventures.json](./108232-exo-adventures.json) |
 | Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
 | Exo-Card Collector | 365869 | [365869-exo-card-collector.json](./365869-exo-card-collector.json) |
+| Exo-Dino | 397624 | [397624-exo-dino.json](./397624-exo-dino.json) |
 | Exo-Leviathan | 259284 | [259284-exo-leviathan.json](./259284-exo-leviathan.json) |
 | Exo-Planet | 64292 | [64292-exo-planet.json](./64292-exo-planet.json) |
 | Exo-Ship Saga | 172537 | [172537-exo-ship-saga.json](./172537-exo-ship-saga.json) |
