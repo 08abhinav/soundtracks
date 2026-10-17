@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:41:26.352Z",
-  "total_soundtracks": 2111,
+  "generated_at": "2026-10-17T15:41:34.466Z",
+  "total_soundtracks": 2112,
   "games": [
     {
       "igdb_id": 7522,
@@ -21288,6 +21288,20 @@
           "album_name": "The Callisto Protocol (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2TzKa6fZV8syswzob8Sb19",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 166722,
+      "game_name": "The Case of the Golden Idol",
+      "game_url": "https://ostdb.net/games/the-case-of-the-golden-idol",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731e087e89b12387bbc84c4e43",
+      "albums": [
+        {
+          "album_name": "The Case of the Golden Idol (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2qTLR9A4CPvGvpwY4txWwp",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
