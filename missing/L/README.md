@@ -4188,6 +4188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Helper of the House Kitchen | 255050 | [255050-little-helper-of-the-house-kitchen.json](./255050-little-helper-of-the-house-kitchen.json) |
 | Little Herbal Baker | 305963 | [305963-little-herbal-baker.json](./305963-little-herbal-baker.json) |
 | Little Hero | 194019 | [194019-little-hero.json](./194019-little-hero.json) |
+| Little Hero | 376803 | [376803-little-hero.json](./376803-little-hero.json) |
 | Little Heroine Playset | 185596 | [185596-little-heroine-playset.json](./185596-little-heroine-playset.json) |
 | Little Heroine: The Electric Monsters | 338009 | [338009-little-heroine-the-electric-monsters.json](./338009-little-heroine-the-electric-monsters.json) |
 | Little Hidden City | 87766 | [87766-little-hidden-city.json](./87766-little-hidden-city.json) |
