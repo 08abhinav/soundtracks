@@ -7978,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
+| The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
 | The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
 | The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
@@ -14517,6 +14518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Valoria | 323194 | [323194-throne-of-valoria.json](./323194-throne-of-valoria.json) |
 | Throne Quest | 112953 | [112953-throne-quest.json](./112953-throne-quest.json) |
 | Throne Quest Deluxe | 122298 | [122298-throne-quest-deluxe.json](./122298-throne-quest-deluxe.json) |
+| Throne Requiem | 400655 | [400655-throne-requiem.json](./400655-throne-requiem.json) |
 | Throne Rush | 243125 | [243125-throne-rush.json](./243125-throne-rush.json) |
 | Throne Wars | 319133 | [319133-throne-wars.json](./319133-throne-wars.json) |
 | Throne: Kingdom at War | 159083 | [159083-throne-kingdom-at-war.json](./159083-throne-kingdom-at-war.json) |
