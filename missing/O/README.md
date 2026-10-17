@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Yume no Luffy Kaizoku-dan Tanjou! | 75739 | [75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json](./75739-one-piece-yume-no-luffy-kaizoku-dan-tanjou.json) |
 | One Ping Only | 95610 | [95610-one-ping-only.json](./95610-one-ping-only.json) |
 | One Piu Day | 107747 | [107747-one-piu-day.json](./107747-one-piu-day.json) |
+| One Possible Future | 404702 | [404702-one-possible-future.json](./404702-one-possible-future.json) |
 | One Punch | 151657 | [151657-one-punch.json](./151657-one-punch.json) |
 | One Punch Man | 175711 | [175711-one-punch-man.json](./175711-one-punch-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 1 - Suiryu | 134062 | [134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json](./134062-one-punch-man-a-hero-nobody-knows-dlc-pack-1-suiryu.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Zero | 260593 | [260593-orbit-zero.json](./260593-orbit-zero.json) |
 | Orbit: Satellite Defense | 83942 | [83942-orbit-satellite-defense.json](./83942-orbit-satellite-defense.json) |
 | Orbit.Industries | 194457 | [194457-orbit-industries.json](./194457-orbit-industries.json) |
+| Orbita | 404659 | [404659-orbita.json](./404659-orbita.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
