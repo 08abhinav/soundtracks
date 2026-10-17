@@ -11792,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnium Space | 107400 | [107400-somnium-space.json](./107400-somnium-space.json) |
 | Somnium Space VR | 137636 | [137636-somnium-space-vr.json](./137636-somnium-space-vr.json) |
 | Somnium Tenebris | 301421 | [301421-somnium-tenebris.json](./301421-somnium-tenebris.json) |
+| Somnius | 416579 | [416579-somnius.json](./416579-somnius.json) |
 | Somnography | 172769 | [172769-somnography.json](./172769-somnography.json) |
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
@@ -15498,6 +15499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat! | 178344 | [178344-splat.json](./178344-splat.json) |
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
+| Splat! 2 | 416580 | [416580-splat-2.json](./416580-splat-2.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
 | Splatoon | 7335 | [7335-splatoon.json](./7335-splatoon.json) |
