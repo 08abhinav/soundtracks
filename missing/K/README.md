@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTu Korea | 112247 | [112247-kkutu-korea.json](./112247-kkutu-korea.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
+| Klabater Complete Bundle | 401940 | [401940-klabater-complete-bundle.json](./401940-klabater-complete-bundle.json) |
 | Klabi | 33029 | [33029-klabi.json](./33029-klabi.json) |
 | Klac | 119456 | [119456-klac.json](./119456-klac.json) |
 | Klang | 18752 | [18752-klang.json](./18752-klang.json) |
