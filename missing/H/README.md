@@ -7258,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely Waifu XXII | 318430 | [318430-hot-and-lovely-waifu-xxii.json](./318430-hot-and-lovely-waifu-xxii.json) |
 | Hot And Lovely XXII | 318431 | [318431-hot-and-lovely-xxii.json](./318431-hot-and-lovely-xxii.json) |
 | Hot And Lovely: Dream | 296911 | [296911-hot-and-lovely-dream.json](./296911-hot-and-lovely-dream.json) |
+| Hot and Lovely: Purple | 384884 | [384884-hot-and-lovely-purple.json](./384884-hot-and-lovely-purple.json) |
 | Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
@@ -7317,14 +7318,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
+| Hot Milf 10 Bikini | 384880 | [384880-hot-milf-10-bikini.json](./384880-hot-milf-10-bikini.json) |
 | Hot Milf 2 | 189976 | [189976-hot-milf-2.json](./189976-hot-milf-2.json) |
 | Hot Milf 4 | 192441 | [192441-hot-milf-4.json](./192441-hot-milf-4.json) |
 | Hot Milf 5 | 286748 | [286748-hot-milf-5.json](./286748-hot-milf-5.json) |
 | Hot Milf 7 | 204822 | [204822-hot-milf-7.json](./204822-hot-milf-7.json) |
 | Hot Milf 9 | 224222 | [224222-hot-milf-9.json](./224222-hot-milf-9.json) |
 | Hot MILF VR | 344432 | [344432-hot-milf-vr.json](./344432-hot-milf-vr.json) |
+| Hot Mom | 384877 | [384877-hot-mom.json](./384877-hot-mom.json) |
 | Hot Noon | 270065 | [270065-hot-noon.json](./270065-hot-noon.json) |
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
+| Hot Pieces | 384883 | [384883-hot-pieces.json](./384883-hot-pieces.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
@@ -7376,6 +7380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
+| Hot View Ecchi Girls | 384885 | [384885-hot-view-ecchi-girls.json](./384885-hot-view-ecchi-girls.json) |
 | Hot Wave | 40780 | [40780-hot-wave.json](./40780-hot-wave.json) |
 | Hot Wax | 304749 | [304749-hot-wax.json](./304749-hot-wax.json) |
 | Hot Wax | 380688 | [380688-hot-wax.json](./380688-hot-wax.json) |
@@ -7533,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Transylvania: Social Game | 108821 | [108821-hotel-transylvania-social-game.json](./108821-hotel-transylvania-social-game.json) |
 | Hotel Tycoon | 414881 | [414881-hotel-tycoon.json](./414881-hotel-tycoon.json) |
 | Hotel Tycoon 2 HD | 101014 | [101014-hotel-tycoon-2-hd.json](./101014-hotel-tycoon-2-hd.json) |
+| Hotel VIP | 384876 | [384876-hotel-vip.json](./384876-hotel-vip.json) |
 | Hotel: Collector's Edition | 36379 | [36379-hotel-collectors-edition.json](./36379-hotel-collectors-edition.json) |
 | Hotel: Lake DLC | 265871 | [265871-hotel-lake-dlc.json](./265871-hotel-lake-dlc.json) |
 | Hotel: Lake Edition | 265870 | [265870-hotel-lake-edition.json](./265870-hotel-lake-edition.json) |
