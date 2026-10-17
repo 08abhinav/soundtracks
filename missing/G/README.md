@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
 | Galaxy Girls | 30394 | [30394-galaxy-girls.json](./30394-galaxy-girls.json) |
 | Galaxy Glory | 176184 | [176184-galaxy-glory.json](./176184-galaxy-glory.json) |
+| Galaxy Grinder Incremental | 389477 | [389477-galaxy-grinder-incremental.json](./389477-galaxy-grinder-incremental.json) |
 | Galaxy Groove | 200047 | [200047-galaxy-groove.json](./200047-galaxy-groove.json) |
 | Galaxy Grudge | 403551 | [403551-galaxy-grudge.json](./403551-galaxy-grudge.json) |
 | Galaxy Guardian Royale | 159807 | [159807-galaxy-guardian-royale.json](./159807-galaxy-guardian-royale.json) |
@@ -794,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Lair | 348755 | [348755-gamble-lair.json](./348755-gamble-lair.json) |
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
+| Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
@@ -3254,6 +3256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls' Last Tour: Book Burning Simulator | 150558 | [150558-girls-last-tour-book-burning-simulator.json](./150558-girls-last-tour-book-burning-simulator.json) |
 | Girls' RPG: Cinderella Life | 92477 | [92477-girls-rpg-cinderella-life.json](./92477-girls-rpg-cinderella-life.json) |
 | Girp | 137545 | [137545-girp.json](./137545-girp.json) |
+| Girthbound | 389522 | [389522-girthbound.json](./389522-girthbound.json) |
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
@@ -4994,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooGooRise | 304628 | [304628-googoorise.json](./304628-googoorise.json) |
 | GooHuebelets | 65792 | [65792-goohuebelets.json](./65792-goohuebelets.json) |
 | Gooing Up! | 321340 | [321340-gooing-up.json](./321340-gooing-up.json) |
+| Goojeegoop | 389532 | [389532-goojeegoop.json](./389532-goojeegoop.json) |
 | Gooka | 63111 | [63111-gooka.json](./63111-gooka.json) |
 | Gooka: The Mystery of Janatris | 71426 | [71426-gooka-the-mystery-of-janatris.json](./71426-gooka-the-mystery-of-janatris.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
@@ -7856,6 +7860,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmith | 355085 | [355085-gunsmith.json](./355085-gunsmith.json) |
 | Gunsmith | 81232 | [81232-gunsmith.json](./81232-gunsmith.json) |
 | Gunsmith Simulator | 133405 | [133405-gunsmith-simulator.json](./133405-gunsmith-simulator.json) |
+| Gunsmith Simulator: Fabryka Broni DLC | 389516 | [389516-gunsmith-simulator-fabryka-broni-dlc.json](./389516-gunsmith-simulator-fabryka-broni-dlc.json) |
+| Gunsmith Simulator: Flint & Powder | 389517 | [389517-gunsmith-simulator-flint-and-powder.json](./389517-gunsmith-simulator-flint-and-powder.json) |
+| Gunsmith Simulator: Heavy Metal DLC | 389513 | [389513-gunsmith-simulator-heavy-metal-dlc.json](./389513-gunsmith-simulator-heavy-metal-dlc.json) |
 | Gunsmith Workshop Simulator | 286191 | [286191-gunsmith-workshop-simulator.json](./286191-gunsmith-workshop-simulator.json) |
 | Gunsmoke | 261449 | [261449-gunsmoke.json](./261449-gunsmoke.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
@@ -7985,6 +7992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GWARP | 395152 | [395152-gwarp.json](./395152-gwarp.json) |
 | Gwen the Magic Nanny | 54076 | [54076-gwen-the-magic-nanny.json](./54076-gwen-the-magic-nanny.json) |
 | GwenBlade 2: Halloween | 340406 | [340406-gwenblade-2-halloween.json](./340406-gwenblade-2-halloween.json) |
+| GwenBlade Witcheresque | 389530 | [389530-gwenblade-witcheresque.json](./389530-gwenblade-witcheresque.json) |
 | Gwendolyn: Pursuit of a Princess | 25830 | [25830-gwendolyn-pursuit-of-a-princess.json](./25830-gwendolyn-pursuit-of-a-princess.json) |
 | Gwent: Crimson Curse | 115776 | [115776-gwent-crimson-curse.json](./115776-gwent-crimson-curse.json) |
 | Gwent: Rogue Mage | 208307 | [208307-gwent-rogue-mage.json](./208307-gwent-rogue-mage.json) |
