@@ -574,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween: October 31st | 176786 | [176786-halloween-october-31st.json](./176786-halloween-october-31st.json) |
 | Halloween: October 31st Demake | 218575 | [218575-halloween-october-31st-demake.json](./218575-halloween-october-31st-demake.json) |
 | Halloween: The Twelve Cards Curse | 294436 | [294436-halloween-the-twelve-cards-curse.json](./294436-halloween-the-twelve-cards-curse.json) |
+| Halloween: Trick or Treat 3 Collectors Edition | 375506 | [375506-halloween-trick-or-treat-3-collectors-edition.json](./375506-halloween-trick-or-treat-3-collectors-edition.json) |
 | Halloweenies | 352304 | [352304-halloweenies.json](./352304-halloweenies.json) |
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Halloweenistry 2 | 55776 | [55776-halloweenistry-2.json](./55776-halloweenistry-2.json) |
@@ -3634,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nefiris | 411073 | [411073-hentai-nefiris.json](./411073-hentai-nefiris.json) |
 | Hentai Neko | 223403 | [223403-hentai-neko.json](./223403-hentai-neko.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
+| Hentai Night Club | 375521 | [375521-hentai-night-club.json](./375521-hentai-night-club.json) |
 | Hentai Night Milf | 371377 | [371377-hentai-night-milf.json](./371377-hentai-night-milf.json) |
 | Hentai no Hero | 110358 | [110358-hentai-no-hero.json](./110358-hentai-no-hero.json) |
 | Hentai Nureta Puzzle College | 161411 | [161411-hentai-nureta-puzzle-college.json](./161411-hentai-nureta-puzzle-college.json) |
@@ -6561,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homunculus | 255669 | [255669-homunculus.json](./255669-homunculus.json) |
 | Homunculus | 319807 | [319807-homunculus.json](./319807-homunculus.json) |
 | Homunculus Hotel | 192268 | [192268-homunculus-hotel.json](./192268-homunculus-hotel.json) |
+| Homunculus Meat | 375503 | [375503-homunculus-meat.json](./375503-homunculus-meat.json) |
 | Homura | 43330 | [43330-homura.json](./43330-homura.json) |
 | Homura Hime | 199055 | [199055-homura-hime.json](./199055-homura-hime.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
@@ -7656,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Garden DLC | 116384 | [116384-house-flipper-garden-dlc.json](./116384-house-flipper-garden-dlc.json) |
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
 | House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
+| House Flipper: Party Furniture Pack | 375537 | [375537-house-flipper-party-furniture-pack.json](./375537-house-flipper-party-furniture-pack.json) |
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
 | House Flipper: Pets Edition | 300470 | [300470-house-flipper-pets-edition.json](./300470-house-flipper-pets-edition.json) |
 | House Flipper: Pop Art Furniture Pack | 295125 | [295125-house-flipper-pop-art-furniture-pack.json](./295125-house-flipper-pop-art-furniture-pack.json) |
@@ -8428,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Brick Ball | 103643 | [103643-hunter-brick-ball.json](./103643-hunter-brick-ball.json) |
 | Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
+| Hunter from East | 375524 | [375524-hunter-from-east.json](./375524-hunter-from-east.json) |
 | Hunter Girls | 259065 | [259065-hunter-girls.json](./259065-hunter-girls.json) |
 | Hunter Hearts | 164873 | [164873-hunter-hearts.json](./164873-hunter-hearts.json) |
 | Hunter Hitman | 340494 | [340494-hunter-hitman.json](./340494-hunter-hitman.json) |
