@@ -4381,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
+| Little Squirrel Cabin | 377926 | [377926-little-squirrel-cabin.json](./377926-little-squirrel-cabin.json) |
 | Little Strategy | 65384 | [65384-little-strategy.json](./65384-little-strategy.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
@@ -4653,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
 | LLs | 96524 | [96524-lls.json](./96524-lls.json) |
+| LM7 | 377903 | [377903-lm7.json](./377903-lm7.json) |
 | LMA Manager | 22541 | [22541-lma-manager.json](./22541-lma-manager.json) |
 | LMA Manager 2001 | 22543 | [22543-lma-manager-2001.json](./22543-lma-manager-2001.json) |
 | LMA Manager 2002 | 22542 | [22542-lma-manager-2002.json](./22542-lma-manager-2002.json) |
@@ -5055,6 +5057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Samurai. | 100666 | [100666-lone-samurai.json](./100666-lone-samurai.json) |
 | Lone Siren | 124670 | [124670-lone-siren.json](./124670-lone-siren.json) |
 | Lone Soldier | 44753 | [44753-lone-soldier.json](./44753-lone-soldier.json) |
+| Lone Stars | 377908 | [377908-lone-stars.json](./377908-lone-stars.json) |
 | Lone Survivors | 373766 | [373766-lone-survivors.json](./373766-lone-survivors.json) |
 | Lone Tower Roguelite Defense | 255805 | [255805-lone-tower-roguelite-defense.json](./255805-lone-tower-roguelite-defense.json) |
 | Lone Traveler | 232947 | [232947-lone-traveler.json](./232947-lone-traveler.json) |
@@ -7204,6 +7207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyrvane Park | 374291 | [374291-lyrvane-park.json](./374291-lyrvane-park.json) |
 | Lys and Ruka's Magical Bag | 206202 | [206202-lys-and-rukas-magical-bag.json](./206202-lys-and-rukas-magical-bag.json) |
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
+| Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
 | Lyssa: Goddess of Rage | 273929 | [273929-lyssa-goddess-of-rage.json](./273929-lyssa-goddess-of-rage.json) |
