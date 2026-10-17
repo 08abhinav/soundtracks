@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
 | Feartten Noir Story | 195246 | [195246-feartten-noir-story.json](./195246-feartten-noir-story.json) |
 | Fearwoods | 388421 | [388421-fearwoods.json](./388421-fearwoods.json) |
+| Feast | 364224 | [364224-feast.json](./364224-feast.json) |
 | Feast of the Beast: Unleashed | 381697 | [381697-feast-of-the-beast-unleashed.json](./381697-feast-of-the-beast-unleashed.json) |
 | Feast or Fracture | 274459 | [274459-feast-or-fracture.json](./274459-feast-or-fracture.json) |
 | Feast Your Eyes | 138580 | [138580-feast-your-eyes.json](./138580-feast-your-eyes.json) |
@@ -7160,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift: Simulator | 344425 | [344425-forklift-simulator.json](./344425-forklift-simulator.json) |
 | Forklore | 196803 | [196803-forklore.json](./196803-forklore.json) |
 | Forknite | 313201 | [313201-forknite.json](./313201-forknite.json) |
+| Forkraith | 364225 | [364225-forkraith.json](./364225-forkraith.json) |
 | Forks & Daggers | 380676 | [380676-forks-and-daggers.json](./380676-forks-and-daggers.json) |
 | Forlands | 303183 | [303183-forlands.json](./303183-forlands.json) |
 | Forlorn | 273555 | [273555-forlorn.json](./273555-forlorn.json) |
