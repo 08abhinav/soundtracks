@@ -534,6 +534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja 3 | 19626 | [19626-naruto-ultimate-ninja-3.json](./19626-naruto-ultimate-ninja-3.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
+| Naruto: Ultimate Ninja Storm+ | 398845 | [398845-naruto-ultimate-ninja-storm.json](./398845-naruto-ultimate-ninja-storm.json) |
 | Naruto: Uzumaki Chronicles | 20602 | [20602-naruto-uzumaki-chronicles.json](./20602-naruto-uzumaki-chronicles.json) |
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
@@ -2952,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nietzsche's Shadow | 346680 | [346680-nietzsches-shadow.json](./346680-nietzsches-shadow.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
+| Nife Wars | 398832 | [398832-nife-wars.json](./398832-nife-wars.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Niflhel's Fables: The Book of Gypsies | 199315 | [199315-niflhels-fables-the-book-of-gypsies.json](./199315-niflhels-fables-the-book-of-gypsies.json) |
@@ -4217,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
+| No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
 | No Sidewalks in the Mushroom Kingdom | 177296 | [177296-no-sidewalks-in-the-mushroom-kingdom.json](./177296-no-sidewalks-in-the-mushroom-kingdom.json) |
 | No Signal Escape Room | 413624 | [413624-no-signal-escape-room.json](./413624-no-signal-escape-room.json) |
 | No Signal: Chornobyl | 414165 | [414165-no-signal-chornobyl.json](./414165-no-signal-chornobyl.json) |
@@ -4583,6 +4586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nominader | 118244 | [118244-nominader.json](./118244-nominader.json) |
 | Nominal | 163312 | [163312-nominal.json](./163312-nominal.json) |
 | NomNom Sugar Game | 120216 | [120216-nomnom-sugar-game.json](./120216-nomnom-sugar-game.json) |
+| Nomnomia | 398825 | [398825-nomnomia.json](./398825-nomnomia.json) |
 | NomNomNom | 340580 | [340580-nomnomnom.json](./340580-nomnomnom.json) |
 | NomNomNom! | 239613 | [239613-nomnomnom.json](./239613-nomnomnom.json) |
 | NomNoms | 118724 | [118724-nomnoms.json](./118724-nomnoms.json) |
@@ -4593,6 +4597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non Flying Soldiers | 54252 | [54252-non-flying-soldiers.json](./54252-non-flying-soldiers.json) |
 | Non Stop Driver | 305200 | [305200-non-stop-driver.json](./305200-non-stop-driver.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
+| Non-Euclidean Minesweeper | 398902 | [398902-non-euclidean-minesweeper.json](./398902-non-euclidean-minesweeper.json) |
 | Non-League Manager | 419205 | [419205-non-league-manager.json](./419205-non-league-manager.json) |
 | Non-Linear Text Quests | 103924 | [103924-non-linear-text-quests.json](./103924-non-linear-text-quests.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
