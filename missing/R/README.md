@@ -5238,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Star | 17047 | [17047-riding-star.json](./17047-riding-star.json) |
 | Riding Star | 71780 | [71780-riding-star.json](./71780-riding-star.json) |
 | Riding Star 3D: Champion in Sattle | 84839 | [84839-riding-star-3d-champion-in-sattle.json](./84839-riding-star-3d-champion-in-sattle.json) |
+| Riding the Rapids | 367178 | [367178-riding-the-rapids.json](./367178-riding-the-rapids.json) |
 | Riding the Wave | 318387 | [318387-riding-the-wave.json](./318387-riding-the-wave.json) |
 | Riding to Bounce City | 215922 | [215922-riding-to-bounce-city.json](./215922-riding-to-bounce-city.json) |
 | Riding to Bounce City: Babydoll Set A | 293871 | [293871-riding-to-bounce-city-babydoll-set-a.json](./293871-riding-to-bounce-city-babydoll-set-a.json) |
