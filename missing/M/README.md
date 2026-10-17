@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
 | Magical Girls Second Magic | 165607 | [165607-magical-girls-second-magic.json](./165607-magical-girls-second-magic.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
+| Magical Greenhouse | 372182 | [372182-magical-greenhouse.json](./372182-magical-greenhouse.json) |
 | Magical Harvest | 197156 | [197156-magical-harvest.json](./197156-magical-harvest.json) |
 | Magical Hike | 264592 | [264592-magical-hike.json](./264592-magical-hike.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
@@ -7147,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid II: Return of Samus | 1102 | [1102-metroid-ii-return-of-samus.json](./1102-metroid-ii-return-of-samus.json) |
 | Metroid II: Return of Samus DX | 165442 | [165442-metroid-ii-return-of-samus-dx.json](./165442-metroid-ii-return-of-samus-dx.json) |
 | Metroid Incursion | 213830 | [213830-metroid-incursion.json](./213830-metroid-incursion.json) |
+| Metroid Mother | 372197 | [372197-metroid-mother.json](./372197-metroid-mother.json) |
 | Metroid Nebulus | 324078 | [324078-metroid-nebulus.json](./324078-metroid-nebulus.json) |
 | Metroid Planets | 166150 | [166150-metroid-planets.json](./166150-metroid-planets.json) |
 | Metroid Prime 2: Echoes | 1108 | [1108-metroid-prime-2-echoes.json](./1108-metroid-prime-2-echoes.json) |
@@ -7749,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microwave Yourself | 364401 | [364401-microwave-yourself.json](./364401-microwave-yourself.json) |
 | MicroWorks | 132893 | [132893-microworks.json](./132893-microworks.json) |
 | Mictlan: An Ancient Mythical Tale | 154807 | [154807-mictlan-an-ancient-mythical-tale.json](./154807-mictlan-an-ancient-mythical-tale.json) |
+| Mid | 372231 | [372231-mid.json](./372231-mid.json) |
 | Mid-Death Crisis | 295495 | [295495-mid-death-crisis.json](./295495-mid-death-crisis.json) |
 | Midair | 55115 | [55115-midair.json](./55115-midair.json) |
 | Midas | 338837 | [338837-midas.json](./338837-midas.json) |
@@ -13477,6 +13480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiversal Affairs | 270157 | [270157-multiversal-affairs.json](./270157-multiversal-affairs.json) |
 | Multiverse | 339231 | [339231-multiverse.json](./339231-multiverse.json) |
 | MultiVerse | 192255 | [192255-multiverse.json](./192255-multiverse.json) |
+| Multiverse Designer | 372219 | [372219-multiverse-designer.json](./372219-multiverse-designer.json) |
 | Multiverse Go | 253897 | [253897-multiverse-go.json](./253897-multiverse-go.json) |
 | Multiverse Idle | 390632 | [390632-multiverse-idle.json](./390632-multiverse-idle.json) |
 | Multiverse Loot Hunter | 292586 | [292586-multiverse-loot-hunter.json](./292586-multiverse-loot-hunter.json) |
