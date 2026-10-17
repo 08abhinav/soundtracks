@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T11:11:02.883Z",
-  "total_soundtracks": 1971,
+  "generated_at": "2026-10-17T11:20:26.097Z",
+  "total_soundtracks": 1972,
   "games": [
     {
       "igdb_id": 7522,
@@ -443,6 +443,20 @@
         {
           "album_name": "Action Doom 2: Urban Brawl Soundtrack",
           "spotify_url": "https://open.spotify.com/album/6ekids1tvoYBJp84qpWpao",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14550,
+      "game_name": "Action Henk",
+      "game_url": "https://ostdb.net/games/action-henk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1b84dd046b035ce2e0b36ef",
+      "albums": [
+        {
+          "album_name": "Action Henk Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2Ue4L9UVBAa7hxAiuCFO36",
           "apple_music_url": "",
           "album_link_url": ""
         }
