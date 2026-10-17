@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | NeoGeometry | 113176 | [113176-neogeometry.json](./113176-neogeometry.json) |
+| NeoHack | 373830 | [373830-neohack.json](./373830-neohack.json) |
 | Neokaiju | 153996 | [153996-neokaiju.json](./153996-neokaiju.json) |
 | NeoLemmix | 189200 | [189200-neolemmix.json](./189200-neolemmix.json) |
 | NeoLite | 134991 | [134991-neolite.json](./134991-neolite.json) |
@@ -4993,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Sonic Flash | 330525 | [330525-not-sonic-flash.json](./330525-not-sonic-flash.json) |
 | Not Spooky: But Good Enough For Me | 197117 | [197117-not-spooky-but-good-enough-for-me.json](./197117-not-spooky-but-good-enough-for-me.json) |
 | Not Tetris 2 | 8727 | [8727-not-tetris-2.json](./8727-not-tetris-2.json) |
+| Not the End | 373816 | [373816-not-the-end.json](./373816-not-the-end.json) |
 | Not the Hero | 241938 | [241938-not-the-hero.json](./241938-not-the-hero.json) |
 | Not the North Pole | 247612 | [247612-not-the-north-pole.json](./247612-not-the-north-pole.json) |
 | Not the Robots | 16723 | [16723-not-the-robots.json](./16723-not-the-robots.json) |
