@@ -251,6 +251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gain Ground | 237311 | [237311-gain-ground.json](./237311-gain-ground.json) |
 | Gain Ground | 3129 | [3129-gain-ground.json](./3129-gain-ground.json) |
 | Gain Ground SX | 42013 | [42013-gain-ground-sx.json](./42013-gain-ground-sx.json) |
+| Gain Tiles Match: Trading Dilemma | 400658 | [400658-gain-tiles-match-trading-dilemma.json](./400658-gain-tiles-match-trading-dilemma.json) |
 | Gainax Renzoku Satsujin Jiken: Ero | 257832 | [257832-gainax-renzoku-satsujin-jiken-ero.json](./257832-gainax-renzoku-satsujin-jiken-ero.json) |
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
@@ -4983,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | GoombaGotchi | 318523 | [318523-goombagotchi.json](./318523-goombagotchi.json) |
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
+| Goon Company | 400695 | [400695-goon-company.json](./400695-goon-company.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
 | Goonect 2 | 400382 | [400382-goonect-2.json](./400382-goonect-2.json) |
