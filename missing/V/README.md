@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variables 2 | 169399 | [169399-variables-2.json](./169399-variables-2.json) |
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
+| Variator | 400703 | [400703-variator.json](./400703-variator.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
