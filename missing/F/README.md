@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag N Frag | 33157 | [33157-flag-n-frag.json](./33157-flag-n-frag.json) |
 | Flag Solitaire | 89855 | [89855-flag-solitaire.json](./89855-flag-solitaire.json) |
 | Flag Solitaire + Quiz - A Brain Game | 101051 | [101051-flag-solitaire-quiz-a-brain-game.json](./101051-flag-solitaire-quiz-a-brain-game.json) |
+| Flag Sweeper | 397632 | [397632-flag-sweeper.json](./397632-flag-sweeper.json) |
 | Flag to Flag | 6721 | [6721-flag-to-flag.json](./6721-flag-to-flag.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flag-O-Tron | 366624 | [366624-flag-o-tron.json](./366624-flag-o-tron.json) |
@@ -8431,6 +8432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
 | FriendlyWare P.C. Arcade | 70091 | [70091-friendlyware-p-c-arcade.json](./70091-friendlyware-p-c-arcade.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
+| Friends | 397611 | [397611-friends.json](./397611-friends.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
