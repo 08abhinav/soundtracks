@@ -1166,6 +1166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Nations | 60592 | [60592-gang-nations.json](./60592-gang-nations.json) |
 | Gang of Dragon | 381227 | [381227-gang-of-dragon.json](./381227-gang-of-dragon.json) |
 | Gang of Four | 127053 | [127053-gang-of-four.json](./127053-gang-of-four.json) |
+| Gang of Frogs | 369326 | [369326-gang-of-frogs.json](./369326-gang-of-frogs.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
@@ -6642,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
+| Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
