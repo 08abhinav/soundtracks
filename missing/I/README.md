@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
 | I Became a Dog 2 | 142332 | [142332-i-became-a-dog-2.json](./142332-i-became-a-dog-2.json) |
 | I Became a Dog 3 | 319086 | [319086-i-became-a-dog-3.json](./319086-i-became-a-dog-3.json) |
+| I Became an Evil Witch that Cursed the Male Lead | 409843 | [409843-i-became-an-evil-witch-that-cursed-the-male-lead.json](./409843-i-became-an-evil-witch-that-cursed-the-male-lead.json) |
 | I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
@@ -720,6 +721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Break: Head to Head | 194397 | [194397-ice-cream-break-head-to-head.json](./194397-ice-cream-break-head-to-head.json) |
 | Ice Cream Disaster | 208007 | [208007-ice-cream-disaster.json](./208007-ice-cream-disaster.json) |
 | Ice Cream Drop | 274423 | [274423-ice-cream-drop.json](./274423-ice-cream-drop.json) |
+| Ice Cream Express | 409856 | [409856-ice-cream-express.json](./409856-ice-cream-express.json) |
 | Ice Cream Factory | 86755 | [86755-ice-cream-factory.json](./86755-ice-cream-factory.json) |
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
