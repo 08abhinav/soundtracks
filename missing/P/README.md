@@ -10873,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prohibeast | 343266 | [343266-prohibeast.json](./343266-prohibeast.json) |
 | Prohibition | 15349 | [15349-prohibition.json](./15349-prohibition.json) |
 | Prohibition 1930 | 53480 | [53480-prohibition-1930.json](./53480-prohibition-1930.json) |
+| Prohibition Island | 401904 | [401904-prohibition-island.json](./401904-prohibition-island.json) |
 | Project '88 | 54281 | [54281-project-88.json](./54281-project-88.json) |
 | Project 117 | 420551 | [420551-project-117.json](./420551-project-117.json) |
 | Project 13 | 281467 | [281467-project-13.json](./281467-project-13.json) |
@@ -12095,6 +12096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
 | Pulse | 372810 | [372810-pulse.json](./372810-pulse.json) |
 | Pulse | 392257 | [392257-pulse.json](./392257-pulse.json) |
+| Pulse | 401747 | [401747-pulse.json](./401747-pulse.json) |
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse Codex EP | 260061 | [260061-pulse-codex-ep.json](./260061-pulse-codex-ep.json) |
 | Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
