@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:11:17.073Z",
-  "total_soundtracks": 2047,
+  "generated_at": "2026-10-17T15:11:24.588Z",
+  "total_soundtracks": 2048,
   "games": [
     {
       "igdb_id": 7522,
@@ -11416,6 +11416,20 @@
           "album_name": "Kirby Air Riders Themes (Original Soundtrack of Kirby Air Riders )",
           "spotify_url": "https://open.spotify.com/album/7qh0xkhphxfDwrNq4PTRIF",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18221,
+      "game_name": "Kirby: Planet Robobot",
+      "game_url": "https://ostdb.net/games/kirby-planet-robobot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d9e750462bde7008e9d0b6aa",
+      "albums": [
+        {
+          "album_name": "Kirby: Planet Robobot Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2YK3Pjm8viuZ09wTTNeQCq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
