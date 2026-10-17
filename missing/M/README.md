@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magazine Mogul | 135642 | [135642-magazine-mogul.json](./135642-magazine-mogul.json) |
 | Magdalena | 33779 | [33779-magdalena.json](./33779-magdalena.json) |
 | Magdalene | 277491 | [277491-magdalene.json](./277491-magdalene.json) |
+| MAGE | 400712 | [400712-mage.json](./400712-mage.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
 | Medieval Market | 387027 | [387027-medieval-market.json](./387027-medieval-market.json) |
+| Medieval Market Simulator | 400667 | [400667-medieval-market-simulator.json](./400667-medieval-market-simulator.json) |
 | Medieval Masters Collection | 131581 | [131581-medieval-masters-collection.json](./131581-medieval-masters-collection.json) |
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
@@ -11160,8 +11162,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster of the Matrix | 179558 | [179558-monster-of-the-matrix.json](./179558-monster-of-the-matrix.json) |
 | Monster Ops 10 | 379334 | [379334-monster-ops-10.json](./379334-monster-ops-10.json) |
 | Monster Ops 12 | 349272 | [349272-monster-ops-12.json](./349272-monster-ops-12.json) |
+| Monster Ops 13 | 400692 | [400692-monster-ops-13.json](./400692-monster-ops-13.json) |
 | Monster Ops 14 | 384811 | [384811-monster-ops-14.json](./384811-monster-ops-14.json) |
 | Monster Ops 15 | 384812 | [384812-monster-ops-15.json](./384812-monster-ops-15.json) |
+| Monster Ops 17 | 400694 | [400694-monster-ops-17.json](./400694-monster-ops-17.json) |
 | Monster Ops 2 | 341333 | [341333-monster-ops-2.json](./341333-monster-ops-2.json) |
 | Monster Ops 3 | 341334 | [341334-monster-ops-3.json](./341334-monster-ops-3.json) |
 | Monster Ops 4 | 341335 | [341335-monster-ops-4.json](./341335-monster-ops-4.json) |
