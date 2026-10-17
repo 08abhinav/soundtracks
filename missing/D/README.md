@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
 | Dice with the Devil: Rerolled | 333015 | [333015-dice-with-the-devil-rerolled.json](./333015-dice-with-the-devil-rerolled.json) |
 | Dice World | 250832 | [250832-dice-world.json](./250832-dice-world.json) |
+| Dice x Deck | 374394 | [374394-dice-x-deck.json](./374394-dice-x-deck.json) |
 | Dice-Zee!: Dice Pak - "Autumn Auras" | 291087 | [291087-dice-zee-dice-pak-autumn-auras.json](./291087-dice-zee-dice-pak-autumn-auras.json) |
 | Dice-Zee!: Dice Pak - "Contemporary Cool" | 291086 | [291086-dice-zee-dice-pak-contemporary-cool.json](./291086-dice-zee-dice-pak-contemporary-cool.json) |
 | Dice-Zee!: Dice Pak - "Gold & Pearls" | 291690 | [291690-dice-zee-dice-pak-gold-and-pearls.json](./291690-dice-zee-dice-pak-gold-and-pearls.json) |
@@ -9746,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fall | 203246 | [203246-down-fall.json](./203246-down-fall.json) |
 | Down Fast VR | 203937 | [203937-down-fast-vr.json](./203937-down-fast-vr.json) |
+| Down Forward | 374391 | [374391-down-forward.json](./374391-down-forward.json) |
 | Down Hole | 294811 | [294811-down-hole.json](./294811-down-hole.json) |
 | Down in Bermuda | 124396 | [124396-down-in-bermuda.json](./124396-down-in-bermuda.json) |
 | Down in Flames | 64139 | [64139-down-in-flames.json](./64139-down-in-flames.json) |
@@ -11286,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
 | DreamDayKi | 202355 | [202355-dreamdayki.json](./202355-dreamdayki.json) |
 | Dreamdisc | 177796 | [177796-dreamdisc.json](./177796-dreamdisc.json) |
+| DreamEcho | 374358 | [374358-dreamecho.json](./374358-dreamecho.json) |
 | Dreamed | 217342 | [217342-dreamed.json](./217342-dreamed.json) |
 | Dreamed Away | 220745 | [220745-dreamed-away.json](./220745-dreamed-away.json) |
 | Dreamer | 101641 | [101641-dreamer.json](./101641-dreamer.json) |
