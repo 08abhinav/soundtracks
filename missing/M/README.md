@@ -9304,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MinQ | 322348 | [322348-minq.json](./322348-minq.json) |
 | Minschima | 215598 | [215598-minschima.json](./215598-minschima.json) |
 | Minsho | 294805 | [294805-minsho.json](./294805-minsho.json) |
+| Minsk '44 Gold | 384921 | [384921-minsk-44-gold.json](./384921-minsk-44-gold.json) |
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | MinSweeper | 84137 | [84137-minsweeper.json](./84137-minsweeper.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
@@ -13947,6 +13948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MutoReRe | 85975 | [85975-mutorere.json](./85975-mutorere.json) |
 | Mutrix | 253449 | [253449-mutrix.json](./253449-mutrix.json) |
 | Mutsu Tonohohon | 4023 | [4023-mutsu-tonohohon.json](./4023-mutsu-tonohohon.json) |
+| Mutton | 384882 | [384882-mutton.json](./384882-mutton.json) |
 | Mutton for Punishment 3 | 253269 | [253269-mutton-for-punishment-3.json](./253269-mutton-for-punishment-3.json) |
 | Mutual Assured Destruction Simulator | 326389 | [326389-mutual-assured-destruction-simulator.json](./326389-mutual-assured-destruction-simulator.json) |
 | Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
@@ -14022,6 +14024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Kawasaki Pack 2025 | 350641 | [350641-mx-vs-atv-legends-kawasaki-pack-2025.json](./350641-mx-vs-atv-legends-kawasaki-pack-2025.json) |
 | MX vs. ATV: Legends - KTM Pack 2025 | 350643 | [350643-mx-vs-atv-legends-ktm-pack-2025.json](./350643-mx-vs-atv-legends-ktm-pack-2025.json) |
 | MX vs. ATV: Legends - Polaris Pack | 350650 | [350650-mx-vs-atv-legends-polaris-pack.json](./350650-mx-vs-atv-legends-polaris-pack.json) |
+| MX vs. ATV: Legends - Redline Ridge Finals | 384904 | [384904-mx-vs-atv-legends-redline-ridge-finals.json](./384904-mx-vs-atv-legends-redline-ridge-finals.json) |
 | MX vs. ATV: Legends - Season One: Exclusive Box Edition | 252169 | [252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json](./252169-mx-vs-atv-legends-season-one-exclusive-box-edition.json) |
 | MX vs. ATV: Legends - Season Two | 423992 | [423992-mx-vs-atv-legends-season-two.json](./423992-mx-vs-atv-legends-season-two.json) |
 | MX vs. ATV: Legends - Slayground | 350645 | [350645-mx-vs-atv-legends-slayground.json](./350645-mx-vs-atv-legends-slayground.json) |
