@@ -7554,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntCity | 318137 | [318137-antcity.json](./318137-antcity.json) |
 | Antcopter | 306036 | [306036-antcopter.json](./306036-antcopter.json) |
 | Ante | 148868 | [148868-ante.json](./148868-ante.json) |
+| Ante Mortem | 401716 | [401716-ante-mortem.json](./401716-ante-mortem.json) |
 | Ante Up: Texas Hold'em | 84760 | [84760-ante-up-texas-holdem.json](./84760-ante-up-texas-holdem.json) |
 | Anteater | 38523 | [38523-anteater.json](./38523-anteater.json) |
 | Antecrypt | 176341 | [176341-antecrypt.json](./176341-antecrypt.json) |
