@@ -8933,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
+| Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
 | Frontline: The Longest Day | 17610 | [17610-frontline-the-longest-day.json](./17610-frontline-the-longest-day.json) |
