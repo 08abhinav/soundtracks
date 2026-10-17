@@ -4171,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
+| Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
 | Fire Combat | 381297 | [381297-fire-combat.json](./381297-fire-combat.json) |
 | Fire Commander: First Response | 166188 | [166188-fire-commander-first-response.json](./166188-fire-commander-first-response.json) |
 | Fire Copter | 69475 | [69475-fire-copter.json](./69475-fire-copter.json) |
@@ -7823,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
+| Fractal Gallery VR | 372217 | [372217-fractal-gallery-vr.json](./372217-fractal-gallery-vr.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
@@ -9755,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
+| Fury! | 372209 | [372209-fury.json](./372209-fury.json) |
 | Fury's Path: To The Stars | 384299 | [384299-furys-path-to-the-stars.json](./384299-furys-path-to-the-stars.json) |
 | Fury's Sky | 121334 | [121334-furys-sky.json](./121334-furys-sky.json) |
 | Fury3 | 21787 | [21787-fury3.json](./21787-fury3.json) |
