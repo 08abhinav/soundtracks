@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
+| Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
 | Shopping Tycoon | 54514 | [54514-shopping-tycoon.json](./54514-shopping-tycoon.json) |
 | Shoppy Mart | 60067 | [60067-shoppy-mart.json](./60067-shoppy-mart.json) |
 | Shoppy Mart: Steam Edition | 90633 | [90633-shoppy-mart-steam-edition.json](./90633-shoppy-mart-steam-edition.json) |
@@ -7149,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
 | Siegius | 319986 | [319986-siegius.json](./319986-siegius.json) |
+| Siegius Arena | 399469 | [399469-siegius-arena.json](./399469-siegius-arena.json) |
 | Sienna | 51221 | [51221-sienna.json](./51221-sienna.json) |
 | Sierra Championship Boxing | 73238 | [73238-sierra-championship-boxing.json](./73238-sierra-championship-boxing.json) |
 | Sierra Madre | 111879 | [111879-sierra-madre.json](./111879-sierra-madre.json) |
@@ -14631,6 +14633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectromancer: Gathering of Power | 164383 | [164383-spectromancer-gathering-of-power.json](./164383-spectromancer-gathering-of-power.json) |
 | Spectromancer: League of Heroes | 164385 | [164385-spectromancer-league-of-heroes.json](./164385-spectromancer-league-of-heroes.json) |
 | Spectromancer: Truth & Beauty | 164384 | [164384-spectromancer-truth-and-beauty.json](./164384-spectromancer-truth-and-beauty.json) |
+| Spectron | 399407 | [399407-spectron.json](./399407-spectron.json) |
 | Spectron | 40912 | [40912-spectron.json](./40912-spectron.json) |
 | Spectrubes | 33415 | [33415-spectrubes.json](./33415-spectrubes.json) |
 | Spectrubes Infinity | 96663 | [96663-spectrubes-infinity.json](./96663-spectrubes-infinity.json) |
@@ -16962,6 +16965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
 | Star Ocean: The Last Hope | 7192 | [7192-star-ocean-the-last-hope.json](./7192-star-ocean-the-last-hope.json) |
+| Star of Games | 399434 | [399434-star-of-games.json](./399434-star-of-games.json) |
 | Star of Lemutia | 76541 | [76541-star-of-lemutia.json](./76541-star-of-lemutia.json) |
 | Star of Lemutia: Reborn | 126419 | [126419-star-of-lemutia-reborn.json](./126419-star-of-lemutia-reborn.json) |
 | Star of Providence: Into Oblivion | 358816 | [358816-star-of-providence-into-oblivion.json](./358816-star-of-providence-into-oblivion.json) |
@@ -18607,6 +18611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
+| Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
