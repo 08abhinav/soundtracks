@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volt Snake | 413058 | [413058-volt-snake.json](./413058-volt-snake.json) |
 | Voltage Fighter Gowcaizer | 39590 | [39590-voltage-fighter-gowcaizer.json](./39590-voltage-fighter-gowcaizer.json) |
 | Voltage High Society | 208420 | [208420-voltage-high-society.json](./208420-voltage-high-society.json) |
+| Voltage Vamp | 401927 | [401927-voltage-vamp.json](./401927-voltage-vamp.json) |
 | Voltage: Episode 2 | 170303 | [170303-voltage-episode-2.json](./170303-voltage-episode-2.json) |
 | Voltaire: The Vegan Vampire | 203242 | [203242-voltaire-the-vegan-vampire.json](./203242-voltaire-the-vegan-vampire.json) |
 | Volted | 97025 | [97025-volted.json](./97025-volted.json) |
