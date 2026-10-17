@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of Tomsk-7 | 34751 | [34751-call-of-tomsk-7.json](./34751-call-of-tomsk-7.json) |
 | Call of Toys: Tower Defense! | 275357 | [275357-call-of-toys-tower-defense.json](./275357-call-of-toys-tower-defense.json) |
+| Call Of Unity | 387734 | [387734-call-of-unity.json](./387734-call-of-unity.json) |
 | Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
@@ -941,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Land: Sugary Sprint | 384054 | [384054-candy-land-sugary-sprint.json](./384054-candy-land-sugary-sprint.json) |
 | Candy Lattice | 245830 | [245830-candy-lattice.json](./245830-candy-lattice.json) |
 | Candy Legend | 105784 | [105784-candy-legend.json](./105784-candy-legend.json) |
+| Candy Luna Park | 387478 | [387478-candy-luna-park.json](./387478-candy-luna-park.json) |
 | Candy Machine | 28333 | [28333-candy-machine.json](./28333-candy-machine.json) |
 | Candy Maid | 224777 | [224777-candy-maid.json](./224777-candy-maid.json) |
 | Candy Makeup Beauty Game | 86790 | [86790-candy-makeup-beauty-game.json](./86790-candy-makeup-beauty-game.json) |
@@ -1039,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Shoot Plane | 219735 | [219735-cannon-shoot-plane.json](./219735-cannon-shoot-plane.json) |
 | Cannon Spike | 6719 | [6719-cannon-spike.json](./6719-cannon-spike.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
+| Cannon Super Mario Bros. Wii | 387504 | [387504-cannon-super-mario-bros-wii.json](./387504-cannon-super-mario-bros-wii.json) |
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
@@ -1069,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanvasCraft | 332241 | [332241-canvascraft.json](./332241-canvascraft.json) |
 | Canvasmount | 341635 | [341635-canvasmount.json](./341635-canvasmount.json) |
 | CanVerse | 227999 | [227999-canverse.json](./227999-canverse.json) |
+| Canyon | 387736 | [387736-canyon.json](./387736-canyon.json) |
 | Canyon Bomber | 17017 | [17017-canyon-bomber.json](./17017-canyon-bomber.json) |
 | Canyon Capers: Rio Fever | 25515 | [25515-canyon-capers-rio-fever.json](./25515-canyon-capers-rio-fever.json) |
 | Canyon Carnage | 420503 | [420503-canyon-carnage.json](./420503-canyon-carnage.json) |
@@ -2279,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
+| Castanea | 387733 | [387733-castanea.json](./387733-castanea.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
 | Castaway | 176756 | [176756-castaway.json](./176756-castaway.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
@@ -4682,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
 | Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
+| Chess-ban de maigo | 387760 | [387760-chess-ban-de-maigo.json](./387760-chess-ban-de-maigo.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
 | Chess, Texas | 358999 | [358999-chess-texas.json](./358999-chess-texas.json) |
 | Chess: Clash of Kings | 187475 | [187475-chess-clash-of-kings.json](./187475-chess-clash-of-kings.json) |
@@ -7363,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Path | 348735 | [348735-cloud-path.json](./348735-cloud-path.json) |
 | Cloud Piercer | 322767 | [322767-cloud-piercer.json](./322767-cloud-piercer.json) |
 | Cloud Pirates | 27687 | [27687-cloud-pirates.json](./27687-cloud-pirates.json) |
+| Cloud Popper | 387737 | [387737-cloud-popper.json](./387737-cloud-popper.json) |
 | Cloud Rack | 158640 | [158640-cloud-rack.json](./158640-cloud-rack.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
@@ -8293,6 +8300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
 | Color Course | 185528 | [185528-color-course.json](./185528-color-course.json) |
 | Color Cross | 47769 | [47769-color-cross.json](./47769-color-cross.json) |
+| Color Crush | 387738 | [387738-color-crush.json](./387738-color-crush.json) |
 | Color Cube | 172053 | [172053-color-cube.json](./172053-color-cube.json) |
 | Color Cube Spin | 28845 | [28845-color-cube-spin.json](./28845-color-cube-spin.json) |
 | Color Cubes | 42150 | [42150-color-cubes.json](./42150-color-cubes.json) |
@@ -10842,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Courage | 207519 | [207519-courage.json](./207519-courage.json) |
 | Courage | 25768 | [25768-courage.json](./25768-courage.json) |
 | Courage for a Kiss | 113886 | [113886-courage-for-a-kiss.json](./113886-courage-for-a-kiss.json) |
+| Courage Gauntlet Challenge | 387739 | [387739-courage-gauntlet-challenge.json](./387739-courage-gauntlet-challenge.json) |
 | Courage Saw Game | 385598 | [385598-courage-saw-game.json](./385598-courage-saw-game.json) |
 | Courage the Cowardly Dog: Creep TV | 186279 | [186279-courage-the-cowardly-dog-creep-tv.json](./186279-courage-the-cowardly-dog-creep-tv.json) |
 | Courage the Cowardly Dog: Hell Bound Hound | 142356 | [142356-courage-the-cowardly-dog-hell-bound-hound.json](./142356-courage-the-cowardly-dog-hell-bound-hound.json) |
@@ -13304,6 +13313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
 | Cube Battler: Debugger Shou-hen | 70874 | [70874-cube-battler-debugger-shou-hen.json](./70874-cube-battler-debugger-shou-hen.json) |
+| Cube Burst 3D | 387740 | [387740-cube-burst-3d.json](./387740-cube-burst-3d.json) |
 | Cube Chase | 129202 | [129202-cube-chase.json](./129202-cube-chase.json) |
 | Cube Clones | 151681 | [151681-cube-clones.json](./151681-cube-clones.json) |
 | Cube Color | 75658 | [75658-cube-color.json](./75658-cube-color.json) |
@@ -13463,6 +13473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
+| CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
 | CubeZ | 17658 | [17658-cubez.json](./17658-cubez.json) |
 | CUBG: Car unknown battlegrounds | 120994 | [120994-cubg-car-unknown-battlegrounds.json](./120994-cubg-car-unknown-battlegrounds.json) |
 | Cubia | 139711 | [139711-cubia.json](./139711-cubia.json) |
