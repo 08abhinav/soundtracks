@@ -8704,7 +8704,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaround Reaper | 276730 | [276730-runaround-reaper.json](./276730-runaround-reaper.json) |
 | Runaway | 40419 | [40419-runaway.json](./40419-runaway.json) |
 | Runaway 2: The Dream of the Turtle | 13227 | [13227-runaway-2-the-dream-of-the-turtle.json](./13227-runaway-2-the-dream-of-the-turtle.json) |
-| Runaway 3: A Twist of Fate | 13228 | [13228-runaway-3-a-twist-of-fate.json](./13228-runaway-3-a-twist-of-fate.json) |
 | Runaway Animals | 207360 | [207360-runaway-animals.json](./207360-runaway-animals.json) |
 | Runaway Bride | 288240 | [288240-runaway-bride.json](./288240-runaway-bride.json) |
 | Runaway Cheater | 370272 | [370272-runaway-cheater.json](./370272-runaway-cheater.json) |
