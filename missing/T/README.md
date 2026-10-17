@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableTop Soccer | 33239 | [33239-tabletop-soccer.json](./33239-tabletop-soccer.json) |
 | TableTop Soccer: Redux | 280253 | [280253-tabletop-soccer-redux.json](./280253-tabletop-soccer-redux.json) |
 | Tabletop Speed | 235123 | [235123-tabletop-speed.json](./235123-tabletop-speed.json) |
+| Tabletop Tavern | 373282 | [373282-tabletop-tavern.json](./373282-tabletop-tavern.json) |
 | Tabletopia: Altiplano | 162874 | [162874-tabletopia-altiplano.json](./162874-tabletopia-altiplano.json) |
 | Tabletopia: Aquanauts | 162891 | [162891-tabletopia-aquanauts.json](./162891-tabletopia-aquanauts.json) |
 | Tabletopia: Argent - the Consortium | 162882 | [162882-tabletopia-argent-the-consortium.json](./162882-tabletopia-argent-the-consortium.json) |
@@ -7714,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House Always Wins | 378526 | [378526-the-house-always-wins.json](./378526-the-house-always-wins.json) |
 | The House Always Wins | 400471 | [400471-the-house-always-wins.json](./400471-the-house-always-wins.json) |
 | The House Before | 189124 | [189124-the-house-before.json](./189124-the-house-before.json) |
+| The House Dreams Along With Them | 373283 | [373283-the-house-dreams-along-with-them.json](./373283-the-house-dreams-along-with-them.json) |
 | The House in Fata Morgana | 36278 | [36278-the-house-in-fata-morgana.json](./36278-the-house-in-fata-morgana.json) |
 | The House in Fata Morgana: A Requiem for Innocence | 56006 | [56006-the-house-in-fata-morgana-a-requiem-for-innocence.json](./56006-the-house-in-fata-morgana-a-requiem-for-innocence.json) |
 | The House in Fata Morgana: Dreams of the Revenants Edition | 119577 | [119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json](./119577-the-house-in-fata-morgana-dreams-of-the-revenants-edition.json) |
@@ -14864,6 +14866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiāntiān Tuōlājī | 96041 | [96041-tiantian-tuolaji.json](./96041-tiantian-tuolaji.json) |
 | Tiānxiān Biàn | 156131 | [156131-tianxian-bian.json](./156131-tianxian-bian.json) |
 | Tiào Tiào Xiǎo Miánmián | 359470 | [359470-tiao-tiao-xiao-mianmian.json](./359470-tiao-tiao-xiao-mianmian.json) |
+| Tiara | 373276 | [373276-tiara.json](./373276-tiara.json) |
 | Tiara Concerto | 86102 | [86102-tiara-concerto.json](./86102-tiara-concerto.json) |
 | Tiara the Deceiving Crown | 120864 | [120864-tiara-the-deceiving-crown.json](./120864-tiara-the-deceiving-crown.json) |
 | Tiberian War: Ion Shock | 144980 | [144980-tiberian-war-ion-shock.json](./144980-tiberian-war-ion-shock.json) |
@@ -17418,6 +17421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
+| Toca Builders | 373243 | [373243-toca-builders.json](./373243-toca-builders.json) |
 | Toca Cars | 401919 | [401919-toca-cars.json](./401919-toca-cars.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
@@ -23002,6 +23006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug of War B | 354375 | [354375-tug-of-war-b.json](./354375-tug-of-war-b.json) |
 | Tug of Words | 198947 | [198947-tug-of-words.json](./198947-tug-of-words.json) |
 | Tug Team Tractor Multiplication | 312639 | [312639-tug-team-tractor-multiplication.json](./312639-tug-team-tractor-multiplication.json) |
+| Tug the Table | 373244 | [373244-tug-the-table.json](./373244-tug-the-table.json) |
 | Tuga Boy Adventures | 239094 | [239094-tuga-boy-adventures.json](./239094-tuga-boy-adventures.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
