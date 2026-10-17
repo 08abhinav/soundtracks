@@ -7562,7 +7562,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Helper | 224643 | [224643-the-helper.json](./224643-the-helper.json) |
 | The Henchmen | 220674 | [220674-the-henchmen.json](./220674-the-henchmen.json) |
 | The Henchmen | 389670 | [389670-the-henchmen.json](./389670-the-henchmen.json) |
-| The Henry Stickmin Collection | 120710 | [120710-the-henry-stickmin-collection.json](./120710-the-henry-stickmin-collection.json) |
 | The Hepatica Spring | 190222 | [190222-the-hepatica-spring.json](./190222-the-hepatica-spring.json) |
 | The Herbalist | 231526 | [231526-the-herbalist.json](./231526-the-herbalist.json) |
 | The Herbalist | 30942 | [30942-the-herbalist.json](./30942-the-herbalist.json) |
@@ -7985,7 +7984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
 | The Inverted Spire | 176914 | [176914-the-inverted-spire.json](./176914-the-inverted-spire.json) |
 | The Investigation Files of Assistant Arimura | 133387 | [133387-the-investigation-files-of-assistant-arimura.json](./133387-the-investigation-files-of-assistant-arimura.json) |
-| The Invincible | 138906 | [138906-the-invincible.json](./138906-the-invincible.json) |
 | The InVincible Iron Ivy: Enter the Pretty, Pretty Princess | 270878 | [270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json](./270878-the-invincible-iron-ivy-enter-the-pretty-pretty-princess.json) |
 | The Invincible Iron Man: Flight Test | 278483 | [278483-the-invincible-iron-man-flight-test.json](./278483-the-invincible-iron-man-flight-test.json) |
 | The Invincible Run-Gun-Bot | 179653 | [179653-the-invincible-run-gun-bot.json](./179653-the-invincible-run-gun-bot.json) |
@@ -8043,7 +8041,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
 | The Jackbox Party Pack 12 | 400686 | [400686-the-jackbox-party-pack-12.json](./400686-the-jackbox-party-pack-12.json) |
 | The Jackbox Party Pack 2 | 19081 | [19081-the-jackbox-party-pack-2.json](./19081-the-jackbox-party-pack-2.json) |
-| The Jackbox Party Pack 3 | 19082 | [19082-the-jackbox-party-pack-3.json](./19082-the-jackbox-party-pack-3.json) |
 | The Jackbox Party Pack 8 | 144783 | [144783-the-jackbox-party-pack-8.json](./144783-the-jackbox-party-pack-8.json) |
 | The Jackbox Party Pack 9 | 198560 | [198560-the-jackbox-party-pack-9.json](./198560-the-jackbox-party-pack-9.json) |
 | The Jackbox Party Quintpack | 112915 | [112915-the-jackbox-party-quintpack.json](./112915-the-jackbox-party-quintpack.json) |
@@ -16870,7 +16867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
 | Tiny Time Travellers | 122119 | [122119-tiny-time-travellers.json](./122119-tiny-time-travellers.json) |
 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure | 180298 | [180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json](./180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json) |
-| Tiny Tina's Wonderlands | 152061 | [152061-tiny-tinas-wonderlands.json](./152061-tiny-tinas-wonderlands.json) |
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
 | Tiny Tina's Wonderlands: Coiled Captors | 204919 | [204919-tiny-tinas-wonderlands-coiled-captors.json](./204919-tiny-tinas-wonderlands-coiled-captors.json) |
 | Tiny Tina's Wonderlands: Glutton's Gamble | 205019 | [205019-tiny-tinas-wonderlands-gluttons-gamble.json](./205019-tiny-tinas-wonderlands-gluttons-gamble.json) |
@@ -23260,7 +23256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok Bundle | 103215 | [103215-turok-bundle.json](./103215-turok-bundle.json) |
 | Turok Trilogy Bundle | 279028 | [279028-turok-trilogy-bundle.json](./279028-turok-trilogy-bundle.json) |
 | Turok: Battle of the Bionosaurs | 1325 | [1325-turok-battle-of-the-bionosaurs.json](./1325-turok-battle-of-the-bionosaurs.json) |
-| Turok: Dinosaur Hunter | 1321 | [1321-turok-dinosaur-hunter.json](./1321-turok-dinosaur-hunter.json) |
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
