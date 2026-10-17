@@ -6923,6 +6923,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔguāng zhī Shī | 157116 | [157116-shuguang-zhi-shi.json](./157116-shuguang-zhi-shi.json) |
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
+| Shujinkou: Deluxe Edition | 368778 | [368778-shujinkou-deluxe-edition.json](./368778-shujinkou-deluxe-edition.json) |
+| Shujinkou: Sabaku Arc | 368786 | [368786-shujinkou-sabaku-arc.json](./368786-shujinkou-sabaku-arc.json) |
+| Shujinkou: Super Deluxe Edition | 368776 | [368776-shujinkou-super-deluxe-edition.json](./368776-shujinkou-super-deluxe-edition.json) |
+| Shujinkou: Swimsuit Quests | 368785 | [368785-shujinkou-swimsuit-quests.json](./368785-shujinkou-swimsuit-quests.json) |
 | Shukkou!! Container-maru | 107070 | [107070-shukkou-container-maru.json](./107070-shukkou-container-maru.json) |
 | Shukuchi Ninja | 213457 | [213457-shukuchi-ninja.json](./213457-shukuchi-ninja.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
@@ -9762,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slinki | 35633 | [35633-slinki.json](./35633-slinki.json) |
+| Slinkie Dinkie | 368796 | [368796-slinkie-dinkie.json](./368796-slinkie-dinkie.json) |
 | Slip | 36357 | [36357-slip.json](./36357-slip.json) |
 | Slip 'n Dip | 167365 | [167365-slip-n-dip.json](./167365-slip-n-dip.json) |
 | Slip 'n Slime | 310190 | [310190-slip-n-slime.json](./310190-slip-n-slime.json) |
@@ -10308,6 +10313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
 | Smoking Simulator | 276168 | [276168-smoking-simulator.json](./276168-smoking-simulator.json) |
 | Smoking Snakes | 197952 | [197952-smoking-snakes.json](./197952-smoking-snakes.json) |
+| Smokkehed | 368788 | [368788-smokkehed.json](./368788-smokkehed.json) |
 | Smoky White | 326777 | [326777-smoky-white.json](./326777-smoky-white.json) |
 | Smol Adventure | 353893 | [353893-smol-adventure.json](./353893-smol-adventure.json) |
 | Smol Birb | 139262 | [139262-smol-birb.json](./139262-smol-birb.json) |
@@ -10845,6 +10851,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
+| Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
+| Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
 | Snoopy no Hajimete no Otsukai | 324912 | [324912-snoopy-no-hajimete-no-otsukai.json](./324912-snoopy-no-hajimete-no-otsukai.json) |
 | Snoopy Pop | 87016 | [87016-snoopy-pop.json](./87016-snoopy-pop.json) |
@@ -14368,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebourne | 105193 | [105193-spacebourne.json](./105193-spacebourne.json) |
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
+| SpaceCab | 368777 | [368777-spacecab.json](./368777-spacecab.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
@@ -16347,6 +16356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
+| Spy Guy Memory: Circus | 368782 | [368782-spy-guy-memory-circus.json](./368782-spy-guy-memory-circus.json) |
 | Spy Guy Memory: Fantasy Edition | 362219 | [362219-spy-guy-memory-fantasy-edition.json](./362219-spy-guy-memory-fantasy-edition.json) |
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
 | Spy Guy Memory: Vacation Edition | 404286 | [404286-spy-guy-memory-vacation-edition.json](./404286-spy-guy-memory-vacation-edition.json) |
@@ -22428,6 +22438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
+| Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
@@ -23647,6 +23658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker | 351233 | [351233-super-sucker.json](./351233-super-sucker.json) |
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
 | Super Sucker: Complete Edition | 356811 | [356811-super-sucker-complete-edition.json](./356811-super-sucker-complete-edition.json) |
+| Super Sucker: Crazy Edition | 368774 | [368774-super-sucker-crazy-edition.json](./368774-super-sucker-crazy-edition.json) |
 | Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
@@ -24908,6 +24920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Half-Life | 221652 | [221652-sweet-half-life.json](./221652-sweet-half-life.json) |
+| Sweet Hamster Days | 368802 | [368802-sweet-hamster-days.json](./368802-sweet-hamster-days.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
 | Sweet Hell | 293710 | [293710-sweet-hell.json](./293710-sweet-hell.json) |
