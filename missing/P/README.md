@@ -5544,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piratiska Riba VR | 182876 | [182876-piratiska-riba-vr.json](./182876-piratiska-riba-vr.json) |
 | Piratopia: Raiders of Pirate Bay | 239585 | [239585-piratopia-raiders-of-pirate-bay.json](./239585-piratopia-raiders-of-pirate-bay.json) |
 | Piron Virus | 275091 | [275091-piron-virus.json](./275091-piron-virus.json) |
+| Piropa | 382587 | [382587-piropa.json](./382587-piropa.json) |
 | PiroPito | 276754 | [276754-piropito.json](./276754-piropito.json) |
 | Pirouette | 120666 | [120666-pirouette.json](./120666-pirouette.json) |
 | Pisces | 109444 | [109444-pisces.json](./109444-pisces.json) |
@@ -8931,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Logo Quiz | 105862 | [105862-pop-logo-quiz.json](./105862-pop-logo-quiz.json) |
 | Pop Moto | 249446 | [249446-pop-moto.json](./249446-pop-moto.json) |
 | Pop Off 2 | 264771 | [264771-pop-off-2.json](./264771-pop-off-2.json) |
+| Pop Pixie | 382504 | [382504-pop-pixie.json](./382504-pop-pixie.json) |
 | Pop Plus: Solo | 67886 | [67886-pop-plus-solo.json](./67886-pop-plus-solo.json) |
 | Pop Pop | 204211 | [204211-pop-pop.json](./204211-pop-pop.json) |
 | Pop Pop Pop | 54283 | [54283-pop-pop-pop.json](./54283-pop-pop-pop.json) |
