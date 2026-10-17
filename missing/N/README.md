@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Near-Mage: Deluxe Edition | 402955 | [402955-near-mage-deluxe-edition.json](./402955-near-mage-deluxe-edition.json) |
 | NearEscape | 109685 | [109685-nearescape.json](./109685-nearescape.json) |
 | Nearly Dead: Live and Let Die | 235190 | [235190-nearly-dead-live-and-let-die.json](./235190-nearly-dead-live-and-let-die.json) |
+| Nearly Impossible Odds | 373284 | [373284-nearly-impossible-odds.json](./373284-nearly-impossible-odds.json) |
 | NearPrime VR | 122141 | [122141-nearprime-vr.json](./122141-nearprime-vr.json) |
 | Neat | 396576 | [396576-neat.json](./396576-neat.json) |
 | Neaten Up! | 385592 | [385592-neaten-up.json](./385592-neaten-up.json) |
@@ -4102,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Fear Downhill Mountain Biking | 4654 | [4654-no-fear-downhill-mountain-biking.json](./4654-no-fear-downhill-mountain-biking.json) |
 | No Final Night: Protect the Sponk Can | 410918 | [410918-no-final-night-protect-the-sponk-can.json](./410918-no-final-night-protect-the-sponk-can.json) |
 | No Food No Drink | 338752 | [338752-no-food-no-drink.json](./338752-no-food-no-drink.json) |
+| No Food? | 373261 | [373261-no-food.json](./373261-no-food.json) |
 | No Forgiveness | 365147 | [365147-no-forgiveness.json](./365147-no-forgiveness.json) |
 | No Fox Season | 372690 | [372690-no-fox-season.json](./372690-no-fox-season.json) |
 | No Friends | 244337 | [244337-no-friends.json](./244337-no-friends.json) |
@@ -4812,6 +4814,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
 | Noroi Kago: The Grduged Domain - The Birth of Kitaro: The Mystery of GeGeGe Costume - Kitaro's father and Mizuki | 355202 | [355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json](./355202-noroi-kago-the-grduged-domain-the-birth-of-kitaro-the-mystery-of-gegege-costume-kitaros-father-and-mizuki.json) |
+| Noroi no Game: Chi | 373252 | [373252-noroi-no-game-chi.json](./373252-noroi-no-game-chi.json) |
+| Noroi no Game: Goku | 373253 | [373253-noroi-no-game-goku.json](./373253-noroi-no-game-goku.json) |
 | Noroi no Kegareuta: Narumi Tatsuya no Kaikiroku | 349464 | [349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json](./349464-noroi-no-kegareuta-narumi-tatsuya-no-kaikiroku.json) |
 | Noroware Cycle | 223481 | [223481-noroware-cycle.json](./223481-noroware-cycle.json) |
 | NoRoY | 193490 | [193490-noroy.json](./193490-noroy.json) |
@@ -5103,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Patria | 353828 | [353828-nova-patria.json](./353828-nova-patria.json) |
+| Nova Rally | 373246 | [373246-nova-rally.json](./373246-nova-rally.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
