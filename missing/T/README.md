@@ -18384,7 +18384,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
 | Torecower | 235712 | [235712-torecower.json](./235712-torecower.json) |
 | Toree 2 | 172664 | [172664-toree-2.json](./172664-toree-2.json) |
-| Toree 3D | 144687 | [144687-toree-3d.json](./144687-toree-3d.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
 | Toree Jumbled Jam 2 | 310614 | [310614-toree-jumbled-jam-2.json](./310614-toree-jumbled-jam-2.json) |
 | Toree Missions | 310613 | [310613-toree-missions.json](./310613-toree-missions.json) |
