@@ -8859,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
+| MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
 | Miney Company: A Data Racket | 86746 | [86746-miney-company-a-data-racket.json](./86746-miney-company-a-data-racket.json) |
@@ -8867,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Míngjiào Fēngyún zhī Jiǔ Yīn Jiǔ Yáng | 155014 | [155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json](./155014-mingjiao-fengyun-zhi-jiu-yin-jiu-yang.json) |
 | Mingle | 214416 | [214416-mingle.json](./214416-mingle.json) |
 | Mingy Jongo | 60609 | [60609-mingy-jongo.json](./60609-mingy-jongo.json) |
+| Mìngyùn Biānjì | 389498 | [389498-mingyun-bianji.json](./389498-mingyun-bianji.json) |
 | Mìngyùn de Yǐndǎozhě: Chuánshuō Bǎoshí | 394195 | [394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json](./394195-mingyun-de-yindaozhe-chuanshuo-baoshi.json) |
 | Minha Casa | 307864 | [307864-minha-casa.json](./307864-minha-casa.json) |
 | Mini & Max | 318736 | [318736-mini-and-max.json](./318736-mini-and-max.json) |
