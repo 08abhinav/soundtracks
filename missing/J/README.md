@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jordan vs. Bird: One on One | 198783 | [198783-jordan-vs-bird-one-on-one.json](./198783-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 330926 | [330926-jordan-vs-bird-one-on-one.json](./330926-jordan-vs-bird-one-on-one.json) |
 | Jordan vs. Bird: One on One | 361783 | [361783-jordan-vs-bird-one-on-one.json](./361783-jordan-vs-bird-one-on-one.json) |
+| JordGlobe | 402322 | [402322-jordglobe.json](./402322-jordglobe.json) |
 | Jordi & Oslo: The Lost Tail | 303593 | [303593-jordi-and-oslo-the-lost-tail.json](./303593-jordi-and-oslo-the-lost-tail.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy | 207334 | [207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json](./207334-jorels-brother-and-the-most-important-game-of-the-galaxy.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 1 - Take Control | 253296 | [253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json](./253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json) |
@@ -2693,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Excite | 146779 | [146779-jurassic-excite.json](./146779-jurassic-excite.json) |
 | Jurassic Extinction | 150250 | [150250-jurassic-extinction.json](./150250-jurassic-extinction.json) |
 | Jurassic Fantasy | 149859 | [149859-jurassic-fantasy.json](./149859-jurassic-fantasy.json) |
+| Jurassic Fart Simulator | 402242 | [402242-jurassic-fart-simulator.json](./402242-jurassic-fart-simulator.json) |
 | Jurassic Fossil & Mine Exploration Bundle | 401122 | [401122-jurassic-fossil-and-mine-exploration-bundle.json](./401122-jurassic-fossil-and-mine-exploration-bundle.json) |
 | Jurassic Free Fall - Match 3 | 87102 | [87102-jurassic-free-fall-match-3.json](./87102-jurassic-free-fall-match-3.json) |
 | Jurassic Genesis: We Are Aliens | 411586 | [411586-jurassic-genesis-we-are-aliens.json](./411586-jurassic-genesis-we-are-aliens.json) |
