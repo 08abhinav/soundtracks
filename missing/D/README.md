@@ -8471,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Defense VR | 33183 | [33183-domain-defense-vr.json](./33183-domain-defense-vr.json) |
+| Domain of God | 368270 | [368270-domain-of-god.json](./368270-domain-of-god.json) |
 | Domain Owner | 312203 | [312203-domain-owner.json](./312203-domain-owner.json) |
 | Domaine | 85756 | [85756-domaine.json](./85756-domaine.json) |
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
@@ -12522,6 +12523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummy Pirates | 235171 | [235171-dummy-pirates.json](./235171-dummy-pirates.json) |
 | DummyDoodle | 303494 | [303494-dummydoodle.json](./303494-dummydoodle.json) |
 | Dummynation | 196265 | [196265-dummynation.json](./196265-dummynation.json) |
+| Dump of the Dead X | 368232 | [368232-dump-of-the-dead-x.json](./368232-dump-of-the-dead-x.json) |
 | Dump The Corpse | 288818 | [288818-dump-the-corpse.json](./288818-dump-the-corpse.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
 | Dumpling | 377844 | [377844-dumpling.json](./377844-dumpling.json) |
