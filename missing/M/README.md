@@ -14304,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
+| My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
 | My Furry Succubus | 253899 | [253899-my-furry-succubus.json](./253899-my-furry-succubus.json) |
 | My Furry Trainer | 215892 | [215892-my-furry-trainer.json](./215892-my-furry-trainer.json) |
 | My Futa Girlfriend | 297151 | [297151-my-futa-girlfriend.json](./297151-my-futa-girlfriend.json) |
