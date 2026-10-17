@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicami | 150593 | [150593-magicami.json](./150593-magicami.json) |
 | MagicArchitect | 284268 | [284268-magicarchitect.json](./284268-magicarchitect.json) |
 | MagiCarnage | 211730 | [211730-magicarnage.json](./211730-magicarnage.json) |
+| Magicat | 376831 | [376831-magicat.json](./376831-magicat.json) |
 | MagiCats Builder: Infinite Pack | 170312 | [170312-magicats-builder-infinite-pack.json](./170312-magicats-builder-infinite-pack.json) |
 | MagiCats Worlds | 111530 | [111530-magicats-worlds.json](./111530-magicats-worlds.json) |
 | MagicBeans | 257857 | [257857-magicbeans.json](./257857-magicbeans.json) |
@@ -8385,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimicry | 166825 | [166825-mimicry.json](./166825-mimicry.json) |
 | Mimicry | 342757 | [342757-mimicry.json](./342757-mimicry.json) |
 | Mimicry Man | 61570 | [61570-mimicry-man.json](./61570-mimicry-man.json) |
+| Mimicry! | 376827 | [376827-mimicry.json](./376827-mimicry.json) |
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
@@ -11151,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend | 394804 | [394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json](./394804-monster-hunter-stories-3-twisted-reflection-layered-armor-for-simon-wind-wyverns-friend.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward | 378874 | [378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json](./378874-monster-hunter-stories-3-twisted-reflection-layered-armor-for-thea-canyne-ward.json) |
 | Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra | 378872 | [378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json](./378872-monster-hunter-stories-3-twisted-reflection-rudys-outfit-relaxed-acabra.json) |
+| Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set | 376797 | [376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json](./376797-monster-hunter-stories-3-twisted-reflection-special-outfits-set.json) |
 | Monster Hunter Stories Collection | 292151 | [292151-monster-hunter-stories-collection.json](./292151-monster-hunter-stories-collection.json) |
 | Monster Hunter Stories Deluxe Collection | 306546 | [306546-monster-hunter-stories-deluxe-collection.json](./306546-monster-hunter-stories-deluxe-collection.json) |
 | Monster Hunter Tri | 2268 | [2268-monster-hunter-tri.json](./2268-monster-hunter-tri.json) |
@@ -15165,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious City Vegas | 53392 | [53392-mysterious-city-vegas.json](./53392-mysterious-city-vegas.json) |
 | Mysterious Forum and 7 Rumors | 115484 | [115484-mysterious-forum-and-7-rumors.json](./115484-mysterious-forum-and-7-rumors.json) |
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
+| Mysterious House | 376828 | [376828-mysterious-house.json](./376828-mysterious-house.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
 | Mysterious Island Remastered | 180548 | [180548-mysterious-island-remastered.json](./180548-mysterious-island-remastered.json) |
 | Mysterious Island Remastered | 53393 | [53393-mysterious-island-remastered.json](./53393-mysterious-island-remastered.json) |
