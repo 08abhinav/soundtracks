@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:02:17.457Z",
-  "total_soundtracks": 2034,
+  "generated_at": "2026-10-17T15:05:26.883Z",
+  "total_soundtracks": 2035,
   "games": [
     {
       "igdb_id": 7522,
@@ -6037,6 +6037,20 @@
           "spotify_url": "https://open.spotify.com/album/6SFBSlMnqv8xd2aQcagqaq",
           "apple_music_url": "https://music.apple.com/us/album/donut-county-original-soundtrack/1432671630",
           "album_link_url": "https://album.link/i/1432671630"
+        }
+      ]
+    },
+    {
+      "igdb_id": 76217,
+      "game_name": "Doom",
+      "game_url": "https://ostdb.net/games/doom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d83f8af506d83594dda66e8",
+      "albums": [
+        {
+          "album_name": "DOOM (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2kYRPh6BbYzaeunZBWHE6Z",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
