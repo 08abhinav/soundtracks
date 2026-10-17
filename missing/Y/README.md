@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Merman Boyfriend | 177352 | [177352-your-merman-boyfriend.json](./177352-your-merman-boyfriend.json) |
 | Your Mom | 195615 | [195615-your-mom.json](./195615-your-mom.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
+| Your Mother Disgusts Me | 388801 | [388801-your-mother-disgusts-me.json](./388801-your-mother-disgusts-me.json) |
 | Your Otherworldly Harem | 235723 | [235723-your-otherworldly-harem.json](./235723-your-otherworldly-harem.json) |
 | Your Own Cozy Motel | 409729 | [409729-your-own-cozy-motel.json](./409729-your-own-cozy-motel.json) |
 | Your Painting, Sir | 383657 | [383657-your-painting-sir.json](./383657-your-painting-sir.json) |
