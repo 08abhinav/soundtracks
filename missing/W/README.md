@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Covered 2: Censored Edition | 392892 | [392892-waifu-covered-2-censored-edition.json](./392892-waifu-covered-2-censored-edition.json) |
 | Waifu Crush | 188522 | [188522-waifu-crush.json](./188522-waifu-crush.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
+| Waifu Discovered 3: Cyberpunk Fantasy | 409881 | [409881-waifu-discovered-3-cyberpunk-fantasy.json](./409881-waifu-discovered-3-cyberpunk-fantasy.json) |
 | Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
 | Waifu Force | 264527 | [264527-waifu-force.json](./264527-waifu-force.json) |
 | Waifu Hunter - Secret of Pirates | 112806 | [112806-waifu-hunter-secret-of-pirates.json](./112806-waifu-hunter-secret-of-pirates.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Golf RPG | 243711 | [243711-wizard-golf-rpg.json](./243711-wizard-golf-rpg.json) |
 | Wizard Graph | 185501 | [185501-wizard-graph.json](./185501-wizard-graph.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
+| Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter: The End of the Magic World | 283218 | [283218-wizard-hunter-the-end-of-the-magic-world.json](./283218-wizard-hunter-the-end-of-the-magic-world.json) |
 | Wizard King | 29840 | [29840-wizard-king.json](./29840-wizard-king.json) |
 | Wizard Lady | 248929 | [248929-wizard-lady.json](./248929-wizard-lady.json) |
