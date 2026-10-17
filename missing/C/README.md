@@ -1420,6 +1420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car For Sale Simulator 2023 | 233027 | [233027-car-for-sale-simulator-2023.json](./233027-car-for-sale-simulator-2023.json) |
 | Car for Sale Simulator 2023: Car Mechanic, Wash, Car Flipper | 273327 | [273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json](./273327-car-for-sale-simulator-2023-car-mechanic-wash-car-flipper.json) |
 | Car For Sale Simulator 2023: PickUp & SUV | 359608 | [359608-car-for-sale-simulator-2023-pickup-and-suv.json](./359608-car-for-sale-simulator-2023-pickup-and-suv.json) |
+| Car For Sale Together | 394613 | [394613-car-for-sale-together.json](./394613-car-for-sale-together.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
@@ -4014,6 +4015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
+| Chao5: The Un-Balance Mod Returns! | 394606 | [394606-chao5-the-un-balance-mod-returns.json](./394606-chao5-the-un-balance-mod-returns.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
 | Chaomin | 281014 | [281014-chaomin.json](./281014-chaomin.json) |
 | Chaordic | 112860 | [112860-chaordic.json](./112860-chaordic.json) |
