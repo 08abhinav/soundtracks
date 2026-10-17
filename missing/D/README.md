@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone Rogue 2 | 403822 | [403822-deadzone-rogue-2.json](./403822-deadzone-rogue-2.json) |
 | Deadzone: Rogue | 316979 | [316979-deadzone-rogue.json](./316979-deadzone-rogue.json) |
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
+| DeadZone: Survival Ops Zombie Shooter | 376225 | [376225-deadzone-survival-ops-zombie-shooter.json](./376225-deadzone-survival-ops-zombie-shooter.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | Deaf Wish | 297883 | [297883-deaf-wish.json](./297883-deaf-wish.json) |
 | DeafBlind | 302434 | [302434-deafblind.json](./302434-deafblind.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
+| Deorum | 376205 | [376205-deorum.json](./376205-deorum.json) |
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Dep Brothers! | 133729 | [133729-dep-brothers.json](./133729-dep-brothers.json) |
@@ -7459,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersal Vectors | 364364 | [364364-dispersal-vectors.json](./364364-dispersal-vectors.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
+| Dispersio 3 | 376189 | [376189-dispersio-3.json](./376189-dispersio-3.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
@@ -12409,6 +12412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
+| Duke Nukem Eternity | 376199 | [376199-duke-nukem-eternity.json](./376199-duke-nukem-eternity.json) |
 | Duke Nukem Forever | 490 | [490-duke-nukem-forever.json](./490-duke-nukem-forever.json) |
 | Duke Nukem Forever 2013 | 153446 | [153446-duke-nukem-forever-2013.json](./153446-duke-nukem-forever-2013.json) |
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
