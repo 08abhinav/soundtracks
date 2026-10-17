@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fi | 60353 | [60353-sci-fi.json](./60353-sci-fi.json) |
 | Sci-Fi Channel Trivia Game | 98802 | [98802-sci-fi-channel-trivia-game.json](./98802-sci-fi-channel-trivia-game.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
+| SCI-Hard | 368255 | [368255-sci-hard.json](./368255-sci-hard.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
 | Science Art: Jigsaw Puzzle | 106748 | [106748-science-art-jigsaw-puzzle.json](./106748-science-art-jigsaw-puzzle.json) |
 | Science Fiction Classics | 78670 | [78670-science-fiction-classics.json](./78670-science-fiction-classics.json) |
@@ -5220,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shantae: Half-Genie Hero - Ultimate Day One Edition | 136277 | [136277-shantae-half-genie-hero-ultimate-day-one-edition.json](./136277-shantae-half-genie-hero-ultimate-day-one-edition.json) |
 | Shantae: Half-Genie Hero - Ultimate Edition | 95832 | [95832-shantae-half-genie-hero-ultimate-edition.json](./95832-shantae-half-genie-hero-ultimate-edition.json) |
 | Shantae: Risky's Revenge | 11782 | [11782-shantae-riskys-revenge.json](./11782-shantae-riskys-revenge.json) |
+| Shantalia and Corali'hulu | 368261 | [368261-shantalia-and-coralihulu.json](./368261-shantalia-and-coralihulu.json) |
 | Shanties in Strange Waters | 180756 | [180756-shanties-in-strange-waters.json](./180756-shanties-in-strange-waters.json) |
 | ShantyTown | 258979 | [258979-shantytown.json](./258979-shantytown.json) |
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
@@ -7721,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Similo: History | 170927 | [170927-similo-history.json](./170927-similo-history.json) |
 | Similo: Spookies | 170926 | [170926-similo-spookies.json](./170926-similo-spookies.json) |
 | SimIsle: Missions in the Rainforest | 12907 | [12907-simisle-missions-in-the-rainforest.json](./12907-simisle-missions-in-the-rainforest.json) |
+| Simkea | 368231 | [368231-simkea.json](./368231-simkea.json) |
 | SimLife | 12768 | [12768-simlife.json](./12768-simlife.json) |
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simogo Legacy Collection | 375500 | [375500-simogo-legacy-collection.json](./375500-simogo-legacy-collection.json) |
@@ -23584,6 +23587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Spin | 216310 | [216310-super-spin.json](./216310-super-spin.json) |
 | Super Splash League | 361780 | [361780-super-splash-league.json](./361780-super-splash-league.json) |
+| Super SplashTube Bros. | 368259 | [368259-super-splashtube-bros.json](./368259-super-splashtube-bros.json) |
 | Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
 | Super SpongeBob 2 | 382398 | [382398-super-spongebob-2.json](./382398-super-spongebob-2.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
