@@ -6206,7 +6206,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
 | Dig Dug | 218861 | [218861-dig-dug.json](./218861-dig-dug.json) |
-| Dig Dug | 2636 | [2636-dig-dug.json](./2636-dig-dug.json) |
 | Dig Dug Arrangement | 132160 | [132160-dig-dug-arrangement.json](./132160-dig-dug-arrangement.json) |
 | Dig Dug Arrangement | 178410 | [178410-dig-dug-arrangement.json](./178410-dig-dug-arrangement.json) |
 | Dig Dug Deeper | 2737 | [2737-dig-dug-deeper.json](./2737-dig-dug-deeper.json) |
