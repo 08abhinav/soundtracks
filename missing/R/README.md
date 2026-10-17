@@ -5865,7 +5865,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River and Lake Knights | 99423 | [99423-river-and-lake-knights.json](./99423-river-and-lake-knights.json) |
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
-| River City Girls | 117533 | [117533-river-city-girls.json](./117533-river-city-girls.json) |
 | River City Girls 1, 2, and Zero + Double Dragon DLC Bundle | 346009 | [346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json](./346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json) |
 | River City Girls 2 | 152321 | [152321-river-city-girls-2.json](./152321-river-city-girls-2.json) |
 | River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
