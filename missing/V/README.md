@@ -1786,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
 | VIP Spades | 84289 | [84289-vip-spades.json](./84289-vip-spades.json) |
 | Viper | 12901 | [12901-viper.json](./12901-viper.json) |
+| Viper Patrol | 371551 | [371551-viper-patrol.json](./371551-viper-patrol.json) |
 | Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Racing | 937 | [937-viper-racing.json](./937-viper-racing.json) |
 | Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
