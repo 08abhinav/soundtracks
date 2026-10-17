@@ -1359,6 +1359,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f8/76/90/f8769027-e3ae-07ce-5e75-214a7691c804/197208333013_cover.jpg/600x600bb.jpg" width="60" /> | [Syberia 3](https://ostdb.net/games/syberia-3) | **Syberia 3 (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/syberia-3-original-game-soundtrack/1867243966?uo=4) · [Album](https://album.link/i/1867243966) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730a8e9dd91a117c1a48d0e005" width="60" /> | [Syberia: The World Before](https://ostdb.net/games/syberia-the-world-before) | **Syberia: The World Before (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0HWNDnRxZ4iwq08a2uMzTc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739d28133721cc1fc141205e67" width="60" /> | [System Shock](https://ostdb.net/games/system-shock) | **System Shock (Remastered) [Original Video Game Soundtrack]** · [Spotify](https://open.spotify.com/album/3nhrXH7EKXwDdC381DjD3n) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2739d28133721cc1fc141205e67" width="60" /> | [System Shock](https://ostdb.net/games/system-shock) | **System Shock (Remastered) [Original Video Game Soundtrack]** · [Spotify](https://open.spotify.com/album/3nhrXH7EKXwDdC381DjD3n) |
 
 ### T
 
@@ -1711,4 +1712,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2028 soundtracks · last updated 2026-10-17T15:01:24.184Z_
+_2029 soundtracks · last updated 2026-10-17T15:01:33.861Z_
