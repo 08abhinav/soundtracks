@@ -3785,6 +3785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain of Eroticism | 163400 | [163400-chain-of-eroticism.json](./163400-chain-of-eroticism.json) |
 | Chain Quest | 200106 | [200106-chain-quest.json](./200106-chain-quest.json) |
 | Chain Reaction | 264566 | [264566-chain-reaction.json](./264566-chain-reaction.json) |
+| Chain Reaction | 377351 | [377351-chain-reaction.json](./377351-chain-reaction.json) |
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
@@ -8646,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
 | ColorPixel: Color by Number, Pixel Art | 101658 | [101658-colorpixel-color-by-number-pixel-art.json](./101658-colorpixel-color-by-number-pixel-art.json) |
+| Colors | 377345 | [377345-colors.json](./377345-colors.json) |
 | Colors -Break Bricks- | 62009 | [62009-colors-break-bricks.json](./62009-colors-break-bricks.json) |
 | Colors 3D | 47652 | [47652-colors-3d.json](./47652-colors-3d.json) |
 | Colors and their Meanings | 274519 | [274519-colors-and-their-meanings.json](./274519-colors-and-their-meanings.json) |
@@ -10343,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Suck Up | 338888 | [338888-corporate-suck-up.json](./338888-corporate-suck-up.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
 | Corporation Inc. | 334726 | [334726-corporation-inc.json](./334726-corporation-inc.json) |
+| Corporation Inc. | 377352 | [377352-corporation-inc.json](./377352-corporation-inc.json) |
 | Corporation Liberty | 379030 | [379030-corporation-liberty.json](./379030-corporation-liberty.json) |
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
