@@ -2402,3 +2402,4 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Život Není Krásný: Poslední Exekuce | 401633 | [401633-zivot-neni-krasny-posledni-exekuce.json](./401633-zivot-neni-krasny-posledni-exekuce.json) |
 | µTanks | 66920 | [66920-tanks.json](./66920-tanks.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
+| 乌合之罪 | 412932 | [412932-.json](./412932-.json) |
