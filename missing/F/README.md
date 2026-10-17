@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IX Remake | 309656 | [309656-final-fantasy-ix-remake.json](./309656-final-fantasy-ix-remake.json) |
 | Final Fantasy IX: Alternate Fantasy | 360108 | [360108-final-fantasy-ix-alternate-fantasy.json](./360108-final-fantasy-ix-alternate-fantasy.json) |
 | Final Fantasy Legend II | 403 | [403-final-fantasy-legend-ii.json](./403-final-fantasy-legend-ii.json) |
+| Final Fantasy Legend III DX | 366027 | [366027-final-fantasy-legend-iii-dx.json](./366027-final-fantasy-legend-iii-dx.json) |
 | Final Fantasy Legends: Toki no Suisho | 60600 | [60600-final-fantasy-legends-toki-no-suisho.json](./60600-final-fantasy-legends-toki-no-suisho.json) |
 | Final Fantasy Origins | 417 | [417-final-fantasy-origins.json](./417-final-fantasy-origins.json) |
 | Final Fantasy Redux | 219282 | [219282-final-fantasy-redux.json](./219282-final-fantasy-redux.json) |
@@ -4746,9 +4747,46 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Nation | 252686 | [252686-fishing-nation.json](./252686-fishing-nation.json) |
 | Fishing Online | 274975 | [274975-fishing-online.json](./274975-fishing-online.json) |
 | Fishing Paradise 3D | 25744 | [25744-fishing-paradise-3d.json](./25744-fishing-paradise-3d.json) |
+| Fishing Planet Anniversary Pack | 366005 | [366005-fishing-planet-anniversary-pack.json](./366005-fishing-planet-anniversary-pack.json) |
+| Fishing Planet Boat Series Pack | 366001 | [366001-fishing-planet-boat-series-pack.json](./366001-fishing-planet-boat-series-pack.json) |
+| Fishing Planet: Advanced Pack | 365993 | [365993-fishing-planet-advanced-pack.json](./365993-fishing-planet-advanced-pack.json) |
+| Fishing Planet: Amazon Carnival Pack | 365995 | [365995-fishing-planet-amazon-carnival-pack.json](./365995-fishing-planet-amazon-carnival-pack.json) |
+| Fishing Planet: Atoll Scout Pack | 365982 | [365982-fishing-planet-atoll-scout-pack.json](./365982-fishing-planet-atoll-scout-pack.json) |
+| Fishing Planet: BassBoat Explorer Pack | 366004 | [366004-fishing-planet-bassboat-explorer-pack.json](./366004-fishing-planet-bassboat-explorer-pack.json) |
+| Fishing Planet: Bottom Pack | 365988 | [365988-fishing-planet-bottom-pack.json](./365988-fishing-planet-bottom-pack.json) |
+| Fishing Planet: Bream Feeder Frenzy Pack | 365996 | [365996-fishing-planet-bream-feeder-frenzy-pack.json](./365996-fishing-planet-bream-feeder-frenzy-pack.json) |
+| Fishing Planet: Carp Lord Pack | 366019 | [366019-fishing-planet-carp-lord-pack.json](./366019-fishing-planet-carp-lord-pack.json) |
+| Fishing Planet: Carp Pro Pack | 365987 | [365987-fishing-planet-carp-pro-pack.json](./365987-fishing-planet-carp-pro-pack.json) |
+| Fishing Planet: Chamaeleon Cruiser Pack | 365981 | [365981-fishing-planet-chamaeleon-cruiser-pack.json](./365981-fishing-planet-chamaeleon-cruiser-pack.json) |
+| Fishing Planet: Christmas Giant's Pack | 366014 | [366014-fishing-planet-christmas-giants-pack.json](./366014-fishing-planet-christmas-giants-pack.json) |
+| Fishing Planet: Congo Discovery Pack | 366010 | [366010-fishing-planet-congo-discovery-pack.json](./366010-fishing-planet-congo-discovery-pack.json) |
+| Fishing Planet: Daredevil Boat Pack | 365986 | [365986-fishing-planet-daredevil-boat-pack.json](./365986-fishing-planet-daredevil-boat-pack.json) |
+| Fishing Planet: Dnipro Delta Pack | 365985 | [365985-fishing-planet-dnipro-delta-pack.json](./365985-fishing-planet-dnipro-delta-pack.json) |
+| Fishing Planet: Feeder Dream Pack | 366003 | [366003-fishing-planet-feeder-dream-pack.json](./366003-fishing-planet-feeder-dream-pack.json) |
+| Fishing Planet: Golden Angler Pack | 365983 | [365983-fishing-planet-golden-angler-pack.json](./365983-fishing-planet-golden-angler-pack.json) |
+| Fishing Planet: Green Fortune Event Pack | 365984 | [365984-fishing-planet-green-fortune-event-pack.json](./365984-fishing-planet-green-fortune-event-pack.json) |
+| Fishing Planet: Happy 4th of July Pack! | 366015 | [366015-fishing-planet-happy-4th-of-july-pack.json](./366015-fishing-planet-happy-4th-of-july-pack.json) |
+| Fishing Planet: Kayaks Adventure Pack | 365997 | [365997-fishing-planet-kayaks-adventure-pack.json](./365997-fishing-planet-kayaks-adventure-pack.json) |
+| Fishing Planet: Krampus Catcher Pack | 366002 | [366002-fishing-planet-krampus-catcher-pack.json](./366002-fishing-planet-krampus-catcher-pack.json) |
+| Fishing Planet: Live Bait Fiesta Pack | 366013 | [366013-fishing-planet-live-bait-fiesta-pack.json](./366013-fishing-planet-live-bait-fiesta-pack.json) |
 | Fishing Planet: Lucky Start Bundle | 118865 | [118865-fishing-planet-lucky-start-bundle.json](./118865-fishing-planet-lucky-start-bundle.json) |
+| Fishing Planet: Rainforest Journey Pack | 366007 | [366007-fishing-planet-rainforest-journey-pack.json](./366007-fishing-planet-rainforest-journey-pack.json) |
+| Fishing Planet: Sailor Collection Pack | 365990 | [365990-fishing-planet-sailor-collection-pack.json](./365990-fishing-planet-sailor-collection-pack.json) |
+| Fishing Planet: Saltwater Match Pack | 366012 | [366012-fishing-planet-saltwater-match-pack.json](./366012-fishing-planet-saltwater-match-pack.json) |
+| Fishing Planet: Santa's Kayak Pack | 366008 | [366008-fishing-planet-santas-kayak-pack.json](./366008-fishing-planet-santas-kayak-pack.json) |
+| Fishing Planet: Sport Bottom Pack | 365994 | [365994-fishing-planet-sport-bottom-pack.json](./365994-fishing-planet-sport-bottom-pack.json) |
+| Fishing Planet: Sport Carp Pack | 366017 | [366017-fishing-planet-sport-carp-pack.json](./366017-fishing-planet-sport-carp-pack.json) |
+| Fishing Planet: Sport Casting Bass Pack | 366018 | [366018-fishing-planet-sport-casting-bass-pack.json](./366018-fishing-planet-sport-casting-bass-pack.json) |
+| Fishing Planet: Sport Feeder Pack | 366016 | [366016-fishing-planet-sport-feeder-pack.json](./366016-fishing-planet-sport-feeder-pack.json) |
+| Fishing Planet: Sport Float Pack | 366011 | [366011-fishing-planet-sport-float-pack.json](./366011-fishing-planet-sport-float-pack.json) |
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
+| Fishing Planet: Sport Topwater Night Pack | 365999 | [365999-fishing-planet-sport-topwater-night-pack.json](./365999-fishing-planet-sport-topwater-night-pack.json) |
+| Fishing Planet: Supernatural Explorer Pack | 365989 | [365989-fishing-planet-supernatural-explorer-pack.json](./365989-fishing-planet-supernatural-explorer-pack.json) |
+| Fishing Planet: Taimen Khan Pack | 366006 | [366006-fishing-planet-taimen-khan-pack.json](./366006-fishing-planet-taimen-khan-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
+| Fishing Planet: Tropic Hunter Pack | 366000 | [366000-fishing-planet-tropic-hunter-pack.json](./366000-fishing-planet-tropic-hunter-pack.json) |
+| Fishing Planet: Ultimate Sport Bundle | 365998 | [365998-fishing-planet-ultimate-sport-bundle.json](./365998-fishing-planet-ultimate-sport-bundle.json) |
+| Fishing Planet: World Cats Cup Pack | 366009 | [366009-fishing-planet-world-cats-cup-pack.json](./366009-fishing-planet-world-cats-cup-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Pro Simulator | 389043 | [389043-fishing-pro-simulator.json](./389043-fishing-pro-simulator.json) |
 | Fishing Resort | 19929 | [19929-fishing-resort.json](./19929-fishing-resort.json) |
