@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neofeud | 55688 | [55688-neofeud.json](./55688-neofeud.json) |
 | Neofeud 2 | 397714 | [397714-neofeud-2.json](./397714-neofeud-2.json) |
 | NeoFlux Drift | 146026 | [146026-neoflux-drift.json](./146026-neoflux-drift.json) |
+| Neofold | 404070 | [404070-neofold.json](./404070-neofold.json) |
 | Neogen BeatZ | 256539 | [256539-neogen-beatz.json](./256539-neogen-beatz.json) |
 | Neogen Space Monkeys | 221979 | [221979-neogen-space-monkeys.json](./221979-neogen-space-monkeys.json) |
 | NeoGeo Heroes Ultimate Shooting | 44507 | [44507-neogeo-heroes-ultimate-shooting.json](./44507-neogeo-heroes-ultimate-shooting.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuroshima Hex | 22276 | [22276-neuroshima-hex.json](./22276-neuroshima-hex.json) |
 | Neurosis | 245760 | [245760-neurosis.json](./245760-neurosis.json) |
 | Neuroslop | 409579 | [409579-neuroslop.json](./409579-neuroslop.json) |
+| Neurospasm | 404079 | [404079-neurospasm.json](./404079-neurospasm.json) |
 | NeuroSquad | 234042 | [234042-neurosquad.json](./234042-neurosquad.json) |
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
 | Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
