@@ -7468,6 +7468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
 | Dissolving Gallery | 398288 | [398288-dissolving-gallery.json](./398288-dissolving-gallery.json) |
 | Dissonance: An Interactive Novelette | 34029 | [34029-dissonance-an-interactive-novelette.json](./34029-dissonance-an-interactive-novelette.json) |
+| Dissonant | 386551 | [386551-dissonant.json](./386551-dissonant.json) |
 | Distance | 385378 | [385378-distance.json](./385378-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
@@ -8413,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domains of Dusk | 217290 | [217290-domains-of-dusk.json](./217290-domains-of-dusk.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
+| Dome no Yabou F1 GP Nippon no Chousen | 386522 | [386522-dome-no-yabou-f1-gp-nippon-no-chousen.json](./386522-dome-no-yabou-f1-gp-nippon-no-chousen.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
 | Domefender | 410927 | [410927-domefender.json](./410927-domefender.json) |
 | Domenation | 277858 | [277858-domenation.json](./277858-domenation.json) |
