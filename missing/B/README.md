@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C.'s Quest for Tires | 12294 | [12294-b-c-s-quest-for-tires.json](./12294-b-c-s-quest-for-tires.json) |
 | B.C.E. | 38748 | [38748-b-c-e.json](./38748-b-c-e.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
+| B.E.S.T Deluxe Edition | 397023 | [397023-b-e-s-t-deluxe-edition.json](./397023-b-e-s-t-deluxe-edition.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.I.G | 226247 | [226247-b-i-g.json](./226247-b-i-g.json) |
@@ -8237,6 +8238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Room: Coloring With Blue | 220077 | [220077-blues-room-coloring-with-blue.json](./220077-blues-room-coloring-with-blue.json) |
 | Blue* | 130819 | [130819-blue.json](./130819-blue.json) |
 | BlueAge | 312890 | [312890-blueage.json](./312890-blueage.json) |
+| Bluebeard: An Interactive Tale | 397022 | [397022-bluebeard-an-interactive-tale.json](./397022-bluebeard-an-interactive-tale.json) |
 | Bluebeard's Castle | 417390 | [417390-bluebeards-castle.json](./417390-bluebeards-castle.json) |
 | Bluebeard's Castle: Son of the Heartless | 417391 | [417391-bluebeards-castle-son-of-the-heartless.json](./417391-bluebeards-castle-son-of-the-heartless.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
@@ -10894,19 +10896,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Scorepad | 100690 | [100690-bridge-scorepad.json](./100690-bridge-scorepad.json) |
 | Bridge Strike | 124035 | [124035-bridge-strike.json](./124035-bridge-strike.json) |
 | Bridge the Gap! | 328446 | [328446-bridge-the-gap.json](./328446-bridge-the-gap.json) |
+| Bridge to Another World Remastered: Burnt Dreams | 397117 | [397117-bridge-to-another-world-remastered-burnt-dreams.json](./397117-bridge-to-another-world-remastered-burnt-dreams.json) |
 | Bridge to Another World Remastered: Burnt Dreams Collector's Edition | 362834 | [362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json](./362834-bridge-to-another-world-remastered-burnt-dreams-collectors-edition.json) |
+| Bridge to Another World: A Trail of Breadcrumbs | 397112 | [397112-bridge-to-another-world-a-trail-of-breadcrumbs.json](./397112-bridge-to-another-world-a-trail-of-breadcrumbs.json) |
+| Bridge to Another World: A Trail of Breadcrumbs - Collector's Edition | 397113 | [397113-bridge-to-another-world-a-trail-of-breadcrumbs-collectors-edition.json](./397113-bridge-to-another-world-a-trail-of-breadcrumbs-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams | 140288 | [140288-bridge-to-another-world-burnt-dreams.json](./140288-bridge-to-another-world-burnt-dreams.json) |
 | Bridge to Another World: Burnt Dreams - Collector's Edition | 28677 | [28677-bridge-to-another-world-burnt-dreams-collectors-edition.json](./28677-bridge-to-another-world-burnt-dreams-collectors-edition.json) |
 | Bridge to Another World: Burnt Dreams HD | 95659 | [95659-bridge-to-another-world-burnt-dreams-hd.json](./95659-bridge-to-another-world-burnt-dreams-hd.json) |
+| Bridge to Another World: Christmas Flight | 397111 | [397111-bridge-to-another-world-christmas-flight.json](./397111-bridge-to-another-world-christmas-flight.json) |
 | Bridge to Another World: Cursed Clouds - Collector's Edition | 225009 | [225009-bridge-to-another-world-cursed-clouds-collectors-edition.json](./225009-bridge-to-another-world-cursed-clouds-collectors-edition.json) |
 | Bridge to Another World: Endless Game | 187914 | [187914-bridge-to-another-world-endless-game.json](./187914-bridge-to-another-world-endless-game.json) |
 | Bridge to Another World: Escape From Oz | 327367 | [327367-bridge-to-another-world-escape-from-oz.json](./327367-bridge-to-another-world-escape-from-oz.json) |
 | Bridge to Another World: Escape From Oz Collector's Edition | 104108 | [104108-bridge-to-another-world-escape-from-oz-collectors-edition.json](./104108-bridge-to-another-world-escape-from-oz-collectors-edition.json) |
+| Bridge to Another World: Fate of the Seasons | 397115 | [397115-bridge-to-another-world-fate-of-the-seasons.json](./397115-bridge-to-another-world-fate-of-the-seasons.json) |
+| Bridge to Another World: Fate of the Seasons - Collector's Edition | 397114 | [397114-bridge-to-another-world-fate-of-the-seasons-collectors-edition.json](./397114-bridge-to-another-world-fate-of-the-seasons-collectors-edition.json) |
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
 | Bridge to Another World: Gulliver Syndrome - Collector's Edition | 397102 | [397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json](./397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
+| Bridge to Another World: The Christmas Curse | 397116 | [397116-bridge-to-another-world-the-christmas-curse.json](./397116-bridge-to-another-world-the-christmas-curse.json) |
 | Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
 | Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
+| Bridge to Another World: Through the Looking Glass | 397099 | [397099-bridge-to-another-world-through-the-looking-glass.json](./397099-bridge-to-another-world-through-the-looking-glass.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
