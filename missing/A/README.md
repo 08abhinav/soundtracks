@@ -5069,6 +5069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allegro Molto wo Hakobu Game | 339094 | [339094-allegro-molto-wo-hakobu-game.json](./339094-allegro-molto-wo-hakobu-game.json) |
 | Allegro Molto wo Kiku Game | 355188 | [355188-allegro-molto-wo-kiku-game.json](./355188-allegro-molto-wo-kiku-game.json) |
 | Allegro: The Melodic Warrior | 316973 | [316973-allegro-the-melodic-warrior.json](./316973-allegro-the-melodic-warrior.json) |
+| Allelon | 398824 | [398824-allelon.json](./398824-allelon.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
 | Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alptraum | 412358 | [412358-alptraum.json](./412358-alptraum.json) |
 | Alquiem | 330857 | [330857-alquiem.json](./330857-alquiem.json) |
 | Already Dead | 325868 | [325868-already-dead.json](./325868-already-dead.json) |
+| Already Solved | 398829 | [398829-already-solved.json](./398829-already-solved.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
 | Alshark | 37578 | [37578-alshark.json](./37578-alshark.json) |
@@ -5935,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American VR Coasters | 44218 | [44218-american-vr-coasters.json](./44218-american-vr-coasters.json) |
 | American Zombie: Election Year | 130325 | [130325-american-zombie-election-year.json](./130325-american-zombie-election-year.json) |
 | Americana Dawn | 65007 | [65007-americana-dawn.json](./65007-americana-dawn.json) |
+| Americania | 398831 | [398831-americania.json](./398831-americania.json) |
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Ameroth RPG | 411071 | [411071-ameroth-rpg.json](./411071-ameroth-rpg.json) |
