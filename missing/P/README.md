@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
 | Paper Soccer | 366092 | [366092-paper-soccer.json](./366092-paper-soccer.json) |
+| Paper Soldiers | 383743 | [383743-paper-soldiers.json](./383743-paper-soldiers.json) |
 | Paper Sorcerer | 9205 | [9205-paper-sorcerer.json](./9205-paper-sorcerer.json) |
 | Paper Sounds | 99382 | [99382-paper-sounds.json](./99382-paper-sounds.json) |
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Jam: Snow Rush | 313231 | [313231-parking-jam-snow-rush.json](./313231-parking-jam-snow-rush.json) |
 | Parking Jam: Tasty Edition | 324374 | [324374-parking-jam-tasty-edition.json](./324374-parking-jam-tasty-edition.json) |
 | Parking Lot Maze | 146815 | [146815-parking-lot-maze.json](./146815-parking-lot-maze.json) |
+| Parking Lot Simulator | 383746 | [383746-parking-lot-simulator.json](./383746-parking-lot-simulator.json) |
 | Parking Madness | 147736 | [147736-parking-madness.json](./147736-parking-madness.json) |
 | Parking Mania | 62763 | [62763-parking-mania.json](./62763-parking-mania.json) |
 | Parking Mania 2 | 261844 | [261844-parking-mania-2.json](./261844-parking-mania-2.json) |
@@ -1854,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
 | Party Ball | 60069 | [60069-party-ball.json](./60069-party-ball.json) |
 | Party Bingo | 117614 | [117614-party-bingo.json](./117614-party-bingo.json) |
+| Party Box | 383796 | [383796-party-box.json](./383796-party-box.json) |
 | Party Bros. | 263936 | [263936-party-bros.json](./263936-party-bros.json) |
 | Party Bunch | 212423 | [212423-party-bunch.json](./212423-party-bunch.json) |
 | Party Bundle: Ludomania & Flowlines Vs. & 2048 Battles | 199865 | [199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json](./199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json) |
@@ -4343,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico World Race | 218636 | [218636-pico-world-race.json](./218636-pico-world-race.json) |
 | Pico-8 Multicart | 202717 | [202717-pico-8-multicart.json](./202717-pico-8-multicart.json) |
 | Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
+| Pico's School: Love Conquers All | 383761 | [383761-picos-school-love-conquers-all.json](./383761-picos-school-love-conquers-all.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
