@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack of Skies | 176833 | [176833-jack-of-skies.json](./176833-jack-of-skies.json) |
 | Jack of Spades | 182861 | [182861-jack-of-spades.json](./182861-jack-of-spades.json) |
 | Jack Pilgrim: Space Within | 195150 | [195150-jack-pilgrim-space-within.json](./195150-jack-pilgrim-space-within.json) |
+| Jack Pottwin: House of Odds | 407876 | [407876-jack-pottwin-house-of-odds.json](./407876-jack-pottwin-house-of-odds.json) |
 | Jack Rabbit | 40052 | [40052-jack-rabbit.json](./40052-jack-rabbit.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
