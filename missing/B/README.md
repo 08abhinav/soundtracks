@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
 | Bean | 370205 | [370205-bean.json](./370205-bean.json) |
+| Bean Base | 404169 | [404169-bean-base.json](./404169-bean-base.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
 | Bean Busy | 371128 | [371128-bean-busy.json](./371128-bean-busy.json) |
@@ -7334,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Legend | 38801 | [38801-block-legend.json](./38801-block-legend.json) |
 | Block Line Engineer | 188944 | [188944-block-line-engineer.json](./188944-block-line-engineer.json) |
 | Block Machine | 149901 | [149901-block-machine.json](./149901-block-machine.json) |
+| Block Machine | 404170 | [404170-block-machine.json](./404170-block-machine.json) |
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
@@ -7885,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
 | Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
+| Bloodwright | 404167 | [404167-bloodwright.json](./404167-bloodwright.json) |
 | Bloodwych | 2434 | [2434-bloodwych.json](./2434-bloodwych.json) |
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
 | Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
