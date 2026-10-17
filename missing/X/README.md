@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xak: The Art of Visual Stage | 377091 | [377091-xak-the-art-of-visual-stage.json](./377091-xak-the-art-of-visual-stage.json) |
 | Xalx no Monshou 98 | 92120 | [92120-xalx-no-monshou-98.json](./92120-xalx-no-monshou-98.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
+| Xam Delivery | 414095 | [414095-xam-delivery.json](./414095-xam-delivery.json) |
 | Xanadu II | 37640 | [37640-xanadu-ii.json](./37640-xanadu-ii.json) |
 | Xanadu Next | 6296 | [6296-xanadu-next.json](./6296-xanadu-next.json) |
 | Xanadu Scenario II | 62583 | [62583-xanadu-scenario-ii.json](./62583-xanadu-scenario-ii.json) |
