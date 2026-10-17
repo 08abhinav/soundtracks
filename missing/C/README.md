@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadulium | 175652 | [175652-cadulium.json](./175652-cadulium.json) |
 | Cadwallon: City of Thieves | 87615 | [87615-cadwallon-city-of-thieves.json](./87615-cadwallon-city-of-thieves.json) |
 | Caedes | 164607 | [164607-caedes.json](./164607-caedes.json) |
+| Caelum in Lacu | 405969 | [405969-caelum-in-lacu.json](./405969-caelum-in-lacu.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
@@ -721,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Palut | 173827 | [173827-camp-palut.json](./173827-camp-palut.json) |
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
+| Camp Slaughter | 405943 | [405943-camp-slaughter.json](./405943-camp-slaughter.json) |
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
 | Camp Sunshine: Ultimate Edition | 52713 | [52713-camp-sunshine-ultimate-edition.json](./52713-camp-sunshine-ultimate-edition.json) |
 | Camp W | 99025 | [99025-camp-w.json](./99025-camp-w.json) |
@@ -2308,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Blackstar | 28569 | [28569-castle-blackstar.json](./28569-castle-blackstar.json) |
 | Castle Bloodstone | 353905 | [353905-castle-bloodstone.json](./353905-castle-bloodstone.json) |
 | Castle Burn | 77597 | [77597-castle-burn.json](./77597-castle-burn.json) |
+| Castle Busters | 405982 | [405982-castle-busters.json](./405982-castle-busters.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
@@ -7646,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
 | Code 3: Police Response | 149713 | [149713-code-3-police-response.json](./149713-code-3-police-response.json) |
 | Code 51: Mecha Arena | 99297 | [99297-code-51-mecha-arena.json](./99297-code-51-mecha-arena.json) |
+| Code 608 | 405968 | [405968-code-608.json](./405968-code-608.json) |
 | Code 7 | 27175 | [27175-code-7.json](./27175-code-7.json) |
 | Code 9 | 55681 | [55681-code-9.json](./55681-code-9.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
@@ -10853,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
+| Cow Abduction Frenzy | 405958 | [405958-cow-abduction-frenzy.json](./405958-cow-abduction-frenzy.json) |
 | Cow Catcher | 124594 | [124594-cow-catcher.json](./124594-cow-catcher.json) |
 | Cow Catcher Simulator | 82323 | [82323-cow-catcher-simulator.json](./82323-cow-catcher-simulator.json) |
 | Cow Chess | 331281 | [331281-cow-chess.json](./331281-cow-chess.json) |
@@ -10996,6 +11001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
 | Cozywood Creek | 391802 | [391802-cozywood-creek.json](./391802-cozywood-creek.json) |
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
+| CP6 | 405954 | [405954-cp6.json](./405954-cp6.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
 | CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
@@ -12689,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n Velocity | 49191 | [49191-cruisn-velocity.json](./49191-cruisn-velocity.json) |
 | Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
+| Cruise Attack | 406095 | [406095-cruise-attack.json](./406095-cruise-attack.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
 | Cruise for a Corpse | 2477 | [2477-cruise-for-a-corpse.json](./2477-cruise-for-a-corpse.json) |
