@@ -3268,7 +3268,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitadora Nextage | 154833 | [154833-gitadora-nextage.json](./154833-gitadora-nextage.json) |
 | Gitadora Tri-Boost | 154822 | [154822-gitadora-tri-boost.json](./154822-gitadora-tri-boost.json) |
 | Gitadora Tri-Boost Re:Evolve | 154823 | [154823-gitadora-tri-boost-re-evolve.json](./154823-gitadora-tri-boost-re-evolve.json) |
-| Gitaroo Man | 11338 | [11338-gitaroo-man.json](./11338-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
@@ -4906,7 +4905,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Night, Mare | 411495 | [411495-good-night-mare.json](./411495-good-night-mare.json) |
 | Good Night, Peregrine | 222936 | [222936-good-night-peregrine.json](./222936-good-night-peregrine.json) |
 | Good Night, Rowan | 178564 | [178564-good-night-rowan.json](./178564-good-night-rowan.json) |
-| Good Pizza, Great Pizza | 87367 | [87367-good-pizza-great-pizza.json](./87367-good-pizza-great-pizza.json) |
 | Good Pizza, Great Pizza: Bewitched Garden Set - Halloween 2022 | 272751 | [272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json](./272751-good-pizza-great-pizza-bewitched-garden-set-halloween-2022.json) |
 | Good Pizza, Great Pizza: Floral Nostalgia Set | 249302 | [249302-good-pizza-great-pizza-floral-nostalgia-set.json](./249302-good-pizza-great-pizza-floral-nostalgia-set.json) |
 | Good Pizza, Great Pizza: Mysterious Antiques Set - Halloween 2022 | 272752 | [272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json](./272752-good-pizza-great-pizza-mysterious-antiques-set-halloween-2022.json) |
