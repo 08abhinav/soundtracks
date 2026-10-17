@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
 | Zeus: Carnage Heart Second | 66186 | [66186-zeus-carnage-heart-second.json](./66186-zeus-carnage-heart-second.json) |
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
+| Zeverland | 376201 | [376201-zeverland.json](./376201-zeverland.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
 | Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
 | ZFrag | 177375 | [177375-zfrag.json](./177375-zfrag.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zyxia: Neon Termination | 122797 | [122797-zyxia-neon-termination.json](./122797-zyxia-neon-termination.json) |
 | Zzap! | 194422 | [194422-zzap.json](./194422-zzap.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
+| Zzz | 376218 | [376218-zzz.json](./376218-zzz.json) |
 | Zzzep | 60982 | [60982-zzzep.json](./60982-zzzep.json) |
 | Zzzz | 12975 | [12975-zzzz.json](./12975-zzzz.json) |
 | Zzzz-Zzzz-Zzzz | 31915 | [31915-zzzz-zzzz-zzzz.json](./31915-zzzz-zzzz-zzzz.json) |
