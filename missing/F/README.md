@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Anna on the Run | 229859 | [229859-fire-emblem-fates-anna-on-the-run.json](./229859-fire-emblem-fates-anna-on-the-run.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
+| Fire Emblem Fates: Silent Waves | 403051 | [403051-fire-emblem-fates-silent-waves.json](./403051-fire-emblem-fates-silent-waves.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
@@ -9396,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
 | Funkels | 373103 | [373103-funkels.json](./373103-funkels.json) |
 | Funkin' at Freddy's + Afton Full Week | 298722 | [298722-funkin-at-freddys-afton-full-week.json](./298722-funkin-at-freddys-afton-full-week.json) |
+| Funkin' Remnants | 403026 | [403026-funkin-remnants.json](./403026-funkin-remnants.json) |
 | Funklift | 32644 | [32644-funklift.json](./32644-funklift.json) |
 | Funklift: Deluxe Edition | 53059 | [53059-funklift-deluxe-edition.json](./53059-funklift-deluxe-edition.json) |
 | Funko Fusion | 247567 | [247567-funko-fusion.json](./247567-funko-fusion.json) |
