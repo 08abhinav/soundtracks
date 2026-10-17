@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are the Inch Valley Captive | 319180 | [319180-you-are-the-inch-valley-captive.json](./319180-you-are-the-inch-valley-captive.json) |
 | You are the Judge! | 238472 | [238472-you-are-the-judge.json](./238472-you-are-the-judge.json) |
 | You Are the Loading Screen | 407355 | [407355-you-are-the-loading-screen.json](./407355-you-are-the-loading-screen.json) |
+| You Are The Monster | 404068 | [404068-you-are-the-monster.json](./404068-you-are-the-monster.json) |
 | You are the Muncher | 179556 | [179556-you-are-the-muncher.json](./179556-you-are-the-muncher.json) |
 | You Are the Ref | 64323 | [64323-you-are-the-ref.json](./64323-you-are-the-ref.json) |
 | You Are The Road | 257277 | [257277-you-are-the-road.json](./257277-you-are-the-road.json) |
@@ -1018,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
+| Your Meal, My Lord | 404082 | [404082-your-meal-my-lord.json](./404082-your-meal-my-lord.json) |
 | Your Merman Boyfriend | 177352 | [177352-your-merman-boyfriend.json](./177352-your-merman-boyfriend.json) |
 | Your Mom | 195615 | [195615-your-mom.json](./195615-your-mom.json) |
 | Your Mom | 385608 | [385608-your-mom.json](./385608-your-mom.json) |
