@@ -4643,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonograms | 285701 | [285701-nonograms.json](./285701-nonograms.json) |
 | Nonograms 2 | 383721 | [383721-nonograms-2.json](./383721-nonograms-2.json) |
 | Nonograms 22 | 188983 | [188983-nonograms-22.json](./188983-nonograms-22.json) |
+| Nonograms Pro | 400083 | [400083-nonograms-pro.json](./400083-nonograms-pro.json) |
 | Nonograms: Ammunition | 297730 | [297730-nonograms-ammunition.json](./297730-nonograms-ammunition.json) |
 | Nonograms: Engineering | 285710 | [285710-nonograms-engineering.json](./285710-nonograms-engineering.json) |
 | Nonograms: Fishing | 285706 | [285706-nonograms-fishing.json](./285706-nonograms-fishing.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nu, pogodi! | 416707 | [416707-nu-pogodi.json](./416707-nu-pogodi.json) |
 | Nu: Carnival | 194286 | [194286-nu-carnival.json](./194286-nu-carnival.json) |
 | Nu: Carnival Bliss | 305559 | [305559-nu-carnival-bliss.json](./305559-nu-carnival-bliss.json) |
+| Nu: Ron | 400079 | [400079-nu-ron.json](./400079-nu-ron.json) |
 | Nuage | 93520 | [93520-nuage.json](./93520-nuage.json) |
 | Nubarron: The adventure of an unlucky gnome | 126978 | [126978-nubarron-the-adventure-of-an-unlucky-gnome.json](./126978-nubarron-the-adventure-of-an-unlucky-gnome.json) |
 | Nubby's Number Factory | 324225 | [324225-nubbys-number-factory.json](./324225-nubbys-number-factory.json) |
