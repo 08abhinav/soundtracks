@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T15:36:53.524Z",
-  "total_soundtracks": 2094,
+  "generated_at": "2026-10-17T15:37:01.983Z",
+  "total_soundtracks": 2095,
   "games": [
     {
       "igdb_id": 7522,
@@ -18996,6 +18996,20 @@
           "album_name": "Sonic Forces Original Soundtrack A Hero Will Rise",
           "spotify_url": "https://open.spotify.com/album/1Ht999BUq7ENW64QwYbugA",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 150010,
+      "game_name": "Sonic Frontiers",
+      "game_url": "https://ostdb.net/games/sonic-frontiers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe919d4dcacd26b34aae1f80",
+      "albums": [
+        {
+          "album_name": "Sonic Frontiers Original Soundtrack Stillness & Motion",
+          "spotify_url": "https://open.spotify.com/album/52exAJ8OkzVCXKTJ2FrcYA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
