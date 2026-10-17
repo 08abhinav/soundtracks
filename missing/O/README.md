@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Chance | 63130 | [63130-one-chance.json](./63130-one-chance.json) |
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
 | One Clone Left | 33270 | [33270-one-clone-left.json](./33270-one-clone-left.json) |
+| One Coin Museum | 398295 | [398295-one-coin-museum.json](./398295-one-coin-museum.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ou Dorobou Jing: Angel Version | 228630 | [228630-ou-dorobou-jing-angel-version.json](./228630-ou-dorobou-jing-angel-version.json) |
 | Ou Dorobou Jing: Devil Version | 146341 | [146341-ou-dorobou-jing-devil-version.json](./146341-ou-dorobou-jing-devil-version.json) |
 | Ou-sama Game | 70906 | [70906-ou-sama-game.json](./70906-ou-sama-game.json) |
+| Oüba: The Great Journey | 398215 | [398215-ouba-the-great-journey.json](./398215-ouba-the-great-journey.json) |
 | Oubey VR: Cosmic Voyage | 153421 | [153421-oubey-vr-cosmic-voyage.json](./153421-oubey-vr-cosmic-voyage.json) |
 | Oubey VR: Reise der Monaden | 292688 | [292688-oubey-vr-reise-der-monaden.json](./292688-oubey-vr-reise-der-monaden.json) |
 | Oubey VR: Samurai | 292693 | [292693-oubey-vr-samurai.json](./292693-oubey-vr-samurai.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch: Game of the Year Edition | 21229 | [21229-overwatch-game-of-the-year-edition.json](./21229-overwatch-game-of-the-year-edition.json) |
 | Overwatch: Legendary Edition | 118848 | [118848-overwatch-legendary-edition.json](./118848-overwatch-legendary-edition.json) |
 | Overwatch: Reign of Talon - Season 1: Conquest | 388391 | [388391-overwatch-reign-of-talon-season-1-conquest.json](./388391-overwatch-reign-of-talon-season-1-conquest.json) |
+| Overwatch: Reign of Talon - Season 2: Summit | 398289 | [398289-overwatch-reign-of-talon-season-2-summit.json](./398289-overwatch-reign-of-talon-season-2-summit.json) |
 | Overwatch: Reign of Talon - Season 3: Into the Tigers Den | 406719 | [406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json](./406719-overwatch-reign-of-talon-season-3-into-the-tigers-den.json) |
 | Overwatch: Reign of Talon - Season 4: Heroes of Busan | 412893 | [412893-overwatch-reign-of-talon-season-4-heroes-of-busan.json](./412893-overwatch-reign-of-talon-season-4-heroes-of-busan.json) |
 | Overwatch: Safari Ashe Bonus Pack | 409069 | [409069-overwatch-safari-ashe-bonus-pack.json](./409069-overwatch-safari-ashe-bonus-pack.json) |
