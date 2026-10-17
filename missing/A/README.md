@@ -10313,7 +10313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASH II: Shadows | 65269 | [65269-ash-ii-shadows.json](./65269-ash-ii-shadows.json) |
 | Ash of Gods: Arena | 133417 | [133417-ash-of-gods-arena.json](./133417-ash-of-gods-arena.json) |
 | Ash of Gods: Fan Edition | 257095 | [257095-ash-of-gods-fan-edition.json](./257095-ash-of-gods-fan-edition.json) |
-| Ash of Gods: Redemption | 28006 | [28006-ash-of-gods-redemption.json](./28006-ash-of-gods-redemption.json) |
 | Ash of Gods: The Way | 192439 | [192439-ash-of-gods-the-way.json](./192439-ash-of-gods-the-way.json) |
 | Ash of Gods: Universe Bundle | 257096 | [257096-ash-of-gods-universe-bundle.json](./257096-ash-of-gods-universe-bundle.json) |
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
