@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NekoBooM! | 102334 | [102334-nekoboom.json](./102334-nekoboom.json) |
 | NekoBop | 234125 | [234125-nekobop.json](./234125-nekobop.json) |
 | Nekoburo: Cats Block | 20024 | [20024-nekoburo-cats-block.json](./20024-nekoburo-cats-block.json) |
+| Nekobyte | 413449 | [413449-nekobyte.json](./413449-nekobyte.json) |
 | NekoChan Hero Collection | 210754 | [210754-nekochan-hero-collection.json](./210754-nekochan-hero-collection.json) |
 | NekoCharm | 111227 | [111227-nekocharm.json](./111227-nekocharm.json) |
 | Nekodancer | 197658 | [197658-nekodancer.json](./197658-nekodancer.json) |
