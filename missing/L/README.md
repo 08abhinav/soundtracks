@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Sonic | 331975 | [331975-lazy-sonic.json](./331975-lazy-sonic.json) |
 | Lazy Sweet Tycoon | 156121 | [156121-lazy-sweet-tycoon.json](./156121-lazy-sweet-tycoon.json) |
 | Lazy Train Game | 366361 | [366361-lazy-train-game.json](./366361-lazy-train-game.json) |
+| Lazy Witch's Factory | 385451 | [385451-lazy-witchs-factory.json](./385451-lazy-witchs-factory.json) |
 | Lazy Writer | 346665 | [346665-lazy-writer.json](./346665-lazy-writer.json) |
 | LazyTown | 271373 | [271373-lazytown.json](./271373-lazytown.json) |
 | LazyTown Champions | 79791 | [79791-lazytown-champions.json](./79791-lazytown-champions.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
 | Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
+| Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
 | Le Mans Ultimate | 253412 | [253412-le-mans-ultimate.json](./253412-le-mans-ultimate.json) |
@@ -4341,6 +4343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Robo Climber | 195687 | [195687-little-robo-climber.json](./195687-little-robo-climber.json) |
 | Little Robot | 329208 | [329208-little-robot.json](./329208-little-robot.json) |
 | Little Robot Stories | 149588 | [149588-little-robot-stories.json](./149588-little-robot-stories.json) |
+| Little Rock Shop | 385429 | [385429-little-rock-shop.json](./385429-little-rock-shop.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Rocketman | 263420 | [263420-little-rocketman.json](./263420-little-rocketman.json) |
@@ -5895,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Socks: Naughty Brothers | 32053 | [32053-lost-socks-naughty-brothers.json](./32053-lost-socks-naughty-brothers.json) |
 | Lost Soul | 184128 | [184128-lost-soul.json](./184128-lost-soul.json) |
 | Lost Soul | 250888 | [250888-lost-soul.json](./250888-lost-soul.json) |
+| Lost Soul | 385407 | [385407-lost-soul.json](./385407-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
