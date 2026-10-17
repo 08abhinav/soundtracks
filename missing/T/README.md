@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tycoon | 58195 | [58195-tap-tycoon.json](./58195-tap-tycoon.json) |
 | Tap Wars: Earth Defense Force 4.1 - The Shadow of New Despair | 220219 | [220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json](./220219-tap-wars-earth-defense-force-4-1-the-shadow-of-new-despair.json) |
 | Tap Wizard 2 | 188407 | [188407-tap-wizard-2.json](./188407-tap-wizard-2.json) |
+| Tap X3 | 370416 | [370416-tap-x3.json](./370416-tap-x3.json) |
 | Tap Zap - Endless game | 44100 | [44100-tap-zap-endless-game.json](./44100-tap-zap-endless-game.json) |
 | Tap Zoo | 343458 | [343458-tap-zoo.json](./343458-tap-zoo.json) |
 | Tap-A-Zombie | 149448 | [149448-tap-a-zombie.json](./149448-tap-a-zombie.json) |
@@ -4464,6 +4465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banshee | 231514 | [231514-the-banshee.json](./231514-the-banshee.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
+| The Bar Souls | 370448 | [370448-the-bar-souls.json](./370448-the-bar-souls.json) |
 | The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
@@ -4971,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button Be: Unexpected | 217543 | [217543-the-button-be-unexpected.json](./217543-the-button-be-unexpected.json) |
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
+| The Button Game | 370417 | [370417-the-button-game.json](./370417-the-button-game.json) |
 | The Bygone Days of Her and the Flowers | 368885 | [368885-the-bygone-days-of-her-and-the-flowers.json](./368885-the-bygone-days-of-her-and-the-flowers.json) |
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
@@ -8164,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Bonbon Match | 335984 | [335984-the-jumping-bonbon-match.json](./335984-the-jumping-bonbon-match.json) |
 | The Jumping Bonbon Match 2 | 349813 | [349813-the-jumping-bonbon-match-2.json](./349813-the-jumping-bonbon-match-2.json) |
 | The Jumping Bonbon Match 3 | 359979 | [359979-the-jumping-bonbon-match-3.json](./359979-the-jumping-bonbon-match-3.json) |
+| The Jumping Bonbon Match 4 | 370413 | [370413-the-jumping-bonbon-match-4.json](./370413-the-jumping-bonbon-match-4.json) |
 | The Jumping Bonbon Match 5 | 394638 | [394638-the-jumping-bonbon-match-5.json](./394638-the-jumping-bonbon-match-5.json) |
 | The Jumping Boy | 330939 | [330939-the-jumping-boy.json](./330939-the-jumping-boy.json) |
 | The Jumping Brownie | 209644 | [209644-the-jumping-brownie.json](./209644-the-jumping-brownie.json) |
@@ -10409,6 +10413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
 | The Orb Chambers II | 32064 | [32064-the-orb-chambers-ii.json](./32064-the-orb-chambers-ii.json) |
 | The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
+| The Orb of Darkness | 370410 | [370410-the-orb-of-darkness.json](./370410-the-orb-of-darkness.json) |
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
@@ -22203,6 +22208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trip'd | 4299 | [4299-tripd.json](./4299-tripd.json) |
 | Trip's Voyage: Gem Rush | 309122 | [309122-trips-voyage-gem-rush.json](./309122-trips-voyage-gem-rush.json) |
 | TriPeaks | 282148 | [282148-tripeaks.json](./282148-tripeaks.json) |
+| TriPeaks Solitaire | 370438 | [370438-tripeaks-solitaire.json](./370438-tripeaks-solitaire.json) |
 | TriPeaks Solitaire: Card Game | 89185 | [89185-tripeaks-solitaire-card-game.json](./89185-tripeaks-solitaire-card-game.json) |
 | Tripgate | 142866 | [142866-tripgate.json](./142866-tripgate.json) |
 | Triphammer | 378920 | [378920-triphammer.json](./378920-triphammer.json) |
