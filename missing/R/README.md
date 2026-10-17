@@ -9145,7 +9145,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
-| Rusty Lake: Roots | 25222 | [25222-rusty-lake-roots.json](./25222-rusty-lake-roots.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
 | Rusty Prison: Horror | 420660 | [420660-rusty-prison-horror.json](./420660-rusty-prison-horror.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
