@@ -2036,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi no Tonari de Koishiteru!: The Respective Happiness | 194549 | [194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json](./194549-kimi-no-tonari-de-koishiteru-the-respective-happiness.json) |
 | Kimi no Yusha | 59401 | [59401-kimi-no-yusha.json](./59401-kimi-no-yusha.json) |
 | Kimi Omou Yoru ni Kengeki wo | 396572 | [396572-kimi-omou-yoru-ni-kengeki-wo.json](./396572-kimi-omou-yoru-ni-kengeki-wo.json) |
+| Kimi sae Ireba | 314705 | [314705-kimi-sae-ireba.json](./314705-kimi-sae-ireba.json) |
 | Kimi sae Ireba: Episode Sutelz | 311494 | [311494-kimi-sae-ireba-episode-sutelz.json](./311494-kimi-sae-ireba-episode-sutelz.json) |
 | Kimi to Boku to no Kishi no Hibi: Rakuen no Chevalier | 194583 | [194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json](./194583-kimi-to-boku-to-no-kishi-no-hibi-rakuen-no-chevalier.json) |
 | Kimi to Koi Shite Musubarete | 394886 | [394886-kimi-to-koi-shite-musubarete.json](./394886-kimi-to-koi-shite-musubarete.json) |
@@ -3428,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights Within | 254047 | [254047-knights-within.json](./254047-knights-within.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
+| Knighttron | 314755 | [314755-knighttron.json](./314755-knighttron.json) |
 | Knightwatch | 376651 | [376651-knightwatch.json](./376651-knightwatch.json) |
 | Knighty | 216719 | [216719-knighty.json](./216719-knighty.json) |
 | Knighty Knight | 261320 | [261320-knighty-knight.json](./261320-knighty-knight.json) |
