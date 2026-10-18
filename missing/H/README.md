@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Field Intensity | 196731 | [196731-half-life-field-intensity.json](./196731-half-life-field-intensity.json) |
 | Half-Life: Hard Duty | 221802 | [221802-half-life-hard-duty.json](./221802-half-life-hard-duty.json) |
 | Half-Life: Hazardous Course 2 | 196733 | [196733-half-life-hazardous-course-2.json](./196733-half-life-hazardous-course-2.json) |
+| Half-Life: History of Kumertau | 320004 | [320004-half-life-history-of-kumertau.json](./320004-half-life-history-of-kumertau.json) |
 | Half-Life: Hostile Takeover | 252806 | [252806-half-life-hostile-takeover.json](./252806-half-life-hostile-takeover.json) |
 | Half-Life: Hour-Glass | 221794 | [221794-half-life-hour-glass.json](./221794-half-life-hour-glass.json) |
 | Half-Life: In Deep | 221858 | [221858-half-life-in-deep.json](./221858-half-life-in-deep.json) |
@@ -5500,6 +5501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher Than Mush | 371000 | [371000-higher-than-mush.json](./371000-higher-than-mush.json) |
 | HigherLower | 353627 | [353627-higherlower.json](./353627-higherlower.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
+| HighKing | 320036 | [320036-highking.json](./320036-highking.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
 | Highland Warriors | 9356 | [9356-highland-warriors.json](./9356-highland-warriors.json) |
