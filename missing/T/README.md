@@ -4607,6 +4607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear Essentials | 47240 | [47240-the-bear-essentials.json](./47240-the-bear-essentials.json) |
 | The Bear Kick | 102114 | [102114-the-bear-kick.json](./102114-the-bear-kick.json) |
 | The Bear, the Cat and the Rabbit | 12936 | [12936-the-bear-the-cat-and-the-rabbit.json](./12936-the-bear-the-cat-and-the-rabbit.json) |
+| The Bear: A Story from the World of Gra | 333450 | [333450-the-bear-a-story-from-the-world-of-gra.json](./333450-the-bear-a-story-from-the-world-of-gra.json) |
 | The Beard in the Mirror | 34873 | [34873-the-beard-in-the-mirror.json](./34873-the-beard-in-the-mirror.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
@@ -9547,6 +9548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
+| The Lord of the Rings: Aragorn's Quest | 333444 | [333444-the-lord-of-the-rings-aragorns-quest.json](./333444-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 339594 | [339594-the-lord-of-the-rings-aragorns-quest.json](./339594-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Conquest | 7056 | [7056-the-lord-of-the-rings-conquest.json](./7056-the-lord-of-the-rings-conquest.json) |
@@ -13586,6 +13588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wall | 13086 | [13086-the-wall.json](./13086-the-wall.json) |
 | The Wall | 176849 | [176849-the-wall.json](./176849-the-wall.json) |
 | The Wall | 200750 | [200750-the-wall.json](./200750-the-wall.json) |
+| The Wall | 333454 | [333454-the-wall.json](./333454-the-wall.json) |
 | The Wall Mustn't Fall | 215793 | [215793-the-wall-mustnt-fall.json](./215793-the-wall-mustnt-fall.json) |
 | The Walls | 289952 | [289952-the-walls.json](./289952-the-walls.json) |
 | The Walls of Bratock | 14423 | [14423-the-walls-of-bratock.json](./14423-the-walls-of-bratock.json) |
@@ -14346,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Left Us Here | 391116 | [391116-they-left-us-here.json](./391116-they-left-us-here.json) |
 | They Linger | 259588 | [259588-they-linger.json](./259588-they-linger.json) |
 | They Live Here Now | 176932 | [176932-they-live-here-now.json](./176932-they-live-here-now.json) |
+| They Live in the Fractures | 333431 | [333431-they-live-in-the-fractures.json](./333431-they-live-in-the-fractures.json) |
 | They Look Strange and Have to Die | 181233 | [181233-they-look-strange-and-have-to-die.json](./181233-they-look-strange-and-have-to-die.json) |
 | They Love Them | 235813 | [235813-they-love-them.json](./235813-they-love-them.json) |
 | They Remain | 302061 | [302061-they-remain.json](./302061-they-remain.json) |
@@ -22596,6 +22600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trizeal | 93063 | [93063-trizeal.json](./93063-trizeal.json) |
 | Trizeal Remix | 32927 | [32927-trizeal-remix.json](./32927-trizeal-remix.json) |
 | Trizna | 293233 | [293233-trizna.json](./293233-trizna.json) |
+| Trizon | 333437 | [333437-trizon.json](./333437-trizon.json) |
 | Trizzle | 355007 | [355007-trizzle.json](./355007-trizzle.json) |
 | TRL: The Rail Loaders | 266485 | [266485-trl-the-rail-loaders.json](./266485-trl-the-rail-loaders.json) |
 | Troddlers | 39029 | [39029-troddlers.json](./39029-troddlers.json) |
