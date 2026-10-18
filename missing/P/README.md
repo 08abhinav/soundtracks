@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon: A Love Story | 368542 | [368542-pigeon-a-love-story.json](./368542-pigeon-a-love-story.json) |
 | Pigeon's Mission | 287762 | [287762-pigeons-mission.json](./287762-pigeons-mission.json) |
 | Pigeons Attack | 90831 | [90831-pigeons-attack.json](./90831-pigeons-attack.json) |
+| Pigface | 343054 | [343054-pigface.json](./343054-pigface.json) |
 | Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
@@ -9407,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
 | Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
+| Possession | 343026 | [343026-possession.json](./343026-possession.json) |
 | Possession | 90649 | [90649-possession.json](./90649-possession.json) |
 | Possession 1881 | 150750 | [150750-possession-1881.json](./150750-possession-1881.json) |
 | Possession Game | 354523 | [354523-possession-game.json](./354523-possession-game.json) |
