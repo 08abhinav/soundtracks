@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
+| Hell of a Birthday | 338614 | [338614-hell-of-a-birthday.json](./338614-hell-of-a-birthday.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
