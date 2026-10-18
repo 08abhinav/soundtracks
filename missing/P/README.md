@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
+| Peaks of Yore: The Great Alps | 321208 | [321208-peaks-of-yore-the-great-alps.json](./321208-peaks-of-yore-the-great-alps.json) |
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball League: Hardhat Zone | 296220 | [296220-pinball-league-hardhat-zone.json](./296220-pinball-league-hardhat-zone.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
 | Pinball M: Bethesda Pinball | 386717 | [386717-pinball-m-bethesda-pinball.json](./386717-pinball-m-bethesda-pinball.json) |
+| Pinball M: Camp Bloodbrook | 321198 | [321198-pinball-m-camp-bloodbrook.json](./321198-pinball-m-camp-bloodbrook.json) |
 | Pinball M: Chucky's Killer Pinball | 278537 | [278537-pinball-m-chuckys-killer-pinball.json](./278537-pinball-m-chuckys-killer-pinball.json) |
 | Pinball M: Dead by Daylight Pinball | 278536 | [278536-pinball-m-dead-by-daylight-pinball.json](./278536-pinball-m-dead-by-daylight-pinball.json) |
 | Pinball M: Death Save Bundle | 278636 | [278636-pinball-m-death-save-bundle.json](./278636-pinball-m-death-save-bundle.json) |
@@ -9202,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popcorn! | 97472 | [97472-popcorn.json](./97472-popcorn.json) |
 | PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
+| Pope-ye | 321214 | [321214-pope-ye.json](./321214-pope-ye.json) |
 | Popeye | 229982 | [229982-popeye.json](./229982-popeye.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
@@ -10723,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison of Son | 128999 | [128999-prison-of-son.json](./128999-prison-of-son.json) |
 | Prison Out | 365071 | [365071-prison-out.json](./365071-prison-out.json) |
 | Prison Princess | 127335 | [127335-prison-princess.json](./127335-prison-princess.json) |
+| Prison Princess: Trapped Allure | 321211 | [321211-prison-princess-trapped-allure.json](./321211-prison-princess-trapped-allure.json) |
 | Prison Puzzle | 312693 | [312693-prison-puzzle.json](./312693-prison-puzzle.json) |
 | Prison Run | 394998 | [394998-prison-run.json](./394998-prison-run.json) |
 | Prison Run and Gun | 33672 | [33672-prison-run-and-gun.json](./33672-prison-run-and-gun.json) |
