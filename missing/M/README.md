@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
+| Mahou Shoujo Escape | 348019 | [348019-mahou-shoujo-escape.json](./348019-mahou-shoujo-escape.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
