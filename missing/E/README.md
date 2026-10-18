@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
 | Egg Drop | 264233 | [264233-egg-drop.json](./264233-egg-drop.json) |
 | Egg Drop Soup | 414301 | [414301-egg-drop-soup.json](./414301-egg-drop-soup.json) |
+| Egg Finder | 360457 | [360457-egg-finder.json](./360457-egg-finder.json) |
 | Egg Fried Rice | 307268 | [307268-egg-fried-rice.json](./307268-egg-fried-rice.json) |
 | Egg Harvester | 409637 | [409637-egg-harvester.json](./409637-egg-harvester.json) |
 | Egg Hunt | 110375 | [110375-egg-hunt.json](./110375-egg-hunt.json) |
@@ -5286,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exclusively Yours: An Office Affair | 234151 | [234151-exclusively-yours-an-office-affair.json](./234151-exclusively-yours-an-office-affair.json) |
 | Excommunicado | 211266 | [211266-excommunicado.json](./211266-excommunicado.json) |
 | Excommunicated | 340043 | [340043-excommunicated.json](./340043-excommunicated.json) |
+| Excommunication | 360449 | [360449-excommunication.json](./360449-excommunication.json) |
 | Excubitor | 19332 | [19332-excubitor.json](./19332-excubitor.json) |
 | Excursion | 108635 | [108635-excursion.json](./108635-excursion.json) |
 | Excursus | 177025 | [177025-excursus.json](./177025-excursus.json) |
