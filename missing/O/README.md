@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Pandemic Evolution | 33504 | [33504-outbreak-pandemic-evolution.json](./33504-outbreak-pandemic-evolution.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
 | Outbreak: Platinum Collection | 205578 | [205578-outbreak-platinum-collection.json](./205578-outbreak-platinum-collection.json) |
+| Outbreak: Retro 2D Nightmares Collection | 339070 | [339070-outbreak-retro-2d-nightmares-collection.json](./339070-outbreak-retro-2d-nightmares-collection.json) |
 | Outbreak: Shades of Horror | 211659 | [211659-outbreak-shades-of-horror.json](./211659-outbreak-shades-of-horror.json) |
 | Outbreak: Shades of Horror Chromatic Split Anachronistic Collection | 331427 | [331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json](./331427-outbreak-shades-of-horror-chromatic-split-anachronistic-collection.json) |
 | Outbreak: Shades of Horror Chromatic Split Anthology Collection | 331426 | [331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json](./331426-outbreak-shades-of-horror-chromatic-split-anthology-collection.json) |
