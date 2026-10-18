@@ -9961,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario Online Rx | 21910 | [21910-dr-mario-online-rx.json](./21910-dr-mario-online-rx.json) |
 | Dr. Mario World House Calls | 42602 | [42602-dr-mario-world-house-calls.json](./42602-dr-mario-world-house-calls.json) |
 | Dr. Mario World Redrawn | 132854 | [132854-dr-mario-world-redrawn.json](./132854-dr-mario-world-redrawn.json) |
+| Dr. Mario World: Version 2.0.0 | 361000 | [361000-dr-mario-world-version-2-0-0.json](./361000-dr-mario-world-version-2-0-0.json) |
 | Dr. Mario: Miracle Cure | 11068 | [11068-dr-mario-miracle-cure.json](./11068-dr-mario-miracle-cure.json) |
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
