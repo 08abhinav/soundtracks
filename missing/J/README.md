@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Axe | 113414 | [113414-jack-axe.json](./113414-jack-axe.json) |
 | Jack Axe: The Trial | 165622 | [165622-jack-axe-the-trial.json](./165622-jack-axe-the-trial.json) |
 | Jack B. Nimble | 26883 | [26883-jack-b-nimble.json](./26883-jack-b-nimble.json) |
+| Jack Barau | 342411 | [342411-jack-barau.json](./342411-jack-barau.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Flash | 93078 | [93078-jack-flash.json](./93078-jack-flash.json) |
@@ -319,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Sports: Faceoffs | 417317 | [417317-jaleco-sports-faceoffs.json](./417317-jaleco-sports-faceoffs.json) |
 | Jaleco Sports: Goal! | 347556 | [347556-jaleco-sports-goal.json](./347556-jaleco-sports-goal.json) |
 | Jalecolle Famicom Ver. Bio Warrior Dan: The Increaser War | 317557 | [317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json](./317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json) |
+| Jalecolle Famicom Ver. Magic John & Totally RAD | 342413 | [342413-jalecolle-famicom-ver-magic-john-and-totally-rad.json](./342413-jalecolle-famicom-ver-magic-john-and-totally-rad.json) |
 | Jalecolle Famicom Ver. Pinball Quest | 310488 | [310488-jalecolle-famicom-ver-pinball-quest.json](./310488-jalecolle-famicom-ver-pinball-quest.json) |
 | Jalecolle Famicom Ver. Pizza Pop! | 328517 | [328517-jalecolle-famicom-ver-pizza-pop.json](./328517-jalecolle-famicom-ver-pizza-pop.json) |
 | Jalecolle Famicom Ver. Rod Land | 411740 | [411740-jalecolle-famicom-ver-rod-land.json](./411740-jalecolle-famicom-ver-rod-land.json) |
