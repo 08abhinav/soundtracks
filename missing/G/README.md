@@ -5166,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorby no Pipeline Daisakusen | 48481 | [48481-gorby-no-pipeline-daisakusen.json](./48481-gorby-no-pipeline-daisakusen.json) |
 | Gord: Deluxe Edition | 259522 | [259522-gord-deluxe-edition.json](./259522-gord-deluxe-edition.json) |
 | Gord: Ultimate Edition | 401939 | [401939-gord-ultimate-edition.json](./401939-gord-ultimate-edition.json) |
+| Gordi's Magical Movie Adventure | 335049 | [335049-gordis-magical-movie-adventure.json](./335049-gordis-magical-movie-adventure.json) |
 | Gordian | 351586 | [351586-gordian.json](./351586-gordian.json) |
 | Gordian Quest | 125048 | [125048-gordian-quest.json](./125048-gordian-quest.json) |
 | Gordian Rooms: A Curious Heritage | 138477 | [138477-gordian-rooms-a-curious-heritage.json](./138477-gordian-rooms-a-curious-heritage.json) |
