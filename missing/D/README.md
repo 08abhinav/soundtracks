@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
 | Deal With Nyarlathotep | 370409 | [370409-deal-with-nyarlathotep.json](./370409-deal-with-nyarlathotep.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
+| Dealer's Choice | 350175 | [350175-dealers-choice.json](./350175-dealers-choice.json) |
 | Dealer's Choice Collection | 73513 | [73513-dealers-choice-collection.json](./73513-dealers-choice-collection.json) |
 | Dealer's Dice | 410091 | [410091-dealers-dice.json](./410091-dealers-dice.json) |
 | Dealer's Life | 114063 | [114063-dealers-life.json](./114063-dealers-life.json) |
@@ -9624,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
+| Double Barrel Desperado | 350229 | [350229-double-barrel-desperado.json](./350229-double-barrel-desperado.json) |
 | Double Block | 172533 | [172533-double-block.json](./172533-double-block.json) |
 | Double Bloob | 62680 | [62680-double-bloob.json](./62680-double-bloob.json) |
 | Double Breakout | 57325 | [57325-double-breakout.json](./57325-double-breakout.json) |
