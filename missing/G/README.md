@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Times | 127378 | [127378-goblin-times.json](./127378-goblin-times.json) |
 | Goblin Traders | 344014 | [344014-goblin-traders.json](./344014-goblin-traders.json) |
 | Goblin treasure | 129716 | [129716-goblin-treasure.json](./129716-goblin-treasure.json) |
+| Goblin Village | 353718 | [353718-goblin-village.json](./353718-goblin-village.json) |
 | Goblin Walker | 96420 | [96420-goblin-walker.json](./96420-goblin-walker.json) |
 | Goblin: Mutation | 366331 | [366331-goblin-mutation.json](./366331-goblin-mutation.json) |
 | Goblin.Life | 172190 | [172190-goblin-life.json](./172190-goblin-life.json) |
@@ -7688,6 +7689,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
+| Gunball Arena | 353638 | [353638-gunball-arena.json](./353638-gunball-arena.json) |
+| Gunball Saves Christmas | 353637 | [353637-gunball-saves-christmas.json](./353637-gunball-saves-christmas.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | GunBang | 336677 | [336677-gunbang.json](./336677-gunbang.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
