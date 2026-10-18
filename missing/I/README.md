@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Fighter | 273472 | [273472-ice-fighter.json](./273472-ice-fighter.json) |
 | Ice Fishing Derby | 103909 | [103909-ice-fishing-derby.json](./103909-ice-fishing-derby.json) |
 | Ice Flame | 244706 | [244706-ice-flame.json](./244706-ice-flame.json) |
+| Ice Hockey | 359191 | [359191-ice-hockey.json](./359191-ice-hockey.json) |
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
 | Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
