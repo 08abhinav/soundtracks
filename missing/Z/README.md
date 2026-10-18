@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
 | Zonnebloem | 228968 | [228968-zonnebloem.json](./228968-zonnebloem.json) |
 | Zoo | 257574 | [257574-zoo.json](./257574-zoo.json) |
+| Zôo | 359764 | [359764-zoo.json](./359764-zoo.json) |
 | Zoo Adventure | 212427 | [212427-zoo-adventure.json](./212427-zoo-adventure.json) |
 | Zoo and Wild Animals Mod: Rebuilt | 249318 | [249318-zoo-and-wild-animals-mod-rebuilt.json](./249318-zoo-and-wild-animals-mod-rebuilt.json) |
 | Zoo Animals ~ Touch, Look, Listen | 89706 | [89706-zoo-animals-touch-look-listen.json](./89706-zoo-animals-touch-look-listen.json) |
