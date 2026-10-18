@@ -5900,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritterschlag | 398452 | [398452-ritterschlag.json](./398452-ritterschlag.json) |
 | Ritual | 123401 | [123401-ritual.json](./123401-ritual.json) |
 | Ritual | 302707 | [302707-ritual.json](./302707-ritual.json) |
+| Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
 | Ritual on the Eve | 112200 | [112200-ritual-on-the-eve.json](./112200-ritual-on-the-eve.json) |
@@ -7980,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope-Kun Adventure | 296664 | [296664-rope-kun-adventure.json](./296664-rope-kun-adventure.json) |
 | Rope'n'Fly 3: Dusk Till Dawn | 330934 | [330934-ropenfly-3-dusk-till-dawn.json](./330934-ropenfly-3-dusk-till-dawn.json) |
 | Rope'n'Fly 4 | 288879 | [288879-ropenfly-4.json](./288879-ropenfly-4.json) |
+| Ropebound | 327666 | [327666-ropebound.json](./327666-ropebound.json) |
 | Roped In | 300412 | [300412-roped-in.json](./300412-roped-in.json) |
 | Roped In: Deuces Wild | 319129 | [319129-roped-in-deuces-wild.json](./319129-roped-in-deuces-wild.json) |
 | Ropelike | 76435 | [76435-ropelike.json](./76435-ropelike.json) |
