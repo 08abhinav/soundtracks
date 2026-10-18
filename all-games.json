@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:05:49.583Z",
-  "total_soundtracks": 2194,
+  "generated_at": "2026-10-18T17:05:57.052Z",
+  "total_soundtracks": 2195,
   "games": [
     {
       "igdb_id": 7522,
@@ -11813,6 +11813,20 @@
         {
           "album_name": "IXION (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7bGHv12FV4vxohDffXxB8c",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 212707,
+      "game_name": "Jackal",
+      "game_url": "https://ostdb.net/games/jackal",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731bf2c1e5efb3922c91cd441d",
+      "albums": [
+        {
+          "album_name": "Jackal (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/51g0tInAwIXbcKr14cbjo0",
           "apple_music_url": "",
           "album_link_url": ""
         }
