@@ -6471,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenwood the Last Ritual | 31109 | [31109-greenwood-the-last-ritual.json](./31109-greenwood-the-last-ritual.json) |
 | Greenwood: Amaranthus | 179511 | [179511-greenwood-amaranthus.json](./179511-greenwood-amaranthus.json) |
 | Greeny the Blox | 369173 | [369173-greeny-the-blox.json](./369173-greeny-the-blox.json) |
+| Greeting from Potato Island | 311331 | [311331-greeting-from-potato-island.json](./311331-greeting-from-potato-island.json) |
 | Greetings | 107691 | [107691-greetings.json](./107691-greetings.json) |
 | Greetings | 178562 | [178562-greetings.json](./178562-greetings.json) |
 | Greetings From El Rey | 399265 | [399265-greetings-from-el-rey.json](./399265-greetings-from-el-rey.json) |
