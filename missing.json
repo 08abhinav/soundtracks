@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T05:33:23.090Z",
-  "total_missing": 226941,
+  "generated_at": "2026-10-18T05:48:10.806Z",
+  "total_missing": 226991,
   "games": [
     {
       "igdb_id": 191680,
@@ -52367,6 +52367,11 @@
       "file": "missing/A/287217-aperture.json"
     },
     {
+      "igdb_id": 349719,
+      "game_name": "Aperture Dating Simulator",
+      "file": "missing/A/349719-aperture-dating-simulator.json"
+    },
+    {
       "igdb_id": 191897,
       "game_name": "Aperture Desk Job",
       "file": "missing/A/191897-aperture-desk-job.json"
@@ -62457,6 +62462,11 @@
       "file": "missing/A/187176-arpsic.json"
     },
     {
+      "igdb_id": 349649,
+      "game_name": "ARPventure",
+      "file": "missing/A/349649-arpventure.json"
+    },
+    {
       "igdb_id": 379085,
       "game_name": "Arq Of The Abyss",
       "file": "missing/A/379085-arq-of-the-abyss.json"
@@ -65090,6 +65100,11 @@
       "igdb_id": 218167,
       "game_name": "Ashfall",
       "file": "missing/A/218167-ashfall.json"
+    },
+    {
+      "igdb_id": 349713,
+      "game_name": "Ashfield Hollow",
+      "file": "missing/A/349713-ashfield-hollow.json"
     },
     {
       "igdb_id": 358875,
@@ -142767,6 +142782,11 @@
       "file": "missing/B/281977-byteburst.json"
     },
     {
+      "igdb_id": 349621,
+      "game_name": "Bytecollector",
+      "file": "missing/B/349621-bytecollector.json"
+    },
+    {
       "igdb_id": 319575,
       "game_name": "Byter",
       "file": "missing/B/319575-byter.json"
@@ -188567,6 +188587,11 @@
       "file": "missing/C/60070-common-ground.json"
     },
     {
+      "igdb_id": 349618,
+      "game_name": "Common Grounds",
+      "file": "missing/C/349618-common-grounds.json"
+    },
+    {
       "igdb_id": 101360,
       "game_name": "Common Hanzi Quiz: Simplified Chinese",
       "file": "missing/C/101360-common-hanzi-quiz-simplified-chinese.json"
@@ -206577,6 +206602,11 @@
       "file": "missing/C/259504-crossroads-what-was-lost-collectors-edition.json"
     },
     {
+      "igdb_id": 349657,
+      "game_name": "CrossTheRidge Evolution",
+      "file": "missing/C/349657-crosstheridge-evolution.json"
+    },
+    {
       "igdb_id": 389643,
       "game_name": "Crosstown",
       "file": "missing/C/389643-crosstown.json"
@@ -208365,6 +208395,11 @@
       "igdb_id": 60920,
       "game_name": "Crypt of Baconthulhu",
       "file": "missing/C/60920-crypt-of-baconthulhu.json"
+    },
+    {
+      "igdb_id": 349652,
+      "game_name": "Crypt of Darne",
+      "file": "missing/C/349652-crypt-of-darne.json"
     },
     {
       "igdb_id": 102808,
@@ -257667,6 +257702,11 @@
       "file": "missing/D/109647-dog-fight-super-ultra-deluxe.json"
     },
     {
+      "igdb_id": 349718,
+      "game_name": "Dog Forest",
+      "file": "missing/D/349718-dog-forest.json"
+    },
+    {
       "igdb_id": 181927,
       "game_name": "Dog Galore",
       "file": "missing/D/181927-dog-galore.json"
@@ -264420,6 +264460,11 @@
       "igdb_id": 63573,
       "game_name": "Doritos Crash Course Go!",
       "file": "missing/D/63573-doritos-crash-course-go.json"
+    },
+    {
+      "igdb_id": 349720,
+      "game_name": "Doritos Crash Course: City Lights",
+      "file": "missing/D/349720-doritos-crash-course-city-lights.json"
     },
     {
       "igdb_id": 407600,
@@ -282332,9 +282377,19 @@
       "file": "missing/D/338893-dungeons-and-dragons-online-devil-assault.json"
     },
     {
+      "igdb_id": 349626,
+      "game_name": "Dungeons & Dragons Online: Epic Destiny - Machrotechnic",
+      "file": "missing/D/349626-dungeons-and-dragons-online-epic-destiny-machrotechnic.json"
+    },
+    {
       "igdb_id": 258927,
       "game_name": "Dungeons & Dragons Online: Fables of the Feywild",
       "file": "missing/D/258927-dungeons-and-dragons-online-fables-of-the-feywild.json"
+    },
+    {
+      "igdb_id": 349633,
+      "game_name": "Dungeons & Dragons Online: Fables of the Feywild - Ultimate Fan Bundle",
+      "file": "missing/D/349633-dungeons-and-dragons-online-fables-of-the-feywild-ultimate-fan-bundle.json"
     },
     {
       "igdb_id": 353658,
@@ -282347,14 +282402,54 @@
       "file": "missing/D/209174-dungeons-and-dragons-online-forsaken-lands.json"
     },
     {
+      "igdb_id": 349640,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Aasimar Scourge",
+      "file": "missing/D/349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json"
+    },
+    {
+      "igdb_id": 349622,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Eladrin Chaosmancer",
+      "file": "missing/D/349622-dungeons-and-dragons-online-iconic-race-eladrin-chaosmancer.json"
+    },
+    {
+      "igdb_id": 349632,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Razorclaw Shifter",
+      "file": "missing/D/349632-dungeons-and-dragons-online-iconic-race-razorclaw-shifter.json"
+    },
+    {
+      "igdb_id": 349627,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Tabaxi Trailblazer",
+      "file": "missing/D/349627-dungeons-and-dragons-online-iconic-race-tabaxi-trailblazer.json"
+    },
+    {
+      "igdb_id": 349635,
+      "game_name": "Dungeons & Dragons Online: Iconic Race - Tiefling Scoundrel",
+      "file": "missing/D/349635-dungeons-and-dragons-online-iconic-race-tiefling-scoundrel.json"
+    },
+    {
       "igdb_id": 338764,
       "game_name": "Dungeons & Dragons Online: Keep on the Borderlands",
       "file": "missing/D/338764-dungeons-and-dragons-online-keep-on-the-borderlands.json"
     },
     {
+      "igdb_id": 349616,
+      "game_name": "Dungeons & Dragons Online: Magic of Myth Drannor",
+      "file": "missing/D/349616-dungeons-and-dragons-online-magic-of-myth-drannor.json"
+    },
+    {
+      "igdb_id": 349623,
+      "game_name": "Dungeons & Dragons Online: Magic of Myth Drannor - Ultimate Fan Bundle",
+      "file": "missing/D/349623-dungeons-and-dragons-online-magic-of-myth-drannor-ultimate-fan-bundle.json"
+    },
+    {
       "igdb_id": 258926,
       "game_name": "Dungeons & Dragons Online: Masterminds of Sharn",
       "file": "missing/D/258926-dungeons-and-dragons-online-masterminds-of-sharn.json"
+    },
+    {
+      "igdb_id": 349636,
+      "game_name": "Dungeons & Dragons Online: Masterminds of Sharn - Ultimate Fan Bundle",
+      "file": "missing/D/349636-dungeons-and-dragons-online-masterminds-of-sharn-ultimate-fan-bundle.json"
     },
     {
       "igdb_id": 47126,
@@ -282372,6 +282467,36 @@
       "file": "missing/D/338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json"
     },
     {
+      "igdb_id": 349648,
+      "game_name": "Dungeons & Dragons Online: Premium Class - Alchemist",
+      "file": "missing/D/349648-dungeons-and-dragons-online-premium-class-alchemist.json"
+    },
+    {
+      "igdb_id": 349650,
+      "game_name": "Dungeons & Dragons Online: Premium Class - Artificer",
+      "file": "missing/D/349650-dungeons-and-dragons-online-premium-class-artificer.json"
+    },
+    {
+      "igdb_id": 349653,
+      "game_name": "Dungeons & Dragons Online: Premium Class - Favored Soul",
+      "file": "missing/D/349653-dungeons-and-dragons-online-premium-class-favored-soul.json"
+    },
+    {
+      "igdb_id": 349643,
+      "game_name": "Dungeons & Dragons Online: Premium Race - Aasimar",
+      "file": "missing/D/349643-dungeons-and-dragons-online-premium-race-aasimar.json"
+    },
+    {
+      "igdb_id": 349619,
+      "game_name": "Dungeons & Dragons Online: Premium Race - Eladrin",
+      "file": "missing/D/349619-dungeons-and-dragons-online-premium-race-eladrin.json"
+    },
+    {
+      "igdb_id": 349631,
+      "game_name": "Dungeons & Dragons Online: Premium Race - Shifter",
+      "file": "missing/D/349631-dungeons-and-dragons-online-premium-race-shifter.json"
+    },
+    {
       "igdb_id": 338769,
       "game_name": "Dungeons & Dragons Online: Premium Race - Tabaxi",
       "file": "missing/D/338769-dungeons-and-dragons-online-premium-race-tabaxi.json"
@@ -282380,6 +282505,16 @@
       "igdb_id": 338768,
       "game_name": "Dungeons & Dragons Online: Premium Race - Warforged",
       "file": "missing/D/338768-dungeons-and-dragons-online-premium-race-warforged.json"
+    },
+    {
+      "igdb_id": 349722,
+      "game_name": "Dungeons & Dragons Online: Ruins of Gianthold",
+      "file": "missing/D/349722-dungeons-and-dragons-online-ruins-of-gianthold.json"
+    },
+    {
+      "igdb_id": 349655,
+      "game_name": "Dungeons & Dragons Online: Secrets of the Artificers",
+      "file": "missing/D/349655-dungeons-and-dragons-online-secrets-of-the-artificers.json"
     },
     {
       "igdb_id": 47127,
@@ -282417,6 +282552,11 @@
       "file": "missing/D/258935-dungeons-and-dragons-online-the-isle-of-dread.json"
     },
     {
+      "igdb_id": 349628,
+      "game_name": "Dungeons & Dragons Online: The Isle of Dread - Ultimate Fan Bundle",
+      "file": "missing/D/349628-dungeons-and-dragons-online-the-isle-of-dread-ultimate-fan-bundle.json"
+    },
+    {
       "igdb_id": 338891,
       "game_name": "Dungeons & Dragons Online: The Lost Gatekeepers",
       "file": "missing/D/338891-dungeons-and-dragons-online-the-lost-gatekeepers.json"
@@ -282450,6 +282590,31 @@
       "igdb_id": 258928,
       "game_name": "Dungeons & Dragons Online: The Sinister Secret of Saltmarsh",
       "file": "missing/D/258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json"
+    },
+    {
+      "igdb_id": 349723,
+      "game_name": "Dungeons & Dragons Online: The Vale of Twilight",
+      "file": "missing/D/349723-dungeons-and-dragons-online-the-vale-of-twilight.json"
+    },
+    {
+      "igdb_id": 349630,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Feydark Illusionist",
+      "file": "missing/D/349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json"
+    },
+    {
+      "igdb_id": 349637,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Horizon Walker",
+      "file": "missing/D/349637-dungeons-and-dragons-online-universal-tree-horizon-walker.json"
+    },
+    {
+      "igdb_id": 349634,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Inquisitive",
+      "file": "missing/D/349634-dungeons-and-dragons-online-universal-tree-inquisitive.json"
+    },
+    {
+      "igdb_id": 349642,
+      "game_name": "Dungeons & Dragons Online: Universal Tree - Vistani Knife Fighter",
+      "file": "missing/D/349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json"
     },
     {
       "igdb_id": 258958,
@@ -316772,6 +316937,11 @@
       "file": "missing/F/308243-factory-parking.json"
     },
     {
+      "igdb_id": 349645,
+      "game_name": "Factory Planner",
+      "file": "missing/F/349645-factory-planner.json"
+    },
+    {
       "igdb_id": 382325,
       "game_name": "Factory Time",
       "file": "missing/F/382325-factory-time.json"
@@ -332222,6 +332392,11 @@
       "file": "missing/F/24931-figureheads.json"
     },
     {
+      "igdb_id": 349620,
+      "game_name": "Figureless",
+      "file": "missing/F/349620-figureless.json"
+    },
+    {
       "igdb_id": 73886,
       "game_name": "Figures of Happiness",
       "file": "missing/F/73886-figures-of-happiness.json"
@@ -340910,6 +341085,11 @@
       "igdb_id": 296612,
       "game_name": "Fixeight",
       "file": "missing/F/296612-fixeight.json"
+    },
+    {
+      "igdb_id": 349617,
+      "game_name": "Fixer Park-er",
+      "file": "missing/F/349617-fixer-park-er.json"
     },
     {
       "igdb_id": 393101,
@@ -390132,6 +390312,11 @@
       "file": "missing/G/304380-goo-go.json"
     },
     {
+      "igdb_id": 349717,
+      "game_name": "Goo Goo Grapplers",
+      "file": "missing/G/349717-goo-goo-grapplers.json"
+    },
+    {
       "igdb_id": 333128,
       "game_name": "Goo Hunter",
       "file": "missing/G/333128-goo-hunter.json"
@@ -400925,6 +401110,11 @@
       "igdb_id": 175834,
       "game_name": "Grow Ver. 2",
       "file": "missing/G/175834-grow-ver-2.json"
+    },
+    {
+      "igdb_id": 349646,
+      "game_name": "Grow Wild",
+      "file": "missing/G/349646-grow-wild.json"
     },
     {
       "igdb_id": 263794,
@@ -473800,6 +473990,11 @@
       "igdb_id": 312749,
       "game_name": "Ironsand",
       "file": "missing/I/312749-ironsand.json"
+    },
+    {
+      "igdb_id": 349647,
+      "game_name": "Ironscale",
+      "file": "missing/I/349647-ironscale.json"
     },
     {
       "igdb_id": 353800,
@@ -548990,6 +549185,11 @@
       "igdb_id": 341535,
       "game_name": "Ludaro",
       "file": "missing/L/341535-ludaro.json"
+    },
+    {
+      "igdb_id": 349651,
+      "game_name": "Luddite Rampage",
+      "file": "missing/L/349651-luddite-rampage.json"
     },
     {
       "igdb_id": 303817,
@@ -632807,6 +633007,11 @@
       "file": "missing/N/7623-nancy-drew-treasure-in-the-royal-tower.json"
     },
     {
+      "igdb_id": 349638,
+      "game_name": "Nancy Drew: Treasure in the Royal Tower Fan Project",
+      "file": "missing/N/349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json"
+    },
+    {
       "igdb_id": 63119,
       "game_name": "Nancy the Happy Whore and the Perfidious Petrol Station",
       "file": "missing/N/63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json"
@@ -659142,6 +659347,11 @@
       "file": "missing/N/115758-nutcracker.json"
     },
     {
+      "igdb_id": 349629,
+      "game_name": "Nutcraka",
+      "file": "missing/N/349629-nutcraka.json"
+    },
+    {
       "igdb_id": 19966,
       "game_name": "Nutjitsu",
       "file": "missing/N/19966-nutjitsu.json"
@@ -660680,6 +660890,11 @@
       "igdb_id": 345484,
       "game_name": "Observer Protocol: The Station - First Shift",
       "file": "missing/O/345484-observer-protocol-the-station-first-shift.json"
+    },
+    {
+      "igdb_id": 349714,
+      "game_name": "Observer Protocol: The Station - Second Shift",
+      "file": "missing/O/349714-observer-protocol-the-station-second-shift.json"
     },
     {
       "igdb_id": 154532,
@@ -704392,6 +704607,11 @@
       "file": "missing/P/380551-pikachu-teeth-problem.json"
     },
     {
+      "igdb_id": 349641,
+      "game_name": "Pikachu Volleyball",
+      "file": "missing/P/349641-pikachu-volleyball.json"
+    },
+    {
       "igdb_id": 230503,
       "game_name": "Pikari Walk",
       "file": "missing/P/230503-pikari-walk.json"
@@ -721535,6 +721755,11 @@
       "igdb_id": 304731,
       "game_name": "Pokemon Kalos Crystal",
       "file": "missing/P/304731-pokemon-kalos-crystal.json"
+    },
+    {
+      "igdb_id": 349654,
+      "game_name": "Pokemon Kanlara Ultimate",
+      "file": "missing/P/349654-pokemon-kanlara-ultimate.json"
     },
     {
       "igdb_id": 250926,
@@ -760710,6 +760935,11 @@
       "igdb_id": 404283,
       "game_name": "Raptor Evolution: Gold Edition",
       "file": "missing/R/404283-raptor-evolution-gold-edition.json"
+    },
+    {
+      "igdb_id": 349656,
+      "game_name": "Raptor Runner",
+      "file": "missing/R/349656-raptor-runner.json"
     },
     {
       "igdb_id": 242610,
@@ -836737,6 +836967,11 @@
       "file": "missing/S/234134-sift-heads-3.json"
     },
     {
+      "igdb_id": 349721,
+      "game_name": "Sift Heads 4",
+      "file": "missing/S/349721-sift-heads-4.json"
+    },
+    {
       "igdb_id": 283246,
       "game_name": "Sift Heads 5",
       "file": "missing/S/283246-sift-heads-5.json"
@@ -872505,6 +872740,11 @@
       "igdb_id": 368777,
       "game_name": "SpaceCab",
       "file": "missing/S/368777-spacecab.json"
+    },
+    {
+      "igdb_id": 349658,
+      "game_name": "Spacecaps",
+      "file": "missing/S/349658-spacecaps.json"
     },
     {
       "igdb_id": 36531,
@@ -1069107,6 +1069347,11 @@
       "file": "missing/V/269565-venturous-in-the-footsteps-of-the-fallen.json"
     },
     {
+      "igdb_id": 349615,
+      "game_name": "Venue",
+      "file": "missing/V/349615-venue.json"
+    },
+    {
       "igdb_id": 84319,
       "game_name": "Venus & Braves: Majo to Megami to Horobi no Yogen",
       "file": "missing/V/84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json"
@@ -1081690,6 +1081935,11 @@
       "igdb_id": 205582,
       "game_name": "Wanderer",
       "file": "missing/W/205582-wanderer.json"
+    },
+    {
+      "igdb_id": 349715,
+      "game_name": "Wanderer",
+      "file": "missing/W/349715-wanderer.json"
     },
     {
       "igdb_id": 36866,
