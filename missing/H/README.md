@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 4 | 171892 | [171892-hack-4.json](./171892-hack-4.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
+| Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
 | Hack And Slash Fury: Car Armor | 334514 | [334514-hack-and-slash-fury-car-armor.json](./334514-hack-and-slash-fury-car-armor.json) |
@@ -678,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo: Custom Edition | 243116 | [243116-halo-custom-edition.json](./243116-halo-custom-edition.json) |
 | Halo: Doom Evolved | 401297 | [401297-halo-doom-evolved.json](./401297-halo-doom-evolved.json) |
 | Halo: GoldSource | 352185 | [352185-halo-goldsource.json](./352185-halo-goldsource.json) |
+| Halo: New Covenant | 332316 | [332316-halo-new-covenant.json](./332316-halo-new-covenant.json) |
 | Halo: Operation - Solar Flare | 351087 | [351087-halo-operation-solar-flare.json](./351087-halo-operation-solar-flare.json) |
 | Halo: Project Chozo | 414595 | [414595-halo-project-chozo.json](./414595-halo-project-chozo.json) |
 | Halo: Reach - Anniversary Map Pack | 176904 | [176904-halo-reach-anniversary-map-pack.json](./176904-halo-reach-anniversary-map-pack.json) |
@@ -6812,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Dark Xuan Yuan Sword | 361296 | [361296-honkai-impact-3rd-dark-xuan-yuan-sword.json](./361296-honkai-impact-3rd-dark-xuan-yuan-sword.json) |
 | Honkai Impact 3rd: Dawn of Glory | 279724 | [279724-honkai-impact-3rd-dawn-of-glory.json](./279724-honkai-impact-3rd-dawn-of-glory.json) |
 | Honkai Impact 3rd: Dorm Life | 362032 | [362032-honkai-impact-3rd-dorm-life.json](./362032-honkai-impact-3rd-dorm-life.json) |
+| Honkai Impact 3rd: Drumming in New Resolutions | 332301 | [332301-honkai-impact-3rd-drumming-in-new-resolutions.json](./332301-honkai-impact-3rd-drumming-in-new-resolutions.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
@@ -8953,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Lode Runner | 48980 | [48980-hyper-lode-runner.json](./48980-hyper-lode-runner.json) |
 | Hyper Mari World 6 | 200711 | [200711-hyper-mari-world-6.json](./200711-hyper-mari-world-6.json) |
+| Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
 | Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
