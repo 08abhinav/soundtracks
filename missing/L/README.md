@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars II: The Original Trilogy | 194937 | [194937-lego-star-wars-ii-the-original-trilogy.json](./194937-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 248527 | [248527-lego-star-wars-ii-the-original-trilogy.json](./248527-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars II: The Original Trilogy | 248528 | [248528-lego-star-wars-ii-the-original-trilogy.json](./248528-lego-star-wars-ii-the-original-trilogy.json) |
+| LEGO Star Wars II: The Original Trilogy | 335050 | [335050-lego-star-wars-ii-the-original-trilogy.json](./335050-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars III: The Clone Wars | 194948 | [194948-lego-star-wars-iii-the-clone-wars.json](./194948-lego-star-wars-iii-the-clone-wars.json) |
 | LEGO Star Wars III: The Clone Wars | 250156 | [250156-lego-star-wars-iii-the-clone-wars.json](./250156-lego-star-wars-iii-the-clone-wars.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
@@ -4315,6 +4316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
 | Little Memory | 93025 | [93025-little-memory.json](./93025-little-memory.json) |
+| Little Mermaid Interactive Fairy Tale | 335063 | [335063-little-mermaid-interactive-fairy-tale.json](./335063-little-mermaid-interactive-fairy-tale.json) |
 | Little Miss Lonely | 43885 | [43885-little-miss-lonely.json](./43885-little-miss-lonely.json) |
 | Little Moneybags | 157079 | [157079-little-moneybags.json](./157079-little-moneybags.json) |
 | Little Monk | 73534 | [73534-little-monk.json](./73534-little-monk.json) |
