@@ -5823,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
 | Dexodonex | 30631 | [30631-dexodonex.json](./30631-dexodonex.json) |
 | Dexoriality | 130824 | [130824-dexoriality.json](./130824-dexoriality.json) |
+| DexSweeper | 333420 | [333420-dexsweeper.json](./333420-dexsweeper.json) |
 | Dexter Stardust | 213337 | [213337-dexter-stardust.json](./213337-dexter-stardust.json) |
 | Dexter: Hidden Darkness | 59845 | [59845-dexter-hidden-darkness.json](./59845-dexter-hidden-darkness.json) |
 | Dexter: The Game | 21668 | [21668-dexter-the-game.json](./21668-dexter-the-game.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
+| Dinotica | 333407 | [333407-dinotica.json](./333407-dinotica.json) |
 | Dinotica | 361625 | [361625-dinotica.json](./361625-dinotica.json) |
 | Dinotopia | 146885 | [146885-dinotopia.json](./146885-dinotopia.json) |
 | Dinotopia: Game Land Activity Center | 70442 | [70442-dinotopia-game-land-activity-center.json](./70442-dinotopia-game-land-activity-center.json) |
@@ -8435,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
 | Doki Doki: Amor Fati | 400557 | [400557-doki-doki-amor-fati.json](./400557-doki-doki-amor-fati.json) |
 | Doki Doki: Majima Helps the Literature Club! | 373321 | [373321-doki-doki-majima-helps-the-literature-club.json](./373321-doki-doki-majima-helps-the-literature-club.json) |
+| Doki Doki: Spark of Hope | 333453 | [333453-doki-doki-spark-of-hope.json](./333453-doki-doki-spark-of-hope.json) |
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
 | Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
@@ -9724,6 +9727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon | 281500 | [281500-double-dragon.json](./281500-double-dragon.json) |
 | Double Dragon | 281501 | [281501-double-dragon.json](./281501-double-dragon.json) |
 | Double Dragon | 281505 | [281505-double-dragon.json](./281505-double-dragon.json) |
+| Double Dragon | 333417 | [333417-double-dragon.json](./333417-double-dragon.json) |
 | Double Dragon | 6787 | [6787-double-dragon.json](./6787-double-dragon.json) |
 | Double Dragon & Kunio-kun: Retro Brawler Bundle | 147789 | [147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json](./147789-double-dragon-and-kunio-kun-retro-brawler-bundle.json) |
 | Double Dragon 3: The Arcade Game | 46277 | [46277-double-dragon-3-the-arcade-game.json](./46277-double-dragon-3-the-arcade-game.json) |
