@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
 | West Alien Train | 308361 | [308361-west-alien-train.json](./308361-west-alien-train.json) |
 | West Bank | 26438 | [26438-west-bank.json](./26438-west-bank.json) |
+| West Escape: Gambler Edition | 357019 | [357019-west-escape-gambler-edition.json](./357019-west-escape-gambler-edition.json) |
 | West Escape: Gold Edition | 394757 | [394757-west-escape-gold-edition.json](./394757-west-escape-gold-edition.json) |
 | West Falls | 131562 | [131562-west-falls.json](./131562-west-falls.json) |
 | West Fantasy | 220750 | [220750-west-fantasy.json](./220750-west-fantasy.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Games 2023 | 210911 | [210911-winter-games-2023.json](./210911-winter-games-2023.json) |
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
+| Winter Games Collection + Advent Calendar | 357021 | [357021-winter-games-collection-advent-calendar.json](./357021-winter-games-collection-advent-calendar.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
 | Winter Is... | 92389 | [92389-winter-is.json](./92389-winter-is.json) |
@@ -5270,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodle Tree Bundle | 173795 | [173795-woodle-tree-bundle.json](./173795-woodle-tree-bundle.json) |
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
+| Woodrot | 357037 | [357037-woodrot.json](./357037-woodrot.json) |
 | Woods of War | 329153 | [329153-woods-of-war.json](./329153-woods-of-war.json) |
 | Woodspell | 92959 | [92959-woodspell.json](./92959-woodspell.json) |
 | Woodswalker | 384195 | [384195-woodswalker.json](./384195-woodswalker.json) |
