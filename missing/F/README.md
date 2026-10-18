@@ -6135,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High | 110161 | [110161-fly-high.json](./110161-fly-high.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
+| Fly Light | 361497 | [361497-fly-light.json](./361497-fly-light.json) |
 | Fly Like A Bird 4 | 95957 | [95957-fly-like-a-bird-4.json](./95957-fly-like-a-bird-4.json) |
 | Fly Logic: Fly Fishing - The Green River | 209463 | [209463-fly-logic-fly-fishing-the-green-river.json](./209463-fly-logic-fly-fishing-the-green-river.json) |
 | Fly Me To The Moon | 369462 | [369462-fly-me-to-the-moon.json](./369462-fly-me-to-the-moon.json) |
