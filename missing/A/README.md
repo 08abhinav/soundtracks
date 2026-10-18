@@ -7505,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
+| Anomaly Seeker: The Diner | 343123 | [343123-anomaly-seeker-the-diner.json](./343123-anomaly-seeker-the-diner.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly Zone | 126299 | [126299-anomaly-zone.json](./126299-anomaly-zone.json) |
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
@@ -7733,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthem#9 | 276853 | [276853-anthem-9.json](./276853-anthem-9.json) |
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
+| Anthill Village | 343048 | [343048-anthill-village.json](./343048-anthill-village.json) |
 | Anthology | 38204 | [38204-anthology.json](./38204-anthology.json) |
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
 | Anthology of the Killer | 268731 | [268731-anthology-of-the-killer.json](./268731-anthology-of-the-killer.json) |
@@ -11098,6 +11100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterook | 129654 | [129654-asterook.json](./129654-asterook.json) |
 | Asteros | 304681 | [304681-asteros.json](./304681-asteros.json) |
 | Asterrunner | 149721 | [149721-asterrunner.json](./149721-asterrunner.json) |
+| Asterz | 343141 | [343141-asterz.json](./343141-asterz.json) |
 | Asthenia | 381637 | [381637-asthenia.json](./381637-asthenia.json) |
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
