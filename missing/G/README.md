@@ -292,6 +292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Utopia Manabi Straight! Kira-kira Happy Festa! | 61449 | [61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json](./61449-gakuen-utopia-manabi-straight-kira-kira-happy-festa.json) |
 | Gakuin Makyo: High School Crisis | 322577 | [322577-gakuin-makyo-high-school-crisis.json](./322577-gakuin-makyo-high-school-crisis.json) |
 | Gakusen Toshi Asteriks Festa: Kirameki no Stella | 175688 | [175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json](./175688-gakusen-toshi-asteriks-festa-kirameki-no-stella.json) |
+| Gakutensoku | 318821 | [318821-gakutensoku.json](./318821-gakutensoku.json) |
 | Gakuyuu Unmei Kyoudoutai | 222444 | [222444-gakuyuu-unmei-kyoudoutai.json](./222444-gakuyuu-unmei-kyoudoutai.json) |
 | Gal Galaxy Pain | 186558 | [186558-gal-galaxy-pain.json](./186558-gal-galaxy-pain.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
@@ -890,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Dev Story | 19815 | [19815-game-dev-story.json](./19815-game-dev-story.json) |
 | Game Dev Story 2 | 91915 | [91915-game-dev-story-2.json](./91915-game-dev-story-2.json) |
 | Game Dev Studio | 89377 | [89377-game-dev-studio.json](./89377-game-dev-studio.json) |
+| Game Developer Simulator | 318817 | [318817-game-developer-simulator.json](./318817-game-developer-simulator.json) |
 | Game Director Story | 146053 | [146053-game-director-story.json](./146053-game-director-story.json) |
 | Game Doraemon: Nobita no Shin Kyouryuu | 141725 | [141725-game-doraemon-nobita-no-shin-kyouryuu.json](./141725-game-doraemon-nobita-no-shin-kyouryuu.json) |
 | Game Doraemon: Nobita no Takara-jima | 97373 | [97373-game-doraemon-nobita-no-takara-jima.json](./97373-game-doraemon-nobita-no-takara-jima.json) |
