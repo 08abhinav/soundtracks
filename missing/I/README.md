@@ -3329,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside: Before Birth | 33645 | [33645-inside-before-birth.json](./33645-inside-before-birth.json) |
 | Insider Tales: The Secret of Casanova | 25526 | [25526-insider-tales-the-secret-of-casanova.json](./25526-insider-tales-the-secret-of-casanova.json) |
 | Insider Tales: The Stolen Venus 2 | 202114 | [202114-insider-tales-the-stolen-venus-2.json](./202114-insider-tales-the-stolen-venus-2.json) |
+| Insider Trading | 326467 | [326467-insider-trading.json](./326467-insider-trading.json) |
 | Insiders | 155024 | [155024-insiders.json](./155024-insiders.json) |
 | Insiders | 377952 | [377952-insiders.json](./377952-insiders.json) |
 | Insiders 2: Eve ga Inai | 377953 | [377953-insiders-2-eve-ga-inai.json](./377953-insiders-2-eve-ga-inai.json) |
