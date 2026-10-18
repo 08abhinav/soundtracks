@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Mania | 40374 | [40374-paddle-mania.json](./40374-paddle-mania.json) |
 | Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
 | Paddle Momentum | 413904 | [413904-paddle-momentum.json](./413904-paddle-momentum.json) |
+| Paddle Paddle Paddle | 336330 | [336330-paddle-paddle-paddle.json](./336330-paddle-paddle-paddle.json) |
 | Paddle Pop Kombatei | 388895 | [388895-paddle-pop-kombatei.json](./388895-paddle-pop-kombatei.json) |
 | Paddle Together | 366244 | [366244-paddle-together.json](./366244-paddle-together.json) |
 | Paddle Up | 32227 | [32227-paddle-up.json](./32227-paddle-up.json) |
@@ -8501,6 +8502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
+| Polarity Remastered | 336401 | [336401-polarity-remastered.json](./336401-polarity-remastered.json) |
 | Polarity Switch | 176342 | [176342-polarity-switch.json](./176342-polarity-switch.json) |
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
@@ -10345,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive | 236171 | [236171-primitive.json](./236171-primitive.json) |
 | Primitive Fear | 387651 | [387651-primitive-fear.json](./387651-primitive-fear.json) |
 | Primitive Hunter | 127710 | [127710-primitive-hunter.json](./127710-primitive-hunter.json) |
+| Primitive Life Simulator | 336400 | [336400-primitive-life-simulator.json](./336400-primitive-life-simulator.json) |
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
@@ -11811,6 +11814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
+| Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
@@ -13193,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Noid | 106465 | [106465-puzzle-noid.json](./106465-puzzle-noid.json) |
 | Puzzle of Insects | 295993 | [295993-puzzle-of-insects.json](./295993-puzzle-of-insects.json) |
 | Puzzle of Jellies | 9731 | [9731-puzzle-of-jellies.json](./9731-puzzle-of-jellies.json) |
+| Puzzle of Love: Building My Heart | 336399 | [336399-puzzle-of-love-building-my-heart.json](./336399-puzzle-of-love-building-my-heart.json) |
 | Puzzle of Santa Girl VR | 81932 | [81932-puzzle-of-santa-girl-vr.json](./81932-puzzle-of-santa-girl-vr.json) |
 | Puzzle of Words | 37301 | [37301-puzzle-of-words.json](./37301-puzzle-of-words.json) |
 | Puzzle One | 46465 | [46465-puzzle-one.json](./46465-puzzle-one.json) |
