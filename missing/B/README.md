@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloo's Mall | 261730 | [261730-balloos-mall.json](./261730-balloos-mall.json) |
+| Balloomia: Sky Playground | 347565 | [347565-balloomia-sky-playground.json](./347565-balloomia-sky-playground.json) |
 | Balloon | 379997 | [379997-balloon.json](./379997-balloon.json) |
 | Balloon | 84094 | [84094-balloon.json](./84094-balloon.json) |
 | Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
 | Be the Ruler: Britannia | 112987 | [112987-be-the-ruler-britannia.json](./112987-be-the-ruler-britannia.json) |
+| Be the Sword | 347486 | [347486-be-the-sword.json](./347486-be-the-sword.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
 | Be You 2 | 135757 | [135757-be-you-2.json](./135757-be-you-2.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
@@ -5098,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
 | Beyond the Thaw | 170433 | [170433-beyond-the-thaw.json](./170433-beyond-the-thaw.json) |
+| Beyond the Threshold | 347561 | [347561-beyond-the-threshold.json](./347561-beyond-the-threshold.json) |
 | Beyond the Titanic | 73704 | [73704-beyond-the-titanic.json](./73704-beyond-the-titanic.json) |
 | Beyond the Underworld | 133371 | [133371-beyond-the-underworld.json](./133371-beyond-the-underworld.json) |
 | Beyond the Unknown: A Matter of Time - Collector's Edition | 417302 | [417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json](./417302-beyond-the-unknown-a-matter-of-time-collectors-edition.json) |
@@ -12559,6 +12562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Bistro Story | 152069 | [152069-burger-bistro-story.json](./152069-burger-bistro-story.json) |
 | Burger Bois | 347908 | [347908-burger-bois.json](./347908-burger-bois.json) |
 | Burger Bots Inc. | 365101 | [365101-burger-bots-inc.json](./365101-burger-bots-inc.json) |
+| Burger Bounce | 347494 | [347494-burger-bounce.json](./347494-burger-bounce.json) |
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
