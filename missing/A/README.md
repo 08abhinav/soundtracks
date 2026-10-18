@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney Turnabout Collection | 146326 | [146326-ace-attorney-turnabout-collection.json](./146326-ace-attorney-turnabout-collection.json) |
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
+| Ace Attorney: Prisoners of Fate | 341929 | [341929-ace-attorney-prisoners-of-fate.json](./341929-ace-attorney-prisoners-of-fate.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
 | Ace Attorney: The Final Trials | 366725 | [366725-ace-attorney-the-final-trials.json](./366725-ace-attorney-the-final-trials.json) |
 | Ace Attorney: The Incomplete Story | 309972 | [309972-ace-attorney-the-incomplete-story.json](./309972-ace-attorney-the-incomplete-story.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action 52 | 238205 | [238205-action-52.json](./238205-action-52.json) |
 | Action 52 | 5340 | [5340-action-52.json](./5340-action-52.json) |
 | Action 69 | 118200 | [118200-action-69.json](./118200-action-69.json) |
+| Action Adventure | 341831 | [341831-action-adventure.json](./341831-action-adventure.json) |
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
 | Action Ball Deluxe | 177040 | [177040-action-ball-deluxe.json](./177040-action-ball-deluxe.json) |
@@ -12920,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azera Online | 76612 | [76612-azera-online.json](./76612-azera-online.json) |
 | Azerion | 193671 | [193671-azerion.json](./193671-azerion.json) |
 | Azhar Erriad: Destruction | 362760 | [362760-azhar-erriad-destruction.json](./362760-azhar-erriad-destruction.json) |
+| Azhar Erriad: Hamzaoui Is Missing | 341919 | [341919-azhar-erriad-hamzaoui-is-missing.json](./341919-azhar-erriad-hamzaoui-is-missing.json) |
 | Azimech | 156220 | [156220-azimech.json](./156220-azimech.json) |
 | Azimuth | 252655 | [252655-azimuth.json](./252655-azimuth.json) |
 | Azimuth | 395550 | [395550-azimuth.json](./395550-azimuth.json) |
