@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
+| Tentacles Invasion | 321820 | [321820-tentacles-invasion.json](./321820-tentacles-invasion.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
@@ -3443,6 +3444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
 | Terrorpods | 12794 | [12794-terrorpods.json](./12794-terrorpods.json) |
 | Terrors 2 | 37315 | [37315-terrors-2.json](./37315-terrors-2.json) |
+| Terrors Of North: Finnish Cabin | 321841 | [321841-terrors-of-north-finnish-cabin.json](./321841-terrors-of-north-finnish-cabin.json) |
 | Terrors to Unveil: Day Off | 348313 | [348313-terrors-to-unveil-day-off.json](./348313-terrors-to-unveil-day-off.json) |
 | Terrors to Unveil: Intrusion | 344352 | [344352-terrors-to-unveil-intrusion.json](./344352-terrors-to-unveil-intrusion.json) |
 | Terrors to Unveil: Last Trace | 383708 | [383708-terrors-to-unveil-last-trace.json](./383708-terrors-to-unveil-last-trace.json) |
@@ -6672,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents Wishology: Chapter 1 - The Chosen One! | 395745 | [395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json](./395745-the-fairly-oddparents-wishology-chapter-1-the-chosen-one.json) |
 | The Fairly OddParents Wishology: Chapter 2 - The Darkness' Revenge! | 395747 | [395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json](./395747-the-fairly-oddparents-wishology-chapter-2-the-darkness-revenge.json) |
 | The Fairly OddParents Wishology: Chapter 3 - The Return of the Chosen One! | 395749 | [395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json](./395749-the-fairly-oddparents-wishology-chapter-3-the-return-of-the-chosen-one.json) |
+| The Fairly OddParents: Big Superhero Wish | 321804 | [321804-the-fairly-oddparents-big-superhero-wish.json](./321804-the-fairly-oddparents-big-superhero-wish.json) |
 | The Fairly OddParents: Breakin' da Rules | 243198 | [243198-the-fairly-oddparents-breakin-da-rules.json](./243198-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Breakin' da Rules | 3911 | [3911-the-fairly-oddparents-breakin-da-rules.json](./3911-the-fairly-oddparents-breakin-da-rules.json) |
 | The Fairly OddParents: Clash With the Anti-World | 18256 | [18256-the-fairly-oddparents-clash-with-the-anti-world.json](./18256-the-fairly-oddparents-clash-with-the-anti-world.json) |
@@ -8215,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jade Stone | 67698 | [67698-the-jade-stone.json](./67698-the-jade-stone.json) |
 | The Jak and Daxter Bundle | 76868 | [76868-the-jak-and-daxter-bundle.json](./76868-the-jak-and-daxter-bundle.json) |
 | The Janitor | 32006 | [32006-the-janitor.json](./32006-the-janitor.json) |
+| The Japanese Calligraphy | 321854 | [321854-the-japanese-calligraphy.json](./321854-the-japanese-calligraphy.json) |
 | The Jeffy Game | 244891 | [244891-the-jeffy-game.json](./244891-the-jeffy-game.json) |
 | The Jekoos | 113543 | [113543-the-jekoos.json](./113543-the-jekoos.json) |
 | The Jelly Adventure | 197102 | [197102-the-jelly-adventure.json](./197102-the-jelly-adventure.json) |
@@ -8796,6 +8800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
 | The Last Node | 408500 | [408500-the-last-node.json](./408500-the-last-node.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
+| The Last Nurse Joy | 321816 | [321816-the-last-nurse-joy.json](./321816-the-last-nurse-joy.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
@@ -14088,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
 | The Zibbo Show | 404798 | [404798-the-zibbo-show.json](./404798-the-zibbo-show.json) |
+| The Zium Exposition | 321851 | [321851-the-zium-exposition.json](./321851-the-zium-exposition.json) |
 | The Zium Gallery | 193674 | [193674-the-zium-gallery.json](./193674-the-zium-gallery.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
@@ -17960,6 +17966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Road Race | 43303 | [43303-tokyo-road-race.json](./43303-tokyo-road-race.json) |
 | Tokyo Rock Redemption | 298899 | [298899-tokyo-rock-redemption.json](./298899-tokyo-rock-redemption.json) |
 | Tokyo Rogue | 153977 | [153977-tokyo-rogue.json](./153977-tokyo-rogue.json) |
+| Tokyo Satsujinki Gakkou no Kaidan | 321824 | [321824-tokyo-satsujinki-gakkou-no-kaidan.json](./321824-tokyo-satsujinki-gakkou-no-kaidan.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
@@ -22609,6 +22616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triversal | 143605 | [143605-triversal.json](./143605-triversal.json) |
 | Trivia | 110820 | [110820-trivia.json](./110820-trivia.json) |
 | Trivia 101 | 95590 | [95590-trivia-101.json](./95590-trivia-101.json) |
+| Trivia About You | 321821 | [321821-trivia-about-you.json](./321821-trivia-about-you.json) |
 | Trivia Beta64 Party | 288704 | [288704-trivia-beta64-party.json](./288704-trivia-beta64-party.json) |
 | Trivia Crack | 39204 | [39204-trivia-crack.json](./39204-trivia-crack.json) |
 | Trivia Crack Adventure | 208370 | [208370-trivia-crack-adventure.json](./208370-trivia-crack-adventure.json) |
