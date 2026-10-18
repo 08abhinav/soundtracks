@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanoi Puzzles: Flip Match | 159810 | [159810-hanoi-puzzles-flip-match.json](./159810-hanoi-puzzles-flip-match.json) |
 | Hanoi Puzzles: Magnetrix | 159744 | [159744-hanoi-puzzles-magnetrix.json](./159744-hanoi-puzzles-magnetrix.json) |
 | Hanoi Puzzles: Solid Match | 156520 | [156520-hanoi-puzzles-solid-match.json](./156520-hanoi-puzzles-solid-match.json) |
+| Hans | 336953 | [336953-hans.json](./336953-hans.json) |
 | Hans Christian Andersen: The Ugly Prince Duckling | 70120 | [70120-hans-christian-andersen-the-ugly-prince-duckling.json](./70120-hans-christian-andersen-the-ugly-prince-duckling.json) |
 | Hans in the Internetz | 392266 | [392266-hans-in-the-internetz.json](./392266-hans-in-the-internetz.json) |
 | Hans Klosss | 61508 | [61508-hans-klosss.json](./61508-hans-klosss.json) |
@@ -3277,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello World: a developer story | 354089 | [354089-hello-world-a-developer-story.json](./354089-hello-world-a-developer-story.json) |
+| Hello Yuna | 336869 | [336869-hello-yuna.json](./336869-hello-yuna.json) |
 | Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
 | Hello, Good-bye | 111803 | [111803-hello-good-bye.json](./111803-hello-good-bye.json) |
@@ -3363,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Help me please | 155977 | [155977-help-me-please.json](./155977-help-me-please.json) |
 | Help Me, I'm Drowning | 128435 | [128435-help-me-im-drowning.json](./128435-help-me-im-drowning.json) |
 | Help Me! | 154003 | [154003-help-me.json](./154003-help-me.json) |
+| Help Me! | 336959 | [336959-help-me.json](./336959-help-me.json) |
 | Help Newton | 197228 | [197228-help-newton.json](./197228-help-newton.json) |
 | Help Police: Pull the Pins | 290461 | [290461-help-police-pull-the-pins.json](./290461-help-police-pull-the-pins.json) |
 | Help the Cats | 290657 | [290657-help-the-cats.json](./290657-help-the-cats.json) |
