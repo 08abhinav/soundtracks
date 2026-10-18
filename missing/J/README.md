@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
+| Jet Rush 2 | 358731 | [358731-jet-rush-2.json](./358731-jet-rush-2.json) |
 | Jet Scalawag: The King of Shooters | 327158 | [327158-jet-scalawag-the-king-of-shooters.json](./327158-jet-scalawag-the-king-of-shooters.json) |
 | Jet Set Gertie | 380103 | [380103-jet-set-gertie.json](./380103-jet-set-gertie.json) |
 | Jet Set Luis | 45343 | [45343-jet-set-luis.json](./45343-jet-set-luis.json) |
@@ -2134,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joyville | 260104 | [260104-joyville.json](./260104-joyville.json) |
 | Joyville 2 | 305751 | [305751-joyville-2.json](./305751-joyville-2.json) |
 | JPDE: Sonata of Fire | 178042 | [178042-jpde-sonata-of-fire.json](./178042-jpde-sonata-of-fire.json) |
+| JQ: Beautiful Japan | 358647 | [358647-jq-beautiful-japan.json](./358647-jq-beautiful-japan.json) |
 | JQ: chemistry | 96633 | [96633-jq-chemistry.json](./96633-jq-chemistry.json) |
 | JQ: cosmos | 117116 | [117116-jq-cosmos.json](./117116-jq-cosmos.json) |
 | JQ: dogs & cats | 91159 | [91159-jq-dogs-and-cats.json](./91159-jq-dogs-and-cats.json) |
