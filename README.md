@@ -1127,6 +1127,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273739a2d82ab28b2ea14cc45f0" width="60" /> | [Papetura](https://ostdb.net/games/papetura) | **Papetura (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6GGH4AF4EGa0PnlTiB1PXP) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273de9bc8440147447897d4c991" width="60" /> | [Papo & Yo](https://ostdb.net/games/papo-and-yo) | **Papo & Yo Soundtrack** · [Spotify](https://open.spotify.com/album/73qxzEZNtpyke9P7IYvbr5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739216f4bd2a336346c96d126c" width="60" /> | [Paranormasight: The Seven Mysteries of Honjo](https://ostdb.net/games/paranormasight-the-seven-mysteries-of-honjo) | **PARANORMASIGHT: The Seven Mysteries of Honjo Original Soundtrack** · [Spotify](https://open.spotify.com/album/4HLKsb4uWmqpvAtnedvDcC) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27325e7198c9725c6682c94bf0d" width="60" /> | [Pathway](https://ostdb.net/games/pathway) | **Pathway (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/79cRKy9bV0Oh3NpzpWCKtn) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe51a1cbc3b670ccfd336388" width="60" /> | [Payday 2](https://ostdb.net/games/payday-2) | **Payday 2 (Official Soundtrack, Vol. 2)** · [Spotify](https://open.spotify.com/album/6v0j3JMm1FXvPFy9ORAmrl)<br>**Payday 2 Remastered (Official Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/3vRxcJ43dTDDx5a77ccgxW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273c1d9994edfb05a92103d2e4c" width="60" /> | [Payday 3](https://ostdb.net/games/payday-3) | **PAYDAY 3 - Jacket (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0aOuWq6eX71s7nXPkFWpJK)<br>**PAYDAY 3 Vol. 1 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3W4k3LJMbgEuyv3nyofNNp)<br>**PAYDAY 3 Vol. 2 (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1UjTN0TwUS0SxUUmRBdfC4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fe073d87869f766dde4bcc33" width="60" /> | [Peggle 2](https://ostdb.net/games/peggle-2) | **Peggle 2 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4waHwHtoD9iFkYDMAFjZYw) |
@@ -1856,4 +1857,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2173 soundtracks · last updated 2026-10-18T08:41:12.427Z_
+_2174 soundtracks · last updated 2026-10-18T08:41:19.933Z_
