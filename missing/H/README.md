@@ -7051,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoples | 152504 | [152504-hoples.json](./152504-hoples.json) |
 | Hoplichess | 156013 | [156013-hoplichess.json](./156013-hoplichess.json) |
 | Hoplite | 30019 | [30019-hoplite.json](./30019-hoplite.json) |
+| Hopman Mini | 341280 | [341280-hopman-mini.json](./341280-hopman-mini.json) |
 | Hopmon | 91546 | [91546-hopmon.json](./91546-hopmon.json) |
 | Hoppa | 129574 | [129574-hoppa.json](./129574-hoppa.json) |
 | Hoppe Chan: Punitto Shibotte Daibouken! | 222538 | [222538-hoppe-chan-punitto-shibotte-daibouken.json](./222538-hoppe-chan-punitto-shibotte-daibouken.json) |
