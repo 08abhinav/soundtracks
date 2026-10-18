@@ -6710,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
 | Lucky Coins | 175264 | [175264-lucky-coins.json](./175264-lucky-coins.json) |
 | Lucky day | 166750 | [166750-lucky-day.json](./166750-lucky-day.json) |
+| Lucky Defense | 320012 | [320012-lucky-defense.json](./320012-lucky-defense.json) |
 | Lucky Dice | 246278 | [246278-lucky-dice.json](./246278-lucky-dice.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
@@ -7074,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunaM: SG | 174602 | [174602-lunam-sg.json](./174602-lunam-sg.json) |
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
+| Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
 | Lunar 2: Eternal Blue Complete | 44998 | [44998-lunar-2-eternal-blue-complete.json](./44998-lunar-2-eternal-blue-complete.json) |
 | Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
 | Lunar Assault 64 | 145457 | [145457-lunar-assault-64.json](./145457-lunar-assault-64.json) |
