@@ -341,6 +341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantic Dream Collection | 136184 | [136184-quantic-dream-collection.json](./136184-quantic-dream-collection.json) |
 | Quantized | 37311 | [37311-quantized.json](./37311-quantized.json) |
 | Quantum | 19374 | [19374-quantum.json](./19374-quantum.json) |
+| Quantum Action | 353624 | [353624-quantum-action.json](./353624-quantum-action.json) |
 | Quantum Apex | 195151 | [195151-quantum-apex.json](./195151-quantum-apex.json) |
 | Quantum Beast | 295526 | [295526-quantum-beast.json](./295526-quantum-beast.json) |
 | Quantum Break: Timeless Collector's Edition | 103387 | [103387-quantum-break-timeless-collectors-edition.json](./103387-quantum-break-timeless-collectors-edition.json) |
