@@ -6437,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboquest | 137894 | [137894-roboquest.json](./137894-roboquest.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
+| Roboquest: Deluxe Edition | 335623 | [335623-roboquest-deluxe-edition.json](./335623-roboquest-deluxe-edition.json) |
 | RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
