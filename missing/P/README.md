@@ -11286,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
+| Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
 | Project Brutality | 140298 | [140298-project-brutality.json](./140298-project-brutality.json) |
