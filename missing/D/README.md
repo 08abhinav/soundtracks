@@ -5365,7 +5365,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
 | Destructamundo | 17842 | [17842-destructamundo.json](./17842-destructamundo.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
-| Destruction AllStars | 134587 | [134587-destruction-allstars.json](./134587-destruction-allstars.json) |
 | Destruction AllStars: Season 1 - Hotshots | 412362 | [412362-destruction-allstars-season-1-hotshots.json](./412362-destruction-allstars-season-1-hotshots.json) |
 | Destruction Darius | 121430 | [121430-destruction-darius.json](./121430-destruction-darius.json) |
 | Destruction Darius 2 | 121432 | [121432-destruction-darius-2.json](./121432-destruction-darius-2.json) |
