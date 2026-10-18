@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Plate | 322091 | [322091-one-more-plate.json](./322091-one-more-plate.json) |
 | One More Question | 341506 | [341506-one-more-question.json](./341506-one-more-question.json) |
 | One More Roll | 110908 | [110908-one-more-roll.json](./110908-one-more-roll.json) |
+| One More Run | 338534 | [338534-one-more-run.json](./338534-one-more-run.json) |
 | One More Sleep | 177857 | [177857-one-more-sleep.json](./177857-one-more-sleep.json) |
 | One More Spin | 384495 | [384495-one-more-spin.json](./384495-one-more-spin.json) |
 | One More Step | 164236 | [164236-one-more-step.json](./164236-one-more-step.json) |
