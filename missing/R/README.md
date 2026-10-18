@@ -2437,6 +2437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
 | Rebellion Princess | 391330 | [391330-rebellion-princess.json](./391330-rebellion-princess.json) |
 | Rebellion Saga | 334282 | [334282-rebellion-saga.json](./334282-rebellion-saga.json) |
+| Rebellion Stryker | 316471 | [316471-rebellion-stryker.json](./316471-rebellion-stryker.json) |
 | Rebellion: A Rogue Souls Like | 153393 | [153393-rebellion-a-rogue-souls-like.json](./153393-rebellion-a-rogue-souls-like.json) |
 | Rebellions: Secret Game 2nd Stage | 153169 | [153169-rebellions-secret-game-2nd-stage.json](./153169-rebellions-secret-game-2nd-stage.json) |
 | Rebellious Takeover | 396013 | [396013-rebellious-takeover.json](./396013-rebellious-takeover.json) |
