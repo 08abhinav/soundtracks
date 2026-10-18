@@ -341,7 +341,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations II: Endless Universe | 21353 | [21353-galactic-civilizations-ii-endless-universe.json](./21353-galactic-civilizations-ii-endless-universe.json) |
 | Galactic Civilizations II: Twilight of the Arnor | 723 | [723-galactic-civilizations-ii-twilight-of-the-arnor.json](./723-galactic-civilizations-ii-twilight-of-the-arnor.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
-| Galactic Civilizations III | 10345 | [10345-galactic-civilizations-iii.json](./10345-galactic-civilizations-iii.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
 | Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
 | Galactic Civilizations III: Intrigue | 83809 | [83809-galactic-civilizations-iii-intrigue.json](./83809-galactic-civilizations-iii-intrigue.json) |
@@ -5559,7 +5558,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Champion | 143374 | [143374-grand-champion.json](./143374-grand-champion.json) |
-| Grand Chase | 7496 | [7496-grand-chase.json](./7496-grand-chase.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
