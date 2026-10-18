@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 | 243262 | [243262-madden-nfl-25.json](./243262-madden-nfl-25.json) |
 | Madden NFL 25 | 301506 | [301506-madden-nfl-25.json](./301506-madden-nfl-25.json) |
 | Madden NFL 25 | 3185 | [3185-madden-nfl-25.json](./3185-madden-nfl-25.json) |
+| Madden NFL 25 Mobile Football | 320596 | [320596-madden-nfl-25-mobile-football.json](./320596-madden-nfl-25-mobile-football.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
@@ -6613,6 +6614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow | 83171 | [83171-meow.json](./83171-meow.json) |
 | Meow and the Diamond Jump | 379022 | [379022-meow-and-the-diamond-jump.json](./379022-meow-and-the-diamond-jump.json) |
 | Meow Bistro! | 300534 | [300534-meow-bistro.json](./300534-meow-bistro.json) |
+| Meow Cafe | 320619 | [320619-meow-cafe.json](./320619-meow-cafe.json) |
 | Meow Cafe | 377333 | [377333-meow-cafe.json](./377333-meow-cafe.json) |
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
@@ -9076,6 +9078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
 | Miner Lou | 116918 | [116918-miner-lou.json](./116918-miner-lou.json) |
 | Miner Man | 391215 | [391215-miner-man.json](./391215-miner-man.json) |
+| Miner Open Chests | 320581 | [320581-miner-open-chests.json](./320581-miner-open-chests.json) |
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
@@ -9999,6 +10002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
 | Mission Critical | 791 | [791-mission-critical.json](./791-mission-critical.json) |
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
+| Mission Delta | 320593 | [320593-mission-delta.json](./320593-mission-delta.json) |
 | Mission Destruct | 421194 | [421194-mission-destruct.json](./421194-mission-destruct.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
@@ -12663,6 +12667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
+| Mosquito Simulator | 320607 | [320607-mosquito-simulator.json](./320607-mosquito-simulator.json) |
 | Mosquiturros | 379040 | [379040-mosquiturros.json](./379040-mosquiturros.json) |
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
