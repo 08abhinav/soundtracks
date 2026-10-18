@@ -124,6 +124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dà Sānguó Shídài | 347226 | [347226-da-sanguo-shidai.json](./347226-da-sanguo-shidai.json) |
 | Dà Táng Xīyù Jì | 149892 | [149892-da-tang-xiyu-ji.json](./149892-da-tang-xiyu-ji.json) |
 | Da Vinci Pinball | 89149 | [89149-da-vinci-pinball.json](./89149-da-vinci-pinball.json) |
+| Da Vinci's Legacy | 328319 | [328319-da-vincis-legacy.json](./328319-da-vincis-legacy.json) |
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
@@ -2092,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayD: Through Time | 105300 | [105300-dayd-through-time.json](./105300-dayd-through-time.json) |
 | Daydam Knight | 295794 | [295794-daydam-knight.json](./295794-daydam-knight.json) |
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
+| Daydream | 328310 | [328310-daydream.json](./328310-daydream.json) |
 | Daydream | 380238 | [380238-daydream.json](./380238-daydream.json) |
 | Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
@@ -5183,6 +5185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
 | Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
 | Deskworm | 387487 | [387487-deskworm.json](./387487-deskworm.json) |
+| Desmond's Castle | 328317 | [328317-desmonds-castle.json](./328317-desmonds-castle.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
@@ -5358,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destrega | 45225 | [45225-destrega.json](./45225-destrega.json) |
 | Destrobots | 135656 | [135656-destrobots.json](./135656-destrobots.json) |
 | Destropolis | 143587 | [143587-destropolis.json](./143587-destropolis.json) |
+| Destroy | 328290 | [328290-destroy.json](./328290-destroy.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
@@ -10460,6 +10464,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
+| Dragon Ball: Sparking! Zero - Dragon Ball Daima: Character Pack 1 | 328284 | [328284-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1.json](./328284-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1.json) |
+| Dragon Ball: Sparking! Zero - Dragon Ball Daima: Character Pack 2 | 328285 | [328285-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2.json](./328285-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2.json) |
+| Dragon Ball: Sparking! Zero - Hero of Justice Pack | 328283 | [328283-dragon-ball-sparking-zero-hero-of-justice-pack.json](./328283-dragon-ball-sparking-zero-hero-of-justice-pack.json) |
 | Dragon Ball: Sparking! Zero - Season Pass Bonus | 375181 | [375181-dragon-ball-sparking-zero-season-pass-bonus.json](./375181-dragon-ball-sparking-zero-season-pass-bonus.json) |
 | Dragon Ball: Sparking! Zero - Super Limit-Breaking NEO | 375182 | [375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json](./375182-dragon-ball-sparking-zero-super-limit-breaking-neo.json) |
 | Dragon Ball: Sparking! Zero - Ultimate Edition | 307191 | [307191-dragon-ball-sparking-zero-ultimate-edition.json](./307191-dragon-ball-sparking-zero-ultimate-edition.json) |
@@ -12425,6 +12432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Flighting | 151089 | [151089-duck-flighting.json](./151089-duck-flighting.json) |
 | Duck Force | 31746 | [31746-duck-force.json](./31746-duck-force.json) |
 | Duck Game | 11247 | [11247-duck-game.json](./11247-duck-game.json) |
+| Duck Game | 328300 | [328300-duck-game.json](./328300-duck-game.json) |
 | Duck Guardian One | 135883 | [135883-duck-guardian-one.json](./135883-duck-guardian-one.json) |
 | Duck Hunt | 2741 | [2741-duck-hunt.json](./2741-duck-hunt.json) |
 | Duck Hunt 2 | 127992 | [127992-duck-hunt-2.json](./127992-duck-hunt-2.json) |
