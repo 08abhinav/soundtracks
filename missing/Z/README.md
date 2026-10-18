@@ -1421,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies!!! Board Game: NotDeadYet | 289340 | [289340-zombies-board-game-notdeadyet.json](./289340-zombies-board-game-notdeadyet.json) |
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
+| Zombies.io | 334539 | [334539-zombies-io.json](./334539-zombies-io.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombiesWaves | 149902 | [149902-zombieswaves.json](./149902-zombieswaves.json) |
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
