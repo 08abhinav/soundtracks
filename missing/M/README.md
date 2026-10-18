@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Code | 187863 | [187863-magic-code.json](./187863-magic-code.json) |
 | Magic Colors 2 | 233543 | [233543-magic-colors-2.json](./233543-magic-colors-2.json) |
 | Magic Combat VR | 115181 | [115181-magic-combat-vr.json](./115181-magic-combat-vr.json) |
+| Magic Construct | 333436 | [333436-magic-construct.json](./333436-magic-construct.json) |
 | Magic Craft: The Hero of Fantasy Kingdom | 175227 | [175227-magic-craft-the-hero-of-fantasy-kingdom.json](./175227-magic-craft-the-hero-of-fantasy-kingdom.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
@@ -7386,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
 | Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
 | Metronome HD | 66601 | [66601-metronome-hd.json](./66601-metronome-hd.json) |
+| Metrophobia | 333425 | [333425-metrophobia.json](./333425-metrophobia.json) |
 | Metroplex Zero | 188885 | [188885-metroplex-zero.json](./188885-metroplex-zero.json) |
 | Metropocre | 169975 | [169975-metropocre.json](./169975-metropocre.json) |
 | Metropolis | 209520 | [209520-metropolis.json](./209520-metropolis.json) |
@@ -9229,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
+| Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
@@ -13889,6 +13892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder House | 135763 | [135763-murder-house.json](./135763-murder-house.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
+| Murder Inc | 333442 | [333442-murder-inc.json](./333442-murder-inc.json) |
 | Murder Is Game Over | 197110 | [197110-murder-is-game-over.json](./197110-murder-is-game-over.json) |
 | Murder Is Game Over: Deal Killer | 255750 | [255750-murder-is-game-over-deal-killer.json](./255750-murder-is-game-over-deal-killer.json) |
 | Murder Is Game Over: Final Fright | 413217 | [413217-murder-is-game-over-final-fright.json](./413217-murder-is-game-over-final-fright.json) |
@@ -14503,6 +14507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
+| My Chandroid Sweetheart | 333434 | [333434-my-chandroid-sweetheart.json](./333434-my-chandroid-sweetheart.json) |
 | My Cheetah Friend | 341347 | [341347-my-cheetah-friend.json](./341347-my-cheetah-friend.json) |
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
