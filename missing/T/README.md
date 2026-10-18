@@ -10878,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
 | The Protagonish | 311168 | [311168-the-protagonish.json](./311168-the-protagonish.json) |
+| The Protagonist | 359851 | [359851-the-protagonist.json](./359851-the-protagonist.json) |
 | The Protean Forest | 267426 | [267426-the-protean-forest.json](./267426-the-protean-forest.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The protectors of Deya | 158096 | [158096-the-protectors-of-deya.json](./158096-the-protectors-of-deya.json) |
