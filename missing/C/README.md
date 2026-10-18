@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of War | 55476 | [55476-call-of-war.json](./55476-call-of-war.json) |
 | Call of Warfront | 404257 | [404257-call-of-warfront.json](./404257-call-of-warfront.json) |
 | Call of Warzone | 332489 | [332489-call-of-warzone.json](./332489-call-of-warzone.json) |
+| Call of Yucatán | 341943 | [341943-call-of-yucatan.json](./341943-call-of-yucatan.json) |
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
@@ -1227,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
 | Capsule Lock | 183293 | [183293-capsule-lock.json](./183293-capsule-lock.json) |
+| Capsule Monsters | 341836 | [341836-capsule-monsters.json](./341836-capsule-monsters.json) |
 | Capsule Rush | 218710 | [218710-capsule-rush.json](./218710-capsule-rush.json) |
 | Capsule Servant | 121441 | [121441-capsule-servant.json](./121441-capsule-servant.json) |
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
