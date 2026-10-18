@@ -807,6 +807,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27332a6d40dbba577e0b793ad4f" width="60" /> | [Iron Harvest](https://ostdb.net/games/iron-harvest) | **Iron Harvest (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3hAnNJYcctcZyemQFNvKe5) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/dc/15/83dc1556-8a1e-43f4-95f1-2147845b9cd4/199538137606.jpg/600x600bb.jpg" width="60" /> | [Is This Seat Taken?](https://ostdb.net/games/is-this-seat-taken) | **Is This Seat Taken? (Original Game Soundtrack) - EP** · [Spotify](https://music.apple.com/us/album/is-this-seat-taken-original-game-soundtrack-ep/1830248552?uo=4) · [Album](https://album.link/i/1830248552) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2734e4094996e6638715e1c26d6" width="60" /> | [It Takes Two](https://ostdb.net/games/it-takes-two) | **It Takes Two (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273497e5acc6b3c4e27d86066df" width="60" /> | [Ixion](https://ostdb.net/games/ixion) | **IXION (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7bGHv12FV4vxohDffXxB8c) |
 
 ### J
 
@@ -1863,4 +1864,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2180 soundtracks · last updated 2026-10-18T08:50:40.023Z_
+_2181 soundtracks · last updated 2026-10-18T08:50:46.931Z_
