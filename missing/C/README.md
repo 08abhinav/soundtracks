@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
 | Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
+| Cazzarion: Treasure Diver | 315901 | [315901-cazzarion-treasure-diver.json](./315901-cazzarion-treasure-diver.json) |
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
 | Cazzarion: Zombie Drive | 301803 | [301803-cazzarion-zombie-drive.json](./301803-cazzarion-zombie-drive.json) |
 | CB Chara Wars: Ushinawareta Gag | 38154 | [38154-cb-chara-wars-ushinawareta-gag.json](./38154-cb-chara-wars-ushinawareta-gag.json) |
@@ -9135,6 +9136,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
 | Comic Coloring Book | 147888 | [147888-comic-coloring-book.json](./147888-comic-coloring-book.json) |
+| Comic Coloring Book Complete Edition: Colors + | 315888 | [315888-comic-coloring-book-complete-edition-colors.json](./315888-comic-coloring-book-complete-edition-colors.json) |
+| Comic Coloring Book Complete Edition: Colors Deluxe | 315886 | [315886-comic-coloring-book-complete-edition-colors-deluxe.json](./315886-comic-coloring-book-complete-edition-colors-deluxe.json) |
+| Comic Coloring Book Complete Edition: Draw + | 315887 | [315887-comic-coloring-book-complete-edition-draw.json](./315887-comic-coloring-book-complete-edition-draw.json) |
 | Comic Coloring Book: Complete Edition | 186576 | [186576-comic-coloring-book-complete-edition.json](./186576-comic-coloring-book-complete-edition.json) |
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
@@ -14832,6 +14836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
+| Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
 | Cyberpunk Women for Sex Motel | 288896 | [288896-cyberpunk-women-for-sex-motel.json](./288896-cyberpunk-women-for-sex-motel.json) |
 | Cyberpunk: Red-Light District | 266323 | [266323-cyberpunk-red-light-district.json](./266323-cyberpunk-red-light-district.json) |
 | Cyberpunk: The Arasaka's Plot | 120199 | [120199-cyberpunk-the-arasakas-plot.json](./120199-cyberpunk-the-arasakas-plot.json) |
