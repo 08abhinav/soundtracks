@@ -4856,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
 | Rez Plz | 124100 | [124100-rez-plz.json](./124100-rez-plz.json) |
+| Rezal | 339685 | [339685-rezal.json](./339685-rezal.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
 | Rezel Cross | 64955 | [64955-rezel-cross.json](./64955-rezel-cross.json) |
 | Rezident Evil: It Is Escape | 260137 | [260137-rezident-evil-it-is-escape.json](./260137-rezident-evil-it-is-escape.json) |
@@ -6716,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock-Muba | 82021 | [82021-rock-muba.json](./82021-rock-muba.json) |
 | Rock-n-Rogue A Boo Bunny Plague Adventure | 33605 | [33605-rock-n-rogue-a-boo-bunny-plague-adventure.json](./33605-rock-n-rogue-a-boo-bunny-plague-adventure.json) |
 | Rock-n-Roll Domo | 68058 | [68058-rock-n-roll-domo.json](./68058-rock-n-roll-domo.json) |
+| Rock-N-Roll Trivia: Part 2 | 339690 | [339690-rock-n-roll-trivia-part-2.json](./339690-rock-n-roll-trivia-part-2.json) |
 | Rock-Slide | 94350 | [94350-rock-slide.json](./94350-rock-slide.json) |
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper and Scissors | 114274 | [114274-rock-paper-and-scissors.json](./114274-rock-paper-and-scissors.json) |
