@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:25:25.284Z",
-  "total_soundtracks": 2144,
+  "generated_at": "2026-10-18T08:25:33.060Z",
+  "total_soundtracks": 2145,
   "games": [
     {
       "igdb_id": 7522,
@@ -12933,6 +12933,20 @@
         {
           "album_name": "Maid of Sker (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0R9nzLvwKWNhRY4hcyWrjj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19518,
+      "game_name": "Maize",
+      "game_url": "https://ostdb.net/games/maize",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738e7d7b0b68f066d5b3527901",
+      "albums": [
+        {
+          "album_name": "Maize Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5L9O9mISxkqWHuGrqSNWi5",
           "apple_music_url": "",
           "album_link_url": ""
         }
