@@ -5467,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharknado VR: Eye of the Storm | 110288 | [110288-sharknado-vr-eye-of-the-storm.json](./110288-sharknado-vr-eye-of-the-storm.json) |
 | Sharkphobia | 243653 | [243653-sharkphobia.json](./243653-sharkphobia.json) |
 | Sharks | 239708 | [239708-sharks.json](./239708-sharks.json) |
+| Sharks 3D | 328305 | [328305-sharks-3d.json](./328305-sharks-3d.json) |
 | Sharks and Minnows | 340956 | [340956-sharks-and-minnows.json](./340956-sharks-and-minnows.json) |
 | SharkSketch | 60576 | [60576-sharksketch.json](./60576-sharksketch.json) |
 | Sharkstorm | 297606 | [297606-sharkstorm.json](./297606-sharkstorm.json) |
@@ -5686,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
+| Shelloween | 328324 | [328324-shelloween.json](./328324-shelloween.json) |
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
 | Shellrazer | 214670 | [214670-shellrazer.json](./214670-shellrazer.json) |
 | Shells Delivery | 267918 | [267918-shells-delivery.json](./267918-shells-delivery.json) |
@@ -9433,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
 | Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
+| Slay the Alice | 328291 | [328291-slay-the-alice.json](./328291-slay-the-alice.json) |
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
@@ -10371,6 +10374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
 | Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
+| Smile Thief | 328337 | [328337-smile-thief.json](./328337-smile-thief.json) |
 | Smile to Fly | 123975 | [123975-smile-to-fly.json](./123975-smile-to-fly.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
@@ -12750,6 +12754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic S Adventure | 331648 | [331648-sonic-s-adventure.json](./331648-sonic-s-adventure.json) |
 | Sonic Saga: The Mystery of South Island | 370287 | [370287-sonic-saga-the-mystery-of-south-island.json](./370287-sonic-saga-the-mystery-of-south-island.json) |
 | Sonic Saturn | 210303 | [210303-sonic-saturn.json](./210303-sonic-saturn.json) |
+| Sonic Scene Creator 5 | 328340 | [328340-sonic-scene-creator-5.json](./328340-sonic-scene-creator-5.json) |
 | Sonic Scramble | 334685 | [334685-sonic-scramble.json](./334685-sonic-scramble.json) |
 | Sonic Seasons | 370301 | [370301-sonic-seasons.json](./370301-sonic-seasons.json) |
 | Sonic Shift | 330297 | [330297-sonic-shift.json](./330297-sonic-shift.json) |
@@ -14700,6 +14705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Survivors | 244732 | [244732-spaceship-survivors.json](./244732-spaceship-survivors.json) |
 | Spaceship Tactics | 338269 | [338269-spaceship-tactics.json](./338269-spaceship-tactics.json) |
 | Spaceship Trouble | 166705 | [166705-spaceship-trouble.json](./166705-spaceship-trouble.json) |
+| Spaceshipment | 328302 | [328302-spaceshipment.json](./328302-spaceshipment.json) |
 | Spaceships | 189907 | [189907-spaceships.json](./189907-spaceships.json) |
 | SpaceShooter | 180654 | [180654-spaceshooter.json](./180654-spaceshooter.json) |
 | SpaceShooter | 413900 | [413900-spaceshooter.json](./413900-spaceshooter.json) |
@@ -16934,6 +16940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRX: The Game | 150048 | [150048-srx-the-game.json](./150048-srx-the-game.json) |
 | SS Achilles - Red Alert! | 25798 | [25798-ss-achilles-red-alert.json](./25798-ss-achilles-red-alert.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
+| SSB Scene Creator | 328342 | [328342-ssb-scene-creator.json](./328342-ssb-scene-creator.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
 | sspp03's Super Mario Bros. Hack | 322818 | [322818-sspp03s-super-mario-bros-hack.json](./322818-sspp03s-super-mario-bros-hack.json) |
@@ -22463,6 +22470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
 | Super Gorilla Quest | 264235 | [264235-super-gorilla-quest.json](./264235-super-gorilla-quest.json) |
 | Super Gorilla Quest 2: A Space Chimpanzee | 347230 | [347230-super-gorilla-quest-2-a-space-chimpanzee.json](./347230-super-gorilla-quest-2-a-space-chimpanzee.json) |
+| Super Gracie World | 328327 | [328327-super-gracie-world.json](./328327-super-gracie-world.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
 | Super Granny 2: Granny in Paradise | 7523 | [7523-super-granny-2-granny-in-paradise.json](./7523-super-granny-2-granny-in-paradise.json) |
@@ -23928,6 +23936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
+| Super Star Shooter Classic | 328307 | [328307-super-star-shooter-classic.json](./328307-super-star-shooter-classic.json) |
 | Super Star Trek | 325825 | [325825-super-star-trek.json](./325825-super-star-trek.json) |
 | Super Star Wars | 20031 | [20031-super-star-wars.json](./20031-super-star-wars.json) |
 | Super Star Wars Holiday Special | 327937 | [327937-super-star-wars-holiday-special.json](./327937-super-star-wars-holiday-special.json) |
