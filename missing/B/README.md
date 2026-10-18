@@ -10023,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Hunters | 265389 | [265389-bounty-hunters.json](./265389-bounty-hunters.json) |
 | Bounty Hunting Time | 255029 | [255029-bounty-hunting-time.json](./255029-bounty-hunting-time.json) |
 | Bounty of One: Panic in the Mines | 321957 | [321957-bounty-of-one-panic-in-the-mines.json](./321957-bounty-of-one-panic-in-the-mines.json) |
+| Bounty Off Road | 332884 | [332884-bounty-off-road.json](./332884-bounty-off-road.json) |
 | Bounty Pro Pulling | 410451 | [410451-bounty-pro-pulling.json](./410451-bounty-pro-pulling.json) |
 | Bounty Runner | 58161 | [58161-bounty-runner.json](./58161-bounty-runner.json) |
 | Bounty Sisters | 381917 | [381917-bounty-sisters.json](./381917-bounty-sisters.json) |
