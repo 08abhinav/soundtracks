@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory of Sweets | 151129 | [151129-factory-of-sweets.json](./151129-factory-of-sweets.json) |
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
+| Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Skater | 99187 | [99187-figure-skater.json](./99187-figure-skater.json) |
 | Figure World | 127657 | [127657-figure-world.json](./127657-figure-world.json) |
 | Figureheads | 24931 | [24931-figureheads.json](./24931-figureheads.json) |
+| Figureless | 349620 | [349620-figureless.json](./349620-figureless.json) |
 | Figures of Happiness | 73886 | [73886-figures-of-happiness.json](./73886-figures-of-happiness.json) |
 | Figures of Heroes | 230925 | [230925-figures-of-heroes.json](./230925-figures-of-heroes.json) |
 | Figures of Shadows | 374068 | [374068-figures-of-shadows.json](./374068-figures-of-shadows.json) |
@@ -5173,6 +5175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fixation | 316811 | [316811-fixation.json](./316811-fixation.json) |
 | Fixed Point In Space | 184644 | [184644-fixed-point-in-space.json](./184644-fixed-point-in-space.json) |
 | Fixeight | 296612 | [296612-fixeight.json](./296612-fixeight.json) |
+| Fixer Park-er | 349617 | [349617-fixer-park-er.json](./349617-fixer-park-er.json) |
 | FixForce | 393101 | [393101-fixforce.json](./393101-fixforce.json) |
 | FIXKIN: A Long Way Home (at the End of the World) | 380104 | [380104-fixkin-a-long-way-home-at-the-end-of-the-world.json](./380104-fixkin-a-long-way-home-at-the-end-of-the-world.json) |
 | Fixora | 381994 | [381994-fixora.json](./381994-fixora.json) |
