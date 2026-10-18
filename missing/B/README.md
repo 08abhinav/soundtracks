@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandana City | 93067 | [93067-bandana-city.json](./93067-bandana-city.json) |
 | Bandeirantes: The Game. | 347348 | [347348-bandeirantes-the-game.json](./347348-bandeirantes-the-game.json) |
 | Bandido | 264322 | [264322-bandido.json](./264322-bandido.json) |
+| Bandido Rush | 348584 | [348584-bandido-rush.json](./348584-bandido-rush.json) |
 | Bandit | 251553 | [251553-bandit.json](./251553-bandit.json) |
 | Bandit | 330887 | [330887-bandit.json](./330887-bandit.json) |
 | Bandit | 379999 | [379999-bandit.json](./379999-bandit.json) |
@@ -5090,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
 | Beyond the Sideline Football | 62223 | [62223-beyond-the-sideline-football.json](./62223-beyond-the-sideline-football.json) |
 | Beyond the Sky | 110748 | [110748-beyond-the-sky.json](./110748-beyond-the-sky.json) |
+| Beyond the Space Wall | 348662 | [348662-beyond-the-space-wall.json](./348662-beyond-the-space-wall.json) |
 | Beyond the Stars VR | 119721 | [119721-beyond-the-stars-vr.json](./119721-beyond-the-stars-vr.json) |
 | Beyond the Sunset | 68671 | [68671-beyond-the-sunset.json](./68671-beyond-the-sunset.json) |
 | Beyond The Tales | 336653 | [336653-beyond-the-tales.json](./336653-beyond-the-tales.json) |
@@ -6213,6 +6215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitardia Cards: Memes of 2ch | 33383 | [33383-bitardia-cards-memes-of-2ch.json](./33383-bitardia-cards-memes-of-2ch.json) |
 | Bitball | 333188 | [333188-bitball.json](./333188-bitball.json) |
 | BitBattle | 163809 | [163809-bitbattle.json](./163809-bitbattle.json) |
+| Bitbird | 348586 | [348586-bitbird.json](./348586-bitbird.json) |
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
 | Bitch Government | 187150 | [187150-bitch-government.json](./187150-bitch-government.json) |
@@ -6713,6 +6716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| Blackroot: Medieval Survival | 348571 | [348571-blackroot-medieval-survival.json](./348571-blackroot-medieval-survival.json) |
 | Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
 | BlackSands | 391334 | [391334-blacksands.json](./391334-blacksands.json) |
 | Blackscar Mountain | 72093 | [72093-blackscar-mountain.json](./72093-blackscar-mountain.json) |
@@ -7720,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Space Puzzle | 106733 | [106733-blocky-space-puzzle.json](./106733-blocky-space-puzzle.json) |
 | Blocky XMas | 101769 | [101769-blocky-xmas.json](./101769-blocky-xmas.json) |
 | Blocky.Go! | 234665 | [234665-blocky-go.json](./234665-blocky-go.json) |
+| Blocky's Short Quest | 348576 | [348576-blockys-short-quest.json](./348576-blockys-short-quest.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
 | Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
@@ -10233,6 +10238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braaains | 319105 | [319105-braaains.json](./319105-braaains.json) |
 | Braaains! | 207284 | [207284-braaains.json](./207284-braaains.json) |
 | Braains.io | 193807 | [193807-braains-io.json](./193807-braains-io.json) |
+| Brabatos | 348656 | [348656-brabatos.json](./348656-brabatos.json) |
 | Bracer | 403818 | [403818-bracer.json](./403818-bracer.json) |
 | BraceUp VR | 267297 | [267297-braceup-vr.json](./267297-braceup-vr.json) |
 | BrackenSack: A Dashkin game | 83181 | [83181-brackensack-a-dashkin-game.json](./83181-brackensack-a-dashkin-game.json) |
