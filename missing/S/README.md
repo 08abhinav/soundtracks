@@ -8824,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
+| Skull-Rung | 355334 | [355334-skull-rung.json](./355334-skull-rung.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
@@ -10333,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoked Fish And Cabbage 3 | 328046 | [328046-smoked-fish-and-cabbage-3.json](./328046-smoked-fish-and-cabbage-3.json) |
 | Smoked Gun | 149378 | [149378-smoked-gun.json](./149378-smoked-gun.json) |
 | Smoker the Car Game | 107706 | [107706-smoker-the-car-game.json](./107706-smoker-the-car-game.json) |
+| Smokestack Saints: The Parkour Game Part I | 355350 | [355350-smokestack-saints-the-parkour-game-part-i.json](./355350-smokestack-saints-the-parkour-game-part-i.json) |
 | Smokin Potions | 360455 | [360455-smokin-potions.json](./360455-smokin-potions.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
@@ -18250,6 +18252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
 | Starship Tunnel | 156904 | [156904-starship-tunnel.json](./156904-starship-tunnel.json) |
+| Starship Warbeasts | 355356 | [355356-starship-warbeasts.json](./355356-starship-warbeasts.json) |
 | Starship Wars | 186555 | [186555-starship-wars.json](./186555-starship-wars.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
