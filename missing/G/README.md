@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geminism | 304816 | [304816-geminism.json](./304816-geminism.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
 | Geminum | 352391 | [352391-geminum.json](./352391-geminum.json) |
+| Gemion Function | 357009 | [357009-gemion-function.json](./357009-gemion-function.json) |
 | Gemistry | 68957 | [68957-gemistry.json](./68957-gemistry.json) |
 | Gemlands | 195456 | [195456-gemlands.json](./195456-gemlands.json) |
 | Gemmiferous | 367707 | [367707-gemmiferous.json](./367707-gemmiferous.json) |
@@ -6587,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim | 261740 | [261740-grim.json](./261740-grim.json) |
 | Grim | 379863 | [379863-grim.json](./379863-grim.json) |
 | Grim | 391785 | [391785-grim.json](./391785-grim.json) |
+| Grim Axiom | 357039 | [357039-grim-axiom.json](./357039-grim-axiom.json) |
 | Grim Borough | 297238 | [297238-grim-borough.json](./297238-grim-borough.json) |
 | Grim Chronicles: Superior Sorcery | 416700 | [416700-grim-chronicles-superior-sorcery.json](./416700-grim-chronicles-superior-sorcery.json) |
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
