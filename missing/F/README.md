@@ -8310,7 +8310,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
 | Free Solitaire 3D | 90985 | [90985-free-solitaire-3d.json](./90985-free-solitaire-3d.json) |
+| Free Solitaire: Animals | 340253 | [340253-free-solitaire-animals.json](./340253-free-solitaire-animals.json) |
+| Free Solitaire: Art | 340256 | [340256-free-solitaire-art.json](./340256-free-solitaire-art.json) |
 | Free Solitaire: Cats | 340251 | [340251-free-solitaire-cats.json](./340251-free-solitaire-cats.json) |
+| Free Solitaire: Dogs | 340252 | [340252-free-solitaire-dogs.json](./340252-free-solitaire-dogs.json) |
+| Free Solitaire: Girls | 340255 | [340255-free-solitaire-girls.json](./340255-free-solitaire-girls.json) |
+| Free Solitaire: Kids | 340254 | [340254-free-solitaire-kids.json](./340254-free-solitaire-kids.json) |
+| Free Solitaire: Nature | 340257 | [340257-free-solitaire-nature.json](./340257-free-solitaire-nature.json) |
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
@@ -8447,6 +8453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
+| Freezing What If... | 340258 | [340258-freezing-what-if.json](./340258-freezing-what-if.json) |
 | Freezy Match | 393121 | [393121-freezy-match.json](./393121-freezy-match.json) |
 | Fregocles y la Desinfección del Olimpo | 322551 | [322551-fregocles-y-la-desinfeccion-del-olimpo.json](./322551-fregocles-y-la-desinfeccion-del-olimpo.json) |
 | Freight Hopper | 212880 | [212880-freight-hopper.json](./212880-freight-hopper.json) |
@@ -8677,6 +8684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrightDiary | 368818 | [368818-frightdiary.json](./368818-frightdiary.json) |
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
+| Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Frigore | 187278 | [187278-frigore.json](./187278-frigore.json) |
@@ -8722,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frodoric the Driver | 142689 | [142689-frodoric-the-driver.json](./142689-frodoric-the-driver.json) |
 | Frog | 100997 | [100997-frog.json](./100997-frog.json) |
 | Frog | 309433 | [309433-frog.json](./309433-frog.json) |
+| Frog | 340261 | [340261-frog.json](./340261-frog.json) |
 | Frog | 55874 | [55874-frog.json](./55874-frog.json) |
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
@@ -8964,6 +8973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
+| From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
 | From The Past | 329689 | [329689-from-the-past.json](./329689-from-the-past.json) |
@@ -8985,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frond Online | 307348 | [307348-frond-online.json](./307348-frond-online.json) |
 | Front Edge | 296065 | [296065-front-edge.json](./296065-front-edge.json) |
 | Front Line | 408293 | [408293-front-line.json](./408293-front-line.json) |
+| Front Lines | 340265 | [340265-front-lines.json](./340265-front-lines.json) |
 | Front Lines | 79254 | [79254-front-lines.json](./79254-front-lines.json) |
 | Front Mission 1st | 21541 | [21541-front-mission-1st.json](./21541-front-mission-1st.json) |
 | Front Mission 1st: Remake | 191400 | [191400-front-mission-1st-remake.json](./191400-front-mission-1st-remake.json) |
@@ -9060,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Tale | 416073 | [416073-frontier-tale.json](./416073-frontier-tale.json) |
 | Frontier VR | 29150 | [29150-frontier-vr.json](./29150-frontier-vr.json) |
 | Frontier Wars: Defense Heroes | 129609 | [129609-frontier-wars-defense-heroes.json](./129609-frontier-wars-defense-heroes.json) |
+| Frontier: Battle Royale | 340263 | [340263-frontier-battle-royale.json](./340263-frontier-battle-royale.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
@@ -9093,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Survivors | 239777 | [239777-frontline-survivors.json](./239777-frontline-survivors.json) |
 | Frontline Tactics | 15322 | [15322-frontline-tactics.json](./15322-frontline-tactics.json) |
 | Frontline: Afrika Korps | 391276 | [391276-frontline-afrika-korps.json](./391276-frontline-afrika-korps.json) |
+| Frontline: Assault Corps WW2 | 340264 | [340264-frontline-assault-corps-ww2.json](./340264-frontline-assault-corps-ww2.json) |
 | Frontline: Panzers & Generals Vol. I | 378608 | [378608-frontline-panzers-and-generals-vol-i.json](./378608-frontline-panzers-and-generals-vol-i.json) |
 | Frontline: Road to Moscow | 17526 | [17526-frontline-road-to-moscow.json](./17526-frontline-road-to-moscow.json) |
 | Frontline: The Longest Day | 175270 | [175270-frontline-the-longest-day.json](./175270-frontline-the-longest-day.json) |
@@ -9305,6 +9318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
+| Fruity Friendz Adventurez | 340266 | [340266-fruity-friendz-adventurez.json](./340266-fruity-friendz-adventurez.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
@@ -9443,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
 | Full Kiss: Limited Edition | 167133 | [167133-full-kiss-limited-edition.json](./167133-full-kiss-limited-edition.json) |
+| Full Manual Tower Defense | 340272 | [340272-full-manual-tower-defense.json](./340272-full-manual-tower-defense.json) |
 | Full Metal Coffin | 410265 | [410265-full-metal-coffin.json](./410265-full-metal-coffin.json) |
 | Full Metal Daemon Muramasa | 132817 | [132817-full-metal-daemon-muramasa.json](./132817-full-metal-daemon-muramasa.json) |
 | Full Metal Jackpot | 106772 | [106772-full-metal-jackpot.json](./106772-full-metal-jackpot.json) |
@@ -9685,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Punch | 64687 | [64687-funky-punch.json](./64687-funky-punch.json) |
 | Funky Punch XL | 70627 | [70627-funky-punch-xl.json](./70627-funky-punch-xl.json) |
 | Funkyheart | 369894 | [369894-funkyheart.json](./369894-funkyheart.json) |
+| FunkyMouse's ISO | 340271 | [340271-funkymouses-iso.json](./340271-funkymouses-iso.json) |
 | Funnels and Buckets | 46644 | [46644-funnels-and-buckets.json](./46644-funnels-and-buckets.json) |
 | Funny Alphabet | 254065 | [254065-funny-alphabet.json](./254065-funny-alphabet.json) |
 | Funny AntiVirus TD | 128293 | [128293-funny-antivirus-td.json](./128293-funny-antivirus-td.json) |
@@ -9819,6 +9835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
 | Furry College | 399871 | [399871-furry-college.json](./399871-furry-college.json) |
 | Furry Company | 347345 | [347345-furry-company.json](./347345-furry-company.json) |
+| Furry Cosplay | 340270 | [340270-furry-cosplay.json](./340270-furry-cosplay.json) |
 | Furry Cyberfucker | 196171 | [196171-furry-cyberfucker.json](./196171-furry-cyberfucker.json) |
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
@@ -9854,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Pride | 148570 | [148570-furry-pride.json](./148570-furry-pride.json) |
 | Furry Puzzle | 163552 | [163552-furry-puzzle.json](./163552-furry-puzzle.json) |
 | Furry Reich | 237055 | [237055-furry-reich.json](./237055-furry-reich.json) |
+| Furry Senpai: Bear in the Woods | 340269 | [340269-furry-senpai-bear-in-the-woods.json](./340269-furry-senpai-bear-in-the-woods.json) |
 | Furry Sex | 322706 | [322706-furry-sex.json](./322706-furry-sex.json) |
 | Furry Sex 2 | 322710 | [322710-furry-sex-2.json](./322710-furry-sex-2.json) |
 | Furry Sex Madness | 367034 | [367034-furry-sex-madness.json](./367034-furry-sex-madness.json) |
@@ -9882,6 +9900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Toys | 252255 | [252255-furry-toys.json](./252255-furry-toys.json) |
 | Furry Twins Oshikake Kemomimi Twins | 328524 | [328524-furry-twins-oshikake-kemomimi-twins.json](./328524-furry-twins-oshikake-kemomimi-twins.json) |
 | Furry UwU | 368128 | [368128-furry-uwu.json](./368128-furry-uwu.json) |
+| Furry Whores | 340268 | [340268-furry-whores.json](./340268-furry-whores.json) |
 | Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
 | Furry Woof and Nya | 169750 | [169750-furry-woof-and-nya.json](./169750-furry-woof-and-nya.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
