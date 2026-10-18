@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New York Mysteries: Secrets of the Mafia | 35163 | [35163-new-york-mysteries-secrets-of-the-mafia.json](./35163-new-york-mysteries-secrets-of-the-mafia.json) |
 | New York Mysteries: Secrets of the Mafia - Collector's Edition | 88837 | [88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json](./88837-new-york-mysteries-secrets-of-the-mafia-collectors-edition.json) |
 | New York Mysteries: The Lantern of Souls | 31799 | [31799-new-york-mysteries-the-lantern-of-souls.json](./31799-new-york-mysteries-the-lantern-of-souls.json) |
+| New York Mysteries: The Outbreak - Collector's Edition | 358093 | [358093-new-york-mysteries-the-outbreak-collectors-edition.json](./358093-new-york-mysteries-the-outbreak-collectors-edition.json) |
 | New York Nights 2: Friends For Life | 264134 | [264134-new-york-nights-2-friends-for-life.json](./264134-new-york-nights-2-friends-for-life.json) |
 | New York Nights: Success in the City | 159237 | [159237-new-york-nights-success-in-the-city.json](./159237-new-york-nights-success-in-the-city.json) |
 | New York Rat Simulator | 181095 | [181095-new-york-rat-simulator.json](./181095-new-york-rat-simulator.json) |
