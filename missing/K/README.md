@@ -1398,6 +1398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
 | Keyboard Smash | 410954 | [410954-keyboard-smash.json](./410954-keyboard-smash.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
+| Keyboard Warrior | 343590 | [343590-keyboard-warrior.json](./343590-keyboard-warrior.json) |
+| Keyboard Warrior | 343591 | [343591-keyboard-warrior.json](./343591-keyboard-warrior.json) |
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
 | Keyboard Warrior Stickman: Typing Beat Em Up | 413773 | [413773-keyboard-warrior-stickman-typing-beat-em-up.json](./413773-keyboard-warrior-stickman-typing-beat-em-up.json) |
 | Keyboard Warrior: Dreamstate | 209714 | [209714-keyboard-warrior-dreamstate.json](./209714-keyboard-warrior-dreamstate.json) |
