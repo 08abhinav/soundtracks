@@ -4512,6 +4512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
 | The Barbie Diaries: High School Mystery | 7638 | [7638-the-barbie-diaries-high-school-mystery.json](./7638-the-barbie-diaries-high-school-mystery.json) |
 | The Bard for Her | 279855 | [279855-the-bard-for-her.json](./279855-the-bard-for-her.json) |
+| The Bard's Lore II: The Dark Tower | 335046 | [335046-the-bards-lore-ii-the-dark-tower.json](./335046-the-bards-lore-ii-the-dark-tower.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
@@ -4593,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battles of Spwak 3 | 126601 | [126601-the-battles-of-spwak-3.json](./126601-the-battles-of-spwak-3.json) |
 | The Baumman Box | 372452 | [372452-the-baumman-box.json](./372452-the-baumman-box.json) |
 | The Bazaar: Karnok | 400415 | [400415-the-bazaar-karnok.json](./400415-the-bazaar-karnok.json) |
+| The Beacon's End | 335135 | [335135-the-beacons-end.json](./335135-the-beacons-end.json) |
 | The Bean Machine | 408228 | [408228-the-bean-machine.json](./408228-the-bean-machine.json) |
 | The Bean Trials | 337665 | [337665-the-bean-trials.json](./337665-the-bean-trials.json) |
 | The Beanstalk | 82041 | [82041-the-beanstalk.json](./82041-the-beanstalk.json) |
@@ -7749,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
+| The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
 | The Hollow Road: Prologue | 399769 | [399769-the-hollow-road-prologue.json](./399769-the-hollow-road-prologue.json) |
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
@@ -17219,6 +17222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
+| Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
 | Titan Quest Anniversary Edition | 32614 | [32614-titan-quest-anniversary-edition.json](./32614-titan-quest-anniversary-edition.json) |
 | Titan Quest Gold | 177057 | [177057-titan-quest-gold.json](./177057-titan-quest-gold.json) |
@@ -19285,6 +19289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Meijinka: Song of Divine Tempest | 276143 | [276143-touhou-meijinka-song-of-divine-tempest.json](./276143-touhou-meijinka-song-of-divine-tempest.json) |
 | Touhou Meisuishu: Resurrection of Heaven's Liquor | 375382 | [375382-touhou-meisuishu-resurrection-of-heavens-liquor.json](./375382-touhou-meisuishu-resurrection-of-heavens-liquor.json) |
 | Touhou Mini Map | 292828 | [292828-touhou-mini-map.json](./292828-touhou-mini-map.json) |
+| Touhou Misfortune Mirror's Tale | 335060 | [335060-touhou-misfortune-mirrors-tale.json](./335060-touhou-misfortune-mirrors-tale.json) |
 | Touhou Mix | 193870 | [193870-touhou-mix.json](./193870-touhou-mix.json) |
 | Touhou Monjusen: Bubbling Imaginary Treasures | 321034 | [321034-touhou-monjusen-bubbling-imaginary-treasures.json](./321034-touhou-monjusen-bubbling-imaginary-treasures.json) |
 | Touhou Monster TD: Dr.Cirno | 210248 | [210248-touhou-monster-td-dr-cirno.json](./210248-touhou-monster-td-dr-cirno.json) |
@@ -19322,6 +19327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Seikaen: Blue devil in the Belvedere | 148365 | [148365-touhou-seikaen-blue-devil-in-the-belvedere.json](./148365-touhou-seikaen-blue-devil-in-the-belvedere.json) |
 | Touhou Shifuujou: The Alternative Age | 283830 | [283830-touhou-shifuujou-the-alternative-age.json](./283830-touhou-shifuujou-the-alternative-age.json) |
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
+| Touhou Shinmadan: The Ancient Square | 335061 | [335061-touhou-shinmadan-the-ancient-square.json](./335061-touhou-shinmadan-the-ancient-square.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 298968 | [298968-touhou-shinpiroku-urban-legend-in-limbo.json](./298968-touhou-shinpiroku-urban-legend-in-limbo.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
@@ -19370,6 +19376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
+| Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
