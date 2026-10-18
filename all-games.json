@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:30:41.816Z",
-  "total_soundtracks": 2148,
+  "generated_at": "2026-10-18T08:30:49.727Z",
+  "total_soundtracks": 2149,
   "games": [
     {
       "igdb_id": 7522,
@@ -6713,6 +6713,20 @@
         {
           "album_name": "Dreamfall Chapters (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2RlsC44qWF5C5YWt39g43R",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116166,
+      "game_name": "Dreamscaper",
+      "game_url": "https://ostdb.net/games/dreamscaper",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bdf1ef1b1115f50665901f5a",
+      "albums": [
+        {
+          "album_name": "Dreamscaper (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/41VLQsEOCFi4Xnbe0hyjLF",
           "apple_music_url": "",
           "album_link_url": ""
         }
