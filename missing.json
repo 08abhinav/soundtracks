@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T20:48:19.381Z",
-  "total_missing": 229826,
+  "generated_at": "2026-10-18T21:03:29.319Z",
+  "total_missing": 229876,
   "games": [
     {
       "igdb_id": 191680,
@@ -30937,6 +30937,11 @@
       "file": "missing/A/320380-air-force-missions.json"
     },
     {
+      "igdb_id": 315907,
+      "game_name": "Air Force Special Ops: Nightfall",
+      "file": "missing/A/315907-air-force-special-ops-nightfall.json"
+    },
+    {
       "igdb_id": 8791,
       "game_name": "Air Fortress",
       "file": "missing/A/8791-air-fortress.json"
@@ -42295,6 +42300,11 @@
       "igdb_id": 243416,
       "game_name": "Ameprod Television Game 10",
       "file": "missing/A/243416-ameprod-television-game-10.json"
+    },
+    {
+      "igdb_id": 315927,
+      "game_name": "Amer Fighting",
+      "file": "missing/A/315927-amer-fighting.json"
     },
     {
       "igdb_id": 206111,
@@ -56510,6 +56520,11 @@
       "igdb_id": 337975,
       "game_name": "Arcade Archives: Land Sea Air Squad",
       "file": "missing/A/337975-arcade-archives-land-sea-air-squad.json"
+    },
+    {
+      "igdb_id": 315929,
+      "game_name": "Arcade Archives: Lead Angle",
+      "file": "missing/A/315929-arcade-archives-lead-angle.json"
     },
     {
       "igdb_id": 147085,
@@ -143072,6 +143087,11 @@
       "file": "missing/B/284960-bus-driving-simulator-24-city-roads-school-bus.json"
     },
     {
+      "igdb_id": 315928,
+      "game_name": "Bus Driving Simulator: EVO",
+      "file": "missing/B/315928-bus-driving-simulator-evo.json"
+    },
+    {
       "igdb_id": 357384,
       "game_name": "Bus Escape: Traffic Jam",
       "file": "missing/B/357384-bus-escape-traffic-jam.json"
@@ -143245,6 +143265,11 @@
       "igdb_id": 210909,
       "game_name": "Bus Simulator City Ride",
       "file": "missing/B/210909-bus-simulator-city-ride.json"
+    },
+    {
+      "igdb_id": 315933,
+      "game_name": "Bus Simulator Driver 2024: City Zone",
+      "file": "missing/B/315933-bus-simulator-driver-2024-city-zone.json"
     },
     {
       "igdb_id": 384614,
@@ -162490,6 +162515,11 @@
       "igdb_id": 304328,
       "game_name": "Cazzarion: Tank Killer",
       "file": "missing/C/304328-cazzarion-tank-killer.json"
+    },
+    {
+      "igdb_id": 315901,
+      "game_name": "Cazzarion: Treasure Diver",
+      "file": "missing/C/315901-cazzarion-treasure-diver.json"
     },
     {
       "igdb_id": 324984,
@@ -190450,6 +190480,21 @@
       "igdb_id": 147888,
       "game_name": "Comic Coloring Book",
       "file": "missing/C/147888-comic-coloring-book.json"
+    },
+    {
+      "igdb_id": 315888,
+      "game_name": "Comic Coloring Book Complete Edition: Colors +",
+      "file": "missing/C/315888-comic-coloring-book-complete-edition-colors.json"
+    },
+    {
+      "igdb_id": 315886,
+      "game_name": "Comic Coloring Book Complete Edition: Colors Deluxe",
+      "file": "missing/C/315886-comic-coloring-book-complete-edition-colors-deluxe.json"
+    },
+    {
+      "igdb_id": 315887,
+      "game_name": "Comic Coloring Book Complete Edition: Draw +",
+      "file": "missing/C/315887-comic-coloring-book-complete-edition-draw.json"
     },
     {
       "igdb_id": 186576,
@@ -218940,6 +218985,11 @@
       "igdb_id": 171604,
       "game_name": "CyberPunk Sex Tower",
       "file": "missing/C/171604-cyberpunk-sex-tower.json"
+    },
+    {
+      "igdb_id": 315905,
+      "game_name": "Cyberpunk Speed Assassin",
+      "file": "missing/C/315905-cyberpunk-speed-assassin.json"
     },
     {
       "igdb_id": 288896,
@@ -271552,6 +271602,11 @@
       "file": "missing/D/275679-drag-racing-car-simulator.json"
     },
     {
+      "igdb_id": 315935,
+      "game_name": "Drag Racing Professionals: Dirt Mechanic Simulator",
+      "file": "missing/D/315935-drag-racing-professionals-dirt-mechanic-simulator.json"
+    },
+    {
       "igdb_id": 147847,
       "game_name": "Drag Racing Rivals",
       "file": "missing/D/147847-drag-racing-rivals.json"
@@ -279070,6 +279125,11 @@
       "igdb_id": 388757,
       "game_name": "Drift Market",
       "file": "missing/D/388757-drift-market.json"
+    },
+    {
+      "igdb_id": 315922,
+      "game_name": "Drift Master Simulator",
+      "file": "missing/D/315922-drift-master-simulator.json"
     },
     {
       "igdb_id": 316231,
@@ -302125,6 +302185,11 @@
       "igdb_id": 185617,
       "game_name": "Encyclopedia Explosica",
       "file": "missing/E/185617-encyclopedia-explosica.json"
+    },
+    {
+      "igdb_id": 315912,
+      "game_name": "End Date",
+      "file": "missing/E/315912-end-date.json"
     },
     {
       "igdb_id": 263407,
@@ -347952,6 +348017,11 @@
       "file": "missing/F/88495-flight-simulator-flywings-online-2014.json"
     },
     {
+      "igdb_id": 315896,
+      "game_name": "Flight Simulator Pro 2024",
+      "file": "missing/F/315896-flight-simulator-pro-2024.json"
+    },
+    {
       "igdb_id": 88109,
       "game_name": "Flight Simulator Xtreme",
       "file": "missing/F/88109-flight-simulator-xtreme.json"
@@ -365562,6 +365632,11 @@
       "file": "missing/F/387513-froojarspootz-the-cleaning-monster.json"
     },
     {
+      "igdb_id": 315943,
+      "game_name": "Froooog",
+      "file": "missing/F/315943-froooog.json"
+    },
+    {
       "igdb_id": 179720,
       "game_name": "Froot Basket Valentine",
       "file": "missing/F/179720-froot-basket-valentine.json"
@@ -375432,6 +375507,11 @@
       "file": "missing/G/116803-game-e-ninja-neptunia.json"
     },
     {
+      "igdb_id": 315932,
+      "game_name": "Game Empire Tycoon: Dealer Simulator",
+      "file": "missing/G/315932-game-empire-tycoon-dealer-simulator.json"
+    },
+    {
       "igdb_id": 154004,
       "game_name": "Game For Anna",
       "file": "missing/G/154004-game-for-anna.json"
@@ -377195,6 +377275,11 @@
       "igdb_id": 124020,
       "game_name": "Garage Mechanic Simulator",
       "file": "missing/G/124020-garage-mechanic-simulator.json"
+    },
+    {
+      "igdb_id": 315895,
+      "game_name": "Garage Mechanic Simulator 3D",
+      "file": "missing/G/315895-garage-mechanic-simulator-3d.json"
     },
     {
       "igdb_id": 163764,
@@ -389617,6 +389702,11 @@
       "file": "missing/G/251449-glowboard-winterfest.json"
     },
     {
+      "igdb_id": 315944,
+      "game_name": "Glowface in Love",
+      "file": "missing/G/315944-glowface-in-love.json"
+    },
+    {
       "igdb_id": 354235,
       "game_name": "Glowface In Love 2",
       "file": "missing/G/354235-glowface-in-love-2.json"
@@ -394200,6 +394290,11 @@
       "igdb_id": 338773,
       "game_name": "Golden Rails: The Heart of the State - Collector's Edition",
       "file": "missing/G/338773-golden-rails-the-heart-of-the-state-collectors-edition.json"
+    },
+    {
+      "igdb_id": 315899,
+      "game_name": "Golden Rails: Valuable Package",
+      "file": "missing/G/315899-golden-rails-valuable-package.json"
     },
     {
       "igdb_id": 213559,
@@ -440997,6 +441092,11 @@
       "file": "missing/H/123545-him-and-i.json"
     },
     {
+      "igdb_id": 315911,
+      "game_name": "Him, the Smile & Bloom",
+      "file": "missing/H/315911-him-the-smile-and-bloom.json"
+    },
+    {
       "igdb_id": 410423,
       "game_name": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
       "file": "missing/H/410423-himanatsu-of-churches-sunflowers-and-long-summers.json"
@@ -458165,6 +458265,11 @@
       "igdb_id": 335855,
       "game_name": "Hypermarket Simulator",
       "file": "missing/H/335855-hypermarket-simulator.json"
+    },
+    {
+      "igdb_id": 315903,
+      "game_name": "Hypermarket Simulator Empire 2024",
+      "file": "missing/H/315903-hypermarket-simulator-empire-2024.json"
     },
     {
       "igdb_id": 193471,
@@ -530685,6 +530790,11 @@
       "igdb_id": 309634,
       "game_name": "Learn to Play Vol. 4: Happy Racer",
       "file": "missing/L/309634-learn-to-play-vol-4-happy-racer.json"
+    },
+    {
+      "igdb_id": 315916,
+      "game_name": "Learn to Play Vol. 5: Break the Blocks",
+      "file": "missing/L/315916-learn-to-play-vol-5-break-the-blocks.json"
     },
     {
       "igdb_id": 317449,
@@ -655747,6 +655857,11 @@
       "file": "missing/N/381338-night-of-the-basilisk.json"
     },
     {
+      "igdb_id": 315915,
+      "game_name": "Night of the Dead Simulator",
+      "file": "missing/N/315915-night-of-the-dead-simulator.json"
+    },
+    {
       "igdb_id": 293407,
       "game_name": "Night of the Dead: Beginner Pack",
       "file": "missing/N/293407-night-of-the-dead-beginner-pack.json"
@@ -670592,6 +670707,11 @@
       "file": "missing/O/360924-odd-card-out.json"
     },
     {
+      "igdb_id": 315937,
+      "game_name": "Odd Color Out",
+      "file": "missing/O/315937-odd-color-out.json"
+    },
+    {
       "igdb_id": 341674,
       "game_name": "Odd Dorable",
       "file": "missing/O/341674-odd-dorable.json"
@@ -672150,6 +672270,11 @@
       "igdb_id": 108488,
       "game_name": "Offroad Oil Tanker Hill Drivin",
       "file": "missing/O/108488-offroad-oil-tanker-hill-drivin.json"
+    },
+    {
+      "igdb_id": 315906,
+      "game_name": "Offroad Quest Simulator",
+      "file": "missing/O/315906-offroad-quest-simulator.json"
     },
     {
       "igdb_id": 125843,
@@ -674165,6 +674290,11 @@
       "igdb_id": 411128,
       "game_name": "Olympians: Darius",
       "file": "missing/O/411128-olympians-darius.json"
+    },
+    {
+      "igdb_id": 315925,
+      "game_name": "Olympic 2024 Journey",
+      "file": "missing/O/315925-olympic-2024-journey.json"
     },
     {
       "igdb_id": 147463,
@@ -690215,6 +690345,11 @@
       "igdb_id": 334882,
       "game_name": "P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App",
       "file": "missing/P/334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json"
+    },
+    {
+      "igdb_id": 315938,
+      "game_name": "P Fit",
+      "file": "missing/P/315938-p-fit.json"
     },
     {
       "igdb_id": 332449,
@@ -714517,6 +714652,11 @@
       "file": "missing/P/403598-pilot-brothers-3d-the-case-of-the-garden-pests.json"
     },
     {
+      "igdb_id": 315919,
+      "game_name": "Pilot Flight Simulation",
+      "file": "missing/P/315919-pilot-flight-simulation.json"
+    },
+    {
       "igdb_id": 39797,
       "game_name": "Pilot Kids",
       "file": "missing/P/39797-pilot-kids.json"
@@ -722040,6 +722180,16 @@
       "igdb_id": 330813,
       "game_name": "Pixicharm: Darkwood Dash",
       "file": "missing/P/330813-pixicharm-darkwood-dash.json"
+    },
+    {
+      "igdb_id": 315924,
+      "game_name": "Pixicharm: Dinoluship",
+      "file": "missing/P/315924-pixicharm-dinoluship.json"
+    },
+    {
+      "igdb_id": 315931,
+      "game_name": "Pixicharm: Fit Frog's Feast",
+      "file": "missing/P/315931-pixicharm-fit-frogs-feast.json"
     },
     {
       "igdb_id": 356508,
@@ -757097,9 +757247,19 @@
       "file": "missing/P/278495-puzzle-vacations-australia-and-new-zealand.json"
     },
     {
+      "igdb_id": 315898,
+      "game_name": "Puzzle Vacations: France",
+      "file": "missing/P/315898-puzzle-vacations-france.json"
+    },
+    {
       "igdb_id": 322976,
       "game_name": "Puzzle Vacations: Italy",
       "file": "missing/P/322976-puzzle-vacations-italy.json"
+    },
+    {
+      "igdb_id": 315897,
+      "game_name": "Puzzle Vacations: Nordics",
+      "file": "missing/P/315897-puzzle-vacations-nordics.json"
     },
     {
       "igdb_id": 383165,
@@ -769190,6 +769350,11 @@
       "igdb_id": 186867,
       "game_name": "Rally Racing",
       "file": "missing/R/186867-rally-racing.json"
+    },
+    {
+      "igdb_id": 315900,
+      "game_name": "Rally Racing Drift 2024",
+      "file": "missing/R/315900-rally-racing-drift-2024.json"
     },
     {
       "igdb_id": 265711,
@@ -794795,6 +794960,11 @@
       "igdb_id": 219782,
       "game_name": "Robbery Madness: Thief Games",
       "file": "missing/R/219782-robbery-madness-thief-games.json"
+    },
+    {
+      "igdb_id": 315940,
+      "game_name": "Robbery Rush",
+      "file": "missing/R/315940-robbery-rush.json"
     },
     {
       "igdb_id": 225218,
@@ -854757,6 +854927,11 @@
       "file": "missing/S/312888-skibidi-toilet-hero-sex-mod.json"
     },
     {
+      "igdb_id": 315926,
+      "game_name": "Skibidi Toilet Wars",
+      "file": "missing/S/315926-skibidi-toilet-wars.json"
+    },
+    {
       "igdb_id": 321490,
       "game_name": "Skibidi Toilet: Battle Royale",
       "file": "missing/S/321490-skibidi-toilet-battle-royale.json"
@@ -865770,6 +865945,11 @@
       "igdb_id": 111153,
       "game_name": "Snooker 19",
       "file": "missing/S/111153-snooker-19.json"
+    },
+    {
+      "igdb_id": 315913,
+      "game_name": "Snooker Blitz",
+      "file": "missing/S/315913-snooker-blitz.json"
     },
     {
       "igdb_id": 328487,
@@ -884610,6 +884790,11 @@
       "igdb_id": 7207,
       "game_name": "Spaceteam",
       "file": "missing/S/7207-spaceteam.json"
+    },
+    {
+      "igdb_id": 315890,
+      "game_name": "Spacetour Express",
+      "file": "missing/S/315890-spacetour-express.json"
     },
     {
       "igdb_id": 258469,
@@ -913117,6 +913302,11 @@
       "file": "missing/S/152681-street-striker.json"
     },
     {
+      "igdb_id": 315923,
+      "game_name": "Street Survival: Homeless Simulator",
+      "file": "missing/S/315923-street-survival-homeless-simulator.json"
+    },
+    {
       "igdb_id": 129643,
       "game_name": "Street Sweeper",
       "file": "missing/S/129643-street-sweeper.json"
@@ -923907,6 +924097,11 @@
       "file": "missing/S/157211-super-hunchback.json"
     },
     {
+      "igdb_id": 315889,
+      "game_name": "Super Hyper Hippo",
+      "file": "missing/S/315889-super-hyper-hippo.json"
+    },
+    {
       "igdb_id": 68358,
       "game_name": "Super Hyperactive Ninja",
       "file": "missing/S/68358-super-hyperactive-ninja.json"
@@ -932905,6 +933100,11 @@
       "igdb_id": 345265,
       "game_name": "Supermarket Simulator Deluxe",
       "file": "missing/S/345265-supermarket-simulator-deluxe.json"
+    },
+    {
+      "igdb_id": 315920,
+      "game_name": "Supermarket Simulator Pro",
+      "file": "missing/S/315920-supermarket-simulator-pro.json"
     },
     {
       "igdb_id": 376231,
@@ -979577,6 +979777,11 @@
       "file": "missing/T/260650-the-great-fear.json"
     },
     {
+      "igdb_id": 315914,
+      "game_name": "The Great Fleece",
+      "file": "missing/T/315914-the-great-fleece.json"
+    },
+    {
       "igdb_id": 380563,
       "game_name": "The Great Flood",
       "file": "missing/T/380563-the-great-flood.json"
@@ -983820,6 +984025,11 @@
       "igdb_id": 217808,
       "game_name": "The Jumping Ice Cream: Turbo",
       "file": "missing/T/217808-the-jumping-ice-cream-turbo.json"
+    },
+    {
+      "igdb_id": 315941,
+      "game_name": "The Jumping Ice Cube",
+      "file": "missing/T/315941-the-jumping-ice-cube.json"
     },
     {
       "igdb_id": 213350,
@@ -1057002,6 +1057212,11 @@
       "file": "missing/T/363941-truck-simulator-big-rigs.json"
     },
     {
+      "igdb_id": 315921,
+      "game_name": "Truck Simulator Cargo Driver 2024: Euro",
+      "file": "missing/T/315921-truck-simulator-cargo-driver-2024-euro.json"
+    },
+    {
       "igdb_id": 299525,
       "game_name": "Truck Simulator Cargo Driver 2024: USA",
       "file": "missing/T/299525-truck-simulator-cargo-driver-2024-usa.json"
@@ -1074662,6 +1074877,11 @@
       "file": "missing/U/166175-unstack.json"
     },
     {
+      "igdb_id": 315891,
+      "game_name": "Unstackable",
+      "file": "missing/U/315891-unstackable.json"
+    },
+    {
       "igdb_id": 180840,
       "game_name": "Unsteady Bounce",
       "file": "missing/U/180840-unsteady-bounce.json"
@@ -1085407,6 +1085627,11 @@
       "file": "missing/V/3333-vigilante-8-2nd-offense.json"
     },
     {
+      "igdb_id": 315942,
+      "game_name": "Vigilante Ranger",
+      "file": "missing/V/315942-vigilante-ranger.json"
+    },
+    {
       "igdb_id": 25597,
       "game_name": "Vigilantes",
       "file": "missing/V/25597-vigilantes.json"
@@ -1088245,6 +1088470,11 @@
       "igdb_id": 33356,
       "game_name": "VirZoom Arcade",
       "file": "missing/V/33356-virzoom-arcade.json"
+    },
+    {
+      "igdb_id": 315934,
+      "game_name": "Visa Control: USA Border Simulator",
+      "file": "missing/V/315934-visa-control-usa-border-simulator.json"
     },
     {
       "igdb_id": 282020,
@@ -1123022,6 +1123252,11 @@
       "file": "missing/W/261877-world-of-outlaws-dirt-racing-2023-ultimate-edition.json"
     },
     {
+      "igdb_id": 315930,
+      "game_name": "World of Outlaws: Dirt Racing 24",
+      "file": "missing/W/315930-world-of-outlaws-dirt-racing-24.json"
+    },
+    {
       "igdb_id": 330341,
       "game_name": "World of Outlaws: Dirt Racing 24 Gold Edition",
       "file": "missing/W/330341-world-of-outlaws-dirt-racing-24-gold-edition.json"
@@ -1144612,6 +1144847,11 @@
       "file": "missing/Z/353874-zodiac-paradigm.json"
     },
     {
+      "igdb_id": 315894,
+      "game_name": "Zodiac Quest",
+      "file": "missing/Z/315894-zodiac-quest.json"
+    },
+    {
       "igdb_id": 373741,
       "game_name": "Zodiac Requiem",
       "file": "missing/Z/373741-zodiac-requiem.json"
@@ -1144945,6 +1145185,11 @@
       "igdb_id": 399696,
       "game_name": "Zombeo and Vampireta",
       "file": "missing/Z/399696-zombeo-and-vampireta.json"
+    },
+    {
+      "igdb_id": 315936,
+      "game_name": "ZombFarm",
+      "file": "missing/Z/315936-zombfarm.json"
     },
     {
       "igdb_id": 2279,
@@ -1145580,6 +1145825,11 @@
       "igdb_id": 291208,
       "game_name": "Zombie Exodus: Safe Haven - Side Stories 2",
       "file": "missing/Z/291208-zombie-exodus-safe-haven-side-stories-2.json"
+    },
+    {
+      "igdb_id": 315902,
+      "game_name": "Zombie Fall: Survival Challenge",
+      "file": "missing/Z/315902-zombie-fall-survival-challenge.json"
     },
     {
       "igdb_id": 267549,
