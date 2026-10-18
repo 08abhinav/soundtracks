@@ -1582,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinki Resurrection | 141177 | [141177-jinki-resurrection.json](./141177-jinki-resurrection.json) |
 | Jinki Resurrection: Limited Edition | 141189 | [141189-jinki-resurrection-limited-edition.json](./141189-jinki-resurrection-limited-edition.json) |
 | Jinki: Infinity | 249501 | [249501-jinki-infinity.json](./249501-jinki-infinity.json) |
+| Jinko | 313000 | [313000-jinko.json](./313000-jinko.json) |
 | Jinks | 12330 | [12330-jinks.json](./12330-jinks.json) |
 | Jinmu Denshou Yaksa | 37683 | [37683-jinmu-denshou-yaksa.json](./37683-jinmu-denshou-yaksa.json) |
 | Jinro Burger | 402449 | [402449-jinro-burger.json](./402449-jinro-burger.json) |
@@ -2305,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Return to Mysterious Island - Director's Cut | 89046 | [89046-jules-vernes-return-to-mysterious-island-directors-cut.json](./89046-jules-vernes-return-to-mysterious-island-directors-cut.json) |
 | Jules Verne's Return to Mysterious Island 2 - Director's Cut Lite | 103989 | [103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json](./103989-jules-vernes-return-to-mysterious-island-2-directors-cut-lite.json) |
+| Julia Was Alone | 312967 | [312967-julia-was-alone.json](./312967-julia-was-alone.json) |
 | Julia: A Science Journey | 235794 | [235794-julia-a-science-journey.json](./235794-julia-a-science-journey.json) |
 | Julia: Back to the Sweet 60's | 378411 | [378411-julia-back-to-the-sweet-60s.json](./378411-julia-back-to-the-sweet-60s.json) |
 | Julia's Quest | 100273 | [100273-julias-quest.json](./100273-julias-quest.json) |
