@@ -6496,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
 | Holoscope: Another Day Another Data | 176773 | [176773-holoscope-another-day-another-data.json](./176773-holoscope-another-day-another-data.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
+| Holospecter | 317075 | [317075-holospecter.json](./317075-holospecter.json) |
 | HoloSprint | 127706 | [127706-holosprint.json](./127706-holosprint.json) |
 | Holosseum | 40347 | [40347-holosseum.json](./40347-holosseum.json) |
 | Holostar Command: Quantum Alliance | 150969 | [150969-holostar-command-quantum-alliance.json](./150969-holostar-command-quantum-alliance.json) |
