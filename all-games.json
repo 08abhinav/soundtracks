@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:05:25.926Z",
-  "total_soundtracks": 2143,
+  "generated_at": "2026-10-18T08:25:25.284Z",
+  "total_soundtracks": 2144,
   "games": [
     {
       "igdb_id": 7522,
@@ -2647,6 +2647,20 @@
           "spotify_url": "https://open.spotify.com/album/1htHMnxonxmyHdKE2uDFMR",
           "apple_music_url": "https://music.apple.com/us/album/beat-saber-original-game-soundtrack/1371680509",
           "album_link_url": "https://album.link/i/1371680509"
+        }
+      ]
+    },
+    {
+      "igdb_id": 120878,
+      "game_name": "Before We Leave",
+      "game_url": "https://ostdb.net/games/before-we-leave",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27356be423307778a7a3a2996a3",
+      "albums": [
+        {
+          "album_name": "Before We Leave (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/21CZZNzNXN4l1ygm7vpBaI",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
