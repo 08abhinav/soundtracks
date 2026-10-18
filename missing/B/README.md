@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
 | Bako | 190934 | [190934-bako.json](./190934-bako.json) |
 | Bakobako | 341832 | [341832-bakobako.json](./341832-bakobako.json) |
+| Bakso Simulator 2 | 324721 | [324721-bakso-simulator-2.json](./324721-bakso-simulator-2.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Baku | 69785 | [69785-baku-baku.json](./69785-baku-baku.json) |
@@ -2541,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
 | Batta Batta: Skurkestreger | 129777 | [129777-batta-batta-skurkestreger.json](./129777-batta-batta-skurkestreger.json) |
 | Batta? Batta! | 352240 | [352240-batta-batta.json](./352240-batta-batta.json) |
+| Battaglia Navale & Forza 4 | 324748 | [324748-battaglia-navale-and-forza-4.json](./324748-battaglia-navale-and-forza-4.json) |
 | Battalion Commander | 26289 | [26289-battalion-commander.json](./26289-battalion-commander.json) |
 | Battalion Commander | 27128 | [27128-battalion-commander.json](./27128-battalion-commander.json) |
 | Battalion Wars | 3797 | [3797-battalion-wars.json](./3797-battalion-wars.json) |
