@@ -8400,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Cats | 238384 | [238384-the-king-of-cats.json](./238384-the-king-of-cats.json) |
 | The King of Chicago | 8667 | [8667-the-king-of-chicago.json](./8667-the-king-of-chicago.json) |
 | The King of Creation | 273414 | [273414-the-king-of-creation.json](./273414-the-king-of-creation.json) |
+| The King of Dragons | 324159 | [324159-the-king-of-dragons.json](./324159-the-king-of-dragons.json) |
 | The King of Dragons | 6814 | [6814-the-king-of-dragons.json](./6814-the-king-of-dragons.json) |
 | The King of Drive: Parking Edition | 196102 | [196102-the-king-of-drive-parking-edition.json](./196102-the-king-of-drive-parking-edition.json) |
 | The King of Fighter XV: Characters - Team Awakened Orochi | 212988 | [212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json](./212988-the-king-of-fighter-xv-characters-team-awakened-orochi.json) |
@@ -11854,10 +11855,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shell Part I: Inferno | 142230 | [142230-the-shell-part-i-inferno.json](./142230-the-shell-part-i-inferno.json) |
 | The Shell Part I: Inferno | 252084 | [252084-the-shell-part-i-inferno.json](./252084-the-shell-part-i-inferno.json) |
 | The Shell Part III: Paradiso | 141751 | [141751-the-shell-part-iii-paradiso.json](./141751-the-shell-part-iii-paradiso.json) |
+| The Shell Part III: Paradiso | 324151 | [324151-the-shell-part-iii-paradiso.json](./324151-the-shell-part-iii-paradiso.json) |
 | The Sheltered | 36492 | [36492-the-sheltered.json](./36492-the-sheltered.json) |
 | The Shenanigans of Cherry and Trix | 127374 | [127374-the-shenanigans-of-cherry-and-trix.json](./127374-the-shenanigans-of-cherry-and-trix.json) |
 | The Sheng's Written: Journey of Hoo | 301056 | [301056-the-shengs-written-journey-of-hoo.json](./301056-the-shengs-written-journey-of-hoo.json) |
 | The Shepherd | 154070 | [154070-the-shepherd.json](./154070-the-shepherd.json) |
+| The Sheriff | 324174 | [324174-the-sheriff.json](./324174-the-sheriff.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
 | The Shield: The Game | 70186 | [70186-the-shield-the-game.json](./70186-the-shield-the-game.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
