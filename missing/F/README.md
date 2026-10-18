@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faz-Karts | 382962 | [382962-faz-karts.json](./382962-faz-karts.json) |
 | Fazbear Entertainment: Storage | 233963 | [233963-fazbear-entertainment-storage.json](./233963-fazbear-entertainment-storage.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
+| Fazbear Nights | 315372 | [315372-fazbear-nights.json](./315372-fazbear-nights.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBC: Firebreak | 320144 | [320144-fbc-firebreak.json](./320144-fbc-firebreak.json) |
 | FBC: Firebreak - Breakpoint | 371013 | [371013-fbc-firebreak-breakpoint.json](./371013-fbc-firebreak-breakpoint.json) |
@@ -5890,6 +5891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floatris | 94631 | [94631-floatris.json](./94631-floatris.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
+| Flob and the Shattered Dimension | 315323 | [315323-flob-and-the-shattered-dimension.json](./315323-flob-and-the-shattered-dimension.json) |
 | Flobe | 33718 | [33718-flobe.json](./33718-flobe.json) |
 | Flocc | 194190 | [194190-flocc.json](./194190-flocc.json) |
 | FloCity | 244260 | [244260-flocity.json](./244260-flocity.json) |
