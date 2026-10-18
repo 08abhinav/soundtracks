@@ -1847,6 +1847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Artist | 400056 | [400056-makeup-artist.json](./400056-makeup-artist.json) |
+| Makeup ASMR: Makeover Story | 355866 | [355866-makeup-asmr-makeover-story.json](./355866-makeup-asmr-makeover-story.json) |
 | Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu | 107072 | [107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json](./107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json) |
 | Makeup Stylist: DIY Makeup Game | 208971 | [208971-makeup-stylist-diy-makeup-game.json](./208971-makeup-stylist-diy-makeup-game.json) |
 | Maki Coco | 183316 | [183316-maki-coco.json](./183316-maki-coco.json) |
@@ -6639,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
 | Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
 | Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
+| Merkava: The Sacred Armour of Meirav | 355966 | [355966-merkava-the-sacred-armour-of-meirav.json](./355966-merkava-the-sacred-armour-of-meirav.json) |
 | Merlin | 362581 | [362581-merlin.json](./362581-merlin.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
