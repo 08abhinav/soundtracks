@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
+| Tatakae! Ultraman | 345915 | [345915-tatakae-ultraman.json](./345915-tatakae-ultraman.json) |
 | Tatami Crime Scenes What’s Wrong? | 420650 | [420650-tatami-crime-scenes-what-s-wrong.json](./420650-tatami-crime-scenes-what-s-wrong.json) |
 | Tatar Altan vs. Shaitan | 384282 | [384282-tatar-altan-vs-shaitan.json](./384282-tatar-altan-vs-shaitan.json) |
 | Tatara Kogasa's Surprise Operation | 273948 | [273948-tatara-kogasas-surprise-operation.json](./273948-tatara-kogasas-surprise-operation.json) |
