@@ -8953,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro | 246384 | [246384-pool-pro.json](./246384-pool-pro.json) |
 | Pool Pro 2022 | 275611 | [275611-pool-pro-2022.json](./275611-pool-pro-2022.json) |
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
+| Pool Protocol: Loop | 346456 | [346456-pool-protocol-loop.json](./346456-pool-protocol-loop.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
 | Pool Shark | 169226 | [169226-pool-shark.json](./169226-pool-shark.json) |
