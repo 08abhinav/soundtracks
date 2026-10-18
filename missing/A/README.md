@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
+| Activision Prototype #1 | 344692 | [344692-activision-prototype-1.json](./344692-activision-prototype-1.json) |
 | Activision's Atari 2600 Action Pack | 79146 | [79146-activisions-atari-2600-action-pack.json](./79146-activisions-atari-2600-action-pack.json) |
 | Activision's Atari 2600 Action Pack 2 | 100084 | [100084-activisions-atari-2600-action-pack-2.json](./100084-activisions-atari-2600-action-pack-2.json) |
 | Activision's Atari 2600 Action Pack 3 | 80841 | [80841-activisions-atari-2600-action-pack-3.json](./80841-activisions-atari-2600-action-pack-3.json) |
@@ -8447,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar nosurge: Ode to an Unborn Star | 7273 | [7273-ar-nosurge-ode-to-an-unborn-star.json](./7273-ar-nosurge-ode-to-an-unborn-star.json) |
 | Ar Nosurge: Ode to an Unborn Star DX | 139979 | [139979-ar-nosurge-ode-to-an-unborn-star-dx.json](./139979-ar-nosurge-ode-to-an-unborn-star-dx.json) |
 | AR Race Car | 242215 | [242215-ar-race-car.json](./242215-ar-race-car.json) |
+| AR Shot 2 | 344787 | [344787-ar-shot-2.json](./344787-ar-shot-2.json) |
 | Ar tonelico II: Melody of Metafalica | 43658 | [43658-ar-tonelico-ii-melody-of-metafalica.json](./43658-ar-tonelico-ii-melody-of-metafalica.json) |
 | Ar Tonelico Qoga: Knell of Ar Ciel | 7274 | [7274-ar-tonelico-qoga-knell-of-ar-ciel.json](./7274-ar-tonelico-qoga-knell-of-ar-ciel.json) |
 | Ar-K | 16929 | [16929-ar-k.json](./16929-ar-k.json) |
@@ -9189,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archers Shadow Strike | 332536 | [332536-archers-shadow-strike.json](./332536-archers-shadow-strike.json) |
 | Archers: Bowman's Battle | 63249 | [63249-archers-bowmans-battle.json](./63249-archers-bowmans-battle.json) |
 | Archery | 247023 | [247023-archery.json](./247023-archery.json) |
+| Archery 2 | 344786 | [344786-archery-2.json](./344786-archery-2.json) |
 | Archery Arena | 160102 | [160102-archery-arena.json](./160102-archery-arena.json) |
 | Archery Art | 105774 | [105774-archery-art.json](./105774-archery-art.json) |
 | Archery Battle VR | 243601 | [243601-archery-battle-vr.json](./243601-archery-battle-vr.json) |
@@ -9237,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
 | Architect of Ruin | 369990 | [369990-architect-of-ruin.json](./369990-architect-of-ruin.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
+| Architect: Land of Exiles | 344792 | [344792-architect-land-of-exiles.json](./344792-architect-land-of-exiles.json) |
 | Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
 | Architectural Adventure | 106464 | [106464-architectural-adventure.json](./106464-architectural-adventure.json) |
