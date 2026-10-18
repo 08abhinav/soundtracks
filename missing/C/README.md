@@ -10404,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
 | Corporate Chaos | 338886 | [338886-corporate-chaos.json](./338886-corporate-chaos.json) |
 | Corporate Cut: The Hair-Raising Adventure of an Office Employee | 338887 | [338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json](./338887-corporate-cut-the-hair-raising-adventure-of-an-office-employee.json) |
+| Corporate Fury | 357584 | [357584-corporate-fury.json](./357584-corporate-fury.json) |
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporate Property | 63374 | [63374-corporate-property.json](./63374-corporate-property.json) |
