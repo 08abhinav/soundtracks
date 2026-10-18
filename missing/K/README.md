@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwame Mahjong DX II | 97872 | [97872-kiwame-mahjong-dx-ii.json](./97872-kiwame-mahjong-dx-ii.json) |
 | Kiwame Mahjong DXII: The 4th Mondo21Cup Competition | 80432 | [80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json](./80432-kiwame-mahjong-dxii-the-4th-mondo21cup-competition.json) |
 | Kiwamero! Shunkan Jump Kentei | 222453 | [222453-kiwamero-shunkan-jump-kentei.json](./222453-kiwamero-shunkan-jump-kentei.json) |
+| Kiwamete Yoku aru Dasshutsu Game | 320046 | [320046-kiwamete-yoku-aru-dasshutsu-game.json](./320046-kiwamete-yoku-aru-dasshutsu-game.json) |
 | Kiwanuka | 61305 | [61305-kiwanuka.json](./61305-kiwanuka.json) |
 | Kiwaya | 128962 | [128962-kiwaya.json](./128962-kiwaya.json) |
 | Kiwen Kon | 202026 | [202026-kiwen-kon.json](./202026-kiwen-kon.json) |
