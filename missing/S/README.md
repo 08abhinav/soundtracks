@@ -13008,6 +13008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
+| Sonic: The Fated Hour | 324756 | [324756-sonic-the-fated-hour.json](./324756-sonic-the-fated-hour.json) |
 | Sonic: The Final Story | 330590 | [330590-sonic-the-final-story.json](./330590-sonic-the-final-story.json) |
 | Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
@@ -17134,6 +17135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stampholder Value | 392389 | [392389-stampholder-value.json](./392389-stampholder-value.json) |
 | Stamps ‘n Papers | 346694 | [346694-stamps-n-papers.json](./346694-stamps-n-papers.json) |
 | Stan | 326277 | [326277-stan.json](./326277-stan.json) |
+| Stan James Original Free Kick Challenge | 324738 | [324738-stan-james-original-free-kick-challenge.json](./324738-stan-james-original-free-kick-challenge.json) |
 | Stan Lee's Verticus | 148860 | [148860-stan-lees-verticus.json](./148860-stan-lees-verticus.json) |
 | StanÇact: Sexy Tenacious Girls | 264621 | [264621-stancact-sexy-tenacious-girls.json](./264621-stancact-sexy-tenacious-girls.json) |
 | Stand 'em Up | 152153 | [152153-stand-em-up.json](./152153-stand-em-up.json) |
