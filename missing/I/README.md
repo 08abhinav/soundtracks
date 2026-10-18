@@ -175,6 +175,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Dogs | 241292 | [241292-i-commissioned-some-dogs.json](./241292-i-commissioned-some-dogs.json) |
 | I Commissioned Some Dogs 5 | 350205 | [350205-i-commissioned-some-dogs-5.json](./350205-i-commissioned-some-dogs-5.json) |
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
+| I Commissioned Some Frogs 3 | 339692 | [339692-i-commissioned-some-frogs-3.json](./339692-i-commissioned-some-frogs-3.json) |
+| I Commissioned Some Frogs 4 | 339694 | [339694-i-commissioned-some-frogs-4.json](./339694-i-commissioned-some-frogs-4.json) |
+| I Commissioned Some Frogs 5 | 339681 | [339681-i-commissioned-some-frogs-5.json](./339681-i-commissioned-some-frogs-5.json) |
 | I Commissioned Some Invisible People 0 | 292546 | [292546-i-commissioned-some-invisible-people-0.json](./292546-i-commissioned-some-invisible-people-0.json) |
 | I Commissioned Some Ladybugs 3 | 287071 | [287071-i-commissioned-some-ladybugs-3.json](./287071-i-commissioned-some-ladybugs-3.json) |
 | I Commissioned Some Ladybugs 4 | 309449 | [309449-i-commissioned-some-ladybugs-4.json](./309449-i-commissioned-some-ladybugs-4.json) |
@@ -1500,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikonoijoy Puzzle | 403117 | [403117-ikonoijoy-puzzle.json](./403117-ikonoijoy-puzzle.json) |
 | IKOU: Intelligenztrainer fur Kids | 269634 | [269634-ikou-intelligenztrainer-fur-kids.json](./269634-ikou-intelligenztrainer-fur-kids.json) |
 | Iktsua | 329930 | [329930-iktsua.json](./329930-iktsua.json) |
+| Ikuma: The Frozen Compass | 339619 | [339619-ikuma-the-frozen-compass.json](./339619-ikuma-the-frozen-compass.json) |
 | Ikun Go Go Go | 390628 | [390628-ikun-go-go-go.json](./390628-ikun-go-go-go.json) |
 | Ikusa Megami | 208288 | [208288-ikusa-megami.json](./208288-ikusa-megami.json) |
 | Ikusa Megami 2: Ushinawareshi Kioku he no Chinkonka | 208285 | [208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json](./208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json) |
