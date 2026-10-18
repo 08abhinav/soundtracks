@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
+| Necromantic Thirst | 321217 | [321217-necromantic-thirst.json](./321217-necromantic-thirst.json) |
 | NecroMarch | 415899 | [415899-necromarch.json](./415899-necromarch.json) |
 | Necromasser | 56311 | [56311-necromasser.json](./56311-necromasser.json) |
 | Necromaster | 382585 | [382585-necromaster.json](./382585-necromaster.json) |
@@ -5254,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novus Orbis | 253583 | [253583-novus-orbis.json](./253583-novus-orbis.json) |
 | Now & Then: A Tale of the End | 255097 | [255097-now-and-then-a-tale-of-the-end.json](./255097-now-and-then-a-tale-of-the-end.json) |
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
+| Now Entering: Quiet Haven | 321232 | [321232-now-entering-quiet-haven.json](./321232-now-entering-quiet-haven.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
 | Now I Know My ABCs | 85315 | [85315-now-i-know-my-abcs.json](./85315-now-i-know-my-abcs.json) |
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
