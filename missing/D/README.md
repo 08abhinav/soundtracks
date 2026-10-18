@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Stranding: Director's Cut | 152063 | [152063-death-stranding-directors-cut.json](./152063-death-stranding-directors-cut.json) |
 | Death Stranding: Director's Cut - Digital Deluxe Edition | 407589 | [407589-death-stranding-directors-cut-digital-deluxe-edition.json](./407589-death-stranding-directors-cut-digital-deluxe-edition.json) |
 | Death Stranding: Higgs Variant | 386264 | [386264-death-stranding-higgs-variant.json](./386264-death-stranding-higgs-variant.json) |
+| Death Stream | 335121 | [335121-death-stream.json](./335121-death-stream.json) |
 | Death Strike | 182918 | [182918-death-strike.json](./182918-death-strike.json) |
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
@@ -7605,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
+| Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
 | Distant Paradise | 402858 | [402858-distant-paradise.json](./402858-distant-paradise.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
