@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patent Blaster | 60079 | [60079-patent-blaster.json](./60079-patent-blaster.json) |
 | Patent9 | 90117 | [90117-patent9.json](./90117-patent9.json) |
 | Path Ball | 341590 | [341590-path-ball.json](./341590-path-ball.json) |
+| Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
@@ -3624,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petricor | 413905 | [413905-petricor.json](./413905-petricor.json) |
 | PetriDish.pw | 55793 | [55793-petridish-pw.json](./55793-petridish-pw.json) |
 | Petrifaction | 97825 | [97825-petrifaction.json](./97825-petrifaction.json) |
+| Petrified Pawns | 318287 | [318287-petrified-pawns.json](./318287-petrified-pawns.json) |
 | Petris | 141595 | [141595-petris.json](./141595-petris.json) |
 | Petrol Blood | 156134 | [156134-petrol-blood.json](./156134-petrol-blood.json) |
 | Petrol Station Sim | 263780 | [263780-petrol-station-sim.json](./263780-petrol-station-sim.json) |
@@ -6332,6 +6334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
+| PixelQuest: Herb's Adventure | 318278 | [318278-pixelquest-herbs-adventure.json](./318278-pixelquest-herbs-adventure.json) |
 | PixelQuiz | 234521 | [234521-pixelquiz.json](./234521-pixelquiz.json) |
 | PixelRPG | 110920 | [110920-pixelrpg.json](./110920-pixelrpg.json) |
 | PixelRulers | 360681 | [360681-pixelrulers.json](./360681-pixelrulers.json) |
