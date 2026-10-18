@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Shooter | 267960 | [267960-idol-shooter.json](./267960-idol-shooter.json) |
 | Idol Showdown | 243747 | [243747-idol-showdown.json](./243747-idol-showdown.json) |
 | Idol Street | 27540 | [27540-idol-street.json](./27540-idol-street.json) |
+| Idol Symphony | 329444 | [329444-idol-symphony.json](./329444-idol-symphony.json) |
 | Idol Tantei You&My | 246105 | [246105-idol-tantei-you-and-my.json](./246105-idol-tantei-you-and-my.json) |
 | Idol Time PriPara | 285041 | [285041-idol-time-pripara.json](./285041-idol-time-pripara.json) |
 | Idol Time PriPara Yume All Star Live! | 136938 | [136938-idol-time-pripara-yume-all-star-live.json](./136938-idol-time-pripara-yume-all-star-live.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Friend | 224548 | [224548-infected-friend.json](./224548-infected-friend.json) |
 | Infected Love: The Fatal Experiment | 374135 | [374135-infected-love-the-fatal-experiment.json](./374135-infected-love-the-fatal-experiment.json) |
 | Infected Mushroom Pinball | 353770 | [353770-infected-mushroom-pinball.json](./353770-infected-mushroom-pinball.json) |
+| Infected Ones | 329412 | [329412-infected-ones.json](./329412-infected-ones.json) |
 | Infected Prison | 156561 | [156561-infected-prison.json](./156561-infected-prison.json) |
 | Infected run to Survive: Zombie Apocalypse Survival Story Shooter Dead Cry | 231078 | [231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json](./231078-infected-run-to-survive-zombie-apocalypse-survival-story-shooter-dead-cry.json) |
 | Infected spaceship generator | 164062 | [164062-infected-spaceship-generator.json](./164062-infected-spaceship-generator.json) |
@@ -3179,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inomushi Goro Goro | 138520 | [138520-inomushi-goro-goro.json](./138520-inomushi-goro-goro.json) |
 | Inops | 114177 | [114177-inops.json](./114177-inops.json) |
 | Inorikaze | 113724 | [113724-inorikaze.json](./113724-inorikaze.json) |
+| InorStreet | 329445 | [329445-inorstreet.json](./329445-inorstreet.json) |
 | Inoue Mami: Kono Hoshi ni Tatta Hitori no Kimi | 222333 | [222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json](./222333-inoue-mami-kono-hoshi-ni-tatta-hitori-no-kimi.json) |
 | Inoue Ryouko: Roommate | 362824 | [362824-inoue-ryouko-roommate.json](./362824-inoue-ryouko-roommate.json) |
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
