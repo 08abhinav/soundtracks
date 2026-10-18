@@ -3766,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seishun! Bukatsu Aruaru | 251515 | [251515-seishun-bukatsu-aruaru.json](./251515-seishun-bukatsu-aruaru.json) |
 | Seiso Master KEN | 155388 | [155388-seiso-master-ken.json](./155388-seiso-master-ken.json) |
 | Seito Kaichou de Amaenbou na Onee-chan ha Suki Desu ka? | 399191 | [399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json](./399191-seito-kaichou-de-amaenbou-na-onee-chan-ha-suki-desu-ka.json) |
+| Seitokai no Ichizon: DS Suru Seitokai | 330008 | [330008-seitokai-no-ichizon-ds-suru-seitokai.json](./330008-seitokai-no-ichizon-ds-suru-seitokai.json) |
 | Seiun Kamen Machineman: Dengeki Convert | 385750 | [385750-seiun-kamen-machineman-dengeki-convert.json](./385750-seiun-kamen-machineman-dengeki-convert.json) |
 | Seiya Monogatari: Anearth Fantasy Stories | 65978 | [65978-seiya-monogatari-anearth-fantasy-stories.json](./65978-seiya-monogatari-anearth-fantasy-stories.json) |
 | Seiya Online | 144251 | [144251-seiya-online.json](./144251-seiya-online.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
+| Shararam | 329986 | [329986-shararam.json](./329986-shararam.json) |
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
@@ -14503,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
 | Space Turret Gunner | 103961 | [103961-space-turret-gunner.json](./103961-space-turret-gunner.json) |
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
+| Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
@@ -16937,6 +16940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sssnake | 195058 | [195058-sssnake.json](./195058-sssnake.json) |
 | SSSnaker | 248169 | [248169-sssnaker.json](./248169-sssnaker.json) |
 | Sssnakes | 84896 | [84896-sssnakes.json](./84896-sssnakes.json) |
+| Ssspicy! | 330006 | [330006-ssspicy.json](./330006-ssspicy.json) |
 | SSV8 Superstar V8 Racing | 10884 | [10884-ssv8-superstar-v8-racing.json](./10884-ssv8-superstar-v8-racing.json) |
 | SSV8NC Superstar V8 Next Challenge | 10883 | [10883-ssv8nc-superstar-v8-next-challenge.json](./10883-ssv8nc-superstar-v8-next-challenge.json) |
 | SSWK: Valentine's Day Special | 184966 | [184966-sswk-valentines-day-special.json](./184966-sswk-valentines-day-special.json) |
@@ -17054,6 +17058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stains and the Giant | 315780 | [315780-stains-and-the-giant.json](./315780-stains-and-the-giant.json) |
 | Stains and the Guru | 315783 | [315783-stains-and-the-guru.json](./315783-stains-and-the-guru.json) |
 | Stains and the Yeti | 315781 | [315781-stains-and-the-yeti.json](./315781-stains-and-the-yeti.json) |
+| Stains of Regret | 330021 | [330021-stains-of-regret.json](./330021-stains-of-regret.json) |
 | Stair Dismount | 19285 | [19285-stair-dismount.json](./19285-stair-dismount.json) |
 | Stair Quest | 148409 | [148409-stair-quest.json](./148409-stair-quest.json) |
 | Stair Surfers | 175126 | [175126-stair-surfers.json](./175126-stair-surfers.json) |
