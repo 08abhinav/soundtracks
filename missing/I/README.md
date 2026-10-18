@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
 | Iron Shadow: Survival Protocol | 371472 | [371472-iron-shadow-survival-protocol.json](./371472-iron-shadow-survival-protocol.json) |
 | Iron Sight | 98003 | [98003-iron-sight.json](./98003-iron-sight.json) |
+| Iron Skies | 360882 | [360882-iron-skies.json](./360882-iron-skies.json) |
 | Iron Sky: A Lunar Adventure | 234337 | [234337-iron-sky-a-lunar-adventure.json](./234337-iron-sky-a-lunar-adventure.json) |
 | Iron Sky: Invasion | 7021 | [7021-iron-sky-invasion.json](./7021-iron-sky-invasion.json) |
 | Iron Sky: Invasion - Digital Deluxe Edition | 53257 | [53257-iron-sky-invasion-digital-deluxe-edition.json](./53257-iron-sky-invasion-digital-deluxe-edition.json) |
