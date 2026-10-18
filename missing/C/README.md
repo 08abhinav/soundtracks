@@ -3695,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri's Favourite Archer | 235858 | [235858-centauris-favourite-archer.json](./235858-centauris-favourite-archer.json) |
 | Center Court | 40073 | [40073-center-court.json](./40073-center-court.json) |
+| Center Mass: Streets of Ramadi | 344796 | [344796-center-mass-streets-of-ramadi.json](./344796-center-mass-streets-of-ramadi.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
@@ -4705,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
 | Chess Gambit | 165124 | [165124-chess-gambit.json](./165124-chess-gambit.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
+| Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
 | Chess is Stupid! | 230735 | [230735-chess-is-stupid.json](./230735-chess-is-stupid.json) |
@@ -7856,6 +7858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code R | 125786 | [125786-code-r.json](./125786-code-r.json) |
 | Code R | 193858 | [193858-code-r.json](./193858-code-r.json) |
 | Code Racer | 289792 | [289792-code-racer.json](./289792-code-racer.json) |
+| Code Rapid | 344691 | [344691-code-rapid.json](./344691-code-rapid.json) |
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
@@ -8047,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cogs Lite | 100257 | [100257-cogs-lite.json](./100257-cogs-lite.json) |
 | Cogs of Combat | 201120 | [201120-cogs-of-combat.json](./201120-cogs-of-combat.json) |
 | CogVR | 29827 | [29827-cogvr.json](./29827-cogvr.json) |
+| Cogwheel | 344725 | [344725-cogwheel.json](./344725-cogwheel.json) |
 | Cohabitation | 217877 | [217877-cohabitation.json](./217877-cohabitation.json) |
 | Cohabitation Life | 296647 | [296647-cohabitation-life.json](./296647-cohabitation-life.json) |
 | Cohen's Towers | 23949 | [23949-cohens-towers.json](./23949-cohens-towers.json) |
@@ -10259,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copa City: Elite Tifo Collection | 406909 | [406909-copa-city-elite-tifo-collection.json](./406909-copa-city-elite-tifo-collection.json) |
 | Copa City: Urban Aesthetics Pack | 406908 | [406908-copa-city-urban-aesthetics-pack.json](./406908-copa-city-urban-aesthetics-pack.json) |
 | Copa Petrobras de Marcas | 90609 | [90609-copa-petrobras-de-marcas.json](./90609-copa-petrobras-de-marcas.json) |
+| Copa Toon 2010 | 344709 | [344709-copa-toon-2010.json](./344709-copa-toon-2010.json) |
 | Copa Toon: Superestrellas | 334930 | [334930-copa-toon-superestrellas.json](./334930-copa-toon-superestrellas.json) |
 | Cope Island: Adrift | 113755 | [113755-cope-island-adrift.json](./113755-cope-island-adrift.json) |
 | Cope: Shodown | 165108 | [165108-cope-shodown.json](./165108-cope-shodown.json) |
