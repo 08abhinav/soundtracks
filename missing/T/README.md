@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tailor Tales: James Plus | 257551 | [257551-tailor-tales-james-plus.json](./257551-tailor-tales-james-plus.json) |
 | Tailor Tales: Neil Plus | 257536 | [257536-tailor-tales-neil-plus.json](./257536-tailor-tales-neil-plus.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
+| Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankHead | 324944 | [324944-tankhead.json](./324944-tankhead.json) |
 | Tanki 2.0 | 344902 | [344902-tanki-2-0.json](./344902-tanki-2-0.json) |
 | Tanki 2011 | 298833 | [298833-tanki-2011.json](./298833-tanki-2011.json) |
+| Tanki Classic | 335640 | [335640-tanki-classic.json](./335640-tanki-classic.json) |
 | Tanki Online | 23614 | [23614-tanki-online.json](./23614-tanki-online.json) |
 | Tanki X | 29163 | [29163-tanki-x.json](./29163-tanki-x.json) |
 | Tanking Tanks | 112375 | [112375-tanking-tanks.json](./112375-tanking-tanks.json) |
@@ -7439,6 +7441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
+| The Great Gonzo’s Ridiculously Dangerous & Downright Foolish Stunt Game | 335725 | [335725-the-great-gonzo-s-ridiculously-dangerous-and-downright-foolish-stunt-game.json](./335725-the-great-gonzo-s-ridiculously-dangerous-and-downright-foolish-stunt-game.json) |
 | The Great Green Mouse Disaster | 83417 | [83417-the-great-green-mouse-disaster.json](./83417-the-great-green-mouse-disaster.json) |
 | The Great Hatch | 348915 | [348915-the-great-hatch.json](./348915-the-great-hatch.json) |
 | The Great Hero's Cat | 209605 | [209605-the-great-heros-cat.json](./209605-the-great-heros-cat.json) |
@@ -9215,6 +9218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time - Expansion Disk | 204383 | [204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json](./204383-the-legend-of-zelda-ocarina-of-time-expansion-disk.json) |
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
+| The Legend of Zelda: Ocarina of Time 3D Randomizer | 335717 | [335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json](./335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Ocarina of Time Randomizer | 203116 | [203116-the-legend-of-zelda-ocarina-of-time-randomizer.json](./203116-the-legend-of-zelda-ocarina-of-time-randomizer.json) |
 | The Legend of Zelda: Oracle of Ages | 1041 | [1041-the-legend-of-zelda-oracle-of-ages.json](./1041-the-legend-of-zelda-oracle-of-ages.json) |
