@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Alchemist House | 197582 | [197582-3d-puzzle-alchemist-house.json](./197582-3d-puzzle-alchemist-house.json) |
 | 3D Puzzle: Apocalyptic Wasteland | 337612 | [337612-3d-puzzle-apocalyptic-wasteland.json](./337612-3d-puzzle-apocalyptic-wasteland.json) |
 | 3D Puzzle: Battle Royal | 254034 | [254034-3d-puzzle-battle-royal.json](./254034-3d-puzzle-battle-royal.json) |
+| 3D Puzzle: Bedroom | 311853 | [311853-3d-puzzle-bedroom.json](./311853-3d-puzzle-bedroom.json) |
 | 3D Puzzle: Breaking Bed | 280314 | [280314-3d-puzzle-breaking-bed.json](./280314-3d-puzzle-breaking-bed.json) |
 | 3D Puzzle: Building | 270864 | [270864-3d-puzzle-building.json](./270864-3d-puzzle-building.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
