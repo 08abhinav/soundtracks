@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Alice's Adventures in Wonderland | 380577 | [380577-walkabout-mini-golf-alices-adventures-in-wonderland.json](./380577-walkabout-mini-golf-alices-adventures-in-wonderland.json) |
 | Walkabout Mini Golf: Atlantis | 232952 | [232952-walkabout-mini-golf-atlantis.json](./232952-walkabout-mini-golf-atlantis.json) |
 | Walkabout Mini Golf: Blokhaven | 408259 | [408259-walkabout-mini-golf-blokhaven.json](./408259-walkabout-mini-golf-blokhaven.json) |
+| Walkabout Mini Golf: Crystal Lair | 360337 | [360337-walkabout-mini-golf-crystal-lair.json](./360337-walkabout-mini-golf-crystal-lair.json) |
 | Walkabout Mini Golf: Forgotten Fairyland | 372655 | [372655-walkabout-mini-golf-forgotten-fairyland.json](./372655-walkabout-mini-golf-forgotten-fairyland.json) |
 | Walkabout Mini Golf: Gardens of Babylon | 196105 | [196105-walkabout-mini-golf-gardens-of-babylon.json](./196105-walkabout-mini-golf-gardens-of-babylon.json) |
 | Walkabout Mini Golf: Jim Henson's Labyrinth | 198158 | [198158-walkabout-mini-golf-jim-hensons-labyrinth.json](./198158-walkabout-mini-golf-jim-hensons-labyrinth.json) |
@@ -297,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Tokyo | 360886 | [360886-walkabout-mini-golf-tokyo.json](./360886-walkabout-mini-golf-tokyo.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
+| Walkabout Mini Golf: Viva Las Elvis | 360338 | [360338-walkabout-mini-golf-viva-las-elvis.json](./360338-walkabout-mini-golf-viva-las-elvis.json) |
 | Walkabout Mini Golf: Widow's Walkabout | 271918 | [271918-walkabout-mini-golf-widows-walkabout.json](./271918-walkabout-mini-golf-widows-walkabout.json) |
 | WalkBot | 212915 | [212915-walkbot.json](./212915-walkbot.json) |
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
