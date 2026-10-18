@@ -10562,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
+| Prison | 348595 | [348595-prison.json](./348595-prison.json) |
 | Prison 69 | 150937 | [150937-prison-69.json](./150937-prison-69.json) |
 | Prison Adventure 3 | 224058 | [224058-prison-adventure-3.json](./224058-prison-adventure-3.json) |
 | Prison Amok | 330841 | [330841-prison-amok.json](./330841-prison-amok.json) |
@@ -12142,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoflesh | 144575 | [144575-psychoflesh.json](./144575-psychoflesh.json) |
 | Psychofunk | 161776 | [161776-psychofunk.json](./161776-psychofunk.json) |
 | Psycholog | 264707 | [264707-psycholog.json](./264707-psycholog.json) |
+| Psychological Challenge | 348561 | [348561-psychological-challenge.json](./348561-psychological-challenge.json) |
 | Psycholytic | 348235 | [348235-psycholytic.json](./348235-psycholytic.json) |
 | Psychomachia | 291218 | [291218-psychomachia.json](./291218-psychomachia.json) |
 | Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
