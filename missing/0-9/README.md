@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
 | 22/7 Ongaku no Jikan | 341856 | [341856-22-7-ongaku-no-jikan.json](./341856-22-7-ongaku-no-jikan.json) |
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
+| 2222 Abyss of the Universe | 329437 | [329437-2222-abyss-of-the-universe.json](./329437-2222-abyss-of-the-universe.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
