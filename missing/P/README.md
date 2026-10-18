@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 12077 | [12077-phoenix-wright-ace-attorney-spirit-of-justice.json](./12077-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
+| Phoenix Wright: Ace Attorney - The Contempt of Court HD | 327686 | [327686-phoenix-wright-ace-attorney-the-contempt-of-court-hd.json](./327686-phoenix-wright-ace-attorney-the-contempt-of-court-hd.json) |
 | Phoenix Wright: Ace Attorney - The Contempt of Court: Refined Edition | 376867 | [376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json](./376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json) |
 | Phoenix Wright: Ace Attorney - The Jakkid Series | 302601 | [302601-phoenix-wright-ace-attorney-the-jakkid-series.json](./302601-phoenix-wright-ace-attorney-the-jakkid-series.json) |
 | Phoenix Wright: Ace Attorney - The Return of Ryunosuke Naruhodo | 302608 | [302608-phoenix-wright-ace-attorney-the-return-of-ryunosuke-naruhodo.json](./302608-phoenix-wright-ace-attorney-the-return-of-ryunosuke-naruhodo.json) |
@@ -4112,6 +4113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 1428 | [1428-phoenix-wright-ace-attorney-trials-and-tribulations.json](./1428-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Trials and Tribulations | 221287 | [221287-phoenix-wright-ace-attorney-trials-and-tribulations.json](./221287-phoenix-wright-ace-attorney-trials-and-tribulations.json) |
 | Phoenix Wright: Ace Attorney - Truth and Consequences | 302651 | [302651-phoenix-wright-ace-attorney-truth-and-consequences.json](./302651-phoenix-wright-ace-attorney-truth-and-consequences.json) |
+| Phoenix Wright: Ace Attorney - Untold Secrets | 327687 | [327687-phoenix-wright-ace-attorney-untold-secrets.json](./327687-phoenix-wright-ace-attorney-untold-secrets.json) |
 | Phoenix Wright: Ace Attorney - Zootopia Defence | 306615 | [306615-phoenix-wright-ace-attorney-zootopia-defence.json](./306615-phoenix-wright-ace-attorney-zootopia-defence.json) |
 | Phoenix Wright: Ace Attorney - Zootopia Defence 2: Hunt For Justice | 306617 | [306617-phoenix-wright-ace-attorney-zootopia-defence-2-hunt-for-justice.json](./306617-phoenix-wright-ace-attorney-zootopia-defence-2-hunt-for-justice.json) |
 | Phoenix Wright: Ace Attorney – Presumption of Guilt | 374129 | [374129-phoenix-wright-ace-attorney-presumption-of-guilt.json](./374129-phoenix-wright-ace-attorney-presumption-of-guilt.json) |
@@ -11141,6 +11143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress Bar Simulator DLC - H.O.R.S.E. 1st | 141662 | [141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json](./141662-progress-bar-simulator-dlc-h-o-r-s-e-1st.json) |
 | Progress Chess | 275547 | [275547-progress-chess.json](./275547-progress-chess.json) |
 | Progress Knight | 177814 | [177814-progress-knight.json](./177814-progress-knight.json) |
+| Progress Knight: Multiplayer | 327663 | [327663-progress-knight-multiplayer.json](./327663-progress-knight-multiplayer.json) |
+| Progress Knight: Remastered | 327662 | [327662-progress-knight-remastered.json](./327662-progress-knight-remastered.json) |
 | Progress Orders | 328491 | [328491-progress-orders.json](./328491-progress-orders.json) |
 | Progress PET: Battle Chip - 539: Noise Storm | 355324 | [355324-progress-pet-battle-chip-539-noise-storm.json](./355324-progress-pet-battle-chip-539-noise-storm.json) |
 | Progress PET: Battle Chip - 540: Life Synchro | 355325 | [355325-progress-pet-battle-chip-540-life-synchro.json](./355325-progress-pet-battle-chip-540-life-synchro.json) |
@@ -11343,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dejavu | 391156 | [391156-project-dejavu.json](./391156-project-dejavu.json) |
 | Project Delta | 189146 | [189146-project-delta.json](./189146-project-delta.json) |
 | Project Demigod | 153945 | [153945-project-demigod.json](./153945-project-demigod.json) |
+| Project Deniz | 327647 | [327647-project-deniz.json](./327647-project-deniz.json) |
 | Project Dew | 215327 | [215327-project-dew.json](./215327-project-dew.json) |
 | Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
