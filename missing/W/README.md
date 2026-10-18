@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Williams Arcade Classics | 71782 | [71782-williams-arcade-classics.json](./71782-williams-arcade-classics.json) |
 | Williams Arcade's Greatest Hits | 20713 | [20713-williams-arcades-greatest-hits.json](./20713-williams-arcades-greatest-hits.json) |
 | Williams Arcade's Greatest Hits | 287084 | [287084-williams-arcades-greatest-hits.json](./287084-williams-arcades-greatest-hits.json) |
+| Williams Digital Arcade | 340793 | [340793-williams-digital-arcade.json](./340793-williams-digital-arcade.json) |
 | Williams Pinball Classics | 343422 | [343422-williams-pinball-classics.json](./343422-williams-pinball-classics.json) |
 | Williams Pinball: Attack from Mars | 354452 | [354452-williams-pinball-attack-from-mars.json](./354452-williams-pinball-attack-from-mars.json) |
 | Williams Pinball: Black Rose | 354456 | [354456-williams-pinball-black-rose.json](./354456-williams-pinball-black-rose.json) |
@@ -6864,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyatt Derp | 57762 | [57762-wyatt-derp.json](./57762-wyatt-derp.json) |
 | Wyatt Derp 2: Peacekeeper | 57722 | [57722-wyatt-derp-2-peacekeeper.json](./57722-wyatt-derp-2-peacekeeper.json) |
 | Wyatt Earp's Old West | 58072 | [58072-wyatt-earps-old-west.json](./58072-wyatt-earps-old-west.json) |
+| Wycheweald | 340730 | [340730-wycheweald.json](./340730-wycheweald.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
