@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Trolls | 245456 | [245456-magic-trolls.json](./245456-magic-trolls.json) |
 | Magic Twins | 132244 | [132244-magic-twins.json](./132244-magic-twins.json) |
 | Magic Unfolding | 385356 | [385356-magic-unfolding.json](./385356-magic-unfolding.json) |
+| Magic Valley Hike | 342427 | [342427-magic-valley-hike.json](./342427-magic-valley-hike.json) |
 | Magic Venue | 303647 | [303647-magic-venue.json](./303647-magic-venue.json) |
 | Magic vs. Metal | 196572 | [196572-magic-vs-metal.json](./196572-magic-vs-metal.json) |
 | Magic vs. Mind | 311601 | [311601-magic-vs-mind.json](./311601-magic-vs-mind.json) |
