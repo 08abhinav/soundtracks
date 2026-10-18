@@ -3396,6 +3396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Tibet | 54354 | [54354-secrets-of-tibet.json](./54354-secrets-of-tibet.json) |
 | Secrets of Velendar Castle: Escape Room | 391066 | [391066-secrets-of-velendar-castle-escape-room.json](./391066-secrets-of-velendar-castle-escape-room.json) |
 | Secrets of War | 117632 | [117632-secrets-of-war.json](./117632-secrets-of-war.json) |
+| Secrets of Worlds: Mystery Agency - Collector's Edition | 338061 | [338061-secrets-of-worlds-mystery-agency-collectors-edition.json](./338061-secrets-of-worlds-mystery-agency-collectors-edition.json) |
 | Secrets of Wynne | 244503 | [244503-secrets-of-wynne.json](./244503-secrets-of-wynne.json) |
 | Secrets Under Eco | 287184 | [287184-secrets-under-eco.json](./287184-secrets-under-eco.json) |
 | Secrets Untold | 182750 | [182750-secrets-untold.json](./182750-secrets-untold.json) |
@@ -9398,6 +9399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slavistan 2 | 110828 | [110828-slavistan-2.json](./110828-slavistan-2.json) |
 | Slavoj Zizek Makes A Twine Game | 139418 | [139418-slavoj-zizek-makes-a-twine-game.json](./139418-slavoj-zizek-makes-a-twine-game.json) |
 | Slay | 104693 | [104693-slay.json](./104693-slay.json) |
+| Slay | 338044 | [338044-slay.json](./338044-slay.json) |
 | Slay All Bosses: Idle | 390114 | [390114-slay-all-bosses-idle.json](./390114-slay-all-bosses-idle.json) |
 | Slay All Goblins | 113481 | [113481-slay-all-goblins.json](./113481-slay-all-goblins.json) |
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
@@ -24227,6 +24229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
 | Supermarket Simulator | 128917 | [128917-supermarket-simulator.json](./128917-supermarket-simulator.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
+| Supermarket Simulator 2025 | 337980 | [337980-supermarket-simulator-2025.json](./337980-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
@@ -25165,6 +25168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
+| Sweet Home: Look and Find 4 - Collector's Edition | 338043 | [338043-sweet-home-look-and-find-4-collectors-edition.json](./338043-sweet-home-look-and-find-4-collectors-edition.json) |
 | Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
 | Sweet Honey | 385800 | [385800-sweet-honey.json](./385800-sweet-honey.json) |
