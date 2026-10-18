@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironpants | 62198 | [62198-ironpants.json](./62198-ironpants.json) |
 | IronSaga | 23904 | [23904-ironsaga.json](./23904-ironsaga.json) |
 | Ironsand | 312749 | [312749-ironsand.json](./312749-ironsand.json) |
+| Ironscale | 349647 | [349647-ironscale.json](./349647-ironscale.json) |
 | Ironseed 2: Consensus | 353800 | [353800-ironseed-2-consensus.json](./353800-ironseed-2-consensus.json) |
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
