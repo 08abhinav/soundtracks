@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Forest | 185135 | [185135-calm-forest.json](./185135-calm-forest.json) |
 | Calm Girls | 158581 | [158581-calm-girls.json](./158581-calm-girls.json) |
 | Calm Horizon | 380050 | [380050-calm-horizon.json](./380050-calm-horizon.json) |
+| Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
@@ -2376,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
 | Castillo: Shattered Mirrors | 328846 | [328846-castillo-shattered-mirrors.json](./328846-castillo-shattered-mirrors.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
+| Casting Away | 318271 | [318271-casting-away.json](./318271-casting-away.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
 | Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
 | Casting Whispers | 250815 | [250815-casting-whispers.json](./250815-casting-whispers.json) |
@@ -7475,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
+| Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
