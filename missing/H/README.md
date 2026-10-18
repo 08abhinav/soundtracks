@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Through Time: Road to Rome | 154515 | [154515-hidden-through-time-road-to-rome.json](./154515-hidden-through-time-road-to-rome.json) |
 | Hidden Through Time: Viking Tales | 154516 | [154516-hidden-through-time-viking-tales.json](./154516-hidden-through-time-viking-tales.json) |
 | Hidden Tomatoes | 326783 | [326783-hidden-tomatoes.json](./326783-hidden-tomatoes.json) |
+| Hidden Tomatoes 2 | 328860 | [328860-hidden-tomatoes-2.json](./328860-hidden-tomatoes-2.json) |
 | Hidden Tomatoes 3 | 330784 | [330784-hidden-tomatoes-3.json](./330784-hidden-tomatoes-3.json) |
 | Hidden Town | 189010 | [189010-hidden-town.json](./189010-hidden-town.json) |
 | Hidden Treasures in the Forest of Dreams | 182327 | [182327-hidden-treasures-in-the-forest-of-dreams.json](./182327-hidden-treasures-in-the-forest-of-dreams.json) |
