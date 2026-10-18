@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
+| Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
