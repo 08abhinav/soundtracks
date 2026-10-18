@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lake Masters Pro | 67300 | [67300-lake-masters-pro.json](./67300-lake-masters-pro.json) |
 | Lake of Creatures | 190990 | [190990-lake-of-creatures.json](./190990-lake-of-creatures.json) |
 | Lake of Darkness | 351116 | [351116-lake-of-darkness.json](./351116-lake-of-darkness.json) |
+| Lake Of Roaches | 311324 | [311324-lake-of-roaches.json](./311324-lake-of-roaches.json) |
 | Lake of Shadows | 165548 | [165548-lake-of-shadows.json](./165548-lake-of-shadows.json) |
 | Lake of Voices | 84020 | [84020-lake-of-voices.json](./84020-lake-of-voices.json) |
 | Lake Ridden | 27943 | [27943-lake-ridden.json](./27943-lake-ridden.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Party | 113166 | [113166-laser-party.json](./113166-laser-party.json) |
 | Laser Push | 176430 | [176430-laser-push.json](./176430-laser-push.json) |
 | Laser Puzzle | 270413 | [270413-laser-puzzle.json](./270413-laser-puzzle.json) |
+| Laser Puzzle II | 311338 | [311338-laser-puzzle-ii.json](./311338-laser-puzzle-ii.json) |
 | Laser Quest | 296069 | [296069-laser-quest.json](./296069-laser-quest.json) |
 | Laser Robot | 66605 | [66605-laser-robot.json](./66605-laser-robot.json) |
 | Laser Run | 70119 | [70119-laser-run.json](./70119-laser-run.json) |
@@ -4966,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
 | Lode Runner | 282565 | [282565-lode-runner.json](./282565-lode-runner.json) |
+| Lode Runner | 311347 | [311347-lode-runner.json](./311347-lode-runner.json) |
 | Lode Runner | 69179 | [69179-lode-runner.json](./69179-lode-runner.json) |
 | Lode Runner - Teikoku Karano Dasshutsu | 40081 | [40081-lode-runner-teikoku-karano-dasshutsu.json](./40081-lode-runner-teikoku-karano-dasshutsu.json) |
 | Lode Runner 2 | 73760 | [73760-lode-runner-2.json](./73760-lode-runner-2.json) |
