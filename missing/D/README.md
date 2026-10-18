@@ -7718,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divide | 18364 | [18364-divide.json](./18364-divide.json) |
 | Divide and Conquer | 356229 | [356229-divide-and-conquer.json](./356229-divide-and-conquer.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
+| Divide By Sheep 2 | 333981 | [333981-divide-by-sheep-2.json](./333981-divide-by-sheep-2.json) |
 | Divide et Impera | 356254 | [356254-divide-et-impera.json](./356254-divide-et-impera.json) |
 | Divided | 94762 | [94762-divided.json](./94762-divided.json) |
 | Divided Empire: Sengoku | 423235 | [423235-divided-empire-sengoku.json](./423235-divided-empire-sengoku.json) |
@@ -8367,6 +8368,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokee the Dog and the Musical Rain | 70615 | [70615-dokee-the-dog-and-the-musical-rain.json](./70615-dokee-the-dog-and-the-musical-rain.json) |
 | Doki Boki International Hentai Language School | 370255 | [370255-doki-boki-international-hentai-language-school.json](./370255-doki-boki-international-hentai-language-school.json) |
 | Doki Boom Dash | 362736 | [362736-doki-boom-dash.json](./362736-doki-boom-dash.json) |
+| Doki Doki 2nd Anniversary | 334013 | [334013-doki-doki-2nd-anniversary.json](./334013-doki-doki-2nd-anniversary.json) |
+| Doki Doki A Brand New Day | 334012 | [334012-doki-doki-a-brand-new-day.json](./334012-doki-doki-a-brand-new-day.json) |
 | Doki Doki A Slice Of Life | 333928 | [333928-doki-doki-a-slice-of-life.json](./333928-doki-doki-a-slice-of-life.json) |
 | Doki Doki A Summer's Requiem | 361806 | [361806-doki-doki-a-summers-requiem.json](./361806-doki-doki-a-summers-requiem.json) |
 | Doki Doki Ace Attorney | 314043 | [314043-doki-doki-ace-attorney.json](./314043-doki-doki-ace-attorney.json) |
@@ -8405,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
+| Doki Doki Our Time | 334009 | [334009-doki-doki-our-time.json](./334009-doki-doki-our-time.json) |
 | Doki Doki Palace | 210590 | [210590-doki-doki-palace.json](./210590-doki-doki-palace.json) |
 | Doki Doki Pink Eyes | 257283 | [257283-doki-doki-pink-eyes.json](./257283-doki-doki-pink-eyes.json) |
 | Doki Doki Pokémon Club! | 360183 | [360183-doki-doki-pokemon-club.json](./360183-doki-doki-pokemon-club.json) |
@@ -8450,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
 | Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
+| Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
 | Dokis World | 269030 | [269030-dokis-world.json](./269030-dokis-world.json) |
 | Dokkaebi Hentai Adventures | 88073 | [88073-dokkaebi-hentai-adventures.json](./88073-dokkaebi-hentai-adventures.json) |
 | Dokkalfheim Magical University | 278526 | [278526-dokkalfheim-magical-university.json](./278526-dokkalfheim-magical-university.json) |
