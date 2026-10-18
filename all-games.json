@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:00:34.102Z",
-  "total_soundtracks": 2138,
+  "generated_at": "2026-10-18T08:00:41.780Z",
+  "total_soundtracks": 2139,
   "games": [
     {
       "igdb_id": 7522,
@@ -11605,6 +11605,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/karma-the-dark-world-official-soundtrack/1802044288?uo=4",
           "album_link_url": "https://album.link/i/1802044288"
+        }
+      ]
+    },
+    {
+      "igdb_id": 6459,
+      "game_name": "Katamari Forever",
+      "game_url": "https://ostdb.net/games/katamari-forever",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27387331aac2268c9631cfeb0c9",
+      "albums": [
+        {
+          "album_name": "Katamari Forever (Original Soundtrack) -Katamari Takeshi",
+          "spotify_url": "https://open.spotify.com/album/7f88Ldo0SBEFPCStTgXPFz",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
