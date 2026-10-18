@@ -8090,6 +8090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
+| Rotational | 331182 | [331182-rotational.json](./331182-rotational.json) |
 | Rotato | 176362 | [176362-rotato.json](./176362-rotato.json) |
 | Rotato | 377595 | [377595-rotato.json](./377595-rotato.json) |
 | Rotato Disc Jam | 176385 | [176385-rotato-disc-jam.json](./176385-rotato-disc-jam.json) |
