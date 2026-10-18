@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tiny Flicker | 201110 | [201110-a-tiny-flicker.json](./201110-a-tiny-flicker.json) |
 | A Tiny Ghost Game | 418608 | [418608-a-tiny-ghost-game.json](./418608-a-tiny-ghost-game.json) |
 | A Tiny Life | 409219 | [409219-a-tiny-life.json](./409219-a-tiny-life.json) |
+| A Tiny Sticker Tale: Magic Book Edition | 350791 | [350791-a-tiny-sticker-tale-magic-book-edition.json](./350791-a-tiny-sticker-tale-magic-book-edition.json) |
 | A Tiny Wander | 324887 | [324887-a-tiny-wander.json](./324887-a-tiny-wander.json) |
 | A Tithe in Blood | 304683 | [304683-a-tithe-in-blood.json](./304683-a-tithe-in-blood.json) |
 | A to Z | 88792 | [88792-a-to-z.json](./88792-a-to-z.json) |
