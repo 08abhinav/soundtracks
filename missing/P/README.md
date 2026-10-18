@@ -9474,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
 | Potato Party: Hash It Out | 144943 | [144943-potato-party-hash-it-out.json](./144943-potato-party-hash-it-out.json) |
 | Potato Party: The Potatomancer | 189063 | [189063-potato-party-the-potatomancer.json](./189063-potato-party-the-potatomancer.json) |
+| Potato Peeling | 354762 | [354762-potato-peeling.json](./354762-potato-peeling.json) |
 | Potato Sack Racing Simulator 2024 | 274581 | [274581-potato-sack-racing-simulator-2024.json](./274581-potato-sack-racing-simulator-2024.json) |
 | Potato Salad | 290960 | [290960-potato-salad.json](./290960-potato-salad.json) |
 | Potato Smash | 165409 | [165409-potato-smash.json](./165409-potato-smash.json) |
@@ -10103,6 +10104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pressure | 15406 | [15406-pressure.json](./15406-pressure.json) |
 | Pressure | 186086 | [186086-pressure.json](./186086-pressure.json) |
 | Pressure Cooker | 25732 | [25732-pressure-cooker.json](./25732-pressure-cooker.json) |
+| Pressure Cooker | 354884 | [354884-pressure-cooker.json](./354884-pressure-cooker.json) |
 | Pressure Gauge | 40756 | [40756-pressure-gauge.json](./40756-pressure-gauge.json) |
 | Pressure Pop! | 209926 | [209926-pressure-pop.json](./209926-pressure-pop.json) |
 | Pressure Within | 225215 | [225215-pressure-within.json](./225215-pressure-within.json) |
@@ -12420,6 +12422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
 | Pumpkins vs. Monsters | 204216 | [204216-pumpkins-vs-monsters.json](./204216-pumpkins-vs-monsters.json) |
+| Pumpomatic | 354764 | [354764-pumpomatic.json](./354764-pumpomatic.json) |
 | PumPum | 159883 | [159883-pumpum.json](./159883-pumpum.json) |
 | PumPum 2 | 226696 | [226696-pumpum-2.json](./226696-pumpum-2.json) |
 | PumPum: +5 Girls Pack | 204065 | [204065-pumpum-5-girls-pack.json](./204065-pumpum-5-girls-pack.json) |
