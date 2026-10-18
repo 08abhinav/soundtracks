@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefleet Gothic: Leviathan | 34371 | [34371-battlefleet-gothic-leviathan.json](./34371-battlefleet-gothic-leviathan.json) |
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
+| Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
+| Beyond One's Past | 333979 | [333979-beyond-ones-past.json](./333979-beyond-ones-past.json) |
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
 | Beyond Perception | 108845 | [108845-beyond-perception.json](./108845-beyond-perception.json) |
 | Beyond Polaris Guardian | 161589 | [161589-beyond-polaris-guardian.json](./161589-beyond-polaris-guardian.json) |
@@ -6074,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
+| Birdigo | 333909 | [333909-birdigo.json](./333909-birdigo.json) |
 | Birding 101 | 185424 | [185424-birding-101.json](./185424-birding-101.json) |
 | Birding Simulator | 191654 | [191654-birding-simulator.json](./191654-birding-simulator.json) |
 | Birdiy | 38592 | [38592-birdiy.json](./38592-birdiy.json) |
@@ -8529,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumen & Muster Puzzle: Echter Puzzlespass für Unterwegs | 252657 | [252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json](./252657-blumen-and-muster-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Blumenmacht | 78913 | [78913-blumenmacht.json](./78913-blumenmacht.json) |
 | Blumgi Castle | 219262 | [219262-blumgi-castle.json](./219262-blumgi-castle.json) |
+| Blumgi Slime | 333995 | [333995-blumgi-slime.json](./333995-blumgi-slime.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
