@@ -8311,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision Course | 30539 | [30539-collision-course.json](./30539-collision-course.json) |
 | Collision Hero | 175854 | [175854-collision-hero.json](./175854-collision-hero.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
+| Collisions: Cosmic Geometry | 346925 | [346925-collisions-cosmic-geometry.json](./346925-collisions-cosmic-geometry.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
@@ -11412,10 +11413,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
 | Crank It Up! | 305911 | [305911-crank-it-up.json](./305911-crank-it-up.json) |
 | Crank Racing! | 413731 | [413731-crank-racing.json](./413731-crank-racing.json) |
+| Crank Snake Saga | 346916 | [346916-crank-snake-saga.json](./346916-crank-snake-saga.json) |
 | Crank Sudoku | 383965 | [383965-crank-sudoku.json](./383965-crank-sudoku.json) |
 | Crank that Clicker | 280138 | [280138-crank-that-clicker.json](./280138-crank-that-clicker.json) |
 | Crank the Weasel | 65481 | [65481-crank-the-weasel.json](./65481-crank-the-weasel.json) |
 | Crank Tower Defense | 347140 | [347140-crank-tower-defense.json](./347140-crank-tower-defense.json) |
+| Crank Up | 346919 | [346919-crank-up.json](./346919-crank-up.json) |
 | Crank-A-Sketch | 202025 | [202025-crank-a-sketch.json](./202025-crank-a-sketch.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
