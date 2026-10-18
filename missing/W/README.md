@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
 | Warna | 377153 | [377153-warna.json](./377153-warna.json) |
+| Warne Shtartik | 344236 | [344236-warne-shtartik.json](./344236-warne-shtartik.json) |
 | Warner Bros. Space Jam | 198899 | [198899-warner-bros-space-jam.json](./198899-warner-bros-space-jam.json) |
 | Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
 | Warno | 187246 | [187246-warno.json](./187246-warno.json) |
@@ -5538,6 +5539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordatro! | 331665 | [331665-wordatro.json](./331665-wordatro.json) |
 | Wordban | 319358 | [319358-wordban.json](./319358-wordban.json) |
 | Wordbase | 86060 | [86060-wordbase.json](./86060-wordbase.json) |
+| Wordbound | 344158 | [344158-wordbound.json](./344158-wordbound.json) |
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
@@ -6790,6 +6792,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
+| WWE SmackDown vs. Raw 2009 | 344148 | [344148-wwe-smackdown-vs-raw-2009.json](./344148-wwe-smackdown-vs-raw-2009.json) |
+| WWE SmackDown vs. Raw 2009 | 344149 | [344149-wwe-smackdown-vs-raw-2009.json](./344149-wwe-smackdown-vs-raw-2009.json) |
 | WWE SmackDown vs. Raw 2010 | 5300 | [5300-wwe-smackdown-vs-raw-2010.json](./5300-wwe-smackdown-vs-raw-2010.json) |
 | WWE SmackDown vs. Raw 2011 | 2265 | [2265-wwe-smackdown-vs-raw-2011.json](./2265-wwe-smackdown-vs-raw-2011.json) |
 | WWE SmackDown vs. Raw Online | 128895 | [128895-wwe-smackdown-vs-raw-online.json](./128895-wwe-smackdown-vs-raw-online.json) |
