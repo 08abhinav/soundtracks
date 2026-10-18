@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Five | 332627 | [332627-fast-five.json](./332627-fast-five.json) |
 | Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
+| Fast Food 2025 Simulator | 336417 | [336417-fast-food-2025-simulator.json](./336417-fast-food-2025-simulator.json) |
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
 | Fast Food Crisis | 266523 | [266523-fast-food-crisis.json](./266523-fast-food-crisis.json) |
 | Fast Food Frog | 358881 | [358881-fast-food-frog.json](./358881-fast-food-frog.json) |
@@ -10028,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa University | 209487 | [209487-futa-university.json](./209487-futa-university.json) |
 | Futa Zone: Lewd Control | 399731 | [399731-futa-zone-lewd-control.json](./399731-futa-zone-lewd-control.json) |
 | Futagoza No Paradox | 143521 | [143521-futagoza-no-paradox.json](./143521-futagoza-no-paradox.json) |
+| Futamata Renai: Two Times the Trouble | 336325 | [336325-futamata-renai-two-times-the-trouble.json](./336325-futamata-renai-two-times-the-trouble.json) |
 | Futanari & Ladyboy BDSM | 384723 | [384723-futanari-and-ladyboy-bdsm.json](./384723-futanari-and-ladyboy-bdsm.json) |
 | Futanari & Ladyboy Hotel | 393837 | [393837-futanari-and-ladyboy-hotel.json](./393837-futanari-and-ladyboy-hotel.json) |
 | Futanari Affairs | 367199 | [367199-futanari-affairs.json](./367199-futanari-affairs.json) |
