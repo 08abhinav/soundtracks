@@ -6260,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Harkinian VR | 411723 | [411723-ship-of-harkinian-vr.json](./411723-ship-of-harkinian-vr.json) |
 | Ship of Heroes | 27515 | [27515-ship-of-heroes.json](./27515-ship-of-heroes.json) |
 | Ship of Love | 340376 | [340376-ship-of-love.json](./340376-ship-of-love.json) |
+| Ship of Mist | 323010 | [323010-ship-of-mist.json](./323010-ship-of-mist.json) |
 | Ship of the Line | 73845 | [73845-ship-of-the-line.json](./73845-ship-of-the-line.json) |
 | Ship on Wheels | 311574 | [311574-ship-on-wheels.json](./311574-ship-on-wheels.json) |
 | Ship Regulus | 263970 | [263970-ship-regulus.json](./263970-ship-regulus.json) |
@@ -9750,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Factory | 367980 | [367980-slime-factory.json](./367980-slime-factory.json) |
 | Slime Fantasy: the search for the lost sword | 142686 | [142686-slime-fantasy-the-search-for-the-lost-sword.json](./142686-slime-fantasy-the-search-for-the-lost-sword.json) |
 | Slime Farm | 298271 | [298271-slime-farm.json](./298271-slime-farm.json) |
+| Slime Feet | 323031 | [323031-slime-feet.json](./323031-slime-feet.json) |
 | Slime Flight: VIP | 95826 | [95826-slime-flight-vip.json](./95826-slime-flight-vip.json) |
 | Slime Garden | 104661 | [104661-slime-garden.json](./104661-slime-garden.json) |
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
@@ -23070,6 +23072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Peach's World | 341923 | [341923-super-mario-in-peachs-world.json](./341923-super-mario-in-peachs-world.json) |
 | Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
+| Super Mario Insanity | 323028 | [323028-super-mario-insanity.json](./323028-super-mario-insanity.json) |
 | Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
@@ -23209,6 +23212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: VIP and Wall Mix 4 | 338804 | [338804-super-mario-world-vip-and-wall-mix-4.json](./338804-super-mario-world-vip-and-wall-mix-4.json) |
 | Super Mario Worldle | 408138 | [408138-super-mario-worldle.json](./408138-super-mario-worldle.json) |
 | Super Mario X | 318024 | [318024-super-mario-x.json](./318024-super-mario-x.json) |
+| Super Mario XP | 323052 | [323052-super-mario-xp.json](./323052-super-mario-xp.json) |
 | Super Mario XP: Super Mario Land | 324082 | [324082-super-mario-xp-super-mario-land.json](./324082-super-mario-xp-super-mario-land.json) |
 | Super Mario: Adventure Awaits | 336102 | [336102-super-mario-adventure-awaits.json](./336102-super-mario-adventure-awaits.json) |
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
