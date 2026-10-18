@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronic City Tycoon | 212504 | [212504-electronic-city-tycoon.json](./212504-electronic-city-tycoon.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
+| Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
 | Electronic Shop Simulator | 344354 | [344354-electronic-shop-simulator.json](./344354-electronic-shop-simulator.json) |
 | Electronic Stock Trading System | 107736 | [107736-electronic-stock-trading-system.json](./107736-electronic-stock-trading-system.json) |
 | Electronic Super Joy | 210289 | [210289-electronic-super-joy.json](./210289-electronic-super-joy.json) |
