@@ -3424,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Rebellion | 90465 | [90465-ai-rebellion.json](./90465-ai-rebellion.json) |
 | Ai Ren Lover | 148328 | [148328-ai-ren-lover.json](./148328-ai-ren-lover.json) |
 | AI Roguelite 2D | 287191 | [287191-ai-roguelite-2d.json](./287191-ai-roguelite-2d.json) |
+| AI Roommate: Life With an Artificial Companion | 359217 | [359217-ai-roommate-life-with-an-artificial-companion.json](./359217-ai-roommate-life-with-an-artificial-companion.json) |
 | AI Schoolgirls Murder Mystery | 312674 | [312674-ai-schoolgirls-murder-mystery.json](./312674-ai-schoolgirls-murder-mystery.json) |
 | Ai Sensei no Oshiete: Watashi no Hoshi | 48668 | [48668-ai-sensei-no-oshiete-watashi-no-hoshi.json](./48668-ai-sensei-no-oshiete-watashi-no-hoshi.json) |
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborn | 114234 | [114234-airborn.json](./114234-airborn.json) |
 | Airborn: Piño's Journey | 60474 | [60474-airborn-pinos-journey.json](./60474-airborn-pinos-journey.json) |
 | Airborne | 281030 | [281030-airborne.json](./281030-airborne.json) |
+| Airborne Alien | 359197 | [359197-airborne-alien.json](./359197-airborne-alien.json) |
 | Airborne Arena | 277854 | [277854-airborne-arena.json](./277854-airborne-arena.json) |
 | Airborne Assault: Conquest of the Aegean | 72759 | [72759-airborne-assault-conquest-of-the-aegean.json](./72759-airborne-assault-conquest-of-the-aegean.json) |
 | Airborne Assault: Highway to Reich | 23751 | [23751-airborne-assault-highway-to-reich.json](./23751-airborne-assault-highway-to-reich.json) |
@@ -12454,6 +12456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avathar: The Legend of Green Dragon | 62066 | [62066-avathar-the-legend-of-green-dragon.json](./62066-avathar-the-legend-of-green-dragon.json) |
 | Avava | 207287 | [207287-avava.json](./207287-avava.json) |
 | Ave Classic | 355185 | [355185-ave-classic.json](./355185-ave-classic.json) |
+| Ave Trail | 359209 | [359209-ave-trail.json](./359209-ave-trail.json) |
 | Avelia | 292318 | [292318-avelia.json](./292318-avelia.json) |
 | Aveliana | 156152 | [156152-aveliana.json](./156152-aveliana.json) |
 | Avem33 | 94128 | [94128-avem33.json](./94128-avem33.json) |
