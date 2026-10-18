@@ -7082,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal School Simulator | 297646 | [297646-animal-school-simulator.json](./297646-animal-school-simulator.json) |
 | Animal Seasons | 82179 | [82179-animal-seasons.json](./82179-animal-seasons.json) |
 | Animal Shake | 295510 | [295510-animal-shake.json](./295510-animal-shake.json) |
+| Animal Shelter | 327688 | [327688-animal-shelter.json](./327688-animal-shelter.json) |
 | Animal Shelter Simulator | 130134 | [130134-animal-shelter-simulator.json](./130134-animal-shelter-simulator.json) |
 | Animal Shelter Simulator: Horse Shelter DLC | 232523 | [232523-animal-shelter-simulator-horse-shelter-dlc.json](./232523-animal-shelter-simulator-horse-shelter-dlc.json) |
 | Animal Shelter Simulator: Puppies & Kittens | 209661 | [209661-animal-shelter-simulator-puppies-and-kittens.json](./209661-animal-shelter-simulator-puppies-and-kittens.json) |
@@ -11474,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
+| Astropulse: Reincarnation | 327646 | [327646-astropulse-reincarnation.json](./327646-astropulse-reincarnation.json) |
 | Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
