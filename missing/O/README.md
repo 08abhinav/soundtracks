@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Home | 357732 | [357732-our-home.json](./357732-our-home.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
+| Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Last Dayz | 249711 | [249711-our-last-dayz.json](./249711-our-last-dayz.json) |
