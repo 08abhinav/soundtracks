@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
 | Galactic Clicker | 102029 | [102029-galactic-clicker.json](./102029-galactic-clicker.json) |
+| Galactic Coffee Shop | 348036 | [348036-galactic-coffee-shop.json](./348036-galactic-coffee-shop.json) |
 | Galactic Command Echo Squad SE | 17156 | [17156-galactic-command-echo-squad-se.json](./17156-galactic-command-echo-squad-se.json) |
 | Galactic Commandos | 250014 | [250014-galactic-commandos.json](./250014-galactic-commandos.json) |
 | Galactic Conquest | 94918 | [94918-galactic-conquest.json](./94918-galactic-conquest.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GolfTopia | 126952 | [126952-golftopia.json](./126952-golftopia.json) |
 | Golftroidvania | 360012 | [360012-golftroidvania.json](./360012-golftroidvania.json) |
 | Golful | 257991 | [257991-golful.json](./257991-golful.json) |
+| Golgalian | 348046 | [348046-golgalian.json](./348046-golgalian.json) |
 | Golgo 13 | 6107 | [6107-golgo-13.json](./6107-golgo-13.json) |
 | Golgo 13: Carlyle no Yabou | 91931 | [91931-golgo-13-carlyle-no-yabou.json](./91931-golgo-13-carlyle-no-yabou.json) |
 | Golgo 13: File G-13 o Oe | 77335 | [77335-golgo-13-file-g-13-o-oe.json](./77335-golgo-13-file-g-13-o-oe.json) |
