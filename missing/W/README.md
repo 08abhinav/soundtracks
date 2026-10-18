@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Bloodline | 139395 | [139395-watch-dogs-legion-bloodline.json](./139395-watch-dogs-legion-bloodline.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
+| Watch Dogs: Legion - Limited Edition Pack | 334550 | [334550-watch-dogs-legion-limited-edition-pack.json](./334550-watch-dogs-legion-limited-edition-pack.json) |
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: DLC to Celebrate the Year of the Dragon | 289326 | [289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json](./289326-world-of-warships-dlc-to-celebrate-the-year-of-the-dragon.json) |
 | World of Warships: Huanghe Pack | 156113 | [156113-world-of-warships-huanghe-pack.json](./156113-world-of-warships-huanghe-pack.json) |
 | World of Warships: Legends | 107250 | [107250-world-of-warships-legends.json](./107250-world-of-warships-legends.json) |
+| World of Warships: Legends - A Tale of Bravery | 334551 | [334551-world-of-warships-legends-a-tale-of-bravery.json](./334551-world-of-warships-legends-a-tale-of-bravery.json) |
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Warships: Legends - Dawn's Guardian | 332046 | [332046-world-of-warships-legends-dawns-guardian.json](./332046-world-of-warships-legends-dawns-guardian.json) |
 | World of Warships: Legends - Eagle Union's Power | 332047 | [332047-world-of-warships-legends-eagle-unions-power.json](./332047-world-of-warships-legends-eagle-unions-power.json) |
@@ -6074,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
+| World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
