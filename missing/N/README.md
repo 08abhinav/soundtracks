@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
 | Necropolis: Brutal Edition | 25337 | [25337-necropolis-brutal-edition.json](./25337-necropolis-brutal-edition.json) |
+| Necros no Yousai | 332213 | [332213-necros-no-yousai.json](./332213-necros-no-yousai.json) |
 | Necroscope | 58889 | [58889-necroscope.json](./58889-necroscope.json) |
 | Necrosis: Reconfigurated | 138551 | [138551-necrosis-reconfigurated.json](./138551-necrosis-reconfigurated.json) |
 | Necrosmith | 204262 | [204262-necrosmith.json](./204262-necrosmith.json) |
@@ -3082,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
+| Night Drive | 332205 | [332205-night-drive.json](./332205-night-drive.json) |
 | Night Driver | 260733 | [260733-night-driver.json](./260733-night-driver.json) |
 | Night Driver | 311116 | [311116-night-driver.json](./311116-night-driver.json) |
 | Night Driver | 328687 | [328687-night-driver.json](./328687-night-driver.json) |
