@@ -8364,6 +8364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Neowave | 5896 | [5896-the-king-of-fighters-neowave.json](./5896-the-king-of-fighters-neowave.json) |
 | The King of Fighters Online | 76968 | [76968-the-king-of-fighters-online.json](./76968-the-king-of-fighters-online.json) |
 | The King of Fighters Wing | 337142 | [337142-the-king-of-fighters-wing.json](./337142-the-king-of-fighters-wing.json) |
+| The King of Fighters XI | 348044 | [348044-the-king-of-fighters-xi.json](./348044-the-king-of-fighters-xi.json) |
 | The King of Fighters XII | 7036 | [7036-the-king-of-fighters-xii.json](./7036-the-king-of-fighters-xii.json) |
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII Steam Edition | 22679 | [22679-the-king-of-fighters-xiii-steam-edition.json](./22679-the-king-of-fighters-xiii-steam-edition.json) |
@@ -10484,6 +10485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
 | The Oregon Trail: Deluxe Edition | 300467 | [300467-the-oregon-trail-deluxe-edition.json](./300467-the-oregon-trail-deluxe-edition.json) |
+| The Organized Capy God | 348037 | [348037-the-organized-capy-god.json](./348037-the-organized-capy-god.json) |
 | The Origin Mission | 174655 | [174655-the-origin-mission.json](./174655-the-origin-mission.json) |
 | The Origin of Hope | 241504 | [241504-the-origin-of-hope.json](./241504-the-origin-of-hope.json) |
 | The Origin Theory: Episode One | 304589 | [304589-the-origin-theory-episode-one.json](./304589-the-origin-theory-episode-one.json) |
@@ -13230,6 +13232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
+| The Uncultured | 348109 | [348109-the-uncultured.json](./348109-the-uncultured.json) |
 | The UNDA Legacy | 408073 | [408073-the-unda-legacy.json](./408073-the-unda-legacy.json) |
 | The Undead | 378155 | [378155-the-undead.json](./378155-the-undead.json) |
 | The Undead Lawyer | 402843 | [402843-the-undead-lawyer.json](./402843-the-undead-lawyer.json) |
@@ -18393,6 +18396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
+| Toon Siege | 348038 | [348038-toon-siege.json](./348038-toon-siege.json) |
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
 | Toon Tastic | 359205 | [359205-toon-tastic.json](./359205-toon-tastic.json) |
@@ -19415,6 +19419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower | 315714 | [315714-tower.json](./315714-tower.json) |
 | Tower 22 | 79383 | [79383-tower-22.json](./79383-tower-22.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
+| Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
 | Tower Attack | 174056 | [174056-tower-attack.json](./174056-tower-attack.json) |
 | Tower Attack | 352301 | [352301-tower-attack.json](./352301-tower-attack.json) |
 | Tower Bloxx | 9452 | [9452-tower-bloxx.json](./9452-tower-bloxx.json) |
