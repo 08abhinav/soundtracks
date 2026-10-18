@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
+| B-Air Micro | 315357 | [315357-b-air-micro.json](./315357-b-air-micro.json) |
 | B-Bobs | 41205 | [41205-b-bobs.json](./41205-b-bobs.json) |
 | B-Boy | 20565 | [20565-b-boy.json](./20565-b-boy.json) |
 | B-Cubed | 159169 | [159169-b-cubed.json](./159169-b-cubed.json) |
@@ -5180,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Plastic Wall | 249901 | [249901-beyond-the-plastic-wall.json](./249901-beyond-the-plastic-wall.json) |
 | Beyond the Portal: Island's Salvation | 296605 | [296605-beyond-the-portal-islands-salvation.json](./296605-beyond-the-portal-islands-salvation.json) |
 | Beyond the Red Line | 69185 | [69185-beyond-the-red-line.json](./69185-beyond-the-red-line.json) |
+| Beyond the Room | 315371 | [315371-beyond-the-room.json](./315371-beyond-the-room.json) |
 | Beyond the Rust | 362895 | [362895-beyond-the-rust.json](./362895-beyond-the-rust.json) |
 | Beyond the Sea | 107707 | [107707-beyond-the-sea.json](./107707-beyond-the-sea.json) |
 | Beyond the Shadow | 219204 | [219204-beyond-the-shadow.json](./219204-beyond-the-shadow.json) |
@@ -9580,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost Arena | 103370 | [103370-boost-arena.json](./103370-boost-arena.json) |
 | Boost Beast | 51518 | [51518-boost-beast.json](./51518-boost-beast.json) |
 | Boost Beginner | 273035 | [273035-boost-beginner.json](./273035-boost-beginner.json) |
+| Boost Panic | 315361 | [315361-boost-panic.json](./315361-boost-panic.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
@@ -9874,6 +9877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottomless Pitfall | 348879 | [348879-bottomless-pitfall.json](./348879-bottomless-pitfall.json) |
 | Bottoms Up | 176941 | [176941-bottoms-up.json](./176941-bottoms-up.json) |
 | Bottop | 329196 | [329196-bottop.json](./329196-bottop.json) |
+| Botworld Odyssey | 315339 | [315339-botworld-odyssey.json](./315339-botworld-odyssey.json) |
 | Bou Ningen Challenge! | 222520 | [222520-bou-ningen-challenge.json](./222520-bou-ningen-challenge.json) |
 | Bou's Revenge | 308351 | [308351-bous-revenge.json](./308351-bous-revenge.json) |
 | Bouboum | 155866 | [155866-bouboum.json](./155866-bouboum.json) |
