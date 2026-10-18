@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
 | Pardon My French Toast | 206041 | [206041-pardon-my-french-toast.json](./206041-pardon-my-french-toast.json) |
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
+| Pareicopse | 323598 | [323598-pareicopse.json](./323598-pareicopse.json) |
 | Pareidolia (or, Why I Saw Pac-Man Everywhere In 2020) | 143343 | [143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json](./143343-pareidolia-or-why-i-saw-pac-man-everywhere-in-2020.json) |
 | pareidolia in █▄██▄▄ | 280796 | [280796-pareidolia-in.json](./280796-pareidolia-in.json) |
 | ParelVR | 410164 | [410164-parelvr.json](./410164-parelvr.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Blood | 112239 | [112239-peach-blood.json](./112239-peach-blood.json) |
 | Peach Clicker | 312761 | [312761-peach-clicker.json](./312761-peach-clicker.json) |
 | Peach Hills Division | 297179 | [297179-peach-hills-division.json](./297179-peach-hills-division.json) |
+| Peach In Space! | 323610 | [323610-peach-in-space.json](./323610-peach-in-space.json) |
 | Peach Tangle | 349269 | [349269-peach-tangle.json](./349269-peach-tangle.json) |
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
