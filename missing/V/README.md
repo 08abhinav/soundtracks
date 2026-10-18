@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
 | Vicera | 321521 | [321521-vicera.json](./321521-vicera.json) |
+| Viceria | 346457 | [346457-viceria.json](./346457-viceria.json) |
 | Vicewave | 141839 | [141839-vicewave.json](./141839-vicewave.json) |
 | Vicious Attack Llama Apocalypse | 44289 | [44289-vicious-attack-llama-apocalypse.json](./44289-vicious-attack-llama-apocalypse.json) |
 | Vicious Circle | 119134 | [119134-vicious-circle.json](./119134-vicious-circle.json) |
@@ -2104,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Remedium | 216858 | [216858-virus-remedium.json](./216858-virus-remedium.json) |
 | Virus Rush | 149403 | [149403-virus-rush.json](./149403-virus-rush.json) |
 | Virus Rush | 288269 | [288269-virus-rush.json](./288269-virus-rush.json) |
+| Virüs Saldırısı | 346464 | [346464-virus-sald-r-s.json](./346464-virus-sald-r-s.json) |
 | Virus: It is Aware | 43794 | [43794-virus-it-is-aware.json](./43794-virus-it-is-aware.json) |
 | Virus: The Battle Field | 177034 | [177034-virus-the-battle-field.json](./177034-virus-the-battle-field.json) |
 | Virus: The Game | 47119 | [47119-virus-the-game.json](./47119-virus-the-game.json) |
