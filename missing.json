@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T11:48:22.889Z",
-  "total_missing": 228040,
+  "generated_at": "2026-10-18T12:03:26.795Z",
+  "total_missing": 228090,
   "games": [
     {
       "igdb_id": 191680,
@@ -83622,6 +83622,11 @@
       "file": "missing/B/60909-ballloon-gentleman.json"
     },
     {
+      "igdb_id": 336942,
+      "game_name": "Ballmaster",
+      "file": "missing/B/336942-ballmaster.json"
+    },
+    {
       "igdb_id": 388214,
       "game_name": "Balloball: Ribbit & Rescue",
       "file": "missing/B/388214-balloball-ribbit-and-rescue.json"
@@ -98565,6 +98570,11 @@
       "igdb_id": 330941,
       "game_name": "Bee Flowers",
       "file": "missing/B/330941-bee-flowers.json"
+    },
+    {
+      "igdb_id": 336876,
+      "game_name": "Bee Flowers: Royal Garden",
+      "file": "missing/B/336876-bee-flowers-royal-garden.json"
     },
     {
       "igdb_id": 263453,
@@ -114885,6 +114895,11 @@
       "igdb_id": 41529,
       "game_name": "Blobbers",
       "file": "missing/B/41529-blobbers.json"
+    },
+    {
+      "igdb_id": 336945,
+      "game_name": "Blobbert 64",
+      "file": "missing/B/336945-blobbert-64.json"
     },
     {
       "igdb_id": 151745,
@@ -170227,6 +170242,11 @@
       "file": "missing/C/224681-chippys-escape-from-seaberry-keep.json"
     },
     {
+      "igdb_id": 336877,
+      "game_name": "Chippy's Stash",
+      "file": "missing/C/336877-chippys-stash.json"
+    },
+    {
       "igdb_id": 106409,
       "game_name": "Chiptune DJ",
       "file": "missing/C/106409-chiptune-dj.json"
@@ -180535,6 +180555,11 @@
       "igdb_id": 217844,
       "game_name": "Clone",
       "file": "missing/C/217844-clone.json"
+    },
+    {
+      "igdb_id": 336972,
+      "game_name": "Clone",
+      "file": "missing/C/336972-clone.json"
     },
     {
       "igdb_id": 64959,
@@ -197967,6 +197992,11 @@
       "file": "missing/C/140443-cotton-reboot.json"
     },
     {
+      "igdb_id": 336949,
+      "game_name": "Cotton Rock n Roll 2",
+      "file": "missing/C/336949-cotton-rock-n-roll-2.json"
+    },
+    {
       "igdb_id": 409886,
       "game_name": "Cotton Rock with You: Oriental Night Dreams",
       "file": "missing/C/409886-cotton-rock-with-you-oriental-night-dreams.json"
@@ -211682,6 +211712,11 @@
       "file": "missing/C/163195-cube-space.json"
     },
     {
+      "igdb_id": 336957,
+      "game_name": "Cube Space",
+      "file": "missing/C/336957-cube-space.json"
+    },
+    {
       "igdb_id": 289765,
       "game_name": "Cube Stack Ultimate",
       "file": "missing/C/289765-cube-stack-ultimate.json"
@@ -211925,6 +211960,11 @@
       "igdb_id": 390081,
       "game_name": "Cuberio",
       "file": "missing/C/390081-cuberio.json"
+    },
+    {
+      "igdb_id": 336954,
+      "game_name": "Cuberun",
+      "file": "missing/C/336954-cuberun.json"
     },
     {
       "igdb_id": 89268,
@@ -276182,6 +276222,11 @@
       "file": "missing/D/152886-dredark.json"
     },
     {
+      "igdb_id": 336950,
+      "game_name": "Dredge: Blackstone Key",
+      "file": "missing/D/336950-dredge-blackstone-key.json"
+    },
+    {
       "igdb_id": 313780,
       "game_name": "Dredge: Complete Edition",
       "file": "missing/D/313780-dredge-complete-edition.json"
@@ -333117,6 +333162,11 @@
       "file": "missing/F/5834-fight-club.json"
     },
     {
+      "igdb_id": 336882,
+      "game_name": "Fight Club World",
+      "file": "missing/F/336882-fight-club-world.json"
+    },
+    {
       "igdb_id": 231058,
       "game_name": "Fight Club: Join us if you can",
       "file": "missing/F/231058-fight-club-join-us-if-you-can.json"
@@ -344455,6 +344505,11 @@
       "igdb_id": 415905,
       "game_name": "Fleshgrinder",
       "file": "missing/F/415905-fleshgrinder.json"
+    },
+    {
+      "igdb_id": 336863,
+      "game_name": "Fleshinsane",
+      "file": "missing/F/336863-fleshinsane.json"
     },
     {
       "igdb_id": 173261,
@@ -362262,6 +362317,11 @@
       "file": "missing/F/91360-frontiersman.json"
     },
     {
+      "igdb_id": 336864,
+      "game_name": "Frontland",
+      "file": "missing/F/336864-frontland.json"
+    },
+    {
       "igdb_id": 275732,
       "game_name": "Frontline 1942",
       "file": "missing/F/275732-frontline-1942.json"
@@ -363300,6 +363360,11 @@
       "igdb_id": 282807,
       "game_name": "Fruit-Fusion",
       "file": "missing/F/282807-fruit-fusion.json"
+    },
+    {
+      "igdb_id": 336870,
+      "game_name": "Fruit: Chain Effect",
+      "file": "missing/F/336870-fruit-chain-effect.json"
     },
     {
       "igdb_id": 258638,
@@ -375970,6 +376035,11 @@
       "igdb_id": 53085,
       "game_name": "Gavin's Quest",
       "file": "missing/G/53085-gavins-quest.json"
+    },
+    {
+      "igdb_id": 336866,
+      "game_name": "Gavis Arenarium",
+      "file": "missing/G/336866-gavis-arenarium.json"
     },
     {
       "igdb_id": 217217,
@@ -389305,6 +389375,11 @@
       "igdb_id": 344407,
       "game_name": "Goddess Scroll: The Last Starlight",
       "file": "missing/G/344407-goddess-scroll-the-last-starlight.json"
+    },
+    {
+      "igdb_id": 336944,
+      "game_name": "Godessess' Whim",
+      "file": "missing/G/336944-godessess-whim.json"
     },
     {
       "igdb_id": 139946,
@@ -402687,6 +402762,11 @@
       "file": "missing/G/201709-groovy.json"
     },
     {
+      "igdb_id": 336861,
+      "game_name": "Groovy Labs",
+      "file": "missing/G/336861-groovy-labs.json"
+    },
+    {
       "igdb_id": 116386,
       "game_name": "Grordbattle",
       "file": "missing/G/116386-grordbattle.json"
@@ -414172,6 +414252,11 @@
       "file": "missing/H/156520-hanoi-puzzles-solid-match.json"
     },
     {
+      "igdb_id": 336953,
+      "game_name": "Hans",
+      "file": "missing/H/336953-hans.json"
+    },
+    {
       "igdb_id": 70120,
       "game_name": "Hans Christian Andersen: The Ugly Prince Duckling",
       "file": "missing/H/70120-hans-christian-andersen-the-ugly-prince-duckling.json"
@@ -425237,6 +425322,11 @@
       "file": "missing/H/354089-hello-world-a-developer-story.json"
     },
     {
+      "igdb_id": 336869,
+      "game_name": "Hello Yuna",
+      "file": "missing/H/336869-hello-yuna.json"
+    },
+    {
       "igdb_id": 364845,
       "game_name": "Hello, Boss!",
       "file": "missing/H/364845-hello-boss.json"
@@ -425665,6 +425755,11 @@
       "igdb_id": 154003,
       "game_name": "Help Me!",
       "file": "missing/H/154003-help-me.json"
+    },
+    {
+      "igdb_id": 336959,
+      "game_name": "Help Me!",
+      "file": "missing/H/336959-help-me.json"
     },
     {
       "igdb_id": 197228,
@@ -473627,6 +473722,11 @@
       "file": "missing/I/270563-into-the-depths-of-despair.json"
     },
     {
+      "igdb_id": 336867,
+      "game_name": "Into The Dread",
+      "file": "missing/I/336867-into-the-dread.json"
+    },
+    {
       "igdb_id": 238983,
       "game_name": "Into the Dungeon",
       "file": "missing/I/238983-into-the-dungeon.json"
@@ -510600,6 +510700,11 @@
       "igdb_id": 77659,
       "game_name": "Kizuna Kirameku Koi Iroha",
       "file": "missing/K/77659-kizuna-kirameku-koi-iroha.json"
+    },
+    {
+      "igdb_id": 336865,
+      "game_name": "Kizunare Fable",
+      "file": "missing/K/336865-kizunare-fable.json"
     },
     {
       "igdb_id": 267009,
@@ -602187,6 +602292,11 @@
       "file": "missing/M/341288-minitale.json"
     },
     {
+      "igdb_id": 336973,
+      "game_name": "MiniTank: Desert Strike",
+      "file": "missing/M/336973-minitank-desert-strike.json"
+    },
+    {
       "igdb_id": 278529,
       "game_name": "Minitechno",
       "file": "missing/M/278529-minitechno.json"
@@ -619065,6 +619175,11 @@
       "igdb_id": 68274,
       "game_name": "Motor Cycle",
       "file": "missing/M/68274-motor-cycle.json"
+    },
+    {
+      "igdb_id": 336875,
+      "game_name": "Motor Depot",
+      "file": "missing/M/336875-motor-depot.json"
     },
     {
       "igdb_id": 55841,
@@ -655757,6 +655872,11 @@
       "file": "missing/N/221638-no-mans-sky-origins.json"
     },
     {
+      "igdb_id": 336874,
+      "game_name": "No Man's Sky: Relics",
+      "file": "missing/N/336874-no-mans-sky-relics.json"
+    },
+    {
       "igdb_id": 325562,
       "game_name": "No Man's Sky: Starborn Phoenix Ship",
       "file": "missing/N/325562-no-mans-sky-starborn-phoenix-ship.json"
@@ -659100,6 +659220,11 @@
       "igdb_id": 19264,
       "game_name": "Norse Noir: Loki's Exile",
       "file": "missing/N/19264-norse-noir-lokis-exile.json"
+    },
+    {
+      "igdb_id": 336868,
+      "game_name": "Norse: Oath of Blood",
+      "file": "missing/N/336868-norse-oath-of-blood.json"
     },
     {
       "igdb_id": 41560,
@@ -679067,6 +679192,11 @@
       "file": "missing/O/14951-osmos.json"
     },
     {
+      "igdb_id": 336946,
+      "game_name": "Osmozys",
+      "file": "missing/O/336946-osmozys.json"
+    },
+    {
       "igdb_id": 48797,
       "game_name": "Osomatsu-kun: Back to the Me no Deppa no Maki",
       "file": "missing/O/48797-osomatsu-kun-back-to-the-me-no-deppa-no-maki.json"
@@ -694320,6 +694450,11 @@
       "igdb_id": 329035,
       "game_name": "Partygoer!",
       "file": "missing/P/329035-partygoer.json"
+    },
+    {
+      "igdb_id": 336943,
+      "game_name": "PartyIcons",
+      "file": "missing/P/336943-partyicons.json"
     },
     {
       "igdb_id": 90769,
@@ -712395,6 +712530,11 @@
       "igdb_id": 258644,
       "game_name": "Pirates of Rectangular",
       "file": "missing/P/258644-pirates-of-rectangular.json"
+    },
+    {
+      "igdb_id": 336955,
+      "game_name": "Pirates of the Asteroid Belt",
+      "file": "missing/P/336955-pirates-of-the-asteroid-belt.json"
     },
     {
       "igdb_id": 116857,
@@ -743202,6 +743342,11 @@
       "file": "missing/P/20296-project-horned-owl.json"
     },
     {
+      "igdb_id": 336862,
+      "game_name": "Project: Icarus",
+      "file": "missing/P/336862-project-icarus.json"
+    },
+    {
       "igdb_id": 246923,
       "game_name": "Project: InfoGrid",
       "file": "missing/P/246923-project-infogrid.json"
@@ -767835,6 +767980,11 @@
       "igdb_id": 119468,
       "game_name": "Real Man Got 100",
       "file": "missing/R/119468-real-man-got-100.json"
+    },
+    {
+      "igdb_id": 336951,
+      "game_name": "Real Man Got 100",
+      "file": "missing/R/336951-real-man-got-100.json"
     },
     {
       "igdb_id": 101586,
@@ -795327,6 +795477,11 @@
       "file": "missing/R/14509-romance-of-the-three-kingdoms.json"
     },
     {
+      "igdb_id": 336965,
+      "game_name": "Romance of the Three Kingdoms",
+      "file": "missing/R/336965-romance-of-the-three-kingdoms.json"
+    },
+    {
       "igdb_id": 392223,
       "game_name": "Romance of the Three Kingdoms",
       "file": "missing/R/392223-romance-of-the-three-kingdoms.json"
@@ -795340,6 +795495,21 @@
       "igdb_id": 317904,
       "game_name": "Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition",
       "file": "missing/R/317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 336966,
+      "game_name": "Romance of the Three Kingdoms 8 Remake: Scenario \"Tiger and Wolf Unleashed\"",
+      "file": "missing/R/336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json"
+    },
+    {
+      "igdb_id": 336967,
+      "game_name": "Romance of the Three Kingdoms 8 Remake: Scenario \"Tiger Generals of the Three Kingdoms, Locked in Battle!\"",
+      "file": "missing/R/336967-romance-of-the-three-kingdoms-8-remake-scenario-tiger-generals-of-the-three-kingdoms-locked-in-battle.json"
+    },
+    {
+      "igdb_id": 336968,
+      "game_name": "Romance of the Three Kingdoms 8 Remake: Scenario \"Valor Triumphs\"",
+      "file": "missing/R/336968-romance-of-the-three-kingdoms-8-remake-scenario-valor-triumphs.json"
     },
     {
       "igdb_id": 371351,
@@ -818877,6 +819047,16 @@
       "file": "missing/S/297734-sea-of-thieves-2024-premium-bundle.json"
     },
     {
+      "igdb_id": 336884,
+      "game_name": "Sea of Thieves: 2025 Deluxe Edition",
+      "file": "missing/S/336884-sea-of-thieves-2025-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 336883,
+      "game_name": "Sea of Thieves: 2025 Premium Edition",
+      "file": "missing/S/336883-sea-of-thieves-2025-premium-edition.json"
+    },
+    {
       "igdb_id": 103284,
       "game_name": "Sea of Thieves: Cursed Sails",
       "file": "missing/S/103284-sea-of-thieves-cursed-sails.json"
@@ -829715,6 +829895,11 @@
       "igdb_id": 285114,
       "game_name": "ShadowStrikeVR",
       "file": "missing/S/285114-shadowstrikevr.json"
+    },
+    {
+      "igdb_id": 336860,
+      "game_name": "Shadowtime",
+      "file": "missing/S/336860-shadowtime.json"
     },
     {
       "igdb_id": 254781,
@@ -871462,6 +871647,11 @@
       "file": "missing/S/259147-soulslinger-envoy-of-death.json"
     },
     {
+      "igdb_id": 336952,
+      "game_name": "Soulssss",
+      "file": "missing/S/336952-soulssss.json"
+    },
+    {
       "igdb_id": 46427,
       "game_name": "Soulstar X",
       "file": "missing/S/46427-soulstar-x.json"
@@ -880652,6 +880842,11 @@
       "file": "missing/S/291910-spells-and-sacrifice.json"
     },
     {
+      "igdb_id": 336971,
+      "game_name": "Spells Dungeon",
+      "file": "missing/S/336971-spells-dungeon.json"
+    },
+    {
       "igdb_id": 176921,
       "game_name": "Spells For Sad Goths With Shitty Parents",
       "file": "missing/S/176921-spells-for-sad-goths-with-shitty-parents.json"
@@ -885415,6 +885610,11 @@
       "igdb_id": 308497,
       "game_name": "Sportitions ’24",
       "file": "missing/S/308497-sportitions-24.json"
+    },
+    {
+      "igdb_id": 336970,
+      "game_name": "SportKill",
+      "file": "missing/S/336970-sportkill.json"
     },
     {
       "igdb_id": 180493,
@@ -1004547,6 +1004747,11 @@
       "file": "missing/T/327861-the-zombie-fortress.json"
     },
     {
+      "igdb_id": 336962,
+      "game_name": "The Zombie Neighborhood",
+      "file": "missing/T/336962-the-zombie-neighborhood.json"
+    },
+    {
       "igdb_id": 54705,
       "game_name": "The Zombie Shotgun Massacre 2",
       "file": "missing/T/54705-the-zombie-shotgun-massacre-2.json"
@@ -1036412,6 +1036617,11 @@
       "file": "missing/T/359972-train-sim-world-5-db-br-101-loco-add-on.json"
     },
     {
+      "igdb_id": 336880,
+      "game_name": "Train Sim World 5: DB BR 111 & n-Wagen Pack",
+      "file": "missing/T/336880-train-sim-world-5-db-br-111-and-n-wagen-pack.json"
+    },
+    {
       "igdb_id": 359962,
       "game_name": "Train Sim World 5: DB BR 155 Loco Add-On",
       "file": "missing/T/359962-train-sim-world-5-db-br-155-loco-add-on.json"
@@ -1036542,6 +1036752,11 @@
       "file": "missing/T/359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json"
     },
     {
+      "igdb_id": 336881,
+      "game_name": "Train Sim World 5: HKA Bogie Hopper Wagon Pack",
+      "file": "missing/T/336881-train-sim-world-5-hka-bogie-hopper-wagon-pack.json"
+    },
+    {
       "igdb_id": 359970,
       "game_name": "Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On",
       "file": "missing/T/359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json"
@@ -1036600,6 +1036815,11 @@
       "igdb_id": 366841,
       "game_name": "Train Sim World 5: MBTA Providence/Stoughton Line HSP46 Pack",
       "file": "missing/T/366841-train-sim-world-5-mbta-providence-stoughton-line-hsp46-pack.json"
+    },
+    {
+      "igdb_id": 336879,
+      "game_name": "Train Sim World 5: Metrolink Holiday Train Pack",
+      "file": "missing/T/336879-train-sim-world-5-metrolink-holiday-train-pack.json"
     },
     {
       "igdb_id": 359947,
@@ -1036740,6 +1036960,11 @@
       "igdb_id": 354562,
       "game_name": "Train Sim World 5: Thomas & Friends 80th Anniversary Expansion",
       "file": "missing/T/354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json"
+    },
+    {
+      "igdb_id": 336885,
+      "game_name": "Train Sim World 5: Thomas & Friends Edition",
+      "file": "missing/T/336885-train-sim-world-5-thomas-and-friends-edition.json"
     },
     {
       "igdb_id": 354561,
@@ -1087427,6 +1087652,11 @@
       "file": "missing/W/285664-wanko-to-asobou-mezase-dog-trainer.json"
     },
     {
+      "igdb_id": 336969,
+      "game_name": "Wanko Wanko Adventure",
+      "file": "missing/W/336969-wanko-wanko-adventure.json"
+    },
+    {
       "igdb_id": 242769,
       "game_name": "Wankuru",
       "file": "missing/W/242769-wankuru.json"
@@ -1114577,6 +1114807,11 @@
       "file": "missing/W/332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json"
     },
     {
+      "igdb_id": 336961,
+      "game_name": "World of Tanks: Modern Armor - The Roar of History",
+      "file": "missing/W/336961-world-of-tanks-modern-armor-the-roar-of-history.json"
+    },
+    {
       "igdb_id": 334290,
       "game_name": "World of Tanks: Modern Armor - TMNT Starter Pack",
       "file": "missing/W/334290-world-of-tanks-modern-armor-tmnt-starter-pack.json"
@@ -1114815,6 +1115050,11 @@
       "igdb_id": 332047,
       "game_name": "World of Warships: Legends - Eagle Union's Power",
       "file": "missing/W/332047-world-of-warships-legends-eagle-unions-power.json"
+    },
+    {
+      "igdb_id": 336960,
+      "game_name": "World of Warships: Legends - Eastern Leaders",
+      "file": "missing/W/336960-world-of-warships-legends-eastern-leaders.json"
     },
     {
       "igdb_id": 332535,
@@ -1127702,6 +1127942,11 @@
       "file": "missing/Y/176515-you-should-eat-breakfast.json"
     },
     {
+      "igdb_id": 336878,
+      "game_name": "You Shouldn't Be Here",
+      "file": "missing/Y/336878-you-shouldnt-be-here.json"
+    },
+    {
       "igdb_id": 340344,
       "game_name": "You Stole My Heart!",
       "file": "missing/Y/340344-you-stole-my-heart.json"
@@ -1134715,6 +1134960,11 @@
       "igdb_id": 337446,
       "game_name": "Zeta's World",
       "file": "missing/Z/337446-zetas-world.json"
+    },
+    {
+      "igdb_id": 336871,
+      "game_name": "ZetaZania Part 1: Vampire Pirates from Uranus",
+      "file": "missing/Z/336871-zetazania-part-1-vampire-pirates-from-uranus.json"
     },
     {
       "igdb_id": 111582,
