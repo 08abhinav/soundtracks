@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
+| Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
