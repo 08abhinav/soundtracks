@@ -932,7 +932,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Solitaire | 354975 | [354975-jet-set-solitaire.json](./354975-jet-set-solitaire.json) |
 | Jet Set Speeders | 330958 | [330958-jet-set-speeders.json](./330958-jet-set-speeders.json) |
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
+| Jet Set Willy Stupid | 329996 | [329996-jet-set-willy-stupid.json](./329996-jet-set-willy-stupid.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
+| Jet Set Willy: The Lord of the Rings | 329998 | [329998-jet-set-willy-the-lord-of-the-rings.json](./329998-jet-set-willy-the-lord-of-the-rings.json) |
+| Jet Set Willy: The Sun Is No Longer Producing Heat | 329995 | [329995-jet-set-willy-the-sun-is-no-longer-producing-heat.json](./329995-jet-set-willy-the-sun-is-no-longer-producing-heat.json) |
 | Jet Ski Addition | 397204 | [397204-jet-ski-addition.json](./397204-jet-ski-addition.json) |
 | Jet Ski Adventure | 359744 | [359744-jet-ski-adventure.json](./359744-jet-ski-adventure.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
