@@ -2944,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order: VR | 53093 | [53093-order-vr.json](./53093-order-vr.json) |
 | Order!! | 408868 | [408868-order.json](./408868-order.json) |
 | Order's Up | 234005 | [234005-orders-up.json](./234005-orders-up.json) |
+| Order9 | 319412 | [319412-order9.json](./319412-order9.json) |
 | Orderly Havoc | 251820 | [251820-orderly-havoc.json](./251820-orderly-havoc.json) |
 | OrderlyWorld | 423288 | [423288-orderlyworld.json](./423288-orderlyworld.json) |
 | Orders of the Ruler | 123366 | [123366-orders-of-the-ruler.json](./123366-orders-of-the-ruler.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ostrich Among Us | 98892 | [98892-ostrich-among-us.json](./98892-ostrich-among-us.json) |
 | Ostrich Farm | 277329 | [277329-ostrich-farm.json](./277329-ostrich-farm.json) |
 | Ostrich Island | 10645 | [10645-ostrich-island.json](./10645-ostrich-island.json) |
+| Ostrich Run | 319426 | [319426-ostrich-run.json](./319426-ostrich-run.json) |
 | Ostrich Runner | 25490 | [25490-ostrich-runner.json](./25490-ostrich-runner.json) |
 | Ostrofa | 115784 | [115784-ostrofa.json](./115784-ostrofa.json) |
 | Ostron | 78989 | [78989-ostron.json](./78989-ostron.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouji-sama Lv1 | 204398 | [204398-ouji-sama-lv1.json](./204398-ouji-sama-lv1.json) |
 | Ouji-sama Lv1.5 | 204477 | [204477-ouji-sama-lv1-5.json](./204477-ouji-sama-lv1-5.json) |
 | Ouji-sama Lv2 | 204399 | [204399-ouji-sama-lv2.json](./204399-ouji-sama-lv2.json) |
+| OuJiang's Labyrinth Adventure | 319406 | [319406-oujiangs-labyrinth-adventure.json](./319406-oujiangs-labyrinth-adventure.json) |
 | Ouju: Isle of the Accursed | 412375 | [412375-ouju-isle-of-the-accursed.json](./412375-ouju-isle-of-the-accursed.json) |
 | Ouka Sabaki | 52137 | [52137-ouka-sabaki.json](./52137-ouka-sabaki.json) |
 | Ouka Sabaki Zan | 52138 | [52138-ouka-sabaki-zan.json](./52138-ouka-sabaki-zan.json) |
