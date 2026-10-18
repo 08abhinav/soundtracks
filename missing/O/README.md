@@ -1652,6 +1652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
+| One Hard Game Please! | 351427 | [351427-one-hard-game-please.json](./351427-one-hard-game-please.json) |
 | One Hell of a Maid | 300532 | [300532-one-hell-of-a-maid.json](./300532-one-hell-of-a-maid.json) |
 | One Hell of a Ride | 218562 | [218562-one-hell-of-a-ride.json](./218562-one-hell-of-a-ride.json) |
 | One Hell of a Trip | 151553 | [151553-one-hell-of-a-trip.json](./151553-one-hell-of-a-trip.json) |
