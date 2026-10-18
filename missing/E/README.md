@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Steel | 349117 | [349117-echoes-of-steel.json](./349117-echoes-of-steel.json) |
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
+| Echoes of the Architects | 323020 | [323020-echoes-of-the-architects.json](./323020-echoes-of-the-architects.json) |
 | Echoes of the Ashen | 290833 | [290833-echoes-of-the-ashen.json](./290833-echoes-of-the-ashen.json) |
 | Echoes of The Backrooms | 303053 | [303053-echoes-of-the-backrooms.json](./303053-echoes-of-the-backrooms.json) |
 | Echoes of the Core | 365840 | [365840-echoes-of-the-core.json](./365840-echoes-of-the-core.json) |
