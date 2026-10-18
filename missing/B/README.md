@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamboo EP | 26667 | [26667-bamboo-ep.json](./26667-bamboo-ep.json) |
 | Bamboo Forest | 161397 | [161397-bamboo-forest.json](./161397-bamboo-forest.json) |
 | Bamboo Panda | 355121 | [355121-bamboo-panda.json](./355121-bamboo-panda.json) |
+| Bamboo Retro Run | 322439 | [322439-bamboo-retro-run.json](./322439-bamboo-retro-run.json) |
 | Bamboozle | 302650 | [302650-bamboozle.json](./302650-bamboozle.json) |
 | Bamerang | 132199 | [132199-bamerang.json](./132199-bamerang.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
@@ -5613,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Blast | 116396 | [116396-bike-blast.json](./116396-bike-blast.json) |
 | Bike Courier: Bistro Express Delivery | 283296 | [283296-bike-courier-bistro-express-delivery.json](./283296-bike-courier-bistro-express-delivery.json) |
 | Bike Dash Excite! | 105230 | [105230-bike-dash-excite.json](./105230-bike-dash-excite.json) |
+| Bike Dirt Extreme 3D | 322438 | [322438-bike-dirt-extreme-3d.json](./322438-bike-dirt-extreme-3d.json) |
 | Bike Food Delivery Simulator | 409669 | [409669-bike-food-delivery-simulator.json](./409669-bike-food-delivery-simulator.json) |
 | Bike Game 3D | 254747 | [254747-bike-game-3d.json](./254747-bike-game-3d.json) |
 | Bike Hike | 362423 | [362423-bike-hike.json](./362423-bike-hike.json) |
@@ -8570,6 +8572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
 | Blues Brothers 2025 | 375502 | [375502-blues-brothers-2025.json](./375502-blues-brothers-2025.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
+| Blues of War | 322437 | [322437-blues-of-war.json](./322437-blues-of-war.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
 | BlueSkies 3 | 291383 | [291383-blueskies-3.json](./291383-blueskies-3.json) |
 | Bluesky Map Jam | 330805 | [330805-bluesky-map-jam.json](./330805-bluesky-map-jam.json) |
