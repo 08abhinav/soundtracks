@@ -14426,6 +14426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Order Maid 3D2: Sweet, Affectionate, and Devoted Long-lost Friend GP-02 | 311717 | [311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json](./311717-custom-order-maid-3d2-sweet-affectionate-and-devoted-long-lost-friend-gp-02.json) |
 | Custom Order Maid 3D2&2.5+: X1+Vol.01 | 311723 | [311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json](./311723-custom-order-maid-3d2-and-2-5-x1-vol-01.json) |
 | Custom Order Maild 3D2: It's a Night Magic Love Hotel Karaoke All in Pack | 275541 | [275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json](./275541-custom-order-maild-3d2-its-a-night-magic-love-hotel-karaoke-all-in-pack.json) |
+| Custom Party | 310831 | [310831-custom-party.json](./310831-custom-party.json) |
 | Custom Robo | 3465 | [3465-custom-robo.json](./3465-custom-robo.json) |
 | Custom Robo Arena | 3466 | [3466-custom-robo-arena.json](./3466-custom-robo-arena.json) |
 | Custom Robo Arena Redux | 219276 | [219276-custom-robo-arena-redux.json](./219276-custom-robo-arena-redux.json) |
