@@ -7648,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Hysteria! | 316261 | [316261-hotel-hysteria.json](./316261-hotel-hysteria.json) |
 | Hotel Infinity | 351048 | [351048-hotel-infinity.json](./351048-hotel-infinity.json) |
 | Hotel Insanity | 324675 | [324675-hotel-insanity.json](./324675-hotel-insanity.json) |
+| Hotel Investigation 09 | 352041 | [352041-hotel-investigation-09.json](./352041-hotel-investigation-09.json) |
 | Hotel Island: Paradise Story! | 88318 | [88318-hotel-island-paradise-story.json](./88318-hotel-island-paradise-story.json) |
 | Hotel Life: A Resort Simulator | 151044 | [151044-hotel-life-a-resort-simulator.json](./151044-hotel-life-a-resort-simulator.json) |
 | Hotel Lust | 367295 | [367295-hotel-lust.json](./367295-hotel-lust.json) |
