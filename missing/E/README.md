@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco City | 397760 | [397760-eco-city.json](./397760-eco-city.json) |
 | Eco City Planner | 381304 | [381304-eco-city-planner.json](./381304-eco-city-planner.json) |
 | Eco ego | 382515 | [382515-eco-ego.json](./382515-eco-ego.json) |
+| Eco Inc. | 327656 | [327656-eco-inc.json](./327656-eco-inc.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
 | Eco Park | 188891 | [188891-eco-park.json](./188891-eco-park.json) |
@@ -5356,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exemption | 118134 | [118134-exemption.json](./118134-exemption.json) |
 | Exer Gale | 297068 | [297068-exer-gale.json](./297068-exer-gale.json) |
 | Exercise Book Epic | 90659 | [90659-exercise-book-epic.json](./90659-exercise-book-epic.json) |
+| Exercise Your Demons! | 327650 | [327650-exercise-your-demons.json](./327650-exercise-your-demons.json) |
 | ExerciseSimulator Vol.1 | 309666 | [309666-exercisesimulator-vol-1.json](./309666-exercisesimulator-vol-1.json) |
 | Exerion | 346070 | [346070-exerion.json](./346070-exerion.json) |
 | Exerion | 6104 | [6104-exerion.json](./6104-exerion.json) |
