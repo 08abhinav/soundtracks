@@ -7059,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Room: Chapter 4 | 246843 | [246843-dirty-room-chapter-4.json](./246843-dirty-room-chapter-4.json) |
 | Dirty Rotten Bounders | 285023 | [285023-dirty-rotten-bounders.json](./285023-dirty-rotten-bounders.json) |
 | Dirty Streamer Puzzle | 244832 | [244832-dirty-streamer-puzzle.json](./244832-dirty-streamer-puzzle.json) |
+| Dirty Swamp | 324170 | [324170-dirty-swamp.json](./324170-dirty-swamp.json) |
 | Dirty Teachers | 368091 | [368091-dirty-teachers.json](./368091-dirty-teachers.json) |
 | Dirty Texts: Are You Sure? | 263221 | [263221-dirty-texts-are-you-sure.json](./263221-dirty-texts-are-you-sure.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
