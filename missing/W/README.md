@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
+| Waternet | 318871 | [318871-waternet.json](./318871-waternet.json) |
 | Waterpark Simulator | 151019 | [151019-waterpark-simulator.json](./151019-waterpark-simulator.json) |
 | Waterpark Simulator | 348648 | [348648-waterpark-simulator.json](./348648-waterpark-simulator.json) |
 | Waterpark Simulator 2025 | 391857 | [391857-waterpark-simulator-2025.json](./391857-waterpark-simulator-2025.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weben Blocks 2 | 210926 | [210926-weben-blocks-2.json](./210926-weben-blocks-2.json) |
 | Webgeon Speedrun Edition | 213393 | [213393-webgeon-speedrun-edition.json](./213393-webgeon-speedrun-edition.json) |
 | Webkinz Classic | 137951 | [137951-webkinz-classic.json](./137951-webkinz-classic.json) |
+| Webkinz Jr. | 318830 | [318830-webkinz-jr.json](./318830-webkinz-jr.json) |
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
 | Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
+| Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
 | Who Framed Roger Rabbit | 75692 | [75692-who-framed-roger-rabbit.json](./75692-who-framed-roger-rabbit.json) |
@@ -3526,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be A Millionaire: US Presidents DLC Pack | 302579 | [302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json](./302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
 | Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
+| Who Wants to Be a Millionaire?: Deluxe Upgrade | 318868 | [318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json](./318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
 | Who Wants To Be A Millionaire?: Tintin Pack | 296250 | [296250-who-wants-to-be-a-millionaire-tintin-pack.json](./296250-who-wants-to-be-a-millionaire-tintin-pack.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
