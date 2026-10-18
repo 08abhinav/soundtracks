@@ -8880,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
 | Bolt | 222926 | [222926-bolt.json](./222926-bolt.json) |
 | Bolt | 4723 | [4723-bolt.json](./4723-bolt.json) |
+| Bolt & Wahlington | 345840 | [345840-bolt-and-wahlington.json](./345840-bolt-and-wahlington.json) |
 | Bolt & Whalington | 401177 | [401177-bolt-and-whalington.json](./401177-bolt-and-whalington.json) |
 | Bolt Action | 380996 | [380996-bolt-action.json](./380996-bolt-action.json) |
 | Bolt Action Stealth | 277506 | [277506-bolt-action-stealth.json](./277506-bolt-action-stealth.json) |
