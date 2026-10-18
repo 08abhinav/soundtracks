@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Washed Upon A Murder | 288467 | [288467-washed-upon-a-murder.json](./288467-washed-upon-a-murder.json) |
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
 | Washington Prime | 387589 | [387589-washington-prime.json](./387589-washington-prime.json) |
+| Washout | 343684 | [343684-washout.json](./343684-washout.json) |
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordle | 265847 | [265847-wordle.json](./265847-wordle.json) |
 | Wordle 3 | 149865 | [149865-wordle-3.json](./149865-wordle-3.json) |
 | Wordle DS | 265142 | [265142-wordle-ds.json](./265142-wordle-ds.json) |
+| Wordle for Commodore 64 | 343696 | [343696-wordle-for-commodore-64.json](./343696-wordle-for-commodore-64.json) |
 | WordLeap | 292300 | [292300-wordleap.json](./292300-wordleap.json) |
 | Wordler | 268024 | [268024-wordler.json](./268024-wordler.json) |
 | Wordless | 193830 | [193830-wordless.json](./193830-wordless.json) |
