@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
+| Zipangu Jima: Unmei ha Saikoro ga Kimeru!? | 350188 | [350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json](./350188-zipangu-jima-unmei-ha-saikoro-ga-kimeru.json) |
 | ZiParate | 218122 | [218122-ziparate.json](./218122-ziparate.json) |
 | Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
