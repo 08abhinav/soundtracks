@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nadir: Giant Hunter | 312958 | [312958-nadir-giant-hunter.json](./312958-nadir-giant-hunter.json) |
 | Nadirim | 92388 | [92388-nadirim.json](./92388-nadirim.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
+| Naelyeojjiggi | 309732 | [309732-naelyeojjiggi.json](./309732-naelyeojjiggi.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
@@ -107,6 +108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nairobi X | 139890 | [139890-nairobi-x.json](./139890-nairobi-x.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
 | Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
+| Naive Boy Super Lash | 309751 | [309751-naive-boy-super-lash.json](./309751-naive-boy-super-lash.json) |
 | Naive Novel | 297744 | [297744-naive-novel.json](./297744-naive-novel.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
 | Nak | 330344 | [330344-nak.json](./330344-nak.json) |
@@ -1293,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nectaris Cellular | 356109 | [356109-nectaris-cellular.json](./356109-nectaris-cellular.json) |
 | Nectaris: Military Madness | 356101 | [356101-nectaris-military-madness.json](./356101-nectaris-military-madness.json) |
 | Nectarmare | 297154 | [297154-nectarmare.json](./297154-nectarmare.json) |
+| Necuratu | 309721 | [309721-necuratu.json](./309721-necuratu.json) |
 | Ned | 253305 | [253305-ned.json](./253305-ned.json) |
 | Ned | 67288 | [67288-ned.json](./67288-ned.json) |
 | Ned Kelly: Armored Outlaw | 204101 | [204101-ned-kelly-armored-outlaw.json](./204101-ned-kelly-armored-outlaw.json) |
@@ -2927,6 +2930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice Shot Golf | 123629 | [123629-nice-shot-golf.json](./123629-nice-shot-golf.json) |
 | Nice Shot! The Gun Golfing Game | 110942 | [110942-nice-shot-the-gun-golfing-game.json](./110942-nice-shot-the-gun-golfing-game.json) |
 | Nice to NO you | 139240 | [139240-nice-to-no-you.json](./139240-nice-to-no-you.json) |
+| Nice To Yeet You | 309761 | [309761-nice-to-yeet-you.json](./309761-nice-to-yeet-you.json) |
 | Nice Try! | 129229 | [129229-nice-try.json](./129229-nice-try.json) |
 | Nice Way | 76689 | [76689-nice-way.json](./76689-nice-way.json) |
 | Niche: Breed and Evolve | 174298 | [174298-niche-breed-and-evolve.json](./174298-niche-breed-and-evolve.json) |
