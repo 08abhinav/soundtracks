@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
+| Labyban | 338596 | [338596-labyban.json](./338596-labyban.json) |
 | LabyrAInth | 348918 | [348918-labyrainth.json](./348918-labyrainth.json) |
 | Labyren | 389086 | [389086-labyren.json](./389086-labyren.json) |
 | LabyrInk | 252287 | [252287-labyrink.json](./252287-labyrink.json) |
