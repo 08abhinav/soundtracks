@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Restart | 240774 | [240774-restart.json](./240774-restart.json) |
+| Restart Heart | 341858 | [341858-restart-heart.json](./341858-restart-heart.json) |
 | Restarting Systems: Smoke's Bizarre Adventure | 378799 | [378799-restarting-systems-smokes-bizarre-adventure.json](./378799-restarting-systems-smokes-bizarre-adventure.json) |
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
