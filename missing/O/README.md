@@ -506,7 +506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ODIA | 135709 | [135709-odia.json](./135709-odia.json) |
 | OdiChat | 258498 | [258498-odichat.json](./258498-odichat.json) |
 | Odile: Black Duckling Tale | 381221 | [381221-odile-black-duckling-tale.json](./381221-odile-black-duckling-tale.json) |
-| Odin Sphere | 9110 | [9110-odin-sphere.json](./9110-odin-sphere.json) |
 | Odin Sphere: Leifthrasir | 15709 | [15709-odin-sphere-leifthrasir.json](./15709-odin-sphere-leifthrasir.json) |
 | Odin: Valhalla Rising | 137939 | [137939-odin-valhalla-rising.json](./137939-odin-valhalla-rising.json) |
 | Odin's Ring | 213443 | [213443-odins-ring.json](./213443-odins-ring.json) |
@@ -3642,7 +3641,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out the Window: a car trip sim | 134691 | [134691-out-the-window-a-car-trip-sim.json](./134691-out-the-window-a-car-trip-sim.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
-| Out There Somewhere | 9878 | [9878-out-there-somewhere.json](./9878-out-there-somewhere.json) |
 | Out There: Omega Edition | 36127 | [36127-out-there-omega-edition.json](./36127-out-there-omega-edition.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
 | Out There: Ω The Alliance | 341053 | [341053-out-there-the-alliance.json](./341053-out-there-the-alliance.json) |
