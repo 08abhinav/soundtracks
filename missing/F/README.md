@@ -5785,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipped | 190737 | [190737-flipped.json](./190737-flipped.json) |
 | Flipped in Love | 143744 | [143744-flipped-in-love.json](./143744-flipped-in-love.json) |
 | Flipped On | 81811 | [81811-flipped-on.json](./81811-flipped-on.json) |
+| Flippee Ball | 316481 | [316481-flippee-ball.json](./316481-flippee-ball.json) |
 | Flippen Run Mike | 158689 | [158689-flippen-run-mike.json](./158689-flippen-run-mike.json) |
 | Flipper | 209454 | [209454-flipper.json](./209454-flipper.json) |
 | Flipper | 80795 | [80795-flipper.json](./80795-flipper.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floor 100 | 370181 | [370181-floor-100.json](./370181-floor-100.json) |
 | Floor 12 | 408074 | [408074-floor-12.json](./408074-floor-12.json) |
 | Floor 13 | 377578 | [377578-floor-13.json](./377578-floor-13.json) |
+| Floor 9 | 316478 | [316478-floor-9.json](./316478-floor-9.json) |
 | Floor Chess | 244747 | [244747-floor-chess.json](./244747-floor-chess.json) |
 | Floor Drop | 413655 | [413655-floor-drop.json](./413655-floor-drop.json) |
 | Floor Fall | 310974 | [310974-floor-fall.json](./310974-floor-fall.json) |
