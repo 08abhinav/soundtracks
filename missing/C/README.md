@@ -7472,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloud Server Simulator | 398595 | [398595-cloud-server-simulator.json](./398595-cloud-server-simulator.json) |
 | Cloud Shadow | 390045 | [390045-cloud-shadow.json](./390045-cloud-shadow.json) |
+| Cloud Storage Botanical Station | 345914 | [345914-cloud-storage-botanical-station.json](./345914-cloud-storage-botanical-station.json) |
 | Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloud: Telos | 236377 | [236377-cloud-telos.json](./236377-cloud-telos.json) |
 | Cloudbase Prime | 31803 | [31803-cloudbase-prime.json](./31803-cloudbase-prime.json) |
@@ -10423,6 +10424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoronaViruses | 151556 | [151556-coronaviruses.json](./151556-coronaviruses.json) |
 | Coronel Indoor Kartracing | 73477 | [73477-coronel-indoor-kartracing.json](./73477-coronel-indoor-kartracing.json) |
 | Coropata | 80582 | [80582-coropata.json](./80582-coropata.json) |
+| CoRoT | 345841 | [345841-corot.json](./345841-corot.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | CorpoNation: The Sorting Process | 219744 | [219744-corponation-the-sorting-process.json](./219744-corponation-the-sorting-process.json) |
 | Corporate 0 | 411123 | [411123-corporate-0.json](./411123-corporate-0.json) |
@@ -12438,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crista Caelestis | 306573 | [306573-crista-caelestis.json](./306573-crista-caelestis.json) |
 | Cristal Absoluto | 411734 | [411734-cristal-absoluto.json](./411734-cristal-absoluto.json) |
 | Cristiano Ronaldo: Kick'n'Run | 314597 | [314597-cristiano-ronaldo-kicknrun.json](./314597-cristiano-ronaldo-kicknrun.json) |
+| Crit Happens! | 345832 | [345832-crit-happens.json](./345832-crit-happens.json) |
 | Criteria | 326203 | [326203-criteria.json](./326203-criteria.json) |
 | Critias Empire | 197123 | [197123-critias-empire.json](./197123-critias-empire.json) |
 | Critical Annihilation | 36027 | [36027-critical-annihilation.json](./36027-critical-annihilation.json) |
