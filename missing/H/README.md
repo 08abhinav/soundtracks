@@ -4071,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
 | Herbtales | 207279 | [207279-herbtales.json](./207279-herbtales.json) |
+| Herc's Adventures | 318269 | [318269-hercs-adventures.json](./318269-hercs-adventures.json) |
 | Hercequary | 56922 | [56922-hercequary.json](./56922-hercequary.json) |
 | Hercules | 95425 | [95425-hercules.json](./95425-hercules.json) |
 | Hercules V: Platinum Edition | 255765 | [255765-hercules-v-platinum-edition.json](./255765-hercules-v-platinum-edition.json) |
@@ -8931,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
+| Hyper Biker | 318260 | [318260-hyper-biker.json](./318260-hyper-biker.json) |
 | Hyper Bishi Bashi Champ | 228466 | [228466-hyper-bishi-bashi-champ.json](./228466-hyper-bishi-bashi-champ.json) |
 | Hyper Black Bass '95 | 61349 | [61349-hyper-black-bass-95.json](./61349-hyper-black-bass-95.json) |
 | Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
