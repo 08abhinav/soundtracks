@@ -771,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-ji no Kane to Cinderella Cinderella Series Triple All Series Pack | 60348 | [60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json](./60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json) |
 | 12-Sai: Honto no Kimochi | 59212 | [59212-12-sai-honto-no-kimochi.json](./59212-12-sai-honto-no-kimochi.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
+| 12.12.25 | 339078 | [339078-12-12-25.json](./339078-12-12-25.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
 | 1213: Episode 2 | 79143 | [79143-1213-episode-2.json](./79143-1213-episode-2.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-Demon | 14470 | [14470-3-demon.json](./14470-3-demon.json) |
 | 3-in-1 Animated Jigsaws Bundle | 399632 | [399632-3-in-1-animated-jigsaws-bundle.json](./399632-3-in-1-animated-jigsaws-bundle.json) |
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
+| 3-in-1 Easter Collection | 339066 | [339066-3-in-1-easter-collection.json](./339066-3-in-1-easter-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
 | 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
 | 3-K Trivia | 100108 | [100108-3-k-trivia.json](./100108-3-k-trivia.json) |
