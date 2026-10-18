@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game no Tetsujin: The Shanghai | 44413 | [44413-game-no-tetsujin-the-shanghai.json](./44413-game-no-tetsujin-the-shanghai.json) |
 | Game of Chaloupe | 105758 | [105758-game-of-chaloupe.json](./105758-game-of-chaloupe.json) |
 | Game of Clowns | 27806 | [27806-game-of-clowns.json](./27806-game-of-clowns.json) |
+| Game of Crafts | 333992 | [333992-game-of-crafts.json](./333992-game-of-crafts.json) |
 | Game of Dice | 374909 | [374909-game-of-dice.json](./374909-game-of-dice.json) |
 | Game of Dice | 58793 | [58793-game-of-dice.json](./58793-game-of-dice.json) |
 | Game of Dice | 58898 | [58898-game-of-dice.json](./58898-game-of-dice.json) |
