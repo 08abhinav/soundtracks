@@ -8614,6 +8614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Defense! | 154264 | [154264-the-last-defense.json](./154264-the-last-defense.json) |
 | The Last Delivery Man on Earth | 374593 | [374593-the-last-delivery-man-on-earth.json](./374593-the-last-delivery-man-on-earth.json) |
 | The Last Delivery: Nightmare Courier | 380066 | [380066-the-last-delivery-nightmare-courier.json](./380066-the-last-delivery-nightmare-courier.json) |
+| The Last Dig | 344729 | [344729-the-last-dig.json](./344729-the-last-dig.json) |
 | The Last Dimension | 301371 | [301371-the-last-dimension.json](./301371-the-last-dimension.json) |
 | The Last Dinner | 113493 | [113493-the-last-dinner.json](./113493-the-last-dinner.json) |
 | The Last Disease Z | 414114 | [414114-the-last-disease-z.json](./414114-the-last-disease-z.json) |
@@ -8706,6 +8707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
 | The Last Memory of a Burning Thought | 335655 | [335655-the-last-memory-of-a-burning-thought.json](./335655-the-last-memory-of-a-burning-thought.json) |
+| The Last Mile | 344793 | [344793-the-last-mile.json](./344793-the-last-mile.json) |
 | The Last Mission | 298633 | [298633-the-last-mission.json](./298633-the-last-mission.json) |
 | The Last Mission | 41798 | [41798-the-last-mission.json](./41798-the-last-mission.json) |
 | The Last Mission | 55078 | [55078-the-last-mission.json](./55078-the-last-mission.json) |
@@ -12364,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
 | The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
 | The Stick and the Basket | 215786 | [215786-the-stick-and-the-basket.json](./215786-the-stick-and-the-basket.json) |
+| The Stick Figure Game | 344726 | [344726-the-stick-figure-game.json](./344726-the-stick-figure-game.json) |
 | The Stickman | 341027 | [341027-the-stickman.json](./341027-the-stickman.json) |
 | The Sticky Plan | 183577 | [183577-the-sticky-plan.json](./183577-the-sticky-plan.json) |
 | The Still | 373826 | [373826-the-still.json](./373826-the-still.json) |
@@ -19681,6 +19684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
 | Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
+| Towerdefense Blobsmash | 344730 | [344730-towerdefense-blobsmash.json](./344730-towerdefense-blobsmash.json) |
 | Towerfall 8-Player | 133331 | [133331-towerfall-8-player.json](./133331-towerfall-8-player.json) |
 | TowerFall Ascension | 9567 | [9567-towerfall-ascension.json](./9567-towerfall-ascension.json) |
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
@@ -23963,6 +23967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Strikes | 149693 | [149693-two-strikes.json](./149693-two-strikes.json) |
 | Two Strikes: Baki Hanma | 372085 | [372085-two-strikes-baki-hanma.json](./372085-two-strikes-baki-hanma.json) |
 | Two Tamarind Seeds | 179106 | [179106-two-tamarind-seeds.json](./179106-two-tamarind-seeds.json) |
+| Two the Top | 344703 | [344703-two-the-top.json](./344703-two-the-top.json) |
 | Two Thrones | 72288 | [72288-two-thrones.json](./72288-two-thrones.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
