@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
 | Vampire Tourist | 230199 | [230199-vampire-tourist.json](./230199-vampire-tourist.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
+| Vampire vs. Pope Army | 354225 | [354225-vampire-vs-pope-army.json](./354225-vampire-vs-pope-army.json) |
 | Vampire: Darkness Falls | 300826 | [300826-vampire-darkness-falls.json](./300826-vampire-darkness-falls.json) |
 | Vampire: Darkstalkers Collection | 20012 | [20012-vampire-darkstalkers-collection.json](./20012-vampire-darkstalkers-collection.json) |
 | Vampire: Master of Darkness | 8039 | [8039-vampire-master-of-darkness.json](./8039-vampire-master-of-darkness.json) |
