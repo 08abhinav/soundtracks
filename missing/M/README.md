@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Game | 276419 | [276419-mario-game.json](./276419-mario-game.json) |
 | Mario Gives Up | 272818 | [272818-mario-gives-up.json](./272818-mario-gives-up.json) |
 | Mario Goes Skateboarding 64 | 338307 | [338307-mario-goes-skateboarding-64.json](./338307-mario-goes-skateboarding-64.json) |
+| Mario Goes to the Store & Buys a Gallon of Milk | 327028 | [327028-mario-goes-to-the-store-and-buys-a-gallon-of-milk.json](./327028-mario-goes-to-the-store-and-buys-a-gallon-of-milk.json) |
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
@@ -6663,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
+| Mercenaries 3: No Limits | 327016 | [327016-mercenaries-3-no-limits.json](./327016-mercenaries-3-no-limits.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
 | Mercenaries of the Kingdom: First Blood | 269481 | [269481-mercenaries-of-the-kingdom-first-blood.json](./269481-mercenaries-of-the-kingdom-first-blood.json) |
@@ -8948,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: PlayStation 4 Edition | 93620 | [93620-minecraft-playstation-4-edition.json](./93620-minecraft-playstation-4-edition.json) |
 | Minecraft: Playstation Vita Edition | 42696 | [42696-minecraft-playstation-vita-edition.json](./42696-minecraft-playstation-vita-edition.json) |
 | Minecraft: Power Grid Hero | 315516 | [315516-minecraft-power-grid-hero.json](./315516-minecraft-power-grid-hero.json) |
+| Minecraft: PS1 Edition | 327037 | [327037-minecraft-ps1-edition.json](./327037-minecraft-ps1-edition.json) |
 | Minecraft: Quantum Realm | 333582 | [333582-minecraft-quantum-realm.json](./333582-minecraft-quantum-realm.json) |
 | Minecraft: Skin Pack 3 | 302607 | [302607-minecraft-skin-pack-3.json](./302607-minecraft-skin-pack-3.json) |
 | Minecraft: Skin Pack 3 - Classic | 316749 | [316749-minecraft-skin-pack-3-classic.json](./316749-minecraft-skin-pack-3-classic.json) |
