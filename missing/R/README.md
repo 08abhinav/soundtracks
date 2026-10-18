@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redaxium 2 | 207294 | [207294-redaxium-2.json](./207294-redaxium-2.json) |
 | REday -1 | 377931 | [377931-reday-1.json](./377931-reday-1.json) |
 | Redbean | 412464 | [412464-redbean.json](./412464-redbean.json) |
+| Redbeard's Recoil | 344707 | [344707-redbeards-recoil.json](./344707-redbeards-recoil.json) |
 | RedBull Car Park Drift | 120349 | [120349-redbull-car-park-drift.json](./120349-redbull-car-park-drift.json) |
 | RedCard 2003 | 46027 | [46027-redcard-2003.json](./46027-redcard-2003.json) |
 | RedCat 2: De Ontvoering van Prinses Dana | 242634 | [242634-redcat-2-de-ontvoering-van-prinses-dana.json](./242634-redcat-2-de-ontvoering-van-prinses-dana.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RLChess | 333189 | [333189-rlchess.json](./333189-rlchess.json) |
 | RLCraft | 203457 | [203457-rlcraft.json](./203457-rlcraft.json) |
 | RLLL: Tower of Choices | 172457 | [172457-rlll-tower-of-choices.json](./172457-rlll-tower-of-choices.json) |
+| RMF's Ragdoll Physics Experiments | 344800 | [344800-rmfs-ragdoll-physics-experiments.json](./344800-rmfs-ragdoll-physics-experiments.json) |
 | RNFF: Running Naked in a Field of Flowers | 69544 | [69544-rnff-running-naked-in-a-field-of-flowers.json](./69544-rnff-running-naked-in-a-field-of-flowers.json) |
 | RNG Quest | 338865 | [338865-rng-quest.json](./338865-rng-quest.json) |
 | RNG Quest | 338866 | [338866-rng-quest.json](./338866-rng-quest.json) |
