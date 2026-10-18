@@ -5216,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
+| Shalnor: Silverwind Saga | 319443 | [319443-shalnor-silverwind-saga.json](./319443-shalnor-silverwind-saga.json) |
 | Shalnor: Silverwind Saga 2 | 391012 | [391012-shalnor-silverwind-saga-2.json](./391012-shalnor-silverwind-saga-2.json) |
 | Shalnor: Silverwind Saga Bundle | 417285 | [417285-shalnor-silverwind-saga-bundle.json](./417285-shalnor-silverwind-saga-bundle.json) |
 | Shalter 03 | 412442 | [412442-shalter-03.json](./412442-shalter-03.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shame Legacy: The Cult Edition | 246297 | [246297-shame-legacy-the-cult-edition.json](./246297-shame-legacy-the-cult-edition.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
+| Shamoji | 319418 | [319418-shamoji.json](./319418-shamoji.json) |
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
 | Shan Gui | 17533 | [17533-shan-gui.json](./17533-shan-gui.json) |
@@ -14495,6 +14497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Survivor | 245334 | [245334-space-survivor.json](./245334-space-survivor.json) |
 | Space Survivor | 289553 | [289553-space-survivor.json](./289553-space-survivor.json) |
 | Space Survivor VR AR | 404354 | [404354-space-survivor-vr-ar.json](./404354-space-survivor-vr-ar.json) |
+| Space Survivors | 319416 | [319416-space-survivors.json](./319416-space-survivors.json) |
 | Space Swap 110% | 392950 | [392950-space-swap-110.json](./392950-space-swap-110.json) |
 | Space Sweeper | 59795 | [59795-space-sweeper.json](./59795-space-sweeper.json) |
 | Space Tail | 361876 | [361876-space-tail.json](./361876-space-tail.json) |
@@ -15407,6 +15410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
+| Spellscaper | 319440 | [319440-spellscaper.json](./319440-spellscaper.json) |
 | Spellscribe | 211634 | [211634-spellscribe.json](./211634-spellscribe.json) |
 | Spellseeker | 384261 | [384261-spellseeker.json](./384261-spellseeker.json) |
 | Spellshaper | 213451 | [213451-spellshaper.json](./213451-spellshaper.json) |
@@ -21408,6 +21412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Style: Complete Edition | 141892 | [141892-sugar-style-complete-edition.json](./141892-sugar-style-complete-edition.json) |
 | Sugar Sugar Rune: Heart Ga Ippai! Moegi Gakuen | 49811 | [49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json](./49811-sugar-sugar-rune-heart-ga-ippai-moegi-gakuen.json) |
 | Sugar, Sugar | 89099 | [89099-sugar-sugar.json](./89099-sugar-sugar.json) |
+| Sugar, Sugar: The Christmas Special | 319429 | [319429-sugar-sugar-the-christmas-special.json](./319429-sugar-sugar-the-christmas-special.json) |
 | Sugar's Delight | 172445 | [172445-sugars-delight.json](./172445-sugars-delight.json) |
 | Sugarbound | 334288 | [334288-sugarbound.json](./334288-sugarbound.json) |
 | Sugarbunnies Wii: Youkoso Bunnies Field he | 409015 | [409015-sugarbunnies-wii-youkoso-bunnies-field-he.json](./409015-sugarbunnies-wii-youkoso-bunnies-field-he.json) |
