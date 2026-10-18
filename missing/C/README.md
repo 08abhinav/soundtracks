@@ -2111,6 +2111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Kings | 345267 | [345267-cartel-kings.json](./345267-cartel-kings.json) |
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
+| Cartel Simulator | 312414 | [312414-cartel-simulator.json](./312414-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
 | Casino Inc: The Management | 70951 | [70951-casino-inc-the-management.json](./70951-casino-inc-the-management.json) |
+| Casino Island Simulator | 312452 | [312452-casino-island-simulator.json](./312452-casino-island-simulator.json) |
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
@@ -4573,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheery Soccer | 196620 | [196620-cheery-soccer.json](./196620-cheery-soccer.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese Co-op Clicker Simulator | 312453 | [312453-cheese-co-op-clicker-simulator.json](./312453-cheese-co-op-clicker-simulator.json) |
 | Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
 | Cheese Dreams | 378974 | [378974-cheese-dreams.json](./378974-cheese-dreams.json) |
 | Cheese Dreams New Moon | 326738 | [326738-cheese-dreams-new-moon.json](./326738-cheese-dreams-new-moon.json) |
@@ -7831,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coach Bus Driving Simulator | 308809 | [308809-coach-bus-driving-simulator.json](./308809-coach-bus-driving-simulator.json) |
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
+| Coaching Simulator | 312448 | [312448-coaching-simulator.json](./312448-coaching-simulator.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
