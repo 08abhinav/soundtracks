@@ -1211,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
 | AbalaBurn | 43819 | [43819-abalaburn.json](./43819-abalaburn.json) |
+| Abalone | 328242 | [328242-abalone.json](./328242-abalone.json) |
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
+| Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Aces of the Air | 43938 | [43938-aces-of-the-air.json](./43938-aces-of-the-air.json) |
 | Aces of the Deep | 12384 | [12384-aces-of-the-deep.json](./12384-aces-of-the-deep.json) |
 | Aces of the Galaxy | 15766 | [15766-aces-of-the-galaxy.json](./15766-aces-of-the-galaxy.json) |
@@ -2639,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
 | Aegis Dilemma: Veritas Omnia Vincit | 279265 | [279265-aegis-dilemma-veritas-omnia-vincit.json](./279265-aegis-dilemma-veritas-omnia-vincit.json) |
+| Aegis Force: The Scorian War | 328227 | [328227-aegis-force-the-scorian-war.json](./328227-aegis-force-the-scorian-war.json) |
 | Aegis Kingdoms | 216463 | [216463-aegis-kingdoms.json](./216463-aegis-kingdoms.json) |
 | Aegis of Earth: Protonovus Assault | 20070 | [20070-aegis-of-earth-protonovus-assault.json](./20070-aegis-of-earth-protonovus-assault.json) |
 | Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
