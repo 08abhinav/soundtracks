@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:02:06.206Z",
-  "total_missing": 227384,
+  "generated_at": "2026-10-18T08:06:21.543Z",
+  "total_missing": 227383,
   "games": [
     {
       "igdb_id": 191680,
@@ -40235,11 +40235,6 @@
       "igdb_id": 28771,
       "game_name": "Alvora Tactics",
       "file": "missing/A/28771-alvora-tactics.json"
-    },
-    {
-      "igdb_id": 10681,
-      "game_name": "Alwa's Awakening",
-      "file": "missing/A/10681-alwas-awakening.json"
     },
     {
       "igdb_id": 214532,
