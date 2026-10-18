@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of the Wild West | 181643 | [181643-jewels-of-the-wild-west.json](./181643-jewels-of-the-wild-west.json) |
 | Jewels Palace | 114757 | [114757-jewels-palace.json](./114757-jewels-palace.json) |
 | Jewels Time : Endless match | 108510 | [108510-jewels-time-endless-match.json](./108510-jewels-time-endless-match.json) |
+| Jex | 318245 | [318245-jex.json](./318245-jex.json) |
 | Jezebel and the Flame | 186254 | [186254-jezebel-and-the-flame.json](./186254-jezebel-and-the-flame.json) |
 | Jezebel: Givin' Love a Shot | 260611 | [260611-jezebel-givin-love-a-shot.json](./260611-jezebel-givin-love-a-shot.json) |
 | Jezzak | 263591 | [263591-jezzak.json](./263591-jezzak.json) |
