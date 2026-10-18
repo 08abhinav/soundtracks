@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:37:47.082Z",
-  "total_missing": 227411,
+  "generated_at": "2026-10-18T08:42:55.872Z",
+  "total_missing": 227400,
   "games": [
     {
       "igdb_id": 191680,
@@ -124177,11 +124177,6 @@
       "file": "missing/B/100891-boom-blaster.json"
     },
     {
-      "igdb_id": 2259,
-      "game_name": "Boom Blox",
-      "file": "missing/B/2259-boom-blox.json"
-    },
-    {
       "igdb_id": 120118,
       "game_name": "Boom Boom Bovine",
       "file": "missing/B/120118-boom-boom-bovine.json"
@@ -125805,11 +125800,6 @@
       "igdb_id": 229673,
       "game_name": "Botaniki",
       "file": "missing/B/229673-botaniki.json"
-    },
-    {
-      "igdb_id": 225426,
-      "game_name": "Botany Manor",
-      "file": "missing/B/225426-botany-manor.json"
     },
     {
       "igdb_id": 59782,
@@ -244117,11 +244107,6 @@
       "file": "missing/D/112124-destruction.json"
     },
     {
-      "igdb_id": 134587,
-      "game_name": "Destruction AllStars",
-      "file": "missing/D/134587-destruction-allstars.json"
-    },
-    {
       "igdb_id": 412362,
       "game_name": "Destruction AllStars: Season 1 - Hotshots",
       "file": "missing/D/412362-destruction-allstars-season-1-hotshots.json"
@@ -301270,11 +301255,6 @@
       "igdb_id": 236884,
       "game_name": "Entrepreneurial tycoon",
       "file": "missing/E/236884-entrepreneurial-tycoon.json"
-    },
-    {
-      "igdb_id": 3086,
-      "game_name": "Entropia Universe",
-      "file": "missing/E/3086-entropia-universe.json"
     },
     {
       "igdb_id": 192622,
@@ -583692,11 +583672,6 @@
       "file": "missing/M/33666-melancholy-republic.json"
     },
     {
-      "igdb_id": 157756,
-      "game_name": "Melatonin",
-      "file": "missing/M/157756-melatonin.json"
-    },
-    {
       "igdb_id": 138236,
       "game_name": "Melbits POD",
       "file": "missing/M/138236-melbits-pod.json"
@@ -654317,11 +654292,6 @@
       "file": "missing/N/253883-no-stone-unturned.json"
     },
     {
-      "igdb_id": 114783,
-      "game_name": "No Straight Roads",
-      "file": "missing/N/114783-no-straight-roads.json"
-    },
-    {
       "igdb_id": 347868,
       "game_name": "No Straight Roads 2",
       "file": "missing/N/347868-no-straight-roads-2.json"
@@ -666340,11 +666310,6 @@
       "igdb_id": 76681,
       "game_name": "Old Watch",
       "file": "missing/O/76681-old-watch.json"
-    },
-    {
-      "igdb_id": 133674,
-      "game_name": "Old World",
-      "file": "missing/O/133674-old-world.json"
     },
     {
       "igdb_id": 321740,
@@ -693670,11 +693635,6 @@
       "igdb_id": 133975,
       "game_name": "Pathway",
       "file": "missing/P/133975-pathway.json"
-    },
-    {
-      "igdb_id": 26597,
-      "game_name": "Pathway",
-      "file": "missing/P/26597-pathway.json"
     },
     {
       "igdb_id": 6270,
@@ -775517,11 +775477,6 @@
       "file": "missing/R/270711-resistance-rocks.json"
     },
     {
-      "igdb_id": 22885,
-      "game_name": "Resistance: Retribution",
-      "file": "missing/R/22885-resistance-retribution.json"
-    },
-    {
       "igdb_id": 192689,
       "game_name": "Resistance: The 8th Wave",
       "file": "missing/R/192689-resistance-the-8th-wave.json"
@@ -857222,11 +857177,6 @@
       "file": "missing/S/256184-snowboard-hero.json"
     },
     {
-      "igdb_id": 3343,
-      "game_name": "Snowboard Kids 2",
-      "file": "missing/S/3343-snowboard-kids-2.json"
-    },
-    {
       "igdb_id": 72103,
       "game_name": "Snowboard Kids Plus",
       "file": "missing/S/72103-snowboard-kids-plus.json"
@@ -857900,11 +857850,6 @@
       "igdb_id": 399121,
       "game_name": "Snuff",
       "file": "missing/S/399121-snuff.json"
-    },
-    {
-      "igdb_id": 180149,
-      "game_name": "Snufkin: Melody of Moominvalley",
-      "file": "missing/S/180149-snufkin-melody-of-moominvalley.json"
     },
     {
       "igdb_id": 288289,
