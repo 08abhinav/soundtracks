@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceminer | 257986 | [257986-faceminer.json](./257986-faceminer.json) |
 | Faceoff Hockey 2016 | 58890 | [58890-faceoff-hockey-2016.json](./58890-faceoff-hockey-2016.json) |
 | FaceRig | 11305 | [11305-facerig.json](./11305-facerig.json) |
+| Faces of the Forest | 323596 | [323596-faces-of-the-forest.json](./323596-faces-of-the-forest.json) |
 | Faces...tris III | 79320 | [79320-faces-tris-iii.json](./79320-faces-tris-iii.json) |
 | Facettes | 155855 | [155855-facettes.json](./155855-facettes.json) |
 | Facewound | 243111 | [243111-facewound.json](./243111-facewound.json) |
@@ -361,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
+| Factum Solus | 323562 | [323562-factum-solus.json](./323562-factum-solus.json) |
 | Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
@@ -2690,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed My Raptor 2 | 340528 | [340528-feed-my-raptor-2.json](./340528-feed-my-raptor-2.json) |
 | Feed My Raptor VR | 391839 | [391839-feed-my-raptor-vr.json](./391839-feed-my-raptor-vr.json) |
 | Feed of Comfort | 176238 | [176238-feed-of-comfort.json](./176238-feed-of-comfort.json) |
+| Feed Pete | 323606 | [323606-feed-pete.json](./323606-feed-pete.json) |
 | Feed Sort | 246530 | [246530-feed-sort.json](./246530-feed-sort.json) |
 | Feed the AI | 398585 | [398585-feed-the-ai.json](./398585-feed-the-ai.json) |
 | Feed the Animals | 75916 | [75916-feed-the-animals.json](./75916-feed-the-animals.json) |
@@ -3037,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidchell | 139338 | [139338-fidchell.json](./139338-fidchell.json) |
 | Fiddle | 80534 | [80534-fiddle.json](./80534-fiddle.json) |
 | Fiddlebert's Folly | 313476 | [313476-fiddleberts-folly.json](./313476-fiddleberts-folly.json) |
+| Fiddler's Wood | 323615 | [323615-fiddlers-wood.json](./323615-fiddlers-wood.json) |
 | Fidel: Dungeon Rescue | 36724 | [36724-fidel-dungeon-rescue.json](./36724-fidel-dungeon-rescue.json) |
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
@@ -4932,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fissure | 361809 | [361809-fissure.json](./361809-fissure.json) |
 | Fissure: Cubic | 297078 | [297078-fissure-cubic.json](./297078-fissure-cubic.json) |
 | Fist | 79787 | [79787-fist.json](./79787-fist.json) |
+| Fist 2 Face | 323559 | [323559-fist-2-face.json](./323559-fist-2-face.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
