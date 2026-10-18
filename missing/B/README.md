@@ -118,6 +118,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baba's Palace | 311985 | [311985-babas-palace.json](./311985-babas-palace.json) |
 | Babala | 338755 | [338755-babala.json](./338755-babala.json) |
 | Babaliba | 45339 | [45339-babaliba.json](./45339-babaliba.json) |
+| Babataire | 328331 | [328331-babataire.json](./328331-babataire.json) |
+| Babataire EX | 328332 | [328332-babataire-ex.json](./328332-babataire-ex.json) |
 | Babava's Playspace | 278974 | [278974-babavas-playspace.json](./278974-babavas-playspace.json) |
 | Babbdi | 229631 | [229631-babbdi.json](./229631-babbdi.json) |
 | Babbling Brook | 351277 | [351277-babbling-brook.json](./351277-babbling-brook.json) |
