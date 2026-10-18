@@ -7215,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
+| MetalMercs | 311886 | [311886-metalmercs.json](./311886-metalmercs.json) |
 | Metalocalypse: Dethgame | 68300 | [68300-metalocalypse-dethgame.json](./68300-metalocalypse-dethgame.json) |
 | Metaloid: Origin | 113545 | [113545-metaloid-origin.json](./113545-metaloid-origin.json) |
 | Metaloids | 92837 | [92837-metaloids.json](./92837-metaloids.json) |
@@ -7332,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
 | Metin2 | 3119 | [3119-metin2.json](./3119-metin2.json) |
 | MetioTower | 152254 | [152254-metiotower.json](./152254-metiotower.json) |
+| Metis: Shadow Days | 311878 | [311878-metis-shadow-days.json](./311878-metis-shadow-days.json) |
 | Metits Magic 3: The Revenge of Luli | 341453 | [341453-metits-magic-3-the-revenge-of-luli.json](./341453-metits-magic-3-the-revenge-of-luli.json) |
 | Metonymy | 67898 | [67898-metonymy.json](./67898-metonymy.json) |
 | Metori | 107864 | [107864-metori.json](./107864-metori.json) |
@@ -9382,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Words | 125710 | [125710-mini-words.json](./125710-mini-words.json) |
 | Mini Words: Polyglot | 169479 | [169479-mini-words-polyglot.json](./169479-mini-words-polyglot.json) |
 | Mini World | 71030 | [71030-mini-world.json](./71030-mini-world.json) |
+| Mini Worlds | 311893 | [311893-mini-worlds.json](./311893-mini-worlds.json) |
 | Mini Z Racers Turbo | 31902 | [31902-mini-z-racers-turbo.json](./31902-mini-z-racers-turbo.json) |
 | Mini Zag | 84341 | [84341-mini-zag.json](./84341-mini-zag.json) |
 | Mini Zen Garden | 293837 | [293837-mini-zen-garden.json](./293837-mini-zen-garden.json) |
@@ -13460,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Cockatrice | 410394 | [410394-mr-cockatrice.json](./410394-mr-cockatrice.json) |
 | Mr. Cool | 23890 | [23890-mr-cool.json](./23890-mr-cool.json) |
 | Mr. Crab 2 | 57145 | [57145-mr-crab-2.json](./57145-mr-crab-2.json) |
+| Mr. Death: The Violent Silence | 311856 | [311856-mr-death-the-violent-silence.json](./311856-mr-death-the-violent-silence.json) |
 | Mr. Dig | 28561 | [28561-mr-dig.json](./28561-mr-dig.json) |
 | Mr. Do! | 297491 | [297491-mr-do.json](./297491-mr-do.json) |
 | Mr. Do! | 365697 | [365697-mr-do.json](./365697-mr-do.json) |
@@ -13628,6 +13632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.Mine | 157130 | [157130-mr-mine.json](./157130-mr-mine.json) |
 | Mr.Ninja!! Fever | 248283 | [248283-mr-ninja-fever.json](./248283-mr-ninja-fever.json) |
 | Mr.President! | 24972 | [24972-mr-president.json](./24972-mr-president.json) |
+| Mr.Robbo | 311868 | [311868-mr-robbo.json](./311868-mr-robbo.json) |
 | Mr.Slime in Dungeon | 327974 | [327974-mr-slime-in-dungeon.json](./327974-mr-slime-in-dungeon.json) |
 | Mr.T Survival | 249295 | [249295-mr-t-survival.json](./249295-mr-t-survival.json) |
 | Mr.Treemp | 190040 | [190040-mr-treemp.json](./190040-mr-treemp.json) |
