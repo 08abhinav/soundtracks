@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | P Diddy Songs Quiz / Trivia, Music Player, Lyrics, & News: Ultimate P Diddy Fan App | 334882 | [334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json](./334882-p-diddy-songs-quiz-trivia-music-player-lyrics-and-news-ultimate-p-diddy-fan-app.json) |
+| P Fit | 315938 | [315938-p-fit.json](./315938-p-fit.json) |
 | P World | 332449 | [332449-p-world.json](./332449-p-world.json) |
 | P-- | 418600 | [418600-p.json](./418600-p.json) |
 | P-3 Biotic | 36257 | [36257-p-3-biotic.json](./36257-p-3-biotic.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
+| Pilot Flight Simulation | 315919 | [315919-pilot-flight-simulation.json](./315919-pilot-flight-simulation.json) |
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Light | 96511 | [96511-pilot-light.json](./96511-pilot-light.json) |
@@ -6372,6 +6374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Chromastronaut | 370556 | [370556-pixicharm-chromastronaut.json](./370556-pixicharm-chromastronaut.json) |
 | Pixicharm: Cluckbit | 392347 | [392347-pixicharm-cluckbit.json](./392347-pixicharm-cluckbit.json) |
 | Pixicharm: Darkwood Dash | 330813 | [330813-pixicharm-darkwood-dash.json](./330813-pixicharm-darkwood-dash.json) |
+| Pixicharm: Dinoluship | 315924 | [315924-pixicharm-dinoluship.json](./315924-pixicharm-dinoluship.json) |
+| Pixicharm: Fit Frog's Feast | 315931 | [315931-pixicharm-fit-frogs-feast.json](./315931-pixicharm-fit-frogs-feast.json) |
 | Pixicharm: Flindlehop | 356508 | [356508-pixicharm-flindlehop.json](./356508-pixicharm-flindlehop.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
@@ -13383,7 +13387,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
+| Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
+| Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
 | Puzzle Vault | 383165 | [383165-puzzle-vault.json](./383165-puzzle-vault.json) |
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
