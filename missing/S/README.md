@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScaleMan | 223920 | [223920-scaleman.json](./223920-scaleman.json) |
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
+| Scales of Justice | 311879 | [311879-scales-of-justice.json](./311879-scales-of-justice.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
 | Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
@@ -8449,6 +8450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
+| Sisyphos | 311870 | [311870-sisyphos.json](./311870-sisyphos.json) |
 | Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
 | Sisyphus | 340369 | [340369-sisyphus.json](./340369-sisyphus.json) |
 | Sisyphus Is a Bug | 372456 | [372456-sisyphus-is-a-bug.json](./372456-sisyphus-is-a-bug.json) |
@@ -9005,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ball Racing | 188387 | [188387-sky-ball-racing.json](./188387-sky-ball-racing.json) |
 | Sky Baron: War of Planes | 101531 | [101531-sky-baron-war-of-planes.json](./101531-sky-baron-war-of-planes.json) |
 | Sky Battles | 35834 | [35834-sky-battles.json](./35834-sky-battles.json) |
+| Sky Bound Hero | 311857 | [311857-sky-bound-hero.json](./311857-sky-bound-hero.json) |
 | Sky Brawl | 111179 | [111179-sky-brawl.json](./111179-sky-brawl.json) |
 | Sky Break | 25300 | [25300-sky-break.json](./25300-sky-break.json) |
 | Sky Captain's Return | 213454 | [213454-sky-captains-return.json](./213454-sky-captains-return.json) |
@@ -11785,6 +11788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris Arcana: The Eye of the Soothsayer | 271684 | [271684-solaris-arcana-the-eye-of-the-soothsayer.json](./271684-solaris-arcana-the-eye-of-the-soothsayer.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
+| Solaris Strike | 311865 | [311865-solaris-strike.json](./311865-solaris-strike.json) |
 | Solaris: Good Harvest | 352514 | [352514-solaris-good-harvest.json](./352514-solaris-good-harvest.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
@@ -13146,6 +13150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Sol | 56446 | [56446-sons-of-sol.json](./56446-sons-of-sol.json) |
 | Sons Of The Dream Forest | 315283 | [315283-sons-of-the-dream-forest.json](./315283-sons-of-the-dream-forest.json) |
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
+| Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
@@ -18974,6 +18979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
 | Steel Gullet | 417436 | [417436-steel-gullet.json](./417436-steel-gullet.json) |
 | Steel Harbinger | 9584 | [9584-steel-harbinger.json](./9584-steel-harbinger.json) |
+| Steel Heart | 311855 | [311855-steel-heart.json](./311855-steel-heart.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
 | Steel Heaven | 389718 | [389718-steel-heaven.json](./389718-steel-heaven.json) |
 | Steel Horizon | 20691 | [20691-steel-horizon.json](./20691-steel-horizon.json) |
@@ -19402,6 +19408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
+| Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
