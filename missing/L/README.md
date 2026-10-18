@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Caverns Attack!! | 57078 | [57078-lazy-caverns-attack.json](./57078-lazy-caverns-attack.json) |
 | Lazy Chess | 142734 | [142734-lazy-chess.json](./142734-lazy-chess.json) |
 | Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
+| Lazy Dog | 336322 | [336322-lazy-dog.json](./336322-lazy-dog.json) |
 | Lazy Galaxy | 75016 | [75016-lazy-galaxy.json](./75016-lazy-galaxy.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
@@ -5647,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost & Alone: Adventure Escape | 90537 | [90537-lost-and-alone-adventure-escape.json](./90537-lost-and-alone-adventure-escape.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
 | Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
+| Lost & Found Spot It Fast! | 336405 | [336405-lost-and-found-spot-it-fast.json](./336405-lost-and-found-spot-it-fast.json) |
 | Lost & Found: A This Bed We Made Story | 391841 | [391841-lost-and-found-a-this-bed-we-made-story.json](./391841-lost-and-found-a-this-bed-we-made-story.json) |
 | Lost & Found: Inanimate Object Dating Agency | 346109 | [346109-lost-and-found-inanimate-object-dating-agency.json](./346109-lost-and-found-inanimate-object-dating-agency.json) |
 | Lost & Round | 153364 | [153364-lost-and-round.json](./153364-lost-and-round.json) |
