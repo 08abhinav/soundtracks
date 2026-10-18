@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayagatari: Promise of the Cursed Blade | 398906 | [398906-sayagatari-promise-of-the-cursed-blade.json](./398906-sayagatari-promise-of-the-cursed-blade.json) |
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
+| Sayaka's Addiction | 335719 | [335719-sayakas-addiction.json](./335719-sayakas-addiction.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
@@ -7367,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SIght | 243649 | [243649-sight.json](./243649-sight.json) |
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
+| Sight Of The Victim: Passenger 23 | 335631 | [335631-sight-of-the-victim-passenger-23.json](./335631-sight-of-the-victim-passenger-23.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
@@ -12327,6 +12329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic an Untold Darkness | 326161 | [326161-sonic-an-untold-darkness.json](./326161-sonic-an-untold-darkness.json) |
 | Sonic and Mario | 330722 | [330722-sonic-and-mario.json](./330722-sonic-and-mario.json) |
 | Sonic and Meister | 331442 | [331442-sonic-and-meister.json](./331442-sonic-and-meister.json) |
+| Sonic and Seanic: The Dark Brotherhood Saga | 335628 | [335628-sonic-and-seanic-the-dark-brotherhood-saga.json](./335628-sonic-and-seanic-the-dark-brotherhood-saga.json) |
 | Sonic and the Bayan Isles | 417657 | [417657-sonic-and-the-bayan-isles.json](./417657-sonic-and-the-bayan-isles.json) |
 | Sonic and the Black Knight | 5166 | [5166-sonic-and-the-black-knight.json](./5166-sonic-and-the-black-knight.json) |
 | Sonic and the Black Knight HD | 336365 | [336365-sonic-and-the-black-knight-hd.json](./336365-sonic-and-the-black-knight-hd.json) |
@@ -12721,6 +12724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Speedfreshed | 351190 | [351190-sonic-speedfreshed.json](./351190-sonic-speedfreshed.json) |
 | Sonic SpeedStars | 417667 | [417667-sonic-speedstars.json](./417667-sonic-speedstars.json) |
 | Sonic Spinball: Life Savers | 274722 | [274722-sonic-spinball-life-savers.json](./274722-sonic-spinball-life-savers.json) |
+| Sonic Stage Collection | 335626 | [335626-sonic-stage-collection.json](./335626-sonic-stage-collection.json) |
 | Sonic Stars | 331865 | [331865-sonic-stars.json](./331865-sonic-stars.json) |
 | Sonic Streak 2 | 330867 | [330867-sonic-streak-2.json](./330867-sonic-streak-2.json) |
 | Sonic StrikerZ | 316424 | [316424-sonic-strikerz.json](./316424-sonic-strikerz.json) |
@@ -12810,6 +12814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog XA | 370482 | [370482-sonic-the-hedgehog-xa.json](./370482-sonic-the-hedgehog-xa.json) |
 | Sonic the Hedgehog: A New Adventure | 361629 | [361629-sonic-the-hedgehog-a-new-adventure.json](./361629-sonic-the-hedgehog-a-new-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
+| Sonic the Hedgehog: Chaos Delta | 335712 | [335712-sonic-the-hedgehog-chaos-delta.json](./335712-sonic-the-hedgehog-chaos-delta.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
 | Sonic the Hedgehog: Chaos Spirits | 331396 | [331396-sonic-the-hedgehog-chaos-spirits.json](./331396-sonic-the-hedgehog-chaos-spirits.json) |
 | Sonic the Hedgehog: Character Pak | 198542 | [198542-sonic-the-hedgehog-character-pak.json](./198542-sonic-the-hedgehog-character-pak.json) |
@@ -18918,6 +18923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Sora | 326127 | [326127-stella-sora.json](./326127-stella-sora.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
+| Stella: Into the Shadow | 335641 | [335641-stella-into-the-shadow.json](./335641-stella-into-the-shadow.json) |
 | Stella: My Friend | 255891 | [255891-stella-my-friend.json](./255891-stella-my-friend.json) |
 | Stella's Pointless Castle Awakening | 232951 | [232951-stellas-pointless-castle-awakening.json](./232951-stellas-pointless-castle-awakening.json) |
 | Stellabits | 223405 | [223405-stellabits.json](./223405-stellabits.json) |
@@ -25468,6 +25474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword & Poker 2 | 98812 | [98812-sword-and-poker-2.json](./98812-sword-and-poker-2.json) |
 | Sword & Seek | 309847 | [309847-sword-and-seek.json](./309847-sword-and-seek.json) |
 | Sword & Siege Crusades: Book II | 402956 | [402956-sword-and-siege-crusades-book-ii.json](./402956-sword-and-siege-crusades-book-ii.json) |
+| Sword & Siege: Crusades Book I | 335735 | [335735-sword-and-siege-crusades-book-i.json](./335735-sword-and-siege-crusades-book-i.json) |
 | Sword & Spatula | 257892 | [257892-sword-and-spatula.json](./257892-sword-and-spatula.json) |
 | Sword and Adventurer | 133115 | [133115-sword-and-adventurer.json](./133115-sword-and-adventurer.json) |
 | Sword and Expedition: Placing Heroes | 188040 | [188040-sword-and-expedition-placing-heroes.json](./188040-sword-and-expedition-placing-heroes.json) |
