@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calangos e Coxinhas | 303721 | [303721-calangos-e-coxinhas.json](./303721-calangos-e-coxinhas.json) |
 | Calavera: Day of the Dead | 140306 | [140306-calavera-day-of-the-dead.json](./140306-calavera-day-of-the-dead.json) |
 | Calavera: Day of the Dead - Collector's Edition | 28877 | [28877-calavera-day-of-the-dead-collectors-edition.json](./28877-calavera-day-of-the-dead-collectors-edition.json) |
+| Calc+- | 361459 | [361459-calc.json](./361459-calc.json) |
 | Calciobit | 49522 | [49522-calciobit.json](./49522-calciobit.json) |
 | Calcium Chaos | 199353 | [199353-calcium-chaos.json](./199353-calcium-chaos.json) |
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
@@ -1749,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards Against Insanity | 176397 | [176397-cards-against-insanity.json](./176397-cards-against-insanity.json) |
 | Cards and Castles | 35497 | [35497-cards-and-castles.json](./35497-cards-and-castles.json) |
 | Cards and Castles 2 | 178080 | [178080-cards-and-castles-2.json](./178080-cards-and-castles-2.json) |
+| Cards and Castles Ultimate | 361494 | [361494-cards-and-castles-ultimate.json](./361494-cards-and-castles-ultimate.json) |
 | Cards and Dungeons | 325114 | [325114-cards-and-dungeons.json](./325114-cards-and-dungeons.json) |
 | Cards and Fables | 348318 | [348318-cards-and-fables.json](./348318-cards-and-fables.json) |
 | Cards and Guns | 243622 | [243622-cards-and-guns.json](./243622-cards-and-guns.json) |
