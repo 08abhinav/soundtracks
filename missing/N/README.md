@@ -4438,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou: Sengoku Gunyuuden | 307127 | [307127-nobunaga-no-yabou-sengoku-gunyuuden.json](./307127-nobunaga-no-yabou-sengoku-gunyuuden.json) |
 | Nobunaga no Yabou: Sengoku Gunyuuden | 307130 | [307130-nobunaga-no-yabou-sengoku-gunyuuden.json](./307130-nobunaga-no-yabou-sengoku-gunyuuden.json) |
 | Nobunaga no Yabou: Zenkoku-ban | 307121 | [307121-nobunaga-no-yabou-zenkoku-ban.json](./307121-nobunaga-no-yabou-zenkoku-ban.json) |
+| Nobunaga Shinsen | 350190 | [350190-nobunaga-shinsen.json](./350190-nobunaga-shinsen.json) |
 | Nobunaga's Ambition | 307116 | [307116-nobunagas-ambition.json](./307116-nobunagas-ambition.json) |
 | Nobunaga's Ambition | 307119 | [307119-nobunagas-ambition.json](./307119-nobunagas-ambition.json) |
 | Nobunaga's Ambition | 307124 | [307124-nobunagas-ambition.json](./307124-nobunagas-ambition.json) |
@@ -4515,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noctuary | 221395 | [221395-noctuary.json](./221395-noctuary.json) |
 | Noctuary: New Journey | 370210 | [370210-noctuary-new-journey.json](./370210-noctuary-new-journey.json) |
 | Nocturnal | 234740 | [234740-nocturnal.json](./234740-nocturnal.json) |
+| Nocturnal | 350295 | [350295-nocturnal.json](./350295-nocturnal.json) |
 | Nocturnal Echoes | 414419 | [414419-nocturnal-echoes.json](./414419-nocturnal-echoes.json) |
 | Nocturnal Hunt | 75762 | [75762-nocturnal-hunt.json](./75762-nocturnal-hunt.json) |
 | Nocturnal Nemesis | 341483 | [341483-nocturnal-nemesis.json](./341483-nocturnal-nemesis.json) |
@@ -5501,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nummels | 149899 | [149899-nummels.json](./149899-nummels.json) |
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
+| Numpurr Card Wars | 350216 | [350216-numpurr-card-wars.json](./350216-numpurr-card-wars.json) |
 | NumTasu | 256242 | [256242-numtasu.json](./256242-numtasu.json) |
 | Numtate | 129687 | [129687-numtate.json](./129687-numtate.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
