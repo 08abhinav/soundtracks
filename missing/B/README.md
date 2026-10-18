@@ -6269,6 +6269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
+| Bitgun Survivors | 346392 | [346392-bitgun-survivors.json](./346392-bitgun-survivors.json) |
 | Bitgun: Prelude | 211466 | [211466-bitgun-prelude.json](./211466-bitgun-prelude.json) |
 | Bitgwa Eodumui Jeonjaeng | 220290 | [220290-bitgwa-eodumui-jeonjaeng.json](./220290-bitgwa-eodumui-jeonjaeng.json) |
 | BitHero Survivors | 366982 | [366982-bithero-survivors.json](./366982-bithero-survivors.json) |
@@ -9297,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Hunter | 190930 | [190930-book-hunter.json](./190930-book-hunter.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
+| Book of Abominations | 346384 | [346384-book-of-abominations.json](./346384-book-of-abominations.json) |
 | Book of Aliens | 127235 | [127235-book-of-aliens.json](./127235-book-of-aliens.json) |
 | Book of Beasts | 141179 | [141179-book-of-beasts.json](./141179-book-of-beasts.json) |
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
