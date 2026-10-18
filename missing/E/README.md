@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embracelet | 136409 | [136409-embracelet.json](./136409-embracelet.json) |
 | Embracing Darkness | 235483 | [235483-embracing-darkness.json](./235483-embracing-darkness.json) |
 | Embric of Wulfhammer's Castle | 66174 | [66174-embric-of-wulfhammers-castle.json](./66174-embric-of-wulfhammers-castle.json) |
+| Embroideryvania | 345825 | [345825-embroideryvania.json](./345825-embroideryvania.json) |
 | Embryogenesis | 376614 | [376614-embryogenesis.json](./376614-embryogenesis.json) |
 | Embuscade | 179734 | [179734-embuscade.json](./179734-embuscade.json) |
 | EmDePloy | 372727 | [372727-emdeploy.json](./372727-emdeploy.json) |
@@ -4270,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
 | Eternal Essence | 126383 | [126383-eternal-essence.json](./126383-eternal-essence.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
+| Eternal Exile: Beneath the Darkness | 345842 | [345842-eternal-exile-beneath-the-darkness.json](./345842-eternal-exile-beneath-the-darkness.json) |
 | Eternal Exodus | 113556 | [113556-eternal-exodus.json](./113556-eternal-exodus.json) |
 | Eternal Fate | 15424 | [15424-eternal-fate.json](./15424-eternal-fate.json) |
 | Eternal Fate: A Journey Begins | 298340 | [298340-eternal-fate-a-journey-begins.json](./298340-eternal-fate-a-journey-begins.json) |
