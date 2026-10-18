@@ -7551,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
+| Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
 | Pocket Warriors | 152162 | [152162-pocket-warriors.json](./152162-pocket-warriors.json) |
@@ -8140,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mystery Dungeon: Special Episode 0 - In A Dark Past | 298965 | [298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json](./298965-pokemon-mystery-dungeon-special-episode-0-in-a-dark-past.json) |
 | Pokémon Mystery Dungeon: Turnabout Dimension | 210550 | [210550-pokemon-mystery-dungeon-turnabout-dimension.json](./210550-pokemon-mystery-dungeon-turnabout-dimension.json) |
 | Pokémon Myth | 266156 | [266156-pokemon-myth.json](./266156-pokemon-myth.json) |
+| Pokémon Mythic Silver | 337425 | [337425-pokemon-mythic-silver.json](./337425-pokemon-mythic-silver.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
@@ -8171,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
 | Pokémon Platinum Kaizo | 417294 | [417294-pokemon-platinum-kaizo.json](./417294-pokemon-platinum-kaizo.json) |
+| Pokémon Platinum Redux​ | 337416 | [337416-pokemon-platinum-redux.json](./337416-pokemon-platinum-redux.json) |
 | Pokémon Platinum Version PC Port | 403089 | [403089-pokemon-platinum-version-pc-port.json](./403089-pokemon-platinum-version-pc-port.json) |
 | Pokémon Play It! | 80213 | [80213-pokemon-play-it.json](./80213-pokemon-play-it.json) |
 | Pokémon Play It! Version 2 | 24959 | [24959-pokemon-play-it-version-2.json](./24959-pokemon-play-it-version-2.json) |
@@ -8233,10 +8236,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet: The Hidden Treasure of Area Zero | 239935 | [239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
+| Pokémon Serene Crystal | 337418 | [337418-pokemon-serene-crystal.json](./337418-pokemon-serene-crystal.json) |
 | Pokémon Shattered Light | 223053 | [223053-pokemon-shattered-light.json](./223053-pokemon-shattered-light.json) |
 | Pokémon Shield | 115653 | [115653-pokemon-shield.json](./115653-pokemon-shield.json) |
 | Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
 | Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
+| Pokemon Shining Opal | 337420 | [337420-pokemon-shining-opal.json](./337420-pokemon-shining-opal.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
@@ -8305,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
 | Pokémon Unite: Season 3 | 194420 | [194420-pokemon-unite-season-3.json](./194420-pokemon-unite-season-3.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
+| Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
 | Pokémon Violet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239933 | [239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239933-pokemon-violet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
@@ -8333,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Cuerpo de Cristal | 307784 | [307784-pokemon-cuerpo-de-cristal.json](./307784-pokemon-cuerpo-de-cristal.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
 | Pokémon: Emerald Backwards | 342184 | [342184-pokemon-emerald-backwards.json](./342184-pokemon-emerald-backwards.json) |
+| Pokemon: Evolved | 337426 | [337426-pokemon-evolved.json](./337426-pokemon-evolved.json) |
 | Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
@@ -9872,6 +9879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: City Park | 256745 | [256745-powerstar-golf-city-park.json](./256745-powerstar-golf-city-park.json) |
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
+| Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
