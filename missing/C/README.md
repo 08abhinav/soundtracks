@@ -6429,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Attack 3 | 200918 | [200918-city-attack-3.json](./200918-city-attack-3.json) |
 | City Avenger | 240256 | [240256-city-avenger.json](./240256-city-avenger.json) |
 | City Balls VR | 76938 | [76938-city-balls-vr.json](./76938-city-balls-vr.json) |
+| City Battle | 359186 | [359186-city-battle.json](./359186-city-battle.json) |
 | City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
@@ -11863,6 +11864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Monster Truck Escape | 87135 | [87135-crazy-monster-truck-escape.json](./87135-crazy-monster-truck-escape.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mosquito | 113579 | [113579-crazy-mosquito.json](./113579-crazy-mosquito.json) |
+| Crazy Moto | 359187 | [359187-crazy-moto.json](./359187-crazy-moto.json) |
 | Crazy Mouse | 74410 | [74410-crazy-mouse.json](./74410-crazy-mouse.json) |
 | Crazy Music Tennis | 158611 | [158611-crazy-music-tennis.json](./158611-crazy-music-tennis.json) |
 | Crazy Neighbour | 405613 | [405613-crazy-neighbour.json](./405613-crazy-neighbour.json) |
@@ -13910,6 +13912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curl! | 217347 | [217347-curl.json](./217347-curl.json) |
 | Curley Laboratory | 196691 | [196691-curley-laboratory.json](./196691-curley-laboratory.json) |
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
+| Curling | 359188 | [359188-curling.json](./359188-curling.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
@@ -14072,6 +14075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed West | 31728 | [31728-cursed-west.json](./31728-cursed-west.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
+| Cursedland | 359203 | [359203-cursedland.json](./359203-cursedland.json) |
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
