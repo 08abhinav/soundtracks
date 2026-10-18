@@ -6431,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
 | Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
+| DiggerSim: Excavator Simulator | 312454 | [312454-diggersim-excavator-simulator.json](./312454-diggersim-excavator-simulator.json) |
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
