@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Trade Tycoon | 214113 | [214113-east-trade-tycoon.json](./214113-east-trade-tycoon.json) |
+| East Trade Tycoon: Inheritance | 320577 | [320577-east-trade-tycoon-inheritance.json](./320577-east-trade-tycoon-inheritance.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
 | east van EP | 134510 | [134510-east-van-ep.json](./134510-east-van-ep.json) |
 | east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
@@ -4345,6 +4346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
 | Eternal Night: Realm of Souls | 25499 | [25499-eternal-night-realm-of-souls.json](./25499-eternal-night-realm-of-souls.json) |
+| Eternal Ninja | 320592 | [320592-eternal-ninja.json](./320592-eternal-ninja.json) |
 | Eternal of Swordsman | 194033 | [194033-eternal-of-swordsman.json](./194033-eternal-of-swordsman.json) |
 | Eternal One | 369096 | [369096-eternal-one.json](./369096-eternal-one.json) |
 | Eternal One: Memories of Kumo Island | 369760 | [369760-eternal-one-memories-of-kumo-island.json](./369760-eternal-one-memories-of-kumo-island.json) |
