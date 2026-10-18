@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
 | Pinball Arcade: Banzai Run | 349342 | [349342-pinball-arcade-banzai-run.json](./349342-pinball-arcade-banzai-run.json) |
 | Pinball Arcade: Big Buck Hunter Pro | 353223 | [353223-pinball-arcade-big-buck-hunter-pro.json](./353223-pinball-arcade-big-buck-hunter-pro.json) |
+| Pinball Arcade: Black Hole | 353149 | [353149-pinball-arcade-black-hole.json](./353149-pinball-arcade-black-hole.json) |
 | Pinball Arcade: Black Knight 2000 | 349358 | [349358-pinball-arcade-black-knight-2000.json](./349358-pinball-arcade-black-knight-2000.json) |
 | Pinball Arcade: Bone Busters Inc. | 353221 | [353221-pinball-arcade-bone-busters-inc.json](./353221-pinball-arcade-bone-busters-inc.json) |
 | Pinball Arcade: Bram Stoker's Dracula | 349354 | [349354-pinball-arcade-bram-stokers-dracula.json](./349354-pinball-arcade-bram-stokers-dracula.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Pistol Poker | 349971 | [349971-pinball-arcade-pistol-poker.json](./349971-pinball-arcade-pistol-poker.json) |
 | Pinball Arcade: Red & Ted's Road Show | 353219 | [353219-pinball-arcade-red-and-teds-road-show.json](./353219-pinball-arcade-red-and-teds-road-show.json) |
 | Pinball Arcade: Rescue 911 | 353234 | [353234-pinball-arcade-rescue-911.json](./353234-pinball-arcade-rescue-911.json) |
+| Pinball Arcade: Ripley’s Believe It or Not! | 353152 | [353152-pinball-arcade-ripley-s-believe-it-or-not.json](./353152-pinball-arcade-ripley-s-believe-it-or-not.json) |
 | Pinball Arcade: Safe Cracker | 353273 | [353273-pinball-arcade-safe-cracker.json](./353273-pinball-arcade-safe-cracker.json) |
 | Pinball Arcade: Scared Stiff | 349363 | [349363-pinball-arcade-scared-stiff.json](./349363-pinball-arcade-scared-stiff.json) |
 | Pinball Arcade: Season Two Bundle | 99556 | [99556-pinball-arcade-season-two-bundle.json](./99556-pinball-arcade-season-two-bundle.json) |
@@ -4942,11 +4944,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Star Trek - The Next Generation | 349340 | [349340-pinball-arcade-star-trek-the-next-generation.json](./349340-pinball-arcade-star-trek-the-next-generation.json) |
 | Pinball Arcade: Star Trek Vengeance Premium | 353249 | [353249-pinball-arcade-star-trek-vengeance-premium.json](./353249-pinball-arcade-star-trek-vengeance-premium.json) |
 | Pinball Arcade: Swords of Fury | 353270 | [353270-pinball-arcade-swords-of-fury.json](./353270-pinball-arcade-swords-of-fury.json) |
+| Pinball Arcade: Tales of the Arabian Nights | 353150 | [353150-pinball-arcade-tales-of-the-arabian-nights.json](./353150-pinball-arcade-tales-of-the-arabian-nights.json) |
 | Pinball Arcade: Taxi | 353268 | [353268-pinball-arcade-taxi.json](./353268-pinball-arcade-taxi.json) |
 | Pinball Arcade: Tee'd Off | 353260 | [353260-pinball-arcade-teed-off.json](./353260-pinball-arcade-teed-off.json) |
 | Pinball Arcade: Terminator 2 - Judgment Day | 349359 | [349359-pinball-arcade-terminator-2-judgment-day.json](./349359-pinball-arcade-terminator-2-judgment-day.json) |
 | Pinball Arcade: The Addams Family | 349352 | [349352-pinball-arcade-the-addams-family.json](./349352-pinball-arcade-the-addams-family.json) |
 | Pinball Arcade: The Getaway - High Speed II | 349351 | [349351-pinball-arcade-the-getaway-high-speed-ii.json](./349351-pinball-arcade-the-getaway-high-speed-ii.json) |
+| Pinball Arcade: Theatre of Magic | 353151 | [353151-pinball-arcade-theatre-of-magic.json](./353151-pinball-arcade-theatre-of-magic.json) |
 | Pinball Arcade: Twilight Zone | 349362 | [349362-pinball-arcade-twilight-zone.json](./349362-pinball-arcade-twilight-zone.json) |
 | Pinball Arcade: TX-Sector | 353265 | [353265-pinball-arcade-tx-sector.json](./353265-pinball-arcade-tx-sector.json) |
 | Pinball Arcade: Victory | 353262 | [353262-pinball-arcade-victory.json](./353262-pinball-arcade-victory.json) |
@@ -11089,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress PET: Battle Chip - 574: Samurai Sword 3 | 355363 | [355363-progress-pet-battle-chip-574-samurai-sword-3.json](./355363-progress-pet-battle-chip-574-samurai-sword-3.json) |
 | Progress PET: Battle Chip - 575: Senshahou 1 | 355364 | [355364-progress-pet-battle-chip-575-senshahou-1.json](./355364-progress-pet-battle-chip-575-senshahou-1.json) |
 | Progress PET: Battle Chip - 576: Senshahou 2 | 355365 | [355365-progress-pet-battle-chip-576-senshahou-2.json](./355365-progress-pet-battle-chip-576-senshahou-2.json) |
+| Progress PET: Netto Version | 353154 | [353154-progress-pet-netto-version.json](./353154-progress-pet-netto-version.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
 | Progress98 | 409400 | [409400-progress98.json](./409400-progress98.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
