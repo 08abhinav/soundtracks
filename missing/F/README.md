@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faerie Solitaire Remastered | 81259 | [81259-faerie-solitaire-remastered.json](./81259-faerie-solitaire-remastered.json) |
 | Faery: Legends of Avalon | 10295 | [10295-faery-legends-of-avalon.json](./10295-faery-legends-of-avalon.json) |
 | Faery: Swapped | 298022 | [298022-faery-swapped.json](./298022-faery-swapped.json) |
+| FaeTerra | 309750 | [309750-faeterra.json](./309750-faeterra.json) |
 | Faewoods | 352248 | [352248-faewoods.json](./352248-faewoods.json) |
 | Fahrenheit | 298554 | [298554-fahrenheit.json](./298554-fahrenheit.json) |
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feather | 107222 | [107222-feather.json](./107222-feather.json) |
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
+| Featherborn | 309743 | [309743-featherborn.json](./309743-featherborn.json) |
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | Feathered Escape | 288667 | [288667-feathered-escape.json](./288667-feathered-escape.json) |
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
@@ -2719,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Forest | 402224 | [402224-feed-the-forest.json](./402224-feed-the-forest.json) |
 | Feed The Frog King: Incremental TD | 417583 | [417583-feed-the-frog-king-incremental-td.json](./417583-feed-the-frog-king-incremental-td.json) |
 | Feed the Giants | 403207 | [403207-feed-the-giants.json](./403207-feed-the-giants.json) |
+| Feed The Gods | 309759 | [309759-feed-the-gods.json](./309759-feed-the-gods.json) |
 | Feed the Head | 96185 | [96185-feed-the-head.json](./96185-feed-the-head.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
 | Feed the Lie | 372273 | [372273-feed-the-lie.json](./372273-feed-the-lie.json) |
