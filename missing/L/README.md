@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Shield | 334082 | [334082-laser-shield.json](./334082-laser-shield.json) |
 | Laser Skirmish | 205059 | [205059-laser-skirmish.json](./205059-laser-skirmish.json) |
 | Laser Snaker | 85743 | [85743-laser-snaker.json](./85743-laser-snaker.json) |
+| Laser Spider Playground | 354212 | [354212-laser-spider-playground.json](./354212-laser-spider-playground.json) |
 | Laser Stallion Disco Junkie: One Hit | 115680 | [115680-laser-stallion-disco-junkie-one-hit.json](./115680-laser-stallion-disco-junkie-one-hit.json) |
 | Laser Surgeon: The Microscopic Mission | 69552 | [69552-laser-surgeon-the-microscopic-mission.json](./69552-laser-surgeon-the-microscopic-mission.json) |
 | Laser Survivor | 258499 | [258499-laser-survivor.json](./258499-laser-survivor.json) |
