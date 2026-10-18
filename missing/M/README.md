@@ -4219,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
 | Mauri Mursu's Hangover | 224609 | [224609-mauri-mursus-hangover.json](./224609-mauri-mursus-hangover.json) |
+| Mauri Mursu's Odyssey | 333907 | [333907-mauri-mursus-odyssey.json](./333907-mauri-mursus-odyssey.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
 | Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
@@ -6586,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
+| Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
@@ -9841,6 +9843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss You | 157915 | [157915-miss-you.json](./157915-miss-you.json) |
 | Missão Bioma | 341277 | [341277-missao-bioma.json](./341277-missao-bioma.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
+| Missi | 333971 | [333971-missi.json](./333971-missi.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
 | Missile Base | 13740 | [13740-missile-base.json](./13740-missile-base.json) |
@@ -10480,6 +10483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
+| Mochi's Cosy Quest | 333905 | [333905-mochis-cosy-quest.json](./333905-mochis-cosy-quest.json) |
 | Mochi's Dreamland | 395579 | [395579-mochis-dreamland.json](./395579-mochis-dreamland.json) |
 | Mochiko the Samurai | 385923 | [385923-mochiko-the-samurai.json](./385923-mochiko-the-samurai.json) |
 | Mochiko-san Reunion! | 237286 | [237286-mochiko-san-reunion.json](./237286-mochiko-san-reunion.json) |
@@ -13169,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movit | 89651 | [89651-movit.json](./89651-movit.json) |
 | MovoD II | 229826 | [229826-movod-ii.json](./229826-movod-ii.json) |
 | Mow | 200107 | [200107-mow.json](./200107-mow.json) |
+| Mow Meow | 333990 | [333990-mow-meow.json](./333990-mow-meow.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | Mow-Town Riding | 90513 | [90513-mow-town-riding.json](./90513-mow-town-riding.json) |
 | MoW: Face Off M | 36245 | [36245-mow-face-off-m.json](./36245-mow-face-off-m.json) |
