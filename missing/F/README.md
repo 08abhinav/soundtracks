@@ -7267,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula One: Built to Win | 48297 | [48297-formula-one-built-to-win.json](./48297-formula-one-built-to-win.json) |
 | Formula One: Championship Edition | 21397 | [21397-formula-one-championship-edition.json](./21397-formula-one-championship-edition.json) |
 | Formula Racer | 395877 | [395877-formula-racer.json](./395877-formula-racer.json) |
+| Formula Racing GP: Apex Overtaking | 357020 | [357020-formula-racing-gp-apex-overtaking.json](./357020-formula-racing-gp-apex-overtaking.json) |
 | Formula Racing Pro 2025 | 328536 | [328536-formula-racing-pro-2025.json](./328536-formula-racing-pro-2025.json) |
 | Formula Racing Pro 2025: Extended Edition | 333721 | [333721-formula-racing-pro-2025-extended-edition.json](./333721-formula-racing-pro-2025-extended-edition.json) |
 | Formula Racing Pro 2026: Diamond Edition | 410856 | [410856-formula-racing-pro-2026-diamond-edition.json](./410856-formula-racing-pro-2026-diamond-edition.json) |
