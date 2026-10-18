@@ -2187,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
 | Visual Quiz Kore Naanda? | 260698 | [260698-visual-quiz-kore-naanda.json](./260698-visual-quiz-kore-naanda.json) |
+| VisualHacker2D | 320015 | [320015-visualhacker2d.json](./320015-visualhacker2d.json) |
 | Visualizer | 80590 | [80590-visualizer.json](./80590-visualizer.json) |
 | Vita Mahjong | 344507 | [344507-vita-mahjong.json](./344507-vita-mahjong.json) |
 | Vita: The Ember Oracle | 356112 | [356112-vita-the-ember-oracle.json](./356112-vita-the-ember-oracle.json) |
