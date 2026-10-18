@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Move Checkmate: Chess Brain Trainer | 411144 | [411144-one-move-checkmate-chess-brain-trainer.json](./411144-one-move-checkmate-chess-brain-trainer.json) |
 | One-Off | 300872 | [300872-one-off.json](./300872-one-off.json) |
 | One-Off R | 300876 | [300876-one-off-r.json](./300876-one-off-r.json) |
+| One-Screen Game | 334538 | [334538-one-screen-game.json](./334538-one-screen-game.json) |
 | One-Thousand Cuts | 250001 | [250001-one-thousand-cuts.json](./250001-one-thousand-cuts.json) |
 | One-Two-Three | 91910 | [91910-one-two-three.json](./91910-one-two-three.json) |
 | One-Way | 202317 | [202317-one-way.json](./202317-one-way.json) |
