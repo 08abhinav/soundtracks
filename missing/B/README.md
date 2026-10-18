@@ -8853,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boktai: The Sun Is in Your Hand | 6326 | [6326-boktai-the-sun-is-in-your-hand.json](./6326-boktai-the-sun-is-in-your-hand.json) |
 | Boku Boku | 236974 | [236974-boku-boku.json](./236974-boku-boku.json) |
 | Boku dake ga Shitteiru | 375356 | [375356-boku-dake-ga-shitteiru.json](./375356-boku-dake-ga-shitteiru.json) |
+| Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335729 | [335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
@@ -11454,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Don't Lie | 370708 | [370708-brokenlore-dont-lie.json](./370708-brokenlore-dont-lie.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
+| Brominion | 335637 | [335637-brominion.json](./335637-brominion.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
 | Bronana | 320441 | [320441-bronana.json](./320441-bronana.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
@@ -12760,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Questions | 302494 | [302494-burning-questions.json](./302494-burning-questions.json) |
+| Burning Rangers Tribute | 335632 | [335632-burning-rangers-tribute.json](./335632-burning-rangers-tribute.json) |
 | Burning Ravager | 180816 | [180816-burning-ravager.json](./180816-burning-ravager.json) |
 | Burning Regolith | 419155 | [419155-burning-regolith.json](./419155-burning-regolith.json) |
 | Burning Rival | 39556 | [39556-burning-rival.json](./39556-burning-rival.json) |
@@ -12915,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
+| Bushside Rangers | 335642 | [335642-bushside-rangers.json](./335642-bushside-rangers.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
 | Business 98 | 391200 | [391200-business-98.json](./391200-business-98.json) |
 | Business Boardwalk | 146812 | [146812-business-boardwalk.json](./146812-business-boardwalk.json) |
