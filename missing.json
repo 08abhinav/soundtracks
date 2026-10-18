@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T11:18:06.796Z",
-  "total_missing": 227940,
+  "generated_at": "2026-10-18T11:33:14.210Z",
+  "total_missing": 227990,
   "games": [
     {
       "igdb_id": 191680,
@@ -15810,6 +15810,11 @@
       "igdb_id": 166615,
       "game_name": "A Princess of Fallen Kingdom",
       "file": "missing/A/166615-a-princess-of-fallen-kingdom.json"
+    },
+    {
+      "igdb_id": 337976,
+      "game_name": "A Prison Digging Game",
+      "file": "missing/A/337976-a-prison-digging-game.json"
     },
     {
       "igdb_id": 235844,
@@ -53032,6 +53037,11 @@
       "file": "missing/A/157392-apocalypse-island.json"
     },
     {
+      "igdb_id": 337958,
+      "game_name": "Apocalypse Island",
+      "file": "missing/A/337958-apocalypse-island.json"
+    },
+    {
       "igdb_id": 290495,
       "game_name": "Apocalypse Love Shelter",
       "file": "missing/A/290495-apocalypse-love-shelter.json"
@@ -53692,6 +53702,11 @@
       "file": "missing/A/384925-apple-rabble-dazzle.json"
     },
     {
+      "igdb_id": 337959,
+      "game_name": "Apple Ring",
+      "file": "missing/A/337959-apple-ring.json"
+    },
+    {
       "igdb_id": 176460,
       "game_name": "Apple Sauce Apartments",
       "file": "missing/A/176460-apple-sauce-apartments.json"
@@ -53940,6 +53955,11 @@
       "igdb_id": 322208,
       "game_name": "Apricity",
       "file": "missing/A/322208-apricity.json"
+    },
+    {
+      "igdb_id": 337960,
+      "game_name": "Apricity",
+      "file": "missing/A/337960-apricity.json"
     },
     {
       "igdb_id": 364531,
@@ -54432,6 +54452,11 @@
       "file": "missing/A/414410-aquarium-anomaly.json"
     },
     {
+      "igdb_id": 337961,
+      "game_name": "Aquarium at August 32nd VR",
+      "file": "missing/A/337961-aquarium-at-august-32nd-vr.json"
+    },
+    {
       "igdb_id": 159879,
       "game_name": "Aquarium Designer",
       "file": "missing/A/159879-aquarium-designer.json"
@@ -54615,6 +54640,16 @@
       "igdb_id": 153334,
       "game_name": "Aquillanto",
       "file": "missing/A/153334-aquillanto.json"
+    },
+    {
+      "igdb_id": 337962,
+      "game_name": "Aquilon Lust: Sex Arcana",
+      "file": "missing/A/337962-aquilon-lust-sex-arcana.json"
+    },
+    {
+      "igdb_id": 337963,
+      "game_name": "Aquilon's Sex Quest",
+      "file": "missing/A/337963-aquilons-sex-quest.json"
     },
     {
       "igdb_id": 293095,
@@ -56007,6 +56042,11 @@
       "file": "missing/A/147107-arcade-archives-koutetsu-yousai-strahl.json"
     },
     {
+      "igdb_id": 337975,
+      "game_name": "Arcade Archives: Land Sea Air Squad",
+      "file": "missing/A/337975-arcade-archives-land-sea-air-squad.json"
+    },
+    {
       "igdb_id": 147085,
       "game_name": "Arcade Archives: Legend of Makai",
       "file": "missing/A/147085-arcade-archives-legend-of-makai.json"
@@ -56937,6 +56977,11 @@
       "file": "missing/A/79702-arcade-classics-super-breakout-battlezone.json"
     },
     {
+      "igdb_id": 337964,
+      "game_name": "Arcade Combat",
+      "file": "missing/A/337964-arcade-combat.json"
+    },
+    {
       "igdb_id": 228367,
       "game_name": "Arcade Crossy Road",
       "file": "missing/A/228367-arcade-crossy-road.json"
@@ -57260,6 +57305,11 @@
       "igdb_id": 237380,
       "game_name": "Arcade Racer Evolution",
       "file": "missing/A/237380-arcade-racer-evolution.json"
+    },
+    {
+      "igdb_id": 337965,
+      "game_name": "Arcade Reflex",
+      "file": "missing/A/337965-arcade-reflex.json"
     },
     {
       "igdb_id": 319788,
@@ -57692,6 +57742,11 @@
       "file": "missing/A/385316-arcane-arts-sorcerers-quest.json"
     },
     {
+      "igdb_id": 337966,
+      "game_name": "Arcane Ascent",
+      "file": "missing/A/337966-arcane-ascent.json"
+    },
+    {
       "igdb_id": 343753,
       "game_name": "Arcane Assault",
       "file": "missing/A/343753-arcane-assault.json"
@@ -57865,6 +57920,11 @@
       "igdb_id": 129600,
       "game_name": "Arcane Quest Legends",
       "file": "missing/A/129600-arcane-quest-legends.json"
+    },
+    {
+      "igdb_id": 337967,
+      "game_name": "Arcane Raiders",
+      "file": "missing/A/337967-arcane-raiders.json"
     },
     {
       "igdb_id": 52595,
@@ -58097,6 +58157,11 @@
       "file": "missing/A/146892-arcapinball-neoworlds.json"
     },
     {
+      "igdb_id": 337968,
+      "game_name": "ArcArg",
+      "file": "missing/A/337968-arcarg.json"
+    },
+    {
       "igdb_id": 336158,
       "game_name": "Arcas Champions",
       "file": "missing/A/336158-arcas-champions.json"
@@ -58192,6 +58257,21 @@
       "file": "missing/A/371480-archaeology-egypt.json"
     },
     {
+      "igdb_id": 337969,
+      "game_name": "Archaeology: Frozen Knights",
+      "file": "missing/A/337969-archaeology-frozen-knights.json"
+    },
+    {
+      "igdb_id": 337970,
+      "game_name": "Archaeology: Frozen Village",
+      "file": "missing/A/337970-archaeology-frozen-village.json"
+    },
+    {
+      "igdb_id": 337971,
+      "game_name": "Archaeology: Frozen Wall",
+      "file": "missing/A/337971-archaeology-frozen-wall.json"
+    },
+    {
       "igdb_id": 368559,
       "game_name": "Archaeology: Grass Farm",
       "file": "missing/A/368559-archaeology-grass-farm.json"
@@ -58202,9 +58282,24 @@
       "file": "missing/A/368562-archaeology-grass-kingdom.json"
     },
     {
+      "igdb_id": 337972,
+      "game_name": "Archaeology: Medieval",
+      "file": "missing/A/337972-archaeology-medieval.json"
+    },
+    {
+      "igdb_id": 337973,
+      "game_name": "Archaeology: Post-Apocalypse",
+      "file": "missing/A/337973-archaeology-post-apocalypse.json"
+    },
+    {
       "igdb_id": 326174,
       "game_name": "Archaeology: Sand Fantasy",
       "file": "missing/A/326174-archaeology-sand-fantasy.json"
+    },
+    {
+      "igdb_id": 337974,
+      "game_name": "Archaeology: Sand Japanese",
+      "file": "missing/A/337974-archaeology-sand-japanese.json"
     },
     {
       "igdb_id": 133211,
@@ -62582,9 +62677,19 @@
       "file": "missing/A/357421-around-the-world-2-with-the-johnson-family.json"
     },
     {
+      "igdb_id": 338046,
+      "game_name": "Around the World 3: Amazing Countries",
+      "file": "missing/A/338046-around-the-world-3-amazing-countries.json"
+    },
+    {
       "igdb_id": 345673,
       "game_name": "Around the World 3: Amazing Countries - Collector's Edition",
       "file": "missing/A/345673-around-the-world-3-amazing-countries-collectors-edition.json"
+    },
+    {
+      "igdb_id": 338045,
+      "game_name": "Around the World 5: Beautiful America",
+      "file": "missing/A/338045-around-the-world-5-beautiful-america.json"
     },
     {
       "igdb_id": 363162,
@@ -87317,6 +87422,11 @@
       "file": "missing/B/14286-barney-bear-meets-santa-claus.json"
     },
     {
+      "igdb_id": 338036,
+      "game_name": "Barney Mutilator",
+      "file": "missing/B/338036-barney-mutilator.json"
+    },
+    {
       "igdb_id": 325816,
       "game_name": "Barney Shoot 'Em Up",
       "file": "missing/B/325816-barney-shoot-em-up.json"
@@ -103930,6 +104040,11 @@
       "igdb_id": 45943,
       "game_name": "Big Bang Show",
       "file": "missing/B/45943-big-bang-show.json"
+    },
+    {
+      "igdb_id": 338054,
+      "game_name": "Big Bang West II",
+      "file": "missing/B/338054-big-bang-west-ii.json"
     },
     {
       "igdb_id": 112895,
@@ -163867,6 +163982,11 @@
       "file": "missing/C/77906-chanter-kimi-no-uta-ga-todoitara.json"
     },
     {
+      "igdb_id": 338056,
+      "game_name": "Chanter: Kimi no Uta ga Todoitara #",
+      "file": "missing/C/338056-chanter-kimi-no-uta-ga-todoitara.json"
+    },
+    {
       "igdb_id": 198499,
       "game_name": "Chants of Sennaar",
       "file": "missing/C/198499-chants-of-sennaar.json"
@@ -215992,6 +216112,11 @@
       "file": "missing/C/155671-cyber-rider.json"
     },
     {
+      "igdb_id": 338039,
+      "game_name": "Cyber Run",
+      "file": "missing/C/338039-cyber-run.json"
+    },
+    {
       "igdb_id": 368674,
       "game_name": "Cyber Runner",
       "file": "missing/C/368674-cyber-runner.json"
@@ -235977,6 +236102,11 @@
       "file": "missing/D/380247-deep.json"
     },
     {
+      "igdb_id": 338047,
+      "game_name": "Deep 3D: Submarine Odyssey",
+      "file": "missing/D/338047-deep-3d-submarine-odyssey.json"
+    },
+    {
       "igdb_id": 260872,
       "game_name": "Deep Abyss 3D",
       "file": "missing/D/260872-deep-abyss-3d.json"
@@ -253095,6 +253225,11 @@
       "igdb_id": 89834,
       "game_name": "Disc Golf Game",
       "file": "missing/D/89834-disc-golf-game.json"
+    },
+    {
+      "igdb_id": 338053,
+      "game_name": "Disc Golf Masters",
+      "file": "missing/D/338053-disc-golf-masters.json"
     },
     {
       "igdb_id": 221377,
@@ -314422,6 +314557,11 @@
       "file": "missing/E/290864-exosuit.json"
     },
     {
+      "igdb_id": 338041,
+      "game_name": "Exot",
+      "file": "missing/E/338041-exot.json"
+    },
+    {
       "igdb_id": 119528,
       "game_name": "ExoTanks MOBA",
       "file": "missing/E/119528-exotanks-moba.json"
@@ -317375,6 +317515,11 @@
       "igdb_id": 408774,
       "game_name": "F1 25: 2026 Season Pack",
       "file": "missing/F/408774-f1-25-2026-season-pack.json"
+    },
+    {
+      "igdb_id": 337977,
+      "game_name": "F1 25: Iconic Edition",
+      "file": "missing/F/337977-f1-25-iconic-edition.json"
     },
     {
       "igdb_id": 95383,
@@ -370045,6 +370190,11 @@
       "igdb_id": 197342,
       "game_name": "Galagi Shooter",
       "file": "missing/G/197342-galagi-shooter.json"
+    },
+    {
+      "igdb_id": 338052,
+      "game_name": "Galago",
+      "file": "missing/G/338052-galago.json"
     },
     {
       "igdb_id": 228958,
@@ -503927,6 +504077,11 @@
       "file": "missing/K/286077-kill-ball.json"
     },
     {
+      "igdb_id": 338037,
+      "game_name": "Kill Barney",
+      "file": "missing/K/338037-kill-barney.json"
+    },
+    {
       "igdb_id": 325818,
       "game_name": "Kill Barney in Tokyo",
       "file": "missing/K/325818-kill-barney-in-tokyo.json"
@@ -506805,6 +506960,11 @@
       "igdb_id": 174594,
       "game_name": "King's League: Odyssey",
       "file": "missing/K/174594-kings-league-odyssey.json"
+    },
+    {
+      "igdb_id": 338057,
+      "game_name": "King's Legacy: A Crown Divided - Collector's Edition",
+      "file": "missing/K/338057-kings-legacy-a-crown-divided-collectors-edition.json"
     },
     {
       "igdb_id": 393138,
@@ -528350,6 +528510,11 @@
       "igdb_id": 358481,
       "game_name": "Legends of the Wild",
       "file": "missing/L/358481-legends-of-the-wild.json"
+    },
+    {
+      "igdb_id": 338055,
+      "game_name": "Legends of the Wild West: Golden Hill",
+      "file": "missing/L/338055-legends-of-the-wild-west-golden-hill.json"
     },
     {
       "igdb_id": 31673,
@@ -551465,6 +551630,11 @@
       "igdb_id": 380997,
       "game_name": "Lucky Rabbit Club",
       "file": "missing/L/380997-lucky-rabbit-club.json"
+    },
+    {
+      "igdb_id": 338060,
+      "game_name": "Lucky Season: End of the Rainbow - Collector's Edition",
+      "file": "missing/L/338060-lucky-season-end-of-the-rainbow-collectors-edition.json"
     },
     {
       "igdb_id": 338784,
@@ -604297,6 +604467,11 @@
       "file": "missing/M/13015-mission-jupiter.json"
     },
     {
+      "igdb_id": 338048,
+      "game_name": "Mission LunaTrix",
+      "file": "missing/M/338048-mission-lunatrix.json"
+    },
+    {
       "igdb_id": 147390,
       "game_name": "Mission Mars",
       "file": "missing/M/147390-mission-mars.json"
@@ -619030,6 +619205,11 @@
       "igdb_id": 28568,
       "game_name": "Motörhead",
       "file": "missing/M/28568-motorhead.json"
+    },
+    {
+      "igdb_id": 338049,
+      "game_name": "Motorhome: Traveling America",
+      "file": "missing/M/338049-motorhome-traveling-america.json"
     },
     {
       "igdb_id": 356772,
@@ -696817,6 +696997,21 @@
       "file": "missing/P/371317-payday-3-chapter-4-fear-and-greed.json"
     },
     {
+      "igdb_id": 338033,
+      "game_name": "Payday 3: Fear & Greed Heist",
+      "file": "missing/P/338033-payday-3-fear-and-greed-heist.json"
+    },
+    {
+      "igdb_id": 338034,
+      "game_name": "Payday 3: Fear & Greed Tailor Pack",
+      "file": "missing/P/338034-payday-3-fear-and-greed-tailor-pack.json"
+    },
+    {
+      "igdb_id": 338035,
+      "game_name": "Payday 3: Fear & Greed Weapon Pack",
+      "file": "missing/P/338035-payday-3-fear-and-greed-weapon-pack.json"
+    },
+    {
       "igdb_id": 252878,
       "game_name": "Payday 3: Gold Edition",
       "file": "missing/P/252878-payday-3-gold-edition.json"
@@ -754822,6 +755017,11 @@
       "file": "missing/Q/100992-queens-garden-a-relaxing-match3-game-with-flowers-and-gardening.json"
     },
     {
+      "igdb_id": 338059,
+      "game_name": "Queen's Garden: French Splendor",
+      "file": "missing/Q/338059-queens-garden-french-splendor.json"
+    },
+    {
       "igdb_id": 66176,
       "game_name": "Queen's Gate: Spiral Chaos",
       "file": "missing/Q/66176-queens-gate-spiral-chaos.json"
@@ -787505,6 +787705,11 @@
       "igdb_id": 350446,
       "game_name": "Road Trip to the End of the World",
       "file": "missing/R/350446-road-trip-to-the-end-of-the-world.json"
+    },
+    {
+      "igdb_id": 338050,
+      "game_name": "Road Trip USA 3: Central",
+      "file": "missing/R/338050-road-trip-usa-3-central.json"
     },
     {
       "igdb_id": 78292,
@@ -820747,6 +820952,11 @@
       "file": "missing/S/117632-secrets-of-war.json"
     },
     {
+      "igdb_id": 338061,
+      "game_name": "Secrets of Worlds: Mystery Agency - Collector's Edition",
+      "file": "missing/S/338061-secrets-of-worlds-mystery-agency-collectors-edition.json"
+    },
+    {
       "igdb_id": 244503,
       "game_name": "Secrets of Wynne",
       "file": "missing/S/244503-secrets-of-wynne.json"
@@ -850755,6 +850965,11 @@
       "igdb_id": 104693,
       "game_name": "Slay",
       "file": "missing/S/104693-slay.json"
+    },
+    {
+      "igdb_id": 338044,
+      "game_name": "Slay",
+      "file": "missing/S/338044-slay.json"
     },
     {
       "igdb_id": 390114,
@@ -924912,6 +925127,11 @@
       "file": "missing/S/274920-supermarket-simulator.json"
     },
     {
+      "igdb_id": 337980,
+      "game_name": "Supermarket Simulator 2025",
+      "file": "missing/S/337980-supermarket-simulator-2025.json"
+    },
+    {
       "igdb_id": 345970,
       "game_name": "Supermarket Simulator 2025",
       "file": "missing/S/345970-supermarket-simulator-2025.json"
@@ -929600,6 +929820,11 @@
       "igdb_id": 207810,
       "game_name": "Sweet Home: Design & Blast",
       "file": "missing/S/207810-sweet-home-design-and-blast.json"
+    },
+    {
+      "igdb_id": 338043,
+      "game_name": "Sweet Home: Look and Find 4 - Collector's Edition",
+      "file": "missing/S/338043-sweet-home-look-and-find-4-collectors-edition.json"
     },
     {
       "igdb_id": 406073,
@@ -947147,6 +947372,11 @@
       "file": "missing/T/163260-tekken-7-zafina.json"
     },
     {
+      "igdb_id": 338032,
+      "game_name": "Tekken 8: Advanced Edition",
+      "file": "missing/T/338032-tekken-8-advanced-edition.json"
+    },
+    {
       "igdb_id": 374182,
       "game_name": "Tekken 8: Armor King",
       "file": "missing/T/374182-tekken-8-armor-king.json"
@@ -956665,6 +956895,11 @@
       "igdb_id": 224074,
       "game_name": "The Barker & Mustard Files",
       "file": "missing/T/224074-the-barker-and-mustard-files.json"
+    },
+    {
+      "igdb_id": 338038,
+      "game_name": "The Barney Fun Page!",
+      "file": "missing/T/338038-the-barney-fun-page.json"
     },
     {
       "igdb_id": 54523,
@@ -992917,6 +993152,11 @@
       "file": "missing/T/345016-the-shafts-of-damnation.json"
     },
     {
+      "igdb_id": 337979,
+      "game_name": "The Shaking Chalice",
+      "file": "missing/T/337979-the-shaking-chalice.json"
+    },
+    {
       "igdb_id": 258119,
       "game_name": "The Shaman's Ark",
       "file": "missing/T/258119-the-shamans-ark.json"
@@ -1005945,6 +1006185,11 @@
       "igdb_id": 260570,
       "game_name": "Thief Simulator: Shopping Center",
       "file": "missing/T/260570-thief-simulator-shopping-center.json"
+    },
+    {
+      "igdb_id": 337978,
+      "game_name": "Thief Snatch & Run",
+      "file": "missing/T/337978-thief-snatch-and-run.json"
     },
     {
       "igdb_id": 11223,
@@ -1132995,6 +1133240,11 @@
       "igdb_id": 50466,
       "game_name": "Zen Puzzle Garden",
       "file": "missing/Z/50466-zen-puzzle-garden.json"
+    },
+    {
+      "igdb_id": 338058,
+      "game_name": "Zen Quest Garden: Cherry Blossom",
+      "file": "missing/Z/338058-zen-quest-garden-cherry-blossom.json"
     },
     {
       "igdb_id": 319223,
