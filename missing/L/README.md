@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
+| Lily | 332883 | [332883-lily.json](./332883-lily.json) |
 | Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
@@ -7032,6 +7033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Command | 73499 | [73499-lunar-command.json](./73499-lunar-command.json) |
 | Lunar Descent | 333360 | [333360-lunar-descent.json](./333360-lunar-descent.json) |
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
+| Lunar Echoes | 332875 | [332875-lunar-echoes.json](./332875-lunar-echoes.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
