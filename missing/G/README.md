@@ -2345,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Shooter | 312769 | [312769-geometry-shooter.json](./312769-geometry-shooter.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
 | Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
+| Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geomeun Jeonseol | 220282 | [220282-geomeun-jeonseol.json](./220282-geomeun-jeonseol.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gesui Oukoku | 412251 | [412251-gesui-oukoku.json](./412251-gesui-oukoku.json) |
 | Gesuido | 166516 | [166516-gesuido.json](./166516-gesuido.json) |
 | Get 'Em Hard | 141577 | [141577-get-em-hard.json](./141577-get-em-hard.json) |
+| Get a Body Language Expert, Pronto! | 339597 | [339597-get-a-body-language-expert-pronto.json](./339597-get-a-body-language-expert-pronto.json) |
 | Get a Life | 151466 | [151466-get-a-life.json](./151466-get-a-life.json) |
 | Get Acc_E55 | 186586 | [186586-get-acc-e55.json](./186586-get-acc-e55.json) |
 | Get Achievements for Achievements | 188527 | [188527-get-achievements-for-achievements.json](./188527-get-achievements-for-achievements.json) |
