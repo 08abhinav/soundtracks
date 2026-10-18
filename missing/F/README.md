@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Cabin | 128439 | [128439-fever-cabin.json](./128439-fever-cabin.json) |
 | Fever Dream | 197065 | [197065-fever-dream.json](./197065-fever-dream.json) |
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
+| Fever Golf | 314137 | [314137-fever-golf.json](./314137-fever-golf.json) |
 | Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
 | Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
@@ -7080,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
 | Forest's Secret | 138716 | [138716-forests-secret.json](./138716-forests-secret.json) |
 | Forestation: Circles of Nature | 118325 | [118325-forestation-circles-of-nature.json](./118325-forestation-circles-of-nature.json) |
+| Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestrike | 310694 | [310694-forestrike.json](./310694-forestrike.json) |
@@ -9369,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Row | 149717 | [149717-fruit-row.json](./149717-fruit-row.json) |
 | Fruit Salad | 273892 | [273892-fruit-salad.json](./273892-fruit-salad.json) |
 | Fruit Salad Theory | 186807 | [186807-fruit-salad-theory.json](./186807-fruit-salad-theory.json) |
+| Fruit Salon | 314108 | [314108-fruit-salon.json](./314108-fruit-salon.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
 | Fruit Slash | 328678 | [328678-fruit-slash.json](./328678-fruit-slash.json) |
