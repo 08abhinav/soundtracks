@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabai Girls: Valentine Babe | 390508 | [390508-yabai-girls-valentine-babe.json](./390508-yabai-girls-valentine-babe.json) |
 | Yabai Otoko ni Nanpa Sareru Game | 347737 | [347737-yabai-otoko-ni-nanpa-sareru-game.json](./347737-yabai-otoko-ni-nanpa-sareru-game.json) |
 | Yabba Dabba Doo! | 26344 | [26344-yabba-dabba-doo.json](./26344-yabba-dabba-doo.json) |
+| Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
 | Yacht Dice Family | 360497 | [360497-yacht-dice-family.json](./360497-yacht-dice-family.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
