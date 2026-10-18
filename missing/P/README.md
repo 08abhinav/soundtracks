@@ -599,6 +599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pair Panic | 373807 | [373807-pair-panic.json](./373807-pair-panic.json) |
 | Pair Room | 393806 | [393806-pair-room.json](./393806-pair-room.json) |
 | Pair Up | 303111 | [303111-pair-up.json](./303111-pair-up.json) |
+| Pair Up | 359285 | [359285-pair-up.json](./359285-pair-up.json) |
 | Pair Up | 359395 | [359395-pair-up.json](./359395-pair-up.json) |
 | Pairidaeza | 178467 | [178467-pairidaeza.json](./178467-pairidaeza.json) |
 | Paironix | 408949 | [408949-paironix.json](./408949-paironix.json) |
