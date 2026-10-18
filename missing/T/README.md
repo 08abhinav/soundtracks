@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the Unknown: Volume I - The Bard's Tale | 394230 | [394230-tales-of-the-unknown-volume-i-the-bards-tale.json](./394230-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Unknown: Volume I - The Bard's Tale | 394234 | [394234-tales-of-the-unknown-volume-i-the-bards-tale.json](./394234-tales-of-the-unknown-volume-i-the-bards-tale.json) |
 | Tales of the Vagabond | 244676 | [244676-tales-of-the-vagabond.json](./244676-tales-of-the-vagabond.json) |
+| Tales of the Valente | 310826 | [310826-tales-of-the-valente.json](./310826-tales-of-the-valente.json) |
 | Tales of The White Knight | 320546 | [320546-tales-of-the-white-knight.json](./320546-tales-of-the-white-knight.json) |
 | Tales of the Withered | 358456 | [358456-tales-of-the-withered.json](./358456-tales-of-the-withered.json) |
 | Tales of the World: Dice Adventure | 294586 | [294586-tales-of-the-world-dice-adventure.json](./294586-tales-of-the-world-dice-adventure.json) |
@@ -4374,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arrow Man | 71810 | [71810-the-arrow-man.json](./71810-the-arrow-man.json) |
 | The Arson Betrayal | 239312 | [239312-the-arson-betrayal.json](./239312-the-arson-betrayal.json) |
 | THE ART - Puzzle | 106493 | [106493-the-art-puzzle.json](./106493-the-art-puzzle.json) |
+| The Art Collector | 310827 | [310827-the-art-collector.json](./310827-the-art-collector.json) |
 | The Art of Chess | 14269 | [14269-the-art-of-chess.json](./14269-the-art-of-chess.json) |
 | The Art of Creation | 400362 | [400362-the-art-of-creation.json](./400362-the-art-of-creation.json) |
 | The Art of Fight | 27415 | [27415-the-art-of-fight.json](./27415-the-art-of-fight.json) |
@@ -7347,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glassworks | 322353 | [322353-the-glassworks.json](./322353-the-glassworks.json) |
 | The Gleam: VR Escape the Room | 31310 | [31310-the-gleam-vr-escape-the-room.json](./31310-the-gleam-vr-escape-the-room.json) |
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
+| The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
@@ -8438,6 +8441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
+| The King is Dead | 310792 | [310792-the-king-is-dead.json](./310792-the-king-is-dead.json) |
 | The King is Watching | 282826 | [282826-the-king-is-watching.json](./282826-the-king-is-watching.json) |
 | The King is Watching | 366575 | [366575-the-king-is-watching.json](./366575-the-king-is-watching.json) |
 | The King is Watching: Crowns of History | 394315 | [394315-the-king-is-watching-crowns-of-history.json](./394315-the-king-is-watching-crowns-of-history.json) |
@@ -9542,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lobster Game | 204980 | [204980-the-lobster-game.json](./204980-the-lobster-game.json) |
 | The Locked Room | 365221 | [365221-the-locked-room.json](./365221-the-locked-room.json) |
 | The Lodge | 158190 | [158190-the-lodge.json](./158190-the-lodge.json) |
+| The Lodge | 310823 | [310823-the-lodge.json](./310823-the-lodge.json) |
 | The logic inside | 160265 | [160265-the-logic-inside.json](./160265-the-logic-inside.json) |
 | The London Heist | 11255 | [11255-the-london-heist.json](./11255-the-london-heist.json) |
 | The Lone Alien | 237079 | [237079-the-lone-alien.json](./237079-the-lone-alien.json) |
@@ -16718,6 +16723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Horn: Il Corno del Tempo | 356873 | [356873-time-horn-il-corno-del-tempo.json](./356873-time-horn-il-corno-del-tempo.json) |
 | Time Hunters | 132041 | [132041-time-hunters.json](./132041-time-hunters.json) |
 | Time Hunters: Curse of the Golden Idol | 277373 | [277373-time-hunters-curse-of-the-golden-idol.json](./277373-time-hunters-curse-of-the-golden-idol.json) |
+| Time in Place | 310819 | [310819-time-in-place.json](./310819-time-in-place.json) |
 | Time Is An Island | 58710 | [58710-time-is-an-island.json](./58710-time-is-an-island.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
@@ -16831,6 +16837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
+| Time Trials | 310788 | [310788-time-trials.json](./310788-time-trials.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
 | Time Tunnel | 12968 | [12968-time-tunnel.json](./12968-time-tunnel.json) |
@@ -18780,6 +18787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Topsy Turvy | 9832 | [9832-topsy-turvy.json](./9832-topsy-turvy.json) |
+| Topworld | 310815 | [310815-topworld.json](./310815-topworld.json) |
 | Topzerah | 365164 | [365164-topzerah.json](./365164-topzerah.json) |
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
@@ -20249,6 +20257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader of Stories - Chapter 1 | 95968 | [95968-trader-of-stories-chapter-1.json](./95968-trader-of-stories-chapter-1.json) |
 | Trader of the Night | 219258 | [219258-trader-of-the-night.json](./219258-trader-of-the-night.json) |
 | Trader Tavern | 183827 | [183827-trader-tavern.json](./183827-trader-tavern.json) |
+| Traders and Tricksters | 310803 | [310803-traders-and-tricksters.json](./310803-traders-and-tricksters.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
 | Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
