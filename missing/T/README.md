@@ -18606,7 +18606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchless | 329112 | [329112-torchless.json](./329112-torchless.json) |
 | Torchlight III | 106987 | [106987-torchlight-iii.json](./106987-torchlight-iii.json) |
 | Torchlight Mobile | 26905 | [26905-torchlight-mobile.json](./26905-torchlight-mobile.json) |
-| Torchlight: Infinite | 174897 | [174897-torchlight-infinite.json](./174897-torchlight-infinite.json) |
 | Torchlight: Infinite - Cube of Rapacity | 249332 | [249332-torchlight-infinite-cube-of-rapacity.json](./249332-torchlight-infinite-cube-of-rapacity.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
