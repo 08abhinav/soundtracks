@@ -8765,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Factory | 294039 | [294039-mine-factory.json](./294039-mine-factory.json) |
 | Mine From Here | 352845 | [352845-mine-from-here.json](./352845-mine-from-here.json) |
 | Mine Hunter | 231918 | [231918-mine-hunter.json](./231918-mine-hunter.json) |
+| Mine Jam 1 | 343595 | [343595-mine-jam-1.json](./343595-mine-jam-1.json) |
 | Mine Make Escape | 347745 | [347745-mine-make-escape.json](./347745-mine-make-escape.json) |
 | Mine Memory | 278412 | [278412-mine-memory.json](./278412-mine-memory.json) |
 | Mine Nueeper Ninin ga Shinobuden | 98028 | [98028-mine-nueeper-ninin-ga-shinobuden.json](./98028-mine-nueeper-ninin-ga-shinobuden.json) |
