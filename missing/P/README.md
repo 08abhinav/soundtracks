@@ -131,6 +131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 284368 | [284368-pac-man.json](./284368-pac-man.json) |
 | Pac-Man | 284369 | [284369-pac-man.json](./284369-pac-man.json) |
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
+| Pac-Man | 311349 | [311349-pac-man.json](./311349-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
@@ -3046,6 +3047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
+| Pentago! | 311350 | [311350-pentago.json](./311350-pentago.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
 | Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
 | Pentaloop | 346671 | [346671-pentaloop.json](./346671-pentaloop.json) |
@@ -6494,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Pony | 180852 | [180852-pizza-pony.json](./180852-pizza-pony.json) |
 | Pizza Possum | 199132 | [199132-pizza-possum.json](./199132-pizza-possum.json) |
 | Pizza Quest | 305489 | [305489-pizza-quest.json](./305489-pizza-quest.json) |
+| Pizza Quest | 311334 | [311334-pizza-quest.json](./311334-pizza-quest.json) |
 | Pizza Rogue: P.P.M.P.D.E.S. | 334218 | [334218-pizza-rogue-p-p-m-p-d-e-s.json](./334218-pizza-rogue-p-p-m-p-d-e-s.json) |
 | Pizza Run | 200582 | [200582-pizza-run.json](./200582-pizza-run.json) |
 | Pizza Rush Race: Fighting Boss | 320925 | [320925-pizza-rush-race-fighting-boss.json](./320925-pizza-rush-race-fighting-boss.json) |
