@@ -8343,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Madonna | 52473 | [52473-blue-madonna.json](./52473-blue-madonna.json) |
 | Blue Maiden | 247944 | [247944-blue-maiden.json](./247944-blue-maiden.json) |
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
+| Blue Mansion | 349113 | [349113-blue-mansion.json](./349113-blue-mansion.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
 | Blue Max: Aces of the Great War | 11972 | [11972-blue-max-aces-of-the-great-war.json](./11972-blue-max-aces-of-the-great-war.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
@@ -11419,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
+| Broth Bounty | 349099 | [349099-broth-bounty.json](./349099-broth-bounty.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
