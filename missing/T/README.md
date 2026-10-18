@@ -11555,6 +11555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Order 8: Return to the Buried Kingdom | 127205 | [127205-the-secret-order-8-return-to-the-buried-kingdom.json](./127205-the-secret-order-8-return-to-the-buried-kingdom.json) |
 | The Secret Order Collection | 53780 | [53780-the-secret-order-collection.json](./53780-the-secret-order-collection.json) |
 | The Secret Order: Return to the Buried Kingdom | 140947 | [140947-the-secret-order-return-to-the-buried-kingdom.json](./140947-the-secret-order-return-to-the-buried-kingdom.json) |
+| The Secret Order: Return to the Buried Kingdom - Collector's Edition | 358091 | [358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json](./358091-the-secret-order-return-to-the-buried-kingdom-collectors-edition.json) |
 | The Secret Pyramid | 225184 | [225184-the-secret-pyramid.json](./225184-the-secret-pyramid.json) |
 | The Secret Society | 88642 | [88642-the-secret-society.json](./88642-the-secret-society.json) |
 | The Secret Society - Hidden Objects Mystery | 124747 | [124747-the-secret-society-hidden-objects-mystery.json](./124747-the-secret-society-hidden-objects-mystery.json) |
