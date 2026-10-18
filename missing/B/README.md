@@ -4301,6 +4301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
 | Before Exit: Gas Station - Midnight DLC | 378304 | [378304-before-exit-gas-station-midnight-dlc.json](./378304-before-exit-gas-station-midnight-dlc.json) |
+| Before Exit: Supermarket + Fig. bundle | 339067 | [339067-before-exit-supermarket-fig-bundle.json](./339067-before-exit-supermarket-fig-bundle.json) |
+| Before Exit: Supermarket + There's a Gun in the Office bundle | 339068 | [339068-before-exit-supermarket-theres-a-gun-in-the-office-bundle.json](./339068-before-exit-supermarket-theres-a-gun-in-the-office-bundle.json) |
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
