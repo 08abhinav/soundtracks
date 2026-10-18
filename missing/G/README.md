@@ -5795,6 +5795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
 | Graphic Design Is My Passion | 412249 | [412249-graphic-design-is-my-passion.json](./412249-graphic-design-is-my-passion.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
+| Graphic Sugaku | 345920 | [345920-graphic-sugaku.json](./345920-graphic-sugaku.json) |
 | Graphic Tower Defense | 348767 | [348767-graphic-tower-defense.json](./348767-graphic-tower-defense.json) |
 | Graphite | 351161 | [351161-graphite.json](./351161-graphite.json) |
 | Graphomata | 288878 | [288878-graphomata.json](./288878-graphomata.json) |
