@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
+| Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
 | Night Detective | 90229 | [90229-night-detective.json](./90229-night-detective.json) |
 | Night Dream | 26797 | [26797-night-dream.json](./26797-night-dream.json) |
 | Night Dreamer | 154058 | [154058-night-dreamer.json](./154058-night-dreamer.json) |
