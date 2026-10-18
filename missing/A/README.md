@@ -11244,6 +11244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
 | Astro Miner: Moons | 276946 | [276946-astro-miner-moons.json](./276946-astro-miner-moons.json) |
+| Astro Miners | 354213 | [354213-astro-miners.json](./354213-astro-miners.json) |
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
