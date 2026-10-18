@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
+| The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
@@ -5487,6 +5488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Core Message | 132570 | [132570-the-core-message.json](./132570-the-core-message.json) |
 | The Corgi Knight | 375505 | [375505-the-corgi-knight.json](./375505-the-corgi-knight.json) |
 | The Cork | 137954 | [137954-the-cork.json](./137954-the-cork.json) |
+| The Corn Maze | 327009 | [327009-the-corn-maze.json](./327009-the-corn-maze.json) |
 | The Corn Maze: Rebirth | 362289 | [362289-the-corn-maze-rebirth.json](./362289-the-corn-maze-rebirth.json) |
 | The Corner Cafe | 390184 | [390184-the-corner-cafe.json](./390184-the-corner-cafe.json) |
 | The Cornfield Road | 304161 | [304161-the-cornfield-road.json](./304161-the-cornfield-road.json) |
@@ -8799,6 +8801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us: Left Behind - Remastered | 219027 | [219027-the-last-of-us-left-behind-remastered.json](./219027-the-last-of-us-left-behind-remastered.json) |
 | The Last of Us: Post-Pandemic Edition | 102083 | [102083-the-last-of-us-post-pandemic-edition.json](./102083-the-last-of-us-post-pandemic-edition.json) |
 | The Last of Us: Survival Edition | 102082 | [102082-the-last-of-us-survival-edition.json](./102082-the-last-of-us-survival-edition.json) |
+| The Last One | 327036 | [327036-the-last-one.json](./327036-the-last-one.json) |
 | The Last One and Then Another | 318206 | [318206-the-last-one-and-then-another.json](./318206-the-last-one-and-then-another.json) |
 | The Last One Month | 180307 | [180307-the-last-one-month.json](./180307-the-last-one-month.json) |
 | The Last Ones Left | 150606 | [150606-the-last-ones-left.json](./150606-the-last-ones-left.json) |
@@ -10327,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
 | The Netcode Conflict | 301060 | [301060-the-netcode-conflict.json](./301060-the-netcode-conflict.json) |
+| The Netherworld | 327051 | [327051-the-netherworld.json](./327051-the-netherworld.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
 | The Netrunner Awaken1ng | 182393 | [182393-the-netrunner-awaken1ng.json](./182393-the-netrunner-awaken1ng.json) |
 | The Network | 21777 | [21777-the-network.json](./21777-the-network.json) |
@@ -10851,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pizza Delivery Boy Who Saved the World | 100595 | [100595-the-pizza-delivery-boy-who-saved-the-world.json](./100595-the-pizza-delivery-boy-who-saved-the-world.json) |
 | The Place I Called Home | 138479 | [138479-the-place-i-called-home.json](./138479-the-place-i-called-home.json) |
 | The Placebos | 82478 | [82478-the-placebos.json](./82478-the-placebos.json) |
+| The Places Where Snow Lingers | 327002 | [327002-the-places-where-snow-lingers.json](./327002-the-places-where-snow-lingers.json) |
 | The Plague | 26707 | [26707-the-plague.json](./26707-the-plague.json) |
 | The Plague Doctor of Wippra | 189301 | [189301-the-plague-doctor-of-wippra.json](./189301-the-plague-doctor-of-wippra.json) |
 | The Plague: Kingdom Wars - Dead Rising | 171356 | [171356-the-plague-kingdom-wars-dead-rising.json](./171356-the-plague-kingdom-wars-dead-rising.json) |
