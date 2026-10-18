@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
 | The Caretaker’s Lease | 361046 | [361046-the-caretaker-s-lease.json](./361046-the-caretaker-s-lease.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
+| The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
 | The Carrier and Crows | 270880 | [270880-the-carrier-and-crows.json](./270880-the-carrier-and-crows.json) |
 | The Cartographer's Tale | 103509 | [103509-the-cartographers-tale.json](./103509-the-cartographers-tale.json) |
@@ -6597,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
 | The Exit 8 | 275404 | [275404-the-exit-8.json](./275404-the-exit-8.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
+| The Exit of Nightmare | 320614 | [320614-the-exit-of-nightmare.json](./320614-the-exit-of-nightmare.json) |
 | The Exit Project: Backstreets | 319939 | [319939-the-exit-project-backstreets.json](./319939-the-exit-project-backstreets.json) |
 | The Exit Strategy | 377346 | [377346-the-exit-strategy.json](./377346-the-exit-strategy.json) |
 | The Exomachinist | 153930 | [153930-the-exomachinist.json](./153930-the-exomachinist.json) |
@@ -12498,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stone of God | 165659 | [165659-the-stone-of-god.json](./165659-the-stone-of-god.json) |
 | The Stone of Madness | 138097 | [138097-the-stone-of-madness.json](./138097-the-stone-of-madness.json) |
 | The Stone of Sisyphus | 24902 | [24902-the-stone-of-sisyphus.json](./24902-the-stone-of-sisyphus.json) |
+| The Stone of Wisdom | 320575 | [320575-the-stone-of-wisdom.json](./320575-the-stone-of-wisdom.json) |
 | The Stone Ship | 408790 | [408790-the-stone-ship.json](./408790-the-stone-ship.json) |
 | The Stonecutter | 84955 | [84955-the-stonecutter.json](./84955-the-stonecutter.json) |
 | The Stones | 371482 | [371482-the-stones.json](./371482-the-stones.json) |
