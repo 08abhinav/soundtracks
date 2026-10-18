@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
 | Unfamiliar | 118284 | [118284-unfamiliar.json](./118284-unfamiliar.json) |
 | Unfamiliar | 275214 | [275214-unfamiliar.json](./275214-unfamiliar.json) |
+| Unfamiliar Lands | 330584 | [330584-unfamiliar-lands.json](./330584-unfamiliar-lands.json) |
 | Unfated | 267672 | [267672-unfated.json](./267672-unfated.json) |
 | Unfated | 410974 | [410974-unfated.json](./410974-unfated.json) |
 | Unfathomable Villa | 112971 | [112971-unfathomable-villa.json](./112971-unfathomable-villa.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unloved | 228345 | [228345-unloved.json](./228345-unloved.json) |
 | Unluck Quest | 232016 | [232016-unluck-quest.json](./232016-unluck-quest.json) |
 | Unluckily in Love | 224573 | [224573-unluckily-in-love.json](./224573-unluckily-in-love.json) |
+| Unlucky Chicken | 330586 | [330586-unlucky-chicken.json](./330586-unlucky-chicken.json) |
 | Unlucky Mage | 85467 | [85467-unlucky-mage.json](./85467-unlucky-mage.json) |
 | Unlucky Mummy | 401627 | [401627-unlucky-mummy.json](./401627-unlucky-mummy.json) |
 | Unlucky Seven | 29783 | [29783-unlucky-seven.json](./29783-unlucky-seven.json) |
