@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L no Kisetsu: W Pocket | 62173 | [62173-l-no-kisetsu-w-pocket.json](./62173-l-no-kisetsu-w-pocket.json) |
 | L Pop | 239113 | [239113-l-pop.json](./239113-l-pop.json) |
 | L the Prologue to Death Note -Spiraling Trap- | 22390 | [22390-l-the-prologue-to-death-note-spiraling-trap.json](./22390-l-the-prologue-to-death-note-spiraling-trap.json) |
+| L_Ender 's Cataclysm | 341940 | [341940-l-ender-s-cataclysm.json](./341940-l-ender-s-cataclysm.json) |
 | L-Dis | 37593 | [37593-l-dis.json](./37593-l-dis.json) |
 | L-Room | 262936 | [262936-l-room.json](./262936-l-room.json) |
 | L-RPG | 98036 | [98036-l-rpg.json](./98036-l-rpg.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingjing | 284963 | [284963-lingjing.json](./284963-lingjing.json) |
 | Lingkaran | 345421 | [345421-lingkaran.json](./345421-lingkaran.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
+| Lingo | 341915 | [341915-lingo.json](./341915-lingo.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
@@ -4081,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen Me | 227931 | [227931-listen-me.json](./227931-listen-me.json) |
 | Listen to My Heart | 370340 | [370340-listen-to-my-heart.json](./370340-listen-to-my-heart.json) |
 | Listen to the Wind | 172709 | [172709-listen-to-the-wind.json](./172709-listen-to-the-wind.json) |
+| Listen Up! We Tried to Make "Those Games" Even More Extreme! Some Things Have to Be Learned the Hard Way! | 341942 | [341942-listen-up-we-tried-to-make-those-games-even-more-extreme-some-things-have-to-be-learned-the-hard-way.json](./341942-listen-up-we-tried-to-make-those-games-even-more-extreme-some-things-have-to-be-learned-the-hard-way.json) |
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
 | Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
@@ -4245,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Honeybee | 288359 | [288359-little-honeybee.json](./288359-little-honeybee.json) |
 | Little Horror Raiser | 216185 | [216185-little-horror-raiser.json](./216185-little-horror-raiser.json) |
 | Little Horrors! | 287240 | [287240-little-horrors.json](./287240-little-horrors.json) |
+| Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
 | Little Island | 189072 | [189072-little-island.json](./189072-little-island.json) |
