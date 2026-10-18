@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Forest | 108489 | [108489-pixel-forest.json](./108489-pixel-forest.json) |
 | Pixel Forklift Simulator | 183287 | [183287-pixel-forklift-simulator.json](./183287-pixel-forklift-simulator.json) |
 | Pixel Frenzy | 326227 | [326227-pixel-frenzy.json](./326227-pixel-frenzy.json) |
+| Pixel Frontier: Tactics | 349106 | [349106-pixel-frontier-tactics.json](./349106-pixel-frontier-tactics.json) |
 | Pixel Fruit Platform | 388237 | [388237-pixel-fruit-platform.json](./388237-pixel-fruit-platform.json) |
 | Pixel Galaxy | 24615 | [24615-pixel-galaxy.json](./24615-pixel-galaxy.json) |
 | Pixel Game Maker MV | 105410 | [105410-pixel-game-maker-mv.json](./105410-pixel-game-maker-mv.json) |
