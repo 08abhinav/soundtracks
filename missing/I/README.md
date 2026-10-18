@@ -2563,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Online | 110884 | [110884-infantry-online.json](./110884-infantry-online.json) |
 | Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
 | Infect and Destroy | 17511 | [17511-infect-and-destroy.json](./17511-infect-and-destroy.json) |
+| Infect Cam | 328847 | [328847-infect-cam.json](./328847-infect-cam.json) |
 | Infect Them All: Vampires | 175131 | [175131-infect-them-all-vampires.json](./175131-infect-them-all-vampires.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
