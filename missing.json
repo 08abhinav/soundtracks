@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T00:48:26.147Z",
-  "total_missing": 225991,
+  "generated_at": "2026-10-18T01:03:27.816Z",
+  "total_missing": 226041,
   "games": [
     {
       "igdb_id": 191680,
@@ -41007,6 +41007,11 @@
       "file": "missing/A/337822-amazing-weekend-2-search-and-relax-collectors-edition.json"
     },
     {
+      "igdb_id": 360444,
+      "game_name": "Amazing Weekend 3: Search and Relax - Collector's Edition",
+      "file": "missing/A/360444-amazing-weekend-3-search-and-relax-collectors-edition.json"
+    },
+    {
       "igdb_id": 233526,
       "game_name": "Amazing Wire",
       "file": "missing/A/233526-amazing-wire.json"
@@ -72222,9 +72227,99 @@
       "file": "missing/A/358946-audica-ariana-grande-into-you.json"
     },
     {
+      "igdb_id": 360351,
+      "game_name": "Audica: asms - \"Methane Breather\"",
+      "file": "missing/A/360351-audica-asms-methane-breather.json"
+    },
+    {
+      "igdb_id": 360364,
+      "game_name": "Audica: asms - \"Reeds of Mitatrush\"",
+      "file": "missing/A/360364-audica-asms-reeds-of-mitatrush.json"
+    },
+    {
+      "igdb_id": 360366,
+      "game_name": "Audica: Bex - \"Avalanche\"",
+      "file": "missing/A/360366-audica-bex-avalanche.json"
+    },
+    {
+      "igdb_id": 360354,
+      "game_name": "Audica: Billie Eilish - \"Bad Guy\"",
+      "file": "missing/A/360354-audica-billie-eilish-bad-guy.json"
+    },
+    {
       "igdb_id": 358947,
       "game_name": "Audica: Chvrches - \"The Mother We Share\"",
       "file": "missing/A/358947-audica-chvrches-the-mother-we-share.json"
+    },
+    {
+      "igdb_id": 360361,
+      "game_name": "Audica: Darren Korb ft. Ashley Barrett - \"We All Become\"",
+      "file": "missing/A/360361-audica-darren-korb-ft-ashley-barrett-we-all-become.json"
+    },
+    {
+      "igdb_id": 360368,
+      "game_name": "Audica: DLC Pack 01",
+      "file": "missing/A/360368-audica-dlc-pack-01.json"
+    },
+    {
+      "igdb_id": 360370,
+      "game_name": "Audica: DLC Pack 02",
+      "file": "missing/A/360370-audica-dlc-pack-02.json"
+    },
+    {
+      "igdb_id": 360349,
+      "game_name": "Audica: Dua Lipa - \"New Rules\"",
+      "file": "missing/A/360349-audica-dua-lipa-new-rules.json"
+    },
+    {
+      "igdb_id": 360355,
+      "game_name": "Audica: Fall Out Boy - \"Centuries\"",
+      "file": "missing/A/360355-audica-fall-out-boy-centuries.json"
+    },
+    {
+      "igdb_id": 360345,
+      "game_name": "Audica: Flo Rida ft. Sage the Gemini and Lookas - \"GDFR\"",
+      "file": "missing/A/360345-audica-flo-rida-ft-sage-the-gemini-and-lookas-gdfr.json"
+    },
+    {
+      "igdb_id": 360344,
+      "game_name": "Audica: Hausman & Jenni Rudolph ft. Lys - \"Long Run\"",
+      "file": "missing/A/360344-audica-hausman-and-jenni-rudolph-ft-lys-long-run.json"
+    },
+    {
+      "igdb_id": 360362,
+      "game_name": "Audica: I Was Awake - \"Pre-Existing Condition\"",
+      "file": "missing/A/360362-audica-i-was-awake-pre-existing-condition.json"
+    },
+    {
+      "igdb_id": 360356,
+      "game_name": "Audica: Imagine Dragons - \"Believer\"",
+      "file": "missing/A/360356-audica-imagine-dragons-believer.json"
+    },
+    {
+      "igdb_id": 360353,
+      "game_name": "Audica: James Egbert ft. Nina Sung - \"Exit Wounds\"",
+      "file": "missing/A/360353-audica-james-egbert-ft-nina-sung-exit-wounds.json"
+    },
+    {
+      "igdb_id": 360348,
+      "game_name": "Audica: James Landino - \"Funky Computer\"",
+      "file": "missing/A/360348-audica-james-landino-funky-computer.json"
+    },
+    {
+      "igdb_id": 360363,
+      "game_name": "Audica: Lizzo - \"Juice\"",
+      "file": "missing/A/360363-audica-lizzo-juice.json"
+    },
+    {
+      "igdb_id": 360341,
+      "game_name": "Audica: LMFAO - \"Sorry For Party Rocking\"",
+      "file": "missing/A/360341-audica-lmfao-sorry-for-party-rocking.json"
+    },
+    {
+      "igdb_id": 360357,
+      "game_name": "Audica: M-Cue - \"U R Prey\"",
+      "file": "missing/A/360357-audica-m-cue-u-r-prey.json"
     },
     {
       "igdb_id": 358944,
@@ -72235,6 +72330,61 @@
       "igdb_id": 358943,
       "game_name": "Audica: Nicki Minaj - \"Starships\"",
       "file": "missing/A/358943-audica-nicki-minaj-starships.json"
+    },
+    {
+      "igdb_id": 360347,
+      "game_name": "Audica: OneRepublic - \"Counting Stars\"",
+      "file": "missing/A/360347-audica-onerepublic-counting-stars.json"
+    },
+    {
+      "igdb_id": 360359,
+      "game_name": "Audica: Panic! At The Disco - \"High Hopes\"",
+      "file": "missing/A/360359-audica-panic-at-the-disco-high-hopes.json"
+    },
+    {
+      "igdb_id": 360360,
+      "game_name": "Audica: Party Bois - \"Girls Be Dancing\"",
+      "file": "missing/A/360360-audica-party-bois-girls-be-dancing.json"
+    },
+    {
+      "igdb_id": 360346,
+      "game_name": "Audica: Post Malone - \"Better Now\"",
+      "file": "missing/A/360346-audica-post-malone-better-now.json"
+    },
+    {
+      "igdb_id": 360352,
+      "game_name": "Audica: Radio Compass - \"All Stars\"",
+      "file": "missing/A/360352-audica-radio-compass-all-stars.json"
+    },
+    {
+      "igdb_id": 360365,
+      "game_name": "Audica: Sia ft. Kendrick Lamar - \"The Greatest\"",
+      "file": "missing/A/360365-audica-sia-ft-kendrick-lamar-the-greatest.json"
+    },
+    {
+      "igdb_id": 360358,
+      "game_name": "Audica: Simaniac - “Stook (Audica Remix)”",
+      "file": "missing/A/360358-audica-simaniac-stook-audica-remix.json"
+    },
+    {
+      "igdb_id": 360350,
+      "game_name": "Audica: Sleeping Lion & Cass Miller ft. Bugle Bot - \"How We Know (Bugle Bot Remix)\"",
+      "file": "missing/A/360350-audica-sleeping-lion-and-cass-miller-ft-bugle-bot-how-we-know-bugle-bot-remix.json"
+    },
+    {
+      "igdb_id": 360342,
+      "game_name": "Audica: The Chainsmokers ft. Daya - \"Don't Let Me Down\"",
+      "file": "missing/A/360342-audica-the-chainsmokers-ft-daya-dont-let-me-down.json"
+    },
+    {
+      "igdb_id": 360343,
+      "game_name": "Audica: The Weeknd - \"Can't Feel My Face\"",
+      "file": "missing/A/360343-audica-the-weeknd-cant-feel-my-face.json"
+    },
+    {
+      "igdb_id": 360340,
+      "game_name": "Audica: Zedd, Maren Morris & Grey - \"The Middle\"",
+      "file": "missing/A/360340-audica-zedd-maren-morris-and-grey-the-middle.json"
     },
     {
       "igdb_id": 33141,
@@ -79785,6 +79935,11 @@
       "igdb_id": 410831,
       "game_name": "Bad Capybara",
       "file": "missing/B/410831-bad-capybara.json"
+    },
+    {
+      "igdb_id": 360446,
+      "game_name": "Bad Cards",
+      "file": "missing/B/360446-bad-cards.json"
     },
     {
       "igdb_id": 12398,
@@ -99245,6 +99400,11 @@
       "igdb_id": 40265,
       "game_name": "Ben Bero Beh",
       "file": "missing/B/40265-ben-bero-beh.json"
+    },
+    {
+      "igdb_id": 360447,
+      "game_name": "Ben Bildim",
+      "file": "missing/B/360447-ben-bildim.json"
     },
     {
       "igdb_id": 127124,
@@ -158252,6 +158412,11 @@
       "file": "missing/C/309653-cauldron-caution.json"
     },
     {
+      "igdb_id": 360333,
+      "game_name": "Cauldron Chaos",
+      "file": "missing/C/360333-cauldron-chaos.json"
+    },
+    {
       "igdb_id": 368495,
       "game_name": "Cauldron Chaos",
       "file": "missing/C/368495-cauldron-chaos.json"
@@ -159615,6 +159780,11 @@
       "igdb_id": 366101,
       "game_name": "Celeste Classic 2: Lani's Trek",
       "file": "missing/C/366101-celeste-classic-2-lanis-trek.json"
+    },
+    {
+      "igdb_id": 360339,
+      "game_name": "Celeste Classic PSX",
+      "file": "missing/C/360339-celeste-classic-psx.json"
     },
     {
       "igdb_id": 358282,
@@ -289122,6 +289292,11 @@
       "file": "missing/E/414301-egg-drop-soup.json"
     },
     {
+      "igdb_id": 360457,
+      "game_name": "Egg Finder",
+      "file": "missing/E/360457-egg-finder.json"
+    },
+    {
       "igdb_id": 307268,
       "game_name": "Egg Fried Rice",
       "file": "missing/E/307268-egg-fried-rice.json"
@@ -310385,6 +310560,11 @@
       "igdb_id": 340043,
       "game_name": "Excommunicated",
       "file": "missing/E/340043-excommunicated.json"
+    },
+    {
+      "igdb_id": 360449,
+      "game_name": "Excommunication",
+      "file": "missing/E/360449-excommunication.json"
     },
     {
       "igdb_id": 19332,
@@ -340800,6 +340980,11 @@
       "igdb_id": 86741,
       "game_name": "Flatwaters",
       "file": "missing/F/86741-flatwaters.json"
+    },
+    {
+      "igdb_id": 360332,
+      "game_name": "Flaurel's Diaries",
+      "file": "missing/F/360332-flaurels-diaries.json"
     },
     {
       "igdb_id": 341151,
@@ -397315,6 +397500,11 @@
       "igdb_id": 362838,
       "game_name": "Grim Tales: Light in the Darkness - Collector's Edition",
       "file": "missing/G/362838-grim-tales-light-in-the-darkness-collectors-edition.json"
+    },
+    {
+      "igdb_id": 360335,
+      "game_name": "Grim Tales: Prisoners of the Past - Collector's Edition",
+      "file": "missing/G/360335-grim-tales-prisoners-of-the-past-collectors-edition.json"
     },
     {
       "igdb_id": 79616,
@@ -626787,6 +626977,11 @@
       "file": "missing/M/94792-mystery-of-the-opera.json"
     },
     {
+      "igdb_id": 360369,
+      "game_name": "Mystery of the Sky Temple",
+      "file": "missing/M/360369-mystery-of-the-sky-temple.json"
+    },
+    {
       "igdb_id": 78675,
       "game_name": "Mystery of Time and Space",
       "file": "missing/M/78675-mystery-of-time-and-space.json"
@@ -656615,6 +656810,11 @@
       "igdb_id": 291442,
       "game_name": "NYZD",
       "file": "missing/N/291442-nyzd.json"
+    },
+    {
+      "igdb_id": 360452,
+      "game_name": "Ô",
+      "file": "missing/0-9/360452-o.json"
     },
     {
       "igdb_id": 293914,
@@ -699882,6 +700082,11 @@
       "file": "missing/P/243778-picoban.json"
     },
     {
+      "igdb_id": 360453,
+      "game_name": "Picogori 2025",
+      "file": "missing/P/360453-picogori-2025.json"
+    },
+    {
       "igdb_id": 387521,
       "game_name": "PicOHRoss",
       "file": "missing/P/387521-picohross.json"
@@ -706080,6 +706285,11 @@
       "igdb_id": 149895,
       "game_name": "PitBots",
       "file": "missing/P/149895-pitbots.json"
+    },
+    {
+      "igdb_id": 360445,
+      "game_name": "Pitbull Dale 10",
+      "file": "missing/P/360445-pitbull-dale-10.json"
     },
     {
       "igdb_id": 405605,
@@ -757795,6 +758005,11 @@
       "igdb_id": 55676,
       "game_name": "Ravager",
       "file": "missing/R/55676-ravager.json"
+    },
+    {
+      "igdb_id": 360450,
+      "game_name": "Ravager: Moon-friendly Edition",
+      "file": "missing/R/360450-ravager-moon-friendly-edition.json"
     },
     {
       "igdb_id": 275723,
@@ -839232,6 +839447,11 @@
       "file": "missing/S/44177-skeleton-boomerang.json"
     },
     {
+      "igdb_id": 360448,
+      "game_name": "Skeleton Dungeon",
+      "file": "missing/S/360448-skeleton-dungeon.json"
+    },
+    {
       "igdb_id": 364013,
       "game_name": "Skeleton Farmer",
       "file": "missing/S/364013-skeleton-farmer.json"
@@ -848072,6 +848292,11 @@
       "file": "missing/S/107706-smoker-the-car-game.json"
     },
     {
+      "igdb_id": 360455,
+      "game_name": "Smokin Potions",
+      "file": "missing/S/360455-smokin-potions.json"
+    },
+    {
       "igdb_id": 27607,
       "game_name": "Smokin' Guns",
       "file": "missing/S/27607-smokin-guns.json"
@@ -856875,6 +857100,11 @@
       "igdb_id": 76655,
       "game_name": "Song of Memories",
       "file": "missing/S/76655-song-of-memories.json"
+    },
+    {
+      "igdb_id": 360334,
+      "game_name": "Song of Nanzhao",
+      "file": "missing/S/360334-song-of-nanzhao.json"
     },
     {
       "igdb_id": 182190,
@@ -931000,6 +931230,11 @@
       "igdb_id": 220747,
       "game_name": "Tales of TianYuan Dynasty",
       "file": "missing/T/220747-tales-of-tianyuan-dynasty.json"
+    },
+    {
+      "igdb_id": 360336,
+      "game_name": "Tales of Tonbrook",
+      "file": "missing/T/360336-tales-of-tonbrook.json"
     },
     {
       "igdb_id": 135808,
@@ -1034107,6 +1034342,11 @@
       "file": "missing/T/176207-treacherous-journeys.json"
     },
     {
+      "igdb_id": 360456,
+      "game_name": "Treacherous Trials",
+      "file": "missing/T/360456-treacherous-trials.json"
+    },
+    {
       "igdb_id": 277292,
       "game_name": "Treachery",
       "file": "missing/T/277292-treachery.json"
@@ -1076267,6 +1076507,11 @@
       "file": "missing/W/408259-walkabout-mini-golf-blokhaven.json"
     },
     {
+      "igdb_id": 360337,
+      "game_name": "Walkabout Mini Golf: Crystal Lair",
+      "file": "missing/W/360337-walkabout-mini-golf-crystal-lair.json"
+    },
+    {
       "igdb_id": 372655,
       "game_name": "Walkabout Mini Golf: Forgotten Fairyland",
       "file": "missing/W/372655-walkabout-mini-golf-forgotten-fairyland.json"
@@ -1076330,6 +1076575,11 @@
       "igdb_id": 305774,
       "game_name": "Walkabout Mini Golf: Venice",
       "file": "missing/W/305774-walkabout-mini-golf-venice.json"
+    },
+    {
+      "igdb_id": 360338,
+      "game_name": "Walkabout Mini Golf: Viva Las Elvis",
+      "file": "missing/W/360338-walkabout-mini-golf-viva-las-elvis.json"
     },
     {
       "igdb_id": 271918,
