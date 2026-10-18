@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Rammy No Daibouken Ⅱ | 174128 | [174128-rammy-no-daibouken-ii.json](./174128-rammy-no-daibouken-ii.json) |
+| Rammy's Great Adventure 1&2 Remake | 339139 | [339139-rammys-great-adventure-1-and-2-remake.json](./339139-rammys-great-adventure-1-and-2-remake.json) |
 | Ramona | 370326 | [370326-ramona.json](./370326-ramona.json) |
 | Ramona: Play With Me | 370327 | [370327-ramona-play-with-me.json](./370327-ramona-play-with-me.json) |
 | Ramone: Teh Gaem | 59669 | [59669-ramone-teh-gaem.json](./59669-ramone-teh-gaem.json) |
@@ -2417,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Racing | 137368 | [137368-rebel-racing.json](./137368-rebel-racing.json) |
 | Rebel Reenactment: Battle of the Wilderness | 164429 | [164429-rebel-reenactment-battle-of-the-wilderness.json](./164429-rebel-reenactment-battle-of-the-wilderness.json) |
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
+| Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel Wings | 35051 | [35051-rebel-wings.json](./35051-rebel-wings.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
@@ -3518,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
 | Remake Lover | 403194 | [403194-remake-lover.json](./403194-remake-lover.json) |
+| Remanence | 339145 | [339145-remanence.json](./339145-remanence.json) |
 | Remaster Textures | 271488 | [271488-remaster-textures.json](./271488-remaster-textures.json) |
 | Rematch | 60008 | [60008-rematch.json](./60008-rematch.json) |
 | Rematch: Season 5 - Blue Lock | 416130 | [416130-rematch-season-5-blue-lock.json](./416130-rematch-season-5-blue-lock.json) |
@@ -8646,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
 | Ruinsmagus: The Warrior and the Tailor | 265762 | [265762-ruinsmagus-the-warrior-and-the-tailor.json](./265762-ruinsmagus-the-warrior-and-the-tailor.json) |
+| RuinsStory | 339075 | [339075-ruinsstory.json](./339075-ruinsstory.json) |
 | Ruka | 176899 | [176899-ruka.json](./176899-ruka.json) |
 | Ruki no Zetsubo | 151798 | [151798-ruki-no-zetsubo.json](./151798-ruki-no-zetsubo.json) |
 | Rukimin's Disappointing Adventure! | 201492 | [201492-rukimins-disappointing-adventure.json](./201492-rukimins-disappointing-adventure.json) |
