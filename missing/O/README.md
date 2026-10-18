@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ogre Chambers DX | 239795 | [239795-ogre-chambers-dx.json](./239795-ogre-chambers-dx.json) |
 | Ogre Island | 107611 | [107611-ogre-island.json](./107611-ogre-island.json) |
 | Ogre Labs | 310703 | [310703-ogre-labs.json](./310703-ogre-labs.json) |
+| Ogre Man | 325906 | [325906-ogre-man.json](./325906-ogre-man.json) |
 | Ogre Stampede | 413480 | [413480-ogre-stampede.json](./413480-ogre-stampede.json) |
 | Ogre: Console Edition | 202050 | [202050-ogre-console-edition.json](./202050-ogre-console-edition.json) |
 | Ogre's Ambition 2 | 82775 | [82775-ogres-ambition-2.json](./82775-ogres-ambition-2.json) |
