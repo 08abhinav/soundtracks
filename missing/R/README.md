@@ -2716,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bull Air Race 2 | 100165 | [100165-red-bull-air-race-2.json](./100165-red-bull-air-race-2.json) |
 | Red Bull Crashed Ice Kinect | 20237 | [20237-red-bull-crashed-ice-kinect.json](./20237-red-bull-crashed-ice-kinect.json) |
 | Red Bull Doodle Art: Global VR Gallery | 91294 | [91294-red-bull-doodle-art-global-vr-gallery.json](./91294-red-bull-doodle-art-global-vr-gallery.json) |
+| Red Bull Flugtag Flight Lab | 337431 | [337431-red-bull-flugtag-flight-lab.json](./337431-red-bull-flugtag-flight-lab.json) |
 | Red Bull Free Skiing | 86820 | [86820-red-bull-free-skiing.json](./86820-red-bull-free-skiing.json) |
 | Red Bull MotoCross 2D | 198136 | [198136-red-bull-motocross-2d.json](./198136-red-bull-motocross-2d.json) |
 | Red Bull X-Fighters | 20629 | [20629-red-bull-x-fighters.json](./20629-red-bull-x-fighters.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Game Crunch | 36349 | [36349-retro-game-crunch.json](./36349-retro-game-crunch.json) |
 | Retro Game Pack | 147902 | [147902-retro-game-pack.json](./147902-retro-game-pack.json) |
 | Retro Game Store Simulator | 331111 | [331111-retro-game-store-simulator.json](./331111-retro-game-store-simulator.json) |
+| Retro GameShop Simulator | 337503 | [337503-retro-gameshop-simulator.json](./337503-retro-gameshop-simulator.json) |
 | Retro Garbage | 62675 | [62675-retro-garbage.json](./62675-retro-garbage.json) |
 | Retro Geek Shop Simulator | 348968 | [348968-retro-geek-shop-simulator.json](./348968-retro-geek-shop-simulator.json) |
 | Retro Glitch | 364636 | [364636-retro-glitch.json](./364636-retro-glitch.json) |
@@ -8678,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruler of the Waves 1916 | 227838 | [227838-ruler-of-the-waves-1916.json](./227838-ruler-of-the-waves-1916.json) |
 | Ruler's Reign | 201636 | [201636-rulers-reign.json](./201636-rulers-reign.json) |
 | Rulers of Cospaia | 379719 | [379719-rulers-of-cospaia.json](./379719-rulers-of-cospaia.json) |
+| Rules & Rodents | 337435 | [337435-rules-and-rodents.json](./337435-rules-and-rodents.json) |
 | Rules of Destruction | 55679 | [55679-rules-of-destruction.json](./55679-rules-of-destruction.json) |
 | Rules of Engagement | 14421 | [14421-rules-of-engagement.json](./14421-rules-of-engagement.json) |
 | Rules of Engagement 2 | 14420 | [14420-rules-of-engagement-2.json](./14420-rules-of-engagement-2.json) |
