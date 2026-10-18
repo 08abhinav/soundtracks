@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
 | Exovoid | 292238 | [292238-exovoid.json](./292238-exovoid.json) |
+| Exovoid Carnage | 318293 | [318293-exovoid-carnage.json](./318293-exovoid-carnage.json) |
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exowar | 35509 | [35509-exowar.json](./35509-exowar.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
