@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinewing | 74434 | [74434-vinewing.json](./74434-vinewing.json) |
 | Vinios | 118107 | [118107-vinios.json](./118107-vinios.json) |
+| Vinland Tales | 324719 | [324719-vinland-tales.json](./324719-vinland-tales.json) |
 | Vinni Pukh i vse, vse, vse | 325045 | [325045-vinni-pukh-i-vse-vse-vse.json](./325045-vinni-pukh-i-vse-vse-vse.json) |
 | Vinnie Vole's Existential Nightmare | 63367 | [63367-vinnie-voles-existential-nightmare.json](./63367-vinnie-voles-existential-nightmare.json) |
 | Vinnie's Diary VR | 343333 | [343333-vinnies-diary-vr.json](./343333-vinnies-diary-vr.json) |
@@ -2642,6 +2643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voronium - Locust Sols | 106411 | [106411-voronium-locust-sols.json](./106411-voronium-locust-sols.json) |
 | Vorpal | 76166 | [76166-vorpal.json](./76166-vorpal.json) |
 | Vorrak | 24913 | [24913-vorrak.json](./24913-vorrak.json) |
+| Vortex | 324730 | [324730-vortex.json](./324730-vortex.json) |
 | Vortex | 411634 | [411634-vortex.json](./411634-vortex.json) |
 | Vortex | 417487 | [417487-vortex.json](./417487-vortex.json) |
 | Vortex | 81436 | [81436-vortex.json](./81436-vortex.json) |
