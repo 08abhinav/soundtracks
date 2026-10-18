@@ -1406,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Duty | 185498 | [185498-paradise-duty.json](./185498-paradise-duty.json) |
 | Paradise Falls | 392417 | [392417-paradise-falls.json](./392417-paradise-falls.json) |
 | Paradise Heights | 57596 | [57596-paradise-heights.json](./57596-paradise-heights.json) |
+| Paradise Heights GB | 330593 | [330593-paradise-heights-gb.json](./330593-paradise-heights-gb.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
@@ -11186,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 13: Nightwatch | 295338 | [295338-project-13-nightwatch.json](./295338-project-13-nightwatch.json) |
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
+| Project 1337: The Well | 330587 | [330587-project-1337-the-well.json](./330587-project-1337-the-well.json) |
 | Project 1v1 | 103383 | [103383-project-1v1.json](./103383-project-1v1.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
@@ -11660,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
+| Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
@@ -11813,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Undead | 165157 | [165157-project-undead.json](./165157-project-undead.json) |
 | Project: Unity | 275572 | [275572-project-unity.json](./275572-project-unity.json) |
 | Project: Velyria | 62087 | [62087-project-velyria.json](./62087-project-velyria.json) |
+| Project: Vigilante City | 330594 | [330594-project-vigilante-city.json](./330594-project-vigilante-city.json) |
 | Project: Waterfall | 224783 | [224783-project-waterfall.json](./224783-project-waterfall.json) |
 | Project: X Insurrection | 147292 | [147292-project-x-insurrection.json](./147292-project-x-insurrection.json) |
 | Project: XD | 196595 | [196595-project-xd.json](./196595-project-xd.json) |
