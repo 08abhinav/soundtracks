@@ -4298,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemica | 369739 | [369739-alchemica.json](./369739-alchemica.json) |
 | Alchemica: A Romance of Three Dimensions | 183963 | [183963-alchemica-a-romance-of-three-dimensions.json](./183963-alchemica-a-romance-of-three-dimensions.json) |
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
+| Alchemical Keyboard | 321810 | [321810-alchemical-keyboard.json](./321810-alchemical-keyboard.json) |
 | AlcheMice | 366621 | [366621-alchemice.json](./366621-alchemice.json) |
 | Alchemicraft | 181666 | [181666-alchemicraft.json](./181666-alchemicraft.json) |
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
 | Altered | 117645 | [117645-altered.json](./117645-altered.json) |
+| Altered | 321823 | [321823-altered.json](./321823-altered.json) |
 | Altered Alma | 252856 | [252856-altered-alma.json](./252856-altered-alma.json) |
 | Altered Anomalies | 322994 | [322994-altered-anomalies.json](./322994-altered-anomalies.json) |
 | Altered Beast | 19411 | [19411-altered-beast.json](./19411-altered-beast.json) |
@@ -12551,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
+| Avante! Atlantis | 321806 | [321806-avante-atlantis.json](./321806-avante-atlantis.json) |
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
 | Avara Aftershock 1.5 | 339141 | [339141-avara-aftershock-1-5.json](./339141-avara-aftershock-1-5.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
