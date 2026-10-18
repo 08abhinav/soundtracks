@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
 | Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
+| Tekken 8: Advanced Edition | 338032 | [338032-tekken-8-advanced-edition.json](./338032-tekken-8-advanced-edition.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
 | Tekken 8: Baobab Horizon | 379704 | [379704-tekken-8-baobab-horizon.json](./379704-tekken-8-baobab-horizon.json) |
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bardic Rites | 58856 | [58856-the-bardic-rites.json](./58856-the-bardic-rites.json) |
 | The Barkeeper | 332847 | [332847-the-barkeeper.json](./332847-the-barkeeper.json) |
 | The Barker & Mustard Files | 224074 | [224074-the-barker-and-mustard-files.json](./224074-the-barker-and-mustard-files.json) |
+| The Barney Fun Page! | 338038 | [338038-the-barney-fun-page.json](./338038-the-barney-fun-page.json) |
 | The Baron Got You Again | 54523 | [54523-the-baron-got-you-again.json](./54523-the-baron-got-you-again.json) |
 | The Barren Babel | 151800 | [151800-the-barren-babel.json](./151800-the-barren-babel.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
@@ -11773,6 +11775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
 | The Shaft | 232555 | [232555-the-shaft.json](./232555-the-shaft.json) |
 | The Shafts of Damnation | 345016 | [345016-the-shafts-of-damnation.json](./345016-the-shafts-of-damnation.json) |
+| The Shaking Chalice | 337979 | [337979-the-shaking-chalice.json](./337979-the-shaking-chalice.json) |
 | The Shaman's Ark | 258119 | [258119-the-shamans-ark.json](./258119-the-shamans-ark.json) |
 | The Shame of a Daydreamer | 349394 | [349394-the-shame-of-a-daydreamer.json](./349394-the-shame-of-a-daydreamer.json) |
 | The Shape of Happiness | 274144 | [274144-the-shape-of-happiness.json](./274144-the-shape-of-happiness.json) |
@@ -14379,6 +14382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Simulator: Luxury Houses | 193192 | [193192-thief-simulator-luxury-houses.json](./193192-thief-simulator-luxury-houses.json) |
 | Thief Simulator: Mastermind Edition | 362344 | [362344-thief-simulator-mastermind-edition.json](./362344-thief-simulator-mastermind-edition.json) |
 | Thief Simulator: Shopping Center | 260570 | [260570-thief-simulator-shopping-center.json](./260570-thief-simulator-shopping-center.json) |
+| Thief Snatch & Run | 337978 | [337978-thief-snatch-and-run.json](./337978-thief-snatch-and-run.json) |
 | Thief Town | 11223 | [11223-thief-town.json](./11223-thief-town.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
