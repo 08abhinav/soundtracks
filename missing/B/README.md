@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balan Wonderworld | 135992 | [135992-balan-wonderworld.json](./135992-balan-wonderworld.json) |
 | Balance | 260772 | [260772-balance.json](./260772-balance.json) |
 | Balance | 297775 | [297775-balance.json](./297775-balance.json) |
+| Balance | 345348 | [345348-balance.json](./345348-balance.json) |
 | Balance | 57749 | [57749-balance.json](./57749-balance.json) |
 | Balance Ball | 150483 | [150483-balance-ball.json](./150483-balance-ball.json) |
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
@@ -4207,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
 | Beeeeeeeam | 82765 | [82765-beeeeeeeam.json](./82765-beeeeeeeam.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
+| BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | BeeFense | 29096 | [29096-beefense.json](./29096-beefense.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
@@ -9912,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
 | Bound Crystal Saga | 388927 | [388927-bound-crystal-saga.json](./388927-bound-crystal-saga.json) |
+| Bound Destiny 2: Destiny's Requiem | 345365 | [345365-bound-destiny-2-destinys-requiem.json](./345365-bound-destiny-2-destinys-requiem.json) |
 | Bound Forest | 234672 | [234672-bound-forest.json](./234672-bound-forest.json) |
 | Bound High | 50596 | [50596-bound-high.json](./50596-bound-high.json) |
 | Bound in a Nutshell in Infinite Space | 373885 | [373885-bound-in-a-nutshell-in-infinite-space.json](./373885-bound-in-a-nutshell-in-infinite-space.json) |
