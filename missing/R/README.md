@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rank: Warmaster Bunker Buster | 343871 | [343871-rank-warmaster-bunker-buster.json](./343871-rank-warmaster-bunker-buster.json) |
 | Rankdle | 294221 | [294221-rankdle.json](./294221-rankdle.json) |
 | Ranking Narabete Joushiki Quiz | 251615 | [251615-ranking-narabete-joushiki-quiz.json](./251615-ranking-narabete-joushiki-quiz.json) |
+| Ranma | 328314 | [328314-ranma.json](./328314-ranma.json) |
 | Ranma 1/2 | 37630 | [37630-ranma-1-2.json](./37630-ranma-1-2.json) |
 | Ranma 1/2 | 75853 | [75853-ranma-1-2.json](./75853-ranma-1-2.json) |
 | Ranma 1/2: Battle Renaissance | 44822 | [44822-ranma-1-2-battle-renaissance.json](./44822-ranma-1-2-battle-renaissance.json) |
@@ -6743,6 +6744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock, Ken, Bo | 28807 | [28807-rock-ken-bo.json](./28807-rock-ken-bo.json) |
 | Rock, Paper and Scissors | 114274 | [114274-rock-paper-and-scissors.json](./114274-rock-paper-and-scissors.json) |
 | Rock, Paper, Scissors Simulator | 127238 | [127238-rock-paper-scissors-simulator.json](./127238-rock-paper-scissors-simulator.json) |
+| Rock, Paper, Scissors, Boom! | 328301 | [328301-rock-paper-scissors-boom.json](./328301-rock-paper-scissors-boom.json) |
 | Rock, Paper, Scissors, Shoot! | 408804 | [408804-rock-paper-scissors-shoot.json](./408804-rock-paper-scissors-shoot.json) |
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
