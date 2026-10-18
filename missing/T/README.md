@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails no Flying Get | 261253 | [261253-tails-no-flying-get.json](./261253-tails-no-flying-get.json) |
 | Tails Noir | 97257 | [97257-tails-noir.json](./97257-tails-noir.json) |
 | Tails Noir Preludes | 215067 | [215067-tails-noir-preludes.json](./215067-tails-noir-preludes.json) |
+| Tails Noir: Rebel Rush | 311881 | [311881-tails-noir-rebel-rush.json](./311881-tails-noir-rebel-rush.json) |
 | Tails of Fate | 238553 | [238553-tails-of-fate.json](./238553-tails-of-fate.json) |
 | Tails of Glimmervale | 289867 | [289867-tails-of-glimmervale.json](./289867-tails-of-glimmervale.json) |
 | Tails of Iron | 116422 | [116422-tails-of-iron.json](./116422-tails-of-iron.json) |
@@ -3302,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
+| Terra Revive | 311901 | [311901-terra-revive.json](./311901-terra-revive.json) |
 | Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
@@ -7714,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heaven | 346207 | [346207-the-heaven.json](./346207-the-heaven.json) |
 | The Heavens | 366303 | [366303-the-heavens.json](./366303-the-heavens.json) |
 | The Hedgehogs | 99405 | [99405-the-hedgehogs.json](./99405-the-hedgehogs.json) |
+| The Heft Effect | 311874 | [311874-the-heft-effect.json](./311874-the-heft-effect.json) |
 | The Heights | 244504 | [244504-the-heights.json](./244504-the-heights.json) |
 | The Heiress | 51604 | [51604-the-heiress.json](./51604-the-heiress.json) |
 | The Heiress of Sorcery | 130210 | [130210-the-heiress-of-sorcery.json](./130210-the-heiress-of-sorcery.json) |
@@ -13498,6 +13501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
+| The Upper Hand | 311862 | [311862-the-upper-hand.json](./311862-the-upper-hand.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
 | The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
