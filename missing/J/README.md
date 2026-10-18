@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Joyride 2 | 287036 | [287036-jetpack-joyride-2.json](./287036-jetpack-joyride-2.json) |
 | Jetpack Joyride Deluxe | 99802 | [99802-jetpack-joyride-deluxe.json](./99802-jetpack-joyride-deluxe.json) |
 | Jetpack Joyride India Exclusive | 238204 | [238204-jetpack-joyride-india-exclusive.json](./238204-jetpack-joyride-india-exclusive.json) |
+| Jetpack Joyride: Test Labs | 336326 | [336326-jetpack-joyride-test-labs.json](./336326-jetpack-joyride-test-labs.json) |
 | Jetpack Man | 312207 | [312207-jetpack-man.json](./312207-jetpack-man.json) |
 | Jetpack Race | 308519 | [308519-jetpack-race.json](./308519-jetpack-race.json) |
 | Jetpack Soccer | 241055 | [241055-jetpack-soccer.json](./241055-jetpack-soccer.json) |
@@ -2474,6 +2475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
 | Jumping Ball | 27608 | [27608-jumping-ball.json](./27608-jumping-ball.json) |
+| Jumping Boy | 336422 | [336422-jumping-boy.json](./336422-jumping-boy.json) |
 | Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
 | Jumping Bricks Ball | 193765 | [193765-jumping-bricks-ball.json](./193765-jumping-bricks-ball.json) |
 | Jumping Challenge | 296927 | [296927-jumping-challenge.json](./296927-jumping-challenge.json) |
