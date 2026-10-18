@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Augusta | 37909 | [37909-harukanaru-augusta.json](./37909-harukanaru-augusta.json) |
 | Harukanaru Augusta 2: Masters | 37933 | [37933-harukanaru-augusta-2-masters.json](./37933-harukanaru-augusta-2-masters.json) |
 | Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
+| Harukanaru Nirai Kanai | 318860 | [318860-harukanaru-nirai-kanai.json](./318860-harukanaru-nirai-kanai.json) |
 | Harukanaru Toki no Naka de | 49749 | [49749-harukanaru-toki-no-naka-de.json](./49749-harukanaru-toki-no-naka-de.json) |
 | Harukanaru Toki no Naka de 2 | 70658 | [70658-harukanaru-toki-no-naka-de-2.json](./70658-harukanaru-toki-no-naka-de-2.json) |
 | Harukanaru Toki no Naka de 3 | 70657 | [70657-harukanaru-toki-no-naka-de-3.json](./70657-harukanaru-toki-no-naka-de-3.json) |
@@ -4532,6 +4533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
+| Heróis de Noname | 318850 | [318850-herois-de-noname.json](./318850-herois-de-noname.json) |
 | Heroish | 207215 | [207215-heroish.json](./207215-heroish.json) |
 | Heroism | 155055 | [155055-heroism.json](./155055-heroism.json) |
 | Heroki | 96612 | [96612-heroki.json](./96612-heroki.json) |
