@@ -2338,6 +2338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
 | Heart de Roommate | 84234 | [84234-heart-de-roommate.json](./84234-heart-de-roommate.json) |
+| Heart Electric | 328329 | [328329-heart-electric.json](./328329-heart-electric.json) |
 | Heart Fragment | 131599 | [131599-heart-fragment.json](./131599-heart-fragment.json) |
 | Heart Fragment: Book One - Fantasy Fragments | 245032 | [245032-heart-fragment-book-one-fantasy-fragments.json](./245032-heart-fragment-book-one-fantasy-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
@@ -7665,6 +7666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Jetz | 166206 | [166206-hot-wheels-jetz.json](./166206-hot-wheels-jetz.json) |
 | Hot Wheels: Mechanix | 70991 | [70991-hot-wheels-mechanix.json](./70991-hot-wheels-mechanix.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
+| Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
@@ -8725,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Challenge | 145561 | [145561-hunting-challenge.json](./145561-hunting-challenge.json) |
 | Hunting Clash: Hunter Games | 235294 | [235294-hunting-clash-hunter-games.json](./235294-hunting-clash-hunter-games.json) |
 | Hunting fields of Jackals | 114966 | [114966-hunting-fields-of-jackals.json](./114966-hunting-fields-of-jackals.json) |
+| Hunting Grounds: Whispers Of The Woods | 328323 | [328323-hunting-grounds-whispers-of-the-woods.json](./328323-hunting-grounds-whispers-of-the-woods.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
 | Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
