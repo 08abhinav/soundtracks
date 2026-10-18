@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern Crusader | 73303 | [73303-cavern-crusader.json](./73303-cavern-crusader.json) |
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
+| Cavern Sweeper | 328334 | [328334-cavern-sweeper.json](./328334-cavern-sweeper.json) |
 | Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
 | Caverna do Podrão | 332290 | [332290-caverna-do-podrao.json](./332290-caverna-do-podrao.json) |
 | Cavernous | 414868 | [414868-cavernous.json](./414868-cavernous.json) |
@@ -10633,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coruscant Attack | 245965 | [245965-coruscant-attack.json](./245965-coruscant-attack.json) |
 | Corvax | 398314 | [398314-corvax.json](./398314-corvax.json) |
 | Corvette | 418594 | [418594-corvette.json](./418594-corvette.json) |
+| Corvette Evolution GT | 328286 | [328286-corvette-evolution-gt.json](./328286-corvette-evolution-gt.json) |
 | Corvette Evolution GT | 43475 | [43475-corvette-evolution-gt.json](./43475-corvette-evolution-gt.json) |
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
@@ -11331,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
 | cr4nkup | 327782 | [327782-cr4nkup.json](./327782-cr4nkup.json) |
+| Cra Cra | 328297 | [328297-cra-cra.json](./328297-cra-cra.json) |
 | Crab and Fish | 218701 | [218701-crab-and-fish.json](./218701-crab-and-fish.json) |
 | Crab Balls | 233477 | [233477-crab-balls.json](./233477-crab-balls.json) |
 | Crab Boat | 291020 | [291020-crab-boat.json](./291020-crab-boat.json) |
