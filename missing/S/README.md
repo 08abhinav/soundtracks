@@ -5770,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd's Crossing | 43270 | [43270-shepherds-crossing.json](./43270-shepherds-crossing.json) |
 | Shepherd's Eye | 288230 | [288230-shepherds-eye.json](./288230-shepherds-eye.json) |
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
+| Shepherds | 320589 | [320589-shepherds.json](./320589-shepherds.json) |
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
@@ -8639,6 +8640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeetshoot | 81284 | [81284-skeetshoot.json](./81284-skeetshoot.json) |
 | Skein | 74764 | [74764-skein.json](./74764-skein.json) |
 | Skel and Defense | 304319 | [304319-skel-and-defense.json](./304319-skel-and-defense.json) |
+| Skel Dungeon | 320572 | [320572-skel-dungeon.json](./320572-skel-dungeon.json) |
 | Skelattack | 54837 | [54837-skelattack.json](./54837-skelattack.json) |
 | Skele Magic | 182944 | [182944-skele-magic.json](./182944-skele-magic.json) |
 | Skelecool: Remnants | 411028 | [411028-skelecool-remnants.json](./411028-skelecool-remnants.json) |
@@ -10451,6 +10453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
 | Smokin' Token | 58473 | [58473-smokin-token.json](./58473-smokin-token.json) |
+| Smoking Gun | 320574 | [320574-smoking-gun.json](./320574-smoking-gun.json) |
 | Smoking Guns: Shooting Gallery! | 77382 | [77382-smoking-guns-shooting-gallery.json](./77382-smoking-guns-shooting-gallery.json) |
 | Smoking Kills | 280281 | [280281-smoking-kills.json](./280281-smoking-kills.json) |
 | Smoking Simulator | 201285 | [201285-smoking-simulator.json](./201285-smoking-simulator.json) |
