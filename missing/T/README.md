@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abyss Break | 379098 | [379098-the-abyss-break.json](./379098-the-abyss-break.json) |
 | The Abyss Has Walls | 195760 | [195760-the-abyss-has-walls.json](./195760-the-abyss-has-walls.json) |
 | The Abyss: Incident at Europa | 74076 | [74076-the-abyss-incident-at-europa.json](./74076-the-abyss-incident-at-europa.json) |
+| The Abyssal Descent | 356435 | [356435-the-abyssal-descent.json](./356435-the-abyssal-descent.json) |
 | The Abyssal Diplomat | 400939 | [400939-the-abyssal-diplomat.json](./400939-the-abyssal-diplomat.json) |
 | The Abyssal Maze | 379096 | [379096-the-abyssal-maze.json](./379096-the-abyssal-maze.json) |
 | The Abyssal Zone | 12246 | [12246-the-abyssal-zone.json](./12246-the-abyssal-zone.json) |
