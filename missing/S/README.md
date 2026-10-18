@@ -7640,6 +7640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silke, Pixelines Lillesøster: Kan Du Klokken? | 349494 | [349494-silke-pixelines-lilles-ster-kan-du-klokken.json](./349494-silke-pixelines-lilles-ster-kan-du-klokken.json) |
 | Silke, Pixelines Lillesøster: Mæh, Siger Det Lille Monster | 349492 | [349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json](./349492-silke-pixelines-lilles-ster-m-h-siger-det-lille-monster.json) |
 | Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
+| Silken Shaft | 334526 | [334526-silken-shaft.json](./334526-silken-shaft.json) |
 | Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
@@ -8362,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sirius: Age of the Free Agents | 115075 | [115075-sirius-age-of-the-free-agents.json](./115075-sirius-age-of-the-free-agents.json) |
 | SirKwitz | 306336 | [306336-sirkwitz.json](./306336-sirkwitz.json) |
 | Sirocco | 298272 | [298272-sirocco.json](./298272-sirocco.json) |
+| SirVive | 334563 | [334563-sirvive.json](./334563-sirvive.json) |
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
@@ -16758,6 +16760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squat Ops | 348362 | [348362-squat-ops.json](./348362-squat-ops.json) |
 | Squatch | 133234 | [133234-squatch.json](./133234-squatch.json) |
 | Squatzee | 184467 | [184467-squatzee.json](./184467-squatzee.json) |
+| Squawky | 334461 | [334461-squawky.json](./334461-squawky.json) |
 | Squaxel | 160103 | [160103-squaxel.json](./160103-squaxel.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
 | Squeak | 296003 | [296003-squeak.json](./296003-squeak.json) |
@@ -18764,6 +18767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Battalion: Heavy Armor | 8547 | [8547-steel-battalion-heavy-armor.json](./8547-steel-battalion-heavy-armor.json) |
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
+| Steel Century Groove: Midnight | 334462 | [334462-steel-century-groove-midnight.json](./334462-steel-century-groove-midnight.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
 | Steel Chronicle | 340809 | [340809-steel-chronicle.json](./340809-steel-chronicle.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
@@ -20040,6 +20044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Runners: Heroes | 232972 | [232972-stream-runners-heroes.json](./232972-stream-runners-heroes.json) |
 | Stream Service | 286751 | [286751-stream-service.json](./286751-stream-service.json) |
 | Stream Siege | 410790 | [410790-stream-siege.json](./410790-stream-siege.json) |
+| Stream Star: Sensations | 334531 | [334531-stream-star-sensations.json](./334531-stream-star-sensations.json) |
 | Stream Stratos | 348323 | [348323-stream-stratos.json](./348323-stream-stratos.json) |
 | Stream Town | 143703 | [143703-stream-town.json](./143703-stream-town.json) |
 | Stream Toys by Zokya | 142785 | [142785-stream-toys-by-zokya.json](./142785-stream-toys-by-zokya.json) |
