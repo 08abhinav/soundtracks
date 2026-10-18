@@ -7981,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Iceman | 278106 | [278106-the-iceman.json](./278106-the-iceman.json) |
 | The Icky Mr Fox | 299261 | [299261-the-icky-mr-fox.json](./299261-the-icky-mr-fox.json) |
 | The Ico & Shadow of the Colossus Collection | 21084 | [21084-the-ico-and-shadow-of-the-colossus-collection.json](./21084-the-ico-and-shadow-of-the-colossus-collection.json) |
+| The Idiot Test | 313544 | [313544-the-idiot-test.json](./313544-the-idiot-test.json) |
 | The Idiot's Tale | 87956 | [87956-the-idiots-tale.json](./87956-the-idiots-tale.json) |
 | The Idle | 290006 | [290006-the-idle.json](./290006-the-idle.json) |
 | The Idle Forces: Army Tycoon | 245288 | [245288-the-idle-forces-army-tycoon.json](./245288-the-idle-forces-army-tycoon.json) |
@@ -9092,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
+| The Legend of Heroes: Trails from Zero - Limited Edition | 313563 | [313563-the-legend-of-heroes-trails-from-zero-limited-edition.json](./313563-the-legend-of-heroes-trails-from-zero-limited-edition.json) |
 | The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
@@ -9101,6 +9103,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails into Reverie - Advanced Set 2 | 256203 | [256203-the-legend-of-heroes-trails-into-reverie-advanced-set-2.json](./256203-the-legend-of-heroes-trails-into-reverie-advanced-set-2.json) |
 | The Legend of Heroes: Trails into Reverie - Complete Cosmetics | 256256 | [256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json](./256256-the-legend-of-heroes-trails-into-reverie-complete-cosmetics.json) |
 | The Legend of Heroes: Trails into Reverie - Deluxe Edition | 225777 | [225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json](./225777-the-legend-of-heroes-trails-into-reverie-deluxe-edition.json) |
+| The Legend of Heroes: Trails into Reverie - Digital Deluxe Edition | 313580 | [313580-the-legend-of-heroes-trails-into-reverie-digital-deluxe-edition.json](./313580-the-legend-of-heroes-trails-into-reverie-digital-deluxe-edition.json) |
+| The Legend of Heroes: Trails into Reverie - Limited Edition | 313582 | [313582-the-legend-of-heroes-trails-into-reverie-limited-edition.json](./313582-the-legend-of-heroes-trails-into-reverie-limited-edition.json) |
 | The Legend of Heroes: Trails into Reverie - Premium Cosmetic Set | 251673 | [251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json](./251673-the-legend-of-heroes-trails-into-reverie-premium-cosmetic-set.json) |
 | The Legend of Heroes: Trails into Reverie - SSS Summer Splash Set | 251671 | [251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json](./251671-the-legend-of-heroes-trails-into-reverie-sss-summer-splash-set.json) |
 | The Legend of Heroes: Trails into Reverie - Standard Cosmetic Set | 251672 | [251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json](./251672-the-legend-of-heroes-trails-into-reverie-standard-cosmetic-set.json) |
@@ -9123,6 +9127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails through Daybreak II - Limited Edition | 313762 | [313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json](./313762-the-legend-of-heroes-trails-through-daybreak-ii-limited-edition.json) |
 | The Legend of Heroes: Trails to Azure | 23323 | [23323-the-legend-of-heroes-trails-to-azure.json](./23323-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails to Azure - Deluxe Edition | 249169 | [249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json](./249169-the-legend-of-heroes-trails-to-azure-deluxe-edition.json) |
+| The Legend of Heroes: Trails to Azure - Limited Edition | 313566 | [313566-the-legend-of-heroes-trails-to-azure-limited-edition.json](./313566-the-legend-of-heroes-trails-to-azure-limited-edition.json) |
 | The Legend of Heroes: Zero no Kiseki | 192133 | [192133-the-legend-of-heroes-zero-no-kiseki.json](./192133-the-legend-of-heroes-zero-no-kiseki.json) |
 | The Legend of Heroes: Zero no Kiseki Evolution | 136756 | [136756-the-legend-of-heroes-zero-no-kiseki-evolution.json](./136756-the-legend-of-heroes-zero-no-kiseki-evolution.json) |
 | The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
@@ -14056,6 +14061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
+| The World's Easyest Game | 313542 | [313542-the-worlds-easyest-game.json](./313542-the-worlds-easyest-game.json) |
 | The World's Egg: For Those Who Dream | 278355 | [278355-the-worlds-egg-for-those-who-dream.json](./278355-the-worlds-egg-for-those-who-dream.json) |
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
 | The World's Hardest Game | 141086 | [141086-the-worlds-hardest-game.json](./141086-the-worlds-hardest-game.json) |
