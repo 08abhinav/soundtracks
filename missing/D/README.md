@@ -141,6 +141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dabda | 90615 | [90615-dabda.json](./90615-dabda.json) |
 | Dabman: Dabtastic Bundle | 112793 | [112793-dabman-dabtastic-bundle.json](./112793-dabman-dabtastic-bundle.json) |
 | Dabman: When the Haters Dab Back | 104936 | [104936-dabman-when-the-haters-dab-back.json](./104936-dabman-when-the-haters-dab-back.json) |
+| Daburali | 319417 | [319417-daburali.json](./319417-daburali.json) |
 | Dabwoman: When the Dab isn't Sexist | 106622 | [106622-dabwoman-when-the-dab-isnt-sexist.json](./106622-dabwoman-when-the-dab-isnt-sexist.json) |
 | DAC 20 | 273556 | [273556-dac-20.json](./273556-dac-20.json) |
 | DaCapo Delivers | 152832 | [152832-dacapo-delivers.json](./152832-dacapo-delivers.json) |
@@ -4073,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
+| Defense Golem | 319422 | [319422-defense-golem.json](./319422-defense-golem.json) |
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Grid: DLC Bundle | 227415 | [227415-defense-grid-dlc-bundle.json](./227415-defense-grid-dlc-bundle.json) |
@@ -6838,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
+| Dinocop | 319445 | [319445-dinocop.json](./319445-dinocop.json) |
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | Dinodrifters | 126317 | [126317-dinodrifters.json](./126317-dinodrifters.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
@@ -13525,6 +13528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
 | Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
 | Dust & Diamonds | 419901 | [419901-dust-and-diamonds.json](./419901-dust-and-diamonds.json) |
+| Dust & Diesel: Deadland Delivery | 319461 | [319461-dust-and-diesel-deadland-delivery.json](./319461-dust-and-diesel-deadland-delivery.json) |
 | Dust & Letters | 402915 | [402915-dust-and-letters.json](./402915-dust-and-letters.json) |
 | Dust & Neon | 215894 | [215894-dust-and-neon.json](./215894-dust-and-neon.json) |
 | Dust & Rain: Post-apocalyptic RPG | 301987 | [301987-dust-and-rain-post-apocalyptic-rpg.json](./301987-dust-and-rain-post-apocalyptic-rpg.json) |
