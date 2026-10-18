@@ -3596,6 +3596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo: Reborn - Rayark Selection Vol.1 | 356586 | [356586-deemo-reborn-rayark-selection-vol-1.json](./356586-deemo-reborn-rayark-selection-vol-1.json) |
 | Deemo: Reborn - Rayark Selection Vol.2 | 356585 | [356585-deemo-reborn-rayark-selection-vol-2.json](./356585-deemo-reborn-rayark-selection-vol-2.json) |
 | Deemo: Reborn - Rayark Selection vol.3 | 356583 | [356583-deemo-reborn-rayark-selection-vol-3.json](./356583-deemo-reborn-rayark-selection-vol-3.json) |
+| Deemo: Reborn - Taiko no Tatsujin Collaboration Collection | 356443 | [356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json](./356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json) |
 | Deemo: The Last Recital | 26996 | [26996-deemo-the-last-recital.json](./26996-deemo-the-last-recital.json) |
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
@@ -6576,6 +6577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner City | 318138 | [318138-diner-city.json](./318138-diner-city.json) |
 | Diner Dash | 85564 | [85564-diner-dash.json](./85564-diner-dash.json) |
 | Diner Dash 2: Restaurant Rescue | 78690 | [78690-diner-dash-2-restaurant-rescue.json](./78690-diner-dash-2-restaurant-rescue.json) |
+| Diner Dash Adventures | 356432 | [356432-diner-dash-adventures.json](./356432-diner-dash-adventures.json) |
 | Diner Dash Mobile | 104663 | [104663-diner-dash-mobile.json](./104663-diner-dash-mobile.json) |
 | Diner Dash Rush | 351764 | [351764-diner-dash-rush.json](./351764-diner-dash-rush.json) |
 | Diner Dash: Family Style | 366420 | [366420-diner-dash-family-style.json](./366420-diner-dash-family-style.json) |
@@ -11249,6 +11251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Match Tennis | 69361 | [69361-dream-match-tennis.json](./69361-dream-match-tennis.json) |
 | Dream Match Tennis Pro | 109197 | [109197-dream-match-tennis-pro.json](./109197-dream-match-tennis-pro.json) |
 | Dream Match Tennis VR | 105507 | [105507-dream-match-tennis-vr.json](./105507-dream-match-tennis-vr.json) |
+| Dream Mayday | 356421 | [356421-dream-mayday.json](./356421-dream-mayday.json) |
 | Dream Medicine | 286126 | [286126-dream-medicine.json](./286126-dream-medicine.json) |
 | Dream Meister and the Recollected Black Fairy | 193805 | [193805-dream-meister-and-the-recollected-black-fairy.json](./193805-dream-meister-and-the-recollected-black-fairy.json) |
 | Dream Mini Golf: Putt Star | 253277 | [253277-dream-mini-golf-putt-star.json](./253277-dream-mini-golf-putt-star.json) |
