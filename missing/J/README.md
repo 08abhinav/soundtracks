@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Rally: Big Run - The Supreme 4WD Challenge | 38169 | [38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json](./38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jaleco Sports: Faceoffs | 417317 | [417317-jaleco-sports-faceoffs.json](./417317-jaleco-sports-faceoffs.json) |
+| Jaleco Sports: Goal! | 347556 | [347556-jaleco-sports-goal.json](./347556-jaleco-sports-goal.json) |
 | Jalecolle Famicom Ver. Bio Warrior Dan: The Increaser War | 317557 | [317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json](./317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json) |
 | Jalecolle Famicom Ver. Pinball Quest | 310488 | [310488-jalecolle-famicom-ver-pinball-quest.json](./310488-jalecolle-famicom-ver-pinball-quest.json) |
 | Jalecolle Famicom Ver. Pizza Pop! | 328517 | [328517-jalecolle-famicom-ver-pizza-pop.json](./328517-jalecolle-famicom-ver-pizza-pop.json) |
