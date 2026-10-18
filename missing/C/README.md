@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
+| Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
@@ -10953,6 +10954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | County Hospital 2 | 211697 | [211697-county-hospital-2.json](./211697-county-hospital-2.json) |
 | County Hospital Outbreak | 405700 | [405700-county-hospital-outbreak.json](./405700-county-hospital-outbreak.json) |
 | County of Fortune | 327218 | [327218-county-of-fortune.json](./327218-county-of-fortune.json) |
+| Coup de Koala | 357030 | [357030-coup-de-koala.json](./357030-coup-de-koala.json) |
 | CoupButat | 242568 | [242568-coupbutat.json](./242568-coupbutat.json) |
 | Couple Life 3D | 224066 | [224066-couple-life-3d.json](./224066-couple-life-3d.json) |
 | Couple-Cultivation Saves the World | 324669 | [324669-couple-cultivation-saves-the-world.json](./324669-couple-cultivation-saves-the-world.json) |
