@@ -10428,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Strike! | 63347 | [63347-princess-strike.json](./63347-princess-strike.json) |
 | Princess Survivors | 244672 | [244672-princess-survivors.json](./244672-princess-survivors.json) |
 | Princess Tomato in the Salad Kingdom | 48221 | [48221-princess-tomato-in-the-salad-kingdom.json](./48221-princess-tomato-in-the-salad-kingdom.json) |
+| Princess Trouble | 362017 | [362017-princess-trouble.json](./362017-princess-trouble.json) |
 | Princess Ursula | 339233 | [339233-princess-ursula.json](./339233-princess-ursula.json) |
 | Princess War | 39000 | [39000-princess-war.json](./39000-princess-war.json) |
 | Princess Witches Excellent | 410953 | [410953-princess-witches-excellent.json](./410953-princess-witches-excellent.json) |
@@ -11418,6 +11419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Red Sun | 407527 | [407527-project-red-sun.json](./407527-project-red-sun.json) |
 | Project Regolith | 236793 | [236793-project-regolith.json](./236793-project-regolith.json) |
 | Project Remedium | 32612 | [32612-project-remedium.json](./32612-project-remedium.json) |
+| Project ReMind | 362052 | [362052-project-remind.json](./362052-project-remind.json) |
 | Project Renaissance | 419915 | [419915-project-renaissance.json](./419915-project-renaissance.json) |
 | Project Reset | 108042 | [108042-project-reset.json](./108042-project-reset.json) |
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
@@ -11893,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proxy Blade Zero | 17644 | [17644-proxy-blade-zero.json](./17644-proxy-blade-zero.json) |
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
+| Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
