@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshi no Kotoba | 144730 | [144730-genshi-no-kotoba.json](./144730-genshi-no-kotoba.json) |
 | Genshin Impact: A Nocturne of the Far North | 378320 | [378320-genshin-impact-a-nocturne-of-the-far-north.json](./378320-genshin-impact-a-nocturne-of-the-far-north.json) |
 | Genshin Impact: A Rekviem for the Underworld | 417641 | [417641-genshin-impact-a-rekviem-for-the-underworld.json](./417641-genshin-impact-a-rekviem-for-the-underworld.json) |
+| Genshin Impact: A Space and Time for You | 347558 | [347558-genshin-impact-a-space-and-time-for-you.json](./347558-genshin-impact-a-space-and-time-for-you.json) |
 | Genshin Impact: Akasha Pulses, the Kalpa Flame Rises | 257453 | [257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json](./257453-genshin-impact-akasha-pulses-the-kalpa-flame-rises.json) |
 | Genshin Impact: All Senses Clear, All Existence Void | 257465 | [257465-genshin-impact-all-senses-clear-all-existence-void.json](./257465-genshin-impact-all-senses-clear-all-existence-void.json) |
 | Genshin Impact: An Elegy for Faded Moonlight | 372567 | [372567-genshin-impact-an-elegy-for-faded-moonlight.json](./372567-genshin-impact-an-elegy-for-faded-moonlight.json) |
