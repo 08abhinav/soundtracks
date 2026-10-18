@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
 | Gentle Female Boss | 276660 | [276660-gentle-female-boss.json](./276660-gentle-female-boss.json) |
+| Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
 | GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
