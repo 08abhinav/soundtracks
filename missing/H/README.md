@@ -7221,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
 | Horror Prison | 319176 | [319176-horror-prison.json](./319176-horror-prison.json) |
+| Horror Remake | 351405 | [351405-horror-remake.json](./351405-horror-remake.json) |
 | Horror Rollercoaster | 105103 | [105103-horror-rollercoaster.json](./105103-horror-rollercoaster.json) |
 | Horror Room:Mystery mind story | 143092 | [143092-horror-room-mystery-mind-story.json](./143092-horror-room-mystery-mind-story.json) |
 | Horror Royale | 153965 | [153965-horror-royale.json](./153965-horror-royale.json) |
