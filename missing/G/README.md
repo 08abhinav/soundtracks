@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
 | Good Night Mr. Snoozleberg | 321456 | [321456-good-night-mr-snoozleberg.json](./321456-good-night-mr-snoozleberg.json) |
+| Good Night Pan Pan | 316472 | [316472-good-night-pan-pan.json](./316472-good-night-pan-pan.json) |
 | Good Night, Egg | 181727 | [181727-good-night-egg.json](./181727-good-night-egg.json) |
 | Good Night, Every Night | 244197 | [244197-good-night-every-night.json](./244197-good-night-every-night.json) |
 | Good Night, Knight | 122122 | [122122-good-night-knight.json](./122122-good-night-knight.json) |
