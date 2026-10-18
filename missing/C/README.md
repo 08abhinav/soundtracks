@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
+| Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
 | Chat Ragdoll Racing | 332288 | [332288-chat-ragdoll-racing.json](./332288-chat-ragdoll-racing.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
@@ -5511,6 +5512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choiceline Brawl | 389538 | [389538-choiceline-brawl.json](./389538-choiceline-brawl.json) |
 | Choices | 181725 | [181725-choices.json](./181725-choices.json) |
 | Choices & Chances | 373801 | [373801-choices-and-chances.json](./373801-choices-and-chances.json) |
+| Choices Matter: Mega City | 319457 | [319457-choices-matter-mega-city.json](./319457-choices-matter-mega-city.json) |
 | Choices, the Game | 83531 | [83531-choices-the-game.json](./83531-choices-the-game.json) |
 | Choirsaintess | 367060 | [367060-choirsaintess.json](./367060-choirsaintess.json) |
 | Choju Yokai Giga | 151684 | [151684-choju-yokai-giga.json](./151684-choju-yokai-giga.json) |
@@ -8864,6 +8866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorSense | 182516 | [182516-colorsense.json](./182516-colorsense.json) |
 | Colorspace | 254398 | [254398-colorspace.json](./254398-colorspace.json) |
 | ColorSpill Ball | 334751 | [334751-colorspill-ball.json](./334751-colorspill-ball.json) |
+| ColorSweeper | 319413 | [319413-colorsweeper.json](./319413-colorsweeper.json) |
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
