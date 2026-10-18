@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Restaurante de Sam | 412426 | [412426-el-restaurante-de-sam.json](./412426-el-restaurante-de-sam.json) |
 | El Rock de tu Vida | 126004 | [126004-el-rock-de-tu-vida.json](./126004-el-rock-de-tu-vida.json) |
 | El Salar | 332451 | [332451-el-salar.json](./332451-el-salar.json) |
+| El Séquito de Leonor de Aquitania | 321842 | [321842-el-sequito-de-leonor-de-aquitania.json](./321842-el-sequito-de-leonor-de-aquitania.json) |
 | El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
