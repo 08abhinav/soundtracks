@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
+| InvisibleHand | 319407 | [319407-invisiblehand.json](./319407-invisiblehand.json) |
 | Invisibox | 74253 | [74253-invisibox.json](./74253-invisibox.json) |
 | Invisigun Reloaded | 122724 | [122724-invisigun-reloaded.json](./122724-invisigun-reloaded.json) |
 | Invisum Piscium | 394527 | [394527-invisum-piscium.json](./394527-invisum-piscium.json) |
