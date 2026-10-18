@@ -9334,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Blade | 181192 | [181192-rusty-blade.json](./181192-rusty-blade.json) |
 | Rusty Blower 3D | 342782 | [342782-rusty-blower-3d.json](./342782-rusty-blower-3d.json) |
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
+| Rusty Dudes | 323016 | [323016-rusty-dudes.json](./323016-rusty-dudes.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
