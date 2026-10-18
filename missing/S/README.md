@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salome's Kiss | 190940 | [190940-salomes-kiss.json](./190940-salomes-kiss.json) |
 | Salomónico | 304219 | [304219-salomonico.json](./304219-salomonico.json) |
 | Saloon Cars Deluxe | 13256 | [13256-saloon-cars-deluxe.json](./13256-saloon-cars-deluxe.json) |
+| Saloon King | 325928 | [325928-saloon-king.json](./325928-saloon-king.json) |
 | Saloon Sally | 13754 | [13754-saloon-sally.json](./13754-saloon-sally.json) |
 | Saloon Showdown VR | 68591 | [68591-saloon-showdown-vr.json](./68591-saloon-showdown-vr.json) |
 | Saloon Simulator | 211782 | [211782-saloon-simulator.json](./211782-saloon-simulator.json) |
@@ -18928,6 +18929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Surge: Revolution | 275666 | [275666-steel-surge-revolution.json](./275666-steel-surge-revolution.json) |
+| Steel Swarm: Apocalypse | 325886 | [325886-steel-swarm-apocalypse.json](./325886-steel-swarm-apocalypse.json) |
 | Steel Swarm: Survivor | 387595 | [387595-steel-swarm-survivor.json](./387595-steel-swarm-survivor.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
@@ -19003,6 +19005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stella Glow | 11459 | [11459-stella-glow.json](./11459-stella-glow.json) |
 | Stella Incus | 390222 | [390222-stella-incus.json](./390222-stella-incus.json) |
 | Stella Nova | 407466 | [407466-stella-nova.json](./407466-stella-nova.json) |
+| Stella of The End: Diary of a Faint Hope | 325915 | [325915-stella-of-the-end-diary-of-a-faint-hope.json](./325915-stella-of-the-end-diary-of-a-faint-hope.json) |
 | Stella of the End: First Press Limited Edition | 379954 | [379954-stella-of-the-end-first-press-limited-edition.json](./379954-stella-of-the-end-first-press-limited-edition.json) |
 | Stella Sora | 326127 | [326127-stella-sora.json](./326127-stella-sora.json) |
 | Stella Supernova: The Astral Vale | 417538 | [417538-stella-supernova-the-astral-vale.json](./417538-stella-supernova-the-astral-vale.json) |
@@ -25309,6 +25312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Meat | 26385 | [26385-sweet-meat.json](./26385-sweet-meat.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Monster | 339450 | [339450-sweet-monster.json](./339450-sweet-monster.json) |
+| Sweet Neighbor BB | 325896 | [325896-sweet-neighbor-bb.json](./325896-sweet-neighbor-bb.json) |
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
@@ -25339,6 +25343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Shop | 376813 | [376813-sweet-shop.json](./376813-sweet-shop.json) |
 | Sweet Shop | 90376 | [90376-sweet-shop.json](./90376-sweet-shop.json) |
 | Sweet Sins: Kawaii Run | 245755 | [245755-sweet-sins-kawaii-run.json](./245755-sweet-sins-kawaii-run.json) |
+| Sweet Sky | 325897 | [325897-sweet-sky.json](./325897-sweet-sky.json) |
 | Sweet Slave | 339442 | [339442-sweet-slave.json](./339442-sweet-slave.json) |
 | Sweet Sleep | 229729 | [229729-sweet-sleep.json](./229729-sweet-sleep.json) |
 | Sweet Solitaire: School Witch | 133232 | [133232-sweet-solitaire-school-witch.json](./133232-sweet-solitaire-school-witch.json) |
