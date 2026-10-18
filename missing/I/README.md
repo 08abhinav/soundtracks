@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Game Works Episode 1 | 36214 | [36214-infinite-game-works-episode-1.json](./36214-infinite-game-works-episode-1.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
+| Infinite Idle: Online Clicker RPG | 320605 | [320605-infinite-idle-online-clicker-rpg.json](./320605-infinite-idle-online-clicker-rpg.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Innocence | 302047 | [302047-infinite-innocence.json](./302047-infinite-innocence.json) |
 | Infinite Inside | 306748 | [306748-infinite-inside.json](./306748-infinite-inside.json) |
