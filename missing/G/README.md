@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geneforge 1: Mutagen | 134650 | [134650-geneforge-1-mutagen.json](./134650-geneforge-1-mutagen.json) |
 | Geneforge 2 | 8363 | [8363-geneforge-2.json](./8363-geneforge-2.json) |
 | Geneforge Saga | 50869 | [50869-geneforge-saga.json](./50869-geneforge-saga.json) |
+| GenEi AP: Empty Heart | 323046 | [323046-genei-ap-empty-heart.json](./323046-genei-ap-empty-heart.json) |
 | Genei Tougi: Shadow Struggle | 43815 | [43815-genei-tougi-shadow-struggle.json](./43815-genei-tougi-shadow-struggle.json) |
 | Geneki Toudai-sei ga Tsukutta!: Dekiru Ko ni Naru Seikatsu Shuukan Dragon Sakura Youji-hen | 327587 | [327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json](./327587-geneki-toudai-sei-ga-tsukutta-dekiru-ko-ni-naru-seikatsu-shuukan-dragon-sakura-youji-hen.json) |
 | Genemon | 178546 | [178546-genemon.json](./178546-genemon.json) |
@@ -5768,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's House: College Days | 274923 | [274923-grandmas-house-college-days.json](./274923-grandmas-house-college-days.json) |
+| Grandma's In Hell | 323009 | [323009-grandmas-in-hell.json](./323009-grandmas-in-hell.json) |
 | Grandma's Kitchen | 264007 | [264007-grandmas-kitchen.json](./264007-grandmas-kitchen.json) |
 | Grandma's Legacy VR: The Mystery Puzzle Solving Escape Room Game | 257867 | [257867-grandmas-legacy-vr-the-mystery-puzzle-solving-escape-room-game.json](./257867-grandmas-legacy-vr-the-mystery-puzzle-solving-escape-room-game.json) |
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
