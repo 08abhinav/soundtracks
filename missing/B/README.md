@@ -9261,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogie | 85828 | [85828-boogie.json](./85828-boogie.json) |
 | Boogie Bum | 70849 | [70849-boogie-bum.json](./70849-boogie-bum.json) |
 | Boogie Bunnies | 21812 | [21812-boogie-bunnies.json](./21812-boogie-bunnies.json) |
+| Boogie Cruise | 352517 | [352517-boogie-cruise.json](./352517-boogie-cruise.json) |
 | Boogie Wings | 39873 | [39873-boogie-wings.json](./39873-boogie-wings.json) |
 | Boogie Woogi Jungle | 202347 | [202347-boogie-woogi-jungle.json](./202347-boogie-woogi-jungle.json) |
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
@@ -11224,6 +11225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
+| BRIO World | 352512 | [352512-brio-world.json](./352512-brio-world.json) |
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Bris de Glace | 171987 | [171987-bris-de-glace.json](./171987-bris-de-glace.json) |
