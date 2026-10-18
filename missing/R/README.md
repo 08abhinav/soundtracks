@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replica: Atomic Punk | 61045 | [61045-replica-atomic-punk.json](./61045-replica-atomic-punk.json) |
 | Replica: Temporary Safety | 174218 | [174218-replica-temporary-safety.json](./174218-replica-temporary-safety.json) |
 | Replicart | 41390 | [41390-replicart.json](./41390-replicart.json) |
+| Replicat | 332307 | [332307-replicat.json](./332307-replicat.json) |
 | Replicators | 98785 | [98785-replicators.json](./98785-replicators.json) |
 | Replicomica | 361252 | [361252-replicomica.json](./361252-replicomica.json) |
 | Replicon | 312315 | [312315-replicon.json](./312315-replicon.json) |
