@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
 | Incantation | 44454 | [44454-incantation.json](./44454-incantation.json) |
+| Incarceration | 333978 | [333978-incarceration.json](./333978-incarceration.json) |
 | Incarna: Broken | 118143 | [118143-incarna-broken.json](./118143-incarna-broken.json) |
 | Incarnage | 210120 | [210120-incarnage.json](./210120-incarnage.json) |
 | Incarnata: Dormant Stories | 173189 | [173189-incarnata-dormant-stories.json](./173189-incarnata-dormant-stories.json) |
