@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Survivors | 374165 | [374165-merlin-survivors.json](./374165-merlin-survivors.json) |
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
+| Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle | 147740 | [147740-mermaid-castle.json](./147740-mermaid-castle.json) |
