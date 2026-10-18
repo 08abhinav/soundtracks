@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Valley x Village Head Yiang Crossover Bundle DLC | 305545 | [305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json](./305545-oriental-valley-x-village-head-yiang-crossover-bundle-dlc.json) |
 | Orifoldium | 326282 | [326282-orifoldium.json](./326282-orifoldium.json) |
 | Origame | 152916 | [152916-origame.json](./152916-origame.json) |
+| Origament: A Paper Adventure | 346998 | [346998-origament-a-paper-adventure.json](./346998-origament-a-paper-adventure.json) |
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
 | Origami Flight | 112726 | [112726-origami-flight.json](./112726-origami-flight.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
