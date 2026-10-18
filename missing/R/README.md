@@ -499,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radical Rabbit Stew | 116592 | [116592-radical-rabbit-stew.json](./116592-radical-rabbit-stew.json) |
 | Radical Race | 301098 | [301098-radical-race.json](./301098-radical-race.json) |
 | Radical Radial | 40088 | [40088-radical-radial.json](./40088-radical-radial.json) |
+| Radical Rappelling | 336324 | [336324-radical-rappelling.json](./336324-radical-rappelling.json) |
 | Radical Rex | 5427 | [5427-radical-rex.json](./5427-radical-rex.json) |
 | Radical Roach | 10748 | [10748-radical-roach.json](./10748-radical-roach.json) |
 | Radical Roach Remastered | 36311 | [36311-radical-roach-remastered.json](./36311-radical-roach-remastered.json) |
@@ -7981,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ros | 101631 | [101631-ros.json](./101631-ros.json) |
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
+| Rosabella: Eternal Light and Magic in Harmony | 336398 | [336398-rosabella-eternal-light-and-magic-in-harmony.json](./336398-rosabella-eternal-light-and-magic-in-harmony.json) |
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
 | Rosaline | 343043 | [343043-rosaline.json](./343043-rosaline.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
@@ -8865,6 +8867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
+| Run, Uganda! Run! | 336337 | [336337-run-uganda-run.json](./336337-run-uganda-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
 | Run, Vivian Run | 311238 | [311238-run-vivian-run.json](./311238-run-vivian-run.json) |
 | Run: The World In-Between | 145400 | [145400-run-the-world-in-between.json](./145400-run-the-world-in-between.json) |
