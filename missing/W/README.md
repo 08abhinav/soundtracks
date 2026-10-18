@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
 | What do You Call a Group of Skeletons? | 352546 | [352546-what-do-you-call-a-group-of-skeletons.json](./352546-what-do-you-call-a-group-of-skeletons.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
+| What Girls Do in the Dark | 323557 | [323557-what-girls-do-in-the-dark.json](./323557-what-girls-do-in-the-dark.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
 | What Goes Up | 415305 | [415305-what-goes-up.json](./415305-what-goes-up.json) |
@@ -3549,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who's Your Weapon | 181664 | [181664-whos-your-weapon.json](./181664-whos-your-weapon.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
+| Whole | 323619 | [323619-whole.json](./323619-whole.json) |
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
@@ -3604,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wibble Wobble | 177251 | [177251-wibble-wobble.json](./177251-wibble-wobble.json) |
 | Wibbly-wobbly Tower | 178421 | [178421-wibbly-wobbly-tower.json](./178421-wibbly-wobbly-tower.json) |
 | Wibby Buddy | 366865 | [366865-wibby-buddy.json](./366865-wibby-buddy.json) |
+| Wibi!Data | 323558 | [323558-wibi-data.json](./323558-wibi-data.json) |
 | Wiblits | 58269 | [58269-wiblits.json](./58269-wiblits.json) |
 | WiccAtriX | 282212 | [282212-wiccatrix.json](./282212-wiccatrix.json) |
 | Wicce | 32928 | [32928-wicce.json](./32928-wicce.json) |
@@ -4435,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter's Wrath | 369460 | [369460-winters-wrath.json](./369460-winters-wrath.json) |
 | Winterbells | 95367 | [95367-winterbells.json](./95367-winterbells.json) |
 | Winterclaw | 291095 | [291095-winterclaw.json](./291095-winterclaw.json) |
+| Wintercoffin | 323592 | [323592-wintercoffin.json](./323592-wintercoffin.json) |
 | Winterfall | 118453 | [118453-winterfall.json](./118453-winterfall.json) |
 | Winterfall | 308238 | [308238-winterfall.json](./308238-winterfall.json) |
 | Winterfest | 323923 | [323923-winterfest.json](./323923-winterfest.json) |
@@ -4648,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Heart | 124353 | [124353-witchs-heart.json](./124353-witchs-heart.json) |
 | Witch's Heart: Bonus Stage | 252721 | [252721-witchs-heart-bonus-stage.json](./252721-witchs-heart-bonus-stage.json) |
 | Witch's Heart: Shirarezaru Kako Majo Dorothy no Himitsu - Kanketsu-hen | 259742 | [259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json](./259742-witchs-heart-shirarezaru-kako-majo-dorothy-no-himitsu-kanketsu-hen.json) |
+| Witch's Heart: Utsukushiki Hana to Akuma no Noroi - Kanketsu-hen | 323601 | [323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json](./323601-witchs-heart-utsukushiki-hana-to-akuma-no-noroi-kanketsu-hen.json) |
 | Witch’s Lewd Curse | 367053 | [367053-witch-s-lewd-curse.json](./367053-witch-s-lewd-curse.json) |
 | Witch's Mystery | 215654 | [215654-witchs-mystery.json](./215654-witchs-mystery.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
@@ -5709,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Workplace Hazard | 373731 | [373731-workplace-hazard.json](./373731-workplace-hazard.json) |
 | Workshop Blooming in the Field & the Dark Dragon | 82901 | [82901-workshop-blooming-in-the-field-and-the-dark-dragon.json](./82901-workshop-blooming-in-the-field-and-the-dark-dragon.json) |
 | Workshop Invaders: Bouncy | 108990 | [108990-workshop-invaders-bouncy.json](./108990-workshop-invaders-bouncy.json) |
+| Workshop Maps Pack | 323599 | [323599-workshop-maps-pack.json](./323599-workshop-maps-pack.json) |
 | World 23 | 368226 | [368226-world-23.json](./368226-world-23.json) |
 | World Advanced Daisenryaku: Sakusen File | 60803 | [60803-world-advanced-daisenryaku-sakusen-file.json](./60803-world-advanced-daisenryaku-sakusen-file.json) |
 | World Air War | 290118 | [290118-world-air-war.json](./290118-world-air-war.json) |
