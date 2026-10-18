@@ -3201,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Squadron | 145504 | [145504-whisker-squadron.json](./145504-whisker-squadron.json) |
 | Whisker Squadron: Survivor | 229193 | [229193-whisker-squadron-survivor.json](./229193-whisker-squadron-survivor.json) |
+| Whisker Wanderlust: The Wondrous Journey | 349100 | [349100-whisker-wanderlust-the-wondrous-journey.json](./349100-whisker-wanderlust-the-wondrous-journey.json) |
 | Whisker Wanderlust: Unwritten Chapter | 391183 | [391183-whisker-wanderlust-unwritten-chapter.json](./391183-whisker-wanderlust-unwritten-chapter.json) |
 | Whisker Waters | 266497 | [266497-whisker-waters.json](./266497-whisker-waters.json) |
 | Whiskered Away | 105385 | [105385-whiskered-away.json](./105385-whiskered-away.json) |
