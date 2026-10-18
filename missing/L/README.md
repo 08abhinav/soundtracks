@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play vol. 11: Drift Moto | 356504 | [356504-learn-to-play-vol-11-drift-moto.json](./356504-learn-to-play-vol-11-drift-moto.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learn to Play Vol. 4: Happy Racer | 309634 | [309634-learn-to-play-vol-4-happy-racer.json](./309634-learn-to-play-vol-4-happy-racer.json) |
+| Learn to Play Vol. 5: Break the Blocks | 315916 | [315916-learn-to-play-vol-5-break-the-blocks.json](./315916-learn-to-play-vol-5-break-the-blocks.json) |
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
 | Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
