@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Cops | 17080 | [17080-la-cops.json](./17080-la-cops.json) |
 | La Corona Encantada | 141850 | [141850-la-corona-encantada.json](./141850-la-corona-encantada.json) |
 | La Cosa Nostra | 389976 | [389976-la-cosa-nostra.json](./389976-la-cosa-nostra.json) |
+| La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
@@ -1672,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
 | Leeds United Club Football | 267889 | [267889-leeds-united-club-football.json](./267889-leeds-united-club-football.json) |
 | Leek Factory Tycoon | 297613 | [297613-leek-factory-tycoon.json](./297613-leek-factory-tycoon.json) |
+| Leena | 333972 | [333972-leena.json](./333972-leena.json) |
 | Leenie Boog | 157025 | [157025-leenie-boog.json](./157025-leenie-boog.json) |
 | Leenie's Tale | 319720 | [319720-leenies-tale.json](./319720-leenies-tale.json) |
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
@@ -3375,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
+| Light Engine | 333973 | [333973-light-engine.json](./333973-light-engine.json) |
 | Light Fairytale: Episode 2 | 127638 | [127638-light-fairytale-episode-2.json](./127638-light-fairytale-episode-2.json) |
 | Light Fall | 36620 | [36620-light-fall.json](./36620-light-fall.json) |
 | Light Fantastik | 87765 | [87765-light-fantastik.json](./87765-light-fantastik.json) |
