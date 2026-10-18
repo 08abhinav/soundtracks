@@ -11679,6 +11679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Pollito | 268521 | [268521-crash-pollito.json](./268521-crash-pollito.json) |
 | Crash Powertape September 1991 | 71383 | [71383-crash-powertape-september-1991.json](./71383-crash-powertape-september-1991.json) |
 | Crash Presents September 1990 | 73356 | [73356-crash-presents-september-1990.json](./73356-crash-presents-september-1990.json) |
+| Crash Presents: July 1989 | 325327 | [325327-crash-presents-july-1989.json](./325327-crash-presents-july-1989.json) |
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
@@ -12681,6 +12682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cronous Online | 213028 | [213028-cronous-online.json](./213028-cronous-online.json) |
 | Cronus Monument | 293235 | [293235-cronus-monument.json](./293235-cronus-monument.json) |
 | Cronus' Tomb: First Quest | 419368 | [419368-cronus-tomb-first-quest.json](./419368-cronus-tomb-first-quest.json) |
+| Crony Corp | 325307 | [325307-crony-corp.json](./325307-crony-corp.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
 | Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
