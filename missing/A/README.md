@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Different World | 184355 | [184355-a-different-world.json](./184355-a-different-world.json) |
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
+| A Difficult Game About Wheelchair | 348007 | [348007-a-difficult-game-about-wheelchair.json](./348007-a-difficult-game-about-wheelchair.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
@@ -10975,6 +10976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
 | Astérix and the Power of the Gods | 19781 | [19781-asterix-and-the-power-of-the-gods.json](./19781-asterix-and-the-power-of-the-gods.json) |
 | Astérix and the Secret Mission | 12888 | [12888-asterix-and-the-secret-mission.json](./12888-asterix-and-the-secret-mission.json) |
+| Asterix at the Olympic Games | 348117 | [348117-asterix-at-the-olympic-games.json](./348117-asterix-at-the-olympic-games.json) |
 | Asterix at the Olympic Games | 4681 | [4681-asterix-at-the-olympic-games.json](./4681-asterix-at-the-olympic-games.json) |
 | Asterix Brain Trainer | 67236 | [67236-asterix-brain-trainer.json](./67236-asterix-brain-trainer.json) |
 | Astérix et la Potion Magique | 342056 | [342056-asterix-et-la-potion-magique.json](./342056-asterix-et-la-potion-magique.json) |
@@ -12227,6 +12229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Defense | 256249 | [256249-auto-defense.json](./256249-auto-defense.json) |
 | Auto Derby Casino | 391770 | [391770-auto-derby-casino.json](./391770-auto-derby-casino.json) |
 | Auto Drive | 364852 | [364852-auto-drive.json](./364852-auto-drive.json) |
+| Auto Dungeon | 348108 | [348108-auto-dungeon.json](./348108-auto-dungeon.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
 | Auto Empire: Dealer Car Simulator | 309001 | [309001-auto-empire-dealer-car-simulator.json](./309001-auto-empire-dealer-car-simulator.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
