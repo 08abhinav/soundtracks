@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawks Tactical | 30095 | [30095-hawks-tactical.json](./30095-hawks-tactical.json) |
 | Hawthorn | 319345 | [319345-hawthorn.json](./319345-hawthorn.json) |
 | Hawthorn Park | 157218 | [157218-hawthorn-park.json](./157218-hawthorn-park.json) |
+| Hax | 344172 | [344172-hax.json](./344172-hax.json) |
 | Haxball | 63583 | [63583-haxball.json](./63583-haxball.json) |
 | Häxeri | 411539 | [411539-haxeri.json](./411539-haxeri.json) |
 | Haxrail | 347367 | [347367-haxrail.json](./347367-haxrail.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
+| Heist Man | 344239 | [344239-heist-man.json](./344239-heist-man.json) |
 | Heist Night | 59831 | [59831-heist-night.json](./59831-heist-night.json) |
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
@@ -6201,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
+| Holder of Place | 344142 | [344142-holder-of-place.json](./344142-holder-of-place.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
 | Holdfast: Nations At War - Napoleon's Rise | 286538 | [286538-holdfast-nations-at-war-napoleons-rise.json](./286538-holdfast-nations-at-war-napoleons-rise.json) |
