@@ -10404,6 +10404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 119486 | [119486-ascend.json](./119486-ascend.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
+| Ascend | 341279 | [341279-ascend.json](./341279-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
 | Ascend of Arlo | 252011 | [252011-ascend-of-arlo.json](./252011-ascend-of-arlo.json) |
 | Ascend to Zero | 316425 | [316425-ascend-to-zero.json](./316425-ascend-to-zero.json) |
