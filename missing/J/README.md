@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Centre of Nirn | 314286 | [314286-journey-to-the-centre-of-nirn.json](./314286-journey-to-the-centre-of-nirn.json) |
 | Journey to the East | 128552 | [128552-journey-to-the-east.json](./128552-journey-to-the-east.json) |
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
+| Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
 | Journey to the Wand | 279515 | [279515-journey-to-the-wand.json](./279515-journey-to-the-wand.json) |
