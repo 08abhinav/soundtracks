@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkur 44 | 152843 | [152843-parkur-44.json](./152843-parkur-44.json) |
 | Parliament | 350474 | [350474-parliament.json](./350474-parliament.json) |
 | Parliament of Hell 1796 | 344487 | [344487-parliament-of-hell-1796.json](./344487-parliament-of-hell-1796.json) |
+| Parlor Mall | 353630 | [353630-parlor-mall.json](./353630-parlor-mall.json) |
 | Parlor! Mini | 37895 | [37895-parlor-mini.json](./37895-parlor-mini.json) |
 | Parlor! Mini 2 | 37894 | [37894-parlor-mini-2.json](./37894-parlor-mini-2.json) |
 | Parlor! Mini 3 | 37893 | [37893-parlor-mini-3.json](./37893-parlor-mini-3.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Firepower II | 349961 | [349961-pinball-arcade-firepower-ii.json](./349961-pinball-arcade-firepower-ii.json) |
 | Pinball Arcade: Fish Tales | 353259 | [353259-pinball-arcade-fish-tales.json](./353259-pinball-arcade-fish-tales.json) |
 | Pinball Arcade: Flight 2000 | 353253 | [353253-pinball-arcade-flight-2000.json](./353253-pinball-arcade-flight-2000.json) |
+| Pinball Arcade: Frank Thomas' Big Hurt | 353716 | [353716-pinball-arcade-frank-thomas-big-hurt.json](./353716-pinball-arcade-frank-thomas-big-hurt.json) |
 | Pinball Arcade: Ghostbusters Premium | 349965 | [349965-pinball-arcade-ghostbusters-premium.json](./349965-pinball-arcade-ghostbusters-premium.json) |
 | Pinball Arcade: Gladiators | 353220 | [353220-pinball-arcade-gladiators.json](./353220-pinball-arcade-gladiators.json) |
 | Pinball Arcade: Goin' Nuts | 353261 | [353261-pinball-arcade-goin-nuts.json](./353261-pinball-arcade-goin-nuts.json) |
@@ -9196,6 +9198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Population: One | 139377 | [139377-population-one.json](./139377-population-one.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous | 248 | [248-populous.json](./248-populous.json) |
+| Populous | 353713 | [353713-populous.json](./353713-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
 | Populous II: The Challenge Games | 8896 | [8896-populous-ii-the-challenge-games.json](./8896-populous-ii-the-challenge-games.json) |
@@ -11444,6 +11447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 223981 | [223981-project-noah.json](./223981-project-noah.json) |
 | Project Nomads | 50245 | [50245-project-nomads.json](./50245-project-nomads.json) |
+| Project Nortubel | 353639 | [353639-project-nortubel.json](./353639-project-nortubel.json) |
 | Project Nova | 28696 | [28696-project-nova.json](./28696-project-nova.json) |
 | Project Null | 239798 | [239798-project-null.json](./239798-project-null.json) |
 | Project Nyx | 163816 | [163816-project-nyx.json](./163816-project-nyx.json) |
@@ -12353,6 +12357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Shift | 32104 | [32104-pulse-shift.json](./32104-pulse-shift.json) |
 | Pulse Sweep | 397838 | [397838-pulse-sweep.json](./397838-pulse-sweep.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
+| Pulsebreaker | 353643 | [353643-pulsebreaker.json](./353643-pulsebreaker.json) |
 | PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
 | Pulseman | 45760 | [45760-pulseman.json](./45760-pulseman.json) |
