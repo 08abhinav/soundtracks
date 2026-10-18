@@ -4267,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Basketball Coach 2021 | 175250 | [175250-retro-basketball-coach-2021.json](./175250-retro-basketball-coach-2021.json) |
 | Retro Basketball Coach 2022 | 187831 | [187831-retro-basketball-coach-2022.json](./187831-retro-basketball-coach-2022.json) |
 | Retro Basketball Coach 2023 | 223599 | [223599-retro-basketball-coach-2023.json](./223599-retro-basketball-coach-2023.json) |
+| Retro Basketball Manager | 355878 | [355878-retro-basketball-manager.json](./355878-retro-basketball-manager.json) |
 | Retro Battle | 306533 | [306533-retro-battle.json](./306533-retro-battle.json) |
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
