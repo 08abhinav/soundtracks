@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Dreamland | 48322 | [48322-sea-of-dreamland.json](./48322-sea-of-dreamland.json) |
 | Sea of Dreams | 195487 | [195487-sea-of-dreams.json](./195487-sea-of-dreams.json) |
 | Sea of Dreams Survivors | 335402 | [335402-sea-of-dreams-survivors.json](./335402-sea-of-dreams-survivors.json) |
+| Sea of Fire | 348116 | [348116-sea-of-fire.json](./348116-sea-of-fire.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
 | Sea of Leaves | 128275 | [128275-sea-of-leaves.json](./128275-sea-of-leaves.json) |
@@ -8367,6 +8368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sito Pons 500cc Grand Prix | 70321 | [70321-sito-pons-500cc-grand-prix.json](./70321-sito-pons-500cc-grand-prix.json) |
 | Sitri: Shadow Walk | 225092 | [225092-sitri-shadow-walk.json](./225092-sitri-shadow-walk.json) |
 | Sitten Kitten | 141110 | [141110-sitten-kitten.json](./141110-sitten-kitten.json) |
+| Sitter | 348023 | [348023-sitter.json](./348023-sitter.json) |
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
@@ -9248,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slamscape | 9742 | [9742-slamscape.json](./9742-slamscape.json) |
 | Slamslide | 183594 | [183594-slamslide.json](./183594-slamslide.json) |
 | Slamwall | 392410 | [392410-slamwall.json](./392410-slamwall.json) |
+| Slap 'em Up! | 348014 | [348014-slap-em-up.json](./348014-slap-em-up.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
 | Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Dab | 72011 | [72011-slap-dab.json](./72011-slap-dab.json) |
@@ -13248,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
+| Soul of the Dungeon | 348039 | [348039-soul-of-the-dungeon.json](./348039-soul-of-the-dungeon.json) |
 | Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
 | Soul of the Soul | 175671 | [175671-soul-of-the-soul.json](./175671-soul-of-the-soul.json) |
 | Soul of the Ultimate Nation | 51196 | [51196-soul-of-the-ultimate-nation.json](./51196-soul-of-the-ultimate-nation.json) |
@@ -13316,6 +13320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | Soulbound | 247967 | [247967-soulbound.json](./247967-soulbound.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
+| Soulbound Roguelike | 348115 | [348115-soulbound-roguelike.json](./348115-soulbound-roguelike.json) |
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
 | SoulCalibur II | 227986 | [227986-soulcalibur-ii.json](./227986-soulcalibur-ii.json) |
@@ -16980,6 +16985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Standing Together | 374807 | [374807-standing-together.json](./374807-standing-together.json) |
 | StandOff | 348831 | [348831-standoff.json](./348831-standoff.json) |
 | Standoff Multiplayer | 138172 | [138172-standoff-multiplayer.json](./138172-standoff-multiplayer.json) |
+| Standoffish | 348020 | [348020-standoffish.json](./348020-standoffish.json) |
 | Standpoint | 10885 | [10885-standpoint.json](./10885-standpoint.json) |
 | Stanga | 133210 | [133210-stanga.json](./133210-stanga.json) |
 | Stanislav | 214114 | [214114-stanislav.json](./214114-stanislav.json) |
@@ -17865,6 +17871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
 | Starfall Serenity | 278366 | [278366-starfall-serenity.json](./278366-starfall-serenity.json) |
+| Starfall: Inferno of Worlds | 348113 | [348113-starfall-inferno-of-worlds.json](./348113-starfall-inferno-of-worlds.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
@@ -22268,6 +22275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
+| Super Golden Odyssey: 3d Platformer World | 348114 | [348114-super-golden-odyssey-3d-platformer-world.json](./348114-super-golden-odyssey-3d-platformer-world.json) |
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
