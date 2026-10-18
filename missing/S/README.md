@@ -3709,6 +3709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
 | Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
+| Seikoku 1092: Souhei-den | 351984 | [351984-seikoku-1092-souhei-den.json](./351984-seikoku-1092-souhei-den.json) |
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
 | Seimbein | 135877 | [135877-seimbein.json](./135877-seimbein.json) |
 | Seimei Handan | 268532 | [268532-seimei-handan.json](./268532-seimei-handan.json) |
