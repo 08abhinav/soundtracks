@@ -1415,6 +1415,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
 | Elden Gunfire 2 | 293187 | [293187-elden-gunfire-2.json](./293187-elden-gunfire-2.json) |
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
+| Elden Ring Nightreign: Collector's Edition | 331167 | [331167-elden-ring-nightreign-collectors-edition.json](./331167-elden-ring-nightreign-collectors-edition.json) |
+| Elden Ring Nightreign: Deluxe Edition | 331166 | [331166-elden-ring-nightreign-deluxe-edition.json](./331166-elden-ring-nightreign-deluxe-edition.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eros Fantasy | 199606 | [199606-eros-fantasy.json](./199606-eros-fantasy.json) |
 | Eros Lights: Strip-Club | 271117 | [271117-eros-lights-strip-club.json](./271117-eros-lights-strip-club.json) |
 | Eros Myth | 176467 | [176467-eros-myth.json](./176467-eros-myth.json) |
+| Eros Raiders | 331095 | [331095-eros-raiders.json](./331095-eros-raiders.json) |
 | Erosion | 177437 | [177437-erosion.json](./177437-erosion.json) |
 | Erostasis | 222826 | [222826-erostasis.json](./222826-erostasis.json) |
 | Erotic Colouring Book | 110356 | [110356-erotic-colouring-book.json](./110356-erotic-colouring-book.json) |
