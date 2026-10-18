@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin | 393624 | [393624-penguin.json](./393624-penguin.json) |
 | Penguin Adventure | 37065 | [37065-penguin-adventure.json](./37065-penguin-adventure.json) |
 | Penguin Armada | 259650 | [259650-penguin-armada.json](./259650-penguin-armada.json) |
+| Penguin Attack | 328320 | [328320-penguin-attack.json](./328320-penguin-attack.json) |
 | Penguin Blocks | 208885 | [208885-penguin-blocks.json](./208885-penguin-blocks.json) |
 | Penguin Brothers | 40406 | [40406-penguin-brothers.json](./40406-penguin-brothers.json) |
 | Penguin Cafe | 132184 | [132184-penguin-cafe.json](./132184-penguin-cafe.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
 | Pokémon Trading Card Game Pocket: Eevee Grove | 350768 | [350768-pokemon-trading-card-game-pocket-eevee-grove.json](./350768-pokemon-trading-card-game-pocket-eevee-grove.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
+| Pokémon Trading Card Game Pocket: Mythical Island | 328294 | [328294-pokemon-trading-card-game-pocket-mythical-island.json](./328294-pokemon-trading-card-game-pocket-mythical-island.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
