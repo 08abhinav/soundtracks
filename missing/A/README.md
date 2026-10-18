@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
+| A Night Duty | 322452 | [322452-a-night-duty.json](./322452-a-night-duty.json) |
 | A Night In Berlin | 138472 | [138472-a-night-in-berlin.json](./138472-a-night-in-berlin.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
@@ -8771,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: KiKi KaiKai | 99536 | [99536-arcade-archives-kiki-kaikai.json](./99536-arcade-archives-kiki-kaikai.json) |
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
+| Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
 | Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
