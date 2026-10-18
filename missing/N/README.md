@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
 | Naki no Ryuu: Mahjong Hishou-den | 37912 | [37912-naki-no-ryuu-mahjong-hishou-den.json](./37912-naki-no-ryuu-mahjong-hishou-den.json) |
 | Nakiti Generations | 31762 | [31762-nakiti-generations.json](./31762-nakiti-generations.json) |
+| Nakobeat | 325313 | [325313-nakobeat.json](./325313-nakobeat.json) |
 | Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
