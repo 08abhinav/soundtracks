@@ -3241,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insect | 152139 | [152139-insect.json](./152139-insect.json) |
 | Insect | 392232 | [392232-insect.json](./392232-insect.json) |
 | Insect Adventure | 140373 | [140373-insect-adventure.json](./140373-insect-adventure.json) |
+| Insect Empires | 333428 | [333428-insect-empires.json](./333428-insect-empires.json) |
 | Insect Planet TD | 111461 | [111461-insect-planet-td.json](./111461-insect-planet-td.json) |
 | Insect Planet TD | 111462 | [111462-insect-planet-td.json](./111462-insect-planet-td.json) |
 | Insect Simulator | 192641 | [192641-insect-simulator.json](./192641-insect-simulator.json) |
