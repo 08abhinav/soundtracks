@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Racecar Game | 241651 | [241651-that-racecar-game.json](./241651-that-racecar-game.json) |
 | That Rocket Game | 244356 | [244356-that-rocket-game.json](./244356-that-rocket-game.json) |
 | That Role Playing | 190459 | [190459-that-role-playing.json](./190459-that-role-playing.json) |
+| That Sausage Museum Game | 350177 | [350177-that-sausage-museum-game.json](./350177-that-sausage-museum-game.json) |
 | That Smiling Game | 202963 | [202963-that-smiling-game.json](./202963-that-smiling-game.json) |
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
 | That Summer: Hannah's Summer Vacation | 398043 | [398043-that-summer-hannahs-summer-vacation.json](./398043-that-summer-hannahs-summer-vacation.json) |
@@ -10877,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess' Heart | 35022 | [35022-the-princess-heart.json](./35022-the-princess-heart.json) |
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
+| The Prior Challenge | 350209 | [350209-the-prior-challenge.json](./350209-the-prior-challenge.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
@@ -12506,6 +12508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swarm is Coming | 311674 | [311674-the-swarm-is-coming.json](./311674-the-swarm-is-coming.json) |
 | The Swashbugglers | 388910 | [388910-the-swashbugglers.json](./388910-the-swashbugglers.json) |
 | The Sweet Little Monster | 240186 | [240186-the-sweet-little-monster.json](./240186-the-sweet-little-monster.json) |
+| The Sweet Scramble | 350215 | [350215-the-sweet-scramble.json](./350215-the-sweet-scramble.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
 | The Swindle | 18006 | [18006-the-swindle.json](./18006-the-swindle.json) |
@@ -16343,6 +16346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
 | Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
+| Tiles 4 Perfect Music | 350203 | [350203-tiles-4-perfect-music.json](./350203-tiles-4-perfect-music.json) |
 | Tiles and Towers TD | 216503 | [216503-tiles-and-towers-td.json](./216503-tiles-and-towers-td.json) |
 | Tiles Fall | 239221 | [239221-tiles-fall.json](./239221-tiles-fall.json) |
 | Tiles Hop: EDM Rush! | 166293 | [166293-tiles-hop-edm-rush.json](./166293-tiles-hop-edm-rush.json) |
@@ -22972,6 +22976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TSA Frisky VR | 89964 | [89964-tsa-frisky-vr.json](./89964-tsa-frisky-vr.json) |
 | Tsan-shadow Ninja | 351724 | [351724-tsan-shadow-ninja.json](./351724-tsan-shadow-ninja.json) |
 | Tsardoms: Total War | 356249 | [356249-tsardoms-total-war.json](./356249-tsardoms-total-war.json) |
+| Tsarevna: Age of Tales | 350213 | [350213-tsarevna-age-of-tales.json](./350213-tsarevna-age-of-tales.json) |
 | Tschess | 137470 | [137470-tschess.json](./137470-tschess.json) |
 | TSI Cycles | 125274 | [125274-tsi-cycles.json](./125274-tsi-cycles.json) |
 | Tsioque | 34700 | [34700-tsioque.json](./34700-tsioque.json) |
@@ -23369,6 +23374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn and Burn: No-Fly Zone | 42438 | [42438-turn-and-burn-no-fly-zone.json](./42438-turn-and-burn-no-fly-zone.json) |
 | Turn and Burn: The F-14 Dogfight Simulator | 49058 | [49058-turn-and-burn-the-f-14-dogfight-simulator.json](./49058-turn-and-burn-the-f-14-dogfight-simulator.json) |
 | Turn Around Turtle: Show and Tell | 206648 | [206648-turn-around-turtle-show-and-tell.json](./206648-turn-around-turtle-show-and-tell.json) |
+| Turn Back The Powers Of Darkness | 350233 | [350233-turn-back-the-powers-of-darkness.json](./350233-turn-back-the-powers-of-darkness.json) |
 | Turn By Turn Villain | 253820 | [253820-turn-by-turn-villain.json](./253820-turn-by-turn-villain.json) |
 | Turn Chase | 135053 | [135053-turn-chase.json](./135053-turn-chase.json) |
 | Turn It Around | 21236 | [21236-turn-it-around.json](./21236-turn-it-around.json) |
