@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Hockey | 57656 | [57656-ice-hockey.json](./57656-ice-hockey.json) |
 | Ice Hockey Slovakia 2011 | 85187 | [85187-ice-hockey-slovakia-2011.json](./85187-ice-hockey-slovakia-2011.json) |
 | Ice Hunter | 76249 | [76249-ice-hunter.json](./76249-ice-hunter.json) |
+| Ice Jump | 344240 | [344240-ice-jump.json](./344240-ice-jump.json) |
 | Ice King in Secret Santa | 339824 | [339824-ice-king-in-secret-santa.json](./339824-ice-king-in-secret-santa.json) |
 | Ice Lakes | 20206 | [20206-ice-lakes.json](./20206-ice-lakes.json) |
 | Ice Land | 276843 | [276843-ice-land.json](./276843-ice-land.json) |
@@ -1734,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immediate | 322356 | [322356-immediate.json](./322356-immediate.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immercenary | 4296 | [4296-immercenary.json](./4296-immercenary.json) |
+| Immerrock | 344169 | [344169-immerrock.json](./344169-immerrock.json) |
 | Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
@@ -3213,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insanity VR: Last Score | 53097 | [53097-insanity-vr-last-score.json](./53097-insanity-vr-last-score.json) |
 | Insanity Within | 341653 | [341653-insanity-within.json](./341653-insanity-within.json) |
 | Insanity X | 105400 | [105400-insanity-x.json](./105400-insanity-x.json) |
+| Insanity! | 344234 | [344234-insanity.json](./344234-insanity.json) |
 | Insanity's Edge | 274186 | [274186-insanitys-edge.json](./274186-insanitys-edge.json) |
 | Insanity's Grip | 260232 | [260232-insanitys-grip.json](./260232-insanitys-grip.json) |
 | Insanity's Requiem | 145468 | [145468-insanitys-requiem.json](./145468-insanitys-requiem.json) |
