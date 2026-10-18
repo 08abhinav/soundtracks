@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W3llidk’s Bean Game | 406260 | [406260-w3llidk-s-bean-game.json](./406260-w3llidk-s-bean-game.json) |
 | W4RR-i/o-RS | 75910 | [75910-w4rr-i-o-rs.json](./75910-w4rr-i-o-rs.json) |
 | Wa ga Ryuu wo Miyo: Pride of the Dragon Peace | 227795 | [227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json](./227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json) |
+| Wa-shoi! Kamiokoshi | 356424 | [356424-wa-shoi-kamiokoshi.json](./356424-wa-shoi-kamiokoshi.json) |
 | Waaaaaa: A Prehistoric Adventure With Aliens | 392230 | [392230-waaaaaa-a-prehistoric-adventure-with-aliens.json](./392230-waaaaaa-a-prehistoric-adventure-with-aliens.json) |
 | Waba | 104821 | [104821-waba.json](./104821-waba.json) |
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
