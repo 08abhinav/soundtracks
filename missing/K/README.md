@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Sun | 364236 | [364236-kill-the-sun.json](./364236-kill-the-sun.json) |
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
+| Kill the Twister | 339679 | [339679-kill-the-twister.json](./339679-kill-the-twister.json) |
 | Kill Them With Cuteness | 152863 | [152863-kill-them-with-cuteness.json](./152863-kill-them-with-cuteness.json) |
 | Kill Tiger | 113538 | [113538-kill-tiger.json](./113538-kill-tiger.json) |
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
@@ -3225,6 +3226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Online | 19795 | [19795-knight-online.json](./19795-knight-online.json) |
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
+| Knight Owls | 339680 | [339680-knight-owls.json](./339680-knight-owls.json) |
 | Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
