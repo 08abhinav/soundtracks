@@ -4942,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bowyage | 265208 | [265208-the-bowyage.json](./265208-the-bowyage.json) |
 | The Box | 133718 | [133718-the-box.json](./133718-the-box.json) |
 | The Box | 289568 | [289568-the-box.json](./289568-the-box.json) |
+| The Box | 325290 | [325290-the-box.json](./325290-the-box.json) |
 | The BoX | 33963 | [33963-the-box.json](./33963-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
@@ -5134,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the Mysterious Maulings | 306959 | [306959-the-case-of-the-mysterious-maulings.json](./306959-the-case-of-the-mysterious-maulings.json) |
 | The Case of the Serialized Killer | 209720 | [209720-the-case-of-the-serialized-killer.json](./209720-the-case-of-the-serialized-killer.json) |
 | The Case of the Twisted Children | 329224 | [329224-the-case-of-the-twisted-children.json](./329224-the-case-of-the-twisted-children.json) |
+| The Case of the Worst Day Ever | 325346 | [325346-the-case-of-the-worst-day-ever.json](./325346-the-case-of-the-worst-day-ever.json) |
 | The Case of Theo | 352510 | [352510-the-case-of-theo.json](./352510-the-case-of-theo.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
 | The Casino Empire | 257940 | [257940-the-casino-empire.json](./257940-the-casino-empire.json) |
@@ -7772,6 +7774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hole Keeper | 370270 | [370270-the-hole-keeper.json](./370270-the-hole-keeper.json) |
 | The Hole Story | 35579 | [35579-the-hole-story.json](./35579-the-hole-story.json) |
 | The Hole Town | 304912 | [304912-the-hole-town.json](./304912-the-hole-town.json) |
+| The Holiday Bakeoff | 325348 | [325348-the-holiday-bakeoff.json](./325348-the-holiday-bakeoff.json) |
 | The Hollow Alchemist | 371257 | [371257-the-hollow-alchemist.json](./371257-the-hollow-alchemist.json) |
 | The Hollow Lighthouse | 358329 | [358329-the-hollow-lighthouse.json](./358329-the-hollow-lighthouse.json) |
 | The Hollow Line | 335122 | [335122-the-hollow-line.json](./335122-the-hollow-line.json) |
