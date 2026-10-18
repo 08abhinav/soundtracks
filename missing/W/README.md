@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Eater | 288464 | [288464-wish-eater.json](./288464-wish-eater.json) |
 | Wish Giver | 110921 | [110921-wish-giver.json](./110921-wish-giver.json) |
 | Wish Giver | 112189 | [112189-wish-giver.json](./112189-wish-giver.json) |
+| Wish Me Well | 341379 | [341379-wish-me-well.json](./341379-wish-me-well.json) |
 | Wish of Abyss Dungeon | 195143 | [195143-wish-of-abyss-dungeon.json](./195143-wish-of-abyss-dungeon.json) |
 | Wish Of Hers | 385744 | [385744-wish-of-hers.json](./385744-wish-of-hers.json) |
 | Wish on this Flower | 360611 | [360611-wish-on-this-flower.json](./360611-wish-on-this-flower.json) |
