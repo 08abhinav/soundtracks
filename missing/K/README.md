@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Redemption: War for Freedom | 298577 | [298577-knights-redemption-war-for-freedom.json](./298577-knights-redemption-war-for-freedom.json) |
 | Knight's Retreat | 132512 | [132512-knights-retreat.json](./132512-knights-retreat.json) |
 | Knight's Rush | 23923 | [23923-knights-rush.json](./23923-knights-rush.json) |
+| Knight's Tail: Tactics | 344150 | [344150-knights-tail-tactics.json](./344150-knights-tail-tactics.json) |
 | Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
 | Knight´s Quest | 379182 | [379182-knight-s-quest.json](./379182-knight-s-quest.json) |
 | Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
