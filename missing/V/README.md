@@ -551,6 +551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
+| Vampiress: Eternal Duet | 349116 | [349116-vampiress-eternal-duet.json](./349116-vampiress-eternal-duet.json) |
 | Vampireville: haunted castle adventure | 175295 | [175295-vampireville-haunted-castle-adventure.json](./175295-vampireville-haunted-castle-adventure.json) |
 | Vampiric Tower | 69853 | [69853-vampiric-tower.json](./69853-vampiric-tower.json) |
 | Vampirii | 309434 | [309434-vampirii.json](./309434-vampirii.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Rogue | 33375 | [33375-virtual-rogue.json](./33375-virtual-rogue.json) |
 | Virtual Sailor NG | 220717 | [220717-virtual-sailor-ng.json](./220717-virtual-sailor-ng.json) |
 | Virtual Silence | 94014 | [94014-virtual-silence.json](./94014-virtual-silence.json) |
+| Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
