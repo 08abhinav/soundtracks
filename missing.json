@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:48:14.033Z",
-  "total_missing": 227450,
+  "generated_at": "2026-10-18T08:52:16.289Z",
+  "total_missing": 227443,
   "games": [
     {
       "igdb_id": 191680,
@@ -270917,11 +270917,6 @@
       "file": "missing/D/77588-dragon-spear.json"
     },
     {
-      "igdb_id": 12055,
-      "game_name": "Dragon Spirit",
-      "file": "missing/D/12055-dragon-spirit.json"
-    },
-    {
       "igdb_id": 218370,
       "game_name": "Dragon Spirit",
       "file": "missing/D/218370-dragon-spirit.json"
@@ -334355,11 +334350,6 @@
       "igdb_id": 203524,
       "game_name": "Final Fantasy VIII",
       "file": "missing/F/203524-final-fantasy-viii.json"
-    },
-    {
-      "igdb_id": 203538,
-      "game_name": "Final Fantasy VIII",
-      "file": "missing/F/203538-final-fantasy-viii.json"
     },
     {
       "igdb_id": 119374,
@@ -456912,11 +456902,6 @@
       "file": "missing/I/210076-icarly-isock-it-to-em.json"
     },
     {
-      "igdb_id": 134813,
-      "game_name": "Icarus",
-      "file": "missing/I/134813-icarus.json"
-    },
-    {
       "igdb_id": 245054,
       "game_name": "Icarus",
       "file": "missing/I/245054-icarus.json"
@@ -478315,11 +478300,6 @@
       "igdb_id": 141005,
       "game_name": "IwoCon 2021",
       "file": "missing/I/141005-iwocon-2021.json"
-    },
-    {
-      "igdb_id": 152258,
-      "game_name": "Ixion",
-      "file": "missing/I/152258-ixion.json"
     },
     {
       "igdb_id": 40345,
@@ -615767,11 +615747,6 @@
       "file": "missing/M/258680-mosa-lina.json"
     },
     {
-      "igdb_id": 18929,
-      "game_name": "Mosaic",
-      "file": "missing/M/18929-mosaic.json"
-    },
-    {
       "igdb_id": 155030,
       "game_name": "Mosaic 1% DLC",
       "file": "missing/M/155030-mosaic-1-dlc.json"
@@ -740927,11 +740902,6 @@
       "file": "missing/P/270216-project-wingman-frontline-59.json"
     },
     {
-      "igdb_id": 111033,
-      "game_name": "Project Winter",
-      "file": "missing/P/111033-project-winter.json"
-    },
-    {
       "igdb_id": 199947,
       "game_name": "Project Winter Mobile",
       "file": "missing/P/199947-project-winter-mobile.json"
@@ -848470,11 +848440,6 @@
       "igdb_id": 245409,
       "game_name": "Slapshot Ice Hockey",
       "file": "missing/S/245409-slapshot-ice-hockey.json"
-    },
-    {
-      "igdb_id": 132909,
-      "game_name": "Slapshot: Rebound",
-      "file": "missing/S/132909-slapshot-rebound.json"
     },
     {
       "igdb_id": 349861,
