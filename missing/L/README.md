@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Climbers | 400464 | [400464-lazy-climbers.json](./400464-lazy-climbers.json) |
 | Lazy Dog | 336322 | [336322-lazy-dog.json](./336322-lazy-dog.json) |
 | Lazy Galaxy | 75016 | [75016-lazy-galaxy.json](./75016-lazy-galaxy.json) |
+| Lazy Galaxy Bundle | 335624 | [335624-lazy-galaxy-bundle.json](./335624-lazy-galaxy-bundle.json) |
 | Lazy Galaxy: Rebel Story | 102624 | [102624-lazy-galaxy-rebel-story.json](./102624-lazy-galaxy-rebel-story.json) |
 | Lazy gang | 157910 | [157910-lazy-gang.json](./157910-lazy-gang.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
@@ -3353,6 +3354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light A Way | 80873 | [80873-light-a-way.json](./80873-light-a-way.json) |
 | Light and Dance VR | 29904 | [29904-light-and-dance-vr.json](./29904-light-and-dance-vr.json) |
 | Light and Embers | 168660 | [168660-light-and-embers.json](./168660-light-and-embers.json) |
+| Light and Shadow | 335739 | [335739-light-and-shadow.json](./335739-light-and-shadow.json) |
 | Light and Shadow: Schatten über Empyria | 295902 | [295902-light-and-shadow-schatten-uber-empyria.json](./295902-light-and-shadow-schatten-uber-empyria.json) |
 | Light and Shadows: Pocket Islands | 265751 | [265751-light-and-shadows-pocket-islands.json](./265751-light-and-shadows-pocket-islands.json) |
 | Light and Sneak | 373745 | [373745-light-and-sneak.json](./373745-light-and-sneak.json) |
