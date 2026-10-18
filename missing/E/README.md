@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ed, Edd n Eddy's Candy Machine Deluxe | 196798 | [196798-ed-edd-n-eddys-candy-machine-deluxe.json](./196798-ed-edd-n-eddys-candy-machine-deluxe.json) |
 | Ed's world story | 246850 | [246850-eds-world-story.json](./246850-eds-world-story.json) |
 | Edain Mod | 356216 | [356216-edain-mod.json](./356216-edain-mod.json) |
+| Edd Skeleton Game | 334004 | [334004-edd-skeleton-game.json](./334004-edd-skeleton-game.json) |
 | Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
 | Edd the Duck 2: Back with a Quack! | 265044 | [265044-edd-the-duck-2-back-with-a-quack.json](./265044-edd-the-duck-2-back-with-a-quack.json) |
 | Edd the Duck! | 79981 | [79981-edd-the-duck.json](./79981-edd-the-duck.json) |
