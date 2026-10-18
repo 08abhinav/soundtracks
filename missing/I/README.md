@@ -3313,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside Kitty's Outside Adventure | 97444 | [97444-inside-kittys-outside-adventure.json](./97444-inside-kittys-outside-adventure.json) |
 | Inside Lacrosse's CL2010 | 91420 | [91420-inside-lacrosses-cl2010.json](./91420-inside-lacrosses-cl2010.json) |
 | Inside Me | 34375 | [34375-inside-me.json](./34375-inside-me.json) |
+| Inside My Friend's Mind | 314143 | [314143-inside-my-friends-mind.json](./314143-inside-my-friends-mind.json) |
 | Inside My Mind | 149090 | [149090-inside-my-mind.json](./149090-inside-my-mind.json) |
 | Inside My Mind 2 | 226851 | [226851-inside-my-mind-2.json](./226851-inside-my-mind-2.json) |
 | Inside My Radio - Deluxe | 53233 | [53233-inside-my-radio-deluxe.json](./53233-inside-my-radio-deluxe.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Oblivion | 46748 | [46748-into-oblivion.json](./46748-into-oblivion.json) |
 | Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
+| Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
 | Into the Blue | 109033 | [109033-into-the-blue.json](./109033-into-the-blue.json) |
