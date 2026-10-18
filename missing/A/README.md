@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AAA Clock 2: Ultimate Edition | 314594 | [314594-aaa-clock-2-ultimate-edition.json](./314594-aaa-clock-2-ultimate-edition.json) |
 | AAA Clock 2: Vulca Clock | 314590 | [314590-aaa-clock-2-vulca-clock.json](./314590-aaa-clock-2-vulca-clock.json) |
 | AAA Clock: Extreme Premium | 304762 | [304762-aaa-clock-extreme-premium.json](./304762-aaa-clock-extreme-premium.json) |
+| AAA Simulator | 325878 | [325878-aaa-simulator.json](./325878-aaa-simulator.json) |
 | Aaaaaaaaaaaaaaaaaaaaaaaa!!! Remastered | 219696 | [219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json](./219696-aaaaaaaaaaaaaaaaaaaaaaaa-remastered.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: A Reckless Disregard for Gravity | 6286 | [6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json](./6286-aaaaaaaaaaaaaaaaaaaaaaaaa-a-reckless-disregard-for-gravity.json) |
 | AaaaaAAaaaAAAaaAAAAaAAAAA!!!: Brutal Concussion | 164411 | [164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json](./164411-aaaaaaaaaaaaaaaaaaaaaaaaa-brutal-concussion.json) |
@@ -3789,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airborne Assault: Highway to Reich | 23751 | [23751-airborne-assault-highway-to-reich.json](./23751-airborne-assault-highway-to-reich.json) |
 | Airborne Empire | 252769 | [252769-airborne-empire.json](./252769-airborne-empire.json) |
 | Airborne Empires | 31748 | [31748-airborne-empires.json](./31748-airborne-empires.json) |
+| Airborne Grannies | 325895 | [325895-airborne-grannies.json](./325895-airborne-grannies.json) |
 | Airborne Justice | 321533 | [321533-airborne-justice.json](./321533-airborne-justice.json) |
 | Airborne Kingdom | 115473 | [115473-airborne-kingdom.json](./115473-airborne-kingdom.json) |
 | Airborne Kingdom: Deluxe Edition | 216228 | [216228-airborne-kingdom-deluxe-edition.json](./216228-airborne-kingdom-deluxe-edition.json) |
@@ -4389,6 +4391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alehouse Tavern Simulator | 334489 | [334489-alehouse-tavern-simulator.json](./334489-alehouse-tavern-simulator.json) |
 | Alekhine's Gun | 15691 | [15691-alekhines-gun.json](./15691-alekhines-gun.json) |
 | Alekon | 151066 | [151066-alekon.json](./151066-alekon.json) |
+| Alentejo: Tinto's Law | 325876 | [325876-alentejo-tintos-law.json](./325876-alentejo-tintos-law.json) |
 | Aleon's Nightmare | 211408 | [211408-aleons-nightmare.json](./211408-aleons-nightmare.json) |
 | Aleon's Nightmare 2 | 239663 | [239663-aleons-nightmare-2.json](./239663-aleons-nightmare-2.json) |
 | Aleph | 217851 | [217851-aleph.json](./217851-aleph.json) |
@@ -7252,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
 | Anime Girls: JDM Car Passion Puzzle | 336409 | [336409-anime-girls-jdm-car-passion-puzzle.json](./336409-anime-girls-jdm-car-passion-puzzle.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
+| Anime Girls: Lovely Lolita | 325890 | [325890-anime-girls-lovely-lolita.json](./325890-anime-girls-lovely-lolita.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
@@ -8908,6 +8912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Victory Road | 121357 | [121357-arcade-archives-victory-road.json](./121357-arcade-archives-victory-road.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
 | Arcade Archives: Violence Fight | 320312 | [320312-arcade-archives-violence-fight.json](./320312-arcade-archives-violence-fight.json) |
+| Arcade Archives: Viper Phase 1 | 325894 | [325894-arcade-archives-viper-phase-1.json](./325894-arcade-archives-viper-phase-1.json) |
 | Arcade Archives: Volfied | 294820 | [294820-arcade-archives-volfied.json](./294820-arcade-archives-volfied.json) |
 | Arcade Archives: Vs. Balloon Fight | 68332 | [68332-arcade-archives-vs-balloon-fight.json](./68332-arcade-archives-vs-balloon-fight.json) |
 | Arcade Archives: vs. Battle City | 317219 | [317219-arcade-archives-vs-battle-city.json](./317219-arcade-archives-vs-battle-city.json) |
@@ -9016,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
 | Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
+| Arcade Shoot-em-up Bundle | 325883 | [325883-arcade-shoot-em-up-bundle.json](./325883-arcade-shoot-em-up-bundle.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
