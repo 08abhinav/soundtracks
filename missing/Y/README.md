@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
 | Yellow Brick Road II | 144851 | [144851-yellow-brick-road-ii.json](./144851-yellow-brick-road-ii.json) |
 | Yellow Brick Road: Harapeko Tsuki to Hoshi Atsume | 144852 | [144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json](./144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json) |
+| Yellow Cab | 345916 | [345916-yellow-cab.json](./345916-yellow-cab.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow House | 309512 | [309512-yellow-house.json](./309512-yellow-house.json) |
@@ -474,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yingzinue: Donghei | 188926 | [188926-yingzinue-donghei.json](./188926-yingzinue-donghei.json) |
 | Yǐnlóng Zhuán: Yǐngzōng | 74287 | [74287-yinlong-zhuan-yingzong.json](./74287-yinlong-zhuan-yingzong.json) |
 | YinYang Street | 240130 | [240130-yinyang-street.json](./240130-yinyang-street.json) |
+| YinYang Street: Separate Ways | 345818 | [345818-yinyang-street-separate-ways.json](./345818-yinyang-street-separate-ways.json) |
 | Yippy Cube | 208270 | [208270-yippy-cube.json](./208270-yippy-cube.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
