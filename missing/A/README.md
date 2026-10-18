@@ -6775,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
+| Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded for Nintendo Switch | 147948 | [147948-angerforce-reloaded-for-nintendo-switch.json](./147948-angerforce-reloaded-for-nintendo-switch.json) |
 | AngerOfStick | 175433 | [175433-angerofstick.json](./175433-angerofstick.json) |
@@ -6953,6 +6954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaddicts 2 | 192891 | [192891-animaddicts-2.json](./192891-animaddicts-2.json) |
 | Animaddicts 3 | 195704 | [195704-animaddicts-3.json](./195704-animaddicts-3.json) |
 | Animagi | 377681 | [377681-animagi.json](./377681-animagi.json) |
+| Animahjong X | 331189 | [331189-animahjong-x.json](./331189-animahjong-x.json) |
 | Animal Across: Afrika | 236964 | [236964-animal-across-afrika.json](./236964-animal-across-afrika.json) |
 | Animal Adventure | 337813 | [337813-animal-adventure.json](./337813-animal-adventure.json) |
 | Animal Adventure Downhill Rush | 269084 | [269084-animal-adventure-downhill-rush.json](./269084-animal-adventure-downhill-rush.json) |
