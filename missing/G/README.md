@@ -5935,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper: Breaking Dead | 111556 | [111556-graveyard-keeper-breaking-dead.json](./111556-graveyard-keeper-breaking-dead.json) |
 | Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
+| Graveyard Keeper: Undead Edition | 350798 | [350798-graveyard-keeper-undead-edition.json](./350798-graveyard-keeper-undead-edition.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
 | Graveyard Report | 391105 | [391105-graveyard-report.json](./391105-graveyard-report.json) |
@@ -6783,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris: Collector's Edition | 159211 | [159211-gris-collectors-edition.json](./159211-gris-collectors-edition.json) |
+| Gris: Deluxe Edition | 350799 | [350799-gris-deluxe-edition.json](./350799-gris-deluxe-edition.json) |
 | Grisaia no Kajitsu: Side Episode | 145401 | [145401-grisaia-no-kajitsu-side-episode.json](./145401-grisaia-no-kajitsu-side-episode.json) |
 | Grisaia no Shin Kajitsu: Shuuketsu no Hyakka | 415853 | [415853-grisaia-no-shin-kajitsu-shuuketsu-no-hyakka.json](./415853-grisaia-no-shin-kajitsu-shuuketsu-no-hyakka.json) |
 | Grisaia Phantom Trigger 01&02 | 147935 | [147935-grisaia-phantom-trigger-01-and-02.json](./147935-grisaia-phantom-trigger-01-and-02.json) |
