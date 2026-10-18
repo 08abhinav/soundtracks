@@ -1224,6 +1224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
+| Capsule Fighting | 334560 | [334560-capsule-fighting.json](./334560-capsule-fighting.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hero | 353611 | [353611-capsule-hero.json](./353611-capsule-hero.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
@@ -5625,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster | 66064 | [66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json](./66064-chou-mashin-eiyuuden-wataru-mazekko-monster.json) |
 | Chou Mashin Eiyuuden Wataru: Mazekko Monster 2 | 66065 | [66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json](./66065-chou-mashin-eiyuuden-wataru-mazekko-monster-2.json) |
 | Chou Meisaku Suiri Adventure DS: Raymond Chandler Gensaku - Saraba Itoshiki Hito yo | 269583 | [269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json](./269583-chou-meisaku-suiri-adventure-ds-raymond-chandler-gensaku-saraba-itoshiki-hito-yo.json) |
+| Chou Mentei Sherlock-chan: Okiteyaburi no Misdirection | 334558 | [334558-chou-mentei-sherlock-chan-okiteyaburi-no-misdirection.json](./334558-chou-mentei-sherlock-chan-okiteyaburi-no-misdirection.json) |
 | Chou Nanmon Nazotoki Chousenjou | 251511 | [251511-chou-nanmon-nazotoki-chousenjou.json](./251511-chou-nanmon-nazotoki-chousenjou.json) |
 | Chou Sentou-chuu: Battle for Money | 280328 | [280328-chou-sentou-chuu-battle-for-money.json](./280328-chou-sentou-chuu-battle-for-money.json) |
 | Chou Tousouchuu & Chou Sentouchuu Double Pack | 107656 | [107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json](./107656-chou-tousouchuu-and-chou-sentouchuu-double-pack.json) |
@@ -6350,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
 | Cirno's Battle of Faith | 152500 | [152500-cirnos-battle-of-faith.json](./152500-cirnos-battle-of-faith.json) |
+| Cirno's Card Class | 334561 | [334561-cirnos-card-class.json](./334561-cirnos-card-class.json) |
 | Cirno's Lost Chirumiru | 264097 | [264097-cirnos-lost-chirumiru.json](./264097-cirnos-lost-chirumiru.json) |
 | Cirno's Not So Ice Day | 362896 | [362896-cirnos-not-so-ice-day.json](./362896-cirnos-not-so-ice-day.json) |
 | Cirno's Perfect Punchout!! | 219035 | [219035-cirnos-perfect-punchout.json](./219035-cirnos-perfect-punchout.json) |
@@ -7891,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
+| Code Name: Alteon | 334529 | [334529-code-name-alteon.json](./334529-code-name-alteon.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
@@ -8970,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
 | Combination Pro Soccer | 64877 | [64877-combination-pro-soccer.json](./64877-combination-pro-soccer.json) |
+| CombinationVille | 334545 | [334545-combinationville.json](./334545-combinationville.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
@@ -12296,8 +12301,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimax | 130912 | [130912-crimax.json](./130912-crimax.json) |
 | cRiMe | 93459 | [93459-crime.json](./93459-crime.json) |
 | Crime Boss: Heavy Hitters Pack | 276298 | [276298-crime-boss-heavy-hitters-pack.json](./276298-crime-boss-heavy-hitters-pack.json) |
+| Crime Boss: Rockay City - Baker's Bundle | 334548 | [334548-crime-boss-rockay-city-bakers-bundle.json](./334548-crime-boss-rockay-city-bakers-bundle.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
 | Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
+| Crime Boss: Rockay City - Jupiter Character Pack | 334549 | [334549-crime-boss-rockay-city-jupiter-character-pack.json](./334549-crime-boss-rockay-city-jupiter-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
@@ -13911,6 +13918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivation | 378388 | [378388-cultivation.json](./378388-cultivation.json) |
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Magic World | 374882 | [374882-cultivation-magic-world.json](./374882-cultivation-magic-world.json) |
+| Cultivation of The Strong | 334527 | [334527-cultivation-of-the-strong.json](./334527-cultivation-of-the-strong.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Cultivator | 383561 | [383561-cultivator.json](./383561-cultivator.json) |
 | Cultivator Legacy | 199987 | [199987-cultivator-legacy.json](./199987-cultivator-legacy.json) |
