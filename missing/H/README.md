@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Gear Assault | 26704 | [26704-heavy-gear-assault.json](./26704-heavy-gear-assault.json) |
 | Heavy Gear II | 742 | [742-heavy-gear-ii.json](./742-heavy-gear-ii.json) |
 | Heavy Gear III | 100191 | [100191-heavy-gear-iii.json](./100191-heavy-gear-iii.json) |
+| Heavy Hand: Complete DLC Bundle | 317677 | [317677-heavy-hand-complete-dlc-bundle.json](./317677-heavy-hand-complete-dlc-bundle.json) |
 | Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition | 317254 | [317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json](./317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json) |
 | Heavy Hearts | 219825 | [219825-heavy-hearts.json](./219825-heavy-hearts.json) |
 | Heavy Hogur | 54079 | [54079-heavy-hogur.json](./54079-heavy-hogur.json) |
@@ -3678,6 +3679,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
+| Hentai Golf: Golf Ball Set 1 | 317658 | [317658-hentai-golf-golf-ball-set-1.json](./317658-hentai-golf-golf-ball-set-1.json) |
+| Hentai Golf: Golf Ball Set 2 | 317659 | [317659-hentai-golf-golf-ball-set-2.json](./317659-hentai-golf-golf-ball-set-2.json) |
+| Hentai Golf: Golf Ball Set 3 | 317661 | [317661-hentai-golf-golf-ball-set-3.json](./317661-hentai-golf-golf-ball-set-3.json) |
+| Hentai Golf: Golf Ball Set 4 | 317660 | [317660-hentai-golf-golf-ball-set-4.json](./317660-hentai-golf-golf-ball-set-4.json) |
+| Hentai Golf: Golf Ball Set 5 | 317662 | [317662-hentai-golf-golf-ball-set-5.json](./317662-hentai-golf-golf-ball-set-5.json) |
+| Hentai Golf: Golf Ball Set 6 | 317663 | [317663-hentai-golf-golf-ball-set-6.json](./317663-hentai-golf-golf-ball-set-6.json) |
 | Hentai Golf: GOTY Edition | 313790 | [313790-hentai-golf-goty-edition.json](./313790-hentai-golf-goty-edition.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Lakeside Fairways | 283271 | [283271-hentai-golf-lakeside-fairways.json](./283271-hentai-golf-lakeside-fairways.json) |
@@ -3985,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Definitive | 324454 | [324454-hentai-world-ultra-definitive.json](./324454-hentai-world-ultra-definitive.json) |
 | Hentai World: Ultra Deluxe | 308818 | [308818-hentai-world-ultra-deluxe.json](./308818-hentai-world-ultra-deluxe.json) |
 | Hentai World: Ultra Extended | 313144 | [313144-hentai-world-ultra-extended.json](./313144-hentai-world-ultra-extended.json) |
+| Hentai World: Ultra Premium | 317664 | [317664-hentai-world-ultra-premium.json](./317664-hentai-world-ultra-premium.json) |
 | Hentai World: Ultra Special | 316270 | [316270-hentai-world-ultra-special.json](./316270-hentai-world-ultra-special.json) |
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
@@ -5546,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
+| Highway Legends: Complete DLC Bundle | 317678 | [317678-highway-legends-complete-dlc-bundle.json](./317678-highway-legends-complete-dlc-bundle.json) |
 | Highway Legends: Gold Edition | 413573 | [413573-highway-legends-gold-edition.json](./413573-highway-legends-gold-edition.json) |
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
@@ -7069,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
 | Hope of Bion | 260612 | [260612-hope-of-bion.json](./260612-hope-of-bion.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
+| Hope of Taru | 317709 | [317709-hope-of-taru.json](./317709-hope-of-taru.json) |
 | Hope Returns | 183348 | [183348-hope-returns.json](./183348-hope-returns.json) |
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
 | Hope Springs Hotel: Whisper Of Winter | 310013 | [310013-hope-springs-hotel-whisper-of-winter.json](./310013-hope-springs-hotel-whisper-of-winter.json) |
