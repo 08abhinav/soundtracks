@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Dr. Buzz Watson the Bee Familiar Pack | 313700 | [313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json](./313700-idle-champions-dr-buzz-watson-the-bee-familiar-pack.json) |
 | Idle Champions: Eonstaryx the Time Dragon Familiar Pack | 277357 | [277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json](./277357-idle-champions-eonstaryx-the-time-dragon-familiar-pack.json) |
 | Idle Champions: Infiltrator Nahara Skin & Feat Pack | 313704 | [313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json](./313704-idle-champions-infiltrator-nahara-skin-and-feat-pack.json) |
+| Idle Champions: Lae'zel's Champions of Renown Bundle | 312975 | [312975-idle-champions-laezels-champions-of-renown-bundle.json](./312975-idle-champions-laezels-champions-of-renown-bundle.json) |
 | Idle Champions: Masquerade Ball Ellywick Theme Pack | 313694 | [313694-idle-champions-masquerade-ball-ellywick-theme-pack.json](./313694-idle-champions-masquerade-ball-ellywick-theme-pack.json) |
 | Idle Champions: Masquerade Ball Lae'zel Skin & Feat Pack | 313680 | [313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json](./313680-idle-champions-masquerade-ball-laezel-skin-and-feat-pack.json) |
 | Idle Champions: Masquerade Ball Rust Theme Pack | 313695 | [313695-idle-champions-masquerade-ball-rust-theme-pack.json](./313695-idle-champions-masquerade-ball-rust-theme-pack.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
 | Isolation | 29945 | [29945-isolation.json](./29945-isolation.json) |
+| Isolation Instinct: Farming, Craft, Survival | 312980 | [312980-isolation-instinct-farming-craft-survival.json](./312980-isolation-instinct-farming-craft-survival.json) |
 | Isolation One | 274385 | [274385-isolation-one.json](./274385-isolation-one.json) |
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
