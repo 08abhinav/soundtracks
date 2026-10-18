@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8 | 75423 | [75423-vigilante-8.json](./75423-vigilante-8.json) |
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
+| Vigilante Ranger | 315942 | [315942-vigilante-ranger.json](./315942-vigilante-ranger.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
 | Vigna's Stereo Switch | 296094 | [296094-vignas-stereo-switch.json](./296094-vignas-stereo-switch.json) |
 | Vignette: Memories of Baruu | 236737 | [236737-vignette-memories-of-baruu.json](./236737-vignette-memories-of-baruu.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viruzzerk | 245296 | [245296-viruzzerk.json](./245296-viruzzerk.json) |
 | Virvius | 244888 | [244888-virvius.json](./244888-virvius.json) |
 | VirZoom Arcade | 33356 | [33356-virzoom-arcade.json](./33356-virzoom-arcade.json) |
+| Visa Control: USA Border Simulator | 315934 | [315934-visa-control-usa-border-simulator.json](./315934-visa-control-usa-border-simulator.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
 | Viscera Alien | 385249 | [385249-viscera-alien.json](./385249-viscera-alien.json) |
 | Viscera Cleanup Detail 2 | 321835 | [321835-viscera-cleanup-detail-2.json](./321835-viscera-cleanup-detail-2.json) |
