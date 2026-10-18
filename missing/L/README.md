@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 4: Happy Racer | 309634 | [309634-learn-to-play-vol-4-happy-racer.json](./309634-learn-to-play-vol-4-happy-racer.json) |
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
+| Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
@@ -2949,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
+| Lewd Mod XXXmas | 358636 | [358636-lewd-mod-xxxmas.json](./358636-lewd-mod-xxxmas.json) |
 | Lewd Mod: Noir | 356876 | [356876-lewd-mod-noir.json](./356876-lewd-mod-noir.json) |
 | Lewd Puzzle | 368111 | [368111-lewd-puzzle.json](./368111-lewd-puzzle.json) |
 | LewDemon Academy: Student Council President Ayaka's RPG Struggle | 82675 | [82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json](./82675-lewdemon-academy-student-council-president-ayakas-rpg-struggle.json) |
