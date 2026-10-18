@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
+| Aerial Mini | 339695 | [339695-aerial-mini.json](./339695-aerial-mini.json) |
 | Aerial Nature Jigsaw Puzzles | 267854 | [267854-aerial-nature-jigsaw-puzzles.json](./267854-aerial-nature-jigsaw-puzzles.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 2 | 270073 | [270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json](./270073-aerial-nature-jigsaw-puzzles-expansion-pack-2.json) |
@@ -8935,6 +8936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade Hysteria | 420515 | [420515-arcade-hysteria.json](./420515-arcade-hysteria.json) |
 | Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
+| Arcade Jumper | 339699 | [339699-arcade-jumper.json](./339699-arcade-jumper.json) |
 | Arcade LA Deadzone | 106545 | [106545-arcade-la-deadzone.json](./106545-arcade-la-deadzone.json) |
 | Arcade Land | 99543 | [99543-arcade-land.json](./99543-arcade-land.json) |
 | Arcade Legends 3D | 206138 | [206138-arcade-legends-3d.json](./206138-arcade-legends-3d.json) |
