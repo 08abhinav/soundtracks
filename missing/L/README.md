@@ -3091,6 +3091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
+| Libertad o Muerte! | 328316 | [328316-libertad-o-muerte.json](./328316-libertad-o-muerte.json) |
 | Libertarian Wario Land | 318524 | [318524-libertarian-wario-land.json](./318524-libertarian-wario-land.json) |
 | Libertine | 372694 | [372694-libertine.json](./372694-libertine.json) |
 | Liberty Castle: Home of the Free | 199666 | [199666-liberty-castle-home-of-the-free.json](./199666-liberty-castle-home-of-the-free.json) |
