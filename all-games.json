@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:36:06.297Z",
-  "total_soundtracks": 2162,
+  "generated_at": "2026-10-18T08:36:15.565Z",
+  "total_soundtracks": 2163,
   "games": [
     {
       "igdb_id": 7522,
@@ -23835,6 +23835,20 @@
         {
           "album_name": "Tony Hawk's American Wasteland Soundtrack",
           "spotify_url": "https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 174897,
+      "game_name": "Torchlight: Infinite",
+      "game_url": "https://ostdb.net/games/torchlight-infinite",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6e741b28b65b639d27ac6b0",
+      "albums": [
+        {
+          "album_name": "Torchlight: Infinite (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5wSG0yYvL6dbTC6HmIQixj",
           "apple_music_url": "",
           "album_link_url": ""
         }
