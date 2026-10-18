@@ -472,6 +472,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0c/8b/b0/0c8bb060-bce4-f7b0-7b87-a972e2e72758/196589977601.jpg/600x600bb.jpg" width="60" /> | [Driveclub](https://ostdb.net/games/driveclub) | **Driveclub Original Game Soundtrack (Remixes)** · [Spotify](https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4) · [Album](https://album.link/i/1678587227) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d2e6d5323e99e4345116bbce" width="60" /> | [Duck Detective: The Secret Salami](https://ostdb.net/games/duck-detective-the-secret-salami) | **Duck Detective (The Secret Salami Original Soundtrack)** · [Spotify](https://open.spotify.com/album/0s73kUkRzWLExSX7wQMIz9) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ecca0f5d1c85db06a2af8828" width="60" /> | [DuckTales: Remastered](https://ostdb.net/games/ducktales-remastered) | **DuckTales: Remastered (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a451d93bd445937b1745e351" width="60" /> | [Duet](https://ostdb.net/games/duet) | **Duet (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1QSdqSM4eiNuiHhWohTEnn) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/b8/6d/d6b86d7e-6cda-5fd0-79d7-19205f5ce8df/artwork.jpg/600x600bb.jpg" width="60" /> | [Duet Night Abyss](https://ostdb.net/games/duet-night-abyss) | **Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.1)** · [Spotify](https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1852635266?uo=4) · [Album](https://album.link/i/1852635266)<br>**Unwind the Helix of Destiny (Duet Night Abyss Original Soundtrack Vol.2)** · [Spotify](https://music.apple.com/us/album/unwind-the-helix-of-destiny-duet-night-abyss/1853780904?uo=4) · [Album](https://album.link/i/1853780904) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2735b7fc94a51d8c75c027c89ff" width="60" /> | [Duke Nukem 3D](https://ostdb.net/games/duke-nukem-3d) | **Duke Nukem 3d Soundtrack Rebuild** · [Spotify](https://open.spotify.com/album/3zBmExKhhB4FvrrQRVFyf2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738367d9d8bd46511f8de2ea02" width="60" /> | [Dune: Awakening](https://ostdb.net/games/dune-awakening) | **Dune: Awakening (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) |
@@ -1832,4 +1833,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2149 soundtracks · last updated 2026-10-18T08:30:49.727Z_
+_2150 soundtracks · last updated 2026-10-18T08:30:58.159Z_
