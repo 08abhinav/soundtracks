@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seemonster | 40784 | [40784-seemonster.json](./40784-seemonster.json) |
 | Seen | 117641 | [117641-seen.json](./117641-seen.json) |
 | Seen | 142972 | [142972-seen.json](./142972-seen.json) |
+| Seen Before | 348654 | [348654-seen-before.json](./348654-seen-before.json) |
 | Seen in Liberty City | 397372 | [397372-seen-in-liberty-city.json](./397372-seen-in-liberty-city.json) |
 | Seen on Screen | 225721 | [225721-seen-on-screen.json](./225721-seen-on-screen.json) |
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
@@ -6610,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
 | Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
+| ShopFront | 348568 | [348568-shopfront.json](./348568-shopfront.json) |
 | Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
@@ -7590,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk | 121573 | [121573-silk.json](./121573-silk.json) |
 | Silk & Sorrow | 415870 | [415870-silk-and-sorrow.json](./415870-silk-and-sorrow.json) |
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
+| Silk Roads II: Paths of Fortune | 348562 | [348562-silk-roads-ii-paths-of-fortune.json](./348562-silk-roads-ii-paths-of-fortune.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
 | Silk to Cotton | 49820 | [49820-silk-to-cotton.json](./49820-silk-to-cotton.json) |
 | Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
@@ -10057,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
 | Small Bird Forest | 417498 | [417498-small-bird-forest.json](./417498-small-bird-forest.json) |
+| Small Bird Poem | 348580 | [348580-small-bird-poem.json](./348580-small-bird-poem.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
@@ -13176,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Card Duel | 390154 | [390154-soul-card-duel.json](./390154-soul-card-duel.json) |
 | Soul Catcher | 169721 | [169721-soul-catcher.json](./169721-soul-catcher.json) |
 | Soul Catcher: The Moon Coliseum | 366384 | [366384-soul-catcher-the-moon-coliseum.json](./366384-soul-catcher-the-moon-coliseum.json) |
+| Soul Cauldron | 348565 | [348565-soul-cauldron.json](./348565-soul-cauldron.json) |
 | Soul Chained | 348392 | [348392-soul-chained.json](./348392-soul-chained.json) |
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
@@ -13230,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Maze | 388345 | [388345-soul-maze.json](./388345-soul-maze.json) |
 | Soul Merger | 216873 | [216873-soul-merger.json](./216873-soul-merger.json) |
 | Soul Mirror Relics | 345657 | [345657-soul-mirror-relics.json](./345657-soul-mirror-relics.json) |
+| Soul Nexus | 348569 | [348569-soul-nexus.json](./348569-soul-nexus.json) |
 | Soul Nomad & the World Eaters | 21235 | [21235-soul-nomad-and-the-world-eaters.json](./21235-soul-nomad-and-the-world-eaters.json) |
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
