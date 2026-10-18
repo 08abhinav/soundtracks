@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Turf Masters Scotland | 400237 | [400237-neo-turf-masters-scotland.json](./400237-neo-turf-masters-scotland.json) |
 | Neo XYX | 45814 | [45814-neo-xyx.json](./45814-neo-xyx.json) |
 | Neo-Gensokyo Zero | 184860 | [184860-neo-gensokyo-zero.json](./184860-neo-gensokyo-zero.json) |
+| Neo-Kaizo DS | 314126 | [314126-neo-kaizo-ds.json](./314126-neo-kaizo-ds.json) |
 | Neo-Now! | 31986 | [31986-neo-now.json](./31986-neo-now.json) |
 | Neo-Programs | 186067 | [186067-neo-programs.json](./186067-neo-programs.json) |
 | Neo-Sonic: Godspeed | 330286 | [330286-neo-sonic-godspeed.json](./330286-neo-sonic-godspeed.json) |
@@ -2129,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetPanzer | 122805 | [122805-netpanzer.json](./122805-netpanzer.json) |
 | Netrek | 79932 | [79932-netrek.json](./79932-netrek.json) |
 | Netronian Chaos | 198355 | [198355-netronian-chaos.json](./198355-netronian-chaos.json) |
+| Netrun 2000 | 314146 | [314146-netrun-2000.json](./314146-netrun-2000.json) |
 | Netrunner | 139112 | [139112-netrunner.json](./139112-netrunner.json) |
 | Netshell | 398015 | [398015-netshell.json](./398015-netshell.json) |
 | NetSpace Saga Ep.1 | 174076 | [174076-netspace-saga-ep-1.json](./174076-netspace-saga-ep-1.json) |
@@ -2498,12 +2500,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. Wii 2: The Next Levels | 230246 | [230246-new-super-mario-bros-wii-2-the-next-levels.json](./230246-new-super-mario-bros-wii-2-the-next-levels.json) |
 | New Super Mario Bros. Wii Coin World | 132003 | [132003-new-super-mario-bros-wii-coin-world.json](./132003-new-super-mario-bros-wii-coin-world.json) |
 | New Super Mario Bros. Wii DS | 230759 | [230759-new-super-mario-bros-wii-ds.json](./230759-new-super-mario-bros-wii-ds.json) |
+| New Super Mario Bros. Wii: The Galaxy Expansion | 314096 | [314096-new-super-mario-bros-wii-the-galaxy-expansion.json](./314096-new-super-mario-bros-wii-the-galaxy-expansion.json) |
 | New Super Mario Bros. Wii: The Prankster Comets | 313432 | [313432-new-super-mario-bros-wii-the-prankster-comets.json](./313432-new-super-mario-bros-wii-the-prankster-comets.json) |
 | New Super Mario Bros.: 1-Up Hunt! | 231648 | [231648-new-super-mario-bros-1-up-hunt.json](./231648-new-super-mario-bros-1-up-hunt.json) |
 | New Super Mario Castle | 255604 | [255604-new-super-mario-castle.json](./255604-new-super-mario-castle.json) |
+| New Super Mario Galaxy | 314112 | [314112-new-super-mario-galaxy.json](./314112-new-super-mario-galaxy.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
 | New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
+| New Super Mario Run | 314116 | [314116-new-super-mario-run.json](./314116-new-super-mario-run.json) |
 | New Super Mario World 1: The Twelve Magic Orbs - Powered-Up | 222515 | [222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json](./222515-new-super-mario-world-1-the-twelve-magic-orbs-powered-up.json) |
 | New Super Mario World: The Seven Crystals of Peace | 267935 | [267935-new-super-mario-world-the-seven-crystals-of-peace.json](./267935-new-super-mario-world-the-seven-crystals-of-peace.json) |
 | New Supper Banana! | 366220 | [366220-new-supper-banana.json](./366220-new-supper-banana.json) |
@@ -5341,6 +5346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NSG: Missing Tales | 262871 | [262871-nsg-missing-tales.json](./262871-nsg-missing-tales.json) |
 | NSMB Mario Vs Luigi: KKT's Gooffy little Mod | 328407 | [328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json](./328407-nsmb-mario-vs-luigi-kkts-gooffy-little-mod.json) |
 | NSMB: Mario vs. Luigi Online | 212845 | [212845-nsmb-mario-vs-luigi-online.json](./212845-nsmb-mario-vs-luigi-online.json) |
+| NSMB2: Mushroom Madness | 314097 | [314097-nsmb2-mushroom-madness.json](./314097-nsmb2-mushroom-madness.json) |
 | NSR: Night Street Racing | 397954 | [397954-nsr-night-street-racing.json](./397954-nsr-night-street-racing.json) |
 | nStations | 127115 | [127115-nstations.json](./127115-nstations.json) |
 | NSYNC: Get to the Show | 49955 | [49955-nsync-get-to-the-show.json](./49955-nsync-get-to-the-show.json) |
