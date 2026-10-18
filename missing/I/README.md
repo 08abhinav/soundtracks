@@ -2394,7 +2394,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indianapolis 500: The Simulation | 5526 | [5526-indianapolis-500-the-simulation.json](./5526-indianapolis-500-the-simulation.json) |
 | IndianOps | 348408 | [348408-indianops.json](./348408-indianops.json) |
 | Indie All Star Bundle | 317216 | [317216-indie-all-star-bundle.json](./317216-indie-all-star-bundle.json) |
+| Indie All Star Bundle vol. 4 | 322421 | [322421-indie-all-star-bundle-vol-4.json](./322421-indie-all-star-bundle-vol-4.json) |
+| Indie All Star Bundle vol. 5 | 322422 | [322422-indie-all-star-bundle-vol-5.json](./322422-indie-all-star-bundle-vol-5.json) |
 | Indie All Star Vol. 2 | 320759 | [320759-indie-all-star-vol-2.json](./320759-indie-all-star-vol-2.json) |
+| Indie All Star vol. 3 | 322420 | [322420-indie-all-star-vol-3.json](./322420-indie-all-star-vol-3.json) |
 | Indie Arena Booth Online | 138721 | [138721-indie-arena-booth-online.json](./138721-indie-arena-booth-online.json) |
 | Indie Assault | 35631 | [35631-indie-assault.json](./35631-indie-assault.json) |
 | Indie Bungle 2: Breakout Indies | 414340 | [414340-indie-bungle-2-breakout-indies.json](./414340-indie-bungle-2-breakout-indies.json) |
