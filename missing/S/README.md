@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauna 2000 | 210586 | [210586-sauna-2000.json](./210586-sauna-2000.json) |
 | Sauna Mario World | 338838 | [338838-sauna-mario-world.json](./338838-sauna-mario-world.json) |
 | Sauna Mario World 2 | 338836 | [338836-sauna-mario-world-2.json](./338836-sauna-mario-world-2.json) |
+| Sauna Simulator | 312430 | [312430-sauna-simulator.json](./312430-sauna-simulator.json) |
 | Saunageddon | 348837 | [348837-saunageddon.json](./348837-saunageddon.json) |
 | Saurian | 19384 | [19384-saurian.json](./19384-saurian.json) |
 | Sauro | 40414 | [40414-sauro.json](./40414-sauro.json) |
@@ -2054,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Psycho Lady Simulator | 278376 | [278376-scary-psycho-lady-simulator.json](./278376-scary-psycho-lady-simulator.json) |
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
+| Scary School Simulator 3 | 312431 | [312431-scary-school-simulator-3.json](./312431-scary-school-simulator-3.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Shadow Spot: Last Farewell | 313583 | [313583-scary-shadow-spot-last-farewell.json](./313583-scary-shadow-spot-last-farewell.json) |
 | Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
@@ -2467,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scout Search | 70098 | [70098-scout-search.json](./70098-scout-search.json) |
 | Scout: An Apocalypse Story | 177355 | [177355-scout-an-apocalypse-story.json](./177355-scout-an-apocalypse-story.json) |
 | Scouter | 316613 | [316613-scouter.json](./316613-scouter.json) |
+| Scouting Simulator | 312432 | [312432-scouting-simulator.json](./312432-scouting-simulator.json) |
 | ScoutmasterX | 363312 | [363312-scoutmasterx.json](./363312-scoutmasterx.json) |
 | Scouts Out | 413034 | [413034-scouts-out.json](./413034-scouts-out.json) |
 | SCP | 131429 | [131429-scp.json](./131429-scp.json) |
@@ -3307,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
 | Secret Neighbor + Hello Engineer The Neighborhood Bundle | 350796 | [350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json](./350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json) |
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
+| Secret Number Simulator | 312433 | [312433-secret-number-simulator.json](./312433-secret-number-simulator.json) |
 | Secret Odyssey: Orb of Eternity | 291680 | [291680-secret-odyssey-orb-of-eternity.json](./291680-secret-odyssey-orb-of-eternity.json) |
 | Secret of Dawnstone | 421825 | [421825-secret-of-dawnstone.json](./421825-secret-of-dawnstone.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
@@ -3473,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guard Sex: Episode 2 | 301649 | [301649-security-guard-sex-episode-2.json](./301649-security-guard-sex-episode-2.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
 | Security Guard Sex: Episode 6 | 371064 | [371064-security-guard-sex-episode-6.json](./371064-security-guard-sex-episode-6.json) |
+| Security Simulator: Nightshift | 312434 | [312434-security-simulator-nightshift.json](./312434-security-simulator-nightshift.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
 | Sedap! A Culinary Adventure | 273429 | [273429-sedap-a-culinary-adventure.json](./273429-sedap-a-culinary-adventure.json) |
 | Sedecktion | 297213 | [297213-sedecktion.json](./297213-sedecktion.json) |
@@ -4468,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewermania | 42179 | [42179-sewermania.json](./42179-sewermania.json) |
+| Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex Adventures: BDSM Dungeon | 219597 | [219597-sex-adventures-bdsm-dungeon.json](./219597-sex-adventures-bdsm-dungeon.json) |
 | Sex Adventures: Cuckold Gym | 226151 | [226151-sex-adventures-cuckold-gym.json](./226151-sex-adventures-cuckold-gym.json) |
@@ -7453,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
+| Signal Control Simulator | 312424 | [312424-signal-control-simulator.json](./312424-signal-control-simulator.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
 | Signal Decay | 58715 | [58715-signal-decay.json](./58715-signal-decay.json) |
 | Signal Garden | 400311 | [400311-signal-garden.json](./400311-signal-garden.json) |
@@ -8130,6 +8137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator Mega Pack: Fishing, Soldier, Bear, Shark & Truck Mechanic | 401134 | [401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json](./401134-simulator-mega-pack-fishing-soldier-bear-shark-and-truck-mechanic.json) |
 | Simulator Of A Person Who Is Taking Online Course To Study How To Lose Weight | 279264 | [279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json](./279264-simulator-of-a-person-who-is-taking-online-course-to-study-how-to-lose-weight.json) |
 | Simulator of Ukraine 1991 | 265097 | [265097-simulator-of-ukraine-1991.json](./265097-simulator-of-ukraine-1991.json) |
+| Simulator of Ukraine 1991: Play for Israel | 312462 | [312462-simulator-of-ukraine-1991-play-for-israel.json](./312462-simulator-of-ukraine-1991-play-for-israel.json) |
+| Simulator of Ukraine 1991: The Great Sea | 312461 | [312461-simulator-of-ukraine-1991-the-great-sea.json](./312461-simulator-of-ukraine-1991-the-great-sea.json) |
 | Simulator of НЗllo Neighbor | 193852 | [193852-simulator-of-llo-neighbor.json](./193852-simulator-of-llo-neighbor.json) |
 | Simulator Pack: Gas Station Simulator and Treasure Hunter Simulator | 251110 | [251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json](./251110-simulator-pack-gas-station-simulator-and-treasure-hunter-simulator.json) |
 | Simulator RKM | 373215 | [373215-simulator-rkm.json](./373215-simulator-rkm.json) |
@@ -11759,6 +11768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar War | 403034 | [403034-solar-war.json](./403034-solar-war.json) |
 | Solar Warden | 101603 | [101603-solar-warden.json](./101603-solar-warden.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
+| Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -20235,6 +20245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamer Top | 370843 | [370843-streamer-top.json](./370843-streamer-top.json) |
 | Streamer vs. Chat | 414605 | [414605-streamer-vs-chat.json](./414605-streamer-vs-chat.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
+| Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
 | StreamerVille | 285996 | [285996-streamerville.json](./285996-streamerville.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
@@ -24483,6 +24494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
 | Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
+| Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
 | Supermarket Tycoon | 55128 | [55128-supermarket-tycoon.json](./55128-supermarket-tycoon.json) |
