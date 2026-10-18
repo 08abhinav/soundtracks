@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampart | 341283 | [341283-rampart.json](./341283-rampart.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
+| Rampart Defense | 310251 | [310251-rampart-defense.json](./310251-rampart-defense.json) |
 | Rampart Tactics | 118240 | [118240-rampart-tactics.json](./118240-rampart-tactics.json) |
 | Rampartloom: PvP Tower Defense | 424033 | [424033-rampartloom-pvp-tower-defense.json](./424033-rampartloom-pvp-tower-defense.json) |
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
@@ -8932,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run the Gamut | 32880 | [32880-run-the-gamut.json](./32880-run-the-gamut.json) |
 | Run the Gauntlet | 47203 | [47203-run-the-gauntlet.json](./47203-run-the-gauntlet.json) |
 | Run the Rings | 323520 | [323520-run-the-rings.json](./323520-run-the-rings.json) |
+| Run The Words | 310275 | [310275-run-the-words.json](./310275-run-the-words.json) |
 | Run Thief | 121467 | [121467-run-thief.json](./121467-run-thief.json) |
 | Run Think Shoot | 253041 | [253041-run-think-shoot.json](./253041-run-think-shoot.json) |
 | Run to Infinity | 227841 | [227841-run-to-infinity.json](./227841-run-to-infinity.json) |
