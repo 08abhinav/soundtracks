@@ -147,6 +147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Tiger Barcodzz - Wolverine | 362625 | [362625-x-men-tiger-barcodzz-wolverine.json](./362625-x-men-tiger-barcodzz-wolverine.json) |
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
+| X-Mode | 329977 | [329977-x-mode.json](./329977-x-mode.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
 | X-Morph: Defense | 27663 | [27663-x-morph-defense.json](./27663-x-morph-defense.json) |
 | X-Morph: Defense - Limited Edition | 166262 | [166262-x-morph-defense-limited-edition.json](./166262-x-morph-defense-limited-edition.json) |
