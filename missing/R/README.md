@@ -8671,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
+| Ruined Nurse | 324183 | [324183-ruined-nurse.json](./324183-ruined-nurse.json) |
 | Ruined Vacation | 313960 | [313960-ruined-vacation.json](./313960-ruined-vacation.json) |
 | Ruiner 2 | 393936 | [393936-ruiner-2.json](./393936-ruiner-2.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
