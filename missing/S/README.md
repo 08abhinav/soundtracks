@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Simulator: Christmas Factory | 381892 | [381892-santa-simulator-christmas-factory.json](./381892-santa-simulator-christmas-factory.json) |
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
+| Santa Sleigher | 354763 | [354763-santa-sleigher.json](./354763-santa-sleigher.json) |
 | Santa Sling | 30074 | [30074-santa-sling.json](./30074-santa-sling.json) |
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
@@ -2752,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuttle's Thingamubobs | 246533 | [246533-scuttles-thingamubobs.json](./246533-scuttles-thingamubobs.json) |
 | Scutum Phanti | 120059 | [120059-scutum-phanti.json](./120059-scutum-phanti.json) |
 | Scyla | 337658 | [337658-scyla.json](./337658-scyla.json) |
+| Scyphojel, Space Jellyfish! | 354752 | [354752-scyphojel-space-jellyfish.json](./354752-scyphojel-space-jellyfish.json) |
 | Scythe | 133255 | [133255-scythe.json](./133255-scythe.json) |
 | Scythe Shepard | 276717 | [276717-scythe-shepard.json](./276717-scythe-shepard.json) |
 | Scythe X | 137667 | [137667-scythe-x.json](./137667-scythe-x.json) |
@@ -3182,6 +3184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seconds from Silence | 122903 | [122903-seconds-from-silence.json](./122903-seconds-from-silence.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
 | Seconds Out | 70088 | [70088-seconds-out.json](./70088-seconds-out.json) |
+| Seconds Till Destruction | 354883 | [354883-seconds-till-destruction.json](./354883-seconds-till-destruction.json) |
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
@@ -21393,6 +21396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
 | Summer Seaside Search | 408530 | [408530-summer-seaside-search.json](./408530-summer-seaside-search.json) |
 | Summer Secrets | 82182 | [82182-summer-secrets.json](./82182-summer-secrets.json) |
+| Summer Shift At Arbor's | 354815 | [354815-summer-shift-at-arbors.json](./354815-summer-shift-at-arbors.json) |
 | Summer Sisters | 402291 | [402291-summer-sisters.json](./402291-summer-sisters.json) |
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
@@ -25110,6 +25114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Zodiac 2 | 339428 | [339428-sweet-zodiac-2.json](./339428-sweet-zodiac-2.json) |
 | Sweet, Sweet Indigo | 411366 | [411366-sweet-sweet-indigo.json](./411366-sweet-sweet-indigo.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
+| SweetCanvas | 354760 | [354760-sweetcanvas.json](./354760-sweetcanvas.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
