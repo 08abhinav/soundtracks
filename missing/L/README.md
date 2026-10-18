@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
+| La Jupo Vania: The Game | 315326 | [315326-la-jupo-vania-the-game.json](./315326-la-jupo-vania-the-game.json) |
 | La La Land | 215005 | [215005-la-la-land.json](./215005-la-la-land.json) |
 | La La Land 2 | 215006 | [215006-la-la-land-2.json](./215006-la-la-land-2.json) |
 | La La Land 3 | 215008 | [215008-la-la-land-3.json](./215008-la-la-land-3.json) |
@@ -302,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
+| Lad 2024 | 315333 | [315333-lad-2024.json](./315333-lad-2024.json) |
 | Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
 | Ladder it Up! | 304640 | [304640-ladder-it-up.json](./304640-ladder-it-up.json) |
