@@ -1695,6 +1695,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2739de84199defda845906bd96e" width="60" /> | [Twelve Minutes](https://ostdb.net/games/twelve-minutes) | **Twelve Minutes (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4iQp0T3hWqb5XUnHG6Uh8t) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2736bf692e6a1adcb86d81f5771" width="60" /> | [Twin Mirror](https://ostdb.net/games/twin-mirror) | **Twin Mirror (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1BMj0m4SIwLyvVic7DvPhg) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27317ee0ac76be88d1998527448" width="60" /> | [Twisted Metal](https://ostdb.net/games/twisted-metal) | **Twisted Metal (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/77lCTY8B3fiNeuSxg3ljKu) |
+| <img src="https://i.scdn.co/image/ab67616d0000b27378484eac78f1cdd11ce454cd" width="60" /> | [Typoman](https://ostdb.net/games/typoman) | **Typoman (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4ao9esvqqB09mufu1pStVX) |
 
 ### U
 
@@ -1871,4 +1872,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2188 soundtracks · last updated 2026-10-18T09:20:49.731Z_
+_2189 soundtracks · last updated 2026-10-18T12:05:25.588Z_
