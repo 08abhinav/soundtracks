@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainly at Rest | 165669 | [165669-mainly-at-rest.json](./165669-mainly-at-rest.json) |
 | Maintenance | 179465 | [179465-maintenance.json](./179465-maintenance.json) |
 | Maintenance Crew | 295331 | [295331-maintenance-crew.json](./295331-maintenance-crew.json) |
+| Mainu | 344696 | [344696-mainu.json](./344696-mainu.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison Ikkoku | 41803 | [41803-maison-ikkoku.json](./41803-maison-ikkoku.json) |
 | Maison Ikkoku Final | 41802 | [41802-maison-ikkoku-final.json](./41802-maison-ikkoku-final.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody | 208848 | [208848-melody.json](./208848-melody.json) |
 | Melody | 275841 | [275841-melody.json](./275841-melody.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
+| Melody Ball | 344722 | [344722-melody-ball.json](./344722-melody-ball.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Duel | 176185 | [176185-melody-duel.json](./176185-melody-duel.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
@@ -6527,6 +6529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meng Jun Gan Si Dui | 319846 | [319846-meng-jun-gan-si-dui.json](./319846-meng-jun-gan-si-dui.json) |
 | Mèng Luò Fánchén | 148881 | [148881-meng-luo-fanchen.json](./148881-meng-luo-fanchen.json) |
 | Mènghuàn Shuǐguǒ Pán: 777 Casino | 86066 | [86066-menghuan-shuiguo-pan-777-casino.json](./86066-menghuan-shuiguo-pan-777-casino.json) |
+| Menhera & Troll | 344713 | [344713-menhera-and-troll.json](./344713-menhera-and-troll.json) |
 | Menhera Kanojo to Boku: Uwaki shitara Jinsei Shuuryou yo | 208936 | [208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json](./208936-menhera-kanojo-to-boku-uwaki-shitara-jinsei-shuuryou-yo.json) |
 | Menhera Ota-hime Circle: Needy Princess Nerd Club | 305286 | [305286-menhera-ota-hime-circle-needy-princess-nerd-club.json](./305286-menhera-ota-hime-circle-needy-princess-nerd-club.json) |
 | MenheRafflesia | 131584 | [131584-menherafflesia.json](./131584-menherafflesia.json) |
@@ -7518,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael's Dream Adventure | 378815 | [378815-michaels-dream-adventure.json](./378815-michaels-dream-adventure.json) |
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Michel Teló Around the World | 248621 | [248621-michel-telo-around-the-world.json](./248621-michel-telo-around-the-world.json) |
+| Michelangelo: Stonemason Simulator | 344717 | [344717-michelangelo-stonemason-simulator.json](./344717-michelangelo-stonemason-simulator.json) |
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
