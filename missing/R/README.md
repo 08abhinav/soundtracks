@@ -2624,6 +2624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
+| Recovery Phrase | 320580 | [320580-recovery-phrase.json](./320580-recovery-phrase.json) |
 | Recovery Syndicate | 235868 | [235868-recovery-syndicate.json](./235868-recovery-syndicate.json) |
 | Recovery Team | 301625 | [301625-recovery-team.json](./301625-recovery-team.json) |
 | Recovery: Search & Rescue | 53493 | [53493-recovery-search-and-rescue.json](./53493-recovery-search-and-rescue.json) |
@@ -5338,6 +5339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Coaster HD Remastered VR | 52259 | [52259-rift-coaster-hd-remastered-vr.json](./52259-rift-coaster-hd-remastered-vr.json) |
 | Rift Core | 184828 | [184828-rift-core.json](./184828-rift-core.json) |
+| Rift Drift | 320588 | [320588-rift-drift.json](./320588-rift-drift.json) |
 | Rift Drifter | 149986 | [149986-rift-drifter.json](./149986-rift-drifter.json) |
 | Rift Fishing | 380422 | [380422-rift-fishing.json](./380422-rift-fishing.json) |
 | Rift Frigate | 132007 | [132007-rift-frigate.json](./132007-rift-frigate.json) |
