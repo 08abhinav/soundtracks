@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phobia Exposure VR | 260619 | [260619-phobia-exposure-vr.json](./260619-phobia-exposure-vr.json) |
 | Phobia III: Edge of Humanity | 18483 | [18483-phobia-iii-edge-of-humanity.json](./18483-phobia-iii-edge-of-humanity.json) |
 | Phobic Nightmares | 344502 | [344502-phobic-nightmares.json](./344502-phobic-nightmares.json) |
+| PhobLack | 312997 | [312997-phoblack.json](./312997-phoblack.json) |
 | PhoboChromaPhobia | 287310 | [287310-phobochromaphobia.json](./287310-phobochromaphobia.json) |
 | Phobolis | 255854 | [255854-phobolis.json](./255854-phobolis.json) |
 | PhoboPhobia | 306479 | [306479-phobophobia.json](./306479-phobophobia.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playskool Puzzles | 209361 | [209361-playskool-puzzles.json](./209361-playskool-puzzles.json) |
 | PlayStation All-Stars Battle Royale: Big Daddy Plushy | 315076 | [315076-playstation-all-stars-battle-royale-big-daddy-plushy.json](./315076-playstation-all-stars-battle-royale-big-daddy-plushy.json) |
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
+| PlayStation All-Stars Battle Royale: Fearless | 312972 | [312972-playstation-all-stars-battle-royale-fearless.json](./312972-playstation-all-stars-battle-royale-fearless.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
@@ -11544,6 +11546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kizuna | 321764 | [321764-project-kizuna.json](./321764-project-kizuna.json) |
 | Project Kolo | 187817 | [187817-project-kolo.json](./187817-project-kolo.json) |
 | Project Kunai | 188474 | [188474-project-kunai.json](./188474-project-kunai.json) |
+| Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
