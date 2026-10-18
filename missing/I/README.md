@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Cream Express | 409856 | [409856-ice-cream-express.json](./409856-ice-cream-express.json) |
 | Ice Cream Factory | 86755 | [86755-ice-cream-factory.json](./86755-ice-cream-factory.json) |
 | Ice Cream Flap | 274426 | [274426-ice-cream-flap.json](./274426-ice-cream-flap.json) |
+| Ice Cream Float | 335738 | [335738-ice-cream-float.json](./335738-ice-cream-float.json) |
 | Ice Cream Jump | 274415 | [274415-ice-cream-jump.json](./274415-ice-cream-jump.json) |
 | Ice Cream Man | 409013 | [409013-ice-cream-man.json](./409013-ice-cream-man.json) |
 | Ice Cream Mania | 234064 | [234064-ice-cream-mania.json](./234064-ice-cream-mania.json) |
