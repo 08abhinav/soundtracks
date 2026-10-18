@@ -8246,10 +8246,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Birds: Baby Turkey Trouble | 227825 | [227825-free-birds-baby-turkey-trouble.json](./227825-free-birds-baby-turkey-trouble.json) |
 | Free Bowling 3D | 68507 | [68507-free-bowling-3d.json](./68507-free-bowling-3d.json) |
 | Free Chess | 297904 | [297904-free-chess.json](./297904-free-chess.json) |
+| Free Chess: Blocky Set | 354204 | [354204-free-chess-blocky-set.json](./354204-free-chess-blocky-set.json) |
 | Free Chess: Brutalist Set | 336482 | [336482-free-chess-brutalist-set.json](./336482-free-chess-brutalist-set.json) |
+| Free Chess: Bullets Set | 354207 | [354207-free-chess-bullets-set.json](./354207-free-chess-bullets-set.json) |
 | Free Chess: Cheese Set | 305534 | [305534-free-chess-cheese-set.json](./305534-free-chess-cheese-set.json) |
 | Free Chess: Lewis Set | 335500 | [335500-free-chess-lewis-set.json](./335500-free-chess-lewis-set.json) |
+| Free Chess: Nuts n Bolts Set | 354205 | [354205-free-chess-nuts-n-bolts-set.json](./354205-free-chess-nuts-n-bolts-set.json) |
 | Free Chess: Primitives Set | 310390 | [310390-free-chess-primitives-set.json](./310390-free-chess-primitives-set.json) |
+| Free Chess: Standard II Set | 354206 | [354206-free-chess-standard-ii-set.json](./354206-free-chess-standard-ii-set.json) |
 | Free Company VR | 119978 | [119978-free-company-vr.json](./119978-free-company-vr.json) |
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
@@ -9608,12 +9612,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
 | Funko Fusion: Happy Funkoween Pack | 373882 | [373882-funko-fusion-happy-funkoween-pack.json](./373882-funko-fusion-happy-funkoween-pack.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
+| Funko Fusion: Jurassic World Bonus Pack | 354238 | [354238-funko-fusion-jurassic-world-bonus-pack.json](./354238-funko-fusion-jurassic-world-bonus-pack.json) |
 | Funko Fusion: Jurassic World Rebirth DLC | 354021 | [354021-funko-fusion-jurassic-world-rebirth-dlc.json](./354021-funko-fusion-jurassic-world-rebirth-dlc.json) |
 | Funko Fusion: Jurassic World Rebirth Pack 1 - Zora Bennett and Spinosaurus | 354015 | [354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json](./354015-funko-fusion-jurassic-world-rebirth-pack-1-zora-bennett-and-spinosaurus.json) |
 | Funko Fusion: Jurassic World Rebirth Pack 2 - Dr Henry Loomis and Raptor | 354019 | [354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json](./354019-funko-fusion-jurassic-world-rebirth-pack-2-dr-henry-loomis-and-raptor.json) |
 | Funko Fusion: Kim Pine | 332470 | [332470-funko-fusion-kim-pine.json](./332470-funko-fusion-kim-pine.json) |
+| Funko Fusion: Manchester City Pack | 354227 | [354227-funko-fusion-manchester-city-pack.json](./354227-funko-fusion-manchester-city-pack.json) |
 | Funko Fusion: Mega Man Pack | 354012 | [354012-funko-fusion-mega-man-pack.json](./354012-funko-fusion-mega-man-pack.json) |
 | Funko Fusion: Mega Man Pack Bundle | 331547 | [331547-funko-fusion-mega-man-pack-bundle.json](./331547-funko-fusion-mega-man-pack-bundle.json) |
+| Funko Fusion: SpecialEffect's Streamer Bear | 354234 | [354234-funko-fusion-specialeffects-streamer-bear.json](./354234-funko-fusion-specialeffects-streamer-bear.json) |
 | Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
 | Funko Fusion: The Office Cameo Pack Bundle | 331546 | [331546-funko-fusion-the-office-cameo-pack-bundle.json](./331546-funko-fusion-the-office-cameo-pack-bundle.json) |
@@ -9621,6 +9628,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
 | Funko Fusion: Universal Monsters Pack | 353216 | [353216-funko-fusion-universal-monsters-pack.json](./353216-funko-fusion-universal-monsters-pack.json) |
 | Funko Fusion: Universal Monsters Pack Bundle | 332016 | [332016-funko-fusion-universal-monsters-pack-bundle.json](./332016-funko-fusion-universal-monsters-pack-bundle.json) |
+| Funko Fusion: WDC Pack | 354229 | [354229-funko-fusion-wdc-pack.json](./354229-funko-fusion-wdc-pack.json) |
+| Funko Fusion: Wicked Movie Pack 3 | 354230 | [354230-funko-fusion-wicked-movie-pack-3.json](./354230-funko-fusion-wicked-movie-pack-3.json) |
+| Funko Fusion: Wolfie Pack | 354241 | [354241-funko-fusion-wolfie-pack.json](./354241-funko-fusion-wolfie-pack.json) |
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
 | Funky Bee | 40131 | [40131-funky-bee.json](./40131-funky-bee.json) |
