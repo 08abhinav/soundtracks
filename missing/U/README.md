@@ -1620,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unholy Night: The Darkness Hunter | 26502 | [26502-unholy-night-the-darkness-hunter.json](./26502-unholy-night-the-darkness-hunter.json) |
 | Unholy Ossuary | 271789 | [271789-unholy-ossuary.json](./271789-unholy-ossuary.json) |
 | Unholy Realms | 140993 | [140993-unholy-realms.json](./140993-unholy-realms.json) |
+| Unholy Souls | 353642 | [353642-unholy-souls.json](./353642-unholy-souls.json) |
 | UnHolY ToRturEr | 127912 | [127912-unholy-torturer.json](./127912-unholy-torturer.json) |
 | Unholy Trinity | 368808 | [368808-unholy-trinity.json](./368808-unholy-trinity.json) |
 | Unhost | 400251 | [400251-unhost.json](./400251-unhost.json) |
