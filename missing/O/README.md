@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddsparks: An Automation Adventure - Deluxe Upgrade | 403587 | [403587-oddsparks-an-automation-adventure-deluxe-upgrade.json](./403587-oddsparks-an-automation-adventure-deluxe-upgrade.json) |
 | Oddventure | 137646 | [137646-oddventure.json](./137646-oddventure.json) |
 | Oddware | 188924 | [188924-oddware.json](./188924-oddware.json) |
+| Oddwings Escape | 345263 | [345263-oddwings-escape.json](./345263-oddwings-escape.json) |
 | Oddworld Adventures 2 | 49865 | [49865-oddworld-adventures-2.json](./49865-oddworld-adventures-2.json) |
 | Oddworld Collection | 145454 | [145454-oddworld-collection.json](./145454-oddworld-collection.json) |
 | Oddworld: Abe's Exoddus | 1000 | [1000-oddworld-abes-exoddus.json](./1000-oddworld-abes-exoddus.json) |
@@ -655,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office After Hours | 319730 | [319730-office-after-hours.json](./319730-office-after-hours.json) |
 | Office Anomaly | 413596 | [413596-office-anomaly.json](./413596-office-anomaly.json) |
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
+| Office Bot Simulator | 345256 | [345256-office-bot-simulator.json](./345256-office-bot-simulator.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
 | Office Crush Dating Simulator | 318718 | [318718-office-crush-dating-simulator.json](./318718-office-crush-dating-simulator.json) |
@@ -3188,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
+| Oshinui Tune | 345355 | [345355-oshinui-tune.json](./345355-oshinui-tune.json) |
 | Oshioki Kirai! 2 | 130769 | [130769-oshioki-kirai-2.json](./130769-oshioki-kirai-2.json) |
 | OshiRabu: Waifus Over Husbandos - Love or Die | 150239 | [150239-oshirabu-waifus-over-husbandos-love-or-die.json](./150239-oshirabu-waifus-over-husbandos-love-or-die.json) |
 | Oshiri Princess | 90936 | [90936-oshiri-princess.json](./90936-oshiri-princess.json) |
