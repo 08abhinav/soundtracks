@@ -1732,6 +1732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
 | Save The Castle! | 294062 | [294062-save-the-castle.json](./294062-save-the-castle.json) |
 | Save the City | 359440 | [359440-save-the-city.json](./359440-save-the-city.json) |
+| Save the Clock Tower | 311325 | [311325-save-the-clock-tower.json](./311325-save-the-clock-tower.json) |
 | Save the Creatures | 34194 | [34194-save-the-creatures.json](./34194-save-the-creatures.json) |
 | Save the Date | 159770 | [159770-save-the-date.json](./159770-save-the-date.json) |
 | Save the Date | 313845 | [313845-save-the-date.json](./313845-save-the-date.json) |
@@ -11621,6 +11622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
+| Sokoban World 2 | 311344 | [311344-sokoban-world-2.json](./311344-sokoban-world-2.json) |
 | Sokoban: Bunny Tales | 168220 | [168220-sokoban-bunny-tales.json](./168220-sokoban-bunny-tales.json) |
 | Sokoban: The RPG | 107767 | [107767-sokoban-the-rpg.json](./107767-sokoban-the-rpg.json) |
 | Sokobear: Autumn | 219591 | [219591-sokobear-autumn.json](./219591-sokobear-autumn.json) |
@@ -12197,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere | 324306 | [324306-somewhere.json](./324306-somewhere.json) |
 | Somewhere in a Clay Nowhere | 182371 | [182371-somewhere-in-a-clay-nowhere.json](./182371-somewhere-in-a-clay-nowhere.json) |
 | Somewhere in between | 235644 | [235644-somewhere-in-between.json](./235644-somewhere-in-between.json) |
+| Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
 | Somewhere inside | 125085 | [125085-somewhere-inside.json](./125085-somewhere-inside.json) |
