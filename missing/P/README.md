@@ -4656,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
+| Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
 | Pikelets | 183947 | [183947-pikelets.json](./183947-pikelets.json) |
@@ -8085,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Jade | 229095 | [229095-pokemon-jade.json](./229095-pokemon-jade.json) |
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
+| Pokemon Kanlara Ultimate | 349654 | [349654-pokemon-kanlara-ultimate.json](./349654-pokemon-kanlara-ultimate.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Keishou | 312313 | [312313-pokemon-keishou.json](./312313-pokemon-keishou.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
