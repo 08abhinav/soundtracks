@@ -7951,6 +7951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosa Musou | 214765 | [214765-rosa-musou.json](./214765-rosa-musou.json) |
 | Rosa's Quest | 402869 | [402869-rosas-quest.json](./402869-rosas-quest.json) |
 | Rosalie | 395534 | [395534-rosalie.json](./395534-rosalie.json) |
+| Rosaline | 343043 | [343043-rosaline.json](./343043-rosaline.json) |
 | Rosaluna: Moonlit Vengeance | 381182 | [381182-rosaluna-moonlit-vengeance.json](./381182-rosaluna-moonlit-vengeance.json) |
 | Rosario + Vampire | 331991 | [331991-rosario-vampire.json](./331991-rosario-vampire.json) |
 | Rosario + Vampire: Tanabata no Miss Yokai Gakuen | 58727 | [58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json](./58727-rosario-vampire-tanabata-no-miss-yokai-gakuen.json) |
