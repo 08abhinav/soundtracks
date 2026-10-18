@@ -7817,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Portable | 25913 | [25913-djmax-portable.json](./25913-djmax-portable.json) |
 | DJMax Portable 3 | 44491 | [44491-djmax-portable-3.json](./44491-djmax-portable-3.json) |
+| DJMax Portable Black Square | 345290 | [345290-djmax-portable-black-square.json](./345290-djmax-portable-black-square.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Ray | 64493 | [64493-djmax-ray.json](./64493-djmax-ray.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
