@@ -2710,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies | 43785 | [43785-teletubbies.json](./43785-teletubbies.json) |
 | Teletubbies Come to Play! | 313239 | [313239-teletubbies-come-to-play.json](./313239-teletubbies-come-to-play.json) |
 | Teletubbies get Fucked | 374153 | [374153-teletubbies-get-fucked.json](./374153-teletubbies-get-fucked.json) |
+| Teletubbies Mercy Killing | 321215 | [321215-teletubbies-mercy-killing.json](./321215-teletubbies-mercy-killing.json) |
 | Teletubbies: Jigsaw | 325257 | [325257-teletubbies-jigsaw.json](./325257-teletubbies-jigsaw.json) |
 | Teletubbies: Look! - Hide and Seek | 325259 | [325259-teletubbies-look-hide-and-seek.json](./325259-teletubbies-look-hide-and-seek.json) |
 | Teletubbies: My First App | 342650 | [342650-teletubbies-my-first-app.json](./342650-teletubbies-my-first-app.json) |
@@ -4929,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boondock Saints Video Game | 95391 | [95391-the-boondock-saints-video-game.json](./95391-the-boondock-saints-video-game.json) |
 | The Boons of IIUIR | 374690 | [374690-the-boons-of-iiuir.json](./374690-the-boons-of-iiuir.json) |
 | The Booty Creek Cheek Freak | 303318 | [303318-the-booty-creek-cheek-freak.json](./303318-the-booty-creek-cheek-freak.json) |
+| The Booze of Monkey Island | 321206 | [321206-the-booze-of-monkey-island.json](./321206-the-booze-of-monkey-island.json) |
 | The Borderless | 406117 | [406117-the-borderless.json](./406117-the-borderless.json) |
 | The Boss Baby: Get That Baby! | 256853 | [256853-the-boss-baby-get-that-baby.json](./256853-the-boss-baby-get-that-baby.json) |
 | The Boss Gangster: Criminal Empire - From the Streets | 400956 | [400956-the-boss-gangster-criminal-empire-from-the-streets.json](./400956-the-boss-gangster-criminal-empire-from-the-streets.json) |
@@ -6454,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Allegoria | 416565 | [416565-the-end-of-allegoria.json](./416565-the-end-of-allegoria.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
+| The End of an Obsession | 321224 | [321224-the-end-of-an-obsession.json](./321224-the-end-of-an-obsession.json) |
 | The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
 | The End of History | 310154 | [310154-the-end-of-history.json](./310154-the-end-of-history.json) |
@@ -11047,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
 | The Pulse of Evil | 252261 | [252261-the-pulse-of-evil.json](./252261-the-pulse-of-evil.json) |
+| The Punch Drunk Monk | 321234 | [321234-the-punch-drunk-monk.json](./321234-the-punch-drunk-monk.json) |
 | The Punchbag Machine | 406907 | [406907-the-punchbag-machine.json](./406907-the-punchbag-machine.json) |
 | The Punchuin | 229144 | [229144-the-punchuin.json](./229144-the-punchuin.json) |
 | The Punisher | 18294 | [18294-the-punisher.json](./18294-the-punisher.json) |
