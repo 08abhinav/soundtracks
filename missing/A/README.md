@@ -7881,7 +7881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antonball Deluxe Lite | 153463 | [153463-antonball-deluxe-lite.json](./153463-antonball-deluxe-lite.json) |
 | Antonball Deluxe: Better Than Nothing | 155519 | [155519-antonball-deluxe-better-than-nothing.json](./155519-antonball-deluxe-better-than-nothing.json) |
 | Antonball Deluxe: Fixed Gold Evil Baby Paul (Shiny) | 155546 | [155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json](./155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json) |
-| Antonblast | 201752 | [201752-antonblast.json](./201752-antonblast.json) |
 | Antonblast 64 | 375976 | [375976-antonblast-64.json](./375976-antonblast-64.json) |
 | AntonDisk | 326111 | [326111-antondisk.json](./326111-antondisk.json) |
 | Antons 10 Minutes in Cool Hell | 326117 | [326117-antons-10-minutes-in-cool-hell.json](./326117-antons-10-minutes-in-cool-hell.json) |
