@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
+| Masked Devourer | 329427 | [329427-masked-devourer.json](./329427-masked-devourer.json) |
 | Masked Forces | 30527 | [30527-masked-forces.json](./30527-masked-forces.json) |
 | Masked Forces 2: Mystic Demons | 55523 | [55523-masked-forces-2-mystic-demons.json](./55523-masked-forces-2-mystic-demons.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
@@ -9240,6 +9241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Magic Match | 393810 | [393810-mini-magic-match.json](./393810-mini-magic-match.json) |
 | Mini Map | 178016 | [178016-mini-map.json](./178016-mini-map.json) |
 | Mini Mario & Friends: Amiibo Challenge | 18195 | [18195-mini-mario-and-friends-amiibo-challenge.json](./18195-mini-mario-and-friends-amiibo-challenge.json) |
+| Mini Market Design | 329426 | [329426-mini-market-design.json](./329426-mini-market-design.json) |
 | Mini Mart Survivors | 413122 | [413122-mini-mart-survivors.json](./413122-mini-mart-survivors.json) |
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
@@ -13403,6 +13405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
+| Mr. Jong | 329415 | [329415-mr-jong.json](./329415-mr-jong.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Jumpington | 55652 | [55652-mr-jumpington.json](./55652-mr-jumpington.json) |
 | Mr. Jumpington 2 | 55651 | [55651-mr-jumpington-2.json](./55651-mr-jumpington-2.json) |
@@ -13489,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Saitou | 228357 | [228357-mr-saitou.json](./228357-mr-saitou.json) |
 | Mr. Scientist | 295159 | [295159-mr-scientist.json](./295159-mr-scientist.json) |
 | Mr. Semmel | 267838 | [267838-mr-semmel.json](./267838-mr-semmel.json) |
+| Mr. Sensei: Life as a Foreign Teacher in Japan | 329425 | [329425-mr-sensei-life-as-a-foreign-teacher-in-japan.json](./329425-mr-sensei-life-as-a-foreign-teacher-in-japan.json) |
 | Mr. Setam: Lady Killer | 61118 | [61118-mr-setam-lady-killer.json](./61118-mr-setam-lady-killer.json) |
 | Mr. Shadow | 30760 | [30760-mr-shadow.json](./30760-mr-shadow.json) |
 | Mr. Shifty | 19729 | [19729-mr-shifty.json](./19729-mr-shifty.json) |
@@ -14798,6 +14802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hero Academia: All's Justice - The Worldwide Star Card | 414450 | [414450-my-hero-academia-alls-justice-the-worldwide-star-card.json](./414450-my-hero-academia-alls-justice-the-worldwide-star-card.json) |
 | My Hero Academia: All's Justice - Ultimate Edition | 414451 | [414451-my-hero-academia-alls-justice-ultimate-edition.json](./414451-my-hero-academia-alls-justice-ultimate-edition.json) |
 | My Hero Academia: Battle for All | 76852 | [76852-my-hero-academia-battle-for-all.json](./76852-my-hero-academia-battle-for-all.json) |
+| My Hero Academia: Final Battle Challenge | 329341 | [329341-my-hero-academia-final-battle-challenge.json](./329341-my-hero-academia-final-battle-challenge.json) |
 | My Hero Academia: Heart of Heroes | 174672 | [174672-my-hero-academia-heart-of-heroes.json](./174672-my-hero-academia-heart-of-heroes.json) |
 | My Hero Academia: Smash Tap | 74300 | [74300-my-hero-academia-smash-tap.json](./74300-my-hero-academia-smash-tap.json) |
 | My Hero Academia: The Strongest Hero | 146301 | [146301-my-hero-academia-the-strongest-hero.json](./146301-my-hero-academia-the-strongest-hero.json) |
