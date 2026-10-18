@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Luigi: The Bowser Saga | 323819 | [323819-mario-and-luigi-the-bowser-saga.json](./323819-mario-and-luigi-the-bowser-saga.json) |
 | Mario and the Cowboys from Hell | 323609 | [323609-mario-and-the-cowboys-from-hell.json](./323609-mario-and-the-cowboys-from-hell.json) |
 | Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
+| Mario and the Mystical Worlds | 314124 | [314124-mario-and-the-mystical-worlds.json](./314124-mario-and-the-mystical-worlds.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
@@ -3034,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Modules | 388945 | [388945-marios-modules.json](./388945-marios-modules.json) |
 | Mario's Modules 2 | 409702 | [409702-marios-modules-2.json](./409702-marios-modules-2.json) |
 | Mario's Mystery Meat | 174730 | [174730-marios-mystery-meat.json](./174730-marios-mystery-meat.json) |
+| Mario's New Adventure | 314102 | [314102-marios-new-adventure.json](./314102-marios-new-adventure.json) |
 | Mario's New Earth | 195027 | [195027-marios-new-earth.json](./195027-marios-new-earth.json) |
 | Mario's Orange Lavaburst Adventure | 328659 | [328659-marios-orange-lavaburst-adventure.json](./328659-marios-orange-lavaburst-adventure.json) |
 | Mario's Peregrination: Kingdom Elementum Phantasia | 278632 | [278632-marios-peregrination-kingdom-elementum-phantasia.json](./278632-marios-peregrination-kingdom-elementum-phantasia.json) |
@@ -4914,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
 | Mechanized Attack | 40357 | [40357-mechanized-attack.json](./40357-mechanized-attack.json) |
+| Mechanized Super Mario Bros. U | 314103 | [314103-mechanized-super-mario-bros-u.json](./314103-mechanized-super-mario-bros-u.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
 | MechApocalypse: Proving Grounds | 184817 | [184817-mechapocalypse-proving-grounds.json](./184817-mechapocalypse-proving-grounds.json) |
@@ -10215,6 +10218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixed Guns | 216737 | [216737-mixed-guns.json](./216737-mixed-guns.json) |
 | Mixed Messages | 80175 | [80175-mixed-messages.json](./80175-mixed-messages.json) |
 | Mixed Spirits | 366957 | [366957-mixed-spirits.json](./366957-mixed-spirits.json) |
+| Mixed Super Mario Bros. U | 314111 | [314111-mixed-super-mario-bros-u.json](./314111-mixed-super-mario-bros-u.json) |
 | Mixed Unit Tactics | 252983 | [252983-mixed-unit-tactics.json](./252983-mixed-unit-tactics.json) |
 | Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
@@ -14778,6 +14782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
 | My First Date RPG: Elliot - Story One | 210921 | [210921-my-first-date-rpg-elliot-story-one.json](./210921-my-first-date-rpg-elliot-story-one.json) |
+| My First Date RPG: Elliot - Story Three | 314144 | [314144-my-first-date-rpg-elliot-story-three.json](./314144-my-first-date-rpg-elliot-story-three.json) |
 | My First Date RPG: Elliot - Story Two | 313903 | [313903-my-first-date-rpg-elliot-story-two.json](./313903-my-first-date-rpg-elliot-story-two.json) |
 | My First Date RPG: Oriana - Story One | 215100 | [215100-my-first-date-rpg-oriana-story-one.json](./215100-my-first-date-rpg-oriana-story-one.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
