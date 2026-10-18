@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radial Flow | 208663 | [208663-radial-flow.json](./208663-radial-flow.json) |
 | Radial Fusion | 357306 | [357306-radial-fusion.json](./357306-radial-fusion.json) |
 | Radial Impact | 34819 | [34819-radial-impact.json](./34819-radial-impact.json) |
+| Radial Overdrive | 351485 | [351485-radial-overdrive.json](./351485-radial-overdrive.json) |
 | Radial-G: Proteus | 130820 | [130820-radial-g-proteus.json](./130820-radial-g-proteus.json) |
 | Radiance | 120096 | [120096-radiance.json](./120096-radiance.json) |
 | RadiAngel | 225745 | [225745-radiangel.json](./225745-radiangel.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Truck Simulator 2022 | 219283 | [219283-real-truck-simulator-2022.json](./219283-real-truck-simulator-2022.json) |
 | Real Truck Simulator USA Car Games: Premium Millionaire Bundle | 328989 | [328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json](./328989-real-truck-simulator-usa-car-games-premium-millionaire-bundle.json) |
 | Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
+| Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
@@ -8158,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
 | Row Away | 365743 | [365743-row-away.json](./365743-row-away.json) |
+| Row Hard | 351383 | [351383-row-hard.json](./351383-row-hard.json) |
 | Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
 | Rowan Needs Shinies! | 420586 | [420586-rowan-needs-shinies.json](./420586-rowan-needs-shinies.json) |
 | Rowan's Battle of Britain | 73818 | [73818-rowans-battle-of-britain.json](./73818-rowans-battle-of-britain.json) |
