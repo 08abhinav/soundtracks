@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao the Kangaroo: VIP | 290411 | [290411-kao-the-kangaroo-vip.json](./290411-kao-the-kangaroo-vip.json) |
 | Kao the Kangaroo: Yooka x Kao | 226327 | [226327-kao-the-kangaroo-yooka-x-kao.json](./226327-kao-the-kangaroo-yooka-x-kao.json) |
 | Kaoamaru Kaiju | 222982 | [222982-kaoamaru-kaiju.json](./222982-kaoamaru-kaiju.json) |
+| Kaodi | 328336 | [328336-kaodi.json](./328336-kaodi.json) |
 | Kaon : Fragmented Core | 379582 | [379582-kaon-fragmented-core.json](./379582-kaon-fragmented-core.json) |
 | Kaori After Story | 112770 | [112770-kaori-after-story.json](./112770-kaori-after-story.json) |
 | Kaorin Fight | 305426 | [305426-kaorin-fight.json](./305426-kaorin-fight.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubikon 3D: Cyberpunk DLC | 372551 | [372551-kubikon-3d-cyberpunk-dlc.json](./372551-kubikon-3d-cyberpunk-dlc.json) |
 | Kubikon 3D: Pirates DLC | 372550 | [372550-kubikon-3d-pirates-dlc.json](./372550-kubikon-3d-pirates-dlc.json) |
 | Kubikon 3D: Warehouse DLC | 372552 | [372552-kubikon-3d-warehouse-dlc.json](./372552-kubikon-3d-warehouse-dlc.json) |
+| Kubitori Dolls: Retriever - Shimazu Kaidan 01 | 328312 | [328312-kubitori-dolls-retriever-shimazu-kaidan-01.json](./328312-kubitori-dolls-retriever-shimazu-kaidan-01.json) |
 | Kubits Gallery | 296690 | [296690-kubits-gallery.json](./296690-kubits-gallery.json) |
 | Kubix | 74996 | [74996-kubix.json](./74996-kubix.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
