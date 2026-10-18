@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizality | 30199 | [30199-quizality.json](./30199-quizality.json) |
 | Quizania | 62704 | [62704-quizania.json](./62704-quizania.json) |
+| QuizApp | 335643 | [335643-quizapp.json](./335643-quizapp.json) |
 | Quizarium | 232569 | [232569-quizarium.json](./232569-quizarium.json) |
 | Quizball Goal | 94167 | [94167-quizball-goal.json](./94167-quizball-goal.json) |
 | QuizCross | 58213 | [58213-quizcross.json](./58213-quizcross.json) |
