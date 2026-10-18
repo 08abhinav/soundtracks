@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Minute Marathon 2 | 314628 | [314628-60-minute-marathon-2.json](./314628-60-minute-marathon-2.json) |
 | 60 Parsecs! | 11710 | [11710-60-parsecs.json](./11710-60-parsecs.json) |
 | 60 Second Game Challenge | 262068 | [262068-60-second-game-challenge.json](./262068-60-second-game-challenge.json) |
+| 60 Second History | 332212 | [332212-60-second-history.json](./332212-60-second-history.json) |
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
