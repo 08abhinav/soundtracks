@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
 | Barbie Superpack: Secret Agent / Groovy Games | 60447 | [60447-barbie-superpack-secret-agent-groovy-games.json](./60447-barbie-superpack-secret-agent-groovy-games.json) |
+| Barbie Tennis | 347013 | [347013-barbie-tennis.json](./347013-barbie-tennis.json) |
 | Barbie: Dreamtopia - Magical Hair | 261704 | [261704-barbie-dreamtopia-magical-hair.json](./261704-barbie-dreamtopia-magical-hair.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
 | Barbie: Fairytopia | 273990 | [273990-barbie-fairytopia.json](./273990-barbie-fairytopia.json) |
@@ -2118,6 +2119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
 | Baseball | 305459 | [305459-baseball.json](./305459-baseball.json) |
 | Baseball | 324978 | [324978-baseball.json](./324978-baseball.json) |
+| Baseball | 347009 | [347009-baseball.json](./347009-baseball.json) |
 | Baseball | 358833 | [358833-baseball.json](./358833-baseball.json) |
 | Baseball | 7580 | [7580-baseball.json](./7580-baseball.json) |
 | Baseball | 7581 | [7581-baseball.json](./7581-baseball.json) |
@@ -5157,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon 2002 | 92911 | [92911-biathlon-2002.json](./92911-biathlon-2002.json) |
 | Biathlon 2003 | 56877 | [56877-biathlon-2003.json](./56877-biathlon-2003.json) |
 | Biathlon 2008 | 70651 | [70651-biathlon-2008.json](./70651-biathlon-2008.json) |
+| Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
@@ -5964,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
+| Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
 | Birbout! | 148910 | [148910-birbout.json](./148910-birbout.json) |
 | Birch Simulator | 271136 | [271136-birch-simulator.json](./271136-birch-simulator.json) |
@@ -7460,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Arena | 384098 | [384098-block-arena.json](./384098-block-arena.json) |
 | Block Attack: Rise of the Blocks | 176732 | [176732-block-attack-rise-of-the-blocks.json](./176732-block-attack-rise-of-the-blocks.json) |
 | Block Balls | 101431 | [101431-block-balls.json](./101431-block-balls.json) |
+| Block Basher 3D | 346913 | [346913-block-basher-3d.json](./346913-block-basher-3d.json) |
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
@@ -8521,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
+| Bo Bear | 347014 | [347014-bo-bear.json](./347014-bo-bear.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
