@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.S. Dal Segno: Limited Edition | 212327 | [212327-d-s-dal-segno-limited-edition.json](./212327-d-s-dal-segno-limited-edition.json) |
 | D.S.A. | 229634 | [229634-d-s-a.json](./229634-d-s-a.json) |
 | D.U.C.K.: Dangerous Ultimate Cartridge Kidnapper | 217487 | [217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json](./217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json) |
+| D.U.M.B. Ducks | 322425 | [322425-d-u-m-b-ducks.json](./322425-d-u-m-b-ducks.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D.W. The Picky Eater | 297896 | [297896-d-w-the-picky-eater.json](./297896-d-w-the-picky-eater.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fantasia | 390032 | [390032-dark-fantasia.json](./390032-dark-fantasia.json) |
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
 | Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
+| Dark Fantasy Saga | 322429 | [322429-dark-fantasy-saga.json](./322429-dark-fantasy-saga.json) |
 | Dark Fantasy: Epic Jigsaw Puzzle | 137441 | [137441-dark-fantasy-epic-jigsaw-puzzle.json](./137441-dark-fantasy-epic-jigsaw-puzzle.json) |
 | Dark Fantasy: Jigsaw Puzzle | 111774 | [111774-dark-fantasy-jigsaw-puzzle.json](./111774-dark-fantasy-jigsaw-puzzle.json) |
 | Dark Farm | 322995 | [322995-dark-farm.json](./322995-dark-farm.json) |
@@ -3384,7 +3386,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathly Survival | 74509 | [74509-deathly-survival.json](./74509-deathly-survival.json) |
 | DeathMatch | 117685 | [117685-deathmatch.json](./117685-deathmatch.json) |
 | Deathmatch Classic | 9073 | [9073-deathmatch-classic.json](./9073-deathmatch-classic.json) |
+| Deathmatch Classics Vol. 1 | 322453 | [322453-deathmatch-classics-vol-1.json](./322453-deathmatch-classics-vol-1.json) |
+| Deathmatch Classics Vol. 2 | 322454 | [322454-deathmatch-classics-vol-2.json](./322454-deathmatch-classics-vol-2.json) |
+| Deathmatch Classics Vol. 3 | 322455 | [322455-deathmatch-classics-vol-3.json](./322455-deathmatch-classics-vol-3.json) |
 | Deathmatch Club | 130740 | [130740-deathmatch-club.json](./130740-deathmatch-club.json) |
+| Deathmatch Remix | 322456 | [322456-deathmatch-remix.json](./322456-deathmatch-remix.json) |
 | Deathmatch Soccer | 74437 | [74437-deathmatch-soccer.json](./74437-deathmatch-soccer.json) |
 | Deathmatch Village | 42683 | [42683-deathmatch-village.json](./42683-deathmatch-village.json) |
 | DeathMetal | 30579 | [30579-deathmetal.json](./30579-deathmetal.json) |
@@ -10917,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Doom: A Skyhopper Tale | 253512 | [253512-dragons-doom-a-skyhopper-tale.json](./253512-dragons-doom-a-skyhopper-tale.json) |
 | Dragon's Dream | 268638 | [268638-dragons-dream.json](./268638-dragons-dream.json) |
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
+| Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
 | Dragon's Fury | 45586 | [45586-dragons-fury.json](./45586-dragons-fury.json) |
 | Dragon's Gold | 13609 | [13609-dragons-gold.json](./13609-dragons-gold.json) |
 | Dragon's Heaven | 216403 | [216403-dragons-heaven.json](./216403-dragons-heaven.json) |
@@ -11133,6 +11140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
+| Draw li | 322427 | [322427-draw-li.json](./322427-draw-li.json) |
 | Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw Near | 95600 | [95600-draw-near.json](./95600-draw-near.json) |
