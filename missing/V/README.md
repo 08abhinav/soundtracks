@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varkij: Dream and Nightmare | 264530 | [264530-varkij-dream-and-nightmare.json](./264530-varkij-dream-and-nightmare.json) |
 | Varkon | 95368 | [95368-varkon.json](./95368-varkon.json) |
 | Varlet | 341552 | [341552-varlet.json](./341552-varlet.json) |
+| Varlet: Digital DX Edition | 358664 | [358664-varlet-digital-dx-edition.json](./358664-varlet-digital-dx-edition.json) |
 | Varmintz | 9063 | [9063-varmintz.json](./9063-varmintz.json) |
 | Varney Lake | 210565 | [210565-varney-lake.json](./210565-varney-lake.json) |
 | Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
