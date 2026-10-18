@@ -1516,6 +1516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
+| Gash Rabbet | 354891 | [354891-gash-rabbet.json](./354891-gash-rabbet.json) |
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
