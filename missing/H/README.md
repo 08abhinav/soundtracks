@@ -8041,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fool a Liar King | 72344 | [72344-how-to-fool-a-liar-king.json](./72344-how-to-fool-a-liar-king.json) |
 | How to Fool a Liar King: Remastered | 188470 | [188470-how-to-fool-a-liar-king-remastered.json](./188470-how-to-fool-a-liar-king-remastered.json) |
 | How to Get a Japanese Girlfriend (And Save the World) | 292634 | [292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json](./292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json) |
+| How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Make a Floating City | 116114 | [116114-how-to-make-a-floating-city.json](./116114-how-to-make-a-floating-city.json) |
