@@ -3239,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflexia: The Archetype's Room of Three Walls | 239686 | [239686-reflexia-the-archetypes-room-of-three-walls.json](./239686-reflexia-the-archetypes-room-of-three-walls.json) |
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
+| Reforj | 317076 | [317076-reforj.json](./317076-reforj.json) |
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refract | 43162 | [43162-refract.json](./43162-refract.json) |
@@ -4263,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurrection of Soul Drain | 187902 | [187902-resurrection-of-soul-drain.json](./187902-resurrection-of-soul-drain.json) |
 | Resurrection: New Mexico - Collector's Edition | 125310 | [125310-resurrection-new-mexico-collectors-edition.json](./125310-resurrection-new-mexico-collectors-edition.json) |
 | Resurrection: Nuke Island | 291889 | [291889-resurrection-nuke-island.json](./291889-resurrection-nuke-island.json) |
+| Resurrection: Nuke island - Weapons Pack | 317093 | [317093-resurrection-nuke-island-weapons-pack.json](./317093-resurrection-nuke-island-weapons-pack.json) |
 | Resurrection: The Return of the Black Dragon | 63094 | [63094-resurrection-the-return-of-the-black-dragon.json](./63094-resurrection-the-return-of-the-black-dragon.json) |
 | Resurrector | 126624 | [126624-resurrector.json](./126624-resurrector.json) |
 | Resurviv.biz: Battle Royale | 373642 | [373642-resurviv-biz-battle-royale.json](./373642-resurviv-biz-battle-royale.json) |
@@ -9019,6 +9021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Worth: Kokui no Kikoushi | 243950 | [243950-rune-worth-kokui-no-kikoushi.json](./243950-rune-worth-kokui-no-kikoushi.json) |
 | Rune: Gold | 300409 | [300409-rune-gold.json](./300409-rune-gold.json) |
 | Runebook | 413777 | [413777-runebook.json](./413777-runebook.json) |
+| Runeborn | 317052 | [317052-runeborn.json](./317052-runeborn.json) |
 | Runebound | 390671 | [390671-runebound.json](./390671-runebound.json) |
 | Runebound Bastion | 368290 | [368290-runebound-bastion.json](./368290-runebound-bastion.json) |
 | RuneCipher | 402866 | [402866-runecipher.json](./402866-runecipher.json) |
@@ -9471,6 +9474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuko: Legend of Shadow Hunter | 174778 | [174778-ryuko-legend-of-shadow-hunter.json](./174778-ryuko-legend-of-shadow-hunter.json) |
 | Ryuu ga Gotoku Ishin! | 12736 | [12736-ryuu-ga-gotoku-ishin.json](./12736-ryuu-ga-gotoku-ishin.json) |
+| Ryuu ga Gotoku Ishin! Muryou App | 317101 | [317101-ryuu-ga-gotoku-ishin-muryou-app.json](./317101-ryuu-ga-gotoku-ishin-muryou-app.json) |
 | Ryuu ga Gotoku Kenzan! | 7442 | [7442-ryuu-ga-gotoku-kenzan.json](./7442-ryuu-ga-gotoku-kenzan.json) |
 | Ryuu ga Gotoku Kizuna | 305994 | [305994-ryuu-ga-gotoku-kizuna.json](./305994-ryuu-ga-gotoku-kizuna.json) |
 | Ryuu ga Gotoku Mobile for GREE | 305992 | [305992-ryuu-ga-gotoku-mobile-for-gree.json](./305992-ryuu-ga-gotoku-mobile-for-gree.json) |
