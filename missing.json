@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T22:18:31.558Z",
-  "total_missing": 230126,
+  "generated_at": "2026-10-18T22:33:29.593Z",
+  "total_missing": 230176,
   "games": [
     {
       "igdb_id": 191680,
@@ -54427,6 +54427,11 @@
       "file": "missing/A/161580-apprehend-girlfriend.json"
     },
     {
+      "igdb_id": 312449,
+      "game_name": "Apprehending the Adventuer Chan!: Live2D Tentacles Simulator",
+      "file": "missing/A/312449-apprehending-the-adventuer-chan-live2d-tentacles-simulator.json"
+    },
+    {
       "igdb_id": 308452,
       "game_name": "Apprehension Arizona",
       "file": "missing/A/308452-apprehension-arizona.json"
@@ -85420,6 +85425,11 @@
       "igdb_id": 271179,
       "game_name": "Banana Sbang",
       "file": "missing/B/271179-banana-sbang.json"
+    },
+    {
+      "igdb_id": 312450,
+      "game_name": "Banana Simulator",
+      "file": "missing/B/312450-banana-simulator.json"
     },
     {
       "igdb_id": 314875,
@@ -144097,6 +144107,11 @@
       "file": "missing/B/379043-butcher-of-the-north.json"
     },
     {
+      "igdb_id": 312451,
+      "game_name": "Butcher Simulator",
+      "file": "missing/B/312451-butcher-simulator.json"
+    },
+    {
       "igdb_id": 168216,
       "game_name": "Butcher Valley",
       "file": "missing/B/168216-butcher-valley.json"
@@ -155492,6 +155507,11 @@
       "file": "missing/C/263208-cartel-simulator.json"
     },
     {
+      "igdb_id": 312414,
+      "game_name": "Cartel Simulator",
+      "file": "missing/C/312414-cartel-simulator.json"
+    },
+    {
       "igdb_id": 114360,
       "game_name": "Cartel Smash",
       "file": "missing/C/114360-cartel-smash.json"
@@ -156320,6 +156340,11 @@
       "igdb_id": 70951,
       "game_name": "Casino Inc: The Management",
       "file": "missing/C/70951-casino-inc-the-management.json"
+    },
+    {
+      "igdb_id": 312452,
+      "game_name": "Casino Island Simulator",
+      "file": "missing/C/312452-casino-island-simulator.json"
     },
     {
       "igdb_id": 48102,
@@ -167800,6 +167825,11 @@
       "igdb_id": 412971,
       "game_name": "Cheese Bit",
       "file": "missing/C/412971-cheese-bit.json"
+    },
+    {
+      "igdb_id": 312453,
+      "game_name": "Cheese Co-op Clicker Simulator",
+      "file": "missing/C/312453-cheese-co-op-clicker-simulator.json"
     },
     {
       "igdb_id": 220555,
@@ -184095,6 +184125,11 @@
       "igdb_id": 46226,
       "game_name": "Coach K College Basketball",
       "file": "missing/C/46226-coach-k-college-basketball.json"
+    },
+    {
+      "igdb_id": 312448,
+      "game_name": "Coaching Simulator",
+      "file": "missing/C/312448-coaching-simulator.json"
     },
     {
       "igdb_id": 271482,
@@ -252337,6 +252372,11 @@
       "file": "missing/D/234194-diggersim.json"
     },
     {
+      "igdb_id": 312454,
+      "game_name": "DiggerSim: Excavator Simulator",
+      "file": "missing/D/312454-diggersim-excavator-simulator.json"
+    },
+    {
       "igdb_id": 395797,
       "game_name": "Diggin It",
       "file": "missing/D/395797-diggin-it.json"
@@ -297667,6 +297707,11 @@
       "file": "missing/E/233988-electronic-hand-held-monopoly.json"
     },
     {
+      "igdb_id": 312456,
+      "game_name": "Electronic Market Simulator",
+      "file": "missing/E/312456-electronic-market-simulator.json"
+    },
+    {
       "igdb_id": 344354,
       "game_name": "Electronic Shop Simulator",
       "file": "missing/E/344354-electronic-shop-simulator.json"
@@ -327522,6 +327567,11 @@
       "file": "missing/F/73997-fantasy-manager-the-computer-game.json"
     },
     {
+      "igdb_id": 312457,
+      "game_name": "Fantasy Map Simulator",
+      "file": "missing/F/312457-fantasy-map-simulator.json"
+    },
+    {
       "igdb_id": 105802,
       "game_name": "Fantasy Maze",
       "file": "missing/F/105802-fantasy-maze.json"
@@ -328025,6 +328075,11 @@
       "igdb_id": 132209,
       "game_name": "Fantasy World Online Tycoon",
       "file": "missing/F/132209-fantasy-world-online-tycoon.json"
+    },
+    {
+      "igdb_id": 312458,
+      "game_name": "Fantasy World Simulator",
+      "file": "missing/F/312458-fantasy-world-simulator.json"
     },
     {
       "igdb_id": 90069,
@@ -330080,6 +330135,11 @@
       "igdb_id": 419964,
       "game_name": "Farming Slimes",
       "file": "missing/F/419964-farming-slimes.json"
+    },
+    {
+      "igdb_id": 312459,
+      "game_name": "Farming Supermarket Simulator",
+      "file": "missing/F/312459-farming-supermarket-simulator.json"
     },
     {
       "igdb_id": 191201,
@@ -334622,6 +334682,11 @@
       "file": "missing/F/391725-ferry-good-day.json"
     },
     {
+      "igdb_id": 312460,
+      "game_name": "Fertiliel: Cupid Simulator",
+      "file": "missing/F/312460-fertiliel-cupid-simulator.json"
+    },
+    {
       "igdb_id": 338689,
       "game_name": "Ferulorum",
       "file": "missing/F/338689-ferulorum.json"
@@ -334990,6 +335055,11 @@
       "igdb_id": 309876,
       "game_name": "FFS, Another Northern Duke?!",
       "file": "missing/F/309876-ffs-another-northern-duke.json"
+    },
+    {
+      "igdb_id": 312436,
+      "game_name": "FFS: Football Freekick Simulator",
+      "file": "missing/F/312436-ffs-football-freekick-simulator.json"
     },
     {
       "igdb_id": 8776,
@@ -355502,6 +355572,11 @@
       "file": "missing/F/381033-forever-with-you.json"
     },
     {
+      "igdb_id": 312437,
+      "game_name": "Forever World Cup Simulator",
+      "file": "missing/F/312437-forever-world-cup-simulator.json"
+    },
+    {
       "igdb_id": 418561,
       "game_name": "Forever Yours",
       "file": "missing/F/418561-forever-yours.json"
@@ -359965,6 +360040,11 @@
       "igdb_id": 255248,
       "game_name": "FPV Logic",
       "file": "missing/F/255248-fpv-logic.json"
+    },
+    {
+      "igdb_id": 312438,
+      "game_name": "FPV Military Kamikaze Drone Simulator",
+      "file": "missing/F/312438-fpv-military-kamikaze-drone-simulator.json"
     },
     {
       "igdb_id": 192407,
@@ -394797,6 +394877,11 @@
       "file": "missing/G/337445-golden-tee-pga-tour.json"
     },
     {
+      "igdb_id": 312439,
+      "game_name": "Golden Ticket Simulator",
+      "file": "missing/G/312439-golden-ticket-simulator.json"
+    },
+    {
       "igdb_id": 88205,
       "game_name": "Golden Trails 2",
       "file": "missing/G/88205-golden-trails-2.json"
@@ -399640,6 +399725,11 @@
       "igdb_id": 200552,
       "game_name": "Grand Piano Keys",
       "file": "missing/G/200552-grand-piano-keys.json"
+    },
+    {
+      "igdb_id": 312440,
+      "game_name": "Grand Piano Simulator",
+      "file": "missing/G/312440-grand-piano-simulator.json"
     },
     {
       "igdb_id": 33346,
@@ -412615,6 +412705,11 @@
       "igdb_id": 397070,
       "game_name": "Gym Simulator 26",
       "file": "missing/G/397070-gym-simulator-26.json"
+    },
+    {
+      "igdb_id": 312441,
+      "game_name": "Gym Simulator Ultimate",
+      "file": "missing/G/312441-gym-simulator-ultimate.json"
     },
     {
       "igdb_id": 309954,
@@ -449722,6 +449817,11 @@
       "file": "missing/H/105275-horse-farm.json"
     },
     {
+      "igdb_id": 312442,
+      "game_name": "Horse Farm Simulator",
+      "file": "missing/H/312442-horse-farm-simulator.json"
+    },
+    {
       "igdb_id": 60929,
       "game_name": "Horse Illustrated Championship Season",
       "file": "missing/H/60929-horse-illustrated-championship-season.json"
@@ -464647,6 +464747,11 @@
       "file": "missing/I/234690-idle-game-1.json"
     },
     {
+      "igdb_id": 312443,
+      "game_name": "Idle Game Simulator",
+      "file": "missing/I/312443-idle-game-simulator.json"
+    },
+    {
       "igdb_id": 233628,
       "game_name": "Idle Game Tycoon",
       "file": "missing/I/233628-idle-game-tycoon.json"
@@ -468270,6 +468375,11 @@
       "igdb_id": 196671,
       "game_name": "Immortal Mantis",
       "file": "missing/I/196671-immortal-mantis.json"
+    },
+    {
+      "igdb_id": 312444,
+      "game_name": "Immortal Markets Stock Market Simulator Game",
+      "file": "missing/I/312444-immortal-markets-stock-market-simulator-game.json"
     },
     {
       "igdb_id": 106398,
@@ -563222,6 +563332,11 @@
       "file": "missing/M/220167-mafia-king.json"
     },
     {
+      "igdb_id": 312447,
+      "game_name": "Mafia Life Simulator",
+      "file": "missing/M/312447-mafia-life-simulator.json"
+    },
+    {
       "igdb_id": 78327,
       "game_name": "Mafia Live!",
       "file": "missing/M/78327-mafia-live.json"
@@ -625152,6 +625267,11 @@
       "file": "missing/M/149047-motorbike-racing-triple-pack.json"
     },
     {
+      "igdb_id": 312446,
+      "game_name": "Motorbike Simulator MX Driving",
+      "file": "missing/M/312446-motorbike-simulator-mx-driving.json"
+    },
+    {
       "igdb_id": 399822,
       "game_name": "Motorbikes Pro 2025: Discovery Edition",
       "file": "missing/M/399822-motorbikes-pro-2025-discovery-edition.json"
@@ -658225,6 +658345,11 @@
       "igdb_id": 117447,
       "game_name": "Nightwalk",
       "file": "missing/N/117447-nightwalk.json"
+    },
+    {
+      "igdb_id": 312445,
+      "game_name": "Nightwalk Simulator",
+      "file": "missing/N/312445-nightwalk-simulator.json"
     },
     {
       "igdb_id": 163946,
@@ -703012,6 +703137,11 @@
       "file": "missing/P/360647-pawn-os.json"
     },
     {
+      "igdb_id": 312463,
+      "game_name": "Pawnbroker Simulator",
+      "file": "missing/P/312463-pawnbroker-simulator.json"
+    },
+    {
       "igdb_id": 292073,
       "game_name": "Pawnchline",
       "file": "missing/P/292073-pawnchline.json"
@@ -713000,6 +713130,11 @@
       "igdb_id": 304613,
       "game_name": "Pickup Point Simulator",
       "file": "missing/P/304613-pickup-point-simulator.json"
+    },
+    {
+      "igdb_id": 312426,
+      "game_name": "Pickup Trash Simulator Remastered",
+      "file": "missing/P/312426-pickup-trash-simulator-remastered.json"
     },
     {
       "igdb_id": 102044,
@@ -740980,6 +741115,11 @@
       "igdb_id": 309064,
       "game_name": "PowerWash Simulator: Muckingham Files - Part 3",
       "file": "missing/P/309064-powerwash-simulator-muckingham-files-part-3.json"
+    },
+    {
+      "igdb_id": 312427,
+      "game_name": "PowerWash Simulator: Muckingham Files - Part 4",
+      "file": "missing/P/312427-powerwash-simulator-muckingham-files-part-4.json"
     },
     {
       "igdb_id": 340590,
@@ -777662,6 +777802,11 @@
       "file": "missing/R/298400-recycling-center-simulator.json"
     },
     {
+      "igdb_id": 312413,
+      "game_name": "Recycling Tycoon: Junk to Gems",
+      "file": "missing/R/312413-recycling-tycoon-junk-to-gems.json"
+    },
+    {
       "igdb_id": 194873,
       "game_name": "Red",
       "file": "missing/R/194873-red.json"
@@ -782935,6 +783080,11 @@
       "igdb_id": 157521,
       "game_name": "Renovation Products Collection 1",
       "file": "missing/R/157521-renovation-products-collection-1.json"
+    },
+    {
+      "igdb_id": 312415,
+      "game_name": "Renovation Simulator",
+      "file": "missing/R/312415-renovation-simulator.json"
     },
     {
       "igdb_id": 163882,
@@ -795155,6 +795305,11 @@
       "igdb_id": 86114,
       "game_name": "Road to Beta",
       "file": "missing/R/86114-road-to-beta.json"
+    },
+    {
+      "igdb_id": 312428,
+      "game_name": "Road to Champion: Boxing Simulator",
+      "file": "missing/R/312428-road-to-champion-boxing-simulator.json"
     },
     {
       "igdb_id": 225198,
@@ -811222,6 +811377,11 @@
       "file": "missing/R/23524-rusty-hearts.json"
     },
     {
+      "igdb_id": 312429,
+      "game_name": "Rusty Junkyard Simulator",
+      "file": "missing/R/312429-rusty-junkyard-simulator.json"
+    },
+    {
       "igdb_id": 95560,
       "game_name": "Rusty Orb",
       "file": "missing/R/95560-rusty-orb.json"
@@ -819862,6 +820022,11 @@
       "file": "missing/S/338836-sauna-mario-world-2.json"
     },
     {
+      "igdb_id": 312430,
+      "game_name": "Sauna Simulator",
+      "file": "missing/S/312430-sauna-simulator.json"
+    },
+    {
       "igdb_id": 348837,
       "game_name": "Saunageddon",
       "file": "missing/S/348837-saunageddon.json"
@@ -822047,6 +822212,11 @@
       "file": "missing/S/296762-scary-school.json"
     },
     {
+      "igdb_id": 312431,
+      "game_name": "Scary School Simulator 3",
+      "file": "missing/S/312431-scary-school-simulator-3.json"
+    },
+    {
       "igdb_id": 328228,
       "game_name": "Scary Shadow Spot: Bitter Glass",
       "file": "missing/S/328228-scary-shadow-spot-bitter-glass.json"
@@ -824110,6 +824280,11 @@
       "igdb_id": 316613,
       "game_name": "Scouter",
       "file": "missing/S/316613-scouter.json"
+    },
+    {
+      "igdb_id": 312432,
+      "game_name": "Scouting Simulator",
+      "file": "missing/S/312432-scouting-simulator.json"
     },
     {
       "igdb_id": 363312,
@@ -828312,6 +828487,11 @@
       "file": "missing/S/305854-secret-neighbor-welcome-pack.json"
     },
     {
+      "igdb_id": 312433,
+      "game_name": "Secret Number Simulator",
+      "file": "missing/S/312433-secret-number-simulator.json"
+    },
+    {
       "igdb_id": 291680,
       "game_name": "Secret Odyssey: Orb of Eternity",
       "file": "missing/S/291680-secret-odyssey-orb-of-eternity.json"
@@ -829140,6 +829320,11 @@
       "igdb_id": 371064,
       "game_name": "Security Guard Sex: Episode 6",
       "file": "missing/S/371064-security-guard-sex-episode-6.json"
+    },
+    {
+      "igdb_id": 312434,
+      "game_name": "Security Simulator: Nightshift",
+      "file": "missing/S/312434-security-simulator-nightshift.json"
     },
     {
       "igdb_id": 298319,
@@ -834115,6 +834300,11 @@
       "igdb_id": 42179,
       "game_name": "Sewermania",
       "file": "missing/S/42179-sewermania.json"
+    },
+    {
+      "igdb_id": 312435,
+      "game_name": "Sewing Machine Simulator",
+      "file": "missing/S/312435-sewing-machine-simulator.json"
     },
     {
       "igdb_id": 368092,
@@ -849042,6 +849232,11 @@
       "file": "missing/S/329155-signal.json"
     },
     {
+      "igdb_id": 312424,
+      "game_name": "Signal Control Simulator",
+      "file": "missing/S/312424-signal-control-simulator.json"
+    },
+    {
       "igdb_id": 339922,
       "game_name": "Signal Creek",
       "file": "missing/S/339922-signal-creek.json"
@@ -852425,6 +852620,16 @@
       "igdb_id": 265097,
       "game_name": "Simulator of Ukraine 1991",
       "file": "missing/S/265097-simulator-of-ukraine-1991.json"
+    },
+    {
+      "igdb_id": 312462,
+      "game_name": "Simulator of Ukraine 1991: Play for Israel",
+      "file": "missing/S/312462-simulator-of-ukraine-1991-play-for-israel.json"
+    },
+    {
+      "igdb_id": 312461,
+      "game_name": "Simulator of Ukraine 1991: The Great Sea",
+      "file": "missing/S/312461-simulator-of-ukraine-1991-the-great-sea.json"
     },
     {
       "igdb_id": 193852,
@@ -870570,6 +870775,11 @@
       "igdb_id": 73986,
       "game_name": "Solar Winds: Galaxy",
       "file": "missing/S/73986-solar-winds-galaxy.json"
+    },
+    {
+      "igdb_id": 312421,
+      "game_name": "Solar: Survival Space Battle Simulator",
+      "file": "missing/S/312421-solar-survival-space-battle-simulator.json"
     },
     {
       "igdb_id": 268653,
@@ -912962,6 +913172,11 @@
       "file": "missing/S/413064-streamerfun.json"
     },
     {
+      "igdb_id": 312422,
+      "game_name": "Streamers Cleaning Simulator",
+      "file": "missing/S/312422-streamers-cleaning-simulator.json"
+    },
+    {
       "igdb_id": 343454,
       "game_name": "Streamers Interactive Quiz Game",
       "file": "missing/S/343454-streamers-interactive-quiz-game.json"
@@ -934200,6 +934415,11 @@
       "igdb_id": 376231,
       "game_name": "Supermarket Simulator Store Game 3D",
       "file": "missing/S/376231-supermarket-simulator-store-game-3d.json"
+    },
+    {
+      "igdb_id": 312423,
+      "game_name": "Supermarket Simulator VR",
+      "file": "missing/S/312423-supermarket-simulator-vr.json"
     },
     {
       "igdb_id": 407490,
@@ -1046547,6 +1046767,11 @@
       "file": "missing/T/53837-train-sim-world-great-western-express.json"
     },
     {
+      "igdb_id": 312425,
+      "game_name": "Train Simulator",
+      "file": "missing/T/312425-train-simulator.json"
+    },
+    {
       "igdb_id": 327582,
       "game_name": "Train Simulator",
       "file": "missing/T/327582-train-simulator.json"
@@ -1054115,6 +1054340,11 @@
       "igdb_id": 152372,
       "game_name": "Tree Simulator 2022",
       "file": "missing/T/152372-tree-simulator-2022.json"
+    },
+    {
+      "igdb_id": 312419,
+      "game_name": "Tree Simulator 2024",
+      "file": "missing/T/312419-tree-simulator-2024.json"
     },
     {
       "igdb_id": 90670,
@@ -1074542,6 +1074772,11 @@
       "file": "missing/U/356442-university-of-problems.json"
     },
     {
+      "igdb_id": 312418,
+      "game_name": "University Tycoon: The College Management Simulator",
+      "file": "missing/U/312418-university-tycoon-the-college-management-simulator.json"
+    },
+    {
       "igdb_id": 339916,
       "game_name": "Univocity",
       "file": "missing/U/339916-univocity.json"
@@ -1084020,6 +1084255,11 @@
       "igdb_id": 216856,
       "game_name": "Vendetta: Mafia Wars",
       "file": "missing/V/216856-vendetta-mafia-wars.json"
+    },
+    {
+      "igdb_id": 312420,
+      "game_name": "Vending Machine Business Simulator",
+      "file": "missing/V/312420-vending-machine-business-simulator.json"
     },
     {
       "igdb_id": 347747,
@@ -1097815,6 +1098055,11 @@
       "igdb_id": 386955,
       "game_name": "War Drone",
       "file": "missing/W/386955-war-drone.json"
+    },
+    {
+      "igdb_id": 312417,
+      "game_name": "War Drone FPV Quad Simulator",
+      "file": "missing/W/312417-war-drone-fpv-quad-simulator.json"
     },
     {
       "igdb_id": 74617,
@@ -1133700,6 +1133945,11 @@
       "igdb_id": 300828,
       "game_name": "Yacht Haven Tycoon: Marina Port Parking Simulator",
       "file": "missing/Y/300828-yacht-haven-tycoon-marina-port-parking-simulator.json"
+    },
+    {
+      "igdb_id": 312416,
+      "game_name": "Yacht Life Simulator",
+      "file": "missing/Y/312416-yacht-life-simulator.json"
     },
     {
       "igdb_id": 133364,
