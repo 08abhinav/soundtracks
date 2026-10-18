@@ -13770,6 +13770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murders on Budapest | 174285 | [174285-murders-on-budapest.json](./174285-murders-on-budapest.json) |
 | Murderwave: Digital Slaughter | 121011 | [121011-murderwave-digital-slaughter.json](./121011-murderwave-digital-slaughter.json) |
 | Murdle | 194471 | [194471-murdle.json](./194471-murdle.json) |
+| Murdoc's Operation Rejuvination | 354761 | [354761-murdocs-operation-rejuvination.json](./354761-murdocs-operation-rejuvination.json) |
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
