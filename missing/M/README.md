@@ -928,6 +928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
+| Magic Puzzle | 328296 | [328296-magic-puzzle.json](./328296-magic-puzzle.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
 | Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
@@ -2012,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
 | Mamono Hunter Youko: Makai Kara no Tenkousei | 292862 | [292862-mamono-hunter-youko-makai-kara-no-tenkousei.json](./292862-mamono-hunter-youko-makai-kara-no-tenkousei.json) |
 | Mamono Hunter Youko: Tooki Yobigoe | 292863 | [292863-mamono-hunter-youko-tooki-yobigoe.json](./292863-mamono-hunter-youko-tooki-yobigoe.json) |
+| Mamono Mower | 328333 | [328333-mamono-mower.json](./328333-mamono-mower.json) |
 | Mamono Musume no Sodatekata: Lamia & Harpy | 77870 | [77870-mamono-musume-no-sodatekata-lamia-and-harpy.json](./77870-mamono-musume-no-sodatekata-lamia-and-harpy.json) |
 | Mamono Musume no Yakata Suiseikan Igyouroku: Ningyo no Sho | 77618 | [77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json](./77618-mamono-musume-no-yakata-suiseikan-igyouroku-ningyo-no-sho.json) |
 | Mamono Musume to no Seikatsu: Alraune no Baai | 77603 | [77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json](./77603-mamono-musume-to-no-seikatsu-alraune-no-baai.json) |
