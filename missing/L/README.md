@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
+| Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Rites | 184810 | [184810-last-rites.json](./184810-last-rites.json) |
 | Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
+| Last Rites 1347 | 323574 | [323574-last-rites-1347.json](./323574-last-rites-1347.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
@@ -6863,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion: Sweet Home | 308372 | [308372-luigis-mansion-sweet-home.json](./308372-luigis-mansion-sweet-home.json) |
 | Luigi's Misadventures 5: Rougenia Merald's Challenge | 276789 | [276789-luigis-misadventures-5-rougenia-meralds-challenge.json](./276789-luigis-misadventures-5-rougenia-meralds-challenge.json) |
 | Luigi's Other Mansion | 259838 | [259838-luigis-other-mansion.json](./259838-luigis-other-mansion.json) |
+| Luigi's Quest: Trouble in Sarasaland | 323612 | [323612-luigis-quest-trouble-in-sarasaland.json](./323612-luigis-quest-trouble-in-sarasaland.json) |
 | Luigi's Requiem | 319091 | [319091-luigis-requiem.json](./319091-luigis-requiem.json) |
 | Luigi's Spookful Quest | 313427 | [313427-luigis-spookful-quest.json](./313427-luigis-spookful-quest.json) |
 | Luippy | 230957 | [230957-luippy.json](./230957-luippy.json) |
