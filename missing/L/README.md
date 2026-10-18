@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Spaces: Outside The Backrooms | 341524 | [341524-liminal-spaces-outside-the-backrooms.json](./341524-liminal-spaces-outside-the-backrooms.json) |
 | Liminal Trial | 344724 | [344724-liminal-trial.json](./344724-liminal-trial.json) |
 | Liminal Underground: Creatures Beyond | 411125 | [411125-liminal-underground-creatures-beyond.json](./411125-liminal-underground-creatures-beyond.json) |
+| Liminal Universe | 324176 | [324176-liminal-universe.json](./324176-liminal-universe.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
 | Liminalia | 215646 | [215646-liminalia.json](./215646-liminalia.json) |
@@ -4467,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Squire's Quests | 146778 | [146778-little-squires-quests.json](./146778-little-squires-quests.json) |
 | Little Squirrel Cabin | 377926 | [377926-little-squirrel-cabin.json](./377926-little-squirrel-cabin.json) |
 | Little Strategy | 65384 | [65384-little-strategy.json](./65384-little-strategy.json) |
+| Little Strays | 324140 | [324140-little-strays.json](./324140-little-strays.json) |
 | Little Strays 2 | 389064 | [389064-little-strays-2.json](./389064-little-strays-2.json) |
 | Little Survivors | 273469 | [273469-little-survivors.json](./273469-little-survivors.json) |
 | Little Tail Story | 144320 | [144320-little-tail-story.json](./144320-little-tail-story.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
+| Logiart Grimoire: Emil's Magic Training, Part 1 | 324166 | [324166-logiart-grimoire-emils-magic-training-part-1.json](./324166-logiart-grimoire-emils-magic-training-part-1.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
 | Logic | 264784 | [264784-logic.json](./264784-logic.json) |
@@ -6178,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Sex: First Base | 383555 | [383555-love-and-sex-first-base.json](./383555-love-and-sex-first-base.json) |
 | Love and War: Act I | 122860 | [122860-love-and-war-act-i.json](./122860-love-and-war-act-i.json) |
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
+| Love Anime Boys Club: Language and Date Zodiac Signs | 324196 | [324196-love-anime-boys-club-language-and-date-zodiac-signs.json](./324196-love-anime-boys-club-language-and-date-zodiac-signs.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
 | Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
