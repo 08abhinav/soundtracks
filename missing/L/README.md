@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
+| L'Odyssée Sibérienne: Le Rêve Utile de Nicolas Vanier | 321859 | [321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json](./321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
 | L2 Love x Loop | 219132 | [219132-l2-love-x-loop.json](./219132-l2-love-x-loop.json) |
@@ -475,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancaster | 292836 | [292836-lancaster.json](./292836-lancaster.json) |
 | Lancelot | 12169 | [12169-lancelot.json](./12169-lancelot.json) |
 | Lancelot's Hangover : The Quest for the Holy Booze | 107775 | [107775-lancelots-hangover-the-quest-for-the-holy-booze.json](./107775-lancelots-hangover-the-quest-for-the-holy-booze.json) |
+| Lancen Adventure | 321814 | [321814-lancen-adventure.json](./321814-lancen-adventure.json) |
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
@@ -515,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
 | Land of the Vikings | 211376 | [211376-land-of-the-vikings.json](./211376-land-of-the-vikings.json) |
 | Land of the Vikings: Dage Island | 316374 | [316374-land-of-the-vikings-dage-island.json](./316374-land-of-the-vikings-dage-island.json) |
+| Land of the Vikings: Thralls | 321832 | [321832-land-of-the-vikings-thralls.json](./321832-land-of-the-vikings-thralls.json) |
 | Land of Towers | 225585 | [225585-land-of-towers.json](./225585-land-of-towers.json) |
 | Land of Viewers | 204095 | [204095-land-of-viewers.json](./204095-land-of-viewers.json) |
 | Land of War: The Beginning | 122376 | [122376-land-of-war-the-beginning.json](./122376-land-of-war-the-beginning.json) |
@@ -1919,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Knucker-Hole | 62452 | [62452-legend-of-the-knucker-hole.json](./62452-legend-of-the-knucker-hole.json) |
 | Legend of the Lost Dragons | 134580 | [134580-legend-of-the-lost-dragons.json](./134580-legend-of-the-lost-dragons.json) |
 | Legend of the Ma On | 252662 | [252662-legend-of-the-ma-on.json](./252662-legend-of-the-ma-on.json) |
+| Legend of the Mana Sword | 321864 | [321864-legend-of-the-mana-sword.json](./321864-legend-of-the-mana-sword.json) |
 | Legend of the Master Baiter | 303625 | [303625-legend-of-the-master-baiter.json](./303625-legend-of-the-master-baiter.json) |
 | Legend of the Master Baiter Origins: Gills Gone Wild | 395826 | [395826-legend-of-the-master-baiter-origins-gills-gone-wild.json](./395826-legend-of-the-master-baiter-origins-gills-gone-wild.json) |
 | Legend of the Moon | 207830 | [207830-legend-of-the-moon.json](./207830-legend-of-the-moon.json) |
@@ -5310,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking for Waifu | 363322 | [363322-looking-for-waifu.json](./363322-looking-for-waifu.json) |
 | Looking Glass | 132550 | [132550-looking-glass.json](./132550-looking-glass.json) |
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
+| Looking Glass | 321831 | [321831-looking-glass.json](./321831-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
 | Looking Up I See Only a Ceiling | 224733 | [224733-looking-up-i-see-only-a-ceiling.json](./224733-looking-up-i-see-only-a-ceiling.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
