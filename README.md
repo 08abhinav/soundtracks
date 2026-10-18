@@ -777,6 +777,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://i.scdn.co/image/ab67616d0000b273a4fe8d7d8d97881894d39ea2" width="60" /> | [Ibb & Obb](https://ostdb.net/games/ibb-and-obb) | **Ibb & Obb (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273e6dccd9a83fb09e8ec66fd82" width="60" /> | [Icarus](https://ostdb.net/games/icarus) | **Icarus (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/3imy5KGZRqOYCPzJUjqlyp) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730b5ed306b8a6ae152809d161" width="60" /> | [Ico](https://ostdb.net/games/ico) | **ICO -霧の中の旋律- (2021 Remaster)** · [Spotify](https://open.spotify.com/album/4m6LzuC4f5K6vifk2Rpje1)<br>**ICO～霧の中の旋律～** · [Spotify](https://open.spotify.com/album/0aF1ChvyWiOIDwWhg4Qljh) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273d19e473955bac0d64ac1a87d" width="60" /> | [If Found...](https://ostdb.net/games/if-found) | **If Found (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/03Z1llAQxqTVmhCfq2lFzz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27301386fba8d6186e82c9f87d5" width="60" /> | [Immortal Redneck](https://ostdb.net/games/immortal-redneck) | **Immortal Redneck (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6q4zjAxiHxrlo8MlZcqXgI) |
@@ -1862,4 +1863,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2179 soundtracks · last updated 2026-10-18T08:50:33.103Z_
+_2180 soundtracks · last updated 2026-10-18T08:50:40.023Z_
