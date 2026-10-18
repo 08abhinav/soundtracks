@@ -5091,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
 | All Valentine Pairs Memory Game | 180101 | [180101-all-valentine-pairs-memory-game.json](./180101-all-valentine-pairs-memory-game.json) |
 | All We Need | 263212 | [263212-all-we-need.json](./263212-all-we-need.json) |
+| All Who Wander | 358726 | [358726-all-who-wander.json](./358726-all-who-wander.json) |
 | All Will Fall | 328273 | [328273-all-will-fall.json](./328273-all-will-fall.json) |
 | All will Rise | 347823 | [347823-all-will-rise.json](./347823-all-will-rise.json) |
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
@@ -5991,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
 | American Truck Simulator: Kansas | 233986 | [233986-american-truck-simulator-kansas.json](./233986-american-truck-simulator-kansas.json) |
 | American Truck Simulator: Kenworth T680 2022 | 283910 | [283910-american-truck-simulator-kenworth-t680-2022.json](./283910-american-truck-simulator-kenworth-t680-2022.json) |
+| American Truck Simulator: KRONE Agriculture Equipment | 358729 | [358729-american-truck-simulator-krone-agriculture-equipment.json](./358729-american-truck-simulator-krone-agriculture-equipment.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
@@ -8618,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Exvania | 295681 | [295681-arcade-archives-exvania.json](./295681-arcade-archives-exvania.json) |
 | Arcade Archives: Face Off | 320909 | [320909-arcade-archives-face-off.json](./320909-arcade-archives-face-off.json) |
 | Arcade Archives: Fantastic Night Dreams Cotton | 323842 | [323842-arcade-archives-fantastic-night-dreams-cotton.json](./323842-arcade-archives-fantastic-night-dreams-cotton.json) |
+| Arcade Archives: Field Day | 358661 | [358661-arcade-archives-field-day.json](./358661-arcade-archives-field-day.json) |
 | Arcade Archives: Fighter & Attacker | 304280 | [304280-arcade-archives-fighter-and-attacker.json](./304280-arcade-archives-fighter-and-attacker.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Final Blow | 322833 | [322833-arcade-archives-final-blow.json](./322833-arcade-archives-final-blow.json) |
