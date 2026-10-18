@@ -23492,7 +23492,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Loop | 406952 | [406952-turbo-loop.json](./406952-turbo-loop.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
-| Turbo Overkill | 172024 | [172024-turbo-overkill.json](./172024-turbo-overkill.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
 | Turbo Pug | 34074 | [34074-turbo-pug.json](./34074-turbo-pug.json) |
