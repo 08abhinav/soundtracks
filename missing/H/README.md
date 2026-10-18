@@ -107,6 +107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Soldiers Armor | 334521 | [334521-hack-and-slash-fury-soldiers-armor.json](./334521-hack-and-slash-fury-soldiers-armor.json) |
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
+| Hack And Slash Fury: Warrior Armor | 334524 | [334524-hack-and-slash-fury-warrior-armor.json](./334524-hack-and-slash-fury-warrior-armor.json) |
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
 | Hack FPS | 151715 | [151715-hack-fps.json](./151715-hack-fps.json) |
 | Hack FPS: Anniversary Edition | 205015 | [205015-hack-fps-anniversary-edition.json](./205015-hack-fps-anniversary-edition.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
+| Hand of Fate: Hordes | 334544 | [334544-hand-of-fate-hordes.json](./334544-hand-of-fate-hordes.json) |
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
@@ -2849,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helios Battle Universe | 157180 | [157180-helios-battle-universe.json](./157180-helios-battle-universe.json) |
 | Helios Equinox | 361642 | [361642-helios-equinox.json](./361642-helios-equinox.json) |
 | Helios Horizon | 290496 | [290496-helios-horizon.json](./290496-helios-horizon.json) |
+| Helios Hotel: The Night Shift | 334542 | [334542-helios-hotel-the-night-shift.json](./334542-helios-hotel-the-night-shift.json) |
 | Heliotropism | 153848 | [153848-heliotropism.json](./153848-heliotropism.json) |
 | Helipopper | 317433 | [317433-helipopper.json](./317433-helipopper.json) |
 | HeliSquad: Covert Operations | 204338 | [204338-helisquad-covert-operations.json](./204338-helisquad-covert-operations.json) |
