@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Frontier | 348573 | [348573-idle-frontier.json](./348573-idle-frontier.json) |
 | Idle Galaxy | 203805 | [203805-idle-galaxy.json](./203805-idle-galaxy.json) |
 | Idle Game 1 | 234690 | [234690-idle-game-1.json](./234690-idle-game-1.json) |
+| Idle Game Simulator | 312443 | [312443-idle-game-simulator.json](./312443-idle-game-simulator.json) |
 | Idle Game Tycoon | 233628 | [233628-idle-game-tycoon.json](./233628-idle-game-tycoon.json) |
 | Idle Game x100 | 387597 | [387597-idle-game-x100.json](./387597-idle-game-x100.json) |
 | Idle Gangsters | 109565 | [109565-idle-gangsters.json](./109565-idle-gangsters.json) |
@@ -1809,6 +1810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Lovers | 199993 | [199993-immortal-lovers.json](./199993-immortal-lovers.json) |
 | Immortal Magus | 344360 | [344360-immortal-magus.json](./344360-immortal-magus.json) |
 | Immortal Mantis | 196671 | [196671-immortal-mantis.json](./196671-immortal-mantis.json) |
+| Immortal Markets Stock Market Simulator Game | 312444 | [312444-immortal-markets-stock-market-simulator-game.json](./312444-immortal-markets-stock-market-simulator-game.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
 | Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
