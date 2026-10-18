@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vico | 193768 | [193768-vico.json](./193768-vico.json) |
 | Vico 3: Tale of the Seven Seas | 243790 | [243790-vico-3-tale-of-the-seven-seas.json](./243790-vico-3-tale-of-the-seven-seas.json) |
 | ViColumn | 78316 | [78316-vicolumn.json](./78316-vicolumn.json) |
+| ViCrew | 331165 | [331165-vicrew.json](./331165-vicrew.json) |
 | Victim 10 PM | 358336 | [358336-victim-10-pm.json](./358336-victim-10-pm.json) |
 | Victim Cache: The RPG | 54973 | [54973-victim-cache-the-rpg.json](./54973-victim-cache-the-rpg.json) |
 | Victim Doll | 239195 | [239195-victim-doll.json](./239195-victim-doll.json) |
