@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Shop Snacks: Expansion Pack 2 | 237982 | [237982-pet-shop-snacks-expansion-pack-2.json](./237982-pet-shop-snacks-expansion-pack-2.json) |
 | Pet Shop Snacks: Extended Edition | 222233 | [222233-pet-shop-snacks-extended-edition.json](./222233-pet-shop-snacks-extended-edition.json) |
 | Pet Show Craze | 177041 | [177041-pet-show-craze.json](./177041-pet-show-craze.json) |
+| Pet Show: Complete Edition | 357018 | [357018-pet-show-complete-edition.json](./357018-pet-show-complete-edition.json) |
 | Pet Show: Wild Edition | 362216 | [362216-pet-show-wild-edition.json](./362216-pet-show-wild-edition.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
@@ -3532,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pete's Peril | 215697 | [215697-petes-peril.json](./215697-petes-peril.json) |
 | Pete's World | 375575 | [375575-petes-world.json](./375575-petes-world.json) |
 | Peter Beardsley's International Football | 15339 | [15339-peter-beardsleys-international-football.json](./15339-peter-beardsleys-international-football.json) |
+| Peter Flat's Inflatable Adventures | 356997 | [356997-peter-flats-inflatable-adventures.json](./356997-peter-flats-inflatable-adventures.json) |
 | Peter Frankl: Puzzle no Tou | 254499 | [254499-peter-frankl-puzzle-no-tou.json](./254499-peter-frankl-puzzle-no-tou.json) |
 | Peter Griffin Bike | 343930 | [343930-peter-griffin-bike.json](./343930-peter-griffin-bike.json) |
 | Peter Jackson's King Kong: The Official Game of the Movie | 248541 | [248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json](./248541-peter-jacksons-king-kong-the-official-game-of-the-movie.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
 | Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
+| Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
@@ -6191,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
 | Pixel Whirled | 66640 | [66640-pixel-whirled.json](./66640-pixel-whirled.json) |
+| Pixel Wizard | 356996 | [356996-pixel-wizard.json](./356996-pixel-wizard.json) |
 | Pixel World | 388147 | [388147-pixel-world.json](./388147-pixel-world.json) |
 | Pixel Xiuzhen | 106508 | [106508-pixel-xiuzhen.json](./106508-pixel-xiuzhen.json) |
 | Pixel Z - Gun Day | 33690 | [33690-pixel-z-gun-day.json](./33690-pixel-z-gun-day.json) |
