@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of the Ancients | 273543 | [273543-temple-of-the-ancients.json](./273543-temple-of-the-ancients.json) |
 | Temple of the Apsara | 31835 | [31835-temple-of-the-apsara.json](./31835-temple-of-the-apsara.json) |
 | Temple of the Faceless Minotaur Who Sees the Burning Light | 128616 | [128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json](./128616-temple-of-the-faceless-minotaur-who-sees-the-burning-light.json) |
+| Temple of the Gods | 334003 | [334003-temple-of-the-gods.json](./334003-temple-of-the-gods.json) |
 | Temple of the Lizardmen | 142486 | [142486-temple-of-the-lizardmen.json](./142486-temple-of-the-lizardmen.json) |
 | Temple of the Lizardmen 2 | 142487 | [142487-temple-of-the-lizardmen-2.json](./142487-temple-of-the-lizardmen-2.json) |
 | Temple of the Lost | 107410 | [107410-temple-of-the-lost.json](./107410-temple-of-the-lost.json) |
@@ -4544,6 +4545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | The Bastonnes | 204102 | [204102-the-bastonnes.json](./204102-the-bastonnes.json) |
+| The Bat | 333986 | [333986-the-bat.json](./333986-the-bat.json) |
 | The Batchelor | 301406 | [301406-the-batchelor.json](./301406-the-batchelor.json) |
 | The Bathhouse | 200475 | [200475-the-bathhouse.json](./200475-the-bathhouse.json) |
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
@@ -12721,6 +12723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
 | The Test: Final Revelation | 149355 | [149355-the-test-final-revelation.json](./149355-the-test-final-revelation.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
+| The Test: Reality Check | 334018 | [334018-the-test-reality-check.json](./334018-the-test-reality-check.json) |
 | The Test: Reimagined | 389115 | [389115-the-test-reimagined.json](./389115-the-test-reimagined.json) |
 | The Testament of Sherlock Holmes | 6164 | [6164-the-testament-of-sherlock-holmes.json](./6164-the-testament-of-sherlock-holmes.json) |
 | The Testimony of Trixie Glimmer Smith | 123633 | [123633-the-testimony-of-trixie-glimmer-smith.json](./123633-the-testimony-of-trixie-glimmer-smith.json) |
@@ -23895,6 +23898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
 | Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
 | TwinWorld: Land of Vision | 72099 | [72099-twinworld-land-of-vision.json](./72099-twinworld-land-of-vision.json) |
+| Twirl | 333984 | [333984-twirl.json](./333984-twirl.json) |
 | Twirl and Hurl | 397109 | [397109-twirl-and-hurl.json](./397109-twirl-and-hurl.json) |
 | Twirly Treats | 405721 | [405721-twirly-treats.json](./405721-twirly-treats.json) |
 | Twist & Switch Bundle | 147767 | [147767-twist-and-switch-bundle.json](./147767-twist-and-switch-bundle.json) |
