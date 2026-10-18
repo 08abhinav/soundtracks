@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Assistant | 359351 | [359351-office-assistant.json](./359351-office-assistant.json) |
 | Office Bot Simulator | 345256 | [345256-office-bot-simulator.json](./345256-office-bot-simulator.json) |
 | Office Cat | 300398 | [300398-office-cat.json](./300398-office-cat.json) |
+| Office Chair Curling | 321220 | [321220-office-chair-curling.json](./321220-office-chair-curling.json) |
 | Office Chimp | 249283 | [249283-office-chimp.json](./249283-office-chimp.json) |
 | Office Crush Dating Simulator | 318718 | [318718-office-crush-dating-simulator.json](./318718-office-crush-dating-simulator.json) |
 | Office Elevator | 195159 | [195159-office-elevator.json](./195159-office-elevator.json) |
