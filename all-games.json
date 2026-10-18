@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T09:20:34.248Z",
-  "total_soundtracks": 2186,
+  "generated_at": "2026-10-18T09:20:41.949Z",
+  "total_soundtracks": 2187,
   "games": [
     {
       "igdb_id": 7522,
@@ -16257,6 +16257,20 @@
         {
           "album_name": "Palia (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7GAFfYy6vmuPYueYU3J5rw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 1667,
+      "game_name": "Panzer Dragoon",
+      "game_url": "https://ostdb.net/games/panzer-dragoon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e51beb73034e0336cfaf9180",
+      "albums": [
+        {
+          "album_name": "Panzer Dragoon Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1HEe03N4xgUX2njGHJD6bQ",
           "apple_music_url": "",
           "album_link_url": ""
         }
