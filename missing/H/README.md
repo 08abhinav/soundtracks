@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Mega Mix | 120278 | [120278-hatsune-miku-project-diva-mega-mix.json](./120278-hatsune-miku-project-diva-mega-mix.json) |
 | Hatsune Miku: Project Diva Mega Mix - 10th Anniversary Collection | 136283 | [136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json](./136283-hatsune-miku-project-diva-mega-mix-10th-anniversary-collection.json) |
 | Hatsune Miku: Project Diva Mega Mix+ | 202864 | [202864-hatsune-miku-project-diva-mega-mix.json](./202864-hatsune-miku-project-diva-mega-mix.json) |
+| Hatsune Miku: Project Diva MMFE | 331164 | [331164-hatsune-miku-project-diva-mmfe.json](./331164-hatsune-miku-project-diva-mmfe.json) |
 | Hatsune Miku: Project Diva X | 12078 | [12078-hatsune-miku-project-diva-x.json](./12078-hatsune-miku-project-diva-x.json) |
 | Hatsune Miku: Project Mirai DX | 10091 | [10091-hatsune-miku-project-mirai-dx.json](./10091-hatsune-miku-project-mirai-dx.json) |
 | Hatsune Miku: Roller Skating Music | 199044 | [199044-hatsune-miku-roller-skating-music.json](./199044-hatsune-miku-roller-skating-music.json) |
@@ -3989,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai: Nude Quest | 277922 | [277922-hentai-nude-quest.json](./277922-hentai-nude-quest.json) |
 | Hentai: Royal Quarters | 286543 | [286543-hentai-royal-quarters.json](./286543-hentai-royal-quarters.json) |
 | Hentai: The Shell Game | 109885 | [109885-hentai-the-shell-game.json](./109885-hentai-the-shell-game.json) |
+| Hentai: Ultimate Puzzle | 331091 | [331091-hentai-ultimate-puzzle.json](./331091-hentai-ultimate-puzzle.json) |
 | Hentai: Waifu World | 296950 | [296950-hentai-waifu-world.json](./296950-hentai-waifu-world.json) |
 | Hentai: Young Valkyries | 259610 | [259610-hentai-young-valkyries.json](./259610-hentai-young-valkyries.json) |
 | Hentai! Girls Girls Girls | 365434 | [365434-hentai-girls-girls-girls.json](./365434-hentai-girls-girls-girls.json) |
