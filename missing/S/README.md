@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
+| Savara | 317700 | [317700-savara.json](./317700-savara.json) |
 | Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
 | Save Aisha | 169842 | [169842-save-aisha.json](./169842-save-aisha.json) |
@@ -9215,6 +9216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyJumper | 190732 | [190732-skyjumper.json](./190732-skyjumper.json) |
 | Skyjunk | 155386 | [155386-skyjunk.json](./155386-skyjunk.json) |
 | Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
+| Skykipelago | 317703 | [317703-skykipelago.json](./317703-skykipelago.json) |
 | Skyland 1976 | 126349 | [126349-skyland-1976.json](./126349-skyland-1976.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
 | Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
@@ -12902,6 +12904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Vol.2 | 198533 | [198533-sonic-the-hedgehog-vol-2.json](./198533-sonic-the-hedgehog-vol-2.json) |
 | Sonic the Hedgehog XA | 370482 | [370482-sonic-the-hedgehog-xa.json](./370482-sonic-the-hedgehog-xa.json) |
 | Sonic the Hedgehog: A New Adventure | 361629 | [361629-sonic-the-hedgehog-a-new-adventure.json](./361629-sonic-the-hedgehog-a-new-adventure.json) |
+| Sonic the Hedgehog: Blasting Adventure | 317704 | [317704-sonic-the-hedgehog-blasting-adventure.json](./317704-sonic-the-hedgehog-blasting-adventure.json) |
 | Sonic the Hedgehog: Borderline | 318516 | [318516-sonic-the-hedgehog-borderline.json](./318516-sonic-the-hedgehog-borderline.json) |
 | Sonic the Hedgehog: Chaos Delta | 335712 | [335712-sonic-the-hedgehog-chaos-delta.json](./335712-sonic-the-hedgehog-chaos-delta.json) |
 | Sonic the Hedgehog: Chaos Factor | 330963 | [330963-sonic-the-hedgehog-chaos-factor.json](./330963-sonic-the-hedgehog-chaos-factor.json) |
@@ -16591,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprout Valley: Easter | 293844 | [293844-sprout-valley-easter.json](./293844-sprout-valley-easter.json) |
 | Sprout Valley: Friends Forever | 332505 | [332505-sprout-valley-friends-forever.json](./332505-sprout-valley-friends-forever.json) |
 | Sprout Valley: Friends Forever Expansion | 332526 | [332526-sprout-valley-friends-forever-expansion.json](./332526-sprout-valley-friends-forever-expansion.json) |
+| Sprout Valley: New Friend - Momo | 317666 | [317666-sprout-valley-new-friend-momo.json](./317666-sprout-valley-new-friend-momo.json) |
 | Sprout Valley: Nico's Skins | 316247 | [316247-sprout-valley-nicos-skins.json](./316247-sprout-valley-nicos-skins.json) |
 | Sprout Valley: Special Edition | 304776 | [304776-sprout-valley-special-edition.json](./304776-sprout-valley-special-edition.json) |
 | Sprout Valley: Spray Paint | 317291 | [317291-sprout-valley-spray-paint.json](./317291-sprout-valley-spray-paint.json) |
@@ -20832,6 +20836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Flyer | 332311 | [332311-stunt-flyer.json](./332311-stunt-flyer.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Flyer: Hero of the Skies | 147193 | [147193-stunt-flyer-hero-of-the-skies.json](./147193-stunt-flyer-hero-of-the-skies.json) |
+| Stunt Granny | 317699 | [317699-stunt-granny.json](./317699-stunt-granny.json) |
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
 | Stunt Island | 50113 | [50113-stunt-island.json](./50113-stunt-island.json) |
 | Stunt Kids | 48235 | [48235-stunt-kids.json](./48235-stunt-kids.json) |
@@ -22560,6 +22565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hamsterball Racers | 185510 | [185510-super-hamsterball-racers.json](./185510-super-hamsterball-racers.json) |
 | Super Hangman | 310073 | [310073-super-hangman.json](./310073-super-hangman.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
+| Super Hard Bundle | 317681 | [317681-super-hard-bundle.json](./317681-super-hard-bundle.json) |
 | Super Hard Game | 360580 | [360580-super-hard-game.json](./360580-super-hard-game.json) |
 | Super Hardcore | 50749 | [50749-super-hardcore.json](./50749-super-hardcore.json) |
 | Super Hashigo | 417493 | [417493-super-hashigo.json](./417493-super-hashigo.json) |
@@ -23871,9 +23877,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
 | Super Smash Bros. Ultimate: Fighters Pass | 113120 | [113120-super-smash-bros-ultimate-fighters-pass.json](./113120-super-smash-bros-ultimate-fighters-pass.json) |
+| Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier) | 317688 | [317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json](./317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json) |
 | Super Smash Bros. Ultimate: Fighters Pass Vol. 2 | 133834 | [133834-super-smash-bros-ultimate-fighters-pass-vol-2.json](./133834-super-smash-bros-ultimate-fighters-pass-vol-2.json) |
 | Super Smash Bros. Ultimate: Geno Hat + Outfit | 325078 | [325078-super-smash-bros-ultimate-geno-hat-outfit.json](./325078-super-smash-bros-ultimate-geno-hat-outfit.json) |
 | Super Smash Bros. Ultimate: Gil's Armor and Helmet | 306452 | [306452-super-smash-bros-ultimate-gils-armor-and-helmet.json](./306452-super-smash-bros-ultimate-gils-armor-and-helmet.json) |
+| Super Smash Bros. Ultimate: Goemon Outfit and Wig | 317672 | [317672-super-smash-bros-ultimate-goemon-outfit-and-wig.json](./317672-super-smash-bros-ultimate-goemon-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Gogeta Moveset | 376026 | [376026-super-smash-bros-ultimate-gogeta-moveset.json](./376026-super-smash-bros-ultimate-gogeta-moveset.json) |
 | Super Smash Bros. Ultimate: Gohan Custom Moveset | 394599 | [394599-super-smash-bros-ultimate-gohan-custom-moveset.json](./394599-super-smash-bros-ultimate-gohan-custom-moveset.json) |
 | Super Smash Bros. Ultimate: Goku Mod | 242815 | [242815-super-smash-bros-ultimate-goku-mod.json](./242815-super-smash-bros-ultimate-goku-mod.json) |
