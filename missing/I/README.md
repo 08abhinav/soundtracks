@@ -169,10 +169,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
+| I Commissioned Some Butterflies 4 | 315349 | [315349-i-commissioned-some-butterflies-4.json](./315349-i-commissioned-some-butterflies-4.json) |
+| I Commissioned Some Butterflies 5 | 315350 | [315350-i-commissioned-some-butterflies-5.json](./315350-i-commissioned-some-butterflies-5.json) |
 | I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
 | I Commissioned Some Cats 2 | 264551 | [264551-i-commissioned-some-cats-2.json](./264551-i-commissioned-some-cats-2.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
 | I Commissioned Some Dogs | 241292 | [241292-i-commissioned-some-dogs.json](./241292-i-commissioned-some-dogs.json) |
+| I Commissioned Some Dogs 3 | 315351 | [315351-i-commissioned-some-dogs-3.json](./315351-i-commissioned-some-dogs-3.json) |
+| I Commissioned Some Dogs 4 | 315348 | [315348-i-commissioned-some-dogs-4.json](./315348-i-commissioned-some-dogs-4.json) |
 | I Commissioned Some Dogs 5 | 350205 | [350205-i-commissioned-some-dogs-5.json](./350205-i-commissioned-some-dogs-5.json) |
 | I Commissioned Some Frogs 2 | 270131 | [270131-i-commissioned-some-frogs-2.json](./270131-i-commissioned-some-frogs-2.json) |
 | I Commissioned Some Frogs 3 | 339692 | [339692-i-commissioned-some-frogs-3.json](./339692-i-commissioned-some-frogs-3.json) |
