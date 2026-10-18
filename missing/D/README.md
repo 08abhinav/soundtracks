@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
+| Depth Complaint | 343587 | [343587-depth-complaint.json](./343587-depth-complaint.json) |
 | Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
 | Depth Dwellers | 71423 | [71423-depth-dwellers.json](./71423-depth-dwellers.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
@@ -8174,6 +8175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog | 314399 | [314399-dog.json](./314399-dog.json) |
 | Dog | 314401 | [314401-dog.json](./314401-dog.json) |
 | Dog Adventure | 187192 | [187192-dog-adventure.json](./187192-dog-adventure.json) |
+| Dog Adventure | 343612 | [343612-dog-adventure.json](./343612-dog-adventure.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
@@ -8609,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominos Pro | 86694 | [86694-dominos-pro.json](./86694-dominos-pro.json) |
 | Dominos Pro | 86873 | [86873-dominos-pro.json](./86873-dominos-pro.json) |
 | Dominot | 389023 | [389023-dominot.json](./389023-dominot.json) |
+| Dominova | 343699 | [343699-dominova.json](./343699-dominova.json) |
 | Dominus | 172081 | [172081-dominus.json](./172081-dominus.json) |
 | Dominus 2 | 106421 | [106421-dominus-2.json](./106421-dominus-2.json) |
 | Dominus Automa | 372769 | [372769-dominus-automa.json](./372769-dominus-automa.json) |
@@ -9114,6 +9117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
+| Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
 | Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
 | Doodle Devil: Dark Side | 386861 | [386861-doodle-devil-dark-side.json](./386861-doodle-devil-dark-side.json) |
 | Doodle Devil: Pack | 212360 | [212360-doodle-devil-pack.json](./212360-doodle-devil-pack.json) |
@@ -11138,6 +11142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
+| DreadOut 3 | 343697 | [343697-dreadout-3.json](./343697-dreadout-3.json) |
 | DreadOut: Keepers of The Dark | 20179 | [20179-dreadout-keepers-of-the-dark.json](./20179-dreadout-keepers-of-the-dark.json) |
 | Dreadrun | 295805 | [295805-dreadrun.json](./295805-dreadrun.json) |
 | Dreadshot | 292520 | [292520-dreadshot.json](./292520-dreadshot.json) |
@@ -11958,6 +11963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone tracks | 121699 | [121699-drone-tracks.json](./121699-drone-tracks.json) |
 | Drone Warfare | 81179 | [81179-drone-warfare.json](./81179-drone-warfare.json) |
 | Drone Wars | 126355 | [126355-drone-wars.json](./126355-drone-wars.json) |
+| Drone Wars | 343589 | [343589-drone-wars.json](./343589-drone-wars.json) |
 | Drone Wars | 373546 | [373546-drone-wars.json](./373546-drone-wars.json) |
 | Drone Wars VR | 163801 | [163801-drone-wars-vr.json](./163801-drone-wars-vr.json) |
 | Drone World Tour: Flight Simulator | 322665 | [322665-drone-world-tour-flight-simulator.json](./322665-drone-world-tour-flight-simulator.json) |
