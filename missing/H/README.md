@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life 1 Anthology | 400309 | [400309-half-life-1-anthology.json](./400309-half-life-1-anthology.json) |
 | Half-Life 2 Classic | 128657 | [128657-half-life-2-classic.json](./128657-half-life-2-classic.json) |
 | Half-Life 2 Substance | 366609 | [366609-half-life-2-substance.json](./366609-half-life-2-substance.json) |
+| Half-Life 2: Aftermath | 314127 | [314127-half-life-2-aftermath.json](./314127-half-life-2-aftermath.json) |
 | Half-Life 2: Alone Mod | 323932 | [323932-half-life-2-alone-mod.json](./323932-half-life-2-alone-mod.json) |
 | Half-Life 2: Calamity | 185975 | [185975-half-life-2-calamity.json](./185975-half-life-2-calamity.json) |
 | Half-Life 2: Capture the Flag | 221720 | [221720-half-life-2-capture-the-flag.json](./221720-half-life-2-capture-the-flag.json) |
@@ -1365,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Minus Classic Redux | 163924 | [163924-hard-minus-classic-redux.json](./163924-hard-minus-classic-redux.json) |
 | Hard Minus Forever Standalone DLC | 249182 | [249182-hard-minus-forever-standalone-dlc.json](./249182-hard-minus-forever-standalone-dlc.json) |
 | Hard Night VR | 153370 | [153370-hard-night-vr.json](./153370-hard-night-vr.json) |
+| Hard Nut to Crack | 314148 | [314148-hard-nut-to-crack.json](./314148-hard-nut-to-crack.json) |
 | Hard Office | 130628 | [130628-hard-office.json](./130628-hard-office.json) |
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
