@@ -8109,6 +8109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
 | Mighty Party | 29865 | [29865-mighty-party.json](./29865-mighty-party.json) |
 | Mighty Quest: Rogue Palace | 248635 | [248635-mighty-quest-rogue-palace.json](./248635-mighty-quest-rogue-palace.json) |
+| Mighty Rescuer | 359737 | [359737-mighty-rescuer.json](./359737-mighty-rescuer.json) |
 | Mighty Rodent | 73777 | [73777-mighty-rodent.json](./73777-mighty-rodent.json) |
 | Mighty Strike Team | 59869 | [59869-mighty-strike-team.json](./59869-mighty-strike-team.json) |
 | Mighty Switch Force! | 22919 | [22919-mighty-switch-force.json](./22919-mighty-switch-force.json) |
@@ -10527,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Hunter | 281635 | [281635-mole-hunter.json](./281635-mole-hunter.json) |
 | Mole in a Hole | 256195 | [256195-mole-in-a-hole.json](./256195-mole-in-a-hole.json) |
 | Mole Maiden | 205035 | [205035-mole-maiden.json](./205035-mole-maiden.json) |
+| Mole Mash | 359726 | [359726-mole-mash.json](./359726-mole-mash.json) |
 | Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
 | Mole Mole | 47523 | [47523-mole-mole.json](./47523-mole-mole.json) |
@@ -10785,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
+| Monkey Business | 359732 | [359732-monkey-business.json](./359732-monkey-business.json) |
 | Monkey Business | 41198 | [41198-monkey-business.json](./41198-monkey-business.json) |
 | Monkey Catapult | 323162 | [323162-monkey-catapult.json](./323162-monkey-catapult.json) |
 | Monkey Do | 291484 | [291484-monkey-do.json](./291484-monkey-do.json) |
