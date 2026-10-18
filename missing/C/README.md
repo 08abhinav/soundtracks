@@ -2100,6 +2100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
+| Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
 | Cartographer | 199611 | [199611-cartographer.json](./199611-cartographer.json) |
 | Cartographers | 175748 | [175748-cartographers.json](./175748-cartographers.json) |
@@ -7079,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
+| Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
 | Clean Paper | 239598 | [239598-clean-paper.json](./239598-clean-paper.json) |
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
