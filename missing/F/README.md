@@ -4776,6 +4776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Master | 99734 | [99734-fishing-master.json](./99734-fishing-master.json) |
 | Fishing Master 2 | 68943 | [68943-fishing-master-2.json](./68943-fishing-master-2.json) |
 | Fishing Master HD | 103562 | [103562-fishing-master-hd.json](./103562-fishing-master-hd.json) |
+| Fishing Master Kitty | 339076 | [339076-fishing-master-kitty.json](./339076-fishing-master-kitty.json) |
 | Fishing Master World Tour | 50630 | [50630-fishing-master-world-tour.json](./50630-fishing-master-world-tour.json) |
 | Fishing Mates | 237960 | [237960-fishing-mates.json](./237960-fishing-mates.json) |
 | Fishing Mayhem | 318187 | [318187-fishing-mayhem.json](./318187-fishing-mayhem.json) |
@@ -9302,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
+| Fruitgeddon | 339083 | [339083-fruitgeddon.json](./339083-fruitgeddon.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruitito | 256192 | [256192-fruitito.json](./256192-fruitito.json) |
