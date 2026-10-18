@@ -7200,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals Memory: Insect | 81992 | [81992-animals-memory-insect.json](./81992-animals-memory-insect.json) |
 | Animals Memory: Monkeys | 364050 | [364050-animals-memory-monkeys.json](./364050-animals-memory-monkeys.json) |
 | Animals Memory: Underwater Kingdom | 81976 | [81976-animals-memory-underwater-kingdom.json](./81976-animals-memory-underwater-kingdom.json) |
+| Animals Merge Quest | 309760 | [309760-animals-merge-quest.json](./309760-animals-merge-quest.json) |
 | Animals of Australia | 108229 | [108229-animals-of-australia.json](./108229-animals-of-australia.json) |
 | Animals on the Loose: A You vs. Wild Movie | 256867 | [256867-animals-on-the-loose-a-you-vs-wild-movie.json](./256867-animals-on-the-loose-a-you-vs-wild-movie.json) |
 | Animals Puzzles for toddler: Learning kids games | 93816 | [93816-animals-puzzles-for-toddler-learning-kids-games.json](./93816-animals-puzzles-for-toddler-learning-kids-games.json) |
