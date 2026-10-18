@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CamGirl Simulator | 326461 | [326461-camgirl-simulator.json](./326461-camgirl-simulator.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
+| Camille and Laura | 311871 | [311871-camille-and-laura.json](./311871-camille-and-laura.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
@@ -3247,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
+| Cats Hidden Timeline | 311896 | [311896-cats-hidden-timeline.json](./311896-cats-hidden-timeline.json) |
 | Cats Hiding in 3D | 318209 | [318209-cats-hiding-in-3d.json](./318209-cats-hiding-in-3d.json) |
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
@@ -10477,6 +10479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cora | 366836 | [366836-cora.json](./366836-cora.json) |
 | Coraabia | 63300 | [63300-coraabia.json](./63300-coraabia.json) |
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
+| Coral & The Abyss | 311890 | [311890-coral-and-the-abyss.json](./311890-coral-and-the-abyss.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
 | Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
 | Coral Island: Kids Grow Up | 424043 | [424043-coral-island-kids-grow-up.json](./424043-coral-island-kids-grow-up.json) |
@@ -11302,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowgirl Boots | 141808 | [141808-cowgirl-boots.json](./141808-cowgirl-boots.json) |
 | Cowgirl Maid Milk Cafe | 417392 | [417392-cowgirl-maid-milk-cafe.json](./417392-cowgirl-maid-milk-cafe.json) |
 | Cowgirl Trainer | 331299 | [331299-cowgirl-trainer.json](./331299-cowgirl-trainer.json) |
+| Cowgirl's Café | 311883 | [311883-cowgirls-cafe.json](./311883-cowgirls-cafe.json) |
 | Cowhop | 239631 | [239631-cowhop.json](./239631-cowhop.json) |
 | Cowlifters: Clash for Cows | 174714 | [174714-cowlifters-clash-for-cows.json](./174714-cowlifters-clash-for-cows.json) |
 | CoWorker | 192766 | [192766-coworker.json](./192766-coworker.json) |
