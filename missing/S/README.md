@@ -1853,6 +1853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayonara | 252989 | [252989-sayonara.json](./252989-sayonara.json) |
 | Sayonara Golden Days: Golden Souls | 148345 | [148345-sayonara-golden-days-golden-souls.json](./148345-sayonara-golden-days-golden-souls.json) |
 | Sayonara Jinsei. | 288438 | [288438-sayonara-jinsei.json](./288438-sayonara-jinsei.json) |
+| Sayonara Man | 330595 | [330595-sayonara-man.json](./330595-sayonara-man.json) |
 | Sayonara Mr. Stealer | 388004 | [388004-sayonara-mr-stealer.json](./388004-sayonara-mr-stealer.json) |
 | Sayonara NightCap | 260397 | [260397-sayonara-nightcap.json](./260397-sayonara-nightcap.json) |
 | Sayonara Sigil Sentry | 331679 | [331679-sayonara-sigil-sentry.json](./331679-sayonara-sigil-sentry.json) |
@@ -9208,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
 | Skyline | 370425 | [370425-skyline.json](./370425-skyline.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
+| Skyline Bowling | 330609 | [330609-skyline-bowling.json](./330609-skyline-bowling.json) |
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
@@ -12311,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 3D Snowboarding | 302958 | [302958-sonic-3d-snowboarding.json](./302958-sonic-3d-snowboarding.json) |
 | Sonic 3D: No Flickies | 198547 | [198547-sonic-3d-no-flickies.json](./198547-sonic-3d-no-flickies.json) |
 | Sonic 3D40 vs. Counterfeit | 330873 | [330873-sonic-3d40-vs-counterfeit.json](./330873-sonic-3d40-vs-counterfeit.json) |
+| Sonic 4 | 330599 | [330599-sonic-4.json](./330599-sonic-4.json) |
 | Sonic Action | 331313 | [331313-sonic-action.json](./331313-sonic-action.json) |
 | Sonic Action | 333781 | [333781-sonic-action.json](./333781-sonic-action.json) |
 | Sonic Action 4 Pack | 136876 | [136876-sonic-action-4-pack.json](./136876-sonic-action-4-pack.json) |
@@ -12391,6 +12394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom | 12855 | [12855-sonic-boom.json](./12855-sonic-boom.json) |
 | Sonic Boom Cannon | 297603 | [297603-sonic-boom-cannon.json](./297603-sonic-boom-cannon.json) |
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
+| Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
 | Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
 | Sonic Bowling | 261248 | [261248-sonic-bowling.json](./261248-sonic-bowling.json) |
 | Sonic Bowling | 261293 | [261293-sonic-bowling.json](./261293-sonic-bowling.json) |
@@ -12545,6 +12549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Incursion | 326998 | [326998-sonic-incursion.json](./326998-sonic-incursion.json) |
 | Sonic Inferno | 332457 | [332457-sonic-inferno.json](./332457-sonic-inferno.json) |
 | Sonic Infinity | 317347 | [317347-sonic-infinity.json](./317347-sonic-infinity.json) |
+| Sonic Infinity Adventure Pack Season 2 | 330567 | [330567-sonic-infinity-adventure-pack-season-2.json](./330567-sonic-infinity-adventure-pack-season-2.json) |
 | Sonic Infinity Engine: Crisis City | 326153 | [326153-sonic-infinity-engine-crisis-city.json](./326153-sonic-infinity-engine-crisis-city.json) |
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
@@ -12633,10 +12638,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
 | Sonic Parallatic Adventure | 331090 | [331090-sonic-parallatic-adventure.json](./331090-sonic-parallatic-adventure.json) |
+| Sonic Party | 330591 | [330591-sonic-party.json](./330591-sonic-party.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
 | Sonic PC Collection | 64327 | [64327-sonic-pc-collection.json](./64327-sonic-pc-collection.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
 | Sonic Pinball Party | 6601 | [6601-sonic-pinball-party.json](./6601-sonic-pinball-party.json) |
+| Sonic Pocket Advance | 330589 | [330589-sonic-pocket-advance.json](./330589-sonic-pocket-advance.json) |
 | Sonic Point of Action | 326136 | [326136-sonic-point-of-action.json](./326136-sonic-point-of-action.json) |
 | Sonic Pong 2 | 330696 | [330696-sonic-pong-2.json](./330696-sonic-pong-2.json) |
 | Sonic Power of Nitro | 330305 | [330305-sonic-power-of-nitro.json](./330305-sonic-power-of-nitro.json) |
@@ -12686,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reshuffled | 331706 | [331706-sonic-reshuffled.json](./331706-sonic-reshuffled.json) |
 | Sonic Reversi | 210304 | [210304-sonic-reversi.json](./210304-sonic-reversi.json) |
 | Sonic Reversi Hyper | 210305 | [210305-sonic-reversi-hyper.json](./210305-sonic-reversi-hyper.json) |
+| Sonic Revitalized 3D | 330588 | [330588-sonic-revitalized-3d.json](./330588-sonic-revitalized-3d.json) |
 | Sonic Revolution | 331869 | [331869-sonic-revolution.json](./331869-sonic-revolution.json) |
 | Sonic Riders | 210302 | [210302-sonic-riders.json](./210302-sonic-riders.json) |
 | Sonic Riders DX | 172466 | [172466-sonic-riders-dx.json](./172466-sonic-riders-dx.json) |
@@ -12982,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Blue Blur | 332611 | [332611-sonic-the-blue-blur.json](./332611-sonic-the-blue-blur.json) |
 | Sonic: The Chaos Effect | 330712 | [330712-sonic-the-chaos-effect.json](./330712-sonic-the-chaos-effect.json) |
 | Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
+| Sonic: The Final Story | 330590 | [330590-sonic-the-final-story.json](./330590-sonic-the-final-story.json) |
 | Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
