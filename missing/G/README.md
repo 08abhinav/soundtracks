@@ -3493,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glisynth | 373145 | [373145-glisynth.json](./373145-glisynth.json) |
 | Glitch | 186709 | [186709-glitch.json](./186709-glitch.json) |
 | Glitch | 232137 | [232137-glitch.json](./232137-glitch.json) |
+| Glitch | 327055 | [327055-glitch.json](./327055-glitch.json) |
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 373881 | [373881-glitch.json](./373881-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
@@ -8223,6 +8224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Buster | 106000 | [106000-gyro-buster.json](./106000-gyro-buster.json) |
 | Gyro Gear | 181724 | [181724-gyro-gear.json](./181724-gyro-gear.json) |
 | Gyro Gear Tournament+ | 211733 | [211733-gyro-gear-tournament.json](./211733-gyro-gear-tournament.json) |
+| Gyro Shooter | 327042 | [327042-gyro-shooter.json](./327042-gyro-shooter.json) |
 | Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | GyroBlade | 149211 | [149211-gyroblade.json](./149211-gyroblade.json) |
