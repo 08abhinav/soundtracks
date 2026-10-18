@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Bloom Ultra Encore | 22784 | [22784-fairy-bloom-ultra-encore.json](./22784-fairy-bloom-ultra-encore.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
+| Fairy Card Battlers | 320613 | [320613-fairy-card-battlers.json](./320613-fairy-card-battlers.json) |
 | Fairy Carrots | 276838 | [276838-fairy-carrots.json](./276838-fairy-carrots.json) |
 | Fairy Comedy: A Love Hard To Find | 275527 | [275527-fairy-comedy-a-love-hard-to-find.json](./275527-fairy-comedy-a-love-hard-to-find.json) |
 | Fairy Elements | 214643 | [214643-fairy-elements.json](./214643-fairy-elements.json) |
@@ -2412,6 +2413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
 | Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
+| Fatebound | 320591 | [320591-fatebound.json](./320591-fatebound.json) |
 | Fatebound Cards: Sundering Cities | 352518 | [352518-fatebound-cards-sundering-cities.json](./352518-fatebound-cards-sundering-cities.json) |
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
@@ -7171,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
+| Forgotten Fables | 320609 | [320609-forgotten-fables.json](./320609-forgotten-fables.json) |
 | Forgotten Fables: Wolves on the Westwind | 195567 | [195567-forgotten-fables-wolves-on-the-westwind.json](./195567-forgotten-fables-wolves-on-the-westwind.json) |
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
@@ -9009,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hel to Asgard | 367983 | [367983-from-hel-to-asgard.json](./367983-from-hel-to-asgard.json) |
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
+| From Hell | 320610 | [320610-from-hell.json](./320610-from-hell.json) |
 | From Lamer to Guru | 367156 | [367156-from-lamer-to-guru.json](./367156-from-lamer-to-guru.json) |
 | From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
 | From Light | 59999 | [59999-from-light.json](./59999-from-light.json) |
