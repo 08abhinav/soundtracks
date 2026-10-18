@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T07:55:25.760Z",
-  "total_soundtracks": 2136,
+  "generated_at": "2026-10-18T08:00:25.792Z",
+  "total_soundtracks": 2137,
   "games": [
     {
       "igdb_id": 7522,
@@ -8643,6 +8643,20 @@
           "spotify_url": "https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA",
           "apple_music_url": "https://music.apple.com/us/album/furi-original-game-soundtrack/1131342238",
           "album_link_url": "https://album.link/i/1131342238"
+        }
+      ]
+    },
+    {
+      "igdb_id": 10345,
+      "game_name": "Galactic Civilizations III",
+      "game_url": "https://ostdb.net/games/galactic-civilizations-iii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273018e3554c3e061f0128706db",
+      "albums": [
+        {
+          "album_name": "Galactic Civilizations III (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7vJ7Wc9HoICz4AMC7hmDBY",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
