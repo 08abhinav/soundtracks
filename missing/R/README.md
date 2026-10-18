@@ -9114,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruskindo | 182910 | [182910-ruskindo.json](./182910-ruskindo.json) |
 | Rusl | 211651 | [211651-rusl.json](./211651-rusl.json) |
 | Ruslicstan Invades | 238497 | [238497-ruslicstan-invades.json](./238497-ruslicstan-invades.json) |
+| Russel's Cookie Eating | 354755 | [354755-russels-cookie-eating.json](./354755-russels-cookie-eating.json) |
 | Russell | 281365 | [281365-russell.json](./281365-russell.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
