@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
+| Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
 | Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
@@ -10780,6 +10781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monjarmageddon | 81109 | [81109-monjarmageddon.json](./81109-monjarmageddon.json) |
 | Monji | 407448 | [407448-monji.json](./407448-monji.json) |
+| Monjum | 356506 | [356506-monjum.json](./356506-monjum.json) |
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
@@ -15545,6 +15547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
+| Mystic Pathways: Crystal Quest | 356507 | [356507-mystic-pathways-crystal-quest.json](./356507-mystic-pathways-crystal-quest.json) |
 | Mystic Pillars: Remastered | 291150 | [291150-mystic-pillars-remastered.json](./291150-mystic-pillars-remastered.json) |
 | Mystic Realm Dizzy | 181208 | [181208-mystic-realm-dizzy.json](./181208-mystic-realm-dizzy.json) |
 | Mystic Rest Stop | 327949 | [327949-mystic-rest-stop.json](./327949-mystic-rest-stop.json) |
