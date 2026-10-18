@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iMimic: 80's Vintage Electronic Memory Game | 232142 | [232142-imimic-80s-vintage-electronic-memory-game.json](./232142-imimic-80s-vintage-electronic-memory-game.json) |
 | Imitate | 283854 | [283854-imitate.json](./283854-imitate.json) |
 | Imitating Zombies | 189191 | [189191-imitating-zombies.json](./189191-imitating-zombies.json) |
+| Imitation | 313539 | [313539-imitation.json](./313539-imitation.json) |
 | Imitation | 368800 | [368800-imitation.json](./368800-imitation.json) |
 | Imitation City | 64680 | [64680-imitation-city.json](./64680-imitation-city.json) |
 | Imitation Girl | 382343 | [382343-imitation-girl.json](./382343-imitation-girl.json) |
