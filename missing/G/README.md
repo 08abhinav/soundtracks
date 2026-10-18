@@ -5559,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
+| Grand Crown: Pandora's Fate | 350200 | [350200-grand-crown-pandoras-fate.json](./350200-grand-crown-pandoras-fate.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
