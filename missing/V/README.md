@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Cult | 309452 | [309452-village-cult.json](./309452-village-cult.json) |
 | Village Defender | 219516 | [219516-village-defender.json](./219516-village-defender.json) |
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
+| Village Escape | 342481 | [342481-village-escape.json](./342481-village-escape.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Heros | 235992 | [235992-village-heros.json](./235992-village-heros.json) |
 | Village Life: Love & Babies | 38885 | [38885-village-life-love-and-babies.json](./38885-village-life-love-and-babies.json) |
