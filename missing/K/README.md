@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kumamon Bomber Puzzle de Kumamon Taisou | 222441 | [222441-kumamon-bomber-puzzle-de-kumamon-taisou.json](./222441-kumamon-bomber-puzzle-de-kumamon-taisou.json) |
 | Kumamon Run | 283275 | [283275-kumamon-run.json](./283275-kumamon-run.json) |
 | Kumari Samsara: The Living Goddess | 402909 | [402909-kumari-samsara-the-living-goddess.json](./402909-kumari-samsara-the-living-goddess.json) |
+| Kumarn: The Wandering Spirit | 360910 | [360910-kumarn-the-wandering-spirit.json](./360910-kumarn-the-wandering-spirit.json) |
 | Kumatanchi | 70683 | [70683-kumatanchi.json](./70683-kumatanchi.json) |
 | KumaWelt 1: Honey Frontier | 291183 | [291183-kumawelt-1-honey-frontier.json](./291183-kumawelt-1-honey-frontier.json) |
 | Kumdor no Ken | 233126 | [233126-kumdor-no-ken.json](./233126-kumdor-no-ken.json) |
