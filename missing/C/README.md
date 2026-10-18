@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chippy | 117217 | [117217-chippy.json](./117217-chippy.json) |
 | Chippy & Noppo | 240228 | [240228-chippy-and-noppo.json](./240228-chippy-and-noppo.json) |
 | Chippy's Escape from Seaberry Keep | 224681 | [224681-chippys-escape-from-seaberry-keep.json](./224681-chippys-escape-from-seaberry-keep.json) |
+| Chippy's Stash | 336877 | [336877-chippys-stash.json](./336877-chippys-stash.json) |
 | Chiptune DJ | 106409 | [106409-chiptune-dj.json](./106409-chiptune-dj.json) |
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
@@ -7401,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clodhoppers | 117586 | [117586-clodhoppers.json](./117586-clodhoppers.json) |
 | Cloisterfuck | 271296 | [271296-cloisterfuck.json](./271296-cloisterfuck.json) |
 | Clone | 217844 | [217844-clone.json](./217844-clone.json) |
+| Clone | 336972 | [336972-clone.json](./336972-clone.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
 | Clone 2048 | 193883 | [193883-clone-2048.json](./193883-clone-2048.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
@@ -10887,6 +10889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
+| Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
 | Cotton Rock with You: Oriental Night Dreams | 409886 | [409886-cotton-rock-with-you-oriental-night-dreams.json](./409886-cotton-rock-with-you-oriental-night-dreams.json) |
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
 | Cotton to Freaks | 410254 | [410254-cotton-to-freaks.json](./410254-cotton-to-freaks.json) |
@@ -13629,6 +13632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Snap 2 | 86882 | [86882-cube-snap-2.json](./86882-cube-snap-2.json) |
 | Cube Solver | 231961 | [231961-cube-solver.json](./231961-cube-solver.json) |
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
+| Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
@@ -13678,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
+| Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
