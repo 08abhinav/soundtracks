@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N3: Ninety-Nine Nights | 7094 | [7094-n3-ninety-nine-nights.json](./7094-n3-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
+| Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
 | Naàra: Contos de Resistencia | 191065 | [191065-naara-contos-de-resistencia.json](./191065-naara-contos-de-resistencia.json) |
 | Naau: The Lost Eye | 121570 | [121570-naau-the-lost-eye.json](./121570-naau-the-lost-eye.json) |
@@ -148,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
+| Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
@@ -774,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty College 18+ | 258984 | [258984-naughty-college-18.json](./258984-naughty-college-18.json) |
 | Naughty Kittens | 368765 | [368765-naughty-kittens.json](./368765-naughty-kittens.json) |
 | Naughty Kitties | 19593 | [19593-naughty-kitties.json](./19593-naughty-kitties.json) |
+| Naughty List | 341359 | [341359-naughty-list.json](./341359-naughty-list.json) |
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
@@ -1189,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necore Warriors | 197171 | [197171-necore-warriors.json](./197171-necore-warriors.json) |
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
+| Necro Blade | 341361 | [341361-necro-blade.json](./341361-necro-blade.json) |
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
@@ -1202,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
 | Necrocat | 318009 | [318009-necrocat.json](./318009-necrocat.json) |
+| NecroCatic Clicker | 341362 | [341362-necrocatic-clicker.json](./341362-necrocatic-clicker.json) |
 | Necrocrisis | 208427 | [208427-necrocrisis.json](./208427-necrocrisis.json) |
 | Necrodome | 8694 | [8694-necrodome.json](./8694-necrodome.json) |
 | Necrodungeon | 358278 | [358278-necrodungeon.json](./358278-necrodungeon.json) |
@@ -1374,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
+| NEET Nectar's Abysmally Small Assortment | 341363 | [341363-neet-nectars-abysmally-small-assortment.json](./341363-neet-nectars-abysmally-small-assortment.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
 | Nefarium | 192452 | [192452-nefarium.json](./192452-nefarium.json) |
@@ -1609,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
+| Nemesis: Final Dragon Tower | 341364 | [341364-nemesis-final-dragon-tower.json](./341364-nemesis-final-dragon-tower.json) |
 | Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
 | Nemesis: The Final Challenge | 262391 | [262391-nemesis-the-final-challenge.json](./262391-nemesis-the-final-challenge.json) |
 | Nemesis: The Final Challenge | 262392 | [262392-nemesis-the-final-challenge.json](./262392-nemesis-the-final-challenge.json) |
@@ -1968,6 +1975,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
 | Nephilim | 270973 | [270973-nephilim.json](./270973-nephilim.json) |
+| Nephilim | 341365 | [341365-nephilim.json](./341365-nephilim.json) |
+| Nephilim | 341366 | [341366-nephilim.json](./341366-nephilim.json) |
 | Nephilim Resurrection | 323233 | [323233-nephilim-resurrection.json](./323233-nephilim-resurrection.json) |
 | Nephise | 29171 | [29171-nephise.json](./29171-nephise.json) |
 | Nephise Begins | 36469 | [36469-nephise-begins.json](./36469-nephise-begins.json) |
@@ -2120,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nettou! J.League Soccer | 349278 | [349278-nettou-j-league-soccer.json](./349278-nettou-j-league-soccer.json) |
 | Nettou! Powerful Koushien | 98508 | [98508-nettou-powerful-koushien.json](./98508-nettou-powerful-koushien.json) |
 | Netty | 181211 | [181211-netty.json](./181211-netty.json) |
+| Netveil | 341368 | [341368-netveil.json](./341368-netveil.json) |
 | NetWalk | 283745 | [283745-netwalk.json](./283745-netwalk.json) |
 | NetWars | 14505 | [14505-netwars.json](./14505-netwars.json) |
 | NetWits | 57655 | [57655-netwits.json](./57655-netwits.json) |
@@ -2128,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
 | Network Adventure Bugsite: Beta | 270059 | [270059-network-adventure-bugsite-beta.json](./270059-network-adventure-bugsite-beta.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
+| Network Euphoria | 341369 | [341369-network-euphoria.json](./341369-network-euphoria.json) |
 | Network Nodes | 344949 | [344949-network-nodes.json](./344949-network-nodes.json) |
 | Network Notation | 391341 | [391341-network-notation.json](./391341-network-notation.json) |
 | Network Q RAC Rally | 261884 | [261884-network-q-rac-rally.json](./261884-network-q-rac-rally.json) |
@@ -2342,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Atomic Punk: Global Quest | 39495 | [39495-new-atomic-punk-global-quest.json](./39495-new-atomic-punk-global-quest.json) |
 | New Baby Sister | 106378 | [106378-new-baby-sister.json](./106378-new-baby-sister.json) |
 | New Baseball | 80490 | [80490-new-baseball.json](./80490-new-baseball.json) |
+| New Battle of Shanghai Beach | 341370 | [341370-new-battle-of-shanghai-beach.json](./341370-new-battle-of-shanghai-beach.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
 | New Bust-A-Move | 64296 | [64296-new-bust-a-move.json](./64296-new-bust-a-move.json) |
 | New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
@@ -2514,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee: Mary's Dark Side | 258010 | [258010-new-yankee-marys-dark-side.json](./258010-new-yankee-marys-dark-side.json) |
 | New Yankee: The Way of the Knight | 372224 | [372224-new-yankee-the-way-of-the-knight.json](./372224-new-yankee-the-way-of-the-knight.json) |
 | New Yankee: The Way of the Knight - Collector's Edition | 337255 | [337255-new-yankee-the-way-of-the-knight-collectors-edition.json](./337255-new-yankee-the-way-of-the-knight-collectors-edition.json) |
+| New Yankee: Through the History Mirror | 341371 | [341371-new-yankee-through-the-history-mirror.json](./341371-new-yankee-through-the-history-mirror.json) |
 | New Yankee: Through the History Mirror - Collector's Edition | 356782 | [356782-new-yankee-through-the-history-mirror-collectors-edition.json](./356782-new-yankee-through-the-history-mirror-collectors-edition.json) |
 | New Yankee: To the Queen! | 53415 | [53415-new-yankee-to-the-queen.json](./53415-new-yankee-to-the-queen.json) |
 | New Yankee: Under the Genie's Thumb | 170500 | [170500-new-yankee-under-the-genies-thumb.json](./170500-new-yankee-under-the-genies-thumb.json) |
@@ -3257,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightcrawler VR Bowling | 37400 | [37400-nightcrawler-vr-bowling.json](./37400-nightcrawler-vr-bowling.json) |
 | NightCry | 19132 | [19132-nightcry.json](./19132-nightcry.json) |
 | Nightdawn | 72330 | [72330-nightdawn.json](./72330-nightdawn.json) |
+| NightDirge | 341372 | [341372-nightdirge.json](./341372-nightdirge.json) |
 | Nightenfell: Shared AR | 96780 | [96780-nightenfell-shared-ar.json](./96780-nightenfell-shared-ar.json) |
 | Nightfall | 145678 | [145678-nightfall.json](./145678-nightfall.json) |
 | Nightfall | 60020 | [60020-nightfall.json](./60020-nightfall.json) |
@@ -3479,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightZero:Mistiltein | 125356 | [125356-nightzero-mistiltein.json](./125356-nightzero-mistiltein.json) |
 | Nightzoid | 260637 | [260637-nightzoid.json](./260637-nightzoid.json) |
 | Nigredo | 346143 | [346143-nigredo.json](./346143-nigredo.json) |
+| Nigudin Really Fought Against Furong Wangyuan | 341373 | [341373-nigudin-really-fought-against-furong-wangyuan.json](./341373-nigudin-really-fought-against-furong-wangyuan.json) |
 | Nihil Ignis Incident 48 | 285400 | [285400-nihil-ignis-incident-48.json](./285400-nihil-ignis-incident-48.json) |
 | Nihilism | 71163 | [71163-nihilism.json](./71163-nihilism.json) |
 | Nihilist | 37287 | [37287-nihilist.json](./37287-nihilist.json) |
