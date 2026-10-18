@@ -456,6 +456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Exploration | 338326 | [338326-backrooms-exploration.json](./338326-backrooms-exploration.json) |
 | Backrooms: Extractions | 342580 | [342580-backrooms-extractions.json](./342580-backrooms-extractions.json) |
 | Backrooms: Fade | 409742 | [409742-backrooms-fade.json](./409742-backrooms-fade.json) |
+| Backrooms: Final Exam | 350290 | [350290-backrooms-final-exam.json](./350290-backrooms-final-exam.json) |
 | Backrooms: Found Footage | 338186 | [338186-backrooms-found-footage.json](./338186-backrooms-found-footage.json) |
 | Backrooms: Hide Together | 340939 | [340939-backrooms-hide-together.json](./340939-backrooms-hide-together.json) |
 | Backrooms: Imposter | 384916 | [384916-backrooms-imposter.json](./384916-backrooms-imposter.json) |
@@ -1226,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Man | 359433 | [359433-balloon-man.json](./359433-balloon-man.json) |
 | Balloon Monster | 228951 | [228951-balloon-monster.json](./228951-balloon-monster.json) |
 | Balloon Party | 186068 | [186068-balloon-party.json](./186068-balloon-party.json) |
+| Balloon Party | 350294 | [350294-balloon-party.json](./350294-balloon-party.json) |
 | Balloon Pop | 187361 | [187361-balloon-pop.json](./187361-balloon-pop.json) |
 | Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
@@ -11332,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Memories | 154434 | [154434-broken-memories.json](./154434-broken-memories.json) |
 | Broken Metal | 111038 | [111038-broken-metal.json](./111038-broken-metal.json) |
 | Broken Mind | 181138 | [181138-broken-mind.json](./181138-broken-mind.json) |
+| Broken Mind | 350218 | [350218-broken-mind.json](./350218-broken-mind.json) |
 | Broken Minds | 102287 | [102287-broken-minds.json](./102287-broken-minds.json) |
 | Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
