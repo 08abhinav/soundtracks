@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntletak | 372782 | [372782-gauntletak.json](./372782-gauntletak.json) |
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
+| Gavis Arenarium | 336866 | [336866-gavis-arenarium.json](./336866-gavis-arenarium.json) |
 | Gawr Gura: Quest for Bread | 217217 | [217217-gawr-gura-quest-for-bread.json](./217217-gawr-gura-quest-for-bread.json) |
 | Gay Battlegrounds | 105354 | [105354-gay-battlegrounds.json](./105354-gay-battlegrounds.json) |
 | Gay Guys | 368117 | [368117-gay-guys.json](./368117-gay-guys.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goddess Paradise | 369768 | [369768-goddess-paradise.json](./369768-goddess-paradise.json) |
 | Goddess Scroll: Brave Star | 396211 | [396211-goddess-scroll-brave-star.json](./396211-goddess-scroll-brave-star.json) |
 | Goddess Scroll: The Last Starlight | 344407 | [344407-goddess-scroll-the-last-starlight.json](./344407-goddess-scroll-the-last-starlight.json) |
+| Godessess' Whim | 336944 | [336944-godessess-whim.json](./336944-godessess-whim.json) |
 | Godfall: Ascended Edition | 139946 | [139946-godfall-ascended-edition.json](./139946-godfall-ascended-edition.json) |
 | Godfall: Challenger Edition | 185638 | [185638-godfall-challenger-edition.json](./185638-godfall-challenger-edition.json) |
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
@@ -6986,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groovin' Blocks | 4898 | [4898-groovin-blocks.json](./4898-groovin-blocks.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
+| Groovy Labs | 336861 | [336861-groovy-labs.json](./336861-groovy-labs.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
 | Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
