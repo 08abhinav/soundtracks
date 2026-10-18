@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
+| Babette | 318874 | [318874-babette.json](./318874-babette.json) |
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
 | Babies vs. Monsters | 304174 | [304174-babies-vs-monsters.json](./304174-babies-vs-monsters.json) |
 | Babka | 343254 | [343254-babka.json](./343254-babka.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bam | 394448 | [394448-banana-bam.json](./394448-banana-bam.json) |
 | Banana Barrage | 341462 | [341462-banana-barrage.json](./341462-banana-barrage.json) |
 | Banana Bliss: Jungle Puzzles | 23515 | [23515-banana-bliss-jungle-puzzles.json](./23515-banana-bliss-jungle-puzzles.json) |
+| Banana Blitz | 318837 | [318837-banana-blitz.json](./318837-banana-blitz.json) |
 | Banana Boat | 284442 | [284442-banana-boat.json](./284442-banana-boat.json) |
 | Banana Boat Water Speed Race | 107071 | [107071-banana-boat-water-speed-race.json](./107071-banana-boat-water-speed-race.json) |
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
