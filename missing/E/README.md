@@ -3712,6 +3712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Sharptooth Valley | 319159 | [319159-escape-from-sharptooth-valley.json](./319159-escape-from-sharptooth-valley.json) |
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
+| Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
 | Escape From Sunveil Starport | 299430 | [299430-escape-from-sunveil-starport.json](./299430-escape-from-sunveil-starport.json) |
 | Escape from Tarkan | 389051 | [389051-escape-from-tarkan.json](./389051-escape-from-tarkan.json) |
 | Escape from Tarkov: Bear - Arktika | 399106 | [399106-escape-from-tarkov-bear-arktika.json](./399106-escape-from-tarkov-bear-arktika.json) |
