@@ -1902,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaleton | 284414 | [284414-scaleton.json](./284414-scaleton.json) |
 | Scalextric | 103556 | [103556-scalextric.json](./103556-scalextric.json) |
 | Scalextric: The Computer Edition | 13032 | [13032-scalextric-the-computer-edition.json](./13032-scalextric-the-computer-edition.json) |
+| Scaling the Scale | 318822 | [318822-scaling-the-scale.json](./318822-scaling-the-scale.json) |
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
@@ -6121,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force: The Sword of Hajya | 46360 | [46360-shining-force-the-sword-of-hajya.json](./46360-shining-force-the-sword-of-hajya.json) |
 | Shining Girls | 292623 | [292623-shining-girls.json](./292623-shining-girls.json) |
 | Shining Hearts | 66402 | [66402-shining-hearts.json](./66402-shining-hearts.json) |
+| Shining Hero | 318873 | [318873-shining-hero.json](./318873-shining-hero.json) |
 | Shining Hotel: Lost in Nowhere | 102364 | [102364-shining-hotel-lost-in-nowhere.json](./102364-shining-hotel-lost-in-nowhere.json) |
 | Shining in the Darkness | 9406 | [9406-shining-in-the-darkness.json](./9406-shining-in-the-darkness.json) |
 | Shining Jump Jump | 204935 | [204935-shining-jump-jump.json](./204935-shining-jump-jump.json) |
@@ -19750,6 +19752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Rider | 125842 | [125842-storm-rider.json](./125842-storm-rider.json) |
 | Storm Settlers | 353912 | [353912-storm-settlers.json](./353912-storm-settlers.json) |
 | Storm Sharks | 53675 | [53675-storm-sharks.json](./53675-storm-sharks.json) |
+| Storm Shelter | 318827 | [318827-storm-shelter.json](./318827-storm-shelter.json) |
 | Storm Storm | 297582 | [297582-storm-storm.json](./297582-storm-storm.json) |
 | Storm Striker | 260307 | [260307-storm-striker.json](./260307-storm-striker.json) |
 | Storm Strikers | 124746 | [124746-storm-strikers.json](./124746-storm-strikers.json) |
@@ -22964,6 +22967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
 | Super Mario Bros: Dual Dash | 320158 | [320158-super-mario-bros-dual-dash.json](./320158-super-mario-bros-dual-dash.json) |
+| Super Mario Bros: Hello | 318863 | [318863-super-mario-bros-hello.json](./318863-super-mario-bros-hello.json) |
 | Super Mario Bros: Impending Doom | 336103 | [336103-super-mario-bros-impending-doom.json](./336103-super-mario-bros-impending-doom.json) |
 | Super Mario Bros: Merry Mountain Christmas Adventure - SMW Christmas Edition V3.0 | 229679 | [229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json](./229679-super-mario-bros-merry-mountain-christmas-adventure-smw-christmas-edition-v3-0.json) |
 | Super Mario Bros: Mythical Mushrooms | 320224 | [320224-super-mario-bros-mythical-mushrooms.json](./320224-super-mario-bros-mythical-mushrooms.json) |
@@ -23084,6 +23088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
+| Super Mario Greetings | 318865 | [318865-super-mario-greetings.json](./318865-super-mario-greetings.json) |
 | Super Mario Halloween Madness | 375570 | [375570-super-mario-halloween-madness.json](./375570-super-mario-halloween-madness.json) |
 | Super Mario Heardle | 203826 | [203826-super-mario-heardle.json](./203826-super-mario-heardle.json) |
 | Super Mario Holidays | 318553 | [318553-super-mario-holidays.json](./318553-super-mario-holidays.json) |
