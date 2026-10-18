@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
 | Labyrinth of Touhou Tri: The Dreaming Girls & The Mysterious Orbs | 319083 | [319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json](./319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json) |
 | Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
+| Labyrinth of Wild Abyss: LayeRedux | 327673 | [327673-labyrinth-of-wild-abyss-layeredux.json](./327673-labyrinth-of-wild-abyss-layeredux.json) |
 | Labyrinth of Zangetsu: Adventure Academia - The Fractured Continent Collab: Additional Characters Pack | 246643 | [246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json](./246643-labyrinth-of-zangetsu-adventure-academia-the-fractured-continent-collab-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Beat Collaboration - Additional Characters Pack | 246642 | [246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json](./246642-labyrinth-of-zangetsu-akibas-beat-collaboration-additional-characters-pack.json) |
 | Labyrinth of Zangetsu: Akiba's Trip Collaboration - Additional Characters Pack | 246641 | [246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json](./246641-labyrinth-of-zangetsu-akibas-trip-collaboration-additional-characters-pack.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
+| Legion Defense | 327633 | [327633-legion-defense.json](./327633-legion-defense.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
 | Legion Fall | 184847 | [184847-legion-fall.json](./184847-legion-fall.json) |
 | Legion Gold | 125180 | [125180-legion-gold.json](./125180-legion-gold.json) |
@@ -3771,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Point | 330566 | [330566-liminal-point.json](./330566-liminal-point.json) |
 | Liminal Ranger | 146770 | [146770-liminal-ranger.json](./146770-liminal-ranger.json) |
 | Liminal Salvation | 358996 | [358996-liminal-salvation.json](./358996-liminal-salvation.json) |
+| Liminal Shift | 327676 | [327676-liminal-shift.json](./327676-liminal-shift.json) |
 | Liminal Shroud | 321405 | [321405-liminal-shroud.json](./321405-liminal-shroud.json) |
 | Liminal Sick Pizza Blue | 398480 | [398480-liminal-sick-pizza-blue.json](./398480-liminal-sick-pizza-blue.json) |
 | Liminal Skies | 364244 | [364244-liminal-skies.json](./364244-liminal-skies.json) |
@@ -3925,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingkaran | 345421 | [345421-lingkaran.json](./345421-lingkaran.json) |
 | Lingo | 189169 | [189169-lingo.json](./189169-lingo.json) |
 | Lingo | 341915 | [341915-lingo.json](./341915-lingo.json) |
+| Lingo 2 | 327669 | [327669-lingo-2.json](./327669-lingo-2.json) |
 | Lingo Deluxe | 327319 | [327319-lingo-deluxe.json](./327319-lingo-deluxe.json) |
 | Lingo Legend | 198258 | [198258-lingo-legend.json](./198258-lingo-legend.json) |
 | Lingo met Lucille Werner | 327317 | [327317-lingo-met-lucille-werner.json](./327317-lingo-met-lucille-werner.json) |
@@ -5088,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
 | LOLCat Escape | 338932 | [338932-lolcat-escape.json](./338932-lolcat-escape.json) |
+| LoLdle | 327637 | [327637-loldle.json](./327637-loldle.json) |
 | Loli Racing | 292291 | [292291-loli-racing.json](./292291-loli-racing.json) |
 | Lolita 2 | 66128 | [66128-lolita-2.json](./66128-lolita-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
