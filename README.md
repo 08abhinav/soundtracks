@@ -79,6 +79,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27355434993dfd3bf621afd1f2e" width="60" /> | [Aliens: Fireteam Elite](https://ostdb.net/games/aliens-fireteam-elite) | **Aliens: Fireteam Elite (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/6mClqOcembIZ7ZhTvZ8XdW) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e379f121f1850f6ec865a652" width="60" /> | [Alto's Adventure](https://ostdb.net/games/altos-adventure) | **Alto's Adventure (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/3xMvldPr64mzsbc7cXcZEU) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27303b760734b101aaac1c73abb" width="60" /> | [Alto's Odyssey](https://ostdb.net/games/altos-odyssey) | **Alto's Odyssey (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6cSKoN9FYxH3tRfM6AkAKE) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273d7eada37592427566001c3f9" width="60" /> | [Alwa's Awakening](https://ostdb.net/games/alwas-awakening) | **Alwa's Awakening Original Soundtrack** · [Spotify](https://open.spotify.com/album/1jmsSLXsZ5CplSwC8ks11g) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738486dc338d13962a9066fb6f" width="60" /> | [Amanda the Adventurer](https://ostdb.net/games/amanda-the-adventurer) | **Amanda the Adventurer (Official Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4J19gCElJlAkLRFCquUSfK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8bc078dc384fb1331c873c6" width="60" /> | [Amid Evil](https://ostdb.net/games/amid-evil) | **Amid Evil (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/28gQZQwcBWDcRLELHBvDqA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27361372a875ec8c254f6046870" width="60" /> | [Amnesia: A Machine for Pigs](https://ostdb.net/games/amnesia-a-machine-for-pigs) | **Amnesia: A Machine for Pigs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/13A78JSddJrfblPkMdXND2) |
@@ -1825,4 +1826,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2142 soundtracks · last updated 2026-10-18T08:01:03.612Z_
+_2143 soundtracks · last updated 2026-10-18T08:05:25.926Z_
