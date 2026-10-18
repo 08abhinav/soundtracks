@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:35:25.693Z",
-  "total_soundtracks": 2157,
+  "generated_at": "2026-10-18T08:35:33.300Z",
+  "total_soundtracks": 2158,
   "games": [
     {
       "igdb_id": 7522,
@@ -6200,6 +6200,20 @@
           "album_name": "The Dark Pictures Anthology: Directive 8020 (Original Soundtrack)",
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-dark-pictures-anthology-directive-8020-original/6771017114?uo=4",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 131614,
+      "game_name": "Disc Room",
+      "game_url": "https://ostdb.net/games/disc-room",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0ecb7424b37dbf5edea945d",
+      "albums": [
+        {
+          "album_name": "Disc Room (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2VuR2gfy6eTqbYQSSyrlMY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
