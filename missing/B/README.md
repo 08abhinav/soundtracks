@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of the Judgment Night | 180542 | [180542-ballad-of-the-judgment-night.json](./180542-ballad-of-the-judgment-night.json) |
 | Ballad of the Masked Bandits | 132255 | [132255-ballad-of-the-masked-bandits.json](./132255-ballad-of-the-masked-bandits.json) |
 | Ballad of the Space Whale | 181841 | [181841-ballad-of-the-space-whale.json](./181841-ballad-of-the-space-whale.json) |
+| Ballad of Violence | 361001 | [361001-ballad-of-violence.json](./361001-ballad-of-violence.json) |
 | Ballad: As the Music Goes | 351790 | [351790-ballad-as-the-music-goes.json](./351790-ballad-as-the-music-goes.json) |
 | Ballade For Maria | 71563 | [71563-ballade-for-maria.json](./71563-ballade-for-maria.json) |
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
+| Bion Clash | 361009 | [361009-bion-clash.json](./361009-bion-clash.json) |
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Battle Mutants | 74990 | [74990-bionic-battle-mutants.json](./74990-bionic-battle-mutants.json) |
 | Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
@@ -11883,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug on a Wire | 273577 | [273577-bug-on-a-wire.json](./273577-bug-on-a-wire.json) |
 | Bug Out! | 206692 | [206692-bug-out.json](./206692-bug-out.json) |
 | Bug Quest | 287641 | [287641-bug-quest.json](./287641-bug-quest.json) |
+| Bug Race | 360923 | [360923-bug-race.json](./360923-bug-race.json) |
 | Bug Riders | 277929 | [277929-bug-riders.json](./277929-bug-riders.json) |
 | Bug Simulator | 137352 | [137352-bug-simulator.json](./137352-bug-simulator.json) |
 | Bug Splatt | 104807 | [104807-bug-splatt.json](./104807-bug-splatt.json) |
