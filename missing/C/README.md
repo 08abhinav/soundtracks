@@ -3884,13 +3884,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
+| Chained Heroes | 322435 | [322435-chained-heroes.json](./322435-chained-heroes.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
+| Chained in Hell | 322434 | [322434-chained-in-hell.json](./322434-chained-in-hell.json) |
 | Chained in the Backrooms | 319684 | [319684-chained-in-the-backrooms.json](./319684-chained-in-the-backrooms.json) |
 | Chained Runes | 303077 | [303077-chained-runes.json](./303077-chained-runes.json) |
 | Chained Sun | 382293 | [382293-chained-sun.json](./382293-chained-sun.json) |
 | Chained Survive Together | 320375 | [320375-chained-survive-together.json](./320375-chained-survive-together.json) |
 | Chained Through Hell | 324983 | [324983-chained-through-hell.json](./324983-chained-through-hell.json) |
 | Chained Together | 265111 | [265111-chained-together.json](./265111-chained-together.json) |
+| Chained Towards Heaven | 322433 | [322433-chained-towards-heaven.json](./322433-chained-towards-heaven.json) |
 | Chained Up Together | 335967 | [335967-chained-up-together.json](./335967-chained-up-together.json) |
 | Chained Wheels | 386507 | [386507-chained-wheels.json](./386507-chained-wheels.json) |
 | Chainer | 350062 | [350062-chainer.json](./350062-chainer.json) |
@@ -7769,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
+| Clutter 14 | 322436 | [322436-clutter-14.json](./322436-clutter-14.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
 | Clutter 19: Survey Says What? - Collector's Edition | 416781 | [416781-clutter-19-survey-says-what-collectors-edition.json](./416781-clutter-19-survey-says-what-collectors-edition.json) |
@@ -9763,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest of the New World: Deluxe Edition | 2616 | [2616-conquest-of-the-new-world-deluxe-edition.json](./2616-conquest-of-the-new-world-deluxe-edition.json) |
 | Conquest of the Realms | 422488 | [422488-conquest-of-the-realms.json](./422488-conquest-of-the-realms.json) |
 | Conquest of the World | 47293 | [47293-conquest-of-the-world.json](./47293-conquest-of-the-world.json) |
+| Conquest Tactics: Realm of Sin | 322448 | [322448-conquest-tactics-realm-of-sin.json](./322448-conquest-tactics-realm-of-sin.json) |
 | Conquest: Global Domination | 411737 | [411737-conquest-global-domination.json](./411737-conquest-global-domination.json) |
 | Conquest: Medieval Kingdoms | 147368 | [147368-conquest-medieval-kingdoms.json](./147368-conquest-medieval-kingdoms.json) |
 | Conquest! | 19120 | [19120-conquest.json](./19120-conquest.json) |
@@ -13816,6 +13821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Ninja | 6754 | [6754-cubic-ninja.json](./6754-cubic-ninja.json) |
 | Cubic Odyssey | 329371 | [329371-cubic-odyssey.json](./329371-cubic-odyssey.json) |
 | Cubic Parking | 221332 | [221332-cubic-parking.json](./221332-cubic-parking.json) |
+| Cubic Run | 322428 | [322428-cubic-run.json](./322428-cubic-run.json) |
 | Cubic Snake | 184388 | [184388-cubic-snake.json](./184388-cubic-snake.json) |
 | Cubic Spree | 376862 | [376862-cubic-spree.json](./376862-cubic-spree.json) |
 | Cubic Survivor | 255962 | [255962-cubic-survivor.json](./255962-cubic-survivor.json) |
