@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderdawn | 407164 | [407164-wanderdawn.json](./407164-wanderdawn.json) |
 | Wanderer | 185082 | [185082-wanderer.json](./185082-wanderer.json) |
 | Wanderer | 205582 | [205582-wanderer.json](./205582-wanderer.json) |
+| Wanderer | 349715 | [349715-wanderer.json](./349715-wanderer.json) |
 | Wanderer | 36866 | [36866-wanderer.json](./36866-wanderer.json) |
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
