@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Night | 258952 | [258952-re-night.json](./258952-re-night.json) |
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
+| Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
 | Re:Spite | 107644 | [107644-re-spite.json](./107644-re-spite.json) |
 | Re:Take | 151802 | [151802-re-take.json](./151802-re-take.json) |
@@ -6610,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Bottom | 184982 | [184982-rock-bottom.json](./184982-rock-bottom.json) |
 | Rock Bottom | 304339 | [304339-rock-bottom.json](./304339-rock-bottom.json) |
 | Rock Bottom | 385364 | [385364-rock-bottom.json](./385364-rock-bottom.json) |
+| Rock Challenge | 358735 | [358735-rock-challenge.json](./358735-rock-challenge.json) |
 | Rock Clicker | 373841 | [373841-rock-clicker.json](./373841-rock-clicker.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
@@ -7998,6 +8000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotatex 2 | 149718 | [149718-rotatex-2.json](./149718-rotatex-2.json) |
 | Rotatex 3 | 236898 | [236898-rotatex-3.json](./236898-rotatex-3.json) |
 | Rotating Bones | 188010 | [188010-rotating-bones.json](./188010-rotating-bones.json) |
+| Rotating Puzzle | 358736 | [358736-rotating-puzzle.json](./358736-rotating-puzzle.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
