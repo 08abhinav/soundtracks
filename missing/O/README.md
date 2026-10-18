@@ -223,6 +223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsessive Love Adventure Utsuro's Diary | 151680 | [151680-obsessive-love-adventure-utsuros-diary.json](./151680-obsessive-love-adventure-utsuros-diary.json) |
 | Obsidian Conflict | 142407 | [142407-obsidian-conflict.json](./142407-obsidian-conflict.json) |
 | Obsidian Crown | 124164 | [124164-obsidian-crown.json](./124164-obsidian-crown.json) |
+| Obsidian Moon | 357005 | [357005-obsidian-moon.json](./357005-obsidian-moon.json) |
 | Obsidienne | 185120 | [185120-obsidienne.json](./185120-obsidienne.json) |
 | Obsolete | 142804 | [142804-obsolete.json](./142804-obsolete.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
@@ -1702,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Line: Connect the Dots | 207811 | [207811-one-line-connect-the-dots.json](./207811-one-line-connect-the-dots.json) |
 | One Line: Letters and Codes | 192789 | [192789-one-line-letters-and-codes.json](./192789-one-line-letters-and-codes.json) |
 | One Little Ghost | 279733 | [279733-one-little-ghost.json](./279733-one-little-ghost.json) |
+| One Lonely Outpost + Echoes of the Plum Grove | 357022 | [357022-one-lonely-outpost-echoes-of-the-plum-grove.json](./357022-one-lonely-outpost-echoes-of-the-plum-grove.json) |
 | One Man and His Dinosaur | 396430 | [396430-one-man-and-his-dinosaur.json](./396430-one-man-and-his-dinosaur.json) |
 | One Man and His Droid | 12958 | [12958-one-man-and-his-droid.json](./12958-one-man-and-his-droid.json) |
 | One Man Army | 402565 | [402565-one-man-army.json](./402565-one-man-army.json) |
