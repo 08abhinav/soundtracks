@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T09:20:26.159Z",
-  "total_soundtracks": 2185,
+  "generated_at": "2026-10-18T09:20:34.248Z",
+  "total_soundtracks": 2186,
   "games": [
     {
       "igdb_id": 7522,
@@ -12269,6 +12269,20 @@
         {
           "album_name": "L.A. Noire Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5dyl44qERg1juDIdkFsYYF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 146088,
+      "game_name": "Laika: Aged Through Blood",
+      "game_url": "https://ostdb.net/games/laika-aged-through-blood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f2b7d3d186d76671b9b193f3",
+      "albums": [
+        {
+          "album_name": "LAIKA: Aged Through Blood (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3dQQAi7HumuMD2TL3Ky7t4",
           "apple_music_url": "",
           "album_link_url": ""
         }
