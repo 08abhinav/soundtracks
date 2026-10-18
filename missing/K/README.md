@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyushu Jade | 128314 | [128314-kyushu-jade.json](./128314-kyushu-jade.json) |
 | Kyuuketsu Hime Yui: Senyashou | 393601 | [393601-kyuuketsu-hime-yui-senyashou.json](./393601-kyuuketsu-hime-yui-senyashou.json) |
 | Kyuuketsu Kitan Moonties | 413932 | [413932-kyuuketsu-kitan-moonties.json](./413932-kyuuketsu-kitan-moonties.json) |
+| Kyuukyoku Harikiri Koushien | 315336 | [315336-kyuukyoku-harikiri-koushien.json](./315336-kyuukyoku-harikiri-koushien.json) |
 | Kyuukyoku Harikiri Stadium | 48309 | [48309-kyuukyoku-harikiri-stadium.json](./48309-kyuukyoku-harikiri-stadium.json) |
 | Kyuukyoku Harikiri Stadium '88 Senshuu Shin Data | 48311 | [48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json](./48311-kyuukyoku-harikiri-stadium-88-senshuu-shin-data.json) |
 | Kyuukyoku Harikiri Stadium III | 48310 | [48310-kyuukyoku-harikiri-stadium-iii.json](./48310-kyuukyoku-harikiri-stadium-iii.json) |
