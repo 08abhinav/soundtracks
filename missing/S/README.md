@@ -10194,7 +10194,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Soldiers: Globotech Design Lab | 14594 | [14594-small-soldiers-globotech-design-lab.json](./14594-small-soldiers-globotech-design-lab.json) |
 | Small Soldiers: Hand to Hand Combat Game | 245408 | [245408-small-soldiers-hand-to-hand-combat-game.json](./245408-small-soldiers-hand-to-hand-combat-game.json) |
 | Small Spaces | 318506 | [318506-small-spaces.json](./318506-small-spaces.json) |
+| Small Super Mario Bros. U | 314107 | [314107-small-super-mario-bros-u.json](./314107-small-super-mario-bros-u.json) |
+| Small Super Mario Bros. U 2 | 314109 | [314109-small-super-mario-bros-u-2.json](./314109-small-super-mario-bros-u-2.json) |
 | Small Super Mario Bros. U Deluxe | 256808 | [256808-small-super-mario-bros-u-deluxe.json](./256808-small-super-mario-bros-u-deluxe.json) |
+| Small Super Mario Universe | 314121 | [314121-small-super-mario-universe.json](./314121-small-super-mario-universe.json) |
 | Small Tank | 255017 | [255017-small-tank.json](./255017-small-tank.json) |
 | Small Town Detective | 236333 | [236333-small-town-detective.json](./236333-small-town-detective.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
@@ -22985,11 +22988,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Advance 4: Super Mario Bros. 3-e - Series 2 | 241033 | [241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json](./241033-super-mario-advance-4-super-mario-bros-3-e-series-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Treacherous Halls | 241027 | [241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json](./241027-super-mario-advance-4-super-mario-bros-3-e-treacherous-halls.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Vexing Doors | 241017 | [241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json](./241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json) |
+| Super Mario Adventure | 314117 | [314117-super-mario-adventure.json](./314117-super-mario-adventure.json) |
+| Super Mario Aftermath | 314128 | [314128-super-mario-aftermath.json](./314128-super-mario-aftermath.json) |
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario All-Stars NES | 372201 | [372201-super-mario-all-stars-nes.json](./372201-super-mario-all-stars-nes.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
 | Super Mario All-Stars++ | 323589 | [323589-super-mario-all-stars.json](./323589-super-mario-all-stars.json) |
+| Super Mario and the Cliffs of Spring | 314118 | [314118-super-mario-and-the-cliffs-of-spring.json](./314118-super-mario-and-the-cliffs-of-spring.json) |
 | Super Mario and the Cosmic Catalyst | 336107 | [336107-super-mario-and-the-cosmic-catalyst.json](./336107-super-mario-and-the-cosmic-catalyst.json) |
+| Super Mario and the Crystal Crescents | 314106 | [314106-super-mario-and-the-crystal-crescents.json](./314106-super-mario-and-the-crystal-crescents.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
 | Super Mario and the Koopa Power | 358441 | [358441-super-mario-and-the-koopa-power.json](./358441-super-mario-and-the-koopa-power.json) |
 | Super Mario and the Marvel Adventure | 135178 | [135178-super-mario-and-the-marvel-adventure.json](./135178-super-mario-and-the-marvel-adventure.json) |
@@ -23052,6 +23059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. Dimensions | 134074 | [134074-super-mario-bros-dimensions.json](./134074-super-mario-bros-dimensions.json) |
 | Super Mario Bros. Dimensions 2 | 134959 | [134959-super-mario-bros-dimensions-2.json](./134959-super-mario-bros-dimensions-2.json) |
 | Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
+| Super Mario Bros. Extreme Adventure | 314104 | [314104-super-mario-bros-extreme-adventure.json](./314104-super-mario-bros-extreme-adventure.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
@@ -23089,6 +23097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
 | Super Mario Buys Bread | 370294 | [370294-super-mario-buys-bread.json](./370294-super-mario-buys-bread.json) |
 | Super Mario Castle 2 | 255603 | [255603-super-mario-castle-2.json](./255603-super-mario-castle-2.json) |
+| Super Mario Castle 3 | 314125 | [314125-super-mario-castle-3.json](./314125-super-mario-castle-3.json) |
 | Super Mario Chronicles | 323870 | [323870-super-mario-chronicles.json](./323870-super-mario-chronicles.json) |
 | Super Mario Classic: Return | 324086 | [324086-super-mario-classic-return.json](./324086-super-mario-classic-return.json) |
 | Super Mario Cloudy Cliffs | 394341 | [394341-super-mario-cloudy-cliffs.json](./394341-super-mario-cloudy-cliffs.json) |
@@ -23110,6 +23119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Flash 2 | 183605 | [183605-super-mario-flash-2.json](./183605-super-mario-flash-2.json) |
 | Super Mario Flash 2: SMW Remake | 198502 | [198502-super-mario-flash-2-smw-remake.json](./198502-super-mario-flash-2-smw-remake.json) |
 | Super Mario Flashback | 134075 | [134075-super-mario-flashback.json](./134075-super-mario-flashback.json) |
+| Super Mario Freezeflame Nightmare | 314100 | [314100-super-mario-freezeflame-nightmare.json](./314100-super-mario-freezeflame-nightmare.json) |
 | Super Mario Funny RPG | 307713 | [307713-super-mario-funny-rpg.json](./307713-super-mario-funny-rpg.json) |
 | Super Mario Fusion: Revival | 322786 | [322786-super-mario-fusion-revival.json](./322786-super-mario-fusion-revival.json) |
 | Super Mario FX | 257524 | [257524-super-mario-fx.json](./257524-super-mario-fx.json) |
@@ -23131,6 +23141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Generations | 318549 | [318549-super-mario-generations.json](./318549-super-mario-generations.json) |
 | Super Mario Golden Hour | 394337 | [394337-super-mario-golden-hour.json](./394337-super-mario-golden-hour.json) |
 | Super Mario Gravity | 213948 | [213948-super-mario-gravity.json](./213948-super-mario-gravity.json) |
+| Super Mario Green Star Groove | 314098 | [314098-super-mario-green-star-groove.json](./314098-super-mario-green-star-groove.json) |
 | Super Mario Greetings | 318865 | [318865-super-mario-greetings.json](./318865-super-mario-greetings.json) |
 | Super Mario Halloween Madness | 375570 | [375570-super-mario-halloween-madness.json](./375570-super-mario-halloween-madness.json) |
 | Super Mario Heardle | 203826 | [203826-super-mario-heardle.json](./203826-super-mario-heardle.json) |
@@ -23143,6 +23154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
 | Super Mario Insanity | 323028 | [323028-super-mario-insanity.json](./323028-super-mario-insanity.json) |
+| Super Mario Japan Vacation | 314129 | [314129-super-mario-japan-vacation.json](./314129-super-mario-japan-vacation.json) |
 | Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
 | Super Mario Journey Lane | 281017 | [281017-super-mario-journey-lane.json](./281017-super-mario-journey-lane.json) |
 | Super Mario Journey to Infinity | 313107 | [313107-super-mario-journey-to-infinity.json](./313107-super-mario-journey-to-infinity.json) |
@@ -23181,6 +23193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
 | Super Mario Meltdown | 313408 | [313408-super-mario-meltdown.json](./313408-super-mario-meltdown.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
+| Super Mario Mountain Mania | 314114 | [314114-super-mario-mountain-mania.json](./314114-super-mario-mountain-mania.json) |
 | Super Mario Nation | 381728 | [381728-super-mario-nation.json](./381728-super-mario-nation.json) |
 | Super Mario Nightfall | 313420 | [313420-super-mario-nightfall.json](./313420-super-mario-nightfall.json) |
 | Super Mario Odyssey 64 | 132640 | [132640-super-mario-odyssey-64.json](./132640-super-mario-odyssey-64.json) |
@@ -23217,6 +23230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Senseless Delirium | 199032 | [199032-super-mario-senseless-delirium.json](./199032-super-mario-senseless-delirium.json) |
 | Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
+| Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
@@ -23239,8 +23253,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario the Nightshift | 324006 | [324006-super-mario-the-nightshift.json](./324006-super-mario-the-nightshift.json) |
 | Super Mario Ticks of Time | 323582 | [323582-super-mario-ticks-of-time.json](./323582-super-mario-ticks-of-time.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
+| Super Mario Toxic Tension | 314110 | [314110-super-mario-toxic-tension.json](./314110-super-mario-toxic-tension.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
+| Super Mario Universe | 314115 | [314115-super-mario-universe.json](./314115-super-mario-universe.json) |
 | Super Mario Unlimited Deluxe | 256778 | [256778-super-mario-unlimited-deluxe.json](./256778-super-mario-unlimited-deluxe.json) |
 | Super Mario War | 305742 | [305742-super-mario-war.json](./305742-super-mario-war.json) |
 | Super Mario War | 87815 | [87815-super-mario-war.json](./87815-super-mario-war.json) |
@@ -23289,6 +23305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Blue Twilight | 330332 | [330332-super-mario-blue-twilight.json](./330332-super-mario-blue-twilight.json) |
 | Super Mario: Bob-omb Blast | 313419 | [313419-super-mario-bob-omb-blast.json](./313419-super-mario-bob-omb-blast.json) |
 | Super Mario: Christmas Season | 268396 | [268396-super-mario-christmas-season.json](./268396-super-mario-christmas-season.json) |
+| Super Mario: Dark Depths | 314105 | [314105-super-mario-dark-depths.json](./314105-super-mario-dark-depths.json) |
 | Super Mario: Endless Earth | 135177 | [135177-super-mario-endless-earth.json](./135177-super-mario-endless-earth.json) |
 | Super Mario: Fushigi no Janjanland | 230171 | [230171-super-mario-fushigi-no-janjanland.json](./230171-super-mario-fushigi-no-janjanland.json) |
 | Super Mario: Fushigi no Koro-koro Party | 132033 | [132033-super-mario-fushigi-no-koro-koro-party.json](./132033-super-mario-fushigi-no-koro-koro-party.json) |
