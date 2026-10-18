@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1: My Little Baby + My Boyfriend | 269533 | [269533-2-in-1-my-little-baby-my-boyfriend.json](./269533-2-in-1-my-little-baby-my-boyfriend.json) |
 | 2 in 1: My Riding Stables + My Riding Stables: Life with Horses | 269534 | [269534-2-in-1-my-riding-stables-my-riding-stables-life-with-horses.json](./269534-2-in-1-my-riding-stables-my-riding-stables-life-with-horses.json) |
 | 2 in 1: Trash Punk & Food Truck Tycoon | 325019 | [325019-2-in-1-trash-punk-and-food-truck-tycoon.json](./325019-2-in-1-trash-punk-and-food-truck-tycoon.json) |
+| 2 in 1: Trash Punk & Knights and Guns | 324187 | [324187-2-in-1-trash-punk-and-knights-and-guns.json](./324187-2-in-1-trash-punk-and-knights-and-guns.json) |
 | 2 in 1: Trash Punk & Moto Rush GT | 328576 | [328576-2-in-1-trash-punk-and-moto-rush-gt.json](./328576-2-in-1-trash-punk-and-moto-rush-gt.json) |
 | 2 in 1: Trash Punk & S.N.I.P.E.R - Hunter Scope | 328577 | [328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json](./328577-2-in-1-trash-punk-and-s-n-i-p-e-r-hunter-scope.json) |
 | 2 in 1: Trash Punk & Urban Flow | 328578 | [328578-2-in-1-trash-punk-and-urban-flow.json](./328578-2-in-1-trash-punk-and-urban-flow.json) |
