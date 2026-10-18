@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Have a Frog Problem | 228997 | [228997-we-have-a-frog-problem.json](./228997-we-have-a-frog-problem.json) |
 | We Have Doom at Home | 361303 | [361303-we-have-doom-at-home.json](./361303-we-have-doom-at-home.json) |
 | We Have Evangelion at Home | 363911 | [363911-we-have-evangelion-at-home.json](./363911-we-have-evangelion-at-home.json) |
+| We Have To Let You Go | 350779 | [350779-we-have-to-let-you-go.json](./350779-we-have-to-let-you-go.json) |
 | We Heist Too | 304885 | [304885-we-heist-too.json](./304885-we-heist-too.json) |
 | We Hunt Them in the Dark | 356693 | [356693-we-hunt-them-in-the-dark.json](./356693-we-hunt-them-in-the-dark.json) |
 | We Interns | 357252 | [357252-we-interns.json](./357252-we-interns.json) |
