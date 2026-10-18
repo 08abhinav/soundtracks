@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangan Shisen-sho | 206357 | [206357-mangan-shisen-sho.json](./206357-mangan-shisen-sho.json) |
 | Mangata | 184048 | [184048-mangata.json](./184048-mangata.json) |
 | Mangavania | 141492 | [141492-mangavania.json](./141492-mangavania.json) |
+| Mangavania 2 | 312979 | [312979-mangavania-2.json](./312979-mangavania-2.json) |
 | Mangchi | 39591 | [39591-mangchi.json](./39591-mangchi.json) |
 | Mangchi the Hammer Boy | 240178 | [240178-mangchi-the-hammer-boy.json](./240178-mangchi-the-hammer-boy.json) |
 | Mangetsu no Yume | 282512 | [282512-mangetsu-no-yume.json](./282512-mangetsu-no-yume.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
+| Marble Hill | 312995 | [312995-marble-hill.json](./312995-marble-hill.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble Jetpack | 26720 | [26720-marble-jetpack.json](./26720-marble-jetpack.json) |
 | Marble Knights | 141143 | [141143-marble-knights.json](./141143-marble-knights.json) |
@@ -2561,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
+| MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
@@ -6674,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
 | Meowker: Desktop Cat Companion | 396494 | [396494-meowker-desktop-cat-companion.json](./396494-meowker-desktop-cat-companion.json) |
 | MeowMatch | 283724 | [283724-meowmatch.json](./283724-meowmatch.json) |
+| Meowmentum | 312984 | [312984-meowmentum.json](./312984-meowmentum.json) |
 | Meowmewbug | 370151 | [370151-meowmewbug.json](./370151-meowmewbug.json) |
 | Meowmories | 406918 | [406918-meowmories.json](./406918-meowmories.json) |
 | Meown | 348265 | [348265-meown.json](./348265-meown.json) |
