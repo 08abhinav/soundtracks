@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
 | Odd Bot Out | 58292 | [58292-odd-bot-out.json](./58292-odd-bot-out.json) |
 | Odd Card Out | 360924 | [360924-odd-card-out.json](./360924-odd-card-out.json) |
+| Odd Color Out | 315937 | [315937-odd-color-out.json](./315937-odd-color-out.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
@@ -742,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Night Racing | 193301 | [193301-offroad-night-racing.json](./193301-offroad-night-racing.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
+| Offroad Quest Simulator | 315906 | [315906-offroad-quest-simulator.json](./315906-offroad-quest-simulator.json) |
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
 | Offroad Racing | 221416 | [221416-offroad-racing.json](./221416-offroad-racing.json) |
 | Offroad Racing on Line | 172161 | [172161-offroad-racing-on-line.json](./172161-offroad-racing-on-line.json) |
@@ -1144,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympians: Darius | 411128 | [411128-olympians-darius.json](./411128-olympians-darius.json) |
+| Olympic 2024 Journey | 315925 | [315925-olympic-2024-journey.json](./315925-olympic-2024-journey.json) |
 | Olympic Basketball | 147463 | [147463-olympic-basketball.json](./147463-olympic-basketball.json) |
 | Olympic Boxing | 147751 | [147751-olympic-boxing.json](./147751-olympic-boxing.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
