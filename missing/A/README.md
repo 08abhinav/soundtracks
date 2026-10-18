@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
 | A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
+| A Journey Through Shadow, to Reach the Light. | 350292 | [350292-a-journey-through-shadow-to-reach-the-light.json](./350292-a-journey-through-shadow-to-reach-the-light.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
 | A Journey Together | 261810 | [261810-a-journey-together.json](./261810-a-journey-together.json) |
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
@@ -1273,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
 | Abduct 'em | 392218 | [392218-abduct-em.json](./392218-abduct-em.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
+| Abducted | 350206 | [350206-abducted.json](./350206-abducted.json) |
 | Abducted Toad | 135096 | [135096-abducted-toad.json](./135096-abducted-toad.json) |
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
@@ -2775,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeternoBlade | 52034 | [52034-aeternoblade.json](./52034-aeternoblade.json) |
 | AeternoBlade II | 28079 | [28079-aeternoblade-ii.json](./28079-aeternoblade-ii.json) |
 | AeternoBlade II: Infinity | 285602 | [285602-aeternoblade-ii-infinity.json](./285602-aeternoblade-ii-infinity.json) |
+| Aeternum Grand Plaza | 350210 | [350210-aeternum-grand-plaza.json](./350210-aeternum-grand-plaza.json) |
 | Aeternum Quest | 181100 | [181100-aeternum-quest.json](./181100-aeternum-quest.json) |
 | Aethelgard: Galactic Guardian | 404804 | [404804-aethelgard-galactic-guardian.json](./404804-aethelgard-galactic-guardian.json) |
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
@@ -10059,6 +10062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowscapes: Arrows Puzzle | 392368 | [392368-arrowscapes-arrows-puzzle.json](./392368-arrowscapes-arrows-puzzle.json) |
 | Arrrrrr! | 72310 | [72310-arrrrrr.json](./72310-arrrrrr.json) |
 | Arruyo | 201561 | [201561-arruyo.json](./201561-arruyo.json) |
+| Ars Demonium Invocatum | 350230 | [350230-ars-demonium-invocatum.json](./350230-ars-demonium-invocatum.json) |
 | Ars Goetia | 338157 | [338157-ars-goetia.json](./338157-ars-goetia.json) |
 | Ars Mechanica | 382198 | [382198-ars-mechanica.json](./382198-ars-mechanica.json) |
 | Ars Notoria | 214014 | [214014-ars-notoria.json](./214014-ars-notoria.json) |
