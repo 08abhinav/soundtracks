@@ -2403,6 +2403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uptasia | 81127 | [81127-uptasia.json](./81127-uptasia.json) |
 | Uptime: A Cloud Provider Sim | 408966 | [408966-uptime-a-cloud-provider-sim.json](./408966-uptime-a-cloud-provider-sim.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
+| UptownRanger's Halloween | 314101 | [314101-uptownrangers-halloween.json](./314101-uptownrangers-halloween.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
