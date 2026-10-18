@@ -5774,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
 | Bio Bytes | 220274 | [220274-bio-bytes.json](./220274-bio-bytes.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
