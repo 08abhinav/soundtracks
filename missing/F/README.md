@@ -7944,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Junction | 44726 | [44726-fox-junction.json](./44726-fox-junction.json) |
 | Fox McCloud's Blazing Blueberry Blast Off | 328850 | [328850-fox-mcclouds-blazing-blueberry-blast-off.json](./328850-fox-mcclouds-blazing-blueberry-blast-off.json) |
 | Fox n Forests | 21961 | [21961-fox-n-forests.json](./21961-fox-n-forests.json) |
+| Fox Quest: The Elemental Keys | 310273 | [310273-fox-quest-the-elemental-keys.json](./310273-fox-quest-the-elemental-keys.json) |
 | Fox Runner Adventures | 237370 | [237370-fox-runner-adventures.json](./237370-fox-runner-adventures.json) |
 | Fox Simulator | 87268 | [87268-fox-simulator.json](./87268-fox-simulator.json) |
 | Fox Soldier | 120955 | [120955-fox-soldier.json](./120955-fox-soldier.json) |
@@ -8783,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
+| Frights | 310256 | [310256-frights.json](./310256-frights.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
 | Frigore | 187278 | [187278-frigore.json](./187278-frigore.json) |
