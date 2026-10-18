@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Base Ball Part-2 | 125958 | [125958-champion-base-ball-part-2.json](./125958-champion-base-ball-part-2.json) |
 | Champion Baseball | 388244 | [388244-champion-baseball.json](./388244-champion-baseball.json) |
 | Champion Baseball | 6084 | [6084-champion-baseball.json](./6084-champion-baseball.json) |
+| Champion Baseball 2 | 313578 | [313578-champion-baseball-2.json](./313578-champion-baseball-2.json) |
 | Champion Billiards | 6085 | [6085-champion-billiards.json](./6085-champion-billiards.json) |
 | Champion Boxing | 6086 | [6086-champion-boxing.json](./6086-champion-boxing.json) |
 | Champion Cup Goal | 245185 | [245185-champion-cup-goal.json](./245185-champion-cup-goal.json) |
@@ -7568,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clotilde Soffritti in: Never Buy a Used Spaceship | 217875 | [217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json](./217875-clotilde-soffritti-in-never-buy-a-used-spaceship.json) |
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
 | Cloud 9 | 273594 | [273594-cloud-9.json](./273594-cloud-9.json) |
+| Cloud 9 | 313579 | [313579-cloud-9.json](./313579-cloud-9.json) |
 | Cloud Bashers DX | 154251 | [154251-cloud-bashers-dx.json](./154251-cloud-bashers-dx.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
@@ -9111,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
 | Comet | 288689 | [288689-comet.json](./288689-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
+| Comet Alpha Rescue | 313538 | [313538-comet-alpha-rescue.json](./313538-comet-alpha-rescue.json) |
 | Comet Angel | 303736 | [303736-comet-angel.json](./303736-comet-angel.json) |
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
 | Comet Clash | 253460 | [253460-comet-clash.json](./253460-comet-clash.json) |
@@ -9688,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Dots | 396371 | [396371-connect-dots.json](./396371-connect-dots.json) |
 | Connect Dots Puzzle: Classic Casual Arcade | 244823 | [244823-connect-dots-puzzle-classic-casual-arcade.json](./244823-connect-dots-puzzle-classic-casual-arcade.json) |
 | Connect Far Away Tale | 387599 | [387599-connect-far-away-tale.json](./387599-connect-far-away-tale.json) |
+| Connect Four | 313549 | [313549-connect-four.json](./313549-connect-four.json) |
 | Connect Four | 45935 | [45935-connect-four.json](./45935-connect-four.json) |
 | Connect Four | 91265 | [91265-connect-four.json](./91265-connect-four.json) |
 | Connect Four / Perfection / Trouble | 77638 | [77638-connect-four-perfection-trouble.json](./77638-connect-four-perfection-trouble.json) |
@@ -12144,6 +12148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Taxi | 39191 | [39191-crazy-taxi.json](./39191-crazy-taxi.json) |
 | Crazy Taxi 2 | 1806 | [1806-crazy-taxi-2.json](./1806-crazy-taxi-2.json) |
 | Crazy Taxi 3: High Roller | 1807 | [1807-crazy-taxi-3-high-roller.json](./1807-crazy-taxi-3-high-roller.json) |
+| Crazy Taxi M-12 | 313540 | [313540-crazy-taxi-m-12.json](./313540-crazy-taxi-m-12.json) |
 | Crazy Taxi: Catch a Ride | 1808 | [1808-crazy-taxi-catch-a-ride.json](./1808-crazy-taxi-catch-a-ride.json) |
 | Crazy Taxi: City Rush | 61989 | [61989-crazy-taxi-city-rush.json](./61989-crazy-taxi-city-rush.json) |
 | Crazy Taxi: Fare Wars | 1809 | [1809-crazy-taxi-fare-wars.json](./1809-crazy-taxi-fare-wars.json) |
