@@ -4426,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms | 221748 | [221748-the-backrooms.json](./221748-the-backrooms.json) |
 | The Backrooms | 374795 | [374795-the-backrooms.json](./374795-the-backrooms.json) |
 | The Backrooms | 401676 | [401676-the-backrooms.json](./401676-the-backrooms.json) |
+| The Backrooms 64 | 337430 | [337430-the-backrooms-64.json](./337430-the-backrooms-64.json) |
 | The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
 | The Backrooms Exploration | 276116 | [276116-the-backrooms-exploration.json](./276116-the-backrooms-exploration.json) |
@@ -4760,6 +4761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Guards of Odom: Desert Town Prison | 278941 | [278941-the-black-guards-of-odom-desert-town-prison.json](./278941-the-black-guards-of-odom-desert-town-prison.json) |
 | The Black Heart | 50364 | [50364-the-black-heart.json](./50364-the-black-heart.json) |
 | The Black Hole | 93483 | [93483-the-black-hole.json](./93483-the-black-hole.json) |
+| The Black Ice | 337496 | [337496-the-black-ice.json](./337496-the-black-ice.json) |
 | The Black Iris | 143606 | [143606-the-black-iris.json](./143606-the-black-iris.json) |
 | The Black Knight | 113170 | [113170-the-black-knight.json](./113170-the-black-knight.json) |
 | The Black Knight | 249146 | [249146-the-black-knight.json](./249146-the-black-knight.json) |
@@ -4957,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
+| The Bright Path | 337498 | [337498-the-bright-path.json](./337498-the-bright-path.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Brink | 104810 | [104810-the-brink.json](./104810-the-brink.json) |
 | The Brink | 117461 | [117461-the-brink.json](./117461-the-brink.json) |
@@ -8307,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jungle Book | 248190 | [248190-the-jungle-book.json](./248190-the-jungle-book.json) |
 | The Jungle Book 2 | 186649 | [186649-the-jungle-book-2.json](./186649-the-jungle-book-2.json) |
 | The Jungle Book: Mowgli's Run | 58644 | [58644-the-jungle-book-mowglis-run.json](./58644-the-jungle-book-mowglis-run.json) |
+| The Junkyard | 337509 | [337509-the-junkyard.json](./337509-the-junkyard.json) |
 | The Junuary Project | 233603 | [233603-the-junuary-project.json](./233603-the-junuary-project.json) |
 | The Jusou | 260595 | [260595-the-jusou.json](./260595-the-jusou.json) |
 | The Jusou 3 | 289994 | [289994-the-jusou-3.json](./289994-the-jusou-3.json) |
@@ -16538,6 +16542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Diver: Eon Man | 48564 | [48564-time-diver-eon-man.json](./48564-time-diver-eon-man.json) |
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
+| Time Enforcers | 337500 | [337500-time-enforcers.json](./337500-time-enforcers.json) |
 | Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
@@ -19136,6 +19141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Blooming Soul | 203848 | [203848-touhou-blooming-soul.json](./203848-touhou-blooming-soul.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chaos of Black Loong | 322860 | [322860-touhou-chaos-of-black-loong.json](./322860-touhou-chaos-of-black-loong.json) |
+| Touhou Chouhatsuyou: Burgeoning Tresses of Longevity | 337504 | [337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json](./337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
 | Touhou Chronicle of Youkai Prayers | 356567 | [356567-touhou-chronicle-of-youkai-prayers.json](./356567-touhou-chronicle-of-youkai-prayers.json) |
 | Touhou Chronicles: Tales of the Two Immortals | 372059 | [372059-touhou-chronicles-tales-of-the-two-immortals.json](./372059-touhou-chronicles-tales-of-the-two-immortals.json) |
@@ -22050,6 +22056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | Trex and Muscle Sam: A New Kickstart! | 22042 | [22042-trex-and-muscle-sam-a-new-kickstart.json](./22042-trex-and-muscle-sam-a-new-kickstart.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
+| Tri Bogatyrya i Shamakhanskaya Tsaritsa | 337432 | [337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json](./337432-tri-bogatyrya-i-shamakhanskaya-tsaritsa.json) |
 | Tri Breaker: A Sacred Symbols Odyssey | 322644 | [322644-tri-breaker-a-sacred-symbols-odyssey.json](./322644-tri-breaker-a-sacred-symbols-odyssey.json) |
 | Tri City Monsters | 253816 | [253816-tri-city-monsters.json](./253816-tri-city-monsters.json) |
 | Tri Focuser: Outside the Traditional World | 246673 | [246673-tri-focuser-outside-the-traditional-world.json](./246673-tri-focuser-outside-the-traditional-world.json) |
