@@ -6149,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
 | Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
+| Roadkill | 343687 | [343687-roadkill.json](./343687-roadkill.json) |
 | RoadKill | 4089 | [4089-roadkill.json](./4089-roadkill.json) |
 | Roadkill Raceway | 235176 | [235176-roadkill-raceway.json](./235176-roadkill-raceway.json) |
 | RoadkillerZ | 36975 | [36975-roadkillerz.json](./36975-roadkillerz.json) |
