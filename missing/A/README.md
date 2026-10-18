@@ -10270,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Zengage | 69293 | [69293-art-style-zengage.json](./69293-art-style-zengage.json) |
 | Art Style: Zengage | 84762 | [84762-art-style-zengage.json](./84762-art-style-zengage.json) |
 | Art Together | 347165 | [347165-art-together.json](./347165-art-together.json) |
+| Art With Friends Free | 323019 | [323019-art-with-friends-free.json](./323019-art-with-friends-free.json) |
 | Art Without Blood | 401253 | [401253-art-without-blood.json](./401253-art-without-blood.json) |
 | Art World | 82186 | [82186-art-world.json](./82186-art-world.json) |
 | Art-O-Ween: A Ghost in the Gallery | 272461 | [272461-art-o-ween-a-ghost-in-the-gallery.json](./272461-art-o-ween-a-ghost-in-the-gallery.json) |
