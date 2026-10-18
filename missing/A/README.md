@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allele: Origin | 375538 | [375538-allele-origin.json](./375538-allele-origin.json) |
 | Allelon | 398824 | [398824-allelon.json](./398824-allelon.json) |
 | Allemand avec Rayman | 193347 | [193347-allemand-avec-rayman.json](./193347-allemand-avec-rayman.json) |
+| Allen | 334532 | [334532-allen.json](./334532-allen.json) |
 | Allergenium | 107395 | [107395-allergenium.json](./107395-allergenium.json) |
 | Allergy Assassin | 180717 | [180717-allergy-assassin.json](./180717-allergy-assassin.json) |
 | Alleviate | 326274 | [326274-alleviate.json](./326274-alleviate.json) |
