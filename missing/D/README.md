@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datamine | 85074 | [85074-datamine.json](./85074-datamine.json) |
 | Dataminer | 183876 | [183876-dataminer.json](./183876-dataminer.json) |
 | Datascape | 96128 | [96128-datascape.json](./96128-datascape.json) |
+| Datbyel's Nebula | 309744 | [309744-datbyels-nebula.json](./309744-datbyels-nebula.json) |
 | Date A Live: Arusu Install - Limited Edition | 86225 | [86225-date-a-live-arusu-install-limited-edition.json](./86225-date-a-live-arusu-install-limited-edition.json) |
 | Date A Live: Ren Dystopia | 114150 | [114150-date-a-live-ren-dystopia.json](./114150-date-a-live-ren-dystopia.json) |
 | Date A Live: Ren Dystopia - Limited Edition | 114151 | [114151-date-a-live-ren-dystopia-limited-edition.json](./114151-date-a-live-ren-dystopia-limited-edition.json) |
@@ -7622,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disonante | 118432 | [118432-disonante.json](./118432-disonante.json) |
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
+| Disorder | 309728 | [309728-disorder.json](./309728-disorder.json) |
 | Disorder: Save Your Family | 307243 | [307243-disorder-save-your-family.json](./307243-disorder-save-your-family.json) |
 | Disorder6 | 63124 | [63124-disorder6.json](./63124-disorder6.json) |
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
@@ -7692,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
 | Distant Desert | 388234 | [388234-distant-desert.json](./388234-distant-desert.json) |
 | Distant Flux: System Initializing | 346563 | [346563-distant-flux-system-initializing.json](./346563-distant-flux-system-initializing.json) |
+| Distant Garden | 309742 | [309742-distant-garden.json](./309742-distant-garden.json) |
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
@@ -11046,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
+| Dragons: The Helmet of the Forkai | 309756 | [309756-dragons-the-helmet-of-the-forkai.json](./309756-dragons-the-helmet-of-the-forkai.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
