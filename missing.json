@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T04:03:17.381Z",
-  "total_missing": 226641,
+  "generated_at": "2026-10-18T04:18:00.112Z",
+  "total_missing": 226691,
   "games": [
     {
       "igdb_id": 191680,
@@ -23745,6 +23745,11 @@
       "igdb_id": 215766,
       "game_name": "Advanced Pasta Cooking Simulator",
       "file": "missing/A/215766-advanced-pasta-cooking-simulator.json"
+    },
+    {
+      "igdb_id": 353148,
+      "game_name": "Advanced PET 2",
+      "file": "missing/A/353148-advanced-pet-2.json"
     },
     {
       "igdb_id": 354040,
@@ -259337,6 +259342,11 @@
       "file": "missing/D/211962-dominay.json"
     },
     {
+      "igdb_id": 353065,
+      "game_name": "Domini",
+      "file": "missing/D/353065-domini.json"
+    },
+    {
       "igdb_id": 210211,
       "game_name": "Dominic Cranes's Dreamscape Mystery",
       "file": "missing/D/210211-dominic-craness-dreamscape-mystery.json"
@@ -260230,6 +260240,11 @@
       "igdb_id": 25493,
       "game_name": "Don't Get Angry! 3",
       "file": "missing/D/25493-dont-get-angry-3.json"
+    },
+    {
+      "igdb_id": 353153,
+      "game_name": "Don't Get Caught",
+      "file": "missing/D/353153-dont-get-caught.json"
     },
     {
       "igdb_id": 204326,
@@ -580167,9 +580182,19 @@
       "file": "missing/M/352958-megaman-nt-warrior-advanced-pet-battle-chip-barrier.json"
     },
     {
+      "igdb_id": 353094,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - BoysBomb1",
+      "file": "missing/M/353094-megaman-nt-warrior-advanced-pet-battle-chip-boysbomb1.json"
+    },
+    {
       "igdb_id": 352934,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CannonBall",
       "file": "missing/M/352934-megaman-nt-warrior-advanced-pet-battle-chip-cannonball.json"
+    },
+    {
+      "igdb_id": 353092,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Counter1",
+      "file": "missing/M/353092-megaman-nt-warrior-advanced-pet-battle-chip-counter1.json"
     },
     {
       "igdb_id": 352927,
@@ -580197,6 +580222,16 @@
       "file": "missing/M/352937-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-sand-ring.json"
     },
     {
+      "igdb_id": 353072,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 10 (God Hammer)",
+      "file": "missing/M/353072-megaman-nt-warrior-advanced-pet-battle-chip-cp-10-god-hammer.json"
+    },
+    {
+      "igdb_id": 353090,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 12 (Holy Dream)",
+      "file": "missing/M/353090-megaman-nt-warrior-advanced-pet-battle-chip-cp-12-holy-dream.json"
+    },
+    {
       "igdb_id": 352929,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Bound Note 3)",
       "file": "missing/M/352929-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bound-note-3.json"
@@ -580217,9 +580252,24 @@
       "file": "missing/M/352922-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-gun-del-sol-2.json"
     },
     {
+      "igdb_id": 353085,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (JunkMan)",
+      "file": "missing/M/353085-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-junkman.json"
+    },
+    {
       "igdb_id": 352925,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Mag Bolt 2)",
       "file": "missing/M/352925-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-mag-bolt-2.json"
+    },
+    {
+      "igdb_id": 353064,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Number Ball 2)",
+      "file": "missing/M/353064-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-number-ball-2.json"
+    },
+    {
+      "igdb_id": 353067,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Panel Shoot 1)",
+      "file": "missing/M/353067-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-panel-shoot-1.json"
     },
     {
       "igdb_id": 352969,
@@ -580227,9 +580277,29 @@
       "file": "missing/M/352969-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-roll-arrow-2.json"
     },
     {
+      "igdb_id": 353074,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Roll SP)",
+      "file": "missing/M/353074-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-roll-sp.json"
+    },
+    {
+      "igdb_id": 353079,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (ThunderMan)",
+      "file": "missing/M/353079-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-thunderman.json"
+    },
+    {
+      "igdb_id": 353087,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (WoodMan)",
+      "file": "missing/M/353087-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-woodman.json"
+    },
+    {
       "igdb_id": 352932,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Woody Powder)",
       "file": "missing/M/352932-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-woody-powder.json"
+    },
+    {
+      "igdb_id": 353070,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Full Custom)",
+      "file": "missing/M/353070-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-full-custom.json"
     },
     {
       "igdb_id": 352943,
@@ -580237,9 +580307,49 @@
       "file": "missing/M/352943-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-fuujin-racket.json"
     },
     {
+      "igdb_id": 353086,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (JunkMan SP)",
+      "file": "missing/M/353086-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-junkman-sp.json"
+    },
+    {
+      "igdb_id": 353084,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (MetalMan SP)",
+      "file": "missing/M/353084-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-metalman-sp.json"
+    },
+    {
+      "igdb_id": 353059,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Propeller Bomb 1)",
+      "file": "missing/M/353059-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-propeller-bomb-1.json"
+    },
+    {
+      "igdb_id": 353061,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Search Bomb 1)",
+      "file": "missing/M/353061-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-search-bomb-1.json"
+    },
+    {
+      "igdb_id": 353054,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Shirahadori)",
+      "file": "missing/M/353054-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-shirahadori.json"
+    },
+    {
+      "igdb_id": 353080,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (ThunderMan SP)",
+      "file": "missing/M/353080-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-thunderman-sp.json"
+    },
+    {
       "igdb_id": 352941,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Wide Blade)",
       "file": "missing/M/352941-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-wide-blade.json"
+    },
+    {
+      "igdb_id": 353076,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (WindMan)",
+      "file": "missing/M/353076-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-windman.json"
+    },
+    {
+      "igdb_id": 353088,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (WoodMan SP)",
+      "file": "missing/M/353088-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-woodman-sp.json"
     },
     {
       "igdb_id": 352965,
@@ -580247,9 +580357,59 @@
       "file": "missing/M/352965-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-boomerang-1.json"
     },
     {
+      "igdb_id": 353078,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (FireMan SP)",
+      "file": "missing/M/353078-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-fireman-sp.json"
+    },
+    {
+      "igdb_id": 353068,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Green Wood 2)",
+      "file": "missing/M/353068-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-green-wood-2.json"
+    },
+    {
+      "igdb_id": 353075,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (GutsMan SP)",
+      "file": "missing/M/353075-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-gutsman-sp.json"
+    },
+    {
+      "igdb_id": 353063,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Lightning 2)",
+      "file": "missing/M/353063-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-lightning-2.json"
+    },
+    {
       "igdb_id": 352942,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Long Blade)",
       "file": "missing/M/352942-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-long-blade.json"
+    },
+    {
+      "igdb_id": 353066,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Metal Gear 2)",
+      "file": "missing/M/353066-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-metal-gear-2.json"
+    },
+    {
+      "igdb_id": 353062,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Meteor Rain 2)",
+      "file": "missing/M/353062-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-meteor-rain-2.json"
+    },
+    {
+      "igdb_id": 353056,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Navi+20)",
+      "file": "missing/M/353056-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-navi-20.json"
+    },
+    {
+      "igdb_id": 353060,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (Propeller Bomb 2)",
+      "file": "missing/M/353060-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-propeller-bomb-2.json"
+    },
+    {
+      "igdb_id": 353077,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 4 (WindMan SP)",
+      "file": "missing/M/353077-megaman-nt-warrior-advanced-pet-battle-chip-cp-4-windman-sp.json"
+    },
+    {
+      "igdb_id": 353055,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Bad Medicine)",
+      "file": "missing/M/353055-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-bad-medicine.json"
     },
     {
       "igdb_id": 352961,
@@ -580260,6 +580420,11 @@
       "igdb_id": 352960,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Meteor Rain 3)",
       "file": "missing/M/352960-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-meteor-rain-3.json"
+    },
+    {
+      "igdb_id": 353073,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Neo Variable)",
+      "file": "missing/M/353073-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-neo-variable.json"
     },
     {
       "igdb_id": 352956,
@@ -580287,6 +580452,36 @@
       "file": "missing/M/352936-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-black-bomb.json"
     },
     {
+      "igdb_id": 353082,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 7 (NumberMan)",
+      "file": "missing/M/353082-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-numberman.json"
+    },
+    {
+      "igdb_id": 353053,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (Kawarimi)",
+      "file": "missing/M/353053-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-kawarimi.json"
+    },
+    {
+      "igdb_id": 353083,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (NumberMan SP)",
+      "file": "missing/M/353083-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-numberman-sp.json"
+    },
+    {
+      "igdb_id": 353089,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 9 (Delta Ray Edge)",
+      "file": "missing/M/353089-megaman-nt-warrior-advanced-pet-battle-chip-cp-9-delta-ray-edge.json"
+    },
+    {
+      "igdb_id": 353071,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 9 (Ryuusei Gun)",
+      "file": "missing/M/353071-megaman-nt-warrior-advanced-pet-battle-chip-cp-9-ryuusei-gun.json"
+    },
+    {
+      "igdb_id": 353069,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CP 9 (Sanctuary)",
+      "file": "missing/M/353069-megaman-nt-warrior-advanced-pet-battle-chip-cp-9-sanctuary.json"
+    },
+    {
       "igdb_id": 352944,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - CustomSword",
       "file": "missing/M/352944-megaman-nt-warrior-advanced-pet-battle-chip-customsword.json"
@@ -580302,6 +580497,11 @@
       "file": "missing/M/352919-megaman-nt-warrior-advanced-pet-battle-chip-energybomb.json"
     },
     {
+      "igdb_id": 353095,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Guard1",
+      "file": "missing/M/353095-megaman-nt-warrior-advanced-pet-battle-chip-guard1.json"
+    },
+    {
       "igdb_id": 352921,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 1",
       "file": "missing/M/352921-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-1.json"
@@ -580310,6 +580510,21 @@
       "igdb_id": 352923,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 3",
       "file": "missing/M/352923-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-3.json"
+    },
+    {
+      "igdb_id": 353057,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - GutPnch2",
+      "file": "missing/M/353057-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch2.json"
+    },
+    {
+      "igdb_id": 353058,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - GutPnch3",
+      "file": "missing/M/353058-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch3.json"
+    },
+    {
+      "igdb_id": 353093,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - Lance",
+      "file": "missing/M/353093-megaman-nt-warrior-advanced-pet-battle-chip-lance.json"
     },
     {
       "igdb_id": 352940,
@@ -580330,6 +580545,11 @@
       "igdb_id": 352918,
       "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - MiniBoomer",
       "file": "missing/M/352918-megaman-nt-warrior-advanced-pet-battle-chip-miniboomer.json"
+    },
+    {
+      "igdb_id": 353081,
+      "game_name": "MegaMan NT Warrior Advanced PET: Battle Chip - ProtoMan DS",
+      "file": "missing/M/353081-megaman-nt-warrior-advanced-pet-battle-chip-protoman-ds.json"
     },
     {
       "igdb_id": 352948,
@@ -704502,6 +704722,11 @@
       "file": "missing/P/353223-pinball-arcade-big-buck-hunter-pro.json"
     },
     {
+      "igdb_id": 353149,
+      "game_name": "Pinball Arcade: Black Hole",
+      "file": "missing/P/353149-pinball-arcade-black-hole.json"
+    },
+    {
       "igdb_id": 349358,
       "game_name": "Pinball Arcade: Black Knight 2000",
       "file": "missing/P/349358-pinball-arcade-black-knight-2000.json"
@@ -704702,6 +704927,11 @@
       "file": "missing/P/353234-pinball-arcade-rescue-911.json"
     },
     {
+      "igdb_id": 353152,
+      "game_name": "Pinball Arcade: Ripley’s Believe It or Not!",
+      "file": "missing/P/353152-pinball-arcade-ripley-s-believe-it-or-not.json"
+    },
+    {
       "igdb_id": 353273,
       "game_name": "Pinball Arcade: Safe Cracker",
       "file": "missing/P/353273-pinball-arcade-safe-cracker.json"
@@ -704747,6 +704977,11 @@
       "file": "missing/P/353270-pinball-arcade-swords-of-fury.json"
     },
     {
+      "igdb_id": 353150,
+      "game_name": "Pinball Arcade: Tales of the Arabian Nights",
+      "file": "missing/P/353150-pinball-arcade-tales-of-the-arabian-nights.json"
+    },
+    {
       "igdb_id": 353268,
       "game_name": "Pinball Arcade: Taxi",
       "file": "missing/P/353268-pinball-arcade-taxi.json"
@@ -704770,6 +705005,11 @@
       "igdb_id": 349351,
       "game_name": "Pinball Arcade: The Getaway - High Speed II",
       "file": "missing/P/349351-pinball-arcade-the-getaway-high-speed-ii.json"
+    },
+    {
+      "igdb_id": 353151,
+      "game_name": "Pinball Arcade: Theatre of Magic",
+      "file": "missing/P/353151-pinball-arcade-theatre-of-magic.json"
     },
     {
       "igdb_id": 349362,
@@ -735480,6 +735720,11 @@
       "igdb_id": 355365,
       "game_name": "Progress PET: Battle Chip - 576: Senshahou 2",
       "file": "missing/P/355365-progress-pet-battle-chip-576-senshahou-2.json"
+    },
+    {
+      "igdb_id": 353154,
+      "game_name": "Progress PET: Netto Version",
+      "file": "missing/P/353154-progress-pet-netto-version.json"
     },
     {
       "igdb_id": 94363,
@@ -976910,6 +977155,11 @@
       "igdb_id": 297356,
       "game_name": "The Lust City 2",
       "file": "missing/T/297356-the-lust-city-2.json"
+    },
+    {
+      "igdb_id": 353091,
+      "game_name": "The Lust Voyage",
+      "file": "missing/T/353091-the-lust-voyage.json"
     },
     {
       "igdb_id": 384753,
