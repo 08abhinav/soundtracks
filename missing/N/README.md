@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevertales: The Abomination | 187941 | [187941-nevertales-the-abomination.json](./187941-nevertales-the-abomination.json) |
 | Nevertales: The Beauty Within - Collector's Edition | 32786 | [32786-nevertales-the-beauty-within-collectors-edition.json](./32786-nevertales-the-beauty-within-collectors-edition.json) |
 | Neverwards | 342159 | [342159-neverwards.json](./342159-neverwards.json) |
+| Neverway | 339608 | [339608-neverway.json](./339608-neverway.json) |
 | Neverwinter Nights | 216 | [216-neverwinter-nights.json](./216-neverwinter-nights.json) |
 | Neverwinter Nights | 96492 | [96492-neverwinter-nights.json](./96492-neverwinter-nights.json) |
 | Neverwinter Nights 2 | 214 | [214-neverwinter-nights-2.json](./214-neverwinter-nights-2.json) |
@@ -2568,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zelda | 270386 | [270386-new-zelda.json](./270386-new-zelda.json) |
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
+| Newbery Winners: Bridge to Terabithia | 339677 | [339677-newbery-winners-bridge-to-terabithia.json](./339677-newbery-winners-bridge-to-terabithia.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
@@ -3926,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NinNinDays2 | 192399 | [192399-ninnindays2.json](./192399-ninnindays2.json) |
 | Nino Maze Lofi | 150934 | [150934-nino-maze-lofi.json](./150934-nino-maze-lofi.json) |
 | Nino Maze Lofi II | 193197 | [193197-nino-maze-lofi-ii.json](./193197-nino-maze-lofi-ii.json) |
+| Niñoid | 339693 | [339693-ninoid.json](./339693-ninoid.json) |
 | Ninpek | 317577 | [317577-ninpek.json](./317577-ninpek.json) |
 | Ninpen Manmaru | 62714 | [62714-ninpen-manmaru.json](./62714-ninpen-manmaru.json) |
 | Ninpuchi! Cryptoninja Petit | 333933 | [333933-ninpuchi-cryptoninja-petit.json](./333933-ninpuchi-cryptoninja-petit.json) |
@@ -4417,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobby the Aardvark | 125181 | [125181-nobby-the-aardvark.json](./125181-nobby-the-aardvark.json) |
 | Noble | 176975 | [176975-noble.json](./176975-noble.json) |
 | Noble Armada: Lost Worlds | 107897 | [107897-noble-armada-lost-worlds.json](./107897-noble-armada-lost-worlds.json) |
+| Noble Blood | 339684 | [339684-noble-blood.json](./339684-noble-blood.json) |
 | Noble Crusade | 105736 | [105736-noble-crusade.json](./105736-noble-crusade.json) |
 | Noble Fates | 183602 | [183602-noble-fates.json](./183602-noble-fates.json) |
 | Noble in Exile | 113580 | [113580-noble-in-exile.json](./113580-noble-in-exile.json) |
