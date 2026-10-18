@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Forest Abyss | 379094 | [379094-death-forest-abyss.json](./379094-death-forest-abyss.json) |
 | Death Forest Echoes | 413018 | [413018-death-forest-echoes.json](./413018-death-forest-echoes.json) |
 | Death Forest: Seikin | 385186 | [385186-death-forest-seikin.json](./385186-death-forest-seikin.json) |
+| Death Frame | 353618 | [353618-death-frame.json](./353618-death-frame.json) |
 | Death From Above | 244133 | [244133-death-from-above.json](./244133-death-from-above.json) |
 | Death From Above: Complete Edition | 336140 | [336140-death-from-above-complete-edition.json](./336140-death-from-above-complete-edition.json) |
 | Death from Unknown: Survival | 93710 | [93710-death-from-unknown-survival.json](./93710-death-from-unknown-survival.json) |
@@ -3526,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
+| DeckTerra | 353644 | [353644-deckterra.json](./353644-deckterra.json) |
 | Deckum Demonium | 384756 | [384756-deckum-demonium.json](./384756-deckum-demonium.json) |
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
@@ -13095,6 +13097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
 | Dungeons & Dragons Online: Fables of the Feywild | 258927 | [258927-dungeons-and-dragons-online-fables-of-the-feywild.json](./258927-dungeons-and-dragons-online-fables-of-the-feywild.json) |
+| Dungeons & Dragons Online: Fall of the Night Brigade | 353658 | [353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json](./353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons Online: Keep on the Borderlands | 338764 | [338764-dungeons-and-dragons-online-keep-on-the-borderlands.json](./338764-dungeons-and-dragons-online-keep-on-the-borderlands.json) |
 | Dungeons & Dragons Online: Masterminds of Sharn | 258926 | [258926-dungeons-and-dragons-online-masterminds-of-sharn.json](./258926-dungeons-and-dragons-online-masterminds-of-sharn.json) |
@@ -13104,11 +13107,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Premium Race - Tabaxi | 338769 | [338769-dungeons-and-dragons-online-premium-race-tabaxi.json](./338769-dungeons-and-dragons-online-premium-race-tabaxi.json) |
 | Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
 | Dungeons & Dragons Online: Shadowfell Conspiracy | 47127 | [47127-dungeons-and-dragons-online-shadowfell-conspiracy.json](./47127-dungeons-and-dragons-online-shadowfell-conspiracy.json) |
+| Dungeons & Dragons Online: Tangleroot Gorge | 353656 | [353656-dungeons-and-dragons-online-tangleroot-gorge.json](./353656-dungeons-and-dragons-online-tangleroot-gorge.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
+| Dungeons & Dragons Online: The Catacombs | 353657 | [353657-dungeons-and-dragons-online-the-catacombs.json](./353657-dungeons-and-dragons-online-the-catacombs.json) |
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Isle of Dread | 258935 | [258935-dungeons-and-dragons-online-the-isle-of-dread.json](./258935-dungeons-and-dragons-online-the-isle-of-dread.json) |
 | Dungeons & Dragons Online: The Lost Gatekeepers | 338891 | [338891-dungeons-and-dragons-online-the-lost-gatekeepers.json](./338891-dungeons-and-dragons-online-the-lost-gatekeepers.json) |
+| Dungeons & Dragons Online: The Necropolis, Part 1 | 353659 | [353659-dungeons-and-dragons-online-the-necropolis-part-1.json](./353659-dungeons-and-dragons-online-the-necropolis-part-1.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
 | Dungeons & Dragons Online: The Red Fens | 349334 | [349334-dungeons-and-dragons-online-the-red-fens.json](./349334-dungeons-and-dragons-online-the-red-fens.json) |
 | Dungeons & Dragons Online: The Seal of Shan-to-Kor | 338765 | [338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json](./338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json) |
@@ -13391,6 +13397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
+| Dwarf Boozter | 353619 | [353619-dwarf-boozter.json](./353619-dwarf-boozter.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
