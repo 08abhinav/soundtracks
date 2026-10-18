@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
 | DeadStuck | 401720 | [401720-deadstuck.json](./401720-deadstuck.json) |
 | Deadswitch 3 | 147182 | [147182-deadswitch-3.json](./147182-deadswitch-3.json) |
+| Deadswitch Combat | 348008 | [348008-deadswitch-combat.json](./348008-deadswitch-combat.json) |
 | Deadtective Academy | 397403 | [397403-deadtective-academy.json](./397403-deadtective-academy.json) |
 | Deadtime Defenders | 123520 | [123520-deadtime-defenders.json](./123520-deadtime-defenders.json) |
 | DeadTruth: The Dark Path Ahead | 30110 | [30110-deadtruth-the-dark-path-ahead.json](./30110-deadtruth-the-dark-path-ahead.json) |
@@ -7635,6 +7636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diva Lovers | 367193 | [367193-diva-lovers.json](./367193-diva-lovers.json) |
 | Diva Starz | 71601 | [71601-diva-starz.json](./71601-diva-starz.json) |
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
+| Diva's Club: Miss Spring | 348048 | [348048-divas-club-miss-spring.json](./348048-divas-club-miss-spring.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
@@ -8722,6 +8724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fret | 289433 | [289433-dont-fret.json](./289433-dont-fret.json) |
 | Don't Get a Virus | 181874 | [181874-dont-get-a-virus.json](./181874-dont-get-a-virus.json) |
 | Don't Get Angry! 3 | 25493 | [25493-dont-get-angry-3.json](./25493-dont-get-angry-3.json) |
+| Don't Get Caught | 348027 | [348027-dont-get-caught.json](./348027-dont-get-caught.json) |
 | Don't Get Caught | 353153 | [353153-dont-get-caught.json](./353153-dont-get-caught.json) |
 | Don't Get Distracted | 204326 | [204326-dont-get-distracted.json](./204326-dont-get-distracted.json) |
 | Don't Get Eaten! | 219751 | [219751-dont-get-eaten.json](./219751-dont-get-eaten.json) |
@@ -11751,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driller Tanks | 94636 | [94636-driller-tanks.json](./94636-driller-tanks.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
 | DrillMania | 106458 | [106458-drillmania.json](./106458-drillmania.json) |
+| Drillmaster 9000 | 348012 | [348012-drillmaster-9000.json](./348012-drillmaster-9000.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
 | DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
@@ -13352,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusklander | 401055 | [401055-dusklander.json](./401055-dusklander.json) |
 | Dusklight | 401002 | [401002-dusklight.json](./401002-dusklight.json) |
 | Dusklight Manor | 255096 | [255096-dusklight-manor.json](./255096-dusklight-manor.json) |
+| Duskmarch | 348042 | [348042-duskmarch.json](./348042-duskmarch.json) |
 | DuskVeil | 366626 | [366626-duskveil.json](./366626-duskveil.json) |
 | Duskwood | 139073 | [139073-duskwood.json](./139073-duskwood.json) |
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
