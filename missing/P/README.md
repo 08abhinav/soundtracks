@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Warband | 215692 | [215692-path-to-warband.json](./215692-path-to-warband.json) |
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
+| Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
 | Pathfinder Adventures | 36611 | [36611-pathfinder-adventures.json](./36611-pathfinder-adventures.json) |
@@ -9302,6 +9303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 3 64 | 135217 | [135217-portal-3-64.json](./135217-portal-3-64.json) |
 | Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
+| Portal Bagley: Aperture Remote Terminal | 344153 | [344153-portal-bagley-aperture-remote-terminal.json](./344153-portal-bagley-aperture-remote-terminal.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defect | 155383 | [155383-portal-defect.json](./155383-portal-defect.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
