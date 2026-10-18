@@ -2736,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heisen Bay | 156908 | [156908-heisen-bay.json](./156908-heisen-bay.json) |
 | Heisen-Bro Hustler | 419898 | [419898-heisen-bro-hustler.json](./419898-heisen-bro-hustler.json) |
 | Heist | 111050 | [111050-heist.json](./111050-heist.json) |
+| Heist | 348043 | [348043-heist.json](./348043-heist.json) |
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
 | Heist | 94640 | [94640-heist.json](./94640-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
