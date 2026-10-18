@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions | 56886 | [56886-pettsons-inventions.json](./56886-pettsons-inventions.json) |
 | Pettson's Inventions 2 | 56885 | [56885-pettsons-inventions-2.json](./56885-pettsons-inventions-2.json) |
 | Pettson's Inventions 3 | 56887 | [56887-pettsons-inventions-3.json](./56887-pettsons-inventions-3.json) |
+| Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petunia the Yellow Mouse | 62278 | [62278-petunia-the-yellow-mouse.json](./62278-petunia-the-yellow-mouse.json) |
@@ -13509,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrus: Alletiders Jul | 129780 | [129780-pyrus-alletiders-jul.json](./129780-pyrus-alletiders-jul.json) |
 | Pyschotic Adventures | 53485 | [53485-pyschotic-adventures.json](./53485-pyschotic-adventures.json) |
 | PySol Fan Club Edition | 141728 | [141728-pysol-fan-club-edition.json](./141728-pysol-fan-club-edition.json) |
+| Pyssla med Mamma Mu och Kråkan | 352515 | [352515-pyssla-med-mamma-mu-och-krakan.json](./352515-pyssla-med-mamma-mu-och-krakan.json) |
 | Pythagorea | 57739 | [57739-pythagorea.json](./57739-pythagorea.json) |
 | Pythagorea 60° | 309096 | [309096-pythagorea-60.json](./309096-pythagorea-60.json) |
 | Pythagorean Complex | 130288 | [130288-pythagorean-complex.json](./130288-pythagorean-complex.json) |
