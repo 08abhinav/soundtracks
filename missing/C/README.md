@@ -4569,6 +4569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef RPG | 191154 | [191154-chef-rpg.json](./191154-chef-rpg.json) |
 | Chef Showdown | 256391 | [256391-chef-showdown.json](./256391-chef-showdown.json) |
 | Chef Solitaire: USA | 33793 | [33793-chef-solitaire-usa.json](./33793-chef-solitaire-usa.json) |
+| Chef Strikes Back | 338511 | [338511-chef-strikes-back.json](./338511-chef-strikes-back.json) |
 | Chef Town | 257007 | [257007-chef-town.json](./257007-chef-town.json) |
 | Chef Wanted | 232665 | [232665-chef-wanted.json](./232665-chef-wanted.json) |
 | Chef Wars | 102115 | [102115-chef-wars.json](./102115-chef-wars.json) |
@@ -4909,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
 | Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
+| Chibi Reboot 2 | 338513 | [338513-chibi-reboot-2.json](./338513-chibi-reboot-2.json) |
 | Chibi Survivor Weather Lord - Survival | 89189 | [89189-chibi-survivor-weather-lord-survival.json](./89189-chibi-survivor-weather-lord-survival.json) |
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
@@ -4956,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Cannon! | 165120 | [165120-chicken-cannon.json](./165120-chicken-cannon.json) |
 | Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
+| Chicken Chasers | 338510 | [338510-chicken-chasers.json](./338510-chicken-chasers.json) |
 | Chicken Chasers | 380067 | [380067-chicken-chasers.json](./380067-chicken-chasers.json) |
 | Chicken Chicken | 390635 | [390635-chicken-chicken.json](./390635-chicken-chicken.json) |
 | Chicken Climber | 401112 | [401112-chicken-climber.json](./401112-chicken-climber.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: What Wishes May Come | 187906 | [187906-chimeras-what-wishes-may-come.json](./187906-chimeras-what-wishes-may-come.json) |
 | Chimeras: What Wishes May Come - Collector's Edition | 166813 | [166813-chimeras-what-wishes-may-come-collectors-edition.json](./166813-chimeras-what-wishes-may-come-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
+| Chimken | 338514 | [338514-chimken.json](./338514-chimken.json) |
 | Chimney Presents | 134406 | [134406-chimney-presents.json](./134406-chimney-presents.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
@@ -5296,6 +5300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Tomb Story | 89388 | [89388-chinese-tomb-story.json](./89388-chinese-tomb-story.json) |
 | Chinese Train Trip | 195190 | [195190-chinese-train-trip.json](./195190-chinese-train-trip.json) |
 | Chinese Tycoon | 247457 | [247457-chinese-tycoon.json](./247457-chinese-tycoon.json) |
+| Chinese universities | 338515 | [338515-chinese-universities.json](./338515-chinese-universities.json) |
 | Chineze | 96712 | [96712-chineze.json](./96712-chineze.json) |
 | ChingMing | 303730 | [303730-chingming.json](./303730-chingming.json) |
 | Chinhai | 38151 | [38151-chinhai.json](./38151-chinhai.json) |
@@ -5645,6 +5650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chowder: Bookin' Cook | 318111 | [318111-chowder-bookin-cook.json](./318111-chowder-bookin-cook.json) |
 | Chowdertwo | 29644 | [29644-chowdertwo.json](./29644-chowdertwo.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
+| Choyo Girl Lilina | 338516 | [338516-choyo-girl-lilina.json](./338516-choyo-girl-lilina.json) |
+| Choyo Girl Lilina: Complete Edition | 338517 | [338517-choyo-girl-lilina-complete-edition.json](./338517-choyo-girl-lilina-complete-edition.json) |
 | Chozetsu Rinjin Berabo Man | 42038 | [42038-chozetsu-rinjin-berabo-man.json](./42038-chozetsu-rinjin-berabo-man.json) |
 | Chri-Bocchi Cat | 308985 | [308985-chri-bocchi-cat.json](./308985-chri-bocchi-cat.json) |
 | Chris and the Badgers | 61592 | [61592-chris-and-the-badgers.json](./61592-chris-and-the-badgers.json) |
@@ -5692,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Fables: The Magic Snowflake - Collector's Edition | 280435 | [280435-christmas-fables-the-magic-snowflake-collectors-edition.json](./280435-christmas-fables-the-magic-snowflake-collectors-edition.json) |
 | Christmas Fables: The Wishing Store - Collector's Edition | 337272 | [337272-christmas-fables-the-wishing-store-collectors-edition.json](./337272-christmas-fables-the-wishing-store-collectors-edition.json) |
+| Christmas Fables: The Wishing Store - Collector's Edition | 338518 | [338518-christmas-fables-the-wishing-store-collectors-edition.json](./338518-christmas-fables-the-wishing-store-collectors-edition.json) |
 | Christmas Fever! | 181648 | [181648-christmas-fever.json](./181648-christmas-fever.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
@@ -5704,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Horse 4 | 280858 | [280858-christmas-horse-4.json](./280858-christmas-horse-4.json) |
 | Christmas Hustle | 320384 | [320384-christmas-hustle.json](./320384-christmas-hustle.json) |
 | Christmas Incident | 382952 | [382952-christmas-incident.json](./382952-christmas-incident.json) |
+| Christmas Infinity | 338519 | [338519-christmas-infinity.json](./338519-christmas-infinity.json) |
 | Christmas Jigsaw Puzzle Pango | 108458 | [108458-christmas-jigsaw-puzzle-pango.json](./108458-christmas-jigsaw-puzzle-pango.json) |
 | Christmas Journey Puzzle | 283840 | [283840-christmas-journey-puzzle.json](./283840-christmas-journey-puzzle.json) |
 | Christmas Jumper Jam | 326981 | [326981-christmas-jumper-jam.json](./326981-christmas-jumper-jam.json) |
@@ -5753,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
+| Christmas Stories: Clara and the Guiding Star - Collector's Edition | 338520 | [338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json](./338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json) |
 | Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier | 139770 | [139770-christmas-stories-hans-christian-andersens-tin-soldier.json](./139770-christmas-stories-hans-christian-andersens-tin-soldier.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier - Collector's Edition | 76481 | [76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json](./76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json) |
@@ -5805,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma | 172046 | [172046-chroma.json](./172046-chroma.json) |
 | Chroma | 311799 | [311799-chroma.json](./311799-chroma.json) |
 | Chroma | 319875 | [319875-chroma.json](./319875-chroma.json) |
+| Chroma | 338521 | [338521-chroma.json](./338521-chroma.json) |
 | Chroma | 5588 | [5588-chroma.json](./5588-chroma.json) |
 | Chroma Blast | 43498 | [43498-chroma-blast.json](./43498-chroma-blast.json) |
 | Chroma Cannon | 136245 | [136245-chroma-cannon.json](./136245-chroma-cannon.json) |
@@ -5829,6 +5840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChromaGun VR | 118742 | [118742-chromagun-vr.json](./118742-chromagun-vr.json) |
 | Chromahertz | 211739 | [211739-chromahertz.json](./211739-chromahertz.json) |
 | Chromancer | 63008 | [63008-chromancer.json](./63008-chromancer.json) |
+| Chromapix | 338523 | [338523-chromapix.json](./338523-chromapix.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
 | Chromasia | 55345 | [55345-chromasia.json](./55345-chromasia.json) |
 | Chromasia Rock Paper Tactics | 112170 | [112170-chromasia-rock-paper-tactics.json](./112170-chromasia-rock-paper-tactics.json) |
@@ -5839,10 +5851,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic | 47138 | [47138-chromatic.json](./47138-chromatic.json) |
 | Chromatic Aberration | 113843 | [113843-chromatic-aberration.json](./113843-chromatic-aberration.json) |
 | Chromatic Battles | 388354 | [388354-chromatic-battles.json](./388354-chromatic-battles.json) |
+| Chromatic Chaos | 338524 | [338524-chromatic-chaos.json](./338524-chromatic-chaos.json) |
+| Chromatic Conundrum | 338525 | [338525-chromatic-conundrum.json](./338525-chromatic-conundrum.json) |
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
 | Chromatic Memories | 291894 | [291894-chromatic-memories.json](./291894-chromatic-memories.json) |
+| Chromatic Odyssey | 338522 | [338522-chromatic-odyssey.json](./338522-chromatic-odyssey.json) |
 | Chromatic Souls | 200734 | [200734-chromatic-souls.json](./200734-chromatic-souls.json) |
 | Chromatic: Color Puzzles | 134425 | [134425-chromatic-color-puzzles.json](./134425-chromatic-color-puzzles.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
@@ -5916,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of the Witches and Warlocks | 34614 | [34614-chronicles-of-the-witches-and-warlocks.json](./34614-chronicles-of-the-witches-and-warlocks.json) |
 | Chronicles of the Wolf | 258184 | [258184-chronicles-of-the-wolf.json](./258184-chronicles-of-the-wolf.json) |
 | Chronicles of Time: Timeline Zero | 239723 | [239723-chronicles-of-time-timeline-zero.json](./239723-chronicles-of-time-timeline-zero.json) |
+| Chronicles of Ultiria | 338526 | [338526-chronicles-of-ultiria.json](./338526-chronicles-of-ultiria.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
@@ -5964,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
 | Chrono Wars | 60604 | [60604-chrono-wars.json](./60604-chrono-wars.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
+| ChronoBabes | 338527 | [338527-chronobabes.json](./338527-chronobabes.json) |
 | ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
 | Chronoblast Maximum Force | 129532 | [129532-chronoblast-maximum-force.json](./129532-chronoblast-maximum-force.json) |
@@ -6275,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
+| Circuit Artist | 338529 | [338529-circuit-artist.json](./338529-circuit-artist.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
 | Circuit Breaker | 261233 | [261233-circuit-breaker.json](./261233-circuit-breaker.json) |
 | Circuit Breaker | 364570 | [364570-circuit-breaker.json](./364570-circuit-breaker.json) |
@@ -6853,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Sky | 196551 | [196551-clash-of-sky.json](./196551-clash-of-sky.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
+| Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
 | Clash of Ten Sides | 348804 | [348804-clash-of-ten-sides.json](./348804-clash-of-ten-sides.json) |
 | Clash of the Metal | 173298 | [173298-clash-of-the-metal.json](./173298-clash-of-the-metal.json) |
 | Clash of the Olympians | 384233 | [384233-clash-of-the-olympians.json](./384233-clash-of-the-olympians.json) |
@@ -7694,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
+| Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
 | Clutter 17: Flower Power - Collector's Edition | 338869 | [338869-clutter-17-flower-power-collectors-edition.json](./338869-clutter-17-flower-power-collectors-edition.json) |
 | Clutter 18: Joe's Ultimate Challenge - Collector's Edition | 369562 | [369562-clutter-18-joes-ultimate-challenge-collectors-edition.json](./369562-clutter-18-joes-ultimate-challenge-collectors-edition.json) |
