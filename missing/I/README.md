@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Mountains | 192325 | [192325-in-the-mountains.json](./192325-in-the-mountains.json) |
 | In the Name of Freedom: Black Apocalypse | 181604 | [181604-in-the-name-of-freedom-black-apocalypse.json](./181604-in-the-name-of-freedom-black-apocalypse.json) |
 | In the name of sin | 74510 | [74510-in-the-name-of-sin.json](./74510-in-the-name-of-sin.json) |
+| In the Name of the Tsar | 321860 | [321860-in-the-name-of-the-tsar.json](./321860-in-the-name-of-the-tsar.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
 | In the Palace of the Birds | 332879 | [332879-in-the-palace-of-the-birds.json](./332879-in-the-palace-of-the-birds.json) |
 | In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
@@ -4765,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
 | It's a Block-Pushing Game | 290354 | [290354-its-a-block-pushing-game.json](./290354-its-a-block-pushing-game.json) |
+| It's A Farmer Thing | 321844 | [321844-its-a-farmer-thing.json](./321844-its-a-farmer-thing.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
 | It's a Gas! | 325080 | [325080-its-a-gas.json](./325080-its-a-gas.json) |
