@@ -8596,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
 | Skatebug | 413101 | [413101-skatebug.json](./413101-skatebug.json) |
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
+| Skatehouse | 325338 | [325338-skatehouse.json](./325338-skatehouse.json) |
 | SkateLab | 300463 | [300463-skatelab.json](./300463-skatelab.json) |
 | Skatelander | 345149 | [345149-skatelander.json](./345149-skatelander.json) |
 | Skatemasta Tcheco | 118401 | [118401-skatemasta-tcheco.json](./118401-skatemasta-tcheco.json) |
@@ -14246,6 +14247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
+| Space Menace 2 | 325315 | [325315-space-menace-2.json](./325315-space-menace-2.json) |
 | Space Merchant | 125813 | [125813-space-merchant.json](./125813-space-merchant.json) |
 | Space Miner | 292838 | [292838-space-miner.json](./292838-space-miner.json) |
 | Space Miner Blast | 120662 | [120662-space-miner-blast.json](./120662-space-miner-blast.json) |
@@ -15879,6 +15881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
+| Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
@@ -16699,6 +16702,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
+| Sqrl Golf | 325340 | [325340-sqrl-golf.json](./325340-sqrl-golf.json) |
+| Sqrl Golf II | 325344 | [325344-sqrl-golf-ii.json](./325344-sqrl-golf-ii.json) |
 | Sqroma | 186020 | [186020-sqroma.json](./186020-sqroma.json) |
 | Sqrxz 2 | 62642 | [62642-sqrxz-2.json](./62642-sqrxz-2.json) |
 | Sqrxz III | 62640 | [62640-sqrxz-iii.json](./62640-sqrxz-iii.json) |
@@ -19549,6 +19554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
+| Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
@@ -21165,6 +21171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
 | Sudden Strike 3: Arms for Victory | 21494 | [21494-sudden-strike-3-arms-for-victory.json](./21494-sudden-strike-3-arms-for-victory.json) |
@@ -24469,6 +24476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supplice | 165070 | [165070-supplice.json](./165070-supplice.json) |
 | Supply Chain | 184296 | [184296-supply-chain.json](./184296-supply-chain.json) |
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
+| Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
