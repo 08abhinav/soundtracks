@@ -1163,6 +1163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician | 319093 | [319093-magician.json](./319093-magician.json) |
 | Magician | 94209 | [94209-magician.json](./94209-magician.json) |
 | Magician Lord | 19109 | [19109-magician-lord.json](./19109-magician-lord.json) |
+| Magician Lord 2 | 324158 | [324158-magician-lord-2.json](./324158-magician-lord-2.json) |
 | Magician of Fallen | 82768 | [82768-magician-of-fallen.json](./82768-magician-of-fallen.json) |
 | Magician's Apprentice | 34587 | [34587-magicians-apprentice.json](./34587-magicians-apprentice.json) |
 | Magician's Quest: Mysterious Times | 21183 | [21183-magicians-quest-mysterious-times.json](./21183-magicians-quest-mysterious-times.json) |
@@ -2277,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
 | Manny's Week | 103250 | [103250-mannys-week.json](./103250-mannys-week.json) |
+| Manoli: Aprendiz de Hechicera | 324141 | [324141-manoli-aprendiz-de-hechicera.json](./324141-manoli-aprendiz-de-hechicera.json) |
 | Manonnikki | 229698 | [229698-manonnikki.json](./229698-manonnikki.json) |
 | Manor Cafe | 105854 | [105854-manor-cafe.json](./105854-manor-cafe.json) |
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
@@ -4677,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
+| Me And Gamer Girl: Gamer-joshi to Hikikomori | 324197 | [324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json](./324197-me-and-gamer-girl-gamer-joshi-to-hikikomori.json) |
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
@@ -4684,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
 | Me de Unou wo Kitaeru: DS Sokudoku Jutsu | 316121 | [316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json](./316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json) |
+| Me Go Store! | 324142 | [324142-me-go-store.json](./324142-me-go-store.json) |
 | Me is King | 212521 | [212521-me-is-king.json](./212521-me-is-king.json) |
 | Me Mostre Sonhos Doces | 299121 | [299121-me-mostre-sonhos-doces.json](./299121-me-mostre-sonhos-doces.json) |
 | Me Myself & Die | 184360 | [184360-me-myself-and-die.json](./184360-me-myself-and-die.json) |
@@ -4888,6 +4892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanism | 183984 | [183984-mechanism.json](./183984-mechanism.json) |
 | Mechanism | 251718 | [251718-mechanism.json](./251718-mechanism.json) |
 | Mechanism | 68169 | [68169-mechanism.json](./68169-mechanism.json) |
+| Mechanismo | 324143 | [324143-mechanismo.json](./324143-mechanismo.json) |
 | Mechanita | 328100 | [328100-mechanita.json](./328100-mechanita.json) |
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
@@ -6118,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Holmes: M kara no Chousenjou | 48777 | [48777-meitantei-holmes-m-kara-no-chousenjou.json](./48777-meitantei-holmes-m-kara-no-chousenjou.json) |
 | Meitantei no Nazotoki Suuri: Thrill to Suspence no Jiken Kaiketsu Nazotoki Game | 240223 | [240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json](./240223-meitantei-no-nazotoki-suuri-thrill-to-suspence-no-jiken-kaiketsu-nazotoki-game.json) |
 | Meitantei Pikachu: Shin Konbi Tanjou | 222360 | [222360-meitantei-pikachu-shin-konbi-tanjou.json](./222360-meitantei-pikachu-shin-konbi-tanjou.json) |
+| Meji Jones y la Última Búsqueda Desesperada | 324144 | [324144-meji-jones-y-la-ultima-busqueda-desesperada.json](./324144-meji-jones-y-la-ultima-busqueda-desesperada.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
 | Mekabolt | 120032 | [120032-mekabolt.json](./120032-mekabolt.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
@@ -6509,6 +6515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black: The Game | 200455 | [200455-men-in-black-the-game.json](./200455-men-in-black-the-game.json) |
 | Men in Black: The Series | 240165 | [240165-men-in-black-the-series.json](./240165-men-in-black-the-series.json) |
 | Men in Black: The Series | 49285 | [49285-men-in-black-the-series.json](./49285-men-in-black-the-series.json) |
+| Men in Hats: Attack of the Evangelists | 324146 | [324146-men-in-hats-attack-of-the-evangelists.json](./324146-men-in-hats-attack-of-the-evangelists.json) |
 | Men in Pants | 256750 | [256750-men-in-pants.json](./256750-men-in-pants.json) |
 | Men of Conviction | 316357 | [316357-men-of-conviction.json](./316357-men-of-conviction.json) |
 | Men of Valor | 5913 | [5913-men-of-valor.json](./5913-men-of-valor.json) |
@@ -7571,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mania 7 | 242110 | [242110-mickey-mania-7.json](./242110-mickey-mania-7.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256367 | [256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
+| Mickey Mauser: The Wrath of the Rat | 324150 | [324150-mickey-mauser-the-wrath-of-the-rat.json](./324150-mickey-mauser-the-wrath-of-the-rat.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
 | Mickey Mouse | 198817 | [198817-mickey-mouse.json](./198817-mickey-mouse.json) |
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
@@ -9104,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper | 89153 | [89153-minesweeper.json](./89153-minesweeper.json) |
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
+| Minesweeper & Dungeon RPG | 324153 | [324153-minesweeper-and-dungeon-rpg.json](./324153-minesweeper-and-dungeon-rpg.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
 | Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
@@ -9556,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minoes | 133250 | [133250-minoes.json](./133250-minoes.json) |
 | Minor Deity | 371478 | [371478-minor-deity.json](./371478-minor-deity.json) |
 | Minor Miner: Mining Action | 232035 | [232035-minor-miner-mining-action.json](./232035-minor-miner-mining-action.json) |
+| Minor Minion | 324163 | [324163-minor-minion.json](./324163-minor-minion.json) |
 | Minor Planet Miner | 184396 | [184396-minor-planet-miner.json](./184396-minor-planet-miner.json) |
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
@@ -11046,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Hit | 147757 | [147757-monkey-hit.json](./147757-monkey-hit.json) |
 | Monkey in the Zoo | 391855 | [391855-monkey-in-the-zoo.json](./391855-monkey-in-the-zoo.json) |
 | Monkey Island 2 Special Edition: LeChuck's Revenge | 66 | [66-monkey-island-2-special-edition-lechucks-revenge.json](./66-monkey-island-2-special-edition-lechucks-revenge.json) |
+| Monkey Island 2.5: El Parque de las Pesadillas | 324164 | [324164-monkey-island-2-5-el-parque-de-las-pesadillas.json](./324164-monkey-island-2-5-el-parque-de-las-pesadillas.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
@@ -11208,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monowars: Red Zone | 106423 | [106423-monowars-red-zone.json](./106423-monowars-red-zone.json) |
 | Monoyellow Madness | 321443 | [321443-monoyellow-madness.json](./321443-monoyellow-madness.json) |
 | Monpals | 228383 | [228383-monpals.json](./228383-monpals.json) |
+| Monpic: The Hatchling Meets a Girl | 324138 | [324138-monpic-the-hatchling-meets-a-girl.json](./324138-monpic-the-hatchling-meets-a-girl.json) |
 | Monria | 22385 | [22385-monria.json](./22385-monria.json) |
 | Monroe Park | 376564 | [376564-monroe-park.json](./376564-monroe-park.json) |
 | Mons | 178008 | [178008-mons.json](./178008-mons.json) |
