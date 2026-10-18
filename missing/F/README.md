@@ -5067,6 +5067,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Jaygi's: Into Dreams... | 322379 | [322379-five-nights-at-jaygis-into-dreams.json](./322379-five-nights-at-jaygis-into-dreams.json) |
 | Five Nights At Jerpig's | 206010 | [206010-five-nights-at-jerpigs.json](./206010-five-nights-at-jerpigs.json) |
 | Five Nights at Kyle's 2 | 179724 | [179724-five-nights-at-kyles-2.json](./179724-five-nights-at-kyles-2.json) |
+| Five Nights at Leon's | 362592 | [362592-five-nights-at-leons.json](./362592-five-nights-at-leons.json) |
+| Five Nights at Leon’s 2 | 362610 | [362610-five-nights-at-leon-s-2.json](./362610-five-nights-at-leon-s-2.json) |
+| Five Nights at Leon’s 3 | 362602 | [362602-five-nights-at-leon-s-3.json](./362602-five-nights-at-leon-s-3.json) |
+| Five Nights at Leon’s 4 | 362595 | [362595-five-nights-at-leon-s-4.json](./362595-five-nights-at-leon-s-4.json) |
+| Five Nights at Leon's: Remastered | 362594 | [362594-five-nights-at-leons-remastered.json](./362594-five-nights-at-leons-remastered.json) |
 | Five Nights At Maggies | 301498 | [301498-five-nights-at-maggies.json](./301498-five-nights-at-maggies.json) |
 | Five Nights At Monkeys | 374968 | [374968-five-nights-at-monkeys.json](./374968-five-nights-at-monkeys.json) |
 | Five Nights at Pikachu's | 360770 | [360770-five-nights-at-pikachus.json](./360770-five-nights-at-pikachus.json) |
