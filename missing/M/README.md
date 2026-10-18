@@ -12938,6 +12938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
 | Motorcycle Ride: Infinity | 373886 | [373886-motorcycle-ride-infinity.json](./373886-motorcycle-ride-infinity.json) |
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
+| Motorcycle Sales Simulator | 326474 | [326474-motorcycle-sales-simulator.json](./326474-motorcycle-sales-simulator.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | Motorfish | 376214 | [376214-motorfish.json](./376214-motorfish.json) |
@@ -14521,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
+| My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
