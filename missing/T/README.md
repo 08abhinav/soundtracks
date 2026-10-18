@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Town | 114793 | [114793-tasty-town.json](./114793-tasty-town.json) |
 | Tasty Words - Free Word Games | 105973 | [105973-tasty-words-free-word-games.json](./105973-tasty-words-free-word-games.json) |
 | TastyPlanet Back for SecondsHD | 88644 | [88644-tastyplanet-back-for-secondshd.json](./88644-tastyplanet-back-for-secondshd.json) |
+| Tasu Bowl | 349101 | [349101-tasu-bowl.json](./349101-tasu-bowl.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
 | Terra Exodus | 294373 | [294373-terra-exodus.json](./294373-terra-exodus.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
+| Terra Fighters | 349176 | [349176-terra-fighters.json](./349176-terra-fighters.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
 | Terra Flame | 197265 | [197265-terra-flame.json](./197265-terra-flame.json) |
@@ -8800,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Spell | 121501 | [121501-the-last-spell.json](./121501-the-last-spell.json) |
 | The Last Sphinx ARG | 111473 | [111473-the-last-sphinx-arg.json](./111473-the-last-sphinx-arg.json) |
 | The Last Spin | 298632 | [298632-the-last-spin.json](./298632-the-last-spin.json) |
+| The Last Squad | 349107 | [349107-the-last-squad.json](./349107-the-last-squad.json) |
 | The Last Stand | 148353 | [148353-the-last-stand.json](./148353-the-last-stand.json) |
 | The Last Stand | 344396 | [344396-the-last-stand.json](./344396-the-last-stand.json) |
 | The Last Stand | 61584 | [61584-the-last-stand.json](./61584-the-last-stand.json) |
@@ -9738,6 +9741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
+| The Maiden and the Cow | 349087 | [349087-the-maiden-and-the-cow.json](./349087-the-maiden-and-the-cow.json) |
 | The Mailroom | 365273 | [365273-the-mailroom.json](./365273-the-mailroom.json) |
 | The Maimed God's Saga | 348380 | [348380-the-maimed-gods-saga.json](./348380-the-maimed-gods-saga.json) |
 | The Main Event | 39499 | [39499-the-main-event.json](./39499-the-main-event.json) |
@@ -10353,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Notzing Project | 323555 | [323555-the-notzing-project.json](./323555-the-notzing-project.json) |
 | The Nova Era | 209712 | [209712-the-nova-era.json](./209712-the-nova-era.json) |
 | The Novelist | 10733 | [10733-the-novelist.json](./10733-the-novelist.json) |
+| The Novice: Animal Kingdom | 349109 | [349109-the-novice-animal-kingdom.json](./349109-the-novice-animal-kingdom.json) |
 | The Now We've Named | 215226 | [215226-the-now-weve-named.json](./215226-the-now-weve-named.json) |
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The NTR Pregnancy Hunting Adventure of Karen: Whose Seed Will Wife Get Pregnant Of | 82734 | [82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json](./82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json) |
@@ -13240,6 +13245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underworld | 71175 | [71175-the-underworld.json](./71175-the-underworld.json) |
 | The Undying Beast | 177310 | [177310-the-undying-beast.json](./177310-the-undying-beast.json) |
 | The Undying Plague | 35759 | [35759-the-undying-plague.json](./35759-the-undying-plague.json) |
+| The Undying Sea | 349092 | [349092-the-undying-sea.json](./349092-the-undying-sea.json) |
 | The Unexpected (But Not Entirely Surprising) Demise of Jacques du Schnozzle | 329126 | [329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json](./329126-the-unexpected-but-not-entirely-surprising-demise-of-jacques-du-schnozzle.json) |
 | The Unexpected Heiress | 313854 | [313854-the-unexpected-heiress.json](./313854-the-unexpected-heiress.json) |
 | The Unexplained | 215731 | [215731-the-unexplained.json](./215731-the-unexplained.json) |
@@ -14724,6 +14730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne & Conquest: King Arthur | 414549 | [414549-throne-and-conquest-king-arthur.json](./414549-throne-and-conquest-king-arthur.json) |
 | Throne and Crown | 193277 | [193277-throne-and-crown.json](./193277-throne-and-crown.json) |
 | Throne and Liberty | 117294 | [117294-throne-and-liberty.json](./117294-throne-and-liberty.json) |
+| Throne of Ages | 349119 | [349119-throne-of-ages.json](./349119-throne-of-ages.json) |
 | Throne of Belial | 299851 | [299851-throne-of-belial.json](./299851-throne-of-belial.json) |
 | Throne of Blood | 358823 | [358823-throne-of-blood.json](./358823-throne-of-blood.json) |
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
@@ -23585,6 +23592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
+| Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
