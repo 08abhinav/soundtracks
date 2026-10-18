@@ -2102,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Princess: Super Version | 328819 | [328819-fashion-princess-super-version.json](./328819-fashion-princess-super-version.json) |
 | Fashion Princess: Ultimate Edition | 268555 | [268555-fashion-princess-ultimate-edition.json](./268555-fashion-princess-ultimate-edition.json) |
 | Fashion Season | 176895 | [176895-fashion-season.json](./176895-fashion-season.json) |
+| Fashion Shop Simulator | 345817 | [345817-fashion-shop-simulator.json](./345817-fashion-shop-simulator.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Golf 2 | 88291 | [88291-flappy-golf-2.json](./88291-flappy-golf-2.json) |
 | Flappy Golf Party | 372089 | [372089-flappy-golf-party.json](./372089-flappy-golf-party.json) |
 | Flappy Gravity | 27570 | [27570-flappy-gravity.json](./27570-flappy-gravity.json) |
+| Flappy Harpy Daddy | 345830 | [345830-flappy-harpy-daddy.json](./345830-flappy-harpy-daddy.json) |
 | Flappy Helix | 265757 | [265757-flappy-helix.json](./265757-flappy-helix.json) |
 | Flappy Horse | 309373 | [309373-flappy-horse.json](./309373-flappy-horse.json) |
 | Flappy Limited '85 | 47528 | [47528-flappy-limited-85.json](./47528-flappy-limited-85.json) |
@@ -5359,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaregate Network | 325286 | [325286-flaregate-network.json](./325286-flaregate-network.json) |
 | Flarts | 233637 | [233637-flarts.json](./233637-flarts.json) |
 | Flash and Die | 391167 | [391167-flash-and-die.json](./391167-flash-and-die.json) |
+| Flash Bash | 345845 | [345845-flash-bash.json](./345845-flash-bash.json) |
 | Flash Boy | 58035 | [58035-flash-boy.json](./58035-flash-boy.json) |
 | Flash Cat | 322349 | [322349-flash-cat.json](./322349-flash-cat.json) |
 | Flash Cycle 2 | 286631 | [286631-flash-cycle-2.json](./286631-flash-cycle-2.json) |
