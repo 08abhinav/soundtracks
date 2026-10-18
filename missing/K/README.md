@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
+| K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
@@ -1082,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep it Up | 312824 | [312824-keep-it-up.json](./312824-keep-it-up.json) |
 | Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
+| Keep Leapin' | 309753 | [309753-keep-leapin.json](./309753-keep-leapin.json) |
 | Keep Light | 190407 | [190407-keep-light.json](./190407-keep-light.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Looking | 320582 | [320582-keep-looking.json](./320582-keep-looking.json) |
