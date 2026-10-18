@@ -4282,6 +4282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
 | BeeFense | 29096 | [29096-beefense.json](./29096-beefense.json) |
+| BeeFriend | 320045 | [320045-beefriend.json](./320045-beefriend.json) |
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
