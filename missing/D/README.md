@@ -10978,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonsweeper | 328076 | [328076-dragonsweeper.json](./328076-dragonsweeper.json) |
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
+| Dragontwin | 328849 | [328849-dragontwin.json](./328849-dragontwin.json) |
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
@@ -11070,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw & Guess | 150463 | [150463-draw-and-guess.json](./150463-draw-and-guess.json) |
 | Draw & Guess Multiplayer | 348948 | [348948-draw-and-guess-multiplayer.json](./348948-draw-and-guess-multiplayer.json) |
 | Draw 2 Save: Stickman Puzzle | 208980 | [208980-draw-2-save-stickman-puzzle.json](./208980-draw-2-save-stickman-puzzle.json) |
+| Draw a Perfect Circle | 328844 | [328844-draw-a-perfect-circle.json](./328844-draw-a-perfect-circle.json) |
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
