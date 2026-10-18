@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Let Loose: Soviet Bundle | 274433 | [274433-hell-let-loose-soviet-bundle.json](./274433-hell-let-loose-soviet-bundle.json) |
 | Hell Let Loose: Spearhead Edition | 187975 | [187975-hell-let-loose-spearhead-edition.json](./187975-hell-let-loose-spearhead-edition.json) |
 | Hell Let Loose: Ultimate Edition | 273003 | [273003-hell-let-loose-ultimate-edition.json](./273003-hell-let-loose-ultimate-edition.json) |
+| Hell Let Loose: Vietnam | 362063 | [362063-hell-let-loose-vietnam.json](./362063-hell-let-loose-vietnam.json) |
 | Hell Let Loose: Wacht am Rhein Units | 332022 | [332022-hell-let-loose-wacht-am-rhein-units.json](./332022-hell-let-loose-wacht-am-rhein-units.json) |
 | Hell Let Loose: Western Desert Campaign Units | 372251 | [372251-hell-let-loose-western-desert-campaign-units.json](./372251-hell-let-loose-western-desert-campaign-units.json) |
 | Hell Loop | 149526 | [149526-hell-loop.json](./149526-hell-loop.json) |
@@ -4210,6 +4211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroClix TabApp ASM | 64099 | [64099-heroclix-tabapp-asm.json](./64099-heroclix-tabapp-asm.json) |
 | Herodes | 203244 | [203244-herodes.json](./203244-herodes.json) |
 | Heroes & Dice | 348833 | [348833-heroes-and-dice.json](./348833-heroes-and-dice.json) |
+| Heroes & Dragons | 362013 | [362013-heroes-and-dragons.json](./362013-heroes-and-dragons.json) |
 | Heroes & Generals WWII | 139195 | [139195-heroes-and-generals-wwii.json](./139195-heroes-and-generals-wwii.json) |
 | Heroes & Generals: GE Giga Pack | 161911 | [161911-heroes-and-generals-ge-giga-pack.json](./161911-heroes-and-generals-ge-giga-pack.json) |
 | Heroes & Generals: GE Mega Pack | 161916 | [161916-heroes-and-generals-ge-mega-pack.json](./161916-heroes-and-generals-ge-mega-pack.json) |
@@ -6715,11 +6717,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Dark Xuan Yuan Sword | 361296 | [361296-honkai-impact-3rd-dark-xuan-yuan-sword.json](./361296-honkai-impact-3rd-dark-xuan-yuan-sword.json) |
 | Honkai Impact 3rd: Dawn of Glory | 279724 | [279724-honkai-impact-3rd-dawn-of-glory.json](./279724-honkai-impact-3rd-dawn-of-glory.json) |
+| Honkai Impact 3rd: Dorm Life | 362032 | [362032-honkai-impact-3rd-dorm-life.json](./362032-honkai-impact-3rd-dorm-life.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
 | Honkai Impact 3rd: Equinox Gate | 276497 | [276497-honkai-impact-3rd-equinox-gate.json](./276497-honkai-impact-3rd-equinox-gate.json) |
 | Honkai Impact 3rd: Fading Dreams, Dimming Shadows | 309112 | [309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json](./309112-honkai-impact-3rd-fading-dreams-dimming-shadows.json) |
 | Honkai Impact 3rd: Fēngyìn Zhī Jiàn | 361294 | [361294-honkai-impact-3rd-fengyin-zhi-jian.json](./361294-honkai-impact-3rd-fengyin-zhi-jian.json) |
 | Honkai Impact 3rd: Flickers of a Spacetime Warp | 350593 | [350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json](./350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json) |
+| Honkai Impact 3rd: Florid Mitama | 362027 | [362027-honkai-impact-3rd-florid-mitama.json](./362027-honkai-impact-3rd-florid-mitama.json) |
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
 | Honkai Impact 3rd: In Search of the Sun | 327458 | [327458-honkai-impact-3rd-in-search-of-the-sun.json](./327458-honkai-impact-3rd-in-search-of-the-sun.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
@@ -6732,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Pristine Realm | 276504 | [276504-honkai-impact-3rd-pristine-realm.json](./276504-honkai-impact-3rd-pristine-realm.json) |
 | Honkai Impact 3rd: Re: Promise to Luna | 276505 | [276505-honkai-impact-3rd-re-promise-to-luna.json](./276505-honkai-impact-3rd-re-promise-to-luna.json) |
 | Honkai Impact 3rd: Rhythms of Neon | 279713 | [279713-honkai-impact-3rd-rhythms-of-neon.json](./279713-honkai-impact-3rd-rhythms-of-neon.json) |
+| Honkai Impact 3rd: Ritual Imayoh Revival | 362028 | [362028-honkai-impact-3rd-ritual-imayoh-revival.json](./362028-honkai-impact-3rd-ritual-imayoh-revival.json) |
 | Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
 | Honkai Impact 3rd: Roving Among Clouds | 340972 | [340972-honkai-impact-3rd-roving-among-clouds.json](./340972-honkai-impact-3rd-roving-among-clouds.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
