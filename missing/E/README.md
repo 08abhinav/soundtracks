@@ -2211,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emiru Game | 315718 | [315718-emiru-game.json](./315718-emiru-game.json) |
 | Emissary | 413714 | [413714-emissary.json](./413714-emissary.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
+| Emissary Zero | 329342 | [329342-emissary-zero.json](./329342-emissary-zero.json) |
 | EMIT Vol. 1: Toki no Maigo | 60972 | [60972-emit-vol-1-toki-no-maigo.json](./60972-emit-vol-1-toki-no-maigo.json) |
 | EMIT Vol. 2: Inochigake no Tabi | 60966 | [60966-emit-vol-2-inochigake-no-tabi.json](./60966-emit-vol-2-inochigake-no-tabi.json) |
 | EMIT Vol. 3: Watashi ni Sayonara wo | 60967 | [60967-emit-vol-3-watashi-ni-sayonara-wo.json](./60967-emit-vol-3-watashi-ni-sayonara-wo.json) |
@@ -2893,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
+| English Sensei: Teaching in Japan | 329441 | [329441-english-sensei-teaching-in-japan.json](./329441-english-sensei-teaching-in-japan.json) |
 | English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
 | English with Rayman | 193344 | [193344-english-with-rayman.json](./193344-english-with-rayman.json) |
 | Engolasters January 2021 | 142111 | [142111-engolasters-january-2021.json](./142111-engolasters-january-2021.json) |
