@@ -2898,6 +2898,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Legacy 1 Vol. 17 | 283645 | [283645-mario-party-legacy-1-vol-17.json](./283645-mario-party-legacy-1-vol-17.json) |
 | Mario Party Legacy 1 Vol. 19 | 283650 | [283650-mario-party-legacy-1-vol-19.json](./283650-mario-party-legacy-1-vol-19.json) |
 | Mario Party Legacy 1 Vol. 2 | 283422 | [283422-mario-party-legacy-1-vol-2.json](./283422-mario-party-legacy-1-vol-2.json) |
+| Mario Party-e: Duel Challenge - Balloon Burst! | 351413 | [351413-mario-party-e-duel-challenge-balloon-burst.json](./351413-mario-party-e-duel-challenge-balloon-burst.json) |
+| Mario Party-e: Duel Challenge - Bolt from Boo | 351417 | [351417-mario-party-e-duel-challenge-bolt-from-boo.json](./351417-mario-party-e-duel-challenge-bolt-from-boo.json) |
+| Mario Party-e: Duel Challenge - Time Bomb Ticks! | 351419 | [351419-mario-party-e-duel-challenge-time-bomb-ticks.json](./351419-mario-party-e-duel-challenge-time-bomb-ticks.json) |
+| Mario Party-e: Duel Challenge - Waluigi's Reign | 351420 | [351420-mario-party-e-duel-challenge-waluigis-reign.json](./351420-mario-party-e-duel-challenge-waluigis-reign.json) |
+| Mario Party-e: Duel Challenge - Wario's Bluff | 351412 | [351412-mario-party-e-duel-challenge-warios-bluff.json](./351412-mario-party-e-duel-challenge-warios-bluff.json) |
+| Mario Party-e: Free Challenge - Cast Away Mario! | 351406 | [351406-mario-party-e-free-challenge-cast-away-mario.json](./351406-mario-party-e-free-challenge-cast-away-mario.json) |
+| Mario Party-e: Free Challenge - Daisy's Rodeo! | 351410 | [351410-mario-party-e-free-challenge-daisys-rodeo.json](./351410-mario-party-e-free-challenge-daisys-rodeo.json) |
+| Mario Party-e: Free Challenge - Fast Feed Yoshi! | 351415 | [351415-mario-party-e-free-challenge-fast-feed-yoshi.json](./351415-mario-party-e-free-challenge-fast-feed-yoshi.json) |
+| Mario Party-e: Free Challenge - Mario's Mallet | 351407 | [351407-mario-party-e-free-challenge-marios-mallet.json](./351407-mario-party-e-free-challenge-marios-mallet.json) |
+| Mario Party-e: Wonder Challenge - Lakitu's Luck | 351408 | [351408-mario-party-e-wonder-challenge-lakitus-luck.json](./351408-mario-party-e-wonder-challenge-lakitus-luck.json) |
+| Mario Party-e: Wonder Challenge - Spinister Bowser | 351409 | [351409-mario-party-e-wonder-challenge-spinister-bowser.json](./351409-mario-party-e-wonder-challenge-spinister-bowser.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
@@ -9999,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistia - The Kingdom of Krasten | 140464 | [140464-mistia-the-kingdom-of-krasten.json](./140464-mistia-the-kingdom-of-krasten.json) |
 | Misticheskii Ostrov | 99185 | [99185-misticheskii-ostrov.json](./99185-misticheskii-ostrov.json) |
 | Mistified | 254375 | [254375-mistified.json](./254375-mistified.json) |
+| Mistlands: Wheats & Demons | 351404 | [351404-mistlands-wheats-and-demons.json](./351404-mistlands-wheats-and-demons.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
@@ -11675,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstinder | 180545 | [180545-monstinder.json](./180545-monstinder.json) |
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstopia: Chronicle of Jade's | 201076 | [201076-monstopia-chronicle-of-jades.json](./201076-monstopia-chronicle-of-jades.json) |
+| Monstrata | 351403 | [351403-monstrata.json](./351403-monstrata.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstress Academy | 83802 | [83802-monstress-academy.json](./83802-monstress-academy.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
