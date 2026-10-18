@@ -5157,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
 | Medievalfield | 200695 | [200695-medievalfield.json](./200695-medievalfield.json) |
 | Medievalien | 142731 | [142731-medievalien.json](./142731-medievalien.json) |
+| Medievaly: Battle Simulator | 334541 | [334541-medievaly-battle-simulator.json](./334541-medievaly-battle-simulator.json) |
 | MediEvil | 299389 | [299389-medievil.json](./299389-medievil.json) |
 | MediEvil | 4000 | [4000-medievil.json](./4000-medievil.json) |
 | MediEvil II | 329195 | [329195-medievil-ii.json](./329195-medievil-ii.json) |
