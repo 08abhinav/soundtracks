@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Colony | 354409 | [354409-penguin-colony.json](./354409-penguin-colony.json) |
 | Penguin Detectives: Crash Patrol | 317555 | [317555-penguin-detectives-crash-patrol.json](./317555-penguin-detectives-crash-patrol.json) |
 | Penguin Escape | 326236 | [326236-penguin-escape.json](./326236-penguin-escape.json) |
+| Penguin Festival | 335130 | [335130-penguin-festival.json](./335130-penguin-festival.json) |
 | Penguin Flight | 328443 | [328443-penguin-flight.json](./328443-penguin-flight.json) |
 | Penguin Flight: Beyond The Clouds | 342149 | [342149-penguin-flight-beyond-the-clouds.json](./342149-penguin-flight-beyond-the-clouds.json) |
 | Penguin Helper | 302112 | [302112-penguin-helper.json](./302112-penguin-helper.json) |
@@ -8339,6 +8340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
+| Pokémon: Chaotic Flame | 335147 | [335147-pokemon-chaotic-flame.json](./335147-pokemon-chaotic-flame.json) |
 | Pokémon: Close Combat | 266866 | [266866-pokemon-close-combat.json](./266866-pokemon-close-combat.json) |
 | Pokémon: Cuerpo de Cristal | 307784 | [307784-pokemon-cuerpo-de-cristal.json](./307784-pokemon-cuerpo-de-cristal.json) |
 | Pokémon: Desert Bus | 313114 | [313114-pokemon-desert-bus.json](./313114-pokemon-desert-bus.json) |
@@ -8347,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Final Legacy | 313406 | [313406-pokemon-final-legacy.json](./313406-pokemon-final-legacy.json) |
 | Pokémon: Ghost Grey Version | 414524 | [414524-pokemon-ghost-grey-version.json](./414524-pokemon-ghost-grey-version.json) |
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
+| Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Let's Go, Eevee! | 102873 | [102873-pokemon-lets-go-eevee.json](./102873-pokemon-lets-go-eevee.json) |
 | Pokémon: Let's Go, Eevee! GBA | 217860 | [217860-pokemon-lets-go-eevee-gba.json](./217860-pokemon-lets-go-eevee-gba.json) |
@@ -9468,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Post-Soviet Yandere | 159838 | [159838-post-soviet-yandere.json](./159838-post-soviet-yandere.json) |
 | Post/Capitalism | 139165 | [139165-post-capitalism.json](./139165-post-capitalism.json) |
 | Postal 2 Redux | 349433 | [349433-postal-2-redux.json](./349433-postal-2-redux.json) |
+| Postal 2 VR | 335134 | [335134-postal-2-vr.json](./335134-postal-2-vr.json) |
 | Postal 2: A Very Postal Christmas | 129788 | [129788-postal-2-a-very-postal-christmas.json](./129788-postal-2-a-very-postal-christmas.json) |
 | Postal 2: A Week in Paradise | 129789 | [129789-postal-2-a-week-in-paradise.json](./129789-postal-2-a-week-in-paradise.json) |
 | Postal 2: Apocalypse Weekend | 3131 | [3131-postal-2-apocalypse-weekend.json](./3131-postal-2-apocalypse-weekend.json) |
@@ -11402,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Home | 177336 | [177336-project-home.json](./177336-project-home.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
+| Project Hopes | 335155 | [335155-project-hopes.json](./335155-project-hopes.json) |
 | Project Horizon | 345088 | [345088-project-horizon.json](./345088-project-horizon.json) |
 | Project Horror Anthology: Project Prequel | 244183 | [244183-project-horror-anthology-project-prequel.json](./244183-project-horror-anthology-project-prequel.json) |
 | Project Horror Tales | 240174 | [240174-project-horror-tales.json](./240174-project-horror-tales.json) |
@@ -12336,6 +12341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puff. | 316817 | [316817-puff.json](./316817-puff.json) |
 | Puffer Fish | 95555 | [95555-puffer-fish.json](./95555-puffer-fish.json) |
 | Puffer Pop | 250464 | [250464-puffer-pop.json](./250464-puffer-pop.json) |
+| Puffies. | 335141 | [335141-puffies.json](./335141-puffies.json) |
 | Puffin Parcel Post | 346106 | [346106-puffin-parcel-post.json](./346106-puffin-parcel-post.json) |
 | Puffin Planes | 302205 | [302205-puffin-planes.json](./302205-puffin-planes.json) |
 | Puffins: Island Adventure | 68030 | [68030-puffins-island-adventure.json](./68030-puffins-island-adventure.json) |
