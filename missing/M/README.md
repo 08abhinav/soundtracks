@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnificent-1 | 196137 | [196137-magnificent-1.json](./196137-magnificent-1.json) |
 | Magnifico | 17781 | [17781-magnifico.json](./17781-magnifico.json) |
 | Magnir Saga Part 1 | 263227 | [263227-magnir-saga-part-1.json](./263227-magnir-saga-part-1.json) |
+| Magnitude | 322417 | [322417-magnitude.json](./322417-magnitude.json) |
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
@@ -11081,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey King: Master of the Clouds | 103248 | [103248-monkey-king-master-of-the-clouds.json](./103248-monkey-king-master-of-the-clouds.json) |
 | Monkey Knife Fight | 354407 | [354407-monkey-knife-fight.json](./354407-monkey-knife-fight.json) |
 | Monkey Kong | 94343 | [94343-monkey-kong.json](./94343-monkey-kong.json) |
+| Monkey Kong in New York | 322418 | [322418-monkey-kong-in-new-york.json](./322418-monkey-kong-in-new-york.json) |
 | Monkey Labour | 65435 | [65435-monkey-labour.json](./65435-monkey-labour.json) |
 | Monkey Land 3D: Reaper Rush | 30055 | [30055-monkey-land-3d-reaper-rush.json](./30055-monkey-land-3d-reaper-rush.json) |
 | Monkey Lander | 241474 | [241474-monkey-lander.json](./241474-monkey-lander.json) |
@@ -11680,6 +11682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
 | Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
+| Monster Truck Arena: Battle Royale | 322419 | [322419-monster-truck-arena-battle-royale.json](./322419-monster-truck-arena-battle-royale.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
