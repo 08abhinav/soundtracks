@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
 | One Jump Bomb | 108234 | [108234-one-jump-bomb.json](./108234-one-jump-bomb.json) |
 | One Just Night | 278487 | [278487-one-just-night.json](./278487-one-just-night.json) |
+| One King Is Enough | 348581 | [348581-one-king-is-enough.json](./348581-one-king-is-enough.json) |
 | One Last Adventure | 294808 | [294808-one-last-adventure.json](./294808-one-last-adventure.json) |
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
