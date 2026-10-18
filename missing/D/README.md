@@ -3626,6 +3626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 184605 | [184605-deep.json](./184605-deep.json) |
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
+| Deep 3D: Submarine Odyssey | 338047 | [338047-deep-3d-submarine-odyssey.json](./338047-deep-3d-submarine-odyssey.json) |
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
 | Deep Alchemy Dungeon | 207500 | [207500-deep-alchemy-dungeon.json](./207500-deep-alchemy-dungeon.json) |
 | Deep Among the Swarm | 285013 | [285013-deep-among-the-swarm.json](./285013-deep-among-the-swarm.json) |
@@ -7050,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
 | Disc Golf Game | 89834 | [89834-disc-golf-game.json](./89834-disc-golf-game.json) |
+| Disc Golf Masters | 338053 | [338053-disc-golf-masters.json](./338053-disc-golf-masters.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
 | Disc Golf Valley | 146108 | [146108-disc-golf-valley.json](./146108-disc-golf-valley.json) |
