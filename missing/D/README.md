@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
+| Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Celestialpod | 99159 | [99159-dawn-of-the-celestialpod.json](./99159-dawn-of-the-celestialpod.json) |
 | Dawn of the Damned | 259477 | [259477-dawn-of-the-damned.json](./259477-dawn-of-the-damned.json) |
@@ -10442,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Booster | 47891 | [47891-dragon-booster.json](./47891-dragon-booster.json) |
 | Dragon Bowl | 37344 | [37344-dragon-bowl.json](./37344-dragon-bowl.json) |
 | Dragon Boy | 108995 | [108995-dragon-boy.json](./108995-dragon-boy.json) |
+| Dragon Boy II | 345838 | [345838-dragon-boy-ii.json](./345838-dragon-boy-ii.json) |
 | Dragon Break Classic | 151850 | [151850-dragon-break-classic.json](./151850-dragon-break-classic.json) |
 | Dragon Break Classic Head to Head | 152755 | [152755-dragon-break-classic-head-to-head.json](./152755-dragon-break-classic-head-to-head.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
