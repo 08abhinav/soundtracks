@@ -1258,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken's Labyrinth | 8743 | [8743-kens-labyrinth.json](./8743-kens-labyrinth.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
 | Kena: Bridge of Spirits - Digital Deluxe | 169183 | [169183-kena-bridge-of-spirits-digital-deluxe.json](./169183-kena-bridge-of-spirits-digital-deluxe.json) |
+| Kena: Bridge of Spirits - Premium Edition | 324768 | [324768-kena-bridge-of-spirits-premium-edition.json](./324768-kena-bridge-of-spirits-premium-edition.json) |
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Rider | 16128 | [16128-kung-fu-rider.json](./16128-kung-fu-rider.json) |
 | Kung Fu Road | 62620 | [62620-kung-fu-road.json](./62620-kung-fu-road.json) |
 | Kung Fu School | 230888 | [230888-kung-fu-school.json](./230888-kung-fu-school.json) |
+| Kung Fu Statesmen | 324741 | [324741-kung-fu-statesmen.json](./324741-kung-fu-statesmen.json) |
 | Kung Fu Strike: The Warrior's Rise - Master Level | 9385 | [9385-kung-fu-strike-the-warriors-rise-master-level.json](./9385-kung-fu-strike-the-warriors-rise-master-level.json) |
 | Kung Fu Superstar | 116409 | [116409-kung-fu-superstar.json](./116409-kung-fu-superstar.json) |
 | Kung Fu Zombie | 106646 | [106646-kung-fu-zombie.json](./106646-kung-fu-zombie.json) |
