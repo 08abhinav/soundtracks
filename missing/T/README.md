@@ -690,6 +690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Over | 401900 | [401900-take-over.json](./401900-take-over.json) |
 | Take Over the World | 57489 | [57489-take-over-the-world.json](./57489-take-over-the-world.json) |
 | Take Shape | 92488 | [92488-take-shape.json](./92488-take-shape.json) |
+| Take Something Literally | 341284 | [341284-take-something-literally.json](./341284-take-something-literally.json) |
+| Take Something Literally 2 | 341285 | [341285-take-something-literally-2.json](./341285-take-something-literally-2.json) |
 | Take Stock | 348369 | [348369-take-stock.json](./348369-take-stock.json) |
 | Take the Cake | 76290 | [76290-take-the-cake.json](./76290-take-the-cake.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
@@ -3821,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Spongy Thing on Your Tongue | 184575 | [184575-that-spongy-thing-on-your-tongue.json](./184575-that-spongy-thing-on-your-tongue.json) |
 | That Summer: Hannah's Summer Vacation | 398043 | [398043-that-summer-hannahs-summer-vacation.json](./398043-that-summer-hannahs-summer-vacation.json) |
 | That Time I Became Friends with The Royal Scuttlebug Family and Fell From Space | 304155 | [304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json](./304155-that-time-i-became-friends-with-the-royal-scuttlebug-family-and-fell-from-space.json) |
+| That Time I Found a Box | 341377 | [341377-that-time-i-found-a-box.json](./341377-that-time-i-found-a-box.json) |
 | That time I got reincarnated as a fictional Defence Lawyer in an Ace Attorney fangame and had to defend myself against incredibly unfair odds. | 309990 | [309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json](./309990-that-time-i-got-reincarnated-as-a-fictional-defence-lawyer-in-an-ace-attorney-fangame-and-had-to-defend-myself-against-incredibly-unfair-odds.json) |
 | That Time I Got Reincarnated as a Slime | 174881 | [174881-that-time-i-got-reincarnated-as-a-slime.json](./174881-that-time-i-got-reincarnated-as-a-slime.json) |
 | That Time I Got Reincarnated as a Slime Isekai Chronicles: Season Pass | 328992 | [328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json](./328992-that-time-i-got-reincarnated-as-a-slime-isekai-chronicles-season-pass.json) |
@@ -10255,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The National Library of Geometric Impossibilities | 356577 | [356577-the-national-library-of-geometric-impossibilities.json](./356577-the-national-library-of-geometric-impossibilities.json) |
 | The Nations | 9172 | [9172-the-nations.json](./9172-the-nations.json) |
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
+| The Naughty List Curse | 341360 | [341360-the-naughty-list-curse.json](./341360-the-naughty-list-curse.json) |
 | The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
@@ -12266,6 +12270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soukou Kihei Gun Ground | 47837 | [47837-the-soukou-kihei-gun-ground.json](./47837-the-soukou-kihei-gun-ground.json) |
 | The Soul Box | 190135 | [190135-the-soul-box.json](./190135-the-soul-box.json) |
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
+| The Soul Driver | 341297 | [341297-the-soul-driver.json](./341297-the-soul-driver.json) |
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
@@ -16582,6 +16587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
+| Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
 | Time of Shadows | 90468 | [90468-time-of-shadows.json](./90468-time-of-shadows.json) |
 | Time of Sorrow | 316606 | [316606-time-of-sorrow.json](./316606-time-of-sorrow.json) |
 | Time of the Clones | 174053 | [174053-time-of-the-clones.json](./174053-time-of-the-clones.json) |
@@ -17241,6 +17247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanion | 50413 | [50413-titanion.json](./50413-titanion.json) |
 | Titanis | 35381 | [35381-titanis.json](./35381-titanis.json) |
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
+| Titanium Nephilim | 341367 | [341367-titanium-nephilim.json](./341367-titanium-nephilim.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
