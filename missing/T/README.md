@@ -5004,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bridge | 8440 | [8440-the-bridge.json](./8440-the-bridge.json) |
 | The Bridge Curse: Road to Salvation | 193312 | [193312-the-bridge-curse-road-to-salvation.json](./193312-the-bridge-curse-road-to-salvation.json) |
 | The BridgeMaster | 169445 | [169445-the-bridgemaster.json](./169445-the-bridgemaster.json) |
+| The Bright In The Screen | 311323 | [311323-the-bright-in-the-screen.json](./311323-the-bright-in-the-screen.json) |
 | The Bright Path | 337498 | [337498-the-bright-path.json](./337498-the-bright-path.json) |
 | The Brimstone Project: Odyssey Live | 279715 | [279715-the-brimstone-project-odyssey-live.json](./279715-the-brimstone-project-odyssey-live.json) |
 | The Brink | 104810 | [104810-the-brink.json](./104810-the-brink.json) |
@@ -9856,6 +9857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School Bus: Oceans | 123459 | [123459-the-magic-school-bus-oceans.json](./123459-the-magic-school-bus-oceans.json) |
 | The Magic World | 367609 | [367609-the-magic-world.json](./367609-the-magic-world.json) |
 | The Magic World 2: Curse of the Ancients | 289985 | [289985-the-magic-world-2-curse-of-the-ancients.json](./289985-the-magic-world-2-curse-of-the-ancients.json) |
+| The Magical Forest | 311317 | [311317-the-magical-forest.json](./311317-the-magical-forest.json) |
 | The Magical Girl Childhood Friend Lives Next Door | 411779 | [411779-the-magical-girl-childhood-friend-lives-next-door.json](./411779-the-magical-girl-childhood-friend-lives-next-door.json) |
 | The Magical Land of Canada | 240711 | [240711-the-magical-land-of-canada.json](./240711-the-magical-land-of-canada.json) |
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
@@ -11870,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
+| The Shadow Realms: Arcade | 311327 | [311327-the-shadow-realms-arcade.json](./311327-the-shadow-realms-arcade.json) |
 | The Shadow Ritual | 379166 | [379166-the-shadow-ritual.json](./379166-the-shadow-ritual.json) |
 | The Shadow Society | 128921 | [128921-the-shadow-society.json](./128921-the-shadow-society.json) |
 | The Shadow Sun | 108496 | [108496-the-shadow-sun.json](./108496-the-shadow-sun.json) |
