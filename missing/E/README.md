@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
+| Easy Bubbles | 344720 | [344720-easy-bubbles.json](./344720-easy-bubbles.json) |
 | Easy Cute Clean Up Lesson | 320469 | [320469-easy-cute-clean-up-lesson.json](./320469-easy-cute-clean-up-lesson.json) |
 | Easy Flight Simulator 2 | 375408 | [375408-easy-flight-simulator-2.json](./375408-easy-flight-simulator-2.json) |
 | Easy Game | 232917 | [232917-easy-game.json](./232917-easy-game.json) |
@@ -5586,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
+| Experiment 28 | 344789 | [344789-experiment-28.json](./344789-experiment-28.json) |
 | Experiment 404 | 391159 | [391159-experiment-404.json](./391159-experiment-404.json) |
 | Experiment 427 | 305308 | [305308-experiment-427.json](./305308-experiment-427.json) |
 | Experiment of Being | 189045 | [189045-experiment-of-being.json](./189045-experiment-of-being.json) |
