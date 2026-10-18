@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagger Directive | 264207 | [264207-dagger-directive.json](./264207-dagger-directive.json) |
+| Dagger Froggy | 315354 | [315354-dagger-froggy.json](./315354-dagger-froggy.json) |
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
 | Dagger Run: Aerocombatic Racing | 276254 | [276254-dagger-run-aerocombatic-racing.json](./276254-dagger-run-aerocombatic-racing.json) |
 | Dagger Woods VR | 333016 | [333016-dagger-woods-vr.json](./333016-dagger-woods-vr.json) |
@@ -3483,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
+| Decathlon DX | 315324 | [315324-decathlon-dx.json](./315324-decathlon-dx.json) |
 | Decay | 122884 | [122884-decay.json](./122884-decay.json) |
 | Decay | 189966 | [189966-decay.json](./189966-decay.json) |
 | Decay | 254575 | [254575-decay.json](./254575-decay.json) |
@@ -13536,6 +13538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duskworld | 198144 | [198144-duskworld.json](./198144-duskworld.json) |
 | Dusky Cap | 343862 | [343862-dusky-cap.json](./343862-dusky-cap.json) |
 | Dusky Depths | 273628 | [273628-dusky-depths.json](./273628-dusky-depths.json) |
+| Dust | 315355 | [315355-dust.json](./315355-dust.json) |
 | Dust & Courage: Jake Bolton’s Journey | 298233 | [298233-dust-and-courage-jake-bolton-s-journey.json](./298233-dust-and-courage-jake-bolton-s-journey.json) |
 | Dust & Diamonds | 419901 | [419901-dust-and-diamonds.json](./419901-dust-and-diamonds.json) |
 | Dust & Diesel: Deadland Delivery | 319461 | [319461-dust-and-diesel-deadland-delivery.json](./319461-dust-and-diesel-deadland-delivery.json) |
