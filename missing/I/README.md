@@ -4552,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
+| IslaNode Rescue Signal | 331658 | [331658-islanode-rescue-signal.json](./331658-islanode-rescue-signal.json) |
 | Islantiles | 347807 | [347807-islantiles.json](./347807-islantiles.json) |
 | Islash | 343617 | [343617-islash.json](./343617-islash.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
