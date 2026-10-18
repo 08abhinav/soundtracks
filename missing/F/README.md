@@ -347,6 +347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
+| Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
 | Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
 | Factory Works Idle | 391319 | [391319-factory-works-idle.json](./391319-factory-works-idle.json) |
 | Factory512 | 212704 | [212704-factory512.json](./212704-factory512.json) |
@@ -1019,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
+| Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
@@ -2589,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fearaphobia | 310957 | [310957-fearaphobia.json](./310957-fearaphobia.json) |
 | Fearbonding | 297073 | [297073-fearbonding.json](./297073-fearbonding.json) |
 | FeArea: Battle Royale | 126346 | [126346-fearea-battle-royale.json](./126346-fearea-battle-royale.json) |
+| FearFactor Institute | 356445 | [356445-fearfactor-institute.json](./356445-fearfactor-institute.json) |
 | Fearful Symmetry | 336907 | [336907-fearful-symmetry.json](./336907-fearful-symmetry.json) |
 | Fearful Symmetry & The Cursed Prince | 75932 | [75932-fearful-symmetry-and-the-cursed-prince.json](./75932-fearful-symmetry-and-the-cursed-prince.json) |
 | Fearful Tales: Hansel and Gretel | 22108 | [22108-fearful-tales-hansel-and-gretel.json](./22108-fearful-tales-hansel-and-gretel.json) |
