@@ -9159,6 +9159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
+| Common Grounds | 349618 | [349618-common-grounds.json](./349618-common-grounds.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
 | Common Loot | 400254 | [400254-common-loot.json](./400254-common-loot.json) |
 | Common Wealth | 294942 | [294942-common-wealth.json](./294942-common-wealth.json) |
@@ -12761,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | Crossroads: What Was Lost - Collector's Edition | 259504 | [259504-crossroads-what-was-lost-collectors-edition.json](./259504-crossroads-what-was-lost-collectors-edition.json) |
+| CrossTheRidge Evolution | 349657 | [349657-crosstheridge-evolution.json](./349657-crosstheridge-evolution.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
 | Crosstown Carnage | 326653 | [326653-crosstown-carnage.json](./326653-crosstown-carnage.json) |
@@ -13119,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt Hunter | 55785 | [55785-crypt-hunter.json](./55785-crypt-hunter.json) |
 | Crypt Killer | 20737 | [20737-crypt-killer.json](./20737-crypt-killer.json) |
 | Crypt of Baconthulhu | 60920 | [60920-crypt-of-baconthulhu.json](./60920-crypt-of-baconthulhu.json) |
+| Crypt of Darne | 349652 | [349652-crypt-of-darne.json](./349652-crypt-of-darne.json) |
 | Crypt of Dracula | 102808 | [102808-crypt-of-dracula.json](./102808-crypt-of-dracula.json) |
 | Crypt of Fear | 356662 | [356662-crypt-of-fear.json](./356662-crypt-of-fear.json) |
 | Crypt of Medea | 15512 | [15512-crypt-of-medea.json](./15512-crypt-of-medea.json) |
