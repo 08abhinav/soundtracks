@@ -6348,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rescue | 328489 | [328489-robo-rescue.json](./328489-robo-rescue.json) |
 | Robo Ret | 254062 | [254062-robo-ret.json](./254062-robo-ret.json) |
 | Robo Revenge Squad | 205028 | [205028-robo-revenge-squad.json](./205028-robo-revenge-squad.json) |
+| Robo Ride & Glide | 325347 | [325347-robo-ride-and-glide.json](./325347-robo-ride-and-glide.json) |
 | Robo Risk | 58755 | [58755-robo-risk.json](./58755-robo-risk.json) |
 | Robo Rob | 286597 | [286597-robo-rob.json](./286597-robo-rob.json) |
 | Robo Rumble | 154436 | [154436-robo-rumble.json](./154436-robo-rumble.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Alchemy: Bestiary I | 324487 | [324487-rpg-alchemy-bestiary-i.json](./324487-rpg-alchemy-bestiary-i.json) |
 | RPG Boss Battle | 104441 | [104441-rpg-boss-battle.json](./104441-rpg-boss-battle.json) |
 | RPG Bundle | 263559 | [263559-rpg-bundle.json](./263559-rpg-bundle.json) |
+| RPG Chess | 325336 | [325336-rpg-chess.json](./325336-rpg-chess.json) |
 | RPG Clicker | 183885 | [183885-rpg-clicker.json](./183885-rpg-clicker.json) |
 | RPG Creator for iOS | 61099 | [61099-rpg-creator-for-ios.json](./61099-rpg-creator-for-ios.json) |
 | RPG Developer Bakin | 228016 | [228016-rpg-developer-bakin.json](./228016-rpg-developer-bakin.json) |
