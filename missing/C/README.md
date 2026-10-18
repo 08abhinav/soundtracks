@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caught in Nowhere | 160076 | [160076-caught-in-nowhere.json](./160076-caught-in-nowhere.json) |
 | Caught Lacking: Femboy Edition | 385247 | [385247-caught-lacking-femboy-edition.json](./385247-caught-lacking-femboy-edition.json) |
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
+| Cauldron Chaos | 360333 | [360333-cauldron-chaos.json](./360333-cauldron-chaos.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
 | Cauldron Craft | 391125 | [391125-cauldron-craft.json](./391125-cauldron-craft.json) |
 | Cauldron Forager | 362916 | [362916-cauldron-forager.json](./362916-cauldron-forager.json) |
@@ -3553,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Classic | 86148 | [86148-celeste-classic.json](./86148-celeste-classic.json) |
 | Celeste Classic 2: Lani's Trek | 142841 | [142841-celeste-classic-2-lanis-trek.json](./142841-celeste-classic-2-lanis-trek.json) |
 | Celeste Classic 2: Lani's Trek | 366101 | [366101-celeste-classic-2-lanis-trek.json](./366101-celeste-classic-2-lanis-trek.json) |
+| Celeste Classic PSX | 360339 | [360339-celeste-classic-psx.json](./360339-celeste-classic-psx.json) |
 | Celeste Fusion Collab | 358282 | [358282-celeste-fusion-collab.json](./358282-celeste-fusion-collab.json) |
 | Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
