@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
+| Beautiful Sakura: Racing Club | 334547 | [334547-beautiful-sakura-racing-club.json](./334547-beautiful-sakura-racing-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
 | Beautiful Sakura: Volleyball Club | 284861 | [284861-beautiful-sakura-volleyball-club.json](./284861-beautiful-sakura-volleyball-club.json) |
@@ -7887,6 +7888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code: Costume Pack | 155374 | [155374-blood-code-costume-pack.json](./155374-blood-code-costume-pack.json) |
 | Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
+| Blood Curse Legions | 334552 | [334552-blood-curse-legions.json](./334552-blood-curse-legions.json) |
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
 | Blood Day | 180080 | [180080-blood-day.json](./180080-blood-day.json) |
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
@@ -9448,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoomBots | 10918 | [10918-boombots.json](./10918-boombots.json) |
 | BoomBox | 143046 | [143046-boombox.json](./143046-boombox.json) |
 | Boomby | 179147 | [179147-boomby.json](./179147-boomby.json) |
+| Boomby! | 334452 | [334452-boomby.json](./334452-boomby.json) |
 | Boomcestors | 367961 | [367961-boomcestors.json](./367961-boomcestors.json) |
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
