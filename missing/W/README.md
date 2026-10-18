@@ -3227,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Secrets: Cruise of Misfortune - Collector's Edition | 338697 | [338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json](./338697-whispered-secrets-cruise-of-misfortune-collectors-edition.json) |
 | Whispered Secrets: Cursed Wealth - Collector's Edition | 351714 | [351714-whispered-secrets-cursed-wealth-collectors-edition.json](./351714-whispered-secrets-cursed-wealth-collectors-edition.json) |
 | Whispered Secrets: Dreadful Beauty | 139778 | [139778-whispered-secrets-dreadful-beauty.json](./139778-whispered-secrets-dreadful-beauty.json) |
+| Whispered Secrets: Enfant Terrible - Collector's Edition | 359215 | [359215-whispered-secrets-enfant-terrible-collectors-edition.json](./359215-whispered-secrets-enfant-terrible-collectors-edition.json) |
 | Whispered Secrets: Everburning Candle | 100344 | [100344-whispered-secrets-everburning-candle.json](./100344-whispered-secrets-everburning-candle.json) |
 | Whispered Secrets: Everburning Candle - Collector's Edition | 316694 | [316694-whispered-secrets-everburning-candle-collectors-edition.json](./316694-whispered-secrets-everburning-candle-collectors-edition.json) |
 | Whispered Secrets: Forgotten Sins - Collector's Edition | 362843 | [362843-whispered-secrets-forgotten-sins-collectors-edition.json](./362843-whispered-secrets-forgotten-sins-collectors-edition.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Olympic Games | 365674 | [365674-winter-olympic-games.json](./365674-winter-olympic-games.json) |
 | Winter Olympic Games | 365676 | [365676-winter-olympic-games.json](./365676-winter-olympic-games.json) |
 | Winter Polaris | 127007 | [127007-winter-polaris.json](./127007-winter-polaris.json) |
+| Winter Polaris: Append Disc teki na no | 359204 | [359204-winter-polaris-append-disc-teki-na-no.json](./359204-winter-polaris-append-disc-teki-na-no.json) |
 | Winter Quackdown | 384285 | [384285-winter-quackdown.json](./384285-winter-quackdown.json) |
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Resort Simulator Season 2: Content Pack | 226882 | [226882-winter-resort-simulator-season-2-content-pack.json](./226882-winter-resort-simulator-season-2-content-pack.json) |
@@ -5819,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
 | World of Blade: Zombie Slasher | 245324 | [245324-world-of-blade-zombie-slasher.json](./245324-world-of-blade-zombie-slasher.json) |
+| World of Blind | 359214 | [359214-world-of-blind.json](./359214-world-of-blind.json) |
 | World of Blocks | 273388 | [273388-world-of-blocks.json](./273388-world-of-blocks.json) |
 | World of bombs | 163802 | [163802-world-of-bombs.json](./163802-world-of-bombs.json) |
 | World of Buh | 216821 | [216821-world-of-buh.json](./216821-world-of-buh.json) |
@@ -6161,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
+| World Wonders: Hidden Histories 2 | 359216 | [359216-world-wonders-hidden-histories-2.json](./359216-world-wonders-hidden-histories-2.json) |
 | World Xplore | 288451 | [288451-world-xplore.json](./288451-world-xplore.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World Zombination | 6857 | [6857-world-zombination.json](./6857-world-zombination.json) |
