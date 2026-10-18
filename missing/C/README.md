@@ -1220,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
+| Capsule Hero | 353611 | [353611-capsule-hero.json](./353611-capsule-hero.json) |
 | Capsule Hotel Simulator | 159887 | [159887-capsule-hotel-simulator.json](./159887-capsule-hotel-simulator.json) |
 | Capsule Jump | 86564 | [86564-capsule-jump.json](./86564-capsule-jump.json) |
 | Capsule Lock | 183293 | [183293-capsule-lock.json](./183293-capsule-lock.json) |
@@ -3564,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Strawberry Jam | 235102 | [235102-celeste-strawberry-jam.json](./235102-celeste-strawberry-jam.json) |
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
+| Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
