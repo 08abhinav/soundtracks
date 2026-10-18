@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Children | 114864 | [114864-infinite-children.json](./114864-infinite-children.json) |
 | Infinite Chili Sauce | 115551 | [115551-infinite-chili-sauce.json](./115551-infinite-chili-sauce.json) |
 | Infinite Chump | 287750 | [287750-infinite-chump.json](./287750-infinite-chump.json) |
+| Infinite Climb | 353640 | [353640-infinite-climb.json](./353640-infinite-climb.json) |
 | Infinite Coaster | 303581 | [303581-infinite-coaster.json](./303581-infinite-coaster.json) |
 | Infinite Construction | 192442 | [192442-infinite-construction.json](./192442-infinite-construction.json) |
 | Infinite Country | 265573 | [265573-infinite-country.json](./265573-infinite-country.json) |
