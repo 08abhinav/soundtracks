@@ -7248,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickmazes BoxUp | 197793 | [197793-clickmazes-boxup.json](./197793-clickmazes-boxup.json) |
 | ClickMonster | 158661 | [158661-clickmonster.json](./158661-clickmonster.json) |
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
+| Clickoin | 337434 | [337434-clickoin.json](./337434-clickoin.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
 | ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
