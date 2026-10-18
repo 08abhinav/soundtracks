@@ -4100,6 +4100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
 | Escortina Life! 2.0 | 286075 | [286075-escortina-life-2-0.json](./286075-escortina-life-2-0.json) |
 | Escria | 402469 | [402469-escria.json](./402469-escria.json) |
+| ESD Attack | 311367 | [311367-esd-attack.json](./311367-esd-attack.json) |
 | Esdraz: The Throne of Darkness | 238585 | [238585-esdraz-the-throne-of-darkness.json](./238585-esdraz-the-throne-of-darkness.json) |
 | Eseal: Reject, Reclaim, Redeem | 372639 | [372639-eseal-reject-reclaim-redeem.json](./372639-eseal-reject-reclaim-redeem.json) |
 | Eseala | 267472 | [267472-eseala.json](./267472-eseala.json) |
