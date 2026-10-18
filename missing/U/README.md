@@ -1945,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed El Shaddai Project | 93535 | [93535-unnamed-el-shaddai-project.json](./93535-unnamed-el-shaddai-project.json) |
 | Unnamed Experiment | 265145 | [265145-unnamed-experiment.json](./265145-unnamed-experiment.json) |
 | Unnamed Fiasco | 34775 | [34775-unnamed-fiasco.json](./34775-unnamed-fiasco.json) |
+| Unnamed Hero in the Underworld | 323564 | [323564-unnamed-hero-in-the-underworld.json](./323564-unnamed-hero-in-the-underworld.json) |
 | Unnamed Pogo Game | 410176 | [410176-unnamed-pogo-game.json](./410176-unnamed-pogo-game.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
@@ -2334,6 +2335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
 | Updive | 150273 | [150273-updive.json](./150273-updive.json) |
 | Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
+| Upg | 323614 | [323614-upg.json](./323614-upg.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
