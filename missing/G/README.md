@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Gunner | 277317 | [277317-girl-gunner.json](./277317-girl-gunner.json) |
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
+| Girl is coming | 309752 | [309752-girl-is-coming.json](./309752-girl-is-coming.json) |
 | Girl Jack | 67380 | [67380-girl-jack.json](./67380-girl-jack.json) |
 | Girl Jigsaw | 149385 | [149385-girl-jigsaw.json](./149385-girl-jigsaw.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
@@ -6895,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grit & Grind | 372620 | [372620-grit-and-grind.json](./372620-grit-and-grind.json) |
 | Grit & Valor: 1949 | 304134 | [304134-grit-and-valor-1949.json](./304134-grit-and-valor-1949.json) |
 | Grit Paintball | 158187 | [158187-grit-paintball.json](./158187-grit-paintball.json) |
+| Grit Porn Video Tapes | 309745 | [309745-grit-porn-video-tapes.json](./309745-grit-porn-video-tapes.json) |
 | Grit Shot | 414128 | [414128-grit-shot.json](./414128-grit-shot.json) |
 | Grit Under the Eyelid | 299843 | [299843-grit-under-the-eyelid.json](./299843-grit-under-the-eyelid.json) |
 | Grits Racing | 114946 | [114946-grits-racing.json](./114946-grits-racing.json) |
@@ -7341,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
 | Guardians of Orion | 34326 | [34326-guardians-of-orion.json](./34326-guardians-of-orion.json) |
+| Guardians of Restoration | 309739 | [309739-guardians-of-restoration.json](./309739-guardians-of-restoration.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
