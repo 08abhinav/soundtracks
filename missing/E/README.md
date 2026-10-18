@@ -5802,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
 | Extreme | 13655 | [13655-extreme.json](./13655-extreme.json) |
 | Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
+| Extreme Air Snowboarding 3D | 316496 | [316496-extreme-air-snowboarding-3d.json](./316496-extreme-air-snowboarding-3d.json) |
 | Extreme Angler | 72051 | [72051-extreme-angler.json](./72051-extreme-angler.json) |
 | Extreme Bankikki | 204247 | [204247-extreme-bankikki.json](./204247-extreme-bankikki.json) |
 | Extreme Basketball | 86104 | [86104-extreme-basketball.json](./86104-extreme-basketball.json) |
