@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take No Prisoners | 8696 | [8696-take-no-prisoners.json](./8696-take-no-prisoners.json) |
+| Take Notes | 319435 | [319435-take-notes.json](./319435-take-notes.json) |
 | Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankalot | 96240 | [96240-tankalot.json](./96240-tankalot.json) |
 | Tankalot Remastered | 188007 | [188007-tankalot-remastered.json](./188007-tankalot-remastered.json) |
 | TankBlitz | 28791 | [28791-tankblitz.json](./28791-tankblitz.json) |
+| Tankbot Battle | 319425 | [319425-tankbot-battle.json](./319425-tankbot-battle.json) |
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
@@ -5782,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
+| The Daily Dozen Trivia | 319456 | [319456-the-daily-dozen-trivia.json](./319456-the-daily-dozen-trivia.json) |
 | The Daily Spell | 383781 | [383781-the-daily-spell.json](./383781-the-daily-spell.json) |
 | The Daily Sudoku | 264239 | [264239-the-daily-sudoku.json](./264239-the-daily-sudoku.json) |
 | The Dallas Quest | 47218 | [47218-the-dallas-quest.json](./47218-the-dallas-quest.json) |
@@ -7242,6 +7245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
+| The Gate | 319411 | [319411-the-gate.json](./319411-the-gate.json) |
 | The Gate | 323315 | [323315-the-gate.json](./323315-the-gate.json) |
 | The Gate | 35727 | [35727-the-gate.json](./35727-the-gate.json) |
 | The Gate 2 | 221912 | [221912-the-gate-2.json](./221912-the-gate-2.json) |
@@ -16515,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile World | 131408 | [131408-tile-world.json](./131408-tile-world.json) |
 | Tile-Throwing Legend: Mutsuki | 59382 | [59382-tile-throwing-legend-mutsuki.json](./59382-tile-throwing-legend-mutsuki.json) |
 | Tilebreaker | 368615 | [368615-tilebreaker.json](./368615-tilebreaker.json) |
+| Tilebreaker Next Level | 319459 | [319459-tilebreaker-next-level.json](./319459-tilebreaker-next-level.json) |
 | Tileburg | 407598 | [407598-tileburg.json](./407598-tileburg.json) |
 | Tilecan | 333223 | [333223-tilecan.json](./333223-tilecan.json) |
 | Tilecraft | 221153 | [221153-tilecraft.json](./221153-tilecraft.json) |
@@ -20216,6 +20221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tradewinds Odyssey | 59456 | [59456-tradewinds-odyssey.json](./59456-tradewinds-odyssey.json) |
 | Tradie Tapper | 351569 | [351569-tradie-tapper.json](./351569-tradie-tapper.json) |
 | Trading Card Inspector | 360751 | [360751-trading-card-inspector.json](./360751-trading-card-inspector.json) |
+| Trading Kingdom | 319433 | [319433-trading-kingdom.json](./319433-trading-kingdom.json) |
 | Trading Legend | 227165 | [227165-trading-legend.json](./227165-trading-legend.json) |
 | Trading Simulator | 274563 | [274563-trading-simulator.json](./274563-trading-simulator.json) |
 | Trading Simulator | 290421 | [290421-trading-simulator.json](./290421-trading-simulator.json) |
