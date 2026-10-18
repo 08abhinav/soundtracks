@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Dots | 211150 | [211150-war-dots.json](./211150-war-dots.json) |
 | War Doves | 24999 | [24999-war-doves.json](./24999-war-doves.json) |
 | War Drone | 386955 | [386955-war-drone.json](./386955-war-drone.json) |
+| War Drone FPV Quad Simulator | 312417 | [312417-war-drone-fpv-quad-simulator.json](./312417-war-drone-fpv-quad-simulator.json) |
 | War Drones | 74617 | [74617-war-drones.json](./74617-war-drones.json) |
 | War Ender Evolution | 288476 | [288476-war-ender-evolution.json](./288476-war-ender-evolution.json) |
 | War Era Lumberjack | 368283 | [368283-war-era-lumberjack.json](./368283-war-era-lumberjack.json) |
