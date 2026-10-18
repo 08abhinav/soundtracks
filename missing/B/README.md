@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
 | Bank Robber | 319569 | [319569-bank-robber.json](./319569-bank-robber.json) |
 | Bank Robbery Royale: Battle Simulator | 100937 | [100937-bank-robbery-royale-battle-simulator.json](./100937-bank-robbery-royale-battle-simulator.json) |
+| Bank Simulator | 326470 | [326470-bank-simulator.json](./326470-bank-simulator.json) |
 | Bank-A-Ball | 84323 | [84323-bank-a-ball.json](./84323-bank-a-ball.json) |
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
@@ -2428,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batch 17 | 75187 | [75187-batch-17.json](./75187-batch-17.json) |
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
+| Bath House Simulator | 326471 | [326471-bath-house-simulator.json](./326471-bath-house-simulator.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Life Simulator | 371247 | [371247-beach-life-simulator.json](./371247-beach-life-simulator.json) |
 | Beach Love Shop | 138564 | [138564-beach-love-shop.json](./138564-beach-love-shop.json) |
 | Beach Mini Golf 2 | 243740 | [243740-beach-mini-golf-2.json](./243740-beach-mini-golf-2.json) |
+| Beach Outlet Simulator | 326472 | [326472-beach-outlet-simulator.json](./326472-beach-outlet-simulator.json) |
 | Beach Paddle | 65860 | [65860-beach-paddle.json](./65860-beach-paddle.json) |
 | Beach Party Craze | 52451 | [52451-beach-party-craze.json](./52451-beach-party-craze.json) |
 | Beach Ping Pong Babes VR | 311171 | [311171-beach-ping-pong-babes-vr.json](./311171-beach-ping-pong-babes-vr.json) |
@@ -5606,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
+| Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
@@ -6825,6 +6829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
+| Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
 | Blacksmith Simulator | 353951 | [353951-blacksmith-simulator.json](./353951-blacksmith-simulator.json) |
 | Blacksmith Village | 156109 | [156109-blacksmith-village.json](./156109-blacksmith-village.json) |
 | Blacksmith War | 201803 | [201803-blacksmith-war.json](./201803-blacksmith-war.json) |
@@ -8190,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
 | Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
+| Bloody Bar Simulator | 326475 | [326475-bloody-bar-simulator.json](./326475-bloody-bar-simulator.json) |
 | Bloody Boobs | 367620 | [367620-bloody-boobs.json](./367620-bloody-boobs.json) |
 | Bloody Bunny: First Blood | 175386 | [175386-bloody-bunny-first-blood.json](./175386-bloody-bunny-first-blood.json) |
 | Bloody Bunny: The Game | 144358 | [144358-bloody-bunny-the-game.json](./144358-bloody-bunny-the-game.json) |
@@ -10138,6 +10144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Mania | 206472 | [206472-bowling-mania.json](./206472-bowling-mania.json) |
 | Bowling Over It | 116091 | [116091-bowling-over-it.json](./116091-bowling-over-it.json) |
 | Bowling Party | 58257 | [58257-bowling-party.json](./58257-bowling-party.json) |
+| Bowling Simulator | 326476 | [326476-bowling-simulator.json](./326476-bowling-simulator.json) |
 | Bowling Street | 96913 | [96913-bowling-street.json](./96913-bowling-street.json) |
 | Bowling Strike | 221341 | [221341-bowling-strike.json](./221341-bowling-strike.json) |
 | Bowling Strike | 421386 | [421386-bowling-strike.json](./421386-bowling-strike.json) |
@@ -11013,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakup Squad | 243103 | [243103-breakup-squad.json](./243103-breakup-squad.json) |
 | Breakwaters | 148425 | [148425-breakwaters.json](./148425-breakwaters.json) |
 | Breakyo | 208835 | [208835-breakyo.json](./208835-breakyo.json) |
+| Breast Simulator | 326477 | [326477-breast-simulator.json](./326477-breast-simulator.json) |
 | Breasts, Not Animal Tests! | 330011 | [330011-breasts-not-animal-tests.json](./330011-breasts-not-animal-tests.json) |
 | Breath | 141685 | [141685-breath.json](./141685-breath.json) |
 | Breath Bound | 401298 | [401298-breath-bound.json](./401298-breath-bound.json) |
@@ -12002,6 +12010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
+| Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
 | Buckmasters Top Bow Championship | 122233 | [122233-buckmasters-top-bow-championship.json](./122233-buckmasters-top-bow-championship.json) |
 | Bucko | 236359 | [236359-bucko.json](./236359-bucko.json) |
@@ -12555,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Builder Simulator | 217503 | [217503-bunker-builder-simulator.json](./217503-bunker-builder-simulator.json) |
 | Bunker Buster | 110203 | [110203-bunker-buster.json](./110203-bunker-buster.json) |
 | Bunker Constructor | 35379 | [35379-bunker-constructor.json](./35379-bunker-constructor.json) |
+| Bunker Constructor Simulator | 326479 | [326479-bunker-constructor-simulator.json](./326479-bunker-constructor-simulator.json) |
 | Bunker Down | 344437 | [344437-bunker-down.json](./344437-bunker-down.json) |
 | Bunker Farmer | 296590 | [296590-bunker-farmer.json](./296590-bunker-farmer.json) |
 | Bunker Life | 220870 | [220870-bunker-life.json](./220870-bunker-life.json) |
@@ -12695,6 +12705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Expansion Pack 1 | 238016 | [238016-burger-chef-tycoon-expansion-pack-1.json](./238016-burger-chef-tycoon-expansion-pack-1.json) |
 | Burger Chef Tycoon: GOTY Edition | 273629 | [273629-burger-chef-tycoon-goty-edition.json](./273629-burger-chef-tycoon-goty-edition.json) |
 | Burger Cooking Simulator | 250855 | [250855-burger-cooking-simulator.json](./250855-burger-cooking-simulator.json) |
+| Burger Flipper: A Fast Food Restaurant Simulator | 326480 | [326480-burger-flipper-a-fast-food-restaurant-simulator.json](./326480-burger-flipper-a-fast-food-restaurant-simulator.json) |
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
 | Burger Girl Clicker | 337814 | [337814-burger-girl-clicker.json](./337814-burger-girl-clicker.json) |
@@ -12926,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
+| Bus Flipper Simulator | 326464 | [326464-bus-flipper-simulator.json](./326464-bus-flipper-simulator.json) |
 | Bus Mechanic Simulator | 123315 | [123315-bus-mechanic-simulator.json](./123315-bus-mechanic-simulator.json) |
 | Bus Parking 3D | 221366 | [221366-bus-parking-3d.json](./221366-bus-parking-3d.json) |
 | Bus Racing: Offroad 2018 | 106516 | [106516-bus-racing-offroad-2018.json](./106516-bus-racing-offroad-2018.json) |
@@ -12974,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
 | Bush Royal Rampage | 263481 | [263481-bush-royal-rampage.json](./263481-bush-royal-rampage.json) |
 | Bush Shoot-Out | 237477 | [237477-bush-shoot-out.json](./237477-bush-shoot-out.json) |
+| Bush Simulator | 326463 | [326463-bush-simulator.json](./326463-bush-simulator.json) |
 | Bush's Bean Dash | 61541 | [61541-bushs-bean-dash.json](./61541-bushs-bean-dash.json) |
 | Bushfire | 180498 | [180498-bushfire.json](./180498-bushfire.json) |
 | Bushfires: Animal Rescue | 163925 | [163925-bushfires-animal-rescue.json](./163925-bushfires-animal-rescue.json) |
