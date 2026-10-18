@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Girls | 379648 | [379648-dirty-girls.json](./379648-dirty-girls.json) |
 | Dirty Harry | 3142 | [3142-dirty-harry.json](./3142-dirty-harry.json) |
 | Dirty Harry | 78566 | [78566-dirty-harry.json](./78566-dirty-harry.json) |
+| Dirty Harry Driving Game | 354757 | [354757-dirty-harry-driving-game.json](./354757-dirty-harry-driving-game.json) |
 | Dirty Harry: Excessive Force | 291010 | [291010-dirty-harry-excessive-force.json](./291010-dirty-harry-excessive-force.json) |
 | Dirty Harry's Thunder Drive | 129488 | [129488-dirty-harrys-thunder-drive.json](./129488-dirty-harrys-thunder-drive.json) |
 | Dirty Horror | 236222 | [236222-dirty-horror.json](./236222-dirty-horror.json) |
@@ -8634,6 +8635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
+| Don't Break | 354772 | [354772-dont-break.json](./354772-dont-break.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
 | Don't Break The Eggs | 359722 | [359722-dont-break-the-eggs.json](./359722-dont-break-the-eggs.json) |
@@ -9229,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DooM in the Dark 2 | 131323 | [131323-doom-in-the-dark-2.json](./131323-doom-in-the-dark-2.json) |
 | Doom Incarnate | 201183 | [201183-doom-incarnate.json](./201183-doom-incarnate.json) |
 | Doom Mapping Contest II: Hellectric Boogaloo | 262281 | [262281-doom-mapping-contest-ii-hellectric-boogaloo.json](./262281-doom-mapping-contest-ii-hellectric-boogaloo.json) |
+| Doom Nukem CSS | 354810 | [354810-doom-nukem-css.json](./354810-doom-nukem-css.json) |
 | Doom of the Clawn | 367726 | [367726-doom-of-the-clawn.json](./367726-doom-of-the-clawn.json) |
 | Doom Raider: Crypt of the Vile | 256817 | [256817-doom-raider-crypt-of-the-vile.json](./256817-doom-raider-crypt-of-the-vile.json) |
 | Doom Rails | 16116 | [16116-doom-rails.json](./16116-doom-rails.json) |
@@ -9746,6 +9749,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
+| Doubutsu no Mori e+: Card e Reader+ to Card e+ | 354778 | [354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json](./354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json) |
+| Doubutsu no Mori e+: D09 - Design Card: Falcon no Suit | 354770 | [354770-doubutsu-no-mori-e-d09-design-card-falcon-no-suit.json](./354770-doubutsu-no-mori-e-d09-design-card-falcon-no-suit.json) |
+| Doubutsu no Mori e+: D11 - Design Card: DK Logo | 354771 | [354771-doubutsu-no-mori-e-d11-design-card-dk-logo.json](./354771-doubutsu-no-mori-e-d11-design-card-dk-logo.json) |
+| Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Daruma-san ga Koronda | 354780 | [354780-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-daruma-san-ga-koronda.json](./354780-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-daruma-san-ga-koronda.json) |
+| Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Don Janken | 354782 | [354782-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-don-janken.json](./354782-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-don-janken.json) |
+| Doubutsu no Mori e+: Doubutsu-tachi to Asobou! - Naka Dodge | 354781 | [354781-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-naka-dodge.json](./354781-doubutsu-no-mori-e-doubutsu-tachi-to-asobou-naka-dodge.json) |
 | Doubutsu no Mori e+: K05 - Mura Melo Card: Keke Ondo | 364272 | [364272-doubutsu-no-mori-e-k05-mura-melo-card-keke-ondo.json](./364272-doubutsu-no-mori-e-k05-mura-melo-card-keke-ondo.json) |
 | Doubutsu no Mori e+: K06 - Mura Melo Card: Keke-Billy | 364271 | [364271-doubutsu-no-mori-e-k06-mura-melo-card-keke-billy.json](./364271-doubutsu-no-mori-e-k06-mura-melo-card-keke-billy.json) |
 | Doubutsu no Mori e+: K07 - Mura Melo Card: Kangaechuu | 364269 | [364269-doubutsu-no-mori-e-k07-mura-melo-card-kangaechuu.json](./364269-doubutsu-no-mori-e-k07-mura-melo-card-kangaechuu.json) |
@@ -9754,12 +9763,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori e+: K10 - Mura Melo Card: Nidanzaka | 364260 | [364260-doubutsu-no-mori-e-k10-mura-melo-card-nidanzaka.json](./364260-doubutsu-no-mori-e-k10-mura-melo-card-nidanzaka.json) |
 | Doubutsu no Mori e+: K11 - Mura Melo Card: Keke Metal | 364261 | [364261-doubutsu-no-mori-e-k11-mura-melo-card-keke-metal.json](./364261-doubutsu-no-mori-e-k11-mura-melo-card-keke-metal.json) |
 | Doubutsu no Mori e+: K12 - Mura Melo Card: Keke Daimyou | 364264 | [364264-doubutsu-no-mori-e-k12-mura-melo-card-keke-daimyou.json](./364264-doubutsu-no-mori-e-k12-mura-melo-card-keke-daimyou.json) |
+| Doubutsu no Mori e+: Mura Melo Card - K01: Ke-Ke Dixie | 354805 | [354805-doubutsu-no-mori-e-mura-melo-card-k01-ke-ke-dixie.json](./354805-doubutsu-no-mori-e-mura-melo-card-k01-ke-ke-dixie.json) |
+| Doubutsu no Mori e+: Mura Melo Card - K02: Ke-Ke Gamelan | 354806 | [354806-doubutsu-no-mori-e-mura-melo-card-k02-ke-ke-gamelan.json](./354806-doubutsu-no-mori-e-mura-melo-card-k02-ke-ke-gamelan.json) |
+| Doubutsu no Mori e+: Mura Melo Card - K03: Ke-Ke Alpine Song | 354807 | [354807-doubutsu-no-mori-e-mura-melo-card-k03-ke-ke-alpine-song.json](./354807-doubutsu-no-mori-e-mura-melo-card-k03-ke-ke-alpine-song.json) |
+| Doubutsu no Mori e+: Mura Melo Card - K04: Ke-Ke Keiji | 354808 | [354808-doubutsu-no-mori-e-mura-melo-card-k04-ke-ke-keiji.json](./354808-doubutsu-no-mori-e-mura-melo-card-k04-ke-ke-keiji.json) |
 | Doubutsu no Mori e+: PR - Bow | 364253 | [364253-doubutsu-no-mori-e-pr-bow.json](./364253-doubutsu-no-mori-e-pr-bow.json) |
 | Doubutsu no Mori e+: PR - Meow | 364254 | [364254-doubutsu-no-mori-e-pr-meow.json](./364254-doubutsu-no-mori-e-pr-meow.json) |
 | Doubutsu no Mori e+: PR - Nindori | 364251 | [364251-doubutsu-no-mori-e-pr-nindori.json](./364251-doubutsu-no-mori-e-pr-nindori.json) |
 | Doubutsu no Mori e+: PR - Pierre | 364252 | [364252-doubutsu-no-mori-e-pr-pierre.json](./364252-doubutsu-no-mori-e-pr-pierre.json) |
 | Doubutsu no Mori e+: PR - Shinabiru | 364256 | [364256-doubutsu-no-mori-e-pr-shinabiru.json](./364256-doubutsu-no-mori-e-pr-shinabiru.json) |
 | Doubutsu no Mori e+: PR - Shoukichi | 364255 | [364255-doubutsu-no-mori-e-pr-shoukichi.json](./364255-doubutsu-no-mori-e-pr-shoukichi.json) |
+| Doubutsu no Mori: Controller Pak Bundle Edition | 354820 | [354820-doubutsu-no-mori-controller-pak-bundle-edition.json](./354820-doubutsu-no-mori-controller-pak-bundle-edition.json) |
 | Doubutsu no Mori+ | 353228 | [353228-doubutsu-no-mori.json](./353228-doubutsu-no-mori.json) |
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
@@ -12125,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunkard Simulator | 374423 | [374423-drunkard-simulator.json](./374423-drunkard-simulator.json) |
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
 | Drunken Dad Simulator | 156892 | [156892-drunken-dad-simulator.json](./156892-drunken-dad-simulator.json) |
+| Drunken Darts | 354756 | [354756-drunken-darts.json](./354756-drunken-darts.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
