@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
 | Path of Ascension | 259003 | [259003-path-of-ascension.json](./259003-path-of-ascension.json) |
+| Path Of Balls | 332793 | [332793-path-of-balls.json](./332793-path-of-balls.json) |
 | Path of Colors | 243762 | [243762-path-of-colors.json](./243762-path-of-colors.json) |
 | Path of Destruction | 195773 | [195773-path-of-destruction.json](./195773-path-of-destruction.json) |
 | Path of Dragoon | 275127 | [275127-path-of-dragoon.json](./275127-path-of-dragoon.json) |
@@ -9674,6 +9675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Champions | 250868 | [250868-power-champions.json](./250868-power-champions.json) |
 | Power Chess | 79900 | [79900-power-chess.json](./79900-power-chess.json) |
 | Power Chips | 382344 | [382344-power-chips.json](./382344-power-chips.json) |
+| Power Crisis | 332860 | [332860-power-crisis.json](./332860-power-crisis.json) |
 | Power Defence | 53470 | [53470-power-defence.json](./53470-power-defence.json) |
 | Power Diggerz | 22052 | [22052-power-diggerz.json](./22052-power-diggerz.json) |
 | Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
@@ -11159,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Progress PET: Battle Chip - 576: Senshahou 2 | 355365 | [355365-progress-pet-battle-chip-576-senshahou-2.json](./355365-progress-pet-battle-chip-576-senshahou-2.json) |
 | Progress PET: Netto Version | 353154 | [353154-progress-pet-netto-version.json](./353154-progress-pet-netto-version.json) |
 | Progress Quest | 94363 | [94363-progress-quest.json](./94363-progress-quest.json) |
+| Progress Racer RPG | 332872 | [332872-progress-racer-rpg.json](./332872-progress-racer-rpg.json) |
 | Progress98 | 409400 | [409400-progress98.json](./409400-progress98.json) |
 | Progressbar Popup Fighter | 250015 | [250015-progressbar-popup-fighter.json](./250015-progressbar-popup-fighter.json) |
 | Progressbar95 | 198477 | [198477-progressbar95.json](./198477-progressbar95.json) |
