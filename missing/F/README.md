@@ -3699,7 +3699,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII: New Threat Mod | 144689 | [144689-final-fantasy-vii-new-threat-mod.json](./144689-final-fantasy-vii-new-threat-mod.json) |
 | Final Fantasy VII: Regenesis | 394328 | [394328-final-fantasy-vii-regenesis.json](./394328-final-fantasy-vii-regenesis.json) |
 | Final Fantasy VIII | 203524 | [203524-final-fantasy-viii.json](./203524-final-fantasy-viii.json) |
-| Final Fantasy VIII | 203538 | [203538-final-fantasy-viii.json](./203538-final-fantasy-viii.json) |
 | Final Fantasy VIII Remastered | 119374 | [119374-final-fantasy-viii-remastered.json](./119374-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Remastered | 340338 | [340338-final-fantasy-viii-remastered.json](./340338-final-fantasy-viii-remastered.json) |
 | Final Fantasy VIII Requiem | 360130 | [360130-final-fantasy-viii-requiem.json](./360130-final-fantasy-viii-requiem.json) |
