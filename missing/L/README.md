@@ -5459,6 +5459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
 | LootMage | 366106 | [366106-lootmage.json](./366106-lootmage.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
+| Lootplot | 340807 | [340807-lootplot.json](./340807-lootplot.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | Lootun | 201507 | [201507-lootun.json](./201507-lootun.json) |
 | Looty Dungeon | 104516 | [104516-looty-dungeon.json](./104516-looty-dungeon.json) |
