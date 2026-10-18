@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Lost | 330161 | [330161-paradox-lost.json](./330161-paradox-lost.json) |
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
+| Paradox Protocol | 347571 | [347571-paradox-protocol.json](./347571-paradox-protocol.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Tower | 403143 | [403143-paradox-tower.json](./403143-paradox-tower.json) |
 | Paradox Vector | 116943 | [116943-paradox-vector.json](./116943-paradox-vector.json) |
@@ -2526,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday: The Heist - Wolfpack | 167701 | [167701-payday-the-heist-wolfpack.json](./167701-payday-the-heist-wolfpack.json) |
 | Payday: Wolf Pack | 240931 | [240931-payday-wolf-pack.json](./240931-payday-wolf-pack.json) |
 | Paydirt | 387036 | [387036-paydirt.json](./387036-paydirt.json) |
+| PayGame | 347563 | [347563-paygame.json](./347563-paygame.json) |
 | Payload | 175919 | [175919-payload.json](./175919-payload.json) |
 | Payload | 41787 | [41787-payload.json](./41787-payload.json) |
 | PaymoneyWubby: The Game | 341588 | [341588-paymoneywubby-the-game.json](./341588-paymoneywubby-the-game.json) |
