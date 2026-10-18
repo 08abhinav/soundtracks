@@ -19267,6 +19267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toumayhem | 202857 | [202857-toumayhem.json](./202857-toumayhem.json) |
 | Toumei na Yasashisa | 368604 | [368604-toumei-na-yasashisa.json](./368604-toumei-na-yasashisa.json) |
 | Toupei55 | 151475 | [151475-toupei55.json](./151475-toupei55.json) |
+| Touqi Guaitan | 362583 | [362583-touqi-guaitan.json](./362583-touqi-guaitan.json) |
 | Tour de Akiba | 179505 | [179505-tour-de-akiba.json](./179505-tour-de-akiba.json) |
 | Tour de Drone | 305931 | [305931-tour-de-drone.json](./305931-tour-de-drone.json) |
 | Tour De France | 95456 | [95456-tour-de-france.json](./95456-tour-de-france.json) |
