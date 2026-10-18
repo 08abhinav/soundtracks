@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Ranch | 303267 | [303267-banana-ranch.json](./303267-banana-ranch.json) |
 | Banana Republic | 416053 | [416053-banana-republic.json](./416053-banana-republic.json) |
 | Banana Sbang | 271179 | [271179-banana-sbang.json](./271179-banana-sbang.json) |
+| Banana Simulator | 312450 | [312450-banana-simulator.json](./312450-banana-simulator.json) |
 | Banana Tap | 314875 | [314875-banana-tap.json](./314875-banana-tap.json) |
 | Banana-Clicker | 322657 | [322657-banana-clicker.json](./322657-banana-clicker.json) |
 | Banana-Shaped | 309490 | [309490-banana-shaped.json](./309490-banana-shaped.json) |
@@ -13158,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher Hill | 11982 | [11982-butcher-hill.json](./11982-butcher-hill.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | Butcher of the North | 379043 | [379043-butcher-of-the-north.json](./379043-butcher-of-the-north.json) |
+| Butcher Simulator | 312451 | [312451-butcher-simulator.json](./312451-butcher-simulator.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
 | Butcherbird | 320620 | [320620-butcherbird.json](./320620-butcherbird.json) |
