@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Division | 203683 | [203683-hell-division.json](./203683-hell-division.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
+| Hell Express | 340274 | [340274-hell-express.json](./340274-hell-express.json) |
 | Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
