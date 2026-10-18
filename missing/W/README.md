@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Ghost | 121695 | [121695-war-ghost.json](./121695-war-ghost.json) |
 | War Girl | 120779 | [120779-war-girl.json](./120779-war-girl.json) |
 | War Gods | 3628 | [3628-war-gods.json](./3628-war-gods.json) |
+| War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
@@ -1375,6 +1376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
 | Warp Speed | 45568 | [45568-warp-speed.json](./45568-warp-speed.json) |
+| Warp Speed: Infinity | 320047 | [320047-warp-speed-infinity.json](./320047-warp-speed-infinity.json) |
 | Warp Tango | 238543 | [238543-warp-tango.json](./238543-warp-tango.json) |
 | Warp to Sector One | 394552 | [394552-warp-to-sector-one.json](./394552-warp-to-sector-one.json) |
 | Warp Trash Flotilla | 178968 | [178968-warp-trash-flotilla.json](./178968-warp-trash-flotilla.json) |
@@ -2384,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome To Chichester OVN 3: The Mysterious Affair at the Violet Hotel | 132264 | [132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./132264-welcome-to-chichester-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
 | Welcome to Chornobayivka VR | 211275 | [211275-welcome-to-chornobayivka-vr.json](./211275-welcome-to-chornobayivka-vr.json) |
 | Welcome To Eden | 278918 | [278918-welcome-to-eden.json](./278918-welcome-to-eden.json) |
+| Welcome to Ela | 320040 | [320040-welcome-to-ela.json](./320040-welcome-to-ela.json) |
 | Welcome to Elderfield | 319629 | [319629-welcome-to-elderfield.json](./319629-welcome-to-elderfield.json) |
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
 | Welcome to Elk | 131566 | [131566-welcome-to-elk.json](./131566-welcome-to-elk.json) |
