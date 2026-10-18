@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Striker 2 Version '99 | 287051 | [287051-virtua-striker-2-version-99.json](./287051-virtua-striker-2-version-99.json) |
 | Virtua Striker 2002 | 50567 | [50567-virtua-striker-2002.json](./50567-virtua-striker-2002.json) |
 | Virtua Striker 3 | 39789 | [39789-virtua-striker-3.json](./39789-virtua-striker-3.json) |
+| Virtua Tennis 2009 | 344146 | [344146-virtua-tennis-2009.json](./344146-virtua-tennis-2009.json) |
 | Virtua Tennis 2009 | 5257 | [5257-virtua-tennis-2009.json](./5257-virtua-tennis-2009.json) |
 | Virtua Tennis 4 | 5258 | [5258-virtua-tennis-4.json](./5258-virtua-tennis-4.json) |
 | Virtua Tennis Challenge | 46754 | [46754-virtua-tennis-challenge.json](./46754-virtua-tennis-challenge.json) |
