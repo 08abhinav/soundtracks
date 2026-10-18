@@ -3237,6 +3237,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor: Vintage | 403456 | [403456-hello-neighbor-vintage.json](./403456-hello-neighbor-vintage.json) |
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
+| Hello Penguin 2 | 352530 | [352530-hello-penguin-2.json](./352530-hello-penguin-2.json) |
+| Hello Penguin 3D | 352549 | [352549-hello-penguin-3d.json](./352549-hello-penguin-3d.json) |
 | Hello Pocoyo! | 64972 | [64972-hello-pocoyo.json](./64972-hello-pocoyo.json) |
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
