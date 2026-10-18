@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Beyond Terror: FPS Survival | 196829 | [196829-zombie-beyond-terror-fps-survival.json](./196829-zombie-beyond-terror-fps-survival.json) |
 | Zombie Blast Crew | 125194 | [125194-zombie-blast-crew.json](./125194-zombie-blast-crew.json) |
 | Zombie Blender | 190746 | [190746-zombie-blender.json](./190746-zombie-blender.json) |
+| Zombie Blitz | 329423 | [329423-zombie-blitz.json](./329423-zombie-blitz.json) |
 | Zombie Blocks: Pixel Shooter Gun | 328086 | [328086-zombie-blocks-pixel-shooter-gun.json](./328086-zombie-blocks-pixel-shooter-gun.json) |
 | Zombie Boom | 31608 | [31608-zombie-boom.json](./31608-zombie-boom.json) |
 | Zombie Bowl-O-Rama HD | 175226 | [175226-zombie-bowl-o-rama-hd.json](./175226-zombie-bowl-o-rama-hd.json) |
@@ -1728,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zumba: Magical Marble Saga | 417284 | [417284-zumba-magical-marble-saga.json](./417284-zumba-magical-marble-saga.json) |
 | Zumba: Marble Jungle Adventure | 410365 | [410365-zumba-marble-jungle-adventure.json](./410365-zumba-marble-jungle-adventure.json) |
 | Zumba: Soccer Marble League | 364083 | [364083-zumba-soccer-marble-league.json](./364083-zumba-soccer-marble-league.json) |
+| Zumba: The Marble Shooter Tikki Adventure | 329421 | [329421-zumba-the-marble-shooter-tikki-adventure.json](./329421-zumba-the-marble-shooter-tikki-adventure.json) |
 | Zumba: The Pharaoh's Marble Revenge | 414436 | [414436-zumba-the-pharaohs-marble-revenge.json](./414436-zumba-the-pharaohs-marble-revenge.json) |
 | Zumbi Blocks | 32074 | [32074-zumbi-blocks.json](./32074-zumbi-blocks.json) |
 | Zumbi Olé: The Minigame | 390119 | [390119-zumbi-ole-the-minigame.json](./390119-zumbi-ole-the-minigame.json) |
