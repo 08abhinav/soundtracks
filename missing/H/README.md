@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellboy: The Science of Evil | 7007 | [7007-hellboy-the-science-of-evil.json](./7007-hellboy-the-science-of-evil.json) |
 | Hellboy: Web of Wyrd - Collector's Edition | 287044 | [287044-hellboy-web-of-wyrd-collectors-edition.json](./287044-hellboy-web-of-wyrd-collectors-edition.json) |
 | Hellbreachers | 145888 | [145888-hellbreachers.json](./145888-hellbreachers.json) |
+| Hellbreak | 323576 | [323576-hellbreak.json](./323576-hellbreak.json) |
 | Hellbreaker | 74863 | [74863-hellbreaker.json](./74863-hellbreaker.json) |
 | Hellbrella | 345003 | [345003-hellbrella.json](./345003-hellbrella.json) |
 | Hellbridge | 399268 | [399268-hellbridge.json](./399268-hellbridge.json) |
@@ -6387,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
+| Hollow Woods | 323616 | [323616-hollow-woods.json](./323616-hollow-woods.json) |
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
 | Hollowbrook: Apartments | 372181 | [372181-hollowbrook-apartments.json](./372181-hollowbrook-apartments.json) |
@@ -9207,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnosis Mic: Alternative Rap Battle 1st Period | 287897 | [287897-hypnosis-mic-alternative-rap-battle-1st-period.json](./287897-hypnosis-mic-alternative-rap-battle-1st-period.json) |
 | Hypnosis Mic: Alternative Rap Battle 2nd Period | 287898 | [287898-hypnosis-mic-alternative-rap-battle-2nd-period.json](./287898-hypnosis-mic-alternative-rap-battle-2nd-period.json) |
 | Hypnosis Microphone: Alternative Rap Battle | 132016 | [132016-hypnosis-microphone-alternative-rap-battle.json](./132016-hypnosis-microphone-alternative-rap-battle.json) |
+| Hypnosis Microphone: Dream Rap Battle | 323566 | [323566-hypnosis-microphone-dream-rap-battle.json](./323566-hypnosis-microphone-dream-rap-battle.json) |
 | Hypnosis of Corruption | 331124 | [331124-hypnosis-of-corruption.json](./331124-hypnosis-of-corruption.json) |
 | Hypnosis: Quiet Nights | 352744 | [352744-hypnosis-quiet-nights.json](./352744-hypnosis-quiet-nights.json) |
 | Hypnospace Enforcer | 216271 | [216271-hypnospace-enforcer.json](./216271-hypnospace-enforcer.json) |
