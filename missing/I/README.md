@@ -672,7 +672,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
-| Icarus | 134813 | [134813-icarus.json](./134813-icarus.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
 | Icarus Challenge | 210893 | [210893-icarus-challenge.json](./210893-icarus-challenge.json) |
@@ -4951,7 +4950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IWO: Bloodbath in the Bonins | 32979 | [32979-iwo-bloodbath-in-the-bonins.json](./32979-iwo-bloodbath-in-the-bonins.json) |
 | IwoCon 2 | 235778 | [235778-iwocon-2.json](./235778-iwocon-2.json) |
 | IwoCon 2021 | 141005 | [141005-iwocon-2021.json](./141005-iwocon-2021.json) |
-| Ixion | 152258 | [152258-ixion.json](./152258-ixion.json) |
 | Ixion | 40345 | [40345-ixion.json](./40345-ixion.json) |
 | Ixion Saga | 152292 | [152292-ixion-saga.json](./152292-ixion-saga.json) |
 | Ixion: Deluxe Edition | 230975 | [230975-ixion-deluxe-edition.json](./230975-ixion-deluxe-edition.json) |
