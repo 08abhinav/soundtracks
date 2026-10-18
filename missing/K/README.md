@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Killing | 257889 | [257889-keep-killing.json](./257889-keep-killing.json) |
 | Keep Light | 190407 | [190407-keep-light.json](./190407-keep-light.json) |
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
+| Keep Looking | 320582 | [320582-keep-looking.json](./320582-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
 | Keep Me Gifted | 346465 | [346465-keep-me-gifted.json](./346465-keep-me-gifted.json) |
@@ -1113,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Wall | 150962 | [150962-keep-wall.json](./150962-keep-wall.json) |
 | Keep Watching | 30626 | [30626-keep-watching.json](./30626-keep-watching.json) |
 | Keep Watering | 406930 | [406930-keep-watering.json](./406930-keep-watering.json) |
+| Keep Your Eyes Open | 320616 | [320616-keep-your-eyes-open.json](./320616-keep-your-eyes-open.json) |
 | Keep Yourself Alive | 124720 | [124720-keep-yourself-alive.json](./124720-keep-yourself-alive.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
 | Keeper | 154354 | [154354-keeper.json](./154354-keeper.json) |
@@ -2100,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kindred Spirits on the Roof: Full Chorus | 124804 | [124804-kindred-spirits-on-the-roof-full-chorus.json](./124804-kindred-spirits-on-the-roof-full-chorus.json) |
 | Kindred Vale | 300965 | [300965-kindred-vale.json](./300965-kindred-vale.json) |
 | Kindred: High Tide | 373210 | [373210-kindred-high-tide.json](./373210-kindred-high-tide.json) |
+| Kindred: Subject 6244 | 320590 | [320590-kindred-subject-6244.json](./320590-kindred-subject-6244.json) |
 | Kinduo | 152689 | [152689-kinduo.json](./152689-kinduo.json) |
 | Kinduo 2: Frostbite | 263043 | [263043-kinduo-2-frostbite.json](./263043-kinduo-2-frostbite.json) |
 | Kindvixen's | 296618 | [296618-kindvixens.json](./296618-kindvixens.json) |
