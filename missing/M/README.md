@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
+| Maroxyn Drarea | 350786 | [350786-maroxyn-drarea.json](./350786-maroxyn-drarea.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marrakech | 188890 | [188890-marrakech.json](./188890-marrakech.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
@@ -4218,6 +4219,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverick Gunn and the Eye of Oggun | 170347 | [170347-maverick-gunn-and-the-eye-of-oggun.json](./170347-maverick-gunn-and-the-eye-of-oggun.json) |
 | Maverick Hunter | 291917 | [291917-maverick-hunter.json](./291917-maverick-hunter.json) |
 | Mavericks | 349802 | [349802-mavericks.json](./349802-mavericks.json) |
+| Mavericks 2: Resurrection of the Repliforce: | 350788 | [350788-mavericks-2-resurrection-of-the-repliforce.json](./350788-mavericks-2-resurrection-of-the-repliforce.json) |
+| Mavericks 3: Zero's Revenge | 350789 | [350789-mavericks-3-zeros-revenge.json](./350789-mavericks-3-zeros-revenge.json) |
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
@@ -8245,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers Tiger Barcodzz | 198871 | [198871-mighty-morphin-power-rangers-tiger-barcodzz.json](./198871-mighty-morphin-power-rangers-tiger-barcodzz.json) |
 | Mighty Morphin Power Rangers: Alpha 5 Where Are You? | 198819 | [198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json](./198819-mighty-morphin-power-rangers-alpha-5-where-are-you.json) |
 | Mighty Morphin Power Rangers: Rita's Rewind | 305016 | [305016-mighty-morphin-power-rangers-ritas-rewind.json](./305016-mighty-morphin-power-rangers-ritas-rewind.json) |
+| Mighty Morphin Power Rangers: Rita's Rewind - Deluxe Edition | 350800 | [350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json](./350800-mighty-morphin-power-rangers-ritas-rewind-deluxe-edition.json) |
 | Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
@@ -10276,6 +10280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moana: Island Life | 97982 | [97982-moana-island-life.json](./97982-moana-island-life.json) |
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
+| Mob Boss Hitman vs Zombies: The Underworld Hustle of Gangsta Crimes | 350761 | [350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json](./350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
 | Mob Control: Champions | 277900 | [277900-mob-control-champions.json](./277900-mob-control-champions.json) |
 | Mob Control: Champions Edition | 286197 | [286197-mob-control-champions-edition.json](./286197-mob-control-champions-edition.json) |
@@ -14463,6 +14468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Aquarium | 373615 | [373615-my-cozy-aquarium.json](./373615-my-cozy-aquarium.json) |
 | My Cozy Home | 258936 | [258936-my-cozy-home.json](./258936-my-cozy-home.json) |
 | My Cozy Room | 328507 | [328507-my-cozy-room.json](./328507-my-cozy-room.json) |
+| My Cozy Room: Cottagecore | 350862 | [350862-my-cozy-room-cottagecore.json](./350862-my-cozy-room-cottagecore.json) |
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
 | My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
