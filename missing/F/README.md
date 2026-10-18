@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Bots | 154361 | [154361-fight-bots.json](./154361-fight-bots.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
 | Fight Club | 5834 | [5834-fight-club.json](./5834-fight-club.json) |
+| Fight Club World | 336882 | [336882-fight-club-world.json](./336882-fight-club-world.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshgait | 188448 | [188448-fleshgait.json](./188448-fleshgait.json) |
 | Fleshgod | 184299 | [184299-fleshgod.json](./184299-fleshgod.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
+| Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | FleurBirdShoot | 192931 | [192931-fleurbirdshoot.json](./192931-fleurbirdshoot.json) |
 | Flewn | 18087 | [18087-flewn.json](./18087-flewn.json) |
@@ -9095,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers.io: Expansion Pack 5 | 167313 | [167313-frontiers-io-expansion-pack-5.json](./167313-frontiers-io-expansion-pack-5.json) |
 | Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
 | Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
+| Frontland | 336864 | [336864-frontland.json](./336864-frontland.json) |
 | Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Commando | 88630 | [88630-frontline-commando.json](./88630-frontline-commando.json) |
@@ -9303,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit Wars | 344398 | [344398-fruit-wars.json](./344398-fruit-wars.json) |
 | Fruit-Fusion | 282807 | [282807-fruit-fusion.json](./282807-fruit-fusion.json) |
+| Fruit: Chain Effect | 336870 | [336870-fruit-chain-effect.json](./336870-fruit-chain-effect.json) |
 | Fruitalistic! | 258638 | [258638-fruitalistic.json](./258638-fruitalistic.json) |
 | Fruitbearer | 389696 | [389696-fruitbearer.json](./389696-fruitbearer.json) |
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
