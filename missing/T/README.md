@@ -6934,6 +6934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog | 54307 | [54307-the-fog.json](./54307-the-fog.json) |
+| The Fog Encounters | 351401 | [351401-the-fog-encounters.json](./351401-the-fog-encounters.json) |
 | The Fog Fall | 383351 | [383351-the-fog-fall.json](./383351-the-fog-fall.json) |
 | The Fog Fall 2 | 386221 | [386221-the-fog-fall-2.json](./386221-the-fog-fall-2.json) |
 | The Fog Fall 3 | 392734 | [392734-the-fog-fall-3.json](./392734-the-fog-fall-3.json) |
@@ -10742,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pit | 23513 | [23513-the-pit.json](./23513-the-pit.json) |
+| The Pit | 351422 | [351422-the-pit.json](./351422-the-pit.json) |
 | The Pit | 78596 | [78596-the-pit.json](./78596-the-pit.json) |
 | The Pit and the Pendulum | 32957 | [32957-the-pit-and-the-pendulum.json](./32957-the-pit-and-the-pendulum.json) |
 | The Pit Arcade | 255015 | [255015-the-pit-arcade.json](./255015-the-pit-arcade.json) |
@@ -10883,6 +10885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
 | The Profaned | 406314 | [406314-the-profaned.json](./406314-the-profaned.json) |
+| The Professor | 351483 | [351483-the-professor.json](./351483-the-professor.json) |
 | The Professor Presents: Got Handles? | 28937 | [28937-the-professor-presents-got-handles.json](./28937-the-professor-presents-got-handles.json) |
 | The Project Mars 2+3 | 125927 | [125927-the-project-mars-2-3.json](./125927-the-project-mars-2-3.json) |
 | The Projection Room of Malka Spitzer | 262953 | [262953-the-projection-room-of-malka-spitzer.json](./262953-the-projection-room-of-malka-spitzer.json) |
@@ -19258,6 +19261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Unreal Mahjong | 59894 | [59894-touhou-unreal-mahjong.json](./59894-touhou-unreal-mahjong.json) |
 | Touhou Usojikuu: Fools_rush_in | 366633 | [366633-touhou-usojikuu-fools-rush-in.json](./366633-touhou-usojikuu-fools-rush-in.json) |
 | Touhou Volleyball | 351605 | [351605-touhou-volleyball.json](./351605-touhou-volleyball.json) |
+| Touhou Volleyball Danmaku | 351389 | [351389-touhou-volleyball-danmaku.json](./351389-touhou-volleyball-danmaku.json) |
 | Touhou Witch's Night Market | 380424 | [380424-touhou-witchs-night-market.json](./380424-touhou-witchs-night-market.json) |
 | Touhou Youyoumu: Perfect Cherry Blossom | 27166 | [27166-touhou-youyoumu-perfect-cherry-blossom.json](./27166-touhou-youyoumu-perfect-cherry-blossom.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
