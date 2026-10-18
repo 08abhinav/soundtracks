@@ -3423,6 +3423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up the Holidays | 110953 | [110953-light-up-the-holidays.json](./110953-light-up-the-holidays.json) |
 | Light Up the Room | 161371 | [161371-light-up-the-room.json](./161371-light-up-the-room.json) |
 | Light Up The Sky | 275518 | [275518-light-up-the-sky.json](./275518-light-up-the-sky.json) |
+| Light Up the Town | 348596 | [348596-light-up-the-town.json](./348596-light-up-the-town.json) |
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
 | Light x Shadow | 75671 | [75671-light-x-shadow.json](./75671-light-x-shadow.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
@@ -3684,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limacina Open Season | 398564 | [398564-limacina-open-season.json](./398564-limacina-open-season.json) |
 | Limax.io | 54892 | [54892-limax-io.json](./54892-limax-io.json) |
 | Limb Chopper | 323985 | [323985-limb-chopper.json](./323985-limb-chopper.json) |
+| Limb Driver | 348582 | [348582-limb-driver.json](./348582-limb-driver.json) |
 | Limb Hunter | 156222 | [156222-limb-hunter.json](./156222-limb-hunter.json) |
 | Limb Lobber | 395707 | [395707-limb-lobber.json](./395707-limb-lobber.json) |
 | Limb: Origins | 337086 | [337086-limb-origins.json](./337086-limb-origins.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Life: Origins | 207758 | [207758-lost-life-origins.json](./207758-lost-life-origins.json) |
 | Lost Light | 148295 | [148295-lost-light.json](./148295-lost-light.json) |
 | Lost Light | 210887 | [210887-lost-light.json](./210887-lost-light.json) |
+| Lost Liminal | 348567 | [348567-lost-liminal.json](./348567-lost-liminal.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
@@ -5998,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Within | 23959 | [23959-lost-within.json](./23959-lost-within.json) |
 | Lost Words: Beyond the Page | 110586 | [110586-lost-words-beyond-the-page.json](./110586-lost-words-beyond-the-page.json) |
 | Lost World | 226183 | [226183-lost-world.json](./226183-lost-world.json) |
+| Lost World Survivor | 348588 | [348588-lost-world-survivor.json](./348588-lost-world-survivor.json) |
 | Lost Worlds Prophecy | 95666 | [95666-lost-worlds-prophecy.json](./95666-lost-worlds-prophecy.json) |
 | Lost Zion | 395555 | [395555-lost-zion.json](./395555-lost-zion.json) |
 | Lost: Find | 196118 | [196118-lost-find.json](./196118-lost-find.json) |
@@ -6671,6 +6675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
+| Lucky Zombie Survival | 348560 | [348560-lucky-zombie-survival.json](./348560-lucky-zombie-survival.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
 | LuckyJet | 233444 | [233444-luckyjet.json](./233444-luckyjet.json) |
 | LuckyWheel | 326276 | [326276-luckywheel.json](./326276-luckywheel.json) |
