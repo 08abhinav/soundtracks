@@ -9049,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
 | Command Bots | 179435 | [179435-command-bots.json](./179435-command-bots.json) |
 | Command Center Earth | 273634 | [273634-command-center-earth.json](./273634-command-center-earth.json) |
+| Command Deck | 348577 | [348577-command-deck.json](./348577-command-deck.json) |
 | Command Doctrine | 416109 | [416109-command-doctrine.json](./416109-command-doctrine.json) |
 | Command Heroes | 151845 | [151845-command-heroes.json](./151845-command-heroes.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
@@ -13789,6 +13790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
 | Cult II: Federal Crime | 69935 | [69935-cult-ii-federal-crime.json](./69935-cult-ii-federal-crime.json) |
 | Cult Land | 309574 | [309574-cult-land.json](./309574-cult-land.json) |
+| Cult Leader Simulator | 348575 | [348575-cult-leader-simulator.json](./348575-cult-leader-simulator.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
@@ -13828,6 +13830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culto a los dioses | 228428 | [228428-culto-a-los-dioses.json](./228428-culto-a-los-dioses.json) |
 | Cults and Daggers | 36160 | [36160-cults-and-daggers.json](./36160-cults-and-daggers.json) |
 | Cults of the Endtimes | 389742 | [389742-cults-of-the-endtimes.json](./389742-cults-of-the-endtimes.json) |
+| Cultural Delights | 348594 | [348594-cultural-delights.json](./348594-cultural-delights.json) |
 | Culture House | 260631 | [260631-culture-house.json](./260631-culture-house.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
