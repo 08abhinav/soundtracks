@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
+| Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
@@ -7046,6 +7047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disassembly Line | 77161 | [77161-disassembly-line.json](./77161-disassembly-line.json) |
 | Disaster | 186809 | [186809-disaster.json](./186809-disaster.json) |
 | Disaster Area | 236283 | [236283-disaster-area.json](./236283-disaster-area.json) |
+| Disaster Arms: Impact Project B.A.H.N. | 331183 | [331183-disaster-arms-impact-project-b-a-h-n.json](./331183-disaster-arms-impact-project-b-a-h-n.json) |
 | Disaster Band | 229138 | [229138-disaster-band.json](./229138-disaster-band.json) |
 | Disaster Crisis | 166749 | [166749-disaster-crisis.json](./166749-disaster-crisis.json) |
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
@@ -9429,6 +9431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooors VR | 29947 | [29947-dooors-vr.json](./29947-dooors-vr.json) |
 | Door | 103457 | [103457-door.json](./103457-door.json) |
 | Door 2: Key - Path to Heaven | 171586 | [171586-door-2-key-path-to-heaven.json](./171586-door-2-key-path-to-heaven.json) |
+| Door Game Deluxe | 331085 | [331085-door-game-deluxe.json](./331085-door-game-deluxe.json) |
 | Door Knocker | 122336 | [122336-door-knocker.json](./122336-door-knocker.json) |
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
