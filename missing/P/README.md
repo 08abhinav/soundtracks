@@ -11649,7 +11649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Waves | 114434 | [114434-project-waves.json](./114434-project-waves.json) |
 | Project Werewolf | 306099 | [306099-project-werewolf.json](./306099-project-werewolf.json) |
 | Project Windless | 389432 | [389432-project-windless.json](./389432-project-windless.json) |
-| Project Wingman | 56859 | [56859-project-wingman.json](./56859-project-wingman.json) |
 | Project Wingman: Frontline 59 | 270216 | [270216-project-wingman-frontline-59.json](./270216-project-wingman-frontline-59.json) |
 | Project Winter | 111033 | [111033-project-winter.json](./111033-project-winter.json) |
 | Project Winter Mobile | 199947 | [199947-project-winter-mobile.json](./199947-project-winter-mobile.json) |
