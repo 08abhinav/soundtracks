@@ -8241,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
+| ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
 | Apples in the Abyss | 379088 | [379088-apples-in-the-abyss.json](./379088-apples-in-the-abyss.json) |
