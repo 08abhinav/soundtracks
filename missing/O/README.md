@@ -438,6 +438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd One Out | 380129 | [380129-odd-one-out.json](./380129-odd-one-out.json) |
 | Odd Remedy | 323312 | [323312-odd-remedy.json](./323312-odd-remedy.json) |
 | Odd Sequence | 296396 | [296396-odd-sequence.json](./296396-odd-sequence.json) |
+| Odd Shape Out! | 336403 | [336403-odd-shape-out.json](./336403-odd-shape-out.json) |
 | Odd Shop | 424048 | [424048-odd-shop.json](./424048-odd-shop.json) |
 | Odd Town | 278965 | [278965-odd-town.json](./278965-odd-town.json) |
 | Odd-mensional | 184117 | [184117-odd-mensional.json](./184117-odd-mensional.json) |
