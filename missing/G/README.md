@@ -5725,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Torcidas | 358395 | [358395-grand-theft-auto-torcidas.json](./358395-grand-theft-auto-torcidas.json) |
 | Grand Theft Auto: Vice City | 215550 | [215550-grand-theft-auto-vice-city.json](./215550-grand-theft-auto-vice-city.json) |
 | Grand Theft Auto: Vice City - The Definitive Edition | 178125 | [178125-grand-theft-auto-vice-city-the-definitive-edition.json](./178125-grand-theft-auto-vice-city-the-definitive-edition.json) |
+| Grand Theft Auto: Vice City - The Nextgen Edition | 329345 | [329345-grand-theft-auto-vice-city-the-nextgen-edition.json](./329345-grand-theft-auto-vice-city-the-nextgen-edition.json) |
 | Grand Theft Auto: Vice City Stories | 3262 | [3262-grand-theft-auto-vice-city-stories.json](./3262-grand-theft-auto-vice-city-stories.json) |
 | Grand Theft Bubble | 329720 | [329720-grand-theft-bubble.json](./329720-grand-theft-bubble.json) |
 | Grand Theft Houso | 288703 | [288703-grand-theft-houso.json](./288703-grand-theft-houso.json) |
