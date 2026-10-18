@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:51:10.559Z",
-  "total_soundtracks": 2184,
+  "generated_at": "2026-10-18T09:20:26.159Z",
+  "total_soundtracks": 2185,
   "games": [
     {
       "igdb_id": 7522,
@@ -6428,6 +6428,20 @@
           "album_name": "Devil May Cry (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1FKr0dY4TzPeJ0m3V5u76k",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152255,
+      "game_name": "Dodgeball Academia",
+      "game_url": "https://ostdb.net/games/dodgeball-academia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d96dd91b6a12b4ed7d077cc6",
+      "albums": [
+        {
+          "album_name": "Dodgeball Academia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6vxFKziencnwybmKwFGXQ6",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
