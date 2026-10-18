@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's in the Attic? | 140593 | [140593-whats-in-the-attic.json](./140593-whats-in-the-attic.json) |
 | What's in the Picture: Animals | 23983 | [23983-whats-in-the-picture-animals.json](./23983-whats-in-the-picture-animals.json) |
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
+| What's left of Rave Rough | 316468 | [316468-whats-left-of-rave-rough.json](./316468-whats-left-of-rave-rough.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
 | What's My Gender? | 102349 | [102349-whats-my-gender.json](./102349-whats-my-gender.json) |
@@ -5211,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder World | 312547 | [312547-wonder-world.json](./312547-wonder-world.json) |
 | Wonder World Amusement Park | 5286 | [5286-wonder-world-amusement-park.json](./5286-wonder-world-amusement-park.json) |
 | Wonder World Walkers | 173079 | [173079-wonder-world-walkers.json](./173079-wonder-world-walkers.json) |
+| Wonder Zoo: Animal Rescue! | 316495 | [316495-wonder-zoo-animal-rescue.json](./316495-wonder-zoo-animal-rescue.json) |
 | Wonderball | 78276 | [78276-wonderball.json](./78276-wonderball.json) |
 | Wonderball Heroes | 83581 | [83581-wonderball-heroes.json](./83581-wonderball-heroes.json) |
 | Wonderbirds | 188911 | [188911-wonderbirds.json](./188911-wonderbirds.json) |
