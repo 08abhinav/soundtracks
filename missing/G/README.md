@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster | 13855 | [13855-gangster.json](./13855-gangster.json) |
 | Gangster Alley | 18555 | [18555-gangster-alley.json](./18555-gangster-alley.json) |
 | Gangster Bros | 282577 | [282577-gangster-bros.json](./282577-gangster-bros.json) |
+| Gangster City | 342483 | [342483-gangster-city.json](./342483-gangster-city.json) |
 | Gangster City Cruise - Mobster Crime Shooter | 88636 | [88636-gangster-city-cruise-mobster-crime-shooter.json](./88636-gangster-city-cruise-mobster-crime-shooter.json) |
 | Gangster City: Mafia Car Driving | 234645 | [234645-gangster-city-mafia-car-driving.json](./234645-gangster-city-mafia-car-driving.json) |
 | Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
@@ -1316,6 +1317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
+| Garden of Merging Numbers | 342398 | [342398-garden-of-merging-numbers.json](./342398-garden-of-merging-numbers.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Oblivion | 387155 | [387155-garden-of-oblivion.json](./387155-garden-of-oblivion.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
@@ -3375,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
 | Gladiators of Roma Revixit | 374369 | [374369-gladiators-of-roma-revixit.json](./374369-gladiators-of-roma-revixit.json) |
+| Gladiators Simulator: The Champions of Liberty | 342399 | [342399-gladiators-simulator-the-champions-of-liberty.json](./342399-gladiators-simulator-the-champions-of-liberty.json) |
 | Gladiators Tale | 248001 | [248001-gladiators-tale.json](./248001-gladiators-tale.json) |
 | Gladiators: Ludus Manager | 116213 | [116213-gladiators-ludus-manager.json](./116213-gladiators-ludus-manager.json) |
 | Gladiators: The Unconquered | 132535 | [132535-gladiators-the-unconquered.json](./132535-gladiators-the-unconquered.json) |
