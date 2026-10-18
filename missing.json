@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T21:33:22.577Z",
-  "total_missing": 229976,
+  "generated_at": "2026-10-18T21:48:25.491Z",
+  "total_missing": 230026,
   "games": [
     {
       "igdb_id": 191680,
@@ -16245,6 +16245,11 @@
       "igdb_id": 243418,
       "game_name": "A Shard of Mine",
       "file": "missing/A/243418-a-shard-of-mine.json"
+    },
+    {
+      "igdb_id": 314113,
+      "game_name": "A Shelter Full of Cats",
+      "file": "missing/A/314113-a-shelter-full-of-cats.json"
     },
     {
       "igdb_id": 144692,
@@ -170267,6 +170272,11 @@
       "file": "missing/C/225707-chicken-smoothie.json"
     },
     {
+      "igdb_id": 314120,
+      "game_name": "Chicken Strike: Cluck Ops",
+      "file": "missing/C/314120-chicken-strike-cluck-ops.json"
+    },
+    {
       "igdb_id": 288792,
       "game_name": "Chicken Tale",
       "file": "missing/C/288792-chicken-tale.json"
@@ -232310,6 +232320,11 @@
       "igdb_id": 127256,
       "game_name": "Dead Cells: The Bad Seed",
       "file": "missing/D/127256-dead-cells-the-bad-seed.json"
+    },
+    {
+      "igdb_id": 314131,
+      "game_name": "Dead Cells: The End Is Near",
+      "file": "missing/D/314131-dead-cells-the-end-is-near.json"
     },
     {
       "igdb_id": 154957,
@@ -334677,6 +334692,11 @@
       "file": "missing/F/209420-fever-frenzy.json"
     },
     {
+      "igdb_id": 314137,
+      "game_name": "Fever Golf",
+      "file": "missing/F/314137-fever-golf.json"
+    },
+    {
       "igdb_id": 350483,
       "game_name": "Fever Meme",
       "file": "missing/F/350483-fever-meme.json"
@@ -355137,6 +355157,11 @@
       "file": "missing/F/118325-forestation-circles-of-nature.json"
     },
     {
+      "igdb_id": 314122,
+      "game_name": "Forested Super Mario Bros. U",
+      "file": "missing/F/314122-forested-super-mario-bros-u.json"
+    },
+    {
       "igdb_id": 387104,
       "game_name": "Forester Simulator 2026: Mushroom Hunting",
       "file": "missing/F/387104-forester-simulator-2026-mushroom-hunting.json"
@@ -366580,6 +366605,11 @@
       "igdb_id": 186807,
       "game_name": "Fruit Salad Theory",
       "file": "missing/F/186807-fruit-salad-theory.json"
+    },
+    {
+      "igdb_id": 314108,
+      "game_name": "Fruit Salon",
+      "file": "missing/F/314108-fruit-salon.json"
     },
     {
       "igdb_id": 277379,
@@ -414477,6 +414507,11 @@
       "file": "missing/H/366609-half-life-2-substance.json"
     },
     {
+      "igdb_id": 314127,
+      "game_name": "Half-Life 2: Aftermath",
+      "file": "missing/H/314127-half-life-2-aftermath.json"
+    },
+    {
       "igdb_id": 323932,
       "game_name": "Half-Life 2: Alone Mod",
       "file": "missing/H/323932-half-life-2-alone-mod.json"
@@ -419395,6 +419430,11 @@
       "igdb_id": 153370,
       "game_name": "Hard Night VR",
       "file": "missing/H/153370-hard-night-vr.json"
+    },
+    {
+      "igdb_id": 314148,
+      "game_name": "Hard Nut to Crack",
+      "file": "missing/H/314148-hard-nut-to-crack.json"
     },
     {
       "igdb_id": 130628,
@@ -475522,6 +475562,11 @@
       "file": "missing/I/34375-inside-me.json"
     },
     {
+      "igdb_id": 314143,
+      "game_name": "Inside My Friend's Mind",
+      "file": "missing/I/314143-inside-my-friends-mind.json"
+    },
+    {
       "igdb_id": 149090,
       "game_name": "Inside My Mind",
       "file": "missing/I/149090-inside-my-mind.json"
@@ -477755,6 +477800,11 @@
       "igdb_id": 224107,
       "game_name": "Into Ruins",
       "file": "missing/I/224107-into-ruins.json"
+    },
+    {
+      "igdb_id": 314149,
+      "game_name": "Into Sandy's Cities",
+      "file": "missing/I/314149-into-sandys-cities.json"
     },
     {
       "igdb_id": 159729,
@@ -554932,6 +554982,11 @@
       "file": "missing/L/258888-love-tavern-2-beastmen-kingdoms.json"
     },
     {
+      "igdb_id": 314142,
+      "game_name": "Love the Game",
+      "file": "missing/L/314142-love-the-game.json"
+    },
+    {
       "igdb_id": 179686,
       "game_name": "Love the Guard, Be the King",
       "file": "missing/L/179686-love-the-guard-be-the-king.json"
@@ -557275,6 +557330,11 @@
       "igdb_id": 318029,
       "game_name": "Luigi's Game",
       "file": "missing/L/318029-luigis-game.json"
+    },
+    {
+      "igdb_id": 314099,
+      "game_name": "Luigi's Lost Levels",
+      "file": "missing/L/314099-luigis-lost-levels.json"
     },
     {
       "igdb_id": 339799,
@@ -573227,6 +573287,11 @@
       "file": "missing/M/218088-mario-and-the-mystic-purple-stars.json"
     },
     {
+      "igdb_id": 314124,
+      "game_name": "Mario and the Mystical Worlds",
+      "file": "missing/M/314124-mario-and-the-mystical-worlds.json"
+    },
+    {
       "igdb_id": 20593,
       "game_name": "Mario Andretti Racing",
       "file": "missing/M/20593-mario-andretti-racing.json"
@@ -574985,6 +575050,11 @@
       "igdb_id": 174730,
       "game_name": "Mario's Mystery Meat",
       "file": "missing/M/174730-marios-mystery-meat.json"
+    },
+    {
+      "igdb_id": 314102,
+      "game_name": "Mario's New Adventure",
+      "file": "missing/M/314102-marios-new-adventure.json"
     },
     {
       "igdb_id": 195027,
@@ -584385,6 +584455,11 @@
       "igdb_id": 40357,
       "game_name": "Mechanized Attack",
       "file": "missing/M/40357-mechanized-attack.json"
+    },
+    {
+      "igdb_id": 314103,
+      "game_name": "Mechanized Super Mario Bros. U",
+      "file": "missing/M/314103-mechanized-super-mario-bros-u.json"
     },
     {
       "igdb_id": 238757,
@@ -610892,6 +610967,11 @@
       "file": "missing/M/366957-mixed-spirits.json"
     },
     {
+      "igdb_id": 314111,
+      "game_name": "Mixed Super Mario Bros. U",
+      "file": "missing/M/314111-mixed-super-mario-bros-u.json"
+    },
+    {
       "igdb_id": 252983,
       "game_name": "Mixed Unit Tactics",
       "file": "missing/M/252983-mixed-unit-tactics.json"
@@ -633707,6 +633787,11 @@
       "file": "missing/M/210921-my-first-date-rpg-elliot-story-one.json"
     },
     {
+      "igdb_id": 314144,
+      "game_name": "My First Date RPG: Elliot - Story Three",
+      "file": "missing/M/314144-my-first-date-rpg-elliot-story-three.json"
+    },
+    {
       "igdb_id": 313903,
       "game_name": "My First Date RPG: Elliot - Story Two",
       "file": "missing/M/313903-my-first-date-rpg-elliot-story-two.json"
@@ -648772,6 +648857,11 @@
       "file": "missing/N/184860-neo-gensokyo-zero.json"
     },
     {
+      "igdb_id": 314126,
+      "game_name": "Neo-Kaizo DS",
+      "file": "missing/N/314126-neo-kaizo-ds.json"
+    },
+    {
       "igdb_id": 31986,
       "game_name": "Neo-Now!",
       "file": "missing/N/31986-neo-now.json"
@@ -650907,6 +650997,11 @@
       "file": "missing/N/198355-netronian-chaos.json"
     },
     {
+      "igdb_id": 314146,
+      "game_name": "Netrun 2000",
+      "file": "missing/N/314146-netrun-2000.json"
+    },
+    {
       "igdb_id": 139112,
       "game_name": "Netrunner",
       "file": "missing/N/139112-netrunner.json"
@@ -652752,6 +652847,11 @@
       "file": "missing/N/230759-new-super-mario-bros-wii-ds.json"
     },
     {
+      "igdb_id": 314096,
+      "game_name": "New Super Mario Bros. Wii: The Galaxy Expansion",
+      "file": "missing/N/314096-new-super-mario-bros-wii-the-galaxy-expansion.json"
+    },
+    {
       "igdb_id": 313432,
       "game_name": "New Super Mario Bros. Wii: The Prankster Comets",
       "file": "missing/N/313432-new-super-mario-bros-wii-the-prankster-comets.json"
@@ -652767,6 +652867,11 @@
       "file": "missing/N/255604-new-super-mario-castle.json"
     },
     {
+      "igdb_id": 314112,
+      "game_name": "New Super Mario Galaxy",
+      "file": "missing/N/314112-new-super-mario-galaxy.json"
+    },
+    {
       "igdb_id": 250049,
       "game_name": "New Super Mario Kart",
       "file": "missing/N/250049-new-super-mario-kart.json"
@@ -652780,6 +652885,11 @@
       "igdb_id": 394349,
       "game_name": "New Super Mario Lost Worlds",
       "file": "missing/N/394349-new-super-mario-lost-worlds.json"
+    },
+    {
+      "igdb_id": 314116,
+      "game_name": "New Super Mario Run",
+      "file": "missing/N/314116-new-super-mario-run.json"
     },
     {
       "igdb_id": 222515,
@@ -666965,6 +667075,11 @@
       "igdb_id": 212845,
       "game_name": "NSMB: Mario vs. Luigi Online",
       "file": "missing/N/212845-nsmb-mario-vs-luigi-online.json"
+    },
+    {
+      "igdb_id": 314097,
+      "game_name": "NSMB2: Mushroom Madness",
+      "file": "missing/N/314097-nsmb2-mushroom-madness.json"
     },
     {
       "igdb_id": 397954,
@@ -714182,6 +714297,11 @@
       "file": "missing/P/84697-pikmin-2.json"
     },
     {
+      "igdb_id": 314134,
+      "game_name": "Pikmin 2 Deluxe",
+      "file": "missing/P/314134-pikmin-2-deluxe.json"
+    },
+    {
       "igdb_id": 291158,
       "game_name": "Pikmin 2 Hallows Haunt",
       "file": "missing/P/291158-pikmin-2-hallows-haunt.json"
@@ -714260,6 +714380,11 @@
       "igdb_id": 313484,
       "game_name": "Pikmin 3 DX: Caves Reborn",
       "file": "missing/P/313484-pikmin-3-dx-caves-reborn.json"
+    },
+    {
+      "igdb_id": 314133,
+      "game_name": "Pikmin 3: Extra Side of Stories",
+      "file": "missing/P/314133-pikmin-3-extra-side-of-stories.json"
     },
     {
       "igdb_id": 59843,
@@ -714545,6 +714670,11 @@
       "igdb_id": 342714,
       "game_name": "Pikmin Treasure Hunt",
       "file": "missing/P/342714-pikmin-treasure-hunt.json"
+    },
+    {
+      "igdb_id": 314135,
+      "game_name": "Pikmin: New Fortune",
+      "file": "missing/P/314135-pikmin-new-fortune.json"
     },
     {
       "igdb_id": 313353,
@@ -773895,6 +774025,11 @@
       "igdb_id": 404658,
       "game_name": "Read Watch Listen Plan",
       "file": "missing/R/404658-read-watch-listen-plan.json"
+    },
+    {
+      "igdb_id": 314139,
+      "game_name": "Read, Write, & Type",
+      "file": "missing/R/314139-read-write-and-type.json"
     },
     {
       "igdb_id": 80516,
@@ -862247,9 +862382,24 @@
       "file": "missing/S/318506-small-spaces.json"
     },
     {
+      "igdb_id": 314107,
+      "game_name": "Small Super Mario Bros. U",
+      "file": "missing/S/314107-small-super-mario-bros-u.json"
+    },
+    {
+      "igdb_id": 314109,
+      "game_name": "Small Super Mario Bros. U 2",
+      "file": "missing/S/314109-small-super-mario-bros-u-2.json"
+    },
+    {
       "igdb_id": 256808,
       "game_name": "Small Super Mario Bros. U Deluxe",
       "file": "missing/S/256808-small-super-mario-bros-u-deluxe.json"
+    },
+    {
+      "igdb_id": 314121,
+      "game_name": "Small Super Mario Universe",
+      "file": "missing/S/314121-small-super-mario-universe.json"
     },
     {
       "igdb_id": 255017,
@@ -926212,6 +926362,16 @@
       "file": "missing/S/241017-super-mario-advance-4-super-mario-bros-3-e-vexing-doors.json"
     },
     {
+      "igdb_id": 314117,
+      "game_name": "Super Mario Adventure",
+      "file": "missing/S/314117-super-mario-adventure.json"
+    },
+    {
+      "igdb_id": 314128,
+      "game_name": "Super Mario Aftermath",
+      "file": "missing/S/314128-super-mario-aftermath.json"
+    },
+    {
       "igdb_id": 5199,
       "game_name": "Super Mario All-Stars",
       "file": "missing/S/5199-super-mario-all-stars.json"
@@ -926232,9 +926392,19 @@
       "file": "missing/S/323589-super-mario-all-stars.json"
     },
     {
+      "igdb_id": 314118,
+      "game_name": "Super Mario and the Cliffs of Spring",
+      "file": "missing/S/314118-super-mario-and-the-cliffs-of-spring.json"
+    },
+    {
       "igdb_id": 336107,
       "game_name": "Super Mario and the Cosmic Catalyst",
       "file": "missing/S/336107-super-mario-and-the-cosmic-catalyst.json"
+    },
+    {
+      "igdb_id": 314106,
+      "game_name": "Super Mario and the Crystal Crescents",
+      "file": "missing/S/314106-super-mario-and-the-crystal-crescents.json"
     },
     {
       "igdb_id": 135216,
@@ -926547,6 +926717,11 @@
       "file": "missing/S/372198-super-mario-bros-dx.json"
     },
     {
+      "igdb_id": 314104,
+      "game_name": "Super Mario Bros. Extreme Adventure",
+      "file": "missing/S/314104-super-mario-bros-extreme-adventure.json"
+    },
+    {
       "igdb_id": 203389,
       "game_name": "Super Mario Bros. Funk Mix Deluxe",
       "file": "missing/S/203389-super-mario-bros-funk-mix-deluxe.json"
@@ -926732,6 +926907,11 @@
       "file": "missing/S/255603-super-mario-castle-2.json"
     },
     {
+      "igdb_id": 314125,
+      "game_name": "Super Mario Castle 3",
+      "file": "missing/S/314125-super-mario-castle-3.json"
+    },
+    {
       "igdb_id": 323870,
       "game_name": "Super Mario Chronicles",
       "file": "missing/S/323870-super-mario-chronicles.json"
@@ -926835,6 +927015,11 @@
       "igdb_id": 134075,
       "game_name": "Super Mario Flashback",
       "file": "missing/S/134075-super-mario-flashback.json"
+    },
+    {
+      "igdb_id": 314100,
+      "game_name": "Super Mario Freezeflame Nightmare",
+      "file": "missing/S/314100-super-mario-freezeflame-nightmare.json"
     },
     {
       "igdb_id": 307713,
@@ -926942,6 +927127,11 @@
       "file": "missing/S/213948-super-mario-gravity.json"
     },
     {
+      "igdb_id": 314098,
+      "game_name": "Super Mario Green Star Groove",
+      "file": "missing/S/314098-super-mario-green-star-groove.json"
+    },
+    {
       "igdb_id": 318865,
       "game_name": "Super Mario Greetings",
       "file": "missing/S/318865-super-mario-greetings.json"
@@ -927000,6 +927190,11 @@
       "igdb_id": 323028,
       "game_name": "Super Mario Insanity",
       "file": "missing/S/323028-super-mario-insanity.json"
+    },
+    {
+      "igdb_id": 314129,
+      "game_name": "Super Mario Japan Vacation",
+      "file": "missing/S/314129-super-mario-japan-vacation.json"
     },
     {
       "igdb_id": 324010,
@@ -927192,6 +927387,11 @@
       "file": "missing/S/198370-super-mario-moonshine-64.json"
     },
     {
+      "igdb_id": 314114,
+      "game_name": "Super Mario Mountain Mania",
+      "file": "missing/S/314114-super-mario-mountain-mania.json"
+    },
+    {
       "igdb_id": 381728,
       "game_name": "Super Mario Nation",
       "file": "missing/S/381728-super-mario-nation.json"
@@ -927372,6 +927572,11 @@
       "file": "missing/S/175958-super-mario-spikers.json"
     },
     {
+      "igdb_id": 314130,
+      "game_name": "Super Mario Star Path",
+      "file": "missing/S/314130-super-mario-star-path.json"
+    },
+    {
       "igdb_id": 159342,
       "game_name": "Super Mario Star Road Multiplayer",
       "file": "missing/S/159342-super-mario-star-road-multiplayer.json"
@@ -927482,6 +927687,11 @@
       "file": "missing/S/382413-super-mario-timeless-rendezvous.json"
     },
     {
+      "igdb_id": 314110,
+      "game_name": "Super Mario Toxic Tension",
+      "file": "missing/S/314110-super-mario-toxic-tension.json"
+    },
+    {
       "igdb_id": 368158,
       "game_name": "Super Mario Treasure World",
       "file": "missing/S/368158-super-mario-treasure-world.json"
@@ -927490,6 +927700,11 @@
       "igdb_id": 322698,
       "game_name": "Super Mario Turd Collection",
       "file": "missing/S/322698-super-mario-turd-collection.json"
+    },
+    {
+      "igdb_id": 314115,
+      "game_name": "Super Mario Universe",
+      "file": "missing/S/314115-super-mario-universe.json"
     },
     {
       "igdb_id": 256778,
@@ -927730,6 +927945,11 @@
       "igdb_id": 268396,
       "game_name": "Super Mario: Christmas Season",
       "file": "missing/S/268396-super-mario-christmas-season.json"
+    },
+    {
+      "igdb_id": 314105,
+      "game_name": "Super Mario: Dark Depths",
+      "file": "missing/S/314105-super-mario-dark-depths.json"
     },
     {
       "igdb_id": 135177,
@@ -984702,6 +984922,11 @@
       "file": "missing/T/366224-the-kangaroo-conspiracy-dx.json"
     },
     {
+      "igdb_id": 314092,
+      "game_name": "The Kantist",
+      "file": "missing/T/314092-the-kantist.json"
+    },
+    {
       "igdb_id": 224806,
       "game_name": "The Karaoke",
       "file": "missing/T/224806-the-karaoke.json"
@@ -989485,6 +989710,11 @@
       "igdb_id": 323274,
       "game_name": "The Legend of Zelda: Threads of Despair",
       "file": "missing/T/323274-the-legend-of-zelda-threads-of-despair.json"
+    },
+    {
+      "igdb_id": 314132,
+      "game_name": "The Legend of Zelda: Time Lost",
+      "file": "missing/T/314132-the-legend-of-zelda-time-lost.json"
     },
     {
       "igdb_id": 323277,
@@ -1006460,6 +1006690,11 @@
       "igdb_id": 79864,
       "game_name": "The Talos Principle II",
       "file": "missing/T/79864-the-talos-principle-ii.json"
+    },
+    {
+      "igdb_id": 314150,
+      "game_name": "The Talos Principle II: Deluxe Edition",
+      "file": "missing/T/314150-the-talos-principle-ii-deluxe-edition.json"
     },
     {
       "igdb_id": 284476,
@@ -1062162,6 +1062397,11 @@
       "file": "missing/T/65485-twilight-insanity.json"
     },
     {
+      "igdb_id": 314123,
+      "game_name": "Twilight Kingdom",
+      "file": "missing/T/314123-twilight-kingdom.json"
+    },
+    {
       "igdb_id": 298983,
       "game_name": "Twilight Lovers",
       "file": "missing/T/298983-twilight-lovers.json"
@@ -1076690,6 +1076930,11 @@
       "igdb_id": 257682,
       "game_name": "Uptown Outbreak",
       "file": "missing/U/257682-uptown-outbreak.json"
+    },
+    {
+      "igdb_id": 314101,
+      "game_name": "UptownRanger's Halloween",
+      "file": "missing/U/314101-uptownrangers-halloween.json"
     },
     {
       "igdb_id": 56495,
@@ -1100120,6 +1100365,11 @@
       "igdb_id": 230170,
       "game_name": "Wario Pool",
       "file": "missing/W/230170-wario-pool.json"
+    },
+    {
+      "igdb_id": 314119,
+      "game_name": "Wario Time!",
+      "file": "missing/W/314119-wario-time.json"
     },
     {
       "igdb_id": 256411,
