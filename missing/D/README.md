@@ -8233,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Run - Pet Dog Simulator | 107062 | [107062-dog-run-pet-dog-simulator.json](./107062-dog-run-pet-dog-simulator.json) |
 | Dog Simulator: Dog Life Games | 296771 | [296771-dog-simulator-dog-life-games.json](./296771-dog-simulator-dog-life-games.json) |
 | Dog Sled Saga | 17163 | [17163-dog-sled-saga.json](./17163-dog-sled-saga.json) |
+| Dog Spotting Challenge! | 336420 | [336420-dog-spotting-challenge.json](./336420-dog-spotting-challenge.json) |
 | Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
@@ -8462,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
 | Dokodemo Taikyoku: Yakuman Advance | 49586 | [49586-dokodemo-taikyoku-yakuman-advance.json](./49586-dokodemo-taikyoku-yakuman-advance.json) |
+| Doku Girls | 336421 | [336421-doku-girls.json](./336421-doku-girls.json) |
 | Doku Girls 2 | 368762 | [368762-doku-girls-2.json](./368762-doku-girls-2.json) |
 | Doku Girls 3 | 370805 | [370805-doku-girls-3.json](./370805-doku-girls-3.json) |
 | Doku to Kuzu | 285989 | [285989-doku-to-kuzu.json](./285989-doku-to-kuzu.json) |
