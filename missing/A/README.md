@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggelos | 103517 | [103517-aggelos.json](./103517-aggelos.json) |
 | Aggi's Tiny Friends | 344343 | [344343-aggis-tiny-friends.json](./344343-aggis-tiny-friends.json) |
+| Aggie’s Digital Gallery | 333980 | [333980-aggie-s-digital-gallery.json](./333980-aggie-s-digital-gallery.json) |
 | Aggres | 406171 | [406171-aggres.json](./406171-aggres.json) |
 | Aggression | 174670 | [174670-aggression.json](./174670-aggression.json) |
 | Aggressive Alpine Skiing | 216767 | [216767-aggressive-alpine-skiing.json](./216767-aggressive-alpine-skiing.json) |
@@ -6226,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampersat | 144065 | [144065-ampersat.json](./144065-ampersat.json) |
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
+| Amphibia: Locust Pocus | 334006 | [334006-amphibia-locust-pocus.json](./334006-amphibia-locust-pocus.json) |
 | Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
@@ -9916,6 +9918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Stride | 369337 | [369337-armor-stride.json](./369337-armor-stride.json) |
 | Armor Valley | 66430 | [66430-armor-valley.json](./66430-armor-valley.json) |
 | Armored | 151201 | [151201-armored.json](./151201-armored.json) |
+| Armored Aces | 333976 | [333976-armored-aces.json](./333976-armored-aces.json) |
 | Armored Animals: H1N1z | 86567 | [86567-armored-animals-h1n1z.json](./86567-armored-animals-h1n1z.json) |
 | Armored Battle Crew | 111339 | [111339-armored-battle-crew.json](./111339-armored-battle-crew.json) |
 | Armored Brigade | 109035 | [109035-armored-brigade.json](./109035-armored-brigade.json) |
