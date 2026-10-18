@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:00:56.478Z",
-  "total_soundtracks": 2141,
+  "generated_at": "2026-10-18T08:01:03.612Z",
+  "total_soundtracks": 2142,
   "games": [
     {
       "igdb_id": 7522,
@@ -20913,6 +20913,20 @@
           "spotify_url": "https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1769289561"
+        }
+      ]
+    },
+    {
+      "igdb_id": 5893,
+      "game_name": "Tales from Space: Mutant Blobs Attack",
+      "game_url": "https://ostdb.net/games/tales-from-space-mutant-blobs-attack",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cc9e91e67c939b34b9a2e10e",
+      "albums": [
+        {
+          "album_name": "Tales from Space: Mutant Blobs Attack (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Uu4QNSQDkfyC4Nwnddi1D",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
