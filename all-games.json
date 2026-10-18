@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:41:35.465Z",
-  "total_soundtracks": 2176,
+  "generated_at": "2026-10-18T08:41:44.395Z",
+  "total_soundtracks": 2177,
   "games": [
     {
       "igdb_id": 7522,
@@ -19667,6 +19667,20 @@
         {
           "album_name": "Snowboard Kids 2 Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0UofbulEASPPeoRaXZI2eq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 180149,
+      "game_name": "Snufkin: Melody of Moominvalley",
+      "game_url": "https://ostdb.net/games/snufkin-melody-of-moominvalley",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273235948fad19ad22c65370da9",
+      "albums": [
+        {
+          "album_name": "Snufkin: Melody of Moominvalley (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/70cVeIpJ8Srma5TFibHA3U",
           "apple_music_url": "",
           "album_link_url": ""
         }
