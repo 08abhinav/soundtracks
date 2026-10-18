@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Creations: House of Brass | 62819 | [62819-fantastic-creations-house-of-brass.json](./62819-fantastic-creations-house-of-brass.json) |
 | Fantastic Creatures | 114528 | [114528-fantastic-creatures.json](./114528-fantastic-creatures.json) |
 | Fantastic Dizzy | 12089 | [12089-fantastic-dizzy.json](./12089-fantastic-dizzy.json) |
+| Fantastic Farm | 359286 | [359286-fantastic-farm.json](./359286-fantastic-farm.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
 | Fantastic Fist | 258100 | [258100-fantastic-fist.json](./258100-fantastic-fist.json) |
@@ -1832,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy: Forever and Ever! | 201279 | [201279-farm-frenzy-forever-and-ever.json](./201279-farm-frenzy-forever-and-ever.json) |
 | Farm Frenzy: Heave Ho | 34629 | [34629-farm-frenzy-heave-ho.json](./34629-farm-frenzy-heave-ho.json) |
 | Farm Frenzy: Viking Heroes | 53057 | [53057-farm-frenzy-viking-heroes.json](./53057-farm-frenzy-viking-heroes.json) |
+| Farm Fun | 359281 | [359281-farm-fun.json](./359281-farm-fun.json) |
 | Farm Garden Simulator | 263963 | [263963-farm-garden-simulator.json](./263963-farm-garden-simulator.json) |
 | Farm Girl am Nil | 85883 | [85883-farm-girl-am-nil.json](./85883-farm-girl-am-nil.json) |
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
@@ -1879,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Simulator: Hay Tycoon | 105811 | [105811-farm-simulator-hay-tycoon.json](./105811-farm-simulator-hay-tycoon.json) |
 | Farm Slam | 241628 | [241628-farm-slam.json](./241628-farm-slam.json) |
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
+| Farm Story 2 | 359220 | [359220-farm-story-2.json](./359220-farm-story-2.json) |
 | Farm Tiles | 101772 | [101772-farm-tiles.json](./101772-farm-tiles.json) |
 | Farm to Fork: Collector's Edition | 355526 | [355526-farm-to-fork-collectors-edition.json](./355526-farm-to-fork-collectors-edition.json) |
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
@@ -2810,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenakkumura Monogatari | 166145 | [166145-fenakkumura-monogatari.json](./166145-fenakkumura-monogatari.json) |
 | Fence | 270169 | [270169-fence.json](./270169-fence.json) |
 | Fencing | 169743 | [169743-fencing.json](./169743-fencing.json) |
+| Fencing | 359189 | [359189-fencing.json](./359189-fencing.json) |
 | Fencing Champ | 247044 | [247044-fencing-champ.json](./247044-fencing-champ.json) |
 | Fencing Girl | 186863 | [186863-fencing-girl.json](./186863-fencing-girl.json) |
 | Fency Krabby | 185146 | [185146-fency-krabby.json](./185146-fency-krabby.json) |
@@ -4709,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing | 209435 | [209435-fishing.json](./209435-fishing.json) |
 | Fishing | 246456 | [246456-fishing.json](./246456-fishing.json) |
 | Fishing | 358837 | [358837-fishing.json](./358837-fishing.json) |
+| Fishing | 359190 | [359190-fishing.json](./359190-fishing.json) |
 | Fishing Adventure | 299454 | [299454-fishing-adventure.json](./299454-fishing-adventure.json) |
 | FIshing Adventure VR | 127004 | [127004-fishing-adventure-vr.json](./127004-fishing-adventure-vr.json) |
 | Fishing and Girls | 242979 | [242979-fishing-and-girls.json](./242979-fishing-and-girls.json) |
@@ -4926,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
 | Fit in Bed | 309024 | [309024-fit-in-bed.json](./309024-fit-in-bed.json) |
 | Fit Kit | 181175 | [181175-fit-kit.json](./181175-fit-kit.json) |
+| Fit Life | 359291 | [359291-fit-life.json](./359291-fit-life.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
 | Fit My Cat: New Floor Pack | 313212 | [313212-fit-my-cat-new-floor-pack.json](./313212-fit-my-cat-new-floor-pack.json) |
@@ -5094,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's: Solar Switchup | 413161 | [413161-five-nights-at-sonics-solar-switchup.json](./413161-five-nights-at-sonics-solar-switchup.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
 | Five Nights At Stickman | 89037 | [89037-five-nights-at-stickman.json](./89037-five-nights-at-stickman.json) |
+| Five Nights at the Chum Bucket | 359212 | [359212-five-nights-at-the-chum-bucket.json](./359212-five-nights-at-the-chum-bucket.json) |
 | Five Nights at Treasure Island | 238431 | [238431-five-nights-at-treasure-island.json](./238431-five-nights-at-treasure-island.json) |
 | Five Nights At Treasure Island Simulator | 369659 | [369659-five-nights-at-treasure-island-simulator.json](./369659-five-nights-at-treasure-island-simulator.json) |
 | Five Nights at Treasure Island: Anniversary Edition | 238432 | [238432-five-nights-at-treasure-island-anniversary-edition.json](./238432-five-nights-at-treasure-island-anniversary-edition.json) |
@@ -9220,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Slide | 359993 | [359993-fruit-slide.json](./359993-fruit-slide.json) |
 | Fruit Smash | 174775 | [174775-fruit-smash.json](./174775-fruit-smash.json) |
 | Fruit Smash Lite | 416741 | [416741-fruit-smash-lite.json](./416741-fruit-smash-lite.json) |
+| Fruit Splash Mania | 359218 | [359218-fruit-splash-mania.json](./359218-fruit-splash-mania.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
