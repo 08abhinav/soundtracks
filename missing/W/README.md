@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Ancients | 137973 | [137973-whispers-of-the-ancients.json](./137973-whispers-of-the-ancients.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
+| Whispers of the Past | 346458 | [346458-whispers-of-the-past.json](./346458-whispers-of-the-past.json) |
 | Whispers of the Requiem | 408115 | [408115-whispers-of-the-requiem.json](./408115-whispers-of-the-requiem.json) |
 | Whispers of the Sands | 279530 | [279530-whispers-of-the-sands.json](./279530-whispers-of-the-sands.json) |
 | Whispers of the Seasons | 395465 | [395465-whispers-of-the-seasons.json](./395465-whispers-of-the-seasons.json) |
