@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
+| Battle Puzzle 2048: Space Girls | 336406 | [336406-battle-puzzle-2048-space-girls.json](./336406-battle-puzzle-2048-space-girls.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
 | Battle Racers | 38161 | [38161-battle-racers.json](./38161-battle-racers.json) |
 | Battle Racing Stars | 138719 | [138719-battle-racing-stars.json](./138719-battle-racing-stars.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Girl Block Crush!! | 294060 | [294060-beach-girl-block-crush.json](./294060-beach-girl-block-crush.json) |
 | Beach Girls | 75758 | [75758-beach-girls.json](./75758-beach-girls.json) |
 | Beach Girls 2: Sports in Bikini | 300774 | [300774-beach-girls-2-sports-in-bikini.json](./300774-beach-girls-2-sports-in-bikini.json) |
+| Beach Girls 3: Zodiac Signs, Love & Horoscope Dating | 336411 | [336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json](./336411-beach-girls-3-zodiac-signs-love-and-horoscope-dating.json) |
 | Beach Girls: Don't Lie in Summer | 203709 | [203709-beach-girls-dont-lie-in-summer.json](./203709-beach-girls-dont-lie-in-summer.json) |
 | Beach Head 2000 | 17451 | [17451-beach-head-2000.json](./17451-beach-head-2000.json) |
 | Beach Invasion 1915: Gallipoli | 347341 | [347341-beach-invasion-1915-gallipoli.json](./347341-beach-invasion-1915-gallipoli.json) |
@@ -5274,6 +5276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Adventure: Trip to Europe 6 | 417378 | [417378-big-adventure-trip-to-europe-6.json](./417378-big-adventure-trip-to-europe-6.json) |
 | Big Adventure: Trip to Europe 6 - Collector's Edition | 283993 | [283993-big-adventure-trip-to-europe-6-collectors-edition.json](./283993-big-adventure-trip-to-europe-6-collectors-edition.json) |
 | Big Adventure: Trip to Europe 7 | 417379 | [417379-big-adventure-trip-to-europe-7.json](./417379-big-adventure-trip-to-europe-7.json) |
+| Big Adventure: Trip to Europe 8 - Collector's Edition | 336412 | [336412-big-adventure-trip-to-europe-8-collectors-edition.json](./336412-big-adventure-trip-to-europe-8-collectors-edition.json) |
 | Big Adventure: Trip to Europe 9 | 417380 | [417380-big-adventure-trip-to-europe-9.json](./417380-big-adventure-trip-to-europe-9.json) |
 | Big Adventure: Trip to Europe 9 - Collector's Edition | 338235 | [338235-big-adventure-trip-to-europe-9-collectors-edition.json](./338235-big-adventure-trip-to-europe-9-collectors-edition.json) |
 | Big Air Freestyle | 3808 | [3808-big-air-freestyle.json](./3808-big-air-freestyle.json) |
@@ -11104,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickFall: Fun Game of Bricks | 97213 | [97213-brickfall-fun-game-of-bricks.json](./97213-brickfall-fun-game-of-bricks.json) |
 | BrickForce | 18991 | [18991-brickforce.json](./18991-brickforce.json) |
 | Brickhaven | 273380 | [273380-brickhaven.json](./273380-brickhaven.json) |
+| Brickle | 336321 | [336321-brickle.json](./336321-brickle.json) |
 | BrickMania | 328552 | [328552-brickmania.json](./328552-brickmania.json) |
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
@@ -11848,6 +11852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
+| Bubble Wizard Saga | 336413 | [336413-bubble-wizard-saga.json](./336413-bubble-wizard-saga.json) |
 | Bubble Woods | 116447 | [116447-bubble-woods.json](./116447-bubble-woods.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
 | Bubble World | 195031 | [195031-bubble-world.json](./195031-bubble-world.json) |
