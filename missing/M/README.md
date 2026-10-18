@@ -1956,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
 | Malta Storm | 72083 | [72083-malta-storm.json](./72083-malta-storm.json) |
 | Maltese Cross | 134418 | [134418-maltese-cross.json](./134418-maltese-cross.json) |
+| Maltese's Fluffy Onsen | 347480 | [347480-malteses-fluffy-onsen.json](./347480-malteses-fluffy-onsen.json) |
 | Maltese's Fluffy Onsen: Horse DLC | 389545 | [389545-malteses-fluffy-onsen-horse-dlc.json](./389545-malteses-fluffy-onsen-horse-dlc.json) |
 | Malu the Princess | 324997 | [324997-malu-the-princess.json](./324997-malu-the-princess.json) |
 | Maluch Racer | 62652 | [62652-maluch-racer.json](./62652-maluch-racer.json) |
@@ -4523,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
 | Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
+| Maze of Terror | 347485 | [347485-maze-of-terror.json](./347485-maze-of-terror.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
@@ -8761,6 +8763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine or Die | 99115 | [99115-mine-or-die.json](./99115-mine-or-die.json) |
 | Mine Puzzle Pieces of Flower Garden World | 379027 | [379027-mine-puzzle-pieces-of-flower-garden-world.json](./379027-mine-puzzle-pieces-of-flower-garden-world.json) |
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
+| Mine Safety | 347472 | [347472-mine-safety.json](./347472-mine-safety.json) |
 | Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
 | Mine Seeker | 225731 | [225731-mine-seeker.json](./225731-mine-seeker.json) |
 | Mine Seeker | 89965 | [89965-mine-seeker.json](./89965-mine-seeker.json) |
