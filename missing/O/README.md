@@ -1059,7 +1059,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Town Stories | 127008 | [127008-old-town-stories.json](./127008-old-town-stories.json) |
 | Old Village Simulator 1962 | 10638 | [10638-old-village-simulator-1962.json](./10638-old-village-simulator-1962.json) |
 | Old Watch | 76681 | [76681-old-watch.json](./76681-old-watch.json) |
-| Old World | 133674 | [133674-old-world.json](./133674-old-world.json) |
 | Old World Blues | 321740 | [321740-old-world-blues.json](./321740-old-world-blues.json) |
 | Old World: Complete | 219778 | [219778-old-world-complete.json](./219778-old-world-complete.json) |
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
@@ -2205,7 +2204,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Hope: Episode 6 | 170922 | [170922-only-hope-episode-6.json](./170922-only-hope-episode-6.json) |
 | Only Hope: Episode 7 | 170918 | [170918-only-hope-episode-7.json](./170918-only-hope-episode-7.json) |
 | Only Humans On Board | 402951 | [402951-only-humans-on-board.json](./402951-only-humans-on-board.json) |
-| Only If | 17354 | [17354-only-if.json](./17354-only-if.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
 | Only Jump On Pogo | 361008 | [361008-only-jump-on-pogo.json](./361008-only-jump-on-pogo.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
