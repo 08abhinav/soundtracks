@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Harem | 165494 | [165494-gay-harem.json](./165494-gay-harem.json) |
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
+| Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
 | Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
@@ -2230,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensokyo Recollection | 405977 | [405977-gensokyo-recollection.json](./405977-gensokyo-recollection.json) |
 | Gensokyo Rolling Force | 105313 | [105313-gensokyo-rolling-force.json](./105313-gensokyo-rolling-force.json) |
 | Gensokyo: Presumption of Guilt - Pansies Before Dawn | 311149 | [311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json](./311149-gensokyo-presumption-of-guilt-pansies-before-dawn.json) |
+| Gensou Gold Rush | 362023 | [362023-gensou-gold-rush.json](./362023-gensou-gold-rush.json) |
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
@@ -3558,6 +3560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
 | Global Outbreak: Doomsday Edition | 30254 | [30254-global-outbreak-doomsday-edition.json](./30254-global-outbreak-doomsday-edition.json) |
 | Global Pokédex Plus | 151645 | [151645-global-pokedex-plus.json](./151645-global-pokedex-plus.json) |
+| Global Rescue | 362051 | [362051-global-rescue.json](./362051-global-rescue.json) |
 | Global Resistance | 304273 | [304273-global-resistance.json](./304273-global-resistance.json) |
 | Global Shipping Simulator | 326414 | [326414-global-shipping-simulator.json](./326414-global-shipping-simulator.json) |
 | Global Soccer Manager 2015 | 98428 | [98428-global-soccer-manager-2015.json](./98428-global-soccer-manager-2015.json) |
