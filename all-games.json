@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T12:20:25.728Z",
-  "total_soundtracks": 2190,
+  "generated_at": "2026-10-18T17:05:25.648Z",
+  "total_soundtracks": 2191,
   "games": [
     {
       "igdb_id": 7522,
@@ -1158,6 +1158,20 @@
           "album_name": "Anthem (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 201752,
+      "game_name": "Antonblast",
+      "game_url": "https://ostdb.net/games/antonblast",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a665d5d64c3b6abcc35c38fa",
+      "albums": [
+        {
+          "album_name": "ANTONBLAST Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4x4PyTOPgMtIVjRyoxTSzj",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
