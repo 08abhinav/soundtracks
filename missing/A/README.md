@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife Reverie | 337799 | [337799-afterlife-reverie.json](./337799-afterlife-reverie.json) |
 | Afterlife VR | 146139 | [146139-afterlife-vr.json](./146139-afterlife-vr.json) |
 | Afterlife: Rickard's Quest | 306641 | [306641-afterlife-rickards-quest.json](./306641-afterlife-rickards-quest.json) |
+| Afterlife: The Game | 318851 | [318851-afterlife-the-game.json](./318851-afterlife-the-game.json) |
 | Afterlife: The Second Dimension | 150554 | [150554-afterlife-the-second-dimension.json](./150554-afterlife-the-second-dimension.json) |
 | Afterlifes | 118086 | [118086-afterlifes.json](./118086-afterlifes.json) |
 | Afterlight | 396206 | [396206-afterlight.json](./396206-afterlight.json) |
