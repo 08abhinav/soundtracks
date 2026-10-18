@@ -657,7 +657,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandelion | 181343 | [181343-dandelion.json](./181343-dandelion.json) |
 | Dandelion Planet | 277777 | [277777-dandelion-planet.json](./277777-dandelion-planet.json) |
 | Dandelion Void | 343376 | [343376-dandelion-void.json](./343376-dandelion-void.json) |
+| DanDeLion: Starchild Journey | 343049 | [343049-dandelion-starchild-journey.json](./343049-dandelion-starchild-journey.json) |
 | Dandelion: Wishes Brought to You | 17800 | [17800-dandelion-wishes-brought-to-you.json](./17800-dandelion-wishes-brought-to-you.json) |
+| Dandelions and Me | 343040 | [343040-dandelions-and-me.json](./343040-dandelions-and-me.json) |
 | Dandelions in the Sky | 135756 | [135756-dandelions-in-the-sky.json](./135756-dandelions-in-the-sky.json) |
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
@@ -1500,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfall: New Dawn | 57005 | [57005-darkfall-new-dawn.json](./57005-darkfall-new-dawn.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
+| Darkflame Survivors | 343121 | [343121-darkflame-survivors.json](./343121-darkflame-survivors.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
 | Darkhaven | 359222 | [359222-darkhaven.json](./359222-darkhaven.json) |
@@ -4164,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DelayedSun | 127239 | [127239-delayedsun.json](./127239-delayedsun.json) |
 | Delbo | 85567 | [85567-delbo.json](./85567-delbo.json) |
 | Delearnia: Fractions of Hope | 253351 | [253351-delearnia-fractions-of-hope.json](./253351-delearnia-fractions-of-hope.json) |
+| Delectatio Morosa: A Conclave Visual Novel | 343144 | [343144-delectatio-morosa-a-conclave-visual-novel.json](./343144-delectatio-morosa-a-conclave-visual-novel.json) |
 | Delegati Genesis | 203956 | [203956-delegati-genesis.json](./203956-delegati-genesis.json) |
 | Delete | 380599 | [380599-delete.json](./380599-delete.json) |
 | Delete | 81918 | [81918-delete.json](./81918-delete.json) |
@@ -4521,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
+| Demon Quest | 343059 | [343059-demon-quest.json](./343059-demon-quest.json) |
 | Demon Raiders: Bloody Gems of Blood | 351788 | [351788-demon-raiders-bloody-gems-of-blood.json](./351788-demon-raiders-bloody-gems-of-blood.json) |
 | DeMon Researcher | 361797 | [361797-demon-researcher.json](./361797-demon-researcher.json) |
 | Demon robot runner | 89369 | [89369-demon-robot-runner.json](./89369-demon-robot-runner.json) |
@@ -6816,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
+| Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
 | Dinosaur Race | 193278 | [193278-dinosaur-race.json](./193278-dinosaur-race.json) |
 | Dinosaur Rampage - Trex | 87716 | [87716-dinosaur-rampage-trex.json](./87716-dinosaur-rampage-trex.json) |
@@ -9098,6 +9104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donuts | 263019 | [263019-donuts.json](./263019-donuts.json) |
 | Donuts 'N' Justice | 25932 | [25932-donuts-n-justice.json](./25932-donuts-n-justice.json) |
 | Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
+| Donuts for Deer Teeth | 343027 | [343027-donuts-for-deer-teeth.json](./343027-donuts-for-deer-teeth.json) |
 | Donuts in Space | 254060 | [254060-donuts-in-space.json](./254060-donuts-in-space.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Donuts! | 344801 | [344801-donuts.json](./344801-donuts.json) |
