@@ -7527,6 +7527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoma | 399681 | [399681-anoma.json](./399681-anoma.json) |
 | Anomalarity: A Distributive Allegory | 324180 | [324180-anomalarity-a-distributive-allegory.json](./324180-anomalarity-a-distributive-allegory.json) |
 | Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
+| Anomalia O Despertar | 320027 | [320027-anomalia-o-despertar.json](./320027-anomalia-o-despertar.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
@@ -7559,6 +7560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
 | Anomaly Road | 405709 | [405709-anomaly-road.json](./405709-anomaly-road.json) |
 | Anomaly Seeker: The Diner | 343123 | [343123-anomaly-seeker-the-diner.json](./343123-anomaly-seeker-the-diner.json) |
+| Anomaly Tapes: Beyond Reality | 320009 | [320009-anomaly-tapes-beyond-reality.json](./320009-anomaly-tapes-beyond-reality.json) |
 | Anomaly Tunnel | 413595 | [413595-anomaly-tunnel.json](./413595-anomaly-tunnel.json) |
 | Anomaly Zone | 126299 | [126299-anomaly-zone.json](./126299-anomaly-zone.json) |
 | Anomaly: Girls Beyond Science | 231417 | [231417-anomaly-girls-beyond-science.json](./231417-anomaly-girls-beyond-science.json) |
@@ -7973,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ao no Mama de... | 420562 | [420562-ao-no-mama-de.json](./420562-ao-no-mama-de.json) |
 | Ao Oni | 46941 | [46941-ao-oni.json](./46941-ao-oni.json) |
 | Ao Oni 2 | 54708 | [54708-ao-oni-2.json](./54708-ao-oni-2.json) |
+| Ao Oni R | 320006 | [320006-ao-oni-r.json](./320006-ao-oni-r.json) |
 | Ao Oni X | 313275 | [313275-ao-oni-x.json](./313275-ao-oni-x.json) |
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AO Tennis | 80907 | [80907-ao-tennis.json](./80907-ao-tennis.json) |
