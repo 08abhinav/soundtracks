@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barney Bear Goes to Space | 12400 | [12400-barney-bear-goes-to-space.json](./12400-barney-bear-goes-to-space.json) |
 | Barney Bear Goes to the Farm | 14285 | [14285-barney-bear-goes-to-the-farm.json](./14285-barney-bear-goes-to-the-farm.json) |
 | Barney Bear Meets Santa Claus | 14286 | [14286-barney-bear-meets-santa-claus.json](./14286-barney-bear-meets-santa-claus.json) |
+| Barney Mutilator | 338036 | [338036-barney-mutilator.json](./338036-barney-mutilator.json) |
 | Barney Shoot 'Em Up | 325816 | [325816-barney-shoot-em-up.json](./325816-barney-shoot-em-up.json) |
 | Barney: Magical Music | 206239 | [206239-barney-magical-music.json](./206239-barney-magical-music.json) |
 | Barney: On Location - All Around Town | 73702 | [73702-barney-on-location-all-around-town.json](./73702-barney-on-location-all-around-town.json) |
@@ -5290,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bang Pro Wrestling | 43972 | [43972-big-bang-pro-wrestling.json](./43972-big-bang-pro-wrestling.json) |
 | Big Bang Racing | 58023 | [58023-big-bang-racing.json](./58023-big-bang-racing.json) |
 | Big Bang Show | 45943 | [45943-big-bang-show.json](./45943-big-bang-show.json) |
+| Big Bang West II | 338054 | [338054-big-bang-west-ii.json](./338054-big-bang-west-ii.json) |
 | Big Bash Boom | 112895 | [112895-big-bash-boom.json](./112895-big-bash-boom.json) |
 | Big Bash Cricket | 170402 | [170402-big-bash-cricket.json](./170402-big-bash-cricket.json) |
 | Big Bass Arcade | 51086 | [51086-big-bass-arcade.json](./51086-big-bass-arcade.json) |
