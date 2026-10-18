@@ -1488,6 +1488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou World Soccer 2000: Final Edition | 168136 | [168136-jikkyou-world-soccer-2000-final-edition.json](./168136-jikkyou-world-soccer-2000-final-edition.json) |
 | Jikoronpa: Laments of Isolation | 341073 | [341073-jikoronpa-laments-of-isolation.json](./341073-jikoronpa-laments-of-isolation.json) |
 | Jikuu Boukenki Zentrix | 210683 | [210683-jikuu-boukenki-zentrix.json](./210683-jikuu-boukenki-zentrix.json) |
+| Jikuu Sasatsukan Hayate: Inspector | 350194 | [350194-jikuu-sasatsukan-hayate-inspector.json](./350194-jikuu-sasatsukan-hayate-inspector.json) |
 | Jikuu Senki Mu | 298801 | [298801-jikuu-senki-mu.json](./298801-jikuu-senki-mu.json) |
 | Jikuu Tantei DD 2: Hangyaku No Apsalar | 154835 | [154835-jikuu-tantei-dd-2-hangyaku-no-apsalar.json](./154835-jikuu-tantei-dd-2-hangyaku-no-apsalar.json) |
 | Jikuu Tantei DD: Maboroshi no Lorelei | 57052 | [57052-jikuu-tantei-dd-maboroshi-no-lorelei.json](./57052-jikuu-tantei-dd-maboroshi-no-lorelei.json) |
