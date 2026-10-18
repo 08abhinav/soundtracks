@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Solitaire | 195589 | [195589-gnomes-solitaire.json](./195589-gnomes-solitaire.json) |
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
+| Gnomes vs. Knights | 310272 | [310272-gnomes-vs-knights.json](./310272-gnomes-vs-knights.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomonic | 219797 | [219797-gnomonic.json](./219797-gnomonic.json) |
 | Gnomoria | 9627 | [9627-gnomoria.json](./9627-gnomoria.json) |
@@ -6460,6 +6461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greenfield Valley | 391054 | [391054-greenfield-valley.json](./391054-greenfield-valley.json) |
 | Greenfinger! | 252129 | [252129-greenfinger.json](./252129-greenfinger.json) |
 | GreenFlame | 76656 | [76656-greenflame.json](./76656-greenflame.json) |
+| GreenGrocer Simulator | 310285 | [310285-greengrocer-simulator.json](./310285-greengrocer-simulator.json) |
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
 | GreenHill Again | 336339 | [336339-greenhill-again.json](./336339-greenhill-again.json) |
@@ -7163,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growth | 358820 | [358820-growth.json](./358820-growth.json) |
 | Growth | 391148 | [391148-growth.json](./391148-growth.json) |
 | Growth Experiment | 285526 | [285526-growth-experiment.json](./285526-growth-experiment.json) |
+| Growth Fish | 310277 | [310277-growth-fish.json](./310277-growth-fish.json) |
 | Growth Spurt: A Meandering Intermission into the Afterhours of a Miscalculation | 301910 | [301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json](./301910-growth-spurt-a-meandering-intermission-into-the-afterhours-of-a-miscalculation.json) |
 | Grozs Fantasy World | 262921 | [262921-grozs-fantasy-world.json](./262921-grozs-fantasy-world.json) |
 | Grr Boo I | 292262 | [292262-grr-boo-i.json](./292262-grr-boo-i.json) |
