@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landline | 367526 | [367526-landline.json](./367526-landline.json) |
 | Landlord | 346718 | [346718-landlord.json](./346718-landlord.json) |
 | Landlord | 385584 | [385584-landlord.json](./385584-landlord.json) |
+| Landlord and the Tenants | 310279 | [310279-landlord-and-the-tenants.json](./310279-landlord-and-the-tenants.json) |
 | Landlord Go! | 235293 | [235293-landlord-go.json](./235293-landlord-go.json) |
 | Landlord Simulator | 231878 | [231878-landlord-simulator.json](./231878-landlord-simulator.json) |
 | Landlord Simulator | 89654 | [89654-landlord-simulator.json](./89654-landlord-simulator.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lights | 314009 | [314009-lights.json](./314009-lights.json) |
 | Lights and Shadow | 339287 | [339287-lights-and-shadow.json](./339287-lights-and-shadow.json) |
 | Lights e Shades: Safìna | 216210 | [216210-lights-e-shades-safina.json](./216210-lights-e-shades-safina.json) |
+| Lights In The Sky | 310267 | [310267-lights-in-the-sky.json](./310267-lights-in-the-sky.json) |
 | Lights Off | 100159 | [100159-lights-off.json](./100159-lights-off.json) |
 | Lights Out | 199429 | [199429-lights-out.json](./199429-lights-out.json) |
 | Lights Out | 300989 | [300989-lights-out.json](./300989-lights-out.json) |
