@@ -5560,6 +5560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
+| Flexible Frosty | 325332 | [325332-flexible-frosty.json](./325332-flexible-frosty.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | FlexibleJigsaw: Journey | 357882 | [357882-flexiblejigsaw-journey.json](./357882-flexiblejigsaw-journey.json) |
 | Fleximan | 291529 | [291529-fleximan.json](./291529-fleximan.json) |
@@ -7992,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
+| Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
 | Fractions | 42172 | [42172-fractions.json](./42172-fractions.json) |
