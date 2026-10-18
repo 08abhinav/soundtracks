@@ -383,6 +383,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Haunted History | 201663 | [201663-a-haunted-history.json](./201663-a-haunted-history.json) |
 | A Haunting Novel: Burton Hotel | 416854 | [416854-a-haunting-novel-burton-hotel.json](./416854-a-haunting-novel-burton-hotel.json) |
 | A Haunting Novel: Burton Hotel - Collector's Edition | 365462 | [365462-a-haunting-novel-burton-hotel-collectors-edition.json](./365462-a-haunting-novel-burton-hotel-collectors-edition.json) |
+| A Haunting Novel: Surfaced Secrets | 358088 | [358088-a-haunting-novel-surfaced-secrets.json](./358088-a-haunting-novel-surfaced-secrets.json) |
+| A Haunting Novel: Surfaced Secrets - Collector's Edition | 358089 | [358089-a-haunting-novel-surfaced-secrets-collectors-edition.json](./358089-a-haunting-novel-surfaced-secrets-collectors-edition.json) |
 | A Haunting: Witching Hour | 23883 | [23883-a-haunting-witching-hour.json](./23883-a-haunting-witching-hour.json) |
 | A Healer Only Lives Twice | 33255 | [33255-a-healer-only-lives-twice.json](./33255-a-healer-only-lives-twice.json) |
 | A Heart between Parts | 136866 | [136866-a-heart-between-parts.json](./136866-a-heart-between-parts.json) |
@@ -1674,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accurate Tag | 379461 | [379461-accurate-tag.json](./379461-accurate-tag.json) |
 | AccuRC 2 | 90621 | [90621-accurc-2.json](./90621-accurc-2.json) |
 | Accursed | 203864 | [203864-accursed.json](./203864-accursed.json) |
+| Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
 | ACE | 13282 | [13282-ace.json](./13282-ace.json) |
