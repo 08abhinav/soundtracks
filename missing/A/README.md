@@ -6969,6 +6969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anguna: Warriors of Virtue | 49509 | [49509-anguna-warriors-of-virtue.json](./49509-anguna-warriors-of-virtue.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
+| Ani | 312988 | [312988-ani.json](./312988-ani.json) |
 | Ani Idle | 351027 | [351027-ani-idle.json](./351027-ani-idle.json) |
 | Ani Leaving Sirius | 189120 | [189120-ani-leaving-sirius.json](./189120-ani-leaving-sirius.json) |
 | Anibabe! Choose Your Girl | 231435 | [231435-anibabe-choose-your-girl.json](./231435-anibabe-choose-your-girl.json) |
@@ -9825,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid: Revenge of Doh | 282802 | [282802-arkanoid-revenge-of-doh.json](./282802-arkanoid-revenge-of-doh.json) |
 | ArkanoidSmoking | 54452 | [54452-arkanoidsmoking.json](./54452-arkanoidsmoking.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
+| ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
 | Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkell | 199453 | [199453-arkell.json](./199453-arkell.json) |
