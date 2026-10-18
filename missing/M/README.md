@@ -5770,6 +5770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | MegaBoy | 282791 | [282791-megaboy.json](./282791-megaboy.json) |
 | Megabyte Punch | 9383 | [9383-megabyte-punch.json](./9383-megabyte-punch.json) |
+| MegaChao | 331086 | [331086-megachao.json](./331086-megachao.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
@@ -10511,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model Builder: Frostpunk | 196159 | [196159-model-builder-frostpunk.json](./196159-model-builder-frostpunk.json) |
 | Model Builder: Military Pack | 332602 | [332602-model-builder-military-pack.json](./332602-model-builder-military-pack.json) |
 | Model Builder: Titan-Forge DLC No.2 | 243158 | [243158-model-builder-titan-forge-dlc-no-2.json](./243158-model-builder-titan-forge-dlc-no-2.json) |
+| Model Casting | 331094 | [331094-model-casting.json](./331094-model-casting.json) |
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
 | Model Debut #Nicola | 121361 | [121361-model-debut-nicola.json](./121361-model-debut-nicola.json) |
 | Model Debut 4 | 378505 | [378505-model-debut-4.json](./378505-model-debut-4.json) |
@@ -11849,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Mooch | 34536 | [34536-mooch.json](./34536-mooch.json) |
 | Mood Bye | 319550 | [319550-mood-bye.json](./319550-mood-bye.json) |
+| Moogle Cavern RPG | 331155 | [331155-moogle-cavern-rpg.json](./331155-moogle-cavern-rpg.json) |
 | Moogle Cavern: The Online RPG | 332646 | [332646-moogle-cavern-the-online-rpg.json](./332646-moogle-cavern-the-online-rpg.json) |
 | Mooh | 307214 | [307214-mooh.json](./307214-mooh.json) |
 | MookerzZ | 252377 | [252377-mookerzz.json](./252377-mookerzz.json) |
@@ -13844,6 +13847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munich Bus Simulator | 36440 | [36440-munich-bus-simulator.json](./36440-munich-bus-simulator.json) |
 | Munkiki's Castles | 111740 | [111740-munkikis-castles.json](./111740-munkikis-castles.json) |
 | Munlay Online | 271682 | [271682-munlay-online.json](./271682-munlay-online.json) |
+| Munou Sengen | 331191 | [331191-munou-sengen.json](./331191-munou-sengen.json) |
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
