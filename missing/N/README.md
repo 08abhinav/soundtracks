@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nancy Drew: Treasure in the Royal Tower | 7623 | [7623-nancy-drew-treasure-in-the-royal-tower.json](./7623-nancy-drew-treasure-in-the-royal-tower.json) |
+| Nancy Drew: Treasure in the Royal Tower Fan Project | 349638 | [349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json](./349638-nancy-drew-treasure-in-the-royal-tower-fan-project.json) |
 | Nancy the Happy Whore and the Perfidious Petrol Station | 63119 | [63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json](./63119-nancy-the-happy-whore-and-the-perfidious-petrol-station.json) |
 | Nanda's Island | 48048 | [48048-nandas-island.json](./48048-nandas-island.json) |
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusunde Asobo! Dorobou Youchien | 222254 | [222254-nusunde-asobo-dorobou-youchien.json](./222254-nusunde-asobo-dorobou-youchien.json) |
 | Nut City Blues | 274936 | [274936-nut-city-blues.json](./274936-nut-city-blues.json) |
 | Nutcracker | 115758 | [115758-nutcracker.json](./115758-nutcracker.json) |
+| Nutcraka | 349629 | [349629-nutcraka.json](./349629-nutcraka.json) |
 | Nutjitsu | 19966 | [19966-nutjitsu.json](./19966-nutjitsu.json) |
 | Nutjitsu: Reforged | 52645 | [52645-nutjitsu-reforged.json](./52645-nutjitsu-reforged.json) |
 | Nutmeg! | 360208 | [360208-nutmeg.json](./360208-nutmeg.json) |
