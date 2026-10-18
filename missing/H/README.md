@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
 | Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! | 72684 | [72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json](./72684-hayate-no-gotoku-ojousama-produce-daisakusen-boku-iro-ni-somare.json) |
+| Hayate the Battle: Hyper Real Battle Action | 350193 | [350193-hayate-the-battle-hyper-real-battle-action.json](./350193-hayate-the-battle-hyper-real-battle-action.json) |
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellpoint: Signature Edition | 139838 | [139838-hellpoint-signature-edition.json](./139838-hellpoint-signature-edition.json) |
 | Hellpoint: The Thespian Feast | 130063 | [130063-hellpoint-the-thespian-feast.json](./130063-hellpoint-the-thespian-feast.json) |
 | Hellpoint: Ultimate Edition | 209688 | [209688-hellpoint-ultimate-edition.json](./209688-hellpoint-ultimate-edition.json) |
+| Hellpress | 350214 | [350214-hellpress.json](./350214-hellpress.json) |
 | Hellpunk | 129671 | [129671-hellpunk.json](./129671-hellpunk.json) |
 | HellPunk: Purgatorium | 349925 | [349925-hellpunk-purgatorium.json](./349925-hellpunk-purgatorium.json) |
 | Hellraid | 3250 | [3250-hellraid.json](./3250-hellraid.json) |
@@ -6299,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Hills National Park | 402287 | [402287-hollow-hills-national-park.json](./402287-hollow-hills-national-park.json) |
 | Hollow Home | 265621 | [265621-hollow-home.json](./265621-hollow-home.json) |
 | Hollow Hometown | 339812 | [339812-hollow-hometown.json](./339812-hollow-hometown.json) |
+| Hollow Host | 350224 | [350224-hollow-host.json](./350224-hollow-host.json) |
 | Hollow Inn | 400349 | [400349-hollow-inn.json](./400349-hollow-inn.json) |
 | Hollow Jump | 348466 | [348466-hollow-jump.json](./348466-hollow-jump.json) |
 | Hollow Knight | 365702 | [365702-hollow-knight.json](./365702-hollow-knight.json) |
@@ -8332,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanitas | 117001 | [117001-humanitas.json](./117001-humanitas.json) |
 | Humanities Legend: Dark Horizon | 217225 | [217225-humanities-legend-dark-horizon.json](./217225-humanities-legend-dark-horizon.json) |
 | Humanities Legend: Hollow Ascending | 183868 | [183868-humanities-legend-hollow-ascending.json](./183868-humanities-legend-hollow-ascending.json) |
+| Humanity | 350180 | [350180-humanity.json](./350180-humanity.json) |
 | Humanity Asset | 8952 | [8952-humanity-asset.json](./8952-humanity-asset.json) |
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
