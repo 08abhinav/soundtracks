@@ -777,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagarre | 386970 | [386970-bagarre.json](./386970-bagarre.json) |
 | Bagasaurus | 147213 | [147213-bagasaurus.json](./147213-bagasaurus.json) |
 | Bagel Love Story | 298691 | [298691-bagel-love-story.json](./298691-bagel-love-story.json) |
+| Bagelball | 341300 | [341300-bagelball.json](./341300-bagelball.json) |
 | Baggage Inspector | 293854 | [293854-baggage-inspector.json](./293854-baggage-inspector.json) |
 | Baggio's Magical Kicks | 64973 | [64973-baggios-magical-kicks.json](./64973-baggios-magical-kicks.json) |
 | Baghdad Central: Desert Gunner | 63014 | [63014-baghdad-central-desert-gunner.json](./63014-baghdad-central-desert-gunner.json) |
@@ -3755,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Hazard 3 | 199447 | [199447-beat-hazard-3.json](./199447-beat-hazard-3.json) |
 | Beat Hazard Arcade | 368084 | [368084-beat-hazard-arcade.json](./368084-beat-hazard-arcade.json) |
 | Beat Head | 255581 | [255581-beat-head.json](./255581-beat-head.json) |
+| Beat Heaven Symphony | 341276 | [341276-beat-heaven-symphony.json](./341276-beat-heaven-symphony.json) |
 | Beat Hopper | 96049 | [96049-beat-hopper.json](./96049-beat-hopper.json) |
 | Beat in Zero | 297343 | [297343-beat-in-zero.json](./297343-beat-in-zero.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
