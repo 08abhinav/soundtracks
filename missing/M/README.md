@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mantra | 125900 | [125900-mantra.json](./125900-mantra.json) |
 | Mantra | 223438 | [223438-mantra.json](./223438-mantra.json) |
 | Mantras 3D | 100114 | [100114-mantras-3d.json](./100114-mantras-3d.json) |
+| Manual | 319421 | [319421-manual.json](./319421-manual.json) |
 | Manual Intervention | 135060 | [135060-manual-intervention.json](./135060-manual-intervention.json) |
 | Manual Intervention VR | 154089 | [154089-manual-intervention-vr.json](./154089-manual-intervention-vr.json) |
 | Manual Overcycle | 239104 | [239104-manual-overcycle.json](./239104-manual-overcycle.json) |
@@ -10083,6 +10084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistake | 189188 | [189188-mistake.json](./189188-mistake.json) |
 | Mistake of Pythagoras | 222416 | [222416-mistake-of-pythagoras.json](./222416-mistake-of-pythagoras.json) |
 | Mistake Souls | 75193 | [75193-mistake-souls.json](./75193-mistake-souls.json) |
+| Mistake: Source | 319451 | [319451-mistake-source.json](./319451-mistake-source.json) |
 | Mistaken | 335647 | [335647-mistaken.json](./335647-mistaken.json) |
 | Mistaker | 129713 | [129713-mistaker.json](./129713-mistaker.json) |
 | Mistakes Were Made | 179036 | [179036-mistakes-were-made.json](./179036-mistakes-were-made.json) |
@@ -10759,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Mokens League | 222788 | [222788-mokens-league.json](./222788-mokens-league.json) |
 | Mokete | 266472 | [266472-mokete.json](./266472-mokete.json) |
+| Mokhtar: Uprising Season | 319446 | [319446-mokhtar-uprising-season.json](./319446-mokhtar-uprising-season.json) |
 | Moki | 149880 | [149880-moki.json](./149880-moki.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
@@ -13407,6 +13410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
 | Mr. Bree+ | 16852 | [16852-mr-bree.json](./16852-mr-bree.json) |
+| Mr. Bubble | 319437 | [319437-mr-bubble.json](./319437-mr-bubble.json) |
 | Mr. Bullfrog | 198831 | [198831-mr-bullfrog.json](./198831-mr-bullfrog.json) |
 | Mr. Buttman's Grand Opening | 263122 | [263122-mr-buttmans-grand-opening.json](./263122-mr-buttmans-grand-opening.json) |
 | Mr. Capital! | 278082 | [278082-mr-capital.json](./278082-mr-capital.json) |
@@ -13819,6 +13823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Mercs | 255275 | [255275-multiplayer-mercs.json](./255275-multiplayer-mercs.json) |
 | Multiplayer Military | 249326 | [249326-multiplayer-military.json](./249326-multiplayer-military.json) |
 | Multiplayer Mongolians | 320560 | [320560-multiplayer-mongolians.json](./320560-multiplayer-mongolians.json) |
+| Multiplayer Ninjas | 319414 | [319414-multiplayer-ninjas.json](./319414-multiplayer-ninjas.json) |
 | Multiplayer Obby | 274533 | [274533-multiplayer-obby.json](./274533-multiplayer-obby.json) |
 | Multiplayer Platform Golf | 264583 | [264583-multiplayer-platform-golf.json](./264583-multiplayer-platform-golf.json) |
 | Multiplayer RPG | 307737 | [307737-multiplayer-rpg.json](./307737-multiplayer-rpg.json) |
@@ -15908,6 +15913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystik Belle | 36144 | [36144-mystik-belle.json](./36144-mystik-belle.json) |
 | Mystik Belle: Enchanted Edition | 187501 | [187501-mystik-belle-enchanted-edition.json](./187501-mystik-belle-enchanted-edition.json) |
 | Mystillion | 245910 | [245910-mystillion.json](./245910-mystillion.json) |
+| Mystina Online | 319462 | [319462-mystina-online.json](./319462-mystina-online.json) |
 | Mystina: Remaster Online | 403159 | [403159-mystina-remaster-online.json](./403159-mystina-remaster-online.json) |
 | Mystiqa | 134476 | [134476-mystiqa.json](./134476-mystiqa.json) |
 | Mystologia: The Witch & the Noisy Forest | 396015 | [396015-mystologia-the-witch-and-the-noisy-forest.json](./396015-mystologia-the-witch-and-the-noisy-forest.json) |
