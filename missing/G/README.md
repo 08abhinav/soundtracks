@@ -4126,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Gold Hunt | 379121 | [379121-goblin-gold-hunt.json](./379121-goblin-gold-hunt.json) |
 | Goblin Golf | 181689 | [181689-goblin-golf.json](./181689-goblin-golf.json) |
 | Goblin Goopmaxxing | 375840 | [375840-goblin-goopmaxxing.json](./375840-goblin-goopmaxxing.json) |
+| Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
 | Goblin Journal | 347742 | [347742-goblin-journal.json](./347742-goblin-journal.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
 | Goblin Keep | 240717 | [240717-goblin-keep.json](./240717-goblin-keep.json) |
@@ -5673,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix Rock 'N Racing | 19892 | [19892-grand-prix-rock-n-racing.json](./19892-grand-prix-rock-n-racing.json) |
 | Grand Prix Simulator | 13861 | [13861-grand-prix-simulator.json](./13861-grand-prix-simulator.json) |
 | Grand Pskov Story | 74930 | [74930-grand-pskov-story.json](./74930-grand-pskov-story.json) |
+| Grand Rush VR: Highway Car Traffic Racing Simulator | 318268 | [318268-grand-rush-vr-highway-car-traffic-racing-simulator.json](./318268-grand-rush-vr-highway-car-traffic-racing-simulator.json) |
 | Grand Rush: Highway Car Traffic Racing Simulator | 312843 | [312843-grand-rush-highway-car-traffic-racing-simulator.json](./312843-grand-rush-highway-car-traffic-racing-simulator.json) |
 | Grand Saudi Hajwala | 374678 | [374678-grand-saudi-hajwala.json](./374678-grand-saudi-hajwala.json) |
 | Grand Shooter | 336578 | [336578-grand-shooter.json](./336578-grand-shooter.json) |
@@ -7039,6 +7041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grotto | 135631 | [135631-grotto.json](./135631-grotto.json) |
 | Grotto Beasts Arena | 293234 | [293234-grotto-beasts-arena.json](./293234-grotto-beasts-arena.json) |
 | Grotto King | 282004 | [282004-grotto-king.json](./282004-grotto-king.json) |
+| Grotto of the Scorned | 318262 | [318262-grotto-of-the-scorned.json](./318262-grotto-of-the-scorned.json) |
 | Grottonnia | 171560 | [171560-grottonnia.json](./171560-grottonnia.json) |
 | GrottyScape | 31045 | [31045-grottyscape.json](./31045-grottyscape.json) |
 | Grouls | 329010 | [329010-grouls.json](./329010-grouls.json) |
