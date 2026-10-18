@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nandao Ni Shi Gal Gaoshou | 411771 | [411771-nandao-ni-shi-gal-gaoshou.json](./411771-nandao-ni-shi-gal-gaoshou.json) |
 | Nandemo!? Taihoman | 264312 | [264312-nandemo-taihoman.json](./264312-nandemo-taihoman.json) |
 | Nandemoya of Flower Street | 239797 | [239797-nandemoya-of-flower-street.json](./239797-nandemoya-of-flower-street.json) |
+| Nandome ka no Hajimemashite | 354767 | [354767-nandome-ka-no-hajimemashite.json](./354767-nandome-ka-no-hajimemashite.json) |
 | Nandome ka no Shiki | 393972 | [393972-nandome-ka-no-shiki.json](./393972-nandome-ka-no-shiki.json) |
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
@@ -4346,11 +4347,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Way Out | 310165 | [310165-no-way-out.json](./310165-no-way-out.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
+| No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
 | No-Appointment Gals: Olympos | 78522 | [78522-no-appointment-gals-olympos.json](./78522-no-appointment-gals-olympos.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
+| No-good Streamer Mirai-chan! (Now accepting lewd comments) | 354769 | [354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json](./354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
@@ -4562,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Noel 3: Mission on the Line | 107624 | [107624-noel-3-mission-on-the-line.json](./107624-noel-3-mission-on-the-line.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
+| Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
 | Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
