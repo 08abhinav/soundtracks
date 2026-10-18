@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T16:18:30.267Z",
-  "total_missing": 228938,
+  "generated_at": "2026-10-18T16:33:11.016Z",
+  "total_missing": 228988,
   "games": [
     {
       "igdb_id": 191680,
@@ -41017,6 +41017,11 @@
       "file": "missing/A/319679-amarillos-butt-slapper.json"
     },
     {
+      "igdb_id": 326482,
+      "game_name": "Amaroo's Christmas Shop Simulator",
+      "file": "missing/A/326482-amaroos-christmas-shop-simulator.json"
+    },
+    {
       "igdb_id": 347498,
       "game_name": "Amaryllis",
       "file": "missing/A/347498-amaryllis.json"
@@ -42355,6 +42360,11 @@
       "igdb_id": 135610,
       "game_name": "American Election",
       "file": "missing/A/135610-american-election.json"
+    },
+    {
+      "igdb_id": 326481,
+      "game_name": "American Election Simulator",
+      "file": "missing/A/326481-american-election-simulator.json"
     },
     {
       "igdb_id": 255697,
@@ -85682,6 +85692,11 @@
       "file": "missing/B/100937-bank-robbery-royale-battle-simulator.json"
     },
     {
+      "igdb_id": 326470,
+      "game_name": "Bank Simulator",
+      "file": "missing/B/326470-bank-simulator.json"
+    },
+    {
       "igdb_id": 84323,
       "game_name": "Bank-A-Ball",
       "file": "missing/B/84323-bank-a-ball.json"
@@ -89990,6 +90005,11 @@
       "igdb_id": 3796,
       "game_name": "Baten Kaitos Origins",
       "file": "missing/B/3796-baten-kaitos-origins.json"
+    },
+    {
+      "igdb_id": 326471,
+      "game_name": "Bath House Simulator",
+      "file": "missing/B/326471-bath-house-simulator.json"
     },
     {
       "igdb_id": 331274,
@@ -95475,6 +95495,11 @@
       "igdb_id": 243740,
       "game_name": "Beach Mini Golf 2",
       "file": "missing/B/243740-beach-mini-golf-2.json"
+    },
+    {
+      "igdb_id": 326472,
+      "game_name": "Beach Outlet Simulator",
+      "file": "missing/B/326472-beach-outlet-simulator.json"
     },
     {
       "igdb_id": 65860,
@@ -105882,6 +105907,11 @@
       "file": "missing/B/248033-bike-offroad-simulator.json"
     },
     {
+      "igdb_id": 326473,
+      "game_name": "Bike Park Simulator: BMX, Dirt Jump & MTB",
+      "file": "missing/B/326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json"
+    },
+    {
       "igdb_id": 105866,
       "game_name": "Bike Racer 2018",
       "file": "missing/B/105866-bike-racer-2018.json"
@@ -111975,6 +112005,11 @@
       "igdb_id": 344980,
       "game_name": "Blacksmith Shop Simulator",
       "file": "missing/B/344980-blacksmith-shop-simulator.json"
+    },
+    {
+      "igdb_id": 326469,
+      "game_name": "Blacksmith Simulator",
+      "file": "missing/B/326469-blacksmith-simulator.json"
     },
     {
       "igdb_id": 353951,
@@ -118800,6 +118835,11 @@
       "igdb_id": 322000,
       "game_name": "Bloody Aria",
       "file": "missing/B/322000-bloody-aria.json"
+    },
+    {
+      "igdb_id": 326475,
+      "game_name": "Bloody Bar Simulator",
+      "file": "missing/B/326475-bloody-bar-simulator.json"
     },
     {
       "igdb_id": 367620,
@@ -128542,6 +128582,11 @@
       "file": "missing/B/58257-bowling-party.json"
     },
     {
+      "igdb_id": 326476,
+      "game_name": "Bowling Simulator",
+      "file": "missing/B/326476-bowling-simulator.json"
+    },
+    {
       "igdb_id": 96913,
       "game_name": "Bowling Street",
       "file": "missing/B/96913-bowling-street.json"
@@ -132915,6 +132960,11 @@
       "igdb_id": 208835,
       "game_name": "Breakyo",
       "file": "missing/B/208835-breakyo.json"
+    },
+    {
+      "igdb_id": 326477,
+      "game_name": "Breast Simulator",
+      "file": "missing/B/326477-breast-simulator.json"
     },
     {
       "igdb_id": 330011,
@@ -137862,6 +137912,11 @@
       "file": "missing/B/22741-bucket-list.json"
     },
     {
+      "igdb_id": 326478,
+      "game_name": "Bucket Truck VR Simulator",
+      "file": "missing/B/326478-bucket-truck-vr-simulator.json"
+    },
+    {
       "igdb_id": 176281,
       "game_name": "Bucketneers",
       "file": "missing/B/176281-bucketneers.json"
@@ -140627,6 +140682,11 @@
       "file": "missing/B/35379-bunker-constructor.json"
     },
     {
+      "igdb_id": 326479,
+      "game_name": "Bunker Constructor Simulator",
+      "file": "missing/B/326479-bunker-constructor-simulator.json"
+    },
+    {
       "igdb_id": 344437,
       "game_name": "Bunker Down",
       "file": "missing/B/344437-bunker-down.json"
@@ -141325,6 +141385,11 @@
       "igdb_id": 250855,
       "game_name": "Burger Cooking Simulator",
       "file": "missing/B/250855-burger-cooking-simulator.json"
+    },
+    {
+      "igdb_id": 326480,
+      "game_name": "Burger Flipper: A Fast Food Restaurant Simulator",
+      "file": "missing/B/326480-burger-flipper-a-fast-food-restaurant-simulator.json"
     },
     {
       "igdb_id": 180607,
@@ -142482,6 +142547,11 @@
       "file": "missing/B/120179-bus-fix-2019.json"
     },
     {
+      "igdb_id": 326464,
+      "game_name": "Bus Flipper Simulator",
+      "file": "missing/B/326464-bus-flipper-simulator.json"
+    },
+    {
       "igdb_id": 123315,
       "game_name": "Bus Mechanic Simulator",
       "file": "missing/B/123315-bus-mechanic-simulator.json"
@@ -142720,6 +142790,11 @@
       "igdb_id": 237477,
       "game_name": "Bush Shoot-Out",
       "file": "missing/B/237477-bush-shoot-out.json"
+    },
+    {
+      "igdb_id": 326463,
+      "game_name": "Bush Simulator",
+      "file": "missing/B/326463-bush-simulator.json"
     },
     {
       "igdb_id": 61541,
@@ -147602,6 +147677,11 @@
       "file": "missing/C/331102-calyx.json"
     },
     {
+      "igdb_id": 326465,
+      "game_name": "Cam Op Simulator",
+      "file": "missing/C/326465-cam-op-simulator.json"
+    },
+    {
       "igdb_id": 380689,
       "game_name": "Cam Quest",
       "file": "missing/C/380689-cam-quest.json"
@@ -147740,6 +147820,11 @@
       "igdb_id": 379380,
       "game_name": "CameraBag 2",
       "file": "missing/C/379380-camerabag-2.json"
+    },
+    {
+      "igdb_id": 326461,
+      "game_name": "CamGirl Simulator",
+      "file": "missing/C/326461-camgirl-simulator.json"
     },
     {
       "igdb_id": 202386,
@@ -151272,6 +151357,11 @@
       "file": "missing/C/32623-car-car-crash-hands-on-edition.json"
     },
     {
+      "igdb_id": 326460,
+      "game_name": "Car Carrier Simulator",
+      "file": "missing/C/326460-car-carrier-simulator.json"
+    },
+    {
       "igdb_id": 410240,
       "game_name": "Car Challenge",
       "file": "missing/C/410240-car-challenge.json"
@@ -151780,6 +151870,11 @@
       "igdb_id": 377268,
       "game_name": "Car Screw Escape",
       "file": "missing/C/377268-car-screw-escape.json"
+    },
+    {
+      "igdb_id": 326466,
+      "game_name": "Car Service Simulator",
+      "file": "missing/C/326466-car-service-simulator.json"
     },
     {
       "igdb_id": 106124,
@@ -155490,6 +155585,11 @@
       "igdb_id": 296035,
       "game_name": "Casino League",
       "file": "missing/C/296035-casino-league.json"
+    },
+    {
+      "igdb_id": 326459,
+      "game_name": "Casino Manager Simulator",
+      "file": "missing/C/326459-casino-manager-simulator.json"
     },
     {
       "igdb_id": 372214,
@@ -164180,6 +164280,11 @@
       "igdb_id": 249837,
       "game_name": "Champion Shift",
       "file": "missing/C/249837-champion-shift.json"
+    },
+    {
+      "igdb_id": 326458,
+      "game_name": "Champion Simulator",
+      "file": "missing/C/326458-champion-simulator.json"
     },
     {
       "igdb_id": 6092,
@@ -173087,6 +173192,11 @@
       "file": "missing/C/372805-christmas-soul.json"
     },
     {
+      "igdb_id": 326468,
+      "game_name": "Christmas Store: Santa's Supermarket Simulator",
+      "file": "missing/C/326468-christmas-store-santas-supermarket-simulator.json"
+    },
+    {
       "igdb_id": 139768,
       "game_name": "Christmas Stories: A Christmas Carol",
       "file": "missing/C/139768-christmas-stories-a-christmas-carol.json"
@@ -175412,6 +175522,11 @@
       "file": "missing/C/369679-cinema-tycoon.json"
     },
     {
+      "igdb_id": 326452,
+      "game_name": "Cinemaster Cinema Simulator",
+      "file": "missing/C/326452-cinemaster-cinema-simulator.json"
+    },
+    {
       "igdb_id": 319218,
       "game_name": "Cinematrix",
       "file": "missing/C/319218-cinematrix.json"
@@ -177117,6 +177232,11 @@
       "file": "missing/C/101505-city-night-rider.json"
     },
     {
+      "igdb_id": 326451,
+      "game_name": "City Noodle Shop Simulator",
+      "file": "missing/C/326451-city-noodle-shop-simulator.json"
+    },
+    {
       "igdb_id": 153911,
       "game_name": "City of Atlantis",
       "file": "missing/C/153911-city-of-atlantis.json"
@@ -178505,6 +178625,11 @@
       "igdb_id": 55033,
       "game_name": "Clash",
       "file": "missing/C/55033-clash.json"
+    },
+    {
+      "igdb_id": 326450,
+      "game_name": "Clash Battle Simulator",
+      "file": "missing/C/326450-clash-battle-simulator.json"
     },
     {
       "igdb_id": 330962,
@@ -183382,6 +183507,11 @@
       "file": "missing/C/306612-cock.json"
     },
     {
+      "igdb_id": 326449,
+      "game_name": "Cock Fight Simulator",
+      "file": "missing/C/326449-cock-fight-simulator.json"
+    },
+    {
       "igdb_id": 291608,
       "game_name": "Cock Soccer",
       "file": "missing/C/291608-cock-soccer.json"
@@ -183540,6 +183670,11 @@
       "igdb_id": 300779,
       "game_name": "Coconut Farm 3D",
       "file": "missing/C/300779-coconut-farm-3d.json"
+    },
+    {
+      "igdb_id": 326453,
+      "game_name": "Coconut Simulator",
+      "file": "missing/C/326453-coconut-simulator.json"
     },
     {
       "igdb_id": 40622,
@@ -184607,6 +184742,11 @@
       "file": "missing/C/217374-coffeehouse.json"
     },
     {
+      "igdb_id": 326448,
+      "game_name": "CoffeeShop Simulator",
+      "file": "missing/C/326448-coffeeshop-simulator.json"
+    },
+    {
       "igdb_id": 74409,
       "game_name": "Coffeetime Crosswords",
       "file": "missing/C/74409-coffeetime-crosswords.json"
@@ -185035,6 +185175,11 @@
       "igdb_id": 358992,
       "game_name": "Coincremental",
       "file": "missing/C/358992-coincremental.json"
+    },
+    {
+      "igdb_id": 326447,
+      "game_name": "Coindice Simulator",
+      "file": "missing/C/326447-coindice-simulator.json"
     },
     {
       "igdb_id": 376642,
@@ -196575,6 +196720,11 @@
       "igdb_id": 225888,
       "game_name": "Corner Driver",
       "file": "missing/C/225888-corner-driver.json"
+    },
+    {
+      "igdb_id": 326454,
+      "game_name": "Corner Kitchen Fast Food Simulator",
+      "file": "missing/C/326454-corner-kitchen-fast-food-simulator.json"
     },
     {
       "igdb_id": 360003,
@@ -209130,6 +209280,11 @@
       "igdb_id": 386943,
       "game_name": "Crown Siege",
       "file": "missing/C/386943-crown-siege.json"
+    },
+    {
+      "igdb_id": 326455,
+      "game_name": "Crown Simulator: Royal Life simulation",
+      "file": "missing/C/326455-crown-simulator-royal-life-simulation.json"
     },
     {
       "igdb_id": 96714,
@@ -240407,6 +240562,11 @@
       "file": "missing/D/380398-delivery-of-us.json"
     },
     {
+      "igdb_id": 326456,
+      "game_name": "Delivery Point Simulator",
+      "file": "missing/D/326456-delivery-point-simulator.json"
+    },
+    {
       "igdb_id": 208428,
       "game_name": "Delivery Quest",
       "file": "missing/D/208428-delivery-quest.json"
@@ -244235,6 +244395,11 @@
       "igdb_id": 420492,
       "game_name": "Desert Mirage",
       "file": "missing/D/420492-desert-mirage.json"
+    },
+    {
+      "igdb_id": 326457,
+      "game_name": "Desert of Ash: a Post-Apocalyptic Gay Sex Simulator",
+      "file": "missing/D/326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json"
     },
     {
       "igdb_id": 128437,
@@ -258672,6 +258837,11 @@
       "file": "missing/D/275917-dmod.json"
     },
     {
+      "igdb_id": 326436,
+      "game_name": "DMT Simulator",
+      "file": "missing/D/326436-dmt-simulator.json"
+    },
+    {
       "igdb_id": 98978,
       "game_name": "dMuse",
       "file": "missing/D/98978-dmuse.json"
@@ -261542,6 +261712,11 @@
       "file": "missing/D/97852-doll.json"
     },
     {
+      "igdb_id": 326440,
+      "game_name": "Doll Catching Simulator",
+      "file": "missing/D/326440-doll-catching-simulator.json"
+    },
+    {
       "igdb_id": 395202,
       "game_name": "Doll Date",
       "file": "missing/D/395202-doll-date.json"
@@ -263835,6 +264010,11 @@
       "igdb_id": 73987,
       "game_name": "Dondra: A New Beginning",
       "file": "missing/D/73987-dondra-a-new-beginning.json"
+    },
+    {
+      "igdb_id": 326439,
+      "game_name": "Doner Master Simulator",
+      "file": "missing/D/326439-doner-master-simulator.json"
     },
     {
       "igdb_id": 50367,
@@ -275232,6 +275412,11 @@
       "file": "missing/D/155891-dream-back.json"
     },
     {
+      "igdb_id": 326438,
+      "game_name": "Dream Bar Simulator",
+      "file": "missing/D/326438-dream-bar-simulator.json"
+    },
+    {
       "igdb_id": 156992,
       "game_name": "Dream Big 2",
       "file": "missing/D/156992-dream-big-2.json"
@@ -275730,6 +275915,11 @@
       "igdb_id": 127082,
       "game_name": "Dream Home",
       "file": "missing/D/127082-dream-home.json"
+    },
+    {
+      "igdb_id": 326437,
+      "game_name": "Dream Home Simulator",
+      "file": "missing/D/326437-dream-home-simulator.json"
     },
     {
       "igdb_id": 200139,
@@ -278502,6 +278692,11 @@
       "file": "missing/D/365860-drive-thru.json"
     },
     {
+      "igdb_id": 326441,
+      "game_name": "Drive Thru Simulator",
+      "file": "missing/D/326441-drive-thru-simulator.json"
+    },
+    {
       "igdb_id": 232910,
       "game_name": "Drive Time Radio",
       "file": "missing/D/232910-drive-time-radio.json"
@@ -278805,6 +279000,11 @@
       "igdb_id": 159645,
       "game_name": "Driving Simulator",
       "file": "missing/D/159645-driving-simulator.json"
+    },
+    {
+      "igdb_id": 326442,
+      "game_name": "Driving Simulator",
+      "file": "missing/D/326442-driving-simulator.json"
     },
     {
       "igdb_id": 27484,
@@ -280205,6 +280405,11 @@
       "igdb_id": 280719,
       "game_name": "Drunk as I Like: Gensokyo Drinking Attitude",
       "file": "missing/D/280719-drunk-as-i-like-gensokyo-drinking-attitude.json"
+    },
+    {
+      "igdb_id": 326443,
+      "game_name": "Drunk Builder Simulator",
+      "file": "missing/D/326443-drunk-builder-simulator.json"
     },
     {
       "igdb_id": 363398,
@@ -295852,6 +296057,11 @@
       "file": "missing/E/118473-electrician-simulator.json"
     },
     {
+      "igdb_id": 326444,
+      "game_name": "Electrician Simulator VR",
+      "file": "missing/E/326444-electrician-simulator-vr.json"
+    },
+    {
       "igdb_id": 245991,
       "game_name": "Electrician Simulator: Smart Devices",
       "file": "missing/E/245991-electrician-simulator-smart-devices.json"
@@ -296080,6 +296290,11 @@
       "igdb_id": 362342,
       "game_name": "Electronics Puzzle Lab 2",
       "file": "missing/E/362342-electronics-puzzle-lab-2.json"
+    },
+    {
+      "igdb_id": 326445,
+      "game_name": "Electronics Supermarket Simulator",
+      "file": "missing/E/326445-electronics-supermarket-simulator.json"
     },
     {
       "igdb_id": 18340,
@@ -299650,6 +299865,11 @@
       "igdb_id": 163985,
       "game_name": "Empire Chronicles",
       "file": "missing/E/163985-empire-chronicles.json"
+    },
+    {
+      "igdb_id": 326446,
+      "game_name": "Empire City Simulator",
+      "file": "missing/E/326446-empire-city-simulator.json"
     },
     {
       "igdb_id": 11395,
@@ -305722,6 +305942,11 @@
       "file": "missing/E/339764-erotic-rhythm.json"
     },
     {
+      "igdb_id": 326433,
+      "game_name": "Erotic Shop Simulator",
+      "file": "missing/E/326433-erotic-shop-simulator.json"
+    },
+    {
       "igdb_id": 98494,
       "game_name": "Erotic Tentacle Arts Assortment",
       "file": "missing/E/98494-erotic-tentacle-arts-assortment.json"
@@ -311340,6 +311565,11 @@
       "igdb_id": 342054,
       "game_name": "Eutolant Saga",
       "file": "missing/E/342054-eutolant-saga.json"
+    },
+    {
+      "igdb_id": 326434,
+      "game_name": "EV Station Simulator",
+      "file": "missing/E/326434-ev-station-simulator.json"
     },
     {
       "igdb_id": 142732,
@@ -319890,6 +320120,11 @@
       "igdb_id": 349645,
       "game_name": "Factory Planner",
       "file": "missing/F/349645-factory-planner.json"
+    },
+    {
+      "igdb_id": 326435,
+      "game_name": "Factory Simulator: Clothing & Outlet",
+      "file": "missing/F/326435-factory-simulator-clothing-and-outlet.json"
     },
     {
       "igdb_id": 382325,
@@ -473347,6 +473582,11 @@
       "file": "missing/I/202114-insider-tales-the-stolen-venus-2.json"
     },
     {
+      "igdb_id": 326467,
+      "game_name": "Insider Trading",
+      "file": "missing/I/326467-insider-trading.json"
+    },
+    {
       "igdb_id": 155024,
       "game_name": "Insiders",
       "file": "missing/I/155024-insiders.json"
@@ -621757,6 +621997,11 @@
       "file": "missing/M/196815-motorcycle-rpg.json"
     },
     {
+      "igdb_id": 326474,
+      "game_name": "Motorcycle Sales Simulator",
+      "file": "missing/M/326474-motorcycle-sales-simulator.json"
+    },
+    {
       "igdb_id": 312113,
       "game_name": "Motorcycles: World Championship",
       "file": "missing/M/312113-motorcycles-world-championship.json"
@@ -629670,6 +629915,11 @@
       "igdb_id": 32274,
       "game_name": "My Butler",
       "file": "missing/M/32274-my-butler.json"
+    },
+    {
+      "igdb_id": 326462,
+      "game_name": "My Café Manager Simulator",
+      "file": "missing/M/326462-my-cafe-manager-simulator.json"
     },
     {
       "igdb_id": 104607,
