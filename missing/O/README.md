@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Okhlos: Omega - Olympus Edition | 51864 | [51864-okhlos-omega-olympus-edition.json](./51864-okhlos-omega-olympus-edition.json) |
 | Okhlos: Sigma | 200038 | [200038-okhlos-sigma.json](./200038-okhlos-sigma.json) |
 | Okhotsk ni Kiyu: Hokkaido Rensa Satsujin | 206132 | [206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json](./206132-okhotsk-ni-kiyu-hokkaido-rensa-satsujin.json) |
+| Oki & el Disco Dorado | 325298 | [325298-oki-and-el-disco-dorado.json](./325298-oki-and-el-disco-dorado.json) |
 | Okie Dokie | 40776 | [40776-okie-dokie.json](./40776-okie-dokie.json) |
 | Okiku | 285394 | [285394-okiku.json](./285394-okiku.json) |
 | Okinawa Journal | 372458 | [372458-okinawa-journal.json](./372458-okinawa-journal.json) |
