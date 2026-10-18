@@ -5658,7 +5658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boots' Treasure | 396548 | [396548-billy-boots-treasure.json](./396548-billy-boots-treasure.json) |
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
-| Billy Hatcher and the Giant Egg | 3810 | [3810-billy-hatcher-and-the-giant-egg.json](./3810-billy-hatcher-and-the-giant-egg.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Hatcher Scrambled! | 402766 | [402766-billy-hatcher-scrambled.json](./402766-billy-hatcher-scrambled.json) |
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
@@ -9368,7 +9367,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Bits | 108040 | [108040-boom-bits.json](./108040-boom-bits.json) |
 | Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
-| Boom Blox | 2259 | [2259-boom-blox.json](./2259-boom-blox.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
@@ -9694,7 +9692,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
-| Botany Manor | 225426 | [225426-botany-manor.json](./225426-botany-manor.json) |
 | Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
