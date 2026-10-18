@@ -2794,6 +2794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Los Angeles Tour | 361132 | [361132-mario-kart-tour-los-angeles-tour.json](./361132-mario-kart-tour-los-angeles-tour.json) |
 | Mario Kart Tour: Los Angeles Tour | 361153 | [361153-mario-kart-tour-los-angeles-tour.json](./361153-mario-kart-tour-los-angeles-tour.json) |
 | Mario Kart Tour: Marine Tour | 361126 | [361126-mario-kart-tour-marine-tour.json](./361126-mario-kart-tour-marine-tour.json) |
+| Mario Kart Tour: Mario Bros. Tour | 338616 | [338616-mario-kart-tour-mario-bros-tour.json](./338616-mario-kart-tour-mario-bros-tour.json) |
 | Mario Kart Tour: Mario Tour | 361144 | [361144-mario-kart-tour-mario-tour.json](./361144-mario-kart-tour-mario-tour.json) |
 | Mario Kart Tour: Mario Tour | 361204 | [361204-mario-kart-tour-mario-tour.json](./361204-mario-kart-tour-mario-tour.json) |
 | Mario Kart Tour: Mario vs. Luigi Tour | 361136 | [361136-mario-kart-tour-mario-vs-luigi-tour.json](./361136-mario-kart-tour-mario-vs-luigi-tour.json) |
