@@ -6447,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizzy Robo | 259030 | [259030-bizzy-robo.json](./259030-bizzy-robo.json) |
 | BJ's Bara Jam Kitchen | 183889 | [183889-bjs-bara-jam-kitchen.json](./183889-bjs-bara-jam-kitchen.json) |
 | Björnes Magasin | 92829 | [92829-bjornes-magasin.json](./92829-bjornes-magasin.json) |
+| BK Concentration | 312953 | [312953-bk-concentration.json](./312953-bk-concentration.json) |
 | BK Simulator | 396121 | [396121-bk-simulator.json](./396121-bk-simulator.json) |
 | BK: OSRS | 313105 | [313105-bk-osrs.json](./313105-bk-osrs.json) |
 | BL Werewolf:Doki-Doki Summer vacation | 373633 | [373633-bl-werewolf-doki-doki-summer-vacation.json](./373633-bl-werewolf-doki-doki-summer-vacation.json) |
@@ -11722,6 +11723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalismus: Chapter 1 | 294061 | [294061-brutalismus-chapter-1.json](./294061-brutalismus-chapter-1.json) |
 | Brutalismus: Dystopia | 355076 | [355076-brutalismus-dystopia.json](./355076-brutalismus-dystopia.json) |
 | Brutalist | 308250 | [308250-brutalist.json](./308250-brutalist.json) |
+| Brutalist Golf | 312983 | [312983-brutalist-golf.json](./312983-brutalist-golf.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
@@ -11797,6 +11799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS The Legend of Zelda "MottZilla Patch" | 150080 | [150080-bs-the-legend-of-zelda-mottzilla-patch.json](./150080-bs-the-legend-of-zelda-mottzilla-patch.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets | 322560 | [322560-bs-the-legend-of-zelda-ancient-stone-tablets.json](./322560-bs-the-legend-of-zelda-ancient-stone-tablets.json) |
 | BS The Legend of Zelda: Ancient Stone Tablets - Master Quest | 150082 | [150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json](./150082-bs-the-legend-of-zelda-ancient-stone-tablets-master-quest.json) |
+| BS Torneko no Daibouken | 312950 | [312950-bs-torneko-no-daibouken.json](./312950-bs-torneko-no-daibouken.json) |
 | BS Zelda no Densetsu | 38319 | [38319-bs-zelda-no-densetsu.json](./38319-bs-zelda-no-densetsu.json) |
 | BS Zelda no Densetsu Map 2 | 134500 | [134500-bs-zelda-no-densetsu-map-2.json](./134500-bs-zelda-no-densetsu-map-2.json) |
 | BS Zelda no Densetsu Map 2: Dai-1-wa | 178054 | [178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json](./178054-bs-zelda-no-densetsu-map-2-dai-1-wa.json) |
