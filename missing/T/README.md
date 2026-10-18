@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Mikan no Report | 78561 | [78561-tantei-jinguji-saburo-mikan-no-report.json](./78561-tantei-jinguji-saburo-mikan-no-report.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou | 347642 | [347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json](./347642-tantei-jinguji-saburo-naki-ko-no-shouzou.json) |
 | Tantei Jinguji Saburo: Naki Ko no Shouzou & Nazono-Jikenbo | 347295 | [347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json](./347295-tantei-jinguji-saburo-naki-ko-no-shouzou-and-nazono-jikenbo.json) |
+| Tantei Jinguji Saburo: Prism of Eyes - Toki no Sugiyuku Mama ni | 347484 | [347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json](./347484-tantei-jinguji-saburo-prism-of-eyes-toki-no-sugiyuku-mama-ni.json) |
 | Tantei Jinguji Saburo: Quito no Yoru | 347634 | [347634-tantei-jinguji-saburo-quito-no-yoru.json](./347634-tantei-jinguji-saburo-quito-no-yoru.json) |
 | Tantei Jinguji Saburo: Rensa Suru Noroi & Nazono-Jikenbo | 347328 | [347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json](./347328-tantei-jinguji-saburo-rensa-suru-noroi-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Shingi no Hazama | 347632 | [347632-tantei-jinguji-saburo-shingi-no-hazama.json](./347632-tantei-jinguji-saburo-shingi-no-hazama.json) |
@@ -3260,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
 | Terra Omega | 238975 | [238975-terra-omega.json](./238975-terra-omega.json) |
+| Terra Pit | 347470 | [347470-terra-pit.json](./347470-terra-pit.json) |
 | Terra Pulse | 142433 | [142433-terra-pulse.json](./142433-terra-pulse.json) |
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
@@ -3771,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
 | Thank You For Your Application | 312791 | [312791-thank-you-for-your-application.json](./312791-thank-you-for-your-application.json) |
+| Thank You For Your Application! | 347471 | [347471-thank-you-for-your-application.json](./347471-thank-you-for-your-application.json) |
 | Thank You for Your Time | 367486 | [367486-thank-you-for-your-time.json](./367486-thank-you-for-your-time.json) |
 | Thanks For Listening | 126946 | [126946-thanks-for-listening.json](./126946-thanks-for-listening.json) |
 | Thanks for the Soup | 408519 | [408519-thanks-for-the-soup.json](./408519-thanks-for-the-soup.json) |
@@ -8267,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Salad: Turbo | 230304 | [230304-the-jumping-salad-turbo.json](./230304-the-jumping-salad-turbo.json) |
 | The Jumping Soda | 205078 | [205078-the-jumping-soda.json](./205078-the-jumping-soda.json) |
 | The Jumping Soda: Turbo | 205079 | [205079-the-jumping-soda-turbo.json](./205079-the-jumping-soda-turbo.json) |
+| The Jumping Spaghetti | 347495 | [347495-the-jumping-spaghetti.json](./347495-the-jumping-spaghetti.json) |
 | The Jumping Strawberry | 369179 | [369179-the-jumping-strawberry.json](./369179-the-jumping-strawberry.json) |
 | The Jumping Sushi | 210666 | [210666-the-jumping-sushi.json](./210666-the-jumping-sushi.json) |
 | The Jumping Sushi: Turbo | 210749 | [210749-the-jumping-sushi-turbo.json](./210749-the-jumping-sushi-turbo.json) |
@@ -19516,6 +19520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Pain | 228393 | [228393-tower-of-pain.json](./228393-tower-of-pain.json) |
 | Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
 | Tower Of Penguinaria | 338954 | [338954-tower-of-penguinaria.json](./338954-tower-of-penguinaria.json) |
+| Tower of Pestilence | 347482 | [347482-tower-of-pestilence.json](./347482-tower-of-pestilence.json) |
 | Tower of Radia | 48876 | [48876-tower-of-radia.json](./48876-tower-of-radia.json) |
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
@@ -21321,6 +21326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
+| Tralalero Tralala Jumper | 347497 | [347497-tralalero-tralala-jumper.json](./347497-tralalero-tralala-jumper.json) |
 | Tralalero Tralala Slot Machine Casino Heaven | 367848 | [367848-tralalero-tralala-slot-machine-casino-heaven.json](./367848-tralalero-tralala-slot-machine-casino-heaven.json) |
 | Tralalero Tralala Wars | 351099 | [351099-tralalero-tralala-wars.json](./351099-tralalero-tralala-wars.json) |
 | Tralalero Tralala: Backrooms | 392343 | [392343-tralalero-tralala-backrooms.json](./392343-tralalero-tralala-backrooms.json) |
