@@ -559,6 +559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
 | Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
 | Of Evil and Darkness | 129729 | [129729-of-evil-and-darkness.json](./129729-of-evil-and-darkness.json) |
+| Of Fair and Flesh | 318815 | [318815-of-fair-and-flesh.json](./318815-of-fair-and-flesh.json) |
 | Of Frost and Flowers | 225610 | [225610-of-frost-and-flowers.json](./225610-of-frost-and-flowers.json) |
 | Of Gods and Men: The Daybreak Empire | 109401 | [109401-of-gods-and-men-the-daybreak-empire.json](./109401-of-gods-and-men-the-daybreak-empire.json) |
 | Of Grit & Graves | 371465 | [371465-of-grit-and-graves.json](./371465-of-grit-and-graves.json) |
@@ -1523,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once a Tale | 238461 | [238461-once-a-tale.json](./238461-once-a-tale.json) |
 | Once Before Us | 373838 | [373838-once-before-us.json](./373838-once-before-us.json) |
 | Once Chance | 16755 | [16755-once-chance.json](./16755-once-chance.json) |
+| Once Clover Died | 318845 | [318845-once-clover-died.json](./318845-once-clover-died.json) |
 | Once Ever After | 111467 | [111467-once-ever-after.json](./111467-once-ever-after.json) |
 | Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
@@ -3889,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
+| Outposts of the Wasteland | 318869 | [318869-outposts-of-the-wasteland.json](./318869-outposts-of-the-wasteland.json) |
 | Outpour | 366406 | [366406-outpour.json](./366406-outpour.json) |
 | Outracer | 51575 | [51575-outracer.json](./51575-outracer.json) |
 | Outrage | 33144 | [33144-outrage.json](./33144-outrage.json) |
