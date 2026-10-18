@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
+| Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve 2 | 381995 | [381995-adam-and-eve-2.json](./381995-adam-and-eve-2.json) |
 | Adam and Eve 3 | 381997 | [381997-adam-and-eve-3.json](./381997-adam-and-eve-3.json) |
@@ -7769,6 +7770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antholojam 1: Golden Era of Sci-Fi | 141781 | [141781-antholojam-1-golden-era-of-sci-fi.json](./141781-antholojam-1-golden-era-of-sci-fi.json) |
 | Anthro Heat | 236405 | [236405-anthro-heat.json](./236405-anthro-heat.json) |
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
+| Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
@@ -8879,6 +8881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Thunder Ceptor II | 242052 | [242052-arcade-archives-thunder-ceptor-ii.json](./242052-arcade-archives-thunder-ceptor-ii.json) |
 | Arcade Archives: Thunder Cross | 147101 | [147101-arcade-archives-thunder-cross.json](./147101-arcade-archives-thunder-cross.json) |
 | Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
+| Arcade Archives: Thunder Fox | 330002 | [330002-arcade-archives-thunder-fox.json](./330002-arcade-archives-thunder-fox.json) |
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Time Tunnel | 122746 | [122746-arcade-archives-time-tunnel.json](./122746-arcade-archives-time-tunnel.json) |
 | Arcade Archives: Top Speed | 389060 | [389060-arcade-archives-top-speed.json](./389060-arcade-archives-top-speed.json) |
@@ -12342,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto World Tycoon | 164240 | [164240-auto-world-tycoon.json](./164240-auto-world-tycoon.json) |
 | Auto WWII Equips | 374825 | [374825-auto-wwii-equips.json](./374825-auto-wwii-equips.json) |
 | Auto X | 246311 | [246311-auto-x.json](./246311-auto-x.json) |
+| Auto-Crisis | 330022 | [330022-auto-crisis.json](./330022-auto-crisis.json) |
 | Auto-Staccato | 81087 | [81087-auto-staccato.json](./81087-auto-staccato.json) |
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
