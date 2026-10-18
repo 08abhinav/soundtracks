@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaikyuu Karane Kotoba | 206381 | [206381-kaikyuu-karane-kotoba.json](./206381-kaikyuu-karane-kotoba.json) |
 | Kaikyuu no Eshi | 239678 | [239678-kaikyuu-no-eshi.json](./239678-kaikyuu-no-eshi.json) |
 | Kaimeishi | 312654 | [312654-kaimeishi.json](./312654-kaimeishi.json) |
+| Kaimyou Maker | 324191 | [324191-kaimyou-maker.json](./324191-kaimyou-maker.json) |
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
 | Kaire | 344388 | [344388-kaire.json](./344388-kaire.json) |
@@ -4509,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
+| Kuukiyomi 4: Consider It | 324139 | [324139-kuukiyomi-4-consider-it.json](./324139-kuukiyomi-4-consider-it.json) |
 | Kuukiyomi 4: Consider It - Nintendo Switch 2 Edition | 378813 | [378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json](./378813-kuukiyomi-4-consider-it-nintendo-switch-2-edition.json) |
 | Kuukiyomi: Consider It! Online | 187529 | [187529-kuukiyomi-consider-it-online.json](./187529-kuukiyomi-consider-it-online.json) |
 | Kuuruu Kenmonroku | 263134 | [263134-kuuruu-kenmonroku.json](./263134-kuuruu-kenmonroku.json) |
