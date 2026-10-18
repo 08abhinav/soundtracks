@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:31:37.616Z",
-  "total_soundtracks": 2155,
+  "generated_at": "2026-10-18T08:31:47.381Z",
+  "total_soundtracks": 2156,
   "games": [
     {
       "igdb_id": 7522,
@@ -15733,6 +15733,20 @@
         {
           "album_name": "Onimusha: Warlords (Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Xfhs2fSndWIkTlEFHr8sq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17354,
+      "game_name": "Only If",
+      "game_url": "https://ostdb.net/games/only-if",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273213e93eda2aff92a128e415a",
+      "albums": [
+        {
+          "album_name": "Only If (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1zsYu080SzK4vfXIPD9JgR",
           "apple_music_url": "",
           "album_link_url": ""
         }
