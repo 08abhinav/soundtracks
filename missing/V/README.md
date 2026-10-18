@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ved | 126673 | [126673-ved.json](./126673-ved.json) |
 | Ved: Journey Beyond the Cube | 346240 | [346240-ved-journey-beyond-the-cube.json](./346240-ved-journey-beyond-the-cube.json) |
 | VED: Purification | 367955 | [367955-ved-purification.json](./367955-ved-purification.json) |
+| Ved: Recure | 321207 | [321207-ved-recure.json](./321207-ved-recure.json) |
 | Vedal's Secret | 386121 | [386121-vedals-secret.json](./386121-vedals-secret.json) |
 | Vedelem: The Golden Horde | 151462 | [151462-vedelem-the-golden-horde.json](./151462-vedelem-the-golden-horde.json) |
 | Vedmaak | 311128 | [311128-vedmaak.json](./311128-vedmaak.json) |
