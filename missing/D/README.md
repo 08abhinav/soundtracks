@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
 | Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
+| Dead Island 2: Neighborhood Watch | 316503 | [316503-dead-island-2-neighborhood-watch.json](./316503-dead-island-2-neighborhood-watch.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
@@ -5473,6 +5474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detana!! TwinBee | 202104 | [202104-detana-twinbee.json](./202104-detana-twinbee.json) |
 | Detanabi Pro Yakyuu | 65591 | [65591-detanabi-pro-yakyuu.json](./65591-detanabi-pro-yakyuu.json) |
 | Detanabi Pro Yakyuu 2 | 65590 | [65590-detanabi-pro-yakyuu-2.json](./65590-detanabi-pro-yakyuu-2.json) |
+| Detariki Z | 316484 | [316484-detariki-z.json](./316484-detariki-z.json) |
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
@@ -7433,6 +7435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Speedstorm: Aladdin Pack | 366993 | [366993-disney-speedstorm-aladdin-pack.json](./366993-disney-speedstorm-aladdin-pack.json) |
 | Disney Speedstorm: Baloo Pack | 366994 | [366994-disney-speedstorm-baloo-pack.json](./366994-disney-speedstorm-baloo-pack.json) |
 | Disney Speedstorm: Buzz Lightyear Pack | 366995 | [366995-disney-speedstorm-buzz-lightyear-pack.json](./366995-disney-speedstorm-buzz-lightyear-pack.json) |
+| Disney Speedstorm: PlayStation Plus Exclusive Pack | 316500 | [316500-disney-speedstorm-playstation-plus-exclusive-pack.json](./316500-disney-speedstorm-playstation-plus-exclusive-pack.json) |
 | Disney Speedstorm: Season 8 - Journey of Emotions | 310114 | [310114-disney-speedstorm-season-8-journey-of-emotions.json](./310114-disney-speedstorm-season-8-journey-of-emotions.json) |
 | Disney Speedstorm: Special Pack | 374697 | [374697-disney-speedstorm-special-pack.json](./374697-disney-speedstorm-special-pack.json) |
 | Disney Speedstorm: Standard Founder's Pack | 246844 | [246844-disney-speedstorm-standard-founders-pack.json](./246844-disney-speedstorm-standard-founders-pack.json) |
