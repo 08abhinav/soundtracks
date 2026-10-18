@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
 | Neon Abyss: The Lovable Rogues Pack | 237993 | [237993-neon-abyss-the-lovable-rogues-pack.json](./237993-neon-abyss-the-lovable-rogues-pack.json) |
+| Neon Apex: Beyond the Limit | 332863 | [332863-neon-apex-beyond-the-limit.json](./332863-neon-apex-beyond-the-limit.json) |
 | Neon Arena | 30516 | [30516-neon-arena.json](./30516-neon-arena.json) |
 | Neon Baller 0.1 | 151706 | [151706-neon-baller-0-1.json](./151706-neon-baller-0-1.json) |
 | Neon Bash | 301804 | [301804-neon-bash.json](./301804-neon-bash.json) |
