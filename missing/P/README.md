@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star... 20 Years Past | 313784 | [313784-phantasy-star-20-years-past.json](./313784-phantasy-star-20-years-past.json) |
 | PhantazmA | 125429 | [125429-phantazma.json](./125429-phantazma.json) |
 | Phantom | 258994 | [258994-phantom.json](./258994-phantom.json) |
+| Phantom | 319419 | [319419-phantom.json](./319419-phantom.json) |
 | Phantom | 47147 | [47147-phantom.json](./47147-phantom.json) |
 | Phantom 3D | 387492 | [387492-phantom-3d.json](./387492-phantom-3d.json) |
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
