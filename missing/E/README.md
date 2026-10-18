@@ -2980,6 +2980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ensemble Training!! | 364828 | [364828-ensemble-training.json](./364828-ensemble-training.json) |
 | Enshrouded | 248643 | [248643-enshrouded.json](./248643-enshrouded.json) |
 | Enshrouded World: Home Truths | 27676 | [27676-enshrouded-world-home-truths.json](./27676-enshrouded-world-home-truths.json) |
+| Enshrouded: Thralls of Twilight | 339610 | [339610-enshrouded-thralls-of-twilight.json](./339610-enshrouded-thralls-of-twilight.json) |
 | Ensign-1 | 17606 | [17606-ensign-1.json](./17606-ensign-1.json) |
 | Ensismoon | 28103 | [28103-ensismoon.json](./28103-ensismoon.json) |
 | Enslaved Odyssey: To The West - Collector's Edition | 44658 | [44658-enslaved-odyssey-to-the-west-collectors-edition.json](./44658-enslaved-odyssey-to-the-west-collectors-edition.json) |
