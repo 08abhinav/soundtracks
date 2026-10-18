@@ -3633,13 +3633,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReMove | 287773 | [287773-remove.json](./287773-remove.json) |
 | Removed | 128631 | [128631-removed.json](./128631-removed.json) |
 | Remuage - MeltySensation | 127012 | [127012-remuage-meltysensation.json](./127012-remuage-meltysensation.json) |
+| Remute: Dreammachine | 321802 | [321802-remute-dreammachine.json](./321802-remute-dreammachine.json) |
 | Remute: Electronic Deathstyle | 321794 | [321794-remute-electronic-deathstyle.json](./321794-remute-electronic-deathstyle.json) |
 | Remute: Electronic Lifestyle | 321790 | [321790-remute-electronic-lifestyle.json](./321790-remute-electronic-lifestyle.json) |
 | Remute: Living Electronics | 321793 | [321793-remute-living-electronics.json](./321793-remute-living-electronics.json) |
 | Remute: R64 | 321795 | [321795-remute-r64.json](./321795-remute-r64.json) |
+| Remute: Remute 3D | 321801 | [321801-remute-remute-3d.json](./321801-remute-remute-3d.json) |
 | Remute: Technoptimistic | 321788 | [321788-remute-technoptimistic.json](./321788-remute-technoptimistic.json) |
 | Remute: The Cult Of Remute | 321789 | [321789-remute-the-cult-of-remute.json](./321789-remute-the-cult-of-remute.json) |
 | Remute: The Cult of Remute Portable | 321791 | [321791-remute-the-cult-of-remute-portable.json](./321791-remute-the-cult-of-remute-portable.json) |
+| Remute: There Is Hope | 321800 | [321800-remute-there-is-hope.json](./321800-remute-there-is-hope.json) |
 | Remyadry | 104873 | [104873-remyadry.json](./104873-remyadry.json) |
 | Ren & Stimpy Happy, Happy, Joy, Joy Collection | 387373 | [387373-ren-and-stimpy-happy-happy-joy-joy-collection.json](./387373-ren-and-stimpy-happy-happy-joy-joy-collection.json) |
 | Ren & Stimpy: Match-Master | 273881 | [273881-ren-and-stimpy-match-master.json](./273881-ren-and-stimpy-match-master.json) |
@@ -6318,6 +6321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robina Hood's Monster Hunt | 360567 | [360567-robina-hoods-monster-hunt.json](./360567-robina-hoods-monster-hunt.json) |
 | RobinBobin | 138220 | [138220-robinbobin.json](./138220-robinbobin.json) |
 | Robinson Alchemy | 258901 | [258901-robinson-alchemy.json](./258901-robinson-alchemy.json) |
+| Robinson Crusoe | 321845 | [321845-robinson-crusoe.json](./321845-robinson-crusoe.json) |
 | Robinson Crusoe and the Cursed Pirates | 36129 | [36129-robinson-crusoe-and-the-cursed-pirates.json](./36129-robinson-crusoe-and-the-cursed-pirates.json) |
 | Robinson's Requiem | 2511 | [2511-robinsons-requiem.json](./2511-robinsons-requiem.json) |
 | Robinson's Requiem Collection | 51871 | [51871-robinsons-requiem-collection.json](./51871-robinsons-requiem-collection.json) |
