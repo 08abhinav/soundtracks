@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Monsters | 45504 | [45504-battle-monsters.json](./45504-battle-monsters.json) |
 | Battle Moon Wars | 47065 | [47065-battle-moon-wars.json](./47065-battle-moon-wars.json) |
 | Battle Motion | 113547 | [113547-battle-motion.json](./113547-battle-motion.json) |
+| Battle Mountain | 318252 | [318252-battle-mountain.json](./318252-battle-mountain.json) |
 | Battle Mutants | 383957 | [383957-battle-mutants.json](./383957-battle-mutants.json) |
 | Battle Mythic Maidens Arena | 351089 | [351089-battle-mythic-maidens-arena.json](./351089-battle-mythic-maidens-arena.json) |
 | Battle Nations | 50387 | [50387-battle-nations.json](./50387-battle-nations.json) |
@@ -6049,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
 | Biotoxin | 271184 | [271184-biotoxin.json](./271184-biotoxin.json) |
 | Biotype | 403643 | [403643-biotype.json](./403643-biotype.json) |
+| Bioweaver | 318281 | [318281-bioweaver.json](./318281-bioweaver.json) |
 | Biozone | 90472 | [90472-biozone.json](./90472-biozone.json) |
 | Bip + Bop | 207024 | [207024-bip-bop.json](./207024-bip-bop.json) |
 | BipBop | 218644 | [218644-bipbop.json](./218644-bipbop.json) |
@@ -7360,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightened | 347800 | [347800-blightened.json](./347800-blightened.json) |
 | Blightfall | 414415 | [414415-blightfall.json](./414415-blightfall.json) |
 | Blightfell | 375311 | [375311-blightfell.json](./375311-blightfell.json) |
+| BlightFog | 318290 | [318290-blightfog.json](./318290-blightfog.json) |
 | Blightlands Blacksmith | 238640 | [238640-blightlands-blacksmith.json](./238640-blightlands-blacksmith.json) |
 | Blights Wrath | 257834 | [257834-blights-wrath.json](./257834-blights-wrath.json) |
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
@@ -8986,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokura no Keshigum Otoshi 3: Sekai-hen | 251608 | [251608-bokura-no-keshigum-otoshi-3-sekai-hen.json](./251608-bokura-no-keshigum-otoshi-3-sekai-hen.json) |
 | Bokura no Nanokakan Sensou: Yuujou Adventure | 222509 | [222509-bokura-no-nanokakan-sensou-yuujou-adventure.json](./222509-bokura-no-nanokakan-sensou-yuujou-adventure.json) |
 | Bokura no Terebi Game Kentei | 69296 | [69296-bokura-no-terebi-game-kentei.json](./69296-bokura-no-terebi-game-kentei.json) |
+| Bokura: Planet | 318275 | [318275-bokura-planet.json](./318275-bokura-planet.json) |
 | Bola | 92445 | [92445-bola.json](./92445-bola.json) |
 | Bold | 243680 | [243680-bold.json](./243680-bold.json) |
 | Bold New World | 29726 | [29726-bold-new-world.json](./29726-bold-new-world.json) |
