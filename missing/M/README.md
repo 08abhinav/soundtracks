@@ -5691,7 +5691,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
 | Mega Man: Indonesian Artifact | 210506 | [210506-mega-man-indonesian-artifact.json](./210506-mega-man-indonesian-artifact.json) |
 | Mega Man: Limbo Edition | 269871 | [269871-mega-man-limbo-edition.json](./269871-mega-man-limbo-edition.json) |
+| Mega Man: Micro World! | 335153 | [335153-mega-man-micro-world.json](./335153-mega-man-micro-world.json) |
 | Mega Man: Revenge of the Fallen | 406535 | [406535-mega-man-revenge-of-the-fallen.json](./406535-mega-man-revenge-of-the-fallen.json) |
+| Mega Man: Robot Master Mayhem | 335146 | [335146-mega-man-robot-master-mayhem.json](./335146-mega-man-robot-master-mayhem.json) |
 | Mega Man: Rock N Roll | 144203 | [144203-mega-man-rock-n-roll.json](./144203-mega-man-rock-n-roll.json) |
 | Mega Man: Shattered Diamond | 215151 | [215151-mega-man-shattered-diamond.json](./215151-mega-man-shattered-diamond.json) |
 | Mega Man: Speed Bomber | 269872 | [269872-mega-man-speed-bomber.json](./269872-mega-man-speed-bomber.json) |
@@ -11670,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterCastle | 120653 | [120653-monstercastle.json](./120653-monstercastle.json) |
 | Monstercise | 282794 | [282794-monstercise.json](./282794-monstercise.json) |
 | MonsterCrafter | 89202 | [89202-monstercrafter.json](./89202-monstercrafter.json) |
+| MonsterEnd | 335053 | [335053-monsterend.json](./335053-monsterend.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
