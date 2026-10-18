@@ -5581,7 +5581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alvin's Chipmunk Nut Goody Bars | 320993 | [320993-alvins-chipmunk-nut-goody-bars.json](./320993-alvins-chipmunk-nut-goody-bars.json) |
 | Alvo | 75119 | [75119-alvo.json](./75119-alvo.json) |
 | Alvora Tactics | 28771 | [28771-alvora-tactics.json](./28771-alvora-tactics.json) |
-| Alwa's Awakening | 10681 | [10681-alwas-awakening.json](./10681-alwas-awakening.json) |
 | Alwa's Awakening & Cathedral | 214532 | [214532-alwas-awakening-and-cathedral.json](./214532-alwas-awakening-and-cathedral.json) |
 | Alwa's Awakening: The 8-Bit Edition | 207274 | [207274-alwas-awakening-the-8-bit-edition.json](./207274-alwas-awakening-the-8-bit-edition.json) |
 | Alwa's Collection | 171547 | [171547-alwas-collection.json](./171547-alwas-collection.json) |
