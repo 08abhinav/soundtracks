@@ -1097,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
 | Games 4 | 152112 | [152112-games-4.json](./152112-games-4.json) |
 | Games 4 Boys | 344446 | [344446-games-4-boys.json](./344446-games-4-boys.json) |
+| Games Advent Calendar 2024 Bundle | 324198 | [324198-games-advent-calendar-2024-bundle.json](./324198-games-advent-calendar-2024-bundle.json) |
 | Games Advent Calendar 2025 Bundle | 364101 | [364101-games-advent-calendar-2025-bundle.json](./364101-games-advent-calendar-2025-bundle.json) |
 | Games Advent Calendar: 25 Days - 25 Surprises | 265160 | [265160-games-advent-calendar-25-days-25-surprises.json](./265160-games-advent-calendar-25-days-25-surprises.json) |
 | Games and Girls | 149417 | [149417-games-and-girls.json](./149417-games-and-girls.json) |
