@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Flames: Retro Fire Gear 1 | 256560 | [256560-into-the-flames-retro-fire-gear-1.json](./256560-into-the-flames-retro-fire-gear-1.json) |
 | Into The Flames: Retro Truck Pack 1 | 255162 | [255162-into-the-flames-retro-truck-pack-1.json](./255162-into-the-flames-retro-truck-pack-1.json) |
 | Into The Flames: Spooky Pack | 285606 | [285606-into-the-flames-spooky-pack.json](./285606-into-the-flames-spooky-pack.json) |
+| Into the Fold: Nala Junction | 345282 | [345282-into-the-fold-nala-junction.json](./345282-into-the-fold-nala-junction.json) |
 | Into the Gloom | 10441 | [10441-into-the-gloom.json](./10441-into-the-gloom.json) |
 | Into the Gorian's Den | 275014 | [275014-into-the-gorians-den.json](./275014-into-the-gorians-den.json) |
 | Into the Grid | 277005 | [277005-into-the-grid.json](./277005-into-the-grid.json) |
@@ -4533,6 +4534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
+| Isle Frontier | 345363 | [345363-isle-frontier.json](./345363-isle-frontier.json) |
 | Isle o' Little Men | 310409 | [310409-isle-o-little-men.json](./310409-isle-o-little-men.json) |
 | Isle of Arrows | 197945 | [197945-isle-of-arrows.json](./197945-isle-of-arrows.json) |
 | Isle of Birds | 320872 | [320872-isle-of-birds.json](./320872-isle-of-birds.json) |
