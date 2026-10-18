@@ -964,6 +964,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27345f8fd2c4ff5e856dddae43e" width="60" /> | [Medal of Honor: Underground](https://ostdb.net/games/medal-of-honor-underground) | **Medal of Honor: Underground (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4oSATScWPNj78mIi0fIi9Y) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27398ae3ea546054361c083b9bd" width="60" /> | [Mega Man 2](https://ostdb.net/games/mega-man-2) | **Mega Man 2 Sound Collection** · [Spotify](https://open.spotify.com/album/0D1qEM8x4CuxftLHLKfv9m) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27355b6e36be72c08c97933ef86" width="60" /> | [Mega Man X: Legacy Collection](https://ostdb.net/games/mega-man-x-legacy-collection) | **MEGA MAN X LEGACY COLLECTION SOUNDTRACK** · [Spotify](https://open.spotify.com/album/1o8CsovLIhrJpyi57Dl6a2) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2737963d251968d78f4acb42d36" width="60" /> | [Melatonin](https://ostdb.net/games/melatonin) | **Melatonin (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2Q6YVGy27MnxnFWV3dtWsL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273112114d2eb5c1f38e2be13c6" width="60" /> | [Mercenaries 2: World in Flames](https://ostdb.net/games/mercenaries-2-world-in-flames) | **Mercenaries 2: World in Flames (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7oLVpH6m0NRls6ZZBq6VuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273dfab21dca98d8019daf5dd8c" width="60" /> | [Mercenary Kings](https://ostdb.net/games/mercenary-kings) | **Mercenary Kings (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1KyAlUjuJzb3xM4MYsYoJs) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731463d90516bacb6598778122" width="60" /> | [Metal Eden](https://ostdb.net/games/metal-eden) | **METAL EDEN (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/76bzrTXm7ieV6RN1M94JxW) |
@@ -1853,4 +1854,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2170 soundtracks · last updated 2026-10-18T08:40:49.843Z_
+_2171 soundtracks · last updated 2026-10-18T08:40:57.191Z_
