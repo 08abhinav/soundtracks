@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Apocalypse | 105519 | [105519-idle-apocalypse.json](./105519-idle-apocalypse.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
 | Idle Arcade Tycoon | 214171 | [214171-idle-arcade-tycoon.json](./214171-idle-arcade-tycoon.json) |
+| Idle Area 51 | 355889 | [355889-idle-area-51.json](./355889-idle-area-51.json) |
 | Idle Asteroids | 419194 | [419194-idle-asteroids.json](./419194-idle-asteroids.json) |
 | Idle Awakening: Mages Path | 346654 | [346654-idle-awakening-mages-path.json](./346654-idle-awakening-mages-path.json) |
 | Idle Awards 2 | 101701 | [101701-idle-awards-2.json](./101701-idle-awards-2.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interlopers | 249858 | [249858-interlopers.json](./249858-interlopers.json) |
 | Interlude | 139421 | [139421-interlude.json](./139421-interlude.json) |
 | Interlude | 289769 | [289769-interlude.json](./289769-interlude.json) |
+| Interlude | 355855 | [355855-interlude.json](./355855-interlude.json) |
 | Intermundia: Dungeons, Polygons & Magic | 333001 | [333001-intermundia-dungeons-polygons-and-magic.json](./333001-intermundia-dungeons-polygons-and-magic.json) |
 | Intern: An Intern's Guide to Maintaining Internal Rage | 200697 | [200697-intern-an-interns-guide-to-maintaining-internal-rage.json](./200697-intern-an-interns-guide-to-maintaining-internal-rage.json) |
 | Internal Incident | 372983 | [372983-internal-incident.json](./372983-internal-incident.json) |
