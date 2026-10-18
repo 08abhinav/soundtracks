@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
+| Natação | 359760 | [359760-natacao.json](./359760-natacao.json) |
 | Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
 | Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
@@ -3550,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
 | Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
+| Nim | 359761 | [359761-nim.json](./359761-nim.json) |
 | Nim | 407560 | [407560-nim.json](./407560-nim.json) |
 | Nim's Sin Removal Service | 216299 | [216299-nims-sin-removal-service.json](./216299-nims-sin-removal-service.json) |
 | Niman | 370983 | [370983-niman.json](./370983-niman.json) |
