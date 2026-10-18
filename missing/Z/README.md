@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhong Xing New Village | 337754 | [337754-zhong-xing-new-village.json](./337754-zhong-xing-new-village.json) |
 | Zhōng Yān Yǔ Lóng Tóngxíng | 373698 | [373698-zhong-yan-yu-long-tongxing.json](./373698-zhong-yan-yu-long-tongxing.json) |
 | Zhōngguó Shì Fùháo | 375430 | [375430-zhongguo-shi-fuhao.json](./375430-zhongguo-shi-fuhao.json) |
+| Zhōngguó Xiàngqí | 341842 | [341842-zhongguo-xiangqi.json](./341842-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí | 82099 | [82099-zhongguo-xiangqi.json](./82099-zhongguo-xiangqi.json) |
 | Zhōngguó Xiàngqí Zàixiàn | 88208 | [88208-zhongguo-xiangqi-zaixian.json](./88208-zhongguo-xiangqi-zaixian.json) |
 | Zhōnghuá Fùjiǎ Sānguó | 161903 | [161903-zhonghua-fujia-sanguo.json](./161903-zhonghua-fujia-sanguo.json) |
