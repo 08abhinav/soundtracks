@@ -6914,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman X3: New Year 2021 | 282077 | [282077-rockman-x3-new-year-2021.json](./282077-rockman-x3-new-year-2021.json) |
 | Rockman X3: New Year 2022 | 282078 | [282078-rockman-x3-new-year-2022.json](./282078-rockman-x3-new-year-2022.json) |
 | Rockman Xover | 64138 | [64138-rockman-xover.json](./64138-rockman-xover.json) |
+| Rockman Zero 3: Kaizou Card - Part 1 | 352613 | [352613-rockman-zero-3-kaizou-card-part-1.json](./352613-rockman-zero-3-kaizou-card-part-1.json) |
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
