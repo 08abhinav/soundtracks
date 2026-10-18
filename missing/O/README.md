@@ -2028,6 +2028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onechanbara Origin: Exclusive Saki Bonus Mission - A Shitty Father | 167901 | [167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json](./167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json) |
 | Onechanbara Origin: Exclusive Saki Bonus Mission - Fight to the Death | 167899 | [167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json](./167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
+| Onechanbara Z2: Chaos - Black Rose | 343606 | [343606-onechanbara-z2-chaos-black-rose.json](./343606-onechanbara-z2-chaos-black-rose.json) |
 | OneDayOne | 341505 | [341505-onedayone.json](./341505-onedayone.json) |
 | Onee Chanbara Origin | 139921 | [139921-onee-chanbara-origin.json](./139921-onee-chanbara-origin.json) |
 | Onee-chan wa Kushizashikou!? Atashi no Kui de Tsuranuite Ageru | 97463 | [97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json](./97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json) |
@@ -2166,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Online Mouse Maze Game | 366344 | [366344-online-mouse-maze-game.json](./366344-online-mouse-maze-game.json) |
 | Online Obsession | 268969 | [268969-online-obsession.json](./268969-online-obsession.json) |
 | Online Open World RPG | 234078 | [234078-online-open-world-rpg.json](./234078-online-open-world-rpg.json) |
+| Online Records: Unknown Seller | 343685 | [343685-online-records-unknown-seller.json](./343685-online-records-unknown-seller.json) |
 | Online Retro Tennis | 156702 | [156702-online-retro-tennis.json](./156702-online-retro-tennis.json) |
 | Online Simulator | 119698 | [119698-online-simulator.json](./119698-online-simulator.json) |
 | Online Soccer Manager | 77576 | [77576-online-soccer-manager.json](./77576-online-soccer-manager.json) |
