@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izle | 9725 | [9725-izle.json](./9725-izle.json) |
 | Izmir: An Independence Simulator | 196294 | [196294-izmir-an-independence-simulator.json](./196294-izmir-an-independence-simulator.json) |
 | Izolated | 295532 | [295532-izolated.json](./295532-izolated.json) |
+| Izon | 318277 | [318277-izon.json](./318277-izon.json) |
 | iZone | 95232 | [95232-izone.json](./95232-izone.json) |
 | Izrand Allure | 225556 | [225556-izrand-allure.json](./225556-izrand-allure.json) |
 | Izumi Jiken File Vol. 1 - Shiosai-hen | 292102 | [292102-izumi-jiken-file-vol-1-shiosai-hen.json](./292102-izumi-jiken-file-vol-1-shiosai-hen.json) |
