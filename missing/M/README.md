@@ -6114,7 +6114,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melancholy Lake: Camocipher12 Shorts | 408711 | [408711-melancholy-lake-camocipher12-shorts.json](./408711-melancholy-lake-camocipher12-shorts.json) |
 | Melancholy Love | 139483 | [139483-melancholy-love.json](./139483-melancholy-love.json) |
 | Melancholy Republic | 33666 | [33666-melancholy-republic.json](./33666-melancholy-republic.json) |
-| Melatonin | 157756 | [157756-melatonin.json](./157756-melatonin.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
@@ -13841,7 +13840,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Candlelight | 305369 | [305369-murder-by-candlelight.json](./305369-murder-by-candlelight.json) |
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
-| Murder by Numbers | 123902 | [123902-murder-by-numbers.json](./123902-murder-by-numbers.json) |
 | Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
 | Murder Club | 320844 | [320844-murder-club.json](./320844-murder-club.json) |
