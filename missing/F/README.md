@@ -5426,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatspace: Music Pack 3 | 389547 | [389547-flatspace-music-pack-3.json](./389547-flatspace-music-pack-3.json) |
 | FlatWarriors | 144915 | [144915-flatwarriors.json](./144915-flatwarriors.json) |
 | Flatwaters | 86741 | [86741-flatwaters.json](./86741-flatwaters.json) |
+| Flaurel's Diaries | 360332 | [360332-flaurels-diaries.json](./360332-flaurels-diaries.json) |
 | Flauresyn | 341151 | [341151-flauresyn.json](./341151-flauresyn.json) |
 | Flavor Favor | 248905 | [248905-flavor-favor.json](./248905-flavor-favor.json) |
 | Flavor Rave | 401310 | [401310-flavor-rave.json](./401310-flavor-rave.json) |
