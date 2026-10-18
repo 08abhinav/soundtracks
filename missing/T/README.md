@@ -7493,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Escape | 5853 | [5853-the-great-escape.json](./5853-the-great-escape.json) |
 | The Great Farce | 318176 | [318176-the-great-farce.json](./318176-the-great-farce.json) |
 | The Great Fear | 260650 | [260650-the-great-fear.json](./260650-the-great-fear.json) |
+| The Great Fleece | 315914 | [315914-the-great-fleece.json](./315914-the-great-fleece.json) |
 | The Great Flood | 380563 | [380563-the-great-flood.json](./380563-the-great-flood.json) |
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
@@ -8342,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Hot Dog | 204996 | [204996-the-jumping-hot-dog.json](./204996-the-jumping-hot-dog.json) |
 | The Jumping Ice Cream | 216357 | [216357-the-jumping-ice-cream.json](./216357-the-jumping-ice-cream.json) |
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
+| The Jumping Ice Cube | 315941 | [315941-the-jumping-ice-cube.json](./315941-the-jumping-ice-cube.json) |
 | The Jumping Kebab: Turbo | 213350 | [213350-the-jumping-kebab-turbo.json](./213350-the-jumping-kebab-turbo.json) |
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
 | The Jumping Melon Rush 2 | 345362 | [345362-the-jumping-melon-rush-2.json](./345362-the-jumping-melon-rush-2.json) |
@@ -22978,6 +22980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
+| Truck Simulator Cargo Driver 2024: Euro | 315921 | [315921-truck-simulator-cargo-driver-2024-euro.json](./315921-truck-simulator-cargo-driver-2024-euro.json) |
 | Truck Simulator Cargo Driver 2024: USA | 299525 | [299525-truck-simulator-cargo-driver-2024-usa.json](./299525-truck-simulator-cargo-driver-2024-usa.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
