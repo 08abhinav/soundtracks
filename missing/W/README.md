@@ -4363,6 +4363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Games 2023 | 210911 | [210911-winter-games-2023.json](./210911-winter-games-2023.json) |
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
+| Winter Games Collection | 324192 | [324192-winter-games-collection.json](./324192-winter-games-collection.json) |
 | Winter Games Collection + Advent Calendar | 357021 | [357021-winter-games-collection-advent-calendar.json](./357021-winter-games-collection-advent-calendar.json) |
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
