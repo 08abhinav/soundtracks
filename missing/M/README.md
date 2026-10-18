@@ -12511,7 +12511,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mos Speedrun | 92279 | [92279-mos-speedrun.json](./92279-mos-speedrun.json) |
 | Mos Speedrun 2 | 36158 | [36158-mos-speedrun-2.json](./36158-mos-speedrun-2.json) |
 | Mosa Lina | 258680 | [258680-mosa-lina.json](./258680-mosa-lina.json) |
-| Mosaic | 18929 | [18929-mosaic.json](./18929-mosaic.json) |
 | Mosaic 1% DLC | 155030 | [155030-mosaic-1-dlc.json](./155030-mosaic-1-dlc.json) |
 | Mosaic 1% Edition | 155031 | [155031-mosaic-1-edition.json](./155031-mosaic-1-edition.json) |
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
