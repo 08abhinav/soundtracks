@@ -2241,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cashier of Grocery Shop: Profession | 102772 | [102772-cashier-of-grocery-shop-profession.json](./102772-cashier-of-grocery-shop-profession.json) |
 | Cashier Sim | 296450 | [296450-cashier-sim.json](./296450-cashier-sim.json) |
 | Cashier Simulator | 261723 | [261723-cashier-simulator.json](./261723-cashier-simulator.json) |
+| Cashier Simulator | 332312 | [332312-cashier-simulator.json](./332312-cashier-simulator.json) |
 | Cashtronauts | 34834 | [34834-cashtronauts.json](./34834-cashtronauts.json) |
 | Casino Black Jack | 336095 | [336095-casino-black-jack.json](./336095-casino-black-jack.json) |
 | Casino Blackjack | 86560 | [86560-casino-blackjack.json](./86560-casino-blackjack.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catrun | 384312 | [384312-catrun.json](./384312-catrun.json) |
 | CatRunner 2022 | 299902 | [299902-catrunner-2022.json](./299902-catrunner-2022.json) |
 | Cats | 301856 | [301856-cats.json](./301856-cats.json) |
+| Cats 'n Blocks | 332280 | [332280-cats-n-blocks.json](./332280-cats-n-blocks.json) |
 | Cats & Castles | 260182 | [260182-cats-and-castles.json](./260182-cats-and-castles.json) |
 | Cats & Cups | 360002 | [360002-cats-and-cups.json](./360002-cats-and-cups.json) |
 | Cats & Dice | 319342 | [319342-cats-and-dice.json](./319342-cats-and-dice.json) |
@@ -3314,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
 | Cauldron Inn | 405607 | [405607-cauldron-inn.json](./405607-cauldron-inn.json) |
 | Cauldron Tale | 293508 | [293508-cauldron-tale.json](./293508-cauldron-tale.json) |
+| Cauldron's Rift | 332283 | [332283-cauldrons-rift.json](./332283-cauldrons-rift.json) |
 | Cauldrons of War: Barbarossa | 169923 | [169923-cauldrons-of-war-barbarossa.json](./169923-cauldrons-of-war-barbarossa.json) |
 | Cauldrons of War: Stalingrad | 169145 | [169145-cauldrons-of-war-stalingrad.json](./169145-cauldrons-of-war-stalingrad.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
@@ -3451,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavern of Dreams | 219095 | [219095-cavern-of-dreams.json](./219095-cavern-of-dreams.json) |
 | Cavern of Mourning | 397254 | [397254-cavern-of-mourning.json](./397254-cavern-of-mourning.json) |
 | Caverna | 372829 | [372829-caverna.json](./372829-caverna.json) |
+| Caverna do Podrão | 332290 | [332290-caverna-do-podrao.json](./332290-caverna-do-podrao.json) |
 | Cavernous | 414868 | [414868-cavernous.json](./414868-cavernous.json) |
 | Cavernous Wastes | 55872 | [55872-cavernous-wastes.json](./55872-cavernous-wastes.json) |
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
@@ -4415,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
+| Chat Ragdoll Racing | 332288 | [332288-chat-ragdoll-racing.json](./332288-chat-ragdoll-racing.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
@@ -4450,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
 | Cheater's Table | 391316 | [391316-cheaters-table.json](./391316-cheaters-table.json) |
+| Cheaters Cheetah | 332303 | [332303-cheaters-cheetah.json](./332303-cheaters-cheetah.json) |
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Cheating Fate | 177388 | [177388-cheating-fate.json](./177388-cheating-fate.json) |
 | Cheating Tom | 344015 | [344015-cheating-tom.json](./344015-cheating-tom.json) |
@@ -6462,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines Remastered - Campus | 301332 | [301332-cities-skylines-remastered-campus.json](./301332-cities-skylines-remastered-campus.json) |
 | CitiesCorp Concept - Build Everything on Your Own | 33484 | [33484-citiescorp-concept-build-everything-on-your-own.json](./33484-citiescorp-concept-build-everything-on-your-own.json) |
 | Citizen Conflict | 248301 | [248301-citizen-conflict.json](./248301-citizen-conflict.json) |
+| Citizen Kane 64 | 332210 | [332210-citizen-kane-64.json](./332210-citizen-kane-64.json) |
 | Citizen Life | 389560 | [389560-citizen-life.json](./389560-citizen-life.json) |
 | Citizen of Rome - Dynasty Ascendant | 116958 | [116958-citizen-of-rome-dynasty-ascendant.json](./116958-citizen-of-rome-dynasty-ascendant.json) |
 | Citizen Pain | 348269 | [348269-citizen-pain.json](./348269-citizen-pain.json) |
@@ -13961,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumverse | 339355 | [339355-cumverse.json](./339355-cumverse.json) |
 | Cunning Crooks | 382888 | [382888-cunning-crooks.json](./382888-cunning-crooks.json) |
 | Cunning Fox | 83527 | [83527-cunning-fox.json](./83527-cunning-fox.json) |
+| Cunning Gauntlet 2D | 332305 | [332305-cunning-gauntlet-2d.json](./332305-cunning-gauntlet-2d.json) |
 | Cunsus Kart | 143003 | [143003-cunsus-kart.json](./143003-cunsus-kart.json) |
 | Cunt Wars | 140570 | [140570-cunt-wars.json](./140570-cunt-wars.json) |
 | Cup and Counter: Coffee Shop Simulator | 392774 | [392774-cup-and-counter-coffee-shop-simulator.json](./392774-cup-and-counter-coffee-shop-simulator.json) |
