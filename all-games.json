@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:35:41.956Z",
-  "total_soundtracks": 2159,
+  "generated_at": "2026-10-18T08:35:49.534Z",
+  "total_soundtracks": 2160,
   "games": [
     {
       "igdb_id": 7522,
@@ -18081,6 +18081,20 @@
         {
           "album_name": "River City Girls (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/359E5Uu9UapJWnXp2SJ1Hl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 233676,
+      "game_name": "Road 96: Mile 0",
+      "game_url": "https://ostdb.net/games/road-96-mile-0",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734279f556fa7ebf670372e0a5",
+      "albums": [
+        {
+          "album_name": "Road 96: Mile 0 (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1YndPTUlutROz4i7IU5gQb",
           "apple_music_url": "",
           "album_link_url": ""
         }
