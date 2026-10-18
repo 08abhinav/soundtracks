@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dalek Attack | 12029 | [12029-dalek-attack.json](./12029-dalek-attack.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
 | Dalek: Dissolution Earth | 239580 | [239580-dalek-dissolution-earth.json](./239580-dalek-dissolution-earth.json) |
+| Daleks | 311366 | [311366-daleks.json](./311366-daleks.json) |
 | Daley Thompson's Decathlon | 13564 | [13564-daley-thompsons-decathlon.json](./13564-daley-thompsons-decathlon.json) |
 | Daley Thompson's Olympic Challenge | 12030 | [12030-daley-thompsons-olympic-challenge.json](./12030-daley-thompsons-olympic-challenge.json) |
 | Daley Thompson's Super-Test | 13565 | [13565-daley-thompsons-super-test.json](./13565-daley-thompsons-super-test.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarXide | 45877 | [45877-darxide.json](./45877-darxide.json) |
 | Darza's Dominion | 56308 | [56308-darzas-dominion.json](./56308-darzas-dominion.json) |
 | Das Auge des Horus | 77248 | [77248-das-auge-des-horus.json](./77248-das-auge-des-horus.json) |
+| Das Boot | 311321 | [311321-das-boot.json](./311321-das-boot.json) |
 | Das Boot: German U-Boat Simulation | 14332 | [14332-das-boot-german-u-boat-simulation.json](./14332-das-boot-german-u-boat-simulation.json) |
 | Das Erbe | 86037 | [86037-das-erbe.json](./86037-das-erbe.json) |
 | Das Geheimnis der Ägyptischen Mumie | 92285 | [92285-das-geheimnis-der-agyptischen-mumie.json](./92285-das-geheimnis-der-agyptischen-mumie.json) |
@@ -3480,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Decadence | 256799 | [256799-decadence.json](./256799-decadence.json) |
 | Decadence | 346640 | [346640-decadence.json](./346640-decadence.json) |
+| Decadence: A Tarnished World | 311357 | [311357-decadence-a-tarnished-world.json](./311357-decadence-a-tarnished-world.json) |
 | Decadent Heir | 334217 | [334217-decadent-heir.json](./334217-decadent-heir.json) |
 | Decadent Thinking | 331919 | [331919-decadent-thinking.json](./331919-decadent-thinking.json) |
 | DecaDungeons | 393043 | [393043-decadungeons.json](./393043-decadungeons.json) |
@@ -4780,6 +4783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denjin Makai | 46782 | [46782-denjin-makai.json](./46782-denjin-makai.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
 | Denki Bounce | 155876 | [155876-denki-bounce.json](./155876-denki-bounce.json) |
+| Dennis and Gnasher | 311315 | [311315-dennis-and-gnasher.json](./311315-dennis-and-gnasher.json) |
 | Dennis Miller: That's Geek to Me | 245252 | [245252-dennis-miller-thats-geek-to-me.json](./245252-dennis-miller-thats-geek-to-me.json) |
 | Dennis Miller: That's News to Me | 39019 | [39019-dennis-miller-thats-news-to-me.json](./39019-dennis-miller-thats-news-to-me.json) |
 | Dennis og Bellini: De forsvundne kaniner | 91450 | [91450-dennis-og-bellini-de-forsvundne-kaniner.json](./91450-dennis-og-bellini-de-forsvundne-kaniner.json) |
@@ -4788,6 +4792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis og Bellini: Slapafnien | 91452 | [91452-dennis-og-bellini-slapafnien.json](./91452-dennis-og-bellini-slapafnien.json) |
 | Dennis og Bellini: Stridens Æble | 91451 | [91451-dennis-og-bellini-stridens-ble.json](./91451-dennis-og-bellini-stridens-ble.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
+| Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
@@ -10151,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Maria | 245761 | [245761-dr-maria.json](./245761-dr-maria.json) |
 | Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
+| Dr. Mario | 311343 | [311343-dr-mario.json](./311343-dr-mario.json) |
 | Dr. Mario | 341926 | [341926-dr-mario.json](./341926-dr-mario.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
