@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
 | Garten of Banban Bundle: 1 + 2 + 3 + 4 | 308589 | [308589-garten-of-banban-bundle-1-2-3-4.json](./308589-garten-of-banban-bundle-1-2-3-4.json) |
+| Garten of Banban VR: Distorting Clay | 324742 | [324742-garten-of-banban-vr-distorting-clay.json](./324742-garten-of-banban-vr-distorting-clay.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
@@ -5202,6 +5203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorescript | 28889 | [28889-gorescript.json](./28889-gorescript.json) |
 | Gorescript Classic | 81424 | [81424-gorescript-classic.json](./81424-gorescript-classic.json) |
 | Gorf | 282064 | [282064-gorf.json](./282064-gorf.json) |
+| Gorf the Frog | 324724 | [324724-gorf-the-frog.json](./324724-gorf-the-frog.json) |
 | Gorf the Ghost Saves Halloween | 277415 | [277415-gorf-the-ghost-saves-halloween.json](./277415-gorf-the-ghost-saves-halloween.json) |
 | Gorfest | 267851 | [267851-gorfest.json](./267851-gorfest.json) |
 | Gorg The Game | 398681 | [398681-gorg-the-game.json](./398681-gorg-the-game.json) |
@@ -5283,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
 | Gotham Knights: Deluxe Edition | 201037 | [201037-gotham-knights-deluxe-edition.json](./201037-gotham-knights-deluxe-edition.json) |
 | Gotham Knights: Heroic Assault: The Kelvin Incident | 281563 | [281563-gotham-knights-heroic-assault-the-kelvin-incident.json](./281563-gotham-knights-heroic-assault-the-kelvin-incident.json) |
+| Gotham Knights: Special Edition | 324765 | [324765-gotham-knights-special-edition.json](./324765-gotham-knights-special-edition.json) |
 | Gothams Industrial District | 273116 | [273116-gothams-industrial-district.json](./273116-gothams-industrial-district.json) |
 | Gothel | 259039 | [259039-gothel.json](./259039-gothel.json) |
 | Gothic 1 Remake | 148227 | [148227-gothic-1-remake.json](./148227-gothic-1-remake.json) |
