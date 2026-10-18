@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Em-A-Li | 127793 | [127793-em-a-li.json](./127793-em-a-li.json) |
 | Em-A-Zurvival | 143970 | [143970-em-a-zurvival.json](./143970-em-a-zurvival.json) |
 | EM: Shader Attack | 31354 | [31354-em-shader-attack.json](./31354-em-shader-attack.json) |
+| Em.Path | 320020 | [320020-em-path.json](./320020-em-path.json) |
 | EmagineWorld | 213402 | [213402-emagineworld.json](./213402-emagineworld.json) |
 | Emagon | 60783 | [60783-emagon.json](./60783-emagon.json) |
 | Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
@@ -3073,6 +3074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entodrive | 156915 | [156915-entodrive.json](./156915-entodrive.json) |
 | Entogious | 245772 | [245772-entogious.json](./245772-entogious.json) |
 | Entombed | 22820 | [22820-entombed.json](./22820-entombed.json) |
+| Entombed | 320031 | [320031-entombed.json](./320031-entombed.json) |
 | Entombed Enhanced | 71394 | [71394-entombed-enhanced.json](./71394-entombed-enhanced.json) |
 | Entomophobia | 195153 | [195153-entomophobia.json](./195153-entomophobia.json) |
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
