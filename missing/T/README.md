@@ -6586,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eye of the Beheld | 184874 | [184874-the-eye-of-the-beheld.json](./184874-the-eye-of-the-beheld.json) |
 | The Eye of the Goddess | 196649 | [196649-the-eye-of-the-goddess.json](./196649-the-eye-of-the-goddess.json) |
 | The Eye of Typhoon | 57341 | [57341-the-eye-of-typhoon.json](./57341-the-eye-of-typhoon.json) |
+| The Eyes | 342498 | [342498-the-eyes.json](./342498-the-eyes.json) |
 | The Eyes of Ara | 20789 | [20789-the-eyes-of-ara.json](./20789-the-eyes-of-ara.json) |
 | The Eyes of Ara: Deluxe Edition | 53736 | [53736-the-eyes-of-ara-deluxe-edition.json](./53736-the-eyes-of-ara-deluxe-edition.json) |
 | The Eyes of Dr Kautzmann | 219256 | [219256-the-eyes-of-dr-kautzmann.json](./219256-the-eyes-of-dr-kautzmann.json) |
@@ -14809,6 +14810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Edges | 333669 | [333669-through-the-edges.json](./333669-through-the-edges.json) |
 | Through the Eyes of the Girls | 58153 | [58153-through-the-eyes-of-the-girls.json](./58153-through-the-eyes-of-the-girls.json) |
 | Through the Fog | 302095 | [302095-through-the-fog.json](./302095-through-the-fog.json) |
+| Through the Fog | 342500 | [342500-through-the-fog.json](./342500-through-the-fog.json) |
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
