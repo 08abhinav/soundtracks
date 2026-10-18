@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Force Commander: Combat Arms Fighter Shooting Attack | 88738 | [88738-air-force-commander-combat-arms-fighter-shooting-attack.json](./88738-air-force-commander-combat-arms-fighter-shooting-attack.json) |
 | Air Force Gear | 125271 | [125271-air-force-gear.json](./125271-air-force-gear.json) |
 | Air Force Missions | 320380 | [320380-air-force-missions.json](./320380-air-force-missions.json) |
+| Air Force Special Ops: Nightfall | 315907 | [315907-air-force-special-ops-nightfall.json](./315907-air-force-special-ops-nightfall.json) |
 | Air Fortress | 8791 | [8791-air-fortress.json](./8791-air-fortress.json) |
 | Air Fryer Sim | 200554 | [200554-air-fryer-sim.json](./200554-air-fryer-sim.json) |
 | Air Fury | 251819 | [251819-air-fury.json](./251819-air-fury.json) |
@@ -5970,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amenity's Life | 98541 | [98541-amenitys-life.json](./98541-amenitys-life.json) |
 | Amentes Online | 401011 | [401011-amentes-online.json](./401011-amentes-online.json) |
 | Ameprod Television Game 10 | 243416 | [243416-ameprod-television-game-10.json](./243416-ameprod-television-game-10.json) |
+| Amer Fighting | 315927 | [315927-amer-fighting.json](./315927-amer-fighting.json) |
 | America Adventure | 206111 | [206111-america-adventure.json](./206111-america-adventure.json) |
 | America Against Ants | 338224 | [338224-america-against-ants.json](./338224-america-against-ants.json) |
 | America Double Barrel Collection | 57561 | [57561-america-double-barrel-collection.json](./57561-america-double-barrel-collection.json) |
@@ -8807,6 +8809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Konami's Table Tennis | 322440 | [322440-arcade-archives-konamis-table-tennis.json](./322440-arcade-archives-konamis-table-tennis.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
 | Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
+| Arcade Archives: Lead Angle | 315929 | [315929-arcade-archives-lead-angle.json](./315929-arcade-archives-lead-angle.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
