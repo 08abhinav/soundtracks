@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastly Tactics | 318400 | [318400-beastly-tactics.json](./318400-beastly-tactics.json) |
 | Beastmancer | 30346 | [30346-beastmancer.json](./30346-beastmancer.json) |
 | Beastmaster and Princes | 121737 | [121737-beastmaster-and-princes.json](./121737-beastmaster-and-princes.json) |
+| Beastro | 362043 | [362043-beastro.json](./362043-beastro.json) |
 | Beastrun | 151205 | [151205-beastrun.json](./151205-beastrun.json) |
 | Beasts & Bumpkins | 50151 | [50151-beasts-and-bumpkins.json](./50151-beasts-and-bumpkins.json) |
 | Beasts & Chests | 105294 | [105294-beasts-and-chests.json](./105294-beasts-and-chests.json) |
@@ -7828,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of the Covenant | 217864 | [217864-blood-of-the-covenant.json](./217864-blood-of-the-covenant.json) |
 | Blood of the Elves | 290560 | [290560-blood-of-the-elves.json](./290560-blood-of-the-elves.json) |
 | Blood of the Killer | 178572 | [178572-blood-of-the-killer.json](./178572-blood-of-the-killer.json) |
+| Blood of the Tyrant | 362050 | [362050-blood-of-the-tyrant.json](./362050-blood-of-the-tyrant.json) |
 | Blood of Utpia | 189930 | [189930-blood-of-utpia.json](./189930-blood-of-utpia.json) |
 | Blood of Vladula Jr. | 307237 | [307237-blood-of-vladula-jr.json](./307237-blood-of-vladula-jr.json) |
 | Blood Omen 2: Legacy of Kain | 323372 | [323372-blood-omen-2-legacy-of-kain.json](./323372-blood-omen-2-legacy-of-kain.json) |
@@ -8098,6 +8100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
 | BloomTale | 316943 | [316943-bloomtale.json](./316943-bloomtale.json) |
+| Bloomwalker | 362042 | [362042-bloomwalker.json](./362042-bloomwalker.json) |
 | Bloomyth & Strong Moon Bundle | 262055 | [262055-bloomyth-and-strong-moon-bundle.json](./262055-bloomyth-and-strong-moon-bundle.json) |
 | Bloons | 261913 | [261913-bloons.json](./261913-bloons.json) |
 | Bloons | 93561 | [93561-bloons.json](./93561-bloons.json) |
@@ -9043,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Boy | 246952 | [246952-bone-boy.json](./246952-bone-boy.json) |
 | Bone Cruncher | 11977 | [11977-bone-cruncher.json](./11977-bone-cruncher.json) |
 | Bone Dust | 236774 | [236774-bone-dust.json](./236774-bone-dust.json) |
+| Bone Fixer Shop | 362024 | [362024-bone-fixer-shop.json](./362024-bone-fixer-shop.json) |
 | Bone Marrow | 129624 | [129624-bone-marrow.json](./129624-bone-marrow.json) |
 | Bone Marrow 2 | 410830 | [410830-bone-marrow-2.json](./410830-bone-marrow-2.json) |
 | Bone Mayhem | 146877 | [146877-bone-mayhem.json](./146877-bone-mayhem.json) |
@@ -9363,6 +9367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bootleg in Wonderland: Pastel Paradise | 342588 | [342588-bootleg-in-wonderland-pastel-paradise.json](./342588-bootleg-in-wonderland-pastel-paradise.json) |
 | Bootleg Systems | 32744 | [32744-bootleg-systems.json](./32744-bootleg-systems.json) |
 | Bootlegger's Racing Story | 258717 | [258717-bootleggers-racing-story.json](./258717-bootleggers-racing-story.json) |
+| Bootloop | 362055 | [362055-bootloop.json](./362055-bootloop.json) |
 | Bootombaa | 29185 | [29185-bootombaa.json](./29185-bootombaa.json) |
 | Bootsies | 335397 | [335397-bootsies.json](./335397-bootsies.json) |
 | Bootstrap Island | 196895 | [196895-bootstrap-island.json](./196895-bootstrap-island.json) |
