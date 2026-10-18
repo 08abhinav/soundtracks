@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Shodown: Baiken | 167836 | [167836-samurai-shodown-baiken.json](./167836-samurai-shodown-baiken.json) |
 | Samurai Shodown: Deluxe Edition | 331842 | [331842-samurai-shodown-deluxe-edition.json](./331842-samurai-shodown-deluxe-edition.json) |
 | Samurai Shodown: Deluxe Pack | 237974 | [237974-samurai-shodown-deluxe-pack.json](./237974-samurai-shodown-deluxe-pack.json) |
+| Samurai Shodown: Nakoruru Retro 3D Costume | 350223 | [350223-samurai-shodown-nakoruru-retro-3d-costume.json](./350223-samurai-shodown-nakoruru-retro-3d-costume.json) |
 | Samurai Shodown: Oborozuki Densetsu | 112917 | [112917-samurai-shodown-oborozuki-densetsu.json](./112917-samurai-shodown-oborozuki-densetsu.json) |
 | Samurai Shoguns Heart: Romance Among the Cherry Blossoms | 378783 | [378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json](./378783-samurai-shoguns-heart-romance-among-the-cherry-blossoms.json) |
 | Samurai Siege | 38868 | [38868-samurai-siege.json](./38868-samurai-siege.json) |
@@ -1211,6 +1212,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
 | Sangokushi II: Haou no Tairiku | 48861 | [48861-sangokushi-ii-haou-no-tairiku.json](./48861-sangokushi-ii-haou-no-tairiku.json) |
+| Sangokushi III | 350289 | [350289-sangokushi-iii.json](./350289-sangokushi-iii.json) |
+| Sangokushi IV: Power Up Kit | 350293 | [350293-sangokushi-iv-power-up-kit.json](./350293-sangokushi-iv-power-up-kit.json) |
 | Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
 | Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Rumble | 289002 | [289002-sangokushi-rumble.json](./289002-sangokushi-rumble.json) |
@@ -2643,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screamy Ski | 56286 | [56286-screamy-ski.json](./56286-screamy-ski.json) |
 | Scree | 236371 | [236371-scree.json](./236371-scree.json) |
 | Screech of Steel: Gladiators | 216932 | [216932-screech-of-steel-gladiators.json](./216932-screech-of-steel-gladiators.json) |
+| ScreeIn | 350174 | [350174-screein.json](./350174-screein.json) |
 | Screen | 300716 | [300716-screen.json](./300716-screen.json) |
 | Screen Blaster | 101548 | [101548-screen-blaster.json](./101548-screen-blaster.json) |
 | Screen Boy | 364503 | [364503-screen-boy.json](./364503-screen-boy.json) |
@@ -10168,6 +10172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Bros. Rumble | 210677 | [210677-smash-bros-rumble.json](./210677-smash-bros-rumble.json) |
 | Smash Cars | 335702 | [335702-smash-cars.json](./335702-smash-cars.json) |
 | Smash Cat Heroes | 84882 | [84882-smash-cat-heroes.json](./84882-smash-cat-heroes.json) |
+| Smash Champs | 350197 | [350197-smash-champs.json](./350197-smash-champs.json) |
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
@@ -18215,6 +18220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars! | 94399 | [94399-stars.json](./94399-stars.json) |
 | Starsand | 152754 | [152754-starsand.json](./152754-starsand.json) |
 | Starsand Island | 310885 | [310885-starsand-island.json](./310885-starsand-island.json) |
+| StarSavior | 350191 | [350191-starsavior.json](./350191-starsavior.json) |
 | StarsAway | 291195 | [291195-starsaway.json](./291195-starsaway.json) |
 | Starseed Harmonies | 385553 | [385553-starseed-harmonies.json](./385553-starseed-harmonies.json) |
 | Starseeker | 107608 | [107608-starseeker.json](./107608-starseeker.json) |
@@ -18391,6 +18397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Dread: The Lighthouse | 330815 | [330815-static-dread-the-lighthouse.json](./330815-static-dread-the-lighthouse.json) |
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
+| Static Memory | 350232 | [350232-static-memory.json](./350232-static-memory.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
 | Static Shock | 101455 | [101455-static-shock.json](./101455-static-shock.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
@@ -23781,6 +23788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Taco Crew | 173845 | [173845-super-taco-crew.json](./173845-super-taco-crew.json) |
 | Super Tact | 60225 | [60225-super-tact.json](./60225-super-tact.json) |
 | Super Takoyaki Battle | 416068 | [416068-super-takoyaki-battle.json](./416068-super-takoyaki-battle.json) |
+| Super Talking Time Bros. | 350226 | [350226-super-talking-time-bros.json](./350226-super-talking-time-bros.json) |
 | Super Tank | 279692 | [279692-super-tank.json](./279692-super-tank.json) |
 | Super Tank | 6141 | [6141-super-tank.json](./6141-super-tank.json) |
 | Super Tank Attack | 256556 | [256556-super-tank-attack.json](./256556-super-tank-attack.json) |
