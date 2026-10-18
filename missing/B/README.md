@@ -3584,6 +3584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear in Super Action Adventure 2 | 95984 | [95984-bear-in-super-action-adventure-2.json](./95984-bear-in-super-action-adventure-2.json) |
 | Bear in the Snow | 362882 | [362882-bear-in-the-snow.json](./362882-bear-in-the-snow.json) |
 | Bear It | 277762 | [277762-bear-it.json](./277762-bear-it.json) |
+| Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
@@ -4559,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
+| Ben 10: Cannonbolt Pinball - Ghostfreak's Revenge | 340798 | [340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json](./340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json) |
 | Ben 10: Critical Impact | 416039 | [416039-ben-10-critical-impact.json](./416039-ben-10-critical-impact.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
 | Ben 10: Galactic Racing | 210259 | [210259-ben-10-galactic-racing.json](./210259-ben-10-galactic-racing.json) |
@@ -9933,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound in a Nutshell in Infinite Space | 373885 | [373885-bound-in-a-nutshell-in-infinite-space.json](./373885-bound-in-a-nutshell-in-infinite-space.json) |
 | Bound in Time | 199602 | [199602-bound-in-time.json](./199602-bound-in-time.json) |
 | Bound of the Skies | 38976 | [38976-bound-of-the-skies.json](./38976-bound-of-the-skies.json) |
+| Bound Survivor | 340813 | [340813-bound-survivor.json](./340813-bound-survivor.json) |
 | Bound to Defend | 410267 | [410267-bound-to-defend.json](./410267-bound-to-defend.json) |
 | Bound To Fail | 396718 | [396718-bound-to-fail.json](./396718-bound-to-fail.json) |
 | Bound to Light | 74494 | [74494-bound-to-light.json](./74494-bound-to-light.json) |
