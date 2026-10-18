@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T03:03:30.295Z",
-  "total_missing": 226441,
+  "generated_at": "2026-10-18T03:17:55.262Z",
+  "total_missing": 226491,
   "games": [
     {
       "igdb_id": 191680,
@@ -675452,6 +675452,11 @@
       "file": "missing/O/279267-our-journey.json"
     },
     {
+      "igdb_id": 355328,
+      "game_name": "Our Journey: The Silent Voice",
+      "file": "missing/O/355328-our-journey-the-silent-voice.json"
+    },
+    {
       "igdb_id": 129051,
       "game_name": "Our Journeys: A Collection of Visual Novels",
       "file": "missing/O/129051-our-journeys-a-collection-of-visual-novels.json"
@@ -679745,6 +679750,11 @@
       "igdb_id": 36860,
       "game_name": "P.O.D.: Proof of Destruction",
       "file": "missing/P/36860-p-o-d-proof-of-destruction.json"
+    },
+    {
+      "igdb_id": 355423,
+      "game_name": "P.O.N.",
+      "file": "missing/P/355423-p-o-n.json"
     },
     {
       "igdb_id": 291036,
@@ -718892,6 +718902,41 @@
       "file": "missing/P/355871-pokemon-battle-e-card-iron-defense.json"
     },
     {
+      "igdb_id": 355420,
+      "game_name": "Pokémon Battle e: 08-A009 - Psychic Natasha",
+      "file": "missing/P/355420-pokemon-battle-e-08-a009-psychic-natasha.json"
+    },
+    {
+      "igdb_id": 355421,
+      "game_name": "Pokémon Battle e: 08-A010 - Camper Patrick",
+      "file": "missing/P/355421-pokemon-battle-e-08-a010-camper-patrick.json"
+    },
+    {
+      "igdb_id": 355422,
+      "game_name": "Pokémon Battle e: 08-A011 - Sailor Oscar",
+      "file": "missing/P/355422-pokemon-battle-e-08-a011-sailor-oscar.json"
+    },
+    {
+      "igdb_id": 355424,
+      "game_name": "Pokémon Battle e: 08-A012 - Pokémaniac Tyler",
+      "file": "missing/P/355424-pokemon-battle-e-08-a012-pokemaniac-tyler.json"
+    },
+    {
+      "igdb_id": 355425,
+      "game_name": "Pokémon Battle e: 08-A013 - Youngster Rudy",
+      "file": "missing/P/355425-pokemon-battle-e-08-a013-youngster-rudy.json"
+    },
+    {
+      "igdb_id": 355426,
+      "game_name": "Pokémon Battle e: 08-A014 - Beauty Ellie",
+      "file": "missing/P/355426-pokemon-battle-e-08-a014-beauty-ellie.json"
+    },
+    {
+      "igdb_id": 355419,
+      "game_name": "Pokémon Battle e: 08-K001 - Pumkin Berry",
+      "file": "missing/P/355419-pokemon-battle-e-08-k001-pumkin-berry.json"
+    },
+    {
       "igdb_id": 355496,
       "game_name": "Pokémon Battle e: 08-P001 - Dragon Tamer Craig",
       "file": "missing/P/355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json"
@@ -734770,6 +734815,196 @@
       "igdb_id": 328491,
       "game_name": "Progress Orders",
       "file": "missing/P/328491-progress-orders.json"
+    },
+    {
+      "igdb_id": 355324,
+      "game_name": "Progress PET: Battle Chip - 539: Noise Storm",
+      "file": "missing/P/355324-progress-pet-battle-chip-539-noise-storm.json"
+    },
+    {
+      "igdb_id": 355325,
+      "game_name": "Progress PET: Battle Chip - 540: Life Synchro",
+      "file": "missing/P/355325-progress-pet-battle-chip-540-life-synchro.json"
+    },
+    {
+      "igdb_id": 355326,
+      "game_name": "Progress PET: Battle Chip - 541: Mini Bomb",
+      "file": "missing/P/355326-progress-pet-battle-chip-541-mini-bomb.json"
+    },
+    {
+      "igdb_id": 355327,
+      "game_name": "Progress PET: Battle Chip - 542: Energy Bomb",
+      "file": "missing/P/355327-progress-pet-battle-chip-542-energy-bomb.json"
+    },
+    {
+      "igdb_id": 355329,
+      "game_name": "Progress PET: Battle Chip - 543: Mega Energy Bomb",
+      "file": "missing/P/355329-progress-pet-battle-chip-543-mega-energy-bomb.json"
+    },
+    {
+      "igdb_id": 355330,
+      "game_name": "Progress PET: Battle Chip - 544: Gun del Sol",
+      "file": "missing/P/355330-progress-pet-battle-chip-544-gun-del-sol.json"
+    },
+    {
+      "igdb_id": 355331,
+      "game_name": "Progress PET: Battle Chip - 545: Gun del Sol 2",
+      "file": "missing/P/355331-progress-pet-battle-chip-545-gun-del-sol-2.json"
+    },
+    {
+      "igdb_id": 355332,
+      "game_name": "Progress PET: Battle Chip - 546: Gun del Sol 3",
+      "file": "missing/P/355332-progress-pet-battle-chip-546-gun-del-sol-3.json"
+    },
+    {
+      "igdb_id": 355333,
+      "game_name": "Progress PET: Battle Chip - 547: Earthquake 1",
+      "file": "missing/P/355333-progress-pet-battle-chip-547-earthquake-1.json"
+    },
+    {
+      "igdb_id": 355335,
+      "game_name": "Progress PET: Battle Chip - 548: Earthquake 2",
+      "file": "missing/P/355335-progress-pet-battle-chip-548-earthquake-2.json"
+    },
+    {
+      "igdb_id": 355336,
+      "game_name": "Progress PET: Battle Chip - 549: Earthquake 3",
+      "file": "missing/P/355336-progress-pet-battle-chip-549-earthquake-3.json"
+    },
+    {
+      "igdb_id": 355337,
+      "game_name": "Progress PET: Battle Chip - 550: Crack Bomb",
+      "file": "missing/P/355337-progress-pet-battle-chip-550-crack-bomb.json"
+    },
+    {
+      "igdb_id": 355338,
+      "game_name": "Progress PET: Battle Chip - 551: Paralyze Bomb",
+      "file": "missing/P/355338-progress-pet-battle-chip-551-paralyze-bomb.json"
+    },
+    {
+      "igdb_id": 355339,
+      "game_name": "Progress PET: Battle Chip - 552: Reset Bomb",
+      "file": "missing/P/355339-progress-pet-battle-chip-552-reset-bomb.json"
+    },
+    {
+      "igdb_id": 355340,
+      "game_name": "Progress PET: Battle Chip - 553: Bug Bomb",
+      "file": "missing/P/355340-progress-pet-battle-chip-553-bug-bomb.json"
+    },
+    {
+      "igdb_id": 355341,
+      "game_name": "Progress PET: Battle Chip - 554: Kusamura Seed",
+      "file": "missing/P/355341-progress-pet-battle-chip-554-kusamura-seed.json"
+    },
+    {
+      "igdb_id": 355342,
+      "game_name": "Progress PET: Battle Chip - 555: Magma Seed",
+      "file": "missing/P/355342-progress-pet-battle-chip-555-magma-seed.json"
+    },
+    {
+      "igdb_id": 355343,
+      "game_name": "Progress PET: Battle Chip - 556: Hougan",
+      "file": "missing/P/355343-progress-pet-battle-chip-556-hougan.json"
+    },
+    {
+      "igdb_id": 355344,
+      "game_name": "Progress PET: Battle Chip - 557: Kanketsusen",
+      "file": "missing/P/355344-progress-pet-battle-chip-557-kanketsusen.json"
+    },
+    {
+      "igdb_id": 355345,
+      "game_name": "Progress PET: Battle Chip - 558: Black Bomb",
+      "file": "missing/P/355345-progress-pet-battle-chip-558-black-bomb.json"
+    },
+    {
+      "igdb_id": 355346,
+      "game_name": "Progress PET: Battle Chip - 559: Ocean Seed",
+      "file": "missing/P/355346-progress-pet-battle-chip-559-ocean-seed.json"
+    },
+    {
+      "igdb_id": 355347,
+      "game_name": "Progress PET: Battle Chip - 560: Sword",
+      "file": "missing/P/355347-progress-pet-battle-chip-560-sword.json"
+    },
+    {
+      "igdb_id": 355348,
+      "game_name": "Progress PET: Battle Chip - 561: Wide Sword",
+      "file": "missing/P/355348-progress-pet-battle-chip-561-wide-sword.json"
+    },
+    {
+      "igdb_id": 355349,
+      "game_name": "Progress PET: Battle Chip - 562: Long Sword",
+      "file": "missing/P/355349-progress-pet-battle-chip-562-long-sword.json"
+    },
+    {
+      "igdb_id": 355351,
+      "game_name": "Progress PET: Battle Chip - 563: Wide Blade",
+      "file": "missing/P/355351-progress-pet-battle-chip-563-wide-blade.json"
+    },
+    {
+      "igdb_id": 355352,
+      "game_name": "Progress PET: Battle Chip - 564: Long Blade",
+      "file": "missing/P/355352-progress-pet-battle-chip-564-long-blade.json"
+    },
+    {
+      "igdb_id": 355353,
+      "game_name": "Progress PET: Battle Chip - 565: Fuujin Racket",
+      "file": "missing/P/355353-progress-pet-battle-chip-565-fuujin-racket.json"
+    },
+    {
+      "igdb_id": 355354,
+      "game_name": "Progress PET: Battle Chip - 566: Custom Sword",
+      "file": "missing/P/355354-progress-pet-battle-chip-566-custom-sword.json"
+    },
+    {
+      "igdb_id": 355355,
+      "game_name": "Progress PET: Battle Chip - 567: Variable Sword",
+      "file": "missing/P/355355-progress-pet-battle-chip-567-variable-sword.json"
+    },
+    {
+      "igdb_id": 355357,
+      "game_name": "Progress PET: Battle Chip - 568: Iai Form",
+      "file": "missing/P/355357-progress-pet-battle-chip-568-iai-form.json"
+    },
+    {
+      "igdb_id": 355358,
+      "game_name": "Progress PET: Battle Chip - 569: Engetsu Kunai 1",
+      "file": "missing/P/355358-progress-pet-battle-chip-569-engetsu-kunai-1.json"
+    },
+    {
+      "igdb_id": 355359,
+      "game_name": "Progress PET: Battle Chip - 570: Engetsu Kunai 2",
+      "file": "missing/P/355359-progress-pet-battle-chip-570-engetsu-kunai-2.json"
+    },
+    {
+      "igdb_id": 355360,
+      "game_name": "Progress PET: Battle Chip - 571: Engetsu Kunai 3",
+      "file": "missing/P/355360-progress-pet-battle-chip-571-engetsu-kunai-3.json"
+    },
+    {
+      "igdb_id": 355361,
+      "game_name": "Progress PET: Battle Chip - 572: Samurai Sword 1",
+      "file": "missing/P/355361-progress-pet-battle-chip-572-samurai-sword-1.json"
+    },
+    {
+      "igdb_id": 355362,
+      "game_name": "Progress PET: Battle Chip - 573: Samurai Sword 2",
+      "file": "missing/P/355362-progress-pet-battle-chip-573-samurai-sword-2.json"
+    },
+    {
+      "igdb_id": 355363,
+      "game_name": "Progress PET: Battle Chip - 574: Samurai Sword 3",
+      "file": "missing/P/355363-progress-pet-battle-chip-574-samurai-sword-3.json"
+    },
+    {
+      "igdb_id": 355364,
+      "game_name": "Progress PET: Battle Chip - 575: Senshahou 1",
+      "file": "missing/P/355364-progress-pet-battle-chip-575-senshahou-1.json"
+    },
+    {
+      "igdb_id": 355365,
+      "game_name": "Progress PET: Battle Chip - 576: Senshahou 2",
+      "file": "missing/P/355365-progress-pet-battle-chip-576-senshahou-2.json"
     },
     {
       "igdb_id": 94363,
@@ -842372,6 +842607,11 @@
       "file": "missing/S/224603-skull-survivor.json"
     },
     {
+      "igdb_id": 355334,
+      "game_name": "Skull-Rung",
+      "file": "missing/S/355334-skull-rung.json"
+    },
+    {
       "igdb_id": 143376,
       "game_name": "Skull's Impossible Quest",
       "file": "missing/S/143376-skulls-impossible-quest.json"
@@ -849915,6 +850155,11 @@
       "igdb_id": 107706,
       "game_name": "Smoker the Car Game",
       "file": "missing/S/107706-smoker-the-car-game.json"
+    },
+    {
+      "igdb_id": 355350,
+      "game_name": "Smokestack Saints: The Parkour Game Part I",
+      "file": "missing/S/355350-smokestack-saints-the-parkour-game-part-i.json"
     },
     {
       "igdb_id": 360455,
@@ -889510,6 +889755,11 @@
       "igdb_id": 156904,
       "game_name": "Starship Tunnel",
       "file": "missing/S/156904-starship-tunnel.json"
+    },
+    {
+      "igdb_id": 355356,
+      "game_name": "Starship Warbeasts",
+      "file": "missing/S/355356-starship-warbeasts.json"
     },
     {
       "igdb_id": 186555,
