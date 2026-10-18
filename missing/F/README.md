@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fester's Quest | 5343 | [5343-festers-quest.json](./5343-festers-quest.json) |
 | Festival | 201493 | [201493-festival.json](./201493-festival.json) |
 | Festival Days Sim Date | 198243 | [198243-festival-days-sim-date.json](./198243-festival-days-sim-date.json) |
+| Festival Fever | 320032 | [320032-festival-fever.json](./320032-festival-fever.json) |
 | Festival Journey: Highland Dreams - Collector's Edition | 386869 | [386869-festival-journey-highland-dreams-collectors-edition.json](./386869-festival-journey-highland-dreams-collectors-edition.json) |
 | Festival Journey: Secrets of Rio - Collector's Edition | 416786 | [416786-festival-journey-secrets-of-rio-collectors-edition.json](./416786-festival-journey-secrets-of-rio-collectors-edition.json) |
 | Festival Journey: Venetian Masquerade - Collector's Edition | 350490 | [350490-festival-journey-venetian-masquerade-collectors-edition.json](./350490-festival-journey-venetian-masquerade-collectors-edition.json) |
