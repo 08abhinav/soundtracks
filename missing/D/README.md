@@ -6106,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicevaders | 386448 | [386448-dicevaders.json](./386448-dicevaders.json) |
 | Dicewars DS | 229135 | [229135-dicewars-ds.json](./229135-dicewars-ds.json) |
 | Dicewood | 340340 | [340340-dicewood.json](./340340-dicewood.json) |
+| Dicey Bugs | 335636 | [335636-dicey-bugs.json](./335636-dicey-bugs.json) |
 | Dicey Chess | 320304 | [320304-dicey-chess.json](./320304-dicey-chess.json) |
 | Dicey Demons | 309130 | [309130-dicey-demons.json](./309130-dicey-demons.json) |
 | Dicey Dungeons | 102420 | [102420-dicey-dungeons.json](./102420-dicey-dungeons.json) |
@@ -6710,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Genesis | 146924 | [146924-dino-genesis.json](./146924-dino-genesis.json) |
 | Dino Genesis | 336533 | [336533-dino-genesis.json](./336533-dino-genesis.json) |
 | Dino Get Out! | 279029 | [279029-dino-get-out.json](./279029-dino-get-out.json) |
+| Dino Gun | 335718 | [335718-dino-gun.json](./335718-dino-gun.json) |
 | Dino Hazard: Chronos Blackout | 138547 | [138547-dino-hazard-chronos-blackout.json](./138547-dino-hazard-chronos-blackout.json) |
 | Dino Hex Trap | 412565 | [412565-dino-hex-trap.json](./412565-dino-hex-trap.json) |
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
+| Dragonica Mama | 335716 | [335716-dragonica-mama.json](./335716-dragonica-mama.json) |
 | Dragonium Adventure | 226673 | [226673-dragonium-adventure.json](./226673-dragonium-adventure.json) |
 | DragonKill3D | 95911 | [95911-dragonkill3d.json](./95911-dragonkill3d.json) |
 | DragonLoop | 344528 | [344528-dragonloop.json](./344528-dragonloop.json) |
