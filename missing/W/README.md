@@ -6757,6 +6757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: By Sun's Scourge, By Moon's Revelation | 361302 | [361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json](./361302-wuthering-waves-by-suns-scourge-by-moons-revelation.json) |
 | Wuthering Waves: Dawn Breaks on Dark Tides | 372570 | [372570-wuthering-waves-dawn-breaks-on-dark-tides.json](./372570-wuthering-waves-dawn-breaks-on-dark-tides.json) |
 | Wuthering Waves: Fiery Arpeggio of Summer Reunion | 341103 | [341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json](./341103-wuthering-waves-fiery-arpeggio-of-summer-reunion.json) |
+| Wuthering Waves: In the Turquoise Moonglow | 314735 | [314735-wuthering-waves-in-the-turquoise-moonglow.json](./314735-wuthering-waves-in-the-turquoise-moonglow.json) |
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
