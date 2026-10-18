@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakeview Valley | 117690 | [117690-lakeview-valley.json](./117690-lakeview-valley.json) |
 | Lakitu's Great Adventure | 217842 | [217842-lakitus-great-adventure.json](./217842-lakitus-great-adventure.json) |
 | Lakitu's Great Adventure 2 | 222974 | [222974-lakitus-great-adventure-2.json](./222974-lakitus-great-adventure-2.json) |
+| Lakria Legends | 344166 | [344166-lakria-legends.json](./344166-lakria-legends.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
@@ -2258,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Indiana Jones 2: The Adventure Continues | 138 | [138-lego-indiana-jones-2-the-adventure-continues.json](./138-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones 2: The Adventure Continues | 194933 | [194933-lego-indiana-jones-2-the-adventure-continues.json](./194933-lego-indiana-jones-2-the-adventure-continues.json) |
 | LEGO Indiana Jones Adventures | 235340 | [235340-lego-indiana-jones-adventures.json](./235340-lego-indiana-jones-adventures.json) |
+| LEGO Indiana Jones: Mobile Adventure | 344143 | [344143-lego-indiana-jones-mobile-adventure.json](./344143-lego-indiana-jones-mobile-adventure.json) |
 | LEGO Indiana Jones: The Original Adventures | 189 | [189-lego-indiana-jones-the-original-adventures.json](./189-lego-indiana-jones-the-original-adventures.json) |
 | LEGO Indiana Jones: The Original Adventures / Kung Fu Panda | 142110 | [142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json](./142110-lego-indiana-jones-the-original-adventures-kung-fu-panda.json) |
 | LEGO Island | 5612 | [5612-lego-island.json](./5612-lego-island.json) |
@@ -3652,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilium | 128653 | [128653-lilium.json](./128653-lilium.json) |
 | Lilium: Kiss Me Everyday | 394621 | [394621-lilium-kiss-me-everyday.json](./394621-lilium-kiss-me-everyday.json) |
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
+| Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
@@ -6429,7 +6432,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Nurse | 245823 | [245823-lovely-nurse.json](./245823-lovely-nurse.json) |
 | Lovely Overseer | 139704 | [139704-lovely-overseer.json](./139704-lovely-overseer.json) |
 | Lovely Plains | 217402 | [217402-lovely-plains.json](./217402-lovely-plains.json) |
-| Lovely Planet | 14326 | [14326-lovely-planet.json](./14326-lovely-planet.json) |
 | Lovely Planet 2: April Skies | 119351 | [119351-lovely-planet-2-april-skies.json](./119351-lovely-planet-2-april-skies.json) |
 | Lovely Planet Arcade | 20112 | [20112-lovely-planet-arcade.json](./20112-lovely-planet-arcade.json) |
 | Lovely Planet Remix | 165030 | [165030-lovely-planet-remix.json](./165030-lovely-planet-remix.json) |
@@ -6965,7 +6967,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna: Obscura | 341493 | [341493-luna-obscura.json](./341493-luna-obscura.json) |
 | Luna: Shattered Hearts - Episode 1 | 36173 | [36173-luna-shattered-hearts-episode-1.json](./36173-luna-shattered-hearts-episode-1.json) |
 | Luna: Supernatural Hunter | 189103 | [189103-luna-supernatural-hunter.json](./189103-luna-supernatural-hunter.json) |
-| Luna: The Shadow Dust | 56463 | [56463-luna-the-shadow-dust.json](./56463-luna-the-shadow-dust.json) |
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
