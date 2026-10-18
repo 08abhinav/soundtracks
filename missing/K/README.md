@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kangaroo | 282068 | [282068-kangaroo.json](./282068-kangaroo.json) |
 | Kangaroo Court | 209437 | [209437-kangaroo-court.json](./209437-kangaroo-court.json) |
 | Kangaroo Court | 330172 | [330172-kangaroo-court.json](./330172-kangaroo-court.json) |
+| Kangaroo Jack: Airplane Game | 330031 | [330031-kangaroo-jack-airplane-game.json](./330031-kangaroo-jack-airplane-game.json) |
 | Kangarumble | 185149 | [185149-kangarumble.json](./185149-kangarumble.json) |
 | Kangho | 220280 | [220280-kangho.json](./220280-kangho.json) |
 | Kangnim2: Jecheondaeseong | 215834 | [215834-kangnim2-jecheondaeseong.json](./215834-kangnim2-jecheondaeseong.json) |
@@ -538,6 +539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
 | Kanmuri wo Motsu Kami no Te | 221932 | [221932-kanmuri-wo-motsu-kami-no-te.json](./221932-kanmuri-wo-motsu-kami-no-te.json) |
 | Kanna | 127735 | [127735-kanna.json](./127735-kanna.json) |
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
@@ -3060,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kizunare Fable | 336865 | [336865-kizunare-fable.json](./336865-kizunare-fable.json) |
 | Kizuyami | 267009 | [267009-kizuyami.json](./267009-kizuyami.json) |
 | KKHTA: Security Watch - The Second Part | 285151 | [285151-kkhta-security-watch-the-second-part.json](./285151-kkhta-security-watch-the-second-part.json) |
+| KKK or AKC? A Quiz by PETA | 330013 | [330013-kkk-or-akc-a-quiz-by-peta.json](./330013-kkk-or-akc-a-quiz-by-peta.json) |
 | KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTu Korea | 112247 | [112247-kkutu-korea.json](./112247-kkutu-korea.json) |
