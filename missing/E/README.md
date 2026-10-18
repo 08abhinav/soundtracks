@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elementaire | 297088 | [297088-elementaire.json](./297088-elementaire.json) |
 | Elemental | 230161 | [230161-elemental.json](./230161-elemental.json) |
 | Elemental | 290641 | [290641-elemental.json](./290641-elemental.json) |
+| Elemental | 325316 | [325316-elemental.json](./325316-elemental.json) |
 | Elemental | 351639 | [351639-elemental.json](./351639-elemental.json) |
 | Elemental | 95377 | [95377-elemental.json](./95377-elemental.json) |
 | Elemental Abyss | 128943 | [128943-elemental-abyss.json](./128943-elemental-abyss.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Them, Soldier! | 347690 | [347690-end-them-soldier.json](./347690-end-them-soldier.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
+| End's Reach | 325331 | [325331-ends-reach.json](./325331-ends-reach.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
 | Endangered Proposition | 119599 | [119599-endangered-proposition.json](./119599-endangered-proposition.json) |
 | Endarchy | 327340 | [327340-endarchy.json](./327340-endarchy.json) |
@@ -5226,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evopollution | 17313 | [17313-evopollution.json](./17313-evopollution.json) |
 | Evorales | 163020 | [163020-evorales.json](./163020-evorales.json) |
 | Evorevo | 236839 | [236839-evorevo.json](./236839-evorevo.json) |
+| Evoscape | 325301 | [325301-evoscape.json](./325301-evoscape.json) |
 | Evospace | 114069 | [114069-evospace.json](./114069-evospace.json) |
 | EvoSprout | 382288 | [382288-evosprout.json](./382288-evosprout.json) |
 | Evotales | 245884 | [245884-evotales.json](./245884-evotales.json) |
