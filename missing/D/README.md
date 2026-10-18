@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Box | 153885 | [153885-dead-box.json](./153885-dead-box.json) |
 | Dead But Alive! Southern England | 26469 | [26469-dead-but-alive-southern-england.json](./26469-dead-but-alive-southern-england.json) |
 | Dead by Backrooms Anomaly | 348462 | [348462-dead-by-backrooms-anomaly.json](./348462-dead-by-backrooms-anomaly.json) |
+| Dead By DayLight | 339698 | [339698-dead-by-daylight.json](./339698-dead-by-daylight.json) |
 | Dead by Daylight Mobile | 137700 | [137700-dead-by-daylight-mobile.json](./137700-dead-by-daylight-mobile.json) |
 | Dead by Daylight: A Binding of Kin Chapter | 168867 | [168867-dead-by-daylight-a-binding-of-kin-chapter.json](./168867-dead-by-daylight-a-binding-of-kin-chapter.json) |
 | Dead by Daylight: A Lullaby for the Dark Chapter | 76224 | [76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json](./76224-dead-by-daylight-a-lullaby-for-the-dark-chapter.json) |
@@ -5014,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus | 251590 | [251590-desert-bus.json](./251590-desert-bus.json) |
 | Desert Bus | 25792 | [25792-desert-bus.json](./25792-desert-bus.json) |
 | Desert Bus | 277307 | [277307-desert-bus.json](./277307-desert-bus.json) |
+| Desert Bus | 339700 | [339700-desert-bus.json](./339700-desert-bus.json) |
 | Desert Bus | 356780 | [356780-desert-bus.json](./356780-desert-bus.json) |
 | Desert Bus | 86206 | [86206-desert-bus.json](./86206-desert-bus.json) |
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
@@ -10087,6 +10089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Stone Battle Craft | 278451 | [278451-dr-stone-battle-craft.json](./278451-dr-stone-battle-craft.json) |
 | Dr. Stop! | 68730 | [68730-dr-stop.json](./68730-dr-stop.json) |
 | Dr. Sudoku | 49273 | [49273-dr-sudoku.json](./49273-dr-sudoku.json) |
+| Dr. Suun | 339701 | [339701-dr-suun.json](./339701-dr-suun.json) |
 | Dr. Tacocat | 120362 | [120362-dr-tacocat.json](./120362-dr-tacocat.json) |
 | Dr. Tomy | 40117 | [40117-dr-tomy.json](./40117-dr-tomy.json) |
 | Dr. Toppel's Tankentai | 40045 | [40045-dr-toppels-tankentai.json](./40045-dr-toppels-tankentai.json) |
@@ -11885,6 +11888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Homeicide | 280864 | [280864-driving-homeicide.json](./280864-driving-homeicide.json) |
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
 | Driving in Traffic | 107061 | [107061-driving-in-traffic.json](./107061-driving-in-traffic.json) |
+| Driving Life | 339678 | [339678-driving-life.json](./339678-driving-life.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
 | Driving Party | 372759 | [372759-driving-party.json](./372759-driving-party.json) |
 | Driving Pro: Island Delivery | 105779 | [105779-driving-pro-island-delivery.json](./105779-driving-pro-island-delivery.json) |
