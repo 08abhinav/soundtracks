@@ -7939,6 +7939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft World of Flight | 209514 | [209514-microsoft-world-of-flight.json](./209514-microsoft-world-of-flight.json) |
 | Microsoft: My Personal Tutor 1st & 2nd Grade | 144365 | [144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json](./144365-microsoft-my-personal-tutor-1st-and-2nd-grade.json) |
 | Microsoft: My Personal Tutor Preschool & Kindergarden | 144363 | [144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json](./144363-microsoft-my-personal-tutor-preschool-and-kindergarden.json) |
+| MicroSonic | 331734 | [331734-microsonic.json](./331734-microsonic.json) |
 | Microspace Invaders | 97442 | [97442-microspace-invaders.json](./97442-microspace-invaders.json) |
 | MicroSpy | 46486 | [46486-microspy.json](./46486-microspy.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
