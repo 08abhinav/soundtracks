@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack In Town | 129041 | [129041-jack-in-town.json](./129041-jack-in-town.json) |
 | Jack Is Missing | 108374 | [108374-jack-is-missing.json](./108374-jack-is-missing.json) |
 | Jack Jeanne | 117675 | [117675-jack-jeanne.json](./117675-jack-jeanne.json) |
+| Jack Jeanne 2 | 353636 | [353636-jack-jeanne-2.json](./353636-jack-jeanne-2.json) |
 | Jack Keane 2: The Fire Within | 10464 | [10464-jack-keane-2-the-fire-within.json](./10464-jack-keane-2-the-fire-within.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
@@ -466,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitor Bleeds | 144938 | [144938-janitor-bleeds.json](./144938-janitor-bleeds.json) |
 | Janitor Express | 104544 | [104544-janitor-express.json](./104544-janitor-express.json) |
 | Janitor Simulator | 178577 | [178577-janitor-simulator.json](./178577-janitor-simulator.json) |
+| Janitori | 353632 | [353632-janitori.json](./353632-janitori.json) |
 | Janitorial Escapism | 402428 | [402428-janitorial-escapism.json](./402428-janitorial-escapism.json) |
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
 | Jank Cube VR | 260568 | [260568-jank-cube-vr.json](./260568-jank-cube-vr.json) |
