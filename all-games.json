@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:01:03.612Z",
-  "total_soundtracks": 2142,
+  "generated_at": "2026-10-18T08:05:25.926Z",
+  "total_soundtracks": 2143,
   "games": [
     {
       "igdb_id": 7522,
@@ -871,6 +871,20 @@
         {
           "album_name": "Alto's Odyssey (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6cSKoN9FYxH3tRfM6AkAKE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10681,
+      "game_name": "Alwa's Awakening",
+      "game_url": "https://ostdb.net/games/alwas-awakening",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d7eada37592427566001c3f9",
+      "albums": [
+        {
+          "album_name": "Alwa's Awakening Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1jmsSLXsZ5CplSwC8ks11g",
           "apple_music_url": "",
           "album_link_url": ""
         }
