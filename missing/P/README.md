@@ -7474,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
+| Pocket Estimation | 317050 | [317050-pocket-estimation.json](./317050-pocket-estimation.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
@@ -7600,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
+| Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Volleyball | 180494 | [180494-pocket-volleyball.json](./180494-pocket-volleyball.json) |
