@@ -6201,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off 6: T-wave | 7068 | [7068-memories-off-6-t-wave.json](./7068-memories-off-6-t-wave.json) |
 | Memories Off Pure | 43974 | [43974-memories-off-pure.json](./43974-memories-off-pure.json) |
 | Memories Off Remake | 399438 | [399438-memories-off-remake.json](./399438-memories-off-remake.json) |
+| Memories Off Sousou: Break Out of My Shell | 353631 | [353631-memories-off-sousou-break-out-of-my-shell.json](./353631-memories-off-sousou-break-out-of-my-shell.json) |
 | Memories Off Sousou: Not Always True | 333791 | [333791-memories-off-sousou-not-always-true.json](./333791-memories-off-sousou-not-always-true.json) |
 | Memories Off: Festa | 37361 | [37361-memories-off-festa.json](./37361-memories-off-festa.json) |
 | Memories Off: Historia - Vol. 1 | 140386 | [140386-memories-off-historia-vol-1.json](./140386-memories-off-historia-vol-1.json) |
