@@ -8394,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kaiju Offensive | 117097 | [117097-the-kaiju-offensive.json](./117097-the-kaiju-offensive.json) |
 | The Kaiyo Mission | 238567 | [238567-the-kaiyo-mission.json](./238567-the-kaiyo-mission.json) |
 | The Kangaroo Conspiracy DX | 366224 | [366224-the-kangaroo-conspiracy-dx.json](./366224-the-kangaroo-conspiracy-dx.json) |
+| The Kantist | 314092 | [314092-the-kantist.json](./314092-the-kantist.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
 | The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
 | The Karate Kid: Street Rumble | 309026 | [309026-the-karate-kid-street-rumble.json](./309026-the-karate-kid-street-rumble.json) |
@@ -9351,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: The Wind Waker Multiplayer | 210653 | [210653-the-legend-of-zelda-the-wind-waker-multiplayer.json](./210653-the-legend-of-zelda-the-wind-waker-multiplayer.json) |
 | The Legend of Zelda: Third Quest | 150078 | [150078-the-legend-of-zelda-third-quest.json](./150078-the-legend-of-zelda-third-quest.json) |
 | The Legend of Zelda: Threads of Despair | 323274 | [323274-the-legend-of-zelda-threads-of-despair.json](./323274-the-legend-of-zelda-threads-of-despair.json) |
+| The Legend of Zelda: Time Lost | 314132 | [314132-the-legend-of-zelda-time-lost.json](./314132-the-legend-of-zelda-time-lost.json) |
 | The Legend of Zelda: Time Walker | 323277 | [323277-the-legend-of-zelda-time-walker.json](./323277-the-legend-of-zelda-time-walker.json) |
 | The Legend of Zelda: Tri Force Heroes | 11194 | [11194-the-legend-of-zelda-tri-force-heroes.json](./11194-the-legend-of-zelda-tri-force-heroes.json) |
 | The Legend of Zelda: Trident of Power | 262254 | [262254-the-legend-of-zelda-trident-of-power.json](./262254-the-legend-of-zelda-trident-of-power.json) |
@@ -12746,6 +12748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tall Wall Falls: The Inner Gate's Last Stand | 186171 | [186171-the-tall-wall-falls-the-inner-gates-last-stand.json](./186171-the-tall-wall-falls-the-inner-gates-last-stand.json) |
 | The Taller I Grow | 135598 | [135598-the-taller-i-grow.json](./135598-the-taller-i-grow.json) |
 | The Talos Principle II | 79864 | [79864-the-talos-principle-ii.json](./79864-the-talos-principle-ii.json) |
+| The Talos Principle II: Deluxe Edition | 314150 | [314150-the-talos-principle-ii-deluxe-edition.json](./314150-the-talos-principle-ii-deluxe-edition.json) |
 | The Talos Principle II: Devolver Deluxe Edition | 284476 | [284476-the-talos-principle-ii-devolver-deluxe-edition.json](./284476-the-talos-principle-ii-devolver-deluxe-edition.json) |
 | The Talos Principle II: Road to Elysium | 305040 | [305040-the-talos-principle-ii-road-to-elysium.json](./305040-the-talos-principle-ii-road-to-elysium.json) |
 | The Talos Principle III | 401496 | [401496-the-talos-principle-iii.json](./401496-the-talos-principle-iii.json) |
@@ -23886,6 +23889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Imperium Digital | 368136 | [368136-twilight-imperium-digital.json](./368136-twilight-imperium-digital.json) |
 | Twilight Infiniforest | 408161 | [408161-twilight-infiniforest.json](./408161-twilight-infiniforest.json) |
 | Twilight Insanity | 65485 | [65485-twilight-insanity.json](./65485-twilight-insanity.json) |
+| Twilight Kingdom | 314123 | [314123-twilight-kingdom.json](./314123-twilight-kingdom.json) |
 | Twilight Lovers | 298983 | [298983-twilight-lovers.json](./298983-twilight-lovers.json) |
 | Twilight Mahjongg | 73225 | [73225-twilight-mahjongg.json](./73225-twilight-mahjongg.json) |
 | Twilight Manor | 289929 | [289929-twilight-manor.json](./289929-twilight-manor.json) |
