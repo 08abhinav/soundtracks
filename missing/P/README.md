@@ -4812,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
+| Pillowfight Girls | 350196 | [350196-pillowfight-girls.json](./350196-pillowfight-girls.json) |
 | Pillowheads: It's Party Time | 137644 | [137644-pillowheads-its-party-time.json](./137644-pillowheads-its-party-time.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
+| Pocket Lint | 350227 | [350227-pocket-lint.json](./350227-pocket-lint.json) |
 | Pocket Lint Zero | 387645 | [387645-pocket-lint-zero.json](./387645-pocket-lint-zero.json) |
 | Pocket Lord | 377987 | [377987-pocket-lord.json](./377987-pocket-lord.json) |
 | Pocket Love | 192100 | [192100-pocket-love.json](./192100-pocket-love.json) |
@@ -9484,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Arena | 202546 | [202546-potato-arena.json](./202546-potato-arena.json) |
+| Potato Cop | 350221 | [350221-potato-cop.json](./350221-potato-cop.json) |
 | Potato Flowers in Full Bloom | 139252 | [139252-potato-flowers-in-full-bloom.json](./139252-potato-flowers-in-full-bloom.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
