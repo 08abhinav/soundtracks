@@ -6226,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole | 79160 | [79160-hole.json](./79160-hole.json) |
 | Hole ASMR | 399641 | [399641-hole-asmr.json](./399641-hole-asmr.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
+| Hole Digging Master | 339150 | [339150-hole-digging-master.json](./339150-hole-digging-master.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
 | Hole in One | 41794 | [41794-hole-in-one.json](./41794-hole-in-one.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
@@ -7637,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| HotCarts | 339143 | [339143-hotcarts.json](./339143-hotcarts.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotcorn | 381314 | [381314-hotcorn.json](./381314-hotcorn.json) |
