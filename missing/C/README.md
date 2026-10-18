@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico | 366427 | [366427-calico.json](./366427-calico.json) |
 | Calico & Co | 28793 | [28793-calico-and-co.json](./28793-calico-and-co.json) |
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
+| Calico: Neat Things | 330568 | [330568-calico-neat-things.json](./330568-calico-neat-things.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
@@ -12343,6 +12344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Map: Spot the Hidden Differences | 234625 | [234625-crime-map-spot-the-hidden-differences.json](./234625-crime-map-spot-the-hidden-differences.json) |
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
+| Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Patrol 2: Drug Wars | 4242 | [4242-crime-patrol-2-drug-wars.json](./4242-crime-patrol-2-drug-wars.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
