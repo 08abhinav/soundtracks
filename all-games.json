@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:36:36.828Z",
-  "total_soundtracks": 2166,
+  "generated_at": "2026-10-18T08:40:25.495Z",
+  "total_soundtracks": 2167,
   "games": [
     {
       "igdb_id": 7522,
@@ -3131,6 +3131,20 @@
         {
           "album_name": "Bodycam (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5QlIkL0n8DCBq785usYFrM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 2259,
+      "game_name": "Boom Blox",
+      "game_url": "https://ostdb.net/games/boom-blox",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738179526ddc5e10b9871b59fe",
+      "albums": [
+        {
+          "album_name": "Boom Blox (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2KJUYvoABt7cYxXxQ9sE7Q",
           "apple_music_url": "",
           "album_link_url": ""
         }
