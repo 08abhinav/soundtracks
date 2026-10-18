@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
 | Will | 333636 | [333636-will.json](./333636-will.json) |
+| Will & Dewitt: Pad-Hop Adventure | 330032 | [330032-will-and-dewitt-pad-hop-adventure.json](./330032-will-and-dewitt-pad-hop-adventure.json) |
 | Will Die Alone | 177398 | [177398-will-die-alone.json](./177398-will-die-alone.json) |
 | Will Glow the Wisp | 36978 | [36978-will-glow-the-wisp.json](./36978-will-glow-the-wisp.json) |
 | Will Hero | 92116 | [92116-will-hero.json](./92116-will-hero.json) |
@@ -4036,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
+| Willy Tournament 2004 | 329999 | [329999-willy-tournament-2004.json](./329999-willy-tournament-2004.json) |
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
 | Willy Wonka & The Chocolate Factory | 130786 | [130786-willy-wonka-and-the-chocolate-factory.json](./130786-willy-wonka-and-the-chocolate-factory.json) |
 | Willy-Nilly Knight | 29101 | [29101-willy-nilly-knight.json](./29101-willy-nilly-knight.json) |
