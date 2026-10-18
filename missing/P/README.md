@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
+| PACS: Post Apocalypse Courier Service | 323035 | [323035-pacs-post-apocalypse-courier-service.json](./323035-pacs-post-apocalypse-courier-service.json) |
 | Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
@@ -8062,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Emerald Horizons | 339967 | [339967-pokemon-emerald-horizons.json](./339967-pokemon-emerald-horizons.json) |
 | Pokémon Emerald Imperium | 329650 | [329650-pokemon-emerald-imperium.json](./329650-pokemon-emerald-imperium.json) |
 | Pokémon Emerald Kaizo | 172744 | [172744-pokemon-emerald-kaizo.json](./172744-pokemon-emerald-kaizo.json) |
+| Pokémon Emerald Legacy | 323041 | [323041-pokemon-emerald-legacy.json](./323041-pokemon-emerald-legacy.json) |
 | Pokémon Emerald Rogue | 221244 | [221244-pokemon-emerald-rogue.json](./221244-pokemon-emerald-rogue.json) |
 | Pokémon Emerald Rogue V2 | 308386 | [308386-pokemon-emerald-rogue-v2.json](./308386-pokemon-emerald-rogue-v2.json) |
 | Pokémon Emerald: Double Edition | 296449 | [296449-pokemon-emerald-double-edition.json](./296449-pokemon-emerald-double-edition.json) |
@@ -11578,6 +11580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Overkill | 20804 | [20804-project-overkill.json](./20804-project-overkill.json) |
 | Project Overnet | 272949 | [272949-project-overnet.json](./272949-project-overnet.json) |
 | Project Ozone 3 | 230348 | [230348-project-ozone-3.json](./230348-project-ozone-3.json) |
+| Project P | 323048 | [323048-project-p.json](./323048-project-p.json) |
 | Project P | 341445 | [341445-project-p.json](./341445-project-p.json) |
 | Project P.I.T.T. | 379356 | [379356-project-p-i-t-t.json](./379356-project-p-i-t-t.json) |
 | Project Paradise | 47089 | [47089-project-paradise.json](./47089-project-paradise.json) |
@@ -11689,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Subtrahend | 274948 | [274948-project-subtrahend.json](./274948-project-subtrahend.json) |
 | Project Suburbion | 183829 | [183829-project-suburbion.json](./183829-project-suburbion.json) |
 | Project Summit | 153376 | [153376-project-summit.json](./153376-project-summit.json) |
+| Project Superstar | 323047 | [323047-project-superstar.json](./323047-project-superstar.json) |
 | Project SXU | 330576 | [330576-project-sxu.json](./330576-project-sxu.json) |
 | Project T | 301327 | [301327-project-t.json](./301327-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
