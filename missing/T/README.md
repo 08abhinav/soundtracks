@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
+| TapKO | 336323 | [336323-tapko.json](./336323-tapko.json) |
 | TapLab | 233088 | [233088-taplab.json](./233088-taplab.json) |
 | TapMazing | 372046 | [372046-tapmazing.json](./372046-tapmazing.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
@@ -13989,6 +13990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
 | The Yellow Quiz | 114365 | [114365-the-yellow-quiz.json](./114365-the-yellow-quiz.json) |
+| The Yellow Sign | 336342 | [336342-the-yellow-sign.json](./336342-the-yellow-sign.json) |
 | The Yolk's on You | 40919 | [40919-the-yolks-on-you.json](./40919-the-yolks-on-you.json) |
 | The Yoshi Garden | 145477 | [145477-the-yoshi-garden.json](./145477-the-yoshi-garden.json) |
 | The You Quiz | 361757 | [361757-the-you-quiz.json](./361757-the-you-quiz.json) |
@@ -14624,6 +14626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorium Wars: Attack of the Skyfighter | 61511 | [61511-thorium-wars-attack-of-the-skyfighter.json](./61511-thorium-wars-attack-of-the-skyfighter.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
+| Thorn: Knight of the Fifteenth City | 336331 | [336331-thorn-knight-of-the-fifteenth-city.json](./336331-thorn-knight-of-the-fifteenth-city.json) |
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
@@ -21392,6 +21395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traitor Nightly | 183454 | [183454-traitor-nightly.json](./183454-traitor-nightly.json) |
 | Traitor's Kitchen | 372225 | [372225-traitors-kitchen.json](./372225-traitors-kitchen.json) |
 | Traitorous Trek | 263967 | [263967-traitorous-trek.json](./263967-traitorous-trek.json) |
+| Traitors | 336336 | [336336-traitors.json](./336336-traitors.json) |
 | Traitors Gate | 69786 | [69786-traitors-gate.json](./69786-traitors-gate.json) |
 | Traitors Gate 2 | 24107 | [24107-traitors-gate-2.json](./24107-traitors-gate-2.json) |
 | Traitors in Salem | 181143 | [181143-traitors-in-salem.json](./181143-traitors-in-salem.json) |
