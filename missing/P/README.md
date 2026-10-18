@@ -9600,7 +9600,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
-| Potion Permit | 155706 | [155706-potion-permit.json](./155706-potion-permit.json) |
 | Potion Permit: Christmas Tree | 366954 | [366954-potion-permit-christmas-tree.json](./366954-potion-permit-christmas-tree.json) |
 | Potion Permit: Complete DLC Bundle | 304803 | [304803-potion-permit-complete-dlc-bundle.json](./304803-potion-permit-complete-dlc-bundle.json) |
 | Potion Permit: Complete Edition | 285665 | [285665-potion-permit-complete-edition.json](./285665-potion-permit-complete-edition.json) |
