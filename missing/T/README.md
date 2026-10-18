@@ -20629,6 +20629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Digital Deluxe Edition | 106008 | [106008-train-sim-world-digital-deluxe-edition.json](./106008-train-sim-world-digital-deluxe-edition.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
+| Train Simulator | 312425 | [312425-train-simulator.json](./312425-train-simulator.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
 | Train Simulator 2013 | 5546 | [5546-train-simulator-2013.json](./5546-train-simulator-2013.json) |
 | Train Simulator 2014 | 5545 | [5545-train-simulator-2014.json](./5545-train-simulator-2014.json) |
@@ -22143,6 +22144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree of Savior: Neverland | 327392 | [327392-tree-of-savior-neverland.json](./327392-tree-of-savior-neverland.json) |
 | Tree Simulator 2021 | 230253 | [230253-tree-simulator-2021.json](./230253-tree-simulator-2021.json) |
 | Tree Simulator 2022 | 152372 | [152372-tree-simulator-2022.json](./152372-tree-simulator-2022.json) |
+| Tree Simulator 2024 | 312419 | [312419-tree-simulator-2024.json](./312419-tree-simulator-2024.json) |
 | Tree Spade Truck | 90670 | [90670-tree-spade-truck.json](./90670-tree-spade-truck.json) |
 | Tree Strike | 151612 | [151612-tree-strike.json](./151612-tree-strike.json) |
 | Tree World | 225749 | [225749-tree-world.json](./225749-tree-world.json) |
