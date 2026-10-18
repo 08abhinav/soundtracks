@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Slayers | 285952 | [285952-night-of-the-slayers.json](./285952-night-of-the-slayers.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
+| Night of the Witch's Invasion | 330026 | [330026-night-of-the-witchs-invasion.json](./330026-night-of-the-witchs-invasion.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
 | Night of the X-mas Trees | 415247 | [415247-night-of-the-x-mas-trees.json](./415247-night-of-the-x-mas-trees.json) |
 | Night of Wolves | 257968 | [257968-night-of-wolves.json](./257968-night-of-wolves.json) |
