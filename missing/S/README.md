@@ -20210,6 +20210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fight Club Simulator | 373837 | [373837-street-fight-club-simulator.json](./373837-street-fight-club-simulator.json) |
 | Street Fighter 2010: The Final Fight | 45196 | [45196-street-fighter-2010-the-final-fight.json](./45196-street-fighter-2010-the-final-fight.json) |
 | Street Fighter 30th Anniversary Collection: International | 298020 | [298020-street-fighter-30th-anniversary-collection-international.json](./298020-street-fighter-30th-anniversary-collection-international.json) |
+| Street Fighter 5: Guile | 324177 | [324177-street-fighter-5-guile.json](./324177-street-fighter-5-guile.json) |
 | Street Fighter 6 | 343673 | [343673-street-fighter-6.json](./343673-street-fighter-6.json) |
 | Street Fighter 6: Additional Character - Alex | 347693 | [347693-street-fighter-6-additional-character-alex.json](./347693-street-fighter-6-additional-character-alex.json) |
 | Street Fighter 6: Additional Character - Alex & Outfit 2 | 375149 | [375149-street-fighter-6-additional-character-alex-and-outfit-2.json](./375149-street-fighter-6-additional-character-alex-and-outfit-2.json) |
