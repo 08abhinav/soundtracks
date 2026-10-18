@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Complete + | 324466 | [324466-hentai-girls-complete.json](./324466-hentai-girls-complete.json) |
 | Hentai Girls: Contact | 281523 | [281523-hentai-girls-contact.json](./281523-hentai-girls-contact.json) |
 | Hentai Girls: Crazy Cowgirl | 317284 | [317284-hentai-girls-crazy-cowgirl.json](./317284-hentai-girls-crazy-cowgirl.json) |
+| Hentai Girls: Daring Detective | 342401 | [342401-hentai-girls-daring-detective.json](./342401-hentai-girls-daring-detective.json) |
 | Hentai Girls: Definitive Edition | 273319 | [273319-hentai-girls-definitive-edition.json](./273319-hentai-girls-definitive-edition.json) |
 | Hentai Girls: Deluxe Edition | 254644 | [254644-hentai-girls-deluxe-edition.json](./254644-hentai-girls-deluxe-edition.json) |
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Marvelous Magician | 332493 | [332493-hentai-girls-marvelous-magician.json](./332493-hentai-girls-marvelous-magician.json) |
+| Hentai Girls: Naughty Astronaut | 342402 | [342402-hentai-girls-naughty-astronaut.json](./342402-hentai-girls-naughty-astronaut.json) |
 | Hentai Girls: Naughty Gamer | 292159 | [292159-hentai-girls-naughty-gamer.json](./292159-hentai-girls-naughty-gamer.json) |
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
 | Hentai Girls: Obon Love | 313220 | [313220-hentai-girls-obon-love.json](./313220-hentai-girls-obon-love.json) |
@@ -3788,11 +3790,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
+| Hentai Puzzle: Cyber Girls | 342403 | [342403-hentai-puzzle-cyber-girls.json](./342403-hentai-puzzle-cyber-girls.json) |
 | Hentai Puzzle: Doki Doki Dress-Up | 420690 | [420690-hentai-puzzle-doki-doki-dress-up.json](./420690-hentai-puzzle-doki-doki-dress-up.json) |
 | Hentai Puzzle: Girls | 304562 | [304562-hentai-puzzle-girls.json](./304562-hentai-puzzle-girls.json) |
 | Hentai Puzzle: Lustful Legends | 340444 | [340444-hentai-puzzle-lustful-legends.json](./340444-hentai-puzzle-lustful-legends.json) |
+| Hentai Puzzle: Muscular Guys | 342404 | [342404-hentai-puzzle-muscular-guys.json](./342404-hentai-puzzle-muscular-guys.json) |
 | Hentai Puzzle: Naughty Nurses | 340445 | [340445-hentai-puzzle-naughty-nurses.json](./340445-hentai-puzzle-naughty-nurses.json) |
 | Hentai Puzzle: Tropical Seduction | 340446 | [340446-hentai-puzzle-tropical-seduction.json](./340446-hentai-puzzle-tropical-seduction.json) |
+| Hentai Puzzle: Volleyball Girls | 342400 | [342400-hentai-puzzle-volleyball-girls.json](./342400-hentai-puzzle-volleyball-girls.json) |
 | Hentai Puzzle: Winter Passion | 340447 | [340447-hentai-puzzle-winter-passion.json](./340447-hentai-puzzle-winter-passion.json) |
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
@@ -5485,6 +5490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway | 367840 | [367840-highway.json](./367840-highway.json) |
 | Highway 11 | 377230 | [377230-highway-11.json](./377230-highway-11.json) |
 | Highway 2000 | 46097 | [46097-highway-2000.json](./46097-highway-2000.json) |
+| Highway Bikers: Moto Racing Simulator | 342405 | [342405-highway-bikers-moto-racing-simulator.json](./342405-highway-bikers-moto-racing-simulator.json) |
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
 | Highway Cleaner | 234607 | [234607-highway-cleaner.json](./234607-highway-cleaner.json) |
@@ -5888,6 +5894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit A Plane | 325066 | [325066-hit-a-plane.json](./325066-hit-a-plane.json) |
 | Hit and Boom | 211811 | [211811-hit-and-boom.json](./211811-hit-and-boom.json) |
 | Hit Back | 143658 | [143658-hit-back.json](./143658-hit-back.json) |
+| Hit Back | 342406 | [342406-hit-back.json](./342406-hit-back.json) |
 | Hit Him | 195254 | [195254-hit-him.json](./195254-hit-him.json) |
 | Hit Hit Alaska | 326607 | [326607-hit-hit-alaska.json](./326607-hit-hit-alaska.json) |
 | Hit Idol | 343213 | [343213-hit-idol.json](./343213-hit-idol.json) |
@@ -8611,6 +8618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno | 375154 | [375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json](./375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json) |
+| Hunter x Hunter: Nen x Impact - Deluxe Edition | 342407 | [342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json](./342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json) |
+| Hunter x Hunter: Nen x Impact - Season Pass 1 | 342408 | [342408-hunter-x-hunter-nen-x-impact-season-pass-1.json](./342408-hunter-x-hunter-nen-x-impact-season-pass-1.json) |
 | Hunter X Hunter: Ubawareta Aura Stone | 60606 | [60606-hunter-x-hunter-ubawareta-aura-stone.json](./60606-hunter-x-hunter-ubawareta-aura-stone.json) |
 | Hunter X Hunter: Wonder Adventure | 60605 | [60605-hunter-x-hunter-wonder-adventure.json](./60605-hunter-x-hunter-wonder-adventure.json) |
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
