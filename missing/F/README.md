@@ -6521,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight | 316255 | [316255-food-fight.json](./316255-food-fight.json) |
 | Food Fight | 357318 | [357318-food-fight.json](./357318-food-fight.json) |
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
+| Food Fight: Culinary Combat | 325901 | [325901-food-fight-culinary-combat.json](./325901-food-fight-culinary-combat.json) |
 | Food For Pigs | 235308 | [235308-food-for-pigs.json](./235308-food-for-pigs.json) |
 | Food Force | 70363 | [70363-food-force.json](./70363-food-force.json) |
 | Food Frenzy | 209465 | [209465-food-frenzy.json](./209465-food-frenzy.json) |
@@ -7911,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
 | Foxes Need to Eat | 265864 | [265864-foxes-need-to-eat.json](./265864-foxes-need-to-eat.json) |
+| Foxes' Festival | 325909 | [325909-foxes-festival.json](./325909-foxes-festival.json) |
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
