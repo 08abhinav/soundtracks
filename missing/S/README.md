@@ -646,6 +646,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Mori Dreamers | 75788 | [75788-sakura-no-mori-dreamers.json](./75788-sakura-no-mori-dreamers.json) |
 | Sakura no Mori Dreamers 2 | 114824 | [114824-sakura-no-mori-dreamers-2.json](./114824-sakura-no-mori-dreamers-2.json) |
 | Sakura no Sora to, Kimi no Koto: Sweet Petals For My Dear | 213832 | [213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json](./213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json) |
+| Sakura no Uta Re:Graphic - 10th Anniversary Edition | 355959 | [355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json](./355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json) |
+| Sakura no Uta Re:Graphic - Append Disc | 355964 | [355964-sakura-no-uta-re-graphic-append-disc.json](./355964-sakura-no-uta-re-graphic-append-disc.json) |
 | Sakura no Uta: Sakura no Mori no Ue wo Mau | 135568 | [135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json](./135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json) |
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
@@ -3949,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
+| Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
 | Sense of Darkness | 310104 | [310104-sense-of-darkness.json](./310104-sense-of-darkness.json) |
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
@@ -12947,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophonce | 211278 | [211278-sophonce.json](./211278-sophonce.json) |
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
+| Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
 | Sora | 18569 | [18569-sora.json](./18569-sora.json) |
 | Sora no Ao to Shiro to | 368646 | [368646-sora-no-ao-to-shiro-to.json](./368646-sora-no-ao-to-shiro-to.json) |
 | Sora no Fudousan | 112523 | [112523-sora-no-fudousan.json](./112523-sora-no-fudousan.json) |
@@ -16301,6 +16305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Springtastic Match | 359402 | [359402-springtastic-match.json](./359402-springtastic-match.json) |
 | Springtime Hike | 264231 | [264231-springtime-hike.json](./264231-springtime-hike.json) |
 | Springtime Puzzle | 359403 | [359403-springtime-puzzle.json](./359403-springtime-puzzle.json) |
+| Springuins | 355869 | [355869-springuins.json](./355869-springuins.json) |
 | Springy | 141600 | [141600-springy.json](./141600-springy.json) |
 | Springy: A Bounce Adventure | 216876 | [216876-springy-a-bounce-adventure.json](./216876-springy-a-bounce-adventure.json) |
 | Sprinkfield | 241333 | [241333-sprinkfield.json](./241333-sprinkfield.json) |
@@ -22079,6 +22084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dodge Ball SNES Port | 377232 | [377232-super-dodge-ball-snes-port.json](./377232-super-dodge-ball-snes-port.json) |
 | Super Dodgeball Brawlers | 21052 | [21052-super-dodgeball-brawlers.json](./21052-super-dodgeball-brawlers.json) |
 | Super Dog Adventure | 398898 | [398898-super-dog-adventure.json](./398898-super-dog-adventure.json) |
+| Super Dog Booby | 355897 | [355897-super-dog-booby.json](./355897-super-dog-booby.json) |
 | Super Dogfight | 64931 | [64931-super-dogfight.json](./64931-super-dogfight.json) |
 | Super Doggo Snack Time | 101080 | [101080-super-doggo-snack-time.json](./101080-super-doggo-snack-time.json) |
 | Super Doll Licca-chan: Kisekae Daisakusen | 233024 | [233024-super-doll-licca-chan-kisekae-daisakusen.json](./233024-super-doll-licca-chan-kisekae-daisakusen.json) |
@@ -23672,6 +23678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
+| Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
