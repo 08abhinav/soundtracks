@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires Dawn: Reign of Blood | 80475 | [80475-vampires-dawn-reign-of-blood.json](./80475-vampires-dawn-reign-of-blood.json) |
 | Vampires Die | 346630 | [346630-vampires-die.json](./346630-vampires-die.json) |
 | Vampires Fable | 316731 | [316731-vampires-fable.json](./316731-vampires-fable.json) |
+| Vampires in your area | 330018 | [330018-vampires-in-your-area.json](./330018-vampires-in-your-area.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
