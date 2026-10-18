@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
 | 3D Puzzle: Farming 2 | 274644 | [274644-3d-puzzle-farming-2.json](./274644-3d-puzzle-farming-2.json) |
+| 3D Puzzle: Flooded Grounds | 309716 | [309716-3d-puzzle-flooded-grounds.json](./309716-3d-puzzle-flooded-grounds.json) |
 | 3D Puzzle: Gas Station | 357759 | [357759-3d-puzzle-gas-station.json](./357759-3d-puzzle-gas-station.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Harbor | 270863 | [270863-3d-puzzle-harbor.json](./270863-3d-puzzle-harbor.json) |
