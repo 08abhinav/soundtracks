@@ -13851,6 +13851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
 | The Wrestling Game | 368474 | [368474-the-wrestling-game.json](./368474-the-wrestling-game.json) |
+| The Writ | 362019 | [362019-the-writ.json](./362019-the-writ.json) |
 | The Writer Is Anxious | 142713 | [142713-the-writer-is-anxious.json](./142713-the-writer-is-anxious.json) |
 | The Writer Will Do Something | 128420 | [128420-the-writer-will-do-something.json](./128420-the-writer-will-do-something.json) |
 | The Writer: A Change of Identity | 31087 | [31087-the-writer-a-change-of-identity.json](./31087-the-writer-a-change-of-identity.json) |
@@ -22542,6 +22543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 6: Return to Nature | 334642 | [334642-tropico-6-return-to-nature.json](./334642-tropico-6-return-to-nature.json) |
 | Tropico 6: Spitter | 155172 | [155172-tropico-6-spitter.json](./155172-tropico-6-spitter.json) |
 | Tropico 6: Tropican Shores | 305525 | [305525-tropico-6-tropican-shores.json](./305525-tropico-6-tropican-shores.json) |
+| Tropico 7 | 362040 | [362040-tropico-7.json](./362040-tropico-7.json) |
 | Tropico Jong: Butterfly Expedition | 416177 | [416177-tropico-jong-butterfly-expedition.json](./416177-tropico-jong-butterfly-expedition.json) |
 | Tropico Reloaded | 53861 | [53861-tropico-reloaded.json](./53861-tropico-reloaded.json) |
 | Tropico Trilogy | 53860 | [53860-tropico-trilogy.json](./53860-tropico-trilogy.json) |
