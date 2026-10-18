@@ -10277,6 +10277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
 | Pretty x Cation 2 | 333415 | [333415-pretty-x-cation-2.json](./333415-pretty-x-cation-2.json) |
 | Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
+| Prettyboy Inc. is Hiring! | 318858 | [318858-prettyboy-inc-is-hiring.json](./318858-prettyboy-inc-is-hiring.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
