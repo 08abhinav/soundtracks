@@ -502,6 +502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
 | A Lively Haunt | 265099 | [265099-a-lively-haunt.json](./265099-a-lively-haunt.json) |
 | A Living Room | 293082 | [293082-a-living-room.json](./293082-a-living-room.json) |
+| A Loddle to the Left | 324193 | [324193-a-loddle-to-the-left.json](./324193-a-loddle-to-the-left.json) |
 | A Lonely Cabin Trip | 237065 | [237065-a-lonely-cabin-trip.json](./237065-a-lonely-cabin-trip.json) |
 | A Loney | 207765 | [207765-a-loney.json](./207765-a-loney.json) |
 | A Long Journey to an Uncertain End | 140296 | [140296-a-long-journey-to-an-uncertain-end.json](./140296-a-long-journey-to-an-uncertain-end.json) |
@@ -2275,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Puzzles: Hentai Halloween | 286458 | [286458-adult-puzzles-hentai-halloween.json](./286458-adult-puzzles-hentai-halloween.json) |
 | Adult Puzzles: Hentai NightClub | 286455 | [286455-adult-puzzles-hentai-nightclub.json](./286455-adult-puzzles-hentai-nightclub.json) |
 | Adult Puzzles: Pole Dancer | 286457 | [286457-adult-puzzles-pole-dancer.json](./286457-adult-puzzles-pole-dancer.json) |
+| Adult Sheriff | 324154 | [324154-adult-sheriff.json](./324154-adult-sheriff.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Frog : Poket Frogs | 223962 | [223962-amazing-frog-poket-frogs.json](./223962-amazing-frog-poket-frogs.json) |
 | Amazing Frog Simulator City | 86921 | [86921-amazing-frog-simulator-city.json](./86921-amazing-frog-simulator-city.json) |
 | Amazing Frog: In the City | 96058 | [96058-amazing-frog-in-the-city.json](./96058-amazing-frog-in-the-city.json) |
+| Amazing Garden | 324155 | [324155-amazing-garden.json](./324155-amazing-garden.json) |
 | Amazing Gardens | 344366 | [344366-amazing-gardens.json](./344366-amazing-gardens.json) |
 | Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
 | Amazing Hidden Object Games 3 Pack: Paranormal Mysteries | 202054 | [202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json](./202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json) |
@@ -7256,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
 | Anime Girls: Gacha Game | 405649 | [405649-anime-girls-gacha-game.json](./405649-anime-girls-gacha-game.json) |
+| Anime Girls: Graceful Goddess | 324194 | [324194-anime-girls-graceful-goddess.json](./324194-anime-girls-graceful-goddess.json) |
 | Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
 | Anime Girls: JDM Car Passion Puzzle | 336409 | [336409-anime-girls-jdm-car-passion-puzzle.json](./336409-anime-girls-jdm-car-passion-puzzle.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
@@ -7517,6 +7521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoldor | 181300 | [181300-anoldor.json](./181300-anoldor.json) |
 | Anolock | 211433 | [211433-anolock.json](./211433-anolock.json) |
 | Anoma | 399681 | [399681-anoma.json](./399681-anoma.json) |
+| Anomalarity: A Distributive Allegory | 324180 | [324180-anomalarity-a-distributive-allegory.json](./324180-anomalarity-a-distributive-allegory.json) |
 | Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
@@ -10003,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arms | 26759 | [26759-arms.json](./26759-arms.json) |
 | Arms Dealer Simulator | 406056 | [406056-arms-dealer-simulator.json](./406056-arms-dealer-simulator.json) |
 | Arms Devicer S!! | 82895 | [82895-arms-devicer-s.json](./82895-arms-devicer-s.json) |
+| Arms of God | 324148 | [324148-arms-of-god.json](./324148-arms-of-god.json) |
 | Arms of Telos | 65839 | [65839-arms-of-telos.json](./65839-arms-of-telos.json) |
 | Arms Race 2 | 236420 | [236420-arms-race-2.json](./236420-arms-race-2.json) |
 | Arms Race: TCWE | 29691 | [29691-arms-race-tcwe.json](./29691-arms-race-tcwe.json) |
