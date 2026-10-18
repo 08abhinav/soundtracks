@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Dead: Crimson Heights | 404913 | [404913-into-the-dead-crimson-heights.json](./404913-into-the-dead-crimson-heights.json) |
 | Into the Dead: Our Darkest Days | 230366 | [230366-into-the-dead-our-darkest-days.json](./230366-into-the-dead-our-darkest-days.json) |
 | Into the Deep Web | 184608 | [184608-into-the-deep-web.json](./184608-into-the-deep-web.json) |
+| Into the Depth of the Sky | 318825 | [318825-into-the-depth-of-the-sky.json](./318825-into-the-depth-of-the-sky.json) |
 | Into The Depths | 287741 | [287741-into-the-depths.json](./287741-into-the-depths.json) |
 | Into The Depths | 329522 | [329522-into-the-depths.json](./329522-into-the-depths.json) |
 | Into The Depths | 372049 | [372049-into-the-depths.json](./372049-into-the-depths.json) |
