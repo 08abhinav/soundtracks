@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
+| Balls of Life | 313546 | [313546-balls-of-life.json](./313546-balls-of-life.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
 | Balls of Steel | 285147 | [285147-balls-of-steel.json](./285147-balls-of-steel.json) |
 | Balls of Steel Community Project | 229708 | [229708-balls-of-steel-community-project.json](./229708-balls-of-steel-community-project.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
+| Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barn & Farm Renovator | 152984 | [152984-barn-and-farm-renovator.json](./152984-barn-and-farm-renovator.json) |
@@ -4501,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belial Wars | 234351 | [234351-belial-wars.json](./234351-belial-wars.json) |
 | Belief & Betrayal | 21459 | [21459-belief-and-betrayal.json](./21459-belief-and-betrayal.json) |
 | Believe | 165632 | [165632-believe.json](./165632-believe.json) |
+| Believer Clubhouse | 313581 | [313581-believer-clubhouse.json](./313581-believer-clubhouse.json) |
 | Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
@@ -11854,6 +11857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
 | Bubble Bobble | 194443 | [194443-bubble-bobble.json](./194443-bubble-bobble.json) |
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
+| Bubble Bobble | 313543 | [313543-bubble-bobble.json](./313543-bubble-bobble.json) |
 | Bubble Bobble | 332216 | [332216-bubble-bobble.json](./332216-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
