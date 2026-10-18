@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeepney Frenzy | 176468 | [176468-jeepney-frenzy.json](./176468-jeepney-frenzy.json) |
 | Jeepney Simulator | 255994 | [255994-jeepney-simulator.json](./255994-jeepney-simulator.json) |
 | Jeepney Simulator 2 | 292301 | [292301-jeepney-simulator-2.json](./292301-jeepney-simulator-2.json) |
+| Jeepney Stories | 320611 | [320611-jeepney-stories.json](./320611-jeepney-stories.json) |
 | Jeeps Offroad Simulator | 220045 | [220045-jeeps-offroad-simulator.json](./220045-jeeps-offroad-simulator.json) |
 | Jef | 128254 | [128254-jef.json](./128254-jef.json) |
 | Jefe, La Cuenta | 310679 | [310679-jefe-la-cuenta.json](./310679-jefe-la-cuenta.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Slide 2 | 180617 | [180617-just-slide-2.json](./180617-just-slide-2.json) |
 | Just Snowboarding | 86798 | [86798-just-snowboarding.json](./86798-just-snowboarding.json) |
 | Just Spin | 125727 | [125727-just-spin.json](./125727-just-spin.json) |
+| Just Squat | 320586 | [320586-just-squat.json](./320586-just-squat.json) |
 | Just Stack | 291695 | [291695-just-stack.json](./291695-just-stack.json) |
 | Just Survival: The Zombie Awakening | 212217 | [212217-just-survival-the-zombie-awakening.json](./212217-just-survival-the-zombie-awakening.json) |
 | Just Survive | 18093 | [18093-just-survive.json](./18093-just-survive.json) |
