@@ -3149,6 +3149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eon Trooper | 253962 | [253962-eon-trooper.json](./253962-eon-trooper.json) |
 | Eon's Insomnium | 372833 | [372833-eons-insomnium.json](./372833-eons-insomnium.json) |
 | Eona | 355025 | [355025-eona.json](./355025-eona.json) |
+| Eonheart | 309738 | [309738-eonheart.json](./309738-eonheart.json) |
 | Eonia | 97180 | [97180-eonia.json](./97180-eonia.json) |
 | Eonia Revelations | 259172 | [259172-eonia-revelations.json](./259172-eonia-revelations.json) |
 | Eons Lost: Arrival | 185038 | [185038-eons-lost-arrival.json](./185038-eons-lost-arrival.json) |
