@@ -8511,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
 | Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
+| PokerBall | 313533 | [313533-pokerball.json](./313533-pokerball.json) |
 | Pokerchinko | 362593 | [362593-pokerchinko.json](./362593-pokerchinko.json) |
 | Pokeringo Bingo | 209348 | [209348-pokeringo-bingo.json](./209348-pokeringo-bingo.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
