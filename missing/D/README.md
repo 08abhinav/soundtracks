@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date Senbei | 412450 | [412450-date-senbei.json](./412450-date-senbei.json) |
 | Date Teacher | 397193 | [397193-date-teacher.json](./397193-date-teacher.json) |
 | Date the Difference | 392299 | [392299-date-the-difference.json](./392299-date-the-difference.json) |
+| Date The Dude | 342491 | [342491-date-the-dude.json](./342491-date-the-dude.json) |
 | Date Time: Melissa, Morris, Anna | 244166 | [244166-date-time-melissa-morris-anna.json](./244166-date-time-melissa-morris-anna.json) |
 | Date Treat | 146520 | [146520-date-treat.json](./146520-date-treat.json) |
 | Date Us, You Won't | 215229 | [215229-date-us-you-wont.json](./215229-date-us-you-wont.json) |
