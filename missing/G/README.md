@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Reavers | 24411 | [24411-galaxy-reavers.json](./24411-galaxy-reavers.json) |
 | Galaxy Revo: Remake | 247488 | [247488-galaxy-revo-remake.json](./247488-galaxy-revo-remake.json) |
 | Galaxy Roll | 358429 | [358429-galaxy-roll.json](./358429-galaxy-roll.json) |
+| Galaxy Rush | 310834 | [310834-galaxy-rush.json](./310834-galaxy-rush.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
@@ -761,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallop Glory: Obstacle Racing & Horse Simulator | 300726 | [300726-gallop-glory-obstacle-racing-and-horse-simulator.json](./300726-gallop-glory-obstacle-racing-and-horse-simulator.json) |
 | Gallop Racer | 13659 | [13659-gallop-racer.json](./13659-gallop-racer.json) |
 | Gallop Racer | 310697 | [310697-gallop-racer.json](./310697-gallop-racer.json) |
+| Gallop Racer | 310805 | [310805-gallop-racer.json](./310805-gallop-racer.json) |
 | Gallop Racer 2001 | 20144 | [20144-gallop-racer-2001.json](./20144-gallop-racer-2001.json) |
 | Gallop Racer 2003: A New Breed | 20145 | [20145-gallop-racer-2003-a-new-breed.json](./20145-gallop-racer-2003-a-new-breed.json) |
 | Gallop Racer 2004 | 20146 | [20146-gallop-racer-2004.json](./20146-gallop-racer-2004.json) |
@@ -886,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game de Raku-raku Nou-tre | 251521 | [251521-game-de-raku-raku-nou-tre.json](./251521-game-de-raku-raku-nou-tre.json) |
 | Game de Seishun | 131320 | [131320-game-de-seishun.json](./131320-game-de-seishun.json) |
 | Game Design at WVU Arcade | 408025 | [408025-game-design-at-wvu-arcade.json](./408025-game-design-at-wvu-arcade.json) |
+| Game Designer Simulator | 310812 | [310812-game-designer-simulator.json](./310812-game-designer-simulator.json) |
 | Game Dev Company | 153490 | [153490-game-dev-company.json](./153490-game-dev-company.json) |
 | Game Dev Fantasy | 245877 | [245877-game-dev-fantasy.json](./245877-game-dev-fantasy.json) |
 | Game Dev Masters | 146909 | [146909-game-dev-masters.json](./146909-game-dev-masters.json) |
@@ -4695,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Treasure: The Great Green | 117849 | [117849-golden-treasure-the-great-green.json](./117849-golden-treasure-the-great-green.json) |
 | Golden Voyage | 18525 | [18525-golden-voyage.json](./18525-golden-voyage.json) |
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
+| Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | Goldeneye Doom2 | 196026 | [196026-goldeneye-doom2.json](./196026-goldeneye-doom2.json) |
@@ -5254,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gori: Cuddly Carnage - Special Edition | 315867 | [315867-gori-cuddly-carnage-special-edition.json](./315867-gori-cuddly-carnage-special-edition.json) |
 | Gori: Cuddly Carnage: Catbox Skin Pack | 357268 | [357268-gori-cuddly-carnage-catbox-skin-pack.json](./357268-gori-cuddly-carnage-catbox-skin-pack.json) |
 | Gori: Cuddly Carnage: PlayTime Skin Pack | 357267 | [357267-gori-cuddly-carnage-playtime-skin-pack.json](./357267-gori-cuddly-carnage-playtime-skin-pack.json) |
+| Gorilla Adventure | 310802 | [310802-gorilla-adventure.json](./310802-gorilla-adventure.json) |
 | Gorilla Attack | 329000 | [329000-gorilla-attack.json](./329000-gorilla-attack.json) |
 | Gorilla Banana | 375451 | [375451-gorilla-banana.json](./375451-gorilla-banana.json) |
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
@@ -6083,6 +6088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviteam Tactics: Operation Star - Zhalanashkol 1969 | 54061 | [54061-graviteam-tactics-operation-star-zhalanashkol-1969.json](./54061-graviteam-tactics-operation-star-zhalanashkol-1969.json) |
 | Gravitee 2 | 293351 | [293351-gravitee-2.json](./293351-gravitee-2.json) |
 | Gravitee Wars | 245575 | [245575-gravitee-wars.json](./245575-gravitee-wars.json) |
+| Gravitee Wars | 310833 | [310833-gravitee-wars.json](./310833-gravitee-wars.json) |
 | Gravitee Wars Online | 95940 | [95940-gravitee-wars-online.json](./95940-gravitee-wars-online.json) |
 | Graviter | 417310 | [417310-graviter.json](./417310-graviter.json) |
 | Gravitia | 285909 | [285909-gravitia.json](./285909-gravitia.json) |
