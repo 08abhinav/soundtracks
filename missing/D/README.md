@@ -2454,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: Return to Castlevania Edition | 270582 | [270582-dead-cells-return-to-castlevania-edition.json](./270582-dead-cells-return-to-castlevania-edition.json) |
 | Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
+| Dead Cells: The End Is Near | 314131 | [314131-dead-cells-the-end-is-near.json](./314131-dead-cells-the-end-is-near.json) |
 | Dead Cells: The Fatal Seed Bundle | 154957 | [154957-dead-cells-the-fatal-seed-bundle.json](./154957-dead-cells-the-fatal-seed-bundle.json) |
 | Dead Cells: The Queen and the Sea | 183128 | [183128-dead-cells-the-queen-and-the-sea.json](./183128-dead-cells-the-queen-and-the-sea.json) |
 | Dead Charge | 365541 | [365541-dead-charge.json](./365541-dead-charge.json) |
