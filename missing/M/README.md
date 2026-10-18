@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Inc. | 249692 | [249692-mafia-inc.json](./249692-mafia-inc.json) |
 | Mafia Infiltration | 379044 | [379044-mafia-infiltration.json](./379044-mafia-infiltration.json) |
 | Mafia King | 220167 | [220167-mafia-king.json](./220167-mafia-king.json) |
+| Mafia Life Simulator | 312447 | [312447-mafia-life-simulator.json](./312447-mafia-life-simulator.json) |
 | Mafia Live! | 78327 | [78327-mafia-live.json](./78327-mafia-live.json) |
 | Mafia Online | 266991 | [266991-mafia-online.json](./266991-mafia-online.json) |
 | Mafia Online | 403813 | [403813-mafia-online.json](./403813-mafia-online.json) |
@@ -13000,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing | 88493 | [88493-motorbike-racing.json](./88493-motorbike-racing.json) |
 | Motorbike Racing Bundle | 226786 | [226786-motorbike-racing-bundle.json](./226786-motorbike-racing-bundle.json) |
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
+| Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
 | Motorbikes Pro 2025: Superior Edition | 410857 | [410857-motorbikes-pro-2025-superior-edition.json](./410857-motorbikes-pro-2025-superior-edition.json) |
