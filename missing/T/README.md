@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tansaki Katamichi no Uchuu Tansaku | 206453 | [206453-tansaki-katamichi-no-uchuu-tansaku.json](./206453-tansaki-katamichi-no-uchuu-tansaku.json) |
 | Tǎnshuài de Xiǎohóngmào hé Ài Shuōhuǎng de Láng | 128330 | [128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json](./128330-tanshuai-de-xiaohongmao-he-ai-shuohuang-de-lang.json) |
 | Tantal | 159801 | [159801-tantal.json](./159801-tantal.json) |
+| Tantalus | 330577 | [330577-tantalus.json](./330577-tantalus.json) |
 | Tantalus | 377197 | [377197-tantalus.json](./377197-tantalus.json) |
 | Tantei Gakuen Q: Kioukan no Satsui | 359064 | [359064-tantei-gakuen-q-kioukan-no-satsui.json](./359064-tantei-gakuen-q-kioukan-no-satsui.json) |
 | Tantei Gakuen Q: Kyuukyoku no Trick ni Idome! | 49824 | [49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json](./49824-tantei-gakuen-q-kyuukyoku-no-trick-ni-idome.json) |
@@ -2842,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
 | Temporal Cross | 310211 | [310211-temporal-cross.json](./310211-temporal-cross.json) |
 | Temporal Deadzone | 323420 | [323420-temporal-deadzone.json](./323420-temporal-deadzone.json) |
+| Temporal Distortion: Discovery | 330598 | [330598-temporal-distortion-discovery.json](./330598-temporal-distortion-discovery.json) |
 | Temporal Gunslinger | 338308 | [338308-temporal-gunslinger.json](./338308-temporal-gunslinger.json) |
 | Temporal Odyssey | 277406 | [277406-temporal-odyssey.json](./277406-temporal-odyssey.json) |
 | Temporal Purge: Z | 154378 | [154378-temporal-purge-z.json](./154378-temporal-purge-z.json) |
@@ -5988,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
+| The Demon's Room | 330580 | [330580-the-demons-room.json](./330580-the-demons-room.json) |
 | The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
@@ -6700,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falling Nights | 36481 | [36481-the-falling-nights.json](./36481-the-falling-nights.json) |
 | The Falling Star | 344441 | [344441-the-falling-star.json](./344441-the-falling-star.json) |
 | The Falling Sun | 36167 | [36167-the-falling-sun.json](./36167-the-falling-sun.json) |
+| The Fallow City | 330578 | [330578-the-fallow-city.json](./330578-the-fallow-city.json) |
 | The False Alice: Retold Tale | 371528 | [371528-the-false-alice-retold-tale.json](./371528-the-false-alice-retold-tale.json) |
 | The Fame Game: Welcome to Hollywood | 362303 | [362303-the-fame-game-welcome-to-hollywood.json](./362303-the-fame-game-welcome-to-hollywood.json) |
 | The Family | 218652 | [218652-the-family.json](./218652-the-family.json) |
@@ -8112,6 +8116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interview | 35786 | [35786-the-interview.json](./35786-the-interview.json) |
 | The Intruder | 174706 | [174706-the-intruder.json](./174706-the-intruder.json) |
 | The Intruder | 265600 | [265600-the-intruder.json](./265600-the-intruder.json) |
+| The Invading Dark | 330572 | [330572-the-invading-dark.json](./330572-the-invading-dark.json) |
 | The Invasion 2 | 268038 | [268038-the-invasion-2.json](./268038-the-invasion-2.json) |
 | The Invasion of Area 51 | 130871 | [130871-the-invasion-of-area-51.json](./130871-the-invasion-of-area-51.json) |
 | The Invention of "Q" | 383660 | [383660-the-invention-of-q.json](./383660-the-invention-of-q.json) |
@@ -8926,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Z VR | 247610 | [247610-the-last-z-vr.json](./247610-the-last-z-vr.json) |
 | The Last Zeppelin | 418575 | [418575-the-last-zeppelin.json](./418575-the-last-zeppelin.json) |
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
+| The Late Arrival | 330504 | [330504-the-late-arrival.json](./330504-the-late-arrival.json) |
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
 | The Launching Section | 275825 | [275825-the-launching-section.json](./275825-the-launching-section.json) |
@@ -9225,6 +9231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Mirror of Worlds | 412171 | [412171-the-legend-of-zelda-mirror-of-worlds.json](./412171-the-legend-of-zelda-mirror-of-worlds.json) |
 | The Legend of Zelda: Mystery of Solarus DX | 243615 | [243615-the-legend-of-zelda-mystery-of-solarus-dx.json](./243615-the-legend-of-zelda-mystery-of-solarus-dx.json) |
 | The Legend of Zelda: Mystery of Solarus XD | 46620 | [46620-the-legend-of-zelda-mystery-of-solarus-xd.json](./46620-the-legend-of-zelda-mystery-of-solarus-xd.json) |
+| The Legend of Zelda: Navi’s Quest | 330579 | [330579-the-legend-of-zelda-navi-s-quest.json](./330579-the-legend-of-zelda-navi-s-quest.json) |
 | The Legend of Zelda: Netherforce Shards | 322785 | [322785-the-legend-of-zelda-netherforce-shards.json](./322785-the-legend-of-zelda-netherforce-shards.json) |
 | The Legend of Zelda: New Beginnings | 322102 | [322102-the-legend-of-zelda-new-beginnings.json](./322102-the-legend-of-zelda-new-beginnings.json) |
 | The Legend of Zelda: Nightmare | 255387 | [255387-the-legend-of-zelda-nightmare.json](./255387-the-legend-of-zelda-nightmare.json) |
@@ -12009,6 +12016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Bundle Pack 5 | 136140 | [136140-the-sims-4-bundle-pack-5.json](./136140-the-sims-4-bundle-pack-5.json) |
 | The Sims 4: Bundle Pack 6 | 159329 | [159329-the-sims-4-bundle-pack-6.json](./159329-the-sims-4-bundle-pack-6.json) |
 | The Sims 4: Business Chic Kit | 330394 | [330394-the-sims-4-business-chic-kit.json](./330394-the-sims-4-business-chic-kit.json) |
+| The Sims 4: Businesses & Hobbies | 330597 | [330597-the-sims-4-businesses-and-hobbies.json](./330597-the-sims-4-businesses-and-hobbies.json) |
 | The Sims 4: Bust the Dust Kit | 151112 | [151112-the-sims-4-bust-the-dust-kit.json](./151112-the-sims-4-bust-the-dust-kit.json) |
 | The Sims 4: Casanova Cave Kit | 330393 | [330393-the-sims-4-casanova-cave-kit.json](./330393-the-sims-4-casanova-cave-kit.json) |
 | The Sims 4: Castle Estate Kit | 285667 | [285667-the-sims-4-castle-estate-kit.json](./285667-the-sims-4-castle-estate-kit.json) |
@@ -22856,6 +22864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Loader 3 | 268634 | [268634-truck-loader-3.json](./268634-truck-loader-3.json) |
 | Truck Loader 4 | 268643 | [268643-truck-loader-4.json](./268643-truck-loader-4.json) |
 | Truck Loader 5 | 268645 | [268645-truck-loader-5.json](./268645-truck-loader-5.json) |
+| Truck Mechanic Sim 2025 | 330610 | [330610-truck-mechanic-sim-2025.json](./330610-truck-mechanic-sim-2025.json) |
 | Truck Mechanic Simulator | 147848 | [147848-truck-mechanic-simulator.json](./147848-truck-mechanic-simulator.json) |
 | Truck Mechanic Simulator 2015 | 36188 | [36188-truck-mechanic-simulator-2015.json](./36188-truck-mechanic-simulator-2015.json) |
 | Truck Mechanic: Dangerous Paths | 134668 | [134668-truck-mechanic-dangerous-paths.json](./134668-truck-mechanic-dangerous-paths.json) |
