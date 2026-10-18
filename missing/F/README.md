@@ -2716,6 +2716,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Us 4 | 327185 | [327185-feed-us-4.json](./327185-feed-us-4.json) |
 | Feed Us Happy | 393518 | [393518-feed-us-happy.json](./393518-feed-us-happy.json) |
 | Feed Us V | 327190 | [327190-feed-us-v.json](./327190-feed-us-v.json) |
+| Feed Us: Lost Island | 328295 | [328295-feed-us-lost-island.json](./328295-feed-us-lost-island.json) |
+| Feed Us: Pirates | 328293 | [328293-feed-us-pirates.json](./328293-feed-us-pirates.json) |
 | Feed your cat | 334473 | [334473-feed-your-cat.json](./334473-feed-your-cat.json) |
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
