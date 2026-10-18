@@ -4608,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Girl Got Killed | 212185 | [212185-witch-girl-got-killed.json](./212185-witch-girl-got-killed.json) |
 | Witch Guardians: Quest for the Ancestral Magic | 309036 | [309036-witch-guardians-quest-for-the-ancestral-magic.json](./309036-witch-guardians-quest-for-the-ancestral-magic.json) |
 | Witch Halloween | 127913 | [127913-witch-halloween.json](./127913-witch-halloween.json) |
+| Witch Halloween Dollhouse | 318282 | [318282-witch-halloween-dollhouse.json](./318282-witch-halloween-dollhouse.json) |
 | Witch Hat & Ears of Cat | 225553 | [225553-witch-hat-and-ears-of-cat.json](./225553-witch-hat-and-ears-of-cat.json) |
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
