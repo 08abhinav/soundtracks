@@ -3559,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Flame | 188358 | [188358-global-flame.json](./188358-global-flame.json) |
 | Global Folktale | 254538 | [254538-global-folktale.json](./254538-global-folktale.json) |
 | Global Football | 402377 | [402377-global-football.json](./402377-global-football.json) |
+| Global Force | 343702 | [343702-global-force.json](./343702-global-force.json) |
 | Global Fortune | 119604 | [119604-global-fortune.json](./119604-global-fortune.json) |
 | Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
 | Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
@@ -7935,6 +7936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
+| Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
 | Guns, Blocks, and Steel | 326239 | [326239-guns-blocks-and-steel.json](./326239-guns-blocks-and-steel.json) |
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
