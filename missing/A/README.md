@@ -7178,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
 | Anime Codex: Whispered Lips | 411150 | [411150-anime-codex-whispered-lips.json](./411150-anime-codex-whispered-lips.json) |
 | Anime Dance-Off: Around the World | 325009 | [325009-anime-dance-off-around-the-world.json](./325009-anime-dance-off-around-the-world.json) |
+| Anime Dance-Off: Dungeons and Dancers | 336410 | [336410-anime-dance-off-dungeons-and-dancers.json](./336410-anime-dance-off-dungeons-and-dancers.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
@@ -7225,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
 | Anime Girls: Gacha Game | 405649 | [405649-anime-girls-gacha-game.json](./405649-anime-girls-gacha-game.json) |
 | Anime Girls: Highschool of Dead | 283291 | [283291-anime-girls-highschool-of-dead.json](./283291-anime-girls-highschool-of-dead.json) |
+| Anime Girls: JDM Car Passion Puzzle | 336409 | [336409-anime-girls-jdm-car-passion-puzzle.json](./336409-anime-girls-jdm-car-passion-puzzle.json) |
 | Anime Girls: Lady Liberty | 314880 | [314880-anime-girls-lady-liberty.json](./314880-anime-girls-lady-liberty.json) |
 | Anime Girls: Natty New Year | 328572 | [328572-anime-girls-natty-new-year.json](./328572-anime-girls-natty-new-year.json) |
 | Anime Girls: Natty Nurse | 319782 | [319782-anime-girls-natty-nurse.json](./319782-anime-girls-natty-nurse.json) |
@@ -12229,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Feint II: Tower Puzzles | 67694 | [67694-aurora-feint-ii-tower-puzzles.json](./67694-aurora-feint-ii-tower-puzzles.json) |
 | Aurora Heights | 374762 | [374762-aurora-heights.json](./374762-aurora-heights.json) |
 | Aurora Hex: Pattern Puzzles | 117616 | [117616-aurora-hex-pattern-puzzles.json](./117616-aurora-hex-pattern-puzzles.json) |
+| Aurora Light Pony: Ponies and Horses in the Valley of Stars | 336408 | [336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json](./336408-aurora-light-pony-ponies-and-horses-in-the-valley-of-stars.json) |
 | Aurora Memoria: Philosophical Data Session 2093 | 75146 | [75146-aurora-memoria-philosophical-data-session-2093.json](./75146-aurora-memoria-philosophical-data-session-2093.json) |
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
@@ -13024,6 +13027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Dreams | 228476 | [228476-azure-dreams.json](./228476-azure-dreams.json) |
 | Azure Dreams | 6545 | [6545-azure-dreams.json](./6545-azure-dreams.json) |
 | Azure Flame | 333179 | [333179-azure-flame.json](./333179-azure-flame.json) |
+| Azure Haven | 336407 | [336407-azure-haven.json](./336407-azure-haven.json) |
 | Azure Hue | 336553 | [336553-azure-hue.json](./336553-azure-hue.json) |
 | Azure Influx | 322397 | [322397-azure-influx.json](./322397-azure-influx.json) |
 | Azure Orphanage | 249212 | [249212-azure-orphanage.json](./249212-azure-orphanage.json) |
