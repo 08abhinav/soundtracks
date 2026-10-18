@@ -3314,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
+| KnightLight | 312999 | [312999-knightlight.json](./312999-knightlight.json) |
 | Knightly Gnomes | 309508 | [309508-knightly-gnomes.json](./309508-knightly-gnomes.json) |
 | Knightly Peak | 408504 | [408504-knightly-peak.json](./408504-knightly-peak.json) |
 | Knightly Routine | 244125 | [244125-knightly-routine.json](./244125-knightly-routine.json) |
