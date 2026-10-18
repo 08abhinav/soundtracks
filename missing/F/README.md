@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
 | False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
+| False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
 | False Shelter | 28785 | [28785-false-shelter.json](./28785-false-shelter.json) |
 | False Vows, True Love: In a Night Full of Lies | 181646 | [181646-false-vows-true-love-in-a-night-full-of-lies.json](./181646-false-vows-true-love-in-a-night-full-of-lies.json) |
 | Falseflash | 401497 | [401497-falseflash.json](./401497-falseflash.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingerbox | 401628 | [401628-fingerbox.json](./401628-fingerbox.json) |
 | Fingercrafts | 216259 | [216259-fingercrafts.json](./216259-fingercrafts.json) |
 | Fingernail Floss | 257917 | [257917-fingernail-floss.json](./257917-fingernail-floss.json) |
+| Fingers Malone | 330014 | [330014-fingers-malone.json](./330014-fingers-malone.json) |
 | Fingers of Fury | 195508 | [195508-fingers-of-fury.json](./195508-fingers-of-fury.json) |
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
