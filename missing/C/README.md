@@ -5748,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
+| Christmas Escape Toy | 317090 | [317090-christmas-escape-toy.json](./317090-christmas-escape-toy.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
 | Christmas Eve: Midnight's Call - Collector's Edition | 30201 | [30201-christmas-eve-midnights-call-collectors-edition.json](./30201-christmas-eve-midnights-call-collectors-edition.json) |
 | Christmas Fables: Holiday Guardians | 417586 | [417586-christmas-fables-holiday-guardians.json](./417586-christmas-fables-holiday-guardians.json) |
@@ -7477,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
 | Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
 | Clone Drone in the Hyperdome | 322126 | [322126-clone-drone-in-the-hyperdome.json](./322126-clone-drone-in-the-hyperdome.json) |
+| Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
@@ -10539,6 +10541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
 | Corn Mission | 183578 | [183578-corn-mission.json](./183578-corn-mission.json) |
+| Cornbread PNG | 317068 | [317068-cornbread-png.json](./317068-cornbread-png.json) |
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
@@ -13214,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Tours and Tournaments | 240894 | [240894-crusader-kings-iii-tours-and-tournaments.json](./240894-crusader-kings-iii-tours-and-tournaments.json) |
 | Crusader Kings III: Wandering Nobles | 352847 | [352847-crusader-kings-iii-wandering-nobles.json](./352847-crusader-kings-iii-wandering-nobles.json) |
 | Crusader Kings III: Wards & Wardens | 292107 | [292107-crusader-kings-iii-wards-and-wardens.json](./292107-crusader-kings-iii-wards-and-wardens.json) |
+| Crusader of Aurium | 317058 | [317058-crusader-of-aurium.json](./317058-crusader-of-aurium.json) |
 | Crusader of Centy | 4552 | [4552-crusader-of-centy.json](./4552-crusader-of-centy.json) |
 | Crusader: Adventure Out of Time | 72113 | [72113-crusader-adventure-out-of-time.json](./72113-crusader-adventure-out-of-time.json) |
 | Crusader: Dungeon Series | 197273 | [197273-crusader-dungeon-series.json](./197273-crusader-dungeon-series.json) |
