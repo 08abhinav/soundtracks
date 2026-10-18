@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Celestial Vale | 25028 | [25028-celestial-vale.json](./25028-celestial-vale.json) |
 | Celestial-World 2.0 | 130805 | [130805-celestial-world-2-0.json](./130805-celestial-world-2-0.json) |
+| Celestials Door | 310287 | [310287-celestials-door.json](./310287-celestials-door.json) |
 | Celestials Door | 380070 | [380070-celestials-door.json](./380070-celestials-door.json) |
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
@@ -5044,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Fraction | 94687 | [94687-chicken-fraction.json](./94687-chicken-fraction.json) |
 | Chicken Freeze! | 206968 | [206968-chicken-freeze.json](./206968-chicken-freeze.json) |
 | Chicken Fries | 377072 | [377072-chicken-fries.json](./377072-chicken-fries.json) |
+| Chicken Game | 310255 | [310255-chicken-game.json](./310255-chicken-game.json) |
 | Chicken Grow | 363967 | [363967-chicken-grow.json](./363967-chicken-grow.json) |
 | Chicken Gun | 413002 | [413002-chicken-gun.json](./413002-chicken-gun.json) |
 | Chicken Hill | 324310 | [324310-chicken-hill.json](./324310-chicken-hill.json) |
@@ -8330,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColdFortune | 204231 | [204231-coldfortune.json](./204231-coldfortune.json) |
 | Coldline | 227913 | [227913-coldline.json](./227913-coldline.json) |
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
+| ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
@@ -11928,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
 | Crazy Bigheads | 88001 | [88001-crazy-bigheads.json](./88001-crazy-bigheads.json) |
 | Crazy Bike | 412995 | [412995-crazy-bike.json](./412995-crazy-bike.json) |
+| Crazy Bike Hill Racing | 310283 | [310283-crazy-bike-hill-racing.json](./310283-crazy-bike-hill-racing.json) |
 | Crazy Bikers 2 | 94883 | [94883-crazy-bikers-2.json](./94883-crazy-bikers-2.json) |
 | Crazy Bill: Smashing Zelebrities at the Zombie Stars Hotel | 175875 | [175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json](./175875-crazy-bill-smashing-zelebrities-at-the-zombie-stars-hotel.json) |
 | Crazy BMX World | 147780 | [147780-crazy-bmx-world.json](./147780-crazy-bmx-world.json) |
