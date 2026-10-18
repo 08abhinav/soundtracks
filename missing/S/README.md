@@ -10626,6 +10626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapdragon | 118947 | [118947-snapdragon.json](./118947-snapdragon.json) |
 | Snapimals | 96832 | [96832-snapimals.json](./96832-snapimals.json) |
 | Snapkid's | 49812 | [49812-snapkids.json](./49812-snapkids.json) |
+| Snapped Distance | 362580 | [362580-snapped-distance.json](./362580-snapped-distance.json) |
 | Snapper | 13757 | [13757-snapper.json](./13757-snapper.json) |
 | Snapper | 312320 | [312320-snapper.json](./312320-snapper.json) |
 | SnappleNoid | 61601 | [61601-snapplenoid.json](./61601-snapplenoid.json) |
