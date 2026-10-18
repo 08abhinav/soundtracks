@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
 | Ergenekon | 378430 | [378430-ergenekon.json](./378430-ergenekon.json) |
 | Ergo | 152799 | [152799-ergo.json](./152799-ergo.json) |
+| Ergo Sum | 354816 | [354816-ergo-sum.json](./354816-ergo-sum.json) |
 | Eri | 116282 | [116282-eri.json](./116282-eri.json) |
 | Eric & Yannik X | 318519 | [318519-eric-and-yannik-x.json](./318519-eric-and-yannik-x.json) |
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
