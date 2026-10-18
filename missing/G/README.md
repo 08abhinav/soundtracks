@@ -5153,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
 | Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
+| Gophirith the Mirror Master | 334449 | [334449-gophirith-the-mirror-master.json](./334449-gophirith-the-mirror-master.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
 | Gopnik | 153461 | [153461-gopnik.json](./153461-gopnik.json) |
 | Gopnik Simulator | 100399 | [100399-gopnik-simulator.json](./100399-gopnik-simulator.json) |
@@ -6113,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity in Space | 168664 | [168664-gravity-in-space.json](./168664-gravity-in-space.json) |
 | Gravity Island | 34010 | [34010-gravity-island.json](./34010-gravity-island.json) |
 | Gravity Jump | 102950 | [102950-gravity-jump.json](./102950-gravity-jump.json) |
+| Gravity Jump | 334537 | [334537-gravity-jump.json](./334537-gravity-jump.json) |
 | Gravity Kid | 171601 | [171601-gravity-kid.json](./171601-gravity-kid.json) |
 | Gravity Knight | 413008 | [413008-gravity-knight.json](./413008-gravity-knight.json) |
 | Gravity Lab | 135116 | [135116-gravity-lab.json](./135116-gravity-lab.json) |
@@ -7138,6 +7140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
+| Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
