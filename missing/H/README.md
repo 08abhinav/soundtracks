@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
+| Hazardous Hunt | 345822 | [345822-hazardous-hunt.json](./345822-hazardous-hunt.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
@@ -4642,6 +4643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexBat | 250814 | [250814-hexbat.json](./250814-hexbat.json) |
 | Hexborn | 366729 | [366729-hexborn.json](./366729-hexborn.json) |
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
+| Hexbotica | 345814 | [345814-hexbotica.json](./345814-hexbotica.json) |
 | Hexbound | 345412 | [345412-hexbound.json](./345412-hexbound.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexcavator | 333029 | [333029-hexcavator.json](./333029-hexcavator.json) |
@@ -8239,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugh's Dream | 135797 | [135797-hughs-dream.json](./135797-hughs-dream.json) |
 | Huglings | 388756 | [388756-huglings.json](./388756-huglings.json) |
 | Hugo | 204887 | [204887-hugo.json](./204887-hugo.json) |
+| Hugo | 345839 | [345839-hugo.json](./345839-hugo.json) |
 | Hugo | 91858 | [91858-hugo.json](./91858-hugo.json) |
 | Hugo 2 | 64505 | [64505-hugo-2.json](./64505-hugo-2.json) |
 | Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
