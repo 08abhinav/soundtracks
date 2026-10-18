@@ -2159,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
 | Casanova Simulator | 373085 | [373085-casanova-simulator.json](./373085-casanova-simulator.json) |
 | Casanova: The Duel of the Black Rose | 71708 | [71708-casanova-the-duel-of-the-black-rose.json](./71708-casanova-the-duel-of-the-black-rose.json) |
+| Cascada | 349186 | [349186-cascada.json](./349186-cascada.json) |
 | Cascade | 128645 | [128645-cascade.json](./128645-cascade.json) |
 | Cascade | 352412 | [352412-cascade.json](./352412-cascade.json) |
 | Cascade | 380053 | [380053-cascade.json](./380053-cascade.json) |
@@ -2750,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Herder | 219736 | [219736-cat-herder.json](./219736-cat-herder.json) |
 | Cat Heroes | 299394 | [299394-cat-heroes.json](./299394-cat-heroes.json) |
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
+| Cat Home | 349086 | [349086-cat-home.json](./349086-cat-home.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
 | Cat in Japan | 95987 | [95987-cat-in-japan.json](./95987-cat-in-japan.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
@@ -7154,6 +7156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click to Continue | 343847 | [343847-click-to-continue.json](./343847-click-to-continue.json) |
 | Click To Eleven | 298656 | [298656-click-to-eleven.json](./298656-click-to-eleven.json) |
 | Click to Obsolete | 413167 | [413167-click-to-obsolete.json](./413167-click-to-obsolete.json) |
+| Click to Punch | 349102 | [349102-click-to-punch.json](./349102-click-to-punch.json) |
 | Click to Sail | 218703 | [218703-click-to-sail.json](./218703-click-to-sail.json) |
 | Click to Survive | 179946 | [179946-click-to-survive.json](./179946-click-to-survive.json) |
 | Click to Ten | 227971 | [227971-click-to-ten.json](./227971-click-to-ten.json) |
