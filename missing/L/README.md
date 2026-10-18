@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Robo | 331305 | [331305-lil-robo.json](./331305-lil-robo.json) |
+| Lil' Satan's Cake Quest | 334456 | [334456-lil-satans-cake-quest.json](./334456-lil-satans-cake-quest.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
@@ -3923,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingo voor Kinderen | 327318 | [327318-lingo-voor-kinderen.json](./327318-lingo-voor-kinderen.json) |
 | LingoRogue | 356296 | [356296-lingorogue.json](./356296-lingorogue.json) |
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
+| LingTian 2: Your Destined Prince | 334525 | [334525-lingtian-2-your-destined-prince.json](./334525-lingtian-2-your-destined-prince.json) |
 | LingTian1 | 292995 | [292995-lingtian1.json](./292995-lingtian1.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
