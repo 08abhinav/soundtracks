@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
 | Taz Express | 3345 | [3345-taz-express.json](./3345-taz-express.json) |
 | Taz in Escape From Mars | 8065 | [8065-taz-in-escape-from-mars.json](./8065-taz-in-escape-from-mars.json) |
+| Taz-Mania | 341846 | [341846-taz-mania.json](./341846-taz-mania.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
 | Taz-Mania | 8066 | [8066-taz-mania.json](./8066-taz-mania.json) |
 | Taz-Mania | 83904 | [83904-taz-mania.json](./83904-taz-mania.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
+| The Bumblezone | 341930 | [341930-the-bumblezone.json](./341930-the-bumblezone.json) |
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
@@ -5840,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Daunting House | 152469 | [152469-the-daunting-house.json](./152469-the-daunting-house.json) |
 | The Dawn | 284349 | [284349-the-dawn.json](./284349-the-dawn.json) |
+| The Dawn Era | 341941 | [341941-the-dawn-era.json](./341941-the-dawn-era.json) |
 | The Dawn is Inevitable | 249461 | [249461-the-dawn-is-inevitable.json](./249461-the-dawn-is-inevitable.json) |
 | The Dawn Obscura | 341494 | [341494-the-dawn-obscura.json](./341494-the-dawn-obscura.json) |
 | The Dawn Of Slenderman | 321358 | [321358-the-dawn-of-slenderman.json](./321358-the-dawn-of-slenderman.json) |
@@ -7165,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Garden Gate Pai Sho | 320849 | [320849-the-garden-gate-pai-sho.json](./320849-the-garden-gate-pai-sho.json) |
 | The Garden of Hades | 231464 | [231464-the-garden-of-hades.json](./231464-the-garden-of-hades.json) |
 | The Garden of Hermeneus | 347349 | [347349-the-garden-of-hermeneus.json](./347349-the-garden-of-hermeneus.json) |
+| The Garden of the Gods | 341848 | [341848-the-garden-of-the-gods.json](./341848-the-garden-of-the-gods.json) |
 | The Garden of Youth | 394595 | [394595-the-garden-of-youth.json](./394595-the-garden-of-youth.json) |
 | The Garden Path | 145482 | [145482-the-garden-path.json](./145482-the-garden-path.json) |
 | The Garden Pub | 117449 | [117449-the-garden-pub.json](./117449-the-garden-pub.json) |
@@ -12050,6 +12054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Storybook Nursery Kit | 317647 | [317647-the-sims-4-storybook-nursery-kit.json](./317647-the-sims-4-storybook-nursery-kit.json) |
 | The Sims 4: StrangerVille | 116594 | [116594-the-sims-4-strangerville.json](./116594-the-sims-4-strangerville.json) |
 | The Sims 4: Stuff Bundle | 159340 | [159340-the-sims-4-stuff-bundle.json](./159340-the-sims-4-stuff-bundle.json) |
+| The Sims 4: Sweet Allure Kit | 341861 | [341861-the-sims-4-sweet-allure-kit.json](./341861-the-sims-4-sweet-allure-kit.json) |
 | The Sims 4: Sweet Slumber Party Kit | 330390 | [330390-the-sims-4-sweet-slumber-party-kit.json](./330390-the-sims-4-sweet-slumber-party-kit.json) |
 | The Sims 4: Tea Time Solarium Kit | 404224 | [404224-the-sims-4-tea-time-solarium-kit.json](./404224-the-sims-4-tea-time-solarium-kit.json) |
 | The Sims 4: The Daring Lifestyle Bundle | 249484 | [249484-the-sims-4-the-daring-lifestyle-bundle.json](./249484-the-sims-4-the-daring-lifestyle-bundle.json) |
@@ -12068,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims Online | 13152 | [13152-the-sims-online.json](./13152-the-sims-online.json) |
 | The Sims Pool | 67873 | [67873-the-sims-pool.json](./67873-the-sims-pool.json) |
 | The Sims Social | 15748 | [15748-the-sims-social.json](./15748-the-sims-social.json) |
+| The Sims: 4 Sleek Bathroom Kit | 341860 | [341860-the-sims-4-sleek-bathroom-kit.json](./341860-the-sims-4-sleek-bathroom-kit.json) |
 | The Sims: Bowling | 72891 | [72891-the-sims-bowling.json](./72891-the-sims-bowling.json) |
 | The Sims: Complete Collection | 45116 | [45116-the-sims-complete-collection.json](./45116-the-sims-complete-collection.json) |
 | The Sims: Deluxe Edition | 45115 | [45115-the-sims-deluxe-edition.json](./45115-the-sims-deluxe-edition.json) |
@@ -12309,6 +12315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
+| The Spirit Engine DX | 341855 | [341855-the-spirit-engine-dx.json](./341855-the-spirit-engine-dx.json) |
 | The Spirit in the Woods | 201505 | [201505-the-spirit-in-the-woods.json](./201505-the-spirit-in-the-woods.json) |
 | The Spirit Lift | 217312 | [217312-the-spirit-lift.json](./217312-the-spirit-lift.json) |
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
@@ -22958,6 +22965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
+| Try Them All! | 341852 | [341852-try-them-all.json](./341852-try-them-all.json) |
 | Try to Catch Me! | 372741 | [372741-try-to-catch-me.json](./372741-try-to-catch-me.json) |
 | Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
@@ -23315,6 +23323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
 | Tuōlājī | 112838 | [112838-tuolaji.json](./112838-tuolaji.json) |
+| Tuōlājī Dàzhàn | 341841 | [341841-tuolaji-dazhan.json](./341841-tuolaji-dazhan.json) |
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tupã | 46480 | [46480-tupa.json](./46480-tupa.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
