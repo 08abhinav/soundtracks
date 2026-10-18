@@ -12539,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Master: The Game | 224610 | [224610-puppet-master-the-game.json](./224610-puppet-master-the-game.json) |
 | Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
+| Puppet Master: The Game - Demonic Toys: Blood and Stitches Skin Pack | 354208 | [354208-puppet-master-the-game-demonic-toys-blood-and-stitches-skin-pack.json](./354208-puppet-master-the-game-demonic-toys-blood-and-stitches-skin-pack.json) |
 | Puppet Master: The Game - Movie Edition Blade + Execution | 278400 | [278400-puppet-master-the-game-movie-edition-blade-execution.json](./278400-puppet-master-the-game-movie-edition-blade-execution.json) |
 | Puppet Pals | 381413 | [381413-puppet-pals.json](./381413-puppet-pals.json) |
 | Puppet Saurus | 330793 | [330793-puppet-saurus.json](./330793-puppet-saurus.json) |
