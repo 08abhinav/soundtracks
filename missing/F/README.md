@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Battle 2 | 216131 | [216131-fields-of-battle-2.json](./216131-fields-of-battle-2.json) |
 | Fields of Fortune | 345456 | [345456-fields-of-fortune.json](./345456-fields-of-fortune.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
+| Fields of Gold | 318816 | [318816-fields-of-gold.json](./318816-fields-of-gold.json) |
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
 | Fields of Malice | 349121 | [349121-fields-of-malice.json](./349121-fields-of-malice.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
@@ -8292,6 +8293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
 | Frebbventure | 215240 | [215240-frebbventure.json](./215240-frebbventure.json) |
 | Frebbventure Alliance | 316172 | [316172-frebbventure-alliance.json](./316172-frebbventure-alliance.json) |
+| Freckles | 318875 | [318875-freckles.json](./318875-freckles.json) |
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
 | Fred Figglehorn | 261966 | [261966-fred-figglehorn.json](./261966-fred-figglehorn.json) |
@@ -9044,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
 | From the Depths | 9632 | [9632-from-the-depths.json](./9632-from-the-depths.json) |
+| From The Dust | 318853 | [318853-from-the-dust.json](./318853-from-the-dust.json) |
 | From The Forgotten | 340262 | [340262-from-the-forgotten.json](./340262-from-the-forgotten.json) |
 | From the life of a thief | 398652 | [398652-from-the-life-of-a-thief.json](./398652-from-the-life-of-a-thief.json) |
 | From The Mystery Zone | 307798 | [307798-from-the-mystery-zone.json](./307798-from-the-mystery-zone.json) |
