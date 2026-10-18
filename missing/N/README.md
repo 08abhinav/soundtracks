@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightswimming | 300820 | [300820-nightswimming.json](./300820-nightswimming.json) |
 | Nighttime Terror VR: Dessert Defender | 19041 | [19041-nighttime-terror-vr-dessert-defender.json](./19041-nighttime-terror-vr-dessert-defender.json) |
 | Nightwalk | 117447 | [117447-nightwalk.json](./117447-nightwalk.json) |
+| Nightwalk Simulator | 312445 | [312445-nightwalk-simulator.json](./312445-nightwalk-simulator.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
 | Nightwalker | 69516 | [69516-nightwalker.json](./69516-nightwalker.json) |
 | Nightwalker 2 | 152854 | [152854-nightwalker-2.json](./152854-nightwalker-2.json) |
