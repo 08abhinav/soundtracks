@@ -3900,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thatcher's Techbase | 164080 | [164080-thatchers-techbase.json](./164080-thatchers-techbase.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
+| Thaw | 318294 | [318294-thaw.json](./318294-thaw.json) |
 | Thawed Waters | 260254 | [260254-thawed-waters.json](./260254-thawed-waters.json) |
 | Thaxted Havershill and the Golden Wombat | 57486 | [57486-thaxted-havershill-and-the-golden-wombat.json](./57486-thaxted-havershill-and-the-golden-wombat.json) |
 | THC | 120106 | [120106-thc.json](./120106-thc.json) |
@@ -6914,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fire Chief Compilation | 145261 | [145261-the-fire-chief-compilation.json](./145261-the-fire-chief-compilation.json) |
 | The Fire Nobody Started | 332067 | [332067-the-fire-nobody-started.json](./332067-the-fire-nobody-started.json) |
 | The Fire Rises | 321742 | [321742-the-fire-rises.json](./321742-the-fire-rises.json) |
+| The Fireblue Conundrum | 318261 | [318261-the-fireblue-conundrum.json](./318261-the-fireblue-conundrum.json) |
 | The Firebrand | 295246 | [295246-the-firebrand.json](./295246-the-firebrand.json) |
 | The Firemen | 42621 | [42621-the-firemen.json](./42621-the-firemen.json) |
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
@@ -16746,6 +16748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Reversal | 188352 | [188352-time-reversal.json](./188352-time-reversal.json) |
 | Time Riders in American History | 73722 | [73722-time-riders-in-american-history.json](./73722-time-riders-in-american-history.json) |
 | Time Rift | 133222 | [133222-time-rift.json](./133222-time-rift.json) |
+| Time Riggers | 318286 | [318286-time-riggers.json](./318286-time-riggers.json) |
 | Time Runner | 94955 | [94955-time-runner.json](./94955-time-runner.json) |
 | Time Rush Racing | 410080 | [410080-time-rush-racing.json](./410080-time-rush-racing.json) |
 | Time Sail Entanglement | 392377 | [392377-time-sail-entanglement.json](./392377-time-sail-entanglement.json) |
@@ -18620,6 +18623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tootsie Pop | 273896 | [273896-tootsie-pop.json](./273896-tootsie-pop.json) |
 | Tootuff | 125952 | [125952-tootuff.json](./125952-tootuff.json) |
 | Tootuff: Mission Nadia | 48037 | [48037-tootuff-mission-nadia.json](./48037-tootuff-mission-nadia.json) |
+| Tootum | 318285 | [318285-tootum.json](./318285-tootum.json) |
 | Top Angler: Real Bass Fishing | 4206 | [4206-top-angler-real-bass-fishing.json](./4206-top-angler-real-bass-fishing.json) |
 | Top Banana | 69564 | [69564-top-banana.json](./69564-top-banana.json) |
 | Top Bike: Racing & Moto Drag | 187455 | [187455-top-bike-racing-and-moto-drag.json](./187455-top-bike-racing-and-moto-drag.json) |
