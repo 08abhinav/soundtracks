@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
+| Tether | 343598 | [343598-tether.json](./343598-tether.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
@@ -6849,6 +6850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
 | The First Cub | 416691 | [416691-the-first-cub.json](./416691-the-first-cub.json) |
+| The First Day | 343611 | [343611-the-first-day.json](./343611-the-first-day.json) |
 | The First Descendant: Season 1 | 314481 | [314481-the-first-descendant-season-1.json](./314481-the-first-descendant-season-1.json) |
 | The First Descendant: Season 3 | 347660 | [347660-the-first-descendant-season-3.json](./347660-the-first-descendant-season-3.json) |
 | The First Descendant: Season 4 | 408829 | [408829-the-first-descendant-season-4.json](./408829-the-first-descendant-season-4.json) |
@@ -8670,6 +8672,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
+| The Last Hero | 343592 | [343592-the-last-hero.json](./343592-the-last-hero.json) |
+| The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
 | The Last Hero of Nostalgaia | 214707 | [214707-the-last-hero-of-nostalgaia.json](./214707-the-last-hero-of-nostalgaia.json) |
 | The Last Heroine | 351777 | [351777-the-last-heroine.json](./351777-the-last-heroine.json) |
 | The Last Hex | 105231 | [105231-the-last-hex.json](./105231-the-last-hex.json) |
@@ -9788,6 +9792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man, the Alien, and the AI | 231806 | [231806-the-man-the-alien-and-the-ai.json](./231806-the-man-the-alien-and-the-ai.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
+| The Mandarin II | 343692 | [343692-the-mandarin-ii.json](./343692-the-mandarin-ii.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
 | The Manhole: Masterpiece Edition | 51837 | [51837-the-manhole-masterpiece-edition.json](./51837-the-manhole-masterpiece-edition.json) |
@@ -12696,6 +12701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
 | The Texas Chain Saw Massacre: Julie Outfit Pack | 273837 | [273837-the-texas-chain-saw-massacre-julie-outfit-pack.json](./273837-the-texas-chain-saw-massacre-julie-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Julie Outfit Pack 2 | 351025 | [351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json](./351025-the-texas-chain-saw-massacre-julie-outfit-pack-2.json) |
+| The Texas Chain Saw Massacre: Julie Outfit Pack 3 | 343588 | [343588-the-texas-chain-saw-massacre-julie-outfit-pack-3.json](./343588-the-texas-chain-saw-massacre-julie-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Leland Outfit Pack | 273836 | [273836-the-texas-chain-saw-massacre-leland-outfit-pack.json](./273836-the-texas-chain-saw-massacre-leland-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Nancy | 278359 | [278359-the-texas-chain-saw-massacre-nancy.json](./278359-the-texas-chain-saw-massacre-nancy.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
@@ -22110,6 +22116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triangle Strategy: Tacticians's Limited Edition | 203811 | [203811-triangle-strategy-tacticianss-limited-edition.json](./203811-triangle-strategy-tacticianss-limited-edition.json) |
 | Triangle Wing XXXX | 133461 | [133461-triangle-wing-xxxx.json](./133461-triangle-wing-xxxx.json) |
 | Triangle Wizard | 65549 | [65549-triangle-wizard.json](./65549-triangle-wizard.json) |
+| Triangle: Cursed Town | 343690 | [343690-triangle-cursed-town.json](./343690-triangle-cursed-town.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
