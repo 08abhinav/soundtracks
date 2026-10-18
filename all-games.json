@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:35:33.300Z",
-  "total_soundtracks": 2158,
+  "generated_at": "2026-10-18T08:35:41.956Z",
+  "total_soundtracks": 2159,
   "games": [
     {
       "igdb_id": 7522,
@@ -16937,6 +16937,20 @@
           "spotify_url": "https://music.apple.com/us/album/project-songbird-official-video-game-soundtrack-dakotas/1890698487?uo=4",
           "apple_music_url": null,
           "album_link_url": "https://album.link/i/1890698487"
+        }
+      ]
+    },
+    {
+      "igdb_id": 56859,
+      "game_name": "Project Wingman",
+      "game_url": "https://ostdb.net/games/project-wingman",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b6ce68d5386e99d53a1250c9",
+      "albums": [
+        {
+          "album_name": "Project Wingman (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0CeJNxkb4sNHj2iuuxOKRt",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
