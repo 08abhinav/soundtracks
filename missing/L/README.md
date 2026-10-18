@@ -1947,7 +1947,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend's World | 90058 | [90058-legends-world.json](./90058-legends-world.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
+| Legendary Armory | 347475 | [347475-legendary-armory.json](./347475-legendary-armory.json) |
 | Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
+| Legendary Creatures | 347476 | [347476-legendary-creatures.json](./347476-legendary-creatures.json) |
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
@@ -1962,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Larry | 224022 | [224022-legendary-larry.json](./224022-legendary-larry.json) |
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
+| Legendary Monsters | 347477 | [347477-legendary-monsters.json](./347477-legendary-monsters.json) |
 | Legendary Mosaics: The Dwarf and the Terrible Cat | 176894 | [176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json](./176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json) |
 | Legendary Pilots | 258112 | [258112-legendary-pilots.json](./258112-legendary-pilots.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
@@ -6612,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Dice | 246278 | [246278-lucky-dice.json](./246278-lucky-dice.json) |
 | Lucky Dog 1 | 147444 | [147444-lucky-dog-1.json](./147444-lucky-dog-1.json) |
 | Lucky Dog 1 + Bad Egg | 264088 | [264088-lucky-dog-1-bad-egg.json](./264088-lucky-dog-1-bad-egg.json) |
+| Lucky Drop | 347493 | [347493-lucky-drop.json](./347493-lucky-drop.json) |
 | Lucky Farm | 309567 | [309567-lucky-farm.json](./309567-lucky-farm.json) |
 | Lucky Fat Cat Diner | 389507 | [389507-lucky-fat-cat-diner.json](./389507-lucky-fat-cat-diner.json) |
 | Lucky Fighter II | 321648 | [321648-lucky-fighter-ii.json](./321648-lucky-fighter-ii.json) |
