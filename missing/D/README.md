@@ -10717,7 +10717,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Song Tavern: Pumpkin Masquerade DLC | 375593 | [375593-dragon-song-tavern-pumpkin-masquerade-dlc.json](./375593-dragon-song-tavern-pumpkin-masquerade-dlc.json) |
 | Dragon Souls | 31864 | [31864-dragon-souls.json](./31864-dragon-souls.json) |
 | Dragon Spear | 77588 | [77588-dragon-spear.json](./77588-dragon-spear.json) |
-| Dragon Spirit | 12055 | [12055-dragon-spirit.json](./12055-dragon-spirit.json) |
 | Dragon Spirit | 218370 | [218370-dragon-spirit.json](./218370-dragon-spirit.json) |
 | Dragon Spirits | 127202 | [127202-dragon-spirits.json](./127202-dragon-spirits.json) |
 | Dragon Spirits 2 | 315690 | [315690-dragon-spirits-2.json](./315690-dragon-spirits-2.json) |
