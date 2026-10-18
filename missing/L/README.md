@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Stickman | 99720 | [99720-league-of-stickman.json](./99720-league-of-stickman.json) |
 | League of Stickman 2 | 174638 | [174638-league-of-stickman-2.json](./174638-league-of-stickman-2.json) |
 | League of Stickman: (Dreamsky)Warriors | 105871 | [105871-league-of-stickman-dreamsky-warriors.json](./105871-league-of-stickman-dreamsky-warriors.json) |
+| League Of Tacticians: Path of Tarkan | 345820 | [345820-league-of-tacticians-path-of-tarkan.json](./345820-league-of-tacticians-path-of-tarkan.json) |
 | League of Tanks: Global War | 330353 | [330353-league-of-tanks-global-war.json](./330353-league-of-tanks-global-war.json) |
 | League of the Shield | 125733 | [125733-league-of-the-shield.json](./125733-league-of-the-shield.json) |
 | League of War: Mercenaries | 261424 | [261424-league-of-war-mercenaries.json](./261424-league-of-war-mercenaries.json) |
@@ -3115,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lichtung | 415105 | [415105-lichtung.json](./415105-lichtung.json) |
 | Lickspittles | 392814 | [392814-lickspittles.json](./392814-lickspittles.json) |
 | Licky the Lucky Lizard Lives Again | 99485 | [99485-licky-the-lucky-lizard-lives-again.json](./99485-licky-the-lucky-lizard-lives-again.json) |
+| Liczę z Reksiem | 345826 | [345826-licze-z-reksiem.json](./345826-licze-z-reksiem.json) |
 | Lidar Exploration Program | 291468 | [291468-lidar-exploration-program.json](./291468-lidar-exploration-program.json) |
 | Lidar Survival | 253917 | [253917-lidar-survival.json](./253917-lidar-survival.json) |
 | Lidar.exe | 213883 | [213883-lidar-exe.json](./213883-lidar-exe.json) |
