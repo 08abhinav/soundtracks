@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon | 383189 | [383189-halcyon.json](./383189-halcyon.json) |
 | Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
+| Halcyon Days at Taoyuan | 347560 | [347560-halcyon-days-at-taoyuan.json](./347560-halcyon-days-at-taoyuan.json) |
 | Halcyon: The WaveBorn | 259053 | [259053-halcyon-the-waveborn.json](./259053-halcyon-the-waveborn.json) |
 | Haldion | 82913 | [82913-haldion.json](./82913-haldion.json) |
 | Halen: Ballad of the Blade Thief | 134002 | [134002-halen-ballad-of-the-blade-thief.json](./134002-halen-ballad-of-the-blade-thief.json) |
