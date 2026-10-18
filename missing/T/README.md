@@ -12156,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sinking City: Necronomicon Edition | 117154 | [117154-the-sinking-city-necronomicon-edition.json](./117154-the-sinking-city-necronomicon-edition.json) |
 | The Sinking City: Whisper of Darkness Pass | 208047 | [208047-the-sinking-city-whisper-of-darkness-pass.json](./208047-the-sinking-city-whisper-of-darkness-pass.json) |
 | The Sinking City: Worshippers of the Necronomicon | 142241 | [142241-the-sinking-city-worshippers-of-the-necronomicon.json](./142241-the-sinking-city-worshippers-of-the-necronomicon.json) |
+| The Sinking Forest | 328338 | [328338-the-sinking-forest.json](./328338-the-sinking-forest.json) |
 | The Sinking of the Dream Chaser | 257685 | [257685-the-sinking-of-the-dream-chaser.json](./257685-the-sinking-of-the-dream-chaser.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-1 | 193443 | [193443-the-sinking-structure-clione-and-lost-child-log-1.json](./193443-the-sinking-structure-clione-and-lost-child-log-1.json) |
 | The Sinking Structure, Clione, and Lost Child: Log-3 | 192419 | [192419-the-sinking-structure-clione-and-lost-child-log-3.json](./192419-the-sinking-structure-clione-and-lost-child-log-3.json) |
@@ -12490,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Strange and Somewhat Sinister Tale of the House at Desert Bridge | 228966 | [228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json](./228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
+| The strange case of the serpent | 328322 | [328322-the-strange-case-of-the-serpent.json](./328322-the-strange-case-of-the-serpent.json) |
 | The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
@@ -19045,6 +19047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Reliable Delivery Service: Deluxe Edition | 192292 | [192292-totally-reliable-delivery-service-deluxe-edition.json](./192292-totally-reliable-delivery-service-deluxe-edition.json) |
 | Totally Reliable Delivery Service: Dress Code | 308576 | [308576-totally-reliable-delivery-service-dress-code.json](./308576-totally-reliable-delivery-service-dress-code.json) |
 | Totally Rigged | 407170 | [407170-totally-rigged.json](./407170-totally-rigged.json) |
+| Totally Safe Jump Enhancement System | 328303 | [328303-totally-safe-jump-enhancement-system.json](./328303-totally-safe-jump-enhancement-system.json) |
 | Totally Safe Railway Co | 419170 | [419170-totally-safe-railway-co.json](./419170-totally-safe-railway-co.json) |
 | Totally Secure Airport | 389505 | [389505-totally-secure-airport.json](./389505-totally-secure-airport.json) |
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
@@ -23367,6 +23370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumbleweed Destiny | 195073 | [195073-tumbleweed-destiny.json](./195073-tumbleweed-destiny.json) |
 | Tumbobots | 382224 | [382224-tumbobots.json](./382224-tumbobots.json) |
 | Tumiki Fighters | 50414 | [50414-tumiki-fighters.json](./50414-tumiki-fighters.json) |
+| Tummy Bonbons: The Sweet Monster | 328315 | [328315-tummy-bonbons-the-sweet-monster.json](./328315-tummy-bonbons-the-sweet-monster.json) |
 | Tumor Necrosis Factor: Amen | 386716 | [386716-tumor-necrosis-factor-amen.json](./386716-tumor-necrosis-factor-amen.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
