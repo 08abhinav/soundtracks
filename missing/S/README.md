@@ -12692,6 +12692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
 | Sonic Roller 1 & 2 Deluxe | 330550 | [330550-sonic-roller-1-and-2-deluxe.json](./330550-sonic-roller-1-and-2-deluxe.json) |
+| Sonic RPG: Episode 10 | 333982 | [333982-sonic-rpg-episode-10.json](./333982-sonic-rpg-episode-10.json) |
 | Sonic RPG: Episode 7 | 273562 | [273562-sonic-rpg-episode-7.json](./273562-sonic-rpg-episode-7.json) |
 | Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
@@ -19548,6 +19549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
 | Stoorm: Yellow Edition | 35368 | [35368-stoorm-yellow-edition.json](./35368-stoorm-yellow-edition.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
+| Stop and Breathe | 334005 | [334005-stop-and-breathe.json](./334005-stop-and-breathe.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
 | Stop and Smell the Flowers | 399164 | [399164-stop-and-smell-the-flowers.json](./399164-stop-and-smell-the-flowers.json) |
@@ -24249,6 +24251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Manager Simulator | 314863 | [314863-supermarket-manager-simulator.json](./314863-supermarket-manager-simulator.json) |
 | Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
+| Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
