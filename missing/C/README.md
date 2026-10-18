@@ -7230,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicko | 351597 | [351597-clicko.json](./351597-clicko.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
+| ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
 | ClickRaid2 | 120019 | [120019-clickraid2.json](./120019-clickraid2.json) |
@@ -14828,6 +14829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Anniversary Edition | 331270 | [331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json](./331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Epic Edition | 339069 | [339069-cynthia-hidden-in-the-moonshadow-epic-edition.json](./339069-cynthia-hidden-in-the-moonshadow-epic-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Platinum Edition | 308585 | [308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json](./308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json) |
