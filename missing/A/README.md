@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hauler | 68098 | [68098-air-hauler.json](./68098-air-hauler.json) |
 | Air Havoc Controller | 94695 | [94695-air-havoc-controller.json](./94695-air-havoc-controller.json) |
 | Air Hockey | 200667 | [200667-air-hockey.json](./200667-air-hockey.json) |
+| Air Hockey | 311362 | [311362-air-hockey.json](./311362-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
@@ -9810,6 +9811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273046 | [273046-arkanoid.json](./273046-arkanoid.json) |
 | Arkanoid | 273047 | [273047-arkanoid.json](./273047-arkanoid.json) |
 | Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
+| Arkanoid | 311341 | [311341-arkanoid.json](./311341-arkanoid.json) |
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
@@ -10173,6 +10175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
+| Arpongi | 311333 | [311333-arpongi.json](./311333-arpongi.json) |
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
 | ARPventure | 349649 | [349649-arpventure.json](./349649-arpventure.json) |
 | Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
@@ -11557,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
 | Astrosmash | 5657 | [5657-astrosmash.json](./5657-astrosmash.json) |
+| Astrostack | 311363 | [311363-astrostack.json](./311363-astrostack.json) |
 | Astrostrike | 309571 | [309571-astrostrike.json](./309571-astrostrike.json) |
 | AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
 | AstroSurfer | 178985 | [178985-astrosurfer.json](./178985-astrosurfer.json) |
