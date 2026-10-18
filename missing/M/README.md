@@ -2827,6 +2827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Vacation Tour | 361216 | [361216-mario-kart-tour-vacation-tour.json](./361216-mario-kart-tour-vacation-tour.json) |
 | Mario Kart Tour: Valentine's Tour | 338540 | [338540-mario-kart-tour-valentines-tour.json](./338540-mario-kart-tour-valentines-tour.json) |
 | Mario Kart Tour: Vancouver Tour | 338541 | [338541-mario-kart-tour-vancouver-tour.json](./338541-mario-kart-tour-vancouver-tour.json) |
+| Mario Kart Tour: Version 2.0.0 | 360998 | [360998-mario-kart-tour-version-2-0-0.json](./360998-mario-kart-tour-version-2-0-0.json) |
+| Mario Kart Tour: Version 3.0.0 | 360999 | [360999-mario-kart-tour-version-3-0-0.json](./360999-mario-kart-tour-version-3-0-0.json) |
 | Mario Kart Tour: Wedding Tour | 361150 | [361150-mario-kart-tour-wedding-tour.json](./361150-mario-kart-tour-wedding-tour.json) |
 | Mario Kart Tour: Wild West Tour | 361128 | [361128-mario-kart-tour-wild-west-tour.json](./361128-mario-kart-tour-wild-west-tour.json) |
 | Mario Kart Tour: Winter Tour | 361137 | [361137-mario-kart-tour-winter-tour.json](./361137-mario-kart-tour-winter-tour.json) |
@@ -14032,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Night | 38562 | [38562-mutant-night.json](./38562-mutant-night.json) |
 | Mutant Ocean | 339384 | [339384-mutant-ocean.json](./339384-mutant-ocean.json) |
 | Mutant Ops | 142792 | [142792-mutant-ops.json](./142792-mutant-ops.json) |
+| Mutant Rage | 360884 | [360884-mutant-rage.json](./360884-mutant-rage.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
 | Mutant Storm Empire | 21914 | [21914-mutant-storm-empire.json](./21914-mutant-storm-empire.json) |
@@ -14839,6 +14842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Femboy | 355617 | [355617-my-pet-femboy.json](./355617-my-pet-femboy.json) |
 | My Pet Puppy 3D | 65470 | [65470-my-pet-puppy-3d.json](./65470-my-pet-puppy-3d.json) |
 | My Pet Rock | 195218 | [195218-my-pet-rock.json](./195218-my-pet-rock.json) |
+| My Pet Store | 361007 | [361007-my-pet-store.json](./361007-my-pet-store.json) |
 | My Pet World | 268376 | [268376-my-pet-world.json](./268376-my-pet-world.json) |
 | My Peterinary | 298301 | [298301-my-peterinary.json](./298301-my-peterinary.json) |
 | My Pets | 84716 | [84716-my-pets.json](./84716-my-pets.json) |
@@ -15150,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MycoRelic | 274470 | [274470-mycorelic.json](./274470-mycorelic.json) |
 | Mycorrhiza | 178904 | [178904-mycorrhiza.json](./178904-mycorrhiza.json) |
 | Mycro | 152858 | [152858-mycro.json](./152858-mycro.json) |
+| Mycroft Holmes Simulator | 360885 | [360885-mycroft-holmes-simulator.json](./360885-mycroft-holmes-simulator.json) |
 | Mycubium | 356294 | [356294-mycubium.json](./356294-mycubium.json) |
 | MyDear.exe | 399763 | [399763-mydear-exe.json](./399763-mydear-exe.json) |
 | MyDearest.exe | 391745 | [391745-mydearest-exe.json](./391745-mydearest-exe.json) |
