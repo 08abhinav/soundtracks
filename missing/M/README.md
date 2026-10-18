@@ -3104,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
+| Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metempsychosis | 104052 | [104052-metempsychosis.json](./104052-metempsychosis.json) |
 | Meteo Planet | 311058 | [311058-meteo-planet.json](./311058-meteo-planet.json) |
 | MeteoHeroes | 192795 | [192795-meteoheroes.json](./192795-meteoheroes.json) |
+| Meteolife | 350212 | [350212-meteolife.json](./350212-meteolife.json) |
 | Meteor | 107757 | [107757-meteor.json](./107757-meteor.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
@@ -10036,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
+| Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
 | Misty's Super Golf Solitaire | 339911 | [339911-mistys-super-golf-solitaire.json](./339911-mistys-super-golf-solitaire.json) |
@@ -11670,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
+| Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
 | Monsters, Inc. Scream Arena | 4020 | [4020-monsters-inc-scream-arena.json](./4020-monsters-inc-scream-arena.json) |
 | Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
@@ -15812,6 +15816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
 | Mythic Manager | 408151 | [408151-mythic-manager.json](./408151-mythic-manager.json) |
+| Mythic Manor | 350220 | [350220-mythic-manor.json](./350220-mythic-manor.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
 | Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
