@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Target | 253413 | [253413-cannon-target.json](./253413-cannon-target.json) |
 | CannonBall | 195227 | [195227-cannonball.json](./195227-cannonball.json) |
 | Cannonball Commander | 90519 | [90519-cannonball-commander.json](./90519-cannonball-commander.json) |
+| Cannonball Crew | 328858 | [328858-cannonball-crew.json](./328858-cannonball-crew.json) |
 | Cannonball Follies 2 | 335471 | [335471-cannonball-follies-2.json](./335471-cannonball-follies-2.json) |
 | Cannondale Cup | 42600 | [42600-cannondale-cup.json](./42600-cannondale-cup.json) |
 | Cannoneer | 323302 | [323302-cannoneer.json](./323302-cannoneer.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castelo Rá-Tim-Bum | 84302 | [84302-castelo-ra-tim-bum.json](./84302-castelo-ra-tim-bum.json) |
 | Caster's Trap | 130339 | [130339-casters-trap.json](./130339-casters-trap.json) |
 | CasterLords | 120116 | [120116-casterlords.json](./120116-casterlords.json) |
+| Castillo: Shattered Mirrors | 328846 | [328846-castillo-shattered-mirrors.json](./328846-castillo-shattered-mirrors.json) |
 | Castillon | 332247 | [332247-castillon.json](./332247-castillon.json) |
 | Casting Clicker | 367202 | [367202-casting-clicker.json](./367202-casting-clicker.json) |
 | Casting Shadows | 256733 | [256733-casting-shadows.json](./256733-casting-shadows.json) |
