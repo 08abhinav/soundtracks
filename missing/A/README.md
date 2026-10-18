@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Vacation: San Francisco | 337234 | [337234-amazing-vacation-san-francisco.json](./337234-amazing-vacation-san-francisco.json) |
 | Amazing Vacation: Seattle | 337226 | [337226-amazing-vacation-seattle.json](./337226-amazing-vacation-seattle.json) |
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
+| Amazing Weekend 3: Search and Relax - Collector's Edition | 360444 | [360444-amazing-weekend-3-search-and-relax-collectors-edition.json](./360444-amazing-weekend-3-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Word Search | 180151 | [180151-amazing-word-search.json](./180151-amazing-word-search.json) |
 | Amazing World | 17235 | [17235-amazing-world.json](./17235-amazing-world.json) |
@@ -12001,9 +12002,38 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
+| Audica: asms - "Methane Breather" | 360351 | [360351-audica-asms-methane-breather.json](./360351-audica-asms-methane-breather.json) |
+| Audica: asms - "Reeds of Mitatrush" | 360364 | [360364-audica-asms-reeds-of-mitatrush.json](./360364-audica-asms-reeds-of-mitatrush.json) |
+| Audica: Bex - "Avalanche" | 360366 | [360366-audica-bex-avalanche.json](./360366-audica-bex-avalanche.json) |
+| Audica: Billie Eilish - "Bad Guy" | 360354 | [360354-audica-billie-eilish-bad-guy.json](./360354-audica-billie-eilish-bad-guy.json) |
 | Audica: Chvrches - "The Mother We Share" | 358947 | [358947-audica-chvrches-the-mother-we-share.json](./358947-audica-chvrches-the-mother-we-share.json) |
+| Audica: Darren Korb ft. Ashley Barrett - "We All Become" | 360361 | [360361-audica-darren-korb-ft-ashley-barrett-we-all-become.json](./360361-audica-darren-korb-ft-ashley-barrett-we-all-become.json) |
+| Audica: DLC Pack 01 | 360368 | [360368-audica-dlc-pack-01.json](./360368-audica-dlc-pack-01.json) |
+| Audica: DLC Pack 02 | 360370 | [360370-audica-dlc-pack-02.json](./360370-audica-dlc-pack-02.json) |
+| Audica: Dua Lipa - "New Rules" | 360349 | [360349-audica-dua-lipa-new-rules.json](./360349-audica-dua-lipa-new-rules.json) |
+| Audica: Fall Out Boy - "Centuries" | 360355 | [360355-audica-fall-out-boy-centuries.json](./360355-audica-fall-out-boy-centuries.json) |
+| Audica: Flo Rida ft. Sage the Gemini and Lookas - "GDFR" | 360345 | [360345-audica-flo-rida-ft-sage-the-gemini-and-lookas-gdfr.json](./360345-audica-flo-rida-ft-sage-the-gemini-and-lookas-gdfr.json) |
+| Audica: Hausman & Jenni Rudolph ft. Lys - "Long Run" | 360344 | [360344-audica-hausman-and-jenni-rudolph-ft-lys-long-run.json](./360344-audica-hausman-and-jenni-rudolph-ft-lys-long-run.json) |
+| Audica: I Was Awake - "Pre-Existing Condition" | 360362 | [360362-audica-i-was-awake-pre-existing-condition.json](./360362-audica-i-was-awake-pre-existing-condition.json) |
+| Audica: Imagine Dragons - "Believer" | 360356 | [360356-audica-imagine-dragons-believer.json](./360356-audica-imagine-dragons-believer.json) |
+| Audica: James Egbert ft. Nina Sung - "Exit Wounds" | 360353 | [360353-audica-james-egbert-ft-nina-sung-exit-wounds.json](./360353-audica-james-egbert-ft-nina-sung-exit-wounds.json) |
+| Audica: James Landino - "Funky Computer" | 360348 | [360348-audica-james-landino-funky-computer.json](./360348-audica-james-landino-funky-computer.json) |
+| Audica: Lizzo - "Juice" | 360363 | [360363-audica-lizzo-juice.json](./360363-audica-lizzo-juice.json) |
+| Audica: LMFAO - "Sorry For Party Rocking" | 360341 | [360341-audica-lmfao-sorry-for-party-rocking.json](./360341-audica-lmfao-sorry-for-party-rocking.json) |
+| Audica: M-Cue - "U R Prey" | 360357 | [360357-audica-m-cue-u-r-prey.json](./360357-audica-m-cue-u-r-prey.json) |
 | Audica: Maroon 5 ft. Christina Aguilera - "Moves Like Jagger" | 358944 | [358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json](./358944-audica-maroon-5-ft-christina-aguilera-moves-like-jagger.json) |
 | Audica: Nicki Minaj - "Starships" | 358943 | [358943-audica-nicki-minaj-starships.json](./358943-audica-nicki-minaj-starships.json) |
+| Audica: OneRepublic - "Counting Stars" | 360347 | [360347-audica-onerepublic-counting-stars.json](./360347-audica-onerepublic-counting-stars.json) |
+| Audica: Panic! At The Disco - "High Hopes" | 360359 | [360359-audica-panic-at-the-disco-high-hopes.json](./360359-audica-panic-at-the-disco-high-hopes.json) |
+| Audica: Party Bois - "Girls Be Dancing" | 360360 | [360360-audica-party-bois-girls-be-dancing.json](./360360-audica-party-bois-girls-be-dancing.json) |
+| Audica: Post Malone - "Better Now" | 360346 | [360346-audica-post-malone-better-now.json](./360346-audica-post-malone-better-now.json) |
+| Audica: Radio Compass - "All Stars" | 360352 | [360352-audica-radio-compass-all-stars.json](./360352-audica-radio-compass-all-stars.json) |
+| Audica: Sia ft. Kendrick Lamar - "The Greatest" | 360365 | [360365-audica-sia-ft-kendrick-lamar-the-greatest.json](./360365-audica-sia-ft-kendrick-lamar-the-greatest.json) |
+| Audica: Simaniac - “Stook (Audica Remix)” | 360358 | [360358-audica-simaniac-stook-audica-remix.json](./360358-audica-simaniac-stook-audica-remix.json) |
+| Audica: Sleeping Lion & Cass Miller ft. Bugle Bot - "How We Know (Bugle Bot Remix)" | 360350 | [360350-audica-sleeping-lion-and-cass-miller-ft-bugle-bot-how-we-know-bugle-bot-remix.json](./360350-audica-sleeping-lion-and-cass-miller-ft-bugle-bot-how-we-know-bugle-bot-remix.json) |
+| Audica: The Chainsmokers ft. Daya - "Don't Let Me Down" | 360342 | [360342-audica-the-chainsmokers-ft-daya-dont-let-me-down.json](./360342-audica-the-chainsmokers-ft-daya-dont-let-me-down.json) |
+| Audica: The Weeknd - "Can't Feel My Face" | 360343 | [360343-audica-the-weeknd-cant-feel-my-face.json](./360343-audica-the-weeknd-cant-feel-my-face.json) |
+| Audica: Zedd, Maren Morris & Grey - "The Middle" | 360340 | [360340-audica-zedd-maren-morris-and-grey-the-middle.json](./360340-audica-zedd-maren-morris-and-grey-the-middle.json) |
 | Audio Arena | 33141 | [33141-audio-arena.json](./33141-audio-arena.json) |
 | Audio Clash: Battle of the Bands | 152128 | [152128-audio-clash-battle-of-the-bands.json](./152128-audio-clash-battle-of-the-bands.json) |
 | Audio Drive 2 VR | 338181 | [338181-audio-drive-2-vr.json](./338181-audio-drive-2-vr.json) |
