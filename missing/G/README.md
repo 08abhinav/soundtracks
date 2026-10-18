@@ -6610,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Legions | 23842 | [23842-grim-legions.json](./23842-grim-legions.json) |
 | Grim Nights | 110185 | [110185-grim-nights.json](./110185-grim-nights.json) |
 | Grim Omens | 319199 | [319199-grim-omens.json](./319199-grim-omens.json) |
+| Grim Pastures | 356431 | [356431-grim-pastures.json](./356431-grim-pastures.json) |
 | Grim Pastures: Outlaws | 374920 | [374920-grim-pastures-outlaws.json](./374920-grim-pastures-outlaws.json) |
 | Grim Path | 393600 | [393600-grim-path.json](./393600-grim-path.json) |
 | Grim Potions | 272759 | [272759-grim-potions.json](./272759-grim-potions.json) |
@@ -7560,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
+| Gumbo* and the Machine | 356397 | [356397-gumbo-and-the-machine.json](./356397-gumbo-and-the-machine.json) |
 | Gumbowl's Adventure | 292551 | [292551-gumbowls-adventure.json](./292551-gumbowls-adventure.json) |
 | Gumby vs. The Astrobots | 49297 | [49297-gumby-vs-the-astrobots.json](./49297-gumby-vs-the-astrobots.json) |
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
