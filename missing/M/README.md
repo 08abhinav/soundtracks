@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Golf | 135389 | [135389-mario-golf.json](./135389-mario-golf.json) |
 | Mario Golf | 328590 | [328590-mario-golf.json](./328590-mario-golf.json) |
 | Mario Golf | 3401 | [3401-mario-golf.json](./3401-mario-golf.json) |
+| Mario Golf | 340732 | [340732-mario-golf.json](./340732-mario-golf.json) |
 | Mario Golf: Super Rush | 143609 | [143609-mario-golf-super-rush.json](./143609-mario-golf-super-rush.json) |
 | Mario Golf: World Tour | 3405 | [3405-mario-golf-world-tour.json](./3405-mario-golf-world-tour.json) |
 | Mario Golf: World Tour - Flower Pack | 309117 | [309117-mario-golf-world-tour-flower-pack.json](./309117-mario-golf-world-tour-flower-pack.json) |
@@ -11485,6 +11486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mingle | 23222 | [23222-monster-mingle.json](./23222-monster-mingle.json) |
 | Monster Minis Extreme Off-Road | 108292 | [108292-monster-minis-extreme-off-road.json](./108292-monster-minis-extreme-off-road.json) |
 | Monster MIX | 108394 | [108394-monster-mix.json](./108394-monster-mix.json) |
+| Monster MMORPG | 340727 | [340727-monster-mmorpg.json](./340727-monster-mmorpg.json) |
 | Monster Monpiece | 20094 | [20094-monster-monpiece.json](./20094-monster-monpiece.json) |
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
@@ -12104,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mope.io | 108987 | [108987-mope-io.json](./108987-mope-io.json) |
 | MopGarden's Veggie Cart | 225879 | [225879-mopgardens-veggie-cart.json](./225879-mopgardens-veggie-cart.json) |
 | Mops & Mobs: A Sweeping Dungeon Adventure | 291767 | [291767-mops-and-mobs-a-sweeping-dungeon-adventure.json](./291767-mops-and-mobs-a-sweeping-dungeon-adventure.json) |
+| Mor | 340726 | [340726-mor.json](./340726-mor.json) |
 | Mora: Mining for Freedom | 373747 | [373747-mora-mining-for-freedom.json](./373747-mora-mining-for-freedom.json) |
 | Moraff's Entrap | 69815 | [69815-moraffs-entrap.json](./69815-moraffs-entrap.json) |
 | Moraff's Escapade | 135666 | [135666-moraffs-escapade.json](./135666-moraffs-escapade.json) |
