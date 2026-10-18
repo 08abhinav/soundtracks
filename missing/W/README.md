@@ -3565,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Is There A Girl In My House?! | 128418 | [128418-why-is-there-a-girl-in-my-house.json](./128418-why-is-there-a-girl-in-my-house.json) |
 | Why is this Dragon so Fucking Cute?? | 136854 | [136854-why-is-this-dragon-so-fucking-cute.json](./136854-why-is-this-dragon-so-fucking-cute.json) |
 | Why Jeff | 183297 | [183297-why-jeff.json](./183297-why-jeff.json) |
+| Why Jump | 342499 | [342499-why-jump.json](./342499-why-jump.json) |
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
 | Why Not Frog? | 185474 | [185474-why-not-frog.json](./185474-why-not-frog.json) |
