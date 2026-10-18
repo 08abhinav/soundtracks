@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:06:34.551Z",
-  "total_soundtracks": 2200,
+  "generated_at": "2026-10-18T17:06:42.734Z",
+  "total_soundtracks": 2201,
   "games": [
     {
       "igdb_id": 7522,
@@ -24686,6 +24686,20 @@
           "album_name": "Tunic (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 172024,
+      "game_name": "Turbo Overkill",
+      "game_url": "https://ostdb.net/games/turbo-overkill",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273317269f9953efdf13d8c2d0e",
+      "albums": [
+        {
+          "album_name": "Turbo Overkill (Selections from the Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0lYOJhZ7tntuaE1k0IRqtX",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
