@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
 | F*ck This Game | 191129 | [191129-f-ck-this-game.json](./191129-f-ck-this-game.json) |
+| F*ck This Job | 319428 | [319428-f-ck-this-job.json](./319428-f-ck-this-job.json) |
 | F/A-18 Hornet 2.0 | 47295 | [47295-f-a-18-hornet-2-0.json](./47295-f-a-18-hornet-2-0.json) |
 | F/A-18 Hornet 3.0 | 47083 | [47083-f-a-18-hornet-3-0.json](./47083-f-a-18-hornet-3-0.json) |
 | F/A-18 Interceptor | 12081 | [12081-f-a-18-interceptor.json](./12081-f-a-18-interceptor.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
 | Firefighter Connor | 266524 | [266524-firefighter-connor.json](./266524-firefighter-connor.json) |
 | Firefighter Gaiden | 381277 | [381277-firefighter-gaiden.json](./381277-firefighter-gaiden.json) |
+| Firefighter Wizard: The Elemental Order | 319431 | [319431-firefighter-wizard-the-elemental-order.json](./319431-firefighter-wizard-the-elemental-order.json) |
 | Firefighter: Car Fire Truck Sim Driving 2022 Simulator | 208839 | [208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json](./208839-firefighter-car-fire-truck-sim-driving-2022-simulator.json) |
 | Firefighters 2014 | 17208 | [17208-firefighters-2014.json](./17208-firefighters-2014.json) |
 | Firefighters Code Red | 410889 | [410889-firefighters-code-red.json](./410889-firefighters-code-red.json) |
@@ -5521,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fledge | 225537 | [225537-fledge.json](./225537-fledge.json) |
 | Fledge | 257909 | [257909-fledge.json](./257909-fledge.json) |
 | Fledgling Heroes | 124027 | [124027-fledgling-heroes.json](./124027-fledgling-heroes.json) |
+| Fledgling Manor | 319405 | [319405-fledgling-manor.json](./319405-fledgling-manor.json) |
 | Fledglings | 285685 | [285685-fledglings.json](./285685-fledglings.json) |
 | Flee or Be: Chapter One - Lurking Alone | 305535 | [305535-flee-or-be-chapter-one-lurking-alone.json](./305535-flee-or-be-chapter-one-lurking-alone.json) |
 | Flee the Backrooms | 238744 | [238744-flee-the-backrooms.json](./238744-flee-the-backrooms.json) |
