@@ -1325,6 +1325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
+| El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
 | El Camperillo | 302740 | [302740-el-camperillo.json](./302740-el-camperillo.json) |
@@ -1471,6 +1472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
 | Eldritch Lands: The Witch Queen's Eternal War | 190899 | [190899-eldritch-lands-the-witch-queens-eternal-war.json](./190899-eldritch-lands-the-witch-queens-eternal-war.json) |
 | Eldritch Soul | 320839 | [320839-eldritch-soul.json](./320839-eldritch-soul.json) |
+| Eldritch Survivors | 335728 | [335728-eldritch-survivors.json](./335728-eldritch-survivors.json) |
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
@@ -3429,6 +3431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
 | Erich Sann | 227248 | [227248-erich-sann.json](./227248-erich-sann.json) |
+| Erick Golden | 335713 | [335713-erick-golden.json](./335713-erick-golden.json) |
 | Eridle. | 421180 | [421180-eridle.json](./421180-eridle.json) |
 | Eridu | 180684 | [180684-eridu.json](./180684-eridu.json) |
 | Erie | 63380 | [63380-erie.json](./63380-erie.json) |
