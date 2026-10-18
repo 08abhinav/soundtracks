@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
 | Xeno | 36864 | [36864-xeno.json](./36864-xeno.json) |
 | Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
+| Xeno Escape | 349185 | [349185-xeno-escape.json](./349185-xeno-escape.json) |
 | Xeno Girlfriend | 384843 | [384843-xeno-girlfriend.json](./384843-xeno-girlfriend.json) |
 | Xeno Girlfriend 2 | 384844 | [384844-xeno-girlfriend-2.json](./384844-xeno-girlfriend-2.json) |
 | Xeno Girlfriend 3 | 384845 | [384845-xeno-girlfriend-3.json](./384845-xeno-girlfriend-3.json) |
