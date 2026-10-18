@@ -2409,6 +2409,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Pogo | 67203 | [67203-indie-pogo.json](./67203-indie-pogo.json) |
 | Indie Rumble | 182262 | [182262-indie-rumble.json](./182262-indie-rumble.json) |
 | Indie Stars Double-Pack! | 56780 | [56780-indie-stars-double-pack.json](./56780-indie-stars-double-pack.json) |
+| Indie.io Adventure Bundle | 339063 | [339063-indie-io-adventure-bundle.json](./339063-indie-io-adventure-bundle.json) |
+| Indie.io Chill Bundle | 339064 | [339064-indie-io-chill-bundle.json](./339064-indie-io-chill-bundle.json) |
 | Indiemon Card Adventure | 62720 | [62720-indiemon-card-adventure.json](./62720-indiemon-card-adventure.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
