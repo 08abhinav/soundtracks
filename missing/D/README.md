@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
 | Dark Universe | 69798 | [69798-dark-universe.json](./69798-dark-universe.json) |
+| Dark Vampires: The Shadows of Dust | 346472 | [346472-dark-vampires-the-shadows-of-dust.json](./346472-dark-vampires-the-shadows-of-dust.json) |
 | Dark Vengeance | 51368 | [51368-dark-vengeance.json](./51368-dark-vengeance.json) |
 | Dark Visit | 103446 | [103446-dark-visit.json](./103446-dark-visit.json) |
 | Dark Void | 4220 | [4220-dark-void.json](./4220-dark-void.json) |
@@ -2545,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
+| Dead Man's Drive | 346383 | [346383-dead-mans-drive.json](./346383-dead-mans-drive.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
 | Dead Man's Hand: Card Roulette Action | 291388 | [291388-dead-mans-hand-card-roulette-action.json](./291388-dead-mans-hand-card-roulette-action.json) |
@@ -4671,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
 | Demra: Rifts of War | 385700 | [385700-demra-rifts-of-war.json](./385700-demra-rifts-of-war.json) |
 | Den of the Defiant | 303471 | [303471-den-of-the-defiant.json](./303471-den-of-the-defiant.json) |
+| Den Pain | 346388 | [346388-den-pain.json](./346388-den-pain.json) |
 | Den Vänstra Handens Stig | 32822 | [32822-den-vanstra-handens-stig.json](./32822-den-vanstra-handens-stig.json) |
 | Den Yttersta Gåtan | 201657 | [201657-den-yttersta-gatan.json](./201657-den-yttersta-gatan.json) |
 | Den-Den: Tokyo Horror | 345507 | [345507-den-den-tokyo-horror.json](./345507-den-den-tokyo-horror.json) |
@@ -6043,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
+| Dice to Pay | 346399 | [346399-dice-to-pay.json](./346399-dice-to-pay.json) |
 | Dice Tourney | 165750 | [165750-dice-tourney.json](./165750-dice-tourney.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
