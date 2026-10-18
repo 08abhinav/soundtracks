@@ -1307,6 +1307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
 | Sansuu Driller | 222245 | [222245-sansuu-driller.json](./222245-sansuu-driller.json) |
+| Sansuu Tsuma Zuki | 345922 | [345922-sansuu-tsuma-zuki.json](./345922-sansuu-tsuma-zuki.json) |
 | Santa and Present Chaos | 278992 | [278992-santa-and-present-chaos.json](./278992-santa-and-present-chaos.json) |
 | Santa Arrow Master - Bowmaster | 104690 | [104690-santa-arrow-master-bowmaster.json](./104690-santa-arrow-master-bowmaster.json) |
 | Santa Challenge | 130959 | [130959-santa-challenge.json](./130959-santa-challenge.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
+| Sekigahara | 345909 | [345909-sekigahara.json](./345909-sekigahara.json) |
 | Sekigahara | 43203 | [43203-sekigahara.json](./43203-sekigahara.json) |
 | Sekimori Gami: Saien | 300959 | [300959-sekimori-gami-saien.json](./300959-sekimori-gami-saien.json) |
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
@@ -5295,6 +5297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
+| Shape Sender Deluxe | 345843 | [345843-shape-sender-deluxe.json](./345843-shape-sender-deluxe.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
 | Shape Shifter | 323525 | [323525-shape-shifter.json](./323525-shape-shifter.json) |
 | Shape Shifter | 398276 | [398276-shape-shifter.json](./398276-shape-shifter.json) |
@@ -13731,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Candy | 125398 | [125398-space-candy.json](./125398-space-candy.json) |
 | Space Cantina | 259073 | [259073-space-cantina.json](./259073-space-cantina.json) |
 | Space Canyon | 40771 | [40771-space-canyon.json](./40771-space-canyon.json) |
+| Space Capsule | 345911 | [345911-space-capsule.json](./345911-space-capsule.json) |
 | Space Captain McCallery Episode 1: Crash Landing | 99160 | [99160-space-captain-mccallery-episode-1-crash-landing.json](./99160-space-captain-mccallery-episode-1-crash-landing.json) |
 | Space Captain McCallery Episode 2: Pilgrims in Purple Moss | 112842 | [112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json](./112842-space-captain-mccallery-episode-2-pilgrims-in-purple-moss.json) |
 | Space Captain McCallery Episode 3: The Weaponmaster's Challenge | 142381 | [142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json](./142381-space-captain-mccallery-episode-3-the-weaponmasters-challenge.json) |
@@ -13845,6 +13849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Empires V | 15614 | [15614-space-empires-v.json](./15614-space-empires-v.json) |
 | Space Empires: Starfury | 15652 | [15652-space-empires-starfury.json](./15652-space-empires-starfury.json) |
 | Space Endeavor | 173266 | [173266-space-endeavor.json](./173266-space-endeavor.json) |
+| Space Enemy | 345912 | [345912-space-enemy.json](./345912-space-enemy.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
@@ -16843,6 +16848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
+| Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
@@ -20110,6 +20116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: A Shadow Falls | 146526 | [146526-street-fighter-v-a-shadow-falls.json](./146526-street-fighter-v-a-shadow-falls.json) |
 | Street Fighter V: Alex | 321628 | [321628-street-fighter-v-alex.json](./321628-street-fighter-v-alex.json) |
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
+| Street Fighter V: BCRF Pink Ribbon Bundle | 345848 | [345848-street-fighter-v-bcrf-pink-ribbon-bundle.json](./345848-street-fighter-v-bcrf-pink-ribbon-bundle.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
 | Street Fighter V: Capcom Pro Tour 2016 Pack | 332659 | [332659-street-fighter-v-capcom-pro-tour-2016-pack.json](./332659-street-fighter-v-capcom-pro-tour-2016-pack.json) |
 | Street Fighter V: Capcom Pro Tour 2017 Premier Pass | 332662 | [332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json](./332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json) |
@@ -20124,10 +20131,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Dan Hibiki | 262471 | [262471-street-fighter-v-dan-hibiki.json](./262471-street-fighter-v-dan-hibiki.json) |
 | Street Fighter V: Extra Battle Capcom Legend Bundle 3 | 342578 | [342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json](./342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json) |
+| Street FIghter V: Falke | 345850 | [345850-street-fighter-v-falke.json](./345850-street-fighter-v-falke.json) |
 | Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
 | Street Fighter V: Laura Costumes Bundle | 350072 | [350072-street-fighter-v-laura-costumes-bundle.json](./350072-street-fighter-v-laura-costumes-bundle.json) |
 | Street Fighter V: Luke | 261310 | [261310-street-fighter-v-luke.json](./261310-street-fighter-v-luke.json) |
 | Street Fighter V: Pro-JP 2022 Saishunkan Sol Kumamoto Costumes Bundle | 342576 | [342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json](./342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json) |
+| Street Fighter V: Pro-JP 2022 v6plus FAV gaming Costumes Bundle | 345847 | [345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json](./345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json) |
+| Street Fighter V: School Costume Pack | 345849 | [345849-street-fighter-v-school-costume-pack.json](./345849-street-fighter-v-school-costume-pack.json) |
 | Street Fighter V: Season 1-3 Nostalgia Costume Pack | 343900 | [343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json](./343900-street-fighter-v-season-1-3-nostalgia-costume-pack.json) |
 | Street Fighter V: Season 4 Character Pass | 350071 | [350071-street-fighter-v-season-4-character-pass.json](./350071-street-fighter-v-season-4-character-pass.json) |
 | Street Fighter V: Season 5 Character Pass | 350070 | [350070-street-fighter-v-season-5-character-pass.json](./350070-street-fighter-v-season-5-character-pass.json) |
@@ -23178,6 +23188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
 | Super Morph | 76904 | [76904-super-morph.json](./76904-super-morph.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
+| Super Motocross | 345913 | [345913-super-motocross.json](./345913-super-motocross.json) |
 | Super Motocross | 359743 | [359743-super-motocross.json](./359743-super-motocross.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
 | Super Move Quest | 246367 | [246367-super-move-quest.json](./246367-super-move-quest.json) |
@@ -23461,6 +23472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Runabout: San Francisco Edition | 45804 | [45804-super-runabout-san-francisco-edition.json](./45804-super-runabout-san-francisco-edition.json) |
 | Super Russian Roulette | 307936 | [307936-super-russian-roulette.json](./307936-super-russian-roulette.json) |
 | Super Ryu World | 172687 | [172687-super-ryu-world.json](./172687-super-ryu-world.json) |
+| Super Sad Banana | 345821 | [345821-super-sad-banana.json](./345821-super-sad-banana.json) |
 | Super Safe Spelunking | 372246 | [372246-super-safe-spelunking.json](./372246-super-safe-spelunking.json) |
 | Super Salome World | 296508 | [296508-super-salome-world.json](./296508-super-salome-world.json) |
 | Super Sam Adventures | 343991 | [343991-super-sam-adventures.json](./343991-super-sam-adventures.json) |
@@ -23546,6 +23558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
 | Super Smash Asteroids | 239098 | [239098-super-smash-asteroids.json](./239098-super-smash-asteroids.json) |
+| Super Smash Bros Ultimate: Akira Outfit and Wig | 345846 | [345846-super-smash-bros-ultimate-akira-outfit-and-wig.json](./345846-super-smash-bros-ultimate-akira-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Cuphead Outfit and Hat | 388797 | [388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json](./388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json) |
 | Super Smash Bros Ultimate: Erdrick's Armor and Helmet | 388795 | [388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json](./388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json) |
 | Super Smash Bros Ultimate: Jacky's Outfit and Wig | 306045 | [306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json](./306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json) |
@@ -25278,6 +25291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swinger | 91378 | [91378-swinger.json](./91378-swinger.json) |
 | Swinger-Man | 123548 | [123548-swinger-man.json](./123548-swinger-man.json) |
 | Swingers | 283718 | [283718-swingers.json](./283718-swingers.json) |
+| Swingers | 345811 | [345811-swingers.json](./345811-swingers.json) |
 | SwingHard | 310010 | [310010-swinghard.json](./310010-swinghard.json) |
 | Swingin Swiggins | 30632 | [30632-swingin-swiggins.json](./30632-swingin-swiggins.json) |
 | Swingin' | 333700 | [333700-swingin.json](./333700-swingin.json) |
