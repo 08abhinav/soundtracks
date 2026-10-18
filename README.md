@@ -1450,6 +1450,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | Cover | Game | Albums |
 |---|---|---|
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/f4/44/fef44435-99ec-8b72-25b8-d6817546b1ac/198595859636.jpg/600x600bb.jpg" width="60" /> | [Tactical Breach Wizards](https://ostdb.net/games/tactical-breach-wizards) | **Tactical Breach Wizards (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/tactical-breach-wizards-original-game-soundtrack/1769289561?uo=4) · [Album](https://album.link/i/1769289561) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273cc9e91e67c939b34b9a2e10e" width="60" /> | [Tales from Space: Mutant Blobs Attack](https://ostdb.net/games/tales-from-space-mutant-blobs-attack) | **Tales from Space: Mutant Blobs Attack (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/2Uu4QNSQDkfyC4Nwnddi1D) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ccdc0c7230cd697b5c17ec3a" width="60" /> | [Tales of Arise](https://ostdb.net/games/tales-of-arise) | **TALES OF ARISE Original Soundtrack** · [Spotify](https://open.spotify.com/album/1BeQ45CPEj51I2agsKlqOQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273847bf08ddffc44e5321a25aa" width="60" /> | [Tales of Symphonia](https://ostdb.net/games/tales-of-symphonia) | **Tales of Symphonia Original Soundtrack** · [Spotify](https://open.spotify.com/album/6TiS9kMfpqiUeau5lX7VY2) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ce58c6b1703818f523ae00ac" width="60" /> | [Tales of Vesperia](https://ostdb.net/games/tales-of-vesperia) | **Tales of Vesperia Original Soundtrack** · [Spotify](https://open.spotify.com/album/2KGNKcTfC3s7S9paQTpDhB) |
@@ -1824,4 +1825,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2141 soundtracks · last updated 2026-10-18T08:00:56.478Z_
+_2142 soundtracks · last updated 2026-10-18T08:01:03.612Z_
