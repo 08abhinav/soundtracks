@@ -2644,6 +2644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
 | Let's Go Nuts! 2 | 195471 | [195471-lets-go-nuts-2.json](./195471-lets-go-nuts-2.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
+| Let's Go Rocket | 345266 | [345266-lets-go-rocket.json](./345266-lets-go-rocket.json) |
 | Let's Go Run | 242452 | [242452-lets-go-run.json](./242452-lets-go-run.json) |
 | Let's Go Thingio!: Re:Thingio Side A | 323753 | [323753-lets-go-thingio-re-thingio-side-a.json](./323753-lets-go-thingio-re-thingio-side-a.json) |
 | Let's Go To The Circus | 299150 | [299150-lets-go-to-the-circus.json](./299150-lets-go-to-the-circus.json) |
@@ -4045,6 +4046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The Downcast | 387510 | [387510-lisa-the-downcast.json](./387510-lisa-the-downcast.json) |
 | Lisa: The Gluttonous | 382794 | [382794-lisa-the-gluttonous.json](./382794-lisa-the-gluttonous.json) |
+| Lisa: The Heartless | 345354 | [345354-lisa-the-heartless.json](./345354-lisa-the-heartless.json) |
 | Lisa: The Oblivious | 215082 | [215082-lisa-the-oblivious.json](./215082-lisa-the-oblivious.json) |
 | Lisa: The Painful - Fractured Bonds | 221767 | [221767-lisa-the-painful-fractured-bonds.json](./221767-lisa-the-painful-fractured-bonds.json) |
 | Lisa: The Pointless - Scholar of the Wilbur Sin Edition | 177033 | [177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json](./177033-lisa-the-pointless-scholar-of-the-wilbur-sin-edition.json) |
@@ -5604,6 +5606,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
 | Loser Simulator | 305835 | [305835-loser-simulator.json](./305835-loser-simulator.json) |
 | Loser's Romance | 225203 | [225203-losers-romance.json](./225203-losers-romance.json) |
+| Losers Lament | 345258 | [345258-losers-lament.json](./345258-losers-lament.json) |
+| Losers Lament 2 | 345259 | [345259-losers-lament-2.json](./345259-losers-lament-2.json) |
+| Losers Lament 3 | 345260 | [345260-losers-lament-3.json](./345260-losers-lament-3.json) |
 | Losing Control | 179061 | [179061-losing-control.json](./179061-losing-control.json) |
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
