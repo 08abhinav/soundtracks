@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:06:12.751Z",
-  "total_soundtracks": 2197,
+  "generated_at": "2026-10-18T17:06:20.168Z",
+  "total_soundtracks": 2198,
   "games": [
     {
       "igdb_id": 7522,
@@ -17173,6 +17173,20 @@
         {
           "album_name": "Potion Craft (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5jQzneucwEsCtGm6RXbwDB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 155706,
+      "game_name": "Potion Permit",
+      "game_url": "https://ostdb.net/games/potion-permit",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f10f63d1fdcabb34f6f1e43d",
+      "albums": [
+        {
+          "album_name": "Potion Permit (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Zs8QdTRuWb2Ci4wx0mOFl",
           "apple_music_url": "",
           "album_link_url": ""
         }
