@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrogram | 197742 | [197742-retrogram.json](./197742-retrogram.json) |
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
+| Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
