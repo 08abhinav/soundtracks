@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Wrapper | 184297 | [184297-candy-wrapper.json](./184297-candy-wrapper.json) |
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
+| Candy's Custom Night | 336343 | [336343-candys-custom-night.json](./336343-candys-custom-night.json) |
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
@@ -1427,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
+| Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
 | Car Demolition Clicker | 74140 | [74140-car-demolition-clicker.json](./74140-car-demolition-clicker.json) |
 | Car Destroyer | 203888 | [203888-car-destroyer.json](./203888-car-destroyer.json) |
@@ -8713,6 +8715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Isometric 3 Pack | 351618 | [351618-coloring-pixels-isometric-3-pack.json](./351618-coloring-pixels-isometric-3-pack.json) |
 | Coloring Pixels: Isometric Pack | 162604 | [162604-coloring-pixels-isometric-pack.json](./162604-coloring-pixels-isometric-pack.json) |
 | Coloring Pixels: Japan Pack | 241318 | [241318-coloring-pixels-japan-pack.json](./241318-coloring-pixels-japan-pack.json) |
+| Coloring Pixels: Jungle Pack | 336338 | [336338-coloring-pixels-jungle-pack.json](./336338-coloring-pixels-jungle-pack.json) |
 | Coloring Pixels: Landmarks 2 Pack | 162608 | [162608-coloring-pixels-landmarks-2-pack.json](./162608-coloring-pixels-landmarks-2-pack.json) |
 | Coloring Pixels: Landmarks Pack | 162612 | [162612-coloring-pixels-landmarks-pack.json](./162612-coloring-pixels-landmarks-pack.json) |
 | Coloring Pixels: Magic Pack | 259861 | [259861-coloring-pixels-magic-pack.json](./259861-coloring-pixels-magic-pack.json) |
@@ -12081,6 +12084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Create City | 24750 | [24750-create-city.json](./24750-create-city.json) |
 | Create Real Games | 89283 | [89283-create-real-games.json](./89283-create-real-games.json) |
 | Create With Garfield! | 67238 | [67238-create-with-garfield.json](./67238-create-with-garfield.json) |
+| Create You Tiny Idle | 336341 | [336341-create-you-tiny-idle.json](./336341-create-you-tiny-idle.json) |
 | Create Your Own Caricature with Spitting Image | 66359 | [66359-create-your-own-caricature-with-spitting-image.json](./66359-create-your-own-caricature-with-spitting-image.json) |
 | Create Your Own Model Railway | 158939 | [158939-create-your-own-model-railway.json](./158939-create-your-own-model-railway.json) |
 | Create: Above and Beyond | 331400 | [331400-create-above-and-beyond.json](./331400-create-above-and-beyond.json) |
