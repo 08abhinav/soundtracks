@@ -6637,6 +6637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboWars | 10779 | [10779-robowars.json](./10779-robowars.json) |
 | Robowork | 138556 | [138556-robowork.json](./138556-robowork.json) |
 | Robox | 147916 | [147916-robox.json](./147916-robox.json) |
+| Robox | 319997 | [319997-robox.json](./319997-robox.json) |
 | Robox | 66748 | [66748-robox.json](./66748-robox.json) |
 | Robozarro | 112708 | [112708-robozarro.json](./112708-robozarro.json) |
 | Robozarro 2: Operation Atlantic | 187386 | [187386-robozarro-2-operation-atlantic.json](./187386-robozarro-2-operation-atlantic.json) |
@@ -8738,6 +8739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of Gravity | 158586 | [158586-rules-of-gravity.json](./158586-rules-of-gravity.json) |
 | Rules of Nature | 348812 | [348812-rules-of-nature.json](./348812-rules-of-nature.json) |
 | Rules of the Game | 94237 | [94237-rules-of-the-game.json](./94237-rules-of-the-game.json) |
+| Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
