@@ -90,6 +90,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath MMORPG | 124532 | [124532-oath-mmorpg.json](./124532-oath-mmorpg.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
+| Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
 | Oba Doba | 238633 | [238633-oba-doba.json](./238633-oba-doba.json) |
@@ -2644,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppaidius Tropical Cruise! | 126641 | [126641-oppaidius-tropical-cruise.json](./126641-oppaidius-tropical-cruise.json) |
 | Oppidum | 256927 | [256927-oppidum.json](./256927-oppidum.json) |
 | Opportunity: A Sugar Baby Story | 157069 | [157069-opportunity-a-sugar-baby-story.json](./157069-opportunity-a-sugar-baby-story.json) |
+| Opposite Attack | 328309 | [328309-opposite-attack.json](./328309-opposite-attack.json) |
 | Opposite Day | 313243 | [313243-opposite-day.json](./313243-opposite-day.json) |
 | Opposite Day 2 | 329173 | [329173-opposite-day-2.json](./329173-opposite-day-2.json) |
 | Oppositely Opal | 58699 | [58699-oppositely-opal.json](./58699-oppositely-opal.json) |
