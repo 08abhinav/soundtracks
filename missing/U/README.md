@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
+| UFO Stomper | 348013 | [348013-ufo-stomper.json](./348013-ufo-stomper.json) |
 | UFO vs. Bikini | 152501 | [152501-ufo-vs-bikini.json](./152501-ufo-vs-bikini.json) |
 | UFO-Man | 320962 | [320962-ufo-man.json](./320962-ufo-man.json) |
 | UFO: A Day in the Life | 44742 | [44742-ufo-a-day-in-the-life.json](./44742-ufo-a-day-in-the-life.json) |
@@ -415,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
 | Ultimate Gin | 270622 | [270622-ultimate-gin.json](./270622-ultimate-gin.json) |
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
+| Ultimate Golf Battle | 348111 | [348111-ultimate-golf-battle.json](./348111-ultimate-golf-battle.json) |
 | Ultimate Goomboss Challenge | 300254 | [300254-ultimate-goomboss-challenge.json](./300254-ultimate-goomboss-challenge.json) |
 | Ultimate Grandma Simulator | 368252 | [368252-ultimate-grandma-simulator.json](./368252-ultimate-grandma-simulator.json) |
 | Ultimate Guess Game | 408797 | [408797-ultimate-guess-game.json](./408797-ultimate-guess-game.json) |
