@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read Only Memories: Neurodiver - Collector's Edition | 292138 | [292138-read-only-memories-neurodiver-collectors-edition.json](./292138-read-only-memories-neurodiver-collectors-edition.json) |
 | Read the Unfinished Donkey Kong Country Story...and then Finish the Adventure! | 328601 | [328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json](./328601-read-the-unfinished-donkey-kong-country-story-and-then-finish-the-adventure.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
+| Read, Write, & Type | 314139 | [314139-read-write-and-type.json](./314139-read-write-and-type.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
 | Reader Rabbit 1st Grade | 88280 | [88280-reader-rabbit-1st-grade.json](./88280-reader-rabbit-1st-grade.json) |
 | Reader Rabbit 1st Grade: Capers on Cloud Nine | 139351 | [139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json](./139351-reader-rabbit-1st-grade-capers-on-cloud-nine.json) |
