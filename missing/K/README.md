@@ -826,7 +826,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
-| Katamari Forever | 6459 | [6459-katamari-forever.json](./6459-katamari-forever.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
 | Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
