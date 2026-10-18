@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms The Company | 309864 | [309864-backrooms-the-company.json](./309864-backrooms-the-company.json) |
 | Backrooms Untold | 409746 | [409746-backrooms-untold.json](./409746-backrooms-untold.json) |
 | Backrooms VS | 250942 | [250942-backrooms-vs.json](./250942-backrooms-vs.json) |
+| BackRooms X | 337438 | [337438-backrooms-x.json](./337438-backrooms-x.json) |
 | Backrooms: Between Lost Dimension | 304101 | [304101-backrooms-between-lost-dimension.json](./304101-backrooms-between-lost-dimension.json) |
 | Backrooms: Beyond One Year | 289230 | [289230-backrooms-beyond-one-year.json](./289230-backrooms-beyond-one-year.json) |
 | Backrooms: Blackhole | 404886 | [404886-backrooms-blackhole.json](./404886-backrooms-blackhole.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bill the Demon | 229813 | [229813-bill-the-demon.json](./229813-bill-the-demon.json) |
 | Bill Walsh College Football | 5363 | [5363-bill-walsh-college-football.json](./5363-bill-walsh-college-football.json) |
 | Bill Walsh College Football '95 | 5364 | [5364-bill-walsh-college-football-95.json](./5364-bill-walsh-college-football-95.json) |
+| Bill Wants to Retire | 337518 | [337518-bill-wants-to-retire.json](./337518-bill-wants-to-retire.json) |
 | Bill's Hotel | 176754 | [176754-bills-hotel.json](./176754-bills-hotel.json) |
 | Bill's Tomato Game | 14306 | [14306-bills-tomato-game.json](./14306-bills-tomato-game.json) |
 | Billard | 40763 | [40763-billard.json](./40763-billard.json) |
