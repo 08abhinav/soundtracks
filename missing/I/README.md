@@ -2632,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernae | 267082 | [267082-infernae.json](./267082-infernae.json) |
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
+| Infernal Bloodrush | 310286 | [310286-infernal-bloodrush.json](./310286-infernal-bloodrush.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Cleaner | 411806 | [411806-infernal-cleaner.json](./411806-infernal-cleaner.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
+| Ink Escape: Coven Conundrum | 310270 | [310270-ink-escape-coven-conundrum.json](./310270-ink-escape-coven-conundrum.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
 | Ink Inside | 218684 | [218684-ink-inside.json](./218684-ink-inside.json) |
 | Ink Neko Maid | 247428 | [247428-ink-neko-maid.json](./247428-ink-neko-maid.json) |
