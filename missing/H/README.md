@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
 | Hacking Into Erebus | 412415 | [412415-hacking-into-erebus.json](./412415-hacking-into-erebus.json) |
 | Hacking Simulator | 256363 | [256363-hacking-simulator.json](./256363-hacking-simulator.json) |
+| Hacking The Moon to Find My Goddess | 337493 | [337493-hacking-the-moon-to-find-my-goddess.json](./337493-hacking-the-moon-to-find-my-goddess.json) |
 | Hacking with Benefits | 379646 | [379646-hacking-with-benefits.json](./379646-hacking-with-benefits.json) |
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
@@ -3269,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Sunshine | 335658 | [335658-hello-sunshine.json](./335658-hello-sunshine.json) |
 | Hello Tale | 224103 | [224103-hello-tale.json](./224103-hello-tale.json) |
 | Hello Teacher | 154367 | [154367-hello-teacher.json](./154367-hello-teacher.json) |
+| Hello User! | 337510 | [337510-hello-user.json](./337510-hello-user.json) |
 | Hello Venice | 231315 | [231315-hello-venice.json](./231315-hello-venice.json) |
 | Hello Venice 2: New York Adventure | 294801 | [294801-hello-venice-2-new-york-adventure.json](./294801-hello-venice-2-new-york-adventure.json) |
 | Hello World | 132633 | [132633-hello-world.json](./132633-hello-world.json) |
