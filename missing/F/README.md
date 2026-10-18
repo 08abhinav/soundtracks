@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fake Signals | 236273 | [236273-fake-signals.json](./236273-fake-signals.json) |
 | Fake World | 55270 | [55270-fake-world.json](./55270-fake-world.json) |
 | Fake/SuperSonia | 59233 | [59233-fake-supersonia.json](./59233-fake-supersonia.json) |
+| Fakemon FireRed | 324145 | [324145-fakemon-firered.json](./324145-fakemon-firered.json) |
 | Faker Crime: Elysion | 82709 | [82709-faker-crime-elysion.json](./82709-faker-crime-elysion.json) |
 | Fakespearean: Overdramatic | 118254 | [118254-fakespearean-overdramatic.json](./118254-fakespearean-overdramatic.json) |
 | Fakin' It All Night Long | 376219 | [376219-fakin-it-all-night-long.json](./376219-fakin-it-all-night-long.json) |
@@ -4886,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Universe Simulator | 114416 | [114416-fishing-universe-simulator.json](./114416-fishing-universe-simulator.json) |
 | Fishing Up | 346129 | [346129-fishing-up.json](./346129-fishing-up.json) |
 | Fishing Valley | 328534 | [328534-fishing-valley.json](./328534-fishing-valley.json) |
+| Fishing With The Homies | 324149 | [324149-fishing-with-the-homies.json](./324149-fishing-with-the-homies.json) |
 | Fishing World | 58131 | [58131-fishing-world.json](./58131-fishing-world.json) |
 | Fishing: Barents Sea - Complete Edition | 125188 | [125188-fishing-barents-sea-complete-edition.json](./125188-fishing-barents-sea-complete-edition.json) |
 | Fishing: Barents Sea - King Crab | 111647 | [111647-fishing-barents-sea-king-crab.json](./111647-fishing-barents-sea-king-crab.json) |
@@ -5840,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Float | 245770 | [245770-float.json](./245770-float.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
 | Float Night | 111521 | [111521-float-night.json](./111521-float-night.json) |
+| Float Survival Simulator: Ocean Survivor | 324184 | [324184-float-survival-simulator-ocean-survivor.json](./324184-float-survival-simulator-ocean-survivor.json) |
 | Float: Champions | 257948 | [257948-float-champions.json](./257948-float-champions.json) |
 | Floathink | 149936 | [149936-floathink.json](./149936-floathink.json) |
 | Floatineer | 358242 | [358242-floatineer.json](./358242-floatineer.json) |
@@ -6044,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower of Anarchy | 380218 | [380218-flower-of-anarchy.json](./380218-flower-of-anarchy.json) |
 | Flower of Ice Blossoming Under the Moon | 82918 | [82918-flower-of-ice-blossoming-under-the-moon.json](./82918-flower-of-ice-blossoming-under-the-moon.json) |
 | Flower Power | 354058 | [354058-flower-power.json](./354058-flower-power.json) |
+| Flower Power: The Adventures of Magical Plants | 324188 | [324188-flower-power-the-adventures-of-magical-plants.json](./324188-flower-power-the-adventures-of-magical-plants.json) |
 | Flower Shop of Broken Wonders | 299174 | [299174-flower-shop-of-broken-wonders.json](./299174-flower-shop-of-broken-wonders.json) |
 | Flower Shop: Big City Break | 209457 | [209457-flower-shop-big-city-break.json](./209457-flower-shop-big-city-break.json) |
 | Flower Shop: Summer In Fairbrook | 9843 | [9843-flower-shop-summer-in-fairbrook.json](./9843-flower-shop-summer-in-fairbrook.json) |
@@ -8292,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddi Fish: ABC's Under the Sea | 3749 | [3749-freddi-fish-abcs-under-the-sea.json](./3749-freddi-fish-abcs-under-the-sea.json) |
 | Freddi Fish: Het Verhaal van de Verdwenen Zeewierzaadjes | 301504 | [301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json](./301504-freddi-fish-het-verhaal-van-de-verdwenen-zeewierzaadjes.json) |
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
+| Freddy Farmer | 324186 | [324186-freddy-farmer.json](./324186-freddy-farmer.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
 | Freddy Fazbear's Pizzeria Simulator | 76725 | [76725-freddy-fazbears-pizzeria-simulator.json](./76725-freddy-fazbears-pizzeria-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
