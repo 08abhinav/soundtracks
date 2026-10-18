@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandwich Runner | 193845 | [193845-sandwich-runner.json](./193845-sandwich-runner.json) |
 | Sandwich Shop Simulator | 407379 | [407379-sandwich-shop-simulator.json](./407379-sandwich-shop-simulator.json) |
 | Sandwich Sim | 298133 | [298133-sandwich-sim.json](./298133-sandwich-sim.json) |
+| Sandwich Simulator | 345351 | [345351-sandwich-simulator.json](./345351-sandwich-simulator.json) |
 | Sandy | 388188 | [388188-sandy.json](./388188-sandy.json) |
 | Sandy & Junior: Aventura Virtual | 132863 | [132863-sandy-and-junior-aventura-virtual.json](./132863-sandy-and-junior-aventura-virtual.json) |
 | Sandy and the "Jewelry" | 421815 | [421815-sandy-and-the-jewelry.json](./421815-sandy-and-the-jewelry.json) |
@@ -2218,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School! Love Reflex | 181118 | [181118-school-love-reflex.json](./181118-school-love-reflex.json) |
 | School's Out | 390089 | [390089-schools-out.json](./390089-schools-out.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
+| Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy Simulator | 335077 | [335077-schoolboy-simulator.json](./335077-schoolboy-simulator.json) |
 | SchoolGirl AI 3D Anime Sandbox | 296761 | [296761-schoolgirl-ai-3d-anime-sandbox.json](./296761-schoolgirl-ai-3d-anime-sandbox.json) |
@@ -4529,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Search 2: Ultimate | 204430 | [204430-sex-search-2-ultimate.json](./204430-sex-search-2-ultimate.json) |
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
 | Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
+| Sex Shop Supermarket Simulator | 345361 | [345361-sex-shop-supermarket-simulator.json](./345361-sex-shop-supermarket-simulator.json) |
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
@@ -8659,6 +8662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchfab VR | 32920 | [32920-sketchfab-vr.json](./32920-sketchfab-vr.json) |
 | SketchFighter 4000 Alpha | 146190 | [146190-sketchfighter-4000-alpha.json](./146190-sketchfighter-4000-alpha.json) |
 | Sketchful.io | 122975 | [122975-sketchful-io.json](./122975-sketchful-io.json) |
+| Sketchman | 345274 | [345274-sketchman.json](./345274-sketchman.json) |
 | Sketchy | 54461 | [54461-sketchy.json](./54461-sketchy.json) |
 | Sketchy 2 | 54460 | [54460-sketchy-2.json](./54460-sketchy-2.json) |
 | Sketchy Arcade | 359619 | [359619-sketchy-arcade.json](./359619-sketchy-arcade.json) |
@@ -10581,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake of Maths! Cool Education Game | 204973 | [204973-snake-of-maths-cool-education-game.json](./204973-snake-of-maths-cool-education-game.json) |
 | Snake on Dope | 194303 | [194303-snake-on-dope.json](./194303-snake-on-dope.json) |
 | Snake Party | 29906 | [29906-snake-party.json](./29906-snake-party.json) |
+| Snake Party Extreme | 345284 | [345284-snake-party-extreme.json](./345284-snake-party-extreme.json) |
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
 | Snake Pit | 188996 | [188996-snake-pit.json](./188996-snake-pit.json) |
 | Snake Pit | 24011 | [24011-snake-pit.json](./24011-snake-pit.json) |
@@ -13105,6 +13110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort and Stack | 108295 | [108295-sort-and-stack.json](./108295-sort-and-stack.json) |
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
+| Sort Em All | 345264 | [345264-sort-em-all.json](./345264-sort-em-all.json) |
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
@@ -23272,6 +23278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Owlboy | 211658 | [211658-super-owlboy.json](./211658-super-owlboy.json) |
 | Super Ox Wars | 22171 | [22171-super-ox-wars.json](./22171-super-ox-wars.json) |
 | Super Pac-Man | 239191 | [239191-super-pac-man.json](./239191-super-pac-man.json) |
+| Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Pang | 195059 | [195059-super-pang.json](./195059-super-pang.json) |
@@ -24167,6 +24174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
+| Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
@@ -24832,6 +24840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
 | Suzy Burger | 151609 | [151609-suzy-burger.json](./151609-suzy-burger.json) |
 | Suzy Cube | 103247 | [103247-suzy-cube.json](./103247-suzy-cube.json) |
+| Suzy's Restaurant: Food Empire | 345270 | [345270-suzys-restaurant-food-empire.json](./345270-suzys-restaurant-food-empire.json) |
 | Svarog's Dream: Return of the Old Gods | 311099 | [311099-svarogs-dream-return-of-the-old-gods.json](./311099-svarogs-dream-return-of-the-old-gods.json) |
 | Svea Rike | 92933 | [92933-svea-rike.json](./92933-svea-rike.json) |
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
