@@ -979,6 +979,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cases: The Blood Ruby - Collector's Edition | 30042 | [30042-dark-cases-the-blood-ruby-collectors-edition.json](./30042-dark-cases-the-blood-ruby-collectors-edition.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
+| Dark Castle | 337427 | [337427-dark-castle.json](./337427-dark-castle.json) |
+| Dark Castle | 337429 | [337429-dark-castle.json](./337429-dark-castle.json) |
 | Dark Cave | 170841 | [170841-dark-cave.json](./170841-dark-cave.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
@@ -2898,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
 | Deadly Project | 386358 | [386358-deadly-project.json](./386358-deadly-project.json) |
 | Deadly Quiet | 342268 | [342268-deadly-quiet.json](./342268-deadly-quiet.json) |
+| Deadly Rails | 337436 | [337436-deadly-rails.json](./337436-deadly-rails.json) |
 | Deadly Rehearsal | 326599 | [326599-deadly-rehearsal.json](./326599-deadly-rehearsal.json) |
 | Deadly Reunion | 341641 | [341641-deadly-reunion.json](./341641-deadly-reunion.json) |
 | Deadly Road | 247097 | [247097-deadly-road.json](./247097-deadly-road.json) |
@@ -5722,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Crown | 13592 | [13592-devils-crown.json](./13592-devils-crown.json) |
 | Devil's Dare | 8798 | [8798-devils-dare.json](./8798-devils-dare.json) |
 | Devil's Deck: Astray Destiny | 207370 | [207370-devils-deck-astray-destiny.json](./207370-devils-deck-astray-destiny.json) |
+| Devil's Derby | 337494 | [337494-devils-derby.json](./337494-devils-derby.json) |
 | Devil's Dice | 412803 | [412803-devils-dice.json](./412803-devils-dice.json) |
 | Devil's Dream | 149889 | [149889-devils-dream.json](./149889-devils-dream.json) |
 | Devil's Drizzle | 318133 | [318133-devils-drizzle.json](./318133-devils-drizzle.json) |
@@ -9584,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorothy's Job | 368016 | [368016-dorothys-job.json](./368016-dorothys-job.json) |
 | Dorothy's Magical Journey in Oz | 410213 | [410213-dorothys-magical-journey-in-oz.json](./410213-dorothys-magical-journey-in-oz.json) |
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
+| Dorsaka | 337424 | [337424-dorsaka.json](./337424-dorsaka.json) |
 | Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
