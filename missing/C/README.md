@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
 | Carroñero | 385939 | [385939-carronero.json](./385939-carronero.json) |
+| Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
 | Carrot Fantasy | 279200 | [279200-carrot-fantasy.json](./279200-carrot-fantasy.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophe | 380059 | [380059-catastrophe.json](./380059-catastrophe.json) |
 | Catastrophe Crow | 304149 | [304149-catastrophe-crow.json](./304149-catastrophe-crow.json) |
 | Catastrophe Escape | 101935 | [101935-catastrophe-escape.json](./101935-catastrophe-escape.json) |
+| Catastrophe: Earthquake | 340801 | [340801-catastrophe-earthquake.json](./340801-catastrophe-earthquake.json) |
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
@@ -5133,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood Friends | 150423 | [150423-childhood-friends.json](./150423-childhood-friends.json) |
 | Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
+| Childhood Heroes 3 in 1 | 340735 | [340735-childhood-heroes-3-in-1.json](./340735-childhood-heroes-3-in-1.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
 | Childhood's End | 365171 | [365171-childhoods-end.json](./365171-childhoods-end.json) |
 | Childhood's Rush | 293541 | [293541-childhoods-rush.json](./293541-childhoods-rush.json) |
@@ -6118,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chutes and Ladders | 92928 | [92928-chutes-and-ladders.json](./92928-chutes-and-ladders.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 1 Nensei You | 65994 | [65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json](./65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 2 Nensei You | 65993 | [65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json](./65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json) |
+| Chuugen no Hasha: Sangoku Shouseiden | 340811 | [340811-chuugen-no-hasha-sangoku-shouseiden.json](./340811-chuugen-no-hasha-sangoku-shouseiden.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
