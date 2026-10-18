@@ -10448,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
 | As Dusk Falls | 135995 | [135995-as-dusk-falls.json](./135995-as-dusk-falls.json) |
+| As Dusk Falls: Special Edition | 324757 | [324757-as-dusk-falls-special-edition.json](./324757-as-dusk-falls-special-edition.json) |
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
