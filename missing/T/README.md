@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tegra: Post Apocalypse Survival | 231886 | [231886-tegra-post-apocalypse-survival.json](./231886-tegra-post-apocalypse-survival.json) |
 | Tegzer | 288691 | [288691-tegzer.json](./288691-tegzer.json) |
 | Teh Scrunglybois: Working Title | 382920 | [382920-teh-scrunglybois-working-title.json](./382920-teh-scrunglybois-working-title.json) |
+| Tehawar Puzzle! | 310284 | [310284-tehawar-puzzle.json](./310284-tehawar-puzzle.json) |
 | Tehkan World Cup | 39502 | [39502-tehkan-world-cup.json](./39502-tehkan-world-cup.json) |
 | Tehnodrom | 305968 | [305968-tehnodrom.json](./305968-tehnodrom.json) |
 | Tehodoki Koukan: Gibo & Tomohaha Harem-Hen | 91374 | [91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json](./91374-tehodoki-koukan-gibo-and-tomohaha-harem-hen.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
+| Ten Shot | 310268 | [310268-ten-shot.json](./310268-ten-shot.json) |
 | Ten Thousand Immortals | 284287 | [284287-ten-thousand-immortals.json](./284287-ten-thousand-immortals.json) |
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
@@ -13295,6 +13297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Mystery Island: The Ghost Ship | 53772 | [53772-the-treasures-of-mystery-island-the-ghost-ship.json](./53772-the-treasures-of-mystery-island-the-ghost-ship.json) |
 | The Tree | 156064 | [156064-the-tree.json](./156064-the-tree.json) |
 | The Tree | 192232 | [192232-the-tree.json](./192232-the-tree.json) |
+| The Tree of Immortality | 310290 | [310290-the-tree-of-immortality.json](./310290-the-tree-of-immortality.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
@@ -16581,6 +16584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles of Hope: Matching Games | 331373 | [331373-tiles-of-hope-matching-games.json](./331373-tiles-of-hope-matching-games.json) |
 | Tiles of the Dragon | 71416 | [71416-tiles-of-the-dragon.json](./71416-tiles-of-the-dragon.json) |
 | Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
+| Tiles Puzzle | 310278 | [310278-tiles-puzzle.json](./310278-tiles-puzzle.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
 | Tiles Town | 240118 | [240118-tiles-town.json](./240118-tiles-town.json) |
 | Tilescapes | 350518 | [350518-tilescapes.json](./350518-tilescapes.json) |
@@ -19970,6 +19974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
 | Town of Zoz | 335295 | [335295-town-of-zoz.json](./335295-town-of-zoz.json) |
 | Town Police Simulator | 302390 | [302390-town-police-simulator.json](./302390-town-police-simulator.json) |
+| Town Rhapsody | 310274 | [310274-town-rhapsody.json](./310274-town-rhapsody.json) |
 | Town Rush | 220179 | [220179-town-rush.json](./220179-town-rush.json) |
 | Town Star | 145327 | [145327-town-star.json](./145327-town-star.json) |
 | Town Story | 106967 | [106967-town-story.json](./106967-town-story.json) |
@@ -24148,6 +24153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
+| Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
 | Twnkl Gft 2: A Lust For Blood | 372212 | [372212-twnkl-gft-2-a-lust-for-blood.json](./372212-twnkl-gft-2-a-lust-for-blood.json) |
 | Two | 357458 | [357458-two.json](./357458-two.json) |
