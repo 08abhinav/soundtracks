@@ -12972,6 +12972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Driving Simulator 24: City Roads - Electric Bus | 284958 | [284958-bus-driving-simulator-24-city-roads-electric-bus.json](./284958-bus-driving-simulator-24-city-roads-electric-bus.json) |
 | Bus Driving Simulator 24: City Roads - London Double Decker Bus | 284959 | [284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json](./284959-bus-driving-simulator-24-city-roads-london-double-decker-bus.json) |
 | Bus Driving Simulator 24: City Roads - School Bus | 284960 | [284960-bus-driving-simulator-24-city-roads-school-bus.json](./284960-bus-driving-simulator-24-city-roads-school-bus.json) |
+| Bus Driving Simulator: EVO | 315928 | [315928-bus-driving-simulator-evo.json](./315928-bus-driving-simulator-evo.json) |
 | Bus Escape: Traffic Jam | 357384 | [357384-bus-escape-traffic-jam.json](./357384-bus-escape-traffic-jam.json) |
 | Bus Fix 2019 | 120179 | [120179-bus-fix-2019.json](./120179-bus-fix-2019.json) |
 | Bus Flipper Simulator | 326464 | [326464-bus-flipper-simulator.json](./326464-bus-flipper-simulator.json) |
@@ -13007,6 +13008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator 27 | 355086 | [355086-bus-simulator-27.json](./355086-bus-simulator-27.json) |
 | Bus Simulator 3D | 241060 | [241060-bus-simulator-3d.json](./241060-bus-simulator-3d.json) |
 | Bus Simulator City Ride | 210909 | [210909-bus-simulator-city-ride.json](./210909-bus-simulator-city-ride.json) |
+| Bus Simulator Driver 2024: City Zone | 315933 | [315933-bus-simulator-driver-2024-city-zone.json](./315933-bus-simulator-driver-2024-city-zone.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
