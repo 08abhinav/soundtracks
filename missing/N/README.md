@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navitune: Dragon Koukaigi | 400944 | [400944-navitune-dragon-koukaigi.json](./400944-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400945 | [400945-navitune-dragon-koukaigi.json](./400945-navitune-dragon-koukaigi.json) |
 | Navitune: Dragon Koukaigi | 400947 | [400947-navitune-dragon-koukaigi.json](./400947-navitune-dragon-koukaigi.json) |
+| Navy Blue 90 | 353629 | [353629-navy-blue-90.json](./353629-navy-blue-90.json) |
 | Navy challenge | 326137 | [326137-navy-challenge.json](./326137-navy-challenge.json) |
 | Navy Commander | 85305 | [85305-navy-commander.json](./85305-navy-commander.json) |
 | Navy Field | 55462 | [55462-navy-field.json](./55462-navy-field.json) |
