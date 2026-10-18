@@ -8806,6 +8806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
+| Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
@@ -11009,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoody: One of the Ayrie | 252262 | [252262-snoody-one-of-the-ayrie.json](./252262-snoody-one-of-the-ayrie.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
+| Snooker Blitz | 315913 | [315913-snooker-blitz.json](./315913-snooker-blitz.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
 | Snooker Fever: Discovery Edition | 396930 | [396930-snooker-fever-discovery-edition.json](./396930-snooker-fever-discovery-edition.json) |
@@ -14776,6 +14778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceStationSim | 20645 | [20645-spacestationsim.json](./20645-spacestationsim.json) |
 | SpaceTac | 47171 | [47171-spacetac.json](./47171-spacetac.json) |
 | Spaceteam | 7207 | [7207-spaceteam.json](./7207-spaceteam.json) |
+| Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
 | Spacetronic | 270683 | [270683-spacetronic.json](./270683-spacetronic.json) |
 | Spacetug | 179028 | [179028-spacetug.json](./179028-spacetug.json) |
@@ -20476,6 +20479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
+| Street Survival: Homeless Simulator | 315923 | [315923-street-survival-homeless-simulator.json](./315923-street-survival-homeless-simulator.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
 | Street Takoyaki | 385430 | [385430-street-takoyaki.json](./385430-street-takoyaki.json) |
 | Street Tennis, the Next Generation Champions | 57668 | [57668-street-tennis-the-next-generation-champions.json](./57668-street-tennis-the-next-generation-champions.json) |
@@ -22634,6 +22638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Huey 1 & 2 Airdrop | 171909 | [171909-super-huey-1-and-2-airdrop.json](./171909-super-huey-1-and-2-airdrop.json) |
 | Super Huggie Bros | 272806 | [272806-super-huggie-bros.json](./272806-super-huggie-bros.json) |
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
+| Super Hyper Hippo | 315889 | [315889-super-hyper-hippo.json](./315889-super-hyper-hippo.json) |
 | Super Hyperactive Ninja | 68358 | [68358-super-hyperactive-ninja.json](./68358-super-hyperactive-ninja.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
@@ -24434,6 +24439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
 | Supermarket Simulator 2026 | 399602 | [399602-supermarket-simulator-2026.json](./399602-supermarket-simulator-2026.json) |
 | Supermarket Simulator Deluxe | 345265 | [345265-supermarket-simulator-deluxe.json](./345265-supermarket-simulator-deluxe.json) |
+| Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
 | Supermarket Together | 311540 | [311540-supermarket-together.json](./311540-supermarket-together.json) |
