@@ -1968,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
 | Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
+| Legendary Tomb Digger | 357036 | [357036-legendary-tomb-digger.json](./357036-legendary-tomb-digger.json) |
 | Legendary Wars | 63233 | [63233-legendary-wars.json](./63233-legendary-wars.json) |
 | Legendary Wars: T-Rex Rumble | 91614 | [91614-legendary-wars-t-rex-rumble.json](./91614-legendary-wars-t-rex-rumble.json) |
 | Legendary Wings | 288843 | [288843-legendary-wings.json](./288843-legendary-wings.json) |
