@@ -4313,7 +4313,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Walls Break | 388298 | [388298-before-the-walls-break.json](./388298-before-the-walls-break.json) |
 | Before They Leave | 184918 | [184918-before-they-leave.json](./184918-before-they-leave.json) |
 | Before Times | 398359 | [398359-before-times.json](./398359-before-times.json) |
-| Before We Leave | 120878 | [120878-before-we-leave.json](./120878-before-we-leave.json) |
 | Before We Leave: Deluxe Edition | 242609 | [242609-before-we-leave-deluxe-edition.json](./242609-before-we-leave-deluxe-edition.json) |
 | Before You Depart | 252817 | [252817-before-you-depart.json](./252817-before-you-depart.json) |
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
