@@ -11651,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
 | Project Rod3nt | 401073 | [401073-project-rod3nt.json](./401073-project-rod3nt.json) |
+| Project Rodeo | 316466 | [316466-project-rodeo.json](./316466-project-rodeo.json) |
 | Project Rogueteers | 316772 | [316772-project-rogueteers.json](./316772-project-rogueteers.json) |
 | Project Roll | 287040 | [287040-project-roll.json](./287040-project-roll.json) |
 | Project Romboid | 207300 | [207300-project-romboid.json](./207300-project-romboid.json) |
