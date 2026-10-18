@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
 | Halo Infinite: Operation - Great Journey | 335849 | [335849-halo-infinite-operation-great-journey.json](./335849-halo-infinite-operation-great-journey.json) |
+| Halo Infinite: Operation - Legacy | 349183 | [349183-halo-infinite-operation-legacy.json](./349183-halo-infinite-operation-legacy.json) |
 | Halo Infinite: Operation - Shadows | 364581 | [364581-halo-infinite-operation-shadows.json](./364581-halo-infinite-operation-shadows.json) |
 | Halo Infinite: Operation - Snowbound | 335848 | [335848-halo-infinite-operation-snowbound.json](./335848-halo-infinite-operation-snowbound.json) |
 | Halo Infinite: Operation - Warpath | 367399 | [367399-halo-infinite-operation-warpath.json](./367399-halo-infinite-operation-warpath.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted PS1 Madvent Calendar 2020 | 141758 | [141758-haunted-ps1-madvent-calendar-2020.json](./141758-haunted-ps1-madvent-calendar-2020.json) |
 | Haunted Record | 304608 | [304608-haunted-record.json](./304608-haunted-record.json) |
 | Haunted ROM: The Lost Cartridge | 363042 | [363042-haunted-rom-the-lost-cartridge.json](./363042-haunted-rom-the-lost-cartridge.json) |
+| Haunted Room: 205 | 349104 | [349104-haunted-room-205.json](./349104-haunted-room-205.json) |
 | Haunted Room! Urami-chan | 351785 | [351785-haunted-room-urami-chan.json](./351785-haunted-room-urami-chan.json) |
 | Haunted School | 403170 | [403170-haunted-school.json](./403170-haunted-school.json) |
 | Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
@@ -3115,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkranye | 417982 | [417982-hellkranye.json](./417982-hellkranye.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
 | Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
+| Hellmaster: The Legend of Dante | 349182 | [349182-hellmaster-the-legend-of-dante.json](./349182-hellmaster-the-legend-of-dante.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
