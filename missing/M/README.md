@@ -2258,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
+| Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
@@ -8241,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
 | Mighty Mighty Missile! | 128890 | [128890-mighty-mighty-missile.json](./128890-mighty-mighty-missile.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
+| Mighty Miners | 345815 | [345815-mighty-miners.json](./345815-mighty-miners.json) |
 | Mighty Mini Golf | 276212 | [276212-mighty-mini-golf.json](./276212-mighty-mini-golf.json) |
 | Mighty Monkey | 40389 | [40389-mighty-monkey.json](./40389-mighty-monkey.json) |
 | Mighty Monster Mayhem | 29622 | [29622-mighty-monster-mayhem.json](./29622-mighty-monster-mayhem.json) |
