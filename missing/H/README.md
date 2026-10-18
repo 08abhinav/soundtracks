@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
 | Heli Good Spelunker | 67975 | [67975-heli-good-spelunker.json](./67975-heli-good-spelunker.json) |
+| Heli Gunner vs. Zombies | 350769 | [350769-heli-gunner-vs-zombies.json](./350769-heli-gunner-vs-zombies.json) |
 | Heli Heroes | 10408 | [10408-heli-heroes.json](./10408-heli-heroes.json) |
 | Heli Mission | 277865 | [277865-heli-mission.json](./277865-heli-mission.json) |
 | Heli Monsters | 220200 | [220200-heli-monsters.json](./220200-heli-monsters.json) |
