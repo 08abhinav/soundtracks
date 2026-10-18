@@ -5810,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
+| Megashigi Too | 359287 | [359287-megashigi-too.json](./359287-megashigi-too.json) |
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
@@ -8975,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
+| Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
 | Mini Football Cup | 334101 | [334101-mini-football-cup.json](./334101-mini-football-cup.json) |
