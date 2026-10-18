@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party.io | 193795 | [193795-party-io.json](./193795-party-io.json) |
 | Party's Over: Backyard Cleanup Simulator | 414162 | [414162-partys-over-backyard-cleanup-simulator.json](./414162-partys-over-backyard-cleanup-simulator.json) |
 | Partygoer! | 329035 | [329035-partygoer.json](./329035-partygoer.json) |
+| PartyIcons | 336943 | [336943-partyicons.json](./336943-partyicons.json) |
 | Partymasters | 90769 | [90769-partymasters.json](./90769-partymasters.json) |
 | PartySaur: Dino Mayhem | 261731 | [261731-partysaur-dino-mayhem.json](./261731-partysaur-dino-mayhem.json) |
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of New Horizons: Planet Buster | 54287 | [54287-pirates-of-new-horizons-planet-buster.json](./54287-pirates-of-new-horizons-planet-buster.json) |
 | Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
 | Pirates of Rectangular | 258644 | [258644-pirates-of-rectangular.json](./258644-pirates-of-rectangular.json) |
+| Pirates of the Asteroid Belt | 336955 | [336955-pirates-of-the-asteroid-belt.json](./336955-pirates-of-the-asteroid-belt.json) |
 | Pirates of the Asteroid Belt VR | 116857 | [116857-pirates-of-the-asteroid-belt-vr.json](./116857-pirates-of-the-asteroid-belt-vr.json) |
 | Pirates of the Barbary Coast | 38929 | [38929-pirates-of-the-barbary-coast.json](./38929-pirates-of-the-barbary-coast.json) |
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
@@ -11724,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Halloween | 188935 | [188935-project-halloween.json](./188935-project-halloween.json) |
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
 | Project: Horned Owl | 20296 | [20296-project-horned-owl.json](./20296-project-horned-owl.json) |
+| Project: Icarus | 336862 | [336862-project-icarus.json](./336862-project-icarus.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
 | Project: Island | 220168 | [220168-project-island.json](./220168-project-island.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
