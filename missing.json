@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T00:18:28.336Z",
-  "total_missing": 225891,
+  "generated_at": "2026-10-18T00:33:13.295Z",
+  "total_missing": 225941,
   "games": [
     {
       "igdb_id": 191680,
@@ -43152,6 +43152,11 @@
       "file": "missing/A/311187-amusia.json"
     },
     {
+      "igdb_id": 361499,
+      "game_name": "Amy & Trip in Sonic the Hedgehog 2",
+      "file": "missing/A/361499-amy-and-trip-in-sonic-the-hedgehog-2.json"
+    },
+    {
       "igdb_id": 331108,
       "game_name": "Amy Adventure",
       "file": "missing/A/331108-amy-adventure.json"
@@ -70297,6 +70302,11 @@
       "file": "missing/A/356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json"
     },
     {
+      "igdb_id": 361489,
+      "game_name": "Atelier Yumia: Backpack Set",
+      "file": "missing/A/361489-atelier-yumia-backpack-set.json"
+    },
+    {
       "igdb_id": 356743,
       "game_name": "Atelier Yumia: Fantasy Academy Costume Set",
       "file": "missing/A/356743-atelier-yumia-fantasy-academy-costume-set.json"
@@ -94362,6 +94372,11 @@
       "file": "missing/B/26919-beans-quest-2-bean-dreams.json"
     },
     {
+      "igdb_id": 361464,
+      "game_name": "Beanball",
+      "file": "missing/B/361464-beanball.json"
+    },
+    {
       "igdb_id": 249657,
       "game_name": "BeanKind by Ketnipz",
       "file": "missing/B/249657-beankind-by-ketnipz.json"
@@ -110365,6 +110380,11 @@
       "igdb_id": 114222,
       "game_name": "Blade of Acrimony",
       "file": "missing/B/114222-blade-of-acrimony.json"
+    },
+    {
+      "igdb_id": 361454,
+      "game_name": "Blade of Chaos",
+      "file": "missing/B/361454-blade-of-chaos.json"
     },
     {
       "igdb_id": 224093,
@@ -143552,6 +143572,11 @@
       "file": "missing/C/28877-calavera-day-of-the-dead-collectors-edition.json"
     },
     {
+      "igdb_id": 361459,
+      "game_name": "Calc+-",
+      "file": "missing/C/361459-calc.json"
+    },
+    {
       "igdb_id": 49522,
       "game_name": "Calciobit",
       "file": "missing/C/49522-calciobit.json"
@@ -150545,6 +150570,11 @@
       "igdb_id": 178080,
       "game_name": "Cards and Castles 2",
       "file": "missing/C/178080-cards-and-castles-2.json"
+    },
+    {
+      "igdb_id": 361494,
+      "game_name": "Cards and Castles Ultimate",
+      "file": "missing/C/361494-cards-and-castles-ultimate.json"
     },
     {
       "igdb_id": 325114,
@@ -224092,6 +224122,11 @@
       "file": "missing/D/368577-dash-connect-2.json"
     },
     {
+      "igdb_id": 361455,
+      "game_name": "Dash Dash Dead",
+      "file": "missing/D/361455-dash-dash-dead.json"
+    },
+    {
       "igdb_id": 160264,
       "game_name": "Dash Dash Delivery",
       "file": "missing/D/160264-dash-dash-delivery.json"
@@ -287742,6 +287777,11 @@
       "file": "missing/E/284834-economia-millennium.json"
     },
     {
+      "igdb_id": 361486,
+      "game_name": "Economic Miracle",
+      "file": "missing/E/361486-economic-miracle.json"
+    },
+    {
       "igdb_id": 202701,
       "game_name": "Economic War",
       "file": "missing/E/202701-economic-war.json"
@@ -344252,6 +344292,11 @@
       "file": "missing/F/102222-fly-killer-vr.json"
     },
     {
+      "igdb_id": 361497,
+      "game_name": "Fly Light",
+      "file": "missing/F/361497-fly-light.json"
+    },
+    {
       "igdb_id": 95957,
       "game_name": "Fly Like A Bird 4",
       "file": "missing/F/95957-fly-like-a-bird-4.json"
@@ -378582,6 +378627,11 @@
       "file": "missing/G/348982-ghouls-and-guardians.json"
     },
     {
+      "igdb_id": 361501,
+      "game_name": "Ghouls vs Humans: Classic Reborn",
+      "file": "missing/G/361501-ghouls-vs-humans-classic-reborn.json"
+    },
+    {
       "igdb_id": 26526,
       "game_name": "Ghrian",
       "file": "missing/G/26526-ghrian.json"
@@ -398277,6 +398327,36 @@
       "file": "missing/G/358959-groove-coaster-bad-apple-feat-nomico.json"
     },
     {
+      "igdb_id": 361473,
+      "game_name": "Groove Coaster: Battle Against a True Hero",
+      "file": "missing/G/361473-groove-coaster-battle-against-a-true-hero.json"
+    },
+    {
+      "igdb_id": 361477,
+      "game_name": "Groove Coaster: Bbkkbkk",
+      "file": "missing/G/361477-groove-coaster-bbkkbkk.json"
+    },
+    {
+      "igdb_id": 361460,
+      "game_name": "Groove Coaster: Bonetrousle",
+      "file": "missing/G/361460-groove-coaster-bonetrousle.json"
+    },
+    {
+      "igdb_id": 361461,
+      "game_name": "Groove Coaster: Burning Force Medley",
+      "file": "missing/G/361461-groove-coaster-burning-force-medley.json"
+    },
+    {
+      "igdb_id": 361482,
+      "game_name": "Groove Coaster: Crazy Crazy Dancers",
+      "file": "missing/G/361482-groove-coaster-crazy-crazy-dancers.json"
+    },
+    {
+      "igdb_id": 361476,
+      "game_name": "Groove Coaster: Cyber Sparks",
+      "file": "missing/G/361476-groove-coaster-cyber-sparks.json"
+    },
+    {
       "igdb_id": 361587,
       "game_name": "Groove Coaster: Daddy Mulk (Groove Remix)",
       "file": "missing/G/361587-groove-coaster-daddy-mulk-groove-remix.json"
@@ -398290,6 +398370,16 @@
       "igdb_id": 361611,
       "game_name": "Groove Coaster: DJMax Pack 01",
       "file": "missing/G/361611-groove-coaster-djmax-pack-01.json"
+    },
+    {
+      "igdb_id": 361474,
+      "game_name": "Groove Coaster: Dragon Spirit Medley",
+      "file": "missing/G/361474-groove-coaster-dragon-spirit-medley.json"
+    },
+    {
+      "igdb_id": 361470,
+      "game_name": "Groove Coaster: Fujin Rumble",
+      "file": "missing/G/361470-groove-coaster-fujin-rumble.json"
     },
     {
       "igdb_id": 343412,
@@ -398312,9 +398402,34 @@
       "file": "missing/G/361617-groove-coaster-groove-master-pack-03.json"
     },
     {
+      "igdb_id": 361479,
+      "game_name": "Groove Coaster: Groove Prayer (tpz Despair Remix)",
+      "file": "missing/G/361479-groove-coaster-groove-prayer-tpz-despair-remix.json"
+    },
+    {
       "igdb_id": 361588,
       "game_name": "Groove Coaster: HB-Axeleration",
       "file": "missing/G/361588-groove-coaster-hb-axeleration.json"
+    },
+    {
+      "igdb_id": 361483,
+      "game_name": "Groove Coaster: Help Me, Erinnnnnn!! (Cranky Remix)",
+      "file": "missing/G/361483-groove-coaster-help-me-erinnnnnn-cranky-remix.json"
+    },
+    {
+      "igdb_id": 361468,
+      "game_name": "Groove Coaster: ID",
+      "file": "missing/G/361468-groove-coaster-id.json"
+    },
+    {
+      "igdb_id": 361466,
+      "game_name": "Groove Coaster: Jingai Crisis",
+      "file": "missing/G/361466-groove-coaster-jingai-crisis.json"
+    },
+    {
+      "igdb_id": 361471,
+      "game_name": "Groove Coaster: Joker Junko Eienno Junka",
+      "file": "missing/G/361471-groove-coaster-joker-junko-eienno-junka.json"
     },
     {
       "igdb_id": 361616,
@@ -398327,14 +398442,89 @@
       "file": "missing/G/361586-groove-coaster-kikikaikai.json"
     },
     {
+      "igdb_id": 361478,
+      "game_name": "Groove Coaster: Kyouen",
+      "file": "missing/G/361478-groove-coaster-kyouen.json"
+    },
+    {
+      "igdb_id": 361472,
+      "game_name": "Groove Coaster: Little Higher",
+      "file": "missing/G/361472-groove-coaster-little-higher.json"
+    },
+    {
+      "igdb_id": 361484,
+      "game_name": "Groove Coaster: Machibito Ha Kozu",
+      "file": "missing/G/361484-groove-coaster-machibito-ha-kozu.json"
+    },
+    {
+      "igdb_id": 361450,
+      "game_name": "Groove Coaster: Material of Puppets",
+      "file": "missing/G/361450-groove-coaster-material-of-puppets.json"
+    },
+    {
+      "igdb_id": 361481,
+      "game_name": "Groove Coaster: Mikakunin Gensou Coaster",
+      "file": "missing/G/361481-groove-coaster-mikakunin-gensou-coaster.json"
+    },
+    {
+      "igdb_id": 361463,
+      "game_name": "Groove Coaster: Modelista",
+      "file": "missing/G/361463-groove-coaster-modelista.json"
+    },
+    {
+      "igdb_id": 361480,
+      "game_name": "Groove Coaster: Namcot Medley",
+      "file": "missing/G/361480-groove-coaster-namcot-medley.json"
+    },
+    {
+      "igdb_id": 361458,
+      "game_name": "Groove Coaster: Pegasus",
+      "file": "missing/G/361458-groove-coaster-pegasus.json"
+    },
+    {
+      "igdb_id": 361475,
+      "game_name": "Groove Coaster: Qlwa",
+      "file": "missing/G/361475-groove-coaster-qlwa.json"
+    },
+    {
       "igdb_id": 361591,
       "game_name": "Groove Coaster: Rave War",
       "file": "missing/G/361591-groove-coaster-rave-war.json"
     },
     {
+      "igdb_id": 361446,
+      "game_name": "Groove Coaster: Sado Mami Holic",
+      "file": "missing/G/361446-groove-coaster-sado-mami-holic.json"
+    },
+    {
       "igdb_id": 361589,
       "game_name": "Groove Coaster: Saisoku Saikou Shutter Girl",
       "file": "missing/G/361589-groove-coaster-saisoku-saikou-shutter-girl.json"
+    },
+    {
+      "igdb_id": 361469,
+      "game_name": "Groove Coaster: Say PaPa Re:mix",
+      "file": "missing/G/361469-groove-coaster-say-papa-re-mix.json"
+    },
+    {
+      "igdb_id": 361456,
+      "game_name": "Groove Coaster: Scream Out!",
+      "file": "missing/G/361456-groove-coaster-scream-out.json"
+    },
+    {
+      "igdb_id": 361457,
+      "game_name": "Groove Coaster: Special Smile",
+      "file": "missing/G/361457-groove-coaster-special-smile.json"
+    },
+    {
+      "igdb_id": 361451,
+      "game_name": "Groove Coaster: Spider Dance",
+      "file": "missing/G/361451-groove-coaster-spider-dance.json"
+    },
+    {
+      "igdb_id": 361465,
+      "game_name": "Groove Coaster: Stratospheric Journey",
+      "file": "missing/G/361465-groove-coaster-stratospheric-journey.json"
     },
     {
       "igdb_id": 361592,
@@ -398345,6 +398535,11 @@
       "igdb_id": 361614,
       "game_name": "Groove Coaster: t+pazolite Pack",
       "file": "missing/G/361614-groove-coaster-t-pazolite-pack.json"
+    },
+    {
+      "igdb_id": 361447,
+      "game_name": "Groove Coaster: Touhou Chishinritsu",
+      "file": "missing/G/361447-groove-coaster-touhou-chishinritsu.json"
     },
     {
       "igdb_id": 361703,
@@ -398392,6 +398587,16 @@
       "file": "missing/G/361610-groove-coaster-touhou-dlc-pack-09.json"
     },
     {
+      "igdb_id": 361449,
+      "game_name": "Groove Coaster: Touhou Onganmu",
+      "file": "missing/G/361449-groove-coaster-touhou-onganmu.json"
+    },
+    {
+      "igdb_id": 361467,
+      "game_name": "Groove Coaster: U.A.D",
+      "file": "missing/G/361467-groove-coaster-u-a-d.json"
+    },
+    {
       "igdb_id": 361705,
       "game_name": "Groove Coaster: Undertale DLC Pack 01",
       "file": "missing/G/361705-groove-coaster-undertale-dlc-pack-01.json"
@@ -398400,6 +398605,11 @@
       "igdb_id": 361615,
       "game_name": "Groove Coaster: Undertale DLC Pack 02",
       "file": "missing/G/361615-groove-coaster-undertale-dlc-pack-02.json"
+    },
+    {
+      "igdb_id": 361448,
+      "game_name": "Groove Coaster: Visionnerz",
+      "file": "missing/G/361448-groove-coaster-visionnerz.json"
     },
     {
       "igdb_id": 237998,
@@ -398540,6 +398750,11 @@
       "igdb_id": 300944,
       "game_name": "Groove Coaster: Wai Wai Party!!!!!: Hit Song + VTuber Pack 6",
       "file": "missing/G/300944-groove-coaster-wai-wai-party-hit-song-vtuber-pack-6.json"
+    },
+    {
+      "igdb_id": 361452,
+      "game_name": "Groove Coaster: Xand-Roid",
+      "file": "missing/G/361452-groove-coaster-xand-roid.json"
     },
     {
       "igdb_id": 135720,
@@ -698827,6 +699042,11 @@
       "file": "missing/P/85344-pic-pic.json"
     },
     {
+      "igdb_id": 361462,
+      "game_name": "Pic-A-Block",
+      "file": "missing/P/361462-pic-a-block.json"
+    },
+    {
       "igdb_id": 120799,
       "game_name": "Pic-a-Pix Color 2",
       "file": "missing/P/120799-pic-a-pix-color-2.json"
@@ -856742,6 +856962,11 @@
       "file": "missing/S/139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json"
     },
     {
+      "igdb_id": 361488,
+      "game_name": "Sonic & All-Stars Racing Transformed: Yogscast DLC",
+      "file": "missing/S/361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json"
+    },
+    {
       "igdb_id": 322592,
       "game_name": "Sonic & Bean in Eggland",
       "file": "missing/S/322592-sonic-and-bean-in-eggland.json"
@@ -856830,6 +857055,11 @@
       "igdb_id": 317353,
       "game_name": "Sonic 1 8-bit Redux",
       "file": "missing/S/317353-sonic-1-8-bit-redux.json"
+    },
+    {
+      "igdb_id": 361500,
+      "game_name": "Sonic 1 Co-op",
+      "file": "missing/S/361500-sonic-1-co-op.json"
     },
     {
       "igdb_id": 333683,
@@ -958807,6 +959037,11 @@
       "file": "missing/T/184338-the-father.json"
     },
     {
+      "igdb_id": 361453,
+      "game_name": "The Fatum",
+      "file": "missing/T/361453-the-fatum.json"
+    },
+    {
       "igdb_id": 206591,
       "game_name": "The Fazbear Facility",
       "file": "missing/T/206591-the-fazbear-facility.json"
@@ -1049542,6 +1049777,16 @@
       "file": "missing/U/316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json"
     },
     {
+      "igdb_id": 361492,
+      "game_name": "Umamusume: Pretty Derby - Party Dash: DLC Vol. 2 - Team Geranium",
+      "file": "missing/U/361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json"
+    },
+    {
+      "igdb_id": 361493,
+      "game_name": "Umamusume: Pretty Derby - Party Dash: DLC Vol. 3 - Team Primrose",
+      "file": "missing/U/361493-umamusume-pretty-derby-party-dash-dlc-vol-3-team-primrose.json"
+    },
+    {
       "igdb_id": 252372,
       "game_name": "UmaNetto. Full Preved!",
       "file": "missing/U/252372-umanetto-full-preved.json"
@@ -1064640,6 +1064885,11 @@
       "igdb_id": 325021,
       "game_name": "Versus in the Dark",
       "file": "missing/V/325021-versus-in-the-dark.json"
+    },
+    {
+      "igdb_id": 361490,
+      "game_name": "Versus Net Soccer",
+      "file": "missing/V/361490-versus-net-soccer.json"
     },
     {
       "igdb_id": 387056,
