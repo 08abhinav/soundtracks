@@ -6935,6 +6935,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
 | Animal Crossing Plaza | 61463 | [61463-animal-crossing-plaza.json](./61463-animal-crossing-plaza.json) |
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
+| Animal Crossing-e: D01 - Design Card: Shine Sprite | 354821 | [354821-animal-crossing-e-d01-design-card-shine-sprite.json](./354821-animal-crossing-e-d01-design-card-shine-sprite.json) |
+| Animal Crossing-e: D02 - Design Card: Jumpman Mario | 354822 | [354822-animal-crossing-e-d02-design-card-jumpman-mario.json](./354822-animal-crossing-e-d02-design-card-jumpman-mario.json) |
+| Animal Crossing-e: D03 - Design Card: Samus's Suit | 354823 | [354823-animal-crossing-e-d03-design-card-samuss-suit.json](./354823-animal-crossing-e-d03-design-card-samuss-suit.json) |
 | Animal Crossing-e: PR - Design Card: NES Link | 354416 | [354416-animal-crossing-e-pr-design-card-nes-link.json](./354416-animal-crossing-e-pr-design-card-nes-link.json) |
 | Animal Crossing: City Folk Deluxe | 341895 | [341895-animal-crossing-city-folk-deluxe.json](./341895-animal-crossing-city-folk-deluxe.json) |
 | Animal Crossing: New Horizons - Happy Home Paradise | 176552 | [176552-animal-crossing-new-horizons-happy-home-paradise.json](./176552-animal-crossing-new-horizons-happy-home-paradise.json) |
