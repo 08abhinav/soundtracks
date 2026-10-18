@@ -1929,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:D Cherish! SS: Rouge's One Operation | 370697 | [370697-re-d-cherish-ss-rouges-one-operation.json](./370697-re-d-cherish-ss-rouges-one-operation.json) |
 | Re:D Cherish!: Eternity Blood | 370695 | [370695-re-d-cherish-eternity-blood.json](./370695-re-d-cherish-eternity-blood.json) |
 | Re:Dreamer | 213911 | [213911-re-dreamer.json](./213911-re-dreamer.json) |
+| Re:Flex | 340709 | [340709-re-flex.json](./340709-re-flex.json) |
 | re:fleXion | 179021 | [179021-re-flexion.json](./179021-re-flexion.json) |
 | Re:Fragment - Absolute Ambition | 319008 | [319008-re-fragment-absolute-ambition.json](./319008-re-fragment-absolute-ambition.json) |
 | Re:Fresh | 239086 | [239086-re-fresh.json](./239086-re-fresh.json) |
@@ -2549,6 +2550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclaim | 405688 | [405688-reclaim.json](./405688-reclaim.json) |
 | Reclaim the Sea | 216954 | [216954-reclaim-the-sea.json](./216954-reclaim-the-sea.json) |
 | Reclaimer | 404308 | [404308-reclaimer.json](./404308-reclaimer.json) |
+| Reclaiming the Lost | 340716 | [340716-reclaiming-the-lost.json](./340716-reclaiming-the-lost.json) |
 | Reclamation | 268463 | [268463-reclamation.json](./268463-reclamation.json) |
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
@@ -2561,9 +2563,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recognition Test 23 | 246676 | [246676-recognition-test-23.json](./246676-recognition-test-23.json) |
 | Recoil | 117276 | [117276-recoil.json](./117276-recoil.json) |
 | Recoil | 277347 | [277347-recoil.json](./277347-recoil.json) |
+| Recoil | 340715 | [340715-recoil.json](./340715-recoil.json) |
 | Recoil | 344252 | [344252-recoil.json](./344252-recoil.json) |
 | ReCoil | 295911 | [295911-recoil.json](./295911-recoil.json) |
 | Recoil Cluck | 290962 | [290962-recoil-cluck.json](./290962-recoil-cluck.json) |
+| Recoil Control: The Adventures of Rico Ché | 340714 | [340714-recoil-control-the-adventures-of-rico-che.json](./340714-recoil-control-the-adventures-of-rico-che.json) |
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil Rush | 360151 | [360151-recoil-rush.json](./360151-recoil-rush.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
@@ -2597,6 +2601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record Run | 61703 | [61703-record-run.json](./61703-record-run.json) |
 | Record Scratch Fever | 183528 | [183528-record-scratch-fever.json](./183528-record-scratch-fever.json) |
 | Record Store Nightmare | 68660 | [68660-record-store-nightmare.json](./68660-record-store-nightmare.json) |
+| Record_DrowsyVortex | 340713 | [340713-record-drowsyvortex.json](./340713-record-drowsyvortex.json) |
 | Recordance | 257109 | [257109-recordance.json](./257109-recordance.json) |
 | Recordeca | 364689 | [364689-recordeca.json](./364689-recordeca.json) |
 | Recorded | 59691 | [59691-recorded.json](./59691-recorded.json) |
@@ -2906,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
 | Red Square Escape 2 | 165612 | [165612-red-square-escape-2.json](./165612-red-square-escape-2.json) |
+| Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
@@ -3054,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redneck Rampage: Suckin' Grits on Route 66 | 9003 | [9003-redneck-rampage-suckin-grits-on-route-66.json](./9003-redneck-rampage-suckin-grits-on-route-66.json) |
 | Redneck Rift | 207914 | [207914-redneck-rift.json](./207914-redneck-rift.json) |
 | Redneck Skeet Shooting | 120258 | [120258-redneck-skeet-shooting.json](./120258-redneck-skeet-shooting.json) |
+| ReDo | 340711 | [340711-redo.json](./340711-redo.json) |
 | Redo! | 114085 | [114085-redo.json](./114085-redo.json) |
 | Redout 2 | 186059 | [186059-redout-2.json](./186059-redout-2.json) |
 | Redout 2: Deluxe Edition | 205571 | [205571-redout-2-deluxe-edition.json](./205571-redout-2-deluxe-edition.json) |
@@ -3342,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
 | Reincarnator | 391887 | [391887-reincarnator.json](./391887-reincarnator.json) |
 | Reindeer Games | 388168 | [388168-reindeer-games.json](./388168-reindeer-games.json) |
+| Reindeer Racing | 340708 | [340708-reindeer-racing.json](./340708-reindeer-racing.json) |
 | Reindeer Rescue | 68708 | [68708-reindeer-rescue.json](./68708-reindeer-rescue.json) |
 | Reindeer Story | 211798 | [211798-reindeer-story.json](./211798-reindeer-story.json) |
 | Reine des Fleurs | 86190 | [86190-reine-des-fleurs.json](./86190-reine-des-fleurs.json) |
@@ -3416,6 +3424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
+| Relaxing Fields | 340707 | [340707-relaxing-fields.json](./340707-relaxing-fields.json) |
 | Relaxing Fishing | 350509 | [350509-relaxing-fishing.json](./350509-relaxing-fishing.json) |
 | Relaxing Jigsaw | 330405 | [330405-relaxing-jigsaw.json](./330405-relaxing-jigsaw.json) |
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
@@ -3449,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
+| Relic Hunt | 340706 | [340706-relic-hunt.json](./340706-relic-hunt.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
 | Relic Hunters Zero | 12301 | [12301-relic-hunters-zero.json](./12301-relic-hunters-zero.json) |
 | Relic Hunters Zero: Remix | 129846 | [129846-relic-hunters-zero-remix.json](./129846-relic-hunters-zero-remix.json) |
@@ -9174,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian bank - card game | 106568 | [106568-russian-bank-card-game.json](./106568-russian-bank-card-game.json) |
 | Russian Car Driver | 30142 | [30142-russian-car-driver.json](./30142-russian-car-driver.json) |
 | Russian Car Driver: UAZ Hunter | 255752 | [255752-russian-car-driver-uaz-hunter.json](./255752-russian-car-driver-uaz-hunter.json) |
+| Russian Cat Simulator | 340814 | [340814-russian-cat-simulator.json](./340814-russian-cat-simulator.json) |
 | Russian City Sim | 154244 | [154244-russian-city-sim.json](./154244-russian-city-sim.json) |
 | Russian Dancing Men | 65597 | [65597-russian-dancing-men.json](./65597-russian-dancing-men.json) |
 | Russian Driver | 197376 | [197376-russian-driver.json](./197376-russian-driver.json) |
