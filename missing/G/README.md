@@ -4883,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goo Game | 202016 | [202016-goo-game.json](./202016-goo-game.json) |
 | Goo Gladiators | 211914 | [211914-goo-gladiators.json](./211914-goo-gladiators.json) |
 | Goo Go | 304380 | [304380-goo-go.json](./304380-goo-go.json) |
+| Goo Goo Grapplers | 349717 | [349717-goo-goo-grapplers.json](./349717-goo-goo-grapplers.json) |
 | Goo Hunter | 333128 | [333128-goo-hunter.json](./333128-goo-hunter.json) |
 | Goo Saga | 57709 | [57709-goo-saga.json](./57709-goo-saga.json) |
 | Goo Saga: HD Edition | 31941 | [31941-goo-saga-hd-edition.json](./31941-goo-saga-hd-edition.json) |
@@ -7041,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
 | Grow Valley | 175833 | [175833-grow-valley.json](./175833-grow-valley.json) |
 | Grow Ver. 2 | 175834 | [175834-grow-ver-2.json](./175834-grow-ver-2.json) |
+| Grow Wild | 349646 | [349646-grow-wild.json](./349646-grow-wild.json) |
 | Grow Your Guarden | 263794 | [263794-grow-your-guarden.json](./263794-grow-your-guarden.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
