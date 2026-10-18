@@ -7249,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
+| Rogue Snake | 345353 | [345353-rogue-snake.json](./345353-rogue-snake.json) |
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
 | Rogue Stache | 31772 | [31772-rogue-stache.json](./31772-rogue-stache.json) |
