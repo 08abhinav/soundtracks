@@ -2164,6 +2164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
 | dbaza's Diabetes Education for Kids | 85731 | [85731-dbazas-diabetes-education-for-kids.json](./85731-dbazas-diabetes-education-for-kids.json) |
+| DBZ: O Renascimento de F | 354237 | [354237-dbz-o-renascimento-de-f.json](./354237-dbz-o-renascimento-de-f.json) |
 | DC Battle Arena | 137600 | [137600-dc-battle-arena.json](./137600-dc-battle-arena.json) |
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Future | 144791 | [144791-dear-future.json](./144791-dear-future.json) |
 | Dear Genny | 177532 | [177532-dear-genny.json](./177532-dear-genny.json) |
 | Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! | 204480 | [204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json](./204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json) |
+| Dear Leader | 354239 | [354239-dear-leader.json](./354239-dear-leader.json) |
 | Dear Leader | 60442 | [60442-dear-leader.json](./60442-dear-leader.json) |
 | Dear Lighthouse | 384230 | [384230-dear-lighthouse.json](./384230-dear-lighthouse.json) |
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
