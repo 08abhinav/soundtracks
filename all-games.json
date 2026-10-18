@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:40:49.843Z",
-  "total_soundtracks": 2170,
+  "generated_at": "2026-10-18T08:40:57.191Z",
+  "total_soundtracks": 2171,
   "games": [
     {
       "igdb_id": 7522,
@@ -13869,6 +13869,20 @@
         {
           "album_name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/1o8CsovLIhrJpyi57Dl6a2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 157756,
+      "game_name": "Melatonin",
+      "game_url": "https://ostdb.net/games/melatonin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737963d251968d78f4acb42d36",
+      "albums": [
+        {
+          "album_name": "Melatonin (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2Q6YVGy27MnxnFWV3dtWsL",
           "apple_music_url": "",
           "album_link_url": ""
         }
