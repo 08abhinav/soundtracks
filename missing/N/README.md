@@ -4311,7 +4311,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Stars, Only Constellations | 176935 | [176935-no-stars-only-constellations.json](./176935-no-stars-only-constellations.json) |
 | No Stick Shooter | 28910 | [28910-no-stick-shooter.json](./28910-no-stick-shooter.json) |
 | No Stone Unturned | 253883 | [253883-no-stone-unturned.json](./253883-no-stone-unturned.json) |
-| No Straight Roads | 114783 | [114783-no-straight-roads.json](./114783-no-straight-roads.json) |
 | No Straight Roads 2 | 347868 | [347868-no-straight-roads-2.json](./347868-no-straight-roads-2.json) |
 | No Straight Roads: Collector's Edition | 166225 | [166225-no-straight-roads-collectors-edition.json](./166225-no-straight-roads-collectors-edition.json) |
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
