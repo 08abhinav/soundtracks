@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Legend: Mystery of the Forest | 294470 | [294470-yeti-legend-mystery-of-the-forest.json](./294470-yeti-legend-mystery-of-the-forest.json) |
 | Yeti Mountain | 408488 | [408488-yeti-mountain.json](./408488-yeti-mountain.json) |
 | Yeti Quest: Crazy Penguins | 294469 | [294469-yeti-quest-crazy-penguins.json](./294469-yeti-quest-crazy-penguins.json) |
+| Yeti Ski | 350228 | [350228-yeti-ski.json](./350228-yeti-ski.json) |
 | Yeti Sports: Pingu Throw | 66983 | [66983-yeti-sports-pingu-throw.json](./66983-yeti-sports-pingu-throw.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
 | YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukigatari | 268663 | [268663-yukigatari.json](./268663-yukigatari.json) |
 | Yukigatari Renewal | 268664 | [268664-yukigatari-renewal.json](./268664-yukigatari-renewal.json) |
 | Yukiguni no Shoujo | 164514 | [164514-yukiguni-no-shoujo.json](./164514-yukiguni-no-shoujo.json) |
+| Yukiko no Kuni | 350178 | [350178-yukiko-no-kuni.json](./350178-yukiko-no-kuni.json) |
 | Yukikoi Melt | 60458 | [60458-yukikoi-melt.json](./60458-yukikoi-melt.json) |
 | Yukimichi | 412333 | [412333-yukimichi.json](./412333-yukimichi.json) |
 | Yukinas Diary | 114254 | [114254-yukinas-diary.json](./114254-yukinas-diary.json) |
