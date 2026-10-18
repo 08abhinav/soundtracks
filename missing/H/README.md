@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happily Ever After Vol. 1 | 205932 | [205932-happily-ever-after-vol-1.json](./205932-happily-ever-after-vol-1.json) |
 | Happily Ever After Vol. 2 | 205933 | [205933-happily-ever-after-vol-2.json](./205933-happily-ever-after-vol-2.json) |
 | Happiness | 184120 | [184120-happiness.json](./184120-happiness.json) |
+| Happiness 1 Definitive Edition | 336340 | [336340-happiness-1-definitive-edition.json](./336340-happiness-1-definitive-edition.json) |
 | Happiness Charge Pretty Cure! Kawarun Collection | 216184 | [216184-happiness-charge-pretty-cure-kawarun-collection.json](./216184-happiness-charge-pretty-cure-kawarun-collection.json) |
 | Happiness Drops! | 81687 | [81687-happiness-drops.json](./81687-happiness-drops.json) |
 | Happiness Inc. | 301374 | [301374-happiness-inc.json](./301374-happiness-inc.json) |
@@ -3638,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Racy Racer | 304789 | [304789-hentai-girls-racy-racer.json](./304789-hentai-girls-racy-racer.json) |
 | Hentai Girls: Sakura Romance | 294843 | [294843-hentai-girls-sakura-romance.json](./294843-hentai-girls-sakura-romance.json) |
 | Hentai Girls: Sexy Feet Goddesses | 296907 | [296907-hentai-girls-sexy-feet-goddesses.json](./296907-hentai-girls-sexy-feet-goddesses.json) |
+| Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
@@ -7072,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hopper Hunt | 245200 | [245200-hopper-hunt.json](./245200-hopper-hunt.json) |
 | Hopper Robo | 40057 | [40057-hopper-robo.json](./40057-hopper-robo.json) |
+| Hoppi's Adventure | 336402 | [336402-hoppis-adventure.json](./336402-hoppis-adventure.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppin: Into the Woods | 374930 | [374930-hoppin-into-the-woods.json](./374930-hoppin-into-the-woods.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
@@ -8469,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Animals | 196675 | [196675-hungry-animals.json](./196675-hungry-animals.json) |
 | Hungry Birds | 187889 | [187889-hungry-birds.json](./187889-hungry-birds.json) |
 | Hungry Black Hole | 28106 | [28106-hungry-black-hole.json](./28106-hungry-black-hole.json) |
+| Hungry Brain Challenge! | 336418 | [336418-hungry-brain-challenge.json](./336418-hungry-brain-challenge.json) |
 | Hungry Bunny | 156229 | [156229-hungry-bunny.json](./156229-hungry-bunny.json) |
 | Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
