@@ -10227,6 +10227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Soldier Sailor Moon S | 316798 | [316798-pretty-soldier-sailor-moon-s.json](./316798-pretty-soldier-sailor-moon-s.json) |
 | Pretty Sweet! Healing Guardian | 312831 | [312831-pretty-sweet-healing-guardian.json](./312831-pretty-sweet-healing-guardian.json) |
 | Pretty Visitors | 229791 | [229791-pretty-visitors.json](./229791-pretty-visitors.json) |
+| Pretty x Cation 2 | 333415 | [333415-pretty-x-cation-2.json](./333415-pretty-x-cation-2.json) |
 | Pretty: Exotic | 385803 | [385803-pretty-exotic.json](./385803-pretty-exotic.json) |
 | Pretz'l Land | 105554 | [105554-pretzl-land.json](./105554-pretzl-land.json) |
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
