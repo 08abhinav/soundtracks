@@ -1696,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parity | 124243 | [124243-parity.json](./124243-parity.json) |
 | Parity Shot | 418311 | [418311-parity-shot.json](./418311-parity-shot.json) |
 | Parity Shot Integral | 305167 | [305167-parity-shot-integral.json](./305167-parity-shot-integral.json) |
+| Park a Lot | 324743 | [324743-park-a-lot.json](./324743-park-a-lot.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
 | Park Alien: A ludo in the space | 153496 | [153496-park-alien-a-ludo-in-the-space.json](./153496-park-alien-a-ludo-in-the-space.json) |
 | Park Beyond | 165354 | [165354-park-beyond.json](./165354-park-beyond.json) |
@@ -3840,6 +3841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Brave PC: Digital Chroma Edition | 53457 | [53457-phantom-brave-pc-digital-chroma-edition.json](./53457-phantom-brave-pc-digital-chroma-edition.json) |
 | Phantom Brave: The Hermuda Triangle Remastered | 144246 | [144246-phantom-brave-the-hermuda-triangle-remastered.json](./144246-phantom-brave-the-hermuda-triangle-remastered.json) |
 | Phantom Brave: The Lost Hero | 306146 | [306146-phantom-brave-the-lost-hero.json](./306146-phantom-brave-the-lost-hero.json) |
+| Phantom Brave: The Lost Hero - Deluxe Edition | 324771 | [324771-phantom-brave-the-lost-hero-deluxe-edition.json](./324771-phantom-brave-the-lost-hero-deluxe-edition.json) |
 | Phantom Brave: The Lost Hero - Digital Deluxe Edition | 330204 | [330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json](./330204-phantom-brave-the-lost-hero-digital-deluxe-edition.json) |
 | Phantom Brave: The Lost Hero - Heroes of the Past | 332520 | [332520-phantom-brave-the-lost-hero-heroes-of-the-past.json](./332520-phantom-brave-the-lost-hero-heroes-of-the-past.json) |
 | Phantom Brave: The Lost Hero - Parallel Siblings | 332521 | [332521-phantom-brave-the-lost-hero-parallel-siblings.json](./332521-phantom-brave-the-lost-hero-parallel-siblings.json) |
@@ -11868,6 +11870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
+| Prolegomena to a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges | 324744 | [324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json](./324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
