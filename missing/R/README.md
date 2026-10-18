@@ -8177,22 +8177,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Bowling Bash | 199336 | [199336-roxy-raccoons-bowling-bash.json](./199336-roxy-raccoons-bowling-bash.json) |
 | Roxy Raccoon's Pinball Panic | 188874 | [188874-roxy-raccoons-pinball-panic.json](./188874-roxy-raccoons-pinball-panic.json) |
+| Roxy Raccoon's Pinball Panic - Movie Magic | 354200 | [354200-roxy-raccoons-pinball-panic-movie-magic.json](./354200-roxy-raccoons-pinball-panic-movie-magic.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
 | Roxy Raccoon's Pinball Panic: Baker's Best | 285461 | [285461-roxy-raccoons-pinball-panic-bakers-best.json](./285461-roxy-raccoons-pinball-panic-bakers-best.json) |
+| Roxy Raccoon's Pinball Panic: Candycopia | 354201 | [354201-roxy-raccoons-pinball-panic-candycopia.json](./354201-roxy-raccoons-pinball-panic-candycopia.json) |
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Construction Chaos | 203775 | [203775-roxy-raccoons-pinball-panic-construction-chaos.json](./203775-roxy-raccoons-pinball-panic-construction-chaos.json) |
 | Roxy Raccoon's Pinball Panic: Epic Egypt | 230893 | [230893-roxy-raccoons-pinball-panic-epic-egypt.json](./230893-roxy-raccoons-pinball-panic-epic-egypt.json) |
+| Roxy Raccoon's Pinball Panic: Great Gangs | 354199 | [354199-roxy-raccoons-pinball-panic-great-gangs.json](./354199-roxy-raccoons-pinball-panic-great-gangs.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
+| Roxy Raccoon's Pinball Panic: Makin' Music | 354196 | [354196-roxy-raccoons-pinball-panic-makin-music.json](./354196-roxy-raccoons-pinball-panic-makin-music.json) |
 | Roxy Raccoon's Pinball Panic: Medieval Mayhem | 259594 | [259594-roxy-raccoons-pinball-panic-medieval-mayhem.json](./259594-roxy-raccoons-pinball-panic-medieval-mayhem.json) |
 | Roxy Raccoon's Pinball Panic: Paradise Parks | 311787 | [311787-roxy-raccoons-pinball-panic-paradise-parks.json](./311787-roxy-raccoons-pinball-panic-paradise-parks.json) |
 | Roxy Raccoon's Pinball Panic: Prehistoric Paradise | 289538 | [289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json](./289538-roxy-raccoons-pinball-panic-prehistoric-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Retro Revival | 289863 | [289863-roxy-raccoons-pinball-panic-retro-revival.json](./289863-roxy-raccoons-pinball-panic-retro-revival.json) |
+| Roxy Raccoon's Pinball Panic: Roman Renaissance | 354197 | [354197-roxy-raccoons-pinball-panic-roman-renaissance.json](./354197-roxy-raccoons-pinball-panic-roman-renaissance.json) |
 | Roxy Raccoon's Pinball Panic: St. Patrick's Paradise | 241315 | [241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json](./241315-roxy-raccoons-pinball-panic-st-patricks-paradise.json) |
 | Roxy Raccoon's Pinball Panic: Steampunk Stories | 337470 | [337470-roxy-raccoons-pinball-panic-steampunk-stories.json](./337470-roxy-raccoons-pinball-panic-steampunk-stories.json) |
 | Roxy Raccoon's Pinball Panic: Tabletop Terror | 298258 | [298258-roxy-raccoons-pinball-panic-tabletop-terror.json](./298258-roxy-raccoons-pinball-panic-tabletop-terror.json) |
 | Roxy Raccoon's Pinball Panic: Thanksgiving Throwdown | 276178 | [276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json](./276178-roxy-raccoons-pinball-panic-thanksgiving-throwdown.json) |
 | Roxy Raccoon's Pinball Panic: Tropical Treats | 311789 | [311789-roxy-raccoons-pinball-panic-tropical-treats.json](./311789-roxy-raccoons-pinball-panic-tropical-treats.json) |
+| Roxy Raccoon's Pinball Panic: Viking Ventures | 354198 | [354198-roxy-raccoons-pinball-panic-viking-ventures.json](./354198-roxy-raccoons-pinball-panic-viking-ventures.json) |
 | Roxy Raccoon's Pinball Panic: Wicked Warfare | 252980 | [252980-roxy-raccoons-pinball-panic-wicked-warfare.json](./252980-roxy-raccoons-pinball-panic-wicked-warfare.json) |
 | Roxy Raccoon's Pinball Panic: Workplace Worries | 264042 | [264042-roxy-raccoons-pinball-panic-workplace-worries.json](./264042-roxy-raccoons-pinball-panic-workplace-worries.json) |
 | Roxy's Dream Mansion | 341109 | [341109-roxys-dream-mansion.json](./341109-roxys-dream-mansion.json) |
