@@ -10232,6 +10232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Special Edition | 260048 | [260048-mixx-island-remix-plus-special-edition.json](./260048-mixx-island-remix-plus-special-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultimate Edition | 254677 | [254677-mixx-island-remix-plus-ultimate-edition.json](./254677-mixx-island-remix-plus-ultimate-edition.json) |
+| Mixx Island: Remix Plus - Ultra Complete | 317665 | [317665-mixx-island-remix-plus-ultra-complete.json](./317665-mixx-island-remix-plus-ultra-complete.json) |
 | Mixx Island: Remix Plus - Ultra Definitive | 316274 | [316274-mixx-island-remix-plus-ultra-definitive.json](./316274-mixx-island-remix-plus-ultra-definitive.json) |
 | Mixx Island: Remix Plus - Ultra Deluxe | 300935 | [300935-mixx-island-remix-plus-ultra-deluxe.json](./300935-mixx-island-remix-plus-ultra-deluxe.json) |
 | Mixx Island: Remix Plus - Ultra Extended | 306545 | [306545-mixx-island-remix-plus-ultra-extended.json](./306545-mixx-island-remix-plus-ultra-extended.json) |
@@ -12626,6 +12627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaic Chronicles | 162850 | [162850-mosaic-chronicles.json](./162850-mosaic-chronicles.json) |
 | Mosaic Chronicles Deluxe: Complete + | 328837 | [328837-mosaic-chronicles-deluxe-complete.json](./328837-mosaic-chronicles-deluxe-complete.json) |
 | Mosaic Chronicles Deluxe: Extended Edition | 251533 | [251533-mosaic-chronicles-deluxe-extended-edition.json](./251533-mosaic-chronicles-deluxe-extended-edition.json) |
+| Mosaic Chronicles Deluxe: New Puzzle Story - Nothing Personal | 317667 | [317667-mosaic-chronicles-deluxe-new-puzzle-story-nothing-personal.json](./317667-mosaic-chronicles-deluxe-new-puzzle-story-nothing-personal.json) |
 | Mosaic Chronicles Deluxe: Special Edition | 260688 | [260688-mosaic-chronicles-deluxe-special-edition.json](./260688-mosaic-chronicles-deluxe-special-edition.json) |
 | Mosaic Chronicles Deluxe: Story | 328984 | [328984-mosaic-chronicles-deluxe-story.json](./328984-mosaic-chronicles-deluxe-story.json) |
 | Mosaic Chronicles Deluxe: Ultimate Edition | 243366 | [243366-mosaic-chronicles-deluxe-ultimate-edition.json](./243366-mosaic-chronicles-deluxe-ultimate-edition.json) |
