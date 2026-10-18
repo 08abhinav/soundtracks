@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
 | Last Stretch | 389095 | [389095-last-stretch.json](./389095-last-stretch.json) |
 | Last Striker | 40270 | [40270-last-striker.json](./40270-last-striker.json) |
+| Last Subway | 320597 | [320597-last-subway.json](./320597-last-subway.json) |
 | Last Summer | 122067 | [122067-last-summer.json](./122067-last-summer.json) |
 | Last Summer | 298672 | [298672-last-summer.json](./298672-last-summer.json) |
 | Last Summer | 368795 | [368795-last-summer.json](./368795-last-summer.json) |
@@ -1214,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundro-Mess | 185551 | [185551-laundro-mess.json](./185551-laundro-mess.json) |
 | Laundromat 8 | 414615 | [414615-laundromat-8.json](./414615-laundromat-8.json) |
 | Laundromat Manager Simulator | 330929 | [330929-laundromat-manager-simulator.json](./330929-laundromat-manager-simulator.json) |
+| Laundromat Simulator | 320585 | [320585-laundromat-simulator.json](./320585-laundromat-simulator.json) |
 | Laundry | 233991 | [233991-laundry.json](./233991-laundry.json) |
 | Laundry | 317025 | [317025-laundry.json](./317025-laundry.json) |
 | Laundry Boss Simulator | 360045 | [360045-laundry-boss-simulator.json](./360045-laundry-boss-simulator.json) |
