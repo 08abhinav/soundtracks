@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
 | Sacramento | 126448 | [126448-sacramento.json](./126448-sacramento.json) |
+| Sacrata | 339600 | [339600-sacrata.json](./339600-sacrata.json) |
 | Sacred | 328 | [328-sacred.json](./328-sacred.json) |
 | Sacred | 330355 | [330355-sacred.json](./330355-sacred.json) |
 | Sacred 2 Gold | 28234 | [28234-sacred-2-gold.json](./28234-sacred-2-gold.json) |
@@ -5394,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
+| Shards of the Realm | 339696 | [339696-shards-of-the-realm.json](./339696-shards-of-the-realm.json) |
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
@@ -10785,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snekris | 291002 | [291002-snekris.json](./291002-snekris.json) |
 | Sneks Fiend | 184977 | [184977-sneks-fiend.json](./184977-sneks-fiend.json) |
 | Snekteks | 365232 | [365232-snekteks.json](./365232-snekteks.json) |
+| Snepzhen Solitaire | 339682 | [339682-snepzhen-solitaire.json](./339682-snepzhen-solitaire.json) |
 | Snezhinka: Sentinel Girls 2 | 284892 | [284892-snezhinka-sentinel-girls-2.json](./284892-snezhinka-sentinel-girls-2.json) |
 | Snezhnaja Koroleva | 197956 | [197956-snezhnaja-koroleva.json](./197956-snezhnaja-koroleva.json) |
 | Snik | 34795 | [34795-snik.json](./34795-snik.json) |
@@ -15086,6 +15089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
+| SpeedRunners 2: King of Speed | 339614 | [339614-speedrunners-2-king-of-speed.json](./339614-speedrunners-2-king-of-speed.json) |
 | SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
