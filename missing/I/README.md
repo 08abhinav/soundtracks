@@ -3554,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Panic!! | 236967 | [236967-intergalactic-panic.json](./236967-intergalactic-panic.json) |
 | Intergalactic Rescue | 147235 | [147235-intergalactic-rescue.json](./147235-intergalactic-rescue.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
+| Intergalactic Storage Clearance | 311889 | [311889-intergalactic-storage-clearance.json](./311889-intergalactic-storage-clearance.json) |
 | Intergalactic Taxi Co. | 201124 | [201124-intergalactic-taxi-co.json](./201124-intergalactic-taxi-co.json) |
 | Intergalactic traveler: The Omega Sector | 76445 | [76445-intergalactic-traveler-the-omega-sector.json](./76445-intergalactic-traveler-the-omega-sector.json) |
 | Intergalactic Zoo | 102278 | [102278-intergalactic-zoo.json](./102278-intergalactic-zoo.json) |
