@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fields of Fortune | 345456 | [345456-fields-of-fortune.json](./345456-fields-of-fortune.json) |
 | Fields of Glory | 37111 | [37111-fields-of-glory.json](./37111-fields-of-glory.json) |
 | Fields of Logic | 225720 | [225720-fields-of-logic.json](./225720-fields-of-logic.json) |
+| Fields of Malice | 349121 | [349121-fields-of-malice.json](./349121-fields-of-malice.json) |
 | Fields of Mine | 372981 | [372981-fields-of-mine.json](./372981-fields-of-mine.json) |
 | Fields of War | 62435 | [62435-fields-of-war.json](./62435-fields-of-war.json) |
 | Fields XY | 30635 | [30635-fields-xy.json](./30635-fields-xy.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fights in Tight Spaces: Frights in Tight Spaces | 375531 | [375531-fights-in-tight-spaces-frights-in-tight-spaces.json](./375531-fights-in-tight-spaces-frights-in-tight-spaces.json) |
 | Fights in Tight Spaces: K9 Division | 370251 | [370251-fights-in-tight-spaces-k9-division.json](./370251-fights-in-tight-spaces-k9-division.json) |
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
+| Fightstone Amnesty | 349180 | [349180-fightstone-amnesty.json](./349180-fightstone-amnesty.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
