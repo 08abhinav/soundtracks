@@ -3321,6 +3321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terramystra | 383713 | [383713-terramystra.json](./383713-terramystra.json) |
 | Terrance the Flying Eyeball | 60915 | [60915-terrance-the-flying-eyeball.json](./60915-terrance-the-flying-eyeball.json) |
 | Terranigma | 9633 | [9633-terranigma.json](./9633-terranigma.json) |
+| Terranigma: Boss Rush | 343033 | [343033-terranigma-boss-rush.json](./343033-terranigma-boss-rush.json) |
 | TerranLands | 258513 | [258513-terranlands.json](./258513-terranlands.json) |
 | Terranny | 238536 | [238536-terranny.json](./238536-terranny.json) |
 | Terrapets | 140467 | [140467-terrapets.json](./140467-terrapets.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Final Transmission | 254275 | [254275-the-callisto-protocol-final-transmission.json](./254275-the-callisto-protocol-final-transmission.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
+| The Cameraman | 343145 | [343145-the-cameraman.json](./343145-the-cameraman.json) |
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
 | The Campsite | 326605 | [326605-the-campsite.json](./326605-the-campsite.json) |
@@ -13400,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The VHS Paradise | 281553 | [281553-the-vhs-paradise.json](./281553-the-vhs-paradise.json) |
 | The Vice Squad | 47252 | [47252-the-vice-squad.json](./47252-the-vice-squad.json) |
 | The Viceroy | 34825 | [34825-the-viceroy.json](./34825-the-viceroy.json) |
+| The Victims of Lost Sunny Days: Eclipse | 343143 | [343143-the-victims-of-lost-sunny-days-eclipse.json](./343143-the-victims-of-lost-sunny-days-eclipse.json) |
 | The Victor Initiative | 320732 | [320732-the-victor-initiative.json](./320732-the-victor-initiative.json) |
 | The Video Game Machine | 123066 | [123066-the-video-game-machine.json](./123066-the-video-game-machine.json) |
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
@@ -13664,6 +13667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
+| The Well's Blessing | 343031 | [343031-the-wells-blessing.json](./343031-the-wells-blessing.json) |
 | The Wellmonts Case | 346400 | [346400-the-wellmonts-case.json](./346400-the-wellmonts-case.json) |
 | The Wendigo | 27673 | [27673-the-wendigo.json](./27673-the-wendigo.json) |
 | The WereCleaner | 288623 | [288623-the-werecleaner.json](./288623-the-werecleaner.json) |
@@ -19987,6 +19991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
 | Tracker | 36842 | [36842-tracker.json](./36842-tracker.json) |
+| Tracking Killer | 343050 | [343050-tracking-killer.json](./343050-tracking-killer.json) |
 | Trackless | 28322 | [28322-trackless.json](./28322-trackless.json) |
 | Trackline Express | 244341 | [244341-trackline-express.json](./244341-trackline-express.json) |
 | Trackmania | 133807 | [133807-trackmania.json](./133807-trackmania.json) |
