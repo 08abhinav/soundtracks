@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Facility 47 | 90790 | [90790-facility-47.json](./90790-facility-47.json) |
 | Facination | 38862 | [38862-facination.json](./38862-facination.json) |
 | Facing | 384162 | [384162-facing.json](./384162-facing.json) |
+| Facing Demons | 332882 | [332882-facing-demons.json](./332882-facing-demons.json) |
 | Facing Demons: Chara Battle | 305263 | [305263-facing-demons-chara-battle.json](./305263-facing-demons-chara-battle.json) |
 | Facing Zombie,and 4 Walls | 285967 | [285967-facing-zombie-and-4-walls.json](./285967-facing-zombie-and-4-walls.json) |
 | Facist | 61515 | [61515-facist.json](./61515-facist.json) |
@@ -2555,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
 | Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
+| Fear in the Facts Farms | 332791 | [332791-fear-in-the-facts-farms.json](./332791-fear-in-the-facts-farms.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
@@ -6398,6 +6400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foddia | 332436 | [332436-foddia.json](./332436-foddia.json) |
 | FodFru | 370563 | [370563-fodfru.json](./370563-fodfru.json) |
 | Foe Frenzy | 126564 | [126564-foe-frenzy.json](./126564-foe-frenzy.json) |
+| Foepower | 332794 | [332794-foepower.json](./332794-foepower.json) |
 | Foes of Ali | 4295 | [4295-foes-of-ali.json](./4295-foes-of-ali.json) |
 | Foes of Legacy: Survivors | 374940 | [374940-foes-of-legacy-survivors.json](./374940-foes-of-legacy-survivors.json) |
 | Foes.io | 75135 | [75135-foes-io.json](./75135-foes-io.json) |
@@ -7215,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift 2025 Simulator | 368147 | [368147-forklift-2025-simulator.json](./368147-forklift-2025-simulator.json) |
 | Forklift Certified | 327884 | [327884-forklift-certified.json](./327884-forklift-certified.json) |
 | Forklift Certified: Stacked and Loaded | 344518 | [344518-forklift-certified-stacked-and-loaded.json](./344518-forklift-certified-stacked-and-loaded.json) |
+| Forklift Driving Simulator VR | 332891 | [332891-forklift-driving-simulator-vr.json](./332891-forklift-driving-simulator-vr.json) |
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme: Santa's Workshop | 231287 | [231287-forklift-extreme-santas-workshop.json](./231287-forklift-extreme-santas-workshop.json) |
 | Forklift Extreme: Ultra DLC Pack | 252405 | [252405-forklift-extreme-ultra-dlc-pack.json](./252405-forklift-extreme-ultra-dlc-pack.json) |
@@ -7320,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Racing Pro 2026: GOTY Edition | 399819 | [399819-formula-racing-pro-2026-goty-edition.json](./399819-formula-racing-pro-2026-goty-edition.json) |
 | Formula Racing Pro 2026: Upgrade Edition | 396918 | [396918-formula-racing-pro-2026-upgrade-edition.json](./396918-formula-racing-pro-2026-upgrade-edition.json) |
 | Formula Racing: Grand Prix League | 319317 | [319317-formula-racing-grand-prix-league.json](./319317-formula-racing-grand-prix-league.json) |
+| Formula Rush | 332868 | [332868-formula-rush.json](./332868-formula-rush.json) |
 | Formula Team | 157899 | [157899-formula-team.json](./157899-formula-team.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
@@ -7991,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractured Lands | 102871 | [102871-fractured-lands.json](./102871-fractured-lands.json) |
 | Fractured Library | 366699 | [366699-fractured-library.json](./366699-fractured-library.json) |
 | Fractured Light | 240830 | [240830-fractured-light.json](./240830-fractured-light.json) |
+| Fractured Memories | 332789 | [332789-fractured-memories.json](./332789-fractured-memories.json) |
 | Fractured Mind | 294273 | [294273-fractured-mind.json](./294273-fractured-mind.json) |
 | Fractured Perception | 336149 | [336149-fractured-perception.json](./336149-fractured-perception.json) |
 | Fractured Realms: Season 1 | 385972 | [385972-fractured-realms-season-1.json](./385972-fractured-realms-season-1.json) |
@@ -8556,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin' Soft | 206928 | [206928-friday-night-funkin-soft.json](./206928-friday-night-funkin-soft.json) |
 | Friday Night Funkin' VS Ralsei | 241377 | [241377-friday-night-funkin-vs-ralsei.json](./241377-friday-night-funkin-vs-ralsei.json) |
 | Friday Night Funkin' VS Shaggy | 230357 | [230357-friday-night-funkin-vs-shaggy.json](./230357-friday-night-funkin-vs-shaggy.json) |
+| Friday Night Funkin' vs. Keyboard Cat | 332876 | [332876-friday-night-funkin-vs-keyboard-cat.json](./332876-friday-night-funkin-vs-keyboard-cat.json) |
 | Friday Night Funkin' vs. LSE | 314509 | [314509-friday-night-funkin-vs-lse.json](./314509-friday-night-funkin-vs-lse.json) |
 | Friday Night Funkin' vs. NFT | 325104 | [325104-friday-night-funkin-vs-nft.json](./325104-friday-night-funkin-vs-nft.json) |
 | Friday Night Funkin': Banbuds vs. Reggie the Rat | 202337 | [202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json](./202337-friday-night-funkin-banbuds-vs-reggie-the-rat.json) |
