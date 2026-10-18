@@ -315,6 +315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
+| Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
 | Cake Shop 3 | 410232 | [410232-cake-shop-3.json](./410232-cake-shop-3.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
 | Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
+| Carpool: Attack of the Disco Mob | 361002 | [361002-carpool-attack-of-the-disco-mob.json](./361002-carpool-attack-of-the-disco-mob.json) |
 | Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
 | Carrera | 295031 | [295031-carrera.json](./295031-carrera.json) |
@@ -4159,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rising | 354571 | [354571-chaos-rising.json](./354571-chaos-rising.json) |
 | Chaos Rising: Part 2 | 354572 | [354572-chaos-rising-part-2.json](./354572-chaos-rising-part-2.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
+| Chaos Rocks | 360920 | [360920-chaos-rocks.json](./360920-chaos-rocks.json) |
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
 | Chaos Souls | 75042 | [75042-chaos-souls.json](./75042-chaos-souls.json) |
@@ -5270,6 +5273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
 | Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
+| Chip Shot Challenge | 360927 | [360927-chip-shot-challenge.json](./360927-chip-shot-challenge.json) |
 | Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
