@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
 | What Did Veronica Dream Of? | 185375 | [185375-what-did-veronica-dream-of.json](./185375-what-did-veronica-dream-of.json) |
 | What do I want? | 178498 | [178498-what-do-i-want.json](./178498-what-do-i-want.json) |
+| What do You Call a Group of Skeletons? | 352546 | [352546-what-do-you-call-a-group-of-skeletons.json](./352546-what-do-you-call-a-group-of-skeletons.json) |
 | What Do You Know? | 234723 | [234723-what-do-you-know.json](./234723-what-do-you-know.json) |
 | What Goes Pumpkin the Night | 186181 | [186181-what-goes-pumpkin-the-night.json](./186181-what-goes-pumpkin-the-night.json) |
 | What Goes Up | 144786 | [144786-what-goes-up.json](./144786-what-goes-up.json) |
