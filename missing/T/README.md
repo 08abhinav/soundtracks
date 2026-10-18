@@ -685,6 +685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take me, Vitaly: Sea Wolf | 394501 | [394501-take-me-vitaly-sea-wolf.json](./394501-take-me-vitaly-sea-wolf.json) |
 | Take no Prisoners | 207807 | [207807-take-no-prisoners.json](./207807-take-no-prisoners.json) |
 | Take No Prisoners | 8696 | [8696-take-no-prisoners.json](./8696-take-no-prisoners.json) |
+| Take Off Mask | 320043 | [320043-take-off-mask.json](./320043-take-off-mask.json) |
 | Take Off: The Flight Simulator | 89683 | [89683-take-off-the-flight-simulator.json](./89683-take-off-the-flight-simulator.json) |
 | Take on Helicopters: Hinds | 166219 | [166219-take-on-helicopters-hinds.json](./166219-take-on-helicopters-hinds.json) |
 | Take on Mars | 16572 | [16572-take-on-mars.json](./16572-take-on-mars.json) |
@@ -2694,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
+| TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telusfax | 229810 | [229810-telusfax.json](./229810-telusfax.json) |
 | Temanava | 236768 | [236768-temanava.json](./236768-temanava.json) |
 | Temari Trials | 359984 | [359984-temari-trials.json](./359984-temari-trials.json) |
+| Temehuatzl | 320007 | [320007-temehuatzl.json](./320007-temehuatzl.json) |
 | Temerity | 28100 | [28100-temerity.json](./28100-temerity.json) |
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
@@ -5500,6 +5503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
 | The Copper Canyon Dixie Dash | 144884 | [144884-the-copper-canyon-dixie-dash.json](./144884-the-copper-canyon-dixie-dash.json) |
 | The Copperfield Department | 326967 | [326967-the-copperfield-department.json](./326967-the-copperfield-department.json) |
+| The Core | 320039 | [320039-the-core.json](./320039-the-core.json) |
 | The Core | 376279 | [376279-the-core.json](./376279-the-core.json) |
 | The Core Message | 132570 | [132570-the-core-message.json](./132570-the-core-message.json) |
 | The Corgi Knight | 375505 | [375505-the-corgi-knight.json](./375505-the-corgi-knight.json) |
@@ -6128,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
+| The Doinksoft Collection | 320001 | [320001-the-doinksoft-collection.json](./320001-the-doinksoft-collection.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
 | The Doll Museum | 410736 | [410736-the-doll-museum.json](./410736-the-doll-museum.json) |
@@ -13676,6 +13681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wand of Gamelon Remastered Randomizer | 242114 | [242114-the-wand-of-gamelon-remastered-randomizer.json](./242114-the-wand-of-gamelon-remastered-randomizer.json) |
 | The Wand Wizard | 255150 | [255150-the-wand-wizard.json](./255150-the-wand-wizard.json) |
 | The Wanderer | 193161 | [193161-the-wanderer.json](./193161-the-wanderer.json) |
+| The Wanderer | 320033 | [320033-the-wanderer.json](./320033-the-wanderer.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering Her | 400498 | [400498-the-wandering-her.json](./400498-the-wandering-her.json) |
@@ -13895,6 +13901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Fern Island: Spooky Witch Pack | 322728 | [322728-the-witch-of-fern-island-spooky-witch-pack.json](./322728-the-witch-of-fern-island-spooky-witch-pack.json) |
 | The Witch of Fern Island: Wonderful Witch Pack | 289949 | [289949-the-witch-of-fern-island-wonderful-witch-pack.json](./289949-the-witch-of-fern-island-wonderful-witch-pack.json) |
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
+| The Witch of the Wake | 320008 | [320008-the-witch-of-the-wake.json](./320008-the-witch-of-the-wake.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
@@ -23027,6 +23034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
