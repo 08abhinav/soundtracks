@@ -650,10 +650,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
 | Halo Wars | 988 | [988-halo-wars.json](./988-halo-wars.json) |
+| Halo Wars 2 Season Pass | 354226 | [354226-halo-wars-2-season-pass.json](./354226-halo-wars-2-season-pass.json) |
 | Halo Wars 2: Awakening the Nightmare | 37383 | [37383-halo-wars-2-awakening-the-nightmare.json](./37383-halo-wars-2-awakening-the-nightmare.json) |
+| Halo Wars 2: Colony Leader Pack | 354217 | [354217-halo-wars-2-colony-leader-pack.json](./354217-halo-wars-2-colony-leader-pack.json) |
+| Halo Wars 2: Commander Jerome Leader Pack | 354220 | [354220-halo-wars-2-commander-jerome-leader-pack.json](./354220-halo-wars-2-commander-jerome-leader-pack.json) |
 | Halo Wars 2: Complete Edition | 84476 | [84476-halo-wars-2-complete-edition.json](./84476-halo-wars-2-complete-edition.json) |
+| Halo Wars 2: Forge Leader Pack | 354215 | [354215-halo-wars-2-forge-leader-pack.json](./354215-halo-wars-2-forge-leader-pack.json) |
+| Halo Wars 2: Kinsano Leader Pack | 354221 | [354221-halo-wars-2-kinsano-leader-pack.json](./354221-halo-wars-2-kinsano-leader-pack.json) |
 | Halo Wars 2: Operation Spearbreaker | 75417 | [75417-halo-wars-2-operation-spearbreaker.json](./75417-halo-wars-2-operation-spearbreaker.json) |
+| Halo Wars 2: Sergeant Johnson Leader Pack | 354216 | [354216-halo-wars-2-sergeant-johnson-leader-pack.json](./354216-halo-wars-2-sergeant-johnson-leader-pack.json) |
+| Halo Wars 2: Serina Leader Pack | 354224 | [354224-halo-wars-2-serina-leader-pack.json](./354224-halo-wars-2-serina-leader-pack.json) |
+| Halo Wars 2: The Arbiter Leader Pack | 354223 | [354223-halo-wars-2-the-arbiter-leader-pack.json](./354223-halo-wars-2-the-arbiter-leader-pack.json) |
 | Halo Wars 2: Ultimate Edition | 27765 | [27765-halo-wars-2-ultimate-edition.json](./27765-halo-wars-2-ultimate-edition.json) |
+| Halo Wars 2: YapYap the Destroyer Leader Pack | 354218 | [354218-halo-wars-2-yapyap-the-destroyer-leader-pack.json](./354218-halo-wars-2-yapyap-the-destroyer-leader-pack.json) |
 | Halo Wars: Definitive Edition | 26183 | [26183-halo-wars-definitive-edition.json](./26183-halo-wars-definitive-edition.json) |
 | Halo Wars: Limited Edition | 43956 | [43956-halo-wars-limited-edition.json](./43956-halo-wars-limited-edition.json) |
 | Halo: Combat Devolved | 243401 | [243401-halo-combat-devolved.json](./243401-halo-combat-devolved.json) |
