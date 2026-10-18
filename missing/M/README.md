@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mail Rabbit | 176417 | [176417-mail-rabbit.json](./176417-mail-rabbit.json) |
 | Mail Run Endless Delivery Rush | 216448 | [216448-mail-run-endless-delivery-rush.json](./216448-mail-run-endless-delivery-rush.json) |
 | Mail Tail | 236932 | [236932-mail-tail.json](./236932-mail-tail.json) |
+| Mail Time + Cat Cafe Manager | 357023 | [357023-mail-time-cat-cafe-manager.json](./357023-mail-time-cat-cafe-manager.json) |
 | Mail To The Moon | 362336 | [362336-mail-to-the-moon.json](./362336-mail-to-the-moon.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
@@ -2079,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
 | Management Worlds Bundle | 325005 | [325005-management-worlds-bundle.json](./325005-management-worlds-bundle.json) |
 | ManagerLeague | 152113 | [152113-managerleague.json](./152113-managerleague.json) |
+| Managun Wizard | 357015 | [357015-managun-wizard.json](./357015-managun-wizard.json) |
 | Manahex | 291598 | [291598-manahex.json](./291598-manahex.json) |
 | Manairons | 369857 | [369857-manairons.json](./369857-manairons.json) |
 | Manakoto Hitomi no Bawai | 268135 | [268135-manakoto-hitomi-no-bawai.json](./268135-manakoto-hitomi-no-bawai.json) |
@@ -9887,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Continent: Cursed Island | 212437 | [212437-misty-continent-cursed-island.json](./212437-misty-continent-cursed-island.json) |
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
+| Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
 | Misty's Shining Blacksmithing | 212199 | [212199-mistys-shining-blacksmithing.json](./212199-mistys-shining-blacksmithing.json) |
@@ -11406,6 +11409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Survivor | 259712 | [259712-monster-survivor.json](./259712-monster-survivor.json) |
 | Monster Survivors | 246626 | [246626-monster-survivors.json](./246626-monster-survivors.json) |
 | Monster Survivors: Echo Edition | 347329 | [347329-monster-survivors-echo-edition.json](./347329-monster-survivors-echo-edition.json) |
+| Monster Survivors: Rootsy Edition | 357017 | [357017-monster-survivors-rootsy-edition.json](./357017-monster-survivors-rootsy-edition.json) |
 | Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tale Ultimate | 60450 | [60450-monster-tale-ultimate.json](./60450-monster-tale-ultimate.json) |
@@ -11532,6 +11536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
 | Monstershifter | 183841 | [183841-monstershifter.json](./183841-monstershifter.json) |
 | MonsterSoft | 138803 | [138803-monstersoft.json](./138803-monstersoft.json) |
+| Monstersongs: The VR Rock Musical | 357007 | [357007-monstersongs-the-vr-rock-musical.json](./357007-monstersongs-the-vr-rock-musical.json) |
 | Monsterstone: Prelude | 215122 | [215122-monsterstone-prelude.json](./215122-monsterstone-prelude.json) |
 | MonsterTerritory | 167250 | [167250-monsterterritory.json](./167250-monsterterritory.json) |
 | Monsterthon | 39005 | [39005-monsterthon.json](./39005-monsterthon.json) |
@@ -13955,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musical Chairs with Bulldozers and Other Heavy Equipment | 232003 | [232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json](./232003-musical-chairs-with-bulldozers-and-other-heavy-equipment.json) |
 | Musical de Primeiro de Abril | 243404 | [243404-musical-de-primeiro-de-abril.json](./243404-musical-de-primeiro-de-abril.json) |
 | Musical Dominotes | 270066 | [270066-musical-dominotes.json](./270066-musical-dominotes.json) |
+| Musical Meteors | 357006 | [357006-musical-meteors.json](./357006-musical-meteors.json) |
 | Musical Range | 30819 | [30819-musical-range.json](./30819-musical-range.json) |
 | Musical Reflex | 80937 | [80937-musical-reflex.json](./80937-musical-reflex.json) |
 | Musical Studio | 87123 | [87123-musical-studio.json](./87123-musical-studio.json) |
