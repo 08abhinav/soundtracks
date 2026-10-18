@@ -4111,7 +4111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
-| Deiland | 74531 | [74531-deiland.json](./74531-deiland.json) |
 | Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
@@ -6106,7 +6105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
 | Dick Ricko | 90227 | [90227-dick-ricko.json](./90227-dick-ricko.json) |
 | Dick Starr: Conquers Mars | 110235 | [110235-dick-starr-conquers-mars.json](./110235-dick-starr-conquers-mars.json) |
-| Dick Tracy | 13058 | [13058-dick-tracy.json](./13058-dick-tracy.json) |
 | Dick Tracy | 316832 | [316832-dick-tracy.json](./316832-dick-tracy.json) |
 | Dick Tracy | 316839 | [316839-dick-tracy.json](./316839-dick-tracy.json) |
 | Dick Tracy | 316841 | [316841-dick-tracy.json](./316841-dick-tracy.json) |
@@ -7041,7 +7039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Golf VR | 101325 | [101325-disc-golf-vr.json](./101325-disc-golf-vr.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
-| Disc Room | 131614 | [131614-disc-room.json](./131614-disc-room.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Iraisha wa Monster? | 238087 | [238087-disc-saga-iraisha-wa-monster.json](./238087-disc-saga-iraisha-wa-monster.json) |
@@ -11537,7 +11534,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscape Journey | 180653 | [180653-dreamscape-journey.json](./180653-dreamscape-journey.json) |
 | Dreamscape Return | 290920 | [290920-dreamscape-return.json](./290920-dreamscape-return.json) |
 | Dreamscape Runners | 238503 | [238503-dreamscape-runners.json](./238503-dreamscape-runners.json) |
-| Dreamscaper | 116166 | [116166-dreamscaper.json](./116166-dreamscaper.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
@@ -12507,7 +12503,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duendes in New Year | 315252 | [315252-duendes-in-new-year.json](./315252-duendes-in-new-year.json) |
 | Duendes in New Year 2 | 315254 | [315254-duendes-in-new-year-2.json](./315254-duendes-in-new-year-2.json) |
 | Duet | 142364 | [142364-duet.json](./142364-duet.json) |
-| Duet | 17219 | [17219-duet.json](./17219-duet.json) |
 | Duet Cats | 246309 | [246309-duet-cats.json](./246309-duet-cats.json) |
 | Duet Night Abyss: Paradise Prelude | 413601 | [413601-duet-night-abyss-paradise-prelude.json](./413601-duet-night-abyss-paradise-prelude.json) |
 | Duet Night Abyss: Silver Torrent, Rising Star | 413599 | [413599-duet-night-abyss-silver-torrent-rising-star.json](./413599-duet-night-abyss-silver-torrent-rising-star.json) |
