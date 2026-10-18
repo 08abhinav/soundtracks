@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
+| Candy Golf | 320029 | [320029-candy-golf.json](./320029-candy-golf.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
@@ -1309,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Nemo | 83520 | [83520-captain-nemo.json](./83520-captain-nemo.json) |
 | Captain of Industry: Trains Expansion | 388973 | [388973-captain-of-industry-trains-expansion.json](./388973-captain-of-industry-trains-expansion.json) |
 | Captain of Space | 320558 | [320558-captain-of-space.json](./320558-captain-of-space.json) |
+| Captain of the Guard | 320016 | [320016-captain-of-the-guard.json](./320016-captain-of-the-guard.json) |
 | Captain Pawsome | 244856 | [244856-captain-pawsome.json](./244856-captain-pawsome.json) |
 | Captain Pegleg | 137452 | [137452-captain-pegleg.json](./137452-captain-pegleg.json) |
 | Captain Planet | 69790 | [69790-captain-planet.json](./69790-captain-planet.json) |
@@ -2083,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars: Radiator Springs Adventures | 18251 | [18251-cars-radiator-springs-adventures.json](./18251-cars-radiator-springs-adventures.json) |
 | Cars: Rev It Up In Radiator Springs | 220100 | [220100-cars-rev-it-up-in-radiator-springs.json](./220100-cars-rev-it-up-in-radiator-springs.json) |
 | Cars! Easy Car Games For Baby Boys | 101012 | [101012-cars-easy-car-games-for-baby-boys.json](./101012-cars-easy-car-games-for-baby-boys.json) |
+| Carsh | 320044 | [320044-carsh.json](./320044-carsh.json) |
 | Carsick Carventure | 276692 | [276692-carsick-carventure.json](./276692-carsick-carventure.json) |
 | Cart by Cart | 406723 | [406723-cart-by-cart.json](./406723-cart-by-cart.json) |
 | Cart Capers | 335393 | [335393-cart-capers.json](./335393-cart-capers.json) |
@@ -2490,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Quest | 13997 | [13997-castle-quest.json](./13997-castle-quest.json) |
 | Castle Quest | 307104 | [307104-castle-quest.json](./307104-castle-quest.json) |
 | Castle Raid 2 | 197762 | [197762-castle-raid-2.json](./197762-castle-raid-2.json) |
+| Castle Rain | 320025 | [320025-castle-rain.json](./320025-castle-rain.json) |
 | Castle Ramble | 256433 | [256433-castle-ramble.json](./256433-castle-ramble.json) |
 | Castle Red | 123000 | [123000-castle-red.json](./123000-castle-red.json) |
 | Castle Rencounter | 111475 | [111475-castle-rencounter.json](./111475-castle-rencounter.json) |
@@ -4700,6 +4704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Girls vs. Zombie Carnage: Brutal Anime Kawaii | 399619 | [399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json](./399619-cherry-girls-vs-zombie-carnage-brutal-anime-kawaii.json) |
 | Cherry in the Sky | 103623 | [103623-cherry-in-the-sky.json](./103623-cherry-in-the-sky.json) |
 | Cherry Island | 126552 | [126552-cherry-island.json](./126552-cherry-island.json) |
+| Cherry Jump | 320000 | [320000-cherry-jump.json](./320000-cherry-jump.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
 | Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
@@ -14429,6 +14434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
 | Cute Bendy and The Projectionist | 279065 | [279065-cute-bendy-and-the-projectionist.json](./279065-cute-bendy-and-the-projectionist.json) |
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
+| Cute Bless | 320019 | [320019-cute-bless.json](./320019-cute-bless.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
 | Cute Bully Nyanbaba | 234118 | [234118-cute-bully-nyanbaba.json](./234118-cute-bully-nyanbaba.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
