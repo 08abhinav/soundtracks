@@ -5889,6 +5889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
+| Risky Bison | 314696 | [314696-risky-bison.json](./314696-risky-bison.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
 | Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
