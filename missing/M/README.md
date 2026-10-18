@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
+| Maestro's Cold War 2 | 323013 | [323013-maestros-cold-war-2.json](./323013-maestros-cold-war-2.json) |
 | Mǎfǎ Chuánqí | 159812 | [159812-mafa-chuanqi.json](./159812-mafa-chuanqi.json) |
 | Mafalda: Jugando con Números y Palabras | 167760 | [167760-mafalda-jugando-con-numeros-y-palabras.json](./167760-mafalda-jugando-con-numeros-y-palabras.json) |
 | Mafate | 347828 | [347828-mafate.json](./347828-mafate.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Magic World | 250261 | [250261-magical-magic-world.json](./250261-magical-magic-world.json) |
 | Magical Makeover | 139311 | [139311-magical-makeover.json](./139311-magical-makeover.json) |
 | Magical Manifest | 382546 | [382546-magical-manifest.json](./382546-magical-manifest.json) |
+| Magical Massage | 323014 | [323014-magical-massage.json](./323014-magical-massage.json) |
 | Magical Maze | 147749 | [147749-magical-maze.json](./147749-magical-maze.json) |
 | Magical Merge: Fairy Adventure | 309501 | [309501-magical-merge-fairy-adventure.json](./309501-magical-merge-fairy-adventure.json) |
 | Magical MILFs | 136257 | [136257-magical-milfs.json](./136257-magical-milfs.json) |
@@ -2644,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario & Sonic at the Rio 2016 Olympic Games | 11258 | [11258-mario-and-sonic-at-the-rio-2016-olympic-games.json](./11258-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Rio 2016 Olympic Games | 132111 | [132111-mario-and-sonic-at-the-rio-2016-olympic-games.json](./132111-mario-and-sonic-at-the-rio-2016-olympic-games.json) |
 | Mario & Sonic at the Sochi 2014 Olympic Winter Games | 3990 | [3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json](./3990-mario-and-sonic-at-the-sochi-2014-olympic-winter-games.json) |
+| Mario & Sonic: The Ultimate Team | 323037 | [323037-mario-and-sonic-the-ultimate-team.json](./323037-mario-and-sonic-the-ultimate-team.json) |
 | Mario + Rabbids Kingdom Battle: Donkey Kong Adventure | 103317 | [103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json](./103317-mario-rabbids-kingdom-battle-donkey-kong-adventure.json) |
 | Mario + Rabbids Kingdom Battle: Gold Edition | 121506 | [121506-mario-rabbids-kingdom-battle-gold-edition.json](./121506-mario-rabbids-kingdom-battle-gold-edition.json) |
 | Mario + Rabbids Kingdom Battle: Pixel Pack | 237995 | [237995-mario-rabbids-kingdom-battle-pixel-pack.json](./237995-mario-rabbids-kingdom-battle-pixel-pack.json) |
@@ -3511,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvin's Marvellous Adventure | 13052 | [13052-marvins-marvellous-adventure.json](./13052-marvins-marvellous-adventure.json) |
 | Marwan's Haunting | 258509 | [258509-marwans-haunting.json](./258509-marwans-haunting.json) |
 | Marwin and the Evolution Stone | 31745 | [31745-marwin-and-the-evolution-stone.json](./31745-marwin-and-the-evolution-stone.json) |
+| Mary | 323001 | [323001-mary.json](./323001-mary.json) |
 | Mary Had a Little Lamb | 241458 | [241458-mary-had-a-little-lamb.json](./241458-mary-had-a-little-lamb.json) |
 | Mary Had A Lost Lamb | 314072 | [314072-mary-had-a-lost-lamb.json](./314072-mary-had-a-lost-lamb.json) |
 | Mary Help Me! | 258518 | [258518-mary-help-me.json](./258518-mary-help-me.json) |
@@ -5706,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
 | Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
+| Mega Man: Day in the Limelight 3 | 323040 | [323040-mega-man-day-in-the-limelight-3.json](./323040-mega-man-day-in-the-limelight-3.json) |
 | Mega Man: Dr Wily Visits Indonesia | 356694 | [356694-mega-man-dr-wily-visits-indonesia.json](./356694-mega-man-dr-wily-visits-indonesia.json) |
 | Mega Man: Dual Override | 381249 | [381249-mega-man-dual-override.json](./381249-mega-man-dual-override.json) |
 | Mega Man: Four Hounds | 215172 | [215172-mega-man-four-hounds.json](./215172-mega-man-four-hounds.json) |
@@ -5947,6 +5952,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
+| Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
+| Megaman X Virus | 323027 | [323027-megaman-x-virus.json](./323027-megaman-x-virus.json) |
 | Megaman X: Omega Blaster - Definitive Edition | 369207 | [369207-megaman-x-omega-blaster-definitive-edition.json](./369207-megaman-x-omega-blaster-definitive-edition.json) |
 | Megaman ZX Genesis | 334150 | [334150-megaman-zx-genesis.json](./334150-megaman-zx-genesis.json) |
 | MegaMan: Citrus Cult | 323767 | [323767-megaman-citrus-cult.json](./323767-megaman-citrus-cult.json) |
@@ -7376,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime: Trilogy - Collector's Edition | 115548 | [115548-metroid-prime-trilogy-collectors-edition.json](./115548-metroid-prime-trilogy-collectors-edition.json) |
 | Metroid Ravenous | 408719 | [408719-metroid-ravenous.json](./408719-metroid-ravenous.json) |
 | Metroid Redemption | 134629 | [134629-metroid-redemption.json](./134629-metroid-redemption.json) |
+| Metroid RPG: Kilo Squadron​ | 323036 | [323036-metroid-rpg-kilo-squadron.json](./323036-metroid-rpg-kilo-squadron.json) |
 | Metroid SNES | 377749 | [377749-metroid-snes.json](./377749-metroid-snes.json) |
 | Metroid Tactics | 264878 | [264878-metroid-tactics.json](./264878-metroid-tactics.json) |
 | Metroid Treasure Hunt Remake | 323999 | [323999-metroid-treasure-hunt-remake.json](./323999-metroid-treasure-hunt-remake.json) |
@@ -7387,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
 | Metroid: Deep Freeze | 173106 | [173106-metroid-deep-freeze.json](./173106-metroid-deep-freeze.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
+| Metroid: Father Hunt | 323032 | [323032-metroid-father-hunt.json](./323032-metroid-father-hunt.json) |
 | Metroid: Federation Trooper | 323874 | [323874-metroid-federation-trooper.json](./323874-metroid-federation-trooper.json) |
 | Metroid: Galactic Marine | 341143 | [341143-metroid-galactic-marine.json](./341143-metroid-galactic-marine.json) |
 | Metroid: Genesis | 323757 | [323757-metroid-genesis.json](./323757-metroid-genesis.json) |
