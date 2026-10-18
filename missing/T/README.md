@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bermuda Triangle | 58843 | [58843-the-bermuda-triangle.json](./58843-the-bermuda-triangle.json) |
 | The Best BJ | 156973 | [156973-the-best-bj.json](./156973-the-best-bj.json) |
 | The Best Duck Clicker | 312025 | [312025-the-best-duck-clicker.json](./312025-the-best-duck-clicker.json) |
+| The Best Eroge Ever | 353655 | [353655-the-best-eroge-ever.json](./353655-the-best-eroge-ever.json) |
 | The Best Investor | 357223 | [357223-the-best-investor.json](./357223-the-best-investor.json) |
 | The Best Most Epic Turnabout | 310422 | [310422-the-best-most-epic-turnabout.json](./310422-the-best-most-epic-turnabout.json) |
 | The Best of Microsoft Entertainment Pack | 122771 | [122771-the-best-of-microsoft-entertainment-pack.json](./122771-the-best-of-microsoft-entertainment-pack.json) |
@@ -8690,6 +8691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Moments of a Doomed Spaceship | 178925 | [178925-the-last-moments-of-a-doomed-spaceship.json](./178925-the-last-moments-of-a-doomed-spaceship.json) |
 | The Last Monsters | 132735 | [132735-the-last-monsters.json](./132735-the-last-monsters.json) |
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
+| The Last Mullu | 353612 | [353612-the-last-mullu.json](./353612-the-last-mullu.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
@@ -16454,6 +16456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Flies Like An Arrow | 276728 | [276728-time-flies-like-an-arrow.json](./276728-time-flies-like-an-arrow.json) |
 | Time Flight | 60550 | [60550-time-flight.json](./60550-time-flight.json) |
 | Time Flipper | 188884 | [188884-time-flipper.json](./188884-time-flipper.json) |
+| Time For Kill | 353633 | [353633-time-for-kill.json](./353633-time-for-kill.json) |
 | Time for Teletubbies | 326581 | [326581-time-for-teletubbies.json](./326581-time-for-teletubbies.json) |
 | Time For You: Chapter 01 | 168860 | [168860-time-for-you-chapter-01.json](./168860-time-for-you-chapter-01.json) |
 | Time for You: Chapter 02 - Dirty Thoughts and Corporate Bots | 170373 | [170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json](./170373-time-for-you-chapter-02-dirty-thoughts-and-corporate-bots.json) |
@@ -19152,6 +19155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kourinden: Mythos of Phantasmagoria | 289935 | [289935-touhou-kourinden-mythos-of-phantasmagoria.json](./289935-touhou-kourinden-mythos-of-phantasmagoria.json) |
 | Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
+| Touhou Kouzougi: Flickerframe Shutter Festival | 353646 | [353646-touhou-kouzougi-flickerframe-shutter-festival.json](./353646-touhou-kouzougi-flickerframe-shutter-festival.json) |
 | Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
 | Touhou Library Survivors | 219544 | [219544-touhou-library-survivors.json](./219544-touhou-library-survivors.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
