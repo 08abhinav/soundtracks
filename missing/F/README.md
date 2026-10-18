@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
+| Family Guy Invaders | 335726 | [335726-family-guy-invaders.json](./335726-family-guy-invaders.json) |
 | Family Guy Online | 76456 | [76456-family-guy-online.json](./76456-family-guy-online.json) |
 | Family Guy Pinball | 81362 | [81362-family-guy-pinball.json](./81362-family-guy-pinball.json) |
 | Family Guy: Air Griffin | 255575 | [255575-family-guy-air-griffin.json](./255575-family-guy-air-griffin.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flockoban | 183399 | [183399-flockoban.json](./183399-flockoban.json) |
 | Flocks | 174193 | [174193-flocks.json](./174193-flocks.json) |
 | Flockwork | 252926 | [252926-flockwork.json](./252926-flockwork.json) |
+| Flocky the Cat | 335730 | [335730-flocky-the-cat.json](./335730-flocky-the-cat.json) |
 | Floigan Bros. | 22050 | [22050-floigan-bros.json](./22050-floigan-bros.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
