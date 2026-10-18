@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
 | Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
+| Batman: The Brave and the Bold - The Videogame | 343034 | [343034-batman-the-brave-and-the-bold-the-videogame.json](./343034-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Brave and the Bold - The Videogame | 4707 | [4707-batman-the-brave-and-the-bold-the-videogame.json](./4707-batman-the-brave-and-the-bold-the-videogame.json) |
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
 | Batman: The Dark Knight | 283976 | [283976-batman-the-dark-knight.json](./283976-batman-the-dark-knight.json) |
@@ -5363,6 +5364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Cup Cricket | 22337 | [22337-big-cup-cricket.json](./22337-big-cup-cricket.json) |
 | Big D Randy | 276269 | [276269-big-d-randy.json](./276269-big-d-randy.json) |
 | Big Dengi | 323417 | [323417-big-dengi.json](./323417-big-dengi.json) |
+| Big Dig Energy | 343135 | [343135-big-dig-energy.json](./343135-big-dig-energy.json) |
 | Big Dipper | 112798 | [112798-big-dipper.json](./112798-big-dipper.json) |
 | Big Drunk Satanic Massacre | 75067 | [75067-big-drunk-satanic-massacre.json](./75067-big-drunk-satanic-massacre.json) |
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
@@ -11884,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277225 | [277225-buck-rogers-planet-of-zoom.json](./277225-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277226 | [277226-buck-rogers-planet-of-zoom.json](./277226-buck-rogers-planet-of-zoom.json) |
+| Buck to the Rescue | 343130 | [343130-buck-to-the-rescue.json](./343130-buck-to-the-rescue.json) |
 | Buck Trucker in Rowdy Business | 352200 | [352200-buck-trucker-in-rowdy-business.json](./352200-buck-trucker-in-rowdy-business.json) |
 | Buck Up and Drive! | 153515 | [153515-buck-up-and-drive.json](./153515-buck-up-and-drive.json) |
 | Buck Velvet | 385940 | [385940-buck-velvet.json](./385940-buck-velvet.json) |
