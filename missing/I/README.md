@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Name of Freedom: Black Apocalypse | 181604 | [181604-in-the-name-of-freedom-black-apocalypse.json](./181604-in-the-name-of-freedom-black-apocalypse.json) |
 | In the name of sin | 74510 | [74510-in-the-name-of-sin.json](./74510-in-the-name-of-sin.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
+| In the Palace of the Birds | 332879 | [332879-in-the-palace-of-the-birds.json](./332879-in-the-palace-of-the-birds.json) |
 | In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
@@ -3066,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Paper Minesweeper: L'animal dans la décoration Free Pack | 336346 | [336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json](./336346-ink-paper-minesweeper-lanimal-dans-la-decoration-free-pack.json) |
 | Ink Paper Minesweeper: Traditional Japanese Paintings Pack | 336345 | [336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json](./336345-ink-paper-minesweeper-traditional-japanese-paintings-pack.json) |
 | Ink Reverie | 331367 | [331367-ink-reverie.json](./331367-ink-reverie.json) |
+| Ink Sans Phase 3: Shanghaivania | 332887 | [332887-ink-sans-phase-3-shanghaivania.json](./332887-ink-sans-phase-3-shanghaivania.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink Splash | 411815 | [411815-ink-splash.json](./411815-ink-splash.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
