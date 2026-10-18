@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Admission Challenge | 367152 | [367152-cattle-admission-challenge.json](./367152-cattle-admission-challenge.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
+| Cattle Crisis! | 346466 | [346466-cattle-crisis.json](./346466-cattle-crisis.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CleanPlay | 333524 | [333524-cleanplay.json](./333524-cleanplay.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
 | Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
+| CleanTwin | 346462 | [346462-cleantwin.json](./346462-cleantwin.json) |
 | Cleanup Crew | 169823 | [169823-cleanup-crew.json](./169823-cleanup-crew.json) |
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
@@ -7830,6 +7832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Geass: Hangyaku no Lelouch | 80230 | [80230-code-geass-hangyaku-no-lelouch.json](./80230-code-geass-hangyaku-no-lelouch.json) |
 | Code Geass: Lelouch of the Rebellion - Lost Colors | 66411 | [66411-code-geass-lelouch-of-the-rebellion-lost-colors.json](./66411-code-geass-lelouch-of-the-rebellion-lost-colors.json) |
 | Code Geass: Lelouch of the Rebellion R2 Banjou no Geass Gekijou | 80162 | [80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json](./80162-code-geass-lelouch-of-the-rebellion-r2-banjou-no-geass-gekijou.json) |
+| Code Lyoko RDT | 346460 | [346460-code-lyoko-rdt.json](./346460-code-lyoko-rdt.json) |
 | Code Lyoko: Get Ready to Virtualize | 8453 | [8453-code-lyoko-get-ready-to-virtualize.json](./8453-code-lyoko-get-ready-to-virtualize.json) |
 | Code My Robot Vacuum | 396524 | [396524-code-my-robot-vacuum.json](./396524-code-my-robot-vacuum.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
@@ -12133,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Tale 2 | 154262 | [154262-creepy-tale-2.json](./154262-creepy-tale-2.json) |
 | Creepy Tale 3: Ingrid Penance | 211024 | [211024-creepy-tale-3-ingrid-penance.json](./211024-creepy-tale-3-ingrid-penance.json) |
 | Creepy Tale Bundle | 193739 | [193739-creepy-tale-bundle.json](./193739-creepy-tale-bundle.json) |
+| Creepy Tale: Snow Child | 346386 | [346386-creepy-tale-snow-child.json](./346386-creepy-tale-snow-child.json) |
 | Creepy Tale: Some Other Place | 257910 | [257910-creepy-tale-some-other-place.json](./257910-creepy-tale-some-other-place.json) |
 | Creepy Tales | 305978 | [305978-creepy-tales.json](./305978-creepy-tales.json) |
 | Creepy Vision | 114823 | [114823-creepy-vision.json](./114823-creepy-vision.json) |
