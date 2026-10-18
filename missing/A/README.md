@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
+| Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Commando | 171425 | [171425-action-commando.json](./171425-action-commando.json) |
 | Action Doom | 55134 | [55134-action-doom.json](./55134-action-doom.json) |
 | Action Draw Jumper | 339861 | [339861-action-draw-jumper.json](./339861-action-draw-jumper.json) |
+| Action Entities | 343608 | [343608-action-entities.json](./343608-action-entities.json) |
 | Action Fighter | 11885 | [11885-action-fighter.json](./11885-action-fighter.json) |
 | Action Force II: International Heroes | 73255 | [73255-action-force-ii-international-heroes.json](./73255-action-force-ii-international-heroes.json) |
 | Action Force: International Heroes | 59503 | [59503-action-force-international-heroes.json](./59503-action-force-international-heroes.json) |
@@ -7627,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World | 252601 | [252601-another-world.json](./252601-another-world.json) |
 | Another World | 343435 | [343435-another-world.json](./343435-another-world.json) |
 | Another World | 343437 | [343437-another-world.json](./343437-another-world.json) |
+| Another World | 343679 | [343679-another-world.json](./343679-another-world.json) |
 | Another World | 392454 | [392454-another-world.json](./392454-another-world.json) |
 | Another World Adventures | 379448 | [379448-another-world-adventures.json](./379448-another-world-adventures.json) |
 | Another World for Dreamcast | 343875 | [343875-another-world-for-dreamcast.json](./343875-another-world-for-dreamcast.json) |
@@ -9484,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
 | Arenion | 303674 | [303674-arenion.json](./303674-arenion.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
+| Ares | 343693 | [343693-ares.json](./343693-ares.json) |
 | Ares | 93968 | [93968-ares.json](./93968-ares.json) |
 | Ares Breathes | 303675 | [303675-ares-breathes.json](./303675-ares-breathes.json) |
 | Ares Fighter | 367595 | [367595-ares-fighter.json](./367595-ares-fighter.json) |
