@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Boat | 13731 | [13731-jet-boat.json](./13731-jet-boat.json) |
 | Jet Buster | 68698 | [68698-jet-buster.json](./68698-jet-buster.json) |
 | Jet Coaster Dream 2 | 69383 | [69383-jet-coaster-dream-2.json](./69383-jet-coaster-dream-2.json) |
+| Jet Combat: Cats vs. Dogs Military Simulator | 322423 | [322423-jet-combat-cats-vs-dogs-military-simulator.json](./322423-jet-combat-cats-vs-dogs-military-simulator.json) |
 | Jet Dancer | 224635 | [224635-jet-dancer.json](./224635-jet-dancer.json) |
 | Jet de GO! 2: Let's Go by Airliner | 98002 | [98002-jet-de-go-2-lets-go-by-airliner.json](./98002-jet-de-go-2-lets-go-by-airliner.json) |
 | Jet de GO! Let's Go By Airliner | 61334 | [61334-jet-de-go-lets-go-by-airliner.json](./61334-jet-de-go-lets-go-by-airliner.json) |
@@ -2491,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpin' Junk | 110258 | [110258-jumpin-junk.json](./110258-jumpin-junk.json) |
 | Jumpin' Jupiter: Prelude | 135629 | [135629-jumpin-jupiter-prelude.json](./135629-jumpin-jupiter-prelude.json) |
 | Jumping Ball | 27608 | [27608-jumping-ball.json](./27608-jumping-ball.json) |
+| Jumping Boy | 322415 | [322415-jumping-boy.json](./322415-jumping-boy.json) |
 | Jumping Boy | 336422 | [336422-jumping-boy.json](./336422-jumping-boy.json) |
 | Jumping Boy | 362478 | [362478-jumping-boy.json](./362478-jumping-boy.json) |
 | Jumping Bricks Ball | 193765 | [193765-jumping-bricks-ball.json](./193765-jumping-bricks-ball.json) |
@@ -3046,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Sing! National Anthems | 66438 | [66438-just-sing-national-anthems.json](./66438-just-sing-national-anthems.json) |
 | Just Skate | 101430 | [101430-just-skate.json](./101430-just-skate.json) |
+| Just Skateboard | 322450 | [322450-just-skateboard.json](./322450-just-skateboard.json) |
 | Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
 | Just Skill Shooter | 250465 | [250465-just-skill-shooter.json](./250465-just-skill-shooter.json) |
 | Just Skill Shooter 3: 2D Edition | 295890 | [295890-just-skill-shooter-3-2d-edition.json](./295890-just-skill-shooter-3-2d-edition.json) |
