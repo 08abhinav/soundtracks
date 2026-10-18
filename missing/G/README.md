@@ -4495,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
+| Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
 | Gold Coast Gambits: Boca Raton & Palm Beach | 414353 | [414353-gold-coast-gambits-boca-raton-and-palm-beach.json](./414353-gold-coast-gambits-boca-raton-and-palm-beach.json) |
 | Gold Digger | 13723 | [13723-gold-digger.json](./13723-gold-digger.json) |
 | Gold Digger | 147994 | [147994-gold-digger.json](./147994-gold-digger.json) |
@@ -7627,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
 | Gun Done: Who is Awesome | 97923 | [97923-gun-done-who-is-awesome.json](./97923-gun-done-who-is-awesome.json) |
 | Gun Down the Gungan | 334945 | [334945-gun-down-the-gungan.json](./334945-gun-down-the-gungan.json) |
+| Gun Dream | 345257 | [345257-gun-dream.json](./345257-gun-dream.json) |
 | Gun Duel | 164987 | [164987-gun-duel.json](./164987-gun-duel.json) |
 | Gun Factory Simulator | 326421 | [326421-gun-factory-simulator.json](./326421-gun-factory-simulator.json) |
 | Gun Fever | 233551 | [233551-gun-fever.json](./233551-gun-fever.json) |
