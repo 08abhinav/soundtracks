@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Front: Enobetta | 174690 | [174690-final-front-enobetta.json](./174690-final-front-enobetta.json) |
 | Final Frontier Story | 360084 | [360084-final-frontier-story.json](./360084-final-frontier-story.json) |
 | Final Frost | 392192 | [392192-final-frost.json](./392192-final-frost.json) |
+| Final Furlong 2 | 355862 | [355862-final-furlong-2.json](./355862-final-furlong-2.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
