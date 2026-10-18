@@ -9496,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minishoot' Adventures | 191761 | [191761-minishoot-adventures.json](./191761-minishoot-adventures.json) |
 | MiniSquadron | 52583 | [52583-minisquadron.json](./52583-minisquadron.json) |
 | MiniState | 129683 | [129683-ministate.json](./129683-ministate.json) |
+| Ministry of Broadcast: Badge Edition | 324766 | [324766-ministry-of-broadcast-badge-edition.json](./324766-ministry-of-broadcast-badge-edition.json) |
 | Ministry of Order | 334893 | [334893-ministry-of-order.json](./334893-ministry-of-order.json) |
 | Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
@@ -11555,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Outbreak | 154046 | [154046-monster-outbreak.json](./154046-monster-outbreak.json) |
 | Monster Pack Volume 1 | 78937 | [78937-monster-pack-volume-1.json](./78937-monster-pack-volume-1.json) |
 | Monster Pack Volume 2 | 98947 | [98947-monster-pack-volume-2.json](./98947-monster-pack-volume-2.json) |
+| Monster Palace | 324745 | [324745-monster-palace.json](./324745-monster-palace.json) |
 | Monster Panic | 289379 | [289379-monster-panic.json](./289379-monster-panic.json) |
 | Monster Parlor | 375858 | [375858-monster-parlor.json](./375858-monster-parlor.json) |
 | Monster partner | 61619 | [61619-monster-partner.json](./61619-monster-partner.json) |
@@ -12264,6 +12266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
+| Morkull: Ragast's Rage - Collector's Edition | 324770 | [324770-morkull-ragasts-rage-collectors-edition.json](./324770-morkull-ragasts-rage-collectors-edition.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
 | Mormonoids From The Deep | 246414 | [246414-mormonoids-from-the-deep.json](./246414-mormonoids-from-the-deep.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
@@ -12395,6 +12398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 11: DC Elseworlds Skin Pack | 298557 | [298557-mortal-kombat-11-dc-elseworlds-skin-pack.json](./298557-mortal-kombat-11-dc-elseworlds-skin-pack.json) |
 | Mortal Kombat 11: Double Feature Skin Pack | 305856 | [305856-mortal-kombat-11-double-feature-skin-pack.json](./305856-mortal-kombat-11-double-feature-skin-pack.json) |
 | Mortal Kombat 11: Fujin | 139439 | [139439-mortal-kombat-11-fujin.json](./139439-mortal-kombat-11-fujin.json) |
+| Mortal Kombat 11: Game & Film Double Pack | 324767 | [324767-mortal-kombat-11-game-and-film-double-pack.json](./324767-mortal-kombat-11-game-and-film-double-pack.json) |
 | Mortal Kombat 11: Gothic Horror Skin Pack | 405350 | [405350-mortal-kombat-11-gothic-horror-skin-pack.json](./405350-mortal-kombat-11-gothic-horror-skin-pack.json) |
 | Mortal Kombat 11: Hellspawn Jacqui | 388867 | [388867-mortal-kombat-11-hellspawn-jacqui.json](./388867-mortal-kombat-11-hellspawn-jacqui.json) |
 | Mortal Kombat 11: Klassic Cassie | 406877 | [406877-mortal-kombat-11-klassic-cassie.json](./406877-mortal-kombat-11-klassic-cassie.json) |
@@ -15988,6 +15992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
 | Myths of the World: Chinese Healer | 140243 | [140243-myths-of-the-world-chinese-healer.json](./140243-myths-of-the-world-chinese-healer.json) |
 | Myths of the World: Chinese Healer - Collector's Edition | 30679 | [30679-myths-of-the-world-chinese-healer-collectors-edition.json](./30679-myths-of-the-world-chinese-healer-collectors-edition.json) |
+| Myths of the World: Love Beyond | 324759 | [324759-myths-of-the-world-love-beyond.json](./324759-myths-of-the-world-love-beyond.json) |
 | Myths of the World: Of Fiends and Fairies | 140244 | [140244-myths-of-the-world-of-fiends-and-fairies.json](./140244-myths-of-the-world-of-fiends-and-fairies.json) |
 | Myths of the World: Of Fiends and Fairies - Collector's Edition | 102943 | [102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json](./102943-myths-of-the-world-of-fiends-and-fairies-collectors-edition.json) |
 | Myths of the World: Of Fiends and Fairies HD | 106644 | [106644-myths-of-the-world-of-fiends-and-fairies-hd.json](./106644-myths-of-the-world-of-fiends-and-fairies-hd.json) |
