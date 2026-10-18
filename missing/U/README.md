@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
 | University of Problems | 356442 | [356442-university-of-problems.json](./356442-university-of-problems.json) |
+| University Tycoon: The College Management Simulator | 312418 | [312418-university-tycoon-the-college-management-simulator.json](./312418-university-tycoon-the-college-management-simulator.json) |
 | Univocity | 339916 | [339916-univocity.json](./339916-univocity.json) |
 | UniWar | 91536 | [91536-uniwar.json](./91536-uniwar.json) |
 | Unizone's Underswap: Distrust Sans | 330365 | [330365-unizones-underswap-distrust-sans.json](./330365-unizones-underswap-distrust-sans.json) |
