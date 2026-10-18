@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Grows in the Night | 178905 | [178905-what-grows-in-the-night.json](./178905-what-grows-in-the-night.json) |
 | What Happened | 133080 | [133080-what-happened.json](./133080-what-happened.json) |
 | What Happened At Sugar Hill? | 394117 | [394117-what-happened-at-sugar-hill.json](./394117-what-happened-at-sugar-hill.json) |
+| What Happened on the Moon? | 335710 | [335710-what-happened-on-the-moon.json](./335710-what-happened-on-the-moon.json) |
 | What Happened to Kate | 298136 | [298136-what-happened-to-kate.json](./298136-what-happened-to-kate.json) |
 | What Happened to Lily? | 342848 | [342848-what-happened-to-lily.json](./342848-what-happened-to-lily.json) |
 | What happened to Survey Team 4? | 135028 | [135028-what-happened-to-survey-team-4.json](./135028-what-happened-to-survey-team-4.json) |
@@ -3515,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Strip this Babe? Streamer Girl | 248924 | [248924-who-wants-to-strip-this-babe-streamer-girl.json](./248924-who-wants-to-strip-this-babe-streamer-girl.json) |
 | Who wants to strip this babe?: Hentai Teacher | 280445 | [280445-who-wants-to-strip-this-babe-hentai-teacher.json](./280445-who-wants-to-strip-this-babe-hentai-teacher.json) |
 | Who Wants to Win a Banana Hoard? | 328606 | [328606-who-wants-to-win-a-banana-hoard.json](./328606-who-wants-to-win-a-banana-hoard.json) |
+| Who Was The Cat? | 335740 | [335740-who-was-the-cat.json](./335740-who-was-the-cat.json) |
 | Who's at the Door? | 347265 | [347265-whos-at-the-door.json](./347265-whos-at-the-door.json) |
 | Who's Beast | 358263 | [358263-whos-beast.json](./358263-whos-beast.json) |
 | Who's Behind The Mexican UFO's | 419340 | [419340-whos-behind-the-mexican-ufos.json](./419340-whos-behind-the-mexican-ufos.json) |
@@ -4578,6 +4580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch House Mixtape | 271187 | [271187-witch-house-mixtape.json](./271187-witch-house-mixtape.json) |
 | Witch Hunt | 134420 | [134420-witch-hunt.json](./134420-witch-hunt.json) |
 | Witch Hunt | 210283 | [210283-witch-hunt.json](./210283-witch-hunt.json) |
+| Witch Hunt | 335622 | [335622-witch-hunt.json](./335622-witch-hunt.json) |
 | Witch Hunter | 165174 | [165174-witch-hunter.json](./165174-witch-hunter.json) |
 | Witch Hunter | 218158 | [218158-witch-hunter.json](./218158-witch-hunter.json) |
 | Witch Hunters: Full Moon Ceremony - Collector's Edition | 74350 | [74350-witch-hunters-full-moon-ceremony-collectors-edition.json](./74350-witch-hunters-full-moon-ceremony-collectors-edition.json) |
