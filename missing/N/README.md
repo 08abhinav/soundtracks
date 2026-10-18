@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmarena | 372547 | [372547-nightmarena.json](./372547-nightmarena.json) |
 | Nightmares | 238542 | [238542-nightmares.json](./238542-nightmares.json) |
 | Nightmares and Other True Stories | 229725 | [229725-nightmares-and-other-true-stories.json](./229725-nightmares-and-other-true-stories.json) |
+| Nightmares Awake | 340279 | [340279-nightmares-awake.json](./340279-nightmares-awake.json) |
 | Nightmares Before Disney | 242467 | [242467-nightmares-before-disney.json](./242467-nightmares-before-disney.json) |
 | Nightmares from the Deep 3: Davy Jones | 17140 | [17140-nightmares-from-the-deep-3-davy-jones.json](./17140-nightmares-from-the-deep-3-davy-jones.json) |
 | Nightmares from the Deep Collection | 53419 | [53419-nightmares-from-the-deep-collection.json](./53419-nightmares-from-the-deep-collection.json) |
