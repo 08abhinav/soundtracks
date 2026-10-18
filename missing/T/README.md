@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetraspace | 59929 | [59929-tetraspace.json](./59929-tetraspace.json) |
 | TetraSquare | 235132 | [235132-tetrasquare.json](./235132-tetrasquare.json) |
 | TetraTower | 183506 | [183506-tetratower.json](./183506-tetratower.json) |
+| Tetrenga | 344147 | [344147-tetrenga.json](./344147-tetrenga.json) |
 | Tetri-Pentix | 87930 | [87930-tetri-pentix.json](./87930-tetri-pentix.json) |
 | Tetri3D | 88285 | [88285-tetri3d.json](./88285-tetri3d.json) |
 | Tetrible | 184434 | [184434-tetrible.json](./184434-tetrible.json) |
@@ -14913,6 +14914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
+| Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
 | Thunderbirds International Rescue | 49255 | [49255-thunderbirds-international-rescue.json](./49255-thunderbirds-international-rescue.json) |
 | Thunderblade Saga | 277589 | [277589-thunderblade-saga.json](./277589-thunderblade-saga.json) |
@@ -16282,6 +16284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 08 | 5221 | [5221-tiger-woods-pga-tour-08.json](./5221-tiger-woods-pga-tour-08.json) |
 | Tiger Woods PGA Tour 09 | 5222 | [5222-tiger-woods-pga-tour-09.json](./5222-tiger-woods-pga-tour-09.json) |
 | Tiger Woods PGA Tour 09 All-Play | 81327 | [81327-tiger-woods-pga-tour-09-all-play.json](./81327-tiger-woods-pga-tour-09-all-play.json) |
+| Tiger Woods PGA Tour 10 | 344145 | [344145-tiger-woods-pga-tour-10.json](./344145-tiger-woods-pga-tour-10.json) |
 | Tiger Woods PGA Tour 10 | 5223 | [5223-tiger-woods-pga-tour-10.json](./5223-tiger-woods-pga-tour-10.json) |
 | Tiger Woods PGA Tour 11 | 5224 | [5224-tiger-woods-pga-tour-11.json](./5224-tiger-woods-pga-tour-11.json) |
 | Tiger Woods PGA Tour 12 | 5225 | [5225-tiger-woods-pga-tour-12.json](./5225-tiger-woods-pga-tour-12.json) |
@@ -18966,6 +18969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem 2 | 204851 | [204851-totem-2.json](./204851-totem-2.json) |
 | Totem City | 124017 | [124017-totem-city.json](./124017-totem-city.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
+| Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
 | Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
 | Totem Tribe Gold | 88100 | [88100-totem-tribe-gold.json](./88100-totem-tribe-gold.json) |
@@ -21343,6 +21347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trajes Fatais Minimal | 176844 | [176844-trajes-fatais-minimal.json](./176844-trajes-fatais-minimal.json) |
 | Trajes Fatais: Suits of Fate | 124245 | [124245-trajes-fatais-suits-of-fate.json](./124245-trajes-fatais-suits-of-fate.json) |
 | Trakonius | 268220 | [268220-trakonius.json](./268220-trakonius.json) |
+| Tralalero Tralala Backrooms Pools | 344244 | [344244-tralalero-tralala-backrooms-pools.json](./344244-tralalero-tralala-backrooms-pools.json) |
 | Tralalero Tralala Elephant Runner | 385069 | [385069-tralalero-tralala-elephant-runner.json](./385069-tralalero-tralala-elephant-runner.json) |
 | Tralalero Tralala Jumper | 347497 | [347497-tralalero-tralala-jumper.json](./347497-tralalero-tralala-jumper.json) |
 | Tralalero Tralala Slot Machine Casino Heaven | 367848 | [367848-tralalero-tralala-slot-machine-casino-heaven.json](./367848-tralalero-tralala-slot-machine-casino-heaven.json) |
@@ -22765,6 +22770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2024: USA Driver Zone | 283220 | [283220-truck-simulator-2024-usa-driver-zone.json](./283220-truck-simulator-2024-usa-driver-zone.json) |
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
+| Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
 | Truck Simulator Cargo Driver 2024: USA | 299525 | [299525-truck-simulator-cargo-driver-2024-usa.json](./299525-truck-simulator-cargo-driver-2024-usa.json) |
@@ -23243,6 +23249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tunescape | 81991 | [81991-tunescape.json](./81991-tunescape.json) |
 | Tunestrike | 374935 | [374935-tunestrike.json](./374935-tunestrike.json) |
+| Tung Sahur Supermarket Simulator | 344246 | [344246-tung-sahur-supermarket-simulator.json](./344246-tung-sahur-supermarket-simulator.json) |
 | Tung Sahur Zombie | 351749 | [351749-tung-sahur-zombie.json](./351749-tung-sahur-zombie.json) |
 | Tung Tung Sahur: Obby Challenge | 384784 | [384784-tung-tung-sahur-obby-challenge.json](./384784-tung-tung-sahur-obby-challenge.json) |
 | Tung Tung Together: Online Deathrun Party | 390634 | [390634-tung-tung-together-online-deathrun-party.json](./390634-tung-tung-together-online-deathrun-party.json) |
