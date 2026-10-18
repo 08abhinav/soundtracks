@@ -8201,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
+| Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
 | Single Spark | 346389 | [346389-single-spark.json](./346389-single-spark.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
@@ -10122,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
 | SM64 Coop DX: Uranium Mario 64 | 378333 | [378333-sm64-coop-dx-uranium-mario-64.json](./378333-sm64-coop-dx-uranium-mario-64.json) |
 | SM64 from Memory | 362717 | [362717-sm64-from-memory.json](./362717-sm64-from-memory.json) |
+| SM64 GBA | 314743 | [314743-sm64-gba.json](./314743-sm64-gba.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
 | SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
@@ -23094,6 +23096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
+| Super Mario Defense | 314738 | [314738-super-mario-defense.json](./314738-super-mario-defense.json) |
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
@@ -23164,6 +23167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Land DX | 173153 | [173153-super-mario-land-dx.json](./173153-super-mario-land-dx.json) |
 | Super Mario Land Hack 2017: Tatanga's Revenge | 338813 | [338813-super-mario-land-hack-2017-tatangas-revenge.json](./338813-super-mario-land-hack-2017-tatangas-revenge.json) |
 | Super Mario Land Remix | 294579 | [294579-super-mario-land-remix.json](./294579-super-mario-land-remix.json) |
+| Super Mario Land World | 314713 | [314713-super-mario-land-world.json](./314713-super-mario-land-world.json) |
 | Super Mario Land X | 223030 | [223030-super-mario-land-x.json](./223030-super-mario-land-x.json) |
 | Super Mario Legend | 323751 | [323751-super-mario-legend.json](./323751-super-mario-legend.json) |
 | Super Mario Logic | 145428 | [145428-super-mario-logic.json](./145428-super-mario-logic.json) |
