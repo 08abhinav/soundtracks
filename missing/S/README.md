@@ -11595,6 +11595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace Creek | 314920 | [314920-solace-creek.json](./314920-solace-creek.json) |
 | Solace Dreams | 142721 | [142721-solace-dreams.json](./142721-solace-dreams.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
+| Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
@@ -13141,6 +13142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
+| SOS: Save Our Sandwiches | 343134 | [343134-sos-save-our-sandwiches.json](./343134-sos-save-our-sandwiches.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
 | Soshiant | 67646 | [67646-soshiant.json](./67646-soshiant.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
