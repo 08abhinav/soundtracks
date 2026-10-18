@@ -1321,6 +1321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxy Bro | 61037 | [61037-laxy-bro.json](./61037-laxy-bro.json) |
 | Lay | 204978 | [204978-lay.json](./204978-lay.json) |
 | Lay a Beauty to Rest: The Darkness Peach Blossom Spring | 229920 | [229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json](./229920-lay-a-beauty-to-rest-the-darkness-peach-blossom-spring.json) |
+| Lay an Egg | 348015 | [348015-lay-an-egg.json](./348015-lay-an-egg.json) |
 | Lay Down Your Roots | 184832 | [184832-lay-down-your-roots.json](./184832-lay-down-your-roots.json) |
 | Layer - Simple is Hard | 128568 | [128568-layer-simple-is-hard.json](./128568-layer-simple-is-hard.json) |
 | Layer Cake | 370342 | [370342-layer-cake.json](./370342-layer-cake.json) |
@@ -2018,6 +2019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Exidia | 67152 | [67152-legends-of-exidia.json](./67152-legends-of-exidia.json) |
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
+| Legends of Gems | 348010 | [348010-legends-of-gems.json](./348010-legends-of-gems.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
