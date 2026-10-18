@@ -6519,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodie Bear | 121608 | [121608-foodie-bear.json](./121608-foodie-bear.json) |
 | Foodie Blast: Block Puzzle | 411768 | [411768-foodie-blast-block-puzzle.json](./411768-foodie-blast-block-puzzle.json) |
 | Foodie Yama | 344439 | [344439-foodie-yama.json](./344439-foodie-yama.json) |
+| Foodie's Furniture | 358095 | [358095-foodies-furniture.json](./358095-foodies-furniture.json) |
 | Foodies | 174619 | [174619-foodies.json](./174619-foodies.json) |
 | Foodo Kitchen | 23419 | [23419-foodo-kitchen.json](./23419-foodo-kitchen.json) |
 | FoodStars.io | 388131 | [388131-foodstars-io.json](./388131-foodstars-io.json) |
