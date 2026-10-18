@@ -3655,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Scrabble Club | 157528 | [157528-internet-scrabble-club.json](./157528-internet-scrabble-club.json) |
 | Internet Simulator | 98241 | [98241-internet-simulator.json](./98241-internet-simulator.json) |
 | Internet Survivor Survivors | 413626 | [413626-internet-survivor-survivors.json](./413626-internet-survivor-survivors.json) |
+| Internet: legko i prosto! | 316480 | [316480-internet-legko-i-prosto.json](./316480-internet-legko-i-prosto.json) |
 | Internity | 295883 | [295883-internity.json](./295883-internity.json) |
 | Interns of Ecstasy Island | 217847 | [217847-interns-of-ecstasy-island.json](./217847-interns-of-ecstasy-island.json) |
 | Internship Adventure | 179526 | [179526-internship-adventure.json](./179526-internship-adventure.json) |
