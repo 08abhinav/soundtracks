@@ -616,6 +616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
+| 101 Cats in Amsterdam | 310249 | [310249-101-cats-in-amsterdam.json](./310249-101-cats-in-amsterdam.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
 | 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
 | 101 Cats in Brussels | 408528 | [408528-101-cats-in-brussels.json](./408528-101-cats-in-brussels.json) |
