@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:50:54.337Z",
-  "total_soundtracks": 2182,
+  "generated_at": "2026-10-18T08:51:02.890Z",
+  "total_soundtracks": 2183,
   "games": [
     {
       "igdb_id": 7522,
@@ -17131,6 +17131,20 @@
         {
           "album_name": "Project Wingman (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0CeJNxkb4sNHj2iuuxOKRt",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111033,
+      "game_name": "Project Winter",
+      "game_url": "https://ostdb.net/games/project-winter",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733ec9bd1d91a859d5cf754523",
+      "albums": [
+        {
+          "album_name": "Project Winter (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1pEgXxg4kIIdS2Xrt9Ua0Z",
           "apple_music_url": "",
           "album_link_url": ""
         }
