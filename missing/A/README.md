@@ -4221,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Album | 201619 | [201619-album.json](./201619-album.json) |
 | Album Club: Mune Kyun Saint Paulia Jogakuin | 45444 | [45444-album-club-mune-kyun-saint-paulia-jogakuin.json](./45444-album-club-mune-kyun-saint-paulia-jogakuin.json) |
+| Album Corvus | 353625 | [353625-album-corvus.json](./353625-album-corvus.json) |
 | ALC no 10-Punkan Eigo Master: Chuukyuu | 269545 | [269545-alc-no-10-punkan-eigo-master-chuukyuu.json](./269545-alc-no-10-punkan-eigo-master-chuukyuu.json) |
 | ALC no 10-Punkan Eigo Master: Joukyuu | 269546 | [269546-alc-no-10-punkan-eigo-master-joukyuu.json](./269546-alc-no-10-punkan-eigo-master-joukyuu.json) |
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
+| Ancient Archer | 353614 | [353614-ancient-archer.json](./353614-ancient-archer.json) |
 | Ancient Arrow | 239666 | [239666-ancient-arrow.json](./239666-ancient-arrow.json) |
 | Ancient Battle: Alexander | 120759 | [120759-ancient-battle-alexander.json](./120759-ancient-battle-alexander.json) |
 | Ancient Battle: Hannibal | 106454 | [106454-ancient-battle-hannibal.json](./106454-ancient-battle-hannibal.json) |
