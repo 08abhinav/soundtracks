@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obrii | 371028 | [371028-obrii.json](./371028-obrii.json) |
 | Obrum | 406129 | [406129-obrum.json](./406129-obrum.json) |
 | Obsccurus Somulum | 335236 | [335236-obsccurus-somulum.json](./335236-obsccurus-somulum.json) |
+| Obscula | 341293 | [341293-obscula.json](./341293-obscula.json) |
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
@@ -2035,6 +2036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-chan wa Kushizashikou!? Atashi no Kui de Tsuranuite Ageru | 97463 | [97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json](./97463-onee-chan-wa-kushizashikou-atashi-no-kui-de-tsuranuite-ageru.json) |
 | Onee-san ga Tabetai no ha Kimi no... | 251617 | [251617-onee-san-ga-tabetai-no-ha-kimi-no.json](./251617-onee-san-ga-tabetai-no-ha-kimi-no.json) |
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
+| Onee-san to Issho! Kisekae Paradise | 341295 | [341295-onee-san-to-issho-kisekae-paradise.json](./341295-onee-san-to-issho-kisekae-paradise.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onefold Taxi Simulator | 370426 | [370426-onefold-taxi-simulator.json](./370426-onefold-taxi-simulator.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
@@ -3267,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Othello | 128892 | [128892-othello.json](./128892-othello.json) |
 | Othello | 134419 | [134419-othello.json](./134419-othello.json) |
 | Othello | 25159 | [25159-othello.json](./25159-othello.json) |
+| Othello | 341376 | [341376-othello.json](./341376-othello.json) |
 | Othello | 408869 | [408869-othello.json](./408869-othello.json) |
 | Othello | 54937 | [54937-othello.json](./54937-othello.json) |
 | Othello | 79732 | [79732-othello.json](./79732-othello.json) |
@@ -3905,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outside | 339895 | [339895-outside.json](./339895-outside.json) |
 | Outside | 341526 | [341526-outside.json](./341526-outside.json) |
 | Outside | 385260 | [385260-outside.json](./385260-outside.json) |
+| Outside Agent | 341291 | [341291-outside-agent.json](./341291-outside-agent.json) |
 | Outside of Our Own | 184127 | [184127-outside-of-our-own.json](./184127-outside-of-our-own.json) |
 | Outside Parties | 272473 | [272473-outside-parties.json](./272473-outside-parties.json) |
 | Outside the Blocks | 245868 | [245868-outside-the-blocks.json](./245868-outside-the-blocks.json) |
