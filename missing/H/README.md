@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Kawasaki Racing | 146546 | [146546-hawk-kawasaki-racing.json](./146546-hawk-kawasaki-racing.json) |
+| Hawk Tuah | 310242 | [310242-hawk-tuah.json](./310242-hawk-tuah.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawk: Freedom Squadron | 56572 | [56572-hawk-freedom-squadron.json](./56572-hawk-freedom-squadron.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
@@ -7350,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Souls | 109905 | [109905-horror-souls.json](./109905-horror-souls.json) |
 | Horror Squad | 142728 | [142728-horror-squad.json](./142728-horror-squad.json) |
 | Horror Stories | 60496 | [60496-horror-stories.json](./60496-horror-stories.json) |
+| Horror Storm | 310258 | [310258-horror-storm.json](./310258-horror-storm.json) |
 | Horror Story | 42001 | [42001-horror-story.json](./42001-horror-story.json) |
 | Horror Tale 1: Kidnapper | 239049 | [239049-horror-tale-1-kidnapper.json](./239049-horror-tale-1-kidnapper.json) |
 | Horror Tale 2: Remaster | 390498 | [390498-horror-tale-2-remaster.json](./390498-horror-tale-2-remaster.json) |
