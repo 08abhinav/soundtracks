@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
+| Cardrunners | 348118 | [348118-cardrunners.json](./348118-cardrunners.json) |
 | Cards | 12918 | [12918-cards.json](./12918-cards.json) |
 | Cards & Cannons | 399261 | [399261-cards-and-cannons.json](./399261-cards-and-cannons.json) |
 | Cards & Crystals | 156007 | [156007-cards-and-crystals.json](./156007-cards-and-crystals.json) |
@@ -13813,6 +13814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
+| Cult Trials: Incarnation | 348009 | [348009-cult-trials-incarnation.json](./348009-cult-trials-incarnation.json) |
 | Cult Vacui | 364848 | [364848-cult-vacui.json](./364848-cult-vacui.json) |
 | Cult: Chapter One | 221140 | [221140-cult-chapter-one.json](./221140-cult-chapter-one.json) |
 | Cult: Fear Inside | 72341 | [72341-cult-fear-inside.json](./72341-cult-fear-inside.json) |
