@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Games Steampunk Bundle | 154964 | [154964-rain-games-steampunk-bundle.json](./154964-rain-games-steampunk-bundle.json) |
 | Rain in the Abyss | 194611 | [194611-rain-in-the-abyss.json](./194611-rain-in-the-abyss.json) |
 | Rain Invasion | 129024 | [129024-rain-invasion.json](./129024-rain-invasion.json) |
+| Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
@@ -6044,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road & Car: Test Drive III - The Passion: Add-On Disk 1 | 218647 | [218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json](./218647-road-and-car-test-drive-iii-the-passion-add-on-disk-1.json) |
 | Road & Track Presents: The Need for Speed | 45465 | [45465-road-and-track-presents-the-need-for-speed.json](./45465-road-and-track-presents-the-need-for-speed.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
+| Road 7 | 334535 | [334535-road-7.json](./334535-road-7.json) |
 | Road 96 | 141543 | [141543-road-96.json](./141543-road-96.json) |
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
@@ -8550,6 +8552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff 'N' Tumble | 12755 | [12755-ruff-n-tumble.json](./12755-ruff-n-tumble.json) |
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
+| Ruff Day at the Office | 334554 | [334554-ruff-day-at-the-office.json](./334554-ruff-day-at-the-office.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
@@ -8911,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runaway: A Road Adventure | 278 | [278-runaway-a-road-adventure.json](./278-runaway-a-road-adventure.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
+| Rune Ark | 334448 | [334448-rune-ark.json](./334448-rune-ark.json) |
 | Rune Bouncer | 418626 | [418626-rune-bouncer.json](./418626-rune-bouncer.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
