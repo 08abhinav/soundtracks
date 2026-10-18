@@ -9042,6 +9042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
+| Arcanard | 342479 | [342479-arcanard.json](./342479-arcanard.json) |
 | Arcane | 271797 | [271797-arcane.json](./271797-arcane.json) |
 | Arcane | 31163 | [31163-arcane.json](./31163-arcane.json) |
 | Arcane Angler | 400238 | [400238-arcane-angler.json](./400238-arcane-angler.json) |
