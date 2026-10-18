@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up and Jump! | 392480 | [392480-wake-up-and-jump.json](./392480-wake-up-and-jump.json) |
 | Wake Up The Box | 334223 | [334223-wake-up-the-box.json](./334223-wake-up-the-box.json) |
+| Wake up the House | 360888 | [360888-wake-up-the-house.json](./360888-wake-up-the-house.json) |
 | Wake up, Az. | 395691 | [395691-wake-up-az.json](./395691-wake-up-az.json) |
 | Wake Up, Good Guardian! | 107866 | [107866-wake-up-good-guardian.json](./107866-wake-up-good-guardian.json) |
 | Wake Up, Lia! | 410370 | [410370-wake-up-lia.json](./410370-wake-up-lia.json) |
@@ -293,6 +294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkabout Mini Golf: Myst | 198156 | [198156-walkabout-mini-golf-myst.json](./198156-walkabout-mini-golf-myst.json) |
 | Walkabout Mini Golf: Pocket Edition | 251578 | [251578-walkabout-mini-golf-pocket-edition.json](./251578-walkabout-mini-golf-pocket-edition.json) |
 | Walkabout Mini Golf: Raptor Cliff's | 342279 | [342279-walkabout-mini-golf-raptor-cliffs.json](./342279-walkabout-mini-golf-raptor-cliffs.json) |
+| Walkabout Mini Golf: Tokyo | 360886 | [360886-walkabout-mini-golf-tokyo.json](./360886-walkabout-mini-golf-tokyo.json) |
 | Walkabout Mini Golf: Upside Town | 241306 | [241306-walkabout-mini-golf-upside-town.json](./241306-walkabout-mini-golf-upside-town.json) |
 | Walkabout Mini Golf: Venice | 305774 | [305774-walkabout-mini-golf-venice.json](./305774-walkabout-mini-golf-venice.json) |
 | Walkabout Mini Golf: Widow's Walkabout | 271918 | [271918-walkabout-mini-golf-widows-walkabout.json](./271918-walkabout-mini-golf-widows-walkabout.json) |
@@ -4015,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilva | 374357 | [374357-wilva.json](./374357-wilva.json) |
 | Wily & Right no Rock Board: That's Paradise | 295041 | [295041-wily-and-right-no-rock-board-thats-paradise.json](./295041-wily-and-right-no-rock-board-thats-paradise.json) |
 | Wily & Right no RockBoard: That's Paradise | 1729 | [1729-wily-and-right-no-rockboard-thats-paradise.json](./1729-wily-and-right-no-rockboard-thats-paradise.json) |
+| Wima Magicamia: Cute Girls Magic Battle 3DTPS | 360887 | [360887-wima-magicamia-cute-girls-magic-battle-3dtps.json](./360887-wima-magicamia-cute-girls-magic-battle-3dtps.json) |
 | Wimbledon '88 | 121720 | [121720-wimbledon-88.json](./121720-wimbledon-88.json) |
 | Wimbledon II | 46105 | [46105-wimbledon-ii.json](./46105-wimbledon-ii.json) |
 | Wimmelbild-Box Mystery | 65543 | [65543-wimmelbild-box-mystery.json](./65543-wimmelbild-box-mystery.json) |
