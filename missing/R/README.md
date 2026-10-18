@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
 | Reality | 170818 | [170818-reality.json](./170818-reality.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
+| Reality | 327025 | [327025-reality.json](./327025-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
 | Reality Check | 70374 | [70374-reality-check.json](./70374-reality-check.json) |
@@ -4438,6 +4439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
 | Retrojam 4 | 384216 | [384216-retrojam-4.json](./384216-retrojam-4.json) |
 | Retrojam I | 314285 | [314285-retrojam-i.json](./314285-retrojam-i.json) |
+| Retrokill | 327058 | [327058-retrokill.json](./327058-retrokill.json) |
 | Retrold | 170813 | [170813-retrold.json](./170813-retrold.json) |
 | Retrolution Racing | 290841 | [290841-retrolution-racing.json](./290841-retrolution-racing.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
@@ -4986,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
+| RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
