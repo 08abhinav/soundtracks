@@ -1462,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Wind | 111894 | [111894-khaos-wind.json](./111894-khaos-wind.json) |
 | Khara the Game | 108830 | [108830-khara-the-game.json](./108830-khara-the-game.json) |
+| Kharakov | 340789 | [340789-kharakov.json](./340789-kharakov.json) |
 | Kharkov: Disaster on the Donets | 59493 | [59493-kharkov-disaster-on-the-donets.json](./59493-kharkov-disaster-on-the-donets.json) |
 | Kharkov: Disaster on the Donets - Across the Dnepr: Second Edition | 281007 | [281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json](./281007-kharkov-disaster-on-the-donets-across-the-dnepr-second-edition.json) |
 | Kharon's Crypt: Even Death May Die | 74721 | [74721-kharons-crypt-even-death-may-die.json](./74721-kharons-crypt-even-death-may-die.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
+| Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
@@ -3459,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
 | Knockout RPS | 103921 | [103921-knockout-rps.json](./103921-knockout-rps.json) |
+| knockout! Archetype: False | 340729 | [340729-knockout-archetype-false.json](./340729-knockout-archetype-false.json) |
 | Knockturne | 340886 | [340886-knockturne.json](./340886-knockturne.json) |
 | Knocky Balls | 54894 | [54894-knocky-balls.json](./54894-knocky-balls.json) |
 | Knorrig the Gifted Troublemaker | 229609 | [229609-knorrig-the-gifted-troublemaker.json](./229609-knorrig-the-gifted-troublemaker.json) |
