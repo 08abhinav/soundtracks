@@ -11467,6 +11467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankies Workshop: Whirlbot Assembly 2 | 68897 | [68897-crankies-workshop-whirlbot-assembly-2.json](./68897-crankies-workshop-whirlbot-assembly-2.json) |
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
 | CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
+| CranKnight | 339703 | [339703-cranknight.json](./339703-cranknight.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
 | Cranks & Goggles | 56297 | [56297-cranks-and-goggles.json](./56297-cranks-and-goggles.json) |
