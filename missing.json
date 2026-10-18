@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T04:18:00.112Z",
-  "total_missing": 226691,
+  "generated_at": "2026-10-18T04:33:09.887Z",
+  "total_missing": 226741,
   "games": [
     {
       "igdb_id": 191680,
@@ -53555,6 +53555,11 @@
       "igdb_id": 223375,
       "game_name": "Appleocalypse",
       "file": "missing/A/223375-appleocalypse.json"
+    },
+    {
+      "igdb_id": 352541,
+      "game_name": "ApplePop",
+      "file": "missing/A/352541-applepop.json"
     },
     {
       "igdb_id": 40612,
@@ -123447,6 +123452,11 @@
       "file": "missing/B/21812-boogie-bunnies.json"
     },
     {
+      "igdb_id": 352517,
+      "game_name": "Boogie Cruise",
+      "file": "missing/B/352517-boogie-cruise.json"
+    },
+    {
       "igdb_id": 39873,
       "game_name": "Boogie Wings",
       "file": "missing/B/39873-boogie-wings.json"
@@ -133260,6 +133270,11 @@
       "igdb_id": 290099,
       "game_name": "Brinquemática: Aventura Pirata",
       "file": "missing/B/290099-brinquematica-aventura-pirata.json"
+    },
+    {
+      "igdb_id": 352512,
+      "game_name": "BRIO World",
+      "file": "missing/B/352512-brio-world.json"
     },
     {
       "igdb_id": 374257,
@@ -326857,6 +326872,11 @@
       "file": "missing/F/297459-fate-zero-the-visual-novel.json"
     },
     {
+      "igdb_id": 352518,
+      "game_name": "Fatebound Cards: Sundering Cities",
+      "file": "missing/F/352518-fatebound-cards-sundering-cities.json"
+    },
+    {
       "igdb_id": 181244,
       "game_name": "Fatebreak",
       "file": "missing/F/181244-fatebreak.json"
@@ -422672,6 +422692,16 @@
       "file": "missing/H/103929-hello-next-scary-neighbor-home.json"
     },
     {
+      "igdb_id": 352530,
+      "game_name": "Hello Penguin 2",
+      "file": "missing/H/352530-hello-penguin-2.json"
+    },
+    {
+      "igdb_id": 352549,
+      "game_name": "Hello Penguin 3D",
+      "file": "missing/H/352549-hello-penguin-3d.json"
+    },
+    {
       "igdb_id": 64972,
       "game_name": "Hello Pocoyo!",
       "file": "missing/H/64972-hello-pocoyo.json"
@@ -462275,6 +462305,11 @@
       "igdb_id": 82896,
       "game_name": "In another world, I will attain my dream of ALL I CAN SEX!",
       "file": "missing/I/82896-in-another-world-i-will-attain-my-dream-of-all-i-can-sex.json"
+    },
+    {
+      "igdb_id": 352519,
+      "game_name": "In Arrears",
+      "file": "missing/I/352519-in-arrears.json"
     },
     {
       "igdb_id": 329377,
@@ -576972,6 +577007,11 @@
       "file": "missing/M/280299-medieval-life.json"
     },
     {
+      "igdb_id": 352555,
+      "game_name": "Medieval Life",
+      "file": "missing/M/352555-medieval-life.json"
+    },
+    {
       "igdb_id": 384222,
       "game_name": "Medieval Life Simulator",
       "file": "missing/M/384222-medieval-life-simulator.json"
@@ -579400,6 +579440,171 @@
       "igdb_id": 351805,
       "game_name": "Mega Man Zero 3",
       "file": "missing/M/351805-mega-man-zero-3.json"
+    },
+    {
+      "igdb_id": 352533,
+      "game_name": "Mega Man Zero 3: Modification Card - Alouette",
+      "file": "missing/M/352533-mega-man-zero-3-modification-card-alouette.json"
+    },
+    {
+      "igdb_id": 352540,
+      "game_name": "Mega Man Zero 3: Modification Card - Anubis Necromancess the Third",
+      "file": "missing/M/352540-mega-man-zero-3-modification-card-anubis-necromancess-the-third.json"
+    },
+    {
+      "igdb_id": 352545,
+      "game_name": "Mega Man Zero 3: Modification Card - Asura Basura",
+      "file": "missing/M/352545-mega-man-zero-3-modification-card-asura-basura.json"
+    },
+    {
+      "igdb_id": 352607,
+      "game_name": "Mega Man Zero 3: Modification Card - Autruche",
+      "file": "missing/M/352607-mega-man-zero-3-modification-card-autruche.json"
+    },
+    {
+      "igdb_id": 352532,
+      "game_name": "Mega Man Zero 3: Modification Card - Aztec Falcon",
+      "file": "missing/M/352532-mega-man-zero-3-modification-card-aztec-falcon.json"
+    },
+    {
+      "igdb_id": 352543,
+      "game_name": "Mega Man Zero 3: Modification Card - Blizzack Stagroff",
+      "file": "missing/M/352543-mega-man-zero-3-modification-card-blizzack-stagroff.json"
+    },
+    {
+      "igdb_id": 352529,
+      "game_name": "Mega Man Zero 3: Modification Card - Cerveau",
+      "file": "missing/M/352529-mega-man-zero-3-modification-card-cerveau.json"
+    },
+    {
+      "igdb_id": 352525,
+      "game_name": "Mega Man Zero 3: Modification Card - Ciel",
+      "file": "missing/M/352525-mega-man-zero-3-modification-card-ciel.json"
+    },
+    {
+      "igdb_id": 352611,
+      "game_name": "Mega Man Zero 3: Modification Card - Ciel (080)",
+      "file": "missing/M/352611-mega-man-zero-3-modification-card-ciel-080.json"
+    },
+    {
+      "igdb_id": 352550,
+      "game_name": "Mega Man Zero 3: Modification Card - Copy X (1st Form: Combat Mode)",
+      "file": "missing/M/352550-mega-man-zero-3-modification-card-copy-x-1st-form-combat-mode.json"
+    },
+    {
+      "igdb_id": 352551,
+      "game_name": "Mega Man Zero 3: Modification Card - Copy X (2nd Form)",
+      "file": "missing/M/352551-mega-man-zero-3-modification-card-copy-x-2nd-form.json"
+    },
+    {
+      "igdb_id": 352554,
+      "game_name": "Mega Man Zero 3: Modification Card - Elpizo (Typical)",
+      "file": "missing/M/352554-mega-man-zero-3-modification-card-elpizo-typical.json"
+    },
+    {
+      "igdb_id": 352535,
+      "game_name": "Mega Man Zero 3: Modification Card - Fairy Leviathan",
+      "file": "missing/M/352535-mega-man-zero-3-modification-card-fairy-leviathan.json"
+    },
+    {
+      "igdb_id": 352553,
+      "game_name": "Mega Man Zero 3: Modification Card - Fighting Fefnir",
+      "file": "missing/M/352553-mega-man-zero-3-modification-card-fighting-fefnir.json"
+    },
+    {
+      "igdb_id": 352526,
+      "game_name": "Mega Man Zero 3: Modification Card - Golem",
+      "file": "missing/M/352526-mega-man-zero-3-modification-card-golem.json"
+    },
+    {
+      "igdb_id": 352537,
+      "game_name": "Mega Man Zero 3: Modification Card - Guard Orotic",
+      "file": "missing/M/352537-mega-man-zero-3-modification-card-guard-orotic.json"
+    },
+    {
+      "igdb_id": 352544,
+      "game_name": "Mega Man Zero 3: Modification Card - Hanumachine",
+      "file": "missing/M/352544-mega-man-zero-3-modification-card-hanumachine.json"
+    },
+    {
+      "igdb_id": 352531,
+      "game_name": "Mega Man Zero 3: Modification Card - Herculius Anchus",
+      "file": "missing/M/352531-mega-man-zero-3-modification-card-herculius-anchus.json"
+    },
+    {
+      "igdb_id": 352538,
+      "game_name": "Mega Man Zero 3: Modification Card - Hibou",
+      "file": "missing/M/352538-mega-man-zero-3-modification-card-hibou.json"
+    },
+    {
+      "igdb_id": 352548,
+      "game_name": "Mega Man Zero 3: Modification Card - Hidden Phantom",
+      "file": "missing/M/352548-mega-man-zero-3-modification-card-hidden-phantom.json"
+    },
+    {
+      "igdb_id": 352542,
+      "game_name": "Mega Man Zero 3: Modification Card - Hittite Hottide",
+      "file": "missing/M/352542-mega-man-zero-3-modification-card-hittite-hottide.json"
+    },
+    {
+      "igdb_id": 352552,
+      "game_name": "Mega Man Zero 3: Modification Card - Jackson (Rare Elf)",
+      "file": "missing/M/352552-mega-man-zero-3-modification-card-jackson-rare-elf.json"
+    },
+    {
+      "igdb_id": 352556,
+      "game_name": "Mega Man Zero 3: Modification Card - Mappie (Nurse Elf)",
+      "file": "missing/M/352556-mega-man-zero-3-modification-card-mappie-nurse-elf.json"
+    },
+    {
+      "igdb_id": 352608,
+      "game_name": "Mega Man Zero 3: Modification Card - Mott (Nurse Elf)",
+      "file": "missing/M/352608-mega-man-zero-3-modification-card-mott-nurse-elf.json"
+    },
+    {
+      "igdb_id": 352609,
+      "game_name": "Mega Man Zero 3: Modification Card - Omega (2nd Form)",
+      "file": "missing/M/352609-mega-man-zero-3-modification-card-omega-2nd-form.json"
+    },
+    {
+      "igdb_id": 352534,
+      "game_name": "Mega Man Zero 3: Modification Card - Pantheon Core",
+      "file": "missing/M/352534-mega-man-zero-3-modification-card-pantheon-core.json"
+    },
+    {
+      "igdb_id": 352547,
+      "game_name": "Mega Man Zero 3: Modification Card - Rainbow Devil",
+      "file": "missing/M/352547-mega-man-zero-3-modification-card-rainbow-devil.json"
+    },
+    {
+      "igdb_id": 352536,
+      "game_name": "Mega Man Zero 3: Modification Card - Totten (Hacker Elf)",
+      "file": "missing/M/352536-mega-man-zero-3-modification-card-totten-hacker-elf.json"
+    },
+    {
+      "igdb_id": 352528,
+      "game_name": "Mega Man Zero 3: Modification Card - Winkie (Nurse Elf)",
+      "file": "missing/M/352528-mega-man-zero-3-modification-card-winkie-nurse-elf.json"
+    },
+    {
+      "igdb_id": 352527,
+      "game_name": "Mega Man Zero 3: Modification Card - X (Cyber-elf)",
+      "file": "missing/M/352527-mega-man-zero-3-modification-card-x-cyber-elf.json"
+    },
+    {
+      "igdb_id": 352610,
+      "game_name": "Mega Man Zero 3: Modification Card - Zero",
+      "file": "missing/M/352610-mega-man-zero-3-modification-card-zero.json"
+    },
+    {
+      "igdb_id": 352539,
+      "game_name": "Mega Man Zero 3: Modification Card - Zero (Triple Rod)",
+      "file": "missing/M/352539-mega-man-zero-3-modification-card-zero-triple-rod.json"
+    },
+    {
+      "igdb_id": 352524,
+      "game_name": "Mega Man Zero 3: Modification Card - Zero (Z Saber)",
+      "file": "missing/M/352524-mega-man-zero-3-modification-card-zero-z-saber.json"
     },
     {
       "igdb_id": 1778,
@@ -625575,6 +625780,11 @@
       "igdb_id": 285129,
       "game_name": "My Little Universe: Xmas Character Pack",
       "file": "missing/M/285129-my-little-universe-xmas-character-pack.json"
+    },
+    {
+      "igdb_id": 352516,
+      "game_name": "My Little Work: Garage",
+      "file": "missing/M/352516-my-little-work-garage.json"
     },
     {
       "igdb_id": 89180,
@@ -698372,6 +698582,11 @@
       "file": "missing/P/56887-pettsons-inventions-3.json"
     },
     {
+      "igdb_id": 352523,
+      "game_name": "Pettson's Inventions 4",
+      "file": "missing/P/352523-pettsons-inventions-4.json"
+    },
+    {
       "igdb_id": 286111,
       "game_name": "Pettsons julspel",
       "file": "missing/P/286111-pettsons-julspel.json"
@@ -747802,6 +748017,11 @@
       "file": "missing/P/141728-pysol-fan-club-edition.json"
     },
     {
+      "igdb_id": 352515,
+      "game_name": "Pyssla med Mamma Mu och Kråkan",
+      "file": "missing/P/352515-pyssla-med-mamma-mu-och-krakan.json"
+    },
+    {
       "igdb_id": 57739,
       "game_name": "Pythagorea",
       "file": "missing/P/57739-pythagorea.json"
@@ -787132,6 +787352,11 @@
       "file": "missing/R/64138-rockman-xover.json"
     },
     {
+      "igdb_id": 352613,
+      "game_name": "Rockman Zero 3: Kaizou Card - Part 1",
+      "file": "missing/R/352613-rockman-zero-3-kaizou-card-part-1.json"
+    },
+    {
       "igdb_id": 1774,
       "game_name": "Rockman.EXE Operate Shooting Star",
       "file": "missing/R/1774-rockman-exe-operate-shooting-star.json"
@@ -806560,6 +806785,11 @@
       "igdb_id": 188375,
       "game_name": "Sarkar Infinite",
       "file": "missing/S/188375-sarkar-infinite.json"
+    },
+    {
+      "igdb_id": 352513,
+      "game_name": "Sarkara: Prototype",
+      "file": "missing/S/352513-sarkara-prototype.json"
     },
     {
       "igdb_id": 197229,
@@ -857400,6 +857630,11 @@
       "igdb_id": 191198,
       "game_name": "Solaris Rift",
       "file": "missing/S/191198-solaris-rift.json"
+    },
+    {
+      "igdb_id": 352514,
+      "game_name": "Solaris: Good Harvest",
+      "file": "missing/S/352514-solaris-good-harvest.json"
     },
     {
       "igdb_id": 146332,
@@ -954240,6 +954475,11 @@
       "igdb_id": 329224,
       "game_name": "The Case of the Twisted Children",
       "file": "missing/T/329224-the-case-of-the-twisted-children.json"
+    },
+    {
+      "igdb_id": 352510,
+      "game_name": "The Case of Theo",
+      "file": "missing/T/352510-the-case-of-theo.json"
     },
     {
       "igdb_id": 122350,
@@ -1053897,6 +1054137,11 @@
       "file": "missing/U/307293-un-matching-game.json"
     },
     {
+      "igdb_id": 352520,
+      "game_name": "Un-Usual Hotline",
+      "file": "missing/U/352520-un-usual-hotline.json"
+    },
+    {
       "igdb_id": 54919,
       "game_name": "Un:Birthday Song ~Ai wo Utau Shinigami~",
       "file": "missing/U/54919-un-birthday-song-ai-wo-utau-shinigami.json"
@@ -1091620,6 +1091865,11 @@
       "igdb_id": 178498,
       "game_name": "What do I want?",
       "file": "missing/W/178498-what-do-i-want.json"
+    },
+    {
+      "igdb_id": 352546,
+      "game_name": "What do You Call a Group of Skeletons?",
+      "file": "missing/W/352546-what-do-you-call-a-group-of-skeletons.json"
     },
     {
       "igdb_id": 234723,
