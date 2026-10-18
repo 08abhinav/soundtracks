@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle Tale: Scout Recon Pack | 336133 | [336133-bandle-tale-scout-recon-pack.json](./336133-bandle-tale-scout-recon-pack.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
+| Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
@@ -4542,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
+| Below the Oak | 323584 | [323584-below-the-oak.json](./323584-below-the-oak.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
 | Below the Root | 13813 | [13813-below-the-root.json](./13813-below-the-root.json) |
 | Below the Surface: Assassin's Prison | 372073 | [372073-below-the-surface-assassins-prison.json](./372073-below-the-surface-assassins-prison.json) |
@@ -10531,6 +10533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
+| Braiser | 323593 | [323593-braiser.json](./323593-braiser.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
 | Brake to Die | 100844 | [100844-brake-to-die.json](./100844-brake-to-die.json) |
 | Bram Stoker's Dracula | 14339 | [14339-bram-stokers-dracula.json](./14339-bram-stokers-dracula.json) |
@@ -12150,6 +12153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
+| Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
