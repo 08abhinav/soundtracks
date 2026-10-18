@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiǎoguàiwù Bìxū Sǐ | 369354 | [369354-xiaoguaiwu-bixu-si.json](./369354-xiaoguaiwu-bixu-si.json) |
 | Xiǎohēihé Jiāsùqì | 147369 | [147369-xiaoheihe-jiasuqi.json](./147369-xiaoheihe-jiasuqi.json) |
 | Xiǎojiě Wànsuì | 399289 | [399289-xiaojie-wansui.json](./399289-xiaojie-wansui.json) |
+| Xiǎoyuán Kǒusuàn | 333446 | [333446-xiaoyuan-kousuan.json](./333446-xiaoyuan-kousuan.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
 | Xibalba | 61156 | [61156-xibalba.json](./61156-xibalba.json) |
 | Xìbāo Zhànzhēng | 116112 | [116112-xibao-zhanzheng.json](./116112-xibao-zhanzheng.json) |
