@@ -2881,7 +2881,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
-| Wheel World | 255091 | [255091-wheel-world.json](./255091-wheel-world.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
