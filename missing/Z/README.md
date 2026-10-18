@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Fantasy 2 | 220142 | [220142-zodiac-fantasy-2.json](./220142-zodiac-fantasy-2.json) |
 | Zodiac Hentai: Hellish Memory | 220736 | [220736-zodiac-hentai-hellish-memory.json](./220736-zodiac-hentai-hellish-memory.json) |
 | Zodiac Legion | 150077 | [150077-zodiac-legion.json](./150077-zodiac-legion.json) |
+| Zodiac Mountain | 309731 | [309731-zodiac-mountain.json](./309731-zodiac-mountain.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
 | Zodiac Quest | 315894 | [315894-zodiac-quest.json](./315894-zodiac-quest.json) |
