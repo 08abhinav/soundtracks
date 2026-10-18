@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Season | 176895 | [176895-fashion-season.json](./176895-fashion-season.json) |
 | Fashion Shop Simulator | 345817 | [345817-fashion-shop-simulator.json](./345817-fashion-shop-simulator.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
+| Fashion Store Simulator | 312977 | [312977-fashion-store-simulator.json](./312977-fashion-store-simulator.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
@@ -9273,6 +9274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Fruits | 307334 | [307334-frozen-fruits.json](./307334-frozen-fruits.json) |
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
+| Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Honey ASMR: Truck Pack | 286208 | [286208-frozen-honey-asmr-truck-pack.json](./286208-frozen-honey-asmr-truck-pack.json) |
