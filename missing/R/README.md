@@ -8009,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rota's Nautical Chronicles of Trade: Aname Momo - Collaboration Commemorative Residentization DLC | 329009 | [329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json](./329009-rotas-nautical-chronicles-of-trade-aname-momo-collaboration-commemorative-residentization-dlc.json) |
 | Rota's Nautical Chronicles of Trade: Nekozeno Shin - Collaboration Commemorative Residentization DLC | 323258 | [323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json](./323258-rotas-nautical-chronicles-of-trade-nekozeno-shin-collaboration-commemorative-residentization-dlc.json) |
 | RotaDim | 93031 | [93031-rotadim.json](./93031-rotadim.json) |
+| Rotata | 349184 | [349184-rotata.json](./349184-rotata.json) |
 | Rotate & Roll | 342600 | [342600-rotate-and-roll.json](./342600-rotate-and-roll.json) |
 | Rotate 2 Learn: Christmas Edition Puzzles! | 104705 | [104705-rotate-2-learn-christmas-edition-puzzles.json](./104705-rotate-2-learn-christmas-edition-puzzles.json) |
 | Rotate It! | 68934 | [68934-rotate-it.json](./68934-rotate-it.json) |
