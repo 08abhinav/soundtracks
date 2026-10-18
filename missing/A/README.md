@@ -4347,6 +4347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alea Jacta Est: Parthian Wars | 169293 | [169293-alea-jacta-est-parthian-wars.json](./169293-alea-jacta-est-parthian-wars.json) |
 | Alea Jacta Est: Spartacus 73BC | 169290 | [169290-alea-jacta-est-spartacus-73bc.json](./169290-alea-jacta-est-spartacus-73bc.json) |
 | Alea Lacta Est | 300419 | [300419-alea-lacta-est.json](./300419-alea-lacta-est.json) |
+| Aleato | 349112 | [349112-aleato.json](./349112-aleato.json) |
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
 | Alef's Blademaker: Arms Shop | 304244 | [304244-alefs-blademaker-arms-shop.json](./304244-alefs-blademaker-arms-shop.json) |
@@ -11750,6 +11751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
 | Atlas Fallen: Reign of Sand | 311747 | [311747-atlas-fallen-reign-of-sand.json](./311747-atlas-fallen-reign-of-sand.json) |
 | Atlas Fallen: Signature Edition | 241961 | [241961-atlas-fallen-signature-edition.json](./241961-atlas-fallen-signature-edition.json) |
+| Atlas Hands | 349090 | [349090-atlas-hands.json](./349090-atlas-hands.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas of the Starry Night | 293005 | [293005-atlas-of-the-starry-night.json](./293005-atlas-of-the-starry-night.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
