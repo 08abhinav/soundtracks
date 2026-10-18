@@ -1366,6 +1366,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273fcf231ce09e850f7e0d1534f" width="60" /> | [Sniper: Ghost Warrior 3](https://ostdb.net/games/sniper-ghost-warrior-3) | **Sniper Ghost Warrior 3 (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1poBYbc3r8vZ6QmGYtItYA) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733fd799314a4c6ca3c77f8dbd" width="60" /> | [Snowboard Kids](https://ostdb.net/games/snowboard-kids) | **Snowboard Kids Original Soundtrack** · [Spotify](https://open.spotify.com/album/17Sw8Zis0jkP5yN38B82vc) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273768ad50c5039d442fd7eca28" width="60" /> | [Snowboard Kids 2](https://ostdb.net/games/snowboard-kids-2) | **Snowboard Kids 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/0UofbulEASPPeoRaXZI2eq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273235948fad19ad22c65370da9" width="60" /> | [Snufkin: Melody of Moominvalley](https://ostdb.net/games/snufkin-melody-of-moominvalley) | **Snufkin: Melody of Moominvalley (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/70cVeIpJ8Srma5TFibHA3U) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d1/9f/c3/d19fc3d5-6987-f336-693c-808085462790/859764942046_cover.jpg/600x600bb.jpg" width="60" /> | [Solar Ash](https://ostdb.net/games/solar-ash) | **Solar Ash (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/solar-ash-original-soundtrack/1643125222?uo=4) · [Album](https://album.link/i/1643125222) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f33aff3d0ad009f712c76ab4" width="60" /> | [Solasta: Crown of the Magister](https://ostdb.net/games/solasta-crown-of-the-magister) | **Solasta: Crown of the Magister (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/0fS2DRH840UZy8xj7Gira6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a541138b537203174477e216" width="60" /> | [Soldat](https://ostdb.net/games/soldat) | **Soldat (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/474tAlzDZOi49nZosTKOf4) |
@@ -1859,4 +1860,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2176 soundtracks · last updated 2026-10-18T08:41:35.465Z_
+_2177 soundtracks · last updated 2026-10-18T08:41:44.395Z_
