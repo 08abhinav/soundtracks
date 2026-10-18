@@ -6998,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Off | 184958 | [184958-hop-off.json](./184958-hop-off.json) |
+| Hop on It | 332890 | [332890-hop-on-it.json](./332890-hop-on-it.json) |
 | Hop Rocket | 384806 | [384806-hop-rocket.json](./384806-hop-rocket.json) |
 | Hop Skip and Thump | 187257 | [187257-hop-skip-and-thump.json](./187257-hop-skip-and-thump.json) |
 | Hop Skip Jump | 149014 | [149014-hop-skip-jump.json](./149014-hop-skip-jump.json) |
@@ -7310,6 +7311,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrors Glade | 333366 | [333366-horrors-glade.json](./333366-horrors-glade.json) |
 | Horrors of Helmsfirth | 263701 | [263701-horrors-of-helmsfirth.json](./263701-horrors-of-helmsfirth.json) |
 | Horrors of Space | 152021 | [152021-horrors-of-space.json](./152021-horrors-of-space.json) |
+| Horrortale | 332880 | [332880-horrortale.json](./332880-horrortale.json) |
+| Horrortale: Waterfall | 332881 | [332881-horrortale-waterfall.json](./332881-horrortale-waterfall.json) |
 | HorrorVale | 120814 | [120814-horrorvale.json](./120814-horrorvale.json) |
 | Horroyale | 158414 | [158414-horroyale.json](./158414-horroyale.json) |
 | Horse | 114273 | [114273-horse.json](./114273-horse.json) |
