@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Web | 288815 | [288815-deaths-web.json](./288815-deaths-web.json) |
 | Deathball | 182452 | [182452-deathball.json](./182452-deathball.json) |
 | Deathball | 60631 | [60631-deathball.json](./60631-deathball.json) |
+| DeathBall | 351489 | [351489-deathball.json](./351489-deathball.json) |
 | Deathbed Lullabye | 201328 | [201328-deathbed-lullabye.json](./201328-deathbed-lullabye.json) |
 | Deathbloom: Chapter 1 | 118106 | [118106-deathbloom-chapter-1.json](./118106-deathbloom-chapter-1.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
@@ -7832,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: V Extension IV Pack | 252048 | [252048-djmax-respect-v-v-extension-iv-pack.json](./252048-djmax-respect-v-v-extension-iv-pack.json) |
 | DJMax Respect V: V Extension Pack | 225057 | [225057-djmax-respect-v-v-extension-pack.json](./225057-djmax-respect-v-v-extension-pack.json) |
 | DJMax Respect V: V Extension V Pack | 279537 | [279537-djmax-respect-v-v-extension-v-pack.json](./279537-djmax-respect-v-v-extension-v-pack.json) |
+| DJMax Respect V: V Liberty III Pack | 351490 | [351490-djmax-respect-v-v-liberty-iii-pack.json](./351490-djmax-respect-v-v-liberty-iii-pack.json) |
 | DJMax Respect V: V Liberty Pack | 307059 | [307059-djmax-respect-v-v-liberty-pack.json](./307059-djmax-respect-v-v-liberty-pack.json) |
 | DJMax Respect: Chunithm Pack | 383046 | [383046-djmax-respect-chunithm-pack.json](./383046-djmax-respect-chunithm-pack.json) |
 | DJMax Respect: Limited Edition | 166278 | [166278-djmax-respect-limited-edition.json](./166278-djmax-respect-limited-edition.json) |
