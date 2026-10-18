@@ -8940,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Space | 59807 | [59807-hyper-space.json](./59807-hyper-space.json) |
 | Hyper Sports | 6115 | [6115-hyper-sports.json](./6115-hyper-sports.json) |
 | Hyper Sports R | 103343 | [103343-hyper-sports-r.json](./103343-hyper-sports-r.json) |
+| Hyper Square | 345275 | [345275-hyper-square.json](./345275-hyper-square.json) |
 | Hyper Streak | 106947 | [106947-hyper-streak.json](./106947-hyper-streak.json) |
 | Hyper Street Fighter II: The Anniversary Edition | 45198 | [45198-hyper-street-fighter-ii-the-anniversary-edition.json](./45198-hyper-street-fighter-ii-the-anniversary-edition.json) |
 | Hyper Street Kart | 42206 | [42206-hyper-street-kart.json](./42206-hyper-street-kart.json) |
