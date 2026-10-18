@@ -366,6 +366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
+| Daisy's Crazy Adventure | 314712 | [314712-daisys-crazy-adventure.json](./314712-daisys-crazy-adventure.json) |
 | Daisy's Garden | 336605 | [336605-daisys-garden.json](./336605-daisys-garden.json) |
 | DaisyPop | 230230 | [230230-daisypop.json](./230230-daisypop.json) |
 | Daito Giken Koushiki Pachi-Slot Simulator: Hihouden - Ossu! Banchou: Yoshimune DS | 269571 | [269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json](./269571-daito-giken-koushiki-pachi-slot-simulator-hihouden-ossu-banchou-yoshimune-ds.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Devils | 345988 | [345988-date-with-devils.json](./345988-date-with-devils.json) |
 | Date with Falco | 339267 | [339267-date-with-falco.json](./339267-date-with-falco.json) |
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
+| Date with Modeus | 314747 | [314747-date-with-modeus.json](./314747-date-with-modeus.json) |
 | Date With the Night | 280293 | [280293-date-with-the-night.json](./280293-date-with-the-night.json) |
 | Date Z: Hazardous Amour Pack | 316200 | [316200-date-z-hazardous-amour-pack.json](./316200-date-z-hazardous-amour-pack.json) |
 | Date Z: Romance Completionist Pack | 316201 | [316201-date-z-romance-completionist-pack.json](./316201-date-z-romance-completionist-pack.json) |
