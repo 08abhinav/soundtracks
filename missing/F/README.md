@@ -3006,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FF Link | 311806 | [311806-ff-link.json](./311806-ff-link.json) |
 | FF: U on PC - Final Fantasy: Unlimited - Labyrinth: Kuroki Dream Memory | 336020 | [336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json](./336020-ff-u-on-pc-final-fantasy-unlimited-labyrinth-kuroki-dream-memory.json) |
 | FF2us Impossible | 360107 | [360107-ff2us-impossible.json](./360107-ff2us-impossible.json) |
+| FF4: Free Enterprise | 314741 | [314741-ff4-free-enterprise.json](./314741-ff4-free-enterprise.json) |
 | FF56! | 93054 | [93054-ff56.json](./93054-ff56.json) |
 | FFA Cards | 290514 | [290514-ffa-cards.json](./290514-ffa-cards.json) |
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
@@ -5104,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's AR: Special Delivery | 126473 | [126473-five-nights-at-freddys-ar-special-delivery.json](./126473-five-nights-at-freddys-ar-special-delivery.json) |
 | Five Nights at Freddy's AR: Special Delivery - Dark Circus: Encore! | 206706 | [206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json](./206706-five-nights-at-freddys-ar-special-delivery-dark-circus-encore.json) |
 | Five Nights at Freddy's Area 51 | 270670 | [270670-five-nights-at-freddys-area-51.json](./270670-five-nights-at-freddys-area-51.json) |
+| Five Nights at Freddy's Cleanup Crew: Employee Assessment Teaser | 314744 | [314744-five-nights-at-freddys-cleanup-crew-employee-assessment-teaser.json](./314744-five-nights-at-freddys-cleanup-crew-employee-assessment-teaser.json) |
 | Five Nights at Freddy's Doom | 277526 | [277526-five-nights-at-freddys-doom.json](./277526-five-nights-at-freddys-doom.json) |
 | Five Nights at Freddy's Doom Mod Remake | 291606 | [291606-five-nights-at-freddys-doom-mod-remake.json](./291606-five-nights-at-freddys-doom-mod-remake.json) |
 | Five Nights at Freddy's Franchise Bundle | 241461 | [241461-five-nights-at-freddys-franchise-bundle.json](./241461-five-nights-at-freddys-franchise-bundle.json) |
@@ -6397,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flywrench | 12072 | [12072-flywrench.json](./12072-flywrench.json) |
 | Flyzz! | 217931 | [217931-flyzz.json](./217931-flyzz.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
+| FM7X: Continental Odyssey | 314750 | [314750-fm7x-continental-odyssey.json](./314750-fm7x-continental-odyssey.json) |
 | FMV Action | 289419 | [289419-fmv-action.json](./289419-fmv-action.json) |
 | FMV Adventure | 331466 | [331466-fmv-adventure.json](./331466-fmv-adventure.json) |
 | FMV Comedy Bundle | 213389 | [213389-fmv-comedy-bundle.json](./213389-fmv-comedy-bundle.json) |
@@ -8846,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions | 18723 | [18723-frog-fractions.json](./18723-frog-fractions.json) |
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
+| Frog Galaxy Survivor | 314734 | [314734-frog-galaxy-survivor.json](./314734-frog-galaxy-survivor.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
 | Frog Gift | 229261 | [229261-frog-gift.json](./229261-frog-gift.json) |
 | Frog Golf | 202694 | [202694-frog-golf.json](./202694-frog-golf.json) |
@@ -9388,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitcraft | 63140 | [63140-fruitcraft.json](./63140-fruitcraft.json) |
 | Fruitee! | 377949 | [377949-fruitee.json](./377949-fruitee.json) |
 | Fruitgeddon | 339083 | [339083-fruitgeddon.json](./339083-fruitgeddon.json) |
+| Fruiti Blox | 314698 | [314698-fruiti-blox.json](./314698-fruiti-blox.json) |
 | Fruitimo! | 352216 | [352216-fruitimo.json](./352216-fruitimo.json) |
 | Fruitio | 294288 | [294288-fruitio.json](./294288-fruitio.json) |
 | Fruitito | 256192 | [256192-fruitito.json](./256192-fruitito.json) |
