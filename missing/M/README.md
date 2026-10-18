@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Academy | 91307 | [91307-magic-academy.json](./91307-magic-academy.json) |
 | Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
+| Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
 | Mario and Luigi: The Bowser Saga | 323819 | [323819-mario-and-luigi-the-bowser-saga.json](./323819-mario-and-luigi-the-bowser-saga.json) |
+| Mario and the Cowboys from Hell | 323609 | [323609-mario-and-the-cowboys-from-hell.json](./323609-mario-and-the-cowboys-from-hell.json) |
 | Mario and the Mystic Purple Stars | 218088 | [218088-mario-and-the-mystic-purple-stars.json](./218088-mario-and-the-mystic-purple-stars.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
@@ -8061,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
+| Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
