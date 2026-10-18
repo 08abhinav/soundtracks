@@ -8002,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
 | Aperion Cyberstorm | 14385 | [14385-aperion-cyberstorm.json](./14385-aperion-cyberstorm.json) |
 | Aperture | 287217 | [287217-aperture.json](./287217-aperture.json) |
+| Aperture Dating Simulator | 349719 | [349719-aperture-dating-simulator.json](./349719-aperture-dating-simulator.json) |
 | Aperture Desk Job | 191897 | [191897-aperture-desk-job.json](./191897-aperture-desk-job.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
@@ -10018,6 +10019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
+| ARPventure | 349649 | [349649-arpventure.json](./349649-arpventure.json) |
 | Arq Of The Abyss | 379085 | [379085-arq-of-the-abyss.json](./379085-arq-of-the-abyss.json) |
 | Arran: The Book of Heroes | 172519 | [172519-arran-the-book-of-heroes.json](./172519-arran-the-book-of-heroes.json) |
 | Arranged | 118798 | [118798-arranged.json](./118798-arranged.json) |
@@ -10544,6 +10546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes: Blackwater | 399273 | [399273-ashes-blackwater.json](./399273-ashes-blackwater.json) |
 | Ashes: Dead Man Walking | 141487 | [141487-ashes-dead-man-walking.json](./141487-ashes-dead-man-walking.json) |
 | Ashfall | 218167 | [218167-ashfall.json](./218167-ashfall.json) |
+| Ashfield Hollow | 349713 | [349713-ashfield-hollow.json](./349713-ashfield-hollow.json) |
 | Ashforge: Whispers of the Deep | 358875 | [358875-ashforge-whispers-of-the-deep.json](./358875-ashforge-whispers-of-the-deep.json) |
 | Ashgard: Infinity Mask | 348320 | [348320-ashgard-infinity-mask.json](./348320-ashgard-infinity-mask.json) |
 | Ashgard: Tone Break | 199618 | [199618-ashgard-tone-break.json](./199618-ashgard-tone-break.json) |
