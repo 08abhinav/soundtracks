@@ -4233,6 +4233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
+| Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
 | Matta Blatta | 60346 | [60346-matta-blatta.json](./60346-matta-blatta.json) |
 | Mattami Restaurant & Cafe Tycoon | 292421 | [292421-mattami-restaurant-and-cafe-tycoon.json](./292421-mattami-restaurant-and-cafe-tycoon.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Fantasy: Jigsaw Puzzle - Great Warriors | 313151 | [313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json](./313151-medieval-fantasy-jigsaw-puzzle-great-warriors.json) |
 | Medieval Fantasy: Jigsaw Puzzle - King Edition | 313793 | [313793-medieval-fantasy-jigsaw-puzzle-king-edition.json](./313793-medieval-fantasy-jigsaw-puzzle-king-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle - Knight Edition | 313794 | [313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json](./313794-medieval-fantasy-jigsaw-puzzle-knight-edition.json) |
+| Medieval Farm | 309740 | [309740-medieval-farm.json](./309740-medieval-farm.json) |
 | Medieval Frontiers | 127709 | [127709-medieval-frontiers.json](./127709-medieval-frontiers.json) |
 | Medieval Games | 5001 | [5001-medieval-games.json](./5001-medieval-games.json) |
 | Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
