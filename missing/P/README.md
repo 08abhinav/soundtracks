@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
 | Phantom Pharaoh's Treasure Trap | 396704 | [396704-phantom-pharaohs-treasure-trap.json](./396704-phantom-pharaohs-treasure-trap.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
+| Phantom Processing | 360909 | [360909-phantom-processing.json](./360909-phantom-processing.json) |
 | Phantom Project | 192623 | [192623-phantom-project.json](./192623-phantom-project.json) |
 | Phantom Racing | 199443 | [199443-phantom-racing.json](./199443-phantom-racing.json) |
 | Phantom Reckoning | 343836 | [343836-phantom-reckoning.json](./343836-phantom-reckoning.json) |
