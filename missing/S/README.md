@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
+| Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
 | Sayagatari: Promise of the Cursed Blade | 398906 | [398906-sayagatari-promise-of-the-cursed-blade.json](./398906-sayagatari-promise-of-the-cursed-blade.json) |
 | Sayagatari: Promise of the Cursed Blade - First Press Limited Edition | 419912 | [419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json](./419912-sayagatari-promise-of-the-cursed-blade-first-press-limited-edition.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
+| Sea Ranger | 346997 | [346997-sea-ranger.json](./346997-sea-ranger.json) |
 | Sea Ranger | 367839 | [367839-sea-ranger.json](./367839-sea-ranger.json) |
 | Sea Rivals VR | 255160 | [255160-sea-rivals-vr.json](./255160-sea-rivals-vr.json) |
 | Sea Rogue | 237446 | [237446-sea-rogue.json](./237446-sea-rogue.json) |
@@ -3316,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret School | 290498 | [290498-secret-school.json](./290498-secret-school.json) |
 | Secret Scout in the Temple of Demise | 48200 | [48200-secret-scout-in-the-temple-of-demise.json](./48200-secret-scout-in-the-temple-of-demise.json) |
 | Secret Sealing Travel | 371595 | [371595-secret-sealing-travel.json](./371595-secret-sealing-travel.json) |
+| Secret Seeker | 346903 | [346903-secret-seeker.json](./346903-secret-seeker.json) |
 | Secret Service | 7183 | [7183-secret-service.json](./7183-secret-service.json) |
 | Secret Service: In Harm's Way | 73800 | [73800-secret-service-in-harms-way.json](./73800-secret-service-in-harms-way.json) |
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
@@ -4651,6 +4654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SFCave | 87233 | [87233-sfcave.json](./87233-sfcave.json) |
 | SFCave for Playdate | 230736 | [230736-sfcave-for-playdate.json](./230736-sfcave-for-playdate.json) |
 | SFD | 105676 | [105676-sfd.json](./105676-sfd.json) |
+| Sfera | 346923 | [346923-sfera.json](./346923-sfera.json) |
 | SFG Soccer | 66700 | [66700-sfg-soccer.json](./66700-sfg-soccer.json) |
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
@@ -7773,6 +7777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simnetzero | 234751 | [234751-simnetzero.json](./234751-simnetzero.json) |
 | Simogo Legacy Collection | 375500 | [375500-simogo-legacy-collection.json](./375500-simogo-legacy-collection.json) |
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
+| Simon | 346999 | [346999-simon.json](./346999-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
 | Simon Says | 288364 | [288364-simon-says.json](./288364-simon-says.json) |
@@ -11257,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer | 346058 | [346058-soccer.json](./346058-soccer.json) |
 | Soccer | 346074 | [346074-soccer.json](./346074-soccer.json) |
 | Soccer | 346099 | [346099-soccer.json](./346099-soccer.json) |
+| Soccer | 347006 | [347006-soccer.json](./347006-soccer.json) |
 | Soccer | 390480 | [390480-soccer.json](./390480-soccer.json) |
 | Soccer | 72370 | [72370-soccer.json](./72370-soccer.json) |
 | Soccer | 86375 | [86375-soccer.json](./86375-soccer.json) |
