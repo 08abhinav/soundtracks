@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viral Multiplayer | 340556 | [340556-viral-multiplayer.json](./340556-viral-multiplayer.json) |
 | Viral Quarantine | 116404 | [116404-viral-quarantine.json](./116404-viral-quarantine.json) |
 | Viral Reload | 194344 | [194344-viral-reload.json](./194344-viral-reload.json) |
+| Viral Reload EX | 348040 | [348040-viral-reload-ex.json](./348040-viral-reload-ex.json) |
 | Viral Survival | 85475 | [85475-viral-survival.json](./85475-viral-survival.json) |
 | ViralGuessr | 371012 | [371012-viralguessr.json](./371012-viralguessr.json) |
 | Virality | 84136 | [84136-virality.json](./84136-virality.json) |
