@@ -6667,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Trace in Time - Collector's Edition | 168166 | [168166-grim-tales-trace-in-time-collectors-edition.json](./168166-grim-tales-trace-in-time-collectors-edition.json) |
 | Grim Wanderings | 86552 | [86552-grim-wanderings.json](./86552-grim-wanderings.json) |
 | Grim Wanderings II | 170787 | [170787-grim-wanderings-ii.json](./170787-grim-wanderings-ii.json) |
+| Grim-chan's Soul Fight | 349177 | [349177-grim-chans-soul-fight.json](./349177-grim-chans-soul-fight.json) |
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
@@ -7667,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Runners | 301081 | [301081-gun-runners.json](./301081-gun-runners.json) |
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
+| Gun Shop Manager | 349095 | [349095-gun-shop-manager.json](./349095-gun-shop-manager.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
 | Gun Smoke | 77862 | [77862-gun-smoke.json](./77862-gun-smoke.json) |
