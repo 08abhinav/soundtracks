@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Kick Challenge | 379477 | [379477-advanced-kick-challenge.json](./379477-advanced-kick-challenge.json) |
 | Advanced NetWars | 78001 | [78001-advanced-netwars.json](./78001-advanced-netwars.json) |
 | Advanced Pasta Cooking Simulator | 215766 | [215766-advanced-pasta-cooking-simulator.json](./215766-advanced-pasta-cooking-simulator.json) |
+| Advanced PET 2 | 353148 | [353148-advanced-pet-2.json](./353148-advanced-pet-2.json) |
 | Advanced PET Battle Chip - GutsMan DS | 354040 | [354040-advanced-pet-battle-chip-gutsman-ds.json](./354040-advanced-pet-battle-chip-gutsman-ds.json) |
 | Advanced PET Battle Chip - Jealousy | 354030 | [354030-advanced-pet-battle-chip-jealousy.json](./354030-advanced-pet-battle-chip-jealousy.json) |
 | Advanced PET: Battle Chip - Aqua Upper 1 | 354020 | [354020-advanced-pet-battle-chip-aqua-upper-1.json](./354020-advanced-pet-battle-chip-aqua-upper-1.json) |
