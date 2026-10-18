@@ -9190,6 +9190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonding, Now | 319676 | [319676-bonding-now.json](./319676-bonding-now.json) |
 | Bonds | 111096 | [111096-bonds.json](./111096-bonds.json) |
 | Bonds | 380036 | [380036-bonds.json](./380036-bonds.json) |
+| Bonds of Ecstasy | 331096 | [331096-bonds-of-ecstasy.json](./331096-bonds-of-ecstasy.json) |
 | Bonds of the Skies | 210264 | [210264-bonds-of-the-skies.json](./210264-bonds-of-the-skies.json) |
 | Bonds of Unity | 249221 | [249221-bonds-of-unity.json](./249221-bonds-of-unity.json) |
 | Bondstones | 302696 | [302696-bondstones.json](./302696-bondstones.json) |
@@ -12973,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busou Renkin | 210840 | [210840-busou-renkin.json](./210840-busou-renkin.json) |
 | Busou Shinki: Battle Masters | 66641 | [66641-busou-shinki-battle-masters.json](./66641-busou-shinki-battle-masters.json) |
 | Busou Shinki: Battle Masters Mk. 2 | 56498 | [56498-busou-shinki-battle-masters-mk-2.json](./56498-busou-shinki-battle-masters-mk-2.json) |
+| Bussy Birds | 331161 | [331161-bussy-birds.json](./331161-bussy-birds.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
 | Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
