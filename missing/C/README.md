@@ -2660,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
 | Cat & Butterfly | 303725 | [303725-cat-and-butterfly.json](./303725-cat-and-butterfly.json) |
+| Cat & Farm Pals | 341294 | [341294-cat-and-farm-pals.json](./341294-cat-and-farm-pals.json) |
 | Cat & Friends Memory | 379975 | [379975-cat-and-friends-memory.json](./379975-cat-and-friends-memory.json) |
 | Cat & Gold | 272369 | [272369-cat-and-gold.json](./272369-cat-and-gold.json) |
 | Cat & Mice | 217774 | [217774-cat-and-mice.json](./217774-cat-and-mice.json) |
@@ -10416,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
 | Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
+| Cornerpond | 341374 | [341374-cornerpond.json](./341374-cornerpond.json) |
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
