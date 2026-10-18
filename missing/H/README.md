@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
+| Hellmouth | 314693 | [314693-hellmouth.json](./314693-hellmouth.json) |
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hellmut: The Badass from Hell | 68383 | [68383-hellmut-the-badass-from-hell.json](./68383-hellmut-the-badass-from-hell.json) |
 | Hellnight | 14160 | [14160-hellnight.json](./14160-hellnight.json) |
@@ -4575,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herzog | 93370 | [93370-herzog.json](./93370-herzog.json) |
 | Herzog Zwei | 24073 | [24073-herzog-zwei.json](./24073-herzog-zwei.json) |
 | HesGames | 84269 | [84269-hesgames.json](./84269-hesgames.json) |
+| HeShe | 314702 | [314702-heshe.json](./314702-heshe.json) |
 | Hesperian Wars | 229367 | [229367-hesperian-wars.json](./229367-hesperian-wars.json) |
 | Hessian Landing | 386268 | [386268-hessian-landing.json](./386268-hessian-landing.json) |
 | HestiaFort | 393046 | [393046-hestiafort.json](./393046-hestiafort.json) |
@@ -5885,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisou Kihei X-Serd | 59349 | [59349-hisou-kihei-x-serd.json](./59349-hisou-kihei-x-serd.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
 | Hispania in the Middle Ages | 356238 | [356238-hispania-in-the-middle-ages.json](./356238-hispania-in-the-middle-ages.json) |
+| Hispanic Community Project | 314746 | [314746-hispanic-community-project.json](./314746-hispanic-community-project.json) |
 | Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
 | Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
