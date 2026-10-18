@@ -739,6 +739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus: Master of Olympus | 958 | [958-zeus-master-of-olympus.json](./958-zeus-master-of-olympus.json) |
 | Zeverland | 376201 | [376201-zeverland.json](./376201-zeverland.json) |
 | Zewels | 250433 | [250433-zewels.json](./250433-zewels.json) |
+| Zexion | 331175 | [331175-zexion.json](./331175-zexion.json) |
 | Zezenia Online | 32195 | [32195-zezenia-online.json](./32195-zezenia-online.json) |
 | ZFrag | 177375 | [177375-zfrag.json](./177375-zfrag.json) |
 | Zgirls | 303227 | [303227-zgirls.json](./303227-zgirls.json) |
@@ -1612,6 +1613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoomer Simulator | 326303 | [326303-zoomer-simulator.json](./326303-zoomer-simulator.json) |
 | Zoomerang | 64949 | [64949-zoomerang.json](./64949-zoomerang.json) |
 | Zoomers Versus Boomers | 347802 | [347802-zoomers-versus-boomers.json](./347802-zoomers-versus-boomers.json) |
+| Zoominoes | 331193 | [331193-zoominoes.json](./331193-zoominoes.json) |
 | ZoomnBoom | 107876 | [107876-zoomnboom.json](./107876-zoomnboom.json) |
 | ZoomOut | 367285 | [367285-zoomout.json](./367285-zoomout.json) |
 | Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
