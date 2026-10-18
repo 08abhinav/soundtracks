@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
+| Tales of Tonbrook | 360336 | [360336-tales-of-tonbrook.json](./360336-tales-of-tonbrook.json) |
 | Tales of Tyria | 135808 | [135808-tales-of-tyria.json](./135808-tales-of-tyria.json) |
 | Tales of Valkyrie | 379436 | [379436-tales-of-valkyrie.json](./379436-tales-of-valkyrie.json) |
 | Tales of Valoris: Swallow's Defenders | 330265 | [330265-tales-of-valoris-swallows-defenders.json](./330265-tales-of-valoris-swallows-defenders.json) |
@@ -21674,6 +21675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traysia | 46259 | [46259-traysia.json](./46259-traysia.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
 | Treacherous Journeys | 176207 | [176207-treacherous-journeys.json](./176207-treacherous-journeys.json) |
+| Treacherous Trials | 360456 | [360456-treacherous-trials.json](./360456-treacherous-trials.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
 | Treachery in Beatdown City | 62700 | [62700-treachery-in-beatdown-city.json](./62700-treachery-in-beatdown-city.json) |
 | Treachery in Beatdown City: U.N. Trouble | 272568 | [272568-treachery-in-beatdown-city-u-n-trouble.json](./272568-treachery-in-beatdown-city-u-n-trouble.json) |
