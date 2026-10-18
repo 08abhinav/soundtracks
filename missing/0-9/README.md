@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
+| 198BREW: The Age of Orpheus | 325294 | [325294-198brew-the-age-of-orpheus.json](./325294-198brew-the-age-of-orpheus.json) |
 | 1990 | 219506 | [219506-1990.json](./219506-1990.json) |
 | 1990 | 77214 | [77214-1990.json](./77214-1990.json) |
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
