@@ -1799,6 +1799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Master | 204816 | [204816-parkour-master.json](./204816-parkour-master.json) |
+| Parkour Master | 310794 | [310794-parkour-master.json](./310794-parkour-master.json) |
 | Parkour Obby: Ice Escape | 415064 | [415064-parkour-obby-ice-escape.json](./415064-parkour-obby-ice-escape.json) |
 | Parkour Obby: Magma Run | 414438 | [414438-parkour-obby-magma-run.json](./414438-parkour-obby-magma-run.json) |
 | Parkour Obby: Toxic Escape | 402301 | [402301-parkour-obby-toxic-escape.json](./402301-parkour-obby-toxic-escape.json) |
@@ -9502,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portrait Painter | 406709 | [406709-portrait-painter.json](./406709-portrait-painter.json) |
 | Portraits of Doom | 318067 | [318067-portraits-of-doom.json](./318067-portraits-of-doom.json) |
 | Ports of Call Classic | 118769 | [118769-ports-of-call-classic.json](./118769-ports-of-call-classic.json) |
+| Ports of Call Deluxe 3D 2024 | 310797 | [310797-ports-of-call-deluxe-3d-2024.json](./310797-ports-of-call-deluxe-3d-2024.json) |
 | Ports Simulator | 158938 | [158938-ports-simulator.json](./158938-ports-simulator.json) |
 | Portugal 1111: A Conquista de Soure | 94365 | [94365-portugal-1111-a-conquista-de-soure.json](./94365-portugal-1111-a-conquista-de-soure.json) |
 | Porzellanhaus | 367407 | [367407-porzellanhaus.json](./367407-porzellanhaus.json) |
