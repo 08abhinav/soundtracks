@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeds of Unity | 196804 | [196804-seeds-of-unity.json](./196804-seeds-of-unity.json) |
 | Seedship | 178454 | [178454-seedship.json](./178454-seedship.json) |
 | Seedverse | 409234 | [409234-seedverse.json](./409234-seedverse.json) |
+| Seeing Red | 321826 | [321826-seeing-red.json](./321826-seeing-red.json) |
 | Seeing Red | 395587 | [395587-seeing-red.json](./395587-seeing-red.json) |
 | Seeing Things | 272935 | [272935-seeing-things.json](./272935-seeing-things.json) |
 | Seek | 333917 | [333917-seek.json](./333917-seek.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seterra | 130072 | [130072-seterra.json](./130072-seterra.json) |
 | Seth | 278380 | [278380-seth.json](./278380-seth.json) |
 | Seth Johnson's Sink or Skim | 82144 | [82144-seth-johnsons-sink-or-skim.json](./82144-seth-johnsons-sink-or-skim.json) |
+| Sethi and the Inca Wizard | 321857 | [321857-sethi-and-the-inca-wizard.json](./321857-sethi-and-the-inca-wizard.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
 | SetPoint Volleyball | 422498 | [422498-setpoint-volleyball.json](./422498-setpoint-volleyball.json) |
 | Setr's Auto Battler | 182289 | [182289-setrs-auto-battler.json](./182289-setrs-auto-battler.json) |
@@ -4999,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Gamble | 340797 | [340797-shadows-gamble.json](./340797-shadows-gamble.json) |
 | Shadow's Grove | 370433 | [370433-shadows-grove.json](./370433-shadows-grove.json) |
 | Shadow's Kiss | 201584 | [201584-shadows-kiss.json](./201584-shadows-kiss.json) |
+| Shadow's Ladder | 321827 | [321827-shadows-ladder.json](./321827-shadows-ladder.json) |
 | Shadowalker | 223007 | [223007-shadowalker.json](./223007-shadowalker.json) |
 | ShadoWave | 212188 | [212188-shadowave.json](./212188-shadowave.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
@@ -12622,6 +12625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mega Collection Plus Mini | 218656 | [218656-sonic-mega-collection-plus-mini.json](./218656-sonic-mega-collection-plus-mini.json) |
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
 | Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
+| Sonic Metallix | 321828 | [321828-sonic-metallix.json](./321828-sonic-metallix.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
 | Sonic Mobius | 332207 | [332207-sonic-mobius.json](./332207-sonic-mobius.json) |
 | Sonic Mode: Exciter | 330282 | [330282-sonic-mode-exciter.json](./330282-sonic-mode-exciter.json) |
@@ -13015,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Fated Hour | 324756 | [324756-sonic-the-fated-hour.json](./324756-sonic-the-fated-hour.json) |
 | Sonic: The Final Story | 330590 | [330590-sonic-the-final-story.json](./330590-sonic-the-final-story.json) |
 | Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
+| Sonic: The Murdering Insanity | 321819 | [321819-sonic-the-murdering-insanity.json](./321819-sonic-the-murdering-insanity.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
@@ -23523,6 +23528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pocket: Atari Edition | 327197 | [327197-super-pocket-atari-edition.json](./327197-super-pocket-atari-edition.json) |
 | Super Pocket: Capcom Edition | 256711 | [256711-super-pocket-capcom-edition.json](./256711-super-pocket-capcom-edition.json) |
 | Super Pocket: Taito Edition | 256710 | [256710-super-pocket-taito-edition.json](./256710-super-pocket-taito-edition.json) |
+| Super Pocket: Technōs Edition | 321840 | [321840-super-pocket-technos-edition.json](./321840-super-pocket-technos-edition.json) |
 | Super Pole Position | 108506 | [108506-super-pole-position.json](./108506-super-pole-position.json) |
 | Super Pong | 64120 | [64120-super-pong.json](./64120-super-pong.json) |
 | Super Pool | 13765 | [13765-super-pool.json](./13765-super-pool.json) |
@@ -24267,6 +24273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
+| Superhex.io | 321839 | [321839-superhex-io.json](./321839-superhex-io.json) |
 | Superhot Prototype | 18119 | [18119-superhot-prototype.json](./18119-superhot-prototype.json) |
 | SuperHot Quake | 195987 | [195987-superhot-quake.json](./195987-superhot-quake.json) |
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
@@ -25798,6 +25805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
+| Swords and Sandals Crusader | 321862 | [321862-swords-and-sandals-crusader.json](./321862-swords-and-sandals-crusader.json) |
 | Swords and Sandals I: Gladiator | 259783 | [259783-swords-and-sandals-i-gladiator.json](./259783-swords-and-sandals-i-gladiator.json) |
 | Swords and Sandals II | 58874 | [58874-swords-and-sandals-ii.json](./58874-swords-and-sandals-ii.json) |
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
