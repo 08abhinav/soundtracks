@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Arena | 294945 | [294945-dangerous-arena.json](./294945-dangerous-arena.json) |
 | Dangerous Blaster | 126617 | [126617-dangerous-blaster.json](./126617-dangerous-blaster.json) |
 | Dangerous Coins | 278706 | [278706-dangerous-coins.json](./278706-dangerous-coins.json) |
+| Dangerous Curves | 330573 | [330573-dangerous-curves.json](./330573-dangerous-curves.json) |
 | Dangerous Dave GS | 11385 | [11385-dangerous-dave-gs.json](./11385-dangerous-dave-gs.json) |
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional | 26578 | [26578-dimensional.json](./26578-dimensional.json) |
 | Dimensional Animals | 244160 | [244160-dimensional-animals.json](./244160-dimensional-animals.json) |
 | Dimensional Dexterity | 252179 | [252179-dimensional-dexterity.json](./252179-dimensional-dexterity.json) |
+| Dimensional Dilemma | 330506 | [330506-dimensional-dilemma.json](./330506-dimensional-dilemma.json) |
 | Dimensional Double Shift | 317856 | [317856-dimensional-double-shift.json](./317856-dimensional-double-shift.json) |
 | Dimensional Fighter Epsilon3 | 62593 | [62593-dimensional-fighter-epsilon3.json](./62593-dimensional-fighter-epsilon3.json) |
 | Dimensional Gears | 214047 | [214047-dimensional-gears.json](./214047-dimensional-gears.json) |
@@ -10321,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon Age: The Veilguard - Deluxe Edition | 321666 | [321666-dragon-age-the-veilguard-deluxe-edition.json](./321666-dragon-age-the-veilguard-deluxe-edition.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
+| Dragon and Phoenix | 330503 | [330503-dragon-and-phoenix.json](./330503-dragon-and-phoenix.json) |
 | Dragon and Weed: Origins OB - Dual Edges | 132686 | [132686-dragon-and-weed-origins-ob-dual-edges.json](./132686-dragon-and-weed-origins-ob-dual-edges.json) |
 | Dragon Arena | 392911 | [392911-dragon-arena.json](./392911-dragon-arena.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
