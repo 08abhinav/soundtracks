@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hunter D | 126469 | [126469-vampire-hunter-d.json](./126469-vampire-hunter-d.json) |
 | Vampire Hunters | 244759 | [244759-vampire-hunters.json](./244759-vampire-hunters.json) |
 | Vampire Hunters | 27642 | [27642-vampire-hunters.json](./27642-vampire-hunters.json) |
+| Vampire Huntress: Lament of the Sun | 327013 | [327013-vampire-huntress-lament-of-the-sun.json](./327013-vampire-huntress-lament-of-the-sun.json) |
 | Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vareion | 245321 | [245321-vareion.json](./245321-vareion.json) |
 | Varenje: Collector's Edition | 111504 | [111504-varenje-collectors-edition.json](./111504-varenje-collectors-edition.json) |
 | Varenje: Don't Touch The Berries | 271501 | [271501-varenje-dont-touch-the-berries.json](./271501-varenje-dont-touch-the-berries.json) |
+| Varg | 327052 | [327052-varg.json](./327052-varg.json) |
 | VargFren Mash | 135180 | [135180-vargfren-mash.json](./135180-vargfren-mash.json) |
 | Vargskelethor's Hardcore Friday Super Metal Almost Criminally Violent Ultra Swedish Meatball Royal Rumble Massacre! | 215074 | [215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json](./215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
@@ -1795,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violet rE:-The Final reExistence- | 120781 | [120781-violet-re-the-final-reexistence.json](./120781-violet-re-the-final-reexistence.json) |
 | Violet's Party Mania | 219518 | [219518-violets-party-mania.json](./219518-violets-party-mania.json) |
 | Violeta | 176940 | [176940-violeta.json](./176940-violeta.json) |
+| Violeta | 327043 | [327043-violeta.json](./327043-violeta.json) |
 | Violett | 18734 | [18734-violett.json](./18734-violett.json) |
 | Violin Paradise | 85474 | [85474-violin-paradise.json](./85474-violin-paradise.json) |
 | VioMice | 124539 | [124539-viomice.json](./124539-viomice.json) |
