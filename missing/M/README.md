@@ -8696,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind's Eye Macrogolf | 361239 | [361239-minds-eye-macrogolf.json](./361239-minds-eye-macrogolf.json) |
 | Mind's Eye: Secrets of the Forgotten | 54239 | [54239-minds-eye-secrets-of-the-forgotten.json](./54239-minds-eye-secrets-of-the-forgotten.json) |
 | Minda | 368256 | [368256-minda.json](./368256-minda.json) |
+| MindArms | 346382 | [346382-mindarms.json](./346382-mindarms.json) |
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
