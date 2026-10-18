@@ -4098,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chante: Fortress of Spores | 369884 | [369884-chante-fortress-of-spores.json](./369884-chante-fortress-of-spores.json) |
 | Chantelise - A Tale of Two Sisters | 12525 | [12525-chantelise-a-tale-of-two-sisters.json](./12525-chantelise-a-tale-of-two-sisters.json) |
 | Chanter: Kimi no Uta ga Todoitara | 77906 | [77906-chanter-kimi-no-uta-ga-todoitara.json](./77906-chanter-kimi-no-uta-ga-todoitara.json) |
+| Chanter: Kimi no Uta ga Todoitara # | 338056 | [338056-chanter-kimi-no-uta-ga-todoitara.json](./338056-chanter-kimi-no-uta-ga-todoitara.json) |
 | Chants of Sennaar | 198499 | [198499-chants-of-sennaar.json](./198499-chants-of-sennaar.json) |
 | Chanye's Home | 280151 | [280151-chanyes-home.json](./280151-chanyes-home.json) |
 | Chao Adventure | 225623 | [225623-chao-adventure.json](./225623-chao-adventure.json) |
@@ -14521,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Rescue: Virus Eruption | 180573 | [180573-cyber-rescue-virus-eruption.json](./180573-cyber-rescue-virus-eruption.json) |
 | Cyber Revolution | 339357 | [339357-cyber-revolution.json](./339357-cyber-revolution.json) |
 | Cyber Rider | 155671 | [155671-cyber-rider.json](./155671-cyber-rider.json) |
+| Cyber Run | 338039 | [338039-cyber-run.json](./338039-cyber-run.json) |
 | Cyber Runner | 368674 | [368674-cyber-runner.json](./368674-cyber-runner.json) |
 | Cyber Runner 2048 | 192393 | [192393-cyber-runner-2048.json](./192393-cyber-runner-2048.json) |
 | Cyber Rush | 296522 | [296522-cyber-rush.json](./296522-cyber-rush.json) |
