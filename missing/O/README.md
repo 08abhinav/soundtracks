@@ -3786,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer Space | 243173 | [243173-outer-space.json](./243173-outer-space.json) |
 | Outer Space Survival | 207033 | [207033-outer-space-survival.json](./207033-outer-space-survival.json) |
 | Outer Space: War Gears | 211622 | [211622-outer-space-war-gears.json](./211622-outer-space-war-gears.json) |
+| Outer Storms | 323003 | [323003-outer-storms.json](./323003-outer-storms.json) |
 | Outer Terror | 206226 | [206226-outer-terror.json](./206226-outer-terror.json) |
 | Outer Wards: Proving Grounds | 260234 | [260234-outer-wards-proving-grounds.json](./260234-outer-wards-proving-grounds.json) |
 | Outer Wilds: Archaeologist Edition | 173172 | [173172-outer-wilds-archaeologist-edition.json](./173172-outer-wilds-archaeologist-edition.json) |
