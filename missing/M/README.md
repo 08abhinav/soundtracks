@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl Witch Trials: Famitsu DX Pack | 403787 | [403787-magical-girl-witch-trials-famitsu-dx-pack.json](./403787-magical-girl-witch-trials-famitsu-dx-pack.json) |
 | Magical Girl Yusya-chan and the Labyrinth of Lust | 406694 | [406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json](./406694-magical-girl-yusya-chan-and-the-labyrinth-of-lust.json) |
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
+| Magical Girl: Taboo Village | 362038 | [362038-magical-girl-taboo-village.json](./362038-magical-girl-taboo-village.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
 | Magical Girls Second Magic | 165607 | [165607-magical-girls-second-magic.json](./165607-magical-girls-second-magic.json) |
@@ -6839,6 +6840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid 4 Database | 131255 | [131255-metal-gear-solid-4-database.json](./131255-metal-gear-solid-4-database.json) |
 | Metal Gear Solid 4: 25th Anniversary Edition | 44569 | [44569-metal-gear-solid-4-25th-anniversary-edition.json](./44569-metal-gear-solid-4-25th-anniversary-edition.json) |
 | Metal Gear Solid 4: Guns of the Patriots - Limited Edition | 45177 | [45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json](./45177-metal-gear-solid-4-guns-of-the-patriots-limited-edition.json) |
+| Metal Gear Solid Delta Snake Eater: Day One Edition | 362057 | [362057-metal-gear-solid-delta-snake-eater-day-one-edition.json](./362057-metal-gear-solid-delta-snake-eater-day-one-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Digital Deluxe Edition | 331472 | [331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json](./331472-metal-gear-solid-delta-snake-eater-digital-deluxe-edition.json) |
 | Metal Gear Solid Delta: Snake Eater - Sneaking DLC Pack | 331467 | [331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json](./331467-metal-gear-solid-delta-snake-eater-sneaking-dlc-pack.json) |
 | Metal Gear Solid HD Collection | 20741 | [20741-metal-gear-solid-hd-collection.json](./20741-metal-gear-solid-hd-collection.json) |
@@ -7547,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
 | Microsoft Flight Simulator 2004: A Century of Flight | 712 | [712-microsoft-flight-simulator-2004-a-century-of-flight.json](./712-microsoft-flight-simulator-2004-a-century-of-flight.json) |
 | Microsoft Flight Simulator 2024 | 252830 | [252830-microsoft-flight-simulator-2024.json](./252830-microsoft-flight-simulator-2024.json) |
+| Microsoft Flight Simulator 2024: City Update 12 - Germany 2 | 362039 | [362039-microsoft-flight-simulator-2024-city-update-12-germany-2.json](./362039-microsoft-flight-simulator-2024-city-update-12-germany-2.json) |
 | Microsoft Flight Simulator 2024: City Update 16 - Italy | 415296 | [415296-microsoft-flight-simulator-2024-city-update-16-italy.json](./415296-microsoft-flight-simulator-2024-city-update-16-italy.json) |
 | Microsoft Flight Simulator 2024: National Championship Air Races | 405085 | [405085-microsoft-flight-simulator-2024-national-championship-air-races.json](./405085-microsoft-flight-simulator-2024-national-championship-air-races.json) |
 | Microsoft Flight Simulator 2024: World Update 20 - Japan | 370133 | [370133-microsoft-flight-simulator-2024-world-update-20-japan.json](./370133-microsoft-flight-simulator-2024-world-update-20-japan.json) |
@@ -9603,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
 | Miss Bullard's School for Former Ladies | 184058 | [184058-miss-bullards-school-for-former-ladies.json](./184058-miss-bullards-school-for-former-ladies.json) |
+| Miss Bullet | 362016 | [362016-miss-bullet.json](./362016-miss-bullet.json) |
 | Miss Cecilia | 201475 | [201475-miss-cecilia.json](./201475-miss-cecilia.json) |
 | Miss Chic Business | 54236 | [54236-miss-chic-business.json](./54236-miss-chic-business.json) |
 | Miss Chic Disco | 25518 | [25518-miss-chic-disco.json](./25518-miss-chic-disco.json) |
