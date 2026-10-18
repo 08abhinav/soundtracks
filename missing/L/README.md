@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Fishing!! | 400416 | [400416-lets-go-fishing.json](./400416-lets-go-fishing.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
+| Let’s Go Mightycat! | 355854 | [355854-let-s-go-mightycat.json](./355854-let-s-go-mightycat.json) |
 | Let's Go Nuts! | 99700 | [99700-lets-go-nuts.json](./99700-lets-go-nuts.json) |
 | Let's Go Nuts! 2 | 195471 | [195471-lets-go-nuts-2.json](./195471-lets-go-nuts-2.json) |
 | Let's Go Read: An Island Adventure | 122277 | [122277-lets-go-read-an-island-adventure.json](./122277-lets-go-read-an-island-adventure.json) |
@@ -3169,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in Adventure | 208079 | [208079-life-in-adventure.json](./208079-life-in-adventure.json) |
 | Life in Bunker | 34451 | [34451-life-in-bunker.json](./34451-life-in-bunker.json) |
 | Life In Helsinki | 113455 | [113455-life-in-helsinki.json](./113455-life-in-helsinki.json) |
+| Life in Jasskia: a Coffee Shop | 355891 | [355891-life-in-jasskia-a-coffee-shop.json](./355891-life-in-jasskia-a-coffee-shop.json) |
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
@@ -4140,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
 | Little Cities: Attractions Update | 251571 | [251571-little-cities-attractions-update.json](./251571-little-cities-attractions-update.json) |
+| Little Cities: Diorama | 355958 | [355958-little-cities-diorama.json](./355958-little-cities-diorama.json) |
 | Little Cities: Hand Tracking Update | 251570 | [251570-little-cities-hand-tracking-update.json](./251570-little-cities-hand-tracking-update.json) |
 | Little Cities: Little Citizens Update | 251573 | [251573-little-cities-little-citizens-update.json](./251573-little-cities-little-citizens-update.json) |
 | Little Cities: Sandbox Update | 251574 | [251574-little-cities-sandbox-update.json](./251574-little-cities-sandbox-update.json) |
