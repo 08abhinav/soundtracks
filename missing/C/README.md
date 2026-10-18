@@ -11643,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
 | Crayola Paint 'n Play Pony | 313287 | [313287-crayola-paint-n-play-pony.json](./313287-crayola-paint-n-play-pony.json) |
 | Crayola Scoot | 104980 | [104980-crayola-scoot.json](./104980-crayola-scoot.json) |
+| Crayola Scribble Scrubbie Pets | 355892 | [355892-crayola-scribble-scrubbie-pets.json](./355892-crayola-scribble-scrubbie-pets.json) |
 | Crayola Treasure Adventures | 21363 | [21363-crayola-treasure-adventures.json](./21363-crayola-treasure-adventures.json) |
 | Crayola: Make a Masterpiece | 133804 | [133804-crayola-make-a-masterpiece.json](./133804-crayola-make-a-masterpiece.json) |
 | Crayon Car | 365544 | [365544-crayon-car.json](./365544-crayon-car.json) |
