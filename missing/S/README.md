@@ -2294,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
+| Scifi Racing Team | 332864 | [332864-scifi-racing-team.json](./332864-scifi-racing-team.json) |
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scintillatron 4096 | 118701 | [118701-scintillatron-4096.json](./118701-scintillatron-4096.json) |
@@ -25925,6 +25926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Et Sis | 228511 | [228511-synth-et-sis.json](./228511-synth-et-sis.json) |
 | Synth Laser | 373201 | [373201-synth-laser.json](./373201-synth-laser.json) |
 | Synth Pong | 235759 | [235759-synth-pong.json](./235759-synth-pong.json) |
+| Synth Race | 332866 | [332866-synth-race.json](./332866-synth-race.json) |
 | Synth Retro Vapor Wave | 148309 | [148309-synth-retro-vapor-wave.json](./148309-synth-retro-vapor-wave.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
