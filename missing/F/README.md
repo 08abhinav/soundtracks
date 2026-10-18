@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Maiden's Odd Hideout | 124640 | [124640-fantasy-maidens-odd-hideout.json](./124640-fantasy-maidens-odd-hideout.json) |
 | Fantasy Mall | 74738 | [74738-fantasy-mall.json](./74738-fantasy-mall.json) |
 | Fantasy Manager: The Computer Game | 73997 | [73997-fantasy-manager-the-computer-game.json](./73997-fantasy-manager-the-computer-game.json) |
+| Fantasy Map Simulator | 312457 | [312457-fantasy-map-simulator.json](./312457-fantasy-map-simulator.json) |
 | Fantasy Maze | 105802 | [105802-fantasy-maze.json](./105802-fantasy-maze.json) |
 | Fantasy Memory: Sexy Mermaids | 286464 | [286464-fantasy-memory-sexy-mermaids.json](./286464-fantasy-memory-sexy-mermaids.json) |
 | Fantasy Mercenary Wars | 230964 | [230964-fantasy-mercenary-wars.json](./230964-fantasy-mercenary-wars.json) |
@@ -1621,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Wars: Endless Heroes | 390601 | [390601-fantasy-wars-endless-heroes.json](./390601-fantasy-wars-endless-heroes.json) |
 | Fantasy World | 68687 | [68687-fantasy-world.json](./68687-fantasy-world.json) |
 | Fantasy World Online Tycoon | 132209 | [132209-fantasy-world-online-tycoon.json](./132209-fantasy-world-online-tycoon.json) |
+| Fantasy World Simulator | 312458 | [312458-fantasy-world-simulator.json](./312458-fantasy-world-simulator.json) |
 | Fantasy World: A Land Torn Asunder | 90069 | [90069-fantasy-world-a-land-torn-asunder.json](./90069-fantasy-world-a-land-torn-asunder.json) |
 | Fantasy Worlds Bundle | 125134 | [125134-fantasy-worlds-bundle.json](./125134-fantasy-worlds-bundle.json) |
 | Fantasy Zone | 18292 | [18292-fantasy-zone.json](./18292-fantasy-zone.json) |
@@ -2032,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
 | Farming Slimes | 419964 | [419964-farming-slimes.json](./419964-farming-slimes.json) |
+| Farming Supermarket Simulator | 312459 | [312459-farming-supermarket-simulator.json](./312459-farming-supermarket-simulator.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
 | Farming Tractor Simulator | 233438 | [233438-farming-tractor-simulator.json](./233438-farming-tractor-simulator.json) |
 | Farming Tractor Simulator 2021: Farmer Life | 174084 | [174084-farming-tractor-simulator-2021-farmer-life.json](./174084-farming-tractor-simulator-2021-farmer-life.json) |
@@ -2940,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ferrum's Secrets: where is grandpa? | 34729 | [34729-ferrums-secrets-where-is-grandpa.json](./34729-ferrums-secrets-where-is-grandpa.json) |
 | Ferrum's Secrets: Where is grandpa? - Collector's edition | 53047 | [53047-ferrums-secrets-where-is-grandpa-collectors-edition.json](./53047-ferrums-secrets-where-is-grandpa-collectors-edition.json) |
 | Ferry Good Day | 391725 | [391725-ferry-good-day.json](./391725-ferry-good-day.json) |
+| Fertiliel: Cupid Simulator | 312460 | [312460-fertiliel-cupid-simulator.json](./312460-fertiliel-cupid-simulator.json) |
 | Ferulorum | 338689 | [338689-ferulorum.json](./338689-ferulorum.json) |
 | Ferus: The Dark Abyss | 385829 | [385829-ferus-the-dark-abyss.json](./385829-ferus-the-dark-abyss.json) |
 | Fervent | 310647 | [310647-fervent.json](./310647-fervent.json) |
@@ -3014,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFF | 219303 | [219303-fff.json](./219303-fff.json) |
 | Ffff You Machine | 349504 | [349504-ffff-you-machine.json](./349504-ffff-you-machine.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
+| FFS: Football Freekick Simulator | 312436 | [312436-ffs-football-freekick-simulator.json](./312436-ffs-football-freekick-simulator.json) |
 | FFX Runner | 8776 | [8776-ffx-runner.json](./8776-ffx-runner.json) |
 | FGTeev Goozy | 167683 | [167683-fgteev-goozy.json](./167683-fgteev-goozy.json) |
 | FhaMazein | 109723 | [109723-fhamazein.json](./109723-fhamazein.json) |
@@ -7116,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever Tunnel | 422084 | [422084-forever-tunnel.json](./422084-forever-tunnel.json) |
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
+| Forever World Cup Simulator | 312437 | [312437-forever-world-cup-simulator.json](./312437-forever-world-cup-simulator.json) |
 | Forever Yours | 418561 | [418561-forever-yours.json](./418561-forever-yours.json) |
 | Forever, watching Perseids | 183931 | [183931-forever-watching-perseids.json](./183931-forever-watching-perseids.json) |
 | Foreveracers | 91328 | [91328-foreveracers.json](./91328-foreveracers.json) |
@@ -8009,6 +8015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Logic | 255248 | [255248-fpv-logic.json](./255248-fpv-logic.json) |
+| FPV Military Kamikaze Drone Simulator | 312438 | [312438-fpv-military-kamikaze-drone-simulator.json](./312438-fpv-military-kamikaze-drone-simulator.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FPV SkyDive: FPV Drone Simulator - Flight School | 276418 | [276418-fpv-skydive-fpv-drone-simulator-flight-school.json](./276418-fpv-skydive-fpv-drone-simulator-flight-school.json) |
 | FPV Speed Drone | 157913 | [157913-fpv-speed-drone.json](./157913-fpv-speed-drone.json) |
