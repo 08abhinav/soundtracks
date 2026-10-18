@@ -4819,6 +4819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechaBlade Hero | 307039 | [307039-mechablade-hero.json](./307039-mechablade-hero.json) |
 | MechaBlight | 390625 | [390625-mechablight.json](./390625-mechablight.json) |
 | Mechachain | 276738 | [276738-mechachain.json](./276738-mechachain.json) |
+| Mechaconda | 348593 | [348593-mechaconda.json](./348593-mechaconda.json) |
 | Mechafare | 393125 | [393125-mechafare.json](./393125-mechafare.json) |
 | Mechajammer | 152269 | [152269-mechajammer.json](./152269-mechajammer.json) |
 | MechaJourney | 369167 | [369167-mechajourney.json](./369167-mechajourney.json) |
@@ -8991,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner 2049er Volume II | 40683 | [40683-miner-2049er-volume-ii.json](./40683-miner-2049er-volume-ii.json) |
 | Miner Clicker | 291477 | [291477-miner-clicker.json](./291477-miner-clicker.json) |
 | Miner Clicker | 387598 | [387598-miner-clicker.json](./387598-miner-clicker.json) |
+| Miner Crysis | 348664 | [348664-miner-crysis.json](./348664-miner-crysis.json) |
 | Miner Disturbance | 56920 | [56920-miner-disturbance.json](./56920-miner-disturbance.json) |
 | Miner Escape: Puzzle Adventure | 296425 | [296425-miner-escape-puzzle-adventure.json](./296425-miner-escape-puzzle-adventure.json) |
 | Miner Gun Builder | 248159 | [248159-miner-gun-builder.json](./248159-miner-gun-builder.json) |
@@ -9004,6 +9006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
 | Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
+| Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
 | Mineracer | 416819 | [416819-mineracer.json](./416819-mineracer.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
@@ -13973,6 +13976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum Magnate | 348585 | [348585-museum-magnate.json](./348585-museum-magnate.json) |
 | Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
 | Museum of All Things | 333238 | [333238-museum-of-all-things.json](./333238-museum-of-all-things.json) |
@@ -15689,6 +15693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Inn | 84272 | [84272-mystic-inn.json](./84272-mystic-inn.json) |
 | Mystic Isles | 154391 | [154391-mystic-isles.json](./154391-mystic-isles.json) |
 | Mystic Journey: Tri Peaks Solitaire | 28763 | [28763-mystic-journey-tri-peaks-solitaire.json](./28763-mystic-journey-tri-peaks-solitaire.json) |
+| Mystic Jumper | 348564 | [348564-mystic-jumper.json](./348564-mystic-jumper.json) |
 | Mystic Kingdom | 137391 | [137391-mystic-kingdom.json](./137391-mystic-kingdom.json) |
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Labyrinth | 295408 | [295408-mystic-labyrinth.json](./295408-mystic-labyrinth.json) |
