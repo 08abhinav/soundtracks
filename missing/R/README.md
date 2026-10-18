@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
+| Reave | 335126 | [335126-reave.json](./335126-reave.json) |
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
 | Reawait | 410490 | [410490-reawait.json](./410490-reawait.json) |
@@ -7154,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
+| Rogue Candy | 335120 | [335120-rogue-candy.json](./335120-rogue-candy.json) |
 | Rogue Cards | 267871 | [267871-rogue-cards.json](./267871-rogue-cards.json) |
 | Rogue Carrier | 409641 | [409641-rogue-carrier.json](./409641-rogue-carrier.json) |
 | Rogue Cell | 373824 | [373824-rogue-cell.json](./373824-rogue-cell.json) |
@@ -7927,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Rootabasis | 422459 | [422459-rootabasis.json](./422459-rootabasis.json) |
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
+| Rootbound | 335047 | [335047-rootbound.json](./335047-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
 | Rooten | 155659 | [155659-rooten.json](./155659-rooten.json) |
 | RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
