@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave No One Behind: la Drang | 152994 | [152994-leave-no-one-behind-la-drang.json](./152994-leave-no-one-behind-la-drang.json) |
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
+| Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
 | Leaves 3 | 394892 | [394892-leaves-3.json](./394892-leaves-3.json) |
 | Leaves: The Journey | 30063 | [30063-leaves-the-journey.json](./30063-leaves-the-journey.json) |
 | Leaves: The Return | 30064 | [30064-leaves-the-return.json](./30064-leaves-the-return.json) |
@@ -5927,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Records: Bloom & Rage - Tape 2 | 314261 | [314261-lost-records-bloom-and-rage-tape-2.json](./314261-lost-records-bloom-and-rage-tape-2.json) |
 | Lost Region | 27107 | [27107-lost-region.json](./27107-lost-region.json) |
 | Lost Relics | 135578 | [135578-lost-relics.json](./135578-lost-relics.json) |
+| Lost Relics | 351384 | [351384-lost-relics.json](./351384-lost-relics.json) |
 | Lost Remnant: Roaches to Riches | 158056 | [158056-lost-remnant-roaches-to-riches.json](./158056-lost-remnant-roaches-to-riches.json) |
 | Lost Remnant: The End Tides | 170902 | [170902-lost-remnant-the-end-tides.json](./170902-lost-remnant-the-end-tides.json) |
 | Lost Remnant: Wherehouse | 163749 | [163749-lost-remnant-wherehouse.json](./163749-lost-remnant-wherehouse.json) |
