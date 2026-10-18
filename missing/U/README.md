@@ -814,6 +814,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
+| Umamusume: Pretty Derby - Party Dash: DLC Vol. 2 - Team Geranium | 361492 | [361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json](./361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json) |
+| Umamusume: Pretty Derby - Party Dash: DLC Vol. 3 - Team Primrose | 361493 | [361493-umamusume-pretty-derby-party-dash-dlc-vol-3-team-primrose.json](./361493-umamusume-pretty-derby-party-dash-dlc-vol-3-team-primrose.json) |
 | UmaNetto. Full Preved! | 252372 | [252372-umanetto-full-preved.json](./252372-umanetto-full-preved.json) |
 | Umatarou Gennarin Daibouken | 151631 | [151631-umatarou-gennarin-daibouken.json](./151631-umatarou-gennarin-daibouken.json) |
 | UMBA | 253823 | [253823-umba.json](./253823-umba.json) |
