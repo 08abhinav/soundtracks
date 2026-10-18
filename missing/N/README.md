@@ -3283,6 +3283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
+| Nightlanders | 351411 | [351411-nightlanders.json](./351411-nightlanders.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
 | Nightlife | 262308 | [262308-nightlife.json](./262308-nightlife.json) |
 | Nightlife Tycoon | 267840 | [267840-nightlife-tycoon.json](./267840-nightlife-tycoon.json) |
@@ -3368,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
 | Nightmare on the Pacific | 216238 | [216238-nightmare-on-the-pacific.json](./216238-nightmare-on-the-pacific.json) |
 | Nightmare Operator | 303003 | [303003-nightmare-operator.json](./303003-nightmare-operator.json) |
+| Nightmare Owl | 351425 | [351425-nightmare-owl.json](./351425-nightmare-owl.json) |
 | Nightmare Pick | 374925 | [374925-nightmare-pick.json](./374925-nightmare-pick.json) |
 | Nightmare Pop | 89415 | [89415-nightmare-pop.json](./89415-nightmare-pop.json) |
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
