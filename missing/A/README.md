@@ -1344,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
 | Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
 | Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
+| Abolish | 319420 | [319420-abolish.json](./319420-abolish.json) |
 | Abomi Nation | 128291 | [128291-abomi-nation.json](./128291-abomi-nation.json) |
 | Abomi Nation: Monster Rifts | 315683 | [315683-abomi-nation-monster-rifts.json](./315683-abomi-nation-monster-rifts.json) |
 | Abomin-Agency! | 312658 | [312658-abomin-agency.json](./312658-abomin-agency.json) |
@@ -5367,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along the Edge | 32136 | [32136-along-the-edge.json](./32136-along-the-edge.json) |
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
 | Along the River During the Qingming Festival | 295384 | [295384-along-the-river-during-the-qingming-festival.json](./295384-along-the-river-during-the-qingming-festival.json) |
+| AlongLong Road | 319415 | [319415-alonglong-road.json](./319415-alonglong-road.json) |
 | Alongside | 243599 | [243599-alongside.json](./243599-alongside.json) |
 | Alonitaire | 387150 | [387150-alonitaire.json](./387150-alonitaire.json) |
 | Alox Poker | 219766 | [219766-alox-poker.json](./219766-alox-poker.json) |
@@ -7350,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
+| Anipang Matchlike | 319436 | [319436-anipang-matchlike.json](./319436-anipang-matchlike.json) |
 | Aniquilation | 132152 | [132152-aniquilation.json](./132152-aniquilation.json) |
 | Aniquiz | 409619 | [409619-aniquiz.json](./409619-aniquiz.json) |
 | Anise Flowers | 185129 | [185129-anise-flowers.json](./185129-anise-flowers.json) |
@@ -8045,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Arai Shouji | 210825 | [210825-apathy-arai-shouji.json](./210825-apathy-arai-shouji.json) |
 | Apathy: Arai Shouji - DLC | 358497 | [358497-apathy-arai-shouji-dlc.json](./358497-apathy-arai-shouji-dlc.json) |
 | Apathy: Danshikou de Atta Kowai Hanashi | 342810 | [342810-apathy-danshikou-de-atta-kowai-hanashi.json](./342810-apathy-danshikou-de-atta-kowai-hanashi.json) |
+| Apathy: Gakkou de Atta Kowai Hanashi - 1995 Tokubetsu-hen | 319434 | [319434-apathy-gakkou-de-atta-kowai-hanashi-1995-tokubetsu-hen.json](./319434-apathy-gakkou-de-atta-kowai-hanashi-1995-tokubetsu-hen.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Himitsu | 212257 | [212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json](./212257-apathy-gakkou-de-atta-kowai-hanashi-himitsu.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Kiwame | 212259 | [212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json](./212259-apathy-gakkou-de-atta-kowai-hanashi-kiwame.json) |
 | Apathy: Gakkou de Atta Kowai Hanashi - Shinsei 2 | 212256 | [212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json](./212256-apathy-gakkou-de-atta-kowai-hanashi-shinsei-2.json) |
@@ -9307,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
 | Archetypal Destroyer | 339311 | [339311-archetypal-destroyer.json](./339311-archetypal-destroyer.json) |
 | Archetype | 80584 | [80584-archetype.json](./80584-archetype.json) |
+| Archetype and the Four Winds of Hell | 319423 | [319423-archetype-and-the-four-winds-of-hell.json](./319423-archetype-and-the-four-winds-of-hell.json) |
 | Archetype Arcadia | 155082 | [155082-archetype-arcadia.json](./155082-archetype-arcadia.json) |
 | Archetypes: The Rite of Passage | 211439 | [211439-archetypes-the-rite-of-passage.json](./211439-archetypes-the-rite-of-passage.json) |
 | Archewood | 176204 | [176204-archewood.json](./176204-archewood.json) |
@@ -11694,6 +11699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ataxia | 259841 | [259841-ataxia.json](./259841-ataxia.json) |
 | Ataxx | 14480 | [14480-ataxx.json](./14480-ataxx.json) |
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
+| ATC Ground Point | 319410 | [319410-atc-ground-point.json](./319410-atc-ground-point.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
 | ATCo2 | 214115 | [214115-atco2.json](./214115-atco2.json) |
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
