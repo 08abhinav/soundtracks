@@ -7066,9 +7066,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classified: France '44 | 253409 | [253409-classified-france-44.json](./253409-classified-france-44.json) |
 | Classified: France '44 - Agent | 309658 | [309658-classified-france-44-agent.json](./309658-classified-france-44-agent.json) |
 | Classified: France '44 - Deluxe Edition | 289557 | [289557-classified-france-44-deluxe-edition.json](./289557-classified-france-44-deluxe-edition.json) |
+| Classified: France '44 - Devils | 318831 | [318831-classified-france-44-devils.json](./318831-classified-france-44-devils.json) |
 | Classified: France '44 - Guerrilla | 289856 | [289856-classified-france-44-guerrilla.json](./289856-classified-france-44-guerrilla.json) |
 | Classified: France '44 - Resistance Kit | 289857 | [289857-classified-france-44-resistance-kit.json](./289857-classified-france-44-resistance-kit.json) |
 | Classified: France '44 - Season Pass | 289858 | [289858-classified-france-44-season-pass.json](./289858-classified-france-44-season-pass.json) |
+| Classified: France '44 - Season Pass Upgrade Pack | 318832 | [318832-classified-france-44-season-pass-upgrade-pack.json](./318832-classified-france-44-season-pass-upgrade-pack.json) |
 | Classified: France '44 - Talon | 316378 | [316378-classified-france-44-talon.json](./316378-classified-france-44-talon.json) |
 | Classified: France '44: Overlord Edition | 289415 | [289415-classified-france-44-overlord-edition.json](./289415-classified-france-44-overlord-edition.json) |
 | Classified: The Sentinel Crisis | 5777 | [5777-classified-the-sentinel-crisis.json](./5777-classified-the-sentinel-crisis.json) |
@@ -10330,12 +10332,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
 | Cool Herders | 45813 | [45813-cool-herders.json](./45813-cool-herders.json) |
 | Cool Kid Cody | 195175 | [195175-cool-kid-cody.json](./195175-cool-kid-cody.json) |
+| Cool Kid Cody: Season 1 - Episode 02 | 318834 | [318834-cool-kid-cody-season-1-episode-02.json](./318834-cool-kid-cody-season-1-episode-02.json) |
+| Cool Kid Cody: Season 1 - Episode 03 | 318835 | [318835-cool-kid-cody-season-1-episode-03.json](./318835-cool-kid-cody-season-1-episode-03.json) |
+| Cool Kid Cody: Season 1 - Episode 04 | 318836 | [318836-cool-kid-cody-season-1-episode-04.json](./318836-cool-kid-cody-season-1-episode-04.json) |
+| Cool Kid Cody: Season 1 - Episode 05 | 318838 | [318838-cool-kid-cody-season-1-episode-05.json](./318838-cool-kid-cody-season-1-episode-05.json) |
+| Cool Kid Cody: Season 1 - Episode 06 | 318839 | [318839-cool-kid-cody-season-1-episode-06.json](./318839-cool-kid-cody-season-1-episode-06.json) |
 | Cool Kid Cody: Season 1 - Episode 07 | 202732 | [202732-cool-kid-cody-season-1-episode-07.json](./202732-cool-kid-cody-season-1-episode-07.json) |
 | Cool Kid Cody: Season 1 - Episode 10 | 204960 | [204960-cool-kid-cody-season-1-episode-10.json](./204960-cool-kid-cody-season-1-episode-10.json) |
+| Cool Kid Cody: Season 2 - Episode 01 | 318840 | [318840-cool-kid-cody-season-2-episode-01.json](./318840-cool-kid-cody-season-2-episode-01.json) |
 | Cool Kid Cody: Season 2 - Episode 02 | 247660 | [247660-cool-kid-cody-season-2-episode-02.json](./247660-cool-kid-cody-season-2-episode-02.json) |
 | Cool Kid Cody: Season 2 - Episode 03 | 246854 | [246854-cool-kid-cody-season-2-episode-03.json](./246854-cool-kid-cody-season-2-episode-03.json) |
 | Cool Kid Cody: Season 2 - Episode 04 | 248017 | [248017-cool-kid-cody-season-2-episode-04.json](./248017-cool-kid-cody-season-2-episode-04.json) |
 | Cool Kid Cody: Season 2 - Episode 05 | 248816 | [248816-cool-kid-cody-season-2-episode-05.json](./248816-cool-kid-cody-season-2-episode-05.json) |
+| Cool Kid Cody: Season 2 - Episode 07 | 318841 | [318841-cool-kid-cody-season-2-episode-07.json](./318841-cool-kid-cody-season-2-episode-07.json) |
+| Cool Kid Cody: Season 2 - Episode 08 | 318842 | [318842-cool-kid-cody-season-2-episode-08.json](./318842-cool-kid-cody-season-2-episode-08.json) |
 | Cool Kid Cody: Season 2 - Episode 09 | 253977 | [253977-cool-kid-cody-season-2-episode-09.json](./253977-cool-kid-cody-season-2-episode-09.json) |
 | Cool Kid Cody: Season 2 - Episode 10 | 252693 | [252693-cool-kid-cody-season-2-episode-10.json](./252693-cool-kid-cody-season-2-episode-10.json) |
 | Cool Kid Cody: Season 3 - Episode 01 | 296596 | [296596-cool-kid-cody-season-3-episode-01.json](./296596-cool-kid-cody-season-3-episode-01.json) |
@@ -10345,6 +10355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Kid Cody: Season 3 - Episode 06 | 302585 | [302585-cool-kid-cody-season-3-episode-06.json](./302585-cool-kid-cody-season-3-episode-06.json) |
 | Cool Kid Cody: Season 3 - Episode 07 | 302586 | [302586-cool-kid-cody-season-3-episode-07.json](./302586-cool-kid-cody-season-3-episode-07.json) |
 | Cool Kid Cody: Season 3 - Episode 09 | 312007 | [312007-cool-kid-cody-season-3-episode-09.json](./312007-cool-kid-cody-season-3-episode-09.json) |
+| Cool Kid Cody: Season 3 - Episode 10 | 318848 | [318848-cool-kid-cody-season-3-episode-10.json](./318848-cool-kid-cody-season-3-episode-10.json) |
 | Cool Lady | 259026 | [259026-cool-lady.json](./259026-cool-lady.json) |
 | Cool Moves Fishing | 19205 | [19205-cool-moves-fishing.json](./19205-cool-moves-fishing.json) |
 | Cool People Club | 211762 | [211762-cool-people-club.json](./211762-cool-people-club.json) |
