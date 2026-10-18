@@ -3714,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Exploration | 177807 | [177807-liminal-exploration.json](./177807-liminal-exploration.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Game | 341082 | [341082-liminal-game.json](./341082-liminal-game.json) |
+| Liminal Industries | 359721 | [359721-liminal-industries.json](./359721-liminal-industries.json) |
 | Liminal Lands | 249898 | [249898-liminal-lands.json](./249898-liminal-lands.json) |
 | Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
 | Liminal Leap | 343432 | [343432-liminal-leap.json](./343432-liminal-leap.json) |
