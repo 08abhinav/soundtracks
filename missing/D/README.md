@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkShine | 356295 | [356295-darkshine.json](./356295-darkshine.json) |
 | Darkside | 60515 | [60515-darkside.json](./60515-darkside.json) |
 | Darkside | 78657 | [78657-darkside.json](./78657-darkside.json) |
+| Darkside Adventures: A Game with a Kitty 2 | 313564 | [313564-darkside-adventures-a-game-with-a-kitty-2.json](./313564-darkside-adventures-a-game-with-a-kitty-2.json) |
 | Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
 | Darksiders II: Season Pass | 343755 | [343755-darksiders-ii-season-pass.json](./343755-darksiders-ii-season-pass.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Star Adventure | 25588 | [25588-dog-star-adventure.json](./25588-dog-star-adventure.json) |
 | Dog Trainer | 132797 | [132797-dog-trainer.json](./132797-dog-trainer.json) |
 | Dog Veterinary: Training Hospital Near Me | 328551 | [328551-dog-veterinary-training-hospital-near-me.json](./328551-dog-veterinary-training-hospital-near-me.json) |
+| Dog vs Cat Othello | 313537 | [313537-dog-vs-cat-othello.json](./313537-dog-vs-cat-othello.json) |
 | Dog Walking Adventures | 319861 | [319861-dog-walking-adventures.json](./319861-dog-walking-adventures.json) |
 | Dog Walking, Dog Running, and Dog Still | 135783 | [135783-dog-walking-dog-running-and-dog-still.json](./135783-dog-walking-dog-running-and-dog-still.json) |
 | Dog Wash! | 225656 | [225656-dog-wash.json](./225656-dog-wash.json) |
@@ -10083,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DQ Tycoon | 52515 | [52515-dq-tycoon.json](./52515-dq-tycoon.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
 | Dr Carter and the Wheels of Salvation | 71977 | [71977-dr-carter-and-the-wheels-of-salvation.json](./71977-dr-carter-and-the-wheels-of-salvation.json) |
+| Dr Dokkoy | 313541 | [313541-dr-dokkoy.json](./313541-dr-dokkoy.json) |
 | Dr Goo | 333706 | [333706-dr-goo.json](./333706-dr-goo.json) |
 | Dr GreenStuff | 75216 | [75216-dr-greenstuff.json](./75216-dr-greenstuff.json) |
 | Dr Iwan | 167598 | [167598-dr-iwan.json](./167598-dr-iwan.json) |
@@ -12591,6 +12594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
+| Ducky: The Brave | 313577 | [313577-ducky-the-brave.json](./313577-ducky-the-brave.json) |
 | Ducky's Delivery Service | 241902 | [241902-duckys-delivery-service.json](./241902-duckys-delivery-service.json) |
 | Duco | 408956 | [408956-duco.json](./408956-duco.json) |
 | Duct Tape Simulator | 215875 | [215875-duct-tape-simulator.json](./215875-duct-tape-simulator.json) |
