@@ -2622,6 +2622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Boy: Màoxiǎn Xiǎozi | 128553 | [128553-adventurous-boy-maoxian-xiaozi.json](./128553-adventurous-boy-maoxian-xiaozi.json) |
 | Adventurous Hearts | 231426 | [231426-adventurous-hearts.json](./231426-adventurous-hearts.json) |
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
+| Adventurous Slime | 337507 | [337507-adventurous-slime.json](./337507-adventurous-slime.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
+| Aerial Lockdown | 337421 | [337421-aerial-lockdown.json](./337421-aerial-lockdown.json) |
 | Aerial Mini | 339695 | [339695-aerial-mini.json](./339695-aerial-mini.json) |
 | Aerial Nature Jigsaw Puzzles | 267854 | [267854-aerial-nature-jigsaw-puzzles.json](./267854-aerial-nature-jigsaw-puzzles.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 1 | 270203 | [270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json](./270203-aerial-nature-jigsaw-puzzles-expansion-pack-1.json) |
