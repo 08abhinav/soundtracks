@@ -1240,6 +1240,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.2 | 328839 | [328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json](./328839-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-2.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.3 | 304806 | [304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json](./304806-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-3.json) |
 | Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.4 | 304807 | [304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json](./304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.5 | 328840 | [328840-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-5.json](./328840-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-5.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.6 | 328841 | [328841-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-6.json](./328841-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-6.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.7 | 328842 | [328842-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-7.json](./328842-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-7.json) |
+| Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.8 | 328843 | [328843-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-8.json](./328843-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-8.json) |
 | Jigsaw Masterpieces EX: Kawaii Cute Goddesses | 173123 | [173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json](./173123-jigsaw-masterpieces-ex-kawaii-cute-goddesses.json) |
 | Jigsaw Masterpieces: Animals in Snow | 226329 | [226329-jigsaw-masterpieces-animals-in-snow.json](./226329-jigsaw-masterpieces-animals-in-snow.json) |
 | Jigsaw Masterpieces: Beautiful Castles in Japan | 238219 | [238219-jigsaw-masterpieces-beautiful-castles-in-japan.json](./238219-jigsaw-masterpieces-beautiful-castles-in-japan.json) |
