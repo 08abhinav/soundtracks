@@ -8769,6 +8769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
+| Mindbreak Mansion | 320038 | [320038-mindbreak-mansion.json](./320038-mindbreak-mansion.json) |
 | Mindbuster | 90925 | [90925-mindbuster.json](./90925-mindbuster.json) |
 | MindCelium | 336329 | [336329-mindcelium.json](./336329-mindcelium.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
@@ -16004,6 +16005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythlands: Dragon Flight VR | 214178 | [214178-mythlands-dragon-flight-vr.json](./214178-mythlands-dragon-flight-vr.json) |
 | Mythlands: Dragon Racing | 107084 | [107084-mythlands-dragon-racing.json](./107084-mythlands-dragon-racing.json) |
 | Mythlink | 28881 | [28881-mythlink.json](./28881-mythlink.json) |
+| Mytho Duel | 320042 | [320042-mytho-duel.json](./320042-mytho-duel.json) |
 | Mythology | 50378 | [50378-mythology.json](./50378-mythology.json) |
 | MythoMania | 419981 | [419981-mythomania.json](./419981-mythomania.json) |
 | Mython Island | 141840 | [141840-mython-island.json](./141840-mython-island.json) |
