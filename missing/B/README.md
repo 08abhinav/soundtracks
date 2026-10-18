@@ -3118,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
+| BattleGroupVR2 | 344170 | [344170-battlegroupvr2.json](./344170-battlegroupvr2.json) |
 | BattleGuild | 251816 | [251816-battleguild.json](./251816-battleguild.json) |
 | Battlegun | 52276 | [52276-battlegun.json](./52276-battlegun.json) |
 | BattleHand Heroes | 102671 | [102671-battlehand-heroes.json](./102671-battlehand-heroes.json) |
@@ -5920,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
 | Biophilia | 25029 | [25029-biophilia.json](./25029-biophilia.json) |
 | Biophobia | 343832 | [343832-biophobia.json](./343832-biophobia.json) |
+| Bioprototype | 344140 | [344140-bioprototype.json](./344140-bioprototype.json) |
 | Biorage | 367035 | [367035-biorage.json](./367035-biorage.json) |
 | Biorhythm | 170531 | [170531-biorhythm.json](./170531-biorhythm.json) |
 | Biorhythm | 78373 | [78373-biorhythm.json](./78373-biorhythm.json) |
@@ -9368,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Blast | 108220 | [108220-boom-blast.json](./108220-boom-blast.json) |
 | Boom Blaster | 100891 | [100891-boom-blaster.json](./100891-boom-blaster.json) |
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
+| Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
@@ -9486,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Master | 191852 | [191852-booze-master.json](./191852-booze-master.json) |
 | Booze Masters: Freezing Moonshine | 119092 | [119092-booze-masters-freezing-moonshine.json](./119092-booze-masters-freezing-moonshine.json) |
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
+| Booze Shop Simulator | 344233 | [344233-booze-shop-simulator.json](./344233-booze-shop-simulator.json) |
 | BoozeBall | 219726 | [219726-boozeball.json](./219726-boozeball.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
