@@ -3728,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2.5 | 375361 | [375361-seifuku-kanojo-2-5.json](./375361-seifuku-kanojo-2-5.json) |
 | Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
+| Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
 | Seigimatsu II: Special Attack Devil | 47535 | [47535-seigimatsu-ii-special-attack-devil.json](./47535-seigimatsu-ii-special-attack-devil.json) |
 | Seijundrop | 252176 | [252176-seijundrop.json](./252176-seijundrop.json) |
@@ -3828,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Destruct | 358635 | [358635-self-destruct.json](./358635-self-destruct.json) |
 | Self Gunsbase | 149386 | [149386-self-gunsbase.json](./149386-self-gunsbase.json) |
+| Self Layout Shooter | 331194 | [331194-self-layout-shooter.json](./331194-self-layout-shooter.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
@@ -7313,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege: The Card Game | 33895 | [33895-siege-the-card-game.json](./33895-siege-the-card-game.json) |
 | Siege: World War II | 233404 | [233404-siege-world-war-ii.json](./233404-siege-world-war-ii.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
+| Siegecaster | 331169 | [331169-siegecaster.json](./331169-siegecaster.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
@@ -9479,6 +9482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Terror | 292309 | [292309-sleep-terror.json](./292309-sleep-terror.json) |
 | Sleep Tight | 144258 | [144258-sleep-tight.json](./144258-sleep-tight.json) |
 | Sleep Tight | 75866 | [75866-sleep-tight.json](./75866-sleep-tight.json) |
+| Sleep Walk | 331170 | [331170-sleep-walk.json](./331170-sleep-walk.json) |
 | Sleep Walker | 305471 | [305471-sleep-walker.json](./305471-sleep-walker.json) |
 | Sleep When I'm Dead | 140918 | [140918-sleep-when-im-dead.json](./140918-sleep-when-im-dead.json) |
 | sleep_mode | 384331 | [384331-sleep-mode.json](./384331-sleep-mode.json) |
@@ -12363,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
 | Sonic Attitude | 331740 | [331740-sonic-attitude.json](./331740-sonic-attitude.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
+| Sonic Avalanche | 331152 | [331152-sonic-avalanche.json](./331152-sonic-avalanche.json) |
 | Sonic Axiom | 325848 | [325848-sonic-axiom.json](./325848-sonic-axiom.json) |
 | Sonic Babies | 326840 | [326840-sonic-babies.json](./326840-sonic-babies.json) |
 | Sonic Bang | 326832 | [326832-sonic-bang.json](./326832-sonic-bang.json) |
@@ -12627,6 +12632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
+| Sonic Parallatic Adventure | 331090 | [331090-sonic-parallatic-adventure.json](./331090-sonic-parallatic-adventure.json) |
 | Sonic PC | 300013 | [300013-sonic-pc.json](./300013-sonic-pc.json) |
 | Sonic PC Collection | 64327 | [64327-sonic-pc-collection.json](./64327-sonic-pc-collection.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
@@ -12885,6 +12891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Ultra 3 | 330868 | [330868-sonic-ultra-3.json](./330868-sonic-ultra-3.json) |
 | Sonic Ultra Compilation II | 330870 | [330870-sonic-ultra-compilation-ii.json](./330870-sonic-ultra-compilation-ii.json) |
 | Sonic Ultra X | 330869 | [330869-sonic-ultra-x.json](./330869-sonic-ultra-x.json) |
+| Sonic Ultra: The Return | 331087 | [331087-sonic-ultra-the-return.json](./331087-sonic-ultra-the-return.json) |
 | Sonic Unite | 336359 | [336359-sonic-unite.json](./336359-sonic-unite.json) |
 | Sonic Universe 2 | 299877 | [299877-sonic-universe-2.json](./299877-sonic-universe-2.json) |
 | Sonic Universe Adventure | 326824 | [326824-sonic-universe-adventure.json](./326824-sonic-universe-adventure.json) |
@@ -12977,6 +12984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Exe Game | 417606 | [417606-sonic-the-exe-game.json](./417606-sonic-the-exe-game.json) |
 | Sonic: The Last Strike | 330783 | [330783-sonic-the-last-strike.json](./330783-sonic-the-last-strike.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
+| Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
@@ -12998,6 +13006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonicE | 330709 | [330709-sonice.json](./330709-sonice.json) |
 | SonicN | 175927 | [175927-sonicn.json](./175927-sonicn.json) |
 | Sonik Adventure | 330875 | [330875-sonik-adventure.json](./330875-sonik-adventure.json) |
+| Sonikku Dance Dance Revolution | 331089 | [331089-sonikku-dance-dance-revolution.json](./331089-sonikku-dance-dance-revolution.json) |
 | SoniPro | 61906 | [61906-sonipro.json](./61906-sonipro.json) |
 | Sonki's Lagoon | 391193 | [391193-sonkis-lagoon.json](./391193-sonkis-lagoon.json) |
 | SonKnuck Adventure 3 | 326805 | [326805-sonknuck-adventure-3.json](./326805-sonknuck-adventure-3.json) |
@@ -15704,6 +15713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
+| Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
@@ -18021,6 +18031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Overkill | 261160 | [261160-starfighter-overkill.json](./261160-starfighter-overkill.json) |
 | StarFighter R&D HD Edition | 134689 | [134689-starfighter-r-and-d-hd-edition.json](./134689-starfighter-r-and-d-hd-edition.json) |
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
+| Starfighter: Disputed Galaxy | 331174 | [331174-starfighter-disputed-galaxy.json](./331174-starfighter-disputed-galaxy.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfire Skies | 262868 | [262868-starfire-skies.json](./262868-starfire-skies.json) |
@@ -20431,6 +20442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
+| Stretchmancer | 331185 | [331185-stretchmancer.json](./331185-stretchmancer.json) |
 | Stretchy Adventure | 319957 | [319957-stretchy-adventure.json](./319957-stretchy-adventure.json) |
 | Stretchy-Man: The Video Game | 190234 | [190234-stretchy-man-the-video-game.json](./190234-stretchy-man-the-video-game.json) |
 | Strewn Runes | 187273 | [187273-strewn-runes.json](./187273-strewn-runes.json) |
