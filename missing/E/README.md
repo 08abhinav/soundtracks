@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Khoshima | 12994 | [12994-escape-from-khoshima.json](./12994-escape-from-khoshima.json) |
 | Escape From Kiss | 348896 | [348896-escape-from-kiss.json](./348896-escape-from-kiss.json) |
 | Escape from Labyrinth | 121457 | [121457-escape-from-labyrinth.json](./121457-escape-from-labyrinth.json) |
+| Escape From Lava | 343051 | [343051-escape-from-lava.json](./343051-escape-from-lava.json) |
 | Escape From Lavender Island | 235991 | [235991-escape-from-lavender-island.json](./235991-escape-from-lavender-island.json) |
 | Escape From Lavender Town | 198333 | [198333-escape-from-lavender-town.json](./198333-escape-from-lavender-town.json) |
 | Escape from LaVille 2 | 95343 | [95343-escape-from-laville-2.json](./95343-escape-from-laville-2.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
 | Escape the Maze | 366117 | [366117-escape-the-maze.json](./366117-escape-the-maze.json) |
 | Escape the Mazes | 90483 | [90483-escape-the-mazes.json](./90483-escape-the-mazes.json) |
+| Escape the MonStalkers! | 343042 | [343042-escape-the-monstalkers.json](./343042-escape-the-monstalkers.json) |
 | Escape the Museum | 6668 | [6668-escape-the-museum.json](./6668-escape-the-museum.json) |
 | Escape the Museum 2 | 143483 | [143483-escape-the-museum-2.json](./143483-escape-the-museum-2.json) |
 | Escape the Office | 100729 | [100729-escape-the-office.json](./100729-escape-the-office.json) |
@@ -5395,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Lab Expert Level | 390493 | [390493-exit-lab-expert-level.json](./390493-exit-lab-expert-level.json) |
 | Exit Lab Intermediate Level | 390492 | [390492-exit-lab-intermediate-level.json](./390492-exit-lab-intermediate-level.json) |
 | Exit Limbo: Opening | 120725 | [120725-exit-limbo-opening.json](./120725-exit-limbo-opening.json) |
+| Exit Loops: Street 001 | 343058 | [343058-exit-loops-street-001.json](./343058-exit-loops-street-001.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
