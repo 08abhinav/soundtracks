@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Marauders | 157386 | [157386-void-marauders.json](./157386-void-marauders.json) |
 | Void Martyrs | 335686 | [335686-void-martyrs.json](./335686-void-martyrs.json) |
 | Void Memory | 74618 | [74618-void-memory.json](./74618-void-memory.json) |
+| Void Miner | 346911 | [346911-void-miner.json](./346911-void-miner.json) |
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
