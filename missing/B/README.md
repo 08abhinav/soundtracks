@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
 | Banana | 95469 | [95469-banana.json](./95469-banana.json) |
 | Banana & Tomato | 311764 | [311764-banana-and-tomato.json](./311764-banana-and-tomato.json) |
+| Banana 2 | 311850 | [311850-banana-2.json](./311850-banana-2.json) |
 | Banana 2: Fruit | 314429 | [314429-banana-2-fruit.json](./314429-banana-2-fruit.json) |
 | Banana 3D | 338190 | [338190-banana-3d.json](./338190-banana-3d.json) |
 | Banana Attack VR | 234196 | [234196-banana-attack-vr.json](./234196-banana-attack-vr.json) |
@@ -2445,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baten Kaitos I & II HD Remaster | 236711 | [236711-baten-kaitos-i-and-ii-hd-remaster.json](./236711-baten-kaitos-i-and-ii-hd-remaster.json) |
 | Baten Kaitos Origins | 3796 | [3796-baten-kaitos-origins.json](./3796-baten-kaitos-origins.json) |
 | Bath House Simulator | 326471 | [326471-bath-house-simulator.json](./326471-bath-house-simulator.json) |
+| BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathos | 92842 | [92842-bathos.json](./92842-bathos.json) |
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
@@ -4069,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
+| Beatrect | 311897 | [311897-beatrect.json](./311897-beatrect.json) |
 | Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
 | Beatris | 75949 | [75949-beatris.json](./75949-beatris.json) |
@@ -5163,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Harbor: R | 212251 | [212251-beyond-the-harbor-r.json](./212251-beyond-the-harbor-r.json) |
 | Beyond the Heavens | 104535 | [104535-beyond-the-heavens.json](./104535-beyond-the-heavens.json) |
 | Beyond the Horizon | 51984 | [51984-beyond-the-horizon.json](./51984-beyond-the-horizon.json) |
+| Beyond the Hours | 311885 | [311885-beyond-the-hours.json](./311885-beyond-the-hours.json) |
 | Beyond the Ice Palace | 11958 | [11958-beyond-the-ice-palace.json](./11958-beyond-the-ice-palace.json) |
 | Beyond the Ice Palace II | 297231 | [297231-beyond-the-ice-palace-ii.json](./297231-beyond-the-ice-palace-ii.json) |
 | Beyond the Illusions | 387324 | [387324-beyond-the-illusions.json](./387324-beyond-the-illusions.json) |
@@ -10355,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
+| Boxville 2 | 311892 | [311892-boxville-2.json](./311892-boxville-2.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
 | Boxville: Collector's Edition | 230807 | [230807-boxville-collectors-edition.json](./230807-boxville-collectors-edition.json) |
 | BoxVR | 91208 | [91208-boxvr.json](./91208-boxvr.json) |
