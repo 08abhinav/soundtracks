@@ -5642,6 +5642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lose Your Marbles | 70330 | [70330-lose-your-marbles.json](./70330-lose-your-marbles.json) |
 | Lose/Lose | 201150 | [201150-lose-lose.json](./201150-lose-lose.json) |
 | Lose95 | 227216 | [227216-lose95.json](./227216-lose95.json) |
+| Losen Screws Puzzles | 329446 | [329446-losen-screws-puzzles.json](./329446-losen-screws-puzzles.json) |
 | Loser Got Isekai’d: Gotta Conquer the Girls Before Conquering the World | 395466 | [395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json](./395466-loser-got-isekai-d-gotta-conquer-the-girls-before-conquering-the-world.json) |
 | Loser Named Hana | 373880 | [373880-loser-named-hana.json](./373880-loser-named-hana.json) |
 | Loser Reborn | 122179 | [122179-loser-reborn.json](./122179-loser-reborn.json) |
@@ -6389,6 +6390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
 | Love, Internet, and Murder Magic | 328013 | [328013-love-internet-and-murder-magic.json](./328013-love-internet-and-murder-magic.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
+| Love, Money, Rock'n'Roll: Summer '94 | 329337 | [329337-love-money-rocknroll-summer-94.json](./329337-love-money-rocknroll-summer-94.json) |
 | Love, Peace, and Roseleaf | 417701 | [417701-love-peace-and-roseleaf.json](./417701-love-peace-and-roseleaf.json) |
 | Love, Sam | 118986 | [118986-love-sam.json](./118986-love-sam.json) |
 | Love: A Puzzle Box Filled with Stories | 139280 | [139280-love-a-puzzle-box-filled-with-stories.json](./139280-love-a-puzzle-box-filled-with-stories.json) |
@@ -7179,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurruna: The Island of Towering Automatons | 397952 | [397952-lurruna-the-island-of-towering-automatons.json](./397952-lurruna-the-island-of-towering-automatons.json) |
 | LUS: Last Unit Standing | 247983 | [247983-lus-last-unit-standing.json](./247983-lus-last-unit-standing.json) |
 | Lusa the Cathead | 316350 | [316350-lusa-the-cathead.json](./316350-lusa-the-cathead.json) |
+| Lush Forest | 329428 | [329428-lush-forest.json](./329428-lush-forest.json) |
 | Lushfoil Photography Sim | 189934 | [189934-lushfoil-photography-sim.json](./189934-lushfoil-photography-sim.json) |
 | Lushfoil Photography Sim VR | 360776 | [360776-lushfoil-photography-sim-vr.json](./360776-lushfoil-photography-sim-vr.json) |
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
