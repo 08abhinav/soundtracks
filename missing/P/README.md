@@ -4718,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
+| Pikmin 2 Deluxe | 314134 | [314134-pikmin-2-deluxe.json](./314134-pikmin-2-deluxe.json) |
 | Pikmin 2 Hallows Haunt | 291158 | [291158-pikmin-2-hallows-haunt.json](./291158-pikmin-2-hallows-haunt.json) |
 | Pikmin 2 Infernal Edition | 281009 | [281009-pikmin-2-infernal-edition.json](./281009-pikmin-2-infernal-edition.json) |
 | Pikmin 2 Kaizo Edition | 291560 | [291560-pikmin-2-kaizo-edition.json](./291560-pikmin-2-kaizo-edition.json) |
@@ -4734,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 3 | 2241 | [2241-pikmin-3.json](./2241-pikmin-3.json) |
 | Pikmin 3 Deluxe | 136498 | [136498-pikmin-3-deluxe.json](./136498-pikmin-3-deluxe.json) |
 | Pikmin 3 DX: Caves Reborn | 313484 | [313484-pikmin-3-dx-caves-reborn.json](./313484-pikmin-3-dx-caves-reborn.json) |
+| Pikmin 3: Extra Side of Stories | 314133 | [314133-pikmin-3-extra-side-of-stories.json](./314133-pikmin-3-extra-side-of-stories.json) |
 | Pikmin 4 | 59843 | [59843-pikmin-4.json](./59843-pikmin-4.json) |
 | Pikmin Bloom | 178290 | [178290-pikmin-bloom.json](./178290-pikmin-bloom.json) |
 | Pikmin Finder | 264892 | [264892-pikmin-finder.json](./264892-pikmin-finder.json) |
@@ -4791,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
+| Pikmin: New Fortune | 314135 | [314135-pikmin-new-fortune.json](./314135-pikmin-new-fortune.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Pikmin.com SpaceForce | 312310 | [312310-pikmin-com-spaceforce.json](./312310-pikmin-com-spaceforce.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
