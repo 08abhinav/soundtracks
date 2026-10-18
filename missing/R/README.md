@@ -7894,6 +7894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomie Romance | 82094 | [82094-roomie-romance.json](./82094-roomie-romance.json) |
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
+| Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
