@@ -2065,7 +2065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fart King | 338558 | [338558-fart-king.json](./338558-fart-king.json) |
 | Fart Up | 299455 | [299455-fart-up.json](./299455-fart-up.json) |
 | Fartcore | 374946 | [374946-fartcore.json](./374946-fartcore.json) |
-| Farthest Frontier | 142688 | [142688-farthest-frontier.json](./142688-farthest-frontier.json) |
 | Farting Simulator | 315285 | [315285-farting-simulator.json](./315285-farting-simulator.json) |
 | Fartonauts | 348358 | [348358-fartonauts.json](./348358-fartonauts.json) |
 | Farwake | 403666 | [403666-farwake.json](./403666-farwake.json) |
@@ -2889,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
+| Ferra | 344144 | [344144-ferra.json](./344144-ferra.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259269 | [259269-ferrari-challenge-trofeo-pirelli.json](./259269-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 259270 | [259270-ferrari-challenge-trofeo-pirelli.json](./259270-ferrari-challenge-trofeo-pirelli.json) |
 | Ferrari Challenge: Trofeo Pirelli | 4855 | [4855-ferrari-challenge-trofeo-pirelli.json](./4855-ferrari-challenge-trofeo-pirelli.json) |
@@ -3782,7 +3782,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
-| Final Fantasy: Brave Exvius | 19334 | [19334-final-fantasy-brave-exvius.json](./19334-final-fantasy-brave-exvius.json) |
 | Final Fantasy: Crystal Chronicles | 412 | [412-final-fantasy-crystal-chronicles.json](./412-final-fantasy-crystal-chronicles.json) |
 | Final Fantasy: Crystal Chronicles - Echoes of Time | 23016 | [23016-final-fantasy-crystal-chronicles-echoes-of-time.json](./23016-final-fantasy-crystal-chronicles-echoes-of-time.json) |
 | Final Fantasy: Crystal Chronicles - My Life as a King | 21054 | [21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json](./21054-final-fantasy-crystal-chronicles-my-life-as-a-king.json) |
