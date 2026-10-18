@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
 | Madness of the Coastal Structure | 183340 | [183340-madness-of-the-coastal-structure.json](./183340-madness-of-the-coastal-structure.json) |
 | Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
+| Madness on Display | 327670 | [327670-madness-on-display.json](./327670-madness-on-display.json) |
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
@@ -9223,6 +9224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Star Retro Golf Game | 104695 | [104695-mini-golf-star-retro-golf-game.json](./104695-mini-golf-star-retro-golf-game.json) |
 | Mini Golf Worlds | 245799 | [245799-mini-golf-worlds.json](./245799-mini-golf-worlds.json) |
 | Mini Golf Worlds VR | 186810 | [186810-mini-golf-worlds-vr.json](./186810-mini-golf-worlds-vr.json) |
+| Mini Gunn | 327639 | [327639-mini-gunn.json](./327639-mini-gunn.json) |
 | Mini Guns | 55846 | [55846-mini-guns.json](./55846-mini-guns.json) |
 | Mini Healer | 101692 | [101692-mini-healer.json](./101692-mini-healer.json) |
 | Mini Hi-Fi City | 245209 | [245209-mini-hi-fi-city.json](./245209-mini-hi-fi-city.json) |
@@ -14482,6 +14484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beautiful Misinterpretation of Words | 384229 | [384229-my-beautiful-misinterpretation-of-words.json](./384229-my-beautiful-misinterpretation-of-words.json) |
 | My Beautiful Paper Smile | 115515 | [115515-my-beautiful-paper-smile.json](./115515-my-beautiful-paper-smile.json) |
 | My Beautiful Vacation | 361599 | [361599-my-beautiful-vacation.json](./361599-my-beautiful-vacation.json) |
+| My Bed, Your Grave | 327659 | [327659-my-bed-your-grave.json](./327659-my-bed-your-grave.json) |
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friends: Cats & Dogs | 17043 | [17043-my-best-friends-cats-and-dogs.json](./17043-my-best-friends-cats-and-dogs.json) |
