@@ -7014,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play with the Teletubbies | 67183 | [67183-play-with-the-teletubbies.json](./67183-play-with-the-teletubbies.json) |
 | Play-Doh Create ABCs | 19161 | [19161-play-doh-create-abcs.json](./19161-play-doh-create-abcs.json) |
 | Play-Doh Creations | 270611 | [270611-play-doh-creations.json](./270611-play-doh-creations.json) |
+| Play-Doh World | 355853 | [355853-play-doh-world.json](./355853-play-doh-world.json) |
 | Play-Yan | 49765 | [49765-play-yan.json](./49765-play-yan.json) |
 | Play'te Spinna | 290991 | [290991-playte-spinna.json](./290991-playte-spinna.json) |
 | Playable Alpha | 304603 | [304603-playable-alpha.json](./304603-playable-alpha.json) |
@@ -7707,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Auto Chess | 307245 | [307245-pokemon-auto-chess.json](./307245-pokemon-auto-chess.json) |
 | Pokémon Awakening | 341913 | [341913-pokemon-awakening.json](./341913-pokemon-awakening.json) |
 | Pokémon Azure Horizons | 252922 | [252922-pokemon-azure-horizons.json](./252922-pokemon-azure-horizons.json) |
+| Pokémon Battle Card e+ Emerald | 355881 | [355881-pokemon-battle-card-e-emerald.json](./355881-pokemon-battle-card-e-emerald.json) |
 | Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei | 355724 | [355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json](./355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json) |
 | Pokémon Battle Card e+ Emerald: 19-A002 - Ninja Gokko Kagemasa | 355726 | [355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json](./355726-pokemon-battle-card-e-emerald-19-a002-ninja-gokko-kagemasa.json) |
 | Pokémon Battle Card e+ Emerald: 19-A003 - Daisuki Club Keizou | 355727 | [355727-pokemon-battle-card-e-emerald-19-a003-daisuki-club-keizou.json](./355727-pokemon-battle-card-e-emerald-19-a003-daisuki-club-keizou.json) |
@@ -7850,7 +7852,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Card e+: 08-O001 - Moyougae Goods Present | 355517 | [355517-pokemon-battle-card-e-08-o001-moyougae-goods-present.json](./355517-pokemon-battle-card-e-08-o001-moyougae-goods-present.json) |
 | Pokémon Battle Card e+: 08-P005 - Pokémon Collector no Hidehiko | 355504 | [355504-pokemon-battle-card-e-08-p005-pokemon-collector-no-hidehiko.json](./355504-pokemon-battle-card-e-08-p005-pokemon-collector-no-hidehiko.json) |
 | Pokémon Battle Card e+: 08-P007 - Iseki Mania no Sagami | 355506 | [355506-pokemon-battle-card-e-08-p007-iseki-mania-no-sagami.json](./355506-pokemon-battle-card-e-08-p007-iseki-mania-no-sagami.json) |
+| Pokémon Battle Card e+: Atsui Kizuna | 355865 | [355865-pokemon-battle-card-e-atsui-kizuna.json](./355865-pokemon-battle-card-e-atsui-kizuna.json) |
+| Pokémon Battle Card e+: FireRed & LeafGreen | 355877 | [355877-pokemon-battle-card-e-firered-and-leafgreen.json](./355877-pokemon-battle-card-e-firered-and-leafgreen.json) |
+| Pokémon Battle Card e+: Kakusareta Iseki | 355863 | [355863-pokemon-battle-card-e-kakusareta-iseki.json](./355863-pokemon-battle-card-e-kakusareta-iseki.json) |
+| Pokémon Battle Card e+: Kogoeru Hikari | 355860 | [355860-pokemon-battle-card-e-kogoeru-hikari.json](./355860-pokemon-battle-card-e-kogoeru-hikari.json) |
+| Pokémon Battle Card e+: Kyoukona Yoroi | 355868 | [355868-pokemon-battle-card-e-kyoukona-yoroi.json](./355868-pokemon-battle-card-e-kyoukona-yoroi.json) |
+| Pokémon Battle Card e+: Osou Doku | 355861 | [355861-pokemon-battle-card-e-osou-doku.json](./355861-pokemon-battle-card-e-osou-doku.json) |
+| Pokémon Battle Card e+: Teppeki no Mamori | 355864 | [355864-pokemon-battle-card-e-teppeki-no-mamori.json](./355864-pokemon-battle-card-e-teppeki-no-mamori.json) |
 | Pokémon Battle e Card: Freezing Ray | 220853 | [220853-pokemon-battle-e-card-freezing-ray.json](./220853-pokemon-battle-e-card-freezing-ray.json) |
+| Pokémon Battle e Card: Hidden Ruins | 355870 | [355870-pokemon-battle-e-card-hidden-ruins.json](./355870-pokemon-battle-e-card-hidden-ruins.json) |
+| Pokémon Battle e Card: Iron Defense | 355871 | [355871-pokemon-battle-e-card-iron-defense.json](./355871-pokemon-battle-e-card-iron-defense.json) |
 | Pokémon Battle e: 08-P001 - Dragon Tamer Craig | 355496 | [355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json](./355496-pokemon-battle-e-08-p001-dragon-tamer-craig.json) |
 | Pokémon Battle e: 08-P002 - Ninja Boy Yasuo | 355497 | [355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json](./355497-pokemon-battle-e-08-p002-ninja-boy-yasuo.json) |
 | Pokémon Battle e: 08-P003 - Pokéfan Darlene | 355498 | [355498-pokemon-battle-e-08-p003-pokefan-darlene.json](./355498-pokemon-battle-e-08-p003-pokefan-darlene.json) |
@@ -7925,6 +7936,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Colosseum Double Battle Card e+: 13-M004 - Realgam Tower | 355495 | [355495-pokemon-colosseum-double-battle-card-e-13-m004-realgam-tower.json](./355495-pokemon-colosseum-double-battle-card-e-13-m004-realgam-tower.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P001 - Hunter no Bit | 355521 | [355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json](./355521-pokemon-colosseum-double-battle-card-e-13-p001-hunter-no-bit.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku | 355523 | [355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json](./355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json) |
+| Pokémon Colosseum Double Battle Card e+: Blue Pack | 355873 | [355873-pokemon-colosseum-double-battle-card-e-blue-pack.json](./355873-pokemon-colosseum-double-battle-card-e-blue-pack.json) |
+| Pokémon Colosseum Double Battle Card e+: Green Pack | 355875 | [355875-pokemon-colosseum-double-battle-card-e-green-pack.json](./355875-pokemon-colosseum-double-battle-card-e-green-pack.json) |
+| Pokémon Colosseum Double Battle Card e+: Red Pack | 355872 | [355872-pokemon-colosseum-double-battle-card-e-red-pack.json](./355872-pokemon-colosseum-double-battle-card-e-red-pack.json) |
+| Pokémon Colosseum Double Battle Card e+: Yellow Pack | 355874 | [355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json](./355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
