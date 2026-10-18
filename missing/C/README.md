@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
+| Captive | 343601 | [343601-captive.json](./343601-captive.json) |
 | Captive | 412946 | [412946-captive.json](./412946-captive.json) |
 | Captive | 91303 | [91303-captive.json](./91303-captive.json) |
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of Shikigami III | 4751 | [4751-castle-of-shikigami-iii.json](./4751-castle-of-shikigami-iii.json) |
 | Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
+| Castle of the Countess | 343682 | [343682-castle-of-the-countess.json](./343682-castle-of-the-countess.json) |
 | Castle of The Dark Ages | 271754 | [271754-castle-of-the-dark-ages.json](./271754-castle-of-the-dark-ages.json) |
 | Castle of the Land | 153356 | [153356-castle-of-the-land.json](./153356-castle-of-the-land.json) |
 | Castle of the Red Prince | 186632 | [186632-castle-of-the-red-prince.json](./186632-castle-of-the-red-prince.json) |
@@ -3095,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catgirl Bloodhunt | 380835 | [380835-catgirl-bloodhunt.json](./380835-catgirl-bloodhunt.json) |
 | Catgirl Chainsaw Massacre | 280736 | [280736-catgirl-chainsaw-massacre.json](./280736-catgirl-chainsaw-massacre.json) |
 | Catgirl Lover | 127927 | [127927-catgirl-lover.json](./127927-catgirl-lover.json) |
+| Catgirls From My Sweet Dream: Neko Girls 18+ | 343613 | [343613-catgirls-from-my-sweet-dream-neko-girls-18.json](./343613-catgirls-from-my-sweet-dream-neko-girls-18.json) |
 | Catharage | 355098 | [355098-catharage.json](./355098-catharage.json) |
 | Catharsis | 130144 | [130144-catharsis.json](./130144-catharsis.json) |
 | Catharsis | 195791 | [195791-catharsis.json](./195791-catharsis.json) |
@@ -3622,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
+| Cell Defender | 343599 | [343599-cell-defender.json](./343599-cell-defender.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
 | Cell Machine | 154821 | [154821-cell-machine.json](./154821-cell-machine.json) |
 | Cell of Empireo | 175966 | [175966-cell-of-empireo.json](./175966-cell-of-empireo.json) |
@@ -14050,6 +14054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
+| Cursed | 343603 | [343603-cursed.json](./343603-cursed.json) |
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
