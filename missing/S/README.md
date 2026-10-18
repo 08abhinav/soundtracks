@@ -7297,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
 | Sift Heads 2 | 283247 | [283247-sift-heads-2.json](./283247-sift-heads-2.json) |
 | Sift Heads 3 | 234134 | [234134-sift-heads-3.json](./234134-sift-heads-3.json) |
+| Sift Heads 4 | 349721 | [349721-sift-heads-4.json](./349721-sift-heads-4.json) |
 | Sift Heads 5 | 283246 | [283246-sift-heads-5.json](./283246-sift-heads-5.json) |
 | Sift Heads Assault | 393386 | [393386-sift-heads-assault.json](./393386-sift-heads-assault.json) |
 | Sift Heads Assault 2 | 393387 | [393387-sift-heads-assault-2.json](./393387-sift-heads-assault-2.json) |
@@ -14450,6 +14451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceBullet | 115807 | [115807-spacebullet.json](./115807-spacebullet.json) |
 | Spaceburgers: Journey to Green Haven | 374414 | [374414-spaceburgers-journey-to-green-haven.json](./374414-spaceburgers-journey-to-green-haven.json) |
 | SpaceCab | 368777 | [368777-spacecab.json](./368777-spacecab.json) |
+| Spacecaps | 349658 | [349658-spacecaps.json](./349658-spacecaps.json) |
 | Spacecats with Lasers | 36531 | [36531-spacecats-with-lasers.json](./36531-spacecats-with-lasers.json) |
 | Spacecats with Lasers VR | 30262 | [30262-spacecats-with-lasers-vr.json](./30262-spacecats-with-lasers-vr.json) |
 | Spacechase | 18503 | [18503-spacechase.json](./18503-spacechase.json) |
