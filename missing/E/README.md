@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elves vs Goblins Defender | 31609 | [31609-elves-vs-goblins-defender.json](./31609-elves-vs-goblins-defender.json) |
 | Elves vs. Goblins Mahjongg World | 275737 | [275737-elves-vs-goblins-mahjongg-world.json](./275737-elves-vs-goblins-mahjongg-world.json) |
+| Elves: The Enchanted Magic Heart | 330603 | [330603-elves-the-enchanted-magic-heart.json](./330603-elves-the-enchanted-magic-heart.json) |
 | Elvin: The Water Sphere | 316059 | [316059-elvin-the-water-sphere.json](./316059-elvin-the-water-sphere.json) |
 | Elvine | 225263 | [225263-elvine.json](./225263-elvine.json) |
 | Elvira II: The Jaws of Cerberus | 12064 | [12064-elvira-ii-the-jaws-of-cerberus.json](./12064-elvira-ii-the-jaws-of-cerberus.json) |
@@ -5480,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 244831 | [244831-exodus.json](./244831-exodus.json) |
 | Exodus | 279621 | [279621-exodus.json](./279621-exodus.json) |
+| Exodus | 330604 | [330604-exodus.json](./330604-exodus.json) |
 | Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
 | Exodus Checkmate | 216398 | [216398-exodus-checkmate.json](./216398-exodus-checkmate.json) |
