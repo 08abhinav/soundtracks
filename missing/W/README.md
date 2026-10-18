@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We the People | 236841 | [236841-we-the-people.json](./236841-we-the-people.json) |
 | We The Pixies | 365805 | [365805-we-the-pixies.json](./365805-we-the-pixies.json) |
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
+| We Three Gifts | 325887 | [325887-we-three-gifts.json](./325887-we-three-gifts.json) |
 | We Took That Trip | 203678 | [203678-we-took-that-trip.json](./203678-we-took-that-trip.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What would you like to have today? | 177855 | [177855-what-would-you-like-to-have-today.json](./177855-what-would-you-like-to-have-today.json) |
 | What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
+| What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
 | What’s Behind the Door? | 419105 | [419105-what-s-behind-the-door.json](./419105-what-s-behind-the-door.json) |
 | What's Cooking? Jamie Oliver | 80202 | [80202-whats-cooking-jamie-oliver.json](./80202-whats-cooking-jamie-oliver.json) |
@@ -4608,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch of the Woods | 110902 | [110902-witch-of-the-woods.json](./110902-witch-of-the-woods.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
+| Witch Please! | 325888 | [325888-witch-please.json](./325888-witch-please.json) |
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Rise | 235633 | [235633-witch-rise.json](./235633-witch-rise.json) |
