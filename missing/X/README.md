@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xd1 | 327253 | [327253-xd1.json](./327253-xd1.json) |
 | xDasher | 132261 | [132261-xdasher.json](./132261-xdasher.json) |
 | XDefiant | 159029 | [159029-xdefiant.json](./159029-xdefiant.json) |
+| XDefiant: Season 2 - Highwayman | 317698 | [317698-xdefiant-season-2-highwayman.json](./317698-xdefiant-season-2-highwayman.json) |
 | XDM | 350468 | [350468-xdm.json](./350468-xdm.json) |
 | XDR: X-Dazedly-Ray | 59760 | [59760-xdr-x-dazedly-ray.json](./59760-xdr-x-dazedly-ray.json) |
 | xDx Ball Shooter | 186050 | [186050-xdx-ball-shooter.json](./186050-xdx-ball-shooter.json) |
