@@ -1118,6 +1118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Year's Snow Was Falling 2 | 378568 | [378568-last-years-snow-was-falling-2.json](./378568-last-years-snow-was-falling-2.json) |
 | Last You Standing | 364656 | [364656-last-you-standing.json](./364656-last-you-standing.json) |
 | Last Z: Survival Shooter | 375192 | [375192-last-z-survival-shooter.json](./375192-last-z-survival-shooter.json) |
+| Last Zombie | 318264 | [318264-last-zombie.json](./318264-last-zombie.json) |
 | Last-Hit Defense | 224027 | [224027-last-hit-defense.json](./224027-last-hit-defense.json) |
 | LasTar | 395162 | [395162-lastar.json](./395162-lastar.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
