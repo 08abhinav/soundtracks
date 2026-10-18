@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K17: Legend Gold | 53406 | [53406-nba-2k17-legend-gold.json](./53406-nba-2k17-legend-gold.json) |
 | NBA 2K17: The Prelude | 83763 | [83763-nba-2k17-the-prelude.json](./83763-nba-2k17-the-prelude.json) |
 | NBA 2K18 | 26772 | [26772-nba-2k18.json](./26772-nba-2k18.json) |
+| NBA 2K18 | 318823 | [318823-nba-2k18.json](./318823-nba-2k18.json) |
 | NBA 2K18: Early Tip-Off Edition | 136210 | [136210-nba-2k18-early-tip-off-edition.json](./136210-nba-2k18-early-tip-off-edition.json) |
 | NBA 2K18: Legend Edition | 53408 | [53408-nba-2k18-legend-edition.json](./53408-nba-2k18-legend-edition.json) |
 | NBA 2K18: Legend Gold Edition | 53407 | [53407-nba-2k18-legend-gold-edition.json](./53407-nba-2k18-legend-gold-edition.json) |
@@ -5076,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not my day | 111170 | [111170-not-my-day.json](./111170-not-my-day.json) |
 | Not My Floor | 340966 | [340966-not-my-floor.json](./340966-not-my-floor.json) |
 | Not My Hand | 391744 | [391744-not-my-hand.json](./391744-not-my-hand.json) |
+| Not My Part | 318852 | [318852-not-my-part.json](./318852-not-my-part.json) |
 | Not My President: Level 1 | 174096 | [174096-not-my-president-level-1.json](./174096-not-my-president-level-1.json) |
 | Not My Son | 405693 | [405693-not-my-son.json](./405693-not-my-son.json) |
 | Not My Tempo | 408128 | [408128-not-my-tempo.json](./408128-not-my-tempo.json) |
