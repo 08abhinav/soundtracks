@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caligula Effect: Overdose | 75990 | [75990-the-caligula-effect-overdose.json](./75990-the-caligula-effect-overdose.json) |
 | The Caligula Effect: Overdose - Limited Edition | 167144 | [167144-the-caligula-effect-overdose-limited-edition.json](./167144-the-caligula-effect-overdose-limited-edition.json) |
 | The Call | 106440 | [106440-the-call.json](./106440-the-call.json) |
+| The Call | 317693 | [317693-the-call.json](./317693-the-call.json) |
 | The Call Button | 400871 | [400871-the-call-button.json](./400871-the-call-button.json) |
 | The Call Centre | 149542 | [149542-the-call-centre.json](./149542-the-call-centre.json) |
 | The Call of Karen | 139812 | [139812-the-call-of-karen.json](./139812-the-call-of-karen.json) |
@@ -19327,6 +19328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer Reloaded: Tenshi Hinanawi | 161750 | [161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json](./161750-touhou-genso-wanderer-reloaded-tenshi-hinanawi.json) |
 | Touhou Genso Wanderer Reloaded: Utsuho Reiuji | 161741 | [161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json](./161741-touhou-genso-wanderer-reloaded-utsuho-reiuji.json) |
 | Touhou Genso Wanderer: Foresight | 289024 | [289024-touhou-genso-wanderer-foresight.json](./289024-touhou-genso-wanderer-foresight.json) |
+| Touhou Genso Wanderer: Foresight - Reimu Hakurei Elegant Shrine Maiden Robe | 317669 | [317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json](./317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json) |
 | Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume | 310484 | [310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json](./310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth | 100675 | [100675-touhou-genso-wanderer-lotus-labyrinth.json](./100675-touhou-genso-wanderer-lotus-labyrinth.json) |
 | Touhou Genso Wanderer: Lotus Labyrinth R | 173124 | [173124-touhou-genso-wanderer-lotus-labyrinth-r.json](./173124-touhou-genso-wanderer-lotus-labyrinth-r.json) |
