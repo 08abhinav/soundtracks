@@ -9949,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission in Snowdriftland | 143095 | [143095-mission-in-snowdriftland.json](./143095-mission-in-snowdriftland.json) |
 | Mission In Space | 221755 | [221755-mission-in-space.json](./221755-mission-in-space.json) |
 | Mission Jupiter | 13015 | [13015-mission-jupiter.json](./13015-mission-jupiter.json) |
+| Mission LunaTrix | 338048 | [338048-mission-lunatrix.json](./338048-mission-lunatrix.json) |
 | Mission Mars | 147390 | [147390-mission-mars.json](./147390-mission-mars.json) |
 | Mission Mars | 263479 | [263479-mission-mars.json](./263479-mission-mars.json) |
 | Mission Mars Mobile | 213047 | [213047-mission-mars-mobile.json](./213047-mission-mars-mobile.json) |
@@ -12896,6 +12897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorfish | 376214 | [376214-motorfish.json](./376214-motorfish.json) |
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
 | Motörhead | 28568 | [28568-motorhead.json](./28568-motorhead.json) |
+| Motorhome: Traveling America | 338049 | [338049-motorhome-traveling-america.json](./338049-motorhome-traveling-america.json) |
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
 | Motorhome: Traveling North America 3 - Collector's Edition | 377672 | [377672-motorhome-traveling-north-america-3-collectors-edition.json](./377672-motorhome-traveling-north-america-3-collectors-edition.json) |
