@@ -468,6 +468,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2738019f3eaaf1ca6801c7bf4ab" width="60" /> | [Dragon Age: Origins - Awakening](https://ostdb.net/games/dragon-age-origins-awakening) | **Dragon Age: Origins (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0fknNIJDVRV7otTrcNlf1j) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2733e12b7c3368f89061ff67ee0" width="60" /> | [Dragon Age: Origins - Leliana's Song](https://ostdb.net/games/dragon-age-origins-lelianas-song) | **Dragon Age: Origins - Leliana's Song (Original Video Game Score)** · [Spotify](https://open.spotify.com/album/0yhU74HiofxL8uJvDxMDDv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e2239925f340dfd031ef1e4a" width="60" /> | [Dragon Age: The Veilguard](https://ostdb.net/games/dragon-age-the-veilguard) | **Dragon Age: The Veilguard (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5E12lxPMKhhkS5IXl0jtsk)<br>**Dragon Age: The Veilguard Main Theme [From "Dragon Age: The Veilguard (Original Soundtrack)"]** · [Spotify](https://open.spotify.com/album/5MEWANQ4igrisbN7mDFYho) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2731b880b93c598587fa6ff80ac" width="60" /> | [Dragon Spirit](https://ostdb.net/games/dragon-spirit) | **DRAGON SPIRIT Original Soundtrack** · [Spotify](https://open.spotify.com/album/1wvA0HkdEdN5E5Jxyv0QNm) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273506d4863d9bf9a5648ec9727" width="60" /> | [Dragon's Dogma II](https://ostdb.net/games/dragons-dogma-ii) | **Dragon's Dogma 2 Original Soundtrack** · [Spotify](https://open.spotify.com/album/6XLrb4v672hJNV3YO4LPUo) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/41/6d/99416dff-f756-252a-eee7-977da59a82cf/artwork.jpg/600x600bb.jpg" width="60" /> | [Dragonkin: The Banished](https://ostdb.net/games/dragonkin-the-banished) | **Dragonkin: The Banished (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/dragonkin-the-banished-original-game-soundtrack/1833064565?uo=4) · [Album](https://album.link/i/1833064565) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27381f6e9d86f64a4a4e5c319c8" width="60" /> | [Drakengard 3](https://ostdb.net/games/drakengard-3) | **Drakengard 3 Original Soundtrack** · [Spotify](https://open.spotify.com/album/4FNAsVcqKs7stQCHnpu7SC) |
@@ -1860,4 +1861,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2177 soundtracks · last updated 2026-10-18T08:41:44.395Z_
+_2178 soundtracks · last updated 2026-10-18T08:50:25.481Z_
