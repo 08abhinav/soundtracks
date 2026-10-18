@@ -1826,6 +1826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
 | Care Bears: Rainbow Ride | 421388 | [421388-care-bears-rainbow-ride.json](./421388-care-bears-rainbow-ride.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
+| Care Bears: Unlock the Magic | 324758 | [324758-care-bears-unlock-the-magic.json](./324758-care-bears-unlock-the-magic.json) |
 | Care for your Horse | 357850 | [357850-care-for-your-horse.json](./357850-care-for-your-horse.json) |
 | Care of Gongon | 350048 | [350048-care-of-gongon.json](./350048-care-of-gongon.json) |
 | Carebotz | 159730 | [159730-carebotz.json](./159730-carebotz.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Manager 2008 | 14840 | [14840-championship-manager-2008.json](./14840-championship-manager-2008.json) |
 | Championship Manager 2009 | 64883 | [64883-championship-manager-2009.json](./64883-championship-manager-2009.json) |
 | Championship Manager 2010 Express | 118918 | [118918-championship-manager-2010-express.json](./118918-championship-manager-2010-express.json) |
+| Championship Manager 2010 Special Edition | 324735 | [324735-championship-manager-2010-special-edition.json](./324735-championship-manager-2010-special-edition.json) |
 | Championship Manager 3 | 93149 | [93149-championship-manager-3.json](./93149-championship-manager-3.json) |
 | Championship Manager Quiz | 43786 | [43786-championship-manager-quiz.json](./43786-championship-manager-quiz.json) |
 | Championship Manager: End of Season Edition | 73351 | [73351-championship-manager-end-of-season-edition.json](./73351-championship-manager-end-of-season-edition.json) |
