@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerlock Wrestling | 42589 | [42589-hammerlock-wrestling.json](./42589-hammerlock-wrestling.json) |
 | Hammerwatch | 7891 | [7891-hammerwatch.json](./7891-hammerwatch.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
+| Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hamos the Green Chariot | 145601 | [145601-hamos-the-green-chariot.json](./145601-hamos-the-green-chariot.json) |
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
@@ -8919,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Rider | 319972 | [319972-hyper-rider.json](./319972-hyper-rider.json) |
 | Hyper Rift | 273862 | [273862-hyper-rift.json](./273862-hyper-rift.json) |
 | Hyper Rosalina Kart Wii & Rosalina 2 Turbo | 229834 | [229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json](./229834-hyper-rosalina-kart-wii-and-rosalina-2-turbo.json) |
+| Hyper Rush | 347017 | [347017-hyper-rush.json](./347017-hyper-rush.json) |
 | Hyper Scape | 100387 | [100387-hyper-scape.json](./100387-hyper-scape.json) |
 | Hyper School Simulator | 303095 | [303095-hyper-school-simulator.json](./303095-hyper-school-simulator.json) |
 | Hyper Scuffle | 114338 | [114338-hyper-scuffle.json](./114338-hyper-scuffle.json) |
