@@ -4110,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Blink Allowed | 400560 | [400560-no-blink-allowed.json](./400560-no-blink-allowed.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
 | No Body | 211674 | [211674-no-body.json](./211674-no-body.json) |
+| No Brake No Gain | 345283 | [345283-no-brake-no-gain.json](./345283-no-brake-no-gain.json) |
 | No Brakes | 273544 | [273544-no-brakes.json](./273544-no-brakes.json) |
 | No Brakes io | 263582 | [263582-no-brakes-io.json](./263582-no-brakes-io.json) |
 | No Brakes Valet | 51169 | [51169-no-brakes-valet.json](./51169-no-brakes-valet.json) |
