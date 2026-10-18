@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake III: Revolution | 43673 | [43673-quake-iii-revolution.json](./43673-quake-iii-revolution.json) |
 | Quake Live | 6578 | [6578-quake-live.json](./6578-quake-live.json) |
 | Quake Minus One | 26413 | [26413-quake-minus-one.json](./26413-quake-minus-one.json) |
+| Quake Plus 3D | 333969 | [333969-quake-plus-3d.json](./333969-quake-plus-3d.json) |
 | Quake Rally | 364398 | [364398-quake-rally.json](./364398-quake-rally.json) |
 | Quake Survivor | 195466 | [195466-quake-survivor.json](./195466-quake-survivor.json) |
 | Quake Upstart Mapping Project 2017 | 322055 | [322055-quake-upstart-mapping-project-2017.json](./322055-quake-upstart-mapping-project-2017.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
 | Quirks | 209745 | [209745-quirks.json](./209745-quirks.json) |
 | Quirky Crystal RPG | 108379 | [108379-quirky-crystal-rpg.json](./108379-quirky-crystal-rpg.json) |
+| Quirky Forest | 334002 | [334002-quirky-forest.json](./334002-quirky-forest.json) |
 | Quisisana | 344493 | [344493-quisisana.json](./344493-quisisana.json) |
 | Quit the Game to Win | 179167 | [179167-quit-the-game-to-win.json](./179167-quit-the-game-to-win.json) |
 | Quit Your Job | 413605 | [413605-quit-your-job.json](./413605-quit-your-job.json) |
