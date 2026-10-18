@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bam Boost | 256904 | [256904-bam-boost.json](./256904-bam-boost.json) |
 | Bamb | 182860 | [182860-bamb.json](./182860-bamb.json) |
 | Bamba's Snack Quest | 141093 | [141093-bambas-snack-quest.json](./141093-bambas-snack-quest.json) |
+| Bambas! | 325345 | [325345-bambas.json](./325345-bambas.json) |
 | Bambie | 257002 | [257002-bambie.json](./257002-bambie.json) |
 | Bambino Rally 3 | 32678 | [32678-bambino-rally-3.json](./32678-bambino-rally-3.json) |
 | Bambinours Solves a Jig Saw Puzzle | 14283 | [14283-bambinours-solves-a-jig-saw-puzzle.json](./14283-bambinours-solves-a-jig-saw-puzzle.json) |
@@ -2253,6 +2254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bash Your Lord | 58118 | [58118-bash-your-lord.json](./58118-bash-your-lord.json) |
 | Bashed.os | 115438 | [115438-bashed-os.json](./115438-bashed-os.json) |
 | Bashers | 387606 | [387606-bashers.json](./387606-bashers.json) |
+| Bashful Adoration | 325342 | [325342-bashful-adoration.json](./325342-bashful-adoration.json) |
 | Bashi Blocks | 42830 | [42830-bashi-blocks.json](./42830-bashi-blocks.json) |
 | Bashing Brutal | 348251 | [348251-bashing-brutal.json](./348251-bashing-brutal.json) |
 | Basho's Frogger | 219502 | [219502-bashos-frogger.json](./219502-bashos-frogger.json) |
