@@ -195,6 +195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
 | Wake Cup | 292446 | [292446-wake-cup.json](./292446-wake-cup.json) |
+| Wake Explorer | 347473 | [347473-wake-explorer.json](./347473-wake-explorer.json) |
 | Wake Me Up If You Need Me | 299568 | [299568-wake-me-up-if-you-need-me.json](./299568-wake-me-up-if-you-need-me.json) |
 | Wake of Ragnarok | 211274 | [211274-wake-of-ragnarok.json](./211274-wake-of-ragnarok.json) |
 | Wake Out of Twilight | 150286 | [150286-wake-out-of-twilight.json](./150286-wake-out-of-twilight.json) |
@@ -3958,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will Jump | 339876 | [339876-will-jump.json](./339876-will-jump.json) |
 | Will Not Let Me Go | 138139 | [138139-will-not-let-me-go.json](./138139-will-not-let-me-go.json) |
 | Will O Wing | 412433 | [412433-will-o-wing.json](./412433-will-o-wing.json) |
+| Will O Wisp | 347567 | [347567-will-o-wisp.json](./347567-will-o-wisp.json) |
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
 | Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
