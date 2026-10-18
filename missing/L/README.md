@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
 | Leaflet Love Story | 106496 | [106496-leaflet-love-story.json](./106496-leaflet-love-story.json) |
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
+| Leaforia | 339162 | [339162-leaforia.json](./339162-leaforia.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Season | 330228 | [330228-leafy-season.json](./330228-leafy-season.json) |
 | Leafy Trails Collection | 294838 | [294838-leafy-trails-collection.json](./294838-leafy-trails-collection.json) |
@@ -4130,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bear Rainy Day Activities | 280772 | [280772-little-bear-rainy-day-activities.json](./280772-little-bear-rainy-day-activities.json) |
 | Little Beetle Bottle Battle | 183016 | [183016-little-beetle-bottle-battle.json](./183016-little-beetle-bottle-battle.json) |
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
+| Little Big Adventure: Purple Empire | 339154 | [339154-little-big-adventure-purple-empire.json](./339154-little-big-adventure-purple-empire.json) |
 | Little Big Adventure: Twinsen's Quest | 241954 | [241954-little-big-adventure-twinsens-quest.json](./241954-little-big-adventure-twinsens-quest.json) |
 | Little Big City | 273832 | [273832-little-big-city.json](./273832-little-big-city.json) |
 | Little Big Eater | 180624 | [180624-little-big-eater.json](./180624-little-big-eater.json) |
@@ -4436,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Sound Boxing Champion | 316347 | [316347-little-sound-boxing-champion.json](./316347-little-sound-boxing-champion.json) |
 | Little Sound Dj | 91410 | [91410-little-sound-dj.json](./91410-little-sound-dj.json) |
 | Little Space Rangers | 181221 | [181221-little-space-rangers.json](./181221-little-space-rangers.json) |
+| Little Spaceman | 339161 | [339161-little-spaceman.json](./339161-little-spaceman.json) |
 | Little Sparks | 189168 | [189168-little-sparks.json](./189168-little-sparks.json) |
 | Little Spy | 184418 | [184418-little-spy.json](./184418-little-spy.json) |
 | Little Square Things | 114288 | [114288-little-square-things.json](./114288-little-square-things.json) |
