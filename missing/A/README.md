@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Nights With: Francesca | 371042 | [371042-a-few-nights-with-francesca.json](./371042-a-few-nights-with-francesca.json) |
 | A Few Nights With: Margaret | 371041 | [371041-a-few-nights-with-margaret.json](./371041-a-few-nights-with-margaret.json) |
 | A Few of Us: Operation Nightshade | 388171 | [388171-a-few-of-us-operation-nightshade.json](./388171-a-few-of-us-operation-nightshade.json) |
+| A Few Quick Matches | 356440 | [356440-a-few-quick-matches.json](./356440-a-few-quick-matches.json) |
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
 | A Final Delivery | 178903 | [178903-a-final-delivery.json](./178903-a-final-delivery.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
@@ -5339,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Centauri Space Force | 156165 | [156165-alpha-centauri-space-force.json](./156165-alpha-centauri-space-force.json) |
 | Alpha Ceti TD | 389741 | [389741-alpha-ceti-td.json](./389741-alpha-ceti-td.json) |
 | Alpha Chimp: Episode 1 - The Jungle | 310194 | [310194-alpha-chimp-episode-1-the-jungle.json](./310194-alpha-chimp-episode-1-the-jungle.json) |
+| Alpha Collapse | 356502 | [356502-alpha-collapse.json](./356502-alpha-collapse.json) |
 | Alpha Command | 164871 | [164871-alpha-command.json](./164871-alpha-command.json) |
 | Alpha Decay | 31707 | [31707-alpha-decay.json](./31707-alpha-decay.json) |
 | Alpha Dog | 120429 | [120429-alpha-dog.json](./120429-alpha-dog.json) |
@@ -8769,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
+| Arcade Archives: Super Basketball | 356501 | [356501-arcade-archives-super-basketball.json](./356501-arcade-archives-super-basketball.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
 | Arcade Archives: Super Dimension Fortress Macross II | 354181 | [354181-arcade-archives-super-dimension-fortress-macross-ii.json](./354181-arcade-archives-super-dimension-fortress-macross-ii.json) |
 | Arcade Archives: Super Dodge Ball | 99568 | [99568-arcade-archives-super-dodge-ball.json](./99568-arcade-archives-super-dodge-ball.json) |
