@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Maria of Sorrow | 248309 | [248309-castlevania-maria-of-sorrow.json](./248309-castlevania-maria-of-sorrow.json) |
 | Castlevania: Moonlight Rhapsody | 421838 | [421838-castlevania-moonlight-rhapsody.json](./421838-castlevania-moonlight-rhapsody.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
+| Castlevania: Order of Ecclesia | 315317 | [315317-castlevania-order-of-ecclesia.json](./315317-castlevania-order-of-ecclesia.json) |
 | Castlevania: Order of Shadows | 1140 | [1140-castlevania-order-of-shadows.json](./1140-castlevania-order-of-shadows.json) |
 | Castlevania: Part 1 | 398839 | [398839-castlevania-part-1.json](./398839-castlevania-part-1.json) |
 | Castlevania: Part 1 | 398842 | [398842-castlevania-part-1.json](./398842-castlevania-part-1.json) |
