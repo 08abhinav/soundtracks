@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear the Moon | 294261 | [294261-fear-the-moon.json](./294261-fear-the-moon.json) |
 | Fear the Night | 112973 | [112973-fear-the-night.json](./112973-fear-the-night.json) |
 | Fear the Ring Place 0 | 398677 | [398677-fear-the-ring-place-0.json](./398677-fear-the-ring-place-0.json) |
+| Fear the Timeloop | 318266 | [318266-fear-the-timeloop.json](./318266-fear-the-timeloop.json) |
 | Fear the Unknown: Jamie Story | 351601 | [351601-fear-the-unknown-jamie-story.json](./351601-fear-the-unknown-jamie-story.json) |
 | Fear The Void | 272256 | [272256-fear-the-void.json](./272256-fear-the-void.json) |
 | Fear the Walking Dead: Dead Run | 58483 | [58483-fear-the-walking-dead-dead-run.json](./58483-fear-the-walking-dead-dead-run.json) |
@@ -3773,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Online: Starter Edition | 293777 | [293777-final-fantasy-xiv-online-starter-edition.json](./293777-final-fantasy-xiv-online-starter-edition.json) |
 | Final Fantasy XIV: A Realm Reborn - Collector's Edition | 41839 | [41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json](./41839-final-fantasy-xiv-a-realm-reborn-collectors-edition.json) |
 | Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
+| Final Fantasy XIV: Crossroads | 318270 | [318270-final-fantasy-xiv-crossroads.json](./318270-final-fantasy-xiv-crossroads.json) |
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
@@ -8355,6 +8357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Craps | 246379 | [246379-free-craps.json](./246379-free-craps.json) |
 | Free D.C! | 80526 | [80526-free-d-c.json](./80526-free-d-c.json) |
 | Free Dunk | 339087 | [339087-free-dunk.json](./339087-free-dunk.json) |
+| Free Durov | 318253 | [318253-free-durov.json](./318253-free-durov.json) |
 | Free Enterprise | 84229 | [84229-free-enterprise.json](./84229-free-enterprise.json) |
 | Free Fall | 13716 | [13716-free-fall.json](./13716-free-fall.json) |
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
