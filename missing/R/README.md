@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Madrid Club Football 2005 | 267898 | [267898-real-madrid-club-football-2005.json](./267898-real-madrid-club-football-2005.json) |
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
 | Real Man Got 100 | 119468 | [119468-real-man-got-100.json](./119468-real-man-got-100.json) |
+| Real Man Got 100 | 336951 | [336951-real-man-got-100.json](./336951-real-man-got-100.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Monster Truck Parking | 243068 | [243068-real-monster-truck-parking.json](./243068-real-monster-truck-parking.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
@@ -7638,9 +7639,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms | 14509 | [14509-romance-of-the-three-kingdoms.json](./14509-romance-of-the-three-kingdoms.json) |
+| Romance of the Three Kingdoms | 336965 | [336965-romance-of-the-three-kingdoms.json](./336965-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
+| Romance of the Three Kingdoms 8 Remake: Scenario "Tiger and Wolf Unleashed" | 336966 | [336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json](./336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json) |
+| Romance of the Three Kingdoms 8 Remake: Scenario "Tiger Generals of the Three Kingdoms, Locked in Battle!" | 336967 | [336967-romance-of-the-three-kingdoms-8-remake-scenario-tiger-generals-of-the-three-kingdoms-locked-in-battle.json](./336967-romance-of-the-three-kingdoms-8-remake-scenario-tiger-generals-of-the-three-kingdoms-locked-in-battle.json) |
+| Romance of the Three Kingdoms 8 Remake: Scenario "Valor Triumphs" | 336968 | [336968-romance-of-the-three-kingdoms-8-remake-scenario-valor-triumphs.json](./336968-romance-of-the-three-kingdoms-8-remake-scenario-valor-triumphs.json) |
 | Romance of the Three Kingdoms Hadou | 371351 | [371351-romance-of-the-three-kingdoms-hadou.json](./371351-romance-of-the-three-kingdoms-hadou.json) |
 | Romance of the Three Kingdoms II | 350627 | [350627-romance-of-the-three-kingdoms-ii.json](./350627-romance-of-the-three-kingdoms-ii.json) |
 | Romance of the Three Kingdoms IV with Power Up Kit | 91114 | [91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json](./91114-romance-of-the-three-kingdoms-iv-with-power-up-kit.json) |
