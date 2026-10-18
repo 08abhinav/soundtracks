@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Car | 346068 | [346068-racing-car.json](./346068-racing-car.json) |
 | Racing Car Chaos: Extreme Stunt Showdown | 308503 | [308503-racing-car-chaos-extreme-stunt-showdown.json](./308503-racing-car-chaos-extreme-stunt-showdown.json) |
 | Racing Car Forge | 193840 | [193840-racing-car-forge.json](./193840-racing-car-forge.json) |
+| Racing Champions | 322413 | [322413-racing-champions.json](./322413-racing-champions.json) |
 | Racing City | 104588 | [104588-racing-city.json](./104588-racing-city.json) |
 | Racing Clash Club | 174816 | [174816-racing-clash-club.json](./174816-racing-clash-club.json) |
 | Racing Classics Pro: Drag Race & Real Speed | 187476 | [187476-racing-classics-pro-drag-race-and-real-speed.json](./187476-racing-classics-pro-drag-race-and-real-speed.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections Path | 211951 | [211951-reflections-path.json](./211951-reflections-path.json) |
 | Reflections: Dreams and Reality | 115625 | [115625-reflections-dreams-and-reality.json](./115625-reflections-dreams-and-reality.json) |
 | Reflections: Nightingale | 282528 | [282528-reflections-nightingale.json](./282528-reflections-nightingale.json) |
+| Reflector | 322411 | [322411-reflector.json](./322411-reflector.json) |
 | Reflector Rhythm Master | 251746 | [251746-reflector-rhythm-master.json](./251746-reflector-rhythm-master.json) |
 | Reflector Satellites | 317411 | [317411-reflector-satellites.json](./317411-reflector-satellites.json) |
 | Reflector Sector | 386995 | [386995-reflector-sector.json](./386995-reflector-sector.json) |
