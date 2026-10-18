@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Snake! | 182780 | [182780-oh-snake.json](./182780-oh-snake.json) |
 | Oh Snap | 92086 | [92086-oh-snap.json](./92086-oh-snap.json) |
 | Oh Snow! | 408051 | [408051-oh-snow.json](./408051-oh-snow.json) |
+| Oh Tennis | 341847 | [341847-oh-tennis.json](./341847-oh-tennis.json) |
 | Oh That's Why | 381951 | [381951-oh-thats-why.json](./381951-oh-thats-why.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
