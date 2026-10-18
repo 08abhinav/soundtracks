@@ -1824,6 +1824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Love Not War | 208244 | [208244-make-love-not-war.json](./208244-make-love-not-war.json) |
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
+| Make me Laugh! | 311319 | [311319-make-me-laugh.json](./311319-make-me-laugh.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. | 3105 | [3105-mario-bros.json](./3105-mario-bros.json) |
 | Mario Bros. | 363314 | [363314-mario-bros.json](./363314-mario-bros.json) |
 | Mario Bros. | 367845 | [367845-mario-bros.json](./367845-mario-bros.json) |
+| Mario Bros. 2018 | 311348 | [311348-mario-bros-2018.json](./311348-mario-bros-2018.json) |
 | Mario Bros. Inc. | 324013 | [324013-mario-bros-inc.json](./324013-mario-bros-inc.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
@@ -2759,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario In Mushroom Rix Land 4: Trip To Nano Island | 265661 | [265661-mario-in-mushroom-rix-land-4-trip-to-nano-island.json](./265661-mario-in-mushroom-rix-land-4-trip-to-nano-island.json) |
 | Mario In Search of The Stars 2 | 267929 | [267929-mario-in-search-of-the-stars-2.json](./267929-mario-in-search-of-the-stars-2.json) |
 | Mario in the Dreamscape | 296093 | [296093-mario-in-the-dreamscape.json](./296093-mario-in-the-dreamscape.json) |
+| Mario in the Multiverse | 311318 | [311318-mario-in-the-multiverse.json](./311318-mario-in-the-multiverse.json) |
 | Mario Is Missing! | 210223 | [210223-mario-is-missing.json](./210223-mario-is-missing.json) |
 | Mario Is Missing! | 210224 | [210224-mario-is-missing.json](./210224-mario-is-missing.json) |
 | Mario Is Missing! | 48135 | [48135-mario-is-missing.json](./48135-mario-is-missing.json) |
