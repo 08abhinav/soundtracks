@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush 5: Alliance | 296924 | [296924-kingdom-rush-5-alliance.json](./296924-kingdom-rush-5-alliance.json) |
 | Kingdom Rush 5: Alliance - Colossal Dwarfare | 330136 | [330136-kingdom-rush-5-alliance-colossal-dwarfare.json](./330136-kingdom-rush-5-alliance-colossal-dwarfare.json) |
 | Kingdom Rush 5: Alliance TD - Wukong's Journey | 382581 | [382581-kingdom-rush-5-alliance-td-wukongs-journey.json](./382581-kingdom-rush-5-alliance-td-wukongs-journey.json) |
+| Kingdom Rush 5: Alliance TD+ | 355895 | [355895-kingdom-rush-5-alliance-td.json](./355895-kingdom-rush-5-alliance-td.json) |
 | Kingdom Rush 6: Genesis TD | 394375 | [394375-kingdom-rush-6-genesis-td.json](./394375-kingdom-rush-6-genesis-td.json) |
 | Kingdom Rush Frontiers HD | 88258 | [88258-kingdom-rush-frontiers-hd.json](./88258-kingdom-rush-frontiers-hd.json) |
 | Kingdom Rush HD | 88320 | [88320-kingdom-rush-hd.json](./88320-kingdom-rush-hd.json) |
