@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Blocks | 88488 | [88488-rainbow-blocks.json](./88488-rainbow-blocks.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
 | Rainbow Brite: Journey to Rainbow Land | 283799 | [283799-rainbow-brite-journey-to-rainbow-land.json](./283799-rainbow-brite-journey-to-rainbow-land.json) |
+| Rainbow Canyon 2 | 332878 | [332878-rainbow-canyon-2.json](./332878-rainbow-canyon-2.json) |
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Despair | 337444 | [337444-rainbow-despair.json](./337444-rainbow-despair.json) |
 | Rainbow Dreams | 115016 | [115016-rainbow-dreams.json](./115016-rainbow-dreams.json) |
 | Rainbow Duck | 51605 | [51605-rainbow-duck.json](./51605-rainbow-duck.json) |
+| Rainbow Expansion 3 | 332877 | [332877-rainbow-expansion-3.json](./332877-rainbow-expansion-3.json) |
 | Rainbow Festival 3 | 334228 | [334228-rainbow-festival-3.json](./334228-rainbow-festival-3.json) |
 | Rainbow fighter | 285570 | [285570-rainbow-fighter.json](./285570-rainbow-fighter.json) |
 | Rainbow Fish and the Amazing Lagoon | 280744 | [280744-rainbow-fish-and-the-amazing-lagoon.json](./280744-rainbow-fish-and-the-amazing-lagoon.json) |
@@ -2533,6 +2535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recess Riot | 242455 | [242455-recess-riot.json](./242455-recess-riot.json) |
 | Recesses | 317409 | [317409-recesses.json](./317409-recesses.json) |
 | Recettear: An Item Shop's Tale | 12524 | [12524-recettear-an-item-shops-tale.json](./12524-recettear-an-item-shops-tale.json) |
+| Recharge | 332861 | [332861-recharge.json](./332861-recharge.json) |
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
@@ -3403,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
+| Rekt Party | 332888 | [332888-rekt-party.json](./332888-rekt-party.json) |
 | Rekt! | 74162 | [74162-rekt.json](./74162-rekt.json) |
 | Rekt!: Double Flip | 238063 | [238063-rekt-double-flip.json](./238063-rekt-double-flip.json) |
 | Rekt!: The Forge | 238027 | [238027-rekt-the-forge.json](./238027-rekt-the-forge.json) |
@@ -6866,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Space Ship Frontier | 243091 | [243091-rocket-space-ship-frontier.json](./243091-rocket-space-ship-frontier.json) |
 | Rocket Spin Orbit Glide | 369128 | [369128-rocket-spin-orbit-glide.json](./369128-rocket-spin-orbit-glide.json) |
+| Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
 | Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
 | Rocket Theater Rehearsal | 185484 | [185484-rocket-theater-rehearsal.json](./185484-rocket-theater-rehearsal.json) |
 | Rocket Time Trials: Galactic Highway | 389070 | [389070-rocket-time-trials-galactic-highway.json](./389070-rocket-time-trials-galactic-highway.json) |
