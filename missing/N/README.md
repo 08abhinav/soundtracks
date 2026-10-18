@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
 | NET:Zone | 92924 | [92924-net-zone.json](./92924-net-zone.json) |
+| Net.Attack(): Code or Die! | 315353 | [315353-net-attack-code-or-die.json](./315353-net-attack-code-or-die.json) |
 | Net.Crawl | 309947 | [309947-net-crawl.json](./309947-net-crawl.json) |
 | Net64+ | 135558 | [135558-net64.json](./135558-net64.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
