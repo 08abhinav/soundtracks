@@ -2410,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
+| Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Rangers | 31277 | [31277-void-rangers.json](./31277-void-rangers.json) |
 | Void Reaper | 280129 | [280129-void-reaper.json](./280129-void-reaper.json) |
