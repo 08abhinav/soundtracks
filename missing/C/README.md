@@ -6261,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
+| Ciphoid 9 | 329980 | [329980-ciphoid-9.json](./329980-ciphoid-9.json) |
 | Circa | 94170 | [94170-circa.json](./94170-circa.json) |
 | Circa Infinity | 16312 | [16312-circa-infinity.json](./16312-circa-infinity.json) |
 | Circa Infinity: Ultimate Edition | 186559 | [186559-circa-infinity-ultimate-edition.json](./186559-circa-infinity-ultimate-edition.json) |
@@ -8260,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
+| ColdTV | 329989 | [329989-coldtv.json](./329989-coldtv.json) |
 | Coldwake | 347654 | [347654-coldwake.json](./347654-coldwake.json) |
 | ColdWire | 328000 | [328000-coldwire.json](./328000-coldwire.json) |
 | Coldy Drinkeria | 316077 | [316077-coldy-drinkeria.json](./316077-coldy-drinkeria.json) |
@@ -14359,6 +14361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Animals and Heavy Guns | 255704 | [255704-cute-animals-and-heavy-guns.json](./255704-cute-animals-and-heavy-guns.json) |
 | Cute Animals Memory Card Game | 153455 | [153455-cute-animals-memory-card-game.json](./153455-cute-animals-memory-card-game.json) |
 | Cute Army: A Cat Story | 176448 | [176448-cute-army-a-cat-story.json](./176448-cute-army-a-cat-story.json) |
+| Cute as Shell | 329984 | [329984-cute-as-shell.json](./329984-cute-as-shell.json) |
 | Cute Away: Paws Caretaker Simulator | 390216 | [390216-cute-away-paws-caretaker-simulator.json](./390216-cute-away-paws-caretaker-simulator.json) |
 | Cute Bar | 368063 | [368063-cute-bar.json](./368063-cute-bar.json) |
 | Cute Bendy and Projectionist | 106520 | [106520-cute-bendy-and-projectionist.json](./106520-cute-bendy-and-projectionist.json) |
