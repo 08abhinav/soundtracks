@@ -4539,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Driver Simulator | 276864 | [276864-euro-truck-driver-simulator.json](./276864-euro-truck-driver-simulator.json) |
 | Euro Truck Life & Logistics Simulators | 221709 | [221709-euro-truck-life-and-logistics-simulators.json](./221709-euro-truck-life-and-logistics-simulators.json) |
 | Euro Truck of Reality | 193803 | [193803-euro-truck-of-reality.json](./193803-euro-truck-of-reality.json) |
+| Euro Truck Sim Driver Simulator 24: Garbage | 322424 | [322424-euro-truck-sim-driver-simulator-24-garbage.json](./322424-euro-truck-sim-driver-simulator-24-garbage.json) |
 | Euro Truck Simulator 2: Beyond the Baltic Sea | 125011 | [125011-euro-truck-simulator-2-beyond-the-baltic-sea.json](./125011-euro-truck-simulator-2-beyond-the-baltic-sea.json) |
 | Euro Truck Simulator 2: DAF XD | 277585 | [277585-euro-truck-simulator-2-daf-xd.json](./277585-euro-truck-simulator-2-daf-xd.json) |
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
@@ -5929,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
 | Eye see fun | 285924 | [285924-eye-see-fun.json](./285924-eye-see-fun.json) |
+| Eye Sore | 322441 | [322441-eye-sore.json](./322441-eye-sore.json) |
 | Eye to Eye | 366718 | [366718-eye-to-eye.json](./366718-eye-to-eye.json) |
 | Eye Transplant : ER Emergency Hospital | 100855 | [100855-eye-transplant-er-emergency-hospital.json](./100855-eye-transplant-er-emergency-hospital.json) |
 | Eye-Create | 84457 | [84457-eye-create.json](./84457-eye-create.json) |
