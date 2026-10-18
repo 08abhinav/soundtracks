@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Legends | 59729 | [59729-gem-legends.json](./59729-gem-legends.json) |
 | Gem Master | 132581 | [132581-gem-master.json](./132581-gem-master.json) |
 | Gem Miner | 91839 | [91839-gem-miner.json](./91839-gem-miner.json) |
+| Gem Miner TD | 346924 | [346924-gem-miner-td.json](./346924-gem-miner-td.json) |
 | Gem Miner: Dig Deeper | 296070 | [296070-gem-miner-dig-deeper.json](./296070-gem-miner-dig-deeper.json) |
 | Gem Mining | 223944 | [223944-gem-mining.json](./223944-gem-mining.json) |
 | Gem Monster | 30261 | [30261-gem-monster.json](./30261-gem-monster.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
 | GhostBlood | 71195 | [71195-ghostblood.json](./71195-ghostblood.json) |
 | Ghostboy | 224600 | [224600-ghostboy.json](./224600-ghostboy.json) |
+| Ghostbusters | 347005 | [347005-ghostbusters.json](./347005-ghostbusters.json) |
 | Ghostbusters | 4534 | [4534-ghostbusters.json](./4534-ghostbusters.json) |
 | Ghostbusters | 80815 | [80815-ghostbusters.json](./80815-ghostbusters.json) |
 | Ghostbusters II | 14552 | [14552-ghostbusters-ii.json](./14552-ghostbusters-ii.json) |
