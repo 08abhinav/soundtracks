@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindicator: Uprising | 35353 | [35353-vindicator-uprising.json](./35353-vindicator-uprising.json) |
 | Vindicators | 12871 | [12871-vindicators.json](./12871-vindicators.json) |
 | Vindicators | 198951 | [198951-vindicators.json](./198951-vindicators.json) |
+| Vindicators | 355960 | [355960-vindicators.json](./355960-vindicators.json) |
 | Vindicators | 83909 | [83909-vindicators.json](./83909-vindicators.json) |
 | Vindicta Arcade | 88229 | [88229-vindicta-arcade.json](./88229-vindicta-arcade.json) |
 | Vindictive Drive | 31913 | [31913-vindictive-drive.json](./31913-vindictive-drive.json) |
