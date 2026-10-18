@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiju Cleaner Simulator | 368798 | [368798-kaiju-cleaner-simulator.json](./368798-kaiju-cleaner-simulator.json) |
 | Kaiju Cleanup | 370709 | [370709-kaiju-cleanup.json](./370709-kaiju-cleanup.json) |
 | Kaiju Commander | 217368 | [217368-kaiju-commander.json](./217368-kaiju-commander.json) |
+| Kaiju Control Force | 325296 | [325296-kaiju-control-force.json](./325296-kaiju-control-force.json) |
 | Kaiju Cracking Corp | 286009 | [286009-kaiju-cracking-corp.json](./286009-kaiju-cracking-corp.json) |
 | Kaiju Cracking Corporation | 368807 | [368807-kaiju-cracking-corporation.json](./368807-kaiju-cracking-corporation.json) |
 | Kaiju Crush | 147814 | [147814-kaiju-crush.json](./147814-kaiju-crush.json) |
