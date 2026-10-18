@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Train Models: JR Kyushu Edition | 286104 | [286104-japan-train-models-jr-kyushu-edition.json](./286104-japan-train-models-jr-kyushu-edition.json) |
 | Japan Train Models: JR West Edition | 278130 | [278130-japan-train-models-jr-west-edition.json](./278130-japan-train-models-jr-west-edition.json) |
 | Japan Trip | 340767 | [340767-japan-trip.json](./340767-japan-trip.json) |
+| Japanese BreakQuest | 351392 | [351392-japanese-breakquest.json](./351392-japanese-breakquest.json) |
 | Japanese DoJo | 190935 | [190935-japanese-dojo.json](./190935-japanese-dojo.json) |
 | Japanese Dominatrixes Are the Best | 385702 | [385702-japanese-dominatrixes-are-the-best.json](./385702-japanese-dominatrixes-are-the-best.json) |
 | Japanese Dungeon: Learn J-Word | 232068 | [232068-japanese-dungeon-learn-j-word.json](./232068-japanese-dungeon-learn-j-word.json) |
