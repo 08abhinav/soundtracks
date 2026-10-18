@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
+| Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: The Amulet of Time | 2822 | [2822-samurai-jack-the-amulet-of-time.json](./2822-samurai-jack-the-amulet-of-time.json) |
 | Samurai Jack: Way of the Warrior | 338747 | [338747-samurai-jack-way-of-the-warrior.json](./338747-samurai-jack-way-of-the-warrior.json) |
@@ -4252,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serra Pelada | 80551 | [80551-serra-pelada.json](./80551-serra-pelada.json) |
 | Serre | 134522 | [134522-serre.json](./134522-serre.json) |
 | Serre | 365457 | [365457-serre.json](./365457-serre.json) |
+| Sertão Profundo | 327050 | [327050-sertao-profundo.json](./327050-sertao-profundo.json) |
 | Sertorgina | 284616 | [284616-sertorgina.json](./284616-sertorgina.json) |
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
@@ -8572,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate the Line and Rail Grind | 115765 | [115765-skate-the-line-and-rail-grind.json](./115765-skate-the-line-and-rail-grind.json) |
 | Skate Tribe | 303232 | [303232-skate-tribe.json](./303232-skate-tribe.json) |
 | Skate Wars | 15368 | [15368-skate-wars.json](./15368-skate-wars.json) |
+| Skate3DRPG | 327045 | [327045-skate3drpg.json](./327045-skate3drpg.json) |
 | Skateball | 45329 | [45329-skateball.json](./45329-skateball.json) |
 | Skatebird | 111813 | [111813-skatebird.json](./111813-skatebird.json) |
 | Skateboard | 89059 | [89059-skateboard.json](./89059-skateboard.json) |
@@ -8677,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
+| Skeppskatten går iland | 327005 | [327005-skeppskatten-gar-iland.json](./327005-skeppskatten-gar-iland.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
 | Sker Ritual: Dead by Nightfall | 382561 | [382561-sker-ritual-dead-by-nightfall.json](./382561-sker-ritual-dead-by-nightfall.json) |
 | Sker Ritual: Draigs Terror | 332040 | [332040-sker-ritual-draigs-terror.json](./332040-sker-ritual-draigs-terror.json) |
@@ -9560,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Island | 401906 | [401906-slender-island.json](./401906-slender-island.json) |
+| Slender Killer | 327021 | [327021-slender-killer.json](./327021-slender-killer.json) |
 | Slender Man Origins 2: House of Slender | 223626 | [223626-slender-man-origins-2-house-of-slender.json](./223626-slender-man-origins-2-house-of-slender.json) |
 | Slender Man Origins 3: Abandoned School | 101428 | [101428-slender-man-origins-3-abandoned-school.json](./101428-slender-man-origins-3-abandoned-school.json) |
 | Slender Man Retro | 356683 | [356683-slender-man-retro.json](./356683-slender-man-retro.json) |
@@ -12690,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Reactor | 331398 | [331398-sonic-reactor.json](./331398-sonic-reactor.json) |
 | Sonic Realmz | 326996 | [326996-sonic-realmz.json](./326996-sonic-realmz.json) |
 | Sonic Rebirth | 326821 | [326821-sonic-rebirth.json](./326821-sonic-rebirth.json) |
+| Sonic Reboot | 327001 | [327001-sonic-reboot.json](./327001-sonic-reboot.json) |
 | Sonic Recharged | 317356 | [317356-sonic-recharged.json](./317356-sonic-recharged.json) |
 | Sonic Recharged | 370278 | [370278-sonic-recharged.json](./370278-sonic-recharged.json) |
 | Sonic Rediscovery | 326157 | [326157-sonic-rediscovery.json](./326157-sonic-rediscovery.json) |
@@ -13696,6 +13702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign Syndicate: Digital Deluxe Edition | 336048 | [336048-sovereign-syndicate-digital-deluxe-edition.json](./336048-sovereign-syndicate-digital-deluxe-edition.json) |
 | Sovereign Tea | 159317 | [159317-sovereign-tea.json](./159317-sovereign-tea.json) |
 | Sovereign's End | 403548 | [403548-sovereigns-end.json](./403548-sovereigns-end.json) |
+| Sovereign's Enigma | 327057 | [327057-sovereigns-enigma.json](./327057-sovereigns-enigma.json) |
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
@@ -20591,6 +20598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strings | 128297 | [128297-strings.json](./128297-strings.json) |
+| Strings of Fate XI: Magic Dream | 327008 | [327008-strings-of-fate-xi-magic-dream.json](./327008-strings-of-fate-xi-magic-dream.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
 | Strinova | 260136 | [260136-strinova.json](./260136-strinova.json) |
@@ -20893,6 +20901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
 | Sub Terra Draconis: Hidden Glade | 382887 | [382887-sub-terra-draconis-hidden-glade.json](./382887-sub-terra-draconis-hidden-glade.json) |
 | Sub Terra Draconis: Magma Grotto | 285426 | [285426-sub-terra-draconis-magma-grotto.json](./285426-sub-terra-draconis-magma-grotto.json) |
+| Sub Terra Draconis: The Golemworks | 327017 | [327017-sub-terra-draconis-the-golemworks.json](./327017-sub-terra-draconis-the-golemworks.json) |
 | Sub Terrania | 22680 | [22680-sub-terrania.json](./22680-sub-terrania.json) |
 | Sub Wars | 104699 | [104699-sub-wars.json](./104699-sub-wars.json) |
 | Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
