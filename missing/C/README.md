@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chao Illust Club | 130714 | [130714-chao-illust-club.json](./130714-chao-illust-club.json) |
 | Chao Internet Pet | 331475 | [331475-chao-internet-pet.json](./331475-chao-internet-pet.json) |
 | Chao Life | 326835 | [326835-chao-life.json](./326835-chao-life.json) |
+| Chao Online | 331154 | [331154-chao-online.json](./331154-chao-online.json) |
 | Chao RPG | 326958 | [326958-chao-rpg.json](./326958-chao-rpg.json) |
 | Chao5: The Un-Balance Mod Returns! | 394606 | [394606-chao5-the-un-balance-mod-returns.json](./394606-chao5-the-un-balance-mod-returns.json) |
 | Chāojí Dàfùwēng | 45549 | [45549-chaoji-dafuweng.json](./45549-chaoji-dafuweng.json) |
@@ -9495,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
 | Conditus | 203672 | [203672-conditus.json](./203672-conditus.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
+| Condo Desires | 331093 | [331093-condo-desires.json](./331093-condo-desires.json) |
 | Condom Commander | 411628 | [411628-condom-commander.json](./411628-condom-commander.json) |
 | Condominium | 333356 | [333356-condominium.json](./333356-condominium.json) |
 | Condominium: No Exit | 411793 | [411793-condominium-no-exit.json](./411793-condominium-no-exit.json) |
