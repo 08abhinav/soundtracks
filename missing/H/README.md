@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Girl | 333668 | [333668-hello-girl.json](./333668-hello-girl.json) |
+| Hello Goodboy + To The Rescue! | 357024 | [357024-hello-goodboy-to-the-rescue.json](./357024-hello-goodboy-to-the-rescue.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
 | Hello Helix | 108494 | [108494-hello-helix.json](./108494-hello-helix.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide 'N Seek!: Complete Edition | 324377 | [324377-hide-n-seek-complete-edition.json](./324377-hide-n-seek-complete-edition.json) |
 | Hide 'N Seek!: Foes DLC | 317954 | [317954-hide-n-seek-foes-dlc.json](./317954-hide-n-seek-foes-dlc.json) |
 | Hide 'N Seek!: Friends DLC | 317955 | [317955-hide-n-seek-friends-dlc.json](./317955-hide-n-seek-friends-dlc.json) |
+| Hide 'N Seek!: Scary Edition | 357016 | [357016-hide-n-seek-scary-edition.json](./357016-hide-n-seek-scary-edition.json) |
 | Hide & Chick | 206196 | [206196-hide-and-chick.json](./206196-hide-and-chick.json) |
 | Hide & Dance! | 146759 | [146759-hide-and-dance.json](./146759-hide-and-dance.json) |
 | Hide & Seek | 413861 | [413861-hide-and-seek.json](./413861-hide-and-seek.json) |
@@ -5791,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 3: Shinseiki Evangelion - Yakusoku no Toki | 269629 | [269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json](./269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 4: CR Shinseiki Evangelion - Saigo no Shisha | 269628 | [269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json](./269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
+| Hisshou Pachinko Pachislot Kouryaku Series Vol. 13: Neon Genesis Evangelion - Yakusoku no Toki | 357011 | [357011-hisshou-pachinko-pachislot-kouryaku-series-vol-13-neon-genesis-evangelion-yakusoku-no-toki.json](./357011-hisshou-pachinko-pachislot-kouryaku-series-vol-13-neon-genesis-evangelion-yakusoku-no-toki.json) |
 | Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
