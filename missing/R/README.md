@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroads Online: Explorer DLC | 332801 | [332801-railroads-online-explorer-dlc.json](./332801-railroads-online-explorer-dlc.json) |
 | Railroads Online: Extended Edition | 331852 | [331852-railroads-online-extended-edition.json](./331852-railroads-online-extended-edition.json) |
 | Railroads Online: Pioneer DLC | 332799 | [332799-railroads-online-pioneer-dlc.json](./332799-railroads-online-pioneer-dlc.json) |
+| Railroads Online: Pioneer Edition | 324772 | [324772-railroads-online-pioneer-edition.json](./324772-railroads-online-pioneer-edition.json) |
 | Rails | 101017 | [101017-rails.json](./101017-rails.json) |
 | Rails Across America | 68741 | [68741-rails-across-america.json](./68741-rails-across-america.json) |
 | Rails Lite | 91277 | [91277-rails-lite.json](./91277-rails-lite.json) |
@@ -4295,6 +4296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retract: Battle Royale | 175675 | [175675-retract-battle-royale.json](./175675-retract-battle-royale.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
+| Retribution: 25th Anniversary Edition | 324749 | [324749-retribution-25th-anniversary-edition.json](./324749-retribution-25th-anniversary-edition.json) |
 | Retribution: Universal Requiem | 164875 | [164875-retribution-universal-requiem.json](./164875-retribution-universal-requiem.json) |
 | Retrieval | 303741 | [303741-retrieval.json](./303741-retrieval.json) |
 | Retrieval | 405598 | [405598-retrieval.json](./405598-retrieval.json) |
@@ -4649,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Cosmic Hoarder Edition | 336145 | [336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json](./336145-revenge-of-the-savage-planet-cosmic-hoarder-edition.json) |
+| Revenge of the Savage Planet: Day One Edition | 324773 | [324773-revenge-of-the-savage-planet-day-one-edition.json](./324773-revenge-of-the-savage-planet-day-one-edition.json) |
 | Revenge of the Shadow Ninja | 244709 | [244709-revenge-of-the-shadow-ninja.json](./244709-revenge-of-the-shadow-ninja.json) |
 | Revenge of the Spirit: Rite of Resurrection | 32854 | [32854-revenge-of-the-spirit-rite-of-resurrection.json](./32854-revenge-of-the-spirit-rite-of-resurrection.json) |
 | Revenge of the Sunfish | 18084 | [18084-revenge-of-the-sunfish.json](./18084-revenge-of-the-sunfish.json) |
