@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank rush | 102151 | [102151-tank-rush.json](./102151-tank-rush.json) |
 | Tank Rush | 237256 | [237256-tank-rush.json](./237256-tank-rush.json) |
 | Tank Side Story | 156075 | [156075-tank-side-story.json](./156075-tank-side-story.json) |
+| Tank Society | 334553 | [334553-tank-society.json](./334553-tank-society.json) |
 | Tank Souls | 107387 | [107387-tank-souls.json](./107387-tank-souls.json) |
 | Tank Squad | 150429 | [150429-tank-squad.json](./150429-tank-squad.json) |
 | Tank Squad: Battle Hero | 233087 | [233087-tank-squad-battle-hero.json](./233087-tank-squad-battle-hero.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned House in Yeongdeok | 399073 | [399073-the-abandoned-house-in-yeongdeok.json](./399073-the-abandoned-house-in-yeongdeok.json) |
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abandoned Planet | 204113 | [204113-the-abandoned-planet.json](./204113-the-abandoned-planet.json) |
+| The Abbess Garden | 334464 | [334464-the-abbess-garden.json](./334464-the-abbess-garden.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey of Montglane | 113445 | [113445-the-abbey-of-montglane.json](./113445-the-abbey-of-montglane.json) |
 | The Abbey: Director's cut | 115606 | [115606-the-abbey-directors-cut.json](./115606-the-abbey-directors-cut.json) |
@@ -12565,6 +12567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
+| The Survivor | 334450 | [334450-the-survivor.json](./334450-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
 | The Survivors | 103263 | [103263-the-survivors.json](./103263-the-survivors.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
@@ -21674,6 +21677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Horror Collection | 204091 | [204091-trash-horror-collection.json](./204091-trash-horror-collection.json) |
 | Trash Horror Collection 2 | 219536 | [219536-trash-horror-collection-2.json](./219536-trash-horror-collection-2.json) |
 | Trash Horror Collection 3 | 242674 | [242674-trash-horror-collection-3.json](./242674-trash-horror-collection-3.json) |
+| Trash Horror Collection 5 | 334530 | [334530-trash-horror-collection-5.json](./334530-trash-horror-collection-5.json) |
 | Trash Invasion: Waste Recycle | 183905 | [183905-trash-invasion-waste-recycle.json](./183905-trash-invasion-waste-recycle.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
 | Trash It | 46492 | [46492-trash-it.json](./46492-trash-it.json) |
@@ -21692,6 +21696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
 | Trash Time | 115155 | [115155-trash-time.json](./115155-trash-time.json) |
+| Trash Trek Simulator | 334556 | [334556-trash-trek-simulator.json](./334556-trash-trek-simulator.json) |
 | Trash Troopers: Earth Reclaim | 273933 | [273933-trash-troopers-earth-reclaim.json](./273933-trash-troopers-earth-reclaim.json) |
 | Trash Tycoon | 204416 | [204416-trash-tycoon.json](./204416-trash-tycoon.json) |
 | Trash Wars | 134974 | [134974-trash-wars.json](./134974-trash-wars.json) |
