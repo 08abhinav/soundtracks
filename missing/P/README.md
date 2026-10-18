@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
 | Pic Happens! | 386471 | [386471-pic-happens.json](./386471-pic-happens.json) |
 | Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
+| Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 1 | 404289 | [404289-pic-a-pix-pieces-15x15-pieces-pack-1.json](./404289-pic-a-pix-pieces-15x15-pieces-pack-1.json) |
 | Pic-a-Pix Pieces: 15x15 Pieces Pack 10 | 404290 | [404290-pic-a-pix-pieces-15x15-pieces-pack-10.json](./404290-pic-a-pix-pieces-15x15-pieces-pack-10.json) |
