@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electric Zombies | 32610 | [32610-electric-zombies.json](./32610-electric-zombies.json) |
 | Electrician | 41304 | [41304-electrician.json](./41304-electrician.json) |
 | Electrician Simulator | 118473 | [118473-electrician-simulator.json](./118473-electrician-simulator.json) |
+| Electrician Simulator VR | 326444 | [326444-electrician-simulator-vr.json](./326444-electrician-simulator-vr.json) |
 | Electrician Simulator: Smart Devices | 245991 | [245991-electrician-simulator-smart-devices.json](./245991-electrician-simulator-smart-devices.json) |
 | Electricman 2: The Tournament of Voltagen | 195021 | [195021-electricman-2-the-tournament-of-voltagen.json](./195021-electricman-2-the-tournament-of-voltagen.json) |
 | ElectricScribe | 44222 | [44222-electricscribe.json](./44222-electricscribe.json) |
@@ -1582,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electronics Circuits Simulator | 41919 | [41919-electronics-circuits-simulator.json](./41919-electronics-circuits-simulator.json) |
 | Electronics Puzzle Lab | 264799 | [264799-electronics-puzzle-lab.json](./264799-electronics-puzzle-lab.json) |
 | Electronics Puzzle Lab 2 | 362342 | [362342-electronics-puzzle-lab-2.json](./362342-electronics-puzzle-lab-2.json) |
+| Electronics Supermarket Simulator | 326445 | [326445-electronics-supermarket-simulator.json](./326445-electronics-supermarket-simulator.json) |
 | Electroplankton | 18340 | [18340-electroplankton.json](./18340-electroplankton.json) |
 | Electroplankton Beatnes | 85105 | [85105-electroplankton-beatnes.json](./85105-electroplankton-beatnes.json) |
 | Electroplankton Hanenbow | 85117 | [85117-electroplankton-hanenbow.json](./85117-electroplankton-hanenbow.json) |
@@ -2296,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Business | 403092 | [403092-empire-business.json](./403092-empire-business.json) |
 | Empire Business 2 | 403107 | [403107-empire-business-2.json](./403107-empire-business-2.json) |
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
+| Empire City Simulator | 326446 | [326446-empire-city-simulator.json](./326446-empire-city-simulator.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire Deluxe: Masters Edition | 69745 | [69745-empire-deluxe-masters-edition.json](./69745-empire-deluxe-masters-edition.json) |
@@ -3510,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
 | Erotic Photoshoot | 297092 | [297092-erotic-photoshoot.json](./297092-erotic-photoshoot.json) |
 | Erotic Rhythm | 339764 | [339764-erotic-rhythm.json](./339764-erotic-rhythm.json) |
+| Erotic Shop Simulator | 326433 | [326433-erotic-shop-simulator.json](./326433-erotic-shop-simulator.json) |
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
@@ -4633,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
+| EV Station Simulator | 326434 | [326434-ev-station-simulator.json](./326434-ev-station-simulator.json) |
 | Ev.io | 142732 | [142732-ev-io.json](./142732-ev-io.json) |
 | EV2: Earth Version 2 | 270893 | [270893-ev2-earth-version-2.json](./270893-ev2-earth-version-2.json) |
 | EV3 - Drag Racing | 88251 | [88251-ev3-drag-racing.json](./88251-ev3-drag-racing.json) |
