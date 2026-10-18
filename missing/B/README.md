@@ -5666,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman Daijikai | 64287 | [64287-bikkuriman-daijikai.json](./64287-bikkuriman-daijikai.json) |
 | Bikkuriman Wonder Collection | 303819 | [303819-bikkuriman-wonder-collection.json](./303819-bikkuriman-wonder-collection.json) |
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
+| Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bikrash | 180527 | [180527-bikrash.json](./180527-bikrash.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
@@ -10184,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
 | Bowser's Lair Hockey | 231642 | [231642-bowsers-lair-hockey.json](./231642-bowsers-lair-hockey.json) |
+| Bowser's Last Stand | 321813 | [321813-bowsers-last-stand.json](./321813-bowsers-last-stand.json) |
 | Bowser's Revenge 3 | 276782 | [276782-bowsers-revenge-3.json](./276782-bowsers-revenge-3.json) |
 | Bowser's Revenge 4 | 316124 | [316124-bowsers-revenge-4.json](./316124-bowsers-revenge-4.json) |
 | Bowser's Valley | 268009 | [268009-bowsers-valley.json](./268009-bowsers-valley.json) |
@@ -11074,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeder: Homegrown - Director's Cut | 131971 | [131971-breeder-homegrown-directors-cut.json](./131971-breeder-homegrown-directors-cut.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
+| Breeze Contest | 321848 | [321848-breeze-contest.json](./321848-breeze-contest.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
 | Breeze of Ashes | 332251 | [332251-breeze-of-ashes.json](./332251-breeze-of-ashes.json) |
