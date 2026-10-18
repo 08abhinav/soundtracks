@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:30:33.712Z",
-  "total_soundtracks": 2147,
+  "generated_at": "2026-10-18T08:30:41.816Z",
+  "total_soundtracks": 2148,
   "games": [
     {
       "igdb_id": 7522,
@@ -6115,6 +6115,20 @@
         {
           "album_name": "Diablo IV: Vessel of Hatred (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3F4ROg6ZRKuevgBULADLrI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 13058,
+      "game_name": "Dick Tracy",
+      "game_url": "https://ostdb.net/games/dick-tracy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3053507d09d9255c66219b4",
+      "albums": [
+        {
+          "album_name": "Dick Tracy (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/2XDygZpsekWS5p44DDT2IL",
           "apple_music_url": "",
           "album_link_url": ""
         }
