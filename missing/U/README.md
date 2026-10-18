@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
 | Un Presagio de Huesos | 259751 | [259751-un-presagio-de-huesos.json](./259751-un-presagio-de-huesos.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
+| Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
 | Un:Birthday Song ~Ai wo Utau Shinigami~ | 54919 | [54919-un-birthday-song-ai-wo-utau-shinigami.json](./54919-un-birthday-song-ai-wo-utau-shinigami.json) |
 | Un:logical | 320393 | [320393-un-logical.json](./320393-un-logical.json) |
 | Un/Fragment | 289925 | [289925-un-fragment.json](./289925-un-fragment.json) |
