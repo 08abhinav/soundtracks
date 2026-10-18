@@ -5599,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man II SNES | 377765 | [377765-mega-man-ii-snes.json](./377765-mega-man-ii-snes.json) |
 | Mega Man III | 1735 | [1735-mega-man-iii.json](./1735-mega-man-iii.json) |
 | Mega Man III SNES | 377764 | [377764-mega-man-iii-snes.json](./377764-mega-man-iii-snes.json) |
+| Mega Man III Ultimate | 316492 | [316492-mega-man-iii-ultimate.json](./316492-mega-man-iii-ultimate.json) |
 | Mega Man in Super Mario Bros. | 269874 | [269874-mega-man-in-super-mario-bros.json](./269874-mega-man-in-super-mario-bros.json) |
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
@@ -8313,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
 | Mighty Math: Calculating Crew | 313278 | [313278-mighty-math-calculating-crew.json](./313278-mighty-math-calculating-crew.json) |
+| Mighty Metas | 316467 | [316467-mighty-metas.json](./316467-mighty-metas.json) |
 | Mighty Mighty Missile! | 128890 | [128890-mighty-mighty-missile.json](./128890-mighty-mighty-missile.json) |
 | Mighty Mike (Power Pete) | 72658 | [72658-mighty-mike-power-pete.json](./72658-mighty-mike-power-pete.json) |
 | Mighty Miners | 345815 | [345815-mighty-miners.json](./345815-mighty-miners.json) |
@@ -11801,6 +11803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 248558 | [248558-monsters-vs-aliens.json](./248558-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
+| Monsters vs. Aliens: The Mobile Game | 316477 | [316477-monsters-vs-aliens-the-mobile-game.json](./316477-monsters-vs-aliens-the-mobile-game.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
