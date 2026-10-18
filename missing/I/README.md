@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icemaze Cave: Skate Escape | 195560 | [195560-icemaze-cave-skate-escape.json](./195560-icemaze-cave-skate-escape.json) |
 | Iceroyds! | 126502 | [126502-iceroyds.json](./126502-iceroyds.json) |
 | Icesolation | 116121 | [116121-icesolation.json](./116121-icesolation.json) |
+| Icetwine | 346403 | [346403-icetwine.json](./346403-icetwine.json) |
 | Icewall | 188987 | [188987-icewall.json](./188987-icewall.json) |
 | Icewind Dale | 753 | [753-icewind-dale.json](./753-icewind-dale.json) |
 | Icewind Dale II | 876 | [876-icewind-dale-ii.json](./876-icewind-dale-ii.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inductor | 211282 | [211282-inductor.json](./211282-inductor.json) |
 | Indulge | 414312 | [414312-indulge.json](./414312-indulge.json) |
 | Industeria | 416684 | [416684-industeria.json](./416684-industeria.json) |
+| IndusTree | 346398 | [346398-industree.json](./346398-industree.json) |
 | Industria II | 292878 | [292878-industria-ii.json](./292878-industria-ii.json) |
 | Industrial Accident | 183993 | [183993-industrial-accident.json](./183993-industrial-accident.json) |
 | Industrial Annihilation | 324902 | [324902-industrial-annihilation.json](./324902-industrial-annihilation.json) |
