@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Wars: Legacy | 392372 | [392372-castle-wars-legacy.json](./392372-castle-wars-legacy.json) |
 | Castle Watch VR | 182818 | [182818-castle-watch-vr.json](./182818-castle-watch-vr.json) |
 | Castle Werewolf | 29609 | [29609-castle-werewolf.json](./29609-castle-werewolf.json) |
+| Castle WolfenDoom | 327020 | [327020-castle-wolfendoom.json](./327020-castle-wolfendoom.json) |
 | Castle Wolfenstein | 2727 | [2727-castle-wolfenstein.json](./2727-castle-wolfenstein.json) |
 | Castle Wonders: A Castle Tale | 156567 | [156567-castle-wonders-a-castle-tale.json](./156567-castle-wonders-a-castle-tale.json) |
 | Castle Woodwarf | 95952 | [95952-castle-woodwarf.json](./95952-castle-woodwarf.json) |
@@ -9706,6 +9707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquering the Queen | 127965 | [127965-conquering-the-queen.json](./127965-conquering-the-queen.json) |
 | Conquering Worlds | 59903 | [59903-conquering-worlds.json](./59903-conquering-worlds.json) |
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
+| Conqueror Of The Galaxy | 327046 | [327046-conqueror-of-the-galaxy.json](./327046-conqueror-of-the-galaxy.json) |
 | Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
 | Conqueror's Blade | 70985 | [70985-conquerors-blade.json](./70985-conquerors-blade.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
@@ -9755,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
+| Conradito Cafézito | 327048 | [327048-conradito-cafezito.json](./327048-conradito-cafezito.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
 | Conscientious Objector | 290347 | [290347-conscientious-objector.json](./290347-conscientious-objector.json) |
@@ -14361,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope: Experiments | 92498 | [92498-cut-the-rope-experiments.json](./92498-cut-the-rope-experiments.json) |
 | Cut the Rope: Holiday Gift | 91951 | [91951-cut-the-rope-holiday-gift.json](./91951-cut-the-rope-holiday-gift.json) |
 | Cut the Rope: Magic | 46498 | [46498-cut-the-rope-magic.json](./46498-cut-the-rope-magic.json) |
+| Cut the Rope: Origins | 327003 | [327003-cut-the-rope-origins.json](./327003-cut-the-rope-origins.json) |
 | Cut the Rope: Time Travel | 41512 | [41512-cut-the-rope-time-travel.json](./41512-cut-the-rope-time-travel.json) |
 | Cut Them Up | 150461 | [150461-cut-them-up.json](./150461-cut-them-up.json) |
 | Cut to the Core | 203963 | [203963-cut-to-the-core.json](./203963-cut-to-the-core.json) |
@@ -14473,6 +14477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuttle | 384341 | [384341-cuttle.json](./384341-cuttle.json) |
 | Cuttlefish | 252018 | [252018-cuttlefish.json](./252018-cuttlefish.json) |
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
+| Cutucadores | 327039 | [327039-cutucadores.json](./327039-cutucadores.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
 | Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
