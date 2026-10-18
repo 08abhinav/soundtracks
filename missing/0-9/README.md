@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 AM Moscow Time | 304848 | [304848-1-am-moscow-time.json](./304848-1-am-moscow-time.json) |
 | 1 Bit Survivor | 233992 | [233992-1-bit-survivor.json](./233992-1-bit-survivor.json) |
 | 1 CatLine | 391649 | [391649-1-catline.json](./391649-1-catline.json) |
+| 1 Fast Fight | 315347 | [315347-1-fast-fight.json](./315347-1-fast-fight.json) |
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
