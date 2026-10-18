@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Legends | 90492 | [90492-tales-of-legends.json](./90492-tales-of-legends.json) |
 | Tales of Legends IV: If | 55500 | [55500-tales-of-legends-iv-if.json](./55500-tales-of-legends-iv-if.json) |
 | Tales of Lost Ages Vol 1. | 298057 | [298057-tales-of-lost-ages-vol-1.json](./298057-tales-of-lost-ages-vol-1.json) |
+| Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of The Nightmares: Episode One | 352834 | [352834-tales-of-the-nightmares-episode-one.json](./352834-tales-of-the-nightmares-episode-one.json) |
 | Tales of the Odd: Brain Hotel | 60510 | [60510-tales-of-the-odd-brain-hotel.json](./60510-tales-of-the-odd-brain-hotel.json) |
 | Tales of the Orient: The Rising Sun | 27247 | [27247-tales-of-the-orient-the-rising-sun.json](./27247-tales-of-the-orient-the-rising-sun.json) |
+| Tales of the Past | 331749 | [331749-tales-of-the-past.json](./331749-tales-of-the-past.json) |
 | Tales of the Rays | 26906 | [26906-tales-of-the-rays.json](./26906-tales-of-the-rays.json) |
 | Tales of the Rays: Fairy's Requiem | 242466 | [242466-tales-of-the-rays-fairys-requiem.json](./242466-tales-of-the-rays-fairys-requiem.json) |
 | Tales of the Rays: Last Cradle | 242627 | [242627-tales-of-the-rays-last-cradle.json](./242627-tales-of-the-rays-last-cradle.json) |
@@ -8599,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last | 31802 | [31802-the-last.json](./31802-the-last.json) |
 | The Last (Hotdog) Stand | 399185 | [399185-the-last-hotdog-stand.json](./399185-the-last-hotdog-stand.json) |
 | The Last 66 Days | 278107 | [278107-the-last-66-days.json](./278107-the-last-66-days.json) |
+| The Last Adventure | 331756 | [331756-the-last-adventure.json](./331756-the-last-adventure.json) |
 | The Last Airbender | 27458 | [27458-the-last-airbender.json](./27458-the-last-airbender.json) |
 | The Last Airbender | 7983 | [7983-the-last-airbender.json](./7983-the-last-airbender.json) |
 | The Last Among The Dead | 351762 | [351762-the-last-among-the-dead.json](./351762-the-last-among-the-dead.json) |
@@ -13745,6 +13748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whistle | 270168 | [270168-the-whistle.json](./270168-the-whistle.json) |
 | The Whistle | 342837 | [342837-the-whistle.json](./342837-the-whistle.json) |
 | The White Birch | 63761 | [63761-the-white-birch.json](./63761-the-white-birch.json) |
+| The White Box | 331760 | [331760-the-white-box.json](./331760-the-white-box.json) |
 | The White Butcher | 122799 | [122799-the-white-butcher.json](./122799-the-white-butcher.json) |
 | The White Chamber | 79408 | [79408-the-white-chamber.json](./79408-the-white-chamber.json) |
 | The White Day | 305343 | [305343-the-white-day.json](./305343-the-white-day.json) |
@@ -23508,6 +23512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Got Guts | 394210 | [394210-turkey-got-guts.json](./394210-turkey-got-guts.json) |
 | Turkey Hunter 3D | 70317 | [70317-turkey-hunter-3d.json](./70317-turkey-hunter-3d.json) |
 | Turkey Hunter Deluxe | 57331 | [57331-turkey-hunter-deluxe.json](./57331-turkey-hunter-deluxe.json) |
+| Turkey Hunting USA | 331746 | [331746-turkey-hunting-usa.json](./331746-turkey-hunting-usa.json) |
 | Turkey Runner | 404422 | [404422-turkey-runner.json](./404422-turkey-runner.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
