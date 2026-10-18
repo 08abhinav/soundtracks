@@ -10247,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
 | Pretty Girls Panic! | 30181 | [30181-pretty-girls-panic.json](./30181-pretty-girls-panic.json) |
 | Pretty Girls Panic! Plus | 169680 | [169680-pretty-girls-panic-plus.json](./169680-pretty-girls-panic-plus.json) |
+| Pretty Girls Pop Match | 322414 | [322414-pretty-girls-pop-match.json](./322414-pretty-girls-pop-match.json) |
 | Pretty Girls Rivers | 192279 | [192279-pretty-girls-rivers.json](./192279-pretty-girls-rivers.json) |
 | Pretty girls teach beefy guys | 161329 | [161329-pretty-girls-teach-beefy-guys.json](./161329-pretty-girls-teach-beefy-guys.json) |
 | Pretty Girls Tile Match | 219695 | [219695-pretty-girls-tile-match.json](./219695-pretty-girls-tile-match.json) |
@@ -10898,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Fishing Challenge | 78688 | [78688-pro-fishing-challenge.json](./78688-pro-fishing-challenge.json) |
 | Pro Fishing Simulator | 111579 | [111579-pro-fishing-simulator.json](./111579-pro-fishing-simulator.json) |
 | Pro Fishing Simulator: Predator Edition | 115022 | [115022-pro-fishing-simulator-predator-edition.json](./115022-pro-fishing-simulator-predator-edition.json) |
+| Pro Flight Simulator | 322410 | [322410-pro-flight-simulator.json](./322410-pro-flight-simulator.json) |
 | Pro Flight Simulator New York Premium Edition | 88363 | [88363-pro-flight-simulator-new-york-premium-edition.json](./88363-pro-flight-simulator-new-york-premium-edition.json) |
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
