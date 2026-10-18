@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T12:18:29.845Z",
-  "total_missing": 228139,
+  "generated_at": "2026-10-18T12:21:27.535Z",
+  "total_missing": 228138,
   "games": [
     {
       "igdb_id": 191680,
@@ -1125690,11 +1125690,6 @@
       "igdb_id": 81188,
       "game_name": "Yesterday",
       "file": "missing/Y/81188-yesterday.json"
-    },
-    {
-      "igdb_id": 11545,
-      "game_name": "Yesterday Origins",
-      "file": "missing/Y/11545-yesterday-origins.json"
     },
     {
       "igdb_id": 165497,
