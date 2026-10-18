@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old World: Empires of the Indus | 400418 | [400418-old-world-empires-of-the-indus.json](./400418-old-world-empires-of-the-indus.json) |
 | Old World: Heroes of the Aegean | 199580 | [199580-old-world-heroes-of-the-aegean.json](./199580-old-world-heroes-of-the-aegean.json) |
 | Old World: Pharaohs of the Nile | 269215 | [269215-old-world-pharaohs-of-the-nile.json](./269215-old-world-pharaohs-of-the-nile.json) |
+| Old World: Wrath of Gods | 330024 | [330024-old-world-wrath-of-gods.json](./330024-old-world-wrath-of-gods.json) |
 | Old Young: RPG Mini | 331922 | [331922-old-young-rpg-mini.json](./331922-old-young-rpg-mini.json) |
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
