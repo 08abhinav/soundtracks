@@ -4535,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: A VR Adventure | 160151 | [160151-maze-a-vr-adventure.json](./160151-maze-a-vr-adventure.json) |
 | Maze: Interim Odyssey | 345677 | [345677-maze-interim-odyssey.json](./345677-maze-interim-odyssey.json) |
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
+| Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
 | Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
 | Maze: Path of Light - Wild Edition | 368780 | [368780-maze-path-of-light-wild-edition.json](./368780-maze-path-of-light-wild-edition.json) |
@@ -8005,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miffy's World | 85289 | [85289-miffys-world.json](./85289-miffys-world.json) |
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| Migakamikagami: Reviver | 358631 | [358631-migakamikagami-reviver.json](./358631-migakamikagami-reviver.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
 | Migblock | 387144 | [387144-migblock.json](./387144-migblock.json) |
 | Might | 32223 | [32223-might.json](./32223-might.json) |
@@ -10753,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
+| Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
