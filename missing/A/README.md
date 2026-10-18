@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Piece of Wish upon the Stars | 106410 | [106410-a-piece-of-wish-upon-the-stars.json](./106410-a-piece-of-wish-upon-the-stars.json) |
 | A Pilferer Lily's Naked Stealth Journey | 83162 | [83162-a-pilferer-lilys-naked-stealth-journey.json](./83162-a-pilferer-lilys-naked-stealth-journey.json) |
 | A Pinball Game That Makes You Mad | 371002 | [371002-a-pinball-game-that-makes-you-mad.json](./371002-a-pinball-game-that-makes-you-mad.json) |
+| A Pirate Game About Digging for Treasure and Getting Drunk | 357003 | [357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json](./357003-a-pirate-game-about-digging-for-treasure-and-getting-drunk.json) |
 | A Pirate Quartermaster | 120698 | [120698-a-pirate-quartermaster.json](./120698-a-pirate-quartermaster.json) |
 | A Pirate's End | 176276 | [176276-a-pirates-end.json](./176276-a-pirates-end.json) |
 | A Pixel Story | 27210 | [27210-a-pixel-story.json](./27210-a-pixel-story.json) |
@@ -1514,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss: Konmei no Toki | 319645 | [319645-abyss-konmei-no-toki.json](./319645-abyss-konmei-no-toki.json) |
 | Abyss: New Dawn | 283878 | [283878-abyss-new-dawn.json](./283878-abyss-new-dawn.json) |
 | Abyss: The Wraiths of Eden | 17136 | [17136-abyss-the-wraiths-of-eden.json](./17136-abyss-the-wraiths-of-eden.json) |
+| Abyss: The Wraiths of Eden - Collector's Edition | 357010 | [357010-abyss-the-wraiths-of-eden-collectors-edition.json](./357010-abyss-the-wraiths-of-eden-collectors-edition.json) |
 | Abyssal | 249850 | [249850-abyssal.json](./249850-abyssal.json) |
 | Abyssal | 308956 | [308956-abyssal.json](./308956-abyssal.json) |
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
@@ -2503,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: London - Collector's Edition | 200510 | [200510-adventure-trip-london-collectors-edition.json](./200510-adventure-trip-london-collectors-edition.json) |
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
+| Adventure Trip: Wonders of the World - Collector's Edition | 357013 | [357013-adventure-trip-wonders-of-the-world-collectors-edition.json](./357013-adventure-trip-wonders-of-the-world-collectors-edition.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Value Pack #4 | 81153 | [81153-adventure-value-pack-4.json](./81153-adventure-value-pack-4.json) |
@@ -2564,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Maddog Williams in the Dungeons of Duridian | 50500 | [50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./50500-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | Adventures of Megara: Antigone and the Living Toys | 173190 | [173190-adventures-of-megara-antigone-and-the-living-toys.json](./173190-adventures-of-megara-antigone-and-the-living-toys.json) |
 | Adventures of Megara: Demeter's Cat-astrophe | 149549 | [149549-adventures-of-megara-demeters-cat-astrophe.json](./149549-adventures-of-megara-demeters-cat-astrophe.json) |
+| Adventures of Megara: Demeter's Cat-astrophe - Collector's Edition | 357014 | [357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json](./357014-adventures-of-megara-demeters-cat-astrophe-collectors-edition.json) |
 | Adventures of Mike | 101344 | [101344-adventures-of-mike.json](./101344-adventures-of-mike.json) |
 | Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
@@ -4406,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexia Crow | 35387 | [35387-alexia-crow.json](./35387-alexia-crow.json) |
 | Alexios the Protector | 235463 | [235463-alexios-the-protector.json](./235463-alexios-the-protector.json) |
 | Alexis Almighty: Daughter of Hercules | 132553 | [132553-alexis-almighty-daughter-of-hercules.json](./132553-alexis-almighty-daughter-of-hercules.json) |
+| Alexis Almighty: Daughter of Hercules - Collector's Edition | 357035 | [357035-alexis-almighty-daughter-of-hercules-collectors-edition.json](./357035-alexis-almighty-daughter-of-hercules-collectors-edition.json) |
 | Alexis Arc: Heroes of the Three Kingdoms | 138195 | [138195-alexis-arc-heroes-of-the-three-kingdoms.json](./138195-alexis-arc-heroes-of-the-three-kingdoms.json) |
 | Alexus 2040 | 415242 | [415242-alexus-2040.json](./415242-alexus-2040.json) |
 | Aleya's Ascent | 142840 | [142840-aleyas-ascent.json](./142840-aleyas-ascent.json) |
@@ -4553,7 +4558,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Tea Cup Madness | 64706 | [64706-alices-tea-cup-madness.json](./64706-alices-tea-cup-madness.json) |
 | Alice's Warped Wonderland | 145633 | [145633-alices-warped-wonderland.json](./145633-alices-warped-wonderland.json) |
 | Alice's Warped Wonderland: Recollection | 214444 | [214444-alices-warped-wonderland-recollection.json](./214444-alices-warped-wonderland-recollection.json) |
+| Alice's Wonderland 2: Stolen Souls | 357105 | [357105-alices-wonderland-2-stolen-souls.json](./357105-alices-wonderland-2-stolen-souls.json) |
 | Alice's Wonderland 2: Stolen Souls - Collector's Edition | 337267 | [337267-alices-wonderland-2-stolen-souls-collectors-edition.json](./337267-alices-wonderland-2-stolen-souls-collectors-edition.json) |
+| Alice's Wonderland 3: Shackles of Time - Collector's Edition | 357106 | [357106-alices-wonderland-3-shackles-of-time-collectors-edition.json](./357106-alices-wonderland-3-shackles-of-time-collectors-edition.json) |
 | Alice's Wonderland 5: A Ray of Hope | 416870 | [416870-alices-wonderland-5-a-ray-of-hope.json](./416870-alices-wonderland-5-a-ray-of-hope.json) |
 | Alice's Wonderland 5: A Ray of Hope - Collector's Edition | 337268 | [337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json](./337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json) |
 | Alice's Wonderland 6: Fire and Ice - Collector's Edition | 337269 | [337269-alices-wonderland-6-fire-and-ice-collectors-edition.json](./337269-alices-wonderland-6-fire-and-ice-collectors-edition.json) |
