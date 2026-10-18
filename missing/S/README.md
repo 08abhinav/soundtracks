@@ -3511,6 +3511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
+| Seeker Neeko | 359853 | [359853-seeker-neeko.json](./359853-seeker-neeko.json) |
 | Seeker Of Shadows | 296625 | [296625-seeker-of-shadows.json](./296625-seeker-of-shadows.json) |
 | Seeker of the Ruins | 331304 | [331304-seeker-of-the-ruins.json](./331304-seeker-of-the-ruins.json) |
 | Seeker Shrine | 399735 | [399735-seeker-shrine.json](./399735-seeker-shrine.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
 | Shadow Asylum | 180610 | [180610-shadow-asylum.json](./180610-shadow-asylum.json) |
+| Shadow at school | 359854 | [359854-shadow-at-school.json](./359854-shadow-at-school.json) |
 | Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
@@ -6925,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffle! Episode 2: Kami ni mo Akuma ni mo Nerawareteiru Otoko | 380427 | [380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json](./380427-shuffle-episode-2-kami-ni-mo-akuma-ni-mo-nerawareteiru-otoko.json) |
 | Shuffle! Love Rainbow | 371580 | [371580-shuffle-love-rainbow.json](./371580-shuffle-love-rainbow.json) |
 | Shuffleboard | 170526 | [170526-shuffleboard.json](./170526-shuffleboard.json) |
+| Shuffleboard | 359747 | [359747-shuffleboard.json](./359747-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
@@ -12362,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
 | Sonic FGX: Ultimate | 326131 | [326131-sonic-fgx-ultimate.json](./326131-sonic-fgx-ultimate.json) |
+| Sonic Fighter | 359736 | [359736-sonic-fighter.json](./359736-sonic-fighter.json) |
 | Sonic Fighting Heroes: King of The Ring | 316344 | [316344-sonic-fighting-heroes-king-of-the-ring.json](./316344-sonic-fighting-heroes-king-of-the-ring.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
@@ -14918,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Racer: The Videogame | 5176 | [5176-speed-racer-the-videogame.json](./5176-speed-racer-the-videogame.json) |
 | Speed Racing | 247060 | [247060-speed-racing.json](./247060-speed-racing.json) |
 | Speed Rally | 364721 | [364721-speed-rally.json](./364721-speed-rally.json) |
+| Speed Rider | 359738 | [359738-speed-rider.json](./359738-speed-rider.json) |
 | Speed Rider Racing | 100166 | [100166-speed-rider-racing.json](./100166-speed-rider-racing.json) |
 | Speed Rivals: Slot Racing | 348939 | [348939-speed-rivals-slot-racing.json](./348939-speed-rivals-slot-racing.json) |
 | Speed Run | 304594 | [304594-speed-run.json](./304594-speed-run.json) |
@@ -17089,6 +17094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
+| Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
@@ -23081,6 +23087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
 | Super Morph | 76904 | [76904-super-morph.json](./76904-super-morph.json) |
 | Super Motherload | 20078 | [20078-super-motherload.json](./20078-super-motherload.json) |
+| Super Motocross | 359743 | [359743-super-motocross.json](./359743-super-motocross.json) |
 | Super Move Fun | 246421 | [246421-super-move-fun.json](./246421-super-move-fun.json) |
 | Super Move Quest | 246367 | [246367-super-move-quest.json](./246367-super-move-quest.json) |
 | Super Move Quest | 358909 | [358909-super-move-quest.json](./358909-super-move-quest.json) |
@@ -24278,6 +24285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfingers | 33613 | [33613-surfingers.json](./33613-surfingers.json) |
 | Surflexers | 201017 | [201017-surflexers.json](./201017-surflexers.json) |
 | Surfpunk | 314921 | [314921-surfpunk.json](./314921-surfpunk.json) |
+| Surfs Up! | 359745 | [359745-surfs-up.json](./359745-surfs-up.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
 | Surge | 86219 | [86219-surge.json](./86219-surge.json) |
