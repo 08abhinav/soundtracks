@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
 | Card Guardians | 175698 | [175698-card-guardians.json](./175698-card-guardians.json) |
+| Card Guesser: Red or Black | 324160 | [324160-card-guesser-red-or-black.json](./324160-card-guesser-red-or-black.json) |
 | Card Hog | 126819 | [126819-card-hog.json](./126819-card-hog.json) |
 | Card Hunter | 17231 | [17231-card-hunter.json](./17231-card-hunter.json) |
 | Card Killer | 158089 | [158089-card-killer.json](./158089-card-killer.json) |
@@ -3275,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats vs Zombies II | 379651 | [379651-cats-vs-zombies-ii.json](./379651-cats-vs-zombies-ii.json) |
 | Cats vs. Aliens | 295561 | [295561-cats-vs-aliens.json](./295561-cats-vs-aliens.json) |
 | Cats vs. Dogs | 365543 | [365543-cats-vs-dogs.json](./365543-cats-vs-dogs.json) |
+| Cats vs. Dogs: Military Mission | 324185 | [324185-cats-vs-dogs-military-mission.json](./324185-cats-vs-dogs-military-mission.json) |
 | Cats vs. Ghosts | 281981 | [281981-cats-vs-ghosts.json](./281981-cats-vs-ghosts.json) |
 | Cats vs. Rats | 372029 | [372029-cats-vs-rats.json](./372029-cats-vs-rats.json) |
 | Cats War | 303723 | [303723-cats-war.json](./303723-cats-war.json) |
@@ -10787,6 +10789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
+| Cosmic Royale | 324161 | [324161-cosmic-royale.json](./324161-cosmic-royale.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
 | Cosmic Rush | 331743 | [331743-cosmic-rush.json](./331743-cosmic-rush.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
