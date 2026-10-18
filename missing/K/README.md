@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Dragon | 175642 | [175642-kill-the-dragon.json](./175642-kill-the-dragon.json) |
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
+| Kill The Dream | 318292 | [318292-kill-the-dream.json](./318292-kill-the-dream.json) |
 | Kill the Emoji | 54999 | [54999-kill-the-emoji.json](./54999-kill-the-emoji.json) |
 | Kill The Emoji 2 | 342417 | [342417-kill-the-emoji-2.json](./342417-kill-the-emoji-2.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
