@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Binding Blade Plus | 233604 | [233604-fire-emblem-binding-blade-plus.json](./233604-fire-emblem-binding-blade-plus.json) |
 | Fire Emblem: Blessed Heart | 214493 | [214493-fire-emblem-blessed-heart.json](./214493-fire-emblem-blessed-heart.json) |
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
+| Fire Emblem: Bound Destiny | 345364 | [345364-fire-emblem-bound-destiny.json](./345364-fire-emblem-bound-destiny.json) |
 | Fire Emblem: Corrupt Theocracy | 140872 | [140872-fire-emblem-corrupt-theocracy.json](./140872-fire-emblem-corrupt-theocracy.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
 | Fire Emblem: Dark Lord and The Maiden of Light | 214537 | [214537-fire-emblem-dark-lord-and-the-maiden-of-light.json](./214537-fire-emblem-dark-lord-and-the-maiden-of-light.json) |
@@ -8424,6 +8425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeways | 68281 | [68281-freeways.json](./68281-freeways.json) |
 | Freewheelin | 253023 | [253023-freewheelin.json](./253023-freewheelin.json) |
 | FreeWorld | 300503 | [300503-freeworld.json](./300503-freeworld.json) |
+| Freezai's Mountain | 345358 | [345358-freezais-mountain.json](./345358-freezais-mountain.json) |
 | Freeze | 25884 | [25884-freeze.json](./25884-freeze.json) |
 | Freeze Climbing | 28596 | [28596-freeze-climbing.json](./28596-freeze-climbing.json) |
 | Freeze the Core | 187292 | [187292-freeze-the-core.json](./187292-freeze-the-core.json) |
