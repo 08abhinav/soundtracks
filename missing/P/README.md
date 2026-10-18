@@ -8395,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Pretty Girls Battle: Texas Hold'em | 34324 | [34324-poker-pretty-girls-battle-texas-holdem.json](./34324-poker-pretty-girls-battle-texas-holdem.json) |
 | Poker Puzzle Pokers Wii | 408944 | [408944-poker-puzzle-pokers-wii.json](./408944-poker-puzzle-pokers-wii.json) |
 | Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
+| Poker Rivals | 342478 | [342478-poker-rivals.json](./342478-poker-rivals.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
 | Poker Squ♠res | 81285 | [81285-poker-squ-res.json](./81285-poker-squ-res.json) |
