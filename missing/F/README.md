@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/tiger colosseum Upper | 12332 | [12332-fate-tiger-colosseum-upper.json](./12332-fate-tiger-colosseum-upper.json) |
 | Fate/unlimited codes Portable | 42863 | [42863-fate-unlimited-codes-portable.json](./42863-fate-unlimited-codes-portable.json) |
 | Fate/Zero the Visual Novel | 297459 | [297459-fate-zero-the-visual-novel.json](./297459-fate-zero-the-visual-novel.json) |
+| Fatebound Cards: Sundering Cities | 352518 | [352518-fatebound-cards-sundering-cities.json](./352518-fatebound-cards-sundering-cities.json) |
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
