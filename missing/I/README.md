@@ -2689,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinita Strada Hana | 395246 | [395246-infinita-strada-hana.json](./395246-infinita-strada-hana.json) |
 | InfinitasDM | 30546 | [30546-infinitasdm.json](./30546-infinitasdm.json) |
 | Infinite Abyss | 132528 | [132528-infinite-abyss.json](./132528-infinite-abyss.json) |
+| Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
 | Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
 | Infinite Art Museum | 114845 | [114845-infinite-art-museum.json](./114845-infinite-art-museum.json) |
