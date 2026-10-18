@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher Ground | 105077 | [105077-higher-ground.json](./105077-higher-ground.json) |
 | Higher or Lower: Spotify Edition | 378504 | [378504-higher-or-lower-spotify-edition.json](./378504-higher-or-lower-spotify-edition.json) |
 | Higher Than Mush | 371000 | [371000-higher-than-mush.json](./371000-higher-than-mush.json) |
+| HigherLower | 353627 | [353627-higherlower.json](./353627-higherlower.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
 | Highland Huntress | 302079 | [302079-highland-huntress.json](./302079-highland-huntress.json) |
 | Highland Panic | 248077 | [248077-highland-panic.json](./248077-highland-panic.json) |
