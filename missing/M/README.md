@@ -10631,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Chronicle: Deluxe Edition | 186878 | [186878-moero-chronicle-deluxe-edition.json](./186878-moero-chronicle-deluxe-edition.json) |
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
+| Moero Downhill Night 2 | 335720 | [335720-moero-downhill-night-2.json](./335720-moero-downhill-night-2.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Nettou Yakyuu '88 | 59990 | [59990-moero-nettou-yakyuu-88.json](./59990-moero-nettou-yakyuu-88.json) |
 | Moero!! Pro Yakyuu 2016 | 218985 | [218985-moero-pro-yakyuu-2016.json](./218985-moero-pro-yakyuu-2016.json) |
@@ -11933,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
+| Moonbrella | 335633 | [335633-moonbrella.json](./335633-moonbrella.json) |
 | MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
 | Moonbringer | 413478 | [413478-moonbringer.json](./413478-moonbringer.json) |
 | Mooncake Shop | 100989 | [100989-mooncake-shop.json](./100989-mooncake-shop.json) |
@@ -14119,6 +14121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Escape | 115137 | [115137-music-escape.json](./115137-music-escape.json) |
 | Music Flux | 21841 | [21841-music-flux.json](./21841-music-flux.json) |
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
+| Music Girl | 335741 | [335741-music-girl.json](./335741-music-girl.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
 | Music Inc | 232906 | [232906-music-inc.json](./232906-music-inc.json) |
@@ -14873,6 +14876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lewd Adventure | 341350 | [341350-my-lewd-adventure.json](./341350-my-lewd-adventure.json) |
 | My Lewd OS | 297150 | [297150-my-lewd-os.json](./297150-my-lewd-os.json) |
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
+| My Life as a Teenage Robot: Techno Tennis | 335724 | [335724-my-life-as-a-teenage-robot-techno-tennis.json](./335724-my-life-as-a-teenage-robot-techno-tennis.json) |
 | My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
 | My Life As An Archeologist | 170889 | [170889-my-life-as-an-archeologist.json](./170889-my-life-as-an-archeologist.json) |
@@ -14982,6 +14986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Maid Girlfriend | 107710 | [107710-my-maid-girlfriend.json](./107710-my-maid-girlfriend.json) |
 | My Make-Up | 93985 | [93985-my-make-up.json](./93985-my-make-up.json) |
 | My Many Masks | 422468 | [422468-my-many-masks.json](./422468-my-many-masks.json) |
+| My Mario Game | 335715 | [335715-my-mario-game.json](./335715-my-mario-game.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
