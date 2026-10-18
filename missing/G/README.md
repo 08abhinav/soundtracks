@@ -6326,6 +6326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 106971 | [106971-green.json](./106971-green.json) |
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green Alert | 368274 | [368274-green-alert.json](./368274-green-alert.json) |
+| Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
@@ -6411,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
 | GreenHill Again | 336339 | [336339-greenhill-again.json](./336339-greenhill-again.json) |
+| Greenhouse | 332315 | [332315-greenhouse.json](./332315-greenhouse.json) |
 | Greenhouse: Schism | 377269 | [377269-greenhouse-schism.json](./377269-greenhouse-schism.json) |
 | Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
 | Greenie's Little Adventure | 58500 | [58500-greenies-little-adventure.json](./58500-greenies-little-adventure.json) |
