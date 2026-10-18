@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windah Horror Adventure 2 | 287698 | [287698-windah-horror-adventure-2.json](./287698-windah-horror-adventure-2.json) |
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windborn: Journey to the South | 328982 | [328982-windborn-journey-to-the-south.json](./328982-windborn-journey-to-the-south.json) |
+| Windborn: Wings of Fate | 329435 | [329435-windborn-wings-of-fate.json](./329435-windborn-wings-of-fate.json) |
 | Windchaser | 50435 | [50435-windchaser.json](./50435-windchaser.json) |
 | Windchaser: Guilds of Glory | 69139 | [69139-windchaser-guilds-of-glory.json](./69139-windchaser-guilds-of-glory.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
@@ -4602,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch n' Wiz | 179670 | [179670-witch-n-wiz.json](./179670-witch-n-wiz.json) |
 | Witch of Ice Kingdom Collection | 52134 | [52134-witch-of-ice-kingdom-collection.json](./52134-witch-of-ice-kingdom-collection.json) |
 | Witch of Ice Kingdom II | 30034 | [30034-witch-of-ice-kingdom-ii.json](./30034-witch-of-ice-kingdom-ii.json) |
+| Witch of the Meta Loop | 329422 | [329422-witch-of-the-meta-loop.json](./329422-witch-of-the-meta-loop.json) |
 | Witch of the Woods | 110902 | [110902-witch-of-the-woods.json](./110902-witch-of-the-woods.json) |
 | Witch Pachi | 334293 | [334293-witch-pachi.json](./334293-witch-pachi.json) |
 | Witch Play House | 372689 | [372689-witch-play-house.json](./372689-witch-play-house.json) |
