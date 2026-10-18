@@ -5689,6 +5689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
+| Amaryllis | 347498 | [347498-amaryllis.json](./347498-amaryllis.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
 | Amateur Surgeon 2 | 182501 | [182501-amateur-surgeon-2.json](./182501-amateur-surgeon-2.json) |
@@ -7511,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
 | Anonymous Notes: Chapter 2 - From the Abyss | 84746 | [84746-anonymous-notes-chapter-2-from-the-abyss.json](./84746-anonymous-notes-chapter-2-from-the-abyss.json) |
 | Anonymous Notes: Chapter 3 - From the Abyss | 84747 | [84747-anonymous-notes-chapter-3-from-the-abyss.json](./84747-anonymous-notes-chapter-3-from-the-abyss.json) |
+| Anonymous_Hack | 347489 | [347489-anonymous-hack.json](./347489-anonymous-hack.json) |
 | Anonymous;Code | 11776 | [11776-anonymous-code.json](./11776-anonymous-code.json) |
 | Anonymous;Code: Digital Deluxe Edition | 260034 | [260034-anonymous-code-digital-deluxe-edition.json](./260034-anonymous-code-digital-deluxe-edition.json) |
 | Anonymous;Code: Limited Edition | 201045 | [201045-anonymous-code-limited-edition.json](./201045-anonymous-code-limited-edition.json) |
