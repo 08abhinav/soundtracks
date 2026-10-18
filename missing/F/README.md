@@ -8358,6 +8358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle BMX: featuring Brian Foster & Joey Garcia | 78318 | [78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json](./78318-freestyle-bmx-featuring-brian-foster-and-joey-garcia.json) |
 | Freestyle Boardin' '99 | 23155 | [23155-freestyle-boardin-99.json](./23155-freestyle-boardin-99.json) |
 | FreeStyle Football | 30033 | [30033-freestyle-football.json](./30033-freestyle-football.json) |
+| Freestyle Football 2 | 362044 | [362044-freestyle-football-2.json](./362044-freestyle-football-2.json) |
 | Freestyle Football R | 213008 | [213008-freestyle-football-r.json](./213008-freestyle-football-r.json) |
 | Freestyle Football Z | 270774 | [270774-freestyle-football-z.json](./270774-freestyle-football-z.json) |
 | Freestyle MetalX | 3920 | [3920-freestyle-metalx.json](./3920-freestyle-metalx.json) |
@@ -9069,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
+| Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk: 1886 | 341662 | [341662-frostpunk-1886.json](./341662-frostpunk-1886.json) |
 | Frostpunk: Console Edition | 117420 | [117420-frostpunk-console-edition.json](./117420-frostpunk-console-edition.json) |
 | Frostpunk: Game of the Year Edition | 169208 | [169208-frostpunk-game-of-the-year-edition.json](./169208-frostpunk-game-of-the-year-edition.json) |
