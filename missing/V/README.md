@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
+| Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
