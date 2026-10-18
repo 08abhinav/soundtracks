@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delivery Must Complete | 355102 | [355102-delivery-must-complete.json](./355102-delivery-must-complete.json) |
 | Delivery Mystery | 376032 | [376032-delivery-mystery.json](./376032-delivery-mystery.json) |
 | Delivery of Us | 380398 | [380398-delivery-of-us.json](./380398-delivery-of-us.json) |
+| Delivery Point Simulator | 326456 | [326456-delivery-point-simulator.json](./326456-delivery-point-simulator.json) |
 | Delivery Quest | 208428 | [208428-delivery-quest.json](./208428-delivery-quest.json) |
 | Delivery Service: Courier | 391697 | [391697-delivery-service-courier.json](./391697-delivery-service-courier.json) |
 | Delivery Simulator | 161335 | [161335-delivery-simulator.json](./161335-delivery-simulator.json) |
@@ -5057,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
 | Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
+| Desert of Ash: a Post-Apocalyptic Gay Sex Simulator | 326457 | [326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json](./326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
 | Desert of Vice | 95169 | [95169-desert-of-vice.json](./95169-desert-of-vice.json) |
@@ -7944,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DMD Mars Mission | 86516 | [86516-dmd-mars-mission.json](./86516-dmd-mars-mission.json) |
 | DMG Deals Damage | 163219 | [163219-dmg-deals-damage.json](./163219-dmg-deals-damage.json) |
 | Dmod | 275917 | [275917-dmod.json](./275917-dmod.json) |
+| DMT Simulator | 326436 | [326436-dmt-simulator.json](./326436-dmt-simulator.json) |
 | dMuse | 98978 | [98978-dmuse.json](./98978-dmuse.json) |
 | DMX Presents: Unnecessary Hypeman Hero | 138266 | [138266-dmx-presents-unnecessary-hypeman-hero.json](./138266-dmx-presents-unnecessary-hypeman-hero.json) |
 | DMZ | 275542 | [275542-dmz.json](./275542-dmz.json) |
@@ -8518,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dole: 5 A Day Adventures | 210113 | [210113-dole-5-a-day-adventures.json](./210113-dole-5-a-day-adventures.json) |
 | Dolguth | 34721 | [34721-dolguth.json](./34721-dolguth.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
+| Doll Catching Simulator | 326440 | [326440-doll-catching-simulator.json](./326440-doll-catching-simulator.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Dress Up | 317551 | [317551-doll-dress-up.json](./317551-doll-dress-up.json) |
@@ -8977,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
+| Doner Master Simulator | 326439 | [326439-doner-master-simulator.json](./326439-doner-master-simulator.json) |
 | Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
 | Dong Wu: Odyssey | 269032 | [269032-dong-wu-odyssey.json](./269032-dong-wu-odyssey.json) |
@@ -11256,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
 | Dream Back | 155891 | [155891-dream-back.json](./155891-dream-back.json) |
+| Dream Bar Simulator | 326438 | [326438-dream-bar-simulator.json](./326438-dream-bar-simulator.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
@@ -11356,6 +11362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hills: Captured Magic | 74670 | [74670-dream-hills-captured-magic.json](./74670-dream-hills-captured-magic.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
 | Dream Home | 127082 | [127082-dream-home.json](./127082-dream-home.json) |
+| Dream Home Simulator | 326437 | [326437-dream-home-simulator.json](./326437-dream-home-simulator.json) |
 | Dream Hopper | 200139 | [200139-dream-hopper.json](./200139-dream-hopper.json) |
 | Dream Hopper | 304147 | [304147-dream-hopper.json](./304147-dream-hopper.json) |
 | Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
@@ -11910,6 +11917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Real Truck SImulator | 409625 | [409625-drive-real-truck-simulator.json](./409625-drive-real-truck-simulator.json) |
 | Drive Simulator 2016 | 90673 | [90673-drive-simulator-2016.json](./90673-drive-simulator-2016.json) |
 | Drive Thru | 365860 | [365860-drive-thru.json](./365860-drive-thru.json) |
+| Drive Thru Simulator | 326441 | [326441-drive-thru-simulator.json](./326441-drive-thru-simulator.json) |
 | Drive Time Radio | 232910 | [232910-drive-time-radio.json](./232910-drive-time-radio.json) |
 | Drive to Hell | 36135 | [36135-drive-to-hell.json](./36135-drive-to-hell.json) |
 | Drive to The Top | 411690 | [411690-drive-to-the-top.json](./411690-drive-to-the-top.json) |
@@ -11971,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
+| Driving Simulator | 326442 | [326442-driving-simulator.json](./326442-driving-simulator.json) |
 | Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
@@ -12251,6 +12260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk | 184963 | [184963-drunk.json](./184963-drunk.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk as I Like: Gensokyo Drinking Attitude | 280719 | [280719-drunk-as-i-like-gensokyo-drinking-attitude.json](./280719-drunk-as-i-like-gensokyo-drinking-attitude.json) |
+| Drunk Builder Simulator | 326443 | [326443-drunk-builder-simulator.json](./326443-drunk-builder-simulator.json) |
 | Drunk but Not Wasted Knight | 363398 | [363398-drunk-but-not-wasted-knight.json](./363398-drunk-but-not-wasted-knight.json) |
 | Drunk Dad Vs Family | 395778 | [395778-drunk-dad-vs-family.json](./395778-drunk-dad-vs-family.json) |
 | Drunk Driving Simulator | 385980 | [385980-drunk-driving-simulator.json](./385980-drunk-driving-simulator.json) |
