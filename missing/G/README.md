@@ -7529,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
+| Guitar Hero II: Indonesia 2021 | 331737 | [331737-guitar-hero-ii-indonesia-2021.json](./331737-guitar-hero-ii-indonesia-2021.json) |
 | Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
 | Guitar Hero III Suicide | 310672 | [310672-guitar-hero-iii-suicide.json](./310672-guitar-hero-iii-suicide.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
