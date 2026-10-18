@@ -1069,6 +1069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanabi: Collector's Edition | 272293 | [272293-sanabi-collectors-edition.json](./272293-sanabi-collectors-edition.json) |
 | Sanada Juu Yuushi | 48862 | [48862-sanada-juu-yuushi.json](./48862-sanada-juu-yuushi.json) |
 | Sanae no Chou Tokkyuu: TheExpressTrial | 206929 | [206929-sanae-no-chou-tokkyuu-theexpresstrial.json](./206929-sanae-no-chou-tokkyuu-theexpresstrial.json) |
+| Sanae no Youkai Taiji Shinan | 360893 | [360893-sanae-no-youkai-taiji-shinan.json](./360893-sanae-no-youkai-taiji-shinan.json) |
 | Sanae Toumaden X | 158500 | [158500-sanae-toumaden-x.json](./158500-sanae-toumaden-x.json) |
 | Sanae Toumaden X2 | 224689 | [224689-sanae-toumaden-x2.json](./224689-sanae-toumaden-x2.json) |
 | Sanae's Sylphid Breeze | 300377 | [300377-sanaes-sylphid-breeze.json](./300377-sanaes-sylphid-breeze.json) |
@@ -3382,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector 13: Haunted Woods | 390056 | [390056-sector-13-haunted-woods.json](./390056-sector-13-haunted-woods.json) |
 | Sector 177 | 75200 | [75200-sector-177.json](./75200-sector-177.json) |
 | Sector 40: The Soviet Legacy | 133228 | [133228-sector-40-the-soviet-legacy.json](./133228-sector-40-the-soviet-legacy.json) |
+| Sector 404 | 360889 | [360889-sector-404.json](./360889-sector-404.json) |
 | Sector 452 | 139330 | [139330-sector-452.json](./139330-sector-452.json) |
 | Sector 666 | 308256 | [308256-sector-666.json](./308256-sector-666.json) |
 | Sector 666: The Forgotten Zone | 235824 | [235824-sector-666-the-forgotten-zone.json](./235824-sector-666-the-forgotten-zone.json) |
@@ -10869,6 +10871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
+| Snoopy & The Great Mystery Club | 360904 | [360904-snoopy-and-the-great-mystery-club.json](./360904-snoopy-and-the-great-mystery-club.json) |
 | Snoopy & The Great Mystery Club: Deluxe Edition | 368775 | [368775-snoopy-and-the-great-mystery-club-deluxe-edition.json](./368775-snoopy-and-the-great-mystery-club-deluxe-edition.json) |
 | Snoopy & The Great Mystery Club: Joe Cool Fun Pack | 368784 | [368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json](./368784-snoopy-and-the-great-mystery-club-joe-cool-fun-pack.json) |
 | Snoopy DS: Let's Go Meet Snoopy and His Friends! | 302711 | [302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json](./302711-snoopy-ds-lets-go-meet-snoopy-and-his-friends.json) |
@@ -16103,6 +16106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sport Games | 45603 | [45603-sport-games.json](./45603-sport-games.json) |
 | Sport Girls | 157187 | [157187-sport-girls.json](./157187-sport-girls.json) |
 | Sport Shooter | 157411 | [157411-sport-shooter.json](./157411-sport-shooter.json) |
+| Sport Shooter: The Eight Galleries | 360914 | [360914-sport-shooter-the-eight-galleries.json](./360914-sport-shooter-the-eight-galleries.json) |
 | Sport Vii | 358825 | [358825-sport-vii.json](./358825-sport-vii.json) |
 | Sport Vii | 358826 | [358826-sport-vii.json](./358826-sport-vii.json) |
 | Sport Vii | 358827 | [358827-sport-vii.json](./358827-sport-vii.json) |
@@ -16924,6 +16928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
+| Star Academy: Breakthrough! | 360898 | [360898-star-academy-breakthrough.json](./360898-star-academy-breakthrough.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
 | Star Age: Space Combat | 193175 | [193175-star-age-space-combat.json](./193175-star-age-space-combat.json) |
@@ -22799,6 +22804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
+| Super Mario Maker: World Engine | 360912 | [360912-super-mario-maker-world-engine.json](./360912-super-mario-maker-world-engine.json) |
 | Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
 | Super Mario Meltdown | 313408 | [313408-super-mario-meltdown.json](./313408-super-mario-meltdown.json) |
 | Super Mario MoonShine 64 | 198370 | [198370-super-mario-moonshine-64.json](./198370-super-mario-moonshine-64.json) |
@@ -24850,6 +24856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swat Kats | 218946 | [218946-swat-kats.json](./218946-swat-kats.json) |
 | SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
+| Swat the Fly | 360925 | [360925-swat-the-fly.json](./360925-swat-the-fly.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | SWAT: Urban Justice | 207004 | [207004-swat-urban-justice.json](./207004-swat-urban-justice.json) |
 | Swat! | 60557 | [60557-swat.json](./60557-swat.json) |
