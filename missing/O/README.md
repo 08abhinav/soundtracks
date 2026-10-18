@@ -2667,6 +2667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oppressiv Light | 180606 | [180606-oppressiv-light.json](./180606-oppressiv-light.json) |
 | Opps! They Love Me Way Too Much! | 292163 | [292163-opps-they-love-me-way-too-much.json](./292163-opps-they-love-me-way-too-much.json) |
 | Oprost | 380109 | [380109-oprost.json](./380109-oprost.json) |
+| Ops | 309749 | [309749-ops.json](./309749-ops.json) |
 | Opscam | 337156 | [337156-opscam.json](./337156-opscam.json) |
 | OpsCam: Body Cam Shooter | 345675 | [345675-opscam-body-cam-shooter.json](./345675-opscam-body-cam-shooter.json) |
 | Opsys | 71749 | [71749-opsys.json](./71749-opsys.json) |
