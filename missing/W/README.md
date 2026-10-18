@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
 | Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
+| Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
 | Wayward Souls: Curse of Shadow | 19270 | [19270-wayward-souls-curse-of-shadow.json](./19270-wayward-souls-curse-of-shadow.json) |
