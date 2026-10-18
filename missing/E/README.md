@@ -336,10 +336,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthsiege 2 | 11229 | [11229-earthsiege-2.json](./11229-earthsiege-2.json) |
 | Earthtia Saga: Larthur's Legend | 242223 | [242223-earthtia-saga-larthurs-legend.json](./242223-earthtia-saga-larthurs-legend.json) |
 | Earthworm Jim | 3480 | [3480-earthworm-jim.json](./3480-earthworm-jim.json) |
+| Earthworm Jim | 362035 | [362035-earthworm-jim.json](./362035-earthworm-jim.json) |
+| Earthworm Jim | 362036 | [362036-earthworm-jim.json](./362036-earthworm-jim.json) |
+| Earthworm Jim | 362037 | [362037-earthworm-jim.json](./362037-earthworm-jim.json) |
 | Earthworm Jim 1 & 2: The Whole Can 'O Worms | 125989 | [125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json](./125989-earthworm-jim-1-and-2-the-whole-can-o-worms.json) |
 | Earthworm Jim 2 | 242099 | [242099-earthworm-jim-2.json](./242099-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 242100 | [242100-earthworm-jim-2.json](./242100-earthworm-jim-2.json) |
 | Earthworm Jim 2 | 3481 | [3481-earthworm-jim-2.json](./3481-earthworm-jim-2.json) |
+| Earthworm Jim 2 | 362047 | [362047-earthworm-jim-2.json](./362047-earthworm-jim-2.json) |
+| Earthworm Jim 2 | 362048 | [362048-earthworm-jim-2.json](./362048-earthworm-jim-2.json) |
+| Earthworm Jim 2 | 362049 | [362049-earthworm-jim-2.json](./362049-earthworm-jim-2.json) |
+| Earthworm Jim 2 | 362054 | [362054-earthworm-jim-2.json](./362054-earthworm-jim-2.json) |
 | Earthworm Jim 3D | 3479 | [3479-earthworm-jim-3d.json](./3479-earthworm-jim-3d.json) |
 | Earthworm Jim 4 | 78268 | [78268-earthworm-jim-4.json](./78268-earthworm-jim-4.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
