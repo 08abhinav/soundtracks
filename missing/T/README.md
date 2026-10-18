@@ -9665,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lurking Horror | 12180 | [12180-the-lurking-horror.json](./12180-the-lurking-horror.json) |
 | The Lust City | 319070 | [319070-the-lust-city.json](./319070-the-lust-city.json) |
 | The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
+| The Lust Voyage | 353091 | [353091-the-lust-voyage.json](./353091-the-lust-voyage.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
