@@ -8631,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Blox | 44203 | [44203-mind-blox.json](./44203-mind-blox.json) |
 | Mind Body & Soul: Big Word Puzzle Book | 92626 | [92626-mind-body-and-soul-big-word-puzzle-book.json](./92626-mind-body-and-soul-big-word-puzzle-book.json) |
 | Mind Boggler | 245439 | [245439-mind-boggler.json](./245439-mind-boggler.json) |
+| Mind Castle II | 339702 | [339702-mind-castle-ii.json](./339702-mind-castle-ii.json) |
 | Mind Construct | 256439 | [256439-mind-construct.json](./256439-mind-construct.json) |
 | Mind Control | 25965 | [25965-mind-control.json](./25965-mind-control.json) |
 | Mind Control: Bloody Renaissance | 253910 | [253910-mind-control-bloody-renaissance.json](./253910-mind-control-bloody-renaissance.json) |
@@ -15702,6 +15703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ark | 42484 | [42484-mystic-ark.json](./42484-mystic-ark.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
+| Mystic Balloon | 339688 | [339688-mystic-balloon.json](./339688-mystic-balloon.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
