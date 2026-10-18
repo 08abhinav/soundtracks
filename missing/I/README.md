@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
 | Idle Cats Dungeon | 395155 | [395155-idle-cats-dungeon.json](./395155-idle-cats-dungeon.json) |
 | Idle Cave Miner | 227273 | [227273-idle-cave-miner.json](./227273-idle-cave-miner.json) |
+| Idle Cave Miner 2 | 347488 | [347488-idle-cave-miner-2.json](./347488-idle-cave-miner-2.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
 | Idle Champions: Aasimar Glitch Penelope Theme Pack | 295364 | [295364-idle-champions-aasimar-glitch-penelope-theme-pack.json](./295364-idle-champions-aasimar-glitch-penelope-theme-pack.json) |
@@ -2619,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferno Climber: Reborn | 95833 | [95833-inferno-climber-reborn.json](./95833-inferno-climber-reborn.json) |
 | Inferno Frontier | 340751 | [340751-inferno-frontier.json](./340751-inferno-frontier.json) |
 | Inferno Meltdown | 266867 | [266867-inferno-meltdown.json](./266867-inferno-meltdown.json) |
+| Inferno Pathways | 347564 | [347564-inferno-pathways.json](./347564-inferno-pathways.json) |
 | Inferno Protocol | 381679 | [381679-inferno-protocol.json](./381679-inferno-protocol.json) |
 | Inferno Quest: Journey Through the Lava Cavern | 248021 | [248021-inferno-quest-journey-through-the-lava-cavern.json](./248021-inferno-quest-journey-through-the-lava-cavern.json) |
 | Inferno Wizards | 145956 | [145956-inferno-wizards.json](./145956-inferno-wizards.json) |
@@ -4124,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iro Hero | 76090 | [76090-iro-hero.json](./76090-iro-hero.json) |
 | Iroase no Hate ni | 284601 | [284601-iroase-no-hate-ni.json](./284601-iroase-no-hate-ni.json) |
 | Irochi Mikke! | 276464 | [276464-irochi-mikke.json](./276464-irochi-mikke.json) |
+| Iroha Nihoheto | 347554 | [347554-iroha-nihoheto.json](./347554-iroha-nihoheto.json) |
 | Iromaze Ink Shop | 250244 | [250244-iromaze-ink-shop.json](./250244-iromaze-ink-shop.json) |
 | Iron | 394633 | [394633-iron.json](./394633-iron.json) |
 | Iron & Blood: Warriors of Ravenloft | 20608 | [20608-iron-and-blood-warriors-of-ravenloft.json](./20608-iron-and-blood-warriors-of-ravenloft.json) |
