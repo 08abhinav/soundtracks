@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T20:03:37.309Z",
-  "total_missing": 229676,
+  "generated_at": "2026-10-18T20:18:26.517Z",
+  "total_missing": 229726,
   "games": [
     {
       "igdb_id": 191680,
@@ -52657,6 +52657,11 @@
       "file": "missing/A/109396-apartment-327.json"
     },
     {
+      "igdb_id": 317710,
+      "game_name": "Apartment 606",
+      "file": "missing/A/317710-apartment-606.json"
+    },
+    {
       "igdb_id": 332462,
       "game_name": "Apartment Dream",
       "file": "missing/A/332462-apartment-dream.json"
@@ -96665,6 +96670,11 @@
       "igdb_id": 11951,
       "game_name": "Beast Busters",
       "file": "missing/B/11951-beast-busters.json"
+    },
+    {
+      "igdb_id": 317680,
+      "game_name": "Beast Busters & S.A.R: Search and Rescue",
+      "file": "missing/B/317680-beast-busters-and-s-a-r-search-and-rescue.json"
     },
     {
       "igdb_id": 60771,
@@ -162602,6 +162612,11 @@
       "file": "missing/C/183861-celebrating-pizza.json"
     },
     {
+      "igdb_id": 317692,
+      "game_name": "Celebrating Popcorn",
+      "file": "missing/C/317692-celebrating-popcorn.json"
+    },
+    {
       "igdb_id": 260192,
       "game_name": "Celebrities Hacked",
       "file": "missing/C/260192-celebrities-hacked.json"
@@ -167675,6 +167690,11 @@
       "igdb_id": 242489,
       "game_name": "Chef Life: A Restaurant Simulator - Al Forno Pack",
       "file": "missing/C/242489-chef-life-a-restaurant-simulator-al-forno-pack.json"
+    },
+    {
+      "igdb_id": 317671,
+      "game_name": "Chef Life: A Restaurant Simulator - Cooking Lab",
+      "file": "missing/C/317671-chef-life-a-restaurant-simulator-cooking-lab.json"
     },
     {
       "igdb_id": 295348,
@@ -229905,6 +229925,11 @@
       "igdb_id": 331088,
       "game_name": "Dawning Evil",
       "file": "missing/D/331088-dawning-evil.json"
+    },
+    {
+      "igdb_id": 317706,
+      "game_name": "Dawning Subaru, and The Owl lurking in the twilight.",
+      "file": "missing/D/317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json"
     },
     {
       "igdb_id": 260630,
@@ -372187,6 +372212,11 @@
       "file": "missing/G/212571-gal-guardians-demon-purge.json"
     },
     {
+      "igdb_id": 317701,
+      "game_name": "Gal Guardians: Servants of the Dark",
+      "file": "missing/G/317701-gal-guardians-servants-of-the-dark.json"
+    },
+    {
       "igdb_id": 92038,
       "game_name": "Gal Gunvolt Burst",
       "file": "missing/G/92038-gal-gunvolt-burst.json"
@@ -394790,6 +394820,16 @@
       "igdb_id": 336929,
       "game_name": "Golf With Your Friends: Horrifying Headgear Pack",
       "file": "missing/G/336929-golf-with-your-friends-horrifying-headgear-pack.json"
+    },
+    {
+      "igdb_id": 317679,
+      "game_name": "Golf With Your Friends: Legends of Olympus Pack",
+      "file": "missing/G/317679-golf-with-your-friends-legends-of-olympus-pack.json"
+    },
+    {
+      "igdb_id": 317687,
+      "game_name": "Golf With Your Friends: Olympus Odyssey Course",
+      "file": "missing/G/317687-golf-with-your-friends-olympus-odyssey-course.json"
     },
     {
       "igdb_id": 265868,
@@ -425252,6 +425292,11 @@
       "file": "missing/H/100191-heavy-gear-iii.json"
     },
     {
+      "igdb_id": 317677,
+      "game_name": "Heavy Hand: Complete DLC Bundle",
+      "file": "missing/H/317677-heavy-hand-complete-dlc-bundle.json"
+    },
+    {
       "igdb_id": 317254,
       "game_name": "Heavy Hand: Pixel Tree Forest Fury - Deluxe Edition",
       "file": "missing/H/317254-heavy-hand-pixel-tree-forest-fury-deluxe-edition.json"
@@ -430442,6 +430487,36 @@
       "file": "missing/H/283178-hentai-golf-deluxe-edition.json"
     },
     {
+      "igdb_id": 317658,
+      "game_name": "Hentai Golf: Golf Ball Set 1",
+      "file": "missing/H/317658-hentai-golf-golf-ball-set-1.json"
+    },
+    {
+      "igdb_id": 317659,
+      "game_name": "Hentai Golf: Golf Ball Set 2",
+      "file": "missing/H/317659-hentai-golf-golf-ball-set-2.json"
+    },
+    {
+      "igdb_id": 317661,
+      "game_name": "Hentai Golf: Golf Ball Set 3",
+      "file": "missing/H/317661-hentai-golf-golf-ball-set-3.json"
+    },
+    {
+      "igdb_id": 317660,
+      "game_name": "Hentai Golf: Golf Ball Set 4",
+      "file": "missing/H/317660-hentai-golf-golf-ball-set-4.json"
+    },
+    {
+      "igdb_id": 317662,
+      "game_name": "Hentai Golf: Golf Ball Set 5",
+      "file": "missing/H/317662-hentai-golf-golf-ball-set-5.json"
+    },
+    {
+      "igdb_id": 317663,
+      "game_name": "Hentai Golf: Golf Ball Set 6",
+      "file": "missing/H/317663-hentai-golf-golf-ball-set-6.json"
+    },
+    {
       "igdb_id": 313790,
       "game_name": "Hentai Golf: GOTY Edition",
       "file": "missing/H/313790-hentai-golf-goty-edition.json"
@@ -431975,6 +432050,11 @@
       "igdb_id": 313144,
       "game_name": "Hentai World: Ultra Extended",
       "file": "missing/H/313144-hentai-world-ultra-extended.json"
+    },
+    {
+      "igdb_id": 317664,
+      "game_name": "Hentai World: Ultra Premium",
+      "file": "missing/H/317664-hentai-world-ultra-premium.json"
     },
     {
       "igdb_id": 316270,
@@ -439782,6 +439862,11 @@
       "file": "missing/H/107135-highway-insanity.json"
     },
     {
+      "igdb_id": 317678,
+      "game_name": "Highway Legends: Complete DLC Bundle",
+      "file": "missing/H/317678-highway-legends-complete-dlc-bundle.json"
+    },
+    {
       "igdb_id": 413573,
       "game_name": "Highway Legends: Gold Edition",
       "file": "missing/H/413573-highway-legends-gold-edition.json"
@@ -447395,6 +447480,11 @@
       "igdb_id": 102963,
       "game_name": "Hope of humanity",
       "file": "missing/H/102963-hope-of-humanity.json"
+    },
+    {
+      "igdb_id": 317709,
+      "game_name": "Hope of Taru",
+      "file": "missing/H/317709-hope-of-taru.json"
     },
     {
       "igdb_id": 183348,
@@ -610272,6 +610362,11 @@
       "file": "missing/M/254677-mixx-island-remix-plus-ultimate-edition.json"
     },
     {
+      "igdb_id": 317665,
+      "game_name": "Mixx Island: Remix Plus - Ultra Complete",
+      "file": "missing/M/317665-mixx-island-remix-plus-ultra-complete.json"
+    },
+    {
       "igdb_id": 316274,
       "game_name": "Mixx Island: Remix Plus - Ultra Definitive",
       "file": "missing/M/316274-mixx-island-remix-plus-ultra-definitive.json"
@@ -622240,6 +622335,11 @@
       "igdb_id": 251533,
       "game_name": "Mosaic Chronicles Deluxe: Extended Edition",
       "file": "missing/M/251533-mosaic-chronicles-deluxe-extended-edition.json"
+    },
+    {
+      "igdb_id": 317667,
+      "game_name": "Mosaic Chronicles Deluxe: New Puzzle Story - Nothing Personal",
+      "file": "missing/M/317667-mosaic-chronicles-deluxe-new-puzzle-story-nothing-personal.json"
     },
     {
       "igdb_id": 260688,
@@ -641105,6 +641205,11 @@
       "igdb_id": 201495,
       "game_name": "Nano Organism",
       "file": "missing/N/201495-nano-organism.json"
+    },
+    {
+      "igdb_id": 317711,
+      "game_name": "Nano Player Pro: Mega Man",
+      "file": "missing/N/317711-nano-player-pro-mega-man.json"
     },
     {
       "igdb_id": 28674,
@@ -660325,6 +660430,11 @@
       "igdb_id": 355192,
       "game_name": "No Door Can Not be Opened with a Non-black Key",
       "file": "missing/N/355192-no-door-can-not-be-opened-with-a-non-black-key.json"
+    },
+    {
+      "igdb_id": 317707,
+      "game_name": "No Ducks Given",
+      "file": "missing/N/317707-no-ducks-given.json"
     },
     {
       "igdb_id": 180569,
@@ -742152,9 +742262,24 @@
       "file": "missing/P/317240-prince-of-persia-the-lost-crown-complete-edition.json"
     },
     {
+      "igdb_id": 317691,
+      "game_name": "Prince of Persia: The Lost Crown - Complete Upgrade Pack",
+      "file": "missing/P/317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json"
+    },
+    {
+      "igdb_id": 317689,
+      "game_name": "Prince of Persia: The Lost Crown - Dark Prince Skin",
+      "file": "missing/P/317689-prince-of-persia-the-lost-crown-dark-prince-skin.json"
+    },
+    {
       "igdb_id": 252992,
       "game_name": "Prince of Persia: The Lost Crown - Deluxe Edition",
       "file": "missing/P/252992-prince-of-persia-the-lost-crown-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 317690,
+      "game_name": "Prince of Persia: The Lost Crown - Two Thrones Skin",
+      "file": "missing/P/317690-prince-of-persia-the-lost-crown-two-thrones-skin.json"
     },
     {
       "igdb_id": 213051,
@@ -743385,6 +743510,11 @@
       "igdb_id": 59736,
       "game_name": "Prison Life RPG",
       "file": "missing/P/59736-prison-life-rpg.json"
+    },
+    {
+      "igdb_id": 317676,
+      "game_name": "Prison Life Simulator Jail: Glove Pack Expansion",
+      "file": "missing/P/317676-prison-life-simulator-jail-glove-pack-expansion.json"
     },
     {
       "igdb_id": 408750,
@@ -756115,6 +756245,11 @@
       "igdb_id": 209365,
       "game_name": "Puzzle Master Deluxe Suite",
       "file": "missing/P/209365-puzzle-master-deluxe-suite.json"
+    },
+    {
+      "igdb_id": 317675,
+      "game_name": "Puzzle Master: Complete DLC Bundle",
+      "file": "missing/P/317675-puzzle-master-complete-dlc-bundle.json"
     },
     {
       "igdb_id": 313442,
@@ -785187,6 +785322,26 @@
       "file": "missing/R/317276-retrorealms-arcade.json"
     },
     {
+      "igdb_id": 317683,
+      "game_name": "RetroRealms Arcade: Ash vs. Evil Dead Add-On",
+      "file": "missing/R/317683-retrorealms-arcade-ash-vs-evil-dead-add-on.json"
+    },
+    {
+      "igdb_id": 317685,
+      "game_name": "RetroRealms Arcade: Halloween Add-On",
+      "file": "missing/R/317685-retrorealms-arcade-halloween-add-on.json"
+    },
+    {
+      "igdb_id": 317684,
+      "game_name": "RetroRealms Arcade: Kelly Maxwell",
+      "file": "missing/R/317684-retrorealms-arcade-kelly-maxwell.json"
+    },
+    {
+      "igdb_id": 317686,
+      "game_name": "RetroRealms Arcade: Laurie Strode",
+      "file": "missing/R/317686-retrorealms-arcade-laurie-strode.json"
+    },
+    {
       "igdb_id": 320204,
       "game_name": "RetroRealms Double Feature: Halloween + Ash vs. Evil Dead",
       "file": "missing/R/320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json"
@@ -787262,6 +787417,11 @@
       "file": "missing/R/287858-reynatis.json"
     },
     {
+      "igdb_id": 317670,
+      "game_name": "Reynatis: \"Another\" Color Costume DLC",
+      "file": "missing/R/317670-reynatis-another-color-costume-dlc.json"
+    },
+    {
       "igdb_id": 288187,
       "game_name": "Reynatis: Deluxe Edition",
       "file": "missing/R/288187-reynatis-deluxe-edition.json"
@@ -787270,6 +787430,21 @@
       "igdb_id": 317908,
       "game_name": "Reynatis: Digital Deluxe Edition",
       "file": "missing/R/317908-reynatis-digital-deluxe-edition.json"
+    },
+    {
+      "igdb_id": 317674,
+      "game_name": "Reynatis: Marin & Sari's Formal Wear Costumes (Exclusive Color)",
+      "file": "missing/R/317674-reynatis-marin-and-saris-formal-wear-costumes-exclusive-color.json"
+    },
+    {
+      "igdb_id": 317673,
+      "game_name": "Reynatis: Marin's \"Another\" Weapon",
+      "file": "missing/R/317673-reynatis-marins-another-weapon.json"
+    },
+    {
+      "igdb_id": 317668,
+      "game_name": "Reynatis: Radiant Wizart DLC",
+      "file": "missing/R/317668-reynatis-radiant-wizart-dlc.json"
     },
     {
       "igdb_id": 317289,
@@ -791987,6 +792162,11 @@
       "file": "missing/R/313848-rising-tides.json"
     },
     {
+      "igdb_id": 317708,
+      "game_name": "Rising Up",
+      "file": "missing/R/317708-rising-up.json"
+    },
+    {
       "igdb_id": 128901,
       "game_name": "Rising UpUp",
       "file": "missing/R/128901-rising-upup.json"
@@ -792045,6 +792225,11 @@
       "igdb_id": 201040,
       "game_name": "Risk of Rain 2 + Survivors of the Void",
       "file": "missing/R/201040-risk-of-rain-2-survivors-of-the-void.json"
+    },
+    {
+      "igdb_id": 317682,
+      "game_name": "Risk of Rain 2 + Survivors of the Void + Seekers of the Storm Bundle",
+      "file": "missing/R/317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json"
     },
     {
       "igdb_id": 310531,
@@ -800695,6 +800880,11 @@
       "igdb_id": 19227,
       "game_name": "Rollin",
       "file": "missing/R/19227-rollin.json"
+    },
+    {
+      "igdb_id": 317697,
+      "game_name": "Rollin' Gun",
+      "file": "missing/R/317697-rollin-gun.json"
     },
     {
       "igdb_id": 169232,
@@ -818535,6 +818725,11 @@
       "igdb_id": 261364,
       "game_name": "Savant: Ascent Remix",
       "file": "missing/S/261364-savant-ascent-remix.json"
+    },
+    {
+      "igdb_id": 317700,
+      "game_name": "Savara",
+      "file": "missing/S/317700-savara.json"
     },
     {
       "igdb_id": 156043,
@@ -856252,6 +856447,11 @@
       "file": "missing/S/28024-skykeepers.json"
     },
     {
+      "igdb_id": 317703,
+      "game_name": "Skykipelago",
+      "file": "missing/S/317703-skykipelago.json"
+    },
+    {
       "igdb_id": 126349,
       "game_name": "Skyland 1976",
       "file": "missing/S/126349-skyland-1976.json"
@@ -874690,6 +874890,11 @@
       "igdb_id": 361629,
       "game_name": "Sonic the Hedgehog: A New Adventure",
       "file": "missing/S/361629-sonic-the-hedgehog-a-new-adventure.json"
+    },
+    {
+      "igdb_id": 317704,
+      "game_name": "Sonic the Hedgehog: Blasting Adventure",
+      "file": "missing/S/317704-sonic-the-hedgehog-blasting-adventure.json"
     },
     {
       "igdb_id": 318516,
@@ -893135,6 +893340,11 @@
       "igdb_id": 332526,
       "game_name": "Sprout Valley: Friends Forever Expansion",
       "file": "missing/S/332526-sprout-valley-friends-forever-expansion.json"
+    },
+    {
+      "igdb_id": 317666,
+      "game_name": "Sprout Valley: New Friend - Momo",
+      "file": "missing/S/317666-sprout-valley-new-friend-momo.json"
     },
     {
       "igdb_id": 316247,
@@ -914347,6 +914557,11 @@
       "file": "missing/S/147193-stunt-flyer-hero-of-the-skies.json"
     },
     {
+      "igdb_id": 317699,
+      "game_name": "Stunt Granny",
+      "file": "missing/S/317699-stunt-granny.json"
+    },
+    {
       "igdb_id": 90194,
       "game_name": "Stunt Hill",
       "file": "missing/S/90194-stunt-hill.json"
@@ -922987,6 +923202,11 @@
       "file": "missing/S/299733-super-happi-quest-3.json"
     },
     {
+      "igdb_id": 317681,
+      "game_name": "Super Hard Bundle",
+      "file": "missing/S/317681-super-hard-bundle.json"
+    },
+    {
       "igdb_id": 360580,
       "game_name": "Super Hard Game",
       "file": "missing/S/360580-super-hard-game.json"
@@ -929542,6 +929762,11 @@
       "file": "missing/S/113120-super-smash-bros-ultimate-fighters-pass.json"
     },
     {
+      "igdb_id": 317688,
+      "game_name": "Super Smash Bros. Ultimate: Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier)",
+      "file": "missing/S/317688-super-smash-bros-ultimate-fighters-pass-bonus-mii-fighter-costume-ancient-soldier.json"
+    },
+    {
       "igdb_id": 133834,
       "game_name": "Super Smash Bros. Ultimate: Fighters Pass Vol. 2",
       "file": "missing/S/133834-super-smash-bros-ultimate-fighters-pass-vol-2.json"
@@ -929555,6 +929780,11 @@
       "igdb_id": 306452,
       "game_name": "Super Smash Bros. Ultimate: Gil's Armor and Helmet",
       "file": "missing/S/306452-super-smash-bros-ultimate-gils-armor-and-helmet.json"
+    },
+    {
+      "igdb_id": 317672,
+      "game_name": "Super Smash Bros. Ultimate: Goemon Outfit and Wig",
+      "file": "missing/S/317672-super-smash-bros-ultimate-goemon-outfit-and-wig.json"
     },
     {
       "igdb_id": 376026,
@@ -966885,6 +967115,11 @@
       "igdb_id": 106440,
       "game_name": "The Call",
       "file": "missing/T/106440-the-call.json"
+    },
+    {
+      "igdb_id": 317693,
+      "game_name": "The Call",
+      "file": "missing/T/317693-the-call.json"
     },
     {
       "igdb_id": 400871,
@@ -1038072,6 +1038307,11 @@
       "file": "missing/T/289024-touhou-genso-wanderer-foresight.json"
     },
     {
+      "igdb_id": 317669,
+      "game_name": "Touhou Genso Wanderer: Foresight - Reimu Hakurei Elegant Shrine Maiden Robe",
+      "file": "missing/T/317669-touhou-genso-wanderer-foresight-reimu-hakurei-elegant-shrine-maiden-robe.json"
+    },
+    {
       "igdb_id": 310484,
       "game_name": "Touhou Genso Wanderer: Foresight - Reimu Hakurei Winter Costume",
       "file": "missing/T/310484-touhou-genso-wanderer-foresight-reimu-hakurei-winter-costume.json"
@@ -1073655,6 +1073895,11 @@
       "igdb_id": 204366,
       "game_name": "Unrooted",
       "file": "missing/U/204366-unrooted.json"
+    },
+    {
+      "igdb_id": 317712,
+      "game_name": "Unrooted",
+      "file": "missing/U/317712-unrooted.json"
     },
     {
       "igdb_id": 228121,
@@ -1129300,6 +1129545,11 @@
       "igdb_id": 159029,
       "game_name": "XDefiant",
       "file": "missing/X/159029-xdefiant.json"
+    },
+    {
+      "igdb_id": 317698,
+      "game_name": "XDefiant: Season 2 - Highwayman",
+      "file": "missing/X/317698-xdefiant-season-2-highwayman.json"
     },
     {
       "igdb_id": 350468,
