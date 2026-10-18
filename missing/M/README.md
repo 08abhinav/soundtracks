@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Quest II | 286436 | [286436-mahjong-quest-ii.json](./286436-mahjong-quest-ii.json) |
 | Mahjong Quest III: Balance of Life | 286437 | [286437-mahjong-quest-iii-balance-of-life.json](./286437-mahjong-quest-iii-balance-of-life.json) |
 | Mahjong Realms | 336012 | [336012-mahjong-realms.json](./336012-mahjong-realms.json) |
+| Mahjong Riddles: Egypt | 318870 | [318870-mahjong-riddles-egypt.json](./318870-mahjong-riddles-egypt.json) |
 | Mahjong Riichi Multiplayer | 373845 | [373845-mahjong-riichi-multiplayer.json](./373845-mahjong-riichi-multiplayer.json) |
 | Mahjong Roadshow | 29205 | [29205-mahjong-roadshow.json](./29205-mahjong-roadshow.json) |
 | Mahjong Route | 355207 | [355207-mahjong-route.json](./355207-mahjong-route.json) |
@@ -3014,11 +3015,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario's Early Years! Fun with Letters | 42502 | [42502-marios-early-years-fun-with-letters.json](./42502-marios-early-years-fun-with-letters.json) |
 | Mario's Early Years! Fun with Numbers | 42501 | [42501-marios-early-years-fun-with-numbers.json](./42501-marios-early-years-fun-with-numbers.json) |
 | Mario's Early Years! Preschool Fun | 42500 | [42500-marios-early-years-preschool-fun.json](./42500-marios-early-years-preschool-fun.json) |
+| Mario's Egg | 318861 | [318861-marios-egg.json](./318861-marios-egg.json) |
 | Mario's Face | 175970 | [175970-marios-face.json](./175970-marios-face.json) |
 | Mario's Final Adventure Wii | 294772 | [294772-marios-final-adventure-wii.json](./294772-marios-final-adventure-wii.json) |
 | Mario's Final Adventure Wii Returns | 336105 | [336105-marios-final-adventure-wii-returns.json](./336105-marios-final-adventure-wii-returns.json) |
 | Mario's Holiday | 270378 | [270378-marios-holiday.json](./270378-marios-holiday.json) |
 | Mario's House of STHU | 323747 | [323747-marios-house-of-sthu.json](./323747-marios-house-of-sthu.json) |
+| Mario's Journey | 318862 | [318862-marios-journey.json](./318862-marios-journey.json) |
 | Mario's Keep Co-op | 198473 | [198473-marios-keep-co-op.json](./198473-marios-keep-co-op.json) |
 | Mario's Keytastrophe: Rebirth Edition | 268445 | [268445-marios-keytastrophe-rebirth-edition.json](./268445-marios-keytastrophe-rebirth-edition.json) |
 | Mario's Little Odyssey | 135218 | [135218-marios-little-odyssey.json](./135218-marios-little-odyssey.json) |
