@@ -2056,6 +2056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
 | We Bare Bears: Bearsketball | 196864 | [196864-we-bare-bears-bearsketball.json](./196864-we-bare-bears-bearsketball.json) |
 | We Belong Dead | 406217 | [406217-we-belong-dead.json](./406217-we-belong-dead.json) |
+| We Bowling?! | 335052 | [335052-we-bowling.json](./335052-we-bowling.json) |
 | We Build Below | 361760 | [361760-we-build-below.json](./361760-we-build-below.json) |
 | We Can Make It | 216485 | [216485-we-can-make-it.json](./216485-we-can-make-it.json) |
 | We Can Smell It (maybe) | 376632 | [376632-we-can-smell-it-maybe.json](./376632-we-can-smell-it-maybe.json) |
