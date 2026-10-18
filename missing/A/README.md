@@ -3282,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Awesome | 26839 | [26839-agent-awesome.json](./26839-agent-awesome.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
+| Agent Dunoz | 333433 | [333433-agent-dunoz.json](./333433-agent-dunoz.json) |
 | Agent Fall | 324981 | [324981-agent-fall.json](./324981-agent-fall.json) |
 | Agent from C.O.G.O.O. | 234598 | [234598-agent-from-c-o-g-o-o.json](./234598-agent-from-c-o-g-o-o.json) |
 | Agent girl | 81668 | [81668-agent-girl.json](./81668-agent-girl.json) |
