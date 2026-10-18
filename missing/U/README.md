@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the bed | 179728 | [179728-under-the-bed.json](./179728-under-the-bed.json) |
 | Under the Black Moon | 221651 | [221651-under-the-black-moon.json](./221651-under-the-black-moon.json) |
 | Under the Blue Horizon | 312722 | [312722-under-the-blue-horizon.json](./312722-under-the-blue-horizon.json) |
+| Under The Blue Horizon: Aquarium | 320600 | [320600-under-the-blue-horizon-aquarium.json](./320600-under-the-blue-horizon-aquarium.json) |
 | Under the Bridge | 177885 | [177885-under-the-bridge.json](./177885-under-the-bridge.json) |
 | Under the Bridge | 221982 | [221982-under-the-bridge.json](./221982-under-the-bridge.json) |
 | Under the Brine | 233135 | [233135-under-the-brine.json](./233135-under-the-brine.json) |
