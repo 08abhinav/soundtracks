@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Pong | 352380 | [352380-happy-pong.json](./352380-happy-pong.json) |
 | Happy Pong | 90580 | [90580-happy-pong.json](./90580-happy-pong.json) |
 | Happy Princess: Another Fairytale | 77904 | [77904-happy-princess-another-fairytale.json](./77904-happy-princess-another-fairytale.json) |
+| Happy Puppy | 346396 | [346396-happy-puppy.json](./346396-happy-puppy.json) |
 | Happy Quest | 144926 | [144926-happy-quest.json](./144926-happy-quest.json) |
 | Happy Rabbit Farm | 338741 | [338741-happy-rabbit-farm.json](./338741-happy-rabbit-farm.json) |
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
+| Hardest Game About Jumping | 346390 | [346390-hardest-game-about-jumping.json](./346390-hardest-game-about-jumping.json) |
 | Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
 | Hardest Harvest | 139681 | [139681-hardest-harvest.json](./139681-hardest-harvest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
@@ -1789,6 +1791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Free Heroes RPG | 31682 | [31682-hate-free-heroes-rpg.json](./31682-hate-free-heroes-rpg.json) |
 | Hate Free Heroes: Agents of Aggro City | 171510 | [171510-hate-free-heroes-agents-of-aggro-city.json](./171510-hate-free-heroes-agents-of-aggro-city.json) |
 | Hate Plus | 16542 | [16542-hate-plus.json](./16542-hate-plus.json) |
+| Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Haters, kill them all! | 86540 | [86540-haters-kill-them-all.json](./86540-haters-kill-them-all.json) |
 | Hatetris | 280702 | [280702-hatetris.json](./280702-hatetris.json) |
@@ -6063,6 +6066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoa | 136981 | [136981-hoa.json](./136981-hoa.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
+| Hoard Defender VR | 346371 | [346371-hoard-defender-vr.json](./346371-hoard-defender-vr.json) |
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
