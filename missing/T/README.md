@@ -10813,6 +10813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
+| The Perfect Woman | 317074 | [317074-the-perfect-woman.json](./317074-the-perfect-woman.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Perils of Willy ZX | 411639 | [411639-the-perils-of-willy-zx.json](./411639-the-perils-of-willy-zx.json) |
@@ -13293,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trivial Dead | 145649 | [145649-the-trivial-dead.json](./145649-the-trivial-dead.json) |
 | The Troll | 265623 | [265623-the-troll.json](./265623-the-troll.json) |
 | The Troll & The Witch's House | 350437 | [350437-the-troll-and-the-witchs-house.json](./350437-the-troll-and-the-witchs-house.json) |
+| The Troll Sides | 317097 | [317097-the-troll-sides.json](./317097-the-troll-sides.json) |
 | The Trolley | 134996 | [134996-the-trolley.json](./134996-the-trolley.json) |
 | The Trolley Problem Game | 172138 | [172138-the-trolley-problem-game.json](./172138-the-trolley-problem-game.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
@@ -17327,6 +17329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
 | Titan Force | 289944 | [289944-titan-force.json](./289944-titan-force.json) |
+| Titan Fury | 317053 | [317053-titan-fury.json](./317053-titan-fury.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
@@ -18032,6 +18035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom & Jerry: The Ultimate Game of Cat and Mouse! | 8023 | [8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json](./8023-tom-and-jerry-the-ultimate-game-of-cat-and-mouse.json) |
 | Tom & Jerry: Yankee Doodle’s Cat-astrophe | 57689 | [57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json](./57689-tom-and-jerry-yankee-doodle-s-cat-astrophe.json) |
 | Tom and Jerry | 218399 | [218399-tom-and-jerry.json](./218399-tom-and-jerry.json) |
+| Tom and Jerry | 317063 | [317063-tom-and-jerry.json](./317063-tom-and-jerry.json) |
 | Tom and Jerry | 8025 | [8025-tom-and-jerry.json](./8025-tom-and-jerry.json) |
 | Tom and Jerry Cheese Chase | 8044 | [8044-tom-and-jerry-cheese-chase.json](./8044-tom-and-jerry-cheese-chase.json) |
 | Tom and Jerry in House Trap | 368636 | [368636-tom-and-jerry-in-house-trap.json](./368636-tom-and-jerry-in-house-trap.json) |
@@ -18905,6 +18909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshinden 4 | 1416 | [1416-toshinden-4.json](./1416-toshinden-4.json) |
 | Toshinden Card Quest | 43946 | [43946-toshinden-card-quest.json](./43946-toshinden-card-quest.json) |
 | Toshishita Kanojo | 382783 | [382783-toshishita-kanojo.json](./382783-toshishita-kanojo.json) |
+| Toshiue Kanojo | 317092 | [317092-toshiue-kanojo.json](./317092-toshiue-kanojo.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
