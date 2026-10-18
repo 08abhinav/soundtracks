@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-17T23:48:44.889Z",
-  "total_missing": 225791,
+  "generated_at": "2026-10-18T00:03:21.739Z",
+  "total_missing": 225841,
   "games": [
     {
       "igdb_id": 191680,
@@ -290762,6 +290762,11 @@
       "file": "missing/E/380791-elbab.json"
     },
     {
+      "igdb_id": 362582,
+      "game_name": "Elbe",
+      "file": "missing/E/362582-elbe.json"
+    },
+    {
       "igdb_id": 197153,
       "game_name": "ElbmarKs",
       "file": "missing/E/197153-elbmarks.json"
@@ -293565,6 +293570,11 @@
       "igdb_id": 43276,
       "game_name": "Elvandia Story",
       "file": "missing/E/43276-elvandia-story.json"
+    },
+    {
+      "igdb_id": 362585,
+      "game_name": "Elvarn",
+      "file": "missing/E/362585-elvarn.json"
     },
     {
       "igdb_id": 31997,
@@ -338795,6 +338805,31 @@
       "igdb_id": 179724,
       "game_name": "Five Nights at Kyle's 2",
       "file": "missing/F/179724-five-nights-at-kyles-2.json"
+    },
+    {
+      "igdb_id": 362592,
+      "game_name": "Five Nights at Leon's",
+      "file": "missing/F/362592-five-nights-at-leons.json"
+    },
+    {
+      "igdb_id": 362610,
+      "game_name": "Five Nights at Leon’s 2",
+      "file": "missing/F/362610-five-nights-at-leon-s-2.json"
+    },
+    {
+      "igdb_id": 362602,
+      "game_name": "Five Nights at Leon’s 3",
+      "file": "missing/F/362602-five-nights-at-leon-s-3.json"
+    },
+    {
+      "igdb_id": 362595,
+      "game_name": "Five Nights at Leon’s 4",
+      "file": "missing/F/362595-five-nights-at-leon-s-4.json"
+    },
+    {
+      "igdb_id": 362594,
+      "game_name": "Five Nights at Leon's: Remastered",
+      "file": "missing/F/362594-five-nights-at-leons-remastered.json"
     },
     {
       "igdb_id": 301498,
@@ -429210,6 +429245,11 @@
       "igdb_id": 257068,
       "game_name": "Hidden Kingdom: Top-Down 3D",
       "file": "missing/H/257068-hidden-kingdom-top-down-3d.json"
+    },
+    {
+      "igdb_id": 362584,
+      "game_name": "Hidden Kooky Set",
+      "file": "missing/H/362584-hidden-kooky-set.json"
     },
     {
       "igdb_id": 343784,
@@ -529232,6 +529272,11 @@
       "file": "missing/L/82680-life-simulator-of-you-a-married-woman-seduced.json"
     },
     {
+      "igdb_id": 362587,
+      "game_name": "Life Slash Death",
+      "file": "missing/L/362587-life-slash-death.json"
+    },
+    {
       "igdb_id": 117093,
       "game_name": "Life source",
       "file": "missing/L/117093-life-source.json"
@@ -582392,6 +582437,11 @@
       "file": "missing/M/291696-merk-mayhem.json"
     },
     {
+      "igdb_id": 362581,
+      "game_name": "Merlin",
+      "file": "missing/M/362581-merlin.json"
+    },
+    {
       "igdb_id": 50034,
       "game_name": "Merlin",
       "file": "missing/M/50034-merlin.json"
@@ -589720,6 +589770,11 @@
       "igdb_id": 75981,
       "game_name": "Mighty Morphin Power Rangers: The Movie",
       "file": "missing/M/75981-mighty-morphin-power-rangers-the-movie.json"
+    },
+    {
+      "igdb_id": 362576,
+      "game_name": "Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger",
+      "file": "missing/M/362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json"
     },
     {
       "igdb_id": 334115,
@@ -597730,6 +597785,11 @@
       "igdb_id": 416625,
       "game_name": "Missing Hearts: Crimson Cruise",
       "file": "missing/M/416625-missing-hearts-crimson-cruise.json"
+    },
+    {
+      "igdb_id": 362590,
+      "game_name": "Missing Hearts: Сrimson Cruise - Collector's Edition",
+      "file": "missing/M/362590-missing-hearts-rimson-cruise-collectors-edition.json"
     },
     {
       "igdb_id": 224003,
@@ -607542,6 +607602,11 @@
       "file": "missing/M/100757-moon-games-lunar-slalom.json"
     },
     {
+      "igdb_id": 362589,
+      "game_name": "Moon Garden Optimizer",
+      "file": "missing/M/362589-moon-garden-optimizer.json"
+    },
+    {
       "igdb_id": 310525,
       "game_name": "Moon Ghost",
       "file": "missing/M/310525-moon-ghost.json"
@@ -610340,6 +610405,131 @@
       "igdb_id": 1614,
       "game_name": "Mortal Kombat: Shaolin Monks",
       "file": "missing/M/1614-mortal-kombat-shaolin-monks.json"
+    },
+    {
+      "igdb_id": 362598,
+      "game_name": "Mortal Kombat: Tiger Barcodzz",
+      "file": "missing/M/362598-mortal-kombat-tiger-barcodzz.json"
+    },
+    {
+      "igdb_id": 362599,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Goro",
+      "file": "missing/M/362599-mortal-kombat-tiger-barcodzz-goro.json"
+    },
+    {
+      "igdb_id": 362608,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Goro",
+      "file": "missing/M/362608-mortal-kombat-tiger-barcodzz-goro.json"
+    },
+    {
+      "igdb_id": 362612,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Goro",
+      "file": "missing/M/362612-mortal-kombat-tiger-barcodzz-goro.json"
+    },
+    {
+      "igdb_id": 362606,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Johnny Cage",
+      "file": "missing/M/362606-mortal-kombat-tiger-barcodzz-johnny-cage.json"
+    },
+    {
+      "igdb_id": 362609,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Johnny Cage",
+      "file": "missing/M/362609-mortal-kombat-tiger-barcodzz-johnny-cage.json"
+    },
+    {
+      "igdb_id": 362605,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Kano",
+      "file": "missing/M/362605-mortal-kombat-tiger-barcodzz-kano.json"
+    },
+    {
+      "igdb_id": 362607,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Kano",
+      "file": "missing/M/362607-mortal-kombat-tiger-barcodzz-kano.json"
+    },
+    {
+      "igdb_id": 362619,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Kano",
+      "file": "missing/M/362619-mortal-kombat-tiger-barcodzz-kano.json"
+    },
+    {
+      "igdb_id": 362617,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Liu Kang",
+      "file": "missing/M/362617-mortal-kombat-tiger-barcodzz-liu-kang.json"
+    },
+    {
+      "igdb_id": 362623,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Liu Kang",
+      "file": "missing/M/362623-mortal-kombat-tiger-barcodzz-liu-kang.json"
+    },
+    {
+      "igdb_id": 362613,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Mortal Kombat",
+      "file": "missing/M/362613-mortal-kombat-tiger-barcodzz-mortal-kombat.json"
+    },
+    {
+      "igdb_id": 362614,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Rayden",
+      "file": "missing/M/362614-mortal-kombat-tiger-barcodzz-rayden.json"
+    },
+    {
+      "igdb_id": 362620,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Rayden",
+      "file": "missing/M/362620-mortal-kombat-tiger-barcodzz-rayden.json"
+    },
+    {
+      "igdb_id": 362624,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Rayden",
+      "file": "missing/M/362624-mortal-kombat-tiger-barcodzz-rayden.json"
+    },
+    {
+      "igdb_id": 362600,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Scorpion",
+      "file": "missing/M/362600-mortal-kombat-tiger-barcodzz-scorpion.json"
+    },
+    {
+      "igdb_id": 362616,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Scorpion",
+      "file": "missing/M/362616-mortal-kombat-tiger-barcodzz-scorpion.json"
+    },
+    {
+      "igdb_id": 362604,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Shang Tsung",
+      "file": "missing/M/362604-mortal-kombat-tiger-barcodzz-shang-tsung.json"
+    },
+    {
+      "igdb_id": 362611,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Shang Tsung",
+      "file": "missing/M/362611-mortal-kombat-tiger-barcodzz-shang-tsung.json"
+    },
+    {
+      "igdb_id": 362622,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Shang Tsung",
+      "file": "missing/M/362622-mortal-kombat-tiger-barcodzz-shang-tsung.json"
+    },
+    {
+      "igdb_id": 362601,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Sonya Blade",
+      "file": "missing/M/362601-mortal-kombat-tiger-barcodzz-sonya-blade.json"
+    },
+    {
+      "igdb_id": 362603,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Sonya Blade",
+      "file": "missing/M/362603-mortal-kombat-tiger-barcodzz-sonya-blade.json"
+    },
+    {
+      "igdb_id": 362618,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Sonya Blade",
+      "file": "missing/M/362618-mortal-kombat-tiger-barcodzz-sonya-blade.json"
+    },
+    {
+      "igdb_id": 362615,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Sub-Zero",
+      "file": "missing/M/362615-mortal-kombat-tiger-barcodzz-sub-zero.json"
+    },
+    {
+      "igdb_id": 362621,
+      "game_name": "Mortal Kombat: Tiger Barcodzz - Sub-Zero",
+      "file": "missing/M/362621-mortal-kombat-tiger-barcodzz-sub-zero.json"
     },
     {
       "igdb_id": 1615,
@@ -613345,6 +613535,11 @@
       "igdb_id": 139290,
       "game_name": "Mousebound",
       "file": "missing/M/139290-mousebound.json"
+    },
+    {
+      "igdb_id": 362586,
+      "game_name": "Mouseburg: Pursuit of Power",
+      "file": "missing/M/362586-mouseburg-pursuit-of-power.json"
     },
     {
       "igdb_id": 326723,
@@ -627360,6 +627555,16 @@
       "igdb_id": 319018,
       "game_name": "Mythical Love",
       "file": "missing/M/319018-mythical-love.json"
+    },
+    {
+      "igdb_id": 362597,
+      "game_name": "Mythical Mayhem: Judgment Night Expansion",
+      "file": "missing/M/362597-mythical-mayhem-judgment-night-expansion.json"
+    },
+    {
+      "igdb_id": 362596,
+      "game_name": "Mythical Mayhem: Twisting Sands Expansion",
+      "file": "missing/M/362596-mythical-mayhem-twisting-sands-expansion.json"
     },
     {
       "igdb_id": 292747,
@@ -684507,6 +684712,11 @@
       "file": "missing/P/260607-parafron.json"
     },
     {
+      "igdb_id": 362588,
+      "game_name": "Paragliding Sim",
+      "file": "missing/P/362588-paragliding-sim.json"
+    },
+    {
       "igdb_id": 320184,
       "game_name": "Paragnosia",
       "file": "missing/P/320184-paragnosia.json"
@@ -718985,6 +719195,11 @@
       "igdb_id": 414554,
       "game_name": "PokeRank",
       "file": "missing/P/414554-pokerank.json"
+    },
+    {
+      "igdb_id": 362593,
+      "game_name": "Pokerchinko",
+      "file": "missing/P/362593-pokerchinko.json"
     },
     {
       "igdb_id": 209348,
@@ -848760,6 +848975,11 @@
       "igdb_id": 49812,
       "game_name": "Snapkid's",
       "file": "missing/S/49812-snapkids.json"
+    },
+    {
+      "igdb_id": 362580,
+      "game_name": "Snapped Distance",
+      "file": "missing/S/362580-snapped-distance.json"
     },
     {
       "igdb_id": 13757,
@@ -1021182,6 +1021402,11 @@
       "file": "missing/T/151475-toupei55.json"
     },
     {
+      "igdb_id": 362583,
+      "game_name": "Touqi Guaitan",
+      "file": "missing/T/362583-touqi-guaitan.json"
+    },
+    {
       "igdb_id": 179505,
       "game_name": "Tour de Akiba",
       "file": "missing/T/179505-tour-de-akiba.json"
@@ -1108800,6 +1109025,31 @@
       "igdb_id": 71715,
       "game_name": "X-Men: The Ravages of Apocalypse",
       "file": "missing/X/71715-x-men-the-ravages-of-apocalypse.json"
+    },
+    {
+      "igdb_id": 362628,
+      "game_name": "X-Men: Tiger Barcodzz - Apocalypse",
+      "file": "missing/X/362628-x-men-tiger-barcodzz-apocalypse.json"
+    },
+    {
+      "igdb_id": 362629,
+      "game_name": "X-Men: Tiger Barcodzz - Beast",
+      "file": "missing/X/362629-x-men-tiger-barcodzz-beast.json"
+    },
+    {
+      "igdb_id": 362626,
+      "game_name": "X-Men: Tiger Barcodzz - Cyclops",
+      "file": "missing/X/362626-x-men-tiger-barcodzz-cyclops.json"
+    },
+    {
+      "igdb_id": 362627,
+      "game_name": "X-Men: Tiger Barcodzz - Jubilee",
+      "file": "missing/X/362627-x-men-tiger-barcodzz-jubilee.json"
+    },
+    {
+      "igdb_id": 362625,
+      "game_name": "X-Men: Tiger Barcodzz - Wolverine",
+      "file": "missing/X/362625-x-men-tiger-barcodzz-wolverine.json"
     },
     {
       "igdb_id": 49899,
