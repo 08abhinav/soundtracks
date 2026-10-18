@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldorion: Guardians of the Crystals | 346604 | [346604-eldorion-guardians-of-the-crystals.json](./346604-eldorion-guardians-of-the-crystals.json) |
 | Eldr Legacy | 102881 | [102881-eldr-legacy.json](./102881-eldr-legacy.json) |
 | Eldrador Creatures | 139836 | [139836-eldrador-creatures.json](./139836-eldrador-creatures.json) |
+| Eldrador Creatures: Shadowfall | 324762 | [324762-eldrador-creatures-shadowfall.json](./324762-eldrador-creatures-shadowfall.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
 | Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
 | Eldritch | 8070 | [8070-eldritch.json](./8070-eldritch.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energy Warrior | 55100 | [55100-energy-warrior.json](./55100-energy-warrior.json) |
 | Energy Warrior + Molecule Man | 92999 | [92999-energy-warrior-molecule-man.json](./92999-energy-warrior-molecule-man.json) |
 | Enersify | 116123 | [116123-enersify.json](./116123-enersify.json) |
+| Enex2: The Hero's Shadow | 324728 | [324728-enex2-the-heros-shadow.json](./324728-enex2-the-heros-shadow.json) |
 | ENF Novels: Dress Code | 286526 | [286526-enf-novels-dress-code.json](./286526-enf-novels-dress-code.json) |
 | Enfant Terrible | 65395 | [65395-enfant-terrible.json](./65395-enfant-terrible.json) |
 | Enfora Star | 366033 | [366033-enfora-star.json](./366033-enfora-star.json) |
@@ -2984,6 +2986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enotria: The Last Song | 218521 | [218521-enotria-the-last-song.json](./218521-enotria-the-last-song.json) |
+| Enotria: The Last Song - Deluxe Edition | 324763 | [324763-enotria-the-last-song-deluxe-edition.json](./324763-enotria-the-last-song-deluxe-edition.json) |
 | Enough Plumbers | 141730 | [141730-enough-plumbers.json](./141730-enough-plumbers.json) |
 | Enough Sheep | 277382 | [277382-enough-sheep.json](./277382-enough-sheep.json) |
 | Enough with the Witch | 298677 | [298677-enough-with-the-witch.json](./298677-enough-with-the-witch.json) |
@@ -3739,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Ruby Castle | 149034 | [149034-escape-from-ruby-castle.json](./149034-escape-from-ruby-castle.json) |
 | Escape From Russia | 368672 | [368672-escape-from-russia.json](./368672-escape-from-russia.json) |
 | Escape from Russia: Mobilization Madness | 260579 | [260579-escape-from-russia-mobilization-madness.json](./260579-escape-from-russia-mobilization-madness.json) |
+| Escape From Sandhill | 324746 | [324746-escape-from-sandhill.json](./324746-escape-from-sandhill.json) |
 | Escape From School | 167681 | [167681-escape-from-school.json](./167681-escape-from-school.json) |
 | Escape From School: F.E.L.I.K | 235472 | [235472-escape-from-school-f-e-l-i-k.json](./235472-escape-from-school-f-e-l-i-k.json) |
 | Escape from Scientology Land | 237493 | [237493-escape-from-scientology-land.json](./237493-escape-from-scientology-land.json) |
