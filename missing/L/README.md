@@ -4913,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftus and the Sky Cap | 170282 | [170282-loftus-and-the-sky-cap.json](./170282-loftus-and-the-sky-cap.json) |
+| Log Away | 350204 | [350204-log-away.json](./350204-log-away.json) |
 | Log Away: Christmas DLC | 395708 | [395708-log-away-christmas-dlc.json](./395708-log-away-christmas-dlc.json) |
 | Log Away: Easter DLC | 395717 | [395717-log-away-easter-dlc.json](./395717-log-away-easter-dlc.json) |
 | Log Away: Halloween DLC | 422470 | [422470-log-away-halloween-dlc.json](./422470-log-away-halloween-dlc.json) |
