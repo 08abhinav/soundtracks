@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem Inn | 371038 | [371038-harem-inn.json](./371038-harem-inn.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
 | Harem of Gods | 359046 | [359046-harem-of-gods.json](./359046-harem-of-gods.json) |
+| Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
 | Harem Survivor | 294147 | [294147-harem-survivor.json](./294147-harem-survivor.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
