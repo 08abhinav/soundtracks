@@ -5404,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Rascals | 27511 | [27511-loot-rascals.json](./27511-loot-rascals.json) |
 | Loot Run | 75939 | [75939-loot-run.json](./75939-loot-run.json) |
 | Loot Scoot | 386702 | [386702-loot-scoot.json](./386702-loot-scoot.json) |
+| Loot Shop Simulator | 346922 | [346922-loot-shop-simulator.json](./346922-loot-shop-simulator.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
