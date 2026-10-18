@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
+| Match | 313532 | [313532-match.json](./313532-match.json) |
 | Match | 399912 | [399912-match.json](./399912-match.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
@@ -10704,6 +10705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moe Waifu H | 240179 | [240179-moe-waifu-h.json](./240179-moe-waifu-h.json) |
 | Moe Waifu H: BlockBlast | 317213 | [317213-moe-waifu-h-blockblast.json](./317213-moe-waifu-h-blockblast.json) |
 | Moe Waifu H: Fantasy | 328442 | [328442-moe-waifu-h-fantasy.json](./328442-moe-waifu-h-fantasy.json) |
+| Moe Waifu H: Genius | 313557 | [313557-moe-waifu-h-genius.json](./313557-moe-waifu-h-genius.json) |
 | Moe Waifu H: Push-Box | 337988 | [337988-moe-waifu-h-push-box.json](./337988-moe-waifu-h-push-box.json) |
 | Moe! Ninja Girls | 110797 | [110797-moe-ninja-girls.json](./110797-moe-ninja-girls.json) |
 | Moe's Body Shop | 323790 | [323790-moes-body-shop.json](./323790-moes-body-shop.json) |
@@ -12034,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase | 94230 | [94230-moonbase.json](./94230-moonbase.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
+| MoonBeam | 313535 | [313535-moonbeam.json](./313535-moonbeam.json) |
 | Moonbeeps: Fireflies | 99177 | [99177-moonbeeps-fireflies.json](./99177-moonbeeps-fireflies.json) |
 | Moonblood | 257418 | [257418-moonblood.json](./257418-moonblood.json) |
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
