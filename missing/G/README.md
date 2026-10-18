@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeoJelly | 232457 | [232457-geojelly.json](./232457-geojelly.json) |
 | GeoJelly Space Odyssey Bundle | 284504 | [284504-geojelly-space-odyssey-bundle.json](./284504-geojelly-space-odyssey-bundle.json) |
 | GeoJelly: in the Space | 279861 | [279861-geojelly-in-the-space.json](./279861-geojelly-in-the-space.json) |
+| GeoJet | 332886 | [332886-geojet.json](./332886-geojet.json) |
 | GeoLogic | 133138 | [133138-geologic.json](./133138-geologic.json) |
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Glide | 213533 | [213533-grapple-glide.json](./213533-grapple-glide.json) |
 | Grapple Gum | 254150 | [254150-grapple-gum.json](./254150-grapple-gum.json) |
 | Grapple Gunners | 219805 | [219805-grapple-gunners.json](./219805-grapple-gunners.json) |
+| Grapple Simulator | 332867 | [332867-grapple-simulator.json](./332867-grapple-simulator.json) |
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
 | Grapple Tanks | 285700 | [285700-grapple-tanks.json](./285700-grapple-tanks.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
