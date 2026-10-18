@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddada | 204518 | [204518-oddada.json](./204518-oddada.json) |
 | OddBallers | 119089 | [119089-oddballers.json](./119089-oddballers.json) |
 | Oddballz: Your Wacky Computer Petz | 78013 | [78013-oddballz-your-wacky-computer-petz.json](./78013-oddballz-your-wacky-computer-petz.json) |
+| Oddcore | 327060 | [327060-oddcore.json](./327060-oddcore.json) |
 | Oddest Sea | 133171 | [133171-oddest-sea.json](./133171-oddest-sea.json) |
 | OddFauna: Secret of the Terrabeast | 192830 | [192830-oddfauna-secret-of-the-terrabeast.json](./192830-oddfauna-secret-of-the-terrabeast.json) |
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
@@ -1699,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Raid | 307109 | [307109-one-last-raid.json](./307109-one-last-raid.json) |
 | One Last Sacrifice | 385342 | [385342-one-last-sacrifice.json](./385342-one-last-sacrifice.json) |
 | One Last Star Trip | 342073 | [342073-one-last-star-trip.json](./342073-one-last-star-trip.json) |
+| One Last Story | 327041 | [327041-one-last-story.json](./327041-one-last-story.json) |
 | One Last Tale | 260306 | [260306-one-last-tale.json](./260306-one-last-tale.json) |
 | One Last Time | 226737 | [226737-one-last-time.json](./226737-one-last-time.json) |
 | One Last Time | 351173 | [351173-one-last-time.json](./351173-one-last-time.json) |
@@ -2078,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
 | OneShot: Fading Memory | 166079 | [166079-oneshot-fading-memory.json](./166079-oneshot-fading-memory.json) |
+| OneShot: Frostide | 327023 | [327023-oneshot-frostide.json](./327023-oneshot-frostide.json) |
 | OneShot: The Pancake Episode | 307795 | [307795-oneshot-the-pancake-episode.json](./307795-oneshot-the-pancake-episode.json) |
 | OneShot: World Machine Edition | 200905 | [200905-oneshot-world-machine-edition.json](./200905-oneshot-world-machine-edition.json) |
 | Onesimus: A Quest for Freedom | 68971 | [68971-onesimus-a-quest-for-freedom.json](./68971-onesimus-a-quest-for-freedom.json) |
