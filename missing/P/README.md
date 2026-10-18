@@ -6894,6 +6894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Delturbia | 343926 | [343926-plants-vs-zombies-delturbia.json](./343926-plants-vs-zombies-delturbia.json) |
 | Plants vs. Zombies DS | 274397 | [274397-plants-vs-zombies-ds.json](./274397-plants-vs-zombies-ds.json) |
 | Plants vs. Zombies Garden Warfare 2: Deluxe Upgrade | 318695 | [318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json](./318695-plants-vs-zombies-garden-warfare-2-deluxe-upgrade.json) |
+| Plants vs. Zombies Hybrid Version | 324169 | [324169-plants-vs-zombies-hybrid-version.json](./324169-plants-vs-zombies-hybrid-version.json) |
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
