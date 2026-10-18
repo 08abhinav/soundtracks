@@ -6412,6 +6412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Tangle | 232897 | [232897-love-tangle.json](./232897-love-tangle.json) |
 | Love Tavern | 165028 | [165028-love-tavern.json](./165028-love-tavern.json) |
 | Love Tavern 2: Beastmen Kingdoms | 258888 | [258888-love-tavern-2-beastmen-kingdoms.json](./258888-love-tavern-2-beastmen-kingdoms.json) |
+| Love the Game | 314142 | [314142-love-the-game.json](./314142-love-the-game.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
 | Love Too Easily Bundle | 400199 | [400199-love-too-easily-bundle.json](./400199-love-too-easily-bundle.json) |
@@ -6880,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Boo Hunt | 352300 | [352300-luigis-boo-hunt.json](./352300-luigis-boo-hunt.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
+| Luigi's Lost Levels | 314099 | [314099-luigis-lost-levels.json](./314099-luigis-lost-levels.json) |
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
 | Luigi's Mansion 2 HD | 254328 | [254328-luigis-mansion-2-hd.json](./254328-luigis-mansion-2-hd.json) |
