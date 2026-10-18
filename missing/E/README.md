@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Knights | 146609 | [146609-ember-knights.json](./146609-ember-knights.json) |
 | Ember Knights: Wrath of the Architect | 310371 | [310371-ember-knights-wrath-of-the-architect.json](./310371-ember-knights-wrath-of-the-architect.json) |
 | Ember Legion | 405704 | [405704-ember-legion.json](./405704-ember-legion.json) |
+| Ember Lord | 312987 | [312987-ember-lord.json](./312987-ember-lord.json) |
 | Ember Point | 296349 | [296349-ember-point.json](./296349-ember-point.json) |
 | Ember Seeker | 406844 | [406844-ember-seeker.json](./406844-ember-seeker.json) |
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
