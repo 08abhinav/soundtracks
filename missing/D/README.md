@@ -12363,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Goddess Reflux | 399414 | [399414-drunken-goddess-reflux.json](./399414-drunken-goddess-reflux.json) |
 | Drunken Hog | 385950 | [385950-drunken-hog.json](./385950-drunken-hog.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
+| Drunken Rogue | 310824 | [310824-drunken-rogue.json](./310824-drunken-rogue.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
 | Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
 | Drunken Way to Home | 266795 | [266795-drunken-way-to-home.json](./266795-drunken-way-to-home.json) |
@@ -13446,6 +13447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonTomb | 291915 | [291915-dungeontomb.json](./291915-dungeontomb.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
+| Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
