@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
+| Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
@@ -10359,6 +10360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Fire Stealing | 106412 | [106412-the-night-of-fire-stealing.json](./106412-the-night-of-fire-stealing.json) |
 | The Night of Fire Stealing 2 | 163751 | [163751-the-night-of-fire-stealing-2.json](./163751-the-night-of-fire-stealing-2.json) |
+| The Night of the Exorcism | 332788 | [332788-the-night-of-the-exorcism.json](./332788-the-night-of-the-exorcism.json) |
 | The Night of the Inquisitor | 249924 | [249924-the-night-of-the-inquisitor.json](./249924-the-night-of-the-inquisitor.json) |
 | The Night of the Rabbit: Premium Edition | 53768 | [53768-the-night-of-the-rabbit-premium-edition.json](./53768-the-night-of-the-rabbit-premium-edition.json) |
 | The Night Owl Murder | 260086 | [260086-the-night-owl-murder.json](./260086-the-night-owl-murder.json) |
@@ -15103,6 +15105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tichu | 156643 | [156643-tichu.json](./156643-tichu.json) |
 | Tichu | 377164 | [377164-tichu.json](./377164-tichu.json) |
 | Tick | 193135 | [193135-tick.json](./193135-tick.json) |
+| Tick Hop | 332889 | [332889-tick-hop.json](./332889-tick-hop.json) |
 | Tick Hop 2 | 391186 | [391186-tick-hop-2.json](./391186-tick-hop-2.json) |
 | Tick Tack Puppet | 206441 | [206441-tick-tack-puppet.json](./206441-tick-tack-puppet.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
@@ -17066,6 +17069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pods Rescue: 2D Board Game Edition | 319274 | [319274-tiny-pods-rescue-2d-board-game-edition.json](./319274-tiny-pods-rescue-2d-board-game-edition.json) |
 | Tiny Poker | 150603 | [150603-tiny-poker.json](./150603-tiny-poker.json) |
 | Tiny Racing | 101963 | [101963-tiny-racing.json](./101963-tiny-racing.json) |
+| Tiny Racing | 332885 | [332885-tiny-racing.json](./332885-tiny-racing.json) |
 | Tiny Rails | 53309 | [53309-tiny-rails.json](./53309-tiny-rails.json) |
 | Tiny Rainbow Rebels | 177810 | [177810-tiny-rainbow-rebels.json](./177810-tiny-rainbow-rebels.json) |
 | Tiny Ramen Shop | 411843 | [411843-tiny-ramen-shop.json](./411843-tiny-ramen-shop.json) |
@@ -20822,6 +20826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Valley: Deluxe Edition | 53857 | [53857-train-valley-deluxe-edition.json](./53857-train-valley-deluxe-edition.json) |
 | Train Valley: Germany | 154507 | [154507-train-valley-germany.json](./154507-train-valley-germany.json) |
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
+| Train World Driver | 332865 | [332865-train-world-driver.json](./332865-train-world-driver.json) |
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
