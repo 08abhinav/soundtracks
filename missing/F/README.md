@@ -6018,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
+| Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
@@ -7928,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
 | Fractal Gallery VR | 372217 | [372217-fractal-gallery-vr.json](./372217-fractal-gallery-vr.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
+| Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
 | Fractal Sailor | 293745 | [293745-fractal-sailor.json](./293745-fractal-sailor.json) |
 | Fractalis | 121775 | [121775-fractalis.json](./121775-fractalis.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
