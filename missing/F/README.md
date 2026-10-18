@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend's Isle | 144739 | [144739-fiends-isle.json](./144739-fiends-isle.json) |
 | Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiendish Thieves | 156998 | [156998-fiendish-thieves.json](./156998-fiendish-thieves.json) |
+| Fiendrise | 331659 | [331659-fiendrise.json](./331659-fiendrise.json) |
 | Fiends of Imprisonment | 34265 | [34265-fiends-of-imprisonment.json](./34265-fiends-of-imprisonment.json) |
 | Fierce Allies | 237667 | [237667-fierce-allies.json](./237667-fierce-allies.json) |
 | Fierce Dragon Godzilla: Metropolis Destruction!! | 75885 | [75885-fierce-dragon-godzilla-metropolis-destruction.json](./75885-fierce-dragon-godzilla-metropolis-destruction.json) |
