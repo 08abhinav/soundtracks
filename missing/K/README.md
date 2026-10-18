@@ -4010,6 +4010,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouchuuouja Mushiking Super Collection | 125810 | [125810-kouchuuouja-mushiking-super-collection.json](./125810-kouchuuouja-mushiking-super-collection.json) |
 | Kouchuuouja Mushiking: Atsumete Asobou Kabutomushi Zukan | 125806 | [125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json](./125806-kouchuuouja-mushiking-atsumete-asobou-kabutomushi-zukan.json) |
 | Kouchuuouja Mushiking: Greatest Champion e no Michi 2 | 125804 | [125804-kouchuuouja-mushiking-greatest-champion-e-no-michi-2.json](./125804-kouchuuouja-mushiking-greatest-champion-e-no-michi-2.json) |
+| Kǒudài Guàishòu Lǜyè Bǎn | 341925 | [341925-koudai-guaishou-luye-ban.json](./341925-koudai-guaishou-luye-ban.json) |
+| Kǒudài Guàishòu Lǜyè Bǎn I | 341936 | [341936-koudai-guaishou-luye-ban-i.json](./341936-koudai-guaishou-luye-ban-i.json) |
+| Kǒudài Guàishòu Lǜyè Bǎn II | 341937 | [341937-koudai-guaishou-luye-ban-ii.json](./341937-koudai-guaishou-luye-ban-ii.json) |
+| Kǒudài Guàishòu Lǜyè Bǎn III | 341938 | [341938-koudai-guaishou-luye-ban-iii.json](./341938-koudai-guaishou-luye-ban-iii.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
