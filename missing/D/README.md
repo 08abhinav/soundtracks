@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Search for a Cure | 386139 | [386139-dark-solitaire-search-for-a-cure.json](./386139-dark-solitaire-search-for-a-cure.json) |
+| Dark Soul.Ace 2 | 341843 | [341843-dark-soul-ace-2.json](./341843-dark-soul-ace-2.json) |
 | Dark Souls Ascended | 194889 | [194889-dark-souls-ascended.json](./194889-dark-souls-ascended.json) |
 | Dark Souls II: Crown of the Old Iron King | 22502 | [22502-dark-souls-ii-crown-of-the-old-iron-king.json](./22502-dark-souls-ii-crown-of-the-old-iron-king.json) |
 | Dark Souls II: Crown of the Sunken King | 19924 | [19924-dark-souls-ii-crown-of-the-sunken-king.json](./19924-dark-souls-ii-crown-of-the-sunken-king.json) |
@@ -1740,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashing Nineties: R.M.D. | 43143 | [43143-dashing-nineties-r-m-d.json](./43143-dashing-nineties-r-m-d.json) |
 | Dashing Pixels | 136484 | [136484-dashing-pixels.json](./136484-dashing-pixels.json) |
 | Dashkin | 83187 | [83187-dashkin.json](./83187-dashkin.json) |
+| Dashosaur DX | 341922 | [341922-dashosaur-dx.json](./341922-dashosaur-dx.json) |
 | DashPoint | 420472 | [420472-dashpoint.json](./420472-dashpoint.json) |
 | Dashpunch | 319805 | [319805-dashpunch.json](./319805-dashpunch.json) |
 | Dashy Crashy 100 | 317385 | [317385-dashy-crashy-100.json](./317385-dashy-crashy-100.json) |
@@ -3750,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
+| Deep Sea Adventure: Kaitei Kyuu Panthalassa no Nazo | 341917 | [341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json](./341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Bubble Shooter: Reflex Challenge | 385862 | [385862-deep-sea-bubble-shooter-reflex-challenge.json](./385862-deep-sea-bubble-shooter-reflex-challenge.json) |
 | Deep Sea Creatures | 85077 | [85077-deep-sea-creatures.json](./85077-deep-sea-creatures.json) |
@@ -3823,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
 | Deeper | 343279 | [343279-deeper.json](./343279-deeper.json) |
+| Deeper and Darker | 341928 | [341928-deeper-and-darker.json](./341928-deeper-and-darker.json) |
 | Deeper Club | 396698 | [396698-deeper-club.json](./396698-deeper-club.json) |
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
@@ -10021,6 +10025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mancell and Mr. Flame | 422124 | [422124-dr-mancell-and-mr-flame.json](./422124-dr-mancell-and-mr-flame.json) |
 | Dr. Maria | 245761 | [245761-dr-maria.json](./245761-dr-maria.json) |
 | Dr. Mario | 208424 | [208424-dr-mario.json](./208424-dr-mario.json) |
+| Dr. Mario | 341926 | [341926-dr-mario.json](./341926-dr-mario.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
