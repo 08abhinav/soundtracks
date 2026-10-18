@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankroyale.io | 162620 | [162620-tankroyale-io.json](./162620-tankroyale-io.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks | 259625 | [259625-tanks.json](./259625-tanks.json) |
+| Tanks & Planes Battle | 347003 | [347003-tanks-and-planes-battle.json](./347003-tanks-and-planes-battle.json) |
 | Tanks 3D | 328019 | [328019-tanks-3d.json](./328019-tanks-3d.json) |
 | Tanks and Turrets 3 | 247439 | [247439-tanks-and-turrets-3.json](./247439-tanks-and-turrets-3.json) |
 | Tanks Blitz | 352188 | [352188-tanks-blitz.json](./352188-tanks-blitz.json) |
@@ -4701,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bilestoad | 39780 | [39780-the-bilestoad.json](./39780-the-bilestoad.json) |
 | The Billion Clicker | 387596 | [387596-the-billion-clicker.json](./387596-the-billion-clicker.json) |
 | The Billionaire's Baby | 313890 | [313890-the-billionaires-baby.json](./313890-the-billionaires-baby.json) |
+| The Binding Hour | 346909 | [346909-the-binding-hour.json](./346909-the-binding-hour.json) |
 | The Binding of Isaac: Afterbirth | 13177 | [13177-the-binding-of-isaac-afterbirth.json](./13177-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Afterbirth+ | 26364 | [26364-the-binding-of-isaac-afterbirth.json](./26364-the-binding-of-isaac-afterbirth.json) |
 | The Binding of Isaac: Afterbirth+ | 310644 | [310644-the-binding-of-isaac-afterbirth.json](./310644-the-binding-of-isaac-afterbirth.json) |
@@ -6781,6 +6783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Battle: Adventure | 216224 | [216224-the-final-battle-adventure.json](./216224-the-final-battle-adventure.json) |
 | The Final Boss | 119458 | [119458-the-final-boss.json](./119458-the-final-boss.json) |
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
+| The Final Breath | 346927 | [346927-the-final-breath.json](./346927-the-final-breath.json) |
 | The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
 | The Final Cut of Lilith Cunningham | 422135 | [422135-the-final-cut-of-lilith-cunningham.json](./422135-the-final-cut-of-lilith-cunningham.json) |
@@ -10369,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nowhere Express | 413790 | [413790-the-nowhere-express.json](./413790-the-nowhere-express.json) |
 | The NTR Pregnancy Hunting Adventure of Karen: Whose Seed Will Wife Get Pregnant Of | 82734 | [82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json](./82734-the-ntr-pregnancy-hunting-adventure-of-karen-whose-seed-will-wife-get-pregnant-of.json) |
 | The Null Frequency | 365304 | [365304-the-null-frequency.json](./365304-the-null-frequency.json) |
+| The Null Hypothesis | 346937 | [346937-the-null-hypothesis.json](./346937-the-null-hypothesis.json) |
 | The Nullpoint | 110263 | [110263-the-nullpoint.json](./110263-the-nullpoint.json) |
 | The Nullspace | 312316 | [312316-the-nullspace.json](./312316-the-nullspace.json) |
 | The Numarin | 47543 | [47543-the-numarin.json](./47543-the-numarin.json) |
@@ -12539,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sword Witch's Apprentice | 351037 | [351037-the-sword-witchs-apprentice.json](./351037-the-sword-witchs-apprentice.json) |
 | The Swordbearer | 204329 | [204329-the-swordbearer.json](./204329-the-swordbearer.json) |
 | The Swords | 57720 | [57720-the-swords.json](./57720-the-swords.json) |
+| The Swordsman | 346926 | [346926-the-swordsman.json](./346926-the-swordsman.json) |
 | The Swordsmen X | 106137 | [106137-the-swordsmen-x.json](./106137-the-swordsmen-x.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
@@ -18307,6 +18312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 4 | 334249 | [334249-tony-hawks-pro-skater-4.json](./334249-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 | 915 | [915-tony-hawks-pro-skater-4.json](./915-tony-hawks-pro-skater-4.json) |
 | Tony Hawk's Pro Skater 4 Street | 23754 | [23754-tony-hawks-pro-skater-4-street.json](./23754-tony-hawks-pro-skater-4-street.json) |
+| Tony Hawk's Pro Skater HD: Revert Pack | 346921 | [346921-tony-hawks-pro-skater-hd-revert-pack.json](./346921-tony-hawks-pro-skater-hd-revert-pack.json) |
 | Tony Hawk's Project 8 Mobile | 197321 | [197321-tony-hawks-project-8-mobile.json](./197321-tony-hawks-project-8-mobile.json) |
 | Tony Hawk's Project Mod | 404806 | [404806-tony-hawks-project-mod.json](./404806-tony-hawks-project-mod.json) |
 | Tony Hawk's Proving Ground | 249760 | [249760-tony-hawks-proving-ground.json](./249760-tony-hawks-proving-ground.json) |
@@ -20167,6 +20173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
+| Train Jumble | 346917 | [346917-train-jumble.json](./346917-train-jumble.json) |
 | Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
@@ -23096,6 +23103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsushima | 93195 | [93195-tsushima.json](./93195-tsushima.json) |
 | Tsutawaru! Manaberu! Nyanko Manga de Eikaiwa | 279199 | [279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json](./279199-tsutawaru-manaberu-nyanko-manga-de-eikaiwa.json) |
 | Tsuukai Gyaguabanchuuru: Naruto Maki Hichou | 67264 | [67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json](./67264-tsuukai-gyaguabanchuuru-naruto-maki-hichou.json) |
+| TsuukaI!! Slot Shooting | 346936 | [346936-tsuukai-slot-shooting.json](./346936-tsuukai-slot-shooting.json) |
 | Tsuushin Taikyoku: Hayazashi Shogi Sandan | 344460 | [344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json](./344460-tsuushin-taikyoku-hayazashi-shogi-sandan.json) |
 | Tsuushin Taikyoku: Igo Dojo 2700-mon | 344461 | [344461-tsuushin-taikyoku-igo-dojo-2700-mon.json](./344461-tsuushin-taikyoku-igo-dojo-2700-mon.json) |
 | Tsuushin Taisen Mahjong: Touryuumon | 67989 | [67989-tsuushin-taisen-mahjong-touryuumon.json](./67989-tsuushin-taisen-mahjong-touryuumon.json) |
