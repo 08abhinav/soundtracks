@@ -2311,6 +2311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumble Blocks | 58507 | [58507-jumble-blocks.json](./58507-jumble-blocks.json) |
 | Jumble Electronic Word Game | 198786 | [198786-jumble-electronic-word-game.json](./198786-jumble-electronic-word-game.json) |
 | Jumble Madness | 92053 | [92053-jumble-madness.json](./92053-jumble-madness.json) |
+| Jumble Quest | 330606 | [330606-jumble-quest.json](./330606-jumble-quest.json) |
 | Jumble: That Scrambled Word Game | 70053 | [70053-jumble-that-scrambled-word-game.json](./70053-jumble-that-scrambled-word-game.json) |
 | Jumbled Manifesto | 176252 | [176252-jumbled-manifesto.json](./176252-jumbled-manifesto.json) |
 | Jumbline 2 | 86729 | [86729-jumbline-2.json](./86729-jumbline-2.json) |
