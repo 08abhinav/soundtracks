@@ -7127,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust of the Apartment Wives | 249106 | [249106-lust-of-the-apartment-wives.json](./249106-lust-of-the-apartment-wives.json) |
 | Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
+| Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
 | Lust Theory | 216187 | [216187-lust-theory.json](./216187-lust-theory.json) |
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
