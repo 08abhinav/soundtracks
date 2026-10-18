@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raven Quest | 133198 | [133198-raven-quest.json](./133198-raven-quest.json) |
 | Raven Squad: Operation Hidden Dagger | 7156 | [7156-raven-squad-operation-hidden-dagger.json](./7156-raven-squad-operation-hidden-dagger.json) |
 | Raven Tea | 371563 | [371563-raven-tea.json](./371563-raven-tea.json) |
+| Raven-Star | 350207 | [350207-raven-star.json](./350207-raven-star.json) |
 | Raven: Chapter 1 - The Commands of Eurybia | 74002 | [74002-raven-chapter-1-the-commands-of-eurybia.json](./74002-raven-chapter-1-the-commands-of-eurybia.json) |
 | Raven's Cry | 7686 | [7686-ravens-cry.json](./7686-ravens-cry.json) |
 | Raven's Daring Adventure | 311736 | [311736-ravens-daring-adventure.json](./311736-ravens-daring-adventure.json) |
@@ -4792,6 +4793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rewind: One Last Chance | 197736 | [197736-rewind-one-last-chance.json](./197736-rewind-one-last-chance.json) |
 | Rewindead | 382756 | [382756-rewindead.json](./382756-rewindead.json) |
 | Rewinder | 183315 | [183315-rewinder.json](./183315-rewinder.json) |
+| Rewinding Cadence | 350187 | [350187-rewinding-cadence.json](./350187-rewinding-cadence.json) |
 | ReWire | 348839 | [348839-rewire.json](./348839-rewire.json) |
 | Rewolborough Vol.1 | 394622 | [394622-rewolborough-vol-1.json](./394622-rewolborough-vol-1.json) |
 | Rework | 310507 | [310507-rework.json](./310507-rework.json) |
@@ -7431,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster Rampage | 16359 | [16359-roller-coaster-rampage.json](./16359-roller-coaster-rampage.json) |
 | Roller Drama | 143895 | [143895-roller-drama.json](./143895-roller-drama.json) |
 | Roller Jammer | 40420 | [40420-roller-jammer.json](./40420-roller-jammer.json) |
+| Roller Loop | 350198 | [350198-roller-loop.json](./350198-roller-loop.json) |
 | Roller Riot | 132703 | [132703-roller-riot.json](./132703-roller-riot.json) |
 | Roller Rush | 209008 | [209008-roller-rush.json](./209008-roller-rush.json) |
 | Roller Skating Girls | 89484 | [89484-roller-skating-girls.json](./89484-roller-skating-girls.json) |
