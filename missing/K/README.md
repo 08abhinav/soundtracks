@@ -1705,6 +1705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Station: Hitori de Dekirumon! | 200642 | [200642-kids-station-hitori-de-dekirumon.json](./200642-kids-station-hitori-de-dekirumon.json) |
 | Kids Station: Kikansha Thomas to Nakama-tachi | 200643 | [200643-kids-station-kikansha-thomas-to-nakama-tachi.json](./200643-kids-station-kikansha-thomas-to-nakama-tachi.json) |
 | Kids Station: Kuma no Pooh-san - Mori no Nakama to 123 | 200656 | [200656-kids-station-kuma-no-pooh-san-mori-no-nakama-to-123.json](./200656-kids-station-kuma-no-pooh-san-mori-no-nakama-to-123.json) |
+| Kids Station: LEGO no Sekai | 313552 | [313552-kids-station-lego-no-sekai.json](./313552-kids-station-lego-no-sekai.json) |
 | Kids Station: Magical Doremi #: Maho-dou Dance Carnival | 329032 | [329032-kids-station-magical-doremi-maho-dou-dance-carnival.json](./329032-kids-station-magical-doremi-maho-dou-dance-carnival.json) |
 | Kids Station: Motto! Oja Majo Do-Re-Mi - Mahodou Smile Party | 58774 | [58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json](./58774-kids-station-motto-oja-majo-do-re-mi-mahodou-smile-party.json) |
 | Kids Station: Oja Majo Doremi Dokkan! Maho-dou Eigo Festival | 389454 | [389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json](./389454-kids-station-oja-majo-doremi-dokkan-maho-dou-eigo-festival.json) |
