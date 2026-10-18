@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Arctic Challenge | 199898 | [199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json](./199898-fast-and-furious-spy-racers-rise-of-sh1ft3r-arctic-challenge.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast & Furious: SuperCars | 65413 | [65413-fast-and-furious-supercars.json](./65413-fast-and-furious-supercars.json) |
+| Fast & Furry Bundle | 342397 | [342397-fast-and-furry-bundle.json](./342397-fast-and-furry-bundle.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
@@ -6634,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Glory | 93488 | [93488-football-glory.json](./93488-football-glory.json) |
 | Football Granny | 107160 | [107160-football-granny.json](./107160-football-granny.json) |
 | Football Hero | 262060 | [262060-football-hero.json](./262060-football-hero.json) |
+| Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
@@ -7446,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Zombie | 366397 | [366397-fortnite-festival-zombie.json](./366397-fortnite-festival-zombie.json) |
 | Fortnite OG | 324915 | [324915-fortnite-og.json](./324915-fortnite-og.json) |
 | Fortnite OG: Chapter 1 Season 2 | 330838 | [330838-fortnite-og-chapter-1-season-2.json](./330838-fortnite-og-chapter-1-season-2.json) |
+| Fortnite OG: Chapter 1 Season 3 | 342490 | [342490-fortnite-og-chapter-1-season-3.json](./342490-fortnite-og-chapter-1-season-3.json) |
 | Fortnite OG: Chapter 1 Season 5 | 361184 | [361184-fortnite-og-chapter-1-season-5.json](./361184-fortnite-og-chapter-1-season-5.json) |
 | Fortnite OG: Chapter 1 Season 7 | 381174 | [381174-fortnite-og-chapter-1-season-7.json](./381174-fortnite-og-chapter-1-season-7.json) |
 | Fortnite OG: Chapter 1 Season 8 | 398281 | [398281-fortnite-og-chapter-1-season-8.json](./398281-fortnite-og-chapter-1-season-8.json) |
