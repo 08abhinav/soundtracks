@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
 | Dead Knight: Pocket Edition | 87858 | [87858-dead-knight-pocket-edition.json](./87858-dead-knight-pocket-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
+| Dead Lamb Walking | 329988 | [329988-dead-lamb-walking.json](./329988-dead-lamb-walking.json) |
 | Dead Land 2 VR | 336368 | [336368-dead-land-2-vr.json](./336368-dead-land-2-vr.json) |
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
@@ -4437,6 +4438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demise: The Revelation | 69922 | [69922-demise-the-revelation.json](./69922-demise-the-revelation.json) |
 | Demiurge Sacrifice | 380691 | [380691-demiurge-sacrifice.json](./380691-demiurge-sacrifice.json) |
 | Demiurges | 221110 | [221110-demiurges.json](./221110-demiurges.json) |
+| Demiurgos | 330023 | [330023-demiurgos.json](./330023-demiurgos.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
@@ -6942,6 +6944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DirectionDungeon! | 179200 | [179200-directiondungeon.json](./179200-directiondungeon.json) |
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
+| Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
