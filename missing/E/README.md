@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggcellent VR | 113187 | [113187-eggcellent-vr.json](./113187-eggcellent-vr.json) |
 | Eggconsole Advanced Lord Monarch PC-9801 | 394385 | [394385-eggconsole-advanced-lord-monarch-pc-9801.json](./394385-eggconsole-advanced-lord-monarch-pc-9801.json) |
 | Eggconsole Adventure of Randar MSX2 | 399637 | [399637-eggconsole-adventure-of-randar-msx2.json](./399637-eggconsole-adventure-of-randar-msx2.json) |
+| Eggconsole Aqua Polis SOS MSX | 325892 | [325892-eggconsole-aqua-polis-sos-msx.json](./325892-eggconsole-aqua-polis-sos-msx.json) |
 | Eggconsole Aramo MSX | 370806 | [370806-eggconsole-aramo-msx.json](./370806-eggconsole-aramo-msx.json) |
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
