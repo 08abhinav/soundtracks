@@ -4676,6 +4676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fighter | 277422 | [277422-fish-fighter.json](./277422-fish-fighter.json) |
 | Fish Fillets | 27521 | [27521-fish-fillets.json](./27521-fish-fillets.json) |
+| Fish Flash | 310798 | [310798-fish-flash.json](./310798-fish-flash.json) |
 | Fish Flop | 272770 | [272770-fish-flop.json](./272770-fish-flop.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
 | Fish for gold | 51584 | [51584-fish-for-gold.json](./51584-fish-for-gold.json) |
@@ -5595,6 +5596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flex Armstrong | 354385 | [354385-flex-armstrong.json](./354385-flex-armstrong.json) |
 | Flex City | 358973 | [358973-flex-city.json](./358973-flex-city.json) |
 | Flex hooks | 147889 | [147889-flex-hooks.json](./147889-flex-hooks.json) |
+| Flex Riders | 310832 | [310832-flex-riders.json](./310832-flex-riders.json) |
 | Flexibility and Girls | 147979 | [147979-flexibility-and-girls.json](./147979-flexibility-and-girls.json) |
 | Flexible Frosty | 325332 | [325332-flexible-frosty.json](./325332-flexible-frosty.json) |
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
+| Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
 | Full Fathom | 234659 | [234659-full-fathom.json](./234659-full-fathom.json) |
 | Full Frontal Assault | 91282 | [91282-full-frontal-assault.json](./91282-full-frontal-assault.json) |
 | Full Gear | 229922 | [229922-full-gear.json](./229922-full-gear.json) |
