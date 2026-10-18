@@ -4244,6 +4244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anomaly Demo | 111208 | [111208-the-anomaly-demo.json](./111208-the-anomaly-demo.json) |
 | The Anomaly Experiment | 342048 | [342048-the-anomaly-experiment.json](./342048-the-anomaly-experiment.json) |
 | The Anomaly Project | 312378 | [312378-the-anomaly-project.json](./312378-the-anomaly-project.json) |
+| The Anomaly Protocol | 348663 | [348663-the-anomaly-protocol.json](./348663-the-anomaly-protocol.json) |
 | The Anomaly Unit | 389695 | [389695-the-anomaly-unit.json](./389695-the-anomaly-unit.json) |
 | The Another World | 386889 | [386889-the-another-world.json](./386889-the-another-world.json) |
 | The Answer | 65431 | [65431-the-answer.json](./65431-the-answer.json) |
@@ -7332,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
 | The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
+| The Grafted Gear | 348665 | [348665-the-grafted-gear.json](./348665-the-grafted-gear.json) |
 | The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Ball: Deluxe Edition | 53741 | [53741-the-grand-ball-deluxe-edition.json](./53741-the-grand-ball-deluxe-edition.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
@@ -11671,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Deadly Sins: Knights of Britannia | 41058 | [41058-the-seven-deadly-sins-knights-of-britannia.json](./41058-the-seven-deadly-sins-knights-of-britannia.json) |
 | The Seven Districts of Sin: The Tail Makes the Fox - Episode 1 | 81645 | [81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json](./81645-the-seven-districts-of-sin-the-tail-makes-the-fox-episode-1.json) |
 | The Seven Elemental Vases | 326166 | [326166-the-seven-elemental-vases.json](./326166-the-seven-elemental-vases.json) |
+| The Seven Enchantments | 348592 | [348592-the-seven-enchantments.json](./348592-the-seven-enchantments.json) |
 | The Seven Games of the Soul | 13775 | [13775-the-seven-games-of-the-soul.json](./13775-the-seven-games-of-the-soul.json) |
 | The Seven Gates of Jambala | 12763 | [12763-the-seven-gates-of-jambala.json](./12763-the-seven-gates-of-jambala.json) |
 | The Seven Realms: Realm - Pythonium | 331105 | [331105-the-seven-realms-realm-pythonium.json](./331105-the-seven-realms-realm-pythonium.json) |
