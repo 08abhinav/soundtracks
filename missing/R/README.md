@@ -4678,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Farewell, Rayashki | 340220 | [340220-reverse-1999-farewell-rayashki.json](./340220-reverse-1999-farewell-rayashki.json) |
 | Reverse 1999: Floor it! To the Golden City | 343345 | [343345-reverse-1999-floor-it-to-the-golden-city.json](./343345-reverse-1999-floor-it-to-the-golden-city.json) |
 | Reverse 1999: Folie et Déraison | 343912 | [343912-reverse-1999-folie-et-deraison.json](./343912-reverse-1999-folie-et-deraison.json) |
+| Reverse 1999: Journey to Mor Pankh | 340179 | [340179-reverse-1999-journey-to-mor-pankh.json](./340179-reverse-1999-journey-to-mor-pankh.json) |
 | Reverse 1999: Last and First Principles | 412819 | [412819-reverse-1999-last-and-first-principles.json](./412819-reverse-1999-last-and-first-principles.json) |
 | Reverse 1999: Last Evenings on Earth | 343349 | [343349-reverse-1999-last-evenings-on-earth.json](./343349-reverse-1999-last-evenings-on-earth.json) |
 | Reverse 1999: Notes on Shuori | 340217 | [340217-reverse-1999-notes-on-shuori.json](./340217-reverse-1999-notes-on-shuori.json) |
@@ -4687,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse 1999: Spring Unending | 397101 | [397101-reverse-1999-spring-unending.json](./397101-reverse-1999-spring-unending.json) |
 | Reverse 1999: The Haunted Highway | 343346 | [343346-reverse-1999-the-haunted-highway.json](./343346-reverse-1999-the-haunted-highway.json) |
 | Reverse 1999: The Midnight Whistle | 379188 | [379188-reverse-1999-the-midnight-whistle.json](./379188-reverse-1999-the-midnight-whistle.json) |
+| Reverse 1999: The Prisoner In The Cave | 340190 | [340190-reverse-1999-the-prisoner-in-the-cave.json](./340190-reverse-1999-the-prisoner-in-the-cave.json) |
 | Reverse 1999: The Theft of the Rimet Cup | 279785 | [279785-reverse-1999-the-theft-of-the-rimet-cup.json](./279785-reverse-1999-the-theft-of-the-rimet-cup.json) |
 | Reverse 1999: The Turquoise Serpent Club | 401741 | [401741-reverse-1999-the-turquoise-serpent-club.json](./401741-reverse-1999-the-turquoise-serpent-club.json) |
 | Reverse 1999: Tristes Tropiques | 343347 | [343347-reverse-1999-tristes-tropiques.json](./343347-reverse-1999-tristes-tropiques.json) |
