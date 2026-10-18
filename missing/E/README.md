@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
 | Echoes of Spellcraft | 351157 | [351157-echoes-of-spellcraft.json](./351157-echoes-of-spellcraft.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
+| Echoes of Steel | 349117 | [349117-echoes-of-steel.json](./349117-echoes-of-steel.json) |
 | Echoes of Stella | 403011 | [403011-echoes-of-stella.json](./403011-echoes-of-stella.json) |
 | Echoes of the Abyss | 290524 | [290524-echoes-of-the-abyss.json](./290524-echoes-of-the-abyss.json) |
 | Echoes of the Ashen | 290833 | [290833-echoes-of-the-ashen.json](./290833-echoes-of-the-ashen.json) |
