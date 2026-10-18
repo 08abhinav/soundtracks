@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabio | 219169 | [219169-rabio.json](./219169-rabio.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
+| Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
 | Raccoin: Coin Pusher Roguelike | 360748 | [360748-raccoin-coin-pusher-roguelike.json](./360748-raccoin-coin-pusher-roguelike.json) |
 | Raccoo Venture | 113876 | [113876-raccoo-venture.json](./113876-raccoo-venture.json) |
 | Raccoon & Possum Just Want to Read a Book | 307123 | [307123-raccoon-and-possum-just-want-to-read-a-book.json](./307123-raccoon-and-possum-just-want-to-read-a-book.json) |
@@ -8272,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Merchant | 122167 | [122167-royal-merchant.json](./122167-royal-merchant.json) |
 | Royal Merge! | 296078 | [296078-royal-merge.json](./296078-royal-merge.json) |
 | Royal Montgomery Raceways | 321418 | [321418-royal-montgomery-raceways.json](./321418-royal-montgomery-raceways.json) |
+| Royal Odyssey | 346454 | [346454-royal-odyssey.json](./346454-royal-odyssey.json) |
 | Royal Offense | 28928 | [28928-royal-offense.json](./28928-royal-offense.json) |
 | Royal Order | 182143 | [182143-royal-order.json](./182143-royal-order.json) |
 | Royal Pit | 409557 | [409557-royal-pit.json](./409557-royal-pit.json) |
