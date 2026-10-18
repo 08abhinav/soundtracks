@@ -11834,6 +11834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Dreamz: MagiCats Edition | 55255 | [55255-crazy-dreamz-magicats-edition.json](./55255-crazy-dreamz-magicats-edition.json) |
 | Crazy Driller | 175259 | [175259-crazy-driller.json](./175259-crazy-driller.json) |
 | Crazy Driver | 119479 | [119479-crazy-driver.json](./119479-crazy-driver.json) |
+| Crazy Drops | 340196 | [340196-crazy-drops.json](./340196-crazy-drops.json) |
 | Crazy Dungeon | 381962 | [381962-crazy-dungeon.json](./381962-crazy-dungeon.json) |
 | Crazy Dungeon Tavern | 359545 | [359545-crazy-dungeon-tavern.json](./359545-crazy-dungeon-tavern.json) |
 | Crazy Economy Craft | 71047 | [71047-crazy-economy-craft.json](./71047-crazy-economy-craft.json) |
