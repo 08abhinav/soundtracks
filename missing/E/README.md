@@ -5900,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exverse | 296810 | [296810-exverse.json](./296810-exverse.json) |
+| EXVS2 | 315364 | [315364-exvs2.json](./315364-exvs2.json) |
 | Exzeal | 32926 | [32926-exzeal.json](./32926-exzeal.json) |
 | ExZeus | 92099 | [92099-exzeus.json](./92099-exzeus.json) |
 | ExZeus 2 | 47129 | [47129-exzeus-2.json](./47129-exzeus-2.json) |
