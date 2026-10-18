@@ -5735,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Him & Her | 135652 | [135652-him-and-her.json](./135652-him-and-her.json) |
 | Him & Her: Her Challenges | 238195 | [238195-him-and-her-her-challenges.json](./238195-him-and-her-her-challenges.json) |
 | Him & I | 123545 | [123545-him-and-i.json](./123545-him-and-i.json) |
+| Him, the Smile & Bloom | 315911 | [315911-him-the-smile-and-bloom.json](./315911-him-the-smile-and-bloom.json) |
 | HimaNatsu: Of Churches, Sunflowers, and Long Summers | 410423 | [410423-himanatsu-of-churches-sunflowers-and-long-summers.json](./410423-himanatsu-of-churches-sunflowers-and-long-summers.json) |
 | Himawari | 59462 | [59462-himawari.json](./59462-himawari.json) |
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
@@ -9169,6 +9170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperlight Survivor | 261553 | [261553-hyperlight-survivor.json](./261553-hyperlight-survivor.json) |
 | Hyperlight Ultimate | 117939 | [117939-hyperlight-ultimate.json](./117939-hyperlight-ultimate.json) |
 | Hypermarket Simulator | 335855 | [335855-hypermarket-simulator.json](./335855-hypermarket-simulator.json) |
+| Hypermarket Simulator Empire 2024 | 315903 | [315903-hypermarket-simulator-empire-2024.json](./315903-hypermarket-simulator-empire-2024.json) |
 | Hypermind | 193471 | [193471-hypermind.json](./193471-hypermind.json) |
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
 | HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
