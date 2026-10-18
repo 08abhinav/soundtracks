@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Willy | 8170 | [8170-jet-set-willy.json](./8170-jet-set-willy.json) |
 | Jet Set Willy: Online | 92850 | [92850-jet-set-willy-online.json](./92850-jet-set-willy-online.json) |
 | Jet Ski Addition | 397204 | [397204-jet-ski-addition.json](./397204-jet-ski-addition.json) |
+| Jet Ski Adventure | 359744 | [359744-jet-ski-adventure.json](./359744-jet-ski-adventure.json) |
 | Jet Ski Driving | 231943 | [231943-jet-ski-driving.json](./231943-jet-ski-driving.json) |
 | Jet Ski Mania: Aquatic Adrenaline Rush | 276119 | [276119-jet-ski-mania-aquatic-adrenaline-rush.json](./276119-jet-ski-mania-aquatic-adrenaline-rush.json) |
 | Jet Skiing | 246506 | [246506-jet-skiing.json](./246506-jet-skiing.json) |
@@ -1736,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jogger | 14137 | [14137-jogger.json](./14137-jogger.json) |
 | Joggernauts | 60230 | [60230-joggernauts.json](./60230-joggernauts.json) |
 | Jogging | 358834 | [358834-jogging.json](./358834-jogging.json) |
+| Jogging | 359729 | [359729-jogging.json](./359729-jogging.json) |
 | Jogo da Nota | 409806 | [409806-jogo-da-nota.json](./409806-jogo-da-nota.json) |
 | Jogo de Bejos | 300525 | [300525-jogo-de-bejos.json](./300525-jogo-de-bejos.json) |
 | Jogo do Banquinho do Raul Gil | 222874 | [222874-jogo-do-banquinho-do-raul-gil.json](./222874-jogo-do-banquinho-do-raul-gil.json) |
@@ -2222,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juggler DS | 123334 | [123334-juggler-ds.json](./123334-juggler-ds.json) |
 | Juggles' Butterfly | 72105 | [72105-juggles-butterfly.json](./72105-juggles-butterfly.json) |
 | Juggling | 340778 | [340778-juggling.json](./340778-juggling.json) |
+| Juggling | 359749 | [359749-juggling.json](./359749-juggling.json) |
 | Juggling BBQ HD | 253260 | [253260-juggling-bbq-hd.json](./253260-juggling-bbq-hd.json) |
 | Juggling Jolt | 415883 | [415883-juggling-jolt.json](./415883-juggling-jolt.json) |
 | Juggling Seal | 385711 | [385711-juggling-seal.json](./385711-juggling-seal.json) |
@@ -2700,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junon.io | 176309 | [176309-junon-io.json](./176309-junon-io.json) |
 | Junsei Yasaotoko | 242072 | [242072-junsei-yasaotoko.json](./242072-junsei-yasaotoko.json) |
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
+| Junte 4 | 359758 | [359758-junte-4.json](./359758-junte-4.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
 | Jupiter & Mars | 76962 | [76962-jupiter-and-mars.json](./76962-jupiter-and-mars.json) |
