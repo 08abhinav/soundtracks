@@ -2452,6 +2452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End: Escape Your Fears | 410294 | [410294-dead-end-escape-your-fears.json](./410294-dead-end-escape-your-fears.json) |
 | Dead End: Orchestral Manoeuvres in the Dead End | 59390 | [59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json](./59390-dead-end-orchestral-manoeuvres-in-the-dead-end.json) |
 | Dead Engine | 345065 | [345065-dead-engine.json](./345065-dead-engine.json) |
+| Dead Epidemic | 359858 | [359858-dead-epidemic.json](./359858-dead-epidemic.json) |
 | Dead Estate | 141453 | [141453-dead-estate.json](./141453-dead-estate.json) |
 | Dead Estate: Axe to Grind | 367002 | [367002-dead-estate-axe-to-grind.json](./367002-dead-estate-axe-to-grind.json) |
 | Dead Estate: Bombs Away | 366970 | [366970-dead-estate-bombs-away.json](./366970-dead-estate-bombs-away.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
+| Don't Break The Eggs | 359722 | [359722-dont-break-the-eggs.json](./359722-dont-break-the-eggs.json) |
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
 | Don't Call Me Mama But Yes I Am Your Mama | 181853 | [181853-dont-call-me-mama-but-yes-i-am-your-mama.json](./181853-dont-call-me-mama-but-yes-i-am-your-mama.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
 | Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
+| Donut Riders | 359862 | [359862-donut-riders.json](./359862-donut-riders.json) |
 | Donut Shop | 108313 | [108313-donut-shop.json](./108313-donut-shop.json) |
 | Donut Shop Simulator | 348761 | [348761-donut-shop-simulator.json](./348761-donut-shop-simulator.json) |
 | Donutal | 391675 | [391675-donutal.json](./391675-donutal.json) |
@@ -11582,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | drHackDream | 120248 | [120248-drhackdream.json](./120248-drhackdream.json) |
 | Driar | 191911 | [191911-driar.json](./191911-driar.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
+| Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
@@ -12018,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drug Wars | 14945 | [14945-drug-wars.json](./14945-drug-wars.json) |
 | Drug Wars: A Game Based on the New York Drug Market | 72172 | [72172-drug-wars-a-game-based-on-the-new-york-drug-market.json](./72172-drug-wars-a-game-based-on-the-new-york-drug-market.json) |
 | Drug Watch | 130838 | [130838-drug-watch.json](./130838-drug-watch.json) |
+| Druggiemon: Lost Edition | 359852 | [359852-druggiemon-lost-edition.json](./359852-druggiemon-lost-edition.json) |
 | Drugs & Gambling | 362400 | [362400-drugs-and-gambling.json](./362400-drugs-and-gambling.json) |
 | Drugs and Crime Idle | 153426 | [153426-drugs-and-crime-idle.json](./153426-drugs-and-crime-idle.json) |
 | Drugs to Bee | 103447 | [103447-drugs-to-bee.json](./103447-drugs-to-bee.json) |
