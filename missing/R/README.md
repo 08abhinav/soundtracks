@@ -3876,6 +3876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReRave | 41506 | [41506-rerave.json](./41506-rerave.json) |
 | ReRise | 293862 | [293862-rerise.json](./293862-rerise.json) |
 | ReRoad | 139178 | [139178-reroad.json](./139178-reroad.json) |
+| Rerodent | 311863 | [311863-rerodent.json](./311863-rerodent.json) |
 | Reroll | 104065 | [104065-reroll.json](./104065-reroll.json) |
 | ReRoll | 19700 | [19700-reroll.json](./19700-reroll.json) |
 | Reroute | 291487 | [291487-reroute.json](./291487-reroute.json) |
