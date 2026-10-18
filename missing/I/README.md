@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Blondi | 109521 | [109521-i-am-blondi.json](./109521-i-am-blondi.json) |
 | I am Bread | 7868 | [7868-i-am-bread.json](./7868-i-am-bread.json) |
 | I Am Brewing You Alive but You Can Leave at Any Time If You Really Want To | 135669 | [135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json](./135669-i-am-brewing-you-alive-but-you-can-leave-at-any-time-if-you-really-want-to.json) |
+| I Am Busy Digging a Hole | 342409 | [342409-i-am-busy-digging-a-hole.json](./342409-i-am-busy-digging-a-hole.json) |
 | I Am Butter VR | 192236 | [192236-i-am-butter-vr.json](./192236-i-am-butter-vr.json) |
 | I Am Caligula | 33208 | [33208-i-am-caligula.json](./33208-i-am-caligula.json) |
 | I Am Cat | 303244 | [303244-i-am-cat.json](./303244-i-am-cat.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internet Cafe Mini Games 10 in 1 | 267852 | [267852-internet-cafe-mini-games-10-in-1.json](./267852-internet-cafe-mini-games-10-in-1.json) |
 | Internet Cafe Simulator 2025 | 324999 | [324999-internet-cafe-simulator-2025.json](./324999-internet-cafe-simulator-2025.json) |
 | Internet Cafe Tycoon | 410715 | [410715-internet-cafe-tycoon.json](./410715-internet-cafe-tycoon.json) |
+| Internet Club & Cafe Simulator | 342410 | [342410-internet-club-and-cafe-simulator.json](./342410-internet-club-and-cafe-simulator.json) |
 | Internet Entrepreneurship Simulator | 348781 | [348781-internet-entrepreneurship-simulator.json](./348781-internet-entrepreneurship-simulator.json) |
 | Internet Exploring | 404368 | [404368-internet-exploring.json](./404368-internet-exploring.json) |
 | Internet Reversi | 230732 | [230732-internet-reversi.json](./230732-internet-reversi.json) |
@@ -4127,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris.Fall | 109129 | [109129-iris-fall.json](./109129-iris-fall.json) |
 | Iris's Adventure: Time Travel | 231941 | [231941-iriss-adventure-time-travel.json](./231941-iriss-adventure-time-travel.json) |
 | IrisPlus | 110377 | [110377-irisplus.json](./110377-irisplus.json) |
+| Irisy Aqua | 342412 | [342412-irisy-aqua.json](./342412-irisy-aqua.json) |
 | Irium | 91889 | [91889-irium.json](./91889-irium.json) |
 | IRL: Italian Ritual Live | 371752 | [371752-irl-italian-ritual-live.json](./371752-irl-italian-ritual-live.json) |
 | IRL: The Game | 202571 | [202571-irl-the-game.json](./202571-irl-the-game.json) |
@@ -4829,6 +4832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Iterum | 417961 | [417961-iterum.json](./417961-iterum.json) |
 | ITGmania | 297623 | [297623-itgmania.json](./297623-itgmania.json) |
+| Ithya: Magic Studies | 342482 | [342482-ithya-magic-studies.json](./342482-ithya-magic-studies.json) |
 | Itineris | 29675 | [29675-itineris.json](./29675-itineris.json) |
 | Itoi Shigesato no Bass Tsuri No. 1 | 3518 | [3518-itoi-shigesato-no-bass-tsuri-no-1.json](./3518-itoi-shigesato-no-bass-tsuri-no-1.json) |
 | Itoi Shigesato no Bass Tsuri No.1: Haru no Zenkoku Tournament - Gomihiroi Campaign | 300691 | [300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json](./300691-itoi-shigesato-no-bass-tsuri-no-1-haru-no-zenkoku-tournament-gomihiroi-campaign.json) |
