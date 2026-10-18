@@ -1708,6 +1708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
+| Dash N Slash | 332869 | [332869-dash-n-slash.json](./332869-dash-n-slash.json) |
 | Dash of Destruction | 8981 | [8981-dash-of-destruction.json](./8981-dash-of-destruction.json) |
 | Dash or Die | 285441 | [285441-dash-or-die.json](./285441-dash-or-die.json) |
 | Dash Out | 217308 | [217308-dash-out.json](./217308-dash-out.json) |
@@ -2221,6 +2222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
 | DCS World: A-10C Operation Agile Spear Campaign by Combat King Simulations | 325720 | [325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json](./325720-dcs-world-a-10c-operation-agile-spear-campaign-by-combat-king-simulations.json) |
+| DCS World: Afghanistan | 332795 | [332795-dcs-world-afghanistan.json](./332795-dcs-world-afghanistan.json) |
 | DCS World: AH-64D Outpost Campaign by Stone Sky | 324898 | [324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json](./324898-dcs-world-ah-64d-outpost-campaign-by-stone-sky.json) |
 | DCS World: AH-64D The Four Horsemen Campaign by Fight's On Simulations | 325110 | [325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json](./325110-dcs-world-ah-64d-the-four-horsemen-campaign-by-fights-on-simulations.json) |
 | DCS World: AV-8B Kerman Campaign by Ground Pounder Sims | 325249 | [325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json](./325249-dcs-world-av-8b-kerman-campaign-by-ground-pounder-sims.json) |
@@ -4319,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta Strike: First Assault | 99547 | [99547-delta-strike-first-assault.json](./99547-delta-strike-first-assault.json) |
 | Delta T | 109169 | [109169-delta-t.json](./109169-delta-t.json) |
 | Delta Time | 171622 | [171622-delta-time.json](./171622-delta-time.json) |
+| Delta Vector | 332859 | [332859-delta-vector.json](./332859-delta-vector.json) |
 | Delta Warp | 43978 | [43978-delta-warp.json](./43978-delta-warp.json) |
 | Delta Wing | 28562 | [28562-delta-wing.json](./28562-delta-wing.json) |
 | Delta-V Racing | 247434 | [247434-delta-v-racing.json](./247434-delta-v-racing.json) |
@@ -7042,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Dash | 238399 | [238399-disaster-dash.json](./238399-disaster-dash.json) |
 | Disaster Drive | 157904 | [157904-disaster-drive.json](./157904-disaster-drive.json) |
 | Disaster Island | 197091 | [197091-disaster-island.json](./197091-disaster-island.json) |
+| Disaster Party! | 332862 | [332862-disaster-party.json](./332862-disaster-party.json) |
 | Disaster Plan Z | 301257 | [301257-disaster-plan-z.json](./301257-disaster-plan-z.json) |
 | Disaster Quest Tree | 268672 | [268672-disaster-quest-tree.json](./268672-disaster-quest-tree.json) |
 | Disaster Slayer | 302191 | [302191-disaster-slayer.json](./302191-disaster-slayer.json) |
@@ -8423,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Space | 334268 | [334268-doki-doki-space.json](./334268-doki-doki-space.json) |
 | Doki Doki Storm | 288984 | [288984-doki-doki-storm.json](./288984-doki-doki-storm.json) |
 | Doki Doki SummerTime | 165141 | [165141-doki-doki-summertime.json](./165141-doki-doki-summertime.json) |
+| Doki Doki Sweet Dreams | 332858 | [332858-doki-doki-sweet-dreams.json](./332858-doki-doki-sweet-dreams.json) |
 | Doki Doki Sweets Girlfriend | 207206 | [207206-doki-doki-sweets-girlfriend.json](./207206-doki-doki-sweets-girlfriend.json) |
 | Doki Doki Switcheroo | 334832 | [334832-doki-doki-switcheroo.json](./334832-doki-doki-switcheroo.json) |
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
@@ -11722,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Highway: Retro Console Edition | 365855 | [365855-drift-highway-retro-console-edition.json](./365855-drift-highway-retro-console-edition.json) |
 | Drift Hunters | 145530 | [145530-drift-hunters.json](./145530-drift-hunters.json) |
 | Drift Island | 243590 | [243590-drift-island.json](./243590-drift-island.json) |
+| Drift Island | 332871 | [332871-drift-island.json](./332871-drift-island.json) |
 | Drift It! | 87013 | [87013-drift-it.json](./87013-drift-it.json) |
 | Drift Journey: Nitro | 214499 | [214499-drift-journey-nitro.json](./214499-drift-journey-nitro.json) |
 | Drift King Shuto-kou Battle 2: Tsuchiya Keiichi & Bandou Masaaki | 46582 | [46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json](./46582-drift-king-shuto-kou-battle-2-tsuchiya-keiichi-and-bandou-masaaki.json) |
