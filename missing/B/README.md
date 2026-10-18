@@ -12904,6 +12904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buster Block | 47552 | [47552-buster-block.json](./47552-buster-block.json) |
 | Buster Bros. | 6823 | [6823-buster-bros.json](./6823-buster-bros.json) |
 | Buster Bros. Collection | 20137 | [20137-buster-bros-collection.json](./20137-buster-bros-collection.json) |
+| Buster Bubbles | 354231 | [354231-buster-bubbles.json](./354231-buster-bubbles.json) |
 | Buster Busts A Nut | 375390 | [375390-buster-busts-a-nut.json](./375390-buster-busts-a-nut.json) |
 | Buster Jam | 326285 | [326285-buster-jam.json](./326285-buster-jam.json) |
 | Buster Sword | 415963 | [415963-buster-sword.json](./415963-buster-sword.json) |
