@@ -2083,6 +2083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Love Katamari Reroll + Royal Reverie - Katamari Damacy Series Music Bundle | 272559 | [272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json](./272559-we-love-katamari-reroll-royal-reverie-katamari-damacy-series-music-bundle.json) |
 | We Love Katamari Reroll + Royal Reverie: Deluxe Edition | 251602 | [251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json](./251602-we-love-katamari-reroll-royal-reverie-deluxe-edition.json) |
 | We Love Katamari REROLL+ Royal Reverie: Special Edition | 251688 | [251688-we-love-katamari-reroll-royal-reverie-special-edition.json](./251688-we-love-katamari-reroll-royal-reverie-special-edition.json) |
+| We Love Mind Control Rocket | 358725 | [358725-we-love-mind-control-rocket.json](./358725-we-love-mind-control-rocket.json) |
 | We Met in May | 119482 | [119482-we-met-in-may.json](./119482-we-met-in-may.json) |
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
@@ -2240,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedgie Toss 2 | 67888 | [67888-wedgie-toss-2.json](./67888-wedgie-toss-2.json) |
 | Wednesday | 179022 | [179022-wednesday.json](./179022-wednesday.json) |
 | Wednesday 13th | 419353 | [419353-wednesday-13th.json](./419353-wednesday-13th.json) |
+| Wednesday Night | 358638 | [358638-wednesday-night.json](./358638-wednesday-night.json) |
 | Wednesdays | 333946 | [333946-wednesdays.json](./333946-wednesdays.json) |
 | Wee Tanks! | 142708 | [142708-wee-tanks.json](./142708-wee-tanks.json) |
 | Wee Trains | 120293 | [120293-wee-trains.json](./120293-wee-trains.json) |
@@ -2282,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeeMee Superhero Maker | 109201 | [109201-weemee-superhero-maker.json](./109201-weemee-superhero-maker.json) |
 | Weeny Adventure | 233513 | [233513-weeny-adventure.json](./233513-weeny-adventure.json) |
 | Weeny Wise | 288470 | [288470-weeny-wise.json](./288470-weeny-wise.json) |
+| Weeping Cherries | 358645 | [358645-weeping-cherries.json](./358645-weeping-cherries.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
@@ -3008,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is 2022? | 384740 | [384740-where-is-2022.json](./384740-where-is-2022.json) |
 | Where is a Toilet!? | 227878 | [227878-where-is-a-toilet.json](./227878-where-is-a-toilet.json) |
 | Where is a Toilet!? | 228682 | [228682-where-is-a-toilet.json](./228682-where-is-a-toilet.json) |
+| Where is Billy? | 358653 | [358653-where-is-billy.json](./358653-where-is-billy.json) |
 | Where is Earth? | 221109 | [221109-where-is-earth.json](./221109-where-is-earth.json) |
 | Where Is George | 287702 | [287702-where-is-george.json](./287702-where-is-george.json) |
 | Where is He | 192637 | [192637-where-is-he.json](./192637-where-is-he.json) |
@@ -3030,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Paradise? | 174057 | [174057-where-is-paradise.json](./174057-where-is-paradise.json) |
 | Where is Starlingdive | 414527 | [414527-where-is-starlingdive.json](./414527-where-is-starlingdive.json) |
 | Where is the Beach | 114354 | [114354-where-is-the-beach.json](./114354-where-is-the-beach.json) |
+| Where is the Culprit? | 358654 | [358654-where-is-the-culprit.json](./358654-where-is-the-culprit.json) |
 | Where is the Meaning? | 161396 | [161396-where-is-the-meaning.json](./161396-where-is-the-meaning.json) |
 | Where is the Tutorial | 322722 | [322722-where-is-the-tutorial.json](./322722-where-is-the-tutorial.json) |
 | Where It All Began | 198361 | [198361-where-it-all-began.json](./198361-where-it-all-began.json) |
