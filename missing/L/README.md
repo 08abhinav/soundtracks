@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 154059 | [154059-laundry-simulator.json](./154059-laundry-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
+| Laundry Store Simulator | 324720 | [324720-laundry-store-simulator.json](./324720-laundry-store-simulator.json) |
 | Laundry++ | 183943 | [183943-laundry.json](./183943-laundry.json) |
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
 | Laura Bow and the Mechanical Codex | 351270 | [351270-laura-bow-and-the-mechanical-codex.json](./351270-laura-bow-and-the-mechanical-codex.json) |
@@ -6010,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Retrograde | 203844 | [203844-lost-retrograde.json](./203844-lost-retrograde.json) |
 | Lost Rift | 336143 | [336143-lost-rift.json](./336143-lost-rift.json) |
 | Lost Ronin | 83850 | [83850-lost-ronin.json](./83850-lost-ronin.json) |
+| Lost Room: Escape | 324723 | [324723-lost-room-escape.json](./324723-lost-room-escape.json) |
 | Lost Ruins | 142596 | [142596-lost-ruins.json](./142596-lost-ruins.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
