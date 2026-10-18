@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:50:33.103Z",
-  "total_soundtracks": 2179,
+  "generated_at": "2026-10-18T08:50:40.023Z",
+  "total_soundtracks": 2180,
   "games": [
     {
       "igdb_id": 7522,
@@ -11225,6 +11225,20 @@
         {
           "album_name": "Ibb & Obb (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134813,
+      "game_name": "Icarus",
+      "game_url": "https://ostdb.net/games/icarus",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e6dccd9a83fb09e8ec66fd82",
+      "albums": [
+        {
+          "album_name": "Icarus (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3imy5KGZRqOYCPzJUjqlyp",
           "apple_music_url": "",
           "album_link_url": ""
         }
