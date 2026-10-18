@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Shop: Rush Hour! | 24751 | [24751-garden-shop-rush-hour.json](./24751-garden-shop-rush-hour.json) |
 | Garden Simulator | 215944 | [215944-garden-simulator.json](./215944-garden-simulator.json) |
 | Garden Simulator 2010 | 63817 | [63817-garden-simulator-2010.json](./63817-garden-simulator-2010.json) |
+| Garden Snap | 320017 | [320017-garden-snap.json](./320017-garden-snap.json) |
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
 | Garden Story | 119856 | [119856-garden-story.json](./119856-garden-story.json) |
@@ -3405,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio and Glory | 144881 | [144881-gladio-and-glory.json](./144881-gladio-and-glory.json) |
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
+| GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
@@ -3726,6 +3728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Rings Puzzle | 106975 | [106975-glow-rings-puzzle.json](./106975-glow-rings-puzzle.json) |
 | Glow Stairs | 174358 | [174358-glow-stairs.json](./174358-glow-stairs.json) |
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
+| Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
@@ -4760,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
+| Golf In Wonderland | 320024 | [320024-golf-in-wonderland.json](./320024-golf-in-wonderland.json) |
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
@@ -4898,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone Wandering | 215061 | [215061-gone-wandering.json](./215061-gone-wandering.json) |
 | Gone with Hideyoshi | 64636 | [64636-gone-with-hideyoshi.json](./64636-gone-with-hideyoshi.json) |
 | GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
+| Goner In The Town | 320037 | [320037-goner-in-the-town.json](./320037-goner-in-the-town.json) |
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
 | Gong! Goal or No Goal | 209766 | [209766-gong-goal-or-no-goal.json](./209766-gong-goal-or-no-goal.json) |
@@ -5484,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
 | Gran Duel: Shinki Dungeon no Hihou | 50056 | [50056-gran-duel-shinki-dungeon-no-hihou.json](./50056-gran-duel-shinki-dungeon-no-hihou.json) |
 | Gran Empire | 149443 | [149443-gran-empire.json](./149443-gran-empire.json) |
+| Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
