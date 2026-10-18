@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
 | Locus Solus | 32243 | [32243-locus-solus.json](./32243-locus-solus.json) |
+| Locust Hunter | 310821 | [310821-locust-hunter.json](./310821-locust-hunter.json) |
 | Loddlenaut | 152196 | [152196-loddlenaut.json](./152196-loddlenaut.json) |
 | Lode Runner | 166708 | [166708-lode-runner.json](./166708-lode-runner.json) |
 | Lode Runner | 197939 | [197939-lode-runner.json](./197939-lode-runner.json) |
@@ -6959,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumberjack's Dynasty: Digital Supporter Edition | 169187 | [169187-lumberjacks-dynasty-digital-supporter-edition.json](./169187-lumberjacks-dynasty-digital-supporter-edition.json) |
 | Lumberjacked | 341623 | [341623-lumberjacked.json](./341623-lumberjacked.json) |
+| LumberKill | 310828 | [310828-lumberkill.json](./310828-lumberkill.json) |
 | Lumbermill | 122427 | [122427-lumbermill.json](./122427-lumbermill.json) |
 | LumberQwaxes | 154013 | [154013-lumberqwaxes.json](./154013-lumberqwaxes.json) |
 | LumberReborn | 217822 | [217822-lumberreborn.json](./217822-lumberreborn.json) |
