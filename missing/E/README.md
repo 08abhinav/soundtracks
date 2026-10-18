@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 402536 | [402536-entropy.json](./402536-entropy.json) |
 | Entropy | 402537 | [402537-entropy.json](./402537-entropy.json) |
 | Entropy 2120 | 87971 | [87971-entropy-2120.json](./87971-entropy-2120.json) |
+| Entropy Architects | 334555 | [334555-entropy-architects.json](./334555-entropy-architects.json) |
 | Entropy graze | 378919 | [378919-entropy-graze.json](./378919-entropy-graze.json) |
 | Entropy Scramble: Cats Doing Science! | 402535 | [402535-entropy-scramble-cats-doing-science.json](./402535-entropy-scramble-cats-doing-science.json) |
 | Entropy: Zero | 127887 | [127887-entropy-zero.json](./127887-entropy-zero.json) |
