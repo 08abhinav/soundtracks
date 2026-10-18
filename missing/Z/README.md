@@ -1789,6 +1789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZX Spectrum Pac-Man Arcade | 281479 | [281479-zx-spectrum-pac-man-arcade.json](./281479-zx-spectrum-pac-man-arcade.json) |
 | ZX Terror House | 293359 | [293359-zx-terror-house.json](./293359-zx-terror-house.json) |
 | ZXC | 266803 | [266803-zxc.json](./266803-zxc.json) |
+| ZXD: Zombie Xtinction Defense | 328318 | [328318-zxd-zombie-xtinction-defense.json](./328318-zxd-zombie-xtinction-defense.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
 | Zybex | 47206 | [47206-zybex.json](./47206-zybex.json) |
