@@ -637,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karamuu-chou no Daijiken | 228575 | [228575-karamuu-chou-no-daijiken.json](./228575-karamuu-chou-no-daijiken.json) |
 | Karao | 392176 | [392176-karao.json](./392176-karao.json) |
 | Karaoke | 80255 | [80255-karaoke.json](./80255-karaoke.json) |
+| Karaoke Animal Party: Sing & Dance | 330607 | [330607-karaoke-animal-party-sing-and-dance.json](./330607-karaoke-animal-party-sing-and-dance.json) |
 | Karaoke Family Fun | 210018 | [210018-karaoke-family-fun.json](./210018-karaoke-family-fun.json) |
 | Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
 | Karaoke Joysound | 4948 | [4948-karaoke-joysound.json](./4948-karaoke-joysound.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
 | Korean Drone Flying Tour Donggeom-do | 342423 | [342423-korean-drone-flying-tour-donggeom-do.json](./342423-korean-drone-flying-tour-donggeom-do.json) |
 | Korean Drone Flying Tour Dongmak Beach | 342422 | [342422-korean-drone-flying-tour-dongmak-beach.json](./342422-korean-drone-flying-tour-dongmak-beach.json) |
+| Korean Drone Flying Tour Gangneung City | 330608 | [330608-korean-drone-flying-tour-gangneung-city.json](./330608-korean-drone-flying-tour-gangneung-city.json) |
 | Korean Drone Flying Tour Gapyeong-gun | 342421 | [342421-korean-drone-flying-tour-gapyeong-gun.json](./342421-korean-drone-flying-tour-gapyeong-gun.json) |
 | Korean Drone Flying Tour Geomdansan | 336426 | [336426-korean-drone-flying-tour-geomdansan.json](./336426-korean-drone-flying-tour-geomdansan.json) |
 | Korean Drone Flying Tour Geumsan-gun | 376222 | [376222-korean-drone-flying-tour-geumsan-gun.json](./376222-korean-drone-flying-tour-geumsan-gun.json) |
