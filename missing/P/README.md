@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
 | Pinball Advance | 49316 | [49316-pinball-advance.json](./49316-pinball-advance.json) |
+| Pinball Adventure | 359731 | [359731-pinball-adventure.json](./359731-pinball-adventure.json) |
 | Pinball Arcade Season 2 | 141861 | [141861-pinball-arcade-season-2.json](./141861-pinball-arcade-season-2.json) |
 | Pinball Arcade: AC/DC | 349341 | [349341-pinball-arcade-ac-dc.json](./349341-pinball-arcade-ac-dc.json) |
 | Pinball Arcade: Al’s Garage Band Goes on a World Tour | 353229 | [353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json](./353229-pinball-arcade-al-s-garage-band-goes-on-a-world-tour.json) |
@@ -9388,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
 | Postal: Brain Damaged | 138353 | [138353-postal-brain-damaged.json](./138353-postal-brain-damaged.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
+| Postal: Fudge Pack | 359857 | [359857-postal-fudge-pack.json](./359857-postal-fudge-pack.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
