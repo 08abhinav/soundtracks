@@ -580,6 +580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
 | Kao the Kangaroo | 134528 | [134528-kao-the-kangaroo.json](./134528-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
+| Kao The Kangaroo + Urban Trial Playground | 342415 | [342415-kao-the-kangaroo-urban-trial-playground.json](./342415-kao-the-kangaroo-urban-trial-playground.json) |
 | Kao the Kangaroo Trilogy | 143497 | [143497-kao-the-kangaroo-trilogy.json](./143497-kao-the-kangaroo-trilogy.json) |
 | Kao the Kangaroo: A Well Good Bundle | 221695 | [221695-kao-the-kangaroo-a-well-good-bundle.json](./221695-kao-the-kangaroo-a-well-good-bundle.json) |
 | Kao the Kangaroo: Oh! Well | 221642 | [221642-kao-the-kangaroo-oh-well.json](./221642-kao-the-kangaroo-oh-well.json) |
@@ -765,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
 | Kart Racing | 381228 | [381228-kart-racing.json](./381228-kart-racing.json) |
 | Kart Racing 3D - Top Car Racer Chaser Action Rally | 101568 | [101568-kart-racing-3d-top-car-racer-chaser-action-rally.json](./101568-kart-racing-3d-top-car-racer-chaser-action-rally.json) |
+| Kart Racing Star Simulator Game | 342414 | [342414-kart-racing-star-simulator-game.json](./342414-kart-racing-star-simulator-game.json) |
 | Kart Racing Supercharged! | 137924 | [137924-kart-racing-supercharged.json](./137924-kart-racing-supercharged.json) |
 | Kart Soccer Party | 398428 | [398428-kart-soccer-party.json](./398428-kart-soccer-party.json) |
 | Kart Stars | 234497 | [234497-kart-stars.json](./234497-kart-stars.json) |
@@ -1037,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
 | Kebab it Up! | 81091 | [81091-kebab-it-up.json](./81091-kebab-it-up.json) |
 | Kebab Simulator | 301359 | [301359-kebab-simulator.json](./301359-kebab-simulator.json) |
+| Kebab Simulator 2025 | 342416 | [342416-kebab-simulator-2025.json](./342416-kebab-simulator-2025.json) |
 | Kebab Simulator: Taste Revolution | 336372 | [336372-kebab-simulator-taste-revolution.json](./336372-kebab-simulator-taste-revolution.json) |
 | Kebabstar | 295307 | [295307-kebabstar.json](./295307-kebabstar.json) |
 | Keda | 178509 | [178509-keda.json](./178509-keda.json) |
@@ -1802,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Dragon | 184635 | [184635-kill-the-dragon.json](./184635-kill-the-dragon.json) |
 | Kill the Dragon | 268494 | [268494-kill-the-dragon.json](./268494-kill-the-dragon.json) |
 | Kill the Emoji | 54999 | [54999-kill-the-emoji.json](./54999-kill-the-emoji.json) |
+| Kill The Emoji 2 | 342417 | [342417-kill-the-emoji-2.json](./342417-kill-the-emoji-2.json) |
 | Kill The Emoji: The Remake | 127094 | [127094-kill-the-emoji-the-remake.json](./127094-kill-the-emoji-the-remake.json) |
 | Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
@@ -3875,11 +3879,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Daechon Beach | 362181 | [362181-korean-drone-flying-tour-daechon-beach.json](./362181-korean-drone-flying-tour-daechon-beach.json) |
 | Korean Drone Flying Tour Daedunsan | 386371 | [386371-korean-drone-flying-tour-daedunsan.json](./386371-korean-drone-flying-tour-daedunsan.json) |
 | Korean Drone Flying Tour Danyang-gun | 328502 | [328502-korean-drone-flying-tour-danyang-gun.json](./328502-korean-drone-flying-tour-danyang-gun.json) |
+| Korean Drone Flying Tour Donggeom-do | 342423 | [342423-korean-drone-flying-tour-donggeom-do.json](./342423-korean-drone-flying-tour-donggeom-do.json) |
+| Korean Drone Flying Tour Dongmak Beach | 342422 | [342422-korean-drone-flying-tour-dongmak-beach.json](./342422-korean-drone-flying-tour-dongmak-beach.json) |
+| Korean Drone Flying Tour Gapyeong-gun | 342421 | [342421-korean-drone-flying-tour-gapyeong-gun.json](./342421-korean-drone-flying-tour-gapyeong-gun.json) |
 | Korean Drone Flying Tour Geumsan-gun | 376222 | [376222-korean-drone-flying-tour-geumsan-gun.json](./376222-korean-drone-flying-tour-geumsan-gun.json) |
 | Korean Drone Flying Tour Hangang Park | 351220 | [351220-korean-drone-flying-tour-hangang-park.json](./351220-korean-drone-flying-tour-hangang-park.json) |
+| Korean Drone Flying Tour Ilsan Lake Park | 342420 | [342420-korean-drone-flying-tour-ilsan-lake-park.json](./342420-korean-drone-flying-tour-ilsan-lake-park.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Nakhwaam | 362180 | [362180-korean-drone-flying-tour-nakhwaam.json](./362180-korean-drone-flying-tour-nakhwaam.json) |
+| Korean Drone Flying Tour Namhan River | 342419 | [342419-korean-drone-flying-tour-namhan-river.json](./342419-korean-drone-flying-tour-namhan-river.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
 | Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
 | Korean Drone Flying Tour Pocheon-si | 351221 | [351221-korean-drone-flying-tour-pocheon-si.json](./351221-korean-drone-flying-tour-pocheon-si.json) |
@@ -3888,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Uiwang-si | 345973 | [345973-korean-drone-flying-tour-uiwang-si.json](./345973-korean-drone-flying-tour-uiwang-si.json) |
 | Korean Drone Flying Tour Wonsan-do | 362179 | [362179-korean-drone-flying-tour-wonsan-do.json](./362179-korean-drone-flying-tour-wonsan-do.json) |
 | Korean Drone Flying Tour Woryeongsan | 376223 | [376223-korean-drone-flying-tour-woryeongsan.json](./376223-korean-drone-flying-tour-woryeongsan.json) |
+| Korean Drone Flying Tour Yumyeongsan | 342418 | [342418-korean-drone-flying-tour-yumyeongsan.json](./342418-korean-drone-flying-tour-yumyeongsan.json) |
 | Korean Flower Name Game | 231988 | [231988-korean-flower-name-game.json](./231988-korean-flower-name-game.json) |
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Celesti Express ITX-MAUM Taebaek Line | 374896 | [374896-korean-rail-celesti-express-itx-maum-taebaek-line.json](./374896-korean-rail-celesti-express-itx-maum-taebaek-line.json) |
