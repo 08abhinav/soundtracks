@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keek | 211679 | [211679-keek.json](./211679-keek.json) |
 | KeelOver | 399140 | [399140-keelover.json](./399140-keelover.json) |
 | Keena The Voidslayer | 419332 | [419332-keena-the-voidslayer.json](./419332-keena-the-voidslayer.json) |
+| Keep Away | 359741 | [359741-keep-away.json](./359741-keep-away.json) |
 | Keep Combo | 255052 | [255052-keep-combo.json](./255052-keep-combo.json) |
 | Keep Cutting | 406146 | [406146-keep-cutting.json](./406146-keep-cutting.json) |
 | Keep Deep Sheep | 333607 | [333607-keep-deep-sheep.json](./333607-keep-deep-sheep.json) |
