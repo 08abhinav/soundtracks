@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape: The Nonary Games | 25343 | [25343-zero-escape-the-nonary-games.json](./25343-zero-escape-the-nonary-games.json) |
 | Zero Escape: Virtue's Last Reward | 6614 | [6614-zero-escape-virtues-last-reward.json](./6614-zero-escape-virtues-last-reward.json) |
 | Zero Escape: Zero Time Dilemma - Limited Watch Bonus Edition | 89890 | [89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json](./89890-zero-escape-zero-time-dilemma-limited-watch-bonus-edition.json) |
+| Zero Fighter | 345917 | [345917-zero-fighter.json](./345917-zero-fighter.json) |
 | Zero Fighter | 385714 | [385714-zero-fighter.json](./385714-zero-fighter.json) |
 | Zero Fill | 418733 | [418733-zero-fill.json](./418733-zero-fill.json) |
 | Zero Fire: Toaplan Arcade Garage | 246668 | [246668-zero-fire-toaplan-arcade-garage.json](./246668-zero-fire-toaplan-arcade-garage.json) |
@@ -687,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroPrompt | 399860 | [399860-zeroprompt.json](./399860-zeroprompt.json) |
 | Zeroptian Invasion | 111576 | [111576-zeroptian-invasion.json](./111576-zeroptian-invasion.json) |
 | ZeroRanger | 59737 | [59737-zeroranger.json](./59737-zeroranger.json) |
+| Zerosen | 345918 | [345918-zerosen.json](./345918-zerosen.json) |
 | ZeroSpace | 262659 | [262659-zerospace.json](./262659-zerospace.json) |
 | Zeroth Zone | 72133 | [72133-zeroth-zone.json](./72133-zeroth-zone.json) |
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
