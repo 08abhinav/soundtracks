@@ -6421,6 +6421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Siege | 360659 | [360659-citadel-siege.json](./360659-citadel-siege.json) |
 | Citadel Siege 2 | 365168 | [365168-citadel-siege-2.json](./365168-citadel-siege-2.json) |
 | Citadel Stormer 2 | 235855 | [235855-citadel-stormer-2.json](./235855-citadel-stormer-2.json) |
+| Citadel Unchained | 323571 | [323571-citadel-unchained.json](./323571-citadel-unchained.json) |
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
@@ -12623,6 +12624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Loop | 412267 | [412267-critter-loop.json](./412267-critter-loop.json) |
 | Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
+| Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
