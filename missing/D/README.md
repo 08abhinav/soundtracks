@@ -1283,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Prison 7th | 349379 | [349379-dark-prison-7th.json](./349379-dark-prison-7th.json) |
 | Dark Project | 29685 | [29685-dark-project.json](./29685-dark-project.json) |
 | Dark Prospect | 128994 | [128994-dark-prospect.json](./128994-dark-prospect.json) |
+| Dark Queen of Samobor | 311877 | [311877-dark-queen-of-samobor.json](./311877-dark-queen-of-samobor.json) |
 | Dark Quest | 145651 | [145651-dark-quest.json](./145651-dark-quest.json) |
 | Dark Quest | 27488 | [27488-dark-quest.json](./27488-dark-quest.json) |
 | Dark Quest 3 | 246295 | [246295-dark-quest-3.json](./246295-dark-quest-3.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep in the fields | 402904 | [402904-deep-in-the-fields.json](./402904-deep-in-the-fields.json) |
 | Deep in the Forest | 183042 | [183042-deep-in-the-forest.json](./183042-deep-in-the-forest.json) |
 | Deep In The Lab | 335373 | [335373-deep-in-the-lab.json](./335373-deep-in-the-lab.json) |
+| Deep in The Mine | 311864 | [311864-deep-in-the-mine.json](./311864-deep-in-the-mine.json) |
 | Deep in the Snowy Night | 232926 | [232926-deep-in-the-snowy-night.json](./232926-deep-in-the-snowy-night.json) |
 | Deep In The Snowy Night 2 | 278740 | [278740-deep-in-the-snowy-night-2.json](./278740-deep-in-the-snowy-night-2.json) |
 | Deep in the Void | 228012 | [228012-deep-in-the-void.json](./228012-deep-in-the-void.json) |
@@ -5289,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despierta | 402878 | [402878-despierta.json](./402878-despierta.json) |
 | deSpiria | 92865 | [92865-despiria.json](./92865-despiria.json) |
 | Despoiler | 87036 | [87036-despoiler.json](./87036-despoiler.json) |
+| Despondent | 311899 | [311899-despondent.json](./311899-despondent.json) |
 | Despot Zombie | 291698 | [291698-despot-zombie.json](./291698-despot-zombie.json) |
 | Despot's Game: Challenges | 219242 | [219242-despots-game-challenges.json](./219242-despots-game-challenges.json) |
 | Despot's Game: Collector's Edition | 219052 | [219052-despots-game-collectors-edition.json](./219052-despots-game-collectors-edition.json) |
@@ -7080,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Kids | 100160 | [100160-dirty-kids.json](./100160-dirty-kids.json) |
 | Dirty Land | 219245 | [219245-dirty-land.json](./219245-dirty-land.json) |
 | Dirty Laundry | 406832 | [406832-dirty-laundry.json](./406832-dirty-laundry.json) |
+| Dirty League | 311894 | [311894-dirty-league.json](./311894-dirty-league.json) |
 | Dirty Little Puzzle | 416067 | [416067-dirty-little-puzzle.json](./416067-dirty-little-puzzle.json) |
 | Dirty Little Secrets | 313891 | [313891-dirty-little-secrets.json](./313891-dirty-little-secrets.json) |
 | Dirty Love | 303481 | [303481-dirty-love.json](./303481-dirty-love.json) |
@@ -8070,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Even Forklift? | 347479 | [347479-do-you-even-forklift.json](./347479-do-you-even-forklift.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
+| Do You Know Kimchi? | 311852 | [311852-do-you-know-kimchi.json](./311852-do-you-know-kimchi.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Like Italian Food? | 407383 | [407383-do-you-like-italian-food.json](./407383-do-you-like-italian-food.json) |
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
