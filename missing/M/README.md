@@ -3954,6 +3954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Gem 99 | 261701 | [261701-match-gem-99.json](./261701-match-gem-99.json) |
 | Match Gems Evolved | 101969 | [101969-match-gems-evolved.json](./101969-match-gems-evolved.json) |
 | Match Hit: Puzzle Fighter | 273884 | [273884-match-hit-puzzle-fighter.json](./273884-match-hit-puzzle-fighter.json) |
+| Match In Peace | 315342 | [315342-match-in-peace.json](./315342-match-in-peace.json) |
 | Match it | 337989 | [337989-match-it.json](./337989-match-it.json) |
 | Match It | 402993 | [402993-match-it.json](./402993-match-it.json) |
 | Match it - My Favorite Animal | 110194 | [110194-match-it-my-favorite-animal.json](./110194-match-it-my-favorite-animal.json) |
@@ -7354,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Pocket | 252307 | [252307-metro-pocket.json](./252307-metro-pocket.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
+| Metro Quester: Osaka | 315340 | [315340-metro-quester-osaka.json](./315340-metro-quester-osaka.json) |
 | Metro Redux | 6880 | [6880-metro-redux.json](./6880-metro-redux.json) |
 | Metro Rivals: New York | 373617 | [373617-metro-rivals-new-york.json](./373617-metro-rivals-new-york.json) |
 | Metro Sim Hustle | 105601 | [105601-metro-sim-hustle.json](./105601-metro-sim-hustle.json) |
@@ -7718,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
 | Microdoctor | 50363 | [50363-microdoctor.json](./50363-microdoctor.json) |
+| Microdungeon | 315330 | [315330-microdungeon.json](./315330-microdungeon.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
@@ -8271,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might and Magic III: Isles of Terra | 7735 | [7735-might-and-magic-iii-isles-of-terra.json](./7735-might-and-magic-iii-isles-of-terra.json) |
 | Might and Magic IX | 7741 | [7741-might-and-magic-ix.json](./7741-might-and-magic-ix.json) |
 | Might and Magic Mobile | 306014 | [306014-might-and-magic-mobile.json](./306014-might-and-magic-mobile.json) |
+| Might and Magic Mobile II | 315321 | [315321-might-and-magic-mobile-ii.json](./315321-might-and-magic-mobile-ii.json) |
 | Might and Magic VI: The Mandate of Heaven | 790 | [790-might-and-magic-vi-the-mandate-of-heaven.json](./790-might-and-magic-vi-the-mandate-of-heaven.json) |
 | Might and Magic VII: For Blood and Honor | 7739 | [7739-might-and-magic-vii-for-blood-and-honor.json](./7739-might-and-magic-vii-for-blood-and-honor.json) |
 | Might and Magic VIII: Day of the Destroyer | 7740 | [7740-might-and-magic-viii-day-of-the-destroyer.json](./7740-might-and-magic-viii-day-of-the-destroyer.json) |
