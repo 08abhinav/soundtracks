@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:25:33.060Z",
-  "total_soundtracks": 2145,
+  "generated_at": "2026-10-18T08:30:25.637Z",
+  "total_soundtracks": 2146,
   "games": [
     {
       "igdb_id": 7522,
@@ -970,6 +970,20 @@
           "album_name": "Among Us Theme",
           "spotify_url": "https://open.spotify.com/album/2pQnYXMxVjYJWp5msRmAh0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 28794,
+      "game_name": "Ancestors Legacy",
+      "game_url": "https://ostdb.net/games/ancestors-legacy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd22defd8962c7c2d67023c9",
+      "albums": [
+        {
+          "album_name": "Ancestors Legacy (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4uPJEwaGWz7w86Id6ogZ6U",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
