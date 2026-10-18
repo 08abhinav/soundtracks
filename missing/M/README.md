@@ -7694,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microarcade ApplePie | 223617 | [223617-microarcade-applepie.json](./223617-microarcade-applepie.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microbial Mayhem | 268989 | [268989-microbial-mayhem.json](./268989-microbial-mayhem.json) |
+| Microbial Sector | 321825 | [321825-microbial-sector.json](./321825-microbial-sector.json) |
 | Microbian | 376078 | [376078-microbian.json](./376078-microbian.json) |
 | MicroBot | 21082 | [21082-microbot.json](./21082-microbot.json) |
 | MicroBuddies | 196712 | [196712-microbuddies.json](./196712-microbuddies.json) |
