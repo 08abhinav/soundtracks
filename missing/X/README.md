@@ -140,6 +140,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: The Official Game | 248534 | [248534-x-men-the-official-game.json](./248534-x-men-the-official-game.json) |
 | X-Men: The Official Game | 4578 | [4578-x-men-the-official-game.json](./4578-x-men-the-official-game.json) |
 | X-Men: The Ravages of Apocalypse | 71715 | [71715-x-men-the-ravages-of-apocalypse.json](./71715-x-men-the-ravages-of-apocalypse.json) |
+| X-Men: Tiger Barcodzz - Apocalypse | 362628 | [362628-x-men-tiger-barcodzz-apocalypse.json](./362628-x-men-tiger-barcodzz-apocalypse.json) |
+| X-Men: Tiger Barcodzz - Beast | 362629 | [362629-x-men-tiger-barcodzz-beast.json](./362629-x-men-tiger-barcodzz-beast.json) |
+| X-Men: Tiger Barcodzz - Cyclops | 362626 | [362626-x-men-tiger-barcodzz-cyclops.json](./362626-x-men-tiger-barcodzz-cyclops.json) |
+| X-Men: Tiger Barcodzz - Jubilee | 362627 | [362627-x-men-tiger-barcodzz-jubilee.json](./362627-x-men-tiger-barcodzz-jubilee.json) |
+| X-Men: Tiger Barcodzz - Wolverine | 362625 | [362625-x-men-tiger-barcodzz-wolverine.json](./362625-x-men-tiger-barcodzz-wolverine.json) |
 | X-Men: Wolverine's Rage | 49899 | [49899-x-men-wolverines-rage.json](./49899-x-men-wolverines-rage.json) |
 | X-Mercs | 59982 | [59982-x-mercs.json](./59982-x-mercs.json) |
 | X-Moon | 112325 | [112325-x-moon.json](./112325-x-moon.json) |
