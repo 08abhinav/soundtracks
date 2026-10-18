@@ -810,6 +810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
+| Daniel's Jetpack Flight | 331755 | [331755-daniels-jetpack-flight.json](./331755-daniels-jetpack-flight.json) |
 | Danjigoku | 276122 | [276122-danjigoku.json](./276122-danjigoku.json) |
 | Danjon ni Deai o Motomeru no wa Machigatteiru Darou ka? Orario Rhapsodia | 77627 | [77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json](./77627-danjon-ni-deai-o-motomeru-no-wa-machigatteiru-darou-ka-orario-rhapsodia.json) |
 | Danju | 410238 | [410238-danju.json](./410238-danju.json) |
@@ -5303,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
+| Destiny Blade | 331758 | [331758-destiny-blade.json](./331758-destiny-blade.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
 | Destiny Chronicles | 36871 | [36871-destiny-chronicles.json](./36871-destiny-chronicles.json) |
 | Destiny Code | 358379 | [358379-destiny-code.json](./358379-destiny-code.json) |
@@ -6283,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
+| Diesel Knights | 331762 | [331762-diesel-knights.json](./331762-diesel-knights.json) |
 | Diesel Legacy: The Brazen Age | 252844 | [252844-diesel-legacy-the-brazen-age.json](./252844-diesel-legacy-the-brazen-age.json) |
 | Diesel Power | 29805 | [29805-diesel-power.json](./29805-diesel-power.json) |
 | Diesel Punch | 135753 | [135753-diesel-punch.json](./135753-diesel-punch.json) |
@@ -6377,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggin It | 395797 | [395797-diggin-it.json](./395797-diggin-it.json) |
 | Digging & Farming & Parking: Simulator Bundle | 380697 | [380697-digging-and-farming-and-parking-simulator-bundle.json](./380697-digging-and-farming-and-parking-simulator-bundle.json) |
 | Digging a Hole 2025 | 335955 | [335955-digging-a-hole-2025.json](./335955-digging-a-hole-2025.json) |
+| Digging a Hole Simulator | 331728 | [331728-digging-a-hole-simulator.json](./331728-digging-a-hole-simulator.json) |
 | Digging a Hole: Gold Fever | 345989 | [345989-digging-a-hole-gold-fever.json](./345989-digging-a-hole-gold-fever.json) |
 | Digging A Hole: Journey to the Core | 351095 | [351095-digging-a-hole-journey-to-the-core.json](./351095-digging-a-hole-journey-to-the-core.json) |
 | Digging a Hole... with a Spoon... Escape from Alcatraz | 383483 | [383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json](./383483-digging-a-hole-with-a-spoon-escape-from-alcatraz.json) |
@@ -9329,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM: Collector's Edition | 41614 | [41614-doom-collectors-edition.json](./41614-doom-collectors-edition.json) |
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
+| DooM: Fall of Mars | 331655 | [331655-doom-fall-of-mars.json](./331655-doom-fall-of-mars.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
 | Doom: Slayer's Testament | 146666 | [146666-doom-slayers-testament.json](./146666-doom-slayers-testament.json) |
@@ -11893,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
+| Driveloop: Survivors | 331731 | [331731-driveloop-survivors.json](./331731-driveloop-survivors.json) |
 | Driven | 210287 | [210287-driven.json](./210287-driven.json) |
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
