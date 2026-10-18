@@ -9452,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Mermaid: Visual Harmony | 274449 | [274449-the-little-mermaid-visual-harmony.json](./274449-the-little-mermaid-visual-harmony.json) |
 | The Little Mermaid: Wonder Puzzles | 314881 | [314881-the-little-mermaid-wonder-puzzles.json](./314881-the-little-mermaid-wonder-puzzles.json) |
 | The Little Mermaid's Friend | 252386 | [252386-the-little-mermaids-friend.json](./252386-the-little-mermaids-friend.json) |
+| The Little Moon | 329410 | [329410-the-little-moon.json](./329410-the-little-moon.json) |
 | The Little Raven & Friends: The Tricycle Story | 71971 | [71971-the-little-raven-and-friends-the-tricycle-story.json](./71971-the-little-raven-and-friends-the-tricycle-story.json) |
 | The Little Red Lie | 145541 | [145541-the-little-red-lie.json](./145541-the-little-red-lie.json) |
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
@@ -17608,6 +17609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toasterball + Buissons Bundle | 276951 | [276951-toasterball-buissons-bundle.json](./276951-toasterball-buissons-bundle.json) |
 | Toasterdog in Dreamworld | 299558 | [299558-toasterdog-in-dreamworld.json](./299558-toasterdog-in-dreamworld.json) |
 | Toastling | 192321 | [192321-toastling.json](./192321-toastling.json) |
+| Toasty Tires | 329406 | [329406-toasty-tires.json](./329406-toasty-tires.json) |
 | Toasty: Ashes of Dusk | 144275 | [144275-toasty-ashes-of-dusk.json](./144275-toasty-ashes-of-dusk.json) |
 | Toazzle | 90856 | [90856-toazzle.json](./90856-toazzle.json) |
 | Tob Run | 359062 | [359062-tob-run.json](./359062-tob-run.json) |
@@ -22053,6 +22055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
+| Treflix: Mini Games | 329433 | [329433-treflix-mini-games.json](./329433-treflix-mini-games.json) |
 | Treis Zoes | 129080 | [129080-treis-zoes.json](./129080-treis-zoes.json) |
 | Trek to Yomi: Deluxe Edition | 234208 | [234208-trek-to-yomi-deluxe-edition.json](./234208-trek-to-yomi-deluxe-edition.json) |
 | Trek Trivia | 100103 | [100103-trek-trivia.json](./100103-trek-trivia.json) |
