@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight of Flame Lily Akos 2 | 82655 | [82655-knight-of-flame-lily-akos-2.json](./82655-knight-of-flame-lily-akos-2.json) |
 | Knight of Legends | 199986 | [199986-knight-of-legends.json](./199986-knight-of-legends.json) |
 | Knight of Nevermore | 295899 | [295899-knight-of-nevermore.json](./295899-knight-of-nevermore.json) |
+| Knight of the Dungeon | 347566 | [347566-knight-of-the-dungeon.json](./347566-knight-of-the-dungeon.json) |
 | Knight Of The Earthends | 319835 | [319835-knight-of-the-earthends.json](./319835-knight-of-the-earthends.json) |
 | Knight of the Hamsters | 17939 | [17939-knight-of-the-hamsters.json](./17939-knight-of-the-hamsters.json) |
 | Knight of the Keep | 379184 | [379184-knight-of-the-keep.json](./379184-knight-of-the-keep.json) |
