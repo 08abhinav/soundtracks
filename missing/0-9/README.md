@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Moscow | 372340 | [372340-101-cats-in-moscow.json](./372340-101-cats-in-moscow.json) |
 | 101 Cats in Munich | 407534 | [407534-101-cats-in-munich.json](./407534-101-cats-in-munich.json) |
 | 101 Cats in New York | 337609 | [337609-101-cats-in-new-york.json](./337609-101-cats-in-new-york.json) |
+| 101 Cats in Osaka | 358067 | [358067-101-cats-in-osaka.json](./358067-101-cats-in-osaka.json) |
 | 101 Cats in Paris | 337610 | [337610-101-cats-in-paris.json](./337610-101-cats-in-paris.json) |
 | 101 Cats in Rio de Janeiro | 397634 | [397634-101-cats-in-rio-de-janeiro.json](./397634-101-cats-in-rio-de-janeiro.json) |
 | 101 Cats in Saint Petersburg | 397635 | [397635-101-cats-in-saint-petersburg.json](./397635-101-cats-in-saint-petersburg.json) |
@@ -702,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
 | 10tons Adventure Puzzles Bundle | 82461 | [82461-10tons-adventure-puzzles-bundle.json](./82461-10tons-adventure-puzzles-bundle.json) |
+| 11 Doors: Escape From Prison | 358066 | [358066-11-doors-escape-from-prison.json](./358066-11-doors-escape-from-prison.json) |
 | 11 Eyes: CrossOver | 47396 | [47396-11-eyes-crossover.json](./47396-11-eyes-crossover.json) |
 | 11 Trials of Raz | 379454 | [379454-11-trials-of-raz.json](./379454-11-trials-of-raz.json) |
 | 11-11: Memories Retold | 103249 | [103249-11-11-memories-retold.json](./103249-11-11-memories-retold.json) |
@@ -777,8 +779,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Kids Fun Connect the Dots Games for Smart Kids | 232183 | [232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json](./232183-123-kids-fun-connect-the-dots-games-for-smart-kids.json) |
 | 123 Kids Fun Puzzle Gold | 89543 | [89543-123-kids-fun-puzzle-gold.json](./89543-123-kids-fun-puzzle-gold.json) |
 | 123 Kids Fun Puzzle Red | 89166 | [89166-123-kids-fun-puzzle-red.json](./89166-123-kids-fun-puzzle-red.json) |
+| 123 Mazes | 358058 | [358058-123-mazes.json](./358058-123-mazes.json) |
 | 123 Picture Match | 110220 | [110220-123-picture-match.json](./110220-123-picture-match.json) |
 | 123 Slaughter Me Street | 19810 | [19810-123-slaughter-me-street.json](./19810-123-slaughter-me-street.json) |
+| 123 Wooden Figures | 358059 | [358059-123-wooden-figures.json](./358059-123-wooden-figures.json) |
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
 | 125 Monkey Games | 203204 | [203204-125-monkey-games.json](./203204-125-monkey-games.json) |
@@ -813,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 137E0 Action 1 Steak | 234303 | [234303-137e0-action-1-steak.json](./234303-137e0-action-1-steak.json) |
 | 1387: MMO Strategy | 213313 | [213313-1387-mmo-strategy.json](./213313-1387-mmo-strategy.json) |
 | 13iew | 243597 | [243597-13iew.json](./243597-13iew.json) |
+| 13km Deep | 358061 | [358061-13km-deep.json](./358061-13km-deep.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 13th House on Halloween | 321454 | [321454-13th-house-on-halloween.json](./321454-13th-house-on-halloween.json) |
 | 14 Days With You | 251073 | [251073-14-days-with-you.json](./251073-14-days-with-you.json) |
@@ -821,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 14 Minesweeper Variants 2 | 272869 | [272869-14-minesweeper-variants-2.json](./272869-14-minesweeper-variants-2.json) |
 | 14 Nights With Beatrice | 381403 | [381403-14-nights-with-beatrice.json](./381403-14-nights-with-beatrice.json) |
 | 14/? | 259464 | [259464-14.json](./259464-14.json) |
+| 1402 | 358062 | [358062-1402.json](./358062-1402.json) |
 | 1406 | 116102 | [116102-1406.json](./116102-1406.json) |
 | 141 | 126351 | [126351-141.json](./126351-141.json) |
 | 1414: Crossroads | 241301 | [241301-1414-crossroads.json](./241301-1414-crossroads.json) |
@@ -840,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes At The World's End | 265616 | [265616-15-minutes-at-the-worlds-end.json](./265616-15-minutes-at-the-worlds-end.json) |
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
+| 15 Weeks Before Summer! | 358063 | [358063-15-weeks-before-summer.json](./358063-15-weeks-before-summer.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
 | 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
@@ -877,6 +884,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
+| 16BitSurvivors | 358064 | [358064-16bitsurvivors.json](./358064-16bitsurvivors.json) |
+| 16x16 | 358065 | [358065-16x16.json](./358065-16x16.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
@@ -1009,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x111 | 322853 | [322853-1x111.json](./322853-1x111.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
+| 2 Bows 1 Arrow | 358075 | [358075-2-bows-1-arrow.json](./358075-2-bows-1-arrow.json) |
 | 2 Cats & 1 Dog | 203696 | [203696-2-cats-and-1-dog.json](./203696-2-cats-and-1-dog.json) |
 | 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
@@ -1038,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games In 1: The SpongeBob SquarePants Movie + SpongeBob SquarePants and Friends in Freeze Frame Frenzy | 86055 | [86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json](./86055-2-games-in-1-the-spongebob-squarepants-movie-spongebob-squarepants-and-friends-in-freeze-frame-frenzy.json) |
 | 2 Games in 1!: Archer Maclean's Mercury / Mercury Meltdown | 138010 | [138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json](./138010-2-games-in-1-archer-macleans-mercury-mercury-meltdown.json) |
 | 2 Games in One Double Pack \| Dora the Explorer: Pirate Pig's Treasure & Dora the Explorer: Super Star Adventures | 91427 | [91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json](./91427-2-games-in-one-double-pack-dora-the-explorer-pirate-pigs-treasure-and-dora-the-explorer-super-star-adventures.json) |
+| 2 Hours Later | 358074 | [358074-2-hours-later.json](./358074-2-hours-later.json) |
 | 2 Hours to Refund | 382985 | [382985-2-hours-to-refund.json](./382985-2-hours-to-refund.json) |
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
@@ -1061,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
 | 2 Minutes in Space | 311679 | [311679-2-minutes-in-space.json](./311679-2-minutes-in-space.json) |
+| 2 Minutes to Die | 358081 | [358081-2-minutes-to-die.json](./358081-2-minutes-to-die.json) |
 | 2 Ninjas 1 Cup | 29898 | [29898-2-ninjas-1-cup.json](./29898-2-ninjas-1-cup.json) |
 | 2 of Me | 221177 | [221177-2-of-me.json](./221177-2-of-me.json) |
 | 2 on 2 Open Ice Challenge | 39657 | [39657-2-on-2-open-ice-challenge.json](./39657-2-on-2-open-ice-challenge.json) |
@@ -1083,11 +1095,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
+| 2-Headed Boy | 358073 | [358073-2-headed-boy.json](./358073-2-headed-boy.json) |
 | 2-Hour Community Build Project | 308479 | [308479-2-hour-community-build-project.json](./308479-2-hour-community-build-project.json) |
 | 2-in-1 Fun Pack I Dreamworks Madagascar: Operation Penguin + Shrek 2 | 86054 | [86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json](./86054-2-in-1-fun-pack-i-dreamworks-madagascar-operation-penguin-shrek-2.json) |
 | 2-in-1 Geminim/Siamond | 338795 | [338795-2-in-1-geminim-siamond.json](./338795-2-in-1-geminim-siamond.json) |
 | 2-in-1 Kart Racing Bundle | 331455 | [331455-2-in-1-kart-racing-bundle.json](./331455-2-in-1-kart-racing-bundle.json) |
 | 2-taku de Koishite Mune-kyun | 251629 | [251629-2-taku-de-koishite-mune-kyun.json](./251629-2-taku-de-koishite-mune-kyun.json) |
+| 2–3 Years in Grindstan | 358072 | [358072-2-3-years-in-grindstan.json](./358072-2-3-years-in-grindstan.json) |
+| 2,4D Game | 358077 | [358077-2-4d-game.json](./358077-2-4d-game.json) |
 | 2: A Game About Everyone's Favourite Sorting System! | 181739 | [181739-2-a-game-about-everyones-favourite-sorting-system.json](./181739-2-a-game-about-everyones-favourite-sorting-system.json) |
 | 2.5 Dimensional Seduction: Angels on Stage! | 316946 | [316946-2-5-dimensional-seduction-angels-on-stage.json](./316946-2-5-dimensional-seduction-angels-on-stage.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
@@ -1176,6 +1191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2022 A Doom Odyssey | 258889 | [258889-2022-a-doom-odyssey.json](./258889-2022-a-doom-odyssey.json) |
 | 2023: Alien Bugs Invade Earth | 367716 | [367716-2023-alien-bugs-invade-earth.json](./367716-2023-alien-bugs-invade-earth.json) |
 | 2024: Mosaic Retrospective | 327347 | [327347-2024-mosaic-retrospective.json](./327347-2024-mosaic-retrospective.json) |
+| 2025 | 358068 | [358068-2025.json](./358068-2025.json) |
 | 2025 Advent Calendar | 383072 | [383072-2025-advent-calendar.json](./383072-2025-advent-calendar.json) |
 | 2025: Battle for Fatherland | 72917 | [72917-2025-battle-for-fatherland.json](./72917-2025-battle-for-fatherland.json) |
 | 2025: Mosaic Retrospective | 396466 | [396466-2025-mosaic-retrospective.json](./396466-2025-mosaic-retrospective.json) |
@@ -1195,6 +1211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 | 306030 | [306030-2048.json](./306030-2048.json) |
 | 2048 | 312586 | [312586-2048.json](./312586-2048.json) |
 | 2048 | 320269 | [320269-2048.json](./320269-2048.json) |
+| 2048 | 358071 | [358071-2048.json](./358071-2048.json) |
 | 2048 | 387159 | [387159-2048.json](./387159-2048.json) |
 | 2048 3D | 268679 | [268679-2048-3d.json](./268679-2048-3d.json) |
 | 2048 7x7 | 231839 | [231839-2048-7x7.json](./231839-2048-7x7.json) |
@@ -1204,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Animation Puzzle Edition | 181324 | [181324-2048-animation-puzzle-edition.json](./181324-2048-animation-puzzle-edition.json) |
 | 2048 Arms | 382186 | [382186-2048-arms.json](./382186-2048-arms.json) |
 | 2048 Battles | 124274 | [124274-2048-battles.json](./124274-2048-battles.json) |
+| 2048 Bosses | 358069 | [358069-2048-bosses.json](./358069-2048-bosses.json) |
 | 2048 Boys | 305904 | [305904-2048-boys.json](./305904-2048-boys.json) |
 | 2048 Card Game | 235229 | [235229-2048-card-game.json](./235229-2048-card-game.json) |
 | 2048 Cat | 147264 | [147264-2048-cat.json](./147264-2048-cat.json) |
@@ -1222,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048+# | 343995 | [343995-2048.json](./343995-2048.json) |
 | 204863 | 342678 | [342678-204863.json](./342678-204863.json) |
 | 2048Puzzle | 357973 | [357973-2048puzzle.json](./357973-2048puzzle.json) |
+| 2048x2048 | 358070 | [358070-2048x2048.json](./358070-2048x2048.json) |
 | 206 | 186710 | [186710-206.json](./186710-206.json) |
 | 2064: Read Only Memories Integral | 84927 | [84927-2064-read-only-memories-integral.json](./84927-2064-read-only-memories-integral.json) |
 | 2069 AD | 98267 | [98267-2069-ad.json](./98267-2069-ad.json) |
@@ -1264,6 +1283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 24 Game | 91310 | [91310-24-game.json](./91310-24-game.json) |
 | 24 Games For Windows 95 | 116956 | [116956-24-games-for-windows-95.json](./116956-24-games-for-windows-95.json) |
+| 24 Grab Points | 358076 | [358076-24-grab-points.json](./358076-24-grab-points.json) |
 | 24 Hour Crime Scene: Travel Edition | 176826 | [176826-24-hour-crime-scene-travel-edition.json](./176826-24-hour-crime-scene-travel-edition.json) |
 | 24 Hours | 308346 | [308346-24-hours.json](./308346-24-hours.json) |
 | 24 Hours 'til Rescue | 33491 | [33491-24-hours-til-rescue.json](./33491-24-hours-til-rescue.json) |
@@ -1340,13 +1360,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Invaders | 304239 | [304239-2k-invaders.json](./304239-2k-invaders.json) |
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
+| 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
 | 2MD: VR Football Evolution | 160137 | [160137-2md-vr-football-evolution.json](./160137-2md-vr-football-evolution.json) |
 | 2MD: VR Football Unleashed All Star | 216445 | [216445-2md-vr-football-unleashed-all-star.json](./216445-2md-vr-football-unleashed-all-star.json) |
+| 2Me | 358079 | [358079-2me.json](./358079-2me.json) |
 | 2Metal | 331359 | [331359-2metal.json](./331359-2metal.json) |
 | 2Moons | 93995 | [93995-2moons.json](./93995-2moons.json) |
+| 2nd Child | 358082 | [358082-2nd-child.json](./358082-2nd-child.json) |
 | 2nd Circle: Powerful Places | 109872 | [109872-2nd-circle-powerful-places.json](./109872-2nd-circle-powerful-places.json) |
+| 2nd Eve | 358083 | [358083-2nd-eve.json](./358083-2nd-eve.json) |
 | 2nd Grade: Musical Menace | 230419 | [230419-2nd-grade-musical-menace.json](./230419-2nd-grade-musical-menace.json) |
 | 2nd Obakeidoro! Fest Bundle | 328985 | [328985-2nd-obakeidoro-fest-bundle.json](./328985-2nd-obakeidoro-fest-bundle.json) |
+| 2nd Shot | 358084 | [358084-2nd-shot.json](./358084-2nd-shot.json) |
 | 2Pupp | 203862 | [203862-2pupp.json](./203862-2pupp.json) |
 | 2Ship2Harkinian | 303033 | [303033-2ship2harkinian.json](./303033-2ship2harkinian.json) |
 | 2Tax Gold | 268629 | [268629-2tax-gold.json](./268629-2tax-gold.json) |
@@ -1462,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3..2..1..Grenades! | 32004 | [32004-3-2-1-grenades.json](./32004-3-2-1-grenades.json) |
 | 3.5 Ins Micro Disc Software: Adventure with Technician Ted / Heathrow International Air Traffic Control | 137331 | [137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json](./137331-3-5-ins-micro-disc-software-adventure-with-technician-ted-heathrow-international-air-traffic-control.json) |
 | 3/4 Spell Swap | 397011 | [397011-3-4-spell-swap.json](./397011-3-4-spell-swap.json) |
+| 30 Days Adrift | 358086 | [358086-30-days-adrift.json](./358086-30-days-adrift.json) |
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
@@ -1470,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
+| 30 minutes until my brain dies | 358080 | [358080-30-minutes-until-my-brain-dies.json](./358080-30-minutes-until-my-brain-dies.json) |
 | 30 Pferdespiele | 91609 | [91609-30-pferdespiele.json](./91609-30-pferdespiele.json) |
 | 30 Seconds to Jail | 97110 | [97110-30-seconds-to-jail.json](./97110-30-seconds-to-jail.json) |
 | 30 Sport Games in 1 | 256202 | [256202-30-sport-games-in-1.json](./256202-30-sport-games-in-1.json) |
@@ -1491,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3001 Pages: A fairy tale for 33 | 284275 | [284275-3001-pages-a-fairy-tale-for-33.json](./284275-3001-pages-a-fairy-tale-for-33.json) |
 | 3001: O'Connors Fight | 38853 | [38853-3001-oconnors-fight.json](./38853-3001-oconnors-fight.json) |
 | 300k: The Game | 367742 | [367742-300k-the-game.json](./367742-300k-the-game.json) |
+| 301 Warriors | 358085 | [358085-301-warriors.json](./358085-301-warriors.json) |
 | 303 Game Collection | 273918 | [273918-303-game-collection.json](./273918-303-game-collection.json) |
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
@@ -1504,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
+| 31 Room | 358087 | [358087-31-room.json](./358087-31-room.json) |
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
 | 31-in-1 Mighty Mix | 270048 | [270048-31-in-1-mighty-mix.json](./270048-31-in-1-mighty-mix.json) |
 | 32 in 1 Game Special | 219508 | [219508-32-in-1-game-special.json](./219508-32-in-1-game-special.json) |
