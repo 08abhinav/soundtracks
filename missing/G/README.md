@@ -2328,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geom | 84515 | [84515-geom.json](./84515-geom.json) |
 | Geom | 93023 | [93023-geom.json](./93023-geom.json) |
 | Geom Cube | 44758 | [44758-geom-cube.json](./44758-geom-cube.json) |
+| Geomancers | 315359 | [315359-geomancers.json](./315359-geomancers.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
@@ -7635,9 +7636,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gǔlóng Fēngyún Lù | 413005 | [413005-gulong-fengyun-lu.json](./413005-gulong-fengyun-lu.json) |
 | Gulp! | 399420 | [399420-gulp.json](./399420-gulp.json) |
 | Gulper.Io | 191708 | [191708-gulper-io.json](./191708-gulper-io.json) |
+| Gulping Snake | 315345 | [315345-gulping-snake.json](./315345-gulping-snake.json) |
 | Gulu | 48011 | [48011-gulu.json](./48011-gulu.json) |
 | Gulu: A Tail's Journey | 215354 | [215354-gulu-a-tails-journey.json](./215354-gulu-a-tails-journey.json) |
 | GuluGuluLand 3D | 289238 | [289238-gulugululand-3d.json](./289238-gulugululand-3d.json) |
+| Gum | 315358 | [315358-gum.json](./315358-gum.json) |
 | Gum Ball Run | 225211 | [225211-gum-ball-run.json](./225211-gum-ball-run.json) |
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
