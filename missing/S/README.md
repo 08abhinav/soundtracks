@@ -19437,6 +19437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
+| Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
 | Stolen Rage | 149394 | [149394-stolen-rage.json](./149394-stolen-rage.json) |
