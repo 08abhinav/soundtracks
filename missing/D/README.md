@@ -7017,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
+| Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
 | Disc Golf Game | 89834 | [89834-disc-golf-game.json](./89834-disc-golf-game.json) |
 | Disc Golf Rival | 221377 | [221377-disc-golf-rival.json](./221377-disc-golf-rival.json) |
 | Disc Golf to Go | 175399 | [175399-disc-golf-to-go.json](./175399-disc-golf-to-go.json) |
