@@ -8171,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Fight | 35460 | [35460-dog-fight.json](./35460-dog-fight.json) |
 | Dog Fight | 39768 | [39768-dog-fight.json](./39768-dog-fight.json) |
 | Dog Fight Super Ultra Deluxe | 109647 | [109647-dog-fight-super-ultra-deluxe.json](./109647-dog-fight-super-ultra-deluxe.json) |
+| Dog Forest | 349718 | [349718-dog-forest.json](./349718-dog-forest.json) |
 | Dog Galore | 181927 | [181927-dog-galore.json](./181927-dog-galore.json) |
 | Dog Game! | 229354 | [229354-dog-game.json](./229354-dog-game.json) |
 | Dog Go To The Moon | 366544 | [366544-dog-go-to-the-moon.json](./366544-dog-go-to-the-moon.json) |
@@ -9522,6 +9523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
 | Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
+| Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
 | Dorkom | 407600 | [407600-dorkom.json](./407600-dorkom.json) |
 | Dorky Fork | 130209 | [130209-dorky-fork.json](./130209-dorky-fork.json) |
 | Dorman's Attraction: Upgraded & Advanced | 396897 | [396897-dormans-attraction-upgraded-and-advanced.json](./396897-dormans-attraction-upgraded-and-advanced.json) |
@@ -13104,16 +13106,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Attack on Stormreach | 342065 | [342065-dungeons-and-dragons-online-attack-on-stormreach.json](./342065-dungeons-and-dragons-online-attack-on-stormreach.json) |
 | Dungeons & Dragons Online: Delera's Tomb | 338771 | [338771-dungeons-and-dragons-online-deleras-tomb.json](./338771-dungeons-and-dragons-online-deleras-tomb.json) |
 | Dungeons & Dragons Online: Devil Assault | 338893 | [338893-dungeons-and-dragons-online-devil-assault.json](./338893-dungeons-and-dragons-online-devil-assault.json) |
+| Dungeons & Dragons Online: Epic Destiny - Machrotechnic | 349626 | [349626-dungeons-and-dragons-online-epic-destiny-machrotechnic.json](./349626-dungeons-and-dragons-online-epic-destiny-machrotechnic.json) |
 | Dungeons & Dragons Online: Fables of the Feywild | 258927 | [258927-dungeons-and-dragons-online-fables-of-the-feywild.json](./258927-dungeons-and-dragons-online-fables-of-the-feywild.json) |
+| Dungeons & Dragons Online: Fables of the Feywild - Ultimate Fan Bundle | 349633 | [349633-dungeons-and-dragons-online-fables-of-the-feywild-ultimate-fan-bundle.json](./349633-dungeons-and-dragons-online-fables-of-the-feywild-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: Fall of the Night Brigade | 353658 | [353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json](./353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
+| Dungeons & Dragons Online: Iconic Race - Aasimar Scourge | 349640 | [349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json](./349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json) |
+| Dungeons & Dragons Online: Iconic Race - Eladrin Chaosmancer | 349622 | [349622-dungeons-and-dragons-online-iconic-race-eladrin-chaosmancer.json](./349622-dungeons-and-dragons-online-iconic-race-eladrin-chaosmancer.json) |
+| Dungeons & Dragons Online: Iconic Race - Razorclaw Shifter | 349632 | [349632-dungeons-and-dragons-online-iconic-race-razorclaw-shifter.json](./349632-dungeons-and-dragons-online-iconic-race-razorclaw-shifter.json) |
+| Dungeons & Dragons Online: Iconic Race - Tabaxi Trailblazer | 349627 | [349627-dungeons-and-dragons-online-iconic-race-tabaxi-trailblazer.json](./349627-dungeons-and-dragons-online-iconic-race-tabaxi-trailblazer.json) |
+| Dungeons & Dragons Online: Iconic Race - Tiefling Scoundrel | 349635 | [349635-dungeons-and-dragons-online-iconic-race-tiefling-scoundrel.json](./349635-dungeons-and-dragons-online-iconic-race-tiefling-scoundrel.json) |
 | Dungeons & Dragons Online: Keep on the Borderlands | 338764 | [338764-dungeons-and-dragons-online-keep-on-the-borderlands.json](./338764-dungeons-and-dragons-online-keep-on-the-borderlands.json) |
+| Dungeons & Dragons Online: Magic of Myth Drannor | 349616 | [349616-dungeons-and-dragons-online-magic-of-myth-drannor.json](./349616-dungeons-and-dragons-online-magic-of-myth-drannor.json) |
+| Dungeons & Dragons Online: Magic of Myth Drannor - Ultimate Fan Bundle | 349623 | [349623-dungeons-and-dragons-online-magic-of-myth-drannor-ultimate-fan-bundle.json](./349623-dungeons-and-dragons-online-magic-of-myth-drannor-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: Masterminds of Sharn | 258926 | [258926-dungeons-and-dragons-online-masterminds-of-sharn.json](./258926-dungeons-and-dragons-online-masterminds-of-sharn.json) |
+| Dungeons & Dragons Online: Masterminds of Sharn - Ultimate Fan Bundle | 349636 | [349636-dungeons-and-dragons-online-masterminds-of-sharn-ultimate-fan-bundle.json](./349636-dungeons-and-dragons-online-masterminds-of-sharn-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: Menace of the Underdark | 47126 | [47126-dungeons-and-dragons-online-menace-of-the-underdark.json](./47126-dungeons-and-dragons-online-menace-of-the-underdark.json) |
 | Dungeons & Dragons Online: Mists of Ravenloft | 258925 | [258925-dungeons-and-dragons-online-mists-of-ravenloft.json](./258925-dungeons-and-dragons-online-mists-of-ravenloft.json) |
 | Dungeons & Dragons Online: Premium Archetype - Wild Mage | 338767 | [338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json](./338767-dungeons-and-dragons-online-premium-archetype-wild-mage.json) |
+| Dungeons & Dragons Online: Premium Class - Alchemist | 349648 | [349648-dungeons-and-dragons-online-premium-class-alchemist.json](./349648-dungeons-and-dragons-online-premium-class-alchemist.json) |
+| Dungeons & Dragons Online: Premium Class - Artificer | 349650 | [349650-dungeons-and-dragons-online-premium-class-artificer.json](./349650-dungeons-and-dragons-online-premium-class-artificer.json) |
+| Dungeons & Dragons Online: Premium Class - Favored Soul | 349653 | [349653-dungeons-and-dragons-online-premium-class-favored-soul.json](./349653-dungeons-and-dragons-online-premium-class-favored-soul.json) |
+| Dungeons & Dragons Online: Premium Race - Aasimar | 349643 | [349643-dungeons-and-dragons-online-premium-race-aasimar.json](./349643-dungeons-and-dragons-online-premium-race-aasimar.json) |
+| Dungeons & Dragons Online: Premium Race - Eladrin | 349619 | [349619-dungeons-and-dragons-online-premium-race-eladrin.json](./349619-dungeons-and-dragons-online-premium-race-eladrin.json) |
+| Dungeons & Dragons Online: Premium Race - Shifter | 349631 | [349631-dungeons-and-dragons-online-premium-race-shifter.json](./349631-dungeons-and-dragons-online-premium-race-shifter.json) |
 | Dungeons & Dragons Online: Premium Race - Tabaxi | 338769 | [338769-dungeons-and-dragons-online-premium-race-tabaxi.json](./338769-dungeons-and-dragons-online-premium-race-tabaxi.json) |
 | Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
+| Dungeons & Dragons Online: Ruins of Gianthold | 349722 | [349722-dungeons-and-dragons-online-ruins-of-gianthold.json](./349722-dungeons-and-dragons-online-ruins-of-gianthold.json) |
+| Dungeons & Dragons Online: Secrets of the Artificers | 349655 | [349655-dungeons-and-dragons-online-secrets-of-the-artificers.json](./349655-dungeons-and-dragons-online-secrets-of-the-artificers.json) |
 | Dungeons & Dragons Online: Shadowfell Conspiracy | 47127 | [47127-dungeons-and-dragons-online-shadowfell-conspiracy.json](./47127-dungeons-and-dragons-online-shadowfell-conspiracy.json) |
 | Dungeons & Dragons Online: Tangleroot Gorge | 353656 | [353656-dungeons-and-dragons-online-tangleroot-gorge.json](./353656-dungeons-and-dragons-online-tangleroot-gorge.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
@@ -13121,6 +13141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Isle of Dread | 258935 | [258935-dungeons-and-dragons-online-the-isle-of-dread.json](./258935-dungeons-and-dragons-online-the-isle-of-dread.json) |
+| Dungeons & Dragons Online: The Isle of Dread - Ultimate Fan Bundle | 349628 | [349628-dungeons-and-dragons-online-the-isle-of-dread-ultimate-fan-bundle.json](./349628-dungeons-and-dragons-online-the-isle-of-dread-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: The Lost Gatekeepers | 338891 | [338891-dungeons-and-dragons-online-the-lost-gatekeepers.json](./338891-dungeons-and-dragons-online-the-lost-gatekeepers.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 1 | 353659 | [353659-dungeons-and-dragons-online-the-necropolis-part-1.json](./353659-dungeons-and-dragons-online-the-necropolis-part-1.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
@@ -13128,6 +13149,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Seal of Shan-to-Kor | 338765 | [338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json](./338765-dungeons-and-dragons-online-the-seal-of-shan-to-kor.json) |
 | Dungeons & Dragons Online: The Sharn Syndicate | 338766 | [338766-dungeons-and-dragons-online-the-sharn-syndicate.json](./338766-dungeons-and-dragons-online-the-sharn-syndicate.json) |
 | Dungeons & Dragons Online: The Sinister Secret of Saltmarsh | 258928 | [258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json](./258928-dungeons-and-dragons-online-the-sinister-secret-of-saltmarsh.json) |
+| Dungeons & Dragons Online: The Vale of Twilight | 349723 | [349723-dungeons-and-dragons-online-the-vale-of-twilight.json](./349723-dungeons-and-dragons-online-the-vale-of-twilight.json) |
+| Dungeons & Dragons Online: Universal Tree - Feydark Illusionist | 349630 | [349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json](./349630-dungeons-and-dragons-online-universal-tree-feydark-illusionist.json) |
+| Dungeons & Dragons Online: Universal Tree - Horizon Walker | 349637 | [349637-dungeons-and-dragons-online-universal-tree-horizon-walker.json](./349637-dungeons-and-dragons-online-universal-tree-horizon-walker.json) |
+| Dungeons & Dragons Online: Universal Tree - Inquisitive | 349634 | [349634-dungeons-and-dragons-online-universal-tree-inquisitive.json](./349634-dungeons-and-dragons-online-universal-tree-inquisitive.json) |
+| Dungeons & Dragons Online: Universal Tree - Vistani Knife Fighter | 349642 | [349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json](./349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
