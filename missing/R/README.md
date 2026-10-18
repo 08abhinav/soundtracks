@@ -4465,6 +4465,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroRaider: Three Crystals | 55915 | [55915-retroraider-three-crystals.json](./55915-retroraider-three-crystals.json) |
 | RetroRange | 220687 | [220687-retrorange.json](./220687-retrorange.json) |
 | RetroRealms Arcade | 317276 | [317276-retrorealms-arcade.json](./317276-retrorealms-arcade.json) |
+| RetroRealms Arcade: Ash vs. Evil Dead Add-On | 317683 | [317683-retrorealms-arcade-ash-vs-evil-dead-add-on.json](./317683-retrorealms-arcade-ash-vs-evil-dead-add-on.json) |
+| RetroRealms Arcade: Halloween Add-On | 317685 | [317685-retrorealms-arcade-halloween-add-on.json](./317685-retrorealms-arcade-halloween-add-on.json) |
+| RetroRealms Arcade: Kelly Maxwell | 317684 | [317684-retrorealms-arcade-kelly-maxwell.json](./317684-retrorealms-arcade-kelly-maxwell.json) |
+| RetroRealms Arcade: Laurie Strode | 317686 | [317686-retrorealms-arcade-laurie-strode.json](./317686-retrorealms-arcade-laurie-strode.json) |
 | RetroRealms Double Feature: Halloween + Ash vs. Evil Dead | 320204 | [320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json](./320204-retrorealms-double-feature-halloween-ash-vs-evil-dead.json) |
 | RetroRealms Double Feature: Halloween and Ash vs. Evil Dead - Day One Edition | 331841 | [331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json](./331841-retrorealms-double-feature-halloween-and-ash-vs-evil-dead-day-one-edition.json) |
 | RetroRealms: Ash vs. Evil Dead | 313490 | [313490-retrorealms-ash-vs-evil-dead.json](./313490-retrorealms-ash-vs-evil-dead.json) |
@@ -4880,8 +4884,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
 | Reynard | 359202 | [359202-reynard.json](./359202-reynard.json) |
 | Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
+| Reynatis: "Another" Color Costume DLC | 317670 | [317670-reynatis-another-color-costume-dlc.json](./317670-reynatis-another-color-costume-dlc.json) |
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
 | Reynatis: Digital Deluxe Edition | 317908 | [317908-reynatis-digital-deluxe-edition.json](./317908-reynatis-digital-deluxe-edition.json) |
+| Reynatis: Marin & Sari's Formal Wear Costumes (Exclusive Color) | 317674 | [317674-reynatis-marin-and-saris-formal-wear-costumes-exclusive-color.json](./317674-reynatis-marin-and-saris-formal-wear-costumes-exclusive-color.json) |
+| Reynatis: Marin's "Another" Weapon | 317673 | [317673-reynatis-marins-another-weapon.json](./317673-reynatis-marins-another-weapon.json) |
+| Reynatis: Radiant Wizart DLC | 317668 | [317668-reynatis-radiant-wizart-dlc.json](./317668-reynatis-radiant-wizart-dlc.json) |
 | Reynatis: Ultimate Wizard Bundle | 317289 | [317289-reynatis-ultimate-wizard-bundle.json](./317289-reynatis-ultimate-wizard-bundle.json) |
 | Reytrieve Odyssey | 347682 | [347682-reytrieve-odyssey.json](./347682-reytrieve-odyssey.json) |
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
@@ -5825,6 +5833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
 | Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
 | Rising Tides | 313848 | [313848-rising-tides.json](./313848-rising-tides.json) |
+| Rising Up | 317708 | [317708-rising-up.json](./317708-rising-up.json) |
 | Rising UpUp | 128901 | [128901-rising-upup.json](./128901-rising-upup.json) |
 | Rising Wan | 346139 | [346139-rising-wan.json](./346139-rising-wan.json) |
 | Rising Warriors | 71026 | [71026-rising-warriors.json](./71026-rising-warriors.json) |
@@ -5837,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Pain | 278372 | [278372-risk-of-pain.json](./278372-risk-of-pain.json) |
 | Risk of Rain | 3173 | [3173-risk-of-rain.json](./3173-risk-of-rain.json) |
 | Risk of Rain 2 + Survivors of the Void | 201040 | [201040-risk-of-rain-2-survivors-of-the-void.json](./201040-risk-of-rain-2-survivors-of-the-void.json) |
+| Risk of Rain 2 + Survivors of the Void + Seekers of the Storm Bundle | 317682 | [317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json](./317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
@@ -7567,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollie | 143073 | [143073-rollie.json](./143073-rollie.json) |
 | Rollimals | 385828 | [385828-rollimals.json](./385828-rollimals.json) |
 | Rollin | 19227 | [19227-rollin.json](./19227-rollin.json) |
+| Rollin' Gun | 317697 | [317697-rollin-gun.json](./317697-rollin-gun.json) |
 | Rollin' Rascal | 169232 | [169232-rollin-rascal.json](./169232-rollin-rascal.json) |
 | Rollin' Rascals | 68935 | [68935-rollin-rascals.json](./68935-rollin-rascals.json) |
 | Rolling | 6017 | [6017-rolling.json](./6017-rolling.json) |
