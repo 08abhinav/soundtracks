@@ -1520,6 +1520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
 | HarmonyTD | 104133 | [104133-harmonytd.json](./104133-harmonytd.json) |
 | Harms Way | 47443 | [47443-harms-way.json](./47443-harms-way.json) |
+| Haro no Daibouken | 339595 | [339595-haro-no-daibouken.json](./339595-haro-no-daibouken.json) |
 | Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
