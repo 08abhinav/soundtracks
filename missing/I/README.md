@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
 | Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
+| Idle Cat Live Concert | 327655 | [327655-idle-cat-live-concert.json](./327655-idle-cat-live-concert.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
 | Idle Catfarmia | 247996 | [247996-idle-catfarmia.json](./247996-idle-catfarmia.json) |
 | Idle Cats Dungeon | 395155 | [395155-idle-cats-dungeon.json](./395155-idle-cats-dungeon.json) |
