@@ -5110,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
+| Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
 | Five Nights At Smog's Poutinerie | 236315 | [236315-five-nights-at-smogs-poutinerie.json](./236315-five-nights-at-smogs-poutinerie.json) |
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
@@ -8774,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog in the Fog | 393630 | [393630-frog-in-the-fog.json](./393630-frog-in-the-fog.json) |
 | Frog Inc. | 394782 | [394782-frog-inc.json](./394782-frog-inc.json) |
 | Frog Jump | 273912 | [273912-frog-jump.json](./273912-frog-jump.json) |
+| Frog Jump | 339704 | [339704-frog-jump.json](./339704-frog-jump.json) |
 | Frog Jump | 351745 | [351745-frog-jump.json](./351745-frog-jump.json) |
 | Frog Jumper | 305406 | [305406-frog-jumper.json](./305406-frog-jumper.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
@@ -9154,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: Game of the Year Edition | 169208 | [169208-frostpunk-game-of-the-year-edition.json](./169208-frostpunk-game-of-the-year-edition.json) |
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
 | Frostpunk: The Last Autumn | 135952 | [135952-frostpunk-the-last-autumn.json](./135952-frostpunk-the-last-autumn.json) |
+| Frostrail | 339609 | [339609-frostrail.json](./339609-frostrail.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
