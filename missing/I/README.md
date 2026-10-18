@@ -3896,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 100298 | [100298-invasion.json](./100298-invasion.json) |
 | Invasion | 109448 | [109448-invasion.json](./109448-invasion.json) |
 | Invasion | 320342 | [320342-invasion.json](./320342-invasion.json) |
+| Invasion | 343614 | [343614-invasion.json](./343614-invasion.json) |
 | Invasion | 47145 | [47145-invasion.json](./47145-invasion.json) |
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
@@ -4534,6 +4535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
 | Islantiles | 347807 | [347807-islantiles.json](./347807-islantiles.json) |
+| Islash | 343617 | [343617-islash.json](./343617-islash.json) |
 | ISlash Dojo | 108448 | [108448-islash-dojo.json](./108448-islash-dojo.json) |
 | Islay Quest | 386874 | [386874-islay-quest.json](./386874-islay-quest.json) |
 | Isle Clash | 132265 | [132265-isle-clash.json](./132265-isle-clash.json) |
