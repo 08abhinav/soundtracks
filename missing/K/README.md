@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
 | Kamasutra Connect : Sexy Hentai Girls | 111584 | [111584-kamasutra-connect-sexy-hentai-girls.json](./111584-kamasutra-connect-sexy-hentai-girls.json) |
+| Kamata | 348029 | [348029-kamata.json](./348029-kamata.json) |
 | Kambayashi-ke Satsujin Jiken | 343980 | [343980-kambayashi-ke-satsujin-jiken.json](./343980-kambayashi-ke-satsujin-jiken.json) |
 | Kambulin | 147081 | [147081-kambulin.json](./147081-kambulin.json) |
 | Kame no Ongaeshi: Urashima Densetsu | 215130 | [215130-kame-no-ongaeshi-urashima-densetsu.json](./215130-kame-no-ongaeshi-urashima-densetsu.json) |
@@ -2496,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Rush Vengeance: Pirate Kings | 327784 | [327784-kingdom-rush-vengeance-pirate-kings.json](./327784-kingdom-rush-vengeance-pirate-kings.json) |
 | Kingdom Rush Vengeance: Pirate Kings Campaign | 346006 | [346006-kingdom-rush-vengeance-pirate-kings-campaign.json](./346006-kingdom-rush-vengeance-pirate-kings-campaign.json) |
 | Kingdom Rush: Battles | 365682 | [365682-kingdom-rush-battles.json](./365682-kingdom-rush-battles.json) |
+| Kingdom Savannah | 348011 | [348011-kingdom-savannah.json](./348011-kingdom-savannah.json) |
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
@@ -3107,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa Phantasy Reverie Series: Special Edition | 201032 | [201032-klonoa-phantasy-reverie-series-special-edition.json](./201032-klonoa-phantasy-reverie-series-special-edition.json) |
 | Klonoa: Door to Phantomile | 270725 | [270725-klonoa-door-to-phantomile.json](./270725-klonoa-door-to-phantomile.json) |
 | Klonoa: Empire of Dreams | 6492 | [6492-klonoa-empire-of-dreams.json](./6492-klonoa-empire-of-dreams.json) |
+| Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
 | Klotski+ | 221707 | [221707-klotski.json](./221707-klotski.json) |
