@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickle Pete: Survival RPG | 245378 | [245378-pickle-pete-survival-rpg.json](./245378-pickle-pete-survival-rpg.json) |
 | Pickle Pop | 317446 | [317446-pickle-pop.json](./317446-pickle-pop.json) |
 | Pickle Run | 212713 | [212713-pickle-run.json](./212713-pickle-run.json) |
+| Pickle Theory | 331162 | [331162-pickle-theory.json](./331162-pickle-theory.json) |
 | Pickle Wars | 93466 | [93466-pickle-wars.json](./93466-pickle-wars.json) |
 | Pickle's Book | 137999 | [137999-pickles-book.json](./137999-pickles-book.json) |
 | Pickleball One | 272337 | [272337-pickleball-one.json](./272337-pickleball-one.json) |
@@ -8298,6 +8299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Team Rocket Blast Off | 61001 | [61001-pokemon-team-rocket-blast-off.json](./61001-pokemon-team-rocket-blast-off.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
+| Pokémon The Pit | 331084 | [331084-pokemon-the-pit.json](./331084-pokemon-the-pit.json) |
 | Pokémon Theta Emerald Renev | 209550 | [209550-pokemon-theta-emerald-renev.json](./209550-pokemon-theta-emerald-renev.json) |
 | Pokemon Topaz | 383058 | [383058-pokemon-topaz.json](./383058-pokemon-topaz.json) |
 | Pokémon Topaz | 225711 | [225711-pokemon-topaz.json](./225711-pokemon-topaz.json) |
