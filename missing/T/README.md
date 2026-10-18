@@ -4692,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
+| The Betweenlands | 323011 | [323011-the-betweenlands.json](./323011-the-betweenlands.json) |
 | The Beverly Hillbillies | 74018 | [74018-the-beverly-hillbillies.json](./74018-the-beverly-hillbillies.json) |
 | The Beyond | 339218 | [339218-the-beyond.json](./339218-the-beyond.json) |
 | The Beyond Of Fears: New House | 304876 | [304876-the-beyond-of-fears-new-house.json](./304876-the-beyond-of-fears-new-house.json) |
@@ -9213,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Breath of the Wild and The Legend of Zelda: Breath of the Wild Expansion Pass Bundle | 237895 | [237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json](./237895-the-legend-of-zelda-breath-of-the-wild-and-the-legend-of-zelda-breath-of-the-wild-expansion-pass-bundle.json) |
 | The Legend of Zelda: Breath of the Wild Multiplayer | 210652 | [210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json](./210652-the-legend-of-zelda-breath-of-the-wild-multiplayer.json) |
 | The Legend of Zelda: Breath of the Wild Randomizer | 240878 | [240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json](./240878-the-legend-of-zelda-breath-of-the-wild-randomizer.json) |
+| The Legend of Zelda: Chaos Rising | 323029 | [323029-the-legend-of-zelda-chaos-rising.json](./323029-the-legend-of-zelda-chaos-rising.json) |
 | The Legend of Zelda: Child Quest | 346598 | [346598-the-legend-of-zelda-child-quest.json](./346598-the-legend-of-zelda-child-quest.json) |
 | The Legend of Zelda: Chiming Bells | 323273 | [323273-the-legend-of-zelda-chiming-bells.json](./323273-the-legend-of-zelda-chiming-bells.json) |
 | The Legend of Zelda: Corruption's Embrace | 396451 | [396451-the-legend-of-zelda-corruptions-embrace.json](./396451-the-legend-of-zelda-corruptions-embrace.json) |
@@ -15045,6 +15047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbolt II | 71562 | [71562-thunderbolt-ii.json](./71562-thunderbolt-ii.json) |
 | Thunderbolt Poker | 227875 | [227875-thunderbolt-poker.json](./227875-thunderbolt-poker.json) |
 | Thunderbolts and Lightning! | 277954 | [277954-thunderbolts-and-lightning.json](./277954-thunderbolts-and-lightning.json) |
+| Thundercade | 323042 | [323042-thundercade.json](./323042-thundercade.json) |
 | ThunderCats | 23680 | [23680-thundercats.json](./23680-thundercats.json) |
 | ThunderCats | 37274 | [37274-thundercats.json](./37274-thundercats.json) |
 | ThunderCats | 8060 | [8060-thundercats.json](./8060-thundercats.json) |
@@ -15258,6 +15261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tierra | 170906 | [170906-tierra.json](./170906-tierra.json) |
 | Tierra: Adventure Mystery | 174306 | [174306-tierra-adventure-mystery.json](./174306-tierra-adventure-mystery.json) |
 | Tierras Perdidas | 147176 | [147176-tierras-perdidas.json](./147176-tierras-perdidas.json) |
+| Tierras Runicas | 323021 | [323021-tierras-runicas.json](./323021-tierras-runicas.json) |
 | Tiestru | 36255 | [36255-tiestru.json](./36255-tiestru.json) |
 | Tiěxuè Gōngshā | 151615 | [151615-tiexue-gongsha.json](./151615-tiexue-gongsha.json) |
 | Tiffany Alvord Dream World | 233079 | [233079-tiffany-alvord-dream-world.json](./233079-tiffany-alvord-dream-world.json) |
@@ -23966,6 +23970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of the Sun: Arena of Heroes | 383094 | [383094-twins-of-the-sun-arena-of-heroes.json](./383094-twins-of-the-sun-arena-of-heroes.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twinsanity: Omicron | 177374 | [177374-twinsanity-omicron.json](./177374-twinsanity-omicron.json) |
+| Twinsanity: Trapped in Time | 323018 | [323018-twinsanity-trapped-in-time.json](./323018-twinsanity-trapped-in-time.json) |
 | Twinsen's Little Big Adventure 2 Classic | 79653 | [79653-twinsens-little-big-adventure-2-classic.json](./79653-twinsens-little-big-adventure-2-classic.json) |
 | Twinsen's Little Big Adventure Classic | 8515 | [8515-twinsens-little-big-adventure-classic.json](./8515-twinsens-little-big-adventure-classic.json) |
 | Twinsen's Little Big Adventure Remastered 2 | 241953 | [241953-twinsens-little-big-adventure-remastered-2.json](./241953-twinsens-little-big-adventure-remastered-2.json) |
