@@ -441,6 +441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pageant | 184045 | [184045-pageant.json](./184045-pageant.json) |
 | Pages of Time | 340879 | [340879-pages-of-time.json](./340879-pages-of-time.json) |
 | Paging Dr. Floppy! | 230793 | [230793-paging-dr-floppy.json](./230793-paging-dr-floppy.json) |
+| Pagliaccionautas | 332285 | [332285-pagliaccionautas.json](./332285-pagliaccionautas.json) |
 | Pagodia | 257571 | [257571-pagodia.json](./257571-pagodia.json) |
 | Pagui | 124178 | [124178-pagui.json](./124178-pagui.json) |
 | Paguroideo | 392178 | [392178-paguroideo.json](./392178-paguroideo.json) |
@@ -918,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Button | 71230 | [71230-panic-button.json](./71230-panic-button.json) |
 | Panic Crew | 390672 | [390672-panic-crew.json](./390672-panic-crew.json) |
 | Panic Crisis Mage Attack | 128636 | [128636-panic-crisis-mage-attack.json](./128636-panic-crisis-mage-attack.json) |
+| Panic Delivery | 332298 | [332298-panic-delivery.json](./332298-panic-delivery.json) |
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
@@ -1492,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
+| Parallel Rift | 332300 | [332300-parallel-rift.json](./332300-parallel-rift.json) |
 | Parallel Room Escape | 243176 | [243176-parallel-room-escape.json](./243176-parallel-room-escape.json) |
 | Parallel Universe | 184357 | [184357-parallel-universe.json](./184357-parallel-universe.json) |
 | Parallel World | 113026 | [113026-parallel-world.json](./113026-parallel-world.json) |
@@ -4534,6 +4537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie O'Clock! | 190965 | [190965-pie-oclock.json](./190965-pie-oclock.json) |
 | Pie Pie Cafeteria | 392248 | [392248-pie-pie-cafeteria.json](./392248-pie-pie-cafeteria.json) |
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
+| Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece by Piece | 412923 | [412923-piece-by-piece.json](./412923-piece-by-piece.json) |
 | Piece It! | 295143 | [295143-piece-it.json](./295143-piece-it.json) |
@@ -6676,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Patrol | 18476 | [18476-planet-patrol.json](./18476-planet-patrol.json) |
 | Planet Pilots | 59647 | [59647-planet-pilots.json](./59647-planet-pilots.json) |
 | Planet Protector VR | 67939 | [67939-planet-protector-vr.json](./67939-planet-protector-vr.json) |
+| Planet Punch | 332306 | [332306-planet-punch.json](./332306-planet-punch.json) |
 | Planet Puzzle League | 23093 | [23093-planet-puzzle-league.json](./23093-planet-puzzle-league.json) |
 | Planet Quest | 266142 | [266142-planet-quest.json](./266142-planet-quest.json) |
 | Planet Quiz: Learn & Discover | 187494 | [187494-planet-quiz-learn-and-discover.json](./187494-planet-quiz-learn-and-discover.json) |
@@ -8673,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polter Guest | 148313 | [148313-polter-guest.json](./148313-polter-guest.json) |
 | PolterCue | 231647 | [231647-poltercue.json](./231647-poltercue.json) |
 | PolterDates | 411511 | [411511-polterdates.json](./411511-polterdates.json) |
+| Poltergeist Prodigy | 332203 | [332203-poltergeist-prodigy.json](./332203-poltergeist-prodigy.json) |
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
@@ -11365,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project First Contact | 257018 | [257018-project-first-contact.json](./257018-project-first-contact.json) |
 | Project First Contact | 47985 | [47985-project-first-contact.json](./47985-project-first-contact.json) |
 | Project Fist | 84806 | [84806-project-fist.json](./84806-project-fist.json) |
+| Project Float | 332206 | [332206-project-float.json](./332206-project-float.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
 | Project Freefall | 364275 | [364275-project-freefall.json](./364275-project-freefall.json) |
 | Project Frontier | 286067 | [286067-project-frontier.json](./286067-project-frontier.json) |
