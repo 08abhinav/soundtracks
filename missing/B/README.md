@@ -4723,6 +4723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
 | Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
+| Berserk Boy: Collector's Edition | 350790 | [350790-berserk-boy-collectors-edition.json](./350790-berserk-boy-collectors-edition.json) |
 | Berserk Emblem | 401306 | [401306-berserk-emblem.json](./401306-berserk-emblem.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
 | Berserk or Die | 348333 | [348333-berserk-or-die.json](./348333-berserk-or-die.json) |
@@ -7439,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block ‘Em Sock ‘Em | 381135 | [381135-block-em-sock-em.json](./381135-block-em-sock-em.json) |
 | Block & Shot | 263976 | [263976-block-and-shot.json](./263976-block-and-shot.json) |
 | Block 1010: Colorful | 107073 | [107073-block-1010-colorful.json](./107073-block-1010-colorful.json) |
+| Block 17 | 350797 | [350797-block-17.json](./350797-block-17.json) |
 | Block 2D: The Retro Block | 88739 | [88739-block-2d-the-retro-block.json](./88739-block-2d-the-retro-block.json) |
 | Block Amok | 62271 | [62271-block-amok.json](./62271-block-amok.json) |
 | Block and Save | 254166 | [254166-block-and-save.json](./254166-block-and-save.json) |
@@ -7473,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block by Block: Sliding Blocks | 232494 | [232494-block-by-block-sliding-blocks.json](./232494-block-by-block-sliding-blocks.json) |
+| Block By Block: The Amulet | 350772 | [350772-block-by-block-the-amulet.json](./350772-block-by-block-the-amulet.json) |
 | Block Carnival | 38588 | [38588-block-carnival.json](./38588-block-carnival.json) |
 | Block Cascade | 387008 | [387008-block-cascade.json](./387008-block-cascade.json) |
 | Block Cat Jam | 297502 | [297502-block-cat-jam.json](./297502-block-cat-jam.json) |
@@ -10356,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
+| Brainfuck Challenge | 350781 | [350781-brainfuck-challenge.json](./350781-brainfuck-challenge.json) |
 | Brainium Solitaire | 87861 | [87861-brainium-solitaire.json](./87861-brainium-solitaire.json) |
 | Brainjogging for Kids | 88485 | [88485-brainjogging-for-kids.json](./88485-brainjogging-for-kids.json) |
 | Brainmelter Deluxe | 112780 | [112780-brainmelter-deluxe.json](./112780-brainmelter-deluxe.json) |
@@ -10764,6 +10768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Targets | 75226 | [75226-break-the-targets.json](./75226-break-the-targets.json) |
 | Break the Tower | 394878 | [394878-break-the-tower.json](./394878-break-the-tower.json) |
 | Break the Web | 130196 | [130196-break-the-web.json](./130196-break-the-web.json) |
+| Break the Worm | 350758 | [350758-break-the-worm.json](./350758-break-the-worm.json) |
 | Break Through | 376830 | [376830-break-through.json](./376830-break-through.json) |
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
 | Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
