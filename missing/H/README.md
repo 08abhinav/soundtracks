@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Of Nadia | 288236 | [288236-heart-of-nadia.json](./288236-heart-of-nadia.json) |
 | Heart of Saphilamun | 230220 | [230220-heart-of-saphilamun.json](./230220-heart-of-saphilamun.json) |
 | Heart of Sengoku | 250237 | [250237-heart-of-sengoku.json](./250237-heart-of-sengoku.json) |
+| Heart of Stone | 361003 | [361003-heart-of-stone.json](./361003-heart-of-stone.json) |
 | Heart of Summer | 158569 | [158569-heart-of-summer.json](./158569-heart-of-summer.json) |
 | Heart Of The Abyss | 337055 | [337055-heart-of-the-abyss.json](./337055-heart-of-the-abyss.json) |
 | Heart of the Alien | 343417 | [343417-heart-of-the-alien.json](./343417-heart-of-the-alien.json) |
