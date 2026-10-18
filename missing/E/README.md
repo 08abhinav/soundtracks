@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enbody | 176999 | [176999-enbody.json](./176999-enbody.json) |
 | EnbornX | 61108 | [61108-enbornx.json](./61108-enbornx.json) |
 | Enby Enough | 179942 | [179942-enby-enough.json](./179942-enby-enough.json) |
+| Encanamento | 359756 | [359756-encanamento.json](./359756-encanamento.json) |
 | Encased | 95407 | [95407-encased.json](./95407-encased.json) |
 | Encased: Portrait Pack | 230991 | [230991-encased-portrait-pack.json](./230991-encased-portrait-pack.json) |
 | Encave | 404778 | [404778-encave.json](./404778-encave.json) |
@@ -3850,6 +3851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Point | 132683 | [132683-escape-point.json](./132683-escape-point.json) |
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
 | Escape Prison Obby: Getaway | 389054 | [389054-escape-prison-obby-getaway.json](./389054-escape-prison-obby-getaway.json) |
+| Escape Protocol | 359859 | [359859-escape-protocol.json](./359859-escape-protocol.json) |
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
