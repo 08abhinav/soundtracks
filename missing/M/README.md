@@ -2275,6 +2275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
+| Mannequin Machine | 317083 | [317083-mannequin-machine.json](./317083-mannequin-machine.json) |
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
 | Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
@@ -7267,6 +7268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor | 107757 | [107757-meteor.json](./107757-meteor.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
 | Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
+| Meteor Arena | 317087 | [317087-meteor-arena.json](./317087-meteor-arena.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
 | Meteor Blasters | 199093 | [199093-meteor-blasters.json](./199093-meteor-blasters.json) |
 | Meteor Clash | 133325 | [133325-meteor-clash.json](./133325-meteor-clash.json) |
@@ -7308,6 +7310,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meth Master | 199481 | [199481-meth-master.json](./199481-meth-master.json) |
 | Method | 394776 | [394776-method.json](./394776-method.json) |
 | Method of Entry | 329369 | [329369-method-of-entry.json](./329369-method-of-entry.json) |
+| Methods 2: Secrets And Death | 317047 | [317047-methods-2-secrets-and-death.json](./317047-methods-2-secrets-and-death.json) |
+| Methods 3: The Invisible Man | 317048 | [317048-methods-3-the-invisible-man.json](./317048-methods-3-the-invisible-man.json) |
 | Methods 4: The Best Detective | 322596 | [322596-methods-4-the-best-detective.json](./322596-methods-4-the-best-detective.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Methods: The Canada Files | 224567 | [224567-methods-the-canada-files.json](./224567-methods-the-canada-files.json) |
@@ -12323,6 +12327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Post | 213349 | [213349-morning-post.json](./213349-morning-post.json) |
 | Morning Ritual | 179033 | [179033-morning-ritual.json](./179033-morning-ritual.json) |
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
+| Morning Room | 317091 | [317091-morning-room.json](./317091-morning-room.json) |
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
