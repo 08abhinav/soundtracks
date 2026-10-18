@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
+| Majogami | 354209 | [354209-majogami.json](./354209-majogami.json) |
 | Majoneko | 252398 | [252398-majoneko.json](./252398-majoneko.json) |
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | Majong | 195047 | [195047-majong.json](./195047-majong.json) |
@@ -4541,7 +4542,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Path of Light | 322572 | [322572-maze-path-of-light.json](./322572-maze-path-of-light.json) |
 | Maze: Path of Light - Complete Edition | 358666 | [358666-maze-path-of-light-complete-edition.json](./358666-maze-path-of-light-complete-edition.json) |
 | Maze: Path of Light - Forest Edition | 362372 | [362372-maze-path-of-light-forest-edition.json](./362372-maze-path-of-light-forest-edition.json) |
+| Maze: Path of Light - Oasis Constellations | 354194 | [354194-maze-path-of-light-oasis-constellations.json](./354194-maze-path-of-light-oasis-constellations.json) |
 | Maze: Path of Light - Oasis Edition | 404280 | [404280-maze-path-of-light-oasis-edition.json](./404280-maze-path-of-light-oasis-edition.json) |
+| Maze: Path of Light - Wild Constellations | 354195 | [354195-maze-path-of-light-wild-constellations.json](./354195-maze-path-of-light-wild-constellations.json) |
 | Maze: Path of Light - Wild Edition | 368780 | [368780-maze-path-of-light-wild-edition.json](./368780-maze-path-of-light-wild-edition.json) |
 | Maze: Shadow of Light | 109562 | [109562-maze-shadow-of-light.json](./109562-maze-shadow-of-light.json) |
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
@@ -15079,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
 | My Tsundere Sister | 407473 | [407473-my-tsundere-sister.json](./407473-my-tsundere-sister.json) |
+| My tubi | 354233 | [354233-my-tubi.json](./354233-my-tubi.json) |
 | My Turn - Card Game | 130624 | [130624-my-turn-card-game.json](./130624-my-turn-card-game.json) |
 | My Two First Loves | 313847 | [313847-my-two-first-loves.json](./313847-my-two-first-loves.json) |
 | My Type! | 266829 | [266829-my-type.json](./266829-my-type.json) |
