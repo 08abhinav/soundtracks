@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qianli: The Vastscape Scroll | 399598 | [399598-qianli-the-vastscape-scroll.json](./399598-qianli-the-vastscape-scroll.json) |
 | Qianling Mainland | 220744 | [220744-qianling-mainland.json](./220744-qianling-mainland.json) |
 | Qǐluó Sìshí Tán | 130935 | [130935-qiluo-sishi-tan.json](./130935-qiluo-sishi-tan.json) |
+| Qimen Tower Defense | 344705 | [344705-qimen-tower-defense.json](./344705-qimen-tower-defense.json) |
 | Qīnglán Xuèfēng | 120850 | [120850-qinglan-xuefeng.json](./120850-qinglan-xuefeng.json) |
 | Qīngmèng Tán: Wèng zhī Piān | 128987 | [128987-qingmeng-tan-weng-zhi-pian.json](./128987-qingmeng-tan-weng-zhi-pian.json) |
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
@@ -867,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Racer | 297331 | [297331-quiz-racer.json](./297331-quiz-racer.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
 | Quiz RPG: The World of Mystic Wiz | 56307 | [56307-quiz-rpg-the-world-of-mystic-wiz.json](./56307-quiz-rpg-the-world-of-mystic-wiz.json) |
+| Quiz Seikai ha Ichinengo presents Atsushi no Meitantei | 344788 | [344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json](./344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json) |
 | Quiz Sekai ha Show by Shoubai!! | 64927 | [64927-quiz-sekai-ha-show-by-shoubai.json](./64927-quiz-sekai-ha-show-by-shoubai.json) |
 | Quiz Shooting Fushigi no Corona Oukoku | 212439 | [212439-quiz-shooting-fushigi-no-corona-oukoku.json](./212439-quiz-shooting-fushigi-no-corona-oukoku.json) |
 | Quiz Show | 112889 | [112889-quiz-show.json](./112889-quiz-show.json) |
