@@ -6081,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Churrasco | 416099 | [416099-churrasco.json](./416099-churrasco.json) |
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
+| Chushpan Simulator | 356433 | [356433-chushpan-simulator.json](./356433-chushpan-simulator.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
@@ -13981,6 +13982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Woney | 365066 | [365066-curse-of-woney.json](./365066-curse-of-woney.json) |
 | Curse of Yggdrasil | 380102 | [380102-curse-of-yggdrasil.json](./380102-curse-of-yggdrasil.json) |
 | Curse Removal Service | 218150 | [218150-curse-removal-service.json](./218150-curse-removal-service.json) |
+| Curse Retold: A Hello Neighbor Tribute | 356429 | [356429-curse-retold-a-hello-neighbor-tribute.json](./356429-curse-retold-a-hello-neighbor-tribute.json) |
 | Curse Rounds | 318122 | [318122-curse-rounds.json](./318122-curse-rounds.json) |
 | Curse Seal Rotation | 279896 | [279896-curse-seal-rotation.json](./279896-curse-seal-rotation.json) |
 | Curse That Magic Cat! | 142236 | [142236-curse-that-magic-cat.json](./142236-curse-that-magic-cat.json) |
