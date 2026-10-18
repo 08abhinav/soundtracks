@@ -6453,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Saga: Vikings Journey - End of the story | 246860 | [246860-ancient-saga-vikings-journey-end-of-the-story.json](./246860-ancient-saga-vikings-journey-end-of-the-story.json) |
 | Ancient Savo | 303161 | [303161-ancient-savo.json](./303161-ancient-savo.json) |
 | Ancient Scroll | 303162 | [303162-ancient-scroll.json](./303162-ancient-scroll.json) |
+| Ancient Secret | 359748 | [359748-ancient-secret.json](./359748-ancient-secret.json) |
 | Ancient Shadows: Awakening | 351121 | [351121-ancient-shadows-awakening.json](./351121-ancient-shadows-awakening.json) |
 | Ancient Siberia | 68471 | [68471-ancient-siberia.json](./68471-ancient-siberia.json) |
 | Ancient Souls Tamag | 167676 | [167676-ancient-souls-tamag.json](./167676-ancient-souls-tamag.json) |
