@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
 | Feeding the Monster | 69237 | [69237-feeding-the-monster.json](./69237-feeding-the-monster.json) |
+| Feeding the Velociraptors | 348578 | [348578-feeding-the-velociraptors.json](./348578-feeding-the-velociraptors.json) |
 | Feeding Yuyuko | 412226 | [412226-feeding-yuyuko.json](./412226-feeding-yuyuko.json) |
 | Feedn' Chloe | 206051 | [206051-feedn-chloe.json](./206051-feedn-chloe.json) |
 | FeedVid Live | 214433 | [214433-feedvid-live.json](./214433-feedvid-live.json) |
