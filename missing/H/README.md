@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Built: Casino | 211721 | [211721-half-built-casino.json](./211721-half-built-casino.json) |
 | Half Dead | 33726 | [33726-half-dead.json](./33726-half-dead.json) |
 | Half Dead 3 | 165106 | [165106-half-dead-3.json](./165106-half-dead-3.json) |
+| Half Dragon | 335058 | [335058-half-dragon.json](./335058-half-dragon.json) |
 | Half Empty | 103510 | [103510-half-empty.json](./103510-half-empty.json) |
 | Half Grip | 413472 | [413472-half-grip.json](./413472-half-grip.json) |
 | Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
