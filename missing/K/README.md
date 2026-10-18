@@ -1073,6 +1073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep looking | 158185 | [158185-keep-looking.json](./158185-keep-looking.json) |
 | Keep Me Breathing | 176988 | [176988-keep-me-breathing.json](./176988-keep-me-breathing.json) |
 | Keep Me Burning | 181715 | [181715-keep-me-burning.json](./181715-keep-me-burning.json) |
+| Keep Me Gifted | 346465 | [346465-keep-me-gifted.json](./346465-keep-me-gifted.json) |
 | Keep Me Posted | 223169 | [223169-keep-me-posted.json](./223169-keep-me-posted.json) |
 | Keep Moving Forward | 182228 | [182228-keep-moving-forward.json](./182228-keep-moving-forward.json) |
 | Keep of the Knights | 342010 | [342010-keep-of-the-knights.json](./342010-keep-of-the-knights.json) |
