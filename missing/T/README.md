@@ -3698,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrocombat | 260598 | [260598-tetrocombat.json](./260598-tetrocombat.json) |
 | Tetrogue | 413659 | [413659-tetrogue.json](./413659-tetrogue.json) |
 | Tetrogue Dragons | 164266 | [164266-tetrogue-dragons.json](./164266-tetrogue-dragons.json) |
+| Tetrominer | 324725 | [324725-tetrominer.json](./324725-tetrominer.json) |
 | Tetromino Attack | 117808 | [117808-tetromino-attack.json](./117808-tetromino-attack.json) |
 | Tetromino Chill | 186197 | [186197-tetromino-chill.json](./186197-tetromino-chill.json) |
 | Tetromino X | 190227 | [190227-tetromino-x.json](./190227-tetromino-x.json) |
@@ -11844,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shark T | 217911 | [217911-the-shark-t.json](./217911-the-shark-t.json) |
 | The Shark's Bathhouse | 271741 | [271741-the-sharks-bathhouse.json](./271741-the-sharks-bathhouse.json) |
 | The Shattered Knight of Elaria | 319231 | [319231-the-shattered-knight-of-elaria.json](./319231-the-shattered-knight-of-elaria.json) |
+| The Shattered Veil | 324731 | [324731-the-shattered-veil.json](./324731-the-shattered-veil.json) |
 | The Shattering | 57834 | [57834-the-shattering.json](./57834-the-shattering.json) |
 | The Shattering: Secret Room | 155062 | [155062-the-shattering-secret-room.json](./155062-the-shattering-secret-room.json) |
 | The Shed | 372205 | [372205-the-shed.json](./372205-the-shed.json) |
