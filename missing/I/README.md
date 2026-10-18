@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiniball | 129737 | [129737-infiniball.json](./129737-infiniball.json) |
 | Infiniboss | 134008 | [134008-infiniboss.json](./134008-infiniboss.json) |
 | Infinicity | 295262 | [295262-infinicity.json](./295262-infinicity.json) |
+| Infiniclick | 344718 | [344718-infiniclick.json](./344718-infiniclick.json) |
 | Infinicrypt | 298280 | [298280-infinicrypt.json](./298280-infinicrypt.json) |
 | Infinideer: Deerfinity | 387044 | [387044-infinideer-deerfinity.json](./387044-infinideer-deerfinity.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
