@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4089: Ghost Within | 11433 | [11433-4089-ghost-within.json](./11433-4089-ghost-within.json) |
 | 4096 | 157721 | [157721-4096.json](./157721-4096.json) |
 | 4096 Space Traders Era | 414799 | [414799-4096-space-traders-era.json](./414799-4096-space-traders-era.json) |
+| 40D40M | 348566 | [348566-40d40m.json](./348566-40d40m.json) |
 | 41 Days: Minimalist Pandemic Simulator | 183451 | [183451-41-days-minimalist-pandemic-simulator.json](./183451-41-days-minimalist-pandemic-simulator.json) |
 | 41 Hours | 139679 | [139679-41-hours.json](./139679-41-hours.json) |
 | 41148 | 125888 | [125888-41148.json](./125888-41148.json) |
