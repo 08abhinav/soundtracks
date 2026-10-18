@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
+| Backrooms: The Lost Circus | 335054 | [335054-backrooms-the-lost-circus.json](./335054-backrooms-the-lost-circus.json) |
 | Backrooms: The Next Level | 353784 | [353784-backrooms-the-next-level.json](./353784-backrooms-the-next-level.json) |
 | Backrooms: The Old Watcher | 407412 | [407412-backrooms-the-old-watcher.json](./407412-backrooms-the-old-watcher.json) |
 | Backrooms: The Others | 366337 | [366337-backrooms-the-others.json](./366337-backrooms-the-others.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacterian | 347370 | [347370-bacterian.json](./347370-bacterian.json) |
 | Bacteriophage | 197948 | [197948-bacteriophage.json](./197948-bacteriophage.json) |
 | Bacterium | 107023 | [107023-bacterium.json](./107023-bacterium.json) |
+| Bacterium | 335144 | [335144-bacterium.json](./335144-bacterium.json) |
 | Bactory | 413612 | [413612-bactory.json](./413612-bactory.json) |
 | Bactron | 37076 | [37076-bactron.json](./37076-bactron.json) |
 | Baculus | 140599 | [140599-baculus.json](./140599-baculus.json) |
@@ -7684,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
+| BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | BlockGame | 380027 | [380027-blockgame.json](./380027-blockgame.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
@@ -10766,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breached | 18845 | [18845-breached.json](./18845-breached.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
 | Breacher Story | 113456 | [113456-breacher-story.json](./113456-breacher-story.json) |
+| Breachers: Clone Projector Update | 335128 | [335128-breachers-clone-projector-update.json](./335128-breachers-clone-projector-update.json) |
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread & Fred | 204524 | [204524-bread-and-fred.json](./204524-bread-and-fred.json) |
