@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
+| Underground Mission | 327641 | [327641-underground-mission.json](./327641-underground-mission.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Pool | 56893 | [56893-underground-pool.json](./56893-underground-pool.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfortunate Tales of Violet | 248011 | [248011-unfortunate-tales-of-violet.json](./248011-unfortunate-tales-of-violet.json) |
 | Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
+| Unga Needs Mumba | 327668 | [327668-unga-needs-mumba.json](./327668-unga-needs-mumba.json) |
 | Ungodly | 375516 | [375516-ungodly.json](./375516-ungodly.json) |
 | Ungra Walker | 54748 | [54748-ungra-walker.json](./54748-ungra-walker.json) |
 | Ungrateful Birds: Call of the Desert | 231335 | [231335-ungrateful-birds-call-of-the-desert.json](./231335-ungrateful-birds-call-of-the-desert.json) |
