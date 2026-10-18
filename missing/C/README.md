@@ -9313,6 +9313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compact Cyber Arcade: Disney Frozen Elsa | 246551 | [246551-compact-cyber-arcade-disney-frozen-elsa.json](./246551-compact-cyber-arcade-disney-frozen-elsa.json) |
 | Compact Cyber Arcade: Ultimate Spider-Man | 277799 | [277799-compact-cyber-arcade-ultimate-spider-man.json](./277799-compact-cyber-arcade-ultimate-spider-man.json) |
 | Compacto: Idle Game | 154252 | [154252-compacto-idle-game.json](./154252-compacto-idle-game.json) |
+| Compactory | 323015 | [323015-compactory.json](./323015-compactory.json) |
 | Compadrone: Land Wars | 360761 | [360761-compadrone-land-wars.json](./360761-compadrone-land-wars.json) |
 | Companion | 30884 | [30884-companion.json](./30884-companion.json) |
 | Companion Monster | 202004 | [202004-companion-monster.json](./202004-companion-monster.json) |
