@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Brothers VI: Collector's Edition | 416149 | [416149-viking-brothers-vi-collectors-edition.json](./416149-viking-brothers-vi-collectors-edition.json) |
 | Viking City Tycoon | 317441 | [317441-viking-city-tycoon.json](./317441-viking-city-tycoon.json) |
 | Viking Colony Builder Valhalla | 322979 | [322979-viking-colony-builder-valhalla.json](./322979-viking-colony-builder-valhalla.json) |
+| Viking Days Remaster | 327649 | [327649-viking-days-remaster.json](./327649-viking-days-remaster.json) |
 | Viking Dodge | 7837 | [7837-viking-dodge.json](./7837-viking-dodge.json) |
 | Viking Farm | 396909 | [396909-viking-farm.json](./396909-viking-farm.json) |
 | Viking Fish | 318620 | [318620-viking-fish.json](./318620-viking-fish.json) |
