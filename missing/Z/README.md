@@ -444,9 +444,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: Alien - Isolation Pinball | 354360 | [354360-zen-pinball-alien-isolation-pinball.json](./354360-zen-pinball-alien-isolation-pinball.json) |
 | Zen Pinball: Aliens Pinball | 354358 | [354358-zen-pinball-aliens-pinball.json](./354358-zen-pinball-aliens-pinball.json) |
 | Zen Pinball: Aliens vs. Predator Pinball | 354359 | [354359-zen-pinball-aliens-vs-predator-pinball.json](./354359-zen-pinball-aliens-vs-predator-pinball.json) |
+| Zen Pinball: Back to the Future Pinball | 354304 | [354304-zen-pinball-back-to-the-future-pinball.json](./354304-zen-pinball-back-to-the-future-pinball.json) |
 | Zen Pinball: Boba Fett | 354357 | [354357-zen-pinball-boba-fett.json](./354357-zen-pinball-boba-fett.json) |
 | Zen Pinball: Doom Pinball | 354362 | [354362-zen-pinball-doom-pinball.json](./354362-zen-pinball-doom-pinball.json) |
+| Zen Pinball: Epic Quest | 354298 | [354298-zen-pinball-epic-quest.json](./354298-zen-pinball-epic-quest.json) |
+| Zen Pinball: Excalibur | 354299 | [354299-zen-pinball-excalibur.json](./354299-zen-pinball-excalibur.json) |
 | Zen Pinball: Fallout Pinball | 354361 | [354361-zen-pinball-fallout-pinball.json](./354361-zen-pinball-fallout-pinball.json) |
+| Zen Pinball: Jaws Pinball | 354305 | [354305-zen-pinball-jaws-pinball.json](./354305-zen-pinball-jaws-pinball.json) |
+| Zen Pinball: Jurassic Park Pinball | 354302 | [354302-zen-pinball-jurassic-park-pinball.json](./354302-zen-pinball-jurassic-park-pinball.json) |
+| Zen Pinball: Jurassic Park Pinball Mayhem | 354303 | [354303-zen-pinball-jurassic-park-pinball-mayhem.json](./354303-zen-pinball-jurassic-park-pinball-mayhem.json) |
+| Zen Pinball: Jurassic World Pinball | 354301 | [354301-zen-pinball-jurassic-world-pinball.json](./354301-zen-pinball-jurassic-world-pinball.json) |
 | Zen Pinball: Portal | 354364 | [354364-zen-pinball-portal.json](./354364-zen-pinball-portal.json) |
 | Zen Pinball: Star Wars - Darth Vader | 354353 | [354353-zen-pinball-star-wars-darth-vader.json](./354353-zen-pinball-star-wars-darth-vader.json) |
 | Zen Pinball: Star Wars - Episode V | 354355 | [354355-zen-pinball-star-wars-episode-v.json](./354355-zen-pinball-star-wars-episode-v.json) |
