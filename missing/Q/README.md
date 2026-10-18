@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Realms of Tiddles | 202929 | [202929-quake-realms-of-tiddles.json](./202929-quake-realms-of-tiddles.json) |
 | Quake: Retro Jam Egyptian | 196725 | [196725-quake-retro-jam-egyptian.json](./196725-quake-retro-jam-egyptian.json) |
 | Quake: Retro Jam Windtunnel | 196726 | [196726-quake-retro-jam-windtunnel.json](./196726-quake-retro-jam-windtunnel.json) |
+| Quake: Rubicon | 325922 | [325922-quake-rubicon.json](./325922-quake-rubicon.json) |
 | Quake: Sewer Jam | 196799 | [196799-quake-sewer-jam.json](./196799-quake-sewer-jam.json) |
 | Quake: Soul of Evil | 196644 | [196644-quake-soul-of-evil.json](./196644-quake-soul-of-evil.json) |
 | Quake: Soul of Evil - Indian Summer | 196650 | [196650-quake-soul-of-evil-indian-summer.json](./196650-quake-soul-of-evil-indian-summer.json) |
