@@ -811,6 +811,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamstörm | 303055 | [303055-hamstorm.json](./303055-hamstorm.json) |
 | Hamstory | 391100 | [391100-hamstory.json](./391100-hamstory.json) |
 | HamSumo | 287751 | [287751-hamsumo.json](./287751-hamsumo.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A001: Mo Hams | 356401 | [356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json](./356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A002: Minihamuzu | 356402 | [356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json](./356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A003: Hamtaro | 356403 | [356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json](./356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A004: Hamtaro the Movie | 356404 | [356404-hamtaro-card-e-gekijou-gentei-03-a004-hamtaro-the-movie.json](./356404-hamtaro-card-e-gekijou-gentei-03-a004-hamtaro-the-movie.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A005: Hamja Kingdom | 356405 | [356405-hamtaro-card-e-gekijou-gentei-03-a005-hamja-kingdom.json](./356405-hamtaro-card-e-gekijou-gentei-03-a005-hamja-kingdom.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A006: Sabaku-Nya | 356406 | [356406-hamtaro-card-e-gekijou-gentei-03-a006-sabaku-nya.json](./356406-hamtaro-card-e-gekijou-gentei-03-a006-sabaku-nya.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A007: Go Ham | 356407 | [356407-hamtaro-card-e-gekijou-gentei-03-a007-go-ham.json](./356407-hamtaro-card-e-gekijou-gentei-03-a007-go-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A008: Meshi Ham | 356408 | [356408-hamtaro-card-e-gekijou-gentei-03-a008-meshi-ham.json](./356408-hamtaro-card-e-gekijou-gentei-03-a008-meshi-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A009: Ishi Ham | 356409 | [356409-hamtaro-card-e-gekijou-gentei-03-a009-ishi-ham.json](./356409-hamtaro-card-e-gekijou-gentei-03-a009-ishi-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A010: Yasu Ham | 356410 | [356410-hamtaro-card-e-gekijou-gentei-03-a010-yasu-ham.json](./356410-hamtaro-card-e-gekijou-gentei-03-a010-yasu-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A011: Yoshi Ham | 356411 | [356411-hamtaro-card-e-gekijou-gentei-03-a011-yoshi-ham.json](./356411-hamtaro-card-e-gekijou-gentei-03-a011-yoshi-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A012: A Ham | 356412 | [356412-hamtaro-card-e-gekijou-gentei-03-a012-a-ham.json](./356412-hamtaro-card-e-gekijou-gentei-03-a012-a-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A013: Nii Ham | 356413 | [356413-hamtaro-card-e-gekijou-gentei-03-a013-nii-ham.json](./356413-hamtaro-card-e-gekijou-gentei-03-a013-nii-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A014: Kon Ham | 356414 | [356414-hamtaro-card-e-gekijou-gentei-03-a014-kon-ham.json](./356414-hamtaro-card-e-gekijou-gentei-03-a014-kon-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A015: Taka Ham | 356415 | [356415-hamtaro-card-e-gekijou-gentei-03-a015-taka-ham.json](./356415-hamtaro-card-e-gekijou-gentei-03-a015-taka-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A016: O Ham | 356416 | [356416-hamtaro-card-e-gekijou-gentei-03-a016-o-ham.json](./356416-hamtaro-card-e-gekijou-gentei-03-a016-o-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A017: Merica-Ham | 356417 | [356417-hamtaro-card-e-gekijou-gentei-03-a017-merica-ham.json](./356417-hamtaro-card-e-gekijou-gentei-03-a017-merica-ham.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A018: Ai-n-chan | 356418 | [356418-hamtaro-card-e-gekijou-gentei-03-a018-ai-n-chan.json](./356418-hamtaro-card-e-gekijou-gentei-03-a018-ai-n-chan.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A019: Nonno-chan | 356419 | [356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json](./356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json) |
+| Hamtaro Card e: Gekijou Gentei - 03-A020: Good-chan | 356420 | [356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json](./356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json) |
+| Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version | 356398 | [356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json](./356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json) |
 | Hamtaro: Ham-Ham Heartbreak | 6428 | [6428-hamtaro-ham-ham-heartbreak.json](./6428-hamtaro-ham-ham-heartbreak.json) |
 | Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
 | Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
@@ -6901,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop - Endless Arcade Hopper | 87167 | [87167-hop-endless-arcade-hopper.json](./87167-hop-endless-arcade-hopper.json) |
 | Hop 'N' Stack | 311665 | [311665-hop-n-stack.json](./311665-hop-n-stack.json) |
 | Hop & Seek | 377223 | [377223-hop-and-seek.json](./377223-hop-and-seek.json) |
+| Hop Drop | 356427 | [356427-hop-drop.json](./356427-hop-drop.json) |
 | Hop for the Best | 206945 | [206945-hop-for-the-best.json](./206945-hop-for-the-best.json) |
 | Hop Hero: A Leap of Faith | 266146 | [266146-hop-hero-a-leap-of-faith.json](./266146-hop-hero-a-leap-of-faith.json) |
 | Hop Hop Hop | 348950 | [348950-hop-hop-hop.json](./348950-hop-hop-hop.json) |
@@ -8416,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Lamu | 219023 | [219023-hungry-lamu.json](./219023-hungry-lamu.json) |
 | Hungry Meem | 328179 | [328179-hungry-meem.json](./328179-hungry-meem.json) |
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
+| Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Piranha Hunting - Shark Spear-fishing world | 104527 | [104527-hungry-piranha-hunting-shark-spear-fishing-world.json](./104527-hungry-piranha-hunting-shark-spear-fishing-world.json) |
