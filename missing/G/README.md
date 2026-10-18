@@ -3287,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls of DOA Blackjack: The Kasumi Version | 1394 | [1394-girls-of-doa-blackjack-the-kasumi-version.json](./1394-girls-of-doa-blackjack-the-kasumi-version.json) |
 | Girls of the Tower | 279532 | [279532-girls-of-the-tower.json](./279532-girls-of-the-tower.json) |
 | Girls of The Tower: Journey To Chaos | 305772 | [305772-girls-of-the-tower-journey-to-chaos.json](./305772-girls-of-the-tower-journey-to-chaos.json) |
+| Girls on Campus, from Freshmen to Faculty, All Fall for Me! | 313536 | [313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json](./313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
 | Girls on Tanks | 98504 | [98504-girls-on-tanks.json](./98504-girls-on-tanks.json) |
@@ -4143,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
+| Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
 | Goblin Shaman | 348914 | [348914-goblin-shaman.json](./348914-goblin-shaman.json) |
 | Goblin Slayer | 335853 | [335853-goblin-slayer.json](./335853-goblin-slayer.json) |
