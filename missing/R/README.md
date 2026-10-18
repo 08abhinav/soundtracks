@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of Red Riding Hood: Enhanced Edition | 81243 | [81243-return-of-red-riding-hood-enhanced-edition.json](./81243-return-of-red-riding-hood-enhanced-edition.json) |
 | Return of Saiyan | 95840 | [95840-return-of-saiyan.json](./95840-return-of-saiyan.json) |
 | Return of Serenity | 208004 | [208004-return-of-serenity.json](./208004-return-of-serenity.json) |
+| Return of the Cyrus Cylinder | 319442 | [319442-return-of-the-cyrus-cylinder.json](./319442-return-of-the-cyrus-cylinder.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
 | Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
@@ -4996,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Thief & the Paris Caper | 62279 | [62279-rhythm-thief-and-the-paris-caper.json](./62279-rhythm-thief-and-the-paris-caper.json) |
 | Rhythm Town: Music Visualizer | 335251 | [335251-rhythm-town-music-visualizer.json](./335251-rhythm-town-music-visualizer.json) |
 | Rhythm Typer | 382798 | [382798-rhythm-typer.json](./382798-rhythm-typer.json) |
+| Rhythm Witch: Beat Death | 319447 | [319447-rhythm-witch-beat-death.json](./319447-rhythm-witch-beat-death.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
