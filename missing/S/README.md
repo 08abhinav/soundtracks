@@ -5383,6 +5383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Coin Party | 337630 | [337630-shark-coin-party.json](./337630-shark-coin-party.json) |
 | Shark Copter vs. Zombie Dancers | 147976 | [147976-shark-copter-vs-zombie-dancers.json](./147976-shark-copter-vs-zombie-dancers.json) |
 | Shark Dating Simulator XL | 43097 | [43097-shark-dating-simulator-xl.json](./43097-shark-dating-simulator-xl.json) |
+| Shark Dentist | 354222 | [354222-shark-dentist.json](./354222-shark-dentist.json) |
 | Shark Game | 220256 | [220256-shark-game.json](./220256-shark-game.json) |
 | Shark Go | 406781 | [406781-shark-go.json](./406781-shark-go.json) |
 | Shark Hunt | 346097 | [346097-shark-hunt.json](./346097-shark-hunt.json) |
@@ -13201,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
 | Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
+| Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
@@ -17226,6 +17228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
 | Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
+| Star Periphery | 354202 | [354202-star-periphery.json](./354202-star-periphery.json) |
 | Star Phantom | 136240 | [136240-star-phantom.json](./136240-star-phantom.json) |
 | Star Pilot | 72613 | [72613-star-pilot.json](./72613-star-pilot.json) |
 | Star Pixie | 153938 | [153938-star-pixie.json](./153938-star-pixie.json) |
