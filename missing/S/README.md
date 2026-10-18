@@ -12136,6 +12136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
 | Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
+| Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
 | Sonic & Blaze | 266506 | [266506-sonic-and-blaze.json](./266506-sonic-and-blaze.json) |
 | Sonic & Friends | 324960 | [324960-sonic-and-friends.json](./324960-sonic-and-friends.json) |
@@ -12154,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
 | Sonic 04 | 265224 | [265224-sonic-04.json](./265224-sonic-04.json) |
 | Sonic 1 8-bit Redux | 317353 | [317353-sonic-1-8-bit-redux.json](./317353-sonic-1-8-bit-redux.json) |
+| Sonic 1 Co-op | 361500 | [361500-sonic-1-co-op.json](./361500-sonic-1-co-op.json) |
 | Sonic 1 Delta | 333683 | [333683-sonic-1-delta.json](./333683-sonic-1-delta.json) |
 | Sonic 1 Easy Mode | 270220 | [270220-sonic-1-easy-mode.json](./270220-sonic-1-easy-mode.json) |
 | Sonic 1 on Bird Hill Island | 360500 | [360500-sonic-1-on-bird-hill-island.json](./360500-sonic-1-on-bird-hill-island.json) |
