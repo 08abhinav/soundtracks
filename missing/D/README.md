@@ -12694,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
+| Dungeon Cleaners | 357041 | [357041-dungeon-cleaners.json](./357041-dungeon-cleaners.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
