@@ -1576,6 +1576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jingoku | 175829 | [175829-jingoku.json](./175829-jingoku.json) |
 | Jingor Mine | 187181 | [187181-jingor-mine.json](./187181-jingor-mine.json) |
 | Jingor Sudoku | 188975 | [188975-jingor-sudoku.json](./188975-jingor-sudoku.json) |
+| Jini's Potion Shop | 311887 | [311887-jinis-potion-shop.json](./311887-jinis-potion-shop.json) |
 | Jinja | 313500 | [313500-jinja.json](./313500-jinja.json) |
 | Jìnjì | 129614 | [129614-jinji.json](./129614-jinji.json) |
 | Jinkaku Omotegu: Inei Menseki | 288439 | [288439-jinkaku-omotegu-inei-menseki.json](./288439-jinkaku-omotegu-inei-menseki.json) |
@@ -2778,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Hunter | 151648 | [151648-jurassic-hunter.json](./151648-jurassic-hunter.json) |
 | Jurassic Island Rescue and Escape | 294433 | [294433-jurassic-island-rescue-and-escape.json](./294433-jurassic-island-rescue-and-escape.json) |
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
+| Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
 | Jurassic Monster World | 141508 | [141508-jurassic-monster-world.json](./141508-jurassic-monster-world.json) |
 | Jurassic Park | 128888 | [128888-jurassic-park.json](./128888-jurassic-park.json) |
