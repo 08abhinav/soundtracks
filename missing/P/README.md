@@ -3614,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
 | Pets in Action Bundle | 212787 | [212787-pets-in-action-bundle.json](./212787-pets-in-action-bundle.json) |
+| Pets Live | 340799 | [340799-pets-live.json](./340799-pets-live.json) |
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
 | Pets Resort 3D | 85340 | [85340-pets-resort-3d.json](./85340-pets-resort-3d.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
