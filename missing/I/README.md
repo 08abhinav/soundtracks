@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'll respond to that later | 183970 | [183970-ill-respond-to-that-later.json](./183970-ill-respond-to-that-later.json) |
 | I'm A Celebrity... Get Me Out of Here! | 67211 | [67211-im-a-celebrity-get-me-out-of-here.json](./67211-im-a-celebrity-get-me-out-of-here.json) |
 | I'm a cowboy: Western Shooter | 173226 | [173226-im-a-cowboy-western-shooter.json](./173226-im-a-cowboy-western-shooter.json) |
+| I'm a Gensokyo Observer | 324754 | [324754-im-a-gensokyo-observer.json](./324754-im-a-gensokyo-observer.json) |
 | I'm a Grown Up!! Dreamy Sweetie The Devil Slayer | 301585 | [301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json](./301585-im-a-grown-up-dreamy-sweetie-the-devil-slayer.json) |
 | I'm a King | 151557 | [151557-im-a-king.json](./151557-im-a-king.json) |
 | I’m a Love Interest in My Childhood Friend’s Halloween Story | 179674 | [179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json](./179674-i-m-a-love-interest-in-my-childhood-friend-s-halloween-story.json) |
