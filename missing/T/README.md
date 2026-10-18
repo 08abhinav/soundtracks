@@ -7620,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Half-Life 2 Exhibit | 252091 | [252091-the-half-life-2-exhibit.json](./252091-the-half-life-2-exhibit.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
+| The Halloween Party | 316470 | [316470-the-halloween-party.json](./316470-the-halloween-party.json) |
 | The Halloween Story | 219170 | [219170-the-halloween-story.json](./219170-the-halloween-story.json) |
 | The Hallway: Escape Room | 264608 | [264608-the-hallway-escape-room.json](./264608-the-hallway-escape-room.json) |
 | The Hallways | 284310 | [284310-the-hallways.json](./284310-the-hallways.json) |
@@ -20312,6 +20313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trailer Game | 390557 | [390557-trailer-game.json](./390557-trailer-game.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
+| Trailer Park Tycoon: Raccoon Ranch | 316488 | [316488-trailer-park-tycoon-raccoon-ranch.json](./316488-trailer-park-tycoon-raccoon-ranch.json) |
 | Trailer Park Zombies | 389462 | [389462-trailer-park-zombies.json](./389462-trailer-park-zombies.json) |
 | Trailer Shop Simulator | 167354 | [167354-trailer-shop-simulator.json](./167354-trailer-shop-simulator.json) |
 | Trailer Trashers | 130157 | [130157-trailer-trashers.json](./130157-trailer-trashers.json) |
