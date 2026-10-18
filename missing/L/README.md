@@ -2292,8 +2292,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Ninjago: Nindroids | 19766 | [19766-lego-ninjago-nindroids.json](./19766-lego-ninjago-nindroids.json) |
 | LEGO Ninjago: Ride Ninja | 100445 | [100445-lego-ninjago-ride-ninja.json](./100445-lego-ninjago-ride-ninja.json) |
 | LEGO Ninjago: Shadow of Ronin | 19006 | [19006-lego-ninjago-shadow-of-ronin.json](./19006-lego-ninjago-shadow-of-ronin.json) |
+| LEGO Ninjago: Spinjitzu Smash DX | 343140 | [343140-lego-ninjago-spinjitzu-smash-dx.json](./343140-lego-ninjago-spinjitzu-smash-dx.json) |
 | LEGO Ninjago: The Four Paths | 340034 | [340034-lego-ninjago-the-four-paths.json](./340034-lego-ninjago-the-four-paths.json) |
 | LEGO Ninjago: Tournament | 77616 | [77616-lego-ninjago-tournament.json](./77616-lego-ninjago-tournament.json) |
+| LEGO Ninjago: Viper Smash | 343132 | [343132-lego-ninjago-viper-smash.json](./343132-lego-ninjago-viper-smash.json) |
+| LEGO Ninjago: Viper Smash ZX | 343133 | [343133-lego-ninjago-viper-smash-zx.json](./343133-lego-ninjago-viper-smash-zx.json) |
 | LEGO Orient Expedition: The Quest for the Golden Dragon | 210319 | [210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json](./210319-lego-orient-expedition-the-quest-for-the-golden-dragon.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
