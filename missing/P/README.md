@@ -9456,7 +9456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal 2: Corkscrew RuLes! | 125026 | [125026-postal-2-corkscrew-rules.json](./125026-postal-2-corkscrew-rules.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
-| Postal: Brain Damaged | 138353 | [138353-postal-brain-damaged.json](./138353-postal-brain-damaged.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
 | Postal: Fudge Pack | 359857 | [359857-postal-fudge-pack.json](./359857-postal-fudge-pack.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
