@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renfield | 82885 | [82885-renfield.json](./82885-renfield.json) |
 | Renfield: Bring Your Own Blood | 245426 | [245426-renfield-bring-your-own-blood.json](./245426-renfield-bring-your-own-blood.json) |
 | Renga in Four Parts | 138150 | [138150-renga-in-four-parts.json](./138150-renga-in-four-parts.json) |
+| Rengo Kantai | 345908 | [345908-rengo-kantai.json](./345908-rengo-kantai.json) |
 | Rengoku | 325284 | [325284-rengoku.json](./325284-rengoku.json) |
 | Rengoku II: The Stairway to H.E.A.V.E.N. | 24185 | [24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json](./24185-rengoku-ii-the-stairway-to-h-e-a-v-e-n.json) |
 | Rengoku: The Tower of Purgatory | 38473 | [38473-rengoku-the-tower-of-purgatory.json](./38473-rengoku-the-tower-of-purgatory.json) |
@@ -5729,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 3: Titan Lords - Enhanced Edition | 42939 | [42939-risen-3-titan-lords-enhanced-edition.json](./42939-risen-3-titan-lords-enhanced-edition.json) |
 | Risen Dragons | 53514 | [53514-risen-dragons.json](./53514-risen-dragons.json) |
 | Risen Kingdom | 128025 | [128025-risen-kingdom.json](./128025-risen-kingdom.json) |
+| Riseon | 345831 | [345831-riseon.json](./345831-riseon.json) |
 | Riser of Babel | 301084 | [301084-riser-of-babel.json](./301084-riser-of-babel.json) |
 | Risiko Chess | 274556 | [274556-risiko-chess.json](./274556-risiko-chess.json) |
 | Risimon | 315709 | [315709-risimon.json](./315709-risimon.json) |
@@ -7294,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roguebound Pirates | 365092 | [365092-roguebound-pirates.json](./365092-roguebound-pirates.json) |
 | Roguebreaker | 103413 | [103413-roguebreaker.json](./103413-roguebreaker.json) |
 | RogueCards | 311620 | [311620-roguecards.json](./311620-roguecards.json) |
+| RogueCraft | 345812 | [345812-roguecraft.json](./345812-roguecraft.json) |
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
