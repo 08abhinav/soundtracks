@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Senkan Yamato: Nijuu Ginga no Houkai | 395825 | [395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json](./395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json) |
 | Uchuusen Cosmo Carrier | 48559 | [48559-uchuusen-cosmo-carrier.json](./48559-uchuusen-cosmo-carrier.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
+| Ucopia | 338600 | [338600-ucopia.json](./338600-ucopia.json) |
 | UCraft | 85462 | [85462-ucraft.json](./85462-ucraft.json) |
 | Ucube Avcıları | 268222 | [268222-ucube-avc-lar.json](./268222-ucube-avc-lar.json) |
 | UD Cave | 252695 | [252695-ud-cave.json](./252695-ud-cave.json) |
@@ -354,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
+| Ultimate Chopsticks | 338599 | [338599-ultimate-chopsticks.json](./338599-ultimate-chopsticks.json) |
 | Ultimate Christmas Puzzler 2 | 195429 | [195429-ultimate-christmas-puzzler-2.json](./195429-ultimate-christmas-puzzler-2.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
 | Ultimate Coaster X | 115536 | [115536-ultimate-coaster-x.json](./115536-ultimate-coaster-x.json) |
@@ -714,11 +716,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter IV: Shoryuken Horror Pack | 225127 | [225127-ultra-street-fighter-iv-shoryuken-horror-pack.json](./225127-ultra-street-fighter-iv-shoryuken-horror-pack.json) |
 | Ultra Street Fighter IV: Shoryuken Vacation Pack | 225128 | [225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json](./225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json) |
 | Ultra Street Fighter IV: Shoryuken Wild Pack | 225129 | [225129-ultra-street-fighter-iv-shoryuken-wild-pack.json](./225129-ultra-street-fighter-iv-shoryuken-wild-pack.json) |
+| Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
+| Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
 | Ultra Vleurette | 267356 | [267356-ultra-vleurette.json](./267356-ultra-vleurette.json) |
 | Ultra Void | 402985 | [402985-ultra-void.json](./402985-ultra-void.json) |
 | Ultra Vortek | 40822 | [40822-ultra-vortek.json](./40822-ultra-vortek.json) |
 | Ultra Vortex | 78986 | [78986-ultra-vortex.json](./78986-ultra-vortex.json) |
+| Ultra X-Treme Hunting Simulator 2001 | 338595 | [338595-ultra-x-treme-hunting-simulator-2001.json](./338595-ultra-x-treme-hunting-simulator-2001.json) |
 | Ultra Zultra | 175199 | [175199-ultra-zultra.json](./175199-ultra-zultra.json) |
 | Ultra-Gene Code | 115569 | [115569-ultra-gene-code.json](./115569-ultra-gene-code.json) |
 | Ultra-Quiz | 93145 | [93145-ultra-quiz.json](./93145-ultra-quiz.json) |
@@ -803,6 +808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrazone | 268223 | [268223-ultrazone.json](./268223-ultrazone.json) |
 | Ultreia | 154798 | [154798-ultreia.json](./154798-ultreia.json) |
 | Ultreia: Enhanced Edition | 316384 | [316384-ultreia-enhanced-edition.json](./316384-ultreia-enhanced-edition.json) |
+| Ultreïa: Night of the Eclipse | 338594 | [338594-ultreia-night-of-the-eclipse.json](./338594-ultreia-night-of-the-eclipse.json) |
 | Ultris: The Ultimate Tetris | 14520 | [14520-ultris-the-ultimate-tetris.json](./14520-ultris-the-ultimate-tetris.json) |
 | Ultron | 57133 | [57133-ultron.json](./57133-ultron.json) |
 | Ultrono Arena | 94211 | [94211-ultrono-arena.json](./94211-ultrono-arena.json) |
@@ -948,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unaided: 1939 | 31811 | [31811-unaided-1939.json](./31811-unaided-1939.json) |
 | Unaki | 211627 | [211627-unaki.json](./211627-unaki.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
+| Unakis | 338593 | [338593-unakis.json](./338593-unakis.json) |
 | Unaligned | 177480 | [177480-unaligned.json](./177480-unaligned.json) |
 | Unalive | 29969 | [29969-unalive.json](./29969-unalive.json) |
 | Unalive 010 | 247441 | [247441-unalive-010.json](./247441-unalive-010.json) |
@@ -994,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbound | 380749 | [380749-unbound.json](./380749-unbound.json) |
 | UnBound | 380748 | [380748-unbound.json](./380748-unbound.json) |
 | Unbound Drift | 407900 | [407900-unbound-drift.json](./407900-unbound-drift.json) |
+| Unbound Eternity | 338592 | [338592-unbound-eternity.json](./338592-unbound-eternity.json) |
 | Unbound Saga | 21101 | [21101-unbound-saga.json](./21101-unbound-saga.json) |
 | Unbound: Worlds Apart | 89597 | [89597-unbound-worlds-apart.json](./89597-unbound-worlds-apart.json) |
 | Unbounded | 396496 | [396496-unbounded.json](./396496-unbounded.json) |
@@ -1139,10 +1147,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Breakout | 196625 | [196625-undead-breakout.json](./196625-undead-breakout.json) |
 | Undead Carnage League | 233059 | [233059-undead-carnage-league.json](./233059-undead-carnage-league.json) |
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
+| Undead Cave Defence | 338591 | [338591-undead-cave-defence.json](./338591-undead-cave-defence.json) |
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
+| Undead Exile | 338590 | [338590-undead-exile.json](./338590-undead-exile.json) |
 | Undead Exterminator | 369916 | [369916-undead-exterminator.json](./369916-undead-exterminator.json) |
 | Undead Factory: Zombie Pandemic | 88114 | [88114-undead-factory-zombie-pandemic.json](./88114-undead-factory-zombie-pandemic.json) |
 | Undead Horde | 88250 | [88250-undead-horde.json](./88250-undead-horde.json) |
