@@ -828,6 +828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
+| Katamari Damacy Rolling Live | 335137 | [335137-katamari-damacy-rolling-live.json](./335137-katamari-damacy-rolling-live.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
 | Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
 | Katana | 216338 | [216338-katana.json](./216338-katana.json) |
@@ -3098,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
+| Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
 | Klomanager: Regurgitated | 195974 | [195974-klomanager-regurgitated.json](./195974-klomanager-regurgitated.json) |
 | Klondike | 14503 | [14503-klondike.json](./14503-klondike.json) |
 | Klondike | 281555 | [281555-klondike.json](./281555-klondike.json) |
