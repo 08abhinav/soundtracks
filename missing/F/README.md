@@ -4651,6 +4651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
+| Fish out of Water's Fish n' Ship | 343131 | [343131-fish-out-of-waters-fish-n-ship.json](./343131-fish-out-of-waters-fish-n-ship.json) |
 | Fish Party Online | 250385 | [250385-fish-party-online.json](./250385-fish-party-online.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Pond Park | 212819 | [212819-fish-pond-park.json](./212819-fish-pond-park.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
 | For the Glory of Gods TCG | 311115 | [311115-for-the-glory-of-gods-tcg.json](./311115-for-the-glory-of-gods-tcg.json) |
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
+| For the Greater Good | 343045 | [343045-for-the-greater-good.json](./343045-for-the-greater-good.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
 | For the King: Deluxe Edition | 374979 | [374979-for-the-king-deluxe-edition.json](./374979-for-the-king-deluxe-edition.json) |
