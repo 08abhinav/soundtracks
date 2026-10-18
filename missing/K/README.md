@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
 | Kart Drift | 36879 | [36879-kart-drift.json](./36879-kart-drift.json) |
+| Kart Evolution 2025 | 345816 | [345816-kart-evolution-2025.json](./345816-kart-evolution-2025.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart Krashers | 23588 | [23588-kart-krashers.json](./23588-kart-krashers.json) |
 | Kart Life | 260589 | [260589-kart-life.json](./260589-kart-life.json) |
@@ -1170,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keio Flying Squadron | 12912 | [12912-keio-flying-squadron.json](./12912-keio-flying-squadron.json) |
 | Keio Flying Squadron 2 | 19417 | [19417-keio-flying-squadron-2.json](./19417-keio-flying-squadron-2.json) |
 | Keisan 100 Renda | 67369 | [67369-keisan-100-renda.json](./67369-keisan-100-renda.json) |
+| Keisan Enshuu Drill | 345921 | [345921-keisan-enshuu-drill.json](./345921-keisan-enshuu-drill.json) |
 | Keisan Game: Sansuu 1-nen | 58881 | [58881-keisan-game-sansuu-1-nen.json](./58881-keisan-game-sansuu-1-nen.json) |
 | Keisan Game: Sansuu 2-nen | 58883 | [58883-keisan-game-sansuu-2-nen.json](./58883-keisan-game-sansuu-2-nen.json) |
 | Keisan Game: Sansuu 3-nen | 58880 | [58880-keisan-game-sansuu-3-nen.json](./58880-keisan-game-sansuu-3-nen.json) |
