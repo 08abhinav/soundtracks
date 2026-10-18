@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Test Test | 281340 | [281340-test-test-test.json](./281340-test-test-test.json) |
 | Test Tube Titans | 129933 | [129933-test-tube-titans.json](./129933-test-tube-titans.json) |
 | Test Tube Titans: Taster Trial | 157062 | [157062-test-tube-titans-taster-trial.json](./157062-test-tube-titans-taster-trial.json) |
+| Test your Atari Acumen | 331163 | [331163-test-your-atari-acumen.json](./331163-test-your-atari-acumen.json) |
 | Test Your Mario Memory | 231604 | [231604-test-your-mario-memory.json](./231604-test-your-mario-memory.json) |
 | Test Your Math | 27731 | [27731-test-your-math.json](./27731-test-your-math.json) |
 | Test Your Mind | 85432 | [85432-test-your-mind.json](./85432-test-your-mind.json) |
@@ -9679,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Resort | 87558 | [87558-the-lost-resort.json](./87558-the-lost-resort.json) |
 | The Lost Ride | 46560 | [46560-the-lost-ride.json](./46560-the-lost-ride.json) |
 | The Lost Robot: Jigsaw Puzzle Stories | 155470 | [155470-the-lost-robot-jigsaw-puzzle-stories.json](./155470-the-lost-robot-jigsaw-puzzle-stories.json) |
+| The Lost Sanatorium | 331160 | [331160-the-lost-sanatorium.json](./331160-the-lost-sanatorium.json) |
 | The Lost Sheep | 238528 | [238528-the-lost-sheep.json](./238528-the-lost-sheep.json) |
 | The Lost Ship | 61102 | [61102-the-lost-ship.json](./61102-the-lost-ship.json) |
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
@@ -10008,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mine | 343769 | [343769-the-mine.json](./343769-the-mine.json) |
 | The Mine | 360736 | [360736-the-mine.json](./360736-the-mine.json) |
 | The Mine Room | 375528 | [375528-the-mine-room.json](./375528-the-mine-room.json) |
+| The Mine Song But It's In A Playable Doom WAD | 331156 | [331156-the-mine-song-but-its-in-a-playable-doom-wad.json](./331156-the-mine-song-but-its-in-a-playable-doom-wad.json) |
 | The Minecraft tribute game | 46077 | [46077-the-minecraft-tribute-game.json](./46077-the-minecraft-tribute-game.json) |
 | The Miner Digs | 185413 | [185413-the-miner-digs.json](./185413-the-miner-digs.json) |
 | The Miner's Routine | 421317 | [421317-the-miners-routine.json](./421317-the-miners-routine.json) |
@@ -11584,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
 | The Sea Will Claim Everything | 36051 | [36051-the-sea-will-claim-everything.json](./36051-the-sea-will-claim-everything.json) |
 | The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
+| The Seabed's Shining Star | 331181 | [331181-the-seabeds-shining-star.json](./331181-the-seabeds-shining-star.json) |
 | The Seal Hunter | 345555 | [345555-the-seal-hunter.json](./345555-the-seal-hunter.json) |
 | The Seal of Hades | 47536 | [47536-the-seal-of-hades.json](./47536-the-seal-of-hades.json) |
 | The Sealed Ampoule | 139138 | [139138-the-sealed-ampoule.json](./139138-the-sealed-ampoule.json) |
@@ -20843,6 +20847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Focus and Observation Skills: The Spot-the-Difference Challenge | 376230 | [376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json](./376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json) |
 | Train Your Minibot | 148856 | [148856-train-your-minibot.json](./148856-train-your-minibot.json) |
 | Train'em | 163971 | [163971-trainem.json](./163971-trainem.json) |
+| Trainatic | 331186 | [331186-trainatic.json](./331186-trainatic.json) |
 | Trainbow | 182229 | [182229-trainbow.json](./182229-trainbow.json) |
 | TrainClicker Idle Evolution | 149364 | [149364-trainclicker-idle-evolution.json](./149364-trainclicker-idle-evolution.json) |
 | TrainCraft | 265614 | [265614-traincraft.json](./265614-traincraft.json) |
@@ -22967,6 +22972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
 | True Thief | 340278 | [340278-true-thief.json](./340278-true-thief.json) |
+| True Three Kingdoms | 331157 | [331157-true-three-kingdoms.json](./331157-true-three-kingdoms.json) |
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
@@ -23493,6 +23499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
 | Turboroko: Passion Fever | 142471 | [142471-turboroko-passion-fever.json](./142471-turboroko-passion-fever.json) |
 | Turboroko: Path to Passion Fever | 142470 | [142470-turboroko-path-to-passion-fever.json](./142470-turboroko-path-to-passion-fever.json) |
+| TurboSquad | 331173 | [331173-turbosquad.json](./331173-turbosquad.json) |
 | TurBot | 158607 | [158607-turbot.json](./158607-turbot.json) |
 | TurBot | 163893 | [163893-turbot.json](./163893-turbot.json) |
 | TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
