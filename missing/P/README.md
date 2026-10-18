@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradroid: Competition Edition | 140260 | [140260-paradroid-competition-edition.json](./140260-paradroid-competition-edition.json) |
 | Paraedolon | 320011 | [320011-paraedolon.json](./320011-paraedolon.json) |
 | Parafron | 260607 | [260607-parafron.json](./260607-parafron.json) |
+| Paragliding Sim | 362588 | [362588-paragliding-sim.json](./362588-paragliding-sim.json) |
 | Paragnosia | 320184 | [320184-paragnosia.json](./320184-paragnosia.json) |
 | Paragnosia: Museum | 365305 | [365305-paragnosia-museum.json](./365305-paragnosia-museum.json) |
 | Paragon of Time | 339907 | [339907-paragon-of-time.json](./339907-paragon-of-time.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker: Panther Chameleon | 326154 | [326154-poker-panther-chameleon.json](./326154-poker-panther-chameleon.json) |
 | Poker: Texas & Omaha Hold'em - Premium Edition | 411836 | [411836-poker-texas-and-omaha-holdem-premium-edition.json](./411836-poker-texas-and-omaha-holdem-premium-edition.json) |
 | PokeRank | 414554 | [414554-pokerank.json](./414554-pokerank.json) |
+| Pokerchinko | 362593 | [362593-pokerchinko.json](./362593-pokerchinko.json) |
 | Pokeringo Bingo | 209348 | [209348-pokeringo-bingo.json](./209348-pokeringo-bingo.json) |
 | PokerMania | 76593 | [76593-pokermania.json](./76593-pokermania.json) |
 | Pokermon | 346016 | [346016-pokermon.json](./346016-pokermon.json) |
