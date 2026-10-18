@@ -8265,6 +8265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Celestial Guardians | 341686 | [341686-pokemon-trading-card-game-pocket-celestial-guardians.json](./341686-pokemon-trading-card-game-pocket-celestial-guardians.json) |
 | Pokémon Trading Card Game Pocket: Crimson Blaze | 381911 | [381911-pokemon-trading-card-game-pocket-crimson-blaze.json](./381911-pokemon-trading-card-game-pocket-crimson-blaze.json) |
 | Pokémon Trading Card Game Pocket: Deluxe pack ex | 370869 | [370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json](./370869-pokemon-trading-card-game-pocket-deluxe-pack-ex.json) |
+| Pokémon Trading Card Game Pocket: Eevee Grove | 350768 | [350768-pokemon-trading-card-game-pocket-eevee-grove.json](./350768-pokemon-trading-card-game-pocket-eevee-grove.json) |
 | Pokémon Trading Card Game Pocket: Fantastical Parade | 387537 | [387537-pokemon-trading-card-game-pocket-fantastical-parade.json](./387537-pokemon-trading-card-game-pocket-fantastical-parade.json) |
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
@@ -8428,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
 | Pokitaire | 158580 | [158580-pokitaire.json](./158580-pokitaire.json) |
+| Pokitaire | 350782 | [350782-pokitaire.json](./350782-pokitaire.json) |
 | Pokka Man | 93777 | [93777-pokka-man.json](./93777-pokka-man.json) |
 | Pokkén Tournament DX | 36794 | [36794-pokken-tournament-dx.json](./36794-pokken-tournament-dx.json) |
 | Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
