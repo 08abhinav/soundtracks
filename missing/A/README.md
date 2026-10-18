@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Ants | 184916 | [184916-a-game-about-ants.json](./184916-a-game-about-ants.json) |
 | A Game About Bouncing DVD | 406321 | [406321-a-game-about-bouncing-dvd.json](./406321-a-game-about-bouncing-dvd.json) |
 | A Game About Breaking A Cube | 379511 | [379511-a-game-about-breaking-a-cube.json](./379511-a-game-about-breaking-a-cube.json) |
+| A Game About Cards | 348570 | [348570-a-game-about-cards.json](./348570-a-game-about-cards.json) |
 | A Game About Chopping Trees | 403786 | [403786-a-game-about-chopping-trees.json](./403786-a-game-about-chopping-trees.json) |
 | A Game About Clicking Crystals | 379509 | [379509-a-game-about-clicking-crystals.json](./379509-a-game-about-clicking-crystals.json) |
 | A Game About Creating The Universe | 402230 | [402230-a-game-about-creating-the-universe.json](./402230-a-game-about-creating-the-universe.json) |
@@ -2783,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether | 280472 | [280472-aether.json](./280472-aether.json) |
 | Aether & Iron | 335238 | [335238-aether-and-iron.json](./335238-aether-and-iron.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
+| Aether Delight | 348590 | [348590-aether-delight.json](./348590-aether-delight.json) |
 | Aether Diving | 314598 | [314598-aether-diving.json](./314598-aether-diving.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
@@ -2795,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
+| Aetherfall | 348587 | [348587-aetherfall.json](./348587-aetherfall.json) |
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
@@ -12723,6 +12726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
 | Awolnation: Megalithic Mayhem | 174228 | [174228-awolnation-megalithic-mayhem.json](./174228-awolnation-megalithic-mayhem.json) |
 | Aworded Crack | 108602 | [108602-aworded-crack.json](./108602-aworded-crack.json) |
+| Awrak | 348589 | [348589-awrak.json](./348589-awrak.json) |
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
