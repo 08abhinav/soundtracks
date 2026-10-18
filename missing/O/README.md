@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
 | Obstacle Challenge | 370991 | [370991-obstacle-challenge.json](./370991-obstacle-challenge.json) |
 | Obstacle Course Car Parking | 238391 | [238391-obstacle-course-car-parking.json](./238391-obstacle-course-car-parking.json) |
+| Obstacle Race | 359728 | [359728-obstacle-race.json](./359728-obstacle-race.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
@@ -278,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean City Racing | 10636 | [10636-ocean-city-racing.json](./10636-ocean-city-racing.json) |
 | Ocean City Racing: Redux | 36294 | [36294-ocean-city-racing-redux.json](./36294-ocean-city-racing-redux.json) |
 | Ocean Classics Volume 1 | 109909 | [109909-ocean-classics-volume-1.json](./109909-ocean-classics-volume-1.json) |
+| Ocean Depths | 359735 | [359735-ocean-depths.json](./359735-ocean-depths.json) |
 | Ocean Drift | 233521 | [233521-ocean-drift.json](./233521-ocean-drift.json) |
 | Ocean Drive Challenge | 65420 | [65420-ocean-drive-challenge.json](./65420-ocean-drive-challenge.json) |
 | Ocean Drive Challenge Remastered | 127220 | [127220-ocean-drive-challenge-remastered.json](./127220-ocean-drive-challenge-remastered.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owl Watch | 111254 | [111254-owl-watch.json](./111254-owl-watch.json) |
 | Owl's Nest | 392736 | [392736-owls-nest.json](./392736-owls-nest.json) |
 | Owlbears | 387518 | [387518-owlbears.json](./387518-owlbears.json) |
+| OwlBox: Fantasy Gaming System | 359861 | [359861-owlbox-fantasy-gaming-system.json](./359861-owlbox-fantasy-gaming-system.json) |
 | Owlboy: Collector's Edition | 51858 | [51858-owlboy-collectors-edition.json](./51858-owlboy-collectors-edition.json) |
 | Owlboy: Limited Edition | 68672 | [68672-owlboy-limited-edition.json](./68672-owlboy-limited-edition.json) |
 | Owlen and the Spirits of the Past | 385084 | [385084-owlen-and-the-spirits-of-the-past.json](./385084-owlen-and-the-spirits-of-the-past.json) |
