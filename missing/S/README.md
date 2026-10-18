@@ -11067,7 +11067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboard Girl | 355151 | [355151-snowboard-girl.json](./355151-snowboard-girl.json) |
 | Snowboard Heaven | 70664 | [70664-snowboard-heaven.json](./70664-snowboard-heaven.json) |
 | Snowboard Hero | 256184 | [256184-snowboard-hero.json](./256184-snowboard-hero.json) |
-| Snowboard Kids 2 | 3343 | [3343-snowboard-kids-2.json](./3343-snowboard-kids-2.json) |
 | Snowboard Kids Plus | 72103 | [72103-snowboard-kids-plus.json](./72103-snowboard-kids-plus.json) |
 | Snowboard League | 250822 | [250822-snowboard-league.json](./250822-snowboard-league.json) |
 | Snowboard Legends | 322988 | [322988-snowboard-legends.json](./322988-snowboard-legends.json) |
@@ -11203,7 +11202,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowyland | 187156 | [187156-snowyland.json](./187156-snowyland.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
-| Snufkin: Melody of Moominvalley | 180149 | [180149-snufkin-melody-of-moominvalley.json](./180149-snufkin-melody-of-moominvalley.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
