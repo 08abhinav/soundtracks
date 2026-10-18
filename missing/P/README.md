@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Scooperia | 210503 | [210503-papas-scooperia.json](./210503-papas-scooperia.json) |
 | Papa's Sushiria | 101028 | [101028-papas-sushiria.json](./101028-papas-sushiria.json) |
 | Papa's Taco Mia HD | 87027 | [87027-papas-taco-mia-hd.json](./87027-papas-taco-mia-hd.json) |
+| Papa's Taco Mia To Go! | 345835 | [345835-papas-taco-mia-to-go.json](./345835-papas-taco-mia-to-go.json) |
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
+| Pocket Oracle | 345813 | [345813-pocket-oracle.json](./345813-pocket-oracle.json) |
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
 | Pocket Pack: Words & Numbers | 85346 | [85346-pocket-pack-words-and-numbers.json](./85346-pocket-pack-words-and-numbers.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
