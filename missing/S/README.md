@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
 | S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
+| S.A.M | 312951 | [312951-s-a-m.json](./312951-s-a-m.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
 | S.C.A: Sexually Customized Android in This Renewing World | 82800 | [82800-s-c-a-sexually-customized-android-in-this-renewing-world.json](./82800-s-c-a-sexually-customized-android-in-this-renewing-world.json) |
@@ -1449,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAR: Search and Rescue | 40187 | [40187-sar-search-and-rescue.json](./40187-sar-search-and-rescue.json) |
 | Sara is Missing | 25600 | [25600-sara-is-missing.json](./25600-sara-is-missing.json) |
 | Saraab | 386723 | [386723-saraab.json](./386723-saraab.json) |
+| Sarab 2: Thalj Mountains | 312992 | [312992-sarab-2-thalj-mountains.json](./312992-sarab-2-thalj-mountains.json) |
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
 | Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
@@ -2637,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapyard Robot Rampage | 115010 | [115010-scrapyard-robot-rampage.json](./115010-scrapyard-robot-rampage.json) |
 | Scrapyard Simulator | 157544 | [157544-scrapyard-simulator.json](./157544-scrapyard-simulator.json) |
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
+| Scrat's Cheestrings Meltdown | 312956 | [312956-scrats-cheestrings-meltdown.json](./312956-scrats-cheestrings-meltdown.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
 | Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
@@ -6927,6 +6930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek Kart | 395759 | [395759-shrek-kart.json](./395759-shrek-kart.json) |
 | Shrek Playtime is Ogre | 302687 | [302687-shrek-playtime-is-ogre.json](./302687-shrek-playtime-is-ogre.json) |
 | Shrek Playtime is Ogre 2 | 302685 | [302685-shrek-playtime-is-ogre-2.json](./302685-shrek-playtime-is-ogre-2.json) |
+| Shrek Shreds | 312954 | [312954-shrek-shreds.json](./312954-shrek-shreds.json) |
 | Shrek Smash n' Crash Racing | 248506 | [248506-shrek-smash-n-crash-racing.json](./248506-shrek-smash-n-crash-racing.json) |
 | Shrek Smash n' Crash Racing | 248507 | [248507-shrek-smash-n-crash-racing.json](./248507-shrek-smash-n-crash-racing.json) |
 | Shrek Smash n' Crash Racing | 248508 | [248508-shrek-smash-n-crash-racing.json](./248508-shrek-smash-n-crash-racing.json) |
@@ -17786,6 +17790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
 | Star Wars Galaxies: Trials of Obi-Wan | 206 | [206-star-wars-galaxies-trials-of-obi-wan.json](./206-star-wars-galaxies-trials-of-obi-wan.json) |
 | Star Wars Genesis | 400347 | [400347-star-wars-genesis.json](./400347-star-wars-genesis.json) |
+| Star Wars Jedi Cross-Gen Bundle Edition | 312974 | [312974-star-wars-jedi-cross-gen-bundle-edition.json](./312974-star-wars-jedi-cross-gen-bundle-edition.json) |
 | Star Wars Jedi: Survivor - Deluxe Edition | 227942 | [227942-star-wars-jedi-survivor-deluxe-edition.json](./227942-star-wars-jedi-survivor-deluxe-edition.json) |
 | Star Wars Math: Jabba's Game Galaxy | 73254 | [73254-star-wars-math-jabbas-game-galaxy.json](./73254-star-wars-math-jabbas-game-galaxy.json) |
 | Star Wars Mod: Galactic Warfare | 299135 | [299135-star-wars-mod-galactic-warfare.json](./299135-star-wars-mod-galactic-warfare.json) |
@@ -20143,6 +20148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Blade | 141505 | [141505-stray-blade.json](./141505-stray-blade.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
+| Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog: Nobody Cares | 414475 | [414475-stray-dog-nobody-cares.json](./414475-stray-dog-nobody-cares.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
@@ -23882,9 +23888,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
+| Super Smash Bros. for Nintendo 3DS: Peach's Castle | 312968 | [312968-super-smash-bros-for-nintendo-3ds-peachs-castle.json](./312968-super-smash-bros-for-nintendo-3ds-peachs-castle.json) |
 | Super Smash Bros. for Nintendo 3DS: Roy | 178314 | [178314-super-smash-bros-for-nintendo-3ds-roy.json](./178314-super-smash-bros-for-nintendo-3ds-roy.json) |
 | Super Smash Bros. for Nintendo 3DS: Ryu | 178316 | [178316-super-smash-bros-for-nintendo-3ds-ryu.json](./178316-super-smash-bros-for-nintendo-3ds-ryu.json) |
 | Super Smash Bros. for Nintendo 3DS: Stage Bundle | 325074 | [325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json](./325074-super-smash-bros-for-nintendo-3ds-stage-bundle.json) |
+| Super Smash Bros. for Nintendo 3DS: Super Mario Maker | 312965 | [312965-super-smash-bros-for-nintendo-3ds-super-mario-maker.json](./312965-super-smash-bros-for-nintendo-3ds-super-mario-maker.json) |
 | Super Smash Bros. for Nintendo 3DS: Temple | 342696 | [342696-super-smash-bros-for-nintendo-3ds-temple.json](./342696-super-smash-bros-for-nintendo-3ds-temple.json) |
 | Super Smash Bros. for Wii U: Ashley Hat + Ashley Outfit | 325072 | [325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json](./325072-super-smash-bros-for-wii-u-ashley-hat-ashley-outfit.json) |
 | Super Smash Bros. for Wii U: Bayonetta | 178320 | [178320-super-smash-bros-for-wii-u-bayonetta.json](./178320-super-smash-bros-for-wii-u-bayonetta.json) |
@@ -23893,8 +23901,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
+| Super Smash Bros. for Wii U: Peach's Castle | 312969 | [312969-super-smash-bros-for-wii-u-peachs-castle.json](./312969-super-smash-bros-for-wii-u-peachs-castle.json) |
 | Super Smash Bros. for Wii U: Ryu | 178315 | [178315-super-smash-bros-for-wii-u-ryu.json](./178315-super-smash-bros-for-wii-u-ryu.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
+| Super Smash Bros. for Wii U: Super Mario Maker | 312966 | [312966-super-smash-bros-for-wii-u-super-mario-maker.json](./312966-super-smash-bros-for-wii-u-super-mario-maker.json) |
 | Super Smash Bros. for Wii U: Wario's Shoulder Bash from Brawl | 343430 | [343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json](./343430-super-smash-bros-for-wii-u-warios-shoulder-bash-from-brawl.json) |
 | Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
 | Super Smash Bros. Melee; Marth with a Massive Sword | 342702 | [342702-super-smash-bros-melee-marth-with-a-massive-sword.json](./342702-super-smash-bros-melee-marth-with-a-massive-sword.json) |
