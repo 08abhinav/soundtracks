@@ -3097,6 +3097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
 | Orion's Odyssey | 85322 | [85322-orions-odyssey.json](./85322-orions-odyssey.json) |
+| Orion71 Shooter Mayhem Arena | 310838 | [310838-orion71-shooter-mayhem-arena.json](./310838-orion71-shooter-mayhem-arena.json) |
 | Orions: Legend of Wizards | 23269 | [23269-orions-legend-of-wizards.json](./23269-orions-legend-of-wizards.json) |
 | Oripathy | 267579 | [267579-oripathy.json](./267579-oripathy.json) |
 | Orisinal Collection | 397867 | [397867-orisinal-collection.json](./397867-orisinal-collection.json) |
@@ -4024,6 +4025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Hills and Far Away | 34615 | [34615-over-the-hills-and-far-away.json](./34615-over-the-hills-and-far-away.json) |
+| Over The Horizon | 310818 | [310818-over-the-horizon.json](./310818-over-the-horizon.json) |
 | Over the Moon | 184353 | [184353-over-the-moon.json](./184353-over-the-moon.json) |
 | Over the Moon | 352252 | [352252-over-the-moon.json](./352252-over-the-moon.json) |
 | Over the Net | 295907 | [295907-over-the-net.json](./295907-over-the-net.json) |
