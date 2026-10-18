@@ -2381,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Score of a Lifetime | 276744 | [276744-score-of-a-lifetime.json](./276744-score-of-a-lifetime.json) |
 | Score Rush | 76168 | [76168-score-rush.json](./76168-score-rush.json) |
 | Score Rush Extended | 19854 | [19854-score-rush-extended.json](./19854-score-rush-extended.json) |
+| Score the Fear | 353717 | [353717-score-the-fear.json](./353717-score-the-fear.json) |
 | Score! Hero | 15851 | [15851-score-hero.json](./15851-score-hero.json) |
 | Score! Hero 2 | 170254 | [170254-score-hero-2.json](./170254-score-hero-2.json) |
 | Score! Match | 91215 | [91215-score-match.json](./91215-score-match.json) |
@@ -2804,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Gaiden: Knight Gundam Monogatari - Ooinaru Isan | 65379 | [65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json](./65379-sd-gundam-gaiden-knight-gundam-monogatari-ooinaru-isan.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 2 - Hikari no Knight | 48854 | [48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json](./48854-sd-gundam-gaiden-knight-gundam-monogatari-2-hikari-no-knight.json) |
 | SD Gundam Gaiden: Knight Gundam Monogatari 3 - Densetsu no Kishi-dan | 48853 | [48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json](./48853-sd-gundam-gaiden-knight-gundam-monogatari-3-densetsu-no-kishi-dan.json) |
+| SD Gundam Gaiden: Lacroan' Heroes | 353628 | [353628-sd-gundam-gaiden-lacroan-heroes.json](./353628-sd-gundam-gaiden-lacroan-heroes.json) |
 | SD Gundam Gashapon Wars | 4098 | [4098-sd-gundam-gashapon-wars.json](./4098-sd-gundam-gashapon-wars.json) |
 | SD Gundam GX | 38323 | [38323-sd-gundam-gx.json](./38323-sd-gundam-gx.json) |
 | SD Gundam Neo Battling | 40411 | [40411-sd-gundam-neo-battling.json](./40411-sd-gundam-neo-battling.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
 | Seven Spirits | 224720 | [224720-seven-spirits.json](./224720-seven-spirits.json) |
+| Seven Squad | 353616 | [353616-seven-squad.json](./353616-seven-squad.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
 | Seven Stars 3D 2 | 381262 | [381262-seven-stars-3d-2.json](./381262-seven-stars-3d-2.json) |
 | Seven Suns of Orion | 418732 | [418732-seven-suns-of-orion.json](./418732-seven-suns-of-orion.json) |
@@ -12747,6 +12750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic The Hedgehog: EVO | 370484 | [370484-sonic-the-hedgehog-evo.json](./370484-sonic-the-hedgehog-evo.json) |
 | Sonic the Hedgehog: Genesis Blast! | 333672 | [333672-sonic-the-hedgehog-genesis-blast.json](./333672-sonic-the-hedgehog-genesis-blast.json) |
 | Sonic the Hedgehog: Hands of Time | 330707 | [330707-sonic-the-hedgehog-hands-of-time.json](./330707-sonic-the-hedgehog-hands-of-time.json) |
+| Sonic the Hedgehog: Legacy of Solaris | 353635 | [353635-sonic-the-hedgehog-legacy-of-solaris.json](./353635-sonic-the-hedgehog-legacy-of-solaris.json) |
 | Sonic the Hedgehog: Legend of the Blue Blur 2 | 326950 | [326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json](./326950-sonic-the-hedgehog-legend-of-the-blue-blur-2.json) |
 | Sonic the Hedgehog: Lost Future | 330530 | [330530-sonic-the-hedgehog-lost-future.json](./330530-sonic-the-hedgehog-lost-future.json) |
 | Sonic the Hedgehog: Mecha Madness | 326826 | [326826-sonic-the-hedgehog-mecha-madness.json](./326826-sonic-the-hedgehog-mecha-madness.json) |
@@ -19305,6 +19309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Cars Racing | 418317 | [418317-stock-cars-racing.json](./418317-stock-cars-racing.json) |
 | Stock Exchange Game | 363695 | [363695-stock-exchange-game.json](./363695-stock-exchange-game.json) |
 | Stock Exchange Kabutore Next | 76136 | [76136-stock-exchange-kabutore-next.json](./76136-stock-exchange-kabutore-next.json) |
+| Stock Fighter | 353645 | [353645-stock-fighter.json](./353645-stock-fighter.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
 | Stock Stack | 312205 | [312205-stock-stack.json](./312205-stock-stack.json) |
@@ -25732,7 +25737,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Retro Vapor Wave | 148309 | [148309-synth-retro-vapor-wave.json](./148309-synth-retro-vapor-wave.json) |
 | Synth Riders | 105333 | [105333-synth-riders.json](./105333-synth-riders.json) |
 | Synth Riders | 372492 | [372492-synth-riders.json](./372492-synth-riders.json) |
+| Synth Riders + Experiences | 353654 | [353654-synth-riders-experiences.json](./353654-synth-riders-experiences.json) |
 | Synth Riders: 80s Mixtape - Side A | 356903 | [356903-synth-riders-80s-mixtape-side-a.json](./356903-synth-riders-80s-mixtape-side-a.json) |
+| Synth Riders: 90s Rock Music Pack | 353648 | [353648-synth-riders-90s-rock-music-pack.json](./353648-synth-riders-90s-rock-music-pack.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
 | Synth Riders: Artemas - "I Like the Way You Kiss Me" | 354554 | [354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json](./354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
@@ -25741,6 +25748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Bruno Mars - "Runaway Baby" | 356079 | [356079-synth-riders-bruno-mars-runaway-baby.json](./356079-synth-riders-bruno-mars-runaway-baby.json) |
 | Synth Riders: Caravan Palace - "Lone Digger" | 356191 | [356191-synth-riders-caravan-palace-lone-digger.json](./356191-synth-riders-caravan-palace-lone-digger.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
+| Synth Riders: Caravan Palace - "Wonderland" | 353652 | [353652-synth-riders-caravan-palace-wonderland.json](./353652-synth-riders-caravan-palace-wonderland.json) |
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
 | Synth Riders: Charli xcx - "Apple" | 352399 | [352399-synth-riders-charli-xcx-apple.json](./352399-synth-riders-charli-xcx-apple.json) |
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401744 | [401744-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401744-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
@@ -25758,12 +25766,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: INXS - "New Sensation" | 298701 | [298701-synth-riders-inxs-new-sensation.json](./298701-synth-riders-inxs-new-sensation.json) |
 | Synth Riders: Jack Harlow - "Lovin On Me" | 354555 | [354555-synth-riders-jack-harlow-lovin-on-me.json](./354555-synth-riders-jack-harlow-lovin-on-me.json) |
 | Synth Riders: Jamie Berry - "Guilty Pleasure" | 288238 | [288238-synth-riders-jamie-berry-guilty-pleasure.json](./288238-synth-riders-jamie-berry-guilty-pleasure.json) |
+| Synth Riders: League of Legends - "Legends Never Die" | 353649 | [353649-synth-riders-league-of-legends-legends-never-die.json](./353649-synth-riders-league-of-legends-legends-never-die.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
+| Synth Riders: Lindsey Stirling - "Underground" | 353651 | [353651-synth-riders-lindsey-stirling-underground.json](./353651-synth-riders-lindsey-stirling-underground.json) |
 | Synth Riders: Monstercat Music Pack | 356831 | [356831-synth-riders-monstercat-music-pack.json](./356831-synth-riders-monstercat-music-pack.json) |
 | Synth Riders: Monstercat Music Pack | 382180 | [382180-synth-riders-monstercat-music-pack.json](./382180-synth-riders-monstercat-music-pack.json) |
+| Synth Riders: Muse - "Algorithm (Alternate Reality Version)" | 353653 | [353653-synth-riders-muse-algorithm-alternate-reality-version.json](./353653-synth-riders-muse-algorithm-alternate-reality-version.json) |
 | Synth Riders: Muse - "Pressure" | 356083 | [356083-synth-riders-muse-pressure.json](./356083-synth-riders-muse-pressure.json) |
 | Synth Riders: Muse - "Reapers" | 356174 | [356174-synth-riders-muse-reapers.json](./356174-synth-riders-muse-reapers.json) |
+| Synth Riders: Muse - "Starlight" | 353650 | [353650-synth-riders-muse-starlight.json](./353650-synth-riders-muse-starlight.json) |
 | Synth Riders: Muse - "Uprising" | 356176 | [356176-synth-riders-muse-uprising.json](./356176-synth-riders-muse-uprising.json) |
 | Synth Riders: Muse Music Pack & Experience | 356175 | [356175-synth-riders-muse-music-pack-and-experience.json](./356175-synth-riders-muse-music-pack-and-experience.json) |
 | Synth Riders: Nitro Fun - "New Game" | 356184 | [356184-synth-riders-nitro-fun-new-game.json](./356184-synth-riders-nitro-fun-new-game.json) |
@@ -25784,6 +25796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: The Electric Swing Circus - "Empires" | 356901 | [356901-synth-riders-the-electric-swing-circus-empires.json](./356901-synth-riders-the-electric-swing-circus-empires.json) |
 | Synth Riders: The Midnight - "Days of Thunder" | 356192 | [356192-synth-riders-the-midnight-days-of-thunder.json](./356192-synth-riders-the-midnight-days-of-thunder.json) |
 | Synth Riders: The Midnight - "Sunset" | 356081 | [356081-synth-riders-the-midnight-sunset.json](./356081-synth-riders-the-midnight-sunset.json) |
+| Synth Riders: The Presidents of the United States of America - "Lump" | 353647 | [353647-synth-riders-the-presidents-of-the-united-states-of-america-lump.json](./353647-synth-riders-the-presidents-of-the-united-states-of-america-lump.json) |
 | Synth Riders: The Smile - "Zero Sum" | 364552 | [364552-synth-riders-the-smile-zero-sum.json](./364552-synth-riders-the-smile-zero-sum.json) |
 | Synth Riders: Tokyo Machine - "Turbo" | 356171 | [356171-synth-riders-tokyo-machine-turbo.json](./356171-synth-riders-tokyo-machine-turbo.json) |
 | Synth Riders: Toto - "Africa" | 352395 | [352395-synth-riders-toto-africa.json](./352395-synth-riders-toto-africa.json) |
