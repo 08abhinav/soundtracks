@@ -3253,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of War | 18348 | [18348-age-of-war.json](./18348-age-of-war.json) |
 | Age of War 2 | 165304 | [165304-age-of-war-2.json](./165304-age-of-war-2.json) |
 | Age of Warbots | 345089 | [345089-age-of-warbots.json](./345089-age-of-warbots.json) |
+| Age Of Warring Empire | 317046 | [317046-age-of-warring-empire.json](./317046-age-of-warring-empire.json) |
 | Age of Warscape | 28209 | [28209-age-of-warscape.json](./28209-age-of-warscape.json) |
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
@@ -10069,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: World War - Final Front | 43948 | [43948-army-men-world-war-final-front.json](./43948-army-men-world-war-final-front.json) |
 | Army Men: World War - Land Sea Air | 45097 | [45097-army-men-world-war-land-sea-air.json](./45097-army-men-world-war-land-sea-air.json) |
 | Army Moves | 11916 | [11916-army-moves.json](./11916-army-moves.json) |
+| Army Moves Overdrive | 317069 | [317069-army-moves-overdrive.json](./317069-army-moves-overdrive.json) |
 | Army of Ages | 286651 | [286651-army-of-ages.json](./286651-army-of-ages.json) |
 | Army of Darkness Defense | 65853 | [65853-army-of-darkness-defense.json](./65853-army-of-darkness-defense.json) |
 | Army of Darkness Doom 2 Total Conversion | 381149 | [381149-army-of-darkness-doom-2-total-conversion.json](./381149-army-of-darkness-doom-2-total-conversion.json) |
@@ -11318,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
+| Astranded | 317045 | [317045-astranded.json](./317045-astranded.json) |
 | Astranded | 379990 | [379990-astranded.json](./379990-astranded.json) |
 | Astraware Casino | 206235 | [206235-astraware-casino.json](./206235-astraware-casino.json) |
 | AstraX | 201512 | [201512-astrax.json](./201512-astrax.json) |
@@ -12260,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aum the Game | 369118 | [369118-aum-the-game.json](./369118-aum-the-game.json) |
 | Aunewyth | 231311 | [231311-aunewyth.json](./231311-aunewyth.json) |
 | Aunt Arctic Adventure | 14275 | [14275-aunt-arctic-adventure.json](./14275-aunt-arctic-adventure.json) |
+| Aunt Emily | 317070 | [317070-aunt-emily.json](./317070-aunt-emily.json) |
 | Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
 | Aunt Flora's Mansion | 208261 | [208261-aunt-floras-mansion.json](./208261-aunt-floras-mansion.json) |
 | Aunt Velma Is Coming to Tea | 58858 | [58858-aunt-velma-is-coming-to-tea.json](./58858-aunt-velma-is-coming-to-tea.json) |
@@ -12288,6 +12292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Auris | 421353 | [421353-auris.json](./421353-auris.json) |
+| Aurium 2 | 317062 | [317062-aurium-2.json](./317062-aurium-2.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 171522 | [171522-aurora.json](./171522-aurora.json) |
@@ -12307,6 +12312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
+| Aurora: El Destino de los Mundos | 317071 | [317071-aurora-el-destino-de-los-mundos.json](./317071-aurora-el-destino-de-los-mundos.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
 | Aurora: Oasis Adventure | 355963 | [355963-aurora-oasis-adventure.json](./355963-aurora-oasis-adventure.json) |
@@ -12378,6 +12384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
 | Auto Modellista | 3791 | [3791-auto-modellista.json](./3791-auto-modellista.json) |
 | Auto Museum 64 | 182903 | [182903-auto-museum-64.json](./182903-auto-museum-64.json) |
+| Auto Pirates: Captains Cup | 317057 | [317057-auto-pirates-captains-cup.json](./317057-auto-pirates-captains-cup.json) |
 | Auto Puzzle Defense | 182292 | [182292-auto-puzzle-defense.json](./182292-auto-puzzle-defense.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
