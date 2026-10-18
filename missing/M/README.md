@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Hoof | 386556 | [386556-major-hoof.json](./386556-major-hoof.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
+| Major League Baseball | 347008 | [347008-major-league-baseball.json](./347008-major-league-baseball.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Defenders | 10545 | [10545-medieval-defenders.json](./10545-medieval-defenders.json) |
 | Medieval Defenders HD | 175286 | [175286-medieval-defenders-hd.json](./175286-medieval-defenders-hd.json) |
 | Medieval Defenders Saga | 99143 | [99143-medieval-defenders-saga.json](./99143-medieval-defenders-saga.json) |
+| Medieval Defense Z | 346904 | [346904-medieval-defense-z.json](./346904-medieval-defense-z.json) |
 | Medieval Delivery | 263519 | [263519-medieval-delivery.json](./263519-medieval-delivery.json) |
 | Medieval Dungeon | 230952 | [230952-medieval-dungeon.json](./230952-medieval-dungeon.json) |
 | Medieval Dynasty: Echoes of Nature | 366852 | [366852-medieval-dynasty-echoes-of-nature.json](./366852-medieval-dynasty-echoes-of-nature.json) |
@@ -7646,6 +7648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microdoctor | 50363 | [50363-microdoctor.json](./50363-microdoctor.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
+| Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
@@ -8672,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
 | Mind the Clown | 349094 | [349094-mind-the-clown.json](./349094-mind-the-clown.json) |
+| Mind the Dragon | 347011 | [347011-mind-the-dragon.json](./347011-mind-the-dragon.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
@@ -10745,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mombo Combo Legacy | 326858 | [326858-mombo-combo-legacy.json](./326858-mombo-combo-legacy.json) |
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
+| Momenta | 346906 | [346906-momenta.json](./346906-momenta.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Isles | 385393 | [385393-momento-isles.json](./385393-momento-isles.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
@@ -14103,6 +14108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music On: Retro Keyboard | 85301 | [85301-music-on-retro-keyboard.json](./85301-music-on-retro-keyboard.json) |
 | Music Piano 7 | 352191 | [352191-music-piano-7.json](./352191-music-piano-7.json) |
 | Music Producer | 101403 | [101403-music-producer.json](./101403-music-producer.json) |
+| Music Producer Tycoon | 346908 | [346908-music-producer-tycoon.json](./346908-music-producer-tycoon.json) |
 | Music Puzzle | 256543 | [256543-music-puzzle.json](./256543-music-puzzle.json) |
 | Music Quiz | 131282 | [131282-music-quiz.json](./131282-music-quiz.json) |
 | Music Quiz | 210110 | [210110-music-quiz.json](./210110-music-quiz.json) |
@@ -14650,6 +14656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
+| My Friend was Dehydrated | 347001 | [347001-my-friend-was-dehydrated.json](./347001-my-friend-was-dehydrated.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
 | My Friendly Little Island Deluxe | 415395 | [415395-my-friendly-little-island-deluxe.json](./415395-my-friendly-little-island-deluxe.json) |
