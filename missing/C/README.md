@@ -8717,6 +8717,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 4: Steampunk | 199609 | [199609-coloring-game-4-steampunk.json](./199609-coloring-game-4-steampunk.json) |
 | Coloring Game 4: Summer | 192187 | [192187-coloring-game-4-summer.json](./192187-coloring-game-4-summer.json) |
 | Coloring Game 4: Winter | 192189 | [192189-coloring-game-4-winter.json](./192189-coloring-game-4-winter.json) |
+| Coloring Game 5 | 321849 | [321849-coloring-game-5.json](./321849-coloring-game-5.json) |
+| Coloring Game 5.1 | 321850 | [321850-coloring-game-5-1.json](./321850-coloring-game-5-1.json) |
 | Coloring Game 5.2 | 329625 | [329625-coloring-game-5-2.json](./329625-coloring-game-5-2.json) |
 | Coloring Game 5.3 | 329626 | [329626-coloring-game-5-3.json](./329626-coloring-game-5-3.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
