@@ -6955,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlapRacer | 71507 | [71507-blapracer.json](./71507-blapracer.json) |
 | Blargle and the Quest for the Nothing Burger | 415208 | [415208-blargle-and-the-quest-for-the-nothing-burger.json](./415208-blargle-and-the-quest-for-the-nothing-burger.json) |
 | Blaseball | 136475 | [136475-blaseball.json](./136475-blaseball.json) |
+| Blasfemia | 343698 | [343698-blasfemia.json](./343698-blasfemia.json) |
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Complete Sacrament Edition | 402946 | [402946-blasphemous-2-complete-sacrament-edition.json](./402946-blasphemous-2-complete-sacrament-edition.json) |
