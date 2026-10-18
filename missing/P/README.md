@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World 2 | 4063 | [4063-pac-man-world-2.json](./4063-pac-man-world-2.json) |
 | Pac-Man World 2 Re-Pac | 358530 | [358530-pac-man-world-2-re-pac.json](./358530-pac-man-world-2-re-pac.json) |
 | Pac-Man World 2 Re-Pac x Sonic the Hedgehog | 361843 | [361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json](./361843-pac-man-world-2-re-pac-x-sonic-the-hedgehog.json) |
+| Pac-Man World 2 Re-Pac: Deluxe Edition | 358662 | [358662-pac-man-world-2-re-pac-deluxe-edition.json](./358662-pac-man-world-2-re-pac-deluxe-edition.json) |
 | Pac-Man World 3 | 243196 | [243196-pac-man-world-3.json](./243196-pac-man-world-3.json) |
 | Pac-Man World 3 | 243197 | [243197-pac-man-world-3.json](./243197-pac-man-world-3.json) |
 | Pac-Man World 3 | 4064 | [4064-pac-man-world-3.json](./4064-pac-man-world-3.json) |
@@ -4463,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Pictura | 164072 | [164072-pictura.json](./164072-pictura.json) |
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
+| Picture Challenge | 358733 | [358733-picture-challenge.json](./358733-picture-challenge.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
 | Picture Hunt | 401273 | [401273-picture-hunt.json](./401273-picture-hunt.json) |
@@ -5148,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pine Hearts | 204528 | [204528-pine-hearts.json](./204528-pine-hearts.json) |
 | Pine Racer | 244808 | [244808-pine-racer.json](./244808-pine-racer.json) |
 | Pine: A Story of Loss | 300365 | [300365-pine-a-story-of-loss.json](./300365-pine-a-story-of-loss.json) |
+| Pine: Segment_01 | 358642 | [358642-pine-segment-01.json](./358642-pine-segment-01.json) |
 | Pineapple | 311242 | [311242-pineapple.json](./311242-pineapple.json) |
 | Pineapple 2000 | 277487 | [277487-pineapple-2000.json](./277487-pineapple-2000.json) |
 | Pineapple Arcade | 109542 | [109542-pineapple-arcade.json](./109542-pineapple-arcade.json) |
@@ -5160,6 +5163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
 | Pinecone Grove | 420513 | [420513-pinecone-grove.json](./420513-pinecone-grove.json) |
+| Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
 | Pineview Drive: Homeless | 116487 | [116487-pineview-drive-homeless.json](./116487-pineview-drive-homeless.json) |
 | Pineview Drive: Rising Storm | 234706 | [234706-pineview-drive-rising-storm.json](./234706-pineview-drive-rising-storm.json) |
@@ -5711,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cafe: Definitive Edition | 400200 | [400200-pixel-cafe-definitive-edition.json](./400200-pixel-cafe-definitive-edition.json) |
 | Pixel Cafe: Discovery Edition | 395682 | [395682-pixel-cafe-discovery-edition.json](./395682-pixel-cafe-discovery-edition.json) |
 | Pixel Cafe: Elite Edition | 397891 | [397891-pixel-cafe-elite-edition.json](./397891-pixel-cafe-elite-edition.json) |
+| Pixel Cafe: Full Edition | 358663 | [358663-pixel-cafe-full-edition.json](./358663-pixel-cafe-full-edition.json) |
 | Pixel Car Racer | 56154 | [56154-pixel-car-racer.json](./56154-pixel-car-racer.json) |
 | Pixel Card Crawl | 180120 | [180120-pixel-card-crawl.json](./180120-pixel-card-crawl.json) |
 | Pixel Cat's End | 225691 | [225691-pixel-cats-end.json](./225691-pixel-cats-end.json) |
