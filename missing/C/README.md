@@ -5084,6 +5084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Shoot 2 | 49307 | [49307-chicken-shoot-2.json](./49307-chicken-shoot-2.json) |
 | Chicken Shoot Gold | 27706 | [27706-chicken-shoot-gold.json](./27706-chicken-shoot-gold.json) |
 | Chicken Smoothie | 225707 | [225707-chicken-smoothie.json](./225707-chicken-smoothie.json) |
+| Chicken Strike: Cluck Ops | 314120 | [314120-chicken-strike-cluck-ops.json](./314120-chicken-strike-cluck-ops.json) |
 | Chicken Tale | 288792 | [288792-chicken-tale.json](./288792-chicken-tale.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken Utopia | 163022 | [163022-chicken-utopia.json](./163022-chicken-utopia.json) |
