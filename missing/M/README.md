@@ -5079,6 +5079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Lands | 412430 | [412430-medieval-lands.json](./412430-medieval-lands.json) |
 | Medieval Legacy | 333011 | [333011-medieval-legacy.json](./333011-medieval-legacy.json) |
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
+| Medieval Life | 352555 | [352555-medieval-life.json](./352555-medieval-life.json) |
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
@@ -5565,6 +5566,39 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Zero | 1775 | [1775-mega-man-zero.json](./1775-mega-man-zero.json) |
 | Mega Man Zero 3 | 1777 | [1777-mega-man-zero-3.json](./1777-mega-man-zero-3.json) |
 | Mega Man Zero 3 | 351805 | [351805-mega-man-zero-3.json](./351805-mega-man-zero-3.json) |
+| Mega Man Zero 3: Modification Card - Alouette | 352533 | [352533-mega-man-zero-3-modification-card-alouette.json](./352533-mega-man-zero-3-modification-card-alouette.json) |
+| Mega Man Zero 3: Modification Card - Anubis Necromancess the Third | 352540 | [352540-mega-man-zero-3-modification-card-anubis-necromancess-the-third.json](./352540-mega-man-zero-3-modification-card-anubis-necromancess-the-third.json) |
+| Mega Man Zero 3: Modification Card - Asura Basura | 352545 | [352545-mega-man-zero-3-modification-card-asura-basura.json](./352545-mega-man-zero-3-modification-card-asura-basura.json) |
+| Mega Man Zero 3: Modification Card - Autruche | 352607 | [352607-mega-man-zero-3-modification-card-autruche.json](./352607-mega-man-zero-3-modification-card-autruche.json) |
+| Mega Man Zero 3: Modification Card - Aztec Falcon | 352532 | [352532-mega-man-zero-3-modification-card-aztec-falcon.json](./352532-mega-man-zero-3-modification-card-aztec-falcon.json) |
+| Mega Man Zero 3: Modification Card - Blizzack Stagroff | 352543 | [352543-mega-man-zero-3-modification-card-blizzack-stagroff.json](./352543-mega-man-zero-3-modification-card-blizzack-stagroff.json) |
+| Mega Man Zero 3: Modification Card - Cerveau | 352529 | [352529-mega-man-zero-3-modification-card-cerveau.json](./352529-mega-man-zero-3-modification-card-cerveau.json) |
+| Mega Man Zero 3: Modification Card - Ciel | 352525 | [352525-mega-man-zero-3-modification-card-ciel.json](./352525-mega-man-zero-3-modification-card-ciel.json) |
+| Mega Man Zero 3: Modification Card - Ciel (080) | 352611 | [352611-mega-man-zero-3-modification-card-ciel-080.json](./352611-mega-man-zero-3-modification-card-ciel-080.json) |
+| Mega Man Zero 3: Modification Card - Copy X (1st Form: Combat Mode) | 352550 | [352550-mega-man-zero-3-modification-card-copy-x-1st-form-combat-mode.json](./352550-mega-man-zero-3-modification-card-copy-x-1st-form-combat-mode.json) |
+| Mega Man Zero 3: Modification Card - Copy X (2nd Form) | 352551 | [352551-mega-man-zero-3-modification-card-copy-x-2nd-form.json](./352551-mega-man-zero-3-modification-card-copy-x-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Elpizo (Typical) | 352554 | [352554-mega-man-zero-3-modification-card-elpizo-typical.json](./352554-mega-man-zero-3-modification-card-elpizo-typical.json) |
+| Mega Man Zero 3: Modification Card - Fairy Leviathan | 352535 | [352535-mega-man-zero-3-modification-card-fairy-leviathan.json](./352535-mega-man-zero-3-modification-card-fairy-leviathan.json) |
+| Mega Man Zero 3: Modification Card - Fighting Fefnir | 352553 | [352553-mega-man-zero-3-modification-card-fighting-fefnir.json](./352553-mega-man-zero-3-modification-card-fighting-fefnir.json) |
+| Mega Man Zero 3: Modification Card - Golem | 352526 | [352526-mega-man-zero-3-modification-card-golem.json](./352526-mega-man-zero-3-modification-card-golem.json) |
+| Mega Man Zero 3: Modification Card - Guard Orotic | 352537 | [352537-mega-man-zero-3-modification-card-guard-orotic.json](./352537-mega-man-zero-3-modification-card-guard-orotic.json) |
+| Mega Man Zero 3: Modification Card - Hanumachine | 352544 | [352544-mega-man-zero-3-modification-card-hanumachine.json](./352544-mega-man-zero-3-modification-card-hanumachine.json) |
+| Mega Man Zero 3: Modification Card - Herculius Anchus | 352531 | [352531-mega-man-zero-3-modification-card-herculius-anchus.json](./352531-mega-man-zero-3-modification-card-herculius-anchus.json) |
+| Mega Man Zero 3: Modification Card - Hibou | 352538 | [352538-mega-man-zero-3-modification-card-hibou.json](./352538-mega-man-zero-3-modification-card-hibou.json) |
+| Mega Man Zero 3: Modification Card - Hidden Phantom | 352548 | [352548-mega-man-zero-3-modification-card-hidden-phantom.json](./352548-mega-man-zero-3-modification-card-hidden-phantom.json) |
+| Mega Man Zero 3: Modification Card - Hittite Hottide | 352542 | [352542-mega-man-zero-3-modification-card-hittite-hottide.json](./352542-mega-man-zero-3-modification-card-hittite-hottide.json) |
+| Mega Man Zero 3: Modification Card - Jackson (Rare Elf) | 352552 | [352552-mega-man-zero-3-modification-card-jackson-rare-elf.json](./352552-mega-man-zero-3-modification-card-jackson-rare-elf.json) |
+| Mega Man Zero 3: Modification Card - Mappie (Nurse Elf) | 352556 | [352556-mega-man-zero-3-modification-card-mappie-nurse-elf.json](./352556-mega-man-zero-3-modification-card-mappie-nurse-elf.json) |
+| Mega Man Zero 3: Modification Card - Mott (Nurse Elf) | 352608 | [352608-mega-man-zero-3-modification-card-mott-nurse-elf.json](./352608-mega-man-zero-3-modification-card-mott-nurse-elf.json) |
+| Mega Man Zero 3: Modification Card - Omega (2nd Form) | 352609 | [352609-mega-man-zero-3-modification-card-omega-2nd-form.json](./352609-mega-man-zero-3-modification-card-omega-2nd-form.json) |
+| Mega Man Zero 3: Modification Card - Pantheon Core | 352534 | [352534-mega-man-zero-3-modification-card-pantheon-core.json](./352534-mega-man-zero-3-modification-card-pantheon-core.json) |
+| Mega Man Zero 3: Modification Card - Rainbow Devil | 352547 | [352547-mega-man-zero-3-modification-card-rainbow-devil.json](./352547-mega-man-zero-3-modification-card-rainbow-devil.json) |
+| Mega Man Zero 3: Modification Card - Totten (Hacker Elf) | 352536 | [352536-mega-man-zero-3-modification-card-totten-hacker-elf.json](./352536-mega-man-zero-3-modification-card-totten-hacker-elf.json) |
+| Mega Man Zero 3: Modification Card - Winkie (Nurse Elf) | 352528 | [352528-mega-man-zero-3-modification-card-winkie-nurse-elf.json](./352528-mega-man-zero-3-modification-card-winkie-nurse-elf.json) |
+| Mega Man Zero 3: Modification Card - X (Cyber-elf) | 352527 | [352527-mega-man-zero-3-modification-card-x-cyber-elf.json](./352527-mega-man-zero-3-modification-card-x-cyber-elf.json) |
+| Mega Man Zero 3: Modification Card - Zero | 352610 | [352610-mega-man-zero-3-modification-card-zero.json](./352610-mega-man-zero-3-modification-card-zero.json) |
+| Mega Man Zero 3: Modification Card - Zero (Triple Rod) | 352539 | [352539-mega-man-zero-3-modification-card-zero-triple-rod.json](./352539-mega-man-zero-3-modification-card-zero-triple-rod.json) |
+| Mega Man Zero 3: Modification Card - Zero (Z Saber) | 352524 | [352524-mega-man-zero-3-modification-card-zero-z-saber.json](./352524-mega-man-zero-3-modification-card-zero-z-saber.json) |
 | Mega Man Zero 4 | 1778 | [1778-mega-man-zero-4.json](./1778-mega-man-zero-4.json) |
 | Mega Man Zero Collection | 24355 | [24355-mega-man-zero-collection.json](./24355-mega-man-zero-collection.json) |
 | Mega Man Zero Online | 218060 | [218060-mega-man-zero-online.json](./218060-mega-man-zero-online.json) |
@@ -14800,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
 | My Little Universe: Xmas Character Pack | 285129 | [285129-my-little-universe-xmas-character-pack.json](./285129-my-little-universe-xmas-character-pack.json) |
+| My Little Work: Garage | 352516 | [352516-my-little-work-garage.json](./352516-my-little-work-garage.json) |
 | My Little Work: Garage | 89180 | [89180-my-little-work-garage.json](./89180-my-little-work-garage.json) |
 | My Little World | 191524 | [191524-my-little-world.json](./191524-my-little-world.json) |
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
