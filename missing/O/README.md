@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Try Tower | 150623 | [150623-one-try-tower.json](./150623-one-try-tower.json) |
 | One Try, One Kill | 151121 | [151121-one-try-one-kill.json](./151121-one-try-one-kill.json) |
 | One Turkey, Two Turkeys | 332244 | [332244-one-turkey-two-turkeys.json](./332244-one-turkey-two-turkeys.json) |
+| One Turn Kill | 320604 | [320604-one-turn-kill.json](./320604-one-turn-kill.json) |
 | One Two Boat Racing | 209407 | [209407-one-two-boat-racing.json](./209407-one-two-boat-racing.json) |
 | One Upon Light | 13551 | [13551-one-upon-light.json](./13551-one-upon-light.json) |
 | One Vacancy | 184039 | [184039-one-vacancy.json](./184039-one-vacancy.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Owner | 295528 | [295528-owner.json](./295528-owner.json) |
 | OwnRulesRPG | 259845 | [259845-ownrulesrpg.json](./259845-ownrulesrpg.json) |
 | OwnTrio: Adventure | 292439 | [292439-owntrio-adventure.json](./292439-owntrio-adventure.json) |
+| Owold | 320618 | [320618-owold.json](./320618-owold.json) |
 | Owyn's Adventure | 116482 | [116482-owyns-adventure.json](./116482-owyns-adventure.json) |
 | Owys | 34642 | [34642-owys.json](./34642-owys.json) |
 | Oxenfree: Collector's Edition | 51536 | [51536-oxenfree-collectors-edition.json](./51536-oxenfree-collectors-edition.json) |
