@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikusa Megami | 208288 | [208288-ikusa-megami.json](./208288-ikusa-megami.json) |
 | Ikusa Megami 2: Ushinawareshi Kioku he no Chinkonka | 208285 | [208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json](./208285-ikusa-megami-2-ushinawareshi-kioku-he-no-chinkonka.json) |
 | Ikusa Megami Verita | 208286 | [208286-ikusa-megami-verita.json](./208286-ikusa-megami-verita.json) |
+| Ikusa Miko: Vestal Virgin | 311342 | [311342-ikusa-miko-vestal-virgin.json](./311342-ikusa-miko-vestal-virgin.json) |
 | Ikusaaaaaaan! | 151697 | [151697-ikusaaaaaaan.json](./151697-ikusaaaaaaan.json) |
 | Ikuzo | 253923 | [253923-ikuzo.json](./253923-ikuzo.json) |
 | Il | 159732 | [159732-il.json](./159732-il.json) |
