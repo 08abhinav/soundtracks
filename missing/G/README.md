@@ -4687,6 +4687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
+| Golden Ticket Simulator | 312439 | [312439-golden-ticket-simulator.json](./312439-golden-ticket-simulator.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails: The New Western Rush | 54056 | [54056-golden-trails-the-new-western-rush.json](./54056-golden-trails-the-new-western-rush.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
+| Grand Piano Simulator | 312440 | [312440-grand-piano-simulator.json](./312440-grand-piano-simulator.json) |
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
@@ -8250,6 +8252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Rat Simulator | 410888 | [410888-gym-rat-simulator.json](./410888-gym-rat-simulator.json) |
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
+| Gym Simulator Ultimate | 312441 | [312441-gym-simulator-ultimate.json](./312441-gym-simulator-ultimate.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
 | Gymnastics Queen | 96606 | [96606-gymnastics-queen.json](./96606-gymnastics-queen.json) |
