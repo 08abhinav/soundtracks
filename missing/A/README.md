@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrift in Turbulent Waters | 201650 | [201650-adrift-in-turbulent-waters.json](./201650-adrift-in-turbulent-waters.json) |
 | Adrift Program | 269048 | [269048-adrift-program.json](./269048-adrift-program.json) |
 | ADRPAN | 143414 | [143414-adrpan.json](./143414-adrpan.json) |
+| Adspectabilis | 332797 | [332797-adspectabilis.json](./332797-adspectabilis.json) |
 | ADsteroids | 108984 | [108984-adsteroids.json](./108984-adsteroids.json) |
 | Aduk: Curse of the Spirits | 379478 | [379478-aduk-curse-of-the-spirits.json](./379478-aduk-curse-of-the-spirits.json) |
 | Adult Film Cameraman | 85954 | [85954-adult-film-cameraman.json](./85954-adult-film-cameraman.json) |
@@ -3079,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
+| Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
@@ -12584,6 +12586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avem888 | 105751 | [105751-avem888.json](./105751-avem888.json) |
 | Avem888 VR | 105128 | [105128-avem888-vr.json](./105128-avem888-vr.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
+| Avenge Myself | 332893 | [332893-avenge-myself.json](./332893-avenge-myself.json) |
 | Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
 | Avenger | 280325 | [280325-avenger.json](./280325-avenger.json) |
