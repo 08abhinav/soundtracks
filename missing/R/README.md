@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravaged | 3268 | [3268-ravaged.json](./3268-ravaged.json) |
 | Ravaged: Zombie Apocalypse | 10752 | [10752-ravaged-zombie-apocalypse.json](./10752-ravaged-zombie-apocalypse.json) |
 | Ravager | 55676 | [55676-ravager.json](./55676-ravager.json) |
+| Ravager: Moon-friendly Edition | 360450 | [360450-ravager-moon-friendly-edition.json](./360450-ravager-moon-friendly-edition.json) |
 | Rave Gazebo | 275723 | [275723-rave-gazebo.json](./275723-rave-gazebo.json) |
 | Rave Heart | 143421 | [143421-rave-heart.json](./143421-rave-heart.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
