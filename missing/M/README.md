@@ -1803,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
+| Make it! Okonomiyaki | 336404 | [336404-make-it-okonomiyaki.json](./336404-make-it-okonomiyaki.json) |
 | Make it! Pancakes | 364080 | [364080-make-it-pancakes.json](./364080-make-it-pancakes.json) |
 | Make it! Shaved Ice | 409545 | [409545-make-it-shaved-ice.json](./409545-make-it-shaved-ice.json) |
 | Make it! Sushi | 347327 | [347327-make-it-sushi.json](./347327-make-it-sushi.json) |
@@ -8718,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindbuster | 90925 | [90925-mindbuster.json](./90925-mindbuster.json) |
+| MindCelium | 336329 | [336329-mindcelium.json](./336329-mindcelium.json) |
 | Mindcell | 166159 | [166159-mindcell.json](./166159-mindcell.json) |
 | Mindcircus | 275644 | [275644-mindcircus.json](./275644-mindcircus.json) |
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
