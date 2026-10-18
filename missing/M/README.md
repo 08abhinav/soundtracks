@@ -2223,6 +2223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manic: Unknown World | 394758 | [394758-manic-unknown-world.json](./394758-manic-unknown-world.json) |
+| Manicos Haunted Hotel | 337508 | [337508-manicos-haunted-hotel.json](./337508-manicos-haunted-hotel.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
 | Manifest | 215923 | [215923-manifest.json](./215923-manifest.json) |
