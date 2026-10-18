@@ -5655,6 +5655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374989 | [374989-pit-fighter.json](./374989-pit-fighter.json) |
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pit-Fighter/Super Space Invaders | 78567 | [78567-pit-fighter-super-space-invaders.json](./78567-pit-fighter-super-space-invaders.json) |
+| Pit: The Bite-Sized Shooter | 331721 | [331721-pit-the-bite-sized-shooter.json](./331721-pit-the-bite-sized-shooter.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
@@ -8787,6 +8788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
+| Polygon Wars | 331730 | [331730-polygon-wars.json](./331730-polygon-wars.json) |
 | Polygonal Passage | 298103 | [298103-polygonal-passage.json](./298103-polygonal-passage.json) |
 | Polygonauts | 25785 | [25785-polygonauts.json](./25785-polygonauts.json) |
 | Polygone | 108044 | [108044-polygone.json](./108044-polygone.json) |
