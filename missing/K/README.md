@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro Clover Part2 | 142151 | [142151-kokoro-clover-part2.json](./142151-kokoro-clover-part2.json) |
 | Kokoro Clover Season 1 | 204950 | [204950-kokoro-clover-season-1.json](./204950-kokoro-clover-season-1.json) |
 | Kokoro Connect: Yochi Random | 112296 | [112296-kokoro-connect-yochi-random.json](./112296-kokoro-connect-yochi-random.json) |
+| Kokoro Kitchen | 334463 | [334463-kokoro-kitchen.json](./334463-kokoro-kitchen.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
 | Kokoro no Pro | 266870 | [266870-kokoro-no-pro.json](./266870-kokoro-no-pro.json) |
 | Kokoro Talkers | 325446 | [325446-kokoro-talkers.json](./325446-kokoro-talkers.json) |
@@ -4489,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutha Stroom Rush | 337511 | [337511-kutha-stroom-rush.json](./337511-kutha-stroom-rush.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
+| Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
 | Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
 | Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
