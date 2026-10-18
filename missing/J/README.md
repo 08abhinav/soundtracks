@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juice Galaxy | 142940 | [142940-juice-galaxy.json](./142940-juice-galaxy.json) |
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
 | Juiced | 5870 | [5870-juiced.json](./5870-juiced.json) |
+| Juiced 2: Hot Import Nights | 328308 | [328308-juiced-2-hot-import-nights.json](./328308-juiced-2-hot-import-nights.json) |
 | Juiced 2: Hot Import Nights | 380445 | [380445-juiced-2-hot-import-nights.json](./380445-juiced-2-hot-import-nights.json) |
 | Juiced 2: Hot Import Nights | 7024 | [7024-juiced-2-hot-import-nights.json](./7024-juiced-2-hot-import-nights.json) |
 | Juiced Fruit Racing | 369719 | [369719-juiced-fruit-racing.json](./369719-juiced-fruit-racing.json) |
