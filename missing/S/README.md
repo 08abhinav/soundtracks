@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sally Face 2 | 413934 | [413934-sally-face-2.json](./413934-sally-face-2.json) |
 | Sally.EXE: Discovery | 317358 | [317358-sally-exe-discovery.json](./317358-sally-exe-discovery.json) |
 | Sally's Salon | 24328 | [24328-sallys-salon.json](./24328-sallys-salon.json) |
+| Sally's Salon | 315369 | [315369-sallys-salon.json](./315369-sallys-salon.json) |
 | Sally's Salon: Kiss & Make-Up | 103439 | [103439-sallys-salon-kiss-and-make-up.json](./103439-sallys-salon-kiss-and-make-up.json) |
 | Sally's Salon: Kiss & Make-Up 💋 | 104453 | [104453-sallys-salon-kiss-and-make-up.json](./104453-sallys-salon-kiss-and-make-up.json) |
 | Sally's Spa | 67966 | [67966-sallys-spa.json](./67966-sallys-spa.json) |
@@ -10407,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile Guide: The Apple Escape | 56136 | [56136-smile-guide-the-apple-escape.json](./56136-smile-guide-the-apple-escape.json) |
 | Smile Inc. | 25178 | [25178-smile-inc.json](./25178-smile-inc.json) |
 | Smile More | 395023 | [395023-smile-more.json](./395023-smile-more.json) |
+| Smile Pinball | 315327 | [315327-smile-pinball.json](./315327-smile-pinball.json) |
 | Smile Poker | 131315 | [131315-smile-poker.json](./131315-smile-poker.json) |
 | Smile Simulation | 303078 | [303078-smile-simulation.json](./303078-smile-simulation.json) |
 | Smile Thief | 328337 | [328337-smile-thief.json](./328337-smile-thief.json) |
@@ -17979,6 +17981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starball | 85988 | [85988-starball.json](./85988-starball.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
+| StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
 | Starbear: Taxi | 100415 | [100415-starbear-taxi.json](./100415-starbear-taxi.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
@@ -24434,6 +24437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulation Grocery Empire 3D | 305561 | [305561-supermarket-simulation-grocery-empire-3d.json](./305561-supermarket-simulation-grocery-empire-3d.json) |
 | Supermarket Simulator | 128917 | [128917-supermarket-simulator.json](./128917-supermarket-simulator.json) |
 | Supermarket Simulator | 274920 | [274920-supermarket-simulator.json](./274920-supermarket-simulator.json) |
+| Supermarket Simulator 2024 | 315320 | [315320-supermarket-simulator-2024.json](./315320-supermarket-simulator-2024.json) |
 | Supermarket Simulator 2025 | 337980 | [337980-supermarket-simulator-2025.json](./337980-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2025 | 345970 | [345970-supermarket-simulator-2025.json](./345970-supermarket-simulator-2025.json) |
 | Supermarket Simulator 2026 | 378772 | [378772-supermarket-simulator-2026.json](./378772-supermarket-simulator-2026.json) |
