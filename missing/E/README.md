@@ -2858,6 +2858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enforced Entropy | 299855 | [299855-enforced-entropy.json](./299855-enforced-entropy.json) |
 | Enforcer: Fullmetal Megablaster | 73199 | [73199-enforcer-fullmetal-megablaster.json](./73199-enforcer-fullmetal-megablaster.json) |
 | Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
+| Enforcers Revolt | 335136 | [335136-enforcers-revolt.json](./335136-enforcers-revolt.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage Links | 92422 | [92422-engage-links.json](./92422-engage-links.json) |
@@ -5537,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
 | Exorzine | 194651 | [194651-exorzine.json](./194651-exorzine.json) |
 | Exos Heroes | 122242 | [122242-exos-heroes.json](./122242-exos-heroes.json) |
+| Exoshock | 335129 | [335129-exoshock.json](./335129-exoshock.json) |
 | Exosky | 287187 | [287187-exosky.json](./287187-exosky.json) |
 | ExoSoul | 257974 | [257974-exosoul.json](./257974-exosoul.json) |
 | ExoSphere | 57048 | [57048-exosphere.json](./57048-exosphere.json) |
