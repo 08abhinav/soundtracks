@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Collector's Edition | 284360 | [284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json](./284360-s-t-a-l-k-e-r-2-heart-of-chornobyl-collectors-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Deluxe Edition | 169175 | [169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json](./169175-s-t-a-l-k-e-r-2-heart-of-chornobyl-deluxe-edition.json) |
 | S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition | 169174 | [169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json](./169174-s-t-a-l-k-e-r-2-heart-of-chornobyl-ultimate-edition.json) |
+| S.T.A.L.K.E.R. 2: Untitled Expansion 2 | 362031 | [362031-s-t-a-l-k-e-r-2-untitled-expansion-2.json](./362031-s-t-a-l-k-e-r-2-untitled-expansion-2.json) |
 | S.T.A.L.K.E.R. Complete | 359016 | [359016-s-t-a-l-k-e-r-complete.json](./359016-s-t-a-l-k-e-r-complete.json) |
 | S.T.A.L.K.E.R. H.A.C.R. | 377614 | [377614-s-t-a-l-k-e-r-h-a-c-r.json](./377614-s-t-a-l-k-e-r-h-a-c-r.json) |
 | S.T.A.L.K.E.R. Mobile | 172543 | [172543-s-t-a-l-k-e-r-mobile.json](./172543-s-t-a-l-k-e-r-mobile.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
+| Sansagari | 362015 | [362015-sansagari.json](./362015-sansagari.json) |
 | Sansara Naga 1 | 341472 | [341472-sansara-naga-1.json](./341472-sansara-naga-1.json) |
 | Sansara Naga 1x2 | 49793 | [49793-sansara-naga-1x2.json](./49793-sansara-naga-1x2.json) |
 | Sansara Naga 2 | 341473 | [341473-sansara-naga-2.json](./341473-sansara-naga-2.json) |
@@ -18518,6 +18520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
+| Steamdle | 362034 | [362034-steamdle.json](./362034-steamdle.json) |
 | SteamDolls | 33028 | [33028-steamdolls.json](./33028-steamdolls.json) |
 | SteamDolls: Order of Chaos | 124261 | [124261-steamdolls-order-of-chaos.json](./124261-steamdolls-order-of-chaos.json) |
 | Steamed Hams, but it's RPGMaker2003! | 314002 | [314002-steamed-hams-but-its-rpgmaker2003.json](./314002-steamed-hams-but-its-rpgmaker2003.json) |
