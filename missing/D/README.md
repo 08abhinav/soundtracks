@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Comics Legends | 60027 | [60027-dc-comics-legends.json](./60027-dc-comics-legends.json) |
 | DC Comics Super Heroes: The Watchtower | 220122 | [220122-dc-comics-super-heroes-the-watchtower.json](./220122-dc-comics-super-heroes-the-watchtower.json) |
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
+| DC Heroes United | 323030 | [323030-dc-heroes-united.json](./323030-dc-heroes-united.json) |
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
 | DC Super Hero Girls: Teen Power | 143617 | [143617-dc-super-hero-girls-teen-power.json](./143617-dc-super-hero-girls-teen-power.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend Your Buttress | 76500 | [76500-defend-your-buttress.json](./76500-defend-your-buttress.json) |
 | Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
 | Defend Your Crypt | 33130 | [33130-defend-your-crypt.json](./33130-defend-your-crypt.json) |
+| Defend Your Flaahgra | 323038 | [323038-defend-your-flaahgra.json](./323038-defend-your-flaahgra.json) |
 | Defend Your Honor | 402989 | [402989-defend-your-honor.json](./402989-defend-your-honor.json) |
 | Defend Your Kingdom | 41972 | [41972-defend-your-kingdom.json](./41972-defend-your-kingdom.json) |
 | Defend Your Life: TD | 9882 | [9882-defend-your-life-td.json](./9882-defend-your-life-td.json) |
