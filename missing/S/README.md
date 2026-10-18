@@ -4157,6 +4157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam 3: Jewel of the Nile | 10817 | [10817-serious-sam-3-jewel-of-the-nile.json](./10817-serious-sam-3-jewel-of-the-nile.json) |
 | Serious Sam 4: Deluxe Edition | 154536 | [154536-serious-sam-4-deluxe-edition.json](./154536-serious-sam-4-deluxe-edition.json) |
 | Serious Sam Advance | 6587 | [6587-serious-sam-advance.json](./6587-serious-sam-advance.json) |
+| Serious Sam Alpha Remake | 356399 | [356399-serious-sam-alpha-remake.json](./356399-serious-sam-alpha-remake.json) |
 | Serious Sam Collection | 141060 | [141060-serious-sam-collection.json](./141060-serious-sam-collection.json) |
 | Serious Sam Forever | 336017 | [336017-serious-sam-forever.json](./336017-serious-sam-forever.json) |
 | Serious Sam Fusion 2017 | 91191 | [91191-serious-sam-fusion-2017.json](./91191-serious-sam-fusion-2017.json) |
@@ -13813,6 +13814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
+| Space Fever II | 356423 | [356423-space-fever-ii.json](./356423-space-fever-ii.json) |
 | Space Fight | 216763 | [216763-space-fight.json](./216763-space-fight.json) |
 | Space Fight of Gun | 287344 | [287344-space-fight-of-gun.json](./287344-space-fight-of-gun.json) |
 | Space Fighter | 172531 | [172531-space-fighter.json](./172531-space-fighter.json) |
@@ -23859,6 +23861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super World of Goo | 316963 | [316963-super-world-of-goo.json](./316963-super-world-of-goo.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
 | Super World Stadium '99 | 311293 | [311293-super-world-stadium-99.json](./311293-super-world-stadium-99.json) |
+| Super World War | 356428 | [356428-super-world-war.json](./356428-super-world-war.json) |
 | Super Worms | 347103 | [347103-super-worms.json](./347103-super-worms.json) |
 | Super Wrestle Angels | 38288 | [38288-super-wrestle-angels.json](./38288-super-wrestle-angels.json) |
 | Super Wrestlers: Slap's Fury | 355152 | [355152-super-wrestlers-slaps-fury.json](./355152-super-wrestlers-slaps-fury.json) |
