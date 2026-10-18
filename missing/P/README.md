@@ -6301,6 +6301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Chromastronaut | 370556 | [370556-pixicharm-chromastronaut.json](./370556-pixicharm-chromastronaut.json) |
 | Pixicharm: Cluckbit | 392347 | [392347-pixicharm-cluckbit.json](./392347-pixicharm-cluckbit.json) |
 | Pixicharm: Darkwood Dash | 330813 | [330813-pixicharm-darkwood-dash.json](./330813-pixicharm-darkwood-dash.json) |
+| Pixicharm: Flindlehop | 356508 | [356508-pixicharm-flindlehop.json](./356508-pixicharm-flindlehop.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
 | Pixicharm: Hue Break the Law | 364977 | [364977-pixicharm-hue-break-the-law.json](./364977-pixicharm-hue-break-the-law.json) |
