@@ -8520,6 +8520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
+| Police Border Contraband Patrol | 345359 | [345359-police-border-contraband-patrol.json](./345359-police-border-contraband-patrol.json) |
 | Police Bust | 195053 | [195053-police-bust.json](./195053-police-bust.json) |
 | Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
