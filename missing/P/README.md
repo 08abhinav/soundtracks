@@ -4527,6 +4527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Hunt | 91078 | [91078-picture-hunt.json](./91078-picture-hunt.json) |
 | Picture Painting Puzzle 1000! | 111910 | [111910-picture-painting-puzzle-1000.json](./111910-picture-painting-puzzle-1000.json) |
 | Picture Party VR | 187541 | [187541-picture-party-vr.json](./187541-picture-party-vr.json) |
+| Picture Perfect | 314721 | [314721-picture-perfect.json](./314721-picture-perfect.json) |
 | Picture Perfect | 368075 | [368075-picture-perfect.json](./368075-picture-perfect.json) |
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
@@ -7778,6 +7779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon | 266836 | [266836-pokemon.json](./266836-pokemon.json) |
 | Pokémon 2000 Adventure Game | 254167 | [254167-pokemon-2000-adventure-game.json](./254167-pokemon-2000-adventure-game.json) |
 | Pokémon 3D | 240935 | [240935-pokemon-3d.json](./240935-pokemon-3d.json) |
+| Pokémon Abismal | 314717 | [314717-pokemon-abismal.json](./314717-pokemon-abismal.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Ultimate | 313970 | [313970-pokemon-battle-ultimate.json](./313970-pokemon-battle-ultimate.json) |
 | Pokémon Battle Woods | 229043 | [229043-pokemon-battle-woods.json](./229043-pokemon-battle-woods.json) |
 | Pokémon Battrio | 77182 | [77182-pokemon-battrio.json](./77182-pokemon-battrio.json) |
+| Pokémon Berilo | 314720 | [314720-pokemon-berilo.json](./314720-pokemon-berilo.json) |
 | Pokémon Berserk Version | 323275 | [323275-pokemon-berserk-version.json](./323275-pokemon-berserk-version.json) |
 | Pokémon Beyond DX | 360180 | [360180-pokemon-beyond-dx.json](./360180-pokemon-beyond-dx.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
@@ -8038,6 +8041,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Colosseum Double Battle Card e+: Yellow Pack | 355874 | [355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json](./355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json) |
 | Pokémon Comet | 334017 | [334017-pokemon-comet.json](./334017-pokemon-comet.json) |
 | Pokémon Compass | 329417 | [329417-pokemon-compass.json](./329417-pokemon-compass.json) |
+| Pokémon Conquerors | 314727 | [314727-pokemon-conquerors.json](./314727-pokemon-conquerors.json) |
+| Pokémon Consonancia | 314716 | [314716-pokemon-consonancia.json](./314716-pokemon-consonancia.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
@@ -8091,6 +8096,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ephemerald | 206144 | [206144-pokemon-ephemerald.json](./206144-pokemon-ephemerald.json) |
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
+| Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
+| Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokemon Find The Alphabets | 324527 | [324527-pokemon-find-the-alphabets.json](./324527-pokemon-find-the-alphabets.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
@@ -8148,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
+| Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
 | Pokémon Hoenn's Last Wish | 396514 | [396514-pokemon-hoenns-last-wish.json](./396514-pokemon-hoenns-last-wish.json) |
 | Pokémon Home | 141960 | [141960-pokemon-home.json](./141960-pokemon-home.json) |
@@ -8216,6 +8224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
 | Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
+| Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
 | Pokémon Party Mini | 66031 | [66031-pokemon-party-mini.json](./66031-pokemon-party-mini.json) |
 | Pokémon Pathways | 154415 | [154415-pokemon-pathways.json](./154415-pokemon-pathways.json) |
 | Pokémon Peach Version | 359916 | [359916-pokemon-peach-version.json](./359916-pokemon-peach-version.json) |
@@ -8247,6 +8256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Potassium | 360040 | [360040-pokemon-potassium.json](./360040-pokemon-potassium.json) |
 | Pokémon Prism | 129588 | [129588-pokemon-prism.json](./129588-pokemon-prism.json) |
 | Pokémon Prismatic Moon | 383533 | [383533-pokemon-prismatic-moon.json](./383533-pokemon-prismatic-moon.json) |
+| Pokémon Pro | 314722 | [314722-pokemon-pro.json](./314722-pokemon-pro.json) |
 | Pokémon Project Studio Red/Blue Version | 131390 | [131390-pokemon-project-studio-red-blue-version.json](./131390-pokemon-project-studio-red-blue-version.json) |
 | Pokémon Psychic Seeds | 157527 | [157527-pokemon-psychic-seeds.json](./157527-pokemon-psychic-seeds.json) |
 | Pokémon Puffy Pink | 327204 | [327204-pokemon-puffy-pink.json](./327204-pokemon-puffy-pink.json) |
@@ -8262,6 +8272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ranger: Guardian Signs | 4565 | [4565-pokemon-ranger-guardian-signs.json](./4565-pokemon-ranger-guardian-signs.json) |
 | Pokémon Ranger: Shadows of Almia | 14699 | [14699-pokemon-ranger-shadows-of-almia.json](./14699-pokemon-ranger-shadows-of-almia.json) |
 | Pokemon RBGenesis+ | 327773 | [327773-pokemon-rbgenesis.json](./327773-pokemon-rbgenesis.json) |
+| Pokemon RE:Call | 314714 | [314714-pokemon-re-call.json](./314714-pokemon-re-call.json) |
 | Pokémon Re:Union | 270629 | [270629-pokemon-re-union.json](./270629-pokemon-re-union.json) |
 | Pokémon Reborn | 127326 | [127326-pokemon-reborn.json](./127326-pokemon-reborn.json) |
 | Pokémon Recharged Pink | 352245 | [352245-pokemon-recharged-pink.json](./352245-pokemon-recharged-pink.json) |
@@ -8314,6 +8325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
+| Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
 | Pokémon Sors 2 | 360194 | [360194-pokemon-sors-2.json](./360194-pokemon-sors-2.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
@@ -8334,6 +8346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Sword Expansion Pass | 128071 | [128071-pokemon-sword-expansion-pass.json](./128071-pokemon-sword-expansion-pass.json) |
 | Pokémon Sword: The Crown Tundra | 139186 | [139186-pokemon-sword-the-crown-tundra.json](./139186-pokemon-sword-the-crown-tundra.json) |
 | Pokémon Sword: The Isle of Armor | 135164 | [135164-pokemon-sword-the-isle-of-armor.json](./135164-pokemon-sword-the-isle-of-armor.json) |
+| Pokemon Tactics | 314715 | [314715-pokemon-tactics.json](./314715-pokemon-tactics.json) |
 | Pokémon TCG Pocket: Everyday Wonders | 410895 | [410895-pokemon-tcg-pocket-everyday-wonders.json](./410895-pokemon-tcg-pocket-everyday-wonders.json) |
 | Pokémon TCG Pocket: Paradox Drive | 406716 | [406716-pokemon-tcg-pocket-paradox-drive.json](./406716-pokemon-tcg-pocket-paradox-drive.json) |
 | Pokémon TCG Pocket: Ruler of the Skies | 412413 | [412413-pokemon-tcg-pocket-ruler-of-the-skies.json](./412413-pokemon-tcg-pocket-ruler-of-the-skies.json) |
@@ -8391,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
 | Pokémon Yellow Legacy | 300522 | [300522-pokemon-yellow-legacy.json](./300522-pokemon-yellow-legacy.json) |
+| Pokémon Z | 314724 | [314724-pokemon-z.json](./314724-pokemon-z.json) |
 | Pokémon Zany Cards | 43174 | [43174-pokemon-zany-cards.json](./43174-pokemon-zany-cards.json) |
 | Pokémon: A Farfetch'd Story | 289581 | [289581-pokemon-a-farfetchd-story.json](./289581-pokemon-a-farfetchd-story.json) |
 | Pokémon: A Grand Day Out | 215854 | [215854-pokemon-a-grand-day-out.json](./215854-pokemon-a-grand-day-out.json) |
