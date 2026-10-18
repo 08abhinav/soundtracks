@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
+| 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 Minute Math | 108453 | [108453-1-minute-math.json](./108453-1-minute-math.json) |
 | 1 Minute RPG | 63151 | [63151-1-minute-rpg.json](./63151-1-minute-rpg.json) |
 | 1 Moment of Time: Silentville | 32199 | [32199-1-moment-of-time-silentville.json](./32199-1-moment-of-time-silentville.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Forest Cats | 301029 | [301029-100-forest-cats.json](./301029-100-forest-cats.json) |
 | 100 Funny Cats | 291200 | [291200-100-funny-cats.json](./291200-100-funny-cats.json) |
 | 100 Funny Cats: Extra Content | 294245 | [294245-100-funny-cats-extra-content.json](./294245-100-funny-cats-extra-content.json) |
+| 100 Gates | 327614 | [327614-100-gates.json](./327614-100-gates.json) |
 | 100 Goldmine Cats | 382336 | [382336-100-goldmine-cats.json](./382336-100-goldmine-cats.json) |
 | 100 Greece Cats | 334122 | [334122-100-greece-cats.json](./334122-100-greece-cats.json) |
 | 100 Halloweens | 265726 | [265726-100-halloweens.json](./265726-100-halloweens.json) |
@@ -1090,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Player Soccer Squad | 12355 | [12355-2-player-soccer-squad.json](./12355-2-player-soccer-squad.json) |
 | 2 Seconds | 183806 | [183806-2-seconds.json](./183806-2-seconds.json) |
 | 2 Sectors | 260785 | [260785-2-sectors.json](./260785-2-sectors.json) |
+| 2 Shot Diary 2: Memory 4/4 | 327684 | [327684-2-shot-diary-2-memory-4-4.json](./327684-2-shot-diary-2-memory-4-4.json) |
 | 2 Spicy | 66967 | [66967-2-spicy.json](./66967-2-spicy.json) |
 | 2 Synchro Hedgehogs | 167831 | [167831-2-synchro-hedgehogs.json](./167831-2-synchro-hedgehogs.json) |
 | 2 Tasty | 143382 | [143382-2-tasty.json](./143382-2-tasty.json) |
