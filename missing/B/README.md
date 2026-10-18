@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard | 142423 | [142423-backyard.json](./142423-backyard.json) |
 | Backyard Baseball | 393033 | [393033-backyard-baseball.json](./393033-backyard-baseball.json) |
 | Backyard Baseball | 50299 | [50299-backyard-baseball.json](./50299-backyard-baseball.json) |
+| Backyard Baseball '01 | 348028 | [348028-backyard-baseball-01.json](./348028-backyard-baseball-01.json) |
 | Backyard Baseball '09 | 132055 | [132055-backyard-baseball-09.json](./132055-backyard-baseball-09.json) |
 | Backyard Baseball '97 | 317717 | [317717-backyard-baseball-97.json](./317717-backyard-baseball-97.json) |
 | Backyard Baseball 2003 | 132053 | [132053-backyard-baseball-2003.json](./132053-backyard-baseball-2003.json) |
@@ -1288,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
 | Bally Fears: The Introduction Game | 317403 | [317403-bally-fears-the-introduction-game.json](./317403-bally-fears-the-introduction-game.json) |
+| Bally Fears: The Paradox | 348110 | [348110-bally-fears-the-paradox.json](./348110-bally-fears-the-paradox.json) |
 | Bally Hoo | 91436 | [91436-bally-hoo.json](./91436-bally-hoo.json) |
 | Bally Jump | 293174 | [293174-bally-jump.json](./293174-bally-jump.json) |
 | Bally Pin | 130870 | [130870-bally-pin.json](./130870-bally-pin.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blizzard World | 175276 | [175276-blizzard-world.json](./175276-blizzard-world.json) |
 | Bloat | 138620 | [138620-bloat.json](./138620-bloat.json) |
 | Blob | 14319 | [14319-blob.json](./14319-blob.json) |
+| Blob | 348045 | [348045-blob.json](./348045-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Boy | 191518 | [191518-blob-boy.json](./191518-blob-boy.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
@@ -7662,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
 | Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
 | Blockpost Mobile | 225875 | [225875-blockpost-mobile.json](./225875-blockpost-mobile.json) |
+| Blockremental | 348025 | [348025-blockremental.json](./348025-blockremental.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
@@ -8210,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloonz Toonz | 36275 | [36275-bloonz-toonz.json](./36275-bloonz-toonz.json) |
 | Bloop | 182984 | [182984-bloop.json](./182984-bloop.json) |
 | Bloop | 28846 | [28846-bloop.json](./28846-bloop.json) |
+| Bloop | 348024 | [348024-bloop.json](./348024-bloop.json) |
 | Bloop Go! | 105799 | [105799-bloop-go.json](./105799-bloop-go.json) |
 | Blooper's Revenge | 237492 | [237492-bloopers-revenge.json](./237492-bloopers-revenge.json) |
 | Blooper's Revenge DX | 321671 | [321671-bloopers-revenge-dx.json](./321671-bloopers-revenge-dx.json) |
