@@ -5433,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipelinks | 253520 | [253520-pipelinks.json](./253520-pipelinks.json) |
 | Pipelurker | 314297 | [314297-pipelurker.json](./314297-pipelurker.json) |
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
+| Piper | 315318 | [315318-piper.json](./315318-piper.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
 | Pipes Master | 194257 | [194257-pipes-master.json](./194257-pipes-master.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
+| Plane Graveyard Simulator | 315337 | [315337-plane-graveyard-simulator.json](./315337-plane-graveyard-simulator.json) |
 | Plane in Hole | 116883 | [116883-plane-in-hole.json](./116883-plane-in-hole.json) |
 | Plane Master | 232691 | [232691-plane-master.json](./232691-plane-master.json) |
 | Plane Race | 235111 | [235111-plane-race.json](./235111-plane-race.json) |
@@ -6987,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
+| Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
@@ -9502,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Possessioner | 213296 | [213296-possessioner.json](./213296-possessioner.json) |
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | Possibility Space | 285152 | [285152-possibility-space.json](./285152-possibility-space.json) |
+| Possible One: Lunar Industries | 315341 | [315341-possible-one-lunar-industries.json](./315341-possible-one-lunar-industries.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
