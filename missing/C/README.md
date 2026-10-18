@@ -6098,6 +6098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chukgwi | 369102 | [369102-chukgwi.json](./369102-chukgwi.json) |
 | Chulip | 20657 | [20657-chulip.json](./20657-chulip.json) |
 | Chumaky | 361042 | [361042-chumaky.json](./361042-chumaky.json) |
+| Chumbo Texas | 335709 | [335709-chumbo-texas.json](./335709-chumbo-texas.json) |
 | Chumbo.Zone | 133899 | [133899-chumbo-zone.json](./133899-chumbo-zone.json) |
 | Chumlee's Adventure: The Quest for Pinky | 142116 | [142116-chumlees-adventure-the-quest-for-pinky.json](./142116-chumlees-adventure-the-quest-for-pinky.json) |
 | Chungo's Gauntlet | 256900 | [256900-chungos-gauntlet.json](./256900-chungos-gauntlet.json) |
@@ -10897,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Tale | 255255 | [255255-cotton-tale.json](./255255-cotton-tale.json) |
 | Cotton to Freaks | 410254 | [410254-cotton-to-freaks.json](./410254-cotton-to-freaks.json) |
 | Cotton: Fantastic Night Dreams | 39488 | [39488-cotton-fantastic-night-dreams.json](./39488-cotton-fantastic-night-dreams.json) |
+| Cottontales | 335711 | [335711-cottontales.json](./335711-cottontales.json) |
 | Cottonville | 346242 | [346242-cottonville.json](./346242-cottonville.json) |
 | Couch Co-Op Bundle Vol. 2 | 147796 | [147796-couch-co-op-bundle-vol-2.json](./147796-couch-co-op-bundle-vol-2.json) |
 | Couch Co-Op: Urban Flow + Knights & Guns | 243795 | [243795-couch-co-op-urban-flow-knights-and-guns.json](./243795-couch-co-op-urban-flow-knights-and-guns.json) |
