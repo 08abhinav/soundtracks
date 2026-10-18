@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
+| Job Applications | 343041 | [343041-job-applications.json](./343041-job-applications.json) |
 | Job at Risk | 236172 | [236172-job-at-risk.json](./236172-job-at-risk.json) |
 | Job Battle Simulator: Accurate Physics Showdown | 348253 | [348253-job-battle-simulator-accurate-physics-showdown.json](./348253-job-battle-simulator-accurate-physics-showdown.json) |
 | Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
@@ -2214,7 +2215,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
 | Judofuri | 311170 | [311170-judofuri.json](./311170-judofuri.json) |
 | Judy's Adventure DX | 404264 | [404264-judys-adventure-dx.json](./404264-judys-adventure-dx.json) |
+| JuegosPX | 343137 | [343137-juegospx.json](./343137-juegospx.json) |
 | Juegue Con Su Amstrad 02: West | 277240 | [277240-juegue-con-su-amstrad-02-west.json](./277240-juegue-con-su-amstrad-02-west.json) |
+| Juegue Con Su Amstrad 03: Max | 343139 | [343139-juegue-con-su-amstrad-03-max.json](./343139-juegue-con-su-amstrad-03-max.json) |
 | Juémèng: Cyber | 154587 | [154587-juemeng-cyber.json](./154587-juemeng-cyber.json) |
 | Jug | 67670 | [67670-jug.json](./67670-jug.json) |
 | Juggernaut | 341138 | [341138-juggernaut.json](./341138-juggernaut.json) |
