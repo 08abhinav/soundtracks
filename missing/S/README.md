@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SakaTsuku Shoot! | 406634 | [406634-sakatsuku-shoot.json](./406634-sakatsuku-shoot.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
 | Sakatsuku: Pro Soccer Club wo Tsukurou! | 63298 | [63298-sakatsuku-pro-soccer-club-wo-tsukurou.json](./63298-sakatsuku-pro-soccer-club-wo-tsukurou.json) |
+| Sake Acanthus | 343695 | [343695-sake-acanthus.json](./343695-sake-acanthus.json) |
 | Sakeretsu | 37393 | [37393-sakeretsu.json](./37393-sakeretsu.json) |
 | Sakeworld | 249916 | [249916-sakeworld.json](./249916-sakeworld.json) |
 | Saki Portable | 66919 | [66919-saki-portable.json](./66919-saki-portable.json) |
@@ -6149,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinovi Nexus: Senran Kagura | 403208 | [403208-shinovi-nexus-senran-kagura.json](./403208-shinovi-nexus-senran-kagura.json) |
+| Shinpi no Sekai El-Hazard | 343694 | [343694-shinpi-no-sekai-el-hazard.json](./343694-shinpi-no-sekai-el-hazard.json) |
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
@@ -14326,6 +14328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Soldier | 153349 | [153349-space-soldier.json](./153349-space-soldier.json) |
 | Space Space | 125725 | [125725-space-space.json](./125725-space-space.json) |
 | Space Spartans | 5700 | [5700-space-spartans.json](./5700-space-spartans.json) |
+| Space Speedjam 1 | 343596 | [343596-space-speedjam-1.json](./343596-space-speedjam-1.json) |
 | Space Spider | 201568 | [201568-space-spider.json](./201568-space-spider.json) |
 | Space Sprint | 38903 | [38903-space-sprint.json](./38903-space-sprint.json) |
 | Space Sprinter VR | 160098 | [160098-space-sprinter-vr.json](./160098-space-sprinter-vr.json) |
@@ -22709,6 +22712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Star Revenge Redone | 132840 | [132840-super-mario-64-star-revenge-redone.json](./132840-super-mario-64-star-revenge-redone.json) |
 | Super Mario 64: Stars of the Beast | 300258 | [300258-super-mario-64-stars-of-the-beast.json](./300258-super-mario-64-stars-of-the-beast.json) |
 | Super Mario 64: The Missing Stars | 135176 | [135176-super-mario-64-the-missing-stars.json](./135176-super-mario-64-the-missing-stars.json) |
+| Super Mario 64: The Slideverse | 343700 | [343700-super-mario-64-the-slideverse.json](./343700-super-mario-64-the-slideverse.json) |
 | Super Mario 64: Through the Ages | 199070 | [199070-super-mario-64-through-the-ages.json](./199070-super-mario-64-through-the-ages.json) |
 | Super Mario 64: Trouble Town | 300257 | [300257-super-mario-64-trouble-town.json](./300257-super-mario-64-trouble-town.json) |
 | Super Mario 64: Twisted Adventures | 387161 | [387161-super-mario-64-twisted-adventures.json](./387161-super-mario-64-twisted-adventures.json) |
@@ -24409,6 +24413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfs Up! | 359745 | [359745-surfs-up.json](./359745-surfs-up.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
+| Surge | 343610 | [343610-surge.json](./343610-surge.json) |
 | Surge | 86219 | [86219-surge.json](./86219-surge.json) |
 | Surge Breaker | 185693 | [185693-surge-breaker.json](./185693-surge-breaker.json) |
 | Surge Concerto DX | 220057 | [220057-surge-concerto-dx.json](./220057-surge-concerto-dx.json) |
@@ -25136,6 +25141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet New Year | 339448 | [339448-sweet-new-year.json](./339448-sweet-new-year.json) |
 | Sweet Night Club | 339447 | [339447-sweet-night-club.json](./339447-sweet-night-club.json) |
 | Sweet Office | 212191 | [212191-sweet-office.json](./212191-sweet-office.json) |
+| Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
