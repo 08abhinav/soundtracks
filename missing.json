@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T15:18:29.505Z",
-  "total_missing": 228738,
+  "generated_at": "2026-10-18T15:33:21.388Z",
+  "total_missing": 228788,
   "games": [
     {
       "igdb_id": 191680,
@@ -87137,6 +87137,141 @@
       "file": "missing/B/328627-barcode-battler-ii-super-mario-world-yossy.json"
     },
     {
+      "igdb_id": 328885,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Agahnim",
+      "file": "missing/B/328885-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-agahnim.json"
+    },
+    {
+      "igdb_id": 328883,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Ball and Chain Soldier",
+      "file": "missing/B/328883-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-ball-and-chain-soldier.json"
+    },
+    {
+      "igdb_id": 328866,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Bomb",
+      "file": "missing/B/328866-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-bomb.json"
+    },
+    {
+      "igdb_id": 328863,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Boomerang",
+      "file": "missing/B/328863-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-boomerang.json"
+    },
+    {
+      "igdb_id": 328868,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Boots of Pegasus",
+      "file": "missing/B/328868-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-boots-of-pegasus.json"
+    },
+    {
+      "igdb_id": 328880,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Coppie",
+      "file": "missing/B/328880-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-coppie.json"
+    },
+    {
+      "igdb_id": 328881,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Digtale",
+      "file": "missing/B/328881-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-digtale.json"
+    },
+    {
+      "igdb_id": 328875,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Geldman",
+      "file": "missing/B/328875-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-geldman.json"
+    },
+    {
+      "igdb_id": 328886,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Gibdos",
+      "file": "missing/B/328886-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-gibdos.json"
+    },
+    {
+      "igdb_id": 328882,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Guplla",
+      "file": "missing/B/328882-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-guplla.json"
+    },
+    {
+      "igdb_id": 328870,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Heart",
+      "file": "missing/B/328870-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-heart.json"
+    },
+    {
+      "igdb_id": 328884,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Hinox",
+      "file": "missing/B/328884-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-hinox.json"
+    },
+    {
+      "igdb_id": 328878,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Hiploop",
+      "file": "missing/B/328878-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-hiploop.json"
+    },
+    {
+      "igdb_id": 328864,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Hookshot",
+      "file": "missing/B/328864-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-hookshot.json"
+    },
+    {
+      "igdb_id": 328867,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Kaitengiri",
+      "file": "missing/B/328867-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-kaitengiri.json"
+    },
+    {
+      "igdb_id": 328861,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Link",
+      "file": "missing/B/328861-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-link.json"
+    },
+    {
+      "igdb_id": 328862,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Link (Magic)",
+      "file": "missing/B/328862-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-link-magic.json"
+    },
+    {
+      "igdb_id": 328869,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Magic Cape",
+      "file": "missing/B/328869-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-magic-cape.json"
+    },
+    {
+      "igdb_id": 328871,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Magic Decanter",
+      "file": "missing/B/328871-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-magic-decanter.json"
+    },
+    {
+      "igdb_id": 328879,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Molblin",
+      "file": "missing/B/328879-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-molblin.json"
+    },
+    {
+      "igdb_id": 328872,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Red Potion",
+      "file": "missing/B/328872-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-red-potion.json"
+    },
+    {
+      "igdb_id": 328865,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Silver Bow & Arrow",
+      "file": "missing/B/328865-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-silver-bow-and-arrow.json"
+    },
+    {
+      "igdb_id": 328873,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Spear Trooper",
+      "file": "missing/B/328873-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-spear-trooper.json"
+    },
+    {
+      "igdb_id": 328887,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Stalfone",
+      "file": "missing/B/328887-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-stalfone.json"
+    },
+    {
+      "igdb_id": 328874,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Vali",
+      "file": "missing/B/328874-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-vali.json"
+    },
+    {
+      "igdb_id": 328876,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Wizzrobe",
+      "file": "missing/B/328876-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-wizzrobe.json"
+    },
+    {
+      "igdb_id": 328877,
+      "game_name": "Barcode Battler II: Zelda no Densetsu - Kamigami no Triforce: Zora",
+      "file": "missing/B/328877-barcode-battler-ii-zelda-no-densetsu-kamigami-no-triforce-zora.json"
+    },
+    {
       "igdb_id": 338371,
       "game_name": "Barcode Battler: Bio-Zabrin",
       "file": "missing/B/338371-barcode-battler-bio-zabrin.json"
@@ -149227,6 +149362,11 @@
       "file": "missing/C/90519-cannonball-commander.json"
     },
     {
+      "igdb_id": 328858,
+      "game_name": "Cannonball Crew",
+      "file": "missing/C/328858-cannonball-crew.json"
+    },
+    {
       "igdb_id": 335471,
       "game_name": "Cannonball Follies 2",
       "file": "missing/C/335471-cannonball-follies-2.json"
@@ -155715,6 +155855,11 @@
       "igdb_id": 120116,
       "game_name": "CasterLords",
       "file": "missing/C/120116-casterlords.json"
+    },
+    {
+      "igdb_id": 328846,
+      "game_name": "Castillo: Shattered Mirrors",
+      "file": "missing/C/328846-castillo-shattered-mirrors.json"
     },
     {
       "igdb_id": 332247,
@@ -273532,6 +273677,11 @@
       "file": "missing/D/13610-dragontorc.json"
     },
     {
+      "igdb_id": 328849,
+      "game_name": "Dragontwin",
+      "file": "missing/D/328849-dragontwin.json"
+    },
+    {
       "igdb_id": 93801,
       "game_name": "Dragonward",
       "file": "missing/D/93801-dragonward.json"
@@ -273990,6 +274140,11 @@
       "igdb_id": 208980,
       "game_name": "Draw 2 Save: Stickman Puzzle",
       "file": "missing/D/208980-draw-2-save-stickman-puzzle.json"
+    },
+    {
+      "igdb_id": 328844,
+      "game_name": "Draw a Perfect Circle",
+      "file": "missing/D/328844-draw-a-perfect-circle.json"
     },
     {
       "igdb_id": 5032,
@@ -357137,6 +357292,11 @@
       "file": "missing/F/44726-fox-junction.json"
     },
     {
+      "igdb_id": 328850,
+      "game_name": "Fox McCloud's Blazing Blueberry Blast Off",
+      "file": "missing/F/328850-fox-mcclouds-blazing-blueberry-blast-off.json"
+    },
+    {
       "igdb_id": 21961,
       "game_name": "Fox n Forests",
       "file": "missing/F/21961-fox-n-forests.json"
@@ -436447,6 +436607,11 @@
       "file": "missing/H/326783-hidden-tomatoes.json"
     },
     {
+      "igdb_id": 328860,
+      "game_name": "Hidden Tomatoes 2",
+      "file": "missing/H/328860-hidden-tomatoes-2.json"
+    },
+    {
       "igdb_id": 330784,
       "game_name": "Hidden Tomatoes 3",
       "file": "missing/H/330784-hidden-tomatoes-3.json"
@@ -469042,6 +469207,11 @@
       "file": "missing/I/17511-infect-and-destroy.json"
     },
     {
+      "igdb_id": 328847,
+      "game_name": "Infect Cam",
+      "file": "missing/I/328847-infect-cam.json"
+    },
+    {
       "igdb_id": 175131,
       "game_name": "Infect Them All: Vampires",
       "file": "missing/I/175131-infect-them-all-vampires.json"
@@ -487430,6 +487600,26 @@
       "igdb_id": 304807,
       "game_name": "Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.4",
       "file": "missing/J/304807-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-4.json"
+    },
+    {
+      "igdb_id": 328840,
+      "game_name": "Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.5",
+      "file": "missing/J/328840-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-5.json"
+    },
+    {
+      "igdb_id": 328841,
+      "game_name": "Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.6",
+      "file": "missing/J/328841-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-6.json"
+    },
+    {
+      "igdb_id": 328842,
+      "game_name": "Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.7",
+      "file": "missing/J/328842-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-7.json"
+    },
+    {
+      "igdb_id": 328843,
+      "game_name": "Jigsaw Masterpieces 2: Additional Puzzle Pack Set Vol.8",
+      "file": "missing/J/328843-jigsaw-masterpieces-2-additional-puzzle-pack-set-vol-8.json"
     },
     {
       "igdb_id": 173123,
@@ -544232,6 +544422,11 @@
       "file": "missing/L/147745-lockstone.json"
     },
     {
+      "igdb_id": 328855,
+      "game_name": "LockYourDoor",
+      "file": "missing/L/328855-lockyourdoor.json"
+    },
+    {
       "igdb_id": 138123,
       "game_name": "Loco",
       "file": "missing/L/138123-loco.json"
@@ -589855,6 +590050,11 @@
       "igdb_id": 2683,
       "game_name": "Mercenaries: Playground of Destruction",
       "file": "missing/M/2683-mercenaries-playground-of-destruction.json"
+    },
+    {
+      "igdb_id": 328845,
+      "game_name": "Mercenary Battlegrounds",
+      "file": "missing/M/328845-mercenary-battlegrounds.json"
     },
     {
       "igdb_id": 423295,
@@ -636042,6 +636242,11 @@
       "file": "missing/M/419969-mythic-battle.json"
     },
     {
+      "igdb_id": 328857,
+      "game_name": "Mythic Battlegrounds: Demonic Siege",
+      "file": "missing/M/328857-mythic-battlegrounds-demonic-siege.json"
+    },
+    {
       "igdb_id": 72740,
       "game_name": "Mythic Blades",
       "file": "missing/M/72740-mythic-blades.json"
@@ -649540,6 +649745,11 @@
       "igdb_id": 178975,
       "game_name": "Newton's Axiom",
       "file": "missing/N/178975-newtons-axiom.json"
+    },
+    {
+      "igdb_id": 328859,
+      "game_name": "Newton's Fourth Law",
+      "file": "missing/N/328859-newtons-fourth-law.json"
     },
     {
       "igdb_id": 163948,
@@ -872507,6 +872717,11 @@
       "file": "missing/S/337138-sorority-panty-raid.json"
     },
     {
+      "igdb_id": 328854,
+      "game_name": "Sorrow",
+      "file": "missing/S/328854-sorrow.json"
+    },
+    {
       "igdb_id": 259621,
       "game_name": "Sorrow Asylum",
       "file": "missing/S/259621-sorrow-asylum.json"
@@ -951072,6 +951287,21 @@
       "file": "missing/T/328825-tell-me-your-story-complete.json"
     },
     {
+      "igdb_id": 328787,
+      "game_name": "Tell Me Your Story: Complete Edition",
+      "file": "missing/T/328787-tell-me-your-story-complete-edition.json"
+    },
+    {
+      "igdb_id": 328786,
+      "game_name": "Tell Me Your Story: Definitive Edition",
+      "file": "missing/T/328786-tell-me-your-story-definitive-edition.json"
+    },
+    {
+      "igdb_id": 328784,
+      "game_name": "Tell Me Your Story: Extended Edition",
+      "file": "missing/T/328784-tell-me-your-story-extended-edition.json"
+    },
+    {
       "igdb_id": 324485,
       "game_name": "Tell Me Your Story: Porcelain Puzzle 1",
       "file": "missing/T/324485-tell-me-your-story-porcelain-puzzle-1.json"
@@ -951080,6 +951310,11 @@
       "igdb_id": 324486,
       "game_name": "Tell Me Your Story: Porcelain Puzzle 2",
       "file": "missing/T/324486-tell-me-your-story-porcelain-puzzle-2.json"
+    },
+    {
+      "igdb_id": 328785,
+      "game_name": "Tell Me Your Story: Special Edition",
+      "file": "missing/T/328785-tell-me-your-story-special-edition.json"
     },
     {
       "igdb_id": 135781,
@@ -998587,6 +998822,11 @@
       "file": "missing/T/275888-the-smurfs-colorful-stories.json"
     },
     {
+      "igdb_id": 328788,
+      "game_name": "The Smurfs: Colorful Stories - Amazing Edition",
+      "file": "missing/T/328788-the-smurfs-colorful-stories-amazing-edition.json"
+    },
+    {
       "igdb_id": 328824,
       "game_name": "The Smurfs: Colorful Stories - Complete +",
       "file": "missing/T/328824-the-smurfs-colorful-stories-complete.json"
@@ -998595,6 +998835,11 @@
       "igdb_id": 304773,
       "game_name": "The Smurfs: Colorful Stories - Complete Edition",
       "file": "missing/T/304773-the-smurfs-colorful-stories-complete-edition.json"
+    },
+    {
+      "igdb_id": 328789,
+      "game_name": "The Smurfs: Colorful Stories - Definitive Edition",
+      "file": "missing/T/328789-the-smurfs-colorful-stories-definitive-edition.json"
     },
     {
       "igdb_id": 288278,
@@ -1038095,6 +1038340,11 @@
       "igdb_id": 258986,
       "game_name": "Trade Post Forest",
       "file": "missing/T/258986-trade-post-forest.json"
+    },
+    {
+      "igdb_id": 328848,
+      "game_name": "Trade Rivals: Goblin Age",
+      "file": "missing/T/328848-trade-rivals-goblin-age.json"
     },
     {
       "igdb_id": 200718,
