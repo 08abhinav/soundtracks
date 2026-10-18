@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
+| Maré do Amor | 332289 | [332289-mare-do-amor.json](./332289-mare-do-amor.json) |
 | Mare Nostrum | 164412 | [164412-mare-nostrum.json](./164412-mare-nostrum.json) |
 | Mare Nostrvm | 137077 | [137077-mare-nostrvm.json](./137077-mare-nostrvm.json) |
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
@@ -11689,6 +11690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterEnd | 335053 | [335053-monsterend.json](./335053-monsterend.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
+| Monsterland 2 | 332292 | [332292-monsterland-2.json](./332292-monsterland-2.json) |
 | Monsterlands | 203531 | [203531-monsterlands.json](./203531-monsterlands.json) |
 | MonsterLife | 310132 | [310132-monsterlife.json](./310132-monsterlife.json) |
 | MonsterMind | 304210 | [304210-monstermind.json](./304210-monstermind.json) |
@@ -13134,6 +13136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Movers in the Warehouse | 171879 | [171879-movers-in-the-warehouse.json](./171879-movers-in-the-warehouse.json) |
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
+| Moves Of The Diamond Hand | 332304 | [332304-moves-of-the-diamond-hand.json](./332304-moves-of-the-diamond-hand.json) |
 | Movie | 26421 | [26421-movie.json](./26421-movie.json) |
 | Movie Actor Trivia | 250864 | [250864-movie-actor-trivia.json](./250864-movie-actor-trivia.json) |
 | Movie Award Winners Trivia | 104637 | [104637-movie-award-winners-trivia.json](./104637-movie-award-winners-trivia.json) |
