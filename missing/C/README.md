@@ -7548,6 +7548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
+| Club | 347555 | [347555-club.json](./347555-club.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
@@ -9869,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
+| Context Catacombs | 347501 | [347501-context-catacombs.json](./347501-context-catacombs.json) |
 | Context Insensitive | 159044 | [159044-context-insensitive.json](./159044-context-insensitive.json) |
 | Continent of the Ninth Golden | 256337 | [256337-continent-of-the-ninth-golden.json](./256337-continent-of-the-ninth-golden.json) |
 | Continent of the Ninth Seal | 15305 | [15305-continent-of-the-ninth-seal.json](./15305-continent-of-the-ninth-seal.json) |
@@ -14050,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
 | Cursed Digicam | 327543 | [327543-cursed-digicam.json](./327543-cursed-digicam.json) |
+| Cursed Digilens | 347481 | [347481-cursed-digilens.json](./347481-cursed-digilens.json) |
 | Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
