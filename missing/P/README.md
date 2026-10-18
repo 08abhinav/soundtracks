@@ -10330,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primitive Race | 97228 | [97228-primitive-race.json](./97228-primitive-race.json) |
 | Primitive Road | 30659 | [30659-primitive-road.json](./30659-primitive-road.json) |
 | Primitive Survival | 105361 | [105361-primitive-survival.json](./105361-primitive-survival.json) |
+| Primitive Survival | 343602 | [343602-primitive-survival.json](./343602-primitive-survival.json) |
 | Primitive Wars | 27591 | [27591-primitive-wars.json](./27591-primitive-wars.json) |
 | Primland Tale | 345608 | [345608-primland-tale.json](./345608-primland-tale.json) |
 | Primland The Magus | 295138 | [295138-primland-the-magus.json](./295138-primland-the-magus.json) |
