@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
+| Shadow's Gamble | 340797 | [340797-shadows-gamble.json](./340797-shadows-gamble.json) |
 | Shadow's Grove | 370433 | [370433-shadows-grove.json](./370433-shadows-grove.json) |
 | Shadow's Kiss | 201584 | [201584-shadows-kiss.json](./201584-shadows-kiss.json) |
 | Shadowalker | 223007 | [223007-shadowalker.json](./223007-shadowalker.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Dreams Are Made of This | 59832 | [59832-sheep-dreams-are-made-of-this.json](./59832-sheep-dreams-are-made-of-this.json) |
+| Sheep for the Stars | 340722 | [340722-sheep-for-the-stars.json](./340722-sheep-for-the-stars.json) |
 | Sheep Game | 99636 | [99636-sheep-game.json](./99636-sheep-game.json) |
 | Sheep Gather | 290994 | [290994-sheep-gather.json](./290994-sheep-gather.json) |
 | Sheep Goes Left | 61908 | [61908-sheep-goes-left.json](./61908-sheep-goes-left.json) |
@@ -6505,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot the Buuuuuuugs | 214194 | [214194-shoot-the-buuuuuuugs.json](./214194-shoot-the-buuuuuuugs.json) |
 | Shoot the Robots VR | 278998 | [278998-shoot-the-robots-vr.json](./278998-shoot-the-robots-vr.json) |
 | Shoot the Rocks | 28768 | [28768-shoot-the-rocks.json](./28768-shoot-the-rocks.json) |
+| Shoot the Wall | 340791 | [340791-shoot-the-wall.json](./340791-shoot-the-wall.json) |
 | Shoot The Zombirds | 101411 | [101411-shoot-the-zombirds.json](./101411-shoot-the-zombirds.json) |
 | Shoot the Zombirds VR | 115698 | [115698-shoot-the-zombirds-vr.json](./115698-shoot-the-zombirds-vr.json) |
 | Shoot Them | 126559 | [126559-shoot-them.json](./126559-shoot-them.json) |
@@ -10662,6 +10665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnakeScout | 102675 | [102675-snakescout.json](./102675-snakescout.json) |
 | Snakest | 109773 | [109773-snakest.json](./109773-snakest.json) |
 | SnakeTris | 291164 | [291164-snaketris.json](./291164-snaketris.json) |
+| SnakeVib | 340804 | [340804-snakevib.json](./340804-snakevib.json) |
 | Snaky Cat | 337093 | [337093-snaky-cat.json](./337093-snaky-cat.json) |
 | Snaky Snake | 70996 | [70996-snaky-snake.json](./70996-snaky-snake.json) |
 | Snaky Snakes | 321505 | [321505-snaky-snakes.json](./321505-snaky-snakes.json) |
@@ -13270,6 +13274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Mirror Relics | 345657 | [345657-soul-mirror-relics.json](./345657-soul-mirror-relics.json) |
 | Soul Nexus | 348569 | [348569-soul-nexus.json](./348569-soul-nexus.json) |
 | Soul Nomad & the World Eaters | 21235 | [21235-soul-nomad-and-the-world-eaters.json](./21235-soul-nomad-and-the-world-eaters.json) |
+| Soul Oath | 340805 | [340805-soul-oath.json](./340805-soul-oath.json) |
 | Soul of a Robot | 74054 | [74054-soul-of-a-robot.json](./74054-soul-of-a-robot.json) |
 | Soul of Butterflies | 284888 | [284888-soul-of-butterflies.json](./284888-soul-of-butterflies.json) |
 | Soul of Butterflies: The Lobby | 284889 | [284889-soul-of-butterflies-the-lobby.json](./284889-soul-of-butterflies-the-lobby.json) |
@@ -18710,6 +18715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Battalion: Line of Contact | 6174 | [6174-steel-battalion-line-of-contact.json](./6174-steel-battalion-line-of-contact.json) |
 | Steel Bounty | 381966 | [381966-steel-bounty.json](./381966-steel-bounty.json) |
 | Steel Champions | 47444 | [47444-steel-champions.json](./47444-steel-champions.json) |
+| Steel Chronicle | 340809 | [340809-steel-chronicle.json](./340809-steel-chronicle.json) |
 | Steel Chronicle VicTroopers | 372133 | [372133-steel-chronicle-victroopers.json](./372133-steel-chronicle-victroopers.json) |
 | Steel Circus | 113149 | [113149-steel-circus.json](./113149-steel-circus.json) |
 | Steel Civilizations | 176373 | [176373-steel-civilizations.json](./176373-steel-civilizations.json) |
@@ -25480,6 +25486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
 | Sword Lake | 301631 | [301631-sword-lake.json](./301631-sword-lake.json) |
 | Sword Legacy: Omen | 74734 | [74734-sword-legacy-omen.json](./74734-sword-legacy-omen.json) |
+| Sword Maiden of Azure Dragon | 340718 | [340718-sword-maiden-of-azure-dragon.json](./340718-sword-maiden-of-azure-dragon.json) |
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Man - Monster Hunter | 107026 | [107026-sword-man-monster-hunter.json](./107026-sword-man-monster-hunter.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
