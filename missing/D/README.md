@@ -8195,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
 | Dodge & Roll | 267327 | [267327-dodge-and-roll.json](./267327-dodge-and-roll.json) |
 | Dodge & Weave | 196097 | [196097-dodge-and-weave.json](./196097-dodge-and-weave.json) |
+| Dodge 2 | 312985 | [312985-dodge-2.json](./312985-dodge-2.json) |
 | Dodge Barrage | 296369 | [296369-dodge-barrage.json](./296369-dodge-barrage.json) |
 | Dodge Blast | 412976 | [412976-dodge-blast.json](./412976-dodge-blast.json) |
 | Dodge Bubble | 116265 | [116265-dodge-bubble.json](./116265-dodge-bubble.json) |
@@ -10081,6 +10082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DP.T: Dr Pepper Terror | 140916 | [140916-dp-t-dr-pepper-terror.json](./140916-dp-t-dr-pepper-terror.json) |
 | Dps Idle | 161333 | [161333-dps-idle.json](./161333-dps-idle.json) |
 | DPS Idle 2 | 253970 | [253970-dps-idle-2.json](./253970-dps-idle-2.json) |
+| DQ De-Misty-Fied | 312955 | [312955-dq-de-misty-fied.json](./312955-dq-de-misty-fied.json) |
 | DQ Girls Colosseum | 97699 | [97699-dq-girls-colosseum.json](./97699-dq-girls-colosseum.json) |
 | DQ Tycoon | 52515 | [52515-dq-tycoon.json](./52515-dq-tycoon.json) |
 | DQ Tycoon | 94000 | [94000-dq-tycoon.json](./94000-dq-tycoon.json) |
