@@ -5735,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
+| Pix'Hard | 320579 | [320579-pixhard.json](./320579-pixhard.json) |
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
 | Pix3D | 84819 | [84819-pix3d.json](./84819-pix3d.json) |
 | Pixadom | 317582 | [317582-pixadom.json](./317582-pixadom.json) |
@@ -10468,6 +10469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Forgotten Sands | 142710 | [142710-prince-of-persia-the-forgotten-sands.json](./142710-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
+| Prince of Persia: The Forgotten Sands | 320583 | [320583-prince-of-persia-the-forgotten-sands.json](./320583-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Lost Crown - Complete Edition | 317240 | [317240-prince-of-persia-the-lost-crown-complete-edition.json](./317240-prince-of-persia-the-lost-crown-complete-edition.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
