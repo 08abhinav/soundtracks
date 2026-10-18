@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lgnorant girl doll | 114994 | [114994-lgnorant-girl-doll.json](./114994-lgnorant-girl-doll.json) |
 | LGV Platform Box | 362424 | [362424-lgv-platform-box.json](./362424-lgv-platform-box.json) |
 | Lhama Clicker | 236545 | [236545-lhama-clicker.json](./236545-lhama-clicker.json) |
+| Lhea & the Word Spirit | 342495 | [342495-lhea-and-the-word-spirit.json](./342495-lhea-and-the-word-spirit.json) |
 | LHM: BB01 - Destiny | 97776 | [97776-lhm-bb01-destiny.json](./97776-lhm-bb01-destiny.json) |
 | Lǐ Èr Nián Yǒng Chuǎng Héhuān Zōng | 373708 | [373708-li-er-nian-yong-chuang-hehuan-zong.json](./373708-li-er-nian-yong-chuang-hehuan-zong.json) |
 | Lǐ Shì Qírén Yì Wén Lù | 367402 | [367402-li-shi-qiren-yi-wen-lu.json](./367402-li-shi-qiren-yi-wen-lu.json) |
@@ -5363,6 +5364,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loophole Pie | 364619 | [364619-loophole-pie.json](./364619-loophole-pie.json) |
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
+| Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
+| Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
@@ -6136,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
 | Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
+| Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
@@ -6707,6 +6711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucrezia | 401168 | [401168-lucrezia.json](./401168-lucrezia.json) |
 | Luctus | 263781 | [263781-luctus.json](./263781-luctus.json) |
 | Lucy | 175119 | [175119-lucy.json](./175119-lucy.json) |
+| Lucy and the Talking Cat: The Secret Cat Kingdom | 342425 | [342425-lucy-and-the-talking-cat-the-secret-cat-kingdom.json](./342425-lucy-and-the-talking-cat-the-secret-cat-kingdom.json) |
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Got Problems | 105099 | [105099-lucy-got-problems.json](./105099-lucy-got-problems.json) |
@@ -6947,6 +6952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna | 43166 | [43166-luna.json](./43166-luna.json) |
 | Luna : The Dimemsion Watcher | 130917 | [130917-luna-the-dimemsion-watcher.json](./130917-luna-the-dimemsion-watcher.json) |
 | Luna & Sol: Nightmare Ward | 368819 | [368819-luna-and-sol-nightmare-ward.json](./368819-luna-and-sol-nightmare-ward.json) |
+| Luna and the Crystal of Light | 342426 | [342426-luna-and-the-crystal-of-light.json](./342426-luna-and-the-crystal-of-light.json) |
 | Luna and the Dreams | 387563 | [387563-luna-and-the-dreams.json](./387563-luna-and-the-dreams.json) |
 | Luna and the Sea | 369356 | [369356-luna-and-the-sea.json](./369356-luna-and-the-sea.json) |
 | Luna and the Stars | 225554 | [225554-luna-and-the-stars.json](./225554-luna-and-the-stars.json) |
