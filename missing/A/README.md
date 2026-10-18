@@ -6680,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Wings | 307047 | [307047-angel-wings.json](./307047-angel-wings.json) |
 | Angel Wings: Endless Night | 224680 | [224680-angel-wings-endless-night.json](./224680-angel-wings-endless-night.json) |
 | Angel Wish: Kimi no Egao ni Chu! | 68259 | [68259-angel-wish-kimi-no-egao-ni-chu.json](./68259-angel-wish-kimi-no-egao-ni-chu.json) |
+| Angel x Demon: Cultural Exchange | 347012 | [347012-angel-x-demon-cultural-exchange.json](./347012-angel-x-demon-cultural-exchange.json) |
 | Angel Zero | 398592 | [398592-angel-zero.json](./398592-angel-zero.json) |
 | Angel, Devil, Elf and Me! | 111089 | [111089-angel-devil-elf-and-me.json](./111089-angel-devil-elf-and-me.json) |
 | Angel! | 177914 | [177914-angel.json](./177914-angel.json) |
@@ -9760,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARMA: Armed Assault | 15626 | [15626-arma-armed-assault.json](./15626-arma-armed-assault.json) |
 | ArmaCulture | 148310 | [148310-armaculture.json](./148310-armaculture.json) |
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
+| Armada | 346920 | [346920-armada.json](./346920-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
@@ -10673,6 +10675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
 | Aspiring Light | 161583 | [161583-aspiring-light.json](./161583-aspiring-light.json) |
+| Aspis | 346933 | [346933-aspis.json](./346933-aspis.json) |
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
@@ -12305,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
+| Automatic Kingdom | 347015 | [347015-automatic-kingdom.json](./347015-automatic-kingdom.json) |
 | Automatic War | 223390 | [223390-automatic-war.json](./223390-automatic-war.json) |
 | Automatica | 217013 | [217013-automatica.json](./217013-automatica.json) |
 | Automation | 165512 | [165512-automation.json](./165512-automation.json) |
