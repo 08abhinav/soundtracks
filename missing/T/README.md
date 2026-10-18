@@ -6924,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fish Shack | 398010 | [398010-the-fish-shack.json](./398010-the-fish-shack.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
 | The Fisherman and the Sea | 175385 | [175385-the-fisherman-and-the-sea.json](./175385-the-fisherman-and-the-sea.json) |
+| The Fisherman: A Codfish Tale | 325877 | [325877-the-fisherman-a-codfish-tale.json](./325877-the-fisherman-a-codfish-tale.json) |
 | The Fisherman: Fishing Planet | 122433 | [122433-the-fisherman-fishing-planet.json](./122433-the-fisherman-fishing-planet.json) |
 | The Fisherman: Fishing Planet - Blue Crab Island Expansion | 167308 | [167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json](./167308-the-fisherman-fishing-planet-blue-crab-island-expansion.json) |
 | The Fishery | 142156 | [142156-the-fishery.json](./142156-the-fishery.json) |
