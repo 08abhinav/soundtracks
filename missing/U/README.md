@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Night Crew | 376065 | [376065-undead-night-crew.json](./376065-undead-night-crew.json) |
 | Undead Onslaught | 302193 | [302193-undead-onslaught.json](./302193-undead-onslaught.json) |
 | Undead Overlord | 36363 | [36363-undead-overlord.json](./36363-undead-overlord.json) |
+| Undead Paradise | 310790 | [310790-undead-paradise.json](./310790-undead-paradise.json) |
 | Undead Party | 222268 | [222268-undead-party.json](./222268-undead-party.json) |
 | Undead Pixels | 163365 | [163365-undead-pixels.json](./163365-undead-pixels.json) |
 | Undead Presidents | 348191 | [348191-undead-presidents.json](./348191-undead-presidents.json) |
@@ -2406,6 +2407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uptime: A Cloud Provider Sim | 408966 | [408966-uptime-a-cloud-provider-sim.json](./408966-uptime-a-cloud-provider-sim.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | UptownRanger's Halloween | 314101 | [314101-uptownrangers-halloween.json](./314101-uptownrangers-halloween.json) |
+| UpUpUp | 310810 | [310810-upupup.json](./310810-upupup.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
