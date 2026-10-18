@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Jelly | 246347 | [246347-magic-jelly.json](./246347-magic-jelly.json) |
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic Jewelry 2 | 48281 | [48281-magic-jewelry-2.json](./48281-magic-jewelry-2.json) |
+| Magic Jewelry Craft | 330505 | [330505-magic-jewelry-craft.json](./330505-magic-jewelry-craft.json) |
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
 | Magic Johnson's Basketball | 198808 | [198808-magic-johnsons-basketball.json](./198808-magic-johnsons-basketball.json) |
@@ -7129,6 +7130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug: Super Vehicle-001 | 191477 | [191477-metal-slug-super-vehicle-001.json](./191477-metal-slug-super-vehicle-001.json) |
 | Metal Soldier Isaac II | 40353 | [40353-metal-soldier-isaac-ii.json](./40353-metal-soldier-isaac-ii.json) |
 | Metal Soldiers 3 | 206126 | [206126-metal-soldiers-3.json](./206126-metal-soldiers-3.json) |
+| Metal Sonic | 330575 | [330575-metal-sonic.json](./330575-metal-sonic.json) |
 | Metal Sonic in Sonic 3 & Knuckles | 129187 | [129187-metal-sonic-in-sonic-3-and-knuckles.json](./129187-metal-sonic-in-sonic-3-and-knuckles.json) |
 | Metal Sonic in Sonic the Hedgehog | 198525 | [198525-metal-sonic-in-sonic-the-hedgehog.json](./198525-metal-sonic-in-sonic-the-hedgehog.json) |
 | Metal Sonic in Sonic the Hedgehog 2 | 129186 | [129186-metal-sonic-in-sonic-the-hedgehog-2.json](./129186-metal-sonic-in-sonic-the-hedgehog-2.json) |
@@ -14091,6 +14093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
 | Mushroom Hunter Simulator | 349111 | [349111-mushroom-hunter-simulator.json](./349111-mushroom-hunter-simulator.json) |
 | Mushroom Hunter World | 346620 | [346620-mushroom-hunter-world.json](./346620-mushroom-hunter-world.json) |
+| Mushroom Island | 330571 | [330571-mushroom-island.json](./330571-mushroom-island.json) |
 | Mushroom Jump! Miracle | 349115 | [349115-mushroom-jump-miracle.json](./349115-mushroom-jump-miracle.json) |
 | Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
@@ -15253,6 +15256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
+| My Sweet! Housemate | 330596 | [330596-my-sweet-housemate.json](./330596-my-sweet-housemate.json) |
 | My Swordsman | 230899 | [230899-my-swordsman.json](./230899-my-swordsman.json) |
 | My Talking Angela | 87017 | [87017-my-talking-angela.json](./87017-my-talking-angela.json) |
 | My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
