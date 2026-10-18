@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
+| Heart of Altai | 310795 | [310795-heart-of-altai.json](./310795-heart-of-altai.json) |
 | Heart of Artemisa | 318121 | [318121-heart-of-artemisa.json](./318121-heart-of-artemisa.json) |
 | Heart of Battle | 199348 | [199348-heart-of-battle.json](./199348-heart-of-battle.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
@@ -6689,6 +6690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homebound | 27682 | [27682-homebound.json](./27682-homebound.json) |
 | Homebound Mariana | 302124 | [302124-homebound-mariana.json](./302124-homebound-mariana.json) |
 | Homebound: Escape Room | 391344 | [391344-homebound-escape-room.json](./391344-homebound-escape-room.json) |
+| Homecall | 310789 | [310789-homecall.json](./310789-homecall.json) |
 | Homecoming | 271314 | [271314-homecoming.json](./271314-homecoming.json) |
 | Homecoming: Kitaku | 323708 | [323708-homecoming-kitaku.json](./323708-homecoming-kitaku.json) |
 | Homecoming: My Monster-Hunter Girlfriend | 270609 | [270609-homecoming-my-monster-hunter-girlfriend.json](./270609-homecoming-my-monster-hunter-girlfriend.json) |
