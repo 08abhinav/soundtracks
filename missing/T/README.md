@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talking The Simpsons: Bart vs. Homersaurus | 198889 | [198889-talking-the-simpsons-bart-vs-homersaurus.json](./198889-talking-the-simpsons-bart-vs-homersaurus.json) |
 | Talking to My Dad | 229016 | [229016-talking-to-my-dad.json](./229016-talking-to-my-dad.json) |
 | Talking Tom & Ben News | 214781 | [214781-talking-tom-and-ben-news.json](./214781-talking-tom-and-ben-news.json) |
+| Talking Tom 3 in Olympics | 315363 | [315363-talking-tom-3-in-olympics.json](./315363-talking-tom-3-in-olympics.json) |
 | Talking Tom Camp | 91217 | [91217-talking-tom-camp.json](./91217-talking-tom-camp.json) |
 | Talking Tom Candy Run | 107165 | [107165-talking-tom-candy-run.json](./107165-talking-tom-candy-run.json) |
 | Talking Tom Cat | 214349 | [214349-talking-tom-cat.json](./214349-talking-tom-cat.json) |
@@ -11237,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reaction | 89680 | [89680-the-reaction.json](./89680-the-reaction.json) |
 | The Real Academic Challenge High School Level | 401094 | [401094-the-real-academic-challenge-high-school-level.json](./401094-the-real-academic-challenge-high-school-level.json) |
 | The Real Deal 2 | 130849 | [130849-the-real-deal-2.json](./130849-the-real-deal-2.json) |
+| The Real Face of a VTuber | 315325 | [315325-the-real-face-of-a-vtuber.json](./315325-the-real-face-of-a-vtuber.json) |
 | The Real Ghostbusters | 12841 | [12841-the-real-ghostbusters.json](./12841-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218436 | [218436-the-real-ghostbusters.json](./218436-the-real-ghostbusters.json) |
 | The Real Ghostbusters | 218945 | [218945-the-real-ghostbusters.json](./218945-the-real-ghostbusters.json) |
@@ -13208,6 +13210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town | 80392 | [80392-the-town.json](./80392-the-town.json) |
 | The Town of Downpour | 387334 | [387334-the-town-of-downpour.json](./387334-the-town-of-downpour.json) |
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
+| The Town of Nie | 315338 | [315338-the-town-of-nie.json](./315338-the-town-of-nie.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
 | The Toy Factory Across the Street | 225820 | [225820-the-toy-factory-across-the-street.json](./225820-the-toy-factory-across-the-street.json) |
@@ -18311,6 +18314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: The Angel of Darkness | 1159 | [1159-tomb-raider-the-angel-of-darkness.json](./1159-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness | 319751 | [319751-tomb-raider-the-angel-of-darkness.json](./319751-tomb-raider-the-angel-of-darkness.json) |
 | Tomb Raider: The Angel of Darkness 1.5 | 156178 | [156178-tomb-raider-the-angel-of-darkness-1-5.json](./156178-tomb-raider-the-angel-of-darkness-1-5.json) |
+| Tomb Raider: The Kurtis Trent Chronicles - Chapter 1 | 315366 | [315366-tomb-raider-the-kurtis-trent-chronicles-chapter-1.json](./315366-tomb-raider-the-kurtis-trent-chronicles-chapter-1.json) |
 | Tomb Raider: The Last Revelation | 1158 | [1158-tomb-raider-the-last-revelation.json](./1158-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation | 319749 | [319749-tomb-raider-the-last-revelation.json](./319749-tomb-raider-the-last-revelation.json) |
 | Tomb Raider: The Last Revelation - The Times | 68115 | [68115-tomb-raider-the-last-revelation-the-times.json](./68115-tomb-raider-the-last-revelation-the-times.json) |
@@ -23753,6 +23757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Bridge | 228394 | [228394-turtle-bridge.json](./228394-turtle-bridge.json) |
 | Turtle Bridge | 363304 | [363304-turtle-bridge.json](./363304-turtle-bridge.json) |
+| Turtle Champs: Cosmetics Pass | 315313 | [315313-turtle-champs-cosmetics-pass.json](./315313-turtle-champs-cosmetics-pass.json) |
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
