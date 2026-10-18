@@ -6758,8 +6758,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Chaos Run | 202859 | [202859-rocket-league-chaos-run.json](./202859-rocket-league-chaos-run.json) |
 | Rocket League: Collector's Edition | 41620 | [41620-rocket-league-collectors-edition.json](./41620-rocket-league-collectors-edition.json) |
 | Rocket League: DC Super Heroes DLC Pack | 226939 | [226939-rocket-league-dc-super-heroes-dlc-pack.json](./226939-rocket-league-dc-super-heroes-dlc-pack.json) |
+| Rocket League: Fast & Furious DLC Bundle | 348657 | [348657-rocket-league-fast-and-furious-dlc-bundle.json](./348657-rocket-league-fast-and-furious-dlc-bundle.json) |
 | Rocket League: Game of the Year Edition | 282134 | [282134-rocket-league-game-of-the-year-edition.json](./282134-rocket-league-game-of-the-year-edition.json) |
 | Rocket League: Hot Wheels Triple Threat | 156174 | [156174-rocket-league-hot-wheels-triple-threat.json](./156174-rocket-league-hot-wheels-triple-threat.json) |
+| Rocket League: McLaren 570S Car Pack | 348659 | [348659-rocket-league-mclaren-570s-car-pack.json](./348659-rocket-league-mclaren-570s-car-pack.json) |
 | Rocket League: Painted Paragon Bundle | 277522 | [277522-rocket-league-painted-paragon-bundle.json](./277522-rocket-league-painted-paragon-bundle.json) |
 | Rocket League: Painted Power Bundle | 326040 | [326040-rocket-league-painted-power-bundle.json](./326040-rocket-league-painted-power-bundle.json) |
 | Rocket League: PlayStation Plus Pack | 303035 | [303035-rocket-league-playstation-plus-pack.json](./303035-rocket-league-playstation-plus-pack.json) |
