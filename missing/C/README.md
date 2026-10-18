@@ -10557,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corridor Z | 60298 | [60298-corridor-z.json](./60298-corridor-z.json) |
 | Corridors | 418277 | [418277-corridors.json](./418277-corridors.json) |
 | Corridors of Their Memories | 149093 | [149093-corridors-of-their-memories.json](./149093-corridors-of-their-memories.json) |
+| Corrigendum | 333983 | [333983-corrigendum.json](./333983-corrigendum.json) |
 | Corril Slayer | 64312 | [64312-corril-slayer.json](./64312-corril-slayer.json) |
 | Corroded | 28060 | [28060-corroded.json](./28060-corroded.json) |
 | Corrosion | 219229 | [219229-corrosion.json](./219229-corrosion.json) |
