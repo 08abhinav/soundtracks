@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
 | Grave Dodgers | 392190 | [392190-grave-dodgers.json](./392190-grave-dodgers.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
+| Grave Girl | 344700 | [344700-grave-girl.json](./344700-grave-girl.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
 | Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
@@ -7069,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
 | Growlanser: Heritage of War | 21308 | [21308-growlanser-heritage-of-war.json](./21308-growlanser-heritage-of-war.json) |
 | Growling In My Demise | 233597 | [233597-growling-in-my-demise.json](./233597-growling-in-my-demise.json) |
+| Growmancer | 344723 | [344723-growmancer.json](./344723-growmancer.json) |
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
 | Growmon Island | 374908 | [374908-growmon-island.json](./374908-growmon-island.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
