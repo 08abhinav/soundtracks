@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
 | Racing | 247068 | [247068-racing.json](./247068-racing.json) |
+| Racing | 359193 | [359193-racing.json](./359193-racing.json) |
 | Racing | 91357 | [91357-racing.json](./91357-racing.json) |
 | Racing 2020 | 129204 | [129204-racing-2020.json](./129204-racing-2020.json) |
 | Racing Aces | 5426 | [5426-racing-aces.json](./5426-racing-aces.json) |
@@ -3851,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
+| Rescue Pets | 359221 | [359221-rescue-pets.json](./359221-rescue-pets.json) |
 | Rescue Pets: My ePets | 252120 | [252120-rescue-pets-my-epets.json](./252120-rescue-pets-my-epets.json) |
 | Rescue Q | 330794 | [330794-rescue-q.json](./330794-rescue-q.json) |
 | Rescue Quest | 346597 | [346597-rescue-quest.json](./346597-rescue-quest.json) |
@@ -4805,6 +4807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rexodus: A VR Story Experience | 32665 | [32665-rexodus-a-vr-story-experience.json](./32665-rexodus-a-vr-story-experience.json) |
 | Reyher Austerich’s Garden Worlds Adventure | 357810 | [357810-reyher-austerich-s-garden-worlds-adventure.json](./357810-reyher-austerich-s-garden-worlds-adventure.json) |
 | Reynard | 111920 | [111920-reynard.json](./111920-reynard.json) |
+| Reynard | 359202 | [359202-reynard.json](./359202-reynard.json) |
 | Reynatis | 287858 | [287858-reynatis.json](./287858-reynatis.json) |
 | Reynatis: Deluxe Edition | 288187 | [288187-reynatis-deluxe-edition.json](./288187-reynatis-deluxe-edition.json) |
 | Reynatis: Digital Deluxe Edition | 317908 | [317908-reynatis-digital-deluxe-edition.json](./317908-reynatis-digital-deluxe-edition.json) |
@@ -7741,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
 | Roogoo Twisted Towers! | 21248 | [21248-roogoo-twisted-towers.json](./21248-roogoo-twisted-towers.json) |
+| Rook | 359282 | [359282-rook.json](./359282-rook.json) |
 | Rookfall | 174617 | [174617-rookfall.json](./174617-rookfall.json) |
 | Rookie Bowman | 165758 | [165758-rookie-bowman.json](./165758-rookie-bowman.json) |
 | Rookie Boxing | 319776 | [319776-rookie-boxing.json](./319776-rookie-boxing.json) |
@@ -8655,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
 | Rumpus | 30940 | [30940-rumpus.json](./30940-rumpus.json) |
 | Rumu | 74584 | [74584-rumu.json](./74584-rumu.json) |
+| Run | 359194 | [359194-run.json](./359194-run.json) |
 | Run | 85867 | [85867-run.json](./85867-run.json) |
 | Run 'n Gun: Deluxe | 266757 | [266757-run-n-gun-deluxe.json](./266757-run-n-gun-deluxe.json) |
 | Run & Gun: Banditos | 109513 | [109513-run-and-gun-banditos.json](./109513-run-and-gun-banditos.json) |
