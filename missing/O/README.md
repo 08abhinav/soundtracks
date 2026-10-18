@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Adventure of Chub, Color, 23 and You | 169973 | [169973-odd-adventure-of-chub-color-23-and-you.json](./169973-odd-adventure-of-chub-color-23-and-you.json) |
 | Odd Ball | 60588 | [60588-odd-ball.json](./60588-odd-ball.json) |
 | Odd Bot Out | 58292 | [58292-odd-bot-out.json](./58292-odd-bot-out.json) |
+| Odd Card Out | 360924 | [360924-odd-card-out.json](./360924-odd-card-out.json) |
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Humans On Board | 402951 | [402951-only-humans-on-board.json](./402951-only-humans-on-board.json) |
 | Only If | 17354 | [17354-only-if.json](./17354-only-if.json) |
 | Only Jump | 413644 | [413644-only-jump.json](./413644-only-jump.json) |
+| Only Jump On Pogo | 361008 | [361008-only-jump-on-pogo.json](./361008-only-jump-on-pogo.json) |
 | Only Jump! | 260756 | [260756-only-jump.json](./260756-only-jump.json) |
 | Only Kitty Cat Up | 395669 | [395669-only-kitty-cat-up.json](./395669-only-kitty-cat-up.json) |
 | Only Lead Can Stop Them | 197115 | [197115-only-lead-can-stop-them.json](./197115-only-lead-can-stop-them.json) |
