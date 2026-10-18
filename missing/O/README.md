@@ -3542,6 +3542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourworld | 254416 | [254416-ourworld.json](./254416-ourworld.json) |
 | Oust | 197105 | [197105-oust.json](./197105-oust.json) |
 | Out and About | 161379 | [161379-out-and-about.json](./161379-out-and-about.json) |
+| Out Fishing | 344699 | [344699-out-fishing.json](./344699-out-fishing.json) |
 | Out for Blood | 276380 | [276380-out-for-blood.json](./276380-out-for-blood.json) |
 | Out for Blood | 50539 | [50539-out-for-blood.json](./50539-out-for-blood.json) |
 | Out For Delivery | 152380 | [152380-out-for-delivery.json](./152380-out-for-delivery.json) |
