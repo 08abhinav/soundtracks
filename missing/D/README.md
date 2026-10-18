@@ -10324,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag Racer V3 | 165118 | [165118-drag-racer-v3.json](./165118-drag-racer-v3.json) |
 | Drag Racer: Pro Tuner | 63250 | [63250-drag-racer-pro-tuner.json](./63250-drag-racer-pro-tuner.json) |
 | Drag Racing Car Simulator | 275679 | [275679-drag-racing-car-simulator.json](./275679-drag-racing-car-simulator.json) |
+| Drag Racing Professionals: Dirt Mechanic Simulator | 315935 | [315935-drag-racing-professionals-dirt-mechanic-simulator.json](./315935-drag-racing-professionals-dirt-mechanic-simulator.json) |
 | Drag Racing Rivals | 147847 | [147847-drag-racing-rivals.json](./147847-drag-racing-rivals.json) |
 | Drag Racing: Bike Edition | 235127 | [235127-drag-racing-bike-edition.json](./235127-drag-racing-bike-edition.json) |
 | Drag Sim 2020 | 147741 | [147741-drag-sim-2020.json](./147741-drag-sim-2020.json) |
@@ -11828,6 +11829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Mania Championship 2 | 104521 | [104521-drift-mania-championship-2.json](./104521-drift-mania-championship-2.json) |
 | Drift Mania: Street Outlaws | 38938 | [38938-drift-mania-street-outlaws.json](./38938-drift-mania-street-outlaws.json) |
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
+| Drift Master Simulator | 315922 | [315922-drift-master-simulator.json](./315922-drift-master-simulator.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
 | Drift Mine Satellite | 263648 | [263648-drift-mine-satellite.json](./263648-drift-mine-satellite.json) |
