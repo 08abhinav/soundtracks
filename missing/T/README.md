@@ -3278,6 +3278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraForge | 258527 | [258527-terraforge.json](./258527-terraforge.json) |
 | Terraform Co: Factory and City | 423270 | [423270-terraform-co-factory-and-city.json](./423270-terraform-co-factory-and-city.json) |
 | Terraforma | 238605 | [238605-terraforma.json](./238605-terraforma.json) |
+| Terraformental | 360919 | [360919-terraformental.json](./360919-terraformental.json) |
 | Terraformer Expedition to Mars | 17352 | [17352-terraformer-expedition-to-mars.json](./17352-terraformer-expedition-to-mars.json) |
 | Terraformers & Moonshine Inc.: Mars and Moon Bundle | 273006 | [273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json](./273006-terraformers-and-moonshine-inc-mars-and-moon-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
@@ -8290,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Killbox: Arena Combat | 74293 | [74293-the-killbox-arena-combat.json](./74293-the-killbox-arena-combat.json) |
 | The Killbox: Arena Combat US | 86976 | [86976-the-killbox-arena-combat-us.json](./86976-the-killbox-arena-combat-us.json) |
 | The Killing Antidote | 287004 | [287004-the-killing-antidote.json](./287004-the-killing-antidote.json) |
+| The Killing Game of Thirst | 360903 | [360903-the-killing-game-of-thirst.json](./360903-the-killing-game-of-thirst.json) |
 | The Kind Camomille | 138494 | [138494-the-kind-camomille.json](./138494-the-kind-camomille.json) |
 | The Kindeman Remedy | 244499 | [244499-the-kindeman-remedy.json](./244499-the-kindeman-remedy.json) |
 | The Kindred | 14576 | [14576-the-kindred.json](./14576-the-kindred.json) |
@@ -11539,6 +11541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
+| The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
 | The Secret Order 4: Beyond Time | 31586 | [31586-the-secret-order-4-beyond-time.json](./31586-the-secret-order-4-beyond-time.json) |
 | The Secret Order 7: Shadow Breach | 115584 | [115584-the-secret-order-7-shadow-breach.json](./115584-the-secret-order-7-shadow-breach.json) |
