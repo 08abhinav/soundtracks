@@ -2960,6 +2960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 234091 | [234091-tennis.json](./234091-tennis.json) |
 | Tennis | 295670 | [295670-tennis.json](./295670-tennis.json) |
 | Tennis | 358838 | [358838-tennis.json](./358838-tennis.json) |
+| Tennis | 359292 | [359292-tennis.json](./359292-tennis.json) |
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
 | Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkened Outpost | 263424 | [263424-the-darkened-outpost.json](./263424-the-darkened-outpost.json) |
 | The Darkening: Episode 1 | 262433 | [262433-the-darkening-episode-1.json](./262433-the-darkening-episode-1.json) |
 | The Darkening: Episode 2 | 262434 | [262434-the-darkening-episode-2.json](./262434-the-darkening-episode-2.json) |
+| The Darkest Dusk | 359207 | [359207-the-darkest-dusk.json](./359207-the-darkest-dusk.json) |
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
 | The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
@@ -18344,6 +18346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
 | Toon Tanks | 84947 | [84947-toon-tanks.json](./84947-toon-tanks.json) |
+| Toon Tastic | 359205 | [359205-toon-tastic.json](./359205-toon-tastic.json) |
 | Toon Team | 236337 | [236337-toon-team.json](./236337-toon-team.json) |
 | Toon Toon Racing | 244650 | [244650-toon-toon-racing.json](./244650-toon-toon-racing.json) |
 | Toon Troops Strategy | 307868 | [307868-toon-troops-strategy.json](./307868-toon-troops-strategy.json) |
@@ -20272,10 +20275,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Hauptstrecke Munchen - Augsburg Route | 359938 | [359938-train-sim-world-5-hauptstrecke-munchen-augsburg-route.json](./359938-train-sim-world-5-hauptstrecke-munchen-augsburg-route.json) |
 | Train Sim World 5: Hauptstrecke Rhein-Ruhr: Duisburg - Bochum Route Add-On | 359949 | [359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json](./359949-train-sim-world-5-hauptstrecke-rhein-ruhr-duisburg-bochum-route-add-on.json) |
 | Train Sim World 5: Horseshoe Curve: Altoona - Johnstown & South Fork Route Add-On | 359970 | [359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json](./359970-train-sim-world-5-horseshoe-curve-altoona-johnstown-and-south-fork-route-add-on.json) |
+| Train Sim World 5: Island Line 2022: BR Class 484 EMU Add-On | 359182 | [359182-train-sim-world-5-island-line-2022-br-class-484-emu-add-on.json](./359182-train-sim-world-5-island-line-2022-br-class-484-emu-add-on.json) |
 | Train Sim World 5: Isle Of Wight: Ryde - Shanklin Route Add-On | 359945 | [359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json](./359945-train-sim-world-5-isle-of-wight-ryde-shanklin-route-add-on.json) |
 | Train Sim World 5: LGV Mediterranee - Marseille: Avignon Route | 318160 | [318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json](./318160-train-sim-world-5-lgv-mediterranee-marseille-avignon-route.json) |
 | Train Sim World 5: LIRR Commuter: New York - Long Beach, Hempstead & Hicksville Route Add-On | 359946 | [359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json](./359946-train-sim-world-5-lirr-commuter-new-york-long-beach-hempstead-and-hicksville-route-add-on.json) |
 | Train Sim World 5: London Overground Suffragette line - Gospel Oak - Barking Riverside | 332093 | [332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json](./332093-train-sim-world-5-london-overground-suffragette-line-gospel-oak-barking-riverside.json) |
+| Train Sim World 5: Long Island Rail Road: New York - Hicksville Route Add-On | 359185 | [359185-train-sim-world-5-long-island-rail-road-new-york-hicksville-route-add-on.json](./359185-train-sim-world-5-long-island-rail-road-new-york-hicksville-route-add-on.json) |
 | Train Sim World 5: Main-Spessart Bahn: Aschaffenburg - Gemunden Route Add-On | 359499 | [359499-train-sim-world-5-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json](./359499-train-sim-world-5-main-spessart-bahn-aschaffenburg-gemunden-route-add-on.json) |
 | Train Sim World 5: Maintalbahn: Aschaffenburg - Miltenberg Route Add-On | 359953 | [359953-train-sim-world-5-maintalbahn-aschaffenburg-miltenberg-route-add-on.json](./359953-train-sim-world-5-maintalbahn-aschaffenburg-miltenberg-route-add-on.json) |
 | Train Sim World 5: Manchester Airport Commuter: Manchester - Alderley Edge | 366842 | [366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json](./366842-train-sim-world-5-manchester-airport-commuter-manchester-alderley-edge.json) |
@@ -20286,6 +20291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Niddertalbahn: Bad Vilbel - Stockheim Route Add-On | 359940 | [359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./359940-train-sim-world-5-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
 | Train Sim World 5: Norfolk Southern Heritage Livery Collection Add-On | 359950 | [359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json](./359950-train-sim-world-5-norfolk-southern-heritage-livery-collection-add-on.json) |
 | Train Sim World 5: Northeast Corridor: New York - Trenton | 359943 | [359943-train-sim-world-5-northeast-corridor-new-york-trenton.json](./359943-train-sim-world-5-northeast-corridor-new-york-trenton.json) |
+| Train Sim World 5: Peninsula Corridor: San Francisco - San Jose Route Add-On | 359183 | [359183-train-sim-world-5-peninsula-corridor-san-francisco-san-jose-route-add-on.json](./359183-train-sim-world-5-peninsula-corridor-san-francisco-san-jose-route-add-on.json) |
 | Train Sim World 5: Pfälzische Ludwigsbahn: Mannheim - Kaiserslautern | 402356 | [402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json](./402356-train-sim-world-5-pfalzische-ludwigsbahn-mannheim-kaiserslautern.json) |
 | Train Sim World 5: Rail Operations Group BR Class 37/7 Add-On | 359511 | [359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json](./359511-train-sim-world-5-rail-operations-group-br-class-37-7-add-on.json) |
 | Train Sim World 5: Rapid Transit | 359952 | [359952-train-sim-world-5-rapid-transit.json](./359952-train-sim-world-5-rapid-transit.json) |
@@ -20309,6 +20315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Tharandter Rampe: Dresden - Chemnitz Route Add-On | 359941 | [359941-train-sim-world-5-tharandter-rampe-dresden-chemnitz-route-add-on.json](./359941-train-sim-world-5-tharandter-rampe-dresden-chemnitz-route-add-on.json) |
 | Train Sim World 5: Thomas & Friends 80th Anniversary Expansion | 354562 | [354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json](./354562-train-sim-world-5-thomas-and-friends-80th-anniversary-expansion.json) |
 | Train Sim World 5: Thomas & Friends Visit the West Somerset Railway | 354561 | [354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json](./354561-train-sim-world-5-thomas-and-friends-visit-the-west-somerset-railway.json) |
+| Train Sim World 5: Union Pacific Heritage Livery Collection | 359184 | [359184-train-sim-world-5-union-pacific-heritage-livery-collection.json](./359184-train-sim-world-5-union-pacific-heritage-livery-collection.json) |
 | Train Sim World 5: West Coast Main Line: London Euston - Milton Keynes Route Add-On | 360158 | [360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json](./360158-train-sim-world-5-west-coast-main-line-london-euston-milton-keynes-route-add-on.json) |
 | Train Sim World 5: West Coast Main Line: Preston - Carlisle | 402357 | [402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json](./402357-train-sim-world-5-west-coast-main-line-preston-carlisle.json) |
 | Train Sim World 5: West Cornwall Local: Penzance - St Austell & St Ives Route | 359494 | [359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json](./359494-train-sim-world-5-west-cornwall-local-penzance-st-austell-and-st-ives-route.json) |
@@ -21261,6 +21268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Tramp Simulator: Survival City Full | 223640 | [223640-tramp-simulator-survival-city-full.json](./223640-tramp-simulator-survival-city-full.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
+| Trampoline | 359196 | [359196-trampoline.json](./359196-trampoline.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
