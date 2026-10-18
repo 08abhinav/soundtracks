@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Blitz | 90079 | [90079-dash-blitz.json](./90079-dash-blitz.json) |
 | Dash Cats | 316936 | [316936-dash-cats.json](./316936-dash-cats.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
+| Dash Dash Dead | 361455 | [361455-dash-dash-dead.json](./361455-dash-dash-dead.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
 | Dash Dot Die | 391634 | [391634-dash-dot-die.json](./391634-dash-dot-die.json) |
