@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Is It? | 261512 | [261512-who-is-it.json](./261512-who-is-it.json) |
 | Who is Johnny Sixgun? | 379168 | [379168-who-is-johnny-sixgun.json](./379168-who-is-johnny-sixgun.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
+| Who is Paul | 320573 | [320573-who-is-paul.json](./320573-who-is-paul.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
 | Who is the Joker? | 298424 | [298424-who-is-the-joker.json](./298424-who-is-the-joker.json) |
@@ -3738,6 +3739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Earth: Africa | 195802 | [195802-wild-earth-africa.json](./195802-wild-earth-africa.json) |
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
 | Wild Explorer | 373298 | [373298-wild-explorer.json](./373298-wild-explorer.json) |
+| Wild Fire | 320598 | [320598-wild-fire.json](./320598-wild-fire.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
 | Wild Frontier | 146673 | [146673-wild-frontier.json](./146673-wild-frontier.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Gunman | 4625 | [4625-wild-gunman.json](./4625-wild-gunman.json) |
 | Wild Gunman Remake | 411646 | [411646-wild-gunman-remake.json](./411646-wild-gunman-remake.json) |
 | Wild Gunslinger | 287696 | [287696-wild-gunslinger.json](./287696-wild-gunslinger.json) |
+| Wild Haven | 320603 | [320603-wild-haven.json](./320603-wild-haven.json) |
 | Wild Heart | 183403 | [183403-wild-heart.json](./183403-wild-heart.json) |
 | Wild Hearts S | 338090 | [338090-wild-hearts-s.json](./338090-wild-hearts-s.json) |
 | Wild Hearts: Karakuri Edition | 228734 | [228734-wild-hearts-karakuri-edition.json](./228734-wild-hearts-karakuri-edition.json) |
@@ -4800,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Within 3 | 96382 | [96382-without-within-3.json](./96382-without-within-3.json) |
 | Without You | 235702 | [235702-without-you.json](./235702-without-you.json) |
 | Withstand: Apotheosis | 35337 | [35337-withstand-apotheosis.json](./35337-withstand-apotheosis.json) |
+| WiThu, It's Time To Go | 320576 | [320576-withu-its-time-to-go.json](./320576-withu-its-time-to-go.json) |
 | Witness of the Night | 207590 | [207590-witness-of-the-night.json](./207590-witness-of-the-night.json) |
 | Witness Of Time | 313842 | [313842-witness-of-time.json](./313842-witness-of-time.json) |
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
