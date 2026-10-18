@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
+| Amnyam | 345280 | [345280-amnyam.json](./345280-amnyam.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
 | Amoeba Battle: Microscopic RTS Action | 131972 | [131972-amoeba-battle-microscopic-rts-action.json](./131972-amoeba-battle-microscopic-rts-action.json) |
 | Amoeba Jump | 195568 | [195568-amoeba-jump.json](./195568-amoeba-jump.json) |
@@ -7945,6 +7946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aonar | 259292 | [259292-aonar.json](./259292-aonar.json) |
 | Aonatsu Line | 214547 | [214547-aonatsu-line.json](./214547-aonatsu-line.json) |
 | AonTheVoid Nevaeh | 386916 | [386916-aonthevoid-nevaeh.json](./386916-aonthevoid-nevaeh.json) |
+| Aooa | 345279 | [345279-aooa.json](./345279-aooa.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
 | Aooni2 | 410832 | [410832-aooni2.json](./410832-aooni2.json) |
