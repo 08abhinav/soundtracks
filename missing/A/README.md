@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fairy Tale of Lotus | 142977 | [142977-a-fairy-tale-of-lotus.json](./142977-a-fairy-tale-of-lotus.json) |
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
+| A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
@@ -3941,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football | 267877 | [267877-ajax-club-football.json](./267877-ajax-club-football.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
+| Ajedrez | 355880 | [355880-ajedrez.json](./355880-ajedrez.json) |
 | Ajedrez una tarde de Otoño | 391292 | [391292-ajedrez-una-tarde-de-otono.json](./391292-ajedrez-una-tarde-de-otono.json) |
 | Ajgal | 360521 | [360521-ajgal.json](./360521-ajgal.json) |
 | Ajisai Shiyou ka! | 394134 | [394134-ajisai-shiyou-ka.json](./394134-ajisai-shiyou-ka.json) |
@@ -7046,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Use Protocol | 321054 | [321054-animal-use-protocol.json](./321054-animal-use-protocol.json) |
 | Animal Village Rescue | 232170 | [232170-animal-village-rescue.json](./232170-animal-village-rescue.json) |
 | Animal Voyage: Island Adventure | 38901 | [38901-animal-voyage-island-adventure.json](./38901-animal-voyage-island-adventure.json) |
+| Animal Warfare | 355887 | [355887-animal-warfare.json](./355887-animal-warfare.json) |
 | Animal Warfare Battle Simulator | 127872 | [127872-animal-warfare-battle-simulator.json](./127872-animal-warfare-battle-simulator.json) |
 | Animal Wars | 270138 | [270138-animal-wars.json](./270138-animal-wars.json) |
 | Animal Water Pang! | 314857 | [314857-animal-water-pang.json](./314857-animal-water-pang.json) |
@@ -8091,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Neighbors | 14357 | [14357-apocalypse-neighbors.json](./14357-apocalypse-neighbors.json) |
 | Apocalypse Night | 74683 | [74683-apocalypse-night.json](./74683-apocalypse-night.json) |
 | Apocalypse Now: The Game | 26969 | [26969-apocalypse-now-the-game.json](./26969-apocalypse-now-the-game.json) |
+| Apocalypse PD! | 355961 | [355961-apocalypse-pd.json](./355961-apocalypse-pd.json) |
 | Apocalypse Rider | 102889 | [102889-apocalypse-rider.json](./102889-apocalypse-rider.json) |
 | Apocalypse Runner | 224098 | [224098-apocalypse-runner.json](./224098-apocalypse-runner.json) |
 | Apocalypse Rush | 372545 | [372545-apocalypse-rush.json](./372545-apocalypse-rush.json) |
@@ -12145,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
 | Aurora: Genesis | 349367 | [349367-aurora-genesis.json](./349367-aurora-genesis.json) |
 | Aurora: Hidden Colors | 126411 | [126411-aurora-hidden-colors.json](./126411-aurora-hidden-colors.json) |
+| Aurora: Oasis Adventure | 355963 | [355963-aurora-oasis-adventure.json](./355963-aurora-oasis-adventure.json) |
 | Aurora: Puzzle Adventure | 25827 | [25827-aurora-puzzle-adventure.json](./25827-aurora-puzzle-adventure.json) |
 | Aurora: The Secret Within | 71980 | [71980-aurora-the-secret-within.json](./71980-aurora-the-secret-within.json) |
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
