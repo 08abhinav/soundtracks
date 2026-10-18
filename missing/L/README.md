@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Fore Dead: Zombie Battle Golf | 406646 | [406646-left-fore-dead-zombie-battle-golf.json](./406646-left-fore-dead-zombie-battle-golf.json) |
 | Left in the Dark: No One on Board | 17144 | [17144-left-in-the-dark-no-one-on-board.json](./17144-left-in-the-dark-no-one-on-board.json) |
 | Left on Read | 137527 | [137527-left-on-read.json](./137527-left-on-read.json) |
+| Left On Read | 341281 | [341281-left-on-read.json](./341281-left-on-read.json) |
 | Left Right | 287584 | [287584-left-right.json](./287584-left-right.json) |
 | Left Right | 347283 | [347283-left-right.json](./347283-left-right.json) |
 | Left Right Dodge Race | 358352 | [358352-left-right-dodge-race.json](./358352-left-right-dodge-race.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolly Pang VR | 110523 | [110523-lolly-pang-vr.json](./110523-lolly-pang-vr.json) |
 | Lollypop | 9762 | [9762-lollypop.json](./9762-lollypop.json) |
 | LolShot.io | 202776 | [202776-lolshot-io.json](./202776-lolshot-io.json) |
+| Lomando.com | 341303 | [341303-lomando-com.json](./341303-lomando-com.json) |
 | Lombard RAC Rally | 12920 | [12920-lombard-rac-rally.json](./12920-lombard-rac-rally.json) |
 | Lombardi's World | 141576 | [141576-lombardis-world.json](./141576-lombardis-world.json) |
 | Lomo Overgrow | 398346 | [398346-lomo-overgrow.json](./398346-lomo-overgrow.json) |
