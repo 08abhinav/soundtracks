@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baphomet's Satellite | 262273 | [262273-baphomets-satellite.json](./262273-baphomets-satellite.json) |
 | Baptism | 75922 | [75922-baptism.json](./75922-baptism.json) |
 | Baptism of Fire | 189140 | [189140-baptism-of-fire.json](./189140-baptism-of-fire.json) |
+| Baptiste | 332314 | [332314-baptiste.json](./332314-baptiste.json) |
 | Baptisterio | 326615 | [326615-baptisterio.json](./326615-baptisterio.json) |
 | Baptize Billy | 96691 | [96691-baptize-billy.json](./96691-baptize-billy.json) |
 | Baptized In Lunar Dust | 308453 | [308453-baptized-in-lunar-dust.json](./308453-baptized-in-lunar-dust.json) |
@@ -3343,6 +3344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
+| Bayonetta + Bayonetta 2: Special Edition | 332282 | [332282-bayonetta-bayonetta-2-special-edition.json](./332282-bayonetta-bayonetta-2-special-edition.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
 | Bayonetta 2: First Print Edition | 51187 | [51187-bayonetta-2-first-print-edition.json](./51187-bayonetta-2-first-print-edition.json) |
@@ -4277,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beers and Boomerangs | 172469 | [172469-beers-and-boomerangs.json](./172469-beers-and-boomerangs.json) |
 | Beerserker: The Stolen Brew | 420553 | [420553-beerserker-the-stolen-brew.json](./420553-beerserker-the-stolen-brew.json) |
 | Bees vs. Ants | 175164 | [175164-bees-vs-ants.json](./175164-bees-vs-ants.json) |
+| Beescuit | 332293 | [332293-beescuit.json](./332293-beescuit.json) |
 | Beeswing | 35357 | [35357-beeswing.json](./35357-beeswing.json) |
 | Beet: Drum Machine Game | 232149 | [232149-beet-drum-machine-game.json](./232149-beet-drum-machine-game.json) |
 | BeeTD | 385306 | [385306-beetd.json](./385306-beetd.json) |
@@ -11761,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
 | Bubble Bobble | 194443 | [194443-bubble-bobble.json](./194443-bubble-bobble.json) |
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
+| Bubble Bobble | 332216 | [332216-bubble-bobble.json](./332216-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
 | Bubble Bobble | 332221 | [332221-bubble-bobble.json](./332221-bubble-bobble.json) |
 | Bubble Bobble | 332233 | [332233-bubble-bobble.json](./332233-bubble-bobble.json) |
