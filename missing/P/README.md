@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawar | 273953 | [273953-pawar.json](./273953-pawar.json) |
 | Pawarumi: Limited Edition | 167051 | [167051-pawarumi-limited-edition.json](./167051-pawarumi-limited-edition.json) |
 | Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
+| Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
@@ -7376,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plus Ultra: Legado | 276828 | [276828-plus-ultra-legado.json](./276828-plus-ultra-legado.json) |
 | Plush | 24629 | [24629-plush.json](./24629-plush.json) |
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
+| Plush Hospital | 319999 | [319999-plush-hospital.json](./319999-plush-hospital.json) |
 | Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
@@ -9234,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopIdle | 294461 | [294461-popidle.json](./294461-popidle.json) |
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
+| Popit Sanic Goo! | 320034 | [320034-popit-sanic-goo.json](./320034-popit-sanic-goo.json) |
 | Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
