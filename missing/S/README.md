@@ -8959,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Aces | 343990 | [343990-sky-aces.json](./343990-sky-aces.json) |
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
+| Sky Aces: WWII Air Combat | 322412 | [322412-sky-aces-wwii-air-combat.json](./322412-sky-aces-wwii-air-combat.json) |
 | Sky Ahoy | 334921 | [334921-sky-ahoy.json](./334921-sky-ahoy.json) |
 | Sky Airplane Racer: Flight & Fight Simulator | 313156 | [313156-sky-airplane-racer-flight-and-fight-simulator.json](./313156-sky-airplane-racer-flight-and-fight-simulator.json) |
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
@@ -17152,6 +17153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
 | Stand: Sins of the Immortals | 388790 | [388790-stand-sins-of-the-immortals.json](./388790-stand-sins-of-the-immortals.json) |
+| Stand: Survive, Team-up, And Never Die | 322445 | [322445-stand-survive-team-up-and-never-die.json](./322445-stand-survive-team-up-and-never-die.json) |
 | Standard Bits | 108835 | [108835-standard-bits.json](./108835-standard-bits.json) |
 | Standard Legend | 116365 | [116365-standard-legend.json](./116365-standard-legend.json) |
 | Standard Snake | 87156 | [87156-standard-snake.json](./87156-standard-snake.json) |
@@ -17675,6 +17677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
+| Star Truck Simulator | 322405 | [322405-star-truck-simulator.json](./322405-star-truck-simulator.json) |
 | Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
@@ -20784,6 +20787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stump Simulator 2 | 369909 | [369909-stump-simulator-2.json](./369909-stump-simulator-2.json) |
 | Stunner | 383152 | [383152-stunner.json](./383152-stunner.json) |
 | Stunt 2 Race: A Moto Bike Fast Racing | 96594 | [96594-stunt-2-race-a-moto-bike-fast-racing.json](./96594-stunt-2-race-a-moto-bike-fast-racing.json) |
+| Stunt Bike Extreme | 322447 | [322447-stunt-bike-extreme.json](./322447-stunt-bike-extreme.json) |
 | Stunt Bunnies Circus | 252927 | [252927-stunt-bunnies-circus.json](./252927-stunt-bunnies-circus.json) |
 | Stunt Car Challenge 3 | 261845 | [261845-stunt-car-challenge-3.json](./261845-stunt-car-challenge-3.json) |
 | Stunt Car Parking and Driving Simulator | 91257 | [91257-stunt-car-parking-and-driving-simulator.json](./91257-stunt-car-parking-and-driving-simulator.json) |
