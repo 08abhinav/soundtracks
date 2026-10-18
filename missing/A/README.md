@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Total War Saga: Troy - Limited Edition | 139940 | [139940-a-total-war-saga-troy-limited-edition.json](./139940-a-total-war-saga-troy-limited-edition.json) |
 | A Total War Saga: Troy - Mythic Edition | 169186 | [169186-a-total-war-saga-troy-mythic-edition.json](./169186-a-total-war-saga-troy-mythic-edition.json) |
 | A Total War Saga: Troy - Mythos | 165388 | [165388-a-total-war-saga-troy-mythos.json](./165388-a-total-war-saga-troy-mythos.json) |
+| A Totally Realistic Stealth Game | 310264 | [310264-a-totally-realistic-stealth-game.json](./310264-a-totally-realistic-stealth-game.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
 | A Tower | 338718 | [338718-a-tower.json](./338718-a-tower.json) |
 | A Tower Full of Cats | 234411 | [234411-a-tower-full-of-cats.json](./234411-a-tower-full-of-cats.json) |
@@ -2096,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Mortem | 262441 | [262441-ad-mortem.json](./262441-ad-mortem.json) |
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
+| Ad Shoot | 310244 | [310244-ad-shoot.json](./310244-ad-shoot.json) |
 | Ad Victoriam | 258106 | [258106-ad-victoriam.json](./258106-ad-victoriam.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
@@ -9357,6 +9359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
+| Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
 | Archipelago | 187171 | [187171-archipelago.json](./187171-archipelago.json) |
 | Archipelago | 201184 | [201184-archipelago.json](./201184-archipelago.json) |
@@ -9837,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arken | 177337 | [177337-arken.json](./177337-arken.json) |
 | Arker: The Legend of Ohm | 164864 | [164864-arker-the-legend-of-ohm.json](./164864-arker-the-legend-of-ohm.json) |
 | Arkfront | 182204 | [182204-arkfront.json](./182204-arkfront.json) |
+| Arkhaanis One | 310282 | [310282-arkhaanis-one.json](./310282-arkhaanis-one.json) |
 | Arkham Detective | 278178 | [278178-arkham-detective.json](./278178-arkham-detective.json) |
 | Arkham Horror: Mother's Embrace | 96482 | [96482-arkham-horror-mothers-embrace.json](./96482-arkham-horror-mothers-embrace.json) |
 | Arkham Nightmares | 31700 | [31700-arkham-nightmares.json](./31700-arkham-nightmares.json) |
@@ -10547,6 +10551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 178456 | [178456-ascendance.json](./178456-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
+| Ascendant Dawn | 310276 | [310276-ascendant-dawn.json](./310276-ascendant-dawn.json) |
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
 | Ascendant One | 107613 | [107613-ascendant-one.json](./107613-ascendant-one.json) |
 | Ascendant Realms | 343253 | [343253-ascendant-realms.json](./343253-ascendant-realms.json) |
@@ -11894,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athopiu: The Final Rebirth of Hopeless Incarnate | 43511 | [43511-athopiu-the-final-rebirth-of-hopeless-incarnate.json](./43511-athopiu-the-final-rebirth-of-hopeless-incarnate.json) |
 | Athos | 265413 | [265413-athos.json](./265413-athos.json) |
 | Athos'Code | 371405 | [371405-athoscode.json](./371405-athoscode.json) |
+| Athralis Tower Defense | 310247 | [310247-athralis-tower-defense.json](./310247-athralis-tower-defense.json) |
 | Athyra: Rock, Paper, Scissors | 345025 | [345025-athyra-rock-paper-scissors.json](./345025-athyra-rock-paper-scissors.json) |
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
