@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn Stars: The Game | 62015 | [62015-pawn-stars-the-game.json](./62015-pawn-stars-the-game.json) |
 | Pawn Tactics | 26487 | [26487-pawn-tactics.json](./26487-pawn-tactics.json) |
 | Pawn.OS() | 360647 | [360647-pawn-os.json](./360647-pawn-os.json) |
+| Pawnbroker Simulator | 312463 | [312463-pawnbroker-simulator.json](./312463-pawnbroker-simulator.json) |
 | Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
@@ -4395,6 +4396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
+| Pickup Trash Simulator Remastered | 312426 | [312426-pickup-trash-simulator-remastered.json](./312426-pickup-trash-simulator-remastered.json) |
 | Picma: Picture Enigmas | 102044 | [102044-picma-picture-enigmas.json](./102044-picma-picture-enigmas.json) |
 | Picme | 245739 | [245739-picme.json](./245739-picme.json) |
 | Picnic | 22817 | [22817-picnic.json](./22817-picnic.json) |
@@ -9991,6 +9993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerWash Simulator: Halloween Seasonal 2024 | 320757 | [320757-powerwash-simulator-halloween-seasonal-2024.json](./320757-powerwash-simulator-halloween-seasonal-2024.json) |
 | PowerWash Simulator: Ice Rink - Winter 2024 | 324567 | [324567-powerwash-simulator-ice-rink-winter-2024.json](./324567-powerwash-simulator-ice-rink-winter-2024.json) |
 | PowerWash Simulator: Muckingham Files - Part 3 | 309064 | [309064-powerwash-simulator-muckingham-files-part-3.json](./309064-powerwash-simulator-muckingham-files-part-3.json) |
+| PowerWash Simulator: Muckingham Files - Part 4 | 312427 | [312427-powerwash-simulator-muckingham-files-part-4.json](./312427-powerwash-simulator-muckingham-files-part-4.json) |
 | PowerWash Simulator: Muckingham Files - Part 5 | 340590 | [340590-powerwash-simulator-muckingham-files-part-5.json](./340590-powerwash-simulator-muckingham-files-part-5.json) |
 | PowerWash Simulator: Santa's Workshop - Winter 2023 | 280540 | [280540-powerwash-simulator-santas-workshop-winter-2023.json](./280540-powerwash-simulator-santas-workshop-winter-2023.json) |
 | PowerWash Simulator: Shrek Special Pack | 314930 | [314930-powerwash-simulator-shrek-special-pack.json](./314930-powerwash-simulator-shrek-special-pack.json) |
