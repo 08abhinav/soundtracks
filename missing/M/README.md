@@ -6671,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries Series Bundle | 175818 | [175818-mercenaries-series-bundle.json](./175818-mercenaries-series-bundle.json) |
 | Mercenaries Wings: The False Phoenix | 104789 | [104789-mercenaries-wings-the-false-phoenix.json](./104789-mercenaries-wings-the-false-phoenix.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
+| Mercenary Battlegrounds | 328845 | [328845-mercenary-battlegrounds.json](./328845-mercenary-battlegrounds.json) |
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
@@ -15908,6 +15909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
 | Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
+| Mythic Battlegrounds: Demonic Siege | 328857 | [328857-mythic-battlegrounds-demonic-siege.json](./328857-mythic-battlegrounds-demonic-siege.json) |
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
