@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:26:31.114Z",
-  "total_missing": 227431,
+  "generated_at": "2026-10-18T08:37:47.082Z",
+  "total_missing": 227411,
   "games": [
     {
       "igdb_id": 191680,
@@ -105630,11 +105630,6 @@
       "igdb_id": 317404,
       "game_name": "Billy Boy's Important Wine Lottery",
       "file": "missing/B/317404-billy-boys-important-wine-lottery.json"
-    },
-    {
-      "igdb_id": 3810,
-      "game_name": "Billy Hatcher and the Giant Egg",
-      "file": "missing/B/3810-billy-hatcher-and-the-giant-egg.json"
     },
     {
       "igdb_id": 341688,
@@ -237852,11 +237847,6 @@
       "file": "missing/D/174626-deiland.json"
     },
     {
-      "igdb_id": 74531,
-      "game_name": "Deiland",
-      "file": "missing/D/74531-deiland.json"
-    },
-    {
       "igdb_id": 145240,
       "game_name": "Deiland: Pocket Planet",
       "file": "missing/D/145240-deiland-pocket-planet.json"
@@ -247827,11 +247817,6 @@
       "file": "missing/D/110235-dick-starr-conquers-mars.json"
     },
     {
-      "igdb_id": 13058,
-      "game_name": "Dick Tracy",
-      "file": "missing/D/13058-dick-tracy.json"
-    },
-    {
       "igdb_id": 316832,
       "game_name": "Dick Tracy",
       "file": "missing/D/316832-dick-tracy.json"
@@ -252500,11 +252485,6 @@
       "igdb_id": 134081,
       "game_name": "Disc Party",
       "file": "missing/D/134081-disc-party.json"
-    },
-    {
-      "igdb_id": 131614,
-      "game_name": "Disc Room",
-      "file": "missing/D/131614-disc-room.json"
     },
     {
       "igdb_id": 238086,
@@ -274982,11 +274962,6 @@
       "file": "missing/D/238503-dreamscape-runners.json"
     },
     {
-      "igdb_id": 116166,
-      "game_name": "Dreamscaper",
-      "file": "missing/D/116166-dreamscaper.json"
-    },
-    {
       "igdb_id": 59908,
       "game_name": "Dreamscapes: Nightmare's Heir",
       "file": "missing/D/59908-dreamscapes-nightmares-heir.json"
@@ -279830,11 +279805,6 @@
       "igdb_id": 142364,
       "game_name": "Duet",
       "file": "missing/D/142364-duet.json"
-    },
-    {
-      "igdb_id": 17219,
-      "game_name": "Duet",
-      "file": "missing/D/17219-duet.json"
     },
     {
       "igdb_id": 246309,
@@ -326182,11 +326152,6 @@
       "file": "missing/F/374946-fartcore.json"
     },
     {
-      "igdb_id": 142688,
-      "game_name": "Farthest Frontier",
-      "file": "missing/F/142688-farthest-frontier.json"
-    },
-    {
       "igdb_id": 315285,
       "game_name": "Farting Simulator",
       "file": "missing/F/315285-farting-simulator.json"
@@ -334765,11 +334730,6 @@
       "igdb_id": 210030,
       "game_name": "Final Fantasy: Blackmoon Prophecy II",
       "file": "missing/F/210030-final-fantasy-blackmoon-prophecy-ii.json"
-    },
-    {
-      "igdb_id": 19334,
-      "game_name": "Final Fantasy: Brave Exvius",
-      "file": "missing/F/19334-final-fantasy-brave-exvius.json"
     },
     {
       "igdb_id": 412,
@@ -548872,11 +548832,6 @@
       "file": "missing/L/217402-lovely-plains.json"
     },
     {
-      "igdb_id": 14326,
-      "game_name": "Lovely Planet",
-      "file": "missing/L/14326-lovely-planet.json"
-    },
-    {
       "igdb_id": 119351,
       "game_name": "Lovely Planet 2: April Skies",
       "file": "missing/L/119351-lovely-planet-2-april-skies.json"
@@ -551555,11 +551510,6 @@
       "igdb_id": 189103,
       "game_name": "Luna: Supernatural Hunter",
       "file": "missing/L/189103-luna-supernatural-hunter.json"
-    },
-    {
-      "igdb_id": 56463,
-      "game_name": "Luna: The Shadow Dust",
-      "file": "missing/L/56463-luna-the-shadow-dust.json"
     },
     {
       "igdb_id": 382532,
@@ -622377,11 +622327,6 @@
       "file": "missing/M/193501-murder-by-moonlight-2-crimson-night.json"
     },
     {
-      "igdb_id": 123902,
-      "game_name": "Murder by Numbers",
-      "file": "missing/M/123902-murder-by-numbers.json"
-    },
-    {
       "igdb_id": 23972,
       "game_name": "Murder by the Dozen",
       "file": "missing/M/23972-murder-by-the-dozen.json"
@@ -672125,11 +672070,6 @@
       "igdb_id": 402951,
       "game_name": "Only Humans On Board",
       "file": "missing/O/402951-only-humans-on-board.json"
-    },
-    {
-      "igdb_id": 17354,
-      "game_name": "Only If",
-      "file": "missing/O/17354-only-if.json"
     },
     {
       "igdb_id": 413644,
@@ -740877,11 +740817,6 @@
       "file": "missing/P/389432-project-windless.json"
     },
     {
-      "igdb_id": 56859,
-      "game_name": "Project Wingman",
-      "file": "missing/P/56859-project-wingman.json"
-    },
-    {
       "igdb_id": 270216,
       "game_name": "Project Wingman: Frontline 59",
       "file": "missing/P/270216-project-wingman-frontline-59.json"
@@ -785185,11 +785120,6 @@
       "igdb_id": 141543,
       "game_name": "Road 96",
       "file": "missing/R/141543-road-96.json"
-    },
-    {
-      "igdb_id": 233676,
-      "game_name": "Road 96: Mile 0",
-      "file": "missing/R/233676-road-96-mile-0.json"
     },
     {
       "igdb_id": 243799,
@@ -875442,11 +875372,6 @@
       "file": "missing/S/387564-sparkle-and-umbra.json"
     },
     {
-      "igdb_id": 20069,
-      "game_name": "Sparkle 2",
-      "file": "missing/S/20069-sparkle-2.json"
-    },
-    {
       "igdb_id": 16697,
       "game_name": "Sparkle 2 Evo",
       "file": "missing/S/16697-sparkle-2-evo.json"
@@ -888630,11 +888555,6 @@
       "igdb_id": 163291,
       "game_name": "Star Realms: United - Missions",
       "file": "missing/S/163291-star-realms-united-missions.json"
-    },
-    {
-      "igdb_id": 94816,
-      "game_name": "Star Renegades",
-      "file": "missing/S/94816-star-renegades.json"
     },
     {
       "igdb_id": 169276,
@@ -1025002,11 +1024922,6 @@
       "file": "missing/T/26905-torchlight-mobile.json"
     },
     {
-      "igdb_id": 174897,
-      "game_name": "Torchlight: Infinite",
-      "file": "missing/T/174897-torchlight-infinite.json"
-    },
-    {
       "igdb_id": 249332,
       "game_name": "Torchlight: Infinite - Cube of Rapacity",
       "file": "missing/T/249332-torchlight-infinite-cube-of-rapacity.json"
@@ -1063107,11 +1063022,6 @@
       "file": "missing/U/356609-unshuffle.json"
     },
     {
-      "igdb_id": 111815,
-      "game_name": "Unsighted",
-      "file": "missing/U/111815-unsighted.json"
-    },
-    {
       "igdb_id": 373834,
       "game_name": "Unslaad",
       "file": "missing/U/373834-unslaad.json"
@@ -1067655,11 +1067565,6 @@
       "igdb_id": 47152,
       "game_name": "Valkyr",
       "file": "missing/V/47152-valkyr.json"
-    },
-    {
-      "igdb_id": 14674,
-      "game_name": "Valkyria Chronicles 2",
-      "file": "missing/V/14674-valkyria-chronicles-2.json"
     },
     {
       "igdb_id": 140351,
@@ -1091195,11 +1091100,6 @@
       "igdb_id": 93630,
       "game_name": "Waves: Arena Tactics",
       "file": "missing/W/93630-waves-arena-tactics.json"
-    },
-    {
-      "igdb_id": 165309,
-      "game_name": "Wavetale",
-      "file": "missing/W/165309-wavetale.json"
     },
     {
       "igdb_id": 149240,
