@@ -24187,7 +24187,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
 | Typomagical | 358232 | [358232-typomagical.json](./358232-typomagical.json) |
-| Typoman | 11225 | [11225-typoman.json](./11225-typoman.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
