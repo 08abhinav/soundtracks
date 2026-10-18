@@ -21608,6 +21608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Omniverse | 392113 | [392113-trapped-in-the-omniverse.json](./392113-trapped-in-the-omniverse.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
+| Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
@@ -21972,12 +21973,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tree.Bonsai | 104946 | [104946-tree-bonsai.json](./104946-tree-bonsai.json) |
 | Tree's Love Crossing Above | 346571 | [346571-trees-love-crossing-above.json](./346571-trees-love-crossing-above.json) |
 | TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
+| Treefiner | 338611 | [338611-treefiner.json](./338611-treefiner.json) |
 | Treehouse Riddle | 123888 | [123888-treehouse-riddle.json](./123888-treehouse-riddle.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
 | Treekeepers | 219535 | [219535-treekeepers.json](./219535-treekeepers.json) |
 | Treepury | 303802 | [303802-treepury.json](./303802-treepury.json) |
 | Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
+| Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
@@ -22196,6 +22199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
 | Tribunal 45 | 381978 | [381978-tribunal-45.json](./381978-tribunal-45.json) |
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
+| Tribute | 338609 | [338609-tribute.json](./338609-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
@@ -22322,6 +22326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigonometric Equations | 399883 | [399883-trigonometric-equations.json](./399883-trigonometric-equations.json) |
 | Trigonometry | 75792 | [75792-trigonometry.json](./75792-trigonometry.json) |
 | Trigonometry Dash | 283128 | [283128-trigonometry-dash.json](./283128-trigonometry-dash.json) |
+| Trigonomis | 338608 | [338608-trigonomis.json](./338608-trigonomis.json) |
 | Trihard | 183008 | [183008-trihard.json](./183008-trihard.json) |
 | Triku | 316628 | [316628-triku.json](./316628-triku.json) |
 | Trikumax | 115519 | [115519-trikumax.json](./115519-trikumax.json) |
@@ -22524,6 +22529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Toy Trivia | 101614 | [101614-trivia-vault-toy-trivia.json](./101614-trivia-vault-toy-trivia.json) |
 | Trivia Vault: TV Trivia | 100150 | [100150-trivia-vault-tv-trivia.json](./100150-trivia-vault-tv-trivia.json) |
 | Trivia Vault: Video Game Trivia Deluxe | 74339 | [74339-trivia-vault-video-game-trivia-deluxe.json](./74339-trivia-vault-video-game-trivia-deluxe.json) |
+| Trivia War | 338607 | [338607-trivia-war.json](./338607-trivia-war.json) |
 | Trivial Pursuit | 12970 | [12970-trivial-pursuit.json](./12970-trivial-pursuit.json) |
 | Trivial Pursuit | 78560 | [78560-trivial-pursuit.json](./78560-trivial-pursuit.json) |
 | Trivial Pursuit 2: A New Beginning | 69824 | [69824-trivial-pursuit-2-a-new-beginning.json](./69824-trivial-pursuit-2-a-new-beginning.json) |
@@ -22929,6 +22935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
+| Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
@@ -22966,6 +22973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth or Dare? Fun Party Games | 106945 | [106945-truth-or-dare-fun-party-games.json](./106945-truth-or-dare-fun-party-games.json) |
 | Truth or Lies | 25217 | [25217-truth-or-lies.json](./25217-truth-or-lies.json) |
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
+| Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
@@ -23082,6 +23090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugi no Giseisha wo Oshirase Shimasu: Kimi to Ko no Hateru Kotonai Kurayami wo | 340532 | [340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json](./340532-tsugi-no-giseisha-wo-oshirase-shimasu-kimi-to-ko-no-hateru-kotonai-kurayami-wo.json) |
 | Tsugunohi | 139179 | [139179-tsugunohi.json](./139179-tsugunohi.json) |
 | Tsugunohi: A Voice from Yesteryear | 270873 | [270873-tsugunohi-a-voice-from-yesteryear.json](./270873-tsugunohi-a-voice-from-yesteryear.json) |
+| Tsugunohi: Pocky Dog’s Adventure | 338604 | [338604-tsugunohi-pocky-dog-s-adventure.json](./338604-tsugunohi-pocky-dog-s-adventure.json) |
 | Tsugunohi: Supernatural Supermarket | 234297 | [234297-tsugunohi-supernatural-supermarket.json](./234297-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
@@ -23193,6 +23202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tu Dealer the Game | 105823 | [105823-tu-dealer-the-game.json](./105823-tu-dealer-the-game.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
+| Túatha Echoes: The Village | 338603 | [338603-tuatha-echoes-the-village.json](./338603-tuatha-echoes-the-village.json) |
 | Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
 | Tubby Toast | 307839 | [307839-tubby-toast.json](./307839-tubby-toast.json) |
@@ -23726,6 +23736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Town | 299856 | [299856-twilight-town.json](./299856-twilight-town.json) |
 | Twilight Town: A Cyberpunk FPS | 260400 | [260400-twilight-town-a-cyberpunk-fps.json](./260400-twilight-town-a-cyberpunk-fps.json) |
 | Twilight Wars | 211227 | [211227-twilight-wars.json](./211227-twilight-wars.json) |
+| Twilight Wars | 338602 | [338602-twilight-wars.json](./338602-twilight-wars.json) |
 | Twilight Wars: Declassified | 166205 | [166205-twilight-wars-declassified.json](./166205-twilight-wars-declassified.json) |
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
@@ -24095,6 +24106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type II | 124273 | [124273-type-ii.json](./124273-type-ii.json) |
 | Type King | 250477 | [250477-type-king.json](./250477-type-king.json) |
 | Type Knight | 124180 | [124180-type-knight.json](./124180-type-knight.json) |
+| Type One | 338601 | [338601-type-one.json](./338601-type-one.json) |
 | Type Ride | 374374 | [374374-type-ride.json](./374374-type-ride.json) |
 | Type the Entire of Ulysses. That's It. That's the Game. | 198526 | [198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json](./198526-type-the-entire-of-ulysses-thats-it-thats-the-game.json) |
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
