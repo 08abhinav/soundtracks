@@ -1579,6 +1579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banned Together | 350457 | [350457-banned-together.json](./350457-banned-together.json) |
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of Blood | 211090 | [211090-banner-of-blood.json](./211090-banner-of-blood.json) |
+| Banner of Conquest | 333421 | [333421-banner-of-conquest.json](./333421-banner-of-conquest.json) |
 | Banner of the Maid | 97932 | [97932-banner-of-the-maid.json](./97932-banner-of-the-maid.json) |
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battington Manor | 393481 | [393481-battington-manor.json](./393481-battington-manor.json) |
 | Battland | 292612 | [292612-battland.json](./292612-battland.json) |
 | Battlantis | 38544 | [38544-battlantis.json](./38544-battlantis.json) |
+| Battle | 333448 | [333448-battle.json](./333448-battle.json) |
 | Battle | 344392 | [344392-battle.json](./344392-battle.json) |
 | Battle 3D: Robots Sky | 138169 | [138169-battle-3d-robots-sky.json](./138169-battle-3d-robots-sky.json) |
 | Battle Academy | 200206 | [200206-battle-academy.json](./200206-battle-academy.json) |
@@ -8322,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloxolotl | 303166 | [303166-bloxolotl.json](./303166-bloxolotl.json) |
 | Bloxorz | 403450 | [403450-bloxorz.json](./403450-bloxorz.json) |
 | Bloxorz: Roll the Block | 105786 | [105786-bloxorz-roll-the-block.json](./105786-bloxorz-roll-the-block.json) |
+| Bloxpath | 333347 | [333347-bloxpath.json](./333347-bloxpath.json) |
 | Bloxs | 244791 | [244791-bloxs.json](./244791-bloxs.json) |
 | Bloxtacle Course | 267485 | [267485-bloxtacle-course.json](./267485-bloxtacle-course.json) |
 | Bloxter | 84267 | [84267-bloxter.json](./84267-bloxter.json) |
@@ -9330,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
 | Boogerman II: The Final Adventure | 242092 | [242092-boogerman-ii-the-final-adventure.json](./242092-boogerman-ii-the-final-adventure.json) |
 | Boogerman: A Pick and Flick Adventure | 19614 | [19614-boogerman-a-pick-and-flick-adventure.json](./19614-boogerman-a-pick-and-flick-adventure.json) |
+| Boogey Hunters | 333429 | [333429-boogey-hunters.json](./333429-boogey-hunters.json) |
 | Boogey's Wicked Game | 340042 | [340042-boogeys-wicked-game.json](./340042-boogeys-wicked-game.json) |
 | Boogeyman | 19015 | [19015-boogeyman.json](./19015-boogeyman.json) |
 | Boogeyman 3 | 270159 | [270159-boogeyman-3.json](./270159-boogeyman-3.json) |
