@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
 | Yoku aru Dasshutsu Game | 319889 | [319889-yoku-aru-dasshutsu-game.json](./319889-yoku-aru-dasshutsu-game.json) |
+| Yoku aru Dasshutsu Game: Gakushu Tengoku | 320003 | [320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json](./320003-yoku-aru-dasshutsu-game-gakushu-tengoku.json) |
 | Yoku's Island Express | 27367 | [27367-yokus-island-express.json](./27367-yokus-island-express.json) |
 | Yokubou Lock: Boku no Kanojo wa Shasei Kanrinin | 313262 | [313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json](./313262-yokubou-lock-boku-no-kanojo-wa-shasei-kanrinin.json) |
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
