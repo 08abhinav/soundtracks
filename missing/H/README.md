@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halley's Big Catch | 417530 | [417530-halleys-big-catch.json](./417530-halleys-big-catch.json) |
 | Halley's Comet | 40352 | [40352-halleys-comet.json](./40352-halleys-comet.json) |
 | Halley's Dream | 169372 | [169372-halleys-dream.json](./169372-halleys-dream.json) |
+| Halley2061 | 320599 | [320599-halley2061.json](./320599-halley2061.json) |
 | Halliwell's Garden | 359347 | [359347-halliwells-garden.json](./359347-halliwells-garden.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
@@ -4577,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hevn | 26427 | [26427-hevn.json](./26427-hevn.json) |
 | HewDraw Remix | 242804 | [242804-hewdraw-remix.json](./242804-hewdraw-remix.json) |
 | Hex | 308383 | [308383-hex.json](./308383-hex.json) |
+| Hex | 320617 | [320617-hex.json](./320617-hex.json) |
 | Hex | 322575 | [322575-hex.json](./322575-hex.json) |
 | Hex | 72028 | [72028-hex.json](./72028-hex.json) |
 | Hex & Agon | 144351 | [144351-hex-and-agon.json](./144351-hex-and-agon.json) |
