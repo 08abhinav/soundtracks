@@ -3335,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Breaker | 230312 | [230312-nightmare-breaker.json](./230312-nightmare-breaker.json) |
 | Nightmare Burger Hell | 181885 | [181885-nightmare-burger-hell.json](./181885-nightmare-burger-hell.json) |
 | Nightmare Busters Rebirth | 392366 | [392366-nightmare-busters-rebirth.json](./392366-nightmare-busters-rebirth.json) |
+| Nightmare Cafe II | 339165 | [339165-nightmare-cafe-ii.json](./339165-nightmare-cafe-ii.json) |
 | Nightmare Class Project | 390137 | [390137-nightmare-class-project.json](./390137-nightmare-class-project.json) |
 | Nightmare Collection: Telephone Call | 293657 | [293657-nightmare-collection-telephone-call.json](./293657-nightmare-collection-telephone-call.json) |
 | Nightmare Cops | 51522 | [51522-nightmare-cops.json](./51522-nightmare-cops.json) |
@@ -4100,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NitroZ | 262589 | [262589-nitroz.json](./262589-nitroz.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
 | Nium | 217817 | [217817-nium.json](./217817-nium.json) |
+| NiuMa | 339085 | [339085-niuma.json](./339085-niuma.json) |
 | NIV Bible & the 20 Lost Levels of Joshua | 70062 | [70062-niv-bible-and-the-20-lost-levels-of-joshua.json](./70062-niv-bible-and-the-20-lost-levels-of-joshua.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
