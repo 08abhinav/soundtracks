@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oedoshigusa | 310163 | [310163-oedoshigusa.json](./310163-oedoshigusa.json) |
 | Oeka Kids: Anpanman no Hiragana Daisuki | 48800 | [48800-oeka-kids-anpanman-no-hiragana-daisuki.json](./48800-oeka-kids-anpanman-no-hiragana-daisuki.json) |
 | Oeka Kids: Anpanman to Oekaki Shiyou!! | 48799 | [48799-oeka-kids-anpanman-to-oekaki-shiyou.json](./48799-oeka-kids-anpanman-to-oekaki-shiyou.json) |
+| Oekaki Logic | 344163 | [344163-oekaki-logic.json](./344163-oekaki-logic.json) |
 | Oekaki Logic | 44388 | [44388-oekaki-logic.json](./44388-oekaki-logic.json) |
 | Oekaki Logic 2 | 44387 | [44387-oekaki-logic-2.json](./44387-oekaki-logic-2.json) |
 | Oekaki Nokoshite Print Shichaou! Set | 327629 | [327629-oekaki-nokoshite-print-shichaou-set.json](./327629-oekaki-nokoshite-print-shichaou-set.json) |
@@ -915,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
 | Oil Platform Simulator | 65265 | [65265-oil-platform-simulator.json](./65265-oil-platform-simulator.json) |
+| Oil Refinery: The Simulation | 344242 | [344242-oil-refinery-the-simulation.json](./344242-oil-refinery-the-simulation.json) |
 | Oil Rush: Tower Defense Map Pack | 226120 | [226120-oil-rush-tower-defense-map-pack.json](./226120-oil-rush-tower-defense-map-pack.json) |
 | Oil Strike '75 | 310172 | [310172-oil-strike-75.json](./310172-oil-strike-75.json) |
 | Oil Town | 342825 | [342825-oil-town.json](./342825-oil-town.json) |
@@ -1135,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Boxing | 147751 | [147751-olympic-boxing.json](./147751-olympic-boxing.json) |
 | Olympic Decathlon | 178060 | [178060-olympic-decathlon.json](./178060-olympic-decathlon.json) |
 | Olympic Decathlon | 78618 | [78618-olympic-decathlon.json](./78618-olympic-decathlon.json) |
+| Olympic Games Quiz | 344243 | [344243-olympic-games-quiz.json](./344243-olympic-games-quiz.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
