@@ -3774,6 +3774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat & Beasties | 406225 | [406225-beat-and-beasties.json](./406225-beat-and-beasties.json) |
 | Beat Aimer! | 213971 | [213971-beat-aimer.json](./213971-beat-aimer.json) |
 | Beat Arena | 168686 | [168686-beat-arena.json](./168686-beat-arena.json) |
+| Beat Around the Bush | 327643 | [327643-beat-around-the-bush.json](./327643-beat-around-the-bush.json) |
 | Beat Back VR | 226346 | [226346-beat-back-vr.json](./226346-beat-back-vr.json) |
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
 | Beat Ball 2 | 345615 | [345615-beat-ball-2.json](./345615-beat-ball-2.json) |
@@ -6036,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BiPlane 4 | 112890 | [112890-biplane-4.json](./112890-biplane-4.json) |
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
+| Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
 | Birb Game | 343803 | [343803-birb-game.json](./343803-birb-game.json) |
@@ -6436,6 +6438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bass | 131473 | [131473-black-bass.json](./131473-black-bass.json) |
 | Black Bass with Blue Marlin | 43881 | [43881-black-bass-with-blue-marlin.json](./43881-black-bass-with-blue-marlin.json) |
 | Black Bass: Lure Fishing | 7787 | [7787-black-bass-lure-fishing.json](./7787-black-bass-lure-fishing.json) |
+| Black Beacon | 327651 | [327651-black-beacon.json](./327651-black-beacon.json) |
 | Black Beacon: Forsaken Eternity | 349327 | [349327-black-beacon-forsaken-eternity.json](./349327-black-beacon-forsaken-eternity.json) |
 | Black Beacon: Whispers of the Stars | 352859 | [352859-black-beacon-whispers-of-the-stars.json](./352859-black-beacon-whispers-of-the-stars.json) |
 | Black Bekker | 126529 | [126529-black-bekker.json](./126529-black-bekker.json) |
@@ -8535,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueGlow | 116283 | [116283-blueglow.json](./116283-blueglow.json) |
 | BlueGlow: Operation Blue Rain | 174175 | [174175-blueglow-operation-blue-rain.json](./174175-blueglow-operation-blue-rain.json) |
 | Bluegrass | 386930 | [386930-bluegrass.json](./386930-bluegrass.json) |
+| Bluejeweled | 327679 | [327679-bluejeweled.json](./327679-bluejeweled.json) |
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
@@ -10066,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Sword | 38351 | [38351-bounty-sword.json](./38351-bounty-sword.json) |
 | Bounty Sword First | 57059 | [57059-bounty-sword-first.json](./57059-bounty-sword-first.json) |
 | Bounty Sword: Double Edge | 57057 | [57057-bounty-sword-double-edge.json](./57057-bounty-sword-double-edge.json) |
+| Bounty Sword: Satellaview Special Time Attack Version | 327645 | [327645-bounty-sword-satellaview-special-time-attack-version.json](./327645-bounty-sword-satellaview-special-time-attack-version.json) |
 | Bounty Trail | 416850 | [416850-bounty-trail.json](./416850-bounty-trail.json) |
 | Bounty Train | 11802 | [11802-bounty-train.json](./11802-bounty-train.json) |
 | Bounty: Drag Racing | 243047 | [243047-bounty-drag-racing.json](./243047-bounty-drag-racing.json) |
@@ -11063,6 +11068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brew & Defend | 412495 | [412495-brew-and-defend.json](./412495-brew-and-defend.json) |
 | Brew Besties | 290877 | [290877-brew-besties.json](./290877-brew-besties.json) |
+| Brew in Blizzard | 327658 | [327658-brew-in-blizzard.json](./327658-brew-in-blizzard.json) |
 | Brew or Die | 356999 | [356999-brew-or-die.json](./356999-brew-or-die.json) |
 | Brew Town | 96583 | [96583-brew-town.json](./96583-brew-town.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
@@ -12080,6 +12086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Explorers | 200478 | [200478-bug-explorers.json](./200478-bug-explorers.json) |
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
+| Bug Fables: Vi Simulator | 327674 | [327674-bug-fables-vi-simulator.json](./327674-bug-fables-vi-simulator.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Heroes Quest | 101039 | [101039-bug-heroes-quest.json](./101039-bug-heroes-quest.json) |
 | Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
