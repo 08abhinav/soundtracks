@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
+| Racing Moto | 350770 | [350770-racing-moto.json](./350770-racing-moto.json) |
 | Racing Penguin: Slide and Fly! | 86973 | [86973-racing-penguin-slide-and-fly.json](./86973-racing-penguin-slide-and-fly.json) |
 | Racing Pitch | 70955 | [70955-racing-pitch.json](./70955-racing-pitch.json) |
 | Racing Rebels Mud Clash | 347101 | [347101-racing-rebels-mud-clash.json](./347101-racing-rebels-mud-clash.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
 | Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
+| Regarding Sasha | 350866 | [350866-regarding-sasha.json](./350866-regarding-sasha.json) |
 | Regency Solitaire | 35745 | [35745-regency-solitaire.json](./35745-regency-solitaire.json) |
 | Regency Solitaire II | 237089 | [237089-regency-solitaire-ii.json](./237089-regency-solitaire-ii.json) |
 | Regenesis | 238620 | [238620-regenesis.json](./238620-regenesis.json) |
@@ -3524,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rememory | 126380 | [126380-rememory.json](./126380-rememory.json) |
 | Rememory | 205102 | [205102-rememory.json](./205102-rememory.json) |
 | RememPair | 349304 | [349304-remempair.json](./349304-remempair.json) |
+| RememPair: Anime Avatars | 350863 | [350863-remempair-anime-avatars.json](./350863-remempair-anime-avatars.json) |
 | Remi | 388700 | [388700-remi.json](./388700-remi.json) |
 | RemiFla Spirits 2 | 213957 | [213957-remifla-spirits-2.json](./213957-remifla-spirits-2.json) |
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
@@ -5304,6 +5307,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift of the NecroDancer: Hatsune Miku - "M@gical Cure! Love Shot!" | 352276 | [352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json](./352276-rift-of-the-necrodancer-hatsune-miku-m-gical-cure-love-shot.json) |
 | Rift of the NecroDancer: Hatsune Miku - "MikuFiesta" | 352275 | [352275-rift-of-the-necrodancer-hatsune-miku-mikufiesta.json](./352275-rift-of-the-necrodancer-hatsune-miku-mikufiesta.json) |
 | Rift of the NecroDancer: Hatsune Miku - "Radiant Revival" | 352277 | [352277-rift-of-the-necrodancer-hatsune-miku-radiant-revival.json](./352277-rift-of-the-necrodancer-hatsune-miku-radiant-revival.json) |
+| Rift of the NecroDancer: Hatsune Miku - "Too Real" | 350865 | [350865-rift-of-the-necrodancer-hatsune-miku-too-real.json](./350865-rift-of-the-necrodancer-hatsune-miku-too-real.json) |
+| Rift of the NecroDancer: Hatsune Miku Music Pack | 350864 | [350864-rift-of-the-necrodancer-hatsune-miku-music-pack.json](./350864-rift-of-the-necrodancer-hatsune-miku-music-pack.json) |
 | Rift of the NecroDancer: hololive - "Ahoy!! Warera Takara Kane Kaizoku-dan☆" | 352283 | [352283-rift-of-the-necrodancer-hololive-ahoy-warera-takara-kane-kaizoku-dan.json](./352283-rift-of-the-necrodancer-hololive-ahoy-warera-takara-kane-kaizoku-dan.json) |
 | Rift of the NecroDancer: hololive - "Bibbidiba" | 352280 | [352280-rift-of-the-necrodancer-hololive-bibbidiba.json](./352280-rift-of-the-necrodancer-hololive-bibbidiba.json) |
 | Rift of the NecroDancer: hololive - "Carbonated Love" | 352281 | [352281-rift-of-the-necrodancer-hololive-carbonated-love.json](./352281-rift-of-the-necrodancer-hololive-carbonated-love.json) |
@@ -6207,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robbie | 225218 | [225218-robbie.json](./225218-robbie.json) |
 | Robbie Swifthand and the Orb of Mysteries | 76404 | [76404-robbie-swifthand-and-the-orb-of-mysteries.json](./76404-robbie-swifthand-and-the-orb-of-mysteries.json) |
 | Robbie's Tale | 236890 | [236890-robbies-tale.json](./236890-robbies-tale.json) |
+| Robbing Time | 350778 | [350778-robbing-time.json](./350778-robbing-time.json) |
 | Robbit Mon Dieu | 63781 | [63781-robbit-mon-dieu.json](./63781-robbit-mon-dieu.json) |
 | Robbo | 60071 | [60071-robbo.json](./60071-robbo.json) |
 | Robbo Millennium | 400081 | [400081-robbo-millennium.json](./400081-robbo-millennium.json) |
