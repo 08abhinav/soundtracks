@@ -11820,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters of Kanji | 95181 | [95181-monsters-of-kanji.json](./95181-monsters-of-kanji.json) |
 | Monsters of Kanji 2 | 124205 | [124205-monsters-of-kanji-2.json](./124205-monsters-of-kanji-2.json) |
 | Monsters of Mican | 270307 | [270307-monsters-of-mican.json](./270307-monsters-of-mican.json) |
+| Monsters of Moldred | 310265 | [310265-monsters-of-moldred.json](./310265-monsters-of-moldred.json) |
 | Monsters of Seabrook | 224653 | [224653-monsters-of-seabrook.json](./224653-monsters-of-seabrook.json) |
 | Monsters sandbox | 127085 | [127085-monsters-sandbox.json](./127085-monsters-sandbox.json) |
 | Monsters Tap Tap Music Battle University | 253273 | [253273-monsters-tap-tap-music-battle-university.json](./253273-monsters-tap-tap-music-battle-university.json) |
@@ -14778,6 +14779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Faithful and Loyal Wife Would Never Cheat on Me | 278413 | [278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json](./278413-my-faithful-and-loyal-wife-would-never-cheat-on-me.json) |
 | My Fake Boyfriend | 299457 | [299457-my-fake-boyfriend.json](./299457-my-fake-boyfriend.json) |
 | My Family Tree | 379169 | [379169-my-family-tree.json](./379169-my-family-tree.json) |
+| My Fantasy Hostess Club | 310243 | [310243-my-fantasy-hostess-club.json](./310243-my-fantasy-hostess-club.json) |
 | My Fantasy Wedding | 73354 | [73354-my-fantasy-wedding.json](./73354-my-fantasy-wedding.json) |
 | My Farm | 107900 | [107900-my-farm.json](./107900-my-farm.json) |
 | My Farm | 84717 | [84717-my-farm.json](./84717-my-farm.json) |
@@ -14837,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
+| My Friend Toby | 310266 | [310266-my-friend-toby.json](./310266-my-friend-toby.json) |
 | My Friend was Dehydrated | 347001 | [347001-my-friend-was-dehydrated.json](./347001-my-friend-was-dehydrated.json) |
 | My Friend, the Catgirl | 239703 | [239703-my-friend-the-catgirl.json](./239703-my-friend-the-catgirl.json) |
 | My Friend, the Wickhorn | 415072 | [415072-my-friend-the-wickhorn.json](./415072-my-friend-the-wickhorn.json) |
