@@ -10893,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
 | Sniper Road | 190956 | [190956-sniper-road.json](./190956-sniper-road.json) |
+| Sniper Scope: Realistic Tactical Shooter | 336397 | [336397-sniper-scope-realistic-tactical-shooter.json](./336397-sniper-scope-realistic-tactical-shooter.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
 | Sniper Squad Mission | 99659 | [99659-sniper-squad-mission.json](./99659-sniper-squad-mission.json) |
@@ -14438,6 +14439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
+| Space Truck Simulator | 336396 | [336396-space-truck-simulator.json](./336396-space-truck-simulator.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
 | Space Tunnel | 55823 | [55823-space-tunnel.json](./55823-space-tunnel.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
@@ -24672,6 +24674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Planet Yubglub | 274934 | [274934-survive-planet-yubglub.json](./274934-survive-planet-yubglub.json) |
+| Survive Society | 336333 | [336333-survive-society.json](./336333-survive-society.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
