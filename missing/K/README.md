@@ -1768,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill All Lice | 320322 | [320322-kill-all-lice.json](./320322-kill-all-lice.json) |
 | Kill all Zombies | 95303 | [95303-kill-all-zombies.json](./95303-kill-all-zombies.json) |
 | Kill Ball | 286077 | [286077-kill-ball.json](./286077-kill-ball.json) |
+| Kill Barney | 338037 | [338037-kill-barney.json](./338037-kill-barney.json) |
 | Kill Barney in Tokyo | 325818 | [325818-kill-barney-in-tokyo.json](./325818-kill-barney-in-tokyo.json) |
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
@@ -2344,6 +2345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Knight: Wrath of the Dark Dragon | 24010 | [24010-kings-knight-wrath-of-the-dark-dragon.json](./24010-kings-knight-wrath-of-the-dark-dragon.json) |
 | King's League II | 113688 | [113688-kings-league-ii.json](./113688-kings-league-ii.json) |
 | King's League: Odyssey | 174594 | [174594-kings-league-odyssey.json](./174594-kings-league-odyssey.json) |
+| King's Legacy: A Crown Divided - Collector's Edition | 338057 | [338057-kings-legacy-a-crown-divided-collectors-edition.json](./338057-kings-legacy-a-crown-divided-collectors-edition.json) |
 | King's Mug | 393138 | [393138-kings-mug.json](./393138-kings-mug.json) |
 | King's Odyssey | 287589 | [287589-kings-odyssey.json](./287589-kings-odyssey.json) |
 | King's Path Solitaire | 201053 | [201053-kings-path-solitaire.json](./201053-kings-path-solitaire.json) |
