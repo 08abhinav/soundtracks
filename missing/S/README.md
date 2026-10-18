@@ -10756,6 +10756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaker Store Simulator | 389965 | [389965-sneaker-store-simulator.json](./389965-sneaker-store-simulator.json) |
 | Sneakers | 6053 | [6053-sneakers.json](./6053-sneakers.json) |
 | SneakR | 184950 | [184950-sneakr.json](./184950-sneakr.json) |
+| Sneaky All-Nighter | 340275 | [340275-sneaky-all-nighter.json](./340275-sneaky-all-nighter.json) |
 | Sneaky All-Nighter 2 | 379035 | [379035-sneaky-all-nighter-2.json](./379035-sneaky-all-nighter-2.json) |
 | Sneaky Bears | 69320 | [69320-sneaky-bears.json](./69320-sneaky-bears.json) |
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
@@ -13827,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Defender | 76924 | [76924-space-defender.json](./76924-space-defender.json) |
 | Space Defender Battle Infinity | 109495 | [109495-space-defender-battle-infinity.json](./109495-space-defender-battle-infinity.json) |
 | Space Defense Grid | 162586 | [162586-space-defense-grid.json](./162586-space-defense-grid.json) |
+| Space Defense Special Force | 340197 | [340197-space-defense-special-force.json](./340197-space-defense-special-force.json) |
 | Space Demolisher | 25919 | [25919-space-demolisher.json](./25919-space-demolisher.json) |
 | Space Demon | 145469 | [145469-space-demon.json](./145469-space-demon.json) |
 | Space Demon Combat Tactics III | 186334 | [186334-space-demon-combat-tactics-iii.json](./186334-space-demon-combat-tactics-iii.json) |
@@ -14058,6 +14060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Revolution | 22290 | [22290-space-invaders-revolution.json](./22290-space-invaders-revolution.json) |
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
+| Space Invaders: Deck Commander | 340195 | [340195-space-invaders-deck-commander.json](./340195-space-invaders-deck-commander.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
@@ -14138,7 +14141,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mechanics: Repair Hiring Crafting | 351594 | [351594-space-mechanics-repair-hiring-crafting.json](./351594-space-mechanics-repair-hiring-crafting.json) |
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
+| Space Memory: Animals | 340194 | [340194-space-memory-animals.json](./340194-space-memory-animals.json) |
 | Space Memory: Butterflies | 343288 | [343288-space-memory-butterflies.json](./343288-space-memory-butterflies.json) |
+| Space Memory: Cats | 340193 | [340193-space-memory-cats.json](./340193-space-memory-cats.json) |
 | Space Memory: Chinchillas | 366098 | [366098-space-memory-chinchillas.json](./366098-space-memory-chinchillas.json) |
 | Space Memory: Dinosaurs | 366099 | [366099-space-memory-dinosaurs.json](./366099-space-memory-dinosaurs.json) |
 | Space Memory: Dogs | 357864 | [357864-space-memory-dogs.json](./357864-space-memory-dogs.json) |
@@ -14656,6 +14661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaghetti Celesti | 421214 | [421214-spaghetti-celesti.json](./421214-spaghetti-celesti.json) |
 | Spaghetti Western Shooter | 268381 | [268381-spaghetti-western-shooter.json](./268381-spaghetti-western-shooter.json) |
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
+| SpAIceRocks | 340192 | [340192-spaicerocks.json](./340192-spaicerocks.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
 | Spam Runner 2 | 379012 | [379012-spam-runner-2.json](./379012-spam-runner-2.json) |
@@ -14901,6 +14907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
+| Spectral Realm | 340191 | [340191-spectral-realm.json](./340191-spectral-realm.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
@@ -15035,6 +15042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed X: Extreme 3D Car Racing | 251211 | [251211-speed-x-extreme-3d-car-racing.json](./251211-speed-x-extreme-3d-car-racing.json) |
 | Speed Zone | 51130 | [51130-speed-zone.json](./51130-speed-zone.json) |
 | Speedball | 10151 | [10151-speedball.json](./10151-speedball.json) |
+| Speedball | 340189 | [340189-speedball.json](./340189-speedball.json) |
 | Speedball 2 HD | 9027 | [9027-speedball-2-hd.json](./9027-speedball-2-hd.json) |
 | Speedball 2 Tournament | 10154 | [10154-speedball-2-tournament.json](./10154-speedball-2-tournament.json) |
 | Speedball 2: Brutal Deluxe | 10152 | [10152-speedball-2-brutal-deluxe.json](./10152-speedball-2-brutal-deluxe.json) |
@@ -15066,10 +15074,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedollama | 263766 | [263766-speedollama.json](./263766-speedollama.json) |
 | Speedonauts | 224661 | [224661-speedonauts.json](./224661-speedonauts.json) |
 | Speedpunk | 151147 | [151147-speedpunk.json](./151147-speedpunk.json) |
+| SpeedRacer | 340188 | [340188-speedracer.json](./340188-speedracer.json) |
 | SpeedRage | 72041 | [72041-speedrage.json](./72041-speedrage.json) |
 | SpeedRooms | 268957 | [268957-speedrooms.json](./268957-speedrooms.json) |
 | Speedrun | 140924 | [140924-speedrun.json](./140924-speedrun.json) |
 | Speedrun | 148854 | [148854-speedrun.json](./148854-speedrun.json) |
+| Speedrun Maker | 340187 | [340187-speedrun-maker.json](./340187-speedrun-maker.json) |
 | Speedrun Ninja | 116204 | [116204-speedrun-ninja.json](./116204-speedrun-ninja.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
@@ -15144,6 +15154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
 | Spell of Destruction | 28712 | [28712-spell-of-destruction.json](./28712-spell-of-destruction.json) |
+| Spell of Infinity | 340184 | [340184-spell-of-infinity.json](./340184-spell-of-infinity.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
 | Spell Slinger | 238562 | [238562-spell-slinger.json](./238562-spell-slinger.json) |
 | Spell Slingers: Trick or Treat | 198516 | [198516-spell-slingers-trick-or-treat.json](./198516-spell-slingers-trick-or-treat.json) |
@@ -15170,6 +15181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbind | 35646 | [35646-spellbind.json](./35646-spellbind.json) |
 | Spellbinder: The Nexus Conflict | 62208 | [62208-spellbinder-the-nexus-conflict.json](./62208-spellbinder-the-nexus-conflict.json) |
 | Spellbinders | 58708 | [58708-spellbinders.json](./58708-spellbinders.json) |
+| SpellBit | 340186 | [340186-spellbit.json](./340186-spellbit.json) |
 | Spellblade: Vengeance of the Witch Sisters | 403444 | [403444-spellblade-vengeance-of-the-witch-sisters.json](./403444-spellblade-vengeance-of-the-witch-sisters.json) |
 | SpellBlast | 58837 | [58837-spellblast.json](./58837-spellblast.json) |
 | Spellbook Demonslayers | 209740 | [209740-spellbook-demonslayers.json](./209740-spellbook-demonslayers.json) |
@@ -15188,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Party | 268382 | [268382-spellbound-party.json](./268382-spellbound-party.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
+| Spellbound Stumble | 340185 | [340185-spellbound-stumble.json](./340185-spellbound-stumble.json) |
 | Spellbound: A Detective's Tale | 309486 | [309486-spellbound-a-detectives-tale.json](./309486-spellbound-a-detectives-tale.json) |
 | Spellbound: Malachite Coven | 368150 | [368150-spellbound-malachite-coven.json](./368150-spellbound-malachite-coven.json) |
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
@@ -15540,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Web of Shadows - Amazing Allies Edition | 208778 | [208778-spider-man-web-of-shadows-amazing-allies-edition.json](./208778-spider-man-web-of-shadows-amazing-allies-edition.json) |
 | Spider-Sense Spider-Man and the Masked Menace | 220110 | [220110-spider-sense-spider-man-and-the-masked-menace.json](./220110-spider-sense-spider-man-and-the-masked-menace.json) |
 | Spider-Sense Spider-Man: Web-Master | 220111 | [220111-spider-sense-spider-man-web-master.json](./220111-spider-sense-spider-man-web-master.json) |
+| Spider-Tank vs. Aliens | 340182 | [340182-spider-tank-vs-aliens.json](./340182-spider-tank-vs-aliens.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
@@ -15830,6 +15844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirits of Mystery: Whisper of the Past | 302172 | [302172-spirits-of-mystery-whisper-of-the-past.json](./302172-spirits-of-mystery-whisper-of-the-past.json) |
 | Spirits of the Forest | 183839 | [183839-spirits-of-the-forest.json](./183839-spirits-of-the-forest.json) |
 | Spirits of the Silicium Forest | 237049 | [237049-spirits-of-the-silicium-forest.json](./237049-spirits-of-the-silicium-forest.json) |
+| Spirits of the Unloved | 340181 | [340181-spirits-of-the-unloved.json](./340181-spirits-of-the-unloved.json) |
 | Spirits of Xanadu | 17601 | [17601-spirits-of-xanadu.json](./17601-spirits-of-xanadu.json) |
 | Spirits of Yendor | 216879 | [216879-spirits-of-yendor.json](./216879-spirits-of-yendor.json) |
 | Spirits: Ciel Bleu | 44214 | [44214-spirits-ciel-bleu.json](./44214-spirits-ciel-bleu.json) |
@@ -15970,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
+| SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
 | Splix.io | 57900 | [57900-splix-io.json](./57900-splix-io.json) |
@@ -16089,6 +16105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooble: A Search Engine Story | 177484 | [177484-spooble-a-search-engine-story.json](./177484-spooble-a-search-engine-story.json) |
 | Spoockey | 189071 | [189071-spoockey.json](./189071-spoockey.json) |
 | Spoofs Playland | 373552 | [373552-spoofs-playland.json](./373552-spoofs-playland.json) |
+| Spook Game | 340178 | [340178-spook-game.json](./340178-spook-game.json) |
 | Spook House and Toxic Dumpsite | 69480 | [69480-spook-house-and-toxic-dumpsite.json](./69480-spook-house-and-toxic-dumpsite.json) |
 | Spook Tower | 179735 | [179735-spook-tower.json](./179735-spook-tower.json) |
 | Spook-A-Boo | 317993 | [317993-spook-a-boo.json](./317993-spook-a-boo.json) |
@@ -16343,6 +16360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprill: Aqua Adventures | 297460 | [297460-sprill-aqua-adventures.json](./297460-sprill-aqua-adventures.json) |
 | Sprill: The Mystery of the Bermuda Triangle | 54419 | [54419-sprill-the-mystery-of-the-bermuda-triangle.json](./54419-sprill-the-mystery-of-the-bermuda-triangle.json) |
 | Spring a Line | 359401 | [359401-spring-a-line.json](./359401-spring-a-line.json) |
+| Spring Adventure | 340177 | [340177-spring-adventure.json](./340177-spring-adventure.json) |
 | Spring and Girls | 160080 | [160080-spring-and-girls.json](./160080-spring-and-girls.json) |
 | Spring Babies | 82165 | [82165-spring-babies.json](./82165-spring-babies.json) |
 | Spring Bonus | 28797 | [28797-spring-bonus.json](./28797-spring-bonus.json) |
@@ -16631,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Farm | 326102 | [326102-square-farm.json](./326102-square-farm.json) |
 | Square Fighter | 124706 | [124706-square-fighter.json](./124706-square-fighter.json) |
 | Square Fighters | 131591 | [131591-square-fighters.json](./131591-square-fighters.json) |
+| Square Fishing Builder | 340176 | [340176-square-fishing-builder.json](./340176-square-fishing-builder.json) |
 | Square Flood | 58259 | [58259-square-flood.json](./58259-square-flood.json) |
 | Square Game | 373742 | [373742-square-game.json](./373742-square-game.json) |
 | Square Garden | 234748 | [234748-square-garden.json](./234748-square-garden.json) |
@@ -16639,6 +16658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square It: An Electronic Game of Capture the Boxes | 217928 | [217928-square-it-an-electronic-game-of-capture-the-boxes.json](./217928-square-it-an-electronic-game-of-capture-the-boxes.json) |
 | Square Journey | 202557 | [202557-square-journey.json](./202557-square-journey.json) |
 | Square Jump | 106377 | [106377-square-jump.json](./106377-square-jump.json) |
+| Square Jump | 340175 | [340175-square-jump.json](./340175-square-jump.json) |
 | Square Keeper | 201481 | [201481-square-keeper.json](./201481-square-keeper.json) |
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
@@ -16698,6 +16718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SquareWorld Unpixeled | 110825 | [110825-squareworld-unpixeled.json](./110825-squareworld-unpixeled.json) |
 | Squarez Deluxe! | 57014 | [57014-squarez-deluxe.json](./57014-squarez-deluxe.json) |
 | Squarez: Escape The Squares | 262357 | [262357-squarez-escape-the-squares.json](./262357-squarez-escape-the-squares.json) |
+| Squaser | 340174 | [340174-squaser.json](./340174-squaser.json) |
 | Squaser 6 | 368490 | [368490-squaser-6.json](./368490-squaser-6.json) |
 | Squaser 7 | 367047 | [367047-squaser-7.json](./367047-squaser-7.json) |
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
@@ -20576,6 +20597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
 | Struggling | 115624 | [115624-struggling.json](./115624-struggling.json) |
 | Strum | 285159 | [285159-strum.json](./285159-strum.json) |
+| Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
 | Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
