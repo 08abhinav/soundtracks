@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco and the Tumbling Seed Box | 138051 | [138051-paco-and-the-tumbling-seed-box.json](./138051-paco-and-the-tumbling-seed-box.json) |
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
+| Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
@@ -692,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palettopia | 410334 | [410334-palettopia.json](./410334-palettopia.json) |
 | Palhalla | 285921 | [285921-palhalla.json](./285921-palhalla.json) |
 | Palia: The Elderwood | 348035 | [348035-palia-the-elderwood.json](./348035-palia-the-elderwood.json) |
+| Palianytsia | 351388 | [351388-palianytsia.json](./351388-palianytsia.json) |
 | Palikat | 251194 | [251194-palikat.json](./251194-palikat.json) |
 | Palimpsest | 397988 | [397988-palimpsest.json](./397988-palimpsest.json) |
 | Palindrome Syndrome: Escape Room | 139604 | [139604-palindrome-syndrome-escape-room.json](./139604-palindrome-syndrome-escape-room.json) |
@@ -1993,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passengers on the Wind | 15335 | [15335-passengers-on-the-wind.json](./15335-passengers-on-the-wind.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
+| Passer | 351394 | [351394-passer.json](./351394-passer.json) |
 | Passerines in End Times | 383193 | [383193-passerines-in-end-times.json](./383193-passerines-in-end-times.json) |
 | Passin'Time | 181042 | [181042-passintime.json](./181042-passintime.json) |
 | Passing By | 201635 | [201635-passing-by.json](./201635-passing-by.json) |
@@ -2634,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachboy Legend | 78941 | [78941-peachboy-legend.json](./78941-peachboy-legend.json) |
 | Peachboy Legend II | 37655 | [37655-peachboy-legend-ii.json](./37655-peachboy-legend-ii.json) |
 | Peaches and Dreams | 293852 | [293852-peaches-and-dreams.json](./293852-peaches-and-dreams.json) |
+| Peaches Interplanetary | 351423 | [351423-peaches-interplanetary.json](./351423-peaches-interplanetary.json) |
 | Peachleaf Valley: Seeds of Love | 152935 | [152935-peachleaf-valley-seeds-of-love.json](./152935-peachleaf-valley-seeds-of-love.json) |
 | Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
@@ -3576,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
+| Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
@@ -11768,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
+| Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
 | Promethean Hive Wave Defense | 383097 | [383097-promethean-hive-wave-defense.json](./383097-promethean-hive-wave-defense.json) |
 | Promethean Thirst | 405695 | [405695-promethean-thirst.json](./405695-promethean-thirst.json) |
 | Prometheus Unbound | 182896 | [182896-prometheus-unbound.json](./182896-prometheus-unbound.json) |
