@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Arrangement | 178228 | [178228-pac-man-arrangement.json](./178228-pac-man-arrangement.json) |
 | Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
 | Pac-Man Battle Royale | 66485 | [66485-pac-man-battle-royale.json](./66485-pac-man-battle-royale.json) |
+| Pac-Man Battle Royale Chompionship | 327012 | [327012-pac-man-battle-royale-chompionship.json](./327012-pac-man-battle-royale-chompionship.json) |
 | Pac-Man Championship Edition | 204672 | [204672-pac-man-championship-edition.json](./204672-pac-man-championship-edition.json) |
 | Pac-Man Collection | 308389 | [308389-pac-man-collection.json](./308389-pac-man-collection.json) |
 | Pac-Man Collection | 6528 | [6528-pac-man-collection.json](./6528-pac-man-collection.json) |
@@ -876,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panel Flux | 269112 | [269112-panel-flux.json](./269112-panel-flux.json) |
 | Panel Rabbit | 253611 | [253611-panel-rabbit.json](./253611-panel-rabbit.json) |
 | Panel Room: Escape Game | 276927 | [276927-panel-room-escape-game.json](./276927-panel-room-escape-game.json) |
+| Panelak | 327022 | [327022-panelak.json](./327022-panelak.json) |
 | Panelka | 331522 | [331522-panelka.json](./331522-panelka.json) |
 | Panelki | 192269 | [192269-panelki.json](./192269-panelki.json) |
 | Panels | 298248 | [298248-panels.json](./298248-panels.json) |
@@ -3355,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Digital Deluxe Edition | 262642 | [262642-persona-3-reload-digital-deluxe-edition.json](./262642-persona-3-reload-digital-deluxe-edition.json) |
 | Persona 3 Reload: Digital Premium Edition | 262643 | [262643-persona-3-reload-digital-premium-edition.json](./262643-persona-3-reload-digital-premium-edition.json) |
 | Persona 3 Reload: Episode Aigis | 289703 | [289703-persona-3-reload-episode-aigis.json](./289703-persona-3-reload-episode-aigis.json) |
+| Persona 3 Reload: FeMC Mod | 327019 | [327019-persona-3-reload-femc-mod.json](./327019-persona-3-reload-femc-mod.json) |
 | Persona 3 Reload: FemC Reloaded Project | 328622 | [328622-persona-3-reload-femc-reloaded-project.json](./328622-persona-3-reload-femc-reloaded-project.json) |
 | Persona 3 Reload: Limited Box | 262641 | [262641-persona-3-reload-limited-box.json](./262641-persona-3-reload-limited-box.json) |
 | Persona 3 Reload: Persona 4 Golden Persona Set | 301578 | [301578-persona-3-reload-persona-4-golden-persona-set.json](./301578-persona-3-reload-persona-4-golden-persona-set.json) |
@@ -12774,6 +12777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Overkill | 160071 | [160071-purgatory-overkill.json](./160071-purgatory-overkill.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
+| Purgatory: Blue | 327038 | [327038-purgatory-blue.json](./327038-purgatory-blue.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
