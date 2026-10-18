@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
+| Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
 | Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
@@ -3721,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renny Blaster | 42008 | [42008-renny-blaster.json](./42008-renny-blaster.json) |
 | Renova | 169723 | [169723-renova.json](./169723-renova.json) |
 | Renovation Products Collection 1 | 157521 | [157521-renovation-products-collection-1.json](./157521-renovation-products-collection-1.json) |
+| Renovation Simulator | 312415 | [312415-renovation-simulator.json](./312415-renovation-simulator.json) |
 | Renovators | 163882 | [163882-renovators.json](./163882-renovators.json) |
 | Renown | 152656 | [152656-renown.json](./152656-renown.json) |
 | Renowned Explorers: Definitive Edition | 124777 | [124777-renowned-explorers-definitive-edition.json](./124777-renowned-explorers-definitive-edition.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
+| Road to Champion: Boxing Simulator | 312428 | [312428-road-to-champion-boxing-simulator.json](./312428-road-to-champion-boxing-simulator.json) |
 | Road to Devadatta | 225198 | [225198-road-to-devadatta.json](./225198-road-to-devadatta.json) |
 | Road to Eden | 106101 | [106101-road-to-eden.json](./106101-road-to-eden.json) |
 | Road to Empress I | 351103 | [351103-road-to-empress-i.json](./351103-road-to-empress-i.json) |
@@ -9378,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
+| Rusty Junkyard Simulator | 312429 | [312429-rusty-junkyard-simulator.json](./312429-rusty-junkyard-simulator.json) |
 | Rusty Orb | 95560 | [95560-rusty-orb.json](./95560-rusty-orb.json) |
 | Rusty Prison: Horror | 420660 | [420660-rusty-prison-horror.json](./420660-rusty-prison-horror.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
