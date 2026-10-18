@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blurred Line | 47110 | [47110-a-blurred-line.json](./47110-a-blurred-line.json) |
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
+| A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
 | A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
@@ -339,6 +340,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game of Turnabouts | 308544 | [308544-a-game-of-turnabouts.json](./308544-a-game-of-turnabouts.json) |
 | A Game That Rhymes With Grug | 351703 | [351703-a-game-that-rhymes-with-grug.json](./351703-a-game-that-rhymes-with-grug.json) |
 | A Game With a Kitty | 74789 | [74789-a-game-with-a-kitty.json](./74789-a-game-with-a-kitty.json) |
+| A Game with a Kitty 3 | 313567 | [313567-a-game-with-a-kitty-3.json](./313567-a-game-with-a-kitty-3.json) |
+| A Game with a Kitty 6: Moon Minion | 313576 | [313576-a-game-with-a-kitty-6-moon-minion.json](./313576-a-game-with-a-kitty-6-moon-minion.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
@@ -3433,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aguante Imaginario | 107240 | [107240-aguante-imaginario.json](./107240-aguante-imaginario.json) |
 | Aguni: Unmei no Saki | 413839 | [413839-aguni-unmei-no-saki.json](./413839-aguni-unmei-no-saki.json) |
 | Aguri Suzuki F-1 Super Driving | 7747 | [7747-aguri-suzuki-f-1-super-driving.json](./7747-aguri-suzuki-f-1-super-driving.json) |
+| AGwaK Adventures | 313574 | [313574-agwak-adventures.json](./313574-agwak-adventures.json) |
 | AGX GP | 387614 | [387614-agx-gp.json](./387614-agx-gp.json) |
 | Ah Eikou No Koushien | 39536 | [39536-ah-eikou-no-koushien.json](./39536-ah-eikou-no-koushien.json) |
 | Ah Nanjarin | 284418 | [284418-ah-nanjarin.json](./284418-ah-nanjarin.json) |
@@ -7012,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Arena | 274950 | [274950-animal-arena.json](./274950-animal-arena.json) |
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
+| Animal Basket | 313573 | [313573-animal-basket.json](./313573-animal-basket.json) |
 | Animal Battle Arena | 315808 | [315808-animal-battle-arena.json](./315808-animal-battle-arena.json) |
 | Animal Bingo | 351580 | [351580-animal-bingo.json](./351580-animal-bingo.json) |
 | Animal Bomb Chess | 303147 | [303147-animal-bomb-chess.json](./303147-animal-bomb-chess.json) |
@@ -8169,6 +8174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Rebels | 275576 | [275576-apex-rebels.json](./275576-apex-rebels.json) |
 | Apex Rush | 277785 | [277785-apex-rush.json](./277785-apex-rush.json) |
 | Apex Sweeper | 403755 | [403755-apex-sweeper.json](./403755-apex-sweeper.json) |
+| Apexaris Tower | 313558 | [313558-apexaris-tower.json](./313558-apexaris-tower.json) |
 | Aphasia | 422086 | [422086-aphasia.json](./422086-aphasia.json) |
 | Aphelion | 171599 | [171599-aphelion.json](./171599-aphelion.json) |
 | Aphelion | 348192 | [348192-aphelion.json](./348192-aphelion.json) |
@@ -12573,6 +12579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avadon 3: The Warborn - Deluxe Edition | 52621 | [52621-avadon-3-the-warborn-deluxe-edition.json](./52621-avadon-3-the-warborn-deluxe-edition.json) |
 | Avakin Life | 86966 | [86966-avakin-life.json](./86966-avakin-life.json) |
 | Avalanche | 46840 | [46840-avalanche.json](./46840-avalanche.json) |
+| Avalanche Escape | 313554 | [313554-avalanche-escape.json](./313554-avalanche-escape.json) |
 | Avalanche Snowboarding | 214763 | [214763-avalanche-snowboarding.json](./214763-avalanche-snowboarding.json) |
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalanches | 188511 | [188511-avalanches.json](./188511-avalanches.json) |
