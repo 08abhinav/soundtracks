@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GA Geijutsuka Art Design Class: Slapstick Wonderland | 241429 | [241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json](./241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json) |
 | GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
+| Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
 | Gabby's Dollhouse: Ready to Party | 355923 | [355923-gabbys-dollhouse-ready-to-party.json](./355923-gabbys-dollhouse-ready-to-party.json) |
 | Gaben Clicker | 54468 | [54468-gaben-clicker.json](./54468-gaben-clicker.json) |
@@ -2611,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ggg Collection | 170854 | [170854-ggg-collection.json](./170854-ggg-collection.json) |
 | Ggg Collection: Gubbie | 170853 | [170853-ggg-collection-gubbie.json](./170853-ggg-collection-gubbie.json) |
 | Ggg Collection: The Olivia Saga | 170852 | [170852-ggg-collection-the-olivia-saga.json](./170852-ggg-collection-the-olivia-saga.json) |
+| GGmuks Casino: Slots | 322432 | [322432-ggmuks-casino-slots.json](./322432-ggmuks-casino-slots.json) |
 | GGnZ: Deck of the Dead | 372193 | [372193-ggnz-deck-of-the-dead.json](./372193-ggnz-deck-of-the-dead.json) |
 | GGX: Great Grandma Escape | 200124 | [200124-ggx-great-grandma-escape.json](./200124-ggx-great-grandma-escape.json) |
 | Ghaib | 117767 | [117767-ghaib.json](./117767-ghaib.json) |
@@ -6869,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grocery Grab | 253937 | [253937-grocery-grab.json](./253937-grocery-grab.json) |
 | Grocery Quest mini | 178504 | [178504-grocery-quest-mini.json](./178504-grocery-quest-mini.json) |
 | Grocery Run | 365864 | [365864-grocery-run.json](./365864-grocery-run.json) |
+| Grocery Shop Simulator | 322408 | [322408-grocery-shop-simulator.json](./322408-grocery-shop-simulator.json) |
 | Grocery Simulator | 306657 | [306657-grocery-simulator.json](./306657-grocery-simulator.json) |
 | Grocery Store Simulator | 326420 | [326420-grocery-store-simulator.json](./326420-grocery-store-simulator.json) |
 | Groda | 338537 | [338537-groda.json](./338537-groda.json) |
