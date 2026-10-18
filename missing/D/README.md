@@ -11634,6 +11634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamy Syrup | 330906 | [330906-dreamy-syrup.json](./330906-dreamy-syrup.json) |
 | Dreary Disposition | 271799 | [271799-dreary-disposition.json](./271799-dreary-disposition.json) |
 | Dredark | 152886 | [152886-dredark.json](./152886-dredark.json) |
+| Dredge: Blackstone Key | 336950 | [336950-dredge-blackstone-key.json](./336950-dredge-blackstone-key.json) |
 | Dredge: Complete Edition | 313780 | [313780-dredge-complete-edition.json](./313780-dredge-complete-edition.json) |
 | Dredge: Deluxe Edition | 239148 | [239148-dredge-deluxe-edition.json](./239148-dredge-deluxe-edition.json) |
 | Dredge: Digital Deluxe Edition | 240219 | [240219-dredge-digital-deluxe-edition.json](./240219-dredge-digital-deluxe-edition.json) |
