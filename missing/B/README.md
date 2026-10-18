@@ -7562,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Beast | 353794 | [353794-block-beast.json](./353794-block-beast.json) |
 | Block Blast | 130896 | [130896-block-blast.json](./130896-block-blast.json) |
 | Block Blaster | 245184 | [245184-block-blaster.json](./245184-block-blaster.json) |
+| Block Blaster DX! | 324190 | [324190-block-blaster-dx.json](./324190-block-blaster-dx.json) |
 | Block Blitz | 207280 | [207280-block-blitz.json](./207280-block-blitz.json) |
 | Block Block | 46763 | [46763-block-block.json](./46763-block-block.json) |
 | Block Block Block | 347845 | [347845-block-block-block.json](./347845-block-block-block.json) |
@@ -12587,6 +12588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunni: How We First Met | 225699 | [225699-bunni-how-we-first-met.json](./225699-bunni-how-we-first-met.json) |
 | Bunnie Rabbot in Sonic the Hedgehog | 129180 | [129180-bunnie-rabbot-in-sonic-the-hedgehog.json](./129180-bunnie-rabbot-in-sonic-the-hedgehog.json) |
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
+| Bunnies Huddled Together | 324175 | [324175-bunnies-huddled-together.json](./324175-bunnies-huddled-together.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
