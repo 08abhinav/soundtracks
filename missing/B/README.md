@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basil Goes O.U.T.S.I.D.E. | 202260 | [202260-basil-goes-o-u-t-s-i-d-e.json](./202260-basil-goes-o-u-t-s-i-d-e.json) |
 | Basileia Romaion 1736 | 356264 | [356264-basileia-romaion-1736.json](./356264-basileia-romaion-1736.json) |
+| Basilica | 353634 | [353634-basilica.json](./353634-basilica.json) |
 | Basilisk | 266975 | [266975-basilisk.json](./266975-basilisk.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10 Triple Pack | 86074 | [86074-ben-10-triple-pack.json](./86074-ben-10-triple-pack.json) |
 | Ben 10 Ultimate Alien: Mind Mine | 231387 | [231387-ben-10-ultimate-alien-mind-mine.json](./231387-ben-10-ultimate-alien-mind-mine.json) |
 | Ben 10 Ultimate Alien: Ultimate Crisis | 302729 | [302729-ben-10-ultimate-alien-ultimate-crisis.json](./302729-ben-10-ultimate-alien-ultimate-crisis.json) |
+| Ben 10 Ultimate Alien: Ultimate Defense | 353641 | [353641-ben-10-ultimate-alien-ultimate-defense.json](./353641-ben-10-ultimate-alien-ultimate-defense.json) |
 | Ben 10: 001 - Character: Ben Tennyson | 363184 | [363184-ben-10-001-character-ben-tennyson.json](./363184-ben-10-001-character-ben-tennyson.json) |
 | Ben 10: 002 - Character: Four Arms | 363186 | [363186-ben-10-002-character-four-arms.json](./363186-ben-10-002-character-four-arms.json) |
 | Ben 10: 003 - Character: Stinkfly | 363187 | [363187-ben-10-003-character-stinkfly.json](./363187-ben-10-003-character-stinkfly.json) |
