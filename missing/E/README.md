@@ -3531,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Es | 131273 | [131273-es.json](./131273-es.json) |
 | ES Games | 334784 | [334784-es-games.json](./334784-es-games.json) |
 | Es Un Día Normal y Eso Es Casi Milagroso | 346642 | [346642-es-un-dia-normal-y-eso-es-casi-milagroso.json](./346642-es-un-dia-normal-y-eso-es-casi-milagroso.json) |
+| ESA Shield | 348660 | [348660-esa-shield.json](./348660-esa-shield.json) |
 | eSail | 89648 | [89648-esail.json](./89648-esail.json) |
 | Esau's World | 294150 | [294150-esaus-world.json](./294150-esaus-world.json) |
 | Esc | 177419 | [177419-esc.json](./177419-esc.json) |
