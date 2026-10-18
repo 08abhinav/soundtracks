@@ -442,7 +442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 21: NXT LVL Edition | 141182 | [141182-madden-nfl-21-nxt-lvl-edition.json](./141182-madden-nfl-21-nxt-lvl-edition.json) |
 | Madden NFL 21: Superstar Edition | 164806 | [164806-madden-nfl-21-superstar-edition.json](./164806-madden-nfl-21-superstar-edition.json) |
 | Madden NFL 21: Ultimate Team Starter Pack | 140010 | [140010-madden-nfl-21-ultimate-team-starter-pack.json](./140010-madden-nfl-21-ultimate-team-starter-pack.json) |
-| Madden NFL 22 | 152480 | [152480-madden-nfl-22.json](./152480-madden-nfl-22.json) |
 | Madden NFL 22 | 243665 | [243665-madden-nfl-22.json](./243665-madden-nfl-22.json) |
 | Madden NFL 22: Dynasty Edition | 155098 | [155098-madden-nfl-22-dynasty-edition.json](./155098-madden-nfl-22-dynasty-edition.json) |
 | Madden NFL 23 | 203376 | [203376-madden-nfl-23.json](./203376-madden-nfl-23.json) |
