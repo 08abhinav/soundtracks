@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
 | Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
+| CatTrio | 320615 | [320615-cattrio.json](./320615-cattrio.json) |
 | CatTris | 332968 | [332968-cattris.json](./332968-cattris.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
@@ -9004,6 +9005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Rally | 326213 | [326213-combat-rally.json](./326213-combat-rally.json) |
 | Combat Reloaded | 98242 | [98242-combat-reloaded.json](./98242-combat-reloaded.json) |
 | Combat Research Division: Spider Unit | 408187 | [408187-combat-research-division-spider-unit.json](./408187-combat-research-division-spider-unit.json) |
+| Combat Rover: Operation Storm | 320587 | [320587-combat-rover-operation-storm.json](./320587-combat-rover-operation-storm.json) |
 | Combat rush | 108403 | [108403-combat-rush.json](./108403-combat-rush.json) |
 | Combat School | 13509 | [13509-combat-school.json](./13509-combat-school.json) |
 | Combat Search Rescue | 375339 | [375339-combat-search-rescue.json](./375339-combat-search-rescue.json) |
