@@ -3526,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceiling Mounted Sprinkler | 358439 | [358439-ceiling-mounted-sprinkler.json](./358439-ceiling-mounted-sprinkler.json) |
 | Ceiling Zero | 282105 | [282105-ceiling-zero.json](./282105-ceiling-zero.json) |
 | Ceke Ceke | 208227 | [208227-ceke-ceke.json](./208227-ceke-ceke.json) |
+| Cel by Date! | 358646 | [358646-cel-by-date.json](./358646-cel-by-date.json) |
 | Cel Damage 2 | 143110 | [143110-cel-damage-2.json](./143110-cel-damage-2.json) |
 | Cel Story | 364350 | [364350-cel-story.json](./364350-cel-story.json) |
 | Celadon | 214121 | [214121-celadon.json](./214121-celadon.json) |
@@ -13889,6 +13890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
+| Curio Compendium | 358643 | [358643-curio-compendium.json](./358643-curio-compendium.json) |
 | Curio Quest | 102027 | [102027-curio-quest.json](./102027-curio-quest.json) |
 | Curiosaurios Club: Un Viaje Espacial | 147375 | [147375-curiosaurios-club-un-viaje-espacial.json](./147375-curiosaurios-club-un-viaje-espacial.json) |
 | Curiosity | 108949 | [108949-curiosity.json](./108949-curiosity.json) |
