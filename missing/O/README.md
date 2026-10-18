@@ -4350,4 +4350,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ozymandias: The Andes | 236800 | [236800-ozymandias-the-andes.json](./236800-ozymandias-the-andes.json) |
 | Ozzie's Funtime Garden | 208987 | [208987-ozzies-funtime-garden.json](./208987-ozzies-funtime-garden.json) |
 | Ozzie's World | 398686 | [398686-ozzies-world.json](./398686-ozzies-world.json) |
+| Ozzy | 311332 | [311332-ozzy.json](./311332-ozzy.json) |
 | Ozzy & Drix | 49318 | [49318-ozzy-and-drix.json](./49318-ozzy-and-drix.json) |
