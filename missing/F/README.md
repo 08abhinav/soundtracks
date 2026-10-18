@@ -8282,6 +8282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free Fall | 364961 | [364961-free-fall.json](./364961-free-fall.json) |
+| Free Fishing | 344785 | [344785-free-fishing.json](./344785-free-fishing.json) |
 | Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
 | Free for Fall | 192970 | [192970-free-for-fall.json](./192970-free-for-fall.json) |
 | Free for Fall | 366627 | [366627-free-for-fall.json](./366627-free-for-fall.json) |
@@ -8851,6 +8852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
 | Froggie Dash | 311686 | [311686-froggie-dash.json](./311686-froggie-dash.json) |
+| Froggie Eggs | 344716 | [344716-froggie-eggs.json](./344716-froggie-eggs.json) |
 | Froggie: A Retro Platformer | 211968 | [211968-froggie-a-retro-platformer.json](./211968-froggie-a-retro-platformer.json) |
 | FroggieChat | 184831 | [184831-froggiechat.json](./184831-froggiechat.json) |
 | Froggin' Around | 265777 | [265777-froggin-around.json](./265777-froggin-around.json) |
