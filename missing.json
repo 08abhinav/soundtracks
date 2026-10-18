@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:18:18.155Z",
-  "total_missing": 227433,
+  "generated_at": "2026-10-18T08:26:31.114Z",
+  "total_missing": 227431,
   "games": [
     {
       "igdb_id": 191680,
@@ -98905,11 +98905,6 @@
       "igdb_id": 398359,
       "game_name": "Before Times",
       "file": "missing/B/398359-before-times.json"
-    },
-    {
-      "igdb_id": 120878,
-      "game_name": "Before We Leave",
-      "file": "missing/B/120878-before-we-leave.json"
     },
     {
       "igdb_id": 242609,
@@ -561455,11 +561450,6 @@
       "igdb_id": 146063,
       "game_name": "Maitre des Fleurs",
       "file": "missing/M/146063-maitre-des-fleurs.json"
-    },
-    {
-      "igdb_id": 19518,
-      "game_name": "Maize",
-      "file": "missing/M/19518-maize.json"
     },
     {
       "igdb_id": 326289,
