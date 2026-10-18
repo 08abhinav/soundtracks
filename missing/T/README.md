@@ -10181,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Museum Of Mr. Pence | 377934 | [377934-the-museum-of-mr-pence.json](./377934-the-museum-of-mr-pence.json) |
 | The Museum of Opportunity | 364015 | [364015-the-museum-of-opportunity.json](./364015-the-museum-of-opportunity.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
+| The Mushroom of Shadow | 340277 | [340277-the-mushroom-of-shadow.json](./340277-the-mushroom-of-shadow.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
@@ -22895,6 +22896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
+| True Thief | 340278 | [340278-true-thief.json](./340278-true-thief.json) |
 | True Tree | 357414 | [357414-true-tree.json](./357414-true-tree.json) |
 | True Visions | 162413 | [162413-true-visions.json](./162413-true-visions.json) |
 | True Wishes | 102622 | [102622-true-wishes.json](./102622-true-wishes.json) |
