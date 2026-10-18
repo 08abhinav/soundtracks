@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
+| Observer Protocol: The Station - Second Shift | 349714 | [349714-observer-protocol-the-station-second-shift.json](./349714-observer-protocol-the-station-second-shift.json) |
 | Observer: System Redux - Deluxe Edition | 154532 | [154532-observer-system-redux-deluxe-edition.json](./154532-observer-system-redux-deluxe-edition.json) |
 | Obsessed: Night Shift | 365267 | [365267-obsessed-night-shift.json](./365267-obsessed-night-shift.json) |
 | Obsessed: Trace | 382948 | [382948-obsessed-trace.json](./382948-obsessed-trace.json) |
