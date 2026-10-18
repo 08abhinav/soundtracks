@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Universe | 324176 | [324176-liminal-universe.json](./324176-liminal-universe.json) |
 | Liminal Waters | 373545 | [373545-liminal-waters.json](./373545-liminal-waters.json) |
 | Liminal: The Forgotten Maze | 375803 | [375803-liminal-the-forgotten-maze.json](./375803-liminal-the-forgotten-maze.json) |
+| Liminalcore | 312982 | [312982-liminalcore.json](./312982-liminalcore.json) |
 | Liminalia | 215646 | [215646-liminalia.json](./215646-liminalia.json) |
 | Liminality Online | 176476 | [176476-liminality-online.json](./176476-liminality-online.json) |
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
