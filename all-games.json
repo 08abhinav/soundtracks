@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:41:12.427Z",
-  "total_soundtracks": 2173,
+  "generated_at": "2026-10-18T08:41:19.933Z",
+  "total_soundtracks": 2174,
   "games": [
     {
       "igdb_id": 7522,
@@ -16229,6 +16229,20 @@
         {
           "album_name": "PARANORMASIGHT: The Seven Mysteries of Honjo Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4HLKsb4uWmqpvAtnedvDcC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26597,
+      "game_name": "Pathway",
+      "game_url": "https://ostdb.net/games/pathway",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27325e7198c9725c6682c94bf0d",
+      "albums": [
+        {
+          "album_name": "Pathway (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/79cRKy9bV0Oh3NpzpWCKtn",
           "apple_music_url": "",
           "album_link_url": ""
         }
