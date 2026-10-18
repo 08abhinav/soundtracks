@@ -2224,6 +2224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Birds | 266134 | [266134-fat-birds.json](./266134-fat-birds.json) |
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
+| Fat Boy Raids The Cookie Factory | 321865 | [321865-fat-boy-raids-the-cookie-factory.json](./321865-fat-boy-raids-the-cookie-factory.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
@@ -6238,6 +6239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
 | Fly With The Yellow Crane | 266116 | [266116-fly-with-the-yellow-crane.json](./266116-fly-with-the-yellow-crane.json) |
+| Fly-High and Huggy: Unstoppable | 321807 | [321807-fly-high-and-huggy-unstoppable.json](./321807-fly-high-and-huggy-unstoppable.json) |
+| Fly-High and Huggy: Unstoppable | 321808 | [321808-fly-high-and-huggy-unstoppable.json](./321808-fly-high-and-huggy-unstoppable.json) |
 | Fly, Glowfly! | 34117 | [34117-fly-glowfly.json](./34117-fly-glowfly.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
 | FLY: Forever Loving You 2 | 360911 | [360911-fly-forever-loving-you-2.json](./360911-fly-forever-loving-you-2.json) |
