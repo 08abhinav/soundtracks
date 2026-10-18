@@ -6017,7 +6017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road & Track Presents: The Need for Speed | 45465 | [45465-road-and-track-presents-the-need-for-speed.json](./45465-road-and-track-presents-the-need-for-speed.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
 | Road 96 | 141543 | [141543-road-96.json](./141543-road-96.json) |
-| Road 96: Mile 0 | 233676 | [233676-road-96-mile-0.json](./233676-road-96-mile-0.json) |
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
 | Road Accident With Dangerous Goods VR Training | 242417 | [242417-road-accident-with-dangerous-goods-vr-training.json](./242417-road-accident-with-dangerous-goods-vr-training.json) |
