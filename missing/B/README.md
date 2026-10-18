@@ -4435,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind Enemy Line | 156167 | [156167-behind-enemy-line.json](./156167-behind-enemy-line.json) |
 | Behind Enemy Lines | 39428 | [39428-behind-enemy-lines.json](./39428-behind-enemy-lines.json) |
 | Behind Nowhere | 105403 | [105403-behind-nowhere.json](./105403-behind-nowhere.json) |
+| Behind The Backrooms | 310245 | [310245-behind-the-backrooms.json](./310245-behind-the-backrooms.json) |
 | Behind the Beyond | 176908 | [176908-behind-the-beyond.json](./176908-behind-the-beyond.json) |
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
@@ -4884,6 +4885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Garden | 135238 | [135238-best-garden.json](./135238-best-garden.json) |
 | Best Gopher Ever | 392746 | [392746-best-gopher-ever.json](./392746-best-gopher-ever.json) |
 | Best Guess Live | 381909 | [381909-best-guess-live.json](./381909-best-guess-live.json) |
+| Best Gun | 310288 | [310288-best-gun.json](./310288-best-gun.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best Hits Fun Collection 10 in 1 Bundle | 417287 | [417287-best-hits-fun-collection-10-in-1-bundle.json](./417287-best-hits-fun-collection-10-in-1-bundle.json) |
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
@@ -7170,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastful | 147122 | [147122-blastful.json](./147122-blastful.json) |
 | Blasting Bad | 326112 | [326112-blasting-bad.json](./326112-blasting-bad.json) |
 | Blasting Courier | 181047 | [181047-blasting-courier.json](./181047-blasting-courier.json) |
+| BlastLast | 310263 | [310263-blastlast.json](./310263-blastlast.json) |
 | BlastMorph: Pinball | 372572 | [372572-blastmorph-pinball.json](./372572-blastmorph-pinball.json) |
 | Blasto | 377825 | [377825-blasto.json](./377825-blasto.json) |
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
@@ -7698,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle: Jewel Blast | 216134 | [216134-block-puzzle-jewel-blast.json](./216134-block-puzzle-jewel-blast.json) |
 | Block Puzzle: Star Finder | 103165 | [103165-block-puzzle-star-finder.json](./103165-block-puzzle-star-finder.json) |
 | Block Quest V | 61556 | [61556-block-quest-v.json](./61556-block-quest-v.json) |
+| Block Rancher | 310248 | [310248-block-rancher.json](./310248-block-rancher.json) |
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
 | Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
@@ -11421,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
 | Brink of Broken | 381353 | [381353-brink-of-broken.json](./381353-brink-of-broken.json) |
 | Brink of Consciousness: The Lonely Hearts Murders | 17918 | [17918-brink-of-consciousness-the-lonely-hearts-murders.json](./17918-brink-of-consciousness-the-lonely-hearts-murders.json) |
+| Brink of War | 310250 | [310250-brink-of-war.json](./310250-brink-of-war.json) |
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
@@ -11671,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
 | Bruce Quest: The Secrets of the Outback | 379888 | [379888-bruce-quest-the-secrets-of-the-outback.json](./379888-bruce-quest-the-secrets-of-the-outback.json) |
+| Brucie's Arcade | 310253 | [310253-brucies-arcade.json](./310253-brucies-arcade.json) |
 | Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
 | Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
