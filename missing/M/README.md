@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mappy | 239157 | [239157-mappy.json](./239157-mappy.json) |
 | Mappy | 293754 | [293754-mappy.json](./293754-mappy.json) |
 | Mappy | 313132 | [313132-mappy.json](./313132-mappy.json) |
+| Mappy Atari | 321213 | [321213-mappy-atari.json](./321213-mappy-atari.json) |
 | Mappy Kids | 48625 | [48625-mappy-kids.json](./48625-mappy-kids.json) |
 | Mappy Micro Player | 304231 | [304231-mappy-micro-player.json](./304231-mappy-micro-player.json) |
 | Mappy-Land | 48179 | [48179-mappy-land.json](./48179-mappy-land.json) |
@@ -10569,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ModelMaker | 258946 | [258946-modelmaker.json](./258946-modelmaker.json) |
 | Modem Wars | 71057 | [71057-modem-wars.json](./71057-modem-wars.json) |
 | Moderator Mayhem | 373258 | [373258-moderator-mayhem.json](./373258-moderator-mayhem.json) |
+| Modercai Bowling | 321235 | [321235-modercai-bowling.json](./321235-modercai-bowling.json) |
 | Moderium | 127214 | [127214-moderium.json](./127214-moderium.json) |
 | Modern Air Combat: Beyond Visual Range | 264797 | [264797-modern-air-combat-beyond-visual-range.json](./264797-modern-air-combat-beyond-visual-range.json) |
 | Modern and Retro Bundle | 331538 | [331538-modern-and-retro-bundle.json](./331538-modern-and-retro-bundle.json) |
@@ -14380,6 +14382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muumit piilosilla | 26375 | [26375-muumit-piilosilla.json](./26375-muumit-piilosilla.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
+| Muv-Luv Supplement | 321204 | [321204-muv-luv-supplement.json](./321204-muv-luv-supplement.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
 | Muv-Luv Unlimited: The Day After - Episode 01 | 143337 | [143337-muv-luv-unlimited-the-day-after-episode-01.json](./143337-muv-luv-unlimited-the-day-after-episode-01.json) |
