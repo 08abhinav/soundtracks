@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssmare | 254032 | [254032-abyssmare.json](./254032-abyssmare.json) |
 | Abyssopelagia | 145511 | [145511-abyssopelagia.json](./145511-abyssopelagia.json) |
 | Abyssopelagic | 382880 | [382880-abyssopelagic.json](./382880-abyssopelagic.json) |
+| Abyssus | 335145 | [335145-abyssus.json](./335145-abyssus.json) |
 | Abyssus Deep Under | 309322 | [309322-abyssus-deep-under.json](./309322-abyssus-deep-under.json) |
 | Abyssus Scroll | 338532 | [338532-abyssus-scroll.json](./338532-abyssus-scroll.json) |
 | Abyssus: Brineguard Pack | 379084 | [379084-abyssus-brineguard-pack.json](./379084-abyssus-brineguard-pack.json) |
@@ -3763,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AiRace: Tunnel | 67055 | [67055-airace-tunnel.json](./67055-airace-tunnel.json) |
 | Airaki! | 61557 | [61557-airaki.json](./61557-airaki.json) |
 | AirAttack 1 | 407148 | [407148-airattack-1.json](./407148-airattack-1.json) |
+| AirAttack HD | 335055 | [335055-airattack-hd.json](./335055-airattack-hd.json) |
 | Airavat | 57916 | [57916-airavat.json](./57916-airavat.json) |
 | Airball | 146513 | [146513-airball.json](./146513-airball.json) |
 | Airballs | 278081 | [278081-airballs.json](./278081-airballs.json) |
