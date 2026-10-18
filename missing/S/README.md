@@ -12049,6 +12049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somme Trench | 275653 | [275653-somme-trench.json](./275653-somme-trench.json) |
 | Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
 | SomnaBuster | 281378 | [281378-somnabuster.json](./281378-somnabuster.json) |
+| Somnambulo | 351385 | [351385-somnambulo.json](./351385-somnambulo.json) |
 | Somni | 172738 | [172738-somni.json](./172738-somni.json) |
 | Somniac | 409211 | [409211-somniac.json](./409211-somniac.json) |
 | Somnicoda | 323296 | [323296-somnicoda.json](./323296-somnicoda.json) |
@@ -13778,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Digger Red Beard | 381313 | [381313-space-digger-red-beard.json](./381313-space-digger-red-beard.json) |
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
+| Space Dingus | 351387 | [351387-space-dingus.json](./351387-space-dingus.json) |
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
@@ -25292,6 +25294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchfire | 54418 | [54418-switchfire.json](./54418-switchfire.json) |
 | Switching Heroes | 395295 | [395295-switching-heroes.json](./395295-switching-heroes.json) |
 | Switchy Road DeluX | 147608 | [147608-switchy-road-delux.json](./147608-switchy-road-delux.json) |
+| Switzerland Omelette Deluxe | 351398 | [351398-switzerland-omelette-deluxe.json](./351398-switzerland-omelette-deluxe.json) |
 | SWIV | 12789 | [12789-swiv.json](./12789-swiv.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
