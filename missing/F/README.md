@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
 | Fantasy Baseball | 246277 | [246277-fantasy-baseball.json](./246277-fantasy-baseball.json) |
 | Fantasy Battles | 109762 | [109762-fantasy-battles.json](./109762-fantasy-battles.json) |
+| Fantasy Battles | 343604 | [343604-fantasy-battles.json](./343604-fantasy-battles.json) |
 | Fantasy Beauties | 301512 | [301512-fantasy-beauties.json](./301512-fantasy-beauties.json) |
 | Fantasy Beauties - All Girls Photo Pack | 310636 | [310636-fantasy-beauties-all-girls-photo-pack.json](./310636-fantasy-beauties-all-girls-photo-pack.json) |
 | Fantasy Beauties - Astrid Photo Pack | 310634 | [310634-fantasy-beauties-astrid-photo-pack.json](./310634-fantasy-beauties-astrid-photo-pack.json) |
@@ -3505,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filsnown: Hikari to Toki | 247506 | [247506-filsnown-hikari-to-toki.json](./247506-filsnown-hikari-to-toki.json) |
 | Filter World | 277512 | [277512-filter-world.json](./277512-filter-world.json) |
 | Filthbreed | 140541 | [140541-filthbreed.json](./140541-filthbreed.json) |
+| Filthium Zero | 343609 | [343609-filthium-zero.json](./343609-filthium-zero.json) |
 | Filthy Animals: Halloween Heist | 196112 | [196112-filthy-animals-halloween-heist.json](./196112-filthy-animals-halloween-heist.json) |
 | Filthy Animals: Heist Simulator | 193203 | [193203-filthy-animals-heist-simulator.json](./193203-filthy-animals-heist-simulator.json) |
 | Filthy Apartments | 385273 | [385273-filthy-apartments.json](./385273-filthy-apartments.json) |
