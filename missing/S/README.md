@@ -2661,6 +2661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
+| Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
 | Screw Drivers | 305376 | [305376-screw-drivers.json](./305376-screw-drivers.json) |
@@ -14477,6 +14478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacefarer Mahjong | 276953 | [276953-spacefarer-mahjong.json](./276953-spacefarer-mahjong.json) |
 | Spacefarer Solitaire | 276954 | [276954-spacefarer-solitaire.json](./276954-spacefarer-solitaire.json) |
 | Spacefarers! | 103675 | [103675-spacefarers.json](./103675-spacefarers.json) |
+| Spacefighter Rukia 2 | 349175 | [349175-spacefighter-rukia-2.json](./349175-spacefighter-rukia-2.json) |
 | SpaceFire Fury | 329079 | [329079-spacefire-fury.json](./329079-spacefire-fury.json) |
 | Spaceflight Simulator | 188384 | [188384-spaceflight-simulator.json](./188384-spaceflight-simulator.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
@@ -14543,6 +14545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacerift: Arcanum System | 122213 | [122213-spacerift-arcanum-system.json](./122213-spacerift-arcanum-system.json) |
 | Spacero: Origins | 405348 | [405348-spacero-origins.json](./405348-spacero-origins.json) |
 | SpaceRoads | 75420 | [75420-spaceroads.json](./75420-spaceroads.json) |
+| Spacerocks | 349083 | [349083-spacerocks.json](./349083-spacerocks.json) |
 | Spaceruler | 227493 | [227493-spaceruler.json](./227493-spaceruler.json) |
 | SpacerX: Dome Survivals | 55101 | [55101-spacerx-dome-survivals.json](./55101-spacerx-dome-survivals.json) |
 | Spacesheep | 356047 | [356047-spacesheep.json](./356047-spacesheep.json) |
@@ -21566,6 +21569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
+| Sunberry Care Center | 349105 | [349105-sunberry-care-center.json](./349105-sunberry-care-center.json) |
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
@@ -22060,6 +22064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Crazy Rhythm Castle | 258252 | [258252-super-crazy-rhythm-castle.json](./258252-super-crazy-rhythm-castle.json) |
 | Super Cream 64: The Grand Finale | 214764 | [214764-super-cream-64-the-grand-finale.json](./214764-super-cream-64-the-grand-finale.json) |
 | Super Creme World | 267920 | [267920-super-creme-world.json](./267920-super-creme-world.json) |
+| Super Cricket Fighter Turbo | 349178 | [349178-super-cricket-fighter-turbo.json](./349178-super-cricket-fighter-turbo.json) |
 | Super Crome: Bullet Purgatory | 112799 | [112799-super-crome-bullet-purgatory.json](./112799-super-crome-bullet-purgatory.json) |
 | Super Cross Force | 40906 | [40906-super-cross-force.json](./40906-super-cross-force.json) |
 | Super Cross II | 40429 | [40429-super-cross-ii.json](./40429-super-cross-ii.json) |
@@ -23802,6 +23807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
+| Super Tennis Breakout | 349088 | [349088-super-tennis-breakout.json](./349088-super-tennis-breakout.json) |
 | Super Tennis Champs | 56442 | [56442-super-tennis-champs.json](./56442-super-tennis-champs.json) |
 | Super Terrible Project | 222914 | [222914-super-terrible-project.json](./222914-super-terrible-project.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
@@ -24831,6 +24837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swamp Hunt | 208347 | [208347-swamp-hunt.json](./208347-swamp-hunt.json) |
 | Swamp Hunter | 311578 | [311578-swamp-hunter.json](./311578-swamp-hunter.json) |
 | Swamp Jump | 108035 | [108035-swamp-jump.json](./108035-swamp-jump.json) |
+| Swamp Keeper | 349085 | [349085-swamp-keeper.json](./349085-swamp-keeper.json) |
 | Swamp People | 62437 | [62437-swamp-people.json](./62437-swamp-people.json) |
 | Swamp Sim | 345586 | [345586-swamp-sim.json](./345586-swamp-sim.json) |
 | Swamp Stomp | 223634 | [223634-swamp-stomp.json](./223634-swamp-stomp.json) |
