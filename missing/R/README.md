@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally King | 408922 | [408922-rally-king.json](./408922-rally-king.json) |
 | Rally Legends | 104787 | [104787-rally-legends.json](./104787-rally-legends.json) |
 | Rally Master Pro | 91897 | [91897-rally-master-pro.json](./91897-rally-master-pro.json) |
+| Rally Mechanic Simulator Rally: Pack - Hybrid Horizon | 357033 | [357033-rally-mechanic-simulator-rally-pack-hybrid-horizon.json](./357033-rally-mechanic-simulator-rally-pack-hybrid-horizon.json) |
 | Rally Mechanic Simulator: Chaya Alexis | 359576 | [359576-rally-mechanic-simulator-chaya-alexis.json](./359576-rally-mechanic-simulator-chaya-alexis.json) |
 | Rally Mechanic Simulator: Chaya Falcon Mk1 | 359577 | [359577-rally-mechanic-simulator-chaya-falcon-mk1.json](./359577-rally-mechanic-simulator-chaya-falcon-mk1.json) |
 | Rally Mechanic Simulator: Chaya Falcon Mk2 | 359578 | [359578-rally-mechanic-simulator-chaya-falcon-mk2.json](./359578-rally-mechanic-simulator-chaya-falcon-mk2.json) |
@@ -1139,6 +1140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Mechanic Simulator: Mizuduki Revloution | 359589 | [359589-rally-mechanic-simulator-mizuduki-revloution.json](./359589-rally-mechanic-simulator-mizuduki-revloution.json) |
 | Rally Mechanic Simulator: Mizuduki SF 8 Turbo | 359590 | [359590-rally-mechanic-simulator-mizuduki-sf-8-turbo.json](./359590-rally-mechanic-simulator-mizuduki-sf-8-turbo.json) |
 | Rally Mechanic Simulator: Purdo 370 | 359591 | [359591-rally-mechanic-simulator-purdo-370.json](./359591-rally-mechanic-simulator-purdo-370.json) |
+| Rally Mechanic Simulator: Rally Pack - Vol. 1 | 357031 | [357031-rally-mechanic-simulator-rally-pack-vol-1.json](./357031-rally-mechanic-simulator-rally-pack-vol-1.json) |
+| Rally Mechanic Simulator: Rally Pack - Vol. 2 | 357032 | [357032-rally-mechanic-simulator-rally-pack-vol-2.json](./357032-rally-mechanic-simulator-rally-pack-vol-2.json) |
 | Rally Mechanic Simulator: Saze F1000 | 359592 | [359592-rally-mechanic-simulator-saze-f1000.json](./359592-rally-mechanic-simulator-saze-f1000.json) |
 | Rally Mechanic Simulator: Saze Faze 5 | 359593 | [359593-rally-mechanic-simulator-saze-faze-5.json](./359593-rally-mechanic-simulator-saze-faze-5.json) |
 | Rally Mechanic Simulator: Saze Longerino | 359594 | [359594-rally-mechanic-simulator-saze-longerino.json](./359594-rally-mechanic-simulator-saze-longerino.json) |
@@ -2555,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
+| Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
@@ -4857,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
 | RHI Roller Hockey '95 | 42468 | [42468-rhi-roller-hockey-95.json](./42468-rhi-roller-hockey-95.json) |
 | Rhiannon: Curse of the Four Branches | 17349 | [17349-rhiannon-curse-of-the-four-branches.json](./17349-rhiannon-curse-of-the-four-branches.json) |
+| Rhino Express | 357000 | [357000-rhino-express.json](./357000-rhino-express.json) |
 | Rhino Puzzle | 263757 | [263757-rhino-puzzle.json](./263757-rhino-puzzle.json) |
 | Rhino Rumble | 49947 | [49947-rhino-rumble.json](./49947-rhino-rumble.json) |
 | Rhino Runner | 261557 | [261557-rhino-runner.json](./261557-rhino-runner.json) |
