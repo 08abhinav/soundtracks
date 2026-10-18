@@ -4330,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
 | Maximum Football: Legend Edition | 331536 | [331536-maximum-football-legend-edition.json](./331536-maximum-football-legend-edition.json) |
 | Maximum Force | 36573 | [36573-maximum-force.json](./36573-maximum-force.json) |
+| Maximum Frustration 2 | 339164 | [339164-maximum-frustration-2.json](./339164-maximum-frustration-2.json) |
 | Maximum G-Force Coasters | 209537 | [209537-maximum-g-force-coasters.json](./209537-maximum-g-force-coasters.json) |
 | Maximum Momentum | 127167 | [127167-maximum-momentum.json](./127167-maximum-momentum.json) |
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
