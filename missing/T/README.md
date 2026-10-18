@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Swords: Eternal Love | 104469 | [104469-tale-of-swords-eternal-love.json](./104469-tale-of-swords-eternal-love.json) |
 | Tale of Swords: Mystery Scroll | 83544 | [83544-tale-of-swords-mystery-scroll.json](./83544-tale-of-swords-mystery-scroll.json) |
 | Tale of the Bear and the Beech Tree | 398347 | [398347-tale-of-the-bear-and-the-beech-tree.json](./398347-tale-of-the-bear-and-the-beech-tree.json) |
+| Tale of the Bullet Knight | 358730 | [358730-tale-of-the-bullet-knight.json](./358730-tale-of-the-bullet-knight.json) |
 | Tale of the Fragmented Star: Single Fragment Version | 109477 | [109477-tale-of-the-fragmented-star-single-fragment-version.json](./109477-tale-of-the-fragmented-star-single-fragment-version.json) |
 | Tale of the Kissing Bandit | 217768 | [217768-tale-of-the-kissing-bandit.json](./217768-tale-of-the-kissing-bandit.json) |
 | Tale of the Seas | 287744 | [287744-tale-of-the-seas.json](./287744-tale-of-the-seas.json) |
@@ -4889,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BoX | 33963 | [33963-the-box.json](./33963-the-box.json) |
 | The Box Code | 139188 | [139188-the-box-code.json](./139188-the-box-code.json) |
 | The Box Game | 203550 | [203550-the-box-game.json](./203550-the-box-game.json) |
+| The Box of Fear | 358634 | [358634-the-box-of-fear.json](./358634-the-box-of-fear.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy Who Typed Wolf | 99241 | [99241-the-boy-who-typed-wolf.json](./99241-the-boy-who-typed-wolf.json) |
@@ -8034,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Intern: Temptation at Work | 420652 | [420652-the-intern-temptation-at-work.json](./420652-the-intern-temptation-at-work.json) |
 | The Internship | 102319 | [102319-the-internship.json](./102319-the-internship.json) |
 | The Internship | 408836 | [408836-the-internship.json](./408836-the-internship.json) |
+| The Interpretation of Dreams | 358632 | [358632-the-interpretation-of-dreams.json](./358632-the-interpretation-of-dreams.json) |
 | The Interstate '76 Arsenal | 74075 | [74075-the-interstate-76-arsenal.json](./74075-the-interstate-76-arsenal.json) |
 | The Intertwined Imprints | 293697 | [293697-the-intertwined-imprints.json](./293697-the-intertwined-imprints.json) |
 | The Interval Bureau: Extension 0 | 379028 | [379028-the-interval-bureau-extension-0.json](./379028-the-interval-bureau-extension-0.json) |
@@ -23500,6 +23503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
+| TV-Chan's Great Escape! | 358639 | [358639-tv-chans-great-escape.json](./358639-tv-chans-great-escape.json) |
 | TV1998 | 257354 | [257354-tv1998.json](./257354-tv1998.json) |
 | TVhead | 217506 | [217506-tvhead.json](./217506-tvhead.json) |
 | TVhTk | 271945 | [271945-tvhtk.json](./271945-tvhtk.json) |
@@ -23607,6 +23611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Dragons | 159356 | [159356-twin-dragons.json](./159356-twin-dragons.json) |
 | Twin Eagle | 68355 | [68355-twin-eagle.json](./68355-twin-eagle.json) |
 | Twin Eagle II | 70389 | [70389-twin-eagle-ii.json](./70389-twin-eagle-ii.json) |
+| Twin Fighters X | 358652 | [358652-twin-fighters-x.json](./358652-twin-fighters-x.json) |
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
