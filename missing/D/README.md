@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damascus | 132266 | [132266-damascus.json](./132266-damascus.json) |
 | Damascus Gear: Operation Osaka | 123034 | [123034-damascus-gear-operation-osaka.json](./123034-damascus-gear-operation-osaka.json) |
 | Damascus Gear: Operation Osaka - HD Edition | 90093 | [90093-damascus-gear-operation-osaka-hd-edition.json](./90093-damascus-gear-operation-osaka-hd-edition.json) |
+| Damashi Game | 321830 | [321830-damashi-game.json](./321830-damashi-game.json) |
 | Damatte Watashi no Muko ni Nare! | 60369 | [60369-damatte-watashi-no-muko-ni-nare.json](./60369-damatte-watashi-no-muko-ni-nare.json) |
 | Damatte Watashi no Muko ni Nare! Reona After | 60370 | [60370-damatte-watashi-no-muko-ni-nare-reona-after.json](./60370-damatte-watashi-no-muko-ni-nare-reona-after.json) |
 | DamCell: Princess Run | 175299 | [175299-damcell-princess-run.json](./175299-damcell-princess-run.json) |
@@ -800,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Superheroes After Dark: Heroines Behind the Mask | 396131 | [396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json](./396131-dangerous-superheroes-after-dark-heroines-behind-the-mask.json) |
 | Dangerous Village Tradition | 273660 | [273660-dangerous-village-tradition.json](./273660-dangerous-village-tradition.json) |
 | Dangerous World | 300504 | [300504-dangerous-world.json](./300504-dangerous-world.json) |
+| Dangerous World 2 | 321815 | [321815-dangerous-world-2.json](./321815-dangerous-world-2.json) |
 | Dangerous Zone | 169741 | [169741-dangerous-zone.json](./169741-dangerous-zone.json) |
 | Dangerous! Too Sweet!! | 148460 | [148460-dangerous-too-sweet.json](./148460-dangerous-too-sweet.json) |
 | DangerousPath | 369640 | [369640-dangerouspath.json](./369640-dangerouspath.json) |
@@ -2256,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims | 272999 | [272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json](./272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json) |
 | DCS World: F-16C Last Out: Weasels over Syria II Campaign | 324733 | [324733-dcs-world-f-16c-last-out-weasels-over-syria-ii-campaign.json](./324733-dcs-world-f-16c-last-out-weasels-over-syria-ii-campaign.json) |
 | DCS World: F-4E Phantom II by Heatblur Simulations | 274977 | [274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json](./274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json) |
+| DCS World: F-5E Flaming Cliffs | 321853 | [321853-dcs-world-f-5e-flaming-cliffs.json](./321853-dcs-world-f-5e-flaming-cliffs.json) |
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Arctic Thunder Campaign | 324732 | [324732-dcs-world-f-a-18c-arctic-thunder-campaign.json](./324732-dcs-world-f-a-18c-arctic-thunder-campaign.json) |
