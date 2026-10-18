@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Clones | 100698 | [100698-ufo-clones.json](./100698-ufo-clones.json) |
 | UFO Combat 2000 | 111175 | [111175-ufo-combat-2000.json](./111175-ufo-combat-2000.json) |
 | UFO Cross | 130108 | [130108-ufo-cross.json](./130108-ufo-cross.json) |
+| UFO Defense | 359733 | [359733-ufo-defense.json](./359733-ufo-defense.json) |
 | UFO Enemy Known | 310768 | [310768-ufo-enemy-known.json](./310768-ufo-enemy-known.json) |
 | UFO Hunter | 97156 | [97156-ufo-hunter.json](./97156-ufo-hunter.json) |
 | UFO Joe | 263475 | [263475-ufo-joe.json](./263475-ufo-joe.json) |
