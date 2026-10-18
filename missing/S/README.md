@@ -10652,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Girls 5 | 374897 | [374897-snapshot-girls-5.json](./374897-snapshot-girls-5.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
 | Snapshot Oddities! Find What's Wrong | 390505 | [390505-snapshot-oddities-find-whats-wrong.json](./390505-snapshot-oddities-find-whats-wrong.json) |
+| Snapshot Spirit Live! | 357669 | [357669-snapshot-spirit-live.json](./357669-snapshot-spirit-live.json) |
 | Snapshot VR | 137443 | [137443-snapshot-vr.json](./137443-snapshot-vr.json) |
 | Snapshots | 384076 | [384076-snapshots.json](./384076-snapshots.json) |
 | Snapto | 352945 | [352945-snapto.json](./352945-snapto.json) |
@@ -19629,6 +19630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
+| Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
 | Stranded: A Mars Adventure | 99532 | [99532-stranded-a-mars-adventure.json](./99532-stranded-a-mars-adventure.json) |
 | Stranded: Alien Dawn Premium Edition | 275619 | [275619-stranded-alien-dawn-premium-edition.json](./275619-stranded-alien-dawn-premium-edition.json) |
