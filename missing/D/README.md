@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
+| Dawn's Light 3 | 324737 | [324737-dawns-light-3.json](./324737-dawns-light-3.json) |
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
@@ -2250,9 +2251,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-16C Arctic Thunder Campaign by Reflected Simulations | 324673 | [324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json](./324673-dcs-world-f-16c-arctic-thunder-campaign-by-reflected-simulations.json) |
 | DCS World: F-16C Dragon's Fury Campaign by SorelRo | 324899 | [324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json](./324899-dcs-world-f-16c-dragons-fury-campaign-by-sorelro.json) |
 | DCS World: F-16C First in Weasels Over Syria Campaign by Ground Pounder Sims | 272999 | [272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json](./272999-dcs-world-f-16c-first-in-weasels-over-syria-campaign-by-ground-pounder-sims.json) |
+| DCS World: F-16C Last Out: Weasels over Syria II Campaign | 324733 | [324733-dcs-world-f-16c-last-out-weasels-over-syria-ii-campaign.json](./324733-dcs-world-f-16c-last-out-weasels-over-syria-ii-campaign.json) |
 | DCS World: F-4E Phantom II by Heatblur Simulations | 274977 | [274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json](./274977-dcs-world-f-4e-phantom-ii-by-heatblur-simulations.json) |
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
+| DCS World: F/A-18C Arctic Thunder Campaign | 324732 | [324732-dcs-world-f-a-18c-arctic-thunder-campaign.json](./324732-dcs-world-f-a-18c-arctic-thunder-campaign.json) |
 | DCS World: F/A-18C Inherent Resolve Campaign by Looking Glass | 325248 | [325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json](./325248-dcs-world-f-a-18c-inherent-resolve-campaign-by-looking-glass.json) |
 | DCS World: F/A-18C Operation Mountain Breeze by Sandman Simulations | 316379 | [316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json](./316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
@@ -7355,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Friends | 220083 | [220083-disney-friends.json](./220083-disney-friends.json) |
 | Disney Friends | 47859 | [47859-disney-friends.json](./47859-disney-friends.json) |
 | Disney Frozen Adventures | 138679 | [138679-disney-frozen-adventures.json](./138679-disney-frozen-adventures.json) |
+| Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
@@ -10484,6 +10488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Raging Blast | 19310 | [19310-dragon-ball-raging-blast.json](./19310-dragon-ball-raging-blast.json) |
 | Dragon Ball: Raging Blast 2 - Limited Edition | 47453 | [47453-dragon-ball-raging-blast-2-limited-edition.json](./47453-dragon-ball-raging-blast-2-limited-edition.json) |
 | Dragon Ball: Sparking! Zero | 279634 | [279634-dragon-ball-sparking-zero.json](./279634-dragon-ball-sparking-zero.json) |
+| Dragon Ball: Sparking! Zero - Collector's Edition | 324760 | [324760-dragon-ball-sparking-zero-collectors-edition.json](./324760-dragon-ball-sparking-zero-collectors-edition.json) |
 | Dragon Ball: Sparking! Zero - Deluxe Edition | 319398 | [319398-dragon-ball-sparking-zero-deluxe-edition.json](./319398-dragon-ball-sparking-zero-deluxe-edition.json) |
 | Dragon Ball: Sparking! Zero - Dragon Ball Daima: Character Pack 1 | 328284 | [328284-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1.json](./328284-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-1.json) |
 | Dragon Ball: Sparking! Zero - Dragon Ball Daima: Character Pack 2 | 328285 | [328285-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2.json](./328285-dragon-ball-sparking-zero-dragon-ball-daima-character-pack-2.json) |
@@ -10900,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dogma II: Dark Arisen Expansion | 405433 | [405433-dragons-dogma-ii-dark-arisen-expansion.json](./405433-dragons-dogma-ii-dark-arisen-expansion.json) |
 | Dragon's Dogma II: Deluxe Edition | 288657 | [288657-dragons-dogma-ii-deluxe-edition.json](./288657-dragons-dogma-ii-deluxe-edition.json) |
 | Dragon's Dogma II: Dragon's Dogma Music & Sound Collection - Custom Sounds | 308568 | [308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json](./308568-dragons-dogma-ii-dragons-dogma-music-and-sound-collection-custom-sounds.json) |
+| Dragon's Dogma II: Lenticular Edition | 324761 | [324761-dragons-dogma-ii-lenticular-edition.json](./324761-dragons-dogma-ii-lenticular-edition.json) |
 | Dragon's Dogma Online | 26985 | [26985-dragons-dogma-online.json](./26985-dragons-dogma-online.json) |
 | Dragon's Dogma Online: Season 2 - Limited Edition | 201048 | [201048-dragons-dogma-online-season-2-limited-edition.json](./201048-dragons-dogma-online-season-2-limited-edition.json) |
 | Dragon's Dogma Quest | 63310 | [63310-dragons-dogma-quest.json](./63310-dragons-dogma-quest.json) |
