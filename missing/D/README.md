@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Supporter Upgrade | 224177 | [224177-deep-rock-galactic-supporter-upgrade.json](./224177-deep-rock-galactic-supporter-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
 | Deep Rock Galactic: Ultimate Edition | 188047 | [188047-deep-rock-galactic-ultimate-edition.json](./188047-deep-rock-galactic-ultimate-edition.json) |
+| Deep Room | 347559 | [347559-deep-room.json](./347559-deep-room.json) |
 | Deep Rune | 153962 | [153962-deep-rune.json](./153962-deep-rune.json) |
 | Deep Saturation | 359071 | [359071-deep-saturation.json](./359071-deep-saturation.json) |
 | Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
@@ -7952,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Up | 365832 | [365832-do-up.json](./365832-do-up.json) |
 | Do Us Part | 276106 | [276106-do-us-part.json](./276106-do-us-part.json) |
 | Do You Even Brick?! | 401548 | [401548-do-you-even-brick.json](./401548-do-you-even-brick.json) |
+| Do You Even Forklift? | 347479 | [347479-do-you-even-forklift.json](./347479-do-you-even-forklift.json) |
 | Do You Have a Moment to Talk About Our Lord and Savior? | 336668 | [336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json](./336668-do-you-have-a-moment-to-talk-about-our-lord-and-savior.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
@@ -13412,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustoff Heli Rescue 2 | 30572 | [30572-dustoff-heli-rescue-2.json](./30572-dustoff-heli-rescue-2.json) |
 | Dustoff Z | 137344 | [137344-dustoff-z.json](./137344-dustoff-z.json) |
 | Dustopia | 295810 | [295810-dustopia.json](./295810-dustopia.json) |
+| Dustoria | 347570 | [347570-dustoria.json](./347570-dustoria.json) |
 | Dustpine District | 419858 | [419858-dustpine-district.json](./419858-dustpine-district.json) |
 | Dustpocalypse | 422136 | [422136-dustpocalypse.json](./422136-dustpocalypse.json) |
 | Dusttale Reimagined | 329662 | [329662-dusttale-reimagined.json](./329662-dusttale-reimagined.json) |
