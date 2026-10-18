@@ -4091,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
 | Goblin and Coins II: The Lost Recipes | 275563 | [275563-goblin-and-coins-ii-the-lost-recipes.json](./275563-goblin-and-coins-ii-the-lost-recipes.json) |
 | Goblin and Recipes: Match-3 Adventure | 410428 | [410428-goblin-and-recipes-match-3-adventure.json](./410428-goblin-and-recipes-match-3-adventure.json) |
+| Goblin Assault | 333426 | [333426-goblin-assault.json](./333426-goblin-assault.json) |
 | Goblin Attack | 161324 | [161324-goblin-attack.json](./161324-goblin-attack.json) |
 | Goblin Attack | 408874 | [408874-goblin-attack.json](./408874-goblin-attack.json) |
 | Goblin Cleanup | 282692 | [282692-goblin-cleanup.json](./282692-goblin-cleanup.json) |
