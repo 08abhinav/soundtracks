@@ -5207,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperate 1: After Sunset | 323235 | [323235-desperate-1-after-sunset.json](./323235-desperate-1-after-sunset.json) |
 | Desperate Defence | 115433 | [115433-desperate-defence.json](./115433-desperate-defence.json) |
 | Desperate Escape | 282830 | [282830-desperate-escape.json](./282830-desperate-escape.json) |
+| Desperate Escape | 340273 | [340273-desperate-escape.json](./340273-desperate-escape.json) |
 | Desperate game | 82050 | [82050-desperate-game.json](./82050-desperate-game.json) |
 | Desperate Housewives: The Game | 18516 | [18516-desperate-housewives-the-game.json](./18516-desperate-housewives-the-game.json) |
 | Desperate Place | 335290 | [335290-desperate-place.json](./335290-desperate-place.json) |
