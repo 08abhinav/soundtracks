@@ -33,8 +33,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
 | H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
+| H1-Mod | 313565 | [313565-h1-mod.json](./313565-h1-mod.json) |
 | H1.Jack | 223562 | [223562-h1-jack.json](./223562-h1-jack.json) |
 | H1Z1 | 6188 | [6188-h1z1.json](./6188-h1z1.json) |
+| H2 Multiplayer Mod | 313561 | [313561-h2-multiplayer-mod.json](./313561-h2-multiplayer-mod.json) |
 | H2O | 99114 | [99114-h2o.json](./99114-h2o.json) |
 | H2O Root After and Another Complete Story Edition | 299541 | [299541-h2o-root-after-and-another-complete-story-edition.json](./299541-h2o-root-after-and-another-complete-story-edition.json) |
 | H2O: A Diabolic Game | 14473 | [14473-h2o-a-diabolic-game.json](./14473-h2o-a-diabolic-game.json) |
@@ -4079,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herbalist Simulator | 127826 | [127826-herbalist-simulator.json](./127826-herbalist-simulator.json) |
 | Herbert Crawler Post LD Edition | 180551 | [180551-herbert-crawler-post-ld-edition.json](./180551-herbert-crawler-post-ld-edition.json) |
 | Herbert's Dummy Run | 30217 | [30217-herberts-dummy-run.json](./30217-herberts-dummy-run.json) |
+| Herbert's Island Adventure | 313575 | [313575-herberts-island-adventure.json](./313575-herberts-island-adventure.json) |
 | Herbheim's Mine | 188689 | [188689-herbheims-mine.json](./188689-herbheims-mine.json) |
 | Herbie at The Olympics | 40174 | [40174-herbie-at-the-olympics.json](./40174-herbie-at-the-olympics.json) |
 | Herbis | 158216 | [158216-herbis.json](./158216-herbis.json) |
