@@ -2266,11 +2266,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
+| DCS World: Mi-8MTV2 and Ka-50: Memory of a Hero Campaign by Stone Sky | 325910 | [325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json](./325910-dcs-world-mi-8mtv2-and-ka-50-memory-of-a-hero-campaign-by-stone-sky.json) |
 | DCS World: MiG-21bis Constant Peg Campaign by Bunyap Campaigns | 325721 | [325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json](./325721-dcs-world-mig-21bis-constant-peg-campaign-by-bunyap-campaigns.json) |
 | DCS World: MiG-29 | 162861 | [162861-dcs-world-mig-29.json](./162861-dcs-world-mig-29.json) |
 | DCS World: Mosquito FB VI - V for Victory Campaign by Reflected Simulations | 325251 | [325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json](./325251-dcs-world-mosquito-fb-vi-v-for-victory-campaign-by-reflected-simulations.json) |
 | DCS World: Mosquito FB VI Freeman's Folly Campaign by SUNTS Simulations | 408214 | [408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json](./408214-dcs-world-mosquito-fb-vi-freemans-folly-campaign-by-sunts-simulations.json) |
 | DCS World: Normandy 2.0 | 323965 | [323965-dcs-world-normandy-2-0.json](./323965-dcs-world-normandy-2-0.json) |
+| DCS World: NS 430 Navigation System for C-101EB by Eagle Dynamics, Aerges | 325911 | [325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json](./325911-dcs-world-ns-430-navigation-system-for-c-101eb-by-eagle-dynamics-aerges.json) |
+| DCS World: NS 430 Navigation System for Mi-8MTV2 Cockpit | 325912 | [325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json](./325912-dcs-world-ns-430-navigation-system-for-mi-8mtv2-cockpit.json) |
 | DCS World: NS 430 Navigation System for MiG-29A Cockpit | 408109 | [408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json](./408109-dcs-world-ns-430-navigation-system-for-mig-29a-cockpit.json) |
 | DCS World: OH-58D Kiowa Warrior | 304372 | [304372-dcs-world-oh-58d-kiowa-warrior.json](./304372-dcs-world-oh-58d-kiowa-warrior.json) |
 | DCS World: South Atlantic | 205076 | [205076-dcs-world-south-atlantic.json](./205076-dcs-world-south-atlantic.json) |
@@ -6414,6 +6417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
 | Digi-Doll | 345964 | [345964-digi-doll.json](./345964-digi-doll.json) |
 | Digiclimb | 402281 | [402281-digiclimb.json](./402281-digiclimb.json) |
+| DigiGods: Build and Battle | 325874 | [325874-digigods-build-and-battle.json](./325874-digigods-build-and-battle.json) |
 | Digimon 2 | 247398 | [247398-digimon-2.json](./247398-digimon-2.json) |
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
@@ -8550,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
+| Dollmaker | 325919 | [325919-dollmaker.json](./325919-dollmaker.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
