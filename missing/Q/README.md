@@ -406,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Witch | 323165 | [323165-quantum-witch.json](./323165-quantum-witch.json) |
 | Quantum Wizard | 44182 | [44182-quantum-wizard.json](./44182-quantum-wizard.json) |
 | Quantum: Recharged | 257945 | [257945-quantum-recharged.json](./257945-quantum-recharged.json) |
+| QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
