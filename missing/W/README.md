@@ -2680,6 +2680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Body? | 281385 | [281385-what-body.json](./281385-what-body.json) |
 | What Cat? | 253033 | [253033-what-cat.json](./253033-what-cat.json) |
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
+| What Comes After | 354300 | [354300-what-comes-after.json](./354300-what-comes-after.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woon | 315253 | [315253-woon.json](./315253-woon.json) |
 | Wooo | 260979 | [260979-wooo.json](./260979-wooo.json) |
 | Wooo 2 | 260978 | [260978-wooo-2.json](./260978-wooo-2.json) |
+| Wooper no Juggling Game | 354236 | [354236-wooper-no-juggling-game.json](./354236-wooper-no-juggling-game.json) |
 | Woorld | 25867 | [25867-woorld.json](./25867-woorld.json) |
 | WoozyHero | 120739 | [120739-woozyhero.json](./120739-woozyhero.json) |
 | Wor Games | 335847 | [335847-wor-games.json](./335847-wor-games.json) |
