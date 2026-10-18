@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garrison: Archangel | 36762 | [36762-garrison-archangel.json](./36762-garrison-archangel.json) |
+| Garrulismo | 314745 | [314745-garrulismo.json](./314745-garrulismo.json) |
 | Garry Kitchen's Battletank | 10623 | [10623-garry-kitchens-battletank.json](./10623-garry-kitchens-battletank.json) |
 | Garry Kitchen's Battletank | 79173 | [79173-garry-kitchens-battletank.json](./79173-garry-kitchens-battletank.json) |
 | Garry Kitchen's Super Battletank: War in the Gulf | 46681 | [46681-garry-kitchens-super-battletank-war-in-the-gulf.json](./46681-garry-kitchens-super-battletank-war-in-the-gulf.json) |
