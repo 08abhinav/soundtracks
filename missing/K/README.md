@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Joysound | 131250 | [131250-karaoke-joysound.json](./131250-karaoke-joysound.json) |
 | Karaoke Joysound | 4948 | [4948-karaoke-joysound.json](./4948-karaoke-joysound.json) |
 | Karaoke Joysound for Nintendo Switch | 146313 | [146313-karaoke-joysound-for-nintendo-switch.json](./146313-karaoke-joysound-for-nintendo-switch.json) |
+| Karaoke Joysound for Streamer | 316469 | [316469-karaoke-joysound-for-streamer.json](./316469-karaoke-joysound-for-streamer.json) |
 | Karaoke Joysound Wii: DX Deluxe Edition | 131263 | [131263-karaoke-joysound-wii-dx-deluxe-edition.json](./131263-karaoke-joysound-wii-dx-deluxe-edition.json) |
 | Karaoke Klassics: Family Favorites | 45922 | [45922-karaoke-klassics-family-favorites.json](./45922-karaoke-klassics-family-favorites.json) |
 | Karaoke Mugen | 125793 | [125793-karaoke-mugen.json](./125793-karaoke-mugen.json) |
