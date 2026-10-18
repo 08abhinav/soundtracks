@@ -3545,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whopper Chase | 60354 | [60354-whopper-chase.json](./60354-whopper-chase.json) |
 | Whore Dealer | 203916 | [203916-whore-dealer.json](./203916-whore-dealer.json) |
 | Whose Lawn Is It Anyway | 401034 | [401034-whose-lawn-is-it-anyway.json](./401034-whose-lawn-is-it-anyway.json) |
+| Whotfire | 346907 | [346907-whotfire.json](./346907-whotfire.json) |
 | Why | 257413 | [257413-why.json](./257413-why.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
