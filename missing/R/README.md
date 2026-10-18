@@ -4671,6 +4671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Escape Room: Archaeologists Sanctum | 369334 | [369334-reverse-escape-room-archaeologists-sanctum.json](./369334-reverse-escape-room-archaeologists-sanctum.json) |
 | Reverse Fantasy Legend | 174676 | [174676-reverse-fantasy-legend.json](./174676-reverse-fantasy-legend.json) |
 | Reverse Fantasy Legend 2 | 174795 | [174795-reverse-fantasy-legend-2.json](./174795-reverse-fantasy-legend-2.json) |
+| Reverse Fishing | 356441 | [356441-reverse-fishing.json](./356441-reverse-fishing.json) |
 | Reverse Horizons | 387017 | [387017-reverse-horizons.json](./387017-reverse-horizons.json) |
 | Reverse it, board game | 88262 | [88262-reverse-it-board-game.json](./88262-reverse-it-board-game.json) |
 | Reverse Me! Rez/Ru | 120058 | [120058-reverse-me-rez-ru.json](./120058-reverse-me-rez-ru.json) |
@@ -8801,6 +8802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Bunny | 121363 | [121363-run-bunny.json](./121363-run-bunny.json) |
 | Run! Goddess | 338796 | [338796-run-goddess.json](./338796-run-goddess.json) |
 | Run! Run! Don't Die! | 329942 | [329942-run-run-dont-die.json](./329942-run-run-dont-die.json) |
+| Run! Run! Run! | 356426 | [356426-run-run-run.json](./356426-run-run-run.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Run!ZombieFoods! | 51425 | [51425-run-zombiefoods.json](./51425-run-zombiefoods.json) |
