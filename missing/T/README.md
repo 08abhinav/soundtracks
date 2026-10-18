@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC Strikers 4 | 191093 | [191093-tc-strikers-4.json](./191093-tc-strikers-4.json) |
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
+| Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Simulator | 309862 | [309862-tcg-card-shop-simulator.json](./309862-tcg-card-shop-simulator.json) |
 | TCG Master Trader | 368362 | [368362-tcg-master-trader.json](./368362-tcg-master-trader.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Together Online | 373827 | [373827-the-life-together-online.json](./373827-the-life-together-online.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
+| The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
 | The Light | 53757 | [53757-the-light.json](./53757-the-light.json) |
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
@@ -10898,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prior Challenge | 350209 | [350209-the-prior-challenge.json](./350209-the-prior-challenge.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
+| The Prisonbreak | 346373 | [346373-the-prisonbreak.json](./346373-the-prisonbreak.json) |
 | The Prisoning: Fletcher's Quest | 284895 | [284895-the-prisoning-fletchers-quest.json](./284895-the-prisoning-fletchers-quest.json) |
 | The Pro Mahjong: Menkyo Minnaten | 376643 | [376643-the-pro-mahjong-menkyo-minnaten.json](./376643-the-pro-mahjong-menkyo-minnaten.json) |
 | The Pro Wrestling | 385780 | [385780-the-pro-wrestling.json](./385780-the-pro-wrestling.json) |
@@ -13648,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Well of Heaven-Reaching | 310713 | [310713-the-well-of-heaven-reaching.json](./310713-the-well-of-heaven-reaching.json) |
 | The Well of Life Cannot Move | 298630 | [298630-the-well-of-life-cannot-move.json](./298630-the-well-of-life-cannot-move.json) |
 | The Well: Episode 1 | 333621 | [333621-the-well-episode-1.json](./333621-the-well-episode-1.json) |
+| The Wellmonts Case | 346400 | [346400-the-wellmonts-case.json](./346400-the-wellmonts-case.json) |
 | The Wendigo | 27673 | [27673-the-wendigo.json](./27673-the-wendigo.json) |
 | The WereCleaner | 288623 | [288623-the-werecleaner.json](./288623-the-werecleaner.json) |
 | The Werehouse | 337107 | [337107-the-werehouse.json](./337107-the-werehouse.json) |
@@ -16876,6 +16880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Company | 370845 | [370845-tiny-company.json](./370845-tiny-company.json) |
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
+| Tiny Crypts | 346387 | [346387-tiny-crypts.json](./346387-tiny-crypts.json) |
 | Tiny Dangerous Dungeons | 114972 | [114972-tiny-dangerous-dungeons.json](./114972-tiny-dangerous-dungeons.json) |
 | Tiny Dangerous Dungeons Remake | 333369 | [333369-tiny-dangerous-dungeons-remake.json](./333369-tiny-dangerous-dungeons-remake.json) |
 | Tiny Defender | 149538 | [149538-tiny-defender.json](./149538-tiny-defender.json) |
@@ -21462,6 +21467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transparent Girl | 374972 | [374972-transparent-girl.json](./374972-transparent-girl.json) |
 | Transparent Her and Real Me | 316638 | [316638-transparent-her-and-real-me.json](./316638-transparent-her-and-real-me.json) |
 | Transparent Machines | 60448 | [60448-transparent-machines.json](./60448-transparent-machines.json) |
+| Transpawt Train | 346391 | [346391-transpawt-train.json](./346391-transpawt-train.json) |
 | Transpire | 144269 | [144269-transpire.json](./144269-transpire.json) |
 | TransPlan | 13663 | [13663-transplan.json](./13663-transplan.json) |
 | Transplant | 70926 | [70926-transplant.json](./70926-transplant.json) |
@@ -22647,6 +22653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
+| Trouble in Cookie Town | 346378 | [346378-trouble-in-cookie-town.json](./346378-trouble-in-cookie-town.json) |
 | Trouble in Pacifica | 331288 | [331288-trouble-in-pacifica.json](./331288-trouble-in-pacifica.json) |
 | Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
