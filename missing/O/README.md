@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Strike | 39752 | [39752-omega-strike.json](./39752-omega-strike.json) |
 | Omega Strike: Deluxe Edition | 120798 | [120798-omega-strike-deluxe-edition.json](./120798-omega-strike-deluxe-edition.json) |
 | Omega Strikers: Season 2 - Summer Splash | 260971 | [260971-omega-strikers-season-2-summer-splash.json](./260971-omega-strikers-season-2-summer-splash.json) |
+| Omega Timeline: Poppy's Story - A ChristmAUs Carol | 335138 | [335138-omega-timeline-poppys-story-a-christmaus-carol.json](./335138-omega-timeline-poppys-story-a-christmaus-carol.json) |
 | Omega Tower | 263112 | [263112-omega-tower.json](./263112-omega-tower.json) |
 | Omega Vampire | 136834 | [136834-omega-vampire.json](./136834-omega-vampire.json) |
 | Omega Vanitas | 416607 | [416607-omega-vanitas.json](./416607-omega-vanitas.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
 | Orchestra: The Brass Fate | 223539 | [223539-orchestra-the-brass-fate.json](./223539-orchestra-the-brass-fate.json) |
 | Orchestrate | 177457 | [177457-orchestrate.json](./177457-orchestrate.json) |
+| Orchid Glitter | 335057 | [335057-orchid-glitter.json](./335057-orchid-glitter.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
@@ -3609,6 +3611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
+| Out of Sight VR | 335132 | [335132-out-of-sight-vr.json](./335132-out-of-sight-vr.json) |
 | Out of Sight: Stage Fright | 387593 | [387593-out-of-sight-stage-fright.json](./387593-out-of-sight-stage-fright.json) |
 | Out of Skull | 334334 | [334334-out-of-skull.json](./334334-out-of-skull.json) |
 | Out of Space | 111772 | [111772-out-of-space.json](./111772-out-of-space.json) |
