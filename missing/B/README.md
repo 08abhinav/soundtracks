@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean's Jack | 410906 | [410906-beans-jack.json](./410906-beans-jack.json) |
 | Bean's Quest | 65391 | [65391-beans-quest.json](./65391-beans-quest.json) |
 | Bean's Quest 2: Bean Dreams | 26919 | [26919-beans-quest-2-bean-dreams.json](./26919-beans-quest-2-bean-dreams.json) |
+| Beanball | 361464 | [361464-beanball.json](./361464-beanball.json) |
 | BeanKind by Ketnipz | 249657 | [249657-beankind-by-ketnipz.json](./249657-beankind-by-ketnipz.json) |
 | Beanotown Racing | 57608 | [57608-beanotown-racing.json](./57608-beanotown-racing.json) |
 | Beanrise | 322273 | [322273-beanrise.json](./322273-beanrise.json) |
@@ -6742,6 +6743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Master | 414470 | [414470-blade-master.json](./414470-blade-master.json) |
 | Blade Mistress | 57888 | [57888-blade-mistress.json](./57888-blade-mistress.json) |
 | Blade of Acrimony | 114222 | [114222-blade-of-acrimony.json](./114222-blade-of-acrimony.json) |
+| Blade of Chaos | 361454 | [361454-blade-of-chaos.json](./361454-blade-of-chaos.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
