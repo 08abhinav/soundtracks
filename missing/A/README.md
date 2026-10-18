@@ -6260,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
 | Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy Bubble Burst | 331753 | [331753-amy-bubble-burst.json](./331753-amy-bubble-burst.json) |
 | Amy Dress Up | 332209 | [332209-amy-dress-up.json](./332209-amy-dress-up.json) |
 | Amy Galore | 329768 | [329768-amy-galore.json](./329768-amy-galore.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
@@ -12502,6 +12503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Lords | 137012 | [137012-avalon-lords.json](./137012-avalon-lords.json) |
 | Avalon Lords: Dawn Rises | 20464 | [20464-avalon-lords-dawn-rises.json](./20464-avalon-lords-dawn-rises.json) |
 | Avalon Online | 78961 | [78961-avalon-online.json](./78961-avalon-online.json) |
+| Avalon Remake | 331759 | [331759-avalon-remake.json](./331759-avalon-remake.json) |
 | Avalon: Sacred Crusade | 153868 | [153868-avalon-sacred-crusade.json](./153868-avalon-sacred-crusade.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
 | Avalon: The Legend Lives | 60350 | [60350-avalon-the-legend-lives.json](./60350-avalon-the-legend-lives.json) |
