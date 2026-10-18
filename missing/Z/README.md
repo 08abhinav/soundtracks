@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Tornado Game | 235230 | [235230-zombie-tornado-game.json](./235230-zombie-tornado-game.json) |
 | Zombie Total War | 152876 | [152876-zombie-total-war.json](./152876-zombie-total-war.json) |
 | Zombie Tower Shooting Defense | 351682 | [351682-zombie-tower-shooting-defense.json](./351682-zombie-tower-shooting-defense.json) |
+| Zombie Tower Survivor | 325311 | [325311-zombie-tower-survivor.json](./325311-zombie-tower-survivor.json) |
 | Zombie Town | 273866 | [273866-zombie-town.json](./273866-zombie-town.json) |
 | Zombie Town | 51432 | [51432-zombie-town.json](./51432-zombie-town.json) |
 | Zombie Town Breakout | 337517 | [337517-zombie-town-breakout.json](./337517-zombie-town-breakout.json) |
