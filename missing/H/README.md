@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Obon Love | 313220 | [313220-hentai-girls-obon-love.json](./313220-hentai-girls-obon-love.json) |
 | Hentai Girls: Office Romance | 283267 | [283267-hentai-girls-office-romance.json](./283267-hentai-girls-office-romance.json) |
 | Hentai Girls: Paris Romance | 314871 | [314871-hentai-girls-paris-romance.json](./314871-hentai-girls-paris-romance.json) |
+| Hentai Girls: Pissy Pirate | 329442 | [329442-hentai-girls-pissy-pirate.json](./329442-hentai-girls-pissy-pirate.json) |
 | Hentai Girls: Platinum Edition | 283147 | [283147-hentai-girls-platinum-edition.json](./283147-hentai-girls-platinum-edition.json) |
 | Hentai Girls: Premium Edition | 268560 | [268560-hentai-girls-premium-edition.json](./268560-hentai-girls-premium-edition.json) |
 | Hentai Girls: Racy Racer | 304789 | [304789-hentai-girls-racy-racer.json](./304789-hentai-girls-racy-racer.json) |
@@ -6113,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
 | Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
+| Hoarding Simulator 2.0 | 329443 | [329443-hoarding-simulator-2-0.json](./329443-hoarding-simulator-2-0.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
 | Hob | 14763 | [14763-hob.json](./14763-hob.json) |
 | Hob: The Definitive Edition | 116681 | [116681-hob-the-definitive-edition.json](./116681-hob-the-definitive-edition.json) |
