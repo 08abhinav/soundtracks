@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
+| Cam Op Simulator | 326465 | [326465-cam-op-simulator.json](./326465-cam-op-simulator.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
 | Cam4Z: Bodycam Zombie Elevator Survivor | 373682 | [373682-cam4z-bodycam-zombie-elevator-survivor.json](./373682-cam4z-bodycam-zombie-elevator-survivor.json) |
 | Camazotz no Ongaku | 394769 | [394769-camazotz-no-ongaku.json](./394769-camazotz-no-ongaku.json) |
@@ -719,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
 | Camera Lens | 291526 | [291526-camera-lens.json](./291526-camera-lens.json) |
 | CameraBag 2 | 379380 | [379380-camerabag-2.json](./379380-camerabag-2.json) |
+| CamGirl Simulator | 326461 | [326461-camgirl-simulator.json](./326461-camgirl-simulator.json) |
 | CamGirls Inc | 202386 | [202386-camgirls-inc.json](./202386-camgirls-inc.json) |
 | Camgoo Sixplay | 93123 | [93123-camgoo-sixplay.json](./93123-camgoo-sixplay.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
@@ -1425,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car | 243586 | [243586-car.json](./243586-car.json) |
 | Car and Driver | 72042 | [72042-car-and-driver.json](./72042-car-and-driver.json) |
 | Car Car Crash Hands on Edition | 32623 | [32623-car-car-crash-hands-on-edition.json](./32623-car-car-crash-hands-on-edition.json) |
+| Car Carrier Simulator | 326460 | [326460-car-carrier-simulator.json](./326460-car-carrier-simulator.json) |
 | Car Challenge | 410240 | [410240-car-challenge.json](./410240-car-challenge.json) |
 | Car Combine Mania | 342280 | [342280-car-combine-mania.json](./342280-car-combine-mania.json) |
 | Car Constructor | 169834 | [169834-car-constructor.json](./169834-car-constructor.json) |
@@ -1527,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
 | Car Scrapyard Simulator | 217267 | [217267-car-scrapyard-simulator.json](./217267-car-scrapyard-simulator.json) |
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
+| Car Service Simulator | 326466 | [326466-car-service-simulator.json](./326466-car-service-simulator.json) |
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
@@ -2269,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
+| Casino Manager Simulator | 326459 | [326459-casino-manager-simulator.json](./326459-casino-manager-simulator.json) |
 | Casino Mega Collection | 372214 | [372214-casino-mega-collection.json](./372214-casino-mega-collection.json) |
 | Casino Mogul | 73759 | [73759-casino-mogul.json](./73759-casino-mogul.json) |
 | Casino Noir | 29607 | [29607-casino-noir.json](./29607-casino-noir.json) |
@@ -4007,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
+| Champion Simulator | 326458 | [326458-champion-simulator.json](./326458-champion-simulator.json) |
 | Champion Soccer | 6092 | [6092-champion-soccer.json](./6092-champion-soccer.json) |
 | Champion Strike: Hero Clash | 221645 | [221645-champion-strike-hero-clash.json](./221645-champion-strike-hero-clash.json) |
 | Champion Tennis | 6093 | [6093-champion-tennis.json](./6093-champion-tennis.json) |
@@ -5788,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Slots: Casino Game | 369341 | [369341-christmas-slots-casino-game.json](./369341-christmas-slots-casino-game.json) |
 | Christmas Smash | 400469 | [400469-christmas-smash.json](./400469-christmas-smash.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
+| Christmas Store: Santa's Supermarket Simulator | 326468 | [326468-christmas-store-santas-supermarket-simulator.json](./326468-christmas-store-santas-supermarket-simulator.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
@@ -6252,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Story | 333438 | [333438-cinema-story.json](./333438-cinema-story.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
+| Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
 | Cinemax Complete | 52735 | [52735-cinemax-complete.json](./52735-cinemax-complete.json) |
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
@@ -6593,6 +6601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
 | City Night Carnage | 190417 | [190417-city-night-carnage.json](./190417-city-night-carnage.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
+| City Noodle Shop Simulator | 326451 | [326451-city-noodle-shop-simulator.json](./326451-city-noodle-shop-simulator.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
 | City of Brave | 150248 | [150248-city-of-brave.json](./150248-city-of-brave.json) |
@@ -6871,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 125302 | [125302-clash.json](./125302-clash.json) |
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
+| Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
@@ -7846,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocco Game | 145904 | [145904-cocco-game.json](./145904-cocco-game.json) |
 | Cochonnet | 382750 | [382750-cochonnet.json](./382750-cochonnet.json) |
 | Cock | 306612 | [306612-cock.json](./306612-cock.json) |
+| Cock Fight Simulator | 326449 | [326449-cock-fight-simulator.json](./326449-cock-fight-simulator.json) |
 | Cock Soccer | 291608 | [291608-cock-soccer.json](./291608-cock-soccer.json) |
 | Cock-A-Doodle-Doo | 151628 | [151628-cock-a-doodle-doo.json](./151628-cock-a-doodle-doo.json) |
 | Cockatrice Attacking the city | 120970 | [120970-cockatrice-attacking-the-city.json](./120970-cockatrice-attacking-the-city.json) |
@@ -7878,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coconut | 314305 | [314305-coconut.json](./314305-coconut.json) |
 | Coconut CEO Idle | 387629 | [387629-coconut-ceo-idle.json](./387629-coconut-ceo-idle.json) |
 | Coconut Farm 3D | 300779 | [300779-coconut-farm-3d.json](./300779-coconut-farm-3d.json) |
+| Coconut Simulator | 326453 | [326453-coconut-simulator.json](./326453-coconut-simulator.json) |
 | Coconuts | 40622 | [40622-coconuts.json](./40622-coconuts.json) |
 | Coconuts versus Bananas: The Invasion of Carl CocoPalm | 97456 | [97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json](./97456-coconuts-versus-bananas-the-invasion-of-carl-cocopalm.json) |
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
@@ -8091,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee/Break: Ocean Grey | 141796 | [141796-coffee-break-ocean-grey.json](./141796-coffee-break-ocean-grey.json) |
 | CoffeeBiz Tycoon | 111027 | [111027-coffeebiz-tycoon.json](./111027-coffeebiz-tycoon.json) |
 | Coffeehouse | 217374 | [217374-coffeehouse.json](./217374-coffeehouse.json) |
+| CoffeeShop Simulator | 326448 | [326448-coffeeshop-simulator.json](./326448-coffeeshop-simulator.json) |
 | Coffeetime Crosswords | 74409 | [74409-coffeetime-crosswords.json](./74409-coffeetime-crosswords.json) |
 | Coffence | 29688 | [29688-coffence.json](./29688-coffence.json) |
 | Coffie Simulator | 345613 | [345613-coffie-simulator.json](./345613-coffie-simulator.json) |
@@ -8177,6 +8190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
 | CoinClave | 390607 | [390607-coinclave.json](./390607-coinclave.json) |
 | Coincremental | 358992 | [358992-coincremental.json](./358992-coincremental.json) |
+| Coindice Simulator | 326447 | [326447-coindice-simulator.json](./326447-coindice-simulator.json) |
 | Coindle | 376642 | [376642-coindle.json](./376642-coindle.json) |
 | Coinflate!! | 345135 | [345135-coinflate.json](./345135-coinflate.json) |
 | CoinForge | 338874 | [338874-coinforge.json](./338874-coinforge.json) |
@@ -10485,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corncob Deluxe | 94704 | [94704-corncob-deluxe.json](./94704-corncob-deluxe.json) |
 | Corner Clash | 390520 | [390520-corner-clash.json](./390520-corner-clash.json) |
 | Corner Driver | 225888 | [225888-corner-driver.json](./225888-corner-driver.json) |
+| Corner Kitchen Fast Food Simulator | 326454 | [326454-corner-kitchen-fast-food-simulator.json](./326454-corner-kitchen-fast-food-simulator.json) |
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
 | Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
@@ -12996,6 +13011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
 | Crown of Zephyr | 230727 | [230727-crown-of-zephyr.json](./230727-crown-of-zephyr.json) |
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
+| Crown Simulator: Royal Life simulation | 326455 | [326455-crown-simulator-royal-life-simulation.json](./326455-crown-simulator-royal-life-simulation.json) |
 | Crown Solitaire: Card Game | 96714 | [96714-crown-solitaire-card-game.json](./96714-crown-solitaire-card-game.json) |
 | Crown Trick | 113689 | [113689-crown-trick.json](./113689-crown-trick.json) |
 | Crown Trick: Limited Edition | 173112 | [173112-crown-trick-limited-edition.json](./173112-crown-trick-limited-edition.json) |
