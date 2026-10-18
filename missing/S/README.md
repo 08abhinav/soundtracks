@@ -14696,7 +14696,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparking Beam Strike 1000 | 328485 | [328485-sparking-beam-strike-1000.json](./328485-sparking-beam-strike-1000.json) |
 | Sparkle | 88277 | [88277-sparkle.json](./88277-sparkle.json) |
 | Sparkle & Umbra | 387564 | [387564-sparkle-and-umbra.json](./387564-sparkle-and-umbra.json) |
-| Sparkle 2 | 20069 | [20069-sparkle-2.json](./20069-sparkle-2.json) |
 | Sparkle 2 Evo | 16697 | [16697-sparkle-2-evo.json](./16697-sparkle-2-evo.json) |
 | Sparkle 4 Tales | 116326 | [116326-sparkle-4-tales.json](./116326-sparkle-4-tales.json) |
 | Sparkle HD | 103894 | [103894-sparkle-hd.json](./103894-sparkle-hd.json) |
@@ -17334,7 +17333,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Realms: United - Assault | 163289 | [163289-star-realms-united-assault.json](./163289-star-realms-united-assault.json) |
 | Star Realms: United - Heroes | 163281 | [163281-star-realms-united-heroes.json](./163281-star-realms-united-heroes.json) |
 | Star Realms: United - Missions | 163291 | [163291-star-realms-united-missions.json](./163291-star-realms-united-missions.json) |
-| Star Renegades | 94816 | [94816-star-renegades.json](./94816-star-renegades.json) |
 | Star Renegades: Enter the Dragoon | 169276 | [169276-star-renegades-enter-the-dragoon.json](./169276-star-renegades-enter-the-dragoon.json) |
 | Star Renegades: Guardian of the Metaverse | 169275 | [169275-star-renegades-guardian-of-the-metaverse.json](./169275-star-renegades-guardian-of-the-metaverse.json) |
 | Star Renegades: Prime Dimension | 193206 | [193206-star-renegades-prime-dimension.json](./193206-star-renegades-prime-dimension.json) |
