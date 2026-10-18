@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanisan Shooting Game | 296013 | [296013-wanisan-shooting-game.json](./296013-wanisan-shooting-game.json) |
 | Wanking Simulator | 122993 | [122993-wanking-simulator.json](./122993-wanking-simulator.json) |
 | Wanko to Asobou! Mezase Dog Trainer! | 285664 | [285664-wanko-to-asobou-mezase-dog-trainer.json](./285664-wanko-to-asobou-mezase-dog-trainer.json) |
+| Wanko Wanko Adventure | 336969 | [336969-wanko-wanko-adventure.json](./336969-wanko-wanko-adventure.json) |
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Modern Armor - Tank of the Month: M41D | 332061 | [332061-world-of-tanks-modern-armor-tank-of-the-month-m41d.json](./332061-world-of-tanks-modern-armor-tank-of-the-month-m41d.json) |
 | World of Tanks: Modern Armor - Tank of the Month: NM 116 Panserjager | 334289 | [334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json](./334289-world-of-tanks-modern-armor-tank-of-the-month-nm-116-panserjager.json) |
 | World of Tanks: Modern Armor - Tank of the Month: T-62M-1 | 332060 | [332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json](./332060-world-of-tanks-modern-armor-tank-of-the-month-t-62m-1.json) |
+| World of Tanks: Modern Armor - The Roar of History | 336961 | [336961-world-of-tanks-modern-armor-the-roar-of-history.json](./336961-world-of-tanks-modern-armor-the-roar-of-history.json) |
 | World of Tanks: Modern Armor - TMNT Starter Pack | 334290 | [334290-world-of-tanks-modern-armor-tmnt-starter-pack.json](./334290-world-of-tanks-modern-armor-tmnt-starter-pack.json) |
 | World of Tanks: Modern Armor - Union of Land & Sea | 332064 | [332064-world-of-tanks-modern-armor-union-of-land-and-sea.json](./332064-world-of-tanks-modern-armor-union-of-land-and-sea.json) |
 | World of Tanks: Modern Armor - Vipers Starter Pack | 332059 | [332059-world-of-tanks-modern-armor-vipers-starter-pack.json](./332059-world-of-tanks-modern-armor-vipers-starter-pack.json) |
@@ -6028,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warships: Legends - Captain's Essentials | 340747 | [340747-world-of-warships-legends-captains-essentials.json](./340747-world-of-warships-legends-captains-essentials.json) |
 | World of Warships: Legends - Dawn's Guardian | 332046 | [332046-world-of-warships-legends-dawns-guardian.json](./332046-world-of-warships-legends-dawns-guardian.json) |
 | World of Warships: Legends - Eagle Union's Power | 332047 | [332047-world-of-warships-legends-eagle-unions-power.json](./332047-world-of-warships-legends-eagle-unions-power.json) |
+| World of Warships: Legends - Eastern Leaders | 336960 | [336960-world-of-warships-legends-eastern-leaders.json](./336960-world-of-warships-legends-eastern-leaders.json) |
 | World of Warships: Legends - European Strength | 332535 | [332535-world-of-warships-legends-european-strength.json](./332535-world-of-warships-legends-european-strength.json) |
 | World of Warships: Legends - Firepower Deluxe Edition | 136204 | [136204-world-of-warships-legends-firepower-deluxe-edition.json](./136204-world-of-warships-legends-firepower-deluxe-edition.json) |
 | World of Warships: Legends - Heavy Hitter | 332052 | [332052-world-of-warships-legends-heavy-hitter.json](./332052-world-of-warships-legends-heavy-hitter.json) |
