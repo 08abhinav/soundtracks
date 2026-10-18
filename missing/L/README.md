@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 4: Happy Racer | 309634 | [309634-learn-to-play-vol-4-happy-racer.json](./309634-learn-to-play-vol-4-happy-racer.json) |
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
+| Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
 | LearnEng - The Word Maker | 110856 | [110856-learneng-the-word-maker.json](./110856-learneng-the-word-maker.json) |
 | Learning a Foreign Language Is No Easy Task, for Sure | 179039 | [179039-learning-a-foreign-language-is-no-easy-task-for-sure.json](./179039-learning-a-foreign-language-is-no-easy-task-for-sure.json) |
@@ -3154,6 +3155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liebt Mich Nicht | 126021 | [126021-liebt-mich-nicht.json](./126021-liebt-mich-nicht.json) |
 | Liege | 63254 | [63254-liege.json](./63254-liege.json) |
 | Liege Dragon | 133621 | [133621-liege-dragon.json](./133621-liege-dragon.json) |
+| Liegecraft | 322449 | [322449-liegecraft.json](./322449-liegecraft.json) |
 | Liekki | 290483 | [290483-liekki.json](./290483-liekki.json) |
 | Liero Xtreme | 72080 | [72080-liero-xtreme.json](./72080-liero-xtreme.json) |
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
