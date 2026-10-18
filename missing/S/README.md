@@ -17670,7 +17670,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
-| Star Trucker | 252787 | [252787-star-trucker.json](./252787-star-trucker.json) |
 | Star Trucker: Amped Customization Pack | 332043 | [332043-star-trucker-amped-customization-pack.json](./332043-star-trucker-amped-customization-pack.json) |
 | Star Trucker: Cultivation Content Pack | 415856 | [415856-star-trucker-cultivation-content-pack.json](./415856-star-trucker-cultivation-content-pack.json) |
 | Star Valor | 100418 | [100418-star-valor.json](./100418-star-valor.json) |
