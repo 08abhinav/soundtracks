@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Toilets | 265769 | [265769-escape-from-toilets.json](./265769-escape-from-toilets.json) |
 | Escape from Tokat Dungeon | 289577 | [289577-escape-from-tokat-dungeon.json](./289577-escape-from-tokat-dungeon.json) |
 | Escape from Traam | 25591 | [25591-escape-from-traam.json](./25591-escape-from-traam.json) |
+| Escape from Tung Tung Sahur | 342485 | [342485-escape-from-tung-tung-sahur.json](./342485-escape-from-tung-tung-sahur.json) |
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
