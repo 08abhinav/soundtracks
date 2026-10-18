@@ -1145,6 +1145,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Circuit | 48498 | [48498-family-circuit.json](./48498-family-circuit.json) |
 | Family Circuit '91 | 48497 | [48497-family-circuit-91.json](./48497-family-circuit-91.json) |
 | Family Composer | 41287 | [41287-family-composer.json](./41287-family-composer.json) |
+| Family Computer Golf Tournament: Japan Course | 360905 | [360905-family-computer-golf-tournament-japan-course.json](./360905-family-computer-golf-tournament-japan-course.json) |
+| Family Computer Golf Tournament: Japan Course | 360906 | [360906-family-computer-golf-tournament-japan-course.json](./360906-family-computer-golf-tournament-japan-course.json) |
 | Family Computer Golf: Japan Course | 41260 | [41260-family-computer-golf-japan-course.json](./41260-family-computer-golf-japan-course.json) |
 | Family Computer Golf: U.S. Course | 41247 | [41247-family-computer-golf-u-s-course.json](./41247-family-computer-golf-u-s-course.json) |
 | Family Crisis | 381386 | [381386-family-crisis.json](./381386-family-crisis.json) |
@@ -1834,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Heroes Super Saga | 101079 | [101079-farm-heroes-super-saga.json](./101079-farm-heroes-super-saga.json) |
 | Farm Idle Game | 371738 | [371738-farm-idle-game.json](./371738-farm-idle-game.json) |
 | Farm in Another World | 236357 | [236357-farm-in-another-world.json](./236357-farm-in-another-world.json) |
+| Farm Invader | 360883 | [360883-farm-invader.json](./360883-farm-invader.json) |
 | Farm Invaders | 285555 | [285555-farm-invaders.json](./285555-farm-invaders.json) |
 | Farm Invaders | 324319 | [324319-farm-invaders.json](./324319-farm-invaders.json) |
 | Farm Invasion USA | 61125 | [61125-farm-invasion-usa.json](./61125-farm-invasion-usa.json) |
@@ -2102,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious 6 | 412791 | [412791-fast-and-furious-6.json](./412791-fast-and-furious-6.json) |
 | Fast & Furious 6: The Game | 61990 | [61990-fast-and-furious-6-the-game.json](./61990-fast-and-furious-6-the-game.json) |
 | Fast & Furious: Adrenaline | 66427 | [66427-fast-and-furious-adrenaline.json](./66427-fast-and-furious-adrenaline.json) |
+| Fast & Furious: Arcade Edition | 360917 | [360917-fast-and-furious-arcade-edition.json](./360917-fast-and-furious-arcade-edition.json) |
 | Fast & Furious: Crossroads - Season Pass | 293726 | [293726-fast-and-furious-crossroads-season-pass.json](./293726-fast-and-furious-crossroads-season-pass.json) |
 | Fast & Furious: Legacy | 383491 | [383491-fast-and-furious-legacy.json](./383491-fast-and-furious-legacy.json) |
 | Fast & Furious: Spy Racers Rise of Sh1ft3r | 150132 | [150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json](./150132-fast-and-furious-spy-racers-rise-of-sh1ft3r.json) |
@@ -2328,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
 | Fate Tectonics | 35079 | [35079-fate-tectonics.json](./35079-fate-tectonics.json) |
 | Fate U.C.P | 42868 | [42868-fate-u-c-p.json](./42868-fate-u-c-p.json) |
+| Fate War | 360916 | [360916-fate-war.json](./360916-fate-war.json) |
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
@@ -6159,6 +6164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly With The Yellow Crane | 266116 | [266116-fly-with-the-yellow-crane.json](./266116-fly-with-the-yellow-crane.json) |
 | Fly, Glowfly! | 34117 | [34117-fly-glowfly.json](./34117-fly-glowfly.json) |
 | FLY: Forever Loving You | 179676 | [179676-fly-forever-loving-you.json](./179676-fly-forever-loving-you.json) |
+| FLY: Forever Loving You 2 | 360911 | [360911-fly-forever-loving-you-2.json](./360911-fly-forever-loving-you-2.json) |
 | Fly! | 69847 | [69847-fly.json](./69847-fly.json) |
 | Fly! 2K | 93065 | [93065-fly-2k.json](./93065-fly-2k.json) |
 | Fly! II | 68973 | [68973-fly-ii.json](./68973-fly-ii.json) |
@@ -8460,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night 3D Darts | 74061 | [74061-friday-night-3d-darts.json](./74061-friday-night-3d-darts.json) |
 | Friday Night 3D Pool | 57610 | [57610-friday-night-3d-pool.json](./57610-friday-night-3d-pool.json) |
 | Friday Night Bullet Arena | 31702 | [31702-friday-night-bullet-arena.json](./31702-friday-night-bullet-arena.json) |
+| Friday Night Dustin' | 360892 | [360892-friday-night-dustin.json](./360892-friday-night-dustin.json) |
 | Friday Night Funk'n: Funkin' is Magic | 203223 | [203223-friday-night-funkn-funkin-is-magic.json](./203223-friday-night-funkn-funkin-is-magic.json) |
 | Friday Night Funkin vs. junim Cururu | 328236 | [328236-friday-night-funkin-vs-junim-cururu.json](./328236-friday-night-funkin-vs-junim-cururu.json) |
 | Friday Night Funkin: vs. Jeff | 242615 | [242615-friday-night-funkin-vs-jeff.json](./242615-friday-night-funkin-vs-jeff.json) |
