@@ -1604,6 +1604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis 3: The Eve of Destruction | 1479 | [1479-nemesis-3-the-eve-of-destruction.json](./1479-nemesis-3-the-eve-of-destruction.json) |
 | Nemesis Macana | 364630 | [364630-nemesis-macana.json](./364630-nemesis-macana.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
+| Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
@@ -4224,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Momentum | 190979 | [190979-no-momentum.json](./190979-no-momentum.json) |
 | No More Buttons | 100695 | [100695-no-more-buttons.json](./100695-no-more-buttons.json) |
 | No More Cows | 399063 | [399063-no-more-cows.json](./399063-no-more-cows.json) |
+| No More Deep | 346395 | [346395-no-more-deep.json](./346395-no-more-deep.json) |
 | No More Future | 177912 | [177912-no-more-future.json](./177912-no-more-future.json) |
 | No More Heroes | 377191 | [377191-no-more-heroes.json](./377191-no-more-heroes.json) |
 | No More Heroes 1 & 2 | 175207 | [175207-no-more-heroes-1-and-2.json](./175207-no-more-heroes-1-and-2.json) |
