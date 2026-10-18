@@ -9260,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Company of Heroes: Tales of Valor | 1371 | [1371-company-of-heroes-tales-of-valor.json](./1371-company-of-heroes-tales-of-valor.json) |
 | Compare the Meerkat | 313280 | [313280-compare-the-meerkat.json](./313280-compare-the-meerkat.json) |
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
+| Compass | 344160 | [344160-compass.json](./344160-compass.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
 | Compass of Destiny: Survivors | 369368 | [369368-compass-of-destiny-survivors.json](./369368-compass-of-destiny-survivors.json) |
 | Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
@@ -12319,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Case: Save the World! | 262383 | [262383-criminal-case-save-the-world.json](./262383-criminal-case-save-the-world.json) |
 | Criminal Case: The Conspiracy | 262381 | [262381-criminal-case-the-conspiracy.json](./262381-criminal-case-the-conspiracy.json) |
 | Criminal Case: Travel in Time | 262388 | [262388-criminal-case-travel-in-time.json](./262388-criminal-case-travel-in-time.json) |
+| Criminal Cleaner Simulator | 344238 | [344238-criminal-cleaner-simulator.json](./344238-criminal-cleaner-simulator.json) |
 | Criminal Clue: Spot the Difference | 103994 | [103994-criminal-clue-spot-the-difference.json](./103994-criminal-clue-spot-the-difference.json) |
 | Criminal Consequences | 185073 | [185073-criminal-consequences.json](./185073-criminal-consequences.json) |
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
@@ -12715,6 +12717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing the Sands | 261842 | [261842-crossing-the-sands.json](./261842-crossing-the-sands.json) |
 | Crossing to the Cold Valley | 178327 | [178327-crossing-to-the-cold-valley.json](./178327-crossing-to-the-cold-valley.json) |
 | Crossing Void - Global | 130700 | [130700-crossing-void-global.json](./130700-crossing-void-global.json) |
+| Crossings | 344157 | [344157-crossings.json](./344157-crossings.json) |
 | Crosslogic Ultimate | 66716 | [66716-crosslogic-ultimate.json](./66716-crosslogic-ultimate.json) |
 | CrossLust | 235491 | [235491-crosslust.json](./235491-crosslust.json) |
 | Crossmath | 381273 | [381273-crossmath.json](./381273-crossmath.json) |
@@ -13361,6 +13364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalase | 402571 | [402571-crystalase.json](./402571-crystalase.json) |
 | Crystalborne: Heroes of Fate | 123036 | [123036-crystalborne-heroes-of-fate.json](./123036-crystalborne-heroes-of-fate.json) |
 | Crystalis | 3121 | [3121-crystalis.json](./3121-crystalis.json) |
+| Crystalis | 344164 | [344164-crystalis.json](./344164-crystalis.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
