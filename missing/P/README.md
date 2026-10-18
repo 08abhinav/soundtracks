@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
+| Pakistan Quiz | 329411 | [329411-pakistan-quiz.json](./329411-pakistan-quiz.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
@@ -943,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic-Chan | 209623 | [209623-panic-chan.json](./209623-panic-chan.json) |
 | Panic! at the Dog Show | 106364 | [106364-panic-at-the-dog-show.json](./106364-panic-at-the-dog-show.json) |
 | Panic! Dizzy | 39163 | [39163-panic-dizzy.json](./39163-panic-dizzy.json) |
+| Panic+19 | 329414 | [329414-panic-19.json](./329414-panic-19.json) |
 | Panicked and Surrounded by Hot Vampires | 186626 | [186626-panicked-and-surrounded-by-hot-vampires.json](./186626-panicked-and-surrounded-by-hot-vampires.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
@@ -1780,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Bot | 149201 | [149201-parkour-bot.json](./149201-parkour-bot.json) |
 | Parkour Bullet Frenzy: FPS, Physics, Slowmotion | 317556 | [317556-parkour-bullet-frenzy-fps-physics-slowmotion.json](./317556-parkour-bullet-frenzy-fps-physics-slowmotion.json) |
 | Parkour Chief: Chapter Secret Agent | 341595 | [341595-parkour-chief-chapter-secret-agent.json](./341595-parkour-chief-chapter-secret-agent.json) |
+| Parkour Civilization | 329416 | [329416-parkour-civilization.json](./329416-parkour-civilization.json) |
 | Parkour Every Day | 292167 | [292167-parkour-every-day.json](./292167-parkour-every-day.json) |
 | Parkour Flight | 86876 | [86876-parkour-flight.json](./86876-parkour-flight.json) |
 | Parkour Fortress: Redux | 350570 | [350570-parkour-fortress-redux.json](./350570-parkour-fortress-redux.json) |
@@ -8001,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Colosseum Double Battle Card e+: Red Pack | 355872 | [355872-pokemon-colosseum-double-battle-card-e-red-pack.json](./355872-pokemon-colosseum-double-battle-card-e-red-pack.json) |
 | Pokémon Colosseum Double Battle Card e+: Yellow Pack | 355874 | [355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json](./355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json) |
 | Pokémon Comet | 334017 | [334017-pokemon-comet.json](./334017-pokemon-comet.json) |
+| Pokémon Compass | 329417 | [329417-pokemon-compass.json](./329417-pokemon-compass.json) |
 | Pokémon Coral Version | 234552 | [234552-pokemon-coral-version.json](./234552-pokemon-coral-version.json) |
 | Pokémon Corogarena | 309595 | [309595-pokemon-corogarena.json](./309595-pokemon-corogarena.json) |
 | Pokémon Covenant | 320277 | [320277-pokemon-covenant.json](./320277-pokemon-covenant.json) |
@@ -13055,6 +13059,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Adventures | 251813 | [251813-puzzle-adventures.json](./251813-puzzle-adventures.json) |
 | Puzzle Adventures Bundle 4 in 1 | 368085 | [368085-puzzle-adventures-bundle-4-in-1.json](./368085-puzzle-adventures-bundle-4-in-1.json) |
 | Puzzle Adventures: Forest Animals | 328490 | [328490-puzzle-adventures-forest-animals.json](./328490-puzzle-adventures-forest-animals.json) |
+| Puzzle Adventures: Sea Animals | 329424 | [329424-puzzle-adventures-sea-animals.json](./329424-puzzle-adventures-sea-animals.json) |
+| Puzzle Adventures: Serve Dishes | 329429 | [329429-puzzle-adventures-serve-dishes.json](./329429-puzzle-adventures-serve-dishes.json) |
 | Puzzle Agent | 15995 | [15995-puzzle-agent.json](./15995-puzzle-agent.json) |
 | Puzzle Agent 2 | 6778 | [6778-puzzle-agent-2.json](./6778-puzzle-agent-2.json) |
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
