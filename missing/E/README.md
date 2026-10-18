@@ -2800,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Engaged: Apache vs Havoc | 20373 | [20373-enemy-engaged-apache-vs-havoc.json](./20373-enemy-engaged-apache-vs-havoc.json) |
 | Enemy Engaged: Comanche vs Hokum | 20374 | [20374-enemy-engaged-comanche-vs-hokum.json](./20374-enemy-engaged-comanche-vs-hokum.json) |
 | Enemy Engaged: RAH-66 Comanche vs. Ka-52 Hokum | 69858 | [69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json](./69858-enemy-engaged-rah-66-comanche-vs-ka-52-hokum.json) |
+| Enemy Expansion | 347474 | [347474-enemy-expansion.json](./347474-enemy-expansion.json) |
 | Enemy Front | 5647 | [5647-enemy-front.json](./5647-enemy-front.json) |
 | Enemy Front: Limited Edition | 323374 | [323374-enemy-front-limited-edition.json](./323374-enemy-front-limited-edition.json) |
 | Enemy Infestation | 52526 | [52526-enemy-infestation.json](./52526-enemy-infestation.json) |
@@ -3070,6 +3071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy: Zero 2 | 188671 | [188671-entropy-zero-2.json](./188671-entropy-zero-2.json) |
 | Entropy's Fall | 27592 | [27592-entropys-fall.json](./27592-entropys-fall.json) |
 | Entry | 207567 | [207567-entry.json](./207567-entry.json) |
+| Entry Denied | 347499 | [347499-entry-denied.json](./347499-entry-denied.json) |
 | Entschuldigung | 30087 | [30087-entschuldigung.json](./30087-entschuldigung.json) |
 | Entwined Challenge | 174226 | [174226-entwined-challenge.json](./174226-entwined-challenge.json) |
 | Entwined Time | 312855 | [312855-entwined-time.json](./312855-entwined-time.json) |
