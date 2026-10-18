@@ -3639,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
 | Hentai Girls: Hot Police | 284950 | [284950-hentai-girls-hot-police.json](./284950-hentai-girls-hot-police.json) |
+| Hentai Girls: Juicy Judo | 330605 | [330605-hentai-girls-juicy-judo.json](./330605-hentai-girls-juicy-judo.json) |
 | Hentai Girls: Lovely Lieutenant | 316194 | [316194-hentai-girls-lovely-lieutenant.json](./316194-hentai-girls-lovely-lieutenant.json) |
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
@@ -5716,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himawari Catastrophe! | 333912 | [333912-himawari-catastrophe.json](./333912-himawari-catastrophe.json) |
 | Himawari no Kyoukai to Nagai Natsuyasumi | 137108 | [137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json](./137108-himawari-no-kyoukai-to-nagai-natsuyasumi.json) |
 | Himawari to Koi no Kioku | 194574 | [194574-himawari-to-koi-no-kioku.json](./194574-himawari-to-koi-no-kioku.json) |
+| Hime Cut | 330502 | [330502-hime-cut.json](./330502-hime-cut.json) |
 | Hime Girl Paradise: Mechikawa! Age Sakari Sensation! | 140934 | [140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json](./140934-hime-girl-paradise-mechikawa-age-sakari-sensation.json) |
 | Hime Hibi Zoku! 2 Gakki: New Princess Days!! | 59372 | [59372-hime-hibi-zoku-2-gakki-new-princess-days.json](./59372-hime-hibi-zoku-2-gakki-new-princess-days.json) |
 | Hime to Boin | 77669 | [77669-hime-to-boin.json](./77669-hime-to-boin.json) |
