@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pajamorama | 133710 | [133710-pajamorama.json](./133710-pajamorama.json) |
 | Pakacuda | 83264 | [83264-pakacuda.json](./83264-pakacuda.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
+| Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
 | Pakku Pony | 374671 | [374671-pakku-pony.json](./374671-pakku-pony.json) |
 | Pako | 9568 | [9568-pako.json](./9568-pako.json) |
@@ -9562,6 +9563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Permit: Deluxe Edition | 218549 | [218549-potion-permit-deluxe-edition.json](./218549-potion-permit-deluxe-edition.json) |
 | Potion Permit: Halloween Bundle | 272286 | [272286-potion-permit-halloween-bundle.json](./272286-potion-permit-halloween-bundle.json) |
 | Potion Permit: Lucky Cat Statue | 372248 | [372248-potion-permit-lucky-cat-statue.json](./372248-potion-permit-lucky-cat-statue.json) |
+| Potion Permit: Lunar New Year Bundle | 335621 | [335621-potion-permit-lunar-new-year-bundle.json](./335621-potion-permit-lunar-new-year-bundle.json) |
 | Potion Permit: Lunar New Year Lantern | 369876 | [369876-potion-permit-lunar-new-year-lantern.json](./369876-potion-permit-lunar-new-year-lantern.json) |
 | Potion Permit: Oriental Folding Wall | 369877 | [369877-potion-permit-oriental-folding-wall.json](./369877-potion-permit-oriental-folding-wall.json) |
 | Potion Permit: Red Flower Arrangement | 369878 | [369878-potion-permit-red-flower-arrangement.json](./369878-potion-permit-red-flower-arrangement.json) |
@@ -12472,6 +12474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
+| Pumpkin Remover | 335743 | [335743-pumpkin-remover.json](./335743-pumpkin-remover.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
 | Pumpkin SculptrVR | 30753 | [30753-pumpkin-sculptrvr.json](./30753-pumpkin-sculptrvr.json) |
