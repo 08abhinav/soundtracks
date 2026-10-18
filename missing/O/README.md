@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Katamari | 358526 | [358526-once-upon-a-katamari.json](./358526-once-upon-a-katamari.json) |
 | Once Upon a Katamari: Katamari Damacy Series Dance Dance Remixes | 377265 | [377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json](./377265-once-upon-a-katamari-katamari-damacy-series-dance-dance-remixes.json) |
 | Once Upon a Katamari: Katamari Damacy Series Neo Remixes | 377266 | [377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json](./377266-once-upon-a-katamari-katamari-damacy-series-neo-remixes.json) |
+| Once Upon A Katamari: King of All Sounds Edition | 358665 | [358665-once-upon-a-katamari-king-of-all-sounds-edition.json](./358665-once-upon-a-katamari-king-of-all-sounds-edition.json) |
 | Once Upon A Katamari: Rolling Live Highlights | 410246 | [410246-once-upon-a-katamari-rolling-live-highlights.json](./410246-once-upon-a-katamari-rolling-live-highlights.json) |
 | Once Upon a Kingdom | 358401 | [358401-once-upon-a-kingdom.json](./358401-once-upon-a-kingdom.json) |
 | Once Upon A Knight | 24098 | [24098-once-upon-a-knight.json](./24098-once-upon-a-knight.json) |
