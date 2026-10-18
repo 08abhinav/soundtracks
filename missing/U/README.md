@@ -1340,6 +1340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfire | 157935 | [157935-underfire.json](./157935-underfire.json) |
 | UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
+| Undergoes | 312993 | [312993-undergoes.json](./312993-undergoes.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
 | Underground | 232018 | [232018-underground.json](./232018-underground.json) |
