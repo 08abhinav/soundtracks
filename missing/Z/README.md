@@ -836,6 +836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zip | 335986 | [335986-zip.json](./335986-zip.json) |
 | Zip | 60252 | [60252-zip.json](./60252-zip.json) |
 | Zip A Doo | 91377 | [91377-zip-a-doo.json](./91377-zip-a-doo.json) |
+| Zip Puzzle | 348119 | [348119-zip-puzzle.json](./348119-zip-puzzle.json) |
 | Zip Up | 395853 | [395853-zip-up.json](./395853-zip-up.json) |
 | Zip Zap | 45357 | [45357-zip-zap.json](./45357-zip-zap.json) |
 | Zip: Set One | 186160 | [186160-zip-set-one.json](./186160-zip-set-one.json) |
