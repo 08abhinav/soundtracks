@@ -10999,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
+| Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
 | Snowballs | 221083 | [221083-snowballs.json](./221083-snowballs.json) |
@@ -11332,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
 | Socialize | 189037 | [189037-socialize.json](./189037-socialize.json) |
 | Socialize: Poly | 191522 | [191522-socialize-poly.json](./191522-socialize-poly.json) |
+| Socially Awkward | 359199 | [359199-socially-awkward.json](./359199-socially-awkward.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
@@ -14365,6 +14367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Warp | 17905 | [17905-space-warp.json](./17905-space-warp.json) |
 | Space Warrior | 146220 | [146220-space-warrior.json](./146220-space-warrior.json) |
 | Space Warrior | 310126 | [310126-space-warrior.json](./310126-space-warrior.json) |
+| Space Warrior | 359208 | [359208-space-warrior.json](./359208-space-warrior.json) |
 | Space Warrior: The Origin | 58149 | [58149-space-warrior-the-origin.json](./58149-space-warrior-the-origin.json) |
 | Space Wars | 125377 | [125377-space-wars.json](./125377-space-wars.json) |
 | Space Wars | 187507 | [187507-space-wars.json](./187507-space-wars.json) |
@@ -15091,6 +15094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound : The Magic Within | 155981 | [155981-spellbound-the-magic-within.json](./155981-spellbound-the-magic-within.json) |
 | Spellbound Beauties | 385320 | [385320-spellbound-beauties.json](./385320-spellbound-beauties.json) |
 | Spellbound Dizzy | 12362 | [12362-spellbound-dizzy.json](./12362-spellbound-dizzy.json) |
+| Spellbound Emporium | 359280 | [359280-spellbound-emporium.json](./359280-spellbound-emporium.json) |
 | Spellbound FPS | 289809 | [289809-spellbound-fps.json](./289809-spellbound-fps.json) |
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Party | 268382 | [268382-spellbound-party.json](./268382-spellbound-party.json) |
@@ -25134,6 +25138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
 | Swigridova kletba | 182294 | [182294-swigridova-kletba.json](./182294-swigridova-kletba.json) |
+| Swim | 359195 | [359195-swim.json](./359195-swim.json) |
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
