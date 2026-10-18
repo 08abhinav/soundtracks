@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sami's Pet Care | 364405 | [364405-samis-pet-care.json](./364405-samis-pet-care.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
+| Samly's Merge | 339149 | [339149-samlys-merge.json](./339149-samlys-merge.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
 | Sammon Salat | 294208 | [294208-sammon-salat.json](./294208-sammon-salat.json) |
 | Sammy Jukes: Twin Lakes | 313767 | [313767-sammy-jukes-twin-lakes.json](./313767-sammy-jukes-twin-lakes.json) |
@@ -9130,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyfarm | 316602 | [316602-skyfarm.json](./316602-skyfarm.json) |
 | Skyfear | 116976 | [116976-skyfear.json](./116976-skyfear.json) |
 | Skyfighter Arcade | 233632 | [233632-skyfighter-arcade.json](./233632-skyfighter-arcade.json) |
+| SkyFighters 1945 | 339151 | [339151-skyfighters-1945.json](./339151-skyfighters-1945.json) |
 | Skyfish II: Eat Your Peas | 79367 | [79367-skyfish-ii-eat-your-peas.json](./79367-skyfish-ii-eat-your-peas.json) |
 | Skyfish Rising | 340366 | [340366-skyfish-rising.json](./340366-skyfish-rising.json) |
 | Skyflower | 35411 | [35411-skyflower.json](./35411-skyflower.json) |
@@ -9158,6 +9160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skykeepers | 28024 | [28024-skykeepers.json](./28024-skykeepers.json) |
 | Skyland 1976 | 126349 | [126349-skyland-1976.json](./126349-skyland-1976.json) |
 | Skyland Defense | 109672 | [109672-skyland-defense.json](./109672-skyland-defense.json) |
+| Skyland Farmer | 339079 | [339079-skyland-farmer.json](./339079-skyland-farmer.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
@@ -23964,6 +23967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ubie Land | 85530 | [85530-super-ubie-land.json](./85530-super-ubie-land.json) |
 | Super UDK & RU Country | 322792 | [322792-super-udk-and-ru-country.json](./322792-super-udk-and-ru-country.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
+| Super Ultimate Party Game | 339080 | [339080-super-ultimate-party-game.json](./339080-super-ultimate-party-game.json) |
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
 | Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX Plus Alpha | 20095 | [20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json](./20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
