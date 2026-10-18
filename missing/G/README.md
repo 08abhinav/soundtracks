@@ -3701,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Storm | 322085 | [322085-glow-storm.json](./322085-glow-storm.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
+| Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
 | Glowfish HD | 86697 | [86697-glowfish-hd.json](./86697-glowfish-hd.json) |
