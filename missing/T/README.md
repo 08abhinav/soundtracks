@@ -17273,6 +17273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Vision | 161332 | [161332-tiny-vision.json](./161332-tiny-vision.json) |
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
+| Tiny Whaley 2 | 312978 | [312978-tiny-whaley-2.json](./312978-tiny-whaley-2.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wings | 7780 | [7780-tiny-wings.json](./7780-tiny-wings.json) |
 | Tiny Wizard Tavern | 412388 | [412388-tiny-wizard-tavern.json](./412388-tiny-wizard-tavern.json) |
