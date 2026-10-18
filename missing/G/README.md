@@ -6632,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
+| Grim Tales: Prisoners of the Past - Collector's Edition | 360335 | [360335-grim-tales-prisoners-of-the-past-collectors-edition.json](./360335-grim-tales-prisoners-of-the-past-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
