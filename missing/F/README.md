@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling for Yaoguais | 333569 | [333569-falling-for-yaoguais.json](./333569-falling-for-yaoguais.json) |
 | Falling From the Rabbit Hole | 228348 | [228348-falling-from-the-rabbit-hole.json](./228348-falling-from-the-rabbit-hole.json) |
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
+| Falling Fruit | 359730 | [359730-falling-fruit.json](./359730-falling-fruit.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
 | Falling Into Dreams | 247962 | [247962-falling-into-dreams.json](./247962-falling-into-dreams.json) |
@@ -6151,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Punch Boom: First Impact! | 132201 | [132201-fly-punch-boom-first-impact.json](./132201-fly-punch-boom-first-impact.json) |
 | Fly Simulator | 40706 | [40706-fly-simulator.json](./40706-fly-simulator.json) |
 | Fly Spy | 12997 | [12997-fly-spy.json](./12997-fly-spy.json) |
+| Fly Swatter | 359725 | [359725-fly-swatter.json](./359725-fly-swatter.json) |
 | Fly Tales | 211630 | [211630-fly-tales.json](./211630-fly-tales.json) |
 | Fly the Cloud | 151137 | [151137-fly-the-cloud.json](./151137-fly-the-cloud.json) |
 | Fly the Plane | 105430 | [105430-fly-the-plane.json](./105430-fly-the-plane.json) |
@@ -8264,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
+| Free Style | 359740 | [359740-free-style.json](./359740-free-style.json) |
 | Free SuDoKu | 71981 | [71981-free-sudoku.json](./71981-free-sudoku.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
