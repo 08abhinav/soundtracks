@@ -359,6 +359,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Custom Night | 103629 | [103629-ultimate-custom-night.json](./103629-ultimate-custom-night.json) |
 | Ultimate Custom Night Demo | 230990 | [230990-ultimate-custom-night-demo.json](./230990-ultimate-custom-night-demo.json) |
 | Ultimate Custom Night VR | 220139 | [220139-ultimate-custom-night-vr.json](./220139-ultimate-custom-night-vr.json) |
+| Ultimate Custom Night: Deluxe | 351399 | [351399-ultimate-custom-night-deluxe.json](./351399-ultimate-custom-night-deluxe.json) |
+| Ultimate Custom Night: Recode | 351397 | [351397-ultimate-custom-night-recode.json](./351397-ultimate-custom-night-recode.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
