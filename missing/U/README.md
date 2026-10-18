@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unboxing Mr. Coo | 359008 | [359008-unboxing-mr-coo.json](./359008-unboxing-mr-coo.json) |
 | Unboxing the Cryptic Killer | 247757 | [247757-unboxing-the-cryptic-killer.json](./247757-unboxing-the-cryptic-killer.json) |
 | Unboxing the mind of a Cryptic Killer | 192087 | [192087-unboxing-the-mind-of-a-cryptic-killer.json](./192087-unboxing-the-mind-of-a-cryptic-killer.json) |
+| Unboxing: 1-Bit Paradox | 348572 | [348572-unboxing-1-bit-paradox.json](./348572-unboxing-1-bit-paradox.json) |
 | Unboxing: Cozy Home Simulator | 334104 | [334104-unboxing-cozy-home-simulator.json](./334104-unboxing-cozy-home-simulator.json) |
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
@@ -1014,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncanny | 206717 | [206717-uncanny.json](./206717-uncanny.json) |
 | Uncanny Cat Golf | 323318 | [323318-uncanny-cat-golf.json](./323318-uncanny-cat-golf.json) |
 | Uncanny Islands | 81787 | [81787-uncanny-islands.json](./81787-uncanny-islands.json) |
+| Uncanny Tales: 1992 | 348579 | [348579-uncanny-tales-1992.json](./348579-uncanny-tales-1992.json) |
 | Uncanny Tales: Cold Road | 340276 | [340276-uncanny-tales-cold-road.json](./340276-uncanny-tales-cold-road.json) |
 | Uncanny Tales: The Watcher | 390221 | [390221-uncanny-tales-the-watcher.json](./390221-uncanny-tales-the-watcher.json) |
 | Uncanny Valley: Checkpoint | 404186 | [404186-uncanny-valley-checkpoint.json](./404186-uncanny-valley-checkpoint.json) |
