@@ -3247,6 +3247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Space: Online | 36322 | [36322-epic-space-online.json](./36322-epic-space-online.json) |
 | Epic Super Bowser World | 387506 | [387506-epic-super-bowser-world.json](./387506-epic-super-bowser-world.json) |
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
+| Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
 | Epic Vampire | 307721 | [307721-epic-vampire.json](./307721-epic-vampire.json) |
