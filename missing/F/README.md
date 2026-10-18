@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
 | Fire Squad | 212425 | [212425-fire-squad.json](./212425-fire-squad.json) |
 | Fire Station Renovation | 211256 | [211256-fire-station-renovation.json](./211256-fire-station-renovation.json) |
+| Fire Strike | 317044 | [317044-fire-strike.json](./317044-fire-strike.json) |
 | Fire Theft | 141749 | [141749-fire-theft.json](./141749-fire-theft.json) |
 | Fire Thief | 286053 | [286053-fire-thief.json](./286053-fire-thief.json) |
 | Fire Trap | 39551 | [39551-fire-trap.json](./39551-fire-trap.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
 | Flames & Fortune | 396752 | [396752-flames-and-fortune.json](./396752-flames-and-fortune.json) |
+| Flaming Core | 317054 | [317054-flaming-core.json](./317054-flaming-core.json) |
 | Flaming Friday Night | 130168 | [130168-flaming-friday-night.json](./130168-flaming-friday-night.json) |
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
