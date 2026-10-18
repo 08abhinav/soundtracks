@@ -7152,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaze of Storm | 331874 | [331874-blaze-of-storm.json](./331874-blaze-of-storm.json) |
 | Blaze Out | 94698 | [94698-blaze-out.json](./94698-blaze-out.json) |
 | Blaze Revolutions | 130068 | [130068-blaze-revolutions.json](./130068-blaze-revolutions.json) |
+| Blaze Rush | 330569 | [330569-blaze-rush.json](./330569-blaze-rush.json) |
 | Blaze Union + Knights in the Nightmare Remastered Collection | 410803 | [410803-blaze-union-knights-in-the-nightmare-remastered-collection.json](./410803-blaze-union-knights-in-the-nightmare-remastered-collection.json) |
 | Blaze Union: Story to Reach the Future | 251467 | [251467-blaze-union-story-to-reach-the-future.json](./251467-blaze-union-story-to-reach-the-future.json) |
 | Blazend | 186691 | [186691-blazend.json](./186691-blazend.json) |
