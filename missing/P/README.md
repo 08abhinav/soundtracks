@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
 | Pet.Net | 371131 | [371131-pet-net.json](./371131-pet-net.json) |
 | Pet'n'Run | 325833 | [325833-petnrun.json](./325833-petnrun.json) |
+| PETA: Painful Extinction Through Assault | 330009 | [330009-peta-painful-extinction-through-assault.json](./330009-peta-painful-extinction-through-assault.json) |
 | PETA's Pokémon Black & Blue | 18447 | [18447-petas-pokemon-black-and-blue.json](./18447-petas-pokemon-black-and-blue.json) |
 | Petadachi | 225876 | [225876-petadachi.json](./225876-petadachi.json) |
 | Petal and Blade | 420002 | [420002-petal-and-blade.json](./420002-petal-and-blade.json) |
@@ -4521,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piczle Colors | 114419 | [114419-piczle-colors.json](./114419-piczle-colors.json) |
 | Piczle Cross Adventure | 130088 | [130088-piczle-cross-adventure.json](./130088-piczle-cross-adventure.json) |
 | Piczle Cross Adventure + PictoQuest: The Cursed Grids | 146140 | [146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json](./146140-piczle-cross-adventure-pictoquest-the-cursed-grids.json) |
+| Piczle Cross: Rune Factory | 330033 | [330033-piczle-cross-rune-factory.json](./330033-piczle-cross-rune-factory.json) |
 | Piczle Cross: Story of Seasons | 280465 | [280465-piczle-cross-story-of-seasons.json](./280465-piczle-cross-story-of-seasons.json) |
 | Piczle Lines | 69524 | [69524-piczle-lines.json](./69524-piczle-lines.json) |
 | Piczle Lines 2: Into the Puzzleverse | 237363 | [237363-piczle-lines-2-into-the-puzzleverse.json](./237363-piczle-lines-2-into-the-puzzleverse.json) |
@@ -8345,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Wave Hello | 328965 | [328965-pokemon-wave-hello.json](./328965-pokemon-wave-hello.json) |
 | Pokémon Waves | 393104 | [393104-pokemon-waves.json](./393104-pokemon-waves.json) |
 | Pokémon Weird Type Fun | 307908 | [307908-pokemon-weird-type-fun.json](./307908-pokemon-weird-type-fun.json) |
+| Pokémon White 2 Randomizer | 329898 | [329898-pokemon-white-2-randomizer.json](./329898-pokemon-white-2-randomizer.json) |
 | Pokémon White Version 2 | 8353 | [8353-pokemon-white-version-2.json](./8353-pokemon-white-version-2.json) |
 | Pokémon Wilting Y | 213977 | [213977-pokemon-wilting-y.json](./213977-pokemon-wilting-y.json) |
 | Pokémon Winds | 393105 | [393105-pokemon-winds.json](./393105-pokemon-winds.json) |
@@ -8929,6 +8932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Island | 15734 | [15734-pony-island.json](./15734-pony-island.json) |
 | Pony island - cute paradise village | 87078 | [87078-pony-island-cute-paradise-village.json](./87078-pony-island-cute-paradise-village.json) |
 | Pony Island 2: Panda Circus | 279613 | [279613-pony-island-2-panda-circus.json](./279613-pony-island-2-panda-circus.json) |
+| Pony Kart DS | 330015 | [330015-pony-kart-ds.json](./330015-pony-kart-ds.json) |
 | Pony Luv | 72968 | [72968-pony-luv.json](./72968-pony-luv.json) |
 | Pony Metal U-Gaim | 261298 | [261298-pony-metal-u-gaim.json](./261298-pony-metal-u-gaim.json) |
 | Pony Ride with Obstacles | 378409 | [378409-pony-ride-with-obstacles.json](./378409-pony-ride-with-obstacles.json) |
@@ -12601,6 +12605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punk Girl | 363660 | [363660-punk-girl.json](./363660-punk-girl.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
+| Punk Star | 330003 | [330003-punk-star.json](./330003-punk-star.json) |
 | Punk Wars | 150059 | [150059-punk-wars.json](./150059-punk-wars.json) |
 | Punk Wars: Threat From Within | 201015 | [201015-punk-wars-threat-from-within.json](./201015-punk-wars-threat-from-within.json) |
 | Punk-o-Matic | 243144 | [243144-punk-o-matic.json](./243144-punk-o-matic.json) |
@@ -12912,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
 | Puss in Pants | 359044 | [359044-puss-in-pants.json](./359044-puss-in-pants.json) |
 | Puss in Woods | 304389 | [304389-puss-in-woods.json](./304389-puss-in-woods.json) |
+| Puss The Way Id Did | 329990 | [329990-puss-the-way-id-did.json](./329990-puss-the-way-id-did.json) |
 | Puss! | 81128 | [81128-puss.json](./81128-puss.json) |
 | Pussies Wrestling Dicks | 211928 | [211928-pussies-wrestling-dicks.json](./211928-pussies-wrestling-dicks.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
