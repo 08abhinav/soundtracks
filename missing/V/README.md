@@ -1852,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virginia | 21599 | [21599-virginia.json](./21599-virginia.json) |
 | Virgo and the Sparklings Game | 249662 | [249662-virgo-and-the-sparklings-game.json](./249662-virgo-and-the-sparklings-game.json) |
 | Virgo Versus the Zodiac | 28772 | [28772-virgo-versus-the-zodiac.json](./28772-virgo-versus-the-zodiac.json) |
+| Virgo Versus the Zodiac: Collector's Edition | 323575 | [323575-virgo-versus-the-zodiac-collectors-edition.json](./323575-virgo-versus-the-zodiac-collectors-edition.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
 | Viridi | 35099 | [35099-viridi.json](./35099-viridi.json) |
