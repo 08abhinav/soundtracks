@@ -184,6 +184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dadish 3D | 294865 | [294865-dadish-3d.json](./294865-dadish-3d.json) |
 | Dadlympics | 265146 | [265146-dadlympics.json](./265146-dadlympics.json) |
 | Dadoo: Twists, Turns, and Mischiefs | 264807 | [264807-dadoo-twists-turns-and-mischiefs.json](./264807-dadoo-twists-turns-and-mischiefs.json) |
+| Dadton Aguinández | 320621 | [320621-dadton-aguinandez.json](./320621-dadton-aguinandez.json) |
 | Dadum The Dice | 386833 | [386833-dadum-the-dice.json](./386833-dadum-the-dice.json) |
 | Daedalian Opus | 48951 | [48951-daedalian-opus.json](./48951-daedalian-opus.json) |
 | Daedalic Complex | 111465 | [111465-daedalic-complex.json](./111465-daedalic-complex.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper | 16204 | [16204-delve-deeper.json](./16204-delve-deeper.json) |
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
+| Delve Diver | 320606 | [320606-delve-diver.json](./320606-delve-diver.json) |
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
@@ -4833,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deosurge | 183080 | [183080-deosurge.json](./183080-deosurge.json) |
 | Dep Brothers! | 133729 | [133729-dep-brothers.json](./133729-dep-brothers.json) |
 | Dépanneur Nocturne | 134162 | [134162-depanneur-nocturne.json](./134162-depanneur-nocturne.json) |
+| Departed | 320594 | [320594-departed.json](./320594-departed.json) |
 | Departed Away | 265112 | [265112-departed-away.json](./265112-departed-away.json) |
 | Department 14 | 271656 | [271656-department-14.json](./271656-department-14.json) |
 | Department 42: The Mystery of the Nine | 50464 | [50464-department-42-the-mystery-of-the-nine.json](./50464-department-42-the-mystery-of-the-nine.json) |
@@ -12536,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duckers | 232582 | [232582-duckers.json](./232582-duckers.json) |
 | Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| DuckLaserDuck | 320584 | [320584-ducklaserduck.json](./320584-ducklaserduck.json) |
 | Duckles: the Jigsaw Witch | 31733 | [31733-duckles-the-jigsaw-witch.json](./31733-duckles-the-jigsaw-witch.json) |
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
 | Ducklings IO | 150020 | [150020-ducklings-io.json](./150020-ducklings-io.json) |
@@ -12979,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Fellowship | 187776 | [187776-dungeon-fellowship.json](./187776-dungeon-fellowship.json) |
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Fighter Online | 26606 | [26606-dungeon-fighter-online.json](./26606-dungeon-fighter-online.json) |
+| Dungeon Flowy | 320612 | [320612-dungeon-flowy.json](./320612-dungeon-flowy.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
 | Dungeon Full Dive: True Supporter Dice | 305780 | [305780-dungeon-full-dive-true-supporter-dice.json](./305780-dungeon-full-dive-true-supporter-dice.json) |
