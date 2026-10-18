@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
+| Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
 | Wallslide | 32802 | [32802-wallslide.json](./32802-wallslide.json) |
 | WallSmashers | 334168 | [334168-wallsmashers.json](./334168-wallsmashers.json) |
 | WallWar | 287200 | [287200-wallwar.json](./287200-wallwar.json) |
