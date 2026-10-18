@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: The Shredder Reborn | 78280 | [78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json](./78280-teenage-mutant-ninja-turtles-the-shredder-reborn.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134079 | [134079-teenage-mutant-ninja-turtles-tournament-fighters.json](./134079-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 134080 | [134080-teenage-mutant-ninja-turtles-tournament-fighters.json](./134080-teenage-mutant-ninja-turtles-tournament-fighters.json) |
+| Teenage Mutant Ninja Turtles: Tournament Fighters | 354768 | [354768-teenage-mutant-ninja-turtles-tournament-fighters.json](./354768-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Tournament Fighters | 48274 | [48274-teenage-mutant-ninja-turtles-tournament-fighters.json](./48274-teenage-mutant-ninja-turtles-tournament-fighters.json) |
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
@@ -11190,6 +11191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Restricted Index | 398539 | [398539-the-restricted-index.json](./398539-the-restricted-index.json) |
 | The Resurrected | 366314 | [366314-the-resurrected.json](./366314-the-resurrected.json) |
 | The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
+| The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
@@ -11432,6 +11434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
 | The Sarah Jane Adventures: Alien Alliance | 249264 | [249264-the-sarah-jane-adventures-alien-alliance.json](./249264-the-sarah-jane-adventures-alien-alliance.json) |
 | The Sarah Jane Adventures: Plant and Animal Habitats | 343939 | [343939-the-sarah-jane-adventures-plant-and-animal-habitats.json](./343939-the-sarah-jane-adventures-plant-and-animal-habitats.json) |
+| The Saturnians | 354751 | [354751-the-saturnians.json](./354751-the-saturnians.json) |
 | The Savage Hypnotist's Puppets | 213400 | [213400-the-savage-hypnotists-puppets.json](./213400-the-savage-hypnotists-puppets.json) |
 | The Savana | 128920 | [128920-the-savana.json](./128920-the-savana.json) |
 | The Savior From Above | 192643 | [192643-the-savior-from-above.json](./192643-the-savior-from-above.json) |
@@ -16293,6 +16296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Hero | 416174 | [416174-tile-hero.json](./416174-tile-hero.json) |
 | Tile Jong | 336379 | [336379-tile-jong.json](./336379-tile-jong.json) |
+| Tile Jumper! | 354886 | [354886-tile-jumper.json](./354886-tile-jumper.json) |
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
 | Tile Runner | 174059 | [174059-tile-runner.json](./174059-tile-runner.json) |
