@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Jigsaw Puzzle Games: Expansion Pack 7 | 263214 | [263214-cat-jigsaw-puzzle-games-expansion-pack-7.json](./263214-cat-jigsaw-puzzle-games-expansion-pack-7.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 8 | 262945 | [262945-cat-jigsaw-puzzle-games-expansion-pack-8.json](./262945-cat-jigsaw-puzzle-games-expansion-pack-8.json) |
 | Cat Jigsaw Puzzle Games: Expansion Pack 9 | 241322 | [241322-cat-jigsaw-puzzle-games-expansion-pack-9.json](./241322-cat-jigsaw-puzzle-games-expansion-pack-9.json) |
+| Cat Journey | 309733 | [309733-cat-journey.json](./309733-cat-journey.json) |
 | Cat Jump | 165752 | [165752-cat-jump.json](./165752-cat-jump.json) |
 | Cat Jump | 210317 | [210317-cat-jump.json](./210317-cat-jump.json) |
 | Cat Jumper | 175792 | [175792-cat-jumper.json](./175792-cat-jumper.json) |
@@ -6006,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
 | Chronicles of Witches & Warlocks | 52738 | [52738-chronicles-of-witches-and-warlocks.json](./52738-chronicles-of-witches-and-warlocks.json) |
+| Chronicles of Zimoria | 309747 | [309747-chronicles-of-zimoria.json](./309747-chronicles-of-zimoria.json) |
 | Chronicles Puzzle: History Path | 406554 | [406554-chronicles-puzzle-history-path.json](./406554-chronicles-puzzle-history-path.json) |
 | Chronicles: Medieval | 347635 | [347635-chronicles-medieval.json](./347635-chronicles-medieval.json) |
 | Chronicon | 35130 | [35130-chronicon.json](./35130-chronicon.json) |
@@ -6026,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
+| Chrono Club: Race Against Time | 309726 | [309726-chrono-club-race-against-time.json](./309726-chrono-club-race-against-time.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crimes | 316491 | [316491-chrono-crimes.json](./316491-chrono-crimes.json) |
@@ -8648,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
+| Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
 | Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
 | Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
