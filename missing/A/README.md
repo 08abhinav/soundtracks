@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal | 385571 | [385571-abyssal.json](./385571-abyssal.json) |
 | Abyssal Anarchy | 377958 | [377958-abyssal-anarchy.json](./377958-abyssal-anarchy.json) |
 | Abyssal Apocrypha | 413783 | [413783-abyssal-apocrypha.json](./413783-abyssal-apocrypha.json) |
+| Abyssal Blade | 346459 | [346459-abyssal-blade.json](./346459-abyssal-blade.json) |
 | Abyssal Blood | 287349 | [287349-abyssal-blood.json](./287349-abyssal-blood.json) |
 | Abyssal Drift | 372014 | [372014-abyssal-drift.json](./372014-abyssal-drift.json) |
 | Abyssal Frontier | 283875 | [283875-abyssal-frontier.json](./283875-abyssal-frontier.json) |
@@ -6618,6 +6619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anemoiapolis | 141855 | [141855-anemoiapolis.json](./141855-anemoiapolis.json) |
 | Anemoiapolis: Chapter 1 | 168855 | [168855-anemoiapolis-chapter-1.json](./168855-anemoiapolis-chapter-1.json) |
 | Anemone | 326056 | [326056-anemone.json](./326056-anemone.json) |
+| Anemorie | 346463 | [346463-anemorie.json](./346463-anemorie.json) |
 | Anesthesia | 216468 | [216468-anesthesia.json](./216468-anesthesia.json) |
 | Anesthesia | 385388 | [385388-anesthesia.json](./385388-anesthesia.json) |
 | Anetha | 284279 | [284279-anetha.json](./284279-anetha.json) |
@@ -10334,7 +10336,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
+| Arvis Knock Out! | 346379 | [346379-arvis-knock-out.json](./346379-arvis-knock-out.json) |
 | Arvis Punch | 329015 | [329015-arvis-punch.json](./329015-arvis-punch.json) |
+| Arvis Punch 2 | 346380 | [346380-arvis-punch-2.json](./346380-arvis-punch-2.json) |
 | Arvita | 115802 | [115802-arvita.json](./115802-arvita.json) |
 | ArvusForge | 390724 | [390724-arvusforge.json](./390724-arvusforge.json) |
 | Arwinia | 141074 | [141074-arwinia.json](./141074-arwinia.json) |
