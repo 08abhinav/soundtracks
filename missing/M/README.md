@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Them Walk | 258552 | [258552-make-them-walk.json](./258552-make-them-walk.json) |
 | Make Tracks Great Again | 367551 | [367551-make-tracks-great-again.json](./367551-make-tracks-great-again.json) |
 | Make Trax | 23512 | [23512-make-trax.json](./23512-make-trax.json) |
+| Make Up Human | 329985 | [329985-make-up-human.json](./329985-make-up-human.json) |
 | Make War | 121410 | [121410-make-war.json](./121410-make-war.json) |
 | Make War Not Love 5 | 88234 | [88234-make-war-not-love-5.json](./88234-make-war-not-love-5.json) |
 | Make Way | 258230 | [258230-make-way.json](./258230-make-way.json) |
@@ -2219,6 +2220,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Miner | 10161 | [10161-manic-miner.json](./10161-manic-miner.json) |
 | Manic Miner | 248054 | [248054-manic-miner.json](./248054-manic-miner.json) |
 | Manic Miner Engine | 256206 | [256206-manic-miner-engine.json](./256206-manic-miner-engine.json) |
+| Manic Miner: Neighbours - Allana Truman | 329994 | [329994-manic-miner-neighbours-allana-truman.json](./329994-manic-miner-neighbours-allana-truman.json) |
+| Manic Miner: Super Pre-School Edition | 329992 | [329992-manic-miner-super-pre-school-edition.json](./329992-manic-miner-super-pre-school-edition.json) |
 | Manic Miners | 31839 | [31839-manic-miners.json](./31839-manic-miners.json) |
 | Manic Monkey Mayhem | 68233 | [68233-manic-monkey-mayhem.json](./68233-manic-monkey-mayhem.json) |
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
@@ -13708,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
 | Mukogawa | 344319 | [344319-mukogawa.json](./344319-mukogawa.json) |
 | Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
+| Mukou no Yume | 329905 | [329905-mukou-no-yume.json](./329905-mukou-no-yume.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
