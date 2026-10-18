@@ -6383,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Police Emblem: The Visual Novel | 308518 | [308518-hollow-police-emblem-the-visual-novel.json](./308518-hollow-police-emblem-the-visual-novel.json) |
 | Hollow Seeker | 229009 | [229009-hollow-seeker.json](./229009-hollow-seeker.json) |
 | Hollow Sorrow | 355179 | [355179-hollow-sorrow.json](./355179-hollow-sorrow.json) |
+| Hollow Space | 323005 | [323005-hollow-space.json](./323005-hollow-space.json) |
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
 | Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
@@ -7694,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
+| Hotel 188 | 323008 | [323008-hotel-188.json](./323008-hotel-188.json) |
 | Hotel 19-95 | 37004 | [37004-hotel-19-95.json](./37004-hotel-19-95.json) |
 | Hotel 626 | 62712 | [62712-hotel-626.json](./62712-hotel-626.json) |
 | Hotel 77 | 303683 | [303683-hotel-77.json](./303683-hotel-77.json) |
