@@ -817,7 +817,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from Heaven | 69570 | [69570-tales-from-heaven.json](./69570-tales-from-heaven.json) |
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
-| Tales from Space: Mutant Blobs Attack | 5893 | [5893-tales-from-space-mutant-blobs-attack.json](./5893-tales-from-space-mutant-blobs-attack.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
