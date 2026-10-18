@@ -4206,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
+| Restaurant Tycoon: My Cooking Empire | 325893 | [325893-restaurant-tycoon-my-cooking-empire.json](./325893-restaurant-tycoon-my-cooking-empire.json) |
 | Restaurant Tycoon: My Cooking Empire - Complete Edition | 399826 | [399826-restaurant-tycoon-my-cooking-empire-complete-edition.json](./399826-restaurant-tycoon-my-cooking-empire-complete-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Cozy Corners | 378965 | [378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json](./378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json) |
 | Restaurant Tycoon: My Cooking Empire - Diamond Edition | 396927 | [396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json](./396927-restaurant-tycoon-my-cooking-empire-diamond-edition.json) |
@@ -5956,6 +5957,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals of Aether: Genesis Skin Pack | 382511 | [382511-rivals-of-aether-genesis-skin-pack.json](./382511-rivals-of-aether-genesis-skin-pack.json) |
 | Rivals of Aether: Heat Wave Skin Pack | 382513 | [382513-rivals-of-aether-heat-wave-skin-pack.json](./382513-rivals-of-aether-heat-wave-skin-pack.json) |
 | Rivals of Aether: Legacy Skin Pack | 382508 | [382508-rivals-of-aether-legacy-skin-pack.json](./382508-rivals-of-aether-legacy-skin-pack.json) |
+| Rivals of Aether: Mario Pissing | 325926 | [325926-rivals-of-aether-mario-pissing.json](./325926-rivals-of-aether-mario-pissing.json) |
+| Rivals of Aether: Norm | 325924 | [325924-rivals-of-aether-norm.json](./325924-rivals-of-aether-norm.json) |
 | Rivals of Aether: Pool Party Skin Pack | 382506 | [382506-rivals-of-aether-pool-party-skin-pack.json](./382506-rivals-of-aether-pool-party-skin-pack.json) |
 | Rivals of Aether: Steampunk Skin Pack | 382507 | [382507-rivals-of-aether-steampunk-skin-pack.json](./382507-rivals-of-aether-steampunk-skin-pack.json) |
 | Rivals of Aether: Summit Skin Pack | 382514 | [382514-rivals-of-aether-summit-skin-pack.json](./382514-rivals-of-aether-summit-skin-pack.json) |
