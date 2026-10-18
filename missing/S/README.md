@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Twiks | 291726 | [291726-save-twiks.json](./291726-save-twiks.json) |
 | Save Us | 190931 | [190931-save-us.json](./190931-save-us.json) |
 | Save Us, Doctor Faust! | 416827 | [416827-save-us-doctor-faust.json](./416827-save-us-doctor-faust.json) |
+| Save Your Crabies | 347500 | [347500-save-your-crabies.json](./347500-save-your-crabies.json) |
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
@@ -3391,6 +3392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
 | Section Gamma | 250836 | [250836-section-gamma.json](./250836-section-gamma.json) |
 | Section Six | 149023 | [149023-section-six.json](./149023-section-six.json) |
+| Section Six Requiem | 347562 | [347562-section-six-requiem.json](./347562-section-six-requiem.json) |
 | Section Z | 206629 | [206629-section-z.json](./206629-section-z.json) |
 | Section-Z | 285595 | [285595-section-z.json](./285595-section-z.json) |
 | Section-Z | 9755 | [9755-section-z.json](./9755-section-z.json) |
@@ -12128,6 +12130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Iron | 132756 | [132756-song-of-iron.json](./132756-song-of-iron.json) |
 | Song of Knightroid | 413933 | [413933-song-of-knightroid.json](./413933-song-of-knightroid.json) |
 | Song of Memories | 76655 | [76655-song-of-memories.json](./76655-song-of-memories.json) |
+| Song of Morus: Limbo Express | 347492 | [347492-song-of-morus-limbo-express.json](./347492-song-of-morus-limbo-express.json) |
 | Song of Nanzhao | 360334 | [360334-song-of-nanzhao.json](./360334-song-of-nanzhao.json) |
 | Song of Nunu: A League of Legends Story | 182190 | [182190-song-of-nunu-a-league-of-legends-story.json](./182190-song-of-nunu-a-league-of-legends-story.json) |
 | Song of Pan | 38990 | [38990-song-of-pan.json](./38990-song-of-pan.json) |
@@ -17203,6 +17206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Impact | 117035 | [117035-star-impact.json](./117035-star-impact.json) |
 | Star in the Hollow | 217302 | [217302-star-in-the-hollow.json](./217302-star-in-the-hollow.json) |
 | Star Ixiom | 94357 | [94357-star-ixiom.json](./94357-star-ixiom.json) |
+| Star Jacker | 347569 | [347569-star-jacker.json](./347569-star-jacker.json) |
 | Star Jacker | 6140 | [6140-star-jacker.json](./6140-star-jacker.json) |
 | Star Jammer | 366123 | [366123-star-jammer.json](./366123-star-jammer.json) |
 | Star Jet Alpha | 197055 | [197055-star-jet-alpha.json](./197055-star-jet-alpha.json) |
@@ -18845,6 +18849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Bewitching | 314057 | [314057-stellar-bewitching.json](./314057-stellar-bewitching.json) |
 | Stellar Bewitching Remastered | 265601 | [265601-stellar-bewitching-remastered.json](./265601-stellar-bewitching-remastered.json) |
 | Stellar Blade x Nier: Automata | 317626 | [317626-stellar-blade-x-nier-automata.json](./317626-stellar-blade-x-nier-automata.json) |
+| Stellar Blade: Blood Rain | 347557 | [347557-stellar-blade-blood-rain.json](./347557-stellar-blade-blood-rain.json) |
 | Stellar Blade: Complete Edition | 346749 | [346749-stellar-blade-complete-edition.json](./346749-stellar-blade-complete-edition.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
 | Stellar Blade: Tachyon Pack | 376187 | [376187-stellar-blade-tachyon-pack.json](./376187-stellar-blade-tachyon-pack.json) |
@@ -19315,6 +19320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stinky Snake | 104245 | [104245-stinky-snake.json](./104245-stinky-snake.json) |
 | Stint: Rift Apart | 191168 | [191168-stint-rift-apart.json](./191168-stint-rift-apart.json) |
 | Stíny noci | 397831 | [397831-stiny-noci.json](./397831-stiny-noci.json) |
+| Stip | 347491 | [347491-stip.json](./347491-stip.json) |
 | Stirge Hunters | 389600 | [389600-stirge-hunters.json](./389600-stirge-hunters.json) |
 | Stitch | 229562 | [229562-stitch.json](./229562-stitch.json) |
 | Stitch Head | 388232 | [388232-stitch-head.json](./388232-stitch-head.json) |
@@ -24731,6 +24737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Surf: Endless Run Fun | 196592 | [196592-sushi-surf-endless-run-fun.json](./196592-sushi-surf-endless-run-fun.json) |
 | Sushi Time!: Complete Edition | 199840 | [199840-sushi-time-complete-edition.json](./199840-sushi-time-complete-edition.json) |
 | Sushi Time!: Premium Edition | 241402 | [241402-sushi-time-premium-edition.json](./241402-sushi-time-premium-edition.json) |
+| Sushi vs. Burger Race | 347490 | [347490-sushi-vs-burger-race.json](./347490-sushi-vs-burger-race.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
 | Sushi'd | 56268 | [56268-sushid.json](./56268-sushid.json) |
