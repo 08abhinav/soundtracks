@@ -5720,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amare Magia | 401186 | [401186-amare-magia.json](./401186-amare-magia.json) |
 | Amarela | 323423 | [323423-amarela.json](./323423-amarela.json) |
 | Amarillo's Butt Slapper | 319679 | [319679-amarillos-butt-slapper.json](./319679-amarillos-butt-slapper.json) |
+| Amaroo's Christmas Shop Simulator | 326482 | [326482-amaroos-christmas-shop-simulator.json](./326482-amaroos-christmas-shop-simulator.json) |
 | Amaryllis | 347498 | [347498-amaryllis.json](./347498-amaryllis.json) |
 | Amatarasu Riddle Star | 122796 | [122796-amatarasu-riddle-star.json](./122796-amatarasu-riddle-star.json) |
 | Amateur League Golf | 202188 | [202188-amateur-league-golf.json](./202188-amateur-league-golf.json) |
@@ -5988,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Dream | 137017 | [137017-american-dream.json](./137017-american-dream.json) |
 | American Dream | 48634 | [48634-american-dream.json](./48634-american-dream.json) |
 | American Election | 135610 | [135610-american-election.json](./135610-american-election.json) |
+| American Election Simulator | 326481 | [326481-american-election-simulator.json](./326481-american-election-simulator.json) |
 | American Eristics | 255697 | [255697-american-eristics.json](./255697-american-eristics.json) |
 | American Farm Tractor Race Pro | 104537 | [104537-american-farm-tractor-race-pro.json](./104537-american-farm-tractor-race-pro.json) |
 | American FKN Election | 329103 | [329103-american-fkn-election.json](./329103-american-fkn-election.json) |
