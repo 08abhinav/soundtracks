@@ -707,6 +707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 6 | 265537 | [265537-laruaville-6.json](./265537-laruaville-6.json) |
 | Laruaville 8 | 270079 | [270079-laruaville-8.json](./270079-laruaville-8.json) |
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
+| Larut | 318824 | [318824-larut.json](./318824-larut.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
 | Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
@@ -5435,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
 | Loopover | 311987 | [311987-loopover.json](./311987-loopover.json) |
+| Looppip | 318846 | [318846-looppip.json](./318846-looppip.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
 | Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
