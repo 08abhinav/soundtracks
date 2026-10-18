@@ -2556,6 +2556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
+| Let Catch Me | 343686 | [343686-let-catch-me.json](./343686-let-catch-me.json) |
 | Let Hawaii Happen VR | 31151 | [31151-let-hawaii-happen-vr.json](./31151-let-hawaii-happen-vr.json) |
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
@@ -5809,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost In Purple | 54338 | [54338-lost-in-purple.json](./54338-lost-in-purple.json) |
 | Lost in Random | 119285 | [119285-lost-in-random.json](./119285-lost-in-random.json) |
 | Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
+| Lost in Random: The Eternal Die - Fortune Edition | 343683 | [343683-lost-in-random-the-eternal-die-fortune-edition.json](./343683-lost-in-random-the-eternal-die-fortune-edition.json) |
 | Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
@@ -6900,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
+| Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
