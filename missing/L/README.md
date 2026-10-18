@@ -5261,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longevity Yin and Yang | 375865 | [375865-longevity-yin-and-yang.json](./375865-longevity-yin-and-yang.json) |
 | Longeyed Proj. | 223429 | [223429-longeyed-proj.json](./223429-longeyed-proj.json) |
 | Longhaus | 178523 | [178523-longhaus.json](./178523-longhaus.json) |
+| Longjuice Squeeze | 325328 | [325328-longjuice-squeeze.json](./325328-longjuice-squeeze.json) |
 | Longleaf Valley | 248097 | [248097-longleaf-valley.json](./248097-longleaf-valley.json) |
 | Longmen | 352317 | [352317-longmen.json](./352317-longmen.json) |
 | Lóngmíng Punk | 154411 | [154411-longming-punk.json](./154411-longming-punk.json) |
@@ -6262,6 +6263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love in the Glen | 33083 | [33083-love-in-the-glen.json](./33083-love-in-the-glen.json) |
 | Love in the Limelight | 119589 | [119589-love-in-the-limelight.json](./119589-love-in-the-limelight.json) |
 | Love in the Time of Spellphage | 364524 | [364524-love-in-the-time-of-spellphage.json](./364524-love-in-the-time-of-spellphage.json) |
+| Love In Tiny Spaces | 325341 | [325341-love-in-tiny-spaces.json](./325341-love-in-tiny-spaces.json) |
 | Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
