@@ -6115,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flurry Words | 233100 | [233100-flurry-words.json](./233100-flurry-words.json) |
 | FlurryHurry! | 323522 | [323522-flurryhurry.json](./323522-flurryhurry.json) |
 | Flush It! | 235251 | [235251-flush-it.json](./235251-flush-it.json) |
+| Flushed | 340812 | [340812-flushed.json](./340812-flushed.json) |
 | Flushed Away | 243193 | [243193-flushed-away.json](./243193-flushed-away.json) |
 | Flushed Away | 243194 | [243194-flushed-away.json](./243194-flushed-away.json) |
 | Flushed Regrets | 257089 | [257089-flushed-regrets.json](./257089-flushed-regrets.json) |
@@ -7106,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgot | 380800 | [380800-forgot.json](./380800-forgot.json) |
+| Forgot to Poo | 340792 | [340792-forgot-to-poo.json](./340792-forgot-to-poo.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 13 | 282838 | [282838-forgotten-13.json](./282838-forgotten-13.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
@@ -9716,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny words | 103911 | [103911-funny-words.json](./103911-funny-words.json) |
 | Funny Yo | 96901 | [96901-funny-yo.json](./96901-funny-yo.json) |
 | FunnyJoy: Brain on Line | 95999 | [95999-funnyjoy-brain-on-line.json](./95999-funnyjoy-brain-on-line.json) |
+| Funocracy | 340725 | [340725-funocracy.json](./340725-funocracy.json) |
 | Funorbit | 415857 | [415857-funorbit.json](./415857-funorbit.json) |
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | FunPark Beach Blast | 294391 | [294391-funpark-beach-blast.json](./294391-funpark-beach-blast.json) |
