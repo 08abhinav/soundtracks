@@ -9526,6 +9526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: War of Three Peaks | 275925 | [275925-the-lord-of-the-rings-online-war-of-three-peaks.json](./275925-the-lord-of-the-rings-online-war-of-three-peaks.json) |
 | The Lord of the Rings: Adventure Card Game | 77176 | [77176-the-lord-of-the-rings-adventure-card-game.json](./77176-the-lord-of-the-rings-adventure-card-game.json) |
 | The Lord of the Rings: Adventure Card Game - Definitive Edition | 147962 | [147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json](./147962-the-lord-of-the-rings-adventure-card-game-definitive-edition.json) |
+| The Lord of the Rings: Aragorn's Quest | 339594 | [339594-the-lord-of-the-rings-aragorns-quest.json](./339594-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Aragorn's Quest | 4978 | [4978-the-lord-of-the-rings-aragorns-quest.json](./4978-the-lord-of-the-rings-aragorns-quest.json) |
 | The Lord of the Rings: Conquest | 7056 | [7056-the-lord-of-the-rings-conquest.json](./7056-the-lord-of-the-rings-conquest.json) |
 | The Lord of the Rings: Gollum | 116584 | [116584-the-lord-of-the-rings-gollum.json](./116584-the-lord-of-the-rings-gollum.json) |
@@ -14439,6 +14440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinking Of U: A Love Story | 299554 | [299554-thinking-of-u-a-love-story.json](./299554-thinking-of-u-a-love-story.json) |
 | Thinking of You Beyond Time | 328085 | [328085-thinking-of-you-beyond-time.json](./328085-thinking-of-you-beyond-time.json) |
+| Thinking With Boxes | 339687 | [339687-thinking-with-boxes.json](./339687-thinking-with-boxes.json) |
 | Thinkrolls Kings & Queens | 101651 | [101651-thinkrolls-kings-and-queens.json](./101651-thinkrolls-kings-and-queens.json) |
 | Thinkrolls Space | 119571 | [119571-thinkrolls-space.json](./119571-thinkrolls-space.json) |
 | ThinkSmart: Family! | 268428 | [268428-thinksmart-family.json](./268428-thinksmart-family.json) |
