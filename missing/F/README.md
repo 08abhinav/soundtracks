@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
+| Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
