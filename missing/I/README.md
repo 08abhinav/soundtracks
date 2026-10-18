@@ -1636,6 +1636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ima Sugu Onii-chan ni Imouto da tte Iitai! | 62444 | [62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json](./62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json) |
 | Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
+| Imada ni Yokuaru Dasshutsu Game | 320005 | [320005-imada-ni-yokuaru-dasshutsu-game.json](./320005-imada-ni-yokuaru-dasshutsu-game.json) |
 | Imadoki no Vampire: Bloody Bride | 43778 | [43778-imadoki-no-vampire-bloody-bride.json](./43778-imadoki-no-vampire-bloody-bride.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
 | Image Fight II: Operation Deepstriker | 37623 | [37623-image-fight-ii-operation-deepstriker.json](./37623-image-fight-ii-operation-deepstriker.json) |
