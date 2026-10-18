@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scarecropia | 279258 | [279258-scarecropia.json](./279258-scarecropia.json) |
 | Scarecrow | 176841 | [176841-scarecrow.json](./176841-scarecrow.json) |
+| Scarecrow Tactics | 333346 | [333346-scarecrow-tactics.json](./333346-scarecrow-tactics.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
 | Scarecrows of Illyria | 211758 | [211758-scarecrows-of-illyria.json](./211758-scarecrows-of-illyria.json) |
@@ -4337,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
 | Settlemoon | 253593 | [253593-settlemoon.json](./253593-settlemoon.json) |
+| Settler's Domain | 333411 | [333411-settlers-domain.json](./333411-settlers-domain.json) |
 | Settlers of Catan | 320966 | [320966-settlers-of-catan.json](./320966-settlers-of-catan.json) |
 | Settlers of the Deep | 121607 | [121607-settlers-of-the-deep.json](./121607-settlers-of-the-deep.json) |
 | Settris | 252269 | [252269-settris.json](./252269-settris.json) |
@@ -5860,6 +5862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shifted | 273289 | [273289-shifted.json](./273289-shifted.json) |
 | Shifted Heart | 235987 | [235987-shifted-heart.json](./235987-shifted-heart.json) |
 | Shifted VR | 137439 | [137439-shifted-vr.json](./137439-shifted-vr.json) |
+| Shifter | 333452 | [333452-shifter.json](./333452-shifter.json) |
 | Shifters | 43557 | [43557-shifters.json](./43557-shifters.json) |
 | Shifting Dreamscape | 177891 | [177891-shifting-dreamscape.json](./177891-shifting-dreamscape.json) |
 | Shifting Edge | 183278 | [183278-shifting-edge.json](./183278-shifting-edge.json) |
@@ -7544,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
 | Silent Numbers | 390104 | [390104-silent-numbers.json](./390104-silent-numbers.json) |
+| Silent Observer | 333350 | [333350-silent-observer.json](./333350-silent-observer.json) |
 | Silent Operative | 336486 | [336486-silent-operative.json](./336486-silent-operative.json) |
 | Silent Ops | 332433 | [332433-silent-ops.json](./332433-silent-ops.json) |
 | Silent Paradise | 401796 | [401796-silent-paradise.json](./401796-silent-paradise.json) |
@@ -9013,6 +9017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Knights | 26633 | [26633-sky-knights.json](./26633-sky-knights.json) |
 | Sky Labyrinth | 114922 | [114922-sky-labyrinth.json](./114922-sky-labyrinth.json) |
 | Sky Lancer | 23933 | [23933-sky-lancer.json](./23933-sky-lancer.json) |
+| Sky Lanes | 333445 | [333445-sky-lanes.json](./333445-sky-lanes.json) |
 | Sky Legends: An Aeropostal Epic | 361845 | [361845-sky-legends-an-aeropostal-epic.json](./361845-sky-legends-an-aeropostal-epic.json) |
 | Sky Love Boys: Flight Attendant Crush | 370824 | [370824-sky-love-boys-flight-attendant-crush.json](./370824-sky-love-boys-flight-attendant-crush.json) |
 | Sky Love Girls: Flight Attendant Crush | 370797 | [370797-sky-love-girls-flight-attendant-crush.json](./370797-sky-love-girls-flight-attendant-crush.json) |
@@ -9924,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloppy Shopping | 183298 | [183298-sloppy-shopping.json](./183298-sloppy-shopping.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
+| Slot & Dungeons | 333408 | [333408-slot-and-dungeons.json](./333408-slot-and-dungeons.json) |
 | Slot & Learn Country Names in Kanji | 308496 | [308496-slot-and-learn-country-names-in-kanji.json](./308496-slot-and-learn-country-names-in-kanji.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
 | Slot & Learn Hiragana | 312079 | [312079-slot-and-learn-hiragana.json](./312079-slot-and-learn-hiragana.json) |
@@ -11221,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowy Flag | 291444 | [291444-snowy-flag.json](./291444-snowy-flag.json) |
 | Snowy Leaps | 233436 | [233436-snowy-leaps.json](./233436-snowy-leaps.json) |
 | Snowy Love | 151458 | [151458-snowy-love.json](./151458-snowy-love.json) |
+| Snowy Memories | 333424 | [333424-snowy-memories.json](./333424-snowy-memories.json) |
 | Snowy Mountain | 235744 | [235744-snowy-mountain.json](./235744-snowy-mountain.json) |
 | Snowy: Fish Frenzy | 71519 | [71519-snowy-fish-frenzy.json](./71519-snowy-fish-frenzy.json) |
 | Snowy: Lunch Rush | 73289 | [73289-snowy-lunch-rush.json](./73289-snowy-lunch-rush.json) |
@@ -12541,6 +12548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Legacy | 317513 | [317513-sonic-legacy.json](./317513-sonic-legacy.json) |
 | Sonic Legends | 301520 | [301520-sonic-legends.json](./301520-sonic-legends.json) |
 | Sonic Legends | 332594 | [332594-sonic-legends.json](./332594-sonic-legends.json) |
+| Sonic Legends: True Sunset Shore | 333423 | [333423-sonic-legends-true-sunset-shore.json](./333423-sonic-legends-true-sunset-shore.json) |
 | Sonic Liola: Begins | 330704 | [330704-sonic-liola-begins.json](./330704-sonic-liola-begins.json) |
 | Sonic Logic | 237488 | [237488-sonic-logic.json](./237488-sonic-logic.json) |
 | Sonic Lost Adventure | 330302 | [330302-sonic-lost-adventure.json](./330302-sonic-lost-adventure.json) |
@@ -17969,6 +17977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall: Inferno of Worlds | 348113 | [348113-starfall-inferno-of-worlds.json](./348113-starfall-inferno-of-worlds.json) |
 | Starfall: Operation Outro | 298037 | [298037-starfall-operation-outro.json](./298037-starfall-operation-outro.json) |
 | Starfeld | 55953 | [55953-starfeld.json](./55953-starfeld.json) |
+| Starfell | 333430 | [333430-starfell.json](./333430-starfell.json) |
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
 | StarFence: Heroic Edition | 35498 | [35498-starfence-heroic-edition.json](./35498-starfence-heroic-edition.json) |
 | Starfend | 268962 | [268962-starfend.json](./268962-starfend.json) |
@@ -26028,6 +26037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthwave Hop | 172198 | [172198-synthwave-hop.json](./172198-synthwave-hop.json) |
 | Synthwave Racers | 197218 | [197218-synthwave-racers.json](./197218-synthwave-racers.json) |
 | Synthwave Runner | 277519 | [277519-synthwave-runner.json](./277519-synthwave-runner.json) |
+| Synthwave Tunnel | 333427 | [333427-synthwave-tunnel.json](./333427-synthwave-tunnel.json) |
 | Synzzball | 123499 | [123499-synzzball.json](./123499-synzzball.json) |
 | Syobon Action 2 HD | 365136 | [365136-syobon-action-2-hd.json](./365136-syobon-action-2-hd.json) |
 | Syobon Action HD | 365135 | [365135-syobon-action-hd.json](./365135-syobon-action-hd.json) |
