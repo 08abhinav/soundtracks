@@ -3474,6 +3474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
+| Beach Volleyball | 359223 | [359223-beach-volleyball.json](./359223-beach-volleyball.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
 | Beach Volleyball Girl Shizuku | 288134 | [288134-beach-volleyball-girl-shizuku.json](./288134-beach-volleyball-girl-shizuku.json) |
@@ -8838,6 +8839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 3 | 191114 | [191114-bomb-it-3.json](./191114-bomb-it-3.json) |
 | Bomb It 4 | 191115 | [191115-bomb-it-4.json](./191115-bomb-it-4.json) |
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
+| Bomb It 6 | 359198 | [359198-bomb-it-6.json](./359198-bomb-it-6.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
 | Bomb Jack | 416566 | [416566-bomb-jack.json](./416566-bomb-jack.json) |
 | Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
@@ -11163,6 +11165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Bris de Glace | 171987 | [171987-bris-de-glace.json](./171987-bris-de-glace.json) |
+| Brisca | 359211 | [359211-brisca.json](./359211-brisca.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
 | Brisk | 327267 | [327267-brisk.json](./327267-brisk.json) |
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
