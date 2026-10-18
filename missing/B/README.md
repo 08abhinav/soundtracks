@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
 | Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
+| Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
@@ -7657,6 +7658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky.Go! | 234665 | [234665-blocky-go.json](./234665-blocky-go.json) |
 | Blockz VS Ballz | 111013 | [111013-blockz-vs-ballz.json](./111013-blockz-vs-ballz.json) |
 | Bloclash | 389045 | [389045-bloclash.json](./389045-bloclash.json) |
+| Blocos Mágicos | 359754 | [359754-blocos-magicos.json](./359754-blocos-magicos.json) |
 | Blocus | 313263 | [313263-blocus.json](./313263-blocus.json) |
 | Blodia Land | 48542 | [48542-blodia-land.json](./48542-blodia-land.json) |
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
@@ -10692,6 +10694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
 | Break the Food Chain | 50746 | [50746-break-the-food-chain.json](./50746-break-the-food-chain.json) |
 | Break the Game | 74983 | [74983-break-the-game.json](./74983-break-the-game.json) |
+| Break the Ice | 359739 | [359739-break-the-ice.json](./359739-break-the-ice.json) |
 | Break the Ice Sushi Pack | 77610 | [77610-break-the-ice-sushi-pack.json](./77610-break-the-ice-sushi-pack.json) |
 | Break The Line | 296500 | [296500-break-the-line.json](./296500-break-the-line.json) |
 | Break The Night | 417529 | [417529-break-the-night.json](./417529-break-the-night.json) |
