@@ -2259,6 +2259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
+| Head to Hell | 311875 | [311875-head-to-hell.json](./311875-head-to-hell.json) |
 | Head Trauma | 278083 | [278083-head-trauma.json](./278083-head-trauma.json) |
 | Head Worms | 149896 | [149896-head-worms.json](./149896-head-worms.json) |
 | Head-On Soccer | 19758 | [19758-head-on-soccer.json](./19758-head-on-soccer.json) |
@@ -5331,6 +5332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
+| HiddenSet | 311872 | [311872-hiddenset.json](./311872-hiddenset.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
 | Hiddenverse: Divided Kingdom | 223140 | [223140-hiddenverse-divided-kingdom.json](./223140-hiddenverse-divided-kingdom.json) |
 | Hiddenverse: Ominous Opus | 156677 | [156677-hiddenverse-ominous-opus.json](./156677-hiddenverse-ominous-opus.json) |
@@ -6568,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
+| HolyZone | 311884 | [311884-holyzone.json](./311884-holyzone.json) |
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
 | Home | 10142 | [10142-home.json](./10142-home.json) |
