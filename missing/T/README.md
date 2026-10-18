@@ -22107,6 +22107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Raiders: Zombie Crisis | 82152 | [82152-treasure-raiders-zombie-crisis.json](./82152-treasure-raiders-zombie-crisis.json) |
 | Treasure Rangers | 153445 | [153445-treasure-rangers.json](./153445-treasure-rangers.json) |
 | Treasure Report: Kikai Jikake no Isan | 124109 | [124109-treasure-report-kikai-jikake-no-isan.json](./124109-treasure-report-kikai-jikake-no-isan.json) |
+| Treasure Royale | 309754 | [309754-treasure-royale.json](./309754-treasure-royale.json) |
 | Treasure Rush Cave Climb | 382520 | [382520-treasure-rush-cave-climb.json](./382520-treasure-rush-cave-climb.json) |
 | Treasure Rush: Phantom Infiltration | 386293 | [386293-treasure-rush-phantom-infiltration.json](./386293-treasure-rush-phantom-infiltration.json) |
 | Treasure Seas Incorporated | 271390 | [271390-treasure-seas-incorporated.json](./271390-treasure-seas-incorporated.json) |
@@ -22922,6 +22923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
+| Trouble Makers | 309757 | [309757-trouble-makers.json](./309757-trouble-makers.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
 | Trouble Score | 97720 | [97720-trouble-score.json](./97720-trouble-score.json) |
