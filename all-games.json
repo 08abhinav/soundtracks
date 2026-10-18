@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:06:27.440Z",
-  "total_soundtracks": 2199,
+  "generated_at": "2026-10-18T17:06:34.551Z",
+  "total_soundtracks": 2200,
   "games": [
     {
       "igdb_id": 7522,
@@ -20647,6 +20647,20 @@
         {
           "album_name": "Star Renegades (Selected Tracks from the Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4LsDzQXE1b5Kf15rFglnG9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 252787,
+      "game_name": "Star Trucker",
+      "game_url": "https://ostdb.net/games/star-trucker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3f52db150a0c915a64c6661",
+      "albums": [
+        {
+          "album_name": "Star Trucker (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5pr4S1xyF0GkuqO4Qi8SX2",
           "apple_music_url": "",
           "album_link_url": ""
         }
