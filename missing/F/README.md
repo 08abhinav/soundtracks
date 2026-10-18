@@ -4020,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Beer | 409198 | [409198-find-the-beer.json](./409198-find-the-beer.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
+| Find the Cat | 321200 | [321200-find-the-cat.json](./321200-find-the-cat.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
 | Find the Cats: Japan Journey | 364077 | [364077-find-the-cats-japan-journey.json](./364077-find-the-cats-japan-journey.json) |
 | Find the Cats: Memory | 195593 | [195593-find-the-cats-memory.json](./195593-find-the-cats-memory.json) |
@@ -5246,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flag to Flag | 6721 | [6721-flag-to-flag.json](./6721-flag-to-flag.json) |
 | Flag Trivia Quiz: Four Choices! | 378803 | [378803-flag-trivia-quiz-four-choices.json](./378803-flag-trivia-quiz-four-choices.json) |
 | Flag-O-Tron | 366624 | [366624-flag-o-tron.json](./366624-flag-o-tron.json) |
+| Flagaroo | 321201 | [321201-flagaroo.json](./321201-flagaroo.json) |
 | Flagdashers | 289871 | [289871-flagdashers.json](./289871-flagdashers.json) |
 | Flagdle | 280456 | [280456-flagdle.json](./280456-flagdle.json) |
 | Flagdoku | 333550 | [333550-flagdoku.json](./333550-flagdoku.json) |
