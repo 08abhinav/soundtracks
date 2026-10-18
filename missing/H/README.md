@@ -6541,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Ghost Story | 229808 | [229808-holy-ghost-story.json](./229808-holy-ghost-story.json) |
 | Holy Grail for Dummies | 400327 | [400327-holy-grail-for-dummies.json](./400327-holy-grail-for-dummies.json) |
 | Holy Grain | 305778 | [305778-holy-grain.json](./305778-holy-grain.json) |
+| Holy Heroes | 309758 | [309758-holy-heroes.json](./309758-holy-heroes.json) |
 | Holy Horror Mansion | 317593 | [317593-holy-horror-mansion.json](./317593-holy-horror-mansion.json) |
 | Holy Intentions | 369081 | [369081-holy-intentions.json](./369081-holy-intentions.json) |
 | Holy Journey of Salvation | 249801 | [249801-holy-journey-of-salvation.json](./249801-holy-journey-of-salvation.json) |
