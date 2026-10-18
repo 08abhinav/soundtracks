@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Jump | 118237 | [118237-death-jump.json](./118237-death-jump.json) |
 | Death Jump | 383785 | [383785-death-jump.json](./383785-death-jump.json) |
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
+| Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
@@ -8397,6 +8398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doko Demo Issho: Toro's Story App | 246073 | [246073-doko-demo-issho-toros-story-app.json](./246073-doko-demo-issho-toros-story-app.json) |
 | Doko Demo Issyo | 72565 | [72565-doko-demo-issyo.json](./72565-doko-demo-issyo.json) |
 | Doko Demo Raku Raku! DS Kakeibo | 269573 | [269573-doko-demo-raku-raku-ds-kakeibo.json](./269573-doko-demo-raku-raku-ds-kakeibo.json) |
+| Doko Doko Land | 358732 | [358732-doko-doko-land.json](./358732-doko-doko-land.json) |
 | Doko he Iku no, Ano Hi | 408770 | [408770-doko-he-iku-no-ano-hi.json](./408770-doko-he-iku-no-ano-hi.json) |
 | Doko ni Iru? Hijouguchi no Pict-san | 251514 | [251514-doko-ni-iru-hijouguchi-no-pict-san.json](./251514-doko-ni-iru-hijouguchi-no-pict-san.json) |
 | Doko no Donata no Kanjou Root | 415854 | [415854-doko-no-donata-no-kanjou-root.json](./415854-doko-no-donata-no-kanjou-root.json) |
