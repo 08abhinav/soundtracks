@@ -9294,7 +9294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slappy Board | 216886 | [216886-slappy-board.json](./216886-slappy-board.json) |
 | Slapshot | 120904 | [120904-slapshot.json](./120904-slapshot.json) |
 | Slapshot Ice Hockey | 245409 | [245409-slapshot-ice-hockey.json](./245409-slapshot-ice-hockey.json) |
-| Slapshot: Rebound | 132909 | [132909-slapshot-rebound.json](./132909-slapshot-rebound.json) |
 | Slapstick Bosses | 349861 | [349861-slapstick-bosses.json](./349861-slapstick-bosses.json) |
 | Slapstick Fighter | 266257 | [266257-slapstick-fighter.json](./266257-slapstick-fighter.json) |
 | SlapTrax | 399885 | [399885-slaptrax.json](./399885-slaptrax.json) |
