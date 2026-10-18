@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlic | 341091 | [341091-battlic.json](./341091-battlic.json) |
 | Battlot | 404418 | [404418-battlot.json](./404418-battlot.json) |
 | Battojutsu | 147766 | [147766-battojutsu.json](./147766-battojutsu.json) |
+| Battow: Mages And Monsters | 327027 | [327027-battow-mages-and-monsters.json](./327027-battow-mages-and-monsters.json) |
 | Batty Builders | 293716 | [293716-batty-builders.json](./293716-batty-builders.json) |
 | Batty Shadowless Adventures | 374065 | [374065-batty-shadowless-adventures.json](./374065-batty-shadowless-adventures.json) |
 | Batty Zabella | 229244 | [229244-batty-zabella.json](./229244-batty-zabella.json) |
@@ -5655,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
 | Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
 | Biletide | 415455 | [415455-biletide.json](./415455-biletide.json) |
+| Bilge Junction | 327031 | [327031-bilge-junction.json](./327031-bilge-junction.json) |
 | Bilge Rat's Bounty | 180758 | [180758-bilge-rats-bounty.json](./180758-bilge-rats-bounty.json) |
 | Bilge Su Bullet Baroness | 364509 | [364509-bilge-su-bullet-baroness.json](./364509-bilge-su-bullet-baroness.json) |
 | Bililitz | 390794 | [390794-bililitz.json](./390794-bililitz.json) |
@@ -10915,6 +10917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakdown | 5756 | [5756-breakdown.json](./5756-breakdown.json) |
 | Breaker | 134344 | [134344-breaker.json](./134344-breaker.json) |
 | Breaker | 175825 | [175825-breaker.json](./175825-breaker.json) |
+| Breaker Initiating | 327033 | [327033-breaker-initiating.json](./327033-breaker-initiating.json) |
 | Breaker of Fatalism | 348739 | [348739-breaker-of-fatalism.json](./348739-breaker-of-fatalism.json) |
 | Breaker's World | 199131 | [199131-breakers-world.json](./199131-breakers-world.json) |
 | Breakers | 28707 | [28707-breakers.json](./28707-breakers.json) |
