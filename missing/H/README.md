@@ -5484,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highscore | 238592 | [238592-highscore.json](./238592-highscore.json) |
 | HighScore Anomaly Shop | 292442 | [292442-highscore-anomaly-shop.json](./292442-highscore-anomaly-shop.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
+| HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
 | Hightide | 215347 | [215347-hightide.json](./215347-hightide.json) |
 | Highway | 247016 | [247016-highway.json](./247016-highway.json) |
 | Highway | 267410 | [267410-highway.json](./267410-highway.json) |
@@ -7318,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing | 284951 | [284951-horse-racing.json](./284951-horse-racing.json) |
 | Horse Racing | 47279 | [47279-horse-racing.json](./47279-horse-racing.json) |
 | Horse Racing 3D 2015 | 88452 | [88452-horse-racing-3d-2015.json](./88452-horse-racing-3d-2015.json) |
+| Horse Racing Creating Derby | 341837 | [341837-horse-racing-creating-derby.json](./341837-horse-racing-creating-derby.json) |
 | Horse Racing Manager | 27539 | [27539-horse-racing-manager.json](./27539-horse-racing-manager.json) |
 | Horse Racing Manager | 288809 | [288809-horse-racing-manager.json](./288809-horse-racing-manager.json) |
 | Horse Racing Manager 2 | 67994 | [67994-horse-racing-manager-2.json](./67994-horse-racing-manager-2.json) |
@@ -8403,6 +8405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humbug Tales: Keeper of the Swarm | 263974 | [263974-humbug-tales-keeper-of-the-swarm.json](./263974-humbug-tales-keeper-of-the-swarm.json) |
 | Hume Index | 276218 | [276218-hume-index.json](./276218-hume-index.json) |
 | Humerous | 282795 | [282795-humerous.json](./282795-humerous.json) |
+| Humilau Resort: A Pokémon Escape Room | 341924 | [341924-humilau-resort-a-pokemon-escape-room.json](./341924-humilau-resort-a-pokemon-escape-room.json) |
 | Hummer | 92631 | [92631-hummer.json](./92631-hummer.json) |
 | Hummer Offroad Challenge | 23559 | [23559-hummer-offroad-challenge.json](./23559-hummer-offroad-challenge.json) |
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
