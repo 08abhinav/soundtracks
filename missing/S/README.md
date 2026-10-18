@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrash | 103395 | [103395-scrash.json](./103395-scrash.json) |
 | Scratch Game - Halloween Night | 89750 | [89750-scratch-game-halloween-night.json](./89750-scratch-game-halloween-night.json) |
 | Scratch Golf | 46542 | [46542-scratch-golf.json](./46542-scratch-golf.json) |
+| Scratch Inc. | 350867 | [350867-scratch-inc.json](./350867-scratch-inc.json) |
 | Scratch the Ticket | 404220 | [404220-scratch-the-ticket.json](./404220-scratch-the-ticket.json) |
 | Scratch Wars | 139365 | [139365-scratch-wars.json](./139365-scratch-wars.json) |
 | Scratchers | 352885 | [352885-scratchers.json](./352885-scratchers.json) |
@@ -3264,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Mysteries in New York | 84899 | [84899-secret-mysteries-in-new-york.json](./84899-secret-mysteries-in-new-york.json) |
 | Secret Mystery: Door of Stealth | 103910 | [103910-secret-mystery-door-of-stealth.json](./103910-secret-mystery-door-of-stealth.json) |
 | Secret Neighbor | 103295 | [103295-secret-neighbor.json](./103295-secret-neighbor.json) |
+| Secret Neighbor + Hello Engineer The Neighborhood Bundle | 350796 | [350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json](./350796-secret-neighbor-hello-engineer-the-neighborhood-bundle.json) |
 | Secret Neighbor: Welcome Pack | 305854 | [305854-secret-neighbor-welcome-pack.json](./305854-secret-neighbor-welcome-pack.json) |
 | Secret Odyssey: Orb of Eternity | 291680 | [291680-secret-odyssey-orb-of-eternity.json](./291680-secret-odyssey-orb-of-eternity.json) |
 | Secret of Dawnstone | 421825 | [421825-secret-of-dawnstone.json](./421825-secret-of-dawnstone.json) |
@@ -15991,6 +15993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Reef Rumble | 230891 | [230891-spongebob-squarepants-reef-rumble.json](./230891-spongebob-squarepants-reef-rumble.json) |
 | SpongeBob SquarePants: Revenge of the Flying Dutchman | 2762 | [2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json](./2762-spongebob-squarepants-revenge-of-the-flying-dutchman.json) |
 | Spongebob Squarepants: Shrink n' Sink Golf | 394537 | [394537-spongebob-squarepants-shrink-n-sink-golf.json](./394537-spongebob-squarepants-shrink-n-sink-golf.json) |
+| SpongeBob SquarePants: Spatula Collector | 350775 | [350775-spongebob-squarepants-spatula-collector.json](./350775-spongebob-squarepants-spatula-collector.json) |
 | SpongeBob SquarePants: SuperSponge | 248626 | [248626-spongebob-squarepants-supersponge.json](./248626-spongebob-squarepants-supersponge.json) |
 | SpongeBob SquarePants: The Clam Prix | 230402 | [230402-spongebob-squarepants-the-clam-prix.json](./230402-spongebob-squarepants-the-clam-prix.json) |
 | SpongeBob SquarePants: The Cosmic Shake | 171219 | [171219-spongebob-squarepants-the-cosmic-shake.json](./171219-spongebob-squarepants-the-cosmic-shake.json) |
@@ -18820,6 +18823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Blade: Complete Edition | 346749 | [346749-stellar-blade-complete-edition.json](./346749-stellar-blade-complete-edition.json) |
 | Stellar Blade: Digital Deluxe Edition | 286672 | [286672-stellar-blade-digital-deluxe-edition.json](./286672-stellar-blade-digital-deluxe-edition.json) |
 | Stellar Blade: Tachyon Pack | 376187 | [376187-stellar-blade-tachyon-pack.json](./376187-stellar-blade-tachyon-pack.json) |
+| Stellar Blade: Twin Expansion Pack | 350767 | [350767-stellar-blade-twin-expansion-pack.json](./350767-stellar-blade-twin-expansion-pack.json) |
 | Stellar Breach | 401686 | [401686-stellar-breach.json](./401686-stellar-breach.json) |
 | Stellar Broadcast | 421850 | [421850-stellar-broadcast.json](./421850-stellar-broadcast.json) |
 | Stellar Cafe | 360777 | [360777-stellar-cafe.json](./360777-stellar-cafe.json) |
@@ -19103,6 +19107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
 | Stickets | 22156 | [22156-stickets.json](./22156-stickets.json) |
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
+| Stickforge | 350801 | [350801-stickforge.json](./350801-stickforge.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
