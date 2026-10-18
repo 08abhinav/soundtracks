@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Runner | 123990 | [123990-beats-runner.json](./123990-beats-runner.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
+| BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
 | Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
 | Beatstar: Beatstar Originals - "Housetop Jingle" | 358785 | [358785-beatstar-beatstar-originals-housetop-jingle.json](./358785-beatstar-beatstar-originals-housetop-jingle.json) |
 | Beatstar: Beatstar Originals - "Level Up!" | 358793 | [358793-beatstar-beatstar-originals-level-up.json](./358793-beatstar-beatstar-originals-level-up.json) |
@@ -8020,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Lily Cthulhu Mythos | 419313 | [419313-blood-lily-cthulhu-mythos.json](./419313-blood-lily-cthulhu-mythos.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
 | Blood Lines: Magicians' Chase 2 | 300775 | [300775-blood-lines-magicians-chase-2.json](./300775-blood-lines-magicians-chase-2.json) |
+| Blood Lust | 309724 | [309724-blood-lust.json](./309724-blood-lust.json) |
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
 | Blood Maniac | 125265 | [125265-blood-maniac.json](./125265-blood-maniac.json) |
