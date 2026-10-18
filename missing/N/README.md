@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nadia Was Here | 28491 | [28491-nadia-was-here.json](./28491-nadia-was-here.json) |
 | Nadine in: Diamond in the Grave | 279725 | [279725-nadine-in-diamond-in-the-grave.json](./279725-nadine-in-diamond-in-the-grave.json) |
 | Nadir: A Grimdark Deckbuilder | 142956 | [142956-nadir-a-grimdark-deckbuilder.json](./142956-nadir-a-grimdark-deckbuilder.json) |
+| Nadir: Giant Hunter | 312958 | [312958-nadir-giant-hunter.json](./312958-nadir-giant-hunter.json) |
 | Nadirim | 92388 | [92388-nadirim.json](./92388-nadirim.json) |
 | Nae Yeodongsaeng-gwa Chinguui Yeodongsaeng-eul Gyohwanhae Boassda | 368038 | [368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json](./368038-nae-yeodongsaeng-gwa-chinguui-yeodongsaeng-eul-gyohwanhae-boassda.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
