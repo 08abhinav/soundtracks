@@ -1394,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elated Sorrow | 184889 | [184889-elated-sorrow.json](./184889-elated-sorrow.json) |
 | Elation for the Wonder Box 6000 | 225567 | [225567-elation-for-the-wonder-box-6000.json](./225567-elation-for-the-wonder-box-6000.json) |
 | ELbab | 380791 | [380791-elbab.json](./380791-elbab.json) |
+| Elbe | 362582 | [362582-elbe.json](./362582-elbe.json) |
 | ElbmarKs | 197153 | [197153-elbmarks.json](./197153-elbmarks.json) |
 | ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
@@ -1955,6 +1956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
+| Elvarn | 362585 | [362585-elvarn.json](./362585-elvarn.json) |
 | Elven Assassin | 31997 | [31997-elven-assassin.json](./31997-elven-assassin.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
 | Elven City Simulator | 231851 | [231851-elven-city-simulator.json](./231851-elven-city-simulator.json) |
