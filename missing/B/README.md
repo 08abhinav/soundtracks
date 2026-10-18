@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
 | Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
+| Bad Cards | 360446 | [360446-bad-cards.json](./360446-bad-cards.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
 | Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
 | Bad Caterpillar | 33411 | [33411-bad-caterpillar.json](./33411-bad-caterpillar.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben and Ed: Blood Party | 32115 | [32115-ben-and-ed-blood-party.json](./32115-ben-and-ed-blood-party.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
+| Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
 | Ben Jordan: Paranormal Investigator - Case 2: The Lost Galleon of the Salton Sea | 71216 | [71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json](./71216-ben-jordan-paranormal-investigator-case-2-the-lost-galleon-of-the-salton-sea.json) |
