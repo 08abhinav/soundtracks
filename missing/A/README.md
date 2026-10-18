@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Sports Indy Racing | 78574 | [78574-abc-sports-indy-racing.json](./78574-abc-sports-indy-racing.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
+| ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
@@ -11180,6 +11181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Shipwright | 193198 | [193198-astral-shipwright.json](./193198-astral-shipwright.json) |
 | Astral Slider | 192262 | [192262-astral-slider.json](./192262-astral-slider.json) |
 | Astral Stairways | 142993 | [142993-astral-stairways.json](./142993-astral-stairways.json) |
+| Astral Survivor | 345837 | [345837-astral-survivor.json](./345837-astral-survivor.json) |
 | Astral Takers | 356974 | [356974-astral-takers.json](./356974-astral-takers.json) |
 | Astral Tale | 271915 | [271915-astral-tale.json](./271915-astral-tale.json) |
 | Astral Terra | 16882 | [16882-astral-terra.json](./16882-astral-terra.json) |
