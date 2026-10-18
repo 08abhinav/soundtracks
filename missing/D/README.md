@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diapause | 374597 | [374597-diapause.json](./374597-diapause.json) |
 | Diaper Dash | 16069 | [16069-diaper-dash.json](./16069-diaper-dash.json) |
 | Diaperquest 2055 | 112464 | [112464-diaperquest-2055.json](./112464-diaperquest-2055.json) |
+| Diapers, Please! | 334546 | [334546-diapers-please.json](./334546-diapers-please.json) |
 | Diari | 272998 | [272998-diari.json](./272998-diari.json) |
 | Diaries of a Spaceport Janitor | 23881 | [23881-diaries-of-a-spaceport-janitor.json](./23881-diaries-of-a-spaceport-janitor.json) |
 | Diario: Rebirth Moon Legend | 6965 | [6965-diario-rebirth-moon-legend.json](./6965-diario-rebirth-moon-legend.json) |
@@ -10149,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draconic Evolution | 232672 | [232672-draconic-evolution.json](./232672-draconic-evolution.json) |
 | Draconic Order VR | 31925 | [31925-draconic-order-vr.json](./31925-draconic-order-vr.json) |
 | Draconic Resurgence | 305491 | [305491-draconic-resurgence.json](./305491-draconic-resurgence.json) |
+| Draconis 8 | 334528 | [334528-draconis-8.json](./334528-draconis-8.json) |
 | Draconis Race | 358440 | [358440-draconis-race.json](./358440-draconis-race.json) |
 | Draconis Volatus | 211777 | [211777-draconis-volatus.json](./211777-draconis-volatus.json) |
 | Dracs After Dusk | 347735 | [347735-dracs-after-dusk.json](./347735-dracs-after-dusk.json) |
@@ -12017,6 +12019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
+| Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
