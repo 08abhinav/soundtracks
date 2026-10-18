@@ -7438,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Ticker | 253989 | [253989-clock-ticker.json](./253989-clock-ticker.json) |
 | Clock Tower | 18718 | [18718-clock-tower.json](./18718-clock-tower.json) |
 | Clock Tower 3 | 18305 | [18305-clock-tower-3.json](./18305-clock-tower-3.json) |
+| Clock Tower Deluxe | 314695 | [314695-clock-tower-deluxe.json](./314695-clock-tower-deluxe.json) |
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
