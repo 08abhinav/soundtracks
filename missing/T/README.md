@@ -23284,6 +23284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
+| Tsumugi no Hanayome | 318859 | [318859-tsumugi-no-hanayome.json](./318859-tsumugi-no-hanayome.json) |
 | Tsumugu Logic | 202676 | [202676-tsumugu-logic.json](./202676-tsumugu-logic.json) |
 | Tsunagare Numbers | 222420 | [222420-tsunagare-numbers.json](./222420-tsunagare-numbers.json) |
 | Tsunagari Chess School | 320379 | [320379-tsunagari-chess-school.json](./320379-tsunagari-chess-school.json) |
