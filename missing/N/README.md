@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
+| Need Two Survive | 325903 | [325903-need-two-survive.json](./325903-need-two-survive.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
 | Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
@@ -4854,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordic Ashes: The Complete Saga | 366616 | [366616-nordic-ashes-the-complete-saga.json](./366616-nordic-ashes-the-complete-saga.json) |
+| Nordic Racing | 325908 | [325908-nordic-racing.json](./325908-nordic-racing.json) |
 | Nordic Storm Solitaire | 127682 | [127682-nordic-storm-solitaire.json](./127682-nordic-storm-solitaire.json) |
 | Nordicandia | 144947 | [144947-nordicandia.json](./144947-nordicandia.json) |
 | Nordlicht | 119776 | [119776-nordlicht.json](./119776-nordlicht.json) |
@@ -4870,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norilsk | 95602 | [95602-norilsk.json](./95602-norilsk.json) |
 | Norimono Banzai!!: Densha Daishuugou!! | 63956 | [63956-norimono-banzai-densha-daishuugou.json](./63956-norimono-banzai-densha-daishuugou.json) |
 | Norimono Banzai!!: Kuruma Daishuugou!! | 63957 | [63957-norimono-banzai-kuruma-daishuugou.json](./63957-norimono-banzai-kuruma-daishuugou.json) |
+| Norm Aethos Real | 325923 | [325923-norm-aethos-real.json](./325923-norm-aethos-real.json) |
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
 | Norm of the North's Digit Dodge | 232336 | [232336-norm-of-the-norths-digit-dodge.json](./232336-norm-of-the-norths-digit-dodge.json) |
@@ -5477,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Crush | 366321 | [366321-number-crush.json](./366321-number-crush.json) |
 | Number Days Sim Date | 197614 | [197614-number-days-sim-date.json](./197614-number-days-sim-date.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
+| Number Fields | 325904 | [325904-number-fields.json](./325904-number-fields.json) |
 | Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
 | Number Guesser | 97905 | [97905-number-guesser.json](./97905-number-guesser.json) |
