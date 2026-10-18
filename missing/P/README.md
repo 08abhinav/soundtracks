@@ -3264,6 +3264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perish Song | 197259 | [197259-perish-song.json](./197259-perish-song.json) |
 | Perish the Thoth | 271458 | [271458-perish-the-thoth.json](./271458-perish-the-thoth.json) |
 | Perish: Exodus | 261143 | [261143-perish-exodus.json](./261143-perish-exodus.json) |
+| Perished Truth | 348026 | [348026-perished-truth.json](./348026-perished-truth.json) |
 | Perished: The Zurkez Project | 65975 | [65975-perished-the-zurkez-project.json](./65975-perished-the-zurkez-project.json) |
 | Perisno | 356202 | [356202-perisno.json](./356202-perisno.json) |
 | Perk Up | 372990 | [372990-perk-up.json](./372990-perk-up.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Halls | 27199 | [27199-phantom-halls.json](./27199-phantom-halls.json) |
 | Phantom Havoc | 333962 | [333962-phantom-havoc.json](./333962-phantom-havoc.json) |
 | Phantom Hellcat | 214415 | [214415-phantom-hellcat.json](./214415-phantom-hellcat.json) |
+| Phantom House | 348112 | [348112-phantom-house.json](./348112-phantom-house.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
 | Phantom Island | 215333 | [215333-phantom-island.json](./215333-phantom-island.json) |
@@ -3929,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
+| Pharmacy Management Simulator | 348031 | [348031-pharmacy-management-simulator.json](./348031-pharmacy-management-simulator.json) |
 | Pharmacy Simulator | 297809 | [297809-pharmacy-simulator.json](./297809-pharmacy-simulator.json) |
 | Pharos | 340568 | [340568-pharos.json](./340568-pharos.json) |
 | Pharos Light | 292764 | [292764-pharos-light.json](./292764-pharos-light.json) |
@@ -8776,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyrun | 120960 | [120960-polyrun.json](./120960-polyrun.json) |
 | Polysemy‌ | 326187 | [326187-polysemy.json](./326187-polysemy.json) |
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
+| PolySouls | 348017 | [348017-polysouls.json](./348017-polysouls.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | Polystrike | 414144 | [414144-polystrike.json](./414144-polystrike.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
