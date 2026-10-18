@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
+| Tales of Meadows | 350773 | [350773-tales-of-meadows.json](./350773-tales-of-meadows.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
 | Tales of Memo | 194340 | [194340-tales-of-memo.json](./194340-tales-of-memo.json) |
 | Tales of Middle Earth | 326278 | [326278-tales-of-middle-earth.json](./326278-tales-of-middle-earth.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Brain Train! | 21379 | [21379-the-amazing-brain-train.json](./21379-the-amazing-brain-train.json) |
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Digital Circus Visual Novel: Candy Chaos | 364875 | [364875-the-amazing-digital-circus-visual-novel-candy-chaos.json](./364875-the-amazing-digital-circus-visual-novel-candy-chaos.json) |
+| The Amazing Digital Circus: Fan VN Game | 350771 | [350771-the-amazing-digital-circus-fan-vn-game.json](./350771-the-amazing-digital-circus-fan-vn-game.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crystal Skull | 69558 | [69558-the-crystal-skull.json](./69558-the-crystal-skull.json) |
 | The Crystals of Atlantis | 96282 | [96282-the-crystals-of-atlantis.json](./96282-the-crystals-of-atlantis.json) |
 | The Cub | 194744 | [194744-the-cub.json](./194744-the-cub.json) |
+| The Cub: Back to Earth Edition | 350803 | [350803-the-cub-back-to-earth-edition.json](./350803-the-cub-back-to-earth-edition.json) |
 | The Cube | 120141 | [120141-the-cube.json](./120141-the-cube.json) |
 | The Cube | 226361 | [226361-the-cube.json](./226361-the-cube.json) |
 | The Cube | 347640 | [347640-the-cube.json](./347640-the-cube.json) |
@@ -9334,6 +9337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
 | The Line: The Other Path | 171345 | [171345-the-line-the-other-path.json](./171345-the-line-the-other-path.json) |
+| The Lingering: Graveyard Visit | 350804 | [350804-the-lingering-graveyard-visit.json](./350804-the-lingering-graveyard-visit.json) |
 | The Lingering: Last Customer | 336532 | [336532-the-lingering-last-customer.json](./336532-the-lingering-last-customer.json) |
 | The Links at Spanish Bay: PGA Tour 96 Championship Course | 206632 | [206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json](./206632-the-links-at-spanish-bay-pga-tour-96-championship-course.json) |
 | The Lion Guard | 58639 | [58639-the-lion-guard.json](./58639-the-lion-guard.json) |
@@ -9543,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
 | The Lost Clown | 268736 | [268736-the-lost-clown.json](./268736-the-lost-clown.json) |
 | The Lost Crown of Queen Anne | 70072 | [70072-the-lost-crown-of-queen-anne.json](./70072-the-lost-crown-of-queen-anne.json) |
+| The Lost Crucible | 350783 | [350783-the-lost-crucible.json](./350783-the-lost-crucible.json) |
 | The Lost Detective | 275342 | [275342-the-lost-detective.json](./275342-the-lost-detective.json) |
 | The Lost Dimension | 75121 | [75121-the-lost-dimension.json](./75121-the-lost-dimension.json) |
 | The Lost Dino: Survival Expedition | 335965 | [335965-the-lost-dino-survival-expedition.json](./335965-the-lost-dino-survival-expedition.json) |
@@ -11817,6 +11822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Sky: Part I | 212155 | [212155-the-silent-sky-part-i.json](./212155-the-silent-sky-part-i.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
 | The Silent Swan: Rising in the Mist Edition | 271400 | [271400-the-silent-swan-rising-in-the-mist-edition.json](./271400-the-silent-swan-rising-in-the-mist-edition.json) |
+| The Silent Witness | 350806 | [350806-the-silent-witness.json](./350806-the-silent-witness.json) |
 | The Silicon Shadow | 252260 | [252260-the-silicon-shadow.json](./252260-the-silicon-shadow.json) |
 | The Silk Road of the Eastern Dynasty | 211665 | [211665-the-silk-road-of-the-eastern-dynasty.json](./211665-the-silk-road-of-the-eastern-dynasty.json) |
 | The Silver Age | 209556 | [209556-the-silver-age.json](./209556-the-silver-age.json) |
@@ -17419,6 +17425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad Mountain | 101681 | [101681-toad-mountain.json](./101681-toad-mountain.json) |
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Runner | 271375 | [271375-toad-runner.json](./271375-toad-runner.json) |
+| Toad Sama! & The Dicey World | 350774 | [350774-toad-sama-and-the-dicey-world.json](./350774-toad-sama-and-the-dicey-world.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Sushi | 183416 | [183416-toad-sushi.json](./183416-toad-sushi.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
@@ -19166,6 +19173,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
 | Touhou Luna Nights | 105447 | [105447-touhou-luna-nights.json](./105447-touhou-luna-nights.json) |
+| Touhou Luna Nights: 5 Year Anniversary Edition | 350793 | [350793-touhou-luna-nights-5-year-anniversary-edition.json](./350793-touhou-luna-nights-5-year-anniversary-edition.json) |
+| Touhou Luna Nights: 5 Year Anniversary Limited Edition | 350794 | [350794-touhou-luna-nights-5-year-anniversary-limited-edition.json](./350794-touhou-luna-nights-5-year-anniversary-limited-edition.json) |
 | Touhou Madan Zan Cronica: Unbelieved Heroes | 206743 | [206743-touhou-madan-zan-cronica-unbelieved-heroes.json](./206743-touhou-madan-zan-cronica-unbelieved-heroes.json) |
 | Touhou Madan Zan Shun-pu: Unbelieved Heroes | 206742 | [206742-touhou-madan-zan-shun-pu-unbelieved-heroes.json](./206742-touhou-madan-zan-shun-pu-unbelieved-heroes.json) |
 | Touhou Madan Zan: Unbelieved Heroes | 206741 | [206741-touhou-madan-zan-unbelieved-heroes.json](./206741-touhou-madan-zan-unbelieved-heroes.json) |
@@ -21925,6 +21934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trends | 113479 | [113479-trends.json](./113479-trends.json) |
 | Trenga Unlimited | 147257 | [147257-trenga-unlimited.json](./147257-trenga-unlimited.json) |
 | Trepa | 180027 | [180027-trepa.json](./180027-trepa.json) |
+| Trepang | 350757 | [350757-trepang.json](./350757-trepang.json) |
 | Trepang2 | 126212 | [126212-trepang2.json](./126212-trepang2.json) |
 | Trepang2: Banger Edition | 254414 | [254414-trepang2-banger-edition.json](./254414-trepang2-banger-edition.json) |
 | Trepang2: Digital Deluxe Edition | 287625 | [287625-trepang2-digital-deluxe-edition.json](./287625-trepang2-digital-deluxe-edition.json) |
