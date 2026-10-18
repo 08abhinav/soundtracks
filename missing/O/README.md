@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Invaders | 156656 | [156656-orbital-invaders.json](./156656-orbital-invaders.json) |
 | Orbital Maintenance Technician | 419344 | [419344-orbital-maintenance-technician.json](./419344-orbital-maintenance-technician.json) |
 | Orbital Money | 223999 | [223999-orbital-money.json](./223999-orbital-money.json) |
+| Orbital Nexus | 337414 | [337414-orbital-nexus.json](./337414-orbital-nexus.json) |
 | Orbital Outbreak | 385871 | [385871-orbital-outbreak.json](./385871-orbital-outbreak.json) |
 | Orbital Overdrive | 383113 | [383113-orbital-overdrive.json](./383113-orbital-overdrive.json) |
 | Orbital Paladin Melchior Y | 184805 | [184805-orbital-paladin-melchior-y.json](./184805-orbital-paladin-melchior-y.json) |
