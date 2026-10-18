@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Robber: Home Clash | 227484 | [227484-scary-robber-home-clash.json](./227484-scary-robber-home-clash.json) |
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
+| Scary Shadow Spot: Last Farewell | 313583 | [313583-scary-shadow-spot-last-farewell.json](./313583-scary-shadow-spot-last-farewell.json) |
 | Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
 | Scary Spider Train Survival 1 | 245370 | [245370-scary-spider-train-survival-1.json](./245370-scary-spider-train-survival-1.json) |
 | Scary Stickmen | 386963 | [386963-scary-stickmen.json](./386963-scary-stickmen.json) |
@@ -9002,6 +9003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
 | Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
 | Sky Conqueror | 98897 | [98897-sky-conqueror.json](./98897-sky-conqueror.json) |
+| Sky Crashers | 313571 | [313571-sky-crashers.json](./313571-sky-crashers.json) |
 | Sky Crew | 103888 | [103888-sky-crew.json](./103888-sky-crew.json) |
 | Sky Dancer | 80802 | [80802-sky-dancer.json](./80802-sky-dancer.json) |
 | Sky Dancer Run | 174755 | [174755-sky-dancer-run.json](./174755-sky-dancer-run.json) |
@@ -10770,6 +10772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Kid's | 262396 | [262396-snap-kids.json](./262396-snap-kids.json) |
 | Snap Quest | 244763 | [244763-snap-quest.json](./244763-snap-quest.json) |
 | Snap Quiz Challenge | 333595 | [333595-snap-quiz-challenge.json](./333595-snap-quiz-challenge.json) |
+| Snap Snap | 313560 | [313560-snap-snap.json](./313560-snap-snap.json) |
 | Snap the Cat | 406299 | [406299-snap-the-cat.json](./406299-snap-the-cat.json) |
 | Snap the Sentinel | 141867 | [141867-snap-the-sentinel.json](./141867-snap-the-sentinel.json) |
 | Snap Together | 276956 | [276956-snap-together.json](./276956-snap-together.json) |
@@ -13029,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
+| Sonic: After the Sequel - Omega | 313570 | [313570-sonic-after-the-sequel-omega.json](./313570-sonic-after-the-sequel-omega.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
 | Sonic: Before the Sequel - Aftermath | 139181 | [139181-sonic-before-the-sequel-aftermath.json](./139181-sonic-before-the-sequel-aftermath.json) |
 | Sonic: Before the Sequel - Redux | 266508 | [266508-sonic-before-the-sequel-redux.json](./266508-sonic-before-the-sequel-redux.json) |
@@ -13067,6 +13071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: The Murdering Insanity | 321819 | [321819-sonic-the-murdering-insanity.json](./321819-sonic-the-murdering-insanity.json) |
 | Sonic: The Next Episode | 330863 | [330863-sonic-the-next-episode.json](./330863-sonic-the-next-episode.json) |
 | Sonic: Total Immersion | 331153 | [331153-sonic-total-immersion.json](./331153-sonic-total-immersion.json) |
+| Sonic.2017 | 313550 | [313550-sonic-2017.json](./313550-sonic-2017.json) |
 | Sonic.EXE | 45556 | [45556-sonic-exe.json](./45556-sonic-exe.json) |
 | Sonic.Exe 2: The Game | 341904 | [341904-sonic-exe-2-the-game.json](./341904-sonic-exe-2-the-game.json) |
 | Sonic.EXE One Last Round | 307226 | [307226-sonic-exe-one-last-round.json](./307226-sonic-exe-one-last-round.json) |
@@ -18177,6 +18182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
 | Stargazing 64 | 350523 | [350523-stargazing-64.json](./350523-stargazing-64.json) |
 | Stargazing: Genesis | 195705 | [195705-stargazing-genesis.json](./195705-stargazing-genesis.json) |
+| Stargirl and the Thief from the Exploded Moon | 313572 | [313572-stargirl-and-the-thief-from-the-exploded-moon.json](./313572-stargirl-and-the-thief-from-the-exploded-moon.json) |
 | Starglider | 12778 | [12778-starglider.json](./12778-starglider.json) |
 | Starglider 2 | 12779 | [12779-starglider-2.json](./12779-starglider-2.json) |
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
@@ -19400,6 +19406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Archer Fight | 86932 | [86932-stickman-archer-fight.json](./86932-stickman-archer-fight.json) |
 | Stickman Archer Online | 239550 | [239550-stickman-archer-online.json](./239550-stickman-archer-online.json) |
 | Stickman Archers: Archery Rampage | 101575 | [101575-stickman-archers-archery-rampage.json](./101575-stickman-archers-archery-rampage.json) |
+| Stickman Badminton | 313547 | [313547-stickman-badminton.json](./313547-stickman-badminton.json) |
 | Stickman Base Jumper | 108645 | [108645-stickman-base-jumper.json](./108645-stickman-base-jumper.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
