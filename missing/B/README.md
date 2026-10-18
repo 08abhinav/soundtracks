@@ -3764,6 +3764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Britney Spears - "Oops!...I Did It Again" | 357224 | [357224-beat-saber-britney-spears-oops-i-did-it-again.json](./357224-beat-saber-britney-spears-oops-i-did-it-again.json) |
 | Beat Saber: Britney Spears - "Toxic" | 357221 | [357221-beat-saber-britney-spears-toxic.json](./357221-beat-saber-britney-spears-toxic.json) |
 | Beat Saber: Britney Spears Music Pack | 357250 | [357250-beat-saber-britney-spears-music-pack.json](./357250-beat-saber-britney-spears-music-pack.json) |
+| Beat Saber: BTS - "Dionysus" | 358170 | [358170-beat-saber-bts-dionysus.json](./358170-beat-saber-bts-dionysus.json) |
+| Beat Saber: BTS - "Dope" | 358171 | [358171-beat-saber-bts-dope.json](./358171-beat-saber-bts-dope.json) |
 | Beat Saber: BTS Music Pack | 363185 | [363185-beat-saber-bts-music-pack.json](./363185-beat-saber-bts-music-pack.json) |
 | Beat Saber: Daft Punk - “Around the World / Harder Better Faster Stronger” | 296495 | [296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json](./296495-beat-saber-daft-punk-around-the-world-harder-better-faster-stronger.json) |
 | Beat Saber: Daft Punk - "Around The World" | 296494 | [296494-beat-saber-daft-punk-around-the-world.json](./296494-beat-saber-daft-punk-around-the-world.json) |
@@ -3784,6 +3786,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Green Day - "Holiday" | 357247 | [357247-beat-saber-green-day-holiday.json](./357247-beat-saber-green-day-holiday.json) |
 | Beat Saber: Green Day Music Pack | 357397 | [357397-beat-saber-green-day-music-pack.json](./357397-beat-saber-green-day-music-pack.json) |
 | Beat Saber: Hip Hop Mixtape | 357263 | [357263-beat-saber-hip-hop-mixtape.json](./357263-beat-saber-hip-hop-mixtape.json) |
+| Beat Saber: Imagine Dragons - "Believer" | 358176 | [358176-beat-saber-imagine-dragons-believer.json](./358176-beat-saber-imagine-dragons-believer.json) |
+| Beat Saber: Imagine Dragons - "Whatever It Takes" | 358178 | [358178-beat-saber-imagine-dragons-whatever-it-takes.json](./358178-beat-saber-imagine-dragons-whatever-it-takes.json) |
 | Beat Saber: Imagine Dragons Music Pack | 363189 | [363189-beat-saber-imagine-dragons-music-pack.json](./363189-beat-saber-imagine-dragons-music-pack.json) |
 | Beat Saber: Interscope Mixtape Music Pack | 363177 | [363177-beat-saber-interscope-mixtape-music-pack.json](./363177-beat-saber-interscope-mixtape-music-pack.json) |
 | Beat Saber: Katseye - "Gabriela" | 407194 | [407194-beat-saber-katseye-gabriela.json](./407194-beat-saber-katseye-gabriela.json) |
@@ -3791,10 +3795,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
 | Beat Saber: Lady Gaga Music Pack | 357355 | [357355-beat-saber-lady-gaga-music-pack.json](./357355-beat-saber-lady-gaga-music-pack.json) |
+| Beat Saber: Linkin Park - "Bleed It Out" | 358172 | [358172-beat-saber-linkin-park-bleed-it-out.json](./358172-beat-saber-linkin-park-bleed-it-out.json) |
 | Beat Saber: Linkin Park Music Pack | 363198 | [363198-beat-saber-linkin-park-music-pack.json](./363198-beat-saber-linkin-park-music-pack.json) |
 | Beat Saber: Linkin Park x Mike Shinoda Music Pack | 363196 | [363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json](./363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json) |
 | Beat Saber: Lizzo Music Pack | 363193 | [363193-beat-saber-lizzo-music-pack.json](./363193-beat-saber-lizzo-music-pack.json) |
 | Beat Saber: Monstercat Music Pack Vol. 1 | 251057 | [251057-beat-saber-monstercat-music-pack-vol-1.json](./251057-beat-saber-monstercat-music-pack-vol-1.json) |
+| Beat Saber: Nash Overstreet, Karra & Common Strangers - "What I Like" | 358177 | [358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json](./358177-beat-saber-nash-overstreet-karra-and-common-strangers-what-i-like.json) |
+| Beat Saber: Panic! at the Disco - "Emperor's New Clothes" | 358175 | [358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json](./358175-beat-saber-panic-at-the-disco-emperors-new-clothes.json) |
+| Beat Saber: Panic! At The Disco - "Viva Las Vengeance" | 358098 | [358098-beat-saber-panic-at-the-disco-viva-las-vengeance.json](./358098-beat-saber-panic-at-the-disco-viva-las-vengeance.json) |
 | Beat Saber: Panic! at the Disco Music Pack | 363183 | [363183-beat-saber-panic-at-the-disco-music-pack.json](./363183-beat-saber-panic-at-the-disco-music-pack.json) |
 | Beat Saber: Queen - "Another One Bites the Dust" | 357227 | [357227-beat-saber-queen-another-one-bites-the-dust.json](./357227-beat-saber-queen-another-one-bites-the-dust.json) |
 | Beat Saber: Queen - "Bohemian Rhapsody" | 357228 | [357228-beat-saber-queen-bohemian-rhapsody.json](./357228-beat-saber-queen-bohemian-rhapsody.json) |
@@ -3806,12 +3814,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
 | Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
 | Beat Saber: Skrillex Music Pack | 357356 | [357356-beat-saber-skrillex-music-pack.json](./357356-beat-saber-skrillex-music-pack.json) |
+| Beat Saber: Slushii - "Luv U Need U" | 358174 | [358174-beat-saber-slushii-luv-u-need-u.json](./358174-beat-saber-slushii-luv-u-need-u.json) |
 | Beat Saber: Steppenwolf - "Born To Be Wild" | 357232 | [357232-beat-saber-steppenwolf-born-to-be-wild.json](./357232-beat-saber-steppenwolf-born-to-be-wild.json) |
 | Beat Saber: Survivor - "Eye of the Tiger" | 357233 | [357233-beat-saber-survivor-eye-of-the-tiger.json](./357233-beat-saber-survivor-eye-of-the-tiger.json) |
 | Beat Saber: The Weeknd - "Blinding Lights" | 357236 | [357236-beat-saber-the-weeknd-blinding-lights.json](./357236-beat-saber-the-weeknd-blinding-lights.json) |
 | Beat Saber: The Weeknd - "Can't Feel My Face" | 357237 | [357237-beat-saber-the-weeknd-cant-feel-my-face.json](./357237-beat-saber-the-weeknd-cant-feel-my-face.json) |
 | Beat Saber: The Weeknd Music Pack | 357353 | [357353-beat-saber-the-weeknd-music-pack.json](./357353-beat-saber-the-weeknd-music-pack.json) |
 | Beat Saber: Timbaland Music Pack | 363182 | [363182-beat-saber-timbaland-music-pack.json](./363182-beat-saber-timbaland-music-pack.json) |
+| Beat Saber: Tokyo Machine - "Rock It" | 358173 | [358173-beat-saber-tokyo-machine-rock-it.json](./358173-beat-saber-tokyo-machine-rock-it.json) |
 | Beat Shapes | 385585 | [385585-beat-shapes.json](./385585-beat-shapes.json) |
 | Beat Slash 2 | 216129 | [216129-beat-slash-2.json](./216129-beat-slash-2.json) |
 | Beat Slicer | 410273 | [410273-beat-slicer.json](./410273-beat-slicer.json) |
