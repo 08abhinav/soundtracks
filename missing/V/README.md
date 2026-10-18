@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
 | Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
 | Video Ezy: In the Movies - Interactive DVD Trivia Game | 231832 | [231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json](./231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json) |
+| Video Game Bandle | 360891 | [360891-video-game-bandle.json](./360891-video-game-bandle.json) |
 | Video Game Feminization Hypnosis | 146905 | [146905-video-game-feminization-hypnosis.json](./146905-video-game-feminization-hypnosis.json) |
 | Video Game Grid | 333195 | [333195-video-game-grid.json](./333195-video-game-grid.json) |
 | Video Game Menu: The Game | 399846 | [399846-video-game-menu-the-game.json](./399846-video-game-menu-the-game.json) |
