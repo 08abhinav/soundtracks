@@ -13115,6 +13115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
 | ByteBurst | 281977 | [281977-byteburst.json](./281977-byteburst.json) |
+| Bytecollector | 349621 | [349621-bytecollector.json](./349621-bytecollector.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | ByteRogue | 344990 | [344990-byterogue.json](./344990-byterogue.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
