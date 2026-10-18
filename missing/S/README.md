@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Cross | 314618 | [314618-scarlet-cross.json](./314618-scarlet-cross.json) |
 | Scarlet Deer Inn | 143710 | [143710-scarlet-deer-inn.json](./143710-scarlet-deer-inn.json) |
 | Scarlet Defiance: The Wall Between Us | 291149 | [291149-scarlet-defiance-the-wall-between-us.json](./291149-scarlet-defiance-the-wall-between-us.json) |
+| Scarlet Enigma | 337505 | [337505-scarlet-enigma.json](./337505-scarlet-enigma.json) |
 | Scarlet Fantasy | 111570 | [111570-scarlet-fantasy.json](./111570-scarlet-fantasy.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
@@ -5625,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
+| Sheeple | 337502 | [337502-sheeple.json](./337502-sheeple.json) |
 | Sheeple | 410724 | [410724-sheeple.json](./410724-sheeple.json) |
 | Sheeplings | 203522 | [203522-sheeplings.json](./203522-sheeplings.json) |
 | Sheeplings | 25508 | [25508-sheeplings.json](./25508-sheeplings.json) |
@@ -6373,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shizuoka Curse | 335999 | [335999-shizuoka-curse.json](./335999-shizuoka-curse.json) |
 | Shkilagames Story: Episode 1 | 280840 | [280840-shkilagames-story-episode-1.json](./280840-shkilagames-story-episode-1.json) |
 | Shleep | 340225 | [340225-shleep.json](./340225-shleep.json) |
+| Shmackle | 337514 | [337514-shmackle.json](./337514-shmackle.json) |
 | Shmadow | 34594 | [34594-shmadow.json](./34594-shmadow.json) |
 | Shmoblins | 386919 | [386919-shmoblins.json](./386919-shmoblins.json) |
 | Shmooblin Blaster | 346557 | [346557-shmooblin-blaster.json](./346557-shmooblin-blaster.json) |
@@ -7021,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
+| Shut the Windows and Don't Look Outside | 337428 | [337428-shut-the-windows-and-dont-look-outside.json](./337428-shut-the-windows-and-dont-look-outside.json) |
 | Shut Up and Dig | 34147 | [34147-shut-up-and-dig.json](./34147-shut-up-and-dig.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
@@ -14671,6 +14675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaghettiKart | 350955 | [350955-spaghettikart.json](./350955-spaghettikart.json) |
 | SpAIceRocks | 340192 | [340192-spaicerocks.json](./340192-spaicerocks.json) |
 | Spakoyno: Back to USSR 2.0 | 34796 | [34796-spakoyno-back-to-ussr-2-0.json](./34796-spakoyno-back-to-ussr-2-0.json) |
+| Spalg | 337497 | [337497-spalg.json](./337497-spalg.json) |
 | Spam | 315689 | [315689-spam.json](./315689-spam.json) |
 | Spam Runner 2 | 379012 | [379012-spam-runner-2.json](./379012-spam-runner-2.json) |
 | Spam Text | 214196 | [214196-spam-text.json](./214196-spam-text.json) |
@@ -25446,6 +25451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swoosh | 143926 | [143926-swoosh.json](./143926-swoosh.json) |
 | SwooshCat | 346249 | [346249-swooshcat.json](./346249-swooshcat.json) |
 | SwooshMania | 347723 | [347723-swooshmania.json](./347723-swooshmania.json) |
+| Sword | 337506 | [337506-sword.json](./337506-sword.json) |
 | Sword 'N' Board | 33925 | [33925-sword-n-board.json](./33925-sword-n-board.json) |
 | Sword & Banner | 404889 | [404889-sword-and-banner.json](./404889-sword-and-banner.json) |
 | Sword & Dragon | 58234 | [58234-sword-and-dragon.json](./58234-sword-and-dragon.json) |
