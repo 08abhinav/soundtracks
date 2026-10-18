@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Claus | 219094 | [219094-zombie-claus.json](./219094-zombie-claus.json) |
 | Zombie Clicker Defense | 83526 | [83526-zombie-clicker-defense.json](./83526-zombie-clicker-defense.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
+| Zombie Cookin' | 350764 | [350764-zombie-cookin.json](./350764-zombie-cookin.json) |
 | Zombie Craft | 189916 | [189916-zombie-craft.json](./189916-zombie-craft.json) |
 | Zombie Crisis | 292119 | [292119-zombie-crisis.json](./292119-zombie-crisis.json) |
 | Zombie Crisis | 86515 | [86515-zombie-crisis.json](./86515-zombie-crisis.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Crow 3D | 24800 | [24800-zombie-crow-3d.json](./24800-zombie-crow-3d.json) |
 | Zombie Crush Driver | 192283 | [192283-zombie-crush-driver.json](./192283-zombie-crush-driver.json) |
 | Zombie Crush VR | 190423 | [190423-zombie-crush-vr.json](./190423-zombie-crush-vr.json) |
+| Zombie Crusher | 350766 | [350766-zombie-crusher.json](./350766-zombie-crusher.json) |
 | Zombie Cubes | 111169 | [111169-zombie-cubes.json](./111169-zombie-cubes.json) |
 | Zombie Cubes | 231997 | [231997-zombie-cubes.json](./231997-zombie-cubes.json) |
 | Zombie Cure Lab | 165153 | [165153-zombie-cure-lab.json](./165153-zombie-cure-lab.json) |
@@ -1373,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies Ate My Neighbors: The Terrifying Time Trials of Dr. Tongue | 338847 | [338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json](./338847-zombies-ate-my-neighbors-the-terrifying-time-trials-of-dr-tongue.json) |
 | Zombies Ate My Pizza | 23612 | [23612-zombies-ate-my-pizza.json](./23612-zombies-ate-my-pizza.json) |
 | Zombies Attack | 207805 | [207805-zombies-attack.json](./207805-zombies-attack.json) |
+| Zombies Attack | 350777 | [350777-zombies-attack.json](./350777-zombies-attack.json) |
 | Zombies Berserk | 55268 | [55268-zombies-berserk.json](./55268-zombies-berserk.json) |
 | Zombies Beyond Me | 166718 | [166718-zombies-beyond-me.json](./166718-zombies-beyond-me.json) |
 | Zombies Chasing My Cat | 56277 | [56277-zombies-chasing-my-cat.json](./56277-zombies-chasing-my-cat.json) |
