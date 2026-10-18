@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
 | KillerMUD | 112253 | [112253-killermud.json](./112253-killermud.json) |
+| KillerNight | 310289 | [310289-killernight.json](./310289-killernight.json) |
 | Killers and Thieves | 36726 | [36726-killers-and-thieves.json](./36726-killers-and-thieves.json) |
 | Killerwatt | 61520 | [61520-killerwatt.json](./61520-killerwatt.json) |
 | Killest Fights Craw-Mech | 399900 | [399900-killest-fights-craw-mech.json](./399900-killest-fights-craw-mech.json) |
