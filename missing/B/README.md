@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Breaker | 145426 | [145426-beast-breaker.json](./145426-beast-breaker.json) |
 | Beast Bumpers | 398907 | [398907-beast-bumpers.json](./398907-beast-bumpers.json) |
 | Beast Busters | 11951 | [11951-beast-busters.json](./11951-beast-busters.json) |
+| Beast Busters & S.A.R: Search and Rescue | 317680 | [317680-beast-busters-and-s-a-r-search-and-rescue.json](./317680-beast-busters-and-s-a-r-search-and-rescue.json) |
 | Beast Busters Featuring KoF | 60771 | [60771-beast-busters-featuring-kof.json](./60771-beast-busters-featuring-kof.json) |
 | Beast Busters: Second Nightmare | 28137 | [28137-beast-busters-second-nightmare.json](./28137-beast-busters-second-nightmare.json) |
 | Beast Collector | 276685 | [276685-beast-collector.json](./276685-beast-collector.json) |
