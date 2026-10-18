@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
 | Oreshika: Tainted Bloodlines | 19822 | [19822-oreshika-tainted-bloodlines.json](./19822-oreshika-tainted-bloodlines.json) |
 | Orestorm Factory | 224780 | [224780-orestorm-factory.json](./224780-orestorm-factory.json) |
+| Orestruck: Space Miner | 333416 | [333416-orestruck-space-miner.json](./333416-orestruck-space-miner.json) |
 | Oretachi ni Tsubasa wa Nai - Under the Innocent Sky | 62647 | [62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json](./62647-oretachi-ni-tsubasa-wa-nai-under-the-innocent-sky.json) |
 | Oretachi ni Tsubasa wa Nai -Prelude- | 60572 | [60572-oretachi-ni-tsubasa-wa-nai-prelude.json](./60572-oretachi-ni-tsubasa-wa-nai-prelude.json) |
 | Oretachi no Sabage Versus | 59374 | [59374-oretachi-no-sabage-versus.json](./59374-oretachi-no-sabage-versus.json) |
