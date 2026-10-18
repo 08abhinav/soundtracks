@@ -560,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zentris | 229052 | [229052-zentris.json](./229052-zentris.json) |
 | Zenvader | 358316 | [358316-zenvader.json](./358316-zenvader.json) |
 | Zenza | 25949 | [25949-zenza.json](./25949-zenza.json) |
+| Zenzicube: The Power of Six | 346369 | [346369-zenzicube-the-power-of-six.json](./346369-zenzicube-the-power-of-six.json) |
 | Zenzizenzic | 17924 | [17924-zenzizenzic.json](./17924-zenzizenzic.json) |
 | Zeo Effect | 235638 | [235638-zeo-effect.json](./235638-zeo-effect.json) |
 | Zeon | 57340 | [57340-zeon.json](./57340-zeon.json) |
