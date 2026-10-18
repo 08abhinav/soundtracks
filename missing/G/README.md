@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Doraemon: Nobita to Kiseki no Shima | 62554 | [62554-game-doraemon-nobita-to-kiseki-no-shima.json](./62554-game-doraemon-nobita-to-kiseki-no-shima.json) |
 | Game Doraemon: Shin Nobita no Nippon Tanjou | 59055 | [59055-game-doraemon-shin-nobita-no-nippon-tanjou.json](./59055-game-doraemon-shin-nobita-no-nippon-tanjou.json) |
 | Game e-Ninja Neptunia | 116803 | [116803-game-e-ninja-neptunia.json](./116803-game-e-ninja-neptunia.json) |
+| Game Empire Tycoon: Dealer Simulator | 315932 | [315932-game-empire-tycoon-dealer-simulator.json](./315932-game-empire-tycoon-dealer-simulator.json) |
 | Game For Anna | 154004 | [154004-game-for-anna.json](./154004-game-for-anna.json) |
 | Game for Peace | 196849 | [196849-game-for-peace.json](./196849-game-for-peace.json) |
 | Game ga Ippai Kikansha Thomas | 327581 | [327581-game-ga-ippai-kikansha-thomas.json](./327581-game-ga-ippai-kikansha-thomas.json) |
@@ -1252,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
 | Garage Mechanic Simulator | 124020 | [124020-garage-mechanic-simulator.json](./124020-garage-mechanic-simulator.json) |
+| Garage Mechanic Simulator 3D | 315895 | [315895-garage-mechanic-simulator-3d.json](./315895-garage-mechanic-simulator-3d.json) |
 | Garage Ninja | 163764 | [163764-garage-ninja.json](./163764-garage-ninja.json) |
 | Garage Sale | 245999 | [245999-garage-sale.json](./245999-garage-sale.json) |
 | Garage Works | 278417 | [278417-garage-works.json](./278417-garage-works.json) |
@@ -3736,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Up 2 | 320023 | [320023-glow-up-2.json](./320023-glow-up-2.json) |
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
+| Glowface in Love | 315944 | [315944-glowface-in-love.json](./315944-glowface-in-love.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
 | Glowfish | 10366 | [10366-glowfish.json](./10366-glowfish.json) |
@@ -4653,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
 | Golden Rails: The Heart of the State | 372218 | [372218-golden-rails-the-heart-of-the-state.json](./372218-golden-rails-the-heart-of-the-state.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
+| Golden Rails: Valuable Package | 315899 | [315899-golden-rails-valuable-package.json](./315899-golden-rails-valuable-package.json) |
 | Golden Rails: World's Fair | 213559 | [213559-golden-rails-worlds-fair.json](./213559-golden-rails-worlds-fair.json) |
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
