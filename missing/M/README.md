@@ -5319,6 +5319,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 4: Blue Moon | 352328 | [352328-mega-man-battle-network-4-blue-moon.json](./352328-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Blue Moon | 352867 | [352867-mega-man-battle-network-4-blue-moon.json](./352867-mega-man-battle-network-4-blue-moon.json) |
 | Mega Man Battle Network 4: Patch Card - 000: Weapon Change | 352131 | [352131-mega-man-battle-network-4-patch-card-000-weapon-change.json](./352131-mega-man-battle-network-4-patch-card-000-weapon-change.json) |
+| Mega Man Battle Network 4: Patch Card - 001: Max HP Up | 351985 | [351985-mega-man-battle-network-4-patch-card-001-max-hp-up.json](./351985-mega-man-battle-network-4-patch-card-001-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 002: Max HP Up | 351986 | [351986-mega-man-battle-network-4-patch-card-002-max-hp-up.json](./351986-mega-man-battle-network-4-patch-card-002-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 003: Max HP Up | 351987 | [351987-mega-man-battle-network-4-patch-card-003-max-hp-up.json](./351987-mega-man-battle-network-4-patch-card-003-max-hp-up.json) |
+| Mega Man Battle Network 4: Patch Card - 053: Charge Shot Switch | 352039 | [352039-mega-man-battle-network-4-patch-card-053-charge-shot-switch.json](./352039-mega-man-battle-network-4-patch-card-053-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 054: Charge Shot Switch | 352040 | [352040-mega-man-battle-network-4-patch-card-054-charge-shot-switch.json](./352040-mega-man-battle-network-4-patch-card-054-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 055: Charge Shot Switch | 352042 | [352042-mega-man-battle-network-4-patch-card-055-charge-shot-switch.json](./352042-mega-man-battle-network-4-patch-card-055-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 056: Charge Shot Switch | 352043 | [352043-mega-man-battle-network-4-patch-card-056-charge-shot-switch.json](./352043-mega-man-battle-network-4-patch-card-056-charge-shot-switch.json) |
+| Mega Man Battle Network 4: Patch Card - 057: Charge Shot Switch | 352044 | [352044-mega-man-battle-network-4-patch-card-057-charge-shot-switch.json](./352044-mega-man-battle-network-4-patch-card-057-charge-shot-switch.json) |
 | Mega Man Battle Network 4: Patch Card - 112: B+Left Ability Activation | 352106 | [352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json](./352106-mega-man-battle-network-4-patch-card-112-b-left-ability-activation.json) |
 | Mega Man Battle Network 4: Patch Card - 113: Charge Shot Switch | 352107 | [352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json](./352107-mega-man-battle-network-4-patch-card-113-charge-shot-switch.json) |
 | Mega Man Battle Network 4: Patch Card - 114: Charge Shot Switch | 352109 | [352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json](./352109-mega-man-battle-network-4-patch-card-114-charge-shot-switch.json) |
@@ -5345,7 +5353,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 4: Red Sun | 1759 | [1759-mega-man-battle-network-4-red-sun.json](./1759-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352331 | [352331-mega-man-battle-network-4-red-sun.json](./352331-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352866 | [352866-mega-man-battle-network-4-red-sun.json](./352866-mega-man-battle-network-4-red-sun.json) |
+| Mega Man Battle Network 5: Patch Card - Amulet from Raoul | 351944 | [351944-mega-man-battle-network-5-patch-card-amulet-from-raoul.json](./351944-mega-man-battle-network-5-patch-card-amulet-from-raoul.json) |
 | Mega Man Battle Network 5: Patch Card - Anaconda | 351818 | [351818-mega-man-battle-network-5-patch-card-anaconda.json](./351818-mega-man-battle-network-5-patch-card-anaconda.json) |
+| Mega Man Battle Network 5: Patch Card - Arashi's Reward | 351966 | [351966-mega-man-battle-network-5-patch-card-arashis-reward.json](./351966-mega-man-battle-network-5-patch-card-arashis-reward.json) |
+| Mega Man Battle Network 5: Patch Card - Atsuki's Ammo | 351952 | [351952-mega-man-battle-network-5-patch-card-atsukis-ammo.json](./351952-mega-man-battle-network-5-patch-card-atsukis-ammo.json) |
+| Mega Man Battle Network 5: Patch Card - Baryl's Tactics | 351975 | [351975-mega-man-battle-network-5-patch-card-baryls-tactics.json](./351975-mega-man-battle-network-5-patch-card-baryls-tactics.json) |
 | Mega Man Battle Network 5: Patch Card - Bass | 351843 | [351843-mega-man-battle-network-5-patch-card-bass.json](./351843-mega-man-battle-network-5-patch-card-bass.json) |
 | Mega Man Battle Network 5: Patch Card - Billy | 351816 | [351816-mega-man-battle-network-5-patch-card-billy.json](./351816-mega-man-battle-network-5-patch-card-billy.json) |
 | Mega Man Battle Network 5: Patch Card - Boomer | 351830 | [351830-mega-man-battle-network-5-patch-card-boomer.json](./351830-mega-man-battle-network-5-patch-card-boomer.json) |
@@ -5353,33 +5365,68 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 5: Patch Card - BubbleMan | 351846 | [351846-mega-man-battle-network-5-patch-card-bubbleman.json](./351846-mega-man-battle-network-5-patch-card-bubbleman.json) |
 | Mega Man Battle Network 5: Patch Card - Cactikil | 351839 | [351839-mega-man-battle-network-5-patch-card-cactikil.json](./351839-mega-man-battle-network-5-patch-card-cactikil.json) |
 | Mega Man Battle Network 5: Patch Card - Candela | 351817 | [351817-mega-man-battle-network-5-patch-card-candela.json](./351817-mega-man-battle-network-5-patch-card-candela.json) |
+| Mega Man Battle Network 5: Patch Card - Cash from Shuko's Wallet | 351974 | [351974-mega-man-battle-network-5-patch-card-cash-from-shukos-wallet.json](./351974-mega-man-battle-network-5-patch-card-cash-from-shukos-wallet.json) |
 | Mega Man Battle Network 5: Patch Card - Catack | 351836 | [351836-mega-man-battle-network-5-patch-card-catack.json](./351836-mega-man-battle-network-5-patch-card-catack.json) |
 | Mega Man Battle Network 5: Patch Card - Champy | 351837 | [351837-mega-man-battle-network-5-patch-card-champy.json](./351837-mega-man-battle-network-5-patch-card-champy.json) |
+| Mega Man Battle Network 5: Patch Card - Chaos Lord | 351982 | [351982-mega-man-battle-network-5-patch-card-chaos-lord.json](./351982-mega-man-battle-network-5-patch-card-chaos-lord.json) |
+| Mega Man Battle Network 5: Patch Card - Charlie's Flight | 351956 | [351956-mega-man-battle-network-5-patch-card-charlies-flight.json](./351956-mega-man-battle-network-5-patch-card-charlies-flight.json) |
+| Mega Man Battle Network 5: Patch Card - Cost of Viddy's Outfit | 351950 | [351950-mega-man-battle-network-5-patch-card-cost-of-viddys-outfit.json](./351950-mega-man-battle-network-5-patch-card-cost-of-viddys-outfit.json) |
+| Mega Man Battle Network 5: Patch Card - Dave's Agility | 351967 | [351967-mega-man-battle-network-5-patch-card-daves-agility.json](./351967-mega-man-battle-network-5-patch-card-daves-agility.json) |
+| Mega Man Battle Network 5: Patch Card - Dingo's Hope | 351978 | [351978-mega-man-battle-network-5-patch-card-dingos-hope.json](./351978-mega-man-battle-network-5-patch-card-dingos-hope.json) |
 | Mega Man Battle Network 5: Patch Card - Dominerd | 351823 | [351823-mega-man-battle-network-5-patch-card-dominerd.json](./351823-mega-man-battle-network-5-patch-card-dominerd.json) |
+| Mega Man Battle Network 5: Patch Card - Dr. Froid's Data | 351960 | [351960-mega-man-battle-network-5-patch-card-dr-froids-data.json](./351960-mega-man-battle-network-5-patch-card-dr-froids-data.json) |
+| Mega Man Battle Network 5: Patch Card - Dr. Wily's Rejects | 351965 | [351965-mega-man-battle-network-5-patch-card-dr-wilys-rejects.json](./351965-mega-man-battle-network-5-patch-card-dr-wilys-rejects.json) |
+| Mega Man Battle Network 5: Patch Card - Dusk's Dark Doings | 351976 | [351976-mega-man-battle-network-5-patch-card-dusks-dark-doings.json](./351976-mega-man-battle-network-5-patch-card-dusks-dark-doings.json) |
 | Mega Man Battle Network 5: Patch Card - FireMan | 351842 | [351842-mega-man-battle-network-5-patch-card-fireman.json](./351842-mega-man-battle-network-5-patch-card-fireman.json) |
 | Mega Man Battle Network 5: Patch Card - Fishy | 351813 | [351813-mega-man-battle-network-5-patch-card-fishy.json](./351813-mega-man-battle-network-5-patch-card-fishy.json) |
 | Mega Man Battle Network 5: Patch Card - FlameMan | 351847 | [351847-mega-man-battle-network-5-patch-card-flameman.json](./351847-mega-man-battle-network-5-patch-card-flameman.json) |
+| Mega Man Battle Network 5: Patch Card - Fyrefox's Fireworks | 351957 | [351957-mega-man-battle-network-5-patch-card-fyrefoxs-fireworks.json](./351957-mega-man-battle-network-5-patch-card-fyrefoxs-fireworks.json) |
+| Mega Man Battle Network 5: Patch Card - Gauss's Hidden Savings | 351968 | [351968-mega-man-battle-network-5-patch-card-gausss-hidden-savings.json](./351968-mega-man-battle-network-5-patch-card-gausss-hidden-savings.json) |
 | Mega Man Battle Network 5: Patch Card - GutsMan | 351841 | [351841-mega-man-battle-network-5-patch-card-gutsman.json](./351841-mega-man-battle-network-5-patch-card-gutsman.json) |
+| Mega Man Battle Network 5: Patch Card - Higsby's Blowout | 351977 | [351977-mega-man-battle-network-5-patch-card-higsbys-blowout.json](./351977-mega-man-battle-network-5-patch-card-higsbys-blowout.json) |
+| Mega Man Battle Network 5: Patch Card - Jasmine's Secret Recipe | 351959 | [351959-mega-man-battle-network-5-patch-card-jasmines-secret-recipe.json](./351959-mega-man-battle-network-5-patch-card-jasmines-secret-recipe.json) |
 | Mega Man Battle Network 5: Patch Card - KillerEye | 351828 | [351828-mega-man-battle-network-5-patch-card-killereye.json](./351828-mega-man-battle-network-5-patch-card-killereye.json) |
 | Mega Man Battle Network 5: Patch Card - Lark | 351831 | [351831-mega-man-battle-network-5-patch-card-lark.json](./351831-mega-man-battle-network-5-patch-card-lark.json) |
+| Mega Man Battle Network 5: Patch Card - Leader Raid | 351981 | [351981-mega-man-battle-network-5-patch-card-leader-raid.json](./351981-mega-man-battle-network-5-patch-card-leader-raid.json) |
+| Mega Man Battle Network 5: Patch Card - Lilly's Gift | 351953 | [351953-mega-man-battle-network-5-patch-card-lillys-gift.json](./351953-mega-man-battle-network-5-patch-card-lillys-gift.json) |
+| Mega Man Battle Network 5: Patch Card - Masa's Daily Profit | 351943 | [351943-mega-man-battle-network-5-patch-card-masas-daily-profit.json](./351943-mega-man-battle-network-5-patch-card-masas-daily-profit.json) |
 | Mega Man Battle Network 5: Patch Card - Melody | 351834 | [351834-mega-man-battle-network-5-patch-card-melody.json](./351834-mega-man-battle-network-5-patch-card-melody.json) |
 | Mega Man Battle Network 5: Patch Card - MetalMan | 351848 | [351848-mega-man-battle-network-5-patch-card-metalman.json](./351848-mega-man-battle-network-5-patch-card-metalman.json) |
 | Mega Man Battle Network 5: Patch Card - Mettaur | 351809 | [351809-mega-man-battle-network-5-patch-card-mettaur.json](./351809-mega-man-battle-network-5-patch-card-mettaur.json) |
 | Mega Man Battle Network 5: Patch Card - Moloko | 351833 | [351833-mega-man-battle-network-5-patch-card-moloko.json](./351833-mega-man-battle-network-5-patch-card-moloko.json) |
+| Mega Man Battle Network 5: Patch Card - Mr. Famous's Intern's Troops | 351949 | [351949-mega-man-battle-network-5-patch-card-mr-famouss-interns-troops.json](./351949-mega-man-battle-network-5-patch-card-mr-famouss-interns-troops.json) |
+| Mega Man Battle Network 5: Patch Card - Mr. Famous's Picks | 351971 | [351971-mega-man-battle-network-5-patch-card-mr-famouss-picks.json](./351971-mega-man-battle-network-5-patch-card-mr-famouss-picks.json) |
+| Mega Man Battle Network 5: Patch Card - Ms. Mari's Things | 351961 | [351961-mega-man-battle-network-5-patch-card-ms-maris-things.json](./351961-mega-man-battle-network-5-patch-card-ms-maris-things.json) |
 | Mega Man Battle Network 5: Patch Card - Mushy | 351819 | [351819-mega-man-battle-network-5-patch-card-mushy.json](./351819-mega-man-battle-network-5-patch-card-mushy.json) |
 | Mega Man Battle Network 5: Patch Card - Null | 351824 | [351824-mega-man-battle-network-5-patch-card-null.json](./351824-mega-man-battle-network-5-patch-card-null.json) |
 | Mega Man Battle Network 5: Patch Card - Piranha | 351814 | [351814-mega-man-battle-network-5-patch-card-piranha.json](./351814-mega-man-battle-network-5-patch-card-piranha.json) |
+| Mega Man Battle Network 5: Patch Card - Pocket Change from Mrs. Millions | 351945 | [351945-mega-man-battle-network-5-patch-card-pocket-change-from-mrs-millions.json](./351945-mega-man-battle-network-5-patch-card-pocket-change-from-mrs-millions.json) |
+| Mega Man Battle Network 5: Patch Card - Pocket Money from Tensuke | 351973 | [351973-mega-man-battle-network-5-patch-card-pocket-money-from-tensuke.json](./351973-mega-man-battle-network-5-patch-card-pocket-money-from-tensuke.json) |
+| Mega Man Battle Network 5: Patch Card - Pride's Treasures | 351979 | [351979-mega-man-battle-network-5-patch-card-prides-treasures.json](./351979-mega-man-battle-network-5-patch-card-prides-treasures.json) |
 | Mega Man Battle Network 5: Patch Card - Puffball | 351821 | [351821-mega-man-battle-network-5-patch-card-puffball.json](./351821-mega-man-battle-network-5-patch-card-puffball.json) |
 | Mega Man Battle Network 5: Patch Card - Quaker | 351829 | [351829-mega-man-battle-network-5-patch-card-quaker.json](./351829-mega-man-battle-network-5-patch-card-quaker.json) |
 | Mega Man Battle Network 5: Patch Card - QuickMan | 351844 | [351844-mega-man-battle-network-5-patch-card-quickman.json](./351844-mega-man-battle-network-5-patch-card-quickman.json) |
+| Mega Man Battle Network 5: Patch Card - Raika's Mission | 351955 | [351955-mega-man-battle-network-5-patch-card-raikas-mission.json](./351955-mega-man-battle-network-5-patch-card-raikas-mission.json) |
 | Mega Man Battle Network 5: Patch Card - Ratty | 351815 | [351815-mega-man-battle-network-5-patch-card-ratty.json](./351815-mega-man-battle-network-5-patch-card-ratty.json) |
+| Mega Man Battle Network 5: Patch Card - Rei's Lost Items | 351947 | [351947-mega-man-battle-network-5-patch-card-reis-lost-items.json](./351947-mega-man-battle-network-5-patch-card-reis-lost-items.json) |
+| Mega Man Battle Network 5: Patch Card - Ribitta's Freebies | 351980 | [351980-mega-man-battle-network-5-patch-card-ribittas-freebies.json](./351980-mega-man-battle-network-5-patch-card-ribittas-freebies.json) |
 | Mega Man Battle Network 5: Patch Card - Roll | 351840 | [351840-mega-man-battle-network-5-patch-card-roll.json](./351840-mega-man-battle-network-5-patch-card-roll.json) |
+| Mega Man Battle Network 5: Patch Card - Sal's Cereal Prize | 351962 | [351962-mega-man-battle-network-5-patch-card-sals-cereal-prize.json](./351962-mega-man-battle-network-5-patch-card-sals-cereal-prize.json) |
+| Mega Man Battle Network 5: Patch Card - Sale at Miyu's Shop | 351942 | [351942-mega-man-battle-network-5-patch-card-sale-at-miyus-shop.json](./351942-mega-man-battle-network-5-patch-card-sale-at-miyus-shop.json) |
 | Mega Man Battle Network 5: Patch Card - Scuttlest | 351826 | [351826-mega-man-battle-network-5-patch-card-scuttlest.json](./351826-mega-man-battle-network-5-patch-card-scuttlest.json) |
+| Mega Man Battle Network 5: Patch Card - Sean's Collection | 351963 | [351963-mega-man-battle-network-5-patch-card-seans-collection.json](./351963-mega-man-battle-network-5-patch-card-seans-collection.json) |
+| Mega Man Battle Network 5: Patch Card - Secrets of Chaud's Success | 351954 | [351954-mega-man-battle-network-5-patch-card-secrets-of-chauds-success.json](./351954-mega-man-battle-network-5-patch-card-secrets-of-chauds-success.json) |
 | Mega Man Battle Network 5: Patch Card - SnakeMan | 351845 | [351845-mega-man-battle-network-5-patch-card-snakeman.json](./351845-mega-man-battle-network-5-patch-card-snakeman.json) |
 | Mega Man Battle Network 5: Patch Card - SnowBlow | 351827 | [351827-mega-man-battle-network-5-patch-card-snowblow.json](./351827-mega-man-battle-network-5-patch-card-snowblow.json) |
 | Mega Man Battle Network 5: Patch Card - Spikey | 351820 | [351820-mega-man-battle-network-5-patch-card-spikey.json](./351820-mega-man-battle-network-5-patch-card-spikey.json) |
 | Mega Man Battle Network 5: Patch Card - Spooky | 351811 | [351811-mega-man-battle-network-5-patch-card-spooky.json](./351811-mega-man-battle-network-5-patch-card-spooky.json) |
+| Mega Man Battle Network 5: Patch Card - Sunayama's Pocket Change | 351970 | [351970-mega-man-battle-network-5-patch-card-sunayamas-pocket-change.json](./351970-mega-man-battle-network-5-patch-card-sunayamas-pocket-change.json) |
 | Mega Man Battle Network 5: Patch Card - Swordy | 351812 | [351812-mega-man-battle-network-5-patch-card-swordy.json](./351812-mega-man-battle-network-5-patch-card-swordy.json) |
+| Mega Man Battle Network 5: Patch Card - Tamako's Gifts | 351969 | [351969-mega-man-battle-network-5-patch-card-tamakos-gifts.json](./351969-mega-man-battle-network-5-patch-card-tamakos-gifts.json) |
+| Mega Man Battle Network 5: Patch Card - Terry's Techniques | 351972 | [351972-mega-man-battle-network-5-patch-card-terrys-techniques.json](./351972-mega-man-battle-network-5-patch-card-terrys-techniques.json) |
+| Mega Man Battle Network 5: Patch Card - Tesla's Stress Relief | 351958 | [351958-mega-man-battle-network-5-patch-card-teslas-stress-relief.json](./351958-mega-man-battle-network-5-patch-card-teslas-stress-relief.json) |
+| Mega Man Battle Network 5: Patch Card - The Head of Gospel's Collection | 351946 | [351946-mega-man-battle-network-5-patch-card-the-head-of-gospels-collection.json](./351946-mega-man-battle-network-5-patch-card-the-head-of-gospels-collection.json) |
+| Mega Man Battle Network 5: Patch Card - The Source of Inukai's Vigor | 351948 | [351948-mega-man-battle-network-5-patch-card-the-source-of-inukais-vigor.json](./351948-mega-man-battle-network-5-patch-card-the-source-of-inukais-vigor.json) |
 | Mega Man Battle Network 5: Patch Card - VolGear | 351810 | [351810-mega-man-battle-network-5-patch-card-volgear.json](./351810-mega-man-battle-network-5-patch-card-volgear.json) |
 | Mega Man Battle Network 5: Patch Card - Whirly | 351838 | [351838-mega-man-battle-network-5-patch-card-whirly.json](./351838-mega-man-battle-network-5-patch-card-whirly.json) |
 | Mega Man Battle Network 5: Patch Card - Yort | 351822 | [351822-mega-man-battle-network-5-patch-card-yort.json](./351822-mega-man-battle-network-5-patch-card-yort.json) |
