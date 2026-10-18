@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra: Shadow of Death | 34027 | [34027-umbra-shadow-of-death.json](./34027-umbra-shadow-of-death.json) |
 | Umbra: The Last Summoner | 278346 | [278346-umbra-the-last-summoner.json](./278346-umbra-the-last-summoner.json) |
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
+| Umbral Astral Dreamers | 333440 | [333440-umbral-astral-dreamers.json](./333440-umbral-astral-dreamers.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
 | Umbral Omen | 212837 | [212837-umbral-omen.json](./212837-umbral-omen.json) |
 | UmbraNet | 388359 | [388359-umbranet.json](./388359-umbranet.json) |
