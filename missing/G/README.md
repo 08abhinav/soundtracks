@@ -5245,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
 | Gossipia | 59991 | [59991-gossipia.json](./59991-gossipia.json) |
+| Gost! Buster | 339153 | [339153-gost-buster.json](./339153-gost-buster.json) |
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
@@ -6703,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
+| GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
 | Grimlight | 200727 | [200727-grimlight.json](./200727-grimlight.json) |
 | Grimlord | 204833 | [204833-grimlord.json](./204833-grimlord.json) |
