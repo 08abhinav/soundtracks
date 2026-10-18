@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verso | 177803 | [177803-verso.json](./177803-verso.json) |
 | Versus | 285907 | [285907-versus.json](./285907-versus.json) |
 | Versus in the Dark | 325021 | [325021-versus-in-the-dark.json](./325021-versus-in-the-dark.json) |
+| Versus Net Soccer | 361490 | [361490-versus-net-soccer.json](./361490-versus-net-soccer.json) |
 | Versus One | 387056 | [387056-versus-one.json](./387056-versus-one.json) |
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
