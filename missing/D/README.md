@@ -2140,6 +2140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days After | 169990 | [169990-days-after.json](./169990-days-after.json) |
 | Days End: Becoming Blackbird | 256743 | [256743-days-end-becoming-blackbird.json](./256743-days-end-becoming-blackbird.json) |
 | Days Gone By | 127102 | [127102-days-gone-by.json](./127102-days-gone-by.json) |
+| Days Gone: Challenge Mode | 321218 | [321218-days-gone-challenge-mode.json](./321218-days-gone-challenge-mode.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devils and Demons | 372789 | [372789-devils-and-demons.json](./372789-devils-and-demons.json) |
 | Devils Due | 359520 | [359520-devils-due.json](./359520-devils-due.json) |
 | Devils of the Deep | 294738 | [294738-devils-of-the-deep.json](./294738-devils-of-the-deep.json) |
+| Devils on the Moon Pinball | 321222 | [321222-devils-on-the-moon-pinball.json](./321222-devils-on-the-moon-pinball.json) |
 | Devils Share | 26513 | [26513-devils-share.json](./26513-devils-share.json) |
 | Devils Wind Mine | 294156 | [294156-devils-wind-mine.json](./294156-devils-wind-mine.json) |
 | DevilShaft: TheTower | 116843 | [116843-devilshaft-thetower.json](./116843-devilshaft-thetower.json) |
@@ -6682,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
+| Ding Dong Die | 321225 | [321225-ding-dong-die.json](./321225-ding-dong-die.json) |
 | Ding Dong Pitch | 379555 | [379555-ding-dong-pitch.json](./379555-ding-dong-pitch.json) |
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
