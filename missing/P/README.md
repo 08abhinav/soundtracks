@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
+| Permuter | 325902 | [325902-permuter.json](./325902-permuter.json) |
 | Perncops Virtual Rig | 226707 | [226707-perncops-virtual-rig.json](./226707-perncops-virtual-rig.json) |
 | Peropero Candy: You no Shou | 373030 | [373030-peropero-candy-you-no-shou.json](./373030-peropero-candy-you-no-shou.json) |
 | Peropero Seduction | 98527 | [98527-peropero-seduction.json](./98527-peropero-seduction.json) |
@@ -6452,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Kidd | 217398 | [217398-pizza-kidd.json](./217398-pizza-kidd.json) |
 | Pizza King Fight | 259713 | [259713-pizza-king-fight.json](./259713-pizza-king-fight.json) |
 | Pizza Knight: Out To Deliver | 380766 | [380766-pizza-knight-out-to-deliver.json](./380766-pizza-knight-out-to-deliver.json) |
+| Pizza Maker | 325889 | [325889-pizza-maker.json](./325889-pizza-maker.json) |
 | Pizza Maker | 95300 | [95300-pizza-maker.json](./95300-pizza-maker.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
@@ -9234,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popop! | 160245 | [160245-popop.json](./160245-popop.json) |
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
+| Popotinho's Adventures | 325885 | [325885-popotinhos-adventures.json](./325885-popotinhos-adventures.json) |
 | Popper | 288146 | [288146-popper.json](./288146-popper.json) |
 | Popper | 60878 | [60878-popper.json](./60878-popper.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
@@ -9362,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 64 | 261713 | [261713-portal-64.json](./261713-portal-64.json) |
 | Portal 64: Still Alive | 377846 | [377846-portal-64-still-alive.json](./377846-portal-64-still-alive.json) |
 | Portal Bagley: Aperture Remote Terminal | 344153 | [344153-portal-bagley-aperture-remote-terminal.json](./344153-portal-bagley-aperture-remote-terminal.json) |
+| Portal Balls | 325880 | [325880-portal-balls.json](./325880-portal-balls.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defect | 155383 | [155383-portal-defect.json](./155383-portal-defect.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
@@ -11735,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project Xandata | 75405 | [75405-project-xandata.json](./75405-project-xandata.json) |
+| Project Xenophobe | 325914 | [325914-project-xenophobe.json](./325914-project-xenophobe.json) |
 | Project Xinatra | 31934 | [31934-project-xinatra.json](./31934-project-xinatra.json) |
 | Project XLOWS: Keyboard Apocalypse TM | 391690 | [391690-project-xlows-keyboard-apocalypse-tm.json](./391690-project-xlows-keyboard-apocalypse-tm.json) |
 | Project Xmas | 192250 | [192250-project-xmas.json](./192250-project-xmas.json) |
