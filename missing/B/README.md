@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Village | 395244 | [395244-back-to-the-village.json](./395244-back-to-the-village.json) |
 | Back to the War | 355225 | [355225-back-to-the-war.json](./355225-back-to-the-war.json) |
 | Back Wars | 105726 | [105726-back-wars.json](./105726-back-wars.json) |
+| Back: Fade | 342501 | [342501-back-fade.json](./342501-back-fade.json) |
 | Back*space | 402235 | [402235-back-space.json](./402235-back-space.json) |
 | Backbeat | 356606 | [356606-backbeat.json](./356606-backbeat.json) |
 | Backbeat and Hexagroove: Music Strategy Bundle | 242074 | [242074-backbeat-and-hexagroove-music-strategy-bundle.json](./242074-backbeat-and-hexagroove-music-strategy-bundle.json) |
@@ -4216,6 +4217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeftown Beatdown | 238769 | [238769-beeftown-beatdown.json](./238769-beeftown-beatdown.json) |
 | Beefy Brad the Muscle Man | 265735 | [265735-beefy-brad-the-muscle-man.json](./265735-beefy-brad-the-muscle-man.json) |
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
+| Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beekyr | 114307 | [114307-beekyr.json](./114307-beekyr.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
