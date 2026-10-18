@@ -13177,6 +13177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
 | Sorority Panty Raid | 337138 | [337138-sorority-panty-raid.json](./337138-sorority-panty-raid.json) |
+| Sorrow | 328854 | [328854-sorrow.json](./328854-sorrow.json) |
 | Sorrow Asylum | 259621 | [259621-sorrow-asylum.json](./259621-sorrow-asylum.json) |
 | Sorrow Asylum 2 | 264627 | [264627-sorrow-asylum-2.json](./264627-sorrow-asylum-2.json) |
 | Sorrow Asylum 3 | 309515 | [309515-sorrow-asylum-3.json](./309515-sorrow-asylum-3.json) |
