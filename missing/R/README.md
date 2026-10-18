@@ -245,6 +245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race 07: STCC - The Game 2 | 164386 | [164386-race-07-stcc-the-game-2.json](./164386-race-07-stcc-the-game-2.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
+| Race Car | 347004 | [347004-race-car.json](./347004-race-car.json) |
 | Race Condition | 143122 | [143122-race-condition.json](./143122-race-condition.json) |
 | Race Day Rampage | 208312 | [208312-race-day-rampage.json](./208312-race-day-rampage.json) |
 | Race Days | 49009 | [49009-race-days.json](./49009-race-days.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
 | Relaxation balls | 30765 | [30765-relaxation-balls.json](./30765-relaxation-balls.json) |
+| Relaxe | 346928 | [346928-relaxe.json](./346928-relaxe.json) |
 | Relaxicon | 90833 | [90833-relaxicon.json](./90833-relaxicon.json) |
 | Relaxing Art Bundle | 231052 | [231052-relaxing-art-bundle.json](./231052-relaxing-art-bundle.json) |
 | Relaxing Farm: Merge Tales | 348805 | [348805-relaxing-farm-merge-tales.json](./348805-relaxing-farm-merge-tales.json) |
@@ -6578,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoBros | 43442 | [43442-robros.json](./43442-robros.json) |
 | Robscarf | 180619 | [180619-robscarf.json](./180619-robscarf.json) |
 | Robsu e o Caminho da Água | 142249 | [142249-robsu-e-o-caminho-da-agua.json](./142249-robsu-e-o-caminho-da-agua.json) |
+| Robug Rampage | 346930 | [346930-robug-rampage.json](./346930-robug-rampage.json) |
 | Roburst | 199647 | [199647-roburst.json](./199647-roburst.json) |
 | Robzawar | 295395 | [295395-robzawar.json](./295395-robzawar.json) |
 | Roc 'N Rope | 25727 | [25727-roc-n-rope.json](./25727-roc-n-rope.json) |
