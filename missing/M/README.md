@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
 | Maths Circus Act 6 | 76592 | [76592-maths-circus-act-6.json](./76592-maths-circus-act-6.json) |
+| Maths Pals | 341278 | [341278-maths-pals.json](./341278-maths-pals.json) |
 | Maths Planets | 105932 | [105932-maths-planets.json](./105932-maths-planets.json) |
 | Maths Play: Have Fun with Numbers! | 159043 | [159043-maths-play-have-fun-with-numbers.json](./159043-maths-play-have-fun-with-numbers.json) |
 | Maths War | 266147 | [266147-maths-war.json](./266147-maths-war.json) |
@@ -4658,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me & My Katamari | 6455 | [6455-me-and-my-katamari.json](./6455-me-and-my-katamari.json) |
 | Me & My Pets 3D | 85277 | [85277-me-and-my-pets-3d.json](./85277-me-and-my-pets-3d.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
+| Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
 | Me Alone Reissue | 203843 | [203843-me-alone-reissue.json](./203843-me-alone-reissue.json) |
 | Me and My Cat's Island | 285915 | [285915-me-and-my-cats-island.json](./285915-me-and-my-cats-island.json) |
 | Me and My Dinosaur | 58696 | [58696-me-and-my-dinosaur.json](./58696-me-and-my-dinosaur.json) |
@@ -9462,6 +9464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
+| MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
@@ -9825,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss World '96 | 38567 | [38567-miss-world-96.json](./38567-miss-world-96.json) |
 | Miss World '96: Nude | 63152 | [63152-miss-world-96-nude.json](./63152-miss-world-96-nude.json) |
 | Miss You | 157915 | [157915-miss-you.json](./157915-miss-you.json) |
+| Missão Bioma | 341277 | [341277-missao-bioma.json](./341277-missao-bioma.json) |
 | Misshapen | 128977 | [128977-misshapen.json](./128977-misshapen.json) |
 | Missile Attack | 245437 | [245437-missile-attack.json](./245437-missile-attack.json) |
 | Missile Attack | 71157 | [71157-missile-attack.json](./71157-missile-attack.json) |
@@ -13923,6 +13927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on Snake Road | 66961 | [66961-murder-on-snake-road.json](./66961-murder-on-snake-road.json) |
 | Murder on the Disorient Express | 406054 | [406054-murder-on-the-disorient-express.json](./406054-murder-on-the-disorient-express.json) |
 | Murder on the Island | 116871 | [116871-murder-on-the-island.json](./116871-murder-on-the-island.json) |
+| Murder on the Links | 341298 | [341298-murder-on-the-links.json](./341298-murder-on-the-links.json) |
 | Murder on the Marine Express | 151690 | [151690-murder-on-the-marine-express.json](./151690-murder-on-the-marine-express.json) |
 | Murder on the Mississippi | 26392 | [26392-murder-on-the-mississippi.json](./26392-murder-on-the-mississippi.json) |
 | Murder on the Spaceship Altair | 312330 | [312330-murder-on-the-spaceship-altair.json](./312330-murder-on-the-spaceship-altair.json) |
