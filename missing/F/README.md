@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faust Duel | 373112 | [373112-faust-duel.json](./373112-faust-duel.json) |
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
+| Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favela Wars | 62612 | [62612-favela-wars.json](./62612-favela-wars.json) |
