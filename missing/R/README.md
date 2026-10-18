@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Bungeling Bay | 24664 | [24664-raid-on-bungeling-bay.json](./24664-raid-on-bungeling-bay.json) |
 | Raid on Bungeling Bay | 287592 | [287592-raid-on-bungeling-bay.json](./287592-raid-on-bungeling-bay.json) |
 | Raid on Coasts | 51574 | [51574-raid-on-coasts.json](./51574-raid-on-coasts.json) |
+| Raid on Rift | 310806 | [310806-raid-on-rift.json](./310806-raid-on-rift.json) |
 | Raid on the Ruhr | 116248 | [116248-raid-on-the-ruhr.json](./116248-raid-on-the-ruhr.json) |
 | Raid on Tri City | 306721 | [306721-raid-on-tri-city.json](./306721-raid-on-tri-city.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
@@ -1317,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
+| Random Core Defense | 310816 | [310816-random-core-defense.json](./310816-random-core-defense.json) |
 | Random Deck | 341309 | [341309-random-deck.json](./341309-random-deck.json) |
 | Random Dice | 137650 | [137650-random-dice.json](./137650-random-dice.json) |
 | Random Dice: Go | 239620 | [239620-random-dice-go.json](./239620-random-dice-go.json) |
@@ -6335,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: The Legend of Sherwood | 851 | [851-robin-hood-the-legend-of-sherwood.json](./851-robin-hood-the-legend-of-sherwood.json) |
 | Robin Hood: The Siege | 141092 | [141092-robin-hood-the-siege.json](./141092-robin-hood-the-siege.json) |
 | Robin Hood's Quest | 43558 | [43558-robin-hoods-quest.json](./43558-robin-hoods-quest.json) |
+| Robin In Da Hood | 310796 | [310796-robin-in-da-hood.json](./310796-robin-in-da-hood.json) |
 | Robin Lloyd no Bouken | 62988 | [62988-robin-lloyd-no-bouken.json](./62988-robin-lloyd-no-bouken.json) |
 | Robin Morningwood Adventure: A Gay RPG | 156097 | [156097-robin-morningwood-adventure-a-gay-rpg.json](./156097-robin-morningwood-adventure-a-gay-rpg.json) |
 | Robin Morningwood Adventure: Attack of the Gay Clones | 244694 | [244694-robin-morningwood-adventure-attack-of-the-gay-clones.json](./244694-robin-morningwood-adventure-attack-of-the-gay-clones.json) |
@@ -7935,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room.txt | 408703 | [408703-room-txt.json](./408703-room-txt.json) |
 | Room13 | 17669 | [17669-room13.json](./17669-room13.json) |
 | Room231 | 297206 | [297206-room231.json](./297206-room231.json) |
+| Room2Room | 310814 | [310814-room2room.json](./310814-room2room.json) |
 | Roomates | 82053 | [82053-roomates.json](./82053-roomates.json) |
 | Roomba May Cry | 185116 | [185116-roomba-may-cry.json](./185116-roomba-may-cry.json) |
 | Roomba Out! | 302143 | [302143-roomba-out.json](./302143-roomba-out.json) |
@@ -9076,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
 | RuneStone Keeper & YourToy & Distrust Bundle | 301565 | [301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json](./301565-runestone-keeper-and-yourtoy-and-distrust-bundle.json) |
+| Runet Legend | 310799 | [310799-runet-legend.json](./310799-runet-legend.json) |
 | RuneTech | 101341 | [101341-runetech.json](./101341-runetech.json) |
 | Runeth | 385723 | [385723-runeth.json](./385723-runeth.json) |
 | Runeveil | 383632 | [383632-runeveil.json](./383632-runeveil.json) |
