@@ -14083,6 +14083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Deck Commander | 340195 | [340195-space-invaders-deck-commander.json](./340195-space-invaders-deck-commander.json) |
+| Space Invaders: Infinity Gene Evolve | 335142 | [335142-space-invaders-infinity-gene-evolve.json](./335142-space-invaders-infinity-gene-evolve.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
 | Space Invaders: The Original Game | 210577 | [210577-space-invaders-the-original-game.json](./210577-space-invaders-the-original-game.json) |
@@ -18506,6 +18507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Dread: The Submarine | 376689 | [376689-static-dread-the-submarine.json](./376689-static-dread-the-submarine.json) |
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Memory | 350232 | [350232-static-memory.json](./350232-static-memory.json) |
+| Static Paradox | 335056 | [335056-static-paradox.json](./335056-static-paradox.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
 | Static Shock | 101455 | [101455-static-shock.json](./101455-static-shock.json) |
 | Static Signal | 375824 | [375824-static-signal.json](./375824-static-signal.json) |
@@ -24730,6 +24732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: In-Dome Buildings Pack | 215400 | [215400-surviving-mars-in-dome-buildings-pack.json](./215400-surviving-mars-in-dome-buildings-pack.json) |
 | Surviving Mars: Marsvision Song Contest | 154933 | [154933-surviving-mars-marsvision-song-contest.json](./154933-surviving-mars-marsvision-song-contest.json) |
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
+| Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
 | Surviving Purge | 380770 | [380770-surviving-purge.json](./380770-surviving-purge.json) |
@@ -25017,6 +25020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap. | 232037 | [232037-swap.json](./232037-swap.json) |
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
+| SwapFell: I Hate You. | 335064 | [335064-swapfell-i-hate-you.json](./335064-swapfell-i-hate-you.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
 | Swapologic | 233517 | [233517-swapologic.json](./233517-swapologic.json) |
