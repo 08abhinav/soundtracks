@@ -7600,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Blowout | 30741 | [30741-block-blowout.json](./30741-block-blowout.json) |
 | Block Bot: Puzzle Journey | 312158 | [312158-block-bot-puzzle-journey.json](./312158-block-bot-puzzle-journey.json) |
 | Block Bounce | 368489 | [368489-block-bounce.json](./368489-block-bounce.json) |
+| Block Boy | 311359 | [311359-block-boy.json](./311359-block-boy.json) |
 | Block Brain | 239885 | [239885-block-brain.json](./239885-block-brain.json) |
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Breaker | 338246 | [338246-block-breaker.json](./338246-block-breaker.json) |
@@ -9934,6 +9935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Match | 66567 | [66567-boulder-match.json](./66567-boulder-match.json) |
 | Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
+| Boulderdash | 311358 | [311358-boulderdash.json](./311358-boulderdash.json) |
 | Boulderdash | 47237 | [47237-boulderdash.json](./47237-boulderdash.json) |
 | Bouldering Robot 3D | 192272 | [192272-bouldering-robot-3d.json](./192272-bouldering-robot-3d.json) |
 | Boulderoid | 125147 | [125147-boulderoid.json](./125147-boulderoid.json) |
