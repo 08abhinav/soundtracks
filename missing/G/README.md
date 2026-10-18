@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters II | 14555 | [14555-ghostbusters-ii.json](./14555-ghostbusters-ii.json) |
 | Ghostbusters II | 218947 | [218947-ghostbusters-ii.json](./218947-ghostbusters-ii.json) |
 | Ghostbusters II | 266840 | [266840-ghostbusters-ii.json](./266840-ghostbusters-ii.json) |
+| Ghostbusters II | 317064 | [317064-ghostbusters-ii.json](./317064-ghostbusters-ii.json) |
 | Ghostbusters Pinball | 58665 | [58665-ghostbusters-pinball.json](./58665-ghostbusters-pinball.json) |
 | Ghostbusters Puzzle Fighter | 60235 | [60235-ghostbusters-puzzle-fighter.json](./60235-ghostbusters-puzzle-fighter.json) |
 | Ghostbusters Remastered | 215858 | [215858-ghostbusters-remastered.json](./215858-ghostbusters-remastered.json) |
@@ -6356,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green | 133321 | [133321-green.json](./133321-green.json) |
 | Green Alert | 368274 | [368274-green-alert.json](./368274-green-alert.json) |
 | Green Bakery | 332278 | [332278-green-bakery.json](./332278-green-bakery.json) |
+| Green Biker Dude | 317088 | [317088-green-biker-dude.json](./317088-green-biker-dude.json) |
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
@@ -6607,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridland | 256369 | [256369-gridland.json](./256369-gridland.json) |
 | Gridle | 372494 | [372494-gridle.json](./372494-gridle.json) |
 | Gridlee | 39533 | [39533-gridlee.json](./39533-gridlee.json) |
+| Gridlink | 317079 | [317079-gridlink.json](./317079-gridlink.json) |
 | Gridlock | 185555 | [185555-gridlock.json](./185555-gridlock.json) |
 | Gridlock | 356703 | [356703-gridlock.json](./356703-gridlock.json) |
 | Gridlock Dungeon | 297221 | [297221-gridlock-dungeon.json](./297221-gridlock-dungeon.json) |
@@ -7395,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gugong | 291720 | [291720-gugong.json](./291720-gugong.json) |
 | GuGu Pizza: Delivering Pizza to the Space Station? Boss, This is Just Not Right! | 328947 | [328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json](./328947-gugu-pizza-delivering-pizza-to-the-space-station-boss-this-is-just-not-right.json) |
 | Gui Chu Da Mao Xian | 369566 | [369566-gui-chu-da-mao-xian.json](./369566-gui-chu-da-mao-xian.json) |
+| Gui Long Chao | 317049 | [317049-gui-long-chao.json](./317049-gui-long-chao.json) |
 | Guǐchù Zhànjì: Jīnkēlā Chuánshuō | 120722 | [120722-guichu-zhanji-jinkela-chuanshuo.json](./120722-guichu-zhanji-jinkela-chuanshuo.json) |
 | Guidance | 222349 | [222349-guidance.json](./222349-guidance.json) |
 | Guide of the Butterfly | 134939 | [134939-guide-of-the-butterfly.json](./134939-guide-of-the-butterfly.json) |
