@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
 | Bako | 190934 | [190934-bako.json](./190934-bako.json) |
+| Bakobako | 341832 | [341832-bakobako.json](./341832-bakobako.json) |
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Baku | 69785 | [69785-baku-baku.json](./69785-baku-baku.json) |
@@ -5920,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
 | Bionicle: The Legend of Mata Nui | 127645 | [127645-bionicle-the-legend-of-mata-nui.json](./127645-bionicle-the-legend-of-mata-nui.json) |
+| Bionicle: The Legend of Mata Nui Rebuilt | 341838 | [341838-bionicle-the-legend-of-mata-nui-rebuilt.json](./341838-bionicle-the-legend-of-mata-nui-rebuilt.json) |
 | Bionite: Origins | 34105 | [34105-bionite-origins.json](./34105-bionite-origins.json) |
 | BioOcean Fantasy | 196528 | [196528-bioocean-fantasy.json](./196528-bioocean-fantasy.json) |
 | Biophage | 316701 | [316701-biophage.json](./316701-biophage.json) |
@@ -6117,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
+| Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
@@ -9610,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born Anew | 211257 | [211257-born-anew.json](./211257-born-anew.json) |
 | Born as a Pirate | 349513 | [349513-born-as-a-pirate.json](./349513-born-as-a-pirate.json) |
 | Born in Blood | 224784 | [224784-born-in-blood.json](./224784-born-in-blood.json) |
+| Born in Chaos | 341939 | [341939-born-in-chaos.json](./341939-born-in-chaos.json) |
 | Born In Reverie | 267859 | [267859-born-in-reverie.json](./267859-born-in-reverie.json) |
 | Born Into Darkness | 341059 | [341059-born-into-darkness.json](./341059-born-into-darkness.json) |
 | Born Into Fear | 164980 | [164980-born-into-fear.json](./164980-born-into-fear.json) |
@@ -12704,6 +12708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Angels | 266889 | [266889-burning-angels.json](./266889-burning-angels.json) |
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
+| Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
 | Burning Daylight | 116695 | [116695-burning-daylight.json](./116695-burning-daylight.json) |
