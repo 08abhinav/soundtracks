@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumeutsutsu Re:Master Bundle Pack | 144205 | [144205-yumeutsutsu-re-master-bundle-pack.json](./144205-yumeutsutsu-re-master-bundle-pack.json) |
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
 | Yumiko in the Haunted Mansion | 220776 | [220776-yumiko-in-the-haunted-mansion.json](./220776-yumiko-in-the-haunted-mansion.json) |
+| Yumm | 343615 | [343615-yumm.json](./343615-yumm.json) |
 | Yumm Monsters | 256244 | [256244-yumm-monsters.json](./256244-yumm-monsters.json) |
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
 | Yummy | 156590 | [156590-yummy.json](./156590-yummy.json) |
