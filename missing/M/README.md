@@ -13120,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MovieStarPlanet | 94981 | [94981-moviestarplanet.json](./94981-moviestarplanet.json) |
 | MovieStarPlanet 2 | 151468 | [151468-moviestarplanet-2.json](./151468-moviestarplanet-2.json) |
 | Moving | 262271 | [262271-moving.json](./262271-moving.json) |
+| Moving Ball | 341834 | [341834-moving-ball.json](./341834-moving-ball.json) |
 | Moving Blocks Puzzle | 251550 | [251550-moving-blocks-puzzle.json](./251550-moving-blocks-puzzle.json) |
 | Moving Blocks the Identicons Challenge | 251489 | [251489-moving-blocks-the-identicons-challenge.json](./251489-moving-blocks-the-identicons-challenge.json) |
 | Moving Corpse | 258030 | [258030-moving-corpse.json](./258030-moving-corpse.json) |
