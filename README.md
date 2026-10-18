@@ -1752,6 +1752,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27321f8885d43d4707e29aac4c0" width="60" /> | [Watch Dogs](https://ostdb.net/games/watch-dogs) | **Watch Dogs (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4hiJZ2ddV6Ny31J6aHBVKk) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273e9d9db2218bb7e0e0ff8887f" width="60" /> | [Watch Dogs 2](https://ostdb.net/games/watch-dogs-2) | **Watch Dogs 2 Original Game Soundtrack** · [Spotify](https://open.spotify.com/album/2jD8KimPoLcPE21gK3i1Sr) · [Apple Music](https://music.apple.com/us/album/dedsec-watch-dogs-2-original-game-soundtrack/1168661969) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a6bdb2a2ea2a62667b039cf4" width="60" /> | [Watch Dogs: Legion](https://ostdb.net/games/watch-dogs-legion) | **Watch Dogs: Legion (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6k0WbEKdmZyLaYtl1JvP06)<br>**Watch Dogs: Legion - Bloodline (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4DPKq0deFUNjGT9ESuY9HB) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f2581a5080f220ee8c94ef46" width="60" /> | [Wavetale](https://ostdb.net/games/wavetale) | **WaveTale (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6dXPJXdeFVqWyAmgrqTTGv) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2739414853acdfc57f739587c75" width="60" /> | [We Love Katamari](https://ostdb.net/games/we-love-katamari) | **We Love Katamari Original Soundtrack -Katamari wa Damacy** · [Spotify](https://open.spotify.com/album/0oejuGAw55lR5jOY1QG6wy) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/21/9b/6b/219b6b5d-46fc-6b09-a1ab-71632e2c56ff/artwork.jpg/600x600bb.jpg" width="60" /> | [We Were Here](https://ostdb.net/games/we-were-here) | **We Were Here (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4yXQDurlThMV5D1DaAZPtq) · [Apple Music](https://music.apple.com/us/album/we-were-here-original-game-soundtrack/1491055553) · [Album](https://album.link/i/1491055553) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27300613f5902f8da45d4bb0f1c" width="60" /> | [We Were Here Expeditions: The FriendShip](https://ostdb.net/games/we-were-here-expeditions-the-friendship) | **We Were Here Expeditions: The FriendShip (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6Wxf6H5U1RSotDI0lsdRxE) |
@@ -1848,4 +1849,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2165 soundtracks · last updated 2026-10-18T08:36:30.328Z_
+_2166 soundtracks · last updated 2026-10-18T08:36:36.828Z_
