@@ -1640,6 +1640,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2737678962264bc2a62cca543e0" width="60" /> | [Tomb Raider](https://ostdb.net/games/tomb-raider) | **Tomb Raider (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737678962264bc2a62cca543e0" width="60" /> | [Tomb Raider](https://ostdb.net/games/tomb-raider) | **Tomb Raider (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/44UET2RaWhgHXIwiZAF0EN) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27362316bb9e82077056586e6a0" width="60" /> | [Tony Hawk's American Wasteland](https://ostdb.net/games/tony-hawks-american-wasteland) | **Tony Hawk's American Wasteland Soundtrack** · [Spotify](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273b6e741b28b65b639d27ac6b0" width="60" /> | [Torchlight: Infinite](https://ostdb.net/games/torchlight-infinite) | **Torchlight: Infinite (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5wSG0yYvL6dbTC6HmIQixj) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f80136b390d2773c39ac8d41" width="60" /> | [Toree 3D](https://ostdb.net/games/toree-3d) | **Toree 3D (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1aayagi8tVcCJSvedWQV4n) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27345642ade19ea9bd012d7816e" width="60" /> | [Tormented Souls](https://ostdb.net/games/tormented-souls) | **Tormented Souls (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/1cSX23oPnGkmUwDyoa3lAT) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/04/0a/2b/040a2b59-f120-ace4-de93-54e7c963e0cf/199999460152.png/1000x1000bb.jpg" width="60" /> | [Tormented Souls II](https://ostdb.net/games/tormented-souls-ii) | **Tormented Souls 2 (Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/tormented-souls-2-original-soundtrack/1847460718?uo=4) · [Album](https://album.link/i/1847460718) |
@@ -1845,4 +1846,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2162 soundtracks · last updated 2026-10-18T08:36:06.297Z_
+_2163 soundtracks · last updated 2026-10-18T08:36:15.565Z_
