@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Cats: Spooky | 393712 | [393712-secret-cats-spooky.json](./393712-secret-cats-spooky.json) |
 | Secret Cats: Spring Festival | 329765 | [329765-secret-cats-spring-festival.json](./329765-secret-cats-spring-festival.json) |
 | Secret Cats: Zoo | 315300 | [315300-secret-cats-zoo.json](./315300-secret-cats-zoo.json) |
+| Secret Challenge | 342494 | [342494-secret-challenge.json](./342494-secret-challenge.json) |
 | Secret City: Chalk of Fate | 139731 | [139731-secret-city-chalk-of-fate.json](./139731-secret-city-chalk-of-fate.json) |
 | Secret City: Chalk of Fate - Collector's Edition | 129214 | [129214-secret-city-chalk-of-fate-collectors-edition.json](./129214-secret-city-chalk-of-fate-collectors-edition.json) |
 | Secret City: London Calling | 396448 | [396448-secret-city-london-calling.json](./396448-secret-city-london-calling.json) |
@@ -15622,6 +15623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
+| Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
