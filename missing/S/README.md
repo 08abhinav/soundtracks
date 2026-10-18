@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor Moon S: Kotaete Moon Call! | 230284 | [230284-sailor-moon-s-kotaete-moon-call.json](./230284-sailor-moon-s-kotaete-moon-call.json) |
 | Sailor Strike | 142097 | [142097-sailor-strike.json](./142097-sailor-strike.json) |
 | Sailor Zombie: AKB48 Arcade Edition | 360054 | [360054-sailor-zombie-akb48-arcade-edition.json](./360054-sailor-zombie-akb48-arcade-edition.json) |
+| Sailor's Grave | 323572 | [323572-sailors-grave.json](./323572-sailors-grave.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
@@ -22918,6 +22919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario All-Stars | 5199 | [5199-super-mario-all-stars.json](./5199-super-mario-all-stars.json) |
 | Super Mario All-Stars NES | 372201 | [372201-super-mario-all-stars-nes.json](./372201-super-mario-all-stars-nes.json) |
 | Super Mario All-Stars: Limited Edition | 84920 | [84920-super-mario-all-stars-limited-edition.json](./84920-super-mario-all-stars-limited-edition.json) |
+| Super Mario All-Stars++ | 323589 | [323589-super-mario-all-stars.json](./323589-super-mario-all-stars.json) |
 | Super Mario and the Cosmic Catalyst | 336107 | [336107-super-mario-and-the-cosmic-catalyst.json](./336107-super-mario-and-the-cosmic-catalyst.json) |
 | Super Mario and the Cursed Castles | 135216 | [135216-super-mario-and-the-cursed-castles.json](./135216-super-mario-and-the-cursed-castles.json) |
 | Super Mario and the Koopa Power | 358441 | [358441-super-mario-and-the-koopa-power.json](./358441-super-mario-and-the-koopa-power.json) |
@@ -23027,6 +23029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario DX | 210709 | [210709-super-mario-dx.json](./210709-super-mario-dx.json) |
 | Super Mario Dynamo | 320230 | [320230-super-mario-dynamo.json](./320230-super-mario-dynamo.json) |
 | Super Mario Eclipse | 320228 | [320228-super-mario-eclipse.json](./320228-super-mario-eclipse.json) |
+| Super Mario Endgame | 323586 | [323586-super-mario-endgame.json](./323586-super-mario-endgame.json) |
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
@@ -23160,6 +23163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Sunshine Seaside | 281016 | [281016-super-mario-sunshine-seaside.json](./281016-super-mario-sunshine-seaside.json) |
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario the Nightshift | 324006 | [324006-super-mario-the-nightshift.json](./324006-super-mario-the-nightshift.json) |
+| Super Mario Ticks of Time | 323582 | [323582-super-mario-ticks-of-time.json](./323582-super-mario-ticks-of-time.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
 | Super Mario Treasure World | 368158 | [368158-super-mario-treasure-world.json](./368158-super-mario-treasure-world.json) |
 | Super Mario Turd Collection | 322698 | [322698-super-mario-turd-collection.json](./322698-super-mario-turd-collection.json) |
@@ -23234,6 +23238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario: Turd Feast 2 | 322697 | [322697-super-mario-turd-feast-2.json](./322697-super-mario-turd-feast-2.json) |
 | Super Mario.exe Reborn | 323877 | [323877-super-mario-exe-reborn.json](./323877-super-mario-exe-reborn.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
+| Super Mario's Shroom Shines Escapade | 323585 | [323585-super-marios-shroom-shines-escapade.json](./323585-super-marios-shroom-shines-escapade.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
 | Super Mariomon | 338407 | [338407-super-mariomon.json](./338407-super-mariomon.json) |
 | Super Marisa Land | 77632 | [77632-super-marisa-land.json](./77632-super-marisa-land.json) |
