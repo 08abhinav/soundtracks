@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
+| Deadly Delivery | 344162 | [344162-deadly-delivery.json](./344162-deadly-delivery.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
