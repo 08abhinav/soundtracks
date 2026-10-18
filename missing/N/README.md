@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
+| Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
 | Nano Project | 28674 | [28674-nano-project.json](./28674-nano-project.json) |
 | Nano Reef | 405538 | [405538-nano-reef.json](./405538-nano-reef.json) |
 | Nano Shift VR | 48000 | [48000-nano-shift-vr.json](./48000-nano-shift-vr.json) |
@@ -4171,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
+| No Ducks Given | 317707 | [317707-no-ducks-given.json](./317707-no-ducks-given.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
 | No End | 350397 | [350397-no-end.json](./350397-no-end.json) |
 | No Entry | 378605 | [378605-no-entry.json](./378605-no-entry.json) |
