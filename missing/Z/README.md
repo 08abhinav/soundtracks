@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Alert | 172069 | [172069-zombie-alert.json](./172069-zombie-alert.json) |
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
+| Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
 | Zombie Apocalypse | 147819 | [147819-zombie-apocalypse.json](./147819-zombie-apocalypse.json) |
 | Zombie Apocalypse 2021 | 154381 | [154381-zombie-apocalypse-2021.json](./154381-zombie-apocalypse-2021.json) |
 | Zombie Apocalypse Survivor | 99616 | [99616-zombie-apocalypse-survivor.json](./99616-zombie-apocalypse-survivor.json) |
