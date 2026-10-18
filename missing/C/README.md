@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppie's | 236541 | [236541-choppies.json](./236541-choppies.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
+| Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Chordata | 280459 | [280459-chordata.json](./280459-chordata.json) |
 | Chordosis | 266874 | [266874-chordosis.json](./266874-chordosis.json) |
 | Chords Enchanter | 292685 | [292685-chords-enchanter.json](./292685-chords-enchanter.json) |
@@ -8665,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
+| Coloring Pixels: r/Place Pack | 350763 | [350763-coloring-pixels-r-place-pack.json](./350763-coloring-pixels-r-place-pack.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Realistic Pack | 162605 | [162605-coloring-pixels-realistic-pack.json](./162605-coloring-pixels-realistic-pack.json) |
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
@@ -11658,6 +11660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
 | Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
+| Crayon Dino | 350861 | [350861-crayon-dino.json](./350861-crayon-dino.json) |
 | Crayon Food | 378793 | [378793-crayon-food.json](./378793-crayon-food.json) |
 | Crayon Little Dino | 393416 | [393416-crayon-little-dino.json](./393416-crayon-little-dino.json) |
 | Crayon Magic World | 402566 | [402566-crayon-magic-world.json](./402566-crayon-magic-world.json) |
