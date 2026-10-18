@@ -2508,6 +2508,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
 | Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
+| Payday 3: Fear & Greed Heist | 338033 | [338033-payday-3-fear-and-greed-heist.json](./338033-payday-3-fear-and-greed-heist.json) |
+| Payday 3: Fear & Greed Tailor Pack | 338034 | [338034-payday-3-fear-and-greed-tailor-pack.json](./338034-payday-3-fear-and-greed-tailor-pack.json) |
+| Payday 3: Fear & Greed Weapon Pack | 338035 | [338035-payday-3-fear-and-greed-weapon-pack.json](./338035-payday-3-fear-and-greed-weapon-pack.json) |
 | Payday 3: Gold Edition | 252878 | [252878-payday-3-gold-edition.json](./252878-payday-3-gold-edition.json) |
 | Payday 3: Gold Pass | 314515 | [314515-payday-3-gold-pass.json](./314515-payday-3-gold-pass.json) |
 | Payday 3: Houston Breakout Heist | 314518 | [314518-payday-3-houston-breakout-heist.json](./314518-payday-3-houston-breakout-heist.json) |
