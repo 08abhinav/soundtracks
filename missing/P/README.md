@@ -5764,6 +5764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Coloring Paint | 283262 | [283262-pixel-coloring-paint.json](./283262-pixel-coloring-paint.json) |
 | Pixel Combat | 149088 | [149088-pixel-combat.json](./149088-pixel-combat.json) |
 | Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
+| Pixel Cross Stitch Color by Number - Winter Pack | 334566 | [334566-pixel-cross-stitch-color-by-number-winter-pack.json](./334566-pixel-cross-stitch-color-by-number-winter-pack.json) |
 | Pixel Cross Stitch Color by Number: Miniatures | 409552 | [409552-pixel-cross-stitch-color-by-number-miniatures.json](./409552-pixel-cross-stitch-color-by-number-miniatures.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Miniatures Pack | 377602 | [377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json](./377602-pixel-cross-stitch-color-by-number-autumn-miniatures-pack.json) |
 | Pixel Cross Stitch: Color by Number - Autumn Pack 3 | 377606 | [377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json](./377606-pixel-cross-stitch-color-by-number-autumn-pack-3.json) |
@@ -5781,6 +5782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack | 374126 | [374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json](./374126-pixel-cross-stitch-color-by-number-tiny-vehicles-pack.json) |
 | Pixel Cross Stitch: Color by Number - Tiny Vehicles Pack 2 | 377603 | [377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json](./377603-pixel-cross-stitch-color-by-number-tiny-vehicles-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Vacations Pack | 361226 | [361226-pixel-cross-stitch-color-by-number-vacations-pack.json](./361226-pixel-cross-stitch-color-by-number-vacations-pack.json) |
+| Pixel Cross Stitch: Color by Number - Valentine's Day Pack | 334564 | [334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json](./334564-pixel-cross-stitch-color-by-number-valentines-day-pack.json) |
+| Pixel Cross Stitch: Color by Number - Valentine's Day Pack 2 | 334565 | [334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json](./334565-pixel-cross-stitch-color-by-number-valentines-day-pack-2.json) |
 | Pixel Cross Stitch: Color by Number - Women At Work Pack | 383178 | [383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json](./383178-pixel-cross-stitch-color-by-number-women-at-work-pack.json) |
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
