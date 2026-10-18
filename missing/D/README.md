@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DepthLess | 349450 | [349450-depthless.json](./349450-depthless.json) |
 | DepthMera | 55511 | [55511-depthmera.json](./55511-depthmera.json) |
 | Depthris | 263973 | [263973-depthris.json](./263973-depthris.json) |
+| Depths Debris | 339074 | [339074-depths-debris.json](./339074-depths-debris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
@@ -9658,6 +9659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
 | Dotzz | 26536 | [26536-dotzz.json](./26536-dotzz.json) |
+| Dou! | 339065 | [339065-dou.json](./339065-dou.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double 345 Slots | 232352 | [232352-double-345-slots.json](./232352-double-345-slots.json) |
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
@@ -10597,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Must Die | 215917 | [215917-dragon-must-die.json](./215917-dragon-must-die.json) |
 | Dragon Nest | 23921 | [23921-dragon-nest.json](./23921-dragon-nest.json) |
 | Dragon Nest 2 | 193839 | [193839-dragon-nest-2.json](./193839-dragon-nest-2.json) |
+| Dragon Nest Classic | 339146 | [339146-dragon-nest-classic.json](./339146-dragon-nest-classic.json) |
 | Dragon Nest Escape | 315645 | [315645-dragon-nest-escape.json](./315645-dragon-nest-escape.json) |
 | Dragon Nest M | 104643 | [104643-dragon-nest-m.json](./104643-dragon-nest-m.json) |
 | Dragon Nest: Rebirth of Legend | 345998 | [345998-dragon-nest-rebirth-of-legend.json](./345998-dragon-nest-rebirth-of-legend.json) |
@@ -11073,6 +11076,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw World | 346538 | [346538-draw-world.json](./346538-draw-world.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
+| Draw-Play | 339158 | [339158-draw-play.json](./339158-draw-play.json) |
+| Draw-Play 2 | 339159 | [339159-draw-play-2.json](./339159-draw-play-2.json) |
+| Draw-Play 3 | 339160 | [339160-draw-play-3.json](./339160-draw-play-3.json) |
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
@@ -13179,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Premium Race - Warforged | 338768 | [338768-dungeons-and-dragons-online-premium-race-warforged.json](./338768-dungeons-and-dragons-online-premium-race-warforged.json) |
 | Dungeons & Dragons Online: Ruins of Gianthold | 349722 | [349722-dungeons-and-dragons-online-ruins-of-gianthold.json](./349722-dungeons-and-dragons-online-ruins-of-gianthold.json) |
 | Dungeons & Dragons Online: Secrets of the Artificers | 349655 | [349655-dungeons-and-dragons-online-secrets-of-the-artificers.json](./349655-dungeons-and-dragons-online-secrets-of-the-artificers.json) |
+| Dungeons & Dragons Online: Shadow Under Thunderholme | 339140 | [339140-dungeons-and-dragons-online-shadow-under-thunderholme.json](./339140-dungeons-and-dragons-online-shadow-under-thunderholme.json) |
 | Dungeons & Dragons Online: Shadowfell Conspiracy | 47127 | [47127-dungeons-and-dragons-online-shadowfell-conspiracy.json](./47127-dungeons-and-dragons-online-shadowfell-conspiracy.json) |
 | Dungeons & Dragons Online: Tangleroot Gorge | 353656 | [353656-dungeons-and-dragons-online-tangleroot-gorge.json](./353656-dungeons-and-dragons-online-tangleroot-gorge.json) |
 | Dungeons & Dragons Online: Terror of Demogorgon | 407578 | [407578-dungeons-and-dragons-online-terror-of-demogorgon.json](./407578-dungeons-and-dragons-online-terror-of-demogorgon.json) |
@@ -13199,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Universal Tree - Horizon Walker | 349637 | [349637-dungeons-and-dragons-online-universal-tree-horizon-walker.json](./349637-dungeons-and-dragons-online-universal-tree-horizon-walker.json) |
 | Dungeons & Dragons Online: Universal Tree - Inquisitive | 349634 | [349634-dungeons-and-dragons-online-universal-tree-inquisitive.json](./349634-dungeons-and-dragons-online-universal-tree-inquisitive.json) |
 | Dungeons & Dragons Online: Universal Tree - Vistani Knife Fighter | 349642 | [349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json](./349642-dungeons-and-dragons-online-universal-tree-vistani-knife-fighter.json) |
+| Dungeons & Dragons Online: Vault of Night | 339142 | [339142-dungeons-and-dragons-online-vault-of-night.json](./339142-dungeons-and-dragons-online-vault-of-night.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dragonshard | 674 | [674-dungeons-and-dragons-dragonshard.json](./674-dungeons-and-dragons-dragonshard.json) |
