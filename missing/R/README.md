@@ -7440,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogun Arena | 165046 | [165046-rogun-arena.json](./165046-rogun-arena.json) |
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rogus: Kingdom of the Lost Souls | 35330 | [35330-rogus-kingdom-of-the-lost-souls.json](./35330-rogus-kingdom-of-the-lost-souls.json) |
+| Roguze | 311351 | [311351-roguze.json](./311351-roguze.json) |
 | Rohan II | 371876 | [371876-rohan-ii.json](./371876-rohan-ii.json) |
 | Rohan: Blood Feud | 79227 | [79227-rohan-blood-feud.json](./79227-rohan-blood-feud.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
