@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decks of Power | 235842 | [235842-decks-of-power.json](./235842-decks-of-power.json) |
 | Decks of the Damned | 282118 | [282118-decks-of-the-damned.json](./282118-decks-of-the-damned.json) |
 | Decksplash | 26943 | [26943-decksplash.json](./26943-decksplash.json) |
+| Decksplorers: Into the Shell | 320022 | [320022-decksplorers-into-the-shell.json](./320022-decksplorers-into-the-shell.json) |
 | Deckstrander | 257938 | [257938-deckstrander.json](./257938-deckstrander.json) |
 | Decktamer | 291367 | [291367-decktamer.json](./291367-decktamer.json) |
 | DeckTerra | 353644 | [353644-deckterra.json](./353644-deckterra.json) |
@@ -8170,6 +8171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
 | Doctrine: C.U.L.T. | 391702 | [391702-doctrine-c-u-l-t.json](./391702-doctrine-c-u-l-t.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
+| DodecaDragons | 320010 | [320010-dodecadragons.json](./320010-dodecadragons.json) |
 | Dodge | 154270 | [154270-dodge.json](./154270-dodge.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
