@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:06:20.168Z",
-  "total_soundtracks": 2198,
+  "generated_at": "2026-10-18T17:06:27.440Z",
+  "total_soundtracks": 2199,
   "games": [
     {
       "igdb_id": 7522,
@@ -17606,6 +17606,20 @@
           "album_name": "Ratchet & Clank: Rift Apart (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 204626,
+      "game_name": "Ravenlok",
+      "game_url": "https://ostdb.net/games/ravenlok",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d7130646551e8168a12371d8",
+      "albums": [
+        {
+          "album_name": "Ravenlok (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3rSW7SVByri73jaeqLMOrh",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
