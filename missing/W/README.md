@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
+| WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2009 | 344148 | [344148-wwe-smackdown-vs-raw-2009.json](./344148-wwe-smackdown-vs-raw-2009.json) |
 | WWE SmackDown vs. Raw 2009 | 344149 | [344149-wwe-smackdown-vs-raw-2009.json](./344149-wwe-smackdown-vs-raw-2009.json) |
 | WWE SmackDown vs. Raw 2010 | 5300 | [5300-wwe-smackdown-vs-raw-2010.json](./5300-wwe-smackdown-vs-raw-2010.json) |
