@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indy Cat and Ball of Fate | 59449 | [59449-indy-cat-and-ball-of-fate.json](./59449-indy-cat-and-ball-of-fate.json) |
 | Indy Pro '22: Rebirth of the Territories | 195633 | [195633-indy-pro-22-rebirth-of-the-territories.json](./195633-indy-pro-22-rebirth-of-the-territories.json) |
 | Indy Racing 2000 | 3395 | [3395-indy-racing-2000.json](./3395-indy-racing-2000.json) |
+| Indy y el pollo maldito | 323051 | [323051-indy-y-el-pollo-maldito.json](./323051-indy-y-el-pollo-maldito.json) |
 | IndyCar Racing | 77644 | [77644-indycar-racing.json](./77644-indycar-racing.json) |
 | IndyCar Racing II | 71514 | [71514-indycar-racing-ii.json](./71514-indycar-racing-ii.json) |
 | Indycar Racing: The Game | 410972 | [410972-indycar-racing-the-game.json](./410972-indycar-racing-the-game.json) |
@@ -4368,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is Your House Almost There? | 346720 | [346720-is-your-house-almost-there.json](./346720-is-your-house-almost-there.json) |
 | iS: internal section | 25094 | [25094-is-internal-section.json](./25094-is-internal-section.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
+| Isaac's Odyssey | 323024 | [323024-isaacs-odyssey.json](./323024-isaacs-odyssey.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
 | Isabelle | 112337 | [112337-isabelle.json](./112337-isabelle.json) |
