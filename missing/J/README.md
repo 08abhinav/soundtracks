@@ -1438,6 +1438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JigsawMania | 75710 | [75710-jigsawmania.json](./75710-jigsawmania.json) |
 | Jigsaws Galore | 86684 | [86684-jigsaws-galore.json](./86684-jigsaws-galore.json) |
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
+| Jigsort Journey: Puzzle Blend | 309725 | [309725-jigsort-journey-puzzle-blend.json](./309725-jigsort-journey-puzzle-blend.json) |
 | Jigsu | 79944 | [79944-jigsu.json](./79944-jigsu.json) |
 | Jigten: Mandala of Shadows | 376449 | [376449-jigten-mandala-of-shadows.json](./376449-jigten-mandala-of-shadows.json) |
 | Jigty Jigsaw Puzzles | 328004 | [328004-jigty-jigsaw-puzzles.json](./328004-jigty-jigsaw-puzzles.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johns.Game | 90482 | [90482-johns-game.json](./90482-johns-game.json) |
 | Johny Explorer | 231358 | [231358-johny-explorer.json](./231358-johny-explorer.json) |
 | Johou Battle | 274147 | [274147-johou-battle.json](./274147-johou-battle.json) |
+| JoiLab VR | 309755 | [309755-joilab-vr.json](./309755-joilab-vr.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
