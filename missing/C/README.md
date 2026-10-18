@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacho Quest | 318534 | [318534-cacho-quest.json](./318534-cacho-quest.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
+| Cacorm Mini | 345352 | [345352-cacorm-mini.json](./345352-cacorm-mini.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus | 261719 | [261719-cactus.json](./261719-cactus.json) |
@@ -648,6 +649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calling Home | 245792 | [245792-calling-home.json](./245792-calling-home.json) |
 | Calling of my Nightingales | 229589 | [229589-calling-of-my-nightingales.json](./229589-calling-of-my-nightingales.json) |
 | Callisto | 116934 | [116934-callisto.json](./116934-callisto.json) |
+| CallMara | 345253 | [345253-callmara.json](./345253-callmara.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
@@ -2082,6 +2084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carte Primus | 172453 | [172453-carte-primus.json](./172453-carte-primus.json) |
 | Carteado | 371974 | [371974-carteado.json](./371974-carteado.json) |
 | Cartefact | 403202 | [403202-cartefact.json](./403202-cartefact.json) |
+| Cartel Kings | 345267 | [345267-cartel-kings.json](./345267-cartel-kings.json) |
 | Cartel Pilots Wanted | 412957 | [412957-cartel-pilots-wanted.json](./412957-cartel-pilots-wanted.json) |
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
@@ -4433,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Cheating Fate | 177388 | [177388-cheating-fate.json](./177388-cheating-fate.json) |
 | Cheating Tom | 344015 | [344015-cheating-tom.json](./344015-cheating-tom.json) |
+| Cheating Tom 2 | 345271 | [345271-cheating-tom-2.json](./345271-cheating-tom-2.json) |
 | Cheats 4 Hire | 35148 | [35148-cheats-4-hire.json](./35148-cheats-4-hire.json) |
 | Check & Clean | 244332 | [244332-check-and-clean.json](./244332-check-and-clean.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
@@ -4813,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster Live: Mongol Chess Set | 347214 | [347214-chessmaster-live-mongol-chess-set.json](./347214-chessmaster-live-mongol-chess-set.json) |
 | Chessmaster Live: Mushrooms Set | 347139 | [347139-chessmaster-live-mushrooms-set.json](./347139-chessmaster-live-mushrooms-set.json) |
 | Chessmaster Live: Pyramids Chess Set | 347213 | [347213-chessmaster-live-pyramids-chess-set.json](./347213-chessmaster-live-pyramids-chess-set.json) |
+| Chessmaster Live: Rayman Raving Rabbids | 345272 | [345272-chessmaster-live-rayman-raving-rabbids.json](./345272-chessmaster-live-rayman-raving-rabbids.json) |
 | Chessmaster Live: Spheres Chess Set | 347212 | [347212-chessmaster-live-spheres-chess-set.json](./347212-chessmaster-live-spheres-chess-set.json) |
 | Chessmaster: Grandmaster Edition | 15884 | [15884-chessmaster-grandmaster-edition.json](./15884-chessmaster-grandmaster-edition.json) |
 | Chessmaster: The Art of Learning | 20777 | [20777-chessmaster-the-art-of-learning.json](./20777-chessmaster-the-art-of-learning.json) |
@@ -11169,6 +11174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Fire | 51122 | [51122-cozy-fire.json](./51122-cozy-fire.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
 | Cozy Forest | 369084 | [369084-cozy-forest.json](./369084-cozy-forest.json) |
+| Cozy Forge | 345255 | [345255-cozy-forge.json](./345255-cozy-forge.json) |
 | Cozy Garden | 372141 | [372141-cozy-garden.json](./372141-cozy-garden.json) |
 | Cozy Gardener Simulator | 350051 | [350051-cozy-gardener-simulator.json](./350051-cozy-gardener-simulator.json) |
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
@@ -13092,6 +13098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
 | Crux | 249347 | [249347-crux.json](./249347-crux.json) |
 | Crux 92 | 391805 | [391805-crux-92.json](./391805-crux-92.json) |
+| Crux Diaries | 345286 | [345286-crux-diaries.json](./345286-crux-diaries.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
