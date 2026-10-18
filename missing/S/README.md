@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling | 167600 | [167600-sapling.json](./167600-sapling.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
+| Sapo 2 | 332291 | [332291-sapo-2.json](./332291-sapo-2.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
@@ -12503,6 +12504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Genesis | 331990 | [331990-sonic-genesis.json](./331990-sonic-genesis.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
 | Sonic Gijinka | 331980 | [331980-sonic-gijinka.json](./331980-sonic-gijinka.json) |
+| Sonic GML | 332208 | [332208-sonic-gml.json](./332208-sonic-gml.json) |
 | Sonic Golf | 261242 | [261242-sonic-golf.json](./261242-sonic-golf.json) |
 | Sonic Golf 3D | 261280 | [261280-sonic-golf-3d.json](./261280-sonic-golf-3d.json) |
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
@@ -12580,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Melee 2: The Forbidden Fate | 330301 | [330301-sonic-melee-2-the-forbidden-fate.json](./330301-sonic-melee-2-the-forbidden-fate.json) |
 | Sonic Metal Memories | 333799 | [333799-sonic-metal-memories.json](./333799-sonic-metal-memories.json) |
 | Sonic Meteor | 331718 | [331718-sonic-meteor.json](./331718-sonic-meteor.json) |
+| Sonic Mobius | 332207 | [332207-sonic-mobius.json](./332207-sonic-mobius.json) |
 | Sonic Mode: Exciter | 330282 | [330282-sonic-mode-exciter.json](./330282-sonic-mode-exciter.json) |
 | Sonic Mode: Recoil | 330357 | [330357-sonic-mode-recoil.json](./330357-sonic-mode-recoil.json) |
 | Sonic Move | 331098 | [331098-sonic-move.json](./331098-sonic-move.json) |
@@ -20712,6 +20715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Dog Adventure | 320288 | [320288-stunt-dog-adventure.json](./320288-stunt-dog-adventure.json) |
 | Stunt Drifters | 124604 | [124604-stunt-drifters.json](./124604-stunt-drifters.json) |
 | Stunt Driver Collection | 328478 | [328478-stunt-driver-collection.json](./328478-stunt-driver-collection.json) |
+| Stunt Flyer | 332311 | [332311-stunt-flyer.json](./332311-stunt-flyer.json) |
 | Stunt Flyer | 66617 | [66617-stunt-flyer.json](./66617-stunt-flyer.json) |
 | Stunt Flyer: Hero of the Skies | 147193 | [147193-stunt-flyer-hero-of-the-skies.json](./147193-stunt-flyer-hero-of-the-skies.json) |
 | Stunt Hill | 90194 | [90194-stunt-hill.json](./90194-stunt-hill.json) |
@@ -25685,6 +25689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Soldiers II | 19975 | [19975-swords-and-soldiers-ii.json](./19975-swords-and-soldiers-ii.json) |
 | Swords & Soldiers: Super Saucy Sausage Fest | 109470 | [109470-swords-and-soldiers-super-saucy-sausage-fest.json](./109470-swords-and-soldiers-super-saucy-sausage-fest.json) |
 | Swords & Sorcery | 26303 | [26303-swords-and-sorcery.json](./26303-swords-and-sorcery.json) |
+| Swords & Souls Legacy Collection | 332299 | [332299-swords-and-souls-legacy-collection.json](./332299-swords-and-souls-legacy-collection.json) |
 | Swords & Souls: Neverseen | 94772 | [94772-swords-and-souls-neverseen.json](./94772-swords-and-souls-neverseen.json) |
 | Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
