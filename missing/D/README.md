@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
+| Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
 | Death Trips | 124611 | [124611-death-trips.json](./124611-death-trips.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel | 257829 | [257829-death-under-tuscan-skies-a-dana-knightstone-novel.json](./257829-death-under-tuscan-skies-a-dana-knightstone-novel.json) |
 | Death Under Tuscan Skies: A Dana Knightstone Novel - Collector's Edition | 257830 | [257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json](./257830-death-under-tuscan-skies-a-dana-knightstone-novel-collectors-edition.json) |
@@ -12172,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
+| DTC | 357672 | [357672-dtc.json](./357672-dtc.json) |
 | DTET | 341123 | [341123-dtet.json](./341123-dtet.json) |
 | DTM Race Driver: Director's Cut | 73371 | [73371-dtm-race-driver-directors-cut.json](./73371-dtm-race-driver-directors-cut.json) |
 | DTXMania | 123018 | [123018-dtxmania.json](./123018-dtxmania.json) |
