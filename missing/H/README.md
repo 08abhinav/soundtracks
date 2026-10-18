@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Hour Hexagon | 220027 | [220027-half-hour-hexagon.json](./220027-half-hour-hexagon.json) |
 | Half Hour RPG | 415187 | [415187-half-hour-rpg.json](./415187-half-hour-rpg.json) |
 | Half Left | 398187 | [398187-half-left.json](./398187-half-left.json) |
+| Half Life But The | 321836 | [321836-half-life-but-the.json](./321836-half-life-but-the.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
@@ -2501,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: La Résistance | 151254 | [151254-hearts-of-iron-iv-la-resistance.json](./151254-hearts-of-iron-iv-la-resistance.json) |
 | Hearts of Iron IV: Man the Guns | 115063 | [115063-hearts-of-iron-iv-man-the-guns.json](./115063-hearts-of-iron-iv-man-the-guns.json) |
 | Hearts of Iron IV: Peace for Our Time | 399142 | [399142-hearts-of-iron-iv-peace-for-our-time.json](./399142-hearts-of-iron-iv-peace-for-our-time.json) |
+| Hearts of Iron IV: The Great War | 321861 | [321861-hearts-of-iron-iv-the-great-war.json](./321861-hearts-of-iron-iv-the-great-war.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
 | Hearts of the Dungeon List | 173036 | [173036-hearts-of-the-dungeon-list.json](./173036-hearts-of-the-dungeon-list.json) |
