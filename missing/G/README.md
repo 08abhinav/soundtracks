@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambling Forever | 347789 | [347789-gambling-forever.json](./347789-gambling-forever.json) |
 | Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
+| Gambonanza | 335721 | [335721-gambonanza.json](./335721-gambonanza.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
@@ -3275,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Pinball: DLC1 | 157576 | [157576-girls-pinball-dlc1.json](./157576-girls-pinball-dlc1.json) |
 | Girls Pinball: DLC2 | 157577 | [157577-girls-pinball-dlc2.json](./157577-girls-pinball-dlc2.json) |
 | Girls PJ Party | 87869 | [87869-girls-pj-party.json](./87869-girls-pj-party.json) |
+| Girls Power: The Fantastic World Of Dreams | 335731 | [335731-girls-power-the-fantastic-world-of-dreams.json](./335731-girls-power-the-fantastic-world-of-dreams.json) |
 | Girls Puzzle | 112979 | [112979-girls-puzzle.json](./112979-girls-puzzle.json) |
 | Girls Rest | 257954 | [257954-girls-rest.json](./257954-girls-rest.json) |
 | Girls Tank Battle | 165605 | [165605-girls-tank-battle.json](./165605-girls-tank-battle.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GiseiHero | 149096 | [149096-giseihero.json](./149096-giseihero.json) |
 | Giselle | 249703 | [249703-giselle.json](./249703-giselle.json) |
 | Gish | 8384 | [8384-gish.json](./8384-gish.json) |
+| Gisselle's Adventure | 335737 | [335737-gisselles-adventure.json](./335737-gisselles-adventure.json) |
 | Git Gud | 330269 | [330269-git-gud.json](./330269-git-gud.json) |
 | Git Up! | 335498 | [335498-git-up.json](./335498-git-up.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
@@ -6159,6 +6162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravityBall | 409647 | [409647-gravityball.json](./409647-gravityball.json) |
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
+| GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravPool | 32180 | [32180-gravpool.json](./32180-gravpool.json) |
 | GravSheep | 90904 | [90904-gravsheep.json](./90904-gravsheep.json) |
 | GravShift | 337575 | [337575-gravshift.json](./337575-gravshift.json) |
