@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cosmic Atlas: Premium Edition | 286212 | [286212-cats-cosmic-atlas-premium-edition.json](./286212-cats-cosmic-atlas-premium-edition.json) |
 | Cat's Cosmic Atlas: Ultimate Edition | 278649 | [278649-cats-cosmic-atlas-ultimate-edition.json](./278649-cats-cosmic-atlas-ultimate-edition.json) |
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
+| Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
 | Cat's Rage | 366550 | [366550-cats-rage.json](./366550-cats-rage.json) |
@@ -6939,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash: Robot Detective - Complete Edition | 236218 | [236218-clash-robot-detective-complete-edition.json](./236218-clash-robot-detective-complete-edition.json) |
 | Clash'N Slash | 400685 | [400685-clashn-slash.json](./400685-clashn-slash.json) |
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
+| ClashBall.io | 325921 | [325921-clashball-io.json](./325921-clashball-io.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Spec Ops | 256887 | [256887-combat-spec-ops.json](./256887-combat-spec-ops.json) |
 | Combat Survivors | 402266 | [402266-combat-survivors.json](./402266-combat-survivors.json) |
 | Combat Tanks | 73367 | [73367-combat-tanks.json](./73367-combat-tanks.json) |
+| Combat the Space | 325881 | [325881-combat-the-space.json](./325881-combat-the-space.json) |
 | Combat Train TD | 363171 | [363171-combat-train-td.json](./363171-combat-train-td.json) |
 | Combat Troops VR | 192180 | [192180-combat-troops-vr.json](./192180-combat-troops-vr.json) |
 | Combat Two | 40609 | [40609-combat-two.json](./40609-combat-two.json) |
