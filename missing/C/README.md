@@ -140,6 +140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
+| Caça Palavras | 359769 | [359769-caca-palavras.json](./359769-caca-palavras.json) |
 | Cacau: Mistério da Ilha Perdida | 137896 | [137896-cacau-misterio-da-ilha-perdida.json](./137896-cacau-misterio-da-ilha-perdida.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
@@ -3407,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caveman Stories | 95184 | [95184-caveman-stories.json](./95184-caveman-stories.json) |
 | Caveman Warriors | 29250 | [29250-caveman-warriors.json](./29250-caveman-warriors.json) |
 | Caveman Zac | 388324 | [388324-caveman-zac.json](./388324-caveman-zac.json) |
+| Cavemaze 3D | 359720 | [359720-cavemaze-3d.json](./359720-cavemaze-3d.json) |
 | Cavemen Tales | 341618 | [341618-cavemen-tales.json](./341618-cavemen-tales.json) |
 | Cavemen Tales: Collector's Edition | 260294 | [260294-cavemen-tales-collectors-edition.json](./260294-cavemen-tales-collectors-edition.json) |
 | Cavemen vs. Aliens | 91412 | [91412-cavemen-vs-aliens.json](./91412-cavemen-vs-aliens.json) |
@@ -10159,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Cool Toon | 6728 | [6728-cool-cool-toon.json](./6728-cool-cool-toon.json) |
 | Cool Cucumber Cricket | 291450 | [291450-cool-cucumber-cricket.json](./291450-cool-cucumber-cricket.json) |
 | Cool Cucumber Cricket Manager | 311270 | [311270-cool-cucumber-cricket-manager.json](./311270-cool-cucumber-cricket-manager.json) |
+| Cool Cycling | 359742 | [359742-cool-cycling.json](./359742-cool-cycling.json) |
 | Cool Forts Prevail | 176472 | [176472-cool-forts-prevail.json](./176472-cool-forts-prevail.json) |
 | Cool Game Pack | 409563 | [409563-cool-game-pack.json](./409563-cool-game-pack.json) |
 | Cool Go | 301282 | [301282-cool-go.json](./301282-cool-go.json) |
@@ -11561,6 +11564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Twinsanity Evolution | 417288 | [417288-crash-twinsanity-evolution.json](./417288-crash-twinsanity-evolution.json) |
 | Crash vs. Spyro Racing | 269687 | [269687-crash-vs-spyro-racing.json](./269687-crash-vs-spyro-racing.json) |
 | Crash Wheels | 31657 | [31657-crash-wheels.json](./31657-crash-wheels.json) |
+| Crash Zone | 359746 | [359746-crash-zone.json](./359746-crash-zone.json) |
 | Crash-Course Domo | 68061 | [68061-crash-course-domo.json](./68061-crash-course-domo.json) |
 | Crash-Land Fantasy | 309481 | [309481-crash-land-fantasy.json](./309481-crash-land-fantasy.json) |
 | Crash-San | 238482 | [238482-crash-san.json](./238482-crash-san.json) |
@@ -12486,6 +12490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrocoMars | 86565 | [86565-crocomars.json](./86565-crocomars.json) |
 | CrocPond | 91741 | [91741-crocpond.json](./91741-crocpond.json) |
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
+| Crocs on Parade | 359734 | [359734-crocs-on-parade.json](./359734-crocs-on-parade.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
 | Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
@@ -14355,6 +14360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
 | Cyber Escape | 93793 | [93793-cyber-escape.json](./93793-cyber-escape.json) |
+| Cyber Evolution | 359865 | [359865-cyber-evolution.json](./359865-cyber-evolution.json) |
 | Cyber Evolution | 372988 | [372988-cyber-evolution.json](./372988-cyber-evolution.json) |
 | Cyber Factories | 156006 | [156006-cyber-factories.json](./156006-cyber-factories.json) |
 | Cyber Fight | 194916 | [194916-cyber-fight.json](./194916-cyber-fight.json) |
