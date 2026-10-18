@@ -7726,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Farm | 99878 | [99878-blocky-farm.json](./99878-blocky-farm.json) |
 | Blocky Fills | 255168 | [255168-blocky-fills.json](./255168-blocky-fills.json) |
 | Blocky Football | 58203 | [58203-blocky-football.json](./58203-blocky-football.json) |
+| Blocky Games | 344710 | [344710-blocky-games.json](./344710-blocky-games.json) |
 | Blocky Granny Mod chapter One | 248175 | [248175-blocky-granny-mod-chapter-one.json](./248175-blocky-granny-mod-chapter-one.json) |
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
@@ -8875,6 +8876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
+| Boll Tower | 344695 | [344695-boll-tower.json](./344695-boll-tower.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
