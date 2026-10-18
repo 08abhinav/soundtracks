@@ -5523,7 +5523,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun the Sheep | 68942 | [68942-shaun-the-sheep.json](./68942-shaun-the-sheep.json) |
 | Shaun the Sheep: Shear Speed | 207861 | [207861-shaun-the-sheep-shear-speed.json](./207861-shaun-the-sheep-shear-speed.json) |
 | Shaun White Skateboarding | 5151 | [5151-shaun-white-skateboarding.json](./5151-shaun-white-skateboarding.json) |
-| Shaun White Snowboarding | 5152 | [5152-shaun-white-snowboarding.json](./5152-shaun-white-snowboarding.json) |
 | Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
