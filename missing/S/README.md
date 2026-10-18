@@ -2945,6 +2945,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2024 Deluxe Edition | 291677 | [291677-sea-of-thieves-2024-deluxe-edition.json](./291677-sea-of-thieves-2024-deluxe-edition.json) |
 | Sea of Thieves: 2024 Edition | 335072 | [335072-sea-of-thieves-2024-edition.json](./335072-sea-of-thieves-2024-edition.json) |
 | Sea of Thieves: 2024 Premium Bundle | 297734 | [297734-sea-of-thieves-2024-premium-bundle.json](./297734-sea-of-thieves-2024-premium-bundle.json) |
+| Sea of Thieves: 2025 Deluxe Edition | 336884 | [336884-sea-of-thieves-2025-deluxe-edition.json](./336884-sea-of-thieves-2025-deluxe-edition.json) |
+| Sea of Thieves: 2025 Premium Edition | 336883 | [336883-sea-of-thieves-2025-premium-edition.json](./336883-sea-of-thieves-2025-premium-edition.json) |
 | Sea of Thieves: Cursed Sails | 103284 | [103284-sea-of-thieves-cursed-sails.json](./103284-sea-of-thieves-cursed-sails.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
@@ -5113,6 +5115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowstone | 388342 | [388342-shadowstone.json](./388342-shadowstone.json) |
 | ShadowStorm | 275832 | [275832-shadowstorm.json](./275832-shadowstorm.json) |
 | ShadowStrikeVR | 285114 | [285114-shadowstrikevr.json](./285114-shadowstrikevr.json) |
+| Shadowtime | 336860 | [336860-shadowtime.json](./336860-shadowtime.json) |
 | Shadowvane | 254781 | [254781-shadowvane.json](./254781-shadowvane.json) |
 | Shadowveil: Legend of The Five Rings | 321163 | [321163-shadowveil-legend-of-the-five-rings.json](./321163-shadowveil-legend-of-the-five-rings.json) |
 | Shadowverse: Wonderland Dreams | 37072 | [37072-shadowverse-wonderland-dreams.json](./37072-shadowverse-wonderland-dreams.json) |
@@ -13461,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslayer | 46461 | [46461-soulslayer.json](./46461-soulslayer.json) |
 | Soulslinger | 223041 | [223041-soulslinger.json](./223041-soulslinger.json) |
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
+| Soulssss | 336952 | [336952-soulssss.json](./336952-soulssss.json) |
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
@@ -15299,6 +15303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spells & Secrets + Stranded Sails | 336047 | [336047-spells-and-secrets-stranded-sails.json](./336047-spells-and-secrets-stranded-sails.json) |
 | Spells and Fellas | 223049 | [223049-spells-and-fellas.json](./223049-spells-and-fellas.json) |
 | Spells and Sacrifice | 291910 | [291910-spells-and-sacrifice.json](./291910-spells-and-sacrifice.json) |
+| Spells Dungeon | 336971 | [336971-spells-dungeon.json](./336971-spells-dungeon.json) |
 | Spells For Sad Goths With Shitty Parents | 176921 | [176921-spells-for-sad-goths-with-shitty-parents.json](./176921-spells-for-sad-goths-with-shitty-parents.json) |
 | Spells of Genesis | 57726 | [57726-spells-of-genesis.json](./57726-spells-of-genesis.json) |
 | Spells of Gold | 13785 | [13785-spells-of-gold.json](./13785-spells-of-gold.json) |
@@ -16252,6 +16257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporting Goods Shop | 342895 | [342895-sporting-goods-shop.json](./342895-sporting-goods-shop.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
 | Sportitions ’24 | 308497 | [308497-sportitions-24.json](./308497-sportitions-24.json) |
+| SportKill | 336970 | [336970-sportkill.json](./336970-sportkill.json) |
 | Sports | 180493 | [180493-sports.json](./180493-sports.json) |
 | Sports & Adventure Pinball | 173132 | [173132-sports-and-adventure-pinball.json](./173132-sports-and-adventure-pinball.json) |
 | Sports 5 | 254951 | [254951-sports-5.json](./254951-sports-5.json) |
