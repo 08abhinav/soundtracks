@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
+| Sakamoto Days Dangerous Puzzle | 341289 | [341289-sakamoto-days-dangerous-puzzle.json](./341289-sakamoto-days-dangerous-puzzle.json) |
 | Sakata Goro Kudan no Renju Kyoushitsu | 97859 | [97859-sakata-goro-kudan-no-renju-kyoushitsu.json](./97859-sakata-goro-kudan-no-renju-kyoushitsu.json) |
 | SakaTsuku Shoot! | 406634 | [406634-sakatsuku-shoot.json](./406634-sakatsuku-shoot.json) |
 | SakaTsuku Tokudai-gou 2: J.League Pro Soccer Club wo Tsukurou! | 392777 | [392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json](./392777-sakatsuku-tokudai-gou-2-j-league-pro-soccer-club-wo-tsukurou.json) |
@@ -2220,6 +2221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
 | School! Love Reflex | 181118 | [181118-school-love-reflex.json](./181118-school-love-reflex.json) |
 | School's Out | 390089 | [390089-schools-out.json](./390089-schools-out.json) |
+| Schoolbound | 341378 | [341378-schoolbound.json](./341378-schoolbound.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
