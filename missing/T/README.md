@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
+| Ten People Ten Colors | 314742 | [314742-ten-people-ten-colors.json](./314742-ten-people-ten-colors.json) |
 | Ten Pin Alley 2 | 5215 | [5215-ten-pin-alley-2.json](./5215-ten-pin-alley-2.json) |
 | Ten Seconds Hero 1 | 309358 | [309358-ten-seconds-hero-1.json](./309358-ten-seconds-hero-1.json) |
 | Ten Seconds Trillion | 241392 | [241392-ten-seconds-trillion.json](./241392-ten-seconds-trillion.json) |
@@ -7368,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goddess Robbery | 307906 | [307906-the-goddess-robbery.json](./307906-the-goddess-robbery.json) |
 | The Goddess's Will | 391798 | [391798-the-goddesss-will.json](./391798-the-goddesss-will.json) |
 | The Godfather | 13068 | [13068-the-godfather.json](./13068-the-godfather.json) |
+| The Godfather | 314701 | [314701-the-godfather.json](./314701-the-godfather.json) |
 | The Godfather Collection | 46724 | [46724-the-godfather-collection.json](./46724-the-godfather-collection.json) |
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
 | The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
@@ -7883,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Da Vinci 2 | 132542 | [132542-the-house-of-da-vinci-2.json](./132542-the-house-of-da-vinci-2.json) |
 | The House of Da Vinci 3 | 197081 | [197081-the-house-of-da-vinci-3.json](./197081-the-house-of-da-vinci-3.json) |
 | The House of Da Vinci Complete Bundle | 310498 | [310498-the-house-of-da-vinci-complete-bundle.json](./310498-the-house-of-da-vinci-complete-bundle.json) |
+| The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
@@ -10042,6 +10045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
 | The Midnight Bakery | 135875 | [135875-the-midnight-bakery.json](./135875-the-midnight-bakery.json) |
 | The Midnight Barber | 368293 | [368293-the-midnight-barber.json](./368293-the-midnight-barber.json) |
+| The Midnight Bus | 314736 | [314736-the-midnight-bus.json](./314736-the-midnight-bus.json) |
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
@@ -17205,6 +17209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tanks | 78904 | [78904-tiny-tanks.json](./78904-tiny-tanks.json) |
 | Tiny Tap Quest | 307066 | [307066-tiny-tap-quest.json](./307066-tiny-tap-quest.json) |
 | Tiny Tarot | 182869 | [182869-tiny-tarot.json](./182869-tiny-tarot.json) |
+| Tiny Technologies | 314726 | [314726-tiny-technologies.json](./314726-tiny-technologies.json) |
 | Tiny Tengu Tactics | 358444 | [358444-tiny-tengu-tactics.json](./358444-tiny-tengu-tactics.json) |
 | Tiny Tennis | 247173 | [247173-tiny-tennis.json](./247173-tiny-tennis.json) |
 | Tiny Terraces | 311476 | [311476-tiny-terraces.json](./311476-tiny-terraces.json) |
@@ -18808,6 +18813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori no Hoshi: Aerial Planet | 225835 | [225835-tori-no-hoshi-aerial-planet.json](./225835-tori-no-hoshi-aerial-planet.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
+| Toribash | 314708 | [314708-toribash.json](./314708-toribash.json) |
 | Toricky S | 151650 | [151650-toricky-s.json](./151650-toricky-s.json) |
 | Torico's B-day Gift Hunt | 232968 | [232968-toricos-b-day-gift-hunt.json](./232968-toricos-b-day-gift-hunt.json) |
 | Torico's Mine Quest! | 241265 | [241265-toricos-mine-quest.json](./241265-toricos-mine-quest.json) |
