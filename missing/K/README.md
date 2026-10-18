@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katekyou Hitman Reborn! DS: Flame Rumble XX - Kessen! Real 6 Chouka | 64381 | [64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json](./64381-katekyou-hitman-reborn-ds-flame-rumble-xx-kessen-real-6-chouka.json) |
 | Katekyou Hitman Reborn! DS: Mafia Daishuugou Vongola Festival | 70568 | [70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json](./70568-katekyou-hitman-reborn-ds-mafia-daishuugou-vongola-festival.json) |
 | Katekyou Hitman Reborn! DS: Shinuki Max! Vongola Carnival!! | 123339 | [123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json](./123339-katekyou-hitman-reborn-ds-shinuki-max-vongola-carnival.json) |
+| Katekyou Hitman Reborn! DS: Vongola Shiki Taisen Battle Sugoroku | 331653 | [331653-katekyou-hitman-reborn-ds-vongola-shiki-taisen-battle-sugoroku.json](./331653-katekyou-hitman-reborn-ds-vongola-shiki-taisen-battle-sugoroku.json) |
 | Katekyou Hitman Reborn!: Dream Hyper Battle! | 4949 | [4949-katekyou-hitman-reborn-dream-hyper-battle.json](./4949-katekyou-hitman-reborn-dream-hyper-battle.json) |
 | Katekyou Hitman Reborn!: Kizuna no Tag Battle | 137395 | [137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json](./137395-katekyou-hitman-reborn-kizuna-no-tag-battle.json) |
 | Katekyou Hitman Reborn!: Nerae!? Ring x Vongola Trainers | 305271 | [305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json](./305271-katekyou-hitman-reborn-nerae-ring-x-vongola-trainers.json) |
