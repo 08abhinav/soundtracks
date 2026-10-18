@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale the Depths | 403754 | [403754-scale-the-depths.json](./403754-scale-the-depths.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
+| ScaleBox | 344714 | [344714-scalebox.json](./344714-scalebox.json) |
 | ScaleMan | 223920 | [223920-scaleman.json](./223920-scaleman.json) |
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
@@ -6915,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroom & Blade | 419982 | [419982-shroom-and-blade.json](./419982-shroom-and-blade.json) |
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
+| Shroom and Gloom | 344797 | [344797-shroom-and-gloom.json](./344797-shroom-and-gloom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
@@ -10765,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
 | Snek | 182802 | [182802-snek.json](./182802-snek.json) |
+| Snek | 344698 | [344698-snek.json](./344698-snek.json) |
 | Snek | 408642 | [408642-snek.json](./408642-snek.json) |
 | Snekburd | 342255 | [342255-snekburd.json](./342255-snekburd.json) |
 | SnekMP | 226442 | [226442-snekmp.json](./226442-snekmp.json) |
@@ -21153,6 +21156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokumaniacs | 148880 | [148880-sudokumaniacs.json](./148880-sudokumaniacs.json) |
+| SudokuNexus | 344706 | [344706-sudokunexus.json](./344706-sudokunexus.json) |
 | Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
 | Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
@@ -21180,6 +21184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
+| Sugar & Rolling Stone | 344712 | [344712-sugar-and-rolling-stone.json](./344712-sugar-and-rolling-stone.json) |
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
 | Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
@@ -23669,6 +23674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Persona 4 Protagonist Outfit and Wig | 317932 | [317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json](./317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Proto Man's Armor and Helmet | 317933 | [317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json](./317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Rayman Custom Moveset | 394615 | [394615-super-smash-bros-ultimate-rayman-custom-moveset.json](./394615-super-smash-bros-ultimate-rayman-custom-moveset.json) |
+| Super Smash Bros. Ultimate: Ryo Sakazaki Outfit and Wig | 344727 | [344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json](./344727-super-smash-bros-ultimate-ryo-sakazaki-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Sackboy Moveset | 395026 | [395026-super-smash-bros-ultimate-sackboy-moveset.json](./395026-super-smash-bros-ultimate-sackboy-moveset.json) |
 | Super Smash Bros. Ultimate: Sandbag Moveset | 376033 | [376033-super-smash-bros-ultimate-sandbag-moveset.json](./376033-super-smash-bros-ultimate-sandbag-moveset.json) |
 | Super Smash Bros. Ultimate: Sans Outfit and Mask | 317934 | [317934-super-smash-bros-ultimate-sans-outfit-and-mask.json](./317934-super-smash-bros-ultimate-sans-outfit-and-mask.json) |
