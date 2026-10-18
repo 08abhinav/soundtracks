@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T02:48:22.184Z",
-  "total_missing": 226391,
+  "generated_at": "2026-10-18T03:03:30.295Z",
+  "total_missing": 226441,
   "games": [
     {
       "igdb_id": 191680,
@@ -13505,6 +13505,11 @@
       "igdb_id": 367615,
       "game_name": "A Familiar World",
       "file": "missing/A/367615-a-familiar-world.json"
+    },
+    {
+      "igdb_id": 355858,
+      "game_name": "A Farewell To AI",
+      "file": "missing/A/355858-a-farewell-to-ai.json"
     },
     {
       "igdb_id": 297057,
@@ -32017,6 +32022,11 @@
       "file": "missing/A/47305-ajax-club-football-2005.json"
     },
     {
+      "igdb_id": 355880,
+      "game_name": "Ajedrez",
+      "file": "missing/A/355880-ajedrez.json"
+    },
+    {
       "igdb_id": 391292,
       "game_name": "Ajedrez una tarde de Otoño",
       "file": "missing/A/391292-ajedrez-una-tarde-de-otono.json"
@@ -47562,6 +47572,11 @@
       "file": "missing/A/38901-animal-voyage-island-adventure.json"
     },
     {
+      "igdb_id": 355887,
+      "game_name": "Animal Warfare",
+      "file": "missing/A/355887-animal-warfare.json"
+    },
+    {
       "igdb_id": 127872,
       "game_name": "Animal Warfare Battle Simulator",
       "file": "missing/A/127872-animal-warfare-battle-simulator.json"
@@ -52805,6 +52820,11 @@
       "igdb_id": 26969,
       "game_name": "Apocalypse Now: The Game",
       "file": "missing/A/26969-apocalypse-now-the-game.json"
+    },
+    {
+      "igdb_id": 355961,
+      "game_name": "Apocalypse PD!",
+      "file": "missing/A/355961-apocalypse-pd.json"
     },
     {
       "igdb_id": 102889,
@@ -73090,6 +73110,11 @@
       "igdb_id": 126411,
       "game_name": "Aurora: Hidden Colors",
       "file": "missing/A/126411-aurora-hidden-colors.json"
+    },
+    {
+      "igdb_id": 355963,
+      "game_name": "Aurora: Oasis Adventure",
+      "file": "missing/A/355963-aurora-oasis-adventure.json"
     },
     {
       "igdb_id": 25827,
@@ -120115,6 +120140,11 @@
       "igdb_id": 239588,
       "game_name": "Boba",
       "file": "missing/B/239588-boba.json"
+    },
+    {
+      "igdb_id": 355857,
+      "game_name": "Boba",
+      "file": "missing/B/355857-boba.json"
     },
     {
       "igdb_id": 413031,
@@ -200802,6 +200832,11 @@
       "file": "missing/C/104980-crayola-scoot.json"
     },
     {
+      "igdb_id": 355892,
+      "game_name": "Crayola Scribble Scrubbie Pets",
+      "file": "missing/C/355892-crayola-scribble-scrubbie-pets.json"
+    },
+    {
       "igdb_id": 21363,
       "game_name": "Crayola Treasure Adventures",
       "file": "missing/C/21363-crayola-treasure-adventures.json"
@@ -217825,6 +217860,11 @@
       "igdb_id": 69530,
       "game_name": "Dai Senryaku VII: Modern Military Tactics",
       "file": "missing/D/69530-dai-senryaku-vii-modern-military-tactics.json"
+    },
+    {
+      "igdb_id": 355957,
+      "game_name": "Dai-2-dan: Pokémon Battle Card e+ - Yuruginai Chikara",
+      "file": "missing/D/355957-dai-2-dan-pokemon-battle-card-e-yuruginai-chikara.json"
     },
     {
       "igdb_id": 240912,
@@ -309402,6 +309442,11 @@
       "file": "missing/E/121453-everybody-loves-skeletons.json"
     },
     {
+      "igdb_id": 355852,
+      "game_name": "Everybody Shogi",
+      "file": "missing/E/355852-everybody-shogi.json"
+    },
+    {
       "igdb_id": 28187,
       "game_name": "Everybody's Golf",
       "file": "missing/E/28187-everybodys-golf.json"
@@ -333695,6 +333740,11 @@
       "igdb_id": 392192,
       "game_name": "Final Frost",
       "file": "missing/F/392192-final-frost.json"
+    },
+    {
+      "igdb_id": 355862,
+      "game_name": "Final Furlong 2",
+      "file": "missing/F/355862-final-furlong-2.json"
     },
     {
       "igdb_id": 204336,
@@ -456572,6 +456622,11 @@
       "file": "missing/I/214171-idle-arcade-tycoon.json"
     },
     {
+      "igdb_id": 355889,
+      "game_name": "Idle Area 51",
+      "file": "missing/I/355889-idle-area-51.json"
+    },
+    {
       "igdb_id": 419194,
       "game_name": "Idle Asteroids",
       "file": "missing/I/419194-idle-asteroids.json"
@@ -469415,6 +469470,11 @@
       "igdb_id": 289769,
       "game_name": "Interlude",
       "file": "missing/I/289769-interlude.json"
+    },
+    {
+      "igdb_id": 355855,
+      "game_name": "Interlude",
+      "file": "missing/I/355855-interlude.json"
     },
     {
       "igdb_id": 333001,
@@ -504512,6 +504572,11 @@
       "file": "missing/K/382581-kingdom-rush-5-alliance-td-wukongs-journey.json"
     },
     {
+      "igdb_id": 355895,
+      "game_name": "Kingdom Rush 5: Alliance TD+",
+      "file": "missing/K/355895-kingdom-rush-5-alliance-td.json"
+    },
+    {
       "igdb_id": 394375,
       "game_name": "Kingdom Rush 6: Genesis TD",
       "file": "missing/K/394375-kingdom-rush-6-genesis-td.json"
@@ -527967,6 +528032,11 @@
       "file": "missing/L/69304-lets-go-jungle-lost-on-the-island-of-spice.json"
     },
     {
+      "igdb_id": 355854,
+      "game_name": "Let’s Go Mightycat!",
+      "file": "missing/L/355854-let-s-go-mightycat.json"
+    },
+    {
       "igdb_id": 99700,
       "game_name": "Let's Go Nuts!",
       "file": "missing/L/99700-lets-go-nuts.json"
@@ -530670,6 +530740,11 @@
       "igdb_id": 113455,
       "game_name": "Life In Helsinki",
       "file": "missing/L/113455-life-in-helsinki.json"
+    },
+    {
+      "igdb_id": 355891,
+      "game_name": "Life in Jasskia: a Coffee Shop",
+      "file": "missing/L/355891-life-in-jasskia-a-coffee-shop.json"
     },
     {
       "igdb_id": 152860,
@@ -535525,6 +535600,11 @@
       "igdb_id": 251571,
       "game_name": "Little Cities: Attractions Update",
       "file": "missing/L/251571-little-cities-attractions-update.json"
+    },
+    {
+      "igdb_id": 355958,
+      "game_name": "Little Cities: Diorama",
+      "file": "missing/L/355958-little-cities-diorama.json"
     },
     {
       "igdb_id": 251570,
@@ -560332,6 +560412,11 @@
       "file": "missing/M/400056-makeup-artist.json"
     },
     {
+      "igdb_id": 355866,
+      "game_name": "Makeup ASMR: Makeover Story",
+      "file": "missing/M/355866-makeup-asmr-makeover-story.json"
+    },
+    {
       "igdb_id": 107072,
       "game_name": "Makeup Girls - Wedding Dress Up & Make Up Game for girls, by Pazu",
       "file": "missing/M/107072-makeup-girls-wedding-dress-up-and-make-up-game-for-girls-by-pazu.json"
@@ -584290,6 +584375,11 @@
       "igdb_id": 291696,
       "game_name": "Merk Mayhem",
       "file": "missing/M/291696-merk-mayhem.json"
+    },
+    {
+      "igdb_id": 355966,
+      "game_name": "Merkava: The Sacred Armour of Meirav",
+      "file": "missing/M/355966-merkava-the-sacred-armour-of-meirav.json"
     },
     {
       "igdb_id": 362581,
@@ -714562,6 +714652,11 @@
       "file": "missing/P/270611-play-doh-creations.json"
     },
     {
+      "igdb_id": 355853,
+      "game_name": "Play-Doh World",
+      "file": "missing/P/355853-play-doh-world.json"
+    },
+    {
       "igdb_id": 49765,
       "game_name": "Play-Yan",
       "file": "missing/P/49765-play-yan.json"
@@ -718027,6 +718122,11 @@
       "file": "missing/P/252922-pokemon-azure-horizons.json"
     },
     {
+      "igdb_id": 355881,
+      "game_name": "Pokémon Battle Card e+ Emerald",
+      "file": "missing/P/355881-pokemon-battle-card-e-emerald.json"
+    },
+    {
       "igdb_id": 355724,
       "game_name": "Pokémon Battle Card e+ Emerald: 19-A001 - Karate-ou Kousei",
       "file": "missing/P/355724-pokemon-battle-card-e-emerald-19-a001-karate-ou-kousei.json"
@@ -718742,9 +718842,54 @@
       "file": "missing/P/355506-pokemon-battle-card-e-08-p007-iseki-mania-no-sagami.json"
     },
     {
+      "igdb_id": 355865,
+      "game_name": "Pokémon Battle Card e+: Atsui Kizuna",
+      "file": "missing/P/355865-pokemon-battle-card-e-atsui-kizuna.json"
+    },
+    {
+      "igdb_id": 355877,
+      "game_name": "Pokémon Battle Card e+: FireRed & LeafGreen",
+      "file": "missing/P/355877-pokemon-battle-card-e-firered-and-leafgreen.json"
+    },
+    {
+      "igdb_id": 355863,
+      "game_name": "Pokémon Battle Card e+: Kakusareta Iseki",
+      "file": "missing/P/355863-pokemon-battle-card-e-kakusareta-iseki.json"
+    },
+    {
+      "igdb_id": 355860,
+      "game_name": "Pokémon Battle Card e+: Kogoeru Hikari",
+      "file": "missing/P/355860-pokemon-battle-card-e-kogoeru-hikari.json"
+    },
+    {
+      "igdb_id": 355868,
+      "game_name": "Pokémon Battle Card e+: Kyoukona Yoroi",
+      "file": "missing/P/355868-pokemon-battle-card-e-kyoukona-yoroi.json"
+    },
+    {
+      "igdb_id": 355861,
+      "game_name": "Pokémon Battle Card e+: Osou Doku",
+      "file": "missing/P/355861-pokemon-battle-card-e-osou-doku.json"
+    },
+    {
+      "igdb_id": 355864,
+      "game_name": "Pokémon Battle Card e+: Teppeki no Mamori",
+      "file": "missing/P/355864-pokemon-battle-card-e-teppeki-no-mamori.json"
+    },
+    {
       "igdb_id": 220853,
       "game_name": "Pokémon Battle e Card: Freezing Ray",
       "file": "missing/P/220853-pokemon-battle-e-card-freezing-ray.json"
+    },
+    {
+      "igdb_id": 355870,
+      "game_name": "Pokémon Battle e Card: Hidden Ruins",
+      "file": "missing/P/355870-pokemon-battle-e-card-hidden-ruins.json"
+    },
+    {
+      "igdb_id": 355871,
+      "game_name": "Pokémon Battle e Card: Iron Defense",
+      "file": "missing/P/355871-pokemon-battle-e-card-iron-defense.json"
     },
     {
       "igdb_id": 355496,
@@ -719115,6 +719260,26 @@
       "igdb_id": 355523,
       "game_name": "Pokémon Colosseum Double Battle Card e+: 13-P002 - Snatch-dan no Gaku",
       "file": "missing/P/355523-pokemon-colosseum-double-battle-card-e-13-p002-snatch-dan-no-gaku.json"
+    },
+    {
+      "igdb_id": 355873,
+      "game_name": "Pokémon Colosseum Double Battle Card e+: Blue Pack",
+      "file": "missing/P/355873-pokemon-colosseum-double-battle-card-e-blue-pack.json"
+    },
+    {
+      "igdb_id": 355875,
+      "game_name": "Pokémon Colosseum Double Battle Card e+: Green Pack",
+      "file": "missing/P/355875-pokemon-colosseum-double-battle-card-e-green-pack.json"
+    },
+    {
+      "igdb_id": 355872,
+      "game_name": "Pokémon Colosseum Double Battle Card e+: Red Pack",
+      "file": "missing/P/355872-pokemon-colosseum-double-battle-card-e-red-pack.json"
+    },
+    {
+      "igdb_id": 355874,
+      "game_name": "Pokémon Colosseum Double Battle Card e+: Yellow Pack",
+      "file": "missing/P/355874-pokemon-colosseum-double-battle-card-e-yellow-pack.json"
     },
     {
       "igdb_id": 234552,
@@ -772752,6 +772917,11 @@
       "file": "missing/R/223599-retro-basketball-coach-2023.json"
     },
     {
+      "igdb_id": 355878,
+      "game_name": "Retro Basketball Manager",
+      "file": "missing/R/355878-retro-basketball-manager.json"
+    },
+    {
       "igdb_id": 306533,
       "game_name": "Retro Battle",
       "file": "missing/R/306533-retro-battle.json"
@@ -801312,6 +801482,16 @@
       "file": "missing/S/213832-sakura-no-sora-to-kimi-no-koto-sweet-petals-for-my-dear.json"
     },
     {
+      "igdb_id": 355959,
+      "game_name": "Sakura no Uta Re:Graphic - 10th Anniversary Edition",
+      "file": "missing/S/355959-sakura-no-uta-re-graphic-10th-anniversary-edition.json"
+    },
+    {
+      "igdb_id": 355964,
+      "game_name": "Sakura no Uta Re:Graphic - Append Disc",
+      "file": "missing/S/355964-sakura-no-uta-re-graphic-append-disc.json"
+    },
+    {
       "igdb_id": 135568,
       "game_name": "Sakura no Uta: Sakura no Mori no Ue wo Mau",
       "file": "missing/S/135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json"
@@ -817825,6 +818005,11 @@
       "igdb_id": 252733,
       "game_name": "Sensations",
       "file": "missing/S/252733-sensations.json"
+    },
+    {
+      "igdb_id": 355882,
+      "game_name": "Sensations",
+      "file": "missing/S/355882-sensations.json"
     },
     {
       "igdb_id": 310104,
@@ -862822,6 +863007,11 @@
       "file": "missing/S/113601-sopwith-vr.json"
     },
     {
+      "igdb_id": 355883,
+      "game_name": "Sor.Op: Dark Shades",
+      "file": "missing/S/355883-sor-op-dark-shades.json"
+    },
+    {
       "igdb_id": 18569,
       "game_name": "Sora",
       "file": "missing/S/18569-sora.json"
@@ -879590,6 +879780,11 @@
       "igdb_id": 359403,
       "game_name": "Springtime Puzzle",
       "file": "missing/S/359403-springtime-puzzle.json"
+    },
+    {
+      "igdb_id": 355869,
+      "game_name": "Springuins",
+      "file": "missing/S/355869-springuins.json"
     },
     {
       "igdb_id": 141600,
@@ -908487,6 +908682,11 @@
       "file": "missing/S/398898-super-dog-adventure.json"
     },
     {
+      "igdb_id": 355897,
+      "game_name": "Super Dog Booby",
+      "file": "missing/S/355897-super-dog-booby.json"
+    },
+    {
       "igdb_id": 64931,
       "game_name": "Super Dogfight",
       "file": "missing/S/64931-super-dogfight.json"
@@ -916450,6 +916650,11 @@
       "igdb_id": 52894,
       "game_name": "Super Stacker",
       "file": "missing/S/52894-super-stacker.json"
+    },
+    {
+      "igdb_id": 355884,
+      "game_name": "Super Stadia",
+      "file": "missing/S/355884-super-stadia.json"
     },
     {
       "igdb_id": 32027,
@@ -940682,6 +940887,11 @@
       "file": "missing/T/389439-tekken-dark-resurrection.json"
     },
     {
+      "igdb_id": 355879,
+      "game_name": "Tekkout2: Balls Of Rust",
+      "file": "missing/T/355879-tekkout2-balls-of-rust.json"
+    },
+    {
       "igdb_id": 73245,
       "game_name": "Tekkyuuman",
       "file": "missing/T/73245-tekkyuuman.json"
@@ -963820,6 +964030,11 @@
       "igdb_id": 20681,
       "game_name": "The Godfather: Blackhand Edition",
       "file": "missing/T/20681-the-godfather-blackhand-edition.json"
+    },
+    {
+      "igdb_id": 355894,
+      "game_name": "The Godfather: City Wars",
+      "file": "missing/T/355894-the-godfather-city-wars.json"
     },
     {
       "igdb_id": 20683,
@@ -989422,6 +989637,11 @@
       "file": "missing/T/177339-the-struggle-of-trust.json"
     },
     {
+      "igdb_id": 355867,
+      "game_name": "The Struggle to Survive the Dragon Siege",
+      "file": "missing/T/355867-the-struggle-to-survive-the-dragon-siege.json"
+    },
+    {
       "igdb_id": 148975,
       "game_name": "The Struggles of Stefan",
       "file": "missing/T/148975-the-struggles-of-stefan.json"
@@ -994115,6 +994335,11 @@
       "igdb_id": 318799,
       "game_name": "The Veiled Ones",
       "file": "missing/T/318799-the-veiled-ones.json"
+    },
+    {
+      "igdb_id": 355890,
+      "game_name": "The Vending Machine",
+      "file": "missing/T/355890-the-vending-machine.json"
     },
     {
       "igdb_id": 250964,
@@ -1019337,6 +1019562,16 @@
       "file": "missing/T/357431-toonix.json"
     },
     {
+      "igdb_id": 355886,
+      "game_name": "Toonix Totem",
+      "file": "missing/T/355886-toonix-totem.json"
+    },
+    {
+      "igdb_id": 355885,
+      "game_name": "Toonix: Food Fight!",
+      "file": "missing/T/355885-toonix-food-fight.json"
+    },
+    {
       "igdb_id": 357445,
       "game_name": "Toonix: Speak English!",
       "file": "missing/T/357445-toonix-speak-english.json"
@@ -1026545,6 +1026780,11 @@
       "igdb_id": 349391,
       "game_name": "Toy Voyage",
       "file": "missing/T/349391-toy-voyage.json"
+    },
+    {
+      "igdb_id": 355888,
+      "game_name": "Toy Warfare",
+      "file": "missing/T/355888-toy-warfare.json"
     },
     {
       "igdb_id": 9449,
@@ -1069832,6 +1070072,11 @@
       "file": "missing/V/198951-vindicators.json"
     },
     {
+      "igdb_id": 355960,
+      "game_name": "Vindicators",
+      "file": "missing/V/355960-vindicators.json"
+    },
+    {
       "igdb_id": 83909,
       "game_name": "Vindicators",
       "file": "missing/V/83909-vindicators.json"
@@ -1104670,6 +1104915,11 @@
       "igdb_id": 302727,
       "game_name": "Words of Wonders",
       "file": "missing/W/302727-words-of-wonders.json"
+    },
+    {
+      "igdb_id": 355896,
+      "game_name": "Words of Wonders: Search",
+      "file": "missing/W/355896-words-of-wonders-search.json"
     },
     {
       "igdb_id": 137688,
