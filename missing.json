@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T02:33:21.631Z",
-  "total_missing": 226341,
+  "generated_at": "2026-10-18T02:48:22.184Z",
+  "total_missing": 226391,
   "games": [
     {
       "igdb_id": 191680,
@@ -13585,6 +13585,11 @@
       "igdb_id": 388171,
       "game_name": "A Few of Us: Operation Nightshade",
       "file": "missing/A/388171-a-few-of-us-operation-nightshade.json"
+    },
+    {
+      "igdb_id": 356440,
+      "game_name": "A Few Quick Matches",
+      "file": "missing/A/356440-a-few-quick-matches.json"
     },
     {
       "igdb_id": 391811,
@@ -39017,6 +39022,11 @@
       "file": "missing/A/310194-alpha-chimp-episode-1-the-jungle.json"
     },
     {
+      "igdb_id": 356502,
+      "game_name": "Alpha Collapse",
+      "file": "missing/A/356502-alpha-collapse.json"
+    },
+    {
       "igdb_id": 164871,
       "game_name": "Alpha Command",
       "file": "missing/A/164871-alpha-command.json"
@@ -56200,6 +56210,11 @@
       "igdb_id": 135574,
       "game_name": "Arcade Archives: Sunset Riders",
       "file": "missing/A/135574-arcade-archives-sunset-riders.json"
+    },
+    {
+      "igdb_id": 356501,
+      "game_name": "Arcade Archives: Super Basketball",
+      "file": "missing/A/356501-arcade-archives-super-basketball.json"
     },
     {
       "igdb_id": 147119,
@@ -82150,6 +82165,11 @@
       "igdb_id": 231388,
       "game_name": "Ball",
       "file": "missing/B/231388-ball.json"
+    },
+    {
+      "igdb_id": 356422,
+      "game_name": "Ball",
+      "file": "missing/B/356422-ball.json"
     },
     {
       "igdb_id": 403805,
@@ -172972,6 +172992,11 @@
       "file": "missing/C/292552-chushpan.json"
     },
     {
+      "igdb_id": 356433,
+      "game_name": "Chushpan Simulator",
+      "file": "missing/C/356433-chushpan-simulator.json"
+    },
+    {
       "igdb_id": 309682,
       "game_name": "Chushpan Simulator 2",
       "file": "missing/C/309682-chushpan-simulator-2.json"
@@ -212477,6 +212502,11 @@
       "file": "missing/C/218150-curse-removal-service.json"
     },
     {
+      "igdb_id": 356429,
+      "game_name": "Curse Retold: A Hello Neighbor Tribute",
+      "file": "missing/C/356429-curse-retold-a-hello-neighbor-tribute.json"
+    },
+    {
       "igdb_id": 318122,
       "game_name": "Curse Rounds",
       "file": "missing/C/318122-curse-rounds.json"
@@ -234512,6 +234542,11 @@
       "file": "missing/D/356583-deemo-reborn-rayark-selection-vol-3.json"
     },
     {
+      "igdb_id": 356443,
+      "game_name": "Deemo: Reborn - Taiko no Tatsujin Collaboration Collection",
+      "file": "missing/D/356443-deemo-reborn-taiko-no-tatsujin-collaboration-collection.json"
+    },
+    {
       "igdb_id": 26996,
       "game_name": "Deemo: The Last Recital",
       "file": "missing/D/26996-deemo-the-last-recital.json"
@@ -249410,6 +249445,11 @@
       "igdb_id": 78690,
       "game_name": "Diner Dash 2: Restaurant Rescue",
       "file": "missing/D/78690-diner-dash-2-restaurant-rescue.json"
+    },
+    {
+      "igdb_id": 356432,
+      "game_name": "Diner Dash Adventures",
+      "file": "missing/D/356432-diner-dash-adventures.json"
     },
     {
       "igdb_id": 104663,
@@ -272775,6 +272815,11 @@
       "igdb_id": 105507,
       "game_name": "Dream Match Tennis VR",
       "file": "missing/D/105507-dream-match-tennis-vr.json"
+    },
+    {
+      "igdb_id": 356421,
+      "game_name": "Dream Mayday",
+      "file": "missing/D/356421-dream-mayday.json"
     },
     {
       "igdb_id": 286126,
@@ -316312,6 +316357,11 @@
       "file": "missing/F/105292-factory-town.json"
     },
     {
+      "igdb_id": 356436,
+      "game_name": "Factory Town 2: Paradise",
+      "file": "missing/F/356436-factory-town-2-paradise.json"
+    },
+    {
       "igdb_id": 229249,
       "game_name": "Factory Town: Idle",
       "file": "missing/F/229249-factory-town-idle.json"
@@ -319670,6 +319720,11 @@
       "igdb_id": 104514,
       "game_name": "Fallout Zone: Survival",
       "file": "missing/F/104514-fallout-zone-survival.json"
+    },
+    {
+      "igdb_id": 356437,
+      "game_name": "Fallout: Bakersfield",
+      "file": "missing/F/356437-fallout-bakersfield.json"
     },
     {
       "igdb_id": 243647,
@@ -327520,6 +327575,11 @@
       "igdb_id": 126346,
       "game_name": "FeArea: Battle Royale",
       "file": "missing/F/126346-fearea-battle-royale.json"
+    },
+    {
+      "igdb_id": 356445,
+      "game_name": "FearFactor Institute",
+      "file": "missing/F/356445-fearfactor-institute.json"
     },
     {
       "igdb_id": 336907,
@@ -398197,6 +398257,11 @@
       "file": "missing/G/319199-grim-omens.json"
     },
     {
+      "igdb_id": 356431,
+      "game_name": "Grim Pastures",
+      "file": "missing/G/356431-grim-pastures.json"
+    },
+    {
       "igdb_id": 374920,
       "game_name": "Grim Pastures: Outlaws",
       "file": "missing/G/374920-grim-pastures-outlaws.json"
@@ -402945,6 +403010,11 @@
       "igdb_id": 40153,
       "game_name": "Gumbo",
       "file": "missing/G/40153-gumbo.json"
+    },
+    {
+      "igdb_id": 356397,
+      "game_name": "Gumbo* and the Machine",
+      "file": "missing/G/356397-gumbo-and-the-machine.json"
     },
     {
       "igdb_id": 292551,
@@ -410120,6 +410190,111 @@
       "igdb_id": 287751,
       "game_name": "HamSumo",
       "file": "missing/H/287751-hamsumo.json"
+    },
+    {
+      "igdb_id": 356401,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A001: Mo Hams",
+      "file": "missing/H/356401-hamtaro-card-e-gekijou-gentei-03-a001-mo-hams.json"
+    },
+    {
+      "igdb_id": 356402,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A002: Minihamuzu",
+      "file": "missing/H/356402-hamtaro-card-e-gekijou-gentei-03-a002-minihamuzu.json"
+    },
+    {
+      "igdb_id": 356403,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A003: Hamtaro",
+      "file": "missing/H/356403-hamtaro-card-e-gekijou-gentei-03-a003-hamtaro.json"
+    },
+    {
+      "igdb_id": 356404,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A004: Hamtaro the Movie",
+      "file": "missing/H/356404-hamtaro-card-e-gekijou-gentei-03-a004-hamtaro-the-movie.json"
+    },
+    {
+      "igdb_id": 356405,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A005: Hamja Kingdom",
+      "file": "missing/H/356405-hamtaro-card-e-gekijou-gentei-03-a005-hamja-kingdom.json"
+    },
+    {
+      "igdb_id": 356406,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A006: Sabaku-Nya",
+      "file": "missing/H/356406-hamtaro-card-e-gekijou-gentei-03-a006-sabaku-nya.json"
+    },
+    {
+      "igdb_id": 356407,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A007: Go Ham",
+      "file": "missing/H/356407-hamtaro-card-e-gekijou-gentei-03-a007-go-ham.json"
+    },
+    {
+      "igdb_id": 356408,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A008: Meshi Ham",
+      "file": "missing/H/356408-hamtaro-card-e-gekijou-gentei-03-a008-meshi-ham.json"
+    },
+    {
+      "igdb_id": 356409,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A009: Ishi Ham",
+      "file": "missing/H/356409-hamtaro-card-e-gekijou-gentei-03-a009-ishi-ham.json"
+    },
+    {
+      "igdb_id": 356410,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A010: Yasu Ham",
+      "file": "missing/H/356410-hamtaro-card-e-gekijou-gentei-03-a010-yasu-ham.json"
+    },
+    {
+      "igdb_id": 356411,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A011: Yoshi Ham",
+      "file": "missing/H/356411-hamtaro-card-e-gekijou-gentei-03-a011-yoshi-ham.json"
+    },
+    {
+      "igdb_id": 356412,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A012: A Ham",
+      "file": "missing/H/356412-hamtaro-card-e-gekijou-gentei-03-a012-a-ham.json"
+    },
+    {
+      "igdb_id": 356413,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A013: Nii Ham",
+      "file": "missing/H/356413-hamtaro-card-e-gekijou-gentei-03-a013-nii-ham.json"
+    },
+    {
+      "igdb_id": 356414,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A014: Kon Ham",
+      "file": "missing/H/356414-hamtaro-card-e-gekijou-gentei-03-a014-kon-ham.json"
+    },
+    {
+      "igdb_id": 356415,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A015: Taka Ham",
+      "file": "missing/H/356415-hamtaro-card-e-gekijou-gentei-03-a015-taka-ham.json"
+    },
+    {
+      "igdb_id": 356416,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A016: O Ham",
+      "file": "missing/H/356416-hamtaro-card-e-gekijou-gentei-03-a016-o-ham.json"
+    },
+    {
+      "igdb_id": 356417,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A017: Merica-Ham",
+      "file": "missing/H/356417-hamtaro-card-e-gekijou-gentei-03-a017-merica-ham.json"
+    },
+    {
+      "igdb_id": 356418,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A018: Ai-n-chan",
+      "file": "missing/H/356418-hamtaro-card-e-gekijou-gentei-03-a018-ai-n-chan.json"
+    },
+    {
+      "igdb_id": 356419,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A019: Nonno-chan",
+      "file": "missing/H/356419-hamtaro-card-e-gekijou-gentei-03-a019-nonno-chan.json"
+    },
+    {
+      "igdb_id": 356420,
+      "game_name": "Hamtaro Card e: Gekijou Gentei - 03-A020: Good-chan",
+      "file": "missing/H/356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json"
+    },
+    {
+      "igdb_id": 356398,
+      "game_name": "Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version",
+      "file": "missing/H/356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json"
     },
     {
       "igdb_id": 6428,
@@ -440572,6 +440747,11 @@
       "file": "missing/H/377223-hop-and-seek.json"
     },
     {
+      "igdb_id": 356427,
+      "game_name": "Hop Drop",
+      "file": "missing/H/356427-hop-drop.json"
+    },
+    {
       "igdb_id": 206945,
       "game_name": "Hop for the Best",
       "file": "missing/H/206945-hop-for-the-best.json"
@@ -448145,6 +448325,11 @@
       "igdb_id": 241857,
       "game_name": "Hungry Monster",
       "file": "missing/H/241857-hungry-monster.json"
+    },
+    {
+      "igdb_id": 356503,
+      "game_name": "Hungry Monster Food Rain",
+      "file": "missing/H/356503-hungry-monster-food-rain.json"
     },
     {
       "igdb_id": 99657,
@@ -522652,6 +522837,11 @@
       "file": "missing/L/293365-learn-to-play-vol-1-fruit-collect.json"
     },
     {
+      "igdb_id": 356504,
+      "game_name": "Learn to Play vol. 11: Drift Moto",
+      "file": "missing/L/356504-learn-to-play-vol-11-drift-moto.json"
+    },
+    {
       "igdb_id": 305786,
       "game_name": "Learn to Play Vol. 3: Mice Love Cheese",
       "file": "missing/L/305786-learn-to-play-vol-3-mice-love-cheese.json"
@@ -557415,6 +557605,11 @@
       "igdb_id": 328101,
       "game_name": "Magnitude: Epsilon",
       "file": "missing/M/328101-magnitude-epsilon.json"
+    },
+    {
+      "igdb_id": 356505,
+      "game_name": "Magnitude: Lambda",
+      "file": "missing/M/356505-magnitude-lambda.json"
     },
     {
       "igdb_id": 366213,
@@ -604807,6 +605002,11 @@
       "file": "missing/M/407448-monji.json"
     },
     {
+      "igdb_id": 356506,
+      "game_name": "Monjum",
+      "file": "missing/M/356506-monjum.json"
+    },
+    {
       "igdb_id": 413622,
       "game_name": "Monk & The Misfit Monsters",
       "file": "missing/M/413622-monk-and-the-misfit-monsters.json"
@@ -628630,6 +628830,11 @@
       "igdb_id": 342150,
       "game_name": "Mystic Pathways",
       "file": "missing/M/342150-mystic-pathways.json"
+    },
+    {
+      "igdb_id": 356507,
+      "game_name": "Mystic Pathways: Crystal Quest",
+      "file": "missing/M/356507-mystic-pathways-crystal-quest.json"
     },
     {
       "igdb_id": 291150,
@@ -710792,6 +710997,11 @@
       "file": "missing/P/330813-pixicharm-darkwood-dash.json"
     },
     {
+      "igdb_id": 356508,
+      "game_name": "Pixicharm: Flindlehop",
+      "file": "missing/P/356508-pixicharm-flindlehop.json"
+    },
+    {
       "igdb_id": 373564,
       "game_name": "Pixicharm: Goo Patrol",
       "file": "missing/P/373564-pixicharm-goo-patrol.json"
@@ -774562,6 +774772,11 @@
       "file": "missing/R/174795-reverse-fantasy-legend-2.json"
     },
     {
+      "igdb_id": 356441,
+      "game_name": "Reverse Fishing",
+      "file": "missing/R/356441-reverse-fishing.json"
+    },
+    {
       "igdb_id": 387017,
       "game_name": "Reverse Horizons",
       "file": "missing/R/387017-reverse-horizons.json"
@@ -795210,6 +795425,11 @@
       "igdb_id": 329942,
       "game_name": "Run! Run! Don't Die!",
       "file": "missing/R/329942-run-run-dont-die.json"
+    },
+    {
+      "igdb_id": 356426,
+      "game_name": "Run! Run! Run!",
+      "file": "missing/R/356426-run-run-run.json"
     },
     {
       "igdb_id": 148492,
@@ -818645,6 +818865,11 @@
       "igdb_id": 6587,
       "game_name": "Serious Sam Advance",
       "file": "missing/S/6587-serious-sam-advance.json"
+    },
+    {
+      "igdb_id": 356399,
+      "game_name": "Serious Sam Alpha Remake",
+      "file": "missing/S/356399-serious-sam-alpha-remake.json"
     },
     {
       "igdb_id": 141060,
@@ -866930,6 +867155,11 @@
       "igdb_id": 155655,
       "game_name": "Space Fat: To the Core",
       "file": "missing/S/155655-space-fat-to-the-core.json"
+    },
+    {
+      "igdb_id": 356423,
+      "game_name": "Space Fever II",
+      "file": "missing/S/356423-space-fever-ii.json"
     },
     {
       "igdb_id": 216763,
@@ -917167,6 +917397,11 @@
       "file": "missing/S/311293-super-world-stadium-99.json"
     },
     {
+      "igdb_id": 356428,
+      "game_name": "Super World War",
+      "file": "missing/S/356428-super-world-war.json"
+    },
+    {
       "igdb_id": 347103,
       "game_name": "Super Worms",
       "file": "missing/S/347103-super-worms.json"
@@ -946990,6 +947225,11 @@
       "igdb_id": 74076,
       "game_name": "The Abyss: Incident at Europa",
       "file": "missing/T/74076-the-abyss-incident-at-europa.json"
+    },
+    {
+      "igdb_id": 356435,
+      "game_name": "The Abyssal Descent",
+      "file": "missing/T/356435-the-abyssal-descent.json"
     },
     {
       "igdb_id": 400939,
@@ -1056572,6 +1056812,11 @@
       "file": "missing/U/235883-university-love-affair.json"
     },
     {
+      "igdb_id": 356442,
+      "game_name": "University of Problems",
+      "file": "missing/U/356442-university-of-problems.json"
+    },
+    {
       "igdb_id": 339916,
       "game_name": "Univocity",
       "file": "missing/U/339916-univocity.json"
@@ -1076635,6 +1076880,11 @@
       "igdb_id": 227795,
       "game_name": "Wa ga Ryuu wo Miyo: Pride of the Dragon Peace",
       "file": "missing/W/227795-wa-ga-ryuu-wo-miyo-pride-of-the-dragon-peace.json"
+    },
+    {
+      "igdb_id": 356424,
+      "game_name": "Wa-shoi! Kamiokoshi",
+      "file": "missing/W/356424-wa-shoi-kamiokoshi.json"
     },
     {
       "igdb_id": 392230,
