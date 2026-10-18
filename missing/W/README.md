@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
 | Way Walkers: University 2 | 160088 | [160088-way-walkers-university-2.json](./160088-way-walkers-university-2.json) |
 | Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
+| Wayblazer Dämmerung | 315312 | [315312-wayblazer-dammerung.json](./315312-wayblazer-dammerung.json) |
 | WAyE | 105378 | [105378-waye.json](./105378-waye.json) |
 | Wayfarer | 178450 | [178450-wayfarer.json](./178450-wayfarer.json) |
 | Wayfarer | 310721 | [310721-wayfarer.json](./310721-wayfarer.json) |
@@ -3475,6 +3476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is Johnny Sixgun? | 379168 | [379168-who-is-johnny-sixgun.json](./379168-who-is-johnny-sixgun.json) |
 | Who Is Oscar Lake? | 72622 | [72622-who-is-oscar-lake.json](./72622-who-is-oscar-lake.json) |
 | Who is Paul | 320573 | [320573-who-is-paul.json](./320573-who-is-paul.json) |
+| Who is the Criminal | 315328 | [315328-who-is-the-criminal.json](./315328-who-is-the-criminal.json) |
 | Who is the Defendant: Deliberately Rough | 312554 | [312554-who-is-the-defendant-deliberately-rough.json](./312554-who-is-the-defendant-deliberately-rough.json) |
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
 | Who is the Joker? | 298424 | [298424-who-is-the-joker.json](./298424-who-is-the-joker.json) |
@@ -5142,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Womb | 262595 | [262595-womb.json](./262595-womb.json) |
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
 | Womb of Worms | 394378 | [394378-womb-of-worms.json](./394378-womb-of-worms.json) |
+| Wombel | 315329 | [315329-wombel.json](./315329-wombel.json) |
 | WomboCombo | 390248 | [390248-wombocombo.json](./390248-wombocombo.json) |
 | Women's Murder Club: A Darker Shade of Grey | 64712 | [64712-womens-murder-club-a-darker-shade-of-grey.json](./64712-womens-murder-club-a-darker-shade-of-grey.json) |
 | Women's Murder Club: Death in Scarlet | 51404 | [51404-womens-murder-club-death-in-scarlet.json](./51404-womens-murder-club-death-in-scarlet.json) |
