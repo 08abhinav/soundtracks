@@ -3736,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seifuku Kanojo 2: Free DLC Act.4 - Konomi Yui | 375438 | [375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json](./375438-seifuku-kanojo-2-free-dlc-act-4-konomi-yui.json) |
 | Seifuku Kanojo 2.5 | 375361 | [375361-seifuku-kanojo-2-5.json](./375361-seifuku-kanojo-2-5.json) |
 | Seifuku Kanojo 3 | 375360 | [375360-seifuku-kanojo-3.json](./375360-seifuku-kanojo-3.json) |
+| Seifuku Kanojo: Mayoigo Engage | 318255 | [318255-seifuku-kanojo-mayoigo-engage.json](./318255-seifuku-kanojo-mayoigo-engage.json) |
 | Seifuku: High School Countdown | 234180 | [234180-seifuku-high-school-countdown.json](./234180-seifuku-high-school-countdown.json) |
 | Seigi no Mikata Giga Trust | 331192 | [331192-seigi-no-mikata-giga-trust.json](./331192-seigi-no-mikata-giga-trust.json) |
 | Seigi no Torishirabe | 240230 | [240230-seigi-no-torishirabe.json](./240230-seigi-no-torishirabe.json) |
@@ -4240,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serizawa Hachidan no Tsume Shogi | 6132 | [6132-serizawa-hachidan-no-tsume-shogi.json](./6132-serizawa-hachidan-no-tsume-shogi.json) |
 | Serizawa Nobuo no Birdie Try | 406567 | [406567-serizawa-nobuo-no-birdie-try.json](./406567-serizawa-nobuo-no-birdie-try.json) |
 | Serk: Chaos City Delivery | 348919 | [348919-serk-chaos-city-delivery.json](./348919-serk-chaos-city-delivery.json) |
+| Serke | 318288 | [318288-serke.json](./318288-serke.json) |
 | SerMon | 404386 | [404386-sermon.json](./404386-sermon.json) |
 | Seroutte | 234575 | [234575-seroutte.json](./234575-seroutte.json) |
 | Serpedelic | 181181 | [181181-serpedelic.json](./181181-serpedelic.json) |
@@ -4834,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
 | Shadow Labyrinth | 325583 | [325583-shadow-labyrinth.json](./325583-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
+| Shadow Leap | 318280 | [318280-shadow-leap.json](./318280-shadow-leap.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
 | Shadow Lost | 155889 | [155889-shadow-lost.json](./155889-shadow-lost.json) |
 | Shadow Man | 3598 | [3598-shadow-man.json](./3598-shadow-man.json) |
@@ -6752,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
+| Shortcut Run | 318265 | [318265-shortcut-run.json](./318265-shortcut-run.json) |
 | Shortest Trip to Earth | 108656 | [108656-shortest-trip-to-earth.json](./108656-shortest-trip-to-earth.json) |
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
@@ -7454,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal13 | 410346 | [410346-signal13.json](./410346-signal13.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
+| Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
 | Signets of Power | 61982 | [61982-signets-of-power.json](./61982-signets-of-power.json) |
 | Significant | 384208 | [384208-significant.json](./384208-significant.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
@@ -10329,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
 | Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
 | Smash Up: Pretty Pretty | 172147 | [172147-smash-up-pretty-pretty.json](./172147-smash-up-pretty-pretty.json) |
+| Smash Your PC | 318267 | [318267-smash-your-pc.json](./318267-smash-your-pc.json) |
 | Smash'em | 158703 | [158703-smashem.json](./158703-smashem.json) |
 | Smash'em | 185543 | [185543-smashem.json](./185543-smashem.json) |
 | Smashball | 29122 | [29122-smashball.json](./29122-smashball.json) |
@@ -10612,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake | 377165 | [377165-snake.json](./377165-snake.json) |
 | Snake '97: retro phone classic | 89541 | [89541-snake-97-retro-phone-classic.json](./89541-snake-97-retro-phone-classic.json) |
 | Snake & Snake | 56756 | [56756-snake-and-snake.json](./56756-snake-and-snake.json) |
+| Snake 1 | 318258 | [318258-snake-1.json](./318258-snake-1.json) |
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
@@ -13999,6 +14006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Evolver | 417943 | [417943-space-evolver.json](./417943-space-evolver.json) |
 | Space Expand | 115132 | [115132-space-expand.json](./115132-space-expand.json) |
 | Space Expedition | 146100 | [146100-space-expedition.json](./146100-space-expedition.json) |
+| Space Explore VR | 318276 | [318276-space-explore-vr.json](./318276-space-explore-vr.json) |
 | Space Explorer Iyo!! | 180513 | [180513-space-explorer-iyo.json](./180513-space-explorer-iyo.json) |
 | Space Explorers: Lunar Mission | 214477 | [214477-space-explorers-lunar-mission.json](./214477-space-explorers-lunar-mission.json) |
 | Space Explorers: Reload | 105250 | [105250-space-explorers-reload.json](./105250-space-explorers-reload.json) |
@@ -18922,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Judgment | 329589 | [329589-steel-judgment.json](./329589-steel-judgment.json) |
 | Steel Knight 1513 | 86414 | [86414-steel-knight-1513.json](./86414-steel-knight-1513.json) |
 | Steel Knight's Armis | 320807 | [320807-steel-knights-armis.json](./320807-steel-knights-armis.json) |
+| Steel Legion | 318283 | [318283-steel-legion.json](./318283-steel-legion.json) |
 | Steel Lords | 57320 | [57320-steel-lords.json](./57320-steel-lords.json) |
 | Steel Machine | 46566 | [46566-steel-machine.json](./46566-steel-machine.json) |
 | Steel Maiden | 408001 | [408001-steel-maiden.json](./408001-steel-maiden.json) |
