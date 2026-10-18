@@ -1809,6 +1809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caren and the Tangled Tentacles | 344976 | [344976-caren-and-the-tangled-tentacles.json](./344976-caren-and-the-tangled-tentacles.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
+| Caretaker | 362014 | [362014-caretaker.json](./362014-caretaker.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
@@ -10687,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Solitaire | 295922 | [295922-cosmo-solitaire.json](./295922-cosmo-solitaire.json) |
 | Cosmo Solitaire 2 | 337254 | [337254-cosmo-solitaire-2.json](./337254-cosmo-solitaire-2.json) |
 | Cosmo Solitaire 4: Edge of the Galaxy | 421790 | [421790-cosmo-solitaire-4-edge-of-the-galaxy.json](./421790-cosmo-solitaire-4-edge-of-the-galaxy.json) |
+| Cosmo Tales | 362053 | [362053-cosmo-tales.json](./362053-cosmo-tales.json) |
 | Cosmo Vulpes | 216194 | [216194-cosmo-vulpes.json](./216194-cosmo-vulpes.json) |
 | Cosmo-Champion | 346089 | [346089-cosmo-champion.json](./346089-cosmo-champion.json) |
 | Cosmo-s | 240860 | [240860-cosmo-s.json](./240860-cosmo-s.json) |
@@ -14107,6 +14109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Drive | 64873 | [64873-custom-drive.json](./64873-custom-drive.json) |
+| Custom Fortress | 362061 | [362061-custom-fortress.json](./362061-custom-fortress.json) |
 | Custom Goban | 236181 | [236181-custom-goban.json](./236181-custom-goban.json) |
 | Custom Maid 3D | 191694 | [191694-custom-maid-3d.json](./191694-custom-maid-3d.json) |
 | Custom Maid 3D 2 | 26563 | [26563-custom-maid-3d-2.json](./26563-custom-maid-3d-2.json) |
