@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effie: Galand's Edition | 155147 | [155147-effie-galands-edition.json](./155147-effie-galands-edition.json) |
 | Effigy | 218715 | [218715-effigy.json](./218715-effigy.json) |
 | Effigy: The Descent | 200385 | [200385-effigy-the-descent.json](./200385-effigy-the-descent.json) |
+| Effing Hail | 314706 | [314706-effing-hail.json](./314706-effing-hail.json) |
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
@@ -1336,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
+| El Camino Del Zorro | 314707 | [314707-el-camino-del-zorro.json](./314707-el-camino-del-zorro.json) |
 | El Camperillo | 302740 | [302740-el-camperillo.json](./302740-el-camperillo.json) |
 | El Capitán Trueno | 100184 | [100184-el-capitan-trueno.json](./100184-el-capitan-trueno.json) |
 | El Capitán Trueno en la Montaña de los Suspiros | 70085 | [70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json](./70085-el-capitan-trueno-en-la-montana-de-los-suspiros.json) |
