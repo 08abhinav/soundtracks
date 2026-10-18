@@ -6889,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 7 - The Divide | 347873 | [347873-the-finals-season-7-the-divide.json](./347873-the-finals-season-7-the-divide.json) |
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
 | The Find | 326989 | [326989-the-find.json](./326989-the-find.json) |
+| The Fine Art of Murder | 322407 | [322407-the-fine-art-of-murder.json](./322407-the-fine-art-of-murder.json) |
 | The Finest Spark | 408235 | [408235-the-finest-spark.json](./408235-the-finest-spark.json) |
 | The Finnish Virtual Art Gallery | 110761 | [110761-the-finnish-virtual-art-gallery.json](./110761-the-finnish-virtual-art-gallery.json) |
 | The Finnish War | 195573 | [195573-the-finnish-war.json](./195573-the-finnish-war.json) |
@@ -9012,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Chuck | 291006 | [291006-the-legend-of-chuck.json](./291006-the-legend-of-chuck.json) |
 | The Legend Of Chupacabra And The Sentient Log | 404451 | [404451-the-legend-of-chupacabra-and-the-sentient-log.json](./404451-the-legend-of-chupacabra-and-the-sentient-log.json) |
 | The Legend of Cube | 227858 | [227858-the-legend-of-cube.json](./227858-the-legend-of-cube.json) |
+| The Legend of Cyber Cowboy | 322406 | [322406-the-legend-of-cyber-cowboy.json](./322406-the-legend-of-cyber-cowboy.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
 | The Legend of Dark Witch Episode 2 -The Price of Desire- | 80710 | [80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
