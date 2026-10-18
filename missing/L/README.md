@@ -3518,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightning Duru | 254390 | [254390-lightning-duru.json](./254390-lightning-duru.json) |
 | Lightning Fast | 157141 | [157141-lightning-fast.json](./157141-lightning-fast.json) |
 | Lightning Fighter | 335329 | [335329-lightning-fighter.json](./335329-lightning-fighter.json) |
+| Lightning Katana | 331660 | [331660-lightning-katana.json](./331660-lightning-katana.json) |
 | Lightning Legend: Daigo no Daibouken | 44772 | [44772-lightning-legend-daigo-no-daibouken.json](./44772-lightning-legend-daigo-no-daibouken.json) |
 | Lightning Link | 386224 | [386224-lightning-link.json](./386224-lightning-link.json) |
 | Lightning Magician Clicker | 107106 | [107106-lightning-magician-clicker.json](./107106-lightning-magician-clicker.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistics Simulator | 161346 | [161346-logistics-simulator.json](./161346-logistics-simulator.json) |
 | Logistique | 157572 | [157572-logistique.json](./157572-logistique.json) |
 | Logix: The Missing Part | 301884 | [301884-logix-the-missing-part.json](./301884-logix-the-missing-part.json) |
+| Logo Game Guess: Brand Quiz | 331650 | [331650-logo-game-guess-brand-quiz.json](./331650-logo-game-guess-brand-quiz.json) |
 | Logo Quiz | 135126 | [135126-logo-quiz.json](./135126-logo-quiz.json) |
 | Logo Quiz Club | 105849 | [105849-logo-quiz-club.json](./105849-logo-quiz-club.json) |
 | Logo Quiz Fever | 103661 | [103661-logo-quiz-fever.json](./103661-logo-quiz-fever.json) |
@@ -6403,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveArena | 385051 | [385051-lovearena.json](./385051-lovearena.json) |
 | Lovebirb | 204516 | [204516-lovebirb.json](./204516-lovebirb.json) |
 | Loveble | 98048 | [98048-loveble.json](./98048-loveble.json) |
+| LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
