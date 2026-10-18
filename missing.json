@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T03:33:24.391Z",
-  "total_missing": 226541,
+  "generated_at": "2026-10-18T03:48:12.759Z",
+  "total_missing": 226591,
   "games": [
     {
       "igdb_id": 191680,
@@ -68585,6 +68585,11 @@
       "igdb_id": 276946,
       "game_name": "Astro Miner: Moons",
       "file": "missing/A/276946-astro-miner-moons.json"
+    },
+    {
+      "igdb_id": 354213,
+      "game_name": "Astro Miners",
+      "file": "missing/A/354213-astro-miners.json"
     },
     {
       "igdb_id": 192811,
@@ -141640,6 +141645,11 @@
       "igdb_id": 20137,
       "game_name": "Buster Bros. Collection",
       "file": "missing/B/20137-buster-bros-collection.json"
+    },
+    {
+      "igdb_id": 354231,
+      "game_name": "Buster Bubbles",
+      "file": "missing/B/354231-buster-bubbles.json"
     },
     {
       "igdb_id": 375390,
@@ -227452,6 +227462,11 @@
       "file": "missing/D/85731-dbazas-diabetes-education-for-kids.json"
     },
     {
+      "igdb_id": 354237,
+      "game_name": "DBZ: O Renascimento de F",
+      "file": "missing/D/354237-dbz-o-renascimento-de-f.json"
+    },
+    {
       "igdb_id": 137600,
       "game_name": "DC Battle Arena",
       "file": "missing/D/137600-dc-battle-arena.json"
@@ -231735,6 +231750,11 @@
       "igdb_id": 204480,
       "game_name": "Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen!",
       "file": "missing/D/204480-dear-girl-stories-hibiki-hibiki-tokkun-daisakusen.json"
+    },
+    {
+      "igdb_id": 354239,
+      "game_name": "Dear Leader",
+      "file": "missing/D/354239-dear-leader.json"
     },
     {
       "igdb_id": 60442,
@@ -356012,9 +356032,19 @@
       "file": "missing/F/297904-free-chess.json"
     },
     {
+      "igdb_id": 354204,
+      "game_name": "Free Chess: Blocky Set",
+      "file": "missing/F/354204-free-chess-blocky-set.json"
+    },
+    {
       "igdb_id": 336482,
       "game_name": "Free Chess: Brutalist Set",
       "file": "missing/F/336482-free-chess-brutalist-set.json"
+    },
+    {
+      "igdb_id": 354207,
+      "game_name": "Free Chess: Bullets Set",
+      "file": "missing/F/354207-free-chess-bullets-set.json"
     },
     {
       "igdb_id": 305534,
@@ -356027,9 +356057,19 @@
       "file": "missing/F/335500-free-chess-lewis-set.json"
     },
     {
+      "igdb_id": 354205,
+      "game_name": "Free Chess: Nuts n Bolts Set",
+      "file": "missing/F/354205-free-chess-nuts-n-bolts-set.json"
+    },
+    {
       "igdb_id": 310390,
       "game_name": "Free Chess: Primitives Set",
       "file": "missing/F/310390-free-chess-primitives-set.json"
+    },
+    {
+      "igdb_id": 354206,
+      "game_name": "Free Chess: Standard II Set",
+      "file": "missing/F/354206-free-chess-standard-ii-set.json"
     },
     {
       "igdb_id": 119978,
@@ -362822,6 +362862,11 @@
       "file": "missing/F/323320-funko-fusion-invincible-pack.json"
     },
     {
+      "igdb_id": 354238,
+      "game_name": "Funko Fusion: Jurassic World Bonus Pack",
+      "file": "missing/F/354238-funko-fusion-jurassic-world-bonus-pack.json"
+    },
+    {
       "igdb_id": 354021,
       "game_name": "Funko Fusion: Jurassic World Rebirth DLC",
       "file": "missing/F/354021-funko-fusion-jurassic-world-rebirth-dlc.json"
@@ -362842,6 +362887,11 @@
       "file": "missing/F/332470-funko-fusion-kim-pine.json"
     },
     {
+      "igdb_id": 354227,
+      "game_name": "Funko Fusion: Manchester City Pack",
+      "file": "missing/F/354227-funko-fusion-manchester-city-pack.json"
+    },
+    {
       "igdb_id": 354012,
       "game_name": "Funko Fusion: Mega Man Pack",
       "file": "missing/F/354012-funko-fusion-mega-man-pack.json"
@@ -362850,6 +362900,11 @@
       "igdb_id": 331547,
       "game_name": "Funko Fusion: Mega Man Pack Bundle",
       "file": "missing/F/331547-funko-fusion-mega-man-pack-bundle.json"
+    },
+    {
+      "igdb_id": 354234,
+      "game_name": "Funko Fusion: SpecialEffect's Streamer Bear",
+      "file": "missing/F/354234-funko-fusion-specialeffects-streamer-bear.json"
     },
     {
       "igdb_id": 323397,
@@ -362885,6 +362940,21 @@
       "igdb_id": 332016,
       "game_name": "Funko Fusion: Universal Monsters Pack Bundle",
       "file": "missing/F/332016-funko-fusion-universal-monsters-pack-bundle.json"
+    },
+    {
+      "igdb_id": 354229,
+      "game_name": "Funko Fusion: WDC Pack",
+      "file": "missing/F/354229-funko-fusion-wdc-pack.json"
+    },
+    {
+      "igdb_id": 354230,
+      "game_name": "Funko Fusion: Wicked Movie Pack 3",
+      "file": "missing/F/354230-funko-fusion-wicked-movie-pack-3.json"
+    },
+    {
+      "igdb_id": 354241,
+      "game_name": "Funko Fusion: Wolfie Pack",
+      "file": "missing/F/354241-funko-fusion-wolfie-pack.json"
     },
     {
       "igdb_id": 332471,
@@ -383870,6 +383940,11 @@
       "igdb_id": 251449,
       "game_name": "GlowBoard: WinterFest",
       "file": "missing/G/251449-glowboard-winterfest.json"
+    },
+    {
+      "igdb_id": 354235,
+      "game_name": "Glowface In Love 2",
+      "file": "missing/G/354235-glowface-in-love-2.json"
     },
     {
       "igdb_id": 389057,
@@ -409557,9 +409632,24 @@
       "file": "missing/H/988-halo-wars.json"
     },
     {
+      "igdb_id": 354226,
+      "game_name": "Halo Wars 2 Season Pass",
+      "file": "missing/H/354226-halo-wars-2-season-pass.json"
+    },
+    {
       "igdb_id": 37383,
       "game_name": "Halo Wars 2: Awakening the Nightmare",
       "file": "missing/H/37383-halo-wars-2-awakening-the-nightmare.json"
+    },
+    {
+      "igdb_id": 354217,
+      "game_name": "Halo Wars 2: Colony Leader Pack",
+      "file": "missing/H/354217-halo-wars-2-colony-leader-pack.json"
+    },
+    {
+      "igdb_id": 354220,
+      "game_name": "Halo Wars 2: Commander Jerome Leader Pack",
+      "file": "missing/H/354220-halo-wars-2-commander-jerome-leader-pack.json"
     },
     {
       "igdb_id": 84476,
@@ -409567,14 +409657,44 @@
       "file": "missing/H/84476-halo-wars-2-complete-edition.json"
     },
     {
+      "igdb_id": 354215,
+      "game_name": "Halo Wars 2: Forge Leader Pack",
+      "file": "missing/H/354215-halo-wars-2-forge-leader-pack.json"
+    },
+    {
+      "igdb_id": 354221,
+      "game_name": "Halo Wars 2: Kinsano Leader Pack",
+      "file": "missing/H/354221-halo-wars-2-kinsano-leader-pack.json"
+    },
+    {
       "igdb_id": 75417,
       "game_name": "Halo Wars 2: Operation Spearbreaker",
       "file": "missing/H/75417-halo-wars-2-operation-spearbreaker.json"
     },
     {
+      "igdb_id": 354216,
+      "game_name": "Halo Wars 2: Sergeant Johnson Leader Pack",
+      "file": "missing/H/354216-halo-wars-2-sergeant-johnson-leader-pack.json"
+    },
+    {
+      "igdb_id": 354224,
+      "game_name": "Halo Wars 2: Serina Leader Pack",
+      "file": "missing/H/354224-halo-wars-2-serina-leader-pack.json"
+    },
+    {
+      "igdb_id": 354223,
+      "game_name": "Halo Wars 2: The Arbiter Leader Pack",
+      "file": "missing/H/354223-halo-wars-2-the-arbiter-leader-pack.json"
+    },
+    {
       "igdb_id": 27765,
       "game_name": "Halo Wars 2: Ultimate Edition",
       "file": "missing/H/27765-halo-wars-2-ultimate-edition.json"
+    },
+    {
+      "igdb_id": 354218,
+      "game_name": "Halo Wars 2: YapYap the Destroyer Leader Pack",
+      "file": "missing/H/354218-halo-wars-2-yapyap-the-destroyer-leader-pack.json"
     },
     {
       "igdb_id": 26183,
@@ -518847,6 +518967,11 @@
       "file": "missing/L/85743-laser-snaker.json"
     },
     {
+      "igdb_id": 354212,
+      "game_name": "Laser Spider Playground",
+      "file": "missing/L/354212-laser-spider-playground.json"
+    },
+    {
       "igdb_id": 115680,
       "game_name": "Laser Stallion Disco Junkie: One Hit",
       "file": "missing/L/115680-laser-stallion-disco-junkie-one-hit.json"
@@ -559832,6 +559957,11 @@
       "file": "missing/M/218950-majoou.json"
     },
     {
+      "igdb_id": 354209,
+      "game_name": "Majogami",
+      "file": "missing/M/354209-majogami.json"
+    },
+    {
       "igdb_id": 252398,
       "game_name": "Majoneko",
       "file": "missing/M/252398-majoneko.json"
@@ -574032,9 +574162,19 @@
       "file": "missing/M/362372-maze-path-of-light-forest-edition.json"
     },
     {
+      "igdb_id": 354194,
+      "game_name": "Maze: Path of Light - Oasis Constellations",
+      "file": "missing/M/354194-maze-path-of-light-oasis-constellations.json"
+    },
+    {
       "igdb_id": 404280,
       "game_name": "Maze: Path of Light - Oasis Edition",
       "file": "missing/M/404280-maze-path-of-light-oasis-edition.json"
+    },
+    {
+      "igdb_id": 354195,
+      "game_name": "Maze: Path of Light - Wild Constellations",
+      "file": "missing/M/354195-maze-path-of-light-wild-constellations.json"
     },
     {
       "igdb_id": 368780,
@@ -626720,6 +626860,11 @@
       "igdb_id": 407473,
       "game_name": "My Tsundere Sister",
       "file": "missing/M/407473-my-tsundere-sister.json"
+    },
+    {
+      "igdb_id": 354233,
+      "game_name": "My tubi",
+      "file": "missing/M/354233-my-tubi.json"
     },
     {
       "igdb_id": 130624,
@@ -742467,6 +742612,11 @@
       "file": "missing/P/310023-puppet-master-the-game-dark-horse-skins.json"
     },
     {
+      "igdb_id": 354208,
+      "game_name": "Puppet Master: The Game - Demonic Toys: Blood and Stitches Skin Pack",
+      "file": "missing/P/354208-puppet-master-the-game-demonic-toys-blood-and-stitches-skin-pack.json"
+    },
+    {
       "igdb_id": 278400,
       "game_name": "Puppet Master: The Game - Movie Edition Blade + Execution",
       "file": "missing/P/278400-puppet-master-the-game-movie-edition-blade-execution.json"
@@ -792902,6 +793052,11 @@
       "file": "missing/R/188874-roxy-raccoons-pinball-panic.json"
     },
     {
+      "igdb_id": 354200,
+      "game_name": "Roxy Raccoon's Pinball Panic - Movie Magic",
+      "file": "missing/R/354200-roxy-raccoons-pinball-panic-movie-magic.json"
+    },
+    {
       "igdb_id": 311788,
       "game_name": "Roxy Raccoon's Pinball Panic: American Anniversary",
       "file": "missing/R/311788-roxy-raccoons-pinball-panic-american-anniversary.json"
@@ -792910,6 +793065,11 @@
       "igdb_id": 285461,
       "game_name": "Roxy Raccoon's Pinball Panic: Baker's Best",
       "file": "missing/R/285461-roxy-raccoons-pinball-panic-bakers-best.json"
+    },
+    {
+      "igdb_id": 354201,
+      "game_name": "Roxy Raccoon's Pinball Panic: Candycopia",
+      "file": "missing/R/354201-roxy-raccoons-pinball-panic-candycopia.json"
     },
     {
       "igdb_id": 235360,
@@ -792932,9 +793092,19 @@
       "file": "missing/R/230893-roxy-raccoons-pinball-panic-epic-egypt.json"
     },
     {
+      "igdb_id": 354199,
+      "game_name": "Roxy Raccoon's Pinball Panic: Great Gangs",
+      "file": "missing/R/354199-roxy-raccoons-pinball-panic-great-gangs.json"
+    },
+    {
       "igdb_id": 226931,
       "game_name": "Roxy Raccoon's Pinball Panic: Joyous Japan",
       "file": "missing/R/226931-roxy-raccoons-pinball-panic-joyous-japan.json"
+    },
+    {
+      "igdb_id": 354196,
+      "game_name": "Roxy Raccoon's Pinball Panic: Makin' Music",
+      "file": "missing/R/354196-roxy-raccoons-pinball-panic-makin-music.json"
     },
     {
       "igdb_id": 259594,
@@ -792955,6 +793125,11 @@
       "igdb_id": 289863,
       "game_name": "Roxy Raccoon's Pinball Panic: Retro Revival",
       "file": "missing/R/289863-roxy-raccoons-pinball-panic-retro-revival.json"
+    },
+    {
+      "igdb_id": 354197,
+      "game_name": "Roxy Raccoon's Pinball Panic: Roman Renaissance",
+      "file": "missing/R/354197-roxy-raccoons-pinball-panic-roman-renaissance.json"
     },
     {
       "igdb_id": 241315,
@@ -792980,6 +793155,11 @@
       "igdb_id": 311789,
       "game_name": "Roxy Raccoon's Pinball Panic: Tropical Treats",
       "file": "missing/R/311789-roxy-raccoons-pinball-panic-tropical-treats.json"
+    },
+    {
+      "igdb_id": 354198,
+      "game_name": "Roxy Raccoon's Pinball Panic: Viking Ventures",
+      "file": "missing/R/354198-roxy-raccoons-pinball-panic-viking-ventures.json"
     },
     {
       "igdb_id": 252980,
@@ -825605,6 +825785,11 @@
       "igdb_id": 43097,
       "game_name": "Shark Dating Simulator XL",
       "file": "missing/S/43097-shark-dating-simulator-xl.json"
+    },
+    {
+      "igdb_id": 354222,
+      "game_name": "Shark Dentist",
+      "file": "missing/S/354222-shark-dentist.json"
     },
     {
       "igdb_id": 220256,
@@ -864702,6 +864887,11 @@
       "file": "missing/S/194020-soul-land-advent-of-the-gods.json"
     },
     {
+      "igdb_id": 354242,
+      "game_name": "Soul Land: Hunting World",
+      "file": "missing/S/354242-soul-land-hunting-world.json"
+    },
+    {
       "igdb_id": 208073,
       "game_name": "Soul Launcher",
       "file": "missing/S/208073-soul-launcher.json"
@@ -884825,6 +885015,11 @@
       "igdb_id": 47175,
       "game_name": "Star Paws",
       "file": "missing/S/47175-star-paws.json"
+    },
+    {
+      "igdb_id": 354202,
+      "game_name": "Star Periphery",
+      "file": "missing/S/354202-star-periphery.json"
     },
     {
       "igdb_id": 136240,
@@ -1064487,6 +1064682,11 @@
       "file": "missing/V/145688-vampire-vs-devil.json"
     },
     {
+      "igdb_id": 354225,
+      "game_name": "Vampire vs. Pope Army",
+      "file": "missing/V/354225-vampire-vs-pope-army.json"
+    },
+    {
       "igdb_id": 300826,
       "game_name": "Vampire: Darkness Falls",
       "file": "missing/V/300826-vampire-darkness-falls.json"
@@ -1090897,6 +1091097,11 @@
       "file": "missing/W/142382-what-comes-after.json"
     },
     {
+      "igdb_id": 354300,
+      "game_name": "What Comes After",
+      "file": "missing/W/354300-what-comes-after.json"
+    },
+    {
       "igdb_id": 332974,
       "game_name": "What Comes Next",
       "file": "missing/W/332974-what-comes-next.json"
@@ -1104127,6 +1104332,11 @@
       "file": "missing/W/260978-wooo-2.json"
     },
     {
+      "igdb_id": 354236,
+      "game_name": "Wooper no Juggling Game",
+      "file": "missing/W/354236-wooper-no-juggling-game.json"
+    },
+    {
       "igdb_id": 25867,
       "game_name": "Woorld",
       "file": "missing/W/25867-woorld.json"
@@ -1115177,6 +1115387,11 @@
       "file": "missing/X/253486-xochis-apothecary.json"
     },
     {
+      "igdb_id": 354214,
+      "game_name": "Xociety",
+      "file": "missing/X/354214-xociety.json"
+    },
+    {
       "igdb_id": 130942,
       "game_name": "Xod.io",
       "file": "missing/X/130942-xod-io.json"
@@ -1125992,6 +1126207,11 @@
       "file": "missing/Z/354359-zen-pinball-aliens-vs-predator-pinball.json"
     },
     {
+      "igdb_id": 354304,
+      "game_name": "Zen Pinball: Back to the Future Pinball",
+      "file": "missing/Z/354304-zen-pinball-back-to-the-future-pinball.json"
+    },
+    {
       "igdb_id": 354357,
       "game_name": "Zen Pinball: Boba Fett",
       "file": "missing/Z/354357-zen-pinball-boba-fett.json"
@@ -1126002,9 +1126222,39 @@
       "file": "missing/Z/354362-zen-pinball-doom-pinball.json"
     },
     {
+      "igdb_id": 354298,
+      "game_name": "Zen Pinball: Epic Quest",
+      "file": "missing/Z/354298-zen-pinball-epic-quest.json"
+    },
+    {
+      "igdb_id": 354299,
+      "game_name": "Zen Pinball: Excalibur",
+      "file": "missing/Z/354299-zen-pinball-excalibur.json"
+    },
+    {
       "igdb_id": 354361,
       "game_name": "Zen Pinball: Fallout Pinball",
       "file": "missing/Z/354361-zen-pinball-fallout-pinball.json"
+    },
+    {
+      "igdb_id": 354305,
+      "game_name": "Zen Pinball: Jaws Pinball",
+      "file": "missing/Z/354305-zen-pinball-jaws-pinball.json"
+    },
+    {
+      "igdb_id": 354302,
+      "game_name": "Zen Pinball: Jurassic Park Pinball",
+      "file": "missing/Z/354302-zen-pinball-jurassic-park-pinball.json"
+    },
+    {
+      "igdb_id": 354303,
+      "game_name": "Zen Pinball: Jurassic Park Pinball Mayhem",
+      "file": "missing/Z/354303-zen-pinball-jurassic-park-pinball-mayhem.json"
+    },
+    {
+      "igdb_id": 354301,
+      "game_name": "Zen Pinball: Jurassic World Pinball",
+      "file": "missing/Z/354301-zen-pinball-jurassic-world-pinball.json"
     },
     {
       "igdb_id": 354364,
