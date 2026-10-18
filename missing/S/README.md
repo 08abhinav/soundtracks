@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Nihon-Ichi | 40415 | [40415-samurai-nihon-ichi.json](./40415-samurai-nihon-ichi.json) |
 | Samurai Ninja Wars | 285522 | [285522-samurai-ninja-wars.json](./285522-samurai-ninja-wars.json) |
 | Samurai Obby | 395771 | [395771-samurai-obby.json](./395771-samurai-obby.json) |
+| Samurai of Hyuga Book 5 | 321212 | [321212-samurai-of-hyuga-book-5.json](./321212-samurai-of-hyuga-book-5.json) |
 | Samurai of Hyuga Book 5: Side Stories 11-20 | 213461 | [213461-samurai-of-hyuga-book-5-side-stories-11-20.json](./213461-samurai-of-hyuga-book-5-side-stories-11-20.json) |
 | Samurai of Hyuga Book 6 | 402539 | [402539-samurai-of-hyuga-book-6.json](./402539-samurai-of-hyuga-book-6.json) |
 | Samurai Pig : The Way of the Rooster | 216925 | [216925-samurai-pig-the-way-of-the-rooster.json](./216925-samurai-pig-the-way-of-the-rooster.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Cop Man | 332568 | [332568-shotgun-cop-man.json](./332568-shotgun-cop-man.json) |
 | ShotGun Exorcist | 270200 | [270200-shotgun-exorcist.json](./270200-shotgun-exorcist.json) |
 | Shotgun FunFun Legacy | 88357 | [88357-shotgun-funfun-legacy.json](./88357-shotgun-funfun-legacy.json) |
+| Shotgun II: Double Barrel | 321233 | [321233-shotgun-ii-double-barrel.json](./321233-shotgun-ii-double-barrel.json) |
 | Shotgun King: the Final Checkmate | 196030 | [196030-shotgun-king-the-final-checkmate.json](./196030-shotgun-king-the-final-checkmate.json) |
 | Shotgun Ninja | 70270 | [70270-shotgun-ninja.json](./70270-shotgun-ninja.json) |
 | Shotgun Raiders | 31862 | [31862-shotgun-raiders.json](./31862-shotgun-raiders.json) |
@@ -11434,6 +11436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer VR | 329004 | [329004-soccer-vr.json](./329004-soccer-vr.json) |
 | Soccer VR Football | 200169 | [200169-soccer-vr-football.json](./200169-soccer-vr-football.json) |
 | Soccer Wind Shot | 233736 | [233736-soccer-wind-shot.json](./233736-soccer-wind-shot.json) |
+| Soccer World | 321228 | [321228-soccer-world.json](./321228-soccer-world.json) |
 | Soccer: Kick the Goal | 245404 | [245404-soccer-kick-the-goal.json](./245404-soccer-kick-the-goal.json) |
 | Soccerboy vs. Aliens | 406229 | [406229-soccerboy-vs-aliens.json](./406229-soccerboy-vs-aliens.json) |
 | SoccerDie | 58620 | [58620-soccerdie.json](./58620-soccerdie.json) |
@@ -18142,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
+| Starlair | 321199 | [321199-starlair.json](./321199-starlair.json) |
 | Starlaxis - Light Hunter | 64465 | [64465-starlaxis-light-hunter.json](./64465-starlaxis-light-hunter.json) |
 | Starlaxy Cats | 321416 | [321416-starlaxy-cats.json](./321416-starlaxy-cats.json) |
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
@@ -25948,6 +25952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony | 7401 | [7401-symphony.json](./7401-symphony.json) |
 | Symphony of Epic | 215829 | [215829-symphony-of-epic.json](./215829-symphony-of-epic.json) |
 | Symphony of Eternity | 59852 | [59852-symphony-of-eternity.json](./59852-symphony-of-eternity.json) |
+| Symphony Of Motion | 321236 | [321236-symphony-of-motion.json](./321236-symphony-of-motion.json) |
 | Symphony of Science | 271850 | [271850-symphony-of-science.json](./271850-symphony-of-science.json) |
 | Symphony of Souls | 253573 | [253573-symphony-of-souls.json](./253573-symphony-of-souls.json) |
 | Symphony of Stars | 114255 | [114255-symphony-of-stars.json](./114255-symphony-of-stars.json) |
