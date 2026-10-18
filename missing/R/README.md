@@ -8158,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
+| Roulette Dungeon | 330004 | [330004-roulette-dungeon.json](./330004-roulette-dungeon.json) |
 | Roulette Hero | 341536 | [341536-roulette-hero.json](./341536-roulette-hero.json) |
 | Roulette Knight | 101008 | [101008-roulette-knight.json](./101008-roulette-knight.json) |
 | Roulette Knight | 178687 | [178687-roulette-knight.json](./178687-roulette-knight.json) |
