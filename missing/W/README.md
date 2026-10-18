@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Break | 113602 | [113602-wave-break.json](./113602-wave-break.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
+| Wave Defense: Trappist | 325337 | [325337-wave-defense-trappist.json](./325337-wave-defense-trappist.json) |
 | Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
 | Wave Gods: Ammo Night | 395781 | [395781-wave-gods-ammo-night.json](./395781-wave-gods-ammo-night.json) |
 | Wave Machine | 179602 | [179602-wave-machine.json](./179602-wave-machine.json) |
