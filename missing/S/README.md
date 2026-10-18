@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scions of Fate | 72656 | [72656-scions-of-fate.json](./72656-scions-of-fate.json) |
 | Scirocco Thugs | 336515 | [336515-scirocco-thugs.json](./336515-scirocco-thugs.json) |
 | Scission | 384144 | [384144-scission.json](./384144-scission.json) |
+| Scissor Girl's Weed Crisis | 309720 | [309720-scissor-girls-weed-crisis.json](./309720-scissor-girls-weed-crisis.json) |
 | Scissors and Pink Angels | 345616 | [345616-scissors-and-pink-angels.json](./345616-scissors-and-pink-angels.json) |
 | Scissors in Hell | 216931 | [216931-scissors-in-hell.json](./216931-scissors-in-hell.json) |
 | Sciware Defense | 245841 | [245841-sciware-defense.json](./245841-sciware-defense.json) |
@@ -7720,6 +7721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
 | Silly Scribbles | 285965 | [285965-silly-scribbles.json](./285965-silly-scribbles.json) |
 | Silly Skateboarding | 180698 | [180698-silly-skateboarding.json](./180698-silly-skateboarding.json) |
+| Silly Suspects | 309735 | [309735-silly-suspects.json](./309735-silly-suspects.json) |
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
@@ -14298,6 +14300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
 | Space Lift Danger Panic! | 147982 | [147982-space-lift-danger-panic.json](./147982-space-lift-danger-panic.json) |
 | Space Lift Danger Panic! | 56283 | [56283-space-lift-danger-panic.json](./56283-space-lift-danger-panic.json) |
+| Space Light | 309727 | [309727-space-light.json](./309727-space-light.json) |
 | Space Lines | 246085 | [246085-space-lines.json](./246085-space-lines.json) |
 | Space Lines: A Puzzle Arcade Game | 200359 | [200359-space-lines-a-puzzle-arcade-game.json](./200359-space-lines-a-puzzle-arcade-game.json) |
 | Space Lines: Ultimate Edition | 245975 | [245975-space-lines-ultimate-edition.json](./245975-space-lines-ultimate-edition.json) |
@@ -14619,6 +14622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tyrant | 30348 | [30348-space-tyrant.json](./30348-space-tyrant.json) |
 | Space UFO | 329991 | [329991-space-ufo.json](./329991-space-ufo.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
+| Space Valkyries | 309729 | [309729-space-valkyries.json](./309729-space-valkyries.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
 | Space Venus starring Morning Musume. | 338317 | [338317-space-venus-starring-morning-musume.json](./338317-space-venus-starring-morning-musume.json) |
@@ -16089,6 +16093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
+| Splash Dino 2 | 309719 | [309719-splash-dino-2.json](./309719-splash-dino-2.json) |
 | Splash Divers | 395524 | [395524-splash-divers.json](./395524-splash-divers.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
@@ -16180,6 +16185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Second Volley | 413485 | [413485-split-second-volley.json](./413485-split-second-volley.json) |
 | Split Signal | 128970 | [128970-split-signal.json](./128970-split-signal.json) |
 | Split Souls | 369634 | [369634-split-souls.json](./369634-split-souls.json) |
+| Split Spirit | 309746 | [309746-split-spirit.json](./309746-split-spirit.json) |
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
 | Split the Ball | 256753 | [256753-split-the-ball.json](./256753-split-the-ball.json) |
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
@@ -21727,6 +21733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 297508 | [297508-summer-games-ii.json](./297508-summer-games-ii.json) |
 | Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
+| Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Horrordays | 177492 | [177492-summer-horrordays.json](./177492-summer-horrordays.json) |
 | Summer in Mara + Deiland Bundle | 188018 | [188018-summer-in-mara-deiland-bundle.json](./188018-summer-in-mara-deiland-bundle.json) |
