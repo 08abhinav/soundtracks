@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
 | No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
+| No Man's Sky: Relics | 336874 | [336874-no-mans-sky-relics.json](./336874-no-mans-sky-relics.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
@@ -4904,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norse | 188562 | [188562-norse.json](./188562-norse.json) |
 | Norse by Norse West: The Return of the Lost Vikings | 2615 | [2615-norse-by-norse-west-the-return-of-the-lost-vikings.json](./2615-norse-by-norse-west-the-return-of-the-lost-vikings.json) |
 | Norse Noir: Loki's Exile | 19264 | [19264-norse-noir-lokis-exile.json](./19264-norse-noir-lokis-exile.json) |
+| Norse: Oath of Blood | 336868 | [336868-norse-oath-of-blood.json](./336868-norse-oath-of-blood.json) |
 | Norseman | 41560 | [41560-norseman.json](./41560-norseman.json) |
 | North | 20393 | [20393-north.json](./20393-north.json) |
 | North & South | 1874 | [1874-north-and-south.json](./1874-north-and-south.json) |
