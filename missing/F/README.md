@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy Tactics Advanced Battle | 222345 | [222345-final-fantasy-tactics-advanced-battle.json](./222345-final-fantasy-tactics-advanced-battle.json) |
 | Final Fantasy Tactics S | 63312 | [63312-final-fantasy-tactics-s.json](./63312-final-fantasy-tactics-s.json) |
 | Final Fantasy Tactics: The Ivalice Chronicles | 347121 | [347121-final-fantasy-tactics-the-ivalice-chronicles.json](./347121-final-fantasy-tactics-the-ivalice-chronicles.json) |
+| Final Fantasy Tactics: The Ivalice Chronicles - Deluxe Edition | 358669 | [358669-final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition.json](./358669-final-fantasy-tactics-the-ivalice-chronicles-deluxe-edition.json) |
 | Final Fantasy Tactics: The War of the Lions | 394 | [394-final-fantasy-tactics-the-war-of-the-lions.json](./394-final-fantasy-tactics-the-war-of-the-lions.json) |
 | Final Fantasy Type-0 HD: Collector's Edition | 41842 | [41842-final-fantasy-type-0-hd-collectors-edition.json](./41842-final-fantasy-type-0-hd-collectors-edition.json) |
 | Final Fantasy Type-0 HD: Limited Edition | 186630 | [186630-final-fantasy-type-0-hd-limited-edition.json](./186630-final-fantasy-type-0-hd-limited-edition.json) |
@@ -4951,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FitForce | 142856 | [142856-fitforce.json](./142856-fitforce.json) |
 | Fitforce2 | 374749 | [374749-fitforce2.json](./374749-fitforce2.json) |
 | Fitment | 271946 | [271946-fitment.json](./271946-fitment.json) |
+| Fitness Adventure Pro | 358656 | [358656-fitness-adventure-pro.json](./358656-fitness-adventure-pro.json) |
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
