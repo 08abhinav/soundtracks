@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Card Game | 235229 | [235229-2048-card-game.json](./235229-2048-card-game.json) |
 | 2048 Cat | 147264 | [147264-2048-cat.json](./147264-2048-cat.json) |
 | 2048 Farmer in the Dell | 221231 | [221231-2048-farmer-in-the-dell.json](./221231-2048-farmer-in-the-dell.json) |
+| 2048 for Playdate | 341927 | [341927-2048-for-playdate.json](./341927-2048-for-playdate.json) |
 | 2048 Fusion | 308226 | [308226-2048-fusion.json](./308226-2048-fusion.json) |
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
@@ -1276,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 21Pirates Card Game | 308941 | [308941-21pirates-card-game.json](./308941-21pirates-card-game.json) |
 | 22 Minutes | 298440 | [298440-22-minutes.json](./298440-22-minutes.json) |
 | 22 Racing Series | 97343 | [97343-22-racing-series.json](./97343-22-racing-series.json) |
+| 22/7 Ongaku no Jikan | 341856 | [341856-22-7-ongaku-no-jikan.json](./341856-22-7-ongaku-no-jikan.json) |
 | 222 Hearts | 74462 | [74462-222-hearts.json](./74462-222-hearts.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
