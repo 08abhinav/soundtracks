@@ -5629,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Monologue | 383506 | [383506-sheep-monologue.json](./383506-sheep-monologue.json) |
 | Sheep N Sheep: Match 3 Tiles | 223916 | [223916-sheep-n-sheep-match-3-tiles.json](./223916-sheep-n-sheep-match-3-tiles.json) |
 | Sheep Quest | 340379 | [340379-sheep-quest.json](./340379-sheep-quest.json) |
+| Sheep Seeker | 327652 | [327652-sheep-seeker.json](./327652-sheep-seeker.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
@@ -19181,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stereoronpa | 389664 | [389664-stereoronpa.json](./389664-stereoronpa.json) |
 | Sterile | 354590 | [354590-sterile.json](./354590-sterile.json) |
+| Sterling Shroud | 327635 | [327635-sterling-shroud.json](./327635-sterling-shroud.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
 | Stern Pinball Arcade: AC/DC | 161229 | [161229-stern-pinball-arcade-ac-dc.json](./161229-stern-pinball-arcade-ac-dc.json) |
 | Stern Pinball Arcade: AC/DC Premium | 317290 | [317290-stern-pinball-arcade-ac-dc-premium.json](./317290-stern-pinball-arcade-ac-dc-premium.json) |
@@ -21207,6 +21209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
 | Sudoku Baron | 86914 | [86914-sudoku-baron.json](./86914-sudoku-baron.json) |
+| Sudoku Battle | 327665 | [327665-sudoku-battle.json](./327665-sudoku-battle.json) |
 | Sudoku but it's on the MD | 263429 | [263429-sudoku-but-its-on-the-md.json](./263429-sudoku-but-its-on-the-md.json) |
 | Sudoku by Nikoli | 85409 | [85409-sudoku-by-nikoli.json](./85409-sudoku-by-nikoli.json) |
 | Sudoku Candy Witch | 246969 | [246969-sudoku-candy-witch.json](./246969-sudoku-candy-witch.json) |
@@ -25083,6 +25086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap | 177370 | [177370-swap.json](./177370-swap.json) |
 | Swap | 219556 | [219556-swap.json](./219556-swap.json) |
 | Swap | 247928 | [247928-swap.json](./247928-swap.json) |
+| Swap | 327653 | [327653-swap.json](./327653-swap.json) |
 | Swap | 373817 | [373817-swap.json](./373817-swap.json) |
 | Swap | 93171 | [93171-swap.json](./93171-swap.json) |
 | Swap Blocks | 44217 | [44217-swap-blocks.json](./44217-swap-blocks.json) |
@@ -25375,6 +25379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet, Sweet Indigo | 411366 | [411366-sweet-sweet-indigo.json](./411366-sweet-sweet-indigo.json) |
 | SweeTARTS 3D | 373551 | [373551-sweetarts-3d.json](./373551-sweetarts-3d.json) |
 | SweetCanvas | 354760 | [354760-sweetcanvas.json](./354760-sweetcanvas.json) |
+| SweetCat | 327675 | [327675-sweetcat.json](./327675-sweetcat.json) |
 | Sweetest Monster | 300720 | [300720-sweetest-monster.json](./300720-sweetest-monster.json) |
 | Sweetest Thing | 85412 | [85412-sweetest-thing.json](./85412-sweetest-thing.json) |
 | Sweetheart | 415166 | [415166-sweetheart.json](./415166-sweetheart.json) |
