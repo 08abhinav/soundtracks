@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 8 | 368243 | [368243-aca-neogeo-selection-vol-8.json](./368243-aca-neogeo-selection-vol-8.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
+| Academia Ovivim | 332287 | [332287-academia-ovivim.json](./332287-academia-ovivim.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
 | Academy | 76161 | [76161-academy.json](./76161-academy.json) |
 | Academy Love Saga: Tennis Angels | 312665 | [312665-academy-love-saga-tennis-angels.json](./312665-academy-love-saga-tennis-angels.json) |
@@ -5153,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
+| All-American College Football | 332296 | [332296-all-american-college-football.json](./332296-all-american-college-football.json) |
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
 | All-in-One Board Games | 197708 | [197708-all-in-one-board-games.json](./197708-all-in-one-board-games.json) |
 | All-in-One Mahjong | 70888 | [70888-all-in-one-mahjong.json](./70888-all-in-one-mahjong.json) |
@@ -6258,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
 | Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
+| Amy Dress Up | 332209 | [332209-amy-dress-up.json](./332209-amy-dress-up.json) |
 | Amy Galore | 329768 | [329768-amy-galore.json](./329768-amy-galore.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
 | Amy Rose in Sonic the Hedgehog | 129176 | [129176-amy-rose-in-sonic-the-hedgehog.json](./129176-amy-rose-in-sonic-the-hedgehog.json) |
@@ -9051,6 +9054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcalast: The world that ends and the fruit of the diva | 117151 | [117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json](./117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json) |
+| Arcana | 332308 | [332308-arcana.json](./332308-arcana.json) |
 | Arcana | 347736 | [347736-arcana.json](./347736-arcana.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
 | Arcana | 67701 | [67701-arcana.json](./67701-arcana.json) |
@@ -10196,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Boxing | 129037 | [129037-art-of-boxing.json](./129037-art-of-boxing.json) |
 | Art of Conquest | 79154 | [79154-art-of-conquest.json](./79154-art-of-conquest.json) |
 | Art of Destruction | 152831 | [152831-art-of-destruction.json](./152831-art-of-destruction.json) |
+| Art of Evil | 332309 | [332309-art-of-evil.json](./332309-art-of-evil.json) |
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting | 4514 | [4514-art-of-fighting.json](./4514-art-of-fighting.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
