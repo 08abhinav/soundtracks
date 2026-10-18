@@ -10748,6 +10748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravery Network Online | 103322 | [103322-bravery-network-online.json](./103322-bravery-network-online.json) |
 | Bravest Burden | 173291 | [173291-bravest-burden.json](./173291-bravest-burden.json) |
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
+| Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
