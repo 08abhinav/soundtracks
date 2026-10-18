@@ -1994,6 +1994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatari: Curse Road | 293382 | [293382-tatari-curse-road.json](./293382-tatari-curse-road.json) |
 | Tatari: The Arrival | 267101 | [267101-tatari-the-arrival.json](./267101-tatari-the-arrival.json) |
 | Tatlone | 415066 | [415066-tatlone.json](./415066-tatlone.json) |
+| Tatoe Sore ga Unmei de Atte mo | 329978 | [329978-tatoe-sore-ga-unmei-de-atte-mo.json](./329978-tatoe-sore-ga-unmei-de-atte-mo.json) |
 | TatouPho Redact | 104546 | [104546-tatoupho-redact.json](./104546-tatoupho-redact.json) |
 | Tatsu | 33468 | [33468-tatsu.json](./33468-tatsu.json) |
 | Tatsu no Ko Fighter | 60762 | [60762-tatsu-no-ko-fighter.json](./60762-tatsu-no-ko-fighter.json) |
@@ -12928,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
+| The Tower Of The Gods | 329981 | [329981-the-tower-of-the-gods.json](./329981-the-tower-of-the-gods.json) |
 | The Tower of the Spells | 257456 | [257456-the-tower-of-the-spells.json](./257456-the-tower-of-the-spells.json) |
 | The Tower of TigerQiuQiu | 121579 | [121579-the-tower-of-tigerqiuqiu.json](./121579-the-tower-of-tigerqiuqiu.json) |
 | The Tower of TigerQiuQiu 2 | 157594 | [157594-the-tower-of-tigerqiuqiu-2.json](./157594-the-tower-of-tigerqiuqiu-2.json) |
