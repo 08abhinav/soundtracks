@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
 | Office Suicide Saga | 47074 | [47074-office-suicide-saga.json](./47074-office-suicide-saga.json) |
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
+| Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
@@ -3717,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outburst | 47130 | [47130-outburst.json](./47130-outburst.json) |
 | Outburst | 79240 | [79240-outburst.json](./79240-outburst.json) |
 | Outcast | 15331 | [15331-outcast.json](./15331-outcast.json) |
+| Outcast | 354890 | [354890-outcast.json](./354890-outcast.json) |
 | Outcast 1.1 | 36084 | [36084-outcast-1-1.json](./36084-outcast-1-1.json) |
 | Outcast II: The Lost Paradise | 66687 | [66687-outcast-ii-the-lost-paradise.json](./66687-outcast-ii-the-lost-paradise.json) |
 | Outcast Odyssey | 59877 | [59877-outcast-odyssey.json](./59877-outcast-odyssey.json) |
