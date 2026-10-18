@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
+| Campgrounds III: Collector's Edition | 358092 | [358092-campgrounds-iii-collectors-edition.json](./358092-campgrounds-iii-collectors-edition.json) |
 | Campgrounds IV | 139392 | [139392-campgrounds-iv.json](./139392-campgrounds-iv.json) |
 | Campgrounds: The Endorus Expedition | 139393 | [139393-campgrounds-the-endorus-expedition.json](./139393-campgrounds-the-endorus-expedition.json) |
 | Campgrounds: The Endorus Expedition - Collector's Edition | 33304 | [33304-campgrounds-the-endorus-expedition-collectors-edition.json](./33304-campgrounds-the-endorus-expedition-collectors-edition.json) |
