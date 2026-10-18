@@ -3816,6 +3816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Legend: Avicii | 175320 | [175320-beat-legend-avicii.json](./175320-beat-legend-avicii.json) |
 | Beat Me! Puppetonia Tournament | 156515 | [156515-beat-me-puppetonia-tournament.json](./156515-beat-me-puppetonia-tournament.json) |
+| Beat Meet | 325907 | [325907-beat-meet.json](./325907-beat-meet.json) |
 | Beat Monsters | 119003 | [119003-beat-monsters.json](./119003-beat-monsters.json) |
 | Beat Mp3 | 249687 | [249687-beat-mp3.json](./249687-beat-mp3.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted | 46862 | [46862-blasted.json](./46862-blasted.json) |
+| Blasted Dice | 325920 | [325920-blasted-dice.json](./325920-blasted-dice.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
@@ -9516,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu | 111529 | [111529-boomerang-fu.json](./111529-boomerang-fu.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
+| Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
