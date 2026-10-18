@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartagra: First Press Limited Edition | 388046 | [388046-cartagra-first-press-limited-edition.json](./388046-cartagra-first-press-limited-edition.json) |
 | Cartagra: Tsuki Kurui no Yamai - Rebirth FHD Size Edition | 150033 | [150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json](./150033-cartagra-tsuki-kurui-no-yamai-rebirth-fhd-size-edition.json) |
 | Cartapli: Fold Quest | 386834 | [386834-cartapli-fold-quest.json](./386834-cartapli-fold-quest.json) |
+| Cartas contra tugas | 343036 | [343036-cartas-contra-tugas.json](./343036-cartas-contra-tugas.json) |
 | Cartas de Coisas | 325623 | [325623-cartas-de-coisas.json](./325623-cartas-de-coisas.json) |
 | Carte Blanche | 333559 | [333559-carte-blanche.json](./333559-carte-blanche.json) |
 | Carte Primus | 172453 | [172453-carte-primus.json](./172453-carte-primus.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catopy | 336652 | [336652-catopy.json](./336652-catopy.json) |
 | Catorize | 34043 | [34043-catorize.json](./34043-catorize.json) |
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
+| Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
 | Catroom Drama: Case 1 | 183933 | [183933-catroom-drama-case-1.json](./183933-catroom-drama-case-1.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
@@ -4925,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Chick Boom | 51125 | [51125-chick-chick-boom.json](./51125-chick-chick-boom.json) |
 | Chick City Construction | 174872 | [174872-chick-city-construction.json](./174872-chick-city-construction.json) |
 | Chick Clicker | 344995 | [344995-chick-clicker.json](./344995-chick-clicker.json) |
+| Chick Defender | 343057 | [343057-chick-defender.json](./343057-chick-defender.json) |
 | Chick Game | 373681 | [373681-chick-game.json](./373681-chick-game.json) |
 | Chick Invasion | 150939 | [150939-chick-invasion.json](./150939-chick-invasion.json) |
 | Chick Road Rage | 281993 | [281993-chick-road-rage.json](./281993-chick-road-rage.json) |
@@ -4994,6 +4997,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Journey | 204513 | [204513-chicken-journey.json](./204513-chicken-journey.json) |
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
+| Chicken Little | 343127 | [343127-chicken-little.json](./343127-chicken-little.json) |
+| Chicken Little: Batting Practice | 343129 | [343129-chicken-little-batting-practice.json](./343129-chicken-little-batting-practice.json) |
+| Chicken Little: Galactic Traveler | 343128 | [343128-chicken-little-galactic-traveler.json](./343128-chicken-little-galactic-traveler.json) |
 | Chicken Nuggets | 180224 | [180224-chicken-nuggets.json](./180224-chicken-nuggets.json) |
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
@@ -11860,6 +11866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Gobbler | 66728 | [66728-crazy-gobbler.json](./66728-crazy-gobbler.json) |
 | Crazy Golf | 13531 | [13531-crazy-golf.json](./13531-crazy-golf.json) |
 | Crazy Golf Cat | 232896 | [232896-crazy-golf-cat.json](./232896-crazy-golf-cat.json) |
+| Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
@@ -14131,6 +14138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Spire | 195250 | [195250-cursed-spire.json](./195250-cursed-spire.json) |
+| Cursed Station | 343025 | [343025-cursed-station.json](./343025-cursed-station.json) |
 | Cursed Swamp Escape 3 | 315470 | [315470-cursed-swamp-escape-3.json](./315470-cursed-swamp-escape-3.json) |
 | Cursed Theatre Escape | 315583 | [315583-cursed-theatre-escape.json](./315583-cursed-theatre-escape.json) |
 | Cursed Toy | 387650 | [387650-cursed-toy.json](./387650-cursed-toy.json) |
