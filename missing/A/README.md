@@ -6195,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park: Jumping Kid | 203385 | [203385-amusement-park-jumping-kid.json](./203385-amusement-park-jumping-kid.json) |
 | Amusia | 311187 | [311187-amusia.json](./311187-amusia.json) |
+| Amy & Trip in Sonic the Hedgehog 2 | 361499 | [361499-amy-and-trip-in-sonic-the-hedgehog-2.json](./361499-amy-and-trip-in-sonic-the-hedgehog-2.json) |
 | Amy Adventure | 331108 | [331108-amy-adventure.json](./331108-amy-adventure.json) |
 | Amy Galore | 329768 | [329768-amy-galore.json](./329768-amy-galore.json) |
 | Amy Hates Robots | 356303 | [356303-amy-hates-robots.json](./356303-amy-hates-robots.json) |
@@ -11616,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: Additional Map "Falbra Thicket" | 351151 | [351151-atelier-yumia-additional-map-falbra-thicket.json](./351151-atelier-yumia-additional-map-falbra-thicket.json) |
 | Atelier Yumia: Aladiss Investigation Preparation Set | 333751 | [333751-atelier-yumia-aladiss-investigation-preparation-set.json](./333751-atelier-yumia-aladiss-investigation-preparation-set.json) |
 | Atelier Yumia: Atelier Yumia and "Tekken" Series Collaboration Pack | 356797 | [356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json](./356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json) |
+| Atelier Yumia: Backpack Set | 361489 | [361489-atelier-yumia-backpack-set.json](./361489-atelier-yumia-backpack-set.json) |
 | Atelier Yumia: Fantasy Academy Costume Set | 356743 | [356743-atelier-yumia-fantasy-academy-costume-set.json](./356743-atelier-yumia-fantasy-academy-costume-set.json) |
 | Atelier Yumia: Idus Training Grounds | 363021 | [363021-atelier-yumia-idus-training-grounds.json](./363021-atelier-yumia-idus-training-grounds.json) |
 | Atelier Yumia: Special costume for Yumia in collaboration with Asbel from "Tales of Graces f Remastered" | 351152 | [351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json](./351152-atelier-yumia-special-costume-for-yumia-in-collaboration-with-asbel-from-tales-of-graces-f-remastered.json) |
