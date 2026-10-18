@@ -5236,6 +5236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
 | Destined Notes: The Written Fate | 415435 | [415435-destined-notes-the-written-fate.json](./415435-destined-notes-the-written-fate.json) |
 | Destined to Love: Ikemen Samurai Romances | 163230 | [163230-destined-to-love-ikemen-samurai-romances.json](./163230-destined-to-love-ikemen-samurai-romances.json) |
+| Destinia | 349093 | [349093-destinia.json](./349093-destinia.json) |
 | Destinies | 152884 | [152884-destinies.json](./152884-destinies.json) |
 | Destino Indomable | 322350 | [322350-destino-indomable.json](./322350-destino-indomable.json) |
 | Destiny | 100186 | [100186-destiny.json](./100186-destiny.json) |
@@ -9641,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dangerous Dave | 11383 | [11383-double-dangerous-dave.json](./11383-double-dangerous-dave.json) |
 | Double Dare | 7998 | [7998-double-dare.json](./7998-double-dare.json) |
 | Double Dash | 391809 | [391809-double-dash.json](./391809-double-dash.json) |
+| Double Date: Yuri Visual Novel | 349118 | [349118-double-date-yuri-visual-novel.json](./349118-double-date-yuri-visual-novel.json) |
 | Double Dealers | 403675 | [403675-double-dealers.json](./403675-double-dealers.json) |
 | Double Death | 33426 | [33426-double-death.json](./33426-double-death.json) |
 | Double Deuce Poker HD | 354972 | [354972-double-deuce-poker-hd.json](./354972-double-deuce-poker-hd.json) |
@@ -10456,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
+| Dragon Detective: A Friend From the Shadows | 349096 | [349096-dragon-detective-a-friend-from-the-shadows.json](./349096-dragon-detective-a-friend-from-the-shadows.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
 | Dragon Dragon Fire Fire Deluxe | 384497 | [384497-dragon-dragon-fire-fire-deluxe.json](./384497-dragon-dragon-fire-fire-deluxe.json) |
