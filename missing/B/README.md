@@ -3833,6 +3833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Queen Music Pack | 250646 | [250646-beat-saber-queen-music-pack.json](./250646-beat-saber-queen-music-pack.json) |
 | Beat Saber: Rock Mixtape | 357351 | [357351-beat-saber-rock-mixtape.json](./357351-beat-saber-rock-mixtape.json) |
 | Beat Saber: Rocket League x Monstercat Music Pack | 251056 | [251056-beat-saber-rocket-league-x-monstercat-music-pack.json](./251056-beat-saber-rocket-league-x-monstercat-music-pack.json) |
+| Beat Saber: Sabrina Carpenter - "Espresso" | 357008 | [357008-beat-saber-sabrina-carpenter-espresso.json](./357008-beat-saber-sabrina-carpenter-espresso.json) |
 | Beat Saber: Skrillex – "Bangarang (feat. Sirah)" | 357245 | [357245-beat-saber-skrillex-bangarang-feat-sirah.json](./357245-beat-saber-skrillex-bangarang-feat-sirah.json) |
 | Beat Saber: Skrillex – "Scary Monsters and Nice Sprites" | 357244 | [357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json](./357244-beat-saber-skrillex-scary-monsters-and-nice-sprites.json) |
 | Beat Saber: Skrillex & Wolfgang Gartner – "The Devil’s Den" | 357243 | [357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json](./357243-beat-saber-skrillex-and-wolfgang-gartner-the-devil-s-den.json) |
@@ -3870,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Speller | 398545 | [398545-beat-speller.json](./398545-beat-speller.json) |
 | Beat Sports | 59835 | [59835-beat-sports.json](./59835-beat-sports.json) |
 | Beat Stage | 408101 | [408101-beat-stage.json](./408101-beat-stage.json) |
+| Beat Stickman: Beyond - Story Mode | 357029 | [357029-beat-stickman-beyond-story-mode.json](./357029-beat-stickman-beyond-story-mode.json) |
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
@@ -6592,6 +6594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Trail | 205018 | [205018-black-trail.json](./205018-black-trail.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
+| Black Vultures: Prey of Greed | 357100 | [357100-black-vultures-prey-of-greed.json](./357100-black-vultures-prey-of-greed.json) |
 | Black Walls | 415190 | [415190-black-walls.json](./415190-black-walls.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
 | Black Werewolf | 293099 | [293099-black-werewolf.json](./293099-black-werewolf.json) |
@@ -10926,6 +10929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew & Dash | 381282 | [381282-brew-and-dash.json](./381282-brew-and-dash.json) |
 | Brew & Defend | 412495 | [412495-brew-and-defend.json](./412495-brew-and-defend.json) |
 | Brew Besties | 290877 | [290877-brew-besties.json](./290877-brew-besties.json) |
+| Brew or Die | 356999 | [356999-brew-or-die.json](./356999-brew-or-die.json) |
 | Brew Town | 96583 | [96583-brew-town.json](./96583-brew-town.json) |
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
@@ -11762,6 +11766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Trubble | 42829 | [42829-bubble-trubble.json](./42829-bubble-trubble.json) |
 | Bubble Truck | 235228 | [235228-bubble-truck.json](./235228-bubble-truck.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
+| Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
 | Bubble Woods | 116447 | [116447-bubble-woods.json](./116447-bubble-woods.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
 | Bubble World | 195031 | [195031-bubble-world.json](./195031-bubble-world.json) |
