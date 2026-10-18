@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken Tag Tournament HD | 143748 | [143748-tekken-tag-tournament-hd.json](./143748-tekken-tag-tournament-hd.json) |
 | Tekken X Street Fighter | 1239 | [1239-tekken-x-street-fighter.json](./1239-tekken-x-street-fighter.json) |
 | Tekken: Dark Resurrection | 389439 | [389439-tekken-dark-resurrection.json](./389439-tekken-dark-resurrection.json) |
+| Tekkout2: Balls Of Rust | 355879 | [355879-tekkout2-balls-of-rust.json](./355879-tekkout2-balls-of-rust.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
 | Tekling 2 | 114221 | [114221-tekling-2.json](./114221-tekling-2.json) |
@@ -7266,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather Collection | 46724 | [46724-the-godfather-collection.json](./46724-the-godfather-collection.json) |
 | The Godfather II | 575 | [575-the-godfather-ii.json](./575-the-godfather-ii.json) |
 | The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
+| The Godfather: City Wars | 355894 | [355894-the-godfather-city-wars.json](./355894-the-godfather-city-wars.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
 | The Gods | 38509 | [38509-the-gods.json](./38509-the-gods.json) |
@@ -12386,6 +12388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Struggle | 62022 | [62022-the-struggle.json](./62022-the-struggle.json) |
 | The Struggle For Russia | 66441 | [66441-the-struggle-for-russia.json](./66441-the-struggle-for-russia.json) |
 | The Struggle of Trust | 177339 | [177339-the-struggle-of-trust.json](./177339-the-struggle-of-trust.json) |
+| The Struggle to Survive the Dragon Siege | 355867 | [355867-the-struggle-to-survive-the-dragon-siege.json](./355867-the-struggle-to-survive-the-dragon-siege.json) |
 | The Struggles of Stefan | 148975 | [148975-the-struggles-of-stefan.json](./148975-the-struggles-of-stefan.json) |
 | The Stubborn of WakGood | 231450 | [231450-the-stubborn-of-wakgood.json](./231450-the-stubborn-of-wakgood.json) |
 | The Stubborn of WakGood: Afterheat | 257885 | [257885-the-stubborn-of-wakgood-afterheat.json](./257885-the-stubborn-of-wakgood-afterheat.json) |
@@ -13325,6 +13328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
+| The Vending Machine | 355890 | [355890-the-vending-machine.json](./355890-the-vending-machine.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
 | The Verbose Vault Venture | 311744 | [311744-the-verbose-vault-venture.json](./311744-the-verbose-vault-venture.json) |
 | The Verge Miner | 280161 | [280161-the-verge-miner.json](./280161-the-verge-miner.json) |
@@ -18369,6 +18373,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
+| Toonix Totem | 355886 | [355886-toonix-totem.json](./355886-toonix-totem.json) |
+| Toonix: Food Fight! | 355885 | [355885-toonix-food-fight.json](./355885-toonix-food-fight.json) |
 | Toonix: Speak English! | 357445 | [357445-toonix-speak-english.json](./357445-toonix-speak-english.json) |
 | Toonix: Spot the Difference | 357666 | [357666-toonix-spot-the-difference.json](./357666-toonix-spot-the-difference.json) |
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
@@ -19811,6 +19817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Terribles | 383707 | [383707-toy-terribles.json](./383707-toy-terribles.json) |
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
+| Toy Warfare | 355888 | [355888-toy-warfare.json](./355888-toy-warfare.json) |
 | Toy Wars Invasion | 9449 | [9449-toy-wars-invasion.json](./9449-toy-wars-invasion.json) |
 | Toy Wars: Story of Heroes | 140321 | [140321-toy-wars-story-of-heroes.json](./140321-toy-wars-story-of-heroes.json) |
 | Toy-War: The Beginning | 111192 | [111192-toy-war-the-beginning.json](./111192-toy-war-the-beginning.json) |
