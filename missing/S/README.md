@@ -1100,6 +1100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctified | 230176 | [230176-sanctified.json](./230176-sanctified.json) |
 | Sanction | 203533 | [203533-sanction.json](./203533-sanction.json) |
 | Sanctity | 282551 | [282551-sanctity.json](./282551-sanctity.json) |
+| Sanctua | 310811 | [310811-sanctua.json](./310811-sanctua.json) |
 | Sanctuaries | 364280 | [364280-sanctuaries.json](./364280-sanctuaries.json) |
 | Sanctuaries | 404390 | [404390-sanctuaries.json](./404390-sanctuaries.json) |
 | Sanctuarium Online | 191858 | [191858-sanctuarium-online.json](./191858-sanctuarium-online.json) |
@@ -5364,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Shuffle: A Shape Saga | 262066 | [262066-shape-shuffle-a-shape-saga.json](./262066-shape-shuffle-a-shape-saga.json) |
 | Shape Sorter - Early Learning | 106371 | [106371-shape-sorter-early-learning.json](./106371-shape-sorter-early-learning.json) |
 | Shape Suitable | 165616 | [165616-shape-suitable.json](./165616-shape-suitable.json) |
+| Shape Survivor | 310817 | [310817-shape-survivor.json](./310817-shape-survivor.json) |
 | Shape Survivors | 407859 | [407859-shape-survivors.json](./407859-shape-survivors.json) |
 | Shape Swarm | 385214 | [385214-shape-swarm.json](./385214-shape-swarm.json) |
 | Shape TD | 186833 | [186833-shape-td.json](./186833-shape-td.json) |
@@ -6210,6 +6212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobu | 220778 | [220778-shinobu.json](./220778-shinobu.json) |
 | Shinogi Chess Club 2: Resistance | 265136 | [265136-shinogi-chess-club-2-resistance.json](./265136-shinogi-chess-club-2-resistance.json) |
 | Shinonome | 222832 | [222832-shinonome.json](./222832-shinonome.json) |
+| Shinonome Abyss: The Maiden Exorcist | 310825 | [310825-shinonome-abyss-the-maiden-exorcist.json](./310825-shinonome-abyss-the-maiden-exorcist.json) |
 | Shinorubi | 173320 | [173320-shinorubi.json](./173320-shinorubi.json) |
 | Shinovi Nexus: Senran Kagura | 403208 | [403208-shinovi-nexus-senran-kagura.json](./403208-shinovi-nexus-senran-kagura.json) |
 | Shinpi no Sekai El-Hazard | 343694 | [343694-shinpi-no-sekai-el-hazard.json](./343694-shinpi-no-sekai-el-hazard.json) |
@@ -6550,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
 | Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
+| Shoot or Die | 310809 | [310809-shoot-or-die.json](./310809-shoot-or-die.json) |
 | Shoot Out | 38561 | [38561-shoot-out.json](./38561-shoot-out.json) |
 | Shoot Paint | 334747 | [334747-shoot-paint.json](./334747-shoot-paint.json) |
 | Shoot Run | 213353 | [213353-shoot-run.json](./213353-shoot-run.json) |
@@ -9778,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime City: Trials | 389550 | [389550-slime-city-trials.json](./389550-slime-city-trials.json) |
 | Slime Clicker | 298090 | [298090-slime-clicker.json](./298090-slime-clicker.json) |
 | Slime Climb | 164934 | [164934-slime-climb.json](./164934-slime-climb.json) |
+| Slime Climb: A Count Pumpcula Tale | 310801 | [310801-slime-climb-a-count-pumpcula-tale.json](./310801-slime-climb-a-count-pumpcula-tale.json) |
 | Slime Climber | 292626 | [292626-slime-climber.json](./292626-slime-climber.json) |
 | Slime Coming | 301812 | [301812-slime-coming.json](./301812-slime-coming.json) |
 | Slime Cores | 298056 | [298056-slime-cores.json](./298056-slime-cores.json) |
@@ -11453,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Nations: Brazil | 137399 | [137399-soccer-nations-brazil.json](./137399-soccer-nations-brazil.json) |
 | Soccer Nations: Paris | 137400 | [137400-soccer-nations-paris.json](./137400-soccer-nations-paris.json) |
 | Soccer Online: Ball 3D | 80456 | [80456-soccer-online-ball-3d.json](./80456-soccer-online-ball-3d.json) |
+| Soccer Party | 310813 | [310813-soccer-party.json](./310813-soccer-party.json) |
 | Soccer Penalty Kick | 391354 | [391354-soccer-penalty-kick.json](./391354-soccer-penalty-kick.json) |
 | Soccer Physics | 101579 | [101579-soccer-physics.json](./101579-soccer-physics.json) |
 | Soccer Pinball | 80790 | [80790-soccer-pinball.json](./80790-soccer-pinball.json) |
@@ -18735,6 +18741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Status | 327418 | [327418-status.json](./327418-status.json) |
 | Status Entropos | 377918 | [377918-status-entropos.json](./377918-status-entropos.json) |
 | Status Kakunin Tantei | 376002 | [376002-status-kakunin-tantei.json](./376002-status-kakunin-tantei.json) |
+| Status One | 310807 | [310807-status-one.json](./310807-status-one.json) |
 | StaudSoft's Synthetic World | 35899 | [35899-staudsofts-synthetic-world.json](./35899-staudsofts-synthetic-world.json) |
 | Staunch Defense | 175186 | [175186-staunch-defense.json](./175186-staunch-defense.json) |
 | Stax | 82334 | [82334-stax.json](./82334-stax.json) |
@@ -25439,6 +25446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Hide and Seek | 339460 | [339460-sweet-hide-and-seek.json](./339460-sweet-hide-and-seek.json) |
 | Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
 | Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
+| Sweet Home | 310820 | [310820-sweet-home.json](./310820-sweet-home.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
