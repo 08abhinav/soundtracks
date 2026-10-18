@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:03:31.858Z",
-  "total_missing": 229088,
+  "generated_at": "2026-10-18T17:08:18.111Z",
+  "total_missing": 229076,
   "games": [
     {
       "igdb_id": 191680,
@@ -51840,11 +51840,6 @@
       "igdb_id": 155546,
       "game_name": "Antonball Deluxe: Fixed Gold Evil Baby Paul (Shiny)",
       "file": "missing/A/155546-antonball-deluxe-fixed-gold-evil-baby-paul-shiny.json"
-    },
-    {
-      "igdb_id": 201752,
-      "game_name": "Antonblast",
-      "file": "missing/A/201752-antonblast.json"
     },
     {
       "igdb_id": 375976,
@@ -170302,11 +170297,6 @@
       "file": "missing/C/363155-children-of-the-spring.json"
     },
     {
-      "igdb_id": 284925,
-      "game_name": "Children of the Sun",
-      "file": "missing/C/284925-children-of-the-sun.json"
-    },
-    {
       "igdb_id": 256901,
       "game_name": "Children of the World",
       "file": "missing/C/256901-children-of-the-world.json"
@@ -210905,11 +210895,6 @@
       "igdb_id": 250895,
       "game_name": "Cryptis",
       "file": "missing/C/250895-cryptis.json"
-    },
-    {
-      "igdb_id": 213029,
-      "game_name": "Cryptmaster",
-      "file": "missing/C/213029-cryptmaster.json"
     },
     {
       "igdb_id": 391693,
@@ -336980,11 +336965,6 @@
       "igdb_id": 309600,
       "game_name": "Final Fantasy VI: The Eternal Crystals",
       "file": "missing/F/309600-final-fantasy-vi-the-eternal-crystals.json"
-    },
-    {
-      "igdb_id": 207021,
-      "game_name": "Final Fantasy VII",
-      "file": "missing/F/207021-final-fantasy-vii.json"
     },
     {
       "igdb_id": 207028,
@@ -482977,11 +482957,6 @@
       "file": "missing/J/14133-jackal.json"
     },
     {
-      "igdb_id": 212707,
-      "game_name": "Jackal",
-      "file": "missing/J/212707-jackal.json"
-    },
-    {
       "igdb_id": 25334,
       "game_name": "Jackal",
       "file": "missing/J/25334-jackal.json"
@@ -559760,11 +559735,6 @@
       "igdb_id": 140010,
       "game_name": "Madden NFL 21: Ultimate Team Starter Pack",
       "file": "missing/M/140010-madden-nfl-21-ultimate-team-starter-pack.json"
-    },
-    {
-      "igdb_id": 152480,
-      "game_name": "Madden NFL 22",
-      "file": "missing/M/152480-madden-nfl-22.json"
     },
     {
       "igdb_id": 243665,
@@ -644255,11 +644225,6 @@
       "igdb_id": 271924,
       "game_name": "Need for Speed Unbound: Volkswagen Beetle (1963) - Legendary Custom Pack",
       "file": "missing/N/271924-need-for-speed-unbound-volkswagen-beetle-1963-legendary-custom-pack.json"
-    },
-    {
-      "igdb_id": 248118,
-      "game_name": "Need for Speed: Carbon",
-      "file": "missing/N/248118-need-for-speed-carbon.json"
     },
     {
       "igdb_id": 248121,
@@ -735802,11 +735767,6 @@
       "file": "missing/P/176993-potion-notions.json"
     },
     {
-      "igdb_id": 155706,
-      "game_name": "Potion Permit",
-      "file": "missing/P/155706-potion-permit.json"
-    },
-    {
       "igdb_id": 366954,
       "game_name": "Potion Permit: Christmas Tree",
       "file": "missing/P/366954-potion-permit-christmas-tree.json"
@@ -768930,11 +768890,6 @@
       "igdb_id": 2504,
       "game_name": "Ravenloft: Stone Prophet",
       "file": "missing/R/2504-ravenloft-stone-prophet.json"
-    },
-    {
-      "igdb_id": 204626,
-      "game_name": "Ravenlok",
-      "file": "missing/R/204626-ravenlok.json"
     },
     {
       "igdb_id": 63534,
@@ -896350,11 +896305,6 @@
       "igdb_id": 411568,
       "game_name": "Star Troopers: Combat Force",
       "file": "missing/S/411568-star-troopers-combat-force.json"
-    },
-    {
-      "igdb_id": 252787,
-      "game_name": "Star Trucker",
-      "file": "missing/S/252787-star-trucker.json"
     },
     {
       "igdb_id": 332043,
@@ -1056457,11 +1056407,6 @@
       "file": "missing/T/349882-turbo-outrun-reimagined.json"
     },
     {
-      "igdb_id": 172024,
-      "game_name": "Turbo Overkill",
-      "file": "missing/T/172024-turbo-overkill.json"
-    },
-    {
       "igdb_id": 186250,
       "game_name": "Turbo Pizza",
       "file": "missing/T/186250-turbo-pizza.json"
@@ -1104110,11 +1104055,6 @@
       "igdb_id": 236313,
       "game_name": "Wheel Stars",
       "file": "missing/W/236313-wheel-stars.json"
-    },
-    {
-      "igdb_id": 255091,
-      "game_name": "Wheel World",
-      "file": "missing/W/255091-wheel-world.json"
     },
     {
       "igdb_id": 107365,
