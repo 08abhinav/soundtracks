@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T12:05:25.588Z",
-  "total_soundtracks": 2189,
+  "generated_at": "2026-10-18T12:20:25.728Z",
+  "total_soundtracks": 2190,
   "games": [
     {
       "igdb_id": 7522,
@@ -26652,6 +26652,20 @@
           "album_name": "Yandere Simulator Original Soundtrack 2022",
           "spotify_url": "https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11545,
+      "game_name": "Yesterday Origins",
+      "game_url": "https://ostdb.net/games/yesterday-origins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d8f37a24d3f9d1be798afd96",
+      "albums": [
+        {
+          "album_name": "Yesterday Origins Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0vAIJbhCkr6WGMEa58HVxA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
