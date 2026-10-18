@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Magi: Mahou Shounen Gakka | 242043 | [242043-dear-magi-mahou-shounen-gakka.json](./242043-dear-magi-mahou-shounen-gakka.json) |
 | Dear Mariko | 124638 | [124638-dear-mariko.json](./124638-dear-mariko.json) |
 | Dear me, I was… | 351207 | [351207-dear-me-i-was.json](./351207-dear-me-i-was.json) |
+| Dear Mirror Flower | 344719 | [344719-dear-mirror-flower.json](./344719-dear-mirror-flower.json) |
 | Dear Mom | 158129 | [158129-dear-mom.json](./158129-dear-mom.json) |
 | Dear Mom: My Letter to You | 164965 | [164965-dear-mom-my-letter-to-you.json](./164965-dear-mom-my-letter-to-you.json) |
 | Dear My Bot | 405635 | [405635-dear-my-bot.json](./405635-dear-my-bot.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
 | Decorporation | 199317 | [199317-decorporation.json](./199317-decorporation.json) |
+| Decorum | 344791 | [344791-decorum.json](./344791-decorum.json) |
 | Decoy | 90207 | [90207-decoy.json](./90207-decoy.json) |
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decromancer | 35323 | [35323-decromancer.json](./35323-decromancer.json) |
@@ -6125,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dictator's Creed | 212749 | [212749-dictators-creed.json](./212749-dictators-creed.json) |
 | Dictators:No Peace Countryballs | 129040 | [129040-dictators-no-peace-countryballs.json](./129040-dictators-no-peace-countryballs.json) |
 | Diction | 319124 | [319124-diction.json](./319124-diction.json) |
+| Dictocracy | 344704 | [344704-dictocracy.json](./344704-dictocracy.json) |
 | Dicy Chess | 299148 | [299148-dicy-chess.json](./299148-dicy-chess.json) |
 | Did It Myself ABC123 | 85087 | [85087-did-it-myself-abc123.json](./85087-did-it-myself-abc123.json) |
 | Did You Scared | 195128 | [195128-did-you-scared.json](./195128-did-you-scared.json) |
@@ -9097,6 +9100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donuts Drift | 91087 | [91087-donuts-drift.json](./91087-donuts-drift.json) |
 | Donuts in Space | 254060 | [254060-donuts-in-space.json](./254060-donuts-in-space.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
+| Donuts! | 344801 | [344801-donuts.json](./344801-donuts.json) |
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
@@ -10879,6 +10883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
 | Dragons Online | 56000 | [56000-dragons-online.json](./56000-dragons-online.json) |
+| Dragons Reef | 344711 | [344711-dragons-reef.json](./344711-dragons-reef.json) |
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
