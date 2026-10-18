@@ -4369,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
 | Pico's School: Love Conquers All | 383761 | [383761-picos-school-love-conquers-all.json](./383761-picos-school-love-conquers-all.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
+| Picogori 2025 | 360453 | [360453-picogori-2025.json](./360453-picogori-2025.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
@@ -5609,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
 | PitBots | 149895 | [149895-pitbots.json](./149895-pitbots.json) |
+| Pitbull Dale 10 | 360445 | [360445-pitbull-dale-10.json](./360445-pitbull-dale-10.json) |
 | Pitch & Pixel | 405605 | [405605-pitch-and-pixel.json](./405605-pitch-and-pixel.json) |
 | Pitch Black | 223685 | [223685-pitch-black.json](./223685-pitch-black.json) |
 | Pitch Black | 240704 | [240704-pitch-black.json](./240704-pitch-black.json) |
