@@ -3985,6 +3985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ajnabee: The Unknown | 389975 | [389975-ajnabee-the-unknown.json](./389975-ajnabee-the-unknown.json) |
 | AK-xolotl | 143004 | [143004-ak-xolotl.json](./143004-ak-xolotl.json) |
 | AK-xolotl: Collector's Edition | 270581 | [270581-ak-xolotl-collectors-edition.json](./270581-ak-xolotl-collectors-edition.json) |
+| AK-xolotl: Together | 330585 | [330585-ak-xolotl-together.json](./330585-ak-xolotl-together.json) |
 | AK-xolotl: Wars | 336705 | [336705-ak-xolotl-wars.json](./336705-ak-xolotl-wars.json) |
 | Aka | 159823 | [159823-aka.json](./159823-aka.json) |
 | Aka Manto | 121558 | [121558-aka-manto.json](./121558-aka-manto.json) |
@@ -10228,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Rally Simulator | 420675 | [420675-art-rally-simulator.json](./420675-art-rally-simulator.json) |
 | Art School Pocket | 203214 | [203214-art-school-pocket.json](./203214-art-school-pocket.json) |
 | Art Shop Simulator | 308593 | [308593-art-shop-simulator.json](./308593-art-shop-simulator.json) |
+| Art Spotting Co-op | 330501 | [330501-art-spotting-co-op.json](./330501-art-spotting-co-op.json) |
 | Art Sqool | 110421 | [110421-art-sqool.json](./110421-art-sqool.json) |
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
@@ -11463,6 +11465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astropocalypse | 289033 | [289033-astropocalypse.json](./289033-astropocalypse.json) |
 | Astropods: Starside Glaze | 316076 | [316076-astropods-starside-glaze.json](./316076-astropods-starside-glaze.json) |
 | AstroPuffs | 253505 | [253505-astropuffs.json](./253505-astropuffs.json) |
+| Astrorun | 330601 | [330601-astrorun.json](./330601-astrorun.json) |
 | AstroRunner | 272858 | [272858-astrorunner.json](./272858-astrorunner.json) |
 | AstroScaper | 337774 | [337774-astroscaper.json](./337774-astroscaper.json) |
 | AstroShift | 68763 | [68763-astroshift.json](./68763-astroshift.json) |
