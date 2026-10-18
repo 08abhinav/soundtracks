@@ -10479,7 +10479,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 320583 | [320583-prince-of-persia-the-forgotten-sands.json](./320583-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Lost Crown - Complete Edition | 317240 | [317240-prince-of-persia-the-lost-crown-complete-edition.json](./317240-prince-of-persia-the-lost-crown-complete-edition.json) |
+| Prince of Persia: The Lost Crown - Complete Upgrade Pack | 317691 | [317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json](./317691-prince-of-persia-the-lost-crown-complete-upgrade-pack.json) |
+| Prince of Persia: The Lost Crown - Dark Prince Skin | 317689 | [317689-prince-of-persia-the-lost-crown-dark-prince-skin.json](./317689-prince-of-persia-the-lost-crown-dark-prince-skin.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
+| Prince of Persia: The Lost Crown - Two Thrones Skin | 317690 | [317690-prince-of-persia-the-lost-crown-two-thrones-skin.json](./317690-prince-of-persia-the-lost-crown-two-thrones-skin.json) |
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
@@ -10726,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
+| Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
@@ -13272,6 +13276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Master 5 | 209364 | [209364-puzzle-master-5.json](./209364-puzzle-master-5.json) |
 | Puzzle Master 64 | 300253 | [300253-puzzle-master-64.json](./300253-puzzle-master-64.json) |
 | Puzzle Master Deluxe Suite | 209365 | [209365-puzzle-master-deluxe-suite.json](./209365-puzzle-master-deluxe-suite.json) |
+| Puzzle Master: Complete DLC Bundle | 317675 | [317675-puzzle-master-complete-dlc-bundle.json](./317675-puzzle-master-complete-dlc-bundle.json) |
 | Puzzle Master: The Ultimate Challenge of Wits | 313442 | [313442-puzzle-master-the-ultimate-challenge-of-wits.json](./313442-puzzle-master-the-ultimate-challenge-of-wits.json) |
 | Puzzle Masters | 104657 | [104657-puzzle-masters.json](./104657-puzzle-masters.json) |
 | Puzzle Masters | 312682 | [312682-puzzle-masters.json](./312682-puzzle-masters.json) |
