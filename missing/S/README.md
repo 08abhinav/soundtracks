@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Throw | 186907 | [186907-santa-throw.json](./186907-santa-throw.json) |
 | Santa With Gun | 382878 | [382878-santa-with-gun.json](./382878-santa-with-gun.json) |
 | Santa World | 273431 | [273431-santa-world.json](./273431-santa-world.json) |
+| Santa's Adventure: Christmas Gifts Rush | 329430 | [329430-santas-adventure-christmas-gifts-rush.json](./329430-santas-adventure-christmas-gifts-rush.json) |
 | Santa's Big Adventures | 30075 | [30075-santas-big-adventures.json](./30075-santas-big-adventures.json) |
 | Santa's Big Sack | 380442 | [380442-santas-big-sack.json](./380442-santas-big-sack.json) |
 | Santa's Burnout | 390223 | [390223-santas-burnout.json](./390223-santas-burnout.json) |
@@ -8975,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky DarkCrow | 190195 | [190195-sky-darkcrow.json](./190195-sky-darkcrow.json) |
 | Sky Die | 349967 | [349967-sky-die.json](./349967-sky-die.json) |
 | Sky Diver | 16970 | [16970-sky-diver.json](./16970-sky-diver.json) |
+| Sky Diving: Parachute Flight Simulator | 329431 | [329431-sky-diving-parachute-flight-simulator.json](./329431-sky-diving-parachute-flight-simulator.json) |
 | Sky Dunk | 304265 | [304265-sky-dunk.json](./304265-sky-dunk.json) |
 | Sky Dust | 307180 | [307180-sky-dust.json](./307180-sky-dust.json) |
 | Sky Escort | 259158 | [259158-sky-escort.json](./259158-sky-escort.json) |
@@ -17485,6 +17487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ruler 2 | 19170 | [19170-star-ruler-2.json](./19170-star-ruler-2.json) |
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
+| Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
 | Star Saga: Two - The Clathran Menace | 57662 | [57662-star-saga-two-the-clathran-menace.json](./57662-star-saga-two-the-clathran-menace.json) |
 | Star Saviors | 17661 | [17661-star-saviors.json](./17661-star-saviors.json) |
@@ -20711,6 +20714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in the Airport | 357186 | [357186-stuck-in-the-airport.json](./357186-stuck-in-the-airport.json) |
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
+| Stuck Inside | 329404 | [329404-stuck-inside.json](./329404-stuck-inside.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
@@ -23438,6 +23442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Perspective | 65841 | [65841-super-perspective.json](./65841-super-perspective.json) |
 | Super Pet Hero | 245758 | [245758-super-pet-hero.json](./245758-super-pet-hero.json) |
 | Super Phantom Cat | 90979 | [90979-super-phantom-cat.json](./90979-super-phantom-cat.json) |
+| Super Pickleball Adventure | 329409 | [329409-super-pickleball-adventure.json](./329409-super-pickleball-adventure.json) |
 | Super Picture Cross | 272913 | [272913-super-picture-cross.json](./272913-super-picture-cross.json) |
 | Super Pig | 120989 | [120989-super-pig.json](./120989-super-pig.json) |
 | Super Pig | 395880 | [395880-super-pig.json](./395880-super-pig.json) |
