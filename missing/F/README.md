@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Zero AX | 78271 | [78271-f-zero-ax.json](./78271-f-zero-ax.json) |
 | F-Zero Climax | 6400 | [6400-f-zero-climax.json](./6400-f-zero-climax.json) |
 | F-Zero DSX | 313346 | [313346-f-zero-dsx.json](./313346-f-zero-dsx.json) |
+| F-Zero Final | 346468 | [346468-f-zero-final.json](./346468-f-zero-final.json) |
 | F-Zero GX | 3492 | [3492-f-zero-gx.json](./3492-f-zero-gx.json) |
 | F-Zero GX Demake Overdrive | 290106 | [290106-f-zero-gx-demake-overdrive.json](./290106-f-zero-gx-demake-overdrive.json) |
 | F-Zero Pocket | 265055 | [265055-f-zero-pocket.json](./265055-f-zero-pocket.json) |
@@ -9912,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
+| Fushigi na Sekai no Kankou Nikki II: Pakuru World to Sejika no Gyakushuu | 346376 | [346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json](./346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json) |
 | Fushigi no Daibouken Chiruno Kenzan! | 236317 | [236317-fushigi-no-daibouken-chiruno-kenzan.json](./236317-fushigi-no-daibouken-chiruno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! | 142878 | [142878-fushigi-no-daibouken-cirno-kenzan.json](./142878-fushigi-no-daibouken-cirno-kenzan.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
