@@ -1465,6 +1465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkBlood: Reverse | 348868 | [348868-darkblood-reverse.json](./348868-darkblood-reverse.json) |
 | Darkbolt | 132712 | [132712-darkbolt.json](./132712-darkbolt.json) |
 | Darkborn | 25560 | [25560-darkborn.json](./25560-darkborn.json) |
+| Darkbound | 325333 | [325333-darkbound.json](./325333-darkbound.json) |
 | Darkchaser: Battletide | 296660 | [296660-darkchaser-battletide.json](./296660-darkchaser-battletide.json) |
 | DarkCoating | 163397 | [163397-darkcoating.json](./163397-darkcoating.json) |
 | Darkdire | 112954 | [112954-darkdire.json](./112954-darkdire.json) |
@@ -1973,6 +1974,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
+| Dawn of Kagura: Hatsuka's Story | 325310 | [325310-dawn-of-kagura-hatsukas-story.json](./325310-dawn-of-kagura-hatsukas-story.json) |
+| Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
 | Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
@@ -6223,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Fast | 338289 | [338289-die-fast.json](./338289-die-fast.json) |
 | Die First | 414557 | [414557-die-first.json](./414557-die-first.json) |
 | Die For Metal | 197703 | [197703-die-for-metal.json](./197703-die-for-metal.json) |
+| Die for the Economy! | 325314 | [325314-die-for-the-economy.json](./325314-die-for-the-economy.json) |
 | Die for Valhalla! | 40868 | [40868-die-for-valhalla.json](./40868-die-for-valhalla.json) |
 | Die for Valhalla!: Special Edition | 122357 | [122357-die-for-valhalla-special-edition.json](./122357-die-for-valhalla-special-edition.json) |
 | Die Fugger | 86040 | [86040-die-fugger.json](./86040-die-fugger.json) |
