@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
+| Hedgehog Destiny | 331744 | [331744-hedgehog-destiny.json](./331744-hedgehog-destiny.json) |
 | Hedgehog Launch | 234939 | [234939-hedgehog-launch.json](./234939-hedgehog-launch.json) |
 | Hedgehog Launch 2 | 234940 | [234940-hedgehog-launch-2.json](./234940-hedgehog-launch-2.json) |
 | Hedgehog's Adventures 2 | 99188 | [99188-hedgehogs-adventures-2.json](./99188-hedgehogs-adventures-2.json) |
