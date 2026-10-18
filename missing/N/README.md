@@ -5146,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova City Original | 230270 | [230270-nova-city-original.json](./230270-nova-city-original.json) |
 | Nova Core Chaos | 286105 | [286105-nova-core-chaos.json](./286105-nova-core-chaos.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
+| Nova Dawn: Overload | 347483 | [347483-nova-dawn-overload.json](./347483-nova-dawn-overload.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
