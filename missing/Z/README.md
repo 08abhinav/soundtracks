@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Legion | 150077 | [150077-zodiac-legion.json](./150077-zodiac-legion.json) |
 | Zodiac Online | 93558 | [93558-zodiac-online.json](./93558-zodiac-online.json) |
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
+| Zodiac Quest | 315894 | [315894-zodiac-quest.json](./315894-zodiac-quest.json) |
 | Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
@@ -984,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZomBees: Bee The Swarm | 58877 | [58877-zombees-bee-the-swarm.json](./58877-zombees-bee-the-swarm.json) |
 | ZomBehead! | 264217 | [264217-zombehead.json](./264217-zombehead.json) |
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
+| ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
 | Zombi Rockstar | 245844 | [245844-zombi-rockstar.json](./245844-zombi-rockstar.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
@@ -1111,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Exodus: Safe Haven - Part Three | 192242 | [192242-zombie-exodus-safe-haven-part-three.json](./192242-zombie-exodus-safe-haven-part-three.json) |
 | Zombie Exodus: Safe Haven - Part Two | 171336 | [171336-zombie-exodus-safe-haven-part-two.json](./171336-zombie-exodus-safe-haven-part-two.json) |
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
+| Zombie Fall: Survival Challenge | 315902 | [315902-zombie-fall-survival-challenge.json](./315902-zombie-fall-survival-challenge.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
 | Zombie Farm Battles | 373245 | [373245-zombie-farm-battles.json](./373245-zombie-farm-battles.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
