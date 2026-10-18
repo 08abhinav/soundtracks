@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
+| Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
 | Campwood | 395096 | [395096-campwood.json](./395096-campwood.json) |
 | Camundongo Miguel na Ilha dos Novo Pogos | 298411 | [298411-camundongo-miguel-na-ilha-dos-novo-pogos.json](./298411-camundongo-miguel-na-ilha-dos-novo-pogos.json) |
 | Can Androids Pray: Blue | 125388 | [125388-can-androids-pray-blue.json](./125388-can-androids-pray-blue.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
 | Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
+| Card Collector Trading Shop | 329439 | [329439-card-collector-trading-shop.json](./329439-card-collector-trading-shop.json) |
 | Card Colony | 383343 | [383343-card-colony.json](./383343-card-colony.json) |
 | Card Conquest | 378427 | [378427-card-conquest.json](./378427-card-conquest.json) |
 | Card Corner | 390558 | [390558-card-corner.json](./390558-card-corner.json) |
@@ -2161,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
+| CarX Drift Racing 3 | 329420 | [329420-carx-drift-racing-3.json](./329420-carx-drift-racing-3.json) |
 | CarX Drift Racing Online | 51443 | [51443-carx-drift-racing-online.json](./51443-carx-drift-racing-online.json) |
 | CarX Drift Racing Online 2 | 368809 | [368809-carx-drift-racing-online-2.json](./368809-carx-drift-racing-online-2.json) |
 | CarX Drift Racing Online: Hit the Wall | 199667 | [199667-carx-drift-racing-online-hit-the-wall.json](./199667-carx-drift-racing-online-hit-the-wall.json) |
@@ -2662,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Spider Solitaire | 84134 | [84134-casual-spider-solitaire.json](./84134-casual-spider-solitaire.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
 | Casual Sport Series: Racket Sports Bundle | 396915 | [396915-casual-sport-series-racket-sports-bundle.json](./396915-casual-sport-series-racket-sports-bundle.json) |
+| Casual Sport Series: Tennis | 329440 | [329440-casual-sport-series-tennis.json](./329440-casual-sport-series-tennis.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | Casus Belli | 23547 | [23547-casus-belli.json](./23547-casus-belli.json) |
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
@@ -5399,6 +5403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChloroLink | 374061 | [374061-chlorolink.json](./374061-chlorolink.json) |
 | Chlorophos | 119742 | [119742-chlorophos.json](./119742-chlorophos.json) |
 | Chlorophyll | 58697 | [58697-chlorophyll.json](./58697-chlorophyll.json) |
+| Cho Aniki Collection | 329447 | [329447-cho-aniki-collection.json](./329447-cho-aniki-collection.json) |
 | Cho Aniki Collection | 375595 | [375595-cho-aniki-collection.json](./375595-cho-aniki-collection.json) |
 | Cho Aniki: Bakuretsu Ranto-hen | 368787 | [368787-cho-aniki-bakuretsu-ranto-hen.json](./368787-cho-aniki-bakuretsu-ranto-hen.json) |
 | Cho Chabudai Gaeshi | 94174 | [94174-cho-chabudai-gaeshi.json](./94174-cho-chabudai-gaeshi.json) |
@@ -5520,6 +5525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
+| Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
 | Choose Your Own Nightmare: Night of the Werewolf | 144032 | [144032-choose-your-own-nightmare-night-of-the-werewolf.json](./144032-choose-your-own-nightmare-night-of-the-werewolf.json) |
@@ -10323,6 +10329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
+| Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
 | Cop Police Escape: Racing Zone Clash | 254690 | [254690-cop-police-escape-racing-zone-clash.json](./254690-cop-police-escape-racing-zone-clash.json) |
 | Cop Rush | 368289 | [368289-cop-rush.json](./368289-cop-rush.json) |
