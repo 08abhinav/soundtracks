@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuyuu Unmei Kyoudoutai | 222444 | [222444-gakuyuu-unmei-kyoudoutai.json](./222444-gakuyuu-unmei-kyoudoutai.json) |
 | Gal Galaxy Pain | 186558 | [186558-gal-galaxy-pain.json](./186558-gal-galaxy-pain.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
+| Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
@@ -4817,6 +4818,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf With Your Friends: Critical Hit Pack | 298594 | [298594-golf-with-your-friends-critical-hit-pack.json](./298594-golf-with-your-friends-critical-hit-pack.json) |
 | Golf With Your Friends: Fairytale Fables Pack | 268540 | [268540-golf-with-your-friends-fairytale-fables-pack.json](./268540-golf-with-your-friends-fairytale-fables-pack.json) |
 | Golf With Your Friends: Horrifying Headgear Pack | 336929 | [336929-golf-with-your-friends-horrifying-headgear-pack.json](./336929-golf-with-your-friends-horrifying-headgear-pack.json) |
+| Golf With Your Friends: Legends of Olympus Pack | 317679 | [317679-golf-with-your-friends-legends-of-olympus-pack.json](./317679-golf-with-your-friends-legends-of-olympus-pack.json) |
+| Golf With Your Friends: Olympus Odyssey Course | 317687 | [317687-golf-with-your-friends-olympus-odyssey-course.json](./317687-golf-with-your-friends-olympus-odyssey-course.json) |
 | Golf With Your Friends: Peaceful Pines Course | 265868 | [265868-golf-with-your-friends-peaceful-pines-course.json](./265868-golf-with-your-friends-peaceful-pines-course.json) |
 | Golf With Your Friends: Sports Pack | 230825 | [230825-golf-with-your-friends-sports-pack.json](./230825-golf-with-your-friends-sports-pack.json) |
 | Golf With Your Friends: Starter Edition | 277884 | [277884-golf-with-your-friends-starter-edition.json](./277884-golf-with-your-friends-starter-edition.json) |
