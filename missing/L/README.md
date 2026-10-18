@@ -756,6 +756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
+| Laser Limbo | 321227 | [321227-laser-limbo.json](./321227-laser-limbo.json) |
 | Laser Logic | 406065 | [406065-laser-logic.json](./406065-laser-logic.json) |
 | Laser Lords | 45919 | [45919-laser-lords.json](./45919-laser-lords.json) |
 | Laser Maze | 100243 | [100243-laser-maze.json](./100243-laser-maze.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Guy | 148123 | [148123-little-big-guy.json](./148123-little-big-guy.json) |
 | Little Big Horn | 226409 | [226409-little-big-horn.json](./226409-little-big-horn.json) |
 | Little Big Monsters | 149945 | [149945-little-big-monsters.json](./149945-little-big-monsters.json) |
+| Little Big Planet 3: Dark Souls 3 Costume pack | 321183 | [321183-little-big-planet-3-dark-souls-3-costume-pack.json](./321183-little-big-planet-3-dark-souls-3-costume-pack.json) |
 | Little Big Robots | 231931 | [231931-little-big-robots.json](./231931-little-big-robots.json) |
 | Little Big Snake | 108928 | [108928-little-big-snake.json](./108928-little-big-snake.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
@@ -4532,23 +4534,37 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2: Raven Costume | 344728 | [344728-littlebigplanet-2-raven-costume.json](./344728-littlebigplanet-2-raven-costume.json) |
 | LittleBigPlanet 2: Special Edition | 21717 | [21717-littlebigplanet-2-special-edition.json](./21717-littlebigplanet-2-special-edition.json) |
 | LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
+| LittleBigPlanet 3: Autumn Seasonal Creator Kit | 321193 | [321193-littlebigplanet-3-autumn-seasonal-creator-kit.json](./321193-littlebigplanet-3-autumn-seasonal-creator-kit.json) |
 | LittleBigPlanet 3: Baroque Costume | 326784 | [326784-littlebigplanet-3-baroque-costume.json](./326784-littlebigplanet-3-baroque-costume.json) |
+| LittleBigPlanet 3: Beta Reward Vest Costume | 321192 | [321192-littlebigplanet-3-beta-reward-vest-costume.json](./321192-littlebigplanet-3-beta-reward-vest-costume.json) |
+| LittleBigPlanet 3: Bigfoot Costume | 321184 | [321184-littlebigplanet-3-bigfoot-costume.json](./321184-littlebigplanet-3-bigfoot-costume.json) |
+| LittleBigPlanet 3: Cupid Costume | 321191 | [321191-littlebigplanet-3-cupid-costume.json](./321191-littlebigplanet-3-cupid-costume.json) |
+| LittleBigPlanet 3: Cyberman Costume | 321189 | [321189-littlebigplanet-3-cyberman-costume.json](./321189-littlebigplanet-3-cyberman-costume.json) |
 | LittleBigPlanet 3: Dead Space - Isaac Clarke Costume | 322199 | [322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json](./322199-littlebigplanet-3-dead-space-isaac-clarke-costume.json) |
 | LittleBigPlanet 3: Fix Me Hook Hat T-shirt | 322200 | [322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json](./322200-littlebigplanet-3-fix-me-hook-hat-t-shirt.json) |
 | LittleBigPlanet 3: Line Infantry Costume | 322201 | [322201-littlebigplanet-3-line-infantry-costume.json](./322201-littlebigplanet-3-line-infantry-costume.json) |
+| LittleBigPlanet 3: Little Nightmares Creator-Pack | 321187 | [321187-littlebigplanet-3-little-nightmares-creator-pack.json](./321187-littlebigplanet-3-little-nightmares-creator-pack.json) |
+| LittleBigPlanet 3: Mass Effect - Andromeda AI Armor Costume | 321194 | [321194-littlebigplanet-3-mass-effect-andromeda-ai-armor-costume.json](./321194-littlebigplanet-3-mass-effect-andromeda-ai-armor-costume.json) |
 | LittleBigPlanet 3: Mass Effect - Andromeda Costume Pack | 321625 | [321625-littlebigplanet-3-mass-effect-andromeda-costume-pack.json](./321625-littlebigplanet-3-mass-effect-andromeda-costume-pack.json) |
+| LittleBigPlanet 3: Mass Effect - Andromeda Poc Costume | 321197 | [321197-littlebigplanet-3-mass-effect-andromeda-poc-costume.json](./321197-littlebigplanet-3-mass-effect-andromeda-poc-costume.json) |
 | LittleBigPlanet 3: Monkey King Costume | 322206 | [322206-littlebigplanet-3-monkey-king-costume.json](./322206-littlebigplanet-3-monkey-king-costume.json) |
 | LittleBigPlanet 3: Octodad - Dadliest Catch Costume | 320957 | [320957-littlebigplanet-3-octodad-dadliest-catch-costume.json](./320957-littlebigplanet-3-octodad-dadliest-catch-costume.json) |
+| LittleBigPlanet 3: Plants vs. Zombies Zombie Costume | 321188 | [321188-littlebigplanet-3-plants-vs-zombies-zombie-costume.json](./321188-littlebigplanet-3-plants-vs-zombies-zombie-costume.json) |
 | Littlebigplanet 3: Renaissance Costume | 327314 | [327314-littlebigplanet-3-renaissance-costume.json](./327314-littlebigplanet-3-renaissance-costume.json) |
 | LittleBigPlanet 3: Santa Hat And Beard Costume | 322203 | [322203-littlebigplanet-3-santa-hat-and-beard-costume.json](./322203-littlebigplanet-3-santa-hat-and-beard-costume.json) |
 | LittleBigPlanet 3: Sumo Wrestler Costume | 322205 | [322205-littlebigplanet-3-sumo-wrestler-costume.json](./322205-littlebigplanet-3-sumo-wrestler-costume.json) |
+| LittleBigPlanet 3: Tekken 7 Yoshimitsu Costume | 321190 | [321190-littlebigplanet-3-tekken-7-yoshimitsu-costume.json](./321190-littlebigplanet-3-tekken-7-yoshimitsu-costume.json) |
 | LittleBigPlanet 3: The Journey Home | 11252 | [11252-littlebigplanet-3-the-journey-home.json](./11252-littlebigplanet-3-the-journey-home.json) |
+| LittleBigPlanet 3: Turkey Head Costume | 321195 | [321195-littlebigplanet-3-turkey-head-costume.json](./321195-littlebigplanet-3-turkey-head-costume.json) |
+| LittleBigPlanet 3: Winter Seasonal Creator Kit | 321196 | [321196-littlebigplanet-3-winter-seasonal-creator-kit.json](./321196-littlebigplanet-3-winter-seasonal-creator-kit.json) |
 | LittleBigPlanet HUB | 77349 | [77349-littlebigplanet-hub.json](./77349-littlebigplanet-hub.json) |
 | LittleBigPlanet PS Vita | 95002 | [95002-littlebigplanet-ps-vita.json](./95002-littlebigplanet-ps-vita.json) |
 | LittleBigPlanet PS Vita: DC Comics Premium Level Pack | 344442 | [344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json](./344442-littlebigplanet-ps-vita-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet PS Vita: Marvel Arcade Pack | 147278 | [147278-littlebigplanet-ps-vita-marvel-arcade-pack.json](./147278-littlebigplanet-ps-vita-marvel-arcade-pack.json) |
+| LittleBigPlanet: 3 Dia de Muertos Big Toggle Costume | 321185 | [321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json](./321185-littlebigplanet-3-dia-de-muertos-big-toggle-costume.json) |
 | LittleBigPlanet: Marvel Super Hero Edition | 147222 | [147222-littlebigplanet-marvel-super-hero-edition.json](./147222-littlebigplanet-marvel-super-hero-edition.json) |
 | LittleBigPlanet: Pirates of the Caribbean Level Kit | 194642 | [194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json](./194642-littlebigplanet-pirates-of-the-caribbean-level-kit.json) |
+| LittleBigPlanet: Sack-Eating Plant Costume | 321186 | [321186-littlebigplanet-sack-eating-plant-costume.json](./321186-littlebigplanet-sack-eating-plant-costume.json) |
 | LittleBigPlanet: Sackboy's Prehistoric Moves | 6364 | [6364-littlebigplanet-sackboys-prehistoric-moves.json](./6364-littlebigplanet-sackboys-prehistoric-moves.json) |
 | LittleBigSoko | 101621 | [101621-littlebigsoko.json](./101621-littlebigsoko.json) |
 | Littlebird/TrueEyes | 221268 | [221268-littlebird-trueeyes.json](./221268-littlebird-trueeyes.json) |
