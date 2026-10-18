@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laruaville 9 | 270047 | [270047-laruaville-9.json](./270047-laruaville-9.json) |
 | Larut | 318824 | [318824-larut.json](./318824-larut.json) |
 | Larva Mortus | 15780 | [15780-larva-mortus.json](./15780-larva-mortus.json) |
+| Las Aventuras de Frank el Enano | 317098 | [317098-las-aventuras-de-frank-el-enano.json](./317098-las-aventuras-de-frank-el-enano.json) |
 | Las Aventuras de Manolo Kabezabolo | 323573 | [323573-las-aventuras-de-manolo-kabezabolo.json](./323573-las-aventuras-de-manolo-kabezabolo.json) |
 | Las Diablas Blackjack | 84187 | [84187-las-diablas-blackjack.json](./84187-las-diablas-blackjack.json) |
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
