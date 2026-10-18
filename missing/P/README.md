@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy | 92284 | [92284-peachy.json](./92284-peachy.json) |
 | Peachy Adventure | 173818 | [173818-peachy-adventure.json](./173818-peachy-adventure.json) |
 | Peachy Boy | 231053 | [231053-peachy-boy.json](./231053-peachy-boy.json) |
+| Peachy Derby | 309734 | [309734-peachy-derby.json](./309734-peachy-derby.json) |
 | Peachy Derby: Mephisto - Demon Maid | 333750 | [333750-peachy-derby-mephisto-demon-maid.json](./333750-peachy-derby-mephisto-demon-maid.json) |
 | Peachy Derby: Minami - Back to School | 333749 | [333749-peachy-derby-minami-back-to-school.json](./333749-peachy-derby-minami-back-to-school.json) |
 | Peachy Derby: Mirai - Manor Owner | 333748 | [333748-peachy-derby-mirai-manor-owner.json](./333748-peachy-derby-mirai-manor-owner.json) |
@@ -4175,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Quiz: Animals | 370993 | [370993-photo-quiz-animals.json](./370993-photo-quiz-animals.json) |
 | Photo Spot | 255005 | [255005-photo-spot.json](./255005-photo-spot.json) |
+| Photo Studio Simulator | 309730 | [309730-photo-studio-simulator.json](./309730-photo-studio-simulator.json) |
 | Photo Y2K | 142858 | [142858-photo-y2k.json](./142858-photo-y2k.json) |
 | Photobia: Tales from the Dark | 298660 | [298660-photobia-tales-from-the-dark.json](./298660-photobia-tales-from-the-dark.json) |
 | Photobomb | 177266 | [177266-photobomb.json](./177266-photobomb.json) |
@@ -7295,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Puzzle:Workshop - Part 3 | 163466 | [163466-pleasure-puzzle-workshop-part-3.json](./163466-pleasure-puzzle-workshop-part-3.json) |
 | Pleasure Puzzle:Workshop - Part 4 | 163469 | [163469-pleasure-puzzle-workshop-part-4.json](./163469-pleasure-puzzle-workshop-part-4.json) |
 | Pleasure Puzzle:Workshop - Part 5 | 163465 | [163465-pleasure-puzzle-workshop-part-5.json](./163465-pleasure-puzzle-workshop-part-5.json) |
+| Pleasure Sweet Secret | 309737 | [309737-pleasure-sweet-secret.json](./309737-pleasure-sweet-secret.json) |
 | Pleasuredrome | 325246 | [325246-pleasuredrome.json](./325246-pleasuredrome.json) |
 | Pleasuredromes Of Kubla Khan | 268738 | [268738-pleasuredromes-of-kubla-khan.json](./268738-pleasuredromes-of-kubla-khan.json) |
 | Pleasurepunk: Drug Dealer | 202193 | [202193-pleasurepunk-drug-dealer.json](./202193-pleasurepunk-drug-dealer.json) |
@@ -9619,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
+| Potato | 309748 | [309748-potato.json](./309748-potato.json) |
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Arena | 202546 | [202546-potato-arena.json](./202546-potato-arena.json) |
 | Potato Cop | 350221 | [350221-potato-cop.json](./350221-potato-cop.json) |
