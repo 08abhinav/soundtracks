@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jail Dice: Roll to Break | 347343 | [347343-jail-dice-roll-to-break.json](./347343-jail-dice-roll-to-break.json) |
 | Jail Escape | 322159 | [322159-jail-escape.json](./322159-jail-escape.json) |
 | Jail Escape Plan VR | 291871 | [291871-jail-escape-plan-vr.json](./291871-jail-escape-plan-vr.json) |
+| Jail House Breakdown | 323025 | [323025-jail-house-breakdown.json](./323025-jail-house-breakdown.json) |
 | Jailbird Nocturne | 364530 | [364530-jailbird-nocturne.json](./364530-jailbird-nocturne.json) |
 | Jailbirdman | 362356 | [362356-jailbirdman.json](./362356-jailbirdman.json) |
 | Jailbirds | 337052 | [337052-jailbirds.json](./337052-jailbirds.json) |
@@ -375,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: Tomorrow Never Dies | 1640 | [1640-james-bond-007-tomorrow-never-dies.json](./1640-james-bond-007-tomorrow-never-dies.json) |
 | James Bond Jr. | 217971 | [217971-james-bond-jr.json](./217971-james-bond-jr.json) |
 | James Bond Jr. | 217972 | [217972-james-bond-jr.json](./217972-james-bond-jr.json) |
+| James Bond: Who Wants to Live Again? | 323026 | [323026-james-bond-who-wants-to-live-again.json](./323026-james-bond-who-wants-to-live-again.json) |
 | James Bonk | 110285 | [110285-james-bonk.json](./110285-james-bonk.json) |
 | James Cameron's Avatar | 80372 | [80372-james-camerons-avatar.json](./80372-james-camerons-avatar.json) |
 | James Cameron's Avatar: The Game | 200999 | [200999-james-camerons-avatar-the-game.json](./200999-james-camerons-avatar-the-game.json) |
@@ -384,6 +386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James is Bananas | 248887 | [248887-james-is-bananas.json](./248887-james-is-bananas.json) |
 | James Noir's Hollywood Crimes | 6830 | [6830-james-noirs-hollywood-crimes.json](./6830-james-noirs-hollywood-crimes.json) |
 | James Patterson: Women's Murder Club - Games of Passion | 47831 | [47831-james-patterson-womens-murder-club-games-of-passion.json](./47831-james-patterson-womens-murder-club-games-of-passion.json) |
+| James Peris es el Agente 00,5 | 323045 | [323045-james-peris-es-el-agente-00-5.json](./323045-james-peris-es-el-agente-00-5.json) |
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
@@ -561,6 +564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim: Hakone Town of Natural Beauty and Hot Springs | 315837 | [315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json](./315837-japanese-rail-sim-hakone-town-of-natural-beauty-and-hot-springs.json) |
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
 | Japanese Ramen Simulator | 414484 | [414484-japanese-ramen-simulator.json](./414484-japanese-ramen-simulator.json) |
+| Japanese Salaryman | 323017 | [323017-japanese-salaryman.json](./323017-japanese-salaryman.json) |
 | Japanese School Life | 26136 | [26136-japanese-school-life.json](./26136-japanese-school-life.json) |
 | Japanese Swordsmith | 414530 | [414530-japanese-swordsmith.json](./414530-japanese-swordsmith.json) |
 | Japanese TeTris | 211156 | [211156-japanese-tetris.json](./211156-japanese-tetris.json) |
