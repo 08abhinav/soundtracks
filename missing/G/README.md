@@ -6262,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Personality: Guardians | 348841 | [348841-great-personality-guardians.json](./348841-great-personality-guardians.json) |
 | Great Pilots | 224531 | [224531-great-pilots.json](./224531-great-pilots.json) |
 | Great Powers | 291482 | [291482-great-powers.json](./291482-great-powers.json) |
+| Great Powers At War | 325898 | [325898-great-powers-at-war.json](./325898-great-powers-at-war.json) |
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
 | Great Soccer | 100299 | [100299-great-soccer.json](./100299-great-soccer.json) |
