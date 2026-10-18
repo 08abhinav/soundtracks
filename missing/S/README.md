@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Agony | 173307 | [173307-seed-of-agony.json](./173307-seed-of-agony.json) |
 | Seed of Amaranth | 105225 | [105225-seed-of-amaranth.json](./105225-seed-of-amaranth.json) |
 | Seed of Dragon | 400959 | [400959-seed-of-dragon.json](./400959-seed-of-dragon.json) |
+| Seed of Heroes | 317096 | [317096-seed-of-heroes.json](./317096-seed-of-heroes.json) |
 | Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
 | Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
 | Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
@@ -9713,6 +9714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slideshot 2 | 175145 | [175145-slideshot-2.json](./175145-slideshot-2.json) |
 | Slidetracked | 188952 | [188952-slidetracked.json](./188952-slidetracked.json) |
 | SlideWords | 88207 | [88207-slidewords.json](./88207-slidewords.json) |
+| Slidey | 317055 | [317055-slidey.json](./317055-slidey.json) |
 | Slidey Feet | 243635 | [243635-slidey-feet.json](./243635-slidey-feet.json) |
 | Sliding | 270564 | [270564-sliding.json](./270564-sliding.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
@@ -13001,6 +13003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Xperience | 332573 | [332573-sonic-xperience.json](./332573-sonic-xperience.json) |
 | Sonic XS | 197599 | [197599-sonic-xs.json](./197599-sonic-xs.json) |
 | Sonic Xtreme 2D | 315027 | [315027-sonic-xtreme-2d.json](./315027-sonic-xtreme-2d.json) |
+| Sonic Z-Treme | 317084 | [317084-sonic-z-treme.json](./317084-sonic-z-treme.json) |
 | Sonic Zenith | 331752 | [331752-sonic-zenith.json](./331752-sonic-zenith.json) |
 | Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
@@ -18196,6 +18199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
+| Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
 | Starlink: Battle for Atlas - Collection Pack 2 | 168441 | [168441-starlink-battle-for-atlas-collection-pack-2.json](./168441-starlink-battle-for-atlas-collection-pack-2.json) |
 | Starlink: Battle for Atlas - Deluxe Edition | 121507 | [121507-starlink-battle-for-atlas-deluxe-edition.json](./121507-starlink-battle-for-atlas-deluxe-edition.json) |
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
@@ -18428,6 +18432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Sky: Winter Stories | 203814 | [203814-starry-sky-winter-stories.json](./203814-starry-sky-winter-stories.json) |
 | Starry Trace | 388327 | [388327-starry-trace.json](./388327-starry-trace.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
+| Stars and Empires: Colony Defense | 317078 | [317078-stars-and-empires-colony-defense.json](./317078-stars-and-empires-colony-defense.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars Below | 177518 | [177518-stars-below.json](./177518-stars-below.json) |
 | Stars Beyond Reach | 13208 | [13208-stars-beyond-reach.json](./13208-stars-beyond-reach.json) |
