@@ -10745,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
 | Cosmic Rollers: Orbital Odyssey | 278551 | [278551-cosmic-rollers-orbital-odyssey.json](./278551-cosmic-rollers-orbital-odyssey.json) |
 | Cosmic Run | 348341 | [348341-cosmic-run.json](./348341-cosmic-run.json) |
+| Cosmic Rush | 331743 | [331743-cosmic-rush.json](./331743-cosmic-rush.json) |
 | Cosmic Scramble | 372589 | [372589-cosmic-scramble.json](./372589-cosmic-scramble.json) |
 | Cosmic Security | 191051 | [191051-cosmic-security.json](./191051-cosmic-security.json) |
 | Cosmic Shenanigans | 412208 | [412208-cosmic-shenanigans.json](./412208-cosmic-shenanigans.json) |
@@ -13698,6 +13699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubemash | 25961 | [25961-cubemash.json](./25961-cubemash.json) |
 | CubeMator - Mine the MC World | 102203 | [102203-cubemator-mine-the-mc-world.json](./102203-cubemator-mine-the-mc-world.json) |
 | Cubemen | 16346 | [16346-cubemen.json](./16346-cubemen.json) |
+| Cuben | 331723 | [331723-cuben.json](./331723-cuben.json) |
 | Cubenen Gardens: Befriend | 316148 | [316148-cubenen-gardens-befriend.json](./316148-cubenen-gardens-befriend.json) |
 | Cubenen Gardens: Kingdom | 417664 | [417664-cubenen-gardens-kingdom.json](./417664-cubenen-gardens-kingdom.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
