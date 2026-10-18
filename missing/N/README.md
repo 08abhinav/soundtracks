@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narrow Escape | 41986 | [41986-narrow-escape.json](./41986-narrow-escape.json) |
 | Narrow One | 364991 | [364991-narrow-one.json](./364991-narrow-one.json) |
 | Narrow Path | 203380 | [203380-narrow-path.json](./203380-narrow-path.json) |
+| Narrow Woods Hotel | 321834 | [321834-narrow-woods-hotel.json](./321834-narrow-woods-hotel.json) |
 | Narrow.One | 148376 | [148376-narrow-one.json](./148376-narrow-one.json) |
 | Narrowboat Simulator | 142793 | [142793-narrowboat-simulator.json](./142793-narrowboat-simulator.json) |
 | Naru-Morph! | 291354 | [291354-naru-morph.json](./291354-naru-morph.json) |
@@ -3472,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
+| Nights: Realm of Dreams | 321817 | [321817-nights-realm-of-dreams.json](./321817-nights-realm-of-dreams.json) |
 | Nightscape | 252634 | [252634-nightscape.json](./252634-nightscape.json) |
 | Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
