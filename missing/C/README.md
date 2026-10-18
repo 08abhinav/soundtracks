@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Bandits | 392221 | [392221-candy-bandits.json](./392221-candy-bandits.json) |
 | Candy Blitz Deluxe | 59469 | [59469-candy-blitz-deluxe.json](./59469-candy-blitz-deluxe.json) |
 | Candy Box | 3269 | [3269-candy-box.json](./3269-candy-box.json) |
+| Candy Box | 327664 | [327664-candy-box.json](./327664-candy-box.json) |
 | Candy Box 2 | 62779 | [62779-candy-box-2.json](./62779-candy-box-2.json) |
 | Candy Box U | 402983 | [402983-candy-box-u.json](./402983-candy-box-u.json) |
 | Candy Boy | 217021 | [217021-candy-boy.json](./217021-candy-boy.json) |
@@ -2876,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
+| Cat Syndicate: Istanbul | 327648 | [327648-cat-syndicate-istanbul.json](./327648-cat-syndicate-istanbul.json) |
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
@@ -3915,6 +3917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
+| Chalga Killer | 327691 | [327691-chalga-killer.json](./327691-chalga-killer.json) |
 | Chalice | 151274 | [151274-chalice.json](./151274-chalice.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk Gardens | 119437 | [119437-chalk-gardens.json](./119437-chalk-gardens.json) |
@@ -5108,6 +5111,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chigusa's Diary | 412422 | [412422-chigusas-diary.json](./412422-chigusas-diary.json) |
 | Chihiro Himukai Always Walks Away | 159136 | [159136-chihiro-himukai-always-walks-away.json](./159136-chihiro-himukai-always-walks-away.json) |
 | Chihuahua Controller | 373115 | [373115-chihuahua-controller.json](./373115-chihuahua-controller.json) |
+| Chiikawa Phone | 327681 | [327681-chiikawa-phone.json](./327681-chiikawa-phone.json) |
+| Chiikawa Pocket | 327682 | [327682-chiikawa-pocket.json](./327682-chiikawa-pocket.json) |
 | Chiisana Obake: Acchi Socchi Kocchi | 48537 | [48537-chiisana-obake-acchi-socchi-kocchi.json](./48537-chiisana-obake-acchi-socchi-kocchi.json) |
 | Chiisana Oukoku Eltoria | 387132 | [387132-chiisana-oukoku-eltoria.json](./387132-chiisana-oukoku-eltoria.json) |
 | Chikai no Kiss wa Totsuzen ni | 221241 | [221241-chikai-no-kiss-wa-totsuzen-ni.json](./221241-chikai-no-kiss-wa-totsuzen-ni.json) |
