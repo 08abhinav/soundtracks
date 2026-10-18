@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yacht Dice Family | 360497 | [360497-yacht-dice-family.json](./360497-yacht-dice-family.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
 | Yacht Haven Tycoon: Marina Port Parking Simulator | 300828 | [300828-yacht-haven-tycoon-marina-port-parking-simulator.json](./300828-yacht-haven-tycoon-marina-port-parking-simulator.json) |
+| Yacht Life Simulator | 312416 | [312416-yacht-life-simulator.json](./312416-yacht-life-simulator.json) |
 | Yacht Mechanic Simulator | 133364 | [133364-yacht-mechanic-simulator.json](./133364-yacht-mechanic-simulator.json) |
 | Yacht Simulator VR | 90853 | [90853-yacht-simulator-vr.json](./90853-yacht-simulator-vr.json) |
 | Yachu Dice | 151017 | [151017-yachu-dice.json](./151017-yachu-dice.json) |
