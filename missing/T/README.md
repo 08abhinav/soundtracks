@@ -2727,8 +2727,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story | 278363 | [278363-tell-me-your-story.json](./278363-tell-me-your-story.json) |
 | Tell Me Your Story: Ancient Puzzle | 324444 | [324444-tell-me-your-story-ancient-puzzle.json](./324444-tell-me-your-story-ancient-puzzle.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
+| Tell Me Your Story: Complete Edition | 328787 | [328787-tell-me-your-story-complete-edition.json](./328787-tell-me-your-story-complete-edition.json) |
+| Tell Me Your Story: Definitive Edition | 328786 | [328786-tell-me-your-story-definitive-edition.json](./328786-tell-me-your-story-definitive-edition.json) |
+| Tell Me Your Story: Extended Edition | 328784 | [328784-tell-me-your-story-extended-edition.json](./328784-tell-me-your-story-extended-edition.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
+| Tell Me Your Story: Special Edition | 328785 | [328785-tell-me-your-story-special-edition.json](./328785-tell-me-your-story-special-edition.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telling Lies | 51528 | [51528-telling-lies.json](./51528-telling-lies.json) |
@@ -12230,8 +12234,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
+| The Smurfs: Colorful Stories - Amazing Edition | 328788 | [328788-the-smurfs-colorful-stories-amazing-edition.json](./328788-the-smurfs-colorful-stories-amazing-edition.json) |
 | The Smurfs: Colorful Stories - Complete + | 328824 | [328824-the-smurfs-colorful-stories-complete.json](./328824-the-smurfs-colorful-stories-complete.json) |
 | The Smurfs: Colorful Stories - Complete Edition | 304773 | [304773-the-smurfs-colorful-stories-complete-edition.json](./304773-the-smurfs-colorful-stories-complete-edition.json) |
+| The Smurfs: Colorful Stories - Definitive Edition | 328789 | [328789-the-smurfs-colorful-stories-definitive-edition.json](./328789-the-smurfs-colorful-stories-definitive-edition.json) |
 | The Smurfs: Colorful Stories - Deluxe Edition | 288278 | [288278-the-smurfs-colorful-stories-deluxe-edition.json](./288278-the-smurfs-colorful-stories-deluxe-edition.json) |
 | The Smurfs: Colorful Stories - Director's Cut | 328823 | [328823-the-smurfs-colorful-stories-directors-cut.json](./328823-the-smurfs-colorful-stories-directors-cut.json) |
 | The Smurfs: Colorful Stories - Extended Edition | 328790 | [328790-the-smurfs-colorful-stories-extended-edition.json](./328790-the-smurfs-colorful-stories-extended-edition.json) |
@@ -20132,6 +20138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Nations | 38891 | [38891-trade-nations.json](./38891-trade-nations.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
+| Trade Rivals: Goblin Age | 328848 | [328848-trade-rivals-goblin-age.json](./328848-trade-rivals-goblin-age.json) |
 | Trade Sails | 200718 | [200718-trade-sails.json](./200718-trade-sails.json) |
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
