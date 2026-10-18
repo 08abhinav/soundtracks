@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
+| Adventure Book in Dimension | 339128 | [339128-adventure-book-in-dimension.json](./339128-adventure-book-in-dimension.json) |
 | Adventure Boss | 181154 | [181154-adventure-boss.json](./181154-adventure-boss.json) |
 | Adventure Boy Cheapskate | 95928 | [95928-adventure-boy-cheapskate.json](./95928-adventure-boy-cheapskate.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
@@ -12465,6 +12466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avara | 78569 | [78569-avara.json](./78569-avara.json) |
+| Avara Aftershock 1.5 | 339141 | [339141-avara-aftershock-1-5.json](./339141-avara-aftershock-1-5.json) |
 | Avaria: Iron Rule | 399009 | [399009-avaria-iron-rule.json](./399009-avaria-iron-rule.json) |
 | Avariavs | 98405 | [98405-avariavs.json](./98405-avariavs.json) |
 | Avarice | 125408 | [125408-avarice.json](./125408-avarice.json) |
