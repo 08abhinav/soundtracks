@@ -7303,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
 | The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
+| The Goofy Giraffe Game | 357585 | [357585-the-goofy-giraffe-game.json](./357585-the-goofy-giraffe-game.json) |
 | The Googol Clicker | 367517 | [367517-the-googol-clicker.json](./367517-the-googol-clicker.json) |
 | The Goonies | 41375 | [41375-the-goonies.json](./41375-the-goonies.json) |
 | The Goonies | 4615 | [4615-the-goonies.json](./4615-the-goonies.json) |
@@ -8774,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sigil | 88325 | [88325-the-last-sigil.json](./88325-the-last-sigil.json) |
 | The Last Sin | 44110 | [44110-the-last-sin.json](./44110-the-last-sin.json) |
 | The Last Sip | 350953 | [350953-the-last-sip.json](./350953-the-last-sip.json) |
+| The Last Ski Trip | 357586 | [357586-the-last-ski-trip.json](./357586-the-last-ski-trip.json) |
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
 | The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
@@ -14876,6 +14878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
 | Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
+| Thunderman: Adventures in Another Realm | 357668 | [357668-thunderman-adventures-in-another-realm.json](./357668-thunderman-adventures-in-another-realm.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
 | Thunderscape | 51804 | [51804-thunderscape.json](./51804-thunderscape.json) |
 | Thunderstrike 2 | 24991 | [24991-thunderstrike-2.json](./24991-thunderstrike-2.json) |
@@ -18362,6 +18365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
 | Toonix: Speak English! | 357445 | [357445-toonix-speak-english.json](./357445-toonix-speak-english.json) |
+| Toonix: Spot the Difference | 357666 | [357666-toonix-spot-the-difference.json](./357666-toonix-spot-the-difference.json) |
 | Toonix! | 103171 | [103171-toonix.json](./103171-toonix.json) |
 | Toonkars Racer | 202763 | [202763-toonkars-racer.json](./202763-toonkars-racer.json) |
 | Toons City | 201664 | [201664-toons-city.json](./201664-toons-city.json) |
