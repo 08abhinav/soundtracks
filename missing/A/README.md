@@ -491,6 +491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
 | A Little to the Left: Extra Tidy Bundle | 312836 | [312836-a-little-to-the-left-extra-tidy-bundle.json](./312836-a-little-to-the-left-extra-tidy-bundle.json) |
+| A Little to the Left: Packed | 351395 | [351395-a-little-to-the-left-packed.json](./351395-a-little-to-the-left-packed.json) |
 | A Little to the Left: Seeing Stars | 305034 | [305034-a-little-to-the-left-seeing-stars.json](./305034-a-little-to-the-left-seeing-stars.json) |
 | A Little Walk in the Woods | 274734 | [274734-a-little-walk-in-the-woods.json](./274734-a-little-walk-in-the-woods.json) |
 | A Little War | 107053 | [107053-a-little-war.json](./107053-a-little-war.json) |
@@ -1248,6 +1249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
+| ABC Hide and Seek | 351424 | [351424-abc-hide-and-seek.json](./351424-abc-hide-and-seek.json) |
 | ABC Hunt | 74977 | [74977-abc-hunt.json](./74977-abc-hunt.json) |
 | ABC Match with Me | 193300 | [193300-abc-match-with-me.json](./193300-abc-match-with-me.json) |
 | ABC Memory Match | 99415 | [99415-abc-memory-match.json](./99415-abc-memory-match.json) |
@@ -3787,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airglow | 119496 | [119496-airglow.json](./119496-airglow.json) |
 | Airgrave | 43804 | [43804-airgrave.json](./43804-airgrave.json) |
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
+| Airhead Hockey | 351428 | [351428-airhead-hockey.json](./351428-airhead-hockey.json) |
 | Airheads Jump | 344007 | [344007-airheads-jump.json](./344007-airheads-jump.json) |
 | Airheart: Tales of Broken Wings | 26422 | [26422-airheart-tales-of-broken-wings.json](./26422-airheart-tales-of-broken-wings.json) |
 | Airheart: The Deluxe Edition | 52570 | [52570-airheart-the-deluxe-edition.json](./52570-airheart-the-deluxe-edition.json) |
