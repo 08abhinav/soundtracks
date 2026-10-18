@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
+| Chrono Crimes | 316491 | [316491-chrono-crimes.json](./316491-chrono-crimes.json) |
 | Chrono Cross | 335488 | [335488-chrono-cross.json](./335488-chrono-cross.json) |
 | Chrono Crystal: Factory DLC | 253497 | [253497-chrono-crystal-factory-dlc.json](./253497-chrono-crystal-factory-dlc.json) |
 | Chrono Crystal: Giant Gate DLC | 253386 | [253386-chrono-crystal-giant-gate-dlc.json](./253386-chrono-crystal-giant-gate-dlc.json) |
