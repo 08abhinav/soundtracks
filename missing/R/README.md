@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
 | Regions of Ruin: Runegate - The Merchant | 398304 | [398304-regions-of-ruin-runegate-the-merchant.json](./398304-regions-of-ruin-runegate-the-merchant.json) |
 | Regions of Ruin: Sieges | 171959 | [171959-regions-of-ruin-sieges.json](./171959-regions-of-ruin-sieges.json) |
+| Regista | 333432 | [333432-regista.json](./333432-regista.json) |
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Triad: Dark War | 2380 | [2380-rise-of-the-triad-dark-war.json](./2380-rise-of-the-triad-dark-war.json) |
 | Rise of the Triad: Ludicrous Edition | 218098 | [218098-rise-of-the-triad-ludicrous-edition.json](./218098-rise-of-the-triad-ludicrous-edition.json) |
 | Rise of the Triad: The Hunt Begins | 84147 | [84147-rise-of-the-triad-the-hunt-begins.json](./84147-rise-of-the-triad-the-hunt-begins.json) |
+| Rise of the Underdog King! | 333409 | [333409-rise-of-the-underdog-king.json](./333409-rise-of-the-underdog-king.json) |
 | Rise of the Village Hero | 296484 | [296484-rise-of-the-village-hero.json](./296484-rise-of-the-village-hero.json) |
 | Rise of the White Flower | 387043 | [387043-rise-of-the-white-flower.json](./387043-rise-of-the-white-flower.json) |
 | Rise of the White Sun: The Yellow Way | 312030 | [312030-rise-of-the-white-sun-the-yellow-way.json](./312030-rise-of-the-white-sun-the-yellow-way.json) |
