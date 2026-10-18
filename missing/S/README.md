@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
+| Seven Sinners | 346393 | [346393-seven-sinners.json](./346393-seven-sinners.json) |
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
@@ -7417,6 +7418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silence Channel | 143593 | [143593-silence-channel.json](./143593-silence-channel.json) |
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
+| Silence Forest | 346455 | [346455-silence-forest.json](./346455-silence-forest.json) |
 | Silence in the Cabin | 236255 | [236255-silence-in-the-cabin.json](./236255-silence-in-the-cabin.json) |
 | Silence in the Dark | 157420 | [157420-silence-in-the-dark.json](./157420-silence-in-the-dark.json) |
 | Silence Notes | 110169 | [110169-silence-notes.json](./110169-silence-notes.json) |
@@ -8129,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
+| Single Spark | 346389 | [346389-single-spark.json](./346389-single-spark.json) |
 | Single-handedly Challenge Ultimate World | 329095 | [329095-single-handedly-challenge-ultimate-world.json](./329095-single-handedly-challenge-ultimate-world.json) |
 | Single's Inferno: Choices | 342743 | [342743-singles-inferno-choices.json](./342743-singles-inferno-choices.json) |
 | Singled Out | 122145 | [122145-singled-out.json](./122145-singled-out.json) |
@@ -8222,6 +8225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinking Iron | 251176 | [251176-sinking-iron.json](./251176-sinking-iron.json) |
 | Sinking Island | 36163 | [36163-sinking-island.json](./36163-sinking-island.json) |
 | Sinking Ships | 176455 | [176455-sinking-ships.json](./176455-sinking-ships.json) |
+| Sinking the Boats | 346402 | [346402-sinking-the-boats.json](./346402-sinking-the-boats.json) |
 | Sinkr 2 | 111667 | [111667-sinkr-2.json](./111667-sinkr-2.json) |
 | Sinkr 3 | 169430 | [169430-sinkr-3.json](./169430-sinkr-3.json) |
 | SinkSub | 61013 | [61013-sinksub.json](./61013-sinksub.json) |
@@ -8276,6 +8280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sio and Mysterious Forest | 122214 | [122214-sio-and-mysterious-forest.json](./122214-sio-and-mysterious-forest.json) |
 | Sionan | 230260 | [230260-sionan.json](./230260-sionan.json) |
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
+| Sip Fisher | 346401 | [346401-sip-fisher.json](./346401-sip-fisher.json) |
 | Sip Or Die | 379057 | [379057-sip-or-die.json](./379057-sip-or-die.json) |
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
@@ -13401,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souls Chess | 301057 | [301057-souls-chess.json](./301057-souls-chess.json) |
 | Souls Divided | 410228 | [410228-souls-divided.json](./410228-souls-divided.json) |
 | Souls End | 345667 | [345667-souls-end.json](./345667-souls-end.json) |
+| Souls of Chronos Gaiden | 346370 | [346370-souls-of-chronos-gaiden.json](./346370-souls-of-chronos-gaiden.json) |
 | Souls of Darkon | 12966 | [12966-souls-of-darkon.json](./12966-souls-of-darkon.json) |
 | Souls of Shadow | 320557 | [320557-souls-of-shadow.json](./320557-souls-of-shadow.json) |
 | Souls Quest | 326705 | [326705-souls-quest.json](./326705-souls-quest.json) |
@@ -19987,6 +19993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
 | StreamWare | 278631 | [278631-streamware.json](./278631-streamware.json) |
+| Streatham Hill Stories | 346467 | [346467-streatham-hill-stories.json](./346467-streatham-hill-stories.json) |
 | Strect | 413725 | [413725-strect.json](./413725-strect.json) |
 | Street & Girls | 382285 | [382285-street-and-girls.json](./382285-street-and-girls.json) |
 | Street 42 | 371133 | [371133-street-42.json](./371133-street-42.json) |
