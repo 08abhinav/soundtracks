@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elastic car 2 (engineer mode) | 96004 | [96004-elastic-car-2-engineer-mode.json](./96004-elastic-car-2-engineer-mode.json) |
 | Elastic Fantastic | 167575 | [167575-elastic-fantastic.json](./167575-elastic-fantastic.json) |
 | Elastic Soccer | 323950 | [323950-elastic-soccer.json](./323950-elastic-soccer.json) |
+| Elasticritters! | 310822 | [310822-elasticritters.json](./310822-elasticritters.json) |
 | Elasto Mania | 9103 | [9103-elasto-mania.json](./9103-elasto-mania.json) |
 | Elasto Mania II | 143383 | [143383-elasto-mania-ii.json](./143383-elasto-mania-ii.json) |
 | Elasto Mania Trilogy Pack | 193754 | [193754-elasto-mania-trilogy-pack.json](./193754-elasto-mania-trilogy-pack.json) |
