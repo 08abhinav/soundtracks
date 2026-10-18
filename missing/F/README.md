@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
 | Fallstreak 2: Traum | 364604 | [364604-fallstreak-2-traum.json](./364604-fallstreak-2-traum.json) |
 | Fallstreak: Requiem For My Homeland | 141631 | [141631-fallstreak-requiem-for-my-homeland.json](./141631-fallstreak-requiem-for-my-homeland.json) |
+| Fallstruktur | 348018 | [348018-fallstruktur.json](./348018-fallstruktur.json) |
 | Falnarion Tactics III | 280159 | [280159-falnarion-tactics-iii.json](./280159-falnarion-tactics-iii.json) |
 | Falnarion Tactics: Oathbreaker | 158730 | [158730-falnarion-tactics-oathbreaker.json](./158730-falnarion-tactics-oathbreaker.json) |
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
@@ -6744,6 +6745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For a Vast Future: Ultimate Edition | 273322 | [273322-for-a-vast-future-ultimate-edition.json](./273322-for-a-vast-future-ultimate-edition.json) |
 | For All the People I Love | 336894 | [336894-for-all-the-people-i-love.json](./336894-for-all-the-people-i-love.json) |
 | For Amerta | 220572 | [220572-for-amerta.json](./220572-for-amerta.json) |
+| For Blood and Glory | 348021 | [348021-for-blood-and-glory.json](./348021-for-blood-and-glory.json) |
 | For Double | 255155 | [255155-for-double.json](./255155-for-double.json) |
 | For Elise | 257070 | [257070-for-elise.json](./257070-for-elise.json) |
 | For Enigma | 258450 | [258450-for-enigma.json](./258450-for-enigma.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist: Omoide no Sonata | 49594 | [49594-fullmetal-alchemist-omoide-no-sonata.json](./49594-fullmetal-alchemist-omoide-no-sonata.json) |
 | Fullmetal Alchemist: Prince of the Dawn | 69180 | [69180-fullmetal-alchemist-prince-of-the-dawn.json](./69180-fullmetal-alchemist-prince-of-the-dawn.json) |
 | Fullmetal Alchemist: To the Promised Day | 62757 | [62757-fullmetal-alchemist-to-the-promised-day.json](./62757-fullmetal-alchemist-to-the-promised-day.json) |
+| Fullsenders | 348016 | [348016-fullsenders.json](./348016-fullsenders.json) |
 | Fullvoice Reborn | 114521 | [114521-fullvoice-reborn.json](./114521-fullvoice-reborn.json) |
 | Fully Automated | 384762 | [384762-fully-automated.json](./384762-fully-automated.json) |
 | Fully Automated Luxury Gay Space Communism | 69522 | [69522-fully-automated-luxury-gay-space-communism.json](./69522-fully-automated-luxury-gay-space-communism.json) |
@@ -9579,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funeralopolis: Last Days | 317500 | [317500-funeralopolis-last-days.json](./317500-funeralopolis-last-days.json) |
 | Funerama | 400090 | [400090-funerama.json](./400090-funerama.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
+| Funfair | 348041 | [348041-funfair.json](./348041-funfair.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
 | Funfair Party Games | 85163 | [85163-funfair-party-games.json](./85163-funfair-party-games.json) |
