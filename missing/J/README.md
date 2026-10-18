@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jekyll Hakase no Houma ga Toki | 275067 | [275067-jekyll-hakase-no-houma-ga-toki.json](./275067-jekyll-hakase-no-houma-ga-toki.json) |
 | Jelda II | 78705 | [78705-jelda-ii.json](./78705-jelda-ii.json) |
 | Jeller Fellers | 337654 | [337654-jeller-fellers.json](./337654-jeller-fellers.json) |
+| Jelli Nook | 349097 | [349097-jelli-nook.json](./349097-jelli-nook.json) |
 | Jellies of the Deep | 309895 | [309895-jellies-of-the-deep.json](./309895-jellies-of-the-deep.json) |
 | Jellies! | 221430 | [221430-jellies.json](./221430-jellies.json) |
 | Jellipop Match | 214104 | [214104-jellipop-match.json](./214104-jellipop-match.json) |
