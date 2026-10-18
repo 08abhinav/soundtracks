@@ -4263,6 +4263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Season Pass | 294235 | [294235-fire-emblem-warriors-season-pass.json](./294235-fire-emblem-warriors-season-pass.json) |
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
+| Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
 | Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi | 1433 | [1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json](./1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json) |
 | Fire Emblem: Archanea Reimagined | 401857 | [401857-fire-emblem-archanea-reimagined.json](./401857-fire-emblem-archanea-reimagined.json) |
 | Fire Emblem: Awakening - Challenge Pack | 237421 | [237421-fire-emblem-awakening-challenge-pack.json](./237421-fire-emblem-awakening-challenge-pack.json) |
@@ -4300,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: New Theory of Thracia 776 | 309610 | [309610-fire-emblem-new-theory-of-thracia-776.json](./309610-fire-emblem-new-theory-of-thracia-776.json) |
 | Fire Emblem: On the Edge | 279240 | [279240-fire-emblem-on-the-edge.json](./279240-fire-emblem-on-the-edge.json) |
+| Fire Emblem: Path of a New World | 323033 | [323033-fire-emblem-path-of-a-new-world.json](./323033-fire-emblem-path-of-a-new-world.json) |
 | Fire Emblem: Path of Radiance | 1441 | [1441-fire-emblem-path-of-radiance.json](./1441-fire-emblem-path-of-radiance.json) |
 | Fire Emblem: Radiant Dawn | 1442 | [1442-fire-emblem-radiant-dawn.json](./1442-fire-emblem-radiant-dawn.json) |
 | Fire Emblem: Sacred Stones Plus | 229002 | [229002-fire-emblem-sacred-stones-plus.json](./229002-fire-emblem-sacred-stones-plus.json) |
