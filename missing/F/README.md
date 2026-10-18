@@ -3996,6 +3996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find My Weiner | 292292 | [292292-find-my-weiner.json](./292292-find-my-weiner.json) |
 | Find Oann | 335368 | [335368-find-oann.json](./335368-find-oann.json) |
 | Find Objects | 163203 | [163203-find-objects.json](./163203-find-objects.json) |
+| Find or be Found | 327034 | [327034-find-or-be-found.json](./327034-find-or-be-found.json) |
 | Find Out | 33490 | [33490-find-out.json](./33490-find-out.json) |
 | Find Pairs | 246490 | [246490-find-pairs.json](./246490-find-pairs.json) |
 | Find Petey | 367739 | [367739-find-petey.json](./367739-find-petey.json) |
@@ -7259,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Form / Twilight Path | 142779 | [142779-form-twilight-path.json](./142779-form-twilight-path.json) |
 | Form Fitting | 243567 | [243567-form-fitting.json](./243567-form-fitting.json) |
 | Form of a Legend | 132800 | [132800-form-of-a-legend.json](./132800-form-of-a-legend.json) |
+| Forma | 326941 | [326941-forma.json](./326941-forma.json) |
 | Forma.8 | 27277 | [27277-forma-8.json](./27277-forma-8.json) |
 | Formaggio 2 | 327365 | [327365-formaggio-2.json](./327365-formaggio-2.json) |
 | Format | 312580 | [312580-format.json](./312580-format.json) |
