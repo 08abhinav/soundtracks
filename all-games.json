@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:31:16.836Z",
-  "total_soundtracks": 2152,
+  "generated_at": "2026-10-18T08:31:23.503Z",
+  "total_soundtracks": 2153,
   "games": [
     {
       "igdb_id": 7522,
@@ -12858,6 +12858,20 @@
           "album_name": "Lost Records: Bloom & Rage (Original Game Soundtrack) - Tape 1 & Tape 2",
           "spotify_url": "https://open.spotify.com/album/6Sp1bcggdbLYtSML5Qrxyy",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14326,
+      "game_name": "Lovely Planet",
+      "game_url": "https://ostdb.net/games/lovely-planet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731fc3f105a4b50c7e2320d087",
+      "albums": [
+        {
+          "album_name": "Lovely Planet (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Dy9AkmLb4w9ipONRvDSpb",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
