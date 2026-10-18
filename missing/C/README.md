@@ -8811,6 +8811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Monsters Pack | 162610 | [162610-coloring-pixels-monsters-pack.json](./162610-coloring-pixels-monsters-pack.json) |
 | Coloring Pixels: Mythology 2 Pack | 201705 | [201705-coloring-pixels-mythology-2-pack.json](./201705-coloring-pixels-mythology-2-pack.json) |
 | Coloring Pixels: Natural Wonders | 393616 | [393616-coloring-pixels-natural-wonders.json](./393616-coloring-pixels-natural-wonders.json) |
+| Coloring Pixels: Oceania Pack | 313001 | [313001-coloring-pixels-oceania-pack.json](./313001-coloring-pixels-oceania-pack.json) |
 | Coloring Pixels: Onion Pack | 276232 | [276232-coloring-pixels-onion-pack.json](./276232-coloring-pixels-onion-pack.json) |
 | Coloring Pixels: Pastels Pack | 351624 | [351624-coloring-pixels-pastels-pack.json](./351624-coloring-pixels-pastels-pack.json) |
 | Coloring Pixels: Patterns Pack | 162593 | [162593-coloring-pixels-patterns-pack.json](./162593-coloring-pixels-patterns-pack.json) |
@@ -10429,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
 | Copoka | 19812 | [19812-copoka.json](./19812-copoka.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
+| Copper | 312990 | [312990-copper.json](./312990-copper.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
@@ -11134,6 +11136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Story | 342259 | [342259-country-story.json](./342259-country-story.json) |
 | Country Tales | 34633 | [34633-country-tales.json](./34633-country-tales.json) |
 | Country Tales 2: New Frontiers | 337239 | [337239-country-tales-2-new-frontiers.json](./337239-country-tales-2-new-frontiers.json) |
+| Country Tales 2: New Frontiers - Collector's Edition | 312991 | [312991-country-tales-2-new-frontiers-collectors-edition.json](./312991-country-tales-2-new-frontiers-collectors-edition.json) |
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
@@ -12266,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures Inc. | 112008 | [112008-creatures-inc.json](./112008-creatures-inc.json) |
 | Creatures Like Us | 415171 | [415171-creatures-like-us.json](./415171-creatures-like-us.json) |
 | Creatures of Aether | 139140 | [139140-creatures-of-aether.json](./139140-creatures-of-aether.json) |
+| Creatures of Ava: Deluxe Edition | 312976 | [312976-creatures-of-ava-deluxe-edition.json](./312976-creatures-of-ava-deluxe-edition.json) |
 | Creatures of Ava: WDC Charity Backpack Trinkets Set | 312835 | [312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json](./312835-creatures-of-ava-wdc-charity-backpack-trinkets-set.json) |
 | Creatures of the Night | 335391 | [335391-creatures-of-the-night.json](./335391-creatures-of-the-night.json) |
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
