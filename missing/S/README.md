@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sariel's Day Out | 371416 | [371416-sariels-day-out.json](./371416-sariels-day-out.json) |
 | Sarissa and the Legendary Sword | 287332 | [287332-sarissa-and-the-legendary-sword.json](./287332-sarissa-and-the-legendary-sword.json) |
 | Sarkar Infinite | 188375 | [188375-sarkar-infinite.json](./188375-sarkar-infinite.json) |
+| Sarkara: Prototype | 352513 | [352513-sarkara-prototype.json](./352513-sarkara-prototype.json) |
 | Sarkwo | 197229 | [197229-sarkwo.json](./197229-sarkwo.json) |
 | Saros: Digital Deluxe Edition | 399922 | [399922-saros-digital-deluxe-edition.json](./399922-saros-digital-deluxe-edition.json) |
 | Saros: Zenith | 416115 | [416115-saros-zenith.json](./416115-saros-zenith.json) |
@@ -11627,6 +11628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solaris Arcana: The Eye of the Soothsayer | 271684 | [271684-solaris-arcana-the-eye-of-the-soothsayer.json](./271684-solaris-arcana-the-eye-of-the-soothsayer.json) |
 | Solaris Assault Tech | 93536 | [93536-solaris-assault-tech.json](./93536-solaris-assault-tech.json) |
 | Solaris Rift | 191198 | [191198-solaris-rift.json](./191198-solaris-rift.json) |
+| Solaris: Good Harvest | 352514 | [352514-solaris-good-harvest.json](./352514-solaris-good-harvest.json) |
 | Solaris: Off World Combat | 146332 | [146332-solaris-off-world-combat.json](./146332-solaris-off-world-combat.json) |
 | Solarium | 139307 | [139307-solarium.json](./139307-solarium.json) |
 | Solarium | 43105 | [43105-solarium.json](./43105-solarium.json) |
