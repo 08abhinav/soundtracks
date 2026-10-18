@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T07:56:20.406Z",
-  "total_missing": 227390,
+  "generated_at": "2026-10-18T08:02:06.206Z",
+  "total_missing": 227384,
   "games": [
     {
       "igdb_id": 191680,
@@ -368242,11 +368242,6 @@
       "file": "missing/G/154946-galactic-civilizations-ii-ultimate-edition.json"
     },
     {
-      "igdb_id": 10345,
-      "game_name": "Galactic Civilizations III",
-      "file": "missing/G/10345-galactic-civilizations-iii.json"
-    },
-    {
       "igdb_id": 53087,
       "game_name": "Galactic Civilizations III Gold",
       "file": "missing/G/53087-galactic-civilizations-iii-gold.json"
@@ -394335,11 +394330,6 @@
       "igdb_id": 143374,
       "game_name": "Grand Champion",
       "file": "missing/G/143374-grand-champion.json"
-    },
-    {
-      "igdb_id": 7496,
-      "game_name": "Grand Chase",
-      "file": "missing/G/7496-grand-chase.json"
     },
     {
       "igdb_id": 166856,
@@ -497965,11 +497955,6 @@
       "igdb_id": 109458,
       "game_name": "Katamari Damacy Reroll",
       "file": "missing/K/109458-katamari-damacy-reroll.json"
-    },
-    {
-      "igdb_id": 6459,
-      "game_name": "Katamari Forever",
-      "file": "missing/K/6459-katamari-forever.json"
     },
     {
       "igdb_id": 68242,
@@ -663497,11 +663482,6 @@
       "file": "missing/O/381221-odile-black-duckling-tale.json"
     },
     {
-      "igdb_id": 9110,
-      "game_name": "Odin Sphere",
-      "file": "missing/O/9110-odin-sphere.json"
-    },
-    {
       "igdb_id": 15709,
       "game_name": "Odin Sphere: Leifthrasir",
       "file": "missing/O/15709-odin-sphere-leifthrasir.json"
@@ -679200,11 +679180,6 @@
       "igdb_id": 200185,
       "game_name": "Out There Chronicles - Ep. 2",
       "file": "missing/O/200185-out-there-chronicles-ep-2.json"
-    },
-    {
-      "igdb_id": 9878,
-      "game_name": "Out There Somewhere",
-      "file": "missing/O/9878-out-there-somewhere.json"
     },
     {
       "igdb_id": 36127,
@@ -935875,11 +935850,6 @@
       "igdb_id": 255845,
       "game_name": "Tales from My Ass: Slice of Death",
       "file": "missing/T/255845-tales-from-my-ass-slice-of-death.json"
-    },
-    {
-      "igdb_id": 5893,
-      "game_name": "Tales from Space: Mutant Blobs Attack",
-      "file": "missing/T/5893-tales-from-space-mutant-blobs-attack.json"
     },
     {
       "igdb_id": 296471,
