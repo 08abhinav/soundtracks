@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of the Shadows | 208391 | [208391-legends-of-the-shadows.json](./208391-legends-of-the-shadows.json) |
 | Legends of the Universe - Cosmic Bounty | 75953 | [75953-legends-of-the-universe-cosmic-bounty.json](./75953-legends-of-the-universe-cosmic-bounty.json) |
 | Legends of the Wild | 358481 | [358481-legends-of-the-wild.json](./358481-legends-of-the-wild.json) |
+| Legends of the Wild West: Golden Hill | 338055 | [338055-legends-of-the-wild-west-golden-hill.json](./338055-legends-of-the-wild-west-golden-hill.json) |
 | Legends of Time | 31673 | [31673-legends-of-time.json](./31673-legends-of-time.json) |
 | Legends of Tzonac 2: Friendship & Automata | 229612 | [229612-legends-of-tzonac-2-friendship-and-automata.json](./229612-legends-of-tzonac-2-friendship-and-automata.json) |
 | Legends of Tzonac: The Great Dungeon Escape | 229611 | [229611-legends-of-tzonac-the-great-dungeon-escape.json](./229611-legends-of-tzonac-the-great-dungeon-escape.json) |
@@ -6694,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
+| Lucky Season: End of the Rainbow - Collector's Edition | 338060 | [338060-lucky-season-end-of-the-rainbow-collectors-edition.json](./338060-lucky-season-end-of-the-rainbow-collectors-edition.json) |
 | Lucky Season: King of Fools | 338784 | [338784-lucky-season-king-of-fools.json](./338784-lucky-season-king-of-fools.json) |
 | Lucky Season: King of Fools - Collector's Edition | 386926 | [386926-lucky-season-king-of-fools-collectors-edition.json](./386926-lucky-season-king-of-fools-collectors-edition.json) |
 | Lucky Shelter | 373106 | [373106-lucky-shelter.json](./373106-lucky-shelter.json) |
