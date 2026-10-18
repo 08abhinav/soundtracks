@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
+| D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat | 284966 | [284966-dead-heat.json](./284966-dead-heat.json) |
 | Dead Heat | 92387 | [92387-dead-heat.json](./92387-dead-heat.json) |
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
+| Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
@@ -8640,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
 | Dominique Pamplemousse | 134677 | [134677-dominique-pamplemousse.json](./134677-dominique-pamplemousse.json) |
+| Dominium | 327053 | [327053-dominium.json](./327053-dominium.json) |
 | Dominium Mundi | 164940 | [164940-dominium-mundi.json](./164940-dominium-mundi.json) |
 | Domino | 81081 | [81081-domino.json](./81081-domino.json) |
 | Domino | 88838 | [88838-domino.json](./88838-domino.json) |
@@ -11694,6 +11697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dredge: The Iron Rig | 305098 | [305098-dredge-the-iron-rig.json](./305098-dredge-the-iron-rig.json) |
 | Dredge: The Pale Reach | 270502 | [270502-dredge-the-pale-reach.json](./270502-dredge-the-pale-reach.json) |
 | Dredge+ | 395816 | [395816-dredge.json](./395816-dredge.json) |
+| Dreeg | 326943 | [326943-dreeg.json](./326943-dreeg.json) |
 | Dreeg | 357747 | [357747-dreeg.json](./357747-dreeg.json) |
 | Dreem Ascension | 393506 | [393506-dreem-ascension.json](./393506-dreem-ascension.json) |
 | Dreeps | 79115 | [79115-dreeps.json](./79115-dreeps.json) |
