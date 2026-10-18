@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Langrisser: Hikari no Matsuei | 42010 | [42010-langrisser-hikari-no-matsuei.json](./42010-langrisser-hikari-no-matsuei.json) |
 | Langrisser: Sea of Sword | 411065 | [411065-langrisser-sea-of-sword.json](./411065-langrisser-sea-of-sword.json) |
 | Language Adventure | 240699 | [240699-language-adventure.json](./240699-language-adventure.json) |
+| Language Learning Simulator: Alphabet | 309722 | [309722-language-learning-simulator-alphabet.json](./309722-language-learning-simulator-alphabet.json) |
 | LanguageGuessr | 259618 | [259618-languageguessr.json](./259618-languageguessr.json) |
 | Laniakea | 304714 | [304714-laniakea.json](./304714-laniakea.json) |
 | Lanista: Shadows and Dust | 294283 | [294283-lanista-shadows-and-dust.json](./294283-lanista-shadows-and-dust.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lorch 2 | 270681 | [270681-lorch-2.json](./270681-lorch-2.json) |
 | Lorch 3 | 270655 | [270655-lorch-3.json](./270655-lorch-3.json) |
 | Lorch: Abducted | 270682 | [270682-lorch-abducted.json](./270682-lorch-abducted.json) |
+| Lord | 309713 | [309713-lord.json](./309713-lord.json) |
 | Lord Ambermaze | 182271 | [182271-lord-ambermaze.json](./182271-lord-ambermaze.json) |
 | Lord and Maiden | 404869 | [404869-lord-and-maiden.json](./404869-lord-and-maiden.json) |
 | Lord BullFrog | 149941 | [149941-lord-bullfrog.json](./149941-lord-bullfrog.json) |
