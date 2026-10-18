@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Frenzy | 209420 | [209420-fever-frenzy.json](./209420-fever-frenzy.json) |
 | Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
+| Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Few Nights More | 147351 | [147351-few-nights-more.json](./147351-few-nights-more.json) |
 | Few Nights More: Genesis | 278940 | [278940-few-nights-more-genesis.json](./278940-few-nights-more-genesis.json) |
@@ -5550,6 +5551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flexible Survival | 60023 | [60023-flexible-survival.json](./60023-flexible-survival.json) |
 | FlexibleJigsaw: Journey | 357882 | [357882-flexiblejigsaw-journey.json](./357882-flexiblejigsaw-journey.json) |
 | Fleximan | 291529 | [291529-fleximan.json](./291529-fleximan.json) |
+| Flibbius McDoogle and the Mysterious Flying Machine | 333908 | [333908-flibbius-mcdoogle-and-the-mysterious-flying-machine.json](./333908-flibbius-mcdoogle-and-the-mysterious-flying-machine.json) |
 | Flibble | 64125 | [64125-flibble.json](./64125-flibble.json) |
 | Flibbles | 211253 | [211253-flibbles.json](./211253-flibbles.json) |
 | Flick | 409649 | [409649-flick.json](./409649-flick.json) |
@@ -8653,6 +8655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendlyWare P.C. Arcade | 70091 | [70091-friendlyware-p-c-arcade.json](./70091-friendlyware-p-c-arcade.json) |
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends | 397611 | [397611-friends.json](./397611-friends.json) |
+| Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
@@ -9663,6 +9666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fungus Reaper | 248882 | [248882-fungus-reaper.json](./248882-fungus-reaper.json) |
 | Fungus World | 344020 | [344020-fungus-world.json](./344020-fungus-world.json) |
 | Funguys Swarm | 332851 | [332851-funguys-swarm.json](./332851-funguys-swarm.json) |
+| Funi Raccoon Game | 333975 | [333975-funi-raccoon-game.json](./333975-funi-raccoon-game.json) |
 | Funk of Titans | 20309 | [20309-funk-of-titans.json](./20309-funk-of-titans.json) |
 | Funk Unplugged | 31623 | [31623-funk-unplugged.json](./31623-funk-unplugged.json) |
 | Funk-E | 364640 | [364640-funk-e.json](./364640-funk-e.json) |
