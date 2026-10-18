@@ -6533,6 +6533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Female Hero 1 | 115573 | [115573-robot-female-hero-1.json](./115573-robot-female-hero-1.json) |
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
+| Robot Female Hero Remastered | 313003 | [313003-robot-female-hero-remastered.json](./313003-robot-female-hero-remastered.json) |
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
@@ -6727,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
+| Rock Digger | 312986 | [312986-rock-digger.json](./312986-rock-digger.json) |
 | Rock Flipper | 332808 | [332808-rock-flipper.json](./332808-rock-flipper.json) |
 | Rock God Tycoon | 27336 | [27336-rock-god-tycoon.json](./27336-rock-god-tycoon.json) |
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
@@ -7028,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
 | Rockmorse | 181367 | [181367-rockmorse.json](./181367-rockmorse.json) |
+| Rocko's Modern Life Slider | 312952 | [312952-rockos-modern-life-slider.json](./312952-rockos-modern-life-slider.json) |
 | Rocko's Modern Life: Match-Master | 273876 | [273876-rockos-modern-life-match-master.json](./273876-rockos-modern-life-match-master.json) |
 | Rocko's Quest | 17345 | [17345-rockos-quest.json](./17345-rockos-quest.json) |
 | Rocks and Ravens | 177818 | [177818-rocks-and-ravens.json](./177818-rocks-and-ravens.json) |
@@ -7351,6 +7354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Survivor | 80557 | [80557-rogue-survivor.json](./80557-rogue-survivor.json) |
 | Rogue Sweeper | 151090 | [151090-rogue-sweeper.json](./151090-rogue-sweeper.json) |
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
+| Rogue Tanks | 312998 | [312998-rogue-tanks.json](./312998-rogue-tanks.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
 | Rogue Trooper | 292227 | [292227-rogue-trooper.json](./292227-rogue-trooper.json) |
