@@ -5030,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf's Wool | 176936 | [176936-wolfs-wool.json](./176936-wolfs-wool.json) |
 | Wolfan | 53160 | [53160-wolfan.json](./53160-wolfan.json) |
 | Wolfee Planet | 138473 | [138473-wolfee-planet.json](./138473-wolfee-planet.json) |
+| Wolfenstein 1-D | 336424 | [336424-wolfenstein-1-d.json](./336424-wolfenstein-1-d.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
 | Wolfenstein 3D | 284304 | [284304-wolfenstein-3d.json](./284304-wolfenstein-3d.json) |
 | Wolfenstein 3D | 306944 | [306944-wolfenstein-3d.json](./306944-wolfenstein-3d.json) |
