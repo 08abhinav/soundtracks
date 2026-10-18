@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Entities | 177402 | [177402-paranormal-entities.json](./177402-paranormal-entities.json) |
 | Paranormal Escape | 69380 | [69380-paranormal-escape.json](./69380-paranormal-escape.json) |
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
+| Paranormal Files: Chaos Weekend - Collector's Edition | 358094 | [358094-paranormal-files-chaos-weekend-collectors-edition.json](./358094-paranormal-files-chaos-weekend-collectors-edition.json) |
 | Paranormal Files: Counterpart - Collector's Edition | 337238 | [337238-paranormal-files-counterpart-collectors-edition.json](./337238-paranormal-files-counterpart-collectors-edition.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
@@ -11717,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt Portable | 39195 | [39195-prop-hunt-portable.json](./39195-prop-hunt-portable.json) |
 | Prop of the Class | 412940 | [412940-prop-of-the-class.json](./412940-prop-of-the-class.json) |
+| Prop Pack | 358096 | [358096-prop-pack.json](./358096-prop-pack.json) |
 | Prop Revolt | 416793 | [416793-prop-revolt.json](./416793-prop-revolt.json) |
 | Prop Sumo | 355620 | [355620-prop-sumo.json](./355620-prop-sumo.json) |
 | Propa. | 326255 | [326255-propa.json](./326255-propa.json) |
