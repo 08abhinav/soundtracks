@@ -6226,6 +6226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
+| Cinema Story | 333438 | [333438-cinema-story.json](./333438-cinema-story.json) |
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
 | Cinematrix | 319218 | [319218-cinematrix.json](./319218-cinematrix.json) |
@@ -8482,6 +8483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Dots! | 65572 | [65572-color-dots.json](./65572-color-dots.json) |
 | Color Energy: Blow the monster! | 323223 | [323223-color-energy-blow-the-monster.json](./323223-color-energy-blow-the-monster.json) |
 | Color Escape: The Love Levels | 293867 | [293867-color-escape-the-love-levels.json](./293867-color-escape-the-love-levels.json) |
+| Color Factory | 333418 | [333418-color-factory.json](./333418-color-factory.json) |
 | Color Fan | 315059 | [315059-color-fan.json](./315059-color-fan.json) |
 | Color Fear | 296656 | [296656-color-fear.json](./296656-color-fear.json) |
 | Color Flash | 190424 | [190424-color-flash.json](./190424-color-flash.json) |
@@ -11263,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Night | 295784 | [295784-cozy-night.json](./295784-cozy-night.json) |
 | Cozy Night | 337709 | [337709-cozy-night.json](./337709-cozy-night.json) |
 | Cozy Offroad Simulator Together | 405571 | [405571-cozy-offroad-simulator-together.json](./405571-cozy-offroad-simulator-together.json) |
+| Cozy Organizer | 333419 | [333419-cozy-organizer.json](./333419-cozy-organizer.json) |
 | Cozy Pets and Friends | 386544 | [386544-cozy-pets-and-friends.json](./386544-cozy-pets-and-friends.json) |
 | Cozy Places | 82176 | [82176-cozy-places.json](./82176-cozy-places.json) |
 | Cozy Puzzles | 390702 | [390702-cozy-puzzles.json](./390702-cozy-puzzles.json) |
