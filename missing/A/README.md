@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
 | A Shard of Mine | 243418 | [243418-a-shard-of-mine.json](./243418-a-shard-of-mine.json) |
+| A Shelter Full of Cats | 314113 | [314113-a-shelter-full-of-cats.json](./314113-a-shelter-full-of-cats.json) |
 | A Shiba Story | 144692 | [144692-a-shiba-story.json](./144692-a-shiba-story.json) |
 | A Shiver in Time | 177853 | [177853-a-shiver-in-time.json](./177853-a-shiver-in-time.json) |
 | A Shlong Adventure | 372122 | [372122-a-shlong-adventure.json](./372122-a-shlong-adventure.json) |
