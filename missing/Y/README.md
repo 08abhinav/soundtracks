@@ -147,6 +147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamamura Misa Suspense: Kyoto Kurama Sansou Satsujin Jiken | 268531 | [268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json](./268531-yamamura-misa-suspense-kyoto-kurama-sansou-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Ryuu no Tera Satsujin Jiken | 65474 | [65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json](./65474-yamamura-misa-suspense-kyoto-ryuu-no-tera-satsujin-jiken.json) |
 | Yamamura Misa Suspense: Kyoto Zaiteku Satsujin Jiken | 48869 | [48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json](./48869-yamamura-misa-suspense-kyoto-zaiteku-satsujin-jiken.json) |
+| Yamasa Digi Guide: Hyper Rush | 357102 | [357102-yamasa-digi-guide-hyper-rush.json](./357102-yamasa-digi-guide-hyper-rush.json) |
+| Yamasa Digi Guide: M-771 | 357103 | [357103-yamasa-digi-guide-m-771.json](./357103-yamasa-digi-guide-m-771.json) |
 | Yamasa Digi Guide: Umekagetsu R | 364376 | [364376-yamasa-digi-guide-umekagetsu-r.json](./364376-yamasa-digi-guide-umekagetsu-r.json) |
 | Yamasa Digi Selection 2 | 361283 | [361283-yamasa-digi-selection-2.json](./361283-yamasa-digi-selection-2.json) |
 | Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
