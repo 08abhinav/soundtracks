@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Simulator Airplane Game | 261914 | [261914-flight-simulator-airplane-game.json](./261914-flight-simulator-airplane-game.json) |
 | Flight Simulator Delivery: Cargo Business | 309633 | [309633-flight-simulator-delivery-cargo-business.json](./309633-flight-simulator-delivery-cargo-business.json) |
 | Flight Simulator FlyWings Online 2014 | 88495 | [88495-flight-simulator-flywings-online-2014.json](./88495-flight-simulator-flywings-online-2014.json) |
+| Flight Simulator Pro 2024 | 315896 | [315896-flight-simulator-pro-2024.json](./315896-flight-simulator-pro-2024.json) |
 | Flight Simulator Xtreme | 88109 | [88109-flight-simulator-xtreme.json](./88109-flight-simulator-xtreme.json) |
 | Flight Simulator: VR | 30047 | [30047-flight-simulator-vr.json](./30047-flight-simulator-vr.json) |
 | Flight Squadron | 69887 | [69887-flight-squadron.json](./69887-flight-squadron.json) |
@@ -9198,6 +9199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontrunners | 171518 | [171518-frontrunners.json](./171518-frontrunners.json) |
 | FrontWars | 364859 | [364859-frontwars.json](./364859-frontwars.json) |
 | Froojarspootz! The Cleaning Monster | 387513 | [387513-froojarspootz-the-cleaning-monster.json](./387513-froojarspootz-the-cleaning-monster.json) |
+| Froooog | 315943 | [315943-froooog.json](./315943-froooog.json) |
 | Froot Basket Valentine | 179720 | [179720-froot-basket-valentine.json](./179720-froot-basket-valentine.json) |
 | Frooty Loops | 364695 | [364695-frooty-loops.json](./364695-frooty-loops.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
