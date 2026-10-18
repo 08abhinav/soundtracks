@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Game | 188491 | [188491-math-game.json](./188491-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
+| Math Genius: Addition Edition | 318250 | [318250-math-genius-addition-edition.json](./318250-math-genius-addition-edition.json) |
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Gym | 186703 | [186703-math-gym.json](./186703-math-gym.json) |
@@ -8917,6 +8918,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Biome Settlers 3 Skin Pack | 257345 | [257345-minecraft-biome-settlers-3-skin-pack.json](./257345-minecraft-biome-settlers-3-skin-pack.json) |
 | Minecraft: Biome Settlers Pack 1 | 302658 | [302658-minecraft-biome-settlers-pack-1.json](./302658-minecraft-biome-settlers-pack-1.json) |
 | Minecraft: Biome Settlers Pack 2 | 302660 | [302660-minecraft-biome-settlers-pack-2.json](./302660-minecraft-biome-settlers-pack-2.json) |
+| Minecraft: Bundles of Bravery | 318247 | [318247-minecraft-bundles-of-bravery.json](./318247-minecraft-bundles-of-bravery.json) |
+| Minecraft: Bundles of Bravery | 318248 | [318248-minecraft-bundles-of-bravery.json](./318248-minecraft-bundles-of-bravery.json) |
 | Minecraft: Buzzy Bees | 221926 | [221926-minecraft-buzzy-bees.json](./221926-minecraft-buzzy-bees.json) |
 | Minecraft: Cartoon Mobs HD Skin Pack | 324891 | [324891-minecraft-cartoon-mobs-hd-skin-pack.json](./324891-minecraft-cartoon-mobs-hd-skin-pack.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
@@ -12579,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortanum | 403658 | [403658-mortanum.json](./403658-mortanum.json) |
 | Mortar | 184402 | [184402-mortar.json](./184402-mortar.json) |
 | Mortar Howl | 105091 | [105091-mortar-howl.json](./105091-mortar-howl.json) |
+| Mortar Master | 318249 | [318249-mortar-master.json](./318249-mortar-master.json) |
 | Mortarmen | 259019 | [259019-mortarmen.json](./259019-mortarmen.json) |
 | Mortars VR | 81138 | [81138-mortars-vr.json](./81138-mortars-vr.json) |
 | Mortem | 29645 | [29645-mortem.json](./29645-mortem.json) |
@@ -12885,6 +12889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Mini Outrun | 255034 | [255034-motocross-mini-outrun.json](./255034-motocross-mini-outrun.json) |
 | Motocross Racer | 23841 | [23841-motocross-racer.json](./23841-motocross-racer.json) |
 | Motocross Racing | 238392 | [238392-motocross-racing.json](./238392-motocross-racing.json) |
+| Motocross Ramp Madness | 318243 | [318243-motocross-ramp-madness.json](./318243-motocross-ramp-madness.json) |
 | Motocross Stunt Racer | 77882 | [77882-motocross-stunt-racer.json](./77882-motocross-stunt-racer.json) |
 | Motocross The Game | 337185 | [337185-motocross-the-game.json](./337185-motocross-the-game.json) |
 | Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
