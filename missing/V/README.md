@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirZoom Arcade | 33356 | [33356-virzoom-arcade.json](./33356-virzoom-arcade.json) |
 | Visagens | 282020 | [282020-visagens.json](./282020-visagens.json) |
 | Viscera Alien | 385249 | [385249-viscera-alien.json](./385249-viscera-alien.json) |
+| Viscera Cleanup Detail 2 | 321835 | [321835-viscera-cleanup-detail-2.json](./321835-viscera-cleanup-detail-2.json) |
 | Viscera Cleanup Detail: House of Horror | 167764 | [167764-viscera-cleanup-detail-house-of-horror.json](./167764-viscera-cleanup-detail-house-of-horror.json) |
 | Viscera Cleanup Detail: Shadow Warrior | 16718 | [16718-viscera-cleanup-detail-shadow-warrior.json](./16718-viscera-cleanup-detail-shadow-warrior.json) |
 | Viscera Cleanup Detail: The Vulcan Affair | 167765 | [167765-viscera-cleanup-detail-the-vulcan-affair.json](./167765-viscera-cleanup-detail-the-vulcan-affair.json) |
