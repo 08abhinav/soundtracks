@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | EscapeRoute | 115507 | [115507-escaperoute.json](./115507-escaperoute.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
+| EscapeSimulator | 358633 | [358633-escapesimulator.json](./358633-escapesimulator.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
 | Escapeworld Dilemma | 150526 | [150526-escapeworld-dilemma.json](./150526-escapeworld-dilemma.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Isle of Ireland | 375302 | [375302-euro-truck-simulator-2-isle-of-ireland.json](./375302-euro-truck-simulator-2-isle-of-ireland.json) |
 | Euro Truck Simulator 2: Italia | 76432 | [76432-euro-truck-simulator-2-italia.json](./76432-euro-truck-simulator-2-italia.json) |
 | Euro Truck Simulator 2: JCB Equipment Pack | 302495 | [302495-euro-truck-simulator-2-jcb-equipment-pack.json](./302495-euro-truck-simulator-2-jcb-equipment-pack.json) |
+| Euro Truck Simulator 2: KRONE Agriculture Equipment | 358728 | [358728-euro-truck-simulator-2-krone-agriculture-equipment.json](./358728-euro-truck-simulator-2-krone-agriculture-equipment.json) |
 | Euro Truck Simulator 2: Modern Lines Paint Jobs Pack | 266243 | [266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json](./266243-euro-truck-simulator-2-modern-lines-paint-jobs-pack.json) |
 | Euro Truck Simulator 2: Renault Trucks E-Tech T | 311995 | [311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json](./311995-euro-truck-simulator-2-renault-trucks-e-tech-t.json) |
 | Euro Truck Simulator 2: Road to the Black Sea | 118305 | [118305-euro-truck-simulator-2-road-to-the-black-sea.json](./118305-euro-truck-simulator-2-road-to-the-black-sea.json) |
