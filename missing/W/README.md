@@ -6180,6 +6180,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Aftermath | 152123 | [152123-world-war-z-aftermath.json](./152123-world-war-z-aftermath.json) |
 | World War Z: Aftermath - Deluxe Edition | 169203 | [169203-world-war-z-aftermath-deluxe-edition.json](./169203-world-war-z-aftermath-deluxe-edition.json) |
 | World War Z: Desert Defenders Weapons Pack | 332044 | [332044-world-war-z-desert-defenders-weapons-pack.json](./332044-world-war-z-desert-defenders-weapons-pack.json) |
+| World War Z: Sin City Apocalypse Episode | 339072 | [339072-world-war-z-sin-city-apocalypse-episode.json](./339072-world-war-z-sin-city-apocalypse-episode.json) |
+| World War Z: Vegas Skin Pack | 339073 | [339073-world-war-z-vegas-skin-pack.json](./339073-world-war-z-vegas-skin-pack.json) |
 | World War Z: Victory Lap Weapons Skin Pack | 332045 | [332045-world-war-z-victory-lap-weapons-skin-pack.json](./332045-world-war-z-victory-lap-weapons-skin-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
