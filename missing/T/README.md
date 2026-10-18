@@ -4923,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Brainies | 42634 | [42634-the-brainies.json](./42634-the-brainies.json) |
 | The Brains & The Brawn | 221771 | [221771-the-brains-and-the-brawn.json](./221771-the-brains-and-the-brawn.json) |
 | The Branch | 231456 | [231456-the-branch.json](./231456-the-branch.json) |
+| The Branch | 345273 | [345273-the-branch.json](./345273-the-branch.json) |
 | The Brave Furries | 53711 | [53711-the-brave-furries.json](./53711-the-brave-furries.json) |
 | The Brave Hearts II: False Skies | 415480 | [415480-the-brave-hearts-ii-false-skies.json](./415480-the-brave-hearts-ii-false-skies.json) |
 | The Brave Little Cloud | 275828 | [275828-the-brave-little-cloud.json](./275828-the-brave-little-cloud.json) |
@@ -8253,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Ice Cream: Turbo | 217808 | [217808-the-jumping-ice-cream-turbo.json](./217808-the-jumping-ice-cream-turbo.json) |
 | The Jumping Kebab: Turbo | 213350 | [213350-the-jumping-kebab-turbo.json](./213350-the-jumping-kebab-turbo.json) |
 | The Jumping Melon Rush | 330937 | [330937-the-jumping-melon-rush.json](./330937-the-jumping-melon-rush.json) |
+| The Jumping Melon Rush 2 | 345362 | [345362-the-jumping-melon-rush-2.json](./345362-the-jumping-melon-rush-2.json) |
 | The Jumping Muffin | 229166 | [229166-the-jumping-muffin.json](./229166-the-jumping-muffin.json) |
 | The Jumping Muffin: Turbo | 229167 | [229167-the-jumping-muffin-turbo.json](./229167-the-jumping-muffin-turbo.json) |
 | The Jumping Noodles | 212689 | [212689-the-jumping-noodles.json](./212689-the-jumping-noodles.json) |
@@ -12409,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The StoryTeller | 324670 | [324670-the-storyteller.json](./324670-the-storyteller.json) |
 | The Strange and Somewhat Sinister Tale of the House at Desert Bridge | 228966 | [228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json](./228966-the-strange-and-somewhat-sinister-tale-of-the-house-at-desert-bridge.json) |
 | The Strange Case of Mei Lysel Andi | 257543 | [257543-the-strange-case-of-mei-lysel-andi.json](./257543-the-strange-case-of-mei-lysel-andi.json) |
+| The Strange Men Anthology | 345349 | [345349-the-strange-men-anthology.json](./345349-the-strange-men-anthology.json) |
 | The Strange Story of Brian Fisher: Chapter 2 | 168841 | [168841-the-strange-story-of-brian-fisher-chapter-2.json](./168841-the-strange-story-of-brian-fisher-chapter-2.json) |
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
@@ -24130,6 +24133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
 | Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
+| Tyro: Legend of Whisperwood | 345289 | [345289-tyro-legend-of-whisperwood.json](./345289-tyro-legend-of-whisperwood.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
 | Tyrone Soulz | 264535 | [264535-tyrone-soulz.json](./264535-tyrone-soulz.json) |
 | Tyrone vs Cops | 191512 | [191512-tyrone-vs-cops.json](./191512-tyrone-vs-cops.json) |
