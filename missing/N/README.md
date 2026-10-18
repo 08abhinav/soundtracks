@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrosmith 2 | 244317 | [244317-necrosmith-2.json](./244317-necrosmith-2.json) |
 | Necrosphere | 36626 | [36626-necrosphere.json](./36626-necrosphere.json) |
 | Necrosphere Deluxe | 114026 | [114026-necrosphere-deluxe.json](./114026-necrosphere-deluxe.json) |
+| Necrosphere64 | 311882 | [311882-necrosphere64.json](./311882-necrosphere64.json) |
 | NecroTactics | 223418 | [223418-necrotactics.json](./223418-necrotactics.json) |
 | Necrotel: No Checkout | 400665 | [400665-necrotel-no-checkout.json](./400665-necrotel-no-checkout.json) |
 | Necrotic Drift | 76179 | [76179-necrotic-drift.json](./76179-necrotic-drift.json) |
@@ -1771,6 +1772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Beauties: Hentai Photo Puzzle | 417279 | [417279-neon-beauties-hentai-photo-puzzle.json](./417279-neon-beauties-hentai-photo-puzzle.json) |
 | Neon Blast | 113548 | [113548-neon-blast.json](./113548-neon-blast.json) |
 | Neon Blast | 240936 | [240936-neon-blast.json](./240936-neon-blast.json) |
+| Neon Blitz | 311859 | [311859-neon-blitz.json](./311859-neon-blitz.json) |
 | Neon Blocks 87 | 90814 | [90814-neon-blocks-87.json](./90814-neon-blocks-87.json) |
 | Neon Blood | 223443 | [223443-neon-blood.json](./223443-neon-blood.json) |
 | Neon Blood: Limited Edition | 323889 | [323889-neon-blood-limited-edition.json](./323889-neon-blood-limited-edition.json) |
@@ -4469,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble's Life: Kingdom Reborn | 173301 | [173301-nobles-life-kingdom-reborn.json](./173301-nobles-life-kingdom-reborn.json) |
 | NobleEscape | 149953 | [149953-nobleescape.json](./149953-nobleescape.json) |
 | Noblemen: 1896 | 87611 | [87611-noblemen-1896.json](./87611-noblemen-1896.json) |
+| Noblemen: 1941 | 311891 | [311891-noblemen-1941.json](./311891-noblemen-1941.json) |
 | Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
@@ -5104,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Our Home 2 | 156649 | [156649-not-our-home-2.json](./156649-not-our-home-2.json) |
 | Not Pacman | 135091 | [135091-not-pacman.json](./135091-not-pacman.json) |
 | Not Pinball | 175734 | [175734-not-pinball.json](./175734-not-pinball.json) |
+| Not Quite A Fairy Tale | 311895 | [311895-not-quite-a-fairy-tale.json](./311895-not-quite-a-fairy-tale.json) |
 | Not Quite Dead | 414336 | [414336-not-quite-dead.json](./414336-not-quite-dead.json) |
 | Not seafoam | 176937 | [176937-not-seafoam.json](./176937-not-seafoam.json) |
 | Not So Heart | 117801 | [117801-not-so-heart.json](./117801-not-so-heart.json) |
