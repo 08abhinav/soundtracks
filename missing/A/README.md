@@ -10784,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aspectus: Rinascimento Chronicles | 35938 | [35938-aspectus-rinascimento-chronicles.json](./35938-aspectus-rinascimento-chronicles.json) |
 | Aspen | 201116 | [201116-aspen.json](./201116-aspen.json) |
 | Aspen Lane VR | 182827 | [182827-aspen-lane-vr.json](./182827-aspen-lane-vr.json) |
+| Aspen Ski! | 315332 | [315332-aspen-ski.json](./315332-aspen-ski.json) |
 | Asphalt | 36920 | [36920-asphalt.json](./36920-asphalt.json) |
 | Asphalt 3D | 6746 | [6746-asphalt-3d.json](./6746-asphalt-3d.json) |
 | Asphalt 6: Adrenaline | 23304 | [23304-asphalt-6-adrenaline.json](./23304-asphalt-6-adrenaline.json) |
