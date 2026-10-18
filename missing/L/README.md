@@ -4884,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
 | Lockstone | 147745 | [147745-lockstone.json](./147745-lockstone.json) |
+| LockYourDoor | 328855 | [328855-lockyourdoor.json](./328855-lockyourdoor.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
 | Loco Bonobo | 192871 | [192871-loco-bonobo.json](./192871-loco-bonobo.json) |
 | Loco Dojo Unleashed | 193680 | [193680-loco-dojo-unleashed.json](./193680-loco-dojo-unleashed.json) |
