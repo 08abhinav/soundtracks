@@ -6631,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
 | Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
 | Merk Mayhem | 291696 | [291696-merk-mayhem.json](./291696-merk-mayhem.json) |
+| Merlin | 362581 | [362581-merlin.json](./362581-merlin.json) |
 | Merlin | 50034 | [50034-merlin.json](./50034-merlin.json) |
 | Merlin 64 | 47242 | [47242-merlin-64.json](./47242-merlin-64.json) |
 | Merlin Adventurer Store | 26490 | [26490-merlin-adventurer-store.json](./26490-merlin-adventurer-store.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: The Fighting Edition | 3287 | [3287-mighty-morphin-power-rangers-the-fighting-edition.json](./3287-mighty-morphin-power-rangers-the-fighting-edition.json) |
 | Mighty Morphin Power Rangers: The Movie | 75980 | [75980-mighty-morphin-power-rangers-the-movie.json](./75980-mighty-morphin-power-rangers-the-movie.json) |
 | Mighty Morphin Power Rangers: The Movie | 75981 | [75981-mighty-morphin-power-rangers-the-movie.json](./75981-mighty-morphin-power-rangers-the-movie.json) |
+| Mighty Morphin Power Rangers: Tiger Barcodzz - 22: Yellow Ranger | 362576 | [362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json](./362576-mighty-morphin-power-rangers-tiger-barcodzz-22-yellow-ranger.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
 | Mighty No. 9: Ganbare! Beck | 78361 | [78361-mighty-no-9-ganbare-beck.json](./78361-mighty-no-9-ganbare-beck.json) |
@@ -9699,6 +9701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
 | Missing Friend: Icky Mr Fox | 299262 | [299262-missing-friend-icky-mr-fox.json](./299262-missing-friend-icky-mr-fox.json) |
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
+| Missing Hearts: Сrimson Cruise - Collector's Edition | 362590 | [362590-missing-hearts-rimson-cruise-collectors-edition.json](./362590-missing-hearts-rimson-cruise-collectors-edition.json) |
 | Missing Heroes | 224003 | [224003-missing-heroes.json](./224003-missing-heroes.json) |
 | Missing In Action | 40806 | [40806-missing-in-action.json](./40806-missing-in-action.json) |
 | Missing in Rome | 209214 | [209214-missing-in-rome.json](./209214-missing-in-rome.json) |
@@ -11661,6 +11664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Farming | 161352 | [161352-moon-farming.json](./161352-moon-farming.json) |
 | Moon Flight | 84340 | [84340-moon-flight.json](./84340-moon-flight.json) |
 | Moon Games: Lunar Slalom | 100757 | [100757-moon-games-lunar-slalom.json](./100757-moon-games-lunar-slalom.json) |
+| Moon Garden Optimizer | 362589 | [362589-moon-garden-optimizer.json](./362589-moon-garden-optimizer.json) |
 | Moon Ghost | 310525 | [310525-moon-ghost.json](./310525-moon-ghost.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
@@ -12221,6 +12225,31 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat: Onslaught | 224009 | [224009-mortal-kombat-onslaught.json](./224009-mortal-kombat-onslaught.json) |
 | Mortal Kombat: Outworld Assassins | 257336 | [257336-mortal-kombat-outworld-assassins.json](./257336-mortal-kombat-outworld-assassins.json) |
 | Mortal Kombat: Shaolin Monks | 1614 | [1614-mortal-kombat-shaolin-monks.json](./1614-mortal-kombat-shaolin-monks.json) |
+| Mortal Kombat: Tiger Barcodzz | 362598 | [362598-mortal-kombat-tiger-barcodzz.json](./362598-mortal-kombat-tiger-barcodzz.json) |
+| Mortal Kombat: Tiger Barcodzz - Goro | 362599 | [362599-mortal-kombat-tiger-barcodzz-goro.json](./362599-mortal-kombat-tiger-barcodzz-goro.json) |
+| Mortal Kombat: Tiger Barcodzz - Goro | 362608 | [362608-mortal-kombat-tiger-barcodzz-goro.json](./362608-mortal-kombat-tiger-barcodzz-goro.json) |
+| Mortal Kombat: Tiger Barcodzz - Goro | 362612 | [362612-mortal-kombat-tiger-barcodzz-goro.json](./362612-mortal-kombat-tiger-barcodzz-goro.json) |
+| Mortal Kombat: Tiger Barcodzz - Johnny Cage | 362606 | [362606-mortal-kombat-tiger-barcodzz-johnny-cage.json](./362606-mortal-kombat-tiger-barcodzz-johnny-cage.json) |
+| Mortal Kombat: Tiger Barcodzz - Johnny Cage | 362609 | [362609-mortal-kombat-tiger-barcodzz-johnny-cage.json](./362609-mortal-kombat-tiger-barcodzz-johnny-cage.json) |
+| Mortal Kombat: Tiger Barcodzz - Kano | 362605 | [362605-mortal-kombat-tiger-barcodzz-kano.json](./362605-mortal-kombat-tiger-barcodzz-kano.json) |
+| Mortal Kombat: Tiger Barcodzz - Kano | 362607 | [362607-mortal-kombat-tiger-barcodzz-kano.json](./362607-mortal-kombat-tiger-barcodzz-kano.json) |
+| Mortal Kombat: Tiger Barcodzz - Kano | 362619 | [362619-mortal-kombat-tiger-barcodzz-kano.json](./362619-mortal-kombat-tiger-barcodzz-kano.json) |
+| Mortal Kombat: Tiger Barcodzz - Liu Kang | 362617 | [362617-mortal-kombat-tiger-barcodzz-liu-kang.json](./362617-mortal-kombat-tiger-barcodzz-liu-kang.json) |
+| Mortal Kombat: Tiger Barcodzz - Liu Kang | 362623 | [362623-mortal-kombat-tiger-barcodzz-liu-kang.json](./362623-mortal-kombat-tiger-barcodzz-liu-kang.json) |
+| Mortal Kombat: Tiger Barcodzz - Mortal Kombat | 362613 | [362613-mortal-kombat-tiger-barcodzz-mortal-kombat.json](./362613-mortal-kombat-tiger-barcodzz-mortal-kombat.json) |
+| Mortal Kombat: Tiger Barcodzz - Rayden | 362614 | [362614-mortal-kombat-tiger-barcodzz-rayden.json](./362614-mortal-kombat-tiger-barcodzz-rayden.json) |
+| Mortal Kombat: Tiger Barcodzz - Rayden | 362620 | [362620-mortal-kombat-tiger-barcodzz-rayden.json](./362620-mortal-kombat-tiger-barcodzz-rayden.json) |
+| Mortal Kombat: Tiger Barcodzz - Rayden | 362624 | [362624-mortal-kombat-tiger-barcodzz-rayden.json](./362624-mortal-kombat-tiger-barcodzz-rayden.json) |
+| Mortal Kombat: Tiger Barcodzz - Scorpion | 362600 | [362600-mortal-kombat-tiger-barcodzz-scorpion.json](./362600-mortal-kombat-tiger-barcodzz-scorpion.json) |
+| Mortal Kombat: Tiger Barcodzz - Scorpion | 362616 | [362616-mortal-kombat-tiger-barcodzz-scorpion.json](./362616-mortal-kombat-tiger-barcodzz-scorpion.json) |
+| Mortal Kombat: Tiger Barcodzz - Shang Tsung | 362604 | [362604-mortal-kombat-tiger-barcodzz-shang-tsung.json](./362604-mortal-kombat-tiger-barcodzz-shang-tsung.json) |
+| Mortal Kombat: Tiger Barcodzz - Shang Tsung | 362611 | [362611-mortal-kombat-tiger-barcodzz-shang-tsung.json](./362611-mortal-kombat-tiger-barcodzz-shang-tsung.json) |
+| Mortal Kombat: Tiger Barcodzz - Shang Tsung | 362622 | [362622-mortal-kombat-tiger-barcodzz-shang-tsung.json](./362622-mortal-kombat-tiger-barcodzz-shang-tsung.json) |
+| Mortal Kombat: Tiger Barcodzz - Sonya Blade | 362601 | [362601-mortal-kombat-tiger-barcodzz-sonya-blade.json](./362601-mortal-kombat-tiger-barcodzz-sonya-blade.json) |
+| Mortal Kombat: Tiger Barcodzz - Sonya Blade | 362603 | [362603-mortal-kombat-tiger-barcodzz-sonya-blade.json](./362603-mortal-kombat-tiger-barcodzz-sonya-blade.json) |
+| Mortal Kombat: Tiger Barcodzz - Sonya Blade | 362618 | [362618-mortal-kombat-tiger-barcodzz-sonya-blade.json](./362618-mortal-kombat-tiger-barcodzz-sonya-blade.json) |
+| Mortal Kombat: Tiger Barcodzz - Sub-Zero | 362615 | [362615-mortal-kombat-tiger-barcodzz-sub-zero.json](./362615-mortal-kombat-tiger-barcodzz-sub-zero.json) |
+| Mortal Kombat: Tiger Barcodzz - Sub-Zero | 362621 | [362621-mortal-kombat-tiger-barcodzz-sub-zero.json](./362621-mortal-kombat-tiger-barcodzz-sub-zero.json) |
 | Mortal Kombat: Unchained | 1615 | [1615-mortal-kombat-unchained.json](./1615-mortal-kombat-unchained.json) |
 | Mortal Kombat: Warrior Kenshi | 388955 | [388955-mortal-kombat-warrior-kenshi.json](./388955-mortal-kombat-warrior-kenshi.json) |
 | Mortal Mythos: Island of Fairies | 386553 | [386553-mortal-mythos-island-of-fairies.json](./386553-mortal-mythos-island-of-fairies.json) |
@@ -12822,6 +12851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Work | 339137 | [339137-mouse-work.json](./339137-mouse-work.json) |
 | MouseBot: Escape from CatLab | 157532 | [157532-mousebot-escape-from-catlab.json](./157532-mousebot-escape-from-catlab.json) |
 | Mousebound | 139290 | [139290-mousebound.json](./139290-mousebound.json) |
+| Mouseburg: Pursuit of Power | 362586 | [362586-mouseburg-pursuit-of-power.json](./362586-mouseburg-pursuit-of-power.json) |
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
 | Mousegun | 366381 | [366381-mousegun.json](./366381-mousegun.json) |
 | Mousehole Bookshop | 286607 | [286607-mousehole-bookshop.json](./286607-mousehole-bookshop.json) |
@@ -15625,6 +15655,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
+| Mythical Mayhem: Judgment Night Expansion | 362597 | [362597-mythical-mayhem-judgment-night-expansion.json](./362597-mythical-mayhem-judgment-night-expansion.json) |
+| Mythical Mayhem: Twisting Sands Expansion | 362596 | [362596-mythical-mayhem-twisting-sands-expansion.json](./362596-mythical-mayhem-twisting-sands-expansion.json) |
 | Mythical Party | 292747 | [292747-mythical-party.json](./292747-mythical-party.json) |
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
 | Mythical Warriors: Battle for Eastland | 210109 | [210109-mythical-warriors-battle-for-eastland.json](./210109-mythical-warriors-battle-for-eastland.json) |
