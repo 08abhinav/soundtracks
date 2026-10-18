@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dàshídài: Sānguó Lìzhì | 118071 | [118071-dashidai-sanguo-lizhi.json](./118071-dashidai-sanguo-lizhi.json) |
 | Dashie's Puh-ranormal Activity | 147240 | [147240-dashies-puh-ranormal-activity.json](./147240-dashies-puh-ranormal-activity.json) |
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
+| Dashing Dasher | 332276 | [332276-dashing-dasher.json](./332276-dashing-dasher.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
 | Dashing Dodgems | 122932 | [122932-dashing-dodgems.json](./122932-dashing-dodgems.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice of Olympus | 130342 | [130342-dice-of-olympus.json](./130342-dice-of-olympus.json) |
 | Dice or Die | 184452 | [184452-dice-or-die.json](./184452-dice-or-die.json) |
 | Dice Paradise | 175416 | [175416-dice-paradise.json](./175416-dice-paradise.json) |
+| Dice People | 332281 | [332281-dice-people.json](./332281-dice-people.json) |
 | Dice Player One: Trailer | 305916 | [305916-dice-player-one-trailer.json](./305916-dice-player-one-trailer.json) |
 | Dice Poker Chicken Battle | 184422 | [184422-dice-poker-chicken-battle.json](./184422-dice-poker-chicken-battle.json) |
 | Dice Puzzle | 220175 | [220175-dice-puzzle.json](./220175-dice-puzzle.json) |
