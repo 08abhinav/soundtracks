@@ -1792,6 +1792,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
 | Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
+| Tape of the Ghouls | 323569 | [323569-tape-of-the-ghouls.json](./323569-tape-of-the-ghouls.json) |
+| Tape of the Ghouls 2 | 323570 | [323570-tape-of-the-ghouls-2.json](./323570-tape-of-the-ghouls-2.json) |
 | Tape Over: Night Shift | 391017 | [391017-tape-over-night-shift.json](./391017-tape-over-night-shift.json) |
 | Tape Recovery Simulator 96K | 152110 | [152110-tape-recovery-simulator-96k.json](./152110-tape-recovery-simulator-96k.json) |
 | Tape To Tape | 190280 | [190280-tape-to-tape.json](./190280-tape-to-tape.json) |
@@ -2698,6 +2700,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telepath RPG: Servants of God | 65532 | [65532-telepath-rpg-servants-of-god.json](./65532-telepath-rpg-servants-of-god.json) |
 | Telepathy | 282667 | [282667-telepathy.json](./282667-telepathy.json) |
 | Teleport Master | 332798 | [332798-teleport-master.json](./332798-teleport-master.json) |
+| Teleportal | 323580 | [323580-teleportal.json](./323580-teleportal.json) |
+| Teleportal 2 | 323583 | [323583-teleportal-2.json](./323583-teleportal-2.json) |
 | Teleportal Customer Service | 181374 | [181374-teleportal-customer-service.json](./181374-teleportal-customer-service.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
@@ -4017,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
 | The Adventure of Popo | 309948 | [309948-the-adventure-of-popo.json](./309948-the-adventure-of-popo.json) |
 | The Adventure Pals | 22359 | [22359-the-adventure-pals.json](./22359-the-adventure-pals.json) |
+| The Adventure Remastered | 323591 | [323591-the-adventure-remastered.json](./323591-the-adventure-remastered.json) |
 | The Adventure Story of Yixiu | 293385 | [293385-the-adventure-story-of-yixiu.json](./293385-the-adventure-story-of-yixiu.json) |
 | The Adventurer | 159365 | [159365-the-adventurer.json](./159365-the-adventurer.json) |
 | The Adventurer and His Backpack | 36823 | [36823-the-adventurer-and-his-backpack.json](./36823-the-adventurer-and-his-backpack.json) |
@@ -4181,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
+| The Alliance Alive HD Remastered: Awakening Edition | 323568 | [323568-the-alliance-alive-hd-remastered-awakening-edition.json](./323568-the-alliance-alive-hd-remastered-awakening-edition.json) |
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
 | The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
@@ -5373,6 +5379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clutch: Remastered | 186864 | [186864-the-clutch-remastered.json](./186864-the-clutch-remastered.json) |
 | The Coagula Contest | 271497 | [271497-the-coagula-contest.json](./271497-the-coagula-contest.json) |
 | The Coagulation | 360506 | [360506-the-coagulation.json](./360506-the-coagulation.json) |
+| The Coal Room | 323617 | [323617-the-coal-room.json](./323617-the-coal-room.json) |
 | The Cobalt Palace | 271457 | [271457-the-cobalt-palace.json](./271457-the-cobalt-palace.json) |
 | The Code Zone Retro Pack | 198521 | [198521-the-code-zone-retro-pack.json](./198521-the-code-zone-retro-pack.json) |
 | The Code: Room Escape | 101502 | [101502-the-code-room-escape.json](./101502-the-code-room-escape.json) |
@@ -6085,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disappearing of Gensokyo: Patchouli | 210118 | [210118-the-disappearing-of-gensokyo-patchouli.json](./210118-the-disappearing-of-gensokyo-patchouli.json) |
 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika | 210121 | [210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json](./210121-the-disappearing-of-gensokyo-sakuya-koishi-suika.json) |
 | The Disappearing of Gensokyo: Youmu, Yuyuko | 210135 | [210135-the-disappearing-of-gensokyo-youmu-yuyuko.json](./210135-the-disappearing-of-gensokyo-youmu-yuyuko.json) |
+| The Disciples of the Full Moon | 323565 | [323565-the-disciples-of-the-full-moon.json](./323565-the-disciples-of-the-full-moon.json) |
 | The Discrete Era | 263499 | [263499-the-discrete-era.json](./263499-the-discrete-era.json) |
 | The Diseases, and Casualties this year being 1632 | 279080 | [279080-the-diseases-and-casualties-this-year-being-1632.json](./279080-the-diseases-and-casualties-this-year-being-1632.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
@@ -7244,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gentle Art of Slaughter | 244778 | [244778-the-gentle-art-of-slaughter.json](./244778-the-gentle-art-of-slaughter.json) |
 | The Gentleman | 27715 | [27715-the-gentleman.json](./27715-the-gentleman.json) |
 | The Gentleman | 341319 | [341319-the-gentleman.json](./341319-the-gentleman.json) |
+| The Gentleman's Gold | 323613 | [323613-the-gentlemans-gold.json](./323613-the-gentlemans-gold.json) |
 | The Geography | 198523 | [198523-the-geography.json](./198523-the-geography.json) |
 | The Geology Game | 88055 | [88055-the-geology-game.json](./88055-the-geology-game.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
@@ -7362,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Tulip | 184460 | [184460-the-golden-tulip.json](./184460-the-golden-tulip.json) |
 | The Golden Years: Way Out West | 53740 | [53740-the-golden-years-way-out-west.json](./53740-the-golden-years-way-out-west.json) |
 | The Golem | 138674 | [138674-the-golem.json](./138674-the-golem.json) |
+| The Golem Maker | 323618 | [323618-the-golem-maker.json](./323618-the-golem-maker.json) |
 | The Golf | 94116 | [94116-the-golf.json](./94116-the-golf.json) |
 | The Golf '92 | 48483 | [48483-the-golf-92.json](./48483-the-golf-92.json) |
 | The Golf Club 2 | 28247 | [28247-the-golf-club-2.json](./28247-the-golf-club-2.json) |
@@ -9008,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
 | The Legend of Dark Witch Episode 4 | 313259 | [313259-the-legend-of-dark-witch-episode-4.json](./313259-the-legend-of-dark-witch-episode-4.json) |
 | The Legend of Dark Witch Renovation: Day Stage | 172090 | [172090-the-legend-of-dark-witch-renovation-day-stage.json](./172090-the-legend-of-dark-witch-renovation-day-stage.json) |
+| The Legend of Darkness | 323608 | [323608-the-legend-of-darkness.json](./323608-the-legend-of-darkness.json) |
 | The Legend of Demon-Slaying Heroes | 355213 | [355213-the-legend-of-demon-slaying-heroes.json](./355213-the-legend-of-demon-slaying-heroes.json) |
 | The Legend of Doom | 231448 | [231448-the-legend-of-doom.json](./231448-the-legend-of-doom.json) |
 | The Legend of Dragoon | 239182 | [239182-the-legend-of-dragoon.json](./239182-the-legend-of-dragoon.json) |
@@ -9835,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Majestic | 211745 | [211745-the-majestic.json](./211745-the-majestic.json) |
 | The Majesty of Colors | 41956 | [41956-the-majesty-of-colors.json](./41956-the-majesty-of-colors.json) |
 | The Majors Pro Baseball | 45795 | [45795-the-majors-pro-baseball.json](./45795-the-majors-pro-baseball.json) |
+| The Maker of Masks | 323561 | [323561-the-maker-of-masks.json](./323561-the-maker-of-masks.json) |
 | The Maker Way | 392267 | [392267-the-maker-way.json](./392267-the-maker-way.json) |
 | The Making of a Prophet | 214524 | [214524-the-making-of-a-prophet.json](./214524-the-making-of-a-prophet.json) |
 | The Making of Karateka | 256293 | [256293-the-making-of-karateka.json](./256293-the-making-of-karateka.json) |
@@ -15183,6 +15195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticktock | 104010 | [104010-ticktock.json](./104010-ticktock.json) |
 | TickWords | 379702 | [379702-tickwords.json](./379702-tickwords.json) |
 | Ticky's Tower of Time | 328030 | [328030-tickys-tower-of-time.json](./328030-tickys-tower-of-time.json) |
+| Ticky's Wake Up Call | 323600 | [323600-tickys-wake-up-call.json](./323600-tickys-wake-up-call.json) |
 | TicTacToe 3D | 87605 | [87605-tictactoe-3d.json](./87605-tictactoe-3d.json) |
 | Tictactoe Sets | 365868 | [365868-tictactoe-sets.json](./365868-tictactoe-sets.json) |
 | TicTacToeTwo | 400562 | [400562-tictactoetwo.json](./400562-tictactoetwo.json) |
