@@ -7765,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport 4: Limited Collector's Edition | 41600 | [41600-forza-motorsport-4-limited-collectors-edition.json](./41600-forza-motorsport-4-limited-collectors-edition.json) |
 | Forza Motorsport 5 | 2131 | [2131-forza-motorsport-5.json](./2131-forza-motorsport-5.json) |
 | Forza Motorsport 5: Game of the Year Edition | 136175 | [136175-forza-motorsport-5-game-of-the-year-edition.json](./136175-forza-motorsport-5-game-of-the-year-edition.json) |
+| Forza Motorsport 6 and Forza Horizon 2 Bundle | 311355 | [311355-forza-motorsport-6-and-forza-horizon-2-bundle.json](./311355-forza-motorsport-6-and-forza-horizon-2-bundle.json) |
 | Forza Motorsport 7: Deluxe Edition | 84940 | [84940-forza-motorsport-7-deluxe-edition.json](./84940-forza-motorsport-7-deluxe-edition.json) |
 | Forza Motorsport 7: Ultimate Edition | 84941 | [84941-forza-motorsport-7-ultimate-edition.json](./84941-forza-motorsport-7-ultimate-edition.json) |
 | Forza Motorsport and Forza Horizon 5 Premium Editions Bundle | 277243 | [277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json](./277243-forza-motorsport-and-forza-horizon-5-premium-editions-bundle.json) |
@@ -8945,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
 | Frogger | 288264 | [288264-frogger.json](./288264-frogger.json) |
+| Frogger | 311345 | [311345-frogger.json](./311345-frogger.json) |
 | Frogger | 341890 | [341890-frogger.json](./341890-frogger.json) |
 | Frogger | 6795 | [6795-frogger.json](./6795-frogger.json) |
 | Frogger 2 | 111559 | [111559-frogger-2.json](./111559-frogger-2.json) |
