@@ -3930,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Hell | 211432 | [211432-go-to-hell.json](./211432-go-to-hell.json) |
 | Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
+| Go to Sleep | 351426 | [351426-go-to-sleep.json](./351426-go-to-sleep.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
 | Go to Ten | 100940 | [100940-go-to-ten.json](./100940-go-to-ten.json) |
 | Go To The Finish | 387726 | [387726-go-to-the-finish.json](./387726-go-to-the-finish.json) |
