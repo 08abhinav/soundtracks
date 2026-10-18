@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Letters Flashcards: Lowercase | 101569 | [101569-meet-the-letters-flashcards-lowercase.json](./101569-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Lowercase | 87619 | [87619-meet-the-letters-flashcards-lowercase.json](./87619-meet-the-letters-flashcards-lowercase.json) |
 | Meet the Letters Flashcards: Uppercase | 101435 | [101435-meet-the-letters-flashcards-uppercase.json](./101435-meet-the-letters-flashcards-uppercase.json) |
+| Meet the Master | 332792 | [332792-meet-the-master.json](./332792-meet-the-master.json) |
 | Meet the Mole | 180679 | [180679-meet-the-mole.json](./180679-meet-the-mole.json) |
 | Meet the Myths: An Ormhildur the Brave Game | 331126 | [331126-meet-the-myths-an-ormhildur-the-brave-game.json](./331126-meet-the-myths-an-ormhildur-the-brave-game.json) |
 | Meet the Robinsons | 200908 | [200908-meet-the-robinsons.json](./200908-meet-the-robinsons.json) |
@@ -5974,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaquarium: Invertebrilliant Collection | 392780 | [392780-megaquarium-invertebrilliant-collection.json](./392780-megaquarium-invertebrilliant-collection.json) |
 | MegaRace | 4283 | [4283-megarace.json](./4283-megarace.json) |
 | MegaRace 3 | 46634 | [46634-megarace-3.json](./46634-megarace-3.json) |
+| MegaRacer QuantumRush | 332892 | [332892-megaracer-quantumrush.json](./332892-megaracer-quantumrush.json) |
 | MegaRamp | 169789 | [169789-megaramp.json](./169789-megaramp.json) |
 | MegaRats | 31101 | [31101-megarats.json](./31101-megarats.json) |
 | Megas XLR: Final Battle | 343395 | [343395-megas-xlr-final-battle.json](./343395-megas-xlr-final-battle.json) |
@@ -6606,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Sushi Night | 183310 | [183310-meow-sushi-night.json](./183310-meow-sushi-night.json) |
+| Meow TD: Endless Yarn | 332790 | [332790-meow-td-endless-yarn.json](./332790-meow-td-endless-yarn.json) |
 | Meow Time Machine: Munch | 335269 | [335269-meow-time-machine-munch.json](./335269-meow-time-machine-munch.json) |
 | Meow Time Machine: Newton | 339937 | [339937-meow-time-machine-newton.json](./339937-meow-time-machine-newton.json) |
 | Meow Tower: Doomsguard | 344970 | [344970-meow-tower-doomsguard.json](./344970-meow-tower-doomsguard.json) |
@@ -8375,6 +8378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miku Legends 2 | 328207 | [328207-miku-legends-2.json](./328207-miku-legends-2.json) |
 | Miku Miku Hockey | 62780 | [62780-miku-miku-hockey.json](./62780-miku-miku-hockey.json) |
 | Miku Runner | 289890 | [289890-miku-runner.json](./289890-miku-runner.json) |
+| Miku: May I Keep Up? | 332873 | [332873-miku-may-i-keep-up.json](./332873-miku-may-i-keep-up.json) |
 | Mikuni Field Combat | 299482 | [299482-mikuni-field-combat.json](./299482-mikuni-field-combat.json) |
 | Mila & Zug | 390496 | [390496-mila-and-zug.json](./390496-mila-and-zug.json) |
 | Milaneseria | 365300 | [365300-milaneseria.json](./365300-milaneseria.json) |
@@ -11629,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
 | Monster Trek | 245194 | [245194-monster-trek.json](./245194-monster-trek.json) |
 | Monster Trivia | 100119 | [100119-monster-trivia.json](./100119-monster-trivia.json) |
+| Monster Truck | 332857 | [332857-monster-truck.json](./332857-monster-truck.json) |
 | Monster Truck Championship | 132220 | [132220-monster-truck-championship.json](./132220-monster-truck-championship.json) |
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
@@ -11652,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
+| Monster Trucking | 332870 | [332870-monster-trucking.json](./332870-monster-trucking.json) |
 | Monster Trucks | 92416 | [92416-monster-trucks.json](./92416-monster-trucks.json) |
 | Monster Trucks DS | 47864 | [47864-monster-trucks-ds.json](./47864-monster-trucks-ds.json) |
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
@@ -12905,6 +12911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle Extreme Driver: Moto Racing Simulator | 294836 | [294836-motorcycle-extreme-driver-moto-racing-simulator.json](./294836-motorcycle-extreme-driver-moto-racing-simulator.json) |
 | Motorcycle Girl | 402984 | [402984-motorcycle-girl.json](./402984-motorcycle-girl.json) |
 | Motorcycle Mechanic Simulator 2021 | 142478 | [142478-motorcycle-mechanic-simulator-2021.json](./142478-motorcycle-mechanic-simulator-2021.json) |
+| Motorcycle Night Ride | 332874 | [332874-motorcycle-night-ride.json](./332874-motorcycle-night-ride.json) |
 | Motorcycle Ninja | 247064 | [247064-motorcycle-ninja.json](./247064-motorcycle-ninja.json) |
 | Motorcycle Racing VR | 226725 | [226725-motorcycle-racing-vr.json](./226725-motorcycle-racing-vr.json) |
 | Motorcycle Racing: Hill Up Cha | 108641 | [108641-motorcycle-racing-hill-up-cha.json](./108641-motorcycle-racing-hill-up-cha.json) |
