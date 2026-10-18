@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Underdark Overbright & Copper | 199075 | [199075-quake-underdark-overbright-and-copper.json](./199075-quake-underdark-overbright-and-copper.json) |
 | Quake: Underwater Jam | 196632 | [196632-quake-underwater-jam.json](./196632-quake-underwater-jam.json) |
 | Quake: Warp Spasm | 196631 | [196631-quake-warp-spasm.json](./196631-quake-warp-spasm.json) |
+| Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
