@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haha Doodle | 194271 | [194271-haha-doodle.json](./194271-haha-doodle.json) |
 | Hahakigami Sweep | 386105 | [386105-hahakigami-sweep.json](./386105-hahakigami-sweep.json) |
 | Hahakigami Sweep | 386106 | [386106-hahakigami-sweep.json](./386106-hahakigami-sweep.json) |
+| Hahana Kingdom | 335732 | [335732-hahana-kingdom.json](./335732-hahana-kingdom.json) |
 | Hai Byouin Tansaku | 261547 | [261547-hai-byouin-tansaku.json](./261547-hai-byouin-tansaku.json) |
 | Hai no Majutsushi | 137900 | [137900-hai-no-majutsushi.json](./137900-hai-no-majutsushi.json) |
 | Hai Shuuraku Tansaku | 261546 | [261546-hai-shuuraku-tansaku.json](./261546-hai-shuuraku-tansaku.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanjuku Hero 4: 7-nin no Hanjuku Hero | 67365 | [67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json](./67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json) |
 | Hanjuku Hero Tai 3D | 67366 | [67366-hanjuku-hero-tai-3d.json](./67366-hanjuku-hero-tai-3d.json) |
 | Hank | 70118 | [70118-hank.json](./70118-hank.json) |
+| Hank Hill Smokes Marijuana | 335727 | [335727-hank-hill-smokes-marijuana.json](./335727-hank-hill-smokes-marijuana.json) |
 | Hank Loves the Beach | 240797 | [240797-hank-loves-the-beach.json](./240797-hank-loves-the-beach.json) |
 | Hank: Drowning on Dry Land | 195168 | [195168-hank-drowning-on-dry-land.json](./195168-hank-drowning-on-dry-land.json) |
 | Hank: Straightjacket | 232458 | [232458-hank-straightjacket.json](./232458-hank-straightjacket.json) |
@@ -1431,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardCube 2 | 220033 | [220033-hardcube-2.json](./220033-hardcube-2.json) |
 | HardDriverz | 365150 | [365150-harddriverz.json](./365150-harddriverz.json) |
 | Harder | 334707 | [334707-harder.json](./334707-harder.json) |
+| Harder Mario Bros. Meltdown | 335627 | [335627-harder-mario-bros-meltdown.json](./335627-harder-mario-bros-meltdown.json) |
 | Harder Parkour | 380117 | [380117-harder-parkour.json](./380117-harder-parkour.json) |
 | Hardest Game About Jumping | 346390 | [346390-hardest-game-about-jumping.json](./346390-hardest-game-about-jumping.json) |
 | Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
@@ -3279,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 367420 | [367420-hello-world.json](./367420-hello-world.json) |
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello World: a developer story | 354089 | [354089-hello-world-a-developer-story.json](./354089-hello-world-a-developer-story.json) |
+| Hello Worlds! | 335742 | [335742-hello-worlds.json](./335742-hello-worlds.json) |
 | Hello Yuna | 336869 | [336869-hello-yuna.json](./336869-hello-yuna.json) |
 | Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
