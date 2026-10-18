@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:40:34.086Z",
-  "total_soundtracks": 2168,
+  "generated_at": "2026-10-18T08:40:42.342Z",
+  "total_soundtracks": 2169,
   "games": [
     {
       "igdb_id": 7522,
@@ -5955,6 +5955,20 @@
         {
           "album_name": "Destroy All Humans! 2 (Soundtrack from the Video Game)",
           "spotify_url": "https://open.spotify.com/album/63cSlkmzveKAeZOTaF7dLV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 134587,
+      "game_name": "Destruction AllStars",
+      "game_url": "https://ostdb.net/games/destruction-allstars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1c8f6ced5d21bef21f912a1",
+      "albums": [
+        {
+          "album_name": "Destruction AllStars (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AloLW8eldK8abBuA04ZVD",
           "apple_music_url": "",
           "album_link_url": ""
         }
