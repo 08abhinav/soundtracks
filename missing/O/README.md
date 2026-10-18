@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Night | 394222 | [394222-only-one-night.json](./394222-only-one-night.json) |
 | Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
+| Only Out | 329340 | [329340-only-out.json](./329340-only-out.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
 | Only Shadows Left Behind | 109730 | [109730-only-shadows-left-behind.json](./109730-only-shadows-left-behind.json) |
 | Only Sky Parkour: Island Up! | 349427 | [349427-only-sky-parkour-island-up.json](./349427-only-sky-parkour-island-up.json) |
