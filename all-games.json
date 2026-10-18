@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:30:49.727Z",
-  "total_soundtracks": 2149,
+  "generated_at": "2026-10-18T08:30:58.159Z",
+  "total_soundtracks": 2150,
   "games": [
     {
       "igdb_id": 7522,
@@ -6783,6 +6783,20 @@
         {
           "album_name": "DuckTales: Remastered (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/43ZjR5Xf8kHWuCjMhJFZW2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17219,
+      "game_name": "Duet",
+      "game_url": "https://ostdb.net/games/duet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a451d93bd445937b1745e351",
+      "albums": [
+        {
+          "album_name": "Duet (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1QSdqSM4eiNuiHhWohTEnn",
           "apple_music_url": "",
           "album_link_url": ""
         }
