@@ -6629,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Turn | 311472 | [311472-city-turn.json](./311472-city-turn.json) |
 | City Tycoon | 138127 | [138127-city-tycoon.json](./138127-city-tycoon.json) |
 | City Wars: Tokyo Reign | 164943 | [164943-city-wars-tokyo-reign.json](./164943-city-wars-tokyo-reign.json) |
+| City Wizard | 354766 | [354766-city-wizard.json](./354766-city-wizard.json) |
 | City Worker Simulator | 405735 | [405735-city-worker-simulator.json](./405735-city-worker-simulator.json) |
 | City Worlds | 216700 | [216700-city-worlds.json](./216700-city-worlds.json) |
 | City Z | 19056 | [19056-city-z.json](./19056-city-z.json) |
@@ -7486,6 +7487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds Kingdom 3 | 71501 | [71501-clouds-kingdom-3.json](./71501-clouds-kingdom-3.json) |
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
+| Cloudscrapers | 354887 | [354887-cloudscrapers.json](./354887-cloudscrapers.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsea Frontier | 406268 | [406268-cloudsea-frontier.json](./406268-cloudsea-frontier.json) |
 | Cloudsong | 377684 | [377684-cloudsong.json](./377684-cloudsong.json) |
@@ -10573,6 +10575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
+| Cosmic Construct | 354885 | [354885-cosmic-construct.json](./354885-cosmic-construct.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Corridor | 40626 | [40626-cosmic-corridor.json](./40626-cosmic-corridor.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
