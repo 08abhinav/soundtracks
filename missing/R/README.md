@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire 2: Bella Italia | 345429 | [345429-railway-empire-2-bella-italia.json](./345429-railway-empire-2-bella-italia.json) |
 | Railway Empire 2: Digital Deluxe Edition | 251012 | [251012-railway-empire-2-digital-deluxe-edition.json](./251012-railway-empire-2-digital-deluxe-edition.json) |
 | Railway Empire 2: India | 317818 | [317818-railway-empire-2-india.json](./317818-railway-empire-2-india.json) |
+| Railway Empire 2: Industrial Wonders | 347487 | [347487-railway-empire-2-industrial-wonders.json](./347487-railway-empire-2-industrial-wonders.json) |
 | Railway Empire: Complete Collection | 139950 | [139950-railway-empire-complete-collection.json](./139950-railway-empire-complete-collection.json) |
 | Railway Empire: Crossing the Andes | 111186 | [111186-railway-empire-crossing-the-andes.json](./111186-railway-empire-crossing-the-andes.json) |
 | Railway Empire: DLC Bundle | 227357 | [227357-railway-empire-dlc-bundle.json](./227357-railway-empire-dlc-bundle.json) |
@@ -8296,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
+| Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
 | Royale King | 270928 | [270928-royale-king.json](./270928-royale-king.json) |
 | Royale Storm Bowling | 116217 | [116217-royale-storm-bowling.json](./116217-royale-storm-bowling.json) |
