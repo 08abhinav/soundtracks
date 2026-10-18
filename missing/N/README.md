@@ -4474,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noblemen: 1941 | 311891 | [311891-noblemen-1941.json](./311891-noblemen-1941.json) |
 | Noblesse Oblige: Legacy of the Sorcerer Kings | 265577 | [265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json](./265577-noblesse-oblige-legacy-of-the-sorcerer-kings.json) |
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
+| Nobodies: Silent Blood | 310791 | [310791-nobodies-silent-blood.json](./310791-nobodies-silent-blood.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
 | Nobody Paradox | 244919 | [244919-nobody-paradox.json](./244919-nobody-paradox.json) |
