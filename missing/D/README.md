@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Danger Dungeon | 323742 | [323742-deadly-danger-dungeon.json](./323742-deadly-danger-dungeon.json) |
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
+| Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Word | 325524 | [325524-diamond-word.json](./325524-diamond-word.json) |
 | DiamondFalls | 68578 | [68578-diamondfalls.json](./68578-diamondfalls.json) |
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
+| Diamonds | 348583 | [348583-diamonds.json](./348583-diamonds.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diǎnchū Gè Sānguó | 413033 | [413033-dianchu-ge-sanguo.json](./413033-dianchu-ge-sanguo.json) |
 | Diànwán Bǔyú | 369189 | [369189-dianwan-buyu.json](./369189-dianwan-buyu.json) |
@@ -10664,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
+| Dragon Riddler | 348661 | [348661-dragon-riddler.json](./348661-dragon-riddler.json) |
 | Dragon Riders | 411136 | [411136-dragon-riders.json](./411136-dragon-riders.json) |
 | Dragon Roll | 184124 | [184124-dragon-roll.json](./184124-dragon-roll.json) |
 | Dragon Roller Coaster VR | 114331 | [114331-dragon-roller-coaster-vr.json](./114331-dragon-roller-coaster-vr.json) |
@@ -13708,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysnomia | 67231 | [67231-dysnomia.json](./67231-dysnomia.json) |
 | Dysnomia Exburst | 417424 | [417424-dysnomia-exburst.json](./417424-dysnomia-exburst.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
+| Dyson Era Idle | 348574 | [348574-dyson-era-idle.json](./348574-dyson-era-idle.json) |
 | Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
 | Dysphoria | 303017 | [303017-dysphoria.json](./303017-dysphoria.json) |
 | Dysplaced | 258472 | [258472-dysplaced.json](./258472-dysplaced.json) |
