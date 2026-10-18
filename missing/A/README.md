@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
 | A Pretty Broken Adventure | 249926 | [249926-a-pretty-broken-adventure.json](./249926-a-pretty-broken-adventure.json) |
 | A Princess of Fallen Kingdom | 166615 | [166615-a-princess-of-fallen-kingdom.json](./166615-a-princess-of-fallen-kingdom.json) |
+| A Prison Digging Game | 337976 | [337976-a-prison-digging-game.json](./337976-a-prison-digging-game.json) |
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Hotel: The Post-Apocalyptic Hotel Simulator! - The Thin Blue Line! | 171088 | [171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json](./171088-apocalypse-hotel-the-post-apocalyptic-hotel-simulator-the-thin-blue-line.json) |
 | Apocalypse II | 42434 | [42434-apocalypse-ii.json](./42434-apocalypse-ii.json) |
 | Apocalypse Island | 157392 | [157392-apocalypse-island.json](./157392-apocalypse-island.json) |
+| Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
@@ -8261,6 +8263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Pop | 121460 | [121460-apple-pop.json](./121460-apple-pop.json) |
 | Apple Quest Monsters DX | 249740 | [249740-apple-quest-monsters-dx.json](./249740-apple-quest-monsters-dx.json) |
 | Apple Rabble Dazzle | 384925 | [384925-apple-rabble-dazzle.json](./384925-apple-rabble-dazzle.json) |
+| Apple Ring | 337959 | [337959-apple-ring.json](./337959-apple-ring.json) |
 | Apple Sauce Apartments | 176460 | [176460-apple-sauce-apartments.json](./176460-apple-sauce-apartments.json) |
 | Apple Sauce Beach | 242691 | [242691-apple-sauce-beach.json](./242691-apple-sauce-beach.json) |
 | Apple Sauce Hinamatsuri | 239073 | [239073-apple-sauce-hinamatsuri.json](./239073-apple-sauce-hinamatsuri.json) |
@@ -8311,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aprenda Libras | 315615 | [315615-aprenda-libras.json](./315615-aprenda-libras.json) |
 | Aprende con Horacio: La Gran Aventura de las Palabras | 283755 | [283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json](./283755-aprende-con-horacio-la-gran-aventura-de-las-palabras.json) |
 | Apricity | 322208 | [322208-apricity.json](./322208-apricity.json) |
+| Apricity | 337960 | [337960-apricity.json](./337960-apricity.json) |
 | Apricot Kernel | 364531 | [364531-apricot-kernel.json](./364531-apricot-kernel.json) |
 | April '86 | 251841 | [251841-april-86.json](./251841-april-86.json) |
 | April 7th | 58863 | [58863-april-7th.json](./58863-april-7th.json) |
@@ -8409,6 +8413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
+| Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
@@ -8446,6 +8451,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
 | Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
+| Aquilon Lust: Sex Arcana | 337962 | [337962-aquilon-lust-sex-arcana.json](./337962-aquilon-lust-sex-arcana.json) |
+| Aquilon's Sex Quest | 337963 | [337963-aquilons-sex-quest.json](./337963-aquilons-sex-quest.json) |
 | Aquis | 293095 | [293095-aquis.json](./293095-aquis.json) |
 | Aquitania | 52409 | [52409-aquitania.json](./52409-aquitania.json) |
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
@@ -8723,6 +8730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: King & Balloon | 257326 | [257326-arcade-archives-king-and-balloon.json](./257326-arcade-archives-king-and-balloon.json) |
 | Arcade Archives: Knuckle Heads | 314877 | [314877-arcade-archives-knuckle-heads.json](./314877-arcade-archives-knuckle-heads.json) |
 | Arcade Archives: Koutetsu Yousai Strahl | 147107 | [147107-arcade-archives-koutetsu-yousai-strahl.json](./147107-arcade-archives-koutetsu-yousai-strahl.json) |
+| Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
@@ -8909,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
+| Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
@@ -8974,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pinball | 86706 | [86706-arcade-pinball.json](./86706-arcade-pinball.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
+| Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
@@ -9060,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Arts Academy | 150269 | [150269-arcane-arts-academy.json](./150269-arcane-arts-academy.json) |
 | Arcane Arts Academy 2 | 217989 | [217989-arcane-arts-academy-2.json](./217989-arcane-arts-academy-2.json) |
 | Arcane Arts: Sorcerer's Quest | 385316 | [385316-arcane-arts-sorcerers-quest.json](./385316-arcane-arts-sorcerers-quest.json) |
+| Arcane Ascent | 337966 | [337966-arcane-ascent.json](./337966-arcane-ascent.json) |
 | Arcane Assault | 343753 | [343753-arcane-assault.json](./343753-arcane-assault.json) |
 | Arcane Assembly | 244492 | [244492-arcane-assembly.json](./244492-arcane-assembly.json) |
 | Arcane Audit | 248888 | [248888-arcane-audit.json](./248888-arcane-audit.json) |
@@ -9095,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Quest Adventures | 321498 | [321498-arcane-quest-adventures.json](./321498-arcane-quest-adventures.json) |
 | Arcane Quest HD | 129598 | [129598-arcane-quest-hd.json](./129598-arcane-quest-hd.json) |
 | Arcane Quest Legends | 129600 | [129600-arcane-quest-legends.json](./129600-arcane-quest-legends.json) |
+| Arcane Raiders | 337967 | [337967-arcane-raiders.json](./337967-arcane-raiders.json) |
 | Arcane Raise: Deluxe Edition | 52595 | [52595-arcane-raise-deluxe-edition.json](./52595-arcane-raise-deluxe-edition.json) |
 | Arcane Re-Raise | 29258 | [29258-arcane-re-raise.json](./29258-arcane-re-raise.json) |
 | Arcane ReRaise: Deluxe Edition | 52594 | [52594-arcane-reraise-deluxe-edition.json](./52594-arcane-reraise-deluxe-edition.json) |
@@ -9141,6 +9153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
 | ArcaPinball: NeoWorlds | 146892 | [146892-arcapinball-neoworlds.json](./146892-arcapinball-neoworlds.json) |
+| ArcArg | 337968 | [337968-arcarg.json](./337968-arcarg.json) |
 | Arcas Champions | 336158 | [336158-arcas-champions.json](./336158-arcas-champions.json) |
 | Arcatera: The Dark Brotherhood | 24134 | [24134-arcatera-the-dark-brotherhood.json](./24134-arcatera-the-dark-brotherhood.json) |
 | Arcatopia | 194014 | [194014-arcatopia.json](./194014-arcatopia.json) |
@@ -9160,9 +9173,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archa | 342117 | [342117-archa.json](./342117-archa.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
 | Archaeology: Egypt | 371480 | [371480-archaeology-egypt.json](./371480-archaeology-egypt.json) |
+| Archaeology: Frozen Knights | 337969 | [337969-archaeology-frozen-knights.json](./337969-archaeology-frozen-knights.json) |
+| Archaeology: Frozen Village | 337970 | [337970-archaeology-frozen-village.json](./337970-archaeology-frozen-village.json) |
+| Archaeology: Frozen Wall | 337971 | [337971-archaeology-frozen-wall.json](./337971-archaeology-frozen-wall.json) |
 | Archaeology: Grass Farm | 368559 | [368559-archaeology-grass-farm.json](./368559-archaeology-grass-farm.json) |
 | Archaeology: Grass Kingdom | 368562 | [368562-archaeology-grass-kingdom.json](./368562-archaeology-grass-kingdom.json) |
+| Archaeology: Medieval | 337972 | [337972-archaeology-medieval.json](./337972-archaeology-medieval.json) |
+| Archaeology: Post-Apocalypse | 337973 | [337973-archaeology-post-apocalypse.json](./337973-archaeology-post-apocalypse.json) |
 | Archaeology: Sand Fantasy | 326174 | [326174-archaeology-sand-fantasy.json](./326174-archaeology-sand-fantasy.json) |
+| Archaeology: Sand Japanese | 337974 | [337974-archaeology-sand-japanese.json](./337974-archaeology-sand-japanese.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
@@ -10037,7 +10056,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World | 51092 | [51092-around-the-world.json](./51092-around-the-world.json) |
 | Around The World | 348936 | [348936-around-the-world.json](./348936-around-the-world.json) |
 | Around the World 2 with the Johnson Family | 357421 | [357421-around-the-world-2-with-the-johnson-family.json](./357421-around-the-world-2-with-the-johnson-family.json) |
+| Around the World 3: Amazing Countries | 338046 | [338046-around-the-world-3-amazing-countries.json](./338046-around-the-world-3-amazing-countries.json) |
 | Around the World 3: Amazing Countries - Collector's Edition | 345673 | [345673-around-the-world-3-amazing-countries-collectors-edition.json](./345673-around-the-world-3-amazing-countries-collectors-edition.json) |
+| Around the World 5: Beautiful America | 338045 | [338045-around-the-world-5-beautiful-america.json](./338045-around-the-world-5-beautiful-america.json) |
 | Around the World 5: Beautiful America - Collector's Edition | 363162 | [363162-around-the-world-5-beautiful-america-collectors-edition.json](./363162-around-the-world-5-beautiful-america-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
