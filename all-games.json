@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T08:31:23.503Z",
-  "total_soundtracks": 2153,
+  "generated_at": "2026-10-18T08:31:30.242Z",
+  "total_soundtracks": 2154,
   "games": [
     {
       "igdb_id": 7522,
@@ -12941,6 +12941,20 @@
         {
           "album_name": "Lumino City (The Official Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0GBB1OjjksPBDEOUI7N1oc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 56463,
+      "game_name": "Luna: The Shadow Dust",
+      "game_url": "https://ostdb.net/games/luna-the-shadow-dust",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379beee0842bab0f8ae6c9c93",
+      "albums": [
+        {
+          "album_name": "LUNA The Shadow Dust (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4iLA3HNEJCkDHydvPmK8By",
           "apple_music_url": "",
           "album_link_url": ""
         }
