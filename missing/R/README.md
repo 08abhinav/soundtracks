@@ -1081,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
+| Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
 | Rakoo & Friends | 85360 | [85360-rakoo-and-friends.json](./85360-rakoo-and-friends.json) |
@@ -1257,6 +1258,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RampageRunner | 341310 | [341310-rampagerunner.json](./341310-rampagerunner.json) |
 | Rampallians | 406854 | [406854-rampallians.json](./406854-rampallians.json) |
 | Rampancy | 408131 | [408131-rampancy.json](./408131-rampancy.json) |
+| Rampart | 341282 | [341282-rampart.json](./341282-rampart.json) |
+| Rampart | 341283 | [341283-rampart.json](./341283-rampart.json) |
 | Rampart | 341655 | [341655-rampart.json](./341655-rampart.json) |
 | Rampart | 9684 | [9684-rampart.json](./9684-rampart.json) |
 | Rampart Tactics | 118240 | [118240-rampart-tactics.json](./118240-rampart-tactics.json) |
@@ -2323,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of the Haunting | 844 | [844-realms-of-the-haunting.json](./844-realms-of-the-haunting.json) |
 | Realms of Wilorth | 250871 | [250871-realms-of-wilorth.json](./250871-realms-of-wilorth.json) |
 | Realms VR | 164241 | [164241-realms-vr.json](./164241-realms-vr.json) |
+| RealmScape | 341305 | [341305-realmscape.json](./341305-realmscape.json) |
 | Realmstone | 118980 | [118980-realmstone.json](./118980-realmstone.json) |
 | Realmweaver | 291192 | [291192-realmweaver.json](./291192-realmweaver.json) |
 | realMyst | 16198 | [16198-realmyst.json](./16198-realmyst.json) |
@@ -3514,6 +3518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remedy | 150516 | [150516-remedy.json](./150516-remedy.json) |
 | Remedy | 202325 | [202325-remedy.json](./202325-remedy.json) |
 | Remember | 128320 | [128320-remember.json](./128320-remember.json) |
+| Remember Easter | 341380 | [341380-remember-easter.json](./341380-remember-easter.json) |
 | Remember Mary | 177961 | [177961-remember-mary.json](./177961-remember-mary.json) |
 | Remember Me | 372230 | [372230-remember-me.json](./372230-remember-me.json) |
 | Remember Me Before Andromeda | 364366 | [364366-remember-me-before-andromeda.json](./364366-remember-me-before-andromeda.json) |
