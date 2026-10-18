@@ -3086,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
+| AgarIO Hub Rebirth | 329413 | [329413-agario-hub-rebirth.json](./329413-agario-hub-rebirth.json) |
 | Agartha | 145519 | [145519-agartha.json](./145519-agartha.json) |
 | Agartha Platform 81!: City of Angels | 400499 | [400499-agartha-platform-81-city-of-angels.json](./400499-agartha-platform-81-city-of-angels.json) |
 | Agartha-S | 111653 | [111653-agartha-s.json](./111653-agartha-s.json) |
@@ -8713,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Fighter & Attacker | 304280 | [304280-arcade-archives-fighter-and-attacker.json](./304280-arcade-archives-fighter-and-attacker.json) |
 | Arcade Archives: Fighting Hawk | 200579 | [200579-arcade-archives-fighting-hawk.json](./200579-arcade-archives-fighting-hawk.json) |
 | Arcade Archives: Final Blow | 322833 | [322833-arcade-archives-final-blow.json](./322833-arcade-archives-final-blow.json) |
+| Arcade Archives: Final Star Force | 329436 | [329436-arcade-archives-final-star-force.json](./329436-arcade-archives-final-star-force.json) |
 | Arcade Archives: Finalizer Super Transformation | 315828 | [315828-arcade-archives-finalizer-super-transformation.json](./315828-arcade-archives-finalizer-super-transformation.json) |
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
@@ -10313,6 +10315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
+| Artifact Seeker | 329438 | [329438-artifact-seeker.json](./329438-artifact-seeker.json) |
 | Artifact Seeker: DLC 1 - The Legacy of Mortia | 314624 | [314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json](./314624-artifact-seeker-dlc-1-the-legacy-of-mortia.json) |
 | Artifact Seeker: Legend of Aurorium | 260298 | [260298-artifact-seeker-legend-of-aurorium.json](./260298-artifact-seeker-legend-of-aurorium.json) |
 | Artifact Seekers | 366306 | [366306-artifact-seekers.json](./366306-artifact-seekers.json) |
@@ -12295,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australian Football Coach 2019 | 119883 | [119883-australian-football-coach-2019.json](./119883-australian-football-coach-2019.json) |
 | Australian Idol Sing | 71766 | [71766-australian-idol-sing.json](./71766-australian-idol-sing.json) |
 | Australian Maze | 273356 | [273356-australian-maze.json](./273356-australian-maze.json) |
+| Australian Open VR | 329418 | [329418-australian-open-vr.json](./329418-australian-open-vr.json) |
 | Australian Road Trains | 119596 | [119596-australian-road-trains.json](./119596-australian-road-trains.json) |
 | Australiove | 181795 | [181795-australiove.json](./181795-australiove.json) |
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
