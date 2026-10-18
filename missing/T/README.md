@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
+| TerraScape: Ancient Egypt | 357004 | [357004-terrascape-ancient-egypt.json](./357004-terrascape-ancient-egypt.json) |
 | Terraspace | 356046 | [356046-terraspace.json](./356046-terraspace.json) |
 | TerraStorm | 289314 | [289314-terrastorm.json](./289314-terrastorm.json) |
 | TerraTech Legion | 348307 | [348307-terratech-legion.json](./348307-terratech-legion.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tested With Robots! | 85433 | [85433-tested-with-robots.json](./85433-tested-with-robots.json) |
 | Tester | 397704 | [397704-tester.json](./397704-tester.json) |
 | Tester Phase One | 98809 | [98809-tester-phase-one.json](./98809-tester-phase-one.json) |
+| Tester Wanted | 357040 | [357040-tester-wanted.json](./357040-tester-wanted.json) |
 | Testimonies | 370878 | [370878-testimonies.json](./370878-testimonies.json) |
 | Testimonium | 371060 | [371060-testimonium.json](./371060-testimonium.json) |
 | Testimony of Help | 268228 | [268228-testimony-of-help.json](./268228-testimony-of-help.json) |
@@ -4133,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alehouse Tavern Chronicles | 335074 | [335074-the-alehouse-tavern-chronicles.json](./335074-the-alehouse-tavern-chronicles.json) |
 | The Alfonzone | 256890 | [256890-the-alfonzone.json](./256890-the-alfonzone.json) |
 | The Alien Cube: Deluxe Edition | 227188 | [227188-the-alien-cube-deluxe-edition.json](./227188-the-alien-cube-deluxe-edition.json) |
+| The Alien Device | 357098 | [357098-the-alien-device.json](./357098-the-alien-device.json) |
 | The Alien Island: 3D-Version | 174636 | [174636-the-alien-island-3d-version.json](./174636-the-alien-island-3d-version.json) |
 | The Alien Trials | 149578 | [149578-the-alien-trials.json](./149578-the-alien-trials.json) |
 | The Alliance Alive | 25068 | [25068-the-alliance-alive.json](./25068-the-alliance-alive.json) |
@@ -11751,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shooting Maguro | 156024 | [156024-the-shooting-maguro.json](./156024-the-shooting-maguro.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
+| The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
 | The Short Trip | 328973 | [328973-the-short-trip.json](./328973-the-short-trip.json) |
@@ -22593,6 +22597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Town | 212702 | [212702-trouble-town.json](./212702-trouble-town.json) |
 | Trouble Travel TT | 114843 | [114843-trouble-travel-tt.json](./114843-trouble-travel-tt.json) |
 | Trouble Witches Episode 1 Daughters of Amalgam | 381300 | [381300-trouble-witches-episode-1-daughters-of-amalgam.json](./381300-trouble-witches-episode-1-daughters-of-amalgam.json) |
+| Trouble Witches Final!: Cotton & Silk DLC | 357025 | [357025-trouble-witches-final-cotton-and-silk-dlc.json](./357025-trouble-witches-final-cotton-and-silk-dlc.json) |
 | Trouble Zone | 92403 | [92403-trouble-zone.json](./92403-trouble-zone.json) |
 | Troubled Waters | 187221 | [187221-troubled-waters.json](./187221-troubled-waters.json) |
 | Troubled Waters | 352254 | [352254-troubled-waters.json](./352254-troubled-waters.json) |
