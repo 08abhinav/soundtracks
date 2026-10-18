@@ -1892,7 +1892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves Running Simulator | 195125 | [195125-waves-running-simulator.json](./195125-waves-running-simulator.json) |
 | Waves Running Simulator | 246882 | [246882-waves-running-simulator.json](./246882-waves-running-simulator.json) |
 | Waves: Arena Tactics | 93630 | [93630-waves-arena-tactics.json](./93630-waves-arena-tactics.json) |
-| Wavetale | 165309 | [165309-wavetale.json](./165309-wavetale.json) |
 | WaveTiles | 149240 | [149240-wavetiles.json](./149240-wavetiles.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
