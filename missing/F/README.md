@@ -7149,6 +7149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forgery Craft | 276210 | [276210-forgery-craft.json](./276210-forgery-craft.json) |
+| Forget | 313530 | [313530-forget.json](./313530-forget.json) |
 | Forget Me Not: Palette | 64474 | [64474-forget-me-not-palette.json](./64474-forget-me-not-palette.json) |
 | Forget Something? | 295156 | [295156-forget-something.json](./295156-forget-something.json) |
 | Forget the Brakes | 134604 | [134604-forget-the-brakes.json](./134604-forget-the-brakes.json) |
