@@ -1835,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsukoi! | 122109 | [122109-hatsukoi.json](./122109-hatsukoi.json) |
 | Hatsune Miku Amiguru Jump | 228454 | [228454-hatsune-miku-amiguru-jump.json](./228454-hatsune-miku-amiguru-jump.json) |
 | Hatsune Miku and Future Stars: Project Mirai | 6805 | [6805-hatsune-miku-and-future-stars-project-mirai.json](./6805-hatsune-miku-and-future-stars-project-mirai.json) |
+| Hatsune Miku Bomb Squad! | 312961 | [312961-hatsune-miku-bomb-squad.json](./312961-hatsune-miku-bomb-squad.json) |
 | Hatsune Miku Connecting Puzzle Tamagotori: Kagamine Rin / Len Happy 14th Birthday | 213300 | [213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json](./213300-hatsune-miku-connecting-puzzle-tamagotori-kagamine-rin-len-happy-14th-birthday.json) |
 | Hatsune Miku Jigsaw Puzzle | 194617 | [194617-hatsune-miku-jigsaw-puzzle.json](./194617-hatsune-miku-jigsaw-puzzle.json) |
 | Hatsune Miku Logic Paint | 144758 | [144758-hatsune-miku-logic-paint.json](./144758-hatsune-miku-logic-paint.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | here AND there | 118252 | [118252-here-and-there.json](./118252-here-and-there.json) |
 | Here and There Along the Echo | 74392 | [74392-here-and-there-along-the-echo.json](./74392-here-and-there-along-the-echo.json) |
 | Here Be Dragons | 110355 | [110355-here-be-dragons.json](./110355-here-be-dragons.json) |
+| Here Be No Sirens | 312949 | [312949-here-be-no-sirens.json](./312949-here-be-no-sirens.json) |
 | Here Comes Niko! | 142405 | [142405-here-comes-niko.json](./142405-here-comes-niko.json) |
 | Here Comes the Bride | 82174 | [82174-here-comes-the-bride.json](./82174-here-comes-the-bride.json) |
 | Here Comes the Horde | 420511 | [420511-here-comes-the-horde.json](./420511-here-comes-the-horde.json) |
