@@ -161,6 +161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Lab Remnants | 188367 | [188367-lab-remnants.json](./188367-lab-remnants.json) |
+| Lab Run | 354888 | [354888-lab-run.json](./354888-lab-run.json) |
 | Lab Runner: X | 126437 | [126437-lab-runner-x.json](./126437-lab-runner-x.json) |
 | Lab.Ar | 247955 | [247955-lab-ar.json](./247955-lab-ar.json) |
 | Lab.Gen. | 108372 | [108372-lab-gen.json](./108372-lab-gen.json) |
