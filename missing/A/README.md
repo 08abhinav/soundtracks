@@ -4850,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Tribe 2 | 97309 | [97309-alien-tribe-2.json](./97309-alien-tribe-2.json) |
 | Alien Up | 230963 | [230963-alien-up.json](./230963-alien-up.json) |
 | Alien Vendetta | 134559 | [134559-alien-vendetta.json](./134559-alien-vendetta.json) |
+| Alien Video Game Scientist | 320595 | [320595-alien-video-game-scientist.json](./320595-alien-video-game-scientist.json) |
 | Alien Virus | 147371 | [147371-alien-virus.json](./147371-alien-virus.json) |
 | Alien vs Predator | 8477 | [8477-alien-vs-predator.json](./8477-alien-vs-predator.json) |
 | Alien vs Predator: The Last of His Clan | 48965 | [48965-alien-vs-predator-the-last-of-his-clan.json](./48965-alien-vs-predator-the-last-of-his-clan.json) |
@@ -9012,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Love: Plus Pengo! | 120285 | [120285-arcade-love-plus-pengo.json](./120285-arcade-love-plus-pengo.json) |
 | Arcade Machine: Clown Hunt | 232991 | [232991-arcade-machine-clown-hunt.json](./232991-arcade-machine-clown-hunt.json) |
 | Arcade Machine: Gopher's Revenge | 224986 | [224986-arcade-machine-gophers-revenge.json](./224986-arcade-machine-gophers-revenge.json) |
+| Arcade Manager | 320602 | [320602-arcade-manager.json](./320602-arcade-manager.json) |
 | Arcade Maniac | 178965 | [178965-arcade-maniac.json](./178965-arcade-maniac.json) |
 | Arcade Master | 202866 | [202866-arcade-master.json](./202866-arcade-master.json) |
 | Arcade Master | 206139 | [206139-arcade-master.json](./206139-arcade-master.json) |
@@ -11279,6 +11281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Outcast | 298246 | [298246-astral-outcast.json](./298246-astral-outcast.json) |
 | Astral Party | 270039 | [270039-astral-party.json](./270039-astral-party.json) |
 | Astral Planes | 365821 | [365821-astral-planes.json](./365821-astral-planes.json) |
+| Astral Pursuit | 320601 | [320601-astral-pursuit.json](./320601-astral-pursuit.json) |
 | Astral Quester | 265590 | [265590-astral-quester.json](./265590-astral-quester.json) |
 | Astral Rift | 293000 | [293000-astral-rift.json](./293000-astral-rift.json) |
 | Astral Sanctum | 347770 | [347770-astral-sanctum.json](./347770-astral-sanctum.json) |
