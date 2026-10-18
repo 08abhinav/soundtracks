@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
 | Dark Tank | 320836 | [320836-dark-tank.json](./320836-dark-tank.json) |
+| Dark Tap RPG | 327660 | [327660-dark-tap-rpg.json](./327660-dark-tap-rpg.json) |
 | Dark Tartarus | 260950 | [260950-dark-tartarus.json](./260950-dark-tartarus.json) |
 | Dark Temple | 164569 | [164569-dark-temple.json](./164569-dark-temple.json) |
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
@@ -8399,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki AI Interrogation | 291380 | [291380-doki-doki-ai-interrogation.json](./291380-doki-doki-ai-interrogation.json) |
 | Doki Doki Another Moment With You | 333604 | [333604-doki-doki-another-moment-with-you.json](./333604-doki-doki-another-moment-with-you.json) |
 | Doki Doki Another Round | 334267 | [334267-doki-doki-another-round.json](./334267-doki-doki-another-round.json) |
+| Doki Doki Brazilian Club | 327644 | [327644-doki-doki-brazilian-club.json](./327644-doki-doki-brazilian-club.json) |
 | Doki Doki Brazilian Club Puts! | 332837 | [332837-doki-doki-brazilian-club-puts.json](./332837-doki-doki-brazilian-club-puts.json) |
 | Doki Doki But an Old Dog Tries To Learn New Tricks and The Literature Club Tries to Help It: A Dog Story | 334280 | [334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json](./334280-doki-doki-but-an-old-dog-tries-to-learn-new-tricks-and-the-literature-club-tries-to-help-it-a-dog-story.json) |
 | Doki Doki Card League | 62429 | [62429-doki-doki-card-league.json](./62429-doki-doki-card-league.json) |
@@ -9560,6 +9562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Story of Seasons: Friends of the Great Kingdom - The Life of Insects | 231280 | [231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json](./231280-doraemon-story-of-seasons-friends-of-the-great-kingdom-the-life-of-insects.json) |
 | Doraemon Story of Seasons: Friends of the Great Kingdom - Together with Animals | 241321 | [241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json](./241321-doraemon-story-of-seasons-friends-of-the-great-kingdom-together-with-animals.json) |
 | Doraemon Tanoshii Enseikatsu Youchien Hoikuen | 313284 | [313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json](./313284-doraemon-tanoshii-enseikatsu-youchien-hoikuen.json) |
+| Doraemon Tanoshiku o-Keiko Hiragana Katakana | 327574 | [327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json](./327574-doraemon-tanoshiku-o-keiko-hiragana-katakana.json) |
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
@@ -9878,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsu no Mori+ Card-e: Series 1 | 356635 | [356635-doubutsu-no-mori-card-e-series-1.json](./356635-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori+: Super Mario Bros | 360585 | [360585-doubutsu-no-mori-super-mario-bros.json](./360585-doubutsu-no-mori-super-mario-bros.json) |
 | Doubutsu no Shima no Chobi Gurumi | 49264 | [49264-doubutsu-no-shima-no-chobi-gurumi.json](./49264-doubutsu-no-shima-no-chobi-gurumi.json) |
+| Doubutsu-jima no Chobigurumi 2: Tama-chan Monogatari | 327642 | [327642-doubutsu-jima-no-chobigurumi-2-tama-chan-monogatari.json](./327642-doubutsu-jima-no-chobigurumi-2-tama-chan-monogatari.json) |
 | Doubutsu-tachi no Mori | 150572 | [150572-doubutsu-tachi-no-mori.json](./150572-doubutsu-tachi-no-mori.json) |
 | Doubutsujima no Chubi Gurumi 2: Tama-chan Monogatari | 49263 | [49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json](./49263-doubutsujima-no-chubi-gurumi-2-tama-chan-monogatari.json) |
 | Doubutsurishii SP | 354374 | [354374-doubutsurishii-sp.json](./354374-doubutsurishii-sp.json) |
