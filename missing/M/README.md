@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
 | Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
+| Mario Left the Garage Door Open Again! | 343032 | [343032-mario-left-the-garage-door-open-again.json](./343032-mario-left-the-garage-door-open-again.json) |
 | Mario Lost In Space | 384109 | [384109-mario-lost-in-space.json](./384109-mario-lost-in-space.json) |
 | Mario Mania | 218089 | [218089-mario-mania.json](./218089-mario-mania.json) |
 | Mario Motors | 231507 | [231507-mario-motors.json](./231507-mario-motors.json) |
@@ -8044,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Memoria | 403160 | [403160-midnight-memoria.json](./403160-midnight-memoria.json) |
 | Midnight Memories | 207747 | [207747-midnight-memories.json](./207747-midnight-memories.json) |
 | Midnight Memories: Sonata of the Soul | 311278 | [311278-midnight-memories-sonata-of-the-soul.json](./311278-midnight-memories-sonata-of-the-soul.json) |
+| Midnight Munchies | 343056 | [343056-midnight-munchies.json](./343056-midnight-munchies.json) |
 | Midnight Murder Club | 312282 | [312282-midnight-murder-club.json](./312282-midnight-murder-club.json) |
 | Midnight Murder Maze | 365255 | [365255-midnight-murder-maze.json](./365255-midnight-murder-maze.json) |
 | Midnight Mutants | 12335 | [12335-midnight-mutants.json](./12335-midnight-mutants.json) |
@@ -10187,6 +10189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MK5 Mortal Kombat: Sub-Zero | 155515 | [155515-mk5-mortal-kombat-sub-zero.json](./155515-mk5-mortal-kombat-sub-zero.json) |
 | Mk50TWL Vehicle Battler Custom Slider | 407420 | [407420-mk50twl-vehicle-battler-custom-slider.json](./407420-mk50twl-vehicle-battler-custom-slider.json) |
 | MKDD Extended v2.0 | 294564 | [294564-mkdd-extended-v2-0.json](./294564-mkdd-extended-v2-0.json) |
+| Mkhmkh | 343037 | [343037-mkhmkh.json](./343037-mkhmkh.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
