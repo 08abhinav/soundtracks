@@ -3623,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
+| Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
 | Interplanetary Voyage | 41541 | [41541-interplanetary-voyage.json](./41541-interplanetary-voyage.json) |
 | Interplay Collection 1 | 130816 | [130816-interplay-collection-1.json](./130816-interplay-collection-1.json) |
 | Interplay Collection 2 | 130687 | [130687-interplay-collection-2.json](./130687-interplay-collection-2.json) |
