@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JermaSlots | 138008 | [138008-jermaslots.json](./138008-jermaslots.json) |
 | Jerod Kart 64 | 300263 | [300263-jerod-kart-64.json](./300263-jerod-kart-64.json) |
 | Jerry and the Mystery Loot Box | 83564 | [83564-jerry-and-the-mystery-loot-box.json](./83564-jerry-and-the-mystery-loot-box.json) |
+| Jerry Anker and the Quest to get Love | 324195 | [324195-jerry-anker-and-the-quest-to-get-love.json](./324195-jerry-anker-and-the-quest-to-get-love.json) |
 | Jerry Glanville's Pigskin Footbrawl | 46188 | [46188-jerry-glanvilles-pigskin-footbrawl.json](./46188-jerry-glanvilles-pigskin-footbrawl.json) |
 | Jerry Jobhopper | 122174 | [122174-jerry-jobhopper.json](./122174-jerry-jobhopper.json) |
 | Jerry McPartlin: Rebel with a Cause | 286508 | [286508-jerry-mcpartlin-rebel-with-a-cause.json](./286508-jerry-mcpartlin-rebel-with-a-cause.json) |
@@ -1639,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jitsuryoku!! Pro Yakyuu | 40211 | [40211-jitsuryoku-pro-yakyuu.json](./40211-jitsuryoku-pro-yakyuu.json) |
 | Jitsuwa Kaidan: Shinmimi Bokuro - Ichi no Shou | 59370 | [59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json](./59370-jitsuwa-kaidan-shinmimi-bokuro-ichi-no-shou.json) |
 | Jitter | 298668 | [298668-jitter.json](./298668-jitter.json) |
+| Jitter Games | 324147 | [324147-jitter-games.json](./324147-jitter-games.json) |
 | Jītuì Guàishòu | 114957 | [114957-jitui-guaishou.json](./114957-jitui-guaishou.json) |
 | Jiǔdiàn | 109864 | [109864-jiudian.json](./109864-jiudian.json) |
 | Jiǔguǎn Zhànzhēng | 414119 | [414119-jiuguan-zhanzheng.json](./414119-jiuguan-zhanzheng.json) |
