@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caila Raven: And The Black Book | 315565 | [315565-caila-raven-and-the-black-book.json](./315565-caila-raven-and-the-black-book.json) |
 | Caila Raven: The Bard Tears | 315572 | [315572-caila-raven-the-bard-tears.json](./315572-caila-raven-the-bard-tears.json) |
 | Caillou | 282059 | [282059-caillou.json](./282059-caillou.json) |
+| Caillou Bowling | 321231 | [321231-caillou-bowling.json](./321231-caillou-bowling.json) |
 | Caillou: Four Seasons of Fun | 137020 | [137020-caillou-four-seasons-of-fun.json](./137020-caillou-four-seasons-of-fun.json) |
 | Caillou: Magic Playhouse | 73885 | [73885-caillou-magic-playhouse.json](./73885-caillou-magic-playhouse.json) |
 | Caillou: Ready to Read | 206700 | [206700-caillou-ready-to-read.json](./206700-caillou-ready-to-read.json) |
@@ -9030,6 +9031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
 | Combination Pro Soccer | 64877 | [64877-combination-pro-soccer.json](./64877-combination-pro-soccer.json) |
 | CombinationVille | 334545 | [334545-combinationville.json](./334545-combinationville.json) |
+| Combine 2 Pumpkins | 321210 | [321210-combine-2-pumpkins.json](./321210-combine-2-pumpkins.json) |
 | Combine Destiny | 222417 | [222417-combine-destiny.json](./222417-combine-destiny.json) |
 | Combine War Toys | 111029 | [111029-combine-war-toys.json](./111029-combine-war-toys.json) |
 | Combine! Dino Robot - Dino Corps | 90971 | [90971-combine-dino-robot-dino-corps.json](./90971-combine-dino-robot-dino-corps.json) |
@@ -12576,6 +12578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crisp's Charging Challenge | 214051 | [214051-crisps-charging-challenge.json](./214051-crisps-charging-challenge.json) |
 | Crispy Cheese | 218148 | [218148-crispy-cheese.json](./218148-crispy-cheese.json) |
 | Crispy Chicken Speedmap Session 02 | 312892 | [312892-crispy-chicken-speedmap-session-02.json](./312892-crispy-chicken-speedmap-session-02.json) |
+| Crispy Chicken Speedmap Session 04 | 321202 | [321202-crispy-chicken-speedmap-session-04.json](./321202-crispy-chicken-speedmap-session-04.json) |
 | Crispy Chicken Speedmap Session 5: Paint It Doom | 323912 | [323912-crispy-chicken-speedmap-session-5-paint-it-doom.json](./323912-crispy-chicken-speedmap-session-5-paint-it-doom.json) |
 | Crispy Kart | 391771 | [391771-crispy-kart.json](./391771-crispy-kart.json) |
 | Crispy Puppy | 226350 | [226350-crispy-puppy.json](./226350-crispy-puppy.json) |
@@ -14317,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
+| Curvelicious | 321223 | [321223-curvelicious.json](./321223-curvelicious.json) |
 | Curves | 118234 | [118234-curves.json](./118234-curves.json) |
 | Curvid Nurntine and the Black Vaccine | 379713 | [379713-curvid-nurntine-and-the-black-vaccine.json](./379713-curvid-nurntine-and-the-black-vaccine.json) |
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
