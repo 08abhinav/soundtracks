@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignatius | 169375 | [169375-ignatius.json](./169375-ignatius.json) |
 | Ignatius: Reunited | 235164 | [235164-ignatius-reunited.json](./235164-ignatius-reunited.json) |
 | Igneous | 91830 | [91830-igneous.json](./91830-igneous.json) |
+| Ignifugo | 362020 | [362020-ignifugo.json](./362020-ignifugo.json) |
 | Ignis | 294170 | [294170-ignis.json](./294170-ignis.json) |
 | Ignis | 81748 | [81748-ignis.json](./81748-ignis.json) |
 | Ignis - Brain Teasing Puzzle Game | 105843 | [105843-ignis-brain-teasing-puzzle-game.json](./105843-ignis-brain-teasing-puzzle-game.json) |
