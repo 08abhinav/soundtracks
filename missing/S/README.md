@@ -3783,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
+| Self Destruct | 358635 | [358635-self-destruct.json](./358635-self-destruct.json) |
 | Self Gunsbase | 149386 | [149386-self-gunsbase.json](./149386-self-gunsbase.json) |
 | Self Made Man: Life of an Entrepreneur | 204937 | [204937-self-made-man-life-of-an-entrepreneur.json](./204937-self-made-man-life-of-an-entrepreneur.json) |
 | Self Portrait (Interior) | 180512 | [180512-self-portrait-interior.json](./180512-self-portrait-interior.json) |
@@ -10697,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Bears VR | 68272 | [68272-sneaky-bears-vr.json](./68272-sneaky-bears-vr.json) |
 | Sneaky Beings | 301061 | [301061-sneaky-beings.json](./301061-sneaky-beings.json) |
 | Sneaky Bimbuls | 406134 | [406134-sneaky-bimbuls.json](./406134-sneaky-bimbuls.json) |
+| Sneaky Claws | 358649 | [358649-sneaky-claws.json](./358649-sneaky-claws.json) |
 | Sneaky Fishy | 419369 | [419369-sneaky-fishy.json](./419369-sneaky-fishy.json) |
 | Sneaky Kitten | 156650 | [156650-sneaky-kitten.json](./156650-sneaky-kitten.json) |
 | Sneaky Monsters | 251540 | [251540-sneaky-monsters.json](./251540-sneaky-monsters.json) |
@@ -21139,6 +21141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
+| Sugoi Girls: Firefighter Love | 358650 | [358650-sugoi-girls-firefighter-love.json](./358650-sugoi-girls-firefighter-love.json) |
 | Sugoi Girls: Kinky Knight | 308492 | [308492-sugoi-girls-kinky-knight.json](./308492-sugoi-girls-kinky-knight.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
@@ -22037,6 +22040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dapper Man vs. Furries | 310215 | [310215-super-dapper-man-vs-furries.json](./310215-super-dapper-man-vs-furries.json) |
 | Super Darius II | 37641 | [37641-super-darius-ii.json](./37641-super-darius-ii.json) |
 | Super Dark Deception | 224549 | [224549-super-dark-deception.json](./224549-super-dark-deception.json) |
+| Super Darling Panic | 358651 | [358651-super-darling-panic.json](./358651-super-darling-panic.json) |
 | Super Darts | 223903 | [223903-super-darts.json](./223903-super-darts.json) |
 | Super Darts VR | 111720 | [111720-super-darts-vr.json](./111720-super-darts-vr.json) |
 | Super Daryl Deluxe | 21994 | [21994-super-daryl-deluxe.json](./21994-super-daryl-deluxe.json) |
