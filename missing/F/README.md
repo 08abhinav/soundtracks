@@ -8541,6 +8541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Zardy | 329149 | [329149-friday-night-funkin-vs-zardy.json](./329149-friday-night-funkin-vs-zardy.json) |
 | Friday Night Funkin': vs.Tails Doll | 275262 | [275262-friday-night-funkin-vs-tails-doll.json](./275262-friday-night-funkin-vs-tails-doll.json) |
 | Friday Night Funkin': Wednesday's Infidelity | 325668 | [325668-friday-night-funkin-wednesdays-infidelity.json](./325668-friday-night-funkin-wednesdays-infidelity.json) |
+| Friday Night Knockout | 357671 | [357671-friday-night-knockout.json](./357671-friday-night-knockout.json) |
 | Friday Night Pikmin | 308375 | [308375-friday-night-pikmin.json](./308375-friday-night-pikmin.json) |
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday Night Trepidation | 231470 | [231470-friday-night-trepidation.json](./231470-friday-night-trepidation.json) |
