@@ -6618,6 +6618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Morph | 165519 | [165519-black-morph.json](./165519-black-morph.json) |
 | Black My White | 334763 | [334763-black-my-white.json](./334763-black-my-white.json) |
 | Black My White Again | 334764 | [334764-black-my-white-again.json](./334764-black-my-white-again.json) |
+| Black Myth: Destiny Man | 320608 | [320608-black-myth-destiny-man.json](./320608-black-myth-destiny-man.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
 | Black Noir | 133147 | [133147-black-noir.json](./133147-black-noir.json) |
@@ -13133,6 +13134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher of the North | 379043 | [379043-butcher-of-the-north.json](./379043-butcher-of-the-north.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
+| Butcherbird | 320620 | [320620-butcherbird.json](./320620-butcherbird.json) |
 | ButcherBox | 116105 | [116105-butcherbox.json](./116105-butcherbox.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
