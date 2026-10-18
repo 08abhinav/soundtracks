@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.M.Y.K | 135046 | [135046-c-m-y-k.json](./135046-c-m-y-k.json) |
 | C.O.D.E.R.E.D | 191034 | [191034-c-o-d-e-r-e-d.json](./191034-c-o-d-e-r-e-d.json) |
 | C.O.R.E. | 20977 | [20977-c-o-r-e.json](./20977-c-o-r-e.json) |
+| C.O.Ś. | 311360 | [311360-c-o-s.json](./311360-c-o-s.json) |
 | C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 2 | 296807 | [296807-chess-2.json](./296807-chess-2.json) |
 | Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
+| Chess 4 Uzebox | 311361 | [311361-chess-4-uzebox.json](./311361-chess-4-uzebox.json) |
 | Chess 432 | 403662 | [403662-chess-432.json](./403662-chess-432.json) |
 | Chess Ace | 147861 | [147861-chess-ace.json](./147861-chess-ace.json) |
 | Chess Advantage III | 23741 | [23741-chess-advantage-iii.json](./23741-chess-advantage-iii.json) |
@@ -6144,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
+| Chuckie Egg | 311365 | [311365-chuckie-egg.json](./311365-chuckie-egg.json) |
 | Chuckie Egg 2017 | 110122 | [110122-chuckie-egg-2017.json](./110122-chuckie-egg-2017.json) |
 | Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
 | Chuckie Egg II | 13495 | [13495-chuckie-egg-ii.json](./13495-chuckie-egg-ii.json) |
@@ -8942,6 +8945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Column Taker | 114962 | [114962-column-taker.json](./114962-column-taker.json) |
 | Columns | 117538 | [117538-columns.json](./117538-columns.json) |
 | Columns | 182891 | [182891-columns.json](./182891-columns.json) |
+| Columns | 311356 | [311356-columns.json](./311356-columns.json) |
 | Columns | 4446 | [4446-columns.json](./4446-columns.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
@@ -10657,6 +10661,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corral | 67525 | [67525-corral.json](./67525-corral.json) |
 | Correction | 271394 | [271394-correction.json](./271394-correction.json) |
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
+| Corrida Nebososa | 311339 | [311339-corrida-nebososa.json](./311339-corrida-nebososa.json) |
+| Corrida Nebososa 2 | 311340 | [311340-corrida-nebososa-2.json](./311340-corrida-nebososa-2.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
 | Corridor 7: Alien Invasion | 8689 | [8689-corridor-7-alien-invasion.json](./8689-corridor-7-alien-invasion.json) |
