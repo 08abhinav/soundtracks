@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
 | 101 Cats in Brussels | 408528 | [408528-101-cats-in-brussels.json](./408528-101-cats-in-brussels.json) |
 | 101 Cats in Budapest | 408529 | [408529-101-cats-in-budapest.json](./408529-101-cats-in-budapest.json) |
+| 101 Cats in Cancun | 337516 | [337516-101-cats-in-cancun.json](./337516-101-cats-in-cancun.json) |
 | 101 Cats in Chennai | 365159 | [365159-101-cats-in-chennai.json](./365159-101-cats-in-chennai.json) |
 | 101 Cats in Dublin | 397637 | [397637-101-cats-in-dublin.json](./397637-101-cats-in-dublin.json) |
 | 101 Cats in Florence | 397636 | [397636-101-cats-in-florence.json](./397636-101-cats-in-florence.json) |
@@ -636,6 +637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Rio de Janeiro | 397634 | [397634-101-cats-in-rio-de-janeiro.json](./397634-101-cats-in-rio-de-janeiro.json) |
 | 101 Cats in Saint Petersburg | 397635 | [397635-101-cats-in-saint-petersburg.json](./397635-101-cats-in-saint-petersburg.json) |
 | 101 Cats in Seoul | 374826 | [374826-101-cats-in-seoul.json](./374826-101-cats-in-seoul.json) |
+| 101 Cats in Shenzhen | 337515 | [337515-101-cats-in-shenzhen.json](./337515-101-cats-in-shenzhen.json) |
 | 101 Cats in Singapore | 326079 | [326079-101-cats-in-singapore.json](./326079-101-cats-in-singapore.json) |
 | 101 Cats in Sydney | 407533 | [407533-101-cats-in-sydney.json](./407533-101-cats-in-sydney.json) |
 | 101 Cats in Tokyo | 322089 | [322089-101-cats-in-tokyo.json](./322089-101-cats-in-tokyo.json) |
@@ -1546,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
 | 32, Dandelion Drift | 348227 | [348227-32-dandelion-drift.json](./348227-32-dandelion-drift.json) |
 | 32nd America's Cup: The Game | 72609 | [72609-32nd-americas-cup-the-game.json](./72609-32nd-americas-cup-the-game.json) |
+| 33 kvadratnykh metra: Voyna s sosedyami | 337520 | [337520-33-kvadratnykh-metra-voyna-s-sosedyami.json](./337520-33-kvadratnykh-metra-voyna-s-sosedyami.json) |
 | 33 Rounds | 126563 | [126563-33-rounds.json](./126563-33-rounds.json) |
 | 33 Seconds | 208056 | [208056-33-seconds.json](./208056-33-seconds.json) |
 | 34 Sports Games: World Edition | 297041 | [297041-34-sports-games-world-edition.json](./297041-34-sports-games-world-edition.json) |
