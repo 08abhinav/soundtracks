@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
+| Waffle Cone Willie | 311888 | [311888-waffle-cone-willie.json](./311888-waffle-cone-willie.json) |
 | Waffle House | 301335 | [301335-waffle-house.json](./301335-waffle-house.json) |
 | Waffle Painter | 383699 | [383699-waffle-painter.json](./383699-waffle-painter.json) |
 | Waffle Spin Ball | 360671 | [360671-waffle-spin-ball.json](./360671-waffle-spin-ball.json) |
