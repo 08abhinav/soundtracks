@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
+| Darkhaven | 359222 | [359222-darkhaven.json](./359222-darkhaven.json) |
 | Darkheart: Flight of the Harpies | 112741 | [112741-darkheart-flight-of-the-harpies.json](./112741-darkheart-flight-of-the-harpies.json) |
 | Darkheart: Flight of the Harpies - Collector's Edition | 339840 | [339840-darkheart-flight-of-the-harpies-collectors-edition.json](./339840-darkheart-flight-of-the-harpies-collectors-edition.json) |
 | DarkHill: Book of Shadow | 97214 | [97214-darkhill-book-of-shadow.json](./97214-darkhill-book-of-shadow.json) |
@@ -3616,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Chalk: Second Phase | 404175 | [404175-deep-chalk-second-phase.json](./404175-deep-chalk-second-phase.json) |
 | Deep Chalk: Third Phase | 404191 | [404191-deep-chalk-third-phase.json](./404191-deep-chalk-third-phase.json) |
 | Deep City 2030 | 110234 | [110234-deep-city-2030.json](./110234-deep-city-2030.json) |
+| Deep Collision | 359283 | [359283-deep-collision.json](./359283-deep-collision.json) |
 | Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
