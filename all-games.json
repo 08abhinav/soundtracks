@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:05:33.762Z",
-  "total_soundtracks": 2192,
+  "generated_at": "2026-10-18T17:05:41.613Z",
+  "total_soundtracks": 2193,
   "games": [
     {
       "igdb_id": 7522,
@@ -4827,6 +4827,20 @@
           "spotify_url": "https://open.spotify.com/album/6t52xmTI2t3h4Y3WI0YRwS",
           "apple_music_url": "https://music.apple.com/us/album/crypt-of-the-necrodancer-original-game-soundtrack/6792848550",
           "album_link_url": "https://album.link/i/6792848550"
+        }
+      ]
+    },
+    {
+      "igdb_id": 213029,
+      "game_name": "Cryptmaster",
+      "game_url": "https://ostdb.net/games/cryptmaster",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27321a8a68df0b388b2eeb0e0a5",
+      "albums": [
+        {
+          "album_name": "Cryptmaster (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6RAYgq0LB6DISPLxRczU1G",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
