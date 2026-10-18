@@ -4685,6 +4685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve of the Storm | 265558 | [265558-eve-of-the-storm.json](./265558-eve-of-the-storm.json) |
 | Eve Online: Apocrypha | 329789 | [329789-eve-online-apocrypha.json](./329789-eve-online-apocrypha.json) |
 | Eve Online: Ascension | 329910 | [329910-eve-online-ascension.json](./329910-eve-online-ascension.json) |
+| Eve Online: Citadel | 329907 | [329907-eve-online-citadel.json](./329907-eve-online-citadel.json) |
 | EVE Online: Commissioned Officer Edition | 209218 | [209218-eve-online-commissioned-officer-edition.json](./209218-eve-online-commissioned-officer-edition.json) |
 | Eve Online: Crucible | 329791 | [329791-eve-online-crucible.json](./329791-eve-online-crucible.json) |
 | Eve Online: Dominion | 329792 | [329792-eve-online-dominion.json](./329792-eve-online-dominion.json) |
@@ -4699,10 +4700,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Invasion | 118157 | [118157-eve-online-invasion.json](./118157-eve-online-invasion.json) |
 | Eve Online: Lifeblood | 74970 | [74970-eve-online-lifeblood.json](./74970-eve-online-lifeblood.json) |
 | Eve Online: New Dawn | 329927 | [329927-eve-online-new-dawn.json](./329927-eve-online-new-dawn.json) |
+| Eve Online: Odyssey | 329904 | [329904-eve-online-odyssey.json](./329904-eve-online-odyssey.json) |
 | Eve Online: Onslaught | 329913 | [329913-eve-online-onslaught.json](./329913-eve-online-onslaught.json) |
 | Eve Online: Reign | 329925 | [329925-eve-online-reign.json](./329925-eve-online-reign.json) |
 | Eve Online: Revelations | 21391 | [21391-eve-online-revelations.json](./21391-eve-online-revelations.json) |
 | Eve Online: Revenant | 329685 | [329685-eve-online-revenant.json](./329685-eve-online-revenant.json) |
+| Eve Online: Rubicon | 329906 | [329906-eve-online-rubicon.json](./329906-eve-online-rubicon.json) |
 | Eve Online: Special Edition | 329788 | [329788-eve-online-special-edition.json](./329788-eve-online-special-edition.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
