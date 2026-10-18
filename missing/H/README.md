@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
 | Haunted Casino | 68900 | [68900-haunted-casino.json](./68900-haunted-casino.json) |
 | Haunted Castle | 1117 | [1117-haunted-castle.json](./1117-haunted-castle.json) |
+| Haunted Castle | 315360 | [315360-haunted-castle.json](./315360-haunted-castle.json) |
 | Haunted Childhood | 73487 | [73487-haunted-childhood.json](./73487-haunted-childhood.json) |
 | Haunted Cities Volume 4 | 140618 | [140618-haunted-cities-volume-4.json](./140618-haunted-cities-volume-4.json) |
 | Haunted Club Manager 88 | 391705 | [391705-haunted-club-manager-88.json](./391705-haunted-club-manager-88.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideous Bill and the Gi-Gants | 25718 | [25718-hideous-bill-and-the-gi-gants.json](./25718-hideous-bill-and-the-gi-gants.json) |
 | Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
+| Hidey Ducks: Seasons | 315352 | [315352-hidey-ducks-seasons.json](./315352-hidey-ducks-seasons.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
 | Hiding Out | 84518 | [84518-hiding-out.json](./84518-hiding-out.json) |
 | Hidiom | 158933 | [158933-hidiom.json](./158933-hidiom.json) |
@@ -5521,6 +5523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highlaundry | 156208 | [156208-highlaundry.json](./156208-highlaundry.json) |
+| Highline Volleyball VR | 315316 | [315316-highline-volleyball-vr.json](./315316-highline-volleyball-vr.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
 | Highreach | 348331 | [348331-highreach.json](./348331-highreach.json) |
@@ -6658,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Town Work | 393768 | [393768-home-town-work.json](./393768-home-town-work.json) |
 | Home trip | 262103 | [262103-home-trip.json](./262103-home-trip.json) |
 | Home Wars | 43334 | [43334-home-wars.json](./43334-home-wars.json) |
+| Home World Run | 315322 | [315322-home-world-run.json](./315322-home-world-run.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: A Quarantine Story | 149210 | [149210-home-a-quarantine-story.json](./149210-home-a-quarantine-story.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
