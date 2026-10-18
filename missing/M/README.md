@@ -9470,6 +9470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
+| MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
 | Minitechno | 278529 | [278529-minitechno.json](./278529-minitechno.json) |
 | Minitime | 99687 | [99687-minitime.json](./99687-minitime.json) |
 | MiniTracks | 108646 | [108646-minitracks.json](./108646-minitracks.json) |
@@ -12846,6 +12847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
+| Motor Depot | 336875 | [336875-motor-depot.json](./336875-motor-depot.json) |
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Gladiators | 105168 | [105168-motor-gladiators.json](./105168-motor-gladiators.json) |
 | Motor Mania | 25574 | [25574-motor-mania.json](./25574-motor-mania.json) |
