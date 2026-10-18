@@ -1089,6 +1089,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27328529dd9934b39f462e30542" width="60" /> | [Omno](https://ostdb.net/games/omno) | **Omno (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/67B8xQqA3K2I98vqhYQdzA) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/3e/fb/9c3efb1c-a0d1-d63a-5a34-bb91f94829bb/4711281418212.jpg/600x600bb.jpg" width="60" /> | [Once Human](https://ostdb.net/games/once-human) | **七日世界 (Original Soundtrack, Pt. 1)** · [Spotify](https://music.apple.com/us/album/%E4%B8%83%E6%97%A5%E4%B8%96%E7%95%8C-original-soundtrack-pt-1/1756061492?uo=4) · [Album](https://album.link/i/1756061492) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f7ded1934e2a3d5a6195b16a" width="60" /> | [Onimusha: Warlords](https://ostdb.net/games/onimusha-warlords) | **Onimusha: Warlords (Soundtrack)** · [Spotify](https://open.spotify.com/album/3Xfhs2fSndWIkTlEFHr8sq) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273213e93eda2aff92a128e415a" width="60" /> | [Only If](https://ostdb.net/games/only-if) | **Only If (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1zsYu080SzK4vfXIPD9JgR) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273ff73aff3a8e3916bea66a88c" width="60" /> | [Operation: Tango](https://ostdb.net/games/operation-tango) | **Operation Tango Original Soundtrack** · [Spotify](https://open.spotify.com/album/7M6UQir2d07cvQXWpIMryt) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273767d8f7407d9b5b17831353a" width="60" /> | [Opus Magnum](https://ostdb.net/games/opus-magnum) | **Opus Magnum (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4Ah1TJHyNHpqmK6rAK7R3X) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273811201642d36db7e7f18e16e" width="60" /> | [Ori and the Blind Forest](https://ostdb.net/games/ori-and-the-blind-forest) | **Ori and the Blind Forest (Definitive Edition)** · [Spotify](https://open.spotify.com/album/5ZgGLGN7oVtQF2bHJm1311)<br>**Ori and the Blind Forest (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) |
@@ -1838,4 +1839,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2155 soundtracks · last updated 2026-10-18T08:31:37.616Z_
+_2156 soundtracks · last updated 2026-10-18T08:31:47.381Z_
