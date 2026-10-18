@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narco Wars | 263133 | [263133-narco-wars.json](./263133-narco-wars.json) |
 | NarcoGuerra | 50217 | [50217-narcoguerra.json](./50217-narcoguerra.json) |
 | Narcolepsy | 91415 | [91415-narcolepsy.json](./91415-narcolepsy.json) |
+| Narcoleptic Strata | 360907 | [360907-narcoleptic-strata.json](./360907-narcoleptic-strata.json) |
 | Narcos | 92686 | [92686-narcos.json](./92686-narcos.json) |
 | Narcos: Cartel Wars Unlimited | 233535 | [233535-narcos-cartel-wars-unlimited.json](./233535-narcos-cartel-wars-unlimited.json) |
 | Narcos: Rise of the Cartels | 112409 | [112409-narcos-rise-of-the-cartels.json](./112409-narcos-rise-of-the-cartels.json) |
@@ -1395,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negima! Magister Negi Magi: 2 Jikan-me - Tatakau Otome-tachi! Mahora Daiundoukai SP | 59346 | [59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json](./59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json) |
 | Negima!? Magister Negi Magi: Chou Mahora Taisen Cut-iin, Keiyaku Shikkou Dechai-masuu | 79524 | [79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json](./79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
+| Negitlet | 360894 | [360894-negitlet.json](./360894-negitlet.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
 | Negligee | 283135 | [283135-negligee.json](./283135-negligee.json) |
 | Negligee: Love Stories | 111743 | [111743-negligee-love-stories.json](./111743-negligee-love-stories.json) |
@@ -4390,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noble Knight | 263191 | [263191-noble-knight.json](./263191-noble-knight.json) |
 | Noble Knightess of the Lewd Seal | 82688 | [82688-noble-knightess-of-the-lewd-seal.json](./82688-noble-knightess-of-the-lewd-seal.json) |
 | Noble Legacy | 347284 | [347284-noble-legacy.json](./347284-noble-legacy.json) |
+| Noble Legacy: Villager - Abigail | 360908 | [360908-noble-legacy-villager-abigail.json](./360908-noble-legacy-villager-abigail.json) |
 | Noble Racing | 118870 | [118870-noble-racing.json](./118870-noble-racing.json) |
 | Noble Steed | 379039 | [379039-noble-steed.json](./379039-noble-steed.json) |
 | Noble Works | 132082 | [132082-noble-works.json](./132082-noble-works.json) |
@@ -5071,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
 | Nothing at Stake | 400507 | [400507-nothing-at-stake.json](./400507-nothing-at-stake.json) |
 | Nothing Bad Ever Happens to Me | 249697 | [249697-nothing-bad-ever-happens-to-me.json](./249697-nothing-bad-ever-happens-to-me.json) |
+| Nothing Between Us... | 360895 | [360895-nothing-between-us.json](./360895-nothing-between-us.json) |
 | Nothing But Me and You | 380631 | [380631-nothing-but-me-and-you.json](./380631-nothing-but-me-and-you.json) |
 | Nothing Can Stop Us Encore | 236307 | [236307-nothing-can-stop-us-encore.json](./236307-nothing-can-stop-us-encore.json) |
 | Nothing Good Can Come Of This | 297161 | [297161-nothing-good-can-come-of-this.json](./297161-nothing-good-can-come-of-this.json) |
