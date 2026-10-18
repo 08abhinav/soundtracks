@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
 | Catto's Post Office | 304835 | [304835-cattos-post-office.json](./304835-cattos-post-office.json) |
+| Cattopia | 351421 | [351421-cattopia.json](./351421-cattopia.json) |
 | CatTris | 332968 | [332968-cattris.json](./332968-cattris.json) |
 | Catty & Batty: The Spirit Guide | 143470 | [143470-catty-and-batty-the-spirit-guide.json](./143470-catty-and-batty-the-spirit-guide.json) |
 | Catty Battle | 129816 | [129816-catty-battle.json](./129816-catty-battle.json) |
@@ -7948,6 +7949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coelhos Construtores | 290095 | [290095-coelhos-construtores.json](./290095-coelhos-construtores.json) |
 | Coeus Plan | 149217 | [149217-coeus-plan.json](./149217-coeus-plan.json) |
 | Coffee & Boobs | 347219 | [347219-coffee-and-boobs.json](./347219-coffee-and-boobs.json) |
+| Coffee & Boobs: Grand Gala | 351386 | [351386-coffee-and-boobs-grand-gala.json](./351386-coffee-and-boobs-grand-gala.json) |
 | Coffee & Boobs: Raiders of the Witch’s Elixir | 372184 | [372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json](./372184-coffee-and-boobs-raiders-of-the-witch-s-elixir.json) |
 | Coffee Addict | 62808 | [62808-coffee-addict.json](./62808-coffee-addict.json) |
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
@@ -9854,6 +9856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
+| Content King: Streamer Simulator | 351418 | [351418-content-king-streamer-simulator.json](./351418-content-king-streamer-simulator.json) |
 | Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
 | Content Warning: Scary Filming | 337073 | [337073-content-warning-scary-filming.json](./337073-content-warning-scary-filming.json) |
 | Contested Space | 403105 | [403105-contested-space.json](./403105-contested-space.json) |
