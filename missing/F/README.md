@@ -6994,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
 | Forest Walk | 311142 | [311142-forest-walk.json](./311142-forest-walk.json) |
+| Forest Warden | 347496 | [347496-forest-warden.json](./347496-forest-warden.json) |
 | Forest Whiskers | 383948 | [383948-forest-whiskers.json](./383948-forest-whiskers.json) |
 | Forest Woodman | 127773 | [127773-forest-woodman.json](./127773-forest-woodman.json) |
 | Forest: The Call For Help | 370702 | [370702-forest-the-call-for-help.json](./370702-forest-the-call-for-help.json) |
