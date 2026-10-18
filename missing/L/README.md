@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
 | Life Simulator 2 | 296757 | [296757-life-simulator-2.json](./296757-life-simulator-2.json) |
 | Life Simulator of You, a Married Woman Seduced | 82680 | [82680-life-simulator-of-you-a-married-woman-seduced.json](./82680-life-simulator-of-you-a-married-woman-seduced.json) |
+| Life Slash Death | 362587 | [362587-life-slash-death.json](./362587-life-slash-death.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
