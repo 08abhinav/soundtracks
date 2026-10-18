@@ -7161,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessed Work | 219210 | [219210-blessed-work.json](./219210-blessed-work.json) |
 | Blessing in the Darkness | 333059 | [333059-blessing-in-the-darkness.json](./333059-blessing-in-the-darkness.json) |
 | Blessing of Mokosh | 176749 | [176749-blessing-of-mokosh.json](./176749-blessing-of-mokosh.json) |
+| Blessing of the Flower Goddess | 358641 | [358641-blessing-of-the-flower-goddess.json](./358641-blessing-of-the-flower-goddess.json) |
 | Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu | 187169 | [187169-bleu.json](./187169-bleu.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Natsuyasumi | 44775 | [44775-boku-no-natsuyasumi.json](./44775-boku-no-natsuyasumi.json) |
 | Boku no Natsuyasumi 3: Kitaguni-hen - Chiisana Boku no Dai Sougen | 7379 | [7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json](./7379-boku-no-natsuyasumi-3-kitaguni-hen-chiisana-boku-no-dai-sougen.json) |
 | Boku no Natsuyasumi 4 | 67897 | [67897-boku-no-natsuyasumi-4.json](./67897-boku-no-natsuyasumi-4.json) |
+| Boku no Natsuyasumi Portable: Mushimushi Hakase to Teppenyama no Himitsu!! | 358630 | [358630-boku-no-natsuyasumi-portable-mushimushi-hakase-to-teppenyama-no-himitsu.json](./358630-boku-no-natsuyasumi-portable-mushimushi-hakase-to-teppenyama-no-himitsu.json) |
 | Boku no Saiai no | 322009 | [322009-boku-no-saiai-no.json](./322009-boku-no-saiai-no.json) |
 | Boku no Shokora | 169273 | [169273-boku-no-shokora.json](./169273-boku-no-shokora.json) |
 | Boku no Soushiki ni Youkoso: Happy Rebirthday | 335700 | [335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json](./335700-boku-no-soushiki-ni-youkoso-happy-rebirthday.json) |
@@ -10801,6 +10803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout VR | 166803 | [166803-breakout-vr.json](./166803-breakout-vr.json) |
 | Breakout: Boost | 64400 | [64400-breakout-boost.json](./64400-breakout-boost.json) |
 | Breakout: Recharged | 187471 | [187471-breakout-recharged.json](./187471-breakout-recharged.json) |
+| Breakpoint | 358640 | [358640-breakpoint.json](./358640-breakpoint.json) |
 | BreakQuest | 20548 | [20548-breakquest.json](./20548-breakquest.json) |
 | Breakremental | 422532 | [422532-breakremental.json](./422532-breakremental.json) |
 | Breakthrough | 15686 | [15686-breakthrough.json](./15686-breakthrough.json) |
