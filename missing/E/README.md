@@ -3820,6 +3820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Deserted House | 295688 | [295688-escape-game-the-deserted-house.json](./295688-escape-game-the-deserted-house.json) |
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
+| Escape Game The House Under Rain | 336416 | [336416-escape-game-the-house-under-rain.json](./336416-escape-game-the-house-under-rain.json) |
 | Escape Game The Locked Elevator | 410382 | [410382-escape-game-the-locked-elevator.json](./410382-escape-game-the-locked-elevator.json) |
 | Escape Game The Museum of Memories | 387105 | [387105-escape-game-the-museum-of-memories.json](./387105-escape-game-the-museum-of-memories.json) |
 | Escape Game The Painting Mansion | 332492 | [332492-escape-game-the-painting-mansion.json](./332492-escape-game-the-painting-mansion.json) |
