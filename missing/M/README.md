@@ -8667,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Symphony | 194342 | [194342-mind-symphony.json](./194342-mind-symphony.json) |
 | Mind Teazzer | 4306 | [4306-mind-teazzer.json](./4306-mind-teazzer.json) |
 | Mind the Abyss | 310175 | [310175-mind-the-abyss.json](./310175-mind-the-abyss.json) |
+| Mind the Clown | 349094 | [349094-mind-the-clown.json](./349094-mind-the-clown.json) |
 | Mind the Pipes! | 234708 | [234708-mind-the-pipes.json](./234708-mind-the-pipes.json) |
 | Mind the Vikings | 81714 | [81714-mind-the-vikings.json](./81714-mind-the-vikings.json) |
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
@@ -9046,6 +9047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineSweeper | 306019 | [306019-minesweeper.json](./306019-minesweeper.json) |
 | Minesweeper !! | 88352 | [88352-minesweeper.json](./88352-minesweeper.json) |
 | Minesweeper 101 | 87161 | [87161-minesweeper-101.json](./87161-minesweeper-101.json) |
+| Minesweeper 3d | 349110 | [349110-minesweeper-3d.json](./349110-minesweeper-3d.json) |
 | MineSweeper 3D | 368071 | [368071-minesweeper-3d.json](./368071-minesweeper-3d.json) |
 | Minesweeper Arena | 395161 | [395161-minesweeper-arena.json](./395161-minesweeper-arena.json) |
 | Minesweeper But the First Tile is Always a Mine | 327378 | [327378-minesweeper-but-the-first-tile-is-always-a-mine.json](./327378-minesweeper-but-the-first-tile-is-always-a-mine.json) |
@@ -13808,6 +13810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder 38: Episode One - A Small World | 229772 | [229772-murder-38-episode-one-a-small-world.json](./229772-murder-38-episode-one-a-small-world.json) |
 | Murder at Chateau de Rouge | 362331 | [362331-murder-at-chateau-de-rouge.json](./362331-murder-at-chateau-de-rouge.json) |
 | Murder at Homecoming | 313871 | [313871-murder-at-homecoming.json](./313871-murder-at-homecoming.json) |
+| Murder at Ironwood Inn | 349084 | [349084-murder-at-ironwood-inn.json](./349084-murder-at-ironwood-inn.json) |
 | Murder at Masquerade Manor | 223682 | [223682-murder-at-masquerade-manor.json](./223682-murder-at-masquerade-manor.json) |
 | Murder at Midnight | 146697 | [146697-murder-at-midnight.json](./146697-murder-at-midnight.json) |
 | Murder at Mystic High | 252279 | [252279-murder-at-mystic-high.json](./252279-murder-at-mystic-high.json) |
@@ -14014,7 +14017,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Heaven | 202807 | [202807-mushroom-heaven.json](./202807-mushroom-heaven.json) |
 | Mushroom Hunt | 145673 | [145673-mushroom-hunt.json](./145673-mushroom-hunt.json) |
 | Mushroom Hunter | 190969 | [190969-mushroom-hunter.json](./190969-mushroom-hunter.json) |
+| Mushroom Hunter Simulator | 349111 | [349111-mushroom-hunter-simulator.json](./349111-mushroom-hunter-simulator.json) |
 | Mushroom Hunter World | 346620 | [346620-mushroom-hunter-world.json](./346620-mushroom-hunter-world.json) |
+| Mushroom Jump! Miracle | 349115 | [349115-mushroom-jump-miracle.json](./349115-mushroom-jump-miracle.json) |
 | Mushroom Kid's Big Grass Sword | 285525 | [285525-mushroom-kids-big-grass-sword.json](./285525-mushroom-kids-big-grass-sword.json) |
 | Mushroom Kingdom Fusion | 134078 | [134078-mushroom-kingdom-fusion.json](./134078-mushroom-kingdom-fusion.json) |
 | Mushroom Kingdom Meltdown | 273559 | [273559-mushroom-kingdom-meltdown.json](./273559-mushroom-kingdom-meltdown.json) |
