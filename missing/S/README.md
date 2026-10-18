@@ -2529,6 +2529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
 | Scrabble | 286433 | [286433-scrabble.json](./286433-scrabble.json) |
+| Scrabble | 344151 | [344151-scrabble.json](./344151-scrabble.json) |
 | Scrabble | 354997 | [354997-scrabble.json](./354997-scrabble.json) |
 | Scrabble | 371873 | [371873-scrabble.json](./371873-scrabble.json) |
 | Scrabble | 402336 | [402336-scrabble.json](./402336-scrabble.json) |
@@ -17274,6 +17275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
+| Star Ocean: Blue Sphere | 344165 | [344165-star-ocean-blue-sphere.json](./344165-star-ocean-blue-sphere.json) |
 | Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
@@ -19259,6 +19261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
 | Sticky Business | 240514 | [240514-sticky-business.json](./240514-sticky-business.json) |
+| Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
@@ -20122,6 +20125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Arcade Edition | 74155 | [74155-street-fighter-v-arcade-edition.json](./74155-street-fighter-v-arcade-edition.json) |
 | Street Fighter V: BCRF Pink Ribbon Bundle | 345848 | [345848-street-fighter-v-bcrf-pink-ribbon-bundle.json](./345848-street-fighter-v-bcrf-pink-ribbon-bundle.json) |
 | Street Fighter V: Blanka | 322207 | [322207-street-fighter-v-blanka.json](./322207-street-fighter-v-blanka.json) |
+| Street Fighter V: Capcom Costumes Bundle 1 | 344250 | [344250-street-fighter-v-capcom-costumes-bundle-1.json](./344250-street-fighter-v-capcom-costumes-bundle-1.json) |
 | Street Fighter V: Capcom Pro Tour 2016 Pack | 332659 | [332659-street-fighter-v-capcom-pro-tour-2016-pack.json](./332659-street-fighter-v-capcom-pro-tour-2016-pack.json) |
 | Street Fighter V: Capcom Pro Tour 2017 Premier Pass | 332662 | [332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json](./332662-street-fighter-v-capcom-pro-tour-2017-premier-pass.json) |
 | Street Fighter V: Capcom Pro Tour 2018 Premier Pass | 332660 | [332660-street-fighter-v-capcom-pro-tour-2018-premier-pass.json](./332660-street-fighter-v-capcom-pro-tour-2018-premier-pass.json) |
@@ -23406,6 +23410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
+| Super Releasio 64 | 344171 | [344171-super-releasio-64.json](./344171-super-releasio-64.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
