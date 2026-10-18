@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karol World Breaker | 343299 | [343299-karol-world-breaker.json](./343299-karol-world-breaker.json) |
 | Karoshi | 44476 | [44476-karoshi.json](./44476-karoshi.json) |
+| Karoshi Club | 323004 | [323004-karoshi-club.json](./323004-karoshi-club.json) |
 | Karoshi Mario | 275323 | [275323-karoshi-mario.json](./275323-karoshi-mario.json) |
 | Karoshi: Suicide Salaryman | 266379 | [266379-karoshi-suicide-salaryman.json](./266379-karoshi-suicide-salaryman.json) |
 | Karous | 381992 | [381992-karous.json](./381992-karous.json) |
