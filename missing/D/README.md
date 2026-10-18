@@ -3895,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deepest Oblivion | 271813 | [271813-deepest-oblivion.json](./271813-deepest-oblivion.json) |
 | Deepest Regret | 280434 | [280434-deepest-regret.json](./280434-deepest-regret.json) |
 | Deepest Sword | 146544 | [146544-deepest-sword.json](./146544-deepest-sword.json) |
+| Deepest Trench | 310281 | [310281-deepest-trench.json](./310281-deepest-trench.json) |
 | Deepest Valley | 395832 | [395832-deepest-valley.json](./395832-deepest-valley.json) |
 | Deepest World | 302050 | [302050-deepest-world.json](./302050-deepest-world.json) |
 | DeepFear | 90991 | [90991-deepfear.json](./90991-deepfear.json) |
@@ -10678,6 +10679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Half | 37635 | [37635-dragon-half.json](./37635-dragon-half.json) |
+| Dragon Heartburn | 310280 | [310280-dragon-heartburn.json](./310280-dragon-heartburn.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
 | Dragon Hills | 60253 | [60253-dragon-hills.json](./60253-dragon-hills.json) |
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
@@ -10918,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon vs Goblins | 89477 | [89477-dragon-vs-goblins.json](./89477-dragon-vs-goblins.json) |
 | Dragon Wang | 6097 | [6097-dragon-wang.json](./6097-dragon-wang.json) |
 | Dragon War | 195978 | [195978-dragon-war.json](./195978-dragon-war.json) |
+| Dragon Warrior | 310252 | [310252-dragon-warrior.json](./310252-dragon-warrior.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
 | Dragon Warrior II | 205592 | [205592-dragon-warrior-ii.json](./205592-dragon-warrior-ii.json) |
@@ -11553,6 +11556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Well | 205104 | [205104-dream-well.json](./205104-dream-well.json) |
 | Dream Wires | 180240 | [180240-dream-wires.json](./180240-dream-wires.json) |
 | Dream World | 195037 | [195037-dream-world.json](./195037-dream-world.json) |
+| Dream World Adventure | 310259 | [310259-dream-world-adventure.json](./310259-dream-world-adventure.json) |
 | Dream Zone | 12058 | [12058-dream-zone.json](./12058-dream-zone.json) |
 | Dream: Land of Giants | 65775 | [65775-dream-land-of-giants.json](./65775-dream-land-of-giants.json) |
 | Dream? | 202246 | [202246-dream.json](./202246-dream.json) |
@@ -12356,6 +12360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Cowboys | 379053 | [379053-drunken-cowboys.json](./379053-drunken-cowboys.json) |
 | Drunken Dad Simulator | 156892 | [156892-drunken-dad-simulator.json](./156892-drunken-dad-simulator.json) |
 | Drunken Darts | 354756 | [354756-drunken-darts.json](./354756-drunken-darts.json) |
+| Drunken Dragon | 310262 | [310262-drunken-dragon.json](./310262-drunken-dragon.json) |
 | Drunken Duel 2 | 146712 | [146712-drunken-duel-2.json](./146712-drunken-duel-2.json) |
 | Drunken Fight Simulator | 29913 | [29913-drunken-fight-simulator.json](./29913-drunken-fight-simulator.json) |
 | Drunken Fist 2: Zombie Hangover | 203560 | [203560-drunken-fist-2-zombie-hangover.json](./203560-drunken-fist-2-zombie-hangover.json) |
