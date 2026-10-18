@@ -10992,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawback Chess | 387533 | [387533-drawback-chess.json](./387533-drawback-chess.json) |
 | DrawBall | 289014 | [289014-drawball.json](./289014-drawball.json) |
 | Drawchemy | 410327 | [410327-drawchemy.json](./410327-drawchemy.json) |
+| Drawdl.io | 362062 | [362062-drawdl-io.json](./362062-drawdl-io.json) |
 | Drawer | 187849 | [187849-drawer.json](./187849-drawer.json) |
 | DrawFighters | 99494 | [99494-drawfighters.json](./99494-drawfighters.json) |
 | Drawgaem | 158605 | [158605-drawgaem.json](./158605-drawgaem.json) |
@@ -11035,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Keep | 181170 | [181170-dread-keep.json](./181170-dread-keep.json) |
 | Dread Lock | 59744 | [59744-dread-lock.json](./59744-dread-lock.json) |
+| Dread Meridian | 362056 | [362056-dread-meridian.json](./362056-dread-meridian.json) |
 | Dread Nautical | 122514 | [122514-dread-nautical.json](./122514-dread-nautical.json) |
 | Dread Neighbor | 382463 | [382463-dread-neighbor.json](./382463-dread-neighbor.json) |
 | Dread Not | 349860 | [349860-dread-not.json](./349860-dread-not.json) |
@@ -12540,6 +12542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
 | Dumb Ways to Draw 2 | 231861 | [231861-dumb-ways-to-draw-2.json](./231861-dumb-ways-to-draw-2.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
+| Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
 | Dumbass Survivors | 344338 | [344338-dumbass-survivors.json](./344338-dumbass-survivors.json) |
 | Dumbino | 307569 | [307569-dumbino.json](./307569-dumbino.json) |
@@ -12589,7 +12592,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
+| Dune: Awakening - Chapter 2 | 362059 | [362059-dune-awakening-chapter-2.json](./362059-dune-awakening-chapter-2.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
+| Dune: Awakening - The Lost Harvest | 362058 | [362058-dune-awakening-the-lost-harvest.json](./362058-dune-awakening-the-lost-harvest.json) |
 | Dune: Awakening - The Water Wars DLC | 400089 | [400089-dune-awakening-the-water-wars-dlc.json](./400089-dune-awakening-the-water-wars-dlc.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
 | Dune: Imperium - Immortality | 407850 | [407850-dune-imperium-immortality.json](./407850-dune-imperium-immortality.json) |
