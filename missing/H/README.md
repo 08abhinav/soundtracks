@@ -7383,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Divorce | 178032 | [178032-horse-divorce.json](./178032-horse-divorce.json) |
 | Horse Evolutions | 357853 | [357853-horse-evolutions.json](./357853-horse-evolutions.json) |
 | Horse Farm | 105275 | [105275-horse-farm.json](./105275-horse-farm.json) |
+| Horse Farm Simulator | 312442 | [312442-horse-farm-simulator.json](./312442-horse-farm-simulator.json) |
 | Horse Illustrated Championship Season | 60929 | [60929-horse-illustrated-championship-season.json](./60929-horse-illustrated-championship-season.json) |
 | Horse Isle | 60048 | [60048-horse-isle.json](./60048-horse-isle.json) |
 | Horse Isle 3: Infinite Wilds | 137434 | [137434-horse-isle-3-infinite-wilds.json](./137434-horse-isle-3-infinite-wilds.json) |
