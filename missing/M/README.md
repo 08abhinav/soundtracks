@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madara Saga: Youchien Senki Madara | 57072 | [57072-madara-saga-youchien-senki-madara.json](./57072-madara-saga-youchien-senki-madara.json) |
 | Madball | 198484 | [198484-madball.json](./198484-madball.json) |
 | Madballs Arcade | 98925 | [98925-madballs-arcade.json](./98925-madballs-arcade.json) |
+| MadBreak | 314733 | [314733-madbreak.json](./314733-madbreak.json) |
 | Madcap Castle | 74288 | [74288-madcap-castle.json](./74288-madcap-castle.json) |
 | Madcap Grotto | 330290 | [330290-madcap-grotto.json](./330290-madcap-grotto.json) |
 | Madcap Mosaic | 212746 | [212746-madcap-mosaic.json](./212746-madcap-mosaic.json) |
@@ -6319,6 +6320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mementos: Lost Things | 391681 | [391681-mementos-lost-things.json](./391681-mementos-lost-things.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
+| Memetomo | 314751 | [314751-memetomo.json](./314751-memetomo.json) |
 | Memetric: Classic | 239562 | [239562-memetric-classic.json](./239562-memetric-classic.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
 | MemGame | 128641 | [128641-memgame.json](./128641-memgame.json) |
@@ -11702,6 +11704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Tower | 348775 | [348775-monster-tower.json](./348775-monster-tower.json) |
 | Monster Tower | 388363 | [388363-monster-tower.json](./388363-monster-tower.json) |
 | Monster Tower Quest | 234516 | [234516-monster-tower-quest.json](./234516-monster-tower-quest.json) |
+| Monster Town Defense | 314754 | [314754-monster-town-defense.json](./314754-monster-town-defense.json) |
 | Monster Train 2: Destiny of the Railforged | 387479 | [387479-monster-train-2-destiny-of-the-railforged.json](./387479-monster-train-2-destiny-of-the-railforged.json) |
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
