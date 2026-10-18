@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenny! | 186343 | [186343-lenny.json](./186343-lenny.json) |
 | Lenny's Music Toons | 71995 | [71995-lennys-music-toons.json](./71995-lennys-music-toons.json) |
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
+| Lens | 349181 | [349181-lens.json](./349181-lens.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
 | LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Witch Nobeta: Limited Edition | 205259 | [205259-little-witch-nobeta-limited-edition.json](./205259-little-witch-nobeta-limited-edition.json) |
 | Little Witch Parfait: Kuronekojirushi no Mahouya-san | 124645 | [124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json](./124645-little-witch-parfait-kuronekojirushi-no-mahouya-san.json) |
 | Little Witch Reinette: Swan no Namida Rhapsody | 124646 | [124646-little-witch-reinette-swan-no-namida-rhapsody.json](./124646-little-witch-reinette-swan-no-namida-rhapsody.json) |
+| Little Witch Survivors | 349103 | [349103-little-witch-survivors.json](./349103-little-witch-survivors.json) |
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
