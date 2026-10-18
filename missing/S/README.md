@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor | 130179 | [130179-samosbor.json](./130179-samosbor.json) |
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
+| Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
@@ -3396,6 +3397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Rætikon | 8276 | [8276-secrets-of-r-tikon.json](./8276-secrets-of-r-tikon.json) |
 | Secrets of Salem: Shadow of the Witch - Collector's Edition | 341022 | [341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json](./341022-secrets-of-salem-shadow-of-the-witch-collectors-edition.json) |
 | Secrets of Salem: The Phantom Cab - Collector's Edition | 355027 | [355027-secrets-of-salem-the-phantom-cab-collectors-edition.json](./355027-secrets-of-salem-the-phantom-cab-collectors-edition.json) |
+| Secrets of Shadows | 310246 | [310246-secrets-of-shadows.json](./310246-secrets-of-shadows.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
 | Secrets of the Ark: A Broken Sword Game | 1152 | [1152-secrets-of-the-ark-a-broken-sword-game.json](./1152-secrets-of-the-ark-a-broken-sword-game.json) |
@@ -8454,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sisters Runner | 222260 | [222260-sisters-runner.json](./222260-sisters-runner.json) |
 | Sisters Secrecy: Arcanum Bloodlines | 54360 | [54360-sisters-secrecy-arcanum-bloodlines.json](./54360-sisters-secrecy-arcanum-bloodlines.json) |
 | Sisters Secrecy: Arcanum Bloodlines - Collector's Edition | 54361 | [54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json](./54361-sisters-secrecy-arcanum-bloodlines-collectors-edition.json) |
+| Sisyphe | 310257 | [310257-sisyphe.json](./310257-sisyphe.json) |
 | Sisyphe's Backspace | 347270 | [347270-sisyphes-backspace.json](./347270-sisyphes-backspace.json) |
 | Sisyphos | 311870 | [311870-sisyphos.json](./311870-sisyphos.json) |
 | Sisyphus | 151619 | [151619-sisyphus.json](./151619-sisyphus.json) |
@@ -15561,6 +15564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere: Flying Cities - Save the World Edition | 186905 | [186905-sphere-flying-cities-save-the-world-edition.json](./186905-sphere-flying-cities-save-the-world-edition.json) |
 | Sphere: The Knight of Elf | 191096 | [191096-sphere-the-knight-of-elf.json](./191096-sphere-the-knight-of-elf.json) |
 | Spherebuddie 64 | 319063 | [319063-spherebuddie-64.json](./319063-spherebuddie-64.json) |
+| SphereCats | 310241 | [310241-spherecats.json](./310241-spherecats.json) |
 | SphereCore Survival | 344402 | [344402-spherecore-survival.json](./344402-spherecore-survival.json) |
 | Spherecraft | 118387 | [118387-spherecraft.json](./118387-spherecraft.json) |
 | SphereFace | 28749 | [28749-sphereface.json](./28749-sphereface.json) |
@@ -17013,6 +17017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirreled Away | 326713 | [326713-squirreled-away.json](./326713-squirreled-away.json) |
 | Squirrelmageddon! | 156548 | [156548-squirrelmageddon.json](./156548-squirrelmageddon.json) |
 | Squirrels are going nuts | 197062 | [197062-squirrels-are-going-nuts.json](./197062-squirrels-are-going-nuts.json) |
+| Squirrels Forest Race | 310269 | [310269-squirrels-forest-race.json](./310269-squirrels-forest-race.json) |
 | Squirrels Gone Nuts | 290551 | [290551-squirrels-gone-nuts.json](./290551-squirrels-gone-nuts.json) |
 | Squirreltopia | 36132 | [36132-squirreltopia.json](./36132-squirreltopia.json) |
 | Squish | 342865 | [342865-squish.json](./342865-squish.json) |
