@@ -4902,6 +4902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivanych vs Eared Beast | 114204 | [114204-ivanych-vs-eared-beast.json](./114204-ivanych-vs-eared-beast.json) |
 | IVAO: International Virtual Aviation Organisation | 140908 | [140908-ivao-international-virtual-aviation-organisation.json](./140908-ivao-international-virtual-aviation-organisation.json) |
 | Ivaxion | 265051 | [265051-ivaxion.json](./265051-ivaxion.json) |
+| Ivayami: Cradle of Fog | 327056 | [327056-ivayami-cradle-of-fog.json](./327056-ivayami-cradle-of-fog.json) |
 | Iveri: The 1.000 Story | 368264 | [368264-iveri-the-1-000-story.json](./368264-iveri-the-1-000-story.json) |
 | Ivilyn Kingdoms | 391142 | [391142-ivilyn-kingdoms.json](./391142-ivilyn-kingdoms.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
