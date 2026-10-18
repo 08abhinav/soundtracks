@@ -5123,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
+| Five Nights at Sonic's Side Story Act 1 | 335149 | [335149-five-nights-at-sonics-side-story-act-1.json](./335149-five-nights-at-sonics-side-story-act-1.json) |
 | Five Nights at Sonic's World | 359012 | [359012-five-nights-at-sonics-world.json](./359012-five-nights-at-sonics-world.json) |
 | Five Nights at Sonic's: Solar Switchup | 413161 | [413161-five-nights-at-sonics-solar-switchup.json](./413161-five-nights-at-sonics-solar-switchup.json) |
 | Five Nights at Stickman | 359074 | [359074-five-nights-at-stickman.json](./359074-five-nights-at-stickman.json) |
@@ -6925,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreclosed | 134579 | [134579-foreclosed.json](./134579-foreclosed.json) |
 | Foreclosure Simulator | 201502 | [201502-foreclosure-simulator.json](./201502-foreclosure-simulator.json) |
 | Forefeathers | 414752 | [414752-forefeathers.json](./414752-forefeathers.json) |
+| Forefront | 335125 | [335125-forefront.json](./335125-forefront.json) |
 | Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
@@ -9690,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: SpecialEffect's Streamer Bear | 354234 | [354234-funko-fusion-specialeffects-streamer-bear.json](./354234-funko-fusion-specialeffects-streamer-bear.json) |
 | Funko Fusion: Sun Wukong | 323397 | [323397-funko-fusion-sun-wukong.json](./323397-funko-fusion-sun-wukong.json) |
 | Funko Fusion: Team Fortress 2 Pack | 323394 | [323394-funko-fusion-team-fortress-2-pack.json](./323394-funko-fusion-team-fortress-2-pack.json) |
+| Funko Fusion: The Office Cameo Pack | 335156 | [335156-funko-fusion-the-office-cameo-pack.json](./335156-funko-fusion-the-office-cameo-pack.json) |
 | Funko Fusion: The Office Cameo Pack Bundle | 331546 | [331546-funko-fusion-the-office-cameo-pack-bundle.json](./331546-funko-fusion-the-office-cameo-pack-bundle.json) |
 | Funko Fusion: The Walking Dead Pack | 323395 | [323395-funko-fusion-the-walking-dead-pack.json](./323395-funko-fusion-the-walking-dead-pack.json) |
 | Funko Fusion: Trap Jaw | 323319 | [323319-funko-fusion-trap-jaw.json](./323319-funko-fusion-trap-jaw.json) |
