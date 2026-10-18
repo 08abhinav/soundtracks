@@ -3307,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
+| Helly-Drop | 354758 | [354758-helly-drop.json](./354758-helly-drop.json) |
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
 | Helmet Head | 391662 | [391662-helmet-head.json](./391662-helmet-head.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hepo | 266318 | [266318-hepo.json](./266318-hepo.json) |
 | Her | 105347 | [105347-her.json](./105347-her.json) |
 | Her 2: I Want to See You Again | 114821 | [114821-her-2-i-want-to-see-you-again.json](./114821-her-2-i-want-to-see-you-again.json) |
+| Her Age, My Sex, Your Location | 354813 | [354813-her-age-my-sex-your-location.json](./354813-her-age-my-sex-your-location.json) |
 | Her Apartment | 323898 | [323898-her-apartment.json](./323898-her-apartment.json) |
 | Her Deliverance | 321017 | [321017-her-deliverance.json](./321017-her-deliverance.json) |
 | Her Heart, Anew | 419951 | [419951-her-heart-anew.json](./419951-her-heart-anew.json) |
@@ -7069,6 +7071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HordeCore | 112767 | [112767-hordecore.json](./112767-hordecore.json) |
 | HordeCore: Training Ground | 157195 | [157195-hordecore-training-ground.json](./157195-hordecore-training-ground.json) |
 | HordeFighter 2D | 267458 | [267458-hordefighter-2d.json](./267458-hordefighter-2d.json) |
+| Hordeguard: Winds of the North | 354749 | [354749-hordeguard-winds-of-the-north.json](./354749-hordeguard-winds-of-the-north.json) |
 | Hordelord | 346021 | [346021-hordelord.json](./346021-hordelord.json) |
 | Hordes of Chaos X | 268759 | [268759-hordes-of-chaos-x.json](./268759-hordes-of-chaos-x.json) |
 | Hordes of Enemies Bundle | 331524 | [331524-hordes-of-enemies-bundle.json](./331524-hordes-of-enemies-bundle.json) |
@@ -7952,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
+| How I Met My Healthy Hentai Neighbors! | 354754 | [354754-how-i-met-my-healthy-hentai-neighbors.json](./354754-how-i-met-my-healthy-hentai-neighbors.json) |
 | How it was to live Guadalindie 2026 | 410255 | [410255-how-it-was-to-live-guadalindie-2026.json](./410255-how-it-was-to-live-guadalindie-2026.json) |
 | How it's Made:Fallout edition | 101040 | [101040-how-its-made-fallout-edition.json](./101040-how-its-made-fallout-edition.json) |
 | How Little We Wait | 285468 | [285468-how-little-we-wait.json](./285468-how-little-we-wait.json) |
