@@ -2721,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Quarterback Club 96 | 348201 | [348201-nfl-quarterback-club-96.json](./348201-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 96 | 348206 | [348206-nfl-quarterback-club-96.json](./348206-nfl-quarterback-club-96.json) |
 | NFL Quarterback Club 97 | 20258 | [20258-nfl-quarterback-club-97.json](./20258-nfl-quarterback-club-97.json) |
+| NFL Retro Bowl '26 | 362065 | [362065-nfl-retro-bowl-26.json](./362065-nfl-retro-bowl-26.json) |
 | NFL Rivals | 249177 | [249177-nfl-rivals.json](./249177-nfl-rivals.json) |
 | NFL Rush Zone | 230392 | [230392-nfl-rush-zone.json](./230392-nfl-rush-zone.json) |
 | NFL Sports Talk Football '93 Starring Joe Montana | 72117 | [72117-nfl-sports-talk-football-93-starring-joe-montana.json](./72117-nfl-sports-talk-football-93-starring-joe-montana.json) |
