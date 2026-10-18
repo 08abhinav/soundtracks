@@ -1202,6 +1202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Ballistik | 339613 | [339613-ballistik.json](./339613-ballistik.json) |
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
+| Ballmaster | 336942 | [336942-ballmaster.json](./336942-ballmaster.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
 | Ballochet 3 | 79272 | [79272-ballochet-3.json](./79272-ballochet-3.json) |
 | Balloo's Mall | 261730 | [261730-balloos-mall.json](./261730-balloos-mall.json) |
@@ -4191,6 +4192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
+| Bee Flowers: Royal Garden | 336876 | [336876-bee-flowers-royal-garden.json](./336876-bee-flowers-royal-garden.json) |
 | Bee Garden: The Lost Queen | 263453 | [263453-bee-garden-the-lost-queen.json](./263453-bee-garden-the-lost-queen.json) |
 | Bee Hero: Bug Blaster | 312139 | [312139-bee-hero-bug-blaster.json](./312139-bee-hero-bug-blaster.json) |
 | Bee Holder | 184505 | [184505-bee-holder.json](./184505-bee-holder.json) |
@@ -7455,6 +7457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobber | 416727 | [416727-blobber.json](./416727-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
+| Blobbert 64 | 336945 | [336945-blobbert-64.json](./336945-blobbert-64.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbins 2048 | 115417 | [115417-blobbins-2048.json](./115417-blobbins-2048.json) |
 | Blobble Wars 2 | 208636 | [208636-blobble-wars-2.json](./208636-blobble-wars-2.json) |
