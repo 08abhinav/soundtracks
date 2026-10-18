@@ -14463,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Worthy | 201593 | [201593-space-worthy.json](./201593-space-worthy.json) |
 | Space Wrangler | 59246 | [59246-space-wrangler.json](./59246-space-wrangler.json) |
 | Space Wreck | 122417 | [122417-space-wreck.json](./122417-space-wreck.json) |
+| Space X | 341840 | [341840-space-x.json](./341840-space-x.json) |
 | Space X Collector | 166168 | [166168-space-x-collector.json](./166168-space-x-collector.json) |
 | Space X: Sky War of Air Force | 98929 | [98929-space-x-sky-war-of-air-force.json](./98929-space-x-sky-war-of-air-force.json) |
 | Space Yandere | 174062 | [174062-space-yandere.json](./174062-space-yandere.json) |
@@ -18561,6 +18562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealer | 347728 | [347728-stealer.json](./347728-stealer.json) |
 | Stealin' Steve | 421820 | [421820-stealin-steve.json](./421820-stealin-steve.json) |
 | Stealing Them Softly | 379695 | [379695-stealing-them-softly.json](./379695-stealing-them-softly.json) |
+| Stealpop's Basics | 341935 | [341935-stealpops-basics.json](./341935-stealpops-basics.json) |
 | Stealth | 114888 | [114888-stealth.json](./114888-stealth.json) |
 | Stealth | 147969 | [147969-stealth.json](./147969-stealth.json) |
 | Stealth | 86207 | [86207-stealth.json](./86207-stealth.json) |
@@ -20829,6 +20831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: Hidden Depths | 141373 | [141373-submerged-hidden-depths.json](./141373-submerged-hidden-depths.json) |
+| Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
 | Submersed | 128303 | [128303-submersed.json](./128303-submersed.json) |
 | Submersed 2: The Hive | 290476 | [290476-submersed-2-the-hive.json](./290476-submersed-2-the-hive.json) |
@@ -22897,6 +22900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario In Element World | 267978 | [267978-super-mario-in-element-world.json](./267978-super-mario-in-element-world.json) |
 | Super Mario In Element World 2: The Master Hand Revenge | 267980 | [267980-super-mario-in-element-world-2-the-master-hand-revenge.json](./267980-super-mario-in-element-world-2-the-master-hand-revenge.json) |
 | Super Mario in Marooned on Mars! | 321451 | [321451-super-mario-in-marooned-on-mars.json](./321451-super-mario-in-marooned-on-mars.json) |
+| Super Mario In Peach's World | 341923 | [341923-super-mario-in-peachs-world.json](./341923-super-mario-in-peachs-world.json) |
 | Super Mario Infinity 2: The Cursed Gem | 261142 | [261142-super-mario-infinity-2-the-cursed-gem.json](./261142-super-mario-infinity-2-the-cursed-gem.json) |
 | Super Mario Infinity: Mystery of the Magic Wand | 260850 | [260850-super-mario-infinity-mystery-of-the-magic-wand.json](./260850-super-mario-infinity-mystery-of-the-magic-wand.json) |
 | Super Mario Journey | 324010 | [324010-super-mario-journey.json](./324010-super-mario-journey.json) |
