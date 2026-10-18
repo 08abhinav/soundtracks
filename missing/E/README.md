@@ -3544,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
 | Esca | 339765 | [339765-esca.json](./339765-esca.json) |
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
+| Escalating Duel | 347002 | [347002-escalating-duel.json](./347002-escalating-duel.json) |
 | Escalation 1985 | 54734 | [54734-escalation-1985.json](./54734-escalation-1985.json) |
 | Escalation Titan | 327361 | [327361-escalation-titan.json](./327361-escalation-titan.json) |
 | Escalation VR! | 150110 | [150110-escalation-vr.json](./150110-escalation-vr.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everwarder | 275578 | [275578-everwarder.json](./275578-everwarder.json) |
 | Everwind | 342138 | [342138-everwind.json](./342138-everwind.json) |
 | EverWing | 56924 | [56924-everwing.json](./56924-everwing.json) |
+| Every 5x5 Nonogram | 346905 | [346905-every-5x5-nonogram.json](./346905-every-5x5-nonogram.json) |
 | Every Child of Hameln | 413056 | [413056-every-child-of-hameln.json](./413056-every-child-of-hameln.json) |
 | Every Day Is Halloween | 280759 | [280759-every-day-is-halloween.json](./280759-every-day-is-halloween.json) |
 | Every day is more incredible than the previous | 169257 | [169257-every-day-is-more-incredible-than-the-previous.json](./169257-every-day-is-more-incredible-than-the-previous.json) |
