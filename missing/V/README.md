@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Hurts | 198317 | [198317-vampire-hurts.json](./198317-vampire-hurts.json) |
 | Vampire Killer | 1115 | [1115-vampire-killer.json](./1115-vampire-killer.json) |
 | Vampire Knight DS | 69290 | [69290-vampire-knight-ds.json](./69290-vampire-knight-ds.json) |
+| Vampire Legacy | 304968 | [304968-vampire-legacy.json](./304968-vampire-legacy.json) |
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
 | Vampire Legends: The Count of New Orleans | 101000 | [101000-vampire-legends-the-count-of-new-orleans.json](./101000-vampire-legends-the-count-of-new-orleans.json) |
 | Vampire Love | 268661 | [268661-vampire-love.json](./268661-vampire-love.json) |
@@ -1767,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinnie's Shooting Yard 4 | 393426 | [393426-vinnies-shooting-yard-4.json](./393426-vinnies-shooting-yard-4.json) |
 | Vinnie's Shooting Yard 5 | 393427 | [393427-vinnies-shooting-yard-5.json](./393427-vinnies-shooting-yard-5.json) |
 | Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb | 374954 | [374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json](./374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json) |
+| Vinny Puh | 304985 | [304985-vinny-puh.json](./304985-vinny-puh.json) |
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
 | Vintage Hero | 46482 | [46482-vintage-hero.json](./46482-vintage-hero.json) |
