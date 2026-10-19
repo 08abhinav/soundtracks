@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Fantasy: Fairies | 387754 | [387754-neon-fantasy-fairies.json](./387754-neon-fantasy-fairies.json) |
 | Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
 | Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
+| Neon Fantasy: Mushrooms | 305628 | [305628-neon-fantasy-mushrooms.json](./305628-neon-fantasy-mushrooms.json) |
 | Neon Fantasy: Owls | 395785 | [395785-neon-fantasy-owls.json](./395785-neon-fantasy-owls.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
 | Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
