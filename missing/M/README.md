@@ -16187,6 +16187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Empires: Hellenic Civilization Pack | 322729 | [322729-myth-of-empires-hellenic-civilization-pack.json](./322729-myth-of-empires-hellenic-civilization-pack.json) |
 | Myth of Empires: Musical Instruments Pack | 293413 | [293413-myth-of-empires-musical-instruments-pack.json](./293413-myth-of-empires-musical-instruments-pack.json) |
 | Myth of Empires: Throne | 396559 | [396559-myth-of-empires-throne.json](./396559-myth-of-empires-throne.json) |
+| Myth of Future Dimension | 277739 | [277739-myth-of-future-dimension.json](./277739-myth-of-future-dimension.json) |
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
