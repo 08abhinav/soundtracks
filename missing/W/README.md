@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs 2: No Compromise | 28377 | [28377-watch-dogs-2-no-compromise.json](./28377-watch-dogs-2-no-compromise.json) |
 | Watch Dogs 2: Private Eye Pack | 399907 | [399907-watch-dogs-2-private-eye-pack.json](./399907-watch-dogs-2-private-eye-pack.json) |
 | Watch Dogs 2: Psychedelic Pack | 263104 | [263104-watch-dogs-2-psychedelic-pack.json](./263104-watch-dogs-2-psychedelic-pack.json) |
+| Watch Dogs 2: San Francisco Edition | 308041 | [308041-watch-dogs-2-san-francisco-edition.json](./308041-watch-dogs-2-san-francisco-edition.json) |
 | Watch Dogs 2: T-Bone Content Bundle | 26362 | [26362-watch-dogs-2-t-bone-content-bundle.json](./26362-watch-dogs-2-t-bone-content-bundle.json) |
 | Watch Dogs 2: Zodiac Killer | 168214 | [168214-watch-dogs-2-zodiac-killer.json](./168214-watch-dogs-2-zodiac-killer.json) |
 | Watch Dogs: Access Granted Pack | 399905 | [399905-watch-dogs-access-granted-pack.json](./399905-watch-dogs-access-granted-pack.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Mechanics | 34871 | [34871-wave-mechanics.json](./34871-wave-mechanics.json) |
 | Wave of Darkness | 17704 | [17704-wave-of-darkness.json](./17704-wave-of-darkness.json) |
 | Wave Race | 48915 | [48915-wave-race.json](./48915-wave-race.json) |
+| Wave Race 64 | 308048 | [308048-wave-race-64.json](./308048-wave-race-64.json) |
 | Wave Race 64 | 3629 | [3629-wave-race-64.json](./3629-wave-race-64.json) |
 | Wave Rally | 43304 | [43304-wave-rally.json](./43304-wave-rally.json) |
 | Wave Rave | 341912 | [341912-wave-rave.json](./341912-wave-rave.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: US Movies 90s | 282215 | [282215-who-wants-to-be-a-millionaire-us-movies-90s.json](./282215-who-wants-to-be-a-millionaire-us-movies-90s.json) |
 | Who Wants to Be A Millionaire: US Presidents DLC Pack | 302579 | [302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json](./302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2013 | 314041 | [314041-who-wants-to-be-a-millionaire-2013.json](./314041-who-wants-to-be-a-millionaire-2013.json) |
+| Who Wants To Be A Millionaire? Hot Seat | 308012 | [308012-who-wants-to-be-a-millionaire-hot-seat.json](./308012-who-wants-to-be-a-millionaire-hot-seat.json) |
 | Who Wants To Be A Millionaire?: Complete Edition | 324358 | [324358-who-wants-to-be-a-millionaire-complete-edition.json](./324358-who-wants-to-be-a-millionaire-complete-edition.json) |
 | Who Wants to Be a Millionaire?: Deluxe Upgrade | 318868 | [318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json](./318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
