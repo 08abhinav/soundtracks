@@ -3862,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GMOTA | 142178 | [142178-gmota.json](./142178-gmota.json) |
 | Gnah! | 61507 | [61507-gnah.json](./61507-gnah.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
+| Gnarly Hike | 274362 | [274362-gnarly-hike.json](./274362-gnarly-hike.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
