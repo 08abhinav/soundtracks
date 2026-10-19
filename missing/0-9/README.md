@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7,62 Hard Life | 98372 | [98372-7-62-hard-life.json](./98372-7-62-hard-life.json) |
 | 7,62 High Calibre, 7,62 Hard Life, Brigade E5: New Jagged Union Pack | 84123 | [84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json](./84123-7-62-high-calibre-7-62-hard-life-brigade-e5-new-jagged-union-pack.json) |
 | 7: Molmorth no Kiheitai | 70459 | [70459-7-molmorth-no-kiheitai.json](./70459-7-molmorth-no-kiheitai.json) |
+| 7:45, Densha Nite. | 285897 | [285897-7-45-densha-nite.json](./285897-7-45-densha-nite.json) |
 | 7.62mm | 79155 | [79155-7-62mm.json](./79155-7-62mm.json) |
 | 7'Scarlet | 12639 | [12639-7scarlet.json](./12639-7scarlet.json) |
 | 7° Continente | 397054 | [397054-7-continente.json](./397054-7-continente.json) |
