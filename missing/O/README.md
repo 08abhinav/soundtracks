@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
 | One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
 | One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
+| One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2 | 282462 | [282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json](./282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json) |
 | One Piece: Pirate Warriors 4 - Legend Dawn Pack | 294853 | [294853-one-piece-pirate-warriors-4-legend-dawn-pack.json](./294853-one-piece-pirate-warriors-4-legend-dawn-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Anime Song Pack | 291058 | [291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json](./291058-one-piece-pirate-warriors-4-one-piece-film-red-anime-song-pack.json) |
 | One Piece: Pirate Warriors 4 - One Piece Film: Red Pack | 283182 | [283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json](./283182-one-piece-pirate-warriors-4-one-piece-film-red-pack.json) |
