@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palladium: Adventure in Greece | 132798 | [132798-palladium-adventure-in-greece.json](./132798-palladium-adventure-in-greece.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
+| Pallet Panic | 273786 | [273786-pallet-panic.json](./273786-pallet-panic.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
 | Pallurikio | 67222 | [67222-pallurikio.json](./67222-pallurikio.json) |
 | Palm Cracker | 333625 | [333625-palm-cracker.json](./333625-palm-cracker.json) |
@@ -1970,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
 | Party Poopers | 112345 | [112345-party-poopers.json](./112345-party-poopers.json) |
+| Party PooperZ | 273776 | [273776-party-pooperz.json](./273776-party-pooperz.json) |
 | Party Pop Bubblyz | 387722 | [387722-party-pop-bubblyz.json](./387722-party-pop-bubblyz.json) |
 | Party Poppers | 113684 | [113684-party-poppers.json](./113684-party-poppers.json) |
 | Party Print 'N Play | 79607 | [79607-party-print-n-play.json](./79607-party-print-n-play.json) |
@@ -3885,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Beasts: Redemption | 149392 | [149392-phantom-beasts-redemption.json](./149392-phantom-beasts-redemption.json) |
 | Phantom Blade 0 | 250618 | [250618-phantom-blade-0.json](./250618-phantom-blade-0.json) |
 | Phantom Blade: Executioners | 173080 | [173080-phantom-blade-executioners.json](./173080-phantom-blade-executioners.json) |
+| Phantom Blaze | 273758 | [273758-phantom-blaze.json](./273758-phantom-blaze.json) |
 | Phantom Bound | 293626 | [293626-phantom-bound.json](./293626-phantom-bound.json) |
 | Phantom Brave | 5097 | [5097-phantom-brave.json](./5097-phantom-brave.json) |
 | Phantom Brave PC | 34290 | [34290-phantom-brave-pc.json](./34290-phantom-brave-pc.json) |
