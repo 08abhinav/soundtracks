@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Bingo | 265185 | [265185-fight-bingo.json](./265185-fight-bingo.json) |
 | Fight Bots | 154361 | [154361-fight-bots.json](./154361-fight-bots.json) |
 | Fight Buddy Mobile | 200738 | [200738-fight-buddy-mobile.json](./200738-fight-buddy-mobile.json) |
+| Fight Club | 297296 | [297296-fight-club.json](./297296-fight-club.json) |
 | Fight Club | 5834 | [5834-fight-club.json](./5834-fight-club.json) |
 | Fight Club World | 336882 | [336882-fight-club-world.json](./336882-fight-club-world.json) |
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
@@ -5204,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Vsauce VR | 323802 | [323802-five-nights-at-vsauce-vr.json](./323802-five-nights-at-vsauce-vr.json) |
 | Five Nights at Wario's 4 | 280770 | [280770-five-nights-at-warios-4.json](./280770-five-nights-at-warios-4.json) |
 | Five Nights In Saransk | 381257 | [381257-five-nights-in-saransk.json](./381257-five-nights-in-saransk.json) |
+| Five Nights of Nightmare: Escape Horror Story | 297313 | [297313-five-nights-of-nightmare-escape-horror-story.json](./297313-five-nights-of-nightmare-escape-horror-story.json) |
 | Five Nights on the Toilet | 267389 | [267389-five-nights-on-the-toilet.json](./267389-five-nights-on-the-toilet.json) |
 | Five Nights on the Toilet: Number 2 | 267388 | [267388-five-nights-on-the-toilet-number-2.json](./267388-five-nights-on-the-toilet-number-2.json) |
 | Five Nights with Floppa: R | 370213 | [370213-five-nights-with-floppa-r.json](./370213-five-nights-with-floppa-r.json) |
