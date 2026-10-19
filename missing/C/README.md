@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
 | Catlateral Damage: VR | 170315 | [170315-catlateral-damage-vr.json](./170315-catlateral-damage-vr.json) |
 | Catlike Magic | 214116 | [214116-catlike-magic.json](./214116-catlike-magic.json) |
+| Catlists | 295614 | [295614-catlists.json](./295614-catlists.json) |
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
@@ -8670,6 +8671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Puzzle | 104652 | [104652-color-rings-puzzle.json](./104652-color-rings-puzzle.json) |
+| Color Road: Sweet & Shiny | 295699 | [295699-color-road-sweet-and-shiny.json](./295699-color-road-sweet-and-shiny.json) |
 | Color Road! | 90364 | [90364-color-road.json](./90364-color-road.json) |
 | Color Roll 3D | 215242 | [215242-color-roll-3d.json](./215242-color-roll-3d.json) |
 | Color Shape | 109528 | [109528-color-shape.json](./109528-color-shape.json) |
@@ -9974,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Runner | 291533 | [291533-construction-runner.json](./291533-construction-runner.json) |
 | Construction Simulator 2 | 87338 | [87338-construction-simulator-2.json](./87338-construction-simulator-2.json) |
 | Construction Simulator 2+3 | 139934 | [139934-construction-simulator-2-3.json](./139934-construction-simulator-2-3.json) |
+| Construction Simulator 2+3 Bundle | 295698 | [295698-construction-simulator-2-3-bundle.json](./295698-construction-simulator-2-3-bundle.json) |
 | Construction Simulator 2014 | 86891 | [86891-construction-simulator-2014.json](./86891-construction-simulator-2014.json) |
 | Construction Simulator 2015: Deluxe Edition | 136372 | [136372-construction-simulator-2015-deluxe-edition.json](./136372-construction-simulator-2015-deluxe-edition.json) |
 | Construction Simulator 2015: Liebherr 150 EC-B | 168916 | [168916-construction-simulator-2015-liebherr-150-ec-b.json](./168916-construction-simulator-2015-liebherr-150-ec-b.json) |
@@ -13776,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube 3x1 | 331993 | [331993-cube-3x1.json](./331993-cube-3x1.json) |
 | Cube Adventure | 213545 | [213545-cube-adventure.json](./213545-cube-adventure.json) |
 | Cube Airport | 249186 | [249186-cube-airport.json](./249186-cube-airport.json) |
+| Cube Airport + Cube Farmer | 295697 | [295697-cube-airport-cube-farmer.json](./295697-cube-airport-cube-farmer.json) |
 | Cube Arena | 304900 | [304900-cube-arena.json](./304900-cube-arena.json) |
 | Cube Battlefield: 2048 | 267071 | [267071-cube-battlefield-2048.json](./267071-cube-battlefield-2048.json) |
 | Cube Battler: Anna Miraiden | 70875 | [70875-cube-battler-anna-miraiden.json](./70875-cube-battler-anna-miraiden.json) |
