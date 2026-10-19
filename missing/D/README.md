@@ -823,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dango! | 207726 | [207726-dango.json](./207726-dango.json) |
 | DangoVerse | 284998 | [284998-dangoverse.json](./284998-dangoverse.json) |
 | Dangun Feveron | 40979 | [40979-dangun-feveron.json](./40979-dangun-feveron.json) |
+| Dani to Evan: Kids Note | 280073 | [280073-dani-to-evan-kids-note.json](./280073-dani-to-evan-kids-note.json) |
 | Daniel Pintado's Land of Silence | 284999 | [284999-daniel-pintados-land-of-silence.json](./284999-daniel-pintados-land-of-silence.json) |
 | Daniel X: The Ultimate Power | 67188 | [67188-daniel-x-the-ultimate-power.json](./67188-daniel-x-the-ultimate-power.json) |
 | Daniel's Jetpack Flight | 331755 | [331755-daniels-jetpack-flight.json](./331755-daniels-jetpack-flight.json) |
