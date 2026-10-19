@@ -1992,6 +1992,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnasis | 360007 | [360007-carnasis.json](./360007-carnasis.json) |
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
+| Carnival | 277195 | [277195-carnival.json](./277195-carnival.json) |
+| Carnival | 277196 | [277196-carnival.json](./277196-carnival.json) |
+| Carnival | 277204 | [277204-carnival.json](./277204-carnival.json) |
 | Carnival | 297810 | [297810-carnival.json](./297810-carnival.json) |
 | Carnival and Girls | 170915 | [170915-carnival-and-girls.json](./170915-carnival-and-girls.json) |
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
@@ -2464,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crumble | 235306 | [235306-castle-crumble.json](./235306-castle-crumble.json) |
 | Castle Defender | 273909 | [273909-castle-defender.json](./273909-castle-defender.json) |
 | Castle Defense | 182852 | [182852-castle-defense.json](./182852-castle-defense.json) |
+| Castle Defense | 277158 | [277158-castle-defense.json](./277158-castle-defense.json) |
 | Castle Demolition VR | 55260 | [55260-castle-demolition-vr.json](./55260-castle-demolition-vr.json) |
 | Castle Dice | 200035 | [200035-castle-dice.json](./200035-castle-dice.json) |
 | Castle Diorama | 183398 | [183398-castle-diorama.json](./183398-castle-diorama.json) |
@@ -3265,6 +3269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catovania | 132629 | [132629-catovania.json](./132629-catovania.json) |
 | Catpillar | 343053 | [343053-catpillar.json](./343053-catpillar.json) |
 | Catrap | 7820 | [7820-catrap.json](./7820-catrap.json) |
+| Catrina's Halloween Nightmare | 277152 | [277152-catrinas-halloween-nightmare.json](./277152-catrinas-halloween-nightmare.json) |
 | Catroom Drama: Case 1 | 183933 | [183933-catroom-drama-case-1.json](./183933-catroom-drama-case-1.json) |
 | Catroom Drama: Case 2 | 183953 | [183953-catroom-drama-case-2.json](./183953-catroom-drama-case-2.json) |
 | CatRoots | 130334 | [130334-catroots.json](./130334-catroots.json) |
