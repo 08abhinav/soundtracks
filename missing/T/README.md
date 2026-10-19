@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Lily | 304873 | [304873-temple-of-lily.json](./304873-temple-of-lily.json) |
 | Temple of Lust | 273552 | [273552-temple-of-lust.json](./273552-temple-of-lust.json) |
 | Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
+| Temple of Quake | 309197 | [309197-temple-of-quake.json](./309197-temple-of-quake.json) |
 | Temple of ROM | 42132 | [42132-temple-of-rom.json](./42132-temple-of-rom.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal22 | 279099 | [279099-terminal22.json](./279099-terminal22.json) |
 | TerminalMaster | 339407 | [339407-terminalmaster.json](./339407-terminalmaster.json) |
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
+| Termination Mental | 309190 | [309190-termination-mental.json](./309190-termination-mental.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
@@ -7984,6 +7986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The I of It | 225292 | [225292-the-i-of-it.json](./225292-the-i-of-it.json) |
 | The IBM Basic Quiz | 79603 | [79603-the-ibm-basic-quiz.json](./79603-the-ibm-basic-quiz.json) |
 | The Icarus Experiment | 317307 | [317307-the-icarus-experiment.json](./317307-the-icarus-experiment.json) |
+| The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
@@ -10743,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
+| The Palace of Fear | 309192 | [309192-the-palace-of-fear.json](./309192-the-palace-of-fear.json) |
 | The Palace of Unrest | 231404 | [231404-the-palace-of-unrest.json](./231404-the-palace-of-unrest.json) |
 | The Palace on the Hill | 153430 | [153430-the-palace-on-the-hill.json](./153430-the-palace-on-the-hill.json) |
 | The Palaces of The Mind | 389548 | [389548-the-palaces-of-the-mind.json](./389548-the-palaces-of-the-mind.json) |
@@ -11080,6 +11084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The protectors of Deya | 158096 | [158096-the-protectors-of-deya.json](./158096-the-protectors-of-deya.json) |
 | The Protocol Directive | 323948 | [323948-the-protocol-directive.json](./323948-the-protocol-directive.json) |
 | The Protocons | 93758 | [93758-the-protocons.json](./93758-the-protocons.json) |
+| The Prototype | 309174 | [309174-the-prototype.json](./309174-the-prototype.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Proud and the Few | 59321 | [59321-the-proud-and-the-few.json](./59321-the-proud-and-the-few.json) |
 | The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
@@ -12283,6 +12288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slime's Choice: TSC | 297751 | [297751-the-slimes-choice-tsc.json](./297751-the-slimes-choice-tsc.json) |
 | The Slingshot VR | 32212 | [32212-the-slingshot-vr.json](./32212-the-slingshot-vr.json) |
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
+| The Slipgate Massacre | 309198 | [309198-the-slipgate-massacre.json](./309198-the-slipgate-massacre.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
 | The Slothgate Experiment | 224712 | [224712-the-slothgate-experiment.json](./224712-the-slothgate-experiment.json) |
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
@@ -12608,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Submerging Island | 253453 | [253453-the-submerging-island.json](./253453-the-submerging-island.json) |
 | The Subminer | 410344 | [410344-the-subminer.json](./410344-the-subminer.json) |
 | The Substance of Things | 174359 | [174359-the-substance-of-things.json](./174359-the-substance-of-things.json) |
+| The Subterrestrial Hangar | 309199 | [309199-the-subterrestrial-hangar.json](./309199-the-subterrestrial-hangar.json) |
 | The Suburb: Not Just Dinner | 176766 | [176766-the-suburb-not-just-dinner.json](./176766-the-suburb-not-just-dinner.json) |
 | The Succubi Trap | 74354 | [74354-the-succubi-trap.json](./74354-the-succubi-trap.json) |
 | The Sudoku Challenge! | 257311 | [257311-the-sudoku-challenge.json](./257311-the-sudoku-challenge.json) |
@@ -15083,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
+| Thunder Jaws | 309189 | [309189-thunder-jaws.json](./309189-thunder-jaws.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
@@ -23899,6 +23907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
+| TWHL Tower: Source | 309161 | [309161-twhl-tower-source.json](./309161-twhl-tower-source.json) |
 | Twhols | 377717 | [377717-twhols.json](./377717-twhols.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
