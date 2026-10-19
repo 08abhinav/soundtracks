@@ -910,6 +910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
+| A Technician's Nightmare | 280677 | [280677-a-technicians-nightmare.json](./280677-a-technicians-nightmare.json) |
 | A Tempting Life with My Neighbor | 420679 | [420679-a-tempting-life-with-my-neighbor.json](./420679-a-tempting-life-with-my-neighbor.json) |
 | A Test Before Jianghu | 235278 | [235278-a-test-before-jianghu.json](./235278-a-test-before-jianghu.json) |
 | A Thief's Legacy | 52562 | [52562-a-thiefs-legacy.json](./52562-a-thiefs-legacy.json) |
@@ -2117,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actually Additions | 232420 | [232420-actually-additions.json](./232420-actually-additions.json) |
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
+| Aculeata | 280675 | [280675-aculeata.json](./280675-aculeata.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
 | Ad Agency Simulator | 291326 | [291326-ad-agency-simulator.json](./291326-ad-agency-simulator.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
@@ -5746,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alzara: Radiant Echoes | 300878 | [300878-alzara-radiant-echoes.json](./300878-alzara-radiant-echoes.json) |
 | Alzheimer's: Memories | 160230 | [160230-alzheimers-memories.json](./160230-alzheimers-memories.json) |
 | Am I AI | 263573 | [263573-am-i-ai.json](./263573-am-i-ai.json) |
+| Am I Explorer | 280665 | [280665-am-i-explorer.json](./280665-am-i-explorer.json) |
 | Am I Here? | 399160 | [399160-am-i-here.json](./399160-am-i-here.json) |
 | Am I Hero? | 169338 | [169338-am-i-hero.json](./169338-am-i-hero.json) |
 | Am I Live | 333075 | [333075-am-i-live.json](./333075-am-i-live.json) |
@@ -8191,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartus | 276710 | [276710-apartus.json](./276710-apartus.json) |
 | Apassionata: A Passionate Horse-Show - My Show | 269644 | [269644-apassionata-a-passionate-horse-show-my-show.json](./269644-apassionata-a-passionate-horse-show-my-show.json) |
 | Apathy Hayarigami | 212255 | [212255-apathy-hayarigami.json](./212255-apathy-hayarigami.json) |
+| Apathy in Our Stars | 280656 | [280656-apathy-in-our-stars.json](./280656-apathy-in-our-stars.json) |
 | Apathy Satsujin Club | 308888 | [308888-apathy-satsujin-club.json](./308888-apathy-satsujin-club.json) |
 | Apathy: Arai Shouji | 210825 | [210825-apathy-arai-shouji.json](./210825-apathy-arai-shouji.json) |
 | Apathy: Arai Shouji - DLC | 358497 | [358497-apathy-arai-shouji-dlc.json](./358497-apathy-arai-shouji-dlc.json) |
@@ -11780,6 +11784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asylum Night Shift | 90392 | [90392-asylum-night-shift.json](./90392-asylum-night-shift.json) |
+| Asylum Nightmares | 280668 | [280668-asylum-nightmares.json](./280668-asylum-nightmares.json) |
 | Asylum of Horror | 302092 | [302092-asylum-of-horror.json](./302092-asylum-of-horror.json) |
 | Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
