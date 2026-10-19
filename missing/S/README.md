@@ -6291,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrai: Broken Beyond Despair | 32105 | [32105-shinrai-broken-beyond-despair.json](./32105-shinrai-broken-beyond-despair.json) |
 | Shinrei Gakkou kara no Dasshutsu | 150130 | [150130-shinrei-gakkou-kara-no-dasshutsu.json](./150130-shinrei-gakkou-kara-no-dasshutsu.json) |
 | Shinrei Jusatsushi Taroumaru | 45456 | [45456-shinrei-jusatsushi-taroumaru.json](./45456-shinrei-jusatsushi-taroumaru.json) |
+| Shinrei Ryokan | 283068 | [283068-shinrei-ryokan.json](./283068-shinrei-ryokan.json) |
 | Shinreigari: Ghost Hound DS | 123408 | [123408-shinreigari-ghost-hound-ds.json](./123408-shinreigari-ghost-hound-ds.json) |
 | Shinrin-yoku: Forest Meditation and Relaxation | 343764 | [343764-shinrin-yoku-forest-meditation-and-relaxation.json](./343764-shinrin-yoku-forest-meditation-and-relaxation.json) |
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
@@ -19362,6 +19363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Raid | 149212 | [149212-stellar-raid.json](./149212-stellar-raid.json) |
 | Stellar Raiders | 373172 | [373172-stellar-raiders.json](./373172-stellar-raiders.json) |
 | Stellar Reach | 372249 | [372249-stellar-reach.json](./372249-stellar-reach.json) |
+| Stellar Realm Voyage | 283052 | [283052-stellar-realm-voyage.json](./283052-stellar-realm-voyage.json) |
 | Stellar Reflections | 292770 | [292770-stellar-reflections.json](./292770-stellar-reflections.json) |
 | Stellar Renegades | 179699 | [179699-stellar-renegades.json](./179699-stellar-renegades.json) |
 | Stellar Rescue | 134423 | [134423-stellar-rescue.json](./134423-stellar-rescue.json) |
@@ -21667,6 +21669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Cookie Mountain! | 412911 | [412911-sugar-cookie-mountain.json](./412911-sugar-cookie-mountain.json) |
 | Sugar Crime | 193677 | [193677-sugar-crime.json](./193677-sugar-crime.json) |
+| Sugar Cult Paradigm | 283028 | [283028-sugar-cult-paradigm.json](./283028-sugar-cult-paradigm.json) |
 | Sugar Daddy Crush: Hidden Hotel Love Story | 387674 | [387674-sugar-daddy-crush-hidden-hotel-love-story.json](./387674-sugar-daddy-crush-hidden-hotel-love-story.json) |
 | Sugar Drops | 61048 | [61048-sugar-drops.json](./61048-sugar-drops.json) |
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
@@ -22098,6 +22101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Wukong VS Robot | 113725 | [113725-sun-wukong-vs-robot.json](./113725-sun-wukong-vs-robot.json) |
 | Sun Wukong: Journey to the West | 184925 | [184925-sun-wukong-journey-to-the-west.json](./184925-sun-wukong-journey-to-the-west.json) |
 | Sun-Rise.exe | 264612 | [264612-sun-rise-exe.json](./264612-sun-rise-exe.json) |
+| Sun-shot Legend | 283065 | [283065-sun-shot-legend.json](./283065-sun-shot-legend.json) |
 | Sun, Sand & Monster Slayers | 391831 | [391831-sun-sand-and-monster-slayers.json](./391831-sun-sand-and-monster-slayers.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
