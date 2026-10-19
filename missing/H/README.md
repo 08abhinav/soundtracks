@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
+| Halloween Naughty Girls | 266081 | [266081-halloween-naughty-girls.json](./266081-halloween-naughty-girls.json) |
 | Halloween Night | 209447 | [209447-halloween-night.json](./209447-halloween-night.json) |
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
@@ -1551,6 +1552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonia Heart | 206181 | [206181-harmonia-heart.json](./206181-harmonia-heart.json) |
 | Harmonia: Full HD Edition | 289587 | [289587-harmonia-full-hd-edition.json](./289587-harmonia-full-hd-edition.json) |
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
+| Harmonic Depths | 266096 | [266096-harmonic-depths.json](./266096-harmonic-depths.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
@@ -2248,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
 | HB Arcade Disc Golf | 84527 | [84527-hb-arcade-disc-golf.json](./84527-hb-arcade-disc-golf.json) |
 | HB2 Plus | 91349 | [91349-hb2-plus.json](./91349-hb2-plus.json) |
+| HBD-RPG | 266110 | [266110-hbd-rpg.json](./266110-hbd-rpg.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
@@ -2584,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
 | Heat and Run | 130120 | [130120-heat-and-run.json](./130120-heat-and-run.json) |
 | Heat Death | 191653 | [191653-heat-death.json](./191653-heat-death.json) |
+| Heat Division: Rescue Team | 266103 | [266103-heat-division-rescue-team.json](./266103-heat-division-rescue-team.json) |
 | Heat Game Network | 94421 | [94421-heat-game-network.json](./94421-heat-game-network.json) |
 | Heat Gear: Race & Drift World | 193847 | [193847-heat-gear-race-and-drift-world.json](./193847-heat-gear-race-and-drift-world.json) |
 | Heat Guardian | 83859 | [83859-heat-guardian.json](./83859-heat-guardian.json) |
@@ -3156,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helldivers: Turning Up the Heat | 267989 | [267989-helldivers-turning-up-the-heat.json](./267989-helldivers-turning-up-the-heat.json) |
 | Helldivers: Vehicles Pack | 167665 | [167665-helldivers-vehicles-pack.json](./167665-helldivers-vehicles-pack.json) |
 | Helldivers: Weapons Pack | 167663 | [167663-helldivers-weapons-pack.json](./167663-helldivers-weapons-pack.json) |
+| Helle's Undersea City Project: Bringing Air to The Garden | 266092 | [266092-helles-undersea-city-project-bringing-air-to-the-garden.json](./266092-helles-undersea-city-project-bringing-air-to-the-garden.json) |
 | Helleidoscope | 364674 | [364674-helleidoscope.json](./364674-helleidoscope.json) |
 | Hellementalz | 19213 | [19213-hellementalz.json](./19213-hellementalz.json) |
 | Hellen's Gallery | 269290 | [269290-hellens-gallery.json](./269290-hellens-gallery.json) |
@@ -5143,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
+| Hidden Glade | 266082 | [266082-hidden-glade.json](./266082-hidden-glade.json) |
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
 | Hidden Harbor 3 Top-Down 3D | 241417 | [241417-hidden-harbor-3-top-down-3d.json](./241417-hidden-harbor-3-top-down-3d.json) |
 | Hidden Harbor Top-Down 3D | 195247 | [195247-hidden-harbor-top-down-3d.json](./195247-hidden-harbor-top-down-3d.json) |
