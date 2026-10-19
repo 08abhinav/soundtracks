@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improvise, Adapt, Overcome | 402802 | [402802-improvise-adapt-overcome.json](./402802-improvise-adapt-overcome.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Impulse | 137027 | [137027-impulse.json](./137027-impulse.json) |
+| Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
@@ -4342,7 +4343,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man | 200688 | [200688-iron-man.json](./200688-iron-man.json) |
 | Iron Man | 248179 | [248179-iron-man.json](./248179-iron-man.json) |
 | Iron Man | 257213 | [257213-iron-man.json](./257213-iron-man.json) |
+| Iron Man | 257214 | [257214-iron-man.json](./257214-iron-man.json) |
+| Iron Man | 257215 | [257215-iron-man.json](./257215-iron-man.json) |
 | Iron Man | 4935 | [4935-iron-man.json](./4935-iron-man.json) |
+| Iron Man 2 | 257218 | [257218-iron-man-2.json](./257218-iron-man-2.json) |
 | Iron Man 2 | 4936 | [4936-iron-man-2.json](./4936-iron-man-2.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 240164 | [240164-iron-man-and-x-o-manowar-in-heavy-metal.json](./240164-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
