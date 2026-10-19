@@ -8385,6 +8385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey East and West | 360686 | [360686-the-journey-east-and-west.json](./360686-the-journey-east-and-west.json) |
 | The Journey Home | 178529 | [178529-the-journey-home.json](./178529-the-journey-home.json) |
 | The Journey Home | 267299 | [267299-the-journey-home.json](./267299-the-journey-home.json) |
+| The Journey Home | 272169 | [272169-the-journey-home.json](./272169-the-journey-home.json) |
 | The Journey into the Virtual Void | 312167 | [312167-the-journey-into-the-virtual-void.json](./312167-the-journey-into-the-virtual-void.json) |
 | The Journey of Allen Strange: Match-Master | 273879 | [273879-the-journey-of-allen-strange-match-master.json](./273879-the-journey-of-allen-strange-match-master.json) |
 | The Journey of AutUmn | 164996 | [164996-the-journey-of-autumn.json](./164996-the-journey-of-autumn.json) |
@@ -12808,6 +12809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
 | The Super Mario Bros. Super Show! 64 | 135268 | [135268-the-super-mario-bros-super-show-64.json](./135268-the-super-mario-bros-super-show-64.json) |
 | The Super Patriotic Dating Simulator | 106117 | [106117-the-super-patriotic-dating-simulator.json](./106117-the-super-patriotic-dating-simulator.json) |
+| The Super Penguboy | 272178 | [272178-the-super-penguboy.json](./272178-the-super-penguboy.json) |
 | The Super Pie Throwing | 322254 | [322254-the-super-pie-throwing.json](./322254-the-super-pie-throwing.json) |
 | The Super Robot Bros | 313134 | [313134-the-super-robot-bros.json](./313134-the-super-robot-bros.json) |
 | The Super Spy | 46838 | [46838-the-super-spy.json](./46838-the-super-spy.json) |
@@ -12957,6 +12959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Template | 359009 | [359009-the-template.json](./359009-the-template.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
 | The Temple of Adventure | 165406 | [165406-the-temple-of-adventure.json](./165406-the-temple-of-adventure.json) |
+| The Temple of Blooooood | 272166 | [272166-the-temple-of-blooooood.json](./272166-the-temple-of-blooooood.json) |
 | The Temple of Children | 296466 | [296466-the-temple-of-children.json](./296466-the-temple-of-children.json) |
 | The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
@@ -19175,6 +19178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tortuga: Pirates of the New World | 24759 | [24759-tortuga-pirates-of-the-new-world.json](./24759-tortuga-pirates-of-the-new-world.json) |
 | Tortuga: Two Treasures | 21394 | [21394-tortuga-two-treasures.json](./21394-tortuga-two-treasures.json) |
 | Torture | 268464 | [268464-torture.json](./268464-torture.json) |
+| Torture | 272171 | [272171-torture.json](./272171-torture.json) |
 | Torture | 276458 | [276458-torture.json](./276458-torture.json) |
 | Torture Chamber | 99673 | [99673-torture-chamber.json](./99673-torture-chamber.json) |
 | Torture Jam 1 | 308525 | [308525-torture-jam-1.json](./308525-torture-jam-1.json) |
@@ -23215,6 +23219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TroubleDays | 129346 | [129346-troubledays.json](./129346-troubledays.json) |
 | Troublemaker | 153398 | [153398-troublemaker.json](./153398-troublemaker.json) |
 | Troublemaker 2: Beyond Dream | 271907 | [271907-troublemaker-2-beyond-dream.json](./271907-troublemaker-2-beyond-dream.json) |
+| Troublemaker: Raise Your Gang | 272180 | [272180-troublemaker-raise-your-gang.json](./272180-troublemaker-raise-your-gang.json) |
 | Troubles in Silesia Country | 250013 | [250013-troubles-in-silesia-country.json](./250013-troubles-in-silesia-country.json) |
 | Troubles Land | 34584 | [34584-troubles-land.json](./34584-troubles-land.json) |
 | Troubleshooter | 84113 | [84113-troubleshooter.json](./84113-troubleshooter.json) |
@@ -23744,6 +23749,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
+| Tuiterland | 272144 | [272144-tuiterland.json](./272144-tuiterland.json) |
+| Tuiterland 0rigins | 272148 | [272148-tuiterland-0rigins.json](./272148-tuiterland-0rigins.json) |
+| Tuiterland 2 v2.0 | 272145 | [272145-tuiterland-2-v2-0.json](./272145-tuiterland-2-v2-0.json) |
+| Tuiterland 3 | 272146 | [272146-tuiterland-3.json](./272146-tuiterland-3.json) |
+| Tuiterland 3 Definitive Edition | 272147 | [272147-tuiterland-3-definitive-edition.json](./272147-tuiterland-3-definitive-edition.json) |
+| Tuiterland 4 | 272149 | [272149-tuiterland-4.json](./272149-tuiterland-4.json) |
 | Tuiterland 5: El Fin de las Redes Sociales | 342704 | [342704-tuiterland-5-el-fin-de-las-redes-sociales.json](./342704-tuiterland-5-el-fin-de-las-redes-sociales.json) |
 | Tuk Ruk | 286426 | [286426-tuk-ruk.json](./286426-tuk-ruk.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
