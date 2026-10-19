@@ -2219,6 +2219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Days LxH | 178079 | [178079-school-days-lxh.json](./178079-school-days-lxh.json) |
 | School Days Simulator | 303080 | [303080-school-days-simulator.json](./303080-school-days-simulator.json) |
 | School Dungeons | 102275 | [102275-school-dungeons.json](./102275-school-dungeons.json) |
+| School Evasion | 277194 | [277194-school-evasion.json](./277194-school-evasion.json) |
 | School Exit Class 8 | 360079 | [360079-school-exit-class-8.json](./360079-school-exit-class-8.json) |
 | School Fantasy | 267423 | [267423-school-fantasy.json](./267423-school-fantasy.json) |
 | School Flight Simulator | 234650 | [234650-school-flight-simulator.json](./234650-school-flight-simulator.json) |
@@ -2732,6 +2733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw-Nut | 87970 | [87970-screw-nut.json](./87970-screw-nut.json) |
 | Screwball | 25498 | [25498-screwball.json](./25498-screwball.json) |
 | Screwball | 356589 | [356589-screwball.json](./356589-screwball.json) |
+| Screwball Scramble | 277161 | [277161-screwball-scramble.json](./277161-screwball-scramble.json) |
 | Screwdom 3D | 332430 | [332430-screwdom-3d.json](./332430-screwdom-3d.json) |
 | Scriball | 286684 | [286684-scriball.json](./286684-scriball.json) |
 | Scribble | 262675 | [262675-scribble.json](./262675-scribble.json) |
@@ -6132,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Nippon Pro Wrestling '94: Battlefield in Tokyo Dome | 61304 | [61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json](./61304-shin-nippon-pro-wrestling-94-battlefield-in-tokyo-dome.json) |
 | Shin Nippon Pro Wrestling: Chou Senshi in Tokyo Dome - Fantastic Story | 61317 | [61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json](./61317-shin-nippon-pro-wrestling-chou-senshi-in-tokyo-dome-fantastic-story.json) |
 | Shin Nippon Pro Wrestling: Gekitou Densetsu | 231519 | [231519-shin-nippon-pro-wrestling-gekitou-densetsu.json](./231519-shin-nippon-pro-wrestling-gekitou-densetsu.json) |
+| Shin Nippon Pro Wrestling: Toukon Retsuden | 277151 | [277151-shin-nippon-pro-wrestling-toukon-retsuden.json](./277151-shin-nippon-pro-wrestling-toukon-retsuden.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 2 | 43876 | [43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json](./43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json) |
 | Shin Nippon Pro Wrestling: Toukon Retsuden 4 | 45801 | [45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json](./45801-shin-nippon-pro-wrestling-toukon-retsuden-4.json) |
 | Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits | 3556 | [3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json](./3556-shin-nippon-pro-wrestling-toukon-road-brave-spirits.json) |
@@ -6555,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockwave Tetris | 383036 | [383036-shockwave-tetris.json](./383036-shockwave-tetris.json) |
 | Shockwave Triggers | 335466 | [335466-shockwave-triggers.json](./335466-shockwave-triggers.json) |
 | Shockwave: Land of the Blind | 207577 | [207577-shockwave-land-of-the-blind.json](./207577-shockwave-land-of-the-blind.json) |
+| Shockwaves | 277188 | [277188-shockwaves.json](./277188-shockwaves.json) |
 | Shockwaves | 289421 | [289421-shockwaves.json](./289421-shockwaves.json) |
 | Shockway Rider | 28824 | [28824-shockway-rider.json](./28824-shockway-rider.json) |
 | Shodan Morita Shogi | 38372 | [38372-shodan-morita-shogi.json](./38372-shodan-morita-shogi.json) |
@@ -20869,6 +20873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Force Foxx | 85400 | [85400-strike-force-foxx.json](./85400-strike-force-foxx.json) |
 | Strike Force Harrier | 26480 | [26480-strike-force-harrier.json](./26480-strike-force-harrier.json) |
 | Strike Force Heroes | 213516 | [213516-strike-force-heroes.json](./213516-strike-force-heroes.json) |
+| Strike Force Heroes | 277203 | [277203-strike-force-heroes.json](./277203-strike-force-heroes.json) |
 | Strike Force Hydra | 49381 | [49381-strike-force-hydra.json](./49381-strike-force-hydra.json) |
 | Strike Force Kitty | 126486 | [126486-strike-force-kitty.json](./126486-strike-force-kitty.json) |
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
@@ -23806,6 +23811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Night Riders | 19887 | [19887-super-night-riders.json](./19887-super-night-riders.json) |
 | Super Night Riders S1 | 193196 | [193196-super-night-riders-s1.json](./193196-super-night-riders-s1.json) |
 | Super Nihon Cheating Cup 86' | 369691 | [369691-super-nihon-cheating-cup-86.json](./369691-super-nihon-cheating-cup-86.json) |
+| Super Nin-e Sisters | 277150 | [277150-super-nin-e-sisters.json](./277150-super-nin-e-sisters.json) |
 | Super Ninja | 299411 | [299411-super-ninja.json](./299411-super-ninja.json) |
 | Super Ninja Boy | 42603 | [42603-super-ninja-boy.json](./42603-super-ninja-boy.json) |
 | Super Ninja Hero VR | 31164 | [31164-super-ninja-hero-vr.json](./31164-super-ninja-hero-vr.json) |
