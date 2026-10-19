@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichizu na Kanojo to Koi Shitai | 402486 | [402486-ichizu-na-kanojo-to-koi-shitai.json](./402486-ichizu-na-kanojo-to-koi-shitai.json) |
 | Ichor | 122398 | [122398-ichor.json](./122398-ichor.json) |
 | Ichor Burns | 358958 | [358958-ichor-burns.json](./358958-ichor-burns.json) |
+| Ichor: Blood of the Gods | 268868 | [268868-ichor-blood-of-the-gods.json](./268868-ichor-blood-of-the-gods.json) |
 | Ichorian Tales | 415923 | [415923-ichorian-tales.json](./415923-ichorian-tales.json) |
 | Ichorless | 365180 | [365180-ichorless.json](./365180-ichorless.json) |
 | Ichorous | 287888 | [287888-ichorous.json](./287888-ichorous.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iJezzball | 88218 | [88218-ijezzball.json](./88218-ijezzball.json) |
 | Iji | 9778 | [9778-iji.json](./9778-iji.json) |
 | Ijigen Kara no Dasshutsu: Escape from Twilight Zone | 97326 | [97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json](./97326-ijigen-kara-no-dasshutsu-escape-from-twilight-zone.json) |
+| Ika Blade | 268913 | [268913-ika-blade.json](./268913-ika-blade.json) |
 | Ika's Odyssey | 340510 | [340510-ikas-odyssey.json](./340510-ikas-odyssey.json) |
 | IkachanDS | 339243 | [339243-ikachands.json](./339243-ikachands.json) |
 | Ikanoid | 78600 | [78600-ikanoid.json](./78600-ikanoid.json) |
