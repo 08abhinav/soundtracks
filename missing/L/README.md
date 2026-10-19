@@ -5443,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Cartoon Conductor | 21364 | [21364-looney-tunes-cartoon-conductor.json](./21364-looney-tunes-cartoon-conductor.json) |
 | Looney Tunes: Dizzy Driving | 136999 | [136999-looney-tunes-dizzy-driving.json](./136999-looney-tunes-dizzy-driving.json) |
 | Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
+| Looney Tunes: Road Runner & Wile E. Coyote | 281879 | [281879-looney-tunes-road-runner-and-wile-e-coyote.json](./281879-looney-tunes-road-runner-and-wile-e-coyote.json) |
 | Looney Tunes: Space Race | 8136 | [8136-looney-tunes-space-race.json](./8136-looney-tunes-space-race.json) |
 | Looney Tunes: Wacky World of Sports | 306142 | [306142-looney-tunes-wacky-world-of-sports.json](./306142-looney-tunes-wacky-world-of-sports.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
