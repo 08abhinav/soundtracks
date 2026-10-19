@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensual Adventures: Episode 8 | 259002 | [259002-sensual-adventures-episode-8.json](./259002-sensual-adventures-episode-8.json) |
 | Sensual Adventures: Episode 9 | 277842 | [277842-sensual-adventures-episode-9.json](./277842-sensual-adventures-episode-9.json) |
 | Sensual Adventures: The Game | 155552 | [155552-sensual-adventures-the-game.json](./155552-sensual-adventures-the-game.json) |
+| Sensual Slots | 290813 | [290813-sensual-slots.json](./290813-sensual-slots.json) |
 | Sensual VR | 80941 | [80941-sensual-vr.json](./80941-sensual-vr.json) |
 | Sent to the Office | 238445 | [238445-sent-to-the-office.json](./238445-sent-to-the-office.json) |
 | Sentama | 223966 | [223966-sentama.json](./223966-sentama.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Eldham | 302086 | [302086-shadows-of-eldham.json](./302086-shadows-of-eldham.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
+| Shadows of Forbidden Gods: The Horrors Beneath | 290783 | [290783-shadows-of-forbidden-gods-the-horrors-beneath.json](./290783-shadows-of-forbidden-gods-the-horrors-beneath.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
 | Shadows of Memory Ll | 348912 | [348912-shadows-of-memory-ll.json](./348912-shadows-of-memory-ll.json) |
@@ -14398,6 +14400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
+| Space Manifest | 290776 | [290776-space-manifest.json](./290776-space-manifest.json) |
 | Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
 | Space Marauder | 49968 | [49968-space-marauder.json](./49968-space-marauder.json) |
 | Space Marine VR - Defenders of Avarax | 302167 | [302167-space-marine-vr-defenders-of-avarax.json](./302167-space-marine-vr-defenders-of-avarax.json) |
@@ -15634,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sperm Into Labia | 310742 | [310742-sperm-into-labia.json](./310742-sperm-into-labia.json) |
 | Sperma | 232698 | [232698-sperma.json](./232698-sperma.json) |
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
+| Sperme d’Éros: Garden of Earthly Delights | 290807 | [290807-sperme-d-eros-garden-of-earthly-delights.json](./290807-sperme-d-eros-garden-of-earthly-delights.json) |
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
 | Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
