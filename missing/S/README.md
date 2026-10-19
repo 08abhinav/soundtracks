@@ -12343,6 +12343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
 | Sonia no Daibouken: Mittsu no Hihou no Kakusareta Nazo! | 279509 | [279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json](./279509-sonia-no-daibouken-mittsu-no-hihou-no-kakusareta-nazo.json) |
+| Sonic [Unl] | 308656 | [308656-sonic-unl.json](./308656-sonic-unl.json) |
 | Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
@@ -13065,6 +13066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Zenith | 331752 | [331752-sonic-zenith.json](./331752-sonic-zenith.json) |
 | Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
+| Sonic_1_2_3_Rom: Sonic.Ribs | 308635 | [308635-sonic-1-2-3-rom-sonic-ribs.json](./308635-sonic-1-2-3-rom-sonic-ribs.json) |
 | Sonic: After the Sequel | 19722 | [19722-sonic-after-the-sequel.json](./19722-sonic-after-the-sequel.json) |
 | Sonic: After the Sequel - Omega | 313570 | [313570-sonic-after-the-sequel-omega.json](./313570-sonic-after-the-sequel-omega.json) |
 | Sonic: Before the Sequel | 19723 | [19723-sonic-before-the-sequel.json](./19723-sonic-before-the-sequel.json) |
@@ -18944,6 +18946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
 | Steamworld Essentials Collection | 380702 | [380702-steamworld-essentials-collection.json](./380702-steamworld-essentials-collection.json) |
 | SteamWorld Heist | 15167 | [15167-steamworld-heist.json](./15167-steamworld-heist.json) |
+| SteamWorld Heist Complete Bundle | 308627 | [308627-steamworld-heist-complete-bundle.json](./308627-steamworld-heist-complete-bundle.json) |
 | SteamWorld Heist II | 298315 | [298315-steamworld-heist-ii.json](./298315-steamworld-heist-ii.json) |
 | SteamWorld Heist II & SteamWorld Build Bundle | 328483 | [328483-steamworld-heist-ii-and-steamworld-build-bundle.json](./328483-steamworld-heist-ii-and-steamworld-build-bundle.json) |
 | SteamWorld Heist: Ultimate Edition | 77648 | [77648-steamworld-heist-ultimate-edition.json](./77648-steamworld-heist-ultimate-edition.json) |
@@ -24301,6 +24304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden GP | 150979 | [150979-super-woden-gp.json](./150979-super-woden-gp.json) |
 | Super Woden GP 2 | 225189 | [225189-super-woden-gp-2.json](./225189-super-woden-gp-2.json) |
+| Super Woden GP Collection | 308626 | [308626-super-woden-gp-collection.json](./308626-super-woden-gp-collection.json) |
 | Super Woden: Rally Edge | 350456 | [350456-super-woden-rally-edge.json](./350456-super-woden-rally-edge.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
