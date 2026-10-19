@@ -2663,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Capacity | 332815 | [332815-battle-capacity.json](./332815-battle-capacity.json) |
 | Battle Cars | 224095 | [224095-battle-cars.json](./224095-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
+| Battle Cats Galaxy | 300455 | [300455-battle-cats-galaxy.json](./300455-battle-cats-galaxy.json) |
 | Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
 | Battle Chain | 201698 | [201698-battle-chain.json](./201698-battle-chain.json) |
 | Battle Champs | 57332 | [57332-battle-champs.json](./57332-battle-champs.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Grounds III | 117066 | [117066-battle-grounds-iii.json](./117066-battle-grounds-iii.json) |
 | Battle Group | 26378 | [26378-battle-group.json](./26378-battle-group.json) |
 | Battle Group 2 | 10040 | [10040-battle-group-2.json](./10040-battle-group-2.json) |
+| Battle Guys | 300439 | [300439-battle-guys.json](./300439-battle-guys.json) |
 | Battle Hanafuda | 377059 | [377059-battle-hanafuda.json](./377059-battle-hanafuda.json) |
 | Battle Havoc | 92618 | [92618-battle-havoc.json](./92618-battle-havoc.json) |
 | Battle Heat! | 45962 | [45962-battle-heat.json](./45962-battle-heat.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio-Submariner DX | 404980 | [404980-bio-submariner-dx.json](./404980-bio-submariner-dx.json) |
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BioBeasts | 112226 | [112226-biobeasts.json](./112226-biobeasts.json) |
+| Biocatalyst | 300359 | [300359-biocatalyst.json](./300359-biocatalyst.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | Biocide: Karver Island | 166823 | [166823-biocide-karver-island.json](./166823-biocide-karver-island.json) |
 | BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
