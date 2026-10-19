@@ -7717,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune's Tavern: The Fantasy Tavern Simulator - Guns and Goblins | 170812 | [170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json](./170812-fortunes-tavern-the-fantasy-tavern-simulator-guns-and-goblins.json) |
 | Fortune's Tavern: The Fantasy Tavern Simulator - Miniature Gods | 170311 | [170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json](./170311-fortunes-tavern-the-fantasy-tavern-simulator-miniature-gods.json) |
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
+| Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
 | Forumwarz | 80161 | [80161-forumwarz.json](./80161-forumwarz.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
