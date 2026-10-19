@@ -6625,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Girls Puzzle | 163540 | [163540-lovely-girls-puzzle.json](./163540-lovely-girls-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
+| Lovely Horror: Ochame na Yuurei | 269414 | [269414-lovely-horror-ochame-na-yuurei.json](./269414-lovely-horror-ochame-na-yuurei.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
 | Lovely Kitchen | 153134 | [153134-lovely-kitchen.json](./153134-lovely-kitchen.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
