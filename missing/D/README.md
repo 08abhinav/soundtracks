@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
 | Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
+| Dare to Dream | 272163 | [272163-dare-to-dream.json](./272163-dare-to-dream.json) |
 | Dare to Dream | 57598 | [57598-dare-to-dream.json](./57598-dare-to-dream.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
@@ -9165,6 +9166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dondgynns Auv Ye Wyrdd | 307769 | [307769-dondgynns-auv-ye-wyrdd.json](./307769-dondgynns-auv-ye-wyrdd.json) |
 | DonDon Busters!! | 128284 | [128284-dondon-busters.json](./128284-dondon-busters.json) |
 | Dondra: A New Beginning | 73987 | [73987-dondra-a-new-beginning.json](./73987-dondra-a-new-beginning.json) |
+| Done & Dusted | 272135 | [272135-done-and-dusted.json](./272135-done-and-dusted.json) |
 | Doner Master Simulator | 326439 | [326439-doner-master-simulator.json](./326439-doner-master-simulator.json) |
 | Dong Dong Never Die | 50367 | [50367-dong-dong-never-die.json](./50367-dong-dong-never-die.json) |
 | Dong Dong Never Die: Judgment Day | 310532 | [310532-dong-dong-never-die-judgment-day.json](./310532-dong-dong-never-die-judgment-day.json) |
