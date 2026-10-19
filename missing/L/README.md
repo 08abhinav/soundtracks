@@ -3540,6 +3540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
+| Lightdancer | 289176 | [289176-lightdancer.json](./289176-lightdancer.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
 | Lightening Force: Quest for the Darkstar | 46273 | [46273-lightening-force-quest-for-the-darkstar.json](./46273-lightening-force-quest-for-the-darkstar.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful BlackJack: My Succubus Dealer | 384752 | [384752-lustful-blackjack-my-succubus-dealer.json](./384752-lustful-blackjack-my-succubus-dealer.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
 | Lustful Chemistry | 405951 | [405951-lustful-chemistry.json](./405951-lustful-chemistry.json) |
+| Lustful Desires | 289165 | [289165-lustful-desires.json](./289165-lustful-desires.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
 | Lustful Professor | 369158 | [369158-lustful-professor.json](./369158-lustful-professor.json) |
