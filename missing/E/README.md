@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental World | 311798 | [311798-elemental-world.json](./311798-elemental-world.json) |
 | Elemental World Part 1: Rise of the Guardians | 91443 | [91443-elemental-world-part-1-rise-of-the-guardians.json](./91443-elemental-world-part-1-rise-of-the-guardians.json) |
 | Elemental: War of Magic | 20451 | [20451-elemental-war-of-magic.json](./20451-elemental-war-of-magic.json) |
+| Elementalism | 269464 | [269464-elementalism.json](./269464-elementalism.json) |
 | Elementalist: 0 | 182995 | [182995-elementalist-0.json](./182995-elementalist-0.json) |
 | Elementalist.io | 184104 | [184104-elementalist-io.json](./184104-elementalist-io.json) |
 | ElementalMaster Luna: The Moon Goddess And Lost Memories | 219247 | [219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json](./219247-elementalmaster-luna-the-moon-goddess-and-lost-memories.json) |
@@ -5199,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Next Door | 217366 | [217366-evil-next-door.json](./217366-evil-next-door.json) |
 | Evil Night | 94718 | [94718-evil-night.json](./94718-evil-night.json) |
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
+| Evil Nun 2: Origins | 269425 | [269425-evil-nun-2-origins.json](./269425-evil-nun-2-origins.json) |
 | Evil Nun Maze | 356568 | [356568-evil-nun-maze.json](./356568-evil-nun-maze.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
