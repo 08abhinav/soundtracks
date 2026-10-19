@@ -2001,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Discovery: Venice | 8227 | [8227-dawn-of-discovery-venice.json](./8227-dawn-of-discovery-venice.json) |
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
+| Dawn of Eternity | 271064 | [271064-dawn-of-eternity.json](./271064-dawn-of-eternity.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
 | Dawn of H'btakh | 46476 | [46476-dawn-of-hbtakh.json](./46476-dawn-of-hbtakh.json) |
@@ -3982,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
 | Deer Hero | 395777 | [395777-deer-hero.json](./395777-deer-hero.json) |
+| Deer Hunt | 271073 | [271073-deer-hunt.json](./271073-deer-hunt.json) |
 | Deer Hunt Challenge | 78044 | [78044-deer-hunt-challenge.json](./78044-deer-hunt-challenge.json) |
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
@@ -4113,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders | 309497 | [309497-defenders.json](./309497-defenders.json) |
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
+| Defenders Guild | 271078 | [271078-defenders-guild.json](./271078-defenders-guild.json) |
 | Defenders of Ardania: The Conjurer's Tricks | 52862 | [52862-defenders-of-ardania-the-conjurers-tricks.json](./52862-defenders-of-ardania-the-conjurers-tricks.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
@@ -7721,6 +7724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disorder | 229692 | [229692-disorder.json](./229692-disorder.json) |
 | Disorder | 229817 | [229817-disorder.json](./229817-disorder.json) |
 | Disorder | 309728 | [309728-disorder.json](./309728-disorder.json) |
+| DisOrder in the Court | 271098 | [271098-disorder-in-the-court.json](./271098-disorder-in-the-court.json) |
 | Disorder: Save Your Family | 307243 | [307243-disorder-save-your-family.json](./307243-disorder-save-your-family.json) |
 | Disorder6 | 63124 | [63124-disorder6.json](./63124-disorder6.json) |
 | Disorderly | 319142 | [319142-disorderly.json](./319142-disorderly.json) |
@@ -8174,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Pass Go | 184967 | [184967-do-not-pass-go.json](./184967-do-not-pass-go.json) |
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
 | Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
+| Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
 | Do or Die | 377199 | [377199-do-or-die.json](./377199-do-or-die.json) |
 | Do or Die: Frontal Warfare | 329166 | [329166-do-or-die-frontal-warfare.json](./329166-do-or-die-frontal-warfare.json) |
@@ -8213,6 +8218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Apocalypse | 75677 | [75677-doc-apocalypse.json](./75677-doc-apocalypse.json) |
+| Doc Ati | 271094 | [271094-doc-ati.json](./271094-doc-ati.json) |
 | Doc Cosmos | 133986 | [133986-doc-cosmos.json](./133986-doc-cosmos.json) |
 | Doc Louis's Punch-Out!! | 9153 | [9153-doc-louiss-punch-out.json](./9153-doc-louiss-punch-out.json) |
 | Doc McStuffins | 137370 | [137370-doc-mcstuffins.json](./137370-doc-mcstuffins.json) |
@@ -8230,6 +8236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docking Doom | 271991 | [271991-docking-doom.json](./271991-docking-doom.json) |
 | Dockside Dreams: Fish & Cook Simulator | 373015 | [373015-dockside-dreams-fish-and-cook-simulator.json](./373015-dockside-dreams-fish-and-cook-simulator.json) |
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
+| Doctor Arcana and The Secret of Shadowspire | 271076 | [271076-doctor-arcana-and-the-secret-of-shadowspire.json](./271076-doctor-arcana-and-the-secret-of-shadowspire.json) |
 | Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Flow | 102888 | [102888-doctor-flow.json](./102888-doctor-flow.json) |
@@ -9673,6 +9680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
 | Doors: Origins | 202396 | [202396-doors-origins.json](./202396-doors-origins.json) |
 | Doors: Paradox | 174803 | [174803-doors-paradox.json](./174803-doors-paradox.json) |
+| Doors24 | 271095 | [271095-doors24.json](./271095-doors24.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
 | Doorway to Nightmares: Terrifying Tales | 420683 | [420683-doorway-to-nightmares-terrifying-tales.json](./420683-doorway-to-nightmares-terrifying-tales.json) |
@@ -9834,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorpie | 360015 | [360015-dorpie.json](./360015-dorpie.json) |
 | Dorsaka | 337424 | [337424-dorsaka.json](./337424-dorsaka.json) |
 | Dört Model Müzesi | 166804 | [166804-dort-model-muzesi.json](./166804-dort-model-muzesi.json) |
+| Dos-Plan | 271105 | [271105-dos-plan.json](./271105-dos-plan.json) |
 | Dose Response | 217458 | [217458-dose-response.json](./217458-dose-response.json) |
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
@@ -11494,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Builder: Amusement Park | 294200 | [294200-dream-builder-amusement-park.json](./294200-dream-builder-amusement-park.json) |
 | Dream Busters | 192825 | [192825-dream-busters.json](./192825-dream-busters.json) |
 | Dream C Club: Host Girls on Stage | 62711 | [62711-dream-c-club-host-girls-on-stage.json](./62711-dream-c-club-host-girls-on-stage.json) |
+| Dream Cafe | 271074 | [271074-dream-cafe.json](./271074-dream-cafe.json) |
 | Dream Cage | 329222 | [329222-dream-cage.json](./329222-dream-cage.json) |
 | Dream Car Racing 3D | 32896 | [32896-dream-car-racing-3d.json](./32896-dream-car-racing-3d.json) |
 | Dream Cat Paradise | 374175 | [374175-dream-cat-paradise.json](./374175-dream-cat-paradise.json) |
@@ -13430,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon-Doku | 390091 | [390091-dungeon-doku.json](./390091-dungeon-doku.json) |
 | Dungeon, Inc. | 247176 | [247176-dungeon-inc.json](./247176-dungeon-inc.json) |
 | Dungeon; Friends Escape! | 55516 | [55516-dungeon-friends-escape.json](./55516-dungeon-friends-escape.json) |
+| Dungeon: Cradle of Hell | 271092 | [271092-dungeon-cradle-of-hell.json](./271092-dungeon-cradle-of-hell.json) |
 | Dungeon: Faster & Deadlier | 197145 | [197145-dungeon-faster-and-deadlier.json](./197145-dungeon-faster-and-deadlier.json) |
 | Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
@@ -13753,6 +13764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Devil | 256798 | [256798-dust-devil.json](./256798-dust-devil.json) |
 | Dust Devil | 334152 | [334152-dust-devil.json](./334152-dust-devil.json) |
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
+| Dust Front RTS | 271109 | [271109-dust-front-rts.json](./271109-dust-front-rts.json) |
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
 | Dust Remains | 199316 | [199316-dust-remains.json](./199316-dust-remains.json) |
