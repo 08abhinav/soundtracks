@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
 | Gaplus Phalanx | 243830 | [243830-gaplus-phalanx.json](./243830-gaplus-phalanx.json) |
+| GapMan | 267223 | [267223-gapman.json](./267223-gapman.json) |
 | Gapper | 57674 | [57674-gapper.json](./57674-gapper.json) |
 | Gappy's Adventure: Coinkeeper's Cantrip | 389129 | [389129-gappys-adventure-coinkeepers-cantrip.json](./389129-gappys-adventure-coinkeepers-cantrip.json) |
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
 | Grave Mania: Undead Fever | 32784 | [32784-grave-mania-undead-fever.json](./32784-grave-mania-undead-fever.json) |
 | Grave of Voices | 375610 | [375610-grave-of-voices.json](./375610-grave-of-voices.json) |
+| Grave Pobbery | 267258 | [267258-grave-pobbery.json](./267258-grave-pobbery.json) |
 | Grave Prosperity: Part 1 | 96869 | [96869-grave-prosperity-part-1.json](./96869-grave-prosperity-part-1.json) |
 | Grave Prosperity: The Vestigial Princess | 202204 | [202204-grave-prosperity-the-vestigial-princess.json](./202204-grave-prosperity-the-vestigial-princess.json) |
 | Grave Robber | 249890 | [249890-grave-robber.json](./249890-grave-robber.json) |
@@ -7312,6 +7314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunn | 281353 | [281353-grunn.json](./281353-grunn.json) |
 | Grunnd | 167915 | [167915-grunnd.json](./167915-grunnd.json) |
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
+| Grunty's Mansion | 267251 | [267251-gruntys-mansion.json](./267251-gruntys-mansion.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
