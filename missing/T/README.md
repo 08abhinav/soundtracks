@@ -7919,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
+| The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
 | The Homecoming Exhibition | 393019 | [393019-the-homecoming-exhibition.json](./393019-the-homecoming-exhibition.json) |
 | The Homestead | 119567 | [119567-the-homestead.json](./119567-the-homestead.json) |
@@ -12639,6 +12640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stairway 7 | 295332 | [295332-the-stairway-7.json](./295332-the-stairway-7.json) |
 | The Stairwell | 347177 | [347177-the-stairwell.json](./347177-the-stairwell.json) |
 | The Stalin Subway: Red Veil | 17579 | [17579-the-stalin-subway-red-veil.json](./17579-the-stalin-subway-red-veil.json) |
+| The Stalked | 273803 | [273803-the-stalked.json](./273803-the-stalked.json) |
 | The Stalked 4 | 416802 | [416802-the-stalked-4.json](./416802-the-stalked-4.json) |
 | The Stamp | 332591 | [332591-the-stamp.json](./332591-the-stamp.json) |
 | The Standard Model | 307208 | [307208-the-standard-model.json](./307208-the-standard-model.json) |
@@ -13411,6 +13413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
+| The Transference | 273790 | [273790-the-transference.json](./273790-the-transference.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
 | The Trap | 155343 | [155343-the-trap.json](./155343-the-trap.json) |
 | The Trap | 196838 | [196838-the-trap.json](./196838-the-trap.json) |
