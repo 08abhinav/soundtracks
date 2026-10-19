@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dartwords | 416662 | [416662-dartwords.json](./416662-dartwords.json) |
 | Dartz | 354574 | [354574-dartz.json](./354574-dartz.json) |
 | Daruino | 185536 | [185536-daruino.json](./185536-daruino.json) |
+| Darum | 308030 | [308030-darum.json](./308030-darum.json) |
 | Darumeshi Sports Store | 230306 | [230306-darumeshi-sports-store.json](./230306-darumeshi-sports-store.json) |
 | Darwin | 309853 | [309853-darwin.json](./309853-darwin.json) |
 | Darwin 4078 | 40047 | [40047-darwin-4078.json](./40047-darwin-4078.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Chapter 7 | 409874 | [409874-deltarune-chapter-7.json](./409874-deltarune-chapter-7.json) |
 | Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
+| Deltarune: Frozen Heart | 308059 | [308059-deltarune-frozen-heart.json](./308059-deltarune-frozen-heart.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Hypothesis | 329606 | [329606-deltarune-hypothesis.json](./329606-deltarune-hypothesis.json) |
 | Deltarune: Internal Demons | 330253 | [330253-deltarune-internal-demons.json](./330253-deltarune-internal-demons.json) |
@@ -4447,6 +4449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Deeper: Gratis Grottos | 26640 | [26640-delve-deeper-gratis-grottos.json](./26640-delve-deeper-gratis-grottos.json) |
 | Delve Deeper: Treasures and Tunnels | 171487 | [171487-delve-deeper-treasures-and-tunnels.json](./171487-delve-deeper-treasures-and-tunnels.json) |
 | Delve Diver | 320606 | [320606-delve-diver.json](./320606-delve-diver.json) |
+| Delve into Pawssion | 308049 | [308049-delve-into-pawssion.json](./308049-delve-into-pawssion.json) |
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
@@ -6549,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Devil Story: Megami Tensei II | 48656 | [48656-digital-devil-story-megami-tensei-ii.json](./48656-digital-devil-story-megami-tensei-ii.json) |
 | Digital Diamond Baseball | 86538 | [86538-digital-diamond-baseball.json](./86538-digital-diamond-baseball.json) |
 | Digital Diamond Baseball V11 | 243052 | [243052-digital-diamond-baseball-v11.json](./243052-digital-diamond-baseball-v11.json) |
+| Digital Dreams | 308068 | [308068-digital-dreams.json](./308068-digital-dreams.json) |
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
@@ -9859,6 +9863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dragon II: The Revenge | 281514 | [281514-double-dragon-ii-the-revenge.json](./281514-double-dragon-ii-the-revenge.json) |
 | Double Dragon II: The Revenge | 281525 | [281525-double-dragon-ii-the-revenge.json](./281525-double-dragon-ii-the-revenge.json) |
 | Double Dragon III: The Sacred Stones | 79335 | [79335-double-dragon-iii-the-sacred-stones.json](./79335-double-dragon-iii-the-sacred-stones.json) |
+| Double Dragon Revive | 308051 | [308051-double-dragon-revive.json](./308051-double-dragon-revive.json) |
 | Double Dragon Revive: Additional Character Color | 375155 | [375155-double-dragon-revive-additional-character-color.json](./375155-double-dragon-revive-additional-character-color.json) |
 | Double Dragon SNES Port | 377222 | [377222-double-dragon-snes-port.json](./377222-double-dragon-snes-port.json) |
 | Double Dragon Trilogy | 23805 | [23805-double-dragon-trilogy.json](./23805-double-dragon-trilogy.json) |
