@@ -8336,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
 | Pokemon Shining Opal | 337420 | [337420-pokemon-shining-opal.json](./337420-pokemon-shining-opal.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
+| Pokémon Shiny Gold Sigma | 306768 | [306768-pokemon-shiny-gold-sigma.json](./306768-pokemon-shiny-gold-sigma.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Sigma Platinum | 197927 | [197927-pokemon-sigma-platinum.json](./197927-pokemon-sigma-platinum.json) |
 | Pokémon Sinking Sapphire | 163228 | [163228-pokemon-sinking-sapphire.json](./163228-pokemon-sinking-sapphire.json) |
@@ -8895,6 +8896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymerikum | 180089 | [180089-polymerikum.json](./180089-polymerikum.json) |
 | Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
+| Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
@@ -9485,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Still Alive For PC | 136389 | [136389-portal-still-alive-for-pc.json](./136389-portal-still-alive-for-pc.json) |
 | Portal: System Failure | 322169 | [322169-portal-system-failure.json](./322169-portal-system-failure.json) |
 | Portal: The Flash Version | 11280 | [11280-portal-the-flash-version.json](./11280-portal-the-flash-version.json) |
+| Portal: The Flash Version MapPack | 306812 | [306812-portal-the-flash-version-mappack.json](./306812-portal-the-flash-version-mappack.json) |
 | Portalnauts | 60589 | [60589-portalnauts.json](./60589-portalnauts.json) |
 | PortalOne Arcade | 181305 | [181305-portalone-arcade.json](./181305-portalone-arcade.json) |
 | Portals of P'Thaal | 142459 | [142459-portals-of-pthaal.json](./142459-portals-of-pthaal.json) |
@@ -9686,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Punch | 247220 | [247220-potion-punch.json](./247220-potion-punch.json) |
 | Potion Punch 2: Cooking Quest | 247219 | [247219-potion-punch-2-cooking-quest.json](./247219-potion-punch-2-cooking-quest.json) |
 | Potion Punch 2+ | 385569 | [385569-potion-punch-2.json](./385569-potion-punch-2.json) |
+| Potion Quest | 306773 | [306773-potion-quest.json](./306773-potion-quest.json) |
 | Potion Shop Simulator | 290953 | [290953-potion-shop-simulator.json](./290953-potion-shop-simulator.json) |
 | Potion Slingers | 248036 | [248036-potion-slingers.json](./248036-potion-slingers.json) |
 | Potion Stand Story | 316809 | [316809-potion-stand-story.json](./316809-potion-stand-story.json) |
