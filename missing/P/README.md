@@ -12531,6 +12531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychosoft Ltd. | 114211 | [114211-psychosoft-ltd.json](./114211-psychosoft-ltd.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
 | Psychotic Adventures Origins | 138795 | [138795-psychotic-adventures-origins.json](./138795-psychotic-adventures-origins.json) |
+| Psychotic Bathtub | 261673 | [261673-psychotic-bathtub.json](./261673-psychotic-bathtub.json) |
 | Psychotic Nightmare | 311880 | [311880-psychotic-nightmare.json](./311880-psychotic-nightmare.json) |
 | Psychoverse City | 158163 | [158163-psychoverse-city.json](./158163-psychoverse-city.json) |
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
