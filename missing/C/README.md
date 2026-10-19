@@ -3383,6 +3383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
+| Cattie | 274355 | [274355-cattie.json](./274355-cattie.json) |
 | Catting Over It | 277262 | [277262-catting-over-it.json](./277262-catting-over-it.json) |
 | Cattle Admission Challenge | 367152 | [367152-cattle-admission-challenge.json](./367152-cattle-admission-challenge.json) |
 | Cattle Call: Hollywood Talent Manager | 110525 | [110525-cattle-call-hollywood-talent-manager.json](./110525-cattle-call-hollywood-talent-manager.json) |
@@ -4615,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheating Tom 2 | 345271 | [345271-cheating-tom-2.json](./345271-cheating-tom-2.json) |
 | Cheats 4 Hire | 35148 | [35148-cheats-4-hire.json](./35148-cheats-4-hire.json) |
 | Check & Clean | 244332 | [244332-check-and-clean.json](./244332-check-and-clean.json) |
+| Check and Slash | 274356 | [274356-check-and-slash.json](./274356-check-and-slash.json) |
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check it Out! | 196918 | [196918-check-it-out.json](./196918-check-it-out.json) |
@@ -10984,6 +10986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Consciousness | 302225 | [302225-cosmic-consciousness.json](./302225-cosmic-consciousness.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Construct | 354885 | [354885-cosmic-construct.json](./354885-cosmic-construct.json) |
+| Cosmic Coop | 274354 | [274354-cosmic-coop.json](./274354-cosmic-coop.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
 | Cosmic Corridor | 40626 | [40626-cosmic-corridor.json](./40626-cosmic-corridor.json) |
 | Cosmic Cosmonaut | 336641 | [336641-cosmic-cosmonaut.json](./336641-cosmic-cosmonaut.json) |
@@ -14018,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Space | 163195 | [163195-cube-space.json](./163195-cube-space.json) |
 | Cube Space | 336957 | [336957-cube-space.json](./336957-cube-space.json) |
 | Cube Stack Ultimate | 289765 | [289765-cube-stack-ultimate.json](./289765-cube-stack-ultimate.json) |
+| Cube Survivor | 274328 | [274328-cube-survivor.json](./274328-cube-survivor.json) |
 | Cube Tactics | 85558 | [85558-cube-tactics.json](./85558-cube-tactics.json) |
 | Cube War | 284984 | [284984-cube-war.json](./284984-cube-war.json) |
 | Cube Way | 75902 | [75902-cube-way.json](./75902-cube-way.json) |
