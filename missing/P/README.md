@@ -6607,6 +6607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
+| Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plan it Green | 10703 | [10703-plan-it-green.json](./10703-plan-it-green.json) |
@@ -7599,6 +7600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pool: Complete Edition | 248723 | [248723-pocket-pool-complete-edition.json](./248723-pocket-pool-complete-edition.json) |
 | Pocket Pro Wrestling: Perfect Wrestler | 50036 | [50036-pocket-pro-wrestling-perfect-wrestler.json](./50036-pocket-pro-wrestling-perfect-wrestler.json) |
 | Pocket Pro Yakyuu | 270080 | [270080-pocket-pro-yakyuu.json](./270080-pocket-pro-yakyuu.json) |
+| Pocket Professor: Kwik Notes Volume 1 | 300979 | [300979-pocket-professor-kwik-notes-volume-1.json](./300979-pocket-professor-kwik-notes-volume-1.json) |
 | Pocket Pursuit | 113200 | [113200-pocket-pursuit.json](./113200-pocket-pursuit.json) |
 | Pocket Pusher | 293003 | [293003-pocket-pusher.json](./293003-pocket-pusher.json) |
 | Pocket Pusher: The Citadel | 316387 | [316387-pocket-pusher-the-citadel.json](./316387-pocket-pusher-the-citadel.json) |
