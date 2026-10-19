@@ -5365,6 +5365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShamaL | 201316 | [201316-shamal.json](./201316-shamal.json) |
 | Shaman | 171533 | [171533-shaman.json](./171533-shaman.json) |
 | Shaman Flower | 43144 | [43144-shaman-flower.json](./43144-shaman-flower.json) |
+| Shaman King Chou Senjiryokketsu: Funbari Version | 256694 | [256694-shaman-king-chou-senjiryokketsu-funbari-version.json](./256694-shaman-king-chou-senjiryokketsu-funbari-version.json) |
 | Shaman King Chou Senjiryokketsu: Meramera Version | 68237 | [68237-shaman-king-chou-senjiryokketsu-meramera-version.json](./68237-shaman-king-chou-senjiryokketsu-meramera-version.json) |
 | Shaman King: Asu he no Ishi | 37319 | [37319-shaman-king-asu-he-no-ishi.json](./37319-shaman-king-asu-he-no-ishi.json) |
 | Shaman King: Asu he no Ishi | 68231 | [68231-shaman-king-asu-he-no-ishi.json](./68231-shaman-king-asu-he-no-ishi.json) |
@@ -7049,6 +7050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
+| Showdown 64 | 256674 | [256674-showdown-64.json](./256674-showdown-64.json) |
 | Showdown Adventure | 31750 | [31750-showdown-adventure.json](./31750-showdown-adventure.json) |
 | Showdown at Willow Creek | 83599 | [83599-showdown-at-willow-creek.json](./83599-showdown-at-willow-creek.json) |
 | Showdown Bandit | 121497 | [121497-showdown-bandit.json](./121497-showdown-bandit.json) |
@@ -9464,7 +9466,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
+| Skylanders: Swap Force | 256681 | [256681-skylanders-swap-force.json](./256681-skylanders-swap-force.json) |
 | Skylanders: Swap Force | 5159 | [5159-skylanders-swap-force.json](./5159-skylanders-swap-force.json) |
+| Skylanders: Trap Team | 256683 | [256683-skylanders-trap-team.json](./256683-skylanders-trap-team.json) |
 | Skylanders: Universe | 304274 | [304274-skylanders-universe.json](./304274-skylanders-universe.json) |
 | Skylar & Plux: Adventure on Clover Island | 28066 | [28066-skylar-and-plux-adventure-on-clover-island.json](./28066-skylar-and-plux-adventure-on-clover-island.json) |
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
@@ -10904,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Crayon Run | 251644 | [251644-snake-crayon-run.json](./251644-snake-crayon-run.json) |
 | Snake Crossing | 306382 | [306382-snake-crossing.json](./306382-snake-crossing.json) |
 | Snake Deluxe | 154407 | [154407-snake-deluxe.json](./154407-snake-deluxe.json) |
+| Snake Deluxe 2 | 256655 | [256655-snake-deluxe-2.json](./256655-snake-deluxe-2.json) |
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
@@ -23601,6 +23606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Epic | 323814 | [323814-super-mario-epic.json](./323814-super-mario-epic.json) |
 | Super Mario Epic 3 | 323815 | [323815-super-mario-epic-3.json](./323815-super-mario-epic-3.json) |
 | Super Mario Essex | 351583 | [351583-super-mario-essex.json](./351583-super-mario-essex.json) |
+| Super Mario Evolution | 256701 | [256701-super-mario-evolution.json](./256701-super-mario-evolution.json) |
 | Super Mario Fantasy | 300256 | [300256-super-mario-fantasy.json](./300256-super-mario-fantasy.json) |
 | Super Mario Fighter 2 | 313416 | [313416-super-mario-fighter-2.json](./313416-super-mario-fighter-2.json) |
 | Super Mario Flash | 176865 | [176865-super-mario-flash.json](./176865-super-mario-flash.json) |
