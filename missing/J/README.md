@@ -1993,6 +1993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jorji and Impossible Forest | 104817 | [104817-jorji-and-impossible-forest.json](./104817-jorji-and-impossible-forest.json) |
 | Jormungandr | 117618 | [117618-jormungandr.json](./117618-jormungandr.json) |
 | Jorogumo | 251742 | [251742-jorogumo.json](./251742-jorogumo.json) |
+| Jorogumo's Cradle | 297846 | [297846-jorogumos-cradle.json](./297846-jorogumos-cradle.json) |
 | Jorry | 129032 | [129032-jorry.json](./129032-jorry.json) |
 | Joryuu Janshi ni Chousen | 97861 | [97861-joryuu-janshi-ni-chousen.json](./97861-joryuu-janshi-ni-chousen.json) |
 | Joryuu Janshi ni Chousen GB: Watashi-tachi ni Chousen Shite ne! | 97857 | [97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json](./97857-joryuu-janshi-ni-chousen-gb-watashi-tachi-ni-chousen-shite-ne.json) |
