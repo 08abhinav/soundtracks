@@ -5838,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fables: Holiday Guardians - Collector's Edition | 234738 | [234738-christmas-fables-holiday-guardians-collectors-edition.json](./234738-christmas-fables-holiday-guardians-collectors-edition.json) |
 | Christmas Fables: Nutcracker's Tale - Collector's Edition | 382194 | [382194-christmas-fables-nutcrackers-tale-collectors-edition.json](./382194-christmas-fables-nutcrackers-tale-collectors-edition.json) |
 | Christmas Fables: The Magic Snowflake - Collector's Edition | 280435 | [280435-christmas-fables-the-magic-snowflake-collectors-edition.json](./280435-christmas-fables-the-magic-snowflake-collectors-edition.json) |
+| Christmas Fables: The Magic Snowflake DLC | 285330 | [285330-christmas-fables-the-magic-snowflake-dlc.json](./285330-christmas-fables-the-magic-snowflake-dlc.json) |
 | Christmas Fables: The Wishing Store - Collector's Edition | 337272 | [337272-christmas-fables-the-wishing-store-collectors-edition.json](./337272-christmas-fables-the-wishing-store-collectors-edition.json) |
 | Christmas Fables: The Wishing Store - Collector's Edition | 338518 | [338518-christmas-fables-the-wishing-store-collectors-edition.json](./338518-christmas-fables-the-wishing-store-collectors-edition.json) |
 | Christmas Fever! | 181648 | [181648-christmas-fever.json](./181648-christmas-fever.json) |
@@ -14173,6 +14174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult Leader Simulator | 348575 | [348575-cult-leader-simulator.json](./348575-cult-leader-simulator.json) |
 | Cult Master: Ultraman ni Miserarete | 60529 | [60529-cult-master-ultraman-ni-miserarete.json](./60529-cult-master-ultraman-ni-miserarete.json) |
 | Cult Nation | 388360 | [388360-cult-nation.json](./388360-cult-nation.json) |
+| Cult ni Kibishii Gal: Cult vs. Gal | 285361 | [285361-cult-ni-kibishii-gal-cult-vs-gal.json](./285361-cult-ni-kibishii-gal-cult-vs-gal.json) |
 | Cult Of Blood | 319965 | [319965-cult-of-blood.json](./319965-cult-of-blood.json) |
 | Cult of Five | 381923 | [381923-cult-of-five.json](./381923-cult-of-five.json) |
 | Cult of Lily | 383586 | [383586-cult-of-lily.json](./383586-cult-of-lily.json) |
