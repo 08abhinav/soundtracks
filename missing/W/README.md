@@ -6948,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWI: Aces of the Sky | 9392 | [9392-wwi-aces-of-the-sky.json](./9392-wwi-aces-of-the-sky.json) |
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
+| WWII Airplane Fight: Battle War Squad | 292928 | [292928-wwii-airplane-fight-battle-war-squad.json](./292928-wwii-airplane-fight-battle-war-squad.json) |
 | WWII Airplane Fight: Battle War Squad - Cash Injection | 317287 | [317287-wwii-airplane-fight-battle-war-squad-cash-injection.json](./317287-wwii-airplane-fight-battle-war-squad-cash-injection.json) |
 | WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
 | WWII Battle Tanks: T-34 vs. Tiger | 21292 | [21292-wwii-battle-tanks-t-34-vs-tiger.json](./21292-wwii-battle-tanks-t-34-vs-tiger.json) |
