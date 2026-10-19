@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | +1 | 308928 | [308928-1.json](./308928-1.json) |
 | +1% | 320805 | [320805-1.json](./320805-1.json) |
 | +1S | 93755 | [93755-1s.json](./93755-1s.json) |
+| +1x2 | 290775 | [290775-1x2.json](./290775-1x2.json) |
 | =10 | 79794 | [79794-10.json](./79794-10.json) |
 | =7 | 197674 | [197674-7.json](./197674-7.json) |
 | > Terminal | 383380 | [383380-terminal.json](./383380-terminal.json) |
