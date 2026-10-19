@@ -906,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Destiny II | 1202 | [1202-tales-of-destiny-ii.json](./1202-tales-of-destiny-ii.json) |
 | Tales of Destiny: Director's Cut | 80500 | [80500-tales-of-destiny-directors-cut.json](./80500-tales-of-destiny-directors-cut.json) |
 | Tales of Djungarian Hamster | 148322 | [148322-tales-of-djungarian-hamster.json](./148322-tales-of-djungarian-hamster.json) |
+| Tales of Dragon | 256142 | [256142-tales-of-dragon.json](./256142-tales-of-dragon.json) |
 | Tales of Dungeon | 193809 | [193809-tales-of-dungeon.json](./193809-tales-of-dungeon.json) |
 | Tales of Echoes of the Symphony of Mana | 379434 | [379434-tales-of-echoes-of-the-symphony-of-mana.json](./379434-tales-of-echoes-of-the-symphony-of-mana.json) |
 | Tales of Eden: Midgard | 358455 | [358455-tales-of-eden-midgard.json](./358455-tales-of-eden-midgard.json) |
@@ -9098,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Sky | 127157 | [127157-the-last-sky.json](./127157-the-last-sky.json) |
 | The Last Sniper VR | 32050 | [32050-the-last-sniper-vr.json](./32050-the-last-sniper-vr.json) |
 | The Last Soldier | 109768 | [109768-the-last-soldier.json](./109768-the-last-soldier.json) |
+| The Last Solver | 256162 | [256162-the-last-solver.json](./256162-the-last-solver.json) |
 | The Last Son of Vorona | 367012 | [367012-the-last-son-of-vorona.json](./367012-the-last-son-of-vorona.json) |
 | The Last Sorcerer | 55479 | [55479-the-last-sorcerer.json](./55479-the-last-sorcerer.json) |
 | The Last Sorrow | 287643 | [287643-the-last-sorrow.json](./287643-the-last-sorrow.json) |
@@ -22525,6 +22527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Trove Through Time | 176282 | [176282-treasure-trove-through-time.json](./176282-treasure-trove-through-time.json) |
 | Treasure World | 21125 | [21125-treasure-world.json](./21125-treasure-world.json) |
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
+| Treasures Boom | 256158 | [256158-treasures-boom.json](./256158-treasures-boom.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
 | Treasures of Oz | 318547 | [318547-treasures-of-oz.json](./318547-treasures-of-oz.json) |
