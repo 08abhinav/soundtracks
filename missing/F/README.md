@@ -3793,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
 | Final Fantasy XI: The Vana'diel Collection | 41852 | [41852-final-fantasy-xi-the-vanadiel-collection.json](./41852-final-fantasy-xi-the-vanadiel-collection.json) |
 | Final Fantasy XI: The Voracious Resurgence | 312630 | [312630-final-fantasy-xi-the-voracious-resurgence.json](./312630-final-fantasy-xi-the-voracious-resurgence.json) |
+| Final Fantasy XI: Ultimate Collection - Abyssea Edition | 286423 | [286423-final-fantasy-xi-ultimate-collection-abyssea-edition.json](./286423-final-fantasy-xi-ultimate-collection-abyssea-edition.json) |
 | Final Fantasy XI: Vana'diel Collection 2008 | 41853 | [41853-final-fantasy-xi-vanadiel-collection-2008.json](./41853-final-fantasy-xi-vanadiel-collection-2008.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
 | Final Fantasy XI: Wings of the Goddess | 402 | [402-final-fantasy-xi-wings-of-the-goddess.json](./402-final-fantasy-xi-wings-of-the-goddess.json) |
