@@ -5930,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Enduro Rally | 111671 | [111671-world-enduro-rally.json](./111671-world-enduro-rally.json) |
 | World Escape | 68667 | [68667-world-escape.json](./68667-world-escape.json) |
 | World Eternal Online | 222460 | [222460-world-eternal-online.json](./222460-world-eternal-online.json) |
+| World Evolution Soccer | 263907 | [263907-world-evolution-soccer.json](./263907-world-evolution-soccer.json) |
 | World Explorer Challenge | 325266 | [325266-world-explorer-challenge.json](./325266-world-explorer-challenge.json) |
 | World Fantasista | 302701 | [302701-world-fantasista.json](./302701-world-fantasista.json) |
 | World Fantasy: DigiWar | 336125 | [336125-world-fantasy-digiwar.json](./336125-world-fantasy-digiwar.json) |
