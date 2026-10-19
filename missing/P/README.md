@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time: Thrilling Party Pack | 275840 | [275840-party-party-time-thrilling-party-pack.json](./275840-party-party-time-thrilling-party-pack.json) |
 | Party Pie | 208445 | [208445-party-pie.json](./208445-party-pie.json) |
 | Party Pigs: Farmyard Games | 51109 | [51109-party-pigs-farmyard-games.json](./51109-party-pigs-farmyard-games.json) |
+| Party Pirates | 279480 | [279480-party-pirates.json](./279480-party-pirates.json) |
 | Party Planet | 71594 | [71594-party-planet.json](./71594-party-planet.json) |
 | Party Planner | 209413 | [209413-party-planner.json](./209413-party-planner.json) |
 | Party Play Mania | 361688 | [361688-party-play-mania.json](./361688-party-play-mania.json) |
@@ -6670,6 +6671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Racer | 230296 | [230296-plane-racer.json](./230296-plane-racer.json) |
 | Plane Starship: Galactic Frontline | 278104 | [278104-plane-starship-galactic-frontline.json](./278104-plane-starship-galactic-frontline.json) |
 | Plane Weaver | 91841 | [91841-plane-weaver.json](./91841-plane-weaver.json) |
+| Planecraft | 279494 | [279494-planecraft.json](./279494-planecraft.json) |
 | Planes | 262093 | [262093-planes.json](./262093-planes.json) |
 | Planes and Trains and Automobiles | 209381 | [209381-planes-and-trains-and-automobiles.json](./209381-planes-and-trains-and-automobiles.json) |
 | Planes Combat | 278150 | [278150-planes-combat.json](./278150-planes-combat.json) |
@@ -12377,6 +12379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
+| Psychiatrist Simulator 2 | 279487 | [279487-psychiatrist-simulator-2.json](./279487-psychiatrist-simulator-2.json) |
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
