@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeeCells XL | 90393 | [90393-beecells-xl.json](./90393-beecells-xl.json) |
 | Beeder's Big Adventure | 417526 | [417526-beeders-big-adventure.json](./417526-beeders-big-adventure.json) |
 | Beeeeeeeam | 82765 | [82765-beeeeeeeam.json](./82765-beeeeeeeam.json) |
+| Beef Cat Ultra | 295104 | [295104-beef-cat-ultra.json](./295104-beef-cat-ultra.json) |
 | Beef Street | 343425 | [343425-beef-street.json](./343425-beef-street.json) |
 | BeefArena | 345262 | [345262-beefarena.json](./345262-beefarena.json) |
 | BeeFender | 89267 | [89267-beefender.json](./89267-beefender.json) |
@@ -6509,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
 | Black & White Creatures | 323208 | [323208-black-and-white-creatures.json](./323208-black-and-white-creatures.json) |
+| Black & White Lite | 295164 | [295164-black-and-white-lite.json](./295164-black-and-white-lite.json) |
 | Black & White: Creature Isle | 1922 | [1922-black-and-white-creature-isle.json](./1922-black-and-white-creature-isle.json) |
 | Black 9 | 369716 | [369716-black-9.json](./369716-black-9.json) |
 | Black Abyss | 284005 | [284005-black-abyss.json](./284005-black-abyss.json) |
