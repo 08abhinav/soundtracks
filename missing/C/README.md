@@ -397,7 +397,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
 | California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
+| California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
+| California Watersports | 278857 | [278857-california-watersports.json](./278857-california-watersports.json) |
 | Californication | 192403 | [192403-californication.json](./192403-californication.json) |
 | Californium | 18351 | [18351-californium.json](./18351-californium.json) |
 | Caligo | 65840 | [65840-caligo.json](./65840-caligo.json) |
@@ -2716,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castleyard | 312757 | [312757-castleyard.json](./312757-castleyard.json) |
 | Castra | 119654 | [119654-castra.json](./119654-castra.json) |
 | Castrol Honda Superbike World Champions | 47086 | [47086-castrol-honda-superbike-world-champions.json](./47086-castrol-honda-superbike-world-champions.json) |
+| Castrol Honda World Superbike Team VTR | 278858 | [278858-castrol-honda-world-superbike-team-vtr.json](./278858-castrol-honda-world-superbike-team-vtr.json) |
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
 | Casual Crusade | 267355 | [267355-casual-crusade.json](./267355-casual-crusade.json) |
@@ -4643,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers' Village | 382190 | [382190-checkers-village.json](./382190-checkers-village.json) |
 | Checkmate : Battle Arenas | 112697 | [112697-checkmate-battle-arenas.json](./112697-checkmate-battle-arenas.json) |
 | Checkmate Heroines | 391068 | [391068-checkmate-heroines.json](./391068-checkmate-heroines.json) |
+| Checkmate II | 278859 | [278859-checkmate-ii.json](./278859-checkmate-ii.json) |
 | Checkmate in the Wild West: Chess Adventure | 373534 | [373534-checkmate-in-the-wild-west-chess-adventure.json](./373534-checkmate-in-the-wild-west-chess-adventure.json) |
 | Checkmate! | 108057 | [108057-checkmate.json](./108057-checkmate.json) |
 | Checkmate! My Shogi Club President can't be this Cute! | 253997 | [253997-checkmate-my-shogi-club-president-cant-be-this-cute.json](./253997-checkmate-my-shogi-club-president-cant-be-this-cute.json) |
@@ -6395,6 +6399,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinders | 196163 | [196163-cinders.json](./196163-cinders.json) |
 | Cinderscratch | 349820 | [349820-cinderscratch.json](./349820-cinderscratch.json) |
 | Cinderstone Online | 132149 | [132149-cinderstone-online.json](./132149-cinderstone-online.json) |
+| Cindy's Caribbean Holiday | 278862 | [278862-cindys-caribbean-holiday.json](./278862-cindys-caribbean-holiday.json) |
+| Cindy's Fashion World | 278863 | [278863-cindys-fashion-world.json](./278863-cindys-fashion-world.json) |
 | Cindy's Sundaes | 52736 | [52736-cindys-sundaes.json](./52736-cindys-sundaes.json) |
 | Cine Game | 106152 | [106152-cine-game.json](./106152-cine-game.json) |
 | Cine Tracer | 112265 | [112265-cine-tracer.json](./112265-cine-tracer.json) |
@@ -8820,6 +8826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
+| Colorfill | 278884 | [278884-colorfill.json](./278884-colorfill.json) |
 | Colorfle | 265042 | [265042-colorfle.json](./265042-colorfle.json) |
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
