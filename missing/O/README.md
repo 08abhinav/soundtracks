@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oftalmogarden | 189176 | [189176-oftalmogarden.json](./189176-oftalmogarden.json) |
 | Ofuxë the Guardian of Nature | 291216 | [291216-ofuxe-the-guardian-of-nature.json](./291216-ofuxe-the-guardian-of-nature.json) |
 | OG Fun Monke Horror | 382754 | [382754-og-fun-monke-horror.json](./382754-og-fun-monke-horror.json) |
+| OG Memory: Fall 2K23 | 279492 | [279492-og-memory-fall-2k23.json](./279492-og-memory-fall-2k23.json) |
 | OG Memory: Spring 2K24 | 310072 | [310072-og-memory-spring-2k24.json](./310072-og-memory-spring-2k24.json) |
 | OG Memory: Synthwave Boats | 289780 | [289780-og-memory-synthwave-boats.json](./289780-og-memory-synthwave-boats.json) |
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
@@ -934,6 +935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
 | Oil Baron | 109405 | [109405-oil-baron.json](./109405-oil-baron.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
+| Oil Coin | 279495 | [279495-oil-coin.json](./279495-oil-coin.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Empire | 395732 | [395732-oil-empire.json](./395732-oil-empire.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
@@ -2360,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooedo Senryoubako | 269521 | [269521-ooedo-senryoubako.json](./269521-ooedo-senryoubako.json) |
 | Ooer | 137342 | [137342-ooer.json](./137342-ooer.json) |
 | OOG: The Object Orientation Game | 69545 | [69545-oog-the-object-orientation-game.json](./69545-oog-the-object-orientation-game.json) |
+| Ooga | 279469 | [279469-ooga.json](./279469-ooga.json) |
 | Ooga Booga | 10961 | [10961-ooga-booga.json](./10961-ooga-booga.json) |
 | Ooga Booga Battle | 341512 | [341512-ooga-booga-battle.json](./341512-ooga-booga-battle.json) |
 | Ooga Booga: Troubles in Time | 309965 | [309965-ooga-booga-troubles-in-time.json](./309965-ooga-booga-troubles-in-time.json) |
@@ -2874,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbits: The Sandbox | 138469 | [138469-orbits-the-sandbox.json](./138469-orbits-the-sandbox.json) |
 | Orbitum | 230323 | [230323-orbitum.json](./230323-orbitum.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
+| Orbius | 279499 | [279499-orbius.json](./279499-orbius.json) |
 | Orbiz | 30115 | [30115-orbiz.json](./30115-orbiz.json) |
 | Orblike Madness | 258637 | [258637-orblike-madness.json](./258637-orblike-madness.json) |
 | Orblins | 399439 | [399439-orblins.json](./399439-orblins.json) |
