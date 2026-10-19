@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
+| Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
 | Welcome to West Feedback | 60764 | [60764-welcome-to-west-feedback.json](./60764-welcome-to-west-feedback.json) |
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
 | Welcome to: Doki Doki Literature Club, Player! | 336089 | [336089-welcome-to-doki-doki-literature-club-player.json](./336089-welcome-to-doki-doki-literature-club-player.json) |
@@ -2907,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
+| Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
