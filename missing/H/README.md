@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hedgie Simulator | 170935 | [170935-hedgie-simulator.json](./170935-hedgie-simulator.json) |
 | Hedon Bloodrite | 183074 | [183074-hedon-bloodrite.json](./183074-hedon-bloodrite.json) |
 | Hedon: Extra Thicc Edition | 193742 | [193742-hedon-extra-thicc-edition.json](./193742-hedon-extra-thicc-edition.json) |
+| Hedonistic Offering | 259419 | [259419-hedonistic-offering.json](./259419-hedonistic-offering.json) |
 | Hedrons | 149095 | [149095-hedrons.json](./149095-hedrons.json) |
 | Hedrox | 274179 | [274179-hedrox.json](./274179-hedrox.json) |
 | Hedrox 2 | 274180 | [274180-hedrox-2.json](./274180-hedrox-2.json) |
@@ -5011,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
+| Hi-5: Let's Play | 259405 | [259405-hi-5-lets-play.json](./259405-hi-5-lets-play.json) |
 | Hi-Fi Roller | 384157 | [384157-hi-fi-roller.json](./384157-hi-fi-roller.json) |
 | Hi-Fi Rush: Bossplay Costume Pack | 263126 | [263126-hi-fi-rush-bossplay-costume-pack.json](./263126-hi-fi-rush-bossplay-costume-pack.json) |
 | Hi-Fi Rush: Deluxe Edition | 233614 | [233614-hi-fi-rush-deluxe-edition.json](./233614-hi-fi-rush-deluxe-edition.json) |
@@ -7699,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Dreams | 239784 | [239784-hostile-dreams.json](./239784-hostile-dreams.json) |
 | Hostile Dreams 2 | 332458 | [332458-hostile-dreams-2.json](./332458-hostile-dreams-2.json) |
 | Hostile Entity | 408491 | [408491-hostile-entity.json](./408491-hostile-entity.json) |
+| Hostile Intent | 259423 | [259423-hostile-intent.json](./259423-hostile-intent.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 182754 | [182754-hostile-takeover.json](./182754-hostile-takeover.json) |
