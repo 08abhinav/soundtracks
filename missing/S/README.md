@@ -3017,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Forsaken Shores | 103285 | [103285-sea-of-thieves-forsaken-shores.json](./103285-sea-of-thieves-forsaken-shores.json) |
 | Sea of Thieves: Reaper's Rule - Season 16 | 354373 | [354373-sea-of-thieves-reapers-rule-season-16.json](./354373-sea-of-thieves-reapers-rule-season-16.json) |
 | Sea of Thieves: Season 1 | 144847 | [144847-sea-of-thieves-season-1.json](./144847-sea-of-thieves-season-1.json) |
+| Sea of Thieves: Season 10 | 273270 | [273270-sea-of-thieves-season-10.json](./273270-sea-of-thieves-season-10.json) |
 | Sea of Thieves: Season 13 | 305154 | [305154-sea-of-thieves-season-13.json](./305154-sea-of-thieves-season-13.json) |
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 2 | 158941 | [158941-sea-of-thieves-season-2.json](./158941-sea-of-thieves-season-2.json) |
@@ -5980,6 +5981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shieven | 330376 | [330376-shieven.json](./330376-shieven.json) |
 | Shift | 181920 | [181920-shift.json](./181920-shift.json) |
 | Shift 0 | 352204 | [352204-shift-0.json](./352204-shift-0.json) |
+| Shift 2 | 273276 | [273276-shift-2.json](./273276-shift-2.json) |
 | Shift 247 | 94411 | [94411-shift-247.json](./94411-shift-247.json) |
 | Shift at Midnight | 352789 | [352789-shift-at-midnight.json](./352789-shift-at-midnight.json) |
 | Shift Change | 299868 | [299868-shift-change.json](./299868-shift-change.json) |
@@ -8177,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Mind | 291023 | [291023-simple-mind.json](./291023-simple-mind.json) |
+| Simple Minded | 273241 | [273241-simple-minded.json](./273241-simple-minded.json) |
 | Simple Mini Golf | 192406 | [192406-simple-mini-golf.json](./192406-simple-mini-golf.json) |
 | Simple Mini Golf 3D | 232566 | [232566-simple-mini-golf-3d.json](./232566-simple-mini-golf-3d.json) |
 | Simple Monster Hunter | 265421 | [265421-simple-monster-hunter.json](./265421-simple-monster-hunter.json) |
@@ -11398,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
+| Snowlord | 273264 | [273264-snowlord.json](./273264-snowlord.json) |
 | Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
 | Snowman Adventure | 186265 | [186265-snowman-adventure.json](./186265-snowman-adventure.json) |
 | Snowman Attack | 262078 | [262078-snowman-attack.json](./262078-snowman-attack.json) |
@@ -17015,6 +17019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqij! | 53159 | [53159-sqij.json](./53159-sqij.json) |
 | Sqij'd | 315196 | [315196-sqijd.json](./315196-sqijd.json) |
 | SQL Murder Mystery | 401188 | [401188-sql-murder-mystery.json](./401188-sql-murder-mystery.json) |
+| SQP Run | 273259 | [273259-sqp-run.json](./273259-sqp-run.json) |
 | SQR | 333793 | [333793-sqr.json](./333793-sqr.json) |
 | Sqr 3 | 334766 | [334766-sqr-3.json](./334766-sqr-3.json) |
 | Sqrl Golf | 325340 | [325340-sqrl-golf.json](./325340-sqrl-golf.json) |
@@ -21058,6 +21063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strongest Angel Zerachiel! | 292377 | [292377-strongest-angel-zerachiel.json](./292377-strongest-angel-zerachiel.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
+| Stronghold | 273261 | [273261-stronghold.json](./273261-stronghold.json) |
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
@@ -21438,6 +21444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburban Hive | 308482 | [308482-suburban-hive.json](./308482-suburban-hive.json) |
 | Suburban Hive II: Crimson Moon | 308483 | [308483-suburban-hive-ii-crimson-moon.json](./308483-suburban-hive-ii-crimson-moon.json) |
 | Suburban Scavengers | 103950 | [103950-suburban-scavengers.json](./103950-suburban-scavengers.json) |
+| Suburbia | 273232 | [273232-suburbia.json](./273232-suburbia.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion | 79125 | [79125-subversion.json](./79125-subversion.json) |
