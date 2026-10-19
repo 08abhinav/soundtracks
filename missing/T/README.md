@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo University Book One | 348979 | [348979-taboo-university-book-one.json](./348979-taboo-university-book-one.json) |
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Taboo: Official Party Game | 376140 | [376140-taboo-official-party-game.json](./376140-taboo-official-party-game.json) |
+| Taboo: The Sixth Sense | 288038 | [288038-taboo-the-sixth-sense.json](./288038-taboo-the-sixth-sense.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
@@ -9493,6 +9494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Life Stage: Virtual House | 66410 | [66410-the-life-stage-virtual-house.json](./66410-the-life-stage-virtual-house.json) |
 | The Life Threads | 225261 | [225261-the-life-threads.json](./225261-the-life-threads.json) |
 | The Life Together Online | 373827 | [373827-the-life-together-online.json](./373827-the-life-together-online.json) |
+| The Life We've Chosen | 288088 | [288088-the-life-weve-chosen.json](./288088-the-life-weve-chosen.json) |
 | The Lifetime | 218473 | [218473-the-lifetime.json](./218473-the-lifetime.json) |
 | The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
 | The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
@@ -10885,6 +10887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Penguins of Madagascar: Dr. Blowhole Returns Again! | 51108 | [51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json](./51108-the-penguins-of-madagascar-dr-blowhole-returns-again.json) |
 | The Penguins of Madagascar: Mission Madness | 231385 | [231385-the-penguins-of-madagascar-mission-madness.json](./231385-the-penguins-of-madagascar-mission-madness.json) |
 | The Penguins of Madagascar: Operation Plushy Rescue | 230396 | [230396-the-penguins-of-madagascar-operation-plushy-rescue.json](./230396-the-penguins-of-madagascar-operation-plushy-rescue.json) |
+| The Penjikent Creature | 288036 | [288036-the-penjikent-creature.json](./288036-the-penjikent-creature.json) |
 | The Penumbra Collection | 51891 | [51891-the-penumbra-collection.json](./51891-the-penumbra-collection.json) |
 | The People of Sea, Sun & Salt | 359040 | [359040-the-people-of-sea-sun-and-salt.json](./359040-the-people-of-sea-sun-and-salt.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
@@ -11068,6 +11071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Premiership | 71787 | [71787-the-premiership.json](./71787-the-premiership.json) |
 | The Preschoolers: Season 1 | 221085 | [221085-the-preschoolers-season-1.json](./221085-the-preschoolers-season-1.json) |
 | The Preschoolers: Season 1 - Extended Edition | 233006 | [233006-the-preschoolers-season-1-extended-edition.json](./233006-the-preschoolers-season-1-extended-edition.json) |
+| The Present | 288079 | [288079-the-present.json](./288079-the-present.json) |
 | The Preservation Project | 204415 | [204415-the-preservation-project.json](./204415-the-preservation-project.json) |
 | The President | 200476 | [200476-the-president.json](./200476-the-president.json) |
 | The President | 209640 | [209640-the-president.json](./209640-the-president.json) |
