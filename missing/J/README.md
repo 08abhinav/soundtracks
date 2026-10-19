@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
+| Jackpot Words | 261100 | [261100-jackpot-words.json](./261100-jackpot-words.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacks or Better: Video Poker | 147855 | [147855-jacks-or-better-video-poker.json](./147855-jacks-or-better-video-poker.json) |
 | Jacksepticeye's 1 Million Subscriber YouTube Party Massacre | 252770 | [252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json](./252770-jacksepticeyes-1-million-subscriber-youtube-party-massacre.json) |
