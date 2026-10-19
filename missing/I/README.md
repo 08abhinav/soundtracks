@@ -1035,6 +1035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Ezmerelda Theme Pack | 306078 | [306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json](./306078-idle-champions-wyrm-slayer-ezmerelda-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Korth Skin & Feat Pack | 313711 | [313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json](./313711-idle-champions-wyrm-slayer-korth-skin-and-feat-pack.json) |
 | Idle Champions: Wyrm Slayer Nova Skin & Feat Pack | 313710 | [313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json](./313710-idle-champions-wyrm-slayer-nova-skin-and-feat-pack.json) |
+| Idle Champions: Wyrm Slayer Ravengard Theme Pack | 304429 | [304429-idle-champions-wyrm-slayer-ravengard-theme-pack.json](./304429-idle-champions-wyrm-slayer-ravengard-theme-pack.json) |
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
 | Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
