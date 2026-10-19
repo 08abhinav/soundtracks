@@ -1979,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
+| Virtual Goose! | 301138 | [301138-virtual-goose.json](./301138-virtual-goose.json) |
 | Virtual Grand Prix 2 | 79281 | [79281-virtual-grand-prix-2.json](./79281-virtual-grand-prix-2.json) |
 | Virtual Gunman | 355117 | [355117-virtual-gunman.json](./355117-virtual-gunman.json) |
 | Virtual Happy Land | 329231 | [329231-virtual-happy-land.json](./329231-virtual-happy-land.json) |
@@ -2326,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladimir 2021 | 156542 | [156542-vladimir-2021.json](./156542-vladimir-2021.json) |
 | Vladimir Putin Style | 125362 | [125362-vladimir-putin-style.json](./125362-vladimir-putin-style.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
+| Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vlorp | 144850 | [144850-vlorp.json](./144850-vlorp.json) |
 | vMigo | 220275 | [220275-vmigo.json](./220275-vmigo.json) |
