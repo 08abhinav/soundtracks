@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancake Bar Tycoon: Extended Edition | 207902 | [207902-pancake-bar-tycoon-extended-edition.json](./207902-pancake-bar-tycoon-extended-edition.json) |
 | Pancake House | 156698 | [156698-pancake-house.json](./156698-pancake-house.json) |
 | Pancake Patrol | 268967 | [268967-pancake-patrol.json](./268967-pancake-patrol.json) |
+| Panchin is Frustrated | 258875 | [258875-panchin-is-frustrated.json](./258875-panchin-is-frustrated.json) |
 | Panchito Chepas | 325639 | [325639-panchito-chepas.json](./325639-panchito-chepas.json) |
 | Panchito Delivery: Project Elevator | 416084 | [416084-panchito-delivery-project-elevator.json](./416084-panchito-delivery-project-elevator.json) |
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
@@ -6990,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plant vs Undead | 166596 | [166596-plant-vs-undead.json](./166596-plant-vs-undead.json) |
 | Plant With Care | 187785 | [187785-plant-with-care.json](./187785-plant-with-care.json) |
+| Plant World | 258848 | [258848-plant-world.json](./258848-plant-world.json) |
 | Planta | 159546 | [159546-planta.json](./159546-planta.json) |
 | Plantabi: Little Garden | 288871 | [288871-plantabi-little-garden.json](./288871-plantabi-little-garden.json) |
 | Plantan | 110330 | [110330-plantan.json](./110330-plantan.json) |
@@ -7614,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Estimation | 317050 | [317050-pocket-estimation.json](./317050-pocket-estimation.json) |
 | Pocket Family GB | 180201 | [180201-pocket-family-gb.json](./180201-pocket-family-gb.json) |
 | Pocket Family GB2 | 180202 | [180202-pocket-family-gb2.json](./180202-pocket-family-gb2.json) |
+| Pocket Family: Happy Family Plan | 258873 | [258873-pocket-family-happy-family-plan.json](./258873-pocket-family-happy-family-plan.json) |
 | Pocket Farm | 232176 | [232176-pocket-farm.json](./232176-pocket-farm.json) |
 | Pocket Farm | 245346 | [245346-pocket-farm.json](./245346-pocket-farm.json) |
 | Pocket Farmer | 350073 | [350073-pocket-farmer.json](./350073-pocket-farmer.json) |
@@ -10854,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PriPara: All Idol | 285046 | [285046-pripara-all-idol.json](./285046-pripara-all-idol.json) |
 | PriPara: All Idol Perfect Stage | 133394 | [133394-pripara-all-idol-perfect-stage.json](./133394-pripara-all-idol-perfect-stage.json) |
 | PriPara: Awaken! The Goddess' Dress Design! | 177574 | [177574-pripara-awaken-the-goddess-dress-design.json](./177574-pripara-awaken-the-goddess-dress-design.json) |
+| PriPri | 258883 | [258883-pripri.json](./258883-pripri.json) |
 | Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
 | Pripyat Block 1986 | 285415 | [285415-pripyat-block-1986.json](./285415-pripyat-block-1986.json) |
 | Pripyat-3 | 171509 | [171509-pripyat-3.json](./171509-pripyat-3.json) |
