@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
+| A Tale of Paper: Unfolded Melody | 300441 | [300441-a-tale-of-paper-unfolded-melody.json](./300441-a-tale-of-paper-unfolded-melody.json) |
 | A Tale of Sand and Bone | 303898 | [303898-a-tale-of-sand-and-bone.json](./303898-a-tale-of-sand-and-bone.json) |
 | A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
