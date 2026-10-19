@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T08:48:37.091Z",
-  "total_missing": 232227,
+  "generated_at": "2026-10-19T09:03:19.682Z",
+  "total_missing": 232277,
   "games": [
     {
       "igdb_id": 191680,
@@ -43377,6 +43377,11 @@
       "file": "missing/A/353403-american-truck-simulator-christmas-paint-jobs-pack.json"
     },
     {
+      "igdb_id": 288634,
+      "game_name": "American Truck Simulator: Classic Stripes Paint Jobs Pack",
+      "file": "missing/A/288634-american-truck-simulator-classic-stripes-paint-jobs-pack.json"
+    },
+    {
       "igdb_id": 167679,
       "game_name": "American Truck Simulator: Colorado",
       "file": "missing/A/167679-american-truck-simulator-colorado.json"
@@ -43432,6 +43437,11 @@
       "file": "missing/A/348974-american-truck-simulator-illinois.json"
     },
     {
+      "igdb_id": 288629,
+      "game_name": "American Truck Simulator: International LoneStar",
+      "file": "missing/A/288629-american-truck-simulator-international-lonestar.json"
+    },
+    {
       "igdb_id": 348972,
       "game_name": "American Truck Simulator: Iowa",
       "file": "missing/A/348972-american-truck-simulator-iowa.json"
@@ -43465,6 +43475,11 @@
       "igdb_id": 348973,
       "game_name": "American Truck Simulator: Louisiana",
       "file": "missing/A/348973-american-truck-simulator-louisiana.json"
+    },
+    {
+      "igdb_id": 288630,
+      "game_name": "American Truck Simulator: Mack Anthem",
+      "file": "missing/A/288630-american-truck-simulator-mack-anthem.json"
     },
     {
       "igdb_id": 353408,
@@ -43527,6 +43542,11 @@
       "file": "missing/A/311103-american-truck-simulator-sports-paint-jobs-pack.json"
     },
     {
+      "igdb_id": 288635,
+      "game_name": "American Truck Simulator: Steering Creations Pack",
+      "file": "missing/A/288635-american-truck-simulator-steering-creations-pack.json"
+    },
+    {
       "igdb_id": 167678,
       "game_name": "American Truck Simulator: Texas",
       "file": "missing/A/167678-american-truck-simulator-texas.json"
@@ -43545,6 +43565,16 @@
       "igdb_id": 353404,
       "game_name": "American Truck Simulator: Volvo Construction Equipment",
       "file": "missing/A/353404-american-truck-simulator-volvo-construction-equipment.json"
+    },
+    {
+      "igdb_id": 288632,
+      "game_name": "American Truck Simulator: Volvo VNL",
+      "file": "missing/A/288632-american-truck-simulator-volvo-vnl.json"
+    },
+    {
+      "igdb_id": 288633,
+      "game_name": "American Truck Simulator: Western Star 49X",
+      "file": "missing/A/288633-american-truck-simulator-western-star-49x.json"
     },
     {
       "igdb_id": 211406,
@@ -257802,6 +257832,11 @@
       "file": "missing/D/77983-dinosource.json"
     },
     {
+      "igdb_id": 288638,
+      "game_name": "Dinostria",
+      "file": "missing/D/288638-dinostria.json"
+    },
+    {
       "igdb_id": 35131,
       "game_name": "DinoSystem",
       "file": "missing/D/35131-dinosystem.json"
@@ -287607,6 +287642,11 @@
       "file": "missing/D/227756-dungeon.json"
     },
     {
+      "igdb_id": 288637,
+      "game_name": "Dungeon",
+      "file": "missing/D/288637-dungeon.json"
+    },
+    {
       "igdb_id": 290308,
       "game_name": "Dungeon",
       "file": "missing/D/290308-dungeon.json"
@@ -301185,6 +301225,11 @@
       "igdb_id": 207197,
       "game_name": "Elektrosoul",
       "file": "missing/E/207197-elektrosoul.json"
+    },
+    {
+      "igdb_id": 288643,
+      "game_name": "Elemage",
+      "file": "missing/E/288643-elemage.json"
     },
     {
       "igdb_id": 258397,
@@ -414645,6 +414690,11 @@
       "igdb_id": 160089,
       "game_name": "Gun&Dun",
       "file": "missing/G/160089-gun-and-dun.json"
+    },
+    {
+      "igdb_id": 288641,
+      "game_name": "Gunball",
+      "file": "missing/G/288641-gunball.json"
     },
     {
       "igdb_id": 353638,
@@ -657372,6 +657422,11 @@
       "file": "missing/N/197329-nerf-battle-arena.json"
     },
     {
+      "igdb_id": 288644,
+      "game_name": "Nerf: Superblast",
+      "file": "missing/N/288644-nerf-superblast.json"
+    },
+    {
       "igdb_id": 311598,
       "game_name": "Nerl's Crazy C\"rough\"t!",
       "file": "missing/N/311598-nerls-crazy-c-rough-t.json"
@@ -717340,6 +717395,11 @@
       "igdb_id": 55017,
       "game_name": "Phantom Club",
       "file": "missing/P/55017-phantom-club.json"
+    },
+    {
+      "igdb_id": 288639,
+      "game_name": "Phantom Core 2",
+      "file": "missing/P/288639-phantom-core-2.json"
     },
     {
       "igdb_id": 302789,
@@ -851577,6 +851637,11 @@
       "file": "missing/S/235296-ships-of-battle-age-of-pirates.json"
     },
     {
+      "igdb_id": 288642,
+      "game_name": "Ships of Chaos",
+      "file": "missing/S/288642-ships-of-chaos.json"
+    },
+    {
       "igdb_id": 229181,
       "game_name": "Ships Simulator",
       "file": "missing/S/229181-ships-simulator.json"
@@ -886920,6 +886985,11 @@
       "igdb_id": 38296,
       "game_name": "Sougou Kakutougi: Astral Bout 2 - The Total Fighters",
       "file": "missing/S/38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json"
+    },
+    {
+      "igdb_id": 288631,
+      "game_name": "Souhide Series: Omatsuri-zukushi",
+      "file": "missing/S/288631-souhide-series-omatsuri-zukushi.json"
     },
     {
       "igdb_id": 71799,
@@ -1019687,6 +1019757,11 @@
       "file": "missing/T/334825-the-ultimate-clicker-master-of-the-universe.json"
     },
     {
+      "igdb_id": 288626,
+      "game_name": "The Ultimate Couch Game",
+      "file": "missing/T/288626-the-ultimate-couch-game.json"
+    },
+    {
       "igdb_id": 251720,
       "game_name": "The Ultimate Death Clock",
       "file": "missing/T/251720-the-ultimate-death-clock.json"
@@ -1021377,6 +1021452,11 @@
       "file": "missing/T/391119-the-wanderers-rest.json"
     },
     {
+      "igdb_id": 288625,
+      "game_name": "The Wandering Demon Blade",
+      "file": "missing/T/288625-the-wandering-demon-blade.json"
+    },
+    {
       "igdb_id": 400498,
       "game_name": "The Wandering Her",
       "file": "missing/T/400498-the-wandering-her.json"
@@ -1021510,6 +1021590,11 @@
       "igdb_id": 289951,
       "game_name": "The Warden's Paradise",
       "file": "missing/T/289951-the-wardens-paradise.json"
+    },
+    {
+      "igdb_id": 288624,
+      "game_name": "The Warehouse",
+      "file": "missing/T/288624-the-warehouse.json"
     },
     {
       "igdb_id": 417488,
@@ -1022467,6 +1022552,11 @@
       "file": "missing/T/320008-the-witch-of-the-wake.json"
     },
     {
+      "igdb_id": 288622,
+      "game_name": "The Witch Veils: The Mansion",
+      "file": "missing/T/288622-the-witch-veils-the-mansion.json"
+    },
+    {
       "igdb_id": 245735,
       "game_name": "The Witch, Wife, & the Wish",
       "file": "missing/T/245735-the-witch-wife-and-the-wish.json"
@@ -1022830,6 +1022920,11 @@
       "igdb_id": 160070,
       "game_name": "The Wolf's Girl",
       "file": "missing/T/160070-the-wolfs-girl.json"
+    },
+    {
+      "igdb_id": 288619,
+      "game_name": "The Wolf's Hunt",
+      "file": "missing/T/288619-the-wolfs-hunt.json"
     },
     {
       "igdb_id": 398476,
@@ -1023402,6 +1023497,11 @@
       "file": "missing/T/235758-the-year-of-the-carrot.json"
     },
     {
+      "igdb_id": 288618,
+      "game_name": "The Yellow Moon's School: The Ghosts Day",
+      "file": "missing/T/288618-the-yellow-moons-school-the-ghosts-day.json"
+    },
+    {
       "igdb_id": 114365,
       "game_name": "The Yellow Quiz",
       "file": "missing/T/114365-the-yellow-quiz.json"
@@ -1023500,6 +1023600,11 @@
       "igdb_id": 72349,
       "game_name": "The Zero Dome",
       "file": "missing/T/72349-the-zero-dome.json"
+    },
+    {
+      "igdb_id": 288617,
+      "game_name": "The Zhukov Line",
+      "file": "missing/T/288617-the-zhukov-line.json"
     },
     {
       "igdb_id": 404798,
@@ -1024937,6 +1025042,11 @@
       "file": "missing/T/109623-thetruth-exe.json"
     },
     {
+      "igdb_id": 288627,
+      "game_name": "Theurgic",
+      "file": "missing/T/288627-theurgic.json"
+    },
+    {
       "igdb_id": 333365,
       "game_name": "Theurgy Architect",
       "file": "missing/T/333365-theurgy-architect.json"
@@ -1025030,6 +1025140,11 @@
       "igdb_id": 392135,
       "game_name": "They Are Rising",
       "file": "missing/T/392135-they-are-rising.json"
+    },
+    {
+      "igdb_id": 288620,
+      "game_name": "They Bite!",
+      "file": "missing/T/288620-they-bite.json"
     },
     {
       "igdb_id": 10988,
@@ -1025902,6 +1026017,11 @@
       "file": "missing/T/197764-thirdmiracle.json"
     },
     {
+      "igdb_id": 288621,
+      "game_name": "ThirdPlace: Kon and Pon",
+      "file": "missing/T/288621-thirdplace-kon-and-pon.json"
+    },
+    {
       "igdb_id": 31836,
       "game_name": "Thirst",
       "file": "missing/T/31836-thirst.json"
@@ -1026175,6 +1026295,11 @@
       "igdb_id": 115151,
       "game_name": "This is my story",
       "file": "missing/T/115151-this-is-my-story.json"
+    },
+    {
+      "igdb_id": 288611,
+      "game_name": "This is Normal",
+      "file": "missing/T/288611-this-is-normal.json"
     },
     {
       "igdb_id": 243636,
@@ -1026615,6 +1026740,11 @@
       "igdb_id": 290773,
       "game_name": "Thorgal",
       "file": "missing/T/290773-thorgal.json"
+    },
+    {
+      "igdb_id": 288610,
+      "game_name": "Thorgard",
+      "file": "missing/T/288610-thorgard.json"
     },
     {
       "igdb_id": 61511,
@@ -1027797,6 +1027927,11 @@
       "file": "missing/T/180528-through-the-panels.json"
     },
     {
+      "igdb_id": 288616,
+      "game_name": "Through the Thorns and Curses",
+      "file": "missing/T/288616-through-the-thorns-and-curses.json"
+    },
+    {
       "igdb_id": 102957,
       "game_name": "Through the Tomb",
       "file": "missing/T/102957-through-the-tomb.json"
@@ -1027905,6 +1028040,11 @@
       "igdb_id": 224636,
       "game_name": "Throw Wizard",
       "file": "missing/T/224636-throw-wizard.json"
+    },
+    {
+      "igdb_id": 288615,
+      "game_name": "Throw Your Phone: Into the Ocean",
+      "file": "missing/T/288615-throw-your-phone-into-the-ocean.json"
     },
     {
       "igdb_id": 351778,
@@ -1028520,6 +1028660,11 @@
       "igdb_id": 260176,
       "game_name": "Thursday Nite Thunkin'",
       "file": "missing/T/260176-thursday-nite-thunkin.json"
+    },
+    {
+      "igdb_id": 288612,
+      "game_name": "Thus Spoke the Donke",
+      "file": "missing/T/288612-thus-spoke-the-donke.json"
     },
     {
       "igdb_id": 221080,
@@ -1029342,6 +1029487,11 @@
       "file": "missing/T/309874-tidy-backpack.json"
     },
     {
+      "igdb_id": 288613,
+      "game_name": "Tidy Cauldron",
+      "file": "missing/T/288613-tidy-cauldron.json"
+    },
+    {
       "igdb_id": 364033,
       "game_name": "Tidy Toys",
       "file": "missing/T/364033-tidy-toys.json"
@@ -1029460,6 +1029610,11 @@
       "igdb_id": 151615,
       "game_name": "Tiěxuè Gōngshā",
       "file": "missing/T/151615-tiexue-gongsha.json"
+    },
+    {
+      "igdb_id": 288614,
+      "game_name": "Tiff and Tussle",
+      "file": "missing/T/288614-tiff-and-tussle.json"
     },
     {
       "igdb_id": 233079,
@@ -1035527,6 +1035682,11 @@
       "file": "missing/T/220185-tile-master.json"
     },
     {
+      "igdb_id": 288598,
+      "game_name": "Tile Perfect",
+      "file": "missing/T/288598-tile-perfect.json"
+    },
+    {
       "igdb_id": 35625,
       "game_name": "Tile Rider",
       "file": "missing/T/35625-tile-rider.json"
@@ -1035777,6 +1035937,11 @@
       "file": "missing/T/202028-tileswitcher.json"
     },
     {
+      "igdb_id": 288599,
+      "game_name": "TileTurn",
+      "file": "missing/T/288599-tileturn.json"
+    },
+    {
       "igdb_id": 363577,
       "game_name": "TileUp",
       "file": "missing/T/363577-tileup.json"
@@ -1036025,6 +1036190,11 @@
       "igdb_id": 25881,
       "game_name": "Timber",
       "file": "missing/T/25881-timber.json"
+    },
+    {
+      "igdb_id": 288597,
+      "game_name": "Timber",
+      "file": "missing/T/288597-timber.json"
     },
     {
       "igdb_id": 385974,
@@ -1036302,9 +1036472,19 @@
       "file": "missing/T/416052-time-engineer-saga-situation-zulu.json"
     },
     {
+      "igdb_id": 288602,
+      "game_name": "Time Escape: A Prototype",
+      "file": "missing/T/288602-time-escape-a-prototype.json"
+    },
+    {
       "igdb_id": 84431,
       "game_name": "Time Fantasy",
       "file": "missing/T/84431-time-fantasy.json"
+    },
+    {
+      "igdb_id": 288603,
+      "game_name": "Time Fissure",
+      "file": "missing/T/288603-time-fissure.json"
     },
     {
       "igdb_id": 291022,
@@ -1036912,6 +1037092,11 @@
       "file": "missing/T/53810-time-to-die-adventures.json"
     },
     {
+      "igdb_id": 288605,
+      "game_name": "Time to Escape",
+      "file": "missing/T/288605-time-to-escape.json"
+    },
+    {
       "igdb_id": 114319,
       "game_name": "Time to Fight",
       "file": "missing/T/114319-time-to-fight.json"
@@ -1036925,6 +1037110,11 @@
       "igdb_id": 200525,
       "game_name": "Time to Hunt",
       "file": "missing/T/200525-time-to-hunt.json"
+    },
+    {
+      "igdb_id": 288606,
+      "game_name": "Time To Live",
+      "file": "missing/T/288606-time-to-live.json"
     },
     {
       "igdb_id": 95582,
@@ -1037000,6 +1037190,11 @@
       "igdb_id": 24804,
       "game_name": "Time Traveler",
       "file": "missing/T/24804-time-traveler.json"
+    },
+    {
+      "igdb_id": 288608,
+      "game_name": "Time Traveler: Escape Room VR",
+      "file": "missing/T/288608-time-traveler-escape-room-vr.json"
     },
     {
       "igdb_id": 6903,
@@ -1037190,6 +1037385,11 @@
       "igdb_id": 219499,
       "game_name": "Timebot",
       "file": "missing/T/219499-timebot.json"
+    },
+    {
+      "igdb_id": 288601,
+      "game_name": "Timebound",
+      "file": "missing/T/288601-timebound.json"
     },
     {
       "igdb_id": 321635,
@@ -1037457,6 +1037657,11 @@
       "file": "missing/T/220697-timepunk.json"
     },
     {
+      "igdb_id": 288604,
+      "game_name": "Timeray",
+      "file": "missing/T/288604-timeray.json"
+    },
+    {
       "igdb_id": 338268,
       "game_name": "Timerift Raiders: The Past Awakens",
       "file": "missing/T/338268-timerift-raiders-the-past-awakens.json"
@@ -1037615,6 +1037820,11 @@
       "igdb_id": 216397,
       "game_name": "Timewell: Trail of Celestes",
       "file": "missing/T/216397-timewell-trail-of-celestes.json"
+    },
+    {
+      "igdb_id": 288607,
+      "game_name": "Timewinder",
+      "file": "missing/T/288607-timewinder.json"
     },
     {
       "igdb_id": 173037,
@@ -1038462,6 +1038672,11 @@
       "file": "missing/T/125755-tiny-gladiators.json"
     },
     {
+      "igdb_id": 288591,
+      "game_name": "Tiny Gnome Game",
+      "file": "missing/T/288591-tiny-gnome-game.json"
+    },
+    {
       "igdb_id": 233081,
       "game_name": "Tiny Goalie",
       "file": "missing/T/233081-tiny-goalie.json"
@@ -1038855,6 +1039070,11 @@
       "igdb_id": 411843,
       "game_name": "Tiny Ramen Shop",
       "file": "missing/T/411843-tiny-ramen-shop.json"
+    },
+    {
+      "igdb_id": 288590,
+      "game_name": "Tiny Realms",
+      "file": "missing/T/288590-tiny-realms.json"
     },
     {
       "igdb_id": 61720,
@@ -1039510,6 +1039730,11 @@
       "igdb_id": 184482,
       "game_name": "Tipston Salvage",
       "file": "missing/T/184482-tipston-salvage.json"
+    },
+    {
+      "igdb_id": 288592,
+      "game_name": "Tipsy Rescue",
+      "file": "missing/T/288592-tipsy-rescue.json"
     },
     {
       "igdb_id": 136413,
@@ -1041257,6 +1041482,11 @@
       "file": "missing/T/38306-toads-world.json"
     },
     {
+      "igdb_id": 288596,
+      "game_name": "Toadally Dreadful",
+      "file": "missing/T/288596-toadally-dreadful.json"
+    },
+    {
       "igdb_id": 112975,
       "game_name": "Toader",
       "file": "missing/T/112975-toader.json"
@@ -1041440,6 +1041670,11 @@
       "igdb_id": 276951,
       "game_name": "Toasterball + Buissons Bundle",
       "file": "missing/T/276951-toasterball-buissons-bundle.json"
+    },
+    {
+      "igdb_id": 288595,
+      "game_name": "Toastercide",
+      "file": "missing/T/288595-toastercide.json"
     },
     {
       "igdb_id": 299558,
@@ -1041870,6 +1042105,11 @@
       "igdb_id": 386389,
       "game_name": "Todo Ryunosuke Tantei Nikki: Ogon no Rashinban",
       "file": "missing/T/386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json"
+    },
+    {
+      "igdb_id": 288594,
+      "game_name": "Todomiro",
+      "file": "missing/T/288594-todomiro.json"
     },
     {
       "igdb_id": 321780,
@@ -1042425,6 +1042665,11 @@
       "igdb_id": 48879,
       "game_name": "Toki no Tabibito: Time Stranger",
       "file": "missing/T/48879-toki-no-tabibito-time-stranger.json"
+    },
+    {
+      "igdb_id": 288593,
+      "game_name": "Toki Pona Island",
+      "file": "missing/T/288593-toki-pona-island.json"
     },
     {
       "igdb_id": 105194,
@@ -1107690,6 +1107935,11 @@
       "igdb_id": 255331,
       "game_name": "War",
       "file": "missing/W/255331-war.json"
+    },
+    {
+      "igdb_id": 288640,
+      "game_name": "War",
+      "file": "missing/W/288640-war.json"
     },
     {
       "igdb_id": 330313,
