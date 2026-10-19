@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siaty's Return | 361883 | [361883-siatys-return.json](./361883-siatys-return.json) |
 | Sibal Wonsung-iui Moheom | 59885 | [59885-sibal-wonsung-iui-moheom.json](./59885-sibal-wonsung-iui-moheom.json) |
 | Sibal Wonsung-iui Moheom 2 | 59884 | [59884-sibal-wonsung-iui-moheom-2.json](./59884-sibal-wonsung-iui-moheom-2.json) |
+| Sibel's Journey | 307420 | [307420-sibels-journey.json](./307420-sibels-journey.json) |
 | Siberian Dawn | 107794 | [107794-siberian-dawn.json](./107794-siberian-dawn.json) |
 | Siberian Dawn: Heroes of the Union | 310082 | [310082-siberian-dawn-heroes-of-the-union.json](./310082-siberian-dawn-heroes-of-the-union.json) |
 | Siberian Dawn: Winterflood | 310408 | [310408-siberian-dawn-winterflood.json](./310408-siberian-dawn-winterflood.json) |
@@ -15595,6 +15596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
+| Sphex: Minimal Arcade Game | 307429 | [307429-sphex-minimal-arcade-game.json](./307429-sphex-minimal-arcade-game.json) |
 | Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
 | Sphinx and the Cursed Mummy | 210438 | [210438-sphinx-and-the-cursed-mummy.json](./210438-sphinx-and-the-cursed-mummy.json) |
 | Sphinx and the Cursed Mummy | 242998 | [242998-sphinx-and-the-cursed-mummy.json](./242998-sphinx-and-the-cursed-mummy.json) |
