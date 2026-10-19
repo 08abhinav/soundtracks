@@ -6643,6 +6643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Ever-Beginning Tale | 171981 | [171981-the-ever-beginning-tale.json](./171981-the-ever-beginning-tale.json) |
+| The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jolly Gang's Misadventures in Africa | 53751 | [53751-the-jolly-gangs-misadventures-in-africa.json](./53751-the-jolly-gangs-misadventures-in-africa.json) |
 | The Jolly Gangs Spooky Adventure | 53752 | [53752-the-jolly-gangs-spooky-adventure.json](./53752-the-jolly-gangs-spooky-adventure.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
+| The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
 | The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
