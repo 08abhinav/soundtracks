@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
+| Farm Debt Repay Life | 291862 | [291862-farm-debt-repay-life.json](./291862-farm-debt-repay-life.json) |
 | Farm Defence | 373862 | [373862-farm-defence.json](./373862-farm-defence.json) |
 | Farm Doggie | 131346 | [131346-farm-doggie.json](./131346-farm-doggie.json) |
 | Farm Dream Village Harvest Sim | 101585 | [101585-farm-dream-village-harvest-sim.json](./101585-farm-dream-village-harvest-sim.json) |
@@ -3306,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight | 147425 | [147425-fight.json](./147425-fight.json) |
 | Fight | 150650 | [150650-fight.json](./150650-fight.json) |
 | Fight | 330366 | [330366-fight.json](./330366-fight.json) |
+| Fight 'N' Jokes: Storylines | 291832 | [291832-fight-n-jokes-storylines.json](./291832-fight-n-jokes-storylines.json) |
 | Fight // Flight | 176857 | [176857-fight-flight.json](./176857-fight-flight.json) |
 | Fight & Crush | 234313 | [234313-fight-and-crush.json](./234313-fight-and-crush.json) |
 | Fight 4 Flight | 98468 | [98468-fight-4-flight.json](./98468-fight-4-flight.json) |
@@ -6138,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowerbots | 330213 | [330213-flowerbots.json](./330213-flowerbots.json) |
 | FlowerCorner: Plant Watering To Vibe To | 380213 | [380213-flowercorner-plant-watering-to-vibe-to.json](./380213-flowercorner-plant-watering-to-vibe-to.json) |
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
+| FlowerField | 291824 | [291824-flowerfield.json](./291824-flowerfield.json) |
 | Flowerhorn Aquarium | 255748 | [255748-flowerhorn-aquarium.json](./255748-flowerhorn-aquarium.json) |
 | Flowering Across | 153419 | [153419-flowering-across.json](./153419-flowering-across.json) |
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
