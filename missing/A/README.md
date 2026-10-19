@@ -1458,6 +1458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolver: Deluxe Edition | 52555 | [52555-absolver-deluxe-edition.json](./52555-absolver-deluxe-edition.json) |
 | Absolver: Special Reserve edition | 74318 | [74318-absolver-special-reserve-edition.json](./74318-absolver-special-reserve-edition.json) |
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
+| Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
@@ -3906,6 +3907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
+| Airplane | 303327 | [303327-airplane.json](./303327-airplane.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
 | Airplane Chefs | 142762 | [142762-airplane-chefs.json](./142762-airplane-chefs.json) |
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
@@ -5837,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Cultivation Simulator | 127939 | [127939-amazing-cultivation-simulator.json](./127939-amazing-cultivation-simulator.json) |
 | Amazing Cultivation Simulator: Deep in the bamboo Forest | 166058 | [166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json](./166058-amazing-cultivation-simulator-deep-in-the-bamboo-forest.json) |
 | Amazing Cultivation Simulator: Immortal Tales of WuDang | 166053 | [166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json](./166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json) |
+| Amazing Curves Racing | 303329 | [303329-amazing-curves-racing.json](./303329-amazing-curves-racing.json) |
 | Amazing Digital Game 2D | 393115 | [393115-amazing-digital-game-2d.json](./393115-amazing-digital-game-2d.json) |
 | Amazing Drawing: Coloring Book Simulator | 312092 | [312092-amazing-drawing-coloring-book-simulator.json](./312092-amazing-drawing-coloring-book-simulator.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
@@ -5902,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon: Guardians of Eden | 2307 | [2307-amazon-guardians-of-eden.json](./2307-amazon-guardians-of-eden.json) |
 | Amazona Adventure | 279593 | [279593-amazona-adventure.json](./279593-amazona-adventure.json) |
 | Amazonia | 202189 | [202189-amazonia.json](./202189-amazonia.json) |
+| Amazônia Viva: Animais em Extinção | 303330 | [303330-amazonia-viva-animais-em-extincao.json](./303330-amazonia-viva-animais-em-extincao.json) |
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
@@ -5976,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame no Tokyo Eki | 286662 | [286662-ame-no-tokyo-eki.json](./286662-ame-no-tokyo-eki.json) |
 | Ame Nochi Hare Onna | 418300 | [418300-ame-nochi-hare-onna.json](./418300-ame-nochi-hare-onna.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
+| Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
 | Amelia and Terror of the Night: Story Book for Kids | 68945 | [68945-amelia-and-terror-of-the-night-story-book-for-kids.json](./68945-amelia-and-terror-of-the-night-story-book-for-kids.json) |
 | Amelia Watson Case File no.420 | 269474 | [269474-amelia-watson-case-file-no-420.json](./269474-amelia-watson-case-file-no-420.json) |
@@ -6143,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Americas Greatest Games | 206113 | [206113-americas-greatest-games.json](./206113-americas-greatest-games.json) |
 | Americas Tower Simulator | 224756 | [224756-americas-tower-simulator.json](./224756-americas-tower-simulator.json) |
 | Ameroth RPG | 411071 | [411071-ameroth-rpg.json](./411071-ameroth-rpg.json) |
+| Amerta | 303332 | [303332-amerta.json](./303332-amerta.json) |
 | Amerzone: The Explorer's Legacy | 11091 | [11091-amerzone-the-explorers-legacy.json](./11091-amerzone-the-explorers-legacy.json) |
 | Amerzone: The Explorer's Legacy - Limited Edition | 292145 | [292145-amerzone-the-explorers-legacy-limited-edition.json](./292145-amerzone-the-explorers-legacy-limited-edition.json) |
 | Ameshidama | 361918 | [361918-ameshidama.json](./361918-ameshidama.json) |
@@ -7927,6 +7933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antistar 3D: Rising | 315676 | [315676-antistar-3d-rising.json](./315676-antistar-3d-rising.json) |
 | Antistar: Rising | 315680 | [315680-antistar-rising.json](./315680-antistar-rising.json) |
 | Antistatic | 114215 | [114215-antistatic.json](./114215-antistatic.json) |
+| Antisuns | 303339 | [303339-antisuns.json](./303339-antisuns.json) |
 | Antithesis | 164885 | [164885-antithesis.json](./164885-antithesis.json) |
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
@@ -7960,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ants Times Infinity | 398648 | [398648-ants-times-infinity.json](./398648-ants-times-infinity.json) |
 | Ants Took My Eyeball | 211273 | [211273-ants-took-my-eyeball.json](./211273-ants-took-my-eyeball.json) |
 | Ants With Guns | 211436 | [211436-ants-with-guns.json](./211436-ants-with-guns.json) |
+| Ants.io | 303333 | [303333-ants-io.json](./303333-ants-io.json) |
 | Antuel's Lament | 315621 | [315621-antuels-lament.json](./315621-antuels-lament.json) |
 | Antumbra | 101989 | [101989-antumbra.json](./101989-antumbra.json) |
 | Antumbra: Vile Shards | 149514 | [149514-antumbra-vile-shards.json](./149514-antumbra-vile-shards.json) |
@@ -8263,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
 | Apocalyptic cat | 303893 | [303893-apocalyptic-cat.json](./303893-apocalyptic-cat.json) |
 | Apocalyptic Pussy | 367291 | [367291-apocalyptic-pussy.json](./367291-apocalyptic-pussy.json) |
+| Apocalyptic Shadows | 303334 | [303334-apocalyptic-shadows.json](./303334-apocalyptic-shadows.json) |
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
 | Apocalyptic World | 155976 | [155976-apocalyptic-world.json](./155976-apocalyptic-world.json) |
@@ -8524,9 +8533,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium Land: Armadillo | 303335 | [303335-aquarium-land-armadillo.json](./303335-aquarium-land-armadillo.json) |
+| Aquarium Land: Baby Seal | 303336 | [303336-aquarium-land-baby-seal.json](./303336-aquarium-land-baby-seal.json) |
 | Aquarium Land: Baby Seal Edition | 278650 | [278650-aquarium-land-baby-seal-edition.json](./278650-aquarium-land-baby-seal-edition.json) |
 | Aquarium Land: Complete Edition | 273299 | [273299-aquarium-land-complete-edition.json](./273299-aquarium-land-complete-edition.json) |
+| Aquarium Land: Parrot | 303337 | [303337-aquarium-land-parrot.json](./303337-aquarium-land-parrot.json) |
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
+| Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
@@ -8555,6 +8568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaVista | 393752 | [393752-aquavista.json](./393752-aquavista.json) |
 | Aquazone Desktop Life | 45429 | [45429-aquazone-desktop-life.json](./45429-aquazone-desktop-life.json) |
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
+| Aquelarre | 303340 | [303340-aquelarre.json](./303340-aquelarre.json) |
 | Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquilon Lust: Sex Arcana | 337962 | [337962-aquilon-lust-sex-arcana.json](./337962-aquilon-lust-sex-arcana.json) |
@@ -8649,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbe10: Base 10 | 101096 | [101096-arbe10-base-10.json](./101096-arbe10-base-10.json) |
 | Arbeit Man in another world | 151610 | [151610-arbeit-man-in-another-world.json](./151610-arbeit-man-in-another-world.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
+| Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
 | Arbor | 159038 | [159038-arbor.json](./159038-arbor.json) |
 | Arborea: Magnicidio en la Corte | 316835 | [316835-arborea-magnicidio-en-la-corte.json](./316835-arborea-magnicidio-en-la-corte.json) |
@@ -9103,6 +9118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
 | Arcade Snooker | 84177 | [84177-arcade-snooker.json](./84177-arcade-snooker.json) |
 | Arcade Soccer | 15599 | [15599-arcade-soccer.json](./15599-arcade-soccer.json) |
+| Arcade Space Survivor | 303342 | [303342-arcade-space-survivor.json](./303342-arcade-space-survivor.json) |
 | Arcade Spirits | 106986 | [106986-arcade-spirits.json](./106986-arcade-spirits.json) |
 | Arcade Spirits: The New Challengers | 145278 | [145278-arcade-spirits-the-new-challengers.json](./145278-arcade-spirits-the-new-challengers.json) |
 | Arcade Sports | 51093 | [51093-arcade-sports.json](./51093-arcade-sports.json) |
@@ -9238,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Tower | 175238 | [175238-arcane-tower.json](./175238-arcane-tower.json) |
 | Arcane Tower Defense | 237077 | [237077-arcane-tower-defense.json](./237077-arcane-tower-defense.json) |
 | Arcane Tower Survivors | 342641 | [342641-arcane-tower-survivors.json](./342641-arcane-tower-survivors.json) |
+| Arcane Treasures: Trading Card Game | 303343 | [303343-arcane-treasures-trading-card-game.json](./303343-arcane-treasures-trading-card-game.json) |
 | Arcane Walker | 154998 | [154998-arcane-walker.json](./154998-arcane-walker.json) |
 | Arcane Warlords | 247950 | [247950-arcane-warlords.json](./247950-arcane-warlords.json) |
 | Arcane Waters | 152824 | [152824-arcane-waters.json](./152824-arcane-waters.json) |
@@ -9264,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanorum | 335300 | [335300-arcanorum.json](./335300-arcanorum.json) |
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
 | Arcante | 140486 | [140486-arcante.json](./140486-arcante.json) |
+| Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcanus Online | 351054 | [351054-arcanus-online.json](./351054-arcanus-online.json) |
 | Arcany | 375981 | [375981-arcany.json](./375981-arcany.json) |
@@ -9362,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Showdown | 272788 | [272788-archery-showdown.json](./272788-archery-showdown.json) |
 | Archery Simulator | 217379 | [217379-archery-simulator.json](./217379-archery-simulator.json) |
 | Archery Simulator | 332264 | [332264-archery-simulator.json](./332264-archery-simulator.json) |
+| Archery Simulator 2 | 303344 | [303344-archery-simulator-2.json](./303344-archery-simulator-2.json) |
 | Archery Star | 106630 | [106630-archery-star.json](./106630-archery-star.json) |
 | Archery Tournament | 242563 | [242563-archery-tournament.json](./242563-archery-tournament.json) |
 | Archesis | 245955 | [245955-archesis.json](./245955-archesis.json) |
@@ -9393,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Architect Life: A House Design Simulator | 144766 | [144766-architect-life-a-house-design-simulator.json](./144766-architect-life-a-house-design-simulator.json) |
 | Architect of Ruin | 369990 | [369990-architect-of-ruin.json](./369990-architect-of-ruin.json) |
 | Architect of the Union | 286669 | [286669-architect-of-the-union.json](./286669-architect-of-the-union.json) |
+| Architect Simulator | 303345 | [303345-architect-simulator.json](./303345-architect-simulator.json) |
 | Architect: Land of Exiles | 344792 | [344792-architect-land-of-exiles.json](./344792-architect-land-of-exiles.json) |
 | Architects of Giants | 402550 | [402550-architects-of-giants.json](./402550-architects-of-giants.json) |
 | Architects of Shangri-La | 167839 | [167839-architects-of-shangri-la.json](./167839-architects-of-shangri-la.json) |
