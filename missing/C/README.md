@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cairo ShootOut! | 229800 | [229800-cairo-shootout.json](./229800-cairo-shootout.json) |
 | Cairo's Tale: The Big Egg | 156114 | [156114-cairos-tale-the-big-egg.json](./156114-cairos-tale-the-big-egg.json) |
 | Caïssa Board | 152893 | [152893-caissa-board.json](./152893-caissa-board.json) |
+| Caixa Mágica de Estórias | 296156 | [296156-caixa-magica-de-estorias.json](./296156-caixa-magica-de-estorias.json) |
 | Cajun Cop: The French Quarter Caper | 417496 | [417496-cajun-cop-the-french-quarter-caper.json](./417496-cajun-cop-the-french-quarter-caper.json) |
 | Cake Bakery | 245204 | [245204-cake-bakery.json](./245204-cake-bakery.json) |
 | Cake Bash | 113826 | [113826-cake-bash.json](./113826-cake-bash.json) |
@@ -1500,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021 | 152604 | [152604-car-mechanic-simulator-2021.json](./152604-car-mechanic-simulator-2021.json) |
 | Car Mechanic Simulator 2021: BMW DLC | 276213 | [276213-car-mechanic-simulator-2021-bmw-dlc.json](./276213-car-mechanic-simulator-2021-bmw-dlc.json) |
 | Car Mechanic Simulator 2021: Drag Racing | 225229 | [225229-car-mechanic-simulator-2021-drag-racing.json](./225229-car-mechanic-simulator-2021-drag-racing.json) |
+| Car Mechanic Simulator 2021: Jeep RAM Remastered | 296266 | [296266-car-mechanic-simulator-2021-jeep-ram-remastered.json](./296266-car-mechanic-simulator-2021-jeep-ram-remastered.json) |
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
