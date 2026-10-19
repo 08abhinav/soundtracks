@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From The Boykisser | 298928 | [298928-escape-from-the-boykisser.json](./298928-escape-from-the-boykisser.json) |
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
 | Escape From the Castle of Sad Ghosts | 181775 | [181775-escape-from-the-castle-of-sad-ghosts.json](./181775-escape-from-the-castle-of-sad-ghosts.json) |
+| Escape from the Catacombs | 268866 | [268866-escape-from-the-catacombs.json](./268866-escape-from-the-catacombs.json) |
 | Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
 | Escape From The Core | 329046 | [329046-escape-from-the-core.json](./329046-escape-from-the-core.json) |
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
@@ -4353,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged: Act I | 26795 | [26795-estranged-act-i.json](./26795-estranged-act-i.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
+| eSudoku 15K | 268915 | [268915-esudoku-15k.json](./268915-esudoku-15k.json) |
 | Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
 | ESWAT: City Under Siege | 6670 | [6670-eswat-city-under-siege.json](./6670-eswat-city-under-siege.json) |
 | ESWAT: Cyber Police | 39869 | [39869-eswat-cyber-police.json](./39869-eswat-cyber-police.json) |
