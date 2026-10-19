@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
 | Dark Deception: Monsters & Mortals - Silent Hill | 168793 | [168793-dark-deception-monsters-and-mortals-silent-hill.json](./168793-dark-deception-monsters-and-mortals-silent-hill.json) |
 | Dark Deception: Monsters & Mortals - The Coma 2: Vicious Sisters | 292869 | [292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json](./292869-dark-deception-monsters-and-mortals-the-coma-2-vicious-sisters.json) |
+| Dark Deception: Monsters & Mortals - UK Creators | 270537 | [270537-dark-deception-monsters-and-mortals-uk-creators.json](./270537-dark-deception-monsters-and-mortals-uk-creators.json) |
 | Dark Deception: Monsters & Mortals - US Creator | 291694 | [291694-dark-deception-monsters-and-mortals-us-creator.json](./291694-dark-deception-monsters-and-mortals-us-creator.json) |
 | Dark Decline | 269271 | [269271-dark-decline.json](./269271-dark-decline.json) |
 | Dark Deity | 147215 | [147215-dark-deity.json](./147215-dark-deity.json) |
@@ -6972,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
+| Dinolords | 270548 | [270548-dinolords.json](./270548-dinolords.json) |
 | Dinomaster Party | 64224 | [64224-dinomaster-party.json](./64224-dinomaster-party.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
@@ -10338,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Planet | 295530 | [295530-dr-planet.json](./295530-dr-planet.json) |
 | Dr. Popper | 85722 | [85722-dr-popper.json](./85722-dr-popper.json) |
 | Dr. Psycho: Hospital Escape | 401115 | [401115-dr-psycho-hospital-escape.json](./401115-dr-psycho-hospital-escape.json) |
+| Dr. Psycho: Hospital Escape 2 | 270512 | [270512-dr-psycho-hospital-escape-2.json](./270512-dr-psycho-hospital-escape-2.json) |
 | Dr. Rabbit's Toothpaste Tower | 320989 | [320989-dr-rabbits-toothpaste-tower.json](./320989-dr-rabbits-toothpaste-tower.json) |
 | Dr. Rin ni Kiitemite! Koi no Happy Four Season | 203831 | [203831-dr-rin-ni-kiitemite-koi-no-happy-four-season.json](./203831-dr-rin-ni-kiitemite-koi-no-happy-four-season.json) |
 | Dr. Rin ni Kiitemite! Koi no Rin Fuusui | 65535 | [65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json](./65535-dr-rin-ni-kiitemite-koi-no-rin-fuusui.json) |
@@ -10425,6 +10428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula 4: The Shadow of the Dragon | 9090 | [9090-dracula-4-the-shadow-of-the-dragon.json](./9090-dracula-4-the-shadow-of-the-dragon.json) |
 | Dracula 4+5 | 154936 | [154936-dracula-4-5.json](./154936-dracula-4-5.json) |
 | Dracula 5: The Blood Legacy | 9094 | [9094-dracula-5-the-blood-legacy.json](./9094-dracula-5-the-blood-legacy.json) |
+| Dracula Awakens | 270556 | [270556-dracula-awakens.json](./270556-dracula-awakens.json) |
 | Dracula Cha Cha | 262275 | [262275-dracula-cha-cha.json](./262275-dracula-cha-cha.json) |
 | Dracula City Master: Idle Army | 232394 | [232394-dracula-city-master-idle-army.json](./232394-dracula-city-master-idle-army.json) |
 | Dracula Defense! | 224719 | [224719-dracula-defense.json](./224719-dracula-defense.json) |
