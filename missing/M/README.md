@@ -13445,7 +13445,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP1: Minecraft Mayhem | 283416 | [283416-mp1-minecraft-mayhem.json](./283416-mp1-minecraft-mayhem.json) |
 | MP1: Monopoly | 283419 | [283419-mp1-monopoly.json](./283419-mp1-monopoly.json) |
 | MP1: Mushroom Gorge | 283420 | [283420-mp1-mushroom-gorge.json](./283420-mp1-mushroom-gorge.json) |
+| MP1: Mushroom Kingdom Party Board | 283625 | [283625-mp1-mushroom-kingdom-party-board.json](./283625-mp1-mushroom-kingdom-party-board.json) |
 | MP1: Neon Party | 283644 | [283644-mp1-neon-party.json](./283644-mp1-neon-party.json) |
+| MP1: Orange Magma Mountain | 283626 | [283626-mp1-orange-magma-mountain.json](./283626-mp1-orange-magma-mountain.json) |
 | MP1: Pallet Town | 283418 | [283418-mp1-pallet-town.json](./283418-mp1-pallet-town.json) |
 | MP1: Rainbow Road | 283415 | [283415-mp1-rainbow-road.json](./283415-mp1-rainbow-road.json) |
 | MP1: Snowflake Lake | 283412 | [283412-mp1-snowflake-lake.json](./283412-mp1-snowflake-lake.json) |
@@ -15791,6 +15793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious House | 190916 | [190916-mysterious-house.json](./190916-mysterious-house.json) |
 | Mysterious House | 376828 | [376828-mysterious-house.json](./376828-mysterious-house.json) |
 | Mysterious insects | 82468 | [82468-mysterious-insects.json](./82468-mysterious-insects.json) |
+| Mysterious Island | 283622 | [283622-mysterious-island.json](./283622-mysterious-island.json) |
 | Mysterious Island Remastered | 180548 | [180548-mysterious-island-remastered.json](./180548-mysterious-island-remastered.json) |
 | Mysterious Island Remastered | 53393 | [53393-mysterious-island-remastered.json](./53393-mysterious-island-remastered.json) |
 | Mysterious Island: A Hidden Object Adventure | 195758 | [195758-mysterious-island-a-hidden-object-adventure.json](./195758-mysterious-island-a-hidden-object-adventure.json) |
