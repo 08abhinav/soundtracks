@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
 | Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
+| Baff Halloween | 271071 | [271071-baff-halloween.json](./271071-baff-halloween.json) |
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
 | Baffle My Mind | 88211 | [88211-baffle-my-mind.json](./88211-baffle-my-mind.json) |
 | BAFL: Brakes Are For Losers | 44740 | [44740-bafl-brakes-are-for-losers.json](./44740-bafl-brakes-are-for-losers.json) |
@@ -1509,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandle Tale: Scout Recon Pack | 336133 | [336133-bandle-tale-scout-recon-pack.json](./336133-bandle-tale-scout-recon-pack.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
+| Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Baneseed | 184658 | [184658-baneseed.json](./184658-baneseed.json) |
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
@@ -3664,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bean Base | 404169 | [404169-bean-base.json](./404169-bean-base.json) |
 | Bean Battle Brawl | 338199 | [338199-bean-battle-brawl.json](./338199-bean-battle-brawl.json) |
 | Bean Battles | 106556 | [106556-bean-battles.json](./106556-bean-battles.json) |
+| Bean Beasts | 271099 | [271099-bean-beasts.json](./271099-bean-beasts.json) |
 | Bean Busy | 371128 | [371128-bean-busy.json](./371128-bean-busy.json) |
 | Bean Climb | 138576 | [138576-bean-climb.json](./138576-bean-climb.json) |
 | Bean Dreams | 60630 | [60630-bean-dreams.json](./60630-bean-dreams.json) |
@@ -8392,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Mary's Mansion | 90225 | [90225-bloody-marys-mansion.json](./90225-bloody-marys-mansion.json) |
 | Bloody Merc | 152814 | [152814-bloody-merc.json](./152814-bloody-merc.json) |
 | Bloody Mice | 55457 | [55457-bloody-mice.json](./55457-bloody-mice.json) |
+| Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
@@ -11183,6 +11187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
+| Breaking Box: Rush! | 271088 | [271088-breaking-box-rush.json](./271088-breaking-box-rush.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
 | Breaking Bricks | 301091 | [301091-breaking-bricks.json](./301091-breaking-bricks.json) |
 | Breaking Bricks | 333680 | [333680-breaking-bricks.json](./333680-breaking-bricks.json) |
