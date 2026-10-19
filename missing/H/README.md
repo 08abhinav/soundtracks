@@ -3528,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Case Opening | 106426 | [106426-hentai-case-opening.json](./106426-hentai-case-opening.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
+| Hentai Casual Jigsaw: Zombies | 301672 | [301672-hentai-casual-jigsaw-zombies.json](./301672-hentai-casual-jigsaw-zombies.json) |
 | Hentai Casual Slider 2 | 234736 | [234736-hentai-casual-slider-2.json](./234736-hentai-casual-slider-2.json) |
 | Hentai Casual Swap 3 | 371402 | [371402-hentai-casual-swap-3.json](./371402-hentai-casual-swap-3.json) |
 | Hentai Celestia | 369376 | [369376-hentai-celestia.json](./369376-hentai-celestia.json) |
@@ -3535,6 +3536,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai ChessKnight | 365417 | [365417-hentai-chessknight.json](./365417-hentai-chessknight.json) |
 | Hentai Chicks 2 | 149415 | [149415-hentai-chicks-2.json](./149415-hentai-chicks-2.json) |
 | Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
+| Hentai City | 301675 | [301675-hentai-city.json](./301675-hentai-city.json) |
+| Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
 | Hentai Clicker: Alerinna Is Streaming | 371383 | [371383-hentai-clicker-alerinna-is-streaming.json](./371383-hentai-clicker-alerinna-is-streaming.json) |
 | Hentai Clicker: Bethy Is Streaming | 389609 | [389609-hentai-clicker-bethy-is-streaming.json](./389609-hentai-clicker-bethy-is-streaming.json) |
@@ -3562,6 +3565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
 | Hentai Cut and Nut | 369996 | [369996-hentai-cut-and-nut.json](./369996-hentai-cut-and-nut.json) |
 | Hentai Cute | 365420 | [365420-hentai-cute.json](./365420-hentai-cute.json) |
+| Hentai Cute Pazzle | 301674 | [301674-hentai-cute-pazzle.json](./301674-hentai-cute-pazzle.json) |
 | Hentai Cyber | 368099 | [368099-hentai-cyber.json](./368099-hentai-cyber.json) |
 | Hentai Cyberpunk Sci-Fi | 365421 | [365421-hentai-cyberpunk-sci-fi.json](./365421-hentai-cyberpunk-sci-fi.json) |
 | Hentai Dance | 365422 | [365422-hentai-dance.json](./365422-hentai-dance.json) |
@@ -3686,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sexy Sakura | 336419 | [336419-hentai-girls-sexy-sakura.json](./336419-hentai-girls-sexy-sakura.json) |
 | Hentai Girls: Steamy Maid | 300864 | [300864-hentai-girls-steamy-maid.json](./300864-hentai-girls-steamy-maid.json) |
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
+| Hentai Girls: The Princesses | 301676 | [301676-hentai-girls-the-princesses.json](./301676-hentai-girls-the-princesses.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
 | Hentai Girls: Ultra Definitive | 317285 | [317285-hentai-girls-ultra-definitive.json](./317285-hentai-girls-ultra-definitive.json) |
 | Hentai Girls: Ultra Deluxe | 303859 | [303859-hentai-girls-ultra-deluxe.json](./303859-hentai-girls-ultra-deluxe.json) |
@@ -3759,6 +3764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Love | 365444 | [365444-hentai-love.json](./365444-hentai-love.json) |
 | Hentai Lover's Train | 365445 | [365445-hentai-lovers-train.json](./365445-hentai-lovers-train.json) |
 | Hentai Lucia | 339914 | [339914-hentai-lucia.json](./339914-hentai-lucia.json) |
+| Hentai Luna | 301677 | [301677-hentai-luna.json](./301677-hentai-luna.json) |
 | Hentai Lunara | 376108 | [376108-hentai-lunara.json](./376108-hentai-lunara.json) |
 | Hentai Lust | 256923 | [256923-hentai-lust.json](./256923-hentai-lust.json) |
 | Hentai Madness | 365446 | [365446-hentai-madness.json](./365446-hentai-madness.json) |
@@ -3869,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
 | Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
+| Hentai Senpai: Apocalypse Girls | 301669 | [301669-hentai-senpai-apocalypse-girls.json](./301669-hentai-senpai-apocalypse-girls.json) |
 | Hentai Senpai: Cosmic Beauties - Premium Pack | 291057 | [291057-hentai-senpai-cosmic-beauties-premium-pack.json](./291057-hentai-senpai-cosmic-beauties-premium-pack.json) |
 | Hentai Senpai: Cyberpussy 2069 | 244392 | [244392-hentai-senpai-cyberpussy-2069.json](./244392-hentai-senpai-cyberpussy-2069.json) |
 | Hentai Senpai: Goth Feet | 340450 | [340450-hentai-senpai-goth-feet.json](./340450-hentai-senpai-goth-feet.json) |
@@ -3877,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Senpai: Konbini no Shirigaru Onna | 311134 | [311134-hentai-senpai-konbini-no-shirigaru-onna.json](./311134-hentai-senpai-konbini-no-shirigaru-onna.json) |
 | Hentai Senpai: Thicc Fairies of Forest Lake | 372118 | [372118-hentai-senpai-thicc-fairies-of-forest-lake.json](./372118-hentai-senpai-thicc-fairies-of-forest-lake.json) |
 | Hentai Senpai: Thiccmas Cumsluts | 384704 | [384704-hentai-senpai-thiccmas-cumsluts.json](./384704-hentai-senpai-thiccmas-cumsluts.json) |
+| Hentai Sensei | 301666 | [301666-hentai-sensei.json](./301666-hentai-sensei.json) |
 | Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
@@ -3888,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
+| Hentai Sister | 301667 | [301667-hentai-sister.json](./301667-hentai-sister.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Slide Puzzle | 236184 | [236184-hentai-slide-puzzle.json](./236184-hentai-slide-puzzle.json) |
 | Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
@@ -3932,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
 | Hentai Tales Vol. 3 | 300865 | [300865-hentai-tales-vol-3.json](./300865-hentai-tales-vol-3.json) |
 | Hentai Tales: Academy's Record | 371357 | [371357-hentai-tales-academys-record.json](./371357-hentai-tales-academys-record.json) |
+| Hentai Tales: Another Fairy Tales | 301670 | [301670-hentai-tales-another-fairy-tales.json](./301670-hentai-tales-another-fairy-tales.json) |
 | Hentai Tales: Breeding Order 2050 | 389605 | [389605-hentai-tales-breeding-order-2050.json](./389605-hentai-tales-breeding-order-2050.json) |
 | Hentai Tales: Bunny Hole | 340453 | [340453-hentai-tales-bunny-hole.json](./340453-hentai-tales-bunny-hole.json) |
 | Hentai Tales: C-D Girls | 371382 | [371382-hentai-tales-c-d-girls.json](./371382-hentai-tales-c-d-girls.json) |
@@ -3946,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Office Sex Handler | 389606 | [389606-hentai-tales-office-sex-handler.json](./389606-hentai-tales-office-sex-handler.json) |
 | Hentai Tales: Saimin Kouhai | 340454 | [340454-hentai-tales-saimin-kouhai.json](./340454-hentai-tales-saimin-kouhai.json) |
 | Hentai Tales: Scent Of Mixed | 340455 | [340455-hentai-tales-scent-of-mixed.json](./340455-hentai-tales-scent-of-mixed.json) |
+| Hentai Tales: Seed Prison | 301668 | [301668-hentai-tales-seed-prison.json](./301668-hentai-tales-seed-prison.json) |
 | Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
@@ -3963,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
+| Hentai Violet | 301671 | [301671-hentai-violet.json](./301671-hentai-violet.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
 | Hentai VR 18+ | 366524 | [366524-hentai-vr-18.json](./366524-hentai-vr-18.json) |
 | Hentai VR 3 | 147408 | [147408-hentai-vr-3.json](./147408-hentai-vr-3.json) |
@@ -6554,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
 | Holy Breaker! 2 The Wish in the Night of the Star Talers | 256322 | [256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json](./256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json) |
 | Holy Breaker! The Witch Betrayed Blue Moon Wicca | 256321 | [256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json](./256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json) |
+| Holy Clash Cards | 301700 | [301700-holy-clash-cards.json](./301700-holy-clash-cards.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
 | Holy Crap Bears! | 396386 | [396386-holy-crap-bears.json](./396386-holy-crap-bears.json) |
 | Holy Deadline | 354559 | [354559-holy-deadline.json](./354559-holy-deadline.json) |
