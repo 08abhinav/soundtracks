@@ -10688,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Burst | 382279 | [382279-princess-burst.json](./382279-princess-burst.json) |
 | Princess Castle Quest | 122802 | [122802-princess-castle-quest.json](./122802-princess-castle-quest.json) |
+| Princess Chessboard | 272734 | [272734-princess-chessboard.json](./272734-princess-chessboard.json) |
 | Princess Closet | 147734 | [147734-princess-closet.json](./147734-princess-closet.json) |
 | Princess Closet: Fashion and Love Will Change Me | 400059 | [400059-princess-closet-fashion-and-love-will-change-me.json](./400059-princess-closet-fashion-and-love-will-change-me.json) |
 | Princess Coloring Book + | 87326 | [87326-princess-coloring-book.json](./87326-princess-coloring-book.json) |
@@ -10907,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Gambit | 411031 | [411031-prison-gambit.json](./411031-prison-gambit.json) |
 | Prison Gang Wars | 268982 | [268982-prison-gang-wars.json](./268982-prison-gang-wars.json) |
 | Prison Girl | 150645 | [150645-prison-girl.json](./150645-prison-girl.json) |
+| Prison in Cafe | 272702 | [272702-prison-in-cafe.json](./272702-prison-in-cafe.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
@@ -11914,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project Temporality | 10725 | [10725-project-temporality.json](./10725-project-temporality.json) |
+| Project Terra | 272733 | [272733-project-terra.json](./272733-project-terra.json) |
 | Project Thea | 330350 | [330350-project-thea.json](./330350-project-thea.json) |
 | Project Third Eye | 258603 | [258603-project-third-eye.json](./258603-project-third-eye.json) |
 | Project Three | 343857 | [343857-project-three.json](./343857-project-three.json) |
@@ -12172,6 +12175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prospice | 374812 | [374812-prospice.json](./374812-prospice.json) |
 | Prosrochennyy | 367756 | [367756-prosrochennyy.json](./367756-prosrochennyy.json) |
 | Prost Grand Prix 1998 | 78696 | [78696-prost-grand-prix-1998.json](./78696-prost-grand-prix-1998.json) |
+| Prostitute Island | 272727 | [272727-prostitute-island.json](./272727-prostitute-island.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
 | Prostitute Simulator 3 | 384899 | [384899-prostitute-simulator-3.json](./384899-prostitute-simulator-3.json) |
