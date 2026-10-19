@@ -1982,6 +1982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
+| Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Elon and Friends: Easter Pack | 340737 | [340737-elon-and-friends-easter-pack.json](./340737-elon-and-friends-easter-pack.json) |
 | Elon and the Divine Proof | 326066 | [326066-elon-and-the-divine-proof.json](./326066-elon-and-the-divine-proof.json) |
 | Elon Musk Simulator 2 | 111886 | [111886-elon-musk-simulator-2.json](./111886-elon-musk-simulator-2.json) |
@@ -3038,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlisted: Type Hei LMG Squad | 332008 | [332008-enlisted-type-hei-lmg-squad.json](./332008-enlisted-type-hei-lmg-squad.json) |
 | Enloyea: Chapter of the Origin of Alchemy | 128274 | [128274-enloyea-chapter-of-the-origin-of-alchemy.json](./128274-enloyea-chapter-of-the-origin-of-alchemy.json) |
 | Enlysia | 44191 | [44191-enlysia.json](./44191-enlysia.json) |
+| Enmazened | 271082 | [271082-enmazened.json](./271082-enmazened.json) |
 | Ennichi Kara Dasshutsu | 283805 | [283805-ennichi-kara-dasshutsu.json](./283805-ennichi-kara-dasshutsu.json) |
 | Ennichi no Tatsujin | 4834 | [4834-ennichi-no-tatsujin.json](./4834-ennichi-no-tatsujin.json) |
 | Ennuigi | 175880 | [175880-ennuigi.json](./175880-ennuigi.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
+| Enter The Night | 271102 | [271102-enter-the-night.json](./271102-enter-the-night.json) |
 | Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
 | Enter the Skinja | 183082 | [183082-enter-the-skinja.json](./183082-enter-the-skinja.json) |
 | Enter the Titan | 284402 | [284402-enter-the-titan.json](./284402-enter-the-titan.json) |
@@ -5762,6 +5765,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expiare | 388920 | [388920-expiare.json](./388920-expiare.json) |
 | Expiate | 202574 | [202574-expiate.json](./202574-expiate.json) |
 | Expiration | 171572 | [171572-expiration.json](./171572-expiration.json) |
+| Expiri: Tenebris | 271085 | [271085-expiri-tenebris.json](./271085-expiri-tenebris.json) |
+| Explaining Every String | 271103 | [271103-explaining-every-string.json](./271103-explaining-every-string.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
 | Explode Bricks | 89530 | [89530-explode-bricks.json](./89530-explode-bricks.json) |
@@ -5966,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
+| Extreme Riding | 271108 | [271108-extreme-riding.json](./271108-extreme-riding.json) |
 | Extreme Riding 2 | 278155 | [278155-extreme-riding-2.json](./278155-extreme-riding-2.json) |
 | Extreme Riverboat Racing | 146733 | [146733-extreme-riverboat-racing.json](./146733-extreme-riverboat-racing.json) |
 | Extreme Roads USA | 16962 | [16962-extreme-roads-usa.json](./16962-extreme-roads-usa.json) |
@@ -6126,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezaron Defense | 120076 | [120076-ezaron-defense.json](./120076-ezaron-defense.json) |
 | Ezerath 3D | 298683 | [298683-ezerath-3d.json](./298683-ezerath-3d.json) |
+| Ezerath Plus | 271100 | [271100-ezerath-plus.json](./271100-ezerath-plus.json) |
 | Ezmeralda | 384265 | [384265-ezmeralda.json](./384265-ezmeralda.json) |
 | Ezmuze 3 | 130073 | [130073-ezmuze-3.json](./130073-ezmuze-3.json) |
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
