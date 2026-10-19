@@ -9269,6 +9269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Haven | 82463 | [82463-sky-haven.json](./82463-sky-haven.json) |
 | Sky Hawk | 93723 | [93723-sky-hawk.json](./93723-sky-hawk.json) |
 | Sky Hex | 261862 | [261862-sky-hex.json](./261862-sky-hex.json) |
+| Sky High Golf | 256137 | [256137-sky-high-golf.json](./256137-sky-high-golf.json) |
 | Sky High Stuntman | 279696 | [279696-sky-high-stuntman.json](./279696-sky-high-stuntman.json) |
 | Sky Hop Saga | 58658 | [58658-sky-hop-saga.json](./58658-sky-hop-saga.json) |
 | Sky Hunter | 75165 | [75165-sky-hunter.json](./75165-sky-hunter.json) |
@@ -14762,6 +14763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space RPG 3 | 99407 | [99407-space-rpg-3.json](./99407-space-rpg-3.json) |
 | Space Run | 202768 | [202768-space-run.json](./202768-space-run.json) |
 | Space Run : Super Car Endless Game 2014 | 106730 | [106730-space-run-super-car-endless-game-2014.json](./106730-space-run-super-car-endless-game-2014.json) |
+| Space Run: Adventure Above Sky | 256131 | [256131-space-run-adventure-above-sky.json](./256131-space-run-adventure-above-sky.json) |
 | Space Run: Fast and Safe Delivery | 7421 | [7421-space-run-fast-and-safe-delivery.json](./7421-space-run-fast-and-safe-delivery.json) |
 | Space Runaway | 236224 | [236224-space-runaway.json](./236224-space-runaway.json) |
 | Space runner | 27903 | [27903-space-runner.json](./27903-space-runner.json) |
