@@ -14847,6 +14847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Dream Setup: Sim Racing | 375594 | [375594-my-dream-setup-sim-racing.json](./375594-my-dream-setup-sim-racing.json) |
 | My Dreams | 280470 | [280470-my-dreams.json](./280470-my-dreams.json) |
 | My Dress-Up | 84331 | [84331-my-dress-up.json](./84331-my-dress-up.json) |
+| My Drug Cartel | 289736 | [289736-my-drug-cartel.json](./289736-my-drug-cartel.json) |
 | My Dystopian Robot Girlfriend | 207769 | [207769-my-dystopian-robot-girlfriend.json](./207769-my-dystopian-robot-girlfriend.json) |
 | My Earth | 258489 | [258489-my-earth.json](./258489-my-earth.json) |
 | My Eerie Lair | 373749 | [373749-my-eerie-lair.json](./373749-my-eerie-lair.json) |
@@ -15411,6 +15412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
 | My Singing Monsters Karaoke: Rare Pack | 414779 | [414779-my-singing-monsters-karaoke-rare-pack.json](./414779-my-singing-monsters-karaoke-rare-pack.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
+| My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
