@@ -8042,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
+| Room Cleaning | 264988 | [264988-room-cleaning.json](./264988-room-cleaning.json) |
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
 | Room Cleaning Simulator 2014 | 178937 | [178937-room-cleaning-simulator-2014.json](./178937-room-cleaning-simulator-2014.json) |
 | Room Containing Candle x4 | 142502 | [142502-room-containing-candle-x4.json](./142502-room-containing-candle-x4.json) |
