@@ -2785,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felinea Tales | 328532 | [328532-felinea-tales.json](./328532-felinea-tales.json) |
 | Felis | 56275 | [56275-felis.json](./56275-felis.json) |
 | Felis: Cat Saving Platformer | 30106 | [30106-felis-cat-saving-platformer.json](./30106-felis-cat-saving-platformer.json) |
+| FelisBelus | 308016 | [308016-felisbelus.json](./308016-felisbelus.json) |
 | Felix in the Factory | 13713 | [13713-felix-in-the-factory.json](./13713-felix-in-the-factory.json) |
 | Felix Jigsaw Puzzle | 200372 | [200372-felix-jigsaw-puzzle.json](./200372-felix-jigsaw-puzzle.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
@@ -4933,6 +4934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
+| Fishlike | 308042 | [308042-fishlike.json](./308042-fishlike.json) |
 | Fishman | 370286 | [370286-fishman.json](./370286-fishman.json) |
 | Fishman's Last Stand | 264601 | [264601-fishmans-last-stand.json](./264601-fishmans-last-stand.json) |
 | Fishmonger | 185539 | [185539-fishmonger.json](./185539-fishmonger.json) |
