@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
+| Pease | 289750 | [289750-pease.json](./289750-pease.json) |
 | Pebble | 188610 | [188610-pebble.json](./188610-pebble.json) |
 | Pebble Beach Golf Links | 4273 | [4273-pebble-beach-golf-links.json](./4273-pebble-beach-golf-links.json) |
 | Pebble End | 187772 | [187772-pebble-end.json](./187772-pebble-end.json) |
@@ -5495,6 +5496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippa of Caerbannog | 412408 | [412408-pippa-of-caerbannog.json](./412408-pippa-of-caerbannog.json) |
 | Pippi | 282509 | [282509-pippi.json](./282509-pippi.json) |
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
+| Pippin Atmark Demonstration Disk | 289751 | [289751-pippin-atmark-demonstration-disk.json](./289751-pippin-atmark-demonstration-disk.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
@@ -9863,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Lords: Quest for Volcan | 40924 | [40924-power-lords-quest-for-volcan.json](./40924-power-lords-quest-for-volcan.json) |
 | Power Meter | 341464 | [341464-power-meter.json](./341464-power-meter.json) |
 | Power Move Pro Wrestling | 44763 | [44763-power-move-pro-wrestling.json](./44763-power-move-pro-wrestling.json) |
+| Power Nazoler | 289752 | [289752-power-nazoler.json](./289752-power-nazoler.json) |
 | Power Network Tycoon | 258523 | [258523-power-network-tycoon.json](./258523-power-network-tycoon.json) |
 | Power of Logic | 90397 | [90397-power-of-logic.json](./90397-power-of-logic.json) |
 | Power of Love | 35287 | [35287-power-of-love.json](./35287-power-of-love.json) |
