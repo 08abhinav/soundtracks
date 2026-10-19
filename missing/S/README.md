@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Girl:Fog I | 137981 | [137981-seek-girl-fog-i.json](./137981-seek-girl-fog-i.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek Not a Lighthouse | 75654 | [75654-seek-not-a-lighthouse.json](./75654-seek-not-a-lighthouse.json) |
+| Seek the Discrepancy | 268337 | [268337-seek-the-discrepancy.json](./268337-seek-the-discrepancy.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
@@ -5806,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
+| Shell's Retriever | 268352 | [268352-shells-retriever.json](./268352-shells-retriever.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
 | Shellborne | 361597 | [361597-shellborne.json](./361597-shellborne.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
+| Ship Wreck | 268334 | [268334-ship-wreck.json](./268334-ship-wreck.json) |
 | Ship's Cat | 292392 | [292392-ships-cat.json](./292392-ships-cat.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
@@ -6463,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shíqǔ Bǎoshí Hòu Yìwài Juéxǐngle Fùzhì Mówáng Lìliàng de Nì Tiān Jìnéng | 396491 | [396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json](./396491-shiqu-baoshi-hou-yiwai-juexingle-fuzhi-mowang-liliang-de-ni-tian-jineng.json) |
 | Shirachuu Tankenbu | 65020 | [65020-shirachuu-tankenbu.json](./65020-shirachuu-tankenbu.json) |
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
+| Shiraha Kirameku Koi Shirabe | 268335 | [268335-shiraha-kirameku-koi-shirabe.json](./268335-shiraha-kirameku-koi-shirabe.json) |
 | Shirahana no Ori - Hiiro no Kakera 4 | 139109 | [139109-shirahana-no-ori-hiiro-no-kakera-4.json](./139109-shirahana-no-ori-hiiro-no-kakera-4.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
@@ -21857,6 +21861,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suho Defense | 339650 | [339650-suho-defense.json](./339650-suho-defense.json) |
 | Suhoshin | 169679 | [169679-suhoshin.json](./169679-suhoshin.json) |
 | Sui Generis | 14175 | [14175-sui-generis.json](./14175-sui-generis.json) |
+| Sui Mario | 268353 | [268353-sui-mario.json](./268353-sui-mario.json) |
+| Sui Mario 2 | 268354 | [268354-sui-mario-2.json](./268354-sui-mario-2.json) |
 | SuiCats | 272583 | [272583-suicats.json](./272583-suicats.json) |
 | Suichara: Sweets Chara Mode - Sweets Gakkou he Youkoso! | 222401 | [222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json](./222401-suichara-sweets-chara-mode-sweets-gakkou-he-youkoso.json) |
 | Suicide Adventures | 61613 | [61613-suicide-adventures.json](./61613-suicide-adventures.json) |
@@ -22481,6 +22487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
 | Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
+| Super Baldy Kart | 268355 | [268355-super-baldy-kart.json](./268355-super-baldy-kart.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
 | Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
@@ -23219,7 +23226,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
 | Super Lotsa Added Stuff Hack | 19777 | [19777-super-lotsa-added-stuff-hack.json](./19777-super-lotsa-added-stuff-hack.json) |
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
+| Super LSG World | 268356 | [268356-super-lsg-world.json](./268356-super-lsg-world.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
+| Super Lueshi World | 268357 | [268357-super-lueshi-world.json](./268357-super-lueshi-world.json) |
 | Super Luigi and the Golden Shrooms | 135128 | [135128-super-luigi-and-the-golden-shrooms.json](./135128-super-luigi-and-the-golden-shrooms.json) |
 | Super Luigi Bros. | 198471 | [198471-super-luigi-bros.json](./198471-super-luigi-bros.json) |
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
@@ -23234,6 +23243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
 | Super Lunch-Out 2 Turbo | 371530 | [371530-super-lunch-out-2-turbo.json](./371530-super-lunch-out-2-turbo.json) |
 | Super Mabus Mania | 223160 | [223160-super-mabus-mania.json](./223160-super-mabus-mania.json) |
+| Super Machok World | 268358 | [268358-super-machok-world.json](./268358-super-machok-world.json) |
 | Super Macklemore 64 | 418798 | [418798-super-macklemore-64.json](./418798-super-macklemore-64.json) |
 | Super Mado Paf!! | 229655 | [229655-super-mado-paf.json](./229655-super-mado-paf.json) |
 | Super Mafia Land | 294559 | [294559-super-mafia-land.json](./294559-super-mafia-land.json) |
@@ -23377,6 +23387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario and the Monstrous Manor | 280824 | [280824-super-mario-and-the-monstrous-manor.json](./280824-super-mario-and-the-monstrous-manor.json) |
 | Super Mario and the Sacred Bells | 135131 | [135131-super-mario-and-the-sacred-bells.json](./135131-super-mario-and-the-sacred-bells.json) |
 | Super Mario and the Space Base | 356293 | [356293-super-mario-and-the-space-base.json](./356293-super-mario-and-the-space-base.json) |
+| Super Mario Another Retro | 268359 | [268359-super-mario-another-retro.json](./268359-super-mario-another-retro.json) |
 | Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
 | Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
 | Super Mario Attack | 230172 | [230172-super-mario-attack.json](./230172-super-mario-attack.json) |
@@ -23418,6 +23429,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 3 Advance | 322002 | [322002-super-mario-bros-3-advance.json](./322002-super-mario-bros-3-advance.json) |
 | Super Mario Bros. 3 Alpha | 263935 | [263935-super-mario-bros-3-alpha.json](./263935-super-mario-bros-3-alpha.json) |
 | Super Mario Bros. 3 Game Watch | 172539 | [172539-super-mario-bros-3-game-watch.json](./172539-super-mario-bros-3-game-watch.json) |
+| Super Mario Bros. 3 X | 268361 | [268361-super-mario-bros-3-x.json](./268361-super-mario-bros-3-x.json) |
+| Super Mario Bros. 3: Golden | 268360 | [268360-super-mario-bros-3-golden.json](./268360-super-mario-bros-3-golden.json) |
 | Super Mario Bros. 3: The Lost Levels | 239902 | [239902-super-mario-bros-3-the-lost-levels.json](./239902-super-mario-bros-3-the-lost-levels.json) |
 | Super Mario Bros. 3: Xmas Edition | 290333 | [290333-super-mario-bros-3-xmas-edition.json](./290333-super-mario-bros-3-xmas-edition.json) |
 | Super Mario Bros. 3+ | 227896 | [227896-super-mario-bros-3.json](./227896-super-mario-bros-3.json) |
@@ -26519,6 +26532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
+| Synergia: NextGen Edition | 268330 | [268330-synergia-nextgen-edition.json](./268330-synergia-nextgen-edition.json) |
 | Synergia: Sunrise | 253393 | [253393-synergia-sunrise.json](./253393-synergia-sunrise.json) |
 | Synergism | 150569 | [150569-synergism.json](./150569-synergism.json) |
 | Synergy | 18818 | [18818-synergy.json](./18818-synergy.json) |
