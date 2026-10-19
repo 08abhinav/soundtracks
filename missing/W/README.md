@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wabash Cannonball | 175415 | [175415-wabash-cannonball.json](./175415-wabash-cannonball.json) |
 | Wabisabi | 127786 | [127786-wabisabi.json](./127786-wabisabi.json) |
 | Wacca Lily R | 154811 | [154811-wacca-lily-r.json](./154811-wacca-lily-r.json) |
+| Waccha PriMagi! Studio | 276064 | [276064-waccha-primagi-studio.json](./276064-waccha-primagi-studio.json) |
 | Wachenröder | 93007 | [93007-wachenroder.json](./93007-wachenroder.json) |
 | Wack Track Pack | 358318 | [358318-wack-track-pack.json](./358318-wack-track-pack.json) |
 | Wacki: Kosmiczna Rozgrywka | 81666 | [81666-wacki-kosmiczna-rozgrywka.json](./81666-wacki-kosmiczna-rozgrywka.json) |
