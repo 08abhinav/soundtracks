@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Front II | 84257 | [84257-east-front-ii.json](./84257-east-front-ii.json) |
 | East India Company | 2013 | [2013-east-india-company.json](./2013-east-india-company.json) |
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
+| East Scarp | 299612 | [299612-east-scarp.json](./299612-east-scarp.json) |
 | East Trade Tycoon | 214113 | [214113-east-trade-tycoon.json](./214113-east-trade-tycoon.json) |
 | East Trade Tycoon: Inheritance | 320577 | [320577-east-trade-tycoon-inheritance.json](./320577-east-trade-tycoon-inheritance.json) |
 | East Trapper | 189032 | [189032-east-trapper.json](./189032-east-trapper.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Game: Episode 1 | 170807 | [170807-escape-the-game-episode-1.json](./170807-escape-the-game-episode-1.json) |
 | Escape The Garage | 322275 | [322275-escape-the-garage.json](./322275-escape-the-garage.json) |
 | Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
+| Escape the Glitch 2: Backrooms | 299517 | [299517-escape-the-glitch-2-backrooms.json](./299517-escape-the-glitch-2-backrooms.json) |
 | Escape the Glubinka | 271112 | [271112-escape-the-glubinka.json](./271112-escape-the-glubinka.json) |
 | Escape the Gray | 38791 | [38791-escape-the-gray.json](./38791-escape-the-gray.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
