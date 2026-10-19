@@ -4271,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
 | Chaos Hero | 373821 | [373821-chaos-hero.json](./373821-chaos-hero.json) |
 | Chaos Heroes | 25521 | [25521-chaos-heroes.json](./25521-chaos-heroes.json) |
+| Chaos Heroes Online | 286427 | [286427-chaos-heroes-online.json](./286427-chaos-heroes-online.json) |
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
@@ -14588,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Romance City 3D3 | 403817 | [403817-custom-romance-city-3d3.json](./403817-custom-romance-city-3d3.json) |
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | CustomBullet | 219747 | [219747-custombullet.json](./219747-custombullet.json) |
+| Customer Cums First! | 286398 | [286398-customer-cums-first.json](./286398-customer-cums-first.json) |
 | Customer Disservice | 296715 | [296715-customer-disservice.json](./296715-customer-disservice.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
