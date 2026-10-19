@@ -1095,12 +1095,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou | 272827 | [272827-a-ressha-de-ikou.json](./272827-a-ressha-de-ikou.json) |
 | A-Ressha de Ikou 4 | 98268 | [98268-a-ressha-de-ikou-4.json](./98268-a-ressha-de-ikou-4.json) |
 | A-Ressha de Ikou DS | 98272 | [98272-a-ressha-de-ikou-ds.json](./98272-a-ressha-de-ikou-ds.json) |
+| A-Ressha de Ikou EZ | 272682 | [272682-a-ressha-de-ikou-ez.json](./272682-a-ressha-de-ikou-ez.json) |
+| A-Ressha de Ikou i | 272681 | [272681-a-ressha-de-ikou-i.json](./272681-a-ressha-de-ikou-i.json) |
 | A-Ressha de Ikou II | 284850 | [284850-a-ressha-de-ikou-ii.json](./284850-a-ressha-de-ikou-ii.json) |
 | A-Ressha de Ikou II | 284851 | [284851-a-ressha-de-ikou-ii.json](./284851-a-ressha-de-ikou-ii.json) |
 | A-Ressha de Ikou II: 5th Anniversary Special Limited Edition | 285135 | [285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json](./285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json) |
 | A-Ressha de Ikou II: Shin Map | 285133 | [285133-a-ressha-de-ikou-ii-shin-map.json](./285133-a-ressha-de-ikou-ii-shin-map.json) |
 | A-Ressha de Ikou III | 285141 | [285141-a-ressha-de-ikou-iii.json](./285141-a-ressha-de-ikou-iii.json) |
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
+| A-Ressha de Ikou: The 21st Century - Perfect Set | 272679 | [272679-a-ressha-de-ikou-the-21st-century-perfect-set.json](./272679-a-ressha-de-ikou-the-21st-century-perfect-set.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
@@ -1113,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 V4.0: Japan Rail Simulator - Mega Japan Train Pack | 171908 | [171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json](./171908-a-train-9-v4-0-japan-rail-simulator-mega-japan-train-pack.json) |
 | A-Train 9 V5.0 : Japan Train Simulator Ultimate Edition | 378606 | [378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json](./378606-a-train-9-v5-0-japan-train-simulator-ultimate-edition.json) |
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
+| A-Train 9 Version 5.0: Final | 272683 | [272683-a-train-9-version-5-0-final.json](./272683-a-train-9-version-5-0-final.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
 | A-Train HX | 21467 | [21467-a-train-hx.json](./21467-a-train-hx.json) |
@@ -7602,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: Complete Edition Year 4 | 197663 | [197663-anno-1800-complete-edition-year-4.json](./197663-anno-1800-complete-edition-year-4.json) |
 | Anno 1800: Console Edition | 231778 | [231778-anno-1800-console-edition.json](./231778-anno-1800-console-edition.json) |
 | Anno 1800: Cosmetic Pack Bundle | 227937 | [227937-anno-1800-cosmetic-pack-bundle.json](./227937-anno-1800-cosmetic-pack-bundle.json) |
+| Anno 1800: Definitive Annoversary Edition | 272687 | [272687-anno-1800-definitive-annoversary-edition.json](./272687-anno-1800-definitive-annoversary-edition.json) |
 | Anno 1800: Deluxe Edition | 117155 | [117155-anno-1800-deluxe-edition.json](./117155-anno-1800-deluxe-edition.json) |
 | Anno 1800: Deluxe Pack | 151258 | [151258-anno-1800-deluxe-pack.json](./151258-anno-1800-deluxe-pack.json) |
 | Anno 1800: Docklands | 151113 | [151113-anno-1800-docklands.json](./151113-anno-1800-docklands.json) |
