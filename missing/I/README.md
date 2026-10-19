@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ichigo 100%: Strawberry Diary | 77404 | [77404-ichigo-100-strawberry-diary.json](./77404-ichigo-100-strawberry-diary.json) |
 | Ichigo Mashimaro | 72557 | [72557-ichigo-mashimaro.json](./72557-ichigo-mashimaro.json) |
 | Ichigo's Study Sessions | 361345 | [361345-ichigos-study-sessions.json](./361345-ichigos-study-sessions.json) |
+| Ichigokuruiza | 281247 | [281247-ichigokuruiza.json](./281247-ichigokuruiza.json) |
 | Ichika-chan Kanippatsu | 401169 | [401169-ichika-chan-kanippatsu.json](./401169-ichika-chan-kanippatsu.json) |
 | Ichikoi | 412544 | [412544-ichikoi.json](./412544-ichikoi.json) |
 | Ichima-san | 258631 | [258631-ichima-san.json](./258631-ichima-san.json) |
@@ -3413,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnia: Chapter One | 374258 | [374258-insomnia-chapter-one.json](./374258-insomnia-chapter-one.json) |
 | Insomnia: Theater in the Head | 216657 | [216657-insomnia-theater-in-the-head.json](./216657-insomnia-theater-in-the-head.json) |
 | Insomnis | 113861 | [113861-insomnis.json](./113861-insomnis.json) |
+| Insomnis Experiment | 281238 | [281238-insomnis-experiment.json](./281238-insomnis-experiment.json) |
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
 | Inspector | 123958 | [123958-inspector.json](./123958-inspector.json) |
@@ -4445,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
 | Isabelle | 112337 | [112337-isabelle.json](./112337-isabelle.json) |
+| Isabelle | 281292 | [281292-isabelle.json](./281292-isabelle.json) |
 | Isabelle 64 | 135266 | [135266-isabelle-64.json](./135266-isabelle-64.json) |
 | Isadora's Edge | 329969 | [329969-isadoras-edge.json](./329969-isadoras-edge.json) |
 | Isagi's Bartending Diary | 405634 | [405634-isagis-bartending-diary.json](./405634-isagis-bartending-diary.json) |
