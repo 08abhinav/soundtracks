@@ -9824,6 +9824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
+| Power Fantasy: Kaze the Samurai | 293498 | [293498-power-fantasy-kaze-the-samurai.json](./293498-power-fantasy-kaze-the-samurai.json) |
 | Power Fantasy: Krampus Night | 279535 | [279535-power-fantasy-krampus-night.json](./279535-power-fantasy-krampus-night.json) |
 | Power Fighters | 79832 | [79832-power-fighters.json](./79832-power-fighters.json) |
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
@@ -10958,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Birder | 414185 | [414185-pro-birder.json](./414185-pro-birder.json) |
 | Pro Bowling | 385781 | [385781-pro-bowling.json](./385781-pro-bowling.json) |
 | Pro Boxing Simulator | 12723 | [12723-pro-boxing-simulator.json](./12723-pro-boxing-simulator.json) |
+| Pro Bus Driver 2 | 293482 | [293482-pro-bus-driver-2.json](./293482-pro-bus-driver-2.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
