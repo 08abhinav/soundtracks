@@ -4302,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Resurrection | 284263 | [284263-resurrection.json](./284263-resurrection.json) |
 | Resurrection | 94924 | [94924-resurrection.json](./94924-resurrection.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
 | Resurrection Island: Love and Victory | 265570 | [265570-resurrection-island-love-and-victory.json](./265570-resurrection-island-love-and-victory.json) |
@@ -4977,6 +4978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
 | Rhapsody: A Musical Adventure | 315651 | [315651-rhapsody-a-musical-adventure.json](./315651-rhapsody-a-musical-adventure.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
+| Rhapsody: Marl Kingdom Chronicles – Limited Edition | 284208 | [284208-rhapsody-marl-kingdom-chronicles-limited-edition.json](./284208-rhapsody-marl-kingdom-chronicles-limited-edition.json) |
 | Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
@@ -8813,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of the Unforgotten Souls | 299846 | [299846-ruins-of-the-unforgotten-souls.json](./299846-ruins-of-the-unforgotten-souls.json) |
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
+| Ruins: The Gate of Rebirth | 284256 | [284256-ruins-the-gate-of-rebirth.json](./284256-ruins-the-gate-of-rebirth.json) |
 | Ruinscape | 369134 | [369134-ruinscape.json](./369134-ruinscape.json) |
 | RuinsCity_VR | 30930 | [30930-ruinscity-vr.json](./30930-ruinscity-vr.json) |
 | Ruinsmagus: Complete | 265713 | [265713-ruinsmagus-complete.json](./265713-ruinsmagus-complete.json) |
