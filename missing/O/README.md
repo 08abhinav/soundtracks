@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
+| OhShape Ultimate | 299488 | [299488-ohshape-ultimate.json](./299488-ohshape-ultimate.json) |
 | OHV | 216978 | [216978-ohv.json](./216978-ohv.json) |
 | Oi, Innkeep! | 96121 | [96121-oi-innkeep.json](./96121-oi-innkeep.json) |
 | Oi, Innkeep! - Chronicles! | 115567 | [115567-oi-innkeep-chronicles.json](./115567-oi-innkeep-chronicles.json) |
