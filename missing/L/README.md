@@ -2583,6 +2583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lep's World Plus - super best platformer games | 90375 | [90375-leps-world-plus-super-best-platformer-games.json](./90375-leps-world-plus-super-best-platformer-games.json) |
 | Lep's World Run | 344899 | [344899-leps-world-run.json](./344899-leps-world-run.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
+| Lepistus | 268918 | [268918-lepistus.json](./268918-lepistus.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
 | Leprechaun | 229828 | [229828-leprechaun.json](./229828-leprechaun.json) |
 | Leprechaun | 23511 | [23511-leprechaun.json](./23511-leprechaun.json) |
@@ -3899,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lims | 226166 | [226166-lims.json](./226166-lims.json) |
 | Limscape | 322097 | [322097-limscape.json](./322097-limscape.json) |
 | Limsod | 177308 | [177308-limsod.json](./177308-limsod.json) |
+| Lin Zexu: No Smoking | 268892 | [268892-lin-zexu-no-smoking.json](./268892-lin-zexu-no-smoking.json) |
 | Lina: Witches of the Moon | 411578 | [411578-lina-witches-of-the-moon.json](./411578-lina-witches-of-the-moon.json) |
 | Linch | 80978 | [80978-linch.json](./80978-linch.json) |
 | Lincity | 46721 | [46721-lincity.json](./46721-lincity.json) |
@@ -6093,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lost Lost | 330507 | [330507-lost-lost-lost.json](./330507-lost-lost-lost.json) |
 | Lost Love Island | 278148 | [278148-lost-love-island.json](./278148-lost-love-island.json) |
 | Lost Luggage | 18501 | [18501-lost-luggage.json](./18501-lost-luggage.json) |
+| Lost Luxury | 268896 | [268896-lost-luxury.json](./268896-lost-luxury.json) |
 | Lost Manor | 302190 | [302190-lost-manor.json](./302190-lost-manor.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
