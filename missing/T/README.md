@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telealiens | 333183 | [333183-telealiens.json](./333183-telealiens.json) |
 | Teleball | 201016 | [201016-teleball.json](./201016-teleball.json) |
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
+| Telebradesco Residência | 298360 | [298360-telebradesco-residencia.json](./298360-telebradesco-residencia.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
 | Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
@@ -10282,6 +10283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mountaineer | 262440 | [262440-the-mountaineer.json](./262440-the-mountaineer.json) |
 | The Mountaineers | 244713 | [244713-the-mountaineers.json](./244713-the-mountaineers.json) |
 | The Mourne's | 207338 | [207338-the-mournes.json](./207338-the-mournes.json) |
+| The Mournmore Killings | 298459 | [298459-the-mournmore-killings.json](./298459-the-mournmore-killings.json) |
 | The Mouse | 57482 | [57482-the-mouse.json](./57482-the-mouse.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
 | The Mouse and the Cheese | 166832 | [166832-the-mouse-and-the-cheese.json](./166832-the-mouse-and-the-cheese.json) |
@@ -11125,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
 | The PTSD Mod 2 | 312623 | [312623-the-ptsd-mod-2.json](./312623-the-ptsd-mod-2.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
+| The Public Domain: The Game | 298356 | [298356-the-public-domain-the-game.json](./298356-the-public-domain-the-game.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
 | The Pulse of Evil | 252261 | [252261-the-pulse-of-evil.json](./252261-the-pulse-of-evil.json) |
 | The Punch Drunk Monk | 321234 | [321234-the-punch-drunk-monk.json](./321234-the-punch-drunk-monk.json) |
@@ -11355,6 +11358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
+| The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
@@ -22829,6 +22833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
 | Trojan | 270316 | [270316-trojan.json](./270316-trojan.json) |
 | Trojan | 287583 | [287583-trojan.json](./287583-trojan.json) |
+| Trojan | 298372 | [298372-trojan.json](./298372-trojan.json) |
 | Trojan | 39993 | [39993-trojan.json](./39993-trojan.json) |
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
