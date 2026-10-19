@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
+| Babylon Tower | 309172 | [309172-babylon-tower.json](./309172-babylon-tower.json) |
 | Babylon X | 307136 | [307136-babylon-x.json](./307136-babylon-x.json) |
 | Babylonia | 120695 | [120695-babylonia.json](./120695-babylonia.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bighorn Ramone | 422134 | [422134-bighorn-ramone.json](./422134-bighorn-ramone.json) |
 | Biglands: A Game Made By Kids | 17710 | [17710-biglands-a-game-made-by-kids.json](./17710-biglands-a-game-made-by-kids.json) |
+| BigMcGee | 309202 | [309202-bigmcgee.json](./309202-bigmcgee.json) |
 | Bigroom Escape | 151727 | [151727-bigroom-escape.json](./151727-bigroom-escape.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
@@ -7995,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood for Poppies | 165531 | [165531-blood-for-poppies.json](./165531-blood-for-poppies.json) |
 | Blood for the Queen | 383070 | [383070-blood-for-the-queen.json](./383070-blood-for-the-queen.json) |
 | Blood for the Throne | 370202 | [370202-blood-for-the-throne.json](./370202-blood-for-the-throne.json) |
+| Blood Foundry | 309205 | [309205-blood-foundry.json](./309205-blood-foundry.json) |
 | Blood Gazm | 248672 | [248672-blood-gazm.json](./248672-blood-gazm.json) |
 | Blood Gear | 42020 | [42020-blood-gear.json](./42020-blood-gear.json) |
 | Blood girl | 177854 | [177854-blood-girl.json](./177854-blood-girl.json) |
