@@ -9778,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormant World | 55802 | [55802-dormant-world.json](./55802-dormant-world.json) |
 | Dormant: Episode Galatea #1 | 166807 | [166807-dormant-episode-galatea-1.json](./166807-dormant-episode-galatea-1.json) |
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
+| Dormitabis Remastered | 281298 | [281298-dormitabis-remastered.json](./281298-dormitabis-remastered.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
 | Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
 | Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
@@ -11271,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw a Stickman: Epic | 5032 | [5032-draw-a-stickman-epic.json](./5032-draw-a-stickman-epic.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
+| Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
 | Draw and Color: Kawaii - Complete Edition | 242047 | [242047-draw-and-color-kawaii-complete-edition.json](./242047-draw-and-color-kawaii-complete-edition.json) |
 | Draw and Color: Kawaii - Deluxe Edition | 237851 | [237851-draw-and-color-kawaii-deluxe-edition.json](./237851-draw-and-color-kawaii-deluxe-edition.json) |
