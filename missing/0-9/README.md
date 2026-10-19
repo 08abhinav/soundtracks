@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Wooden Figures | 358059 | [358059-123-wooden-figures.json](./358059-123-wooden-figures.json) |
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
+| 124 Handle of the World | 309169 | [309169-124-handle-of-the-world.json](./309169-124-handle-of-the-world.json) |
 | 125 Monkey Games | 203204 | [203204-125-monkey-games.json](./203204-125-monkey-games.json) |
 | 128 Linedefs, 64 Things | 260890 | [260890-128-linedefs-64-things.json](./260890-128-linedefs-64-things.json) |
 | 12am | 212754 | [212754-12am.json](./212754-12am.json) |
@@ -2470,6 +2471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Arrows | 67204 | [67204-99-arrows.json](./67204-99-arrows.json) |
 | 99 Bottles of Beer | 249256 | [249256-99-bottles-of-beer.json](./249256-99-bottles-of-beer.json) |
 | 99 Bricks | 252618 | [252618-99-bricks.json](./252618-99-bricks.json) |
+| 99 brushes or less | 309200 | [309200-99-brushes-or-less.json](./309200-99-brushes-or-less.json) |
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 Fails | 239125 | [239125-99-fails.json](./239125-99-fails.json) |
