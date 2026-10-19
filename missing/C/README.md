@@ -8311,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Scream | 172027 | [172027-cold-scream.json](./172027-cold-scream.json) |
 | Cold Shell | 118150 | [118150-cold-shell.json](./118150-cold-shell.json) |
 | Cold Shift | 302481 | [302481-cold-shift.json](./302481-cold-shift.json) |
+| Cold Shuulathoi | 308067 | [308067-cold-shuulathoi.json](./308067-cold-shuulathoi.json) |
 | Cold Snap | 401621 | [401621-cold-snap.json](./401621-cold-snap.json) |
 | Cold Space | 54826 | [54826-cold-space.json](./54826-cold-space.json) |
 | Cold Steel | 314630 | [314630-cold-steel.json](./314630-cold-steel.json) |
@@ -12258,6 +12259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creative Runner | 142870 | [142870-creative-runner.json](./142870-creative-runner.json) |
 | CreativeBuild | 131422 | [131422-creativebuild.json](./131422-creativebuild.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
+| Creator | 308047 | [308047-creator.json](./308047-creator.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
