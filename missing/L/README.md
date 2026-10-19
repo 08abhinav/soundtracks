@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
+| Labyrinthum | 261646 | [261646-labyrinthum.json](./261646-labyrinthum.json) |
 | Labyrinthus: Episode 1 | 168697 | [168697-labyrinthus-episode-1.json](./168697-labyrinthus-episode-1.json) |
 | Labyris | 363149 | [363149-labyris.json](./363149-labyris.json) |
 | Labyrneath | 111055 | [111055-labyrneath.json](./111055-labyrneath.json) |
@@ -3934,6 +3935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
+| Line Link | 261653 | [261653-line-link.json](./261653-line-link.json) |
 | Line Loops: Logic Puzzles | 115506 | [115506-line-loops-logic-puzzles.json](./115506-line-loops-logic-puzzles.json) |
 | Line Monster: Escape Dark | 252931 | [252931-line-monster-escape-dark.json](./252931-line-monster-escape-dark.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
