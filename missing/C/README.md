@@ -2805,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
+| Cat City | 265475 | [265475-cat-city.json](./265475-cat-city.json) |
 | Cat Clean Ocean | 320916 | [320916-cat-clean-ocean.json](./320916-cat-clean-ocean.json) |
 | Cat Clicker | 190014 | [190014-cat-clicker.json](./190014-cat-clicker.json) |
 | Cat Clicker | 337840 | [337840-cat-clicker.json](./337840-cat-clicker.json) |
@@ -3901,6 +3902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centurion: Defender of Rome | 8257 | [8257-centurion-defender-of-rome.json](./8257-centurion-defender-of-rome.json) |
 | Century 0: Parasitic Tower | 216798 | [216798-century-0-parasitic-tower.json](./216798-century-0-parasitic-tower.json) |
 | Century City | 243743 | [243743-century-city.json](./243743-century-city.json) |
+| Century of Anticipation | 265481 | [265481-century-of-anticipation.json](./265481-century-of-anticipation.json) |
 | Century of Steam | 260250 | [260250-century-of-steam.json](./260250-century-of-steam.json) |
 | Century: Age of Ashes | 141536 | [141536-century-age-of-ashes.json](./141536-century-age-of-ashes.json) |
 | Century: Age of Ashes - Bloodshed Edition | 202760 | [202760-century-age-of-ashes-bloodshed-edition.json](./202760-century-age-of-ashes-bloodshed-edition.json) |
@@ -11206,6 +11208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
+| Cosmos Cat | 265486 | [265486-cosmos-cat.json](./265486-cosmos-cat.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
 | Cosmos Conquer | 188451 | [188451-cosmos-conquer.json](./188451-cosmos-conquer.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
@@ -12528,6 +12531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Creation Station | 343280 | [343280-creature-creation-station.json](./343280-creature-creation-station.json) |
 | Creature Crunch | 7731 | [7731-creature-crunch.json](./7731-creature-crunch.json) |
 | Creature Discomfort | 229799 | [229799-creature-discomfort.json](./229799-creature-discomfort.json) |
+| Creature Evolution Simulator | 265470 | [265470-creature-evolution-simulator.json](./265470-creature-evolution-simulator.json) |
 | Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
@@ -14822,6 +14826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
 | Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
+| Cute Farmer Life | 265498 | [265498-cute-farmer-life.json](./265498-cute-farmer-life.json) |
 | Cute Fight | 219748 | [219748-cute-fight.json](./219748-cute-fight.json) |
 | Cute Fighter | 201168 | [201168-cute-fighter.json](./201168-cute-fighter.json) |
 | Cute Finders | 381700 | [381700-cute-finders.json](./381700-cute-finders.json) |
