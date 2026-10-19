@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto to Boruto: Shinobi Striker - Ultimate Edition | 255258 | [255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json](./255258-naruto-to-boruto-shinobi-striker-ultimate-edition.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 1 | 284509 | [284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json](./284509-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-1.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 2 | 294250 | [294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json](./294250-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-2.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 3 | 303876 | [303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json](./303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Collector's Edition | 270578 | [270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json](./270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json) |
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
@@ -2789,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | Nghtmn | 28640 | [28640-nghtmn.json](./28640-nghtmn.json) |
 | Ngolf | 283259 | [283259-ngolf.json](./283259-ngolf.json) |
+| Ngolf: Colorful Golf Balls 1 | 303875 | [303875-ngolf-colorful-golf-balls-1.json](./303875-ngolf-colorful-golf-balls-1.json) |
 | Ngolf: Colorful Golf Balls 2 | 300953 | [300953-ngolf-colorful-golf-balls-2.json](./300953-ngolf-colorful-golf-balls-2.json) |
 | Ngolf: Colorful Golf Balls 3 | 300954 | [300954-ngolf-colorful-golf-balls-3.json](./300954-ngolf-colorful-golf-balls-3.json) |
 | Ngolf: Colorful Golf Balls 4 | 300955 | [300955-ngolf-colorful-golf-balls-4.json](./300955-ngolf-colorful-golf-balls-4.json) |
