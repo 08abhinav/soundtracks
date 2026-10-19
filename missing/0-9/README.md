@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20.8 Percent | 58476 | [58476-20-8-percent.json](./58476-20-8-percent.json) |
 | 200 Hidden House Cats | 308939 | [308939-200-hidden-house-cats.json](./308939-200-hidden-house-cats.json) |
 | 200 Klassische Bucher | 269539 | [269539-200-klassische-bucher.json](./269539-200-klassische-bucher.json) |
+| 200 Line Massacre: The Slaughtering | 273262 | [273262-200-line-massacre-the-slaughtering.json](./273262-200-line-massacre-the-slaughtering.json) |
 | 200% Mixed Juice! | 14048 | [14048-200-mixed-juice.json](./14048-200-mixed-juice.json) |
 | 2000:1 - A Space Felony: Or How I Came to Value My Life and Murder Mercilessly | 69515 | [69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json](./69515-2000-1-a-space-felony-or-how-i-came-to-value-my-life-and-murder-mercilessly.json) |
 | 20000 Atmospheres | 44084 | [44084-20000-atmospheres.json](./44084-20000-atmospheres.json) |
@@ -1569,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 300 Spartans | 351773 | [351773-300-spartans.json](./351773-300-spartans.json) |
 | 300: March to Glory | 23086 | [23086-300-march-to-glory.json](./23086-300-march-to-glory.json) |
 | 300: Seize Your Glory | 118756 | [118756-300-seize-your-glory.json](./118756-300-seize-your-glory.json) |
+| 3000 | 273260 | [273260-3000.json](./273260-3000.json) |
 | 3000m to Whatever’s up There | 373133 | [373133-3000m-to-whatever-s-up-there.json](./373133-3000m-to-whatever-s-up-there.json) |
 | 3000th Duel | 122027 | [122027-3000th-duel.json](./122027-3000th-duel.json) |
 | 3000th Duel: The Wise Ones | 174161 | [174161-3000th-duel-the-wise-ones.json](./174161-3000th-duel-the-wise-ones.json) |
