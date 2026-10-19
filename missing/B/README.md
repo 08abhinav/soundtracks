@@ -9887,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
 | Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
+| Bosstack | 296725 | [296725-bosstack.json](./296725-bosstack.json) |
 | Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
