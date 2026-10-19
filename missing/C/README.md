@@ -3281,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats n Wires | 177476 | [177476-cats-n-wires.json](./177476-cats-n-wires.json) |
 | Cats of the Qing Dynasty | 292435 | [292435-cats-of-the-qing-dynasty.json](./292435-cats-of-the-qing-dynasty.json) |
 | Cats of the Song Dynasty | 315299 | [315299-cats-of-the-song-dynasty.json](./315299-cats-of-the-song-dynasty.json) |
+| Cats of the Tang Dynasty | 302819 | [302819-cats-of-the-tang-dynasty.json](./302819-cats-of-the-tang-dynasty.json) |
 | Cats on Duty | 257903 | [257903-cats-on-duty.json](./257903-cats-on-duty.json) |
 | Cats on Mars | 178884 | [178884-cats-on-mars.json](./178884-cats-on-mars.json) |
 | Cats on Streets | 275033 | [275033-cats-on-streets.json](./275033-cats-on-streets.json) |
@@ -4751,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 247071 | [247071-chess.json](./247071-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
 | Chess | 277419 | [277419-chess.json](./277419-chess.json) |
+| Chess | 302809 | [302809-chess.json](./302809-chess.json) |
 | Chess | 9165 | [9165-chess.json](./9165-chess.json) |
 | Chess - tactics and strategy | 91100 | [91100-chess-tactics-and-strategy.json](./91100-chess-tactics-and-strategy.json) |
 | Chess - tChess Pro | 104610 | [104610-chess-tchess-pro.json](./104610-chess-tchess-pro.json) |
@@ -7356,6 +7358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clickoin | 337434 | [337434-clickoin.json](./337434-clickoin.json) |
 | Clickomania! | 64437 | [64437-clickomania.json](./64437-clickomania.json) |
 | Clickonomy | 345621 | [345621-clickonomy.json](./345621-clickonomy.json) |
+| Clickout | 302813 | [302813-clickout.json](./302813-clickout.json) |
 | ClickPlay 3 | 339155 | [339155-clickplay-3.json](./339155-clickplay-3.json) |
 | Clickr | 10095 | [10095-clickr.json](./10095-clickr.json) |
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
@@ -14294,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursebound | 187881 | [187881-cursebound.json](./187881-cursebound.json) |
 | Cursebound | 344411 | [344411-cursebound.json](./344411-cursebound.json) |
 | Cursebound | 380101 | [380101-cursebound.json](./380101-cursebound.json) |
+| CurseBreaker | 302790 | [302790-cursebreaker.json](./302790-cursebreaker.json) |
 | Cursebreakers | 416810 | [416810-cursebreakers.json](./416810-cursebreakers.json) |
 | Cursed | 230251 | [230251-cursed.json](./230251-cursed.json) |
 | Cursed | 343603 | [343603-cursed.json](./343603-cursed.json) |
