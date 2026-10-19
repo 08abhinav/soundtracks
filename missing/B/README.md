@@ -6699,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Jack | 366927 | [366927-black-jack.json](./366927-black-jack.json) |
 | Black Jack | 391650 | [391650-black-jack.json](./391650-black-jack.json) |
 | Black Jack Story | 99029 | [99029-black-jack-story.json](./99029-black-jack-story.json) |
+| Black Jackal | 265480 | [265480-black-jackal.json](./265480-black-jackal.json) |
 | Black Jacket | 372112 | [372112-black-jacket.json](./372112-black-jacket.json) |
 | Black Jewel | 76509 | [76509-black-jewel.json](./76509-black-jewel.json) |
 | Black Knight and White Devil | 108942 | [108942-black-knight-and-white-devil.json](./108942-black-knight-and-white-devil.json) |
@@ -7603,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz of Battle | 412275 | [412275-blitz-of-battle.json](./412275-blitz-of-battle.json) |
 | Blitz Racer | 255174 | [255174-blitz-racer.json](./255174-blitz-racer.json) |
 | Blitz Roads | 203912 | [203912-blitz-roads.json](./203912-blitz-roads.json) |
+| Blitz Runner | 265467 | [265467-blitz-runner.json](./265467-blitz-runner.json) |
 | Blitz Smash Ultimate | 369023 | [369023-blitz-smash-ultimate.json](./369023-blitz-smash-ultimate.json) |
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz Sonic | 332549 | [332549-blitz-sonic.json](./332549-blitz-sonic.json) |
@@ -11285,6 +11287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Ghosts 2 | 208856 | [208856-breath-of-ghosts-2.json](./208856-breath-of-ghosts-2.json) |
 | Breath of Light | 100615 | [100615-breath-of-light.json](./100615-breath-of-light.json) |
 | Breath of Spirits | 152736 | [152736-breath-of-spirits.json](./152736-breath-of-spirits.json) |
+| Breath of the Depth | 265483 | [265483-breath-of-the-depth.json](./265483-breath-of-the-depth.json) |
 | Breath of the NES | 402394 | [402394-breath-of-the-nes.json](./402394-breath-of-the-nes.json) |
 | Breath of the Pasture | 368821 | [368821-breath-of-the-pasture.json](./368821-breath-of-the-pasture.json) |
 | Breath of the Waters: The Angler | 410937 | [410937-breath-of-the-waters-the-angler.json](./410937-breath-of-the-waters-the-angler.json) |
@@ -12955,6 +12958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
 | Bunosphere | 180635 | [180635-bunosphere.json](./180635-bunosphere.json) |
+| Bunraku | 265491 | [265491-bunraku.json](./265491-bunraku.json) |
 | Buns Out! | 351147 | [351147-buns-out.json](./351147-buns-out.json) |
 | Buns, Kefir and Rock 'n' Roll | 405366 | [405366-buns-kefir-and-rock-n-roll.json](./405366-buns-kefir-and-rock-n-roll.json) |
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
