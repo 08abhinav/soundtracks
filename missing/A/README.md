@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Forest: Rabbit Story | 309475 | [309475-adventure-forest-rabbit-story.json](./309475-adventure-forest-rabbit-story.json) |
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
+| Adventure II | 284228 | [284228-adventure-ii.json](./284228-adventure-ii.json) |
 | Adventure II | 305183 | [305183-adventure-ii.json](./305183-adventure-ii.json) |
 | Adventure II | 40783 | [40783-adventure-ii.json](./40783-adventure-ii.json) |
 | Adventure in a Mysterious Island | 381768 | [381768-adventure-in-a-mysterious-island.json](./381768-adventure-in-a-mysterious-island.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Leek | 191068 | [191068-adventure-of-leek.json](./191068-adventure-of-leek.json) |
 | Adventure of Mak | 184910 | [184910-adventure-of-mak.json](./184910-adventure-of-mak.json) |
 | Adventure of Realms | 379480 | [379480-adventure-of-realms.json](./379480-adventure-of-realms.json) |
+| Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
 | Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
@@ -3517,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
+| Ahorcado 3D: Hangedman 3D | 284207 | [284207-ahorcado-3d-hangedman-3d.json](./284207-ahorcado-3d-hangedman-3d.json) |
 | Ahoy | 153516 | [153516-ahoy.json](./153516-ahoy.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
@@ -4219,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akko ni Omakase! Brain Shock | 269544 | [269544-akko-ni-omakase-brain-shock.json](./269544-akko-ni-omakase-brain-shock.json) |
 | Aknadach | 391056 | [391056-aknadach.json](./391056-aknadach.json) |
 | Akogare 2 | 328074 | [328074-akogare-2.json](./328074-akogare-2.json) |
+| Akogare Mario World | 284225 | [284225-akogare-mario-world.json](./284225-akogare-mario-world.json) |
 | Akogare no Onna Joushi ga Shin'ya no Office de Onatteru Tokoro o Mite kara Hajimaru Himitsu no Kankei. | 230237 | [230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json](./230237-akogare-no-onna-joushi-ga-shinya-no-office-de-onatteru-tokoro-o-mite-kara-hajimaru-himitsu-no-kankei.json) |
 | Akolyta | 116211 | [116211-akolyta.json](./116211-akolyta.json) |
 | Akpala | 266122 | [266122-akpala.json](./266122-akpala.json) |
@@ -11558,6 +11562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Chef | 83192 | [83192-astro-chef.json](./83192-astro-chef.json) |
 | Astro Combat | 337648 | [337648-astro-combat.json](./337648-astro-combat.json) |
 | Astro Combat | 345097 | [345097-astro-combat.json](./345097-astro-combat.json) |
+| Astro Command | 284220 | [284220-astro-command.json](./284220-astro-command.json) |
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
@@ -11604,6 +11609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
+| Astro Warriors | 284212 | [284212-astro-warriors.json](./284212-astro-warriors.json) |
 | Astro Wars | 250337 | [250337-astro-wars.json](./250337-astro-wars.json) |
 | Astro Wars | 302801 | [302801-astro-wars.json](./302801-astro-wars.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
