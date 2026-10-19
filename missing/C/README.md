@@ -10974,6 +10974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
+| Cosmic Armada | 269983 | [269983-cosmic-armada.json](./269983-cosmic-armada.json) |
 | Cosmic Avenger | 18504 | [18504-cosmic-avenger.json](./18504-cosmic-avenger.json) |
 | Cosmic Badger | 197746 | [197746-cosmic-badger.json](./197746-cosmic-badger.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
