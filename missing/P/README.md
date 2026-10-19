@@ -6976,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Pong Deluxe | 350001 | [350001-plant-pong-deluxe.json](./350001-plant-pong-deluxe.json) |
 | Plant Revenge | 132521 | [132521-plant-revenge.json](./132521-plant-revenge.json) |
 | Plant Tales | 358462 | [358462-plant-tales.json](./358462-plant-tales.json) |
+| Plant Therapy | 260565 | [260565-plant-therapy.json](./260565-plant-therapy.json) |
 | Plant Therapy: Coney Island Plus | 337834 | [337834-plant-therapy-coney-island-plus.json](./337834-plant-therapy-coney-island-plus.json) |
 | Plant Therapy: Goth Pack | 324290 | [324290-plant-therapy-goth-pack.json](./324290-plant-therapy-goth-pack.json) |
 | Plant Therapy: Park Place | 364019 | [364019-plant-therapy-park-place.json](./364019-plant-therapy-park-place.json) |
@@ -10929,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Bros | 184957 | [184957-prison-bros.json](./184957-prison-bros.json) |
 | Prison Chainball Massacre | 75170 | [75170-prison-chainball-massacre.json](./75170-prison-chainball-massacre.json) |
 | Prison City | 226729 | [226729-prison-city.json](./226729-prison-city.json) |
+| Prison Colony: A Convict's Tale | 260554 | [260554-prison-colony-a-convicts-tale.json](./260554-prison-colony-a-convicts-tale.json) |
 | Prison Empire Tycoon: Idle Game | 231907 | [231907-prison-empire-tycoon-idle-game.json](./231907-prison-empire-tycoon-idle-game.json) |
 | Prison Escape io | 347147 | [347147-prison-escape-io.json](./347147-prison-escape-io.json) |
 | Prison Escape Puzzle | 100151 | [100151-prison-escape-puzzle.json](./100151-prison-escape-puzzle.json) |
@@ -13354,6 +13356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzel Nite | 140397 | [140397-puzzel-nite.json](./140397-puzzel-nite.json) |
 | Puzzelate | 78745 | [78745-puzzelate.json](./78745-puzzelate.json) |
 | Puzzgun | 98684 | [98684-puzzgun.json](./98684-puzzgun.json) |
+| Puzzillion | 260552 | [260552-puzzillion.json](./260552-puzzillion.json) |
 | Puzzl9 | 178650 | [178650-puzzl9.json](./178650-puzzl9.json) |
 | Puzzle | 119462 | [119462-puzzle.json](./119462-puzzle.json) |
 | Puzzle | 131268 | [131268-puzzle.json](./131268-puzzle.json) |
