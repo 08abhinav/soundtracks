@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Trangram VR | 30658 | [30658-fancy-trangram-vr.json](./30658-fancy-trangram-vr.json) |
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
+| Fandom | 304443 | [304443-fandom.json](./304443-fandom.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
 | Fang and Izzy Pinball Bash | 407192 | [407192-fang-and-izzy-pinball-bash.json](./407192-fang-and-izzy-pinball-bash.json) |
@@ -4860,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Golden Angler Pack | 365983 | [365983-fishing-planet-golden-angler-pack.json](./365983-fishing-planet-golden-angler-pack.json) |
 | Fishing Planet: Green Fortune Event Pack | 365984 | [365984-fishing-planet-green-fortune-event-pack.json](./365984-fishing-planet-green-fortune-event-pack.json) |
 | Fishing Planet: Happy 4th of July Pack! | 366015 | [366015-fishing-planet-happy-4th-of-july-pack.json](./366015-fishing-planet-happy-4th-of-july-pack.json) |
+| Fishing Planet: Japan Odyssey Pack | 304448 | [304448-fishing-planet-japan-odyssey-pack.json](./304448-fishing-planet-japan-odyssey-pack.json) |
 | Fishing Planet: Kayaks Adventure Pack | 365997 | [365997-fishing-planet-kayaks-adventure-pack.json](./365997-fishing-planet-kayaks-adventure-pack.json) |
 | Fishing Planet: Krampus Catcher Pack | 366002 | [366002-fishing-planet-krampus-catcher-pack.json](./366002-fishing-planet-krampus-catcher-pack.json) |
 | Fishing Planet: Live Bait Fiesta Pack | 366013 | [366013-fishing-planet-live-bait-fiesta-pack.json](./366013-fishing-planet-live-bait-fiesta-pack.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishjong 2 | 239724 | [239724-fishjong-2.json](./239724-fishjong-2.json) |
 | Fishlets | 278522 | [278522-fishlets.json](./278522-fishlets.json) |
 | Fishlets: Natural Decor Pack | 313679 | [313679-fishlets-natural-decor-pack.json](./313679-fishlets-natural-decor-pack.json) |
+| Fishlets: Ocean Conservation 2024 Pack | 304444 | [304444-fishlets-ocean-conservation-2024-pack.json](./304444-fishlets-ocean-conservation-2024-pack.json) |
 | Fishlike | 308042 | [308042-fishlike.json](./308042-fishlike.json) |
 | Fishman | 370286 | [370286-fishman.json](./370286-fishman.json) |
 | Fishman's Last Stand | 264601 | [264601-fishmans-last-stand.json](./264601-fishmans-last-stand.json) |
