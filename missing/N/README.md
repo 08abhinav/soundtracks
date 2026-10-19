@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Survivors | 400666 | [400666-necro-survivors.json](./400666-necro-survivors.json) |
 | Necro Wars | 127261 | [127261-necro-wars.json](./127261-necro-wars.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
+| NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
