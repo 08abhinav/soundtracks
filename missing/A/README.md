@@ -2565,6 +2565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
 | Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
+| Adventure of the Skullmancer | 261117 | [261117-adventure-of-the-skullmancer.json](./261117-adventure-of-the-skullmancer.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
@@ -10746,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Long As We're Together: Magical Girls Sweet & Pure | 135055 | [135055-as-long-as-were-together-magical-girls-sweet-and-pure.json](./135055-as-long-as-were-together-magical-girls-sweet-and-pure.json) |
 | As Long As You're Here | 374293 | [374293-as-long-as-youre-here.json](./374293-as-long-as-youre-here.json) |
 | As Per My Last Email | 314868 | [314868-as-per-my-last-email.json](./314868-as-per-my-last-email.json) |
+| As Planned | 261129 | [261129-as-planned.json](./261129-as-planned.json) |
 | AS Rabbie Aizouban | 408265 | [408265-as-rabbie-aizouban.json](./408265-as-rabbie-aizouban.json) |
 | As simple as it could get | 211411 | [211411-as-simple-as-it-could-get.json](./211411-as-simple-as-it-could-get.json) |
 | As Sweetberry Falls | 379882 | [379882-as-sweetberry-falls.json](./379882-as-sweetberry-falls.json) |
@@ -13110,6 +13112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Chaos Era | 168327 | [168327-awaken-chaos-era.json](./168327-awaken-chaos-era.json) |
 | Awaken: Gunpowder Adventurer Daydream | 99010 | [99010-awaken-gunpowder-adventurer-daydream.json](./99010-awaken-gunpowder-adventurer-daydream.json) |
 | Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
+| Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakener | 165513 | [165513-awakener.json](./165513-awakener.json) |
