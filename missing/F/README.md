@@ -8786,6 +8786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': vs. Gorefield | 298717 | [298717-friday-night-funkin-vs-gorefield.json](./298717-friday-night-funkin-vs-gorefield.json) |
 | Friday Night Funkin': vs. Hex | 314512 | [314512-friday-night-funkin-vs-hex.json](./314512-friday-night-funkin-vs-hex.json) |
 | Friday Night Funkin': vs. Homr | 298721 | [298721-friday-night-funkin-vs-homr.json](./298721-friday-night-funkin-vs-homr.json) |
+| Friday Night Funkin': vs. Impostor - Human Hijinks | 274892 | [274892-friday-night-funkin-vs-impostor-human-hijinks.json](./274892-friday-night-funkin-vs-impostor-human-hijinks.json) |
 | Friday Night Funkin': vs. Kapi - Arcade Showdown | 180206 | [180206-friday-night-funkin-vs-kapi-arcade-showdown.json](./180206-friday-night-funkin-vs-kapi-arcade-showdown.json) |
 | Friday Night Funkin': Vs. Nekomata Okayu | 226421 | [226421-friday-night-funkin-vs-nekomata-okayu.json](./226421-friday-night-funkin-vs-nekomata-okayu.json) |
 | Friday Night Funkin': vs. Reggie the Rat | 198491 | [198491-friday-night-funkin-vs-reggie-the-rat.json](./198491-friday-night-funkin-vs-reggie-the-rat.json) |
