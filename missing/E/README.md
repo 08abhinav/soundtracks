@@ -2781,6 +2781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Summer: Book 3 | 313749 | [313749-endless-summer-book-3.json](./313749-endless-summer-book-3.json) |
 | Endless Surf | 187827 | [187827-endless-surf.json](./187827-endless-surf.json) |
 | Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
+| Endless Tactics | 292379 | [292379-endless-tactics.json](./292379-endless-tactics.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
@@ -3520,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
 | Erkattäññe | 313861 | [313861-erkattanne.json](./313861-erkattanne.json) |
 | Erl | 362859 | [362859-erl.json](./362859-erl.json) |
+| Erlking | 292383 | [292383-erlking.json](./292383-erlking.json) |
 | ERN | 320875 | [320875-ern.json](./320875-ern.json) |
 | Ernest Colt: Western Shooter | 25052 | [25052-ernest-colt-western-shooter.json](./25052-ernest-colt-western-shooter.json) |
 | Ernesto, A Quick Dungeon Crawler | 61151 | [61151-ernesto-a-quick-dungeon-crawler.json](./61151-ernesto-a-quick-dungeon-crawler.json) |
