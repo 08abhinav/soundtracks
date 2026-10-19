@@ -807,6 +807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda Legend | 214723 | [214723-panda-legend.json](./214723-panda-legend.json) |
 | Panda Lu Baby Bear Care 2 | 227472 | [227472-panda-lu-baby-bear-care-2.json](./227472-panda-lu-baby-bear-care-2.json) |
 | Panda Lu Baby Bear City | 102672 | [102672-panda-lu-baby-bear-city.json](./102672-panda-lu-baby-bear-city.json) |
+| Panda Magix: Golden Trains Edition - Slots | 276621 | [276621-panda-magix-golden-trains-edition-slots.json](./276621-panda-magix-golden-trains-edition-slots.json) |
 | Panda Man | 115600 | [115600-panda-man.json](./115600-panda-man.json) |
 | Panda Pai Gow Poker | 209403 | [209403-panda-pai-gow-poker.json](./209403-panda-pai-gow-poker.json) |
 | Panda PandaMonium | 60902 | [60902-panda-pandamonium.json](./60902-panda-pandamonium.json) |
@@ -6806,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
 | Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
+| Planet Scanner | 276622 | [276622-planet-scanner.json](./276622-planet-scanner.json) |
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Model | 229684 | [229684-plastic-model.json](./229684-plastic-model.json) |
 | Plastic Playground | 33116 | [33116-plastic-playground.json](./33116-plastic-playground.json) |
 | Plastic Soldiers | 111701 | [111701-plastic-soldiers.json](./111701-plastic-soldiers.json) |
+| Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
 | PlasticFighter | 310738 | [310738-plasticfighter.json](./310738-plasticfighter.json) |
@@ -10291,6 +10294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prepare For Warp: Unlimited Edition - Beyond Insanji | 182222 | [182222-prepare-for-warp-unlimited-edition-beyond-insanji.json](./182222-prepare-for-warp-unlimited-edition-beyond-insanji.json) |
 | Prepare the First RPG Village: The Adventures of Nyanzou&Kumakichi - Escape Game Series | 173143 | [173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./173143-prepare-the-first-rpg-village-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Prepare to Dine | 28140 | [28140-prepare-to-dine.json](./28140-prepare-to-dine.json) |
+| Prepped: Tower Defense | 276619 | [276619-prepped-tower-defense.json](./276619-prepped-tower-defense.json) |
 | Prepper | 229790 | [229790-prepper.json](./229790-prepper.json) |
 | Preppie! | 22766 | [22766-preppie.json](./22766-preppie.json) |
 | Preppie! II | 23684 | [23684-preppie-ii.json](./23684-preppie-ii.json) |
@@ -11431,6 +11435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project APT | 62099 | [62099-project-apt.json](./62099-project-apt.json) |
 | Project Ara - Crucible | 126992 | [126992-project-ara-crucible.json](./126992-project-ara-crucible.json) |
+| Project Arcade | 276623 | [276623-project-arcade.json](./276623-project-arcade.json) |
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
@@ -11994,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mirror | 233562 | [233562-project-mirror.json](./233562-project-mirror.json) |
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
+| Project: Neo | 276618 | [276618-project-neo.json](./276618-project-neo.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
 | Project: Nova | 304652 | [304652-project-nova.json](./304652-project-nova.json) |
@@ -12743,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PumpKin Majo | 235704 | [235704-pumpkin-majo.json](./235704-pumpkin-majo.json) |
 | Pumpkin Online | 110273 | [110273-pumpkin-online.json](./110273-pumpkin-online.json) |
 | Pumpkin Panic | 257329 | [257329-pumpkin-panic.json](./257329-pumpkin-panic.json) |
+| Pumpkin Party | 276617 | [276617-pumpkin-party.json](./276617-pumpkin-party.json) |
 | Pumpkin Remover | 335743 | [335743-pumpkin-remover.json](./335743-pumpkin-remover.json) |
 | Pumpkin Restaurant | 345064 | [345064-pumpkin-restaurant.json](./345064-pumpkin-restaurant.json) |
 | Pumpkin Ripper | 224723 | [224723-pumpkin-ripper.json](./224723-pumpkin-ripper.json) |
