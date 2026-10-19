@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badpak | 271952 | [271952-badpak.json](./271952-badpak.json) |
 | BadSmith | 223365 | [223365-badsmith.json](./223365-badsmith.json) |
 | Baduk Challenge | 365880 | [365880-baduk-challenge.json](./365880-baduk-challenge.json) |
+| Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
@@ -6539,6 +6540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bizarre Journey | 103164 | [103164-bizarre-journey.json](./103164-bizarre-journey.json) |
 | Bizarre Mushroom Cycle Simulator | 260337 | [260337-bizarre-mushroom-cycle-simulator.json](./260337-bizarre-mushroom-cycle-simulator.json) |
 | Bizarre Tale | 76671 | [76671-bizarre-tale.json](./76671-bizarre-tale.json) |
+| Bizarro Untergrund | 267211 | [267211-bizarro-untergrund.json](./267211-bizarro-untergrund.json) |
 | Bizerta: Silent Evil | 60570 | [60570-bizerta-silent-evil.json](./60570-bizerta-silent-evil.json) |
 | Biztopia | 187780 | [187780-biztopia.json](./187780-biztopia.json) |
 | Biztopia | 323774 | [323774-biztopia.json](./323774-biztopia.json) |
