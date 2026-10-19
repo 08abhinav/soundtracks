@@ -9893,6 +9893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borstal | 33241 | [33241-borstal.json](./33241-borstal.json) |
 | Borussia Dortmund Club Football | 267884 | [267884-borussia-dortmund-club-football.json](./267884-borussia-dortmund-club-football.json) |
 | Borussia Dortmund Club Football 2005 | 267893 | [267893-borussia-dortmund-club-football-2005.json](./267893-borussia-dortmund-club-football-2005.json) |
+| Borzoi Adventure | 284783 | [284783-borzoi-adventure.json](./284783-borzoi-adventure.json) |
 | Bosconian | 18758 | [18758-bosconian.json](./18758-bosconian.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
