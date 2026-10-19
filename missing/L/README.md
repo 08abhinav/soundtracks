@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Zoo | 346065 | [346065-le-zoo.json](./346065-le-zoo.json) |
 | Lea | 269228 | [269228-lea.json](./269228-lea.json) |
 | Lea | 310112 | [310112-lea.json](./310112-lea.json) |
+| Lead | 258843 | [258843-lead.json](./258843-lead.json) |
 | Lead & Blood | 372687 | [372687-lead-and-blood.json](./372687-lead-and-blood.json) |
 | Lead and Gold: Gangs of the Wild West | 2041 | [2041-lead-and-gold-gangs-of-the-wild-west.json](./2041-lead-and-gold-gangs-of-the-wild-west.json) |
 | Lead on Mars | 61728 | [61728-lead-on-mars.json](./61728-lead-on-mars.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveSoTea | 250279 | [250279-lovesotea.json](./250279-lovesotea.json) |
 | LoveUnholyc: Dark Fantasy Love | 296785 | [296785-loveunholyc-dark-fantasy-love.json](./296785-loveunholyc-dark-fantasy-love.json) |
 | LoveXLust | 279550 | [279550-lovexlust.json](./279550-lovexlust.json) |
+| Lovey-Dovey Lockdown | 258833 | [258833-lovey-dovey-lockdown.json](./258833-lovey-dovey-lockdown.json) |
 | Lovin House | 153845 | [153845-lovin-house.json](./153845-lovin-house.json) |
 | Loving Deads: The House of the Dead EX | 72769 | [72769-loving-deads-the-house-of-the-dead-ex.json](./72769-loving-deads-the-house-of-the-dead-ex.json) |
 | Loving Flesh | 177264 | [177264-loving-flesh.json](./177264-loving-flesh.json) |
@@ -7272,6 +7274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Magic School | 46093 | [46093-lunar-magic-school.json](./46093-lunar-magic-school.json) |
+| Lunar maiden, River-side Angel, and the Godlike Moment | 258884 | [258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json](./258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json) |
 | Lunar Manor | 113619 | [113619-lunar-manor.json](./113619-lunar-manor.json) |
 | Lunar Mirror | 371624 | [371624-lunar-mirror.json](./371624-lunar-mirror.json) |
 | Lunar Mountain | 236923 | [236923-lunar-mountain.json](./236923-lunar-mountain.json) |
@@ -7435,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Theory 2 | 240879 | [240879-lust-theory-2.json](./240879-lust-theory-2.json) |
 | Lust Theory 3 | 384754 | [384754-lust-theory-3.json](./384754-lust-theory-3.json) |
 | Lust Trip | 213477 | [213477-lust-trip.json](./213477-lust-trip.json) |
+| Lust's Cupid | 258824 | [258824-lusts-cupid.json](./258824-lusts-cupid.json) |
 | Luster | 368107 | [368107-luster.json](./368107-luster.json) |
 | Luster Beasts | 276826 | [276826-luster-beasts.json](./276826-luster-beasts.json) |
 | Lusternia: Age of Ascension | 122848 | [122848-lusternia-age-of-ascension.json](./122848-lusternia-age-of-ascension.json) |
