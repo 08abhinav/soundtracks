@@ -7450,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid: Another Legend | 267399 | [267399-metroid-another-legend.json](./267399-metroid-another-legend.json) |
 | Metroid: Confrontation | 28078 | [28078-metroid-confrontation.json](./28078-metroid-confrontation.json) |
 | Metroid: Crocomire's Last Stand | 277040 | [277040-metroid-crocomires-last-stand.json](./277040-metroid-crocomires-last-stand.json) |
+| Metroid: Dark Alliance | 298938 | [298938-metroid-dark-alliance.json](./298938-metroid-dark-alliance.json) |
 | Metroid: Deep Freeze | 173106 | [173106-metroid-deep-freeze.json](./173106-metroid-deep-freeze.json) |
 | Metroid: Desolation | 255381 | [255381-metroid-desolation.json](./255381-metroid-desolation.json) |
 | Metroid: Father Hunt | 323032 | [323032-metroid-father-hunt.json](./323032-metroid-father-hunt.json) |
@@ -11909,6 +11910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
+| Monstrous Cravings | 298913 | [298913-monstrous-cravings.json](./298913-monstrous-cravings.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
 | Monstrous Lovers | 148562 | [148562-monstrous-lovers.json](./148562-monstrous-lovers.json) |
 | Monstrous Realms | 236202 | [236202-monstrous-realms.json](./236202-monstrous-realms.json) |
@@ -14696,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Catgirl Maid Thinks She Runs the Place | 152298 | [152298-my-catgirl-maid-thinks-she-runs-the-place.json](./152298-my-catgirl-maid-thinks-she-runs-the-place.json) |
 | My Chameleon Girlfriend | 223691 | [223691-my-chameleon-girlfriend.json](./223691-my-chameleon-girlfriend.json) |
 | My Chandroid Sweetheart | 333434 | [333434-my-chandroid-sweetheart.json](./333434-my-chandroid-sweetheart.json) |
+| My Charming Butlers | 299023 | [299023-my-charming-butlers.json](./299023-my-charming-butlers.json) |
 | My Cheetah Friend | 341347 | [341347-my-cheetah-friend.json](./341347-my-cheetah-friend.json) |
 | My Chemical Romance: Helena | 328268 | [328268-my-chemical-romance-helena.json](./328268-my-chemical-romance-helena.json) |
 | My Chemical Romance: Sweet Revenge!!! | 328267 | [328267-my-chemical-romance-sweet-revenge.json](./328267-my-chemical-romance-sweet-revenge.json) |
@@ -14804,6 +14807,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Eggduck | 403183 | [403183-my-eggduck.json](./403183-my-eggduck.json) |
 | My Eggs | 255999 | [255999-my-eggs.json](./255999-my-eggs.json) |
 | My Elemental Girlfriend | 210612 | [210612-my-elemental-girlfriend.json](./210612-my-elemental-girlfriend.json) |
+| My Elemental Prince | 299018 | [299018-my-elemental-prince.json](./299018-my-elemental-prince.json) |
+| My Elemental Prince: Remake | 299022 | [299022-my-elemental-prince-remake.json](./299022-my-elemental-prince-remake.json) |
 | My Elf Girlfriend | 206007 | [206007-my-elf-girlfriend.json](./206007-my-elf-girlfriend.json) |
 | My Emma :) | 86977 | [86977-my-emma.json](./86977-my-emma.json) |
 | My Empire | 149590 | [149590-my-empire.json](./149590-my-empire.json) |
@@ -16113,6 +16118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
+| Mythical Hearts | 299027 | [299027-mythical-hearts.json](./299027-mythical-hearts.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
 | Mythical Mayhem: Judgment Night Expansion | 362597 | [362597-mythical-mayhem-judgment-night-expansion.json](./362597-mythical-mayhem-judgment-night-expansion.json) |
 | Mythical Mayhem: Twisting Sands Expansion | 362596 | [362596-mythical-mayhem-twisting-sands-expansion.json](./362596-mythical-mayhem-twisting-sands-expansion.json) |
