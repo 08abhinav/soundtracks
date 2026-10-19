@@ -10555,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
+| The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
 | The Noodle | 108223 | [108223-the-noodle.json](./108223-the-noodle.json) |
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
@@ -14662,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
 | Think | 100765 | [100765-think.json](./100765-think.json) |
+| Think a Little | 289182 | [289182-think-a-little.json](./289182-think-a-little.json) |
 | Think About Aliens! | 150088 | [150088-think-about-aliens.json](./150088-think-about-aliens.json) |
 | Think and Choice | 373758 | [373758-think-and-choice.json](./373758-think-and-choice.json) |
 | Think Fast - Time Based Memory Game | 87124 | [87124-think-fast-time-based-memory-game.json](./87124-think-fast-time-based-memory-game.json) |
@@ -16968,6 +16970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
+| TimeBomb90second | 289179 | [289179-timebomb90second.json](./289179-timebomb90second.json) |
 | Timebot | 219499 | [219499-timebot.json](./219499-timebot.json) |
 | Timebound | 321635 | [321635-timebound.json](./321635-timebound.json) |
 | Timebound Vampire | 329064 | [329064-timebound-vampire.json](./329064-timebound-vampire.json) |
@@ -17282,6 +17285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
 | Tiny Monsters | 368269 | [368269-tiny-monsters.json](./368269-tiny-monsters.json) |
 | Tiny Mortals VR | 118135 | [118135-tiny-mortals-vr.json](./118135-tiny-mortals-vr.json) |
+| Tiny Number Hunt! | 289194 | [289194-tiny-number-hunt.json](./289194-tiny-number-hunt.json) |
 | Tiny Onion Knight | 226157 | [226157-tiny-onion-knight.json](./226157-tiny-onion-knight.json) |
 | Tiny Passengers | 175247 | [175247-tiny-passengers.json](./175247-tiny-passengers.json) |
 | Tiny Pasture: Baabaa and Moomoo | 383623 | [383623-tiny-pasture-baabaa-and-moomoo.json](./383623-tiny-pasture-baabaa-and-moomoo.json) |
@@ -23194,6 +23198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truco!: Chapter 1 | 259842 | [259842-truco-chapter-1.json](./259842-truco-chapter-1.json) |
 | Trucy's Magical Catastrophe | 309992 | [309992-trucys-magical-catastrophe.json](./309992-trucys-magical-catastrophe.json) |
 | Trudge | 409399 | [409399-trudge.json](./409399-trudge.json) |
+| Trudograd: Supporter Pack | 289191 | [289191-trudograd-supporter-pack.json](./289191-trudograd-supporter-pack.json) |
 | Trudy's Time and Place House | 265978 | [265978-trudys-time-and-place-house.json](./265978-trudys-time-and-place-house.json) |
 | True Abstraction: Plus | 265598 | [265598-true-abstraction-plus.json](./265598-true-abstraction-plus.json) |
 | True Abstraction: Rewind | 264538 | [264538-true-abstraction-rewind.json](./264538-true-abstraction-rewind.json) |
@@ -23961,6 +23966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutorial | 231092 | [231092-tutorial.json](./231092-tutorial.json) |
 | Tutti Frutti | 54932 | [54932-tutti-frutti.json](./54932-tutti-frutti.json) |
 | Tuttle: Star Flower Harvest | 247934 | [247934-tuttle-star-flower-harvest.json](./247934-tuttle-star-flower-harvest.json) |
+| Tuttuki Bako | 289177 | [289177-tuttuki-bako.json](./289177-tuttuki-bako.json) |
 | Tutututu: Tea party | 120318 | [120318-tutututu-tea-party.json](./120318-tutututu-tea-party.json) |
 | Tux 2 | 397053 | [397053-tux-2.json](./397053-tux-2.json) |
 | Tux and Fanny | 166675 | [166675-tux-and-fanny.json](./166675-tux-and-fanny.json) |
@@ -24270,6 +24276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisty Arrow! | 100880 | [100880-twisty-arrow.json](./100880-twisty-arrow.json) |
 | Twisty Board 2 | 233998 | [233998-twisty-board-2.json](./233998-twisty-board-2.json) |
 | Twisty Hollow | 344956 | [344956-twisty-hollow.json](./344956-twisty-hollow.json) |
+| Twisty Pals | 289195 | [289195-twisty-pals.json](./289195-twisty-pals.json) |
 | Twisty Planets Space Puzzle | 83577 | [83577-twisty-planets-space-puzzle.json](./83577-twisty-planets-space-puzzle.json) |
 | Twisty Puzzle World | 264536 | [264536-twisty-puzzle-world.json](./264536-twisty-puzzle-world.json) |
 | Twisty Road! | 87660 | [87660-twisty-road.json](./87660-twisty-road.json) |
