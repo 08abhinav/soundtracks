@@ -1801,6 +1801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Defense | 104655 | [104655-data-defense.json](./104655-data-defense.json) |
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
+| Data Download | 309193 | [309193-data-download.json](./309193-data-download.json) |
 | Data Drift | 344519 | [344519-data-drift.json](./344519-data-drift.json) |
 | Data East All-Star Collection | 77428 | [77428-data-east-all-star-collection.json](./77428-data-east-all-star-collection.json) |
 | Data East Arcade 2 | 325238 | [325238-data-east-arcade-2.json](./325238-data-east-arcade-2.json) |
@@ -4203,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déja Vu PD | 395281 | [395281-deja-vu-pd.json](./395281-deja-vu-pd.json) |
 | Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
+| Deja-Vu! | 309191 | [309191-deja-vu.json](./309191-deja-vu.json) |
 | Dejar Ir: A Pandemic Soulful Tale | 203803 | [203803-dejar-ir-a-pandemic-soulful-tale.json](./203803-dejar-ir-a-pandemic-soulful-tale.json) |
 | DejaVu | 184406 | [184406-dejavu.json](./184406-dejavu.json) |
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
@@ -10259,6 +10261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
 | Dracomaton | 258124 | [258124-dracomaton.json](./258124-dracomaton.json) |
+| Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
 | Draconic Echoes: The Ardent War | 126664 | [126664-draconic-echoes-the-ardent-war.json](./126664-draconic-echoes-the-ardent-war.json) |
