@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello World | 392767 | [392767-hello-world.json](./392767-hello-world.json) |
 | Hello World: a developer story | 354089 | [354089-hello-world-a-developer-story.json](./354089-hello-world-a-developer-story.json) |
 | Hello Worlds! | 335742 | [335742-hello-worlds.json](./335742-hello-worlds.json) |
+| Hello Yogurt | 306801 | [306801-hello-yogurt.json](./306801-hello-yogurt.json) |
 | Hello Yuna | 336869 | [336869-hello-yuna.json](./336869-hello-yuna.json) |
 | Hello, Boss! | 364845 | [364845-hello-boss.json](./364845-hello-boss.json) |
 | Hello, Fucking World! | 219827 | [219827-hello-fucking-world.json](./219827-hello-fucking-world.json) |
@@ -6864,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong 2097 | 374971 | [374971-hong-kong-2097.json](./374971-hong-kong-2097.json) |
 | Hong Kong 2099 | 311683 | [311683-hong-kong-2099.json](./311683-hong-kong-2099.json) |
 | Hong Kong 97 | 9616 | [9616-hong-kong-97.json](./9616-hong-kong-97.json) |
+| Hong Kong 97 Gameboy | 306787 | [306787-hong-kong-97-gameboy.json](./306787-hong-kong-97-gameboy.json) |
 | Hong Kong Haunting: Fishball Girl | 358993 | [358993-hong-kong-haunting-fishball-girl.json](./358993-hong-kong-haunting-fishball-girl.json) |
 | Hong Kong Mahjong | 334661 | [334661-hong-kong-mahjong.json](./334661-hong-kong-mahjong.json) |
 | Hong Kong Mahjong Pro | 79933 | [79933-hong-kong-mahjong-pro.json](./79933-hong-kong-mahjong-pro.json) |
