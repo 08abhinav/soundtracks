@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scholar of the Arcane Arts | 188615 | [188615-scholar-of-the-arcane-arts.json](./188615-scholar-of-the-arcane-arts.json) |
 | Scholastic Animal Genius | 91744 | [91744-scholastic-animal-genius.json](./91744-scholastic-animal-genius.json) |
 | Scholastic Brain Play: Preschool - 1st Grade | 167276 | [167276-scholastic-brain-play-preschool-1st-grade.json](./167276-scholastic-brain-play-preschool-1st-grade.json) |
+| School 666 | 293488 | [293488-school-666.json](./293488-school-666.json) |
 | School Bathroom | 346559 | [346559-school-bathroom.json](./346559-school-bathroom.json) |
 | School Booster | 263052 | [263052-school-booster.json](./263052-school-booster.json) |
 | School Bubbles | 107027 | [107027-school-bubbles.json](./107027-school-bubbles.json) |
@@ -4133,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
 | Senza Peso | 32225 | [32225-senza-peso.json](./32225-senza-peso.json) |
+| Senzu: A Fantasy Farming Space Odyssey | 293499 | [293499-senzu-a-fantasy-farming-space-odyssey.json](./293499-senzu-a-fantasy-farming-space-odyssey.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
 | Seonbi: Scholar of Joseon | 247949 | [247949-seonbi-scholar-of-joseon.json](./247949-seonbi-scholar-of-joseon.json) |
 | Seoul 2033 | 215092 | [215092-seoul-2033.json](./215092-seoul-2033.json) |
@@ -4363,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
 | Session: Skate Sim - El Lay | 377891 | [377891-session-skate-sim-el-lay.json](./377891-session-skate-sim-el-lay.json) |
+| Session: Skate Sim - Schoolyard | 293491 | [293491-session-skate-sim-schoolyard.json](./293491-session-skate-sim-schoolyard.json) |
 | Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
 | Session: Skate Sim - Year Two Pack | 331911 | [331911-session-skate-sim-year-two-pack.json](./331911-session-skate-sim-year-two-pack.json) |
 | Session: Skate Sim Waterpark & Chris Cole | 357406 | [357406-session-skate-sim-waterpark-and-chris-cole.json](./357406-session-skate-sim-waterpark-and-chris-cole.json) |
@@ -4405,6 +4408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven | 283134 | [283134-seven.json](./283134-seven.json) |
 | Seven Blasphemies | 415142 | [415142-seven-blasphemies.json](./415142-seven-blasphemies.json) |
 | Seven Boys 2 | 68104 | [68104-seven-boys-2.json](./68104-seven-boys-2.json) |
+| Seven Bullets Horror | 293483 | [293483-seven-bullets-horror.json](./293483-seven-bullets-horror.json) |
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
@@ -7652,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Rain | 258078 | [258078-silent-rain.json](./258078-silent-rain.json) |
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
+| Silent Rooms: Chapter 1 | 293474 | [293474-silent-rooms-chapter-1.json](./293474-silent-rooms-chapter-1.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Scale | 265846 | [265846-silent-scale.json](./265846-silent-scale.json) |
 | Silent Scope | 248779 | [248779-silent-scope.json](./248779-silent-scope.json) |
@@ -11438,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 236803 | [236803-soar.json](./236803-soar.json) |
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
+| Soar: Pillars of Tasneem | 293476 | [293476-soar-pillars-of-tasneem.json](./293476-soar-pillars-of-tasneem.json) |
 | Soaring Machinariae | 152643 | [152643-soaring-machinariae.json](./152643-soaring-machinariae.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
