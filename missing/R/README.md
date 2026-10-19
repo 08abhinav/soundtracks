@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
+| ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
@@ -5043,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Knights | 153929 | [153929-rhythm-knights.json](./153929-rhythm-knights.json) |
 | Rhythm Knights: Double Treble | 199460 | [199460-rhythm-knights-double-treble.json](./199460-rhythm-knights-double-treble.json) |
 | Rhythm League Heroes | 276181 | [276181-rhythm-league-heroes.json](./276181-rhythm-league-heroes.json) |
+| Rhythm Life | 276616 | [276616-rhythm-life.json](./276616-rhythm-life.json) |
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
 | Rhythm Maker | 45889 | [45889-rhythm-maker.json](./45889-rhythm-maker.json) |
@@ -7420,6 +7422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
 | Rogue Realms | 239748 | [239748-rogue-realms.json](./239748-rogue-realms.json) |
+| Rogue Realms | 276610 | [276610-rogue-realms.json](./276610-rogue-realms.json) |
 | Rogue Reaper | 113522 | [113522-rogue-reaper.json](./113522-rogue-reaper.json) |
 | Rogue Reigns | 361052 | [361052-rogue-reigns.json](./361052-rogue-reigns.json) |
 | Rogue Reunion | 401887 | [401887-rogue-reunion.json](./401887-rogue-reunion.json) |
