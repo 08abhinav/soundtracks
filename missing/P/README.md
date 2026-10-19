@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pamoja Mtaani | 70565 | [70565-pamoja-mtaani.json](./70565-pamoja-mtaani.json) |
 | Pamp Quest | 124181 | [124181-pamp-quest.json](./124181-pamp-quest.json) |
 | PamPam Kana Students | 390547 | [390547-pampam-kana-students.json](./390547-pampam-kana-students.json) |
+| Pampas & Selene: Supporter Pack | 304470 | [304470-pampas-and-selene-supporter-pack.json](./304470-pampas-and-selene-supporter-pack.json) |
 | Pampas & Selene: The Maze of Demons | 261813 | [261813-pampas-and-selene-the-maze-of-demons.json](./261813-pampas-and-selene-the-maze-of-demons.json) |
 | Pampas & Selene: The Maze of Demons - Pirate Software's Ferret Sanctuary | 302203 | [302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json](./302203-pampas-and-selene-the-maze-of-demons-pirate-softwares-ferret-sanctuary.json) |
 | Pan | 294980 | [294980-pan.json](./294980-pan.json) |
@@ -5984,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Pixie | 312770 | [312770-pixel-pixie.json](./312770-pixel-pixie.json) |
 | Pixel Place | 363176 | [363176-pixel-place.json](./363176-pixel-place.json) |
+| Pixel Playground | 304437 | [304437-pixel-playground.json](./304437-pixel-playground.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
 | Pixel Princess Arena | 269219 | [269219-pixel-princess-arena.json](./269219-pixel-princess-arena.json) |
