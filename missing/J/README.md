@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim Lee's Wild C.A.T.S: Covert Action Teams | 42510 | [42510-jim-lees-wild-c-a-t-s-covert-action-teams.json](./42510-jim-lees-wild-c-a-t-s-covert-action-teams.json) |
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
 | Jim's Gym | 241056 | [241056-jims-gym.json](./241056-jims-gym.json) |
+| Jimbaori: The Onin War | 259966 | [259966-jimbaori-the-onin-war.json](./259966-jimbaori-the-onin-war.json) |
 | Jimbob and the Magic Chain | 199073 | [199073-jimbob-and-the-magic-chain.json](./199073-jimbob-and-the-magic-chain.json) |
 | Jimi-Kare: My Quiet Boyfriend | 54982 | [54982-jimi-kare-my-quiet-boyfriend.json](./54982-jimi-kare-my-quiet-boyfriend.json) |
 | Jiminy's Morning Adventure | 293712 | [293712-jiminys-morning-adventure.json](./293712-jiminys-morning-adventure.json) |
@@ -2872,6 +2873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World: The Game | 10530 | [10530-jurassic-world-the-game.json](./10530-jurassic-world-the-game.json) |
 | Jurassic Wrap | 381736 | [381736-jurassic-wrap.json](./381736-jurassic-wrap.json) |
 | Jurassic: The Hunted | 4946 | [4946-jurassic-the-hunted.json](./4946-jurassic-the-hunted.json) |
+| JurassicDragon and the Binary Relic | 259999 | [259999-jurassicdragon-and-the-binary-relic.json](./259999-jurassicdragon-and-the-binary-relic.json) |
 | Jurig Escape | 117768 | [117768-jurig-escape.json](./117768-jurig-escape.json) |
 | Jurisdiction | 144183 | [144183-jurisdiction.json](./144183-jurisdiction.json) |
 | Jurl | 244189 | [244189-jurl.json](./244189-jurl.json) |
