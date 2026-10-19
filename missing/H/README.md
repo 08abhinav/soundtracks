@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare Uso: Original Harem Story | 379638 | [379638-hare-uso-original-harem-story.json](./379638-hare-uso-original-harem-story.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
+| Harem | 266649 | [266649-harem.json](./266649-harem.json) |
 | Harem Girl: Evie | 284244 | [284244-harem-girl-evie.json](./284244-harem-girl-evie.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
@@ -2033,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 259183 | [259183-haunted-mansion.json](./259183-haunted-mansion.json) |
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
+| Haunted Maze | 266638 | [266638-haunted-maze.json](./266638-haunted-maze.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
 | Haunted Nukem | 294530 | [294530-haunted-nukem.json](./294530-haunted-nukem.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
@@ -3107,6 +3109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
 | Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
 | Hellbound | 76037 | [76037-hellbound.json](./76037-hellbound.json) |
+| Hellbound Ropes | 266603 | [266603-hellbound-ropes.json](./266603-hellbound-ropes.json) |
 | Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
 | Hellbound: Survival Mode | 86764 | [86764-hellbound-survival-mode.json](./86764-hellbound-survival-mode.json) |
 | Hellbound: the Awakening | 130118 | [130118-hellbound-the-awakening.json](./130118-hellbound-the-awakening.json) |
@@ -3836,6 +3839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mature Milf | 371368 | [371368-hentai-mature-milf.json](./371368-hentai-mature-milf.json) |
 | Hentai MatureCat | 243162 | [243162-hentai-maturecat.json](./243162-hentai-maturecat.json) |
 | Hentai Maya | 265572 | [265572-hentai-maya.json](./265572-hentai-maya.json) |
+| Hentai Maze | 266602 | [266602-hentai-maze.json](./266602-hentai-maze.json) |
 | Hentai Mei | 340439 | [340439-hentai-mei.json](./340439-hentai-mei.json) |
 | Hentai Memorama | 112775 | [112775-hentai-memorama.json](./112775-hentai-memorama.json) |
 | Hentai Memory | 105200 | [105200-hentai-memory.json](./105200-hentai-memory.json) |
