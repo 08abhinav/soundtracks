@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ze Bomber | 388155 | [388155-ze-bomber.json](./388155-ze-bomber.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
+| Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
@@ -1225,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Panic! | 67706 | [67706-zombie-panic.json](./67706-zombie-panic.json) |
 | Zombie Panic! Source | 29119 | [29119-zombie-panic-source.json](./29119-zombie-panic-source.json) |
 | Zombie Parking | 33324 | [33324-zombie-parking.json](./33324-zombie-parking.json) |
+| Zombie Parkour Apocalypse | 296276 | [296276-zombie-parkour-apocalypse.json](./296276-zombie-parkour-apocalypse.json) |
 | Zombie Parkour Runner | 363938 | [363938-zombie-parkour-runner.json](./363938-zombie-parkour-runner.json) |
 | Zombie Parkour Runner Plus | 364047 | [364047-zombie-parkour-runner-plus.json](./364047-zombie-parkour-runner-plus.json) |
 | Zombie Party | 258556 | [258556-zombie-party.json](./258556-zombie-party.json) |
