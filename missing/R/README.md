@@ -3547,6 +3547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
+| Relic Guardian | 258339 | [258339-relic-guardian.json](./258339-relic-guardian.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
 | Relic Hunt | 340706 | [340706-relic-hunt.json](./340706-relic-hunt.json) |
 | Relic Hunt | 361602 | [361602-relic-hunt.json](./361602-relic-hunt.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royale Storm Bowling | 116217 | [116217-royale-storm-bowling.json](./116217-royale-storm-bowling.json) |
 | Royalevia | 254764 | [254764-royalevia.json](./254764-royalevia.json) |
 | Royals | 128422 | [128422-royals.json](./128422-royals.json) |
+| Royalty | 258349 | [258349-royalty.json](./258349-royalty.json) |
 | Royalty Free-For-All | 321417 | [321417-royalty-free-for-all.json](./321417-royalty-free-for-all.json) |
 | Royelles - Gaming For Girls | 255629 | [255629-royelles-gaming-for-girls.json](./255629-royelles-gaming-for-girls.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
@@ -9174,6 +9176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
 | Rune Classic | 102113 | [102113-rune-classic.json](./102113-rune-classic.json) |
+| Rune Coliseum: Chained Warrior | 258351 | [258351-rune-coliseum-chained-warrior.json](./258351-rune-coliseum-chained-warrior.json) |
 | Rune Defender | 296676 | [296676-rune-defender.json](./296676-rune-defender.json) |
 | Rune Dice | 345982 | [345982-rune-dice.json](./345982-rune-dice.json) |
 | Rune Factory 3 Special | 217557 | [217557-rune-factory-3-special.json](./217557-rune-factory-3-special.json) |
@@ -9419,6 +9422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Troopers | 184657 | [184657-rush-troopers.json](./184657-rush-troopers.json) |
 | Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
 | Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
+| Rush: Run Up Super High | 258354 | [258354-rush-run-up-super-high.json](./258354-rush-run-up-super-high.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
 | Rush'n Attack | 90990 | [90990-rushn-attack.json](./90990-rushn-attack.json) |
