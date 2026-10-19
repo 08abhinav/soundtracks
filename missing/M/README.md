@@ -3767,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Levels for Doom II | 313171 | [313171-master-levels-for-doom-ii.json](./313171-master-levels-for-doom-ii.json) |
 | Master Levels for Doom II | 8852 | [8852-master-levels-for-doom-ii.json](./8852-master-levels-for-doom-ii.json) |
 | Master Levels For Doom II | 218171 | [218171-master-levels-for-doom-ii.json](./218171-master-levels-for-doom-ii.json) |
+| Master Maker 3D Ultimate | 284785 | [284785-master-maker-3d-ultimate.json](./284785-master-maker-3d-ultimate.json) |
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
 | Master Mariner | 294404 | [294404-master-mariner.json](./294404-master-mariner.json) |
 | Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
@@ -13982,6 +13983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimind | 322244 | [322244-multimind.json](./322244-multimind.json) |
 | MultiMino 2: Polyform | 337569 | [337569-multimino-2-polyform.json](./337569-multimino-2-polyform.json) |
 | Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
+| Multiplayer BattleTech: 3025 | 284781 | [284781-multiplayer-battletech-3025.json](./284781-multiplayer-battletech-3025.json) |
 | Multiplayer Bots | 275848 | [275848-multiplayer-bots.json](./275848-multiplayer-bots.json) |
 | Multiplayer Citizens | 384206 | [384206-multiplayer-citizens.json](./384206-multiplayer-citizens.json) |
 | Multiplayer Drone Simulator | 267839 | [267839-multiplayer-drone-simulator.json](./267839-multiplayer-drone-simulator.json) |
