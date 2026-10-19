@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umbra: Journey Home | 173300 | [173300-umbra-journey-home.json](./173300-umbra-journey-home.json) |
 | Umbra: Shadow of Death | 34027 | [34027-umbra-shadow-of-death.json](./34027-umbra-shadow-of-death.json) |
 | Umbra: The Last Summoner | 278346 | [278346-umbra-the-last-summoner.json](./278346-umbra-the-last-summoner.json) |
+| Umbra: Veins of Vengeance | 262822 | [262822-umbra-veins-of-vengeance.json](./262822-umbra-veins-of-vengeance.json) |
 | Umbral | 273389 | [273389-umbral.json](./273389-umbral.json) |
 | Umbral Astral Dreamers | 333440 | [333440-umbral-astral-dreamers.json](./333440-umbral-astral-dreamers.json) |
 | Umbral Core | 219257 | [219257-umbral-core.json](./219257-umbral-core.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrest: Special Edition | 51792 | [51792-unrest-special-edition.json](./51792-unrest-special-edition.json) |
 | Unrested Development | 68579 | [68579-unrested-development.json](./68579-unrested-development.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
+| Unrestricted Pest Control | 262824 | [262824-unrestricted-pest-control.json](./262824-unrestricted-pest-control.json) |
 | Unriddle | 187435 | [187435-unriddle.json](./187435-unriddle.json) |
 | Unrivaled | 421359 | [421359-unrivaled.json](./421359-unrivaled.json) |
 | Unrivaled Heroes | 278933 | [278933-unrivaled-heroes.json](./278933-unrivaled-heroes.json) |
