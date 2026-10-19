@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hope: Pink Bullets | 45817 | [45817-last-hope-pink-bullets.json](./45817-last-hope-pink-bullets.json) |
 | Last Hopeless | 255991 | [255991-last-hopeless.json](./255991-last-hopeless.json) |
 | Last Hour | 192175 | [192175-last-hour.json](./192175-last-hour.json) |
+| Last Hour of an Epic to the Moon RPG | 274905 | [274905-last-hour-of-an-epic-to-the-moon-rpg.json](./274905-last-hour-of-an-epic-to-the-moon-rpg.json) |
 | Last Hours of Jack | 28668 | [28668-last-hours-of-jack.json](./28668-last-hours-of-jack.json) |
 | Last House Survival: Zombie Defense | 371422 | [371422-last-house-survival-zombie-defense.json](./371422-last-house-survival-zombie-defense.json) |
 | Last Idea | 115448 | [115448-last-idea.json](./115448-last-idea.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Himari | 91221 | [91221-legend-of-himari.json](./91221-legend-of-himari.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
+| Legend of Inca: Mystical Culture | 274909 | [274909-legend-of-inca-mystical-culture.json](./274909-legend-of-inca-mystical-culture.json) |
 | Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
 | Legend of John: Lingering Blood | 308050 | [308050-legend-of-john-lingering-blood.json](./308050-legend-of-john-lingering-blood.json) |
 | Legend of Johnny | 366351 | [366351-legend-of-johnny.json](./366351-legend-of-johnny.json) |
@@ -2684,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Build a Zoo: Aquarium Odyssey Bundle | 262056 | [262056-lets-build-a-zoo-aquarium-odyssey-bundle.json](./262056-lets-build-a-zoo-aquarium-odyssey-bundle.json) |
 | Let's Build a Zoo: Ultimate Bundle | 262054 | [262054-lets-build-a-zoo-ultimate-bundle.json](./262054-lets-build-a-zoo-ultimate-bundle.json) |
 | Let's Bully Nash | 249320 | [249320-lets-bully-nash.json](./249320-lets-bully-nash.json) |
+| Let's Catapult | 274912 | [274912-lets-catapult.json](./274912-lets-catapult.json) |
 | Let's Catch | 21352 | [21352-lets-catch.json](./21352-lets-catch.json) |
 | Let's Cheer! | 20241 | [20241-lets-cheer.json](./20241-lets-cheer.json) |
 | Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
