@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceanspirit Dennis: Mighty Pirate | 327231 | [327231-oceanspirit-dennis-mighty-pirate.json](./327231-oceanspirit-dennis-mighty-pirate.json) |
 | Oceanum Mortis | 120810 | [120810-oceanum-mortis.json](./120810-oceanum-mortis.json) |
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
+| Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochaken no Heya DS | 123367 | [123367-ochaken-no-heya-ds.json](./123367-ochaken-no-heya-ds.json) |
 | Ochaken no Heya DS 2 | 123368 | [123368-ochaken-no-heya-ds-2.json](./123368-ochaken-no-heya-ds-2.json) |
