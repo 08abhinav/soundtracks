@@ -4164,6 +4164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Involuntary Fighting Simulator | 393974 | [393974-involuntary-fighting-simulator.json](./393974-involuntary-fighting-simulator.json) |
 | Involve | 384289 | [384289-involve.json](./384289-involve.json) |
 | Involved | 124649 | [124649-involved.json](./124649-involved.json) |
+| Invs | 266641 | [266641-invs.json](./266641-invs.json) |
 | Inwai Kyoudan: Kegarenaki Joseito o Okasu Tame no Seiiki | 108941 | [108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json](./108941-inwai-kyoudan-kegarenaki-joseito-o-okasu-tame-no-seiiki.json) |
 | Inyoku Shoujo | 385275 | [385275-inyoku-shoujo.json](./385275-inyoku-shoujo.json) |
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
