@@ -662,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
 | Nathan Jones and The Empty Century | 283277 | [283277-nathan-jones-and-the-empty-century.json](./283277-nathan-jones-and-the-empty-century.json) |
+| Nathan Jones and The Eternal Myth | 266060 | [266060-nathan-jones-and-the-eternal-myth.json](./266060-nathan-jones-and-the-eternal-myth.json) |
 | Nathan Morgan: Dilemma | 295085 | [295085-nathan-morgan-dilemma.json](./295085-nathan-morgan-dilemma.json) |
 | Nation Red | 21115 | [21115-nation-red.json](./21115-nation-red.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
