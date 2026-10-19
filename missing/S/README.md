@@ -1173,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandmason | 17278 | [17278-sandmason.json](./17278-sandmason.json) |
 | Sandnight Hill Revelation | 382768 | [382768-sandnight-hill-revelation.json](./382768-sandnight-hill-revelation.json) |
 | Sandoria | 241890 | [241890-sandoria.json](./241890-sandoria.json) |
+| Sandpit | 259422 | [259422-sandpit.json](./259422-sandpit.json) |
 | Sandra and Woo in the Cursed Adventure | 28809 | [28809-sandra-and-woo-in-the-cursed-adventure.json](./28809-sandra-and-woo-in-the-cursed-adventure.json) |
 | Sandrail Race | 345056 | [345056-sandrail-race.json](./345056-sandrail-race.json) |
 | Sandream | 195706 | [195706-sandream.json](./195706-sandream.json) |
@@ -4107,6 +4108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
 | Sensei, Issho ni Kitekuremasu ka? | 285876 | [285876-sensei-issho-ni-kitekuremasu-ka.json](./285876-sensei-issho-ni-kitekuremasu-ka.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
+| Senses in Decay | 259432 | [259432-senses-in-decay.json](./259432-senses-in-decay.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
 | Senshijidaino Kyoryu: Dinoprehis! | 309612 | [309612-senshijidaino-kyoryu-dinoprehis.json](./309612-senshijidaino-kyoryu-dinoprehis.json) |
@@ -5118,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Wrangler | 180613 | [180613-shadow-wrangler.json](./180613-shadow-wrangler.json) |
 | Shadow X Dash: Ring Collector | 104461 | [104461-shadow-x-dash-ring-collector.json](./104461-shadow-x-dash-ring-collector.json) |
 | Shadow XS | 197600 | [197600-shadow-xs.json](./197600-shadow-xs.json) |
+| Shadow Zone | 259393 | [259393-shadow-zone.json](./259393-shadow-zone.json) |
 | Shadow: Treachery Cannot Be Tolerated | 90309 | [90309-shadow-treachery-cannot-be-tolerated.json](./90309-shadow-treachery-cannot-be-tolerated.json) |
 | Shadow: Treachery Cannot Be Tolerated - Episode 2: Retaliation | 171950 | [171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json](./171950-shadow-treachery-cannot-be-tolerated-episode-2-retaliation.json) |
 | Shadow: War of Succession | 4325 | [4325-shadow-war-of-succession.json](./4325-shadow-war-of-succession.json) |
@@ -11207,6 +11210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ops 3D | 88297 | [88297-sniper-ops-3d.json](./88297-sniper-ops-3d.json) |
 | Sniper Rescue | 291172 | [291172-sniper-rescue.json](./291172-sniper-rescue.json) |
 | Sniper Road | 190956 | [190956-sniper-road.json](./190956-sniper-road.json) |
+| Sniper Rush | 259435 | [259435-sniper-rush.json](./259435-sniper-rush.json) |
 | Sniper Scope: Realistic Tactical Shooter | 336397 | [336397-sniper-scope-realistic-tactical-shooter.json](./336397-sniper-scope-realistic-tactical-shooter.json) |
 | Sniper Shooter 3D: SWAT Missions Pro | 86719 | [86719-sniper-shooter-3d-swat-missions-pro.json](./86719-sniper-shooter-3d-swat-missions-pro.json) |
 | Sniper Shooter: Gun Shooting | 86982 | [86982-sniper-shooter-gun-shooting.json](./86982-sniper-shooter-gun-shooting.json) |
@@ -18522,6 +18526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
+| Stargate: TC SG-1 Missions | 259427 | [259427-stargate-tc-sg-1-missions.json](./259427-stargate-tc-sg-1-missions.json) |
 | Stargate: Timekeepers | 147164 | [147164-stargate-timekeepers.json](./147164-stargate-timekeepers.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargazer | 35173 | [35173-stargazer.json](./35173-stargazer.json) |
@@ -21691,6 +21696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
+| Sudoku | 259415 | [259415-sudoku.json](./259415-sudoku.json) |
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
 | Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
@@ -26597,6 +26603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndicate | 213885 | [213885-syndicate.json](./213885-syndicate.json) |
 | Syndicate | 213886 | [213886-syndicate.json](./213886-syndicate.json) |
 | Syndicate | 49 | [49-syndicate.json](./49-syndicate.json) |
+| Syndicate Black Ops | 259425 | [259425-syndicate-black-ops.json](./259425-syndicate-black-ops.json) |
 | Syndicate Boyfriend: Gem Heist | 298975 | [298975-syndicate-boyfriend-gem-heist.json](./298975-syndicate-boyfriend-gem-heist.json) |
 | Syndicate of Souls | 267642 | [267642-syndicate-of-souls.json](./267642-syndicate-of-souls.json) |
 | Syndicate Plus | 77198 | [77198-syndicate-plus.json](./77198-syndicate-plus.json) |
