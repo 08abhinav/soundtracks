@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
+| Parasomnum | 269981 | [269981-parasomnum.json](./269981-parasomnum.json) |
 | Paratopic | 97690 | [97690-paratopic.json](./97690-paratopic.json) |
 | Paratopic + Food Truck Tycoon | 252703 | [252703-paratopic-food-truck-tycoon.json](./252703-paratopic-food-truck-tycoon.json) |
 | Paratopic + Urban Flow | 246894 | [246894-paratopic-urban-flow.json](./246894-paratopic-urban-flow.json) |
@@ -8960,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Arena | 268976 | [268976-polygon-arena.json](./268976-polygon-arena.json) |
 | Polygon Base | 274207 | [274207-polygon-base.json](./274207-polygon-base.json) |
 | Polygon Fantasy | 193813 | [193813-polygon-fantasy.json](./193813-polygon-fantasy.json) |
+| Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
@@ -11113,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Flight Simulator: Deluxe | 324128 | [324128-pro-flight-simulator-deluxe.json](./324128-pro-flight-simulator-deluxe.json) |
 | Pro Foosball | 63831 | [63831-pro-foosball.json](./63831-pro-foosball.json) |
 | Pro Football | 289866 | [289866-pro-football.json](./289866-pro-football.json) |
+| Pro Football Agent | 269972 | [269972-pro-football-agent.json](./269972-pro-football-agent.json) |
 | Pro Football Online | 388173 | [388173-pro-football-online.json](./388173-pro-football-online.json) |
 | Pro Gamer Manager | 34320 | [34320-pro-gamer-manager.json](./34320-pro-gamer-manager.json) |
 | Pro Gamer Tycoon | 103471 | [103471-pro-gamer-tycoon.json](./103471-pro-gamer-tycoon.json) |
@@ -12834,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
+| Punch the Garden | 269982 | [269982-punch-the-garden.json](./269982-punch-the-garden.json) |
 | Punch the Monkey! Game Edition | 66201 | [66201-punch-the-monkey-game-edition.json](./66201-punch-the-monkey-game-edition.json) |
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
