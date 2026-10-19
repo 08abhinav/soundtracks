@@ -1591,6 +1591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
+| 304 Seconds | 262835 | [262835-304-seconds.json](./262835-304-seconds.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
 | 307 Racing | 367763 | [367763-307-racing.json](./367763-307-racing.json) |
 | 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
@@ -1604,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 31 Unmarked Games | 179524 | [179524-31-unmarked-games.json](./179524-31-unmarked-games.json) |
 | 31-in-1 Mighty Mix | 270048 | [270048-31-in-1-mighty-mix.json](./270048-31-in-1-mighty-mix.json) |
 | 32 in 1 Game Special | 219508 | [219508-32-in-1-game-special.json](./219508-32-in-1-game-special.json) |
+| 32 Inch Nails | 262166 | [262166-32-inch-nails.json](./262166-32-inch-nails.json) |
 | 32 Piece Cliptucky Fried Chicken Special | 260786 | [260786-32-piece-cliptucky-fried-chicken-special.json](./260786-32-piece-cliptucky-fried-chicken-special.json) |
 | 32 Secs | 148335 | [148335-32-secs.json](./148335-32-secs.json) |
 | 32-in-1 Games | 247015 | [247015-32-in-1-games.json](./247015-32-in-1-games.json) |
