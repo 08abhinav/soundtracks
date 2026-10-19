@@ -3564,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
+| Ai to Roudou no Hibi | 288085 | [288085-ai-to-roudou-no-hibi.json](./288085-ai-to-roudou-no-hibi.json) |
 | Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana | 250332 | [250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json](./250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json) |
 | Ai to Yume no Kuni Sanrio Puroland: Chanto Dekirukana? Minna to Tanoshii Oyuugikai | 250333 | [250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json](./250333-ai-to-yume-no-kuni-sanrio-puroland-chanto-dekirukana-minna-to-tanoshii-oyuugikai.json) |
 | Ai to Yume to Bouken Sanrio Puroland! | 250334 | [250334-ai-to-yume-to-bouken-sanrio-puroland.json](./250334-ai-to-yume-to-bouken-sanrio-puroland.json) |
@@ -10511,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
+| Artifact | 288042 | [288042-artifact.json](./288042-artifact.json) |
 | Artifact | 54572 | [54572-artifact.json](./54572-artifact.json) |
 | Artifact | 79826 | [79826-artifact.json](./79826-artifact.json) |
 | Artifact Adventure | 26468 | [26468-artifact-adventure.json](./26468-artifact-adventure.json) |
