@@ -4252,6 +4252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dei Agminum | 356252 | [356252-dei-agminum.json](./356252-dei-agminum.json) |
 | Deicide | 191481 | [191481-deicide.json](./191481-deicide.json) |
 | Deicide 3: Distorted Existence | 194293 | [194293-deicide-3-distorted-existence.json](./194293-deicide-3-distorted-existence.json) |
+| Deidthraw | 267266 | [267266-deidthraw.json](./267266-deidthraw.json) |
 | Deified | 381183 | [381183-deified.json](./381183-deified.json) |
 | Deiity | 371367 | [371367-deiity.json](./371367-deiity.json) |
 | Deiland | 174626 | [174626-deiland.json](./174626-deiland.json) |
