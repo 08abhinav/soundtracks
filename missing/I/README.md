@@ -4445,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Guild | 417935 | [417935-isekai-guild.json](./417935-isekai-guild.json) |
 | Isekai Harem Quest: Love, Blades, and Power | 334180 | [334180-isekai-harem-quest-love-blades-and-power.json](./334180-isekai-harem-quest-love-blades-and-power.json) |
 | Isekai HKV | 388726 | [388726-isekai-hkv.json](./388726-isekai-hkv.json) |
+| Isekai Infinity: Worlds Unleashed | 291852 | [291852-isekai-infinity-worlds-unleashed.json](./291852-isekai-infinity-worlds-unleashed.json) |
 | Isekai Janken Hero | 220039 | [220039-isekai-janken-hero.json](./220039-isekai-janken-hero.json) |
 | Isekai Mage | 345689 | [345689-isekai-mage.json](./345689-isekai-mage.json) |
 | Isekai Mining Defense | 348229 | [348229-isekai-mining-defense.json](./348229-isekai-mining-defense.json) |
