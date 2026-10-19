@@ -1548,6 +1548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat Raze / Road to Riches: Tilt Five | 341308 | [341308-rat-raze-road-to-riches-tilt-five.json](./341308-rat-raze-road-to-riches-tilt-five.json) |
 | Rat Simulator | 29405 | [29405-rat-simulator.json](./29405-rat-simulator.json) |
 | Rat Toy | 351197 | [351197-rat-toy.json](./351197-rat-toy.json) |
+| Rat Trap | 280113 | [280113-rat-trap.json](./280113-rat-trap.json) |
 | Rat vs. Cat | 242794 | [242794-rat-vs-cat.json](./242794-rat-vs-cat.json) |
 | Rat Wars Survivors | 281463 | [281463-rat-wars-survivors.json](./281463-rat-wars-survivors.json) |
 | Rat Wrap | 342769 | [342769-rat-wrap.json](./342769-rat-wrap.json) |
@@ -3334,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
+| Regular Fit | 280108 | [280108-regular-fit.json](./280108-regular-fit.json) |
 | Regular Friday Night | 298719 | [298719-regular-friday-night.json](./298719-regular-friday-night.json) |
 | Regular Home Renovation Simulator Prototype | 231866 | [231866-regular-home-renovation-simulator-prototype.json](./231866-regular-home-renovation-simulator-prototype.json) |
 | Regular Human Workshop | 207721 | [207721-regular-human-workshop.json](./207721-regular-human-workshop.json) |
@@ -7583,6 +7585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
 | Roll Out | 43151 | [43151-roll-out.json](./43151-roll-out.json) |
+| Roll Over Princess | 280116 | [280116-roll-over-princess.json](./280116-roll-over-princess.json) |
 | Roll Player | 200527 | [200527-roll-player.json](./200527-roll-player.json) |
 | Roll Prix | 120252 | [120252-roll-prix.json](./120252-roll-prix.json) |
 | Roll the Ball | 273418 | [273418-roll-the-ball.json](./273418-roll-the-ball.json) |
@@ -8105,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
 | Rop | 79183 | [79183-rop.json](./79183-rop.json) |
+| RoPan | 280082 | [280082-ropan.json](./280082-ropan.json) |
 | Rope | 138809 | [138809-rope.json](./138809-rope.json) |
 | Rope & Ball | 262639 | [262639-rope-and-ball.json](./262639-rope-and-ball.json) |
 | Rope and Balls | 208960 | [208960-rope-and-balls.json](./208960-rope-and-balls.json) |
