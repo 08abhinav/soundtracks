@@ -4758,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
+| Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
 | Witches' Legacy: Dark Days to Come - Collector's Edition | 415974 | [415974-witches-legacy-dark-days-to-come-collectors-edition.json](./415974-witches-legacy-dark-days-to-come-collectors-edition.json) |
