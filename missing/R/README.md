@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Adventures: Pet Vet | 123384 | [123384-real-adventures-pet-vet.json](./123384-real-adventures-pet-vet.json) |
 | Real Adventures: Wild Horses | 123383 | [123383-real-adventures-wild-horses.json](./123383-real-adventures-wild-horses.json) |
 | Real Al's Humanity Academy | 115009 | [115009-real-als-humanity-academy.json](./115009-real-als-humanity-academy.json) |
+| Real Anime Situation! 2 | 286987 | [286987-real-anime-situation-2.json](./286987-real-anime-situation-2.json) |
 | Real Anime Situation! DT | 314992 | [314992-real-anime-situation-dt.json](./314992-real-anime-situation-dt.json) |
 | Real Arcade Bike | 126498 | [126498-real-arcade-bike.json](./126498-real-arcade-bike.json) |
 | Real Baseball 2022 | 228008 | [228008-real-baseball-2022.json](./228008-real-baseball-2022.json) |
@@ -5291,8 +5292,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Far East Pack | 271287 | [271287-ride-5-far-east-pack.json](./271287-ride-5-far-east-pack.json) |
 | Ride 5: Free Pack 01 | 271286 | [271286-ride-5-free-pack-01.json](./271286-ride-5-free-pack-01.json) |
 | Ride 5: Free Pack 02 | 276288 | [276288-ride-5-free-pack-02.json](./276288-ride-5-free-pack-02.json) |
+| Ride 5: Free Pack 04 | 286993 | [286993-ride-5-free-pack-04.json](./286993-ride-5-free-pack-04.json) |
 | Ride 5: Free Pack 05 | 292671 | [292671-ride-5-free-pack-05.json](./292671-ride-5-free-pack-05.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
+| Ride 5: Racing Icons Pack | 286994 | [286994-ride-5-racing-icons-pack.json](./286994-ride-5-racing-icons-pack.json) |
 | Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
 | Ride 5: Speed With Style Pack | 293411 | [293411-ride-5-speed-with-style-pack.json](./293411-ride-5-speed-with-style-pack.json) |
 | Ride Control Ultimate | 243403 | [243403-ride-control-ultimate.json](./243403-ride-control-ultimate.json) |
