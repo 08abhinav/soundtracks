@@ -3688,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Lust [18+] | 344971 | [344971-hentai-girls-lust-18.json](./344971-hentai-girls-lust-18.json) |
 | Hentai Girls: Magnificent Edition | 298572 | [298572-hentai-girls-magnificent-edition.json](./298572-hentai-girls-magnificent-edition.json) |
 | Hentai Girls: Marvelous Magician | 332493 | [332493-hentai-girls-marvelous-magician.json](./332493-hentai-girls-marvelous-magician.json) |
+| Hentai Girls: Mommy Milkers | 294018 | [294018-hentai-girls-mommy-milkers.json](./294018-hentai-girls-mommy-milkers.json) |
 | Hentai Girls: Naughty Astronaut | 342402 | [342402-hentai-girls-naughty-astronaut.json](./342402-hentai-girls-naughty-astronaut.json) |
 | Hentai Girls: Naughty Gamer | 292159 | [292159-hentai-girls-naughty-gamer.json](./292159-hentai-girls-naughty-gamer.json) |
 | Hentai Girls: Neko Pastry | 196785 | [196785-hentai-girls-neko-pastry.json](./196785-hentai-girls-neko-pastry.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Miko | 236186 | [236186-hentai-miko.json](./236186-hentai-miko.json) |
 | Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
+| Hentai MILF Chloe | 293998 | [293998-hentai-milf-chloe.json](./293998-hentai-milf-chloe.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
 | Hentai Milf Quiz 3 | 157897 | [157897-hentai-milf-quiz-3.json](./157897-hentai-milf-quiz-3.json) |
 | Hentai Milf Syndicate | 368076 | [368076-hentai-milf-syndicate.json](./368076-hentai-milf-syndicate.json) |
@@ -4923,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
+| Hi There | 293996 | [293996-hi-there.json](./293996-hi-there.json) |
 | Hi-5 DVD Game | 274991 | [274991-hi-5-dvd-game.json](./274991-hi-5-dvd-game.json) |
 | Hi-5: Fun & Games | 274993 | [274993-hi-5-fun-and-games.json](./274993-hi-5-fun-and-games.json) |
 | Hi-5: Fun Club | 274992 | [274992-hi-5-fun-club.json](./274992-hi-5-fun-club.json) |
@@ -6268,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HocusDOOM | 201232 | [201232-hocusdoom.json](./201232-hocusdoom.json) |
 | HoCWar | 31729 | [31729-hocwar.json](./31729-hocwar.json) |
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
+| Hode | 293969 | [293969-hode.json](./293969-hode.json) |
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
 | Hodgepodge Hunch | 249082 | [249082-hodgepodge-hunch.json](./249082-hodgepodge-hunch.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
