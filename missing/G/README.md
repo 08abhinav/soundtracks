@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game, Game, Game, and again Game | 231840 | [231840-game-game-game-and-again-game.json](./231840-game-game-game-and-again-game.json) |
 | Game, Net & Match! | 85732 | [85732-game-net-and-match.json](./85732-game-net-and-match.json) |
 | Game, Set & Match | 41002 | [41002-game-set-and-match.json](./41002-game-set-and-match.json) |
+| Game.bps | 277153 | [277153-game-bps.json](./277153-game-bps.json) |
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
@@ -5733,6 +5734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
 | Grand Poo World | 138218 | [138218-grand-poo-world.json](./138218-grand-poo-world.json) |
 | Grand Poo World II | 138219 | [138219-grand-poo-world-ii.json](./138219-grand-poo-world-ii.json) |
+| Grand Poo World III | 277198 | [277198-grand-poo-world-iii.json](./277198-grand-poo-world-iii.json) |
 | Grand Prix | 18103 | [18103-grand-prix.json](./18103-grand-prix.json) |
 | Grand Prix | 195040 | [195040-grand-prix.json](./195040-grand-prix.json) |
 | Grand Prix | 234094 | [234094-grand-prix.json](./234094-grand-prix.json) |
