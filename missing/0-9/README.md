@@ -90,9 +90,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | "Omori" "Mod" Made to Appeal to "Omori" "Fans" | 255559 | [255559-omori-mod-made-to-appeal-to-omori-fans.json](./255559-omori-mod-made-to-appeal-to-omori-fans.json) |
 | "Out" file#01 | 237475 | [237475-out-file-01.json](./237475-out-file-01.json) |
 | "Out2" out of file | 237476 | [237476-out2-out-of-file.json](./237476-out2-out-of-file.json) |
+| "So, About Last Night..." | 275465 | [275465-so-about-last-night.json](./275465-so-about-last-night.json) |
 | "Two Draw" | 74340 | [74340-two-draw.json](./74340-two-draw.json) |
 | (A)woken | 307298 | [307298-a-woken.json](./307298-a-woken.json) |
 | (heart) Sudoku | 86731 | [86731-heart-sudoku.json](./86731-heart-sudoku.json) |
+| (I see) Nothing | 275478 | [275478-i-see-nothing.json](./275478-i-see-nothing.json) |
 | (Neg)Entropic Wandering | 309451 | [309451-neg-entropic-wandering.json](./309451-neg-entropic-wandering.json) |
 | (O_O) | 209770 | [209770-o-o.json](./209770-o-o.json) |
 | (T)Raumschiff Surprise - Periode 1 | 131283 | [131283-t-raumschiff-surprise-periode-1.json](./131283-t-raumschiff-surprise-periode-1.json) |
