@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
+| A College of Thirst & Claws: Season 1 | 301678 | [301678-a-college-of-thirst-and-claws-season-1.json](./301678-a-college-of-thirst-and-claws-season-1.json) |
 | A Coloring Break | 326233 | [326233-a-coloring-break.json](./326233-a-coloring-break.json) |
 | A Coloring Break: Expansion pack 1 | 357765 | [357765-a-coloring-break-expansion-pack-1.json](./357765-a-coloring-break-expansion-pack-1.json) |
 | A Coloring Break: Expansion pack 10 | 357766 | [357766-a-coloring-break-expansion-pack-10.json](./357766-a-coloring-break-expansion-pack-10.json) |
@@ -255,10 +256,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
+| A Few Days With: Cassandra | 301682 | [301682-a-few-days-with-cassandra.json](./301682-a-few-days-with-cassandra.json) |
 | A Few Days With: Emma | 326177 | [326177-a-few-days-with-emma.json](./326177-a-few-days-with-emma.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
+| A Few Days With: Rebecca | 301683 | [301683-a-few-days-with-rebecca.json](./301683-a-few-days-with-rebecca.json) |
 | A Few Days With: The Fairies | 392953 | [392953-a-few-days-with-the-fairies.json](./392953-a-few-days-with-the-fairies.json) |
 | A Few Days With: Valentina | 337797 | [337797-a-few-days-with-valentina.json](./337797-a-few-days-with-valentina.json) |
+| A Few Days With: Violette | 301684 | [301684-a-few-days-with-violette.json](./301684-a-few-days-with-violette.json) |
 | A Few Minutes of Glory | 216159 | [216159-a-few-minutes-of-glory.json](./216159-a-few-minutes-of-glory.json) |
 | A Few Nights With: Francesca | 371042 | [371042-a-few-nights-with-francesca.json](./371042-a-few-nights-with-francesca.json) |
 | A Few Nights With: Margaret | 371041 | [371041-a-few-nights-with-margaret.json](./371041-a-few-nights-with-margaret.json) |
@@ -272,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Firm Handshake | 176349 | [176349-a-firm-handshake.json](./176349-a-firm-handshake.json) |
 | A Fisherman's Tale 2 | 239554 | [239554-a-fishermans-tale-2.json](./239554-a-fishermans-tale-2.json) |
 | A Fishy RPG | 181101 | [181101-a-fishy-rpg.json](./181101-a-fishy-rpg.json) |
+| A Fistful of Yankees | 301686 | [301686-a-fistful-of-yankees.json](./301686-a-fistful-of-yankees.json) |
 | A Five-Day Tour in the Morgue | 117580 | [117580-a-five-day-tour-in-the-morgue.json](./117580-a-five-day-tour-in-the-morgue.json) |
 | A Flappy Bird in Real Life | 111077 | [111077-a-flappy-bird-in-real-life.json](./111077-a-flappy-bird-in-real-life.json) |
 | A Flicker of Light | 188449 | [188449-a-flicker-of-light.json](./188449-a-flicker-of-light.json) |
@@ -1401,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abrams Tank | 31567 | [31567-abrams-tank.json](./31567-abrams-tank.json) |
 | Abrapalabra: La Magia de Aprender a Leer | 307198 | [307198-abrapalabra-la-magia-de-aprender-a-leer.json](./307198-abrapalabra-la-magia-de-aprender-a-leer.json) |
 | Abrasion | 312659 | [312659-abrasion.json](./312659-abrasion.json) |
+| AbraTabia Kingdom | 301593 | [301593-abratabia-kingdom.json](./301593-abratabia-kingdom.json) |
 | Abraxas | 263384 | [263384-abraxas.json](./263384-abraxas.json) |
 | Abraxas | 293244 | [293244-abraxas.json](./293244-abraxas.json) |
 | Abribus | 25751 | [25751-abribus.json](./25751-abribus.json) |
@@ -1719,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accursed Isle: Survival | 358060 | [358060-accursed-isle-survival.json](./358060-accursed-isle-survival.json) |
 | Accuwar | 76632 | [76632-accuwar.json](./76632-accuwar.json) |
 | Ace | 249277 | [249277-ace.json](./249277-ace.json) |
+| Ace | 301591 | [301591-ace.json](./301591-ace.json) |
 | ACE | 13282 | [13282-ace.json](./13282-ace.json) |
 | ACE | 329181 | [329181-ace.json](./329181-ace.json) |
 | ACE | 329185 | [329185-ace.json](./329185-ace.json) |
@@ -1947,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquisition War | 148502 | [148502-acquisition-war.json](./148502-acquisition-war.json) |
 | Acquittal: Induction | 302599 | [302599-acquittal-induction.json](./302599-acquittal-induction.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
+| Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
 | Acre: Last Stand | 381299 | [381299-acre-last-stand.json](./381299-acre-last-stand.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
@@ -1987,7 +1995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
+| Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
+| Act Normal! | 301690 | [301690-act-normal.json](./301690-act-normal.json) |
 | Act of Aggression | 8920 | [8920-act-of-aggression.json](./8920-act-of-aggression.json) |
 | Act of Aggression: Reboot Edition | 52552 | [52552-act-of-aggression-reboot-edition.json](./52552-act-of-aggression-reboot-edition.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
@@ -2300,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adult Sheriff | 324154 | [324154-adult-sheriff.json](./324154-adult-sheriff.json) |
 | Adult Toy Store | 111066 | [111066-adult-toy-store.json](./111066-adult-toy-store.json) |
 | Adulting! | 181878 | [181878-adulting.json](./181878-adulting.json) |
+| Aduro | 301596 | [301596-aduro.json](./301596-aduro.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
 | Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
@@ -2499,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Mosaics: Winter Holidays | 294203 | [294203-adventure-mosaics-winter-holidays.json](./294203-adventure-mosaics-winter-holidays.json) |
 | Adventure of a Digger | 103425 | [103425-adventure-of-a-digger.json](./103425-adventure-of-a-digger.json) |
 | Adventure of a Lifetime | 97221 | [97221-adventure-of-a-lifetime.json](./97221-adventure-of-a-lifetime.json) |
+| Adventure Of Baldero I and II | 301597 | [301597-adventure-of-baldero-i-and-ii.json](./301597-adventure-of-baldero-i-and-ii.json) |
 | Adventure of Egypt | 227853 | [227853-adventure-of-egypt.json](./227853-adventure-of-egypt.json) |
 | Adventure of Elysia | 219702 | [219702-adventure-of-elysia.json](./219702-adventure-of-elysia.json) |
 | Adventure of Great Wolf | 118813 | [118813-adventure-of-great-wolf.json](./118813-adventure-of-great-wolf.json) |
@@ -2710,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
+| Aerial Cleaner | 301680 | [301680-aerial-cleaner.json](./301680-aerial-cleaner.json) |
 | Aerial Destruction | 26123 | [26123-aerial-destruction.json](./26123-aerial-destruction.json) |
 | Aerial Guardian | 104830 | [104830-aerial-guardian.json](./104830-aerial-guardian.json) |
 | Aerial Lockdown | 337421 | [337421-aerial-lockdown.json](./337421-aerial-lockdown.json) |
@@ -2842,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
 | Aether Effect | 357787 | [357787-aether-effect.json](./357787-aether-effect.json) |
 | Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
+| Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
@@ -3049,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
+| Afterlife | 301685 | [301685-afterlife.json](./301685-afterlife.json) |
 | Afterlife Beans | 164979 | [164979-afterlife-beans.json](./164979-afterlife-beans.json) |
 | Afterlife Connections LLC | 307715 | [307715-afterlife-connections-llc.json](./307715-afterlife-connections-llc.json) |
 | Afterlife Harem | 316822 | [316822-afterlife-harem.json](./316822-afterlife-harem.json) |
@@ -3110,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 238378 | [238378-against-all-odds.json](./238378-against-all-odds.json) |
 | Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
+| Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
 | Against the Horde | 379503 | [379503-against-the-horde.json](./379503-against-the-horde.json) |
