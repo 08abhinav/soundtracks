@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helium | 33731 | [33731-helium.json](./33731-helium.json) |
 | Helium Electric | 190104 | [190104-helium-electric.json](./190104-helium-electric.json) |
 | Helium Rain | 51733 | [51733-helium-rain.json](./51733-helium-rain.json) |
+| Helium Run | 296735 | [296735-helium-run.json](./296735-helium-run.json) |
 | Helium Skies | 65808 | [65808-helium-skies.json](./65808-helium-skies.json) |
 | Helium Skies 2 | 67910 | [67910-helium-skies-2.json](./67910-helium-skies-2.json) |
 | HeliVR Simulator | 249472 | [249472-helivr-simulator.json](./249472-helivr-simulator.json) |
@@ -6383,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HolgiMan | 94213 | [94213-holgiman.json](./94213-holgiman.json) |
 | Holi-Zone 97 | 323269 | [323269-holi-zone-97.json](./323269-holi-zone-97.json) |
 | Holic Online | 72772 | [72772-holic-online.json](./72772-holic-online.json) |
+| Holiday Adventures: Hawaii | 296819 | [296819-holiday-adventures-hawaii.json](./296819-holiday-adventures-hawaii.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
@@ -6400,6 +6402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Jigsaw Easter | 169136 | [169136-holiday-jigsaw-easter.json](./169136-holiday-jigsaw-easter.json) |
 | Holiday Jigsaw Easter 4 | 296208 | [296208-holiday-jigsaw-easter-4.json](./296208-holiday-jigsaw-easter-4.json) |
 | Holiday Jigsaw Halloween | 168429 | [168429-holiday-jigsaw-halloween.json](./168429-holiday-jigsaw-halloween.json) |
+| Holiday Jigsaw Valentine's Day 3 | 296813 | [296813-holiday-jigsaw-valentines-day-3.json](./296813-holiday-jigsaw-valentines-day-3.json) |
 | Holiday Jigsaw Valentines Day | 54087 | [54087-holiday-jigsaw-valentines-day.json](./54087-holiday-jigsaw-valentines-day.json) |
 | Holiday Jigsaw: Christmas 2 | 215684 | [215684-holiday-jigsaw-christmas-2.json](./215684-holiday-jigsaw-christmas-2.json) |
 | Holiday Jigsaw: Thanksgiving Day | 192169 | [192169-holiday-jigsaw-thanksgiving-day.json](./192169-holiday-jigsaw-thanksgiving-day.json) |
