@@ -2082,6 +2082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis | 381046 | [381046-genesis.json](./381046-genesis.json) |
 | Genesis | 381047 | [381047-genesis.json](./381047-genesis.json) |
 | Genesis Alpha One: Deluxe Edition | 154543 | [154543-genesis-alpha-one-deluxe-edition.json](./154543-genesis-alpha-one-deluxe-edition.json) |
+| Genesis II | 296814 | [296814-genesis-ii.json](./296814-genesis-ii.json) |
 | Genesis Noir | 27413 | [27413-genesis-noir.json](./27413-genesis-noir.json) |
 | Genesis Noir: The Cosmic Collection | 169188 | [169188-genesis-noir-the-cosmic-collection.json](./169188-genesis-noir-the-cosmic-collection.json) |
 | Genesis of a Small God | 241285 | [241285-genesis-of-a-small-god.json](./241285-genesis-of-a-small-god.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
+| Genshin Impact: Two Worlds Aflame, the Crimson Night Fades | 296820 | [296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json](./296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json) |
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Genso Chronicles | 286881 | [286881-genso-chronicles.json](./286881-genso-chronicles.json) |
 | Genso Flood Front | 214768 | [214768-genso-flood-front.json](./214768-genso-flood-front.json) |
@@ -5090,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight, B | 411801 | [411801-goodnight-b.json](./411801-goodnight-b.json) |
 | Goodnight, Sun | 419900 | [419900-goodnight-sun.json](./419900-goodnight-sun.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
+| Goods Sorting 3 Match | 296746 | [296746-goods-sorting-3-match.json](./296746-goods-sorting-3-match.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
@@ -8094,6 +8097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Battle | 245967 | [245967-gunship-battle.json](./245967-gunship-battle.json) |
 | Gunship Battle: Crypto Conflict | 208828 | [208828-gunship-battle-crypto-conflict.json](./208828-gunship-battle-crypto-conflict.json) |
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
+| Gunship DX | 296821 | [296821-gunship-dx.json](./296821-gunship-dx.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
 | Gunship III | 88489 | [88489-gunship-iii.json](./88489-gunship-iii.json) |
