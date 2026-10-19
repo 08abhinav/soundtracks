@@ -2739,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelgram | 122807 | [122807-voxelgram.json](./122807-voxelgram.json) |
 | Voxelgram + Voxelgram 2 | 407275 | [407275-voxelgram-voxelgram-2.json](./407275-voxelgram-voxelgram-2.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
+| Voxelgram: DLC #1 | 306803 | [306803-voxelgram-dlc-1.json](./306803-voxelgram-dlc-1.json) |
 | Voxeliens | 53153 | [53153-voxeliens.json](./53153-voxeliens.json) |
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
