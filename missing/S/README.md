@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
 | Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
+| Scherzo | 276039 | [276039-scherzo.json](./276039-scherzo.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | SCHiM | 140799 | [140799-schim.json](./140799-schim.json) |
 | Schism | 136135 | [136135-schism.json](./136135-schism.json) |
@@ -4575,6 +4576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Diary: Swingers Yacht | 237484 | [237484-sex-diary-swingers-yacht.json](./237484-sex-diary-swingers-yacht.json) |
 | Sex Doll K-Pop Idol | 243155 | [243155-sex-doll-k-pop-idol.json](./243155-sex-doll-k-pop-idol.json) |
 | Sex Dorm | 349868 | [349868-sex-dorm.json](./349868-sex-dorm.json) |
+| Sex Drive | 276044 | [276044-sex-drive.json](./276044-sex-drive.json) |
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
 | Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
@@ -7338,6 +7340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Babylon Pack | 141185 | [141185-sid-meiers-civilization-vi-babylon-pack.json](./141185-sid-meiers-civilization-vi-babylon-pack.json) |
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
+| Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
 | Sid Meier's Civilization VI: John Riccitiello Pack | 277374 | [277374-sid-meiers-civilization-vi-john-riccitiello-pack.json](./277374-sid-meiers-civilization-vi-john-riccitiello-pack.json) |
 | Sid Meier's Civilization VI: Khmer and Indonesia Civilization & Scenario Pack | 164407 | [164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json](./164407-sid-meiers-civilization-vi-khmer-and-indonesia-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Klein Moretti Pack | 278097 | [278097-sid-meiers-civilization-vi-klein-moretti-pack.json](./278097-sid-meiers-civilization-vi-klein-moretti-pack.json) |
@@ -8954,6 +8957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
+| Skibidi Toilet India | 276076 | [276076-skibidi-toilet-india.json](./276076-skibidi-toilet-india.json) |
 | Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
@@ -9555,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slasher's Keep | 76256 | [76256-slashers-keep.json](./76256-slashers-keep.json) |
 | SlasherRPG | 224515 | [224515-slasherrpg.json](./224515-slasherrpg.json) |
 | Slashers: Great Circus | 220701 | [220701-slashers-great-circus.json](./220701-slashers-great-circus.json) |
+| Slashes | 276086 | [276086-slashes.json](./276086-slashes.json) |
 | Slashing Knight | 403053 | [403053-slashing-knight.json](./403053-slashing-knight.json) |
 | Slashing Night | 340365 | [340365-slashing-night.json](./340365-slashing-night.json) |
 | Slashing Samurai | 181779 | [181779-slashing-samurai.json](./181779-slashing-samurai.json) |
@@ -17064,6 +17069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Logic | 269206 | [269206-square-logic.json](./269206-square-logic.json) |
 | Square Love | 359554 | [359554-square-love.json](./359554-square-love.json) |
 | Square Massacre | 76526 | [76526-square-massacre.json](./76526-square-massacre.json) |
+| Square Meal | 276104 | [276104-square-meal.json](./276104-square-meal.json) |
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
@@ -20600,6 +20606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX2 Plus | 44965 | [44965-street-fighter-ex2-plus.json](./44965-street-fighter-ex2-plus.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
+| Street Fighter II | 276082 | [276082-street-fighter-ii.json](./276082-street-fighter-ii.json) |
 | Street Fighter II | 321621 | [321621-street-fighter-ii.json](./321621-street-fighter-ii.json) |
 | Street Fighter II | 321622 | [321622-street-fighter-ii.json](./321622-street-fighter-ii.json) |
 | Street Fighter II | 48280 | [48280-street-fighter-ii.json](./48280-street-fighter-ii.json) |
@@ -23847,6 +23854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nova Stadium | 165687 | [165687-super-nova-stadium.json](./165687-super-nova-stadium.json) |
 | Super Nova's Symphony | 177774 | [177774-super-novas-symphony.json](./177774-super-novas-symphony.json) |
 | Super Nudge 2000 | 72698 | [72698-super-nudge-2000.json](./72698-super-nudge-2000.json) |
+| Super Ocho Bros. | 276027 | [276027-super-ocho-bros.json](./276027-super-ocho-bros.json) |
 | Super Off Road | 245295 | [245295-super-off-road.json](./245295-super-off-road.json) |
 | Super Off Road | 365683 | [365683-super-off-road.json](./365683-super-off-road.json) |
 | Super Off Road | 365878 | [365878-super-off-road.json](./365878-super-off-road.json) |
