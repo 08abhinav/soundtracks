@@ -4551,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Shop - World Traveler | 53277 | [53277-little-shop-world-traveler.json](./53277-little-shop-world-traveler.json) |
 | Little Shop of Junk | 128995 | [128995-little-shop-of-junk.json](./128995-little-shop-of-junk.json) |
 | Little Shopping | 116126 | [116126-little-shopping.json](./116126-little-shopping.json) |
+| Little Shrimp: Legend Reborn | 271614 | [271614-little-shrimp-legend-reborn.json](./271614-little-shrimp-legend-reborn.json) |
 | Little Sick Girls: Kagami no Naka no Idol | 415135 | [415135-little-sick-girls-kagami-no-naka-no-idol.json](./415135-little-sick-girls-kagami-no-naka-no-idol.json) |
 | Little Sick Girls: Momo Mitsu ha Imouto no Kaori | 415137 | [415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json](./415137-little-sick-girls-momo-mitsu-ha-imouto-no-kaori.json) |
 | Little Sick Girls: Osananajimi no Koibito | 415134 | [415134-little-sick-girls-osananajimi-no-koibito.json](./415134-little-sick-girls-osananajimi-no-koibito.json) |
