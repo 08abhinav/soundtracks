@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Invaders | 221893 | [221893-galaxy-invaders.json](./221893-galaxy-invaders.json) |
+| Galaxy Invasion | 282428 | [282428-galaxy-invasion.json](./282428-galaxy-invasion.json) |
 | Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
