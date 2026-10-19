@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsolete | 142804 | [142804-obsolete.json](./142804-obsolete.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
+| Obsolete Souls Episode 0: Operation Haiti | 292939 | [292939-obsolete-souls-episode-0-operation-haiti.json](./292939-obsolete-souls-episode-0-operation-haiti.json) |
 | Obsolete: After the Accident | 319891 | [319891-obsolete-after-the-accident.json](./319891-obsolete-after-the-accident.json) |
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
 | Obstacle Challenge | 370991 | [370991-obstacle-challenge.json](./370991-obstacle-challenge.json) |
@@ -1112,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oleg Sobolev's ASCII Doom | 217783 | [217783-oleg-sobolevs-ascii-doom.json](./217783-oleg-sobolevs-ascii-doom.json) |
 | Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
 | Olga Doesn't Die | 388837 | [388837-olga-doesnt-die.json](./388837-olga-doesnt-die.json) |
+| Olga: Episode 1 | 292954 | [292954-olga-episode-1.json](./292954-olga-episode-1.json) |
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
@@ -4093,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
 | Overdawn | 372045 | [372045-overdawn.json](./372045-overdawn.json) |
 | Overdelivery | 224698 | [224698-overdelivery.json](./224698-overdelivery.json) |
+| Overdelivery: Delivery Simulator | 292923 | [292923-overdelivery-delivery-simulator.json](./292923-overdelivery-delivery-simulator.json) |
 | Overdose | 337695 | [337695-overdose.json](./337695-overdose.json) |
 | Overdose Delusion | 277493 | [277493-overdose-delusion.json](./277493-overdose-delusion.json) |
 | Overdosed VR | 152992 | [152992-overdosed-vr.json](./152992-overdosed-vr.json) |
