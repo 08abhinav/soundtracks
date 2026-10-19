@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
 | Elder Chaos | 74564 | [74564-elder-chaos.json](./74564-elder-chaos.json) |
 | Elder Gate | 166660 | [166660-elder-gate.json](./166660-elder-gate.json) |
+| Elder Gods Simulator | 285360 | [285360-elder-gods-simulator.json](./285360-elder-gods-simulator.json) |
 | Elder Goo | 114737 | [114737-elder-goo.json](./114737-elder-goo.json) |
 | Elder Kings II | 225709 | [225709-elder-kings-ii.json](./225709-elder-kings-ii.json) |
 | Elder Lich | 325514 | [325514-elder-lich.json](./325514-elder-lich.json) |
