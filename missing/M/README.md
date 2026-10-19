@@ -6553,6 +6553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory of The Waters | 277496 | [277496-memory-of-the-waters.json](./277496-memory-of-the-waters.json) |
 | Memory of Time | 339123 | [339123-memory-of-time.json](./339123-memory-of-time.json) |
 | Memory Patches | 264660 | [264660-memory-patches.json](./264660-memory-patches.json) |
+| Memory Puzzle Adventure | 285893 | [285893-memory-puzzle-adventure.json](./285893-memory-puzzle-adventure.json) |
 | Memory Puzzle: Futanari Boss | 212983 | [212983-memory-puzzle-futanari-boss.json](./212983-memory-puzzle-futanari-boss.json) |
 | Memory Puzzle: Futanari Doctor | 204945 | [204945-memory-puzzle-futanari-doctor.json](./204945-memory-puzzle-futanari-doctor.json) |
 | Memory Puzzle: Futanari Gym | 368623 | [368623-memory-puzzle-futanari-gym.json](./368623-memory-puzzle-futanari-gym.json) |
@@ -6571,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Trainer | 105238 | [105238-memory-trainer.json](./105238-memory-trainer.json) |
+| Memory Visiting | 285879 | [285879-memory-visiting.json](./285879-memory-visiting.json) |
 | Memory Wastes | 421376 | [421376-memory-wastes.json](./421376-memory-wastes.json) |
 | Memory Wonderland: Bond | 259083 | [259083-memory-wonderland-bond.json](./259083-memory-wonderland-bond.json) |
 | Memory: Match & Catch! | 58485 | [58485-memory-match-and-catch.json](./58485-memory-match-and-catch.json) |
@@ -13622,6 +13624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Jumpington 3 | 65793 | [65793-mr-jumpington-3.json](./65793-mr-jumpington-3.json) |
 | Mr. Jumpington 4 | 68743 | [68743-mr-jumpington-4.json](./68743-mr-jumpington-4.json) |
 | Mr. Kicker - Perfect Kick Soccer Game | 104583 | [104583-mr-kicker-perfect-kick-soccer-game.json](./104583-mr-kicker-perfect-kick-soccer-game.json) |
+| Mr. Kougar | 285863 | [285863-mr-kougar.json](./285863-mr-kougar.json) |
 | Mr. Krabs Overdoses on Ketamine | 141101 | [141101-mr-krabs-overdoses-on-ketamine.json](./141101-mr-krabs-overdoses-on-ketamine.json) |
 | Mr. Krabs Tax Evasion | 166526 | [166526-mr-krabs-tax-evasion.json](./166526-mr-krabs-tax-evasion.json) |
 | Mr. Krasnoludek, Teach Me Your Magic Spells | 169879 | [169879-mr-krasnoludek-teach-me-your-magic-spells.json](./169879-mr-krasnoludek-teach-me-your-magic-spells.json) |
@@ -13853,6 +13856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
 | Muck | 148397 | [148397-muck.json](./148397-muck.json) |
+| Mucorales | 285850 | [285850-mucorales.json](./285850-mucorales.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
