@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Deep Space | 94751 | [94751-tales-from-deep-space.json](./94751-tales-from-deep-space.json) |
 | Tales from Floating Abyss | 377705 | [377705-tales-from-floating-abyss.json](./377705-tales-from-floating-abyss.json) |
 | Tales From Galaxy 34 | 113027 | [113027-tales-from-galaxy-34.json](./113027-tales-from-galaxy-34.json) |
+| Tales from Hazelwood Post | 278899 | [278899-tales-from-hazelwood-post.json](./278899-tales-from-hazelwood-post.json) |
 | Tales from Heaven | 69570 | [69570-tales-from-heaven.json](./69570-tales-from-heaven.json) |
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
@@ -9304,6 +9305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of You | 390139 | [390139-the-legend-of-you.json](./390139-the-legend-of-you.json) |
 | The Legend of Young | 220691 | [220691-the-legend-of-young.json](./220691-the-legend-of-young.json) |
 | The Legend of Zelda Game Watch | 172501 | [172501-the-legend-of-zelda-game-watch.json](./172501-the-legend-of-zelda-game-watch.json) |
+| The Legend of Zelda GBC | 278876 | [278876-the-legend-of-zelda-gbc.json](./278876-the-legend-of-zelda-gbc.json) |
 | The Legend of Zelda Ocarina of Time 3D: First Edition | 89904 | [89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json](./89904-the-legend-of-zelda-ocarina-of-time-3d-first-edition.json) |
 | The Legend of Zelda Redux | 199417 | [199417-the-legend-of-zelda-redux.json](./199417-the-legend-of-zelda-redux.json) |
 | The Legend of Zelda Remastered | 260748 | [260748-the-legend-of-zelda-remastered.json](./260748-the-legend-of-zelda-remastered.json) |
@@ -10480,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Necromancer's Pact | 302187 | [302187-the-necromancers-pact.json](./302187-the-necromancers-pact.json) |
 | The Necromancer's Tower | 297566 | [297566-the-necromancers-tower.json](./297566-the-necromancers-tower.json) |
 | The Need for Speed | 90 | [90-the-need-for-speed.json](./90-the-need-for-speed.json) |
+| The Nefargad | 278871 | [278871-the-nefargad.json](./278871-the-nefargad.json) |
 | The Neighbor: Escape Room | 309505 | [309505-the-neighbor-escape-room.json](./309505-the-neighbor-escape-room.json) |
 | The Neighborhood | 180592 | [180592-the-neighborhood.json](./180592-the-neighborhood.json) |
 | The Neon Boy | 103964 | [103964-the-neon-boy.json](./103964-the-neon-boy.json) |
@@ -10953,6 +10956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
+| The Phantom Forest | 278909 | [278909-the-phantom-forest.json](./278909-the-phantom-forest.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
 | The Phantom of the Museum | 412937 | [412937-the-phantom-of-the-museum.json](./412937-the-phantom-of-the-museum.json) |
@@ -12002,6 +12006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadows That Run Alongside Our Car | 77595 | [77595-the-shadows-that-run-alongside-our-car.json](./77595-the-shadows-that-run-alongside-our-car.json) |
 | The Shadows Within: Nightmare's Game | 304615 | [304615-the-shadows-within-nightmares-game.json](./304615-the-shadows-within-nightmares-game.json) |
 | The Shaft | 232555 | [232555-the-shaft.json](./232555-the-shaft.json) |
+| The Shaft | 278907 | [278907-the-shaft.json](./278907-the-shaft.json) |
 | The Shafts of Damnation | 345016 | [345016-the-shafts-of-damnation.json](./345016-the-shafts-of-damnation.json) |
 | The Shaking Chalice | 337979 | [337979-the-shaking-chalice.json](./337979-the-shaking-chalice.json) |
 | The Shaman's Ark | 258119 | [258119-the-shamans-ark.json](./258119-the-shamans-ark.json) |
@@ -21793,6 +21798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tralalero Tralala: Escape Backrooms | 367977 | [367977-tralalero-tralala-escape-backrooms.json](./367977-tralalero-tralala-escape-backrooms.json) |
 | Tralalero Tralala: Survive the Night | 352385 | [352385-tralalero-tralala-survive-the-night.json](./352385-tralalero-tralala-survive-the-night.json) |
 | Tram Simulator Duesseldorf | 101082 | [101082-tram-simulator-duesseldorf.json](./101082-tram-simulator-duesseldorf.json) |
+| TramCity Hakodate | 278893 | [278893-tramcity-hakodate.json](./278893-tramcity-hakodate.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Tramp Simulator: Survival City Full | 223640 | [223640-tramp-simulator-survival-city-full.json](./223640-tramp-simulator-survival-city-full.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
