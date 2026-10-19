@@ -638,6 +638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
 | Jaws | 68385 | [68385-jaws.json](./68385-jaws.json) |
 | Jaws & Claws | 189070 | [189070-jaws-and-claws.json](./189070-jaws-and-claws.json) |
+| Jaws of Destruction | 269449 | [269449-jaws-of-destruction.json](./269449-jaws-of-destruction.json) |
 | Jaws of Hell | 107618 | [107618-jaws-of-hell.json](./107618-jaws-of-hell.json) |
 | Jaws of Hell | 349322 | [349322-jaws-of-hell.json](./349322-jaws-of-hell.json) |
 | Jaws Unleashed | 2632 | [2632-jaws-unleashed.json](./2632-jaws-unleashed.json) |
