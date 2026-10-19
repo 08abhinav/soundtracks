@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D' | 174654 | [174654-d.json](./174654-d.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
+| D'Spirali Hideout | 268873 | [268873-dspirali-hideout.json](./268873-dspirali-hideout.json) |
 | D*sco Ep | 210511 | [210511-d-sco-ep.json](./210511-d-sco-ep.json) |
 | D/Generation | 12028 | [12028-d-generation.json](./12028-d-generation.json) |
 | D/Generation HD | 21318 | [21318-d-generation-hd.json](./21318-d-generation-hd.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
+| Dead Horizon | 268886 | [268886-dead-horizon.json](./268886-dead-horizon.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
 | Dead Hourz | 342016 | [342016-dead-hourz.json](./342016-dead-hourz.json) |
@@ -3232,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Field: The Battle Royale of Disaster | 96234 | [96234-death-field-the-battle-royale-of-disaster.json](./96234-death-field-the-battle-royale-of-disaster.json) |
 | Death Fighter | 285007 | [285007-death-fighter.json](./285007-death-fighter.json) |
 | Death Fighter 4 | 55968 | [55968-death-fighter-4.json](./55968-death-fighter-4.json) |
+| Death Fighter V.2 | 268907 | [268907-death-fighter-v-2.json](./268907-death-fighter-v-2.json) |
 | Death Flags | 374746 | [374746-death-flags.json](./374746-death-flags.json) |
 | Death Flash | 97251 | [97251-death-flash.json](./97251-death-flash.json) |
 | Death Flush | 140622 | [140622-death-flush.json](./140622-death-flush.json) |
@@ -5130,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent from Arkov's Tower | 277273 | [277273-descent-from-arkovs-tower.json](./277273-descent-from-arkovs-tower.json) |
 | Descent II: The Vertigo Series | 82175 | [82175-descent-ii-the-vertigo-series.json](./82175-descent-ii-the-vertigo-series.json) |
 | Descent into Hades | 272017 | [272017-descent-into-hades.json](./272017-descent-into-hades.json) |
+| Descent Into the Abyss | 268883 | [268883-descent-into-the-abyss.json](./268883-descent-into-the-abyss.json) |
 | Descent Maximum | 20130 | [20130-descent-maximum.json](./20130-descent-maximum.json) |
 | Descent Of Lunaris | 375453 | [375453-descent-of-lunaris.json](./375453-descent-of-lunaris.json) |
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
@@ -6337,6 +6341,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Bewerbung | 405484 | [405484-die-bewerbung.json](./405484-die-bewerbung.json) |
 | Die Biene Maja: Klatschmohnwiese in Gefahr | 94425 | [94425-die-biene-maja-klatschmohnwiese-in-gefahr.json](./94425-die-biene-maja-klatschmohnwiese-in-gefahr.json) |
 | Die Bloody Nazi Die! | 117543 | [117543-die-bloody-nazi-die.json](./117543-die-bloody-nazi-die.json) |
+| Die Bücher Luzifers | 268865 | [268865-die-bucher-luzifers.json](./268865-die-bucher-luzifers.json) |
+| Die Bücher Luzifers 2 | 268871 | [268871-die-bucher-luzifers-2.json](./268871-die-bucher-luzifers-2.json) |
 | Die by Anything | 328099 | [328099-die-by-anything.json](./328099-die-by-anything.json) |
 | Die by the Sword: Limb from Limb | 10913 | [10913-die-by-the-sword-limb-from-limb.json](./10913-die-by-the-sword-limb-from-limb.json) |
 | Die by the Sword: White Label Edition | 137376 | [137376-die-by-the-sword-white-label-edition.json](./137376-die-by-the-sword-white-label-edition.json) |
@@ -9500,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM 87: The Lost World | 257833 | [257833-doom-87-the-lost-world.json](./257833-doom-87-the-lost-world.json) |
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
+| Doom Castle | 268867 | [268867-doom-castle.json](./268867-doom-castle.json) |
 | Doom CE | 195432 | [195432-doom-ce.json](./195432-doom-ce.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
