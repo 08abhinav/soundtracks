@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
+| Klax | 286421 | [286421-klax.json](./286421-klax.json) |
 | Klaymen Gun-Hockey | 43749 | [43749-klaymen-gun-hockey.json](./43749-klaymen-gun-hockey.json) |
 | Klein v.0.1 | 333605 | [333605-klein-v-0-1.json](./333605-klein-v-0-1.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
