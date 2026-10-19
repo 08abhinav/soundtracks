@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pals | 389488 | [389488-pals.json](./389488-pals.json) |
 | Pals Go Only Up! | 295774 | [295774-pals-go-only-up.json](./295774-pals-go-only-up.json) |
 | PalSync | 341599 | [341599-palsync.json](./341599-palsync.json) |
+| Paltokes and the Sphinx | 272150 | [272150-paltokes-and-the-sphinx.json](./272150-paltokes-and-the-sphinx.json) |
 | Paluah's Trench | 422099 | [422099-paluahs-trench.json](./422099-paluahs-trench.json) |
 | PalWar | 371275 | [371275-palwar.json](./371275-palwar.json) |
 | Palworld: Palfarm | 369677 | [369677-palworld-palfarm.json](./369677-palworld-palfarm.json) |
