@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knowledge | 410931 | [410931-knowledge.json](./410931-knowledge.json) |
 | Knowledge Fever | 245863 | [245863-knowledge-fever.json](./245863-knowledge-fever.json) |
 | Knowledge is Power | 70833 | [70833-knowledge-is-power.json](./70833-knowledge-is-power.json) |
+| Knowledge Keeper | 292921 | [292921-knowledge-keeper.json](./292921-knowledge-keeper.json) |
 | Knowledge Party | 275353 | [275353-knowledge-party.json](./275353-knowledge-party.json) |
 | Knowledge, or Know Lady | 290941 | [290941-knowledge-or-know-lady.json](./290941-knowledge-or-know-lady.json) |
 | Known Mysteries | 330826 | [330826-known-mysteries.json](./330826-known-mysteries.json) |
