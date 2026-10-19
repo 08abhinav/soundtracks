@@ -7316,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgot | 380800 | [380800-forgot.json](./380800-forgot.json) |
 | Forgot to Poo | 340792 | [340792-forgot-to-poo.json](./340792-forgot-to-poo.json) |
+| Forgotten | 256144 | [256144-forgotten.json](./256144-forgotten.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten 13 | 282838 | [282838-forgotten-13.json](./282838-forgotten-13.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
