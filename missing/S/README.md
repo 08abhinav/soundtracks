@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sadoubu (Tea Ceremony Club) | 82946 | [82946-sadoubu-tea-ceremony-club.json](./82946-sadoubu-tea-ceremony-club.json) |
 | Sae | 276177 | [276177-sae.json](./276177-sae.json) |
 | Saeko-san to Issho! | 77850 | [77850-saeko-san-to-issho.json](./77850-saeko-san-to-issho.json) |
+| Saeko: Giantess Dating Sim | 258823 | [258823-saeko-giantess-dating-sim.json](./258823-saeko-giantess-dating-sim.json) |
 | Saelig | 36643 | [36643-saelig.json](./36643-saelig.json) |
 | Safari | 305470 | [305470-safari.json](./305470-safari.json) |
 | Safari Adventures | 205836 | [205836-safari-adventures.json](./205836-safari-adventures.json) |
@@ -1492,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
+| Sarge | 258840 | [258840-sarge.json](./258840-sarge.json) |
 | Sargon 4 | 68874 | [68874-sargon-4.json](./68874-sargon-4.json) |
 | Sargon Chess | 46568 | [46568-sargon-chess.json](./46568-sargon-chess.json) |
 | Sargon I | 83263 | [83263-sargon-i.json](./83263-sargon-i.json) |
@@ -2034,7 +2036,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Wolf | 352841 | [352841-scarlet-wolf.json](./352841-scarlet-wolf.json) |
 | Scarlet's Haunted Hotel | 319373 | [319373-scarlets-haunted-hotel.json](./319373-scarlets-haunted-hotel.json) |
 | Scarlet's Last Call | 419908 | [419908-scarlets-last-call.json](./419908-scarlets-last-call.json) |
+| Scarlett | 258869 | [258869-scarlett.json](./258869-scarlett.json) |
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
+| Scarlett: Nichijou no Kyoukaisen | 258870 | [258870-scarlett-nichijou-no-kyoukaisen.json](./258870-scarlett-nichijou-no-kyoukaisen.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
 | Scarred Stars | 154985 | [154985-scarred-stars.json](./154985-scarred-stars.json) |
@@ -4687,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: Girl on Girl | 241937 | [241937-sex-simulator-girl-on-girl.json](./241937-sex-simulator-girl-on-girl.json) |
 | Sex Simulator: Gym Girls | 385041 | [385041-sex-simulator-gym-girls.json](./385041-sex-simulator-gym-girls.json) |
 | Sex Simulator: Hot Sauna | 237281 | [237281-sex-simulator-hot-sauna.json](./237281-sex-simulator-hot-sauna.json) |
+| Sex Simulator: Locker Room | 258832 | [258832-sex-simulator-locker-room.json](./258832-sex-simulator-locker-room.json) |
 | Sex Simulator: Love Room | 385046 | [385046-sex-simulator-love-room.json](./385046-sex-simulator-love-room.json) |
 | Sex Simulator: Naughty Trainer | 284296 | [284296-sex-simulator-naughty-trainer.json](./284296-sex-simulator-naughty-trainer.json) |
 | Sex Simulator: Naughty Waitress | 275002 | [275002-sex-simulator-naughty-waitress.json](./275002-sex-simulator-naughty-waitress.json) |
@@ -13575,6 +13580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS Atlas | 104796 | [104796-sos-atlas.json](./104796-sos-atlas.json) |
 | SOS Defense | 108455 | [108455-sos-defense.json](./108455-sos-defense.json) |
 | SOS Naufrágio | 405498 | [405498-sos-naufragio.json](./405498-sos-naufragio.json) |
+| SOS OPS! | 258837 | [258837-sos-ops.json](./258837-sos-ops.json) |
 | SOS OPS!: Guns n' Ops | 297553 | [297553-sos-ops-guns-n-ops.json](./297553-sos-ops-guns-n-ops.json) |
 | SOS Zombie: Survival | 276170 | [276170-sos-zombie-survival.json](./276170-sos-zombie-survival.json) |
 | SOS-Jan | 97504 | [97504-sos-jan.json](./97504-sos-jan.json) |
@@ -17277,6 +17283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Vs Vexus | 107694 | [107694-squid-vs-vexus.json](./107694-squid-vs-vexus.json) |
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
+| Squidding Over It | 258880 | [258880-squidding-over-it.json](./258880-squidding-over-it.json) |
 | Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
 | Squidlit | 86574 | [86574-squidlit.json](./86574-squidlit.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
@@ -21865,6 +21872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Fever | 26629 | [26629-sugar-fever.json](./26629-sugar-fever.json) |
 | Sugar Fruits | 276604 | [276604-sugar-fruits.json](./276604-sugar-fruits.json) |
 | Sugar Ghouls | 374961 | [374961-sugar-ghouls.json](./374961-sugar-ghouls.json) |
+| Sugar Girls | 258826 | [258826-sugar-girls.json](./258826-sugar-girls.json) |
 | Sugar High | 233226 | [233226-sugar-high.json](./233226-sugar-high.json) |
 | Sugar Jelly Crush | 199989 | [199989-sugar-jelly-crush.json](./199989-sugar-jelly-crush.json) |
 | Sugar Lies | 415258 | [415258-sugar-lies.json](./415258-sugar-lies.json) |
@@ -23219,6 +23227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Spain Puzzles | 155617 | [155617-super-jigsaw-puzzle-generations-spain-puzzles.json](./155617-super-jigsaw-puzzle-generations-spain-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Sports Puzzles | 155644 | [155644-super-jigsaw-puzzle-generations-sports-puzzles.json](./155644-super-jigsaw-puzzle-generations-sports-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Spring Puzzles | 155586 | [155586-super-jigsaw-puzzle-generations-spring-puzzles.json](./155586-super-jigsaw-puzzle-generations-spring-puzzles.json) |
+| Super Jigsaw Puzzle: Generations - Street Art 2 | 258838 | [258838-super-jigsaw-puzzle-generations-street-art-2.json](./258838-super-jigsaw-puzzle-generations-street-art-2.json) |
 | Super Jigsaw Puzzle: Generations - Streets Puzzles | 155646 | [155646-super-jigsaw-puzzle-generations-streets-puzzles.json](./155646-super-jigsaw-puzzle-generations-streets-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Summer 2020 | 155606 | [155606-super-jigsaw-puzzle-generations-summer-2020.json](./155606-super-jigsaw-puzzle-generations-summer-2020.json) |
 | Super Jigsaw Puzzle: Generations - Sunsets Puzzles | 155630 | [155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json](./155630-super-jigsaw-puzzle-generations-sunsets-puzzles.json) |
@@ -26036,6 +26045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweets Swap Classic | 175821 | [175821-sweets-swap-classic.json](./175821-sweets-swap-classic.json) |
 | Sweets' Devil | 398596 | [398596-sweets-devil.json](./398596-sweets-devil.json) |
 | SweetXheart | 183286 | [183286-sweetxheart.json](./183286-sweetxheart.json) |
+| Sweety Girls | 258828 | [258828-sweety-girls.json](./258828-sweety-girls.json) |
 | Sweety Kitty | 219560 | [219560-sweety-kitty.json](./219560-sweety-kitty.json) |
 | Sweety Kitty 2 | 224774 | [224774-sweety-kitty-2.json](./224774-sweety-kitty-2.json) |
 | Sweety Little Witch | 158924 | [158924-sweety-little-witch.json](./158924-sweety-little-witch.json) |
