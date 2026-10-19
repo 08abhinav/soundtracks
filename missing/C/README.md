@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cart Crawlers | 184637 | [184637-cart-crawlers.json](./184637-cart-crawlers.json) |
 | Cart Fury | 43275 | [43275-cart-fury.json](./43275-cart-fury.json) |
 | Cart Fury: Championship Racing | 78637 | [78637-cart-fury-championship-racing.json](./78637-cart-fury-championship-racing.json) |
+| Cart Legends | 258329 | [258329-cart-legends.json](./258329-cart-legends.json) |
 | Cart Panic! OS: E-Commerce Tycoon | 402494 | [402494-cart-panic-os-e-commerce-tycoon.json](./402494-cart-panic-os-e-commerce-tycoon.json) |
 | Cart Precision Racing | 627 | [627-cart-precision-racing.json](./627-cart-precision-racing.json) |
 | Cart Racing | 93163 | [93163-cart-racing.json](./93163-cart-racing.json) |
@@ -12036,6 +12037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Commando | 21136 | [21136-crash-commando.json](./21136-crash-commando.json) |
 | Crash Course | 172528 | [172528-crash-course.json](./172528-crash-course.json) |
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
+| Crash Course Builder | 258322 | [258322-crash-course-builder.json](./258322-crash-course-builder.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
 | Crash Dive 2 | 150949 | [150949-crash-dive-2.json](./150949-crash-dive-2.json) |
