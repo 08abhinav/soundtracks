@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
 | Sand Pirates | 181129 | [181129-sand-pirates.json](./181129-sand-pirates.json) |
 | Sand Saga | 322648 | [322648-sand-saga.json](./322648-sand-saga.json) |
+| Sand Sails: Pirate Legends | 262817 | [262817-sand-sails-pirate-legends.json](./262817-sand-sails-pirate-legends.json) |
 | Sand Scorpion | 40184 | [40184-sand-scorpion.json](./40184-sand-scorpion.json) |
 | Sand Seeker | 390504 | [390504-sand-seeker.json](./390504-sand-seeker.json) |
 | Sand Storm | 81422 | [81422-sand-storm.json](./81422-sand-storm.json) |
@@ -9447,6 +9448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylark | 217350 | [217350-skylark.json](./217350-skylark.json) |
 | Skylark 64 | 306066 | [306066-skylark-64.json](./306066-skylark-64.json) |
 | Skylax! The Lab Runner | 369664 | [369664-skylax-the-lab-runner.json](./369664-skylax-the-lab-runner.json) |
+| SkyLeap | 262809 | [262809-skyleap.json](./262809-skyleap.json) |
 | SkyLife: VoxelSurvival | 149050 | [149050-skylife-voxelsurvival.json](./149050-skylife-voxelsurvival.json) |
 | Skylight | 64096 | [64096-skylight.json](./64096-skylight.json) |
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
@@ -11302,6 +11304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Ash Land | 180040 | [180040-snow-ash-land.json](./180040-snow-ash-land.json) |
 | Snow Battle Princess Sayuki | 191180 | [191180-snow-battle-princess-sayuki.json](./191180-snow-battle-princess-sayuki.json) |
 | Snow Beast Chess | 355203 | [355203-snow-beast-chess.json](./355203-snow-beast-chess.json) |
+| Snow Blocks | 262798 | [262798-snow-blocks.json](./262798-snow-blocks.json) |
 | Snow Blocks 2 | 272929 | [272929-snow-blocks-2.json](./272929-snow-blocks-2.json) |
 | Snow Board Championship | 39801 | [39801-snow-board-championship.json](./39801-snow-board-championship.json) |
 | Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
@@ -12286,6 +12289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitune | 28266 | [28266-solitune.json](./28266-solitune.json) |
 | Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
+| Solivagant | 262840 | [262840-solivagant.json](./262840-solivagant.json) |
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
@@ -24489,6 +24493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super SpongeBob 2 | 382398 | [382398-super-spongebob-2.json](./382398-super-spongebob-2.json) |
 | Super SpongeBob Kart | 42203 | [42203-super-spongebob-kart.json](./42203-super-spongebob-kart.json) |
 | Super Spooky 64 | 300255 | [300255-super-spooky-64.json](./300255-super-spooky-64.json) |
+| Super Spooky Subgame Spectacular | 262836 | [262836-super-spooky-subgame-spectacular.json](./262836-super-spooky-subgame-spectacular.json) |
 | Super Sportmatchen | 97963 | [97963-super-sportmatchen.json](./97963-super-sportmatchen.json) |
 | Super Sports Isle | 410197 | [410197-super-sports-isle.json](./410197-super-sports-isle.json) |
 | Super Sports Surgery | 40843 | [40843-super-sports-surgery.json](./40843-super-sports-surgery.json) |
