@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaslamp Cases 5: The Dreadful City | 248917 | [248917-gaslamp-cases-5-the-dreadful-city.json](./248917-gaslamp-cases-5-the-dreadful-city.json) |
 | Gaslamp Cases 6: Haunted Waters | 294732 | [294732-gaslamp-cases-6-haunted-waters.json](./294732-gaslamp-cases-6-haunted-waters.json) |
 | Gaslamp Cases 7: The Faith of Rasputin | 294735 | [294735-gaslamp-cases-7-the-faith-of-rasputin.json](./294735-gaslamp-cases-7-the-faith-of-rasputin.json) |
+| Gaslamp Cases 8: Quest for the Relic | 293984 | [293984-gaslamp-cases-8-quest-for-the-relic.json](./293984-gaslamp-cases-8-quest-for-the-relic.json) |
 | Gaslamp Cases XIII: The Crimson Portrait | 393710 | [393710-gaslamp-cases-xiii-the-crimson-portrait.json](./393710-gaslamp-cases-xiii-the-crimson-portrait.json) |
 | Gaslift: A Chair Horror | 414311 | [414311-gaslift-a-chair-horror.json](./414311-gaslift-a-chair-horror.json) |
 | Gaslit Bay | 405686 | [405686-gaslit-bay.json](./405686-gaslit-bay.json) |
@@ -6350,6 +6351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Toilet Simulator | 222289 | [222289-great-toilet-simulator.json](./222289-great-toilet-simulator.json) |
 | Great Tough Bikini 6 | 362403 | [362403-great-tough-bikini-6.json](./362403-great-tough-bikini-6.json) |
 | Great Toy Showdown | 251838 | [251838-great-toy-showdown.json](./251838-great-toy-showdown.json) |
+| Great Traveler | 294013 | [294013-great-traveler.json](./294013-great-traveler.json) |
 | Great Utopia | 129016 | [129016-great-utopia.json](./129016-great-utopia.json) |
 | Great Wall March | 265212 | [265212-great-wall-march.json](./265212-great-wall-march.json) |
 | Great Wall Street Fortune Hunt | 41545 | [41545-great-wall-street-fortune-hunt.json](./41545-great-wall-street-fortune-hunt.json) |
