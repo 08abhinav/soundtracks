@@ -7311,6 +7311,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
 | Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
 | Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
+| Metal.ik Vol. I | 263352 | [263352-metal-ik-vol-i.json](./263352-metal-ik-vol-i.json) |
+| Metal.ik Vol. II | 263366 | [263366-metal-ik-vol-ii.json](./263366-metal-ik-vol-ii.json) |
+| Metal.ik Vol. III | 263368 | [263368-metal-ik-vol-iii.json](./263368-metal-ik-vol-iii.json) |
 | Metalands: Battle for CIFI | 210514 | [210514-metalands-battle-for-cifi.json](./210514-metalands-battle-for-cifi.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
 | MetälBörn | 209490 | [209490-metalborn.json](./209490-metalborn.json) |
@@ -7575,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metropolismania 2 | 68118 | [68118-metropolismania-2.json](./68118-metropolismania-2.json) |
 | Metropolismania 4 | 178560 | [178560-metropolismania-4.json](./178560-metropolismania-4.json) |
 | Metropolitan Mayhem | 270667 | [270667-metropolitan-mayhem.json](./270667-metropolitan-mayhem.json) |
+| Metropolitan Mayhem Machine | 263357 | [263357-metropolitan-mayhem-machine.json](./263357-metropolitan-mayhem-machine.json) |
 | MetroRunner | 312634 | [312634-metrorunner.json](./312634-metrorunner.json) |
 | MetroSim: The Subway Simulator | 277598 | [277598-metrosim-the-subway-simulator.json](./277598-metrosim-the-subway-simulator.json) |
 | Metu Caligine | 169765 | [169765-metu-caligine.json](./169765-metu-caligine.json) |
@@ -10416,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - GOTY Edition | 284502 | [284502-mixx-island-remix-plus-goty-edition.json](./284502-mixx-island-remix-plus-goty-edition.json) |
 | Mixx Island: Remix Plus - Happy Edition | 287124 | [287124-mixx-island-remix-plus-happy-edition.json](./287124-mixx-island-remix-plus-happy-edition.json) |
 | Mixx Island: Remix Plus - Magnificent Edition | 294830 | [294830-mixx-island-remix-plus-magnificent-edition.json](./294830-mixx-island-remix-plus-magnificent-edition.json) |
+| Mixx Island: Remix Plus - Premium Edition | 263348 | [263348-mixx-island-remix-plus-premium-edition.json](./263348-mixx-island-remix-plus-premium-edition.json) |
 | Mixx Island: Remix Plus - Special Edition | 260048 | [260048-mixx-island-remix-plus-special-edition.json](./260048-mixx-island-remix-plus-special-edition.json) |
 | Mixx Island: Remix Plus - Superb Edition | 298573 | [298573-mixx-island-remix-plus-superb-edition.json](./298573-mixx-island-remix-plus-superb-edition.json) |
 | Mixx Island: Remix Plus - Ultimate Edition | 254677 | [254677-mixx-island-remix-plus-ultimate-edition.json](./254677-mixx-island-remix-plus-ultimate-edition.json) |
