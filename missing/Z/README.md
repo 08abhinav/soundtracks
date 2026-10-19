@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Quest | 181084 | [181084-zombie-quest.json](./181084-zombie-quest.json) |
 | Zombie Quest | 377129 | [377129-zombie-quest.json](./377129-zombie-quest.json) |
 | Zombie Race: Undead Smasher | 247179 | [247179-zombie-race-undead-smasher.json](./247179-zombie-race-undead-smasher.json) |
+| Zombie Racers | 259968 | [259968-zombie-racers.json](./259968-zombie-racers.json) |
 | Zombie Raid | 150528 | [150528-zombie-raid.json](./150528-zombie-raid.json) |
 | Zombie Raid | 40987 | [40987-zombie-raid.json](./40987-zombie-raid.json) |
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
