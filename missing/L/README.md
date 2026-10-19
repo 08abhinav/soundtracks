@@ -3734,6 +3734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily & Sury: Adventures On Cristya | 333230 | [333230-lily-and-sury-adventures-on-cristya.json](./333230-lily-and-sury-adventures-on-cristya.json) |
 | Lily Adventuresses! Episode 4: The Ancienaut beneath the Mask | 419954 | [419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json](./419954-lily-adventuresses-episode-4-the-ancienaut-beneath-the-mask.json) |
 | Lily Bergamo | 52542 | [52542-lily-bergamo.json](./52542-lily-bergamo.json) |
+| Lily Diary | 301132 | [301132-lily-diary.json](./301132-lily-diary.json) |
 | Lily Fantasia | 278975 | [278975-lily-fantasia.json](./278975-lily-fantasia.json) |
 | Lily in Puzzle World | 267832 | [267832-lily-in-puzzle-world.json](./267832-lily-in-puzzle-world.json) |
 | Lily of Swampville | 58605 | [58605-lily-of-swampville.json](./58605-lily-of-swampville.json) |
