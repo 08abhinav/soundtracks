@@ -5685,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Click 4 | 331469 | [331469-lord-of-the-click-4.json](./331469-lord-of-the-click-4.json) |
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
+| Lord of the Cyberdemons | 263364 | [263364-lord-of-the-cyberdemons.json](./263364-lord-of-the-cyberdemons.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
 | Lord of the Imps | 212979 | [212979-lord-of-the-imps.json](./212979-lord-of-the-imps.json) |
 | Lord of the Jungle | 142763 | [142763-lord-of-the-jungle.json](./142763-lord-of-the-jungle.json) |
