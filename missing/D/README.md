@@ -224,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
+| Daemonus | 273247 | [273247-daemonus.json](./273247-daemonus.json) |
 | Daescent | 408162 | [408162-daescent.json](./408162-daescent.json) |
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
@@ -9488,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom CE | 195432 | [195432-doom-ce.json](./195432-doom-ce.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
 | Doom City | 144214 | [144214-doom-city.json](./144214-doom-city.json) |
+| Doom City | 273233 | [273233-doom-city.json](./273233-doom-city.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
