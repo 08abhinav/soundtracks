@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Sales Simulator | 403738 | [403738-car-sales-simulator.json](./403738-car-sales-simulator.json) |
 | Car Sales Simulator | 407368 | [407368-car-sales-simulator.json](./407368-car-sales-simulator.json) |
 | Car Sales Simulator 2026 | 401111 | [401111-car-sales-simulator-2026.json](./401111-car-sales-simulator-2026.json) |
+| Car Salon Kingdom | 259978 | [259978-car-salon-kingdom.json](./259978-car-salon-kingdom.json) |
 | Car Scrapyard Simulator | 217267 | [217267-car-scrapyard-simulator.json](./217267-car-scrapyard-simulator.json) |
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Service Simulator | 326466 | [326466-car-service-simulator.json](./326466-car-service-simulator.json) |
@@ -7485,6 +7486,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Lovers | 203927 | [203927-click-lovers.json](./203927-click-lovers.json) |
 | Click Mage | 320391 | [320391-click-mage.json](./320391-click-mage.json) |
 | Click Manga: Click no Hi | 260113 | [260113-click-manga-click-no-hi.json](./260113-click-manga-click-no-hi.json) |
+| Click Manga: Dynamic Robot Taisen 1 - Shutsugeki! Kyoui Robot no Gundan!! | 259995 | [259995-click-manga-dynamic-robot-taisen-1-shutsugeki-kyoui-robot-no-gundan.json](./259995-click-manga-dynamic-robot-taisen-1-shutsugeki-kyoui-robot-no-gundan.json) |
+| Click Manga: Dynamic Robot Taisen 2 - Kyoufu! Akuma Zoku Fukkatsu | 259997 | [259997-click-manga-dynamic-robot-taisen-2-kyoufu-akuma-zoku-fukkatsu.json](./259997-click-manga-dynamic-robot-taisen-2-kyoufu-akuma-zoku-fukkatsu.json) |
 | Click Manga: Ginga Eiyuu Densetsu 1 | 259486 | [259486-click-manga-ginga-eiyuu-densetsu-1.json](./259486-click-manga-ginga-eiyuu-densetsu-1.json) |
 | Click Manga: Ginga Eiyuu Densetsu 2 | 259487 | [259487-click-manga-ginga-eiyuu-densetsu-2.json](./259487-click-manga-ginga-eiyuu-densetsu-2.json) |
 | Click Manga: Opera Za no Kaijin | 260111 | [260111-click-manga-opera-za-no-kaijin.json](./260111-click-manga-opera-za-no-kaijin.json) |
