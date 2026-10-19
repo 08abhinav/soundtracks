@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit & Dominoes | 192874 | [192874-rabbit-and-dominoes.json](./192874-rabbit-and-dominoes.json) |
 | Rabbit & Steel | 229093 | [229093-rabbit-and-steel.json](./229093-rabbit-and-steel.json) |
 | Rabbit and the moon | 104437 | [104437-rabbit-and-the-moon.json](./104437-rabbit-and-the-moon.json) |
+| Rabbit and Turtle | 285846 | [285846-rabbit-and-turtle.json](./285846-rabbit-and-turtle.json) |
 | Rabbit Burn | 203566 | [203566-rabbit-burn.json](./203566-rabbit-burn.json) |
 | Rabbit Claw Party | 405542 | [405542-rabbit-claw-party.json](./405542-rabbit-claw-party.json) |
 | Rabbit Detective | 389983 | [389983-rabbit-detective.json](./389983-rabbit-detective.json) |
@@ -7977,6 +7978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Escape '1053' | 127376 | [127376-room-escape-1053.json](./127376-room-escape-1053.json) |
 | Room Escape in Voxels | 200440 | [200440-room-escape-in-voxels.json](./200440-room-escape-in-voxels.json) |
 | Room Escape: Scary Horror Game | 232026 | [232026-room-escape-scary-horror-game.json](./232026-room-escape-scary-horror-game.json) |
+| Room Escape: Strange Case 2 | 285859 | [285859-room-escape-strange-case-2.json](./285859-room-escape-strange-case-2.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
