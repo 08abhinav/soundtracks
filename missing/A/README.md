@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
 | Across the Obelisk: Shores of Sahti | 357778 | [357778-across-the-obelisk-shores-of-sahti.json](./357778-across-the-obelisk-shores-of-sahti.json) |
 | Across the Obelisk: Sigrun, the Valkyrie | 357779 | [357779-across-the-obelisk-sigrun-the-valkyrie.json](./357779-across-the-obelisk-sigrun-the-valkyrie.json) |
+| Across the Obelisk: Starter Set | 292920 | [292920-across-the-obelisk-starter-set.json](./292920-across-the-obelisk-starter-set.json) |
 | Across the Obelisk: The Wolf Wars | 240895 | [240895-across-the-obelisk-the-wolf-wars.json](./240895-across-the-obelisk-the-wolf-wars.json) |
 | Across the River | 334487 | [334487-across-the-river.json](./334487-across-the-river.json) |
 | Across the Void | 313818 | [313818-across-the-void.json](./313818-across-the-void.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Control Simulator | 409646 | [409646-anomaly-control-simulator.json](./409646-anomaly-control-simulator.json) |
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
+| Anomaly Echoes | 292949 | [292949-anomaly-echoes.json](./292949-anomaly-echoes.json) |
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
