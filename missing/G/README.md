@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geomancers | 315359 | [315359-geomancers.json](./315359-geomancers.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
+| Geometric Brothers | 271640 | [271640-geometric-brothers.json](./271640-geometric-brothers.json) |
 | Geometric Brothers: Advance Pack | 281925 | [281925-geometric-brothers-advance-pack.json](./281925-geometric-brothers-advance-pack.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
 | GoBlaster | 161898 | [161898-goblaster.json](./161898-goblaster.json) |
 | Goblet Grotto | 64354 | [64354-goblet-grotto.json](./64354-goblet-grotto.json) |
+| Goblet of Mercy | 271628 | [271628-goblet-of-mercy.json](./271628-goblet-of-mercy.json) |
 | Goblet Tower | 287654 | [287654-goblet-tower.json](./287654-goblet-tower.json) |
 | Gobli's Adventure | 274413 | [274413-goblis-adventure.json](./274413-goblis-adventure.json) |
 | Gobliiins Collection | 403213 | [403213-gobliiins-collection.json](./403213-gobliiins-collection.json) |
@@ -4619,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Fever | 22731 | [22731-gold-fever.json](./22731-gold-fever.json) |
 | Gold For All | 248338 | [248338-gold-for-all.json](./248338-gold-for-all.json) |
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
+| Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
@@ -7556,6 +7559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
 | Guild of Hunters | 372993 | [372993-guild-of-hunters.json](./372993-guild-of-hunters.json) |
 | Guild of Monsters | 369175 | [369175-guild-of-monsters.json](./369175-guild-of-monsters.json) |
+| Guild of Rogues | 271626 | [271626-guild-of-rogues.json](./271626-guild-of-rogues.json) |
 | Guild of Three | 404651 | [404651-guild-of-three.json](./404651-guild-of-three.json) |
 | Guild Quest | 30820 | [30820-guild-quest.json](./30820-guild-quest.json) |
 | Guild Receptionist 2: Stardust Liberate | 329239 | [329239-guild-receptionist-2-stardust-liberate.json](./329239-guild-receptionist-2-stardust-liberate.json) |
