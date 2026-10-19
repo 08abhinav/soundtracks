@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
+| C.R.O.W. Girl Trouble | 293995 | [293995-c-r-o-w-girl-trouble.json](./293995-c-r-o-w-girl-trouble.json) |
 | C.S.S. Citadel VR | 32080 | [32080-c-s-s-citadel-vr.json](./32080-c-s-s-citadel-vr.json) |
 | C.T.R.: Cross The Road | 240202 | [240202-c-t-r-cross-the-road.json](./240202-c-t-r-cross-the-road.json) |
 | C.U.B.E | 412998 | [412998-c-u-b-e.json](./412998-c-u-b-e.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Adventure | 187271 | [187271-card-adventure.json](./187271-card-adventure.json) |
 | Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
+| Card Bard | 293971 | [293971-card-bard.json](./293971-card-bard.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
@@ -2243,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case No.1: Rose Academy | 370266 | [370266-case-no-1-rose-academy.json](./370266-case-no-1-rose-academy.json) |
 | Case of 1980 | 413016 | [413016-case-of-1980.json](./413016-case-of-1980.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
+| Case Records: Fear of Abduction | 294017 | [294017-case-records-fear-of-abduction.json](./294017-case-records-fear-of-abduction.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
 | Case Solved: The London Files | 392811 | [392811-case-solved-the-london-files.json](./392811-case-solved-the-london-files.json) |
@@ -7169,6 +7172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw and Conjure | 409880 | [409880-claw-and-conjure.json](./409880-claw-and-conjure.json) |
 | Claw Arena | 172439 | [172439-claw-arena.json](./172439-claw-arena.json) |
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
+| Claw Clash: Cat vs. Dog Betting | 293974 | [293974-claw-clash-cat-vs-dog-betting.json](./293974-claw-clash-cat-vs-dog-betting.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
 | Claw Machine | 307372 | [307372-claw-machine.json](./307372-claw-machine.json) |
@@ -12551,6 +12555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Moto Racer | 218695 | [218695-crime-moto-racer.json](./218695-crime-moto-racer.json) |
 | Crime Opera Collection | 332503 | [332503-crime-opera-collection.json](./332503-crime-opera-collection.json) |
 | Crime Opera Fandisk: The Caterpillar Candids | 330602 | [330602-crime-opera-fandisk-the-caterpillar-candids.json](./330602-crime-opera-fandisk-the-caterpillar-candids.json) |
+| Crime or Punishment | 294001 | [294001-crime-or-punishment.json](./294001-crime-or-punishment.json) |
 | Crime Passional | 236286 | [236286-crime-passional.json](./236286-crime-passional.json) |
 | Crime Patrol 2: Drug Wars | 4242 | [4242-crime-patrol-2-drug-wars.json](./4242-crime-patrol-2-drug-wars.json) |
 | Crime Pays | 258530 | [258530-crime-pays.json](./258530-crime-pays.json) |
