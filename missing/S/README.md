@@ -17,6 +17,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S: Lost Chapters | 260288 | [260288-s-lost-chapters.json](./260288-s-lost-chapters.json) |
 | S!Zone | 206614 | [206614-s-zone.json](./206614-s-zone.json) |
 | S. Cargo | 275916 | [275916-s-cargo.json](./275916-s-cargo.json) |
+| S. Prysm Destroyer | 302785 | [302785-s-prysm-destroyer.json](./302785-s-prysm-destroyer.json) |
 | S.A.B.A.H. (Sun As Biased As Harmony) | 264596 | [264596-s-a-b-a-h-sun-as-biased-as-harmony.json](./264596-s-a-b-a-h-sun-as-biased-as-harmony.json) |
 | S.A.C. Alert | 282792 | [282792-s-a-c-alert.json](./282792-s-a-c-alert.json) |
 | S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
@@ -1511,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan | 94933 | [94933-satan.json](./94933-satan.json) |
 | Satan 3D | 384293 | [384293-satan-3d.json](./384293-satan-3d.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
+| Satan Moans | 302816 | [302816-satan-moans.json](./302816-satan-moans.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Dungeon | 329593 | [329593-satans-dungeon.json](./329593-satans-dungeon.json) |
 | Satan's Hollow | 18843 | [18843-satans-hollow.json](./18843-satans-hollow.json) |
@@ -2580,6 +2582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
+| Scrabbleman | 302782 | [302782-scrabbleman.json](./302782-scrabbleman.json) |
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
@@ -4686,6 +4689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Hiking | 63138 | [63138-sexy-hiking.json](./63138-sexy-hiking.json) |
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Iron Maidens | 279083 | [279083-sexy-iron-maidens.json](./279083-sexy-iron-maidens.json) |
+| Sexy Island Adventure | 302639 | [302639-sexy-island-adventure.json](./302639-sexy-island-adventure.json) |
 | Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
@@ -6751,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Mall Smart Taxi: Family Car Taxi Games | 104619 | [104619-shopping-mall-smart-taxi-family-car-taxi-games.json](./104619-shopping-mall-smart-taxi-family-car-taxi-games.json) |
 | Shopping Manager | 255761 | [255761-shopping-manager.json](./255761-shopping-manager.json) |
 | Shopping Match | 264014 | [264014-shopping-match.json](./264014-shopping-match.json) |
+| Shopping Simulator | 302793 | [302793-shopping-simulator.json](./302793-shopping-simulator.json) |
 | Shopping Sort | 303046 | [303046-shopping-sort.json](./303046-shopping-sort.json) |
 | Shopping Spree | 349871 | [349871-shopping-spree.json](./349871-shopping-spree.json) |
 | Shopping Street | 399460 | [399460-shopping-street.json](./399460-shopping-street.json) |
@@ -10857,6 +10862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snark Busters Trilogy | 53639 | [53639-snark-busters-trilogy.json](./53639-snark-busters-trilogy.json) |
 | Snarl | 396583 | [396583-snarl.json](./396583-snarl.json) |
 | Snatch Squad | 365686 | [365686-snatch-squad.json](./365686-snatch-squad.json) |
+| Snatched | 302822 | [302822-snatched.json](./302822-snatched.json) |
 | Snatched | 395585 | [395585-snatched.json](./395585-snatched.json) |
 | Snatched! | 300471 | [300471-snatched.json](./300471-snatched.json) |
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
@@ -12249,6 +12255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
 | Somnium | 166502 | [166502-somnium.json](./166502-somnium.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
+| Somnium | 302810 | [302810-somnium.json](./302810-somnium.json) |
 | Somnium Eleven | 191876 | [191876-somnium-eleven.json](./191876-somnium-eleven.json) |
 | Somnium Shore | 158183 | [158183-somnium-shore.json](./158183-somnium-shore.json) |
 | Somnium Space | 107400 | [107400-somnium-space.json](./107400-somnium-space.json) |
@@ -13297,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Picnic de Obenkyou | 63944 | [63944-soreike-anpanman-picnic-de-obenkyou.json](./63944-soreike-anpanman-picnic-de-obenkyou.json) |
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
+| Sorelle | 302802 | [302802-sorelle.json](./302802-sorelle.json) |
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
@@ -14916,6 +14924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparganator | 348963 | [348963-sparganator.json](./348963-sparganator.json) |
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
+| Spark | 302800 | [302800-spark.json](./302800-spark.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
