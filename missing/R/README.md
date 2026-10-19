@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Into the Nexus | 2589 | [2589-ratchet-and-clank-into-the-nexus.json](./2589-ratchet-and-clank-into-the-nexus.json) |
 | Ratchet & Clank: Premature Release | 288705 | [288705-ratchet-and-clank-premature-release.json](./288705-ratchet-and-clank-premature-release.json) |
 | Ratchet & Clank: Rift Apart - Digital Deluxe Edition | 407558 | [407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json](./407558-ratchet-and-clank-rift-apart-digital-deluxe-edition.json) |
+| Ratchet & Clank: Size Matters | 308039 | [308039-ratchet-and-clank-size-matters.json](./308039-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
@@ -5933,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Titans | 220706 | [220706-rite-of-titans.json](./220706-rite-of-titans.json) |
 | Ritenuto | 353875 | [353875-ritenuto.json](./353875-ritenuto.json) |
 | Rites of a Mailmare | 181141 | [181141-rites-of-a-mailmare.json](./181141-rites-of-a-mailmare.json) |
+| Ritmais | 308023 | [308023-ritmais.json](./308023-ritmais.json) |
 | Ritsu Reasoning 2 Lost Memories | 391862 | [391862-ritsu-reasoning-2-lost-memories.json](./391862-ritsu-reasoning-2-lost-memories.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Gaisen | 64910 | [64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json](./64910-rittai-ninja-katsugeki-tenchu-shinobi-gaisen.json) |
 | Rittai Ninja Katsugeki Tenchu: Shinobi Hyakusen | 64911 | [64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json](./64911-rittai-ninja-katsugeki-tenchu-shinobi-hyakusen.json) |
