@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Instinct 2 | 264309 | [264309-killer-instinct-2.json](./264309-killer-instinct-2.json) |
 | Killer Instinct 2 | 2930 | [2930-killer-instinct-2.json](./2930-killer-instinct-2.json) |
 | Killer Instinct Gold | 10613 | [10613-killer-instinct-gold.json](./10613-killer-instinct-gold.json) |
+| Killer Instinct: Anniversary Edition | 278293 | [278293-killer-instinct-anniversary-edition.json](./278293-killer-instinct-anniversary-edition.json) |
 | Killer Instinct: Definitive Edition | 25662 | [25662-killer-instinct-definitive-edition.json](./25662-killer-instinct-definitive-edition.json) |
 | Killer Instinct: Season 3 | 11546 | [11546-killer-instinct-season-3.json](./11546-killer-instinct-season-3.json) |
 | Killer Is Dead | 2940 | [2940-killer-is-dead.json](./2940-killer-is-dead.json) |
