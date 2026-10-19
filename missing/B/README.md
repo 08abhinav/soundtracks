@@ -6795,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
 | Black State | 308029 | [308029-black-state.json](./308029-black-state.json) |
 | Black stone | 284000 | [284000-black-stone.json](./284000-black-stone.json) |
+| Black Stone | 283059 | [283059-black-stone.json](./283059-black-stone.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
 | Black Sun | 380004 | [380004-black-sun.json](./380004-black-sun.json) |
@@ -12311,6 +12312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Catcher | 380039 | [380039-bug-catcher.json](./380039-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
 | Bug darake no Machi | 306239 | [306239-bug-darake-no-machi.json](./306239-bug-darake-no-machi.json) |
+| Bug darake no Mura | 283051 | [283051-bug-darake-no-mura.json](./283051-bug-darake-no-mura.json) |
 | Bug darake no Shiro | 329230 | [329230-bug-darake-no-shiro.json](./329230-bug-darake-no-shiro.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
