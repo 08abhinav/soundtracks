@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport CEO: Vintage | 203691 | [203691-airport-ceo-vintage.json](./203691-airport-ceo-vintage.json) |
+| Airport Contraband Police | 267260 | [267260-airport-contraband-police.json](./267260-airport-contraband-police.json) |
 | Airport Control 25 | 379523 | [379523-airport-control-25.json](./379523-airport-control-25.json) |
 | Airport Control 27 | 398961 | [398961-airport-control-27.json](./398961-airport-control-27.json) |
 | Airport Control Simulator | 9960 | [9960-airport-control-simulator.json](./9960-airport-control-simulator.json) |
@@ -4896,6 +4897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Lander | 282113 | [282113-alien-lander.json](./282113-alien-lander.json) |
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
+| Alien Looter | 267270 | [267270-alien-looter.json](./267270-alien-looter.json) |
 | Alien Madness | 363161 | [363161-alien-madness.json](./363161-alien-madness.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
 | Alien Maker | 409730 | [409730-alien-maker.json](./409730-alien-maker.json) |
@@ -7431,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Bouncy Basketball | 342214 | [342214-anime-girls-bouncy-basketball.json](./342214-anime-girls-bouncy-basketball.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
+| Anime Girls: Deluxe Edition | 267230 | [267230-anime-girls-deluxe-edition.json](./267230-anime-girls-deluxe-edition.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
 | Anime Girls: Fantasy Desire | 345678 | [345678-anime-girls-fantasy-desire.json](./345678-anime-girls-fantasy-desire.json) |
 | Anime Girls: Gacha Game | 405649 | [405649-anime-girls-gacha-game.json](./405649-anime-girls-gacha-game.json) |
