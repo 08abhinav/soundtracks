@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Apocalypse | 148839 | [148839-card-apocalypse.json](./148839-card-apocalypse.json) |
 | Card Artisan | 366129 | [366129-card-artisan.json](./366129-card-artisan.json) |
 | Card Bard | 293971 | [293971-card-bard.json](./293971-card-bard.json) |
+| Card Battle Simulator | 268312 | [268312-card-battle-simulator.json](./268312-card-battle-simulator.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
@@ -1729,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Chronicles | 294251 | [294251-cardboard-chronicles.json](./294251-cardboard-chronicles.json) |
 | Cardboard Clash | 125904 | [125904-cardboard-clash.json](./125904-cardboard-clash.json) |
 | Cardboard Cowboy | 398367 | [398367-cardboard-cowboy.json](./398367-cardboard-cowboy.json) |
+| Cardboard Fish | 268311 | [268311-cardboard-fish.json](./268311-cardboard-fish.json) |
 | Cardboard Football Club | 233206 | [233206-cardboard-football-club.json](./233206-cardboard-football-club.json) |
 | Cardboard Ground | 119730 | [119730-cardboard-ground.json](./119730-cardboard-ground.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
@@ -2165,6 +2167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Simulator | 263208 | [263208-cartel-simulator.json](./263208-cartel-simulator.json) |
 | Cartel Simulator | 312414 | [312414-cartel-simulator.json](./312414-cartel-simulator.json) |
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
+| Cartel Tycoon: Anniversary Edition | 268321 | [268321-cartel-tycoon-anniversary-edition.json](./268321-cartel-tycoon-anniversary-edition.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
@@ -5132,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick Room Escape: Xmas ver. | 317000 | [317000-chick-room-escape-xmas-ver.json](./317000-chick-room-escape-xmas-ver.json) |
 | Chick Tac Toe | 22105 | [22105-chick-tac-toe.json](./22105-chick-tac-toe.json) |
 | Chick That Never Skipped a Leg Day | 309128 | [309128-chick-that-never-skipped-a-leg-day.json](./309128-chick-that-never-skipped-a-leg-day.json) |
+| Chick-Chick | 268317 | [268317-chick-chick.json](./268317-chick-chick.json) |
 | Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
@@ -8635,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Seduction | 379536 | [379536-college-seduction.json](./379536-college-seduction.json) |
 | College Sex Fest 2024 | 297095 | [297095-college-sex-fest-2024.json](./297095-college-sex-fest-2024.json) |
 | College Sex Party | 265776 | [265776-college-sex-party.json](./265776-college-sex-party.json) |
+| College Sex: Episode 1 | 268316 | [268316-college-sex-episode-1.json](./268316-college-sex-episode-1.json) |
 | College Sex: Episode 2 | 271651 | [271651-college-sex-episode-2.json](./271651-college-sex-episode-2.json) |
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
@@ -9779,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Spaces | 335871 | [335871-concrete-spaces.json](./335871-concrete-spaces.json) |
 | Concrete Tremor | 234033 | [234033-concrete-tremor.json](./234033-concrete-tremor.json) |
 | Concrete Visions | 282816 | [282816-concrete-visions.json](./282816-concrete-visions.json) |
+| Concubine | 268315 | [268315-concubine.json](./268315-concubine.json) |
 | Concurrence | 166779 | [166779-concurrence.json](./166779-concurrence.json) |
 | Concurrency | 34668 | [34668-concurrency.json](./34668-concurrency.json) |
 | Conde | 265424 | [265424-conde.json](./265424-conde.json) |
@@ -10962,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvette ZR-1 Challenge | 48293 | [48293-corvette-zr-1-challenge.json](./48293-corvette-zr-1-challenge.json) |
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
+| Corvos Dynasty | 268314 | [268314-corvos-dynasty.json](./268314-corvos-dynasty.json) |
 | Cory in the House | 47969 | [47969-cory-in-the-house.json](./47969-cory-in-the-house.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
 | Cos-249 | 311145 | [311145-cos-249.json](./311145-cos-249.json) |
@@ -11342,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Stroke: Grand Building | 212146 | [212146-counter-stroke-grand-building.json](./212146-counter-stroke-grand-building.json) |
 | Counterattack | 256877 | [256877-counterattack.json](./256877-counterattack.json) |
 | CounterAttack | 33278 | [33278-counterattack.json](./33278-counterattack.json) |
+| CounterAttack: Uprising | 268324 | [268324-counterattack-uprising.json](./268324-counterattack-uprising.json) |
 | CounterBlocks | 170828 | [170828-counterblocks.json](./170828-counterblocks.json) |
 | Counterclocking | 245849 | [245849-counterclocking.json](./245849-counterclocking.json) |
 | Counterfeit Monkey | 2944 | [2944-counterfeit-monkey.json](./2944-counterfeit-monkey.json) |
