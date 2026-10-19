@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changes | 23934 | [23934-changes.json](./23934-changes.json) |
 | changeType() | 201128 | [201128-changetype.json](./201128-changetype.json) |
 | Chánggē Xíng | 129094 | [129094-changge-xing.json](./129094-changge-xing.json) |
+| Channel 3 | 276042 | [276042-channel-3.json](./276042-channel-3.json) |
 | Channel 4 Midnight | 385434 | [385434-channel-4-midnight.json](./385434-channel-4-midnight.json) |
 | Channel 51 | 372282 | [372282-channel-51.json](./372282-channel-51.json) |
 | Channel 64 | 395048 | [395048-channel-64.json](./395048-channel-64.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
+| Classic Sonic Bundle | 276083 | [276083-classic-sonic-bundle.json](./276083-classic-sonic-bundle.json) |
 | Classic Sport Driving | 142575 | [142575-classic-sport-driving.json](./142575-classic-sport-driving.json) |
 | Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
 | Classic Sudoku | 126741 | [126741-classic-sudoku.json](./126741-classic-sudoku.json) |
@@ -7828,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou | 153733 | [153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json](./153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json) |
 | Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
+| Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
@@ -12580,6 +12583,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Quest: Y2K Home Expansion | 276850 | [276850-crescent-quest-y2k-home-expansion.json](./276850-crescent-quest-y2k-home-expansion.json) |
 | Crescent Roll | 403084 | [403084-crescent-roll.json](./403084-crescent-roll.json) |
 | Crescent Satsujin Jiken: Hyena no Jijou | 273446 | [273446-crescent-satsujin-jiken-hyena-no-jijou.json](./273446-crescent-satsujin-jiken-hyena-no-jijou.json) |
+| Crescent Satsujin Jiken: Reporter Saotome Kyouko | 276101 | [276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json](./276101-crescent-satsujin-jiken-reporter-saotome-kyouko.json) |
+| Crescent Satsujin Jiken: Tozasareta Nikki | 276102 | [276102-crescent-satsujin-jiken-tozasareta-nikki.json](./276102-crescent-satsujin-jiken-tozasareta-nikki.json) |
 | Crescent Tower | 339979 | [339979-crescent-tower.json](./339979-crescent-tower.json) |
 | Crescite | 262096 | [262096-crescite.json](./262096-crescite.json) |
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
@@ -14574,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Weekend | 153374 | [153374-cursed-weekend.json](./153374-cursed-weekend.json) |
 | Cursed West | 31728 | [31728-cursed-west.json](./31728-cursed-west.json) |
 | Cursed Words | 360064 | [360064-cursed-words.json](./360064-cursed-words.json) |
+| Cursed Zombie Portals 666 | 276061 | [276061-cursed-zombie-portals-666.json](./276061-cursed-zombie-portals-666.json) |
 | Cursedland | 359203 | [359203-cursedland.json](./359203-cursedland.json) |
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
@@ -15085,6 +15091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2077: Turf Wars | 397607 | [397607-cyberpunk-2077-turf-wars.json](./397607-cyberpunk-2077-turf-wars.json) |
 | Cyberpunk 2077: Ultimate Edition | 277807 | [277807-cyberpunk-2077-ultimate-edition.json](./277807-cyberpunk-2077-ultimate-edition.json) |
 | Cyberpunk 2077: Vincent Sin Edition | 173119 | [173119-cyberpunk-2077-vincent-sin-edition.json](./173119-cyberpunk-2077-vincent-sin-edition.json) |
+| Cyberpunk 2088 | 276093 | [276093-cyberpunk-2088.json](./276093-cyberpunk-2088.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
 | Cyberpunk City | 371573 | [371573-cyberpunk-city.json](./371573-cyberpunk-city.json) |
