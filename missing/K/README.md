@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
 | Koi | 20035 | [20035-koi.json](./20035-koi.json) |
+| Koi | 282480 | [282480-koi.json](./282480-koi.json) |
 | Koi de wa Naku: It's Not Love, but So where Near | 242420 | [242420-koi-de-wa-naku-its-not-love-but-so-where-near.json](./242420-koi-de-wa-naku-its-not-love-but-so-where-near.json) |
 | Koi Farm | 143633 | [143633-koi-farm.json](./143633-koi-farm.json) |
 | Koi Frenzy | 410725 | [410725-koi-frenzy.json](./410725-koi-frenzy.json) |
