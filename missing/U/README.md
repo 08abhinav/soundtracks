@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
+| Ultimate Children Fun Pack Games Collection 6 in 1 | 303880 | [303880-ultimate-children-fun-pack-games-collection-6-in-1.json](./303880-ultimate-children-fun-pack-games-collection-6-in-1.json) |
 | Ultimate Chopsticks | 338599 | [338599-ultimate-chopsticks.json](./338599-ultimate-chopsticks.json) |
 | Ultimate Christmas Puzzler 2 | 195429 | [195429-ultimate-christmas-puzzler-2.json](./195429-ultimate-christmas-puzzler-2.json) |
 | Ultimate Chump | 259851 | [259851-ultimate-chump.json](./259851-ultimate-chump.json) |
@@ -2509,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Survival Simulator: The Bum's Journey | 309053 | [309053-urban-survival-simulator-the-bums-journey.json](./309053-urban-survival-simulator-the-bums-journey.json) |
 | Urban Taxi Simulator | 268937 | [268937-urban-taxi-simulator.json](./268937-urban-taxi-simulator.json) |
 | Urban Terror | 9532 | [9532-urban-terror.json](./9532-urban-terror.json) |
+| Urban Trace: Parkour Simulator Pursuit | 303862 | [303862-urban-trace-parkour-simulator-pursuit.json](./303862-urban-trace-parkour-simulator-pursuit.json) |
 | Urban Trial Freestyle | 196841 | [196841-urban-trial-freestyle.json](./196841-urban-trial-freestyle.json) |
 | Urban Trial Freestyle 2 | 57841 | [57841-urban-trial-freestyle-2.json](./57841-urban-trial-freestyle-2.json) |
 | Urban Trial Playground: Deluxe Edition | 121510 | [121510-urban-trial-playground-deluxe-edition.json](./121510-urban-trial-playground-deluxe-edition.json) |
