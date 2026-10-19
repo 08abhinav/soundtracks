@@ -10435,6 +10435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Run: OvenBreak | 78951 | [78951-cookie-run-ovenbreak.json](./78951-cookie-run-ovenbreak.json) |
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
+| Cookie Run: The Darkest Night - Chapter 1 | 272686 | [272686-cookie-run-the-darkest-night-chapter-1.json](./272686-cookie-run-the-darkest-night-chapter-1.json) |
 | Cookie Run: Tower of Adventures | 198316 | [198316-cookie-run-tower-of-adventures.json](./198316-cookie-run-tower-of-adventures.json) |
 | Cookie Run: Witch's Castle | 193964 | [193964-cookie-run-witchs-castle.json](./193964-cookie-run-witchs-castle.json) |
 | Cookie Shop: Create Your Dream Shop | 151253 | [151253-cookie-shop-create-your-dream-shop.json](./151253-cookie-shop-create-your-dream-shop.json) |
@@ -13082,6 +13083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross X Carrot | 111608 | [111608-cross-x-carrot.json](./111608-cross-x-carrot.json) |
 | Cross x Worst: Xross Over | 212522 | [212522-cross-x-worst-xross-over.json](./212522-cross-x-worst-xross-over.json) |
 | Cross-Stitch Puzzle | 90822 | [90822-cross-stitch-puzzle.json](./90822-cross-stitch-puzzle.json) |
+| Cross-Stitch World | 272684 | [272684-cross-stitch-world.json](./272684-cross-stitch-world.json) |
 | Crossbar Kevin | 246961 | [246961-crossbar-kevin.json](./246961-crossbar-kevin.json) |
 | Crossbars | 353963 | [353963-crossbars.json](./353963-crossbars.json) |
 | crossbeats REV. | 126033 | [126033-crossbeats-rev.json](./126033-crossbeats-rev.json) |
