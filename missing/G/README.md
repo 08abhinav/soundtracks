@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal's Dungeon | 376186 | [376186-gals-dungeon.json](./376186-gals-dungeon.json) |
+| Gal*Gun | 304988 | [304988-gal-gun.json](./304988-gal-gun.json) |
 | Gal*Gun | 7000 | [7000-gal-gun.json](./7000-gal-gun.json) |
 | Gal*Gun 2 | 68279 | [68279-gal-gun-2.json](./68279-gal-gun-2.json) |
 | Gal*Gun 2: Limited Edition | 358981 | [358981-gal-gun-2-limited-edition.json](./358981-gal-gun-2-limited-edition.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
 | Gekraxel | 120114 | [120114-gekraxel.json](./120114-gekraxel.json) |
 | Gel-Tank | 142801 | [142801-gel-tank.json](./142801-gel-tank.json) |
+| Gelatina is Hungry | 304961 | [304961-gelatina-is-hungry.json](./304961-gelatina-is-hungry.json) |
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
@@ -2376,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Shooter | 312769 | [312769-geometry-shooter.json](./312769-geometry-shooter.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
 | Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
+| Geometry Tower | 304964 | [304964-geometry-tower.json](./304964-geometry-tower.json) |
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
@@ -6043,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravico | 280776 | [280776-gravico.json](./280776-gravico.json) |
 | GraviFire | 144277 | [144277-gravifire.json](./144277-gravifire.json) |
 | Gravillipse | 252159 | [252159-gravillipse.json](./252159-gravillipse.json) |
+| Gravinaytor | 305002 | [305002-gravinaytor.json](./305002-gravinaytor.json) |
 | Gravinoid | 128933 | [128933-gravinoid.json](./128933-gravinoid.json) |
 | Gravinull | 79159 | [79159-gravinull.json](./79159-gravinull.json) |
 | GraviSound | 109701 | [109701-gravisound.json](./109701-gravisound.json) |
@@ -6785,6 +6789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimGraves | 346206 | [346206-grimgraves.json](./346206-grimgraves.json) |
 | GrimGrimoire OnceMore | 197949 | [197949-grimgrimoire-oncemore.json](./197949-grimgrimoire-oncemore.json) |
 | GrimGrimoire OnceMore: Limited Edition | 283698 | [283698-grimgrimoire-oncemore-limited-edition.json](./283698-grimgrimoire-oncemore-limited-edition.json) |
+| Grimguard Tactics | 304952 | [304952-grimguard-tactics.json](./304952-grimguard-tactics.json) |
 | Grimhook | 277334 | [277334-grimhook.json](./277334-grimhook.json) |
 | GrimKeep | 339144 | [339144-grimkeep.json](./339144-grimkeep.json) |
 | Grimlands | 65048 | [65048-grimlands.json](./65048-grimlands.json) |
