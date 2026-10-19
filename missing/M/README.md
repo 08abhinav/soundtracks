@@ -4598,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
 | Maze Panic | 92157 | [92157-maze-panic.json](./92157-maze-panic.json) |
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
+| Maze Pursuit | 298376 | [298376-maze-pursuit.json](./298376-maze-pursuit.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Minis: Volume 2 | 45997 | [45997-mega-minis-volume-2.json](./45997-mega-minis-volume-2.json) |
 | Mega Minis: Volume 3 | 45996 | [45996-mega-minis-volume-3.json](./45996-mega-minis-volume-3.json) |
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
+| Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Party a Tootuff Adventure | 126339 | [126339-mega-party-a-tootuff-adventure.json](./126339-mega-party-a-tootuff-adventure.json) |
 | Mega Pede | 78990 | [78990-mega-pede.json](./78990-mega-pede.json) |
@@ -9346,6 +9348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Matches | 121597 | [121597-mini-matches.json](./121597-mini-matches.json) |
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
+| Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
 | Mini Mini Farm | 209934 | [209934-mini-mini-farm.json](./209934-mini-mini-farm.json) |
 | Mini Mini-Golf | 188109 | [188109-mini-mini-golf.json](./188109-mini-mini-golf.json) |
 | Mini Monsters | 343907 | [343907-mini-monsters.json](./343907-mini-monsters.json) |
@@ -12363,6 +12366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgan's Trivia Machine, Jr. | 209192 | [209192-morgans-trivia-machine-jr.json](./209192-morgans-trivia-machine-jr.json) |
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
+| Morgman | 298382 | [298382-morgman.json](./298382-morgman.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori | 179430 | [179430-mori.json](./179430-mori.json) |
 | Mori | 407867 | [407867-mori.json](./407867-mori.json) |
@@ -16021,6 +16025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Ninja Starring Goemon | 3545 | [3545-mystical-ninja-starring-goemon.json](./3545-mystical-ninja-starring-goemon.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
+| Mystical Riddles: Ghostly Park - Collector's Edition | 298362 | [298362-mystical-riddles-ghostly-park-collectors-edition.json](./298362-mystical-riddles-ghostly-park-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
 | Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
 | Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
