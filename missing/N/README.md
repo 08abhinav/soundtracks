@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Zombie | 274473 | [274473-new-zombie.json](./274473-new-zombie.json) |
 | New! SMW2 Yoshi's Island | 186135 | [186135-new-smw2-yoshis-island.json](./186135-new-smw2-yoshis-island.json) |
 | Newbery Winners: Bridge to Terabithia | 339677 | [339677-newbery-winners-bridge-to-terabithia.json](./339677-newbery-winners-bridge-to-terabithia.json) |
+| Newbie Kaizo World | 268348 | [268348-newbie-kaizo-world.json](./268348-newbie-kaizo-world.json) |
 | Newbie Life | 262384 | [262384-newbie-life.json](./262384-newbie-life.json) |
 | Newcastle United Club Football 2005 | 267896 | [267896-newcastle-united-club-football-2005.json](./267896-newcastle-united-club-football-2005.json) |
 | NewCity | 274427 | [274427-newcity.json](./274427-newcity.json) |
