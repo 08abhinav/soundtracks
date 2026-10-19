@@ -5091,6 +5091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything Will Be Fine! | 393969 | [393969-everything-will-be-fine.json](./393969-everything-will-be-fine.json) |
 | Everything You Didn't Get to Do | 282092 | [282092-everything-you-didnt-get-to-do.json](./282092-everything-you-didnt-get-to-do.json) |
 | Everything: All in 1 | 291761 | [291761-everything-all-in-1.json](./291761-everything-all-in-1.json) |
+| Everything's Fine | 281302 | [281302-everythings-fine.json](./281302-everythings-fine.json) |
 | Everywhere | 130365 | [130365-everywhere.json](./130365-everywhere.json) |
 | Eves Drop | 134960 | [134960-eves-drop.json](./134960-eves-drop.json) |
 | Eveslan | 65797 | [65797-eveslan.json](./65797-eveslan.json) |
