@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguru | 264648 | [264648-penguru.json](./264648-penguru.json) |
 | Pengwyn | 13745 | [13745-pengwyn.json](./13745-pengwyn.json) |
 | Pengy | 15337 | [15337-pengy.json](./15337-pengy.json) |
+| Penile Devastation | 271059 | [271059-penile-devastation.json](./271059-penile-devastation.json) |
 | Peninsular War Battles | 55459 | [55459-peninsular-war-battles.json](./55459-peninsular-war-battles.json) |
 | Penis Bird | 418629 | [418629-penis-bird.json](./418629-penis-bird.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
