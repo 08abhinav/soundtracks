@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faldon | 395860 | [395860-faldon.json](./395860-faldon.json) |
 | Falinere Fantasy | 215887 | [215887-falinere-fantasy.json](./215887-falinere-fantasy.json) |
 | Falklands | 59313 | [59313-falklands.json](./59313-falklands.json) |
+| Fall | 292370 | [292370-fall.json](./292370-fall.json) |
 | Fall | 317392 | [317392-fall.json](./317392-fall.json) |
 | Fall | 34073 | [34073-fall.json](./34073-fall.json) |
 | Fall | 364999 | [364999-fall.json](./364999-fall.json) |
@@ -6544,6 +6545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
+| FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
 | Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
