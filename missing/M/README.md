@@ -3572,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Launch Edition | 139968 | [139968-marvels-spider-man-miles-morales-launch-edition.json](./139968-marvels-spider-man-miles-morales-launch-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Ultimate Edition | 138947 | [138947-marvels-spider-man-miles-morales-ultimate-edition.json](./138947-marvels-spider-man-miles-morales-ultimate-edition.json) |
+| Marvel's Spider-Man: Miles Morales - Ultimate Launch Edition | 262164 | [262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json](./262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json) |
 | Marvel's Spider-Man: New Game Plus Update | 251543 | [251543-marvels-spider-man-new-game-plus-update.json](./251543-marvels-spider-man-new-game-plus-update.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
 | Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
@@ -5901,6 +5902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaChao | 331086 | [331086-megachao.json](./331086-megachao.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
+| MegaCity | 262210 | [262210-megacity.json](./262210-megacity.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
 | Megacop | 117663 | [117663-megacop.json](./117663-megacop.json) |
 | Megacraft Hentai And Zombies | 366533 | [366533-megacraft-hentai-and-zombies.json](./366533-megacraft-hentai-and-zombies.json) |
@@ -9390,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Drifters: World Racing '89 | 252009 | [252009-mini-drifters-world-racing-89.json](./252009-mini-drifters-world-racing-89.json) |
 | Mini Dungeon | 326041 | [326041-mini-dungeon.json](./326041-mini-dungeon.json) |
 | Mini Dungeon | 357746 | [357746-mini-dungeon.json](./357746-mini-dungeon.json) |
+| Mini Fazenda | 262215 | [262215-mini-fazenda.json](./262215-mini-fazenda.json) |
 | Mini Fighter | 359192 | [359192-mini-fighter.json](./359192-mini-fighter.json) |
 | Mini Fighters: Quest & Battle | 378404 | [378404-mini-fighters-quest-and-battle.json](./378404-mini-fighters-quest-and-battle.json) |
 | Mini Football | 322563 | [322563-mini-football.json](./322563-mini-football.json) |
