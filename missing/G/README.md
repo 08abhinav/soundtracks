@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini: A Journey of Two Stars | 57734 | [57734-gemini-a-journey-of-two-stars.json](./57734-gemini-a-journey-of-two-stars.json) |
 | Gemini: Heroes Reborn | 19932 | [19932-gemini-heroes-reborn.json](./19932-gemini-heroes-reborn.json) |
 | GeminiArms | 116242 | [116242-geminiarms.json](./116242-geminiarms.json) |
+| GeminiFlame: Alpha Dragon | 269992 | [269992-geminiflame-alpha-dragon.json](./269992-geminiflame-alpha-dragon.json) |
 | Geminiii | 250457 | [250457-geminiii.json](./250457-geminiii.json) |
 | Geminism | 304816 | [304816-geminism.json](./304816-geminism.json) |
 | Geminose: Animal Popstars | 144940 | [144940-geminose-animal-popstars.json](./144940-geminose-animal-popstars.json) |
@@ -7245,6 +7246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
 | GrowBud | 373134 | [373134-growbud.json](./373134-growbud.json) |
 | Growers | 264058 | [264058-growers.json](./264058-growers.json) |
+| Growers | 269971 | [269971-growers.json](./269971-growers.json) |
 | Growing My Grandpa! | 200660 | [200660-growing-my-grandpa.json](./200660-growing-my-grandpa.json) |
 | Growing My Manhole | 404809 | [404809-growing-my-manhole.json](./404809-growing-my-manhole.json) |
 | Growing Pain | 182804 | [182804-growing-pain.json](./182804-growing-pain.json) |
