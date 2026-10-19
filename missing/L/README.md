@@ -1898,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
 | Legend of Moros | 33320 | [33320-legend-of-moros.json](./33320-legend-of-moros.json) |
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
+| Legend of Mushroom | 296826 | [296826-legend-of-mushroom.json](./296826-legend-of-mushroom.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
 | Legend of Parry King | 309506 | [309506-legend-of-parry-king.json](./309506-legend-of-parry-king.json) |
 | Legend Of Peks: Halloween Horror | 272753 | [272753-legend-of-peks-halloween-horror.json](./272753-legend-of-peks-halloween-horror.json) |
