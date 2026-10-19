@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youkashi no Haitokuai: Junshin Tenshi ha Dakarete Iromeku | 416596 | [416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json](./416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
 | Yōulì: Yasashii Lìxiǎn | 394186 | [394186-youli-yasashii-lixian.json](./394186-youli-yasashii-lixian.json) |
+| Youlogic | 267784 | [267784-youlogic.json](./267784-youlogic.json) |
 | Youma Kourin | 219152 | [219152-youma-kourin.json](./219152-youma-kourin.json) |
 | Youmais | 64341 | [64341-youmais.json](./64341-youmais.json) |
 | Youmu Konpaku & Dungeon of Lewd Creatures | 155460 | [155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json](./155460-youmu-konpaku-and-dungeon-of-lewd-creatures.json) |
