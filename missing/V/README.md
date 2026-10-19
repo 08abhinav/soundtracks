@@ -1935,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual AI: Aki & Mika | 216860 | [216860-virtual-ai-aki-and-mika.json](./216860-virtual-ai-aki-and-mika.json) |
 | Virtual Anime Girl | 90366 | [90366-virtual-anime-girl.json](./90366-virtual-anime-girl.json) |
 | Virtual Aquarium | 407280 | [407280-virtual-aquarium.json](./407280-virtual-aquarium.json) |
+| Virtual Baby Mother Simulator | 296748 | [296748-virtual-baby-mother-simulator.json](./296748-virtual-baby-mother-simulator.json) |
 | Virtual Babysitter Life: Happy Family Simulator | 95838 | [95838-virtual-babysitter-life-happy-family-simulator.json](./95838-virtual-babysitter-life-happy-family-simulator.json) |
 | Virtual Bart | 2835 | [2835-virtual-bart.json](./2835-virtual-bart.json) |
 | Virtual Bart Redux | 219273 | [219273-virtual-bart-redux.json](./219273-virtual-bart-redux.json) |
@@ -1988,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Happy Land | 329231 | [329231-virtual-happy-land.json](./329231-virtual-happy-land.json) |
 | Virtual Hero VR | 118995 | [118995-virtual-hero-vr.json](./118995-virtual-hero-vr.json) |
 | Virtual High School Girl Game | 106654 | [106654-virtual-high-school-girl-game.json](./106654-virtual-high-school-girl-game.json) |
+| Virtual High School Life Sim | 296740 | [296740-virtual-high-school-life-sim.json](./296740-virtual-high-school-life-sim.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Hunter | 173207 | [173207-virtual-hunter.json](./173207-virtual-hunter.json) |
@@ -2010,11 +2012,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
 | Virtual Magic Kingdom | 70609 | [70609-virtual-magic-kingdom.json](./70609-virtual-magic-kingdom.json) |
 | Virtual Maid Streamer Ramie | 187437 | [187437-virtual-maid-streamer-ramie.json](./187437-virtual-maid-streamer-ramie.json) |
+| Virtual Mom Happy Family Game | 296742 | [296742-virtual-mom-happy-family-game.json](./296742-virtual-mom-happy-family-game.json) |
 | Virtual Mom: Happy Family 3D | 106962 | [106962-virtual-mom-happy-family-3d.json](./106962-virtual-mom-happy-family-3d.json) |
 | Virtual Mom: Job Simulator Manager | 268462 | [268462-virtual-mom-job-simulator-manager.json](./268462-virtual-mom-job-simulator-manager.json) |
 | Virtual Monster Battle | 206446 | [206446-virtual-monster-battle.json](./206446-virtual-monster-battle.json) |
 | Virtual Mother Family Game: Working Mom Simulator | 101587 | [101587-virtual-mother-family-game-working-mom-simulator.json](./101587-virtual-mother-family-game-working-mom-simulator.json) |
 | Virtual Mother Home Chef Family Simulator | 103903 | [103903-virtual-mother-home-chef-family-simulator.json](./103903-virtual-mother-home-chef-family-simulator.json) |
+| Virtual Mother Twins Baby | 296743 | [296743-virtual-mother-twins-baby.json](./296743-virtual-mother-twins-baby.json) |
 | Virtual Perspective | 391756 | [391756-virtual-perspective.json](./391756-virtual-perspective.json) |
 | Virtual Pet | 315292 | [315292-virtual-pet.json](./315292-virtual-pet.json) |
 | Virtual Pet | 325547 | [325547-virtual-pet.json](./325547-virtual-pet.json) |
@@ -3042,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Kaboom | 96847 | [96847-vroom-kaboom.json](./96847-vroom-kaboom.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
+| Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
 | VRpatients | 368237 | [368237-vrpatients.json](./368237-vrpatients.json) |
