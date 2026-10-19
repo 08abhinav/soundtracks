@@ -4281,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maurice: In the Predator's Nest | 227770 | [227770-maurice-in-the-predators-nest.json](./227770-maurice-in-the-predators-nest.json) |
 | Mauritius Atoll | 176294 | [176294-mauritius-atoll.json](./176294-mauritius-atoll.json) |
 | Mausoleosis | 302951 | [302951-mausoleosis.json](./302951-mausoleosis.json) |
+| Mausoleum of Memories | 295078 | [295078-mausoleum-of-memories.json](./295078-mausoleum-of-memories.json) |
 | Mausoleum of the Medusa | 25604 | [25604-mausoleum-of-the-medusa.json](./25604-mausoleum-of-the-medusa.json) |
 | Mave's Castle | 415323 | [415323-maves-castle.json](./415323-maves-castle.json) |
 | Maveldor: Saga of the Twin Mirrors | 250941 | [250941-maveldor-saga-of-the-twin-mirrors.json](./250941-maveldor-saga-of-the-twin-mirrors.json) |
@@ -8159,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Magic | 41109 | [41109-midnight-magic.json](./41109-midnight-magic.json) |
 | Midnight Mahjong | 182360 | [182360-midnight-mahjong.json](./182360-midnight-mahjong.json) |
 | Midnight Maintenance | 180780 | [180780-midnight-maintenance.json](./180780-midnight-maintenance.json) |
+| Midnight Makeover | 295088 | [295088-midnight-makeover.json](./295088-midnight-makeover.json) |
 | Midnight Man | 330244 | [330244-midnight-man.json](./330244-midnight-man.json) |
 | Midnight Mansion | 365804 | [365804-midnight-mansion.json](./365804-midnight-mansion.json) |
 | Midnight Margo | 276827 | [276827-midnight-margo.json](./276827-midnight-margo.json) |
@@ -8519,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
+| Milfvania Ep. 1: Winter DLC | 295108 | [295108-milfvania-ep-1-winter-dlc.json](./295108-milfvania-ep-1-winter-dlc.json) |
 | Milfvania Ep. 3 | 260323 | [260323-milfvania-ep-3.json](./260323-milfvania-ep-3.json) |
 | Milfy City | 239289 | [239289-milfy-city.json](./239289-milfy-city.json) |
 | Milfy City: Final Edition | 265575 | [265575-milfy-city-final-edition.json](./265575-milfy-city-final-edition.json) |
@@ -8617,6 +8620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilliBilli Slots | 232540 | [232540-millibilli-slots.json](./232540-millibilli-slots.json) |
 | Millidor | 81670 | [81670-millidor.json](./81670-millidor.json) |
 | Millie and Molly | 179661 | [179661-millie-and-molly.json](./179661-millie-and-molly.json) |
+| Millie Megavolte 8: Millie and the Mole King | 295091 | [295091-millie-megavolte-8-millie-and-the-mole-king.json](./295091-millie-megavolte-8-millie-and-the-mole-king.json) |
 | Millie Meter and Her Adventures in the Oak Tree | 57571 | [57571-millie-meter-and-her-adventures-in-the-oak-tree.json](./57571-millie-meter-and-her-adventures-in-the-oak-tree.json) |
 | Millie Meter's Nutrition Adventure | 71964 | [71964-millie-meters-nutrition-adventure.json](./71964-millie-meters-nutrition-adventure.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
@@ -12780,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Destruction | 103431 | [103431-moss-destruction.json](./103431-moss-destruction.json) |
 | Moss Moss | 393732 | [393732-moss-moss.json](./393732-moss-moss.json) |
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
+| Moss Piglets | 295102 | [295102-moss-piglets.json](./295102-moss-piglets.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
 | Moss: Book II | 154839 | [154839-moss-book-ii.json](./154839-moss-book-ii.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
