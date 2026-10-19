@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Pirates: Die Together | 397402 | [397402-last-pirates-die-together.json](./397402-last-pirates-die-together.json) |
 | Last Pizza Slice | 178591 | [178591-last-pizza-slice.json](./178591-last-pizza-slice.json) |
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
+| Last Pocket | 261099 | [261099-last-pocket.json](./261099-last-pocket.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
 | Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
@@ -3387,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's 2 Short: Unhooked | 265192 | [265192-lifes-2-short-unhooked.json](./265192-lifes-2-short-unhooked.json) |
 | Life's a Beach | 366126 | [366126-lifes-a-beach.json](./366126-lifes-a-beach.json) |
 | Life's Too Short | 199909 | [199909-lifes-too-short.json](./199909-lifes-too-short.json) |
+| Life's Too Short GB | 261131 | [261131-lifes-too-short-gb.json](./261131-lifes-too-short-gb.json) |
 | Life's Too Short GB: A Christmas Spirit | 292225 | [292225-lifes-too-short-gb-a-christmas-spirit.json](./292225-lifes-too-short-gb-a-christmas-spirit.json) |
 | Life's Too Short: A Christmas Spirit | 228095 | [228095-lifes-too-short-a-christmas-spirit.json](./228095-lifes-too-short-a-christmas-spirit.json) |
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
@@ -6855,6 +6857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luckless Seven | 9758 | [9758-luckless-seven.json](./9758-luckless-seven.json) |
 | Luckrot | 351706 | [351706-luckrot.json](./351706-luckrot.json) |
 | Lucky 21 | 241337 | [241337-lucky-21.json](./241337-lucky-21.json) |
+| Lucky Bastard | 261091 | [261091-lucky-bastard.json](./261091-lucky-bastard.json) |
 | Lucky Break: Dating in New York | 372684 | [372684-lucky-break-dating-in-new-york.json](./372684-lucky-break-dating-in-new-york.json) |
 | Lucky Cat Bingo | 354978 | [354978-lucky-cat-bingo.json](./354978-lucky-cat-bingo.json) |
 | Lucky Charms | 406862 | [406862-lucky-charms.json](./406862-lucky-charms.json) |
