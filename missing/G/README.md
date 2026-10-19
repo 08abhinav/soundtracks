@@ -757,7 +757,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery Fake | 197660 | [197660-gallery-fake.json](./197660-gallery-fake.json) |
 | Gallery Hero | 110301 | [110301-gallery-hero.json](./110301-gallery-hero.json) |
 | Gallery Manager | 234660 | [234660-gallery-manager.json](./234660-gallery-manager.json) |
+| Gallery Night Shift | 279493 | [279493-gallery-night-shift.json](./279493-gallery-night-shift.json) |
 | Gallery of Shadows: Lycans Returns | 376055 | [376055-gallery-of-shadows-lycans-returns.json](./376055-gallery-of-shadows-lycans-returns.json) |
+| Gallery of Things: Reveries | 279462 | [279462-gallery-of-things-reveries.json](./279462-gallery-of-things-reveries.json) |
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
