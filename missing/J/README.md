@@ -1854,15 +1854,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
 | Johnny Trigger | 178278 | [178278-johnny-trigger.json](./178278-johnny-trigger.json) |
 | Johnny Trigger Action Collection | 254683 | [254683-johnny-trigger-action-collection.json](./254683-johnny-trigger-action-collection.json) |
+| Johnny Trigger: Avenger DLC | 256690 | [256690-johnny-trigger-avenger-dlc.json](./256690-johnny-trigger-avenger-dlc.json) |
 | Johnny Trigger: Avenger Edition | 270291 | [270291-johnny-trigger-avenger-edition.json](./270291-johnny-trigger-avenger-edition.json) |
+| Johnny Trigger: Butcher DLC | 256688 | [256688-johnny-trigger-butcher-dlc.json](./256688-johnny-trigger-butcher-dlc.json) |
 | Johnny Trigger: Diamond Edition | 393066 | [393066-johnny-trigger-diamond-edition.json](./393066-johnny-trigger-diamond-edition.json) |
 | Johnny Trigger: Emerald Edition | 385203 | [385203-johnny-trigger-emerald-edition.json](./385203-johnny-trigger-emerald-edition.json) |
 | Johnny Trigger: Gold Edition | 396919 | [396919-johnny-trigger-gold-edition.json](./396919-johnny-trigger-gold-edition.json) |
 | Johnny Trigger: Hotshot DLC | 256800 | [256800-johnny-trigger-hotshot-dlc.json](./256800-johnny-trigger-hotshot-dlc.json) |
 | Johnny Trigger: Hotshot Edition | 283171 | [283171-johnny-trigger-hotshot-edition.json](./283171-johnny-trigger-hotshot-edition.json) |
+| Johnny Trigger: Hunter DLC | 256692 | [256692-johnny-trigger-hunter-dlc.json](./256692-johnny-trigger-hunter-dlc.json) |
 | Johnny Trigger: Hunter Edition | 294826 | [294826-johnny-trigger-hunter-edition.json](./294826-johnny-trigger-hunter-edition.json) |
 | Johnny Trigger: Johnnybee DLC | 256796 | [256796-johnny-trigger-johnnybee-dlc.json](./256796-johnny-trigger-johnnybee-dlc.json) |
 | Johnny Trigger: Johnnybee Edition | 263537 | [263537-johnny-trigger-johnnybee-edition.json](./263537-johnny-trigger-johnnybee-edition.json) |
+| Johnny Trigger: Lunatic DLC | 256685 | [256685-johnny-trigger-lunatic-dlc.json](./256685-johnny-trigger-lunatic-dlc.json) |
 | Johnny Trigger: Lunatic Edition | 304779 | [304779-johnny-trigger-lunatic-edition.json](./304779-johnny-trigger-lunatic-edition.json) |
 | Johnny Turbo | 331374 | [331374-johnny-turbo.json](./331374-johnny-turbo.json) |
 | Johnny Turbo's Arcade: Fighter's History | 114203 | [114203-johnny-turbos-arcade-fighters-history.json](./114203-johnny-turbos-arcade-fighters-history.json) |
