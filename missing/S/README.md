@@ -14334,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
+| Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Industrial Empire | 250962 | [250962-space-industrial-empire.json](./250962-space-industrial-empire.json) |
@@ -23034,6 +23035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations: Random 6 | 268950 | [268950-super-jigsaw-puzzle-generations-random-6.json](./268950-super-jigsaw-puzzle-generations-random-6.json) |
 | Super Jigsaw Puzzle: Monuments | 103792 | [103792-super-jigsaw-puzzle-monuments.json](./103792-super-jigsaw-puzzle-monuments.json) |
 | Super Jigsaw Puzzle: Space | 110937 | [110937-super-jigsaw-puzzle-space.json](./110937-super-jigsaw-puzzle-space.json) |
+| Super Jolly RPG | 282440 | [282440-super-jolly-rpg.json](./282440-super-jolly-rpg.json) |
 | Super Juicy HD | 232346 | [232346-super-juicy-hd.json](./232346-super-juicy-hd.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
@@ -24315,6 +24317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Squad | 127075 | [127075-super-squad.json](./127075-super-squad.json) |
 | Super Squad: Super Pack | 155467 | [155467-super-squad-super-pack.json](./155467-super-squad-super-pack.json) |
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
+| Super Stacker | 282478 | [282478-super-stacker.json](./282478-super-stacker.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
 | Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
