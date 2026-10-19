@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
+| RADS: The Radioactive Apocalypse Dating Simulator | 290822 | [290822-rads-the-radioactive-apocalypse-dating-simulator.json](./290822-rads-the-radioactive-apocalypse-dating-simulator.json) |
 | Radzone | 256248 | [256248-radzone.json](./256248-radzone.json) |
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
@@ -5994,6 +5995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Ball 2 | 54325 | [54325-rival-ball-2.json](./54325-rival-ball-2.json) |
 | Rival Ball Tournament | 71707 | [71707-rival-ball-tournament.json](./71707-rival-ball-tournament.json) |
 | Rival Books of Aster | 38965 | [38965-rival-books-of-aster.json](./38965-rival-books-of-aster.json) |
+| Rival Commanders | 290802 | [290802-rival-commanders.json](./290802-rival-commanders.json) |
 | Rival Commanders | 389478 | [389478-rival-commanders.json](./389478-rival-commanders.json) |
 | Rival Fire | 227168 | [227168-rival-fire.json](./227168-rival-fire.json) |
 | Rival Fury | 188648 | [188648-rival-fury.json](./188648-rival-fury.json) |
@@ -6552,6 +6554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robospital | 265096 | [265096-robospital.json](./265096-robospital.json) |
 | RoboSport | 73231 | [73231-robosport.json](./73231-robosport.json) |
 | RoboSports VR | 30694 | [30694-robosports-vr.json](./30694-robosports-vr.json) |
+| RoboSquad Revolution: Founder's Pack | 290782 | [290782-robosquad-revolution-founders-pack.json](./290782-robosquad-revolution-founders-pack.json) |
 | RoboSquad Revolution: Maverick Supporter Pack | 298183 | [298183-robosquad-revolution-maverick-supporter-pack.json](./298183-robosquad-revolution-maverick-supporter-pack.json) |
 | RoboSquare | 141205 | [141205-robosquare.json](./141205-robosquare.json) |
 | RoboSquare: Recharged | 416817 | [416817-robosquare-recharged.json](./416817-robosquare-recharged.json) |
