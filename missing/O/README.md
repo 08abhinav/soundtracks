@@ -3181,6 +3181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
+| Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
+| Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
 | Os Trapalhões apresentam Didi na Mina Encantada! | 262416 | [262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json](./262416-os-trapalhoes-apresentam-didi-na-mina-encantada.json) |
 | OS:Memories | 203179 | [203179-os-memories.json](./203179-os-memories.json) |
 | OS:Path | 97084 | [97084-os-path.json](./97084-os-path.json) |
