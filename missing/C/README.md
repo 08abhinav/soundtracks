@@ -1183,6 +1183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 4th Room | 173142 | [173142-capes-escape-game-4th-room.json](./173142-capes-escape-game-4th-room.json) |
 | Cape's Escape Game 5th Room | 186569 | [186569-capes-escape-game-5th-room.json](./186569-capes-escape-game-5th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
+| Cape's Escape Game 8th Room | 297311 | [297311-capes-escape-game-8th-room.json](./297311-capes-escape-game-8th-room.json) |
 | Capeless Heroes | 176223 | [176223-capeless-heroes.json](./176223-capeless-heroes.json) |
 | Capella's Promise | 124531 | [124531-capellas-promise.json](./124531-capellas-promise.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
