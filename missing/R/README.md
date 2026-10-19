@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
+| Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
 | Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
 | Rat Race | 408783 | [408783-rat-race.json](./408783-rat-race.json) |
@@ -3378,6 +3379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated | 245242 | [245242-reincarnated.json](./245242-reincarnated.json) |
 | Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
+| Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
