@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
+| Way of the Hunter: Hunting Season One | 283595 | [283595-way-of-the-hunter-hunting-season-one.json](./283595-way-of-the-hunter-hunting-season-one.json) |
 | Way of the Hunter: Kawasaki UTV Pack | 376283 | [376283-way-of-the-hunter-kawasaki-utv-pack.json](./376283-way-of-the-hunter-kawasaki-utv-pack.json) |
 | Way of the Hunter: Lintukoto Reserve | 312278 | [312278-way-of-the-hunter-lintukoto-reserve.json](./312278-way-of-the-hunter-lintukoto-reserve.json) |
 | Way of the Hunter: Map Pack 1 | 378557 | [378557-way-of-the-hunter-map-pack-1.json](./378557-way-of-the-hunter-map-pack-1.json) |
@@ -5179,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
 | Wolverine | 85885 | [85885-wolverine.json](./85885-wolverine.json) |
+| Wolverine M.R.D. Escape | 283580 | [283580-wolverine-m-r-d-escape.json](./283580-wolverine-m-r-d-escape.json) |
 | Wolverine: Adamantium Rage | 207235 | [207235-wolverine-adamantium-rage.json](./207235-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Rage | 46250 | [46250-wolverine-adamantium-rage.json](./46250-wolverine-adamantium-rage.json) |
 | Wolverine: Adamantium Redux | 219275 | [219275-wolverine-adamantium-redux.json](./219275-wolverine-adamantium-redux.json) |
@@ -6888,6 +6890,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K23: Steiner Row Pack | 263146 | [263146-wwe-2k23-steiner-row-pack.json](./263146-wwe-2k23-steiner-row-pack.json) |
 | WWE 2K24 | 283600 | [283600-wwe-2k24.json](./283600-wwe-2k24.json) |
 | WWE 2K24 Bray Wyatt Bundle | 331508 | [331508-wwe-2k24-bray-wyatt-bundle.json](./331508-wwe-2k24-bray-wyatt-bundle.json) |
+| WWE 2K24 Deluxe Edition | 283601 | [283601-wwe-2k24-deluxe-edition.json](./283601-wwe-2k24-deluxe-edition.json) |
+| WWE 2K24 Forty Years of WrestleMania | 283602 | [283602-wwe-2k24-forty-years-of-wrestlemania.json](./283602-wwe-2k24-forty-years-of-wrestlemania.json) |
 | WWE 2K24: ECW Punk Pack | 311076 | [311076-wwe-2k24-ecw-punk-pack.json](./311076-wwe-2k24-ecw-punk-pack.json) |
 | WWE 2K24: Global Superstars Pack | 332035 | [332035-wwe-2k24-global-superstars-pack.json](./332035-wwe-2k24-global-superstars-pack.json) |
 | WWE 2K24: MyRISE Mega-Boost | 332034 | [332034-wwe-2k24-myrise-mega-boost.json](./332034-wwe-2k24-myrise-mega-boost.json) |
