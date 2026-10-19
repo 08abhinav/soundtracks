@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datswer | 35820 | [35820-datswer.json](./35820-datswer.json) |
 | Datura Time | 219143 | [219143-datura-time.json](./219143-datura-time.json) |
 | Daughter | 287875 | [287875-daughter.json](./287875-daughter.json) |
+| Daughter of Crone | 262839 | [262839-daughter-of-crone.json](./262839-daughter-of-crone.json) |
 | Daughter of Essence | 158654 | [158654-daughter-of-essence.json](./158654-daughter-of-essence.json) |
 | Daughter of Reyn | 209930 | [209930-daughter-of-reyn.json](./209930-daughter-of-reyn.json) |
 | Daughter of Serpents | 12416 | [12416-daughter-of-serpents.json](./12416-daughter-of-serpents.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day of the Viper | 12039 | [12039-day-of-the-viper.json](./12039-day-of-the-viper.json) |
 | Day of the Zombie | 64853 | [64853-day-of-the-zombie.json](./64853-day-of-the-zombie.json) |
 | Day of Vaccination | 148904 | [148904-day-of-vaccination.json](./148904-day-of-vaccination.json) |
+| Day Off Simulator | 262799 | [262799-day-off-simulator.json](./262799-day-off-simulator.json) |
 | Day on Mars | 186853 | [186853-day-on-mars.json](./186853-day-on-mars.json) |
 | Day One: Garry's Incident | 3046 | [3046-day-one-garrys-incident.json](./3046-day-one-garrys-incident.json) |
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
@@ -3842,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Line | 361810 | [361810-deep-line.json](./361810-deep-line.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
+| Deep Maze | 262832 | [262832-deep-maze.json](./262832-deep-maze.json) |
 | Deep Mine | 274024 | [274024-deep-mine.json](./274024-deep-mine.json) |
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
@@ -4582,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy 3: Electioneering | 51754 | [51754-democracy-3-electioneering.json](./51754-democracy-3-electioneering.json) |
 | Democracy 3: Social Engineering | 11399 | [11399-democracy-3-social-engineering.json](./11399-democracy-3-social-engineering.json) |
 | Democracy 4 | 109483 | [109483-democracy-4.json](./109483-democracy-4.json) |
+| Democracy 4: Country Pack | 262796 | [262796-democracy-4-country-pack.json](./262796-democracy-4-country-pack.json) |
 | Democracy 4: Event Pack | 242020 | [242020-democracy-4-event-pack.json](./242020-democracy-4-event-pack.json) |
 | Democracy Manifest | 410499 | [410499-democracy-manifest.json](./410499-democracy-manifest.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
@@ -7799,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
+| Dissent on Mars | 262829 | [262829-dissent-on-mars.json](./262829-dissent-on-mars.json) |
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
@@ -12146,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Sergeant Mindstrong | 51116 | [51116-drill-sergeant-mindstrong.json](./51116-drill-sergeant-mindstrong.json) |
 | Drill Space | 341037 | [341037-drill-space.json](./341037-drill-space.json) |
 | Drill to Hell: Clicked Too Deep | 345082 | [345082-drill-to-hell-clicked-too-deep.json](./345082-drill-to-hell-clicked-too-deep.json) |
+| Drill to the Stars | 262812 | [262812-drill-to-the-stars.json](./262812-drill-to-the-stars.json) |
 | Drill Up | 348945 | [348945-drill-up.json](./348945-drill-up.json) |
 | Driller Tanks | 94636 | [94636-driller-tanks.json](./94636-driller-tanks.json) |
 | Drillman 6378137 | 195703 | [195703-drillman-6378137.json](./195703-drillman-6378137.json) |
