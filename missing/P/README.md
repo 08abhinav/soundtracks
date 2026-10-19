@@ -6751,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
 | Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
+| Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
 | Planet Sheen: Been There, Sheen That! | 334937 | [334937-planet-sheen-been-there-sheen-that.json](./334937-planet-sheen-been-there-sheen-that.json) |
 | Planet Simulation | 63207 | [63207-planet-simulation.json](./63207-planet-simulation.json) |
 | Planet Smashers | 12336 | [12336-planet-smashers.json](./12336-planet-smashers.json) |
@@ -8645,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Chase | 334826 | [334826-police-car-chase.json](./334826-police-car-chase.json) |
 | Police Car Drift Simulator | 223986 | [223986-police-car-drift-simulator.json](./223986-police-car-drift-simulator.json) |
 | Police Car Driver: City Parking Simulator | 283237 | [283237-police-car-driver-city-parking-simulator.json](./283237-police-car-driver-city-parking-simulator.json) |
+| Police Car Parking 3D | 306235 | [306235-police-car-parking-3d.json](./306235-police-car-parking-3d.json) |
 | Police Car Simulator | 236170 | [236170-police-car-simulator.json](./236170-police-car-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
@@ -9635,6 +9637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato | 314306 | [314306-potato.json](./314306-potato.json) |
 | Potato Arena | 202546 | [202546-potato-arena.json](./202546-potato-arena.json) |
 | Potato Cop | 350221 | [350221-potato-cop.json](./350221-potato-cop.json) |
+| Potato Escape: One Touch Runner | 306206 | [306206-potato-escape-one-touch-runner.json](./306206-potato-escape-one-touch-runner.json) |
 | Potato Flowers in Full Bloom | 139252 | [139252-potato-flowers-in-full-bloom.json](./139252-potato-flowers-in-full-bloom.json) |
 | Potato Lagoon | 178087 | [178087-potato-lagoon.json](./178087-potato-lagoon.json) |
 | Potato Mash! | 238593 | [238593-potato-mash.json](./238593-potato-mash.json) |
@@ -10285,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
+| Pretend You're Xyzzy | 306207 | [306207-pretend-youre-xyzzy.json](./306207-pretend-youre-xyzzy.json) |
 | Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
@@ -11330,6 +11334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
+| Project Astrid | 306184 | [306184-project-astrid.json](./306184-project-astrid.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
 | Project Atlas | 175718 | [175718-project-atlas.json](./175718-project-atlas.json) |
 | Project Atlas | 384808 | [384808-project-atlas.json](./384808-project-atlas.json) |
@@ -12912,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
+| Purple: Director's Cut | 306202 | [306202-purple-directors-cut.json](./306202-purple-directors-cut.json) |
 | Purplearc | 374598 | [374598-purplearc.json](./374598-purplearc.json) |
 | Purpose Calling | 295795 | [295795-purpose-calling.json](./295795-purpose-calling.json) |
 | Purr Bricks | 396012 | [396012-purr-bricks.json](./396012-purr-bricks.json) |
