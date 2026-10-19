@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Noox | 26934 | [26934-candy-noox.json](./26934-candy-noox.json) |
 | Candy Patrol: Lollipop Defense | 108621 | [108621-candy-patrol-lollipop-defense.json](./108621-candy-patrol-lollipop-defense.json) |
 | Candy Pop Match3 | 220804 | [220804-candy-pop-match3.json](./220804-candy-pop-match3.json) |
+| Candy Puzzle | 283620 | [283620-candy-puzzle.json](./283620-candy-puzzle.json) |
 | Candy Puzzles | 328563 | [328563-candy-puzzles.json](./328563-candy-puzzles.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
 | Chase H.Q. II | 304296 | [304296-chase-h-q-ii.json](./304296-chase-h-q-ii.json) |
 | Chase H.Q.: Secret Police | 49898 | [49898-chase-h-q-secret-police.json](./49898-chase-h-q-secret-police.json) |
+| Chase It! | 283587 | [283587-chase-it.json](./283587-chase-it.json) |
 | Chase Love in Japan | 231472 | [231472-chase-love-in-japan.json](./231472-chase-love-in-japan.json) |
 | Chase St | 388251 | [388251-chase-st.json](./388251-chase-st.json) |
 | Chase Survivors | 244512 | [244512-chase-survivors.json](./244512-chase-survivors.json) |
@@ -5572,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
 | Chocolate | 54825 | [54825-chocolate.json](./54825-chocolate.json) |
+| Chocolate Cage | 283571 | [283571-chocolate-cage.json](./283571-chocolate-cage.json) |
 | Chocolate Cake | 397948 | [397948-chocolate-cake.json](./397948-chocolate-cake.json) |
 | Chocolate Castle | 50445 | [50445-chocolate-castle.json](./50445-chocolate-castle.json) |
 | Chocolate Cavern | 249349 | [249349-chocolate-cavern.json](./249349-chocolate-cavern.json) |
@@ -7085,7 +7088,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class Maid | 97774 | [97774-class-maid.json](./97774-class-maid.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
+| Class of Heroes | 283592 | [283592-class-of-heroes.json](./283592-class-of-heroes.json) |
+| Class of Heroes 1 & 2 Complete Edition | 283594 | [283594-class-of-heroes-1-and-2-complete-edition.json](./283594-class-of-heroes-1-and-2-complete-edition.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
+| Class of Heroes 2 | 283593 | [283593-class-of-heroes-2.json](./283593-class-of-heroes-2.json) |
 | Class of Heroes 3 | 65563 | [65563-class-of-heroes-3.json](./65563-class-of-heroes-3.json) |
 | Class of Heroes 3: Remaster | 325303 | [325303-class-of-heroes-3-remaster.json](./325303-class-of-heroes-3-remaster.json) |
 | Class of Heroes: Anniversary Edition | 220942 | [220942-class-of-heroes-anniversary-edition.json](./220942-class-of-heroes-anniversary-edition.json) |
