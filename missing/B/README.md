@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad North | 78550 | [78550-bad-north.json](./78550-bad-north.json) |
 | Bad North: Jotunn Edition | 302647 | [302647-bad-north-jotunn-edition.json](./302647-bad-north-jotunn-edition.json) |
 | Bad Note | 111865 | [111865-bad-note.json](./111865-bad-note.json) |
+| Bad Omens: 8th Apartment | 308007 | [308007-bad-omens-8th-apartment.json](./308007-bad-omens-8th-apartment.json) |
 | Bad Pad | 31579 | [31579-bad-pad.json](./31579-bad-pad.json) |
 | Bad Parenthood | 330397 | [330397-bad-parenthood.json](./330397-bad-parenthood.json) |
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
@@ -1811,6 +1812,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barca Total 2000 | 92608 | [92608-barca-total-2000.json](./92608-barca-total-2000.json) |
 | Barcelona Fighter 92' | 98261 | [98261-barcelona-fighter-92.json](./98261-barcelona-fighter-92.json) |
 | Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
+| Barcode Battler | 308060 | [308060-barcode-battler.json](./308060-barcode-battler.json) |
+| Barcode Battler | 308062 | [308062-barcode-battler.json](./308062-barcode-battler.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Senyou Card Software - Zelda no Densetsu: Kamigami no Triforce | 328949 | [328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json](./328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
@@ -2941,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Robot Damashii | 63833 | [63833-battle-robot-damashii.json](./63833-battle-robot-damashii.json) |
 | Battle Robot Retsuden | 44424 | [44424-battle-robot-retsuden.json](./44424-battle-robot-retsuden.json) |
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
+| Battle Robots: Confrontation | 308027 | [308027-battle-robots-confrontation.json](./308027-battle-robots-confrontation.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
@@ -4515,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Believer Clubhouse | 313581 | [313581-believer-clubhouse.json](./313581-believer-clubhouse.json) |
 | Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
+| BelisBelus | 308022 | [308022-belisbelus.json](./308022-belisbelus.json) |
 | Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
 | Bell Park, Youth Detective | 139308 | [139308-bell-park-youth-detective.json](./139308-bell-park-youth-detective.json) |
@@ -6722,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Spot | 193880 | [193880-black-spot.json](./193880-black-spot.json) |
 | Black Stallion Cabaret | 208575 | [208575-black-stallion-cabaret.json](./208575-black-stallion-cabaret.json) |
 | Black Star | 319571 | [319571-black-star.json](./319571-black-star.json) |
+| Black State | 308029 | [308029-black-state.json](./308029-black-state.json) |
 | Black stone | 284000 | [284000-black-stone.json](./284000-black-stone.json) |
 | Black Stone: Magic & Steel | 5750 | [5750-black-stone-magic-and-steel.json](./5750-black-stone-magic-and-steel.json) |
 | Black Submarine: Deep Seek | 312208 | [312208-black-submarine-deep-seek.json](./312208-black-submarine-deep-seek.json) |
