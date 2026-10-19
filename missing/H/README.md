@@ -2062,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Woods! | 260852 | [260852-haunted-woods.json](./260852-haunted-woods.json) |
 | Haunted Zombie School | 205225 | [205225-haunted-zombie-school.json](./205225-haunted-zombie-school.json) |
 | Haunted Zombie Slaughter | 232986 | [232986-haunted-zombie-slaughter.json](./232986-haunted-zombie-slaughter.json) |
+| Haunted Zombie Slaughter 2 | 268327 | [268327-haunted-zombie-slaughter-2.json](./268327-haunted-zombie-slaughter-2.json) |
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
@@ -8675,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
+| Humvee Assault: War 3D FPS | 268328 | [268328-humvee-assault-war-3d-fps.json](./268328-humvee-assault-war-3d-fps.json) |
 | Hunchback at the Olympics | 70105 | [70105-hunchback-at-the-olympics.json](./70105-hunchback-at-the-olympics.json) |
 | Hunchback: The Adventure | 26390 | [26390-hunchback-the-adventure.json](./26390-hunchback-the-adventure.json) |
 | Huncho | 176759 | [176759-huncho.json](./176759-huncho.json) |
