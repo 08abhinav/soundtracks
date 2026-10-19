@@ -5316,6 +5316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Board Game: Climate Expansion | 238214 | [238214-evolution-board-game-climate-expansion.json](./238214-evolution-board-game-climate-expansion.json) |
 | Evolution Climate: Ultimate Bundle | 287181 | [287181-evolution-climate-ultimate-bundle.json](./287181-evolution-climate-ultimate-bundle.json) |
 | Evolution for Beginners | 143928 | [143928-evolution-for-beginners.json](./143928-evolution-for-beginners.json) |
+| Evolution Galaxy | 267234 | [267234-evolution-galaxy.json](./267234-evolution-galaxy.json) |
 | Evolution Merge: Eat and Grow | 221378 | [221378-evolution-merge-eat-and-grow.json](./221378-evolution-merge-eat-and-grow.json) |
 | Evolution of a Mini World: Physics Wonderland | 153429 | [153429-evolution-of-a-mini-world-physics-wonderland.json](./153429-evolution-of-a-mini-world-physics-wonderland.json) |
 | Evolution of War | 173023 | [173023-evolution-of-war.json](./173023-evolution-of-war.json) |
