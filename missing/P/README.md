@@ -6920,6 +6920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants | 185394 | [185394-plants.json](./185394-plants.json) |
 | Plants in Rush | 287718 | [287718-plants-in-rush.json](./287718-plants-in-rush.json) |
 | Plants on Fire | 408106 | [408106-plants-on-fire.json](./408106-plants-on-fire.json) |
+| Plants vs Animals | 298381 | [298381-plants-vs-animals.json](./298381-plants-vs-animals.json) |
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: Garden Warfare - Garden Variety | 303743 | [303743-plants-vs-zombies-garden-warfare-garden-variety.json](./303743-plants-vs-zombies-garden-warfare-garden-variety.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
