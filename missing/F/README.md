@@ -5103,6 +5103,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Laps at Freddy's | 306217 | [306217-five-laps-at-freddys.json](./306217-five-laps-at-freddys.json) |
 | Five Lethal Demons | 315201 | [315201-five-lethal-demons.json](./315201-five-lethal-demons.json) |
 | Five Letter Words | 104115 | [104115-five-letter-words.json](./104115-five-letter-words.json) |
+| Five Likes Please | 290787 | [290787-five-likes-please.json](./290787-five-likes-please.json) |
+| Five Likes Please: Historic Weapons Pack | 290789 | [290789-five-likes-please-historic-weapons-pack.json](./290789-five-likes-please-historic-weapons-pack.json) |
+| Five Likes Please: Neon Pack | 290788 | [290788-five-likes-please-neon-pack.json](./290788-five-likes-please-neon-pack.json) |
 | Five Mysterious Murders | 374759 | [374759-five-mysterious-murders.json](./374759-five-mysterious-murders.json) |
 | Five Nations | 146675 | [146675-five-nations.json](./146675-five-nations.json) |
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
@@ -10032,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Feet Girls | 301999 | [301999-furry-feet-girls.json](./301999-furry-feet-girls.json) |
 | Furry Feet: Femboys! | 213530 | [213530-furry-feet-femboys.json](./213530-furry-feet-femboys.json) |
 | Furry Femboys | 247961 | [247961-furry-femboys.json](./247961-furry-femboys.json) |
+| Furry Femboys: Fantasy | 290798 | [290798-furry-femboys-fantasy.json](./290798-furry-femboys-fantasy.json) |
 | Furry Femmes: Making an Obedient Bitch | 235659 | [235659-furry-femmes-making-an-obedient-bitch.json](./235659-furry-femmes-making-an-obedient-bitch.json) |
 | Furry Fetishists | 286501 | [286501-furry-fetishists.json](./286501-furry-fetishists.json) |
 | Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
