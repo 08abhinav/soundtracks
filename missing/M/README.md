@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malicious | 26582 | [26582-malicious.json](./26582-malicious.json) |
 | Malicious Payload | 114509 | [114509-malicious-payload.json](./114509-malicious-payload.json) |
 | Malicious Rebirth | 26584 | [26584-malicious-rebirth.json](./26584-malicious-rebirth.json) |
+| Malignant Survivors | 286943 | [286943-malignant-survivors.json](./286943-malignant-survivors.json) |
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
@@ -8303,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
 | Midway's Greatest Arcade Hits | 209512 | [209512-midways-greatest-arcade-hits.json](./209512-midways-greatest-arcade-hits.json) |
+| Midway's Greatest Arcade Hits: Volume 1 | 286966 | [286966-midways-greatest-arcade-hits-volume-1.json](./286966-midways-greatest-arcade-hits-volume-1.json) |
 | Midwest Drag Racing | 395190 | [395190-midwest-drag-racing.json](./395190-midwest-drag-racing.json) |
 | Midwest Goodbye | 414183 | [414183-midwest-goodbye.json](./414183-midwest-goodbye.json) |
 | Midwinter | 79580 | [79580-midwinter.json](./79580-midwinter.json) |
@@ -13550,6 +13552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
 | Mr. Big Wigs | 55931 | [55931-mr-big-wigs.json](./55931-mr-big-wigs.json) |
 | Mr. Bill | 92544 | [92544-mr-bill.json](./92544-mr-bill.json) |
+| Mr. Bill's Neighborhood | 286945 | [286945-mr-bills-neighborhood.json](./286945-mr-bills-neighborhood.json) |
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Blobby | 74042 | [74042-mr-blobby.json](./74042-mr-blobby.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
@@ -15263,6 +15266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mario Game | 335715 | [335715-my-mario-game.json](./335715-my-mario-game.json) |
 | My Mart | 420668 | [420668-my-mart.json](./420668-my-mart.json) |
 | My Mates | 346244 | [346244-my-mates.json](./346244-my-mates.json) |
+| My Melody & Kuromi no Machigai Sagashi | 286950 | [286950-my-melody-and-kuromi-no-machigai-sagashi.json](./286950-my-melody-and-kuromi-no-machigai-sagashi.json) |
 | My Melody Angel Book: Denshi Techou & Enjoy Game | 196254 | [196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json](./196254-my-melody-angel-book-denshi-techou-and-enjoy-game.json) |
 | My Melody: Negai ga Kanau Fushigi na Hako | 97813 | [97813-my-melody-negai-ga-kanau-fushigi-na-hako.json](./97813-my-melody-negai-ga-kanau-fushigi-na-hako.json) |
 | My Mermaid Girlfriend | 208366 | [208366-my-mermaid-girlfriend.json](./208366-my-mermaid-girlfriend.json) |
