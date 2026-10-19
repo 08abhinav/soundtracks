@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RBI Baseball '95 | 45876 | [45876-rbi-baseball-95.json](./45876-rbi-baseball-95.json) |
 | RBI Baseball 21 | 142825 | [142825-rbi-baseball-21.json](./142825-rbi-baseball-21.json) |
 | RBL | 197641 | [197641-rbl.json](./197641-rbl.json) |
+| RBM Studio's Gettysburg | 260537 | [260537-rbm-studios-gettysburg.json](./260537-rbm-studios-gettysburg.json) |
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
@@ -6388,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roamaor | 249314 | [249314-roamaor.json](./249314-roamaor.json) |
 | Roaming Backrooms | 265156 | [265156-roaming-backrooms.json](./265156-roaming-backrooms.json) |
 | Roaming through the Rivers | 214731 | [214731-roaming-through-the-rivers.json](./214731-roaming-through-the-rivers.json) |
+| Roanoke | 260561 | [260561-roanoke.json](./260561-roanoke.json) |
 | Roanoke | 86233 | [86233-roanoke.json](./86233-roanoke.json) |
 | Roar | 179078 | [179078-roar.json](./179078-roar.json) |
 | Roar of Revenge | 167595 | [167595-roar-of-revenge.json](./167595-roar-of-revenge.json) |
@@ -7635,6 +7637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolisteam | 54897 | [54897-rolisteam.json](./54897-rolisteam.json) |
 | Roll | 147455 | [147455-roll.json](./147455-roll.json) |
 | Roll 'n Bounce | 389482 | [389482-roll-n-bounce.json](./389482-roll-n-bounce.json) |
+| Roll & Ball | 260523 | [260523-roll-and-ball.json](./260523-roll-and-ball.json) |
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
 | Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
@@ -9609,6 +9612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruzzle Adventure | 38910 | [38910-ruzzle-adventure.json](./38910-ruzzle-adventure.json) |
 | RV Drive There Co-op | 389069 | [389069-rv-drive-there-co-op.json](./389069-rv-drive-there-co-op.json) |
 | RV Escape | 210286 | [210286-rv-escape.json](./210286-rv-escape.json) |
+| RV Kingdom 0x0297 | 260563 | [260563-rv-kingdom-0x0297.json](./260563-rv-kingdom-0x0297.json) |
 | RV Park Life | 228452 | [228452-rv-park-life.json](./228452-rv-park-life.json) |
 | RV Roadtrip Simulator | 403730 | [403730-rv-roadtrip-simulator.json](./403730-rv-roadtrip-simulator.json) |
 | RV Tags | 405672 | [405672-rv-tags.json](./405672-rv-tags.json) |
