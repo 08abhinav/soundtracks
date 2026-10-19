@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
+| Sanity's Shroud | 279503 | [279503-sanitys-shroud.json](./279503-sanitys-shroud.json) |
 | Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
 | SankakkuDoku | 320456 | [320456-sankakkudoku.json](./320456-sankakkudoku.json) |
 | Sankaku Renai: Love Triangle Trouble | 110870 | [110870-sankaku-renai-love-triangle-trouble.json](./110870-sankaku-renai-love-triangle-trouble.json) |
@@ -6708,6 +6709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Chicken Insanity Chickens | 110171 | [110171-shooting-chicken-insanity-chickens.json](./110171-shooting-chicken-insanity-chickens.json) |
 | Shooting Covid | 195713 | [195713-shooting-covid.json](./195713-shooting-covid.json) |
 | Shooting Disappearing | 288357 | [288357-shooting-disappearing.json](./288357-shooting-disappearing.json) |
+| Shooting Donut | 279472 | [279472-shooting-donut.json](./279472-shooting-donut.json) |
 | Shooting Fever | 64888 | [64888-shooting-fever.json](./64888-shooting-fever.json) |
 | Shooting Filling | 288358 | [288358-shooting-filling.json](./288358-shooting-filling.json) |
 | Shooting Gallery | 18587 | [18587-shooting-gallery.json](./18587-shooting-gallery.json) |
@@ -8808,6 +8810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
+| Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
 | Skeleton Scramble Deluxe | 192136 | [192136-skeleton-scramble-deluxe.json](./192136-skeleton-scramble-deluxe.json) |
 | Skeleton Sprint | 55675 | [55675-skeleton-sprint.json](./55675-skeleton-sprint.json) |
 | Skeleton Troubles | 166707 | [166707-skeleton-troubles.json](./166707-skeleton-troubles.json) |
@@ -12273,6 +12276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 293380 | [293380-some-assembly-required.json](./293380-some-assembly-required.json) |
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
+| Some Goodbyes We Made | 279465 | [279465-some-goodbyes-we-made.json](./279465-some-goodbyes-we-made.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
 | Some Knights Left | 179497 | [179497-some-knights-left.json](./179497-some-knights-left.json) |
 | Some Like It Hot: Chapter 0 | 135051 | [135051-some-like-it-hot-chapter-0.json](./135051-some-like-it-hot-chapter-0.json) |
@@ -17803,6 +17807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Shift Rebellion | 190395 | [190395-star-shift-rebellion.json](./190395-star-shift-rebellion.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
+| Star Ship Survivor | 279498 | [279498-star-ship-survivor.json](./279498-star-ship-survivor.json) |
 | Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
@@ -22563,6 +22568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Climb Up | 123400 | [123400-super-climb-up.json](./123400-super-climb-up.json) |
 | Super Climb Up!! | 377053 | [377053-super-climb-up.json](./377053-super-climb-up.json) |
 | Super Cloner 3D | 223925 | [223925-super-cloner-3d.json](./223925-super-cloner-3d.json) |
+| Super Cloud Fight | 279476 | [279476-super-cloud-fight.json](./279476-super-cloud-fight.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
@@ -23957,6 +23963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
 | Super Recoilfight | 117814 | [117814-super-recoilfight.json](./117814-super-recoilfight.json) |
 | Super Releasio 64 | 344171 | [344171-super-releasio-64.json](./344171-super-releasio-64.json) |
+| Super Retro BoxBot | 279470 | [279470-super-retro-boxbot.json](./279470-super-retro-boxbot.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
@@ -26564,6 +26571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sys//Purge | 395041 | [395041-sys-purge.json](./395041-sys-purge.json) |
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
+| SysOps Saga | 279482 | [279482-sysops-saga.json](./279482-sysops-saga.json) |
 | System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
