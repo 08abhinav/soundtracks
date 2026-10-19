@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Range Royale | 108426 | [108426-range-royale.json](./108426-range-royale.json) |
 | Rangedrifter | 401275 | [401275-rangedrifter.json](./401275-rangedrifter.json) |
 | Ranger Danger | 224740 | [224740-ranger-danger.json](./224740-ranger-danger.json) |
+| Ranger Force | 304422 | [304422-ranger-force.json](./304422-ranger-force.json) |
 | Ranger in Spider's den | 108353 | [108353-ranger-in-spiders-den.json](./108353-ranger-in-spiders-den.json) |
 | Ranger Luke: Rosemary Forest | 109538 | [109538-ranger-luke-rosemary-forest.json](./109538-ranger-luke-rosemary-forest.json) |
 | Ranger Mission | 39436 | [39436-ranger-mission.json](./39436-ranger-mission.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rose Rising | 102202 | [102202-red-rose-rising.json](./102202-red-rose-rising.json) |
 | Red Rover | 103255 | [103255-red-rover.json](./103255-red-rover.json) |
 | Red Ruin | 120826 | [120826-red-ruin.json](./120826-red-ruin.json) |
+| Red Ruins | 304466 | [304466-red-ruins.json](./304466-red-ruins.json) |
 | Red Runner | 184938 | [184938-red-runner.json](./184938-red-runner.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
@@ -8087,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose & Camellia 4 | 317598 | [317598-rose-and-camellia-4.json](./317598-rose-and-camellia-4.json) |
 | Rose & Camellia: The Legendary Rose Bride | 227726 | [227726-rose-and-camellia-the-legendary-rose-bride.json](./227726-rose-and-camellia-the-legendary-rose-bride.json) |
 | Rose & Time | 60526 | [60526-rose-and-time.json](./60526-rose-and-time.json) |
+| Rose and Cross | 304468 | [304468-rose-and-cross.json](./304468-rose-and-cross.json) |
 | Rose City Revenge: The Beginning | 220632 | [220632-rose-city-revenge-the-beginning.json](./220632-rose-city-revenge-the-beginning.json) |
 | Rose Cottage | 286673 | [286673-rose-cottage.json](./286673-rose-cottage.json) |
 | Rose Guns Days | 65427 | [65427-rose-guns-days.json](./65427-rose-guns-days.json) |
