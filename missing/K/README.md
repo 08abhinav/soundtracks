@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
 | Koshmar: The Last Reverie | 397836 | [397836-koshmar-the-last-reverie.json](./397836-koshmar-the-last-reverie.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
+| Kosmic Kanga | 306802 | [306802-kosmic-kanga.json](./306802-kosmic-kanga.json) |
 | Kosmik Pirate | 300032 | [300032-kosmik-pirate.json](./300032-kosmik-pirate.json) |
 | Kosmo & Klax: Treehouse-Party | 95693 | [95693-kosmo-and-klax-treehouse-party.json](./95693-kosmo-and-klax-treehouse-party.json) |
 | Kosmo Azs | 257922 | [257922-kosmo-azs.json](./257922-kosmo-azs.json) |
@@ -4208,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kromaia | 8815 | [8815-kromaia.json](./8815-kromaia.json) |
 | Kromaia Ω | 14296 | [14296-kromaia.json](./14296-kromaia.json) |
+| Kromaia: Annvrsary X | 306795 | [306795-kromaia-annvrsary-x.json](./306795-kromaia-annvrsary-x.json) |
 | Kromer Kollector | 181875 | [181875-kromer-kollector.json](./181875-kromer-kollector.json) |
 | Kromex | 400850 | [400850-kromex.json](./400850-kromex.json) |
 | Kromlech | 253588 | [253588-kromlech.json](./253588-kromlech.json) |
