@@ -8460,6 +8460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Knight Legacy | 275339 | [275339-mighty-knight-legacy.json](./275339-mighty-knight-legacy.json) |
 | Mighty Mahjong | 406111 | [406111-mighty-mahjong.json](./406111-mighty-mahjong.json) |
 | Mighty Marbles | 258441 | [258441-mighty-marbles.json](./258441-mighty-marbles.json) |
+| Mighty Match Puzzle Adventure | 259972 | [259972-mighty-match-puzzle-adventure.json](./259972-mighty-match-puzzle-adventure.json) |
 | Mighty Math | 222807 | [222807-mighty-math.json](./222807-mighty-math.json) |
 | Mighty Math Carnival Countdown | 129156 | [129156-mighty-math-carnival-countdown.json](./129156-mighty-math-carnival-countdown.json) |
 | Mighty Math Zoo Zillions | 313286 | [313286-mighty-math-zoo-zillions.json](./313286-mighty-math-zoo-zillions.json) |
@@ -8939,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindaro | 355123 | [355123-mindaro.json](./355123-mindaro.json) |
 | Mindball Play | 33455 | [33455-mindball-play.json](./33455-mindball-play.json) |
 | Mindbender | 71529 | [71529-mindbender.json](./71529-mindbender.json) |
+| MindBloc | 260004 | [260004-mindbloc.json](./260004-mindbloc.json) |
 | Mindblower Pack | 78023 | [78023-mindblower-pack.json](./78023-mindblower-pack.json) |
 | Mindbreak Mansion | 320038 | [320038-mindbreak-mansion.json](./320038-mindbreak-mansion.json) |
 | Mindbuster | 90925 | [90925-mindbuster.json](./90925-mindbuster.json) |
@@ -14430,6 +14432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musha Musha Memorial | 355187 | [355187-musha-musha-memorial.json](./355187-musha-musha-memorial.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
+| Mushi no Idokoro | 259990 | [259990-mushi-no-idokoro.json](./259990-mushi-no-idokoro.json) |
 | Mushi Taro | 279223 | [279223-mushi-taro.json](./279223-mushi-taro.json) |
 | Mushihime-sama Futari | 27626 | [27626-mushihime-sama-futari.json](./27626-mushihime-sama-futari.json) |
 | Mushihime-sama Futari: Black Label | 79369 | [79369-mushihime-sama-futari-black-label.json](./79369-mushihime-sama-futari-black-label.json) |
@@ -14895,6 +14898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Card Is Better Than Your Card! | 342224 | [342224-my-card-is-better-than-your-card.json](./342224-my-card-is-better-than-your-card.json) |
 | My Cashy Side Job at Lost&Found in the Subway of Million-Person City | 189060 | [189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json](./189060-my-cashy-side-job-at-lost-and-found-in-the-subway-of-million-person-city.json) |
 | My Cat | 222880 | [222880-my-cat.json](./222880-my-cat.json) |
+| My Cat Club: Collect Kittens | 259971 | [259971-my-cat-club-collect-kittens.json](./259971-my-cat-club-collect-kittens.json) |
 | My Cat Girlfriend | 299598 | [299598-my-cat-girlfriend.json](./299598-my-cat-girlfriend.json) |
 | My Cat Town | 299208 | [299208-my-cat-town.json](./299208-my-cat-town.json) |
 | My Cat: Virtual Pet Simulator | 331358 | [331358-my-cat-virtual-pet-simulator.json](./331358-my-cat-virtual-pet-simulator.json) |
@@ -15066,6 +15070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
 | My Final Cursed Days | 336483 | [336483-my-final-cursed-days.json](./336483-my-final-cursed-days.json) |
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
+| My First Craft Survival | 259988 | [259988-my-first-craft-survival.json](./259988-my-first-craft-survival.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
 | My First Date RPG 2 | 196813 | [196813-my-first-date-rpg-2.json](./196813-my-first-date-rpg-2.json) |
 | My First Date RPG: Elliot - Story One | 210921 | [210921-my-first-date-rpg-elliot-story-one.json](./210921-my-first-date-rpg-elliot-story-one.json) |
