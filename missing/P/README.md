@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
 | Paperents | 342292 | [342292-paperents.json](./342292-paperents.json) |
 | Papergames.io | 334918 | [334918-papergames-io.json](./334918-papergames-io.json) |
+| Paperhead | 276028 | [276028-paperhead.json](./276028-paperhead.json) |
 | Paperhead Ep. 0 | 321587 | [321587-paperhead-ep-0.json](./321587-paperhead-ep-0.json) |
 | PaperKlay | 204531 | [204531-paperklay.json](./204531-paperklay.json) |
 | Paperlands | 418267 | [418267-paperlands.json](./418267-paperlands.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Island VR | 31169 | [31169-pen-island-vr.json](./31169-pen-island-vr.json) |
 | Pen Pal Princess | 188942 | [188942-pen-pal-princess.json](./188942-pen-pal-princess.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
+| Pen Pals | 276038 | [276038-pen-pals.json](./276038-pen-pals.json) |
 | Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
 | Penalty | 292982 | [292982-penalty.json](./292982-penalty.json) |
@@ -7817,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
 | Point Blank X | 243045 | [243045-point-blank-x.json](./243045-point-blank-x.json) |
+| Point Click Killer | 276092 | [276092-point-click-killer.json](./276092-point-click-killer.json) |
 | Point Click Killer: Act Two | 281333 | [281333-point-click-killer-act-two.json](./281333-point-click-killer-act-two.json) |
 | Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
 | Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
@@ -8682,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
+| Polarvoid | 276067 | [276067-polarvoid.json](./276067-polarvoid.json) |
 | Polary | 163953 | [163953-polary.json](./163953-polary.json) |
 | PolClash | 367964 | [367964-polclash.json](./367964-polclash.json) |
 | Polda | 9713 | [9713-polda.json](./9713-polda.json) |
