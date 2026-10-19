@@ -6251,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles WW2 Jigsaw: French Tanks | 263965 | [263965-pixel-puzzles-ww2-jigsaw-french-tanks.json](./263965-pixel-puzzles-ww2-jigsaw-french-tanks.json) |
 | Pixel Puzzles WW2 Jigsaw: Italian Tanks | 264005 | [264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json](./264005-pixel-puzzles-ww2-jigsaw-italian-tanks.json) |
 | Pixel Puzzles WW2 Jigsaw: Kriegsmarine | 263962 | [263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json](./263962-pixel-puzzles-ww2-jigsaw-kriegsmarine.json) |
+| Pixel Puzzles WW2 Jigsaw: Pack - German Railway Guns | 264507 | [264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json](./264507-pixel-puzzles-ww2-jigsaw-pack-german-railway-guns.json) |
 | Pixel Puzzles WW2 Jigsaw: Pack - Soviet Invasion of Poland | 268141 | [268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json](./268141-pixel-puzzles-ww2-jigsaw-pack-soviet-invasion-of-poland.json) |
 | Pixel Puzzles: Illustrations & Anime | 162933 | [162933-pixel-puzzles-illustrations-and-anime.json](./162933-pixel-puzzles-illustrations-and-anime.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Chibi | 241507 | [241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json](./241507-pixel-puzzles-illustrations-and-anime-jigsaw-pack-chibi.json) |
