@@ -2245,6 +2245,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judero | 221649 | [221649-judero.json](./221649-judero.json) |
 | Judge Dee: The City God Case | 64833 | [64833-judge-dee-the-city-god-case.json](./64833-judge-dee-the-city-god-case.json) |
 | Judge Dredd | 198785 | [198785-judge-dredd.json](./198785-judge-dredd.json) |
+| Judge Dredd | 265036 | [265036-judge-dredd.json](./265036-judge-dredd.json) |
+| Judge Dredd | 265037 | [265037-judge-dredd.json](./265037-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
@@ -3014,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Eat Sushi! | 405354 | [405354-just-eat-sushi.json](./405354-just-eat-sushi.json) |
 | Just Eat the Rich | 397920 | [397920-just-eat-the-rich.json](./397920-just-eat-the-rich.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
+| Just Fighting | 264998 | [264998-just-fighting.json](./264998-just-fighting.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
 | Just Find It 4 | 302213 | [302213-just-find-it-4.json](./302213-just-find-it-4.json) |
