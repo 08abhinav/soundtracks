@@ -4875,6 +4875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolt | 34083 | [34083-revolt.json](./34083-revolt.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revoltaire | 182872 | [182872-revoltaire.json](./182872-revoltaire.json) |
+| ReVolte | 276098 | [276098-revolte.json](./276098-revolte.json) |
 | Revolter | 227761 | [227761-revolter.json](./227761-revolter.json) |
 | Revoltin' Youth | 42814 | [42814-revoltin-youth.json](./42814-revoltin-youth.json) |
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
