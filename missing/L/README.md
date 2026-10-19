@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Curse | 356701 | [356701-lost-curse.json](./356701-lost-curse.json) |
 | Lost Daughter | 120070 | [120070-lost-daughter.json](./120070-lost-daughter.json) |
 | Lost Day | 236739 | [236739-lost-day.json](./236739-lost-day.json) |
+| Lost Days 0: Queen's Dream | 304989 | [304989-lost-days-0-queens-dream.json](./304989-lost-days-0-queens-dream.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
 | Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
