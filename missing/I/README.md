@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | IMob | 92690 | [92690-imob.json](./92690-imob.json) |
+| Imobilidade Urbana | 283611 | [283611-imobilidade-urbana.json](./283611-imobilidade-urbana.json) |
 | Imogen | 13728 | [13728-imogen.json](./13728-imogen.json) |
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
