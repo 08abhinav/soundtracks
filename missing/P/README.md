@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palm Simulator 2 | 374941 | [374941-palm-simulator-2.json](./374941-palm-simulator-2.json) |
 | Palm Sugar: A Village Story | 287713 | [287713-palm-sugar-a-village-story.json](./287713-palm-sugar-a-village-story.json) |
 | Palm Tetris | 250599 | [250599-palm-tetris.json](./250599-palm-tetris.json) |
+| Palm Town | 273257 | [273257-palm-town.json](./273257-palm-town.json) |
 | Palmon: Survival | 369018 | [369018-palmon-survival.json](./369018-palmon-survival.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
@@ -9096,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponster | 196511 | [196511-ponster.json](./196511-ponster.json) |
 | Pontefract | 139317 | [139317-pontefract.json](./139317-pontefract.json) |
 | Pontifex | 78898 | [78898-pontifex.json](./78898-pontifex.json) |
+| Pony Arcadia | 273267 | [273267-pony-arcadia.json](./273267-pony-arcadia.json) |
 | Pony Card Match HD | 96740 | [96740-pony-card-match-hd.json](./96740-pony-card-match-hd.json) |
 | Pony Craft | 205661 | [205661-pony-craft.json](./205661-pony-craft.json) |
 | Pony Doctor | 101973 | [101973-pony-doctor.json](./101973-pony-doctor.json) |
@@ -10104,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerstar Golf: Emperor's Garden | 249733 | [249733-powerstar-golf-emperors-garden.json](./249733-powerstar-golf-emperors-garden.json) |
 | Powerstar Golf: Rocky Ridge | 249724 | [249724-powerstar-golf-rocky-ridge.json](./249724-powerstar-golf-rocky-ridge.json) |
 | Powerstation 17 | 337433 | [337433-powerstation-17.json](./337433-powerstation-17.json) |
+| Powerstation 64 | 273249 | [273249-powerstation-64.json](./273249-powerstation-64.json) |
 | PowersVR | 29540 | [29540-powersvr.json](./29540-powersvr.json) |
 | Powerup | 327194 | [327194-powerup.json](./327194-powerup.json) |
 | PowerUp Heroes | 510 | [510-powerup-heroes.json](./510-powerup-heroes.json) |
@@ -10168,6 +10171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prairie Dog Hunt | 319120 | [319120-prairie-dog-hunt.json](./319120-prairie-dog-hunt.json) |
 | Praise Champion | 209929 | [209929-praise-champion.json](./209929-praise-champion.json) |
 | Praise Dead | 261700 | [261700-praise-dead.json](./261700-praise-dead.json) |
+| Prajator: Image Ranger | 273281 | [273281-prajator-image-ranger.json](./273281-prajator-image-ranger.json) |
 | Prana | 75113 | [75113-prana.json](./75113-prana.json) |
 | Prank Bros | 108891 | [108891-prank-bros.json](./108891-prank-bros.json) |
 | Prank Call | 165423 | [165423-prank-call.json](./165423-prank-call.json) |
