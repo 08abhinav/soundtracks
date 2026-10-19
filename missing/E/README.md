@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Dark | 196285 | [196285-escape-from-the-dark.json](./196285-escape-from-the-dark.json) |
 | Escape From the Depth | 242050 | [242050-escape-from-the-depth.json](./242050-escape-from-the-depth.json) |
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
+| Escape From The Dreamy | 278317 | [278317-escape-from-the-dreamy.json](./278317-escape-from-the-dreamy.json) |
 | Escape from the Dungeon | 332009 | [332009-escape-from-the-dungeon.json](./332009-escape-from-the-dungeon.json) |
 | Escape from the escape-game | 102247 | [102247-escape-from-the-escape-game.json](./102247-escape-from-the-escape-game.json) |
 | Escape from the Facility | 290252 | [290252-escape-from-the-facility.json](./290252-escape-from-the-facility.json) |
