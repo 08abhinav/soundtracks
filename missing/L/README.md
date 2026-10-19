@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Learn Janggi | 147876 | [147876-lets-learn-janggi.json](./147876-lets-learn-janggi.json) |
 | Let's Learn Japanese! Complete Collection | 306696 | [306696-lets-learn-japanese-complete-collection.json](./306696-lets-learn-japanese-complete-collection.json) |
 | Let's Learn Japanese! Kanji Sudoku | 306440 | [306440-lets-learn-japanese-kanji-sudoku.json](./306440-lets-learn-japanese-kanji-sudoku.json) |
+| Let's Learn Japanese! Vocabulary | 286407 | [286407-lets-learn-japanese-vocabulary.json](./286407-lets-learn-japanese-vocabulary.json) |
 | Let's Learn Korean! Hangul | 367521 | [367521-lets-learn-korean-hangul.json](./367521-lets-learn-korean-hangul.json) |
 | Let's Learn Korean! Vocabulary | 367522 | [367522-lets-learn-korean-vocabulary.json](./367522-lets-learn-korean-vocabulary.json) |
 | Let's Learn Lingít | 391296 | [391296-lets-learn-lingit.json](./391296-lets-learn-lingit.json) |
@@ -3951,6 +3952,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LinearChicken | 97274 | [97274-linearchicken.json](./97274-linearchicken.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | LineArt Jigsaw Puzzle: Airplanes | 286239 | [286239-lineart-jigsaw-puzzle-airplanes.json](./286239-lineart-jigsaw-puzzle-airplanes.json) |
+| LineArt Jigsaw Puzzle: Erotica | 286383 | [286383-lineart-jigsaw-puzzle-erotica.json](./286383-lineart-jigsaw-puzzle-erotica.json) |
+| LineArt Jigsaw Puzzle: Erotica 2 | 286384 | [286384-lineart-jigsaw-puzzle-erotica-2.json](./286384-lineart-jigsaw-puzzle-erotica-2.json) |
+| LineArt Jigsaw Puzzle: Erotica 3 | 286385 | [286385-lineart-jigsaw-puzzle-erotica-3.json](./286385-lineart-jigsaw-puzzle-erotica-3.json) |
+| LineArt Jigsaw Puzzle: Erotica 4 | 286386 | [286386-lineart-jigsaw-puzzle-erotica-4.json](./286386-lineart-jigsaw-puzzle-erotica-4.json) |
+| LineArt Jigsaw Puzzle: Erotica 5 | 286387 | [286387-lineart-jigsaw-puzzle-erotica-5.json](./286387-lineart-jigsaw-puzzle-erotica-5.json) |
+| LineArt Jigsaw Puzzle: Erotica Christmas | 286390 | [286390-lineart-jigsaw-puzzle-erotica-christmas.json](./286390-lineart-jigsaw-puzzle-erotica-christmas.json) |
+| LineArt Jigsaw Puzzle: Erotica Summer | 286389 | [286389-lineart-jigsaw-puzzle-erotica-summer.json](./286389-lineart-jigsaw-puzzle-erotica-summer.json) |
+| LineArt Jigsaw Puzzle: Erotica Valentines | 286388 | [286388-lineart-jigsaw-puzzle-erotica-valentines.json](./286388-lineart-jigsaw-puzzle-erotica-valentines.json) |
 | Linebound | 403778 | [403778-linebound.json](./403778-linebound.json) |
 | Linecook | 179198 | [179198-linecook.json](./179198-linecook.json) |
 | Linehot Putin: All Stars | 116855 | [116855-linehot-putin-all-stars.json](./116855-linehot-putin-all-stars.json) |
@@ -6218,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Digital | 90973 | [90973-lotus-digital.json](./90973-lotus-digital.json) |
 | Lotus F3 | 373025 | [373025-lotus-f3.json](./373025-lotus-f3.json) |
 | Lotus III: The Ultimate Challenge | 12672 | [12672-lotus-iii-the-ultimate-challenge.json](./12672-lotus-iii-the-ultimate-challenge.json) |
+| Lotus Lantern: Rescue Mother | 286380 | [286380-lotus-lantern-rescue-mother.json](./286380-lotus-lantern-rescue-mother.json) |
 | Lotus Minigames: Berlin Traffic | 120420 | [120420-lotus-minigames-berlin-traffic.json](./120420-lotus-minigames-berlin-traffic.json) |
 | Lotus Minigames: United Nations | 114355 | [114355-lotus-minigames-united-nations.json](./114355-lotus-minigames-united-nations.json) |
 | Lotus Reverie: First Nexus | 128919 | [128919-lotus-reverie-first-nexus.json](./128919-lotus-reverie-first-nexus.json) |
@@ -6345,6 +6355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Hentai and Puzzles: Cyberpunk Babes | 366529 | [366529-love-hentai-and-puzzles-cyberpunk-babes.json](./366529-love-hentai-and-puzzles-cyberpunk-babes.json) |
 | Love Hentai and Puzzles: Gamer Girls | 366531 | [366531-love-hentai-and-puzzles-gamer-girls.json](./366531-love-hentai-and-puzzles-gamer-girls.json) |
 | Love Hentai and Puzzles: Yokai | 366532 | [366532-love-hentai-and-puzzles-yokai.json](./366532-love-hentai-and-puzzles-yokai.json) |
+| Love Hentai: Endgame | 286403 | [286403-love-hentai-endgame.json](./286403-love-hentai-endgame.json) |
 | Love Hentai: Fap Fast, Die Young | 367021 | [367021-love-hentai-fap-fast-die-young.json](./367021-love-hentai-fap-fast-die-young.json) |
 | Love Hentai: Sexy Body | 109714 | [109714-love-hentai-sexy-body.json](./109714-love-hentai-sexy-body.json) |
 | Love Hex | 326847 | [326847-love-hex.json](./326847-love-hex.json) |
