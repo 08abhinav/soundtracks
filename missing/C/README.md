@@ -7889,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clueless Crosswords | 244830 | [244830-clueless-crosswords.json](./244830-clueless-crosswords.json) |
 | Clueless: The CD-ROM | 69852 | [69852-clueless-the-cd-rom.json](./69852-clueless-the-cd-rom.json) |
 | Clues By Sam | 352878 | [352878-clues-by-sam.json](./352878-clues-by-sam.json) |
+| ClueSweeper | 281262 | [281262-cluesweeper.json](./281262-cluesweeper.json) |
 | Cluju | 386327 | [386327-cluju.json](./386327-cluju.json) |
 | Clumsy Cannon | 284825 | [284825-clumsy-cannon.json](./284825-clumsy-cannon.json) |
 | Clumsy Cat | 259242 | [259242-clumsy-cat.json](./259242-clumsy-cat.json) |
@@ -8633,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
+| Colony 7 | 281286 | [281286-colony-7.json](./281286-colony-7.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
 | Colony Battle | 145686 | [145686-colony-battle.json](./145686-colony-battle.json) |
@@ -11002,6 +11004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Mechanic | 193687 | [193687-cosmic-mechanic.json](./193687-cosmic-mechanic.json) |
 | Cosmic Miners | 345655 | [345655-cosmic-miners.json](./345655-cosmic-miners.json) |
 | Cosmic Mirage | 297100 | [297100-cosmic-mirage.json](./297100-cosmic-mirage.json) |
+| Cosmic Monsters | 281285 | [281285-cosmic-monsters.json](./281285-cosmic-monsters.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Paradox: Noire | 290621 | [290621-cosmic-paradox-noire.json](./290621-cosmic-paradox-noire.json) |
