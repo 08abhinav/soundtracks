@@ -5497,11 +5497,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flatlands | 349949 | [349949-flatlands.json](./349949-flatlands.json) |
 | Flatline | 168652 | [168652-flatline.json](./168652-flatline.json) |
 | FlatOut | 2667 | [2667-flatout.json](./2667-flatout.json) |
+| FlatOut | 309220 | [309220-flatout.json](./309220-flatout.json) |
 | FlatOut | 313773 | [313773-flatout.json](./313773-flatout.json) |
 | FlatOut 3: Chaos & Destruction | 3778 | [3778-flatout-3-chaos-and-destruction.json](./3778-flatout-3-chaos-and-destruction.json) |
 | FlatOut 4: Total Insanity VR | 360782 | [360782-flatout-4-total-insanity-vr.json](./360782-flatout-4-total-insanity-vr.json) |
 | FlatOut 4: Total Insanity Workshop Tools | 90606 | [90606-flatout-4-total-insanity-workshop-tools.json](./90606-flatout-4-total-insanity-workshop-tools.json) |
 | Flatout Pixel Racing | 200462 | [200462-flatout-pixel-racing.json](./200462-flatout-pixel-racing.json) |
+| Flatout: Stuntman | 309217 | [309217-flatout-stuntman.json](./309217-flatout-stuntman.json) |
 | FlatOut: Ultimate Carnage | 3777 | [3777-flatout-ultimate-carnage.json](./3777-flatout-ultimate-carnage.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
 | Flats Full of Cats | 379382 | [379382-flats-full-of-cats.json](./379382-flats-full-of-cats.json) |
@@ -7846,6 +7848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Found'It | 183994 | [183994-foundit.json](./183994-foundit.json) |
 | Foundation Gold | 69802 | [69802-foundation-gold.json](./69802-foundation-gold.json) |
 | Foundation: Galactic Frontier | 292870 | [292870-foundation-galactic-frontier.json](./292870-foundation-galactic-frontier.json) |
+| Founder of the Final Cult | 309175 | [309175-founder-of-the-final-cult.json](./309175-founder-of-the-final-cult.json) |
 | Founders' Fortune | 120455 | [120455-founders-fortune.json](./120455-founders-fortune.json) |
 | Founding Paws: How America Began | 409525 | [409525-founding-paws-how-america-began.json](./409525-founding-paws-how-america-began.json) |
 | Foundland City Builders | 390124 | [390124-foundland-city-builders.json](./390124-foundland-city-builders.json) |
