@@ -3279,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Kid | 331663 | [331663-death-kid.json](./331663-death-kid.json) |
 | Death Kid + There's a Gun in the Office Bundle | 358629 | [358629-death-kid-theres-a-gun-in-the-office-bundle.json](./358629-death-kid-theres-a-gun-in-the-office-bundle.json) |
 | Death Knight | 343460 | [343460-death-knight.json](./343460-death-knight.json) |
+| Death Lease | 266076 | [266076-death-lease.json](./266076-death-lease.json) |
 | Death Life: Beyond Purgatory | 264019 | [264019-death-life-beyond-purgatory.json](./264019-death-life-beyond-purgatory.json) |
 | Death Live | 123472 | [123472-death-live.json](./123472-death-live.json) |
 | Death Live | 135580 | [135580-death-live.json](./135580-death-live.json) |
@@ -4695,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Gyutaro Character Pack | 226692 | [226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json](./226692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-gyutaro-character-pack.json) |
 | Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tengen Uzui Character Pack | 209695 | [209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json](./209695-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-tengen-uzui-character-pack.json) |
 | Demon Slayer Akagi | 158937 | [158937-demon-slayer-akagi.json](./158937-demon-slayer-akagi.json) |
+| Demon Slayer Shion | 266073 | [266073-demon-slayer-shion.json](./266073-demon-slayer-shion.json) |
 | Demon Slayer: Kimetsu no Yaiba - Keppuu Kengeki Royale | 131963 | [131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./131963-demon-slayer-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Demon Slayer: Kimetsu no Yaiba - Sweep the Board! | 266193 | [266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json](./266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
@@ -12069,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Survivor | 266623 | [266623-drift-survivor.json](./266623-drift-survivor.json) |
 | Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
+| Drift Vector | 266091 | [266091-drift-vector.json](./266091-drift-vector.json) |
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
