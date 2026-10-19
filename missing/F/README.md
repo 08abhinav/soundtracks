@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen of the Round | 174243 | [174243-fallen-of-the-round.json](./174243-fallen-of-the-round.json) |
 | Fallen Overlord | 272922 | [272922-fallen-overlord.json](./272922-fallen-overlord.json) |
 | Fallen Priestess: My Sister's Demonic Bloodline | 385846 | [385846-fallen-priestess-my-sisters-demonic-bloodline.json](./385846-fallen-priestess-my-sisters-demonic-bloodline.json) |
+| Fallen Prince | 261667 | [261667-fallen-prince.json](./261667-fallen-prince.json) |
 | Fallen Princess | 55909 | [55909-fallen-princess.json](./55909-fallen-princess.json) |
 | Fallen Princess Knight | 393384 | [393384-fallen-princess-knight.json](./393384-fallen-princess-knight.json) |
 | Fallen Rebellion | 158114 | [158114-fallen-rebellion.json](./158114-fallen-rebellion.json) |
@@ -7194,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Smasher | 337413 | [337413-forest-smasher.json](./337413-forest-smasher.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
+| Forest Spirit | 261679 | [261679-forest-spirit.json](./261679-forest-spirit.json) |
 | Forest Survival | 109382 | [109382-forest-survival.json](./109382-forest-survival.json) |
 | Forest Survival | 381032 | [381032-forest-survival.json](./381032-forest-survival.json) |
 | Forest Time | 373517 | [373517-forest-time.json](./373517-forest-time.json) |
@@ -9541,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Salon | 314108 | [314108-fruit-salon.json](./314108-fruit-salon.json) |
 | Fruit Search | 277379 | [277379-fruit-search.json](./277379-fruit-search.json) |
 | Fruit Shinobi | 252807 | [252807-fruit-shinobi.json](./252807-fruit-shinobi.json) |
+| Fruit Slash | 261690 | [261690-fruit-slash.json](./261690-fruit-slash.json) |
 | Fruit Slash | 328678 | [328678-fruit-slash.json](./328678-fruit-slash.json) |
 | Fruit Slice | 249270 | [249270-fruit-slice.json](./249270-fruit-slice.json) |
 | Fruit Slice by Motion Capture | 289261 | [289261-fruit-slice-by-motion-capture.json](./289261-fruit-slice-by-motion-capture.json) |
