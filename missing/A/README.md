@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Spirit | 293088 | [293088-angel-spirit.json](./293088-angel-spirit.json) |
 | Angel Sweet | 261446 | [261446-angel-sweet.json](./261446-angel-sweet.json) |
 | Angel Symphony | 251051 | [251051-angel-symphony.json](./251051-angel-symphony.json) |
+| Angel Tear: Goddess Betrayed | 291845 | [291845-angel-tear-goddess-betrayed.json](./291845-angel-tear-goddess-betrayed.json) |
 | Angel Tears | 169444 | [169444-angel-tears.json](./169444-angel-tears.json) |
 | Angel Valley | 297065 | [297065-angel-valley.json](./297065-angel-valley.json) |
 | Angel Whisper: The Suspense Visual Novel Left Behind by a Game Creator. | 268096 | [268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json](./268096-angel-whisper-the-suspense-visual-novel-left-behind-by-a-game-creator.json) |
@@ -7172,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
+| Animal Parkour | 291860 | [291860-animal-parkour.json](./291860-animal-parkour.json) |
 | Animal Pattern | 335352 | [335352-animal-pattern.json](./335352-animal-pattern.json) |
 | Animal Planet Wildlands | 355172 | [355172-animal-planet-wildlands.json](./355172-animal-planet-wildlands.json) |
 | Animal Planet: Vet Life | 50635 | [50635-animal-planet-vet-life.json](./50635-animal-planet-vet-life.json) |
