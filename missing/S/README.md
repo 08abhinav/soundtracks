@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sami | 367959 | [367959-sami.json](./367959-sami.json) |
 | Sami's Pet Care | 364405 | [364405-samis-pet-care.json](./364405-samis-pet-care.json) |
 | Samidare | 126040 | [126040-samidare.json](./126040-samidare.json) |
+| Samira's House | 265494 | [265494-samiras-house.json](./265494-samiras-house.json) |
 | Samla | 384709 | [384709-samla.json](./384709-samla.json) |
 | Samly's Merge | 339149 | [339149-samlys-merge.json](./339149-samlys-merge.json) |
 | Sammi's Quest vol.1: The Wandering Ogres | 104628 | [104628-sammis-quest-vol-1-the-wandering-ogres.json](./104628-sammis-quest-vol-1-the-wandering-ogres.json) |
@@ -13625,6 +13626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
+| Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
@@ -16416,6 +16418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
 | Split Drive | 189197 | [189197-split-drive.json](./189197-split-drive.json) |
+| Split Echo | 265493 | [265493-split-echo.json](./265493-split-echo.json) |
 | Split Fiction: Friend's Pass | 347331 | [347331-split-fiction-friends-pass.json](./347331-split-fiction-friends-pass.json) |
 | Split FPV: Drone Racing | 420565 | [420565-split-fpv-drone-racing.json](./420565-split-fpv-drone-racing.json) |
 | Split Happens | 400899 | [400899-split-happens.json](./400899-split-happens.json) |
@@ -19194,6 +19197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Jigsaw Puzzles | 264578 | [264578-steampunk-jigsaw-puzzles.json](./264578-steampunk-jigsaw-puzzles.json) |
 | Steampunk Jigsaw Puzzles: Airships & Aviators | 265567 | [265567-steampunk-jigsaw-puzzles-airships-and-aviators.json](./265567-steampunk-jigsaw-puzzles-airships-and-aviators.json) |
 | Steampunk Jigsaw Puzzles: Ancient Empires | 267433 | [267433-steampunk-jigsaw-puzzles-ancient-empires.json](./267433-steampunk-jigsaw-puzzles-ancient-empires.json) |
+| Steampunk Jigsaw Puzzles: Arctic Realms | 265515 | [265515-steampunk-jigsaw-puzzles-arctic-realms.json](./265515-steampunk-jigsaw-puzzles-arctic-realms.json) |
 | Steampunk Jigsaw Puzzles: Boomtown USA | 268951 | [268951-steampunk-jigsaw-puzzles-boomtown-usa.json](./268951-steampunk-jigsaw-puzzles-boomtown-usa.json) |
 | Steampunk Jigsaw Puzzles: Mediterranean City-States | 270894 | [270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json](./270894-steampunk-jigsaw-puzzles-mediterranean-city-states.json) |
 | Steampunk Jigsaw Puzzles: The Wild West | 265516 | [265516-steampunk-jigsaw-puzzles-the-wild-west.json](./265516-steampunk-jigsaw-puzzles-the-wild-west.json) |
@@ -20203,6 +20207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
 | Story of Heterosexuality | 333547 | [333547-story-of-heterosexuality.json](./333547-story-of-heterosexuality.json) |
 | Story of Love & Food | 392466 | [392466-story-of-love-and-food.json](./392466-story-of-love-and-food.json) |
+| Story of Mine Company | 265514 | [265514-story-of-mine-company.json](./265514-story-of-mine-company.json) |
 | Story of Nararale | 173026 | [173026-story-of-nararale.json](./173026-story-of-nararale.json) |
 | Story of one night | 117581 | [117581-story-of-one-night.json](./117581-story-of-one-night.json) |
 | Story of Sealed Steel | 384291 | [384291-story-of-sealed-steel.json](./384291-story-of-sealed-steel.json) |
