@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
 | Wappy Dog | 47852 | [47852-wappy-dog.json](./47852-wappy-dog.json) |
 | War | 255331 | [255331-war.json](./255331-war.json) |
+| War | 288640 | [288640-war.json](./288640-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
 | War | 54931 | [54931-war.json](./54931-war.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
