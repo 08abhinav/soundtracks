@@ -4818,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loa: Me and Angel | 81643 | [81643-loa-me-and-angel.json](./81643-loa-me-and-angel.json) |
 | Load Roll Die | 172734 | [172734-load-roll-die.json](./172734-load-roll-die.json) |
 | Load Runner 4 | 39511 | [39511-load-runner-4.json](./39511-load-runner-4.json) |
+| Load Shedding | 301704 | [301704-load-shedding.json](./301704-load-shedding.json) |
 | Load Slinging VR Training | 224599 | [224599-load-slinging-vr-training.json](./224599-load-slinging-vr-training.json) |
 | Loaded | 18682 | [18682-loaded.json](./18682-loaded.json) |
 | Loaded Dice | 407177 | [407177-loaded-dice.json](./407177-loaded-dice.json) |
