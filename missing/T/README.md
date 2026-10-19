@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
+| Tercity Life Simulator | 274375 | [274375-tercity-life-simulator.json](./274375-tercity-life-simulator.json) |
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
 | Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
@@ -5858,6 +5859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The D-T.E.A.M. | 196010 | [196010-the-d-t-e-a-m.json](./196010-the-d-t-e-a-m.json) |
 | The D.R.G. Initiative | 54689 | [54689-the-d-r-g-initiative.json](./54689-the-d-r-g-initiative.json) |
 | The Da Vinci Code | 80430 | [80430-the-da-vinci-code.json](./80430-the-da-vinci-code.json) |
+| The Da Vinci Cryptex | 274360 | [274360-the-da-vinci-cryptex.json](./274360-the-da-vinci-cryptex.json) |
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Da Vinci Cryptex 4 | 379173 | [379173-the-da-vinci-cryptex-4.json](./379173-the-da-vinci-cryptex-4.json) |
@@ -7522,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grade 5B Case Files | 389007 | [389007-the-grade-5b-case-files.json](./389007-the-grade-5b-case-files.json) |
 | The Grading Game | 104541 | [104541-the-grading-game.json](./104541-the-grading-game.json) |
 | The Grafted Gear | 348665 | [348665-the-grafted-gear.json](./348665-the-grafted-gear.json) |
+| The Grand Adventures of Leo | 274376 | [274376-the-grand-adventures-of-leo.json](./274376-the-grand-adventures-of-leo.json) |
 | The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Ball: Deluxe Edition | 53741 | [53741-the-grand-ball-deluxe-edition.json](./53741-the-grand-ball-deluxe-edition.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
@@ -14230,6 +14233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Xian | 156556 | [156556-the-world-of-xian.json](./156556-the-world-of-xian.json) |
 | The World to Reverse. | 125983 | [125983-the-world-to-reverse.json](./125983-the-world-to-reverse.json) |
 | The World We Saved | 161646 | [161646-the-world-we-saved.json](./161646-the-world-we-saved.json) |
+| The World Well: Blood of Caro | 274372 | [274372-the-world-well-blood-of-caro.json](./274372-the-world-well-blood-of-caro.json) |
 | The World's Easyest Game | 313542 | [313542-the-worlds-easyest-game.json](./313542-the-worlds-easyest-game.json) |
 | The World's Egg: For Those Who Dream | 278355 | [278355-the-worlds-egg-for-those-who-dream.json](./278355-the-worlds-egg-for-those-who-dream.json) |
 | The World's Greatest Baseball Game | 25790 | [25790-the-worlds-greatest-baseball-game.json](./25790-the-worlds-greatest-baseball-game.json) |
@@ -23857,6 +23861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Bugs 2 | 416171 | [416171-turbo-bugs-2.json](./416171-turbo-bugs-2.json) |
 | Turbo Bullets | 311822 | [311822-turbo-bullets.json](./311822-turbo-bullets.json) |
 | Turbo Cat Fight | 223401 | [223401-turbo-cat-fight.json](./223401-turbo-cat-fight.json) |
+| Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
