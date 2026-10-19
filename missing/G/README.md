@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
+| Gear Heart | 284764 | [284764-gear-heart.json](./284764-gear-heart.json) |
 | Gear Notes: Ogre Slayer | 409796 | [409796-gear-notes-ogre-slayer.json](./409796-gear-notes-ogre-slayer.json) |
 | Gear Number Go Up | 391013 | [391013-gear-number-go-up.json](./391013-gear-number-go-up.json) |
 | Gear of Glass: Eolarn's war | 181077 | [181077-gear-of-glass-eolarns-war.json](./181077-gear-of-glass-eolarns-war.json) |
