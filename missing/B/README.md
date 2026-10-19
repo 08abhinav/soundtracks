@@ -5587,6 +5587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Tits | 393375 | [393375-big-tits.json](./393375-big-tits.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
+| Big Top Best Kids Games Bundle | 303877 | [303877-big-top-best-kids-games-bundle.json](./303877-big-top-best-kids-games-bundle.json) |
 | Big Top Solitaire | 386134 | [386134-big-top-solitaire.json](./386134-big-top-solitaire.json) |
 | Big Trouble in Little Garden | 183280 | [183280-big-trouble-in-little-garden.json](./183280-big-trouble-in-little-garden.json) |
 | Big Truck 4X4 Challenge | 385266 | [385266-big-truck-4x4-challenge.json](./385266-big-truck-4x4-challenge.json) |
@@ -8953,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
 | Boing | 13886 | [13886-boing.json](./13886-boing.json) |
+| Boing Boing | 303866 | [303866-boing-boing.json](./303866-boing-boing.json) |
 | Boing Boing Bros | 404976 | [404976-boing-boing-bros.json](./404976-boing-boing-bros.json) |
 | Boing Noir | 140356 | [140356-boing-noir.json](./140356-boing-noir.json) |
 | Boing Odyssey | 280889 | [280889-boing-odyssey.json](./280889-boing-odyssey.json) |
@@ -9072,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Bowling X | 331461 | [331461-bomb-bowling-x.json](./331461-bomb-bowling-x.json) |
 | Bomb Buddies | 249356 | [249356-bomb-buddies.json](./249356-bomb-buddies.json) |
 | Bomb Cat | 300776 | [300776-bomb-cat.json](./300776-bomb-cat.json) |
+| Bomb Cat: Wild Cat Mode | 303872 | [303872-bomb-cat-wild-cat-mode.json](./303872-bomb-cat-wild-cat-mode.json) |
 | Bomb Club | 175194 | [175194-bomb-club.json](./175194-bomb-club.json) |
 | Bomb Craft Tnt | 88319 | [88319-bomb-craft-tnt.json](./88319-bomb-craft-tnt.json) |
 | Bomb Defense | 38774 | [38774-bomb-defense.json](./38774-bomb-defense.json) |
