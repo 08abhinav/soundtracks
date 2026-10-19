@@ -10211,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
 | Army Ranger: Mogadishu | 52425 | [52425-army-ranger-mogadishu.json](./52425-army-ranger-mogadishu.json) |
 | Army to Army | 189019 | [189019-army-to-army.json](./189019-army-to-army.json) |
+| Army Troop 2: Modern Guns | 297841 | [297841-army-troop-2-modern-guns.json](./297841-army-troop-2-modern-guns.json) |
 | Army Truck 3D: Military Drive | 87114 | [87114-army-truck-3d-military-drive.json](./87114-army-truck-3d-military-drive.json) |
 | Army vs Zombie | 226770 | [226770-army-vs-zombie.json](./226770-army-vs-zombie.json) |
 | Army War: Shooting Simulator | 235198 | [235198-army-war-shooting-simulator.json](./235198-army-war-shooting-simulator.json) |
