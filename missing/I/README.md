@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Had a Plan! | 245780 | [245780-i-had-a-plan.json](./245780-i-had-a-plan.json) |
 | I Had Another Dream About You Last Night | 142403 | [142403-i-had-another-dream-about-you-last-night.json](./142403-i-had-another-dream-about-you-last-night.json) |
 | I Had the Strangest Dream, Ivan | 201327 | [201327-i-had-the-strangest-dream-ivan.json](./201327-i-had-the-strangest-dream-ivan.json) |
+| I Hate Colors | 256128 | [256128-i-hate-colors.json](./256128-i-hate-colors.json) |
 | I Hate Heroes | 98988 | [98988-i-hate-heroes.json](./98988-i-hate-heroes.json) |
 | I hate it here | 184864 | [184864-i-hate-it-here.json](./184864-i-hate-it-here.json) |
 | I Hate My Legs | 315212 | [315212-i-hate-my-legs.json](./315212-i-hate-my-legs.json) |
@@ -4326,6 +4327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Guard: Salvation | 333034 | [333034-iron-guard-salvation.json](./333034-iron-guard-salvation.json) |
 | Iron Hammer | 210601 | [210601-iron-hammer.json](./210601-iron-hammer.json) |
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
+| Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron Jaw | 201511 | [201511-iron-jaw.json](./201511-iron-jaw.json) |
 | Iron John Hawk: The Shards Of Power | 210025 | [210025-iron-john-hawk-the-shards-of-power.json](./210025-iron-john-hawk-the-shards-of-power.json) |
