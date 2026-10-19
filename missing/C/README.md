@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Cult: Shoot'n'Loot VR | 30258 | [30258-cargo-cult-shootnloot-vr.json](./30258-cargo-cult-shootnloot-vr.json) |
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
+| Cargo Manager: Forklift Simulator | 308647 | [308647-cargo-manager-forklift-simulator.json](./308647-cargo-manager-forklift-simulator.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Advent Calendar | 386489 | [386489-cats-hidden-in-advent-calendar.json](./386489-cats-hidden-in-advent-calendar.json) |
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
+| Cats Hidden in Cozy Places | 308648 | [308648-cats-hidden-in-cozy-places.json](./308648-cats-hidden-in-cozy-places.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
@@ -3549,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
+| Cazzarion: Shooting Gallery | 308603 | [308603-cazzarion-shooting-gallery.json](./308603-cazzarion-shooting-gallery.json) |
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
@@ -4507,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheaters Cheetah | 332303 | [332303-cheaters-cheetah.json](./332303-cheaters-cheetah.json) |
 | Cheating Death | 177392 | [177392-cheating-death.json](./177392-cheating-death.json) |
 | Cheating Fate | 177388 | [177388-cheating-fate.json](./177388-cheating-fate.json) |
+| Cheating Reset: Uwaki Reset | 308649 | [308649-cheating-reset-uwaki-reset.json](./308649-cheating-reset-uwaki-reset.json) |
 | Cheating Tom | 344015 | [344015-cheating-tom.json](./344015-cheating-tom.json) |
 | Cheating Tom 2 | 345271 | [345271-cheating-tom-2.json](./345271-cheating-tom-2.json) |
 | Cheats 4 Hire | 35148 | [35148-cheats-4-hire.json](./35148-cheats-4-hire.json) |
@@ -5576,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
+| Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
 | Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
@@ -9897,6 +9902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
+| Construct Farm | 308632 | [308632-construct-farm.json](./308632-construct-farm.json) |
 | Construct Farm / Cat Simulator | 381715 | [381715-construct-farm-cat-simulator.json](./381715-construct-farm-cat-simulator.json) |
 | Construct: Embers of Life | 54530 | [54530-construct-embers-of-life.json](./54530-construct-embers-of-life.json) |
 | Construct: Escape the System | 27904 | [27904-construct-escape-the-system.json](./27904-construct-escape-the-system.json) |
