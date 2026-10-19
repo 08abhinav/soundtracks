@@ -9096,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Taxi | 132822 | [132822-the-last-taxi.json](./132822-the-last-taxi.json) |
 | The Last Team | 421238 | [421238-the-last-team.json](./421238-the-last-team.json) |
+| The Last Tempest | 266635 | [266635-the-last-tempest.json](./266635-the-last-tempest.json) |
 | The Last Threat | 214108 | [214108-the-last-threat.json](./214108-the-last-threat.json) |
 | The Last Three | 261337 | [261337-the-last-three.json](./261337-the-last-three.json) |
 | The Last Tiger | 295285 | [295285-the-last-tiger.json](./295285-the-last-tiger.json) |
@@ -10586,6 +10587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Order Victoria 3 | 356270 | [356270-the-new-order-victoria-3.json](./356270-the-new-order-victoria-3.json) |
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
 | The New Queen | 30623 | [30623-the-new-queen.json](./30623-the-new-queen.json) |
+| The New Quincy's Adventure | 266629 | [266629-the-new-quincys-adventure.json](./266629-the-new-quincys-adventure.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
 | The New Tetris | 3339 | [3339-the-new-tetris.json](./3339-the-new-tetris.json) |
@@ -17054,6 +17056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Sensitive Investigation | 345572 | [345572-time-sensitive-investigation.json](./345572-time-sensitive-investigation.json) |
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
 | Time Skip | 96615 | [96615-time-skip.json](./96615-time-skip.json) |
+| Time Slip | 266647 | [266647-time-slip.json](./266647-time-slip.json) |
 | Time Slip | 42442 | [42442-time-slip.json](./42442-time-slip.json) |
 | Time Sliper | 346788 | [346788-time-sliper.json](./346788-time-sliper.json) |
 | Time Snatcher Handy | 372632 | [372632-time-snatcher-handy.json](./372632-time-snatcher-handy.json) |
