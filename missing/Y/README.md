@@ -1310,6 +1310,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yucan | 141866 | [141866-yucan.json](./141866-yucan.json) |
 | Yucatan | 113443 | [113443-yucatan.json](./113443-yucatan.json) |
 | Yùchí Gōng Shì Shénme Guǐ | 397856 | [397856-yuchi-gong-shi-shenme-gui.json](./397856-yuchi-gong-shi-shenme-gui.json) |
+| Yuckfu | 301137 | [301137-yuckfu.json](./301137-yuckfu.json) |
+| YuckFu! | 301141 | [301141-yuckfu.json](./301141-yuckfu.json) |
 | Yudashi Peril: Floraison | 254532 | [254532-yudashi-peril-floraison.json](./254532-yudashi-peril-floraison.json) |
 | Yuè Lán Chuánqí II: Zhòu Yìn Zú Chuánshuō | 394177 | [394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json](./394177-yue-lan-chuanqi-ii-zhou-yin-zu-chuanshuo.json) |
 | Yuè Lán Chuánqí: Yì Jiè de Fǎngkè | 394179 | [394179-yue-lan-chuanqi-yi-jie-de-fangke.json](./394179-yue-lan-chuanqi-yi-jie-de-fangke.json) |
