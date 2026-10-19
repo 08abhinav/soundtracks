@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
+| AI Fantasy | 293500 | [293500-ai-fantasy.json](./293500-ai-fantasy.json) |
 | AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
@@ -9990,6 +9991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arma 3 Creator DLC: S.O.G. Prairie Fire | 234181 | [234181-arma-3-creator-dlc-s-o-g-prairie-fire.json](./234181-arma-3-creator-dlc-s-o-g-prairie-fire.json) |
 | Arma 3: Apex | 19547 | [19547-arma-3-apex.json](./19547-arma-3-apex.json) |
 | Arma 3: Creator DLC - CSLA Iron Curtain | 168912 | [168912-arma-3-creator-dlc-csla-iron-curtain.json](./168912-arma-3-creator-dlc-csla-iron-curtain.json) |
+| Arma 3: Creator DLC - Reaction Forces | 293467 | [293467-arma-3-creator-dlc-reaction-forces.json](./293467-arma-3-creator-dlc-reaction-forces.json) |
 | Arma 3: Creator DLC - Spearhead 1944 | 259281 | [259281-arma-3-creator-dlc-spearhead-1944.json](./259281-arma-3-creator-dlc-spearhead-1944.json) |
 | Arma 3: Jets | 168910 | [168910-arma-3-jets.json](./168910-arma-3-jets.json) |
 | Arma 3: Laws of War | 95413 | [95413-arma-3-laws-of-war.json](./95413-arma-3-laws-of-war.json) |
@@ -12437,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aura Shift | 121379 | [121379-aura-shift.json](./121379-aura-shift.json) |
 | Aura: Fate of the Ages | 9776 | [9776-aura-fate-of-the-ages.json](./9776-aura-fate-of-the-ages.json) |
 | Aura: Hentai Cards - Horny Madness | 301641 | [301641-aura-hentai-cards-horny-madness.json](./301641-aura-hentai-cards-horny-madness.json) |
+| Aura: Hentai Cards - The Dark Sea DLC | 293466 | [293466-aura-hentai-cards-the-dark-sea-dlc.json](./293466-aura-hentai-cards-the-dark-sea-dlc.json) |
 | Aura's Room | 270600 | [270600-auras-room.json](./270600-auras-room.json) |
 | Auraboros | 181358 | [181358-auraboros.json](./181358-auraboros.json) |
 | Aurail | 39618 | [39618-aurail.json](./39618-aurail.json) |
@@ -12907,6 +12910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
+| Avoid Falls! | 293477 | [293477-avoid-falls.json](./293477-avoid-falls.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
 | Avoid Korean Memes | 245207 | [245207-avoid-korean-memes.json](./245207-avoid-korean-memes.json) |
 | Avoid the Awful Thing that Vaguely Resembles a Banana!! | 69312 | [69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json](./69312-avoid-the-awful-thing-that-vaguely-resembles-a-banana.json) |
