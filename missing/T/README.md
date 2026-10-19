@@ -4134,6 +4134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Pinocchio | 206210 | [206210-the-adventures-of-pinocchio.json](./206210-the-adventures-of-pinocchio.json) |
 | The Adventures of Pinocchio: Activity Center | 206211 | [206211-the-adventures-of-pinocchio-activity-center.json](./206211-the-adventures-of-pinocchio-activity-center.json) |
 | The Adventures of Poppe | 194906 | [194906-the-adventures-of-poppe.json](./194906-the-adventures-of-poppe.json) |
+| The Adventures of Prince Shiratama: Climb the Mountains | 302795 | [302795-the-adventures-of-prince-shiratama-climb-the-mountains.json](./302795-the-adventures-of-prince-shiratama-climb-the-mountains.json) |
 | The Adventures of Quik & Silva | 14155 | [14155-the-adventures-of-quik-and-silva.json](./14155-the-adventures-of-quik-and-silva.json) |
 | The Adventures of R.Sole: Nothing, Nowhere & Not at the Same Time | 390692 | [390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json](./390692-the-adventures-of-r-sole-nothing-nowhere-and-not-at-the-same-time.json) |
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
@@ -8845,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mothership | 390765 | [390765-the-last-mothership.json](./390765-the-last-mothership.json) |
 | The Last Mullu | 353612 | [353612-the-last-mullu.json](./353612-the-last-mullu.json) |
 | The Last Night | 18285 | [18285-the-last-night.json](./18285-the-last-night.json) |
+| The Last Night | 302799 | [302799-the-last-night.json](./302799-the-last-night.json) |
 | The Last Ninja | 308996 | [308996-the-last-ninja.json](./308996-the-last-ninja.json) |
 | The Last Ninja | 8400 | [8400-the-last-ninja.json](./8400-the-last-ninja.json) |
 | The Last Ninja Collection + Bonus Games | 362742 | [362742-the-last-ninja-collection-bonus-games.json](./362742-the-last-ninja-collection-bonus-games.json) |
@@ -10639,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Options Menu | 405551 | [405551-the-options-menu.json](./405551-the-options-menu.json) |
 | The Oracle Land | 197911 | [197911-the-oracle-land.json](./197911-the-oracle-land.json) |
 | The Oracle's Cave | 312556 | [312556-the-oracles-cave.json](./312556-the-oracles-cave.json) |
+| The Orange | 302783 | [302783-the-orange.json](./302783-the-orange.json) |
 | The Orange of Tomorrow | 348275 | [348275-the-orange-of-tomorrow.json](./348275-the-orange-of-tomorrow.json) |
 | The Orb Chambers II | 32064 | [32064-the-orb-chambers-ii.json](./32064-the-orb-chambers-ii.json) |
 | The Orb Chambers Remastered | 166814 | [166814-the-orb-chambers-remastered.json](./166814-the-orb-chambers-remastered.json) |
@@ -23576,6 +23579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
+| Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
@@ -23748,6 +23752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
+| Turnabout Curtain | 302640 | [302640-turnabout-curtain.json](./302640-turnabout-curtain.json) |
 | Turnabout Detectives | 309978 | [309978-turnabout-detectives.json](./309978-turnabout-detectives.json) |
 | Turnabout Detectives Redux | 309980 | [309980-turnabout-detectives-redux.json](./309980-turnabout-detectives-redux.json) |
 | Turnabout Divergence | 318785 | [318785-turnabout-divergence.json](./318785-turnabout-divergence.json) |
