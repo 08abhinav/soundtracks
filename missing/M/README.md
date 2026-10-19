@@ -3714,6 +3714,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Massive Defense | 239740 | [239740-massive-defense.json](./239740-massive-defense.json) |
 | Massive Galaxy | 89669 | [89669-massive-galaxy.json](./89669-massive-galaxy.json) |
 | Massive Warfare: Aftermath | 347878 | [347878-massive-warfare-aftermath.json](./347878-massive-warfare-aftermath.json) |
+| MassMouth 2 | 294519 | [294519-massmouth-2.json](./294519-massmouth-2.json) |
+| Massmouthmas | 294516 | [294516-massmouthmas.json](./294516-massmouthmas.json) |
 | Mastaba Snoopy | 221788 | [221788-mastaba-snoopy.json](./221788-mastaba-snoopy.json) |
 | Mastema: Out of Hell | 29424 | [29424-mastema-out-of-hell.json](./29424-mastema-out-of-hell.json) |
 | Master Alchemist Simulator | 396522 | [396522-master-alchemist-simulator.json](./396522-master-alchemist-simulator.json) |
@@ -13501,6 +13503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Right Simulator | 348795 | [348795-mr-right-simulator.json](./348795-mr-right-simulator.json) |
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
+| Mr The Killer | 294526 | [294526-mr-the-killer.json](./294526-mr-the-killer.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
 | Mr Toro 2 | 220826 | [220826-mr-toro-2.json](./220826-mr-toro-2.json) |
@@ -14309,6 +14312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrooman | 226362 | [226362-mushrooman.json](./226362-mushrooman.json) |
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| Mushrooms vs. Goombas | 294534 | [294534-mushrooms-vs-goombas.json](./294534-mushrooms-vs-goombas.json) |
 | Mushroots | 292961 | [292961-mushroots.json](./292961-mushroots.json) |
 | Mushrush | 292975 | [292975-mushrush.json](./292975-mushrush.json) |
 | Mushy | 191660 | [191660-mushy.json](./191660-mushy.json) |
