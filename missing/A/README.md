@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hero and a Garden | 137072 | [137072-a-hero-and-a-garden.json](./137072-a-hero-and-a-garden.json) |
 | A Hero Once More | 252918 | [252918-a-hero-once-more.json](./252918-a-hero-once-more.json) |
 | A Hero's Guide to Gardening | 183410 | [183410-a-heros-guide-to-gardening.json](./183410-a-heros-guide-to-gardening.json) |
+| A Hero's Legacy | 270523 | [270523-a-heros-legacy.json](./270523-a-heros-legacy.json) |
 | A Hero's Quest pt1 | 213430 | [213430-a-heros-quest-pt1.json](./213430-a-heros-quest-pt1.json) |
 | A Heroine Story | 249856 | [249856-a-heroine-story.json](./249856-a-heroine-story.json) |
 | A Hexagon's Adventures | 184446 | [184446-a-hexagons-adventures.json](./184446-a-hexagons-adventures.json) |
@@ -10537,6 +10538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
+| Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
 | Arthur and the Invisibles | 21437 | [21437-arthur-and-the-invisibles.json](./21437-arthur-and-the-invisibles.json) |
 | Arthur and the Revenge of Maltazard | 51155 | [51155-arthur-and-the-revenge-of-maltazard.json](./51155-arthur-and-the-revenge-of-maltazard.json) |
@@ -12500,6 +12502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augment Anthem | 365733 | [365733-augment-anthem.json](./365733-augment-anthem.json) |
 | Augmental Puzzles | 398544 | [398544-augmental-puzzles.json](./398544-augmental-puzzles.json) |
 | Augmented AR Jungle Adventure | 175311 | [175311-augmented-ar-jungle-adventure.json](./175311-augmented-ar-jungle-adventure.json) |
+| Augmented Brutality | 270539 | [270539-augmented-brutality.json](./270539-augmented-brutality.json) |
 | Augmented Empire | 27984 | [27984-augmented-empire.json](./27984-augmented-empire.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
@@ -12780,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn with the Shiba Inu | 236292 | [236292-autumn-with-the-shiba-inu.json](./236292-autumn-with-the-shiba-inu.json) |
 | Autumn-Chess | 150492 | [150492-autumn-chess.json](./150492-autumn-chess.json) |
 | Autumn-Time Trade-Up | 238463 | [238463-autumn-time-trade-up.json](./238463-autumn-time-trade-up.json) |
+| Autumn's Bounty | 270528 | [270528-autumns-bounty.json](./270528-autumns-bounty.json) |
 | Autumn's Chorus | 114952 | [114952-autumns-chorus.json](./114952-autumns-chorus.json) |
 | Autumn's Dungeoneering | 373176 | [373176-autumns-dungeoneering.json](./373176-autumns-dungeoneering.json) |
 | Autumn's Journey | 114775 | [114775-autumns-journey.json](./114775-autumns-journey.json) |
