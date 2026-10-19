@@ -3016,6 +3016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
+| After school | 283069 | [283069-after-school.json](./283069-after-school.json) |
 | After School | 148675 | [148675-after-school.json](./148675-after-school.json) |
 | After School | 182819 | [182819-after-school.json](./182819-after-school.json) |
 | After School | 252719 | [252719-after-school.json](./252719-after-school.json) |
@@ -7649,6 +7650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano ne DS | 130388 | [130388-ano-ne-ds.json](./130388-ano-ne-ds.json) |
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
 | Ano Yo Iki Densha | 381405 | [381405-ano-yo-iki-densha.json](./381405-ano-yo-iki-densha.json) |
+| Ano-chan wo Byouin ni Tsuretette | 283054 | [283054-ano-chan-wo-byouin-ni-tsuretette.json](./283054-ano-chan-wo-byouin-ni-tsuretette.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
 | Anode Heart: Layer Null | 319845 | [319845-anode-heart-layer-null.json](./319845-anode-heart-layer-null.json) |
