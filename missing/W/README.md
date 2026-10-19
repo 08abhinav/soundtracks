@@ -774,6 +774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Room | 24001 | [24001-war-room.json](./24001-war-room.json) |
 | War Room | 335325 | [335325-war-room.json](./335325-war-room.json) |
 | War Room Football | 403797 | [403797-war-room-football.json](./403797-war-room-football.json) |
+| War Room: Blitz | 302812 | [302812-war-room-blitz.json](./302812-war-room-blitz.json) |
 | War Saber | 137689 | [137689-war-saber.json](./137689-war-saber.json) |
 | War Selection | 116499 | [116499-war-selection.json](./116499-war-selection.json) |
 | War Shore | 244710 | [244710-war-shore.json](./244710-war-shore.json) |
@@ -2536,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolf Voice: Best Board Game | 130212 | [130212-werewolf-voice-best-board-game.json](./130212-werewolf-voice-best-board-game.json) |
 | Werewolf: The Apocalypse - Earthblood Champion of Gaia Pack | 149967 | [149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json](./149967-werewolf-the-apocalypse-earthblood-champion-of-gaia-pack.json) |
 | Werewolf: The Apocalypse - Earthblood: The Exiled One | 146174 | [146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json](./146174-werewolf-the-apocalypse-earthblood-the-exiled-one.json) |
+| Werewolf: The Apocalypse - Purgatory | 302808 | [302808-werewolf-the-apocalypse-purgatory.json](./302808-werewolf-the-apocalypse-purgatory.json) |
 | Werewolf: The Gloaming Malice | 408095 | [408095-werewolf-the-gloaming-malice.json](./408095-werewolf-the-gloaming-malice.json) |
 | Werewolf: The Inner Beast | 390099 | [390099-werewolf-the-inner-beast.json](./390099-werewolf-the-inner-beast.json) |
 | Werewolves | 91266 | [91266-werewolves.json](./91266-werewolves.json) |
