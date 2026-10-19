@@ -15253,6 +15253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Name Is... | 372803 | [372803-my-name-is.json](./372803-my-name-is.json) |
 | My Naughty Shotgun | 197400 | [197400-my-naughty-shotgun.json](./197400-my-naughty-shotgun.json) |
 | My Neighbor Alice | 157044 | [157044-my-neighbor-alice.json](./157044-my-neighbor-alice.json) |
+| My Neighbor Enide | 295630 | [295630-my-neighbor-enide.json](./295630-my-neighbor-enide.json) |
 | My Neighbor is a Yandere?! | 143062 | [143062-my-neighbor-is-a-yandere.json](./143062-my-neighbor-is-a-yandere.json) |
 | My Neighbor's Lonely Wife | 389632 | [389632-my-neighbors-lonely-wife.json](./389632-my-neighbors-lonely-wife.json) |
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
