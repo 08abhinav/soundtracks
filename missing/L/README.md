@@ -7004,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Mansion 3: Multiplayer Pack - Part 2 | 127550 | [127550-luigis-mansion-3-multiplayer-pack-part-2.json](./127550-luigis-mansion-3-multiplayer-pack-part-2.json) |
 | Luigi's Mansion 64 | 218072 | [218072-luigis-mansion-64.json](./218072-luigis-mansion-64.json) |
 | Luigi's Mansion 64.5: Super Player Mode | 374176 | [374176-luigis-mansion-64-5-super-player-mode.json](./374176-luigis-mansion-64-5-super-player-mode.json) |
+| Luigi's Mansion Beta Restoration | 272158 | [272158-luigis-mansion-beta-restoration.json](./272158-luigis-mansion-beta-restoration.json) |
 | Luigi's Mansion Beta Restoration (+) Plus | 281022 | [281022-luigis-mansion-beta-restoration-plus.json](./281022-luigis-mansion-beta-restoration-plus.json) |
 | Luigi's Mansion Organ Game | 328657 | [328657-luigis-mansion-organ-game.json](./328657-luigis-mansion-organ-game.json) |
 | Luigi's Mansion: Beyond Origins | 314570 | [314570-luigis-mansion-beyond-origins.json](./314570-luigis-mansion-beyond-origins.json) |
