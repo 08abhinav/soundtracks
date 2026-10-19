@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vali Victorian | 150618 | [150618-vali-victorian.json](./150618-vali-victorian.json) |
 | Valiant | 136848 | [136848-valiant.json](./136848-valiant.json) |
 | Valiant | 19040 | [19040-valiant.json](./19040-valiant.json) |
+| Valiant | 257236 | [257236-valiant.json](./257236-valiant.json) |
 | Valiant Force | 56568 | [56568-valiant-force.json](./56568-valiant-force.json) |
 | Valiant Gears | 130226 | [130226-valiant-gears.json](./130226-valiant-gears.json) |
 | Valiant Hearts: Coming Home | 228521 | [228521-valiant-hearts-coming-home.json](./228521-valiant-hearts-coming-home.json) |
