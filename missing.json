@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T11:33:27.084Z",
-  "total_missing": 232777,
+  "generated_at": "2026-10-19T11:48:28.385Z",
+  "total_missing": 232827,
   "games": [
     {
       "igdb_id": 191680,
@@ -9455,6 +9455,11 @@
       "igdb_id": 165650,
       "game_name": "4 Months of You",
       "file": "missing/0-9/165650-4-months-of-you.json"
+    },
+    {
+      "igdb_id": 282438,
+      "game_name": "4 Moohrhuhn Teile",
+      "file": "missing/0-9/282438-4-moohrhuhn-teile.json"
     },
     {
       "igdb_id": 396126,
@@ -104347,6 +104352,11 @@
       "file": "missing/B/207887-best-of-merge-vol-3.json"
     },
     {
+      "igdb_id": 282433,
+      "game_name": "Best of Moorhuhn",
+      "file": "missing/B/282433-best-of-moorhuhn.json"
+    },
+    {
       "igdb_id": 21605,
       "game_name": "Best of PlayStation Network Vol. 1",
       "file": "missing/B/21605-best-of-playstation-network-vol-1.json"
@@ -142232,6 +142242,11 @@
       "file": "missing/B/235129-bull-riding-challenge-3.json"
     },
     {
+      "igdb_id": 282451,
+      "game_name": "Bull Run",
+      "file": "missing/B/282451-bull-run.json"
+    },
+    {
       "igdb_id": 291456,
       "game_name": "Bull-Bia Ricky",
       "file": "missing/B/291456-bull-bia-ricky.json"
@@ -150535,6 +150550,11 @@
       "igdb_id": 422495,
       "game_name": "Calmaria: Wild Growth",
       "file": "missing/C/422495-calmaria-wild-growth.json"
+    },
+    {
+      "igdb_id": 282443,
+      "game_name": "Calmed by the Dark Re:Boot",
+      "file": "missing/C/282443-calmed-by-the-dark-re-boot.json"
     },
     {
       "igdb_id": 153967,
@@ -174480,6 +174500,11 @@
       "igdb_id": 12001,
       "game_name": "Chip's Challenge",
       "file": "missing/C/12001-chips-challenge.json"
+    },
+    {
+      "igdb_id": 282471,
+      "game_name": "Chip's Challenge",
+      "file": "missing/C/282471-chips-challenge.json"
     },
     {
       "igdb_id": 282555,
@@ -207742,6 +207767,11 @@
       "file": "missing/C/96540-crazy-chicken-pinball-vol-1.json"
     },
     {
+      "igdb_id": 282481,
+      "game_name": "Crazy Chicken Pirates 3D",
+      "file": "missing/C/282481-crazy-chicken-pirates-3d.json"
+    },
+    {
       "igdb_id": 144595,
       "game_name": "Crazy Chicken Quest",
       "file": "missing/C/144595-crazy-chicken-quest.json"
@@ -207775,6 +207805,16 @@
       "igdb_id": 282572,
       "game_name": "Crazy Chicken: Pirates",
       "file": "missing/C/282572-crazy-chicken-pirates.json"
+    },
+    {
+      "igdb_id": 282453,
+      "game_name": "Crazy Chicken: Remake",
+      "file": "missing/C/282453-crazy-chicken-remake.json"
+    },
+    {
+      "igdb_id": 282454,
+      "game_name": "Crazy Chicken: Remake",
+      "file": "missing/C/282454-crazy-chicken-remake.json"
     },
     {
       "igdb_id": 143060,
@@ -264880,6 +264920,11 @@
       "igdb_id": 30120,
       "game_name": "Dodge Master",
       "file": "missing/D/30120-dodge-master.json"
+    },
+    {
+      "igdb_id": 282430,
+      "game_name": "Dodge Racer",
+      "file": "missing/D/282430-dodge-racer.json"
     },
     {
       "igdb_id": 197942,
@@ -379525,6 +379570,11 @@
       "igdb_id": 221893,
       "game_name": "Galaxy Invaders",
       "file": "missing/G/221893-galaxy-invaders.json"
+    },
+    {
+      "igdb_id": 282428,
+      "game_name": "Galaxy Invasion",
+      "file": "missing/G/282428-galaxy-invasion.json"
     },
     {
       "igdb_id": 287513,
@@ -494817,6 +494867,11 @@
       "file": "missing/J/261998-jeopardy.json"
     },
     {
+      "igdb_id": 282483,
+      "game_name": "Jeopardy!",
+      "file": "missing/J/282483-jeopardy.json"
+    },
+    {
       "igdb_id": 28472,
       "game_name": "Jeopardy!",
       "file": "missing/J/28472-jeopardy.json"
@@ -524815,6 +524870,11 @@
       "igdb_id": 20035,
       "game_name": "Koi",
       "file": "missing/K/20035-koi.json"
+    },
+    {
+      "igdb_id": 282480,
+      "game_name": "Koi",
+      "file": "missing/K/282480-koi.json"
     },
     {
       "igdb_id": 242420,
@@ -587482,6 +587542,11 @@
       "file": "missing/M/345676-match-quest-numbers.json"
     },
     {
+      "igdb_id": 282448,
+      "game_name": "Match Racer",
+      "file": "missing/M/282448-match-racer.json"
+    },
+    {
       "igdb_id": 349290,
       "game_name": "Match Shot Chimera",
       "file": "missing/M/349290-match-shot-chimera.json"
@@ -617097,6 +617162,11 @@
       "file": "missing/M/203222-misfortune-advance.json"
     },
     {
+      "igdb_id": 282476,
+      "game_name": "Misfortune Possession",
+      "file": "missing/M/282476-misfortune-possession.json"
+    },
+    {
       "igdb_id": 258040,
       "game_name": "Misgiven",
       "file": "missing/M/258040-misgiven.json"
@@ -628927,6 +628997,11 @@
       "file": "missing/M/190208-moorhuhn-adventure-der-schatz-des-pharao.json"
     },
     {
+      "igdb_id": 282450,
+      "game_name": "Moorhuhn and Friends",
+      "file": "missing/M/282450-moorhuhn-and-friends.json"
+    },
+    {
       "igdb_id": 144596,
       "game_name": "Moorhuhn Combat",
       "file": "missing/M/144596-moorhuhn-combat.json"
@@ -628962,6 +629037,41 @@
       "file": "missing/M/328411-moorhuhn-kart-4.json"
     },
     {
+      "igdb_id": 282477,
+      "game_name": "Moorhuhn la Compil'",
+      "file": "missing/M/282477-moorhuhn-la-compil.json"
+    },
+    {
+      "igdb_id": 282434,
+      "game_name": "Moorhuhn ohne Ende",
+      "file": "missing/M/282434-moorhuhn-ohne-ende.json"
+    },
+    {
+      "igdb_id": 282439,
+      "game_name": "Moorhuhn präsentiert 10 Fun Games",
+      "file": "missing/M/282439-moorhuhn-prasentiert-10-fun-games.json"
+    },
+    {
+      "igdb_id": 282452,
+      "game_name": "Moorhuhn präsentiert Die Funbox",
+      "file": "missing/M/282452-moorhuhn-prasentiert-die-funbox.json"
+    },
+    {
+      "igdb_id": 282446,
+      "game_name": "Moorhuhn Tennis",
+      "file": "missing/M/282446-moorhuhn-tennis.json"
+    },
+    {
+      "igdb_id": 282447,
+      "game_name": "Moorhuhn Total",
+      "file": "missing/M/282447-moorhuhn-total.json"
+    },
+    {
+      "igdb_id": 282449,
+      "game_name": "Moorhuhn Total 2",
+      "file": "missing/M/282449-moorhuhn-total-2.json"
+    },
+    {
       "igdb_id": 144599,
       "game_name": "Moorhuhn UnfairPlay",
       "file": "missing/M/144599-moorhuhn-unfairplay.json"
@@ -628977,9 +629087,24 @@
       "file": "missing/M/327794-moorhuhn-vr-blast.json"
     },
     {
+      "igdb_id": 282437,
+      "game_name": "Moorhuhn X",
+      "file": "missing/M/282437-moorhuhn-x.json"
+    },
+    {
+      "igdb_id": 282479,
+      "game_name": "Moorhuhn: Big Adventure",
+      "file": "missing/M/282479-moorhuhn-big-adventure.json"
+    },
+    {
       "igdb_id": 265946,
       "game_name": "Moorhuhn: Die ersten 10 Jahre",
       "file": "missing/M/265946-moorhuhn-die-ersten-10-jahre.json"
+    },
+    {
+      "igdb_id": 282435,
+      "game_name": "Moorhuhn: Kart Racer",
+      "file": "missing/M/282435-moorhuhn-kart-racer.json"
     },
     {
       "igdb_id": 282546,
@@ -649412,9 +649537,34 @@
       "file": "missing/N/210297-nakayoshi-chao.json"
     },
     {
+      "igdb_id": 282463,
+      "game_name": "Nakayoshi Cooking Series 2: Oishii Panya-san",
+      "file": "missing/N/282463-nakayoshi-cooking-series-2-oishii-panya-san.json"
+    },
+    {
+      "igdb_id": 282464,
+      "game_name": "Nakayoshi Cooking Series 3: Tanoshiio Bentou",
+      "file": "missing/N/282464-nakayoshi-cooking-series-3-tanoshiio-bentou.json"
+    },
+    {
+      "igdb_id": 282465,
+      "game_name": "Nakayoshi Cooking Series 4: Tanoshii Dessert",
+      "file": "missing/N/282465-nakayoshi-cooking-series-4-tanoshii-dessert.json"
+    },
+    {
+      "igdb_id": 282466,
+      "game_name": "Nakayoshi Cooking Series 5: Komugi-Chan no Cake wo Tsukurou!",
+      "file": "missing/N/282466-nakayoshi-cooking-series-5-komugi-chan-no-cake-wo-tsukurou.json"
+    },
+    {
       "igdb_id": 49757,
       "game_name": "Nakayoshi Mahjong: Kapu Richi",
       "file": "missing/N/49757-nakayoshi-mahjong-kapu-richi.json"
+    },
+    {
+      "igdb_id": 282467,
+      "game_name": "Nakayoshi Pet Series 1: Kawaii Hamster",
+      "file": "missing/N/282467-nakayoshi-pet-series-1-kawaii-hamster.json"
     },
     {
       "igdb_id": 217820,
@@ -649430,6 +649580,11 @@
       "igdb_id": 130614,
       "game_name": "Nakayoshi Pet Series 4: Kawaii Koneko",
       "file": "missing/N/130614-nakayoshi-pet-series-4-kawaii-koneko.json"
+    },
+    {
+      "igdb_id": 282468,
+      "game_name": "Nakayoshi Pet Series 5: Kawaii Hamster 2",
+      "file": "missing/N/282468-nakayoshi-pet-series-5-kawaii-hamster-2.json"
     },
     {
       "igdb_id": 49753,
@@ -665810,6 +665965,11 @@
       "igdb_id": 307216,
       "game_name": "Nightmare Fuel",
       "file": "missing/N/307216-nightmare-fuel.json"
+    },
+    {
+      "igdb_id": 282441,
+      "game_name": "Nightmare Gallery",
+      "file": "missing/N/282441-nightmare-gallery.json"
     },
     {
       "igdb_id": 120416,
@@ -687187,6 +687347,11 @@
       "file": "missing/O/136137-one-piece-pirate-warriors-4-kaido-edition.json"
     },
     {
+      "igdb_id": 282462,
+      "game_name": "One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2",
+      "file": "missing/O/282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json"
+    },
+    {
       "igdb_id": 294853,
       "game_name": "One Piece: Pirate Warriors 4 - Legend Dawn Pack",
       "file": "missing/O/294853-one-piece-pirate-warriors-4-legend-dawn-pack.json"
@@ -700995,6 +701160,11 @@
       "igdb_id": 41395,
       "game_name": "Pachinko GP",
       "file": "missing/P/41395-pachinko-gp.json"
+    },
+    {
+      "igdb_id": 282469,
+      "game_name": "Pachinko Hissou Guide: Data no Ou-sama",
+      "file": "missing/P/282469-pachinko-hissou-guide-data-no-ou-sama.json"
     },
     {
       "igdb_id": 6124,
@@ -737437,6 +737607,11 @@
       "file": "missing/P/367505-pocket-garden.json"
     },
     {
+      "igdb_id": 282470,
+      "game_name": "Pocket GI Stable",
+      "file": "missing/P/282470-pocket-gi-stable.json"
+    },
+    {
       "igdb_id": 46743,
       "game_name": "Pocket God",
       "file": "missing/P/46743-pocket-god.json"
@@ -737455,6 +737630,11 @@
       "igdb_id": 209353,
       "game_name": "Pocket GT Racing",
       "file": "missing/P/209353-pocket-gt-racing.json"
+    },
+    {
+      "igdb_id": 282472,
+      "game_name": "Pocket Hanafuda",
+      "file": "missing/P/282472-pocket-hanafuda.json"
     },
     {
       "igdb_id": 105906,
@@ -737495,6 +737675,11 @@
       "igdb_id": 304724,
       "game_name": "Pocket Kickball",
       "file": "missing/P/304724-pocket-kickball.json"
+    },
+    {
+      "igdb_id": 282473,
+      "game_name": "Pocket King",
+      "file": "missing/P/282473-pocket-king.json"
     },
     {
       "igdb_id": 6272,
@@ -737580,6 +737765,11 @@
       "igdb_id": 193878,
       "game_name": "Pocket Luna",
       "file": "missing/P/193878-pocket-luna.json"
+    },
+    {
+      "igdb_id": 282474,
+      "game_name": "Pocket Lure Boy",
+      "file": "missing/P/282474-pocket-lure-boy.json"
     },
     {
       "igdb_id": 318031,
@@ -762967,6 +763157,11 @@
       "file": "missing/P/138524-pulsus.json"
     },
     {
+      "igdb_id": 282461,
+      "game_name": "Pultimush",
+      "file": "missing/P/282461-pultimush.json"
+    },
+    {
       "igdb_id": 287545,
       "game_name": "Pulver",
       "file": "missing/P/287545-pulver.json"
@@ -787227,6 +787422,11 @@
       "file": "missing/R/185395-red-aleph.json"
     },
     {
+      "igdb_id": 282458,
+      "game_name": "Red Alert",
+      "file": "missing/R/282458-red-alert.json"
+    },
+    {
       "igdb_id": 40391,
       "game_name": "Red Alert",
       "file": "missing/R/40391-red-alert.json"
@@ -799520,6 +799720,11 @@
       "igdb_id": 209166,
       "game_name": "Ricochet",
       "file": "missing/R/209166-ricochet.json"
+    },
+    {
+      "igdb_id": 282445,
+      "game_name": "Ricochet",
+      "file": "missing/R/282445-ricochet.json"
     },
     {
       "igdb_id": 368008,
@@ -893312,6 +893517,11 @@
       "file": "missing/S/84202-space-ii.json"
     },
     {
+      "igdb_id": 282457,
+      "game_name": "Space Impact",
+      "file": "missing/S/282457-space-impact.json"
+    },
+    {
       "igdb_id": 29762,
       "game_name": "Space Impact Glitch",
       "file": "missing/S/29762-space-impact-glitch.json"
@@ -936817,6 +937027,11 @@
       "file": "missing/S/110937-super-jigsaw-puzzle-space.json"
     },
     {
+      "igdb_id": 282440,
+      "game_name": "Super Jolly RPG",
+      "file": "missing/S/282440-super-jolly-rpg.json"
+    },
+    {
       "igdb_id": 232346,
       "game_name": "Super Juicy HD",
       "file": "missing/S/232346-super-juicy-hd.json"
@@ -943220,6 +943435,11 @@
       "igdb_id": 223025,
       "game_name": "Super Stacey World",
       "file": "missing/S/223025-super-stacey-world.json"
+    },
+    {
+      "igdb_id": 282478,
+      "game_name": "Super Stacker",
+      "file": "missing/S/282478-super-stacker.json"
     },
     {
       "igdb_id": 52894,
@@ -1053697,6 +1053917,11 @@
       "file": "missing/T/23402-towelfight-2-the-monocle-of-destiny.json"
     },
     {
+      "igdb_id": 282444,
+      "game_name": "Towelket 0: Maiden Bomb Invaders",
+      "file": "missing/T/282444-towelket-0-maiden-bomb-invaders.json"
+    },
+    {
       "igdb_id": 146883,
       "game_name": "Towelket: One More Time 2 (Karaage Tanpopo)",
       "file": "missing/T/146883-towelket-one-more-time-2-karaage-tanpopo.json"
@@ -1071027,6 +1071252,11 @@
       "file": "missing/T/103674-true-horror.json"
     },
     {
+      "igdb_id": 282484,
+      "game_name": "True Lies",
+      "file": "missing/T/282484-true-lies.json"
+    },
+    {
       "igdb_id": 320026,
       "game_name": "True Love",
       "file": "missing/T/320026-true-love.json"
@@ -1077790,6 +1078020,11 @@
       "igdb_id": 347698,
       "game_name": "U-Boat",
       "file": "missing/U/347698-u-boat.json"
+    },
+    {
+      "igdb_id": 282442,
+      "game_name": "U-Boat Command",
+      "file": "missing/U/282442-u-boat-command.json"
     },
     {
       "igdb_id": 87713,
@@ -1102110,6 +1102345,11 @@
       "igdb_id": 204432,
       "game_name": "Virtue's Heaven",
       "file": "missing/V/204432-virtues-heaven.json"
+    },
+    {
+      "igdb_id": 282432,
+      "game_name": "Virtuelle Moorhuhn Jagd",
+      "file": "missing/V/282432-virtuelle-moorhuhn-jagd.json"
     },
     {
       "igdb_id": 216859,
@@ -1128325,6 +1128565,11 @@
       "igdb_id": 226119,
       "game_name": "Windhelm",
       "file": "missing/W/226119-windhelm.json"
+    },
+    {
+      "igdb_id": 282431,
+      "game_name": "Winding Heat",
+      "file": "missing/W/282431-winding-heat.json"
     },
     {
       "igdb_id": 180010,
@@ -1163140,6 +1163385,11 @@
       "igdb_id": 193688,
       "game_name": "Zorya: The Celestial Sisters - Stellar Edition",
       "file": "missing/Z/193688-zorya-the-celestial-sisters-stellar-edition.json"
+    },
+    {
+      "igdb_id": 282455,
+      "game_name": "Zossed in Space",
+      "file": "missing/Z/282455-zossed-in-space.json"
     },
     {
       "igdb_id": 248820,
