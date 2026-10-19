@@ -143,7 +143,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cable Swiper | 22363 | [22363-cable-swiper.json](./22363-cable-swiper.json) |
 | Cabling | 89472 | [89472-cabling.json](./89472-cabling.json) |
 | Cabral's Quest | 291176 | [291176-cabrals-quest.json](./291176-cabrals-quest.json) |
+| Caça ao Rato | 281895 | [281895-caca-ao-rato.json](./281895-caca-ao-rato.json) |
 | Caça Palavras | 359769 | [359769-caca-palavras.json](./359769-caca-palavras.json) |
+| Caça Vampiro | 281888 | [281888-caca-vampiro.json](./281888-caca-vampiro.json) |
 | Cacau: Mistério da Ilha Perdida | 137896 | [137896-cacau-misterio-da-ilha-perdida.json](./137896-cacau-misterio-da-ilha-perdida.json) |
 | Caccia al Ladro | 305461 | [305461-caccia-al-ladro.json](./305461-caccia-al-ladro.json) |
 | Caccia al Ladro/Heathcliff | 305279 | [305279-caccia-al-ladro-heathcliff.json](./305279-caccia-al-ladro-heathcliff.json) |
@@ -3645,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ceaseless | 380069 | [380069-ceaseless.json](./380069-ceaseless.json) |
 | Ceasing to be Her Demise | 57908 | [57908-ceasing-to-be-her-demise.json](./57908-ceasing-to-be-her-demise.json) |
 | Cebolinha & Floquinho | 216292 | [216292-cebolinha-and-floquinho.json](./216292-cebolinha-and-floquinho.json) |
+| Cebolinha Contra o Capitão Feio | 281891 | [281891-cebolinha-contra-o-capitao-feio.json](./281891-cebolinha-contra-o-capitao-feio.json) |
 | Cebus | 400341 | [400341-cebus.json](./400341-cebus.json) |
 | Cecco Collection | 138018 | [138018-cecco-collection.json](./138018-cecco-collection.json) |
 | Cecelia | 259498 | [259498-cecelia.json](./259498-cecelia.json) |
@@ -3700,6 +3703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celeste Witch | 76427 | [76427-celeste-witch.json](./76427-celeste-witch.json) |
 | Celeste: Farewell | 122556 | [122556-celeste-farewell.json](./122556-celeste-farewell.json) |
 | Celeste: Into The Jungle | 353715 | [353715-celeste-into-the-jungle.json](./353715-celeste-into-the-jungle.json) |
+| Celeste: The D-Sides Pack | 281897 | [281897-celeste-the-d-sides-pack.json](./281897-celeste-the-d-sides-pack.json) |
 | Celestia | 183432 | [183432-celestia.json](./183432-celestia.json) |
 | Celestia Ultimate | 249475 | [249475-celestia-ultimate.json](./249475-celestia-ultimate.json) |
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
@@ -4575,6 +4579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatterbox | 300341 | [300341-chatterbox.json](./300341-chatterbox.json) |
 | Chatty's Bratty Tryst | 314010 | [314010-chattys-bratty-tryst.json](./314010-chattys-bratty-tryst.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
+| Chaves | 281892 | [281892-chaves.json](./281892-chaves.json) |
 | Chaves Arena | 252903 | [252903-chaves-arena.json](./252903-chaves-arena.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
 | Cheap Game | 157516 | [157516-cheap-game.json](./157516-cheap-game.json) |
@@ -5222,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chico | 127717 | [127717-chico.json](./127717-chico.json) |
 | Chico and the Magic Orchards | 199361 | [199361-chico-and-the-magic-orchards.json](./199361-chico-and-the-magic-orchards.json) |
 | Chico and the Magic Orchards DX | 277885 | [277885-chico-and-the-magic-orchards-dx.json](./277885-chico-and-the-magic-orchards-dx.json) |
+| Chico Bento: A Fuga das Galinhas | 281887 | [281887-chico-bento-a-fuga-das-galinhas.json](./281887-chico-bento-a-fuga-das-galinhas.json) |
 | Chico Bento: Um Dia na Roça | 216294 | [216294-chico-bento-um-dia-na-roca.json](./216294-chico-bento-um-dia-na-roca.json) |
 | Chico's Delivery | 406052 | [406052-chicos-delivery.json](./406052-chicos-delivery.json) |
 | Chico's Rebound | 345050 | [345050-chicos-rebound.json](./345050-chicos-rebound.json) |
