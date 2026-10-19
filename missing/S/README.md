@@ -2429,6 +2429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorcher | 115550 | [115550-scorcher.json](./115550-scorcher.json) |
 | Scorcher | 50381 | [50381-scorcher.json](./50381-scorcher.json) |
 | Scorchie Adventures | 306579 | [306579-scorchie-adventures.json](./306579-scorchie-adventures.json) |
+| Scorching Engines | 271595 | [271595-scorching-engines.json](./271595-scorching-engines.json) |
 | Scorching Strings | 331873 | [331873-scorching-strings.json](./331873-scorching-strings.json) |
 | Scorchlands | 165401 | [165401-scorchlands.json](./165401-scorchlands.json) |
 | Scorchy Sky Trials | 402905 | [402905-scorchy-sky-trials.json](./402905-scorchy-sky-trials.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
+| Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
 | Selfish Cupid | 254041 | [254041-selfish-cupid.json](./254041-selfish-cupid.json) |
 | Selfmade Devil | 170546 | [170546-selfmade-devil.json](./170546-selfmade-devil.json) |
@@ -4430,6 +4432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsuna ni Kakeru Koi Hanabi | 339821 | [339821-setsuna-ni-kakeru-koi-hanabi.json](./339821-setsuna-ni-kakeru-koi-hanabi.json) |
 | Setsunai | 77677 | [77677-setsunai.json](./77677-setsunai.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
+| Settlands | 271593 | [271593-settlands.json](./271593-settlands.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
@@ -4677,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Story: Cuckold Life - Episode 4 | 263762 | [263762-sex-story-cuckold-life-episode-4.json](./263762-sex-story-cuckold-life-episode-4.json) |
 | Sex Story: Cuckold Life - Episode 5 | 264635 | [264635-sex-story-cuckold-life-episode-5.json](./264635-sex-story-cuckold-life-episode-5.json) |
 | Sex Story: Cuckold Life - Episode 6 | 265867 | [265867-sex-story-cuckold-life-episode-6.json](./265867-sex-story-cuckold-life-episode-6.json) |
+| Sex Story: Cuckold Life - Episode 8 | 271592 | [271592-sex-story-cuckold-life-episode-8.json](./271592-sex-story-cuckold-life-episode-8.json) |
 | Sex Story: Cuckold Life - Episode 9 | 274689 | [274689-sex-story-cuckold-life-episode-9.json](./274689-sex-story-cuckold-life-episode-9.json) |
 | Sex Story: Ruby and Hunter - Episode 1 | 252672 | [252672-sex-story-ruby-and-hunter-episode-1.json](./252672-sex-story-ruby-and-hunter-episode-1.json) |
 | Sex Story: Ruby and Hunter - Episode 2 | 253851 | [253851-sex-story-ruby-and-hunter-episode-2.json](./253851-sex-story-ruby-and-hunter-episode-2.json) |
@@ -6645,6 +6649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
+| Shoot & Sow | 271591 | [271591-shoot-and-sow.json](./271591-shoot-and-sow.json) |
 | Shoot 2048 - reinvention of the classic puzzle | 102670 | [102670-shoot-2048-reinvention-of-the-classic-puzzle.json](./102670-shoot-2048-reinvention-of-the-classic-puzzle.json) |
 | Shoot 8 Ball: Billiards Pool8 | 231902 | [231902-shoot-8-ball-billiards-pool8.json](./231902-shoot-8-ball-billiards-pool8.json) |
 | Shoot Away Pro | 326742 | [326742-shoot-away-pro.json](./326742-shoot-away-pro.json) |
