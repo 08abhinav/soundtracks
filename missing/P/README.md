@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
+| Path of Ninja | 295093 | [295093-path-of-ninja.json](./295093-path-of-ninja.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
 | Path of Redemption | 128270 | [128270-path-of-redemption.json](./128270-path-of-redemption.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
 | Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
+| Pieced Together | 295080 | [295080-pieced-together.json](./295080-pieced-together.json) |
 | PieceFall VR | 270606 | [270606-piecefall-vr.json](./270606-piecefall-vr.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieces | 46587 | [46587-pieces.json](./46587-pieces.json) |
@@ -9128,6 +9130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PoolTime | 70845 | [70845-pooltime.json](./70845-pooltime.json) |
 | Poom | 165143 | [165143-poom.json](./165143-poom.json) |
 | Poom: Miasma Massacre | 229757 | [229757-poom-miasma-massacre.json](./229757-poom-miasma-massacre.json) |
+| Poon Puzzle: Hard Levels DLC | 295109 | [295109-poon-puzzle-hard-levels-dlc.json](./295109-poon-puzzle-hard-levels-dlc.json) |
 | Poop | 314398 | [314398-poop.json](./314398-poop.json) |
 | Poop City | 367185 | [367185-poop-city.json](./367185-poop-city.json) |
 | Poop Clicker | 195625 | [195625-poop-clicker.json](./195625-poop-clicker.json) |
