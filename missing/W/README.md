@@ -1481,6 +1481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Destiny | 188346 | [188346-warriors-of-destiny.json](./188346-warriors-of-destiny.json) |
 | Warriors of Dust | 278350 | [278350-warriors-of-dust.json](./278350-warriors-of-dust.json) |
 | Warriors of Elysia | 66569 | [66569-warriors-of-elysia.json](./66569-warriors-of-elysia.json) |
+| Warriors of Freedom | 267780 | [267780-warriors-of-freedom.json](./267780-warriors-of-freedom.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
@@ -1987,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way Out | 84080 | [84080-way-out.json](./84080-way-out.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
+| Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
@@ -4177,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
 | Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
 | Wind Runners | 121395 | [121395-wind-runners.json](./121395-wind-runners.json) |
+| Wind Ryder | 267781 | [267781-wind-ryder.json](./267781-wind-ryder.json) |
 | Wind Slayer | 92641 | [92641-wind-slayer.json](./92641-wind-slayer.json) |
 | Wind Story | 312540 | [312540-wind-story.json](./312540-wind-story.json) |
 | Wind Surf Willy | 10850 | [10850-wind-surf-willy.json](./10850-wind-surf-willy.json) |
@@ -4912,6 +4915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
 | Wizard Card Game | 144116 | [144116-wizard-card-game.json](./144116-wizard-card-game.json) |
 | Wizard Cats | 335494 | [335494-wizard-cats.json](./335494-wizard-cats.json) |
+| Wizard Cats Tank Battle | 267782 | [267782-wizard-cats-tank-battle.json](./267782-wizard-cats-tank-battle.json) |
 | Wizard Combat | 288465 | [288465-wizard-combat.json](./288465-wizard-combat.json) |
 | Wizard Confidential | 401549 | [401549-wizard-confidential.json](./401549-wizard-confidential.json) |
 | Wizard Defenders | 85493 | [85493-wizard-defenders.json](./85493-wizard-defenders.json) |
@@ -4993,6 +4997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry II: Llylgamyn no Isan | 50047 | [50047-wizardry-ii-llylgamyn-no-isan.json](./50047-wizardry-ii-llylgamyn-no-isan.json) |
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry III: Diamond no Kishi | 50046 | [50046-wizardry-iii-diamond-no-kishi.json](./50046-wizardry-iii-diamond-no-kishi.json) |
+| Wizardry Level C | 267783 | [267783-wizardry-level-c.json](./267783-wizardry-level-c.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
