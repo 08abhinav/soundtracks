@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Deception: Chapter 4 | 168829 | [168829-dark-deception-chapter-4.json](./168829-dark-deception-chapter-4.json) |
 | Dark Deception: Chapter 5 | 258364 | [258364-dark-deception-chapter-5.json](./258364-dark-deception-chapter-5.json) |
 | Dark Deception: Complete Edition | 169206 | [169206-dark-deception-complete-edition.json](./169206-dark-deception-complete-edition.json) |
+| Dark Deception: Malicious Mall | 301122 | [301122-dark-deception-malicious-mall.json](./301122-dark-deception-malicious-mall.json) |
 | Dark Deception: Monsters & Mortals - House of Ashes | 292864 | [292864-dark-deception-monsters-and-mortals-house-of-ashes.json](./292864-dark-deception-monsters-and-mortals-house-of-ashes.json) |
 | Dark Deception: Monsters & Mortals - Monstrum | 168923 | [168923-dark-deception-monsters-and-mortals-monstrum.json](./168923-dark-deception-monsters-and-mortals-monstrum.json) |
 | Dark Deception: Monsters & Mortals - Silent Hill | 168793 | [168793-dark-deception-monsters-and-mortals-silent-hill.json](./168793-dark-deception-monsters-and-mortals-silent-hill.json) |
@@ -6657,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
 | Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
+| Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
 | Dimension Drive | 27327 | [27327-dimension-drive.json](./27327-dimension-drive.json) |
@@ -12197,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
+| Drop | 301136 | [301136-drop.json](./301136-drop.json) |
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
@@ -13531,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkypung | 113637 | [113637-dunkypung.json](./113637-dunkypung.json) |
 | Dunland: Survivors Story | 247953 | [247953-dunland-survivors-story.json](./247953-dunland-survivors-story.json) |
 | Dunlight: Random Defense | 248157 | [248157-dunlight-random-defense.json](./248157-dunlight-random-defense.json) |
+| Dünnes Eis: Das Spiel zum Song | 301131 | [301131-dunnes-eis-das-spiel-zum-song.json](./301131-dunnes-eis-das-spiel-zum-song.json) |
 | Dunnigan's Trail | 154009 | [154009-dunnigans-trail.json](./154009-dunnigans-trail.json) |
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
