@@ -5736,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crimson Line | 345043 | [345043-the-crimson-line.json](./345043-the-crimson-line.json) |
 | The Crimson Lyre | 295504 | [295504-the-crimson-lyre.json](./295504-the-crimson-lyre.json) |
 | The Crimson Maid | 279002 | [279002-the-crimson-maid.json](./279002-the-crimson-maid.json) |
+| The Crimson Pearl | 262837 | [262837-the-crimson-pearl.json](./262837-the-crimson-pearl.json) |
 | The Crimson Serpent | 176807 | [176807-the-crimson-serpent.json](./176807-the-crimson-serpent.json) |
 | The Crisis Zone | 257117 | [257117-the-crisis-zone.json](./257117-the-crisis-zone.json) |
 | The Croaked Crown | 361265 | [361265-the-croaked-crown.json](./361265-the-croaked-crown.json) |
@@ -6141,6 +6142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
 | The Demons Down Under | 314893 | [314893-the-demons-down-under.json](./314893-the-demons-down-under.json) |
+| The Demons of Truth | 262792 | [262792-the-demons-of-truth.json](./262792-the-demons-of-truth.json) |
 | The Demons Told Me to Make This Game | 342666 | [342666-the-demons-told-me-to-make-this-game.json](./342666-the-demons-told-me-to-make-this-game.json) |
 | The Den of Worms | 159851 | [159851-the-den-of-worms.json](./159851-the-den-of-worms.json) |
 | The Denpa Men: They Came By Wave | 9662 | [9662-the-denpa-men-they-came-by-wave.json](./9662-the-denpa-men-they-came-by-wave.json) |
@@ -6797,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
+| The Faceless Ones | 262805 | [262805-the-faceless-ones.json](./262805-the-faceless-ones.json) |
 | The Faces of Evil Remastered | 206133 | [206133-the-faces-of-evil-remastered.json](./206133-the-faces-of-evil-remastered.json) |
 | The Faces of Evil Remastered Randomizer | 242113 | [242113-the-faces-of-evil-remastered-randomizer.json](./242113-the-faces-of-evil-remastered-randomizer.json) |
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
@@ -8281,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Inn | 133384 | [133384-the-inn.json](./133384-the-inn.json) |
 | The Inn-Sanity | 279266 | [279266-the-inn-sanity.json](./279266-the-inn-sanity.json) |
 | The Inner Darkness | 27919 | [27919-the-inner-darkness.json](./27919-the-inner-darkness.json) |
+| The Inner Demons | 262785 | [262785-the-inner-demons.json](./262785-the-inner-demons.json) |
 | The Inner Sea | 33517 | [33517-the-inner-sea.json](./33517-the-inner-sea.json) |
 | The Inner World: The Puzzle | 10971 | [10971-the-inner-world-the-puzzle.json](./10971-the-inner-world-the-puzzle.json) |
 | The Innsmouth Case | 129197 | [129197-the-innsmouth-case.json](./129197-the-innsmouth-case.json) |
@@ -12578,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
+| The Solar Queen | 262838 | [262838-the-solar-queen.json](./262838-the-solar-queen.json) |
 | The Solar Ring | 207911 | [207911-the-solar-ring.json](./207911-the-solar-ring.json) |
 | The Solar System | 65405 | [65405-the-solar-system.json](./65405-the-solar-system.json) |
 | The Soldat with Twin Arms | 151753 | [151753-the-soldat-with-twin-arms.json](./151753-the-soldat-with-twin-arms.json) |
@@ -13023,6 +13028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temple of Elemental Evil | 381153 | [381153-the-temple-of-elemental-evil.json](./381153-the-temple-of-elemental-evil.json) |
 | The Temple of No | 19699 | [19699-the-temple-of-no.json](./19699-the-temple-of-no.json) |
 | The Temple of Torment | 181257 | [181257-the-temple-of-torment.json](./181257-the-temple-of-torment.json) |
+| The Temple Warrior: Battleground of Demons | 262786 | [262786-the-temple-warrior-battleground-of-demons.json](./262786-the-temple-warrior-battleground-of-demons.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
 | The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
