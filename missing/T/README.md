@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Tap Dig - Idle Clicker Game | 100780 | [100780-tap-tap-dig-idle-clicker-game.json](./100780-tap-tap-dig-idle-clicker-game.json) |
 | Tap Tap Dig 2 | 220192 | [220192-tap-tap-dig-2.json](./220192-tap-tap-dig-2.json) |
 | Tap Tap Dunk | 102161 | [102161-tap-tap-dunk.json](./102161-tap-tap-dunk.json) |
+| Tap Tap Evil Mastermind | 290286 | [290286-tap-tap-evil-mastermind.json](./290286-tap-tap-evil-mastermind.json) |
 | Tap Tap Fish: Abyssrium Pole | 223003 | [223003-tap-tap-fish-abyssrium-pole.json](./223003-tap-tap-fish-abyssrium-pole.json) |
 | Tap Tap Goose | 413077 | [413077-tap-tap-goose.json](./413077-tap-tap-goose.json) |
 | Tap Tap Loot | 386351 | [386351-tap-tap-loot.json](./386351-tap-tap-loot.json) |
@@ -3961,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 22nd is Serda. F0a178 | 219566 | [219566-the-22nd-is-serda-f0a178.json](./219566-the-22nd-is-serda-f0a178.json) |
 | The 257th Element | 289570 | [289570-the-257th-element.json](./289570-the-257th-element.json) |
 | The 2k Sports Collection | 148124 | [148124-the-2k-sports-collection.json](./148124-the-2k-sports-collection.json) |
+| The 2nd Super Super Mario Land | 290247 | [290247-the-2nd-super-super-mario-land.json](./290247-the-2nd-super-super-mario-land.json) |
 | The 3 Little Princesses | 357253 | [357253-the-3-little-princesses.json](./357253-the-3-little-princesses.json) |
 | The 3 Lost Challenges | 309018 | [309018-the-3-lost-challenges.json](./309018-the-3-lost-challenges.json) |
 | The 37th Week | 75823 | [75823-the-37th-week.json](./75823-the-37th-week.json) |
