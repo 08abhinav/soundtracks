@@ -2648,6 +2648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
+| Ending Name | 284788 | [284788-ending-name.json](./284788-ending-name.json) |
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
