@@ -3313,6 +3313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleships and Carriers: Pacific War | 126315 | [126315-battleships-and-carriers-pacific-war.json](./126315-battleships-and-carriers-pacific-war.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
+| Battleships Collide: Space Shooter | 291299 | [291299-battleships-collide-space-shooter.json](./291299-battleships-collide-space-shooter.json) |
 | Battleships General Quarters | 273563 | [273563-battleships-general-quarters.json](./273563-battleships-general-quarters.json) |
 | Battleships Simulator | 407557 | [407557-battleships-simulator.json](./407557-battleships-simulator.json) |
 | BattleSide | 267477 | [267477-battleside.json](./267477-battleside.json) |
@@ -5825,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy the Wizard: Rocket Broomstick Racing | 4717 | [4717-billy-the-wizard-rocket-broomstick-racing.json](./4717-billy-the-wizard-rocket-broomstick-racing.json) |
 | Billy's Boot Camp: Wii de Enjoy Diet! | 136884 | [136884-billys-boot-camp-wii-de-enjoy-diet.json](./136884-billys-boot-camp-wii-de-enjoy-diet.json) |
 | Billy's Bootcamp | 92601 | [92601-billys-bootcamp.json](./92601-billys-bootcamp.json) |
+| Billy's Game Show | 291301 | [291301-billys-game-show.json](./291301-billys-game-show.json) |
 | Billy's Nightmare | 176811 | [176811-billys-nightmare.json](./176811-billys-nightmare.json) |
 | Bilson | 356019 | [356019-bilson.json](./356019-bilson.json) |
 | Bilspel | 79334 | [79334-bilspel.json](./79334-bilspel.json) |
@@ -9888,6 +9890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Barrage | 110986 | [110986-boss-barrage.json](./110986-boss-barrage.json) |
 | Boss Bashing Button Brawlers | 176764 | [176764-boss-bashing-button-brawlers.json](./176764-boss-bashing-button-brawlers.json) |
 | Boss Battle Arena | 371065 | [371065-boss-battle-arena.json](./371065-boss-battle-arena.json) |
+| Boss Breaker | 291348 | [291348-boss-breaker.json](./291348-boss-breaker.json) |
 | Boss Fighters | 235372 | [235372-boss-fighters.json](./235372-boss-fighters.json) |
 | Boss Hunter | 233485 | [233485-boss-hunter.json](./233485-boss-hunter.json) |
 | Boss Hunter | 368679 | [368679-boss-hunter.json](./368679-boss-hunter.json) |
@@ -9948,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
+| Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
 | Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
