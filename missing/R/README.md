@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
+| Reaplaced | 270545 | [270545-reaplaced.json](./270545-reaplaced.json) |
 | Reaprieve | 347907 | [347907-reaprieve.json](./347907-reaprieve.json) |
 | Rear of Business | 151275 | [151275-rear-of-business.json](./151275-rear-of-business.json) |
 | Rear Pheles: Red of Another | 59446 | [59446-rear-pheles-red-of-another.json](./59446-rear-pheles-red-of-another.json) |
@@ -4812,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Defenders | 150174 | [150174-reverse-defenders.json](./150174-reverse-defenders.json) |
 | Reverse Dream | 202327 | [202327-reverse-dream.json](./202327-reverse-dream.json) |
 | Reverse Dream of the Menasphere | 400430 | [400430-reverse-dream-of-the-menasphere.json](./400430-reverse-dream-of-the-menasphere.json) |
+| Reverse Dungeon | 270540 | [270540-reverse-dungeon.json](./270540-reverse-dungeon.json) |
 | Reverse Dyson Ball: Portal Tower | 311997 | [311997-reverse-dyson-ball-portal-tower.json](./311997-reverse-dyson-ball-portal-tower.json) |
 | Reverse Escape Room: Archaeologists Sanctum | 369334 | [369334-reverse-escape-room-archaeologists-sanctum.json](./369334-reverse-escape-room-archaeologists-sanctum.json) |
 | Reverse Fantasy Legend | 174676 | [174676-reverse-fantasy-legend.json](./174676-reverse-fantasy-legend.json) |
@@ -5379,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riders World: I Want to Jump | 200653 | [200653-riders-world-i-want-to-jump.json](./200653-riders-world-i-want-to-jump.json) |
 | Riders World: I Want to Race | 200654 | [200654-riders-world-i-want-to-race.json](./200654-riders-world-i-want-to-race.json) |
 | Rideshare "Stimulator" | 411819 | [411819-rideshare-stimulator.json](./411819-rideshare-stimulator.json) |
+| Ridevery | 270521 | [270521-ridevery.json](./270521-ridevery.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
