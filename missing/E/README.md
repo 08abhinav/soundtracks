@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
+| Emi: Christmas Special | 277747 | [277747-emi-christmas-special.json](./277747-emi-christmas-special.json) |
 | Emi: New Beginning | 225600 | [225600-emi-new-beginning.json](./225600-emi-new-beginning.json) |
 | Emi's Country Store and Farm | 218582 | [218582-emis-country-store-and-farm.json](./218582-emis-country-store-and-farm.json) |
 | Emi's Solo Ghost Hunting | 350954 | [350954-emis-solo-ghost-hunting.json](./350954-emis-solo-ghost-hunting.json) |
