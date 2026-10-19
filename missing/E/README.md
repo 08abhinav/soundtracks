@@ -3185,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Envoy 2 | 33367 | [33367-envoy-2.json](./33367-envoy-2.json) |
 | Envoy of Nezphere | 105309 | [105309-envoy-of-nezphere.json](./105309-envoy-of-nezphere.json) |
 | Envy the Dead | 33227 | [33227-envy-the-dead.json](./33227-envy-the-dead.json) |
+| Envyus | 269967 | [269967-envyus.json](./269967-envyus.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
@@ -5788,6 +5789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
+| Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
 | Explore Jam 1 | 275319 | [275319-explore-jam-1.json](./275319-explore-jam-1.json) |
