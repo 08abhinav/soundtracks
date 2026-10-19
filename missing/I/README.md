@@ -2484,6 +2484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
 | Individualism In The Dead Internet Age: An Anti Big Tech Asset Flip | 314974 | [314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json](./314974-individualism-in-the-dead-internet-age-an-anti-big-tech-asset-flip.json) |
 | Indomitable Spirit | 375985 | [375985-indomitable-spirit.json](./375985-indomitable-spirit.json) |
+| Indonesia School Simulator 3D | 296753 | [296753-indonesia-school-simulator-3d.json](./296753-indonesia-school-simulator-3d.json) |
 | Indonesian Dominatrixes Are the Best | 385705 | [385705-indonesian-dominatrixes-are-the-best.json](./385705-indonesian-dominatrixes-are-the-best.json) |
 | Indoor Air Soccer | 175338 | [175338-indoor-air-soccer.json](./175338-indoor-air-soccer.json) |
 | Indoor Baseball | 330562 | [330562-indoor-baseball.json](./330562-indoor-baseball.json) |
