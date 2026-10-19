@@ -7425,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Sky | 292965 | [292965-rogue-sky.json](./292965-rogue-sky.json) |
 | Rogue Slash | 117647 | [117647-rogue-slash.json](./117647-rogue-slash.json) |
 | Rogue Slasher | 269092 | [269092-rogue-slasher.json](./269092-rogue-slasher.json) |
+| Rogue Slime | 279477 | [279477-rogue-slime.json](./279477-rogue-slime.json) |
 | Rogue Slime | 388018 | [388018-rogue-slime.json](./388018-rogue-slime.json) |
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Snake | 345353 | [345353-rogue-snake.json](./345353-rogue-snake.json) |
