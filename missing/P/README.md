@@ -11440,6 +11440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
 | Project Aphotic | 285327 | [285327-project-aphotic.json](./285327-project-aphotic.json) |
+| Project Apoceus | 274913 | [274913-project-apoceus.json](./274913-project-apoceus.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project APT | 62099 | [62099-project-apt.json](./62099-project-apt.json) |
