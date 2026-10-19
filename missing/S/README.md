@@ -5847,6 +5847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
 | Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
 | Shí zhī Fēi | 119565 | [119565-shi-zhi-fei.json](./119565-shi-zhi-fei.json) |
@@ -6582,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Till You Meet Death | 390624 | [390624-shoot-till-you-meet-death.json](./390624-shoot-till-you-meet-death.json) |
 | Shoot to Escape | 231901 | [231901-shoot-to-escape.json](./231901-shoot-to-escape.json) |
 | Shoot to Pleasure | 310735 | [310735-shoot-to-pleasure.json](./310735-shoot-to-pleasure.json) |
+| Shoot to Shoot | 305638 | [305638-shoot-to-shoot.json](./305638-shoot-to-shoot.json) |
 | Shoot to Slide | 184427 | [184427-shoot-to-slide.json](./184427-shoot-to-slide.json) |
 | Shoot Together | 406737 | [406737-shoot-together.json](./406737-shoot-together.json) |
 | Shoot Your Friends | 154562 | [154562-shoot-your-friends.json](./154562-shoot-your-friends.json) |
@@ -13838,6 +13840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
+| Space | 305641 | [305641-space.json](./305641-space.json) |
 | Space | 421842 | [421842-space.json](./421842-space.json) |
 | Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
 | Space #2: The Gallery of Unfulfilled Dreams | 352762 | [352762-space-2-the-gallery-of-unfulfilled-dreams.json](./352762-space-2-the-gallery-of-unfulfilled-dreams.json) |
@@ -14195,6 +14198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hood | 372450 | [372450-space-hood.json](./372450-space-hood.json) |
 | Space Hopper | 187255 | [187255-space-hopper.json](./187255-space-hopper.json) |
 | Space Hopper | 274049 | [274049-space-hopper.json](./274049-space-hopper.json) |
+| Space Horde Attack | 305639 | [305639-space-horde-attack.json](./305639-space-horde-attack.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk | 12770 | [12770-space-hulk.json](./12770-space-hulk.json) |
 | Space Hulk Bundle | 118863 | [118863-space-hulk-bundle.json](./118863-space-hulk-bundle.json) |
@@ -14731,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceCrash | 171438 | [171438-spacecrash.json](./171438-spacecrash.json) |
 | SpaceCrooks: The End of Time | 216883 | [216883-spacecrooks-the-end-of-time.json](./216883-spacecrooks-the-end-of-time.json) |
 | Spaced | 93176 | [93176-spaced.json](./93176-spaced.json) |
+| Spaced Liberation | 305645 | [305645-spaced-liberation.json](./305645-spaced-liberation.json) |
 | Spaced Out | 296360 | [296360-spaced-out.json](./296360-spaced-out.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
