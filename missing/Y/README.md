@@ -346,6 +346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
 | Yeet the Chest | 414084 | [414084-yeet-the-chest.json](./414084-yeet-the-chest.json) |
+| YeGung | 306238 | [306238-yegung.json](./306238-yegung.json) |
 | YEKO | 394811 | [394811-yeko.json](./394811-yeko.json) |
 | Yelaxot | 59065 | [59065-yelaxot.json](./59065-yelaxot.json) |
 | Yeli Orog | 104331 | [104331-yeli-orog.json](./104331-yeli-orog.json) |
@@ -574,6 +575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yohane the Parhelion: Additional Character Pack Vol.2 "Chika & Ruby & You" | 306547 | [306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json](./306547-yohane-the-parhelion-additional-character-pack-vol-2-chika-and-ruby-and-you.json) |
 | Yohane the Parhelion: Additional character pack vol.3 "Riko & Mari + Yohane" | 315494 | [315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json](./315494-yohane-the-parhelion-additional-character-pack-vol-3-riko-and-mari-yohane.json) |
 | Yohane the Parhelion: Costume "Fluffy Lailaps" | 324495 | [324495-yohane-the-parhelion-costume-fluffy-lailaps.json](./324495-yohane-the-parhelion-costume-fluffy-lailaps.json) |
+| Yohane the Parhelion: Costume "Forever U & I" | 306197 | [306197-yohane-the-parhelion-costume-forever-u-and-i.json](./306197-yohane-the-parhelion-costume-forever-u-and-i.json) |
 | Yohane the Parhelion: Costume "Holy Knight" | 316223 | [316223-yohane-the-parhelion-costume-holy-knight.json](./316223-yohane-the-parhelion-costume-holy-knight.json) |
 | Yohane the Parhelion: Costume "Million Dollar Kitty" | 312119 | [312119-yohane-the-parhelion-costume-million-dollar-kitty.json](./312119-yohane-the-parhelion-costume-million-dollar-kitty.json) |
 | Yohane the Parhelion: Numazu in the Mirage - "Yohane the Parhelion" song set | 315499 | [315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json](./315499-yohane-the-parhelion-numazu-in-the-mirage-yohane-the-parhelion-song-set.json) |
