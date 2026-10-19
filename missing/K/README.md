@@ -1115,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep The Beat | 381598 | [381598-keep-the-beat.json](./381598-keep-the-beat.json) |
 | Keep The Fire: Survival Simulator | 276127 | [276127-keep-the-fire-survival-simulator.json](./276127-keep-the-fire-survival-simulator.json) |
 | Keep the Heroes Out | 276656 | [276656-keep-the-heroes-out.json](./276656-keep-the-heroes-out.json) |
+| Keep The House Warm | 291316 | [291316-keep-the-house-warm.json](./291316-keep-the-house-warm.json) |
 | Keep the Keep | 161576 | [161576-keep-the-keep.json](./161576-keep-the-keep.json) |
 | Keep Them Below | 59037 | [59037-keep-them-below.json](./59037-keep-them-below.json) |
 | Keep to the Blue | 416861 | [416861-keep-to-the-blue.json](./416861-keep-to-the-blue.json) |
@@ -2210,6 +2211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Hajwala | 153867 | [153867-king-hajwala.json](./153867-king-hajwala.json) |
 | King in the Mountain | 408930 | [408930-king-in-the-mountain.json](./408930-king-in-the-mountain.json) |
 | King in Yellow: Endless Sex Drama | 301647 | [301647-king-in-yellow-endless-sex-drama.json](./301647-king-in-yellow-endless-sex-drama.json) |
+| King Island | 291307 | [291307-king-island.json](./291307-king-island.json) |
 | King Island 2 | 292534 | [292534-king-island-2.json](./292534-king-island-2.json) |
 | King Island 3 | 293534 | [293534-king-island-3.json](./293534-king-island-3.json) |
 | King James Bible DX | 358319 | [358319-king-james-bible-dx.json](./358319-king-james-bible-dx.json) |
@@ -2296,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Hill | 72285 | [72285-king-of-the-hill.json](./72285-king-of-the-hill.json) |
 | King of The Hill | 290519 | [290519-king-of-the-hill.json](./290519-king-of-the-hill.json) |
 | King of the Hill Classic | 256234 | [256234-king-of-the-hill-classic.json](./256234-king-of-the-hill-classic.json) |
+| King of The Jesters | 291345 | [291345-king-of-the-jesters.json](./291345-king-of-the-jesters.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pirates | 340883 | [340883-king-of-the-pirates.json](./340883-king-of-the-pirates.json) |
@@ -2323,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Scribble | 382775 | [382775-king-scribble.json](./382775-king-scribble.json) |
 | King Solomon's Mines | 323289 | [323289-king-solomons-mines.json](./323289-king-solomons-mines.json) |
 | King Tongue | 87873 | [87873-king-tongue.json](./87873-king-tongue.json) |
+| King Towers | 291311 | [291311-king-towers.json](./291311-king-towers.json) |
 | King Tut’s Tomb | 366263 | [366263-king-tut-s-tomb.json](./366263-king-tut-s-tomb.json) |
 | King under the Mountain | 24835 | [24835-king-under-the-mountain.json](./24835-king-under-the-mountain.json) |
 | King Valley | 121729 | [121729-king-valley.json](./121729-king-valley.json) |
@@ -2923,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitaru | 61428 | [61428-kitaru.json](./61428-kitaru.json) |
 | Kitbashers United | 307735 | [307735-kitbashers-united.json](./307735-kitbashers-united.json) |
 | Kitchen | 218719 | [218719-kitchen.json](./218719-kitchen.json) |
+| Kitchen Carnage | 291336 | [291336-kitchen-carnage.json](./291336-kitchen-carnage.json) |
 | Kitchen Chaos | 232921 | [232921-kitchen-chaos.json](./232921-kitchen-chaos.json) |
 | Kitchen Confidence | 236855 | [236855-kitchen-confidence.json](./236855-kitchen-confidence.json) |
 | Kitchen Frenzy | 174787 | [174787-kitchen-frenzy.json](./174787-kitchen-frenzy.json) |
