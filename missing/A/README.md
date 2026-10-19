@@ -12065,6 +12065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas' Fate: Between Light & Darkness | 182767 | [182767-atlas-fate-between-light-and-darkness.json](./182767-atlas-fate-between-light-and-darkness.json) |
 | Atled: Everlasting Song | 194540 | [194540-atled-everlasting-song.json](./194540-atled-everlasting-song.json) |
 | Atlus Collaboration Costume Set | 333387 | [333387-atlus-collaboration-costume-set.json](./333387-atlus-collaboration-costume-set.json) |
+| Atman: Rebel Flame | 292388 | [292388-atman-rebel-flame.json](./292388-atman-rebel-flame.json) |
 | AtmaSphere 2 | 261706 | [261706-atmasphere-2.json](./261706-atmasphere-2.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
