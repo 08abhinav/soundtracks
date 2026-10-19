@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins - Initiation | 75531 | [75531-batman-arkham-origins-initiation.json](./75531-batman-arkham-origins-initiation.json) |
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
 | Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
+| Batman: Back Street Brawl | 284216 | [284216-batman-back-street-brawl.json](./284216-batman-back-street-brawl.json) |
 | Batman: Chaos in Gotham | 45201 | [45201-batman-chaos-in-gotham.json](./45201-batman-chaos-in-gotham.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
@@ -2557,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Video Game | 49226 | [49226-batman-the-video-game.json](./49226-batman-the-video-game.json) |
 | Batman: Vengeance | 197872 | [197872-batman-vengeance.json](./197872-batman-vengeance.json) |
 | Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
+| Batman: Wings of Steel | 284217 | [284217-batman-wings-of-steel.json](./284217-batman-wings-of-steel.json) |
 | BatMUD | 126128 | [126128-batmud.json](./126128-batmud.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
@@ -3070,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleboat | 368279 | [368279-battleboat.json](./368279-battleboat.json) |
 | BattleBoat X | 390029 | [390029-battleboat-x.json](./390029-battleboat-x.json) |
 | Battleboats.io | 327906 | [327906-battleboats-io.json](./327906-battleboats-io.json) |
+| Battleboom | 284235 | [284235-battleboom.json](./284235-battleboom.json) |
 | Battleborn Tap | 58610 | [58610-battleborn-tap.json](./58610-battleborn-tap.json) |
 | Battleborn: Attikus and the Thrall Rebellion | 25040 | [25040-battleborn-attikus-and-the-thrall-rebellion.json](./25040-battleborn-attikus-and-the-thrall-rebellion.json) |
 | Battleborn: Montana and the Demon Bear | 403140 | [403140-battleborn-montana-and-the-demon-bear.json](./403140-battleborn-montana-and-the-demon-bear.json) |
@@ -3368,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTime | 31886 | [31886-battletime.json](./31886-battletime.json) |
 | Battletoads | 136619 | [136619-battletoads.json](./136619-battletoads.json) |
 | Battletoads | 262942 | [262942-battletoads.json](./262942-battletoads.json) |
+| Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
