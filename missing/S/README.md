@@ -4716,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
 | Sexy Exile | 195610 | [195610-sexy-exile.json](./195610-sexy-exile.json) |
+| Sexy Fitness Girl | 286395 | [286395-sexy-fitness-girl.json](./286395-sexy-fitness-girl.json) |
 | Sexy Furry Puzzle | 335305 | [335305-sexy-furry-puzzle.json](./335305-sexy-furry-puzzle.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
 | Sexy Girl Next Door: Virtual Valentine Sex | 311991 | [311991-sexy-girl-next-door-virtual-valentine-sex.json](./311991-sexy-girl-next-door-virtual-valentine-sex.json) |
@@ -5648,6 +5649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shawarma King | 330345 | [330345-shawarma-king.json](./330345-shawarma-king.json) |
 | Shawarma Wars | 385562 | [385562-shawarma-wars.json](./385562-shawarma-wars.json) |
 | Shawl | 56527 | [56527-shawl.json](./56527-shawl.json) |
+| ShawnCena121 | 286417 | [286417-shawncena121.json](./286417-shawncena121.json) |
 | Shawy Adventures | 115535 | [115535-shawy-adventures.json](./115535-shawy-adventures.json) |
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
