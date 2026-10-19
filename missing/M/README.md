@@ -9506,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
 | Minimalist Sudoku | 326295 | [326295-minimalist-sudoku.json](./326295-minimalist-sudoku.json) |
 | Minimalist Tower Defense | 270778 | [270778-minimalist-tower-defense.json](./270778-minimalist-tower-defense.json) |
+| Minimalist Tower Defense: The Last Tower | 303883 | [303883-minimalist-tower-defense-the-last-tower.json](./303883-minimalist-tower-defense-the-last-tower.json) |
 | Minimalistic Golf | 181710 | [181710-minimalistic-golf.json](./181710-minimalistic-golf.json) |
 | Minimally Invasive | 244270 | [244270-minimally-invasive.json](./244270-minimally-invasive.json) |
 | Minimancer | 74927 | [74927-minimancer.json](./74927-minimancer.json) |
@@ -10287,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixx Island: Remix Plus - Ultra Extended | 306545 | [306545-mixx-island-remix-plus-ultra-extended.json](./306545-mixx-island-remix-plus-ultra-extended.json) |
 | Mixx Island: Remix Plus - Ultra Legendary | 324449 | [324449-mixx-island-remix-plus-ultra-legendary.json](./324449-mixx-island-remix-plus-ultra-legendary.json) |
 | Mixx Island: Remix Plus - Ultra Special | 308820 | [308820-mixx-island-remix-plus-ultra-special.json](./308820-mixx-island-remix-plus-ultra-special.json) |
+| Mixx Island: Remix Plus - Ultra Ultimate | 303860 | [303860-mixx-island-remix-plus-ultra-ultimate.json](./303860-mixx-island-remix-plus-ultra-ultimate.json) |
 | Mixx Island: Remix Vol. 2 | 186316 | [186316-mixx-island-remix-vol-2.json](./186316-mixx-island-remix-vol-2.json) |
 | Miya Might Break | 390138 | [390138-miya-might-break.json](./390138-miya-might-break.json) |
 | Miya's Everyday Joy of Cooking | 202144 | [202144-miyas-everyday-joy-of-cooking.json](./202144-miyas-everyday-joy-of-cooking.json) |
