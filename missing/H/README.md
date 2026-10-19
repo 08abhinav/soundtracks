@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare Uso: Original Harem Story | 379638 | [379638-hare-uso-original-harem-story.json](./379638-hare-uso-original-harem-story.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
+| Harem Girl: Evie | 284244 | [284244-harem-girl-evie.json](./284244-harem-girl-evie.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
 | Harem Girl: Samantha | 286391 | [286391-harem-girl-samantha.json](./286391-harem-girl-samantha.json) |
@@ -3766,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Honeys Jigsaw | 163013 | [163013-hentai-honeys-jigsaw.json](./163013-hentai-honeys-jigsaw.json) |
 | Hentai Honeys Slider | 365437 | [365437-hentai-honeys-slider.json](./365437-hentai-honeys-slider.json) |
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
+| Hentai Horror: The Eight Pictures | 284237 | [284237-hentai-horror-the-eight-pictures.json](./284237-hentai-horror-the-eight-pictures.json) |
 | Hentai Hospital | 371360 | [371360-hentai-hospital.json](./371360-hentai-hospital.json) |
 | Hentai House | 365438 | [365438-hentai-house.json](./365438-hentai-house.json) |
 | Hentai House Wife | 371369 | [371369-hentai-house-wife.json](./371369-hentai-house-wife.json) |
@@ -3978,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
+| Hentai Sweet Girls | 284238 | [284238-hentai-sweet-girls.json](./284238-hentai-sweet-girls.json) |
 | Hentai Swimming Club | 150530 | [150530-hentai-swimming-club.json](./150530-hentai-swimming-club.json) |
 | Hentai Tales Bundle | 300866 | [300866-hentai-tales-bundle.json](./300866-hentai-tales-bundle.json) |
 | Hentai Tales Vol. 2: Hitomi and Sea Trip | 277309 | [277309-hentai-tales-vol-2-hitomi-and-sea-trip.json](./277309-hentai-tales-vol-2-hitomi-and-sea-trip.json) |
