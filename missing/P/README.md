@@ -5822,6 +5822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Champions | 59648 | [59648-pixel-champions.json](./59648-pixel-champions.json) |
 | Pixel Chess | 416592 | [416592-pixel-chess.json](./416592-pixel-chess.json) |
 | Pixel Chess Idle RPG | 414174 | [414174-pixel-chess-idle-rpg.json](./414174-pixel-chess-idle-rpg.json) |
+| Pixel Chix | 296823 | [296823-pixel-chix.json](./296823-pixel-chix.json) |
 | Pixel Collector | 312165 | [312165-pixel-collector.json](./312165-pixel-collector.json) |
 | Pixel Colony | 262875 | [262875-pixel-colony.json](./262875-pixel-colony.json) |
 | Pixel Coloring Book Game | 106566 | [106566-pixel-coloring-book-game.json](./106566-pixel-coloring-book-game.json) |
@@ -10163,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preface: Undiscovered World | 324577 | [324577-preface-undiscovered-world.json](./324577-preface-undiscovered-world.json) |
 | Pregnancy | 35722 | [35722-pregnancy.json](./35722-pregnancy.json) |
 | Pregnant Mom Emergency Surgery | 99421 | [99421-pregnant-mom-emergency-surgery.json](./99421-pregnant-mom-emergency-surgery.json) |
+| Pregnant Mom Simulator 3d | 296749 | [296749-pregnant-mom-simulator-3d.json](./296749-pregnant-mom-simulator-3d.json) |
 | Pregnant Mom Virtual Family Neighbor Helper | 96001 | [96001-pregnant-mom-virtual-family-neighbor-helper.json](./96001-pregnant-mom-virtual-family-neighbor-helper.json) |
 | Pregnant Mother Life Mom Games | 296784 | [296784-pregnant-mother-life-mom-games.json](./296784-pregnant-mother-life-mom-games.json) |
 | Pregnant Talking Cat Emma | 250018 | [250018-pregnant-talking-cat-emma.json](./250018-pregnant-talking-cat-emma.json) |
