@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Education | 161586 | [161586-education.json](./161586-education.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
+| Educational Enamours | 290791 | [290791-educational-enamours.json](./290791-educational-enamours.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Educational games for kids girls & boys apps free! | 102742 | [102742-educational-games-for-kids-girls-and-boys-apps-free.json](./102742-educational-games-for-kids-girls-and-boys-apps-free.json) |
 | Educational Pack of Kids Games | 85107 | [85107-educational-pack-of-kids-games.json](./85107-educational-pack-of-kids-games.json) |
@@ -2916,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enforcer: Police Crime Action | 17741 | [17741-enforcer-police-crime-action.json](./17741-enforcer-police-crime-action.json) |
 | Enforcers Revolt | 335136 | [335136-enforcers-revolt.json](./335136-enforcers-revolt.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
+| EnGaCho: Dreamy Butterfly | 290781 | [290781-engacho-dreamy-butterfly.json](./290781-engacho-dreamy-butterfly.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
 | Engage | 300460 | [300460-engage.json](./300460-engage.json) |
 | Engage Links | 92422 | [92422-engage-links.json](./92422-engage-links.json) |
@@ -3240,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dragon | 236352 | [236352-epic-dragon.json](./236352-epic-dragon.json) |
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
 | Epic Dumpster Bear | 19615 | [19615-epic-dumpster-bear.json](./19615-epic-dumpster-bear.json) |
+| Epic Dumpster Bear 1.5 DX: Dumpster Fire Rebirth | 290824 | [290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json](./290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json) |
 | Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
@@ -4826,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
+| Event Race: Easter Tracks | 290785 | [290785-event-race-easter-tracks.json](./290785-event-race-easter-tracks.json) |
 | Event World VR | 295523 | [295523-event-world-vr.json](./295523-event-world-vr.json) |
 | Event-D | 113016 | [113016-event-d.json](./113016-event-d.json) |
 | Eventide | 252026 | [252026-eventide.json](./252026-eventide.json) |
