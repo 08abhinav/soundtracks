@@ -2703,6 +2703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dungeon | 109970 | [109970-endless-dungeon.json](./109970-endless-dungeon.json) |
 | Endless Dungeon: Day One Edition | 234210 | [234210-endless-dungeon-day-one-edition.json](./234210-endless-dungeon-day-one-edition.json) |
 | Endless Dungeon: Ichiban And Kiryu Skin Pack | 289422 | [289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json](./289422-endless-dungeon-ichiban-and-kiryu-skin-pack.json) |
+| Endless Dungeon: Last Wish Edition | 263319 | [263319-endless-dungeon-last-wish-edition.json](./263319-endless-dungeon-last-wish-edition.json) |
 | Endless Engines | 219249 | [219249-endless-engines.json](./219249-endless-engines.json) |
 | Endless Escalation | 390742 | [390742-endless-escalation.json](./390742-endless-escalation.json) |
 | Endless Escape | 38912 | [38912-endless-escape.json](./38912-endless-escape.json) |
@@ -3087,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entangled | 212158 | [212158-entangled.json](./212158-entangled.json) |
+| Entangled | 263320 | [263320-entangled.json](./263320-entangled.json) |
 | Entangled | 344564 | [344564-entangled.json](./344564-entangled.json) |
 | Entangled | 344565 | [344565-entangled.json](./344565-entangled.json) |
 | Entangled Souls | 223404 | [223404-entangled-souls.json](./223404-entangled-souls.json) |
