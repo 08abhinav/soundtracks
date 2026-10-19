@@ -6674,6 +6674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dima Rescues Ira | 75157 | [75157-dima-rescues-ira.json](./75157-dima-rescues-ira.json) |
 | Dimachaerus | 301248 | [301248-dimachaerus.json](./301248-dimachaerus.json) |
 | Dimahoo | 38527 | [38527-dimahoo.json](./38527-dimahoo.json) |
+| DimCom | 289184 | [289184-dimcom.json](./289184-dimcom.json) |
 | Dimday Red | 214389 | [214389-dimday-red.json](./214389-dimday-red.json) |
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
 | Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
@@ -7941,9 +7942,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
+| DIY Fashion Star | 289210 | [289210-diy-fashion-star.json](./289210-diy-fashion-star.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
+| DIY Fashion Star: Arts & Crafts | 289211 | [289211-diy-fashion-star-arts-and-crafts.json](./289211-diy-fashion-star-arts-and-crafts.json) |
 | DIY Fashion Star: Complete Edition | 292918 | [292918-diy-fashion-star-complete-edition.json](./292918-diy-fashion-star-complete-edition.json) |
+| DIY Fashion Star: Glow Up! | 289212 | [289212-diy-fashion-star-glow-up.json](./289212-diy-fashion-star-glow-up.json) |
 | DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
+| DIY Fashion Star: Stylish Outfits | 289213 | [289213-diy-fashion-star-stylish-outfits.json](./289213-diy-fashion-star-stylish-outfits.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
 | DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
