@@ -10376,6 +10376,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Myth Seekers 2: The Sunken City | 119615 | [119615-the-myth-seekers-2-the-sunken-city.json](./119615-the-myth-seekers-2-the-sunken-city.json) |
 | The Myth Seekers Collection | 277244 | [277244-the-myth-seekers-collection.json](./277244-the-myth-seekers-collection.json) |
 | The Mythical City | 264232 | [264232-the-mythical-city.json](./264232-the-mythical-city.json) |
+| The Mythical City 2 | 304432 | [304432-the-mythical-city-2.json](./304432-the-mythical-city-2.json) |
+| The Mythical City 3 | 304427 | [304427-the-mythical-city-3.json](./304427-the-mythical-city-3.json) |
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
@@ -13419,6 +13421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
 | The Ultimate Hunter Falls Prey to a Monster Girl Level Draining Reverse R*P*G | 82811 | [82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json](./82811-the-ultimate-hunter-falls-prey-to-a-monster-girl-level-draining-reverse-r-p-g.json) |
+| The Ultimate Math Teaching Game | 304435 | [304435-the-ultimate-math-teaching-game.json](./304435-the-ultimate-math-teaching-game.json) |
 | The Ultimate Might and Magic Archives | 206778 | [206778-the-ultimate-might-and-magic-archives.json](./206778-the-ultimate-might-and-magic-archives.json) |
 | The Ultimate Red Ball Challenge | 67210 | [67210-the-ultimate-red-ball-challenge.json](./67210-the-ultimate-red-ball-challenge.json) |
 | The ultimate secret of the universe: Soul | 169922 | [169922-the-ultimate-secret-of-the-universe-soul.json](./169922-the-ultimate-secret-of-the-universe-soul.json) |
@@ -21631,6 +21634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
+| TranceWave Neo | 304467 | [304467-trancewave-neo.json](./304467-trancewave-neo.json) |
 | Tranquil Garden | 121367 | [121367-tranquil-garden.json](./121367-tranquil-garden.json) |
 | Tranquil Garden: Adventurer's Edition | 244156 | [244156-tranquil-garden-adventurers-edition.json](./244156-tranquil-garden-adventurers-edition.json) |
 | Tranquil Isle | 240790 | [240790-tranquil-isle.json](./240790-tranquil-isle.json) |
