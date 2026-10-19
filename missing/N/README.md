@@ -1889,6 +1889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
+| Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
 | Neon On!: Bright Edition | 304775 | [304775-neon-on-bright-edition.json](./304775-neon-on-bright-edition.json) |
 | Neon On!: Bright Ideas | 290434 | [290434-neon-on-bright-ideas.json](./290434-neon-on-bright-ideas.json) |
