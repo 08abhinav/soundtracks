@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro | 314289 | [314289-pedro.json](./314289-pedro.json) |
 | Pedro | 52008 | [52008-pedro.json](./52008-pedro.json) |
 | Pedro Kicks Back | 108932 | [108932-pedro-kicks-back.json](./108932-pedro-kicks-back.json) |
+| Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
