@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
 | Tactics 2: War | 61610 | [61610-tactics-2-war.json](./61610-tactics-2-war.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
+| Tactics Core | 281896 | [281896-tactics-core.json](./281896-tactics-core.json) |
 | Tactics Despair: Falling Fellows | 82846 | [82846-tactics-despair-falling-fellows.json](./82846-tactics-despair-falling-fellows.json) |
 | Tactics Forever | 38785 | [38785-tactics-forever.json](./38785-tactics-forever.json) |
 | Tactics Formula | 141163 | [141163-tactics-formula.json](./141163-tactics-formula.json) |
@@ -15066,7 +15067,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrillgate | 130160 | [130160-thrillgate.json](./130160-thrillgate.json) |
 | Thrilling Stories Collection | 279878 | [279878-thrilling-stories-collection.json](./279878-thrilling-stories-collection.json) |
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
+| Thrillville | 281901 | [281901-thrillville.json](./281901-thrillville.json) |
 | Thrillville | 2852 | [2852-thrillville.json](./2852-thrillville.json) |
+| Thrillville: Off the Rails | 281902 | [281902-thrillville-off-the-rails.json](./281902-thrillville-off-the-rails.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
 | Thro' The Wall also Scramble | 319600 | [319600-thro-the-wall-also-scramble.json](./319600-thro-the-wall-also-scramble.json) |
@@ -22174,6 +22177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traversia | 63669 | [63669-traversia.json](./63669-traversia.json) |
 | Traversing Traveler | 148463 | [148463-traversing-traveler.json](./148463-traversing-traveler.json) |
 | Traversion | 274527 | [274527-traversion.json](./274527-traversion.json) |
+| Travessia | 281894 | [281894-travessia.json](./281894-travessia.json) |
 | Travian: Kingdoms | 31910 | [31910-travian-kingdoms.json](./31910-travian-kingdoms.json) |
 | Travians | 363543 | [363543-travians.json](./363543-travians.json) |
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
@@ -23351,6 +23355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trumpy Wall | 106457 | [106457-trumpy-wall.json](./106457-trumpy-wall.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
+| Trupki | 281924 | [281924-trupki.json](./281924-trupki.json) |
 | Trushybin & Removin: What I Couldn’t Delete | 390273 | [390273-trushybin-and-removin-what-i-couldn-t-delete.json](./390273-trushybin-and-removin-what-i-couldn-t-delete.json) |
 | Truss | 230370 | [230370-truss.json](./230370-truss.json) |
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
@@ -23361,10 +23366,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
+| Trust No One | 281923 | [281923-trust-no-one.json](./281923-trust-no-one.json) |
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust the Watchers | 415497 | [415497-trust-the-watchers.json](./415497-trust-the-watchers.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
 | Truth | 259040 | [259040-truth.json](./259040-truth.json) |
+| Truth | 281922 | [281922-truth.json](./281922-truth.json) |
 | Truth & Trolls [Episode 1: Broken Promises] | 109069 | [109069-truth-and-trolls-episode-1-broken-promises.json](./109069-truth-and-trolls-episode-1-broken-promises.json) |
 | Truth in Turbulent | 308891 | [308891-truth-in-turbulent.json](./308891-truth-in-turbulent.json) |
 | Truth Loop | 218735 | [218735-truth-loop.json](./218735-truth-loop.json) |
