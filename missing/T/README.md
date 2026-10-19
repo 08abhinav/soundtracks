@@ -8414,6 +8414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
+| The Journey | 263358 | [263358-the-journey.json](./263358-the-journey.json) |
 | The Journey Back | 34708 | [34708-the-journey-back.json](./34708-the-journey-back.json) |
 | The Journey Down: Chapter One | 9048 | [9048-the-journey-down-chapter-one.json](./9048-the-journey-down-chapter-one.json) |
 | The Journey Down: Chapter Three | 15911 | [15911-the-journey-down-chapter-three.json](./15911-the-journey-down-chapter-three.json) |
@@ -13736,6 +13737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
 | The Upper Downer Complex | 285903 | [285903-the-upper-downer-complex.json](./285903-the-upper-downer-complex.json) |
 | The Upper Hand | 311862 | [311862-the-upper-hand.json](./311862-the-upper-hand.json) |
+| The Uprising | 263365 | [263365-the-uprising.json](./263365-the-uprising.json) |
 | The Ur-Quan Masters | 46575 | [46575-the-ur-quan-masters.json](./46575-the-ur-quan-masters.json) |
 | The Urbz: Sims in the City | 144555 | [144555-the-urbz-sims-in-the-city.json](./144555-the-urbz-sims-in-the-city.json) |
 | The Urbz: Sims in the City | 248680 | [248680-the-urbz-sims-in-the-city.json](./248680-the-urbz-sims-in-the-city.json) |
@@ -18883,6 +18885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonzura-kun | 386520 | [386520-tonzura-kun.json](./386520-tonzura-kun.json) |
 | Tonzurakko | 66630 | [66630-tonzurakko.json](./66630-tonzurakko.json) |
 | Too Accurate to Be Scary...Your True Feelings Revealed by This Image | 409505 | [409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json](./409505-too-accurate-to-be-scary-your-true-feelings-revealed-by-this-image.json) |
+| Too Bouncy? | 263340 | [263340-too-bouncy.json](./263340-too-bouncy.json) |
 | Too Deep To Quit | 397820 | [397820-too-deep-to-quit.json](./397820-too-deep-to-quit.json) |
 | Too Different | 150974 | [150974-too-different.json](./150974-too-different.json) |
 | Too Far Too Late | 295550 | [295550-too-far-too-late.json](./295550-too-far-too-late.json) |
@@ -19124,6 +19127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
 | Torch Cave 2 | 31086 | [31086-torch-cave-2.json](./31086-torch-cave-2.json) |
+| Torch Cave 2: The Trail of Ashes | 263317 | [263317-torch-cave-2-the-trail-of-ashes.json](./263317-torch-cave-2-the-trail-of-ashes.json) |
 | Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
 | Torch Keeper | 399177 | [399177-torch-keeper.json](./399177-torch-keeper.json) |
 | Torch of Shadows | 374074 | [374074-torch-of-shadows.json](./374074-torch-of-shadows.json) |
@@ -22745,6 +22749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribute | 293387 | [293387-tribute.json](./293387-tribute.json) |
 | Tribute | 338609 | [338609-tribute.json](./338609-tribute.json) |
 | Tribute to Shadow of the Colossus | 310656 | [310656-tribute-to-shadow-of-the-colossus.json](./310656-tribute-to-shadow-of-the-colossus.json) |
+| Trick Art Dungeon | 263338 | [263338-trick-art-dungeon.json](./263338-trick-art-dungeon.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
