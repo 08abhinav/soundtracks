@@ -2395,6 +2395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Valley | 19727 | [19727-kings-valley.json](./19727-kings-valley.json) |
 | KingAndSlaves | 122401 | [122401-kingandslaves.json](./122401-kingandslaves.json) |
 | Kingdom | 277325 | [277325-kingdom.json](./277325-kingdom.json) |
+| Kingdom | 304975 | [304975-kingdom.json](./304975-kingdom.json) |
 | Kingdom | 372233 | [372233-kingdom.json](./372233-kingdom.json) |
 | Kingdom Adventurers | 256175 | [256175-kingdom-adventurers.json](./256175-kingdom-adventurers.json) |
 | Kingdom at War | 84254 | [84254-kingdom-at-war.json](./84254-kingdom-at-war.json) |
@@ -3013,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Hawk | 81208 | [81208-kitty-hawk.json](./81208-kitty-hawk.json) |
 | Kitty in the Box 2 | 231929 | [231929-kitty-in-the-box-2.json](./231929-kitty-in-the-box-2.json) |
 | Kitty in the Crowd | 243970 | [243970-kitty-in-the-crowd.json](./243970-kitty-in-the-crowd.json) |
+| Kitty Keep | 304958 | [304958-kitty-keep.json](./304958-kitty-keep.json) |
 | Kitty Keeper: Cat Collector | 105881 | [105881-kitty-keeper-cat-collector.json](./105881-kitty-keeper-cat-collector.json) |
 | Kitty Kitty Bang Bang | 179146 | [179146-kitty-kitty-bang-bang.json](./179146-kitty-kitty-bang-bang.json) |
 | Kitty Kitty Bounce Bounce | 292220 | [292220-kitty-kitty-bounce-bounce.json](./292220-kitty-kitty-bounce-bounce.json) |
@@ -3215,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Driver | 133443 | [133443-knight-driver.json](./133443-knight-driver.json) |
 | Knight Empire Online | 130719 | [130719-knight-empire-online.json](./130719-knight-empire-online.json) |
 | Knight Eternal | 123973 | [123973-knight-eternal.json](./123973-knight-eternal.json) |
+| Knight Fall | 304980 | [304980-knight-fall.json](./304980-knight-fall.json) |
 | Knight Fever | 70846 | [70846-knight-fever.json](./70846-knight-fever.json) |
 | Knight Fighter | 96902 | [96902-knight-fighter.json](./96902-knight-fighter.json) |
 | Knight Foretold | 252802 | [252802-knight-foretold.json](./252802-knight-foretold.json) |
