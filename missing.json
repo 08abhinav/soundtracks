@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T12:18:43.083Z",
-  "total_missing": 232927,
+  "generated_at": "2026-10-19T12:33:39.436Z",
+  "total_missing": 232977,
   "games": [
     {
       "igdb_id": 191680,
@@ -17292,6 +17292,11 @@
       "file": "missing/A/315625-a-tasting-flight-of-names.json"
     },
     {
+      "igdb_id": 280677,
+      "game_name": "A Technician's Nightmare",
+      "file": "missing/A/280677-a-technicians-nightmare.json"
+    },
+    {
       "igdb_id": 420679,
       "game_name": "A Tempting Life with My Neighbor",
       "file": "missing/A/420679-a-tempting-life-with-my-neighbor.json"
@@ -23325,6 +23330,11 @@
       "igdb_id": 379474,
       "game_name": "Actuator: Overt Abnormality",
       "file": "missing/A/379474-actuator-overt-abnormality.json"
+    },
+    {
+      "igdb_id": 280675,
+      "game_name": "Aculeata",
+      "file": "missing/A/280675-aculeata.json"
     },
     {
       "igdb_id": 318561,
@@ -41487,6 +41497,11 @@
       "file": "missing/A/263573-am-i-ai.json"
     },
     {
+      "igdb_id": 280665,
+      "game_name": "Am I Explorer",
+      "file": "missing/A/280665-am-i-explorer.json"
+    },
+    {
       "igdb_id": 399160,
       "game_name": "Am I Here?",
       "file": "missing/A/399160-am-i-here.json"
@@ -53740,6 +53755,11 @@
       "igdb_id": 212255,
       "game_name": "Apathy Hayarigami",
       "file": "missing/A/212255-apathy-hayarigami.json"
+    },
+    {
+      "igdb_id": 280656,
+      "game_name": "Apathy in Our Stars",
+      "file": "missing/A/280656-apathy-in-our-stars.json"
     },
     {
       "igdb_id": 308888,
@@ -71700,6 +71720,11 @@
       "igdb_id": 90392,
       "game_name": "Asylum Night Shift",
       "file": "missing/A/90392-asylum-night-shift.json"
+    },
+    {
+      "igdb_id": 280668,
+      "game_name": "Asylum Nightmares",
+      "file": "missing/A/280668-asylum-nightmares.json"
     },
     {
       "igdb_id": 302092,
@@ -110832,6 +110857,11 @@
       "file": "missing/B/269070-birds-on-a-wire.json"
     },
     {
+      "igdb_id": 280674,
+      "game_name": "Birds Organized Neatly",
+      "file": "missing/B/280674-birds-organized-neatly.json"
+    },
+    {
       "igdb_id": 283998,
       "game_name": "Birds vs. Dragons",
       "file": "missing/B/283998-birds-vs-dragons.json"
@@ -122870,6 +122900,11 @@
       "igdb_id": 216668,
       "game_name": "Blue Wednesday",
       "file": "missing/B/216668-blue-wednesday.json"
+    },
+    {
+      "igdb_id": 280633,
+      "game_name": "Blue Wednesday: Deluxe Edition",
+      "file": "missing/B/280633-blue-wednesday-deluxe-edition.json"
     },
     {
       "igdb_id": 75320,
@@ -163667,6 +163702,11 @@
       "file": "missing/C/239729-cats-hidden-in-italy.json"
     },
     {
+      "igdb_id": 280654,
+      "game_name": "Cats Hidden in Japan",
+      "file": "missing/C/280654-cats-hidden-in-japan.json"
+    },
+    {
       "igdb_id": 309047,
       "game_name": "Cats Hidden in Magic Places",
       "file": "missing/C/309047-cats-hidden-in-magic-places.json"
@@ -181470,6 +181510,11 @@
       "igdb_id": 359614,
       "game_name": "City Transport Simulator: StadtRegioTram Add-On",
       "file": "missing/C/359614-city-transport-simulator-stadtregiotram-add-on.json"
+    },
+    {
+      "igdb_id": 280681,
+      "game_name": "City Transport Simulator: Tram",
+      "file": "missing/C/280681-city-transport-simulator-tram.json"
     },
     {
       "igdb_id": 331271,
@@ -204752,6 +204797,11 @@
       "file": "missing/C/358228-cozy-desktop-konbini.json"
     },
     {
+      "igdb_id": 280629,
+      "game_name": "Cozy Dream",
+      "file": "missing/C/280629-cozy-dream.json"
+    },
+    {
       "igdb_id": 304307,
       "game_name": "Cozy Dungeons",
       "file": "missing/C/304307-cozy-dungeons.json"
@@ -218557,6 +218607,11 @@
       "file": "missing/C/342061-cumdor-no-tou-zetsubou-no-majo.json"
     },
     {
+      "igdb_id": 280660,
+      "game_name": "Cumdy",
+      "file": "missing/C/280660-cumdy.json"
+    },
+    {
       "igdb_id": 322395,
       "game_name": "Cumma Celeritate",
       "file": "missing/C/322395-cumma-celeritate.json"
@@ -225837,6 +225892,11 @@
       "file": "missing/D/54493-damned-hours.json"
     },
     {
+      "igdb_id": 280669,
+      "game_name": "Damned House",
+      "file": "missing/D/280669-damned-house.json"
+    },
+    {
       "igdb_id": 112789,
       "game_name": "Damnosaur",
       "file": "missing/D/112789-damnosaur.json"
@@ -226885,6 +226945,11 @@
       "igdb_id": 116533,
       "game_name": "Dandy Ace",
       "file": "missing/D/116533-dandy-ace.json"
+    },
+    {
+      "igdb_id": 280637,
+      "game_name": "Dandy Boy Adventures",
+      "file": "missing/D/280637-dandy-boy-adventures.json"
     },
     {
       "igdb_id": 292056,
@@ -322397,6 +322462,11 @@
       "file": "missing/E/397702-expeditions-a-mudrunner-game-season-3-icy-shores.json"
     },
     {
+      "igdb_id": 280667,
+      "game_name": "Expeditions: A MudRunner Game - Supreme Edition",
+      "file": "missing/E/280667-expeditions-a-mudrunner-game-supreme-edition.json"
+    },
+    {
       "igdb_id": 289860,
       "game_name": "Expeditions: A MudRunner Game - The Great Don 71",
       "file": "missing/E/289860-expeditions-a-mudrunner-game-the-great-don-71.json"
@@ -374807,6 +374877,11 @@
       "file": "missing/F/205664-furry-hitler.json"
     },
     {
+      "igdb_id": 280662,
+      "game_name": "Furry Holes",
+      "file": "missing/F/280662-furry-holes.json"
+    },
+    {
       "igdb_id": 226143,
       "game_name": "Furry Killer",
       "file": "missing/F/226143-furry-killer.json"
@@ -384897,6 +384972,11 @@
       "file": "missing/G/362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json"
     },
     {
+      "igdb_id": 280663,
+      "game_name": "Gay Sex Adventures: Episode 2",
+      "file": "missing/G/280663-gay-sex-adventures-episode-2.json"
+    },
+    {
       "igdb_id": 290803,
       "game_name": "Gay Sex Adventures: Episode 4",
       "file": "missing/G/290803-gay-sex-adventures-episode-4.json"
@@ -390385,6 +390465,11 @@
       "igdb_id": 112299,
       "game_name": "Ghost Online",
       "file": "missing/G/112299-ghost-online.json"
+    },
+    {
+      "igdb_id": 280659,
+      "game_name": "Ghost Only!",
+      "file": "missing/G/280659-ghost-only.json"
     },
     {
       "igdb_id": 156695,
@@ -402020,6 +402105,11 @@
       "igdb_id": 193404,
       "game_name": "GoodNight",
       "file": "missing/G/193404-goodnight.json"
+    },
+    {
+      "igdb_id": 280653,
+      "game_name": "Goodnight Icarus",
+      "file": "missing/G/280653-goodnight-icarus.json"
     },
     {
       "igdb_id": 110227,
@@ -456662,6 +456752,11 @@
       "file": "missing/H/384719-hot-and-lovely-seduction-waifu.json"
     },
     {
+      "igdb_id": 280657,
+      "game_name": "Hot and Lovely: Suger",
+      "file": "missing/H/280657-hot-and-lovely-suger.json"
+    },
+    {
       "igdb_id": 262926,
       "game_name": "Hot And Lovely: Uniform",
       "file": "missing/H/262926-hot-and-lovely-uniform.json"
@@ -461345,6 +461440,11 @@
       "igdb_id": 68323,
       "game_name": "Humanity Must Perish",
       "file": "missing/H/68323-humanity-must-perish.json"
+    },
+    {
+      "igdb_id": 280680,
+      "game_name": "Humanity Remains",
+      "file": "missing/H/280680-humanity-remains.json"
     },
     {
       "igdb_id": 153880,
@@ -509532,6 +509632,11 @@
       "file": "missing/K/399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json"
     },
     {
+      "igdb_id": 280666,
+      "game_name": "Kanjozoku: Wangan Runners",
+      "file": "missing/K/280666-kanjozoku-wangan-runners.json"
+    },
+    {
       "igdb_id": 329902,
       "game_name": "Kanken Smart Taisaku",
       "file": "missing/K/329902-kanken-smart-taisaku.json"
@@ -517150,6 +517255,11 @@
       "igdb_id": 304184,
       "game_name": "Kimokawaiii",
       "file": "missing/K/304184-kimokawaiii.json"
+    },
+    {
+      "igdb_id": 280641,
+      "game_name": "Kimomen Demo Kyokon nara School Caste no Chouten ni Tateru!? Gakuen Ichi no Motekawa Shuudan ni Tanetsuke Shimakuri! Yume no Gakuen Harem!",
+      "file": "missing/K/280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json"
     },
     {
       "igdb_id": 249774,
@@ -572592,6 +572702,11 @@
       "file": "missing/M/247478-magic-toenail.json"
     },
     {
+      "igdb_id": 280672,
+      "game_name": "Magic Touch",
+      "file": "missing/M/280672-magic-touch.json"
+    },
+    {
       "igdb_id": 117755,
       "game_name": "Magic Touch: Wizard for Hire",
       "file": "missing/M/117755-magic-touch-wizard-for-hire.json"
@@ -620960,6 +621075,11 @@
       "igdb_id": 146518,
       "game_name": "Mochi in Frosting",
       "file": "missing/M/146518-mochi-in-frosting.json"
+    },
+    {
+      "igdb_id": 280647,
+      "game_name": "Mochi Jump",
+      "file": "missing/M/280647-mochi-jump.json"
     },
     {
       "igdb_id": 112709,
@@ -679542,6 +679662,11 @@
       "file": "missing/O/309648-ocean-life-aquarium-simulator.json"
     },
     {
+      "igdb_id": 280676,
+      "game_name": "Ocean Mirror",
+      "file": "missing/O/280676-ocean-mirror.json"
+    },
+    {
       "igdb_id": 402931,
       "game_name": "Ocean Oddities",
       "file": "missing/O/402931-ocean-oddities.json"
@@ -693122,6 +693247,11 @@
       "file": "missing/O/97464-ore-o-hoshigaru-futari-no-haha.json"
     },
     {
+      "igdb_id": 280679,
+      "game_name": "Ore Quest: Digger's Delve",
+      "file": "missing/O/280679-ore-quest-diggers-delve.json"
+    },
+    {
       "igdb_id": 97766,
       "game_name": "Ore to Imouto no Kankei",
       "file": "missing/O/97766-ore-to-imouto-no-kankei.json"
@@ -694110,6 +694240,11 @@
       "igdb_id": 159144,
       "game_name": "Osakabe",
       "file": "missing/O/159144-osakabe.json"
+    },
+    {
+      "igdb_id": 280643,
+      "game_name": "Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu",
+      "file": "missing/O/280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json"
     },
     {
       "igdb_id": 396903,
@@ -724570,6 +724705,11 @@
       "igdb_id": 76534,
       "game_name": "Pilli Adventure",
       "file": "missing/P/76534-pilli-adventure.json"
+    },
+    {
+      "igdb_id": 280664,
+      "game_name": "Pillory",
+      "file": "missing/P/280664-pillory.json"
     },
     {
       "igdb_id": 151173,
@@ -782327,6 +782467,11 @@
       "file": "missing/R/197173-raven.json"
     },
     {
+      "igdb_id": 280639,
+      "game_name": "Raven Go!",
+      "file": "missing/R/280639-raven-go.json"
+    },
+    {
       "igdb_id": 329065,
       "game_name": "Raven Gold",
       "file": "missing/R/329065-raven-gold.json"
@@ -796105,6 +796250,11 @@
       "igdb_id": 149603,
       "game_name": "Retro Clicker",
       "file": "missing/R/149603-retro-clicker.json"
+    },
+    {
+      "igdb_id": 280632,
+      "game_name": "Retro Collection 1",
+      "file": "missing/R/280632-retro-collection-1.json"
     },
     {
       "igdb_id": 165060,
@@ -856712,6 +856862,11 @@
       "file": "missing/S/174837-shoujo-kaisen.json"
     },
     {
+      "igdb_id": 280644,
+      "game_name": "Shoujo Kenshi Akizuki Ren no Oshikake Harayome Seikatsu: Kozukuri wa Waga Shimei... Jusei Suru made Hanasanu zo!",
+      "file": "missing/S/280644-shoujo-kenshi-akizuki-ren-no-oshikake-harayome-seikatsu-kozukuri-wa-waga-shimei-jusei-suru-made-hanasanu-zo.json"
+    },
+    {
       "igdb_id": 167129,
       "game_name": "Shoujo Kidan",
       "file": "missing/S/167129-shoujo-kidan.json"
@@ -866627,6 +866782,11 @@
       "file": "missing/S/40796-ski-hunt.json"
     },
     {
+      "igdb_id": 280671,
+      "game_name": "Ski Jump Challange 2024",
+      "file": "missing/S/280671-ski-jump-challange-2024.json"
+    },
+    {
       "igdb_id": 342080,
       "game_name": "Ski Jump International v2",
       "file": "missing/S/342080-ski-jump-international-v2.json"
@@ -876120,6 +876280,11 @@
       "igdb_id": 417645,
       "game_name": "Snake Echos",
       "file": "missing/S/417645-snake-echos.json"
+    },
+    {
+      "igdb_id": 280634,
+      "game_name": "Snake Effect",
+      "file": "missing/S/280634-snake-effect.json"
     },
     {
       "igdb_id": 45245,
@@ -971532,6 +971697,11 @@
       "file": "missing/T/14557-terminator-2-judgment-day-chess-wars.json"
     },
     {
+      "igdb_id": 280650,
+      "game_name": "Terminator 2: Judgment Game",
+      "file": "missing/T/280650-terminator-2-judgment-game.json"
+    },
+    {
       "igdb_id": 6196,
       "game_name": "Terminator 3: Rise of the Machines",
       "file": "missing/T/6196-terminator-3-rise-of-the-machines.json"
@@ -977295,6 +977465,11 @@
       "igdb_id": 383145,
       "game_name": "The Artisan of Glimmith",
       "file": "missing/T/383145-the-artisan-of-glimmith.json"
+    },
+    {
+      "igdb_id": 280630,
+      "game_name": "The Artist Colors",
+      "file": "missing/T/280630-the-artist-colors.json"
     },
     {
       "igdb_id": 245732,
@@ -1006472,6 +1006647,11 @@
       "file": "missing/T/302440-the-month-after.json"
     },
     {
+      "igdb_id": 280628,
+      "game_name": "The Monty Mole Collection",
+      "file": "missing/T/280628-the-monty-mole-collection.json"
+    },
+    {
       "igdb_id": 326627,
       "game_name": "The Moodsters: Memory Match Game",
       "file": "missing/T/326627-the-moodsters-memory-match-game.json"
@@ -1026302,6 +1026482,11 @@
       "file": "missing/T/124641-the-yakutsu-noroi-game.json"
     },
     {
+      "igdb_id": 280652,
+      "game_name": "The Yakyuken Special",
+      "file": "missing/T/280652-the-yakyuken-special.json"
+    },
+    {
       "igdb_id": 251083,
       "game_name": "The Yakyuken: Blonde-hen",
       "file": "missing/T/251083-the-yakyuken-blonde-hen.json"
@@ -1040802,6 +1040987,11 @@
       "file": "missing/T/149873-timmys-nightmare.json"
     },
     {
+      "igdb_id": 280670,
+      "game_name": "Timo Boll Beats",
+      "file": "missing/T/280670-timo-boll-beats.json"
+    },
+    {
       "igdb_id": 370911,
       "game_name": "Timo the Game",
       "file": "missing/T/370911-timo-the-game.json"
@@ -1052297,6 +1052487,11 @@
       "file": "missing/T/96539-touch-rummy-hd.json"
     },
     {
+      "igdb_id": 280661,
+      "game_name": "Touch Screen Backgammon",
+      "file": "missing/T/280661-touch-screen-backgammon.json"
+    },
+    {
       "igdb_id": 57058,
       "game_name": "Touch Selections",
       "file": "missing/T/57058-touch-selections.json"
@@ -1055690,6 +1055885,11 @@
       "igdb_id": 290912,
       "game_name": "Towers & Goblins: The Last Stand",
       "file": "missing/T/290912-towers-and-goblins-the-last-stand.json"
+    },
+    {
+      "igdb_id": 280678,
+      "game_name": "Towers and Survivors",
+      "file": "missing/T/280678-towers-and-survivors.json"
     },
     {
       "igdb_id": 232877,
@@ -1060847,6 +1061047,11 @@
       "file": "missing/T/317244-train-traffic-manager-diamond-edition.json"
     },
     {
+      "igdb_id": 280627,
+      "game_name": "Train Traffic Manager: Extended Edition",
+      "file": "missing/T/280627-train-traffic-manager-extended-edition.json"
+    },
+    {
       "igdb_id": 308794,
       "game_name": "Train Traffic Manager: Gold Edition",
       "file": "missing/T/308794-train-traffic-manager-gold-edition.json"
@@ -1065342,6 +1065547,11 @@
       "file": "missing/T/176445-trash-poker.json"
     },
     {
+      "igdb_id": 280626,
+      "game_name": "Trash Punk",
+      "file": "missing/T/280626-trash-punk.json"
+    },
+    {
       "igdb_id": 287122,
       "game_name": "Trash Punk: Deluxe Edition",
       "file": "missing/T/287122-trash-punk-deluxe-edition.json"
@@ -1068407,6 +1068617,11 @@
       "file": "missing/T/276939-tricky-taps.json"
     },
     {
+      "igdb_id": 280625,
+      "game_name": "Tricky Taps: Complete Edition",
+      "file": "missing/T/280625-tricky-taps-complete-edition.json"
+    },
+    {
       "igdb_id": 276940,
       "game_name": "Tricky Taps: Paint Power",
       "file": "missing/T/276940-tricky-taps-paint-power.json"
@@ -1068925,6 +1069140,11 @@
       "igdb_id": 218520,
       "game_name": "Trinity Fusion",
       "file": "missing/T/218520-trinity-fusion.json"
+    },
+    {
+      "igdb_id": 280631,
+      "game_name": "Trinity Fusion: Deluxe Edition",
+      "file": "missing/T/280631-trinity-fusion-deluxe-edition.json"
     },
     {
       "igdb_id": 266238,
@@ -1070745,6 +1070965,11 @@
       "igdb_id": 272876,
       "game_name": "Trouble Magnet",
       "file": "missing/T/272876-trouble-magnet.json"
+    },
+    {
+      "igdb_id": 280640,
+      "game_name": "Trouble Majo Shiken: Kaichou-sama to Tennenkko wa Majo Shimai! Nakadashi Ecchi de Maryoku Hokyuu wo Otetsudai!",
+      "file": "missing/T/280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json"
     },
     {
       "igdb_id": 309757,
@@ -1083310,6 +1083535,11 @@
       "igdb_id": 144859,
       "game_name": "Unbeatable",
       "file": "missing/U/144859-unbeatable.json"
+    },
+    {
+      "igdb_id": 280655,
+      "game_name": "Unbeatable Professional me with 100 Girlfriends",
+      "file": "missing/U/280655-unbeatable-professional-me-with-100-girlfriends.json"
     },
     {
       "igdb_id": 282257,
@@ -1102685,6 +1102915,16 @@
       "igdb_id": 165167,
       "game_name": "Virtual Vacation Zone",
       "file": "missing/V/165167-virtual-vacation-zone.json"
+    },
+    {
+      "igdb_id": 280645,
+      "game_name": "Virtual Valerie",
+      "file": "missing/V/280645-virtual-valerie.json"
+    },
+    {
+      "igdb_id": 280646,
+      "game_name": "Virtual Valerie 2",
+      "file": "missing/V/280646-virtual-valerie-2.json"
     },
     {
       "igdb_id": 270271,
@@ -1149682,6 +1149922,11 @@
       "file": "missing/Y/160091-yin-yang.json"
     },
     {
+      "igdb_id": 280673,
+      "game_name": "Yin Yang",
+      "file": "missing/Y/280673-yin-yang.json"
+    },
+    {
       "igdb_id": 197075,
       "game_name": "Yin Yang Space",
       "file": "missing/Y/197075-yin-yang-space.json"
@@ -1152935,6 +1153180,11 @@
       "igdb_id": 234563,
       "game_name": "Your_New_Life_Letter.rtf.exe",
       "file": "missing/Y/234563-your-new-life-letter-rtf-exe.json"
+    },
+    {
+      "igdb_id": 280635,
+      "game_name": "Youra",
+      "file": "missing/Y/280635-youra.json"
     },
     {
       "igdb_id": 361322,
