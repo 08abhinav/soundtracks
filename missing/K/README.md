@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kameo 2 | 279663 | [279663-kameo-2.json](./279663-kameo-2.json) |
 | Kameo: Elements of Power | 7029 | [7029-kameo-elements-of-power.json](./7029-kameo-elements-of-power.json) |
 | Kamer | 129567 | [129567-kamer.json](./129567-kamer.json) |
+| Kami | 292397 | [292397-kami.json](./292397-kami.json) |
 | Kami | 68978 | [68978-kami.json](./68978-kami.json) |
 | Kami and Miko | 370148 | [370148-kami-and-miko.json](./370148-kami-and-miko.json) |
 | Kami Kamera | 341881 | [341881-kami-kamera.json](./341881-kami-kamera.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Monorail Panorama Line Hwagaesan | 378809 | [378809-korean-monorail-panorama-line-hwagaesan.json](./378809-korean-monorail-panorama-line-hwagaesan.json) |
 | Korean Rail Celesti Express ITX-MAUM Taebaek Line | 374896 | [374896-korean-rail-celesti-express-itx-maum-taebaek-line.json](./374896-korean-rail-celesti-express-itx-maum-taebaek-line.json) |
 | Korean Rail Driving Tour: LRT Busan-Gimhae | 303617 | [303617-korean-rail-driving-tour-lrt-busan-gimhae.json](./303617-korean-rail-driving-tour-lrt-busan-gimhae.json) |
+| Korean Rail Driving Tour: LRT Uijeongbu | 292361 | [292361-korean-rail-driving-tour-lrt-uijeongbu.json](./292361-korean-rail-driving-tour-lrt-uijeongbu.json) |
 | Korean Scary Folk Tales VR : The Forbidden Book | 103181 | [103181-korean-scary-folk-tales-vr-the-forbidden-book.json](./103181-korean-scary-folk-tales-vr-the-forbidden-book.json) |
 | Korekiyo's Epic Quest for Pussy | 272851 | [272851-korekiyos-epic-quest-for-pussy.json](./272851-korekiyos-epic-quest-for-pussy.json) |
 | Korg DS-10 | 73009 | [73009-korg-ds-10.json](./73009-korg-ds-10.json) |
