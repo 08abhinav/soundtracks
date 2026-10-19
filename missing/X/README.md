@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenic | 74059 | [74059-xenic.json](./74059-xenic.json) |
 | Xenimus | 66968 | [66968-xenimus.json](./66968-xenimus.json) |
 | Xenno the Rogue | 183075 | [183075-xenno-the-rogue.json](./183075-xenno-the-rogue.json) |
+| Xeno | 295168 | [295168-xeno.json](./295168-xeno.json) |
 | Xeno | 36864 | [36864-xeno.json](./36864-xeno.json) |
 | Xeno Crisis & Tanglewood | 133500 | [133500-xeno-crisis-and-tanglewood.json](./133500-xeno-crisis-and-tanglewood.json) |
 | Xeno Escape | 349185 | [349185-xeno-escape.json](./349185-xeno-escape.json) |
