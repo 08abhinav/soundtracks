@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Memory Fallen Angel and the Path of Magic | 192081 | [192081-abyss-memory-fallen-angel-and-the-path-of-magic.json](./192081-abyss-memory-fallen-angel-and-the-path-of-magic.json) |
 | Abyss Odyssey | 14414 | [14414-abyss-odyssey.json](./14414-abyss-odyssey.json) |
 | Abyss Odyssey: Extended Dream Edition | 21110 | [21110-abyss-odyssey-extended-dream-edition.json](./21110-abyss-odyssey-extended-dream-edition.json) |
+| Abyss of Cain | 273756 | [273756-abyss-of-cain.json](./273756-abyss-of-cain.json) |
 | Abyss of Death | 159578 | [159578-abyss-of-death.json](./159578-abyss-of-death.json) |
 | Abyss of Doom | 403689 | [403689-abyss-of-doom.json](./403689-abyss-of-doom.json) |
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
