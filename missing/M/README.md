@@ -13919,6 +13919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
 | Multi Do Sort | 331368 | [331368-multi-do-sort.json](./331368-multi-do-sort.json) |
 | Multi Floor Garage Driver | 100691 | [100691-multi-floor-garage-driver.json](./100691-multi-floor-garage-driver.json) |
+| Multi Game Party | 291822 | [291822-multi-game-party.json](./291822-multi-game-party.json) |
 | Multi Idle | 197175 | [197175-multi-idle.json](./197175-multi-idle.json) |
 | Multi Impact | 252708 | [252708-multi-impact.json](./252708-multi-impact.json) |
 | Multi Level Car Parking Simulator | 255738 | [255738-multi-level-car-parking-simulator.json](./255738-multi-level-car-parking-simulator.json) |
