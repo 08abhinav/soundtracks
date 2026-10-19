@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkour Game 2 | 270957 | [270957-parkour-game-2.json](./270957-parkour-game-2.json) |
 | Parkour Go | 146713 | [146713-parkour-go.json](./146713-parkour-go.json) |
 | Parkour Jump Adventure | 245914 | [245914-parkour-jump-adventure.json](./245914-parkour-jump-adventure.json) |
+| Parkour Labs | 258335 | [258335-parkour-labs.json](./258335-parkour-labs.json) |
 | Parkour Master | 145024 | [145024-parkour-master.json](./145024-parkour-master.json) |
 | Parkour Master | 204816 | [204816-parkour-master.json](./204816-parkour-master.json) |
 | Parkour Master | 310794 | [310794-parkour-master.json](./310794-parkour-master.json) |
