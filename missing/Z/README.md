@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zorton Brothers | 93141 | [93141-zorton-brothers.json](./93141-zorton-brothers.json) |
 | Zory | 383381 | [383381-zory.json](./383381-zory.json) |
 | Zorya: The Celestial Sisters - Stellar Edition | 193688 | [193688-zorya-the-celestial-sisters-stellar-edition.json](./193688-zorya-the-celestial-sisters-stellar-edition.json) |
+| Zossed in Space | 282455 | [282455-zossed-in-space.json](./282455-zossed-in-space.json) |
 | Zosu Ocean VR | 248820 | [248820-zosu-ocean-vr.json](./248820-zosu-ocean-vr.json) |
 | Zotenhold | 236498 | [236498-zotenhold.json](./236498-zotenhold.json) |
 | Zotrix | 23486 | [23486-zotrix.json](./23486-zotrix.json) |
