@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
 | Pikmin Treasure Hunt | 342714 | [342714-pikmin-treasure-hunt.json](./342714-pikmin-treasure-hunt.json) |
 | Pikmin: New Fortune | 314135 | [314135-pikmin-new-fortune.json](./314135-pikmin-new-fortune.json) |
+| Pikmin: Olimar's Descent | 307373 | [307373-pikmin-olimars-descent.json](./307373-pikmin-olimars-descent.json) |
 | Pikmin: Return to PNF-404 | 313353 | [313353-pikmin-return-to-pnf-404.json](./313353-pikmin-return-to-pnf-404.json) |
 | Pikmin.com SpaceForce | 312310 | [312310-pikmin-com-spaceforce.json](./312310-pikmin-com-spaceforce.json) |
 | Piko Fox! | 336610 | [336610-piko-fox.json](./336610-piko-fox.json) |
@@ -13618,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzsoft’s Cooleidoscope | 316050 | [316050-puzzsoft-s-cooleidoscope.json](./316050-puzzsoft-s-cooleidoscope.json) |
 | Puzzwords | 91908 | [91908-puzzwords.json](./91908-puzzwords.json) |
 | Puzzzle | 142218 | [142218-puzzzle.json](./142218-puzzzle.json) |
+| PVKK: Planetenverteidigungskanonenkommandant | 307368 | [307368-pvkk-planetenverteidigungskanonenkommandant.json](./307368-pvkk-planetenverteidigungskanonenkommandant.json) |
 | PVPClicker | 382896 | [382896-pvpclicker.json](./382896-pvpclicker.json) |
 | PvPillman | 285463 | [285463-pvpillman.json](./285463-pvpillman.json) |
 | Pwanet Pwotector | 335408 | [335408-pwanet-pwotector.json](./335408-pwanet-pwotector.json) |
