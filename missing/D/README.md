@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damned Hand | 158639 | [158639-damned-hand.json](./158639-damned-hand.json) |
 | Damned Hand: Arcade Mode | 171069 | [171069-damned-hand-arcade-mode.json](./171069-damned-hand-arcade-mode.json) |
 | Damned Hours | 54493 | [54493-damned-hours.json](./54493-damned-hours.json) |
+| Damned House | 280669 | [280669-damned-house.json](./280669-damned-house.json) |
 | Damnosaur | 112789 | [112789-damnosaur.json](./112789-damnosaur.json) |
 | Damnview Stories: No Vacancy | 146092 | [146092-damnview-stories-no-vacancy.json](./146092-damnview-stories-no-vacancy.json) |
 | Damnview: Built From Nothing | 107269 | [107269-damnview-built-from-nothing.json](./107269-damnview-built-from-nothing.json) |
@@ -675,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
+| Dandy Boy Adventures | 280637 | [280637-dandy-boy-adventures.json](./280637-dandy-boy-adventures.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
 | Dandy VR,NR | 280442 | [280442-dandy-vr-nr.json](./280442-dandy-vr-nr.json) |
