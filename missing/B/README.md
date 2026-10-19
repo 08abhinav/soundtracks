@@ -11166,6 +11166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakforcist | 27678 | [27678-breakforcist.json](./27678-breakforcist.json) |
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
+| Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
 | Breaking Bricks | 301091 | [301091-breaking-bricks.json](./301091-breaking-bricks.json) |
@@ -12233,6 +12234,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buck Bumble | 3368 | [3368-buck-bumble.json](./3368-buck-bumble.json) |
 | Buck Rogers: Matrix Cubed | 14499 | [14499-buck-rogers-matrix-cubed.json](./14499-buck-rogers-matrix-cubed.json) |
 | Buck Rogers: Planet of Zoom | 11142 | [11142-buck-rogers-planet-of-zoom.json](./11142-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277214 | [277214-buck-rogers-planet-of-zoom.json](./277214-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277215 | [277215-buck-rogers-planet-of-zoom.json](./277215-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277216 | [277216-buck-rogers-planet-of-zoom.json](./277216-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277218 | [277218-buck-rogers-planet-of-zoom.json](./277218-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277219 | [277219-buck-rogers-planet-of-zoom.json](./277219-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277220 | [277220-buck-rogers-planet-of-zoom.json](./277220-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277221 | [277221-buck-rogers-planet-of-zoom.json](./277221-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277223 | [277223-buck-rogers-planet-of-zoom.json](./277223-buck-rogers-planet-of-zoom.json) |
+| Buck Rogers: Planet of Zoom | 277224 | [277224-buck-rogers-planet-of-zoom.json](./277224-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277225 | [277225-buck-rogers-planet-of-zoom.json](./277225-buck-rogers-planet-of-zoom.json) |
 | Buck Rogers: Planet of Zoom | 277226 | [277226-buck-rogers-planet-of-zoom.json](./277226-buck-rogers-planet-of-zoom.json) |
 | Buck to the Rescue | 343130 | [343130-buck-to-the-rescue.json](./343130-buck-to-the-rescue.json) |
