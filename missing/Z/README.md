@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Exodus: Safe Haven - Side Stories 2 | 291208 | [291208-zombie-exodus-safe-haven-side-stories-2.json](./291208-zombie-exodus-safe-haven-side-stories-2.json) |
 | Zombie Fall: Survival Challenge | 315902 | [315902-zombie-fall-survival-challenge.json](./315902-zombie-fall-survival-challenge.json) |
 | Zombie Farm | 267549 | [267549-zombie-farm.json](./267549-zombie-farm.json) |
+| Zombie Farm 2 | 275455 | [275455-zombie-farm-2.json](./275455-zombie-farm-2.json) |
 | Zombie Farm Battles | 373245 | [373245-zombie-farm-battles.json](./373245-zombie-farm-battles.json) |
 | Zombie Fish Tank | 343999 | [343999-zombie-fish-tank.json](./343999-zombie-fish-tank.json) |
 | Zombie Flick | 108334 | [108334-zombie-flick.json](./108334-zombie-flick.json) |
