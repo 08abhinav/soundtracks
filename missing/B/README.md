@@ -8599,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Blood | 213939 | [213939-blue-blood.json](./213939-blue-blood.json) |
 | Blue Blood Lagoon | 69519 | [69519-blue-blood-lagoon.json](./69519-blue-blood-lagoon.json) |
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
+| Blue Boy Adventure | 262193 | [262193-blue-boy-adventure.json](./262193-blue-boy-adventure.json) |
 | Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
@@ -11929,6 +11930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Ball | 280100 | [280100-brutal-ball.json](./280100-brutal-ball.json) |
 | Brutal Chase Turbo | 211461 | [211461-brutal-chase-turbo.json](./211461-brutal-chase-turbo.json) |
 | Brutal Company Plus | 285940 | [285940-brutal-company-plus.json](./285940-brutal-company-plus.json) |
+| Brutal Complex | 262183 | [262183-brutal-complex.json](./262183-brutal-complex.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
