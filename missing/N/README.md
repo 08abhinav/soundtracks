@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Message in a Haunted Mansion | 6522 | [6522-nancy-drew-message-in-a-haunted-mansion.json](./6522-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Midnight in Salem | 124420 | [124420-nancy-drew-midnight-in-salem.json](./124420-nancy-drew-midnight-in-salem.json) |
 | Nancy Drew: Mystery in the Hollywood Hills | 230315 | [230315-nancy-drew-mystery-in-the-hollywood-hills.json](./230315-nancy-drew-mystery-in-the-hollywood-hills.json) |
+| Nancy Drew: Mystery of the Seven Keys | 262197 | [262197-nancy-drew-mystery-of-the-seven-keys.json](./262197-nancy-drew-mystery-of-the-seven-keys.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
 | Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
@@ -5125,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
 | Nostradamus: The Last Prophecy | 17186 | [17186-nostradamus-the-last-prophecy.json](./17186-nostradamus-the-last-prophecy.json) |
 | NoStranger | 409039 | [409039-nostranger.json](./409039-nostranger.json) |
+| Nostril Shot | 262171 | [262171-nostril-shot.json](./262171-nostril-shot.json) |
 | Nostromo | 272134 | [272134-nostromo.json](./272134-nostromo.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
@@ -5479,6 +5481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
 | Nuclear Blaze | 153876 | [153876-nuclear-blaze.json](./153876-nuclear-blaze.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
+| Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
 | Nuclear Combat Ship | 252714 | [252714-nuclear-combat-ship.json](./252714-nuclear-combat-ship.json) |
 | Nuclear Contingency | 30963 | [30963-nuclear-contingency.json](./30963-nuclear-contingency.json) |
 | Nuclear Corps | 187519 | [187519-nuclear-corps.json](./187519-nuclear-corps.json) |
