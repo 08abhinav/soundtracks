@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Club | 295020 | [295020-party-club.json](./295020-party-club.json) |
 | Party Crasher Simulator | 163272 | [163272-party-crasher-simulator.json](./163272-party-crasher-simulator.json) |
 | Party Crashers | 75076 | [75076-party-crashers.json](./75076-party-crashers.json) |
+| Party Crashers Mayhem | 271607 | [271607-party-crashers-mayhem.json](./271607-party-crashers-mayhem.json) |
 | Party Demon | 238997 | [238997-party-demon.json](./238997-party-demon.json) |
 | Party Designer | 67398 | [67398-party-designer.json](./67398-party-designer.json) |
 | Party Doodles | 241338 | [241338-party-doodles.json](./241338-party-doodles.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom of the Twilight | 304152 | [304152-phantom-of-the-twilight.json](./304152-phantom-of-the-twilight.json) |
 | Phantom Ops | 370703 | [370703-phantom-ops.json](./370703-phantom-ops.json) |
 | Phantom Path | 126654 | [126654-phantom-path.json](./126654-phantom-path.json) |
+| Phantom Patrol | 271608 | [271608-phantom-patrol.json](./271608-phantom-patrol.json) |
 | Phantom Peak | 257985 | [257985-phantom-peak.json](./257985-phantom-peak.json) |
 | Phantom Pharaoh's Treasure Trap | 396704 | [396704-phantom-pharaohs-treasure-trap.json](./396704-phantom-pharaohs-treasure-trap.json) |
 | Phantom Playhouse | 331949 | [331949-phantom-playhouse.json](./331949-phantom-playhouse.json) |
@@ -9407,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popotinho's Adventures | 325885 | [325885-popotinhos-adventures.json](./325885-popotinhos-adventures.json) |
 | Popper | 288146 | [288146-popper.json](./288146-popper.json) |
 | Popper | 60878 | [60878-popper.json](./60878-popper.json) |
+| Popper Lands Colony | 271606 | [271606-popper-lands-colony.json](./271606-popper-lands-colony.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
 | Poppie Land | 360133 | [360133-poppie-land.json](./360133-poppie-land.json) |
@@ -10470,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price for Freedom: Avarice | 234035 | [234035-price-for-freedom-avarice.json](./234035-price-for-freedom-avarice.json) |
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
+| Price of Flight | 271597 | [271597-price-of-flight.json](./271597-price-of-flight.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
 | Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
@@ -10751,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Paladin | 395761 | [395761-princess-paladin.json](./395761-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
 | Princess Paradise | 284777 | [284777-princess-paradise.json](./284777-princess-paradise.json) |
+| Princess Parent | 271598 | [271598-princess-parent.json](./271598-princess-parent.json) |
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
@@ -12697,6 +12702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
+| Pulsars & Crowbars | 271599 | [271599-pulsars-and-crowbars.json](./271599-pulsars-and-crowbars.json) |
 | Pulsator | 39130 | [39130-pulsator.json](./39130-pulsator.json) |
 | Pulse | 177421 | [177421-pulse.json](./177421-pulse.json) |
 | Pulse | 266480 | [266480-pulse.json](./266480-pulse.json) |
