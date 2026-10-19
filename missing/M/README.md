@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross 3 | 241639 | [241639-mad-skills-motocross-3.json](./241639-mad-skills-motocross-3.json) |
 | Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
 | Mad Skills Snocross | 232330 | [232330-mad-skills-snocross.json](./232330-mad-skills-snocross.json) |
+| Mad Smartphone Tycoon | 297832 | [297832-mad-smartphone-tycoon.json](./297832-mad-smartphone-tycoon.json) |
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
@@ -10096,6 +10097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission on Thunderhead | 28714 | [28714-mission-on-thunderhead.json](./28714-mission-on-thunderhead.json) |
 | Mission Pom-Bär: The Snack'N Run Game | 330359 | [330359-mission-pom-bar-the-snackn-run-game.json](./330359-mission-pom-bar-the-snackn-run-game.json) |
 | Mission Ring Possible | 141901 | [141901-mission-ring-possible.json](./141901-mission-ring-possible.json) |
+| Mission Rovee | 297845 | [297845-mission-rovee.json](./297845-mission-rovee.json) |
 | Mission Runway | 15795 | [15795-mission-runway.json](./15795-mission-runway.json) |
 | Mission Supernova | 93040 | [93040-mission-supernova.json](./93040-mission-supernova.json) |
 | Mission Survive | 40682 | [40682-mission-survive.json](./40682-mission-survive.json) |
@@ -16096,6 +16098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
 | Mythic Battlegrounds: Demonic Siege | 328857 | [328857-mythic-battlegrounds-demonic-siege.json](./328857-mythic-battlegrounds-demonic-siege.json) |
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
+| Mythic Crusade | 297857 | [297857-mythic-crusade.json](./297857-mythic-crusade.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
 | Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
