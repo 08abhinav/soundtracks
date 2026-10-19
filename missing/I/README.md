@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumina! | 63762 | [63762-illumina.json](./63762-illumina.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
 | Illuminascii | 11662 | [11662-illuminascii.json](./11662-illuminascii.json) |
+| Illuminate | 306757 | [306757-illuminate.json](./306757-illuminate.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
