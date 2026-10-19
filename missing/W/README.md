@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire?: Deluxe Upgrade | 318868 | [318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json](./318868-who-wants-to-be-a-millionaire-deluxe-upgrade.json) |
 | Who Wants To Be A Millionaire?: Geography II | 282213 | [282213-who-wants-to-be-a-millionaire-geography-ii.json](./282213-who-wants-to-be-a-millionaire-geography-ii.json) |
 | Who Wants To Be A Millionaire?: Tintin Pack | 296250 | [296250-who-wants-to-be-a-millionaire-tintin-pack.json](./296250-who-wants-to-be-a-millionaire-tintin-pack.json) |
+| Who Wants to Be a Millionaire?: Trivia Bundle | 305616 | [305616-who-wants-to-be-a-millionaire-trivia-bundle.json](./305616-who-wants-to-be-a-millionaire-trivia-bundle.json) |
 | Who Wants to Be a Murderer? | 292116 | [292116-who-wants-to-be-a-murderer.json](./292116-who-wants-to-be-a-murderer.json) |
 | Who Wants To Be King?! | 406257 | [406257-who-wants-to-be-king.json](./406257-who-wants-to-be-king.json) |
 | Who Wants to Beat Up a Millionaire | 45848 | [45848-who-wants-to-beat-up-a-millionaire.json](./45848-who-wants-to-beat-up-a-millionaire.json) |
@@ -6324,6 +6325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - Modern Yukata Set: Violet | 313791 | [313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json](./313791-worldneverland-elnea-kingdom-modern-yukata-set-violet.json) |
 | WorldNeverland: Elnea Kingdom - Sugar Donut Fair | 288288 | [288288-worldneverland-elnea-kingdom-sugar-donut-fair.json](./288288-worldneverland-elnea-kingdom-sugar-donut-fair.json) |
 | WorldNeverland: Elnea Kingdom - Summer Hiking Wear Set: Lime | 309067 | [309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json](./309067-worldneverland-elnea-kingdom-summer-hiking-wear-set-lime.json) |
+| WorldNeverland: Elnea Kingdom - Summer Sailor Uniform Set: Blue | 305615 | [305615-worldneverland-elnea-kingdom-summer-sailor-uniform-set-blue.json](./305615-worldneverland-elnea-kingdom-summer-sailor-uniform-set-blue.json) |
 | WorldNeverland: Elnea Kingdom - Summer Sailor Uniform Set: Bowa | 306548 | [306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json](./306548-worldneverland-elnea-kingdom-summer-sailor-uniform-set-bowa.json) |
 | WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
 | WorldNeverland: Elnea Kingdom - Wa Mage Wear Set: Navy | 324359 | [324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json](./324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json) |
@@ -6528,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
 | Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
+| WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
 | Wrangle Ranch | 364700 | [364700-wrangle-ranch.json](./364700-wrangle-ranch.json) |
 | Wrangler | 259185 | [259185-wrangler.json](./259185-wrangler.json) |
