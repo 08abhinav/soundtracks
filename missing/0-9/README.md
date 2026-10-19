@@ -1032,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 1x111 | 322853 | [322853-1x111.json](./322853-1x111.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
+| 2 American | 306755 | [306755-2-american.json](./306755-2-american.json) |
 | 2 Bit Operative | 197119 | [197119-2-bit-operative.json](./197119-2-bit-operative.json) |
 | 2 Bows 1 Arrow | 358075 | [358075-2-bows-1-arrow.json](./358075-2-bows-1-arrow.json) |
 | 2 Cats & 1 Dog | 203696 | [203696-2-cats-and-1-dog.json](./203696-2-cats-and-1-dog.json) |
