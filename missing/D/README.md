@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of a Wish | 203297 | [203297-death-of-a-wish.json](./203297-death-of-a-wish.json) |
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
 | Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
+| Death of Marionette | 274342 | [274342-death-of-marionette.json](./274342-death-of-marionette.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
@@ -4422,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta MMORPG | 274944 | [274944-delta-mmorpg.json](./274944-delta-mmorpg.json) |
 | Delta Online | 390011 | [390011-delta-online.json](./390011-delta-online.json) |
 | Delta Ops: Army Special Forces | 27481 | [27481-delta-ops-army-special-forces.json](./27481-delta-ops-army-special-forces.json) |
+| Delta Park | 274329 | [274329-delta-park.json](./274329-delta-park.json) |
 | Delta Particles | 196729 | [196729-delta-particles.json](./196729-delta-particles.json) |
 | Delta Riddle | 96039 | [96039-delta-riddle.json](./96039-delta-riddle.json) |
 | Delta Squadron | 23947 | [23947-delta-squadron.json](./23947-delta-squadron.json) |
@@ -8148,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Disciplinary Committee Members Dream of Succubi? | 405981 | [405981-do-disciplinary-committee-members-dream-of-succubi.json](./405981-do-disciplinary-committee-members-dream-of-succubi.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
+| Do I Know You? | 274334 | [274334-do-i-know-you.json](./274334-do-i-know-you.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
 | Do I Really Like Chocolate? | 397944 | [397944-do-i-really-like-chocolate.json](./397944-do-i-really-like-chocolate.json) |
 | Do It for Me | 122997 | [122997-do-it-for-me.json](./122997-do-it-for-me.json) |
