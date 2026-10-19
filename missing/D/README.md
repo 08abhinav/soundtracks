@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Dublin | 139760 | [139760-dark-city-dublin.json](./139760-dark-city-dublin.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
+| Dark City: Kyiv - Collector's Edition | 268313 | [268313-dark-city-kyiv-collectors-edition.json](./268313-dark-city-kyiv-collectors-edition.json) |
 | Dark City: London | 376568 | [376568-dark-city-london.json](./376568-dark-city-london.json) |
 | Dark City: Munich - Collector's Edition | 376578 | [376578-dark-city-munich-collectors-edition.json](./376578-dark-city-munich-collectors-edition.json) |
 | Dark City: Paris | 397179 | [397179-dark-city-paris.json](./397179-dark-city-paris.json) |
@@ -2149,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayDream Mosaics | 181102 | [181102-daydream-mosaics.json](./181102-daydream-mosaics.json) |
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daydream Mosaics 3: Shards of Hope | 215021 | [215021-daydream-mosaics-3-shards-of-hope.json](./215021-daydream-mosaics-3-shards-of-hope.json) |
+| Daydream Mosaics 4: Shades of Blue | 268318 | [268318-daydream-mosaics-4-shades-of-blue.json](./268318-daydream-mosaics-4-shades-of-blue.json) |
 | Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
@@ -2157,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer 2 | 192369 | [192369-daydreamer-2.json](./192369-daydreamer-2.json) |
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
+| Daydreamy | 268319 | [268319-daydreamy.json](./268319-daydreamy.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight | 5593 | [5593-daylight.json](./5593-daylight.json) |
 | Daylight District | 287307 | [287307-daylight-district.json](./287307-daylight-district.json) |
@@ -3673,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
 | Deconstuctor | 102367 | [102367-deconstuctor.json](./102367-deconstuctor.json) |
 | Decontamination | 335879 | [335879-decontamination.json](./335879-decontamination.json) |
+| Decopins2 | 268320 | [268320-decopins2.json](./268320-decopins2.json) |
 | Decor Dream | 305845 | [305845-decor-dream.json](./305845-decor-dream.json) |
 | Decoration Disorder Disconnection 1 | 375544 | [375544-decoration-disorder-disconnection-1.json](./375544-decoration-disorder-disconnection-1.json) |
 | Decoration Rush | 324991 | [324991-decoration-rush.json](./324991-decoration-rush.json) |
