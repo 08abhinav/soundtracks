@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
+| Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix: Encore | 311815 | [311815-remix-encore.json](./311815-remix-encore.json) |
 | Remnant Frontier: Survival | 373001 | [373001-remnant-frontier-survival.json](./373001-remnant-frontier-survival.json) |
 | Remnant Generation: Prologue | 392293 | [392293-remnant-generation-prologue.json](./392293-remnant-generation-prologue.json) |
@@ -5520,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rimebeard | 153974 | [153974-rimebeard.json](./153974-rimebeard.json) |
 | Rimelands: Hammer of Thor | 123404 | [123404-rimelands-hammer-of-thor.json](./123404-rimelands-hammer-of-thor.json) |
 | RimFolk | 335323 | [335323-rimfolk.json](./335323-rimfolk.json) |
+| Rimland | 302214 | [302214-rimland.json](./302214-rimland.json) |
 | Rimo-Cocoron | 98366 | [98366-rimo-cocoron.json](./98366-rimo-cocoron.json) |
 | RimPark: A Burning World | 345469 | [345469-rimpark-a-burning-world.json](./345469-rimpark-a-burning-world.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
@@ -7232,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
 | Rogue Bones | 184451 | [184451-rogue-bones.json](./184451-rogue-bones.json) |
+| Rogue Bot Adventure | 302215 | [302215-rogue-bot-adventure.json](./302215-rogue-bot-adventure.json) |
 | Rogue Bricks | 370898 | [370898-rogue-bricks.json](./370898-rogue-bricks.json) |
 | Rogue Buddies - Aztek Gold | 96227 | [96227-rogue-buddies-aztek-gold.json](./96227-rogue-buddies-aztek-gold.json) |
 | Rogue Candy | 335120 | [335120-rogue-candy.json](./335120-rogue-candy.json) |
