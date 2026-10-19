@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Minutes and 33 Seconds of Uniqueness | 208886 | [208886-4-minutes-and-33-seconds-of-uniqueness.json](./208886-4-minutes-and-33-seconds-of-uniqueness.json) |
 | 4 Minutes to the Apocalypse | 132531 | [132531-4-minutes-to-the-apocalypse.json](./132531-4-minutes-to-the-apocalypse.json) |
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
+| 4 Moohrhuhn Teile | 282438 | [282438-4-moohrhuhn-teile.json](./282438-4-moohrhuhn-teile.json) |
 | 4 Penny Coffins | 396126 | [396126-4-penny-coffins.json](./396126-4-penny-coffins.json) |
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
