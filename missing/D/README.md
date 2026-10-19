@@ -7935,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
+| DIY Fashion Star: Complete Edition | 292918 | [292918-diy-fashion-star-complete-edition.json](./292918-diy-fashion-star-complete-edition.json) |
 | DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
 | DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
@@ -9576,6 +9577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door of Perception | 251055 | [251055-door-of-perception.json](./251055-door-of-perception.json) |
 | Door Puzzle | 358450 | [358450-door-puzzle.json](./358450-door-puzzle.json) |
 | Door Runners | 417374 | [417374-door-runners.json](./417374-door-runners.json) |
+| Door Simulator | 292952 | [292952-door-simulator.json](./292952-door-simulator.json) |
 | Door Slammers 2 | 55829 | [55829-door-slammers-2.json](./55829-door-slammers-2.json) |
 | Door Smasher | 153844 | [153844-door-smasher.json](./153844-door-smasher.json) |
 | Door to Door | 34244 | [34244-door-to-door.json](./34244-door-to-door.json) |
@@ -11904,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Draft Destroy | 240927 | [240927-drift-draft-destroy.json](./240927-drift-draft-destroy.json) |
 | Drift Empire | 390257 | [390257-drift-empire.json](./390257-drift-empire.json) |
 | Drift Experience Japan | 234533 | [234533-drift-experience-japan.json](./234533-drift-experience-japan.json) |
+| Drift Force Xtreme: Ultimate Car Simulator 2024 | 292915 | [292915-drift-force-xtreme-ultimate-car-simulator-2024.json](./292915-drift-force-xtreme-ultimate-car-simulator-2024.json) |
 | Drift Gang | 372449 | [372449-drift-gang.json](./372449-drift-gang.json) |
 | Drift Gear Racing Free | 30745 | [30745-drift-gear-racing-free.json](./30745-drift-gear-racing-free.json) |
 | Drift Girls | 58786 | [58786-drift-girls.json](./58786-drift-girls.json) |
