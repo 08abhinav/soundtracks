@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
+| Neutron Base: The Arrival | 272133 | [272133-neutron-base-the-arrival.json](./272133-neutron-base-the-arrival.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
 | Neutron Zapper | 94630 | [94630-neutron-zapper.json](./94630-neutron-zapper.json) |
 | Nev It Up | 240153 | [240153-nev-it-up.json](./240153-nev-it-up.json) |
@@ -5107,6 +5108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostradamus no Daiyogen | 385708 | [385708-nostradamus-no-daiyogen.json](./385708-nostradamus-no-daiyogen.json) |
 | Nostradamus: The Last Prophecy | 17186 | [17186-nostradamus-the-last-prophecy.json](./17186-nostradamus-the-last-prophecy.json) |
 | NoStranger | 409039 | [409039-nostranger.json](./409039-nostranger.json) |
+| Nostromo | 272134 | [272134-nostromo.json](./272134-nostromo.json) |
 | Nostromo's Run | 274197 | [274197-nostromos-run.json](./274197-nostromos-run.json) |
 | Nosy | 205112 | [205112-nosy.json](./205112-nosy.json) |
 | Not 4 Usual Games | 182912 | [182912-not-4-usual-games.json](./182912-not-4-usual-games.json) |
