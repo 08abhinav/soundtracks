@@ -18090,6 +18090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokki | 220699 | [220699-tokki.json](./220699-tokki.json) |
 | Tokkun Fighting Soccer | 349434 | [349434-tokkun-fighting-soccer.json](./349434-tokkun-fighting-soccer.json) |
 | Tokkyuu Shirei Solbrain | 215134 | [215134-tokkyuu-shirei-solbrain.json](./215134-tokkyuu-shirei-solbrain.json) |
+| Toko & Kraft: Artificers | 287491 | [287491-toko-and-kraft-artificers.json](./287491-toko-and-kraft-artificers.json) |
 | Toko Toko Trouble | 242632 | [242632-toko-toko-trouble.json](./242632-toko-toko-trouble.json) |
 | Tokobot | 19692 | [19692-tokobot.json](./19692-tokobot.json) |
 | Tokobot Plus: Mysteries of the Karakuri | 20663 | [20663-tokobot-plus-mysteries-of-the-karakuri.json](./20663-tokobot-plus-mysteries-of-the-karakuri.json) |
