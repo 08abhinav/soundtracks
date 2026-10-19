@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marbles HD | 101520 | [101520-marbles-hd.json](./101520-marbles-hd.json) |
 | Marbles Rush | 153819 | [153819-marbles-rush.json](./153819-marbles-rush.json) |
 | Marbles Temple: Zuma Back! | 68916 | [68916-marbles-temple-zuma-back.json](./68916-marbles-temple-zuma-back.json) |
+| Marbling Clear | 281248 | [281248-marbling-clear.json](./281248-marbling-clear.json) |
 | Marblize | 31142 | [31142-marblize.json](./31142-marblize.json) |
 | Marblob | 366343 | [366343-marblob.json](./366343-marblob.json) |
 | Marburgh | 126934 | [126934-marburgh.json](./126934-marburgh.json) |
@@ -3958,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters Pool HD | 345106 | [345106-masters-pool-hd.json](./345106-masters-pool-hd.json) |
 | Masters: Harukanaru Augusta 3 | 268542 | [268542-masters-harukanaru-augusta-3.json](./268542-masters-harukanaru-augusta-3.json) |
 | Masterspace | 36420 | [36420-masterspace.json](./36420-masterspace.json) |
+| MasterWorks: Journey Through History | 281263 | [281263-masterworks-journey-through-history.json](./281263-masterworks-journey-through-history.json) |
 | Mastery of Fate: Phantom King's Rise | 262594 | [262594-mastery-of-fate-phantom-kings-rise.json](./262594-mastery-of-fate-phantom-kings-rise.json) |
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
 | Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
@@ -3975,6 +3977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mata Yume no Naka de | 205239 | [205239-mata-yume-no-naka-de.json](./205239-mata-yume-no-naka-de.json) |
 | Mata, Itsuka. | 201309 | [201309-mata-itsuka.json](./201309-mata-itsuka.json) |
 | Matadouro: Grindhouse | 283395 | [283395-matadouro-grindhouse.json](./283395-matadouro-grindhouse.json) |
+| Matar Gente Rica de Skate | 281254 | [281254-matar-gente-rica-de-skate.json](./281254-matar-gente-rica-de-skate.json) |
 | Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match | 313532 | [313532-match.json](./313532-match.json) |
 | Match | 399912 | [399912-match.json](./399912-match.json) |
@@ -15558,6 +15561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
+| My Time at Etheria | 281307 | [281307-my-time-at-etheria.json](./281307-my-time-at-etheria.json) |
 | My Time at Portia: Deluxe Edition | 224111 | [224111-my-time-at-portia-deluxe-edition.json](./224111-my-time-at-portia-deluxe-edition.json) |
 | My Time at Portia: Housewarming Gift Set | 300930 | [300930-my-time-at-portia-housewarming-gift-set.json](./300930-my-time-at-portia-housewarming-gift-set.json) |
 | My Time At Portia: Player Costume Package | 294956 | [294956-my-time-at-portia-player-costume-package.json](./294956-my-time-at-portia-player-costume-package.json) |
