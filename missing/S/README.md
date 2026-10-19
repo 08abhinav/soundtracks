@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam Power: Footballer | 122741 | [122741-sam-power-footballer.json](./122741-sam-power-footballer.json) |
 | Sam Power: Handyman | 122740 | [122740-sam-power-handyman.json](./122740-sam-power-handyman.json) |
 | SAM Simulator | 71179 | [71179-sam-simulator.json](./71179-sam-simulator.json) |
+| Sam the Boulderman | 266650 | [266650-sam-the-boulderman.json](./266650-sam-the-boulderman.json) |
 | Sam the Olympic Eagle: Rings | 349452 | [349452-sam-the-olympic-eagle-rings.json](./349452-sam-the-olympic-eagle-rings.json) |
 | Sam the Olympic Eagle: Torch | 349451 | [349451-sam-the-olympic-eagle-torch.json](./349451-sam-the-olympic-eagle-torch.json) |
 | Sam's Journey | 116801 | [116801-sams-journey.json](./116801-sams-journey.json) |
@@ -933,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
 | Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
+| Samsaric Asymptotes | 266646 | [266646-samsaric-asymptotes.json](./266646-samsaric-asymptotes.json) |
 | Samsaric Asymtotes | 295997 | [295997-samsaric-asymtotes.json](./295997-samsaric-asymtotes.json) |
 | Samsung Pro Cricket | 356656 | [356656-samsung-pro-cricket.json](./356656-samsung-pro-cricket.json) |
 | Samu | 378279 | [378279-samu.json](./378279-samu.json) |
