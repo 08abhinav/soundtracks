@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Naraka: Bladepoint - Deluxe Edition | 169169 | [169169-naraka-bladepoint-deluxe-edition.json](./169169-naraka-bladepoint-deluxe-edition.json) |
+| Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
 | Naraku no Shiro Ichiyanagi Nagomu, Nidome no Junan | 124636 | [124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json](./124636-naraku-no-shiro-ichiyanagi-nagomu-nidome-no-junan.json) |
 | Narara Superboard: Hwansang Seoyugi | 145599 | [145599-narara-superboard-hwansang-seoyugi.json](./145599-narara-superboard-hwansang-seoyugi.json) |
 | Narava RPG | 277432 | [277432-narava-rpg.json](./277432-narava-rpg.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
+| Necroking | 291826 | [291826-necroking.json](./291826-necroking.json) |
 | Necrolance | 116929 | [116929-necrolance.json](./116929-necrolance.json) |
 | NecroLand: Undead Corps | 127361 | [127361-necroland-undead-corps.json](./127361-necroland-undead-corps.json) |
 | Necromancer | 377196 | [377196-necromancer.json](./377196-necromancer.json) |
@@ -5033,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nose | 224501 | [224501-nose.json](./224501-nose.json) |
 | Nose | 287230 | [287230-nose.json](./287230-nose.json) |
 | Nose Bleed | 227915 | [227915-nose-bleed.json](./227915-nose-bleed.json) |
+| Nose: Breathing Rebellion | 291835 | [291835-nose-breathing-rebellion.json](./291835-nose-breathing-rebellion.json) |
 | Nose: The Great Keana Edition | 355159 | [355159-nose-the-great-keana-edition.json](./355159-nose-the-great-keana-edition.json) |
 | NoseBound | 132821 | [132821-nosebound.json](./132821-nosebound.json) |
 | NoSeq | 152270 | [152270-noseq.json](./152270-noseq.json) |
