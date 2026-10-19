@@ -597,6 +597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale | 94902 | [94902-fairytale.json](./94902-fairytale.json) |
 | Fairytale Encore | 59199 | [59199-fairytale-encore.json](./59199-fairytale-encore.json) |
 | Fairytale Encore | 59270 | [59270-fairytale-encore.json](./59270-fairytale-encore.json) |
+| Fairytale Fables | 271637 | [271637-fairytale-fables.json](./271637-fairytale-fables.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Mosaics: Beauty and the Beast 2 | 99574 | [99574-fairytale-mosaics-beauty-and-the-beast-2.json](./99574-fairytale-mosaics-beauty-and-the-beast-2.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
 | Fool! | 118345 | [118345-fool.json](./118345-fool.json) |
 | Fool's Curse | 238465 | [238465-fools-curse.json](./238465-fools-curse.json) |
+| Fool's End | 271636 | [271636-fools-end.json](./271636-fools-end.json) |
 | Fool's Frontier | 291221 | [291221-fools-frontier.json](./291221-fools-frontier.json) |
 | Fool's Gold | 244903 | [244903-fools-gold.json](./244903-fools-gold.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
@@ -8867,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends vs. Friends | 214406 | [214406-friends-vs-friends.json](./214406-friends-vs-friends.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
+| Friends vs. Friends: Wired Wrecks | 271639 | [271639-friends-vs-friends-wired-wrecks.json](./271639-friends-vs-friends-wired-wrecks.json) |
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
