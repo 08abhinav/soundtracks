@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
+| Fast as Duck | 277172 | [277172-fast-as-duck.json](./277172-fast-as-duck.json) |
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
@@ -7916,6 +7917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends | 230429 | [230429-fosters-home-for-imaginary-friends.json](./230429-fosters-home-for-imaginary-friends.json) |
+| Foster's Home For Imaginary Friends: A Friend In Need | 277157 | [277157-fosters-home-for-imaginary-friends-a-friend-in-need.json](./277157-fosters-home-for-imaginary-friends-a-friend-in-need.json) |
 | Foster's Home for Imaginary Friends: Imagination Invaders | 8004 | [8004-fosters-home-for-imaginary-friends-imagination-invaders.json](./8004-fosters-home-for-imaginary-friends-imagination-invaders.json) |
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
