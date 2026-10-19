@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VII | 129121 | [129121-vii.json](./129121-vii.json) |
 | Viki Spotter: Around The World | 89962 | [89962-viki-spotter-around-the-world.json](./89962-viki-spotter-around-the-world.json) |
 | Viki Spotter: Camping | 105366 | [105366-viki-spotter-camping.json](./105366-viki-spotter-camping.json) |
+| Viki Spotter: Complete Bundle | 268331 | [268331-viki-spotter-complete-bundle.json](./268331-viki-spotter-complete-bundle.json) |
 | Viki Spotter: Professions | 109387 | [109387-viki-spotter-professions.json](./109387-viki-spotter-professions.json) |
 | Viki Spotter: School | 89609 | [89609-viki-spotter-school.json](./89609-viki-spotter-school.json) |
 | Viki Spotter: Space Mission | 97116 | [97116-viki-spotter-space-mission.json](./97116-viki-spotter-space-mission.json) |
