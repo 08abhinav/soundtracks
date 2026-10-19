@@ -5869,6 +5869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Distortion | 142724 | [142724-binary-distortion.json](./142724-binary-distortion.json) |
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
+| Binary Dungeon | 280085 | [280085-binary-dungeon.json](./280085-binary-dungeon.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
@@ -6970,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackthorn Arena: Path of Kiren | 164335 | [164335-blackthorn-arena-path-of-kiren.json](./164335-blackthorn-arena-path-of-kiren.json) |
 | Blackthorn Arena: Reforged | 314434 | [314434-blackthorn-arena-reforged.json](./314434-blackthorn-arena-reforged.json) |
 | Blackthorn Arena: The Roar from the North | 164334 | [164334-blackthorn-arena-the-roar-from-the-north.json](./164334-blackthorn-arena-the-roar-from-the-north.json) |
+| Blackthorn Winter | 280083 | [280083-blackthorn-winter.json](./280083-blackthorn-winter.json) |
 | Blackthorn Witch | 362326 | [362326-blackthorn-witch.json](./362326-blackthorn-witch.json) |
 | BlackThorne Keep: Chronicles | 159262 | [159262-blackthorne-keep-chronicles.json](./159262-blackthorne-keep-chronicles.json) |
 | Blacktop Hustle | 365741 | [365741-blacktop-hustle.json](./365741-blacktop-hustle.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodshore | 177056 | [177056-bloodshore.json](./177056-bloodshore.json) |
 | Bloodshot | 398969 | [398969-bloodshot.json](./398969-bloodshot.json) |
 | Bloodshots | 277436 | [277436-bloodshots.json](./277436-bloodshots.json) |
+| Bloodsong | 280103 | [280103-bloodsong.json](./280103-bloodsong.json) |
 | Bloodspeed | 257299 | [257299-bloodspeed.json](./257299-bloodspeed.json) |
 | BloodSpiller | 392805 | [392805-bloodspiller.json](./392805-bloodspiller.json) |
 | BloodSpire | 411005 | [411005-bloodspire.json](./411005-bloodspire.json) |
@@ -11869,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
 | Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Alice: The Hundred Day's War | 75945 | [75945-brutal-alice-the-hundred-days-war.json](./75945-brutal-alice-the-hundred-days-war.json) |
+| Brutal Ball | 280100 | [280100-brutal-ball.json](./280100-brutal-ball.json) |
 | Brutal Chase Turbo | 211461 | [211461-brutal-chase-turbo.json](./211461-brutal-chase-turbo.json) |
 | Brutal Company Plus | 285940 | [285940-brutal-company-plus.json](./285940-brutal-company-plus.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
