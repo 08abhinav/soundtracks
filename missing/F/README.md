@@ -9504,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Depot 360 | 92420 | [92420-fuel-depot-360.json](./92420-fuel-depot-360.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
+| Fuel Station Simulator | 302224 | [302224-fuel-station-simulator.json](./302224-fuel-station-simulator.json) |
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
