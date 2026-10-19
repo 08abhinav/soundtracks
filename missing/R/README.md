@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
 | Risa no Yousei Densetsu | 41293 | [41293-risa-no-yousei-densetsu.json](./41293-risa-no-yousei-densetsu.json) |
 | Rise | 142344 | [142344-rise.json](./142344-rise.json) |
+| Rise | 269418 | [269418-rise.json](./269418-rise.json) |
 | Rise | 297921 | [297921-rise.json](./297921-rise.json) |
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
