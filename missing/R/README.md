@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance Quest Magnum | 384830 | [384830-rance-quest-magnum.json](./384830-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
+| Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
 | Ranch Mayhem | 298049 | [298049-ranch-mayhem.json](./298049-ranch-mayhem.json) |
 | Ranch Planet | 104270 | [104270-ranch-planet.json](./104270-ranch-planet.json) |
 | Ranch Store Simulator | 333012 | [333012-ranch-store-simulator.json](./333012-ranch-store-simulator.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roku and Rei | 303007 | [303007-roku-and-rei.json](./303007-roku-and-rei.json) |
 | Rokudenashi Blues | 48820 | [48820-rokudenashi-blues.json](./48820-rokudenashi-blues.json) |
 | Rokudenashi Blues: Taiketsu! Tokyo Shiten-ou | 37867 | [37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json](./37867-rokudenashi-blues-taiketsu-tokyo-shiten-ou.json) |
+| Rokumenhappi | 283060 | [283060-rokumenhappi.json](./283060-rokumenhappi.json) |
 | Rokumon Tengai Mon Colle Knight GB | 282584 | [282584-rokumon-tengai-mon-colle-knight-gb.json](./282584-rokumon-tengai-mon-colle-knight-gb.json) |
 | Rol Crusaders | 94556 | [94556-rol-crusaders.json](./94556-rol-crusaders.json) |
 | Rolaball | 94693 | [94693-rolaball.json](./94693-rolaball.json) |
