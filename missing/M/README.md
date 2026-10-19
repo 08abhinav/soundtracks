@@ -4250,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsumura Kunihiro-den: Saikyou no Rekishi wo Nurikaero! | 38211 | [38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json](./38211-matsumura-kunihiro-den-saikyou-no-rekishi-wo-nurikaero.json) |
 | Matsurikki | 202314 | [202314-matsurikki.json](./202314-matsurikki.json) |
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
+| Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
 | Matt Sandorf: Journey to Endless Entertainment | 258187 | [258187-matt-sandorf-journey-to-endless-entertainment.json](./258187-matt-sandorf-journey-to-endless-entertainment.json) |
@@ -4367,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max's Big Bust 2 - Max's Bigger Bust | 140626 | [140626-maxs-big-bust-2-maxs-bigger-bust.json](./140626-maxs-big-bust-2-maxs-bigger-bust.json) |
 | Max's Tales | 255151 | [255151-maxs-tales.json](./255151-maxs-tales.json) |
 | MaxControl | 31928 | [31928-maxcontrol.json](./31928-maxcontrol.json) |
+| Maxi Bus | 293997 | [293997-maxi-bus.json](./293997-maxi-bus.json) |
 | Maxi Golf | 55002 | [55002-maxi-golf.json](./55002-maxi-golf.json) |
 | Maxi Pool Masters VR | 96620 | [96620-maxi-pool-masters-vr.json](./96620-maxi-pool-masters-vr.json) |
 | Maxi Quiz du Foot Francais | 149007 | [149007-maxi-quiz-du-foot-francais.json](./149007-maxi-quiz-du-foot-francais.json) |
@@ -8597,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
+| Millennia: Eagle Archers & Wolfpack Warband | 294010 | [294010-millennia-eagle-archers-and-wolfpack-warband.json](./294010-millennia-eagle-archers-and-wolfpack-warband.json) |
 | Millennial Simulator | 247618 | [247618-millennial-simulator.json](./247618-millennial-simulator.json) |
 | Millennials | 302183 | [302183-millennials.json](./302183-millennials.json) |
 | Millennium 2: Take Me Higher | 8179 | [8179-millennium-2-take-me-higher.json](./8179-millennium-2-take-me-higher.json) |
@@ -8868,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
+| Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
 | Minds Beneath Us | 152379 | [152379-minds-beneath-us.json](./152379-minds-beneath-us.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
