@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Randoma | 121411 | [121411-terra-randoma.json](./121411-terra-randoma.json) |
 | Terra Request | 383710 | [383710-terra-request.json](./383710-terra-request.json) |
 | Terra Revive | 311901 | [311901-terra-revive.json](./311901-terra-revive.json) |
+| Terra Swoop Force | 301112 | [301112-terra-swoop-force.json](./301112-terra-swoop-force.json) |
 | Terra Tanks: Defenders of the Earth | 75662 | [75662-terra-tanks-defenders-of-the-earth.json](./75662-terra-tanks-defenders-of-the-earth.json) |
 | Terra Traveler | 383104 | [383104-terra-traveler.json](./383104-terra-traveler.json) |
 | Terra Trilogy | 143771 | [143771-terra-trilogy.json](./143771-terra-trilogy.json) |
