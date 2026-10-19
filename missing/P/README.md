@@ -5488,6 +5488,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
+| Pipe Dream | 265006 | [265006-pipe-dream.json](./265006-pipe-dream.json) |
+| Pipe Dream | 265007 | [265007-pipe-dream.json](./265007-pipe-dream.json) |
+| Pipe Dream | 265008 | [265008-pipe-dream.json](./265008-pipe-dream.json) |
+| Pipe Dream | 265009 | [265009-pipe-dream.json](./265009-pipe-dream.json) |
+| Pipe Dream | 265010 | [265010-pipe-dream.json](./265010-pipe-dream.json) |
+| Pipe Dream | 265011 | [265011-pipe-dream.json](./265011-pipe-dream.json) |
+| Pipe Dream | 265012 | [265012-pipe-dream.json](./265012-pipe-dream.json) |
+| Pipe Dream | 265014 | [265014-pipe-dream.json](./265014-pipe-dream.json) |
 | Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Dreams 3D | 43752 | [43752-pipe-dreams-3d.json](./43752-pipe-dreams-3d.json) |
@@ -5498,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Line Puzzle | 268572 | [268572-pipe-line-puzzle.json](./268572-pipe-line-puzzle.json) |
 | Pipe Lord | 100323 | [100323-pipe-lord.json](./100323-pipe-lord.json) |
 | Pipe Mania | 21682 | [21682-pipe-mania.json](./21682-pipe-mania.json) |
+| Pipe Mania!! | 265013 | [265013-pipe-mania.json](./265013-pipe-mania.json) |
 | Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
@@ -9662,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posshexor | 323810 | [323810-posshexor.json](./323810-posshexor.json) |
 | Possibility Space | 285152 | [285152-possibility-space.json](./285152-possibility-space.json) |
 | Possible One: Lunar Industries | 315341 | [315341-possible-one-lunar-industries.json](./315341-possible-one-lunar-industries.json) |
+| Possibly Endless Golf | 264990 | [264990-possibly-endless-golf.json](./264990-possibly-endless-golf.json) |
 | PossiblyAxolotl's PlayPack | 349873 | [349873-possiblyaxolotls-playpack.json](./349873-possiblyaxolotls-playpack.json) |
 | Possum Boy!: The Ballad of Joey Virginia | 361241 | [361241-possum-boy-the-ballad-of-joey-virginia.json](./361241-possum-boy-the-ballad-of-joey-virginia.json) |
 | Possum Dating Simulator | 179042 | [179042-possum-dating-simulator.json](./179042-possum-dating-simulator.json) |
