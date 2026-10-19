@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi Daybreak Portable: Mega Edition | 38478 | [38478-higurashi-daybreak-portable-mega-edition.json](./38478-higurashi-daybreak-portable-mega-edition.json) |
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou + Origin | 251513 | [251513-higurashi-no-naku-koro-ni-hou-origin.json](./251513-higurashi-no-naku-koro-ni-hou-origin.json) |
+| Higurashi no Naku Koro ni Hou: Batsukoishi-hen | 263930 | [263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json](./263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
 | Higurashi no Naku Koro ni Hou: EG The Best | 136779 | [136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json](./136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json) |
 | Higurashi no Naku Koro ni Hou: Hinamizawa Teiryuujo | 263492 | [263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json](./263492-higurashi-no-naku-koro-ni-hou-hinamizawa-teiryuujo.json) |
@@ -5737,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou: Kamikashimashi-hen | 263932 | [263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json](./263932-higurashi-no-naku-koro-ni-hou-kamikashimashi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Limited Edition | 166271 | [166271-higurashi-no-naku-koro-ni-hou-limited-edition.json](./166271-higurashi-no-naku-koro-ni-hou-limited-edition.json) |
 | Higurashi no Naku Koro ni Hou: Outbreak | 263490 | [263490-higurashi-no-naku-koro-ni-hou-outbreak.json](./263490-higurashi-no-naku-koro-ni-hou-outbreak.json) |
+| Higurashi no Naku Koro ni Hou: Outbreak | 263931 | [263931-higurashi-no-naku-koro-ni-hou-outbreak.json](./263931-higurashi-no-naku-koro-ni-hou-outbreak.json) |
 | Higurashi no Naku Koro ni Hou+: Mehagashi-hen | 263660 | [263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json](./263660-higurashi-no-naku-koro-ni-hou-mehagashi-hen.json) |
 | Higurashi no Naku Koro ni Iki | 136769 | [136769-higurashi-no-naku-koro-ni-iki.json](./136769-higurashi-no-naku-koro-ni-iki.json) |
 | Higurashi no Naku Koro ni Jan | 229816 | [229816-higurashi-no-naku-koro-ni-jan.json](./229816-higurashi-no-naku-koro-ni-jan.json) |
@@ -5775,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Origin | 251465 | [251465-higurashi-no-naku-koro-ni-origin.json](./251465-higurashi-no-naku-koro-ni-origin.json) |
 | Higurashi no Naku Koro ni Rei | 248201 | [248201-higurashi-no-naku-koro-ni-rei.json](./248201-higurashi-no-naku-koro-ni-rei.json) |
 | Higurashi no Naku Koro ni Sui | 60788 | [60788-higurashi-no-naku-koro-ni-sui.json](./60788-higurashi-no-naku-koro-ni-sui.json) |
+| Higurashi no Naku Koro ni: Alternative Hirukowashi-hen | 263916 | [263916-higurashi-no-naku-koro-ni-alternative-hirukowashi-hen.json](./263916-higurashi-no-naku-koro-ni-alternative-hirukowashi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen | 248182 | [248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json](./248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.2 Watanagashi-hen | 248185 | [248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json](./248185-higurashi-no-naku-koro-ni-ch-2-watanagashi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.3 Tatarigoroshi-hen | 248193 | [248193-higurashi-no-naku-koro-ni-ch-3-tatarigoroshi-hen.json](./248193-higurashi-no-naku-koro-ni-ch-3-tatarigoroshi-hen.json) |
@@ -5783,13 +5786,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni: Ch.6 Tsumihoroboshi-hen | 248196 | [248196-higurashi-no-naku-koro-ni-ch-6-tsumihoroboshi-hen.json](./248196-higurashi-no-naku-koro-ni-ch-6-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.7 Minagoroshi-hen | 248197 | [248197-higurashi-no-naku-koro-ni-ch-7-minagoroshi-hen.json](./248197-higurashi-no-naku-koro-ni-ch-7-minagoroshi-hen.json) |
 | Higurashi no Naku Koro ni: Ch.8 Matsuribayashi-hen | 248198 | [248198-higurashi-no-naku-koro-ni-ch-8-matsuribayashi-hen.json](./248198-higurashi-no-naku-koro-ni-ch-8-matsuribayashi-hen.json) |
+| Higurashi no Naku Koro ni: Hajisarashi-hen | 263929 | [263929-higurashi-no-naku-koro-ni-hajisarashi-hen.json](./263929-higurashi-no-naku-koro-ni-hajisarashi-hen.json) |
 | Higurashi no Naku Koro ni: Himatsubushi-hen | 263696 | [263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json](./263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json) |
+| Higurashi no Naku Koro ni: Kageboushi-hen | 263917 | [263917-higurashi-no-naku-koro-ni-kageboushi-hen.json](./263917-higurashi-no-naku-koro-ni-kageboushi-hen.json) |
+| Higurashi no Naku Koro ni: Kotohogushi-hen | 263921 | [263921-higurashi-no-naku-koro-ni-kotohogushi-hen.json](./263921-higurashi-no-naku-koro-ni-kotohogushi-hen.json) |
 | Higurashi no Naku Koro ni: Kuradashi-hen | 321476 | [321476-higurashi-no-naku-koro-ni-kuradashi-hen.json](./321476-higurashi-no-naku-koro-ni-kuradashi-hen.json) |
+| Higurashi no Naku Koro ni: Matsuribayashi-hen | 263909 | [263909-higurashi-no-naku-koro-ni-matsuribayashi-hen.json](./263909-higurashi-no-naku-koro-ni-matsuribayashi-hen.json) |
 | Higurashi no Naku Koro ni: Meakashi-hen | 263698 | [263698-higurashi-no-naku-koro-ni-meakashi-hen.json](./263698-higurashi-no-naku-koro-ni-meakashi-hen.json) |
+| Higurashi no Naku Koro ni: Minagoroshi-hen | 263908 | [263908-higurashi-no-naku-koro-ni-minagoroshi-hen.json](./263908-higurashi-no-naku-koro-ni-minagoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Miotsukushi-hen Omote | 263927 | [263927-higurashi-no-naku-koro-ni-miotsukushi-hen-omote.json](./263927-higurashi-no-naku-koro-ni-miotsukushi-hen-omote.json) |
+| Higurashi no Naku Koro ni: Miotsukushi-hen Ura | 263928 | [263928-higurashi-no-naku-koro-ni-miotsukushi-hen-ura.json](./263928-higurashi-no-naku-koro-ni-miotsukushi-hen-ura.json) |
 | Higurashi no Naku Koro ni: Onikakushi-hen | 263686 | [263686-higurashi-no-naku-koro-ni-onikakushi-hen.json](./263686-higurashi-no-naku-koro-ni-onikakushi-hen.json) |
+| Higurashi no Naku Koro ni: Saikoroshi-hen | 263910 | [263910-higurashi-no-naku-koro-ni-saikoroshi-hen.json](./263910-higurashi-no-naku-koro-ni-saikoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Someutsushi-hen | 263915 | [263915-higurashi-no-naku-koro-ni-someutsushi-hen.json](./263915-higurashi-no-naku-koro-ni-someutsushi-hen.json) |
+| Higurashi no Naku Koro ni: Taraimawashi-hen | 263912 | [263912-higurashi-no-naku-koro-ni-taraimawashi-hen.json](./263912-higurashi-no-naku-koro-ni-taraimawashi-hen.json) |
 | Higurashi no Naku Koro ni: Tatarigoroshi-hen | 263692 | [263692-higurashi-no-naku-koro-ni-tatarigoroshi-hen.json](./263692-higurashi-no-naku-koro-ni-tatarigoroshi-hen.json) |
+| Higurashi no Naku Koro ni: Tokihogushi-hen | 263919 | [263919-higurashi-no-naku-koro-ni-tokihogushi-hen.json](./263919-higurashi-no-naku-koro-ni-tokihogushi-hen.json) |
+| Higurashi no Naku Koro ni: Tsukiotoshi-hen | 263914 | [263914-higurashi-no-naku-koro-ni-tsukiotoshi-hen.json](./263914-higurashi-no-naku-koro-ni-tsukiotoshi-hen.json) |
 | Higurashi no Naku Koro ni: Tsumihoroboshi-hen | 263699 | [263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json](./263699-higurashi-no-naku-koro-ni-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni: Watanagashi-hen | 263687 | [263687-higurashi-no-naku-koro-ni-watanagashi-hen.json](./263687-higurashi-no-naku-koro-ni-watanagashi-hen.json) |
+| Higurashi no Naku Koro ni: Yoigoshi-hen | 263918 | [263918-higurashi-no-naku-koro-ni-yoigoshi-hen.json](./263918-higurashi-no-naku-koro-ni-yoigoshi-hen.json) |
 | Higurashi When They Cry | 9700 | [9700-higurashi-when-they-cry.json](./9700-higurashi-when-they-cry.json) |
 | Higurashi When They Cry Hou - Console Arcs | 347709 | [347709-higurashi-when-they-cry-hou-console-arcs.json](./347709-higurashi-when-they-cry-hou-console-arcs.json) |
 | Higurashi When They Cry Hou: Answer Arcs | 263403 | [263403-higurashi-when-they-cry-hou-answer-arcs.json](./263403-higurashi-when-they-cry-hou-answer-arcs.json) |
