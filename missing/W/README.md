@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
 | Wawary | 141620 | [141620-wawary.json](./141620-wawary.json) |
+| Wax Heads | 298453 | [298453-wax-heads.json](./298453-wax-heads.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
 | Waxweaver | 333997 | [333997-waxweaver.json](./333997-waxweaver.json) |
@@ -3858,6 +3859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
 | Wild West | 215648 | [215648-wild-west.json](./215648-wild-west.json) |
 | Wild West and Wizards | 117639 | [117639-wild-west-and-wizards.json](./117639-wild-west-and-wizards.json) |
+| Wild West Blast | 298454 | [298454-wild-west-blast.json](./298454-wild-west-blast.json) |
 | Wild West C.O.W.-Boys of Moo Mesa | 39383 | [39383-wild-west-c-o-w-boys-of-moo-mesa.json](./39383-wild-west-c-o-w-boys-of-moo-mesa.json) |
 | Wild West Chase | 415991 | [415991-wild-west-chase.json](./415991-wild-west-chase.json) |
 | Wild West Crops | 143637 | [143637-wild-west-crops.json](./143637-wild-west-crops.json) |
@@ -5939,6 +5941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Claudecraft | 408050 | [408050-world-of-claudecraft.json](./408050-world-of-claudecraft.json) |
 | World of Conquerors: Origins | 126602 | [126602-world-of-conquerors-origins.json](./126602-world-of-conquerors-origins.json) |
 | World of Contraptions | 138027 | [138027-world-of-contraptions.json](./138027-world-of-contraptions.json) |
+| World of Crypts | 298387 | [298387-world-of-crypts.json](./298387-world-of-crypts.json) |
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
