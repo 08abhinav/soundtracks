@@ -7973,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunger: Games Ensemble | 164914 | [164914-the-hunger-games-ensemble.json](./164914-the-hunger-games-ensemble.json) |
 | The Hungry Horde: Holiday Hijinx | 372821 | [372821-the-hungry-horde-holiday-hijinx.json](./372821-the-hungry-horde-holiday-hijinx.json) |
 | The Hungry House | 179502 | [179502-the-hungry-house.json](./179502-the-hungry-house.json) |
+| The Hungry Lamb: Traveling in the Late Ming Dynasty | 296195 | [296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json](./296195-the-hungry-lamb-traveling-in-the-late-ming-dynasty.json) |
 | The Hungry Witch and the Gourmet Dish | 185157 | [185157-the-hungry-witch-and-the-gourmet-dish.json](./185157-the-hungry-witch-and-the-gourmet-dish.json) |
 | The Hunsa Magic | 199366 | [199366-the-hunsa-magic.json](./199366-the-hunsa-magic.json) |
 | The Hunt | 139172 | [139172-the-hunt.json](./139172-the-hunt.json) |
@@ -11143,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Punisher | 75883 | [75883-the-punisher.json](./75883-the-punisher.json) |
 | The Punisher: No Mercy | 21287 | [21287-the-punisher-no-mercy.json](./21287-the-punisher-no-mercy.json) |
 | The Punisher: The Ultimate Payback! | 49028 | [49028-the-punisher-the-ultimate-payback.json](./49028-the-punisher-the-ultimate-payback.json) |
+| The Punniest Pun Messter | 296154 | [296154-the-punniest-pun-messter.json](./296154-the-punniest-pun-messter.json) |
 | The Puppet Master | 30910 | [30910-the-puppet-master.json](./30910-the-puppet-master.json) |
 | The Puppet Word Game | 220808 | [220808-the-puppet-word-game.json](./220808-the-puppet-word-game.json) |
 | The Puppeteer | 252010 | [252010-the-puppeteer.json](./252010-the-puppeteer.json) |
@@ -18818,6 +18820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Trumps: US Presidents | 57553 | [57553-top-trumps-us-presidents.json](./57553-top-trumps-us-presidents.json) |
 | Top Web Search 23 | 283719 | [283719-top-web-search-23.json](./283719-top-web-search-23.json) |
 | Top wo Nerae: Cybernetic High-School III | 66210 | [66210-top-wo-nerae-cybernetic-high-school-iii.json](./66210-top-wo-nerae-cybernetic-high-school-iii.json) |
+| Topac Battle | 296262 | [296262-topac-battle.json](./296262-topac-battle.json) |
 | Topac Battle: Supporter Pack | 310035 | [310035-topac-battle-supporter-pack.json](./310035-topac-battle-supporter-pack.json) |
 | Topang | 143947 | [143947-topang.json](./143947-topang.json) |
 | Topgolf with Pro Putt | 143067 | [143067-topgolf-with-pro-putt.json](./143067-topgolf-with-pro-putt.json) |
@@ -22725,6 +22728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triplicata | 54537 | [54537-triplicata.json](./54537-triplicata.json) |
 | Tripline | 87800 | [87800-tripline.json](./87800-tripline.json) |
 | Tripp | 144866 | [144866-tripp.json](./144866-tripp.json) |
+| Tripper | 296151 | [296151-tripper.json](./296151-tripper.json) |
 | Trippy Jump | 101329 | [101329-trippy-jump.json](./101329-trippy-jump.json) |
 | Trippy Tavern | 207575 | [207575-trippy-tavern.json](./207575-trippy-tavern.json) |
 | Trippy Trader: Schedule & Sell | 362214 | [362214-trippy-trader-schedule-and-sell.json](./362214-trippy-trader-schedule-and-sell.json) |
