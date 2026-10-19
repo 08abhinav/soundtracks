@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Z-Day | 153341 | [153341-happy-z-day.json](./153341-happy-z-day.json) |
 | Happy Zone | 193937 | [193937-happy-zone.json](./193937-happy-zone.json) |
 | Happy! Happy!! Boarders in Hokkaido | 61708 | [61708-happy-happy-boarders-in-hokkaido.json](./61708-happy-happy-boarders-in-hokkaido.json) |
+| Happy! The Hippo | 269988 | [269988-happy-the-hippo.json](./269988-happy-the-hippo.json) |
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
 | Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
+| Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
 | Hidden Capybaras with Orange | 279502 | [279502-hidden-capybaras-with-orange.json](./279502-hidden-capybaras-with-orange.json) |
 | Hidden Capybaras with Orange and Pumpkins: Spooky Halloween Edition | 320320 | [320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json](./320320-hidden-capybaras-with-orange-and-pumpkins-spooky-halloween-edition.json) |
 | Hidden Capybaras with Orange in the Whimsical Library | 321138 | [321138-hidden-capybaras-with-orange-in-the-whimsical-library.json](./321138-hidden-capybaras-with-orange-in-the-whimsical-library.json) |
@@ -5430,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
 | Hidden World Top-Down 3D | 192466 | [192466-hidden-world-top-down-3d.json](./192466-hidden-world-top-down-3d.json) |
+| Hidden World War II: Top-Down 3D | 269976 | [269976-hidden-world-war-ii-top-down-3d.json](./269976-hidden-world-war-ii-top-down-3d.json) |
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
@@ -5465,6 +5468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek: Story of Dorothy | 151578 | [151578-hide-and-seek-story-of-dorothy.json](./151578-hide-and-seek-story-of-dorothy.json) |
 | Hide and Seek: Toilet Monster | 273949 | [273949-hide-and-seek-toilet-monster.json](./273949-hide-and-seek-toilet-monster.json) |
 | Hide and Sink | 410928 | [410928-hide-and-sink.json](./410928-hide-and-sink.json) |
+| Hide for Cat: All for the Best | 269993 | [269993-hide-for-cat-all-for-the-best.json](./269993-hide-for-cat-all-for-the-best.json) |
 | Hide In Dummy | 335233 | [335233-hide-in-dummy.json](./335233-hide-in-dummy.json) |
 | Hide N Seek : Mini Games | 104724 | [104724-hide-n-seek-mini-games.json](./104724-hide-n-seek-mini-games.json) |
 | Hide N Seek VR | 74938 | [74938-hide-n-seek-vr.json](./74938-hide-n-seek-vr.json) |
