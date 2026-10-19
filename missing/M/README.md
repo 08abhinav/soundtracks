@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
+| Mario Starcatcher 2 | 288041 | [288041-mario-starcatcher-2.json](./288041-mario-starcatcher-2.json) |
 | Mario Strikers: Battle League | 191398 | [191398-mario-strikers-battle-league.json](./191398-mario-strikers-battle-league.json) |
 | Mario Super Sluggers | 3987 | [3987-mario-super-sluggers.json](./3987-mario-super-sluggers.json) |
 | Mario Super Sluggers Cards | 339844 | [339844-mario-super-sluggers-cards.json](./339844-mario-super-sluggers-cards.json) |
@@ -4606,6 +4607,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Moros | 297510 | [297510-maze-of-moros.json](./297510-maze-of-moros.json) |
 | Maze of Pain | 83951 | [83951-maze-of-pain.json](./83951-maze-of-pain.json) |
 | Maze of Realities: Reflection of Light - Collector's Edition | 218702 | [218702-maze-of-realities-reflection-of-light-collectors-edition.json](./218702-maze-of-realities-reflection-of-light-collectors-edition.json) |
+| Maze of Realities: Ride in the Sky - Collector's Edition | 288047 | [288047-maze-of-realities-ride-in-the-sky-collectors-edition.json](./288047-maze-of-realities-ride-in-the-sky-collectors-edition.json) |
+| Maze of Realities: Ride in the Sky DLC | 288048 | [288048-maze-of-realities-ride-in-the-sky-dlc.json](./288048-maze-of-realities-ride-in-the-sky-dlc.json) |
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
 | Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
@@ -5670,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Revolution | 102071 | [102071-mega-man-revolution.json](./102071-mega-man-revolution.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
 | Mega Man Rock Force | 194382 | [194382-mega-man-rock-force.json](./194382-mega-man-rock-force.json) |
+| Mega Man RPG: Prototype | 288040 | [288040-mega-man-rpg-prototype.json](./288040-mega-man-rpg-prototype.json) |
 | Mega Man SNES | 377766 | [377766-mega-man-snes.json](./377766-mega-man-snes.json) |
 | Mega Man Soccer | 1730 | [1730-mega-man-soccer.json](./1730-mega-man-soccer.json) |
 | Mega Man Star Force 2: Zerker x Ninja | 1785 | [1785-mega-man-star-force-2-zerker-x-ninja.json](./1785-mega-man-star-force-2-zerker-x-ninja.json) |
@@ -13894,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugogy Jump | 298300 | [298300-mugogy-jump.json](./298300-mugogy-jump.json) |
 | Mugsy | 25719 | [25719-mugsy.json](./25719-mugsy.json) |
 | Muhammad Ali | 228360 | [228360-muhammad-ali.json](./228360-muhammad-ali.json) |
+| Muhammad Ali Heavyweight Boxing | 288070 | [288070-muhammad-ali-heavyweight-boxing.json](./288070-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali Heavyweight Boxing | 46269 | [46269-muhammad-ali-heavyweight-boxing.json](./46269-muhammad-ali-heavyweight-boxing.json) |
 | Muhammad Ali: Puzzle King | 57914 | [57914-muhammad-ali-puzzle-king.json](./57914-muhammad-ali-puzzle-king.json) |
 | Muhe Space | 374902 | [374902-muhe-space.json](./374902-muhe-space.json) |
@@ -14574,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Nitro: Unleashed | 133400 | [133400-mx-nitro-unleashed.json](./133400-mx-nitro-unleashed.json) |
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
+| MX vs ATV: Legends - Yamaha Pack 2023 | 288051 | [288051-mx-vs-atv-legends-yamaha-pack-2023.json](./288051-mx-vs-atv-legends-yamaha-pack-2023.json) |
 | MX vs. ATV All Out: 2011 Kawasaki KFX450R | 315218 | [315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json](./315218-mx-vs-atv-all-out-2011-kawasaki-kfx450r.json) |
 | MX vs. ATV All Out: 2011 Suzuki LT-R450 | 315219 | [315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json](./315219-mx-vs-atv-all-out-2011-suzuki-lt-r450.json) |
 | MX vs. ATV All Out: 2017 Husqvarna FC 250 | 315220 | [315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json](./315220-mx-vs-atv-all-out-2017-husqvarna-fc-250.json) |
