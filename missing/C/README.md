@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Town | 395539 | [395539-chibi-town.json](./395539-chibi-town.json) |
 | Chibi Volleyball | 119824 | [119824-chibi-volleyball.json](./119824-chibi-volleyball.json) |
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
+| Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chiby.io | 393815 | [393815-chiby-io.json](./393815-chiby-io.json) |
 | Chic Baby | 97342 | [97342-chic-baby.json](./97342-chic-baby.json) |
@@ -6484,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus of Clowns | 342085 | [342085-circus-of-clowns.json](./342085-circus-of-clowns.json) |
 | Circus World | 52507 | [52507-circus-world.json](./52507-circus-world.json) |
+| Circus! | 289735 | [289735-circus.json](./289735-circus.json) |
 | CircusTroupe | 235779 | [235779-circustroupe.json](./235779-circustroupe.json) |
 | Circut's Edge | 277032 | [277032-circuts-edge.json](./277032-circuts-edge.json) |
 | Cirno! Lifts a Boulder | 386967 | [386967-cirno-lifts-a-boulder.json](./386967-cirno-lifts-a-boulder.json) |
@@ -9171,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combined_Arms | 143116 | [143116-combined-arms.json](./143116-combined-arms.json) |
 | Combined_Arms Gaiden | 143117 | [143117-combined-arms-gaiden.json](./143117-combined-arms-gaiden.json) |
 | Combines.io | 327942 | [327942-combines-io.json](./327942-combines-io.json) |
+| CombiPark Tonde Mat | 289738 | [289738-combipark-tonde-mat.json](./289738-combipark-tonde-mat.json) |
 | Combo Babies | 167811 | [167811-combo-babies.json](./167811-combo-babies.json) |
 | Combo Bombo | 245982 | [245982-combo-bombo.json](./245982-combo-bombo.json) |
 | Combo Critters: Battle Checkers | 346263 | [346263-combo-critters-battle-checkers.json](./346263-combo-critters-battle-checkers.json) |
