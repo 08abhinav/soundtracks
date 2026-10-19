@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf N-Strike: Double Blast Bundle | 268392 | [268392-nerf-n-strike-double-blast-bundle.json](./268392-nerf-n-strike-double-blast-bundle.json) |
 | Nerf Ultimate Championship | 152224 | [152224-nerf-ultimate-championship.json](./152224-nerf-ultimate-championship.json) |
 | Nerf: Battle Arena | 197329 | [197329-nerf-battle-arena.json](./197329-nerf-battle-arena.json) |
+| Nerf: Superblast | 288644 | [288644-nerf-superblast.json](./288644-nerf-superblast.json) |
 | Nerl's Crazy C"rough"t! | 311598 | [311598-nerls-crazy-c-rough-t.json](./311598-nerls-crazy-c-rough-t.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
