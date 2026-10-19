@@ -2539,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebuild 2 | 342030 | [342030-rebuild-2.json](./342030-rebuild-2.json) |
 | Rebuild the Wall | 289309 | [289309-rebuild-the-wall.json](./289309-rebuild-the-wall.json) |
 | Rebuild: Gangs of Deadsville | 65024 | [65024-rebuild-gangs-of-deadsville.json](./65024-rebuild-gangs-of-deadsville.json) |
+| Rebuild: Original Rebuild 2 | 286425 | [286425-rebuild-original-rebuild-2.json](./286425-rebuild-original-rebuild-2.json) |
 | Rebuilding Civilization | 355227 | [355227-rebuilding-civilization.json](./355227-rebuilding-civilization.json) |
 | ReBullet | 313979 | [313979-rebullet.json](./313979-rebullet.json) |
 | Rebungered!! That Time I Got Reincarnated As A Bunger! | 405474 | [405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json](./405474-rebungered-that-time-i-got-reincarnated-as-a-bunger.json) |
@@ -6096,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Strike | 414792 | [414792-river-strike.json](./414792-river-strike.json) |
 | River Striker | 175174 | [175174-river-striker.json](./175174-river-striker.json) |
 | River Tiles | 135693 | [135693-river-tiles.json](./135693-river-tiles.json) |
+| River Town Factory | 286429 | [286429-river-town-factory.json](./286429-river-town-factory.json) |
 | River Towns | 324918 | [324918-river-towns.json](./324918-river-towns.json) |
 | River Trap | 417948 | [417948-river-trap.json](./417948-river-trap.json) |
 | River-ty Town | 384062 | [384062-river-ty-town.json](./384062-river-ty-town.json) |
