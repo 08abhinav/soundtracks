@@ -3952,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
 | Wildlands | 265559 | [265559-wildlands.json](./265559-wildlands.json) |
 | Wildlands Resurgence | 267095 | [267095-wildlands-resurgence.json](./267095-wildlands-resurgence.json) |
+| Wildlife Adventures Collection: 3 in 1 | 302245 | [302245-wildlife-adventures-collection-3-in-1.json](./302245-wildlife-adventures-collection-3-in-1.json) |
 | Wildlife Camp | 36063 | [36063-wildlife-camp.json](./36063-wildlife-camp.json) |
 | Wildlife Hunter: Survival | 250437 | [250437-wildlife-hunter-survival.json](./250437-wildlife-hunter-survival.json) |
 | Wildlife Matters | 280438 | [280438-wildlife-matters.json](./280438-wildlife-matters.json) |
