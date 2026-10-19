@@ -2903,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Bass Fishing 2 | 299829 | [299829-sea-bass-fishing-2.json](./299829-sea-bass-fishing-2.json) |
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
+| Sea Battle 2 | 294535 | [294535-sea-battle-2.json](./294535-sea-battle-2.json) |
 | Sea Battle Minimal | 192947 | [192947-sea-battle-minimal.json](./192947-sea-battle-minimal.json) |
 | Sea Battle Simulator | 104488 | [104488-sea-battle-simulator.json](./104488-sea-battle-simulator.json) |
 | Sea Battle VR | 75719 | [75719-sea-battle-vr.json](./75719-sea-battle-vr.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
+| Shopping Clutter 13: Mr. Claus On Vacation | 294518 | [294518-shopping-clutter-13-mr-claus-on-vacation.json](./294518-shopping-clutter-13-mr-claus-on-vacation.json) |
 | Shopping Clutter 14: Winter Garden | 341874 | [341874-shopping-clutter-14-winter-garden.json](./341874-shopping-clutter-14-winter-garden.json) |
 | Shopping Clutter 15: Around the Campfire | 341870 | [341870-shopping-clutter-15-around-the-campfire.json](./341870-shopping-clutter-15-around-the-campfire.json) |
 | Shopping Clutter 16: Happy Birthday | 356834 | [356834-shopping-clutter-16-happy-birthday.json](./356834-shopping-clutter-16-happy-birthday.json) |
@@ -10209,6 +10211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 The Green Stars | 132830 | [132830-sm64-the-green-stars.json](./132830-sm64-the-green-stars.json) |
 | SM64 The Green Stars PC | 308446 | [308446-sm64-the-green-stars-pc.json](./308446-sm64-the-green-stars-pc.json) |
 | SM64 TsucnenT's Treasures PC Port | 378273 | [378273-sm64-tsucnents-treasures-pc-port.json](./378273-sm64-tsucnents-treasures-pc-port.json) |
+| SM64: Decades Later | 294611 | [294611-sm64-decades-later.json](./294611-sm64-decades-later.json) |
 | SM64: Last Impact | 132725 | [132725-sm64-last-impact.json](./132725-sm64-last-impact.json) |
 | SM64: Rocky Mountain Revisited | 256295 | [256295-sm64-rocky-mountain-revisited.json](./256295-sm64-rocky-mountain-revisited.json) |
 | SM64.z64 | 297540 | [297540-sm64-z64.json](./297540-sm64-z64.json) |
@@ -23995,6 +23998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Boy | 335956 | [335956-super-slime-boy.json](./335956-super-slime-boy.json) |
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
+| Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
@@ -24078,6 +24082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Challenger Pack 9 | 133839 | [133839-super-smash-bros-ultimate-challenger-pack-9.json](./133839-super-smash-bros-ultimate-challenger-pack-9.json) |
 | Super Smash Bros. Ultimate: Competitive Playable Bosses | 280797 | [280797-super-smash-bros-ultimate-competitive-playable-bosses.json](./280797-super-smash-bros-ultimate-competitive-playable-bosses.json) |
 | Super Smash Bros. Ultimate: Conker Moveset | 395143 | [395143-super-smash-bros-ultimate-conker-moveset.json](./395143-super-smash-bros-ultimate-conker-moveset.json) |
+| Super Smash Bros. Ultimate: Dread Samus | 294523 | [294523-super-smash-bros-ultimate-dread-samus.json](./294523-super-smash-bros-ultimate-dread-samus.json) |
 | Super Smash Bros. Ultimate: Expanding Donkey Kong | 343413 | [343413-super-smash-bros-ultimate-expanding-donkey-kong.json](./343413-super-smash-bros-ultimate-expanding-donkey-kong.json) |
 | Super Smash Bros. Ultimate: Fall Damage | 343408 | [343408-super-smash-bros-ultimate-fall-damage.json](./343408-super-smash-bros-ultimate-fall-damage.json) |
 | Super Smash Bros. Ultimate: Fall Guy Moveset | 395031 | [395031-super-smash-bros-ultimate-fall-guy-moveset.json](./395031-super-smash-bros-ultimate-fall-guy-moveset.json) |
@@ -24101,6 +24106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Knuckles Outfit and Hat | 317929 | [317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json](./317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json) |
 | Super Smash Bros. Ultimate: Latios/Latias Moveset | 395019 | [395019-super-smash-bros-ultimate-latios-latias-moveset.json](./395019-super-smash-bros-ultimate-latios-latias-moveset.json) |
 | Super Smash Bros. Ultimate: Lloyd Outfit and Wig | 306450 | [306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json](./306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json) |
+| Super Smash Bros. Ultimate: Masked Man Moveset | 294524 | [294524-super-smash-bros-ultimate-masked-man-moveset.json](./294524-super-smash-bros-ultimate-masked-man-moveset.json) |
+| Super Smash Bros. Ultimate: Mecha Sonic Moveset | 294522 | [294522-super-smash-bros-ultimate-mecha-sonic-moveset.json](./294522-super-smash-bros-ultimate-mecha-sonic-moveset.json) |
 | Super Smash Bros. Ultimate: Megumin Moveset | 395028 | [395028-super-smash-bros-ultimate-megumin-moveset.json](./395028-super-smash-bros-ultimate-megumin-moveset.json) |
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
 | Super Smash Bros. Ultimate: Morgana Hat | 317930 | [317930-super-smash-bros-ultimate-morgana-hat.json](./317930-super-smash-bros-ultimate-morgana-hat.json) |
