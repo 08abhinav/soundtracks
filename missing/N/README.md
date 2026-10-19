@@ -3006,11 +3006,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon All-Star Brawl | 156151 | [156151-nickelodeon-all-star-brawl.json](./156151-nickelodeon-all-star-brawl.json) |
 | Nickelodeon All-Star Brawl 2 | 259206 | [259206-nickelodeon-all-star-brawl-2.json](./259206-nickelodeon-all-star-brawl-2.json) |
 | Nickelodeon All-Star Brawl 2: Costume Pack | 275617 | [275617-nickelodeon-all-star-brawl-2-costume-pack.json](./275617-nickelodeon-all-star-brawl-2-costume-pack.json) |
+| Nickelodeon All-Star Brawl 2: Deluxe Edition | 275497 | [275497-nickelodeon-all-star-brawl-2-deluxe-edition.json](./275497-nickelodeon-all-star-brawl-2-deluxe-edition.json) |
 | Nickelodeon All-Star Brawl 2: Iroh Brawl Pack | 313298 | [313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json](./313298-nickelodeon-all-star-brawl-2-iroh-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Mr. Krabs Brawl Pack | 287176 | [287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json](./287176-nickelodeon-all-star-brawl-2-mr-krabs-brawl-pack.json) |
 | Nickelodeon All-Star Brawl 2: Season Pass | 275618 | [275618-nickelodeon-all-star-brawl-2-season-pass.json](./275618-nickelodeon-all-star-brawl-2-season-pass.json) |
 | Nickelodeon All-Star Brawl 2: Stage Striking Mod | 330974 | [330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json](./330974-nickelodeon-all-star-brawl-2-stage-striking-mod.json) |
 | Nickelodeon All-Star Brawl 2: The Elastic Waistband Costume | 315081 | [315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json](./315081-nickelodeon-all-star-brawl-2-the-elastic-waistband-costume.json) |
+| Nickelodeon All-Star Brawl 2: Ultimate Edition | 275498 | [275498-nickelodeon-all-star-brawl-2-ultimate-edition.json](./275498-nickelodeon-all-star-brawl-2-ultimate-edition.json) |
 | Nickelodeon All-Star Brawl 2: Zuko Brawl Pack | 300929 | [300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json](./300929-nickelodeon-all-star-brawl-2-zuko-brawl-pack.json) |
 | Nickelodeon All-Star Brawl: Hugh Neutron | 212790 | [212790-nickelodeon-all-star-brawl-hugh-neutron.json](./212790-nickelodeon-all-star-brawl-hugh-neutron.json) |
 | Nickelodeon All-Star Brawl: Rocko Brawler Pack | 230985 | [230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json](./230985-nickelodeon-all-star-brawl-rocko-brawler-pack.json) |
