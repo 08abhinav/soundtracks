@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kingdom for Keflings | 15860 | [15860-a-kingdom-for-keflings.json](./15860-a-kingdom-for-keflings.json) |
+| A Kingdom to Conquer | 279500 | [279500-a-kingdom-to-conquer.json](./279500-a-kingdom-to-conquer.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
 | A Kiss from Death | 154248 | [154248-a-kiss-from-death.json](./154248-a-kiss-from-death.json) |
