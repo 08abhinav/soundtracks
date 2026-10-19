@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometric Paradox TD | 263118 | [263118-geometric-paradox-td.json](./263118-geometric-paradox-td.json) |
 | Geometric Shapes 1: Circleboy | 322584 | [322584-geometric-shapes-1-circleboy.json](./322584-geometric-shapes-1-circleboy.json) |
 | Geometric Sniper | 133424 | [133424-geometric-sniper.json](./133424-geometric-sniper.json) |
+| Geometric Sniper Bundle | 297314 | [297314-geometric-sniper-bundle.json](./297314-geometric-sniper-bundle.json) |
 | Geometric Sniper Z | 163944 | [163944-geometric-sniper-z.json](./163944-geometric-sniper-z.json) |
 | GeometricMadness | 184897 | [184897-geometricmadness.json](./184897-geometricmadness.json) |
 | Geometrix | 159728 | [159728-geometrix.json](./159728-geometrix.json) |
@@ -4801,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Guys: Fantasy | 277903 | [277903-golf-guys-fantasy.json](./277903-golf-guys-fantasy.json) |
 | Golf Guys: Fantasy Edition | 286202 | [286202-golf-guys-fantasy-edition.json](./286202-golf-guys-fantasy-edition.json) |
 | Golf Guys: Party | 277902 | [277902-golf-guys-party.json](./277902-golf-guys-party.json) |
+| Golf Guys: Party Edition | 297300 | [297300-golf-guys-party-edition.json](./297300-golf-guys-party-edition.json) |
 | Golf Guys: Space | 277901 | [277901-golf-guys-space.json](./277901-golf-guys-space.json) |
 | Golf in Paper | 117115 | [117115-golf-in-paper.json](./117115-golf-in-paper.json) |
 | Golf In Wonderland | 320024 | [320024-golf-in-wonderland.json](./320024-golf-in-wonderland.json) |
