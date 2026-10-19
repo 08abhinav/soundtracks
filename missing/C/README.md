@@ -11965,6 +11965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cranky Cat | 16514 | [16514-cranky-cat.json](./16514-cranky-cat.json) |
 | Cranky Counter (Don't Play This Game!) | 281342 | [281342-cranky-counter-dont-play-this-game.json](./281342-cranky-counter-dont-play-this-game.json) |
 | Cranky Crabs | 397422 | [397422-cranky-crabs.json](./397422-cranky-crabs.json) |
+| Cranky Driller | 257808 | [257808-cranky-driller.json](./257808-cranky-driller.json) |
 | Cranky Food Friends | 230209 | [230209-cranky-food-friends.json](./230209-cranky-food-friends.json) |
 | Cranky Frog | 230738 | [230738-cranky-frog.json](./230738-cranky-frog.json) |
 | Cranky Jump | 418591 | [418591-cranky-jump.json](./418591-cranky-jump.json) |
@@ -13366,6 +13367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
+| Crossy Road+ | 257791 | [257791-crossy-road.json](./257791-crossy-road.json) |
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
 | Crossy Zombie | 213388 | [213388-crossy-zombie.json](./213388-crossy-zombie.json) |
