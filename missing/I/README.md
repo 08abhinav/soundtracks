@@ -3376,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside the Clockwork Pussy | 280202 | [280202-inside-the-clockwork-pussy.json](./280202-inside-the-clockwork-pussy.json) |
 | Inside the Computer | 130095 | [130095-inside-the-computer.json](./130095-inside-the-computer.json) |
 | Inside the Crow's Nest | 353383 | [353383-inside-the-crows-nest.json](./353383-inside-the-crows-nest.json) |
+| Inside The Crystal Mountain | 278891 | [278891-inside-the-crystal-mountain.json](./278891-inside-the-crystal-mountain.json) |
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
@@ -4113,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Cock: They never saw it cumming! | 154453 | [154453-invisible-cock-they-never-saw-it-cumming.json](./154453-invisible-cock-they-never-saw-it-cumming.json) |
 | Invisible Crush | 286781 | [286781-invisible-crush.json](./286781-invisible-crush.json) |
 | Invisible Fear | 274498 | [274498-invisible-fear.json](./274498-invisible-fear.json) |
+| Invisible Flow | 278906 | [278906-invisible-flow.json](./278906-invisible-flow.json) |
 | Invisible Inc.: Contingency Plan | 68275 | [68275-invisible-inc-contingency-plan.json](./68275-invisible-inc-contingency-plan.json) |
 | Invisible Love | 286774 | [286774-invisible-love.json](./286774-invisible-love.json) |
 | Invisible Mind | 32029 | [32029-invisible-mind.json](./32029-invisible-mind.json) |
