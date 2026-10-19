@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
+| 100 Hidden Cats in Games | 301590 | [301590-100-hidden-cats-in-games.json](./301590-100-hidden-cats-in-games.json) |
 | 100 hidden Cats: Kitty House | 316960 | [316960-100-hidden-cats-kitty-house.json](./316960-100-hidden-cats-kitty-house.json) |
 | 100 Hidden Cats: Kitty House 2 | 320321 | [320321-100-hidden-cats-kitty-house-2.json](./320321-100-hidden-cats-kitty-house-2.json) |
 | 100 Hidden Cats: Ninja | 334123 | [334123-100-hidden-cats-ninja.json](./334123-100-hidden-cats-ninja.json) |
@@ -2186,6 +2187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
 | 6Souls | 123954 | [123954-6souls.json](./123954-6souls.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
+| 6th Floor | 301589 | [301589-6th-floor.json](./301589-6th-floor.json) |
 | 7 | 34297 | [34297-7.json](./34297-7.json) |
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
