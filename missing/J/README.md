@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just Find It 3: Collector's Edition | 304780 | [304780-just-find-it-3-collectors-edition.json](./304780-just-find-it-3-collectors-edition.json) |
+| Just Find It 4 | 302213 | [302213-just-find-it-4.json](./302213-just-find-it-4.json) |
 | Just Find It 4: Collector's Edition | 332495 | [332495-just-find-it-4-collectors-edition.json](./332495-just-find-it-4-collectors-edition.json) |
 | Just Fishing | 68764 | [68764-just-fishing.json](./68764-just-fishing.json) |
 | Just For Killing Time | 82791 | [82791-just-for-killing-time.json](./82791-just-for-killing-time.json) |
