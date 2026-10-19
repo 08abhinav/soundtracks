@@ -4906,12 +4906,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolty-II | 237517 | [237517-revolty-ii.json](./237517-revolty-ii.json) |
 | Revolution | 295995 | [295995-revolution.json](./295995-revolution.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
 | Revolution Editions: Shadow & Steel | 361790 | [361790-revolution-editions-shadow-and-steel.json](./361790-revolution-editions-shadow-and-steel.json) |
 | Revolution Idle | 297876 | [297876-revolution-idle.json](./297876-revolution-idle.json) |
 | Revolution Kart DS | 338848 | [338848-revolution-kart-ds.json](./338848-revolution-kart-ds.json) |
 | Revolution Under Siege | 59501 | [59501-revolution-under-siege.json](./59501-revolution-under-siege.json) |
 | Revolution: Path of a Weaponsmith | 157416 | [157416-revolution-path-of-a-weaponsmith.json](./157416-revolution-path-of-a-weaponsmith.json) |
+| Revolution: The New Cycle | 261096 | [261096-revolution-the-new-cycle.json](./261096-revolution-the-new-cycle.json) |
 | Revolution: The Spark | 143659 | [143659-revolution-the-spark.json](./143659-revolution-the-spark.json) |
 | Revolution: Virtual Playspace | 34829 | [34829-revolution-virtual-playspace.json](./34829-revolution-virtual-playspace.json) |
 | Revolution: War of Independence | 212304 | [212304-revolution-war-of-independence.json](./212304-revolution-war-of-independence.json) |
