@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAGE | 400712 | [400712-mage.json](./400712-mage.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
+| Mage and Monsters II | 258330 | [258330-mage-and-monsters-ii.json](./258330-mage-and-monsters-ii.json) |
 | Mage and the Grimoire of Beast | 293203 | [293203-mage-and-the-grimoire-of-beast.json](./293203-mage-and-the-grimoire-of-beast.json) |
 | Mage Arena | 356787 | [356787-mage-arena.json](./356787-mage-arena.json) |
 | Mage Arena: Voice of Power | 376236 | [376236-mage-arena-voice-of-power.json](./376236-mage-arena-voice-of-power.json) |
@@ -10912,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
 | Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
+| Moen | 258350 | [258350-moen.json](./258350-moen.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
