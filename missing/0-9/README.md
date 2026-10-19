@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Sea Cats | 315291 | [315291-100-sea-cats.json](./315291-100-sea-cats.json) |
 | 100 Seconds | 89387 | [89387-100-seconds.json](./89387-100-seconds.json) |
 | 100 Space Cats | 288398 | [288398-100-space-cats.json](./288398-100-space-cats.json) |
+| 100 Space Cats: Extra Content | 305629 | [305629-100-space-cats-extra-content.json](./305629-100-space-cats-extra-content.json) |
 | 100 Tavern Cats | 376183 | [376183-100-tavern-cats.json](./376183-100-tavern-cats.json) |
 | 100 Tokyo Cats: Extra Content | 274585 | [274585-100-tokyo-cats-extra-content.json](./274585-100-tokyo-cats-extra-content.json) |
 | 100 Undersea Cats | 393726 | [393726-100-undersea-cats.json](./393726-100-undersea-cats.json) |
