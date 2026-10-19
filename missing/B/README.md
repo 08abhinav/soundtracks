@@ -7611,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
+| Blob Man | 287493 | [287493-blob-man.json](./287493-blob-man.json) |
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
 | Blob Quest | 213391 | [213391-blob-quest.json](./213391-blob-quest.json) |
 | Blob Wars | 294472 | [294472-blob-wars.json](./294472-blob-wars.json) |
@@ -9194,6 +9195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Them All | 188032 | [188032-bomb-them-all.json](./188032-bomb-them-all.json) |
 | Bomb Threat | 77323 | [77323-bomb-threat.json](./77323-bomb-threat.json) |
 | Bomb Threat | 77324 | [77324-bomb-threat.json](./77324-bomb-threat.json) |
+| Bomb Time | 287494 | [287494-bomb-time.json](./287494-bomb-time.json) |
 | Bomb Up | 263944 | [263944-bomb-up.json](./263944-bomb-up.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
@@ -13101,6 +13103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burrito Bison: Launcha Libre | 80360 | [80360-burrito-bison-launcha-libre.json](./80360-burrito-bison-launcha-libre.json) |
 | Burrito Galaxy 65 | 61875 | [61875-burrito-galaxy-65.json](./61875-burrito-galaxy-65.json) |
 | Burrow | 158717 | [158717-burrow.json](./158717-burrow.json) |
+| Burrow | 287496 | [287496-burrow.json](./287496-burrow.json) |
 | Burrow | 376800 | [376800-burrow.json](./376800-burrow.json) |
 | Burrow burrow | 159784 | [159784-burrow-burrow.json](./159784-burrow-burrow.json) |
 | Burrows | 178397 | [178397-burrows.json](./178397-burrows.json) |
