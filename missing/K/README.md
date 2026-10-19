@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Pet Shop Monogatari | 228580 | [228580-kawaii-pet-shop-monogatari.json](./228580-kawaii-pet-shop-monogatari.json) |
 | Kawaii Pet to Kurasou! Wan Nyan & Mini Mini Animal | 222402 | [222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json](./222402-kawaii-pet-to-kurasou-wan-nyan-and-mini-mini-animal.json) |
 | Kawaii Push | 421318 | [421318-kawaii-push.json](./421318-kawaii-push.json) |
+| Kawaii Puzzle: Girl Adventure | 290823 | [290823-kawaii-puzzle-girl-adventure.json](./290823-kawaii-puzzle-girl-adventure.json) |
 | Kawaii Rainbow Portal | 93789 | [93789-kawaii-rainbow-portal.json](./93789-kawaii-rainbow-portal.json) |
 | Kawaii Slime | 314295 | [314295-kawaii-slime.json](./314295-kawaii-slime.json) |
 | Kawaii Slime Arena | 189969 | [189969-kawaii-slime-arena.json](./189969-kawaii-slime-arena.json) |
