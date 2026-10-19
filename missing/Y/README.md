@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeti Ski | 350228 | [350228-yeti-ski.json](./350228-yeti-ski.json) |
 | Yeti Sports: Pingu Throw | 66983 | [66983-yeti-sports-pingu-throw.json](./66983-yeti-sports-pingu-throw.json) |
 | Yeti's Parole Officer | 83598 | [83598-yetis-parole-officer.json](./83598-yetis-parole-officer.json) |
+| YetiFree | 269998 | [269998-yetifree.json](./269998-yetifree.json) |
 | YetiSports | 202185 | [202185-yetisports.json](./202185-yetisports.json) |
 | Yetisports Arctic Adventure | 43239 | [43239-yetisports-arctic-adventure.json](./43239-yetisports-arctic-adventure.json) |
 | Yetisports Deluxe | 44774 | [44774-yetisports-deluxe.json](./44774-yetisports-deluxe.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Future Self | 115498 | [115498-your-future-self.json](./115498-your-future-self.json) |
 | Your Girl | 118997 | [118997-your-girl.json](./118997-your-girl.json) |
 | Your God Is False | 336903 | [336903-your-god-is-false.json](./336903-your-god-is-false.json) |
+| Your Holy & Virtuous Heretic | 269990 | [269990-your-holy-and-virtuous-heretic.json](./269990-your-holy-and-virtuous-heretic.json) |
 | Your House | 274758 | [274758-your-house.json](./274758-your-house.json) |
 | Your Human is Sick | 149008 | [149008-your-human-is-sick.json](./149008-your-human-is-sick.json) |
 | Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
