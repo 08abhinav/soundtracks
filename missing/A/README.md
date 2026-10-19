@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Battles: Sky Defender | 61478 | [61478-air-battles-sky-defender.json](./61478-air-battles-sky-defender.json) |
 | Air Blitz | 379521 | [379521-air-blitz.json](./379521-air-blitz.json) |
 | Air Blocks | 206101 | [206101-air-blocks.json](./206101-air-blocks.json) |
+| Air Bob | 266637 | [266637-air-bob.json](./266637-air-bob.json) |
 | Air Bounce: The Jump 'n' Run Challenge | 142697 | [142697-air-bounce-the-jump-n-run-challenge.json](./142697-air-bounce-the-jump-n-run-challenge.json) |
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
