@@ -3962,6 +3962,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Prison Obby: Getaway | 389054 | [389054-escape-prison-obby-getaway.json](./389054-escape-prison-obby-getaway.json) |
 | Escape Protocol | 359859 | [359859-escape-protocol.json](./359859-escape-protocol.json) |
 | Escape Protocol: Hospital | 369754 | [369754-escape-protocol-hospital.json](./369754-escape-protocol-hospital.json) |
+| Escape PS2 Hagrid | 284232 | [284232-escape-ps2-hagrid.json](./284232-escape-ps2-hagrid.json) |
+| Escape PS3 Hagrid | 284234 | [284234-escape-ps3-hagrid.json](./284234-escape-ps3-hagrid.json) |
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
