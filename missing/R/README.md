@@ -6134,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Legends: A Fly Fishing Adventure | 120706 | [120706-river-legends-a-fly-fishing-adventure.json](./120706-river-legends-a-fly-fishing-adventure.json) |
 | River Master | 158943 | [158943-river-master.json](./158943-river-master.json) |
 | River Patrol | 18478 | [18478-river-patrol.json](./18478-river-patrol.json) |
+| River Pirates | 264499 | [264499-river-pirates.json](./264499-river-pirates.json) |
 | River Raid | 5693 | [5693-river-raid.json](./5693-river-raid.json) |
 | River Raid 3D | 204070 | [204070-river-raid-3d.json](./204070-river-raid-3d.json) |
 | River Rescue | 23897 | [23897-river-rescue.json](./23897-river-rescue.json) |
