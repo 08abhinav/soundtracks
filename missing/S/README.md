@@ -5321,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shallow Sea Roaming | 298187 | [298187-shallow-sea-roaming.json](./298187-shallow-sea-roaming.json) |
 | Shallow Space | 17516 | [17516-shallow-space.json](./17516-shallow-space.json) |
 | Shallow Swing | 83801 | [83801-shallow-swing.json](./83801-shallow-swing.json) |
+| Shallow World | 269458 | [269458-shallow-world.json](./269458-shallow-world.json) |
 | Shalnor Legends 2: Trials of Thunder | 232702 | [232702-shalnor-legends-2-trials-of-thunder.json](./232702-shalnor-legends-2-trials-of-thunder.json) |
 | Shalnor Legends: Sacred Lands | 69498 | [69498-shalnor-legends-sacred-lands.json](./69498-shalnor-legends-sacred-lands.json) |
 | Shalnor: Silverwind Saga | 319443 | [319443-shalnor-silverwind-saga.json](./319443-shalnor-silverwind-saga.json) |
@@ -15552,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
 | Spell Candle | 337299 | [337299-spell-candle.json](./337299-spell-candle.json) |
+| Spell Card Collection | 269456 | [269456-spell-card-collection.json](./269456-spell-card-collection.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
 | Spell Casting | 135624 | [135624-spell-casting.json](./135624-spell-casting.json) |
 | Spell Casting: Purrfectly Portable Edition | 119541 | [119541-spell-casting-purrfectly-portable-edition.json](./119541-spell-casting-purrfectly-portable-edition.json) |
