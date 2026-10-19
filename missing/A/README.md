@@ -9092,6 +9092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Space Cruiser | 165601 | [165601-arcade-archives-space-cruiser.json](./165601-arcade-archives-space-cruiser.json) |
 | Arcade Archives: Star Force | 75707 | [75707-arcade-archives-star-force.json](./75707-arcade-archives-star-force.json) |
 | Arcade Archives: Street Smart | 399296 | [399296-arcade-archives-street-smart.json](./399296-arcade-archives-street-smart.json) |
+| Arcade Archives: Strike Gunner | 267771 | [267771-arcade-archives-strike-gunner.json](./267771-arcade-archives-strike-gunner.json) |
 | Arcade Archives: Sunset Riders | 135574 | [135574-arcade-archives-sunset-riders.json](./135574-arcade-archives-sunset-riders.json) |
 | Arcade Archives: Super Basketball | 356501 | [356501-arcade-archives-super-basketball.json](./356501-arcade-archives-super-basketball.json) |
 | Arcade Archives: Super Cobra | 147119 | [147119-arcade-archives-super-cobra.json](./147119-arcade-archives-super-cobra.json) |
