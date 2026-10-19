@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taboo Village: Romance Card Game | 415953 | [415953-taboo-village-romance-card-game.json](./415953-taboo-village-romance-card-game.json) |
 | Taboo: Official Party Game | 376140 | [376140-taboo-official-party-game.json](./376140-taboo-official-party-game.json) |
 | Taboo: The Sixth Sense | 288038 | [288038-taboo-the-sixth-sense.json](./288038-taboo-the-sixth-sense.json) |
+| Taboos: Cracks | 284239 | [284239-taboos-cracks.json](./284239-taboos-cracks.json) |
 | Tabou Stories: Love Episodes | 311675 | [311675-tabou-stories-love-episodes.json](./311675-tabou-stories-love-episodes.json) |
 | TabTab Apocalypse | 233463 | [233463-tabtab-apocalypse.json](./233463-tabtab-apocalypse.json) |
 | Tabu Oyunu XL - Pro | 105950 | [105950-tabu-oyunu-xl-pro.json](./105950-tabu-oyunu-xl-pro.json) |
@@ -1939,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
+| Tarzan | 284219 | [284219-tarzan.json](./284219-tarzan.json) |
 | Tarzan | 304200 | [304200-tarzan.json](./304200-tarzan.json) |
 | Tarzan Goes Ape! | 93160 | [93160-tarzan-goes-ape.json](./93160-tarzan-goes-ape.json) |
 | Tarzan Unleashed | 120245 | [120245-tarzan-unleashed.json](./120245-tarzan-unleashed.json) |
@@ -4066,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
 | The Admin | 34008 | [34008-the-admin.json](./34008-the-admin.json) |
+| The Adventure of 30 Cents | 284251 | [284251-the-adventure-of-30-cents.json](./284251-the-adventure-of-30-cents.json) |
 | The Adventure of Amethyst Knight | 368028 | [368028-the-adventure-of-amethyst-knight.json](./368028-the-adventure-of-amethyst-knight.json) |
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
@@ -8021,6 +8024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
 | The Hunted Witch | 252678 | [252678-the-hunted-witch.json](./252678-the-hunted-witch.json) |
+| The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
@@ -8107,6 +8111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immolation Apartment | 412904 | [412904-the-immolation-apartment.json](./412904-the-immolation-apartment.json) |
 | The Immortal | 187982 | [187982-the-immortal.json](./187982-the-immortal.json) |
 | The Immortal | 4444 | [4444-the-immortal.json](./4444-the-immortal.json) |
+| The Immortal Beloved 2 | 284262 | [284262-the-immortal-beloved-2.json](./284262-the-immortal-beloved-2.json) |
 | The Immortal Is Watching | 403077 | [403077-the-immortal-is-watching.json](./403077-the-immortal-is-watching.json) |
 | The Immortal Lock | 308269 | [308269-the-immortal-lock.json](./308269-the-immortal-lock.json) |
 | The Immortal Mayor | 152377 | [152377-the-immortal-mayor.json](./152377-the-immortal-mayor.json) |
@@ -11755,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
+| The Sea and You | 284249 | [284249-the-sea-and-you.json](./284249-the-sea-and-you.json) |
 | The Sea Has No Claim | 185646 | [185646-the-sea-has-no-claim.json](./185646-the-sea-has-no-claim.json) |
 | The Sea Hotel: Umineko Tei | 169416 | [169416-the-sea-hotel-umineko-tei.json](./169416-the-sea-hotel-umineko-tei.json) |
 | The Sea Is Our Stage | 415994 | [415994-the-sea-is-our-stage.json](./415994-the-sea-is-our-stage.json) |
@@ -14867,6 +14873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas the Tank Engine & Friends | 284218 | [284218-thomas-the-tank-engine-and-friends.json](./284218-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
@@ -15225,6 +15232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
 | Thunder Trucks: Heavy Racers | 409508 | [409508-thunder-trucks-heavy-racers.json](./409508-thunder-trucks-heavy-racers.json) |
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
+| Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
@@ -22987,6 +22995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
 | Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
+| Tron | 284223 | [284223-tron.json](./284223-tron.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 5247 | [5247-tron.json](./5247-tron.json) |
 | Tron | 89933 | [89933-tron.json](./89933-tron.json) |
