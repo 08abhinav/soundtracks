@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keanu Reeves Dating Sim | 176300 | [176300-keanu-reeves-dating-sim.json](./176300-keanu-reeves-dating-sim.json) |
 | Keaton's Adventure | 303611 | [303611-keatons-adventure.json](./303611-keatons-adventure.json) |
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
+| Kebab Bar Tycoon | 280070 | [280070-kebab-bar-tycoon.json](./280070-kebab-bar-tycoon.json) |
 | Kebab Bar Tycoon: Extended Edition | 295675 | [295675-kebab-bar-tycoon-extended-edition.json](./295675-kebab-bar-tycoon-extended-edition.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom: The Blood | 174852 | [174852-kingdom-the-blood.json](./174852-kingdom-the-blood.json) |
 | Kingdom: The Blood Pledge | 226759 | [226759-kingdom-the-blood-pledge.json](./226759-kingdom-the-blood-pledge.json) |
 | Kingdom: Two Crowns - Royal Edition | 154953 | [154953-kingdom-two-crowns-royal-edition.json](./154953-kingdom-two-crowns-royal-edition.json) |
+| Kingdom's Deck | 280095 | [280095-kingdoms-deck.json](./280095-kingdoms-deck.json) |
 | Kingdom's Gambit | 264038 | [264038-kingdoms-gambit.json](./264038-kingdoms-gambit.json) |
 | Kingdom's Life | 189177 | [189177-kingdoms-life.json](./189177-kingdoms-life.json) |
 | Kingdom's Return: Time-Eating Fruit and the Ancient Monster - "Azure Striker Gunvolt" Crossover Character Skin | 395690 | [395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json](./395690-kingdoms-return-time-eating-fruit-and-the-ancient-monster-azure-striker-gunvolt-crossover-character-skin.json) |
