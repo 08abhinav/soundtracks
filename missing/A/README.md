@@ -6526,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
 | Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
+| Anaphora | 274916 | [274916-anaphora.json](./274916-anaphora.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
 | Anarchitects | 299597 | [299597-anarchitects.json](./299597-anarchitects.json) |
 | Anarchy | 14163 | [14163-anarchy.json](./14163-anarchy.json) |
@@ -8902,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cybattler | 145373 | [145373-arcade-archives-cybattler.json](./145373-arcade-archives-cybattler.json) |
 | Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
+| Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
 | Arcade Archives: Darius | 121426 | [121426-arcade-archives-darius.json](./121426-arcade-archives-darius.json) |
 | Arcade Archives: Dead Connection | 334087 | [334087-arcade-archives-dead-connection.json](./334087-arcade-archives-dead-connection.json) |
 | Arcade Archives: Dinorex | 276863 | [276863-arcade-archives-dinorex.json](./276863-arcade-archives-dinorex.json) |
