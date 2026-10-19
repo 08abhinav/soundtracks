@@ -2790,6 +2790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 64 HD | 229075 | [229075-mario-kart-64-hd.json](./229075-mario-kart-64-hd.json) |
 | Mario Kart 64 ITEM BLAST | 374679 | [374679-mario-kart-64-item-blast.json](./374679-mario-kart-64-item-blast.json) |
 | Mario Kart 64 Randomizer | 210604 | [210604-mario-kart-64-randomizer.json](./210604-mario-kart-64-randomizer.json) |
+| Mario Kart 64 Remade | 290274 | [290274-mario-kart-64-remade.json](./290274-mario-kart-64-remade.json) |
 | Mario Kart 64: Amped Up | 155010 | [155010-mario-kart-64-amped-up.json](./155010-mario-kart-64-amped-up.json) |
 | Mario Kart 64: Amped Up - Version 3 | 358307 | [358307-mario-kart-64-amped-up-version-3.json](./358307-mario-kart-64-amped-up-version-3.json) |
 | Mario Kart 64: Hooting Time | 248303 | [248303-mario-kart-64-hooting-time.json](./248303-mario-kart-64-hooting-time.json) |
@@ -4676,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes and Labyrinths | 104728 | [104728-mazes-and-labyrinths.json](./104728-mazes-and-labyrinths.json) |
 | Mazes and Mages | 102721 | [102721-mazes-and-mages.json](./102721-mazes-and-mages.json) |
 | Mazes and Mages 2 | 121778 | [121778-mazes-and-mages-2.json](./121778-mazes-and-mages-2.json) |
+| Mazes of Karradash | 290269 | [290269-mazes-of-karradash.json](./290269-mazes-of-karradash.json) |
 | Mazes of Karradash 2 | 175430 | [175430-mazes-of-karradash-2.json](./175430-mazes-of-karradash-2.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
@@ -7353,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
 | Meteora's Mystic Merge | 285146 | [285146-meteoras-mystic-merge.json](./285146-meteoras-mystic-merge.json) |
+| MeteoRain | 290244 | [290244-meteorain.json](./290244-meteorain.json) |
 | Meteorder | 317977 | [317977-meteorder.json](./317977-meteorder.json) |
 | Meteorfall: Journey | 88223 | [88223-meteorfall-journey.json](./88223-meteorfall-journey.json) |
 | Meteorfall: Krumit's Tale | 98379 | [98379-meteorfall-krumits-tale.json](./98379-meteorfall-krumits-tale.json) |
@@ -8145,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Crane | 353793 | [353793-midnight-crane.json](./353793-midnight-crane.json) |
 | Midnight Crimes | 304142 | [304142-midnight-crimes.json](./304142-midnight-crimes.json) |
 | Midnight Cruise | 296377 | [296377-midnight-cruise.json](./296377-midnight-cruise.json) |
+| Midnight Custody | 290255 | [290255-midnight-custody.json](./290255-midnight-custody.json) |
 | Midnight Cycle in Muxi Town | 249734 | [249734-midnight-cycle-in-muxi-town.json](./249734-midnight-cycle-in-muxi-town.json) |
 | Midnight Date Unleashed | 367765 | [367765-midnight-date-unleashed.json](./367765-midnight-date-unleashed.json) |
 | Midnight Dice | 323788 | [323788-midnight-dice.json](./323788-midnight-dice.json) |
