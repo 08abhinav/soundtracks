@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacra Terra: Kiss of Death - Collector's Edition | 30386 | [30386-sacra-terra-kiss-of-death-collectors-edition.json](./30386-sacra-terra-kiss-of-death-collectors-edition.json) |
 | Sacra: Falling of Myrd | 331692 | [331692-sacra-falling-of-myrd.json](./331692-sacra-falling-of-myrd.json) |
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
+| Sacrament | 263363 | [263363-sacrament.json](./263363-sacrament.json) |
 | Sacrament | 285930 | [285930-sacrament.json](./285930-sacrament.json) |
 | Sacrament i. | 178499 | [178499-sacrament-i.json](./178499-sacrament-i.json) |
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Defiance: The Wall Between Us | 291149 | [291149-scarlet-defiance-the-wall-between-us.json](./291149-scarlet-defiance-the-wall-between-us.json) |
 | Scarlet Enigma | 337505 | [337505-scarlet-enigma.json](./337505-scarlet-enigma.json) |
 | Scarlet Fantasy | 111570 | [111570-scarlet-fantasy.json](./111570-scarlet-fantasy.json) |
+| Scarlet Gazers | 263334 | [263334-scarlet-gazers.json](./263334-scarlet-gazers.json) |
 | Scarlet Girls | 328211 | [328211-scarlet-girls.json](./328211-scarlet-girls.json) |
 | Scarlet Hollow | 139194 | [139194-scarlet-hollow.json](./139194-scarlet-hollow.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
@@ -3775,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
 | Sega Smash Pack 2 | 74302 | [74302-sega-smash-pack-2.json](./74302-sega-smash-pack-2.json) |
 | Sega Smash Pack: Twin Pack | 136874 | [136874-sega-smash-pack-twin-pack.json](./136874-sega-smash-pack-twin-pack.json) |
+| Sega Soccer | 263353 | [263353-sega-soccer.json](./263353-sega-soccer.json) |
 | Sega Soccer Slam | 4102 | [4102-sega-soccer-slam.json](./4102-sega-soccer-slam.json) |
 | Sega Splash! Golf | 136872 | [136872-sega-splash-golf.json](./136872-sega-splash-golf.json) |
 | Sega Strike Fighter | 112506 | [112506-sega-strike-fighter.json](./112506-sega-strike-fighter.json) |
@@ -4347,6 +4350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
 | Serpent: Resurrection | 268877 | [268877-serpent-resurrection.json](./268877-serpent-resurrection.json) |
+| Serpent's Wake | 263361 | [263361-serpents-wake.json](./263361-serpents-wake.json) |
 | Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
@@ -6907,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Memories | 340372 | [340372-short-memories.json](./340372-short-memories.json) |
 | Short Night | 266773 | [266773-short-night.json](./266773-short-night.json) |
 | Short Peace: Ranko Tsukigime's Longest Day | 21710 | [21710-short-peace-ranko-tsukigimes-longest-day.json](./21710-short-peace-ranko-tsukigimes-longest-day.json) |
+| Short Piece | 263335 | [263335-short-piece.json](./263335-short-piece.json) |
 | Short Rest | 177255 | [177255-short-rest.json](./177255-short-rest.json) |
 | Short Sad Stories | 278364 | [278364-short-sad-stories.json](./278364-short-sad-stories.json) |
 | Short Scary Stories | 126892 | [126892-short-scary-stories.json](./126892-short-scary-stories.json) |
@@ -10276,6 +10281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge Life | 131705 | [131705-sludge-life.json](./131705-sludge-life.json) |
 | Sludge Life 2 | 242597 | [242597-sludge-life-2.json](./242597-sludge-life-2.json) |
 | Sludge Life: The Big Mud Sessions | 254974 | [254974-sludge-life-the-big-mud-sessions.json](./254974-sludge-life-the-big-mud-sessions.json) |
+| Sludge Witch | 263336 | [263336-sludge-witch.json](./263336-sludge-witch.json) |
 | Sludgineers | 389622 | [389622-sludgineers.json](./389622-sludgineers.json) |
 | Slug Blast | 28893 | [28893-slug-blast.json](./28893-slug-blast.json) |
 | Slug Gear | 257996 | [257996-slug-gear.json](./257996-slug-gear.json) |
@@ -16919,6 +16925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprocket Rocket: Design and Conquer | 320885 | [320885-sprocket-rocket-design-and-conquer.json](./320885-sprocket-rocket-design-and-conquer.json) |
 | Sproggiwood | 14686 | [14686-sproggiwood.json](./14686-sproggiwood.json) |
 | Sproing | 329401 | [329401-sproing.json](./329401-sproing.json) |
+| Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
 | Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
@@ -20065,6 +20072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Burying Me Alive, Beautiful! | 270154 | [270154-stop-burying-me-alive-beautiful.json](./270154-stop-burying-me-alive-beautiful.json) |
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
+| Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
@@ -25766,6 +25774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweep | 163964 | [163964-sweep.json](./163964-sweep.json) |
 | Sweep Bump | 389533 | [389533-sweep-bump.json](./389533-sweep-bump.json) |
 | Sweep City | 329683 | [329683-sweep-city.json](./329683-sweep-city.json) |
+| Sweep It! | 263337 | [263337-sweep-it.json](./263337-sweep-it.json) |
 | Sweep Maidens | 320306 | [320306-sweep-maidens.json](./320306-sweep-maidens.json) |
 | Sweep Squad | 384179 | [384179-sweep-squad.json](./384179-sweep-squad.json) |
 | Sweep Strike | 376540 | [376540-sweep-strike.json](./376540-sweep-strike.json) |
