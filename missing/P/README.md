@@ -12496,6 +12496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychomachia | 361048 | [361048-psychomachia.json](./361048-psychomachia.json) |
 | Psychometrer Eiji | 277231 | [277231-psychometrer-eiji.json](./277231-psychometrer-eiji.json) |
 | Psychometric Personality Profiler | 292402 | [292402-psychometric-personality-profiler.json](./292402-psychometric-personality-profiler.json) |
+| Psychon | 266645 | [266645-psychon.json](./266645-psychon.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
 | Psychopath Hunt Two | 290796 | [290796-psychopath-hunt-two.json](./290796-psychopath-hunt-two.json) |
