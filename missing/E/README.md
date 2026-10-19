@@ -4516,6 +4516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euchre 3D Pro | 86836 | [86836-euchre-3d-pro.json](./86836-euchre-3d-pro.json) |
 | Euchre by Webfoot | 88323 | [88323-euchre-by-webfoot.json](./88323-euchre-by-webfoot.json) |
 | Euclid Valley | 348375 | [348375-euclid-valley.json](./348375-euclid-valley.json) |
+| Euclid's Inferno | 304994 | [304994-euclids-inferno.json](./304994-euclids-inferno.json) |
 | Euclidean | 13141 | [13141-euclidean.json](./13141-euclidean.json) |
 | Euclyca | 158031 | [158031-euclyca.json](./158031-euclyca.json) |
 | EUcraft | 398401 | [398401-eucraft.json](./398401-eucraft.json) |
@@ -5380,6 +5381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excuse Me | 202010 | [202010-excuse-me.json](./202010-excuse-me.json) |
 | Excycle | 266864 | [266864-excycle.json](./266864-excycle.json) |
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
+| ExE | 304991 | [304991-exe.json](./304991-exe.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
 | Exector | 43797 | [43797-exector.json](./43797-exector.json) |
 | Executanks | 184880 | [184880-executanks.json](./184880-executanks.json) |
