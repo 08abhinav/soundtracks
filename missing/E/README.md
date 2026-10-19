@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Tactics | 292379 | [292379-endless-tactics.json](./292379-endless-tactics.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
+| Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
 | Endless Turns | 117807 | [117807-endless-turns.json](./117807-endless-turns.json) |
 | Endless TV Tycoon | 352855 | [352855-endless-tv-tycoon.json](./352855-endless-tv-tycoon.json) |
 | Endless Vine | 374798 | [374798-endless-vine.json](./374798-endless-vine.json) |
@@ -4043,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Among Us | 280413 | [280413-escape-simulator-among-us.json](./280413-escape-simulator-among-us.json) |
 | Escape Simulator: Magic DLC | 293464 | [293464-escape-simulator-magic-dlc.json](./293464-escape-simulator-magic-dlc.json) |
 | Escape Simulator: Mayan DLC | 321345 | [321345-escape-simulator-mayan-dlc.json](./321345-escape-simulator-mayan-dlc.json) |
+| Escape Simulator: Portal Escape Chamber | 261137 | [261137-escape-simulator-portal-escape-chamber.json](./261137-escape-simulator-portal-escape-chamber.json) |
 | Escape Simulator: PowerWash DLC | 306583 | [306583-escape-simulator-powerwash-dlc.json](./306583-escape-simulator-powerwash-dlc.json) |
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
@@ -5460,6 +5462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
+| Excit | 261087 | [261087-excit.json](./261087-excit.json) |
 | Excite Invader | 138024 | [138024-excite-invader.json](./138024-excite-invader.json) |
 | Excite League | 40112 | [40112-excite-league.json](./40112-excite-league.json) |
 | Excite Mahjong | 80200 | [80200-excite-mahjong.json](./80200-excite-mahjong.json) |
