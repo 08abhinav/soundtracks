@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dah-Varsity | 304205 | [304205-dah-varsity.json](./304205-dah-varsity.json) |
 | Dahalo | 127252 | [127252-dahalo.json](./127252-dahalo.json) |
 | Dahlia | 58839 | [58839-dahlia.json](./58839-dahlia.json) |
+| Dahlia: Lasciatemi morire | 275476 | [275476-dahlia-lasciatemi-morire.json](./275476-dahlia-lasciatemi-morire.json) |
 | Dahliphoria | 224768 | [224768-dahliphoria.json](./224768-dahliphoria.json) |
 | Dahna: Megami Tanjou | 46185 | [46185-dahna-megami-tanjou.json](./46185-dahna-megami-tanjou.json) |
 | Dàhuà Xīyóu | 92606 | [92606-dahua-xiyou.json](./92606-dahua-xiyou.json) |
@@ -13729,6 +13730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust and Salt | 81742 | [81742-dust-and-salt.json](./81742-dust-and-salt.json) |
 | Dust and Salt: Battle for Murk Gamebook | 107038 | [107038-dust-and-salt-battle-for-murk-gamebook.json](./107038-dust-and-salt-battle-for-murk-gamebook.json) |
 | Dust and Sorcery | 385222 | [385222-dust-and-sorcery.json](./385222-dust-and-sorcery.json) |
+| Dust Breeding | 275470 | [275470-dust-breeding.json](./275470-dust-breeding.json) |
 | Dust Bunnies | 185554 | [185554-dust-bunnies.json](./185554-dust-bunnies.json) |
 | Dust Bunny | 342764 | [342764-dust-bunny.json](./342764-dust-bunny.json) |
 | Dust Bunny Simulator | 412484 | [412484-dust-bunny-simulator.json](./412484-dust-bunny-simulator.json) |
