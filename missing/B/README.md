@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Soccer Manager | 197235 | [197235-bad-soccer-manager.json](./197235-bad-soccer-manager.json) |
 | Bad Stars | 130343 | [130343-bad-stars.json](./130343-bad-stars.json) |
 | Bad Status Dragon Rider | 365451 | [365451-bad-status-dragon-rider.json](./365451-bad-status-dragon-rider.json) |
+| Bad Student Driver: Swing Ride | 259975 | [259975-bad-student-driver-swing-ride.json](./259975-bad-student-driver-swing-ride.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
@@ -7813,6 +7814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Paradise | 303362 | [303362-block-paradise.json](./303362-block-paradise.json) |
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
+| Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
 | Block Pooper 9 | 112466 | [112466-block-pooper-9.json](./112466-block-pooper-9.json) |
@@ -8466,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloomers 2000 | 270690 | [270690-bloomers-2000.json](./270690-bloomers-2000.json) |
 | Bloomies | 175427 | [175427-bloomies.json](./175427-bloomies.json) |
 | Bloomies | 388722 | [388722-bloomies.json](./388722-bloomies.json) |
+| Blooming | 259989 | [259989-blooming.json](./259989-blooming.json) |
 | Blooming Ashes | 407540 | [407540-blooming-ashes.json](./407540-blooming-ashes.json) |
 | Blooming Business: Casino | 151543 | [151543-blooming-business-casino.json](./151543-blooming-business-casino.json) |
 | Blooming Cards | 377054 | [377054-blooming-cards.json](./377054-blooming-cards.json) |
