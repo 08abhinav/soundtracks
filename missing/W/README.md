@@ -5116,6 +5116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke or Nah | 355532 | [355532-woke-or-nah.json](./355532-woke-or-nah.json) |
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
+| Woks | 262190 | [262190-woks.json](./262190-woks.json) |
 | Wolf | 232000 | [232000-wolf.json](./232000-wolf.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
 | Wolf & Eggs! | 178532 | [178532-wolf-and-eggs.json](./178532-wolf-and-eggs.json) |
