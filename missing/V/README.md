@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
 | Void Strife | 244209 | [244209-void-strife.json](./244209-void-strife.json) |
 | Void Surfer | 157096 | [157096-void-surfer.json](./157096-void-surfer.json) |
+| Void Survivors | 260525 | [260525-void-survivors.json](./260525-void-survivors.json) |
 | Void Tech | 346535 | [346535-void-tech.json](./346535-void-tech.json) |
 | Void Terrarium | 122721 | [122721-void-terrarium.json](./122721-void-terrarium.json) |
 | Void Terrarium: Limited Edition | 167108 | [167108-void-terrarium-limited-edition.json](./167108-void-terrarium-limited-edition.json) |
