@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
 | Segment | 93728 | [93728-segment.json](./93728-segment.json) |
+| Segredos do Mar | 262213 | [262213-segredos-do-mar.json](./262213-segredos-do-mar.json) |
 | Sehoni Island: Monsters and Adventures | 236843 | [236843-sehoni-island-monsters-and-adventures.json](./236843-sehoni-island-monsters-and-adventures.json) |
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
 | Sei Monmusu Gakuen | 77606 | [77606-sei-monmusu-gakuen.json](./77606-sei-monmusu-gakuen.json) |
@@ -8548,6 +8549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
+| Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
 | Sir Eatsalot | 69340 | [69340-sir-eatsalot.json](./69340-sir-eatsalot.json) |
 | Sir Erik | 301439 | [301439-sir-erik.json](./301439-sir-erik.json) |
@@ -19366,6 +19368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
 | Steel Tide | 27613 | [27613-steel-tide.json](./27613-steel-tide.json) |
+| Steel Titan | 262185 | [262185-steel-titan.json](./262185-steel-titan.json) |
 | Steel Titans | 392869 | [392869-steel-titans.json](./392869-steel-titans.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
@@ -26508,6 +26511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphone | 339425 | [339425-symphone.json](./339425-symphone.json) |
 | Symphoni | 334890 | [334890-symphoni.json](./334890-symphoni.json) |
 | Symphonia | 263008 | [263008-symphonia.json](./263008-symphonia.json) |
+| Symphonic Rain | 262202 | [262202-symphonic-rain.json](./262202-symphonic-rain.json) |
 | Symphonica | 63584 | [63584-symphonica.json](./63584-symphonica.json) |
 | Symphonica 64 | 110266 | [110266-symphonica-64.json](./110266-symphonica-64.json) |
 | Symphonics | 107934 | [107934-symphonics.json](./107934-symphonics.json) |
@@ -26754,6 +26758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SysAdmin Odyssey: Back to the office | 293870 | [293870-sysadmin-odyssey-back-to-the-office.json](./293870-sysadmin-odyssey-back-to-the-office.json) |
 | Sysop | 130950 | [130950-sysop.json](./130950-sysop.json) |
 | SysOps Saga | 279482 | [279482-sysops-saga.json](./279482-sysops-saga.json) |
+| System 15000 | 262189 | [262189-system-15000.json](./262189-system-15000.json) |
 | System 21 | 404057 | [404057-system-21.json](./404057-system-21.json) |
 | System Aimed for Salvation | 184816 | [184816-system-aimed-for-salvation.json](./184816-system-aimed-for-salvation.json) |
 | System City | 257403 | [257403-system-city.json](./257403-system-city.json) |
