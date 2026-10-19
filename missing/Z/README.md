@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
 | Zelda 64: Recompiled - Ocarina of Time | 301110 | [301110-zelda-64-recompiled-ocarina-of-time.json](./301110-zelda-64-recompiled-ocarina-of-time.json) |
+| Zelda 64: Shifting Sand Dungeon | 300250 | [300250-zelda-64-shifting-sand-dungeon.json](./300250-zelda-64-shifting-sand-dungeon.json) |
 | Zelda Again: Link Is Adventuresome | 344251 | [344251-zelda-again-link-is-adventuresome.json](./344251-zelda-again-link-is-adventuresome.json) |
 | Zelda Chuánshuō: Sān Shén zhī Lì | 163216 | [163216-zelda-chuanshuo-san-shen-zhi-li.json](./163216-zelda-chuanshuo-san-shen-zhi-li.json) |
 | Zelda Classic | 135127 | [135127-zelda-classic.json](./135127-zelda-classic.json) |
