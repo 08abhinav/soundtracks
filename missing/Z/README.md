@@ -932,6 +932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Paradigm | 353874 | [353874-zodiac-paradigm.json](./353874-zodiac-paradigm.json) |
 | Zodiac Quest | 315894 | [315894-zodiac-quest.json](./315894-zodiac-quest.json) |
 | Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
+| Zodiac Revenger | 274358 | [274358-zodiac-revenger.json](./274358-zodiac-revenger.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
 | Zodiakalik | 161363 | [161363-zodiakalik.json](./161363-zodiakalik.json) |
 | Zodiarc | 331135 | [331135-zodiarc.json](./331135-zodiarc.json) |
