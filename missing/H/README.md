@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardest Game About Jumping | 346390 | [346390-hardest-game-about-jumping.json](./346390-hardest-game-about-jumping.json) |
 | Hardest Game Ever 2 | 199921 | [199921-hardest-game-ever-2.json](./199921-hardest-game-ever-2.json) |
 | Hardest Harvest | 139681 | [139681-hardest-harvest.json](./139681-hardest-harvest.json) |
+| Hardfest | 261136 | [261136-hardfest.json](./261136-hardfest.json) |
 | Hardfest 2 | 280906 | [280906-hardfest-2.json](./280906-hardfest-2.json) |
 | Hardhat Wombat | 244511 | [244511-hardhat-wombat.json](./244511-hardhat-wombat.json) |
 | HardLander | 95327 | [95327-hardlander.json](./95327-hardlander.json) |
