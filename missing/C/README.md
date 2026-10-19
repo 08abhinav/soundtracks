@@ -10217,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Convolution of Fear | 250857 | [250857-convolution-of-fear.json](./250857-convolution-of-fear.json) |
 | Convoy Raider | 13514 | [13514-convoy-raider.json](./13514-convoy-raider.json) |
 | Convrgence | 269281 | [269281-convrgence.json](./269281-convrgence.json) |
+| Convrgence: Supporter Pack | 304461 | [304461-convrgence-supporter-pack.json](./304461-convrgence-supporter-pack.json) |
 | Conway | 282112 | [282112-conway.json](./282112-conway.json) |
 | Conway's Game of Life | 77879 | [77879-conways-game-of-life.json](./77879-conways-game-of-life.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
