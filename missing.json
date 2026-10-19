@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T09:48:27.498Z",
-  "total_missing": 232427,
+  "generated_at": "2026-10-19T10:03:29.353Z",
+  "total_missing": 232477,
   "games": [
     {
       "igdb_id": 191680,
@@ -112437,6 +112437,11 @@
       "file": "missing/B/103887-black-fighter-super-shadow-fight.json"
     },
     {
+      "igdb_id": 286428,
+      "game_name": "Black Fire",
+      "file": "missing/B/286428-black-fire.json"
+    },
+    {
       "igdb_id": 46087,
       "game_name": "Black Fire",
       "file": "missing/B/46087-black-fire.json"
@@ -116660,6 +116665,11 @@
       "igdb_id": 379348,
       "game_name": "Blind Box",
       "file": "missing/B/379348-blind-box.json"
+    },
+    {
+      "igdb_id": 286396,
+      "game_name": "Blind Date 3D",
+      "file": "missing/B/286396-blind-date-3d.json"
     },
     {
       "igdb_id": 316640,
@@ -168140,6 +168150,11 @@
       "igdb_id": 25521,
       "game_name": "Chaos Heroes",
       "file": "missing/C/25521-chaos-heroes.json"
+    },
+    {
+      "igdb_id": 286427,
+      "game_name": "Chaos Heroes Online",
+      "file": "missing/C/286427-chaos-heroes-online.json"
     },
     {
       "igdb_id": 15873,
@@ -219737,6 +219752,11 @@
       "file": "missing/C/219747-custombullet.json"
     },
     {
+      "igdb_id": 286398,
+      "game_name": "Customer Cums First!",
+      "file": "missing/C/286398-customer-cums-first.json"
+    },
+    {
       "igdb_id": 296715,
       "game_name": "Customer Disservice",
       "file": "missing/C/296715-customer-disservice.json"
@@ -250900,6 +250920,11 @@
       "igdb_id": 301915,
       "game_name": "Detective Lin: Time Murder Frenzy",
       "file": "missing/D/301915-detective-lin-time-murder-frenzy.json"
+    },
+    {
+      "igdb_id": 286424,
+      "game_name": "Detective Luigi",
+      "file": "missing/D/286424-detective-luigi.json"
     },
     {
       "igdb_id": 357365,
@@ -298337,6 +298362,11 @@
       "file": "missing/E/210662-effing-worms.json"
     },
     {
+      "igdb_id": 286420,
+      "game_name": "Efflorescence of Lust",
+      "file": "missing/E/286420-efflorescence-of-lust.json"
+    },
+    {
       "igdb_id": 265655,
       "game_name": "Effortworld",
       "file": "missing/E/265655-effortworld.json"
@@ -342625,6 +342655,11 @@
       "igdb_id": 312630,
       "game_name": "Final Fantasy XI: The Voracious Resurgence",
       "file": "missing/F/312630-final-fantasy-xi-the-voracious-resurgence.json"
+    },
+    {
+      "igdb_id": 286423,
+      "game_name": "Final Fantasy XI: Ultimate Collection - Abyssea Edition",
+      "file": "missing/F/286423-final-fantasy-xi-ultimate-collection-abyssea-edition.json"
     },
     {
       "igdb_id": 41853,
@@ -387167,6 +387202,11 @@
       "file": "missing/G/227927-gentleman-dress-up.json"
     },
     {
+      "igdb_id": 286415,
+      "game_name": "Gentlemen's Club",
+      "file": "missing/G/286415-gentlemens-club.json"
+    },
+    {
       "igdb_id": 32902,
       "game_name": "GentleMoon 2",
       "file": "missing/G/32902-gentlemoon-2.json"
@@ -391995,6 +392035,11 @@
       "igdb_id": 295569,
       "game_name": "Girl's Memories",
       "file": "missing/G/295569-girls-memories.json"
+    },
+    {
+      "igdb_id": 286406,
+      "game_name": "GirLand",
+      "file": "missing/G/286406-girland.json"
     },
     {
       "igdb_id": 323303,
@@ -412012,6 +412057,11 @@
       "file": "missing/G/97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json"
     },
     {
+      "igdb_id": 286393,
+      "game_name": "GSpot Master",
+      "file": "missing/G/286393-gspot-master.json"
+    },
+    {
       "igdb_id": 360113,
       "game_name": "GSPS The Game",
       "file": "missing/G/360113-gsps-the-game.json"
@@ -420472,6 +420522,11 @@
       "file": "missing/H/378573-halloween-waifu.json"
     },
     {
+      "igdb_id": 286397,
+      "game_name": "Halloween with Veronica",
+      "file": "missing/H/286397-halloween-with-veronica.json"
+    },
+    {
       "igdb_id": 275629,
       "game_name": "Halloween: Global Candy Cup 2015",
       "file": "missing/H/275629-halloween-global-candy-cup-2015.json"
@@ -425035,6 +425090,11 @@
       "igdb_id": 196224,
       "game_name": "Harem Girl: Nikki",
       "file": "missing/H/196224-harem-girl-nikki.json"
+    },
+    {
+      "igdb_id": 286391,
+      "game_name": "Harem Girl: Samantha",
+      "file": "missing/H/286391-harem-girl-samantha.json"
     },
     {
       "igdb_id": 127632,
@@ -435647,6 +435707,11 @@
       "file": "missing/H/233091-hentai-eroelf.json"
     },
     {
+      "igdb_id": 286408,
+      "game_name": "Hentai Eroshojo",
+      "file": "missing/H/286408-hentai-eroshojo.json"
+    },
+    {
       "igdb_id": 372486,
       "game_name": "Hentai Evangeline",
       "file": "missing/H/372486-hentai-evangeline.json"
@@ -435715,6 +435780,11 @@
       "igdb_id": 381801,
       "game_name": "Hentai Frames",
       "file": "missing/H/381801-hentai-frames.json"
+    },
+    {
+      "igdb_id": 286401,
+      "game_name": "Hentai Furry",
+      "file": "missing/H/286401-hentai-furry.json"
     },
     {
       "igdb_id": 340434,
@@ -435910,6 +435980,11 @@
       "igdb_id": 277596,
       "game_name": "Hentai Girls Slide",
       "file": "missing/H/277596-hentai-girls-slide.json"
+    },
+    {
+      "igdb_id": 286411,
+      "game_name": "Hentai Girls Sliding Puzzle",
+      "file": "missing/H/286411-hentai-girls-sliding-puzzle.json"
     },
     {
       "igdb_id": 263557,
@@ -436457,6 +436532,11 @@
       "file": "missing/H/365440-hentai-kaiya.json"
     },
     {
+      "igdb_id": 286394,
+      "game_name": "Hentai Killer",
+      "file": "missing/H/286394-hentai-killer.json"
+    },
+    {
       "igdb_id": 151622,
       "game_name": "Hentai Killer: Girls & Chess",
       "file": "missing/H/151622-hentai-killer-girls-and-chess.json"
@@ -436737,6 +436817,11 @@
       "file": "missing/H/223403-hentai-neko.json"
     },
     {
+      "igdb_id": 286412,
+      "game_name": "Hentai Nekogirl",
+      "file": "missing/H/286412-hentai-nekogirl.json"
+    },
+    {
       "igdb_id": 265608,
       "game_name": "Hentai Neon Nights",
       "file": "missing/H/265608-hentai-neon-nights.json"
@@ -436927,6 +437012,11 @@
       "file": "missing/H/409529-hentai-project-67.json"
     },
     {
+      "igdb_id": 286413,
+      "game_name": "Hentai Pussy 2",
+      "file": "missing/H/286413-hentai-pussy-2.json"
+    },
+    {
       "igdb_id": 214188,
       "game_name": "Hentai Pussy 4",
       "file": "missing/H/214188-hentai-pussy-4.json"
@@ -437072,6 +437162,11 @@
       "file": "missing/H/340449-hentai-sally.json"
     },
     {
+      "igdb_id": 286392,
+      "game_name": "Hentai Secrets",
+      "file": "missing/H/286392-hentai-secrets.json"
+    },
+    {
       "igdb_id": 301669,
       "game_name": "Hentai Senpai: Apocalypse Girls",
       "file": "missing/H/301669-hentai-senpai-apocalypse-girls.json"
@@ -437190,6 +437285,11 @@
       "igdb_id": 236184,
       "game_name": "Hentai Slide Puzzle",
       "file": "missing/H/236184-hentai-slide-puzzle.json"
+    },
+    {
+      "igdb_id": 286419,
+      "game_name": "Hentai Sniper: Middle East",
+      "file": "missing/H/286419-hentai-sniper-middle-east.json"
     },
     {
       "igdb_id": 106650,
@@ -437935,6 +438035,11 @@
       "igdb_id": 296946,
       "game_name": "Hentaimon",
       "file": "missing/H/296946-hentaimon.json"
+    },
+    {
+      "igdb_id": 286405,
+      "game_name": "HentaiNya",
+      "file": "missing/H/286405-hentainya.json"
     },
     {
       "igdb_id": 156559,
@@ -455625,6 +455730,11 @@
       "igdb_id": 67220,
       "game_name": "Hot and Cold: A 3D Hidden Object Adventure",
       "file": "missing/H/67220-hot-and-cold-a-3d-hidden-object-adventure.json"
+    },
+    {
+      "igdb_id": 286402,
+      "game_name": "Hot and Lovely 2",
+      "file": "missing/H/286402-hot-and-lovely-2.json"
     },
     {
       "igdb_id": 238577,
@@ -521327,6 +521437,11 @@
       "file": "missing/K/285593-klax.json"
     },
     {
+      "igdb_id": 286421,
+      "game_name": "Klax",
+      "file": "missing/K/286421-klax.json"
+    },
+    {
       "igdb_id": 43749,
       "game_name": "Klaymen Gun-Hockey",
       "file": "missing/K/43749-klaymen-gun-hockey.json"
@@ -542652,6 +542767,11 @@
       "file": "missing/L/306440-lets-learn-japanese-kanji-sudoku.json"
     },
     {
+      "igdb_id": 286407,
+      "game_name": "Let's Learn Japanese! Vocabulary",
+      "file": "missing/L/286407-lets-learn-japanese-vocabulary.json"
+    },
+    {
       "igdb_id": 367521,
       "game_name": "Let's Learn Korean! Hangul",
       "file": "missing/L/367521-lets-learn-korean-hangul.json"
@@ -548755,6 +548875,46 @@
       "igdb_id": 286239,
       "game_name": "LineArt Jigsaw Puzzle: Airplanes",
       "file": "missing/L/286239-lineart-jigsaw-puzzle-airplanes.json"
+    },
+    {
+      "igdb_id": 286383,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica",
+      "file": "missing/L/286383-lineart-jigsaw-puzzle-erotica.json"
+    },
+    {
+      "igdb_id": 286384,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica 2",
+      "file": "missing/L/286384-lineart-jigsaw-puzzle-erotica-2.json"
+    },
+    {
+      "igdb_id": 286385,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica 3",
+      "file": "missing/L/286385-lineart-jigsaw-puzzle-erotica-3.json"
+    },
+    {
+      "igdb_id": 286386,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica 4",
+      "file": "missing/L/286386-lineart-jigsaw-puzzle-erotica-4.json"
+    },
+    {
+      "igdb_id": 286387,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica 5",
+      "file": "missing/L/286387-lineart-jigsaw-puzzle-erotica-5.json"
+    },
+    {
+      "igdb_id": 286390,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica Christmas",
+      "file": "missing/L/286390-lineart-jigsaw-puzzle-erotica-christmas.json"
+    },
+    {
+      "igdb_id": 286389,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica Summer",
+      "file": "missing/L/286389-lineart-jigsaw-puzzle-erotica-summer.json"
+    },
+    {
+      "igdb_id": 286388,
+      "game_name": "LineArt Jigsaw Puzzle: Erotica Valentines",
+      "file": "missing/L/286388-lineart-jigsaw-puzzle-erotica-valentines.json"
     },
     {
       "igdb_id": 403778,
@@ -560092,6 +560252,11 @@
       "file": "missing/L/12672-lotus-iii-the-ultimate-challenge.json"
     },
     {
+      "igdb_id": 286380,
+      "game_name": "Lotus Lantern: Rescue Mother",
+      "file": "missing/L/286380-lotus-lantern-rescue-mother.json"
+    },
+    {
       "igdb_id": 120420,
       "game_name": "Lotus Minigames: Berlin Traffic",
       "file": "missing/L/120420-lotus-minigames-berlin-traffic.json"
@@ -560730,6 +560895,11 @@
       "igdb_id": 366532,
       "game_name": "Love Hentai and Puzzles: Yokai",
       "file": "missing/L/366532-love-hentai-and-puzzles-yokai.json"
+    },
+    {
+      "igdb_id": 286403,
+      "game_name": "Love Hentai: Endgame",
+      "file": "missing/L/286403-love-hentai-endgame.json"
     },
     {
       "igdb_id": 367021,
@@ -573362,6 +573532,11 @@
       "file": "missing/M/76144-mahjong-fight-club-zenkoku-taisenban.json"
     },
     {
+      "igdb_id": 286381,
+      "game_name": "Mahjong Fight Girl",
+      "file": "missing/M/286381-mahjong-fight-girl.json"
+    },
+    {
       "igdb_id": 108591,
       "game_name": "Mahjong Forest Journey",
       "file": "missing/M/108591-mahjong-forest-journey.json"
@@ -573715,6 +573890,11 @@
       "igdb_id": 117263,
       "game_name": "Mahjong Soul",
       "file": "missing/M/117263-mahjong-soul.json"
+    },
+    {
+      "igdb_id": 286410,
+      "game_name": "Mahjong Strip Solitaire: Harem Guild",
+      "file": "missing/M/286410-mahjong-strip-solitaire-harem-guild.json"
     },
     {
       "igdb_id": 48788,
@@ -608612,6 +608792,11 @@
       "file": "missing/M/262928-mik.json"
     },
     {
+      "igdb_id": 286416,
+      "game_name": "Mik: Legacy",
+      "file": "missing/M/286416-mik-legacy.json"
+    },
+    {
       "igdb_id": 100106,
       "game_name": "Mika 'Sweeper' Spin",
       "file": "missing/M/100106-mika-sweeper-spin.json"
@@ -610065,6 +610250,11 @@
       "igdb_id": 256984,
       "game_name": "MiMiMi",
       "file": "missing/M/256984-mimimi.json"
+    },
+    {
+      "igdb_id": 286404,
+      "game_name": "Mimimishka",
+      "file": "missing/M/286404-mimimishka.json"
     },
     {
       "igdb_id": 166822,
@@ -641125,6 +641315,11 @@
       "igdb_id": 205818,
       "game_name": "My Foxy Girlfriend",
       "file": "missing/M/205818-my-foxy-girlfriend.json"
+    },
+    {
+      "igdb_id": 286409,
+      "game_name": "My Free Farm",
+      "file": "missing/M/286409-my-free-farm.json"
     },
     {
       "igdb_id": 398323,
@@ -679185,6 +679380,11 @@
       "igdb_id": 302108,
       "game_name": "Odyssey of the Explorer",
       "file": "missing/O/302108-odyssey-of-the-explorer.json"
+    },
+    {
+      "igdb_id": 286430,
+      "game_name": "Odyssey Reborn",
+      "file": "missing/O/286430-odyssey-reborn.json"
     },
     {
       "igdb_id": 62634,
@@ -742717,6 +742917,11 @@
       "file": "missing/P/221133-poly-puzzle-dinosaurs.json"
     },
     {
+      "igdb_id": 286418,
+      "game_name": "Poly Puzzle: Dogs",
+      "file": "missing/P/286418-poly-puzzle-dogs.json"
+    },
+    {
       "igdb_id": 170229,
       "game_name": "Poly Puzzle: Furries",
       "file": "missing/P/170229-poly-puzzle-furries.json"
@@ -757817,6 +758022,11 @@
       "file": "missing/P/120674-project-vr-wild-hunt.json"
     },
     {
+      "igdb_id": 286431,
+      "game_name": "Project W.A.K.E.",
+      "file": "missing/P/286431-project-w-a-k-e.json"
+    },
+    {
       "igdb_id": 290790,
       "game_name": "Project Wand: Festival Of Futas",
       "file": "missing/P/290790-project-wand-festival-of-futas.json"
@@ -765342,6 +765552,11 @@
       "file": "missing/P/155463-puzzle-girl.json"
     },
     {
+      "igdb_id": 286400,
+      "game_name": "Puzzle Girls: Alexa",
+      "file": "missing/P/286400-puzzle-girls-alexa.json"
+    },
+    {
       "igdb_id": 163913,
       "game_name": "Puzzle Girls: Celia",
       "file": "missing/P/163913-puzzle-girls-celia.json"
@@ -765350,6 +765565,11 @@
       "igdb_id": 163548,
       "game_name": "Puzzle Girls: Cheryl",
       "file": "missing/P/163548-puzzle-girls-cheryl.json"
+    },
+    {
+      "igdb_id": 286399,
+      "game_name": "Puzzle Girls: Cute",
+      "file": "missing/P/286399-puzzle-girls-cute.json"
     },
     {
       "igdb_id": 420662,
@@ -785087,6 +785307,11 @@
       "file": "missing/R/65024-rebuild-gangs-of-deadsville.json"
     },
     {
+      "igdb_id": 286425,
+      "game_name": "Rebuild: Original Rebuild 2",
+      "file": "missing/R/286425-rebuild-original-rebuild-2.json"
+    },
+    {
       "igdb_id": 355227,
       "game_name": "Rebuilding Civilization",
       "file": "missing/R/355227-rebuilding-civilization.json"
@@ -802870,6 +803095,11 @@
       "igdb_id": 135693,
       "game_name": "River Tiles",
       "file": "missing/R/135693-river-tiles.json"
+    },
+    {
+      "igdb_id": 286429,
+      "game_name": "River Town Factory",
+      "file": "missing/R/286429-river-town-factory.json"
     },
     {
       "igdb_id": 324918,
@@ -843847,6 +844077,11 @@
       "file": "missing/S/195610-sexy-exile.json"
     },
     {
+      "igdb_id": 286395,
+      "game_name": "Sexy Fitness Girl",
+      "file": "missing/S/286395-sexy-fitness-girl.json"
+    },
+    {
       "igdb_id": 335305,
       "game_name": "Sexy Furry Puzzle",
       "file": "missing/S/335305-sexy-furry-puzzle.json"
@@ -848505,6 +848740,11 @@
       "igdb_id": 56527,
       "game_name": "Shawl",
       "file": "missing/S/56527-shawl.json"
+    },
+    {
+      "igdb_id": 286417,
+      "game_name": "ShawnCena121",
+      "file": "missing/S/286417-shawncena121.json"
     },
     {
       "igdb_id": 115535,
@@ -959230,6 +959470,11 @@
       "igdb_id": 9095,
       "game_name": "Talvisota: Icy Hell",
       "file": "missing/T/9095-talvisota-icy-hell.json"
+    },
+    {
+      "igdb_id": 286414,
+      "game_name": "Talvisota: Winter War",
+      "file": "missing/T/286414-talvisota-winter-war.json"
     },
     {
       "igdb_id": 334352,
@@ -1071185,6 +1071430,11 @@
       "igdb_id": 342704,
       "game_name": "Tuiterland 5: El Fin de las Redes Sociales",
       "file": "missing/T/342704-tuiterland-5-el-fin-de-las-redes-sociales.json"
+    },
+    {
+      "igdb_id": 286426,
+      "game_name": "Tuk Ruk",
+      "file": "missing/T/286426-tuk-ruk.json"
     },
     {
       "igdb_id": 199367,
