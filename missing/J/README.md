@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake & The Mysterious Cave | 183845 | [183845-jake-and-the-mysterious-cave.json](./183845-jake-and-the-mysterious-cave.json) |
 | Jake and the Never Land Pirates | 137417 | [137417-jake-and-the-never-land-pirates.json](./137417-jake-and-the-never-land-pirates.json) |
 | Jake and the Never Land Pirates | 230381 | [230381-jake-and-the-never-land-pirates.json](./230381-jake-and-the-never-land-pirates.json) |
+| Jake Everest: Wakanga The Unseen Civilization | 258879 | [258879-jake-everest-wakanga-the-unseen-civilization.json](./258879-jake-everest-wakanga-the-unseen-civilization.json) |
 | Jake Hunter Detective Story: Ghost of the Dusk | 55863 | [55863-jake-hunter-detective-story-ghost-of-the-dusk.json](./55863-jake-hunter-detective-story-ghost-of-the-dusk.json) |
 | Jake Hunter Detective Story: Memories of the Past | 47772 | [47772-jake-hunter-detective-story-memories-of-the-past.json](./47772-jake-hunter-detective-story-memories-of-the-past.json) |
 | Jake Hunter Detective Story: Prism of Eyes | 101033 | [101033-jake-hunter-detective-story-prism-of-eyes.json](./101033-jake-hunter-detective-story-prism-of-eyes.json) |
