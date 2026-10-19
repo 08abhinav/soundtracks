@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat III | 171887 | [171887-air-combat-iii.json](./171887-air-combat-iii.json) |
 | Air Combat MF | 121009 | [121009-air-combat-mf.json](./121009-air-combat-mf.json) |
+| Air Combat MF: Echoes of War | 305635 | [305635-air-combat-mf-echoes-of-war.json](./305635-air-combat-mf-echoes-of-war.json) |
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
