@@ -6713,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Defender | 158635 | [158635-home-defender.json](./158635-home-defender.json) |
 | Home Defender | 278538 | [278538-home-defender.json](./278538-home-defender.json) |
 | Home Design 3D | 34050 | [34050-home-design-3d.json](./34050-home-design-3d.json) |
+| Home Design 3D VR | 276644 | [276644-home-design-3d-vr.json](./276644-home-design-3d-vr.json) |
 | Home Design Makeover | 245203 | [245203-home-design-makeover.json](./245203-home-design-makeover.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
 | Home Designer Makeover Blast: Halloween | 271926 | [271926-home-designer-makeover-blast-halloween.json](./271926-home-designer-makeover-blast-halloween.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
 | Horny Hotel Maids | 242437 | [242437-horny-hotel-maids.json](./242437-horny-hotel-maids.json) |
+| Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
@@ -8688,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Cat Picross | 103384 | [103384-hungry-cat-picross.json](./103384-hungry-cat-picross.json) |
+| Hungry Cats | 276646 | [276646-hungry-cats.json](./276646-hungry-cats.json) |
 | Hungry Chicks: Battle Farm | 402265 | [402265-hungry-chicks-battle-farm.json](./402265-hungry-chicks-battle-farm.json) |
 | Hungry Corgi | 255728 | [255728-hungry-corgi.json](./255728-hungry-corgi.json) |
 | Hungry Dino | 171494 | [171494-hungry-dino.json](./171494-hungry-dino.json) |
