@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Courting of Curses | 412246 | [412246-a-courting-of-curses.json](./412246-a-courting-of-curses.json) |
 | A Cozy Classics: Color Lines | 379467 | [379467-a-cozy-classics-color-lines.json](./379467-a-cozy-classics-color-lines.json) |
 | A Crazy Guy | 251010 | [251010-a-crazy-guy.json](./251010-a-crazy-guy.json) |
+| A Creature's Journey | 260560 | [260560-a-creatures-journey.json](./260560-a-creatures-journey.json) |
 | A Crooked Heart | 142335 | [142335-a-crooked-heart.json](./142335-a-crooked-heart.json) |
 | A Crow in Hell | 393519 | [393519-a-crow-in-hell.json](./393519-a-crow-in-hell.json) |
 | A Crow in Hell 2 | 393520 | [393520-a-crow-in-hell-2.json](./393520-a-crow-in-hell-2.json) |
@@ -8415,6 +8416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse: Party's Over | 35294 | [35294-apocalypse-partys-over.json](./35294-apocalypse-partys-over.json) |
 | Apocalypse: The Game | 61615 | [61615-apocalypse-the-game.json](./61615-apocalypse-the-game.json) |
 | Apocalypse: The Hunger | 392715 | [392715-apocalypse-the-hunger.json](./392715-apocalypse-the-hunger.json) |
+| Apocalypse: Zombie City | 260540 | [260540-apocalypse-zombie-city.json](./260540-apocalypse-zombie-city.json) |
 | Apocalypter | 378318 | [378318-apocalypter.json](./378318-apocalypter.json) |
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
