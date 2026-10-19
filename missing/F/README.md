@@ -8803,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fridgy | 90905 | [90905-fridgy.json](./90905-fridgy.json) |
 | Frido | 232456 | [232456-frido.json](./232456-frido.json) |
 | Fried Chicken in Wonderland | 158576 | [158576-fried-chicken-in-wonderland.json](./158576-fried-chicken-in-wonderland.json) |
+| Fried Chicken Nuggets and Angels | 284261 | [284261-fried-chicken-nuggets-and-angels.json](./284261-fried-chicken-nuggets-and-angels.json) |
 | Fried Chicken Wings Cause Love Fires | 372084 | [372084-fried-chicken-wings-cause-love-fires.json](./372084-fried-chicken-wings-cause-love-fires.json) |
 | Fried Panic | 218663 | [218663-fried-panic.json](./218663-fried-panic.json) |
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
