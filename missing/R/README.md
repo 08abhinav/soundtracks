@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race of the Nine Worlds | 352411 | [352411-race-of-the-nine-worlds.json](./352411-race-of-the-nine-worlds.json) |
 | Race On | 19363 | [19363-race-on.json](./19363-race-on.json) |
 | Race or Crash: Secret Racer League | 341314 | [341314-race-or-crash-secret-racer-league.json](./341314-race-or-crash-secret-racer-league.json) |
+| Race Pro | 256136 | [256136-race-pro.json](./256136-race-pro.json) |
 | Race Project | 152729 | [152729-race-project.json](./152729-race-project.json) |
 | Race Race Racer | 126996 | [126996-race-race-racer.json](./126996-race-race-racer.json) |
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raishi | 222500 | [222500-raishi.json](./222500-raishi.json) |
 | Raisin Wordsearch | 394211 | [394211-raisin-wordsearch.json](./394211-raisin-wordsearch.json) |
 | Raising a Happy NEET | 417618 | [417618-raising-a-happy-neet.json](./417618-raising-a-happy-neet.json) |
+| Raising Archangel | 256133 | [256133-raising-archangel.json](./256133-raising-archangel.json) |
 | Raising Dead | 116960 | [116960-raising-dead.json](./116960-raising-dead.json) |
 | Raising the Bar: Salvation | 281376 | [281376-raising-the-bar-salvation.json](./281376-raising-the-bar-salvation.json) |
 | Raising Torolith | 152885 | [152885-raising-torolith.json](./152885-raising-torolith.json) |
@@ -1136,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Championship: The X-Miles | 100179 | [100179-rally-championship-the-x-miles.json](./100179-rally-championship-the-x-miles.json) |
 | Rally Championships | 12739 | [12739-rally-championships.json](./12739-rally-championships.json) |
 | Rally Chase | 75514 | [75514-rally-chase.json](./75514-rally-chase.json) |
+| Rally Clash | 256140 | [256140-rally-clash.json](./256140-rally-clash.json) |
 | Rally Copters | 33424 | [33424-rally-copters.json](./33424-rally-copters.json) |
 | Rally Cross 2 | 8648 | [8648-rally-cross-2.json](./8648-rally-cross-2.json) |
 | Rally Cross Challenge | 93365 | [93365-rally-cross-challenge.json](./93365-rally-cross-challenge.json) |
@@ -1880,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
+| RC Club: AR Racing Simulator | 256130 | [256130-rc-club-ar-racing-simulator.json](./256130-rc-club-ar-racing-simulator.json) |
 | RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
 | RC Death Race: Multiplayer | 392941 | [392941-rc-death-race-multiplayer.json](./392941-rc-death-race-multiplayer.json) |
 | RC Flight Simulator 2020 VR | 162748 | [162748-rc-flight-simulator-2020-vr.json](./162748-rc-flight-simulator-2020-vr.json) |
@@ -2134,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
 | Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
+| Real Car Parking Master | 256135 | [256135-real-car-parking-master.json](./256135-real-car-parking-master.json) |
 | Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
 | Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
@@ -4036,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue the Hostages: Words of Fear | 396729 | [396729-rescue-the-hostages-words-of-fear.json](./396729-rescue-the-hostages-words-of-fear.json) |
 | Rescue the Prisoner | 272458 | [272458-rescue-the-prisoner.json](./272458-rescue-the-prisoner.json) |
 | Rescue the Puppies | 401029 | [401029-rescue-the-puppies.json](./401029-rescue-the-puppies.json) |
+| Rescue To The Parallel | 256114 | [256114-rescue-to-the-parallel.json](./256114-rescue-to-the-parallel.json) |
 | Rescue Troopers | 190901 | [190901-rescue-troopers.json](./190901-rescue-troopers.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
@@ -4782,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
+| Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverend | 339622 | [339622-reverend.json](./339622-reverend.json) |
@@ -5781,6 +5788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
 | Rise Of Anupet | 309644 | [309644-rise-of-anupet.json](./309644-rise-of-anupet.json) |
 | Rise of Balloons | 29100 | [29100-rise-of-balloons.json](./29100-rise-of-balloons.json) |
+| Rise of Block | 256112 | [256112-rise-of-block.json](./256112-rise-of-block.json) |
 | Rise of Castles | 305848 | [305848-rise-of-castles.json](./305848-rise-of-castles.json) |
 | Rise of Champions | 60495 | [60495-rise-of-champions.json](./60495-rise-of-champions.json) |
 | Rise of Chi | 384506 | [384506-rise-of-chi.json](./384506-rise-of-chi.json) |
@@ -6727,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
 | Robot Runner | 106950 | [106950-robot-runner.json](./106950-robot-runner.json) |
 | Robot Sex Party Murder | 186631 | [186631-robot-sex-party-murder.json](./186631-robot-sex-party-murder.json) |
+| Robot Shooter | 256141 | [256141-robot-shooter.json](./256141-robot-shooter.json) |
 | Robot Squad Simulator | 119516 | [119516-robot-squad-simulator.json](./119516-robot-squad-simulator.json) |
 | Robot Squad Simulator 2017 | 34389 | [34389-robot-squad-simulator-2017.json](./34389-robot-squad-simulator-2017.json) |
 | Robot Squad Simulator X | 134013 | [134013-robot-squad-simulator-x.json](./134013-robot-squad-simulator-x.json) |
