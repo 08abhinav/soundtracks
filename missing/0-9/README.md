@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Knock-Out | 326747 | [326747-2d-knock-out.json](./326747-2d-knock-out.json) |
 | 2D Owen | 134578 | [134578-2d-owen.json](./134578-2d-owen.json) |
 | 2D Platformer Game (Toy Factory) | 184282 | [184282-2d-platformer-game-toy-factory.json](./184282-2d-platformer-game-toy-factory.json) |
+| 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
 | 2Dark | 26847 | [26847-2dark.json](./26847-2dark.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
