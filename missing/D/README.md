@@ -10423,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
 | Draglade | 21542 | [21542-draglade.json](./21542-draglade.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
+| Drago Adventure | 295624 | [295624-drago-adventure.json](./295624-drago-adventure.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
