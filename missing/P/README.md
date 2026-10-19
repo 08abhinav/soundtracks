@@ -1088,6 +1088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzerkampf | 282075 | [282075-panzerkampf.json](./282075-panzerkampf.json) |
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
+| Pãozito | 256120 | [256120-paozito.json](./256120-paozito.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
@@ -2622,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBA Tour Bowling II | 210011 | [210011-pba-tour-bowling-ii.json](./210011-pba-tour-bowling-ii.json) |
 | PBA: Basketball Slam - Arcade Edition | 171353 | [171353-pba-basketball-slam-arcade-edition.json](./171353-pba-basketball-slam-arcade-edition.json) |
 | PBJ: The Musical | 325280 | [325280-pbj-the-musical.json](./325280-pbj-the-musical.json) |
+| PBJ: The Sandwich | 256160 | [256160-pbj-the-sandwich.json](./256160-pbj-the-sandwich.json) |
 | Pbouxhkiir Night on the Primox Alpha | 339780 | [339780-pbouxhkiir-night-on-the-primox-alpha.json](./339780-pbouxhkiir-night-on-the-primox-alpha.json) |
 | PButtons | 356640 | [356640-pbuttons.json](./356640-pbuttons.json) |
 | PC Basket 4.0 | 320947 | [320947-pc-basket-4-0.json](./320947-pc-basket-4-0.json) |
@@ -3460,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Strikers: Digital Deluxe Edition | 237861 | [237861-persona-5-strikers-digital-deluxe-edition.json](./237861-persona-5-strikers-digital-deluxe-edition.json) |
 | Persona 5 Strikers: Legacy BGM Pack | 383606 | [383606-persona-5-strikers-legacy-bgm-pack.json](./383606-persona-5-strikers-legacy-bgm-pack.json) |
 | Persona 5 Tactica: DLC All in One | 277311 | [277311-persona-5-tactica-dlc-all-in-one.json](./277311-persona-5-tactica-dlc-all-in-one.json) |
+| Persona 5 Tactica: Launch Edition | 256154 | [256154-persona-5-tactica-launch-edition.json](./256154-persona-5-tactica-launch-edition.json) |
 | Persona 5: 20th Anniversary Edition | 136749 | [136749-persona-5-20th-anniversary-edition.json](./136749-persona-5-20th-anniversary-edition.json) |
 | Persona 5: Dancing in Starlight - Atlus Selection Set | 362255 | [362255-persona-5-dancing-in-starlight-atlus-selection-set.json](./362255-persona-5-dancing-in-starlight-atlus-selection-set.json) |
 | Persona 5: Dancing in Starlight - Catherine Set | 362253 | [362253-persona-5-dancing-in-starlight-catherine-set.json](./362253-persona-5-dancing-in-starlight-catherine-set.json) |
