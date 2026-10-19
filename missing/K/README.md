@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Booze: Drinking Game | 31590 | [31590-king-of-booze-drinking-game.json](./31590-king-of-booze-drinking-game.json) |
 | King of Bowling | 166543 | [166543-king-of-bowling.json](./166543-king-of-bowling.json) |
 | King of Bowling 2: Professional-hen | 166544 | [166544-king-of-bowling-2-professional-hen.json](./166544-king-of-bowling-2-professional-hen.json) |
+| King of Bowling 3 | 278873 | [278873-king-of-bowling-3.json](./278873-king-of-bowling-3.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
 | King of Cooking | 151158 | [151158-king-of-cooking.json](./151158-king-of-cooking.json) |
