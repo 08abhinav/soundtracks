@@ -1645,6 +1645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
 | Wasps! | 31654 | [31654-wasps.json](./31654-wasps.json) |
+| Wassermann | 267254 | [267254-wassermann.json](./267254-wassermann.json) |
 | Wassie Tale | 207377 | [207377-wassie-tale.json](./207377-wassie-tale.json) |
 | Waste | 200703 | [200703-waste.json](./200703-waste.json) |
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
