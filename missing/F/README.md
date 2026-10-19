@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Kingdom | 75023 | [75023-fallen-kingdom.json](./75023-fallen-kingdom.json) |
 | Fallen Kingdom: A Mario PC Port Retake | 298277 | [298277-fallen-kingdom-a-mario-pc-port-retake.json](./298277-fallen-kingdom-a-mario-pc-port-retake.json) |
 | Fallen Knight | 133698 | [133698-fallen-knight.json](./133698-fallen-knight.json) |
+| Fallen Knight: Rebellion & Rise Of The Fallen | 305622 | [305622-fallen-knight-rebellion-and-rise-of-the-fallen.json](./305622-fallen-knight-rebellion-and-rise-of-the-fallen.json) |
 | Fallen Knight: Rise of the Fallen | 367514 | [367514-fallen-knight-rise-of-the-fallen.json](./367514-fallen-knight-rise-of-the-fallen.json) |
 | Fallen Leaf | 141083 | [141083-fallen-leaf.json](./141083-fallen-leaf.json) |
 | Fallen Leaves | 257294 | [257294-fallen-leaves.json](./257294-fallen-leaves.json) |
@@ -7531,6 +7532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Season 14 | 403035 | [403035-fortnite-festival-season-14.json](./403035-fortnite-festival-season-14.json) |
 | Fortnite Festival: Season 15 | 411844 | [411844-fortnite-festival-season-15.json](./411844-fortnite-festival-season-15.json) |
 | Fortnite Festival: Season 3 | 299445 | [299445-fortnite-festival-season-3.json](./299445-fortnite-festival-season-3.json) |
+| Fortnite Festival: Season 4 | 305602 | [305602-fortnite-festival-season-4.json](./305602-fortnite-festival-season-4.json) |
 | Fortnite Festival: Season 5 | 313434 | [313434-fortnite-festival-season-5.json](./313434-fortnite-festival-season-5.json) |
 | Fortnite Festival: Season 6 | 322820 | [322820-fortnite-festival-season-6.json](./322820-fortnite-festival-season-6.json) |
 | Fortnite Festival: Season 8 | 339230 | [339230-fortnite-festival-season-8.json](./339230-fortnite-festival-season-8.json) |
@@ -7579,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
+| Fortnite: Checkered Past Pack | 305610 | [305610-fortnite-checkered-past-pack.json](./305610-fortnite-checkered-past-pack.json) |
 | Fortnite: Chill Vibez Pack | 290016 | [290016-fortnite-chill-vibez-pack.json](./290016-fortnite-chill-vibez-pack.json) |
 | Fortnite: Cross Comms Pack | 243231 | [243231-fortnite-cross-comms-pack.json](./243231-fortnite-cross-comms-pack.json) |
 | Fortnite: Cuddle Buns Pack | 333587 | [333587-fortnite-cuddle-buns-pack.json](./333587-fortnite-cuddle-buns-pack.json) |
@@ -7587,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Deluxe Founder's Pack | 90660 | [90660-fortnite-deluxe-founders-pack.json](./90660-fortnite-deluxe-founders-pack.json) |
 | Fortnite: Diamond Diva Pack | 254667 | [254667-fortnite-diamond-diva-pack.json](./254667-fortnite-diamond-diva-pack.json) |
 | Fortnite: Drakon Steel Hybrid Crew Pack | 275307 | [275307-fortnite-drakon-steel-hybrid-crew-pack.json](./275307-fortnite-drakon-steel-hybrid-crew-pack.json) |
+| Fortnite: Extinction Code Pack | 305609 | [305609-fortnite-extinction-code-pack.json](./305609-fortnite-extinction-code-pack.json) |
 | Fortnite: Fallen Love Ranger Quest Pack | 239033 | [239033-fortnite-fallen-love-ranger-quest-pack.json](./239033-fortnite-fallen-love-ranger-quest-pack.json) |
 | Fortnite: Frozen Legends Pack | 227403 | [227403-fortnite-frozen-legends-pack.json](./227403-fortnite-frozen-legends-pack.json) |
 | Fortnite: Guardians Of the Galaxy Pack | 305855 | [305855-fortnite-guardians-of-the-galaxy-pack.json](./305855-fortnite-guardians-of-the-galaxy-pack.json) |
