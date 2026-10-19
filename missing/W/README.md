@@ -6260,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War II Combat: Iwo Jima | 6242 | [6242-world-war-ii-combat-iwo-jima.json](./6242-world-war-ii-combat-iwo-jima.json) |
 | World War II Combat: Road to Berlin | 6243 | [6243-world-war-ii-combat-road-to-berlin.json](./6243-world-war-ii-combat-road-to-berlin.json) |
 | World War II GI | 2533 | [2533-world-war-ii-gi.json](./2533-world-war-ii-gi.json) |
+| World War II Shooting Simulator | 289197 | [289197-world-war-ii-shooting-simulator.json](./289197-world-war-ii-shooting-simulator.json) |
 | World War II: Airplanes Battle | 313443 | [313443-world-war-ii-airplanes-battle.json](./313443-world-war-ii-airplanes-battle.json) |
 | World War II: Battle combat | 198152 | [198152-world-war-ii-battle-combat.json](./198152-world-war-ii-battle-combat.json) |
 | World War II: Battle Strike | 205828 | [205828-world-war-ii-battle-strike.json](./205828-world-war-ii-battle-strike.json) |
