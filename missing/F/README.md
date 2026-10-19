@@ -8379,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
 | Freak Control | 137490 | [137490-freak-control.json](./137490-freak-control.json) |
 | Freak Factory | 265664 | [265664-freak-factory.json](./265664-freak-factory.json) |
+| Freak Festival | 274338 | [274338-freak-festival.json](./274338-freak-festival.json) |
 | Freak Fortress 2 | 363055 | [363055-freak-fortress-2.json](./363055-freak-fortress-2.json) |
 | Freak House | 292236 | [292236-freak-house.json](./292236-freak-house.json) |
 | Freak Run | 232334 | [232334-freak-run.json](./232334-freak-run.json) |
