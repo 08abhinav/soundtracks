@@ -7510,6 +7510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gude! Jump n Run | 160179 | [160179-gude-jump-n-run.json](./160179-gude-jump-n-run.json) |
 | Guderian | 28716 | [28716-guderian.json](./28716-guderian.json) |
 | Gudetama Tap! | 102118 | [102118-gudetama-tap.json](./102118-gudetama-tap.json) |
+| Gudetama Tap! Puzzle | 258874 | [258874-gudetama-tap-puzzle.json](./258874-gudetama-tap-puzzle.json) |
 | Gudetama: Hanjuku de Tanomuwa | 57560 | [57560-gudetama-hanjuku-de-tanomuwa.json](./57560-gudetama-hanjuku-de-tanomuwa.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
