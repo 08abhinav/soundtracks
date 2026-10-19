@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Up Above: Gold Label Edition | 311462 | [311462-paradise-up-above-gold-label-edition.json](./311462-paradise-up-above-gold-label-edition.json) |
 | Paradise XRPL | 321549 | [321549-paradise-xrpl.json](./321549-paradise-xrpl.json) |
 | Paradise: Musubi | 384712 | [384712-paradise-musubi.json](./384712-paradise-musubi.json) |
+| Paradiso Series Bundle | 289204 | [289204-paradiso-series-bundle.json](./289204-paradiso-series-bundle.json) |
 | ParaDive++ | 401812 | [401812-paradive.json](./401812-paradive.json) |
 | Paradize Project | 208418 | [208418-paradize-project.json](./208418-paradize-project.json) |
 | Paradox | 164872 | [164872-paradox.json](./164872-paradox.json) |
@@ -4514,6 +4515,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S SNK Classics & Neo Geo Edition | 378165 | [378165-picross-s-snk-classics-and-neo-geo-edition.json](./378165-picross-s-snk-classics-and-neo-geo-edition.json) |
 | Picross S: Genesis & Master System Edition | 137139 | [137139-picross-s-genesis-and-master-system-edition.json](./137139-picross-s-genesis-and-master-system-edition.json) |
 | Picross S+ | 266419 | [266419-picross-s.json](./266419-picross-s.json) |
+| Picross S+: Picross e2 | 289214 | [289214-picross-s-picross-e2.json](./289214-picross-s-picross-e2.json) |
+| Picross S+: Picross e3 | 289215 | [289215-picross-s-picross-e3.json](./289215-picross-s-picross-e3.json) |
+| Picross S+: Picross e4 | 289216 | [289216-picross-s-picross-e4.json](./289216-picross-s-picross-e4.json) |
 | Picross S+: Picross e5 | 289217 | [289217-picross-s-picross-e5.json](./289217-picross-s-picross-e5.json) |
 | Picross S+: Picross e6 | 289218 | [289218-picross-s-picross-e6.json](./289218-picross-s-picross-e6.json) |
 | Picross S+: Picross e7 | 289219 | [289219-picross-s-picross-e7.json](./289219-picross-s-picross-e7.json) |
@@ -9058,6 +9062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony Snow Run | 96704 | [96704-pony-snow-run.json](./96704-pony-snow-run.json) |
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
+| Pony World: Color by Numbers & Animal Golf: Battle Race Bundle | 289205 | [289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json](./289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
@@ -13599,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
+| Puzzles of the Paladin | 289168 | [289168-puzzles-of-the-paladin.json](./289168-puzzles-of-the-paladin.json) |
 | Puzzles with Cats | 159551 | [159551-puzzles-with-cats.json](./159551-puzzles-with-cats.json) |
 | Puzzles with Nature | 203795 | [203795-puzzles-with-nature.json](./203795-puzzles-with-nature.json) |
 | Puzzles: Dog | 414499 | [414499-puzzles-dog.json](./414499-puzzles-dog.json) |
