@@ -8296,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
 | Dodge Mania | 211151 | [211151-dodge-mania.json](./211151-dodge-mania.json) |
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
+| Dodge Racer | 282430 | [282430-dodge-racer.json](./282430-dodge-racer.json) |
 | Dodge Racing: Charger vs Challenger | 197942 | [197942-dodge-racing-charger-vs-challenger.json](./197942-dodge-racing-charger-vs-challenger.json) |
 | Dodge Spree | 326170 | [326170-dodge-spree.json](./326170-dodge-spree.json) |
 | Dodge Spree X | 318526 | [318526-dodge-spree-x.json](./318526-dodge-spree-x.json) |
