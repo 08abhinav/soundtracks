@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Collecting Simulator | 239714 | [239714-game-collecting-simulator.json](./239714-game-collecting-simulator.json) |
 | Game Collection 1 | 308644 | [308644-game-collection-1.json](./308644-game-collection-1.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
+| Game Company Simulator | 292934 | [292934-game-company-simulator.json](./292934-game-company-simulator.json) |
 | Game Company Simulator: Back to 2000 | 372837 | [372837-game-company-simulator-back-to-2000.json](./372837-game-company-simulator-back-to-2000.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Shooter | 312769 | [312769-geometry-shooter.json](./312769-geometry-shooter.json) |
 | Geometry Shooter Pro | 320386 | [320386-geometry-shooter-pro.json](./320386-geometry-shooter-pro.json) |
 | Geometry Survivor | 271641 | [271641-geometry-survivor.json](./271641-geometry-survivor.json) |
+| Geometry Survivor | 293012 | [293012-geometry-survivor.json](./293012-geometry-survivor.json) |
 | Geometry Tower | 304964 | [304964-geometry-tower.json](./304964-geometry-tower.json) |
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
@@ -5830,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandiose | 154581 | [154581-grandiose.json](./154581-grandiose.json) |
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
+| Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
 | Grandma's Cheese | 246836 | [246836-grandmas-cheese.json](./246836-grandmas-cheese.json) |
