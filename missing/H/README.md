@@ -1169,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bones: Welcome Home | 372055 | [372055-happy-bones-welcome-home.json](./372055-happy-bones-welcome-home.json) |
 | Happy Brain Puzzle | 208982 | [208982-happy-brain-puzzle.json](./208982-happy-brain-puzzle.json) |
 | Happy Breeding | 92696 | [92696-happy-breeding.json](./92696-happy-breeding.json) |
+| Happy Burger | 257780 | [257780-happy-burger.json](./257780-happy-burger.json) |
 | Happy Burger Days | 88481 | [88481-happy-burger-days.json](./88481-happy-burger-days.json) |
 | Happy Cat Tavern | 209603 | [209603-happy-cat-tavern.json](./209603-happy-cat-tavern.json) |
 | Happy Challenger Yamada | 313312 | [313312-happy-challenger-yamada.json](./313312-happy-challenger-yamada.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heli War | 243934 | [243934-heli-war.json](./243934-heli-war.json) |
 | Heli-Cats | 238758 | [238758-heli-cats.json](./238758-heli-cats.json) |
 | Heli-Commando 2017 | 61885 | [61885-heli-commando-2017.json](./61885-heli-commando-2017.json) |
+| Heli-Shooter | 257822 | [257822-heli-shooter.json](./257822-heli-shooter.json) |
 | Heli-Yeah! Bundle | 154962 | [154962-heli-yeah-bundle.json](./154962-heli-yeah-bundle.json) |
 | Heliborne | 33764 | [33764-heliborne.json](./33764-heliborne.json) |
 | Heliborne: Enhanced Edition | 248802 | [248802-heliborne-enhanced-edition.json](./248802-heliborne-enhanced-edition.json) |
@@ -5862,6 +5864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hike Valley | 231319 | [231319-hike-valley.json](./231319-hike-valley.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
+| Hiker: Heropack Creed | 257805 | [257805-hiker-heropack-creed.json](./257805-hiker-heropack-creed.json) |
 | Hikibyou 2 | 29605 | [29605-hikibyou-2.json](./29605-hikibyou-2.json) |
 | Hikibyou2 | 273923 | [273923-hikibyou2.json](./273923-hikibyou2.json) |
 | HikiDama | 335358 | [335358-hikidama.json](./335358-hikidama.json) |
