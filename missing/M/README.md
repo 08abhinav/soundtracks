@@ -949,6 +949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
 | Magic Realm: Online | 102934 | [102934-magic-realm-online.json](./102934-magic-realm-online.json) |
 | Magic Research | 241876 | [241876-magic-research.json](./241876-magic-research.json) |
+| Magic Research 2 | 296750 | [296750-magic-research-2.json](./296750-magic-research-2.json) |
 | Magic Revenge: Casual Idle RPG | 180234 | [180234-magic-revenge-casual-idle-rpg.json](./180234-magic-revenge-casual-idle-rpg.json) |
 | Magic Rune Stone | 333367 | [333367-magic-rune-stone.json](./333367-magic-rune-stone.json) |
 | Magic Runes | 291714 | [291714-magic-runes.json](./291714-magic-runes.json) |
@@ -10892,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molehill Empire 2 | 347203 | [347203-molehill-empire-2.json](./347203-molehill-empire-2.json) |
 | Molek-Syntez | 125208 | [125208-molek-syntez.json](./125208-molek-syntez.json) |
 | Molekraft | 388353 | [388353-molekraft.json](./388353-molekraft.json) |
+| Molementum | 296721 | [296721-molementum.json](./296721-molementum.json) |
 | Moleshine Cooking Simulator | 237057 | [237057-moleshine-cooking-simulator.json](./237057-moleshine-cooking-simulator.json) |
 | Molest | 384332 | [384332-molest.json](./384332-molest.json) |
 | Molewack | 294815 | [294815-molewack.json](./294815-molewack.json) |
@@ -12852,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother of the Year | 313837 | [313837-mother-of-the-year.json](./313837-mother-of-the-year.json) |
 | Mother Restored | 307055 | [307055-mother-restored.json](./307055-mother-restored.json) |
 | Mother Russia Bleeds: Dealer Edition | 51834 | [51834-mother-russia-bleeds-dealer-edition.json](./51834-mother-russia-bleeds-dealer-edition.json) |
+| Mother Simulator Triplet Baby | 296747 | [296747-mother-simulator-triplet-baby.json](./296747-mother-simulator-triplet-baby.json) |
 | Mother Stone | 188951 | [188951-mother-stone.json](./188951-mother-stone.json) |
 | Mother Zero | 323881 | [323881-mother-zero.json](./323881-mother-zero.json) |
 | Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
@@ -15024,6 +15027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hidden Things | 134322 | [134322-my-hidden-things.json](./134322-my-hidden-things.json) |
 | My High School Cat Girlfriend | 206155 | [206155-my-high-school-cat-girlfriend.json](./206155-my-high-school-cat-girlfriend.json) |
 | My High School Detective | 231422 | [231422-my-high-school-detective.json](./231422-my-high-school-detective.json) |
+| My High School Life Simulator | 296739 | [296739-my-high-school-life-simulator.json](./296739-my-high-school-life-simulator.json) |
 | My Hobby: Needlework Galore - Household | 311732 | [311732-my-hobby-needlework-galore-household.json](./311732-my-hobby-needlework-galore-household.json) |
 | My Hobby: Needlework Galore - Tiny Home | 311731 | [311731-my-hobby-needlework-galore-tiny-home.json](./311731-my-hobby-needlework-galore-tiny-home.json) |
 | My Hole is a Mouth of Dirt | 131594 | [131594-my-hole-is-a-mouth-of-dirt.json](./131594-my-hole-is-a-mouth-of-dirt.json) |
@@ -15065,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Illegal Cafe | 245749 | [245749-my-illegal-cafe.json](./245749-my-illegal-cafe.json) |
 | My Immortal Sect is Very Powerful | 309673 | [309673-my-immortal-sect-is-very-powerful.json](./309673-my-immortal-sect-is-very-powerful.json) |
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
+| My Incubi Harem | 296736 | [296736-my-incubi-harem.json](./296736-my-incubi-harem.json) |
 | My Infamous Dungeon | 365537 | [365537-my-infamous-dungeon.json](./365537-my-infamous-dungeon.json) |
 | My Insect Girl Can't Be This Cute | 220683 | [220683-my-insect-girl-cant-be-this-cute.json](./220683-my-insect-girl-cant-be-this-cute.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
