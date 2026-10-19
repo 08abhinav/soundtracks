@@ -11627,6 +11627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Munch | 342607 | [342607-monster-munch.json](./342607-monster-munch.json) |
 | Monster Museum | 245826 | [245826-monster-museum.json](./245826-monster-museum.json) |
 | Monster Museum: Tidy Up the Collection! | 413484 | [413484-monster-museum-tidy-up-the-collection.json](./413484-monster-museum-tidy-up-the-collection.json) |
+| Monster Musume Fantastic Life | 306759 | [306759-monster-musume-fantastic-life.json](./306759-monster-musume-fantastic-life.json) |
 | Monster Mystery | 224789 | [224789-monster-mystery.json](./224789-monster-mystery.json) |
 | Monster Never Cry | 297253 | [297253-monster-never-cry.json](./297253-monster-never-cry.json) |
 | Monster Nursery | 411821 | [411821-monster-nursery.json](./411821-monster-nursery.json) |
