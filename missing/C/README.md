@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calm Skies | 318295 | [318295-calm-skies.json](./318295-calm-skies.json) |
 | Calm Time | 122999 | [122999-calm-time.json](./122999-calm-time.json) |
 | Calmaria: Wild Growth | 422495 | [422495-calmaria-wild-growth.json](./422495-calmaria-wild-growth.json) |
+| Calmed by the Dark Re:Boot | 282443 | [282443-calmed-by-the-dark-re-boot.json](./282443-calmed-by-the-dark-re-boot.json) |
 | Calmed by the Dark: Leviathan | 153967 | [153967-calmed-by-the-dark-leviathan.json](./153967-calmed-by-the-dark-leviathan.json) |
 | Calmed by the Dαrk | 388788 | [388788-calmed-by-the-d-rk.json](./388788-calmed-by-the-d-rk.json) |
 | Calming Lia | 261161 | [261161-calming-lia.json](./261161-calming-lia.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
 | Chip's Challenge | 12001 | [12001-chips-challenge.json](./12001-chips-challenge.json) |
+| Chip's Challenge | 282471 | [282471-chips-challenge.json](./282471-chips-challenge.json) |
 | Chip's Challenge | 282555 | [282555-chips-challenge.json](./282555-chips-challenge.json) |
 | Chip's Challenge | 282557 | [282557-chips-challenge.json](./282557-chips-challenge.json) |
 | Chip's Challenge | 282558 | [282558-chips-challenge.json](./282558-chips-challenge.json) |
@@ -12127,6 +12129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken Kart Extra | 92853 | [92853-crazy-chicken-kart-extra.json](./92853-crazy-chicken-kart-extra.json) |
 | Crazy Chicken Mah-Jongg | 144590 | [144590-crazy-chicken-mah-jongg.json](./144590-crazy-chicken-mah-jongg.json) |
 | Crazy Chicken Pinball Vol. 1 | 96540 | [96540-crazy-chicken-pinball-vol-1.json](./96540-crazy-chicken-pinball-vol-1.json) |
+| Crazy Chicken Pirates 3D | 282481 | [282481-crazy-chicken-pirates-3d.json](./282481-crazy-chicken-pirates-3d.json) |
 | Crazy Chicken Quest | 144595 | [144595-crazy-chicken-quest.json](./144595-crazy-chicken-quest.json) |
 | Crazy Chicken Strikes Back | 83239 | [83239-crazy-chicken-strikes-back.json](./83239-crazy-chicken-strikes-back.json) |
 | Crazy Chicken X | 78882 | [78882-crazy-chicken-x.json](./78882-crazy-chicken-x.json) |
@@ -12134,6 +12137,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
+| Crazy Chicken: Remake | 282453 | [282453-crazy-chicken-remake.json](./282453-crazy-chicken-remake.json) |
+| Crazy Chicken: Remake | 282454 | [282454-crazy-chicken-remake.json](./282454-crazy-chicken-remake.json) |
 | Crazy Chicken: Shooter Edition | 143060 | [143060-crazy-chicken-shooter-edition.json](./143060-crazy-chicken-shooter-edition.json) |
 | Crazy Chicken: Star Karts | 47909 | [47909-crazy-chicken-star-karts.json](./47909-crazy-chicken-star-karts.json) |
 | Crazy Chicken: The Good, The Egg, and the Ugly | 79166 | [79166-crazy-chicken-the-good-the-egg-and-the-ugly.json](./79166-crazy-chicken-the-good-the-egg-and-the-ugly.json) |
