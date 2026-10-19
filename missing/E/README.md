@@ -2126,6 +2126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ember Storia | 323334 | [323334-ember-storia.json](./323334-ember-storia.json) |
 | Ember Strike: The Battle for Willow Lane | 80203 | [80203-ember-strike-the-battle-for-willow-lane.json](./80203-ember-strike-the-battle-for-willow-lane.json) |
 | Ember the Werefox | 264696 | [264696-ember-the-werefox.json](./264696-ember-the-werefox.json) |
+| Ember: Reignition | 257232 | [257232-ember-reignition.json](./257232-ember-reignition.json) |
 | Ember's Verge | 324303 | [324303-embers-verge.json](./324303-embers-verge.json) |
 | Emberance | 309627 | [309627-emberance.json](./309627-emberance.json) |
 | Embercast | 421231 | [421231-embercast.json](./421231-embercast.json) |
@@ -3161,6 +3162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entomorph: Plague of the Darkfall | 3138 | [3138-entomorph-plague-of-the-darkfall.json](./3138-entomorph-plague-of-the-darkfall.json) |
 | Entrance 8 Iriguchi | 391864 | [391864-entrance-8-iriguchi.json](./391864-entrance-8-iriguchi.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
+| Entrenched | 257229 | [257229-entrenched.json](./257229-entrenched.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
