@@ -416,6 +416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nara: Facing Fire | 210086 | [210086-nara-facing-fire.json](./210086-nara-facing-fire.json) |
 | Naraba: The Labyrinth of Light | 206781 | [206781-naraba-the-labyrinth-of-light.json](./206781-naraba-the-labyrinth-of-light.json) |
 | Narabete Quiz Kotowaza Tsukurou | 251612 | [251612-narabete-quiz-kotowaza-tsukurou.json](./251612-narabete-quiz-kotowaza-tsukurou.json) |
+| Narabete! Tsukkute! Ugoku Block | 289747 | [289747-narabete-tsukkute-ugoku-block.json](./289747-narabete-tsukkute-ugoku-block.json) |
 | Naraka Bladepoint: Playstation Plus Gift Pack S16 | 341001 | [341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json](./341001-naraka-bladepoint-playstation-plus-gift-pack-s16.json) |
 | Naraka: Bladepoint - Deluxe Edition | 169169 | [169169-naraka-bladepoint-deluxe-edition.json](./169169-naraka-bladepoint-deluxe-edition.json) |
 | Naraku | 291847 | [291847-naraku.json](./291847-naraku.json) |
@@ -4542,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition Online: Chapter Nova | 78308 | [78308-nobunagas-ambition-online-chapter-nova.json](./78308-nobunagas-ambition-online-chapter-nova.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou | 167063 | [167063-nobunagas-ambition-online-kakusei-no-shou.json](./167063-nobunagas-ambition-online-kakusei-no-shou.json) |
 | Nobunaga's Ambition Online: Kakusei no Shou - Treasure Box | 167064 | [167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json](./167064-nobunagas-ambition-online-kakusei-no-shou-treasure-box.json) |
+| Nobunaga's Ambition Returns | 289749 | [289749-nobunagas-ambition-returns.json](./289749-nobunagas-ambition-returns.json) |
 | Nobunaga's Ambition: Awakening | 245997 | [245997-nobunagas-ambition-awakening.json](./245997-nobunagas-ambition-awakening.json) |
 | Nobunaga's Ambition: Awakening - Scenario "Brotherly Revolt" | 294852 | [294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json](./294852-nobunagas-ambition-awakening-scenario-brotherly-revolt.json) |
 | Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
@@ -4654,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NodeBeat | 68921 | [68921-nodebeat.json](./68921-nodebeat.json) |
 | NodeCore | 396526 | [396526-nodecore.json](./396526-nodecore.json) |
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
+| NodeRunner | 289721 | [289721-noderunner.json](./289721-noderunner.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
 | Nodes of Yesod | 23059 | [23059-nodes-of-yesod.json](./23059-nodes-of-yesod.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
