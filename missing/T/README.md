@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Agaris: The Legendary Rion | 225102 | [225102-tales-of-agaris-the-legendary-rion.json](./225102-tales-of-agaris-the-legendary-rion.json) |
 | Tales of Ancient Nights | 114334 | [114334-tales-of-ancient-nights.json](./114334-tales-of-ancient-nights.json) |
 | Tales of Androgyny | 235248 | [235248-tales-of-androgyny.json](./235248-tales-of-androgyny.json) |
+| Tales of Anturia: Hejstos | 270513 | [270513-tales-of-anturia-hejstos.json](./270513-tales-of-anturia-hejstos.json) |
 | Tales of Aradia: Idle RPG | 358457 | [358457-tales-of-aradia-idle-rpg.json](./358457-tales-of-aradia-idle-rpg.json) |
 | Tales Of Aravorn: Reign Of War | 293832 | [293832-tales-of-aravorn-reign-of-war.json](./293832-tales-of-aravorn-reign-of-war.json) |
 | Tales of Aravorn: Seasons Of The Wolf - Bad Blood | 171632 | [171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json](./171632-tales-of-aravorn-seasons-of-the-wolf-bad-blood.json) |
@@ -1980,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaskMaker | 131288 | [131288-taskmaker.json](./131288-taskmaker.json) |
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
+| TaskTwist | 270553 | [270553-tasktwist.json](./270553-tasktwist.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -2818,6 +2820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest 3000 | 51181 | [51181-tempest-3000.json](./51181-tempest-3000.json) |
 | Tempest 4000 | 54565 | [54565-tempest-4000.json](./54565-tempest-4000.json) |
 | Tempest Citadel | 75106 | [75106-tempest-citadel.json](./75106-tempest-citadel.json) |
+| Tempest Inc. | 270558 | [270558-tempest-inc.json](./270558-tempest-inc.json) |
 | Tempest of the Heavens and Earth | 113643 | [113643-tempest-of-the-heavens-and-earth.json](./113643-tempest-of-the-heavens-and-earth.json) |
 | Tempest Rising: The Vetis Wrath | 410968 | [410968-tempest-rising-the-vetis-wrath.json](./410968-tempest-rising-the-vetis-wrath.json) |
 | Tempest Tower | 327342 | [327342-tempest-tower.json](./327342-tempest-tower.json) |
@@ -8795,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Birdling | 44162 | [44162-the-last-birdling.json](./44162-the-last-birdling.json) |
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
+| The Last Bot | 270547 | [270547-the-last-bot.json](./270547-the-last-bot.json) |
 | The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
 | The Last Breath | 254025 | [254025-the-last-breath.json](./254025-the-last-breath.json) |
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
@@ -10088,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Masked Mage | 110947 | [110947-the-masked-mage.json](./110947-the-masked-mage.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
 | The Masque of Red Death | 271065 | [271065-the-masque-of-red-death.json](./271065-the-masque-of-red-death.json) |
+| The Masquerade | 270530 | [270530-the-masquerade.json](./270530-the-masquerade.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
@@ -16759,6 +16764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Master | 220185 | [220185-tile-master.json](./220185-tile-master.json) |
 | Tile Perfect | 288598 | [288598-tile-perfect.json](./288598-tile-perfect.json) |
 | Tile Rider | 35625 | [35625-tile-rider.json](./35625-tile-rider.json) |
+| Tile Ruler | 270554 | [270554-tile-ruler.json](./270554-tile-ruler.json) |
 | Tile Runner | 174059 | [174059-tile-runner.json](./174059-tile-runner.json) |
 | Tile Slider | 297922 | [297922-tile-slider.json](./297922-tile-slider.json) |
 | Tile Snap | 230227 | [230227-tile-snap.json](./230227-tile-snap.json) |
@@ -20510,6 +20516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Bots: A Technical Analysis Simulation | 233664 | [233664-trade-bots-a-technical-analysis-simulation.json](./233664-trade-bots-a-technical-analysis-simulation.json) |
 | Trade City | 257683 | [257683-trade-city.json](./257683-trade-city.json) |
 | Trade Conquest | 326281 | [326281-trade-conquest.json](./326281-trade-conquest.json) |
+| Trade Disturbance | 270531 | [270531-trade-disturbance.json](./270531-trade-disturbance.json) |
 | Trade Effluent | 229258 | [229258-trade-effluent.json](./229258-trade-effluent.json) |
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
 | Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
