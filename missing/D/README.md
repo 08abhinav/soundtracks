@@ -745,6 +745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Drone | 278550 | [278550-danger-drone.json](./278550-danger-drone.json) |
 | Danger Drop | 254377 | [254377-danger-drop.json](./254377-danger-drop.json) |
 | Danger Ducklings | 219749 | [219749-danger-ducklings.json](./219749-danger-ducklings.json) |
+| Danger Express | 269446 | [269446-danger-express.json](./269446-danger-express.json) |
 | Danger Forever | 169866 | [169866-danger-forever.json](./169866-danger-forever.json) |
 | Danger Freak | 66777 | [66777-danger-freak.json](./66777-danger-freak.json) |
 | Danger Gazers: Next Stop | 170224 | [170224-danger-gazers-next-stop.json](./170224-danger-gazers-next-stop.json) |
@@ -13704,6 +13705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duralumin Wind | 80914 | [80914-duralumin-wind.json](./80914-duralumin-wind.json) |
 | Durango: Wild Lands | 26918 | [26918-durango-wild-lands.json](./26918-durango-wild-lands.json) |
 | Durarara!! 3-way Standoff | 66353 | [66353-durarara-3-way-standoff.json](./66353-durarara-3-way-standoff.json) |
+| Durarara!! 3way Standoff: Alley | 269424 | [269424-durarara-3way-standoff-alley.json](./269424-durarara-3way-standoff-alley.json) |
 | Durarara!! 3way Standoff: Alley V | 336109 | [336109-durarara-3way-standoff-alley-v.json](./336109-durarara-3way-standoff-alley-v.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durations | 5633 | [5633-durations.json](./5633-durations.json) |
