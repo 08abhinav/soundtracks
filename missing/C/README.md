@@ -9366,6 +9366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commandos: Strike Force | 275 | [275-commandos-strike-force.json](./275-commandos-strike-force.json) |
 | Commands & Colors: Ancients | 105485 | [105485-commands-and-colors-ancients.json](./105485-commands-and-colors-ancients.json) |
 | Commands & Colors: The Great War | 33342 | [33342-commands-and-colors-the-great-war.json](./33342-commands-and-colors-the-great-war.json) |
+| CommanDSKeen | 298943 | [298943-commandskeen.json](./298943-commandskeen.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
@@ -9909,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console War Giant | 380762 | [380762-console-war-giant.json](./380762-console-war-giant.json) |
 | Console War Giant | 407313 | [407313-console-war-giant.json](./407313-console-war-giant.json) |
 | Consonance | 374596 | [374596-consonance.json](./374596-consonance.json) |
+| Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
@@ -14686,6 +14688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
 | Cyber City Clash | 207604 | [207604-cyber-city-clash.json](./207604-cyber-city-clash.json) |
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
+| Cyber City Knights | 299005 | [299005-cyber-city-knights.json](./299005-cyber-city-knights.json) |
 | Cyber City Oedo 808: Kemono no Zokusei | 64382 | [64382-cyber-city-oedo-808-kemono-no-zokusei.json](./64382-cyber-city-oedo-808-kemono-no-zokusei.json) |
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
