@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake 1.5 | 117771 | [117771-quake-1-5.json](./117771-quake-1-5.json) |
 | Quake 2 25th Anniversary Collaborative Unit | 402807 | [402807-quake-2-25th-anniversary-collaborative-unit.json](./402807-quake-2-25th-anniversary-collaborative-unit.json) |
 | Quake 3 Fortress | 397034 | [397034-quake-3-fortress.json](./397034-quake-3-fortress.json) |
+| Quake 3 Rally | 278874 | [278874-quake-3-rally.json](./278874-quake-3-rally.json) |
 | Quake 4 | 356 | [356-quake-4.json](./356-quake-4.json) |
 | Quake 4: Lightning Fast Mod Doom Edition | 159050 | [159050-quake-4-lightning-fast-mod-doom-edition.json](./159050-quake-4-lightning-fast-mod-doom-edition.json) |
 | Quake Arena Arcade | 20441 | [20441-quake-arena-arcade.json](./20441-quake-arena-arcade.json) |
