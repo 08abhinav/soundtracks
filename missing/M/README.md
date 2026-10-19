@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
+| Mapleland | 272156 | [272156-mapleland.json](./272156-mapleland.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory 2 | 80348 | [80348-maplestory-2.json](./80348-maplestory-2.json) |
 | Maplestory Blitz | 108795 | [108795-maplestory-blitz.json](./108795-maplestory-blitz.json) |
@@ -7646,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Nights: Singles in the City | 21284 | [21284-miami-nights-singles-in-the-city.json](./21284-miami-nights-singles-in-the-city.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miami Vice | 272177 | [272177-miami-vice.json](./272177-miami-vice.json) |
 | Miami Vice | 28703 | [28703-miami-vice.json](./28703-miami-vice.json) |
 | Miami Vice | 77244 | [77244-miami-vice.json](./77244-miami-vice.json) |
 | Miamo.fun | 267368 | [267368-miamo-fun.json](./267368-miamo-fun.json) |
@@ -15810,6 +15812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysperyence Story 1: The Curious Case of the Headless Magnate | 207899 | [207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json](./207899-mysperyence-story-1-the-curious-case-of-the-headless-magnate.json) |
 | Myst | 236 | [236-myst.json](./236-myst.json) |
 | Myst | 272031 | [272031-myst.json](./272031-myst.json) |
+| Myst | 272173 | [272173-myst.json](./272173-myst.json) |
 | Myst | 340011 | [340011-myst.json](./340011-myst.json) |
 | Myst | 347130 | [347130-myst.json](./347130-myst.json) |
 | Myst 25th Anniversary Collection | 101035 | [101035-myst-25th-anniversary-collection.json](./101035-myst-25th-anniversary-collection.json) |
