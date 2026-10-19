@@ -4932,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
+| Mecha Knights: Nightmare - Operation Ascalon Expansion | 265492 | [265492-mecha-knights-nightmare-operation-ascalon-expansion.json](./265492-mecha-knights-nightmare-operation-ascalon-expansion.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
 | Mecha Kucha Gacha Defence | 255038 | [255038-mecha-kucha-gacha-defence.json](./255038-mecha-kucha-gacha-defence.json) |
 | Mecha Macho | 317390 | [317390-mecha-macho.json](./317390-mecha-macho.json) |
@@ -11398,6 +11399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Monomyth | 179437 | [179437-monomyth.json](./179437-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
+| Mononeko | 265473 | [265473-mononeko.json](./265473-mononeko.json) |
 | Mononobe no Futo to Muttsu no Shiren | 206958 | [206958-mononobe-no-futo-to-muttsu-no-shiren.json](./206958-mononobe-no-futo-to-muttsu-no-shiren.json) |
 | Mononofu Battle Princess of White Lily | 98507 | [98507-mononofu-battle-princess-of-white-lily.json](./98507-mononofu-battle-princess-of-white-lily.json) |
 | Mononoke Chigiri | 343948 | [343948-mononoke-chigiri.json](./343948-mononoke-chigiri.json) |
