@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | Roboquest: Deluxe Edition | 335623 | [335623-roboquest-deluxe-edition.json](./335623-roboquest-deluxe-edition.json) |
 | RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
+| Roborne | 265508 | [265508-roborne.json](./265508-roborne.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
 | RoboSamurai | 333187 | [333187-robosamurai.json](./333187-robosamurai.json) |
@@ -9270,6 +9271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner | 84538 | [84538-runner.json](./84538-runner.json) |
 | Runner Bear | 307074 | [307074-runner-bear.json](./307074-runner-bear.json) |
 | Runner Coaster | 220055 | [220055-runner-coaster.json](./220055-runner-coaster.json) |
+| Runner Fruit Jumping | 265511 | [265511-runner-fruit-jumping.json](./265511-runner-fruit-jumping.json) |
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
