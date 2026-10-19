@@ -1197,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
 | Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
+| Gangs of the Magic Realm | 299021 | [299021-gangs-of-the-magic-realm.json](./299021-gangs-of-the-magic-realm.json) |
 | Gangs of the street | 285379 | [285379-gangs-of-the-street.json](./285379-gangs-of-the-street.json) |
 | Gangs on New York | 345581 | [345581-gangs-on-new-york.json](./345581-gangs-on-new-york.json) |
 | Gangs Town Story | 197333 | [197333-gangs-town-story.json](./197333-gangs-town-story.json) |
@@ -6711,6 +6712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Clicker | 123830 | [123830-grim-clicker.json](./123830-grim-clicker.json) |
 | Grim Dawn: Ashes of Malmouth | 75682 | [75682-grim-dawn-ashes-of-malmouth.json](./75682-grim-dawn-ashes-of-malmouth.json) |
 | Grim Dawn: Crucible Mode DLC | 75683 | [75683-grim-dawn-crucible-mode-dlc.json](./75683-grim-dawn-crucible-mode-dlc.json) |
+| Grim Dawn: Fangs of Asterkarn | 298931 | [298931-grim-dawn-fangs-of-asterkarn.json](./298931-grim-dawn-fangs-of-asterkarn.json) |
 | Grim Dice | 401023 | [401023-grim-dice.json](./401023-grim-dice.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
@@ -7374,6 +7376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
 | Guardians of the Wild Sky | 347896 | [347896-guardians-of-the-wild-sky.json](./347896-guardians-of-the-wild-sky.json) |
+| Guardians of the Zodiac | 299008 | [299008-guardians-of-the-zodiac.json](./299008-guardians-of-the-zodiac.json) |
 | Guardians of Victoria | 34882 | [34882-guardians-of-victoria.json](./34882-guardians-of-victoria.json) |
 | Guardians Survival | 244307 | [244307-guardians-survival.json](./244307-guardians-survival.json) |
 | Guardians: Denjin Makai II | 46781 | [46781-guardians-denjin-makai-ii.json](./46781-guardians-denjin-makai-ii.json) |
