@@ -7392,6 +7392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Kingdoms | 54686 | [54686-guardian-kingdoms.json](./54686-guardian-kingdoms.json) |
 | Guardian Legend | 284351 | [284351-guardian-legend.json](./284351-guardian-legend.json) |
 | Guardian Mage VR | 197080 | [197080-guardian-mage-vr.json](./197080-guardian-mage-vr.json) |
+| Guardian Maia | 270511 | [270511-guardian-maia.json](./270511-guardian-maia.json) |
 | Guardian Master VR | 113735 | [113735-guardian-master-vr.json](./113735-guardian-master-vr.json) |
 | Guardian of Altai | 362923 | [362923-guardian-of-altai.json](./362923-guardian-of-altai.json) |
 | Guardian of Andra: Fragments of Fate | 181605 | [181605-guardian-of-andra-fragments-of-fate.json](./181605-guardian-of-andra-fragments-of-fate.json) |
