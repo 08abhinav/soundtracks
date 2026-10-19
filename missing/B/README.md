@@ -3636,6 +3636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beachgirl Dreams | 337159 | [337159-beachgirl-dreams.json](./337159-beachgirl-dreams.json) |
 | BeachHead 2020 | 173198 | [173198-beachhead-2020.json](./173198-beachhead-2020.json) |
 | BeachRun | 200929 | [200929-beachrun.json](./200929-beachrun.json) |
+| Beachside Bites: Sip & Munch | 257784 | [257784-beachside-bites-sip-and-munch.json](./257784-beachside-bites-sip-and-munch.json) |
 | Beachside Blitz | 353315 | [353315-beachside-blitz.json](./353315-beachside-blitz.json) |
 | Beachside Bloodbath | 337127 | [337127-beachside-bloodbath.json](./337127-beachside-bloodbath.json) |
 | Beacon | 165516 | [165516-beacon.json](./165516-beacon.json) |
@@ -8448,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Walls: The Darkness | 166221 | [166221-bloody-walls-the-darkness.json](./166221-bloody-walls-the-darkness.json) |
 | Bloody Warriors: Shan-Go Troop Strikes Back! | 48541 | [48541-bloody-warriors-shan-go-troop-strikes-back.json](./48541-bloody-warriors-shan-go-troop-strikes-back.json) |
 | Bloody Zombies | 100185 | [100185-bloody-zombies.json](./100185-bloody-zombies.json) |
+| BloodyXmas 2010 | 257789 | [257789-bloodyxmas-2010.json](./257789-bloodyxmas-2010.json) |
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
 | Bloom | 185362 | [185362-bloom.json](./185362-bloom.json) |
@@ -10153,6 +10155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 172047 | [172047-bounce.json](./172047-bounce.json) |
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
+| Bounce & Roll | 257807 | [257807-bounce-and-roll.json](./257807-bounce-and-roll.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
 | Bounce and Pop | 227423 | [227423-bounce-and-pop.json](./227423-bounce-and-pop.json) |
@@ -12146,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Burst | 113274 | [113274-bubble-burst.json](./113274-bubble-burst.json) |
 | Bubble Burst | 362446 | [362446-bubble-burst.json](./362446-bubble-burst.json) |
 | Bubble Burst Remix | 206689 | [206689-bubble-burst-remix.json](./206689-bubble-burst-remix.json) |
+| Bubble Burst: PlayWithPlanets | 257776 | [257776-bubble-burst-playwithplanets.json](./257776-bubble-burst-playwithplanets.json) |
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
@@ -12830,6 +12834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
 | Bumper Arena | 258355 | [258355-bumper-arena.json](./258355-bumper-arena.json) |
+| Bumper Ball | 257798 | [257798-bumper-ball.json](./257798-bumper-ball.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
 | Bumper Bash | 40630 | [40630-bumper-bash.json](./40630-bumper-bash.json) |
