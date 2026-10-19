@@ -8044,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code 9 | 55681 | [55681-code-9.json](./55681-code-9.json) |
 | Code Adventure | 179182 | [179182-code-adventure.json](./179182-code-adventure.json) |
 | Code Adventures | 108271 | [108271-code-adventures.json](./108271-code-adventures.json) |
+| Code Age Brawls: Futatsu no Kodou | 287516 | [287516-code-age-brawls-futatsu-no-kodou.json](./287516-code-age-brawls-futatsu-no-kodou.json) |
 | Code Alpha: The Final Frontier | 284828 | [284828-code-alpha-the-final-frontier.json](./284828-code-alpha-the-final-frontier.json) |
 | Code angel | 153943 | [153943-code-angel.json](./153943-code-angel.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
@@ -9837,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
 | Connection | 100859 | [100859-connection.json](./100859-connection.json) |
 | Connection | 195956 | [195956-connection.json](./195956-connection.json) |
+| Connection | 287497 | [287497-connection.json](./287497-connection.json) |
 | Connection | 322574 | [322574-connection.json](./322574-connection.json) |
 | Connection Crawler | 418586 | [418586-connection-crawler.json](./418586-connection-crawler.json) |
 | Connection Error | 234022 | [234022-connection-error.json](./234022-connection-error.json) |
