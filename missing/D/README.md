@@ -2797,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
 | Dead Turn | 410284 | [410284-dead-turn.json](./410284-dead-turn.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
+| Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
+| DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
 | DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
