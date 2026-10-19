@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickflash: A Fabula Story | 192431 | [192431-quickflash-a-fabula-story.json](./192431-quickflash-a-fabula-story.json) |
 | Quickie Takeout | 417993 | [417993-quickie-takeout.json](./417993-quickie-takeout.json) |
 | Quickie World | 201267 | [201267-quickie-world.json](./201267-quickie-world.json) |
+| Quickie World 2 | 268338 | [268338-quickie-world-2.json](./268338-quickie-world-2.json) |
 | Quickie: A Love Hotel Story | 158549 | [158549-quickie-a-love-hotel-story.json](./158549-quickie-a-love-hotel-story.json) |
 | Quickie: Fantasy Adventure | 275437 | [275437-quickie-fantasy-adventure.json](./275437-quickie-fantasy-adventure.json) |
 | QuickMaze | 358400 | [358400-quickmaze.json](./358400-quickmaze.json) |
