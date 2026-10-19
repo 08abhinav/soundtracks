@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Plan: Jester's Knife | 247736 | [247736-battle-plan-jesters-knife.json](./247736-battle-plan-jesters-knife.json) |
 | Battle Planet | 15663 | [15663-battle-planet.json](./15663-battle-planet.json) |
 | Battle Planet: Judgement Day | 119242 | [119242-battle-planet-judgement-day.json](./119242-battle-planet-judgement-day.json) |
+| Battle Poet | 274914 | [274914-battle-poet.json](./274914-battle-poet.json) |
 | Battle Poker | 51087 | [51087-battle-poker.json](./51087-battle-poker.json) |
 | Battle Polygon | 129022 | [129022-battle-polygon.json](./129022-battle-polygon.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlepillars: Gold Edition | 36411 | [36411-battlepillars-gold-edition.json](./36411-battlepillars-gold-edition.json) |
 | Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
+| BattlePlan! | 274870 | [274870-battleplan.json](./274870-battleplan.json) |
 | BattlePlatform | 283985 | [283985-battleplatform.json](./283985-battleplatform.json) |
 | Battlepopes | 256728 | [256728-battlepopes.json](./256728-battlepopes.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
@@ -12182,6 +12184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblefish Bob | 341063 | [341063-bubblefish-bob.json](./341063-bubblefish-bob.json) |
 | Bubblegum Bandit | 253421 | [253421-bubblegum-bandit.json](./253421-bubblegum-bandit.json) |
 | Bubblegum Crash | 43201 | [43201-bubblegum-crash.json](./43201-bubblegum-crash.json) |
+| Bubblegum Crisis: Crime Wave | 274889 | [274889-bubblegum-crisis-crime-wave.json](./274889-bubblegum-crisis-crime-wave.json) |
 | Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
 | BubbleGum: Push | 368249 | [368249-bubblegum-push.json](./368249-bubblegum-push.json) |
 | Bubbles | 38537 | [38537-bubbles.json](./38537-bubbles.json) |
@@ -13349,6 +13352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustories | 96690 | [96690-bustories.json](./96690-bustories.json) |
 | Bustout | 42153 | [42153-bustout.json](./42153-bustout.json) |
 | Busty Balls Brick Breaker | 175882 | [175882-busty-balls-brick-breaker.json](./175882-busty-balls-brick-breaker.json) |
+| Busty Bunny the Bounty Babe | 274869 | [274869-busty-bunny-the-bounty-babe.json](./274869-busty-bunny-the-bounty-babe.json) |
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
