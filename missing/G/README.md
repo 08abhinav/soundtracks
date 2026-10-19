@@ -6426,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Mirror | 30598 | [30598-green-mirror.json](./30598-green-mirror.json) |
 | Green Mist Over Portland | 400558 | [400558-green-mist-over-portland.json](./400558-green-mist-over-portland.json) |
 | Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
+| Green Mountain | 307409 | [307409-green-mountain.json](./307409-green-mountain.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
@@ -8013,6 +8014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
 | Guns and Waifus | 157209 | [157209-guns-and-waifus.json](./157209-guns-and-waifus.json) |
+| Guns Arcade: City Crisis VR | 307424 | [307424-guns-arcade-city-crisis-vr.json](./307424-guns-arcade-city-crisis-vr.json) |
 | Guns at Dawn: Arena | 214451 | [214451-guns-at-dawn-arena.json](./214451-guns-at-dawn-arena.json) |
 | Guns Boy | 158170 | [158170-guns-boy.json](./158170-guns-boy.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
