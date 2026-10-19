@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
+| Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
 | Saya: Immoral Labyrinth | 97993 | [97993-saya-immoral-labyrinth.json](./97993-saya-immoral-labyrinth.json) |
@@ -4171,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinel: Mars Defense | 63201 | [63201-sentinel-mars-defense.json](./63201-sentinel-mars-defense.json) |
 | Sentinel: Stones of Disruption | 267797 | [267797-sentinel-stones-of-disruption.json](./267797-sentinel-stones-of-disruption.json) |
+| Sentinels | 258334 | [258334-sentinels.json](./258334-sentinels.json) |
 | Sentinels | 27293 | [27293-sentinels.json](./27293-sentinels.json) |
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
@@ -8405,6 +8407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
+| Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
 | Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
 | Single Spark | 346389 | [346389-single-spark.json](./346389-single-spark.json) |
@@ -11881,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokocat: Dungeon | 166808 | [166808-sokocat-dungeon.json](./166808-sokocat-dungeon.json) |
 | Sokocat: Islands - Remastered | 379186 | [379186-sokocat-islands-remastered.json](./379186-sokocat-islands-remastered.json) |
 | SokoChess | 201496 | [201496-sokochess.json](./201496-sokochess.json) |
+| SokoChess Black | 258312 | [258312-sokochess-black.json](./258312-sokochess-black.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
@@ -21171,6 +21175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
+| Stronghold Conquest | 258331 | [258331-stronghold-conquest.json](./258331-stronghold-conquest.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
 | Stronghold Crusader HD | 29211 | [29211-stronghold-crusader-hd.json](./29211-stronghold-crusader-hd.json) |
 | Stronghold Crusader II: Delivering Justice mini-campaign | 87806 | [87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json](./87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json) |
@@ -22014,6 +22019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuitU | 341166 | [341166-suitu.json](./341166-suitu.json) |
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
+| Sujimon Quest | 258343 | [258343-sujimon-quest.json](./258343-sujimon-quest.json) |
 | Sukakko | 156048 | [156048-sukakko.json](./156048-sukakko.json) |
 | Sukashika Shipanman DS | 69212 | [69212-sukashika-shipanman-ds.json](./69212-sukashika-shipanman-ds.json) |
 | Sukeban Deka II: Shoujo Tekkamen Densetsu | 46119 | [46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json](./46119-sukeban-deka-ii-shoujo-tekkamen-densetsu.json) |
@@ -25494,6 +25500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor TD | 391574 | [391574-survivor-td.json](./391574-survivor-td.json) |
 | Survivor Ultimate | 73343 | [73343-survivor-ultimate.json](./73343-survivor-ultimate.json) |
 | Survivor Warrior-Vampire.io | 245342 | [245342-survivor-warrior-vampire-io.json](./245342-survivor-warrior-vampire-io.json) |
+| Survivor: Castaway Island | 258309 | [258309-survivor-castaway-island.json](./258309-survivor-castaway-island.json) |
 | Survivor: Day One | 62737 | [62737-survivor-day-one.json](./62737-survivor-day-one.json) |
 | Survivor: Gunfire | 406148 | [406148-survivor-gunfire.json](./406148-survivor-gunfire.json) |
 | Survivor: Heroes | 85415 | [85415-survivor-heroes.json](./85415-survivor-heroes.json) |
