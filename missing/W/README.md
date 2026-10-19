@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Races | 175395 | [175395-wild-west-races.json](./175395-wild-west-races.json) |
 | Wild West Rogue | 166609 | [166609-wild-west-rogue.json](./166609-wild-west-rogue.json) |
 | Wild West Saga | 100660 | [100660-wild-west-saga.json](./100660-wild-west-saga.json) |
+| Wild West Saloon | 279481 | [279481-wild-west-saloon.json](./279481-wild-west-saloon.json) |
 | Wild West Seymour | 18575 | [18575-wild-west-seymour.json](./18575-wild-west-seymour.json) |
 | Wild West Shooter | 371137 | [371137-wild-west-shooter.json](./371137-wild-west-shooter.json) |
 | Wild West Steam Loco | 132737 | [132737-wild-west-steam-loco.json](./132737-wild-west-steam-loco.json) |
@@ -5023,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizcave | 211683 | [211683-wizcave.json](./211683-wizcave.json) |
 | Wizdom | 174082 | [174082-wizdom.json](./174082-wizdom.json) |
 | Wizdom | 85500 | [85500-wizdom.json](./85500-wizdom.json) |
+| Wizdom Academy | 279478 | [279478-wizdom-academy.json](./279478-wizdom-academy.json) |
 | Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
