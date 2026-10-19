@@ -2314,6 +2314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casey Taylor: Ace Attorney | 302646 | [302646-casey-taylor-ace-attorney.json](./302646-casey-taylor-ace-attorney.json) |
 | Casey's Contraptions | 63646 | [63646-caseys-contraptions.json](./63646-caseys-contraptions.json) |
 | Cash Cleaner Simulator | 297943 | [297943-cash-cleaner-simulator.json](./297943-cash-cleaner-simulator.json) |
+| Cash Cow DX | 262807 | [262807-cash-cow-dx.json](./262807-cash-cow-dx.json) |
 | Cash Cow: Anniversary Edition | 90837 | [90837-cash-cow-anniversary-edition.json](./90837-cash-cow-anniversary-edition.json) |
 | Cash Crisis: Programmers Search for Money | 108813 | [108813-cash-crisis-programmers-search-for-money.json](./108813-cash-crisis-programmers-search-for-money.json) |
 | Cash Dash | 384544 | [384544-cash-dash.json](./384544-cash-dash.json) |
@@ -7109,12 +7110,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
+| Clarity: The Seven Demons of Vanguardia | 262791 | [262791-clarity-the-seven-demons-of-vanguardia.json](./262791-clarity-the-seven-demons-of-vanguardia.json) |
 | Clark: Hoova VR | 82067 | [82067-clark-hoova-vr.json](./82067-clark-hoova-vr.json) |
 | Clash | 125302 | [125302-clash.json](./125302-clash.json) |
 | Clash | 213861 | [213861-clash.json](./213861-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
+| Clash Cats | 262834 | [262834-clash-cats.json](./262834-clash-cats.json) |
 | Clash Cup Turbo | 34703 | [34703-clash-cup-turbo.json](./34703-clash-cup-turbo.json) |
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash Force | 72405 | [72405-clash-force.json](./72405-clash-force.json) |
@@ -11136,6 +11139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
+| Cosmic Resistance | 262816 | [262816-cosmic-resistance.json](./262816-cosmic-resistance.json) |
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
 | Cosmic Rochambo | 131920 | [131920-cosmic-rochambo.json](./131920-cosmic-rochambo.json) |
