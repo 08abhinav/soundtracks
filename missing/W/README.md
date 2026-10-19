@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
+| Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
 | Witch Elixir | 149370 | [149370-witch-elixir.json](./149370-witch-elixir.json) |
 | Witch Epoch | 203528 | [203528-witch-epoch.json](./203528-witch-epoch.json) |
