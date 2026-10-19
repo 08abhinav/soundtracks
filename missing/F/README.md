@@ -458,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faint Call | 301699 | [301699-faint-call.json](./301699-faint-call.json) |
 | Fair | 57508 | [57508-fair.json](./57508-fair.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
+| Fair and Square | 266068 | [266068-fair-and-square.json](./266068-fair-and-square.json) |
 | Fair and Square | 380757 | [380757-fair-and-square.json](./380757-fair-and-square.json) |
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
@@ -1810,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell Planet | 122957 | [122957-farewell-planet.json](./122957-farewell-planet.json) |
 | Farewell Sen | 213983 | [213983-farewell-sen.json](./213983-farewell-sen.json) |
 | Farewell to Arms | 113634 | [113634-farewell-to-arms.json](./113634-farewell-to-arms.json) |
+| Farewell To Sunshower | 266079 | [266079-farewell-to-sunshower.json](./266079-farewell-to-sunshower.json) |
 | Farewell to the Universe | 177497 | [177497-farewell-to-the-universe.json](./177497-farewell-to-the-universe.json) |
 | Farewell, Bunny Boy | 341673 | [341673-farewell-bunny-boy.json](./341673-farewell-bunny-boy.json) |
 | Farewell, My Dearest Love | 314063 | [314063-farewell-my-dearest-love.json](./314063-farewell-my-dearest-love.json) |
