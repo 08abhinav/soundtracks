@@ -1145,6 +1145,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.T.R.A. | 175770 | [175770-a-s-t-r-a.json](./175770-a-s-t-r-a.json) |
 | A.T.O.M. | 164426 | [164426-a-t-o-m.json](./164426-a-t-o-m.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
+| A.V.A: Global - Busters Content | 302806 | [302806-a-v-a-global-busters-content.json](./302806-a-v-a-global-busters-content.json) |
+| A.V.A: Global - Busters Content: Lilly Edition | 302807 | [302807-a-v-a-global-busters-content-lilly-edition.json](./302807-a-v-a-global-busters-content-lilly-edition.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
 | A.void | 128428 | [128428-a-void.json](./128428-a-void.json) |
 | A.W.O.L. | 193214 | [193214-a-w-o-l.json](./193214-a-w-o-l.json) |
@@ -1788,6 +1790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
+| Ace Gambler: Phoenix Wright | 302644 | [302644-ace-gambler-phoenix-wright.json](./302644-ace-gambler-phoenix-wright.json) |
 | Ace In Space | 128339 | [128339-ace-in-space.json](./128339-ace-in-space.json) |
 | Ace Invaders | 147460 | [147460-ace-invaders.json](./147460-ace-invaders.json) |
 | Ace Lightning | 248736 | [248736-ace-lightning.json](./248736-ace-lightning.json) |
@@ -5524,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
+| Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
 | Alpine Crawler World | 174342 | [174342-alpine-crawler-world.json](./174342-alpine-crawler-world.json) |
@@ -11508,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Warrior | 37176 | [37176-astro-warrior.json](./37176-astro-warrior.json) |
 | Astro Warrior/Pit Pot | 93584 | [93584-astro-warrior-pit-pot.json](./93584-astro-warrior-pit-pot.json) |
 | Astro Wars | 250337 | [250337-astro-wars.json](./250337-astro-wars.json) |
+| Astro Wars | 302801 | [302801-astro-wars.json](./302801-astro-wars.json) |
 | Astro Wars | 47284 | [47284-astro-wars.json](./47284-astro-wars.json) |
 | Astro Wars II: Battle in Galaxy | 62618 | [62618-astro-wars-ii-battle-in-galaxy.json](./62618-astro-wars-ii-battle-in-galaxy.json) |
 | Astro Wars: Invader From Space | 62619 | [62619-astro-wars-invader-from-space.json](./62619-astro-wars-invader-from-space.json) |
