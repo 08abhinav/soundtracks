@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
 | Fallout: The Frontier | 25878 | [25878-fallout-the-frontier.json](./25878-fallout-the-frontier.json) |
+| Fallout: Yesterday | 290277 | [290277-fallout-yesterday.json](./290277-fallout-yesterday.json) |
 | Fallow | 56437 | [56437-fallow.json](./56437-fallow.json) |
 | Falls and Jumps | 262904 | [262904-falls-and-jumps.json](./262904-falls-and-jumps.json) |
 | Fallsaga | 355127 | [355127-fallsaga.json](./355127-fallsaga.json) |
@@ -9439,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
 | Fruit Ninja | 1684 | [1684-fruit-ninja.json](./1684-fruit-ninja.json) |
+| Fruit Ninja | 290243 | [290243-fruit-ninja.json](./290243-fruit-ninja.json) |
 | Fruit Ninja Academy: Math Master | 193723 | [193723-fruit-ninja-academy-math-master.json](./193723-fruit-ninja-academy-math-master.json) |
 | Fruit Ninja Frenzy | 64750 | [64750-fruit-ninja-frenzy.json](./64750-fruit-ninja-frenzy.json) |
 | Fruit Ninja Kinect | 65910 | [65910-fruit-ninja-kinect.json](./65910-fruit-ninja-kinect.json) |
