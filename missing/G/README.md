@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitter Star Nucleus | 174600 | [174600-glitter-star-nucleus.json](./174600-glitter-star-nucleus.json) |
 | Glittering Sword | 143112 | [143112-glittering-sword.json](./143112-glittering-sword.json) |
 | Glix | 264547 | [264547-glix.json](./264547-glix.json) |
+| Glixel | 260533 | [260533-glixel.json](./260533-glixel.json) |
 | GlizzySouls | 395261 | [395261-glizzysouls.json](./395261-glizzysouls.json) |
 | Glo | 165591 | [165591-glo.json](./165591-glo.json) |
 | Glö Phlox | 110548 | [110548-glo-phlox.json](./110548-glo-phlox.json) |
@@ -4502,6 +4503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godspell Defender | 201667 | [201667-godspell-defender.json](./201667-godspell-defender.json) |
 | Godstone | 187822 | [187822-godstone.json](./187822-godstone.json) |
 | Godstrike | 141527 | [141527-godstrike.json](./141527-godstrike.json) |
+| Godsvivors | 260518 | [260518-godsvivors.json](./260518-godsvivors.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godus | 3115 | [3115-godus.json](./3115-godus.json) |
