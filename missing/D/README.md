@@ -3551,6 +3551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
+| Decision 2: New City | 300446 | [300446-decision-2-new-city.json](./300446-decision-2-new-city.json) |
 | Decision in the Desert | 25923 | [25923-decision-in-the-desert.json](./25923-decision-in-the-desert.json) |
 | Decision Point | 373148 | [373148-decision-point.json](./373148-decision-point.json) |
 | Decision: Medieval | 95933 | [95933-decision-medieval.json](./95933-decision-medieval.json) |
@@ -4941,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths Debris | 339074 | [339074-depths-debris.json](./339074-depths-debris.json) |
 | Depths Of Apollyon | 351123 | [351123-depths-of-apollyon.json](./351123-depths-of-apollyon.json) |
 | Depths of Betrayal | 175800 | [175800-depths-of-betrayal.json](./175800-depths-of-betrayal.json) |
+| Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
@@ -13878,6 +13880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Flare | 293616 | [293616-dynamite-flare.json](./293616-dynamite-flare.json) |
 | Dynamite Golf | 175210 | [175210-dynamite-golf.json](./175210-dynamite-golf.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
+| Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
