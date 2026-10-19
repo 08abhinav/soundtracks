@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble Quest | 410235 | [410235-nibble-quest.json](./410235-nibble-quest.json) |
 | Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
+| Nibblet | 256709 | [256709-nibblet.json](./256709-nibblet.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
 | Nibiru | 205071 | [205071-nibiru.json](./205071-nibiru.json) |
