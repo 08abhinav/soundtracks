@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Classic | 43029 | [43029-call-of-duty-classic.json](./43029-call-of-duty-classic.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
+| Call of Duty Ghosts: Festive Pack | 305608 | [305608-call-of-duty-ghosts-festive-pack.json](./305608-call-of-duty-ghosts-festive-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
 | Call of Duty: Advanced Warfare - Ascendance | 20890 | [20890-call-of-duty-advanced-warfare-ascendance.json](./20890-call-of-duty-advanced-warfare-ascendance.json) |
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
@@ -591,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Hentai Neko | 367511 | [367511-call-of-hentai-neko.json](./367511-call-of-hentai-neko.json) |
+| Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
@@ -7759,6 +7761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue: Deluxe Edition | 279886 | [279886-clue-deluxe-edition.json](./279886-clue-deluxe-edition.json) |
 | Clue: Murder By Death | 267439 | [267439-clue-murder-by-death.json](./267439-clue-murder-by-death.json) |
 | Clue: Secrets & Spies | 366414 | [366414-clue-secrets-and-spies.json](./366414-clue-secrets-and-spies.json) |
+| Clue: Whispering Pines Retreat Crime Scene | 305621 | [305621-clue-whispering-pines-retreat-crime-scene.json](./305621-clue-whispering-pines-retreat-crime-scene.json) |
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
 | Clue/Cluedo: Classic | 99301 | [99301-clue-cluedo-classic.json](./99301-clue-cluedo-classic.json) |
@@ -13773,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
+| Cube Jumper | 305630 | [305630-cube-jumper.json](./305630-cube-jumper.json) |
 | Cube Jumper VR | 369686 | [369686-cube-jumper-vr.json](./369686-cube-jumper-vr.json) |
 | Cube Kabaam | 377718 | [377718-cube-kabaam.json](./377718-cube-kabaam.json) |
 | Cube Kingdoms | 258967 | [258967-cube-kingdoms.json](./258967-cube-kingdoms.json) |
