@@ -4508,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
 | Demetrios: The Big Cynical Adventure - Replastered | 194005 | [194005-demetrios-the-big-cynical-adventure-replastered.json](./194005-demetrios-the-big-cynical-adventure-replastered.json) |
 | Demetrios: The Big Cynical Adventure & Xenon Valkyrie+ | 145053 | [145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json](./145053-demetrios-the-big-cynical-adventure-and-xenon-valkyrie.json) |
+| Demi Daggers | 283616 | [283616-demi-daggers.json](./283616-demi-daggers.json) |
 | Demian | 338825 | [338825-demian.json](./338825-demian.json) |
 | Demian Saga | 243621 | [243621-demian-saga.json](./243621-demian-saga.json) |
 | Demian: The Ritual | 157412 | [157412-demian-the-ritual.json](./157412-demian-the-ritual.json) |
@@ -8898,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't die in space! | 236783 | [236783-dont-die-in-space.json](./236783-dont-die-in-space.json) |
 | Don't Die Mr Robot! DX | 99306 | [99306-dont-die-mr-robot-dx.json](./99306-dont-die-mr-robot-dx.json) |
 | Don't Die Roguelike | 395892 | [395892-dont-die-roguelike.json](./395892-dont-die-roguelike.json) |
+| Don't Die, Kangel! | 283604 | [283604-dont-die-kangel.json](./283604-dont-die-kangel.json) |
 | Don't Die, Mr. Robot! | 52178 | [52178-dont-die-mr-robot.json](./52178-dont-die-mr-robot.json) |
 | Don't Die! | 343340 | [343340-dont-die.json](./343340-dont-die.json) |
 | Don't Die! | 41924 | [41924-dont-die.json](./41924-dont-die.json) |
@@ -10552,6 +10554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Sparking! Zero: Season Pass | 323406 | [323406-dragon-ball-sparking-zero-season-pass.json](./323406-dragon-ball-sparking-zero-season-pass.json) |
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
+| Dragon Ball Super: Card Game - Fusion World | 283612 | [283612-dragon-ball-super-card-game-fusion-world.json](./283612-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Xenoverse 2: Dragon Ball Daima Pack | 366824 | [366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json](./366824-dragon-ball-xenoverse-2-dragon-ball-daima-pack.json) |
 | Dragon Ball Xenoverse 2: Lite Version | 116372 | [116372-dragon-ball-xenoverse-2-lite-version.json](./116372-dragon-ball-xenoverse-2-lite-version.json) |
 | Dragon Ball Xenoverse and Dragon Ball Xenoverse 2 Double Pack | 141765 | [141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json](./141765-dragon-ball-xenoverse-and-dragon-ball-xenoverse-2-double-pack.json) |
@@ -13868,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Enhanced Edition | 248317 | [248317-dying-light-enhanced-edition.json](./248317-dying-light-enhanced-edition.json) |
 | Dying Light: Godfather Bundle | 224142 | [224142-dying-light-godfather-bundle.json](./224142-dying-light-godfather-bundle.json) |
 | Dying Light: Harran Inmate Bundle | 224137 | [224137-dying-light-harran-inmate-bundle.json](./224137-dying-light-harran-inmate-bundle.json) |
+| Dying Light: My Apocalypse Collectors Edition | 283599 | [283599-dying-light-my-apocalypse-collectors-edition.json](./283599-dying-light-my-apocalypse-collectors-edition.json) |
 | Dying Light: Ox Warrior Bundle | 224134 | [224134-dying-light-ox-warrior-bundle.json](./224134-dying-light-ox-warrior-bundle.json) |
 | Dying Light: Platinum Edition | 152030 | [152030-dying-light-platinum-edition.json](./152030-dying-light-platinum-edition.json) |
 | Dying Light: Rais Elite Bundle | 224138 | [224138-dying-light-rais-elite-bundle.json](./224138-dying-light-rais-elite-bundle.json) |
