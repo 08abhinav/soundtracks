@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Careening | 379174 | [379174-careening.json](./379174-careening.json) |
 | Career Fantasy | 318515 | [318515-career-fantasy.json](./318515-career-fantasy.json) |
 | Career of the President | 164860 | [164860-career-of-the-president.json](./164860-career-of-the-president.json) |
+| Careful Gardeners | 291864 | [291864-careful-gardeners.json](./291864-careful-gardeners.json) |
 | Caren and the Tangled Tentacles | 344976 | [344976-caren-and-the-tangled-tentacles.json](./344976-caren-and-the-tangled-tentacles.json) |
 | Carena | 135830 | [135830-carena.json](./135830-carena.json) |
 | Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
@@ -3776,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Rumble | 177781 | [177781-celtic-rumble.json](./177781-celtic-rumble.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Celtic Village | 218637 | [218637-celtic-village.json](./218637-celtic-village.json) |
+| Celtic Warfare | 291821 | [291821-celtic-warfare.json](./291821-celtic-warfare.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Factory | 367832 | [367832-cement-factory.json](./367832-cement-factory.json) |
 | Cement Truck | 105921 | [105921-cement-truck.json](./105921-cement-truck.json) |
@@ -5598,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chomp Hero | 392253 | [392253-chomp-hero.json](./392253-chomp-hero.json) |
 | Chomp! | 137067 | [137067-chomp.json](./137067-chomp.json) |
 | Chompania | 284969 | [284969-chompania.json](./284969-chompania.json) |
+| Chomper | 291838 | [291838-chomper.json](./291838-chomper.json) |
 | Chomper 3D | 146198 | [146198-chomper-3d.json](./146198-chomper-3d.json) |
 | Chomper and Friends Jump! | 59355 | [59355-chomper-and-friends-jump.json](./59355-chomper-and-friends-jump.json) |
 | Chomper and Friends World | 59356 | [59356-chomper-and-friends-world.json](./59356-chomper-and-friends-world.json) |
@@ -10567,6 +10570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | CopyPasta with Cheese | 282094 | [282094-copypasta-with-cheese.json](./282094-copypasta-with-cheese.json) |
+| Copz N Zombies | 291866 | [291866-copz-n-zombies.json](./291866-copz-n-zombies.json) |
 | Coquette Dragoon: Volume One | 210093 | [210093-coquette-dragoon-volume-one.json](./210093-coquette-dragoon-volume-one.json) |
 | Coqui the Game | 55982 | [55982-coqui-the-game.json](./55982-coqui-the-game.json) |
 | Cor Ex Machina | 63876 | [63876-cor-ex-machina.json](./63876-cor-ex-machina.json) |
@@ -12479,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crest of the Stars | 57940 | [57940-crest-of-the-stars.json](./57940-crest-of-the-stars.json) |
 | Cresteaju | 143094 | [143094-cresteaju.json](./143094-cresteaju.json) |
 | Crestfall | 327897 | [327897-crestfall.json](./327897-crestfall.json) |
+| Crestfallen: Medieval Survival | 291827 | [291827-crestfallen-medieval-survival.json](./291827-crestfallen-medieval-survival.json) |
 | Creta | 318538 | [318538-creta.json](./318538-creta.json) |
 | Cretaceous Carnage | 146803 | [146803-cretaceous-carnage.json](./146803-cretaceous-carnage.json) |
 | Cretaceous Crunch | 380761 | [380761-cretaceous-crunch.json](./380761-cretaceous-crunch.json) |
@@ -13154,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd City: Zombie Edition | 274485 | [274485-crowd-city-zombie-edition.json](./274485-crowd-city-zombie-edition.json) |
 | Crowd Control | 103548 | [103548-crowd-control.json](./103548-crowd-control.json) |
 | Crowd Control VR | 295788 | [295788-crowd-control-vr.json](./295788-crowd-control-vr.json) |
+| Crowd Diver | 291819 | [291819-crowd-diver.json](./291819-crowd-diver.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
@@ -14381,6 +14387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Bloodline | 338253 | [338253-cursed-bloodline.json](./338253-cursed-bloodline.json) |
 | Cursed Broom | 214146 | [214146-cursed-broom.json](./214146-cursed-broom.json) |
 | Cursed by Feedback | 364666 | [364666-cursed-by-feedback.json](./364666-cursed-by-feedback.json) |
+| Cursed Canvas | 291848 | [291848-cursed-canvas.json](./291848-cursed-canvas.json) |
 | Cursed Cargo | 394329 | [394329-cursed-cargo.json](./394329-cursed-cargo.json) |
 | Cursed Castilla | 197635 | [197635-cursed-castilla.json](./197635-cursed-castilla.json) |
 | Cursed Castilla | 288182 | [288182-cursed-castilla.json](./288182-cursed-castilla.json) |
