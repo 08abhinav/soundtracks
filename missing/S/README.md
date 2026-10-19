@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
+| Searching | 292389 | [292389-searching.json](./292389-searching.json) |
 | Searching for Objects in the Forest | 173268 | [173268-searching-for-objects-in-the-forest.json](./173268-searching-for-objects-in-the-forest.json) |
 | Searching For Rest | 244364 | [244364-searching-for-rest.json](./244364-searching-for-rest.json) |
 | Seas of Blood | 26356 | [26356-seas-of-blood.json](./26356-seas-of-blood.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Smash | 264216 | [264216-ship-smash.json](./264216-ship-smash.json) |
 | Ship Surveyor Through the Ages: VR | 170324 | [170324-ship-surveyor-through-the-ages-vr.json](./170324-ship-surveyor-through-the-ages-vr.json) |
 | Ship v Maze | 376281 | [376281-ship-v-maze.json](./376281-ship-v-maze.json) |
+| Ship's Cat | 292392 | [292392-ships-cat.json](./292392-ships-cat.json) |
 | Shipbreakers | 107366 | [107366-shipbreakers.json](./107366-shipbreakers.json) |
 | ShipCrafter | 371975 | [371975-shipcrafter.json](./371975-shipcrafter.json) |
 | Shiperoids | 31853 | [31853-shiperoids.json](./31853-shiperoids.json) |
@@ -11399,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
+| Snyatcher | 292387 | [292387-snyatcher.json](./292387-snyatcher.json) |
 | So 2 Mice Walk into a Bar... | 282702 | [282702-so-2-mice-walk-into-a-bar.json](./282702-so-2-mice-walk-into-a-bar.json) |
 | So Below | 218732 | [218732-so-below.json](./218732-so-below.json) |
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
@@ -13487,6 +13490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul device | 278365 | [278365-soul-device.json](./278365-soul-device.json) |
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
+| Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
 | Soul Essence | 174827 | [174827-soul-essence.json](./174827-soul-essence.json) |
@@ -15186,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Realm | 340191 | [340191-spectral-realm.json](./340191-spectral-realm.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
+| Spectral Scream | 292386 | [292386-spectral-scream.json](./292386-spectral-scream.json) |
 | Spectral Shades: Fragments | 191199 | [191199-spectral-shades-fragments.json](./191199-spectral-shades-fragments.json) |
 | Spectral Showdown | 211799 | [211799-spectral-showdown.json](./211799-spectral-showdown.json) |
 | Spectral Souls | 175756 | [175756-spectral-souls.json](./175756-spectral-souls.json) |
@@ -18888,6 +18893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
+| Staying Fresh | 292364 | [292364-staying-fresh.json](./292364-staying-fresh.json) |
 | Staying Together | 129647 | [129647-staying-together.json](./129647-staying-together.json) |
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
 | STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
@@ -20903,6 +20909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strong: Search for the Mightiest Person | 246975 | [246975-strong-search-for-the-mightiest-person.json](./246975-strong-search-for-the-mightiest-person.json) |
 | StrongBadZone | 135863 | [135863-strongbadzone.json](./135863-strongbadzone.json) |
 | Strongblade: Match 3 Puzzle and Match-3 Adventure | 253848 | [253848-strongblade-match-3-puzzle-and-match-3-adventure.json](./253848-strongblade-match-3-puzzle-and-match-3-adventure.json) |
+| Strongest Angel Zerachiel! | 292377 | [292377-strongest-angel-zerachiel.json](./292377-strongest-angel-zerachiel.json) |
 | Strongford Penitentiary Lost Tape 91 | 285401 | [285401-strongford-penitentiary-lost-tape-91.json](./285401-strongford-penitentiary-lost-tape-91.json) |
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
@@ -25252,6 +25259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
 | SushiCat: Bento | 363948 | [363948-sushicat-bento.json](./363948-sushicat-bento.json) |
 | SushiCup Legend | 342618 | [342618-sushicup-legend.json](./342618-sushicup-legend.json) |
+| Sushido | 292381 | [292381-sushido.json](./292381-sushido.json) |
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
