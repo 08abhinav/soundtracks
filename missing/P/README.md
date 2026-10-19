@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Is a Virtue | 404703 | [404703-patience-is-a-virtue.json](./404703-patience-is-a-virtue.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
 | Patient 001 | 331395 | [331395-patient-001.json](./331395-patient-001.json) |
+| Patient No. 26 | 291841 | [291841-patient-no-26.json](./291841-patient-no-26.json) |
 | Patient Rogue | 177482 | [177482-patient-rogue.json](./177482-patient-rogue.json) |
 | Patient Seven | 322709 | [322709-patient-seven.json](./322709-patient-seven.json) |
 | Patient Zero | 192676 | [192676-patient-zero.json](./192676-patient-zero.json) |
@@ -3130,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppa Pig: The New House | 116405 | [116405-peppa-pig-the-new-house.json](./116405-peppa-pig-the-new-house.json) |
 | Peppa Pig: Theme Park Fun | 23391 | [23391-peppa-pig-theme-park-fun.json](./23391-peppa-pig-theme-park-fun.json) |
 | Peppa Pig: World Adventures | 229119 | [229119-peppa-pig-world-adventures.json](./229119-peppa-pig-world-adventures.json) |
+| Pepper | 291850 | [291850-pepper.json](./291850-pepper.json) |
 | Pepper Girl | 226191 | [226191-pepper-girl.json](./226191-pepper-girl.json) |
 | Pepper Pengui | 363046 | [363046-pepper-pengui.json](./363046-pepper-pengui.json) |
 | Pepper Rush | 382890 | [382890-pepper-rush.json](./382890-pepper-rush.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piraka Attack | 409761 | [409761-piraka-attack.json](./409761-piraka-attack.json) |
 | Piranesian | 416034 | [416034-piranesian.json](./416034-piranesian.json) |
 | Piranha | 351661 | [351661-piranha.json](./351661-piranha.json) |
+| Piranha Feeding | 291836 | [291836-piranha-feeding.json](./291836-piranha-feeding.json) |
 | Piranha Panic | 114750 | [114750-piranha-panic.json](./114750-piranha-panic.json) |
 | Pirap Ilji: Geu Namjarobuteoui Talchul | 208655 | [208655-pirap-ilji-geu-namjarobuteoui-talchul.json](./208655-pirap-ilji-geu-namjarobuteoui-talchul.json) |
 | Pirarucu's Money Rush | 301023 | [301023-pirarucus-money-rush.json](./301023-pirarucus-money-rush.json) |
@@ -8922,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
+| Polyoshapes | 291828 | [291828-polyoshapes.json](./291828-polyoshapes.json) |
 | PolyPine | 278973 | [278973-polypine.json](./278973-polypine.json) |
 | Polyrhythm Mania | 182445 | [182445-polyrhythm-mania.json](./182445-polyrhythm-mania.json) |
 | Polyrhythm Master | 235175 | [235175-polyrhythm-master.json](./235175-polyrhythm-master.json) |
