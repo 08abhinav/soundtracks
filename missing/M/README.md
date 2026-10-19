@@ -4867,6 +4867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha and Tank Fighting | 149365 | [149365-mecha-and-tank-fighting.json](./149365-mecha-and-tank-fighting.json) |
 | Mecha Arena | 321494 | [321494-mecha-arena.json](./321494-mecha-arena.json) |
 | Mecha Attack | 214103 | [214103-mecha-attack.json](./214103-mecha-attack.json) |
+| Mecha Domination | 304957 | [304957-mecha-domination.json](./304957-mecha-domination.json) |
 | Mecha Jump | 365786 | [365786-mecha-jump.json](./365786-mecha-jump.json) |
 | Mecha Knights: Nightmare | 125202 | [125202-mecha-knights-nightmare.json](./125202-mecha-knights-nightmare.json) |
 | Mecha Knights: Nightmare 2 | 377069 | [377069-mecha-knights-nightmare-2.json](./377069-mecha-knights-nightmare-2.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
+| Mercenaries 2: World Nearly in Flames | 304973 | [304973-mercenaries-2-world-nearly-in-flames.json](./304973-mercenaries-2-world-nearly-in-flames.json) |
 | Mercenaries 3: No Limits | 327016 | [327016-mercenaries-3-no-limits.json](./327016-mercenaries-3-no-limits.json) |
 | Mercenaries Blaze: Dawn of the Twin Dragons | 141648 | [141648-mercenaries-blaze-dawn-of-the-twin-dragons.json](./141648-mercenaries-blaze-dawn-of-the-twin-dragons.json) |
 | Mercenaries of Astonia | 115487 | [115487-mercenaries-of-astonia.json](./115487-mercenaries-of-astonia.json) |
@@ -6961,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
+| Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messenger | 370380 | [370380-messenger.json](./370380-messenger.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
@@ -11368,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Combine TD | 85615 | [85615-monster-combine-td.json](./85615-monster-combine-td.json) |
 | Monster Commanders | 310720 | [310720-monster-commanders.json](./310720-monster-commanders.json) |
 | Monster Company | 208241 | [208241-monster-company.json](./208241-monster-company.json) |
+| Monster Cooking Diary | 304965 | [304965-monster-cooking-diary.json](./304965-monster-cooking-diary.json) |
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
@@ -16065,6 +16069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
 | Mythic Pearls: The Legend of Tirnanog | 73803 | [73803-mythic-pearls-the-legend-of-tirnanog.json](./73803-mythic-pearls-the-legend-of-tirnanog.json) |
 | Mythic Realms | 335289 | [335289-mythic-realms.json](./335289-mythic-realms.json) |
+| Mythic Samkok | 304970 | [304970-mythic-samkok.json](./304970-mythic-samkok.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Wonders: The Child of Prophecy | 59790 | [59790-mythic-wonders-the-child-of-prophecy.json](./59790-mythic-wonders-the-child-of-prophecy.json) |
