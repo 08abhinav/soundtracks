@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
+| Cat Crunch | 304955 | [304955-cat-crunch.json](./304955-cat-crunch.json) |
 | Cat Dance | 178007 | [178007-cat-dance.json](./178007-cat-dance.json) |
 | Cat Dash Go | 236232 | [236232-cat-dash-go.json](./236232-cat-dash-go.json) |
 | Cat Defense | 116940 | [116940-cat-defense.json](./116940-cat-defense.json) |
@@ -3724,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
+| Cellular City | 304977 | [304977-cellular-city.json](./304977-cellular-city.json) |
 | Cellular Harvest: Purple | 152276 | [152276-cellular-harvest-purple.json](./152276-cellular-harvest-purple.json) |
 | Cellular Survival | 296346 | [296346-cellular-survival.json](./296346-cellular-survival.json) |
 | Cellveillance | 362743 | [362743-cellveillance.json](./362743-cellveillance.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Frenzy | 295347 | [295347-chaos-frenzy.json](./295347-chaos-frenzy.json) |
 | Chaos Front | 291490 | [291490-chaos-front.json](./291490-chaos-front.json) |
 | Chaos Galaxy | 126953 | [126953-chaos-galaxy.json](./126953-chaos-galaxy.json) |
+| Chaos Galaxy | 304960 | [304960-chaos-galaxy.json](./304960-chaos-galaxy.json) |
 | Chaos Galaxy 2 | 148997 | [148997-chaos-galaxy-2.json](./148997-chaos-galaxy-2.json) |
 | Chaos Heat | 122943 | [122943-chaos-heat.json](./122943-chaos-heat.json) |
 | Chaos Hero | 335328 | [335328-chaos-hero.json](./335328-chaos-hero.json) |
@@ -8895,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorless Life | 50525 | [50525-colorless-life.json](./50525-colorless-life.json) |
 | Colorless Life | 50528 | [50528-colorless-life.json](./50528-colorless-life.json) |
 | Colorless Odyssey | 318005 | [318005-colorless-odyssey.json](./318005-colorless-odyssey.json) |
+| Colorma | 304967 | [304967-colorma.json](./304967-colorma.json) |
 | ColorMari | 222925 | [222925-colormari.json](./222925-colormari.json) |
 | Colormeleons | 127703 | [127703-colormeleons.json](./127703-colormeleons.json) |
 | Colorpicker | 304866 | [304866-colorpicker.json](./304866-colorpicker.json) |
@@ -10361,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking with Bebo | 105931 | [105931-cooking-with-bebo.json](./105931-cooking-with-bebo.json) |
 | Cooking with Cat | 180310 | [180310-cooking-with-cat.json](./180310-cooking-with-cat.json) |
 | Cooking With Cthulhu | 176449 | [176449-cooking-with-cthulhu.json](./176449-cooking-with-cthulhu.json) |
+| Cooking Wonderland | 304966 | [304966-cooking-wonderland.json](./304966-cooking-wonderland.json) |
 | Cooking, for lovers | 139814 | [139814-cooking-for-lovers.json](./139814-cooking-for-lovers.json) |
 | Cooking: Green Dragon Set | 324424 | [324424-cooking-green-dragon-set.json](./324424-cooking-green-dragon-set.json) |
 | Cooking: Pizzeria Edition | 362375 | [362375-cooking-pizzeria-edition.json](./362375-cooking-pizzeria-edition.json) |
@@ -10963,6 +10968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoLands \| Space-Adventure | 33482 | [33482-cosmolands-space-adventure.json](./33482-cosmolands-space-adventure.json) |
 | Cosmology of Kyoto | 46577 | [46577-cosmology-of-kyoto.json](./46577-cosmology-of-kyoto.json) |
 | Cosmonade | 373299 | [373299-cosmonade.json](./373299-cosmonade.json) |
+| Cosmonarchy | 304974 | [304974-cosmonarchy.json](./304974-cosmonarchy.json) |
 | Cosmonaut | 228342 | [228342-cosmonaut.json](./228342-cosmonaut.json) |
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
@@ -14028,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
+| Cuffbust | 305005 | [305005-cuffbust.json](./305005-cuffbust.json) |
 | Cuffed | 406659 | [406659-cuffed.json](./406659-cuffed.json) |
 | Cuisine Master VR | 358883 | [358883-cuisine-master-vr.json](./358883-cuisine-master-vr.json) |
 | Cuisineer | 211330 | [211330-cuisineer.json](./211330-cuisineer.json) |
