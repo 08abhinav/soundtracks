@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
+| Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
 | Reflec Beat Limelight | 76462 | [76462-reflec-beat-limelight.json](./76462-reflec-beat-limelight.json) |
 | Reflec Beat Volzza | 369138 | [369138-reflec-beat-volzza.json](./369138-reflec-beat-volzza.json) |
 | Reflec Beat: The Reflesia of Eternity | 140455 | [140455-reflec-beat-the-reflesia-of-eternity.json](./140455-reflec-beat-the-reflesia-of-eternity.json) |
@@ -3305,6 +3306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reformers Intl Ver | 102250 | [102250-reformers-intl-ver.json](./102250-reformers-intl-ver.json) |
 | Reformpunk | 367604 | [367604-reformpunk.json](./367604-reformpunk.json) |
 | Refract | 43162 | [43162-refract.json](./43162-refract.json) |
+| Refracted Reality | 259428 | [259428-refracted-reality.json](./259428-refracted-reality.json) |
 | Refraction | 171338 | [171338-refraction.json](./171338-refraction.json) |
 | Refraction: Beyond the Mirror | 186647 | [186647-refraction-beyond-the-mirror.json](./186647-refraction-beyond-the-mirror.json) |
 | Refrain Blue | 395006 | [395006-refrain-blue.json](./395006-refrain-blue.json) |
@@ -5995,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
+| Risker | 259409 | [259409-risker.json](./259409-risker.json) |
 | Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
 | Risko: Shepherd's Leap | 390150 | [390150-risko-shepherds-leap.json](./390150-risko-shepherds-leap.json) |
 | Risky Bison | 314696 | [314696-risky-bison.json](./314696-risky-bison.json) |
