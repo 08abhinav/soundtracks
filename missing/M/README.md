@@ -7844,6 +7844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
+| Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
 | MicroHorrorArcade Trilogy I - Andy's Story | 135703 | [135703-microhorrorarcade-trilogy-i-andys-story.json](./135703-microhorrorarcade-trilogy-i-andys-story.json) |
 | MicroJam | 371358 | [371358-microjam.json](./371358-microjam.json) |
@@ -8898,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
+| Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
 | Mind Within | 344384 | [344384-mind-within.json](./344384-mind-within.json) |
 | Mind Your Language: Learn English | 47825 | [47825-mind-your-language-learn-english.json](./47825-mind-your-language-learn-english.json) |
 | Mind Your Manas | 118447 | [118447-mind-your-manas.json](./118447-mind-your-manas.json) |
@@ -10931,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Christmas Skins | 309642 | [309642-mojito-the-cat-christmas-skins.json](./309642-mojito-the-cat-christmas-skins.json) |
 | Mojito the Cat: Definitive Edition | 251600 | [251600-mojito-the-cat-definitive-edition.json](./251600-mojito-the-cat-definitive-edition.json) |
 | Mojito the Cat: Deluxe Edition | 226780 | [226780-mojito-the-cat-deluxe-edition.json](./226780-mojito-the-cat-deluxe-edition.json) |
+| Mojito the Cat: Director's Cut | 267233 | [267233-mojito-the-cat-directors-cut.json](./267233-mojito-the-cat-directors-cut.json) |
 | Mojito the Cat: Easter Edition | 246644 | [246644-mojito-the-cat-easter-edition.json](./246644-mojito-the-cat-easter-edition.json) |
 | Mojito the Cat: Extended Edition | 232995 | [232995-mojito-the-cat-extended-edition.json](./232995-mojito-the-cat-extended-edition.json) |
 | Mojito the Cat: Halloween | 403425 | [403425-mojito-the-cat-halloween.json](./403425-mojito-the-cat-halloween.json) |
@@ -14303,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
+| Murder Workbook | 267228 | [267228-murder-workbook.json](./267228-murder-workbook.json) |
 | Murder, She Wrote | 67185 | [67185-murder-she-wrote.json](./67185-murder-she-wrote.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
