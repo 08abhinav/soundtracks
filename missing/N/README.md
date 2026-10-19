@@ -4276,6 +4276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Longer Home: Friary Road | 213359 | [213359-no-longer-home-friary-road.json](./213359-no-longer-home-friary-road.json) |
 | No Loose Threads | 301918 | [301918-no-loose-threads.json](./301918-no-loose-threads.json) |
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
+| No Love Lost: Founders Pack | 290779 | [290779-no-love-lost-founders-pack.json](./290779-no-love-lost-founders-pack.json) |
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
