@@ -7039,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
 | Shrimp Game: Overkrill | 292946 | [292946-shrimp-game-overkrill.json](./292946-shrimp-game-overkrill.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
+| Shrimp.io | 286942 | [286942-shrimp-io.json](./286942-shrimp-io.json) |
 | Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
 | Shrimpwrecked | 310079 | [310079-shrimpwrecked.json](./310079-shrimpwrecked.json) |
 | Shrine | 132241 | [132241-shrine.json](./132241-shrine.json) |
@@ -10588,6 +10589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoked Gun | 149378 | [149378-smoked-gun.json](./149378-smoked-gun.json) |
 | Smoker the Car Game | 107706 | [107706-smoker-the-car-game.json](./107706-smoker-the-car-game.json) |
 | Smokestack Saints: The Parkour Game Part I | 355350 | [355350-smokestack-saints-the-parkour-game-part-i.json](./355350-smokestack-saints-the-parkour-game-part-i.json) |
+| Smokey Bear | 286947 | [286947-smokey-bear.json](./286947-smokey-bear.json) |
 | Smokin Potions | 360455 | [360455-smokin-potions.json](./360455-smokin-potions.json) |
 | Smokin' Guns | 27607 | [27607-smokin-guns.json](./27607-smokin-guns.json) |
 | Smokin' Guns - Shooting Gallery | 135854 | [135854-smokin-guns-shooting-gallery.json](./135854-smokin-guns-shooting-gallery.json) |
@@ -18788,6 +18790,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
+| Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
+| Starward Rogue + Moonshine Inc.: Galactic Spirit Deluxe Bundle | 286970 | [286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json](./286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -21449,6 +21453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudd City Adventures | 134030 | [134030-sudd-city-adventures.json](./134030-sudd-city-adventures.json) |
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
 | Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
 | Sudden Strike | 11794 | [11794-sudden-strike.json](./11794-sudden-strike.json) |
 | Sudden Strike 2 | 22063 | [22063-sudden-strike-2.json](./22063-sudden-strike-2.json) |
