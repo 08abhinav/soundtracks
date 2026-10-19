@@ -7700,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed | 144072 | [144072-hot-wheels-unleashed.json](./144072-hot-wheels-unleashed.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 2 | 300946 | [300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json](./300946-hot-wheels-unleashed-2-acceleracers-free-pack-2.json) |
 | Hot Wheels Unleashed 2: AcceleRacers Free Pack 3 | 304810 | [304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json](./304810-hot-wheels-unleashed-2-acceleracers-free-pack-3.json) |
+| Hot Wheels Unleashed 2: Alien Encounters Expansion Pack | 302209 | [302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json](./302209-hot-wheels-unleashed-2-alien-encounters-expansion-pack.json) |
 | Hot Wheels Unleashed 2: Just a Scratch Pack | 271940 | [271940-hot-wheels-unleashed-2-just-a-scratch-pack.json](./271940-hot-wheels-unleashed-2-just-a-scratch-pack.json) |
 | Hot Wheels Unleashed 2: Mega Bites Free Pack | 297320 | [297320-hot-wheels-unleashed-2-mega-bites-free-pack.json](./297320-hot-wheels-unleashed-2-mega-bites-free-pack.json) |
 | Hot Wheels Unleashed 2: Mercedes-Benz Pack | 312012 | [312012-hot-wheels-unleashed-2-mercedes-benz-pack.json](./312012-hot-wheels-unleashed-2-mercedes-benz-pack.json) |
