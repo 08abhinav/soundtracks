@@ -1434,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captured 2 | 340031 | [340031-captured-2.json](./340031-captured-2.json) |
 | Captured Nao: Final | 97835 | [97835-captured-nao-final.json](./97835-captured-nao-final.json) |
 | Captured Nao: Sexual Violation | 97842 | [97842-captured-nao-sexual-violation.json](./97842-captured-nao-sexual-violation.json) |
+| Captured Nightmare | 270517 | [270517-captured-nightmare.json](./270517-captured-nightmare.json) |
 | Captures | 165670 | [165670-captures.json](./165670-captures.json) |
 | Captures II | 170550 | [170550-captures-ii.json](./170550-captures-ii.json) |
 | Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
@@ -2937,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Search in Feudal Japan | 284798 | [284798-cat-search-in-feudal-japan.json](./284798-cat-search-in-feudal-japan.json) |
 | Cat Search in Medieval Times | 246839 | [246839-cat-search-in-medieval-times.json](./246839-cat-search-in-medieval-times.json) |
+| Cat Search in The Wild West | 270526 | [270526-cat-search-in-the-wild-west.json](./270526-cat-search-in-the-wild-west.json) |
 | Cat Secretary | 292419 | [292419-cat-secretary.json](./292419-cat-secretary.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
@@ -4003,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chained | 309352 | [309352-chained.json](./309352-chained.json) |
 | Chained 2 Violence | 346691 | [346691-chained-2-violence.json](./346691-chained-2-violence.json) |
 | Chained Bikes: Mega Ramp Stunts | 100835 | [100835-chained-bikes-mega-ramp-stunts.json](./100835-chained-bikes-mega-ramp-stunts.json) |
+| Chained Cucumber | 270541 | [270541-chained-cucumber.json](./270541-chained-cucumber.json) |
 | Chained Echoes: Ashes of Elrant | 324936 | [324936-chained-echoes-ashes-of-elrant.json](./324936-chained-echoes-ashes-of-elrant.json) |
 | Chained Heroes | 322435 | [322435-chained-heroes.json](./322435-chained-heroes.json) |
 | Chained Horror Experiences | 258980 | [258980-chained-horror-experiences.json](./258980-chained-horror-experiences.json) |
@@ -4671,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkmates | 57371 | [57371-checkmates.json](./57371-checkmates.json) |
 | CheckMaze | 244678 | [244678-checkmaze.json](./244678-checkmaze.json) |
 | CheckOut | 325579 | [325579-checkout.json](./325579-checkout.json) |
+| Checkout Blitz: The Shopping Dead | 270546 | [270546-checkout-blitz-the-shopping-dead.json](./270546-checkout-blitz-the-shopping-dead.json) |
 | Checkout! | 284816 | [284816-checkout.json](./284816-checkout.json) |
 | Checkpoint | 94120 | [94120-checkpoint.json](./94120-checkpoint.json) |
 | Checkpoint Gary | 281371 | [281371-checkpoint-gary.json](./281371-checkpoint-gary.json) |
@@ -7657,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone Evolution | 317060 | [317060-clone-evolution.json](./317060-clone-evolution.json) |
 | Clone Hero | 84922 | [84922-clone-hero.json](./84922-clone-hero.json) |
 | Clone Hero: Guitar Hero Tracklist | 294143 | [294143-clone-hero-guitar-hero-tracklist.json](./294143-clone-hero-guitar-hero-tracklist.json) |
+| Clone Knights | 270527 | [270527-clone-knights.json](./270527-clone-knights.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
@@ -11573,6 +11578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Crest | 289427 | [289427-cozy-crest.json](./289427-cozy-crest.json) |
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
+| Cozy Desert | 270529 | [270529-cozy-desert.json](./270529-cozy-desert.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Desktop Konbini | 358228 | [358228-cozy-desktop-konbini.json](./358228-cozy-desktop-konbini.json) |
 | Cozy Dream | 280629 | [280629-cozy-dream.json](./280629-cozy-dream.json) |
@@ -13636,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptic Sea EP | 61710 | [61710-cryptic-sea-ep.json](./61710-cryptic-sea-ep.json) |
 | Cryptic Tales: Crossroads | 371461 | [371461-cryptic-tales-crossroads.json](./371461-cryptic-tales-crossroads.json) |
 | Cryptica | 307157 | [307157-cryptica.json](./307157-cryptica.json) |
+| Cryptical Path | 270542 | [270542-cryptical-path.json](./270542-cryptical-path.json) |
 | Cryptid | 253569 | [253569-cryptid.json](./253569-cryptid.json) |
 | Cryptid | 327188 | [327188-cryptid.json](./327188-cryptid.json) |
 | Cryptid Courting | 184901 | [184901-cryptid-courting.json](./184901-cryptid-courting.json) |
