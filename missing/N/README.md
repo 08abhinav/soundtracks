@@ -1437,7 +1437,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negi Sho-gi: Negi Massigura | 311286 | [311286-negi-sho-gi-negi-massigura.json](./311286-negi-sho-gi-negi-massigura.json) |
 | Negima! Magister Negi Magi: 1 Jikan-me - Okochama-sensei ha Mahoutsukai! | 59347 | [59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json](./59347-negima-magister-negi-magi-1-jikan-me-okochama-sensei-ha-mahoutsukai.json) |
 | Negima! Magister Negi Magi: 2 Jikan-me - Tatakau Otome-tachi! Mahora Daiundoukai SP | 59346 | [59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json](./59346-negima-magister-negi-magi-2-jikan-me-tatakau-otome-tachi-mahora-daiundoukai-sp.json) |
+| Negima! Magister Negi Magi: Kagai Jugyou - Otome no Doki-doki Beachside | 276087 | [276087-negima-magister-negi-magi-kagai-jugyou-otome-no-doki-doki-beachside.json](./276087-negima-magister-negi-magi-kagai-jugyou-otome-no-doki-doki-beachside.json) |
+| Negima!? Chou Mahora Taisen Chuu: Check-iin Zenin Shuugou! Yappari Onsen Kichaimashitaa | 276088 | [276088-negima-chou-mahora-taisen-chuu-check-iin-zenin-shuugou-yappari-onsen-kichaimashitaa.json](./276088-negima-chou-mahora-taisen-chuu-check-iin-zenin-shuugou-yappari-onsen-kichaimashitaa.json) |
 | Negima!? Magister Negi Magi: Chou Mahora Taisen Cut-iin, Keiyaku Shikkou Dechai-masuu | 79524 | [79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json](./79524-negima-magister-negi-magi-chou-mahora-taisen-cut-iin-keiyaku-shikkou-dechai-masuu.json) |
+| Negima!? Magister Negi Magi: Dream Tactic Yumemiru Otome Princess | 276089 | [276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json](./276089-negima-magister-negi-magi-dream-tactic-yumemiru-otome-princess.json) |
 | Negima!? Magister Negi Magi: Neo-Pactio Fight!! | 72653 | [72653-negima-magister-negi-magi-neo-pactio-fight.json](./72653-negima-magister-negi-magi-neo-pactio-fight.json) |
 | Negitlet | 360894 | [360894-negitlet.json](./360894-negitlet.json) |
 | Neglected: Trust test | 170904 | [170904-neglected-trust-test.json](./170904-neglected-trust-test.json) |
@@ -2738,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexuiz | 9586 | [9586-nexuiz.json](./9586-nexuiz.json) |
 | Nexus | 26414 | [26414-nexus.json](./26414-nexus.json) |
 | Nexus 2 | 92499 | [92499-nexus-2.json](./92499-nexus-2.json) |
+| Nexus Code | 276051 | [276051-nexus-code.json](./276051-nexus-code.json) |
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus Protocol | 329049 | [329049-nexus-protocol.json](./329049-nexus-protocol.json) |
