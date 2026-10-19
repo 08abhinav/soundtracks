@@ -4668,6 +4668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze: Subject 360 - Collector's Edition | 32785 | [32785-maze-subject-360-collectors-edition.json](./32785-maze-subject-360-collectors-edition.json) |
 | Maze: Subject 360 HD | 95346 | [95346-maze-subject-360-hd.json](./95346-maze-subject-360-hd.json) |
 | Maze: The Amazing Labyrinth | 103554 | [103554-maze-the-amazing-labyrinth.json](./103554-maze-the-amazing-labyrinth.json) |
+| Maze! | 279475 | [279475-maze.json](./279475-maze.json) |
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
@@ -6795,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
+| Merchant Isle | 279488 | [279488-merchant-isle.json](./279488-merchant-isle.json) |
 | Merchant of Phenistoria | 159574 | [159574-merchant-of-phenistoria.json](./159574-merchant-of-phenistoria.json) |
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
@@ -9882,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
 | Mirror Stage | 330687 | [330687-mirror-stage.json](./330687-mirror-stage.json) |
+| Mirror Throne: Auto Battler | 279467 | [279467-mirror-throne-auto-battler.json](./279467-mirror-throne-auto-battler.json) |
 | Mirror VR | 182887 | [182887-mirror-vr.json](./182887-mirror-vr.json) |
 | Mirror War: Reincarnation of Holiness | 215605 | [215605-mirror-war-reincarnation-of-holiness.json](./215605-mirror-war-reincarnation-of-holiness.json) |
 | Mirror Wizard | 412210 | [412210-mirror-wizard.json](./412210-mirror-wizard.json) |
@@ -12424,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More of a Kind | 185597 | [185597-more-of-a-kind.json](./185597-more-of-a-kind.json) |
 | More or Less | 261256 | [261256-more-or-less.json](./261256-more-or-less.json) |
 | More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
+| More Orke | 279490 | [279490-more-orke.json](./279490-more-orke.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
 | More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
