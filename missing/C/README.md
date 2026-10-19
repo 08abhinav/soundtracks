@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Machina | 414295 | [414295-cafe-machina.json](./414295-cafe-machina.json) |
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
+| Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capes: Supporter Pack | 304362 | [304362-capes-supporter-pack.json](./304362-capes-supporter-pack.json) |
 | Capgras | 138023 | [138023-capgras.json](./138023-capgras.json) |
 | Caphaclus Recommence | 207369 | [207369-caphaclus-recommence.json](./207369-caphaclus-recommence.json) |
+| Capibara Lost Dream | 298443 | [298443-capibara-lost-dream.json](./298443-capibara-lost-dream.json) |
 | Capiophobia | 179115 | [179115-capiophobia.json](./179115-capiophobia.json) |
 | Capital | 164431 | [164431-capital.json](./164431-capital.json) |
 | Capital | 311489 | [311489-capital.json](./311489-capital.json) |
@@ -1646,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Lords | 251203 | [251203-card-lords.json](./251203-card-lords.json) |
 | Card Make Arena | 414129 | [414129-card-make-arena.json](./414129-card-make-arena.json) |
 | Card Master | 284294 | [284294-card-master.json](./284294-card-master.json) |
+| Card Master | 298367 | [298367-card-master.json](./298367-card-master.json) |
 | Card Miner | 295650 | [295650-card-miner.json](./295650-card-miner.json) |
 | Card Monsters | 55828 | [55828-card-monsters.json](./55828-card-monsters.json) |
 | Card Night at Gigi's | 407854 | [407854-card-night-at-gigis.json](./407854-card-night-at-gigis.json) |
@@ -3632,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
 | Celebrity Bash | 394201 | [394201-celebrity-bash.json](./394201-celebrity-bash.json) |
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
+| Celebrity Hunter | 298449 | [298449-celebrity-hunter.json](./298449-celebrity-hunter.json) |
 | Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
 | Celebrity Memory - 12in12 Game 1 | 410737 | [410737-celebrity-memory-12in12-game-1.json](./410737-celebrity-memory-12in12-game-1.json) |
@@ -12321,6 +12325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
 | Creature Lab | 156674 | [156674-creature-lab.json](./156674-creature-lab.json) |
+| Creature Match | 298370 | [298370-creature-match.json](./298370-creature-match.json) |
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
