@@ -11339,6 +11339,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Asterix | 128475 | [128475-asterix.json](./128475-asterix.json) |
 | Astérix | 19486 | [19486-asterix.json](./19486-asterix.json) |
+| Astérix | 265028 | [265028-asterix.json](./265028-asterix.json) |
+| Astérix | 265029 | [265029-asterix.json](./265029-asterix.json) |
+| Astérix | 265030 | [265030-asterix.json](./265030-asterix.json) |
 | Astérix | 7757 | [7757-asterix.json](./7757-asterix.json) |
 | Asterix & Cleopatra | 347915 | [347915-asterix-and-cleopatra.json](./347915-asterix-and-cleopatra.json) |
 | Asterix & Friends | 23621 | [23621-asterix-and-friends.json](./23621-asterix-and-friends.json) |
