@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B1 | 289342 | [289342-b1.json](./289342-b1.json) |
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
+| B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
 | B360 | 133393 | [133393-b360.json](./133393-b360.json) |
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
 | B99 | 133265 | [133265-b99.json](./133265-b99.json) |
@@ -7156,6 +7157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blask | 113583 | [113583-blask.json](./113583-blask.json) |
 | Blasphemous + Blasphemous 2 Bundle | 274522 | [274522-blasphemous-blasphemous-2-bundle.json](./274522-blasphemous-blasphemous-2-bundle.json) |
 | Blasphemous 2: Complete Sacrament Edition | 402946 | [402946-blasphemous-2-complete-sacrament-edition.json](./402946-blasphemous-2-complete-sacrament-edition.json) |
+| Blasphemous 2: Limited Collector's Edition | 281293 | [281293-blasphemous-2-limited-collectors-edition.json](./281293-blasphemous-2-limited-collectors-edition.json) |
 | Blasphemous 2: Mea Culpa Edition | 324383 | [324383-blasphemous-2-mea-culpa-edition.json](./324383-blasphemous-2-mea-culpa-edition.json) |
 | Blasphemous Experiments | 268723 | [268723-blasphemous-experiments.json](./268723-blasphemous-experiments.json) |
 | Blasphemous II: Digital Deluxe Edition | 259135 | [259135-blasphemous-ii-digital-deluxe-edition.json](./259135-blasphemous-ii-digital-deluxe-edition.json) |
