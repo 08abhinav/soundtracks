@@ -5281,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
+| Chieri no Doki*Doki Yukemuri Burai Tabi | 266634 | [266634-chieri-no-doki-doki-yukemuri-burai-tabi.json](./266634-chieri-no-doki-doki-yukemuri-burai-tabi.json) |
 | Chigau no Doore da? | 267235 | [267235-chigau-no-doore-da.json](./267235-chigau-no-doore-da.json) |
 | Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
@@ -6869,6 +6870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Rhapsody! | 212808 | [212808-city-rhapsody.json](./212808-city-rhapsody.json) |
 | City Rush | 246428 | [246428-city-rush.json](./246428-city-rush.json) |
 | City Sandbox | 63359 | [63359-city-sandbox.json](./63359-city-sandbox.json) |
+| City Siege | 266640 | [266640-city-siege.json](./266640-city-siege.json) |
 | City Siege 2: Resort Siege | 266841 | [266841-city-siege-2-resort-siege.json](./266841-city-siege-2-resort-siege.json) |
 | City Siege 3: Jungle Siege | 266844 | [266844-city-siege-3-jungle-siege.json](./266844-city-siege-3-jungle-siege.json) |
 | City Siege 4: Alien Siege | 266847 | [266847-city-siege-4-alien-siege.json](./266847-city-siege-4-alien-siege.json) |
@@ -10752,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core Blaze | 28130 | [28130-core-blaze.json](./28130-core-blaze.json) |
 | Core Breach | 292991 | [292991-core-breach.json](./292991-core-breach.json) |
 | Core Decay | 132771 | [132771-core-decay.json](./132771-core-decay.json) |
+| Core Defence | 266618 | [266618-core-defence.json](./266618-core-defence.json) |
 | Core Defense | 127314 | [127314-core-defense.json](./127314-core-defense.json) |
 | Core Descent | 392188 | [392188-core-descent.json](./392188-core-descent.json) |
 | Core Devourer | 235764 | [235764-core-devourer.json](./235764-core-devourer.json) |
@@ -11666,6 +11669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | CozyCat Simulator | 293133 | [293133-cozycat-simulator.json](./293133-cozycat-simulator.json) |
 | Cozycult | 364057 | [364057-cozycult.json](./364057-cozycult.json) |
+| Cozynauts | 266617 | [266617-cozynauts.json](./266617-cozynauts.json) |
 | Cozyrama | 360004 | [360004-cozyrama.json](./360004-cozyrama.json) |
 | CozyTyper | 209678 | [209678-cozytyper.json](./209678-cozytyper.json) |
 | Cozywood Creek | 391802 | [391802-cozywood-creek.json](./391802-cozywood-creek.json) |
@@ -13591,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crux Diaries | 345286 | [345286-crux-diaries.json](./345286-crux-diaries.json) |
 | Crux: The Great Outdoors | 200161 | [200161-crux-the-great-outdoors.json](./200161-crux-the-great-outdoors.json) |
 | Cruxade | 212246 | [212246-cruxade.json](./212246-cruxade.json) |
+| CruxFlaw | 266616 | [266616-cruxflaw.json](./266616-cruxflaw.json) |
 | Cruz Brothers | 55293 | [55293-cruz-brothers.json](./55293-cruz-brothers.json) |
 | Cruzcredo: Become a Legend! | 332272 | [332272-cruzcredo-become-a-legend.json](./332272-cruzcredo-become-a-legend.json) |
 | CRW : Metal Jacket | 127833 | [127833-crw-metal-jacket.json](./127833-crw-metal-jacket.json) |
@@ -13802,6 +13807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Ice Quest | 146899 | [146899-crystal-ice-quest.json](./146899-crystal-ice-quest.json) |
 | Crystal in Carnations | 358303 | [358303-crystal-in-carnations.json](./358303-crystal-in-carnations.json) |
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
+| Crystal Journey: Lum's Adventure | 266620 | [266620-crystal-journey-lums-adventure.json](./266620-crystal-journey-lums-adventure.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
 | Crystal Kingdom Dizzy | 12020 | [12020-crystal-kingdom-dizzy.json](./12020-crystal-kingdom-dizzy.json) |
 | Crystal Kingdom Dizzy 2017 | 45238 | [45238-crystal-kingdom-dizzy-2017.json](./45238-crystal-kingdom-dizzy-2017.json) |
