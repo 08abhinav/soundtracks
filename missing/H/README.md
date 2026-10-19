@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
+| Happy Birthday | 295110 | [295110-happy-birthday.json](./295110-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
 | Happy Birthday, Bernard | 30615 | [30615-happy-birthday-bernard.json](./30615-happy-birthday-bernard.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Champion | 261715 | [261715-hidden-champion.json](./261715-hidden-champion.json) |
 | Hidden Chinese Chess | 242109 | [242109-hidden-chinese-chess.json](./242109-hidden-chinese-chess.json) |
 | Hidden City Top-Down 3D | 267460 | [267460-hidden-city-top-down-3d.json](./267460-hidden-city-top-down-3d.json) |
+| Hidden Clues: Gang Wars | 295101 | [295101-hidden-clues-gang-wars.json](./295101-hidden-clues-gang-wars.json) |
 | Hidden Clues: Mystery Scene Challenge | 409532 | [409532-hidden-clues-mystery-scene-challenge.json](./409532-hidden-clues-mystery-scene-challenge.json) |
 | Hidden Collection | 86714 | [86714-hidden-collection.json](./86714-hidden-collection.json) |
 | Hidden Collection - Fun Seek and Find Hidden Object Puzzles | 90370 | [90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json](./90370-hidden-collection-fun-seek-and-find-hidden-object-puzzles.json) |
@@ -5125,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Fairy Tales | 101345 | [101345-hidden-object-fairy-tales.json](./101345-hidden-object-fairy-tales.json) |
 | Hidden Object Mystery: Ghostly Manor | 105961 | [105961-hidden-object-mystery-ghostly-manor.json](./105961-hidden-object-mystery-ghostly-manor.json) |
 | Hidden Object Secrets: Family Revenge - Collector's Edition | 276663 | [276663-hidden-object-secrets-family-revenge-collectors-edition.json](./276663-hidden-object-secrets-family-revenge-collectors-edition.json) |
+| Hidden Object Secrets: The Whitefield Murder - Collector's Edition | 295072 | [295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json](./295072-hidden-object-secrets-the-whitefield-murder-collectors-edition.json) |
 | Hidden Object Vacation | 217016 | [217016-hidden-object-vacation.json](./217016-hidden-object-vacation.json) |
 | Hidden Object Wedding Day | 100741 | [100741-hidden-object-wedding-day.json](./100741-hidden-object-wedding-day.json) |
 | Hidden Object: Age of the Dinosaurs | 98352 | [98352-hidden-object-age-of-the-dinosaurs.json](./98352-hidden-object-age-of-the-dinosaurs.json) |
