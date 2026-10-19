@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U C U B E | 281473 | [281473-u-c-u-b-e.json](./281473-u-c-u-b-e.json) |
 | U R Hell | 271998 | [271998-u-r-hell.json](./271998-u-r-hell.json) |
 | U-Boat | 347698 | [347698-u-boat.json](./347698-u-boat.json) |
+| U-Boat Command | 282442 | [282442-u-boat-command.json](./282442-u-boat-command.json) |
 | U-Boot - submarine game | 87713 | [87713-u-boot-submarine-game.json](./87713-u-boot-submarine-game.json) |
 | U-Boot 1945 | 102969 | [102969-u-boot-1945.json](./102969-u-boot-1945.json) |
 | U-Boot: The Board Game - Digital Edition | 346372 | [346372-u-boot-the-board-game-digital-edition.json](./346372-u-boot-the-board-game-digital-edition.json) |
