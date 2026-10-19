@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Axe & Final Vendetta Bundle | 311110 | [311110-battle-axe-and-final-vendetta-bundle.json](./311110-battle-axe-and-final-vendetta-bundle.json) |
 | Battle B-Daman | 49365 | [49365-battle-b-daman.json](./49365-battle-b-daman.json) |
 | Battle B-Daman: Fire Spirits! | 49364 | [49364-battle-b-daman-fire-spirits.json](./49364-battle-b-daman-fire-spirits.json) |
+| Battle Babes | 294016 | [294016-battle-babes.json](./294016-battle-babes.json) |
 | Battle Babes: Blood, Sun & Moon | 296528 | [296528-battle-babes-blood-sun-and-moon.json](./296528-battle-babes-blood-sun-and-moon.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
@@ -6574,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Code | 55840 | [55840-black-code.json](./55840-black-code.json) |
 | Black College Football: The Xperience | 47439 | [47439-black-college-football-the-xperience.json](./47439-black-college-football-the-xperience.json) |
 | Black Command | 107221 | [107221-black-command.json](./107221-black-command.json) |
+| Black Constellation | 294014 | [294014-black-constellation.json](./294014-black-constellation.json) |
 | Black Crypt | 8692 | [8692-black-crypt.json](./8692-black-crypt.json) |
 | Black Crystals | 127700 | [127700-black-crystals.json](./127700-black-crystals.json) |
 | Black Cycle | 226194 | [226194-black-cycle.json](./226194-black-cycle.json) |
@@ -9535,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Coin | 221113 | [221113-book-of-coin.json](./221113-book-of-coin.json) |
 | Book of Demons | 22747 | [22747-book-of-demons.json](./22747-book-of-demons.json) |
 | Book of Eos | 115388 | [115388-book-of-eos.json](./115388-book-of-eos.json) |
+| Book of Hours: House of Light | 294012 | [294012-book-of-hours-house-of-light.json](./294012-book-of-hours-house-of-light.json) |
 | Book of Hours: Perpetual Edition DLC | 262230 | [262230-book-of-hours-perpetual-edition-dlc.json](./262230-book-of-hours-perpetual-edition-dlc.json) |
 | Book of Korvald | 389046 | [389046-book-of-korvald.json](./389046-book-of-korvald.json) |
 | Book of Mario | 159321 | [159321-book-of-mario.json](./159321-book-of-mario.json) |
@@ -12628,6 +12631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buluk: Mayan Warfare | 125420 | [125420-buluk-mayan-warfare.json](./125420-buluk-mayan-warfare.json) |
 | Bulwark | 351181 | [351181-bulwark.json](./351181-bulwark.json) |
 | Bulwark Evolution: Falconeer Chronicles | 214486 | [214486-bulwark-evolution-falconeer-chronicles.json](./214486-bulwark-evolution-falconeer-chronicles.json) |
+| Bulwark Evolution: Falconeer Chronicles - Dreadnot Day One | 294008 | [294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json](./294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json) |
 | Bulwark Evolution: Falconeer Chronicles - Mongres Trader Pack | 351177 | [351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json](./351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json) |
 | Bulwark Evolution: Falconeer Chronicles - Verne Bannerless Pack | 351176 | [351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json](./351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json) |
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
