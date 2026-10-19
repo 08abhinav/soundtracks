@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Quiz Mega Q 2022 | 216258 | [216258-party-quiz-mega-q-2022.json](./216258-party-quiz-mega-q-2022.json) |
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
+| Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Versus | 326770 | [326770-party-versus.json](./326770-party-versus.json) |
 | Party Wave | 234506 | [234506-party-wave.json](./234506-party-wave.json) |
 | Party Words | 207543 | [207543-party-words.json](./207543-party-words.json) |
@@ -8303,6 +8304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon RenHERgade Platinum | 387603 | [387603-pokemon-renhergade-platinum.json](./387603-pokemon-renhergade-platinum.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
+| Pokémon Rising Ruby | 309184 | [309184-pokemon-rising-ruby.json](./309184-pokemon-rising-ruby.json) |
 | Pokémon Rocket Edition | 342579 | [342579-pokemon-rocket-edition.json](./342579-pokemon-rocket-edition.json) |
 | Pokemon Roulette | 365067 | [365067-pokemon-roulette.json](./365067-pokemon-roulette.json) |
 | Pokémon Royal | 313116 | [313116-pokemon-royal.json](./313116-pokemon-royal.json) |
