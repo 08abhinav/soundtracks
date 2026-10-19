@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
 | Darkwater | 311201 | [311201-darkwater.json](./311201-darkwater.json) |
 | DarkwebStreamer | 278604 | [278604-darkwebstreamer.json](./278604-darkwebstreamer.json) |
+| Darkwell: Assassin's Choice | 295090 | [295090-darkwell-assassins-choice.json](./295090-darkwell-assassins-choice.json) |
 | DarkWind | 228505 | [228505-darkwind.json](./228505-darkwind.json) |
 | Darkwind: War on Wheels | 17305 | [17305-darkwind-war-on-wheels.json](./17305-darkwind-war-on-wheels.json) |
 | Darkwinds | 113152 | [113152-darkwinds.json](./113152-darkwinds.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
 | Dice Goblins Clicker | 392864 | [392864-dice-goblins-clicker.json](./392864-dice-goblins-clicker.json) |
+| Dice Guess | 295089 | [295089-dice-guess.json](./295089-dice-guess.json) |
 | Dice Guy | 217006 | [217006-dice-guy.json](./217006-dice-guy.json) |
 | Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
@@ -10042,6 +10044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doukyuusei Classmates | 41993 | [41993-doukyuusei-classmates.json](./41993-doukyuusei-classmates.json) |
 | Doula Continent: Awakening Soul | 193929 | [193929-doula-continent-awakening-soul.json](./193929-doula-continent-awakening-soul.json) |
 | Doula Continent: Soul Master Duel | 174708 | [174708-doula-continent-soul-master-duel.json](./174708-doula-continent-soul-master-duel.json) |
+| Doupleri | 295082 | [295082-doupleri.json](./295082-doupleri.json) |
 | Douri Hazure | 151842 | [151842-douri-hazure.json](./151842-douri-hazure.json) |
 | Dousoukai wa Koi no Hajimari | 238407 | [238407-dousoukai-wa-koi-no-hajimari.json](./238407-dousoukai-wa-koi-no-hajimari.json) |
 | Douyara Builder wo Yatteiru Oshi no V ni ha Watashi no Comment ga Hitsuyou-rashii-ken | 264119 | [264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json](./264119-douyara-builder-wo-yatteiru-oshi-no-v-ni-ha-watashi-no-comment-ga-hitsuyou-rashii-ken.json) |
