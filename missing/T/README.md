@@ -299,6 +299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics & Strategy Master: Joan of Arc | 96670 | [96670-tactics-and-strategy-master-joan-of-arc.json](./96670-tactics-and-strategy-master-joan-of-arc.json) |
 | Tactics 2: War | 61610 | [61610-tactics-2-war.json](./61610-tactics-2-war.json) |
 | Tactics Arena Online | 69301 | [69301-tactics-arena-online.json](./69301-tactics-arena-online.json) |
+| Tactics Below | 267817 | [267817-tactics-below.json](./267817-tactics-below.json) |
 | Tactics Core | 281896 | [281896-tactics-core.json](./281896-tactics-core.json) |
 | Tactics Despair: Falling Fellows | 82846 | [82846-tactics-despair-falling-fellows.json](./82846-tactics-despair-falling-fellows.json) |
 | Tactics Forever | 38785 | [38785-tactics-forever.json](./38785-tactics-forever.json) |
@@ -875,6 +876,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Argento: Spirit of the Goddess | 379433 | [379433-tales-of-argento-spirit-of-the-goddess.json](./379433-tales-of-argento-spirit-of-the-goddess.json) |
 | Tales of Arise: Beyond the Dawn | 266719 | [266719-tales-of-arise-beyond-the-dawn.json](./266719-tales-of-arise-beyond-the-dawn.json) |
 | Tales of Arise: Beyond the Dawn - Attachment Pack | 293401 | [293401-tales-of-arise-beyond-the-dawn-attachment-pack.json](./293401-tales-of-arise-beyond-the-dawn-attachment-pack.json) |
+| Tales of Arise: Beyond the Dawn - Deluxe Edition | 267776 | [267776-tales-of-arise-beyond-the-dawn-deluxe-edition.json](./267776-tales-of-arise-beyond-the-dawn-deluxe-edition.json) |
+| Tales of Arise: Beyond the Dawn - Ultimate Edition | 267774 | [267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json](./267774-tales-of-arise-beyond-the-dawn-ultimate-edition.json) |
 | Tales of Arise: Beyond the Dawn Edition | 267775 | [267775-tales-of-arise-beyond-the-dawn-edition.json](./267775-tales-of-arise-beyond-the-dawn-edition.json) |
 | Tales of Arise: Classic Characters Costume & Arranged BGM Pack | 275691 | [275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json](./275691-tales-of-arise-classic-characters-costume-and-arranged-bgm-pack.json) |
 | Tales of Arise: Deluxe Edition | 169243 | [169243-tales-of-arise-deluxe-edition.json](./169243-tales-of-arise-deluxe-edition.json) |
@@ -2006,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Defense | 236246 | [236246-tasty-defense.json](./236246-tasty-defense.json) |
 | Tasty Jigsaw Happy Hour 2 | 157086 | [157086-tasty-jigsaw-happy-hour-2.json](./157086-tasty-jigsaw-happy-hour-2.json) |
 | Tasty Jigsaw: Happy Hour 3 | 255067 | [255067-tasty-jigsaw-happy-hour-3.json](./255067-tasty-jigsaw-happy-hour-3.json) |
+| Tasty Jigsaw: Happy Hour 4 | 267814 | [267814-tasty-jigsaw-happy-hour-4.json](./267814-tasty-jigsaw-happy-hour-4.json) |
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
 | Tasty Planet | 73305 | [73305-tasty-planet.json](./73305-tasty-planet.json) |
@@ -3901,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
 | That Crazy World | 71006 | [71006-that-crazy-world.json](./71006-that-crazy-world.json) |
 | That Dam Level | 59660 | [59660-that-dam-level.json](./59660-that-dam-level.json) |
+| That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
@@ -4813,6 +4818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Journey | 69549 | [69549-the-big-journey.json](./69549-the-big-journey.json) |
 | The Big KO! | 15671 | [15671-the-big-ko.json](./15671-the-big-ko.json) |
 | The Big Lebowski Bowling | 312336 | [312336-the-big-lebowski-bowling.json](./312336-the-big-lebowski-bowling.json) |
+| The Big Lez Video Game | 267816 | [267816-the-big-lez-video-game.json](./267816-the-big-lez-video-game.json) |
 | The Big Mining | 235866 | [235866-the-big-mining.json](./235866-the-big-mining.json) |
 | The Big Number | 405629 | [405629-the-big-number.json](./405629-the-big-number.json) |
 | The Big One | 237259 | [237259-the-big-one.json](./237259-the-big-one.json) |
@@ -8738,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kwanstone Project | 214751 | [214751-the-kwanstone-project.json](./214751-the-kwanstone-project.json) |
 | The Kynge's Gambit | 211710 | [211710-the-kynges-gambit.json](./211710-the-kynges-gambit.json) |
 | The L.E.D. Wars | 14198 | [14198-the-l-e-d-wars.json](./14198-the-l-e-d-wars.json) |
+| The Lab Thing | 267813 | [267813-the-lab-thing.json](./267813-the-lab-thing.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
@@ -8943,6 +8950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Mage | 350430 | [350430-the-last-mage.json](./350430-the-last-mage.json) |
 | The Last Man Survivor | 258529 | [258529-the-last-man-survivor.json](./258529-the-last-man-survivor.json) |
 | The Last Market | 391098 | [391098-the-last-market.json](./391098-the-last-market.json) |
+| The Last Martian | 267812 | [267812-the-last-martian.json](./267812-the-last-martian.json) |
 | The Last Matches | 213960 | [213960-the-last-matches.json](./213960-the-last-matches.json) |
 | The Last Maverick: Survival Raft Adventure | 95876 | [95876-the-last-maverick-survival-raft-adventure.json](./95876-the-last-maverick-survival-raft-adventure.json) |
 | The Last Meadow | 337897 | [337897-the-last-meadow.json](./337897-the-last-meadow.json) |
@@ -12646,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
 | The Spirits of Kelley Family | 129026 | [129026-the-spirits-of-kelley-family.json](./129026-the-spirits-of-kelley-family.json) |
+| The Spirits of Whispermoon | 267811 | [267811-the-spirits-of-whispermoon.json](./267811-the-spirits-of-whispermoon.json) |
 | The Spirits Within | 116229 | [116229-the-spirits-within.json](./116229-the-spirits-within.json) |
 | The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
@@ -12732,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stories of Scheherazade | 112327 | [112327-the-stories-of-scheherazade.json](./112327-the-stories-of-scheherazade.json) |
 | The Storm | 149400 | [149400-the-storm.json](./149400-the-storm.json) |
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
+| The Stormy Islands | 267793 | [267793-the-stormy-islands.json](./267793-the-stormy-islands.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
 | The Story Goes On Chapter 1 | 337688 | [337688-the-story-goes-on-chapter-1.json](./337688-the-story-goes-on-chapter-1.json) |
 | The Story Goes On Chapter 2 | 337689 | [337689-the-story-goes-on-chapter-2.json](./337689-the-story-goes-on-chapter-2.json) |
@@ -18654,6 +18664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomboy Adventure | 154577 | [154577-tomboy-adventure.json](./154577-tomboy-adventure.json) |
 | Tomboy Adventure 2 | 298096 | [298096-tomboy-adventure-2.json](./298096-tomboy-adventure-2.json) |
 | Tomboy Stranded in Space | 393388 | [393388-tomboy-stranded-in-space.json](./393388-tomboy-stranded-in-space.json) |
+| Tomboy: Love in Hot Forge | 267792 | [267792-tomboy-love-in-hot-forge.json](./267792-tomboy-love-in-hot-forge.json) |
 | Tomboy: Trapped by Orcs | 348934 | [348934-tomboy-trapped-by-orcs.json](./348934-tomboy-trapped-by-orcs.json) |
 | Tomboys Need Love Too! | 36470 | [36470-tomboys-need-love-too.json](./36470-tomboys-need-love-too.json) |
 | Tombs & Treasure | 215142 | [215142-tombs-and-treasure.json](./215142-tombs-and-treasure.json) |
@@ -20258,6 +20269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town of Salem 2: Mafia Pack | 370314 | [370314-town-of-salem-2-mafia-pack.json](./370314-town-of-salem-2-mafia-pack.json) |
 | Town of Salem: The Coven | 139332 | [139332-town-of-salem-the-coven.json](./139332-town-of-salem-the-coven.json) |
 | Town of Sin | 175994 | [175994-town-of-sin.json](./175994-town-of-sin.json) |
+| Town of Sins | 267791 | [267791-town-of-sins.json](./267791-town-of-sins.json) |
 | Town of the Dead Life | 150277 | [150277-town-of-the-dead-life.json](./150277-town-of-the-dead-life.json) |
 | Town of Tides | 198540 | [198540-town-of-tides.json](./198540-town-of-tides.json) |
 | Town of Tinysville | 413049 | [413049-town-of-tinysville.json](./413049-town-of-tinysville.json) |
@@ -23347,6 +23359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator City Delivery | 302241 | [302241-truck-simulator-city-delivery.json](./302241-truck-simulator-city-delivery.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
+| Truck Simulator Driver 2023: Europe Cargo | 267772 | [267772-truck-simulator-driver-2023-europe-cargo.json](./267772-truck-simulator-driver-2023-europe-cargo.json) |
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
 | Truck Simulator in City | 211154 | [211154-truck-simulator-in-city.json](./211154-truck-simulator-in-city.json) |
 | Truck Simulator PRO 2 | 88947 | [88947-truck-simulator-pro-2.json](./88947-truck-simulator-pro-2.json) |
@@ -24250,6 +24263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
+| Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
 | Twilight Canyon | 306421 | [306421-twilight-canyon.json](./306421-twilight-canyon.json) |
 | Twilight City | 315643 | [315643-twilight-city.json](./315643-twilight-city.json) |
