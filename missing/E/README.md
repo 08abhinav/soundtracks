@@ -3479,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
 | Erenshor | 245825 | [245825-erenshor.json](./245825-erenshor.json) |
+| Erentis, l'académie de magie | 295087 | [295087-erentis-lacademie-de-magie.json](./295087-erentis-lacademie-de-magie.json) |
 | Erepublik | 63258 | [63258-erepublik.json](./63258-erepublik.json) |
 | Eret Link | 229385 | [229385-eret-link.json](./229385-eret-link.json) |
 | Erevos | 93226 | [93226-erevos.json](./93226-erevos.json) |
@@ -4815,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
+| Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
 | Event Race: Bob's Art Table Tracks | 293864 | [293864-event-race-bobs-art-table-tracks.json](./293864-event-race-bobs-art-table-tracks.json) |
