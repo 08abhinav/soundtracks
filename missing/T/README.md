@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
+| Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tama: Adventurous Ball in Giddy Labyrinth | 60361 | [60361-tama-adventurous-ball-in-giddy-labyrinth.json](./60361-tama-adventurous-ball-in-giddy-labyrinth.json) |
@@ -23627,6 +23628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
 | Tuin | 213904 | [213904-tuin.json](./213904-tuin.json) |
 | Tuiterland 5: El Fin de las Redes Sociales | 342704 | [342704-tuiterland-5-el-fin-de-las-redes-sociales.json](./342704-tuiterland-5-el-fin-de-las-redes-sociales.json) |
+| Tuk Ruk | 286426 | [286426-tuk-ruk.json](./286426-tuk-ruk.json) |
 | Tuk Tuk Extreme Simulator | 199367 | [199367-tuk-tuk-extreme-simulator.json](./199367-tuk-tuk-extreme-simulator.json) |
 | Tuk Tuk Go! | 416172 | [416172-tuk-tuk-go.json](./416172-tuk-tuk-go.json) |
 | Tuk Tuk Taxi | 272573 | [272573-tuk-tuk-taxi.json](./272573-tuk-tuk-taxi.json) |
