@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Ozark | 135885 | [135885-campaign-ozark.json](./135885-campaign-ozark.json) |
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Campaign Series: Middle East 1948-1985 | 59492 | [59492-campaign-series-middle-east-1948-1985.json](./59492-campaign-series-middle-east-1948-1985.json) |
+| Campaign Trail | 309186 | [309186-campaign-trail.json](./309186-campaign-trail.json) |
 | Campaign: From North Africa to Northern Europe | 73730 | [73730-campaign-from-north-africa-to-northern-europe.json](./73730-campaign-from-north-africa-to-northern-europe.json) |
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
@@ -3023,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catastrophe: Earthquake | 340801 | [340801-catastrophe-earthquake.json](./340801-catastrophe-earthquake.json) |
 | Catastrophic Cat Command | 309514 | [309514-catastrophic-cat-command.json](./309514-catastrophic-cat-command.json) |
 | Catatattack! | 368083 | [368083-catatattack.json](./368083-catatattack.json) |
+| Catatonic Fits of Despair | 309195 | [309195-catatonic-fits-of-despair.json](./309195-catatonic-fits-of-despair.json) |
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
 | CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
@@ -7285,6 +7287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Business | 111007 | [111007-click-the-business.json](./111007-click-the-business.json) |
 | Click the Button | 407167 | [407167-click-the-button.json](./407167-click-the-button.json) |
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
+| Click The Link To Play | 309208 | [309208-click-the-link-to-play.json](./309208-click-the-link-to-play.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
 | Click To Clear | 284821 | [284821-click-to-clear.json](./284821-click-to-clear.json) |
@@ -11702,6 +11705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Nitro Kart 2 | 21749 | [21749-crash-bandicoot-nitro-kart-2.json](./21749-crash-bandicoot-nitro-kart-2.json) |
 | Crash Bandicoot Nitro Kart 3D | 80155 | [80155-crash-bandicoot-nitro-kart-3d.json](./80155-crash-bandicoot-nitro-kart-3d.json) |
 | Crash Bandicoot Party Games | 210240 | [210240-crash-bandicoot-party-games.json](./210240-crash-bandicoot-party-games.json) |
+| Crash Bandicoot World | 309165 | [309165-crash-bandicoot-world.json](./309165-crash-bandicoot-world.json) |
 | Crash Bandicoot: Atlasphere Bowling | 314656 | [314656-crash-bandicoot-atlasphere-bowling.json](./314656-crash-bandicoot-atlasphere-bowling.json) |
 | Crash Bandicoot: Kart Racing | 314655 | [314655-crash-bandicoot-kart-racing.json](./314655-crash-bandicoot-kart-racing.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
@@ -12605,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
 | Crimson Wars | 413512 | [413512-crimson-wars.json](./413512-crimson-wars.json) |
+| Crimson Waves on the Emerald Sea: Amaranthine Moon | 309166 | [309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json](./309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json) |
 | Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
@@ -14142,6 +14147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid Parasite: Sweet and Spicy Darling - Day One Edition | 287041 | [287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287041-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid Parasite/Cupid Parasite: Sweet and Spicy Darling – Day One Edition | 287042 | [287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json](./287042-cupid-parasite-cupid-parasite-sweet-and-spicy-darling-day-one-edition.json) |
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
+| Cupid's Chatroom | 309162 | [309162-cupids-chatroom.json](./309162-cupids-chatroom.json) |
 | Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
