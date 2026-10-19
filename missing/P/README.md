@@ -12767,6 +12767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punzel: Chapter I - Toujours la Meme Histoire | 221147 | [221147-punzel-chapter-i-toujours-la-meme-histoire.json](./221147-punzel-chapter-i-toujours-la-meme-histoire.json) |
 | Pup Boy Cowboy: Infinite Desert Edition | 410443 | [410443-pup-boy-cowboy-infinite-desert-edition.json](./410443-pup-boy-cowboy-infinite-desert-edition.json) |
 | Pup Breeder | 165411 | [165411-pup-breeder.json](./165411-pup-breeder.json) |
+| Pup Champs | 295616 | [295616-pup-champs.json](./295616-pup-champs.json) |
 | Pup Panick! | 318697 | [318697-pup-panick.json](./318697-pup-panick.json) |
 | Pup Rummy | 89818 | [89818-pup-rummy.json](./89818-pup-rummy.json) |
 | Pupa | 310221 | [310221-pupa.json](./310221-pupa.json) |
