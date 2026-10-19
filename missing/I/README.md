@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iFishing 2: Saltwater Edition | 97446 | [97446-ifishing-2-saltwater-edition.json](./97446-ifishing-2-saltwater-edition.json) |
 | iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
 | Ifrit | 215344 | [215344-ifrit.json](./215344-ifrit.json) |
+| IfSunSets | 272172 | [272172-ifsunsets.json](./272172-ifsunsets.json) |
 | Iftar for Two | 364233 | [364233-iftar-for-two.json](./364233-iftar-for-two.json) |
 | Ifu | 302488 | [302488-ifu.json](./302488-ifu.json) |
 | IFU | 274774 | [274774-ifu.json](./274774-ifu.json) |
@@ -1629,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illurama: Masters of Illusions | 316276 | [316276-illurama-masters-of-illusions.json](./316276-illurama-masters-of-illusions.json) |
 | Illusion | 196166 | [196166-illusion.json](./196166-illusion.json) |
 | Illusion | 211960 | [211960-illusion.json](./211960-illusion.json) |
+| Illusion | 272140 | [272140-illusion.json](./272140-illusion.json) |
 | Illusion | 286769 | [286769-illusion.json](./286769-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
