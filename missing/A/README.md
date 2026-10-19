@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
+| A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
@@ -241,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dump in the Dark | 29823 | [29823-a-dump-in-the-dark.json](./29823-a-dump-in-the-dark.json) |
 | A Dungeon Is You | 301076 | [301076-a-dungeon-is-you.json](./301076-a-dungeon-is-you.json) |
 | A Dwarf's Story | 64707 | [64707-a-dwarfs-story.json](./64707-a-dwarfs-story.json) |
+| A Escalada do Pateta | 289199 | [289199-a-escalada-do-pateta.json](./289199-a-escalada-do-pateta.json) |
 | A Fábrica dos Números | 287152 | [287152-a-fabrica-dos-numeros.json](./287152-a-fabrica-dos-numeros.json) |
 | A Factory Job | 192455 | [192455-a-factory-job.json](./192455-a-factory-job.json) |
 | A Factory Roguelike | 379570 | [379570-a-factory-roguelike.json](./379570-a-factory-roguelike.json) |
@@ -1476,6 +1478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
+| Abstêmia | 289175 | [289175-abstemia.json](./289175-abstemia.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
 | Abstract | 118077 | [118077-abstract.json](./118077-abstract.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
@@ -8531,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Moto Racing 2 | 63836 | [63836-aqua-moto-racing-2.json](./63836-aqua-moto-racing-2.json) |
 | Aqua Moto Racing 3D | 78741 | [78741-aqua-moto-racing-3d.json](./78741-aqua-moto-racing-3d.json) |
 | Aqua Moto Racing Utopia | 26224 | [26224-aqua-moto-racing-utopia.json](./26224-aqua-moto-racing-utopia.json) |
+| Aqua Mundo | 289166 | [289166-aqua-mundo.json](./289166-aqua-mundo.json) |
 | Aqua Pals | 271661 | [271661-aqua-pals.json](./271661-aqua-pals.json) |
 | Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
@@ -9083,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
 | Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
+| Arcade Archives: War of Aero | 289185 | [289185-arcade-archives-war-of-aero.json](./289185-arcade-archives-war-of-aero.json) |
 | Arcade Archives: Warp & Warp | 277578 | [277578-arcade-archives-warp-and-warp.json](./277578-arcade-archives-warp-and-warp.json) |
 | Arcade Archives: Wiz | 135582 | [135582-arcade-archives-wiz.json](./135582-arcade-archives-wiz.json) |
 | Arcade Archives: Wonder Boy | 141885 | [141885-arcade-archives-wonder-boy.json](./141885-arcade-archives-wonder-boy.json) |
@@ -11332,6 +11337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Turret Defender VR | 112821 | [112821-asteroid-turret-defender-vr.json](./112821-asteroid-turret-defender-vr.json) |
 | Asteroid Wars | 116328 | [116328-asteroid-wars.json](./116328-asteroid-wars.json) |
 | Asteroid-Hunter | 103220 | [103220-asteroid-hunter.json](./103220-asteroid-hunter.json) |
+| Asteróide | 289202 | [289202-asteroide.json](./289202-asteroide.json) |
 | Asteroides | 186690 | [186690-asteroides.json](./186690-asteroides.json) |
 | Asteroidia | 369915 | [369915-asteroidia.json](./369915-asteroidia.json) |
 | Asteroidiga | 126541 | [126541-asteroidiga.json](./126541-asteroidiga.json) |
