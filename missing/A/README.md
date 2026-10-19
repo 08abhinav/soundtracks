@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abiotic Factor: Temple of Stone | 376105 | [376105-abiotic-factor-temple-of-stone.json](./376105-abiotic-factor-temple-of-stone.json) |
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
+| Ablaze | 272130 | [272130-ablaze.json](./272130-ablaze.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
@@ -3094,6 +3095,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
+| Afterglow; The Scent | 272128 | [272128-afterglow-the-scent.json](./272128-afterglow-the-scent.json) |
+| Afterglow: A New World Rising | 272126 | [272126-afterglow-a-new-world-rising.json](./272126-afterglow-a-new-world-rising.json) |
 | Aftergreen | 416832 | [416832-aftergreen.json](./416832-aftergreen.json) |
 | Aftergrinder | 28900 | [28900-aftergrinder.json](./28900-aftergrinder.json) |
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
