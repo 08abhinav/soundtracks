@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
 | Densetsu no Quiz-ou Ketteisen | 3973 | [3973-densetsu-no-quiz-ou-ketteisen.json](./3973-densetsu-no-quiz-ou-ketteisen.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
+| Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
 | Densha de D: Burning Stage | 55923 | [55923-densha-de-d-burning-stage.json](./55923-densha-de-d-burning-stage.json) |
 | Densha de D: Climax Stage | 55920 | [55920-densha-de-d-climax-stage.json](./55920-densha-de-d-climax-stage.json) |
 | Densha de D: Lightning Stage | 137014 | [137014-densha-de-d-lightning-stage.json](./137014-densha-de-d-lightning-stage.json) |
