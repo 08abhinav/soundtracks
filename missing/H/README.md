@@ -7400,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Nightmare Collection | 290626 | [290626-horror-nightmare-collection.json](./290626-horror-nightmare-collection.json) |
 | Horror of Minos | 178346 | [178346-horror-of-minos.json](./178346-horror-of-minos.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
+| Horror of Victim | 293484 | [293484-horror-of-victim.json](./293484-horror-of-victim.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
 | Horror Pinball Bundle | 126620 | [126620-horror-pinball-bundle.json](./126620-horror-pinball-bundle.json) |
@@ -7411,6 +7412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Run | 201237 | [201237-horror-run.json](./201237-horror-run.json) |
 | Horror Scary Granny Pink Barby | 231936 | [231936-horror-scary-granny-pink-barby.json](./231936-horror-scary-granny-pink-barby.json) |
 | Horror Scenarios: The Redwood Estate | 391086 | [391086-horror-scenarios-the-redwood-estate.json](./391086-horror-scenarios-the-redwood-estate.json) |
+| Horror School Story | 293479 | [293479-horror-school-story.json](./293479-horror-school-story.json) |
 | Horror School: The Classroom | 303090 | [303090-horror-school-the-classroom.json](./303090-horror-school-the-classroom.json) |
 | Horror Sense: Daruma-san ga Koronda | 44156 | [44156-horror-sense-daruma-san-ga-koronda.json](./44156-horror-sense-daruma-san-ga-koronda.json) |
 | Horror Simulator: Co-Op | 318059 | [318059-horror-simulator-co-op.json](./318059-horror-simulator-co-op.json) |
@@ -7951,6 +7953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
+| House Builder: The Atomic Age DLC | 293460 | [293460-house-builder-the-atomic-age-dlc.json](./293460-house-builder-the-atomic-age-dlc.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
