@@ -6951,6 +6951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoBox | 417416 | [417416-dinobox.json](./417416-dinobox.json) |
 | Dinobreak | 264154 | [264154-dinobreak.json](./264154-dinobreak.json) |
 | Dinobreak Killer Crisis Collection | 270302 | [270302-dinobreak-killer-crisis-collection.json](./270302-dinobreak-killer-crisis-collection.json) |
+| Dinobreak Triassic Torment Collection | 272701 | [272701-dinobreak-triassic-torment-collection.json](./272701-dinobreak-triassic-torment-collection.json) |
 | Dinobreak: Chronicles of Horror Collection | 331412 | [331412-dinobreak-chronicles-of-horror-collection.json](./331412-dinobreak-chronicles-of-horror-collection.json) |
 | Dinobreak: Crisis Collection | 331409 | [331409-dinobreak-crisis-collection.json](./331409-dinobreak-crisis-collection.json) |
 | Dinobreak: Gaiden Collection | 334111 | [334111-dinobreak-gaiden-collection.json](./334111-dinobreak-gaiden-collection.json) |
@@ -10735,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blade 2 | 410339 | [410339-dragon-blade-2.json](./410339-dragon-blade-2.json) |
 | Dragon Blast | 107035 | [107035-dragon-blast.json](./107035-dragon-blast.json) |
 | Dragon Blast: Crazy Action Super Hero Game | 159808 | [159808-dragon-blast-crazy-action-super-hero-game.json](./159808-dragon-blast-crazy-action-super-hero-game.json) |
+| Dragon Blaze | 272700 | [272700-dragon-blaze.json](./272700-dragon-blaze.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
 | Dragon Bobby: The Story of a Life | 272995 | [272995-dragon-bobby-the-story-of-a-life.json](./272995-dragon-bobby-the-story-of-a-life.json) |
