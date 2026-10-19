@@ -5754,6 +5754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flint | 369680 | [369680-flint.json](./369680-flint.json) |
 | Flint and Charlie | 19957 | [19957-flint-and-charlie.json](./19957-flint-and-charlie.json) |
 | Flint: Treasure of Oblivion | 295635 | [295635-flint-treasure-of-oblivion.json](./295635-flint-treasure-of-oblivion.json) |
+| Flint's Hints | 296271 | [296271-flints-hints.json](./296271-flints-hints.json) |
 | Flinthook | 20330 | [20330-flinthook.json](./20330-flinthook.json) |
 | Flintlock: The Siege of Dawn - Deluxe Edition | 305332 | [305332-flintlock-the-siege-of-dawn-deluxe-edition.json](./305332-flintlock-the-siege-of-dawn-deluxe-edition.json) |
 | Flintstones & Jetsons: Timewarp | 46610 | [46610-flintstones-and-jetsons-timewarp.json](./46610-flintstones-and-jetsons-timewarp.json) |
