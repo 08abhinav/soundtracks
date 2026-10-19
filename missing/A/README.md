@@ -9053,6 +9053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: vs. Mystery Tower | 335093 | [335093-arcade-archives-vs-mystery-tower.json](./335093-arcade-archives-vs-mystery-tower.json) |
 | Arcade Archives: vs. Star Luster | 305562 | [305562-arcade-archives-vs-star-luster.json](./305562-arcade-archives-vs-star-luster.json) |
 | Arcade Archives: Vs. Super Mario Bros. | 67198 | [67198-arcade-archives-vs-super-mario-bros.json](./67198-arcade-archives-vs-super-mario-bros.json) |
+| Arcade Archives: vs. Super Xevious Mystery of Gump | 297294 | [297294-arcade-archives-vs-super-xevious-mystery-of-gump.json](./297294-arcade-archives-vs-super-xevious-mystery-of-gump.json) |
 | Arcade Archives: vs. Tennis | 147099 | [147099-arcade-archives-vs-tennis.json](./147099-arcade-archives-vs-tennis.json) |
 | Arcade Archives: Vs. The Quest of Ki | 322039 | [322039-arcade-archives-vs-the-quest-of-ki.json](./322039-arcade-archives-vs-the-quest-of-ki.json) |
 | Arcade Archives: Vs. Wrecking Crew | 68313 | [68313-arcade-archives-vs-wrecking-crew.json](./68313-arcade-archives-vs-wrecking-crew.json) |
@@ -10281,6 +10282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
+| Arrogue | 297372 | [297372-arrogue.json](./297372-arrogue.json) |
 | Arrow | 131325 | [131325-arrow.json](./131325-arrow.json) |
 | Arrow a Row | 262248 | [262248-arrow-a-row.json](./262248-arrow-a-row.json) |
 | Arrow Bingo | 382773 | [382773-arrow-bingo.json](./382773-arrow-bingo.json) |
@@ -10874,6 +10876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Pressure Wash VR | 372540 | [372540-asmr-pressure-wash-vr.json](./372540-asmr-pressure-wash-vr.json) |
 | ASMR Slicing | 254179 | [254179-asmr-slicing.json](./254179-asmr-slicing.json) |
 | ASMR Slicing: Joyful Cutting DLC | 276943 | [276943-asmr-slicing-joyful-cutting-dlc.json](./276943-asmr-slicing-joyful-cutting-dlc.json) |
+| ASMR Slicing: Joyful Cutting Edition | 297298 | [297298-asmr-slicing-joyful-cutting-edition.json](./297298-asmr-slicing-joyful-cutting-edition.json) |
 | ASMR Slicing: Nice Cuts DLC | 276944 | [276944-asmr-slicing-nice-cuts-dlc.json](./276944-asmr-slicing-nice-cuts-dlc.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
