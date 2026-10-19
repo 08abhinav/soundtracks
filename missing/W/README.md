@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhound | 378158 | [378158-warhound.json](./378158-warhound.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
+| Wario Destroys A Glass of Milk | 307407 | [307407-wario-destroys-a-glass-of-milk.json](./307407-wario-destroys-a-glass-of-milk.json) |
 | Wario Eats Everything | 318028 | [318028-wario-eats-everything.json](./318028-wario-eats-everything.json) |
 | Wario Land 3 | 1698 | [1698-wario-land-3.json](./1698-wario-land-3.json) |
 | Wario Land 4 | 1699 | [1699-wario-land-4.json](./1699-wario-land-4.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario's Flashin' Fruit Punch Splash | 328660 | [328660-warios-flashin-fruit-punch-splash.json](./328660-warios-flashin-fruit-punch-splash.json) |
 | Wario's Grab Bag | 231532 | [231532-warios-grab-bag.json](./231532-warios-grab-bag.json) |
 | Wario's Hint Art | 300685 | [300685-warios-hint-art.json](./300685-warios-hint-art.json) |
+| Wario's Revenge | 307411 | [307411-warios-revenge.json](./307411-warios-revenge.json) |
 | Wario's Whack Attack | 231531 | [231531-warios-whack-attack.json](./231531-warios-whack-attack.json) |
 | Wario's Woods | 1711 | [1711-warios-woods.json](./1711-warios-woods.json) |
 | Wario's Woods | 190013 | [190013-warios-woods.json](./190013-warios-woods.json) |
@@ -1778,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
 | Water Is All I Can See | 214663 | [214663-water-is-all-i-can-see.json](./214663-water-is-all-i-can-see.json) |
 | Water Level / B.l.u.e. Exploration | 320938 | [320938-water-level-b-l-u-e-exploration.json](./320938-water-level-b-l-u-e-exploration.json) |
+| Water Mage: Act I | 307414 | [307414-water-mage-act-i.json](./307414-water-mage-act-i.json) |
 | Water Maid | 333038 | [333038-water-maid.json](./333038-water-maid.json) |
 | Water Margin: The Tales of Clouds and Winds | 120062 | [120062-water-margin-the-tales-of-clouds-and-winds.json](./120062-water-margin-the-tales-of-clouds-and-winds.json) |
 | Water Me & You | 260169 | [260169-water-me-and-you.json](./260169-water-me-and-you.json) |
@@ -3174,6 +3177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wherein She Completely Cuts Herself From Reality: A Parabolic Emotion from recovery into despair | 350977 | [350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json](./350977-wherein-she-completely-cuts-herself-from-reality-a-parabolic-emotion-from-recovery-into-despair.json) |
 | WhereTaken | 323198 | [323198-wheretaken.json](./323198-wheretaken.json) |
 | Wherever You Get Your Podcasts | 397652 | [397652-wherever-you-get-your-podcasts.json](./397652-wherever-you-get-your-podcasts.json) |
+| Wherever You Hike | 307369 | [307369-wherever-you-hike.json](./307369-wherever-you-hike.json) |
 | Which Came First? | 180663 | [180663-which-came-first.json](./180663-which-came-first.json) |
 | Which Comes First? | 60628 | [60628-which-comes-first.json](./60628-which-comes-first.json) |
 | Which Country Is Larger? | 294819 | [294819-which-country-is-larger.json](./294819-which-country-is-larger.json) |
