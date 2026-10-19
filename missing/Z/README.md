@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZoneRacer | 331441 | [331441-zoneracer.json](./331441-zoneracer.json) |
 | Zoners | 167716 | [167716-zoners.json](./167716-zoners.json) |
 | Zones of Fear | 274119 | [274119-zones-of-fear.json](./274119-zones-of-fear.json) |
+| Zonescape | 267785 | [267785-zonescape.json](./267785-zonescape.json) |
 | Zonex | 157901 | [157901-zonex.json](./157901-zonex.json) |
 | Zong | 50382 | [50382-zong.json](./50382-zong.json) |
 | Zonic 4 My New Life Turbo HD Remastered Edition | 322594 | [322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json](./322594-zonic-4-my-new-life-turbo-hd-remastered-edition.json) |
