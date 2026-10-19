@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
+| Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
@@ -4394,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is There a Way? | 336623 | [336623-is-there-a-way.json](./336623-is-there-a-way.json) |
 | Is this a Game yet? | 353312 | [353312-is-this-a-game-yet.json](./353312-is-this-a-game-yet.json) |
 | Is This a Game? | 367501 | [367501-is-this-a-game.json](./367501-is-this-a-game.json) |
+| Is This A Platformer? | 296280 | [296280-is-this-a-platformer.json](./296280-is-this-a-platformer.json) |
 | Is This Even Chess? | 275350 | [275350-is-this-even-chess.json](./275350-is-this-even-chess.json) |
 | Is This Game Trying to Kill Me? | 275128 | [275128-is-this-game-trying-to-kill-me.json](./275128-is-this-game-trying-to-kill-me.json) |
 | Is this Game Trying to Kill Me? Preface | 305196 | [305196-is-this-game-trying-to-kill-me-preface.json](./305196-is-this-game-trying-to-kill-me-preface.json) |
