@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Brigade | 40617 | [40617-tank-brigade.json](./40617-tank-brigade.json) |
 | Tank Buddies | 101523 | [101523-tank-buddies.json](./101523-tank-buddies.json) |
 | Tank Bung | 110965 | [110965-tank-bung.json](./110965-tank-bung.json) |
+| Tank Cafe | 272703 | [272703-tank-cafe.json](./272703-tank-cafe.json) |
 | Tank Carnage | 28037 | [28037-tank-carnage.json](./28037-tank-carnage.json) |
 | Tank Chess | 304706 | [304706-tank-chess.json](./304706-tank-chess.json) |
 | Tank Combat | 54425 | [54425-tank-combat.json](./54425-tank-combat.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tete's Atelier: Patches | 374434 | [374434-tetes-atelier-patches.json](./374434-tetes-atelier-patches.json) |
 | Tether | 114816 | [114816-tether.json](./114816-tether.json) |
 | Tether | 186336 | [186336-tether.json](./186336-tether.json) |
+| Tether | 272709 | [272709-tether.json](./272709-tether.json) |
 | Tether | 333088 | [333088-tether.json](./333088-tether.json) |
 | Tether | 343598 | [343598-tether.json](./343598-tether.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
@@ -11361,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
 | The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
+| The Raindrop: A Vocal Odyssey | 272714 | [272714-the-raindrop-a-vocal-odyssey.json](./272714-the-raindrop-a-vocal-odyssey.json) |
 | The Rainman | 301835 | [301835-the-rainman.json](./301835-the-rainman.json) |
 | The Rainsdowne Players | 97926 | [97926-the-rainsdowne-players.json](./97926-the-rainsdowne-players.json) |
 | The Raintime | 121396 | [121396-the-raintime.json](./121396-the-raintime.json) |
@@ -14691,6 +14694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Collection | 53796 | [53796-thief-collection.json](./53796-thief-collection.json) |
 | Thief Gold | 9227 | [9227-thief-gold.json](./9227-thief-gold.json) |
 | Thief II: The Metal Age | 1 | [1-thief-ii-the-metal-age.json](./1-thief-ii-the-metal-age.json) |
+| Thief in Cafe | 272705 | [272705-thief-in-cafe.json](./272705-thief-in-cafe.json) |
 | Thief Monsters | 302155 | [302155-thief-monsters.json](./302155-thief-monsters.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
@@ -22722,6 +22726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Shapes | 28179 | [28179-tricky-shapes.json](./28179-tricky-shapes.json) |
 | Tricky Spider | 147768 | [147768-tricky-spider.json](./147768-tricky-spider.json) |
 | Tricky Super Mario Bros. U | 281020 | [281020-tricky-super-mario-bros-u.json](./281020-tricky-super-mario-bros-u.json) |
+| Tricky Tanks | 272704 | [272704-tricky-tanks.json](./272704-tricky-tanks.json) |
 | Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
 | Tricky Taps: Complete Edition | 280625 | [280625-tricky-taps-complete-edition.json](./280625-tricky-taps-complete-edition.json) |
 | Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
@@ -23734,6 +23739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tug Team Tractor Multiplication | 312639 | [312639-tug-team-tractor-multiplication.json](./312639-tug-team-tractor-multiplication.json) |
 | Tug the Table | 373244 | [373244-tug-the-table.json](./373244-tug-the-table.json) |
 | Tuga Boy Adventures | 239094 | [239094-tuga-boy-adventures.json](./239094-tuga-boy-adventures.json) |
+| Tugboat Terror | 272715 | [272715-tugboat-terror.json](./272715-tugboat-terror.json) |
 | Tuggowar | 187225 | [187225-tuggowar.json](./187225-tuggowar.json) |
 | Tuggowar: Arsenal Management | 358260 | [358260-tuggowar-arsenal-management.json](./358260-tuggowar-arsenal-management.json) |
 | Tui Shou: Sokoban | 372023 | [372023-tui-shou-sokoban.json](./372023-tui-shou-sokoban.json) |
