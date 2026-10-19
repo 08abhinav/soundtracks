@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage of Destiny | 162836 | [162836-rage-of-destiny.json](./162836-rage-of-destiny.json) |
 | Rage of Kings | 181613 | [181613-rage-of-kings.json](./181613-rage-of-kings.json) |
 | Rage of Mages | 13154 | [13154-rage-of-mages.json](./13154-rage-of-mages.json) |
+| Rage of Mages | 277199 | [277199-rage-of-mages.json](./277199-rage-of-mages.json) |
 | Rage of Mages II: Necromancer | 13155 | [13155-rage-of-mages-ii-necromancer.json](./13155-rage-of-mages-ii-necromancer.json) |
 | Rage of Mechs | 260584 | [260584-rage-of-mechs.json](./260584-rage-of-mechs.json) |
 | Rage of the Battlemage | 32135 | [32135-rage-of-the-battlemage.json](./32135-rage-of-the-battlemage.json) |
@@ -6231,6 +6232,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Redemption | 11602 | [11602-road-redemption.json](./11602-road-redemption.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
+| Road Runner | 277205 | [277205-road-runner.json](./277205-road-runner.json) |
+| Road Runner | 277206 | [277206-road-runner.json](./277206-road-runner.json) |
+| Road Runner | 277208 | [277208-road-runner.json](./277208-road-runner.json) |
+| Road Runner | 277209 | [277209-road-runner.json](./277209-road-runner.json) |
+| Road Runner | 277210 | [277210-road-runner.json](./277210-road-runner.json) |
+| Road Runner | 277211 | [277211-road-runner.json](./277211-road-runner.json) |
+| Road Runner | 277212 | [277212-road-runner.json](./277212-road-runner.json) |
 | Road Runner | 281878 | [281878-road-runner.json](./281878-road-runner.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
