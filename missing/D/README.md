@@ -6678,6 +6678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Dreamware | 38823 | [38823-digital-dreamware.json](./38823-digital-dreamware.json) |
 | Digital Dungeon | 101352 | [101352-digital-dungeon.json](./101352-digital-dungeon.json) |
 | Digital Eclipse Arcade: Invasion of the Buffet Snatchers | 236851 | [236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json](./236851-digital-eclipse-arcade-invasion-of-the-buffet-snatchers.json) |
+| Digital Eclipse Arcade: Jollyball | 259395 | [259395-digital-eclipse-arcade-jollyball.json](./259395-digital-eclipse-arcade-jollyball.json) |
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
 | Digital Eclipse Bundle | 267969 | [267969-digital-eclipse-bundle.json](./267969-digital-eclipse-bundle.json) |
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
@@ -7479,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disintegration | 120625 | [120625-disintegration.json](./120625-disintegration.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
+| Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
 | Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
@@ -9643,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoomGals | 202836 | [202836-doomgals.json](./202836-doomgals.json) |
 | Doomies | 253972 | [253972-doomies.json](./253972-doomies.json) |
 | Doomium | 307817 | [307817-doomium.json](./307817-doomium.json) |
+| Doomkid | 259434 | [259434-doomkid.json](./259434-doomkid.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
 | Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
