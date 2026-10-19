@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
 | A Little Shop in Squirrel Town | 139714 | [139714-a-little-shop-in-squirrel-town.json](./139714-a-little-shop-in-squirrel-town.json) |
+| A Little Space | 303892 | [303892-a-little-space.json](./303892-a-little-space.json) |
 | A Little Time | 158419 | [158419-a-little-time.json](./158419-a-little-time.json) |
 | A Little to the Left Seeing Stars DLC Bundle | 312110 | [312110-a-little-to-the-left-seeing-stars-dlc-bundle.json](./312110-a-little-to-the-left-seeing-stars-dlc-bundle.json) |
 | A Little to the Left: Deep Clean | 264334 | [264334-a-little-to-the-left-deep-clean.json](./264334-a-little-to-the-left-deep-clean.json) |
@@ -745,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
+| A Ruthless World | 303895 | [303895-a-ruthless-world.json](./303895-a-ruthless-world.json) |
 | A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
@@ -882,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
 | A Tale of Paper: Refolded - Digital Deluxe Edition | 214055 | [214055-a-tale-of-paper-refolded-digital-deluxe-edition.json](./214055-a-tale-of-paper-refolded-digital-deluxe-edition.json) |
+| A Tale of Sand and Bone | 303898 | [303898-a-tale-of-sand-and-bone.json](./303898-a-tale-of-sand-and-bone.json) |
 | A Tale of Silent Depths | 292631 | [292631-a-tale-of-silent-depths.json](./292631-a-tale-of-silent-depths.json) |
 | A Tale of Survival | 61100 | [61100-a-tale-of-survival.json](./61100-a-tale-of-survival.json) |
 | A Tale of Synapse: The Chaos Theories | 146823 | [146823-a-tale-of-synapse-the-chaos-theories.json](./146823-a-tale-of-synapse-the-chaos-theories.json) |
@@ -3485,6 +3488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
+| AI Fightclub | 303890 | [303890-ai-fightclub.json](./303890-ai-fightclub.json) |
 | Ai ga Mie Hajimetara | 151840 | [151840-ai-ga-mie-hajimetara.json](./151840-ai-ga-mie-hajimetara.json) |
 | AI ha Sabaku no Bara no Yume o Miru | 82936 | [82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json](./82936-ai-ha-sabaku-no-bara-no-yume-o-miru.json) |
 | AI Hunter | 151027 | [151027-ai-hunter.json](./151027-ai-hunter.json) |
@@ -5009,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alisia Dragoon | 19508 | [19508-alisia-dragoon.json](./19508-alisia-dragoon.json) |
 | Alison Fall of the Apple | 297060 | [297060-alison-fall-of-the-apple.json](./297060-alison-fall-of-the-apple.json) |
 | Alister Alt Costume | 322713 | [322713-alister-alt-costume.json](./322713-alister-alt-costume.json) |
+| Alister In Wonderland | 303891 | [303891-alister-in-wonderland.json](./303891-alister-in-wonderland.json) |
 | Alita: Battle Angel - The Game | 114770 | [114770-alita-battle-angel-the-game.json](./114770-alita-battle-angel-the-game.json) |
 | Alite | 207872 | [207872-alite.json](./207872-alite.json) |
 | Alive | 106659 | [106659-alive.json](./106659-alive.json) |
@@ -8256,6 +8261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalyptic | 205656 | [205656-apocalyptic.json](./205656-apocalyptic.json) |
 | Apocalyptic Adventure: Episode 1 | 193148 | [193148-apocalyptic-adventure-episode-1.json](./193148-apocalyptic-adventure-episode-1.json) |
 | Apocalyptic Cars War | 334830 | [334830-apocalyptic-cars-war.json](./334830-apocalyptic-cars-war.json) |
+| Apocalyptic cat | 303893 | [303893-apocalyptic-cat.json](./303893-apocalyptic-cat.json) |
 | Apocalyptic Pussy | 367291 | [367291-apocalyptic-pussy.json](./367291-apocalyptic-pussy.json) |
 | Apocalyptic Slant | 192754 | [192754-apocalyptic-slant.json](./192754-apocalyptic-slant.json) |
 | Apocalyptic Vibes | 189189 | [189189-apocalyptic-vibes.json](./189189-apocalyptic-vibes.json) |
@@ -8766,6 +8772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cosmo Police Galivan | 99566 | [99566-arcade-archives-cosmo-police-galivan.json](./99566-arcade-archives-cosmo-police-galivan.json) |
 | Arcade Archives: Crazy Balloon | 351223 | [351223-arcade-archives-crazy-balloon.json](./351223-arcade-archives-crazy-balloon.json) |
 | Arcade Archives: Crime Fighters | 147106 | [147106-arcade-archives-crime-fighters.json](./147106-arcade-archives-crime-fighters.json) |
+| Arcade Archives: Cue Brick | 303858 | [303858-arcade-archives-cue-brick.json](./303858-arcade-archives-cue-brick.json) |
 | Arcade Archives: Cybattler | 145373 | [145373-arcade-archives-cybattler.json](./145373-arcade-archives-cybattler.json) |
 | Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
@@ -10485,6 +10492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of the World Bundle | 164792 | [164792-artists-of-the-world-bundle.json](./164792-artists-of-the-world-bundle.json) |
 | Artizens | 36032 | [36032-artizens.json](./36032-artizens.json) |
 | Arto | 199454 | [199454-arto.json](./199454-arto.json) |
+| Artovya | 303894 | [303894-artovya.json](./303894-artovya.json) |
 | Artpartment | 128425 | [128425-artpartment.json](./128425-artpartment.json) |
 | ArtPulse | 129123 | [129123-artpulse.json](./129123-artpulse.json) |
 | ArtRageous! | 57564 | [57564-artrageous.json](./57564-artrageous.json) |
@@ -10552,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asaki, Yumemishi | 56524 | [56524-asaki-yumemishi.json](./56524-asaki-yumemishi.json) |
 | Asakura! P | 63096 | [63096-asakura-p.json](./63096-asakura-p.json) |
 | Asameshimae Nyanko | 44450 | [44450-asameshimae-nyanko.json](./44450-asameshimae-nyanko.json) |
+| Asbak | 303896 | [303896-asbak.json](./303896-asbak.json) |
 | Asbury Pines | 258480 | [258480-asbury-pines.json](./258480-asbury-pines.json) |
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 119486 | [119486-ascend.json](./119486-ascend.json) |
@@ -10775,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asian Riddles 4 | 90512 | [90512-asian-riddles-4.json](./90512-asian-riddles-4.json) |
 | Asian Truck Simulator | 214165 | [214165-asian-truck-simulator.json](./214165-asian-truck-simulator.json) |
 | Asicaso | 134558 | [134558-asicaso.json](./134558-asicaso.json) |
+| Asili Forest | 303897 | [303897-asili-forest.json](./303897-asili-forest.json) |
 | Asistent detektiva Zbyška | 391284 | [391284-asistent-detektiva-zbyska.json](./391284-asistent-detektiva-zbyska.json) |
 | Ask Angela | 65019 | [65019-ask-angela.json](./65019-ask-angela.json) |
 | Ask Gear Re:Boost | 325447 | [325447-ask-gear-re-boost.json](./325447-ask-gear-re-boost.json) |
@@ -11956,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas Hands | 349090 | [349090-atlas-hands.json](./349090-atlas-hands.json) |
 | Atlas Novum | 298293 | [298293-atlas-novum.json](./298293-atlas-novum.json) |
 | Atlas of the Starry Night | 293005 | [293005-atlas-of-the-starry-night.json](./293005-atlas-of-the-starry-night.json) |
+| Atlas Online | 303899 | [303899-atlas-online.json](./303899-atlas-online.json) |
 | Atlas Reactor | 18063 | [18063-atlas-reactor.json](./18063-atlas-reactor.json) |
 | Atlas Reactor VR Character Viewer | 33173 | [33173-atlas-reactor-vr-character-viewer.json](./33173-atlas-reactor-vr-character-viewer.json) |
 | Atlas Reactor: All Freelancers Pack | 52430 | [52430-atlas-reactor-all-freelancers-pack.json](./52430-atlas-reactor-all-freelancers-pack.json) |
@@ -12017,6 +12028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Driver | 73731 | [73731-atomic-driver.json](./73731-atomic-driver.json) |
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
+| Atomic Exile | 303900 | [303900-atomic-exile.json](./303900-atomic-exile.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
@@ -12042,6 +12054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Super Lander Re-Nuked Edition | 392826 | [392826-atomic-super-lander-re-nuked-edition.json](./392826-atomic-super-lander-re-nuked-edition.json) |
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
+| Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
@@ -12426,6 +12439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Cell: Game of Life | 165735 | [165735-auto-cell-game-of-life.json](./165735-auto-cell-game-of-life.json) |
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
+| Auto Clicker Pro | 303902 | [303902-auto-clicker-pro.json](./303902-auto-clicker-pro.json) |
 | Auto Club Revolution | 80491 | [80491-auto-club-revolution.json](./80491-auto-club-revolution.json) |
 | Auto Crusher Palladium | 229229 | [229229-auto-crusher-palladium.json](./229229-auto-crusher-palladium.json) |
 | Auto Dealership Tycoon | 34713 | [34713-auto-dealership-tycoon.json](./34713-auto-dealership-tycoon.json) |
@@ -12507,6 +12521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automania | 30216 | [30216-automania.json](./30216-automania.json) |
 | Automata 10 Pack Volume 2 | 258188 | [258188-automata-10-pack-volume-2.json](./258188-automata-10-pack-volume-2.json) |
 | Automata Break | 139455 | [139455-automata-break.json](./139455-automata-break.json) |
+| Automata Streetcar | 303903 | [303903-automata-streetcar.json](./303903-automata-streetcar.json) |
 | Automatic Flips | 409754 | [409754-automatic-flips.json](./409754-automatic-flips.json) |
 | Automatic Kingdom | 347015 | [347015-automatic-kingdom.json](./347015-automatic-kingdom.json) |
 | Automatic War | 223390 | [223390-automatic-war.json](./223390-automatic-war.json) |
@@ -12840,6 +12855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aw Nutz | 65815 | [65815-aw-nutz.json](./65815-aw-nutz.json) |
 | AWA | 32877 | [32877-awa.json](./32877-awa.json) |
 | AWA 2024 | 278169 | [278169-awa-2024.json](./278169-awa-2024.json) |
+| Awagame | 303905 | [303905-awagame.json](./303905-awagame.json) |
 | Awaiting Salvation | 119737 | [119737-awaiting-salvation.json](./119737-awaiting-salvation.json) |
 | Awaits: 10H | 201620 | [201620-awaits-10h.json](./201620-awaits-10h.json) |
 | Awake | 148290 | [148290-awake.json](./148290-awake.json) |
@@ -13093,6 +13109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azalta | 165515 | [165515-azalta.json](./165515-azalta.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azar | 186767 | [186767-azar.json](./186767-azar.json) |
+| Azaran: Islands of the Jinn | 303904 | [303904-azaran-islands-of-the-jinn.json](./303904-azaran-islands-of-the-jinn.json) |
 | Azaran: The Demon Bottle | 359913 | [359913-azaran-the-demon-bottle.json](./359913-azaran-the-demon-bottle.json) |
 | Azathoth-D: Youtou Saisoku Densetsu | 144954 | [144954-azathoth-d-youtou-saisoku-densetsu.json](./144954-azathoth-d-youtou-saisoku-densetsu.json) |
 | Azato Kawaii Ayase-chan! | 402458 | [402458-azato-kawaii-ayase-chan.json](./402458-azato-kawaii-ayase-chan.json) |
