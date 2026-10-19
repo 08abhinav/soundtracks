@@ -4402,6 +4402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 127791 | [127791-winter.json](./127791-winter.json) |
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
+| Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
 | Winter Clothing | 333968 | [333968-winter-clothing.json](./333968-winter-clothing.json) |
