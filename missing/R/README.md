@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
 | Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
+| Red | 256661 | [256661-red.json](./256661-red.json) |
 | Red | 29948 | [29948-red.json](./29948-red.json) |
 | Red | 75084 | [75084-red.json](./75084-red.json) |
 | Red 7 | 175986 | [175986-red-7.json](./175986-red-7.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
 | RippleLoop | 416045 | [416045-rippleloop.json](./416045-rippleloop.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
+| Ripples | 256696 | [256696-ripples.json](./256696-ripples.json) |
 | Ripshot | 158041 | [158041-ripshot.json](./158041-ripshot.json) |
 | Riptale | 28313 | [28313-riptale.json](./28313-riptale.json) |
 | Riptale: Deluxe Edition | 53509 | [53509-riptale-deluxe-edition.json](./53509-riptale-deluxe-edition.json) |
