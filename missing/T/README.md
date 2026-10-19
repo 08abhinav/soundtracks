@@ -3316,6 +3316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
 | Terra Maega | 217265 | [217265-terra-maega.json](./217265-terra-maega.json) |
 | Terra Mango | 47141 | [47141-terra-mango.json](./47141-terra-mango.json) |
+| Terra Memoria: Deluxe Edition | 292926 | [292926-terra-memoria-deluxe-edition.json](./292926-terra-memoria-deluxe-edition.json) |
 | Terra Militaris | 66367 | [66367-terra-militaris.json](./66367-terra-militaris.json) |
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
@@ -10053,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze Game: Runner and Escapist | 207884 | [207884-the-maze-game-runner-and-escapist.json](./207884-the-maze-game-runner-and-escapist.json) |
 | The Maze of Horror | 123884 | [123884-the-maze-of-horror.json](./123884-the-maze-of-horror.json) |
 | The Maze of the Kings | 39793 | [39793-the-maze-of-the-kings.json](./39793-the-maze-of-the-kings.json) |
+| The Maze of Zabendo | 293010 | [293010-the-maze-of-zabendo.json](./293010-the-maze-of-zabendo.json) |
 | The Maze Runner | 138159 | [138159-the-maze-runner.json](./138159-the-maze-runner.json) |
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
@@ -12759,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
 | The Suspense | 333070 | [333070-the-suspense.json](./333070-the-suspense.json) |
+| The Swan | 292933 | [292933-the-swan.json](./292933-the-swan.json) |
 | The Swan Princess: Hidden Tales | 268452 | [268452-the-swan-princess-hidden-tales.json](./268452-the-swan-princess-hidden-tales.json) |
 | The Swapper | 5892 | [5892-the-swapper.json](./5892-the-swapper.json) |
 | The Swarm | 226432 | [226432-the-swarm.json](./226432-the-swarm.json) |
@@ -14302,6 +14305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheBoll | 345033 | [345033-theboll.json](./345033-theboll.json) |
 | TheBootCamp | 195219 | [195219-thebootcamp.json](./195219-thebootcamp.json) |
 | TheC64 Mini: Black Edition | 360591 | [360591-thec64-mini-black-edition.json](./360591-thec64-mini-black-edition.json) |
+| TheDay | 292935 | [292935-theday.json](./292935-theday.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
@@ -14518,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thexder | 9681 | [9681-thexder.json](./9681-thexder.json) |
 | Thexder 95 | 57565 | [57565-thexder-95.json](./57565-thexder-95.json) |
 | They | 80613 | [80613-they.json](./80613-they.json) |
+| They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming! | 173283 | [173283-they-are-coming.json](./173283-they-are-coming.json) |
@@ -14735,6 +14740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
 | This is a real thing that happened | 355471 | [355471-this-is-a-real-thing-that-happened.json](./355471-this-is-a-real-thing-that-happened.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
+| This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
