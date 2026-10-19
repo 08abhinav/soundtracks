@@ -10511,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
+| Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
 | Boyfriend Dungeon | 74692 | [74692-boyfriend-dungeon.json](./74692-boyfriend-dungeon.json) |
 | Boyfriend Dungeon: Secret Weapons | 228681 | [228681-boyfriend-dungeon-secret-weapons.json](./228681-boyfriend-dungeon-secret-weapons.json) |
 | Boyfriend Exorcist | 265535 | [265535-boyfriend-exorcist.json](./265535-boyfriend-exorcist.json) |
@@ -10830,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Heart | 246317 | [246317-brave-heart.json](./246317-brave-heart.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
+| Brave Hero: Puzzle Dungeon Card | 285370 | [285370-brave-hero-puzzle-dungeon-card.json](./285370-brave-hero-puzzle-dungeon-card.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
 | Brave knight runner | 115496 | [115496-brave-knight-runner.json](./115496-brave-knight-runner.json) |
@@ -11203,6 +11205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthrough | 336686 | [336686-breakthrough.json](./336686-breakthrough.json) |
 | BreakThrough | 391866 | [391866-breakthrough.json](./391866-breakthrough.json) |
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
+| Breakthrough Mars | 285371 | [285371-breakthrough-mars.json](./285371-breakthrough-mars.json) |
 | BreakThrough Time | 392378 | [392378-breakthrough-time.json](./392378-breakthrough-time.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
 | BreakThru | 288105 | [288105-breakthru.json](./288105-breakthru.json) |
@@ -11602,6 +11605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broadband Architect | 421849 | [421849-broadband-architect.json](./421849-broadband-architect.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
+| Broadside Renegades | 285372 | [285372-broadside-renegades.json](./285372-broadside-renegades.json) |
 | Broadsides | 23988 | [23988-broadsides.json](./23988-broadsides.json) |
 | Broadsword : Age of Chivalry | 17618 | [17618-broadsword-age-of-chivalry.json](./17618-broadsword-age-of-chivalry.json) |
 | Broadsword: Warlord Edition | 272779 | [272779-broadsword-warlord-edition.json](./272779-broadsword-warlord-edition.json) |
@@ -13084,6 +13088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout | 410457 | [410457-burnout.json](./410457-burnout.json) |
 | Burnout 2: Point of Impact | 3840 | [3840-burnout-2-point-of-impact.json](./3840-burnout-2-point-of-impact.json) |
 | Burnout 3: Takedown | 5761 | [5761-burnout-3-takedown.json](./5761-burnout-3-takedown.json) |
+| Burnout Chaos: Drift Car Project | 285349 | [285349-burnout-chaos-drift-car-project.json](./285349-burnout-chaos-drift-car-project.json) |
 | Burnout Dominator | 6203 | [6203-burnout-dominator.json](./6203-burnout-dominator.json) |
 | Burnout Drift | 116364 | [116364-burnout-drift.json](./116364-burnout-drift.json) |
 | Burnout Legends | 10916 | [10916-burnout-legends.json](./10916-burnout-legends.json) |
