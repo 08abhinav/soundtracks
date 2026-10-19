@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Solis | 298291 | [298291-pax-solis.json](./298291-pax-solis.json) |
 | Pax Warrior | 174108 | [174108-pax-warrior.json](./174108-pax-warrior.json) |
 | Pay 4 It | 229821 | [229821-pay-4-it.json](./229821-pay-4-it.json) |
+| Pay for My Call with a Kiss | 299603 | [299603-pay-for-my-call-with-a-kiss.json](./299603-pay-for-my-call-with-a-kiss.json) |
 | Pay for Picture: Vol.01 | 335335 | [335335-pay-for-picture-vol-01.json](./335335-pay-for-picture-vol-01.json) |
 | Pay Me In Colors | 287764 | [287764-pay-me-in-colors.json](./287764-pay-me-in-colors.json) |
 | Pay Respects | 176202 | [176202-pay-respects.json](./176202-pay-respects.json) |
