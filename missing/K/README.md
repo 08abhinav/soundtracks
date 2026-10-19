@@ -1912,9 +1912,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Junkyard | 295894 | [295894-killer-junkyard.json](./295894-killer-junkyard.json) |
 | Killer Karaoke: el juego | 245308 | [245308-killer-karaoke-el-juego.json](./245308-killer-karaoke-el-juego.json) |
 | Killer Klowns From Outer Space: Fatso | 322739 | [322739-killer-klowns-from-outer-space-fatso.json](./322739-killer-klowns-from-outer-space-fatso.json) |
+| Killer Klowns From Outer Space: Human Klown Cosplay Pack | 304442 | [304442-killer-klowns-from-outer-space-human-klown-cosplay-pack.json](./304442-killer-klowns-from-outer-space-human-klown-cosplay-pack.json) |
 | Killer Klowns From Outer Space: Human Summer Outfit Pack | 322733 | [322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json](./322733-killer-klowns-from-outer-space-human-summer-outfit-pack.json) |
 | Killer Klowns From Outer Space: Infernal Brawler - Impy | 322738 | [322738-killer-klowns-from-outer-space-infernal-brawler-impy.json](./322738-killer-klowns-from-outer-space-infernal-brawler-impy.json) |
 | Killer Klowns From Outer Space: Infernal Hunter - Zombo | 322735 | [322735-killer-klowns-from-outer-space-infernal-hunter-zombo.json](./322735-killer-klowns-from-outer-space-infernal-hunter-zombo.json) |
+| Killer Klowns From Outer Space: Infernal Ranger - Fluxo | 304471 | [304471-killer-klowns-from-outer-space-infernal-ranger-fluxo.json](./304471-killer-klowns-from-outer-space-infernal-ranger-fluxo.json) |
 | Killer Klowns From Outer Space: Infernal Tank - Gutso | 322736 | [322736-killer-klowns-from-outer-space-infernal-tank-gutso.json](./322736-killer-klowns-from-outer-space-infernal-tank-gutso.json) |
 | Killer Klowns From Outer Space: Infernal Tracker - Slappy | 322734 | [322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json](./322734-killer-klowns-from-outer-space-infernal-tracker-slappy.json) |
 | Killer Klowns From Outer Space: The Game - Digital Deluxe Edition | 303285 | [303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json](./303285-killer-klowns-from-outer-space-the-game-digital-deluxe-edition.json) |
@@ -2279,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Spies | 380830 | [380830-king-of-spies.json](./380830-king-of-spies.json) |
 | King of Spin VR | 31980 | [31980-king-of-spin-vr.json](./31980-king-of-spin-vr.json) |
 | King of Sports: New Japan Pro-Wrestling | 109574 | [109574-king-of-sports-new-japan-pro-wrestling.json](./109574-king-of-sports-new-japan-pro-wrestling.json) |
+| King of Stocks | 304446 | [304446-king-of-stocks.json](./304446-king-of-stocks.json) |
 | King of the Cabbage World | 386402 | [386402-king-of-the-cabbage-world.json](./386402-king-of-the-cabbage-world.json) |
 | King of the Castle | 42146 | [42146-king-of-the-castle.json](./42146-king-of-the-castle.json) |
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
@@ -3867,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konoha Challenge | 131378 | [131378-konoha-challenge.json](./131378-konoha-challenge.json) |
 | Konohana 3: Itsuwari no Kage no Mukou ni | 213868 | [213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json](./213868-konohana-3-itsuwari-no-kage-no-mukou-ni.json) |
 | Konohana 4: Yami wo Harau Inori | 213933 | [213933-konohana-4-yami-wo-harau-inori.json](./213933-konohana-4-yami-wo-harau-inori.json) |
+| Konon: Zew Choroszczy | 304433 | [304433-konon-zew-choroszczy.json](./304433-konon-zew-choroszczy.json) |
 | KonoSuba: Fantastic Days! | 138261 | [138261-konosuba-fantastic-days.json](./138261-konosuba-fantastic-days.json) |
 | Konosuba: God's Blessing on this Wonderful World! - Love for this Tempting Attire | 136771 | [136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json](./136771-konosuba-gods-blessing-on-this-wonderful-world-love-for-this-tempting-attire.json) |
 | KonoSuba: God's Blessing on this Wonderful World! Judgment on this Greedy Game! | 34218 | [34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json](./34218-konosuba-gods-blessing-on-this-wonderful-world-judgment-on-this-greedy-game.json) |
