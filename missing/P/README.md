@@ -10501,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo | 271724 | [271724-primo.json](./271724-primo.json) |
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordial Nation | 297856 | [297856-primordial-nation.json](./297856-primordial-nation.json) |
 | Primordial Pain | 223099 | [223099-primordial-pain.json](./223099-primordial-pain.json) |
 | Primordial Soup | 308608 | [308608-primordial-soup.json](./308608-primordial-soup.json) |
 | Primordial Soup | 401863 | [401863-primordial-soup.json](./401863-primordial-soup.json) |
@@ -11315,6 +11316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 13: Nightwatch - Canteen | 310382 | [310382-project-13-nightwatch-canteen.json](./310382-project-13-nightwatch-canteen.json) |
 | Project 13: Taxidermy Trails | 288192 | [288192-project-13-taxidermy-trails.json](./288192-project-13-taxidermy-trails.json) |
 | Project 1337: The Well | 330587 | [330587-project-1337-the-well.json](./330587-project-1337-the-well.json) |
+| Project 1942 | 297853 | [297853-project-1942.json](./297853-project-1942.json) |
 | Project 1v1 | 103383 | [103383-project-1v1.json](./103383-project-1v1.json) |
 | Project 1v1 (working title) | 131448 | [131448-project-1v1-working-title.json](./131448-project-1v1-working-title.json) |
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
