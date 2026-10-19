@@ -6487,6 +6487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
+| Circle Dodge | 267770 | [267770-circle-dodge.json](./267770-circle-dodge.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
 | Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
@@ -9157,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
+| Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma: A Mind Adventure | 64976 | [64976-coma-a-mind-adventure.json](./64976-coma-a-mind-adventure.json) |
 | Coma: Lost in the Maze | 186816 | [186816-coma-lost-in-the-maze.json](./186816-coma-lost-in-the-maze.json) |
@@ -9849,6 +9851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
 | Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
+| Conflict of Lords | 267809 | [267809-conflict-of-lords.json](./267809-conflict-of-lords.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Denied Ops | 5634 | [5634-conflict-denied-ops.json](./5634-conflict-denied-ops.json) |
@@ -9995,6 +9998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror 940 AD | 144985 | [144985-conqueror-940-ad.json](./144985-conqueror-940-ad.json) |
 | Conqueror Of The Galaxy | 327046 | [327046-conqueror-of-the-galaxy.json](./327046-conqueror-of-the-galaxy.json) |
 | Conqueror of the Seas | 236162 | [236162-conqueror-of-the-seas.json](./236162-conqueror-of-the-seas.json) |
+| Conqueror of Time | 267810 | [267810-conqueror-of-time.json](./267810-conqueror-of-time.json) |
 | Conqueror's Blade | 70985 | [70985-conquerors-blade.json](./70985-conquerors-blade.json) |
 | Conqueror's Blade: Battle Pass - Dragonrise | 297098 | [297098-conquerors-blade-battle-pass-dragonrise.json](./297098-conquerors-blade-battle-pass-dragonrise.json) |
 | Conqueror's Blade: Colosseum | 217526 | [217526-conquerors-blade-colosseum.json](./217526-conquerors-blade-colosseum.json) |
@@ -13402,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRSED: F.O.A.D. - Lone Wolf | 171061 | [171061-crsed-f-o-a-d-lone-wolf.json](./171061-crsed-f-o-a-d-lone-wolf.json) |
 | CRSED: F.O.A.D. - Metal Zombie | 171058 | [171058-crsed-f-o-a-d-metal-zombie.json](./171058-crsed-f-o-a-d-metal-zombie.json) |
 | CRSED: F.O.A.D. - Street Kid | 171060 | [171060-crsed-f-o-a-d-street-kid.json](./171060-crsed-f-o-a-d-street-kid.json) |
+| CRSED: F.O.A.D.: The Bear of Wall Street Bundle | 267778 | [267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json](./267778-crsed-f-o-a-d-the-bear-of-wall-street-bundle.json) |
 | CRT7 | 210849 | [210849-crt7.json](./210849-crt7.json) |
 | Crucial 2: The Refresh Update | 290398 | [290398-crucial-2-the-refresh-update.json](./290398-crucial-2-the-refresh-update.json) |
 | Crucible | 24653 | [24653-crucible.json](./24653-crucible.json) |
