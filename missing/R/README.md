@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | République: Episode 5 - Terminus | 127130 | [127130-republique-episode-5-terminus.json](./127130-republique-episode-5-terminus.json) |
 | Repulsanoid | 30668 | [30668-repulsanoid.json](./30668-repulsanoid.json) |
 | Repulsar | 80187 | [80187-repulsar.json](./80187-repulsar.json) |
+| Repulse | 273238 | [273238-repulse.json](./273238-repulse.json) |
 | Repulse | 47201 | [47201-repulse.json](./47201-repulse.json) |
 | RePulse-X | 373312 | [373312-repulse-x.json](./373312-repulse-x.json) |
 | Repulse: Galactic Rivals | 75166 | [75166-repulse-galactic-rivals.json](./75166-repulse-galactic-rivals.json) |
@@ -8813,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruiga Pirates: Cursed Seas | 301823 | [301823-ruiga-pirates-cursed-seas.json](./301823-ruiga-pirates-cursed-seas.json) |
 | Ruin | 174083 | [174083-ruin.json](./174083-ruin.json) |
 | Ruin | 272378 | [272378-ruin.json](./272378-ruin.json) |
+| Ruin | 273246 | [273246-ruin.json](./273246-ruin.json) |
 | Ruin | 400986 | [400986-ruin.json](./400986-ruin.json) |
 | Ruin 2: Mimic Adventures | 313241 | [313241-ruin-2-mimic-adventures.json](./313241-ruin-2-mimic-adventures.json) |
 | Ruin and Rebirth | 376031 | [376031-ruin-and-rebirth.json](./376031-ruin-and-rebirth.json) |
