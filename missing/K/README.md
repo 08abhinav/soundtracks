@@ -4493,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
+| Kunoichi Demon Slayers | 262793 | [262793-kunoichi-demon-slayers.json](./262793-kunoichi-demon-slayers.json) |
 | Kunoichi Ninja | 122218 | [122218-kunoichi-ninja.json](./122218-kunoichi-ninja.json) |
 | Kunoichi Ninpocho | 97516 | [97516-kunoichi-ninpocho.json](./97516-kunoichi-ninpocho.json) |
 | Kunoichi Rush | 82325 | [82325-kunoichi-rush.json](./82325-kunoichi-rush.json) |
