@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Hell Freezes Over | 366912 | [366912-after-hell-freezes-over.json](./366912-after-hell-freezes-over.json) |
 | After Hours | 113144 | [113144-after-hours.json](./113144-after-hours.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
+| After Hours | 307401 | [307401-after-hours.json](./307401-after-hours.json) |
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
 | After Inc. | 323935 | [323935-after-inc.json](./323935-after-inc.json) |
@@ -11052,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assemble the Car | 233488 | [233488-assemble-the-car.json](./233488-assemble-the-car.json) |
 | Assemble! | 304679 | [304679-assemble.json](./304679-assemble.json) |
 | Assemble!: Classic and Future Vehicles | 340559 | [340559-assemble-classic-and-future-vehicles.json](./340559-assemble-classic-and-future-vehicles.json) |
+| Assemblio | 307393 | [307393-assemblio.json](./307393-assemblio.json) |
 | Assembloids | 195065 | [195065-assembloids.json](./195065-assembloids.json) |
 | Assembloids | 41018 | [41018-assembloids.json](./41018-assembloids.json) |
 | Assembloids 2600 | 321557 | [321557-assembloids-2600.json](./321557-assembloids-2600.json) |
