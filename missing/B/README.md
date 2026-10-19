@@ -8623,6 +8623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
 | Blue Night Laundromat | 322668 | [322668-blue-night-laundromat.json](./322668-blue-night-laundromat.json) |
+| Blue Ninja: Superhero Game | 275495 | [275495-blue-ninja-superhero-game.json](./275495-blue-ninja-superhero-game.json) |
 | Blue Notebook | 367159 | [367159-blue-notebook.json](./367159-blue-notebook.json) |
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
