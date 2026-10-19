@@ -4601,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
 | Bellatrix e o Palácio do Tempo | 276032 | [276032-bellatrix-e-o-palacio-do-tempo.json](./276032-bellatrix-e-o-palacio-do-tempo.json) |
 | Bellatrix: Tales of Orionis | 269459 | [269459-bellatrix-tales-of-orionis.json](./269459-bellatrix-tales-of-orionis.json) |
+| Bellboy Boris | 260562 | [260562-bellboy-boris.json](./260562-bellboy-boris.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle Citique | 347813 | [347813-belle-citique.json](./347813-belle-citique.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Tapper vs the Krampus Fellowship Clan | 297568 | [297568-bird-tapper-vs-the-krampus-fellowship-clan.json](./297568-bird-tapper-vs-the-krampus-fellowship-clan.json) |
 | Bird Tapper: Purple Platoon Panic | 297567 | [297567-bird-tapper-purple-platoon-panic.json](./297567-bird-tapper-purple-platoon-panic.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
+| Bird Watching Simulator | 260559 | [260559-bird-watching-simulator.json](./260559-bird-watching-simulator.json) |
 | Bird Week | 48543 | [48543-bird-week.json](./48543-bird-week.json) |
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
@@ -6773,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Plague | 405942 | [405942-black-plague.json](./405942-black-plague.json) |
 | Black plane | 291736 | [291736-black-plane.json](./291736-black-plane.json) |
 | Black Powder | 101590 | [101590-black-powder.json](./101590-black-powder.json) |
+| Black Powder Desolation | 260539 | [260539-black-powder-desolation.json](./260539-black-powder-desolation.json) |
 | Black Prophecy | 11509 | [11509-black-prophecy.json](./11509-black-prophecy.json) |
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
@@ -11633,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Me that Shawarma: Supporter Pack | 316385 | [316385-bring-me-that-shawarma-supporter-pack.json](./316385-bring-me-that-shawarma-supporter-pack.json) |
 | Bring Me... | 317318 | [317318-bring-me.json](./317318-bring-me.json) |
 | Bring the Book Back | 338330 | [338330-bring-the-book-back.json](./338330-bring-the-book-back.json) |
+| Bring The Chickens Home | 260520 | [260520-bring-the-chickens-home.json](./260520-bring-the-chickens-home.json) |
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
@@ -12946,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
 | Bunny Quest | 143942 | [143942-bunny-quest.json](./143942-bunny-quest.json) |
 | Bunny Rampage: History of Revenge | 345461 | [345461-bunny-rampage-history-of-revenge.json](./345461-bunny-rampage-history-of-revenge.json) |
+| Bunny Revenge | 260543 | [260543-bunny-revenge.json](./260543-bunny-revenge.json) |
 | Bunny Reversi | 119535 | [119535-bunny-reversi.json](./119535-bunny-reversi.json) |
 | Bunny Roulette | 335518 | [335518-bunny-roulette.json](./335518-bunny-roulette.json) |
 | Bunny Space Odyssey: FlopHop | 379177 | [379177-bunny-space-odyssey-flophop.json](./379177-bunny-space-odyssey-flophop.json) |
