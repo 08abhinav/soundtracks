@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: No. 1 Striker | 385802 | [385802-captain-tsubasa-no-1-striker.json](./385802-captain-tsubasa-no-1-striker.json) |
 | Captain Tsubasa: Rise of New Champions | 128769 | [128769-captain-tsubasa-rise-of-new-champions.json](./128769-captain-tsubasa-rise-of-new-champions.json) |
 | Captain Tsubasa: Rise of New Champions - Deluxe Month 1 Edition | 139942 | [139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json](./139942-captain-tsubasa-rise-of-new-champions-deluxe-month-1-edition.json) |
+| Captain Tsubasa: Rise of New Champions - Digital Ultimate Edition | 267226 | [267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json](./267226-captain-tsubasa-rise-of-new-champions-digital-ultimate-edition.json) |
 | Captain Tsubasa: Rise of New Champions - Juan Diaz Mission | 214543 | [214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json](./214543-captain-tsubasa-rise-of-new-champions-juan-diaz-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tachibana Brothers Mission | 214542 | [214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json](./214542-captain-tsubasa-rise-of-new-champions-tachibana-brothers-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
@@ -4102,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chamberbound | 247363 | [247363-chamberbound.json](./247363-chamberbound.json) |
 | Chambered | 385381 | [385381-chambered.json](./385381-chambered.json) |
 | Chambered | 40708 | [40708-chambered.json](./40708-chambered.json) |
+| Chambered Fate | 267249 | [267249-chambered-fate.json](./267249-chambered-fate.json) |
 | Chamberflame | 275540 | [275540-chamberflame.json](./275540-chamberflame.json) |
 | Chamberlore | 378435 | [378435-chamberlore.json](./378435-chamberlore.json) |
 | Chambers | 281980 | [281980-chambers.json](./281980-chambers.json) |
@@ -5279,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chief's Quest | 111703 | [111703-chiefs-quest.json](./111703-chiefs-quest.json) |
 | Chieftain | 113332 | [113332-chieftain.json](./113332-chieftain.json) |
 | Chieftain's Daughter | 244313 | [244313-chieftains-daughter.json](./244313-chieftains-daughter.json) |
+| Chigau no Doore da? | 267235 | [267235-chigau-no-doore-da.json](./267235-chigau-no-doore-da.json) |
 | Chigau!!! | 170786 | [170786-chigau.json](./170786-chigau.json) |
 | Chigau!!!+ | 186231 | [186231-chigau.json](./186231-chigau.json) |
 | Chigau!!!+: Premium Edition | 186232 | [186232-chigau-premium-edition.json](./186232-chigau-premium-edition.json) |
@@ -7136,6 +7139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash'N Slash: Worlds Away | 39773 | [39773-clashn-slash-worlds-away.json](./39773-clashn-slash-worlds-away.json) |
 | ClashBall.io | 325921 | [325921-clashball-io.json](./325921-clashball-io.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
+| Clashmon: Ignition | 267224 | [267224-clashmon-ignition.json](./267224-clashmon-ignition.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
@@ -11291,6 +11295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coughing Crag | 269448 | [269448-coughing-crag.json](./269448-coughing-crag.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Councell for the Best Death | 342191 | [342191-councell-for-the-best-death.json](./342191-councell-for-the-best-death.json) |
+| Council of Mages: The Party Game | 267255 | [267255-council-of-mages-the-party-game.json](./267255-council-of-mages-the-party-game.json) |
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
 | Count 427 | 287624 | [287624-count-427.json](./287624-count-427.json) |
 | Count Downula | 109040 | [109040-count-downula.json](./109040-count-downula.json) |
@@ -11667,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CP3D | 109581 | [109581-cp3d.json](./109581-cp3d.json) |
 | CP6 | 405954 | [405954-cp6.json](./405954-cp6.json) |
 | CPA: Reports Bousy | 311123 | [311123-cpa-reports-bousy.json](./311123-cpa-reports-bousy.json) |
+| CPCMiniPac | 267217 | [267217-cpcminipac.json](./267217-cpcminipac.json) |
 | CPD | 262550 | [262550-cpd.json](./262550-cpd.json) |
 | CPRC: Extant Hunters | 103229 | [103229-cprc-extant-hunters.json](./103229-cprc-extant-hunters.json) |
 | Cpt. Balloney: Painful days at home | 153502 | [153502-cpt-balloney-painful-days-at-home.json](./153502-cpt-balloney-painful-days-at-home.json) |
