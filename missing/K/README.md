@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts Integrum Masterpiece | 305216 | [305216-kingdom-hearts-integrum-masterpiece.json](./305216-kingdom-hearts-integrum-masterpiece.json) |
 | Kingdom Hearts Integrum Masterpiece for Cloud | 187460 | [187460-kingdom-hearts-integrum-masterpiece-for-cloud.json](./187460-kingdom-hearts-integrum-masterpiece-for-cloud.json) |
 | Kingdom Hearts Magical Canvas | 405372 | [405372-kingdom-hearts-magical-canvas.json](./405372-kingdom-hearts-magical-canvas.json) |
+| Kingdom Hearts Magical Puzzle Clash | 303861 | [303861-kingdom-hearts-magical-puzzle-clash.json](./303861-kingdom-hearts-magical-puzzle-clash.json) |
 | Kingdom Hearts Re:Chain of Memories | 20286 | [20286-kingdom-hearts-re-chain-of-memories.json](./20286-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:Chain of Memories | 214986 | [214986-kingdom-hearts-re-chain-of-memories.json](./214986-kingdom-hearts-re-chain-of-memories.json) |
 | Kingdom Hearts Re:coded | 1225 | [1225-kingdom-hearts-re-coded.json](./1225-kingdom-hearts-re-coded.json) |
@@ -3682,6 +3683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
 | Koira | 305033 | [305033-koira.json](./305033-koira.json) |
 | Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
+| Koishi Adventure: Barrage Forbidden - Scarlet! | 303885 | [303885-koishi-adventure-barrage-forbidden-scarlet.json](./303885-koishi-adventure-barrage-forbidden-scarlet.json) |
 | Koishi's Lumo | 132280 | [132280-koishis-lumo.json](./132280-koishis-lumo.json) |
 | Koishite Doki-doki Choice Messe & Date | 251610 | [251610-koishite-doki-doki-choice-messe-and-date.json](./251610-koishite-doki-doki-choice-messe-and-date.json) |
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
