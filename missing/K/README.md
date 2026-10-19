@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
 | Keyfall | 217375 | [217375-keyfall.json](./217375-keyfall.json) |
 | KeyFortress | 406294 | [406294-keyfortress.json](./406294-keyfortress.json) |
+| Keyframes | 309185 | [309185-keyframes.json](./309185-keyframes.json) |
 | Keyg | 108385 | [108385-keyg.json](./108385-keyg.json) |
 | Keyhole Spy: Fantasy Passion | 110382 | [110382-keyhole-spy-fantasy-passion.json](./110382-keyhole-spy-fantasy-passion.json) |
 | Keyhole Spy: Frozen Hotties | 111266 | [111266-keyhole-spy-frozen-hotties.json](./111266-keyhole-spy-frozen-hotties.json) |
