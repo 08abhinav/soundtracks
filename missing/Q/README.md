@@ -13,6 +13,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
+| Q-Red | 273237 | [273237-q-red.json](./273237-q-red.json) |
 | Q: A Dystopian Queueing Simulator | 135620 | [135620-q-a-dystopian-queueing-simulator.json](./135620-q-a-dystopian-queueing-simulator.json) |
 | Q: A Neon Platformer | 137962 | [137962-q-a-neon-platformer.json](./137962-q-a-neon-platformer.json) |
 | Q: Cue | 153738 | [153738-q-cue.json](./153738-q-cue.json) |
@@ -617,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Adventure | 133444 | [133444-quest-adventure.json](./133444-quest-adventure.json) |
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
+| Quest for 2Moo | 273252 | [273252-quest-for-2moo.json](./273252-quest-for-2moo.json) |
 | Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
 | Quest for Camelot: Dragon Games | 320992 | [320992-quest-for-camelot-dragon-games.json](./320992-quest-for-camelot-dragon-games.json) |
 | Quest for Cathay Kingdom Mah Jong | 367446 | [367446-quest-for-cathay-kingdom-mah-jong.json](./367446-quest-for-cathay-kingdom-mah-jong.json) |
