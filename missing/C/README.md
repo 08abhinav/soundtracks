@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
 | Calculator360 | 81236 | [81236-calculator360.json](./81236-calculator360.json) |
+| Caldera | 268906 | [268906-caldera.json](./268906-caldera.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
 | Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
@@ -6360,6 +6361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
+| Chuxen | 268910 | [268910-chuxen.json](./268910-chuxen.json) |
 | Chuxie | 308857 | [308857-chuxie.json](./308857-chuxie.json) |
 | Chuxie2 | 398418 | [398418-chuxie2.json](./398418-chuxie2.json) |
 | Chuzzle | 3758 | [3758-chuzzle.json](./3758-chuzzle.json) |
@@ -7905,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluck Cluck'em | 183456 | [183456-cluck-cluckem.json](./183456-cluck-cluckem.json) |
 | Cluck Frenzy | 278915 | [278915-cluck-frenzy.json](./278915-cluck-frenzy.json) |
 | Cluck-a-Thon | 258116 | [258116-cluck-a-thon.json](./258116-cluck-a-thon.json) |
+| Clucking Dubbed to Feathers | 268872 | [268872-clucking-dubbed-to-feathers.json](./268872-clucking-dubbed-to-feathers.json) |
 | Cluckles' Adventure | 29221 | [29221-cluckles-adventure.json](./29221-cluckles-adventure.json) |
 | Cluckmech Oasis | 275812 | [275812-cluckmech-oasis.json](./275812-cluckmech-oasis.json) |
 | Cludbugz Twisted Magic | 180059 | [180059-cludbugz-twisted-magic.json](./180059-cludbugz-twisted-magic.json) |
@@ -14501,6 +14504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Juniper Tree | 301409 | [301409-curse-of-the-juniper-tree.json](./301409-curse-of-the-juniper-tree.json) |
 | Curse of the Lich King | 178005 | [178005-curse-of-the-lich-king.json](./178005-curse-of-the-lich-king.json) |
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
+| Curse of the Lost Gods | 268878 | [268878-curse-of-the-lost-gods.json](./268878-curse-of-the-lost-gods.json) |
 | Curse of the Pharaoh: Napoleon's Secret | 208843 | [208843-curse-of-the-pharaoh-napoleons-secret.json](./208843-curse-of-the-pharaoh-napoleons-secret.json) |
 | Curse of the Pharaoh: Tears of Sekhmet | 158940 | [158940-curse-of-the-pharaoh-tears-of-sekhmet.json](./158940-curse-of-the-pharaoh-tears-of-sekhmet.json) |
 | Curse of the Pharaoh: The Quest for Nefertiti | 70043 | [70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json](./70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json) |
@@ -15335,6 +15339,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrah's Ascent | 201558 | [201558-cyrahs-ascent.json](./201558-cyrahs-ascent.json) |
 | Cyraid | 48953 | [48953-cyraid.json](./48953-cyraid.json) |
 | Cyrcles | 180065 | [180065-cyrcles.json](./180065-cyrcles.json) |
+| Cyrgoth's Manor | 268890 | [268890-cyrgoths-manor.json](./268890-cyrgoths-manor.json) |
+| Cyrgoth's Revenge | 268891 | [268891-cyrgoths-revenge.json](./268891-cyrgoths-revenge.json) |
 | Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
