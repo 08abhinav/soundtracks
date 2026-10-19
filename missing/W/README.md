@@ -5112,6 +5112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Balls | 100590 | [100590-wolf-balls.json](./100590-wolf-balls.json) |
 | Wolf Boot Camp | 232052 | [232052-wolf-boot-camp.json](./232052-wolf-boot-camp.json) |
 | Wolf Bride | 313856 | [313856-wolf-bride.json](./313856-wolf-bride.json) |
+| Wolf Chapel Revisit | 268917 | [268917-wolf-chapel-revisit.json](./268917-wolf-chapel-revisit.json) |
 | Wolf Commando | 414138 | [414138-wolf-commando.json](./414138-wolf-commando.json) |
 | Wolf Gang | 76507 | [76507-wolf-gang.json](./76507-wolf-gang.json) |
 | Wolf Girl With You | 140307 | [140307-wolf-girl-with-you.json](./140307-wolf-girl-with-you.json) |
@@ -5138,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf's Wool | 176936 | [176936-wolfs-wool.json](./176936-wolfs-wool.json) |
 | Wolfan | 53160 | [53160-wolfan.json](./53160-wolfan.json) |
 | Wolfee Planet | 138473 | [138473-wolfee-planet.json](./138473-wolfee-planet.json) |
+| Wolfen | 268908 | [268908-wolfen.json](./268908-wolfen.json) |
 | Wolfenstein 1-D | 336424 | [336424-wolfenstein-1-d.json](./336424-wolfenstein-1-d.json) |
 | Wolfenstein 3D | 262516 | [262516-wolfenstein-3d.json](./262516-wolfenstein-3d.json) |
 | Wolfenstein 3D | 284304 | [284304-wolfenstein-3d.json](./284304-wolfenstein-3d.json) |
@@ -6876,6 +6878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE '12 | 5294 | [5294-wwe-12.json](./5294-wwe-12.json) |
 | WWE '13 | 5295 | [5295-wwe-13.json](./5295-wwe-13.json) |
 | WWE 2K Battlegrounds: Digital Deluxe Edition | 139826 | [139826-wwe-2k-battlegrounds-digital-deluxe-edition.json](./139826-wwe-2k-battlegrounds-digital-deluxe-edition.json) |
+| WWE 2K15: Showcase Season Pass | 268862 | [268862-wwe-2k15-showcase-season-pass.json](./268862-wwe-2k15-showcase-season-pass.json) |
 | WWE 2K16 | 11057 | [11057-wwe-2k16.json](./11057-wwe-2k16.json) |
 | WWE 2K17 | 19516 | [19516-wwe-2k17.json](./19516-wwe-2k17.json) |
 | WWE 2K17: Accelerator | 168353 | [168353-wwe-2k17-accelerator.json](./168353-wwe-2k17-accelerator.json) |
