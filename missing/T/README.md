@@ -2912,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Shift: Flow of Eternity | 316935 | [316935-temporal-shift-flow-of-eternity.json](./316935-temporal-shift-flow-of-eternity.json) |
 | Temporal Sprint | 190439 | [190439-temporal-sprint.json](./190439-temporal-sprint.json) |
 | Temporal Storm X: Hyperspace Dream | 55798 | [55798-temporal-storm-x-hyperspace-dream.json](./55798-temporal-storm-x-hyperspace-dream.json) |
+| Temporal Tantrum | 269447 | [269447-temporal-tantrum.json](./269447-temporal-tantrum.json) |
 | Temporal Temple | 33563 | [33563-temporal-temple.json](./33563-temporal-temple.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
@@ -6232,6 +6233,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dog Island | 4815 | [4815-the-dog-island.json](./4815-the-dog-island.json) |
 | The Dog Quiz | 223149 | [223149-the-dog-quiz.json](./223149-the-dog-quiz.json) |
 | The Dog Run | 114410 | [114410-the-dog-run.json](./114410-the-dog-run.json) |
+| The Dog: Happy Life | 269421 | [269421-the-dog-happy-life.json](./269421-the-dog-happy-life.json) |
+| The Dog: Happy Life McDonald's Ver. | 269422 | [269422-the-dog-happy-life-mcdonalds-ver.json](./269422-the-dog-happy-life-mcdonalds-ver.json) |
 | The Doinksoft Collection | 320001 | [320001-the-doinksoft-collection.json](./320001-the-doinksoft-collection.json) |
 | The Doll | 249816 | [249816-the-doll.json](./249816-the-doll.json) |
 | The Doll Beneath | 192428 | [192428-the-doll-beneath.json](./192428-the-doll-beneath.json) |
@@ -8422,6 +8425,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Creation: Story Mode | 45984 | [45984-the-joy-of-creation-story-mode.json](./45984-the-joy-of-creation-story-mode.json) |
 | The Joy of Farming | 54300 | [54300-the-joy-of-farming.json](./54300-the-joy-of-farming.json) |
 | The Joy of Kaizo with Bob Ross | 268195 | [268195-the-joy-of-kaizo-with-bob-ross.json](./268195-the-joy-of-kaizo-with-bob-ross.json) |
+| The Joy of Mapping 3: Mandatory Joy | 269451 | [269451-the-joy-of-mapping-3-mandatory-joy.json](./269451-the-joy-of-mapping-3-mandatory-joy.json) |
+| The Joy of Mapping 4: Summer School | 269452 | [269452-the-joy-of-mapping-4-summer-school.json](./269452-the-joy-of-mapping-4-summer-school.json) |
+| The Joy of Mapping 5: Winter Weekend | 269453 | [269453-the-joy-of-mapping-5-winter-weekend.json](./269453-the-joy-of-mapping-5-winter-weekend.json) |
+| The Joy of Mapping 6: Joy Eternal | 269454 | [269454-the-joy-of-mapping-6-joy-eternal.json](./269454-the-joy-of-mapping-6-joy-eternal.json) |
 | The Joy of Putting | 386699 | [386699-the-joy-of-putting.json](./386699-the-joy-of-putting.json) |
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
 | The Joycare | 350583 | [350583-the-joycare.json](./350583-the-joycare.json) |
@@ -12465,6 +12472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smiling Man: Remake | 275143 | [275143-the-smiling-man-remake.json](./275143-the-smiling-man-remake.json) |
 | The Smiling, Proud Wanderer 2 | 62442 | [62442-the-smiling-proud-wanderer-2.json](./62442-the-smiling-proud-wanderer-2.json) |
 | The Smoke Room | 136774 | [136774-the-smoke-room.json](./136774-the-smoke-room.json) |
+| The Smoking Dog | 269466 | [269466-the-smoking-dog.json](./269466-the-smoking-dog.json) |
 | The Smugglers | 191187 | [191187-the-smugglers.json](./191187-the-smugglers.json) |
 | The Smurfs | 106272 | [106272-the-smurfs.json](./106272-the-smurfs.json) |
 | The Smurfs | 23482 | [23482-the-smurfs.json](./23482-the-smurfs.json) |
