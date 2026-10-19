@@ -3113,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origament: A Paper Adventure | 346998 | [346998-origament-a-paper-adventure.json](./346998-origament-a-paper-adventure.json) |
 | Origami Angel: Feeling Not Found | 319139 | [319139-origami-angel-feeling-not-found.json](./319139-origami-angel-feeling-not-found.json) |
 | Origami Flight | 112726 | [112726-origami-flight.json](./112726-origami-flight.json) |
+| Origami Lovers | 262826 | [262826-origami-lovers.json](./262826-origami-lovers.json) |
 | Origami Paradise | 227478 | [227478-origami-paradise.json](./227478-origami-paradise.json) |
 | Origami Solutions | 281466 | [281466-origami-solutions.json](./281466-origami-solutions.json) |
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
