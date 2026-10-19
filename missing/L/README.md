@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
 | Learn to Play vol. 11: Drift Moto | 356504 | [356504-learn-to-play-vol-11-drift-moto.json](./356504-learn-to-play-vol-11-drift-moto.json) |
+| Learn to Play Vol. 2: A Simple Shooter | 299494 | [299494-learn-to-play-vol-2-a-simple-shooter.json](./299494-learn-to-play-vol-2-a-simple-shooter.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
 | Learn to Play Vol. 4: Happy Racer | 309634 | [309634-learn-to-play-vol-4-happy-racer.json](./309634-learn-to-play-vol-4-happy-racer.json) |
 | Learn to Play Vol. 5: Break the Blocks | 315916 | [315916-learn-to-play-vol-5-break-the-blocks.json](./315916-learn-to-play-vol-5-break-the-blocks.json) |
