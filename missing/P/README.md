@@ -8356,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
 | Pokémon Run & Bun | 246077 | [246077-pokemon-run-and-bun.json](./246077-pokemon-run-and-bun.json) |
+| Pokémon Rutile Ruby | 288072 | [288072-pokemon-rutile-ruby.json](./288072-pokemon-rutile-ruby.json) |
 | Pokemon Ryen | 323879 | [323879-pokemon-ryen.json](./323879-pokemon-ryen.json) |
 | Pokémon Sacred Gold | 145626 | [145626-pokemon-sacred-gold.json](./145626-pokemon-sacred-gold.json) |
 | Pokèmon Saffron Version | 401292 | [401292-pokemon-saffron-version.json](./401292-pokemon-saffron-version.json) |
@@ -8391,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
 | Pokémon Stadium Fusion | 262412 | [262412-pokemon-stadium-fusion.json](./262412-pokemon-stadium-fusion.json) |
+| Pokémon Star Sapphire | 288074 | [288074-pokemon-star-sapphire.json](./288074-pokemon-star-sapphire.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
@@ -8471,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Abstract Version | 281477 | [281477-pokemon-abstract-version.json](./281477-pokemon-abstract-version.json) |
 | Pokémon: Battle Factory | 339247 | [339247-pokemon-battle-factory.json](./339247-pokemon-battle-factory.json) |
 | Pokémon: Blossom of the Soul | 143023 | [143023-pokemon-blossom-of-the-soul.json](./143023-pokemon-blossom-of-the-soul.json) |
+| Pokémon: Breakdown Blast | 288076 | [288076-pokemon-breakdown-blast.json](./288076-pokemon-breakdown-blast.json) |
 | Pokémon: Burning Lotus | 265218 | [265218-pokemon-burning-lotus.json](./265218-pokemon-burning-lotus.json) |
 | Pokémon: Cave Escape | 342676 | [342676-pokemon-cave-escape.json](./342676-pokemon-cave-escape.json) |
 | Pokémon: Chaotic Flame | 335147 | [335147-pokemon-chaotic-flame.json](./335147-pokemon-chaotic-flame.json) |
@@ -8821,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Fire | 319119 | [319119-poly-fire.json](./319119-poly-fire.json) |
 | Poly Frenzy | 373217 | [373217-poly-frenzy.json](./373217-poly-frenzy.json) |
 | Poly Gangs | 159724 | [159724-poly-gangs.json](./159724-poly-gangs.json) |
+| Poly Impulse | 288073 | [288073-poly-impulse.json](./288073-poly-impulse.json) |
 | Poly Island | 113867 | [113867-poly-island.json](./113867-poly-island.json) |
 | Poly Jigsaw Puzzle | 105780 | [105780-poly-jigsaw-puzzle.json](./105780-poly-jigsaw-puzzle.json) |
 | Poly Jigsaw: Dogs | 248665 | [248665-poly-jigsaw-dogs.json](./248665-poly-jigsaw-dogs.json) |
