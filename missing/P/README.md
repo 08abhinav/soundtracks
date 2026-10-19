@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
+| Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandecrown | 215908 | [215908-pandecrown.json](./215908-pandecrown.json) |
@@ -8748,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polish Community Project | 301971 | [301971-polish-community-project.json](./301971-polish-community-project.json) |
 | Polismos | 285476 | [285476-polismos.json](./285476-polismos.json) |
 | Politaire | 58146 | [58146-politaire.json](./58146-politaire.json) |
+| Politica: Nothing Ideological. It's Just Business | 291313 | [291313-politica-nothing-ideological-its-just-business.json](./291313-politica-nothing-ideological-its-just-business.json) |
 | Political Arena | 180303 | [180303-political-arena.json](./180303-political-arena.json) |
 | Political Duel | 215320 | [215320-political-duel.json](./215320-political-duel.json) |
 | Political Fight Club | 164931 | [164931-political-fight-club.json](./164931-political-fight-club.json) |
