@@ -8291,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docomodake Boing! | 72973 | [72973-docomodake-boing.json](./72973-docomodake-boing.json) |
 | Doctor Arcana and The Secret of Shadowspire | 271076 | [271076-doctor-arcana-and-the-secret-of-shadowspire.json](./271076-doctor-arcana-and-the-secret-of-shadowspire.json) |
 | Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
+| Doctor Cat | 256672 | [256672-doctor-cat.json](./256672-doctor-cat.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Flow | 102888 | [102888-doctor-flow.json](./102888-doctor-flow.json) |
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
