@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoko Redux | 185449 | [185449-yoko-redux.json](./185449-yoko-redux.json) |
 | Yoko Redux: Dreams of a Blue Planet | 191240 | [191240-yoko-redux-dreams-of-a-blue-planet.json](./191240-yoko-redux-dreams-of-a-blue-planet.json) |
 | Yokoi-san Warp | 183022 | [183022-yokoi-san-warp.json](./183022-yokoi-san-warp.json) |
+| Yokojiku de Manabu Sekai no Rekishi: Yoko-Gaku DS | 268901 | [268901-yokojiku-de-manabu-sekai-no-rekishi-yoko-gaku-ds.json](./268901-yokojiku-de-manabu-sekai-no-rekishi-yoko-gaku-ds.json) |
 | Yokoyama Mitsuteru Sangokushi Bangi: Sugoroku Eiyuuki | 37757 | [37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json](./37757-yokoyama-mitsuteru-sangokushi-bangi-sugoroku-eiyuuki.json) |
 | Yokoyama Mitsuteru: Sangokushi | 37759 | [37759-yokoyama-mitsuteru-sangokushi.json](./37759-yokoyama-mitsuteru-sangokushi.json) |
 | Yokozuna Monogatari | 37756 | [37756-yokozuna-monogatari.json](./37756-yokozuna-monogatari.json) |
@@ -1001,6 +1002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouFight | 74921 | [74921-youfight.json](./74921-youfight.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
+| Youjuu Kikou-hei WerDragon | 268900 | [268900-youjuu-kikou-hei-werdragon.json](./268900-youjuu-kikou-hei-werdragon.json) |
 | Youka and Her Summer | 285364 | [285364-youka-and-her-summer.json](./285364-youka-and-her-summer.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
