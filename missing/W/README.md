@@ -6091,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Simulators: Ultimate Edition | 136355 | [136355-world-of-simulators-ultimate-edition.json](./136355-world-of-simulators-ultimate-edition.json) |
 | World of Slavic Glasses | 327363 | [327363-world-of-slavic-glasses.json](./327363-world-of-slavic-glasses.json) |
 | World of Slime | 415114 | [415114-world-of-slime.json](./415114-world-of-slime.json) |
+| World of Smile | 256148 | [256148-world-of-smile.json](./256148-world-of-smile.json) |
 | World of Soccer | 137970 | [137970-world-of-soccer.json](./137970-world-of-soccer.json) |
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
@@ -7068,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WyrmBound | 290721 | [290721-wyrmbound.json](./290721-wyrmbound.json) |
 | Wyrmhall: Brush and Banter | 326221 | [326221-wyrmhall-brush-and-banter.json](./326221-wyrmhall-brush-and-banter.json) |
 | Wyrmhole: The Forbidden Knowledge | 253384 | [253384-wyrmhole-the-forbidden-knowledge.json](./253384-wyrmhole-the-forbidden-knowledge.json) |
+| Wyrmicide: Tombstone Die | 256124 | [256124-wyrmicide-tombstone-die.json](./256124-wyrmicide-tombstone-die.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
 | WyshBound | 337300 | [337300-wyshbound.json](./337300-wyshbound.json) |
