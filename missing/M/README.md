@@ -12981,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherload | 19070 | [19070-motherload.json](./19070-motherload.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
+| Mothership | 273235 | [273235-mothership.json](./273235-mothership.json) |
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Mothership Forever | 235737 | [235737-mothership-forever.json](./235737-mothership-forever.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
@@ -13479,6 +13480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
 | Mozzle | 175414 | [175414-mozzle.json](./175414-mozzle.json) |
+| MP Orbit | 273225 | [273225-mp-orbit.json](./273225-mp-orbit.json) |
+| MP Research Facility | 273224 | [273224-mp-research-facility.json](./273224-mp-research-facility.json) |
 | MP1: Blargg's Fire Rivers | 283631 | [283631-mp1-blarggs-fire-rivers.json](./283631-mp1-blarggs-fire-rivers.json) |
 | MP1: Bowser Circle | 283643 | [283643-mp1-bowser-circle.json](./283643-mp1-bowser-circle.json) |
 | MP1: Bowser's Magma Castle | 283634 | [283634-mp1-bowsers-magma-castle.json](./283634-mp1-bowsers-magma-castle.json) |
