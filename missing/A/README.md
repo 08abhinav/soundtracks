@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
+| Alexandra Ledermann 2: Equitation Competition | 278849 | [278849-alexandra-ledermann-2-equitation-competition.json](./278849-alexandra-ledermann-2-equitation-competition.json) |
 | Alexandra Ledermann 5 : Legacy of the Stud | 381906 | [381906-alexandra-ledermann-5-legacy-of-the-stud.json](./381906-alexandra-ledermann-5-legacy-of-the-stud.json) |
 | Alexandria IV | 221143 | [221143-alexandria-iv.json](./221143-alexandria-iv.json) |
 | AlexCity 1: Bank Heist | 272009 | [272009-alexcity-1-bank-heist.json](./272009-alexcity-1-bank-heist.json) |
@@ -5302,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All-Star Slammin' D-Ball | 43929 | [43929-all-star-slammin-d-ball.json](./43929-all-star-slammin-d-ball.json) |
 | All-Star Supermarket Simulator: Vinyl Vibes | 328573 | [328573-all-star-supermarket-simulator-vinyl-vibes.json](./328573-all-star-supermarket-simulator-vinyl-vibes.json) |
 | All-Star Troopers | 107378 | [107378-all-star-troopers.json](./107378-all-star-troopers.json) |
+| All-Star Watersports | 278852 | [278852-all-star-watersports.json](./278852-all-star-watersports.json) |
 | All‑Stars 4‑Game Collection | 396440 | [396440-all-stars-4-game-collection.json](./396440-all-stars-4-game-collection.json) |
 | Alla Prima | 207315 | [207315-alla-prima.json](./207315-alla-prima.json) |
 | Allakin | 217307 | [217307-allakin.json](./217307-allakin.json) |
@@ -8573,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Pump | 93820 | [93820-aqua-pump.json](./93820-aqua-pump.json) |
 | Aqua Puzzle Adventures | 306527 | [306527-aqua-puzzle-adventures.json](./306527-aqua-puzzle-adventures.json) |
 | Aqua Racer | 293247 | [293247-aqua-racer.json](./293247-aqua-racer.json) |
+| Aqua Romance: Mermaid Otome | 278886 | [278886-aqua-romance-mermaid-otome.json](./278886-aqua-romance-mermaid-otome.json) |
 | Aqua Rush | 66736 | [66736-aqua-rush.json](./66736-aqua-rush.json) |
 | Aqua Slug | 175837 | [175837-aqua-slug.json](./175837-aqua-slug.json) |
 | Aqua Teen Hunger Force Zombie Ninja Pro-Am | 6911 | [6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json](./6911-aqua-teen-hunger-force-zombie-ninja-pro-am.json) |
@@ -9417,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archaeology: Post-Apocalypse | 337973 | [337973-archaeology-post-apocalypse.json](./337973-archaeology-post-apocalypse.json) |
 | Archaeology: Sand Fantasy | 326174 | [326174-archaeology-sand-fantasy.json](./326174-archaeology-sand-fantasy.json) |
 | Archaeology: Sand Japanese | 337974 | [337974-archaeology-sand-japanese.json](./337974-archaeology-sand-japanese.json) |
+| Archaic | 278890 | [278890-archaic.json](./278890-archaic.json) |
 | Archaid | 133211 | [133211-archaid.json](./133211-archaid.json) |
 | Archamon | 76077 | [76077-archamon.json](./76077-archamon.json) |
 | Archangel | 26504 | [26504-archangel.json](./26504-archangel.json) |
