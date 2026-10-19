@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batty Zabella 2 XOXO XMAS | 347084 | [347084-batty-zabella-2-xoxo-xmas.json](./347084-batty-zabella-2-xoxo-xmas.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
+| Baugarten | 274325 | [274325-baugarten.json](./274325-baugarten.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
 | Bauhaus Bonk | 314394 | [314394-bauhaus-bonk.json](./314394-bauhaus-bonk.json) |
 | BaulaQuest | 392231 | [392231-baulaquest.json](./392231-baulaquest.json) |
@@ -5875,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Domain | 6913 | [6913-binary-domain.json](./6913-binary-domain.json) |
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Dungeon | 280085 | [280085-binary-dungeon.json](./280085-binary-dungeon.json) |
+| Binary Escape | 274351 | [274351-binary-escape.json](./274351-binary-escape.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
@@ -7712,6 +7714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker Deluxe 2 | 85718 | [85718-block-breaker-deluxe-2.json](./85718-block-breaker-deluxe-2.json) |
 | Block Breaker Ninja | 158917 | [158917-block-breaker-ninja.json](./158917-block-breaker-ninja.json) |
 | Block Breakerz | 250413 | [250413-block-breakerz.json](./250413-block-breakerz.json) |
+| Block Breakin' Logic Downstacker | 274332 | [274332-block-breakin-logic-downstacker.json](./274332-block-breakin-logic-downstacker.json) |
 | Block Bros. | 240938 | [240938-block-bros.json](./240938-block-bros.json) |
 | Block Builder SP | 222448 | [222448-block-builder-sp.json](./222448-block-builder-sp.json) |
 | Block Buster | 138046 | [138046-block-buster.json](./138046-block-buster.json) |
@@ -8186,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
 | Blood Rot: 1918 | 238639 | [238639-blood-rot-1918.json](./238639-blood-rot-1918.json) |
+| Blood Running | 274370 | [274370-blood-running.json](./274370-blood-running.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Runs Cold | 124614 | [124614-blood-runs-cold.json](./124614-blood-runs-cold.json) |
 | Blood Rush | 264079 | [264079-blood-rush.json](./264079-blood-rush.json) |
@@ -12331,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
+| Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
