@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys of a Gamespace | 330689 | [330689-keys-of-a-gamespace.json](./330689-keys-of-a-gamespace.json) |
 | Keys of Fury | 356993 | [356993-keys-of-fury.json](./356993-keys-of-fury.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
+| Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
 | Keyspace | 321040 | [321040-keyspace.json](./321040-keyspace.json) |
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
 | Keystone Kapers | 198792 | [198792-keystone-kapers.json](./198792-keystone-kapers.json) |
