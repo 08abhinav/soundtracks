@@ -4344,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God's Legacy: Alchemist | 224049 | [224049-gods-legacy-alchemist.json](./224049-gods-legacy-alchemist.json) |
 | God's Miniature Garden | 263136 | [263136-gods-miniature-garden.json](./263136-gods-miniature-garden.json) |
 | God's One Day World | 90582 | [90582-gods-one-day-world.json](./90582-gods-one-day-world.json) |
+| God's Plan | 291867 | [291867-gods-plan.json](./291867-gods-plan.json) |
 | God's Playing Field | 210663 | [210663-gods-playing-field.json](./210663-gods-playing-field.json) |
 | God's Trigger: O.M.G. Edition | 154548 | [154548-gods-trigger-o-m-g-edition.json](./154548-gods-trigger-o-m-g-edition.json) |
 | God(s) | 128433 | [128433-god-s.json](./128433-god-s.json) |
