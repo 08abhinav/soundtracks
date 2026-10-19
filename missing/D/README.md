@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Adventure | 38529 | [38529-dark-adventure.json](./38529-dark-adventure.json) |
 | Dark Aegis | 416790 | [416790-dark-aegis.json](./416790-dark-aegis.json) |
 | Dark Age Empires | 239691 | [239691-dark-age-empires.json](./239691-dark-age-empires.json) |
+| Dark Age Gladiator | 274906 | [274906-dark-age-gladiator.json](./274906-dark-age-gladiator.json) |
 | Dark Age Legends | 244667 | [244667-dark-age-legends.json](./244667-dark-age-legends.json) |
 | Dark Age of Camelot: Catacombs | 20202 | [20202-dark-age-of-camelot-catacombs.json](./20202-dark-age-of-camelot-catacombs.json) |
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
@@ -9071,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Shoot First! | 336575 | [336575-dont-shoot-first.json](./336575-dont-shoot-first.json) |
 | Don't Shoot Rabbit | 113165 | [113165-dont-shoot-rabbit.json](./113165-dont-shoot-rabbit.json) |
 | Don't Shoot the Puppy | 136454 | [136454-dont-shoot-the-puppy.json](./136454-dont-shoot-the-puppy.json) |
+| Don't Shoot Us | 274908 | [274908-dont-shoot-us.json](./274908-dont-shoot-us.json) |
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
 | Don't Shout Together | 276238 | [276238-dont-shout-together.json](./276238-dont-shout-together.json) |
 | Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
@@ -10171,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Challenge | 73798 | [73798-downhill-challenge.json](./73798-downhill-challenge.json) |
 | Downhill Domination | 6340 | [6340-downhill-domination.json](./6340-downhill-domination.json) |
 | Downhill Driver: Extreme Racing Simulator | 283285 | [283285-downhill-driver-extreme-racing-simulator.json](./283285-downhill-driver-extreme-racing-simulator.json) |
+| Downhill Girl | 274918 | [274918-downhill-girl.json](./274918-downhill-girl.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Legend | 211240 | [211240-downhill-legend.json](./211240-downhill-legend.json) |
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
