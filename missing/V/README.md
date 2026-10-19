@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Miner | 385580 | [385580-void-miner.json](./385580-void-miner.json) |
 | Void Miner | 399780 | [399780-void-miner.json](./399780-void-miner.json) |
 | Void Monsters 2: The Blight | 130164 | [130164-void-monsters-2-the-blight.json](./130164-void-monsters-2-the-blight.json) |
+| Void Mother: Survivor | 304423 | [304423-void-mother-survivor.json](./304423-void-mother-survivor.json) |
 | Void Nebula | 394648 | [394648-void-nebula.json](./394648-void-nebula.json) |
 | Void Noir | 411554 | [411554-void-noir.json](./411554-void-noir.json) |
 | Void Nomads | 240777 | [240777-void-nomads.json](./240777-void-nomads.json) |
