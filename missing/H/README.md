@@ -7646,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot and Lovely: Purple | 384884 | [384884-hot-and-lovely-purple.json](./384884-hot-and-lovely-purple.json) |
 | Hot and Lovely: Seduction | 366336 | [366336-hot-and-lovely-seduction.json](./366336-hot-and-lovely-seduction.json) |
 | Hot and Lovely: Seduction Waifu | 384719 | [384719-hot-and-lovely-seduction-waifu.json](./384719-hot-and-lovely-seduction-waifu.json) |
+| Hot and Lovely: Suger | 280657 | [280657-hot-and-lovely-suger.json](./280657-hot-and-lovely-suger.json) |
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
 | Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
@@ -8583,6 +8584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humanity Is Dead | 181302 | [181302-humanity-is-dead.json](./181302-humanity-is-dead.json) |
 | Humanity Lost | 229047 | [229047-humanity-lost.json](./229047-humanity-lost.json) |
 | Humanity Must Perish | 68323 | [68323-humanity-must-perish.json](./68323-humanity-must-perish.json) |
+| Humanity Remains | 280680 | [280680-humanity-remains.json](./280680-humanity-remains.json) |
 | Humanity: First Woman In Space | 153880 | [153880-humanity-first-woman-in-space.json](./153880-humanity-first-woman-in-space.json) |
 | Humanity's Fall | 392296 | [392296-humanitys-fall.json](./392296-humanitys-fall.json) |
 | Humanity's Last Hope | 360657 | [360657-humanitys-last-hope.json](./360657-humanitys-last-hope.json) |
