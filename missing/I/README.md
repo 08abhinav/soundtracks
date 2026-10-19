@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inamorata | 299865 | [299865-inamorata.json](./299865-inamorata.json) |
 | Inanis | 192178 | [192178-inanis.json](./192178-inanis.json) |
 | Inari | 277605 | [277605-inari.json](./277605-inari.json) |
+| Inaro | 263321 | [263321-inaro.json](./263321-inaro.json) |
 | Inauthentic Hummus | 348353 | [348353-inauthentic-hummus.json](./348353-inauthentic-hummus.json) |
 | Inayah: Life after Gods | 317838 | [317838-inayah-life-after-gods.json](./317838-inayah-life-after-gods.json) |
 | Inazuma Eleven 1, 2, 3!! Endou Mamoru Densetsu | 86106 | [86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json](./86106-inazuma-eleven-1-2-3-endou-mamoru-densetsu.json) |
