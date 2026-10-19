@@ -312,6 +312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nangoku Shounen Papuwa-kun | 38389 | [38389-nangoku-shounen-papuwa-kun.json](./38389-nangoku-shounen-papuwa-kun.json) |
 | Nangol | 310064 | [310064-nangol.json](./310064-nangol.json) |
 | Nangong Detective Agency | 360153 | [360153-nangong-detective-agency.json](./360153-nangong-detective-agency.json) |
+| Nani ni Mieru? Shindan | 267231 | [267231-nani-ni-mieru-shindan.json](./267231-nani-ni-mieru-shindan.json) |
 | Nanika Game Online | 342086 | [342086-nanika-game-online.json](./342086-nanika-game-online.json) |
 | Naninights | 34897 | [34897-naninights.json](./34897-naninights.json) |
 | Naniwa Wangan Battle | 143672 | [143672-naniwa-wangan-battle.json](./143672-naniwa-wangan-battle.json) |
@@ -543,7 +544,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto x Boruto: Ultimate Ninja Storm Connection - DLC Pack 3 | 303876 | [303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json](./303876-naruto-x-boruto-ultimate-ninja-storm-connection-dlc-pack-3.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections | 239385 | [239385-naruto-x-boruto-ultimate-ninja-storm-connections.json](./239385-naruto-x-boruto-ultimate-ninja-storm-connections.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Collector's Edition | 270578 | [270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json](./270578-naruto-x-boruto-ultimate-ninja-storm-connections-collectors-edition.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connections - Deluxe Edition | 267239 | [267239-naruto-x-boruto-ultimate-ninja-storm-connections-deluxe-edition.json](./267239-naruto-x-boruto-ultimate-ninja-storm-connections-deluxe-edition.json) |
 | Naruto x Boruto: Ultimate NInja Storm Connections - DLC Pack 5 | 317957 | [317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json](./317957-naruto-x-boruto-ultimate-ninja-storm-connections-dlc-pack-5.json) |
+| Naruto x Boruto: Ultimate Ninja Storm Connections - Sound Ultimate Edition | 267240 | [267240-naruto-x-boruto-ultimate-ninja-storm-connections-sound-ultimate-edition.json](./267240-naruto-x-boruto-ultimate-ninja-storm-connections-sound-ultimate-edition.json) |
 | Naruto x Boruto: Ultimate Ninja Storm Connections - Ultimate Edition | 268549 | [268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json](./268549-naruto-x-boruto-ultimate-ninja-storm-connections-ultimate-edition.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
 | Naruto: Gekitou Ninja Taisen! 3 | 75836 | [75836-naruto-gekitou-ninja-taisen-3.json](./75836-naruto-gekitou-ninja-taisen-3.json) |
