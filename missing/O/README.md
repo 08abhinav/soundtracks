@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Wolfenstein | 179472 | [179472-operation-wolfenstein.json](./179472-operation-wolfenstein.json) |
 | Operation Z.E.R.O.: OutNumbuh'd! | 234540 | [234540-operation-z-e-r-o-outnumbuhd.json](./234540-operation-z-e-r-o-outnumbuhd.json) |
 | Operation Zero | 333014 | [333014-operation-zero.json](./333014-operation-zero.json) |
+| Operation: Air Assault | 281278 | [281278-operation-air-assault.json](./281278-operation-air-assault.json) |
 | Operation: Alpha Zylon | 54265 | [54265-operation-alpha-zylon.json](./54265-operation-alpha-zylon.json) |
 | Operation: Armored Liberty | 49319 | [49319-operation-armored-liberty.json](./49319-operation-armored-liberty.json) |
 | Operation: Biowar | 140944 | [140944-operation-biowar.json](./140944-operation-biowar.json) |
