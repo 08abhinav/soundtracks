@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiis | 104856 | [104856-radiis.json](./104856-radiis.json) |
 | Radikal Bikers | 221942 | [221942-radikal-bikers.json](./221942-radikal-bikers.json) |
 | Radikal Bikers | 287905 | [287905-radikal-bikers.json](./287905-radikal-bikers.json) |
+| Radikal Fighters | 306758 | [306758-radikal-fighters.json](./306758-radikal-fighters.json) |
 | Radio Active | 73787 | [73787-radio-active.json](./73787-radio-active.json) |
 | Radio Cars | 275682 | [275682-radio-cars.json](./275682-radio-cars.json) |
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
