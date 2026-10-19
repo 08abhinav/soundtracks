@@ -20115,6 +20115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town (Working Title) | 131455 | [131455-town-working-title.json](./131455-town-working-title.json) |
 | Town & Country Surf Designs II: Thrilla's Surfari | 48177 | [48177-town-and-country-surf-designs-ii-thrillas-surfari.json](./48177-town-and-country-surf-designs-ii-thrillas-surfari.json) |
 | Town & Country Surf Designs: Wood & Water Rage | 48119 | [48119-town-and-country-surf-designs-wood-and-water-rage.json](./48119-town-and-country-surf-designs-wood-and-water-rage.json) |
+| Town Adventures | 284784 | [284784-town-adventures.json](./284784-town-adventures.json) |
 | Town Defence | 126350 | [126350-town-defence.json](./126350-town-defence.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
 | Town Doubt | 55470 | [55470-town-doubt.json](./55470-town-doubt.json) |
