@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
 | Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
+| Petit Petit Petit: DLC 2 - Specter Pack | 292929 | [292929-petit-petit-petit-dlc-2-specter-pack.json](./292929-petit-petit-petit-dlc-2-specter-pack.json) |
 | Petit Petit Petit: Nightmare Pack | 286214 | [286214-petit-petit-petit-nightmare-pack.json](./286214-petit-petit-petit-nightmare-pack.json) |
 | Petit Petit Petit: Specter Pack | 289331 | [289331-petit-petit-petit-specter-pack.json](./289331-petit-petit-petit-specter-pack.json) |
 | Petit Planet | 370095 | [370095-petit-planet.json](./370095-petit-planet.json) |
@@ -11397,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
+| Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
 | Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
 | Project Bridge | 187432 | [187432-project-bridge.json](./187432-project-bridge.json) |
