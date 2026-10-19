@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ill Ness | 217251 | [217251-ill-ness.json](./217251-ill-ness.json) |
 | Ill Will | 125834 | [125834-ill-will.json](./125834-ill-will.json) |
 | Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
+| Illang | 276637 | [276637-illang.json](./276637-illang.json) |
 | Illarion | 144722 | [144722-illarion.json](./144722-illarion.json) |
 | Illegal Alien Tower Defense | 407907 | [407907-illegal-alien-tower-defense.json](./407907-illegal-alien-tower-defense.json) |
 | Illegal Communication | 199084 | [199084-illegal-communication.json](./199084-illegal-communication.json) |
@@ -1828,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Letter from the Past | 53222 | [53222-immortal-love-letter-from-the-past.json](./53222-immortal-love-letter-from-the-past.json) |
 | Immortal Love: Letter from the Past - Collector's Edition | 88809 | [88809-immortal-love-letter-from-the-past-collectors-edition.json](./88809-immortal-love-letter-from-the-past-collectors-edition.json) |
 | Immortal Love: Polar Lights | 397125 | [397125-immortal-love-polar-lights.json](./397125-immortal-love-polar-lights.json) |
+| Immortal Love: Polar Lights Collector's Edition | 276649 | [276649-immortal-love-polar-lights-collectors-edition.json](./276649-immortal-love-polar-lights-collectors-edition.json) |
 | Immortal Love: Sparkle of Talent | 187956 | [187956-immortal-love-sparkle-of-talent.json](./187956-immortal-love-sparkle-of-talent.json) |
 | Immortal Love: Sparkle of Talent - Collector's Edition | 397126 | [397126-immortal-love-sparkle-of-talent-collectors-edition.json](./397126-immortal-love-sparkle-of-talent-collectors-edition.json) |
 | Immortal Love: Stone Beauty - Collector's Edition | 130156 | [130156-immortal-love-stone-beauty-collectors-edition.json](./130156-immortal-love-stone-beauty-collectors-edition.json) |
@@ -2226,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Time | 380768 | [380768-in-time.json](./380768-in-time.json) |
 | In to the 029 | 207783 | [207783-in-to-the-029.json](./207783-in-to-the-029.json) |
 | In Tran Sit | 184612 | [184612-in-tran-sit.json](./184612-in-tran-sit.json) |
+| In Truck Driving | 276647 | [276647-in-truck-driving.json](./276647-in-truck-driving.json) |
 | In Ukrainian Soil | 241276 | [241276-in-ukrainian-soil.json](./241276-in-ukrainian-soil.json) |
 | In Us | 399437 | [399437-in-us.json](./399437-in-us.json) |
 | In Vein | 181320 | [181320-in-vein.json](./181320-in-vein.json) |
@@ -2238,6 +2241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In-Flight Pac-Man | 205614 | [205614-in-flight-pac-man.json](./205614-in-flight-pac-man.json) |
 | In-Flight Tennis Club | 243755 | [243755-in-flight-tennis-club.json](./243755-in-flight-tennis-club.json) |
 | In-Flight Tetris | 145631 | [145631-in-flight-tetris.json](./145631-in-flight-tetris.json) |
+| In-Sanity | 276648 | [276648-in-sanity.json](./276648-in-sanity.json) |
 | In'ernus | 370263 | [370263-inernus.json](./370263-inernus.json) |
 | Ina Koi! Oinari-sama to Motemote no Tatari | 68120 | [68120-ina-koi-oinari-sama-to-motemote-no-tatari.json](./68120-ina-koi-oinari-sama-to-motemote-no-tatari.json) |
 | Inaccessible World | 86441 | [86441-inaccessible-world.json](./86441-inaccessible-world.json) |
