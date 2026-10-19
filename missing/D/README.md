@@ -11763,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
+| DreaMon World | 285885 | [285885-dreamon-world.json](./285885-dreamon-world.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
@@ -13640,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | During Before and After Covid-19 | 150766 | [150766-during-before-and-after-covid-19.json](./150766-during-before-and-after-covid-19.json) |
 | Durium Hospital Lost Tape 95 | 285403 | [285403-durium-hospital-lost-tape-95.json](./285403-durium-hospital-lost-tape-95.json) |
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
+| DURT | 285855 | [285855-durt.json](./285855-durt.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
 | Dúshlán | 141077 | [141077-dushlan.json](./141077-dushlan.json) |
