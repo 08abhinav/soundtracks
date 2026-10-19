@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
 | Security Booth | 159045 | [159045-security-booth.json](./159045-security-booth.json) |
 | Security Booth: Director's Cut | 205075 | [205075-security-booth-directors-cut.json](./205075-security-booth-directors-cut.json) |
+| Security Control | 278913 | [278913-security-control.json](./278913-security-control.json) |
 | Security Guard | 167565 | [167565-security-guard.json](./167565-security-guard.json) |
 | Security Guard Sex: Episode 1 | 301648 | [301648-security-guard-sex-episode-1.json](./301648-security-guard-sex-episode-1.json) |
 | Security Guard Sex: Episode 2 | 301649 | [301649-security-guard-sex-episode-2.json](./301649-security-guard-sex-episode-2.json) |
@@ -10069,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
+| Slippery Delivery | 278885 | [278885-slippery-delivery.json](./278885-slippery-delivery.json) |
 | Slippery Heights | 280110 | [280110-slippery-heights.json](./280110-slippery-heights.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
@@ -13040,6 +13042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 261243 | [261243-sonic-the-hedgehog.json](./261243-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 264886 | [264886-sonic-the-hedgehog.json](./264886-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 273987 | [273987-sonic-the-hedgehog.json](./273987-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 278887 | [278887-sonic-the-hedgehog.json](./278887-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 299777 | [299777-sonic-the-hedgehog.json](./299777-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 80436 | [80436-sonic-the-hedgehog.json](./80436-sonic-the-hedgehog.json) |
@@ -17564,6 +17567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Crusade CCG | 16469 | [16469-star-crusade-ccg.json](./16469-star-crusade-ccg.json) |
 | Star Crusader | 15566 | [15566-star-crusader.json](./15566-star-crusader.json) |
 | Star Crystal Episode 1: Mertactor - The Volentine Gambit | 25982 | [25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json](./25982-star-crystal-episode-1-mertactor-the-volentine-gambit.json) |
+| Star Crystal Warriors Go! | 278908 | [278908-star-crystal-warriors-go.json](./278908-star-crystal-warriors-go.json) |
 | Star Cycle | 312900 | [312900-star-cycle.json](./312900-star-cycle.json) |
 | Star Daemon | 112309 | [112309-star-daemon.json](./112309-star-daemon.json) |
 | Star Darlings | 360009 | [360009-star-darlings.json](./360009-star-darlings.json) |
@@ -21441,6 +21445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubi Domini | 401043 | [401043-succubi-domini.json](./401043-succubi-domini.json) |
 | SuccuBoss | 367057 | [367057-succuboss.json](./367057-succuboss.json) |
 | Succubus | 114156 | [114156-succubus.json](./114156-succubus.json) |
+| Succubus 2069 | 278897 | [278897-succubus-2069.json](./278897-succubus-2069.json) |
 | Succubus Challenge | 339651 | [339651-succubus-challenge.json](./339651-succubus-challenge.json) |
 | Succubus Connect! | 147388 | [147388-succubus-connect.json](./147388-succubus-connect.json) |
 | Succubus Farm | 151166 | [151166-succubus-farm.json](./151166-succubus-farm.json) |
@@ -24517,6 +24522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super VR Trainer | 31907 | [31907-super-vr-trainer.json](./31907-super-vr-trainer.json) |
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
 | Super Wagyan Land 2 | 38195 | [38195-super-wagyan-land-2.json](./38195-super-wagyan-land-2.json) |
+| Super Waifu Bakery Simulator | 278892 | [278892-super-waifu-bakery-simulator.json](./278892-super-waifu-bakery-simulator.json) |
 | Super Waifu Tsunami | 403083 | [403083-super-waifu-tsunami.json](./403083-super-waifu-tsunami.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
