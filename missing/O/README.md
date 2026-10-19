@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odd Dorable | 341674 | [341674-odd-dorable.json](./341674-odd-dorable.json) |
 | Odd Eye | 297864 | [297864-odd-eye.json](./297864-odd-eye.json) |
 | Odd Guy Meets Odd Farmers | 211933 | [211933-odd-guy-meets-odd-farmers.json](./211933-odd-guy-meets-odd-farmers.json) |
+| Odd Hue Out! | 297310 | [297310-odd-hue-out.json](./297310-odd-hue-out.json) |
 | Odd Infinitum: First Contact | 267274 | [267274-odd-infinitum-first-contact.json](./267274-odd-infinitum-first-contact.json) |
 | Odd Mobs Zero: Arrange | 375587 | [375587-odd-mobs-zero-arrange.json](./375587-odd-mobs-zero-arrange.json) |
 | Odd One | 177481 | [177481-odd-one.json](./177481-odd-one.json) |
