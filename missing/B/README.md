@@ -12638,6 +12638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Boss | 134975 | [134975-bumper-boss.json](./134975-bumper-boss.json) |
 | Bumper Bout | 408105 | [408105-bumper-bout.json](./408105-bumper-bout.json) |
 | Bumper Brawlers | 373078 | [373078-bumper-brawlers.json](./373078-bumper-brawlers.json) |
+| Bumper Kitty | 302249 | [302249-bumper-kitty.json](./302249-bumper-kitty.json) |
 | Bumper Stickers Archipelago Edition | 271950 | [271950-bumper-stickers-archipelago-edition.json](./271950-bumper-stickers-archipelago-edition.json) |
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
