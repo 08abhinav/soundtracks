@@ -2821,6 +2821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Signal: A Stellaris Game | 251560 | [251560-ghost-signal-a-stellaris-game.json](./251560-ghost-signal-a-stellaris-game.json) |
 | Ghost Signal: Fleet Expansion | 251575 | [251575-ghost-signal-fleet-expansion.json](./251575-ghost-signal-fleet-expansion.json) |
 | Ghost Simulator | 258491 | [258491-ghost-simulator.json](./258491-ghost-simulator.json) |
+| Ghost Six | 281243 | [281243-ghost-six.json](./281243-ghost-six.json) |
 | Ghost Soul M | 410205 | [410205-ghost-soul-m.json](./410205-ghost-soul-m.json) |
 | Ghost Squad | 4890 | [4890-ghost-squad.json](./4890-ghost-squad.json) |
 | Ghost Stories | 119035 | [119035-ghost-stories.json](./119035-ghost-stories.json) |
@@ -4772,6 +4773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goldrot | 352250 | [352250-goldrot.json](./352250-goldrot.json) |
 | Goldrush | 314035 | [314035-goldrush.json](./314035-goldrush.json) |
 | Goldspace | 184643 | [184643-goldspace.json](./184643-goldspace.json) |
+| Goldsphere: Completion | 281291 | [281291-goldsphere-completion.json](./281291-goldsphere-completion.json) |
 | GoldStorm Pirates | 326948 | [326948-goldstorm-pirates.json](./326948-goldstorm-pirates.json) |
 | Goldy Pig Adventure | 337061 | [337061-goldy-pig-adventure.json](./337061-goldy-pig-adventure.json) |
 | Golel | 264693 | [264693-golel.json](./264693-golel.json) |
@@ -5808,6 +5810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
 | Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
 | Grand Theft Auto: iFruit | 62701 | [62701-grand-theft-auto-ifruit.json](./62701-grand-theft-auto-ifruit.json) |
+| Grand Theft Auto: Kurdi | 281239 | [281239-grand-theft-auto-kurdi.json](./281239-grand-theft-auto-kurdi.json) |
 | Grand Theft Auto: Liberty City 2001 | 327430 | [327430-grand-theft-auto-liberty-city-2001.json](./327430-grand-theft-auto-liberty-city-2001.json) |
 | Grand Theft Auto: Liberty City Stories | 309110 | [309110-grand-theft-auto-liberty-city-stories.json](./309110-grand-theft-auto-liberty-city-stories.json) |
 | Grand Theft Auto: Liberty City Stories | 3263 | [3263-grand-theft-auto-liberty-city-stories.json](./3263-grand-theft-auto-liberty-city-stories.json) |
