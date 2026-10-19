@@ -3878,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
+| Phantom Dash | 302789 | [302789-phantom-dash.json](./302789-phantom-dash.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
 | Phantom Doctrine: Halloween Scare Tactics | 171081 | [171081-phantom-doctrine-halloween-scare-tactics.json](./171081-phantom-doctrine-halloween-scare-tactics.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Justice for All | 1427 | [1427-phoenix-wright-ace-attorney-justice-for-all.json](./1427-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For All | 221286 | [221286-phoenix-wright-ace-attorney-justice-for-all.json](./221286-phoenix-wright-ace-attorney-justice-for-all.json) |
 | Phoenix Wright: Ace Attorney - Justice For Eternity | 307854 | [307854-phoenix-wright-ace-attorney-justice-for-eternity.json](./307854-phoenix-wright-ace-attorney-justice-for-eternity.json) |
+| Phoenix Wright: Ace Attorney - Legal Panels | 302641 | [302641-phoenix-wright-ace-attorney-legal-panels.json](./302641-phoenix-wright-ace-attorney-legal-panels.json) |
 | Phoenix Wright: Ace Attorney - Project Justice | 310412 | [310412-phoenix-wright-ace-attorney-project-justice.json](./310412-phoenix-wright-ace-attorney-project-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 12077 | [12077-phoenix-wright-ace-attorney-spirit-of-justice.json](./12077-phoenix-wright-ace-attorney-spirit-of-justice.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice | 253014 | [253014-phoenix-wright-ace-attorney-spirit-of-justice.json](./253014-phoenix-wright-ace-attorney-spirit-of-justice.json) |
@@ -4147,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney – Presumption of Guilt | 374129 | [374129-phoenix-wright-ace-attorney-presumption-of-guilt.json](./374129-phoenix-wright-ace-attorney-presumption-of-guilt.json) |
 | Phoenix Wright: Ace Attorney Trilogy | 21610 | [21610-phoenix-wright-ace-attorney-trilogy.json](./21610-phoenix-wright-ace-attorney-trilogy.json) |
 | Phoenix Wright: Ace Attorney Trilogy - E-Capcom Limited Edition | 205266 | [205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json](./205266-phoenix-wright-ace-attorney-trilogy-e-capcom-limited-edition.json) |
+| Phoenix Wright: BEST Attorney | 302642 | [302642-phoenix-wright-best-attorney.json](./302642-phoenix-wright-best-attorney.json) |
 | Phoenix Wright: Comeback & Turnabout | 305194 | [305194-phoenix-wright-comeback-and-turnabout.json](./305194-phoenix-wright-comeback-and-turnabout.json) |
 | Phoenix Wright: Conflict of Interest | 143511 | [143511-phoenix-wright-conflict-of-interest.json](./143511-phoenix-wright-conflict-of-interest.json) |
 | Phoenix Wright: Hidden Traces | 305192 | [305192-phoenix-wright-hidden-traces.json](./305192-phoenix-wright-hidden-traces.json) |
@@ -9001,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponjan Wii | 142692 | [142692-ponjan-wii.json](./142692-ponjan-wii.json) |
 | Ponk's Jam: The Tulip Thief | 258902 | [258902-ponks-jam-the-tulip-thief.json](./258902-ponks-jam-the-tulip-thief.json) |
 | Ponkle | 111218 | [111218-ponkle.json](./111218-ponkle.json) |
+| Ponolf | 302792 | [302792-ponolf.json](./302792-ponolf.json) |
 | Ponon! Deluxe | 263576 | [263576-ponon-deluxe.json](./263576-ponon-deluxe.json) |
 | PonPonTown | 372986 | [372986-ponpontown.json](./372986-ponpontown.json) |
 | Ponpu | 132777 | [132777-ponpu.json](./132777-ponpu.json) |
