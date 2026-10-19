@@ -2045,6 +2045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Sherlock Hooves | 389032 | [389032-barnyard-sherlock-hooves.json](./389032-barnyard-sherlock-hooves.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
+| Baroll | 299491 | [299491-baroll.json](./299491-baroll.json) |
 | Baroll | 351743 | [351743-baroll.json](./351743-baroll.json) |
 | BaroMaro | 304689 | [304689-baromaro.json](./304689-baromaro.json) |
 | Baron | 128441 | [128441-baron.json](./128441-baron.json) |
@@ -2183,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball | 277862 | [277862-baseball.json](./277862-baseball.json) |
 | Baseball | 280876 | [280876-baseball.json](./280876-baseball.json) |
 | Baseball | 297486 | [297486-baseball.json](./297486-baseball.json) |
+| Baseball | 299610 | [299610-baseball.json](./299610-baseball.json) |
 | Baseball | 300004 | [300004-baseball.json](./300004-baseball.json) |
 | Baseball | 305278 | [305278-baseball.json](./305278-baseball.json) |
 | Baseball | 305459 | [305459-baseball.json](./305459-baseball.json) |
@@ -7659,6 +7661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Buster | 138047 | [138047-block-buster.json](./138047-block-buster.json) |
 | Block Buster | 152222 | [152222-block-buster.json](./152222-block-buster.json) |
 | Block Buster | 270766 | [270766-block-buster.json](./270766-block-buster.json) |
+| Block Buster | 299608 | [299608-block-buster.json](./299608-block-buster.json) |
 | Block Buster | 38585 | [38585-block-buster.json](./38585-block-buster.json) |
 | Block Busters: Local Party | 172171 | [172171-block-busters-local-party.json](./172171-block-busters-local-party.json) |
 | Block by Block: Sliding Blocks | 232494 | [232494-block-by-block-sliding-blocks.json](./232494-block-by-block-sliding-blocks.json) |
@@ -8550,6 +8553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
 | Blue Monster: Rainbow Survival | 221339 | [221339-blue-monster-rainbow-survival.json](./221339-blue-monster-rainbow-survival.json) |
 | Blue Moon | 221990 | [221990-blue-moon.json](./221990-blue-moon.json) |
+| Blue Moon Princess | 299495 | [299495-blue-moon-princess.json](./299495-blue-moon-princess.json) |
 | Blue Mushrooms | 277036 | [277036-blue-mushrooms.json](./277036-blue-mushrooms.json) |
 | Blue Nebula | 252119 | [252119-blue-nebula.json](./252119-blue-nebula.json) |
 | Blue Night Laundromat | 322668 | [322668-blue-night-laundromat.json](./322668-blue-night-laundromat.json) |
@@ -8708,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Streets | 197669 | [197669-bmx-streets.json](./197669-bmx-streets.json) |
 | BMX Trials | 13820 | [13820-bmx-trials.json](./13820-bmx-trials.json) |
 | BMX Trick Racer | 49313 | [49313-bmx-trick-racer.json](./49313-bmx-trick-racer.json) |
+| BMX Wild Run | 299506 | [299506-bmx-wild-run.json](./299506-bmx-wild-run.json) |
 | BMX XXX | 3826 | [3826-bmx-xxx.json](./3826-bmx-xxx.json) |
 | BMX: The Game | 138610 | [138610-bmx-the-game.json](./138610-bmx-the-game.json) |
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
@@ -12601,6 +12606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark Evolution: Falconeer Chronicles - Verne Bannerless Pack | 351176 | [351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json](./351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json) |
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
+| Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bum Simulator | 101320 | [101320-bum-simulator.json](./101320-bum-simulator.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
