@@ -8187,6 +8187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who Monster Invasion: Escape the Silence | 263532 | [263532-doctor-who-monster-invasion-escape-the-silence.json](./263532-doctor-who-monster-invasion-escape-the-silence.json) |
 | Doctor Who: An Unlikely Heist | 245024 | [245024-doctor-who-an-unlikely-heist.json](./245024-doctor-who-an-unlikely-heist.json) |
 | Doctor Who: Art Attack | 249279 | [249279-doctor-who-art-attack.json](./249279-doctor-who-art-attack.json) |
+| Doctor Who: Battle of Time | 301692 | [301692-doctor-who-battle-of-time.json](./301692-doctor-who-battle-of-time.json) |
 | Doctor Who: Black Hole | 249293 | [249293-doctor-who-black-hole.json](./249293-doctor-who-black-hole.json) |
 | Doctor Who: Dalek Break-Out | 249447 | [249447-doctor-who-dalek-break-out.json](./249447-doctor-who-dalek-break-out.json) |
 | Doctor Who: Dalek Hack | 239578 | [239578-doctor-who-dalek-hack.json](./239578-doctor-who-dalek-hack.json) |
