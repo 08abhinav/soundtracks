@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Gate | 81335 | [81335-golden-gate.json](./81335-golden-gate.json) |
 | Golden Gate 2: Goddess Heart | 380157 | [380157-golden-gate-2-goddess-heart.json](./380157-golden-gate-2-goddess-heart.json) |
 | Golden Gloves VR | 235191 | [235191-golden-gloves-vr.json](./235191-golden-gloves-vr.json) |
+| Golden Goal '98 | 278872 | [278872-golden-goal-98.json](./278872-golden-goal-98.json) |
 | Golden Goal: Soccer Squad | 297251 | [297251-golden-goal-soccer-squad.json](./297251-golden-goal-soccer-squad.json) |
 | Golden Goblet | 185505 | [185505-golden-goblet.json](./185505-golden-goblet.json) |
 | Golden Hour | 401159 | [401159-golden-hour.json](./401159-golden-hour.json) |
@@ -5899,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
 | Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
+| Granite Casket | 278902 | [278902-granite-casket.json](./278902-granite-casket.json) |
 | Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
 | Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
