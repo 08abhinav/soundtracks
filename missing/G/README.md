@@ -7292,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Cube | 3938 | [3938-gt-cube.json](./3938-gt-cube.json) |
 | GT Drift: Max Race Car | 108221 | [108221-gt-drift-max-race-car.json](./108221-gt-drift-max-race-car.json) |
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
+| GT Manager | 283598 | [283598-gt-manager.json](./283598-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Pro Series | 4899 | [4899-gt-pro-series.json](./4899-gt-pro-series.json) |
 | GT Racers | 300459 | [300459-gt-racers.json](./300459-gt-racers.json) |
