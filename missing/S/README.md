@@ -22696,6 +22696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
+| Super Extra Team Dungeon Game | 287528 | [287528-super-extra-team-dungeon-game.json](./287528-super-extra-team-dungeon-game.json) |
 | Super Falling Fred | 295025 | [295025-super-falling-fred.json](./295025-super-falling-fred.json) |
 | Super Famicom Wars | 38320 | [38320-super-famicom-wars.json](./38320-super-famicom-wars.json) |
 | Super Famicom Wars BS Ban | 150173 | [150173-super-famicom-wars-bs-ban.json](./150173-super-famicom-wars-bs-ban.json) |
