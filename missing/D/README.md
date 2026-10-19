@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delve Survivors | 351789 | [351789-delve-survivors.json](./351789-delve-survivors.json) |
 | Delveborn | 364046 | [364046-delveborn.json](./364046-delveborn.json) |
 | Delven | 250357 | [250357-delven.json](./250357-delven.json) |
+| Delverium | 291342 | [291342-delverium.json](./291342-delverium.json) |
 | Delverun | 416683 | [416683-delverun.json](./416683-delverun.json) |
 | Delving Deep | 226748 | [226748-delving-deep.json](./226748-delving-deep.json) |
 | Delving The Depths | 349994 | [349994-delving-the-depths.json](./349994-delving-the-depths.json) |
@@ -6136,6 +6137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Deluge | 414294 | [414294-dice-deluge.json](./414294-dice-deluge.json) |
 | Dice Delve | 184454 | [184454-dice-delve.json](./184454-dice-delve.json) |
 | Dice Derby | 366418 | [366418-dice-derby.json](./366418-dice-derby.json) |
+| Dice Dice Dice: A Roll Playing Game | 291300 | [291300-dice-dice-dice-a-roll-playing-game.json](./291300-dice-dice-dice-a-roll-playing-game.json) |
 | Dice Fight | 232368 | [232368-dice-fight.json](./232368-dice-fight.json) |
 | Dice Game | 226179 | [226179-dice-game.json](./226179-dice-game.json) |
 | Dice Goblin's Den | 392118 | [392118-dice-goblins-den.json](./392118-dice-goblins-den.json) |
