@@ -1229,6 +1229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: To Date or Not to Date? - The Merry War | 174148 | [174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json](./174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json) |
 | Paper Shakespeare: To Date or Not to Date? 2 | 127208 | [127208-paper-shakespeare-to-date-or-not-to-date-2.json](./127208-paper-shakespeare-to-date-or-not-to-date-2.json) |
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
+| Paper Sky | 280094 | [280094-paper-sky.json](./280094-paper-sky.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
 | Paper Soccer | 366092 | [366092-paper-soccer.json](./366092-paper-soccer.json) |
@@ -1945,6 +1946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Party Time + Character Skin Pack | 251487 | [251487-party-party-time-character-skin-pack.json](./251487-party-party-time-character-skin-pack.json) |
 | Party Party Time + Master Pack Set | 276462 | [276462-party-party-time-master-pack-set.json](./276462-party-party-time-master-pack-set.json) |
 | Party Party Time + Party Harder Pack | 232993 | [232993-party-party-time-party-harder-pack.json](./232993-party-party-time-party-harder-pack.json) |
+| Party Party Time + Royal Pack Set | 280071 | [280071-party-party-time-royal-pack-set.json](./280071-party-party-time-royal-pack-set.json) |
 | Party Party Time + Ultra Pack Set | 260684 | [260684-party-party-time-ultra-pack-set.json](./260684-party-party-time-ultra-pack-set.json) |
 | Party Party Time 2 + Duo Pack Set | 304813 | [304813-party-party-time-2-duo-pack-set.json](./304813-party-party-time-2-duo-pack-set.json) |
 | Party Party Time 2: Lively Party Pack | 374168 | [374168-party-party-time-2-lively-party-pack.json](./374168-party-party-time-2-lively-party-pack.json) |
@@ -3206,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Castle | 286052 | [286052-perfect-castle.json](./286052-perfect-castle.json) |
 | Perfect Cell | 137412 | [137412-perfect-cell.json](./137412-perfect-cell.json) |
 | Perfect Cells Project | 278388 | [278388-perfect-cells-project.json](./278388-perfect-cells-project.json) |
+| Perfect Chess | 280098 | [280098-perfect-chess.json](./280098-perfect-chess.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
 | Perfect Color | 368268 | [368268-perfect-color.json](./368268-perfect-color.json) |
@@ -6490,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixZomb | 334808 | [334808-pixzomb.json](./334808-pixzomb.json) |
 | Piyo Blocks 2 | 175413 | [175413-piyo-blocks-2.json](./175413-piyo-blocks-2.json) |
 | Piyo Puzz: Piyokoro x Puzzle | 328493 | [328493-piyo-puzz-piyokoro-x-puzzle.json](./328493-piyo-puzz-piyokoro-x-puzzle.json) |
+| Piyokoro | 280072 | [280072-piyokoro.json](./280072-piyokoro.json) |
 | Piyopoyon | 394481 | [394481-piyopoyon.json](./394481-piyopoyon.json) |
 | Pizz'Amore | 304233 | [304233-pizzamore.json](./304233-pizzamore.json) |
 | Pizza Apocalypse | 169748 | [169748-pizza-apocalypse.json](./169748-pizza-apocalypse.json) |
