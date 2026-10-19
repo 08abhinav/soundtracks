@@ -5208,6 +5208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the City VR | 29665 | [29665-beyond-the-city-vr.json](./29665-beyond-the-city-vr.json) |
 | Beyond The Cupola: ISS Simulator | 389510 | [389510-beyond-the-cupola-iss-simulator.json](./389510-beyond-the-cupola-iss-simulator.json) |
 | Beyond the Curtain | 392280 | [392280-beyond-the-curtain.json](./392280-beyond-the-curtain.json) |
+| Beyond the Curtains | 279460 | [279460-beyond-the-curtains.json](./279460-beyond-the-curtains.json) |
 | Beyond the Dark Nightwatch | 403828 | [403828-beyond-the-dark-nightwatch.json](./403828-beyond-the-dark-nightwatch.json) |
 | Beyond the Deep | 225259 | [225259-beyond-the-deep.json](./225259-beyond-the-deep.json) |
 | Beyond the Diorama: Caribou World | 163810 | [163810-beyond-the-diorama-caribou-world.json](./163810-beyond-the-diorama-caribou-world.json) |
@@ -8368,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
 | Bloody Human Freeway | 40610 | [40610-bloody-human-freeway.json](./40610-bloody-human-freeway.json) |
+| Bloody Knuckles Street Boxing | 279505 | [279505-bloody-knuckles-street-boxing.json](./279505-bloody-knuckles-street-boxing.json) |
 | Bloody Layne | 174794 | [174794-bloody-layne.json](./174794-bloody-layne.json) |
 | Bloody Legless | 177778 | [177778-bloody-legless.json](./177778-bloody-legless.json) |
 | Bloody Mary | 112820 | [112820-bloody-mary.json](./112820-bloody-mary.json) |
@@ -12158,6 +12160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Woods | 116447 | [116447-bubble-woods.json](./116447-bubble-woods.json) |
 | Bubble World | 127890 | [127890-bubble-world.json](./127890-bubble-world.json) |
 | Bubble World | 195031 | [195031-bubble-world.json](./195031-bubble-world.json) |
+| Bubble Wrap | 279501 | [279501-bubble-wrap.json](./279501-bubble-wrap.json) |
 | Bubble Wrap DS | 215382 | [215382-bubble-wrap-ds.json](./215382-bubble-wrap-ds.json) |
 | Bubble Wrap Frenzy | 233236 | [233236-bubble-wrap-frenzy.json](./233236-bubble-wrap-frenzy.json) |
 | Bubble Xmas | 57663 | [57663-bubble-xmas.json](./57663-bubble-xmas.json) |
