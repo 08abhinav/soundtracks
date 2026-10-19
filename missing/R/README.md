@@ -9181,6 +9181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Crazy | 271910 | [271910-running-crazy.json](./271910-running-crazy.json) |
 | Running Education | 148459 | [148459-running-education.json](./148459-running-education.json) |
 | Running Fox | 267061 | [267061-running-fox.json](./267061-running-fox.json) |
+| Running Fred | 294531 | [294531-running-fred.json](./294531-running-fred.json) |
 | Running Gods | 32231 | [32231-running-gods.json](./32231-running-gods.json) |
 | Running High | 43769 | [43769-running-high.json](./43769-running-high.json) |
 | Running in the Y2K | 200506 | [200506-running-in-the-y2k.json](./200506-running-in-the-y2k.json) |
