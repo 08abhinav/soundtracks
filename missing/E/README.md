@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction Day | 325552 | [325552-extinction-day.json](./325552-extinction-day.json) |
 | Extinction Eclipse | 201687 | [201687-extinction-eclipse.json](./201687-extinction-eclipse.json) |
 | Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
+| Extinction Rifts | 296724 | [296724-extinction-rifts.json](./296724-extinction-rifts.json) |
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
 | Extinction: Alien Invasion | 116086 | [116086-extinction-alien-invasion.json](./116086-extinction-alien-invasion.json) |
 | Extinction: Deluxe Edition | 85473 | [85473-extinction-deluxe-edition.json](./85473-extinction-deluxe-edition.json) |
