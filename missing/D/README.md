@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Creatures | 117532 | [117532-disc-creatures.json](./117532-disc-creatures.json) |
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
+| Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf 3D | 89808 | [89808-disc-golf-3d.json](./89808-disc-golf-3d.json) |
 | Disc Golf Adventure 2 VR | 148481 | [148481-disc-golf-adventure-2-vr.json](./148481-disc-golf-adventure-2-vr.json) |
 | Disc Golf City | 350805 | [350805-disc-golf-city.json](./350805-disc-golf-city.json) |
@@ -11705,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
 | Dreamland Solitaire: Dark Prophecy | 138478 | [138478-dreamland-solitaire-dark-prophecy.json](./138478-dreamland-solitaire-dark-prophecy.json) |
 | Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
+| Dreamland: Chapter 2 | 296722 | [296722-dreamland-chapter-2.json](./296722-dreamland-chapter-2.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
 | Dreamlander | 147805 | [147805-dreamlander.json](./147805-dreamlander.json) |
 | Dreamlands: Cotton Candy Hunt | 190441 | [190441-dreamlands-cotton-candy-hunt.json](./190441-dreamlands-cotton-candy-hunt.json) |
@@ -11977,6 +11979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DRiiFT Mania | 51117 | [51117-driift-mania.json](./51117-driift-mania.json) |
 | Drill and Collect | 249681 | [249681-drill-and-collect.json](./249681-drill-and-collect.json) |
 | Drill and Delve | 382231 | [382231-drill-and-delve.json](./382231-drill-and-delve.json) |
+| Drill and Dig! | 296817 | [296817-drill-and-dig.json](./296817-drill-and-dig.json) |
 | Drill Arena | 86549 | [86549-drill-arena.json](./86549-drill-arena.json) |
 | Drill Core: The Machine World | 399016 | [399016-drill-core-the-machine-world.json](./399016-drill-core-the-machine-world.json) |
 | Drill Dash | 211905 | [211905-drill-dash.json](./211905-drill-dash.json) |
