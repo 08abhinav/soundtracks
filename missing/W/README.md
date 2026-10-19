@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Angel | 9388 | [9388-wasteland-angel.json](./9388-wasteland-angel.json) |
 | Wasteland Billionaire | 221391 | [221391-wasteland-billionaire.json](./221391-wasteland-billionaire.json) |
 | Wasteland Chronicles | 316648 | [316648-wasteland-chronicles.json](./316648-wasteland-chronicles.json) |
+| Wasteland Elysium | 262814 | [262814-wasteland-elysium.json](./262814-wasteland-elysium.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
 | Wasteland Kings | 53054 | [53054-wasteland-kings.json](./53054-wasteland-kings.json) |
@@ -4639,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wishbone: Activity Zone | 219142 | [219142-wishbone-activity-zone.json](./219142-wishbone-activity-zone.json) |
 | Wishbound Desires | 272884 | [272884-wishbound-desires.json](./272884-wishbound-desires.json) |
 | Wishbringer | 1950 | [1950-wishbringer.json](./1950-wishbringer.json) |
+| Wished on guilt | 262828 | [262828-wished-on-guilt.json](./262828-wished-on-guilt.json) |
 | Wishes In Pen: Chrysanthemums in August - Otome Visual Novel | 107892 | [107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json](./107892-wishes-in-pen-chrysanthemums-in-august-otome-visual-novel.json) |
 | Wishful Journey: Love Across Time | 291185 | [291185-wishful-journey-love-across-time.json](./291185-wishful-journey-love-across-time.json) |
 | Wishful Thinking | 229678 | [229678-wishful-thinking.json](./229678-wishful-thinking.json) |
