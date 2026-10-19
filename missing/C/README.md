@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
 | Castle Crashers: Pink Knight Pack | 170864 | [170864-castle-crashers-pink-knight-pack.json](./170864-castle-crashers-pink-knight-pack.json) |
+| Castle Crashing the Beard | 278319 | [278319-castle-crashing-the-beard.json](./278319-castle-crashing-the-beard.json) |
 | Castle Creeps Battle | 105908 | [105908-castle-creeps-battle.json](./105908-castle-creeps-battle.json) |
 | Castle Creeps TD | 106963 | [106963-castle-creeps-td.json](./106963-castle-creeps-td.json) |
 | Castle Crisis | 40782 | [40782-castle-crisis.json](./40782-castle-crisis.json) |
@@ -7342,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
 | Clearance Sale | 248794 | [248794-clearance-sale.json](./248794-clearance-sale.json) |
+| Clearence Sale | 278315 | [278315-clearence-sale.json](./278315-clearence-sale.json) |
 | Clearing Blade | 326248 | [326248-clearing-blade.json](./326248-clearing-blade.json) |
 | ClearIt | 95660 | [95660-clearit.json](./95660-clearit.json) |
 | ClearIt2 | 96320 | [96320-clearit2.json](./96320-clearit2.json) |
@@ -11188,6 +11190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Costume Curse | 326218 | [326218-costume-curse.json](./326218-costume-curse.json) |
+| Costume Fighter | 278275 | [278275-costume-fighter.json](./278275-costume-fighter.json) |
 | Costume Kingdom | 139696 | [139696-costume-kingdom.json](./139696-costume-kingdom.json) |
 | Costume Party | 189968 | [189968-costume-party.json](./189968-costume-party.json) |
 | Cosy Cafe | 383648 | [383648-cosy-cafe.json](./383648-cosy-cafe.json) |
@@ -14502,6 +14505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Digicam | 327543 | [327543-cursed-digicam.json](./327543-cursed-digicam.json) |
 | Cursed Digilens | 347481 | [347481-cursed-digilens.json](./347481-cursed-digilens.json) |
 | Cursed Dungeon | 190017 | [190017-cursed-dungeon.json](./190017-cursed-dungeon.json) |
+| Cursed Enigma: Priest and Prayers | 278276 | [278276-cursed-enigma-priest-and-prayers.json](./278276-cursed-enigma-priest-and-prayers.json) |
 | Cursed Fables: A Gilded Rose - Collector's Edition | 338782 | [338782-cursed-fables-a-gilded-rose-collectors-edition.json](./338782-cursed-fables-a-gilded-rose-collectors-edition.json) |
 | Cursed Fables: A Voice to Die For - Collector's Edition | 260422 | [260422-cursed-fables-a-voice-to-die-for-collectors-edition.json](./260422-cursed-fables-a-voice-to-die-for-collectors-edition.json) |
 | Cursed Fables: Before the Clock Strikes | 318568 | [318568-cursed-fables-before-the-clock-strikes.json](./318568-cursed-fables-before-the-clock-strikes.json) |
@@ -15143,6 +15147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberush | 154352 | [154352-cyberush.json](./154352-cyberush.json) |
 | CyberVerse | 280898 | [280898-cyberverse.json](./280898-cyberverse.json) |
 | CyberVerse | 345103 | [345103-cyberverse.json](./345103-cyberverse.json) |
+| CyberVerse Showdown | 278272 | [278272-cyberverse-showdown.json](./278272-cyberverse-showdown.json) |
 | CyberVirus | 153842 | [153842-cybervirus.json](./153842-cybervirus.json) |
 | Cybervoid | 339999 | [339999-cybervoid.json](./339999-cybervoid.json) |
 | CyberWaifu | 169341 | [169341-cyberwaifu.json](./169341-cyberwaifu.json) |
