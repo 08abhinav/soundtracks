@@ -6567,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Linkz | 58622 | [58622-digimon-linkz.json](./58622-digimon-linkz.json) |
 | Digimon Masters Online | 25791 | [25791-digimon-masters-online.json](./25791-digimon-masters-online.json) |
 | Digimon New Century | 174707 | [174707-digimon-new-century.json](./174707-digimon-new-century.json) |
+| Digimon Pendulum Ver.20th | 276079 | [276079-digimon-pendulum-ver-20th.json](./276079-digimon-pendulum-ver-20th.json) |
 | Digimon Pocket | 247403 | [247403-digimon-pocket.json](./247403-digimon-pocket.json) |
 | Digimon Story Cyber Sleuth: Complete Edition | 120551 | [120551-digimon-story-cyber-sleuth-complete-edition.json](./120551-digimon-story-cyber-sleuth-complete-edition.json) |
 | Digimon Story Time Stranger: A Hero's Eternal Legacy | 416127 | [416127-digimon-story-time-stranger-a-heros-eternal-legacy.json](./416127-digimon-story-time-stranger-a-heros-eternal-legacy.json) |
@@ -14069,6 +14070,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysarmia | 304896 | [304896-dysarmia.json](./304896-dysarmia.json) |
 | Dyschronia: Chronos Alternate - Definitive Edition | 273326 | [273326-dyschronia-chronos-alternate-definitive-edition.json](./273326-dyschronia-chronos-alternate-definitive-edition.json) |
 | Dyschronia: Chronos Alternate - Dual Edition | 273637 | [273637-dyschronia-chronos-alternate-dual-edition.json](./273637-dyschronia-chronos-alternate-dual-edition.json) |
+| Dyschronia: Chronos Alternate - Episode I: False Awakening | 276036 | [276036-dyschronia-chronos-alternate-episode-i-false-awakening.json](./276036-dyschronia-chronos-alternate-episode-i-false-awakening.json) |
+| Dyschronia: Chronos Alternate - Episode II: The Eleventh Hour | 276037 | [276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json](./276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
 | Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
