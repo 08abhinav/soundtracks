@@ -4273,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cells | 28110 | [28110-little-cells.json](./28110-little-cells.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
 | Little Chef: Cozy Cooking | 361873 | [361873-little-chef-cozy-cooking.json](./361873-little-chef-cozy-cooking.json) |
+| Little Chefs: Co-op | 277751 | [277751-little-chefs-co-op.json](./277751-little-chefs-co-op.json) |
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
 | Little Chick | 157165 | [157165-little-chick.json](./157165-little-chick.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
@@ -7237,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
+| Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
