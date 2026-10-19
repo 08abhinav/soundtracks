@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It: Unstoppable | 364059 | [364059-it-unstoppable.json](./364059-it-unstoppable.json) |
 | It's a Beautiful Day | 177526 | [177526-its-a-beautiful-day.json](./177526-its-a-beautiful-day.json) |
 | It's a Block-Pushing Game | 290354 | [290354-its-a-block-pushing-game.json](./290354-its-a-block-pushing-game.json) |
+| It's a Dog's Love | 299031 | [299031-its-a-dogs-love.json](./299031-its-a-dogs-love.json) |
 | It's A Farmer Thing | 321844 | [321844-its-a-farmer-thing.json](./321844-its-a-farmer-thing.json) |
 | It's a Funny Old Game | 73790 | [73790-its-a-funny-old-game.json](./73790-its-a-funny-old-game.json) |
 | It’s A Game Changer | 336637 | [336637-it-s-a-game-changer.json](./336637-it-s-a-game-changer.json) |
