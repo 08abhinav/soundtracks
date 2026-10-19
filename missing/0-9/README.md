@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | >Start ai | 366670 | [366670-start-ai.json](./366670-start-ai.json) |
 | \|\|[}}}°.•°.°•..°•°[\|\|\|{{{ | 141830 | [141830-.json](./141830-.json) |
 | ~necromancy~Emily's Escape | 113280 | [113280-necromancy-emilys-escape.json](./113280-necromancy-emilys-escape.json) |
+| △ to X no Nazotoki | 267246 | [267246-to-x-no-nazotoki.json](./267246-to-x-no-nazotoki.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
 | 0 Day Attack on Earth | 6172 | [6172-0-day-attack-on-earth.json](./6172-0-day-attack-on-earth.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-103: Null Kelvin | 176835 | [176835-10-103-null-kelvin.json](./176835-10-103-null-kelvin.json) |
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-in-1 Christmas Collection | 325891 | [325891-10-in-1-christmas-collection.json](./325891-10-in-1-christmas-collection.json) |
+| 10-Lignes 4en1 by retropoke | 267215 | [267215-10-lignes-4en1-by-retropoke.json](./267215-10-lignes-4en1-by-retropoke.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
 | 10-Second Ghost | 314855 | [314855-10-second-ghost.json](./314855-10-second-ghost.json) |
@@ -2091,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Star Rio Resort | 38959 | [38959-5-star-rio-resort.json](./38959-5-star-rio-resort.json) |
 | 5 Years | 274126 | [274126-5-years.json](./274126-5-years.json) |
 | 5-Game Super Pak | 79754 | [79754-5-game-super-pak.json](./79754-5-game-super-pak.json) |
+| 5-in-1 Best Multiplayer & Couch Co-op Bundle | 267243 | [267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json](./267243-5-in-1-best-multiplayer-and-couch-co-op-bundle.json) |
 | 5-in-1 Bundle Brain Trainings | 84133 | [84133-5-in-1-bundle-brain-trainings.json](./84133-5-in-1-bundle-brain-trainings.json) |
 | 5-in-1 Fami Collection: NES Collection Nr 1 | 37644 | [37644-5-in-1-fami-collection-nes-collection-nr-1.json](./37644-5-in-1-fami-collection-nes-collection-nr-1.json) |
 | 5-kyuu kara 1-kyuu Kanzen Taiou Saishin Kako Mondai: Nijishiken Taisaku - Eiken Kanzenban | 269536 | [269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json](./269536-5-kyuu-kara-1-kyuu-kanzen-taiou-saishin-kako-mondai-nijishiken-taisaku-eiken-kanzenban.json) |
@@ -2455,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8minSurvival | 304669 | [304669-8minsurvival.json](./304669-8minsurvival.json) |
 | 8th Avenue | 333576 | [333576-8th-avenue.json](./333576-8th-avenue.json) |
 | 8th Baspis | 308925 | [308925-8th-baspis.json](./308925-8th-baspis.json) |
+| 8th Heaven | 267262 | [267262-8th-heaven.json](./267262-8th-heaven.json) |
 | 8th Millenium: War Against The Pagan Gods | 300961 | [300961-8th-millenium-war-against-the-pagan-gods.json](./300961-8th-millenium-war-against-the-pagan-gods.json) |
 | 8th Millennium: War Against the Pagan Gods | 315229 | [315229-8th-millennium-war-against-the-pagan-gods.json](./315229-8th-millennium-war-against-the-pagan-gods.json) |
 | 9 Ball Shootout | 39846 | [39846-9-ball-shootout.json](./39846-9-ball-shootout.json) |
