@@ -4712,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
+| Sexy Breakout | 284240 | [284240-sexy-breakout.json](./284240-sexy-breakout.json) |
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
 | Sexy Comedy: It Was a Mistake | 110529 | [110529-sexy-comedy-it-was-a-mistake.json](./110529-sexy-comedy-it-was-a-mistake.json) |
 | Sexy Cyberpunk Puzzle | 244881 | [244881-sexy-cyberpunk-puzzle.json](./244881-sexy-cyberpunk-puzzle.json) |
@@ -15030,6 +15031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Of Nature | 291471 | [291471-spark-of-nature.json](./291471-spark-of-nature.json) |
 | Spark of Survival | 280251 | [280251-spark-of-survival.json](./280251-spark-of-survival.json) |
 | Spark Protocol | 413036 | [413036-spark-protocol.json](./413036-spark-protocol.json) |
+| Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
 | Spark the Electric Jester | 28134 | [28134-spark-the-electric-jester.json](./28134-spark-the-electric-jester.json) |
 | Spark the Electric Jester 3 | 153620 | [153620-spark-the-electric-jester-3.json](./153620-spark-the-electric-jester-3.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
@@ -17575,6 +17577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fisher | 181064 | [181064-star-fisher.json](./181064-star-fisher.json) |
 | Star Flashback Blast! | 304288 | [304288-star-flashback-blast.json](./304288-star-flashback-blast.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
+| Star Force | 284222 | [284222-star-force.json](./284222-star-force.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
