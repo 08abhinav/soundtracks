@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
 | Imouto Paradise! 3 | 404219 | [404219-imouto-paradise-3.json](./404219-imouto-paradise-3.json) |
+| Imouto Scramble | 299502 | [299502-imouto-scramble.json](./299502-imouto-scramble.json) |
 | Imp Adventure | 385415 | [385415-imp-adventure.json](./385415-imp-adventure.json) |
 | Imp and Cubes | 246462 | [246462-imp-and-cubes.json](./246462-imp-and-cubes.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
