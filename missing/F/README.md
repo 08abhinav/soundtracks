@@ -7365,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
 | Formula Drag Manager | 221708 | [221708-formula-drag-manager.json](./221708-formula-drag-manager.json) |
 | Formula Evolution 2025 | 385978 | [385978-formula-evolution-2025.json](./385978-formula-evolution-2025.json) |
+| Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
@@ -9912,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Bounce | 261879 | [261879-furious-bounce.json](./261879-furious-bounce.json) |
 | Furious Driving | 87159 | [87159-furious-driving.json](./87159-furious-driving.json) |
 | Furious Farm: Total Reap Out | 245030 | [245030-furious-farm-total-reap-out.json](./245030-furious-farm-total-reap-out.json) |
+| Furious Fish | 307392 | [307392-furious-fish.json](./307392-furious-fish.json) |
 | Furious Flappers | 294249 | [294249-furious-flappers.json](./294249-furious-flappers.json) |
 | Furious Goal | 123529 | [123529-furious-goal.json](./123529-furious-goal.json) |
 | Furious Golf | 180768 | [180768-furious-golf.json](./180768-furious-golf.json) |
