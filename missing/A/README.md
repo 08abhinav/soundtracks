@@ -211,6 +211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Different World | 184355 | [184355-a-different-world.json](./184355-a-different-world.json) |
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
+| A Difficult Game About Jumping | 298380 | [298380-a-difficult-game-about-jumping.json](./298380-a-difficult-game-about-jumping.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Difficult Game About Wheelchair | 348007 | [348007-a-difficult-game-about-wheelchair.json](./348007-a-difficult-game-about-wheelchair.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
@@ -7337,6 +7338,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girl Puzzles: Akari | 297770 | [297770-anime-girl-puzzles-akari.json](./297770-anime-girl-puzzles-akari.json) |
 | Anime Girl Puzzles: Honomi | 303151 | [303151-anime-girl-puzzles-honomi.json](./303151-anime-girl-puzzles-honomi.json) |
 | Anime Girl Puzzles: Kohana | 298708 | [298708-anime-girl-puzzles-kohana.json](./298708-anime-girl-puzzles-kohana.json) |
+| Anime Girl Puzzles: Misuzu | 298378 | [298378-anime-girl-puzzles-misuzu.json](./298378-anime-girl-puzzles-misuzu.json) |
+| Anime Girl Puzzles: Rin | 298379 | [298379-anime-girl-puzzles-rin.json](./298379-anime-girl-puzzles-rin.json) |
 | Anime Girl Puzzles: Sana | 303152 | [303152-anime-girl-puzzles-sana.json](./303152-anime-girl-puzzles-sana.json) |
 | Anime Girl Puzzles: Suki | 303153 | [303153-anime-girl-puzzles-suki.json](./303153-anime-girl-puzzles-suki.json) |
 | Anime Girl Puzzles: Wakana | 297773 | [297773-anime-girl-puzzles-wakana.json](./297773-anime-girl-puzzles-wakana.json) |
@@ -7640,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
+| Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
@@ -8040,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
 | Any Landing | 174621 | [174621-any-landing.json](./174621-any-landing.json) |
 | Any Other Color | 408133 | [408133-any-other-color.json](./408133-any-other-color.json) |
+| Any Way Out | 298447 | [298447-any-way-out.json](./298447-any-way-out.json) |
 | Any World | 192794 | [192794-any-world.json](./192794-any-world.json) |
 | Any.One Online | 209772 | [209772-any-one-online.json](./209772-any-one-online.json) |
 | AnyCircuit | 385289 | [385289-anycircuit.json](./385289-anycircuit.json) |
@@ -8559,6 +8564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaria | 7406 | [7406-aquaria.json](./7406-aquaria.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
+| Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
