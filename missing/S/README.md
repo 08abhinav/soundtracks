@@ -5693,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
 | She's Got a Thing for a Spring | 217773 | [217773-shes-got-a-thing-for-a-spring.json](./217773-shes-got-a-thing-for-a-spring.json) |
 | She's Leaving | 342811 | [342811-shes-leaving.json](./342811-shes-leaving.json) |
+| She's My Destined Fiancee?! | 277723 | [277723-shes-my-destined-fiancee.json](./277723-shes-my-destined-fiancee.json) |
 | She's My Vampire | 205816 | [205816-shes-my-vampire.json](./205816-shes-my-vampire.json) |
 | She's Outta This World | 179487 | [179487-shes-outta-this-world.json](./179487-shes-outta-this-world.json) |
 | She's Still Alive | 375613 | [375613-shes-still-alive.json](./375613-shes-still-alive.json) |
@@ -10028,6 +10029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Junior | 261800 | [261800-sling-junior.json](./261800-sling-junior.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
+| Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
 | Slingbox | 371995 | [371995-slingbox.json](./371995-slingbox.json) |
 | Slinger | 255955 | [255955-slinger.json](./255955-slinger.json) |
 | Slinger VR | 29098 | [29098-slinger-vr.json](./29098-slinger-vr.json) |
@@ -17450,6 +17452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stanley: Wild for Sharks! | 70964 | [70964-stanley-wild-for-sharks.json](./70964-stanley-wild-for-sharks.json) |
 | Stapel | 192987 | [192987-stapel.json](./192987-stapel.json) |
 | Staplers! 4 | 67924 | [67924-staplers-4.json](./67924-staplers-4.json) |
+| Star | 277712 | [277712-star.json](./277712-star.json) |
 | Star Academy: Breakthrough! | 360898 | [360898-star-academy-breakthrough.json](./360898-star-academy-breakthrough.json) |
 | Star Academy: Showtime! | 327859 | [327859-star-academy-showtime.json](./327859-star-academy-showtime.json) |
 | Star Aegis | 155996 | [155996-star-aegis.json](./155996-star-aegis.json) |
@@ -21572,6 +21575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Casual Puzzle | 219280 | [219280-sudoku-casual-puzzle.json](./219280-sudoku-casual-puzzle.json) |
 | Sudoku Cats | 405615 | [405615-sudoku-cats.json](./405615-sudoku-cats.json) |
 | Sudoku Challenge! | 50698 | [50698-sudoku-challenge.json](./50698-sudoku-challenge.json) |
+| Sudoku Classic | 277713 | [277713-sudoku-classic.json](./277713-sudoku-classic.json) |
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
@@ -25223,6 +25227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Uprising | 224669 | [224669-survive-the-uprising.json](./224669-survive-the-uprising.json) |
 | Survive Till 100 Years Old | 339117 | [339117-survive-till-100-years-old.json](./339117-survive-till-100-years-old.json) |
 | Survive Till Morning | 223028 | [223028-survive-till-morning.json](./223028-survive-till-morning.json) |
+| Survive to Live! | 277730 | [277730-survive-to-live.json](./277730-survive-to-live.json) |
 | Survive Together | 126438 | [126438-survive-together.json](./126438-survive-together.json) |
 | Survive: Battle Royale | 135817 | [135817-survive-battle-royale.json](./135817-survive-battle-royale.json) |
 | Survive: Forgotten and Abandoned | 270185 | [270185-survive-forgotten-and-abandoned.json](./270185-survive-forgotten-and-abandoned.json) |
@@ -25713,6 +25718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
 | Sweet Home Puzzle | 156047 | [156047-sweet-home-puzzle.json](./156047-sweet-home-puzzle.json) |
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
+| Sweet Home: Look and Find - Collector's Edition | 277737 | [277737-sweet-home-look-and-find-collectors-edition.json](./277737-sweet-home-look-and-find-collectors-edition.json) |
 | Sweet Home: Look and Find 4 - Collector's Edition | 338043 | [338043-sweet-home-look-and-find-4-collectors-edition.json](./338043-sweet-home-look-and-find-4-collectors-edition.json) |
 | Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
