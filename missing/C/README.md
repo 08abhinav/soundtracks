@@ -249,6 +249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
+| Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
@@ -3845,6 +3846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellofania | 279580 | [279580-cellofania.json](./279580-cellofania.json) |
 | Cellosseum | 264228 | [264228-cellosseum.json](./264228-cellosseum.json) |
 | Cells | 331385 | [331385-cells.json](./331385-cells.json) |
+| Cells & Serpents | 262191 | [262191-cells-and-serpents.json](./262191-cells-and-serpents.json) |
 | Cells at Work: Battle | 174786 | [174786-cells-at-work-battle.json](./174786-cells-at-work-battle.json) |
 | Cells of Division | 406329 | [406329-cells-of-division.json](./406329-cells-of-division.json) |
 | CellTD | 183879 | [183879-celltd.json](./183879-celltd.json) |
