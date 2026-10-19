@@ -6257,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
 | Birds on a Wire | 52457 | [52457-birds-on-a-wire.json](./52457-birds-on-a-wire.json) |
 | Birds On A Wire | 269070 | [269070-birds-on-a-wire.json](./269070-birds-on-a-wire.json) |
+| Birds Organized Neatly | 280674 | [280674-birds-organized-neatly.json](./280674-birds-organized-neatly.json) |
 | Birds vs. Dragons | 283998 | [283998-birds-vs-dragons.json](./283998-birds-vs-dragons.json) |
 | Birds Watching | 391179 | [391179-birds-watching.json](./391179-birds-watching.json) |
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
@@ -8665,6 +8666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
+| Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue Wyrm | 331956 | [331956-blue-wyrm.json](./331956-blue-wyrm.json) |
