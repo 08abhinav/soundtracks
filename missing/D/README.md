@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
 | Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
+| Deep Rock Galactic: Season 5 - Drilling Deeper | 306214 | [306214-deep-rock-galactic-season-5-drilling-deeper.json](./306214-deep-rock-galactic-season-5-drilling-deeper.json) |
 | Deep Rock Galactic: Supporter II Upgrade | 289558 | [289558-deep-rock-galactic-supporter-ii-upgrade.json](./289558-deep-rock-galactic-supporter-ii-upgrade.json) |
 | Deep Rock Galactic: Supporter Upgrade | 224177 | [224177-deep-rock-galactic-supporter-upgrade.json](./224177-deep-rock-galactic-supporter-upgrade.json) |
 | Deep Rock Galactic: Survivor | 240556 | [240556-deep-rock-galactic-survivor.json](./240556-deep-rock-galactic-survivor.json) |
@@ -3848,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Battle Simulator | 119616 | [119616-deep-space-battle-simulator.json](./119616-deep-space-battle-simulator.json) |
 | Deep Space Bellhop | 339652 | [339652-deep-space-bellhop.json](./339652-deep-space-bellhop.json) |
 | Deep Space Corridor | 350013 | [350013-deep-space-corridor.json](./350013-deep-space-corridor.json) |
+| Deep Space Dapper Squad | 306199 | [306199-deep-space-dapper-squad.json](./306199-deep-space-dapper-squad.json) |
 | Deep Space Dash | 32339 | [32339-deep-space-dash.json](./32339-deep-space-dash.json) |
 | Deep Space Delivery | 329081 | [329081-deep-space-delivery.json](./329081-deep-space-delivery.json) |
 | Deep Space Directive | 267476 | [267476-deep-space-directive.json](./267476-deep-space-directive.json) |
@@ -9219,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dontdy | 156108 | [156108-dontdy.json](./156108-dontdy.json) |
 | Dontrel Dolphin | 306003 | [306003-dontrel-dolphin.json](./306003-dontrel-dolphin.json) |
 | Dontrel Dolphin 2 | 305838 | [305838-dontrel-dolphin-2.json](./305838-dontrel-dolphin-2.json) |
+| Dontrel Dolphin 3 | 306186 | [306186-dontrel-dolphin-3.json](./306186-dontrel-dolphin-3.json) |
 | Donut 80 | 201052 | [201052-donut-80.json](./201052-donut-80.json) |
 | Donut Arena | 190137 | [190137-donut-arena.json](./190137-donut-arena.json) |
 | Donut Be Seen | 183305 | [183305-donut-be-seen.json](./183305-donut-be-seen.json) |
@@ -10866,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Run Classic | 218553 | [218553-dragon-run-classic.json](./218553-dragon-run-classic.json) |
 | Dragon Saddle Melee | 157061 | [157061-dragon-saddle-melee.json](./157061-dragon-saddle-melee.json) |
 | Dragon Saga | 15888 | [15888-dragon-saga.json](./15888-dragon-saga.json) |
+| Dragon Saikyou Ouzukan: Battle Colosseum | 306192 | [306192-dragon-saikyou-ouzukan-battle-colosseum.json](./306192-dragon-saikyou-ouzukan-battle-colosseum.json) |
 | Dragon Saiyan Warrior | 100783 | [100783-dragon-saiyan-warrior.json](./100783-dragon-saiyan-warrior.json) |
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
