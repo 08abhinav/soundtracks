@@ -3718,6 +3718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
 | Escape From BioStation | 37013 | [37013-escape-from-biostation.json](./37013-escape-from-biostation.json) |
+| Escape from Blackwood | 280109 | [280109-escape-from-blackwood.json](./280109-escape-from-blackwood.json) |
 | Escape From Boykisser | 278420 | [278420-escape-from-boykisser.json](./278420-escape-from-boykisser.json) |
 | Escape from Bug Island | 4835 | [4835-escape-from-bug-island.json](./4835-escape-from-bug-island.json) |
 | Escape From Bunker | 308264 | [308264-escape-from-bunker.json](./308264-escape-from-bunker.json) |
@@ -4012,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
 | Escape That Level | 95670 | [95670-escape-that-level.json](./95670-escape-that-level.json) |
 | Escape The Aquarium | 294132 | [294132-escape-the-aquarium.json](./294132-escape-the-aquarium.json) |
+| Escape the Arcade | 280087 | [280087-escape-the-arcade.json](./280087-escape-the-arcade.json) |
 | Escape the Arcana | 336713 | [336713-escape-the-arcana.json](./336713-escape-the-arcana.json) |
 | Escape the Ayurok | 125254 | [125254-escape-the-ayurok.json](./125254-escape-the-ayurok.json) |
 | Escape the Ayuwoki Demake | 201146 | [201146-escape-the-ayuwoki-demake.json](./201146-escape-the-ayuwoki-demake.json) |
@@ -4453,6 +4455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
+| Eternal Struggle | 280081 | [280081-eternal-struggle.json](./280081-eternal-struggle.json) |
 | Eternal Summer | 264145 | [264145-eternal-summer.json](./264145-eternal-summer.json) |
 | Eternal Sunrise | 384295 | [384295-eternal-sunrise.json](./384295-eternal-sunrise.json) |
 | Eternal Supreme | 210881 | [210881-eternal-supreme.json](./210881-eternal-supreme.json) |
@@ -4653,6 +4656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
+| Europa Truck Driving Sim 2021 | 280078 | [280078-europa-truck-driving-sim-2021.json](./280078-europa-truck-driving-sim-2021.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
