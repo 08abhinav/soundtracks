@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
 | Nafanya the Poltergeist | 277759 | [277759-nafanya-the-poltergeist.json](./277759-nafanya-the-poltergeist.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
+| Naga Girls | 271611 | [271611-naga-girls.json](./271611-naga-girls.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
 | Nagamaki Grind | 180689 | [180689-nagamaki-grind.json](./180689-nagamaki-grind.json) |
@@ -3261,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night on Doom Mountain | 273263 | [273263-night-on-doom-mountain.json](./273263-night-on-doom-mountain.json) |
 | Night Out | 183939 | [183939-night-out.json](./183939-night-out.json) |
 | Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
+| Night Pact: Azuru | 271612 | [271612-night-pact-azuru.json](./271612-night-pact-azuru.json) |
 | Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
