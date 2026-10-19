@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecto Mercenary Program | 373292 | [373292-ecto-mercenary-program.json](./373292-ecto-mercenary-program.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
+| Ectoplasm | 279459 | [279459-ectoplasm.json](./279459-ectoplasm.json) |
 | EctoPlaza | 85108 | [85108-ectoplaza.json](./85108-ectoplaza.json) |
 | Ectorider | 363677 | [363677-ectorider.json](./363677-ectorider.json) |
 | Ecumene Aztec | 253442 | [253442-ecumene-aztec.json](./253442-ecumene-aztec.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
 | Enupishi | 283581 | [283581-enupishi.json](./283581-enupishi.json) |
 | Envasion | 254394 | [254394-envasion.json](./254394-envasion.json) |
+| Envelope | 279479 | [279479-envelope.json](./279479-envelope.json) |
 | Envguard | 339756 | [339756-envguard.json](./339756-envguard.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
 | Envious | 285889 | [285889-envious.json](./285889-envious.json) |
