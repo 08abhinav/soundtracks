@@ -12842,6 +12842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
+| Avatar: Frontiers of Pandora - Special Edition | 281300 | [281300-avatar-frontiers-of-pandora-special-edition.json](./281300-avatar-frontiers-of-pandora-special-edition.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
 | Avatar: Pandora Rising | 112886 | [112886-avatar-pandora-rising.json](./112886-avatar-pandora-rising.json) |
