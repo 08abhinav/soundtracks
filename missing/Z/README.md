@@ -790,6 +790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhuó Lìng | 373296 | [373296-zhuo-ling.json](./373296-zhuo-ling.json) |
 | Zhust: The Illusion Soul | 40463 | [40463-zhust-the-illusion-soul.json](./40463-zhust-the-illusion-soul.json) |
 | Zhūtiān Jì | 157534 | [157534-zhutian-ji.json](./157534-zhutian-ji.json) |
+| Zhuzi Subdues Demons | 295167 | [295167-zhuzi-subdues-demons.json](./295167-zhuzi-subdues-demons.json) |
 | Zi | 279039 | [279039-zi.json](./279039-zi.json) |
 | ZI Survival | 220735 | [220735-zi-survival.json](./220735-zi-survival.json) |
 | Zì Xī Cú Dōng | 163846 | [163846-zi-xi-cu-dong.json](./163846-zi-xi-cu-dong.json) |
