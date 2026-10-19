@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears Forever | 297511 | [297511-gears-forever.json](./297511-gears-forever.json) |
 | Gears N Gators | 136227 | [136227-gears-n-gators.json](./136227-gears-n-gators.json) |
 | Gears of Babies: Browser | 261258 | [261258-gears-of-babies-browser.json](./261258-gears-of-babies-browser.json) |
+| Gears of Dragoon: Fragments of a New Era | 261650 | [261650-gears-of-dragoon-fragments-of-a-new-era.json](./261650-gears-of-dragoon-fragments-of-a-new-era.json) |
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Freedom | 414092 | [414092-gears-of-freedom.json](./414092-gears-of-freedom.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
