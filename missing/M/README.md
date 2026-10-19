@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Aliens: Seeking the Soul | 247936 | [247936-mad-aliens-seeking-the-soul.json](./247936-mad-aliens-seeking-the-soul.json) |
 | Mad Arkanoid | 50536 | [50536-mad-arkanoid.json](./50536-mad-arkanoid.json) |
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
+| Mad Ball v2.0 | 258841 | [258841-mad-ball-v2-0.json](./258841-mad-ball-v2-0.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
@@ -8657,6 +8658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk Mania | 246500 | [246500-milk-mania.json](./246500-milk-mania.json) |
 | Milk Me Darling | 385061 | [385061-milk-me-darling.json](./385061-milk-me-darling.json) |
 | Milk Me Darling: Busty And The Breast | 301983 | [301983-milk-me-darling-busty-and-the-breast.json](./301983-milk-me-darling-busty-and-the-breast.json) |
+| Milk Me Darling: Tits Fairy | 258836 | [258836-milk-me-darling-tits-fairy.json](./258836-milk-me-darling-tits-fairy.json) |
 | Milk Pot | 210112 | [210112-milk-pot.json](./210112-milk-pot.json) |
 | Milk Puzzle | 354947 | [354947-milk-puzzle.json](./354947-milk-puzzle.json) |
 | Milk Quest: Repasteurized | 369220 | [369220-milk-quest-repasteurized.json](./369220-milk-quest-repasteurized.json) |
@@ -11737,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Impossible Truck No Limit Adventure Drive Simulator Sport 3D | 227516 | [227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json](./227516-monster-impossible-truck-no-limit-adventure-drive-simulator-sport-3d.json) |
 | Monster in the Dark: Remaster | 195275 | [195275-monster-in-the-dark-remaster.json](./195275-monster-in-the-dark-remaster.json) |
 | Monster Inn | 42140 | [42140-monster-inn.json](./42140-monster-inn.json) |
+| Monster Island | 258829 | [258829-monster-island.json](./258829-monster-island.json) |
 | Monster Island | 295237 | [295237-monster-island.json](./295237-monster-island.json) |
 | Monster Island | 65276 | [65276-monster-island.json](./65276-monster-island.json) |
 | Monster Island HD | 175739 | [175739-monster-island-hd.json](./175739-monster-island-hd.json) |
@@ -11775,6 +11778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Legends | 224007 | [224007-monster-legends.json](./224007-monster-legends.json) |
 | Monster Legends | 59437 | [59437-monster-legends.json](./59437-monster-legends.json) |
 | Monster Lily | 390568 | [390568-monster-lily.json](./390568-monster-lily.json) |
+| Monster Line of Defense | 258887 | [258887-monster-line-of-defense.json](./258887-monster-line-of-defense.json) |
 | Monster Looter | 101756 | [101756-monster-looter.json](./101756-monster-looter.json) |
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
