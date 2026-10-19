@@ -5992,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Blue 3 | 21361 | [21361-lost-in-blue-3.json](./21361-lost-in-blue-3.json) |
 | Lost in Cairo | 284909 | [284909-lost-in-cairo.json](./284909-lost-in-cairo.json) |
 | Lost in Darklight | 250481 | [250481-lost-in-darklight.json](./250481-lost-in-darklight.json) |
+| Lost in Darkness | 258328 | [258328-lost-in-darkness.json](./258328-lost-in-darkness.json) |
 | Lost in Dungeon | 158406 | [158406-lost-in-dungeon.json](./158406-lost-in-dungeon.json) |
 | Lost In Dungeon | 123924 | [123924-lost-in-dungeon.json](./123924-lost-in-dungeon.json) |
 | Lost In Failures | 291093 | [291093-lost-in-failures.json](./291093-lost-in-failures.json) |
