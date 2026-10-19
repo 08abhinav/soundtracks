@@ -6003,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals in the Skies | 363907 | [363907-rivals-in-the-skies.json](./363907-rivals-in-the-skies.json) |
 | Rivals of Aether | 21646 | [21646-rivals-of-aether.json](./21646-rivals-of-aether.json) |
 | Rivals of Aether II | 245847 | [245847-rivals-of-aether-ii.json](./245847-rivals-of-aether-ii.json) |
+| Rivals of Aether: 100% Accurate Fox | 300358 | [300358-rivals-of-aether-100-accurate-fox.json](./300358-rivals-of-aether-100-accurate-fox.json) |
 | Rivals of Aether: Arcade Skin Pack | 382510 | [382510-rivals-of-aether-arcade-skin-pack.json](./382510-rivals-of-aether-arcade-skin-pack.json) |
 | Rivals of Aether: Champion Skin Pack | 382512 | [382512-rivals-of-aether-champion-skin-pack.json](./382512-rivals-of-aether-champion-skin-pack.json) |
 | Rivals of Aether: Community Skin Pack | 382509 | [382509-rivals-of-aether-community-skin-pack.json](./382509-rivals-of-aether-community-skin-pack.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals of Aether: Mario Pissing | 325926 | [325926-rivals-of-aether-mario-pissing.json](./325926-rivals-of-aether-mario-pissing.json) |
 | Rivals of Aether: Norm | 325924 | [325924-rivals-of-aether-norm.json](./325924-rivals-of-aether-norm.json) |
 | Rivals of Aether: Pool Party Skin Pack | 382506 | [382506-rivals-of-aether-pool-party-skin-pack.json](./382506-rivals-of-aether-pool-party-skin-pack.json) |
+| Rivals of Aether: Speedrunner Mario | 300355 | [300355-rivals-of-aether-speedrunner-mario.json](./300355-rivals-of-aether-speedrunner-mario.json) |
 | Rivals of Aether: Steampunk Skin Pack | 382507 | [382507-rivals-of-aether-steampunk-skin-pack.json](./382507-rivals-of-aether-steampunk-skin-pack.json) |
 | Rivals of Aether: Summit Skin Pack | 382514 | [382514-rivals-of-aether-summit-skin-pack.json](./382514-rivals-of-aether-summit-skin-pack.json) |
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
