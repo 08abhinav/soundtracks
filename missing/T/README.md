@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The American Girls Premiere | 18243 | [18243-the-american-girls-premiere.json](./18243-the-american-girls-premiere.json) |
 | The Amethyst Stones | 153916 | [153916-the-amethyst-stones.json](./153916-the-amethyst-stones.json) |
 | The Ammonite’s Whisper | 406264 | [406264-the-ammonite-s-whisper.json](./406264-the-ammonite-s-whisper.json) |
+| The Amnesiac: Final Chapter | 270015 | [270015-the-amnesiac-final-chapter.json](./270015-the-amnesiac-final-chapter.json) |
 | The Ampoule | 275702 | [275702-the-ampoule.json](./275702-the-ampoule.json) |
 | The Amulet of AmunRuuuuuN | 157188 | [157188-the-amulet-of-amunruuuuun.json](./157188-the-amulet-of-amunruuuuun.json) |
 | The Amulet of Darath | 58864 | [58864-the-amulet-of-darath.json](./58864-the-amulet-of-darath.json) |
@@ -7807,6 +7808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Haunting of Ptolemy | 341459 | [341459-the-haunting-of-ptolemy.json](./341459-the-haunting-of-ptolemy.json) |
 | The Haunting Of Stabbey Road | 336514 | [336514-the-haunting-of-stabbey-road.json](./336514-the-haunting-of-stabbey-road.json) |
 | The Hauntings | 164988 | [164988-the-hauntings.json](./164988-the-hauntings.json) |
+| The Hauntings: Dark Passenger | 269986 | [269986-the-hauntings-dark-passenger.json](./269986-the-hauntings-dark-passenger.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headsman | 153412 | [153412-the-headsman.json](./153412-the-headsman.json) |
@@ -10385,6 +10387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mouse | 57482 | [57482-the-mouse.json](./57482-the-mouse.json) |
 | The Mouse and The Cat | 247055 | [247055-the-mouse-and-the-cat.json](./247055-the-mouse-and-the-cat.json) |
 | The Mouse and the Cheese | 166832 | [166832-the-mouse-and-the-cheese.json](./166832-the-mouse-and-the-cheese.json) |
+| The Mouse Game | 270006 | [270006-the-mouse-game.json](./270006-the-mouse-game.json) |
 | The Mouse Police | 66928 | [66928-the-mouse-police.json](./66928-the-mouse-police.json) |
 | The Mouse The Merrier | 275823 | [275823-the-mouse-the-merrier.json](./275823-the-mouse-the-merrier.json) |
 | The Mousing Cat | 41564 | [41564-the-mousing-cat.json](./41564-the-mousing-cat.json) |
@@ -10932,6 +10935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path of the Pumpkin | 125141 | [125141-the-path-of-the-pumpkin.json](./125141-the-path-of-the-pumpkin.json) |
 | The Path of Veins | 319270 | [319270-the-path-of-veins.json](./319270-the-path-of-veins.json) |
 | The Path to Die | 115638 | [115638-the-path-to-die.json](./115638-the-path-to-die.json) |
+| The Path to Memento Mori | 269989 | [269989-the-path-to-memento-mori.json](./269989-the-path-to-memento-mori.json) |
 | The Paths We Cross | 392239 | [392239-the-paths-we-cross.json](./392239-the-paths-we-cross.json) |
 | The Patient: After Hours | 207495 | [207495-the-patient-after-hours.json](./207495-the-patient-after-hours.json) |
 | The Patient: Can You Escape? | 325832 | [325832-the-patient-can-you-escape.json](./325832-the-patient-can-you-escape.json) |
@@ -17303,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bookshop | 216718 | [216718-tiny-bookshop.json](./216718-tiny-bookshop.json) |
 | Tiny Boxes | 368574 | [368574-tiny-boxes.json](./368574-tiny-boxes.json) |
 | Tiny Brains | 7649 | [7649-tiny-brains.json](./7649-tiny-brains.json) |
+| Tiny Breakers Camp | 270005 | [270005-tiny-breakers-camp.json](./270005-tiny-breakers-camp.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
@@ -17408,6 +17413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
 | Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
+| Tiny Lands: Expansion Pack 2 | 269978 | [269978-tiny-lands-expansion-pack-2.json](./269978-tiny-lands-expansion-pack-2.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
 | Tiny Legends: Saving Princess | 243169 | [243169-tiny-legends-saving-princess.json](./243169-tiny-legends-saving-princess.json) |
