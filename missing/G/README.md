@@ -7616,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars: Reforged | 380421 | [380421-guild-wars-reforged.json](./380421-guild-wars-reforged.json) |
 | Guildamation | 387567 | [387567-guildamation.json](./387567-guildamation.json) |
 | GuildBound | 119791 | [119791-guildbound.json](./119791-guildbound.json) |
+| Guilded | 258340 | [258340-guilded.json](./258340-guilded.json) |
 | Guilded Fools | 421809 | [421809-guilded-fools.json](./421809-guilded-fools.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
