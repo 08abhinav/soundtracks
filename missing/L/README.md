@@ -3592,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighthouse of Madness | 158068 | [158068-lighthouse-of-madness.json](./158068-lighthouse-of-madness.json) |
 | Lighthouse of the Dead | 250910 | [250910-lighthouse-of-the-dead.json](./250910-lighthouse-of-the-dead.json) |
 | Lighthouse of the Souls | 344966 | [344966-lighthouse-of-the-souls.json](./344966-lighthouse-of-the-souls.json) |
+| Lighthouse Simulator | 262802 | [262802-lighthouse-simulator.json](./262802-lighthouse-simulator.json) |
 | Lighthouse: The Dark Being | 12439 | [12439-lighthouse-the-dark-being.json](./12439-lighthouse-the-dark-being.json) |
 | Lighting End VR | 29677 | [29677-lighting-end-vr.json](./29677-lighting-end-vr.json) |
 | Lighting Lanterns | 346593 | [346593-lighting-lanterns.json](./346593-lighting-lanterns.json) |
@@ -3914,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
+| Lindwyrm | 262827 | [262827-lindwyrm.json](./262827-lindwyrm.json) |
 | Line / Dash | 32187 | [32187-line-dash.json](./32187-line-dash.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Attack Heroes | 4971 | [4971-line-attack-heroes.json](./4971-line-attack-heroes.json) |
@@ -5671,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Darkness | 42586 | [42586-lord-of-darkness.json](./42586-lord-of-darkness.json) |
 | Lord of Darkness: Aftermath | 279014 | [279014-lord-of-darkness-aftermath.json](./279014-lord-of-darkness-aftermath.json) |
 | Lord of Darkness: Prologue | 203845 | [203845-lord-of-darkness-prologue.json](./203845-lord-of-darkness-prologue.json) |
+| Lord of Demons | 262787 | [262787-lord-of-demons.json](./262787-lord-of-demons.json) |
 | Lord of Dice | 84109 | [84109-lord-of-dice.json](./84109-lord-of-dice.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
