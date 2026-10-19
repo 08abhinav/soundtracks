@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
+| MareQuest: An Interactive Tail | 262795 | [262795-marequest-an-interactive-tail.json](./262795-marequest-an-interactive-tail.json) |
 | MareScape | 312964 | [312964-marescape.json](./312964-marescape.json) |
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
@@ -9364,6 +9365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
+| Mini Cars Puzzle | 262804 | [262804-mini-cars-puzzle.json](./262804-mini-cars-puzzle.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
 | Mini Colors | 412334 | [412334-mini-colors.json](./412334-mini-colors.json) |
@@ -10444,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miyuki the Shoubushi | 67375 | [67375-miyuki-the-shoubushi.json](./67375-miyuki-the-shoubushi.json) |
 | Mizari Loves Company | 385056 | [385056-mizari-loves-company.json](./385056-mizari-loves-company.json) |
 | Mizbak's Adventure | 37653 | [37653-mizbaks-adventure.json](./37653-mizbaks-adventure.json) |
+| Mizeria | 262823 | [262823-mizeria.json](./262823-mizeria.json) |
 | Mizi No!: Paperwork | 382491 | [382491-mizi-no-paperwork.json](./382491-mizi-no-paperwork.json) |
 | Mizu | 229701 | [229701-mizu.json](./229701-mizu.json) |
 | Mizu no Senritsu | 220576 | [220576-mizu-no-senritsu.json](./220576-mizu-no-senritsu.json) |
@@ -15387,6 +15390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Wife | 132573 | [132573-my-lovely-wife.json](./132573-my-lovely-wife.json) |
 | My Lovely Wife: Deluxe Edition | 227184 | [227184-my-lovely-wife-deluxe-edition.json](./227184-my-lovely-wife-deluxe-edition.json) |
 | My Lovey-Dovey Angel Is a Total Deadbeat: Seriously Scary! | 411717 | [411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json](./411717-my-lovey-dovey-angel-is-a-total-deadbeat-seriously-scary.json) |
+| My Lovey-Dovey Demon | 262790 | [262790-my-lovey-dovey-demon.json](./262790-my-lovey-dovey-demon.json) |
 | My Low Poly City | 163892 | [163892-my-low-poly-city.json](./163892-my-low-poly-city.json) |
 | My Lust Wish | 160274 | [160274-my-lust-wish.json](./160274-my-lust-wish.json) |
 | My Mafia Girlfriend | 229111 | [229111-my-mafia-girlfriend.json](./229111-my-mafia-girlfriend.json) |
@@ -15439,6 +15443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbor's Lonely Wife 2 | 379889 | [379889-my-neighbors-lonely-wife-2.json](./379889-my-neighbors-lonely-wife-2.json) |
 | My Neighborhood Arcade | 153503 | [153503-my-neighborhood-arcade.json](./153503-my-neighborhood-arcade.json) |
 | My Neighborhood Arcade: Block Puzzle Unit | 163530 | [163530-my-neighborhood-arcade-block-puzzle-unit.json](./163530-my-neighborhood-arcade-block-puzzle-unit.json) |
+| My Neighbour is a Bunny Demon | 262789 | [262789-my-neighbour-is-a-bunny-demon.json](./262789-my-neighbour-is-a-bunny-demon.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
