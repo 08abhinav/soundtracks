@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Get This Call Every Day | 36358 | [36358-i-get-this-call-every-day.json](./36358-i-get-this-call-every-day.json) |
 | I got a cat maid | 128013 | [128013-i-got-a-cat-maid.json](./128013-i-got-a-cat-maid.json) |
 | I Got a Millenary Cat | 197401 | [197401-i-got-a-millenary-cat.json](./197401-i-got-a-millenary-cat.json) |
+| I Got Cucked by a Futanari | 290811 | [290811-i-got-cucked-by-a-futanari.json](./290811-i-got-cucked-by-a-futanari.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
 | I Got Isekai'd Into a Shmup | 311229 | [311229-i-got-isekaid-into-a-shmup.json](./311229-i-got-isekaid-into-a-shmup.json) |
 | I Got Straddled by a Femboy | 295648 | [295648-i-got-straddled-by-a-femboy.json](./295648-i-got-straddled-by-a-femboy.json) |
@@ -1211,7 +1212,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space Station | 214101 | [214101-idle-space-station.json](./214101-idle-space-station.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
+| Idle Spiral: Arrow Pack | 290814 | [290814-idle-spiral-arrow-pack.json](./290814-idle-spiral-arrow-pack.json) |
+| Idle Spiral: Bonfire Pack | 290820 | [290820-idle-spiral-bonfire-pack.json](./290820-idle-spiral-bonfire-pack.json) |
+| Idle Spiral: Bubble Spiral Pack | 290818 | [290818-idle-spiral-bubble-spiral-pack.json](./290818-idle-spiral-bubble-spiral-pack.json) |
 | Idle Spiral: Custom Spiral Pack | 291702 | [291702-idle-spiral-custom-spiral-pack.json](./291702-idle-spiral-custom-spiral-pack.json) |
+| Idle Spiral: Daily Spiral Pack | 290817 | [290817-idle-spiral-daily-spiral-pack.json](./290817-idle-spiral-daily-spiral-pack.json) |
+| Idle Spiral: Pixel Pack | 290821 | [290821-idle-spiral-pixel-pack.json](./290821-idle-spiral-pixel-pack.json) |
+| Idle Spiral: Snake Pack | 290815 | [290815-idle-spiral-snake-pack.json](./290815-idle-spiral-snake-pack.json) |
+| Idle Spiral: Space Pack | 290816 | [290816-idle-spiral-space-pack.json](./290816-idle-spiral-space-pack.json) |
+| Idle Spiral: Water Pack | 290819 | [290819-idle-spiral-water-pack.json](./290819-idle-spiral-water-pack.json) |
 | Idle Squares | 414840 | [414840-idle-squares.json](./414840-idle-squares.json) |
 | Idle Squire | 391172 | [391172-idle-squire.json](./391172-idle-squire.json) |
 | Idle Startup | 408019 | [408019-idle-startup.json](./408019-idle-startup.json) |
@@ -2247,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven: Victory Road | 72812 | [72812-inazuma-eleven-victory-road.json](./72812-inazuma-eleven-victory-road.json) |
 | Inazuma Eleven: Victory Road - Deluxe Edition | 376247 | [376247-inazuma-eleven-victory-road-deluxe-edition.json](./376247-inazuma-eleven-victory-road-deluxe-edition.json) |
 | Inazuma Serve Da!! Super Beach Volley | 38170 | [38170-inazuma-serve-da-super-beach-volley.json](./38170-inazuma-serve-da-super-beach-volley.json) |
+| Inazuma Souls | 290801 | [290801-inazuma-souls.json](./290801-inazuma-souls.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Inbetween Land | 35850 | [35850-inbetween-land.json](./35850-inbetween-land.json) |
 | Inbound | 86531 | [86531-inbound.json](./86531-inbound.json) |
