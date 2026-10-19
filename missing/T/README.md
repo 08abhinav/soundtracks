@@ -9919,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
+| The Magus Circle | 295074 | [295074-the-magus-circle.json](./295074-the-magus-circle.json) |
 | The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
@@ -23977,6 +23978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty One | 395559 | [395559-twenty-one.json](./395559-twenty-one.json) |
 | Twenty Six | 346662 | [346662-twenty-six.json](./346662-twenty-six.json) |
 | Twenty Wargame Classics | 94367 | [94367-twenty-wargame-classics.json](./94367-twenty-wargame-classics.json) |
+| Twenty-second: Stories of Underground Kharkiv | 295170 | [295170-twenty-second-stories-of-underground-kharkiv.json](./295170-twenty-second-stories-of-underground-kharkiv.json) |
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerps | 24935 | [24935-twerps.json](./24935-twerps.json) |
@@ -23992,6 +23994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Crusade | 227902 | [227902-twilight-crusade.json](./227902-twilight-crusade.json) |
 | Twilight Dream | 364683 | [364683-twilight-dream.json](./364683-twilight-dream.json) |
 | Twilight Drive | 148366 | [148366-twilight-drive.json](./148366-twilight-drive.json) |
+| Twilight Epoch | 295161 | [295161-twilight-epoch.json](./295161-twilight-epoch.json) |
 | Twilight Fangs | 298990 | [298990-twilight-fangs.json](./298990-twilight-fangs.json) |
 | Twilight Ferry | 383793 | [383793-twilight-ferry.json](./383793-twilight-ferry.json) |
 | Twilight Flight | 403709 | [403709-twilight-flight.json](./403709-twilight-flight.json) |
