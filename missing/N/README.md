@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nachkriegsratten Punk-Rock Puzzle | 203300 | [203300-nachkriegsratten-punk-rock-puzzle.json](./203300-nachkriegsratten-punk-rock-puzzle.json) |
 | Nacho Trave vs. Joako Tronico | 323357 | [323357-nacho-trave-vs-joako-tronico.json](./323357-nacho-trave-vs-joako-tronico.json) |
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
+| Nacht-sama is quitting being the demon king! | 262788 | [262788-nacht-sama-is-quitting-being-the-demon-king.json](./262788-nacht-sama-is-quitting-being-the-demon-king.json) |
 | Nachtigal | 57177 | [57177-nachtigal.json](./57177-nachtigal.json) |
 | Nachtmission | 94966 | [94966-nachtmission.json](./94966-nachtmission.json) |
 | Nack the Weasel | 330721 | [330721-nack-the-weasel.json](./330721-nack-the-weasel.json) |
@@ -764,6 +765,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 3 | 215632 | [215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json](./215632-nature-and-wildlife-jigsaw-puzzle-expansion-pack-3.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 4 | 215631 | [215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json](./215631-nature-and-wildlife-jigsaw-puzzle-expansion-pack-4.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 5 | 215630 | [215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json](./215630-nature-and-wildlife-jigsaw-puzzle-expansion-pack-5.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 6 | 262818 | [262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json](./262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json) |
+| Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
@@ -4703,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Node: The Last Favor of the Antarii | 287726 | [287726-node-the-last-favor-of-the-antarii.json](./287726-node-the-last-favor-of-the-antarii.json) |
 | NodeBeat | 68921 | [68921-nodebeat.json](./68921-nodebeat.json) |
 | NodeCore | 396526 | [396526-nodecore.json](./396526-nodecore.json) |
+| NodeLord | 262800 | [262800-nodelord.json](./262800-nodelord.json) |
 | Nodemind: Dynamic Core | 397255 | [397255-nodemind-dynamic-core.json](./397255-nodemind-dynamic-core.json) |
 | NodeRunner | 289721 | [289721-noderunner.json](./289721-noderunner.json) |
 | Nodes | 203250 | [203250-nodes.json](./203250-nodes.json) |
