@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Viagem de Vasco da Gama à Índia | 405497 | [405497-a-viagem-de-vasco-da-gama-a-india.json](./405497-a-viagem-de-vasco-da-gama-a-india.json) |
 | A Viking's Quest: The Lost Continent | 244389 | [244389-a-vikings-quest-the-lost-continent.json](./244389-a-vikings-quest-the-lost-continent.json) |
+| A Villain's Twisted Heart | 299006 | [299006-a-villains-twisted-heart.json](./299006-a-villains-twisted-heart.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
 | A Visit to Friends | 173058 | [173058-a-visit-to-friends.json](./173058-a-visit-to-friends.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Flesh | 281330 | [281330-adventures-in-flesh.json](./281330-adventures-in-flesh.json) |
+| Adventures in Heaven | 299013 | [299013-adventures-in-heaven.json](./299013-adventures-in-heaven.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
@@ -2617,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
 | Adventures of a Snowboarder | 367720 | [367720-adventures-of-a-snowboarder.json](./367720-adventures-of-a-snowboarder.json) |
 | Adventures of Abrix | 29918 | [29918-adventures-of-abrix.json](./29918-adventures-of-abrix.json) |
@@ -6876,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
+| Anger of Stick 2 | 299011 | [299011-anger-of-stick-2.json](./299011-anger-of-stick-2.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
@@ -7749,6 +7753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Sight | 186835 | [186835-another-sight.json](./186835-another-sight.json) |
 | Another Sight | 90146 | [90146-another-sight.json](./90146-another-sight.json) |
 | Another Sight: Hodge's Journey | 111691 | [111691-another-sight-hodges-journey.json](./111691-another-sight-hodges-journey.json) |
+| Another Sonic 2 Remake | 299015 | [299015-another-sonic-2-remake.json](./299015-another-sonic-2-remake.json) |
 | Another Space Opera: Episode 1 - The Wake of The Giant | 216469 | [216469-another-space-opera-episode-1-the-wake-of-the-giant.json](./216469-another-space-opera-episode-1-the-wake-of-the-giant.json) |
 | Another Summer | 420474 | [420474-another-summer.json](./420474-another-summer.json) |
 | Another Super Mario 3D | 132829 | [132829-another-super-mario-3d.json](./132829-another-super-mario-3d.json) |
@@ -10018,6 +10023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed Air Forces | 242683 | [242683-armed-air-forces.json](./242683-armed-air-forces.json) |
 | Armed and Armoured | 190747 | [190747-armed-and-armoured.json](./190747-armed-and-armoured.json) |
 | Armed and Dangerous | 211 | [211-armed-and-dangerous.json](./211-armed-and-dangerous.json) |
+| Armed and Gelatinous: Arcade Edition | 299029 | [299029-armed-and-gelatinous-arcade-edition.json](./299029-armed-and-gelatinous-arcade-edition.json) |
 | Armed and Gelatinous: Couch Edition | 33447 | [33447-armed-and-gelatinous-couch-edition.json](./33447-armed-and-gelatinous-couch-edition.json) |
 | Armed and Gorgeous HD | 22335 | [22335-armed-and-gorgeous-hd.json](./22335-armed-and-gorgeous-hd.json) |
 | Armed Animals RPG | 365060 | [365060-armed-animals-rpg.json](./365060-armed-animals-rpg.json) |
@@ -12177,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
+| Attack of the Dead | 299026 | [299026-attack-of-the-dead.json](./299026-attack-of-the-dead.json) |
 | Attack of The Dead | 379986 | [379986-attack-of-the-dead.json](./379986-attack-of-the-dead.json) |
 | Attack of the Earthlings | 36972 | [36972-attack-of-the-earthlings.json](./36972-attack-of-the-earthlings.json) |
 | Attack of the Earthlings Mobile | 299288 | [299288-attack-of-the-earthlings-mobile.json](./299288-attack-of-the-earthlings-mobile.json) |
@@ -12937,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening of Dragon | 110177 | [110177-awakening-of-dragon.json](./110177-awakening-of-dragon.json) |
 | Awakening of Dragon | 208908 | [208908-awakening-of-dragon.json](./208908-awakening-of-dragon.json) |
 | Awakening of Heroes | 61561 | [61561-awakening-of-heroes.json](./61561-awakening-of-heroes.json) |
+| Awakening of the Eclipse | 299028 | [299028-awakening-of-the-eclipse.json](./299028-awakening-of-the-eclipse.json) |
 | Awakening Sarah | 255727 | [255727-awakening-sarah.json](./255727-awakening-sarah.json) |
 | Awakening the Charge | 349819 | [349819-awakening-the-charge.json](./349819-awakening-the-charge.json) |
 | Awakening the Light | 158553 | [158553-awakening-the-light.json](./158553-awakening-the-light.json) |
