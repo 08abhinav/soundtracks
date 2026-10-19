@@ -2549,6 +2549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Lost in Nature With Luke | 165162 | [165162-get-lost-in-nature-with-luke.json](./165162-get-lost-in-nature-with-luke.json) |
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
+| Get Me Out, Please | 266108 | [266108-get-me-out-please.json](./266108-get-me-out-please.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
@@ -2855,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Sweeper | 32214 | [32214-ghost-sweeper.json](./32214-ghost-sweeper.json) |
 | Ghost Sweeper Mikami | 37634 | [37634-ghost-sweeper-mikami.json](./37634-ghost-sweeper-mikami.json) |
 | Ghost Switch | 178907 | [178907-ghost-switch.json](./178907-ghost-switch.json) |
+| Ghost Tag | 266069 | [266069-ghost-tag.json](./266069-ghost-tag.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
@@ -5722,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Fantasy Heroes | 336092 | [336092-grand-fantasy-heroes.json](./336092-grand-fantasy-heroes.json) |
 | Grand Fleet | 71221 | [71221-grand-fleet.json](./71221-grand-fleet.json) |
 | Grand Foodventure | 221088 | [221088-grand-foodventure.json](./221088-grand-foodventure.json) |
+| Grand Forest | 266102 | [266102-grand-forest.json](./266102-grand-forest.json) |
 | Grand Gardens | 295497 | [295497-grand-gardens.json](./295497-grand-gardens.json) |
 | Grand Gate | 208601 | [208601-grand-gate.json](./208601-grand-gate.json) |
 | Grand Guilds | 109774 | [109774-grand-guilds.json](./109774-grand-guilds.json) |
@@ -5903,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
+| Grandmasters Ascent | 266100 | [266100-grandmasters-ascent.json](./266100-grandmasters-ascent.json) |
 | Grandmother | 169345 | [169345-grandmother.json](./169345-grandmother.json) |
 | Grandmother's Tale | 153872 | [153872-grandmothers-tale.json](./153872-grandmothers-tale.json) |
 | GrandNestling | 130232 | [130232-grandnestling.json](./130232-grandnestling.json) |
