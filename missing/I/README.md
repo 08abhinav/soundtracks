@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illuminati Online | 304837 | [304837-illuminati-online.json](./304837-illuminati-online.json) |
 | illuminati Simulator VR | 156142 | [156142-illuminati-simulator-vr.json](./156142-illuminati-simulator-vr.json) |
 | Illuminati Tycoon | 184859 | [184859-illuminati-tycoon.json](./184859-illuminati-tycoon.json) |
+| Illumination | 292940 | [292940-illumination.json](./292940-illumination.json) |
 | Illumination Laser | 280690 | [280690-illumination-laser.json](./280690-illumination-laser.json) |
 | Illuminator | 243937 | [243937-illuminator.json](./243937-illuminator.json) |
 | Illuminum | 343923 | [343923-illuminum.json](./343923-illuminum.json) |
@@ -2467,6 +2468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiepocalypse #71 | 382206 | [382206-indiepocalypse-71.json](./382206-indiepocalypse-71.json) |
 | Indiepocalypse #75 | 402283 | [402283-indiepocalypse-75.json](./402283-indiepocalypse-75.json) |
 | Indiepocalypse #77 | 412930 | [412930-indiepocalypse-77.json](./412930-indiepocalypse-77.json) |
+| Indies' Lies 2: Fire Seed | 292942 | [292942-indies-lies-2-fire-seed.json](./292942-indies-lies-2-fire-seed.json) |
 | Indies' Lies: Desires Flowing | 349374 | [349374-indies-lies-desires-flowing.json](./349374-indies-lies-desires-flowing.json) |
 | Indigenous | 26555 | [26555-indigenous.json](./26555-indigenous.json) |
 | Indignum | 397664 | [397664-indignum.json](./397664-indignum.json) |
