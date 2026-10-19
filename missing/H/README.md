@@ -1515,6 +1515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hare Uso: Original Harem Story | 379638 | [379638-hare-uso-original-harem-story.json](./379638-hare-uso-original-harem-story.json) |
 | Hare's Hollow | 184607 | [184607-hares-hollow.json](./184607-hares-hollow.json) |
 | Harekat 2: Online | 252132 | [252132-harekat-2-online.json](./252132-harekat-2-online.json) |
+| Harem | 257219 | [257219-harem.json](./257219-harem.json) |
 | Harem | 266649 | [266649-harem.json](./266649-harem.json) |
 | Harem Girl: Evie | 284244 | [284244-harem-girl-evie.json](./284244-harem-girl-evie.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist | 84304 | [84304-heist.json](./84304-heist.json) |
 | Heist | 94640 | [94640-heist.json](./94640-heist.json) |
 | Heist Day | 153983 | [153983-heist-day.json](./153983-heist-day.json) |
+| Heist Force | 257204 | [257204-heist-force.json](./257204-heist-force.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
@@ -4299,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Bank | 61446 | [61446-hero-bank.json](./61446-hero-bank.json) |
 | Hero Barrier | 29747 | [29747-hero-barrier.json](./29747-hero-barrier.json) |
 | Hero Battle | 33001 | [33001-hero-battle.json](./33001-hero-battle.json) |
+| Hero Beetle War: Tower Attack | 257252 | [257252-hero-beetle-war-tower-attack.json](./257252-hero-beetle-war-tower-attack.json) |
 | Hero Blaze: Three Kingdoms | 212463 | [212463-hero-blaze-three-kingdoms.json](./212463-hero-blaze-three-kingdoms.json) |
 | Hero Bootcamp | 380573 | [380573-hero-bootcamp.json](./380573-hero-bootcamp.json) |
 | Hero Boy | 31721 | [31721-hero-boy.json](./31721-hero-boy.json) |
