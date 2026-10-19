@@ -20035,6 +20035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
+| Stories in Glass: Winter | 274911 | [274911-stories-in-glass-winter.json](./274911-stories-in-glass-winter.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
 | Stories of a Coup d'État: The Three Siblings | 417945 | [417945-stories-of-a-coup-detat-the-three-siblings.json](./417945-stories-of-a-coup-detat-the-three-siblings.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
@@ -21337,6 +21338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
+| Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
 | Submarine | 346083 | [346083-submarine.json](./346083-submarine.json) |
 | Submarine Adventure | 133233 | [133233-submarine-adventure.json](./133233-submarine-adventure.json) |
 | Submarine Attack | 46120 | [46120-submarine-attack.json](./46120-submarine-attack.json) |
@@ -22115,6 +22117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
+| Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
@@ -22242,6 +22245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SunKong | 390768 | [390768-sunkong.json](./390768-sunkong.json) |
 | Sunky.Mpeg | 198176 | [198176-sunky-mpeg.json](./198176-sunky-mpeg.json) |
 | Sunland Hike | 264613 | [264613-sunland-hike.json](./264613-sunland-hike.json) |
+| Sunland Town | 274899 | [274899-sunland-town.json](./274899-sunland-town.json) |
 | Sunless Empire | 383603 | [383603-sunless-empire.json](./383603-sunless-empire.json) |
 | Sunless Sea | 8925 | [8925-sunless-sea.json](./8925-sunless-sea.json) |
 | Sunless Skies | 24427 | [24427-sunless-skies.json](./24427-sunless-skies.json) |
