@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers of Darkness | 320028 | [320028-seekers-of-darkness.json](./320028-seekers-of-darkness.json) |
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
+| Seekers of Skyveil | 291335 | [291335-seekers-of-skyveil.json](./291335-seekers-of-skyveil.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: Revelations | 216205 | [216205-seeking-asylum-revelations.json](./216205-seeking-asylum-revelations.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
@@ -7192,6 +7193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shy Bunnies | 95834 | [95834-shy-bunnies.json](./95834-shy-bunnies.json) |
 | Shy Cats + Shy Dogs | 332039 | [332039-shy-cats-shy-dogs.json](./332039-shy-cats-shy-dogs.json) |
 | Shy Cats Hidden Orchestra 2 | 409556 | [409556-shy-cats-hidden-orchestra-2.json](./409556-shy-cats-hidden-orchestra-2.json) |
+| Shy Cats Hidden Tracks: Paris | 291329 | [291329-shy-cats-hidden-tracks-paris.json](./291329-shy-cats-hidden-tracks-paris.json) |
 | Shy Cats Hidden Tracks: Vol. 1 | 332038 | [332038-shy-cats-hidden-tracks-vol-1.json](./332038-shy-cats-hidden-tracks-vol-1.json) |
 | Shy Cats Hidden Tracks: Vol. 2 | 349828 | [349828-shy-cats-hidden-tracks-vol-2.json](./349828-shy-cats-hidden-tracks-vol-2.json) |
 | Shy Cats: Hidden Orchestra | 235872 | [235872-shy-cats-hidden-orchestra.json](./235872-shy-cats-hidden-orchestra.json) |
@@ -8240,6 +8242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SiN: Wages of Sin | 8717 | [8717-sin-wages-of-sin.json](./8717-sin-wages-of-sin.json) |
 | Sin.exe | 345483 | [345483-sin-exe.json](./345483-sin-exe.json) |
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
+| Sina | 291308 | [291308-sina.json](./291308-sina.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
 | Sinbad - In Search of Magic Ginger | 54359 | [54359-sinbad-in-search-of-magic-ginger.json](./54359-sinbad-in-search-of-magic-ginger.json) |
 | Sinbad & the Golden Ship | 71509 | [71509-sinbad-and-the-golden-ship.json](./71509-sinbad-and-the-golden-ship.json) |
@@ -13512,6 +13515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hackers 2 | 228334 | [228334-soul-hackers-2.json](./228334-soul-hackers-2.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
+| Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Hunter | 383680 | [383680-soul-hunter.json](./383680-soul-hunter.json) |
 | Soul Huntress | 406657 | [406657-soul-huntress.json](./406657-soul-huntress.json) |
@@ -16418,6 +16422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooks | 135717 | [135717-spooks.json](./135717-spooks.json) |
 | Spookshow | 371956 | [371956-spookshow.json](./371956-spookshow.json) |
 | Spookulele | 204715 | [204715-spookulele.json](./204715-spookulele.json) |
+| Spookville: Cabin Escape | 291298 | [291298-spookville-cabin-escape.json](./291298-spookville-cabin-escape.json) |
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
