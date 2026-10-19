@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panthalassa | 304650 | [304650-panthalassa.json](./304650-panthalassa.json) |
 | Pantheon | 128470 | [128470-pantheon.json](./128470-pantheon.json) |
 | Pantheon | 228624 | [228624-pantheon.json](./228624-pantheon.json) |
+| Pantheon of War | 268874 | [268874-pantheon-of-war.json](./268874-pantheon-of-war.json) |
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
@@ -3111,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentominovich | 207847 | [207847-pentominovich.json](./207847-pentominovich.json) |
 | Penultima | 307189 | [307189-penultima.json](./307189-penultima.json) |
 | Penumbra | 177550 | [177550-penumbra.json](./177550-penumbra.json) |
+| Penumbra | 268888 | [268888-penumbra.json](./268888-penumbra.json) |
 | Penumbra Lane | 307332 | [307332-penumbra-lane.json](./307332-penumbra-lane.json) |
 | Penumbra: Black Plague | 2045 | [2045-penumbra-black-plague.json](./2045-penumbra-black-plague.json) |
 | Penumbra: Black Plague - Gold Edition | 27840 | [27840-penumbra-black-plague-gold-edition.json](./27840-penumbra-black-plague-gold-edition.json) |
