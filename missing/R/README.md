@@ -2850,6 +2850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Goblin: Cursed Forest | 35406 | [35406-red-goblin-cursed-forest.json](./35406-red-goblin-cursed-forest.json) |
 | Red Goddess: Inner World | 15912 | [15912-red-goddess-inner-world.json](./15912-red-goddess-inner-world.json) |
 | Red Goes Faster | 173090 | [173090-red-goes-faster.json](./173090-red-goes-faster.json) |
+| Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
 | Red Hawk | 411129 | [411129-red-hawk.json](./411129-red-hawk.json) |
@@ -9380,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russel's Cookie Eating | 354755 | [354755-russels-cookie-eating.json](./354755-russels-cookie-eating.json) |
 | Russell | 281365 | [281365-russell.json](./281365-russell.json) |
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
+| Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
