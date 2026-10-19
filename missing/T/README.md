@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Table Space: Board and Card Game Sandbox | 389701 | [389701-table-space-board-and-card-game-sandbox.json](./389701-table-space-board-and-card-game-sandbox.json) |
 | Table Tennis | 11500 | [11500-table-tennis.json](./11500-table-tennis.json) |
 | Table Tennis | 150560 | [150560-table-tennis.json](./150560-table-tennis.json) |
+| Table Tennis | 277711 | [277711-table-tennis.json](./277711-table-tennis.json) |
 | Table Tennis Infinity | 85420 | [85420-table-tennis-infinity.json](./85420-table-tennis-infinity.json) |
 | Table Tennis Simulation | 72076 | [72076-table-tennis-simulation.json](./72076-table-tennis-simulation.json) |
 | Table Tennis Star | 58654 | [58654-table-tennis-star.json](./58654-table-tennis-star.json) |
@@ -3101,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Smash: Racketville | 382230 | [382230-tennis-smash-racketville.json](./382230-tennis-smash-racketville.json) |
 | Tennis Stars: Ultimate Clash | 235130 | [235130-tennis-stars-ultimate-clash.json](./235130-tennis-stars-ultimate-clash.json) |
 | Tennis Story | 109368 | [109368-tennis-story.json](./109368-tennis-story.json) |
+| Tennis Tournament Hyper-Casual | 277729 | [277729-tennis-tournament-hyper-casual.json](./277729-tennis-tournament-hyper-casual.json) |
 | Tennis Tourney | 172783 | [172783-tennis-tourney.json](./172783-tennis-tourney.json) |
 | Tennis Tower | 179981 | [179981-tennis-tower.json](./179981-tennis-tower.json) |
 | Tennis Tune-Up | 117168 | [117168-tennis-tune-up.json](./117168-tennis-tune-up.json) |
@@ -18980,6 +18982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
 | Toppled | 288099 | [288099-toppled.json](./288099-toppled.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
+| Topplz | 277714 | [277714-topplz.json](./277714-topplz.json) |
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
@@ -19799,6 +19802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
+| Tour Du Monde | 277715 | [277715-tour-du-monde.json](./277715-tour-du-monde.json) |
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
@@ -22689,6 +22693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tracks | 229335 | [229335-tricky-tracks.json](./229335-tricky-tracks.json) |
 | Tricky Tracks 2010 | 249710 | [249710-tricky-tracks-2010.json](./249710-tricky-tracks-2010.json) |
 | Tricky Trail RC | 30667 | [30667-tricky-trail-rc.json](./30667-tricky-trail-rc.json) |
+| Tricky Treat | 277716 | [277716-tricky-treat.json](./277716-tricky-treat.json) |
 | Tricky Truck | 20183 | [20183-tricky-truck.json](./20183-tricky-truck.json) |
 | Tricky Truck | 22651 | [22651-tricky-truck.json](./22651-tricky-truck.json) |
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
@@ -24406,6 +24411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twixel | 9524 | [9524-twixel.json](./9524-twixel.json) |
 | Twizz'ed Firefarta | 407248 | [407248-twizzed-firefarta.json](./407248-twizzed-firefarta.json) |
 | Twizzle Puzzle: Animals | 280249 | [280249-twizzle-puzzle-animals.json](./280249-twizzle-puzzle-animals.json) |
+| Twizzle Puzzle: Cats | 277753 | [277753-twizzle-puzzle-cats.json](./277753-twizzle-puzzle-cats.json) |
 | Twizzle Puzzle: Monkeys | 290690 | [290690-twizzle-puzzle-monkeys.json](./290690-twizzle-puzzle-monkeys.json) |
 | Twizzle Puzzle: Mushrooms | 310260 | [310260-twizzle-puzzle-mushrooms.json](./310260-twizzle-puzzle-mushrooms.json) |
 | Twizzle Puzzle: Rodents | 295379 | [295379-twizzle-puzzle-rodents.json](./295379-twizzle-puzzle-rodents.json) |
@@ -24501,6 +24507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Thrones | 72288 | [72288-two-thrones.json](./72288-two-thrones.json) |
 | Two Tigers | 25667 | [25667-two-tigers.json](./25667-two-tigers.json) |
 | Two Till Midnight | 122169 | [122169-two-till-midnight.json](./122169-two-till-midnight.json) |
+| Two To Match | 277717 | [277717-two-to-match.json](./277717-two-to-match.json) |
 | Two Torn Towers | 279717 | [279717-two-torn-towers.json](./279717-two-torn-towers.json) |
 | Two Types Pollos | 400527 | [400527-two-types-pollos.json](./400527-two-types-pollos.json) |
 | Two Way | 25904 | [25904-two-way.json](./25904-two-way.json) |
