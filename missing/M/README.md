@@ -10878,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Platina Edition | 262364 | [262364-mojito-the-cat-platina-edition.json](./262364-mojito-the-cat-platina-edition.json) |
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
+| Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
 | Mojo Melee | 223479 | [223479-mojo-melee.json](./223479-mojo-melee.json) |
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
