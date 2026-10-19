@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Skiora | 154249 | [154249-tales-of-skiora.json](./154249-tales-of-skiora.json) |
 | Tales of Sorrow: Strawsbrough Town | 114358 | [114358-tales-of-sorrow-strawsbrough-town.json](./114358-tales-of-sorrow-strawsbrough-town.json) |
 | Tales of Spark | 225103 | [225103-tales-of-spark.json](./225103-tales-of-spark.json) |
+| Tales of Spark: Dragon-Horse Spirit | 290799 | [290799-tales-of-spark-dragon-horse-spirit.json](./290799-tales-of-spark-dragon-horse-spirit.json) |
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
 | Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
@@ -7197,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fruit | 392165 | [392165-the-fruit.json](./392165-the-fruit.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
 | The Fruit of Grisaia | 11456 | [11456-the-fruit-of-grisaia.json](./11456-the-fruit-of-grisaia.json) |
+| The Fruit Stealing Girls | 290812 | [290812-the-fruit-stealing-girls.json](./290812-the-fruit-stealing-girls.json) |
 | The Fruit, Labyrinth, and Eden of Grisaia Full Package | 117746 | [117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json](./117746-the-fruit-labyrinth-and-eden-of-grisaia-full-package.json) |
 | The Fruits of the Literature Club | 379137 | [379137-the-fruits-of-the-literature-club.json](./379137-the-fruits-of-the-literature-club.json) |
 | The Fugitives | 330309 | [330309-the-fugitives.json](./330309-the-fugitives.json) |
@@ -14020,6 +14022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch of Sherdorne Forest | 248112 | [248112-the-witch-of-sherdorne-forest.json](./248112-the-witch-of-sherdorne-forest.json) |
 | The Witch of the Wake | 320008 | [320008-the-witch-of-the-wake.json](./320008-the-witch-of-the-wake.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
+| The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
 | The Witch's Cauldron | 240731 | [240731-the-witchs-cauldron.json](./240731-the-witchs-cauldron.json) |
 | The Witch's Cauldron: Supporter Pack | 309647 | [309647-the-witchs-cauldron-supporter-pack.json](./309647-the-witchs-cauldron-supporter-pack.json) |
 | The Witch's Cookbook | 257995 | [257995-the-witchs-cookbook.json](./257995-the-witchs-cookbook.json) |
@@ -14845,6 +14848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thor: Son of Asgard | 65601 | [65601-thor-son-of-asgard.json](./65601-thor-son-of-asgard.json) |
 | Thor: The Dark World - The Official Game | 62214 | [62214-thor-the-dark-world-the-official-game.json](./62214-thor-the-dark-world-the-official-game.json) |
 | Thor's Legacy | 298135 | [298135-thors-legacy.json](./298135-thors-legacy.json) |
+| Thorgal | 290773 | [290773-thorgal.json](./290773-thorgal.json) |
 | Thorium Wars: Attack of the Skyfighter | 61511 | [61511-thorium-wars-attack-of-the-skyfighter.json](./61511-thorium-wars-attack-of-the-skyfighter.json) |
 | Thorn Demon Hunter | 201596 | [201596-thorn-demon-hunter.json](./201596-thorn-demon-hunter.json) |
 | Thorn for the Villain: Reincarnated as an Extra in an Otome Game?! | 255770 | [255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json](./255770-thorn-for-the-villain-reincarnated-as-an-extra-in-an-otome-game.json) |
@@ -20893,6 +20897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: C-424 | 357392 | [357392-train-simulator-classic-c-424.json](./357392-train-simulator-classic-c-424.json) |
 | Train Simulator Classic: CR400AF Loco Add-On | 339157 | [339157-train-simulator-classic-cr400af-loco-add-on.json](./339157-train-simulator-classic-cr400af-loco-add-on.json) |
 | Train Simulator Classic: DB BR 218 'V 164' | 279013 | [279013-train-simulator-classic-db-br-218-v-164.json](./279013-train-simulator-classic-db-br-218-v-164.json) |
+| Train Simulator Classic: DB Fas 126 | 290805 | [290805-train-simulator-classic-db-fas-126.json](./290805-train-simulator-classic-db-fas-126.json) |
 | Train Simulator Classic: E60 Electric Locomotive | 236543 | [236543-train-simulator-classic-e60-electric-locomotive.json](./236543-train-simulator-classic-e60-electric-locomotive.json) |
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: Empire State Express No. 999 | 298176 | [298176-train-simulator-classic-empire-state-express-no-999.json](./298176-train-simulator-classic-empire-state-express-no-999.json) |
@@ -22939,6 +22944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
+| Trope Tales | 290825 | [290825-trope-tales.json](./290825-trope-tales.json) |
 | Trophiends | 409897 | [409897-trophiends.json](./409897-trophiends.json) |
 | Trophies | 286064 | [286064-trophies.json](./286064-trophies.json) |
 | Trophies: A Corruption Tale | 385885 | [385885-trophies-a-corruption-tale.json](./385885-trophies-a-corruption-tale.json) |
