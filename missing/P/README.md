@@ -10295,6 +10295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presto Starto | 183425 | [183425-presto-starto.json](./183425-presto-starto.json) |
 | Preston Sterling and the Legend of Excalibur | 55868 | [55868-preston-sterling-and-the-legend-of-excalibur.json](./55868-preston-sterling-and-the-legend-of-excalibur.json) |
 | PreStrafe | 374804 | [374804-prestrafe.json](./374804-prestrafe.json) |
+| Pretend Cars Racing 2 | 302222 | [302222-pretend-cars-racing-2.json](./302222-pretend-cars-racing-2.json) |
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretend You're Xyzzy | 306207 | [306207-pretend-youre-xyzzy.json](./306207-pretend-youre-xyzzy.json) |
