@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
 | Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
+| Paw Patrol: Grand Prix - Complete Edition | 283585 | [283585-paw-patrol-grand-prix-complete-edition.json](./283585-paw-patrol-grand-prix-complete-edition.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
 | Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
@@ -9322,6 +9323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popeye | 229982 | [229982-popeye.json](./229982-popeye.json) |
 | Popeye | 232703 | [232703-popeye.json](./232703-popeye.json) |
 | Popeye | 266839 | [266839-popeye.json](./266839-popeye.json) |
+| Popeye | 283579 | [283579-popeye.json](./283579-popeye.json) |
 | Popeye | 38310 | [38310-popeye.json](./38310-popeye.json) |
 | Popeye | 4619 | [4619-popeye.json](./4619-popeye.json) |
 | Popeye 2 | 12593 | [12593-popeye-2.json](./12593-popeye-2.json) |
@@ -11683,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
+| Project Madras | 283567 | [283567-project-madras.json](./283567-project-madras.json) |
 | Project Malice | 220660 | [220660-project-malice.json](./220660-project-malice.json) |
 | Project Mansion | 317605 | [317605-project-mansion.json](./317605-project-mansion.json) |
 | Project Martians | 165698 | [165698-project-martians.json](./165698-project-martians.json) |
