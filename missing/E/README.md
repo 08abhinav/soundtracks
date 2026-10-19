@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
+| Elysium Trials | 257801 | [257801-elysium-trials.json](./257801-elysium-trials.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
 | Elysium: Blood Games | 33828 | [33828-elysium-blood-games.json](./33828-elysium-blood-games.json) |
 | Elysium: Blue Den Mansion | 410488 | [410488-elysium-blue-den-mansion.json](./410488-elysium-blue-den-mansion.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enid | 247418 | [247418-enid.json](./247418-enid.json) |
 | Enigma | 127886 | [127886-enigma.json](./127886-enigma.json) |
 | Enigma | 241344 | [241344-enigma.json](./241344-enigma.json) |
+| Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
