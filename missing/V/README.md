@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
 | Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
+| Volcanic Bird: Bird Quest | 278883 | [278883-volcanic-bird-bird-quest.json](./278883-volcanic-bird-bird-quest.json) |
 | Volcanic Blocks | 108335 | [108335-volcanic-blocks.json](./108335-volcanic-blocks.json) |
 | Volcanic Blocks | 146918 | [146918-volcanic-blocks.json](./146918-volcanic-blocks.json) |
 | Volcanic Field 2 | 85477 | [85477-volcanic-field-2.json](./85477-volcanic-field-2.json) |
