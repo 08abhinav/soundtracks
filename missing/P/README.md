@@ -8575,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkén Tournament DX | 36794 | [36794-pokken-tournament-dx.json](./36794-pokken-tournament-dx.json) |
 | Pokkén Tournament DX + Pokkén Tournament DX: Battle Pack | 237897 | [237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json](./237897-pokken-tournament-dx-pokken-tournament-dx-battle-pack.json) |
 | Pokkén Tournament DX: Battle Pack | 237933 | [237933-pokken-tournament-dx-battle-pack.json](./237933-pokken-tournament-dx-battle-pack.json) |
+| Pokkén Tournament: Update Ver.A14 | 300363 | [300363-pokken-tournament-update-ver-a14.json](./300363-pokken-tournament-update-ver-a14.json) |
 | Pokkén Tournament: Update Ver.C07 | 300366 | [300366-pokken-tournament-update-ver-c07.json](./300366-pokken-tournament-update-ver-c07.json) |
 | Pokkén Tournament: Update Ver.N01 | 300364 | [300364-pokken-tournament-update-ver-n01.json](./300364-pokken-tournament-update-ver-n01.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
@@ -9448,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Balls | 325880 | [325880-portal-balls.json](./325880-portal-balls.json) |
 | Portal Brawlers | 310746 | [310746-portal-brawlers.json](./310746-portal-brawlers.json) |
 | Portal Defect | 155383 | [155383-portal-defect.json](./155383-portal-defect.json) |
+| Portal Defenders | 300449 | [300449-portal-defenders.json](./300449-portal-defenders.json) |
 | Portal Defense | 207516 | [207516-portal-defense.json](./207516-portal-defense.json) |
 | Portal done Half-Life Source | 323554 | [323554-portal-done-half-life-source.json](./323554-portal-done-half-life-source.json) |
 | Portal Dungeon: Character Pack - Duck | 275719 | [275719-portal-dungeon-character-pack-duck.json](./275719-portal-dungeon-character-pack-duck.json) |
@@ -10355,6 +10357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preventive Strike | 75194 | [75194-preventive-strike.json](./75194-preventive-strike.json) |
 | Previous Tenant | 152208 | [152208-previous-tenant.json](./152208-previous-tenant.json) |
 | Prey 2 | 525 | [525-prey-2.json](./525-prey-2.json) |
+| Prey at the Altar | 300360 | [300360-prey-at-the-altar.json](./300360-prey-at-the-altar.json) |
 | Prey Invasion | 67860 | [67860-prey-invasion.json](./67860-prey-invasion.json) |
 | Prey of the Night | 325626 | [325626-prey-of-the-night.json](./325626-prey-of-the-night.json) |
 | Prey the Stars | 21337 | [21337-prey-the-stars.json](./21337-prey-the-stars.json) |
