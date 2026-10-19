@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
+| Scott Pilgrim Versus | 278300 | [278300-scott-pilgrim-versus.json](./278300-scott-pilgrim-versus.json) |
 | Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
 | Scott Pilgrim vs. the World. The Game - Wallace Wells Pack | 165492 | [165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json](./165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json) |
 | Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
@@ -5912,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shhh! | 278288 | [278288-shhh.json](./278288-shhh.json) |
 | Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
 | Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
@@ -22047,6 +22049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
 | Summoneer | 285556 | [285556-summoneer.json](./285556-summoneer.json) |
 | Summoner Apprentice | 158572 | [158572-summoner-apprentice.json](./158572-summoner-apprentice.json) |
+| Summoner of Greats | 278278 | [278278-summoner-of-greats.json](./278278-summoner-of-greats.json) |
 | Summoner Rises | 308904 | [308904-summoner-rises.json](./308904-summoner-rises.json) |
 | Summoner Symbols | 316802 | [316802-summoner-symbols.json](./316802-summoner-symbols.json) |
 | Summoner Tale | 379626 | [379626-summoner-tale.json](./379626-summoner-tale.json) |
@@ -26073,6 +26076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Maker | 191095 | [191095-sword-maker.json](./191095-sword-maker.json) |
 | Sword Man - Monster Hunter | 107026 | [107026-sword-man-monster-hunter.json](./107026-sword-man-monster-hunter.json) |
 | Sword Mans | 90211 | [90211-sword-mans.json](./90211-sword-mans.json) |
+| Sword Master | 278303 | [278303-sword-master.json](./278303-sword-master.json) |
 | Sword Master | 69900 | [69900-sword-master.json](./69900-sword-master.json) |
 | Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
