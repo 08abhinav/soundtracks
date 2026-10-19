@@ -743,6 +743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
+| Sales Employee Takeru-Kun | 298358 | [298358-sales-employee-takeru-kun.json](./298358-sales-employee-takeru-kun.json) |
 | Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
@@ -2617,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap City | 100686 | [100686-scrap-city.json](./100686-scrap-city.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
+| Scrap Collector | 298457 | [298457-scrap-collector.json](./298457-scrap-collector.json) |
 | Scrap Dealer Simulator | 334136 | [334136-scrap-dealer-simulator.json](./334136-scrap-dealer-simulator.json) |
 | Scrap Divers | 334102 | [334102-scrap-divers.json](./334102-scrap-divers.json) |
 | Scrap Galaxy | 75021 | [75021-scrap-galaxy.json](./75021-scrap-galaxy.json) |
@@ -2760,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll of Life | 192391 | [192391-scroll-of-life.json](./192391-scroll-of-life.json) |
 | Scroll of Onmyoji | 303186 | [303186-scroll-of-onmyoji.json](./303186-scroll-of-onmyoji.json) |
 | Scroll Scramble | 240680 | [240680-scroll-scramble.json](./240680-scroll-scramble.json) |
+| Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -3142,6 +3145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaside Special | 47199 | [47199-seaside-special.json](./47199-seaside-special.json) |
 | SeaSkulls | 176260 | [176260-seaskulls.json](./176260-seaskulls.json) |
 | Season 31 | 370675 | [370675-season-31.json](./370675-season-31.json) |
+| Season Changer | 298363 | [298363-season-changer.json](./298363-season-changer.json) |
 | Season Island | 340575 | [340575-season-island.json](./340575-season-island.json) |
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
@@ -18865,6 +18869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal a Monke | 370849 | [370849-steal-a-monke.json](./370849-steal-a-monke.json) |
 | Steal Deal | 301095 | [301095-steal-deal.json](./301095-steal-deal.json) |
 | Steal It | 241533 | [241533-steal-it.json](./241533-steal-it.json) |
+| Steal It | 298455 | [298455-steal-it.json](./298455-steal-it.json) |
 | Steal My Artificial Heart | 9516 | [9516-steal-my-artificial-heart.json](./9516-steal-my-artificial-heart.json) |
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
 | Steal Santa's Pills | 383720 | [383720-steal-santas-pills.json](./383720-steal-santas-pills.json) |
