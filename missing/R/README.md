@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
+| Railbreak: Extra Cheese Collection | 284762 | [284762-railbreak-extra-cheese-collection.json](./284762-railbreak-extra-cheese-collection.json) |
 | Railbreak: Neon Carnage Collection | 331406 | [331406-railbreak-neon-carnage-collection.json](./331406-railbreak-neon-carnage-collection.json) |
 | Raildale | 101002 | [101002-raildale.json](./101002-raildale.json) |
 | Railed | 112862 | [112862-railed.json](./112862-railed.json) |
