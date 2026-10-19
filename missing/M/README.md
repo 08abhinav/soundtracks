@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Fight | 420484 | [420484-mage-fight.json](./420484-mage-fight.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
+| Mage Guild | 285341 | [285341-mage-guild.json](./285341-mage-guild.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
 | Mage Hunters | 153315 | [153315-mage-hunters.json](./153315-mage-hunters.json) |
 | Mage Knight: Apocalypse | 20588 | [20588-mage-knight-apocalypse.json](./20588-mage-knight-apocalypse.json) |
@@ -6777,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
 | Mercenary Guild Manager | 420500 | [420500-mercenary-guild-manager.json](./420500-mercenary-guild-manager.json) |
 | Mercenary Ops | 65175 | [65175-mercenary-ops.json](./65175-mercenary-ops.json) |
+| Mercenary Squad Auto Chess | 285366 | [285366-mercenary-squad-auto-chess.json](./285366-mercenary-squad-auto-chess.json) |
 | Mercenary Tactics | 310800 | [310800-mercenary-tactics.json](./310800-mercenary-tactics.json) |
 | Mercenary: The Second City | 15500 | [15500-mercenary-the-second-city.json](./15500-mercenary-the-second-city.json) |
 | Mercforce: 30X1 | 120380 | [120380-mercforce-30x1.json](./120380-mercforce-30x1.json) |
@@ -8608,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkSnake: Torus Edition | 99573 | [99573-milksnake-torus-edition.json](./99573-milksnake-torus-edition.json) |
 | MilkTea Time | 373150 | [373150-milktea-time.json](./373150-milktea-time.json) |
 | Milkteeth | 369454 | [369454-milkteeth.json](./369454-milkteeth.json) |
+| MilkwaySubway | 285323 | [285323-milkwaysubway.json](./285323-milkwaysubway.json) |
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
@@ -8891,6 +8894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindhive: Wilds | 341164 | [341164-mindhive-wilds.json](./341164-mindhive-wilds.json) |
 | MindHunt | 223101 | [223101-mindhunt.json](./223101-mindhunt.json) |
 | MindJack | 7072 | [7072-mindjack.json](./7072-mindjack.json) |
+| MindKatt | 285334 | [285334-mindkatt.json](./285334-mindkatt.json) |
 | Mindless | 153001 | [153001-mindless.json](./153001-mindless.json) |
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
