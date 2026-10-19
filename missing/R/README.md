@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randomish Races | 144027 | [144027-randomish-races.json](./144027-randomish-races.json) |
 | Randomlands | 156602 | [156602-randomlands.json](./156602-randomlands.json) |
 | Randompunk 2077 | 182773 | [182773-randompunk-2077.json](./182773-randompunk-2077.json) |
+| Randoseru Shougakkou 1-nensei | 289754 | [289754-randoseru-shougakkou-1-nensei.json](./289754-randoseru-shougakkou-1-nensei.json) |
 | Randotura | 325694 | [325694-randotura.json](./325694-randotura.json) |
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
@@ -6920,6 +6921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 12 | 265236 | [265236-rocket-league-season-12.json](./265236-rocket-league-season-12.json) |
 | Rocket League: Season 13 Elite Pack | 280726 | [280726-rocket-league-season-13-elite-pack.json](./280726-rocket-league-season-13-elite-pack.json) |
 | Rocket League: Season 13 Rookie Pack | 280727 | [280727-rocket-league-season-13-rookie-pack.json](./280727-rocket-league-season-13-rookie-pack.json) |
+| Rocket League: Season 14 | 289753 | [289753-rocket-league-season-14.json](./289753-rocket-league-season-14.json) |
 | Rocket League: Season 15 | 305787 | [305787-rocket-league-season-15.json](./305787-rocket-league-season-15.json) |
 | Rocket League: Season 15 Rookie Pack | 326039 | [326039-rocket-league-season-15-rookie-pack.json](./326039-rocket-league-season-15-rookie-pack.json) |
 | Rocket League: Season 16 | 316170 | [316170-rocket-league-season-16.json](./316170-rocket-league-season-16.json) |
