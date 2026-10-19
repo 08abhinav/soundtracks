@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
+| Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
 | Laza Knitez!! | 134513 | [134513-laza-knitez.json](./134513-laza-knitez.json) |
 | Lazaret | 211740 | [211740-lazaret.json](./211740-lazaret.json) |
 | Lazaretto | 36454 | [36454-lazaretto.json](./36454-lazaretto.json) |
@@ -2859,6 +2860,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
 | Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
+| Lethal Weapon | 306176 | [306176-lethal-weapon.json](./306176-lethal-weapon.json) |
+| Lethal Weapon | 306179 | [306179-lethal-weapon.json](./306179-lethal-weapon.json) |
+| Lethal Weapon | 306182 | [306182-lethal-weapon.json](./306182-lethal-weapon.json) |
+| Lethal Weapon | 306183 | [306183-lethal-weapon.json](./306183-lethal-weapon.json) |
+| Lethal Weapon | 306185 | [306185-lethal-weapon.json](./306185-lethal-weapon.json) |
 | Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
@@ -2958,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level 22: Gary's Misadventures | 33844 | [33844-level-22-garys-misadventures.json](./33844-level-22-garys-misadventures.json) |
 | Level 24 | 175232 | [175232-level-24.json](./175232-level-24.json) |
 | Level 5 | 94001 | [94001-level-5.json](./94001-level-5.json) |
+| Level Age ni Sugoku Choudo Ii Shima | 306233 | [306233-level-age-ni-sugoku-choudo-ii-shima.json](./306233-level-age-ni-sugoku-choudo-ii-shima.json) |
 | Level Crossing | 92088 | [92088-level-crossing.json](./92088-level-crossing.json) |
 | Level Devil | 279687 | [279687-level-devil.json](./279687-level-devil.json) |
 | Level Down | 133828 | [133828-level-down.json](./133828-level-down.json) |
@@ -3010,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewd Delivery | 235352 | [235352-lewd-delivery.json](./235352-lewd-delivery.json) |
 | Lewd Guest | 215643 | [215643-lewd-guest.json](./215643-lewd-guest.json) |
 | Lewd Gym | 207337 | [207337-lewd-gym.json](./207337-lewd-gym.json) |
+| Lewd Hentai Puzzle | 306241 | [306241-lewd-hentai-puzzle.json](./306241-lewd-hentai-puzzle.json) |
 | Lewd Island | 385875 | [385875-lewd-island.json](./385875-lewd-island.json) |
 | Lewd Mod 2 | 356871 | [356871-lewd-mod-2.json](./356871-lewd-mod-2.json) |
 | Lewd Mod XXXmas | 358636 | [358636-lewd-mod-xxxmas.json](./358636-lewd-mod-xxxmas.json) |
@@ -5129,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lokapala | 224018 | [224018-lokapala.json](./224018-lokapala.json) |
 | Loki | 19358 | [19358-loki.json](./19358-loki.json) |
 | Loki the Lynx | 364499 | [364499-loki-the-lynx.json](./364499-loki-the-lynx.json) |
+| Loki's Minions Capture the Flag | 306187 | [306187-lokis-minions-capture-the-flag.json](./306187-lokis-minions-capture-the-flag.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
@@ -6339,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is... in Bloom | 51160 | [51160-love-is-in-bloom.json](./51160-love-is-in-bloom.json) |
 | Love is… in Small Things | 200441 | [200441-love-is-in-small-things.json](./200441-love-is-in-small-things.json) |
 | Love Island | 303636 | [303636-love-island.json](./303636-love-island.json) |
+| Love Island | 306234 | [306234-love-island.json](./306234-love-island.json) |
 | Love Island: Forbidden Boys Temptation | 406063 | [406063-love-island-forbidden-boys-temptation.json](./406063-love-island-forbidden-boys-temptation.json) |
 | Love Island: Forbidden Girls Temptation | 407285 | [407285-love-island-forbidden-girls-temptation.json](./407285-love-island-forbidden-girls-temptation.json) |
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
