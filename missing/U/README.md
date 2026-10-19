@@ -2460,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UpTogether.io | 278320 | [278320-uptogether-io.json](./278320-uptogether-io.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | UptownRanger's Halloween | 314101 | [314101-uptownrangers-halloween.json](./314101-uptownrangers-halloween.json) |
+| UpUp: Frozen Adventure | 257786 | [257786-upup-frozen-adventure.json](./257786-upup-frozen-adventure.json) |
 | UpUpUp | 310810 | [310810-upupup.json](./310810-upupup.json) |
 | Upventure | 56495 | [56495-upventure.json](./56495-upventure.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
