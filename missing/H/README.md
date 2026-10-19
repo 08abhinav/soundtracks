@@ -442,6 +442,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Loop | 221797 | [221797-half-life-loop.json](./221797-half-life-loop.json) |
 | Half-Life: Military Duty | 222314 | [222314-half-life-military-duty.json](./222314-half-life-military-duty.json) |
 | Half-Life: Mission of Mercy | 248300 | [248300-half-life-mission-of-mercy.json](./248300-half-life-mission-of-mercy.json) |
+| Half-Life: MMod - Uplink | 259980 | [259980-half-life-mmod-uplink.json](./259980-half-life-mmod-uplink.json) |
+| Half-Life: MMod - USS Darkstar | 259979 | [259979-half-life-mmod-uss-darkstar.json](./259979-half-life-mmod-uss-darkstar.json) |
 | Half-Life: Operation Rift | 221881 | [221881-half-life-operation-rift.json](./221881-half-life-operation-rift.json) |
 | Half-Life: Operation Rosenberg | 221905 | [221905-half-life-operation-rosenberg.json](./221905-half-life-operation-rosenberg.json) |
 | Half-Life: Peaces Like Us | 221213 | [221213-half-life-peaces-like-us.json](./221213-half-life-peaces-like-us.json) |
@@ -4915,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
+| Hexlords: Quantum Warfare | 259998 | [259998-hexlords-quantum-warfare.json](./259998-hexlords-quantum-warfare.json) |
 | Hexmas Community Project | 268880 | [268880-hexmas-community-project.json](./268880-hexmas-community-project.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
@@ -8782,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Flame | 29579 | [29579-hungry-flame.json](./29579-hungry-flame.json) |
 | Hungry Fox | 181393 | [181393-hungry-fox.json](./181393-hungry-fox.json) |
 | Hungry Frog | 183335 | [183335-hungry-frog.json](./183335-hungry-frog.json) |
+| Hungry Froo | 259976 | [259976-hungry-froo.json](./259976-hungry-froo.json) |
 | Hungry Ghosts | 43433 | [43433-hungry-ghosts.json](./43433-hungry-ghosts.json) |
 | Hungry Giraffe | 20808 | [20808-hungry-giraffe.json](./20808-hungry-giraffe.json) |
 | Hungry Hearts Diner 2: Moonlit Memories | 172603 | [172603-hungry-hearts-diner-2-moonlit-memories.json](./172603-hungry-hearts-diner-2-moonlit-memories.json) |
