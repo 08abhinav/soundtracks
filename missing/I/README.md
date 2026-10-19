@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immunity | 126402 | [126402-immunity.json](./126402-immunity.json) |
 | Immunity of Sensibility | 184335 | [184335-immunity-of-sensibility.json](./184335-immunity-of-sensibility.json) |
 | Immunity Protocol | 401625 | [401625-immunity-protocol.json](./401625-immunity-protocol.json) |
+| Immunity Wars | 305631 | [305631-immunity-wars.json](./305631-immunity-wars.json) |
 | Immure | 107517 | [107517-immure.json](./107517-immure.json) |
 | Immure: Part Two | 167302 | [167302-immure-part-two.json](./167302-immure-part-two.json) |
 | IMob | 92690 | [92690-imob.json](./92690-imob.json) |
