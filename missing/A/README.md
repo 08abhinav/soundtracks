@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A Space for the Unbound | 110039 | [110039-a-space-for-the-unbound.json](./110039-a-space-for-the-unbound.json) |
+| A Space for the Unbound: Special Edition | 283586 | [283586-a-space-for-the-unbound-special-edition.json](./283586-a-space-for-the-unbound-special-edition.json) |
 | A Spaceman Came Travelling | 177444 | [177444-a-spaceman-came-travelling.json](./177444-a-spaceman-came-travelling.json) |
 | A Spider to A Fly | 280336 | [280336-a-spider-to-a-fly.json](./280336-a-spider-to-a-fly.json) |
 | A Spiritual Adventure | 386911 | [386911-a-spiritual-adventure.json](./386911-a-spiritual-adventure.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame no Marginal -Rain Marginal- | 35747 | [35747-ame-no-marginal-rain-marginal.json](./35747-ame-no-marginal-rain-marginal.json) |
 | Ame no Tokyo Eki | 286662 | [286662-ame-no-tokyo-eki.json](./286662-ame-no-tokyo-eki.json) |
 | Ame Nochi Hare Onna | 418300 | [418300-ame-nochi-hare-onna.json](./418300-ame-nochi-hare-onna.json) |
+| Ame's Happy Happy Dating Game | 283603 | [283603-ames-happy-happy-dating-game.json](./283603-ames-happy-happy-dating-game.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
 | Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
@@ -6374,6 +6376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
+| AMQ: The (Actual) Game | 283613 | [283613-amq-the-actual-game.json](./283613-amq-the-actual-game.json) |
 | AMR is for amour and also for the 12.7MM anti-material rifle + Planet X | 350539 | [350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json](./350539-amr-is-for-amour-and-also-for-the-12-7mm-anti-material-rifle-planet-x.json) |
 | AMSCII Invasor | 307171 | [307171-amscii-invasor.json](./307171-amscii-invasor.json) |
 | AMseven | 336390 | [336390-amseven.json](./336390-amseven.json) |
@@ -7818,6 +7821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Way Out | 316762 | [316762-another-way-out.json](./316762-another-way-out.json) |
 | Another World | 176847 | [176847-another-world.json](./176847-another-world.json) |
 | Another World | 252601 | [252601-another-world.json](./252601-another-world.json) |
+| Another World | 283618 | [283618-another-world.json](./283618-another-world.json) |
 | Another World | 343435 | [343435-another-world.json](./343435-another-world.json) |
 | Another World | 343437 | [343437-another-world.json](./343437-another-world.json) |
 | Another World | 343679 | [343679-another-world.json](./343679-another-world.json) |
@@ -11258,6 +11262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteria | 17536 | [17536-asteria.json](./17536-asteria.json) |
 | Asteria: Fate of the Fallen | 411530 | [411530-asteria-fate-of-the-fallen.json](./411530-asteria-fate-of-the-fallen.json) |
 | Asterigos: Curse of the Stars - Call of the Paragons | 224114 | [224114-asterigos-curse-of-the-stars-call-of-the-paragons.json](./224114-asterigos-curse-of-the-stars-call-of-the-paragons.json) |
+| Asterigos: Curse of the Stars - Collectors Edition | 283589 | [283589-asterigos-curse-of-the-stars-collectors-edition.json](./283589-asterigos-curse-of-the-stars-collectors-edition.json) |
 | Asterika: Phantom Rose Refrain | 342606 | [342606-asterika-phantom-rose-refrain.json](./342606-asterika-phantom-rose-refrain.json) |
 | Asterisk | 390189 | [390189-asterisk.json](./390189-asterisk.json) |
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
@@ -11287,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterix & Obelix: Kick Buttix | 3789 | [3789-asterix-and-obelix-kick-buttix.json](./3789-asterix-and-obelix-kick-buttix.json) |
 | Asterix & Obelix: Slap Them All! - Collector's Edition | 159208 | [159208-asterix-and-obelix-slap-them-all-collectors-edition.json](./159208-asterix-and-obelix-slap-them-all-collectors-edition.json) |
 | Asterix & Obelix: Slap Them All! 1+2 | 305494 | [305494-asterix-and-obelix-slap-them-all-1-2.json](./305494-asterix-and-obelix-slap-them-all-1-2.json) |
+| Asterix & Obelix: Slap Them All! 2 - Gold Edition | 283588 | [283588-asterix-and-obelix-slap-them-all-2-gold-edition.json](./283588-asterix-and-obelix-slap-them-all-2-gold-edition.json) |
 | Asterix and Caesar's Challenge | 223048 | [223048-asterix-and-caesars-challenge.json](./223048-asterix-and-caesars-challenge.json) |
 | Astérix and the Great Rescue | 8501 | [8501-asterix-and-the-great-rescue.json](./8501-asterix-and-the-great-rescue.json) |
 | Asterix and the Magic Carpet | 14272 | [14272-asterix-and-the-magic-carpet.json](./14272-asterix-and-the-magic-carpet.json) |
@@ -12830,6 +12836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Superstar | 20120 | [20120-avatar-superstar.json](./20120-avatar-superstar.json) |
 | Avatar Warfare! | 59778 | [59778-avatar-warfare.json](./59778-avatar-warfare.json) |
 | Avatar: Frontiers of Pandora - Complete Edition | 392391 | [392391-avatar-frontiers-of-pandora-complete-edition.json](./392391-avatar-frontiers-of-pandora-complete-edition.json) |
+| Avatar: Frontiers of Pandora - Deluxe Edition | 283590 | [283590-avatar-frontiers-of-pandora-deluxe-edition.json](./283590-avatar-frontiers-of-pandora-deluxe-edition.json) |
 | Avatar: Frontiers of Pandora - From the Ashes | 371949 | [371949-avatar-frontiers-of-pandora-from-the-ashes.json](./371949-avatar-frontiers-of-pandora-from-the-ashes.json) |
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
