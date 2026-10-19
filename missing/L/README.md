@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
 | Lion Pig: Frozen Run | 259238 | [259238-lion-pig-frozen-run.json](./259238-lion-pig-frozen-run.json) |
 | Lion Quest Infinity | 157519 | [157519-lion-quest-infinity.json](./157519-lion-quest-infinity.json) |
+| Lion Simulator Survival: RPG Animal Battle | 284782 | [284782-lion-simulator-survival-rpg-animal-battle.json](./284782-lion-simulator-survival-rpg-animal-battle.json) |
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
