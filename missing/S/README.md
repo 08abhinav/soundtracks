@@ -5608,6 +5608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Haven | 9407 | [9407-shattered-haven.json](./9407-shattered-haven.json) |
 | Shattered Hourglass | 133422 | [133422-shattered-hourglass.json](./133422-shattered-hourglass.json) |
 | Shattered Kingdoms | 229137 | [229137-shattered-kingdoms.json](./229137-shattered-kingdoms.json) |
+| Shattered Kingdoms | 285335 | [285335-shattered-kingdoms.json](./285335-shattered-kingdoms.json) |
 | Shattered Lands | 346660 | [346660-shattered-lands.json](./346660-shattered-lands.json) |
 | Shattered Lands: Towers of Perdition | 228386 | [228386-shattered-lands-towers-of-perdition.json](./228386-shattered-lands-towers-of-perdition.json) |
 | Shattered Legion | 180108 | [180108-shattered-legion.json](./180108-shattered-legion.json) |
@@ -10773,6 +10774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
 | Snake Classic 3D Reborn | 384323 | [384323-snake-classic-3d-reborn.json](./384323-snake-classic-3d-reborn.json) |
+| Snake Colors: Slithering Game | 285336 | [285336-snake-colors-slithering-game.json](./285336-snake-colors-slithering-game.json) |
 | Snake Core | 132783 | [132783-snake-core.json](./132783-snake-core.json) |
 | Snake Couple | 334805 | [334805-snake-couple.json](./334805-snake-couple.json) |
 | Snake Crash 2: Snake Rush | 100796 | [100796-snake-crash-2-snake-rush.json](./100796-snake-crash-2-snake-rush.json) |
