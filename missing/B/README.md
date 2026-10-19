@@ -2491,6 +2491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Returns | 343294 | [343294-batman-returns.json](./343294-batman-returns.json) |
 | Batman Returns | 4379 | [4379-batman-returns.json](./4379-batman-returns.json) |
 | Batman Saw Game | 285856 | [285856-batman-saw-game.json](./285856-batman-saw-game.json) |
+| Batman the rooftop caper | 283578 | [283578-batman-the-rooftop-caper.json](./283578-batman-the-rooftop-caper.json) |
 | Batman v Superman: Who Will Win | 76554 | [76554-batman-v-superman-who-will-win.json](./76554-batman-v-superman-who-will-win.json) |
 | Batman: Arkham Asylum | 240487 | [240487-batman-arkham-asylum.json](./240487-batman-arkham-asylum.json) |
 | Batman: Arkham Asylum | 240941 | [240941-batman-arkham-asylum.json](./240941-batman-arkham-asylum.json) |
@@ -2683,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Checkers: Infinity War | 193959 | [193959-battle-checkers-infinity-war.json](./193959-battle-checkers-infinity-war.json) |
 | Battle Cheese | 78382 | [78382-battle-cheese.json](./78382-battle-cheese.json) |
 | Battle Chef Brigade Deluxe | 111825 | [111825-battle-chef-brigade-deluxe.json](./111825-battle-chef-brigade-deluxe.json) |
+| Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
@@ -11077,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Nine: World Billiards Tournament | 5755 | [5755-break-nine-world-billiards-tournament.json](./5755-break-nine-world-billiards-tournament.json) |
 | Break of Dawn | 420475 | [420475-break-of-dawn.json](./420475-break-of-dawn.json) |
 | Break Out | 404795 | [404795-break-out.json](./404795-break-out.json) |
+| Break Out Kangel | 283605 | [283605-break-out-kangel.json](./283605-break-out-kangel.json) |
 | Break Pattern | 211458 | [211458-break-pattern.json](./211458-break-pattern.json) |
 | Break Point | 257351 | [257351-break-point.json](./257351-break-point.json) |
 | Break Point | 337697 | [337697-break-point.json](./337697-break-point.json) |
@@ -12581,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Heli | 176463 | [176463-bullet-heli.json](./176463-bullet-heli.json) |
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
+| Bullet Hell Collection: Volume 1 | 283596 | [283596-bullet-hell-collection-volume-1.json](./283596-bullet-hell-collection-volume-1.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Inferno | 368494 | [368494-bullet-inferno.json](./368494-bullet-inferno.json) |
 | Bullet Life 2010 | 32641 | [32641-bullet-life-2010.json](./32641-bullet-life-2010.json) |
