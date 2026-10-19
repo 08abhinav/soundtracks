@@ -3988,6 +3988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 9th Day | 32824 | [32824-the-9th-day.json](./32824-the-9th-day.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
+| The A-Team | 300553 | [300553-the-a-team.json](./300553-the-a-team.json) |
 | The A.Typical RPG | 125185 | [125185-the-a-typical-rpg.json](./125185-the-a-typical-rpg.json) |
 | The A500 Mini | 275245 | [275245-the-a500-mini.json](./275245-the-a500-mini.json) |
 | The Abandoned Factory | 276396 | [276396-the-abandoned-factory.json](./276396-the-abandoned-factory.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Sassanelli | 258615 | [258615-the-great-sassanelli.json](./258615-the-great-sassanelli.json) |
 | The Great Smog | 244752 | [244752-the-great-smog.json](./244752-the-great-smog.json) |
 | The Great Song | 179170 | [179170-the-great-song.json](./179170-the-great-song.json) |
+| The Great Space Race | 300555 | [300555-the-great-space-race.json](./300555-the-great-space-race.json) |
 | The Great Stroke-Off! | 73311 | [73311-the-great-stroke-off.json](./73311-the-great-stroke-off.json) |
 | The Great Tournament | 86758 | [86758-the-great-tournament.json](./86758-the-great-tournament.json) |
 | The Great Tournament 2 | 86759 | [86759-the-great-tournament-2.json](./86759-the-great-tournament-2.json) |
@@ -11048,6 +11050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price of Parking | 417580 | [417580-the-price-of-parking.json](./417580-the-price-of-parking.json) |
 | The Prime MoVR | 76659 | [76659-the-prime-movr.json](./76659-the-prime-movr.json) |
 | The Primordial World | 147121 | [147121-the-primordial-world.json](./147121-the-primordial-world.json) |
+| The Primrose Path | 300362 | [300362-the-primrose-path.json](./300362-the-primrose-path.json) |
 | The Primrose Theater | 335860 | [335860-the-primrose-theater.json](./335860-the-primrose-theater.json) |
 | The Prince Edward | 256314 | [256314-the-prince-edward.json](./256314-the-prince-edward.json) |
 | The Prince is a 10, But... | 395850 | [395850-the-prince-is-a-10-but.json](./395850-the-prince-is-a-10-but.json) |
@@ -12983,6 +12986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
 | The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
+| The Tibble Super Action Challenge | 300543 | [300543-the-tibble-super-action-challenge.json](./300543-the-tibble-super-action-challenge.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
 | The Tickle People | 383047 | [383047-the-tickle-people.json](./383047-the-tickle-people.json) |
@@ -23476,6 +23480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
 | Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
+| Tubedle | 300436 | [300436-tubedle.json](./300436-tubedle.json) |
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubetastic World Splashfest | 117491 | [117491-tubetastic-world-splashfest.json](./117491-tubetastic-world-splashfest.json) |
