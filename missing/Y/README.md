@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah Yeah Beebiss II | 187861 | [187861-yeah-yeah-beebiss-ii.json](./187861-yeah-yeah-beebiss-ii.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! | 257267 | [257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json](./257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json) |
+| Year 2088 | 276094 | [276094-year-2088.json](./276094-year-2088.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
