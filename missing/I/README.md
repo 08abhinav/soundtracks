@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion of the Zombie Monsters | 197857 | [197857-invasion-of-the-zombie-monsters.json](./197857-invasion-of-the-zombie-monsters.json) |
 | Invasion Omega | 339899 | [339899-invasion-omega.json](./339899-invasion-omega.json) |
 | Invasion Rush | 295077 | [295077-invasion-rush.json](./295077-invasion-rush.json) |
+| Invasion To Cane | 275469 | [275469-invasion-to-cane.json](./275469-invasion-to-cane.json) |
 | Invasion UAC | 257528 | [257528-invasion-uac.json](./257528-invasion-uac.json) |
 | Invasion VS | 58640 | [58640-invasion-vs.json](./58640-invasion-vs.json) |
 | Invasion Waves | 200578 | [200578-invasion-waves.json](./200578-invasion-waves.json) |
