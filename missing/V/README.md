@@ -2177,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visceral Abyss | 379104 | [379104-visceral-abyss.json](./379104-visceral-abyss.json) |
 | Visceral Cubes | 96462 | [96462-visceral-cubes.json](./96462-visceral-cubes.json) |
 | Visceratum | 132696 | [132696-visceratum.json](./132696-visceratum.json) |
+| Visco Collection | 267789 | [267789-visco-collection.json](./267789-visco-collection.json) |
 | Viscous Realms | 269103 | [269103-viscous-realms.json](./269103-viscous-realms.json) |
 | Vise | 417473 | [417473-vise.json](./417473-vise.json) |
 | Visible Solar System | 125824 | [125824-visible-solar-system.json](./125824-visible-solar-system.json) |
