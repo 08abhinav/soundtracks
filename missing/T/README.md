@@ -3280,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator 2: Judgment Day | 307082 | [307082-terminator-2-judgment-day.json](./307082-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 45346 | [45346-terminator-2-judgment-day.json](./45346-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day - Chess Wars | 14557 | [14557-terminator-2-judgment-day-chess-wars.json](./14557-terminator-2-judgment-day-chess-wars.json) |
+| Terminator 2: Judgment Game | 280650 | [280650-terminator-2-judgment-game.json](./280650-terminator-2-judgment-game.json) |
 | Terminator 3: Rise of the Machines | 6196 | [6196-terminator-3-rise-of-the-machines.json](./6196-terminator-3-rise-of-the-machines.json) |
 | Terminator Salvation | 142768 | [142768-terminator-salvation.json](./142768-terminator-salvation.json) |
 | Terminator: Dark Fate | 287867 | [287867-terminator-dark-fate.json](./287867-terminator-dark-fate.json) |
@@ -4433,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
 | The Artifacts of Marvelous Birds | 278627 | [278627-the-artifacts-of-marvelous-birds.json](./278627-the-artifacts-of-marvelous-birds.json) |
 | The Artisan of Glimmith | 383145 | [383145-the-artisan-of-glimmith.json](./383145-the-artisan-of-glimmith.json) |
+| The Artist Colors | 280630 | [280630-the-artist-colors.json](./280630-the-artist-colors.json) |
 | The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
 | The Arys Expedition: Special Edition | 53714 | [53714-the-arys-expedition-special-edition.json](./53714-the-arys-expedition-special-edition.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
@@ -10268,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monstrous Horror Show | 213421 | [213421-the-monstrous-horror-show.json](./213421-the-monstrous-horror-show.json) |
 | The Montana Chronicles: Montana's Croatoa | 46472 | [46472-the-montana-chronicles-montanas-croatoa.json](./46472-the-montana-chronicles-montanas-croatoa.json) |
 | The Month After | 302440 | [302440-the-month-after.json](./302440-the-month-after.json) |
+| The Monty Mole Collection | 280628 | [280628-the-monty-mole-collection.json](./280628-the-monty-mole-collection.json) |
 | The Moodsters: Memory Match Game | 326627 | [326627-the-moodsters-memory-match-game.json](./326627-the-moodsters-memory-match-game.json) |
 | The Moogies | 65239 | [65239-the-moogies.json](./65239-the-moogies.json) |
 | The Moon 2044 | 282043 | [282043-the-moon-2044.json](./282043-the-moon-2044.json) |
@@ -14234,6 +14237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The X-Fools: The Spoof Is Out There | 66971 | [66971-the-x-fools-the-spoof-is-out-there.json](./66971-the-x-fools-the-spoof-is-out-there.json) |
 | The Xeno Project | 221659 | [221659-the-xeno-project.json](./221659-the-xeno-project.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
+| The Yakyuken Special | 280652 | [280652-the-yakyuken-special.json](./280652-the-yakyuken-special.json) |
 | The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
 | The Yakyuken: Bodicon | 251082 | [251082-the-yakyuken-bodicon.json](./251082-the-yakyuken-bodicon.json) |
 | The Yakyuken: Bunny Girl | 251080 | [251080-the-yakyuken-bunny-girl.json](./251080-the-yakyuken-bunny-girl.json) |
@@ -17134,6 +17138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timmy's Adventures | 224648 | [224648-timmys-adventures.json](./224648-timmys-adventures.json) |
 | Timmy's adventures : VerbMon | 123550 | [123550-timmys-adventures-verbmon.json](./123550-timmys-adventures-verbmon.json) |
 | Timmy's Nightmare | 149873 | [149873-timmys-nightmare.json](./149873-timmys-nightmare.json) |
+| Timo Boll Beats | 280670 | [280670-timo-boll-beats.json](./280670-timo-boll-beats.json) |
 | Timo the Game | 370911 | [370911-timo-the-game.json](./370911-timo-the-game.json) |
 | Timo-T | 22024 | [22024-timo-t.json](./22024-timo-t.json) |
 | Timo's Adventures | 143708 | [143708-timos-adventures.json](./143708-timos-adventures.json) |
@@ -19433,6 +19438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Pong | 86712 | [86712-touch-pong.json](./86712-touch-pong.json) |
 | Touch Racing Nitro | 42843 | [42843-touch-racing-nitro.json](./42843-touch-racing-nitro.json) |
 | Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
+| Touch Screen Backgammon | 280661 | [280661-touch-screen-backgammon.json](./280661-touch-screen-backgammon.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
@@ -20112,6 +20118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
+| Towers and Survivors | 280678 | [280678-towers-and-survivors.json](./280678-towers-and-survivors.json) |
 | Towers Deck | 232877 | [232877-towers-deck.json](./232877-towers-deck.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
 | Towers II: Plight of the Stargazer | 332668 | [332668-towers-ii-plight-of-the-stargazer.json](./332668-towers-ii-plight-of-the-stargazer.json) |
@@ -21143,6 +21150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Traffic Manager | 276126 | [276126-train-traffic-manager.json](./276126-train-traffic-manager.json) |
 | Train Traffic Manager: Deluxe Edition | 298576 | [298576-train-traffic-manager-deluxe-edition.json](./298576-train-traffic-manager-deluxe-edition.json) |
 | Train Traffic Manager: Diamond Edition | 317244 | [317244-train-traffic-manager-diamond-edition.json](./317244-train-traffic-manager-diamond-edition.json) |
+| Train Traffic Manager: Extended Edition | 280627 | [280627-train-traffic-manager-extended-edition.json](./280627-train-traffic-manager-extended-edition.json) |
 | Train Traffic Manager: Gold Edition | 308794 | [308794-train-traffic-manager-gold-edition.json](./308794-train-traffic-manager-gold-edition.json) |
 | Train Traffic Manager: GOTY Edition | 333728 | [333728-train-traffic-manager-goty-edition.json](./333728-train-traffic-manager-goty-edition.json) |
 | Train Traffic Manager: Prime Edition | 328805 | [328805-train-traffic-manager-prime-edition.json](./328805-train-traffic-manager-prime-edition.json) |
@@ -22042,6 +22050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Patrol: Academic Version | 200434 | [200434-trash-patrol-academic-version.json](./200434-trash-patrol-academic-version.json) |
 | Trash Pit | 197143 | [197143-trash-pit.json](./197143-trash-pit.json) |
 | Trash Poker | 176445 | [176445-trash-poker.json](./176445-trash-poker.json) |
+| Trash Punk | 280626 | [280626-trash-punk.json](./280626-trash-punk.json) |
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
@@ -22655,6 +22664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Spider | 147768 | [147768-tricky-spider.json](./147768-tricky-spider.json) |
 | Tricky Super Mario Bros. U | 281020 | [281020-tricky-super-mario-bros-u.json](./281020-tricky-super-mario-bros-u.json) |
 | Tricky Taps | 276939 | [276939-tricky-taps.json](./276939-tricky-taps.json) |
+| Tricky Taps: Complete Edition | 280625 | [280625-tricky-taps-complete-edition.json](./280625-tricky-taps-complete-edition.json) |
 | Tricky Taps: Paint Power | 276940 | [276940-tricky-taps-paint-power.json](./276940-tricky-taps-paint-power.json) |
 | Tricky Test 2: Genius Brain? | 88863 | [88863-tricky-test-2-genius-brain.json](./88863-tricky-test-2-genius-brain.json) |
 | Tricky Test 2018 | 105794 | [105794-tricky-test-2018.json](./105794-tricky-test-2018.json) |
@@ -22759,6 +22769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
 | Trinity Building Editor | 373843 | [373843-trinity-building-editor.json](./373843-trinity-building-editor.json) |
 | Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
+| Trinity Fusion: Deluxe Edition | 280631 | [280631-trinity-fusion-deluxe-edition.json](./280631-trinity-fusion-deluxe-edition.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
 | Trinity Shells | 328042 | [328042-trinity-shells.json](./328042-trinity-shells.json) |
 | Trinity Town Monastery \| Martial Art and Meditation | 116812 | [116812-trinity-town-monastery-martial-art-and-meditation.json](./116812-trinity-town-monastery-martial-art-and-meditation.json) |
@@ -23123,6 +23134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
+| Trouble Majo Shiken: Kaichou-sama to Tennenkko wa Majo Shimai! Nakadashi Ecchi de Maryoku Hokyuu wo Otetsudai! | 280640 | [280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json](./280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json) |
 | Trouble Makers | 309757 | [309757-trouble-makers.json](./309757-trouble-makers.json) |
 | Trouble of Tabu | 298050 | [298050-trouble-of-tabu.json](./298050-trouble-of-tabu.json) |
 | Trouble on the Way | 394129 | [394129-trouble-on-the-way.json](./394129-trouble-on-the-way.json) |
