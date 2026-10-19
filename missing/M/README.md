@@ -7351,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
+| Meteorus: O Universo em Conflito | 296190 | [296190-meteorus-o-universo-em-conflito.json](./296190-meteorus-o-universo-em-conflito.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
 | Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
@@ -12866,6 +12867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother: Russia | 315095 | [315095-mother-russia.json](./315095-mother-russia.json) |
 | Mother's Eye | 395169 | [395169-mothers-eye.json](./395169-mothers-eye.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
+| Mother's Sword | 296265 | [296265-mothers-sword.json](./296265-mothers-sword.json) |
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
 | Mothercore | 211130 | [211130-mothercore.json](./211130-mothercore.json) |
