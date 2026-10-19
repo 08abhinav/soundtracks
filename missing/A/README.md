@@ -3234,6 +3234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Barbarian Extended Cut | 34473 | [34473-age-of-barbarian-extended-cut.json](./34473-age-of-barbarian-extended-cut.json) |
 | Age of Barbarian Extended Cut: The Slaves' Fortress | 171499 | [171499-age-of-barbarian-extended-cut-the-slaves-fortress.json](./171499-age-of-barbarian-extended-cut-the-slaves-fortress.json) |
 | Age of Barbarians Chronicles | 207506 | [207506-age-of-barbarians-chronicles.json](./207506-age-of-barbarians-chronicles.json) |
+| Age of Bingo: World Tour | 256147 | [256147-age-of-bingo-world-tour.json](./256147-age-of-bingo-world-tour.json) |
 | Age of Blocks | 379516 | [379516-age-of-blocks.json](./379516-age-of-blocks.json) |
 | Age of Booty | 9948 | [9948-age-of-booty.json](./9948-age-of-booty.json) |
 | Age of Booty: Tactics | 61332 | [61332-age-of-booty-tactics.json](./61332-age-of-booty-tactics.json) |
@@ -10804,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascended Realms | 137683 | [137683-ascended-realms.json](./137683-ascended-realms.json) |
 | Ascender | 20346 | [20346-ascender.json](./20346-ascender.json) |
 | Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
+| Ascending Inferno | 256126 | [256126-ascending-inferno.json](./256126-ascending-inferno.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
 | Ascending Realms | 338533 | [338533-ascending-realms.json](./338533-ascending-realms.json) |
