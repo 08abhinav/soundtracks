@@ -4078,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matel Gear II | 267366 | [267366-matel-gear-ii.json](./267366-matel-gear-ii.json) |
 | Matelotes | 415182 | [415182-matelotes.json](./415182-matelotes.json) |
 | Matemágica | 250528 | [250528-matemagica.json](./250528-matemagica.json) |
+| Matematik i Måneby | 300247 | [300247-matematik-i-maneby.json](./300247-matematik-i-maneby.json) |
 | Matematyka Dodawanie i odejmowanie | 318491 | [318491-matematyka-dodawanie-i-odejmowanie.json](./318491-matematyka-dodawanie-i-odejmowanie.json) |
 | Maten Densetsu: Senritsu no Ooparts | 37931 | [37931-maten-densetsu-senritsu-no-ooparts.json](./37931-maten-densetsu-senritsu-no-ooparts.json) |
 | Maten no Soumetsu | 46073 | [46073-maten-no-soumetsu.json](./46073-maten-no-soumetsu.json) |
@@ -14467,6 +14468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutation Nation | 39522 | [39522-mutation-nation.json](./39522-mutation-nation.json) |
 | Mutation of J.B. | 186582 | [186582-mutation-of-j-b.json](./186582-mutation-of-j-b.json) |
 | Mutation Phase | 105093 | [105093-mutation-phase.json](./105093-mutation-phase.json) |
+| Mutations | 300556 | [300556-mutations.json](./300556-mutations.json) |
 | Mutato Match | 34736 | [34736-mutato-match.json](./34736-mutato-match.json) |
 | Mute Crimson+ | 11843 | [11843-mute-crimson.json](./11843-mute-crimson.json) |
 | Muteki Kyoujin Rozario kai | 377611 | [377611-muteki-kyoujin-rozario-kai.json](./377611-muteki-kyoujin-rozario-kai.json) |
