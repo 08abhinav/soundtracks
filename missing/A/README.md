@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A (W)hole lot of Colors | 177479 | [177479-a-w-hole-lot-of-colors.json](./177479-a-w-hole-lot-of-colors.json) |
 | A 2ª Jornada | 299470 | [299470-a-2a-jornada.json](./299470-a-2a-jornada.json) |
 | A 2nd X Thing Episode 2: Digital Groove | 287845 | [287845-a-2nd-x-thing-episode-2-digital-groove.json](./287845-a-2nd-x-thing-episode-2-digital-groove.json) |
+| A 3ª Jornada | 299477 | [299477-a-3a-jornada.json](./299477-a-3a-jornada.json) |
 | A Army Base | 277571 | [277571-a-army-base.json](./277571-a-army-base.json) |
 | A Aventura Máxica de Merliño | 362969 | [362969-a-aventura-maxica-de-merlino.json](./362969-a-aventura-maxica-de-merlino.json) |
 | A Baby CEO?! | 391884 | [391884-a-baby-ceo.json](./391884-a-baby-ceo.json) |
@@ -443,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ilha Perdida da Babitonga | 352367 | [352367-a-ilha-perdida-da-babitonga.json](./352367-a-ilha-perdida-da-babitonga.json) |
 | A is for Aardvark | 334281 | [334281-a-is-for-aardvark.json](./334281-a-is-for-aardvark.json) |
 | A JK Voice Actress and an Adult Script | 83188 | [83188-a-jk-voice-actress-and-an-adult-script.json](./83188-a-jk-voice-actress-and-an-adult-script.json) |
+| A Jornada | 299469 | [299469-a-jornada.json](./299469-a-jornada.json) |
 | A Journey Into Xanth | 135643 | [135643-a-journey-into-xanth.json](./135643-a-journey-into-xanth.json) |
 | A Journey Through Shadow, to Reach the Light. | 350292 | [350292-a-journey-through-shadow-to-reach-the-light.json](./350292-a-journey-through-shadow-to-reach-the-light.json) |
 | A Journey Through Valhalla | 165677 | [165677-a-journey-through-valhalla.json](./165677-a-journey-through-valhalla.json) |
@@ -3005,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After School Girlfriend: Performing Arts Club | 210608 | [210608-after-school-girlfriend-performing-arts-club.json](./210608-after-school-girlfriend-performing-arts-club.json) |
 | After School Grounds | 379498 | [379498-after-school-grounds.json](./379498-after-school-grounds.json) |
 | After School Murder Club!! | 150251 | [150251-after-school-murder-club.json](./150251-after-school-murder-club.json) |
+| After School Romance | 299497 | [299497-after-school-romance.json](./299497-after-school-romance.json) |
 | After School: Full Horror Game | 233469 | [233469-after-school-full-horror-game.json](./233469-after-school-full-horror-game.json) |
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
@@ -6471,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anarch | 184403 | [184403-anarch.json](./184403-anarch.json) |
+| Anarchitects | 299597 | [299597-anarchitects.json](./299597-anarchitects.json) |
 | Anarchy | 14163 | [14163-anarchy.json](./14163-anarchy.json) |
 | Anarchy | 201298 | [201298-anarchy.json](./201298-anarchy.json) |
 | Anarchy Arcade | 30373 | [30373-anarchy-arcade.json](./30373-anarchy-arcade.json) |
