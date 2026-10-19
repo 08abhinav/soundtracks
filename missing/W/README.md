@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Chess 2 | 97265 | [97265-warfare-chess-2.json](./97265-warfare-chess-2.json) |
 | Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
+| Warfare Ultimatum | 295606 | [295606-warfare-ultimatum.json](./295606-warfare-ultimatum.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire | 32657 | [32657-warfire.json](./32657-warfire.json) |
@@ -6351,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: Elnea Kingdom - The Makeover Collection | 259530 | [259530-worldneverland-elnea-kingdom-the-makeover-collection.json](./259530-worldneverland-elnea-kingdom-the-makeover-collection.json) |
 | WorldNeverland: Elnea Kingdom - Wa Mage Wear Set: Navy | 324359 | [324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json](./324359-worldneverland-elnea-kingdom-wa-mage-wear-set-navy.json) |
 | WorldNeverland: Flower Trimmed Wear Set - Sakura | 294856 | [294856-worldneverland-flower-trimmed-wear-set-sakura.json](./294856-worldneverland-flower-trimmed-wear-set-sakura.json) |
+| WorldNeverland: Wa Mage Wear Set - Sakura | 295700 | [295700-worldneverland-wa-mage-wear-set-sakura.json](./295700-worldneverland-wa-mage-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
 | Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
