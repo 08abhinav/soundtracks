@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rake | 353765 | [353765-rake.json](./353765-rake.json) |
 | Rake Monster Hunter | 100840 | [100840-rake-monster-hunter.json](./100840-rake-monster-hunter.json) |
 | Rake Remastered | 267007 | [267007-rake-remastered.json](./267007-rake-remastered.json) |
+| Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remnants of Flesh | 322608 | [322608-remnants-of-flesh.json](./322608-remnants-of-flesh.json) |
 | Remnants of Isolation | 28032 | [28032-remnants-of-isolation.json](./28032-remnants-of-isolation.json) |
 | Remnants of Naezith | 29520 | [29520-remnants-of-naezith.json](./29520-remnants-of-naezith.json) |
+| Remnants Of Nightfall | 301688 | [301688-remnants-of-nightfall.json](./301688-remnants-of-nightfall.json) |
 | Remnants of Sin: Deck & Puzzle | 385352 | [385352-remnants-of-sin-deck-and-puzzle.json](./385352-remnants-of-sin-deck-and-puzzle.json) |
 | Remnants of Skystone | 270283 | [270283-remnants-of-skystone.json](./270283-remnants-of-skystone.json) |
 | Remnants of the Arcane | 32168 | [32168-remnants-of-the-arcane.json](./32168-remnants-of-the-arcane.json) |
