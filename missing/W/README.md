@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpfire | 364554 | [364554-warpfire.json](./364554-warpfire.json) |
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
+| Warpgate Pioneers | 280105 | [280105-warpgate-pioneers.json](./280105-warpgate-pioneers.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
 | Warpips | 146438 | [146438-warpips.json](./146438-warpips.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
+| Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
@@ -6399,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds: History Simulator | 125297 | [125297-worlds-history-simulator.json](./125297-worlds-history-simulator.json) |
 | Worldseekers | 315630 | [315630-worldseekers.json](./315630-worldseekers.json) |
 | Worldshadow | 352242 | [352242-worldshadow.json](./352242-worldshadow.json) |
+| WorldShaper Idle | 280099 | [280099-worldshaper-idle.json](./280099-worldshaper-idle.json) |
 | WorldShards | 224584 | [224584-worldshards.json](./224584-worldshards.json) |
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
 | WorldsKeeper | 216822 | [216822-worldskeeper.json](./216822-worldskeeper.json) |
