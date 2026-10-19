@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
 | Gentlemacho | 66620 | [66620-gentlemacho.json](./66620-gentlemacho.json) |
 | Gentleman Dress Up | 227927 | [227927-gentleman-dress-up.json](./227927-gentleman-dress-up.json) |
+| Gentlemen's Club | 286415 | [286415-gentlemens-club.json](./286415-gentlemens-club.json) |
 | GentleMoon 2 | 32902 | [32902-gentlemoon-2.json](./32902-gentlemoon-2.json) |
 | Gently Down the Marsh | 184913 | [184913-gently-down-the-marsh.json](./184913-gently-down-the-marsh.json) |
 | Gently Packed | 395267 | [395267-gently-packed.json](./395267-gently-packed.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Club | 45897 | [45897-girls-club.json](./45897-girls-club.json) |
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
+| GirLand | 286406 | [286406-girland.json](./286406-girland.json) |
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfight 2024 | 170785 | [170785-girlfight-2024.json](./170785-girlfight-2024.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
+| GSpot Master | 286393 | [286393-gspot-master.json](./286393-gspot-master.json) |
 | GSPS The Game | 360113 | [360113-gsps-the-game.json](./360113-gsps-the-game.json) |
 | Gst Wars | 360711 | [360711-gst-wars.json](./360711-gst-wars.json) |
 | GT 24 | 210726 | [210726-gt-24.json](./210726-gt-24.json) |
