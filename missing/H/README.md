@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | Haprokon | 115636 | [115636-haprokon.json](./115636-haprokon.json) |
 | Hapunan | 329691 | [329691-hapunan.json](./329691-hapunan.json) |
+| Hapy-y | 264509 | [264509-hapy-y.json](./264509-hapy-y.json) |
 | Haque | 75364 | [75364-haque.json](./75364-haque.json) |
 | Här Kommer Pippi Långstrump | 337184 | [337184-har-kommer-pippi-langstrump.json](./337184-har-kommer-pippi-langstrump.json) |
 | Harakatsu 2 | 367026 | [367026-harakatsu-2.json](./367026-harakatsu-2.json) |
@@ -7865,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: AcceleRacers Bassline | 265075 | [265075-hot-wheels-unleashed-acceleracers-bassline.json](./265075-hot-wheels-unleashed-acceleracers-bassline.json) |
 | Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
+| Hot Wheels Unleashed: Chevy 1956 | 264491 | [264491-hot-wheels-unleashed-chevy-1956.json](./264491-hot-wheels-unleashed-chevy-1956.json) |
 | Hot Wheels Unleashed: Collector's Edition | 169204 | [169204-hot-wheels-unleashed-collectors-edition.json](./169204-hot-wheels-unleashed-collectors-edition.json) |
 | Hot Wheels Unleashed: Corvette Stingray Convertible 2014 | 195769 | [195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json](./195769-hot-wheels-unleashed-corvette-stingray-convertible-2014.json) |
 | Hot Wheels Unleashed: Day One Edition | 146134 | [146134-hot-wheels-unleashed-day-one-edition.json](./146134-hot-wheels-unleashed-day-one-edition.json) |
@@ -8548,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: den forsvundne kæmpe | 352310 | [352310-hugo-den-forsvundne-k-mpe.json](./352310-hugo-den-forsvundne-k-mpe.json) |
 | Hugo: Frog Fighter | 25666 | [25666-hugo-frog-fighter.json](./25666-hugo-frog-fighter.json) |
 | Hugo: Heroes of the Savannah | 286614 | [286614-hugo-heroes-of-the-savannah.json](./286614-hugo-heroes-of-the-savannah.json) |
+| Hugo: Jungle Island 1 | 264466 | [264466-hugo-jungle-island-1.json](./264466-hugo-jungle-island-1.json) |
 | Hugo: Jungle Island 2 | 286615 | [286615-hugo-jungle-island-2.json](./286615-hugo-jungle-island-2.json) |
 | Hugo: Magic in the Trollwoods | 48023 | [48023-hugo-magic-in-the-trollwoods.json](./48023-hugo-magic-in-the-trollwoods.json) |
 | Hugo: På Nye Eventyr | 11760 | [11760-hugo-pa-nye-eventyr.json](./11760-hugo-pa-nye-eventyr.json) |
