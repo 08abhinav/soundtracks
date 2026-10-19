@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
 | GreenHill Again | 336339 | [336339-greenhill-again.json](./336339-greenhill-again.json) |
+| Greenhouse | 295073 | [295073-greenhouse.json](./295073-greenhouse.json) |
 | Greenhouse | 332315 | [332315-greenhouse.json](./332315-greenhouse.json) |
 | Greenhouse: Schism | 377269 | [377269-greenhouse-schism.json](./377269-greenhouse-schism.json) |
 | Greenhouse: Tidy Up! | 416831 | [416831-greenhouse-tidy-up.json](./416831-greenhouse-tidy-up.json) |
