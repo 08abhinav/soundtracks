@@ -2031,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
+| Elysian | 306799 | [306799-elysian.json](./306799-elysian.json) |
 | Elysian Echoes | 265093 | [265093-elysian-echoes.json](./265093-elysian-echoes.json) |
 | Elysian Eclipse | 236282 | [236282-elysian-eclipse.json](./236282-elysian-eclipse.json) |
 | Elysian Siege | 351637 | [351637-elysian-siege.json](./351637-elysian-siege.json) |
