@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of the Machine | 217017 | [217017-heart-of-the-machine.json](./217017-heart-of-the-machine.json) |
 | Heart of the Mountain | 405722 | [405722-heart-of-the-mountain.json](./405722-heart-of-the-mountain.json) |
 | Heart of the Woods | 102326 | [102326-heart-of-the-woods.json](./102326-heart-of-the-woods.json) |
+| Heart of the Woods: Collector's Edition | 258876 | [258876-heart-of-the-woods-collectors-edition.json](./258876-heart-of-the-woods-collectors-edition.json) |
 | Heart of Vegas: Casino Slots | 232357 | [232357-heart-of-vegas-casino-slots.json](./232357-heart-of-vegas-casino-slots.json) |
 | Heart on Your Sleeve | 178533 | [178533-heart-on-your-sleeve.json](./178533-heart-on-your-sleeve.json) |
 | Heart Piano Tiles | 96697 | [96697-heart-piano-tiles.json](./96697-heart-piano-tiles.json) |
@@ -5031,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-Ten Chara Bom | 64335 | [64335-hi-ten-chara-bom.json](./64335-hi-ten-chara-bom.json) |
 | Hi-way | 18201 | [18201-hi-way.json](./18201-hi-way.json) |
 | Hi! Hamtaro: Ham-Ham Challenge | 77875 | [77875-hi-hamtaro-ham-ham-challenge.json](./77875-hi-hamtaro-ham-ham-challenge.json) |
+| Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
 | Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
