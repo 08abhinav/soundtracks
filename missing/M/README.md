@@ -10325,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Garden | 345670 | [345670-misty-garden.json](./345670-misty-garden.json) |
 | Misty Hollow | 172421 | [172421-misty-hollow.json](./172421-misty-hollow.json) |
 | Misty Island: The Forgotten Story | 356998 | [356998-misty-island-the-forgotten-story.json](./356998-misty-island-the-forgotten-story.json) |
+| Misty Islands | 264488 | [264488-misty-islands.json](./264488-misty-islands.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
 | Misty's Idle Fishing | 372531 | [372531-mistys-idle-fishing.json](./372531-mistys-idle-fishing.json) |
@@ -14590,6 +14591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Alley: Do the Dinosaur | 157065 | [157065-mutant-alley-do-the-dinosaur.json](./157065-mutant-alley-do-the-dinosaur.json) |
 | Mutant Crisis | 320539 | [320539-mutant-crisis.json](./320539-mutant-crisis.json) |
 | Mutant DNA | 341689 | [341689-mutant-dna.json](./341689-mutant-dna.json) |
+| Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
 | Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
