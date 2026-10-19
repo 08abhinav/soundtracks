@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hall of the Art Thieves | 122271 | [122271-hall-of-the-art-thieves.json](./122271-hall-of-the-art-thieves.json) |
 | Hall of the Dwarf King | 339375 | [339375-hall-of-the-dwarf-king.json](./339375-hall-of-the-dwarf-king.json) |
 | Hall of the Epiphany | 276378 | [276378-hall-of-the-epiphany.json](./276378-hall-of-the-epiphany.json) |
+| Hall of the Saint | 268869 | [268869-hall-of-the-saint.json](./268869-hall-of-the-saint.json) |
 | Hall of the Things | 26305 | [26305-hall-of-the-things.json](./26305-hall-of-the-things.json) |
 | Halla | 101703 | [101703-halla.json](./101703-halla.json) |
 | Halley Wars | 19509 | [19509-halley-wars.json](./19509-halley-wars.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard 'n' Heavy | 47178 | [47178-hard-n-heavy.json](./47178-hard-n-heavy.json) |
 | Hard as Nails | 371636 | [371636-hard-as-nails.json](./371636-hard-as-nails.json) |
 | Hard Ball Wikie | 196890 | [196890-hard-ball-wikie.json](./196890-hard-ball-wikie.json) |
+| Hard Battle | 268903 | [268903-hard-battle.json](./268903-hard-battle.json) |
 | Hard Brain | 266882 | [266882-hard-brain.json](./266882-hard-brain.json) |
 | Hard Bullet | 139702 | [139702-hard-bullet.json](./139702-hard-bullet.json) |
 | Hard Core Puzzle | 335449 | [335449-hard-core-puzzle.json](./335449-hard-core-puzzle.json) |
@@ -4855,8 +4857,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
+| Hexen Badlands | 268920 | [268920-hexen-badlands.json](./268920-hexen-badlands.json) |
 | Hexen II | 6637 | [6637-hexen-ii.json](./6637-hexen-ii.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
+| Hexen Upstart Mapping Project | 268879 | [268879-hexen-upstart-mapping-project.json](./268879-hexen-upstart-mapping-project.json) |
 | Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
 | Hexen: Deathkings of the Dark Citadel | 8851 | [8851-hexen-deathkings-of-the-dark-citadel.json](./8851-hexen-deathkings-of-the-dark-citadel.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
@@ -4891,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexle | 271821 | [271821-hexle.json](./271821-hexle.json) |
 | HexLogic - Quilts | 106381 | [106381-hexlogic-quilts.json](./106381-hexlogic-quilts.json) |
 | HexLogic: Lanterns | 216155 | [216155-hexlogic-lanterns.json](./216155-hexlogic-lanterns.json) |
+| Hexmas Community Project | 268880 | [268880-hexmas-community-project.json](./268880-hexmas-community-project.json) |
 | Hexmet World | 217222 | [217222-hexmet-world.json](./217222-hexmet-world.json) |
 | Hexmon War | 56287 | [56287-hexmon-war.json](./56287-hexmon-war.json) |
 | HeXO | 404794 | [404794-hexo.json](./404794-hexo.json) |
@@ -8453,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huanxiang Sanguozhi | 70024 | [70024-huanxiang-sanguozhi.json](./70024-huanxiang-sanguozhi.json) |
 | Huànxiǎng Xiū Zhēn | 375424 | [375424-huanxiang-xiu-zhen.json](./375424-huanxiang-xiu-zhen.json) |
 | Huaxia: Warring States | 314435 | [314435-huaxia-warring-states.json](./314435-huaxia-warring-states.json) |
+| Hub of Pain | 268912 | [268912-hub-of-pain.json](./268912-hub-of-pain.json) |
 | Hube: Seeker of Achievements | 100435 | [100435-hube-seeker-of-achievements.json](./100435-hube-seeker-of-achievements.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
