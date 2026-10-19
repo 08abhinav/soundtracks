@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Ark | 290610 | [290610-re-ark.json](./290610-re-ark.json) |
+| Re:Awaken | 295099 | [295099-re-awaken.json](./295099-re-awaken.json) |
 | Re:Award | 171460 | [171460-re-award.json](./171460-re-award.json) |
 | Re:Award - More Corridor 1 | 191074 | [191074-re-award-more-corridor-1.json](./191074-re-award-more-corridor-1.json) |
 | Re:Bf | 193405 | [193405-re-bf.json](./193405-re-bf.json) |
@@ -8394,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
 | Royal Chaos: Enter a Dreamlike Kingdom of Romance | 105883 | [105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json](./105883-royal-chaos-enter-a-dreamlike-kingdom-of-romance.json) |
+| Royal Decree! | 295098 | [295098-royal-decree.json](./295098-royal-decree.json) |
 | Royal Defense | 10784 | [10784-royal-defense.json](./10784-royal-defense.json) |
 | Royal Defense 2 | 10785 | [10785-royal-defense-2.json](./10785-royal-defense-2.json) |
 | Royal Defense: Ancient Menace | 337586 | [337586-royal-defense-ancient-menace.json](./337586-royal-defense-ancient-menace.json) |
@@ -8499,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Merchant | 86335 | [86335-rpg-merchant.json](./86335-rpg-merchant.json) |
 | RPG Mix | 146565 | [146565-rpg-mix.json](./146565-rpg-mix.json) |
 | RPG MO | 35161 | [35161-rpg-mo.json](./35161-rpg-mo.json) |
+| RPG non RPG: Valhalla | 295107 | [295107-rpg-non-rpg-valhalla.json](./295107-rpg-non-rpg-valhalla.json) |
 | RPG Paper Maker | 117594 | [117594-rpg-paper-maker.json](./117594-rpg-paper-maker.json) |
 | RPG Plus: Virtual Tabletop | 404364 | [404364-rpg-plus-virtual-tabletop.json](./404364-rpg-plus-virtual-tabletop.json) |
 | RPG Quest: Minimae | 104595 | [104595-rpg-quest-minimae.json](./104595-rpg-quest-minimae.json) |
@@ -9008,6 +9011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
 | Runa | 129162 | [129162-runa.json](./129162-runa.json) |
+| Runa | 295171 | [295171-runa.json](./295171-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runa Illustra | 341659 | [341659-runa-illustra.json](./341659-runa-illustra.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
