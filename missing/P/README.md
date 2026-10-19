@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man 99: The Tower of Druaga | 325052 | [325052-pac-man-99-the-tower-of-druaga.json](./325052-pac-man-99-the-tower-of-druaga.json) |
 | Pac-Man All-Stars | 27587 | [27587-pac-man-all-stars.json](./27587-pac-man-all-stars.json) |
 | Pac-Man and the Ghostly Adventures | 19940 | [19940-pac-man-and-the-ghostly-adventures.json](./19940-pac-man-and-the-ghostly-adventures.json) |
+| Pac-Man Arcade Emulator | 290264 | [290264-pac-man-arcade-emulator.json](./290264-pac-man-arcade-emulator.json) |
 | Pac-Man Arcade Golf | 311667 | [311667-pac-man-arcade-golf.json](./311667-pac-man-arcade-golf.json) |
 | Pac-Man Arrangement | 178228 | [178228-pac-man-arrangement.json](./178228-pac-man-arrangement.json) |
 | Pac-Man Arrangement | 178408 | [178408-pac-man-arrangement.json](./178408-pac-man-arrangement.json) |
@@ -2005,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage | 103641 | [103641-passage.json](./103641-passage.json) |
 | Passage | 204687 | [204687-passage.json](./204687-passage.json) |
 | Passage | 209700 | [209700-passage.json](./209700-passage.json) |
+| Passage | 290289 | [290289-passage.json](./290289-passage.json) |
 | Passage | 36502 | [36502-passage.json](./36502-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
 | Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
@@ -4471,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picovania | 284300 | [284300-picovania.json](./284300-picovania.json) |
 | Picoware | 279711 | [279711-picoware.json](./279711-picoware.json) |
 | Picowars | 184630 | [184630-picowars.json](./184630-picowars.json) |
+| Picowings | 290297 | [290297-picowings.json](./290297-picowings.json) |
 | PicPu | 175358 | [175358-picpu.json](./175358-picpu.json) |
 | PicRoad - Pixel art puzzle | 95943 | [95943-picroad-pixel-art-puzzle.json](./95943-picroad-pixel-art-puzzle.json) |
 | Picronix 2 | 390503 | [390503-picronix-2.json](./390503-picronix-2.json) |
@@ -7070,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
+| Platoon | 290275 | [290275-platoon.json](./290275-platoon.json) |
 | Platoon | 372245 | [372245-platoon.json](./372245-platoon.json) |
 | Platoon | 79175 | [79175-platoon.json](./79175-platoon.json) |
 | Platoon Commander | 328034 | [328034-platoon-commander.json](./328034-platoon-commander.json) |
@@ -13353,6 +13357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Games Bundle | 226316 | [226316-puzzle-games-bundle.json](./226316-puzzle-games-bundle.json) |
 | Puzzle Games for Children | 352830 | [352830-puzzle-games-for-children.json](./352830-puzzle-games-for-children.json) |
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
+| Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
