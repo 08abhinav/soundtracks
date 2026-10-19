@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Effigy: The Descent | 200385 | [200385-effigy-the-descent.json](./200385-effigy-the-descent.json) |
 | Effing Hail | 314706 | [314706-effing-hail.json](./314706-effing-hail.json) |
 | Effing Worms | 210662 | [210662-effing-worms.json](./210662-effing-worms.json) |
+| Efflorescence of Lust | 286420 | [286420-efflorescence-of-lust.json](./286420-efflorescence-of-lust.json) |
 | Effortworld | 265655 | [265655-effortworld.json](./265655-effortworld.json) |
 | Effugium | 255954 | [255954-effugium.json](./255954-effugium.json) |
 | Effulgence RPG | 321067 | [321067-effulgence-rpg.json](./321067-effulgence-rpg.json) |
