@@ -897,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
 | Daredevil Crank Canyon | 413510 | [413510-daredevil-crank-canyon.json](./413510-daredevil-crank-canyon.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
+| Daredevil Dave: Motorcycle Stuntman! | 278323 | [278323-daredevil-dave-motorcycle-stuntman.json](./278323-daredevil-dave-motorcycle-stuntman.json) |
 | Daredevil Dynamite | 108504 | [108504-daredevil-dynamite.json](./108504-daredevil-dynamite.json) |
 | Daredevil Rider | 255746 | [255746-daredevil-rider.json](./255746-daredevil-rider.json) |
 | Daredevil's Descent & Cryogenic Crypt | 271759 | [271759-daredevils-descent-and-cryogenic-crypt.json](./271759-daredevils-descent-and-cryogenic-crypt.json) |
@@ -3334,6 +3335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Roads: Tournament | 149904 | [149904-death-roads-tournament.json](./149904-death-roads-tournament.json) |
 | Death Room | 75156 | [75156-death-room.json](./75156-death-room.json) |
 | Death Rpg | 116313 | [116313-death-rpg.json](./116313-death-rpg.json) |
+| Death Run | 278279 | [278279-death-run.json](./278279-death-run.json) |
 | Death Run 3D | 102041 | [102041-death-run-3d.json](./102041-death-run-3d.json) |
 | Death School | 210523 | [210523-death-school.json](./210523-death-school.json) |
 | Death Scream Land | 139081 | [139081-death-scream-land.json](./139081-death-scream-land.json) |
@@ -4063,6 +4065,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender | 150104 | [150104-defender.json](./150104-defender.json) |
 | Defender | 228072 | [228072-defender.json](./228072-defender.json) |
 | Defender | 239136 | [239136-defender.json](./239136-defender.json) |
+| Defender | 278270 | [278270-defender.json](./278270-defender.json) |
+| Defender | 278281 | [278281-defender.json](./278281-defender.json) |
+| Defender | 278283 | [278283-defender.json](./278283-defender.json) |
+| Defender | 278284 | [278284-defender.json](./278284-defender.json) |
+| Defender | 278295 | [278295-defender.json](./278295-defender.json) |
+| Defender | 278296 | [278296-defender.json](./278296-defender.json) |
+| Defender | 278302 | [278302-defender.json](./278302-defender.json) |
 | Defender | 287077 | [287077-defender.json](./287077-defender.json) |
 | Defender | 346133 | [346133-defender.json](./346133-defender.json) |
 | Defender | 388144 | [388144-defender.json](./388144-defender.json) |
@@ -5408,6 +5417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
 | Destiny 2: Legacy Collection | 304472 | [304472-destiny-2-legacy-collection.json](./304472-destiny-2-legacy-collection.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
+| Destiny 2: Lightfall - Season of the Wish | 278312 | [278312-destiny-2-lightfall-season-of-the-wish.json](./278312-destiny-2-lightfall-season-of-the-wish.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
 | Destiny 2: Revenant Silver Bundle | 326684 | [326684-destiny-2-revenant-silver-bundle.json](./326684-destiny-2-revenant-silver-bundle.json) |
@@ -11791,6 +11801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
 | Dreampedia | 402368 | [402368-dreampedia.json](./402368-dreampedia.json) |
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
+| Dreampunk: Virtual Unreality | 278316 | [278316-dreampunk-virtual-unreality.json](./278316-dreampunk-virtual-unreality.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
