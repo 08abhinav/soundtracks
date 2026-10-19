@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
+| Game Cafe | 297851 | [297851-game-cafe.json](./297851-game-cafe.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
 | Game Chest: Board Games | 100253 | [100253-game-chest-board-games.json](./100253-game-chest-board-games.json) |
@@ -5911,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
 | GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
+| Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
@@ -6014,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
+| Gravewatch | 297868 | [297868-gravewatch.json](./297868-gravewatch.json) |
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
 | Gravewood High: Complete | 243227 | [243227-gravewood-high-complete.json](./243227-gravewood-high-complete.json) |
 | Graveyard | 169890 | [169890-graveyard.json](./169890-graveyard.json) |
