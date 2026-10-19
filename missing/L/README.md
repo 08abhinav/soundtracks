@@ -1070,6 +1070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rites 1347 | 323574 | [323574-last-rites-1347.json](./323574-last-rites-1347.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
+| Last Round | 260522 | [260522-last-round.json](./260522-last-round.json) |
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
 | Last Ruler of Vicissity | 236173 | [236173-last-ruler-of-vicissity.json](./236173-last-ruler-of-vicissity.json) |
 | Last Salvo | 76651 | [76651-last-salvo.json](./76651-last-salvo.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Jigsaw Puzzles: At the Zoo | 239738 | [239738-lets-play-jigsaw-puzzles-at-the-zoo.json](./239738-lets-play-jigsaw-puzzles-at-the-zoo.json) |
 | Let's Play Jigsaw Puzzles: Birds | 240775 | [240775-lets-play-jigsaw-puzzles-birds.json](./240775-lets-play-jigsaw-puzzles-birds.json) |
 | Let's Play Jigsaw Puzzles: Butterflies & Moths | 232006 | [232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json](./232006-lets-play-jigsaw-puzzles-butterflies-and-moths.json) |
+| Let's Play Jigsaw Puzzles: Canada | 260541 | [260541-lets-play-jigsaw-puzzles-canada.json](./260541-lets-play-jigsaw-puzzles-canada.json) |
 | Let's Play Jigsaw Puzzles: Flowers | 240766 | [240766-lets-play-jigsaw-puzzles-flowers.json](./240766-lets-play-jigsaw-puzzles-flowers.json) |
 | Let's Play Jigsaw Puzzles: France | 240750 | [240750-lets-play-jigsaw-puzzles-france.json](./240750-lets-play-jigsaw-puzzles-france.json) |
 | Let's Play Jigsaw Puzzles: Happy Holidays 2023 | 279543 | [279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json](./279543-lets-play-jigsaw-puzzles-happy-holidays-2023.json) |
