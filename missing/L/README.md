@@ -909,10 +909,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Encounter | 80927 | [80927-last-encounter.json](./80927-last-encounter.json) |
 | Last Epoch: "Golden Guppy" the Baby Chronowyrm | 286564 | [286564-last-epoch-golden-guppy-the-baby-chronowyrm.json](./286564-last-epoch-golden-guppy-the-baby-chronowyrm.json) |
 | Last Epoch: Adolescent Chronowyrm | 286565 | [286565-last-epoch-adolescent-chronowyrm.json](./286565-last-epoch-adolescent-chronowyrm.json) |
+| Last Epoch: Adult Chronowyrm | 286980 | [286980-last-epoch-adult-chronowyrm.json](./286980-last-epoch-adult-chronowyrm.json) |
 | Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
+| Last Epoch: Celestial Way | 286979 | [286979-last-epoch-celestial-way.json](./286979-last-epoch-celestial-way.json) |
+| Last Epoch: Fallen Ronin | 286976 | [286976-last-epoch-fallen-ronin.json](./286976-last-epoch-fallen-ronin.json) |
+| Last Epoch: Firefly's Refuge | 286978 | [286978-last-epoch-fireflys-refuge.json](./286978-last-epoch-fireflys-refuge.json) |
 | Last Epoch: Harbingers of Ruin | 308006 | [308006-last-epoch-harbingers-of-ruin.json](./308006-last-epoch-harbingers-of-ruin.json) |
 | Last Epoch: Orobyss | 369988 | [369988-last-epoch-orobyss.json](./369988-last-epoch-orobyss.json) |
 | Last Epoch: Shattered Omens | 408917 | [408917-last-epoch-shattered-omens.json](./408917-last-epoch-shattered-omens.json) |
+| Last Epoch: Temporal Guardian | 286977 | [286977-last-epoch-temporal-guardian.json](./286977-last-epoch-temporal-guardian.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
@@ -6327,6 +6332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Eternal | 305358 | [305358-love-eternal.json](./305358-love-eternal.json) |
 | Love Fantasy | 164064 | [164064-love-fantasy.json](./164064-love-fantasy.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
+| Love FMV | 286972 | [286972-love-fmv.json](./286972-love-fmv.json) |
 | Love Football | 7059 | [7059-love-football.json](./7059-love-football.json) |
 | Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
 | Love Furry Girls: Zodiac Dating App | 330239 | [330239-love-furry-girls-zodiac-dating-app.json](./330239-love-furry-girls-zodiac-dating-app.json) |
