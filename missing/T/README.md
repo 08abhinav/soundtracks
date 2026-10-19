@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temporal Tantrum | 269447 | [269447-temporal-tantrum.json](./269447-temporal-tantrum.json) |
 | Temporal Temple | 33563 | [33563-temporal-temple.json](./33563-temporal-temple.json) |
 | Temporal Titans | 309865 | [309865-temporal-titans.json](./309865-temporal-titans.json) |
+| Temporal War | 257793 | [257793-temporal-war.json](./257793-temporal-war.json) |
 | Temporarily | 280255 | [280255-temporarily.json](./280255-temporarily.json) |
 | Temporian | 228969 | [228969-temporian.json](./228969-temporian.json) |
 | Temporus | 120797 | [120797-temporus.json](./120797-temporus.json) |
@@ -7287,6 +7288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frost | 28872 | [28872-the-frost.json](./28872-the-frost.json) |
 | The Frosts: First Ones | 153919 | [153919-the-frosts-first-ones.json](./153919-the-frosts-first-ones.json) |
 | The Frozen Dead Wait | 302733 | [302733-the-frozen-dead-wait.json](./302733-the-frozen-dead-wait.json) |
+| The Frozen Garden | 257800 | [257800-the-frozen-garden.json](./257800-the-frozen-garden.json) |
 | The Frozen Shore | 231462 | [231462-the-frozen-shore.json](./231462-the-frozen-shore.json) |
 | The Fruit | 392165 | [392165-the-fruit.json](./392165-the-fruit.json) |
 | The Fruit Game | 346565 | [346565-the-fruit-game.json](./346565-the-fruit-game.json) |
@@ -9616,6 +9618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lift | 108320 | [108320-the-lift.json](./108320-the-lift.json) |
 | The Liftboy | 346377 | [346377-the-liftboy.json](./346377-the-liftboy.json) |
 | The Light | 53757 | [53757-the-light.json](./53757-the-light.json) |
+| The Light Ahead | 257817 | [257817-the-light-ahead.json](./257817-the-light-ahead.json) |
 | The Light at the End of the Ocean | 168635 | [168635-the-light-at-the-end-of-the-ocean.json](./168635-the-light-at-the-end-of-the-ocean.json) |
 | The Light Box | 242557 | [242557-the-light-box.json](./242557-the-light-box.json) |
 | The Light Brigade | 224505 | [224505-the-light-brigade.json](./224505-the-light-brigade.json) |
@@ -18931,6 +18934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Fast RPG | 240277 | [240277-too-fast-rpg.json](./240277-too-fast-rpg.json) |
 | Too Fazed | 183812 | [183812-too-fazed.json](./183812-too-fazed.json) |
 | Too Hot to Be True | 406715 | [406715-too-hot-to-be-true.json](./406715-too-hot-to-be-true.json) |
+| Too Hot to Handle 2 Netflix | 257782 | [257782-too-hot-to-handle-2-netflix.json](./257782-too-hot-to-handle-2-netflix.json) |
 | Too Hot to Handle: Love is a Game | 204449 | [204449-too-hot-to-handle-love-is-a-game.json](./204449-too-hot-to-handle-love-is-a-game.json) |
 | Too Hot to Hold | 416739 | [416739-too-hot-to-hold.json](./416739-too-hot-to-hold.json) |
 | Too Human | 292152 | [292152-too-human.json](./292152-too-human.json) |
@@ -23188,7 +23192,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
+| Trollface Quest 13 | 257816 | [257816-trollface-quest-13.json](./257816-trollface-quest-13.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
+| Trollface Quest: Internet Memes | 257812 | [257812-trollface-quest-internet-memes.json](./257812-trollface-quest-internet-memes.json) |
+| Trollface Quest: Sports | 257799 | [257799-trollface-quest-sports.json](./257799-trollface-quest-sports.json) |
+| Trollface Quest: Sports | 257810 | [257810-trollface-quest-sports.json](./257810-trollface-quest-sports.json) |
+| Trollface Quest: TrollTube | 257811 | [257811-trollface-quest-trolltube.json](./257811-trollface-quest-trolltube.json) |
 | Trollface Quest: Video Games | 259447 | [259447-trollface-quest-video-games.json](./259447-trollface-quest-video-games.json) |
 | Trollface Quest: Video Memes & TV Shows | 259446 | [259446-trollface-quest-video-memes-and-tv-shows.json](./259446-trollface-quest-video-memes-and-tv-shows.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
