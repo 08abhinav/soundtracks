@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feitu Huiguniang | 348846 | [348846-feitu-huiguniang.json](./348846-feitu-huiguniang.json) |
 | Fèitǔ Xiǎohóngmào | 340970 | [340970-feitu-xiaohongmao.json](./340970-feitu-xiaohongmao.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
+| Felampire | 297844 | [297844-felampire.json](./297844-felampire.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
 | Felicity's Door | 381104 | [381104-felicitys-door.json](./381104-felicitys-door.json) |
 | Feline | 171559 | [171559-feline.json](./171559-feline.json) |
