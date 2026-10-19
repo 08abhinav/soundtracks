@@ -1825,6 +1825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill or Love | 123995 | [123995-kill-or-love.json](./123995-kill-or-love.json) |
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill Pill | 237451 | [237451-kill-pill.json](./237451-kill-pill.json) |
+| Kill Santa | 279464 | [279464-kill-santa.json](./279464-kill-santa.json) |
 | Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
 | Kill Shot Bravo | 59478 | [59478-kill-shot-bravo.json](./59478-kill-shot-bravo.json) |
 | Kill the Bad Guy | 10481 | [10481-kill-the-bad-guy.json](./10481-kill-the-bad-guy.json) |
