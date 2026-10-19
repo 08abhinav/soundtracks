@@ -4159,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentry Knight Tactics | 24824 | [24824-sentry-knight-tactics.json](./24824-sentry-knight-tactics.json) |
 | Sentry: Obelisk of Dawn | 152898 | [152898-sentry-obelisk-of-dawn.json](./152898-sentry-obelisk-of-dawn.json) |
 | Senua | 405072 | [405072-senua.json](./405072-senua.json) |
+| Senya and Oscar 2 | 281276 | [281276-senya-and-oscar-2.json](./281276-senya-and-oscar-2.json) |
 | Senza Peso | 32225 | [32225-senza-peso.json](./32225-senza-peso.json) |
 | Senzu: A Fantasy Farming Space Odyssey | 293499 | [293499-senzu-a-fantasy-farming-space-odyssey.json](./293499-senzu-a-fantasy-farming-space-odyssey.json) |
 | Seoirye | 257680 | [257680-seoirye.json](./257680-seoirye.json) |
@@ -6194,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
 | Shinigami Shogyou: Kaidan Romance | 219138 | [219138-shinigami-shogyou-kaidan-romance.json](./219138-shinigami-shogyou-kaidan-romance.json) |
 | Shinigami Soul Agency | 224197 | [224197-shinigami-soul-agency.json](./224197-shinigami-soul-agency.json) |
+| Shinin | 281250 | [281250-shinin.json](./281250-shinin.json) |
 | Shining | 290683 | [290683-shining.json](./290683-shining.json) |
 | Shining Arena | 174789 | [174789-shining-arena.json](./174789-shining-arena.json) |
 | Shining Ark | 64460 | [64460-shining-ark.json](./64460-shining-ark.json) |
@@ -6452,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro to Kuro no Alice for Nintendo Switch | 200458 | [200458-shiro-to-kuro-no-alice-for-nintendo-switch.json](./200458-shiro-to-kuro-no-alice-for-nintendo-switch.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
+| Shirobara Gakuen Satsujin Jiken | 281251 | [281251-shirobara-gakuen-satsujin-jiken.json](./281251-shirobara-gakuen-satsujin-jiken.json) |
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
 | Shirogane no Torikago: The Angels with Strange Wings | 77921 | [77921-shirogane-no-torikago-the-angels-with-strange-wings.json](./77921-shirogane-no-torikago-the-angels-with-strange-wings.json) |
@@ -8631,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-Guns: Gang Showdown | 38991 | [38991-six-guns-gang-showdown.json](./38991-six-guns-gang-showdown.json) |
 | Six-Sided Streets | 234897 | [234897-six-sided-streets.json](./234897-six-sided-streets.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
+| Six. Eight. Two. | 281258 | [281258-six-eight-two.json](./281258-six-eight-two.json) |
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
@@ -11227,6 +11231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Cone Tycoon | 240850 | [240850-snow-cone-tycoon.json](./240850-snow-cone-tycoon.json) |
 | Snow Cones: Episode 1 | 182831 | [182831-snow-cones-episode-1.json](./182831-snow-cones-episode-1.json) |
 | Snow Cones: Episode 2 | 177331 | [177331-snow-cones-episode-2.json](./177331-snow-cones-episode-2.json) |
+| Snow Day | 281269 | [281269-snow-day.json](./281269-snow-day.json) |
 | Snow Day: The GapKids Quest | 73548 | [73548-snow-day-the-gapkids-quest.json](./73548-snow-day-the-gapkids-quest.json) |
 | Snow Drop | 71444 | [71444-snow-drop.json](./71444-snow-drop.json) |
 | Snow Eagle Lord | 120834 | [120834-snow-eagle-lord.json](./120834-snow-eagle-lord.json) |
@@ -17539,6 +17544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Crew | 329938 | [329938-star-crew.json](./329938-star-crew.json) |
 | Star Crisis | 66377 | [66377-star-crisis.json](./66377-star-crisis.json) |
 | Star Crossed | 177920 | [177920-star-crossed.json](./177920-star-crossed.json) |
+| Star Crossed | 281296 | [281296-star-crossed.json](./281296-star-crossed.json) |
 | Star Crosser | 206439 | [206439-star-crosser.json](./206439-star-crosser.json) |
 | Star Cruiser | 19373 | [19373-star-cruiser.json](./19373-star-cruiser.json) |
 | Star Cruiser | 265968 | [265968-star-cruiser.json](./265968-star-cruiser.json) |
