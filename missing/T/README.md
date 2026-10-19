@@ -4520,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms Multiplayer | 219565 | [219565-the-backrooms-multiplayer.json](./219565-the-backrooms-multiplayer.json) |
 | The Backrooms Origins | 253380 | [253380-the-backrooms-origins.json](./253380-the-backrooms-origins.json) |
 | The Backrooms Project | 260640 | [260640-the-backrooms-project.json](./260640-the-backrooms-project.json) |
+| The Backrooms Regret | 279496 | [279496-the-backrooms-regret.json](./279496-the-backrooms-regret.json) |
 | The Backrooms Simulator | 121032 | [121032-the-backrooms-simulator.json](./121032-the-backrooms-simulator.json) |
 | The Backrooms VR | 200518 | [200518-the-backrooms-vr.json](./200518-the-backrooms-vr.json) |
 | The Backrooms World | 204671 | [204671-the-backrooms-world.json](./204671-the-backrooms-world.json) |
@@ -5844,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Da Vinci Cryptex 2 | 278725 | [278725-the-da-vinci-cryptex-2.json](./278725-the-da-vinci-cryptex-2.json) |
 | The Da Vinci Cryptex 3 | 280257 | [280257-the-da-vinci-cryptex-3.json](./280257-the-da-vinci-cryptex-3.json) |
 | The Da Vinci Cryptex 4 | 379173 | [379173-the-da-vinci-cryptex-4.json](./379173-the-da-vinci-cryptex-4.json) |
+| The Dabloon Project | 279491 | [279491-the-dabloon-project.json](./279491-the-dabloon-project.json) |
 | The Daedalic Comedy Selection | 53723 | [53723-the-daedalic-comedy-selection.json](./53723-the-daedalic-comedy-selection.json) |
 | The Daedalus Encounter | 4237 | [4237-the-daedalus-encounter.json](./4237-the-daedalus-encounter.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
@@ -10795,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outer Zone: Survival Tactics | 264856 | [264856-the-outer-zone-survival-tactics.json](./264856-the-outer-zone-survival-tactics.json) |
 | The Outfit | 7126 | [7126-the-outfit.json](./7126-the-outfit.json) |
 | The Outforce | 1167 | [1167-the-outforce.json](./1167-the-outforce.json) |
+| The Outforce | 279508 | [279508-the-outforce.json](./279508-the-outforce.json) |
 | The Outlast Trials: Deluxe Edition | 289556 | [289556-the-outlast-trials-deluxe-edition.json](./289556-the-outlast-trials-deluxe-edition.json) |
 | The Outlast Trials: Exotica Pack | 332013 | [332013-the-outlast-trials-exotica-pack.json](./332013-the-outlast-trials-exotica-pack.json) |
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
@@ -10966,6 +10969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Philistine Ploy | 293705 | [293705-the-philistine-ploy.json](./293705-the-philistine-ploy.json) |
 | The Phoenix | 188414 | [188414-the-phoenix.json](./188414-the-phoenix.json) |
 | The Phoenix Gene | 348033 | [348033-the-phoenix-gene.json](./348033-the-phoenix-gene.json) |
+| The Phoenix Protocol | 279504 | [279504-the-phoenix-protocol.json](./279504-the-phoenix-protocol.json) |
 | The Phone Rings | 266716 | [266716-the-phone-rings.json](./266716-the-phone-rings.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
@@ -17306,6 +17310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Heist | 26670 | [26670-tiny-heist.json](./26670-tiny-heist.json) |
 | Tiny Hell | 373069 | [373069-tiny-hell.json](./373069-tiny-hell.json) |
 | Tiny Hero Courier | 330140 | [330140-tiny-hero-courier.json](./330140-tiny-hero-courier.json) |
+| Tiny Hero Idle | 279471 | [279471-tiny-hero-idle.json](./279471-tiny-hero-idle.json) |
 | Tiny Heroes | 22317 | [22317-tiny-heroes.json](./22317-tiny-heroes.json) |
 | Tiny Hill | 192940 | [192940-tiny-hill.json](./192940-tiny-hill.json) |
 | Tiny Hoops: Idle Shooter | 392304 | [392304-tiny-hoops-idle-shooter.json](./392304-tiny-hoops-idle-shooter.json) |
