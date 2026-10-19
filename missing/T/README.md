@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
+| The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
 | The Book of Plagues | 346180 | [346180-the-book-of-plagues.json](./346180-the-book-of-plagues.json) |
 | The Book of Pooh | 50423 | [50423-the-book-of-pooh.json](./50423-the-book-of-pooh.json) |
@@ -5516,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Communist Dogifesto | 82345 | [82345-the-communist-dogifesto.json](./82345-the-communist-dogifesto.json) |
 | The Communist Manifesto | 345427 | [345427-the-communist-manifesto.json](./345427-the-communist-manifesto.json) |
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
+| The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
 | The Complete Universal Military Simulator | 137480 | [137480-the-complete-universal-military-simulator.json](./137480-the-complete-universal-military-simulator.json) |
@@ -6189,6 +6191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Divine Speaker: The Sun and the Moon | 199563 | [199563-the-divine-speaker-the-sun-and-the-moon.json](./199563-the-divine-speaker-the-sun-and-the-moon.json) |
 | The Diving Bell | 391881 | [391881-the-diving-bell.json](./391881-the-diving-bell.json) |
 | The Division 2: Warlords of New York - Year 5 Season 1: Broken Wings | 276774 | [276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json](./276774-the-division-2-warlords-of-new-york-year-5-season-1-broken-wings.json) |
+| The DJ-ROM: Da CD-Extra of Hip-Hop Music | 281294 | [281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json](./281294-the-dj-rom-da-cd-extra-of-hip-hop-music.json) |
 | The DOCS: Department of Creatures | 129648 | [129648-the-docs-department-of-creatures.json](./129648-the-docs-department-of-creatures.json) |
 | The Document of Metal Gear Solid 2 | 139343 | [139343-the-document-of-metal-gear-solid-2.json](./139343-the-document-of-metal-gear-solid-2.json) |
 | The Dog | 327153 | [327153-the-dog.json](./327153-the-dog.json) |
@@ -17973,6 +17976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todlio | 107074 | [107074-todlio.json](./107074-todlio.json) |
 | Todo List | 366329 | [366329-todo-list.json](./366329-todo-list.json) |
 | Todo Ryunosuke Tantei Nikki: Ogon no Rashinban | 386389 | [386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json](./386389-todo-ryunosuke-tantei-nikki-ogon-no-rashinban.json) |
+| Todo Ryuunosuke Tantei Nikki: Kohaku-iro no Yuigon | 281257 | [281257-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json](./281257-todo-ryuunosuke-tantei-nikki-kohaku-iro-no-yuigon.json) |
 | Todomiro | 288594 | [288594-todomiro.json](./288594-todomiro.json) |
 | Todos Contra Tcheco | 321780 | [321780-todos-contra-tcheco.json](./321780-todos-contra-tcheco.json) |
 | Toe II Toe | 235097 | [235097-toe-ii-toe.json](./235097-toe-ii-toe.json) |
