@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Artesana de Rostros | 388786 | [388786-la-artesana-de-rostros.json](./388786-la-artesana-de-rostros.json) |
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
+| La Boîte à Bidules de l'Oncle Ernest | 285881 | [285881-la-boite-a-bidules-de-loncle-ernest.json](./285881-la-boite-a-bidules-de-loncle-ernest.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Night Breakfast | 178991 | [178991-late-night-breakfast.json](./178991-late-night-breakfast.json) |
 | Late Night Confessional | 321641 | [321641-late-night-confessional.json](./321641-late-night-confessional.json) |
 | Late Night Delivery: The Bewitched Collection | 260290 | [260290-late-night-delivery-the-bewitched-collection.json](./260290-late-night-delivery-the-bewitched-collection.json) |
+| Late Night Drift | 285890 | [285890-late-night-drift.json](./285890-late-night-drift.json) |
 | Late Night Fears | 405939 | [405939-late-night-fears.json](./405939-late-night-fears.json) |
 | Late Night Mop | 218953 | [218953-late-night-mop.json](./218953-late-night-mop.json) |
 | Late Night Mop: Minimum Wage | 376605 | [376605-late-night-mop-minimum-wage.json](./376605-late-night-mop-minimum-wage.json) |
