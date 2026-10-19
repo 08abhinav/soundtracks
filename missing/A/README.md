@@ -2025,6 +2025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acrostics on Stream | 261264 | [261264-acrostics-on-stream.json](./261264-acrostics-on-stream.json) |
 | Acrylic Palette: Irodori Cafe - Cheers | 222463 | [222463-acrylic-palette-irodori-cafe-cheers.json](./222463-acrylic-palette-irodori-cafe-cheers.json) |
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
+| AcShooting | 270003 | [270003-acshooting.json](./270003-acshooting.json) |
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
 | Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
 | Adventurer Manager: Endless Tower | 174160 | [174160-adventurer-manager-endless-tower.json](./174160-adventurer-manager-endless-tower.json) |
+| Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
@@ -3176,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against the Moon | 121493 | [121493-against-the-moon.json](./121493-against-the-moon.json) |
 | Against the Storm: Keepers of the Stone | 315116 | [315116-against-the-storm-keepers-of-the-stone.json](./315116-against-the-storm-keepers-of-the-stone.json) |
 | Against the Storm: Nightwatchers | 356650 | [356650-against-the-storm-nightwatchers.json](./356650-against-the-storm-nightwatchers.json) |
+| Against The Tide | 269994 | [269994-against-the-tide.json](./269994-against-the-tide.json) |
 | Against the Wall | 63004 | [63004-against-the-wall.json](./63004-against-the-wall.json) |
 | Against Twilight | 349927 | [349927-against-twilight.json](./349927-against-twilight.json) |
 | Agame | 269042 | [269042-agame.json](./269042-agame.json) |
@@ -3201,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha Christie: Peril at End House | 78604 | [78604-agatha-christie-peril-at-end-house.json](./78604-agatha-christie-peril-at-end-house.json) |
 | Agatha Christie: The ABC Murders | 19657 | [19657-agatha-christie-the-abc-murders.json](./19657-agatha-christie-the-abc-murders.json) |
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
+| Age | 270014 | [270014-age.json](./270014-age.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
@@ -5636,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | alt:V | 171970 | [171970-alt-v.json](./171970-alt-v.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
+| Alta's Odyssey | 269968 | [269968-altas-odyssey.json](./269968-altas-odyssey.json) |
 | Altair | 38550 | [38550-altair.json](./38550-altair.json) |
 | Altaïr | 93148 | [93148-altair.json](./93148-altair.json) |
 | Altair Assault | 117138 | [117138-altair-assault.json](./117138-altair-assault.json) |
@@ -10557,6 +10562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
+| Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
 | Arthur's Computer Adventure | 270029 | [270029-arthurs-computer-adventure.json](./270029-arthurs-computer-adventure.json) |
 | Arthur's Nightmare | 105527 | [105527-arthurs-nightmare.json](./105527-arthurs-nightmare.json) |
 | Arthur's Pet Chase | 70918 | [70918-arthurs-pet-chase.json](./70918-arthurs-pet-chase.json) |
@@ -10565,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur's Reading Race | 270021 | [270021-arthurs-reading-race.json](./270021-arthurs-reading-race.json) |
 | Arthur's Revenge | 141141 | [141141-arthurs-revenge.json](./141141-arthurs-revenge.json) |
 | Arthur’s Tale | 405578 | [405578-arthur-s-tale.json](./405578-arthur-s-tale.json) |
+| Arthur's Teacher Trouble | 269997 | [269997-arthurs-teacher-trouble.json](./269997-arthurs-teacher-trouble.json) |
 | Arthur's Thinking Games | 186061 | [186061-arthurs-thinking-games.json](./186061-arthurs-thinking-games.json) |
 | Arthurian Legends | 14444 | [14444-arthurian-legends.json](./14444-arthurian-legends.json) |
 | Artifact | 288042 | [288042-artifact.json](./288042-artifact.json) |
@@ -12207,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Escape | 203879 | [203879-atomic-escape.json](./203879-atomic-escape.json) |
 | Atomic Exile | 303900 | [303900-atomic-exile.json](./303900-atomic-exile.json) |
 | Atomic Girls | 286447 | [286447-atomic-girls.json](./286447-atomic-girls.json) |
+| Atomic Hazard | 270008 | [270008-atomic-hazard.json](./270008-atomic-hazard.json) |
 | Atomic Heart II | 347639 | [347639-atomic-heart-ii.json](./347639-atomic-heart-ii.json) |
 | Atomic Heart: Annihilation Instinct | 255689 | [255689-atomic-heart-annihilation-instinct.json](./255689-atomic-heart-annihilation-instinct.json) |
 | Atomic Heart: Blood on Crystal | 395854 | [395854-atomic-heart-blood-on-crystal.json](./395854-atomic-heart-blood-on-crystal.json) |
