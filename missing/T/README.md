@@ -210,6 +210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
+| Tachie ga Hen na Pose no Renai Adventure | 285359 | [285359-tachie-ga-hen-na-pose-no-renai-adventure.json](./285359-tachie-ga-hen-na-pose-no-renai-adventure.json) |
 | Tachyon | 369771 | [369771-tachyon.json](./369771-tachyon.json) |
 | Tachyon Dreams I: The Radiant Fish of the Apocalypse | 238953 | [238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json](./238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json) |
 | Tachyon Dreams II: The Bloated Can of Space Root Beer | 238954 | [238954-tachyon-dreams-ii-the-bloated-can-of-space-root-beer.json](./238954-tachyon-dreams-ii-the-bloated-can-of-space-root-beer.json) |
@@ -15068,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throne of Blood | 358823 | [358823-throne-of-blood.json](./358823-throne-of-blood.json) |
 | Throne of Bone | 207355 | [207355-throne-of-bone.json](./207355-throne-of-bone.json) |
 | Throne of Darkness | 9913 | [9913-throne-of-darkness.json](./9913-throne-of-darkness.json) |
+| Throne of Egypt | 285352 | [285352-throne-of-egypt.json](./285352-throne-of-egypt.json) |
 | Throne of Egypt | 356707 | [356707-throne-of-egypt.json](./356707-throne-of-egypt.json) |
 | Throne of Fate | 159132 | [159132-throne-of-fate.json](./159132-throne-of-fate.json) |
 | Throne of Fate: Hell Demon | 171905 | [171905-throne-of-fate-hell-demon.json](./171905-throne-of-fate-hell-demon.json) |
@@ -22248,6 +22250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Islands | 144727 | [144727-treasure-islands.json](./144727-treasure-islands.json) |
 | Treasure Isle | 92402 | [92402-treasure-isle.json](./92402-treasure-isle.json) |
 | Treasure Journey | 337044 | [337044-treasure-journey.json](./337044-treasure-journey.json) |
+| Treasure Knight | 285363 | [285363-treasure-knight.json](./285363-treasure-knight.json) |
 | Treasure Master | 80822 | [80822-treasure-master.json](./80822-treasure-master.json) |
 | Treasure Masters, Inc. | 24771 | [24771-treasure-masters-inc.json](./24771-treasure-masters-inc.json) |
 | Treasure MathStorm! | 73996 | [73996-treasure-mathstorm.json](./73996-treasure-mathstorm.json) |
@@ -24128,6 +24131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Shadows | 188354 | [188354-twilight-shadows.json](./188354-twilight-shadows.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
 | Twilight Struggle: Red Sea | 249852 | [249852-twilight-struggle-red-sea.json](./249852-twilight-struggle-red-sea.json) |
+| Twilight Survivors | 285351 | [285351-twilight-survivors.json](./285351-twilight-survivors.json) |
 | Twilight Syndrome Kyuumei-hen | 65454 | [65454-twilight-syndrome-kyuumei-hen.json](./65454-twilight-syndrome-kyuumei-hen.json) |
 | Twilight Syndrome Saikai | 65456 | [65456-twilight-syndrome-saikai.json](./65456-twilight-syndrome-saikai.json) |
 | Twilight Syndrome Special | 59667 | [59667-twilight-syndrome-special.json](./59667-twilight-syndrome-special.json) |
