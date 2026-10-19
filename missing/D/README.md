@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deal or No Deal: The Banker is Back | 70636 | [70636-deal-or-no-deal-the-banker-is-back.json](./70636-deal-or-no-deal-the-banker-is-back.json) |
 | Deal or No Deal: The Interactive DVD Game Show | 218082 | [218082-deal-or-no-deal-the-interactive-dvd-game-show.json](./218082-deal-or-no-deal-the-interactive-dvd-game-show.json) |
 | Deal or No Deal: Vegas Gold | 66428 | [66428-deal-or-no-deal-vegas-gold.json](./66428-deal-or-no-deal-vegas-gold.json) |
+| Deal To My Heart | 299499 | [299499-deal-to-my-heart.json](./299499-deal-to-my-heart.json) |
 | Deal With Nyarlathotep | 370409 | [370409-deal-with-nyarlathotep.json](./370409-deal-with-nyarlathotep.json) |
 | Deal With the Devil Chapter: 2 - From Tuonela to Hell | 350487 | [350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json](./350487-deal-with-the-devil-chapter-2-from-tuonela-to-hell.json) |
 | Dealer's Choice | 350175 | [350175-dealers-choice.json](./350175-dealers-choice.json) |
@@ -3633,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decoherence | 97966 | [97966-decoherence.json](./97966-decoherence.json) |
 | Decollate Decoration | 266187 | [266187-decollate-decoration.json](./266187-decollate-decoration.json) |
 | Decolonators | 294551 | [294551-decolonators.json](./294551-decolonators.json) |
+| Decomission | 299428 | [299428-decomission.json](./299428-decomission.json) |
 | Decommission Protocol | 421367 | [421367-decommission-protocol.json](./421367-decommission-protocol.json) |
 | Decommissioned Tech Repair Mechanic Simulator 2099 | 365763 | [365763-decommissioned-tech-repair-mechanic-simulator-2099.json](./365763-decommissioned-tech-repair-mechanic-simulator-2099.json) |
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
@@ -11524,6 +11526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Mists | 293544 | [293544-dream-mists.json](./293544-dream-mists.json) |
 | Dream Mysteries: Case of the Red Fox | 294201 | [294201-dream-mysteries-case-of-the-red-fox.json](./294201-dream-mysteries-case-of-the-red-fox.json) |
 | Dream of a Sunflower | 230165 | [230165-dream-of-a-sunflower.json](./230165-dream-of-a-sunflower.json) |
+| Dream of Anastasia | 299601 | [299601-dream-of-anastasia.json](./299601-dream-of-anastasia.json) |
 | Dream of Gluttony | 130655 | [130655-dream-of-gluttony.json](./130655-dream-of-gluttony.json) |
 | Dream of Life | 229721 | [229721-dream-of-life.json](./229721-dream-of-life.json) |
 | Dream of Light | 215903 | [215903-dream-of-light.json](./215903-dream-of-light.json) |
