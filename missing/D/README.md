@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Years | 13543 | [13543-dark-years.json](./13543-dark-years.json) |
 | Dark Zodiac | 343338 | [343338-dark-zodiac.json](./343338-dark-zodiac.json) |
 | Dark Zone | 128983 | [128983-dark-zone.json](./128983-dark-zone.json) |
+| Dark Zone | 267799 | [267799-dark-zone.json](./267799-dark-zone.json) |
 | Dark Zone Defense | 125439 | [125439-dark-zone-defense.json](./125439-dark-zone-defense.json) |
 | DarkAir | 160094 | [160094-darkair.json](./160094-darkair.json) |
 | DarkAndLight | 280362 | [280362-darkandlight.json](./280362-darkandlight.json) |
@@ -3521,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debt of Life | 419903 | [419903-debt-of-life.json](./419903-debt-of-life.json) |
 | Debtor | 86756 | [86756-debtor.json](./86756-debtor.json) |
 | Debtor: Enhanced Edition | 234685 | [234685-debtor-enhanced-edition.json](./234685-debtor-enhanced-edition.json) |
+| Debtors' Club | 267807 | [267807-debtors-club.json](./267807-debtors-club.json) |
 | Debts and Dungeons | 389479 | [389479-debts-and-dungeons.json](./389479-debts-and-dungeons.json) |
 | Debuff | 76502 | [76502-debuff.json](./76502-debuff.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
@@ -6176,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
 | Dice and the Tower of the Reanimator: Glorious Princess | 152050 | [152050-dice-and-the-tower-of-the-reanimator-glorious-princess.json](./152050-dice-and-the-tower-of-the-reanimator-glorious-princess.json) |
+| Dice Assassin | 267806 | [267806-dice-assassin.json](./267806-dice-assassin.json) |
 | Dice Battle | 279007 | [279007-dice-battle.json](./279007-dice-battle.json) |
 | Dice Battle: 3d Board Game | 348395 | [348395-dice-battle-3d-board-game.json](./348395-dice-battle-3d-board-game.json) |
 | Dice Birth Road | 290475 | [290475-dice-birth-road.json](./290475-dice-birth-road.json) |
@@ -12065,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Zone 2 | 174845 | [174845-drift-zone-2.json](./174845-drift-zone-2.json) |
 | Drift Zone Arcade | 147746 | [147746-drift-zone-arcade.json](./147746-drift-zone-arcade.json) |
 | Drift: When Worlds Collide | 71505 | [71505-drift-when-worlds-collide.json](./71505-drift-when-worlds-collide.json) |
+| Drift.Wav | 267804 | [267804-drift-wav.json](./267804-drift-wav.json) |
 | Drift'n'Drive | 134446 | [134446-driftndrive.json](./134446-driftndrive.json) |
 | Drift'n'Drive | 200025 | [200025-driftndrive.json](./200025-driftndrive.json) |
 | Drift86 | 130636 | [130636-drift86.json](./130636-drift86.json) |
