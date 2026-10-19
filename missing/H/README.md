@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazard Run | 25805 | [25805-hazard-run.json](./25805-hazard-run.json) |
 | Hazard Versus | 353393 | [353393-hazard-versus.json](./353393-hazard-versus.json) |
 | Hazard Voyage | 420491 | [420491-hazard-voyage.json](./420491-hazard-voyage.json) |
+| Hazardous Chemicals | 273227 | [273227-hazardous-chemicals.json](./273227-hazardous-chemicals.json) |
 | Hazardous Hunt | 345822 | [345822-hazardous-hunt.json](./345822-hazardous-hunt.json) |
 | Hazardous island | 304915 | [304915-hazardous-island.json](./304915-hazardous-island.json) |
 | Hazardous Journey | 110332 | [110332-hazardous-journey.json](./110332-hazardous-journey.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
 | Hell Sports | 147743 | [147743-hell-sports.json](./147743-hell-sports.json) |
+| Hell Station | 273234 | [273234-hell-station.json](./273234-hell-station.json) |
 | Hell Survive | 75787 | [75787-hell-survive.json](./75787-hell-survive.json) |
 | Hell Survivors | 302694 | [302694-hell-survivors.json](./302694-hell-survivors.json) |
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
@@ -5779,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiirun | 257112 | [257112-hiirun.json](./257112-hiirun.json) |
 | Hiis | 143579 | [143579-hiis.json](./143579-hiis.json) |
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
+| Hijack | 273230 | [273230-hijack.json](./273230-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
