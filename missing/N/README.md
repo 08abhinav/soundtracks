@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu to Hakaba to Urameshiya | 285378 | [285378-natsu-to-hakaba-to-urameshiya.json](./285378-natsu-to-hakaba-to-urameshiya.json) |
 | Natsu Uso: Ahead of the Reminiscence | 379631 | [379631-natsu-uso-ahead-of-the-reminiscence.json](./379631-natsu-uso-ahead-of-the-reminiscence.json) |
 | Natsu-Mon: 20th Century Summer Kid | 236697 | [236697-natsu-mon-20th-century-summer-kid.json](./236697-natsu-mon-20th-century-summer-kid.json) |
+| Natsu-Mon: 20th Century Summer Kid: Broadcast Over Sunset | 306196 | [306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json](./306196-natsu-mon-20th-century-summer-kid-broadcast-over-sunset.json) |
 | Natsuha & Fuyumi: When Summer And Winter Meet | 383060 | [383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json](./383060-natsuha-and-fuyumi-when-summer-and-winter-meet.json) |
 | Natsuiro Communication | 77943 | [77943-natsuiro-communication.json](./77943-natsuiro-communication.json) |
 | Natsuiro High School: Seishun Hakusho | 52602 | [52602-natsuiro-high-school-seishun-hakusho.json](./52602-natsuiro-high-school-seishun-hakusho.json) |
