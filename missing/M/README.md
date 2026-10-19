@@ -1312,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
+| Magnetic Merge: Number Master | 256150 | [256150-magnetic-merge-number-master.json](./256150-magnetic-merge-number-master.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
@@ -1920,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: HD Deluxe Edition | 260219 | [260219-making-lovers-hd-deluxe-edition.json](./260219-making-lovers-hd-deluxe-edition.json) |
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
+| Making the Game | 256118 | [256118-making-the-game.json](./256118-making-the-game.json) |
 | Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
 | Makiomino | 196040 | [196040-makiomino.json](./196040-makiomino.json) |
 | Makis Adventure: Level Editor | 341605 | [341605-makis-adventure-level-editor.json](./341605-makis-adventure-level-editor.json) |
@@ -2408,6 +2410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maple County | 182346 | [182346-maple-county.json](./182346-maple-county.json) |
 | Maple Forest | 318604 | [318604-maple-forest.json](./318604-maple-forest.json) |
 | Maple Tale | 319374 | [319374-maple-tale.json](./319374-maple-tale.json) |
+| Maple Winters in Leafbud Rampage!! | 256121 | [256121-maple-winters-in-leafbud-rampage.json](./256121-maple-winters-in-leafbud-rampage.json) |
 | Mapleland | 272156 | [272156-mapleland.json](./272156-mapleland.json) |
 | MapleStory | 9804 | [9804-maplestory.json](./9804-maplestory.json) |
 | MapleStory 2 | 80348 | [80348-maplestory-2.json](./80348-maplestory-2.json) |
@@ -2460,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marathon: Durandal | 299291 | [299291-marathon-durandal.json](./299291-marathon-durandal.json) |
 | Marathon: Eternal X | 228484 | [228484-marathon-eternal-x.json](./228484-marathon-eternal-x.json) |
 | Marathon: Istoria | 252087 | [252087-marathon-istoria.json](./252087-marathon-istoria.json) |
+| Marathon: Resurrection | 256152 | [256152-marathon-resurrection.json](./256152-marathon-resurrection.json) |
 | Marathon: Rubicon X | 140942 | [140942-marathon-rubicon-x.json](./140942-marathon-rubicon-x.json) |
 | Maratoma do Faustão | 242648 | [242648-maratoma-do-faustao.json](./242648-maratoma-do-faustao.json) |
 | Maratón | 268120 | [268120-maraton.json](./268120-maraton.json) |
@@ -13247,6 +13251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Town: Soul of the Machine | 54230 | [54230-motor-town-soul-of-the-machine.json](./54230-motor-town-soul-of-the-machine.json) |
 | Motor Wars | 137592 | [137592-motor-wars.json](./137592-motor-wars.json) |
 | Motor Wars 2 | 97440 | [97440-motor-wars-2.json](./97440-motor-wars-2.json) |
+| Motor World: Bike Factory | 256129 | [256129-motor-world-bike-factory.json](./256129-motor-world-bike-factory.json) |
 | Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
@@ -16400,6 +16405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythos Ever After: A Cthulhu Dating Sim | 171431 | [171431-mythos-ever-after-a-cthulhu-dating-sim.json](./171431-mythos-ever-after-a-cthulhu-dating-sim.json) |
 | Mythos Interactive Game Collection | 341355 | [341355-mythos-interactive-game-collection.json](./341355-mythos-interactive-game-collection.json) |
 | Mythos Party | 153961 | [153961-mythos-party.json](./153961-mythos-party.json) |
+| Mythos Quest | 256159 | [256159-mythos-quest.json](./256159-mythos-quest.json) |
 | Mythos: Book One | 344543 | [344543-mythos-book-one.json](./344543-mythos-book-one.json) |
 | Mythos: Slavic Builder | 150784 | [150784-mythos-slavic-builder.json](./150784-mythos-slavic-builder.json) |
 | Mythos: The Beginning | 36206 | [36206-mythos-the-beginning.json](./36206-mythos-the-beginning.json) |
