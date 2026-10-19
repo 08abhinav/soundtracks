@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
 | OHM 1 | 273570 | [273570-ohm-1.json](./273570-ohm-1.json) |
 | OHM 2 | 273571 | [273571-ohm-2.json](./273571-ohm-2.json) |
+| OhMyRace! | 274900 | [274900-ohmyrace.json](./274900-ohmyrace.json) |
 | OhMyWitch! | 266876 | [266876-ohmywitch.json](./266876-ohmywitch.json) |
 | Ohno Odyssey | 23519 | [23519-ohno-odyssey.json](./23519-ohno-odyssey.json) |
 | Ohr Oni | 186620 | [186620-ohr-oni.json](./186620-ohr-oni.json) |
@@ -3431,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
+| Otome Daoshi: Fighting for Love | 274883 | [274883-otome-daoshi-fighting-for-love.json](./274883-otome-daoshi-fighting-for-love.json) |
 | Otome Domain | 143356 | [143356-otome-domain.json](./143356-otome-domain.json) |
 | Otome ga Kanaderu Koi no Aria | 60376 | [60376-otome-ga-kanaderu-koi-no-aria.json](./60376-otome-ga-kanaderu-koi-no-aria.json) |
 | Otome ga Kanaderu Koi no Aria: Kimi ni Sasageru Encore | 60377 | [60377-otome-ga-kanaderu-koi-no-aria-kimi-ni-sasageru-encore.json](./60377-otome-ga-kanaderu-koi-no-aria-kimi-ni-sasageru-encore.json) |
@@ -4071,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over My Dead Body (For You) | 38751 | [38751-over-my-dead-body-for-you.json](./38751-over-my-dead-body-for-you.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
+| Over Requiemz | 274885 | [274885-over-requiemz.json](./274885-over-requiemz.json) |
 | Over Rev | 39449 | [39449-over-rev.json](./39449-over-rev.json) |
 | Over Road | 341530 | [341530-over-road.json](./341530-over-road.json) |
 | Over Sand | 402485 | [402485-over-sand.json](./402485-over-sand.json) |
