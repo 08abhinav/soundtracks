@@ -1915,6 +1915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
 | Haunted Adventure II - Redemption | 279667 | [279667-haunted-adventure-ii-redemption.json](./279667-haunted-adventure-ii-redemption.json) |
+| Haunted Arcade | 292957 | [292957-haunted-arcade.json](./292957-haunted-arcade.json) |
 | Haunted Attractions | 417357 | [417357-haunted-attractions.json](./417357-haunted-attractions.json) |
 | Haunted Bar Simulator | 407489 | [407489-haunted-bar-simulator.json](./407489-haunted-bar-simulator.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
@@ -3731,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Prairie Greens | 283235 | [283235-hentai-golf-prairie-greens.json](./283235-hentai-golf-prairie-greens.json) |
 | Hentai Golf: Premium Edition | 297302 | [297302-hentai-golf-premium-edition.json](./297302-hentai-golf-premium-edition.json) |
 | Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
+| Hentai Golf: Special Edition | 292913 | [292913-hentai-golf-special-edition.json](./292913-hentai-golf-special-edition.json) |
 | Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
 | Hentai Gymnast Scarlett | 375979 | [375979-hentai-gymnast-scarlett.json](./375979-hentai-gymnast-scarlett.json) |
@@ -4856,6 +4858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexothermic | 69170 | [69170-hexothermic.json](./69170-hexothermic.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
 | Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
+| Hexpire | 292944 | [292944-hexpire.json](./292944-hexpire.json) |
 | Hexplorando | 291778 | [291778-hexplorando.json](./291778-hexplorando.json) |
 | HeXpunk | 343246 | [343246-hexpunk.json](./343246-hexpunk.json) |
 | Hexroll | 337779 | [337779-hexroll.json](./337779-hexroll.json) |
