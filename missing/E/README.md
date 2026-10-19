@@ -3156,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entwined Time | 312855 | [312855-entwined-time.json](./312855-entwined-time.json) |
 | Entwined: Strings of Deception | 41915 | [41915-entwined-strings-of-deception.json](./41915-entwined-strings-of-deception.json) |
 | Entwined: The Perfect Murder | 112489 | [112489-entwined-the-perfect-murder.json](./112489-entwined-the-perfect-murder.json) |
+| Enupishi | 283581 | [283581-enupishi.json](./283581-enupishi.json) |
 | Envasion | 254394 | [254394-envasion.json](./254394-envasion.json) |
 | Envguard | 339756 | [339756-envguard.json](./339756-envguard.json) |
 | Envido | 418535 | [418535-envido.json](./418535-envido.json) |
@@ -3935,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Initiative | 132659 | [132659-escape-initiative.json](./132659-escape-initiative.json) |
 | Escape Into Infinity | 186588 | [186588-escape-into-infinity.json](./186588-escape-into-infinity.json) |
 | Escape Island | 290915 | [290915-escape-island.json](./290915-escape-island.json) |
+| Escape It! | 283621 | [283621-escape-it.json](./283621-escape-it.json) |
 | Escape IV - Prison Break | 90665 | [90665-escape-iv-prison-break.json](./90665-escape-iv-prison-break.json) |
 | Escape Kids | 39867 | [39867-escape-kids.json](./39867-escape-kids.json) |
 | Escape Lala 2 | 118370 | [118370-escape-lala-2.json](./118370-escape-lala-2.json) |
