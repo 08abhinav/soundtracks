@@ -10112,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meek Mirtho | 385589 | [385589-the-meek-mirtho.json](./385589-the-meek-mirtho.json) |
 | The Mega FMV Bundle | 243800 | [243800-the-mega-fmv-bundle.json](./243800-the-mega-fmv-bundle.json) |
 | The Meldstorm | 129002 | [129002-the-meldstorm.json](./129002-the-meldstorm.json) |
+| The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memories That Shape Us | 327371 | [327371-the-memories-that-shape-us.json](./327371-the-memories-that-shape-us.json) |
@@ -19166,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Assault: Zombie Massacre | 214109 | [214109-total-assault-zombie-massacre.json](./214109-total-assault-zombie-massacre.json) |
 | Total Battle | 112718 | [112718-total-battle.json](./112718-total-battle.json) |
 | Total Battleground | 101416 | [101416-total-battleground.json](./101416-total-battleground.json) |
+| Total blade | 278290 | [278290-total-blade.json](./278290-total-blade.json) |
 | Total Carnage | 12868 | [12868-total-carnage.json](./12868-total-carnage.json) |
 | Total Chaos | 125766 | [125766-total-chaos.json](./125766-total-chaos.json) |
 | Total Chaos | 301071 | [301071-total-chaos.json](./301071-total-chaos.json) |
@@ -22600,6 +22602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TribeQuest: Red Killer | 34771 | [34771-tribequest-red-killer.json](./34771-tribequest-red-killer.json) |
 | Tribes | 348754 | [348754-tribes.json](./348754-tribes.json) |
 | Tribes 2 | 922 | [922-tribes-2.json](./922-tribes-2.json) |
+| Tribes 3: Rivals | 278321 | [278321-tribes-3-rivals.json](./278321-tribes-3-rivals.json) |
 | Tribes Action Pack | 100118 | [100118-tribes-action-pack.json](./100118-tribes-action-pack.json) |
 | Tribes Extreme | 206074 | [206074-tribes-extreme.json](./206074-tribes-extreme.json) |
 | Tribes Universe | 91893 | [91893-tribes-universe.json](./91893-tribes-universe.json) |
