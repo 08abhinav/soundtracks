@@ -5723,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterhavoc | 283904 | [283904-alterhavoc.json](./283904-alterhavoc.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
+| Alterlight | 256705 | [256705-alterlight.json](./256705-alterlight.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
@@ -9698,6 +9699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent Wilds | 368644 | [368644-ardent-wilds.json](./368644-ardent-wilds.json) |
 | Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
 | Ardente: La Grande Guerre | 322850 | [322850-ardente-la-grande-guerre.json](./322850-ardente-la-grande-guerre.json) |
+| Ardentryst | 256691 | [256691-ardentryst.json](./256691-ardentryst.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
