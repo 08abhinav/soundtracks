@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate - Variety Pack 7XS | 263506 | [263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json](./263506-jigsaw-puzzle-pack-pixel-puzzles-ultimate-variety-pack-7xs.json) |
 | Jigsaw Puzzle Pack: Pixel Puzzles Ultimate Germany 2 | 272326 | [272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json](./272326-jigsaw-puzzle-pack-pixel-puzzles-ultimate-germany-2.json) |
 | Jigsaw Puzzle Passport: Spain | 393628 | [393628-jigsaw-puzzle-passport-spain.json](./393628-jigsaw-puzzle-passport-spain.json) |
+| Jigsaw Puzzle Platinum Edition | 275479 | [275479-jigsaw-puzzle-platinum-edition.json](./275479-jigsaw-puzzle-platinum-edition.json) |
 | Jigsaw Puzzle Pro | 91316 | [91316-jigsaw-puzzle-pro.json](./91316-jigsaw-puzzle-pro.json) |
 | Jigsaw Puzzle Utopia | 322071 | [322071-jigsaw-puzzle-utopia.json](./322071-jigsaw-puzzle-utopia.json) |
 | Jigsaw Puzzle Villa | 220206 | [220206-jigsaw-puzzle-villa.json](./220206-jigsaw-puzzle-villa.json) |
