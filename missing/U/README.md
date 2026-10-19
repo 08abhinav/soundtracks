@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Una Gesta Draconiana | 400870 | [400870-una-gesta-draconiana.json](./400870-una-gesta-draconiana.json) |
 | Una noche en órbita | 391669 | [391669-una-noche-en-orbita.json](./391669-una-noche-en-orbita.json) |
 | Una noche sin nombre | 314510 | [314510-una-noche-sin-nombre.json](./314510-una-noche-sin-nombre.json) |
+| Unable to Exit 8 | 297867 | [297867-unable-to-exit-8.json](./297867-unable-to-exit-8.json) |
 | Unables | 212167 | [212167-unables.json](./212167-unables.json) |
 | Unaccessible | 327981 | [327981-unaccessible.json](./327981-unaccessible.json) |
 | Unaided: 1939 | 31811 | [31811-unaided-1939.json](./31811-unaided-1939.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Region | 160178 | [160178-unknown-region.json](./160178-unknown-region.json) |
 | Unknown Rules | 302477 | [302477-unknown-rules.json](./302477-unknown-rules.json) |
 | Unknown Scrolls | 113719 | [113719-unknown-scrolls.json](./113719-unknown-scrolls.json) |
+| Unknown Seas | 297849 | [297849-unknown-seas.json](./297849-unknown-seas.json) |
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
