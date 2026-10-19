@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade PC | 342045 | [342045-infinity-blade-pc.json](./342045-infinity-blade-pc.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
+| Infinity Castle Dungeon | 274331 | [274331-infinity-castle-dungeon.json](./274331-infinity-castle-dungeon.json) |
 | Infinity Cave | 313422 | [313422-infinity-cave.json](./313422-infinity-cave.json) |
 | Infinity Challenge | 96647 | [96647-infinity-challenge.json](./96647-infinity-challenge.json) |
 | Infinity Coloring Pixel | 162616 | [162616-infinity-coloring-pixel.json](./162616-infinity-coloring-pixel.json) |
