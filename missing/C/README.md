@@ -5436,6 +5436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip 'n Clawz vs. The Brainioids: Going Underground | 398527 | [398527-chip-n-clawz-vs-the-brainioids-going-underground.json](./398527-chip-n-clawz-vs-the-brainioids-going-underground.json) |
 | Chip 'n Dale SNES Port | 377229 | [377229-chip-n-dale-snes-port.json](./377229-chip-n-dale-snes-port.json) |
 | Chip & Sparky | 303731 | [303731-chip-and-sparky.json](./303731-chip-and-sparky.json) |
+| Chip and Charge | 289208 | [289208-chip-and-charge.json](./289208-chip-and-charge.json) |
 | Chip Beat Blaster | 232145 | [232145-chip-beat-blaster.json](./232145-chip-beat-blaster.json) |
 | Chip Buster | 13703 | [13703-chip-buster.json](./13703-chip-buster.json) |
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
@@ -13374,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III: Fashion of the Abbasid Court | 286097 | [286097-crusader-kings-iii-fashion-of-the-abbasid-court.json](./286097-crusader-kings-iii-fashion-of-the-abbasid-court.json) |
 | Crusader Kings III: Fate of Iberia | 203964 | [203964-crusader-kings-iii-fate-of-iberia.json](./203964-crusader-kings-iii-fate-of-iberia.json) |
 | Crusader Kings III: Khans of the Steppe | 343945 | [343945-crusader-kings-iii-khans-of-the-steppe.json](./343945-crusader-kings-iii-khans-of-the-steppe.json) |
+| Crusader Kings III: Legends of the Dead | 289167 | [289167-crusader-kings-iii-legends-of-the-dead.json](./289167-crusader-kings-iii-legends-of-the-dead.json) |
 | Crusader Kings III: Northern Lords | 164510 | [164510-crusader-kings-iii-northern-lords.json](./164510-crusader-kings-iii-northern-lords.json) |
 | Crusader Kings III: Royal Court | 184511 | [184511-crusader-kings-iii-royal-court.json](./184511-crusader-kings-iii-royal-court.json) |
 | Crusader Kings III: Royal Edition | 188022 | [188022-crusader-kings-iii-royal-edition.json](./188022-crusader-kings-iii-royal-edition.json) |
