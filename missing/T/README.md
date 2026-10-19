@@ -14238,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Yakyuu Ken Special: Konya wa 8-kaisen | 74777 | [74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json](./74777-the-yakyuu-ken-special-konya-wa-8-kaisen.json) |
 | The Yakyuuken Special: Konya ha 12-kaisen | 74778 | [74778-the-yakyuuken-special-konya-ha-12-kaisen.json](./74778-the-yakyuuken-special-konya-ha-12-kaisen.json) |
 | The Yamamura Estate | 376857 | [376857-the-yamamura-estate.json](./376857-the-yamamura-estate.json) |
+| The Yanus Plan for Escape from the Void | 283057 | [283057-the-yanus-plan-for-escape-from-the-void.json](./283057-the-yanus-plan-for-escape-from-the-void.json) |
 | The Yard: Escape from Prison | 414610 | [414610-the-yard-escape-from-prison.json](./414610-the-yard-escape-from-prison.json) |
 | The Yawhg | 3031 | [3031-the-yawhg.json](./3031-the-yawhg.json) |
 | The Year of the Carrot | 235758 | [235758-the-year-of-the-carrot.json](./235758-the-year-of-the-carrot.json) |
@@ -16989,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travelling Blues | 120909 | [120909-time-travelling-blues.json](./120909-time-travelling-blues.json) |
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
+| Time Treker | 283056 | [283056-time-treker.json](./283056-time-treker.json) |
 | Time Trials | 310788 | [310788-time-trials.json](./310788-time-trials.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
 | Time Tripper | 209128 | [209128-time-tripper.json](./209128-time-tripper.json) |
@@ -23391,6 +23393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try Again | 219526 | [219526-try-again.json](./219526-try-again.json) |
 | Try Again | 249388 | [249388-try-again.json](./249388-try-again.json) |
 | Try Dying | 319713 | [319713-try-dying.json](./319713-try-dying.json) |
+| Try if you can 100 | 283030 | [283030-try-if-you-can-100.json](./283030-try-if-you-can-100.json) |
 | Try not to die | 126919 | [126919-try-not-to-die.json](./126919-try-not-to-die.json) |
 | Try Not to Fart | 79371 | [79371-try-not-to-fart.json](./79371-try-not-to-fart.json) |
 | Try Not to Laugh | 102754 | [102754-try-not-to-laugh.json](./102754-try-not-to-laugh.json) |
@@ -23758,6 +23761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TunnelWorm | 87108 | [87108-tunnelworm.json](./87108-tunnelworm.json) |
 | Tunnet | 244339 | [244339-tunnet.json](./244339-tunnet.json) |
 | Tunshi Kongming Legends | 110342 | [110342-tunshi-kongming-legends.json](./110342-tunshi-kongming-legends.json) |
+| Tunshi Unifying Plains | 283063 | [283063-tunshi-unifying-plains.json](./283063-tunshi-unifying-plains.json) |
 | TunsTan | 276148 | [276148-tunstan.json](./276148-tunstan.json) |
 | TunTun | 310008 | [310008-tuntun.json](./310008-tuntun.json) |
 | Tuōlājī | 104116 | [104116-tuolaji.json](./104116-tuolaji.json) |
