@@ -6449,8 +6449,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Revolution: Medieval Tales | 168926 | [168926-worms-revolution-medieval-tales.json](./168926-worms-revolution-medieval-tales.json) |
 | Worms Rumble | 135554 | [135554-worms-rumble.json](./135554-worms-rumble.json) |
 | Worms Rumble: Action All-Stars Pack | 261333 | [261333-worms-rumble-action-all-stars-pack.json](./261333-worms-rumble-action-all-stars-pack.json) |
+| Worms Rumble: Armageddon Weapon Skin Pack | 301561 | [301561-worms-rumble-armageddon-weapon-skin-pack.json](./301561-worms-rumble-armageddon-weapon-skin-pack.json) |
 | Worms Rumble: Bank Heist Double Pack | 225086 | [225086-worms-rumble-bank-heist-double-pack.json](./225086-worms-rumble-bank-heist-double-pack.json) |
 | Worms Rumble: Captain & Shark Double Pack | 225087 | [225087-worms-rumble-captain-and-shark-double-pack.json](./225087-worms-rumble-captain-and-shark-double-pack.json) |
+| Worms Rumble: Emote Pack | 301562 | [301562-worms-rumble-emote-pack.json](./301562-worms-rumble-emote-pack.json) |
 | Worms Rumble: Fully Loaded Edition | 146164 | [146164-worms-rumble-fully-loaded-edition.json](./146164-worms-rumble-fully-loaded-edition.json) |
 | Worms Rumble: Honor & Death Pack | 225089 | [225089-worms-rumble-honor-and-death-pack.json](./225089-worms-rumble-honor-and-death-pack.json) |
 | Worms Rumble: Legends Pack | 227318 | [227318-worms-rumble-legends-pack.json](./227318-worms-rumble-legends-pack.json) |
