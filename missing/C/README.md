@@ -5614,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
 | Choo-Choo Charles | 173432 | [173432-choo-choo-charles.json](./173432-choo-choo-charles.json) |
+| Choo-Choose | 292375 | [292375-choo-choose.json](./292375-choo-choose.json) |
 | Chooche | 175163 | [175163-chooche.json](./175163-chooche.json) |
 | Chooing | 303732 | [303732-chooing.json](./303732-chooing.json) |
 | Chook & Sosig | 134410 | [134410-chook-and-sosig.json](./134410-chook-and-sosig.json) |
@@ -8062,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Reactors | 330142 | [330142-code-reactors.json](./330142-code-reactors.json) |
 | Code Red | 101757 | [101757-code-red.json](./101757-code-red.json) |
 | Code Red | 224083 | [224083-code-red.json](./224083-code-red.json) |
+| Code Red | 292455 | [292455-code-red.json](./292455-code-red.json) |
 | Code Rivals | 211126 | [211126-code-rivals.json](./211126-code-rivals.json) |
 | Code Romantic | 105104 | [105104-code-romantic.json](./105104-code-romantic.json) |
 | Code Tracer | 124227 | [124227-code-tracer.json](./124227-code-tracer.json) |
@@ -9737,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confronted | 291708 | [291708-confronted.json](./291708-confronted.json) |
 | Confused? | 71490 | [71490-confused.json](./71490-confused.json) |
 | Confusing game | 148340 | [148340-confusing-game.json](./148340-confusing-game.json) |
+| Confusion | 292401 | [292401-confusion.json](./292401-confusion.json) |
 | Confusion Constructions | 279074 | [279074-confusion-constructions.json](./279074-confusion-constructions.json) |
 | Confusion Conveyed | 302164 | [302164-confusion-conveyed.json](./302164-confusion-conveyed.json) |
 | Confusion Readily Achieved Perspectively Through Unrealistic Relative Dimensions | 283740 | [283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json](./283740-confusion-readily-achieved-perspectively-through-unrealistic-relative-dimensions.json) |
@@ -11387,6 +11390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
+| Cowboy vs. Zombies | 292359 | [292359-cowboy-vs-zombies.json](./292359-cowboy-vs-zombies.json) |
 | Cowboy Wanted Deluxe | 87602 | [87602-cowboy-wanted-deluxe.json](./87602-cowboy-wanted-deluxe.json) |
 | Cowboy War | 237627 | [237627-cowboy-war.json](./237627-cowboy-war.json) |
 | Cowboy with a Gatling Gun | 184106 | [184106-cowboy-with-a-gatling-gun.json](./184106-cowboy-with-a-gatling-gun.json) |
@@ -14285,6 +14289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling | 147856 | [147856-curling.json](./147856-curling.json) |
 | Curling | 359188 | [359188-curling.json](./359188-curling.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
+| Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
 | Curling World Cup | 98983 | [98983-curling-world-cup.json](./98983-curling-world-cup.json) |
