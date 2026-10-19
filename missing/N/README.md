@@ -1820,15 +1820,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Exploding Bread | 363685 | [363685-neon-exploding-bread.json](./363685-neon-exploding-bread.json) |
 | Neon Express | 310723 | [310723-neon-express.json](./310723-neon-express.json) |
 | Neon Fantasy: Birds | 254144 | [254144-neon-fantasy-birds.json](./254144-neon-fantasy-birds.json) |
+| Neon Fantasy: Butterflies | 293493 | [293493-neon-fantasy-butterflies.json](./293493-neon-fantasy-butterflies.json) |
 | Neon Fantasy: Cats | 267842 | [267842-neon-fantasy-cats.json](./267842-neon-fantasy-cats.json) |
 | Neon Fantasy: Dinosaurs | 401022 | [401022-neon-fantasy-dinosaurs.json](./401022-neon-fantasy-dinosaurs.json) |
 | Neon Fantasy: Dogs | 270970 | [270970-neon-fantasy-dogs.json](./270970-neon-fantasy-dogs.json) |
 | Neon Fantasy: Fairies | 387754 | [387754-neon-fantasy-fairies.json](./387754-neon-fantasy-fairies.json) |
 | Neon Fantasy: Girls | 252278 | [252278-neon-fantasy-girls.json](./252278-neon-fantasy-girls.json) |
+| Neon Fantasy: Horses | 293492 | [293492-neon-fantasy-horses.json](./293492-neon-fantasy-horses.json) |
 | Neon Fantasy: Monkeys | 274457 | [274457-neon-fantasy-monkeys.json](./274457-neon-fantasy-monkeys.json) |
 | Neon Fantasy: Mushrooms | 305628 | [305628-neon-fantasy-mushrooms.json](./305628-neon-fantasy-mushrooms.json) |
 | Neon Fantasy: Owls | 395785 | [395785-neon-fantasy-owls.json](./395785-neon-fantasy-owls.json) |
 | Neon Fantasy: Predators | 278732 | [278732-neon-fantasy-predators.json](./278732-neon-fantasy-predators.json) |
+| Neon Fantasy: Rodents | 293494 | [293494-neon-fantasy-rodents.json](./293494-neon-fantasy-rodents.json) |
 | Neon Fever | 312753 | [312753-neon-fever.json](./312753-neon-fever.json) |
 | Neon Fighter | 211720 | [211720-neon-fighter.json](./211720-neon-fighter.json) |
 | Neon Flash 2 | 195464 | [195464-neon-flash-2.json](./195464-neon-flash-2.json) |
@@ -5307,6 +5310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
 | Now It's My Turn | 158687 | [158687-now-its-my-turn.json](./158687-now-its-my-turn.json) |
 | Now Man Flies | 75810 | [75810-now-man-flies.json](./75810-now-man-flies.json) |
+| Now Open! Horror House | 293485 | [293485-now-open-horror-house.json](./293485-now-open-horror-house.json) |
 | Now Showing | 394765 | [394765-now-showing.json](./394765-now-showing.json) |
 | Now Streaming | 122351 | [122351-now-streaming.json](./122351-now-streaming.json) |
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
