@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
+| Of Murder and Moonshine | 276627 | [276627-of-murder-and-moonshine.json](./276627-of-murder-and-moonshine.json) |
 | Of Pawns & Kings | 164055 | [164055-of-pawns-and-kings.json](./164055-of-pawns-and-kings.json) |
 | Of Piers & Bays | 397903 | [397903-of-piers-and-bays.json](./397903-of-piers-and-bays.json) |
 | Of Pith and Pumpkins | 185415 | [185415-of-pith-and-pumpkins.json](./185415-of-pith-and-pumpkins.json) |
@@ -881,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh That's Why | 381951 | [381951-oh-thats-why.json](./381951-oh-thats-why.json) |
 | Oh the Humanity! | 311481 | [311481-oh-the-humanity.json](./311481-oh-the-humanity.json) |
 | Oh to be a ghost bringing a scarf to my beloved | 307696 | [307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json](./307696-oh-to-be-a-ghost-bringing-a-scarf-to-my-beloved.json) |
+| Oh Yeah | 276628 | [276628-oh-yeah.json](./276628-oh-yeah.json) |
 | Oh, Bugger! | 347679 | [347679-oh-bugger.json](./347679-oh-bugger.json) |
 | Oh, Canada! | 371345 | [371345-oh-canada.json](./371345-oh-canada.json) |
 | Oh, Deer! | 80563 | [80563-oh-deer.json](./80563-oh-deer.json) |
@@ -1679,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
 | One Escape | 146041 | [146041-one-escape.json](./146041-one-escape.json) |
+| One False Move | 276629 | [276629-one-false-move.json](./276629-one-false-move.json) |
 | One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Fenix Down | 297172 | [297172-one-fenix-down.json](./297172-one-fenix-down.json) |
