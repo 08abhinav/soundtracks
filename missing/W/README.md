@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waste Cleaner | 61614 | [61614-waste-cleaner.json](./61614-waste-cleaner.json) |
 | Waste Eater | 231791 | [231791-waste-eater.json](./231791-waste-eater.json) |
 | Waste in Space | 248651 | [248651-waste-in-space.json](./248651-waste-in-space.json) |
+| Waste Labs | 256704 | [256704-waste-labs.json](./256704-waste-labs.json) |
 | Waste recycling | 183368 | [183368-waste-recycling.json](./183368-waste-recycling.json) |
 | Waste The Fallen | 413735 | [413735-waste-the-fallen.json](./413735-waste-the-fallen.json) |
 | Waste Time Lotto | 338391 | [338391-waste-time-lotto.json](./338391-waste-time-lotto.json) |
