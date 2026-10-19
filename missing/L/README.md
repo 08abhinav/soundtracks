@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich Legend | 159238 | [159238-lich-legend.json](./159238-lich-legend.json) |
 | Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
+| Lich's Dungeon | 295604 | [295604-lichs-dungeon.json](./295604-lichs-dungeon.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichess | 122008 | [122008-lichess.json](./122008-lichess.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost Meow | 295619 | [295619-lost-meow.json](./295619-lost-meow.json) |
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
 | Lost Museum: Echoes of the Chromageists | 416055 | [416055-lost-museum-echoes-of-the-chromageists.json](./416055-lost-museum-echoes-of-the-chromageists.json) |
 | Lost my Collection of 100 Shells | 359574 | [359574-lost-my-collection-of-100-shells.json](./359574-lost-my-collection-of-100-shells.json) |
@@ -7075,6 +7077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
 | Lumo: Deluxe Edition | 51839 | [51839-lumo-deluxe-edition.json](./51839-lumo-deluxe-edition.json) |
 | Lumo's Cat | 14303 | [14303-lumos-cat.json](./14303-lumos-cat.json) |
+| Lumos | 295613 | [295613-lumos.json](./295613-lumos.json) |
 | Lump Jump | 204994 | [204994-lump-jump.json](./204994-lump-jump.json) |
 | Lumpy | 158407 | [158407-lumpy.json](./158407-lumpy.json) |
 | Luna | 120154 | [120154-luna.json](./120154-luna.json) |
