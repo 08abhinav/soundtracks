@@ -4775,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
+| Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
 | Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
@@ -9160,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
+| Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
