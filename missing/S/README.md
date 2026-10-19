@@ -5129,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Midnight: They Watch Me Sleep | 347366 | [347366-shadows-of-midnight-they-watch-me-sleep.json](./347366-shadows-of-midnight-they-watch-me-sleep.json) |
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
 | Shadows of Progakko | 325542 | [325542-shadows-of-progakko.json](./325542-shadows-of-progakko.json) |
+| Shadows of Progakko: Kuro | 301693 | [301693-shadows-of-progakko-kuro.json](./301693-shadows-of-progakko-kuro.json) |
 | Shadows of Rogue: The Sorcerer's Curse | 272281 | [272281-shadows-of-rogue-the-sorcerers-curse.json](./272281-shadows-of-rogue-the-sorcerers-curse.json) |
 | Shadows of RON | 71167 | [71167-shadows-of-ron.json](./71167-shadows-of-ron.json) |
 | Shadows of Soldiers | 264143 | [264143-shadows-of-soldiers.json](./264143-shadows-of-soldiers.json) |
@@ -5454,6 +5455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards of Azuria | 32164 | [32164-shards-of-azuria.json](./32164-shards-of-azuria.json) |
+| Shards of Epoch Past | 301697 | [301697-shards-of-epoch-past.json](./301697-shards-of-epoch-past.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
@@ -18906,6 +18908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
+| Steam Prison: Beyond The Steam | 301689 | [301689-steam-prison-beyond-the-steam.json](./301689-steam-prison-beyond-the-steam.json) |
 | Steam Punks | 61085 | [61085-steam-punks.json](./61085-steam-punks.json) |
 | Steam Puppet: Tower Defense | 151670 | [151670-steam-puppet-tower-defense.json](./151670-steam-puppet-tower-defense.json) |
 | Steam Revolution VR | 162710 | [162710-steam-revolution-vr.json](./162710-steam-revolution-vr.json) |
