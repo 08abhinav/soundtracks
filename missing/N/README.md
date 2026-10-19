@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
 | Night Lights: After Dark | 409019 | [409019-night-lights-after-dark.json](./409019-night-lights-after-dark.json) |
 | Night Lurker | 403550 | [403550-night-lurker.json](./403550-night-lurker.json) |
+| Night Machine | 308033 | [308033-night-machine.json](./308033-night-machine.json) |
 | Night Magic | 109747 | [109747-night-magic.json](./109747-night-magic.json) |
 | Night Maniac: The Origin Of Steven | 416767 | [416767-night-maniac-the-origin-of-steven.json](./416767-night-maniac-the-origin-of-steven.json) |
 | Night Mission Pinball | 25138 | [25138-night-mission-pinball.json](./25138-night-mission-pinball.json) |
@@ -4698,6 +4699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noisz: Hyun Level Pack | 317031 | [317031-noisz-hyun-level-pack.json](./317031-noisz-hyun-level-pack.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
+| Noite de Bingo: Fofoca com Vampiro | 308014 | [308014-noite-de-bingo-fofoca-com-vampiro.json](./308014-noite-de-bingo-fofoca-com-vampiro.json) |
 | Noitu Love and the Army of Grinning Darns | 87799 | [87799-noitu-love-and-the-army-of-grinning-darns.json](./87799-noitu-love-and-the-army-of-grinning-darns.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
