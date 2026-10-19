@@ -6672,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dime City | 94565 | [94565-dime-city.json](./94565-dime-city.json) |
 | Dimense: Chapter 1 | 116182 | [116182-dimense-chapter-1.json](./116182-dimense-chapter-1.json) |
 | Dimenseum | 396376 | [396376-dimenseum.json](./396376-dimenseum.json) |
+| Dimenshift: Direction is Meaningless | 293471 | [293471-dimenshift-direction-is-meaningless.json](./293471-dimenshift-direction-is-meaningless.json) |
 | Dimenshot | 361071 | [361071-dimenshot.json](./361071-dimenshot.json) |
 | Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
@@ -11956,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift86 | 130636 | [130636-drift86.json](./130636-drift86.json) |
 | DriftBorne | 399209 | [399209-driftborne.json](./399209-driftborne.json) |
 | DriftCE | 249331 | [249331-driftce.json](./249331-driftce.json) |
+| DriftCE: Toyota Supra MK5 DLC | 293465 | [293465-driftce-toyota-supra-mk5-dlc.json](./293465-driftce-toyota-supra-mk5-dlc.json) |
 | Drifted | 287227 | [287227-drifted.json](./287227-drifted.json) |
 | Drifted Tales | 116222 | [116222-drifted-tales.json](./116222-drifted-tales.json) |
 | Driftence | 190130 | [190130-driftence.json](./190130-driftence.json) |
