@@ -1165,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Classics Mini Mix | 49192 | [49192-capcom-classics-mini-mix.json](./49192-capcom-classics-mini-mix.json) |
+| Capcom Coin-Op Classics Series 1 | 286967 | [286967-capcom-coin-op-classics-series-1.json](./286967-capcom-coin-op-classics-series-1.json) |
 | Capcom Coin-Op Collection Volume 1 | 206704 | [206704-capcom-coin-op-collection-volume-1.json](./206704-capcom-coin-op-collection-volume-1.json) |
 | Capcom Digital Collection | 6933 | [6933-capcom-digital-collection.json](./6933-capcom-digital-collection.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Hina | 185590 | [185590-catch-hina.json](./185590-catch-hina.json) |
 | Catch Idle: Dimension Warp Story | 208038 | [208038-catch-idle-dimension-warp-story.json](./208038-catch-idle-dimension-warp-story.json) |
 | Catch It | 380611 | [380611-catch-it.json](./380611-catch-it.json) |
+| Catch Me | 286968 | [286968-catch-me.json](./286968-catch-me.json) |
 | Catch Me If You Can | 143716 | [143716-catch-me-if-you-can.json](./143716-catch-me-if-you-can.json) |
 | Catch Me If You Can | 289386 | [289386-catch-me-if-you-can.json](./289386-catch-me-if-you-can.json) |
 | Catch Me If You Can | 351088 | [351088-catch-me-if-you-can.json](./351088-catch-me-if-you-can.json) |
@@ -11286,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countryside Bears | 43502 | [43502-countryside-bears.json](./43502-countryside-bears.json) |
 | Countryside Farm Clues | 402930 | [402930-countryside-farm-clues.json](./402930-countryside-farm-clues.json) |
 | Countryside Legends | 339327 | [339327-countryside-legends.json](./339327-countryside-legends.json) |
+| Countryside Life Simulator | 286988 | [286988-countryside-life-simulator.json](./286988-countryside-life-simulator.json) |
 | Countrytale 2010 | 399409 | [399409-countrytale-2010.json](./399409-countrytale-2010.json) |
 | Countup | 358882 | [358882-countup.json](./358882-countup.json) |
 | County Courier | 295782 | [295782-county-courier.json](./295782-county-courier.json) |
