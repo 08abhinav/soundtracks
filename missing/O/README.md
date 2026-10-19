@@ -2453,6 +2453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Ocean | 119659 | [119659-open-ocean.json](./119659-open-ocean.json) |
 | Open Puzzle Box | 59035 | [59035-open-puzzle-box.json](./59035-open-puzzle-box.json) |
 | Open Rails | 89985 | [89985-open-rails.json](./89985-open-rails.json) |
+| Open Road First Front S | 284259 | [284259-open-road-first-front-s.json](./284259-open-road-first-front-s.json) |
 | Open Saber Plus | 343918 | [343918-open-saber-plus.json](./343918-open-saber-plus.json) |
 | Open School World | 297505 | [297505-open-school-world.json](./297505-open-school-world.json) |
 | Open Season | 248522 | [248522-open-season.json](./248522-open-season.json) |
