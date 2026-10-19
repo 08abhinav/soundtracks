@@ -3867,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Lockdown: The Demon Fortress | 166061 | [166061-escape-from-the-lockdown-the-demon-fortress.json](./166061-escape-from-the-lockdown-the-demon-fortress.json) |
 | Escape from the Marble Monster | 216733 | [216733-escape-from-the-marble-monster.json](./216733-escape-from-the-marble-monster.json) |
 | Escape from the Mindmaster | 18567 | [18567-escape-from-the-mindmaster.json](./18567-escape-from-the-mindmaster.json) |
+| Escape from the Nuke | 276099 | [276099-escape-from-the-nuke.json](./276099-escape-from-the-nuke.json) |
 | Escape From the Pharaoh's Tomb | 312084 | [312084-escape-from-the-pharaohs-tomb.json](./312084-escape-from-the-pharaohs-tomb.json) |
 | Escape from the Planet of the Robot Monsters | 12067 | [12067-escape-from-the-planet-of-the-robot-monsters.json](./12067-escape-from-the-planet-of-the-robot-monsters.json) |
 | Escape from the Plateau Puzzle | 88423 | [88423-escape-from-the-plateau-puzzle.json](./88423-escape-from-the-plateau-puzzle.json) |
