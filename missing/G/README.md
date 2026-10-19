@@ -7202,6 +7202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grouphack | 258096 | [258096-grouphack.json](./258096-grouphack.json) |
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Groupthink | 132576 | [132576-groupthink.json](./132576-groupthink.json) |
+| Grove | 274877 | [274877-grove.json](./274877-grove.json) |
 | Grove Fisher | 330680 | [330680-grove-fisher.json](./330680-grove-fisher.json) |
 | Grove Island | 219162 | [219162-grove-island.json](./219162-grove-island.json) |
 | Grove: Nostalgia's End | 192952 | [192952-grove-nostalgias-end.json](./192952-grove-nostalgias-end.json) |
