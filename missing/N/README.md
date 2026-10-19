@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narnok | 396541 | [396541-narnok.json](./396541-narnok.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Naron | 412380 | [412380-naron.json](./412380-naron.json) |
+| Narona Sports: Supernatural | 266607 | [266607-narona-sports-supernatural.json](./266607-narona-sports-supernatural.json) |
 | Naroth | 203824 | [203824-naroth.json](./203824-naroth.json) |
 | Narrative Adventure | 192293 | [192293-narrative-adventure.json](./192293-narrative-adventure.json) |
 | Narrative Nightmares: Trilogy of Terror | 282594 | [282594-narrative-nightmares-trilogy-of-terror.json](./282594-narrative-nightmares-trilogy-of-terror.json) |
