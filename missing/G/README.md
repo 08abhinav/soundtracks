@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
+| Garfield Double Dares | 306764 | [306764-garfield-double-dares.json](./306764-garfield-double-dares.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
 | Garfield Gets Real | 4882 | [4882-garfield-gets-real.json](./4882-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Snack Time | 99217 | [99217-garfield-snack-time.json](./99217-garfield-snack-time.json) |
 | Garfield Tetris | 330030 | [330030-garfield-tetris.json](./330030-garfield-tetris.json) |
 | Garfield Trivia Game | 253795 | [253795-garfield-trivia-game.json](./253795-garfield-trivia-game.json) |
+| Garfield, Eat Your Words | 306763 | [306763-garfield-eat-your-words.json](./306763-garfield-eat-your-words.json) |
 | Garfield: A Tail of Two Kitties - Garfield's Maze Game | 325089 | [325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json](./325089-garfield-a-tail-of-two-kitties-garfields-maze-game.json) |
 | Garfield: A Tail of Two Kitties - Odie's Photo Album Game | 325088 | [325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json](./325088-garfield-a-tail-of-two-kitties-odies-photo-album-game.json) |
 | Garfield: Attack of the Mutant Lasagna | 73339 | [73339-garfield-attack-of-the-mutant-lasagna.json](./73339-garfield-attack-of-the-mutant-lasagna.json) |
