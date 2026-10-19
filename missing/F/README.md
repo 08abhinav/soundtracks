@@ -5150,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Flow's | 377841 | [377841-five-nights-at-flows.json](./377841-five-nights-at-flows.json) |
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
 | Five Nights at Flow's 2 | 377842 | [377842-five-nights-at-flows-2.json](./377842-five-nights-at-flows-2.json) |
+| Five Nights at Fredbear's | 278301 | [278301-five-nights-at-fredbears.json](./278301-five-nights-at-fredbears.json) |
 | Five Nights at Freddy's | 308405 | [308405-five-nights-at-freddys.json](./308405-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
@@ -6121,6 +6122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flow Space | 158624 | [158624-flow-space.json](./158624-flow-space.json) |
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
+| Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
@@ -6540,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog & Silver | 214144 | [214144-fog-and-silver.json](./214144-fog-and-silver.json) |
 | Fog Horror | 235892 | [235892-fog-horror.json](./235892-fog-horror.json) |
 | Fog of Life | 176403 | [176403-fog-of-life.json](./176403-fog-of-life.json) |
+| Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
