@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
+| Helbreath Argentina | 306180 | [306180-helbreath-argentina.json](./306180-helbreath-argentina.json) |
 | Helbreath Nemesis | 292432 | [292432-helbreath-nemesis.json](./292432-helbreath-nemesis.json) |
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
@@ -7899,6 +7900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
+| House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
 | House Call | 386983 | [386983-house-call.json](./386983-house-call.json) |
 | House Chores | 123994 | [123994-house-chores.json](./123994-house-chores.json) |
 | House Cleaner Flipper Game | 105916 | [105916-house-cleaner-flipper-game.json](./105916-house-cleaner-flipper-game.json) |
