@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim & Dill 3 | 342118 | [342118-jim-and-dill-3.json](./342118-jim-and-dill-3.json) |
 | Jim & Dill II: Bobson’s Revenge | 313150 | [313150-jim-and-dill-ii-bobson-s-revenge.json](./313150-jim-and-dill-ii-bobson-s-revenge.json) |
 | Jim & Dill: The Legend of Weed N' Stiff | 299147 | [299147-jim-and-dill-the-legend-of-weed-n-stiff.json](./299147-jim-and-dill-the-legend-of-weed-n-stiff.json) |
+| Jim Brimstone: Devil Advocate | 306231 | [306231-jim-brimstone-devil-advocate.json](./306231-jim-brimstone-devil-advocate.json) |
 | Jim Henson's Bear in the Big Blue House | 49914 | [49914-jim-hensons-bear-in-the-big-blue-house.json](./49914-jim-hensons-bear-in-the-big-blue-house.json) |
 | Jim Henson's Muppets Party Cruise | 43569 | [43569-jim-hensons-muppets-party-cruise.json](./43569-jim-hensons-muppets-party-cruise.json) |
 | Jim Henson's Muppets: Coach Kermit | 198780 | [198780-jim-hensons-muppets-coach-kermit.json](./198780-jim-hensons-muppets-coach-kermit.json) |
@@ -2349,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
 | Jump | 271775 | [271775-jump.json](./271775-jump.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
+| Jump | 306229 | [306229-jump.json](./306229-jump.json) |
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
 | Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
