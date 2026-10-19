@@ -5367,6 +5367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Series 1 | 258194 | [258194-hidden-series-1.json](./258194-hidden-series-1.json) |
+| Hidden Series 2 | 274371 | [274371-hidden-series-2.json](./274371-hidden-series-2.json) |
 | Hidden Shapes: Animals + Lovely Cats | 194437 | [194437-hidden-shapes-animals-lovely-cats.json](./194437-hidden-shapes-animals-lovely-cats.json) |
 | Hidden Shapes: Cat Realm | 220037 | [220037-hidden-shapes-cat-realm.json](./220037-hidden-shapes-cat-realm.json) |
 | Hidden Shapes: Lovely Cats | 148466 | [148466-hidden-shapes-lovely-cats.json](./148466-hidden-shapes-lovely-cats.json) |
@@ -8196,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
 | Hoverkitty In The Hoververse: Chapter Three | 290638 | [290638-hoverkitty-in-the-hoververse-chapter-three.json](./290638-hoverkitty-in-the-hoververse-chapter-three.json) |
 | Hoverkitty in The Hoververse: Chapter Two | 255234 | [255234-hoverkitty-in-the-hoververse-chapter-two.json](./255234-hoverkitty-in-the-hoververse-chapter-two.json) |
+| Hovermania | 274350 | [274350-hovermania.json](./274350-hovermania.json) |
 | HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
