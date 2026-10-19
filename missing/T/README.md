@@ -1876,6 +1876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
 | Target G | 238619 | [238619-target-g.json](./238619-target-g.json) |
 | Target of Desire: Episode 1 | 52745 | [52745-target-of-desire-episode-1.json](./52745-target-of-desire-episode-1.json) |
+| Target Pinball | 307399 | [307399-target-pinball.json](./307399-target-pinball.json) |
 | Target Practice | 167303 | [167303-target-practice.json](./167303-target-practice.json) |
 | Target Runner | 149690 | [149690-target-runner.json](./149690-target-runner.json) |
 | Target speed | 82330 | [82330-target-speed.json](./82330-target-speed.json) |
@@ -13272,6 +13273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Train | 50065 | [50065-the-train.json](./50065-the-train.json) |
 | The Train Can't Escape Without XXX!? | 353915 | [353915-the-train-cant-escape-without-xxx.json](./353915-the-train-cant-escape-without-xxx.json) |
 | The Train Giant | 10002 | [10002-the-train-giant.json](./10002-the-train-giant.json) |
+| The Train Part 2 | 307376 | [307376-the-train-part-2.json](./307376-the-train-part-2.json) |
 | The Train: Escape to Normandy | 47183 | [47183-the-train-escape-to-normandy.json](./47183-the-train-escape-to-normandy.json) |
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
