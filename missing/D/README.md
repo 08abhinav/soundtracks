@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCA3 | 327237 | [327237-dca3.json](./327237-dca3.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
 | DCGO | 304982 | [304982-dcgo.json](./304982-dcgo.json) |
+| DCHoc Cafe Sudoku | 263326 | [263326-dchoc-cafe-sudoku.json](./263326-dchoc-cafe-sudoku.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
@@ -8341,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
+| Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
 | Doctor Who's 50th Anniversary | 235305 | [235305-doctor-whos-50th-anniversary.json](./235305-doctor-whos-50th-anniversary.json) |
 | Doctor's Orders | 299532 | [299532-doctors-orders.json](./299532-doctors-orders.json) |
@@ -8841,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominay | 211962 | [211962-dominay.json](./211962-dominay.json) |
 | Domini | 353065 | [353065-domini.json](./353065-domini.json) |
 | Dominic Cranes's Dreamscape Mystery | 210211 | [210211-dominic-craness-dreamscape-mystery.json](./210211-dominic-craness-dreamscape-mystery.json) |
+| Dominion of Madess | 263359 | [263359-dominion-of-madess.json](./263359-dominion-of-madess.json) |
 | Dominion: Adventures | 191103 | [191103-dominion-adventures.json](./191103-dominion-adventures.json) |
 | Dominion: Alchemy | 191100 | [191100-dominion-alchemy.json](./191100-dominion-alchemy.json) |
 | Dominion: Allies | 191055 | [191055-dominion-allies.json](./191055-dominion-allies.json) |
