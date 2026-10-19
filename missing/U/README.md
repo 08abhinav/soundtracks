@@ -2375,6 +2375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
 | Up to no Goob | 281921 | [281921-up-to-no-goob.json](./281921-up-to-no-goob.json) |
 | Up to Par | 211981 | [211981-up-to-par.json](./211981-up-to-par.json) |
+| Up to the Unknown | 261671 | [261671-up-to-the-unknown.json](./261671-up-to-the-unknown.json) |
 | Up Until the End | 133472 | [133472-up-until-the-end.json](./133472-up-until-the-end.json) |
 | Up Up & Down! | 312324 | [312324-up-up-and-down.json](./312324-up-up-and-down.json) |
 | Up Up Bot | 101426 | [101426-up-up-bot.json](./101426-up-up-bot.json) |
@@ -2580,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urbex Alone | 285406 | [285406-urbex-alone.json](./285406-urbex-alone.json) |
 | UrbexCam | 372734 | [372734-urbexcam.json](./372734-urbexcam.json) |
 | URBO | 271173 | [271173-urbo.json](./271173-urbo.json) |
+| Urbo: Dream One | 261661 | [261661-urbo-dream-one.json](./261661-urbo-dream-one.json) |
 | Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
