@@ -1991,6 +1991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
 | 4D Prince of Persia | 300521 | [300521-4d-prince-of-persia.json](./300521-4d-prince-of-persia.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
+| 4D:XD | 265025 | [265025-4d-xd.json](./265025-4d-xd.json) |
 | 4evolve: Deep Stars | 23505 | [23505-4evolve-deep-stars.json](./23505-4evolve-deep-stars.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
