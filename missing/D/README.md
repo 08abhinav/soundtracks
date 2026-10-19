@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
 | Dawnmaker | 291853 | [291853-dawnmaker.json](./291853-dawnmaker.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
+| Dawnsbury Days | 278910 | [278910-dawnsbury-days.json](./278910-dawnsbury-days.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
 | Dawntide | 74281 | [74281-dawntide.json](./74281-dawntide.json) |
@@ -4205,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Degenerate Souls | 159848 | [159848-degenerate-souls.json](./159848-degenerate-souls.json) |
 | Degenerate Star | 404065 | [404065-degenerate-star.json](./404065-degenerate-star.json) |
 | Degeneration | 107891 | [107891-degeneration.json](./107891-degeneration.json) |
+| Degenheim | 278895 | [278895-degenheim.json](./278895-degenheim.json) |
 | Degeons Project | 390796 | [390796-degeons-project.json](./390796-degeons-project.json) |
 | Degradation: Kyomu's Fury | 265780 | [265780-degradation-kyomus-fury.json](./265780-degradation-kyomus-fury.json) |
 | Degraman: Act I - Vincent | 196165 | [196165-degraman-act-i-vincent.json](./196165-degraman-act-i-vincent.json) |
@@ -5616,6 +5618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Mimo | 174197 | [174197-detective-mimo.json](./174197-detective-mimo.json) |
 | Detective Mind Training: Mystery Choices | 409666 | [409666-detective-mind-training-mystery-choices.json](./409666-detective-mind-training-mystery-choices.json) |
 | Detective Mio | 174801 | [174801-detective-mio.json](./174801-detective-mio.json) |
+| Detective Mouse | 278865 | [278865-detective-mouse.json](./278865-detective-mouse.json) |
 | Detective Noir | 29608 | [29608-detective-noir.json](./29608-detective-noir.json) |
 | Detective Novels Bundle | 125129 | [125129-detective-novels-bundle.json](./125129-detective-novels-bundle.json) |
 | Detective of the Dead | 318179 | [318179-detective-of-the-dead.json](./318179-detective-of-the-dead.json) |
