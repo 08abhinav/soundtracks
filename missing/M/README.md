@@ -1846,6 +1846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Magic Great Again | 391031 | [391031-make-magic-great-again.json](./391031-make-magic-great-again.json) |
 | Make me Float | 236959 | [236959-make-me-float.json](./236959-make-me-float.json) |
 | Make me Laugh! | 311319 | [311319-make-me-laugh.json](./311319-make-me-laugh.json) |
+| Make Me Real: Worthlessness Selected | 278314 | [278314-make-me-real-worthlessness-selected.json](./278314-make-me-real-worthlessness-selected.json) |
 | Make Merits in Another World | 370193 | [370193-make-merits-in-another-world.json](./370193-make-merits-in-another-world.json) |
 | Make Moku Proud | 395568 | [395568-make-moku-proud.json](./395568-make-moku-proud.json) |
 | Make My Car | 346227 | [346227-make-my-car.json](./346227-make-my-car.json) |
@@ -2069,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man in a Maze: Deathmatch | 17576 | [17576-man-in-a-maze-deathmatch.json](./17576-man-in-a-maze-deathmatch.json) |
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
+| Man in the Dark | 278268 | [278268-man-in-the-dark.json](./278268-man-in-the-dark.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoria Project | 193969 | [193969-memoria-project.json](./193969-memoria-project.json) |
 | Memoria VR | 311793 | [311793-memoria-vr.json](./311793-memoria-vr.json) |
 | Memoria Wake | 348349 | [348349-memoria-wake.json](./348349-memoria-wake.json) |
+| Memoria: Stories of La Garma | 278322 | [278322-memoria-stories-of-la-garma.json](./278322-memoria-stories-of-la-garma.json) |
 | Memorial Circuit | 297888 | [297888-memorial-circuit.json](./297888-memorial-circuit.json) |
 | Memorial Park of Hypoxia | 116884 | [116884-memorial-park-of-hypoxia.json](./116884-memorial-park-of-hypoxia.json) |
 | Memorial Pillage | 183462 | [183462-memorial-pillage.json](./183462-memorial-pillage.json) |
@@ -13195,6 +13198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorstorm: 3D Rift | 74322 | [74322-motorstorm-3d-rift.json](./74322-motorstorm-3d-rift.json) |
 | MotorStorm: Apocalypse | 2555 | [2555-motorstorm-apocalypse.json](./2555-motorstorm-apocalypse.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
+| MotorStorm: Pacific Rift - Voodoo Signature Livery | 278294 | [278294-motorstorm-pacific-rift-voodoo-signature-livery.json](./278294-motorstorm-pacific-rift-voodoo-signature-livery.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Motoscafo | 376546 | [376546-motoscafo.json](./376546-motoscafo.json) |
 | Motoshow Idle | 212433 | [212433-motoshow-idle.json](./212433-motoshow-idle.json) |
