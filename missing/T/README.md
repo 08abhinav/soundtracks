@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
 | Temple of Azathoth | 271060 | [271060-temple-of-azathoth.json](./271060-temple-of-azathoth.json) |
+| Temple of Blood | 259397 | [259397-temple-of-blood.json](./259397-temple-of-blood.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Causality | 286951 | [286951-temple-of-causality.json](./286951-temple-of-causality.json) |
 | Temple of Cerberus | 58117 | [58117-temple-of-cerberus.json](./58117-temple-of-cerberus.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Behind You | 408284 | [408284-the-one-behind-you.json](./408284-the-one-behind-you.json) |
 | The One Fish | 410892 | [410892-the-one-fish.json](./410892-the-one-fish.json) |
 | The One Fork Restaurant | 175255 | [175255-the-one-fork-restaurant.json](./175255-the-one-fork-restaurant.json) |
+| The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Pulls Out the Sword Will Be Crowned King | 191888 | [191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json](./191888-the-one-who-pulls-out-the-sword-will-be-crowned-king.json) |
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
@@ -12011,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
+| The Settlements | 259430 | [259430-the-settlements.json](./259430-the-settlements.json) |
 | The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
 | The Settlers 7: Paths to a Kingdom - Gold Edition | 27863 | [27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json](./27863-the-settlers-7-paths-to-a-kingdom-gold-edition.json) |
@@ -12977,6 +12980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Despereaux | 51163 | [51163-the-tale-of-despereaux.json](./51163-the-tale-of-despereaux.json) |
 | The Tale of Doris and the Dragon | 79274 | [79274-the-tale-of-doris-and-the-dragon.json](./79274-the-tale-of-doris-and-the-dragon.json) |
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
+| The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
@@ -18224,6 +18228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
+| Toing's Pops | 259444 | [259444-toings-pops.json](./259444-toings-pops.json) |
 | Toite Susunde! Nazo Toki Castle | 222454 | [222454-toite-susunde-nazo-toki-castle.json](./222454-toite-susunde-nazo-toki-castle.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
@@ -19604,6 +19609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
+| Touch Sudoku | 259416 | [259416-touch-sudoku.json](./259416-touch-sudoku.json) |
 | Touch the Color | 230887 | [230887-touch-the-color.json](./230887-touch-the-color.json) |
 | Touch the Dead | 20702 | [20702-touch-the-dead.json](./20702-touch-the-dead.json) |
 | Touch the Devil VR | 93720 | [93720-touch-the-devil-vr.json](./93720-touch-the-devil-vr.json) |
@@ -19682,6 +19688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou DollDraft | 164598 | [164598-touhou-dolldraft.json](./164598-touhou-dolldraft.json) |
 | Touhou Doumeiju: Mystical Power Plant | 246671 | [246671-touhou-doumeiju-mystical-power-plant.json](./246671-touhou-doumeiju-mystical-power-plant.json) |
 | Touhou Dream Duel | 347095 | [347095-touhou-dream-duel.json](./347095-touhou-dream-duel.json) |
+| Touhou Dream Runner | 259437 | [259437-touhou-dream-runner.json](./259437-touhou-dream-runner.json) |
 | Touhou Drunken Rebellion | 372678 | [372678-touhou-drunken-rebellion.json](./372678-touhou-drunken-rebellion.json) |
 | Touhou Dungeon Dive | 212518 | [212518-touhou-dungeon-dive.json](./212518-touhou-dungeon-dive.json) |
 | Touhou Dungeon Maker: The Labyrinth of Heart | 263106 | [263106-touhou-dungeon-maker-the-labyrinth-of-heart.json](./263106-touhou-dungeon-maker-the-labyrinth-of-heart.json) |
@@ -19950,6 +19957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
 | Tour Du Monde | 277715 | [277715-tour-du-monde.json](./277715-tour-du-monde.json) |
+| Tour of Duty | 259426 | [259426-tour-of-duty.json](./259426-tour-of-duty.json) |
 | Tour of Duty | 59307 | [59307-tour-of-duty.json](./59307-tour-of-duty.json) |
 | Tour of Neverland | 146886 | [146886-tour-of-neverland.json](./146886-tour-of-neverland.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
@@ -23173,6 +23181,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
+| Trollface Quest: Video Games | 259447 | [259447-trollface-quest-video-games.json](./259447-trollface-quest-video-games.json) |
+| Trollface Quest: Video Memes & TV Shows | 259446 | [259446-trollface-quest-video-memes-and-tv-shows.json](./259446-trollface-quest-video-memes-and-tv-shows.json) |
 | Trollhunters: Defenders of Arcadia | 133921 | [133921-trollhunters-defenders-of-arcadia.json](./133921-trollhunters-defenders-of-arcadia.json) |
 | Trollin el Corredor | 288350 | [288350-trollin-el-corredor.json](./288350-trollin-el-corredor.json) |
 | Trolling Bowling | 331320 | [331320-trolling-bowling.json](./331320-trolling-bowling.json) |
