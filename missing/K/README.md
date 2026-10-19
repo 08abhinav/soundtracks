@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill to Collect | 18722 | [18722-kill-to-collect.json](./18722-kill-to-collect.json) |
 | Kill to Live | 187405 | [187405-kill-to-live.json](./187405-kill-to-live.json) |
 | Kill to Survive | 235167 | [235167-kill-to-survive.json](./235167-kill-to-survive.json) |
+| Kill Will | 290262 | [290262-kill-will.json](./290262-kill-will.json) |
 | Kill your Darlings | 352718 | [352718-kill-your-darlings.json](./352718-kill-your-darlings.json) |
 | Kill Your Darlings | 177968 | [177968-kill-your-darlings.json](./177968-kill-your-darlings.json) |
 | Kill Your Friends | 133190 | [133190-kill-your-friends.json](./133190-kill-your-friends.json) |
