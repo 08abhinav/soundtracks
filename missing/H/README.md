@@ -712,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halos: React and Match Arcade Game | 59773 | [59773-halos-react-and-match-arcade-game.json](./59773-halos-react-and-match-arcade-game.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
+| HALVA Studio 2023 Bundle | 308618 | [308618-halva-studio-2023-bundle.json](./308618-halva-studio-2023-bundle.json) |
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
 | HeadSquare | 75925 | [75925-headsquare.json](./75925-headsquare.json) |
 | HeadStart Fun Pac | 78891 | [78891-headstart-fun-pac.json](./78891-headstart-fun-pac.json) |
+| Headup Multiplayer Bundle | 308620 | [308620-headup-multiplayer-bundle.json](./308620-headup-multiplayer-bundle.json) |
 | Headwaters | 288768 | [288768-headwaters.json](./288768-headwaters.json) |
 | HeadWorms | 141555 | [141555-headworms.json](./141555-headworms.json) |
 | Heal Hitler | 169412 | [169412-heal-hitler.json](./169412-heal-hitler.json) |
