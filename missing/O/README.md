@@ -2914,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchid Glitter | 335057 | [335057-orchid-glitter.json](./335057-orchid-glitter.json) |
 | Orchidia | 208893 | [208893-orchidia.json](./208893-orchidia.json) |
 | Orchids to Dusk | 135906 | [135906-orchids-to-dusk.json](./135906-orchids-to-dusk.json) |
+| OrcinUS: Orca Pod Rescue | 288058 | [288058-orcinus-orca-pod-rescue.json](./288058-orcinus-orca-pod-rescue.json) |
 | Orcish Inn | 9679 | [9679-orcish-inn.json](./9679-orcish-inn.json) |
 | Orcish Skies | 260184 | [260184-orcish-skies.json](./260184-orcish-skies.json) |
 | Orcs & Elves | 21527 | [21527-orcs-and-elves.json](./21527-orcs-and-elves.json) |
