@@ -14067,6 +14067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Full of Mines: Slate Map | 155378 | [155378-cube-full-of-mines-slate-map.json](./155378-cube-full-of-mines-slate-map.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Game Server Boss | 383691 | [383691-cube-game-server-boss.json](./383691-cube-game-server-boss.json) |
+| Cube Garden | 263328 | [263328-cube-garden.json](./263328-cube-garden.json) |
 | Cube Gothic | 140359 | [140359-cube-gothic.json](./140359-cube-gothic.json) |
 | Cube Gravity | 182227 | [182227-cube-gravity.json](./182227-cube-gravity.json) |
 | Cube Guardian: Tower Defender | 357841 | [357841-cube-guardian-tower-defender.json](./357841-cube-guardian-tower-defender.json) |
