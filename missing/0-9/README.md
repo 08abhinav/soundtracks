@@ -248,6 +248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1/2 Summer | 98415 | [98415-1-2-summer.json](./98415-1-2-summer.json) |
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
+| 10 Advices | 296183 | [296183-10-advices.json](./296183-10-advices.json) |
 | 10 AM Funkin' | 202586 | [202586-10-am-funkin.json](./202586-10-am-funkin.json) |
 | 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
