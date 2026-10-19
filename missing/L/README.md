@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 249273 | [249273-labyrinth.json](./249273-labyrinth.json) |
 | Labyrinth | 25102 | [25102-labyrinth.json](./25102-labyrinth.json) |
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
+| Labyrinth | 262187 | [262187-labyrinth.json](./262187-labyrinth.json) |
 | Labyrinth | 270022 | [270022-labyrinth.json](./270022-labyrinth.json) |
 | Labyrinth | 285158 | [285158-labyrinth.json](./285158-labyrinth.json) |
 | Labyrinth | 287529 | [287529-labyrinth.json](./287529-labyrinth.json) |
@@ -6449,7 +6450,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Island: Forbidden Boys Temptation | 406063 | [406063-love-island-forbidden-boys-temptation.json](./406063-love-island-forbidden-boys-temptation.json) |
 | Love Island: Forbidden Girls Temptation | 407285 | [407285-love-island-forbidden-girls-temptation.json](./407285-love-island-forbidden-girls-temptation.json) |
 | Love Island: The Game - Chelsea's Murder Mystery | 263662 | [263662-love-island-the-game-chelseas-murder-mystery.json](./263662-love-island-the-game-chelseas-murder-mystery.json) |
+| Love Island: The Game - Season 1 | 262195 | [262195-love-island-the-game-season-1.json](./262195-love-island-the-game-season-1.json) |
 | Love Island: The Game - Season 10 | 413632 | [413632-love-island-the-game-season-10.json](./413632-love-island-the-game-season-10.json) |
+| Love Island: The Game - Season 2 | 262196 | [262196-love-island-the-game-season-2.json](./262196-love-island-the-game-season-2.json) |
+| Love Island: The Game - Season 3 | 262198 | [262198-love-island-the-game-season-3.json](./262198-love-island-the-game-season-3.json) |
+| Love Island: The Game - Season 4 | 262199 | [262199-love-island-the-game-season-4.json](./262199-love-island-the-game-season-4.json) |
+| Love Island: The Game - Season 5 | 262200 | [262200-love-island-the-game-season-5.json](./262200-love-island-the-game-season-5.json) |
+| Love Island: The Game - Season 6 | 262201 | [262201-love-island-the-game-season-6.json](./262201-love-island-the-game-season-6.json) |
 | Love Island: The Game - The Boat Party | 263663 | [263663-love-island-the-game-the-boat-party.json](./263663-love-island-the-game-the-boat-party.json) |
 | Love Kira | 307273 | [307273-love-kira.json](./307273-love-kira.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
