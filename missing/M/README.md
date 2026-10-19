@@ -820,6 +820,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Farm | 298707 | [298707-magic-farm.json](./298707-magic-farm.json) |
 | Magic Farm 2: Fairy Lands - Premium Edition | 291715 | [291715-magic-farm-2-fairy-lands-premium-edition.json](./291715-magic-farm-2-fairy-lands-premium-edition.json) |
 | Magic Flight Academy | 102947 | [102947-magic-flight-academy.json](./102947-magic-flight-academy.json) |
+| Magic Floor | 309218 | [309218-magic-floor.json](./309218-magic-floor.json) |
+| Magic Floor | 309219 | [309219-magic-floor.json](./309219-magic-floor.json) |
+| Magic Floor | 309221 | [309221-magic-floor.json](./309221-magic-floor.json) |
+| Magic Floor | 309222 | [309222-magic-floor.json](./309222-magic-floor.json) |
+| Magic Floor | 309223 | [309223-magic-floor.json](./309223-magic-floor.json) |
 | Magic Fluids | 168663 | [168663-magic-fluids.json](./168663-magic-fluids.json) |
 | Magic Fly | 15253 | [15253-magic-fly.json](./15253-magic-fly.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
@@ -2060,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man or Vampire | 112264 | [112264-man-or-vampire.json](./112264-man-or-vampire.json) |
 | Man Overboard! | 242454 | [242454-man-overboard.json](./242454-man-overboard.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
+| Man Sa Yarbah Al Malyoon | 309210 | [309210-man-sa-yarbah-al-malyoon.json](./309210-man-sa-yarbah-al-malyoon.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
