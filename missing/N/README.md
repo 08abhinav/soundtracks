@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newgrounds Rumble | 92467 | [92467-newgrounds-rumble.json](./92467-newgrounds-rumble.json) |
 | NewHrdGame | 367715 | [367715-newhrdgame.json](./367715-newhrdgame.json) |
 | Newly-wedded Woman Stealing Life | 279603 | [279603-newly-wedded-woman-stealing-life.json](./279603-newly-wedded-woman-stealing-life.json) |
+| Newlywed Happy Couple Family | 296751 | [296751-newlywed-happy-couple-family.json](./296751-newlywed-happy-couple-family.json) |
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
 | Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
 | Newo Zero | 410890 | [410890-newo-zero.json](./410890-newo-zero.json) |
