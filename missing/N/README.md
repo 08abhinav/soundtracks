@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Teleport | 410094 | [410094-ninja-teleport.json](./410094-ninja-teleport.json) |
 | Ninja Thea | 213441 | [213441-ninja-thea.json](./213441-ninja-thea.json) |
 | Ninja Throw HD | 20647 | [20647-ninja-throw-hd.json](./20647-ninja-throw-hd.json) |
+| Ninja Tobu | 281273 | [281273-ninja-tobu.json](./281273-ninja-tobu.json) |
 | Ninja Torappu | 62192 | [62192-ninja-torappu.json](./62192-ninja-torappu.json) |
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
@@ -4399,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Rush | 25533 | [25533-no-rush.json](./25533-no-rush.json) |
 | No Rush! | 25522 | [25522-no-rush.json](./25522-no-rush.json) |
 | No safety | 84086 | [84086-no-safety.json](./84086-no-safety.json) |
+| No Salvation | 281249 | [281249-no-salvation.json](./281249-no-salvation.json) |
 | No Senses | 198236 | [198236-no-senses.json](./198236-no-senses.json) |
 | No Service | 391030 | [391030-no-service.json](./391030-no-service.json) |
 | No Shot | 398919 | [398919-no-shot.json](./398919-no-shot.json) |
@@ -4462,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Appointment Gals: Olympos | 78522 | [78522-no-appointment-gals-olympos.json](./78522-no-appointment-gals-olympos.json) |
 | No-brainer! Heroes | 134655 | [134655-no-brainer-heroes.json](./134655-no-brainer-heroes.json) |
 | No-Go | 202195 | [202195-no-go.json](./202195-no-go.json) |
+| No-good Noelle | 281242 | [281242-no-good-noelle.json](./281242-no-good-noelle.json) |
 | No-good Streamer Mirai-chan! (Now accepting lewd comments) | 354769 | [354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json](./354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
@@ -5123,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Enough Souls | 179567 | [179567-not-enough-souls.json](./179567-not-enough-souls.json) |
 | Not Enough Time | 322943 | [322943-not-enough-time.json](./322943-not-enough-time.json) |
 | Not Escape Room | 194355 | [194355-not-escape-room.json](./194355-not-escape-room.json) |
+| Not Even Remotely Fair | 281304 | [281304-not-even-remotely-fair.json](./281304-not-even-remotely-fair.json) |
 | Not Everything is Flammable | 223675 | [223675-not-everything-is-flammable.json](./223675-not-everything-is-flammable.json) |
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
