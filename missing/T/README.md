@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T:ME Salvo | 308987 | [308987-t-me-salvo.json](./308987-t-me-salvo.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
+| T.A.L.E.S. | 265496 | [265496-t-a-l-e-s.json](./265496-t-a-l-e-s.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
 | T.B.M: The Blueppers Mayhem | 362385 | [362385-t-b-m-the-blueppers-mayhem.json](./362385-t-b-m-the-blueppers-mayhem.json) |
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
@@ -4723,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bear: A Story from the World of Gra | 333450 | [333450-the-bear-a-story-from-the-world-of-gra.json](./333450-the-bear-a-story-from-the-world-of-gra.json) |
 | The Beard in the Mirror | 34873 | [34873-the-beard-in-the-mirror.json](./34873-the-beard-in-the-mirror.json) |
 | The Beardless Wizard | 54437 | [54437-the-beardless-wizard.json](./54437-the-beardless-wizard.json) |
+| The Bearer & The Last Flame | 265469 | [265469-the-bearer-and-the-last-flame.json](./265469-the-bearer-and-the-last-flame.json) |
 | The Bears and The Bees | 83618 | [83618-the-bears-and-the-bees.json](./83618-the-bears-and-the-bees.json) |
 | The Beast | 100210 | [100210-the-beast.json](./100210-the-beast.json) |
 | The Beast | 176856 | [176856-the-beast.json](./176856-the-beast.json) |
@@ -12166,6 +12168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Signal From Tölva | 22039 | [22039-the-signal-from-tolva.json](./22039-the-signal-from-tolva.json) |
 | The Signal State | 157524 | [157524-the-signal-state.json](./157524-the-signal-state.json) |
 | The Signal VR | 360780 | [360780-the-signal-vr.json](./360780-the-signal-vr.json) |
+| The Signal: Stranded on Sirenis | 265499 | [265499-the-signal-stranded-on-sirenis.json](./265499-the-signal-stranded-on-sirenis.json) |
 | The Signifier: Deluxe Edition | 154550 | [154550-the-signifier-deluxe-edition.json](./154550-the-signifier-deluxe-edition.json) |
 | The Silence | 185625 | [185625-the-silence.json](./185625-the-silence.json) |
 | The Silence After | 361769 | [361769-the-silence-after.json](./361769-the-silence-after.json) |
@@ -14303,6 +14306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World's Hardest Game 3D | 169757 | [169757-the-worlds-hardest-game-3d.json](./169757-the-worlds-hardest-game-3d.json) |
 | The World's Hardest Game 3D 2 | 195966 | [195966-the-worlds-hardest-game-3d-2.json](./195966-the-worlds-hardest-game-3d-2.json) |
 | The World's Hardest Game 3D Nostalgia | 412509 | [412509-the-worlds-hardest-game-3d-nostalgia.json](./412509-the-worlds-hardest-game-3d-nostalgia.json) |
+| The World's Hardest Game 3D Nostalgia 2 | 265504 | [265504-the-worlds-hardest-game-3d-nostalgia-2.json](./265504-the-worlds-hardest-game-3d-nostalgia-2.json) |
 | The World's Hardest Game: On Steam | 262689 | [262689-the-worlds-hardest-game-on-steam.json](./262689-the-worlds-hardest-game-on-steam.json) |
 | The World's Legends: Kashchey the Immortal | 24772 | [24772-the-worlds-legends-kashchey-the-immortal.json](./24772-the-worlds-legends-kashchey-the-immortal.json) |
 | The World's Shortest Horror Game | 414766 | [414766-the-worlds-shortest-horror-game.json](./414766-the-worlds-shortest-horror-game.json) |
@@ -19084,6 +19088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TopSpin 2K25 | 282959 | [282959-topspin-2k25.json](./282959-topspin-2k25.json) |
 | TopSpin 2K25: Deluxe Edition | 292137 | [292137-topspin-2k25-deluxe-edition.json](./292137-topspin-2k25-deluxe-edition.json) |
 | TopSpin 2K25: Grand Slam Edition | 293925 | [293925-topspin-2k25-grand-slam-edition.json](./293925-topspin-2k25-grand-slam-edition.json) |
+| Topswap | 265510 | [265510-topswap.json](./265510-topswap.json) |
 | Topsy Turvy | 147414 | [147414-topsy-turvy.json](./147414-topsy-turvy.json) |
 | Topsy Turvy | 9832 | [9832-topsy-turvy.json](./9832-topsy-turvy.json) |
 | Topworld | 310815 | [310815-topworld.json](./310815-topworld.json) |
