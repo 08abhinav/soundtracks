@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Big, Cute Monster Farm | 368810 | [368810-your-big-cute-monster-farm.json](./368810-your-big-cute-monster-farm.json) |
 | Your Blue Room | 185616 | [185616-your-blue-room.json](./185616-your-blue-room.json) |
 | Your Boss is Calling... | 214391 | [214391-your-boss-is-calling.json](./214391-your-boss-is-calling.json) |
+| Your Call | 259993 | [259993-your-call.json](./259993-your-call.json) |
 | Your Canvas | 387638 | [387638-your-canvas.json](./387638-your-canvas.json) |
 | Your Cattle | 343293 | [343293-your-cattle.json](./343293-your-cattle.json) |
 | Your Channel | 228425 | [228425-your-channel.json](./228425-your-channel.json) |
