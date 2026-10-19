@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Failticity Online | 56368 | [56368-failticity-online.json](./56368-failticity-online.json) |
 | Failticity Plus | 56369 | [56369-failticity-plus.json](./56369-failticity-plus.json) |
 | Failure Drill | 241518 | [241518-failure-drill.json](./241518-failure-drill.json) |
+| Failure to Launch | 295609 | [295609-failure-to-launch.json](./295609-failure-to-launch.json) |
 | Faily Brakes 2 | 243744 | [243744-faily-brakes-2.json](./243744-faily-brakes-2.json) |
 | Faily Brakes Classic | 174310 | [174310-faily-brakes-classic.json](./174310-faily-brakes-classic.json) |
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
@@ -971,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Stars | 27489 | [27489-falling-stars.json](./27489-falling-stars.json) |
 | Falling Stars | 359397 | [359397-falling-stars.json](./359397-falling-stars.json) |
 | Falling Stars: War of Empires | 33562 | [33562-falling-stars-war-of-empires.json](./33562-falling-stars-war-of-empires.json) |
+| Falling Stars... And Other Celestial Objects | 295618 | [295618-falling-stars-and-other-celestial-objects.json](./295618-falling-stars-and-other-celestial-objects.json) |
 | Falling to Heaven | 197052 | [197052-falling-to-heaven.json](./197052-falling-to-heaven.json) |
 | Falling Up | 134678 | [134678-falling-up.json](./134678-falling-up.json) |
 | Falling with Ice Phoenix!: Cozy Version | 387625 | [387625-falling-with-ice-phoenix-cozy-version.json](./387625-falling-with-ice-phoenix-cozy-version.json) |
@@ -2066,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FarmVille: Tropic Escape | 87574 | [87574-farmville-tropic-escape.json](./87574-farmville-tropic-escape.json) |
 | Farmwand | 260239 | [260239-farmwand.json](./260239-farmwand.json) |
 | Farmyard Fun | 40686 | [40686-farmyard-fun.json](./40686-farmyard-fun.json) |
+| Farmyard Haven | 295690 | [295690-farmyard-haven.json](./295690-farmyard-haven.json) |
 | Farmyard Pals Jigsaw Puzzles | 357881 | [357881-farmyard-pals-jigsaw-puzzles.json](./357881-farmyard-pals-jigsaw-puzzles.json) |
 | Farmyard Survivors | 332969 | [332969-farmyard-survivors.json](./332969-farmyard-survivors.json) |
 | FarmZone | 159738 | [159738-farmzone.json](./159738-farmzone.json) |
@@ -6847,9 +6850,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
+| For a Vast Future: Colour Palette 1 | 295703 | [295703-for-a-vast-future-colour-palette-1.json](./295703-for-a-vast-future-colour-palette-1.json) |
+| For a Vast Future: Colour Palette 10 | 295702 | [295702-for-a-vast-future-colour-palette-10.json](./295702-for-a-vast-future-colour-palette-10.json) |
+| For a Vast Future: Colour Palette 3 | 295704 | [295704-for-a-vast-future-colour-palette-3.json](./295704-for-a-vast-future-colour-palette-3.json) |
+| For a Vast Future: Colour Palette 4 | 295705 | [295705-for-a-vast-future-colour-palette-4.json](./295705-for-a-vast-future-colour-palette-4.json) |
+| For a Vast Future: Colour Palette 6 | 295706 | [295706-for-a-vast-future-colour-palette-6.json](./295706-for-a-vast-future-colour-palette-6.json) |
 | For a Vast Future: Colour Palette 8 | 288307 | [288307-for-a-vast-future-colour-palette-8.json](./288307-for-a-vast-future-colour-palette-8.json) |
 | For a Vast Future: Definitive Edition | 283148 | [283148-for-a-vast-future-definitive-edition.json](./283148-for-a-vast-future-definitive-edition.json) |
 | For a Vast Future: Deluxe Edition | 268557 | [268557-for-a-vast-future-deluxe-edition.json](./268557-for-a-vast-future-deluxe-edition.json) |
+| For a Vast Future: Director's Cut | 295701 | [295701-for-a-vast-future-directors-cut.json](./295701-for-a-vast-future-directors-cut.json) |
 | For a Vast Future: Legendary Edition | 288287 | [288287-for-a-vast-future-legendary-edition.json](./288287-for-a-vast-future-legendary-edition.json) |
 | For a Vast Future: Premium Edition | 283149 | [283149-for-a-vast-future-premium-edition.json](./283149-for-a-vast-future-premium-edition.json) |
 | For a Vast Future: Special Edition | 278643 | [278643-for-a-vast-future-special-edition.json](./278643-for-a-vast-future-special-edition.json) |
@@ -7647,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress Connected | 410476 | [410476-fortress-connected.json](./410476-fortress-connected.json) |
 | Fortress Conquest | 175219 | [175219-fortress-conquest.json](./175219-fortress-conquest.json) |
 | Fortress Defense | 266117 | [266117-fortress-defense.json](./266117-fortress-defense.json) |
+| Fortress Duty | 295628 | [295628-fortress-duty.json](./295628-fortress-duty.json) |
 | Fortress Era | 188357 | [188357-fortress-era.json](./188357-fortress-era.json) |
 | Fortress Europe | 61897 | [61897-fortress-europe.json](./61897-fortress-europe.json) |
 | Fortress Forge | 310928 | [310928-fortress-forge.json](./310928-fortress-forge.json) |
@@ -8502,6 +8512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
 | Freedom Physics | 169354 | [169354-freedom-physics.json](./169354-freedom-physics.json) |
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
+| Freedom Planet 1+2 Bundle | 295696 | [295696-freedom-planet-1-2-bundle.json](./295696-freedom-planet-1-2-bundle.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
@@ -9303,6 +9314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frosty Kiss | 15933 | [15933-frosty-kiss.json](./15933-frosty-kiss.json) |
 | Frosty Nights | 76360 | [76360-frosty-nights.json](./76360-frosty-nights.json) |
 | Frowning Vermin | 383656 | [383656-frowning-vermin.json](./383656-frowning-vermin.json) |
+| Frowntown | 295691 | [295691-frowntown.json](./295691-frowntown.json) |
 | Froyo Taxi | 271171 | [271171-froyo-taxi.json](./271171-froyo-taxi.json) |
 | Frozen | 206151 | [206151-frozen.json](./206151-frozen.json) |
 | Frozen | 230335 | [230335-frozen.json](./230335-frozen.json) |
