@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawbay | 381357 | [381357-pawbay.json](./381357-pawbay.json) |
 | Pawelek the Game. | 320035 | [320035-pawelek-the-game.json](./320035-pawelek-the-game.json) |
 | Pawfect Cat Mansion | 314862 | [314862-pawfect-cat-mansion.json](./314862-pawfect-cat-mansion.json) |
+| Pawfectly Designed | 275449 | [275449-pawfectly-designed.json](./275449-pawfectly-designed.json) |
 | Pawffice | 390162 | [390162-pawffice.json](./390162-pawffice.json) |
 | Pawfish Bay | 337181 | [337181-pawfish-bay.json](./337181-pawfish-bay.json) |
 | Pawful Dice | 390809 | [390809-pawful-dice.json](./390809-pawful-dice.json) |
@@ -3123,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People Power: The Game of Civil Resistance | 171526 | [171526-people-power-the-game-of-civil-resistance.json](./171526-people-power-the-game-of-civil-resistance.json) |
 | People Versus Everything | 225219 | [225219-people-versus-everything.json](./225219-people-versus-everything.json) |
+| People Will Money | 275445 | [275445-people-will-money.json](./275445-people-will-money.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Press Kiosk | 410957 | [410957-peoples-press-kiosk.json](./410957-peoples-press-kiosk.json) |
 | People's Tactics | 69556 | [69556-peoples-tactics.json](./69556-peoples-tactics.json) |
@@ -4917,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
 | Pillory | 280664 | [280664-pillory.json](./280664-pillory.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
+| Pillow Champ | 275512 | [275512-pillow-champ.json](./275512-pillow-champ.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
 | Pillow Pets | 47941 | [47941-pillow-pets.json](./47941-pillow-pets.json) |
@@ -7345,6 +7348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
+| Please Tell Me You Love Me | 275464 | [275464-please-tell-me-you-love-me.json](./275464-please-tell-me-you-love-me.json) |
 | Please the Gods | 119590 | [119590-please-the-gods.json](./119590-please-the-gods.json) |
 | Please Wake Up | 156993 | [156993-please-wake-up.json](./156993-please-wake-up.json) |
 | Please Weave the Red Stars Into a Shroud for Wrapping the Corpse | 392315 | [392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json](./392315-please-weave-the-red-stars-into-a-shroud-for-wrapping-the-corpse.json) |
@@ -8152,6 +8156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cyan | 129814 | [129814-pokemon-cyan.json](./129814-pokemon-cyan.json) |
 | Pokémon D.W. | 147178 | [147178-pokemon-d-w.json](./147178-pokemon-d-w.json) |
 | Pokémon Dark Energy | 386952 | [386952-pokemon-dark-energy.json](./386952-pokemon-dark-energy.json) |
+| Pokémon Darkness | 275505 | [275505-pokemon-darkness.json](./275505-pokemon-darkness.json) |
 | Pokémon Daybreak | 241389 | [241389-pokemon-daybreak.json](./241389-pokemon-daybreak.json) |
 | Pokemon Daycare | 264130 | [264130-pokemon-daycare.json](./264130-pokemon-daycare.json) |
 | Pokémon Decay | 360192 | [360192-pokemon-decay.json](./360192-pokemon-decay.json) |
@@ -12944,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
 | Purarger Collector!! | 384805 | [384805-purarger-collector.json](./384805-purarger-collector.json) |
+| Purdy-Durdy | 275468 | [275468-purdy-durdy.json](./275468-purdy-durdy.json) |
 | Purdy's Night Flight | 335109 | [335109-purdys-night-flight.json](./335109-purdys-night-flight.json) |
 | Pure + LEGO Batman | 147216 | [147216-pure-lego-batman.json](./147216-pure-lego-batman.json) |
 | Pure Badminton | 267825 | [267825-pure-badminton.json](./267825-pure-badminton.json) |
@@ -13589,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle toys | 268979 | [268979-puzzle-toys.json](./268979-puzzle-toys.json) |
 | Puzzle Trains | 89276 | [89276-puzzle-trains.json](./89276-puzzle-trains.json) |
 | Puzzle Vacations: Australia and New Zealand | 278495 | [278495-puzzle-vacations-australia-and-new-zealand.json](./278495-puzzle-vacations-australia-and-new-zealand.json) |
+| Puzzle Vacations: Christmas | 275443 | [275443-puzzle-vacations-christmas.json](./275443-puzzle-vacations-christmas.json) |
 | Puzzle Vacations: France | 315898 | [315898-puzzle-vacations-france.json](./315898-puzzle-vacations-france.json) |
 | Puzzle Vacations: Italy | 322976 | [322976-puzzle-vacations-italy.json](./322976-puzzle-vacations-italy.json) |
 | Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
