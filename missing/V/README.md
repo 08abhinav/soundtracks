@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vangers | 8830 | [8830-vangers.json](./8830-vangers.json) |
 | Vanguard | 139137 | [139137-vanguard.json](./139137-vanguard.json) |
 | Vanguard | 18472 | [18472-vanguard.json](./18472-vanguard.json) |
+| Vanguard | 291349 | [291349-vanguard.json](./291349-vanguard.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
