@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naelyeojjiggi | 309732 | [309732-naelyeojjiggi.json](./309732-naelyeojjiggi.json) |
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
+| Nafanya the Poltergeist | 277759 | [277759-nafanya-the-poltergeist.json](./277759-nafanya-the-poltergeist.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Nagai | 386265 | [386265-nagai.json](./386265-nagai.json) |
 | Nagaisan | 316995 | [316995-nagaisan.json](./316995-nagaisan.json) |
@@ -3535,6 +3536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nights: Realm of Dreams | 321817 | [321817-nights-realm-of-dreams.json](./321817-nights-realm-of-dreams.json) |
 | Nightscape | 252634 | [252634-nightscape.json](./252634-nightscape.json) |
+| Nightscape City | 277740 | [277740-nightscape-city.json](./277740-nightscape-city.json) |
 | Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
 | Nightshade Mysteries: Eternal Moon - Collector's Edition | 345674 | [345674-nightshade-mysteries-eternal-moon-collectors-edition.json](./345674-nightshade-mysteries-eternal-moon-collectors-edition.json) |
@@ -4933,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norah's Song | 298655 | [298655-norahs-song.json](./298655-norahs-song.json) |
 | Norco | 129097 | [129097-norco.json](./129097-norco.json) |
 | Nordhold | 308349 | [308349-nordhold.json](./308349-nordhold.json) |
+| Nordic Adventure Bundle | 277720 | [277720-nordic-adventure-bundle.json](./277720-nordic-adventure-bundle.json) |
 | Nordic Ashes: Survivors of Ragnarok - Twilight of Yggdrasil | 409034 | [409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json](./409034-nordic-ashes-survivors-of-ragnarok-twilight-of-yggdrasil.json) |
 | Nordic Ashes: The Complete Saga | 366616 | [366616-nordic-ashes-the-complete-saga.json](./366616-nordic-ashes-the-complete-saga.json) |
 | Nordic Racing | 325908 | [325908-nordic-racing.json](./325908-nordic-racing.json) |
