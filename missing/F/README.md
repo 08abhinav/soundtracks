@@ -955,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
 | Falling Lights: The Crypt – Escape | 315795 | [315795-falling-lights-the-crypt-escape.json](./315795-falling-lights-the-crypt-escape.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
+| Falling Number | 308636 | [308636-falling-number.json](./308636-falling-number.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Petals: Bloom Edition | 405976 | [405976-falling-petals-bloom-edition.json](./405976-falling-petals-bloom-edition.json) |
 | Falling Plus | 112514 | [112514-falling-plus.json](./112514-falling-plus.json) |
@@ -1584,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
 | Fantasy RPG Bundle | 368771 | [368771-fantasy-rpg-bundle.json](./368771-fantasy-rpg-bundle.json) |
+| Fantasy Saga Frenzy | 308642 | [308642-fantasy-saga-frenzy.json](./308642-fantasy-saga-frenzy.json) |
 | Fantasy Secret | 126361 | [126361-fantasy-secret.json](./126361-fantasy-secret.json) |
 | Fantasy Shop | 238492 | [238492-fantasy-shop.json](./238492-fantasy-shop.json) |
 | Fantasy Simulator KnightX | 297629 | [297629-fantasy-simulator-knightx.json](./297629-fantasy-simulator-knightx.json) |
