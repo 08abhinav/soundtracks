@@ -6623,6 +6623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
+| Black Fire | 286428 | [286428-black-fire.json](./286428-black-fire.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Flower | 400966 | [400966-black-flower.json](./400966-black-flower.json) |
 | Black Friday | 176745 | [176745-black-friday.json](./176745-black-friday.json) |
@@ -7468,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
+| Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
 | Blind Descent | 150271 | [150271-blind-descent.json](./150271-blind-descent.json) |
