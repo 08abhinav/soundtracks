@@ -9766,6 +9766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
+| Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
 | Border Wars | 224091 | [224091-border-wars.json](./224091-border-wars.json) |
