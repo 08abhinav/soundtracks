@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Light | 391763 | [391763-falling-light.json](./391763-falling-light.json) |
 | Falling Lights: The Crypt – Escape | 315795 | [315795-falling-lights-the-crypt-escape.json](./315795-falling-lights-the-crypt-escape.json) |
 | Falling Limbs | 258006 | [258006-falling-limbs.json](./258006-falling-limbs.json) |
+| Falling Mountains | 285358 | [285358-falling-mountains.json](./285358-falling-mountains.json) |
 | Falling Number | 308636 | [308636-falling-number.json](./308636-falling-number.json) |
 | Falling Out | 125402 | [125402-falling-out.json](./125402-falling-out.json) |
 | Falling Petals: Bloom Edition | 405976 | [405976-falling-petals-bloom-edition.json](./405976-falling-petals-bloom-edition.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feet Paradise | 301885 | [301885-feet-paradise.json](./301885-feet-paradise.json) |
 | Feet Sweeper | 244495 | [244495-feet-sweeper.json](./244495-feet-sweeper.json) |
 | Feevo HD | 232546 | [232546-feevo-hd.json](./232546-feevo-hd.json) |
+| Fegefeuer Soul Tower | 285324 | [285324-fegefeuer-soul-tower.json](./285324-fegefeuer-soul-tower.json) |
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
@@ -4624,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Flight | 307582 | [307582-first-flight.json](./307582-first-flight.json) |
 | First Floor | 159797 | [159797-first-floor.json](./159797-first-floor.json) |
 | First Frog | 136457 | [136457-first-frog.json](./136457-first-frog.json) |
+| First Gen | 285328 | [285328-first-gen.json](./285328-first-gen.json) |
 | First Hand | 280713 | [280713-first-hand.json](./280713-first-hand.json) |
 | First Impact: Rise of a Hero | 30712 | [30712-first-impact-rise-of-a-hero.json](./30712-first-impact-rise-of-a-hero.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
@@ -5580,6 +5583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flay the Obscene: Compilation | 263410 | [263410-flay-the-obscene-compilation.json](./263410-flay-the-obscene-compilation.json) |
 | Flay the Obscene: Reversed | 263412 | [263412-flay-the-obscene-reversed.json](./263412-flay-the-obscene-reversed.json) |
 | FLChess | 334812 | [334812-flchess.json](./334812-flchess.json) |
+| Flea Market Simulator '24 | 285326 | [285326-flea-market-simulator-24.json](./285326-flea-market-simulator-24.json) |
 | Flea the Cat | 242058 | [242058-flea-the-cat.json](./242058-flea-the-cat.json) |
 | Flea War | 334679 | [334679-flea-war.json](./334679-flea-war.json) |
 | Flea! | 150517 | [150517-flea.json](./150517-flea.json) |
@@ -6233,6 +6237,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluid-Kha | 138681 | [138681-fluid-kha.json](./138681-fluid-kha.json) |
 | Fluidity | 21169 | [21169-fluidity.json](./21169-fluidity.json) |
 | Fluidity: Spin Cycle | 20088 | [20088-fluidity-spin-cycle.json](./20088-fluidity-spin-cycle.json) |
+| Flunkerne: På Månen | 285337 | [285337-flunkerne-pa-manen.json](./285337-flunkerne-pa-manen.json) |
+| Flunkerne: Pirater | 285338 | [285338-flunkerne-pirater.json](./285338-flunkerne-pirater.json) |
+| Flunkerne: Robotter | 285339 | [285339-flunkerne-robotter.json](./285339-flunkerne-robotter.json) |
 | Flunkerne: Superskurke | 132064 | [132064-flunkerne-superskurke.json](./132064-flunkerne-superskurke.json) |
 | Flunky | 15252 | [15252-flunky.json](./15252-flunky.json) |
 | Flunky Farm | 224250 | [224250-flunky-farm.json](./224250-flunky-farm.json) |
@@ -7250,6 +7257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiven | 221641 | [221641-forgiven.json](./221641-forgiven.json) |
 | Forgiveness | 111471 | [111471-forgiveness.json](./111471-forgiveness.json) |
 | Forgiveness | 291580 | [291580-forgiveness.json](./291580-forgiveness.json) |
+| Forgiveness RPG: The First Chapter - Part One | 285347 | [285347-forgiveness-rpg-the-first-chapter-part-one.json](./285347-forgiveness-rpg-the-first-chapter-part-one.json) |
 | Forgiveness RPG: The First Chapter - Part Three | 297539 | [297539-forgiveness-rpg-the-first-chapter-part-three.json](./297539-forgiveness-rpg-the-first-chapter-part-three.json) |
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgot | 380800 | [380800-forgot.json](./380800-forgot.json) |
