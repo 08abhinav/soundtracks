@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
+| Factory Tower | 293011 | [293011-factory-tower.json](./293011-factory-tower.json) |
 | Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
 | Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
@@ -2135,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Store Simulator | 312977 | [312977-fashion-store-simulator.json](./312977-fashion-store-simulator.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
+| Fashion World: Deluxe Edition | 292917 | [292917-fashion-world-deluxe-edition.json](./292917-fashion-world-deluxe-edition.json) |
 | Fashion World: Premium Edition | 308804 | [308804-fashion-world-premium-edition.json](./308804-fashion-world-premium-edition.json) |
 | Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
 | Fashioning Little Miss Lonesome | 55538 | [55538-fashioning-little-miss-lonesome.json](./55538-fashioning-little-miss-lonesome.json) |
@@ -4090,6 +4092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find This Pixel Anomaly | 320982 | [320982-find-this-pixel-anomaly.json](./320982-find-this-pixel-anomaly.json) |
 | Find this! | 54859 | [54859-find-this.json](./54859-find-this.json) |
 | Find Together on Stream | 289411 | [289411-find-together-on-stream.json](./289411-find-together-on-stream.json) |
+| Find True Love or Hell! | 292932 | [292932-find-true-love-or-hell.json](./292932-find-true-love-or-hell.json) |
 | Find Up! | 264212 | [264212-find-up.json](./264212-find-up.json) |
 | Find Us Cats | 315297 | [315297-find-us-cats.json](./315297-find-us-cats.json) |
 | Find Wario and Friends | 328669 | [328669-find-wario-and-friends.json](./328669-find-wario-and-friends.json) |
@@ -4128,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding America: The Heartland - Collector's Edition | 224200 | [224200-finding-america-the-heartland-collectors-edition.json](./224200-finding-america-the-heartland-collectors-edition.json) |
 | Finding America: The Pacific Northwest | 232924 | [232924-finding-america-the-pacific-northwest.json](./232924-finding-america-the-pacific-northwest.json) |
 | Finding America: The Pacific Northwest - Collector's Edition | 300825 | [300825-finding-america-the-pacific-northwest-collectors-edition.json](./300825-finding-america-the-pacific-northwest-collectors-edition.json) |
+| Finding America: The West - Collector's Edition | 292914 | [292914-finding-america-the-west-collectors-edition.json](./292914-finding-america-the-west-collectors-edition.json) |
 | Finding Bigfoot | 56494 | [56494-finding-bigfoot.json](./56494-finding-bigfoot.json) |
 | Finding Brenda: Episode 1 | 169928 | [169928-finding-brenda-episode-1.json](./169928-finding-brenda-episode-1.json) |
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
