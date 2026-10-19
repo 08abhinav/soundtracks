@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unable to Exit 8 | 297867 | [297867-unable-to-exit-8.json](./297867-unable-to-exit-8.json) |
 | Unables | 212167 | [212167-unables.json](./212167-unables.json) |
 | Unaccessible | 327981 | [327981-unaccessible.json](./327981-unaccessible.json) |
+| Unaided Mission | 272132 | [272132-unaided-mission.json](./272132-unaided-mission.json) |
 | Unaided: 1939 | 31811 | [31811-unaided-1939.json](./31811-unaided-1939.json) |
 | Unaki | 211627 | [211627-unaki.json](./211627-unaki.json) |
 | Unakiri Action!: Kiritan-hou no Nazo | 204707 | [204707-unakiri-action-kiritan-hou-no-nazo.json](./204707-unakiri-action-kiritan-hou-no-nazo.json) |
@@ -1520,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underworld Unfinished Business 4: Taking Care of Business | 252294 | [252294-underworld-unfinished-business-4-taking-care-of-business.json](./252294-underworld-unfinished-business-4-taking-care-of-business.json) |
 | Underworld: Allied Expedition | 358515 | [358515-underworld-allied-expedition.json](./358515-underworld-allied-expedition.json) |
 | Underwurlde | 14588 | [14588-underwurlde.json](./14588-underwurlde.json) |
+| Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
