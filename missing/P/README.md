@@ -10471,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
 | Primordial Pain | 223099 | [223099-primordial-pain.json](./223099-primordial-pain.json) |
+| Primordial Soup | 308608 | [308608-primordial-soup.json](./308608-primordial-soup.json) |
 | Primordial Soup | 401863 | [401863-primordial-soup.json](./401863-primordial-soup.json) |
 | Primordialis | 317541 | [317541-primordialis.json](./317541-primordialis.json) |
 | Primordials Legends: Hollow Hero | 216951 | [216951-primordials-legends-hollow-hero.json](./216951-primordials-legends-hollow-hero.json) |
@@ -12795,6 +12796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Pups & Purrs Animal Hospital | 165427 | [165427-pups-and-purrs-animal-hospital.json](./165427-pups-and-purrs-animal-hospital.json) |
+| Pups & Purrs Animal Hospital and Pups & Purrs Pet Shop Bundle | 308629 | [308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json](./308629-pups-and-purrs-animal-hospital-and-pups-and-purrs-pet-shop-bundle.json) |
 | Pups Treats | 359412 | [359412-pups-treats.json](./359412-pups-treats.json) |
 | Puputan Legend VR | 192633 | [192633-puputan-legend-vr.json](./192633-puputan-legend-vr.json) |
 | Purah's Lab | 279688 | [279688-purahs-lab.json](./279688-purahs-lab.json) |
@@ -13443,6 +13445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Wiz | 58174 | [58174-puzzle-wiz.json](./58174-puzzle-wiz.json) |
 | Puzzle Wizards | 243266 | [243266-puzzle-wizards.json](./243266-puzzle-wizards.json) |
 | Puzzle Words | 304170 | [304170-puzzle-words.json](./304170-puzzle-words.json) |
+| Puzzle World Bundle | 308628 | [308628-puzzle-world-bundle.json](./308628-puzzle-world-bundle.json) |
 | Puzzle World: Cute Cats | 300853 | [300853-puzzle-world-cute-cats.json](./300853-puzzle-world-cute-cats.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
 | Puzzle World: Neko Girls | 300852 | [300852-puzzle-world-neko-girls.json](./300852-puzzle-world-neko-girls.json) |
