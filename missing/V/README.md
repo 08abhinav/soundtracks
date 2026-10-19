@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
 | Vivat Rex | 235674 | [235674-vivat-rex.json](./235674-vivat-rex.json) |
+| Vivat Sloboda | 283608 | [283608-vivat-sloboda.json](./283608-vivat-sloboda.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
 | Vive le Roi | 31789 | [31789-vive-le-roi.json](./31789-vive-le-roi.json) |
 | Vive le Roi 2 | 101356 | [101356-vive-le-roi-2.json](./101356-vive-le-roi-2.json) |
