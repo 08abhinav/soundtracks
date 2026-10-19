@@ -1245,6 +1245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talon's End | 300033 | [300033-talons-end.json](./300033-talons-end.json) |
 | Talos Descent | 182801 | [182801-talos-descent.json](./182801-talos-descent.json) |
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
+| Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talvisota: Icy Hell | 9095 | [9095-talvisota-icy-hell.json](./9095-talvisota-icy-hell.json) |
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
@@ -6958,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
 | The Fighting Cubes | 181748 | [181748-the-fighting-cubes.json](./181748-the-fighting-cubes.json) |
+| The Fighting Wolf AT | 268897 | [268897-the-fighting-wolf-at.json](./268897-the-fighting-wolf-at.json) |
 | The Filfth of Us | 284280 | [284280-the-filfth-of-us.json](./284280-the-filfth-of-us.json) |
 | The Final Answer | 211114 | [211114-the-final-answer.json](./211114-the-final-answer.json) |
 | The Final Ascent | 408826 | [408826-the-final-ascent.json](./408826-the-final-ascent.json) |
@@ -7367,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gateway to Hell | 271752 | [271752-the-gateway-to-hell.json](./271752-the-gateway-to-hell.json) |
 | The Gateway Trilogy | 51980 | [51980-the-gateway-trilogy.json](./51980-the-gateway-trilogy.json) |
 | The Gauntlet | 294930 | [294930-the-gauntlet.json](./294930-the-gauntlet.json) |
+| The Gayest & Greyest Castle In All Of Parthoris | 268870 | [268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json](./268870-the-gayest-and-greyest-castle-in-all-of-parthoris.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
 | The Gears Don't Grind | 124573 | [124573-the-gears-dont-grind.json](./124573-the-gears-dont-grind.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
@@ -9954,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lust City 2 | 297356 | [297356-the-lust-city-2.json](./297356-the-lust-city-2.json) |
 | The Lust Voyage | 353091 | [353091-the-lust-voyage.json](./353091-the-lust-voyage.json) |
 | The Lustful Champion | 384753 | [384753-the-lustful-champion.json](./384753-the-lustful-champion.json) |
+| The Lychgate | 268919 | [268919-the-lychgate.json](./268919-the-lychgate.json) |
 | The m0rg VS keys | 93721 | [93721-the-m0rg-vs-keys.json](./93721-the-m0rg-vs-keys.json) |
 | The Machine | 288126 | [288126-the-machine.json](./288126-the-machine.json) |
 | The Machine | 79257 | [79257-the-machine.json](./79257-the-machine.json) |
@@ -20001,6 +20005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Boin | 271118 | [271118-tower-of-boin.json](./271118-tower-of-boin.json) |
 | Tower of Boom | 179144 | [179144-tower-of-boom.json](./179144-tower-of-boom.json) |
 | Tower of Cards | 199455 | [199455-tower-of-cards.json](./199455-tower-of-cards.json) |
+| Tower of Chaos | 268881 | [268881-tower-of-chaos.json](./268881-tower-of-chaos.json) |
 | Tower of Dal Gurak | 271953 | [271953-tower-of-dal-gurak.json](./271953-tower-of-dal-gurak.json) |
 | Tower of Darkness | 217990 | [217990-tower-of-darkness.json](./217990-tower-of-darkness.json) |
 | Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
@@ -24458,6 +24463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Metal: Head-On - Extra Twisted Edition | 5415 | [5415-twisted-metal-head-on-extra-twisted-edition.json](./5415-twisted-metal-head-on-extra-twisted-edition.json) |
 | Twisted Metal: Small Brawl | 5417 | [5417-twisted-metal-small-brawl.json](./5417-twisted-metal-small-brawl.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
+| Twisted Reality | 268894 | [268894-twisted-reality.json](./268894-twisted-reality.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
