@@ -420,6 +420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
+| Eastern Front | 260544 | [260544-eastern-front.json](./260544-eastern-front.json) |
 | Eastern Front (1941) | 24799 | [24799-eastern-front-1941.json](./24799-eastern-front-1941.json) |
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastern Mind: The Lost Souls of Tong Nou | 73752 | [73752-eastern-mind-the-lost-souls-of-tong-nou.json](./73752-eastern-mind-the-lost-souls-of-tong-nou.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecopunk | 369139 | [369139-ecopunk.json](./369139-ecopunk.json) |
 | EcoQuest II: Lost Secret of the Rainforest | 7694 | [7694-ecoquest-ii-lost-secret-of-the-rainforest.json](./7694-ecoquest-ii-lost-secret-of-the-rainforest.json) |
 | EcoQuest: Explore, Discover, Protect! | 295814 | [295814-ecoquest-explore-discover-protect.json](./295814-ecoquest-explore-discover-protect.json) |
+| Ecosphere | 260535 | [260535-ecosphere.json](./260535-ecosphere.json) |
 | Ecotone | 19008 | [19008-ecotone.json](./19008-ecotone.json) |
 | Ecrazeus Castle | 389401 | [389401-ecrazeus-castle.json](./389401-ecrazeus-castle.json) |
 | eCrew Development Program | 141196 | [141196-ecrew-development-program.json](./141196-ecrew-development-program.json) |
@@ -4381,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET: Legacy | 142954 | [142954-et-legacy.json](./142954-et-legacy.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
+| Etaine: Magic Survivor | 260556 | [260556-etaine-magic-survivor.json](./260556-etaine-magic-survivor.json) |
 | Etaria: Survival Adventure | 33951 | [33951-etaria-survival-adventure.json](./33951-etaria-survival-adventure.json) |
 | ETC: Earthquake Test Centre | 221661 | [221661-etc-earthquake-test-centre.json](./221661-etc-earthquake-test-centre.json) |
 | ETC: Earthquake Test Centre 2 | 221662 | [221662-etc-earthquake-test-centre-2.json](./221662-etc-earthquake-test-centre-2.json) |
@@ -4592,6 +4595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eto | 339774 | [339774-eto.json](./339774-eto.json) |
 | Eto King | 259711 | [259711-eto-king.json](./259711-eto-king.json) |
 | Eto-cetera In no Maki | 113729 | [113729-eto-cetera-in-no-maki.json](./113729-eto-cetera-in-no-maki.json) |
+| Etos | 260546 | [260546-etos.json](./260546-etos.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Mystery Dungeon 2: Etrian Odyssey 10th Anniversary Box | 70894 | [70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json](./70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json) |
