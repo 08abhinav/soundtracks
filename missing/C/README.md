@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavelon II | 74071 | [74071-cavelon-ii.json](./74071-cavelon-ii.json) |
 | Caveman | 163276 | [163276-caveman.json](./163276-caveman.json) |
 | Caveman | 216765 | [216765-caveman.json](./216765-caveman.json) |
+| Caveman | 284224 | [284224-caveman.json](./284224-caveman.json) |
 | Caveman | 335472 | [335472-caveman.json](./335472-caveman.json) |
 | Caveman | 47281 | [47281-caveman.json](./47281-caveman.json) |
 | Caveman Capers | 13702 | [13702-caveman-capers.json](./13702-caveman-capers.json) |
