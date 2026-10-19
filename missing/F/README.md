@@ -1157,6 +1157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family | 171603 | [171603-family.json](./171603-family.json) |
 | Family | 394827 | [394827-family.json](./394827-family.json) |
 | Family Adventure | 255024 | [255024-family-adventure.json](./255024-family-adventure.json) |
+| Family Adventures Paris | 278904 | [278904-family-adventures-paris.json](./278904-family-adventures-paris.json) |
 | Family Bash | 248052 | [248052-family-bash.json](./248052-family-bash.json) |
 | Family Basic | 220557 | [220557-family-basic.json](./220557-family-basic.json) |
 | Family Basic v3 | 360522 | [360522-family-basic-v3.json](./360522-family-basic-v3.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Land: Gold Edition | 385198 | [385198-farm-land-gold-edition.json](./385198-farm-land-gold-edition.json) |
 | Farm Land: Kitty Edition | 278652 | [278652-farm-land-kitty-edition.json](./278652-farm-land-kitty-edition.json) |
 | Farm Land: Puppy Edition | 277904 | [277904-farm-land-puppy-edition.json](./277904-farm-land-puppy-edition.json) |
+| Farm Life | 278878 | [278878-farm-life.json](./278878-farm-life.json) |
 | Farm Life | 381011 | [381011-farm-life.json](./381011-farm-life.json) |
 | Farm Life: Natures Adventure | 31804 | [31804-farm-life-natures-adventure.json](./31804-farm-life-natures-adventure.json) |
 | Farm Love Legend: Transform your Animals into Anime Boys | 379000 | [379000-farm-love-legend-transform-your-animals-into-anime-boys.json](./379000-farm-love-legend-transform-your-animals-into-anime-boys.json) |
@@ -8024,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox and Shadow | 320556 | [320556-fox-and-shadow.json](./320556-fox-and-shadow.json) |
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
+| Fox Game | 278889 | [278889-fox-game.json](./278889-fox-game.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
