@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancients II: Approaching Evil | 12392 | [12392-ancients-ii-approaching-evil.json](./12392-ancients-ii-approaching-evil.json) |
 | Ancients of Ooga | 16228 | [16228-ancients-of-ooga.json](./16228-ancients-of-ooga.json) |
 | Ancients Reborn | 124538 | [124538-ancients-reborn.json](./124538-ancients-reborn.json) |
+| Ancients Unleashed | 302089 | [302089-ancients-unleashed.json](./302089-ancients-unleashed.json) |
 | Ancients: Death Watch | 12391 | [12391-ancients-death-watch.json](./12391-ancients-death-watch.json) |
 | AncientsReborn | 233439 | [233439-ancientsreborn.json](./233439-ancientsreborn.json) |
 | Ancings: The First Tournament | 283902 | [283902-ancings-the-first-tournament.json](./283902-ancings-the-first-tournament.json) |
@@ -8401,6 +8402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
+| Apples Busy Day | 302085 | [302085-apples-busy-day.json](./302085-apples-busy-day.json) |
 | Apples in the Abyss | 379088 | [379088-apples-in-the-abyss.json](./379088-apples-in-the-abyss.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
 | Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
@@ -8861,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Land Sea Air Squad | 337975 | [337975-arcade-archives-land-sea-air-squad.json](./337975-arcade-archives-land-sea-air-squad.json) |
 | Arcade Archives: Lead Angle | 315929 | [315929-arcade-archives-lead-angle.json](./315929-arcade-archives-lead-angle.json) |
 | Arcade Archives: Legend of Makai | 147085 | [147085-arcade-archives-legend-of-makai.json](./147085-arcade-archives-legend-of-makai.json) |
+| Arcade Archives: Legion | 302238 | [302238-arcade-archives-legion.json](./302238-arcade-archives-legion.json) |
 | Arcade Archives: Life Force | 96365 | [96365-arcade-archives-life-force.json](./96365-arcade-archives-life-force.json) |
 | Arcade Archives: Lightning Fighters | 147112 | [147112-arcade-archives-lightning-fighters.json](./147112-arcade-archives-lightning-fighters.json) |
 | Arcade Archives: Liquid Kids | 186561 | [186561-arcade-archives-liquid-kids.json](./186561-arcade-archives-liquid-kids.json) |
@@ -11673,6 +11676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum 626 | 309321 | [309321-asylum-626.json](./309321-asylum-626.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asylum Night Shift | 90392 | [90392-asylum-night-shift.json](./90392-asylum-night-shift.json) |
+| Asylum of Horror | 302092 | [302092-asylum-of-horror.json](./302092-asylum-of-horror.json) |
 | Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
