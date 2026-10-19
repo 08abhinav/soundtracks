@@ -362,6 +362,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I ride a Scooter | 117444 | [117444-i-ride-a-scooter.json](./117444-i-ride-a-scooter.json) |
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
+| i saw her across the world | 293991 | [293991-i-saw-her-across-the-world.json](./293991-i-saw-her-across-the-world.json) |
+| i saw her too, with lasers | 293990 | [293990-i-saw-her-too-with-lasers.json](./293990-i-saw-her-too-with-lasers.json) |
 | I saw IT | 105429 | [105429-i-saw-it.json](./105429-i-saw-it.json) |
 | I Scream | 276653 | [276653-i-scream.json](./276653-i-scream.json) |
 | I Scream Ice Cream | 358298 | [358298-i-scream-ice-cream.json](./358298-i-scream-ice-cream.json) |
@@ -4859,6 +4861,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
 | It's Raining Fists and Metal | 124202 | [124202-its-raining-fists-and-metal.json](./124202-its-raining-fists-and-metal.json) |
+| It's Skrot-Robot Time! | 293978 | [293978-its-skrot-robot-time.json](./293978-its-skrot-robot-time.json) |
+| It's Slime-Creep Time! | 293972 | [293972-its-slime-creep-time.json](./293972-its-slime-creep-time.json) |
 | It's Still a Space Thing | 200053 | [200053-its-still-a-space-thing.json](./200053-its-still-a-space-thing.json) |
 | It's Summer | 153159 | [153159-its-summer.json](./153159-its-summer.json) |
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
