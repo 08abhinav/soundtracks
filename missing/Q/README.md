@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quizumba | 415282 | [415282-quizumba.json](./415282-quizumba.json) |
 | QuizWitz | 57119 | [57119-quizwitz.json](./57119-quizwitz.json) |
 | Quizz | 277976 | [277976-quizz.json](./277976-quizz.json) |
+| Quizzical | 306776 | [306776-quizzical.json](./306776-quizzical.json) |
 | Quizzitive | 90287 | [90287-quizzitive.json](./90287-quizzitive.json) |
 | Quizzummah | 104559 | [104559-quizzummah.json](./104559-quizzummah.json) |
 | Qūlíngshī | 128957 | [128957-qulingshi.json](./128957-qulingshi.json) |
