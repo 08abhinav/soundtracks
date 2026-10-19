@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelatinous: Humanity Lost | 260312 | [260312-gelatinous-humanity-lost.json](./260312-gelatinous-humanity-lost.json) |
 | Gelecard: Guerreiros Gelatinosos | 346216 | [346216-gelecard-guerreiros-gelatinosos.json](./346216-gelecard-guerreiros-gelatinosos.json) |
 | Gelldonia | 156648 | [156648-gelldonia.json](./156648-gelldonia.json) |
+| Gelli Fields | 292394 | [292394-gelli-fields.json](./292394-gelli-fields.json) |
 | Gelluloid Domination | 330758 | [330758-gelluloid-domination.json](./330758-gelluloid-domination.json) |
 | Gelluloid Domination: SpaceLab Simulator | 265437 | [265437-gelluloid-domination-spacelab-simulator.json](./265437-gelluloid-domination-spacelab-simulator.json) |
 | Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
@@ -7227,6 +7228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
+| Gruel | 292396 | [292396-gruel.json](./292396-gruel.json) |
 | Grugs | 266132 | [266132-grugs.json](./266132-grugs.json) |
 | Grumblemoor | 347171 | [347171-grumblemoor.json](./347171-grumblemoor.json) |
 | Grump's Dream Course | 37890 | [37890-grumps-dream-course.json](./37890-grumps-dream-course.json) |
