@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Click | 345122 | [345122-one-click.json](./345122-one-click.json) |
 | One Clone Left | 33270 | [33270-one-clone-left.json](./33270-one-clone-left.json) |
 | One Coin Museum | 398295 | [398295-one-coin-museum.json](./398295-one-coin-museum.json) |
+| One Creek: The House | 258853 | [258853-one-creek-the-house.json](./258853-one-creek-the-house.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
 | One Day After School | 270712 | [270712-one-day-after-school.json](./270712-one-day-after-school.json) |
 | One Day for Ched | 10647 | [10647-one-day-for-ched.json](./10647-one-day-for-ched.json) |
