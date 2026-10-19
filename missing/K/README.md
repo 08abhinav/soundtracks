@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
 | Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
+| Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
 | Kids Learn Animal Words | 97915 | [97915-kids-learn-animal-words.json](./97915-kids-learn-animal-words.json) |
 | Kids Learn Music A+ Edition | 47940 | [47940-kids-learn-music-a-edition.json](./47940-kids-learn-music-a-edition.json) |
 | Kids Learn to Sort | 246973 | [246973-kids-learn-to-sort.json](./246973-kids-learn-to-sort.json) |
