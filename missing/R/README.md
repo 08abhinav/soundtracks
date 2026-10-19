@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ace Squadron Pro | 63182 | [63182-red-ace-squadron-pro.json](./63182-red-ace-squadron-pro.json) |
 | Red Adventure | 149729 | [149729-red-adventure.json](./149729-red-adventure.json) |
 | Red Aleph | 185395 | [185395-red-aleph.json](./185395-red-aleph.json) |
+| Red Alert | 282458 | [282458-red-alert.json](./282458-red-alert.json) |
 | Red Alert | 40391 | [40391-red-alert.json](./40391-red-alert.json) |
 | Red Alert 2: Apocalypse Rising | 376096 | [376096-red-alert-2-apocalypse-rising.json](./376096-red-alert-2-apocalypse-rising.json) |
 | Red Algorithm | 152654 | [152654-red-algorithm.json](./152654-red-algorithm.json) |
@@ -5166,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rico: A Tale of Two Brothers | 125184 | [125184-rico-a-tale-of-two-brothers.json](./125184-rico-a-tale-of-two-brothers.json) |
 | Rico: Breakout | 171328 | [171328-rico-breakout.json](./171328-rico-breakout.json) |
 | Ricochet | 209166 | [209166-ricochet.json](./209166-ricochet.json) |
+| Ricochet | 282445 | [282445-ricochet.json](./282445-ricochet.json) |
 | Ricochet | 368008 | [368008-ricochet.json](./368008-ricochet.json) |
 | Ricochet | 7589 | [7589-ricochet.json](./7589-ricochet.json) |
 | Ricochet Blur | 226453 | [226453-ricochet-blur.json](./226453-ricochet-blur.json) |
