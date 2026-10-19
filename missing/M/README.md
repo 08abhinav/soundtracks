@@ -792,6 +792,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic City Detective: The Carnival Begins - Collector's Edition | 304859 | [304859-magic-city-detective-the-carnival-begins-collectors-edition.json](./304859-magic-city-detective-the-carnival-begins-collectors-edition.json) |
 | Magic City Detective: The Carnival Begins DLC | 361772 | [361772-magic-city-detective-the-carnival-begins-dlc.json](./361772-magic-city-detective-the-carnival-begins-dlc.json) |
 | Magic City Detective: Wings of Revenge - Collector's Edition | 188023 | [188023-magic-city-detective-wings-of-revenge-collectors-edition.json](./188023-magic-city-detective-wings-of-revenge-collectors-edition.json) |
+| Magic City Detective: Wrath of the Ocean - Collector's Edition | 293456 | [293456-magic-city-detective-wrath-of-the-ocean-collectors-edition.json](./293456-magic-city-detective-wrath-of-the-ocean-collectors-edition.json) |
+| Magic City Detective: Wrath of the Ocean DLC | 293457 | [293457-magic-city-detective-wrath-of-the-ocean-dlc.json](./293457-magic-city-detective-wrath-of-the-ocean-dlc.json) |
 | Magic Click | 371611 | [371611-magic-click.json](./371611-magic-click.json) |
 | Magic Cliff Escape | 315554 | [315554-magic-cliff-escape.json](./315554-magic-cliff-escape.json) |
 | Magic Clouds | 117057 | [117057-magic-clouds.json](./117057-magic-clouds.json) |
@@ -1163,6 +1165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Twirler Angel Rabbie | 408264 | [408264-magical-twirler-angel-rabbie.json](./408264-magical-twirler-angel-rabbie.json) |
 | Magical Valkyrie Lyristia | 153949 | [153949-magical-valkyrie-lyristia.json](./153949-magical-valkyrie-lyristia.json) |
 | Magical Warrior Diamond Heart | 266691 | [266691-magical-warrior-diamond-heart.json](./266691-magical-warrior-diamond-heart.json) |
+| Magical Warrior Diamond Heart: Alex Route DLC | 293458 | [293458-magical-warrior-diamond-heart-alex-route-dlc.json](./293458-magical-warrior-diamond-heart-alex-route-dlc.json) |
+| Magical Warrior Diamond Heart: Liam Route DLC | 293459 | [293459-magical-warrior-diamond-heart-liam-route-dlc.json](./293459-magical-warrior-diamond-heart-liam-route-dlc.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
@@ -1341,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaguMagu Pro | 165074 | [165074-magumagu-pro.json](./165074-magumagu-pro.json) |
 | Maguntsche: Chapter One Remastered | 168859 | [168859-maguntsche-chapter-one-remastered.json](./168859-maguntsche-chapter-one-remastered.json) |
 | Maguntsche: Chapter Two | 371971 | [371971-maguntsche-chapter-two.json](./371971-maguntsche-chapter-two.json) |
+| Măgurele Mystery 2 | 293487 | [293487-magurele-mystery-2.json](./293487-magurele-mystery-2.json) |
 | Magus | 170346 | [170346-magus.json](./170346-magus.json) |
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
@@ -7557,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGA's Pocket LCD Games: Baseball | 245443 | [245443-mgas-pocket-lcd-games-baseball.json](./245443-mgas-pocket-lcd-games-baseball.json) |
 | MGA's Pocket LCD Games: Basketball | 245442 | [245442-mgas-pocket-lcd-games-basketball.json](./245442-mgas-pocket-lcd-games-basketball.json) |
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
+| MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MH17 Strikes Back | 329375 | [329375-mh17-strikes-back.json](./329375-mh17-strikes-back.json) |
 | MHRD | 29883 | [29883-mhrd.json](./29883-mhrd.json) |
@@ -15746,6 +15752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mysterious Journey II | 72063 | [72063-mysterious-journey-ii.json](./72063-mysterious-journey-ii.json) |
+| Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
