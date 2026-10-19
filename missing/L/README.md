@@ -2782,6 +2782,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2017 with German Hits | 136157 | [136157-lets-sing-2017-with-german-hits.json](./136157-lets-sing-2017-with-german-hits.json) |
 | Let's Sing 2017: Hits Francais et Internationaux | 268192 | [268192-lets-sing-2017-hits-francais-et-internationaux.json](./268192-lets-sing-2017-hits-francais-et-internationaux.json) |
 | Let's Sing 2018 with German Hits | 136142 | [136142-lets-sing-2018-with-german-hits.json](./136142-lets-sing-2018-with-german-hits.json) |
+| Let's Sing 2018: Best of 80's Song Pack | 297295 | [297295-lets-sing-2018-best-of-80s-song-pack.json](./297295-lets-sing-2018-best-of-80s-song-pack.json) |
+| Let's Sing 2018: Chart Hits Song Pack | 297316 | [297316-lets-sing-2018-chart-hits-song-pack.json](./297316-lets-sing-2018-chart-hits-song-pack.json) |
 | Let's Sing 2018: Hits Francais et Internationaux | 268194 | [268194-lets-sing-2018-hits-francais-et-internationaux.json](./268194-lets-sing-2018-hits-francais-et-internationaux.json) |
 | Let's Sing 2018: Platinum Edition | 118838 | [118838-lets-sing-2018-platinum-edition.json](./118838-lets-sing-2018-platinum-edition.json) |
 | Let's Sing 2019: Hits Français et Internationaux | 253026 | [253026-lets-sing-2019-hits-francais-et-internationaux.json](./253026-lets-sing-2019-hits-francais-et-internationaux.json) |
