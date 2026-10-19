@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earl Bobby is looking for his Balls | 78686 | [78686-earl-bobby-is-looking-for-his-balls.json](./78686-earl-bobby-is-looking-for-his-balls.json) |
 | Earl Grey | 181711 | [181711-earl-grey.json](./181711-earl-grey.json) |
 | Earl Mansin: The Breakout | 70021 | [70021-earl-mansin-the-breakout.json](./70021-earl-mansin-the-breakout.json) |
+| Earl vs. the Mutants | 267803 | [267803-earl-vs-the-mutants.json](./267803-earl-vs-the-mutants.json) |
 | Earl Weaver Baseball II | 66097 | [66097-earl-weaver-baseball-ii.json](./66097-earl-weaver-baseball-ii.json) |
 | Early Bird | 368229 | [368229-early-bird.json](./368229-early-bird.json) |
 | Early Kingdom | 363411 | [363411-early-kingdom.json](./363411-early-kingdom.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Goat | 7590 | [7590-escape-goat.json](./7590-escape-goat.json) |
 | Escape Goat: Azuma Eiji no Enzai | 395464 | [395464-escape-goat-azuma-eiji-no-enzai.json](./395464-escape-goat-azuma-eiji-no-enzai.json) |
 | Escape Her | 389589 | [389589-escape-her.json](./389589-escape-her.json) |
+| Escape Him. | 267802 | [267802-escape-him.json](./267802-escape-him.json) |
 | Escape If You Can | 377280 | [377280-escape-if-you-can.json](./377280-escape-if-you-can.json) |
 | Escape if you can - Buried | 101499 | [101499-escape-if-you-can-buried.json](./101499-escape-if-you-can-buried.json) |
 | Escape Inc. | 310581 | [310581-escape-inc.json](./310581-escape-inc.json) |
@@ -4154,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
 | EscapeeZ | 117783 | [117783-escapeez.json](./117783-escapeez.json) |
 | Escapeland | 264714 | [264714-escapeland.json](./264714-escapeland.json) |
+| Escapen't | 267801 | [267801-escapent.json](./267801-escapent.json) |
 | Escapepion | 221079 | [221079-escapepion.json](./221079-escapepion.json) |
 | EscapeRoute | 115507 | [115507-escaperoute.json](./115507-escaperoute.json) |
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
@@ -5127,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evets: The Ultimate Adventure | 73793 | [73793-evets-the-ultimate-adventure.json](./73793-evets-the-ultimate-adventure.json) |
 | Evhacon | 267961 | [267961-evhacon.json](./267961-evhacon.json) |
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
+| Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
 | Evidence of 96' | 398358 | [398358-evidence-of-96.json](./398358-evidence-of-96.json) |
 | Evidence: The Last Report | 71461 | [71461-evidence-the-last-report.json](./71461-evidence-the-last-report.json) |
