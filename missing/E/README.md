@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enforcers Revolt | 335136 | [335136-enforcers-revolt.json](./335136-enforcers-revolt.json) |
 | Enga Extreme Battle Race | 172104 | [172104-enga-extreme-battle-race.json](./172104-enga-extreme-battle-race.json) |
 | Engacho! for WonderSwan | 267417 | [267417-engacho-for-wonderswan.json](./267417-engacho-for-wonderswan.json) |
+| Engage | 300460 | [300460-engage.json](./300460-engage.json) |
 | Engage Links | 92422 | [92422-engage-links.json](./92422-engage-links.json) |
 | Engage Princess: Nemureru Himegimi to Yume no Mahoutsukai | 205618 | [205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json](./205618-engage-princess-nemureru-himegimi-to-yume-no-mahoutsukai.json) |
 | Engage Souls | 247442 | [247442-engage-souls.json](./247442-engage-souls.json) |
@@ -3628,6 +3629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Academy: Escape From Anti-Escape Island | 222336 | [222336-escape-academy-escape-from-anti-escape-island.json](./222336-escape-academy-escape-from-anti-escape-island.json) |
 | Escape Academy: Escape From the Past | 252683 | [252683-escape-academy-escape-from-the-past.json](./252683-escape-academy-escape-from-the-past.json) |
 | Escape Academy: The Complete Edition | 246408 | [246408-escape-academy-the-complete-edition.json](./246408-escape-academy-the-complete-edition.json) |
+| Escape Academy: Tournament of Puzzles | 300551 | [300551-escape-academy-tournament-of-puzzles.json](./300551-escape-academy-tournament-of-puzzles.json) |
 | Escape again | 120721 | [120721-escape-again.json](./120721-escape-again.json) |
 | Escape Architect VR | 121477 | [121477-escape-architect-vr.json](./121477-escape-architect-vr.json) |
 | Escape Area 51 | 135597 | [135597-escape-area-51.json](./135597-escape-area-51.json) |
