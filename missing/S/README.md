@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scare: Fatal Picture - Manga Story | 358433 | [358433-scare-fatal-picture-manga-story.json](./358433-scare-fatal-picture-manga-story.json) |
 | Scarecropia | 279258 | [279258-scarecropia.json](./279258-scarecropia.json) |
 | Scarecrow | 176841 | [176841-scarecrow.json](./176841-scarecrow.json) |
+| Scarecrow Co-op 2 | 260015 | [260015-scarecrow-co-op-2.json](./260015-scarecrow-co-op-2.json) |
 | Scarecrow Tactics | 333346 | [333346-scarecrow-tactics.json](./333346-scarecrow-tactics.json) |
 | Scarecrow vs. Big Butt Birds | 296389 | [296389-scarecrow-vs-big-butt-birds.json](./296389-scarecrow-vs-big-butt-birds.json) |
 | Scarecrow: Heart of Straw | 408146 | [408146-scarecrow-heart-of-straw.json](./408146-scarecrow-heart-of-straw.json) |
@@ -17400,6 +17401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
+| Stack Buddies | 259970 | [259970-stack-buddies.json](./259970-stack-buddies.json) |
 | Stack Columns | 63129 | [63129-stack-columns.json](./63129-stack-columns.json) |
 | Stack Defense | 156906 | [156906-stack-defense.json](./156906-stack-defense.json) |
 | Stack It | 216749 | [216749-stack-it.json](./216749-stack-it.json) |
@@ -19680,6 +19682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
 | Stick Adventures: Wizard Madness - Chapter 1 | 81644 | [81644-stick-adventures-wizard-madness-chapter-1.json](./81644-stick-adventures-wizard-madness-chapter-1.json) |
+| Stick and Balls | 260009 | [260009-stick-and-balls.json](./260009-stick-and-balls.json) |
 | Stick and Stack | 344541 | [344541-stick-and-stack.json](./344541-stick-and-stack.json) |
 | Stick Arena | 105206 | [105206-stick-arena.json](./105206-stick-arena.json) |
 | Stick Arena Ballistick | 69277 | [69277-stick-arena-ballistick.json](./69277-stick-arena-ballistick.json) |
@@ -21443,6 +21446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine Zero: Ancient Adventure | 19295 | [19295-submachine-zero-ancient-adventure.json](./19295-submachine-zero-ancient-adventure.json) |
 | Submachine: 32 Chambers | 19324 | [19324-submachine-32-chambers.json](./19324-submachine-32-chambers.json) |
 | Submachine: 32 Chambers | 260730 | [260730-submachine-32-chambers.json](./260730-submachine-32-chambers.json) |
+| Submachine: FLF | 259983 | [259983-submachine-flf.json](./259983-submachine-flf.json) |
 | Submachine: Future Loop Foundation | 19296 | [19296-submachine-future-loop-foundation.json](./19296-submachine-future-loop-foundation.json) |
 | Submansion | 334264 | [334264-submansion.json](./334264-submansion.json) |
 | Submarine | 274867 | [274867-submarine.json](./274867-submarine.json) |
