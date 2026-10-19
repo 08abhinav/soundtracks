@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Redemption | 11602 | [11602-road-redemption.json](./11602-road-redemption.json) |
 | Road Riot 4WD | 39946 | [39946-road-riot-4wd.json](./39946-road-riot-4wd.json) |
 | Road Riot Combat Racing | 344930 | [344930-road-riot-combat-racing.json](./344930-road-riot-combat-racing.json) |
+| Road Runner | 281878 | [281878-road-runner.json](./281878-road-runner.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Runner's Death Valley Rally | 8099 | [8099-road-runners-death-valley-rally.json](./8099-road-runners-death-valley-rally.json) |
