@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neanderthal | 291876 | [291876-neanderthal.json](./291876-neanderthal.json) |
 | Neanderthal Man | 13742 | [13742-neanderthal-man.json](./13742-neanderthal-man.json) |
 | Neanderthallica | 236401 | [236401-neanderthallica.json](./236401-neanderthallica.json) |
+| Near | 285375 | [285375-near.json](./285375-near.json) |
 | Near Bird | 113700 | [113700-near-bird.json](./113700-near-bird.json) |
 | Near Deadline | 158510 | [158510-near-deadline.json](./158510-near-deadline.json) |
 | Near Death | 18434 | [18434-near-death.json](./18434-near-death.json) |
@@ -1400,6 +1401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
+| Neet Girl Rehabilitation Plan: Guutara-ko Saisei Kikaku | 285354 | [285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json](./285354-neet-girl-rehabilitation-plan-guutara-ko-saisei-kikaku.json) |
 | NEET Nectar's Abysmally Small Assortment | 341363 | [341363-neet-nectars-abysmally-small-assortment.json](./341363-neet-nectars-abysmally-small-assortment.json) |
 | NEET Simulator | 113768 | [113768-neet-simulator.json](./113768-neet-simulator.json) |
 | Nefarious Dreams | 330855 | [330855-nefarious-dreams.json](./330855-nefarious-dreams.json) |
