@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Atlas Limited Edition | 136290 | [136290-call-of-duty-advanced-warfare-atlas-limited-edition.json](./136290-call-of-duty-advanced-warfare-atlas-limited-edition.json) |
 | Call of Duty: Advanced Warfare - Atlas Pro Edition | 102718 | [102718-call-of-duty-advanced-warfare-atlas-pro-edition.json](./102718-call-of-duty-advanced-warfare-atlas-pro-edition.json) |
+| Call of Duty: Advanced Warfare - Day Zero Edition | 261088 | [261088-call-of-duty-advanced-warfare-day-zero-edition.json](./261088-call-of-duty-advanced-warfare-day-zero-edition.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
 | Call of Duty: Advanced Warfare - Havoc | 20889 | [20889-call-of-duty-advanced-warfare-havoc.json](./20889-call-of-duty-advanced-warfare-havoc.json) |
@@ -1550,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator: Pocket Edition 2 | 196825 | [196825-car-mechanic-simulator-pocket-edition-2.json](./196825-car-mechanic-simulator-pocket-edition-2.json) |
 | Car Mechanic: City Driving | 263971 | [263971-car-mechanic-city-driving.json](./263971-car-mechanic-city-driving.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
+| Car Park: Draw Lines Puzzle | 261097 | [261097-car-park-draw-lines-puzzle.json](./261097-car-park-draw-lines-puzzle.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
 | Car Parking & Car Driving Simulator 2023 | 271702 | [271702-car-parking-and-car-driving-simulator-2023.json](./271702-car-parking-and-car-driving-simulator-2023.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
 | Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
+| Chainsaw Man: Nusunda Baiku De Kirihiraku!! | 261115 | [261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json](./261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
@@ -4348,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code: Nemesis Experiment | 128906 | [128906-chaos-code-nemesis-experiment.json](./128906-chaos-code-nemesis-experiment.json) |
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
+| Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 325843 | [325843-chaos-control.json](./325843-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
@@ -9081,6 +9085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
+| Coloring Pixels: R/Place 2023 Pack | 261089 | [261089-coloring-pixels-r-place-2023-pack.json](./261089-coloring-pixels-r-place-2023-pack.json) |
 | Coloring Pixels: r/Place Pack | 350763 | [350763-coloring-pixels-r-place-pack.json](./350763-coloring-pixels-r-place-pack.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
 | Coloring Pixels: Realistic Pack | 162605 | [162605-coloring-pixels-realistic-pack.json](./162605-coloring-pixels-realistic-pack.json) |
@@ -10425,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conundrum | 174086 | [174086-conundrum.json](./174086-conundrum.json) |
 | Conundrum | 348975 | [348975-conundrum.json](./348975-conundrum.json) |
 | Conundrum | 380087 | [380087-conundrum.json](./380087-conundrum.json) |
+| Conundrum 929 | 261116 | [261116-conundrum-929.json](./261116-conundrum-929.json) |
 | Conundrum Catacombs | 245958 | [245958-conundrum-catacombs.json](./245958-conundrum-catacombs.json) |
 | Conurbation | 176738 | [176738-conurbation.json](./176738-conurbation.json) |
 | Conveni Dream | 58464 | [58464-conveni-dream.json](./58464-conveni-dream.json) |
