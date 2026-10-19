@@ -6260,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love and Berry: Dress Up and Dance! | 123372 | [123372-love-and-berry-dress-up-and-dance.json](./123372-love-and-berry-dress-up-and-dance.json) |
 | Love and Betrayal | 195639 | [195639-love-and-betrayal.json](./195639-love-and-betrayal.json) |
 | Love and Conspiracy | 299529 | [299529-love-and-conspiracy.json](./299529-love-and-conspiracy.json) |
+| Love and Crime | 289723 | [289723-love-and-crime.json](./289723-love-and-crime.json) |
 | Love And Death | 414568 | [414568-love-and-death.json](./414568-love-and-death.json) |
 | Love and Demons | 252074 | [252074-love-and-demons.json](./252074-love-and-demons.json) |
 | Love and Demons | 293846 | [293846-love-and-demons.json](./293846-love-and-demons.json) |
