@@ -3399,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnition: Ignis | 316460 | [316460-agnition-ignis.json](./316460-agnition-ignis.json) |
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
+| Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
@@ -7594,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Loop | 293091 | [293091-anomaly-loop.json](./293091-anomaly-loop.json) |
 | Anomaly Observer | 353284 | [353284-anomaly-observer.json](./353284-anomaly-observer.json) |
 | Anomaly Patroller | 325240 | [325240-anomaly-patroller.json](./325240-anomaly-patroller.json) |
+| Anomaly Pools | 308605 | [308605-anomaly-pools.json](./308605-anomaly-pools.json) |
 | Anomaly President | 320975 | [320975-anomaly-president.json](./320975-anomaly-president.json) |
 | Anomaly Report | 257424 | [257424-anomaly-report.json](./257424-anomaly-report.json) |
 | Anomaly Report | 348409 | [348409-anomaly-report.json](./348409-anomaly-report.json) |
