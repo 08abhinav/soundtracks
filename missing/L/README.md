@@ -1454,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
 | Le Mans Ultimate | 253412 | [253412-le-mans-ultimate.json](./253412-le-mans-ultimate.json) |
+| Le Mans Ultimate: BMW M Hybrid V8 | 304430 | [304430-le-mans-ultimate-bmw-m-hybrid-v8.json](./304430-le-mans-ultimate-bmw-m-hybrid-v8.json) |
 | Le Mirage Mystique | 392423 | [392423-le-mirage-mystique.json](./392423-le-mirage-mystique.json) |
 | Le Miroir d'Ozivior | 413609 | [413609-le-miroir-dozivior.json](./413609-le-miroir-dozivior.json) |
 | Le monde d'orathos | 296221 | [296221-le-monde-dorathos.json](./296221-le-monde-dorathos.json) |
@@ -7300,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust of the Apartment Wives | 249106 | [249106-lust-of-the-apartment-wives.json](./249106-lust-of-the-apartment-wives.json) |
+| Lust Potions | 304464 | [304464-lust-potions.json](./304464-lust-potions.json) |
 | Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
 | Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
 | Lust Storm | 372031 | [372031-lust-storm.json](./372031-lust-storm.json) |
