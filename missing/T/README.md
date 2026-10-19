@@ -3817,6 +3817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Th3_M1dday_L4dies | 392887 | [392887-th3-m1dday-l4dies.json](./392887-th3-m1dday-l4dies.json) |
 | Th3-M15 Guild | 268140 | [268140-th3-m15-guild.json](./268140-th3-m15-guild.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
+| Thalamus Collection 1 | 299490 | [299490-thalamus-collection-1.json](./299490-thalamus-collection-1.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
 | The Cesspit | 367966 | [367966-the-cesspit.json](./367966-the-cesspit.json) |
 | The Chad | 269191 | [269191-the-chad.json](./269191-the-chad.json) |
+| The Chain Witches | 299519 | [299519-the-chain-witches.json](./299519-the-chain-witches.json) |
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
@@ -6830,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fate of Baldr | 211209 | [211209-the-fate-of-baldr.json](./211209-the-fate-of-baldr.json) |
 | The Fate of the Bombiwa | 218075 | [218075-the-fate-of-the-bombiwa.json](./218075-the-fate-of-the-bombiwa.json) |
 | The Fate of the Pharaoh | 100188 | [100188-the-fate-of-the-pharaoh.json](./100188-the-fate-of-the-pharaoh.json) |
+| The Fateful Encounter | 299604 | [299604-the-fateful-encounter.json](./299604-the-fateful-encounter.json) |
 | The Fates of Twinion | 2521 | [2521-the-fates-of-twinion.json](./2521-the-fates-of-twinion.json) |
 | The Father | 184338 | [184338-the-father.json](./184338-the-father.json) |
 | The Fatum | 361453 | [361453-the-fatum.json](./361453-the-fatum.json) |
@@ -7918,6 +7921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
+| The House of Silence | 299514 | [299514-the-house-of-silence.json](./299514-the-house-of-silence.json) |
 | The House of the Dead | 2469 | [2469-the-house-of-the-dead.json](./2469-the-house-of-the-dead.json) |
 | The House of the Dead 2 | 13777 | [13777-the-house-of-the-dead-2.json](./13777-the-house-of-the-dead-2.json) |
 | The House of the Dead 2 & 3 Return | 4918 | [4918-the-house-of-the-dead-2-and-3-return.json](./4918-the-house-of-the-dead-2-and-3-return.json) |
@@ -23192,6 +23196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Island | 364045 | [364045-trump-island.json](./364045-trump-island.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
 | Trump Loves Waifus | 156562 | [156562-trump-loves-waifus.json](./156562-trump-loves-waifus.json) |
+| Trump Quest | 299492 | [299492-trump-quest.json](./299492-trump-quest.json) |
 | Trump Simulator 2025 | 334305 | [334305-trump-simulator-2025.json](./334305-trump-simulator-2025.json) |
 | Trump Tariff | 338606 | [338606-trump-tariff.json](./338606-trump-tariff.json) |
 | Trump vs Biden: Infinity war | 141035 | [141035-trump-vs-biden-infinity-war.json](./141035-trump-vs-biden-infinity-war.json) |
@@ -23989,6 +23994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Protocol | 373734 | [373734-twilight-protocol.json](./373734-twilight-protocol.json) |
 | Twilight Refrain | 63843 | [63843-twilight-refrain.json](./63843-twilight-refrain.json) |
+| Twilight Romance | 299599 | [299599-twilight-romance.json](./299599-twilight-romance.json) |
 | Twilight School: The Forbidden Experiment | 325728 | [325728-twilight-school-the-forbidden-experiment.json](./325728-twilight-school-the-forbidden-experiment.json) |
 | Twilight Shadows | 188354 | [188354-twilight-shadows.json](./188354-twilight-shadows.json) |
 | Twilight Story: A Quiet House | 279095 | [279095-twilight-story-a-quiet-house.json](./279095-twilight-story-a-quiet-house.json) |
