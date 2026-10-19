@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled: Gisele Level Pack | 312101 | [312101-beauties-unveiled-gisele-level-pack.json](./312101-beauties-unveiled-gisele-level-pack.json) |
 | Beauties Unveiled: Hot Edition | 298568 | [298568-beauties-unveiled-hot-edition.json](./298568-beauties-unveiled-hot-edition.json) |
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
+| Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
@@ -11898,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
 | Bubble Bobble | 194443 | [194443-bubble-bobble.json](./194443-bubble-bobble.json) |
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
+| Bubble Bobble | 306222 | [306222-bubble-bobble.json](./306222-bubble-bobble.json) |
 | Bubble Bobble | 313543 | [313543-bubble-bobble.json](./313543-bubble-bobble.json) |
 | Bubble Bobble | 332216 | [332216-bubble-bobble.json](./332216-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
@@ -11973,6 +11975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
+| Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter | 380041 | [380041-bubble-shooter.json](./380041-bubble-shooter.json) |
@@ -12174,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Catcher | 287651 | [287651-bug-catcher.json](./287651-bug-catcher.json) |
 | Bug Catcher | 380039 | [380039-bug-catcher.json](./380039-bug-catcher.json) |
 | Bug Cleaners | 336030 | [336030-bug-cleaners.json](./336030-bug-cleaners.json) |
+| Bug darake no Machi | 306239 | [306239-bug-darake-no-machi.json](./306239-bug-darake-no-machi.json) |
 | Bug darake no Shiro | 329230 | [329230-bug-darake-no-shiro.json](./329230-bug-darake-no-shiro.json) |
 | Bug Dates | 206974 | [206974-bug-dates.json](./206974-bug-dates.json) |
 | Bug Dolls: Soviet Project | 203900 | [203900-bug-dolls-soviet-project.json](./203900-bug-dolls-soviet-project.json) |
@@ -13238,6 +13242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly's Big Knife Fight | 398640 | [398640-butterflys-big-knife-fight.json](./398640-butterflys-big-knife-fight.json) |
 | Butterfly's Poison: Blood Chains - Fantasy Night Stories | 226207 | [226207-butterflys-poison-blood-chains-fantasy-night-stories.json](./226207-butterflys-poison-blood-chains-fantasy-night-stories.json) |
 | Butterfly//Circuit | 252234 | [252234-butterfly-circuit.json](./252234-butterfly-circuit.json) |
+| Butto Bird | 306193 | [306193-butto-bird.json](./306193-butto-bird.json) |
 | Button Board | 232349 | [232349-button-board.json](./232349-button-board.json) |
 | Button Bros | 46468 | [46468-button-bros.json](./46468-button-bros.json) |
 | Button Button Up! | 122868 | [122868-button-button-up.json](./122868-button-button-up.json) |
