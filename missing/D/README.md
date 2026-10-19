@@ -8560,6 +8560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggy Up! | 271657 | [271657-doggy-up.json](./271657-doggy-up.json) |
 | Doggy Waiter 2 | 319678 | [319678-doggy-waiter-2.json](./319678-doggy-waiter-2.json) |
 | DogHotel | 101582 | [101582-doghotel.json](./101582-doghotel.json) |
+| DogHotel | 259977 | [259977-doghotel.json](./259977-doghotel.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
@@ -9559,6 +9560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Fighters | 202839 | [202839-doom-fighters.json](./202839-doom-fighters.json) |
 | Doom GTS | 76246 | [76246-doom-gts.json](./76246-doom-gts.json) |
 | Doom I Enhanced | 214128 | [214128-doom-i-enhanced.json](./214128-doom-i-enhanced.json) |
+| Doom II | 260018 | [260018-doom-ii.json](./260018-doom-ii.json) |
+| Doom II | 260021 | [260021-doom-ii.json](./260021-doom-ii.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
 | Doom II Enhanced | 214127 | [214127-doom-ii-enhanced.json](./214127-doom-ii-enhanced.json) |
 | Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
@@ -12834,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducktopia | 169388 | [169388-ducktopia.json](./169388-ducktopia.json) |
 | DuckWorld Revive | 327960 | [327960-duckworld-revive.json](./327960-duckworld-revive.json) |
 | DuckWorld Smart Adventures | 327959 | [327959-duckworld-smart-adventures.json](./327959-duckworld-smart-adventures.json) |
+| Ducky Bouncy | 259967 | [259967-ducky-bouncy.json](./259967-ducky-bouncy.json) |
 | Ducky Dan | 94212 | [94212-ducky-dan.json](./94212-ducky-dan.json) |
 | Ducky Dash | 320761 | [320761-ducky-dash.json](./320761-ducky-dash.json) |
 | Ducky Dive | 232579 | [232579-ducky-dive.json](./232579-ducky-dive.json) |
@@ -13460,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
 | Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
+| Dungeon Tale | 260006 | [260006-dungeon-tale.json](./260006-dungeon-tale.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
