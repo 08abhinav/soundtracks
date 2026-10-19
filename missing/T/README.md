@@ -7912,6 +7912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
+| The Hidden Fragmentation | 261123 | [261123-the-hidden-fragmentation.json](./261123-the-hidden-fragmentation.json) |
 | The Hidden Game Society | 150254 | [150254-the-hidden-game-society.json](./150254-the-hidden-game-society.json) |
 | The Hidden Ghost | 195483 | [195483-the-hidden-ghost.json](./195483-the-hidden-ghost.json) |
 | The Hidden Object Collection | 146730 | [146730-the-hidden-object-collection.json](./146730-the-hidden-object-collection.json) |
@@ -8645,6 +8646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters XIII Climax | 348461 | [348461-the-king-of-fighters-xiii-climax.json](./348461-the-king-of-fighters-xiii-climax.json) |
 | The King of Fighters XIII Steam Edition | 22679 | [22679-the-king-of-fighters-xiii-steam-edition.json](./22679-the-king-of-fighters-xiii-steam-edition.json) |
 | The King of Fighters XIII: Galaxy Edition | 126461 | [126461-the-king-of-fighters-xiii-galaxy-edition.json](./126461-the-king-of-fighters-xiii-galaxy-edition.json) |
+| The King of Fighters XIII: Global Match | 261086 | [261086-the-king-of-fighters-xiii-global-match.json](./261086-the-king-of-fighters-xiii-global-match.json) |
 | The King of Fighters XIII: Global Match: Deluxe Edition | 276942 | [276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json](./276942-the-king-of-fighters-xiii-global-match-deluxe-edition.json) |
 | The King of Fighters XIII: Iori with the Power of Flames | 404927 | [404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json](./404927-the-king-of-fighters-xiii-iori-with-the-power-of-flames.json) |
 | The King of Fighters XIII: Mr. Karate | 404942 | [404942-the-king-of-fighters-xiii-mr-karate.json](./404942-the-king-of-fighters-xiii-mr-karate.json) |
@@ -12443,6 +12445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sin Collector: Repentless | 169773 | [169773-the-sin-collector-repentless.json](./169773-the-sin-collector-repentless.json) |
 | The Sin of Fabien | 405705 | [405705-the-sin-of-fabien.json](./405705-the-sin-of-fabien.json) |
 | The Singing Saw Simulator | 289963 | [289963-the-singing-saw-simulator.json](./289963-the-singing-saw-simulator.json) |
+| The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
 | The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
@@ -16898,6 +16901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilt to Live 2: Redonkulous | 194413 | [194413-tilt-to-live-2-redonkulous.json](./194413-tilt-to-live-2-redonkulous.json) |
 | Tilt'N'Turn | 187290 | [187290-tiltnturn.json](./187290-tiltnturn.json) |
 | TiltBill | 224995 | [224995-tiltbill.json](./224995-tiltbill.json) |
+| Tilted | 261130 | [261130-tilted.json](./261130-tilted.json) |
 | Tilted Mind | 36484 | [36484-tilted-mind.json](./36484-tilted-mind.json) |
 | Tilted: A Tale of Refraction | 51947 | [51947-tilted-a-tale-of-refraction.json](./51947-tilted-a-tale-of-refraction.json) |
 | Tiltfire | 199604 | [199604-tiltfire.json](./199604-tiltfire.json) |
@@ -19986,6 +19990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow n Go | 220248 | [220248-tow-n-go.json](./220248-tow-n-go.json) |
 | Tow Truck | 104635 | [104635-tow-truck.json](./104635-tow-truck.json) |
 | Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
+| Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
@@ -20866,6 +20871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 3: Loco Add-On Bundle 2 | 243233 | [243233-train-sim-world-3-loco-add-on-bundle-2.json](./243233-train-sim-world-3-loco-add-on-bundle-2.json) |
 | Train Sim World 3: New Journeys - S-Bahn Köln BR 423 | 227192 | [227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json](./227192-train-sim-world-3-new-journeys-s-bahn-koln-br-423.json) |
 | Train Sim World 3: Niddertalbahn - Bad Vilbel - Stockheim Route Add-On | 269329 | [269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json](./269329-train-sim-world-3-niddertalbahn-bad-vilbel-stockheim-route-add-on.json) |
+| Train Sim World 3: Norfolk Southern Heritage Livery Collection Add-On | 261094 | [261094-train-sim-world-3-norfolk-southern-heritage-livery-collection-add-on.json](./261094-train-sim-world-3-norfolk-southern-heritage-livery-collection-add-on.json) |
 | Train Sim World 3: Northeast Corridor - New York: Trenton | 237942 | [237942-train-sim-world-3-northeast-corridor-new-york-trenton.json](./237942-train-sim-world-3-northeast-corridor-new-york-trenton.json) |
 | Train Sim World 3: Peak Forest Railway - Ambergate - Chinley & Buxton | 273930 | [273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json](./273930-train-sim-world-3-peak-forest-railway-ambergate-chinley-and-buxton.json) |
 | Train Sim World 3: Rail Head Treatment Train Add-On | 220713 | [220713-train-sim-world-3-rail-head-treatment-train-add-on.json](./220713-train-sim-world-3-rail-head-treatment-train-add-on.json) |
