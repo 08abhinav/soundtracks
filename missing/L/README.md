@@ -2595,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lessaria: Fantasy Kingdom Sim | 261556 | [261556-lessaria-fantasy-kingdom-sim.json](./261556-lessaria-fantasy-kingdom-sim.json) |
 | Lesson | 111658 | [111658-lesson.json](./111658-lesson.json) |
 | Lesson Learned | 196115 | [196115-lesson-learned.json](./196115-lesson-learned.json) |
+| Lesson Learned | 303868 | [303868-lesson-learned.json](./303868-lesson-learned.json) |
 | Lesson Learned: Cult of the Elizabeth | 285926 | [285926-lesson-learned-cult-of-the-elizabeth.json](./285926-lesson-learned-cult-of-the-elizabeth.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
