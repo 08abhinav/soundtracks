@@ -992,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cases: The Blood Ruby | 139759 | [139759-dark-cases-the-blood-ruby.json](./139759-dark-cases-the-blood-ruby.json) |
 | Dark Cases: The Blood Ruby - Collector's Edition | 30042 | [30042-dark-cases-the-blood-ruby-collectors-edition.json](./30042-dark-cases-the-blood-ruby-collectors-edition.json) |
 | Dark Castle | 12034 | [12034-dark-castle.json](./12034-dark-castle.json) |
+| Dark Castle | 287498 | [287498-dark-castle.json](./287498-dark-castle.json) |
 | Dark Castle | 334682 | [334682-dark-castle.json](./334682-dark-castle.json) |
 | Dark Castle | 337427 | [337427-dark-castle.json](./337427-dark-castle.json) |
 | Dark Castle | 337429 | [337429-dark-castle.json](./337429-dark-castle.json) |
@@ -4150,6 +4151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
 | Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
+| Defensive | 287499 | [287499-defensive.json](./287499-defensive.json) |
 | Defensive Attacks | 150548 | [150548-defensive-attacks.json](./150548-defensive-attacks.json) |
 | Defensive Measures | 199403 | [199403-defensive-measures.json](./199403-defensive-measures.json) |
 | Defensurvivor | 324715 | [324715-defensurvivor.json](./324715-defensurvivor.json) |
@@ -5166,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Skies | 116767 | [116767-desert-skies.json](./116767-desert-skies.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
+| Desert Storm | 287500 | [287500-desert-storm.json](./287500-desert-storm.json) |
 | Desert Storm Command Deluxe | 79539 | [79539-desert-storm-command-deluxe.json](./79539-desert-storm-command-deluxe.json) |
 | Desert Storm War FPS | 395768 | [395768-desert-storm-war-fps.json](./395768-desert-storm-war-fps.json) |
 | Desert Storm with Coalition Command | 122274 | [122274-desert-storm-with-coalition-command.json](./122274-desert-storm-with-coalition-command.json) |
@@ -6450,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIG IT! - A Digger Simulator | 17593 | [17593-dig-it-a-digger-simulator.json](./17593-dig-it-a-digger-simulator.json) |
 | Dig Mania | 129200 | [129200-dig-mania.json](./129200-dig-mania.json) |
 | Dig Master | 239036 | [239036-dig-master.json](./239036-dig-master.json) |
+| Dig Mines | 287501 | [287501-dig-mines.json](./287501-dig-mines.json) |
 | Dig n Fight | 412888 | [412888-dig-n-fight.json](./412888-dig-n-fight.json) |
 | Dig Odyssey: Cosmic Mining | 251205 | [251205-dig-odyssey-cosmic-mining.json](./251205-dig-odyssey-cosmic-mining.json) |
 | Dig or Die | 17686 | [17686-dig-or-die.json](./17686-dig-or-die.json) |
@@ -7047,6 +7051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diptych: The Great War | 199135 | [199135-diptych-the-great-war.json](./199135-diptych-the-great-war.json) |
 | Dirappen Restoration | 265700 | [265700-dirappen-restoration.json](./265700-dirappen-restoration.json) |
 | Dire | 182830 | [182830-dire.json](./182830-dire.json) |
+| Dire Decks | 287495 | [287495-dire-decks.json](./287495-dire-decks.json) |
 | Dire Destiny: Time Travel | 217227 | [217227-dire-destiny-time-travel.json](./217227-dire-destiny-time-travel.json) |
 | Dire Destiny: Time Travel-Gambler | 246841 | [246841-dire-destiny-time-travel-gambler.json](./246841-dire-destiny-time-travel-gambler.json) |
 | Dire Destiny: Time Travel-Mech Pilot | 246842 | [246842-dire-destiny-time-travel-mech-pilot.json](./246842-dire-destiny-time-travel-mech-pilot.json) |
@@ -10717,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Defender | 40644 | [40644-dragon-defender.json](./40644-dragon-defender.json) |
 | Dragon Defender: Castle Kingdom Quest | 234188 | [234188-dragon-defender-castle-kingdom-quest.json](./234188-dragon-defender-castle-kingdom-quest.json) |
+| Dragon Den | 287502 | [287502-dragon-den.json](./287502-dragon-den.json) |
 | Dragon Detective: A Friend From the Shadows | 349096 | [349096-dragon-detective-a-friend-from-the-shadows.json](./349096-dragon-detective-a-friend-from-the-shadows.json) |
 | Dragon Dice | 69894 | [69894-dragon-dice.json](./69894-dragon-dice.json) |
 | Dragon Dodge Valley | 238743 | [238743-dragon-dodge-valley.json](./238743-dragon-dodge-valley.json) |
@@ -12042,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
 | Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
+| Dringle | 287503 | [287503-dringle.json](./287503-dringle.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
@@ -12943,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
 | Dune Strider | 203547 | [203547-dune-strider.json](./203547-dune-strider.json) |
+| Dune War | 287504 | [287504-dune-war.json](./287504-dune-war.json) |
 | Dune: Awakening - Chapter 2 | 362059 | [362059-dune-awakening-chapter-2.json](./362059-dune-awakening-chapter-2.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
 | Dune: Awakening - The Lost Harvest | 362058 | [362058-dune-awakening-the-lost-harvest.json](./362058-dune-awakening-the-lost-harvest.json) |
