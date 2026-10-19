@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 1 - Take Control | 253296 | [253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json](./253296-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-1-take-control.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 2 - The Lustrous of the Universe | 253311 | [253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json](./253311-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-2-the-lustrous-of-the-universe.json) |
 | Jorel's Brother and the Most Important Game of the Galaxy: Chapter 3 - The Final Rave | 253316 | [253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json](./253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json) |
+| Jorel's Brother and the Most Important Game of the Galaxy: Complete Edition | 297303 | [297303-jorels-brother-and-the-most-important-game-of-the-galaxy-complete-edition.json](./297303-jorels-brother-and-the-most-important-game-of-the-galaxy-complete-edition.json) |
 | Jorji and Impossible Forest | 104817 | [104817-jorji-and-impossible-forest.json](./104817-jorji-and-impossible-forest.json) |
 | Jormungandr | 117618 | [117618-jormungandr.json](./117618-jormungandr.json) |
 | Jorogumo | 251742 | [251742-jorogumo.json](./251742-jorogumo.json) |
