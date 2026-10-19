@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.J.'s World of Discovery | 73176 | [73176-a-j-s-world-of-discovery.json](./73176-a-j-s-world-of-discovery.json) |
 | A.L.A.N.: Rift Breakers | 120158 | [120158-a-l-a-n-rift-breakers.json](./120158-a-l-a-n-rift-breakers.json) |
 | A.L.T. | 239590 | [239590-a-l-t.json](./239590-a-l-t.json) |
+| A.N.N. | 306778 | [306778-a-n-n.json](./306778-a-n-n.json) |
 | A.N.O.N.Y.M.U.S. | 279027 | [279027-a-n-o-n-y-m-u-s.json](./279027-a-n-o-n-y-m-u-s.json) |
 | A.R.C: Alien raid combat | 165707 | [165707-a-r-c-alien-raid-combat.json](./165707-a-r-c-alien-raid-combat.json) |
 | A.R.C. | 58867 | [58867-a-r-c.json](./58867-a-r-c.json) |
@@ -3883,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Flight Attendant Simulator VR | 236016 | [236016-airline-flight-attendant-simulator-vr.json](./236016-airline-flight-attendant-simulator-vr.json) |
 | Airline Manager | 206104 | [206104-airline-manager.json](./206104-airline-manager.json) |
 | Airline Manager 4 | 152471 | [152471-airline-manager-4.json](./152471-airline-manager-4.json) |
+| Airline Simulator | 306760 | [306760-airline-simulator.json](./306760-airline-simulator.json) |
 | Airline Tycoon 2: Falcon Airlines | 9956 | [9956-airline-tycoon-2-falcon-airlines.json](./9956-airline-tycoon-2-falcon-airlines.json) |
 | Airline Tycoon 2: Falcon Lines | 52568 | [52568-airline-tycoon-2-falcon-lines.json](./52568-airline-tycoon-2-falcon-lines.json) |
 | Airline Tycoon 2: Gold | 379524 | [379524-airline-tycoon-2-gold.json](./379524-airline-tycoon-2-gold.json) |
@@ -10432,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Girl | 70686 | [70686-artificial-girl.json](./70686-artificial-girl.json) |
 | Artificial Girl 2 | 19808 | [19808-artificial-girl-2.json](./19808-artificial-girl-2.json) |
 | Artificial Girl 3 Plus | 22465 | [22465-artificial-girl-3-plus.json](./22465-artificial-girl-3-plus.json) |
+| Artificial Heart | 306774 | [306774-artificial-heart.json](./306774-artificial-heart.json) |
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
@@ -12408,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Australo Piticus Mechanicus | 14277 | [14277-australo-piticus-mechanicus.json](./14277-australo-piticus-mechanicus.json) |
 | Austrian Avian Association | 251181 | [251181-austrian-avian-association.json](./251181-austrian-avian-association.json) |
 | Austrian Truck Simulator | 61524 | [61524-austrian-truck-simulator.json](./61524-austrian-truck-simulator.json) |
+| Auti-Sim | 306806 | [306806-auti-sim.json](./306806-auti-sim.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
 | Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
