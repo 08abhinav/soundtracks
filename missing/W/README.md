@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Lies Under | 235699 | [235699-what-lies-under.json](./235699-what-lies-under.json) |
 | What Linus Bruckman Sees When His Eyes Are Closed | 73346 | [73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json](./73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
+| What Lurks Inside | 295095 | [295095-what-lurks-inside.json](./295095-what-lurks-inside.json) |
 | What Makes Us Special | 203213 | [203213-what-makes-us-special.json](./203213-what-makes-us-special.json) |
 | What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
 | What Misaki holds in her hand is her deduction | 401725 | [401725-what-misaki-holds-in-her-hand-is-her-deduction.json](./401725-what-misaki-holds-in-her-hand-is-her-deduction.json) |
