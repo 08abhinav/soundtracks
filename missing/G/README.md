@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Bravo Romance15's | 60879 | [60879-girls-bravo-romance15s.json](./60879-girls-bravo-romance15s.json) |
 | Girls Bus Adventure | 242980 | [242980-girls-bus-adventure.json](./242980-girls-bus-adventure.json) |
 | Girls Craft: Crafting and Building | 100959 | [100959-girls-craft-crafting-and-building.json](./100959-girls-craft-crafting-and-building.json) |
+| Girls Creation: Shoujo Geijutsu Kitan | 264497 | [264497-girls-creation-shoujo-geijutsu-kitan.json](./264497-girls-creation-shoujo-geijutsu-kitan.json) |
 | Girls Dance | 105691 | [105691-girls-dance.json](./105691-girls-dance.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
 | Girls Divers | 259507 | [259507-girls-divers.json](./259507-girls-divers.json) |
@@ -5814,6 +5815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online | 134710 | [134710-grand-theft-auto-online.json](./134710-grand-theft-auto-online.json) |
 | Grand Theft Auto Online: A Safehouse in the Hills | 380532 | [380532-grand-theft-auto-online-a-safehouse-in-the-hills.json](./380532-grand-theft-auto-online-a-safehouse-in-the-hills.json) |
 | Grand Theft Auto Online: Agents of Sabotage | 394521 | [394521-grand-theft-auto-online-agents-of-sabotage.json](./394521-grand-theft-auto-online-agents-of-sabotage.json) |
+| Grand Theft Auto Online: Beach Bum | 264468 | [264468-grand-theft-auto-online-beach-bum.json](./264468-grand-theft-auto-online-beach-bum.json) |
 | Grand Theft Auto Online: Bottom Dollar Bounties | 394526 | [394526-grand-theft-auto-online-bottom-dollar-bounties.json](./394526-grand-theft-auto-online-bottom-dollar-bounties.json) |
 | Grand Theft Auto Online: Criminal Enterprise Starter Pack | 334770 | [334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json](./334770-grand-theft-auto-online-criminal-enterprise-starter-pack.json) |
 | Grand Theft Auto Online: Heists | 251244 | [251244-grand-theft-auto-online-heists.json](./251244-grand-theft-auto-online-heists.json) |
