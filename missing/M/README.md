@@ -10977,6 +10977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mommy | 128268 | [128268-mommy.json](./128268-mommy.json) |
 | Mommy Don't Hurt Me Mommy Don't Hurt Me Mommy Don't Hurt Me | 398327 | [398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json](./398327-mommy-dont-hurt-me-mommy-dont-hurt-me-mommy-dont-hurt-me.json) |
 | Mommy-Goddess of Unconditional Love ~Wow, You Sure Gave It Your All Out There!~ | 353289 | [353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json](./353289-mommy-goddess-of-unconditional-love-wow-you-sure-gave-it-your-all-out-there.json) |
+| Mommy's Warm Hot Spring: Poka-poka Mama Koi Onsen | 289203 | [289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json](./289203-mommys-warm-hot-spring-poka-poka-mama-koi-onsen.json) |
 | Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
 | Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
