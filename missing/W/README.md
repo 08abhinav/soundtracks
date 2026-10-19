@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfman | 54716 | [54716-wolfman.json](./54716-wolfman.json) |
 | Wolfpack | 100177 | [100177-wolfpack.json](./100177-wolfpack.json) |
 | WolfPlay | 144817 | [144817-wolfplay.json](./144817-wolfplay.json) |
+| WolfQuest: Anniversary Edition - Hellroaring Mountain | 296723 | [296723-wolfquest-anniversary-edition-hellroaring-mountain.json](./296723-wolfquest-anniversary-edition-hellroaring-mountain.json) |
 | Wolfram | 319118 | [319118-wolfram.json](./319118-wolfram.json) |
 | Wolfriders A Sniper Adventure | 159859 | [159859-wolfriders-a-sniper-adventure.json](./159859-wolfriders-a-sniper-adventure.json) |
 | Wolfsbane | 71702 | [71702-wolfsbane.json](./71702-wolfsbane.json) |
