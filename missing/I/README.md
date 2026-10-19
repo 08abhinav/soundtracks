@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Train Simulator | 174639 | [174639-indian-train-simulator.json](./174639-indian-train-simulator.json) |
 | Indian Train Simulator 2018 | 208928 | [208928-indian-train-simulator-2018.json](./208928-indian-train-simulator-2018.json) |
 | Indian Truck Simulator 3D | 214689 | [214689-indian-truck-simulator-3d.json](./214689-indian-truck-simulator-3d.json) |
+| Indian Vice City: Heroes | 276077 | [276077-indian-vice-city-heroes.json](./276077-indian-vice-city-heroes.json) |
 | Indiana Boy Steam Edition | 112930 | [112930-indiana-boy-steam-edition.json](./112930-indiana-boy-steam-edition.json) |
 | Indiana Jack | 94634 | [94634-indiana-jack.json](./94634-indiana-jack.json) |
 | Indiana Jones | 284213 | [284213-indiana-jones.json](./284213-indiana-jones.json) |
