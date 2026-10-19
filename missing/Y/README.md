@@ -907,6 +907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Never Listen | 123909 | [123909-you-never-listen.json](./123909-you-never-listen.json) |
 | You Only Live Once | 212697 | [212697-you-only-live-once.json](./212697-you-only-live-once.json) |
 | You Only Livez Twice | 124250 | [124250-you-only-livez-twice.json](./124250-you-only-livez-twice.json) |
+| You or the Blue. | 285345 | [285345-you-or-the-blue.json](./285345-you-or-the-blue.json) |
 | You Picked the Wrong Castle | 366116 | [366116-you-picked-the-wrong-castle.json](./366116-you-picked-the-wrong-castle.json) |
 | You Picked Your Poison | 397012 | [397012-you-picked-your-poison.json](./397012-you-picked-your-poison.json) |
 | You Played Yourself | 184946 | [184946-you-played-yourself.json](./184946-you-played-yourself.json) |
@@ -993,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YouFight | 74921 | [74921-youfight.json](./74921-youfight.json) |
 | Yougekitai: Jashin Koumaroku | 240216 | [240216-yougekitai-jashin-koumaroku.json](./240216-yougekitai-jashin-koumaroku.json) |
 | Yougen | 216807 | [216807-yougen.json](./216807-yougen.json) |
+| Youka and Her Summer | 285364 | [285364-youka-and-her-summer.json](./285364-youka-and-her-summer.json) |
 | Youkai Club | 48598 | [48598-youkai-club.json](./48598-youkai-club.json) |
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
@@ -1070,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Love Ai | 372743 | [372743-your-love-ai.json](./372743-your-love-ai.json) |
 | Your Lucky Charm | 264048 | [264048-your-lucky-charm.json](./264048-your-lucky-charm.json) |
 | Your Majesty | 186280 | [186280-your-majesty.json](./186280-your-majesty.json) |
+| Your Majesty | 285350 | [285350-your-majesty.json](./285350-your-majesty.json) |
 | Your Majesty | 292166 | [292166-your-majesty.json](./292166-your-majesty.json) |
 | Your Majesty's Arrival | 339132 | [339132-your-majestys-arrival.json](./339132-your-majestys-arrival.json) |
 | Your Meal, My Lord | 404082 | [404082-your-meal-my-lord.json](./404082-your-meal-my-lord.json) |
