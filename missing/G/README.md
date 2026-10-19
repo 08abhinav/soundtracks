@@ -4427,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godland: The Fire Quest 2 | 219662 | [219662-godland-the-fire-quest-2.json](./219662-godland-the-fire-quest-2.json) |
 | Godless | 165161 | [165161-godless.json](./165161-godless.json) |
 | Godless grove | 201609 | [201609-godless-grove.json](./201609-godless-grove.json) |
+| Godless Night | 273274 | [273274-godless-night.json](./273274-godless-night.json) |
 | Godless Tactics | 132673 | [132673-godless-tactics.json](./132673-godless-tactics.json) |
 | Godless Tower | 200381 | [200381-godless-tower.json](./200381-godless-tower.json) |
 | Godlike | 133768 | [133768-godlike.json](./133768-godlike.json) |
