@@ -6352,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
 | Robin Hood: Prince of Thieves | 48088 | [48088-robin-hood-prince-of-thieves.json](./48088-robin-hood-prince-of-thieves.json) |
+| Robin Hood: Shadow of Nottingham | 298364 | [298364-robin-hood-shadow-of-nottingham.json](./298364-robin-hood-shadow-of-nottingham.json) |
 | Robin Hood: Sherwood Builders | 163038 | [163038-robin-hood-sherwood-builders.json](./163038-robin-hood-sherwood-builders.json) |
 | Robin Hood: Sherwood Defenders | 330262 | [330262-robin-hood-sherwood-defenders.json](./330262-robin-hood-sherwood-defenders.json) |
 | Robin Hood: Spring of Life | 192616 | [192616-robin-hood-spring-of-life.json](./192616-robin-hood-spring-of-life.json) |
@@ -8613,6 +8614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubu Tribe | 91873 | [91873-rubu-tribe.json](./91873-rubu-tribe.json) |
 | Ruby and the Lost Crystals | 360581 | [360581-ruby-and-the-lost-crystals.json](./360581-ruby-and-the-lost-crystals.json) |
 | Ruby Crush | 270417 | [270417-ruby-crush.json](./270417-ruby-crush.json) |
+| Ruby Dreams: Immortal Promise | 298375 | [298375-ruby-dreams-immortal-promise.json](./298375-ruby-dreams-immortal-promise.json) |
 | Ruby Heart | 159871 | [159871-ruby-heart.json](./159871-ruby-heart.json) |
 | Ruby Journey | 337734 | [337734-ruby-journey.json](./337734-ruby-journey.json) |
 | Ruby Rei | 109514 | [109514-ruby-rei.json](./109514-ruby-rei.json) |
