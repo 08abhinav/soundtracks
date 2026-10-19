@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fair Deal: Las Vegas | 110129 | [110129-fair-deal-las-vegas.json](./110129-fair-deal-las-vegas.json) |
 | Fair Food Maker Game | 97153 | [97153-fair-food-maker-game.json](./97153-fair-food-maker-game.json) |
 | Fair Strike | 35675 | [35675-fair-strike.json](./35675-fair-strike.json) |
+| Fair, then Partly Piggy | 289741 | [289741-fair-then-partly-piggy.json](./289741-fair-then-partly-piggy.json) |
 | Faircroft's Antiques: Home for Christmas | 150943 | [150943-faircrofts-antiques-home-for-christmas.json](./150943-faircrofts-antiques-home-for-christmas.json) |
 | Faircroft's Antiques: Home for Christmas - Collector's Edition | 147755 | [147755-faircrofts-antiques-home-for-christmas-collectors-edition.json](./147755-faircrofts-antiques-home-for-christmas-collectors-edition.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Toonz: Embers of Creation | 167356 | [167356-fantasy-toonz-embers-of-creation.json](./167356-fantasy-toonz-embers-of-creation.json) |
 | Fantasy Tower | 304617 | [304617-fantasy-tower.json](./304617-fantasy-tower.json) |
 | Fantasy Tower Defense | 251631 | [251631-fantasy-tower-defense.json](./251631-fantasy-tower-defense.json) |
+| Fantasy Tower Defense Ultimate | 289764 | [289764-fantasy-tower-defense-ultimate.json](./289764-fantasy-tower-defense-ultimate.json) |
 | Fantasy Town | 206450 | [206450-fantasy-town.json](./206450-fantasy-town.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
 | Fantasy Triple Mahjong | 216416 | [216416-fantasy-triple-mahjong.json](./216416-fantasy-triple-mahjong.json) |
@@ -8000,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Detective | 97912 | [97912-fox-detective.json](./97912-fox-detective.json) |
 | Fox Flare Night | 361674 | [361674-fox-flare-night.json](./361674-fox-flare-night.json) |
 | Fox Girl Taming | 239318 | [239318-fox-girl-taming.json](./239318-fox-girl-taming.json) |
+| Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt Arena | 279686 | [279686-fox-hunt-arena.json](./279686-fox-hunt-arena.json) |
@@ -8302,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
+| Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
@@ -9816,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funfair Ride Simulator 3: Ride Pack 6 | 162270 | [162270-funfair-ride-simulator-3-ride-pack-6.json](./162270-funfair-ride-simulator-3-ride-pack-6.json) |
 | Funfair Ride Simulator 4 | 100770 | [100770-funfair-ride-simulator-4.json](./100770-funfair-ride-simulator-4.json) |
 | Funfair Tycoon | 397775 | [397775-funfair-tycoon.json](./397775-funfair-tycoon.json) |
+| FunFitLand | 289712 | [289712-funfitland.json](./289712-funfitland.json) |
 | FunFly | 175198 | [175198-funfly.json](./175198-funfly.json) |
 | Fung | 256716 | [256716-fung.json](./256716-fung.json) |
 | Fungal Colony Sim 2 | 365139 | [365139-fungal-colony-sim-2.json](./365139-fungal-colony-sim-2.json) |
