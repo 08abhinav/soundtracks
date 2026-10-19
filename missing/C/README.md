@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catatonic Fits of Despair | 309195 | [309195-catatonic-fits-of-despair.json](./309195-catatonic-fits-of-despair.json) |
 | CatAway | 381293 | [381293-cataway.json](./381293-cataway.json) |
 | Catbo | 311477 | [311477-catbo.json](./311477-catbo.json) |
+| CatBox | 273761 | [273761-catbox.json](./273761-catbox.json) |
 | CatboyZoom | 301078 | [301078-catboyzoom.json](./301078-catboyzoom.json) |
 | CatBun Idle | 405625 | [405625-catbun-idle.json](./405625-catbun-idle.json) |
 | Catburglar | 110894 | [110894-catburglar.json](./110894-catburglar.json) |
@@ -4883,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Dungeons | 209663 | [209663-chess-dungeons.json](./209663-chess-dungeons.json) |
 | Chess Empire | 361316 | [361316-chess-empire.json](./361316-chess-empire.json) |
 | Chess Evolved Online | 58624 | [58624-chess-evolved-online.json](./58624-chess-evolved-online.json) |
+| Chess Exerciser | 273804 | [273804-chess-exerciser.json](./273804-chess-exerciser.json) |
 | Chess Folk | 420519 | [420519-chess-folk.json](./420519-chess-folk.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
 | Chess for Kids: Play & Learn | 90183 | [90183-chess-for-kids-play-and-learn.json](./90183-chess-for-kids-play-and-learn.json) |
@@ -8724,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
 | Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
+| Color Collar | 273801 | [273801-color-collar.json](./273801-color-collar.json) |
 | Color Computer Games #1 | 71247 | [71247-color-computer-games-1.json](./71247-color-computer-games-1.json) |
 | Color Connect | 168679 | [168679-color-connect.json](./168679-color-connect.json) |
 | Color Connect | 397235 | [397235-color-connect.json](./397235-color-connect.json) |
@@ -10369,6 +10372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conveyor Con-fusion | 302166 | [302166-conveyor-con-fusion.json](./302166-conveyor-con-fusion.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
 | Convict Team Tactics | 326264 | [326264-convict-team-tactics.json](./326264-convict-team-tactics.json) |
+| Convicted | 273782 | [273782-convicted.json](./273782-convicted.json) |
 | Convicted Galaxy | 30902 | [30902-convicted-galaxy.json](./30902-convicted-galaxy.json) |
 | Conviction | 260181 | [260181-conviction.json](./260181-conviction.json) |
 | Conviction Chronicles | 404993 | [404993-conviction-chronicles.json](./404993-conviction-chronicles.json) |
@@ -12921,6 +12925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Round-Up | 21824 | [21824-critter-round-up.json](./21824-critter-round-up.json) |
 | Critter Switcher | 394880 | [394880-critter-switcher.json](./394880-critter-switcher.json) |
 | Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
+| CritterGarden | 273766 | [273766-crittergarden.json](./273766-crittergarden.json) |
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
@@ -15043,6 +15048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberdrome | 113511 | [113511-cyberdrome.json](./113511-cyberdrome.json) |
 | Cyberdyne Warrior | 47234 | [47234-cyberdyne-warrior.json](./47234-cyberdyne-warrior.json) |
 | Cyberemo 2007 | 380620 | [380620-cyberemo-2007.json](./380620-cyberemo-2007.json) |
+| CyberFarm | 273777 | [273777-cyberfarm.json](./273777-cyberfarm.json) |
 | Cyberference | 244490 | [244490-cyberference.json](./244490-cyberference.json) |
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
 | Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
