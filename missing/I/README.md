@@ -797,6 +797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Man | 307838 | [307838-ice-man.json](./307838-ice-man.json) |
 | Ice Master | 92841 | [92841-ice-master.json](./92841-ice-master.json) |
 | Ice Maze | 246540 | [246540-ice-maze.json](./246540-ice-maze.json) |
+| Ice Muncher | 267214 | [267214-ice-muncher.json](./267214-ice-muncher.json) |
 | Ice Nosfe | 236499 | [236499-ice-nosfe.json](./236499-ice-nosfe.json) |
 | Ice on the Edge | 335288 | [335288-ice-on-the-edge.json](./335288-ice-on-the-edge.json) |
 | Ice Orange Pudding | 369378 | [369378-ice-orange-pudding.json](./369378-ice-orange-pudding.json) |
