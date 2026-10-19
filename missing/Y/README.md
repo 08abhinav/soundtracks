@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaris | 21883 | [21883-yaris.json](./21883-yaris.json) |
 | Yarışçı Arazi | 326655 | [326655-yar-sc-arazi.json](./326655-yar-sc-arazi.json) |
 | Yarn | 166614 | [166614-yarn.json](./166614-yarn.json) |
+| Yarn | 294504 | [294504-yarn.json](./294504-yarn.json) |
 | Yarne | 145416 | [145416-yarne.json](./145416-yarne.json) |
 | Yaroze Rally | 296014 | [296014-yaroze-rally.json](./296014-yaroze-rally.json) |
 | Yarozians | 296015 | [296015-yarozians.json](./296015-yarozians.json) |
