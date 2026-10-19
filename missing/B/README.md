@@ -6526,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biz Builder Delux | 147773 | [147773-biz-builder-delux.json](./147773-biz-builder-delux.json) |
 | Biz Taiken Series: Kigyoudou | 59393 | [59393-biz-taiken-series-kigyoudou.json](./59393-biz-taiken-series-kigyoudou.json) |
 | Bizarr Adventure | 224677 | [224677-bizarr-adventure.json](./224677-bizarr-adventure.json) |
+| Bizarre | 272138 | [272138-bizarre.json](./272138-bizarre.json) |
 | Bizarre | 313139 | [313139-bizarre.json](./313139-bizarre.json) |
 | Bizarre Earthquake | 33385 | [33385-bizarre-earthquake.json](./33385-bizarre-earthquake.json) |
 | Bizarre Hunteress Rin | 82879 | [82879-bizarre-hunteress-rin.json](./82879-bizarre-hunteress-rin.json) |
@@ -11865,6 +11866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brucie's Arcade | 310253 | [310253-brucies-arcade.json](./310253-brucies-arcade.json) |
 | Brückenbauen | 85746 | [85746-bruckenbauen.json](./85746-bruckenbauen.json) |
 | Brudal Baddle | 57677 | [57677-brudal-baddle.json](./57677-brudal-baddle.json) |
+| Bruise Mining Company | 272131 | [272131-bruise-mining-company.json](./272131-bruise-mining-company.json) |
 | Bruiser and Scratch | 51081 | [51081-bruiser-and-scratch.json](./51081-bruiser-and-scratch.json) |
 | Bruisers 2D Boxing | 382518 | [382518-bruisers-2d-boxing.json](./382518-bruisers-2d-boxing.json) |
 | Brukel | 117912 | [117912-brukel.json](./117912-brukel.json) |
@@ -12141,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
+| Bubble Shoot Farm | 272182 | [272182-bubble-shoot-farm.json](./272182-bubble-shoot-farm.json) |
 | Bubble Shooter | 224076 | [224076-bubble-shooter.json](./224076-bubble-shooter.json) |
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter | 380041 | [380041-bubble-shooter.json](./380041-bubble-shooter.json) |
@@ -12645,6 +12648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
 | Bullet Rain | 302357 | [302357-bullet-rain.json](./302357-bullet-rain.json) |
 | Bullet Reality | 185435 | [185435-bullet-reality.json](./185435-bullet-reality.json) |
+| Bullet Rodeo | 272183 | [272183-bullet-rodeo.json](./272183-bullet-rodeo.json) |
 | Bullet Roulette VR | 121064 | [121064-bullet-roulette-vr.json](./121064-bullet-roulette-vr.json) |
 | Bullet Run | 23539 | [23539-bullet-run.json](./23539-bullet-run.json) |
 | Bullet Runner | 152156 | [152156-bullet-runner.json](./152156-bullet-runner.json) |
@@ -13330,6 +13334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move 2: Arcade Edition | 3455 | [3455-bust-a-move-2-arcade-edition.json](./3455-bust-a-move-2-arcade-edition.json) |
 | Bust-A-Move 2X | 209377 | [209377-bust-a-move-2x.json](./209377-bust-a-move-2x.json) |
 | Bust-A-Move 3 | 3454 | [3454-bust-a-move-3.json](./3454-bust-a-move-3.json) |
+| Bust-A-Move 3 DX | 272174 | [272174-bust-a-move-3-dx.json](./272174-bust-a-move-3-dx.json) |
 | Bust-A-Move 3000 | 50570 | [50570-bust-a-move-3000.json](./50570-bust-a-move-3000.json) |
 | Bust-a-Move 4 | 6826 | [6826-bust-a-move-4.json](./6826-bust-a-move-4.json) |
 | Bust-A-Move Again | 146217 | [146217-bust-a-move-again.json](./146217-bust-a-move-again.json) |
