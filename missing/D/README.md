@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Demolition | 274747 | [274747-deadliest-demolition.json](./274747-deadliest-demolition.json) |
 | Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
+| Deadliest Warrior: Battlegrounds | 294543 | [294543-deadliest-warrior-battlegrounds.json](./294543-deadliest-warrior-battlegrounds.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
 | Deadlike | 345618 | [345618-deadlike.json](./345618-deadlike.json) |
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
@@ -8312,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoDonPachi Dai-Ou-Jou V101 | 84158 | [84158-dodonpachi-dai-ou-jou-v101.json](./84158-dodonpachi-dai-ou-jou-v101.json) |
 | DoDonPachi Daifukkatsu Black Label | 77997 | [77997-dodonpachi-daifukkatsu-black-label.json](./77997-dodonpachi-daifukkatsu-black-label.json) |
 | DoDonPachi DaiFukkatsu Ver 1.5 | 84160 | [84160-dodonpachi-daifukkatsu-ver-1-5.json](./84160-dodonpachi-daifukkatsu-ver-1-5.json) |
+| DoDonPachi DaiOuJou | 294532 | [294532-dodonpachi-daioujou.json](./294532-dodonpachi-daioujou.json) |
 | DoDonPachi DaiOuJou DX | 214719 | [214719-dodonpachi-daioujou-dx.json](./214719-dodonpachi-daioujou-dx.json) |
 | DoDonPachi DaiOuJou: Black Label | 262448 | [262448-dodonpachi-daioujou-black-label.json](./262448-dodonpachi-daioujou-black-label.json) |
 | DoDonPachi DaiOuJou: Black Label Extra | 77998 | [77998-dodonpachi-daioujou-black-label-extra.json](./77998-dodonpachi-daioujou-black-label-extra.json) |
@@ -9320,6 +9322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God Blitz HD | 106080 | [106080-doodle-god-blitz-hd.json](./106080-doodle-god-blitz-hd.json) |
 | Doodle God Bundle | 119072 | [119072-doodle-god-bundle.json](./119072-doodle-god-bundle.json) |
 | Doodle God HD | 88467 | [88467-doodle-god-hd.json](./88467-doodle-god-hd.json) |
+| Doodle God Solitaire | 294521 | [294521-doodle-god-solitaire.json](./294521-doodle-god-solitaire.json) |
 | Doodle God Ultimate Collection | 118153 | [118153-doodle-god-ultimate-collection.json](./118153-doodle-god-ultimate-collection.json) |
 | Doodle God Universe | 159559 | [159559-doodle-god-universe.json](./159559-doodle-god-universe.json) |
 | Doodle God: 8-bit Mania | 31000 | [31000-doodle-god-8-bit-mania.json](./31000-doodle-god-8-bit-mania.json) |
