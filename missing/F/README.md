@@ -8735,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
 | Fresh Food Merge | 397989 | [397989-fresh-food-merge.json](./397989-fresh-food-merge.json) |
+| Fresh Force Frustrations: A Gay Superhero Erotic Visual Novel | 258831 | [258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json](./258831-fresh-force-frustrations-a-gay-superhero-erotic-visual-novel.json) |
 | Fresh Hops | 333232 | [333232-fresh-hops.json](./333232-fresh-hops.json) |
 | Fresh Hops 2 | 375559 | [375559-fresh-hops-2.json](./375559-fresh-hops-2.json) |
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
@@ -8902,6 +8903,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
 | Friends vs. Friends: Wired Wrecks | 271639 | [271639-friends-vs-friends-wired-wrecks.json](./271639-friends-vs-friends-wired-wrecks.json) |
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
+| Friends: Seishun no Kagayaki | 258854 | [258854-friends-seishun-no-kagayaki.json](./258854-friends-seishun-no-kagayaki.json) |
+| Friends: Seishun no Kagayaki - Best Version | 258859 | [258859-friends-seishun-no-kagayaki-best-version.json](./258859-friends-seishun-no-kagayaki-best-version.json) |
 | FriendShapes | 330246 | [330246-friendshapes.json](./330246-friendshapes.json) |
 | FriendShip | 30936 | [30936-friendship.json](./30936-friendship.json) |
 | Friendship Bracelets Simulator | 303229 | [303229-friendship-bracelets-simulator.json](./303229-friendship-bracelets-simulator.json) |
