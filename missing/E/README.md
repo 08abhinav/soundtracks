@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edenya | 281659 | [281659-edenya.json](./281659-edenya.json) |
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
 | Ederon Online | 136767 | [136767-ederon-online.json](./136767-ederon-online.json) |
+| EDF Overtaken | 273236 | [273236-edf-overtaken.json](./273236-edf-overtaken.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
@@ -3017,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enkeltbillet | 213890 | [213890-enkeltbillet.json](./213890-enkeltbillet.json) |
 | Enkou Girls Collection: Oyaji no Natsu wa Suzushii Loveho de Pakopako Hen | 82997 | [82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json](./82997-enkou-girls-collection-oyaji-no-natsu-wa-suzushii-loveho-de-pakopako-hen.json) |
 | Enkou Shoujo 2: JK Idol Marin no Baai | 77896 | [77896-enkou-shoujo-2-jk-idol-marin-no-baai.json](./77896-enkou-shoujo-2-jk-idol-marin-no-baai.json) |
+| Enlighten The Darkness: Again | 273242 | [273242-enlighten-the-darkness-again.json](./273242-enlighten-the-darkness-again.json) |
 | Enlightened | 249883 | [249883-enlightened.json](./249883-enlightened.json) |
 | Enlightened Sentinel | 155667 | [155667-enlightened-sentinel.json](./155667-enlightened-sentinel.json) |
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
@@ -3654,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 154377 | [154377-escape.json](./154377-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
+| Escape | 273231 | [273231-escape.json](./273231-escape.json) |
 | Escape | 274428 | [274428-escape.json](./274428-escape.json) |
 | Escape | 295270 | [295270-escape.json](./295270-escape.json) |
 | Escape | 305450 | [305450-escape.json](./305450-escape.json) |
