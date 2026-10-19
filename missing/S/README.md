@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapphic Space | 257950 | [257950-sapphic-space.json](./257950-sapphic-space.json) |
 | Sapphire City 2 | 318113 | [318113-sapphire-city-2.json](./318113-sapphire-city-2.json) |
 | Sapphire City Part 3 | 319172 | [319172-sapphire-city-part-3.json](./319172-sapphire-city-part-3.json) |
+| Sapphire Hotel: The Little Tales of | 267220 | [267220-sapphire-hotel-the-little-tales-of.json](./267220-sapphire-hotel-the-little-tales-of.json) |
 | Sapphire Lung | 181685 | [181685-sapphire-lung.json](./181685-sapphire-lung.json) |
 | Sapphire Moon: Forever Memories | 215669 | [215669-sapphire-moon-forever-memories.json](./215669-sapphire-moon-forever-memories.json) |
 | Sapphire Moon: Your Best Wishes | 111230 | [111230-sapphire-moon-your-best-wishes.json](./111230-sapphire-moon-your-best-wishes.json) |
@@ -2350,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sclash: Joystick | 311713 | [311713-sclash-joystick.json](./311713-sclash-joystick.json) |
 | Sclash: Pixels | 276417 | [276417-sclash-pixels.json](./276417-sclash-pixels.json) |
 | Sclash: Sakura | 309999 | [309999-sclash-sakura.json](./309999-sclash-sakura.json) |
+| Sclera | 267256 | [267256-sclera.json](./267256-sclera.json) |
 | Scoober Splat! | 151165 | [151165-scoober-splat.json](./151165-scoober-splat.json) |
 | Scooby Doc 4: The Destroyer | 356757 | [356757-scooby-doc-4-the-destroyer.json](./356757-scooby-doc-4-the-destroyer.json) |
 | Scooby Doo: Horror of the High Seas - Episode 1: The Ghost Pirate Attacks | 337129 | [337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json](./337129-scooby-doo-horror-of-the-high-seas-episode-1-the-ghost-pirate-attacks.json) |
@@ -9755,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Cinderella: Party | 298884 | [298884-sleepless-cinderella-party.json](./298884-sleepless-cinderella-party.json) |
 | Sleepless in the Sapphire City | 299864 | [299864-sleepless-in-the-sapphire-city.json](./299864-sleepless-in-the-sapphire-city.json) |
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
+| Sleepless Night | 267252 | [267252-sleepless-night.json](./267252-sleepless-night.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 145908 | [145908-sleepover.json](./145908-sleepover.json) |
 | Sleepover | 401631 | [401631-sleepover.json](./401631-sleepover.json) |
@@ -24023,6 +24026,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
+| Super Price Series: Block & Switch | 267225 | [267225-super-price-series-block-and-switch.json](./267225-super-price-series-block-and-switch.json) |
+| Super Price Series: Paipai | 267227 | [267227-super-price-series-paipai.json](./267227-super-price-series-paipai.json) |
+| Super Price Series: Reversi | 267232 | [267232-super-price-series-reversi.json](./267232-super-price-series-reversi.json) |
 | Super Princess - Makeup and Dressup Makeover Game | 101043 | [101043-super-princess-makeup-and-dressup-makeover-game.json](./101043-super-princess-makeup-and-dressup-makeover-game.json) |
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
@@ -25100,6 +25106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surfacing | 152116 | [152116-surfacing.json](./152116-surfacing.json) |
 | Surfasaurus | 29659 | [29659-surfasaurus.json](./29659-surfasaurus.json) |
 | Surfatron | 103174 | [103174-surfatron.json](./103174-surfatron.json) |
+| Surfer Bunny | 267221 | [267221-surfer-bunny.json](./267221-surfer-bunny.json) |
 | Surfer Girl Makeover | 99997 | [99997-surfer-girl-makeover.json](./99997-surfer-girl-makeover.json) |
 | Surfer's Paradise | 40691 | [40691-surfers-paradise.json](./40691-surfers-paradise.json) |
 | Surferboy | 346044 | [346044-surferboy.json](./346044-surferboy.json) |
