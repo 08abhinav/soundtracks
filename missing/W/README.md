@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
+| Warcat Parade | 293967 | [293967-warcat-parade.json](./293967-warcat-parade.json) |
 | Warcher Defenders | 268098 | [268098-warcher-defenders.json](./268098-warcher-defenders.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
@@ -6995,6 +6996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyvern | 389106 | [389106-wyvern.json](./389106-wyvern.json) |
 | Wyvern | 97988 | [97988-wyvern.json](./97988-wyvern.json) |
 | Wyvern Studios Solitaire: 30th Aniversary Edition | 289861 | [289861-wyvern-studios-solitaire-30th-aniversary-edition.json](./289861-wyvern-studios-solitaire-30th-aniversary-edition.json) |
+| Wyvern Studios Solitaire: Solitaire Favorites | 294004 | [294004-wyvern-studios-solitaire-solitaire-favorites.json](./294004-wyvern-studios-solitaire-solitaire-favorites.json) |
 | Wyvern Warriors | 410079 | [410079-wyvern-warriors.json](./410079-wyvern-warriors.json) |
 | Wyvern Wings | 109439 | [109439-wyvern-wings.json](./109439-wyvern-wings.json) |
 | WYzards | 275017 | [275017-wyzards.json](./275017-wyzards.json) |
