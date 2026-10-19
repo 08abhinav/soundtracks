@@ -9753,6 +9753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minsk '44 Gold | 384921 | [384921-minsk-44-gold.json](./384921-minsk-44-gold.json) |
 | Minskies | 115631 | [115631-minskies.json](./115631-minskies.json) |
 | MinSweeper | 84137 | [84137-minsweeper.json](./84137-minsweeper.json) |
+| Mint Christmas | 273781 | [273781-mint-christmas.json](./273781-mint-christmas.json) |
 | Mint Dodgers | 320165 | [320165-mint-dodgers.json](./320165-mint-dodgers.json) |
 | Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
