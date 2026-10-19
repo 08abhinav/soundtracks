@@ -396,7 +396,25 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calico Wilder and the Crystal Blade | 416553 | [416553-calico-wilder-and-the-crystal-blade.json](./416553-calico-wilder-and-the-crystal-blade.json) |
 | Calico: Neat Things | 330568 | [330568-calico-neat-things.json](./330568-calico-neat-things.json) |
 | California Games | 263875 | [263875-california-games.json](./263875-california-games.json) |
+| California Games | 263877 | [263877-california-games.json](./263877-california-games.json) |
 | California Games | 263878 | [263878-california-games.json](./263878-california-games.json) |
+| California Games | 263879 | [263879-california-games.json](./263879-california-games.json) |
+| California Games | 263880 | [263880-california-games.json](./263880-california-games.json) |
+| California Games | 263881 | [263881-california-games.json](./263881-california-games.json) |
+| California Games | 263883 | [263883-california-games.json](./263883-california-games.json) |
+| California Games | 263884 | [263884-california-games.json](./263884-california-games.json) |
+| California Games | 263885 | [263885-california-games.json](./263885-california-games.json) |
+| California Games | 263887 | [263887-california-games.json](./263887-california-games.json) |
+| California Games | 263888 | [263888-california-games.json](./263888-california-games.json) |
+| California Games | 263889 | [263889-california-games.json](./263889-california-games.json) |
+| California Games | 263890 | [263890-california-games.json](./263890-california-games.json) |
+| California Games | 263891 | [263891-california-games.json](./263891-california-games.json) |
+| California Games | 263893 | [263893-california-games.json](./263893-california-games.json) |
+| California Games II | 263899 | [263899-california-games-ii.json](./263899-california-games-ii.json) |
+| California Games II | 263900 | [263900-california-games-ii.json](./263900-california-games-ii.json) |
+| California Games II | 263902 | [263902-california-games-ii.json](./263902-california-games-ii.json) |
+| California Games II | 263904 | [263904-california-games-ii.json](./263904-california-games-ii.json) |
+| California Games II | 263906 | [263906-california-games-ii.json](./263906-california-games-ii.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
@@ -6486,6 +6504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
+| Cipher-8 | 263882 | [263882-cipher-8.json](./263882-cipher-8.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
