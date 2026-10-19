@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmch Revolution | 390648 | [390648-farmch-revolution.json](./390648-farmch-revolution.json) |
 | FarmCraft | 264584 | [264584-farmcraft.json](./264584-farmcraft.json) |
 | Farmcraft 2 | 411590 | [411590-farmcraft-2.json](./411590-farmcraft-2.json) |
+| FarmCraft 2 | 267263 | [267263-farmcraft-2.json](./267263-farmcraft-2.json) |
 | FarmD | 368102 | [368102-farmd.json](./368102-farmd.json) |
 | Farmdale | 266125 | [266125-farmdale.json](./266125-farmdale.json) |
 | Farmer Adventure | 186831 | [186831-farmer-adventure.json](./186831-farmer-adventure.json) |
@@ -6565,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog of War: Book One | 278264 | [278264-fog-of-war-book-one.json](./278264-fog-of-war-book-one.json) |
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
+| Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Fogrest: The Whisper of Harbingers | 332461 | [332461-fogrest-the-whisper-of-harbingers.json](./332461-fogrest-the-whisper-of-harbingers.json) |
 | Foguetão 2000 | 300815 | [300815-foguetao-2000.json](./300815-foguetao-2000.json) |
 | Fohh | 304156 | [304156-fohh.json](./304156-fohh.json) |
@@ -8249,6 +8251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment: A Story in Growing | 267279 | [267279-fragment-a-story-in-growing.json](./267279-fragment-a-story-in-growing.json) |
 | fragment:AM | 218146 | [218146-fragment-am.json](./218146-fragment-am.json) |
 | Fragment's Note 2 | 197251 | [197251-fragments-note-2.json](./197251-fragments-note-2.json) |
+| Fragment's Note 2+ | 267248 | [267248-fragments-note-2.json](./267248-fragments-note-2.json) |
 | Fragment's Note+ | 221086 | [221086-fragments-note.json](./221086-fragments-note.json) |
 | Fragment's Note+ AfterStory | 233948 | [233948-fragments-note-afterstory.json](./233948-fragments-note-afterstory.json) |
 | Fragmentary | 390767 | [390767-fragmentary.json](./390767-fragmentary.json) |
@@ -10033,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furby Island | 233987 | [233987-furby-island.json](./233987-furby-island.json) |
 | Furcadia | 18343 | [18343-furcadia.json](./18343-furcadia.json) |
 | Furcadia: The Second Dreaming | 300875 | [300875-furcadia-the-second-dreaming.json](./300875-furcadia-the-second-dreaming.json) |
+| Furcon Frenzy | 267212 | [267212-furcon-frenzy.json](./267212-furcon-frenzy.json) |
 | Furdiburb | 133714 | [133714-furdiburb.json](./133714-furdiburb.json) |
 | Furea Uerzt | 286233 | [286233-furea-uerzt.json](./286233-furea-uerzt.json) |
 | Fureraba: Friend to Lover | 60763 | [60763-fureraba-friend-to-lover.json](./60763-fureraba-friend-to-lover.json) |
