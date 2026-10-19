@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensou Sentai Goseiger Super Battle Daishuugou! | 327603 | [327603-tensou-sentai-goseiger-super-battle-daishuugou.json](./327603-tensou-sentai-goseiger-super-battle-daishuugou.json) |
 | Tensura: King of Monsters | 142849 | [142849-tensura-king-of-monsters.json](./142849-tensura-king-of-monsters.json) |
 | Tenta Shooter | 76057 | [76057-tenta-shooter.json](./76057-tenta-shooter.json) |
+| TentaCat: The Lost Lineage | 285894 | [285894-tentacat-the-lost-lineage.json](./285894-tentacat-the-lost-lineage.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
 | The Child Of Slendrina | 323911 | [323911-the-child-of-slendrina.json](./323911-the-child-of-slendrina.json) |
 | The Children of Clay | 320420 | [320420-the-children-of-clay.json](./320420-the-children-of-clay.json) |
+| The Children of The Woods: Lost Tape | 285891 | [285891-the-children-of-the-woods-lost-tape.json](./285891-the-children-of-the-woods-lost-tape.json) |
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
@@ -8372,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
+| The jump guys | 285883 | [285883-the-jump-guys.json](./285883-the-jump-guys.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
@@ -10222,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mobius: Apartment | 322635 | [322635-the-mobius-apartment.json](./322635-the-mobius-apartment.json) |
 | The Modern Atlas | 404779 | [404779-the-modern-atlas.json](./404779-the-modern-atlas.json) |
 | The Mofflys: Invasion Mayhem | 278509 | [278509-the-mofflys-invasion-mayhem.json](./278509-the-mofflys-invasion-mayhem.json) |
+| The Mom | 285849 | [285849-the-mom.json](./285849-the-mom.json) |
 | The Moment of Memory | 369348 | [369348-the-moment-of-memory.json](./369348-the-moment-of-memory.json) |
 | The Moment of Panic | 404165 | [404165-the-moment-of-panic.json](./404165-the-moment-of-panic.json) |
 | The Moment We Met | 110910 | [110910-the-moment-we-met.json](./110910-the-moment-we-met.json) |
@@ -20557,6 +20561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Crew | 182347 | [182347-train-crew.json](./182347-train-crew.json) |
 | Train Crisis | 83943 | [83943-train-crisis.json](./83943-train-crisis.json) |
 | Train Defense | 105139 | [105139-train-defense.json](./105139-train-defense.json) |
+| Train Depart | 285858 | [285858-train-depart.json](./285858-train-depart.json) |
 | Train Drive ATS 3 Kintetsu Nara Line | 109505 | [109505-train-drive-ats-3-kintetsu-nara-line.json](./109505-train-drive-ats-3-kintetsu-nara-line.json) |
 | Train Driver Journey 2 - Iberia Interior | 88222 | [88222-train-driver-journey-2-iberia-interior.json](./88222-train-driver-journey-2-iberia-interior.json) |
 | Train Driver Journey 3 - Waldabavale to Karrah Bay | 100617 | [100617-train-driver-journey-3-waldabavale-to-karrah-bay.json](./100617-train-driver-journey-3-waldabavale-to-karrah-bay.json) |
@@ -23566,6 +23571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuyokiss: Mighty Heart | 62432 | [62432-tsuyokiss-mighty-heart.json](./62432-tsuyokiss-mighty-heart.json) |
 | Tsuyoshi Shikkari Shinasai Taisen Puzzle-dama | 37778 | [37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json](./37778-tsuyoshi-shikkari-shinasai-taisen-puzzle-dama.json) |
 | Tsuyukusa Euphoria | 390538 | [390538-tsuyukusa-euphoria.json](./390538-tsuyukusa-euphoria.json) |
+| Tsuzuku Sekai to Wakarebana | 285869 | [285869-tsuzuku-sekai-to-wakarebana.json](./285869-tsuzuku-sekai-to-wakarebana.json) |
 | Tsuzumigusa | 387572 | [387572-tsuzumigusa.json](./387572-tsuzumigusa.json) |
 | Tsykial | 270748 | [270748-tsykial.json](./270748-tsykial.json) |
 | TT Isle of Man: Collection | 275041 | [275041-tt-isle-of-man-collection.json](./275041-tt-isle-of-man-collection.json) |
