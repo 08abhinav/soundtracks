@@ -2326,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of The Lieutenant | 282621 | [282621-realm-of-the-lieutenant.json](./282621-realm-of-the-lieutenant.json) |
 | Realm of the Mad God: Free Welcome Pack | 289006 | [289006-realm-of-the-mad-god-free-welcome-pack.json](./289006-realm-of-the-mad-god-free-welcome-pack.json) |
 | Realm of the Paladin: Deception's Plague | 171541 | [171541-realm-of-the-paladin-deceptions-plague.json](./171541-realm-of-the-paladin-deceptions-plague.json) |
+| Realm of the Undead | 273799 | [273799-realm-of-the-undead.json](./273799-realm-of-the-undead.json) |
 | Realm of Thrones | 356159 | [356159-realm-of-thrones.json](./356159-realm-of-thrones.json) |
 | Realm of Valor | 56503 | [56503-realm-of-valor.json](./56503-realm-of-valor.json) |
 | Realm of Virtuals | 116823 | [116823-realm-of-virtuals.json](./116823-realm-of-virtuals.json) |
@@ -2365,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Magic | 76686 | [76686-realms-of-magic.json](./76686-realms-of-magic.json) |
 | Realms of Pixel | 333553 | [333553-realms-of-pixel.json](./333553-realms-of-pixel.json) |
 | Realms of Reverie | 358855 | [358855-realms-of-reverie.json](./358855-realms-of-reverie.json) |
+| Realms of Riddles: Wizards'Keep | 273794 | [273794-realms-of-riddles-wizardskeep.json](./273794-realms-of-riddles-wizardskeep.json) |
 | Realms of Supremacy | 102191 | [102191-realms-of-supremacy.json](./102191-realms-of-supremacy.json) |
 | Realms of Survival | 197068 | [197068-realms-of-survival.json](./197068-realms-of-survival.json) |
 | Realms of the Forgotten | 337776 | [337776-realms-of-the-forgotten.json](./337776-realms-of-the-forgotten.json) |
@@ -6351,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
+| Roam | 273769 | [273769-roam.json](./273769-roam.json) |
 | Roam | 324521 | [324521-roam.json](./324521-roam.json) |
 | Roam | 63893 | [63893-roam.json](./63893-roam.json) |
 | Roam Survival | 215728 | [215728-roam-survival.json](./215728-roam-survival.json) |
@@ -7426,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Quest | 402511 | [402511-rogue-quest.json](./402511-rogue-quest.json) |
 | Rogue Quest: The Vault of the Lost Tyrant | 74358 | [74358-rogue-quest-the-vault-of-the-lost-tyrant.json](./74358-rogue-quest-the-vault-of-the-lost-tyrant.json) |
 | Rogue Raccoon | 358356 | [358356-rogue-raccoon.json](./358356-rogue-raccoon.json) |
+| Rogue Racer | 273785 | [273785-rogue-racer.json](./273785-rogue-racer.json) |
 | Rogue Racing: PinkSlip | 234322 | [234322-rogue-racing-pinkslip.json](./234322-rogue-racing-pinkslip.json) |
 | Rogue Rampage | 334130 | [334130-rogue-rampage.json](./334130-rogue-rampage.json) |
 | Rogue Randy | 166778 | [166778-rogue-randy.json](./166778-rogue-randy.json) |
