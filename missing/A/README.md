@@ -3676,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aim Trainer Gauntlet | 337802 | [337802-aim-trainer-gauntlet.json](./337802-aim-trainer-gauntlet.json) |
 | Aim Trainer Pro | 81623 | [81623-aim-trainer-pro.json](./81623-aim-trainer-pro.json) |
 | Aim Trainer X | 403223 | [403223-aim-trainer-x.json](./403223-aim-trainer-x.json) |
+| Aim Trainer: Shooting Range | 277744 | [277744-aim-trainer-shooting-range.json](./277744-aim-trainer-shooting-range.json) |
 | Aim Trainer: With Cats | 375579 | [375579-aim-trainer-with-cats.json](./375579-aim-trainer-with-cats.json) |
 | Aim Zen | 283887 | [283887-aim-zen.json](./283887-aim-zen.json) |
 | Aim/Flash Trainer | 404837 | [404837-aim-flash-trainer.json](./404837-aim-flash-trainer.json) |
@@ -12733,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
 | AutoSquad | 390017 | [390017-autosquad.json](./390017-autosquad.json) |
+| Autostereocade | 277719 | [277719-autostereocade.json](./277719-autostereocade.json) |
 | Autotag | 296717 | [296717-autotag.json](./296717-autotag.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
