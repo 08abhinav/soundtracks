@@ -5825,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: The Criminal Enterprises | 239052 | [239052-grand-theft-auto-online-the-criminal-enterprises.json](./239052-grand-theft-auto-online-the-criminal-enterprises.json) |
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
+| Grand Theft Auto Online: The Doomsday Heist | 263913 | [263913-grand-theft-auto-online-the-doomsday-heist.json](./263913-grand-theft-auto-online-the-doomsday-heist.json) |
 | Grand Theft Auto PS Vita Collection | 99753 | [99753-grand-theft-auto-ps-vita-collection.json](./99753-grand-theft-auto-ps-vita-collection.json) |
 | Grand Theft Auto Re: Liberty City Stories | 233662 | [233662-grand-theft-auto-re-liberty-city-stories.json](./233662-grand-theft-auto-re-liberty-city-stories.json) |
 | Grand Theft Auto Tightened Thrice | 329629 | [329629-grand-theft-auto-tightened-thrice.json](./329629-grand-theft-auto-tightened-thrice.json) |
