@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regina & Mac World | 147186 | [147186-regina-and-mac-world.json](./147186-regina-and-mac-world.json) |
 | Reginald Does His Thang | 74375 | [74375-reginald-does-his-thang.json](./74375-reginald-does-his-thang.json) |
 | Reginald's Death Arena | 156025 | [156025-reginalds-death-arena.json](./156025-reginalds-death-arena.json) |
+| Region: Gear D | 292390 | [292390-region-gear-d.json](./292390-region-gear-d.json) |
 | Regional Power | 238360 | [238360-regional-power.json](./238360-regional-power.json) |
 | Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
@@ -8578,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTS Football | 259085 | [259085-rts-football.json](./259085-rts-football.json) |
 | RTS Hero | 380817 | [380817-rts-hero.json](./380817-rts-hero.json) |
 | RTS Quantum Chess | 181630 | [181630-rts-quantum-chess.json](./181630-rts-quantum-chess.json) |
+| RTS Tactical Warfare: Siege Survival | 292458 | [292458-rts-tactical-warfare-siege-survival.json](./292458-rts-tactical-warfare-siege-survival.json) |
 | Ru Lin Wai Shi Fan Jin | 258455 | [258455-ru-lin-wai-shi-fan-jin.json](./258455-ru-lin-wai-shi-fan-jin.json) |
 | Ruadh: Warbands | 210606 | [210606-ruadh-warbands.json](./210606-ruadh-warbands.json) |
 | Ruarua.ru | 369558 | [369558-ruarua-ru.json](./369558-ruarua-ru.json) |
