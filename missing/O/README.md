@@ -2000,6 +2000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Flight | 33002 | [33002-one-way-flight.json](./33002-one-way-flight.json) |
 | One Way Heroics Plus | 147990 | [147990-one-way-heroics-plus.json](./147990-one-way-heroics-plus.json) |
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
+| One Way Lane | 302780 | [302780-one-way-lane.json](./302780-one-way-lane.json) |
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
 | One Way to Die: Steam Edition | 90613 | [90613-one-way-to-die-steam-edition.json](./90613-one-way-to-die-steam-edition.json) |
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
