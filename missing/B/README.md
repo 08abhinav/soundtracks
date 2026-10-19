@@ -3422,6 +3422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bayern Munich Club Football 2005 | 267901 | [267901-bayern-munich-club-football-2005.json](./267901-bayern-munich-club-football-2005.json) |
 | Bayla Bunny | 32833 | [32833-bayla-bunny.json](./32833-bayla-bunny.json) |
 | Bayoen Syokin Sougaku 50,000 Yen Sohdatsu Quiz | 239569 | [239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json](./239569-bayoen-syokin-sougaku-50-000-yen-sohdatsu-quiz.json) |
+| Bayonetta / Forza Motorsport 3 | 286973 | [286973-bayonetta-forza-motorsport-3.json](./286973-bayonetta-forza-motorsport-3.json) |
 | Bayonetta + Bayonetta 2: Special Edition | 332282 | [332282-bayonetta-bayonetta-2-special-edition.json](./332282-bayonetta-bayonetta-2-special-edition.json) |
 | Bayonetta 2 | 279336 | [279336-bayonetta-2.json](./279336-bayonetta-2.json) |
 | Bayonetta 2: Bonus Edition | 51154 | [51154-bayonetta-2-bonus-edition.json](./51154-bayonetta-2-bonus-edition.json) |
@@ -13488,6 +13489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byte Survivor | 303717 | [303717-byte-survivor.json](./303717-byte-survivor.json) |
 | Byte the Bullet | 197213 | [197213-byte-the-bullet.json](./197213-byte-the-bullet.json) |
 | Byte Wars | 360578 | [360578-byte-wars.json](./360578-byte-wars.json) |
+| Bytebond | 286955 | [286955-bytebond.json](./286955-bytebond.json) |
 | ByteBurst | 281977 | [281977-byteburst.json](./281977-byteburst.json) |
 | Bytecollector | 349621 | [349621-bytecollector.json](./349621-bytecollector.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
