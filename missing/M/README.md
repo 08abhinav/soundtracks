@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
 | Magic Mirror Hall | 182985 | [182985-magic-mirror-hall.json](./182985-magic-mirror-hall.json) |
 | Magic MixUp | 58200 | [58200-magic-mixup.json](./58200-magic-mixup.json) |
+| Magic Monster Slasher | 291310 | [291310-magic-monster-slasher.json](./291310-magic-monster-slasher.json) |
 | Magic Mountain | 143461 | [143461-magic-mountain.json](./143461-magic-mountain.json) |
 | Magic Mountain Escape | 315552 | [315552-magic-mountain-escape.json](./315552-magic-mountain-escape.json) |
 | Magic Mouse | 115439 | [115439-magic-mouse.json](./115439-magic-mouse.json) |
@@ -4551,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Action | 94006 | [94006-maze-action.json](./94006-maze-action.json) |
 | Maze Adventures | 94950 | [94950-maze-adventures.json](./94950-maze-adventures.json) |
 | Maze and Dagger | 103647 | [103647-maze-and-dagger.json](./103647-maze-and-dagger.json) |
+| Maze and Fairy tale | 291302 | [291302-maze-and-fairy-tale.json](./291302-maze-and-fairy-tale.json) |
 | Maze Art: Red | 387489 | [387489-maze-art-red.json](./387489-maze-art-red.json) |
 | Maze Ball Neon | 176367 | [176367-maze-ball-neon.json](./176367-maze-ball-neon.json) |
 | Maze Bandit | 43177 | [43177-maze-bandit.json](./43177-maze-bandit.json) |
@@ -14246,6 +14248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MuseSwipr | 229604 | [229604-museswipr.json](./229604-museswipr.json) |
 | Museum | 109891 | [109891-museum.json](./109891-museum.json) |
 | Museum | 185437 | [185437-museum.json](./185437-museum.json) |
+| Museum Keeper | 291328 | [291328-museum-keeper.json](./291328-museum-keeper.json) |
 | Museum Magnate | 348585 | [348585-museum-magnate.json](./348585-museum-magnate.json) |
 | Museum Multiverse | 364368 | [364368-museum-multiverse.json](./364368-museum-multiverse.json) |
 | Museum Mystery | 291700 | [291700-museum-mystery.json](./291700-museum-mystery.json) |
