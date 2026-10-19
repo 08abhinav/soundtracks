@@ -10070,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle | 36488 | [36488-bottle.json](./36488-bottle.json) |
 | Bottle Buster | 206466 | [206466-bottle-buster.json](./206466-bottle-buster.json) |
 | Bottle Can Float | 272826 | [272826-bottle-can-float.json](./272826-bottle-can-float.json) |
+| Bottle Empire | 257249 | [257249-bottle-empire.json](./257249-bottle-empire.json) |
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
