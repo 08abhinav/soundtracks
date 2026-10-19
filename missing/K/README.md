@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Wars | 108994 | [108994-kart-wars.json](./108994-kart-wars.json) |
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
+| Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
 | Karting with Animals | 303604 | [303604-karting-with-animals.json](./303604-karting-with-animals.json) |
 | Karting4Fun | 159531 | [159531-karting4fun.json](./159531-karting4fun.json) |
 | KartKraft | 34354 | [34354-kartkraft.json](./34354-kartkraft.json) |
