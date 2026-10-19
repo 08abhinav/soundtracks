@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hal 21 | 25956 | [25956-hal-21.json](./25956-hal-21.json) |
 | HAL Protocol | 352325 | [352325-hal-protocol.json](./352325-hal-protocol.json) |
 | Hal Wrestling | 48993 | [48993-hal-wrestling.json](./48993-hal-wrestling.json) |
+| HAL_Ver99 | 285373 | [285373-hal-ver99.json](./285373-hal-ver99.json) |
 | HAL's Hole in One Golf | 3653 | [3653-hals-hole-in-one-golf.json](./3653-hals-hole-in-one-golf.json) |
 | Halchemist | 264571 | [264571-halchemist.json](./264571-halchemist.json) |
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
@@ -4989,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
+| Hidamari no Sanatorium | 285374 | [285374-hidamari-no-sanatorium.json](./285374-hidamari-no-sanatorium.json) |
 | Hidden | 135586 | [135586-hidden.json](./135586-hidden.json) |
 | Hidden | 249789 | [249789-hidden.json](./249789-hidden.json) |
 | Hidden & Dangerous | 294 | [294-hidden-and-dangerous.json](./294-hidden-and-dangerous.json) |
