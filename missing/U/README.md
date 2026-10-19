@@ -778,6 +778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
 | Ultraman Powered | 4307 | [4307-ultraman-powered.json](./4307-ultraman-powered.json) |
 | Ultraman Powered: Kaijuu Gekimetsu Sakusen | 65995 | [65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json](./65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json) |
+| Ultraman Quiz King | 289761 | [289761-ultraman-quiz-king.json](./289761-ultraman-quiz-king.json) |
 | Ultraman Tiga & Ultraman Dyna: New Generations | 66409 | [66409-ultraman-tiga-and-ultraman-dyna-new-generations.json](./66409-ultraman-tiga-and-ultraman-dyna-new-generations.json) |
 | Ultraman: Alphabet TV he Youkoso | 63951 | [63951-ultraman-alphabet-tv-he-youkoso.json](./63951-ultraman-alphabet-tv-he-youkoso.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
 | Ultraman: Oide yo! Ultra Youchien | 63947 | [63947-ultraman-oide-yo-ultra-youchien.json](./63947-ultraman-oide-yo-ultra-youchien.json) |
 | Ultraman: Suuji de Asobou Ultra Land | 63940 | [63940-ultraman-suuji-de-asobou-ultra-land.json](./63940-ultraman-suuji-de-asobou-ultra-land.json) |
+| Ultraman: The Digital Board Game | 289760 | [289760-ultraman-the-digital-board-game.json](./289760-ultraman-the-digital-board-game.json) |
 | Ultraman: The Ultimate Fighting | 64213 | [64213-ultraman-the-ultimate-fighting.json](./64213-ultraman-the-ultimate-fighting.json) |
 | Ultraman: Ultraman Chinou UP Dai Sakusen | 63941 | [63941-ultraman-ultraman-chinou-up-dai-sakusen.json](./63941-ultraman-ultraman-chinou-up-dai-sakusen.json) |
 | Ultramarine | 270843 | [270843-ultramarine.json](./270843-ultramarine.json) |
