@@ -544,6 +544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
+| KanjiMemory | 293480 | [293480-kanjimemory.json](./293480-kanjimemory.json) |
 | Kanjozoku 2: Drift Car Games | 297309 | [297309-kanjozoku-2-drift-car-games.json](./297309-kanjozoku-2-drift-car-games.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
 | Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
