@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
+| Warlords | 294544 | [294544-warlords.json](./294544-warlords.json) |
 | Warlords | 411549 | [411549-warlords.json](./411549-warlords.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords 2: Rise of Demons | 301434 | [301434-warlords-2-rise-of-demons.json](./301434-warlords-2-rise-of-demons.json) |
@@ -2664,7 +2665,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WFD | 272567 | [272567-wfd.json](./272567-wfd.json) |
 | WFO World Football Online | 215649 | [215649-wfo-world-football-online.json](./215649-wfo-world-football-online.json) |
 | WG Mega | 270661 | [270661-wg-mega.json](./270661-wg-mega.json) |
+| WGRealms | 294529 | [294529-wgrealms.json](./294529-wgrealms.json) |
 | WGRealms: Demon Throne | 151832 | [151832-wgrealms-demon-throne.json](./151832-wgrealms-demon-throne.json) |
+| WGSpace | 294528 | [294528-wgspace.json](./294528-wgspace.json) |
 | WGT Baseball | 64370 | [64370-wgt-baseball.json](./64370-wgt-baseball.json) |
 | WGT Baseball MLB | 101669 | [101669-wgt-baseball-mlb.json](./101669-wgt-baseball-mlb.json) |
 | WGT Golf | 64369 | [64369-wgt-golf.json](./64369-wgt-golf.json) |
@@ -5334,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Block Escape Bundle | 215319 | [215319-wood-block-escape-bundle.json](./215319-wood-block-escape-bundle.json) |
 | Wood Block Puzzle | 220190 | [220190-wood-block-puzzle.json](./220190-wood-block-puzzle.json) |
 | Wood Block Puzzle Game | 98830 | [98830-wood-block-puzzle-game.json](./98830-wood-block-puzzle-game.json) |
+| Wood Blocks 3D | 294547 | [294547-wood-blocks-3d.json](./294547-wood-blocks-3d.json) |
 | Wood Brothers Flying Colours | 188901 | [188901-wood-brothers-flying-colours.json](./188901-wood-brothers-flying-colours.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
