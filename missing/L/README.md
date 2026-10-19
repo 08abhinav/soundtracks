@@ -6407,6 +6407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love on Beach | 193132 | [193132-love-on-beach.json](./193132-love-on-beach.json) |
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
+| Love on the Edge | 299003 | [299003-love-on-the-edge.json](./299003-love-on-the-edge.json) |
 | Love Option | 228598 | [228598-love-option.json](./228598-love-option.json) |
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
