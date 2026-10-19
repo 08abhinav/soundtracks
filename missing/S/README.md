@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scoops | 232584 | [232584-scoops.json](./232584-scoops.json) |
 | Scoops & Social Ice-Olation | 258521 | [258521-scoops-and-social-ice-olation.json](./258521-scoops-and-social-ice-olation.json) |
 | Scoops Ahoy | 245198 | [245198-scoops-ahoy.json](./245198-scoops-ahoy.json) |
+| Scoopy Cereal | 304951 | [304951-scoopy-cereal.json](./304951-scoopy-cereal.json) |
 | Scoot Hard DX: Daytime Drama Zero | 230508 | [230508-scoot-hard-dx-daytime-drama-zero.json](./230508-scoot-hard-dx-daytime-drama-zero.json) |
 | Scoot Kaboom and the Tomb of Doom | 132695 | [132695-scoot-kaboom-and-the-tomb-of-doom.json](./132695-scoot-kaboom-and-the-tomb-of-doom.json) |
 | Scooter Boy | 238389 | [238389-scooter-boy.json](./238389-scooter-boy.json) |
@@ -5106,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Betrayal | 301089 | [301089-shadows-of-betrayal.json](./301089-shadows-of-betrayal.json) |
 | Shadows of Cairn | 2510 | [2510-shadows-of-cairn.json](./2510-shadows-of-cairn.json) |
 | Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
+| Shadows of Chroma Tower | 304944 | [304944-shadows-of-chroma-tower.json](./304944-shadows-of-chroma-tower.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
@@ -8443,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location: MA | 230756 | [230756-sister-location-ma.json](./230756-sister-location-ma.json) |
 | Sister Lumina and the Hypnosis Cult | 327395 | [327395-sister-lumina-and-the-hypnosis-cult.json](./327395-sister-lumina-and-the-hypnosis-cult.json) |
+| Sister Mermaid | 304945 | [304945-sister-mermaid.json](./304945-sister-mermaid.json) |
 | Sister Other Paranoia | 383129 | [383129-sister-other-paranoia.json](./383129-sister-other-paranoia.json) |
 | Sister Princess: Re Pure | 49815 | [49815-sister-princess-re-pure.json](./49815-sister-princess-re-pure.json) |
 | Sister Ray | 327245 | [327245-sister-ray.json](./327245-sister-ray.json) |
@@ -18712,6 +18715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
+| State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
@@ -20371,6 +20375,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Year 1 - Akuma | 251704 | [251704-street-fighter-6-year-1-akuma.json](./251704-street-fighter-6-year-1-akuma.json) |
 | Street Fighter 6: Year 1 - Rashid | 251653 | [251653-street-fighter-6-year-1-rashid.json](./251653-street-fighter-6-year-1-rashid.json) |
 | Street Fighter 6: Year 1 Character Pass | 252070 | [252070-street-fighter-6-year-1-character-pass.json](./252070-street-fighter-6-year-1-character-pass.json) |
+| Street Fighter 6: Year 2 - Elena | 305007 | [305007-street-fighter-6-year-2-elena.json](./305007-street-fighter-6-year-2-elena.json) |
+| Street Fighter 6: Year 2 - M. Bison | 305008 | [305008-street-fighter-6-year-2-m-bison.json](./305008-street-fighter-6-year-2-m-bison.json) |
+| Street Fighter 6: Year 2 - Mai | 305009 | [305009-street-fighter-6-year-2-mai.json](./305009-street-fighter-6-year-2-mai.json) |
+| Street Fighter 6: Year 2 - Terry | 305010 | [305010-street-fighter-6-year-2-terry.json](./305010-street-fighter-6-year-2-terry.json) |
 | Street Fighter 6: Year 2 Character Pass | 308225 | [308225-street-fighter-6-year-2-character-pass.json](./308225-street-fighter-6-year-2-character-pass.json) |
 | Street Fighter 6: Year 2 Ultimate Pass | 305529 | [305529-street-fighter-6-year-2-ultimate-pass.json](./305529-street-fighter-6-year-2-ultimate-pass.json) |
 | Street Fighter 6: Year 3 - C. Viper | 347692 | [347692-street-fighter-6-year-3-c-viper.json](./347692-street-fighter-6-year-3-c-viper.json) |
