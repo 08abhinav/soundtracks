@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obama in the Dark | 320263 | [320263-obama-in-the-dark.json](./320263-obama-in-the-dark.json) |
 | Obandia | 124626 | [124626-obandia.json](./124626-obandia.json) |
 | Obara no Kiritsu: UAV Practical Simulator | 355206 | [355206-obara-no-kiritsu-uav-practical-simulator.json](./355206-obara-no-kiritsu-uav-practical-simulator.json) |
+| Obby | 260005 | [260005-obby.json](./260005-obby.json) |
 | Obby Revival Project | 414430 | [414430-obby-revival-project.json](./414430-obby-revival-project.json) |
 | Obby: Build a 3D Amusement Park! | 402303 | [402303-obby-build-a-3d-amusement-park.json](./402303-obby-build-a-3d-amusement-park.json) |
 | Obcidian Legacy | 30004 | [30004-obcidian-legacy.json](./30004-obcidian-legacy.json) |
@@ -2303,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Tung Tung Sahur Up | 349425 | [349425-only-tung-tung-sahur-up.json](./349425-only-tung-tung-sahur-up.json) |
 | Only Up 2 | 272735 | [272735-only-up-2.json](./272735-only-up-2.json) |
 | Only Up 2025 | 367590 | [367590-only-up-2025.json](./367590-only-up-2025.json) |
+| Only Up 64 | 259981 | [259981-only-up-64.json](./259981-only-up-64.json) |
 | Only Up Rush | 312845 | [312845-only-up-rush.json](./312845-only-up-rush.json) |
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
