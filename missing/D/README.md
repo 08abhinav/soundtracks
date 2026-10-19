@@ -3757,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
 | Deep Death Dungeon Darkness | 239702 | [239702-deep-death-dungeon-darkness.json](./239702-deep-death-dungeon-darkness.json) |
+| Deep Deep Deep Nightmare | 273780 | [273780-deep-deep-deep-nightmare.json](./273780-deep-deep-deep-nightmare.json) |
 | Deep Deep Dungeon | 175132 | [175132-deep-deep-dungeon.json](./175132-deep-deep-dungeon.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
@@ -10454,6 +10455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
+| Draft Day Sports: Pro Basketball 2024 | 273791 | [273791-draft-day-sports-pro-basketball-2024.json](./273791-draft-day-sports-pro-basketball-2024.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
