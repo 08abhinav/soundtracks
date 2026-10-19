@@ -2607,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Everything | 387153 | [387153-end-of-everything.json](./387153-end-of-everything.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
 | End of Knights | 253965 | [253965-end-of-knights.json](./253965-end-of-knights.json) |
+| End of Legends | 258320 | [258320-end-of-legends.json](./258320-end-of-legends.json) |
 | End Of Life | 280346 | [280346-end-of-life.json](./280346-end-of-life.json) |
 | End of Life Care | 181886 | [181886-end-of-life-care.json](./181886-end-of-life-care.json) |
 | End of Line | 330158 | [330158-end-of-line.json](./330158-end-of-line.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
+| Era One | 258333 | [258333-era-one.json](./258333-era-one.json) |
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
 | Era's Adventures | 247534 | [247534-eras-adventures.json](./247534-eras-adventures.json) |
 | eRacer | 92816 | [92816-eracer.json](./92816-eracer.json) |
@@ -4052,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Spy | 365719 | [365719-escape-simulator-spy.json](./365719-escape-simulator-spy.json) |
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
+| Escape Stories: Virtual Reality | 258319 | [258319-escape-stories-virtual-reality.json](./258319-escape-stories-virtual-reality.json) |
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
 | Escape That Level | 95670 | [95670-escape-that-level.json](./95670-escape-that-level.json) |
@@ -4908,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide 3: Legacy of Legends | 68713 | [68713-eventide-3-legacy-of-legends.json](./68713-eventide-3-legacy-of-legends.json) |
 | Eventide Collection | 125133 | [125133-eventide-collection.json](./125133-eventide-collection.json) |
 | Eventide Escape | 83952 | [83952-eventide-escape.json](./83952-eventide-escape.json) |
+| Eventide Matter | 258315 | [258315-eventide-matter.json](./258315-eventide-matter.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
@@ -5557,6 +5561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
 | Exilio | 218712 | [218712-exilio.json](./218712-exilio.json) |
+| Exilium | 258318 | [258318-exilium.json](./258318-exilium.json) |
 | Eximius: Seize the Frontline | 96094 | [96094-eximius-seize-the-frontline.json](./96094-eximius-seize-the-frontline.json) |
 | Eximius: Seize the Frontline - Exclusive Callsign Pack: Kings of Frontline | 230989 | [230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json](./230989-eximius-seize-the-frontline-exclusive-callsign-pack-kings-of-frontline.json) |
 | Exipath | 400900 | [400900-exipath.json](./400900-exipath.json) |
