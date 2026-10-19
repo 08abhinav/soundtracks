@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate / Hollow Ataraxia: Limited Edition | 89862 | [89862-fate-hollow-ataraxia-limited-edition.json](./89862-fate-hollow-ataraxia-limited-edition.json) |
 | Fate & Inflation | 391721 | [391721-fate-and-inflation.json](./391721-fate-and-inflation.json) |
 | Fate And Destiny: The Elonia Chronicles | 350388 | [350388-fate-and-destiny-the-elonia-chronicles.json](./350388-fate-and-destiny-the-elonia-chronicles.json) |
+| Fate and Judgement | 260553 | [260553-fate-and-judgement.json](./260553-fate-and-judgement.json) |
 | Fate Architect | 381864 | [381864-fate-architect.json](./381864-fate-architect.json) |
 | Fate Arena | 133696 | [133696-fate-arena.json](./133696-fate-arena.json) |
 | Fate by Numbers | 50371 | [50371-fate-by-numbers.json](./50371-fate-by-numbers.json) |
@@ -9160,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogmaster | 268035 | [268035-frogmaster.json](./268035-frogmaster.json) |
 | Frogmonster | 187372 | [187372-frogmonster.json](./187372-frogmonster.json) |
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
+| Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
 | Frogs | 229253 | [229253-frogs.json](./229253-frogs.json) |
 | Frogs | 318688 | [318688-frogs.json](./318688-frogs.json) |
 | Frogs Also Struggle | 258202 | [258202-frogs-also-struggle.json](./258202-frogs-also-struggle.json) |
