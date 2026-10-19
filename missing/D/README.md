@@ -13811,6 +13811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyana Moto | 74671 | [74671-dyana-moto.json](./74671-dyana-moto.json) |
 | Dye | 27288 | [27288-dye.json](./27288-dye.json) |
 | Dye the Bunny | 245979 | [245979-dye-the-bunny.json](./245979-dye-the-bunny.json) |
+| Dye The Bunny 2 | 290826 | [290826-dye-the-bunny-2.json](./290826-dye-the-bunny-2.json) |
 | Dyebreaker | 349389 | [349389-dyebreaker.json](./349389-dyebreaker.json) |
 | Dyflexion | 189067 | [189067-dyflexion.json](./189067-dyflexion.json) |
 | Dyg | 208581 | [208581-dyg.json](./208581-dyg.json) |
