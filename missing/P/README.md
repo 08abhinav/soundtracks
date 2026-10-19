@@ -11421,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arena | 197374 | [197374-project-arena.json](./197374-project-arena.json) |
 | Project Arms | 138043 | [138043-project-arms.json](./138043-project-arms.json) |
 | Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
+| Project Ascension | 281271 | [281271-project-ascension.json](./281271-project-ascension.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
 | Project Astrid | 306184 | [306184-project-astrid.json](./306184-project-astrid.json) |
 | Project Atlas | 142385 | [142385-project-atlas.json](./142385-project-atlas.json) |
@@ -12375,6 +12376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Cat | 182224 | [182224-psychic-cat.json](./182224-psychic-cat.json) |
 | Psychic Force | 20140 | [20140-psychic-force.json](./20140-psychic-force.json) |
 | Psychic Force Complete | 71790 | [71790-psychic-force-complete.json](./71790-psychic-force-complete.json) |
+| Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
