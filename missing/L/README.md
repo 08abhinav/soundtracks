@@ -6963,6 +6963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
 | Lullaby Days | 166703 | [166703-lullaby-days.json](./166703-lullaby-days.json) |
+| Lullaby in Dreams | 296264 | [296264-lullaby-in-dreams.json](./296264-lullaby-in-dreams.json) |
 | Lullaby of Demonia | 298985 | [298985-lullaby-of-demonia.json](./298985-lullaby-of-demonia.json) |
 | Lullaby of Lost Soul | 332460 | [332460-lullaby-of-lost-soul.json](./332460-lullaby-of-lost-soul.json) |
 | Lully Muk's Christmas Adventure | 183271 | [183271-lully-muks-christmas-adventure.json](./183271-lully-muks-christmas-adventure.json) |
