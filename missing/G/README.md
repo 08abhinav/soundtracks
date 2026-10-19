@@ -7929,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Side Story 0079: Rise From the Ashes | 45859 | [45859-gundam-side-story-0079-rise-from-the-ashes.json](./45859-gundam-side-story-0079-rise-from-the-ashes.json) |
 | Gundam Spirits | 226760 | [226760-gundam-spirits.json](./226760-gundam-spirits.json) |
 | Gundam Supreme Battle | 174903 | [174903-gundam-supreme-battle.json](./174903-gundam-supreme-battle.json) |
+| Gundam Tactics: Mobility Fleet 0079 | 289744 | [289744-gundam-tactics-mobility-fleet-0079.json](./289744-gundam-tactics-mobility-fleet-0079.json) |
 | Gundam Versus | 28287 | [28287-gundam-versus.json](./28287-gundam-versus.json) |
 | Gundam VR: Daiba Assault | 52001 | [52001-gundam-vr-daiba-assault.json](./52001-gundam-vr-daiba-assault.json) |
 | Gundam Wing: Wing Assault | 315085 | [315085-gundam-wing-wing-assault.json](./315085-gundam-wing-wing-assault.json) |
