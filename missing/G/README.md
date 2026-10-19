@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
+| Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
