@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship: Surface Thunder | 9735 | [9735-battleship-surface-thunder.json](./9735-battleship-surface-thunder.json) |
 | Battleship: The Classic Naval Warfare Game | 46437 | [46437-battleship-the-classic-naval-warfare-game.json](./46437-battleship-the-classic-naval-warfare-game.json) |
 | Battleships | 193863 | [193863-battleships.json](./193863-battleships.json) |
+| Battleships and Carriers 2 | 302815 | [302815-battleships-and-carriers-2.json](./302815-battleships-and-carriers-2.json) |
 | Battleships and Carriers: Pacific War | 126315 | [126315-battleships-and-carriers-pacific-war.json](./126315-battleships-and-carriers-pacific-war.json) |
 | Battleships and Carriers: WW2 Battleship Game | 111706 | [111706-battleships-and-carriers-ww2-battleship-game.json](./111706-battleships-and-carriers-ww2-battleship-game.json) |
 | Battleships At Dawn! | 33488 | [33488-battleships-at-dawn.json](./33488-battleships-at-dawn.json) |
@@ -3814,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Ball | 340954 | [340954-beat-ball.json](./340954-beat-ball.json) |
 | Beat Ball 2 | 345615 | [345615-beat-ball-2.json](./345615-beat-ball-2.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
+| Beat Battle | 302796 | [302796-beat-battle.json](./302796-beat-battle.json) |
 | Beat Blade: Dash Dance | 182317 | [182317-beat-blade-dash-dance.json](./182317-beat-blade-dash-dance.json) |
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
@@ -4172,6 +4174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
+| Beauty Girl Chronicles: Island Obstacle Challenge | 302797 | [302797-beauty-girl-chronicles-island-obstacle-challenge.json](./302797-beauty-girl-chronicles-island-obstacle-challenge.json) |
 | Beauty Jigsaw | 307887 | [307887-beauty-jigsaw.json](./307887-beauty-jigsaw.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
@@ -12196,6 +12199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer: Sacrifice | 21130 | [21130-buffy-the-vampire-slayer-sacrifice.json](./21130-buffy-the-vampire-slayer-sacrifice.json) |
 | Bufo Jump | 388315 | [388315-bufo-jump.json](./388315-bufo-jump.json) |
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
+| Bug | 302781 | [302781-bug.json](./302781-bug.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
