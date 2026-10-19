@@ -12855,6 +12855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Suite Life of Zack & Cody: Tipton Trouble | 72115 | [72115-the-suite-life-of-zack-and-cody-tipton-trouble.json](./72115-the-suite-life-of-zack-and-cody-tipton-trouble.json) |
 | The Suitor | 301065 | [301065-the-suitor.json](./301065-the-suitor.json) |
 | The Suits Have Gone Mad! | 215722 | [215722-the-suits-have-gone-mad.json](./215722-the-suits-have-gone-mad.json) |
+| The Suits Have Gone Mad!: The Upper Class | 258835 | [258835-the-suits-have-gone-mad-the-upper-class.json](./258835-the-suits-have-gone-mad-the-upper-class.json) |
 | The Sullen Boku Girls Alliance | 225634 | [225634-the-sullen-boku-girls-alliance.json](./225634-the-sullen-boku-girls-alliance.json) |
 | The Sultan's Labyrinth | 64720 | [64720-the-sultans-labyrinth.json](./64720-the-sultans-labyrinth.json) |
 | The Sum of All Fears | 1863 | [1863-the-sum-of-all-fears.json](./1863-the-sum-of-all-fears.json) |
@@ -18119,6 +18120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToD Fragments: Special Fun | 237239 | [237239-tod-fragments-special-fun.json](./237239-tod-fragments-special-fun.json) |
 | Tod Stein | 105197 | [105197-tod-stein.json](./105197-tod-stein.json) |
 | Today I Die | 55978 | [55978-today-i-die.json](./55978-today-i-die.json) |
+| Today I Went on a Quest | 258847 | [258847-today-i-went-on-a-quest.json](./258847-today-i-went-on-a-quest.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
