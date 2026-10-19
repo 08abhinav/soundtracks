@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geopolitique 1990 | 24915 | [24915-geopolitique-1990.json](./24915-geopolitique-1990.json) |
 | Geopoly | 235170 | [235170-geopoly.json](./235170-geopoly.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
+| Georg Glaxo | 300554 | [300554-georg-glaxo.json](./300554-georg-glaxo.json) |
 | George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275023 | [275023-george-foremans-ko-boxing.json](./275023-george-foremans-ko-boxing.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Shift | 31801 | [31801-graveyard-shift.json](./31801-graveyard-shift.json) |
 | Graveyard Shift | 329212 | [329212-graveyard-shift.json](./329212-graveyard-shift.json) |
 | Graveyard Shift 2 | 176814 | [176814-graveyard-shift-2.json](./176814-graveyard-shift-2.json) |
+| Graveyard Shift at Freddy's | 300549 | [300549-graveyard-shift-at-freddys.json](./300549-graveyard-shift-at-freddys.json) |
 | Graveyard Smash | 90583 | [90583-graveyard-smash.json](./90583-graveyard-smash.json) |
 | Graveyard Spells | 186674 | [186674-graveyard-spells.json](./186674-graveyard-spells.json) |
 | Graveyard Sprint | 245874 | [245874-graveyard-sprint.json](./245874-graveyard-sprint.json) |
@@ -7242,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Manager | 197317 | [197317-gt-manager.json](./197317-gt-manager.json) |
 | GT New Horizons | 204699 | [204699-gt-new-horizons.json](./204699-gt-new-horizons.json) |
 | GT Pro Series | 4899 | [4899-gt-pro-series.json](./4899-gt-pro-series.json) |
+| GT Racers | 300459 | [300459-gt-racers.json](./300459-gt-racers.json) |
 | GT Racers | 64222 | [64222-gt-racers.json](./64222-gt-racers.json) |
 | GT Racing | 44432 | [44432-gt-racing.json](./44432-gt-racing.json) |
 | GT Racing 1980 | 371885 | [371885-gt-racing-1980.json](./371885-gt-racing-1980.json) |
