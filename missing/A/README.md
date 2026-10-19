@@ -4275,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akudaikan Manyuuki | 56517 | [56517-akudaikan-manyuuki.json](./56517-akudaikan-manyuuki.json) |
 | Akudaikan Manyuuki: Seigi no Yaiba | 56513 | [56513-akudaikan-manyuuki-seigi-no-yaiba.json](./56513-akudaikan-manyuuki-seigi-no-yaiba.json) |
 | Akui | 184584 | [184584-akui.json](./184584-akui.json) |
+| Akui: The Insane Cultists | 261666 | [261666-akui-the-insane-cultists.json](./261666-akui-the-insane-cultists.json) |
 | Akuji the Heartless | 4145 | [4145-akuji-the-heartless.json](./4145-akuji-the-heartless.json) |
 | Akuma | 201835 | [201835-akuma.json](./201835-akuma.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
@@ -8056,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipole | 79151 | [79151-antipole.json](./79151-antipole.json) |
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiprism | 151831 | [151831-antiprism.json](./151831-antiprism.json) |
+| Antipsychotic | 261682 | [261682-antipsychotic.json](./261682-antipsychotic.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
 | Antique Carnevale | 44083 | [44083-antique-carnevale.json](./44083-antique-carnevale.json) |
@@ -10625,6 +10627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
+| Artificia Armata | 261675 | [261675-artificia-armata.json](./261675-artificia-armata.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
