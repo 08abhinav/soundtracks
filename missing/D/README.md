@@ -1257,6 +1257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
 | Dark Pact | 291849 | [291849-dark-pact.json](./291849-dark-pact.json) |
+| Dark Pages | 265490 | [265490-dark-pages.json](./265490-dark-pages.json) |
 | Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
@@ -3155,6 +3156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear Red: Extended | 33250 | [33250-dear-red-extended.json](./33250-dear-red-extended.json) |
 | Dear Toki | 122972 | [122972-dear-toki.json](./122972-dear-toki.json) |
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
+| Dear, Virginia | 265478 | [265478-dear-virginia.json](./265478-dear-virginia.json) |
 | Dearbnb | 405361 | [405361-dearbnb.json](./405361-dearbnb.json) |
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Blood | 258103 | [258103-demons-blood.json](./258103-demons-blood.json) |
 | Demon's Crest | 18067 | [18067-demons-crest.json](./18067-demons-crest.json) |
 | Demon's Crystals | 20402 | [20402-demons-crystals.json](./20402-demons-crystals.json) |
+| Demon's Den | 265503 | [265503-demons-den.json](./265503-demons-den.json) |
 | Demon's Draw | 235349 | [235349-demons-draw.json](./235349-demons-draw.json) |
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
