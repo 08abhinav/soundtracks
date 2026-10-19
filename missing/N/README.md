@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruhodo! The World | 37910 | [37910-naruhodo-the-world.json](./37910-naruhodo-the-world.json) |
 | Naruto Arena Next Generation | 188074 | [188074-naruto-arena-next-generation.json](./188074-naruto-arena-next-generation.json) |
 | Naruto Mobile | 79255 | [79255-naruto-mobile.json](./79255-naruto-mobile.json) |
+| Naruto Quick Teleport | 304953 | [304953-naruto-quick-teleport.json](./304953-naruto-quick-teleport.json) |
 | Naruto RPG: Uketsugareshi Hi no Ishi | 49751 | [49751-naruto-rpg-uketsugareshi-hi-no-ishi.json](./49751-naruto-rpg-uketsugareshi-hi-no-ishi.json) |
 | Naruto Shinobi Breakdown | 243415 | [243415-naruto-shinobi-breakdown.json](./243415-naruto-shinobi-breakdown.json) |
 | Naruto Shippuden 3D: The New Era | 6847 | [6847-naruto-shippuden-3d-the-new-era.json](./6847-naruto-shippuden-3d-the-new-era.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nymphomania Priestess | 346164 | [346164-nymphomania-priestess.json](./346164-nymphomania-priestess.json) |
 | Nymphs of the Forest | 385297 | [385297-nymphs-of-the-forest.json](./385297-nymphs-of-the-forest.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 297167 | [297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
+| Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 304978 | [304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyonin-jima 2: Shima Hitotsu Marugoto Hame Pako Haramase Seikatsu | 408514 | [408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json](./408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
