@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
+| Oniria | 262176 | [262176-oniria.json](./262176-oniria.json) |
 | Oniria | 366610 | [366610-oniria.json](./366610-oniria.json) |
 | Oniria Crimes: Rounder Edition | 146142 | [146142-oniria-crimes-rounder-edition.json](./146142-oniria-crimes-rounder-edition.json) |
 | Oniriam | 322984 | [322984-oniriam.json](./322984-oniriam.json) |
