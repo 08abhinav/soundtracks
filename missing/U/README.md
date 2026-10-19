@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Tales: A Scarlet Way | 312567 | [312567-untold-tales-a-scarlet-way.json](./312567-untold-tales-a-scarlet-way.json) |
 | Untouchable | 101594 | [101594-untouchable.json](./101594-untouchable.json) |
 | Untouchable | 195063 | [195063-untouchable.json](./195063-untouchable.json) |
+| Untraveled Lands: Chantico | 292372 | [292372-untraveled-lands-chantico.json](./292372-untraveled-lands-chantico.json) |
 | Untravelled Planet | 325270 | [325270-untravelled-planet.json](./325270-untravelled-planet.json) |
 | Untrue New World | 164858 | [164858-untrue-new-world.json](./164858-untrue-new-world.json) |
 | Untrusted | 133237 | [133237-untrusted.json](./133237-untrusted.json) |
