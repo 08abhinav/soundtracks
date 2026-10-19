@@ -17202,6 +17202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Pirate Ship | 255044 | [255044-tiny-pirate-ship.json](./255044-tiny-pirate-ship.json) |
 | Tiny Pixel Farm: Go Farm Life | 248674 | [248674-tiny-pixel-farm-go-farm-life.json](./248674-tiny-pixel-farm-go-farm-life.json) |
 | Tiny Pixel Wars | 185618 | [185618-tiny-pixel-wars.json](./185618-tiny-pixel-wars.json) |
+| Tiny Pixels Vol. 1: Ninpo Blast | 308625 | [308625-tiny-pixels-vol-1-ninpo-blast.json](./308625-tiny-pixels-vol-1-ninpo-blast.json) |
 | Tiny Pixels Vol. 2: Stormy Knights | 338928 | [338928-tiny-pixels-vol-2-stormy-knights.json](./338928-tiny-pixels-vol-2-stormy-knights.json) |
 | Tiny Plane | 62613 | [62613-tiny-plane.json](./62613-tiny-plane.json) |
 | Tiny Plushie Story | 356597 | [356597-tiny-plushie-story.json](./356597-tiny-plushie-story.json) |
@@ -17286,6 +17287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Train Tycoon | 381355 | [381355-tiny-train-tycoon.json](./381355-tiny-train-tycoon.json) |
 | Tiny Transit | 389957 | [389957-tiny-transit.json](./389957-tiny-transit.json) |
 | Tiny Treasure Hunt | 283219 | [283219-tiny-treasure-hunt.json](./283219-tiny-treasure-hunt.json) |
+| Tiny Treasure Hunt DX | 308631 | [308631-tiny-treasure-hunt-dx.json](./308631-tiny-treasure-hunt-dx.json) |
 | Tiny Tree Talk | 383977 | [383977-tiny-tree-talk.json](./383977-tiny-tree-talk.json) |
 | Tiny Troopers | 11619 | [11619-tiny-troopers.json](./11619-tiny-troopers.json) |
 | Tiny Troopers Joint Ops XL | 85443 | [85443-tiny-troopers-joint-ops-xl.json](./85443-tiny-troopers-joint-ops-xl.json) |
@@ -17985,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Beat Down | 20703 | [20703-tokyo-beat-down.json](./20703-tokyo-beat-down.json) |
 | Tokyo Bus Guide | 72903 | [72903-tokyo-bus-guide.json](./72903-tokyo-bus-guide.json) |
 | Tokyo Chronos | 101059 | [101059-tokyo-chronos.json](./101059-tokyo-chronos.json) |
+| Tokyo Chronos & Altedus: Beyond Chronos Twin Pack | 308616 | [308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json](./308616-tokyo-chronos-and-altedus-beyond-chronos-twin-pack.json) |
 | Tokyo City Nights | 409080 | [409080-tokyo-city-nights.json](./409080-tokyo-city-nights.json) |
 | Tokyo College Girls: The Nerd & Queen Bees | 345594 | [345594-tokyo-college-girls-the-nerd-and-queen-bees.json](./345594-tokyo-college-girls-the-nerd-and-queen-bees.json) |
 | Tokyo Cooking: Complete + | 328822 | [328822-tokyo-cooking-complete.json](./328822-tokyo-cooking-complete.json) |
@@ -20989,6 +20992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
 | Train Your Brain! Spot the Difference with Dog Photos | 300842 | [300842-train-your-brain-spot-the-difference-with-dog-photos.json](./300842-train-your-brain-spot-the-difference-with-dog-photos.json) |
+| Train Your Brain! Spot the Difference With Fish Photos | 308615 | [308615-train-your-brain-spot-the-difference-with-fish-photos.json](./308615-train-your-brain-spot-the-difference-with-fish-photos.json) |
 | Train Your Brain! Spot the Difference With Space Photos | 385070 | [385070-train-your-brain-spot-the-difference-with-space-photos.json](./385070-train-your-brain-spot-the-difference-with-space-photos.json) |
 | Train Your Fingers: Lab | 348730 | [348730-train-your-fingers-lab.json](./348730-train-your-fingers-lab.json) |
 | Train Your Focus and Observation Skills: The Spot-the-Difference Challenge | 376230 | [376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json](./376230-train-your-focus-and-observation-skills-the-spot-the-difference-challenge.json) |
