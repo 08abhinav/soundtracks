@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Know The Drill | 322212 | [322212-you-know-the-drill.json](./322212-you-know-the-drill.json) |
 | You Know The Drill | 362980 | [362980-you-know-the-drill.json](./362980-you-know-the-drill.json) |
 | You Left Me. | 99119 | [99119-you-left-me.json](./99119-you-left-me.json) |
+| You Left Us | 293968 | [293968-you-left-us.json](./293968-you-left-us.json) |
 | You Make the Game | 342878 | [342878-you-make-the-game.json](./342878-you-make-the-game.json) |
 | You Make The Game | 377138 | [377138-you-make-the-game.json](./377138-you-make-the-game.json) |
 | You May | 229709 | [229709-you-may.json](./229709-you-may.json) |
