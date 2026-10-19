@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimanin Collection: Battle Arena | 301616 | [301616-taimanin-collection-battle-arena.json](./301616-taimanin-collection-battle-arena.json) |
 | Taimanin Gogo! | 216425 | [216425-taimanin-gogo.json](./216425-taimanin-gogo.json) |
 | Taimanin RPG Extasy | 272920 | [272920-taimanin-rpg-extasy.json](./272920-taimanin-rpg-extasy.json) |
+| Taimanin RPG Extasy | 274890 | [274890-taimanin-rpg-extasy.json](./274890-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
 | Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
 | Taimumari | 35090 | [35090-taimumari.json](./35090-taimumari.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TennisVR | 28664 | [28664-tennisvr.json](./28664-tennisvr.json) |
 | Tennnes | 94146 | [94146-tennnes.json](./94146-tennnes.json) |
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
+| Tenohira de Higurashi ga Naku | 274878 | [274878-tenohira-de-higurashi-ga-naku.json](./274878-tenohira-de-higurashi-ga-naku.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenori-on | 213054 | [213054-tenori-on.json](./213054-tenori-on.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
@@ -6583,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Enemy Below | 151010 | [151010-the-enemy-below.json](./151010-the-enemy-below.json) |
 | The Enemy Weapons Are Better | 247369 | [247369-the-enemy-weapons-are-better.json](./247369-the-enemy-weapons-are-better.json) |
 | The Enemy Within | 406038 | [406038-the-enemy-within.json](./406038-the-enemy-within.json) |
+| The Energy Warrior | 274907 | [274907-the-energy-warrior.json](./274907-the-energy-warrior.json) |
 | The Enforcer | 154344 | [154344-the-enforcer.json](./154344-the-enforcer.json) |
 | The Enforcer | 60493 | [60493-the-enforcer.json](./60493-the-enforcer.json) |
 | The Engraved Dispatch | 181366 | [181366-the-engraved-dispatch.json](./181366-the-engraved-dispatch.json) |
@@ -10673,6 +10676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
+| The OG Cake Factory | 274919 | [274919-the-og-cake-factory.json](./274919-the-og-cake-factory.json) |
 | The Ogi: Cycles | 280250 | [280250-the-ogi-cycles.json](./280250-the-ogi-cycles.json) |
 | The Ogre King | 410446 | [410446-the-ogre-king.json](./410446-the-ogre-king.json) |
 | The Ohio Weedeater Mishap | 277488 | [277488-the-ohio-weedeater-mishap.json](./277488-the-ohio-weedeater-mishap.json) |
@@ -11077,6 +11081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
+| The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2020 | 129073 | [129073-the-political-machine-2020.json](./129073-the-political-machine-2020.json) |
@@ -13648,6 +13653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchable Man | 302391 | [302391-the-untouchable-man.json](./302391-the-untouchable-man.json) |
 | The Untouchables | 12807 | [12807-the-untouchables.json](./12807-the-untouchables.json) |
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
+| The Unwanted War | 274898 | [274898-the-unwanted-war.json](./274898-the-unwanted-war.json) |
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
 | The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
 | The Unwoven Unicorn | 410367 | [410367-the-unwoven-unicorn.json](./410367-the-unwoven-unicorn.json) |
@@ -23172,6 +23178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
 | Trouble Inn: Jonny's Room | 163949 | [163949-trouble-inn-jonnys-room.json](./163949-trouble-inn-jonnys-room.json) |
 | Trouble Juice | 217457 | [217457-trouble-juice.json](./217457-trouble-juice.json) |
+| Trouble Magia: Wakeari Shoujo ha Mirai wo Kachitoru Tame ni Ikoku no Mahou Gakkou he Ryuugaku Shimasu | 274886 | [274886-trouble-magia-wakeari-shoujo-ha-mirai-wo-kachitoru-tame-ni-ikoku-no-mahou-gakkou-he-ryuugaku-shimasu.json](./274886-trouble-magia-wakeari-shoujo-ha-mirai-wo-kachitoru-tame-ni-ikoku-no-mahou-gakkou-he-ryuugaku-shimasu.json) |
 | Trouble Magnet | 272876 | [272876-trouble-magnet.json](./272876-trouble-magnet.json) |
 | Trouble Majo Shiken: Kaichou-sama to Tennenkko wa Majo Shimai! Nakadashi Ecchi de Maryoku Hokyuu wo Otetsudai! | 280640 | [280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json](./280640-trouble-majo-shiken-kaichou-sama-to-tennenkko-wa-majo-shimai-nakadashi-ecchi-de-maryoku-hokyuu-wo-otetsudai.json) |
 | Trouble Makers | 309757 | [309757-trouble-makers.json](./309757-trouble-makers.json) |
