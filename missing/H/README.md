@@ -2209,6 +2209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazumino | 267326 | [267326-hazumino.json](./267326-hazumino.json) |
 | Hazy Hollow | 260188 | [260188-hazy-hollow.json](./260188-hazy-hollow.json) |
 | Hazy Maze | 113462 | [113462-hazy-maze.json](./113462-hazy-maze.json) |
+| Hazy Maze Temple | 300251 | [300251-hazy-maze-temple.json](./300251-hazy-maze-temple.json) |
 | Hazy Mind | 247664 | [247664-hazy-mind.json](./247664-hazy-mind.json) |
 | Hazy Monochrome Wand | 258486 | [258486-hazy-monochrome-wand.json](./258486-hazy-monochrome-wand.json) |
 | HB Arcade Cards | 80583 | [80583-hb-arcade-cards.json](./80583-hb-arcade-cards.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Maw | 338850 | [338850-hells-maw.json](./338850-hells-maw.json) |
 | Hell's Mouth | 223387 | [223387-hells-mouth.json](./223387-hells-mouth.json) |
 | Hell's New World | 217513 | [217513-hells-new-world.json](./217513-hells-new-world.json) |
+| Hell's On Hold | 300544 | [300544-hells-on-hold.json](./300544-hells-on-hold.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
