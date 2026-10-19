@@ -4691,6 +4691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
+| Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
@@ -5517,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
+| Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
@@ -9553,6 +9555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryceam | 262387 | [262387-ryceam.json](./262387-ryceam.json) |
 | Ryclaw: Hope | 211748 | [211748-ryclaw-hope.json](./211748-ryclaw-hope.json) |
 | Ryder | 335293 | [335293-ryder.json](./335293-ryder.json) |
+| Ryder Cup: Johnnie Walker | 281279 | [281279-ryder-cup-johnnie-walker.json](./281279-ryder-cup-johnnie-walker.json) |
 | Ryewood Town | 219661 | [219661-ryewood-town.json](./219661-ryewood-town.json) |
 | Rygar | 28841 | [28841-rygar.json](./28841-rygar.json) |
 | Rygar | 6856 | [6856-rygar.json](./6856-rygar.json) |
