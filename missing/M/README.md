@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
 | Majyo no Nebaneba Note | 336940 | [336940-majyo-no-nebaneba-note.json](./336940-majyo-no-nebaneba-note.json) |
 | Maka Dash | 302046 | [302046-maka-dash.json](./302046-maka-dash.json) |
+| Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
@@ -8565,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikey Boots | 140610 | [140610-mikey-boots.json](./140610-mikey-boots.json) |
 | Mikeyeldey: The Album | 206476 | [206476-mikeyeldey-the-album.json](./206476-mikeyeldey-the-album.json) |
 | Mikeyeldey95 | 206475 | [206475-mikeyeldey95.json](./206475-mikeyeldey95.json) |
+| Miki's World: The Lost Tiara | 256658 | [256658-mikis-world-the-lost-tiara.json](./256658-mikis-world-the-lost-tiara.json) |
 | Mikie: High School Graffiti | 84164 | [84164-mikie-high-school-graffiti.json](./84164-mikie-high-school-graffiti.json) |
 | Mikmak World | 401056 | [401056-mikmak-world.json](./401056-mikmak-world.json) |
 | Miko Funk | 370428 | [370428-miko-funk.json](./370428-miko-funk.json) |
@@ -12439,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Tennis | 282446 | [282446-moorhuhn-tennis.json](./282446-moorhuhn-tennis.json) |
 | Moorhuhn Total | 282447 | [282447-moorhuhn-total.json](./282447-moorhuhn-total.json) |
 | Moorhuhn Total 2 | 282449 | [282449-moorhuhn-total-2.json](./282449-moorhuhn-total-2.json) |
+| Moorhuhn Total 3 | 256677 | [256677-moorhuhn-total-3.json](./256677-moorhuhn-total-3.json) |
 | Moorhuhn Total 4 | 257820 | [257820-moorhuhn-total-4.json](./257820-moorhuhn-total-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
@@ -12448,6 +12451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
 | Moorhuhn: Kart Racer | 282435 | [282435-moorhuhn-kart-racer.json](./282435-moorhuhn-kart-racer.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
+| Moorhuhn: Winter-Edition | 256675 | [256675-moorhuhn-winter-edition.json](./256675-moorhuhn-winter-edition.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
 | Moose Boarders | 327381 | [327381-moose-boarders.json](./327381-moose-boarders.json) |
@@ -12516,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Easter Eggs! | 96051 | [96051-more-easter-eggs.json](./96051-more-easter-eggs.json) |
 | More Enemies | 217453 | [217453-more-enemies.json](./217453-more-enemies.json) |
 | More Fun with The Wiggles | 274215 | [274215-more-fun-with-the-wiggles.json](./274215-more-fun-with-the-wiggles.json) |
+| More Holiday Dinner! | 256700 | [256700-more-holiday-dinner.json](./256700-more-holiday-dinner.json) |
 | More Invaders! | 273100 | [273100-more-invaders.json](./273100-more-invaders.json) |
 | More Lies | 322084 | [322084-more-lies.json](./322084-more-lies.json) |
 | More Life, Dead Interface | 402246 | [402246-more-life-dead-interface.json](./402246-more-life-dead-interface.json) |
@@ -12527,7 +12532,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Ore | 217493 | [217493-more-ore.json](./217493-more-ore.json) |
 | More Orke | 279490 | [279490-more-orke.json](./279490-more-orke.json) |
 | More Panda: Slot Creator | 329165 | [329165-more-panda-slot-creator.json](./329165-more-panda-slot-creator.json) |
+| More Pizza! | 256698 | [256698-more-pizza.json](./256698-more-pizza.json) |
 | More Popcorn! | 256791 | [256791-more-popcorn.json](./256791-more-popcorn.json) |
+| More Salad! | 256699 | [256699-more-salad.json](./256699-more-salad.json) |
 | More Slots More Money | 421807 | [421807-more-slots-more-money.json](./421807-more-slots-more-money.json) |
 | More Sundaes! | 256790 | [256790-more-sundaes.json](./256790-more-sundaes.json) |
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
@@ -12537,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Than Just Chess | 75008 | [75008-more-than-just-chess.json](./75008-more-than-just-chess.json) |
 | More than u no | 182841 | [182841-more-than-u-no.json](./182841-more-than-u-no.json) |
 | More Than Words | 361720 | [361720-more-than-words.json](./361720-more-than-words.json) |
+| More Toast! | 256697 | [256697-more-toast.json](./256697-more-toast.json) |
 | More Zombies | 234905 | [234905-more-zombies.json](./234905-more-zombies.json) |
 | More/Less | 351044 | [351044-more-less.json](./351044-more-less.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
@@ -13673,6 +13681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Mosco Bizarre Climbing | 263770 | [263770-mr-mosco-bizarre-climbing.json](./263770-mr-mosco-bizarre-climbing.json) |
 | Mr Ninja | 208060 | [208060-mr-ninja.json](./208060-mr-ninja.json) |
 | Mr Octopus | 234003 | [234003-mr-octopus.json](./234003-mr-octopus.json) |
+| Mr Orange | 256660 | [256660-mr-orange.json](./256660-mr-orange.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | Mr Rabbit's Cambridge: Point and Click Adventure | 242973 | [242973-mr-rabbits-cambridge-point-and-click-adventure.json](./242973-mr-rabbits-cambridge-point-and-click-adventure.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
