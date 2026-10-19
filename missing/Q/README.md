@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuietMansion2 | 221779 | [221779-quietmansion2.json](./221779-quietmansion2.json) |
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
+| Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quilly | 123495 | [123495-quilly.json](./123495-quilly.json) |
 | Quin | 152813 | [152813-quin.json](./152813-quin.json) |
