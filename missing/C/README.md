@@ -7346,6 +7346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleimos | 260945 | [260945-cleimos.json](./260945-cleimos.json) |
 | Cleimos II | 260946 | [260946-cleimos-ii.json](./260946-cleimos-ii.json) |
 | Clem | 203449 | [203449-clem.json](./203449-clem.json) |
+| Clem: The First Attribute | 280093 | [280093-clem-the-first-attribute.json](./280093-clem-the-first-attribute.json) |
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
@@ -10980,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Fantasy 4: Prelude to Legend | 332501 | [332501-cosmic-fantasy-4-prelude-to-legend.json](./332501-cosmic-fantasy-4-prelude-to-legend.json) |
 | Cosmic Fantasy 4: Van's Return | 332502 | [332502-cosmic-fantasy-4-vans-return.json](./332502-cosmic-fantasy-4-vans-return.json) |
 | Cosmic Fantasy Collection | 269306 | [269306-cosmic-fantasy-collection.json](./269306-cosmic-fantasy-collection.json) |
+| Cosmic Fantasy Collection 2 | 280074 | [280074-cosmic-fantasy-collection-2.json](./280074-cosmic-fantasy-collection-2.json) |
 | Cosmic Fantasy Stories | 45866 | [45866-cosmic-fantasy-stories.json](./45866-cosmic-fantasy-stories.json) |
 | Cosmic Fantasy: Bouken Shounen Yuu | 42005 | [42005-cosmic-fantasy-bouken-shounen-yuu.json](./42005-cosmic-fantasy-bouken-shounen-yuu.json) |
 | Cosmic Fear | 340029 | [340029-cosmic-fear.json](./340029-cosmic-fear.json) |
@@ -12276,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
 | Crazy Mom | 310550 | [310550-crazy-mom.json](./310550-crazy-mom.json) |
+| Crazy Monster | 280096 | [280096-crazy-monster.json](./280096-crazy-monster.json) |
 | Crazy Monster Truck Escape | 87135 | [87135-crazy-monster-truck-escape.json](./87135-crazy-monster-truck-escape.json) |
 | Crazy Monster Truck Smasher | 89160 | [89160-crazy-monster-truck-smasher.json](./89160-crazy-monster-truck-smasher.json) |
 | Crazy Mosquito | 113579 | [113579-crazy-mosquito.json](./113579-crazy-mosquito.json) |
