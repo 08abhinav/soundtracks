@@ -12750,6 +12750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc's World Run | 115465 | [115465-crocs-world-run.json](./115465-crocs-world-run.json) |
 | CrocApoca!! Crocodile maiden at the End of the World | 133157 | [133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json](./133157-crocapoca-crocodile-maiden-at-the-end-of-the-world.json) |
 | Crock | 184390 | [184390-crock.json](./184390-crock.json) |
+| Crockpot | 306766 | [306766-crockpot.json](./306766-crockpot.json) |
 | Croco.Games | 342201 | [342201-croco-games.json](./342201-croco-games.json) |
 | Crococo | 406883 | [406883-crococo.json](./406883-crococo.json) |
 | Crocodile Blood: The Final Moments of Kurumizawa Keiko | 394154 | [394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json](./394154-crocodile-blood-the-final-moments-of-kurumizawa-keiko.json) |
