@@ -2875,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam Over Galaxian | 159231 | [159231-sd-gundam-over-galaxian.json](./159231-sd-gundam-over-galaxian.json) |
 | SD Gundam Power Formation Puzzle | 38327 | [38327-sd-gundam-power-formation-puzzle.json](./38327-sd-gundam-power-formation-puzzle.json) |
 | SD Gundam Sangokushi Rainbow Tairiku Senki | 370914 | [370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json](./370914-sd-gundam-sangokushi-rainbow-tairiku-senki.json) |
+| SD Gundam Wars | 289755 | [289755-sd-gundam-wars.json](./289755-sd-gundam-wars.json) |
 | SD Gundam World: Gachapon Senshi - Scramble Wars | 41334 | [41334-sd-gundam-world-gachapon-senshi-scramble-wars.json](./41334-sd-gundam-world-gachapon-senshi-scramble-wars.json) |
 | SD Gundam World: Gachapon Senshi 3 - Eiyuu Senki | 48857 | [48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json](./48857-sd-gundam-world-gachapon-senshi-3-eiyuu-senki.json) |
 | SD Gundam World: Gachapon Senshi 4 - New Type Story | 48856 | [48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json](./48856-sd-gundam-world-gachapon-senshi-4-new-type-story.json) |
@@ -2895,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Shin Kamen Rider Rumble | 231290 | [231290-sd-shin-kamen-rider-rumble.json](./231290-sd-shin-kamen-rider-rumble.json) |
 | SD Shin Kamen Rider Rumble SJHU Season Pass | 398294 | [398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json](./398294-sd-shin-kamen-rider-rumble-sjhu-season-pass.json) |
 | SD The Great Battle: Aratanaru Chousen | 38321 | [38321-sd-the-great-battle-aratanaru-chousen.json](./38321-sd-the-great-battle-aratanaru-chousen.json) |
+| SD Ultraman's Challenge! Maze Island | 289756 | [289756-sd-ultramans-challenge-maze-island.json](./289756-sd-ultramans-challenge-maze-island.json) |
 | SDI | 12848 | [12848-sdi.json](./12848-sdi.json) |
 | SDK Paint | 84860 | [84860-sdk-paint.json](./84860-sdk-paint.json) |
 | SDK Spriter | 84859 | [84859-sdk-spriter.json](./84859-sdk-spriter.json) |
@@ -3111,15 +3113,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
 | Search All: Candy | 181056 | [181056-search-all-candy.json](./181056-search-all-candy.json) |
 | Search All: Christmas | 186676 | [186676-search-all-christmas.json](./186676-search-all-christmas.json) |
+| Search All: Dogs | 289716 | [289716-search-all-dogs.json](./289716-search-all-dogs.json) |
 | Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
+| Search All: Lollipops | 289714 | [289714-search-all-lollipops.json](./289714-search-all-lollipops.json) |
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
+| Search All: Mouses | 289717 | [289717-search-all-mouses.json](./289717-search-all-mouses.json) |
 | Search All: Mushrooms | 192375 | [192375-search-all-mushrooms.json](./192375-search-all-mushrooms.json) |
 | Search All: Runes | 192378 | [192378-search-all-runes.json](./192378-search-all-runes.json) |
 | Search All: Snails | 279114 | [279114-search-all-snails.json](./279114-search-all-snails.json) |
+| Search All: Snakes | 289715 | [289715-search-all-snakes.json](./289715-search-all-snakes.json) |
 | Search All: Spiders | 192376 | [192376-search-all-spiders.json](./192376-search-all-spiders.json) |
 | Search All: Steampunk | 182365 | [182365-search-all-steampunk.json](./182365-search-all-steampunk.json) |
 | Search All: Sushi | 187440 | [187440-search-all-sushi.json](./187440-search-all-sushi.json) |
+| Search All: Tools | 289713 | [289713-search-all-tools.json](./289713-search-all-tools.json) |
 | Search All: UFO | 249800 | [249800-search-all-ufo.json](./249800-search-all-ufo.json) |
 | Search All: Veggies | 306025 | [306025-search-all-veggies.json](./306025-search-all-veggies.json) |
 | Search All: Worms | 231334 | [231334-search-all-worms.json](./231334-search-all-worms.json) |
@@ -3209,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sebil Engineering | 184506 | [184506-sebil-engineering.json](./184506-sebil-engineering.json) |
 | Seblen: Battle! | 169391 | [169391-seblen-battle.json](./169391-seblen-battle.json) |
 | Secluded | 181807 | [181807-secluded.json](./181807-secluded.json) |
+| Seclusion | 289734 | [289734-seclusion.json](./289734-seclusion.json) |
 | Seclusion | 29817 | [29817-seclusion.json](./29817-seclusion.json) |
 | Seclusion: Islesbury | 28147 | [28147-seclusion-islesbury.json](./28147-seclusion-islesbury.json) |
 | Second Base | 388257 | [388257-second-base.json](./388257-second-base.json) |
@@ -16298,6 +16306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
+| Spliti | 289722 | [289722-spliti.json](./289722-spliti.json) |
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
