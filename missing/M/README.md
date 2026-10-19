@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MarioBreak! | 404420 | [404420-mariobreak.json](./404420-mariobreak.json) |
 | MarioKart 64: Recompiled | 378347 | [378347-mariokart-64-recompiled.json](./378347-mariokart-64-recompiled.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
+| Marionetes | 272692 | [272692-marionetes.json](./272692-marionetes.json) |
 | Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
 | Marionette Company | 130709 | [130709-marionette-company.json](./130709-marionette-company.json) |
 | Marionette Company 2 Chu! | 130710 | [130710-marionette-company-2-chu.json](./130710-marionette-company-2-chu.json) |
@@ -8997,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine! | 59257 | [59257-mine.json](./59257-mine.json) |
 | Mine? Sweeper | 287000 | [287000-mine-sweeper.json](./287000-mine-sweeper.json) |
 | Mineblader | 419989 | [419989-mineblader.json](./419989-mineblader.json) |
+| Mineblast | 272731 | [272731-mineblast.json](./272731-mineblast.json) |
 | Minebot Arena | 74050 | [74050-minebot-arena.json](./74050-minebot-arena.json) |
 | Minebot expedition | 195442 | [195442-minebot-expedition.json](./195442-minebot-expedition.json) |
 | Minebuilder | 86893 | [86893-minebuilder.json](./86893-minebuilder.json) |
@@ -11269,6 +11271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
+| Monkey Party | 272693 | [272693-monkey-party.json](./272693-monkey-party.json) |
 | Monkey Poo Flinger | 302638 | [302638-monkey-poo-flinger.json](./302638-monkey-poo-flinger.json) |
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
@@ -11373,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
 | Monopoly | 234647 | [234647-monopoly.json](./234647-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
+| Monopoly | 272695 | [272695-monopoly.json](./272695-monopoly.json) |
 | Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
@@ -12962,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother: Invasion from the Unknown | 378199 | [378199-mother-invasion-from-the-unknown.json](./378199-mother-invasion-from-the-unknown.json) |
 | Mother: Rebound | 315103 | [315103-mother-rebound.json](./315103-mother-rebound.json) |
 | Mother: Russia | 315095 | [315095-mother-russia.json](./315095-mother-russia.json) |
+| Mother's Embrace | 272732 | [272732-mothers-embrace.json](./272732-mothers-embrace.json) |
 | Mother's Eye | 395169 | [395169-mothers-eye.json](./395169-mothers-eye.json) |
 | Mother's Home | 320534 | [320534-mothers-home.json](./320534-mothers-home.json) |
 | Mother's Sword | 296265 | [296265-mothers-sword.json](./296265-mothers-sword.json) |
