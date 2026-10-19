@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacko | 23502 | [23502-wacko.json](./23502-wacko.json) |
 | Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
+| Wacky Burgers | 291347 | [291347-wacky-burgers.json](./291347-wacky-burgers.json) |
 | Wacky Cartoon Racers | 138562 | [138562-wacky-cartoon-racers.json](./138562-wacky-cartoon-racers.json) |
 | Wacky Chariots | 196887 | [196887-wacky-chariots.json](./196887-wacky-chariots.json) |
 | Wacky Coursers | 389748 | [389748-wacky-coursers.json](./389748-wacky-coursers.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Drift | 153381 | [153381-water-drift.json](./153381-water-drift.json) |
 | Water Drop Brick Breaker | 421185 | [421185-water-drop-brick-breaker.json](./421185-water-drop-brick-breaker.json) |
 | Water Fall | 211102 | [211102-water-fall.json](./211102-water-fall.json) |
+| Water Festa | 291320 | [291320-water-festa.json](./291320-water-festa.json) |
 | Water Flow | 284576 | [284576-water-flow.json](./284576-water-flow.json) |
 | Water Girls | 169256 | [169256-water-girls.json](./169256-water-girls.json) |
 | Water Horse | 363987 | [363987-water-horse.json](./363987-water-horse.json) |
@@ -2297,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Farmer Simulator | 128479 | [128479-weed-farmer-simulator.json](./128479-weed-farmer-simulator.json) |
 | Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
+| Weed Harvest | 291339 | [291339-weed-harvest.json](./291339-weed-harvest.json) |
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
@@ -6725,6 +6728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Box | 174179 | [174179-wrong-box.json](./174179-wrong-box.json) |
 | Wrong Dimension - The One Dimensional Platformer | 32224 | [32224-wrong-dimension-the-one-dimensional-platformer.json](./32224-wrong-dimension-the-one-dimensional-platformer.json) |
 | Wrong Door | 320958 | [320958-wrong-door.json](./320958-wrong-door.json) |
+| Wrong Elevator | 291297 | [291297-wrong-elevator.json](./291297-wrong-elevator.json) |
 | Wrong Escape | 302420 | [302420-wrong-escape.json](./302420-wrong-escape.json) |
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
