@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang-On GP | 46098 | [46098-hang-on-gp.json](./46098-hang-on-gp.json) |
 | Hang-On II | 6111 | [6111-hang-on-ii.json](./6111-hang-on-ii.json) |
 | Hangame | 109567 | [109567-hangame.json](./109567-hangame.json) |
+| Hangar 1914 | 292366 | [292366-hangar-1914.json](./292366-hangar-1914.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
 | Hangar 51: Classified Investigation | 382276 | [382276-hangar-51-classified-investigation.json](./382276-hangar-51-classified-investigation.json) |
 | Hangaroo | 225814 | [225814-hangaroo.json](./225814-hangaroo.json) |
@@ -1680,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de: Maihitoyo | 146658 | [146658-harukanaru-toki-no-naka-de-maihitoyo.json](./146658-harukanaru-toki-no-naka-de-maihitoyo.json) |
 | Harukanaru Toki no Naka de: Yume no Ukihashi | 70661 | [70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json](./70661-harukanaru-toki-no-naka-de-yume-no-ukihashi.json) |
 | Harukaze Sentai V-Force | 108837 | [108837-harukaze-sentai-v-force.json](./108837-harukaze-sentai-v-force.json) |
+| Haruki's Journey | 292395 | [292395-harukis-journey.json](./292395-harukis-journey.json) |
 | Haruko Maniax | 345424 | [345424-haruko-maniax.json](./345424-haruko-maniax.json) |
 | Harukoi Otome: Greetings from the Maidens' Garden | 23432 | [23432-harukoi-otome-greetings-from-the-maidens-garden.json](./23432-harukoi-otome-greetings-from-the-maidens-garden.json) |
 | Harukuru: Spring has Come True? | 332633 | [332633-harukuru-spring-has-come-true.json](./332633-harukuru-spring-has-come-true.json) |
