@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
 | 3D Chess Black and White | 245258 | [245258-3d-chess-black-and-white.json](./245258-3d-chess-black-and-white.json) |
+| 3D Chess Online | 266080 | [266080-3d-chess-online.json](./266080-3d-chess-online.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
 | 3D Chess: Nocca Nocca | 151674 | [151674-3d-chess-nocca-nocca.json](./151674-3d-chess-nocca-nocca.json) |
 | 3D City | 271675 | [271675-3d-city.json](./271675-3d-city.json) |
@@ -1985,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
 | 4Blox | 365466 | [365466-4blox.json](./365466-4blox.json) |
+| 4D Games | 266077 | [266077-4d-games.json](./266077-4d-games.json) |
 | 4D Golf | 219511 | [219511-4d-golf.json](./219511-4d-golf.json) |
 | 4D Prince of Persia | 300521 | [300521-4d-prince-of-persia.json](./300521-4d-prince-of-persia.json) |
 | 4D Sports Tennis | 73308 | [73308-4d-sports-tennis.json](./73308-4d-sports-tennis.json) |
@@ -2213,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
 | 6600: The Park | 410914 | [410914-6600-the-park.json](./410914-6600-the-park.json) |
+| 666 | 266107 | [266107-666.json](./266107-666.json) |
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
