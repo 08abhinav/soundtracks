@@ -609,6 +609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw Detective 3 | 268027 | [268027-1001-jigsaw-detective-3.json](./268027-1001-jigsaw-detective-3.json) |
 | 1001 Jigsaw Detective 4 | 262879 | [262879-1001-jigsaw-detective-4.json](./262879-1001-jigsaw-detective-4.json) |
 | 1001 Jigsaw World Tour China | 261313 | [261313-1001-jigsaw-world-tour-china.json](./261313-1001-jigsaw-world-tour-china.json) |
+| 1001 Jigsaw World Tour Japan | 266631 | [266631-1001-jigsaw-world-tour-japan.json](./266631-1001-jigsaw-world-tour-japan.json) |
 | 1001 Jigsaw World Tour South Korea | 273353 | [273353-1001-jigsaw-world-tour-south-korea.json](./273353-1001-jigsaw-world-tour-south-korea.json) |
 | 1001 Jigsaw World Tour: Europe | 96827 | [96827-1001-jigsaw-world-tour-europe.json](./96827-1001-jigsaw-world-tour-europe.json) |
 | 1001 Jigsaw: 6 Magic Elements | 268037 | [268037-1001-jigsaw-6-magic-elements.json](./268037-1001-jigsaw-6-magic-elements.json) |
