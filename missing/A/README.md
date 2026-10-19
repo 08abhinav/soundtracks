@@ -10764,6 +10764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asheron's Call 2: Legions | 23738 | [23738-asherons-call-2-legions.json](./23738-asherons-call-2-legions.json) |
 | Asheron's Call: Dark Majesty | 23735 | [23735-asherons-call-dark-majesty.json](./23735-asherons-call-dark-majesty.json) |
 | Asheron's Call: Throne of Destiny | 23736 | [23736-asherons-call-throne-of-destiny.json](./23736-asherons-call-throne-of-destiny.json) |
+| Ashes | 295163 | [295163-ashes.json](./295163-ashes.json) |
 | Ashes | 386932 | [386932-ashes.json](./386932-ashes.json) |
 | Ashes | 391295 | [391295-ashes.json](./391295-ashes.json) |
 | Ashes | 43139 | [43139-ashes.json](./43139-ashes.json) |
