@@ -4419,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Lookout: Abandoned Post | 401664 | [401664-fire-lookout-abandoned-post.json](./401664-fire-lookout-abandoned-post.json) |
 | Fire Man | 247018 | [247018-fire-man.json](./247018-fire-man.json) |
 | Fire Mission | 188349 | [188349-fire-mission.json](./188349-fire-mission.json) |
+| Fire on the Mountain | 272696 | [272696-fire-on-the-mountain.json](./272696-fire-on-the-mountain.json) |
 | Fire One | 39515 | [39515-fire-one.json](./39515-fire-one.json) |
 | Fire Opal | 153875 | [153875-fire-opal.json](./153875-fire-opal.json) |
 | Fire Pit: Throw Things Into the Fire | 389688 | [389688-fire-pit-throw-things-into-the-fire.json](./389688-fire-pit-throw-things-into-the-fire.json) |
@@ -8461,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Flintoff's Power Play Cricket | 63181 | [63181-freddy-flintoffs-power-play-cricket.json](./63181-freddy-flintoffs-power-play-cricket.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
+| Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
