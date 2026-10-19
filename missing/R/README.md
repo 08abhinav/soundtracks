@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
 | RacetronicVR | 30746 | [30746-racetronicvr.json](./30746-racetronicvr.json) |
 | Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
+| Raceway | 257248 | [257248-raceway.json](./257248-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
 | RaceWorms | 373179 | [373179-raceworms.json](./373179-raceworms.json) |
 | RaceXXL Space | 367394 | [367394-racexxl-space.json](./367394-racexxl-space.json) |
@@ -1350,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Isles | 389536 | [389536-random-isles.json](./389536-random-isles.json) |
 | Random Journey | 32261 | [32261-random-journey.json](./32261-random-journey.json) |
 | Random Legion | 293513 | [293513-random-legion.json](./293513-random-legion.json) |
+| Random Merge Defense | 257253 | [257253-random-merge-defense.json](./257253-random-merge-defense.json) |
 | Random Mix | 417291 | [417291-random-mix.json](./417291-random-mix.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
@@ -7330,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
+| Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
 | Rody & Mastico | 13077 | [13077-rody-and-mastico.json](./13077-rody-and-mastico.json) |
@@ -8658,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPM Racing | 42466 | [42466-rpm-racing.json](./42466-rpm-racing.json) |
 | RPS Duel | 366932 | [366932-rps-duel.json](./366932-rps-duel.json) |
 | RPS Hunger | 371426 | [371426-rps-hunger.json](./371426-rps-hunger.json) |
+| RPS Knights | 257244 | [257244-rps-knights.json](./257244-rps-knights.json) |
 | RPS play | 144615 | [144615-rps-play.json](./144615-rps-play.json) |
 | RPS Runner | 38765 | [38765-rps-runner.json](./38765-rps-runner.json) |
 | RPS Saga | 38994 | [38994-rps-saga.json](./38994-rps-saga.json) |
