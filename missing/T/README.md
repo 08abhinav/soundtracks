@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeleBlast | 108420 | [108420-teleblast.json](./108420-teleblast.json) |
 | Telebradesco Residência | 298360 | [298360-telebradesco-residencia.json](./298360-telebradesco-residencia.json) |
 | TeleCollision | 280868 | [280868-telecollision.json](./280868-telecollision.json) |
+| Telecom Tycoon | 297835 | [297835-telecom-tycoon.json](./297835-telecom-tycoon.json) |
 | Telefoot Soccer 2000 | 186003 | [186003-telefoot-soccer-2000.json](./186003-telefoot-soccer-2000.json) |
 | Telefoot Soccer 2000 | 186004 | [186004-telefoot-soccer-2000.json](./186004-telefoot-soccer-2000.json) |
 | Teleforum | 226605 | [226605-teleforum.json](./226605-teleforum.json) |
@@ -6787,6 +6788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Famous Five: Treasure Island | 13770 | [13770-the-famous-five-treasure-island.json](./13770-the-famous-five-treasure-island.json) |
 | The Fan Game - Ghostbusters and The Secret of Monkey Island | 394785 | [394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json](./394785-the-fan-game-ghostbusters-and-the-secret-of-monkey-island.json) |
 | The Fan Game: Back to the Future - Part III: Timeline of Monkey Island | 279213 | [279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json](./279213-the-fan-game-back-to-the-future-part-iii-timeline-of-monkey-island.json) |
+| The Fanciful Chronicle | 297833 | [297833-the-fanciful-chronicle.json](./297833-the-fanciful-chronicle.json) |
 | The Fancy Pants Adventure: World 3 | 65260 | [65260-the-fancy-pants-adventure-world-3.json](./65260-the-fancy-pants-adventure-world-3.json) |
 | The Fancy Pants Adventures | 51634 | [51634-the-fancy-pants-adventures.json](./51634-the-fancy-pants-adventures.json) |
 | The Fancy Pants Adventures Prequel | 143469 | [143469-the-fancy-pants-adventures-prequel.json](./143469-the-fancy-pants-adventures-prequel.json) |
@@ -11278,6 +11280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
+| The Ranger: Border Hunt | 297848 | [297848-the-ranger-border-hunt.json](./297848-the-ranger-border-hunt.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
@@ -13620,6 +13623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vigil | 271494 | [271494-the-vigil.json](./271494-the-vigil.json) |
 | The Vigil Files: Case 1 | 102258 | [102258-the-vigil-files-case-1.json](./102258-the-vigil-files-case-1.json) |
 | The Vigilant Villa: Non-existent Mirror | 164332 | [164332-the-vigilant-villa-non-existent-mirror.json](./164332-the-vigilant-villa-non-existent-mirror.json) |
+| The Vigilante Diaries | 297838 | [297838-the-vigilante-diaries.json](./297838-the-vigilante-diaries.json) |
 | The Vigilante: Single Shot Justice | 179117 | [179117-the-vigilante-single-shot-justice.json](./179117-the-vigilante-single-shot-justice.json) |
 | The Viking Game | 89704 | [89704-the-viking-game.json](./89704-the-viking-game.json) |
 | The Viking Guardsman | 409736 | [409736-the-viking-guardsman.json](./409736-the-viking-guardsman.json) |
@@ -19807,6 +19811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Lust | 68329 | [68329-tower-of-lust.json](./68329-tower-of-lust.json) |
 | Tower of Madness | 318692 | [318692-tower-of-madness.json](./318692-tower-of-madness.json) |
 | Tower of Magic | 170275 | [170275-tower-of-magic.json](./170275-tower-of-magic.json) |
+| Tower of Mask | 297865 | [297865-tower-of-mask.json](./297865-tower-of-mask.json) |
 | Tower of Megami Descents | 385969 | [385969-tower-of-megami-descents.json](./385969-tower-of-megami-descents.json) |
 | Tower of Minak | 299842 | [299842-tower-of-minak.json](./299842-tower-of-minak.json) |
 | Tower of Modula | 340542 | [340542-tower-of-modula.json](./340542-tower-of-modula.json) |
@@ -22035,6 +22040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travellers Rest | 121967 | [121967-travellers-rest.json](./121967-travellers-rest.json) |
 | Travellers Road | 288090 | [288090-travellers-road.json](./288090-travellers-road.json) |
 | Travellers! | 108921 | [108921-travellers.json](./108921-travellers.json) |
+| Travellin Cats in Christmas | 297837 | [297837-travellin-cats-in-christmas.json](./297837-travellin-cats-in-christmas.json) |
 | Travellin Cats in Jingle Jam | 273813 | [273813-travellin-cats-in-jingle-jam.json](./273813-travellin-cats-in-jingle-jam.json) |
 | Travellin Cats in Paris | 239812 | [239812-travellin-cats-in-paris.json](./239812-travellin-cats-in-paris.json) |
 | Travelling At Night | 326862 | [326862-travelling-at-night.json](./326862-travelling-at-night.json) |
