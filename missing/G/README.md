@@ -8390,6 +8390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyaku Katei Kyoushi: Kanojo wa Boku no Sensei ni Shite Dorei | 411593 | [411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json](./411593-gyaku-katei-kyoushi-kanojo-wa-boku-no-sensei-ni-shite-dorei.json) |
 | Gyakujoku Hiai: Mistress | 77856 | [77856-gyakujoku-hiai-mistress.json](./77856-gyakujoku-hiai-mistress.json) |
 | Gyakuten Hanafuda | 256331 | [256331-gyakuten-hanafuda.json](./256331-gyakuten-hanafuda.json) |
+| Gyakuten Higurashi Saiban: Curry Naru Gyakuten | 257231 | [257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json](./257231-gyakuten-higurashi-saiban-curry-naru-gyakuten.json) |
 | Gyakuten Kenji 2 | 84972 | [84972-gyakuten-kenji-2.json](./84972-gyakuten-kenji-2.json) |
 | Gyakuten Othellonia | 220312 | [220312-gyakuten-othellonia.json](./220312-gyakuten-othellonia.json) |
 | Gyakuten Puzzle Irekaeru Gyakuten | 256345 | [256345-gyakuten-puzzle-irekaeru-gyakuten.json](./256345-gyakuten-puzzle-irekaeru-gyakuten.json) |
