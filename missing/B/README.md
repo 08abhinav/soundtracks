@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Disc | 120895 | [120895-battle-disc.json](./120895-battle-disc.json) |
 | Battle Dodge Ball 3 | 56519 | [56519-battle-dodge-ball-3.json](./56519-battle-dodge-ball-3.json) |
 | Battle Dodgeball | 38350 | [38350-battle-dodgeball.json](./38350-battle-dodgeball.json) |
+| Battle Dodgeball 3 | 269423 | [269423-battle-dodgeball-3.json](./269423-battle-dodgeball-3.json) |
 | Battle Dome | 143586 | [143586-battle-dome.json](./143586-battle-dome.json) |
 | Battle Dome Redux | 126917 | [126917-battle-dome-redux.json](./126917-battle-dome-redux.json) |
 | Battle Drive | 369444 | [369444-battle-drive.json](./369444-battle-drive.json) |
@@ -4593,6 +4594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
 | Bellatrix e o Palácio do Tempo | 276032 | [276032-bellatrix-e-o-palacio-do-tempo.json](./276032-bellatrix-e-o-palacio-do-tempo.json) |
+| Bellatrix: Tales of Orionis | 269459 | [269459-bellatrix-tales-of-orionis.json](./269459-bellatrix-tales-of-orionis.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle Citique | 347813 | [347813-belle-citique.json](./347813-belle-citique.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
