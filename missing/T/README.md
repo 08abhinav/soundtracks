@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
+| Terminal Theatre Soft | 264486 | [264486-terminal-theatre-soft.json](./264486-terminal-theatre-soft.json) |
 | Terminal Toads | 419892 | [419892-terminal-toads.json](./419892-terminal-toads.json) |
 | Terminal Toilet Simulator | 352299 | [352299-terminal-toilet-simulator.json](./352299-terminal-toilet-simulator.json) |
 | Terminal V | 273403 | [273403-terminal-v.json](./273403-terminal-v.json) |
@@ -10669,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
 | The Noodle | 108223 | [108223-the-noodle.json](./108223-the-noodle.json) |
 | The Noog Network | 345430 | [345430-the-noog-network.json](./345430-the-noog-network.json) |
+| The Noose | 264478 | [264478-the-noose.json](./264478-the-noose.json) |
 | The Normal Day | 38997 | [38997-the-normal-day.json](./38997-the-normal-day.json) |
 | The Normal Turnabout | 310410 | [310410-the-normal-turnabout.json](./310410-the-normal-turnabout.json) |
 | The North | 299771 | [299771-the-north.json](./299771-the-north.json) |
@@ -14837,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
+| Thinkin' Things: All Around Frippletown | 264464 | [264464-thinkin-things-all-around-frippletown.json](./264464-thinkin-things-all-around-frippletown.json) |
 | Thinkin' Things: Sky Island Mysteries | 294510 | [294510-thinkin-things-sky-island-mysteries.json](./294510-thinkin-things-sky-island-mysteries.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinking Of U: A Love Story | 299554 | [299554-thinking-of-u-a-love-story.json](./299554-thinking-of-u-a-love-story.json) |
@@ -15142,6 +15145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
 | Three Methods to Unseat a Fairy Monarch | 360144 | [360144-three-methods-to-unseat-a-fairy-monarch.json](./360144-three-methods-to-unseat-a-fairy-monarch.json) |
+| Three Minutes With Your Dog | 264453 | [264453-three-minutes-with-your-dog.json](./264453-three-minutes-with-your-dog.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
 | Three Musketeers | 206631 | [206631-three-musketeers.json](./206631-three-musketeers.json) |
 | Three Nights Escape | 315589 | [315589-three-nights-escape.json](./315589-three-nights-escape.json) |
@@ -23180,6 +23184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tronika | 58147 | [58147-tronika.json](./58147-tronika.json) |
 | Trooper 1 | 74292 | [74292-trooper-1.json](./74292-trooper-1.json) |
 | Trooper Truck | 62609 | [62609-trooper-truck.json](./62609-trooper-truck.json) |
+| Troopers | 264498 | [264498-troopers.json](./264498-troopers.json) |
 | Troopstuck | 278344 | [278344-troopstuck.json](./278344-troopstuck.json) |
 | Trope Tales | 290825 | [290825-trope-tales.json](./290825-trope-tales.json) |
 | Trophiends | 409897 | [409897-trophiends.json](./409897-trophiends.json) |
