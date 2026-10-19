@@ -4642,6 +4642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heros Fight Battle royal | 272273 | [272273-heros-fight-battle-royal.json](./272273-heros-fight-battle-royal.json) |
 | Heros Survival | 304898 | [304898-heros-survival.json](./304898-heros-survival.json) |
 | Heros: The Sanguine Seven | 140621 | [140621-heros-the-sanguine-seven.json](./140621-heros-the-sanguine-seven.json) |
+| HeroSmash | 277160 | [277160-herosmash.json](./277160-herosmash.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroVersus | 239750 | [239750-heroversus.json](./239750-heroversus.json) |
