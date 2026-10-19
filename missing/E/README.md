@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
 | Epitaph | 29703 | [29703-epitaph.json](./29703-epitaph.json) |
+| Epitaph: Soutai no Aitai | 303209 | [303209-epitaph-soutai-no-aitai.json](./303209-epitaph-soutai-no-aitai.json) |
 | Epitasis | 52051 | [52051-epitasis.json](./52051-epitasis.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
