@@ -4444,6 +4444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Magic | 38383 | [38383-little-magic.json](./38383-little-magic.json) |
 | Little Magic | 81331 | [81331-little-magic.json](./81331-little-magic.json) |
 | Little Mall Tycoon | 253487 | [253487-little-mall-tycoon.json](./253487-little-mall-tycoon.json) |
+| Little Man Has a Day | 260022 | [260022-little-man-has-a-day.json](./260022-little-man-has-a-day.json) |
 | Little Martian | 153332 | [153332-little-martian.json](./153332-little-martian.json) |
 | Little Medusa | 106984 | [106984-little-medusa.json](./106984-little-medusa.json) |
 | Little Memories | 109741 | [109741-little-memories.json](./109741-little-memories.json) |
