@@ -1358,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randoville | 244214 | [244214-randoville.json](./244214-randoville.json) |
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
+| Randy & Manilla | 291327 | [291327-randy-and-manilla.json](./291327-randy-and-manilla.json) |
 | Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
 | Randy's Adventure | 146621 | [146621-randys-adventure.json](./146621-randys-adventure.json) |
@@ -3404,6 +3405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reiner Knizia's Money | 200050 | [200050-reiner-knizias-money.json](./200050-reiner-knizias-money.json) |
 | Reiner Knizia's Ra | 103566 | [103566-reiner-knizias-ra.json](./103566-reiner-knizias-ra.json) |
 | Reiner Knizia's: The Confrontation | 34650 | [34650-reiner-knizias-the-confrontation.json](./34650-reiner-knizias-the-confrontation.json) |
+| Reinforced Machine | 291344 | [291344-reinforced-machine.json](./291344-reinforced-machine.json) |
 | ReinPhazer | 137459 | [137459-reinphazer.json](./137459-reinphazer.json) |
 | Reinquarantination | 182899 | [182899-reinquarantination.json](./182899-reinquarantination.json) |
 | Reinvasion | 249140 | [249140-reinvasion.json](./249140-reinvasion.json) |
@@ -6264,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoadCraft: Rebuild Expansion | 371568 | [371568-roadcraft-rebuild-expansion.json](./371568-roadcraft-rebuild-expansion.json) |
 | RoadCraft: Reclaim Expansion | 394795 | [394795-roadcraft-reclaim-expansion.json](./394795-roadcraft-reclaim-expansion.json) |
 | RoadCraft: Year 1 Pass | 397905 | [397905-roadcraft-year-1-pass.json](./397905-roadcraft-year-1-pass.json) |
+| RoadHouse Manager | 291341 | [291341-roadhouse-manager.json](./291341-roadhouse-manager.json) |
 | Roadhouse Simulator: Prologue | 405347 | [405347-roadhouse-simulator-prologue.json](./405347-roadhouse-simulator-prologue.json) |
 | Roadies: Unsung Heroes | 313447 | [313447-roadies-unsung-heroes.json](./313447-roadies-unsung-heroes.json) |
 | Roadkill | 13054 | [13054-roadkill.json](./13054-roadkill.json) |
