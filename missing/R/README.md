@@ -6482,6 +6482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboin | 184873 | [184873-roboin.json](./184873-roboin.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | RoboJesus | 250837 | [250837-robojesus.json](./250837-robojesus.json) |
+| RoboKiden | 306213 | [306213-robokiden.json](./306213-robokiden.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
 | RoboKong | 137571 | [137571-robokong.json](./137571-robokong.json) |
