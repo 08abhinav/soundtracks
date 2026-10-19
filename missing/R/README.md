@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
 | Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
+| Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
 | Ravon | 142390 | [142390-ravon.json](./142390-ravon.json) |
 | Ravva and the Phantom Library | 236780 | [236780-ravva-and-the-phantom-library.json](./236780-ravva-and-the-phantom-library.json) |
 | Ravy Davy: Attack on Ambiguity | 373128 | [373128-ravy-davy-attack-on-ambiguity.json](./373128-ravy-davy-attack-on-ambiguity.json) |
