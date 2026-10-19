@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopus 21 | 322390 | [322390-octopus-21.json](./322390-octopus-21.json) |
 | Octopus Evolution | 206733 | [206733-octopus-evolution.json](./206733-octopus-evolution.json) |
 | Octopus Invasion | 395160 | [395160-octopus-invasion.json](./395160-octopus-invasion.json) |
+| Octopus Island | 265513 | [265513-octopus-island.json](./265513-octopus-island.json) |
 | Octopus Stressus | 312223 | [312223-octopus-stressus.json](./312223-octopus-stressus.json) |
 | Octopus Trouble | 255145 | [255145-octopus-trouble.json](./255145-octopus-trouble.json) |
 | Octopuz | 265748 | [265748-octopuz.json](./265748-octopuz.json) |
@@ -1128,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olenveld | 419352 | [419352-olenveld.json](./419352-olenveld.json) |
 | Olga Doesn't Die | 388837 | [388837-olga-doesnt-die.json](./388837-olga-doesnt-die.json) |
 | Olga: Episode 1 | 292954 | [292954-olga-episode-1.json](./292954-olga-episode-1.json) |
+| Olho Spectral | 265495 | [265495-olho-spectral.json](./265495-olho-spectral.json) |
 | Oli | 192791 | [192791-oli.json](./192791-oli.json) |
 | Oli Boo Chu | 284406 | [284406-oli-boo-chu.json](./284406-oli-boo-chu.json) |
 | Oli One: Sneak in | 235378 | [235378-oli-one-sneak-in.json](./235378-oli-one-sneak-in.json) |
@@ -1802,6 +1804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
 | One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
 | One More Gem | 374167 | [374167-one-more-gem.json](./374167-one-more-gem.json) |
+| One More Hound! | 265512 | [265512-one-more-hound.json](./265512-one-more-hound.json) |
 | One More Island | 148453 | [148453-one-more-island.json](./148453-one-more-island.json) |
 | One More Jump | 260108 | [260108-one-more-jump.json](./260108-one-more-jump.json) |
 | One More Line | 35584 | [35584-one-more-line.json](./35584-one-more-line.json) |
@@ -2153,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Asobi | 151529 | [151529-oni-asobi.json](./151529-oni-asobi.json) |
 | Oni Fight | 335428 | [335428-oni-fight.json](./335428-oni-fight.json) |
+| Oni Hunters | 265506 | [265506-oni-hunters.json](./265506-oni-hunters.json) |
 | Oni II: Innin Densetsu | 63371 | [63371-oni-ii-innin-densetsu.json](./63371-oni-ii-innin-densetsu.json) |
 | Oni III: Kuro no Hakaishin | 63372 | [63372-oni-iii-kuro-no-hakaishin.json](./63372-oni-iii-kuro-no-hakaishin.json) |
 | Oni IV: Kishin no Ketsuzoku | 63370 | [63370-oni-iv-kishin-no-ketsuzoku.json](./63370-oni-iv-kishin-no-ketsuzoku.json) |
