@@ -5262,6 +5262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eville: Star Gazer Pack | 263230 | [263230-eville-star-gazer-pack.json](./263230-eville-star-gazer-pack.json) |
 | EvilMorph | 30333 | [30333-evilmorph.json](./30333-evilmorph.json) |
 | Evilmun Family | 180196 | [180196-evilmun-family.json](./180196-evilmun-family.json) |
+| Evilmun Family 1.2.1 Forrest Fuss | 264462 | [264462-evilmun-family-1-2-1-forrest-fuss.json](./264462-evilmun-family-1-2-1-forrest-fuss.json) |
 | Evilmun Family 1.3.1 Water Update | 264050 | [264050-evilmun-family-1-3-1-water-update.json](./264050-evilmun-family-1-3-1-water-update.json) |
 | Evilmun Family 2.0 | 264051 | [264051-evilmun-family-2-0.json](./264051-evilmun-family-2-0.json) |
 | Evilmun Family: Season 3 | 185991 | [185991-evilmun-family-season-3.json](./185991-evilmun-family-season-3.json) |
