@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Art | 74699 | [74699-fatal-art.json](./74699-fatal-art.json) |
 | Fatal Blade | 213015 | [213015-fatal-blade.json](./213015-fatal-blade.json) |
 | Fatal Bullet | 193946 | [193946-fatal-bullet.json](./193946-fatal-bullet.json) |
+| Fatal Claw | 291325 | [291325-fatal-claw.json](./291325-fatal-claw.json) |
 | Fatal Craft | 83253 | [83253-fatal-craft.json](./83253-fatal-craft.json) |
 | Fatal Curse | 156901 | [156901-fatal-curse.json](./156901-fatal-curse.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
@@ -8063,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Hero | 386284 | [386284-fps-hero.json](./386284-fps-hero.json) |
 | FPS Infinite | 334154 | [334154-fps-infinite.json](./334154-fps-infinite.json) |
 | FPS Offline Strike: Missions | 223939 | [223939-fps-offline-strike-missions.json](./223939-fps-offline-strike-missions.json) |
+| FPS Pro Team Manager | 291337 | [291337-fps-pro-team-manager.json](./291337-fps-pro-team-manager.json) |
 | FPS Quest | 381184 | [381184-fps-quest.json](./381184-fps-quest.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
