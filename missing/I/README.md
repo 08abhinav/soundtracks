@@ -1087,6 +1087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
+| Idle Fishing | 280117 | [280117-idle-fishing.json](./280117-idle-fishing.json) |
 | Idle Fishing Tycoon | 212517 | [212517-idle-fishing-tycoon.json](./212517-idle-fishing-tycoon.json) |
 | Idle Fitness Gym Tycoon | 392447 | [392447-idle-fitness-gym-tycoon.json](./392447-idle-fitness-gym-tycoon.json) |
 | Idle Fleet | 410723 | [410723-idle-fleet.json](./410723-idle-fleet.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Lurks Below | 85662 | [85662-it-lurks-below.json](./85662-it-lurks-below.json) |
 | It Lurks in the Woods | 29513 | [29513-it-lurks-in-the-woods.json](./29513-it-lurks-in-the-woods.json) |
 | It Makes for Painful Work | 353817 | [353817-it-makes-for-painful-work.json](./353817-it-makes-for-painful-work.json) |
+| It Mimics | 280104 | [280104-it-mimics.json](./280104-it-mimics.json) |
 | It Pays to Be a Winner | 122410 | [122410-it-pays-to-be-a-winner.json](./122410-it-pays-to-be-a-winner.json) |
 | It Runs Red | 117440 | [117440-it-runs-red.json](./117440-it-runs-red.json) |
 | It Sleeps Below the Haar | 217396 | [217396-it-sleeps-below-the-haar.json](./217396-it-sleeps-below-the-haar.json) |
