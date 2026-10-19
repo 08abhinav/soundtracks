@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dwell in Possibility | 186633 | [186633-we-dwell-in-possibility.json](./186633-we-dwell-in-possibility.json) |
 | We Escape Together | 373719 | [373719-we-escape-together.json](./373719-we-escape-together.json) |
 | We Got Another Year | 177918 | [177918-we-got-another-year.json](./177918-we-got-another-year.json) |
+| We got bored lol | 309201 | [309201-we-got-bored-lol.json](./309201-we-got-bored-lol.json) |
 | We Got Compagnie! | 263124 | [263124-we-got-compagnie.json](./263124-we-got-compagnie.json) |
 | We Gotta Go | 375823 | [375823-we-gotta-go.json](./375823-we-gotta-go.json) |
 | We Grew Up in War | 318776 | [318776-we-grew-up-in-war.json](./318776-we-grew-up-in-war.json) |
