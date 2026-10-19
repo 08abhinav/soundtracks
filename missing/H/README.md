@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack 4 | 171892 | [171892-hack-4.json](./171892-hack-4.json) |
 | Hack 42: Typing Incremental | 407601 | [407601-hack-42-typing-incremental.json](./407601-hack-42-typing-incremental.json) |
 | Hack 5 | 171893 | [171893-hack-5.json](./171893-hack-5.json) |
+| Hack 6 | 294533 | [294533-hack-6.json](./294533-hack-6.json) |
 | Hack and Climb | 332284 | [332284-hack-and-climb.json](./332284-hack-and-climb.json) |
 | Hack and Slash Fury | 329207 | [329207-hack-and-slash-fury.json](./329207-hack-and-slash-fury.json) |
 | Hack And Slash Fury: Battalion Armor | 334515 | [334515-hack-and-slash-fury-battalion-armor.json](./334515-hack-and-slash-fury-battalion-armor.json) |
@@ -935,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Fate: Wildcards | 51823 | [51823-hand-of-fate-wildcards.json](./51823-hand-of-fate-wildcards.json) |
 | Hand of Hexes | 338867 | [338867-hand-of-hexes.json](./338867-hand-of-hexes.json) |
 | Hand of Seasons | 298687 | [298687-hand-of-seasons.json](./298687-hand-of-seasons.json) |
+| Hand of the Divine | 294513 | [294513-hand-of-the-divine.json](./294513-hand-of-the-divine.json) |
 | Hand of the Goddess | 273919 | [273919-hand-of-the-goddess.json](./273919-hand-of-the-goddess.json) |
 | Hand of the Gods | 65837 | [65837-hand-of-the-gods.json](./65837-hand-of-the-gods.json) |
 | Hand of the Gods: Core Set Bundle | 90575 | [90575-hand-of-the-gods-core-set-bundle.json](./90575-hand-of-the-gods-core-set-bundle.json) |
@@ -2011,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Nightmares | 149446 | [149446-haunted-nightmares.json](./149446-haunted-nightmares.json) |
+| Haunted Nukem | 294530 | [294530-haunted-nukem.json](./294530-haunted-nukem.json) |
 | Haunted Obachestra Vol. 1 Awaking | 254617 | [254617-haunted-obachestra-vol-1-awaking.json](./254617-haunted-obachestra-vol-1-awaking.json) |
 | Haunted Obachestra Vol. 2 Bianke | 254618 | [254618-haunted-obachestra-vol-2-bianke.json](./254618-haunted-obachestra-vol-2-bianke.json) |
 | Haunted Past: Realm of Ghosts | 36380 | [36380-haunted-past-realm-of-ghosts.json](./36380-haunted-past-realm-of-ghosts.json) |
@@ -7371,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Girl Puzzle | 112702 | [112702-horror-girl-puzzle.json](./112702-horror-girl-puzzle.json) |
 | Horror Girls | 382287 | [382287-horror-girls.json](./382287-horror-girls.json) |
 | Horror Hospital | 29915 | [29915-horror-hospital.json](./29915-horror-hospital.json) |
+| Horror Hospital 2: Survival | 294536 | [294536-horror-hospital-2-survival.json](./294536-horror-hospital-2-survival.json) |
 | Horror Hotel: Mystery Quest | 206726 | [206726-horror-hotel-mystery-quest.json](./206726-horror-hotel-mystery-quest.json) |
 | Horror House | 112161 | [112161-horror-house.json](./112161-horror-house.json) |
 | Horror House | 230762 | [230762-horror-house.json](./230762-horror-house.json) |
@@ -8173,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Much Items: Vegetation | 340492 | [340492-how-much-items-vegetation.json](./340492-how-much-items-vegetation.json) |
 | How Much Items: Vehicles | 371481 | [371481-how-much-items-vehicles.json](./371481-how-much-items-vehicles.json) |
 | How Much Items: Weapon | 340493 | [340493-how-much-items-weapon.json](./340493-how-much-items-weapon.json) |
+| How Not To Be Seen! | 294517 | [294517-how-not-to-be-seen.json](./294517-how-not-to-be-seen.json) |
 | How Now, Sea Cow? | 184493 | [184493-how-now-sea-cow.json](./184493-how-now-sea-cow.json) |
 | How Old is James? | 292990 | [292990-how-old-is-james.json](./292990-how-old-is-james.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
