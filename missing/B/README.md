@@ -1746,6 +1746,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as Rapunzel | 293190 | [293190-barbie-as-rapunzel.json](./293190-barbie-as-rapunzel.json) |
 | Barbie as Rapunzel: A Creative Adventure | 23781 | [23781-barbie-as-rapunzel-a-creative-adventure.json](./23781-barbie-as-rapunzel-a-creative-adventure.json) |
 | Barbie as Sleeping Beauty | 200605 | [200605-barbie-as-sleeping-beauty.json](./200605-barbie-as-sleeping-beauty.json) |
+| Barbie as the Island Princess | 258856 | [258856-barbie-as-the-island-princess.json](./258856-barbie-as-the-island-princess.json) |
+| Barbie as the Island Princess | 258862 | [258862-barbie-as-the-island-princess.json](./258862-barbie-as-the-island-princess.json) |
 | Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
@@ -1799,6 +1801,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Fun & Fashion Dogs | 117136 | [117136-barbie-fun-and-fashion-dogs.json](./117136-barbie-fun-and-fashion-dogs.json) |
 | Barbie: Game Girl | 45174 | [45174-barbie-game-girl.json](./45174-barbie-game-girl.json) |
 | Barbie: Gotta Have Games | 43884 | [43884-barbie-gotta-have-games.json](./43884-barbie-gotta-have-games.json) |
+| Barbie: Groom and Glam Pups | 258864 | [258864-barbie-groom-and-glam-pups.json](./258864-barbie-groom-and-glam-pups.json) |
+| Barbie: Groom and Glam Pups | 258865 | [258865-barbie-groom-and-glam-pups.json](./258865-barbie-groom-and-glam-pups.json) |
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
@@ -3646,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaconfall | 411001 | [411001-beaconfall.json](./411001-beaconfall.json) |
 | Bead | 90636 | [90636-bead.json](./90636-bead.json) |
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
+| BeadsPopper | 258827 | [258827-beadspopper.json](./258827-beadspopper.json) |
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
