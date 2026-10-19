@@ -7002,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurus Life VR | 112711 | [112711-dinosaurus-life-vr.json](./112711-dinosaurus-life-vr.json) |
 | DinoScape | 143335 | [143335-dinoscape.json](./143335-dinoscape.json) |
 | DinoSource | 77983 | [77983-dinosource.json](./77983-dinosource.json) |
+| Dinostria | 288638 | [288638-dinostria.json](./288638-dinostria.json) |
 | DinoSystem | 35131 | [35131-dinosystem.json](./35131-dinosystem.json) |
 | Dinotica | 333407 | [333407-dinotica.json](./333407-dinotica.json) |
 | Dinotica | 361625 | [361625-dinotica.json](./361625-dinotica.json) |
@@ -12963,6 +12964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungene | 217354 | [217354-dungene.json](./217354-dungene.json) |
 | Dungenious | 187782 | [187782-dungenious.json](./187782-dungenious.json) |
 | Dungeon | 227756 | [227756-dungeon.json](./227756-dungeon.json) |
+| Dungeon | 288637 | [288637-dungeon.json](./288637-dungeon.json) |
 | Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
