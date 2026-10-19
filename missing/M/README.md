@@ -3117,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
 | Marionette Company | 130709 | [130709-marionette-company.json](./130709-marionette-company.json) |
 | Marionette Company 2 Chu! | 130710 | [130710-marionette-company-2-chu.json](./130710-marionette-company-2-chu.json) |
+| Marionette Eden Breakers | 261692 | [261692-marionette-eden-breakers.json](./261692-marionette-eden-breakers.json) |
 | Marionette Handler | 77566 | [77566-marionette-handler.json](./77566-marionette-handler.json) |
 | Marionette Handler 2 | 77567 | [77567-marionette-handler-2.json](./77567-marionette-handler-2.json) |
 | Marionette lab | 152979 | [152979-marionette-lab.json](./152979-marionette-lab.json) |
@@ -9371,6 +9372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
 | Mini Colors | 412334 | [412334-mini-colors.json](./412334-mini-colors.json) |
+| Mini Continental Saga | 261659 | [261659-mini-continental-saga.json](./261659-mini-continental-saga.json) |
 | Mini Countries | 133192 | [133192-mini-countries.json](./133192-mini-countries.json) |
 | Mini Cozy Room: Lo-Fi | 338702 | [338702-mini-cozy-room-lo-fi.json](./338702-mini-cozy-room-lo-fi.json) |
 | Mini craft story | 98783 | [98783-mini-craft-story.json](./98783-mini-craft-story.json) |
@@ -16242,6 +16244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Riddles: Ghostly Park - Collector's Edition | 298362 | [298362-mystical-riddles-ghostly-park-collectors-edition.json](./298362-mystical-riddles-ghostly-park-collectors-edition.json) |
 | Mystical Riddles: Ghostly Park DLC | 361775 | [361775-mystical-riddles-ghostly-park-dlc.json](./361775-mystical-riddles-ghostly-park-dlc.json) |
 | Mystical Riddles: Haunted Portraits - Collector's Edition | 337262 | [337262-mystical-riddles-haunted-portraits-collectors-edition.json](./337262-mystical-riddles-haunted-portraits-collectors-edition.json) |
+| Mystical Riddles: Ship From Beyond - Collector's Edition | 261651 | [261651-mystical-riddles-ship-from-beyond-collectors-edition.json](./261651-mystical-riddles-ship-from-beyond-collectors-edition.json) |
 | Mystical Riddles: Snowy Peak Hotel - Collector's Edition | 187807 | [187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json](./187807-mystical-riddles-snowy-peak-hotel-collectors-edition.json) |
 | Mystical Samurai | 136453 | [136453-mystical-samurai.json](./136453-mystical-samurai.json) |
 | Mystical Stones | 247172 | [247172-mystical-stones.json](./247172-mystical-stones.json) |
