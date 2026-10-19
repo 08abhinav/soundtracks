@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeats: A Galactic Requiem | 60473 | [60473-heartbeats-a-galactic-requiem.json](./60473-heartbeats-a-galactic-requiem.json) |
 | Heartbite: Dating by Daylight | 241852 | [241852-heartbite-dating-by-daylight.json](./241852-heartbite-dating-by-daylight.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
+| Heartbreak Land | 305603 | [305603-heartbreak-land.json](./305603-heartbreak-land.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
 | HeartCatch PreCure! Oshare Collection | 124520 | [124520-heartcatch-precure-oshare-collection.json](./124520-heartcatch-precure-oshare-collection.json) |
@@ -3704,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: GOTY Edition | 313790 | [313790-hentai-golf-goty-edition.json](./313790-hentai-golf-goty-edition.json) |
 | Hentai Golf: Happy Edition | 315861 | [315861-hentai-golf-happy-edition.json](./315861-hentai-golf-happy-edition.json) |
 | Hentai Golf: Lakeside Fairways | 283271 | [283271-hentai-golf-lakeside-fairways.json](./283271-hentai-golf-lakeside-fairways.json) |
+| Hentai Golf: Legendary Edition | 305598 | [305598-hentai-golf-legendary-edition.json](./305598-hentai-golf-legendary-edition.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
 | Hentai Golf: Prairie Greens | 283235 | [283235-hentai-golf-prairie-greens.json](./283235-hentai-golf-prairie-greens.json) |
 | Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
@@ -4414,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
 | Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
+| Heroes of Higher Realms | 305634 | [305634-heroes-of-higher-realms.json](./305634-heroes-of-higher-realms.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
 | Heroes of Hyrule | 215237 | [215237-heroes-of-hyrule.json](./215237-heroes-of-hyrule.json) |
 | Heroes of Infinity | 60925 | [60925-heroes-of-infinity.json](./60925-heroes-of-infinity.json) |
@@ -5581,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Legends: Gold Edition | 413573 | [413573-highway-legends-gold-edition.json](./413573-highway-legends-gold-edition.json) |
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
 | Highway Madness | 80943 | [80943-highway-madness.json](./80943-highway-madness.json) |
+| Highway Moto Racing Rush 2023 Simulator: Premium Edition | 305597 | [305597-highway-moto-racing-rush-2023-simulator-premium-edition.json](./305597-highway-moto-racing-rush-2023-simulator-premium-edition.json) |
 | Highway Moto Rider - Traffic Race | 105850 | [105850-highway-moto-rider-traffic-race.json](./105850-highway-moto-rider-traffic-race.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
@@ -6333,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
 | Hole io: Warzone | 300945 | [300945-hole-io-warzone.json](./300945-hole-io-warzone.json) |
+| Hole io: Warzone Edition | 305596 | [305596-hole-io-warzone-edition.json](./305596-hole-io-warzone-edition.json) |
 | Hole Is Mine | 404881 | [404881-hole-is-mine.json](./404881-hole-is-mine.json) |
 | Hole Land | 40348 | [40348-hole-land.json](./40348-hole-land.json) |
 | Hole Theory | 308512 | [308512-hole-theory.json](./308512-hole-theory.json) |
