@@ -4718,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
 | Hexagon Survivors | 249855 | [249855-hexagon-survivors.json](./249855-hexagon-survivors.json) |
 | Hexagon Tribute | 224458 | [224458-hexagon-tribute.json](./224458-hexagon-tribute.json) |
+| Hexagon Ultra VR | 291865 | [291865-hexagon-ultra-vr.json](./291865-hexagon-ultra-vr.json) |
 | Hexagonal Explods | 238729 | [238729-hexagonal-explods.json](./238729-hexagonal-explods.json) |
 | Hexagonal Tower | 195109 | [195109-hexagonal-tower.json](./195109-hexagonal-tower.json) |
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highlaundry | 156208 | [156208-highlaundry.json](./156208-highlaundry.json) |
+| Highlighters: Cosmic Puzzle Action | 291851 | [291851-highlighters-cosmic-puzzle-action.json](./291851-highlighters-cosmic-puzzle-action.json) |
 | Highline Volleyball VR | 315316 | [315316-highline-volleyball-vr.json](./315316-highline-volleyball-vr.json) |
 | Highnoon | 11304 | [11304-highnoon.json](./11304-highnoon.json) |
 | Highpoint | 202917 | [202917-highpoint.json](./202917-highpoint.json) |
