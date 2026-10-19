@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazue World | 328056 | [328056-kazue-world.json](./328056-kazue-world.json) |
 | Kazue World 2 | 328055 | [328055-kazue-world-2.json](./328055-kazue-world-2.json) |
 | Kazuma Kaneko's Tsukuyomi: Digital Deluxe Edition | 390532 | [390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json](./390532-kazuma-kanekos-tsukuyomi-digital-deluxe-edition.json) |
+| KBF: Knight Bar Fight | 291820 | [291820-kbf-knight-bar-fight.json](./291820-kbf-knight-bar-fight.json) |
 | KBlocks | 82967 | [82967-kblocks.json](./82967-kblocks.json) |
 | KBRD | 251699 | [251699-kbrd.json](./251699-kbrd.json) |
 | KBreakOut | 141550 | [141550-kbreakout.json](./141550-kbreakout.json) |
