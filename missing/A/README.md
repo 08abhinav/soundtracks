@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
+| A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
@@ -625,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
+| A New World | 268882 | [268882-a-new-world.json](./268882-a-new-world.json) |
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
@@ -3105,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterimage | 185642 | [185642-afterimage.json](./185642-afterimage.json) |
 | Afterimage: Deluxe Edition | 234215 | [234215-afterimage-deluxe-edition.json](./234215-afterimage-deluxe-edition.json) |
 | Afterinfection | 153013 | [153013-afterinfection.json](./153013-afterinfection.json) |
+| Afterlands | 268893 | [268893-afterlands.json](./268893-afterlands.json) |
 | Afterlife | 175 | [175-afterlife.json](./175-afterlife.json) |
 | Afterlife | 195976 | [195976-afterlife.json](./195976-afterlife.json) |
 | Afterlife | 264043 | [264043-afterlife.json](./264043-afterlife.json) |
@@ -5512,6 +5515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpamys | 293358 | [293358-alpamys.json](./293358-alpamys.json) |
 | AlpenCross | 52585 | [52585-alpencross.json](./52585-alpencross.json) |
 | Alpenglow | 384668 | [384668-alpenglow.json](./384668-alpenglow.json) |
+| Alper002's NaNoHexen 2019 | 268889 | [268889-alper002s-nanohexen-2019.json](./268889-alper002s-nanohexen-2019.json) |
 | Alpha | 117490 | [117490-alpha.json](./117490-alpha.json) |
 | Alpha | 131301 | [131301-alpha.json](./131301-alpha.json) |
 | Alpha | 313804 | [313804-alpha.json](./313804-alpha.json) |
@@ -5605,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphaputt | 134386 | [134386-alphaputt.json](./134386-alphaputt.json) |
 | AlphaSwap | 234071 | [234071-alphaswap.json](./234071-alphaswap.json) |
 | Alphaville | 253284 | [253284-alphaville.json](./253284-alphaville.json) |
+| Alphys Neo | 268875 | [268875-alphys-neo.json](./268875-alphys-neo.json) |
 | Alpine | 302820 | [302820-alpine.json](./302820-alpine.json) |
 | Alpine Alpaca | 181218 | [181218-alpine-alpaca.json](./181218-alpine-alpaca.json) |
 | Alpine Crawler Wild | 174199 | [174199-alpine-crawler-wild.json](./174199-alpine-crawler-wild.json) |
@@ -11520,6 +11525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
 | Astral Dive | 404088 | [404088-astral-dive.json](./404088-astral-dive.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
+| Astral Dodge | 268876 | [268876-astral-dodge.json](./268876-astral-dodge.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
