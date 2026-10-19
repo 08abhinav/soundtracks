@@ -719,6 +719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter IV: Shoryuken Horror Pack | 225127 | [225127-ultra-street-fighter-iv-shoryuken-horror-pack.json](./225127-ultra-street-fighter-iv-shoryuken-horror-pack.json) |
 | Ultra Street Fighter IV: Shoryuken Vacation Pack | 225128 | [225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json](./225128-ultra-street-fighter-iv-shoryuken-vacation-pack.json) |
 | Ultra Street Fighter IV: Shoryuken Wild Pack | 225129 | [225129-ultra-street-fighter-iv-shoryuken-wild-pack.json](./225129-ultra-street-fighter-iv-shoryuken-wild-pack.json) |
+| Ultra Strikers | 299606 | [299606-ultra-strikers.json](./299606-ultra-strikers.json) |
 | Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Violet | 150057 | [150057-ultra-violet.json](./150057-ultra-violet.json) |
