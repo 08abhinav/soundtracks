@@ -4485,6 +4485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
 | Noah | 130260 | [130260-noah.json](./130260-noah.json) |
 | Noah | 252670 | [252670-noah.json](./252670-noah.json) |
+| Noah City: Rise of the conqueror | 278894 | [278894-noah-city-rise-of-the-conqueror.json](./278894-noah-city-rise-of-the-conqueror.json) |
 | Noah in a Dream | 236295 | [236295-noah-in-a-dream.json](./236295-noah-in-a-dream.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
 | Noah Please! | 239751 | [239751-noah-please.json](./239751-noah-please.json) |
