@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Days! | 144716 | [144716-7days.json](./144716-7days.json) |
 | 7Groves | 295780 | [295780-7groves.json](./295780-7groves.json) |
 | 7he Code | 104542 | [104542-7he-code.json](./104542-7he-code.json) |
+| 7imit5 | 308032 | [308032-7imit5.json](./308032-7imit5.json) |
 | 7Komada | 423287 | [423287-7komada.json](./423287-7komada.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
