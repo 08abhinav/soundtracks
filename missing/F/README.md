@@ -4988,6 +4988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
+| FishTDX | 277734 | [277734-fishtdx.json](./277734-fishtdx.json) |
 | Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
@@ -6351,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly! II | 68973 | [68973-fly-ii.json](./68973-fly-ii.json) |
 | Fly. Die. Cry. | 26478 | [26478-fly-die-cry.json](./26478-fly-die-cry.json) |
 | Fly'n | 10327 | [10327-flyn.json](./10327-flyn.json) |
+| Fly&Ride Collection | 277728 | [277728-fly-and-ride-collection.json](./277728-fly-and-ride-collection.json) |
 | Fly2k | 391578 | [391578-fly2k.json](./391578-fly2k.json) |
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyable Heart | 211295 | [211295-flyable-heart.json](./211295-flyable-heart.json) |
