@@ -4546,6 +4546,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
+| Chase H.Q. | 265018 | [265018-chase-h-q.json](./265018-chase-h-q.json) |
+| Chase H.Q. | 265019 | [265019-chase-h-q.json](./265019-chase-h-q.json) |
+| Chase H.Q. | 265020 | [265020-chase-h-q.json](./265020-chase-h-q.json) |
+| Chase H.Q. | 265021 | [265021-chase-h-q.json](./265021-chase-h-q.json) |
+| Chase H.Q. | 265022 | [265022-chase-h-q.json](./265022-chase-h-q.json) |
 | Chase H.Q. | 6802 | [6802-chase-h-q.json](./6802-chase-h-q.json) |
 | Chase H.Q. 2 | 307661 | [307661-chase-h-q-2.json](./307661-chase-h-q-2.json) |
 | Chase H.Q. 3D | 286677 | [286677-chase-h-q-3d.json](./286677-chase-h-q-3d.json) |
