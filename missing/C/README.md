@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
 | Capybara's Happytime | 346215 | [346215-capybaras-happytime.json](./346215-capybaras-happytime.json) |
+| Capybarista | 271079 | [271079-capybarista.json](./271079-capybarista.json) |
 | Capybro | 263945 | [263945-capybro.json](./263945-capybro.json) |
 | Capyvarias | 390806 | [390806-capyvarias.json](./390806-capyvarias.json) |
 | Car | 243586 | [243586-car.json](./243586-car.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch the Witch | 417503 | [417503-catch-the-witch.json](./417503-catch-the-witch.json) |
 | Catch Them All! | 407882 | [407882-catch-them-all.json](./407882-catch-them-all.json) |
 | Catch Them If You Can | 215368 | [215368-catch-them-if-you-can.json](./215368-catch-them-if-you-can.json) |
+| Catch Them Sweetie | 271075 | [271075-catch-them-sweetie.json](./271075-catch-them-sweetie.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
@@ -3193,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterwaul | 184347 | [184347-caterwaul.json](./184347-caterwaul.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catetris | 419899 | [419899-catetris.json](./419899-catetris.json) |
+| CatExpress | 271077 | [271077-catexpress.json](./271077-catexpress.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
 | Catffee Time! | 303727 | [303727-catffee-time.json](./303727-catffee-time.json) |
 | Catfighter, In the Lands of Sinners | 374059 | [374059-catfighter-in-the-lands-of-sinners.json](./374059-catfighter-in-the-lands-of-sinners.json) |
@@ -5434,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimpuzzle Pro | 84574 | [84574-chimpuzzle-pro.json](./84574-chimpuzzle-pro.json) |
 | Chimpy Chippa's: The Game | 284568 | [284568-chimpy-chippas-the-game.json](./284568-chimpy-chippas-the-game.json) |
 | Chin chin | 202024 | [202024-chin-chin.json](./202024-chin-chin.json) |
+| Chin Chinny Chin Mouse Cheese Chin Toes | 271096 | [271096-chin-chinny-chin-mouse-cheese-chin-toes.json](./271096-chin-chinny-chin-mouse-cheese-chin-toes.json) |
 | China Crisis | 280463 | [280463-china-crisis.json](./280463-china-crisis.json) |
 | China Miner | 13828 | [13828-china-miner.json](./13828-china-miner.json) |
 | China Miner | 415926 | [415926-china-miner.json](./415926-china-miner.json) |
@@ -7349,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
+| Clear Plan | 271070 | [271070-clear-plan.json](./271070-clear-plan.json) |
 | Clear Rain | 387047 | [387047-clear-rain.json](./387047-clear-rain.json) |
 | Clear Sky 1941 | 95553 | [95553-clear-sky-1941.json](./95553-clear-sky-1941.json) |
 | Clear The Coast | 270692 | [270692-clear-the-coast.json](./270692-clear-the-coast.json) |
@@ -8667,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colonus | 413051 | [413051-colonus.json](./413051-colonus.json) |
 | Colony | 13506 | [13506-colony.json](./13506-colony.json) |
 | Colony | 211667 | [211667-colony.json](./211667-colony.json) |
+| Colony | 271063 | [271063-colony.json](./271063-colony.json) |
 | Colony | 327447 | [327447-colony.json](./327447-colony.json) |
 | Colony | 387083 | [387083-colony.json](./387083-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
@@ -10642,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copoka | 19812 | [19812-copoka.json](./19812-copoka.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
 | Copper | 312990 | [312990-copper.json](./312990-copper.json) |
+| Copper Corrosion | 271086 | [271086-copper-corrosion.json](./271086-copper-corrosion.json) |
 | Copper Dreams | 59674 | [59674-copper-dreams.json](./59674-copper-dreams.json) |
 | Copper Jacket | 313466 | [313466-copper-jacket.json](./313466-copper-jacket.json) |
 | Copper Odyssey | 161375 | [161375-copper-odyssey.json](./161375-copper-odyssey.json) |
@@ -12715,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Wave | 12018 | [12018-crime-wave.json](./12018-crime-wave.json) |
 | Crime Wave | 23837 | [23837-crime-wave.json](./23837-crime-wave.json) |
 | Crime Zone | 262240 | [262240-crime-zone.json](./262240-crime-zone.json) |
+| Crime: 1997 | 271097 | [271097-crime-1997.json](./271097-crime-1997.json) |
 | CrimeBloc | 347795 | [347795-crimebloc.json](./347795-crimebloc.json) |
 | Crimebot | 398261 | [398261-crimebot.json](./398261-crimebot.json) |
 | CrimeBot 2: Unsolved Cold Case | 324862 | [324862-crimebot-2-unsolved-cold-case.json](./324862-crimebot-2-unsolved-cold-case.json) |
