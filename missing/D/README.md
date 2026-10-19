@@ -2571,10 +2571,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Inside | 240136 | [240136-dead-inside.json](./240136-dead-inside.json) |
 | Dead Inside | 377576 | [377576-dead-inside.json](./377576-dead-inside.json) |
 | Dead Invaders: Modern War 3D | 216164 | [216164-dead-invaders-modern-war-3d.json](./216164-dead-invaders-modern-war-3d.json) |
+| Dead Island 2: Character Pack - Cyber Slayer Amy | 304454 | [304454-dead-island-2-character-pack-cyber-slayer-amy.json](./304454-dead-island-2-character-pack-cyber-slayer-amy.json) |
+| Dead Island 2: Character Pack - Gaelic Queen Dani | 304456 | [304456-dead-island-2-character-pack-gaelic-queen-dani.json](./304456-dead-island-2-character-pack-gaelic-queen-dani.json) |
+| Dead Island 2: Character Pack - Jungle Fantasy Ryan | 304455 | [304455-dead-island-2-character-pack-jungle-fantasy-ryan.json](./304455-dead-island-2-character-pack-jungle-fantasy-ryan.json) |
+| Dead Island 2: Character Pack - Silver Star Jacob | 304457 | [304457-dead-island-2-character-pack-silver-star-jacob.json](./304457-dead-island-2-character-pack-silver-star-jacob.json) |
+| Dead Island 2: Character Pack - Steel Horse Carla | 304452 | [304452-dead-island-2-character-pack-steel-horse-carla.json](./304452-dead-island-2-character-pack-steel-horse-carla.json) |
+| Dead Island 2: Character Pack - Venice Vogue Bruno | 304453 | [304453-dead-island-2-character-pack-venice-vogue-bruno.json](./304453-dead-island-2-character-pack-venice-vogue-bruno.json) |
 | Dead Island 2: Deluxe Edition | 214473 | [214473-dead-island-2-deluxe-edition.json](./214473-dead-island-2-deluxe-edition.json) |
+| Dead Island 2: Expansion Pass | 304449 | [304449-dead-island-2-expansion-pass.json](./304449-dead-island-2-expansion-pass.json) |
 | Dead Island 2: Gold Edition | 214472 | [214472-dead-island-2-gold-edition.json](./214472-dead-island-2-gold-edition.json) |
+| Dead Island 2: Golden Weapons Pack | 304459 | [304459-dead-island-2-golden-weapons-pack.json](./304459-dead-island-2-golden-weapons-pack.json) |
 | Dead Island 2: Haus | 272291 | [272291-dead-island-2-haus.json](./272291-dead-island-2-haus.json) |
+| Dead Island 2: Memories of Banoi Pack | 304460 | [304460-dead-island-2-memories-of-banoi-pack.json](./304460-dead-island-2-memories-of-banoi-pack.json) |
 | Dead Island 2: Neighborhood Watch | 316503 | [316503-dead-island-2-neighborhood-watch.json](./316503-dead-island-2-neighborhood-watch.json) |
+| Dead Island 2: Pulp Weapons Pack | 304458 | [304458-dead-island-2-pulp-weapons-pack.json](./304458-dead-island-2-pulp-weapons-pack.json) |
+| Dead Island 2: Red’s Demise Katana | 304451 | [304451-dead-island-2-red-s-demise-katana.json](./304451-dead-island-2-red-s-demise-katana.json) |
 | Dead Island 2: SoLA | 298542 | [298542-dead-island-2-sola.json](./298542-dead-island-2-sola.json) |
 | Dead Island 2: Ultimate Edition | 320310 | [320310-dead-island-2-ultimate-edition.json](./320310-dead-island-2-ultimate-edition.json) |
 | Dead Island Definitive Collection | 19399 | [19399-dead-island-definitive-collection.json](./19399-dead-island-definitive-collection.json) |
@@ -5361,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
 | Destiny 2: Launch Edition | 82386 | [82386-destiny-2-launch-edition.json](./82386-destiny-2-launch-edition.json) |
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
+| Destiny 2: Legacy Collection | 304472 | [304472-destiny-2-legacy-collection.json](./304472-destiny-2-legacy-collection.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Limited Edition | 132151 | [132151-destiny-2-limited-edition.json](./132151-destiny-2-limited-edition.json) |
 | Destiny 2: Revenant | 319116 | [319116-destiny-2-revenant.json](./319116-destiny-2-revenant.json) |
