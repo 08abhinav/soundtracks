@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
+| Waterworld | 265035 | [265035-waterworld.json](./265035-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
@@ -2014,6 +2015,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne Gretzky Hockey 3 | 15511 | [15511-wayne-gretzky-hockey-3.json](./15511-wayne-gretzky-hockey-3.json) |
 | Wayne Gretzky's 3D Hockey | 3630 | [3630-wayne-gretzkys-3d-hockey.json](./3630-wayne-gretzkys-3d-hockey.json) |
 | Wayne's World | 198954 | [198954-waynes-world.json](./198954-waynes-world.json) |
+| Wayne's World | 265001 | [265001-waynes-world.json](./265001-waynes-world.json) |
+| Wayne's World | 265002 | [265002-waynes-world.json](./265002-waynes-world.json) |
 | Wayne's World | 310701 | [310701-waynes-world.json](./310701-waynes-world.json) |
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
@@ -6977,6 +6980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
+| WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
 | WWF King of the Ring | 48707 | [48707-wwf-king-of-the-ring.json](./48707-wwf-king-of-the-ring.json) |
 | WWF No Mercy | 241491 | [241491-wwf-no-mercy.json](./241491-wwf-no-mercy.json) |
 | WWF No Mercy | 3644 | [3644-wwf-no-mercy.json](./3644-wwf-no-mercy.json) |
