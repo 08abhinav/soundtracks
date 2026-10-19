@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariner | 39690 | [39690-mariner.json](./39690-mariner.json) |
 | Marines Modern Urban Combat | 50690 | [50690-marines-modern-urban-combat.json](./50690-marines-modern-urban-combat.json) |
 | Marins Dream Garden | 243727 | [243727-marins-dream-garden.json](./243727-marins-dream-garden.json) |
+| Mario | 268344 | [268344-mario.json](./268344-mario.json) |
 | Mario & Friends in: Volcanic Panic | 336098 | [336098-mario-and-friends-in-volcanic-panic.json](./336098-mario-and-friends-in-volcanic-panic.json) |
 | Mario & Luigi | 117772 | [117772-mario-and-luigi.json](./117772-mario-and-luigi.json) |
 | Mario & Luigi 4 | 323820 | [323820-mario-and-luigi-4.json](./323820-mario-and-luigi-4.json) |
@@ -2998,9 +2999,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Power Tennis: Hammer Power | 328667 | [328667-mario-power-tennis-hammer-power.json](./328667-mario-power-tennis-hammer-power.json) |
 | Mario Racing Tournament | 314508 | [314508-mario-racing-tournament.json](./314508-mario-racing-tournament.json) |
 | Mario Rescues Santa Claus | 229618 | [229618-mario-rescues-santa-claus.json](./229618-mario-rescues-santa-claus.json) |
+| Mario Rescues the Golden Mushroom | 268345 | [268345-mario-rescues-the-golden-mushroom.json](./268345-mario-rescues-the-golden-mushroom.json) |
 | Mario Roots | 323894 | [323894-mario-roots.json](./323894-mario-roots.json) |
 | Mario Royale Deluxe | 262665 | [262665-mario-royale-deluxe.json](./262665-mario-royale-deluxe.json) |
 | Mario Royale Legacy | 322238 | [322238-mario-royale-legacy.json](./322238-mario-royale-legacy.json) |
+| Mario Saves Christmas | 268346 | [268346-mario-saves-christmas.json](./268346-mario-saves-christmas.json) |
 | Mario Sports Complex: Barrel Blast | 231644 | [231644-mario-sports-complex-barrel-blast.json](./231644-mario-sports-complex-barrel-blast.json) |
 | Mario Sports Mix | 3989 | [3989-mario-sports-mix.json](./3989-mario-sports-mix.json) |
 | Mario Spy | 318030 | [318030-mario-spy.json](./318030-mario-spy.json) |
@@ -3049,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario vs. Tarzan | 315046 | [315046-mario-vs-tarzan.json](./315046-mario-vs-tarzan.json) |
 | Mario vs. Wario | 198475 | [198475-mario-vs-wario.json](./198475-mario-vs-wario.json) |
 | Mario vs. Windows 95 | 322773 | [322773-mario-vs-windows-95.json](./322773-mario-vs-windows-95.json) |
+| Mario Wants His Lemonade | 268347 | [268347-mario-wants-his-lemonade.json](./268347-mario-wants-his-lemonade.json) |
 | Mario: A Halloween Tale | 323818 | [323818-mario-a-halloween-tale.json](./323818-mario-a-halloween-tale.json) |
 | Mario: The Dark World | 324111 | [324111-mario-the-dark-world.json](./324111-mario-the-dark-world.json) |
 | Mario: The Music Box | 140400 | [140400-mario-the-music-box.json](./140400-mario-the-music-box.json) |
