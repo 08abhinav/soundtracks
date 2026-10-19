@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VPetlings | 395580 | [395580-vpetlings.json](./395580-vpetlings.json) |
 | VPN Simulator | 371306 | [371306-vpn-simulator.json](./371306-vpn-simulator.json) |
 | VR - Talk to her | 104475 | [104475-vr-talk-to-her.json](./104475-vr-talk-to-her.json) |
+| VR Agent | 288069 | [288069-vr-agent.json](./288069-vr-agent.json) |
 | VR Aim Trainer | 371590 | [371590-vr-aim-trainer.json](./371590-vr-aim-trainer.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Amazing Files: Horror Hospital | 31588 | [31588-vr-amazing-files-horror-hospital.json](./31588-vr-amazing-files-horror-hospital.json) |
