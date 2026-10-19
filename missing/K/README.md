@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingyo Chuuihou! Tobidase! Game Gakuen | 37959 | [37959-kingyo-chuuihou-tobidase-game-gakuen.json](./37959-kingyo-chuuihou-tobidase-game-gakuen.json) |
 | Kingyo Chuuihou! Wapiko no Waku-waku Stamp Rally | 194938 | [194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json](./194938-kingyo-chuuihou-wapiko-no-waku-waku-stamp-rally.json) |
 | Kingyo Chuuihou!: Gyopi-chan Mikke | 385785 | [385785-kingyo-chuuihou-gyopi-chan-mikke.json](./385785-kingyo-chuuihou-gyopi-chan-mikke.json) |
+| Kingyo no Kodou | 285875 | [285875-kingyo-no-kodou.json](./285875-kingyo-no-kodou.json) |
 | Kiniro Mosaic Memories | 202390 | [202390-kiniro-mosaic-memories.json](./202390-kiniro-mosaic-memories.json) |
 | Kiniro no Corda 2 | 57703 | [57703-kiniro-no-corda-2.json](./57703-kiniro-no-corda-2.json) |
 | Kiniro no Corda 2 f | 221321 | [221321-kiniro-no-corda-2-f.json](./221321-kiniro-no-corda-2-f.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kowai Mono ni ha Futa wo Shiro | 307837 | [307837-kowai-mono-ni-ha-futa-wo-shiro.json](./307837-kowai-mono-ni-ha-futa-wo-shiro.json) |
 | Kowai Shashin: Shinrei Shashin Kitan | 137561 | [137561-kowai-shashin-shinrei-shashin-kitan.json](./137561-kowai-shashin-shinrei-shashin-kitan.json) |
 | Kowalski | 388367 | [388367-kowalski.json](./388367-kowalski.json) |
+| Kowareta Sekai wo Kimi to Iku | 285870 | [285870-kowareta-sekai-wo-kimi-to-iku.json](./285870-kowareta-sekai-wo-kimi-to-iku.json) |
 | Kowi Ishto: Battle of Akonoli | 125476 | [125476-kowi-ishto-battle-of-akonoli.json](./125476-kowi-ishto-battle-of-akonoli.json) |
 | Kowloon High-School Chronicle | 122279 | [122279-kowloon-high-school-chronicle.json](./122279-kowloon-high-school-chronicle.json) |
 | Kowloon Labyrinth | 388310 | [388310-kowloon-labyrinth.json](./388310-kowloon-labyrinth.json) |
