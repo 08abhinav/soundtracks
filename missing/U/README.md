@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under Par Golf Architect | 334365 | [334365-under-par-golf-architect.json](./334365-under-par-golf-architect.json) |
 | Under Party | 127021 | [127021-under-party.json](./127021-under-party.json) |
 | Under Pressure | 206623 | [206623-under-pressure.json](./206623-under-pressure.json) |
+| Under Pressure | 267787 | [267787-under-pressure.json](./267787-under-pressure.json) |
 | Under Pressure | 80602 | [80602-under-pressure.json](./80602-under-pressure.json) |
 | Under Pretense of Death | 177334 | [177334-under-pretense-of-death.json](./177334-under-pretense-of-death.json) |
 | Under Princess: Pure Voice | 109005 | [109005-under-princess-pure-voice.json](./109005-under-princess-pure-voice.json) |
@@ -2670,6 +2671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
 | Usual John | 105141 | [105141-usual-john.json](./105141-usual-john.json) |
 | Usual June | 279615 | [279615-usual-june.json](./279615-usual-june.json) |
+| Usurper | 267788 | [267788-usurper.json](./267788-usurper.json) |
 | Usurper | 345530 | [345530-usurper.json](./345530-usurper.json) |
 | Usurper Ghoul | 316688 | [316688-usurper-ghoul.json](./316688-usurper-ghoul.json) |
 | Usurper of Fire | 408035 | [408035-usurper-of-fire.json](./408035-usurper-of-fire.json) |
