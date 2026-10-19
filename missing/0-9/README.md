@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Animals on an Island | 325501 | [325501-100-animals-on-an-island.json](./325501-100-animals-on-an-island.json) |
 | 100 Archeology Cats | 393728 | [393728-100-archeology-cats.json](./393728-100-archeology-cats.json) |
 | 100 Artroom Cats | 376182 | [376182-100-artroom-cats.json](./376182-100-artroom-cats.json) |
+| 100 Asian Cats: Extra Content | 283046 | [283046-100-asian-cats-extra-content.json](./283046-100-asian-cats-extra-content.json) |
 | 100 Astro Cats | 347755 | [347755-100-astro-cats.json](./347755-100-astro-cats.json) |
 | 100 Atelier Cats | 376188 | [376188-100-atelier-cats.json](./376188-100-atelier-cats.json) |
 | 100 Aztec Cats | 306020 | [306020-100-aztec-cats.json](./306020-100-aztec-cats.json) |
@@ -367,7 +368,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Beijing | 284620 | [284620-100-cats-beijing.json](./284620-100-cats-beijing.json) |
 | 100 Cats Belgrade | 284619 | [284619-100-cats-belgrade.json](./284619-100-cats-belgrade.json) |
 | 100 Cats Berlin | 283866 | [283866-100-cats-berlin.json](./283866-100-cats-berlin.json) |
+| 100 Cats Greece | 283041 | [283041-100-cats-greece.json](./283041-100-cats-greece.json) |
 | 100 Cats Istanbul | 334173 | [334173-100-cats-istanbul.json](./334173-100-cats-istanbul.json) |
+| 100 Cats London | 283042 | [283042-100-cats-london.json](./283042-100-cats-london.json) |
 | 100 Cats London: Extra Content | 308930 | [308930-100-cats-london-extra-content.json](./308930-100-cats-london-extra-content.json) |
 | 100 Cats Lost in Argentina Find & Color | 361057 | [361057-100-cats-lost-in-argentina-find-and-color.json](./361057-100-cats-lost-in-argentina-find-and-color.json) |
 | 100 Cats Lost in Australia Find & Color | 359556 | [359556-100-cats-lost-in-australia-find-and-color.json](./359556-100-cats-lost-in-australia-find-and-color.json) |
@@ -398,6 +401,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Cats Lost in Undersea Wonders | 376891 | [376891-100-cats-lost-in-undersea-wonders.json](./376891-100-cats-lost-in-undersea-wonders.json) |
 | 100 Cats Lost in Van Gogh’s Brushstrokes | 376892 | [376892-100-cats-lost-in-van-gogh-s-brushstrokes.json](./376892-100-cats-lost-in-van-gogh-s-brushstrokes.json) |
 | 100 Cats Lost in World Find & Color | 348783 | [348783-100-cats-lost-in-world-find-and-color.json](./348783-100-cats-lost-in-world-find-and-color.json) |
+| 100 Cats Mexico | 283045 | [283045-100-cats-mexico.json](./283045-100-cats-mexico.json) |
+| 100 Cats New York | 283043 | [283043-100-cats-new-york.json](./283043-100-cats-new-york.json) |
 | 100 Cats New York: Extra Content | 325502 | [325502-100-cats-new-york-extra-content.json](./325502-100-cats-new-york-extra-content.json) |
 | 100 Cats Pakistan | 283867 | [283867-100-cats-pakistan.json](./283867-100-cats-pakistan.json) |
 | 100 Cats Singapore | 284618 | [284618-100-cats-singapore.json](./284618-100-cats-singapore.json) |
@@ -440,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
+| 100 Hidden Cats in China | 283044 | [283044-100-hidden-cats-in-china.json](./283044-100-hidden-cats-in-china.json) |
 | 100 Hidden Cats in Games | 301590 | [301590-100-hidden-cats-in-games.json](./301590-100-hidden-cats-in-games.json) |
 | 100 hidden Cats: Kitty House | 316960 | [316960-100-hidden-cats-kitty-house.json](./316960-100-hidden-cats-kitty-house.json) |
 | 100 Hidden Cats: Kitty House 2 | 320321 | [320321-100-hidden-cats-kitty-house-2.json](./320321-100-hidden-cats-kitty-house-2.json) |
@@ -452,6 +458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Cupcakes | 169672 | [169672-100-hidden-cupcakes.json](./169672-100-hidden-cupcakes.json) |
 | 100 Hidden Fish | 187205 | [187205-100-hidden-fish.json](./187205-100-hidden-fish.json) |
 | 100 Hidden Frogs | 186155 | [186155-100-hidden-frogs.json](./186155-100-hidden-frogs.json) |
+| 100 Hidden Kooky: Sand & Sun | 283032 | [283032-100-hidden-kooky-sand-and-sun.json](./283032-100-hidden-kooky-sand-and-sun.json) |
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
@@ -471,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
 | 100 Korean Hidden Cats | 410093 | [410093-100-korean-hidden-cats.json](./410093-100-korean-hidden-cats.json) |
+| 100 lil jumps | 283033 | [283033-100-lil-jumps.json](./283033-100-lil-jumps.json) |
 | 100 Line Christmas | 260891 | [260891-100-line-christmas.json](./260891-100-line-christmas.json) |
 | 100 Line Massacre | 260889 | [260889-100-line-massacre.json](./260889-100-line-massacre.json) |
 | 100 Logic Games: Time Killers | 232531 | [232531-100-logic-games-time-killers.json](./232531-100-logic-games-time-killers.json) |
@@ -489,8 +497,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 New Year Cats | 324238 | [324238-100-new-year-cats.json](./324238-100-new-year-cats.json) |
 | 100 New Year Cats: Extra Content | 325506 | [325506-100-new-year-cats-extra-content.json](./325506-100-new-year-cats-extra-content.json) |
 | 100 Ninja Cats | 283034 | [283034-100-ninja-cats.json](./283034-100-ninja-cats.json) |
+| 100 Paris Cats | 283035 | [283035-100-paris-cats.json](./283035-100-paris-cats.json) |
 | 100 Percent Star | 45233 | [45233-100-percent-star.json](./45233-100-percent-star.json) |
 | 100 Pics Quiz | 70890 | [70890-100-pics-quiz.json](./70890-100-pics-quiz.json) |
+| 100 Pirate Cats | 283036 | [283036-100-pirate-cats.json](./283036-100-pirate-cats.json) |
 | 100 Pumpkins | 175852 | [175852-100-pumpkins.json](./175852-100-pumpkins.json) |
 | 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
@@ -498,6 +508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
+| 100 Rooms | 283038 | [283038-100-rooms.json](./283038-100-rooms.json) |
 | 100 Rooms | 376837 | [376837-100-rooms.json](./376837-100-rooms.json) |
 | 100 Rounds | 270067 | [270067-100-rounds.json](./270067-100-rounds.json) |
 | 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
@@ -557,6 +568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100% Orange Juice: Waruda Prison Break Pack | 255025 | [255025-100-orange-juice-waruda-prison-break-pack.json](./255025-100-orange-juice-waruda-prison-break-pack.json) |
 | 100% Orange Juice: Yuki & Tomomo Renewal Pack | 164470 | [164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json](./164470-100-orange-juice-yuki-and-tomomo-renewal-pack.json) |
 | 100% Pasukaru Sensei: Perfect Paint Bombers | 55906 | [55906-100-pasukaru-sensei-perfect-paint-bombers.json](./55906-100-pasukaru-sensei-perfect-paint-bombers.json) |
+| 100% Plasma Vitae | 283037 | [283037-100-plasma-vitae.json](./283037-100-plasma-vitae.json) |
 | 100% Wedding Mission: Love Love Christmas | 325510 | [325510-100-wedding-mission-love-love-christmas.json](./325510-100-wedding-mission-love-love-christmas.json) |
 | 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
 | 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
@@ -619,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: World Tour - Asia | 102732 | [102732-1001-jigsaw-world-tour-asia.json](./102732-1001-jigsaw-world-tour-asia.json) |
 | 1001 Jigsaw: World Tour - Great America | 91255 | [91255-1001-jigsaw-world-tour-great-america.json](./91255-1001-jigsaw-world-tour-great-america.json) |
 | 1001 Jigsaw. World Tour Thailand | 256365 | [256365-1001-jigsaw-world-tour-thailand.json](./256365-1001-jigsaw-world-tour-thailand.json) |
+| 1001 Nights | 283040 | [283040-1001-nights.json](./283040-1001-nights.json) |
 | 1001 Spikes | 8617 | [8617-1001-spikes.json](./8617-1001-spikes.json) |
 | 1001 Touch Games | 204246 | [204246-1001-touch-games.json](./204246-1001-touch-games.json) |
 | 1001 Ultimate Mahjong 2 | 111457 | [111457-1001-ultimate-mahjong-2.json](./111457-1001-ultimate-mahjong-2.json) |
@@ -627,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
 | 101 Card & Board Games | 228408 | [228408-101-card-and-board-games.json](./228408-101-card-and-board-games.json) |
+| 101 Cats | 283047 | [283047-101-cats.json](./283047-101-cats.json) |
 | 101 Cats in Amsterdam | 310249 | [310249-101-cats-in-amsterdam.json](./310249-101-cats-in-amsterdam.json) |
 | 101 Cats in Australia | 320313 | [320313-101-cats-in-australia.json](./320313-101-cats-in-australia.json) |
 | 101 Cats in Brazil | 312656 | [312656-101-cats-in-brazil.json](./312656-101-cats-in-brazil.json) |
@@ -1315,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
 | 2310 seconds in Hell | 189954 | [189954-2310-seconds-in-hell.json](./189954-2310-seconds-in-hell.json) |
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
+| 24 | 283078 | [283078-24.json](./283078-24.json) |
 | 24 Game | 91310 | [91310-24-game.json](./91310-24-game.json) |
 | 24 Games For Windows 95 | 116956 | [116956-24-games-for-windows-95.json](./116956-24-games-for-windows-95.json) |
 | 24 Grab Points | 358076 | [358076-24-grab-points.json](./358076-24-grab-points.json) |
@@ -1324,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 24 Jingles to Bell | 394832 | [394832-24-jingles-to-bell.json](./394832-24-jingles-to-bell.json) |
 | 24 Locks | 58470 | [58470-24-locks.json](./58470-24-locks.json) |
 | 24 Lustful Hours | 382296 | [382296-24-lustful-hours.json](./382296-24-lustful-hours.json) |
+| 24 o 'clock | 283048 | [283048-24-o-clock.json](./283048-24-o-clock.json) |
 | 24 Puzzle | 357972 | [357972-24-puzzle.json](./357972-24-puzzle.json) |
 | 24 Solar Terms | 158663 | [158663-24-solar-terms.json](./158663-24-solar-terms.json) |
 | 24-ji no Kane to Cinderella ~Halloween Wedding~ | 56551 | [56551-24-ji-no-kane-to-cinderella-halloween-wedding.json](./56551-24-ji-no-kane-to-cinderella-halloween-wedding.json) |
@@ -1337,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
+| 24H Stories: The Rule 7 | 283077 | [283077-24h-stories-the-rule-7.json](./283077-24h-stories-the-rule-7.json) |
 | 25 | 223926 | [223926-25.json](./223926-25.json) |
 | 25 Pferdespiele | 91592 | [91592-25-pferdespiele.json](./91592-25-pferdespiele.json) |
 | 25 To Life | 5714 | [5714-25-to-life.json](./5714-25-to-life.json) |
@@ -1718,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Building | 270864 | [270864-3d-puzzle-building.json](./270864-3d-puzzle-building.json) |
 | 3D Puzzle: Colonial Graveyard | 337620 | [337620-3d-puzzle-colonial-graveyard.json](./337620-3d-puzzle-colonial-graveyard.json) |
 | 3D Puzzle: Desert Wind | 253424 | [253424-3d-puzzle-desert-wind.json](./253424-3d-puzzle-desert-wind.json) |
+| 3D Puzzle: Factory | 283076 | [283076-3d-puzzle-factory.json](./283076-3d-puzzle-factory.json) |
 | 3D Puzzle: Farming | 253426 | [253426-3d-puzzle-farming.json](./253426-3d-puzzle-farming.json) |
 | 3D Puzzle: Farming 2 | 274644 | [274644-3d-puzzle-farming-2.json](./274644-3d-puzzle-farming-2.json) |
 | 3D Puzzle: Flooded Grounds | 309716 | [309716-3d-puzzle-flooded-grounds.json](./309716-3d-puzzle-flooded-grounds.json) |
@@ -2290,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77p Egg: Cubicle 77 | 377403 | [377403-77p-egg-cubicle-77.json](./377403-77p-egg-cubicle-77.json) |
 | 77p egg: Eggwife | 218143 | [218143-77p-egg-eggwife.json](./218143-77p-egg-eggwife.json) |
 | 77Survival Part I | 314064 | [314064-77survival-part-i.json](./314064-77survival-part-i.json) |
+| 77th: The Game | 283075 | [283075-77th-the-game.json](./283075-77th-the-game.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 7821 Akuji | 357762 | [357762-7821-akuji.json](./357762-7821-akuji.json) |
 | 7869 | 280232 | [280232-7869.json](./280232-7869.json) |
@@ -2479,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Second Portraits | 51220 | [51220-90-second-portraits.json](./51220-90-second-portraits.json) |
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
+| 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
