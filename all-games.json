@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-18T17:06:50.423Z",
-  "total_soundtracks": 2202,
+  "generated_at": "2026-10-19T07:55:37.785Z",
+  "total_soundtracks": 2203,
   "games": [
     {
       "igdb_id": 7522,
@@ -12632,6 +12632,20 @@
           "album_name": "LEGO Voyagers (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7rjVUsWvSi304oX18mWTYm",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35132,
+      "game_name": "LiEat",
+      "game_url": "https://ostdb.net/games/lieat",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27338f15e77aa68f6db1a90b7d4",
+      "albums": [
+        {
+          "album_name": "LiEat - ORIGINAL SOUNDTRACK (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4p9LKc4dxIzPxXESY2Geyy",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
