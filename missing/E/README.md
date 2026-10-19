@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echomnesia | 346537 | [346537-echomnesia.json](./346537-echomnesia.json) |
 | Echoplex | 25237 | [25237-echoplex.json](./25237-echoplex.json) |
 | Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
+| Echos in the Dark | 266621 | [266621-echos-in-the-dark.json](./266621-echos-in-the-dark.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
@@ -3999,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room | 76510 | [76510-escape-room.json](./76510-escape-room.json) |
 | Escape Room | 90637 | [90637-escape-room.json](./90637-escape-room.json) |
 | Escape Room Autumn | 224057 | [224057-escape-room-autumn.json](./224057-escape-room-autumn.json) |
+| Escape Room Bundle Triple Pack | 266639 | [266639-escape-room-bundle-triple-pack.json](./266639-escape-room-bundle-triple-pack.json) |
 | Escape Room Clock Tower | 193838 | [193838-escape-room-clock-tower.json](./193838-escape-room-clock-tower.json) |
 | Escape Room Collection C1 | 295536 | [295536-escape-room-collection-c1.json](./295536-escape-room-collection-c1.json) |
 | Escape Room Killer: Moon, flowers and the Creepy Ghost | 328530 | [328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json](./328530-escape-room-killer-moon-flowers-and-the-creepy-ghost.json) |
@@ -5492,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Executor | 220019 | [220019-executor.json](./220019-executor.json) |
 | Executrix's Folly | 180116 | [180116-executrixs-folly.json](./180116-executrixs-folly.json) |
 | Exed Exes | 6671 | [6671-exed-exes.json](./6671-exed-exes.json) |
+| Exelinya Burst | 266636 | [266636-exelinya-burst.json](./266636-exelinya-burst.json) |
 | Exelio | 264350 | [264350-exelio.json](./264350-exelio.json) |
 | Exelon | 79236 | [79236-exelon.json](./79236-exelon.json) |
 | Exemption | 118134 | [118134-exemption.json](./118134-exemption.json) |
