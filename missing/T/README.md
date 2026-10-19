@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimumari | 35090 | [35090-taimumari.json](./35090-taimumari.json) |
 | Taimumari: Complete Edition | 121522 | [121522-taimumari-complete-edition.json](./121522-taimumari-complete-edition.json) |
 | Taimumari: Sweet Legend | 174169 | [174169-taimumari-sweet-legend.json](./174169-taimumari-sweet-legend.json) |
+| Tainá | 283614 | [283614-taina.json](./283614-taina.json) |
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted Grail: Conquest | 146424 | [146424-tainted-grail-conquest.json](./146424-tainted-grail-conquest.json) |
@@ -5122,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Byte | 150438 | [150438-the-byte.json](./150438-the-byte.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
+| The C64 Collection 3 | 283597 | [283597-the-c64-collection-3.json](./283597-the-c64-collection-3.json) |
 | The Cabbage Effect | 134953 | [134953-the-cabbage-effect.json](./134953-the-cabbage-effect.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
@@ -12895,6 +12897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Telos Monument | 158930 | [158930-the-telos-monument.json](./158930-the-telos-monument.json) |
 | The Telwynium | 179663 | [179663-the-telwynium.json](./179663-the-telwynium.json) |
 | The Telwynium | 404830 | [404830-the-telwynium.json](./404830-the-telwynium.json) |
+| The Telwynium: Book Three - The Shadow of Spring | 283615 | [283615-the-telwynium-book-three-the-shadow-of-spring.json](./283615-the-telwynium-book-three-the-shadow-of-spring.json) |
 | The Tempest | 217775 | [217775-the-tempest.json](./217775-the-tempest.json) |
 | The Template | 359009 | [359009-the-template.json](./359009-the-template.json) |
 | The Temple | 292549 | [292549-the-temple.json](./292549-the-temple.json) |
