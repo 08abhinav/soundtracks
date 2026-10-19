@@ -1078,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Dimensions: Wax Beauty | 139789 | [139789-dark-dimensions-wax-beauty.json](./139789-dark-dimensions-wax-beauty.json) |
 | Dark Disciples | 233470 | [233470-dark-disciples.json](./233470-dark-disciples.json) |
 | Dark Disciples II | 168324 | [168324-dark-disciples-ii.json](./168324-dark-disciples-ii.json) |
+| Dark Dive | 297858 | [297858-dark-dive.json](./297858-dark-dive.json) |
 | Dark Dive: The Last Tropic | 277021 | [277021-dark-dive-the-last-tropic.json](./277021-dark-dive-the-last-tropic.json) |
 | Dark Divinity: The Calling | 196545 | [196545-dark-divinity-the-calling.json](./196545-dark-divinity-the-calling.json) |
 | Dark Doll | 415503 | [415503-dark-doll.json](./415503-dark-doll.json) |
