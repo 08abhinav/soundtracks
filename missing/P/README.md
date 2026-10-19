@@ -5676,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
+| Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
@@ -11390,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Anomaly: Urban Supernatural Investigator | 200700 | [200700-project-anomaly-urban-supernatural-investigator.json](./200700-project-anomaly-urban-supernatural-investigator.json) |
 | Project Ants | 398506 | [398506-project-ants.json](./398506-project-ants.json) |
 | Project Antumbra | 50438 | [50438-project-antumbra.json](./50438-project-antumbra.json) |
+| Project Aphotic | 285327 | [285327-project-aphotic.json](./285327-project-aphotic.json) |
 | Project Apparatus | 297192 | [297192-project-apparatus.json](./297192-project-apparatus.json) |
 | Project Apparition | 259100 | [259100-project-apparition.json](./259100-project-apparition.json) |
 | Project APT | 62099 | [62099-project-apt.json](./62099-project-apt.json) |
@@ -12428,6 +12430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyhonds | 402418 | [402418-psyhonds.json](./402418-psyhonds.json) |
 | PsyHotel | 132197 | [132197-psyhotel.json](./132197-psyhotel.json) |
 | Psyia | 111670 | [111670-psyia.json](./111670-psyia.json) |
+| Psyko | 285332 | [285332-psyko.json](./285332-psyko.json) |
 | Psyko | 295909 | [295909-psyko.json](./295909-psyko.json) |
 | PsyOps Solutions | 114252 | [114252-psyops-solutions.json](./114252-psyops-solutions.json) |
 | PsyPro | 391130 | [391130-psypro.json](./391130-psypro.json) |
