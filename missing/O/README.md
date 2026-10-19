@@ -716,6 +716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Waifu | 248664 | [248664-office-waifu.json](./248664-office-waifu.json) |
 | Office Wars | 354819 | [354819-office-wars.json](./354819-office-wars.json) |
 | Office Zombie | 316740 | [316740-office-zombie.json](./316740-office-zombie.json) |
+| Office7 | 292460 | [292460-office7.json](./292460-office7.json) |
 | OfficeEscape | 116903 | [116903-officeescape.json](./116903-officeescape.json) |
 | Officers | 21119 | [21119-officers.json](./21119-officers.json) |
 | Officers: World War II - Operation Overlord | 27585 | [27585-officers-world-war-ii-operation-overlord.json](./27585-officers-world-war-ii-operation-overlord.json) |
@@ -3886,6 +3887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaws + Handful of Missions: Remaster | 361823 | [361823-outlaws-handful-of-missions-remaster.json](./361823-outlaws-handful-of-missions-remaster.json) |
 | Outlaws of the Old West | 115549 | [115549-outlaws-of-the-old-west.json](./115549-outlaws-of-the-old-west.json) |
 | Outlaws: Corwin's Treasure | 133153 | [133153-outlaws-corwins-treasure.json](./133153-outlaws-corwins-treasure.json) |
+| OutlawZ: Headhunter | 292362 | [292362-outlawz-headhunter.json](./292362-outlawz-headhunter.json) |
 | Outlets Rush | 297247 | [297247-outlets-rush.json](./297247-outlets-rush.json) |
 | Outline | 134343 | [134343-outline.json](./134343-outline.json) |
 | Outline Dust | 216962 | [216962-outline-dust.json](./216962-outline-dust.json) |
