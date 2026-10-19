@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
 | G-Mode Archives 46: Keitai Shoujo: Koi+Hime - Koi ni Ochita Cinderella-hime | 251463 | [251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json](./251463-g-mode-archives-46-keitai-shoujo-koi-hime-koi-ni-ochita-cinderella-hime.json) |
 | G-Mode Archives 47: 12Gems | 251462 | [251462-g-mode-archives-47-12gems.json](./251462-g-mode-archives-47-12gems.json) |
+| G-Mode Archives 53: Daienkai Buchou | 280075 | [280075-g-mode-archives-53-daienkai-buchou.json](./280075-g-mode-archives-53-daienkai-buchou.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
 | G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
@@ -818,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamble Life | 416631 | [416631-gamble-life.json](./416631-gamble-life.json) |
 | Gamble With Your Friends | 361027 | [361027-gamble-with-your-friends.json](./361027-gamble-with-your-friends.json) |
 | Gamble: Hard Exit | 389481 | [389481-gamble-hard-exit.json](./389481-gamble-hard-exit.json) |
+| Gamblemancer TD | 280101 | [280101-gamblemancer-td.json](./280101-gamblemancer-td.json) |
 | Gambler Densetsu Tetsuya: Shinjuku Tenun-hen | 281451 | [281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json](./281451-gambler-densetsu-tetsuya-shinjuku-tenun-hen.json) |
 | Gambler Jiko Chuushin-ha 2: Dorapon Quest | 44406 | [44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json](./44406-gambler-jiko-chuushin-ha-2-dorapon-quest.json) |
 | Gambler Jiko Chuushinha | 64340 | [64340-gambler-jiko-chuushinha.json](./64340-gambler-jiko-chuushinha.json) |
