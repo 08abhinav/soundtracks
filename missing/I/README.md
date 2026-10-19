@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immoral Ward | 22483 | [22483-immoral-ward.json](./22483-immoral-ward.json) |
 | Immortal | 320348 | [320348-immortal.json](./320348-immortal.json) |
 | Immortal Awakening | 227252 | [227252-immortal-awakening.json](./227252-immortal-awakening.json) |
+| Immortal Beast | 273789 | [273789-immortal-beast.json](./273789-immortal-beast.json) |
 | Immortal Blade | 220284 | [220284-immortal-blade.json](./220284-immortal-blade.json) |
 | Immortal Chess | 413174 | [413174-immortal-chess.json](./413174-immortal-chess.json) |
 | Immortal Cities: Nile Online | 11274 | [11274-immortal-cities-nile-online.json](./11274-immortal-cities-nile-online.json) |
@@ -3523,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgency: Sandstorm - Mountain Tactical Gear Set | 273935 | [273935-insurgency-sandstorm-mountain-tactical-gear-set.json](./273935-insurgency-sandstorm-mountain-tactical-gear-set.json) |
 | Insurgency: Sandstorm - Onslaught Set Bundle | 273934 | [273934-insurgency-sandstorm-onslaught-set-bundle.json](./273934-insurgency-sandstorm-onslaught-set-bundle.json) |
 | Insurgency: Sandstorm - Protective Gear Set | 321158 | [321158-insurgency-sandstorm-protective-gear-set.json](./321158-insurgency-sandstorm-protective-gear-set.json) |
+| Insurgency: Sandstorm - Ultimate Edition | 273796 | [273796-insurgency-sandstorm-ultimate-edition.json](./273796-insurgency-sandstorm-ultimate-edition.json) |
 | Insurgency: Sandstorm - Wheat Weapon Skin Set | 374763 | [374763-insurgency-sandstorm-wheat-weapon-skin-set.json](./374763-insurgency-sandstorm-wheat-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Woodburn Weapon Skin Set | 273831 | [273831-insurgency-sandstorm-woodburn-weapon-skin-set.json](./273831-insurgency-sandstorm-woodburn-weapon-skin-set.json) |
 | Insurgency: Sandstorm - Year 1 Pass | 293920 | [293920-insurgency-sandstorm-year-1-pass.json](./293920-insurgency-sandstorm-year-1-pass.json) |
