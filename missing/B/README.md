@@ -3143,6 +3143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
 | Battlefield Armor | 105359 | [105359-battlefield-armor.json](./105359-battlefield-armor.json) |
+| BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
 | Battlefield Hardline: Deluxe Edition | 99791 | [99791-battlefield-hardline-deluxe-edition.json](./99791-battlefield-hardline-deluxe-edition.json) |
@@ -11285,6 +11286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
+| Brick Buster Blast | 297371 | [297371-brick-buster-blast.json](./297371-brick-buster-blast.json) |
 | Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
 | Brick City | 214526 | [214526-brick-city.json](./214526-brick-city.json) |
 | Brick City Solitaire | 95674 | [95674-brick-city-solitaire.json](./95674-brick-city-solitaire.json) |
