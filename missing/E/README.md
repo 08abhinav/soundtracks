@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Night: The Exodus of the Stars | 349985 | [349985-echoes-of-night-the-exodus-of-the-stars.json](./349985-echoes-of-night-the-exodus-of-the-stars.json) |
 | Echoes of Nocturnal Chords | 284335 | [284335-echoes-of-nocturnal-chords.json](./284335-echoes-of-nocturnal-chords.json) |
 | Echoes of Nothing | 359059 | [359059-echoes-of-nothing.json](./359059-echoes-of-nothing.json) |
+| Echoes of Numa | 262806 | [262806-echoes-of-numa.json](./262806-echoes-of-numa.json) |
 | Echoes of Pinebridge | 390719 | [390719-echoes-of-pinebridge.json](./390719-echoes-of-pinebridge.json) |
 | Echoes of Red | 369141 | [369141-echoes-of-red.json](./369141-echoes-of-red.json) |
 | Echoes of Seasons | 364036 | [364036-echoes-of-seasons.json](./364036-echoes-of-seasons.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Death Moon | 116407 | [116407-escape-from-death-moon.json](./116407-escape-from-death-moon.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
+| Escape from Demon Island | 262794 | [262794-escape-from-demon-island.json](./262794-escape-from-demon-island.json) |
 | Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
@@ -4387,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
+| Eternal Battle VR | 262819 | [262819-eternal-battle-vr.json](./262819-eternal-battle-vr.json) |
 | Eternal Battlefield | 126600 | [126600-eternal-battlefield.json](./126600-eternal-battlefield.json) |
 | Eternal Blade | 412325 | [412325-eternal-blade.json](./412325-eternal-blade.json) |
 | Eternal Blood | 128304 | [128304-eternal-blood.json](./128304-eternal-blood.json) |
@@ -4549,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ether Vapor | 72588 | [72588-ether-vapor.json](./72588-ether-vapor.json) |
+| Ether Versus | 262831 | [262831-ether-versus.json](./262831-ether-versus.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
 | Ethereal | 183955 | [183955-ethereal.json](./183955-ethereal.json) |
 | Ethereal Abyss | 294357 | [294357-ethereal-abyss.json](./294357-ethereal-abyss.json) |
