@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ze Bomber | 388155 | [388155-ze-bomber.json](./388155-ze-bomber.json) |
 | Ze VR | 29958 | [29958-ze-vr.json](./29958-ze-vr.json) |
 | Zeal | 74746 | [74746-zeal.json](./74746-zeal.json) |
+| Zeal-X2 | 281289 | [281289-zeal-x2.json](./281289-zeal-x2.json) |
 | Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
