@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
 | Papa Pear Saga | 18062 | [18062-papa-pear-saga.json](./18062-papa-pear-saga.json) |
 | Papa Sangre | 7698 | [7698-papa-sangre.json](./7698-papa-sangre.json) |
+| Papa-Léguas e Coyote | 281881 | [281881-papa-leguas-e-coyote.json](./281881-papa-leguas-e-coyote.json) |
 | Papa-letras | 290083 | [290083-papa-letras.json](./290083-papa-letras.json) |
 | Papa's Bakeria | 101027 | [101027-papas-bakeria.json](./101027-papas-bakeria.json) |
 | Papa's Burgeria | 77672 | [77672-papas-burgeria.json](./77672-papas-burgeria.json) |
@@ -4327,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pibby: Apocalypse | 266182 | [266182-pibby-apocalypse.json](./266182-pibby-apocalypse.json) |
 | Pic Guesser | 28736 | [28736-pic-guesser.json](./28736-pic-guesser.json) |
 | Pic Happens! | 386471 | [386471-pic-happens.json](./386471-pic-happens.json) |
+| Pic Nic do Mickey | 281884 | [281884-pic-nic-do-mickey.json](./281884-pic-nic-do-mickey.json) |
 | Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
 | Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
@@ -10774,6 +10776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pripyat 0 | 380771 | [380771-pripyat-0.json](./380771-pripyat-0.json) |
 | Pripyat Block 1986 | 285415 | [285415-pripyat-block-1986.json](./285415-pripyat-block-1986.json) |
 | Pripyat-3 | 171509 | [171509-pripyat-3.json](./171509-pripyat-3.json) |
+| Priscila | 281886 | [281886-priscila.json](./281886-priscila.json) |
 | Priscillas Dream | 264681 | [264681-priscillas-dream.json](./264681-priscillas-dream.json) |
 | Prism | 290392 | [290392-prism.json](./290392-prism.json) |
 | Prism | 33514 | [33514-prism.json](./33514-prism.json) |
