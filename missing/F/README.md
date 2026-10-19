@@ -6211,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffland | 183421 | [183421-fluffland.json](./183421-fluffland.json) |
 | Flufftopia | 134696 | [134696-flufftopia.json](./134696-flufftopia.json) |
 | Flufftopia: Fluffmazing Edition | 386272 | [386272-flufftopia-fluffmazing-edition.json](./386272-flufftopia-fluffmazing-edition.json) |
+| Fluffwatch | 279506 | [279506-fluffwatch.json](./279506-fluffwatch.json) |
 | Fluffy | 29808 | [29808-fluffy.json](./29808-fluffy.json) |
 | Fluffy Autumn | 342157 | [342157-fluffy-autumn.json](./342157-fluffy-autumn.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
