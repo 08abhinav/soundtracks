@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclismo: The Old Kingdom | 411100 | [411100-cataclismo-the-old-kingdom.json](./411100-cataclismo-the-old-kingdom.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
+| Cataclysm Survivors | 266109 | [266109-cataclysm-survivors.json](./266109-cataclysm-survivors.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm: Bright Future Ahead | 339303 | [339303-cataclysm-bright-future-ahead.json](./339303-cataclysm-bright-future-ahead.json) |
 | Cataclysm: Bright Nights | 194968 | [194968-cataclysm-bright-nights.json](./194968-cataclysm-bright-nights.json) |
@@ -4145,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
+| Champion of Fighters | 266061 | [266061-champion-of-fighters.json](./266061-champion-of-fighters.json) |
 | Champion of the Gods | 34854 | [34854-champion-of-the-gods.json](./34854-champion-of-the-gods.json) |
 | Champion of the Raj | 11998 | [11998-champion-of-the-raj.json](./11998-champion-of-the-raj.json) |
 | Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
@@ -13063,6 +13065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
 | Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
+| Cropisle TD | 266095 | [266095-cropisle-td.json](./266095-cropisle-td.json) |
 | Cropple | 243963 | [243963-cropple.json](./243963-cropple.json) |
 | Croppy Boy | 157110 | [157110-croppy-boy.json](./157110-croppy-boy.json) |
 | Crops and Conveyors | 189126 | [189126-crops-and-conveyors.json](./189126-crops-and-conveyors.json) |
@@ -13856,6 +13859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalis | 3121 | [3121-crystalis.json](./3121-crystalis.json) |
 | Crystalis | 344164 | [344164-crystalis.json](./344164-crystalis.json) |
 | Crystalis Descendant | 258643 | [258643-crystalis-descendant.json](./258643-crystalis-descendant.json) |
+| Crystalish | 266093 | [266093-crystalish.json](./266093-crystalish.json) |
 | Crystalix | 73466 | [73466-crystalix.json](./73466-crystalix.json) |
 | CrystalKeepers Tower Defense | 276849 | [276849-crystalkeepers-tower-defense.json](./276849-crystalkeepers-tower-defense.json) |
 | Crystalline | 221235 | [221235-crystalline.json](./221235-crystalline.json) |
