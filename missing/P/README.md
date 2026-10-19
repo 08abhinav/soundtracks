@@ -1903,6 +1903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Partway | 422092 | [422092-partway.json](./422092-partway.json) |
 | Party Animal | 92431 | [92431-party-animal.json](./92431-party-animal.json) |
 | Party Animals | 137989 | [137989-party-animals.json](./137989-party-animals.json) |
+| Party Animals: Deluxe Edition | 267777 | [267777-party-animals-deluxe-edition.json](./267777-party-animals-deluxe-edition.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
@@ -12923,6 +12924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppet Fever | 72321 | [72321-puppet-fever.json](./72321-puppet-fever.json) |
 | Puppet Kings | 82853 | [82853-puppet-kings.json](./82853-puppet-kings.json) |
 | Puppet Master RPG | 94786 | [94786-puppet-master-rpg.json](./94786-puppet-master-rpg.json) |
+| Puppet Master: Full Moon Toys - Totem & Mephisto Skins | 267794 | [267794-puppet-master-full-moon-toys-totem-and-mephisto-skins.json](./267794-puppet-master-full-moon-toys-totem-and-mephisto-skins.json) |
 | Puppet Master: The Game | 224610 | [224610-puppet-master-the-game.json](./224610-puppet-master-the-game.json) |
 | Puppet Master: The Game - Curse of the Puppet Master Skin Pack | 255241 | [255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json](./255241-puppet-master-the-game-curse-of-the-puppet-master-skin-pack.json) |
 | Puppet Master: The Game - Dark Horse Skins | 310023 | [310023-puppet-master-the-game-dark-horse-skins.json](./310023-puppet-master-the-game-dark-horse-skins.json) |
