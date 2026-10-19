@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jean's Boutique 2 | 95912 | [95912-jeans-boutique-2.json](./95912-jeans-boutique-2.json) |
 | Jean's Club | 197845 | [197845-jeans-club.json](./197845-jeans-club.json) |
 | Jean's Sundaeria | 90503 | [90503-jeans-sundaeria.json](./90503-jeans-sundaeria.json) |
+| Jeanne d'Arc | 308038 | [308038-jeanne-darc.json](./308038-jeanne-darc.json) |
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jected: Rivals - Expansion Pack | 271144 | [271144-jected-rivals-expansion-pack.json](./271144-jected-rivals-expansion-pack.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
@@ -887,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
 | Jet & Sky | 215588 | [215588-jet-and-sky.json](./215588-jet-and-sky.json) |
+| Jet Ace | 308020 | [308020-jet-ace.json](./308020-jet-ace.json) |
 | Jet Ace | 377241 | [377241-jet-ace.json](./377241-jet-ace.json) |
 | Jet Ant | 110399 | [110399-jet-ant.json](./110399-jet-ant.json) |
 | Jet Ball HD | 41525 | [41525-jet-ball-hd.json](./41525-jet-ball-hd.json) |
