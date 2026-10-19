@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rent-A-Hero | 6001 | [6001-rent-a-hero.json](./6001-rent-a-hero.json) |
 | Rent-A-Hero No. 1 | 6002 | [6002-rent-a-hero-no-1.json](./6002-rent-a-hero-no-1.json) |
 | Rent-a-Vice | 100579 | [100579-rent-a-vice.json](./100579-rent-a-vice.json) |
+| Rental Commander | 292955 | [292955-rental-commander.json](./292955-rental-commander.json) |
 | Rental House | 313336 | [313336-rental-house.json](./313336-rental-house.json) |
 | Rental-ya: Stage-gata Nazotoki Story | 212445 | [212445-rental-ya-stage-gata-nazotoki-story.json](./212445-rental-ya-stage-gata-nazotoki-story.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
@@ -5464,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftshot | 417536 | [417536-riftshot.json](./417536-riftshot.json) |
 | RiftStar Raiders | 27103 | [27103-riftstar-raiders.json](./27103-riftstar-raiders.json) |
 | Riftstorm | 244671 | [244671-riftstorm.json](./244671-riftstorm.json) |
+| Riftstrider | 293009 | [293009-riftstrider.json](./293009-riftstrider.json) |
 | Riftwalker | 112730 | [112730-riftwalker.json](./112730-riftwalker.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
@@ -6143,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Domination | 236860 | [236860-road-domination.json](./236860-road-domination.json) |
 | Road Doom | 108308 | [108308-road-doom.json](./108308-road-doom.json) |
 | Road Drawing 3D | 262337 | [262337-road-drawing-3d.json](./262337-road-drawing-3d.json) |
+| Road Engineer | 292948 | [292948-road-engineer.json](./292948-road-engineer.json) |
 | Road Fighter | 4607 | [4607-road-fighter.json](./4607-road-fighter.json) |
 | Road Hell | 317564 | [317564-road-hell.json](./317564-road-hell.json) |
 | Road Hero | 287547 | [287547-road-hero.json](./287547-road-hero.json) |
