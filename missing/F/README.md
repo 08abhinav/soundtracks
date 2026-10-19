@@ -2351,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
 | Fatal Gem VR | 30863 | [30863-fatal-gem-vr.json](./30863-fatal-gem-vr.json) |
+| Fatal Hearts | 259439 | [259439-fatal-hearts.json](./259439-fatal-hearts.json) |
 | Fatal Heritage | 75150 | [75150-fatal-heritage.json](./75150-fatal-heritage.json) |
 | Fatal Hour: Petroleum | 108357 | [108357-fatal-hour-petroleum.json](./108357-fatal-hour-petroleum.json) |
 | Fatal Inertia EX | 80458 | [80458-fatal-inertia-ex.json](./80458-fatal-inertia-ex.json) |
@@ -3846,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
 | Final Fantasy XIV: Shadowbringers - Collector's Edition | 167106 | [167106-final-fantasy-xiv-shadowbringers-collectors-edition.json](./167106-final-fantasy-xiv-shadowbringers-collectors-edition.json) |
@@ -9354,6 +9356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontline Crisis | 312168 | [312168-frontline-crisis.json](./312168-frontline-crisis.json) |
 | Frontline Defense | 234934 | [234934-frontline-defense.json](./234934-frontline-defense.json) |
 | Frontline Defense 2 | 234935 | [234935-frontline-defense-2.json](./234935-frontline-defense-2.json) |
+| Frontline Force | 259421 | [259421-frontline-force.json](./259421-frontline-force.json) |
 | Frontline Heroes VR | 41914 | [41914-frontline-heroes-vr.json](./41914-frontline-heroes-vr.json) |
 | Frontline Heroes VR: 2017 Edition | 170878 | [170878-frontline-heroes-vr-2017-edition.json](./170878-frontline-heroes-vr-2017-edition.json) |
 | Frontline Logistics: Isarian Warfare | 362762 | [362762-frontline-logistics-isarian-warfare.json](./362762-frontline-logistics-isarian-warfare.json) |
