@@ -1159,6 +1159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monsters | 151815 | [151815-idle-monsters.json](./151815-idle-monsters.json) |
 | Idle Moon Rabbit: AFK RPG | 204487 | [204487-idle-moon-rabbit-afk-rpg.json](./204487-idle-moon-rabbit-afk-rpg.json) |
 | Idle Muscle Up | 389714 | [389714-idle-muscle-up.json](./389714-idle-muscle-up.json) |
+| Idle Museum Tycoon: Art Empire | 290288 | [290288-idle-museum-tycoon-art-empire.json](./290288-idle-museum-tycoon-art-empire.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Nine Heavens | 294072 | [294072-idle-nine-heavens.json](./294072-idle-nine-heavens.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
@@ -2418,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and the Lost Puzzles | 61042 | [61042-indiana-jones-and-the-lost-puzzles.json](./61042-indiana-jones-and-the-lost-puzzles.json) |
 | Indiana Jones and the Passage of Saints | 395733 | [395733-indiana-jones-and-the-passage-of-saints.json](./395733-indiana-jones-and-the-passage-of-saints.json) |
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
+| Indiana Jones and the Temple of Doom | 290273 | [290273-indiana-jones-and-the-temple-of-doom.json](./290273-indiana-jones-and-the-temple-of-doom.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
 | Indiana Jones in Revenge of the Ancients | 22218 | [22218-indiana-jones-in-revenge-of-the-ancients.json](./22218-indiana-jones-in-revenge-of-the-ancients.json) |
 | Indiana Jones in the Lost Kingdom | 25862 | [25862-indiana-jones-in-the-lost-kingdom.json](./25862-indiana-jones-in-the-lost-kingdom.json) |
