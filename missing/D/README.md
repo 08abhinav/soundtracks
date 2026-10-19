@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Kiwi | 282569 | [282569-detective-kiwi.json](./282569-detective-kiwi.json) |
 | Detective Kobayashi | 118321 | [118321-detective-kobayashi.json](./118321-detective-kobayashi.json) |
 | Detective Lin: Time Murder Frenzy | 301915 | [301915-detective-lin-time-murder-frenzy.json](./301915-detective-lin-time-murder-frenzy.json) |
+| Detective Luigi | 286424 | [286424-detective-luigi.json](./286424-detective-luigi.json) |
 | Detective Mane | 357365 | [357365-detective-mane.json](./357365-detective-mane.json) |
 | Detective March Forward: The Missing Will | 132268 | [132268-detective-march-forward-the-missing-will.json](./132268-detective-march-forward-the-missing-will.json) |
 | Detective Masochist -The Case of the Femdom Torture- | 127660 | [127660-detective-masochist-the-case-of-the-femdom-torture.json](./127660-detective-masochist-the-case-of-the-femdom-torture.json) |
