@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force: World Brothers 2 - World's Greatest Engineer, Air Raider (EDF5) Civilian Outfit: Reskin | 325424 | [325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json](./325424-earth-defense-force-world-brothers-2-worlds-greatest-engineer-air-raider-edf5-civilian-outfit-reskin.json) |
 | Earth Defense Forces 2 Portable | 42835 | [42835-earth-defense-forces-2-portable.json](./42835-earth-defense-forces-2-portable.json) |
 | Earth Dies Screaming | 40614 | [40614-earth-dies-screaming.json](./40614-earth-dies-screaming.json) |
+| Earth Editor | 288086 | [288086-earth-editor.json](./288086-earth-editor.json) |
 | Earth Eternal | 67668 | [67668-earth-eternal.json](./67668-earth-eternal.json) |
 | Earth Forge | 405628 | [405628-earth-forge.json](./405628-earth-forge.json) |
 | Earth Impact | 99135 | [99135-earth-impact.json](./99135-earth-impact.json) |
@@ -3285,6 +3286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
 | Epic Racers | 198460 | [198460-epic-racers.json](./198460-epic-racers.json) |
 | Epic Racers | 233642 | [233642-epic-racers.json](./233642-epic-racers.json) |
+| Epic Rogue | 288050 | [288050-epic-rogue.json](./288050-epic-rogue.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Candyland | 243695 | [243695-epic-roller-coasters-candyland.json](./243695-epic-roller-coasters-candyland.json) |
