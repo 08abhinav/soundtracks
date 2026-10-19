@@ -2751,6 +2751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
 | Tell Me Your Story: Special Edition | 328785 | [328785-tell-me-your-story-special-edition.json](./328785-tell-me-your-story-special-edition.json) |
 | Tell The Forest To F*ck Off | 135781 | [135781-tell-the-forest-to-f-ck-off.json](./135781-tell-the-forest-to-f-ck-off.json) |
+| Tell: Das Spiel zum Film | 304972 | [304972-tell-das-spiel-zum-film.json](./304972-tell-das-spiel-zum-film.json) |
 | Teller's Duty | 336022 | [336022-tellers-duty.json](./336022-tellers-duty.json) |
 | Telling Lies | 51528 | [51528-telling-lies.json](./51528-telling-lies.json) |
 | Telltale Batman Shadows Edition | 127560 | [127560-telltale-batman-shadows-edition.json](./127560-telltale-batman-shadows-edition.json) |
@@ -11894,6 +11895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shadow of the Warring States Period | 348872 | [348872-the-shadow-of-the-warring-states-period.json](./348872-the-shadow-of-the-warring-states-period.json) |
 | The Shadow of Yserbius | 54684 | [54684-the-shadow-of-yserbius.json](./54684-the-shadow-of-yserbius.json) |
 | The Shadow of Zorro | 27627 | [27627-the-shadow-of-zorro.json](./27627-the-shadow-of-zorro.json) |
+| The Shadow Over Cyberspace | 304976 | [304976-the-shadow-over-cyberspace.json](./304976-the-shadow-over-cyberspace.json) |
 | The Shadow People | 222938 | [222938-the-shadow-people.json](./222938-the-shadow-people.json) |
 | The Shadow Realms: Arcade | 311327 | [311327-the-shadow-realms-arcade.json](./311327-the-shadow-realms-arcade.json) |
 | The Shadow Ritual | 379166 | [379166-the-shadow-ritual.json](./379166-the-shadow-ritual.json) |
