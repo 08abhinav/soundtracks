@@ -10066,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
 | SlipDrive | 104553 | [104553-slipdrive.json](./104553-slipdrive.json) |
 | Slipgate to a Lost Dimension | 271188 | [271188-slipgate-to-a-lost-dimension.json](./271188-slipgate-to-a-lost-dimension.json) |
+| Slippery Heights | 280110 | [280110-slippery-heights.json](./280110-slippery-heights.json) |
 | Slippery ice | 177008 | [177008-slippery-ice.json](./177008-slippery-ice.json) |
 | Slippery Richard!: He's Taller Than My Husband | 225100 | [225100-slippery-richard-hes-taller-than-my-husband.json](./225100-slippery-richard-hes-taller-than-my-husband.json) |
 | Slippery Sammy | 252982 | [252982-slippery-sammy.json](./252982-slippery-sammy.json) |
@@ -10309,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Bird Poem | 348580 | [348580-small-bird-poem.json](./348580-small-bird-poem.json) |
 | Small Buttons | 96768 | [96768-small-buttons.json](./96768-small-buttons.json) |
 | Small Cell | 224657 | [224657-small-cell.json](./224657-small-cell.json) |
+| Small Demon | 280107 | [280107-small-demon.json](./280107-small-demon.json) |
 | Small Dragon Big Appetite | 340360 | [340360-small-dragon-big-appetite.json](./340360-small-dragon-big-appetite.json) |
 | Small Hero Survive | 301624 | [301624-small-hero-survive.json](./301624-small-hero-survive.json) |
 | Small Iron | 156897 | [156897-small-iron.json](./156897-small-iron.json) |
@@ -10964,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatcher | 197937 | [197937-snatcher.json](./197937-snatcher.json) |
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
 | Snatcher | 417289 | [417289-snatcher.json](./417289-snatcher.json) |
+| Snatchy Carrots | 280086 | [280086-snatchy-carrots.json](./280086-snatchy-carrots.json) |
 | Snave | 296000 | [296000-snave.json](./296000-snave.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
@@ -16724,6 +16727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
+| Spriggan | 280118 | [280118-spriggan.json](./280118-spriggan.json) |
 | Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
 | Spriggan: Lunar Verse | 43768 | [43768-spriggan-lunar-verse.json](./43768-spriggan-lunar-verse.json) |
@@ -25058,6 +25062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival 2: Get Lucky | 65417 | [65417-survival-2-get-lucky.json](./65417-survival-2-get-lucky.json) |
 | Survival 456 But It's Impostor | 223899 | [223899-survival-456-but-its-impostor.json](./223899-survival-456-but-its-impostor.json) |
 | Survival Academy | 223379 | [223379-survival-academy.json](./223379-survival-academy.json) |
+| Survival Advanced | 280089 | [280089-survival-advanced.json](./280089-survival-advanced.json) |
 | Survival Adventures Collection | 332487 | [332487-survival-adventures-collection.json](./332487-survival-adventures-collection.json) |
 | Survival After War | 319773 | [319773-survival-after-war.json](./319773-survival-after-war.json) |
 | Survival Arena | 76568 | [76568-survival-arena.json](./76568-survival-arena.json) |
