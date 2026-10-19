@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 2: CR Shinseiki Evangelion - Shito, Futatabi | 269627 | [269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json](./269627-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-2-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 3: Shinseiki Evangelion - Yakusoku no Toki | 269629 | [269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json](./269629-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-3-shinseiki-evangelion-yakusoku-no-toki.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series DS Vol. 4: CR Shinseiki Evangelion - Saigo no Shisha | 269628 | [269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json](./269628-hisshou-pachinko-pachi-slot-kouryaku-series-ds-vol-4-cr-shinseiki-evangelion-saigo-no-shisha.json) |
+| Hisshou Pachinko Pachi-Slot Kouryaku Series Portable Vol. 1: Shinseiki Evangelion Tamashii no Kiseki | 269431 | [269431-hisshou-pachinko-pachi-slot-kouryaku-series-portable-vol-1-shinseiki-evangelion-tamashii-no-kiseki.json](./269431-hisshou-pachinko-pachi-slot-kouryaku-series-portable-vol-1-shinseiki-evangelion-tamashii-no-kiseki.json) |
 | Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14: CR Shinseiki Evangelion - Saigo no Mono | 61581 | [61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json](./61581-hisshou-pachinko-pachi-slot-kouryaku-series-vol-14-cr-shinseiki-evangelion-saigo-no-mono.json) |
 | Hisshou Pachinko Pachislot Kouryaku Series Vol. 13: Neon Genesis Evangelion - Yakusoku no Toki | 357011 | [357011-hisshou-pachinko-pachislot-kouryaku-series-vol-13-neon-genesis-evangelion-yakusoku-no-toki.json](./357011-hisshou-pachinko-pachislot-kouryaku-series-vol-13-neon-genesis-evangelion-yakusoku-no-toki.json) |
 | Hisshou Pachinko: Pachi-Slot Kouryoku Series Vol. 9: CR Fever Captain Harlock | 97315 | [97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json](./97315-hisshou-pachinko-pachi-slot-kouryoku-series-vol-9-cr-fever-captain-harlock.json) |
@@ -8689,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hundred Soul: The Last Savior | 174678 | [174678-hundred-soul-the-last-savior.json](./174678-hundred-soul-the-last-savior.json) |
 | Hundred Swords | 12435 | [12435-hundred-swords.json](./12435-hundred-swords.json) |
 | Hundreds | 21905 | [21905-hundreds.json](./21905-hundreds.json) |
+| Hundreds & Thousands | 269450 | [269450-hundreds-and-thousands.json](./269450-hundreds-and-thousands.json) |
 | Hundreds of Mysteries: Season1 | 174066 | [174066-hundreds-of-mysteries-season1.json](./174066-hundreds-of-mysteries-season1.json) |
 | Hundredth | 208036 | [208036-hundredth.json](./208036-hundredth.json) |
 | Hundun | 157389 | [157389-hundun.json](./157389-hundun.json) |
