@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Warp Spasm | 196631 | [196631-quake-warp-spasm.json](./196631-quake-warp-spasm.json) |
 | Quake3Quest | 328304 | [328304-quake3quest.json](./328304-quake3quest.json) |
 | Quakeguy Goes to White Castle | 271234 | [271234-quakeguy-goes-to-white-castle.json](./271234-quakeguy-goes-to-white-castle.json) |
+| QuakeWorld | 300456 | [300456-quakeworld.json](./300456-quakeworld.json) |
 | Qual a Capa? | 227489 | [227489-qual-a-capa.json](./227489-qual-a-capa.json) |
 | Qualatro | 380535 | [380535-qualatro.json](./380535-qualatro.json) |
 | Qualia | 325349 | [325349-qualia.json](./325349-qualia.json) |
@@ -940,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quod Init Exit IIo | 403558 | [403558-quod-init-exit-iio.json](./403558-quod-init-exit-iio.json) |
 | Quod: Episode 1 | 288185 | [288185-quod-episode-1.json](./288185-quod-episode-1.json) |
 | Quodan: Treachery on the Arheid | 333137 | [333137-quodan-treachery-on-the-arheid.json](./333137-quodan-treachery-on-the-arheid.json) |
+| Quondam | 300458 | [300458-quondam.json](./300458-quondam.json) |
 | Quondam | 325321 | [325321-quondam.json](./325321-quondam.json) |
 | Quote Codes | 80855 | [80855-quote-codes.json](./80855-quote-codes.json) |
 | Quote Unquote: Crossword puzzles meet famous quotations! | 70899 | [70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json](./70899-quote-unquote-crossword-puzzles-meet-famous-quotations.json) |
