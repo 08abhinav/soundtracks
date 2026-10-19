@@ -5097,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Road to Legend - The Delve | 166009 | [166009-descent-road-to-legend-the-delve.json](./166009-descent-road-to-legend-the-delve.json) |
 | Descent: Road to Legend - Trials of Frostgate | 171576 | [171576-descent-road-to-legend-trials-of-frostgate.json](./171576-descent-road-to-legend-trials-of-frostgate.json) |
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
+| Descent: The Dark Corridors | 298450 | [298450-descent-the-dark-corridors.json](./298450-descent-the-dark-corridors.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
 | DescTop | 369331 | [369331-desctop.json](./369331-desctop.json) |
 | Desdemona | 150545 | [150545-desdemona.json](./150545-desdemona.json) |
@@ -6365,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Died | 305915 | [305915-died.json](./305915-died.json) |
 | Died of Fear | 44183 | [44183-died-of-fear.json](./44183-died-of-fear.json) |
 | DieFeen | 305161 | [305161-diefeen.json](./305161-diefeen.json) |
+| Diegesis of The Ruined | 298451 | [298451-diegesis-of-the-ruined.json](./298451-diegesis-of-the-ruined.json) |
 | Diego Balls | 343830 | [343830-diego-balls.json](./343830-diego-balls.json) |
 | Diego: Mission Red Tomato | 160211 | [160211-diego-mission-red-tomato.json](./160211-diego-mission-red-tomato.json) |
 | Diemi | 375352 | [375352-diemi.json](./375352-diemi.json) |
@@ -7732,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Guns: The Russo-Japanese War at Sea | 63179 | [63179-distant-guns-the-russo-japanese-war-at-sea.json](./63179-distant-guns-the-russo-japanese-war-at-sea.json) |
 | Distant Lands: Earendel | 335123 | [335123-distant-lands-earendel.json](./335123-distant-lands-earendel.json) |
 | Distant Nightmare | 37044 | [37044-distant-nightmare.json](./37044-distant-nightmare.json) |
+| Distant Oceanic Getaway | 298371 | [298371-distant-oceanic-getaway.json](./298371-distant-oceanic-getaway.json) |
 | Distant Paradise | 402858 | [402858-distant-paradise.json](./402858-distant-paradise.json) |
 | Distant Realm | 337160 | [337160-distant-realm.json](./337160-distant-realm.json) |
 | Distant Shore: Bretagne | 379126 | [379126-distant-shore-bretagne.json](./379126-distant-shore-bretagne.json) |
