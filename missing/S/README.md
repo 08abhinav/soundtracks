@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
 | Sapo & Watch | 308019 | [308019-sapo-and-watch.json](./308019-sapo-and-watch.json) |
 | Sapo 2 | 332291 | [332291-sapo-2.json](./332291-sapo-2.json) |
+| Sapo 3D | 301123 | [301123-sapo-3d.json](./301123-sapo-3d.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
@@ -5895,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Impact | 81859 | [81859-shield-impact.json](./81859-shield-impact.json) |
 | Shield of Breaker | 380118 | [380118-shield-of-breaker.json](./380118-shield-of-breaker.json) |
 | Shield of Shalwend | 133126 | [133126-shield-of-shalwend.json](./133126-shield-of-shalwend.json) |
+| Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shields of Loyalty | 156040 | [156040-shields-of-loyalty.json](./156040-shields-of-loyalty.json) |
@@ -10474,6 +10476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile to Fly | 123975 | [123975-smile-to-fly.json](./123975-smile-to-fly.json) |
 | Smile Town | 338191 | [338191-smile-town.json](./338191-smile-town.json) |
 | Smile Town | 397229 | [397229-smile-town.json](./397229-smile-town.json) |
+| Smile-X 4 | 301125 | [301125-smile-x-4.json](./301125-smile-x-4.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
@@ -18697,6 +18700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
+| Starward | 301139 | [301139-starward.json](./301139-starward.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -25201,6 +25205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suske en Wiske: De Texas Rakkers | 305432 | [305432-suske-en-wiske-de-texas-rakkers.json](./305432-suske-en-wiske-de-texas-rakkers.json) |
 | Suspect: The Run! | 235143 | [235143-suspect-the-run.json](./235143-suspect-the-run.json) |
 | Suspecto | 374193 | [374193-suspecto.json](./374193-suspecto.json) |
+| Suspects Room: Keishichou Monzensho Torishirabe-han | 301143 | [301143-suspects-room-keishichou-monzensho-torishirabe-han.json](./301143-suspects-room-keishichou-monzensho-torishirabe-han.json) |
 | Suspects: Mobile Detective | 218056 | [218056-suspects-mobile-detective.json](./218056-suspects-mobile-detective.json) |
 | Suspects: Mystery Mansion | 143591 | [143591-suspects-mystery-mansion.json](./143591-suspects-mystery-mansion.json) |
 | Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
