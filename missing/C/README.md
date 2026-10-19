@@ -23,6 +23,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C:\raft | 34862 | [34862-c-raft.json](./34862-c-raft.json) |
 | C. Kane | 34880 | [34880-c-kane.json](./34880-c-kane.json) |
 | C.A.G.E. | 414376 | [414376-c-a-g-e.json](./414376-c-a-g-e.json) |
+| C.A.P.I | 307422 | [307422-c-a-p-i.json](./307422-c-a-p-i.json) |
 | C.A.P.S.: Cyber Animal Planet Survival | 195969 | [195969-c-a-p-s-cyber-animal-planet-survival.json](./195969-c-a-p-s-cyber-animal-planet-survival.json) |
 | C.A.R.D.S. RPG: The Misty Battlefield | 273624 | [273624-c-a-r-d-s-rpg-the-misty-battlefield.json](./273624-c-a-r-d-s-rpg-the-misty-battlefield.json) |
 | C.A.R.L. | 201711 | [201711-c-a-r-l.json](./201711-c-a-r-l.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Love!! | 137322 | [137322-captain-love.json](./137322-captain-love.json) |
 | Captain MaCaw | 110165 | [110165-captain-macaw.json](./110165-captain-macaw.json) |
 | Captain MaCaw 2 | 238594 | [238594-captain-macaw-2.json](./238594-captain-macaw-2.json) |
+| Captain Mario | 307412 | [307412-captain-mario.json](./307412-captain-mario.json) |
 | Captain Mayo | 137491 | [137491-captain-mayo.json](./137491-captain-mayo.json) |
 | Captain McSpacebiff | 301981 | [301981-captain-mcspacebiff.json](./301981-captain-mcspacebiff.json) |
 | Captain Meow | 239672 | [239672-captain-meow.json](./239672-captain-meow.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Breaker | 105290 | [105290-claw-breaker.json](./105290-claw-breaker.json) |
 | Claw Dropper | 365720 | [365720-claw-dropper.json](./365720-claw-dropper.json) |
 | Claw Express | 270384 | [270384-claw-express.json](./270384-claw-express.json) |
+| Claw Machine | 307372 | [307372-claw-machine.json](./307372-claw-machine.json) |
 | Claw Machine Arcade | 303218 | [303218-claw-machine-arcade.json](./303218-claw-machine-arcade.json) |
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
 | Clawball | 295640 | [295640-clawball.json](./295640-clawball.json) |
@@ -14666,6 +14669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Flyer | 180580 | [180580-cyber-flyer.json](./180580-cyber-flyer.json) |
 | Cyber Girl 1.0: Booting | 154585 | [154585-cyber-girl-1-0-booting.json](./154585-cyber-girl-1-0-booting.json) |
 | Cyber Girls | 376754 | [376754-cyber-girls.json](./376754-cyber-girls.json) |
+| Cyber Grannies | 307383 | [307383-cyber-grannies.json](./307383-cyber-grannies.json) |
 | Cyber Gunner | 208095 | [208095-cyber-gunner.json](./208095-cyber-gunner.json) |
 | Cyber Hamster Tilt | 186049 | [186049-cyber-hamster-tilt.json](./186049-cyber-hamster-tilt.json) |
 | Cyber Heart | 247977 | [247977-cyber-heart.json](./247977-cyber-heart.json) |
