@@ -2285,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbanger's Heaven: A Rock & Roll Adventure | 169893 | [169893-headbangers-heaven-a-rock-and-roll-adventure.json](./169893-headbangers-heaven-a-rock-and-roll-adventure.json) |
 | Headbangers Heaven | 250637 | [250637-headbangers-heaven.json](./250637-headbangers-heaven.json) |
 | Headbängers in Holiday Hell | 141232 | [141232-headbangers-in-holiday-hell.json](./141232-headbangers-in-holiday-hell.json) |
+| Headbangers: Feeling Peckish | 289201 | [289201-headbangers-feeling-peckish.json](./289201-headbangers-feeling-peckish.json) |
 | Headbangers: Fright or Flight | 279539 | [279539-headbangers-fright-or-flight.json](./279539-headbangers-fright-or-flight.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
@@ -3722,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Amazing Edition | 317912 | [317912-hentai-golf-amazing-edition.json](./317912-hentai-golf-amazing-edition.json) |
 | Hentai Golf: Complete + | 324468 | [324468-hentai-golf-complete.json](./324468-hentai-golf-complete.json) |
 | Hentai Golf: Deluxe Edition | 283178 | [283178-hentai-golf-deluxe-edition.json](./283178-hentai-golf-deluxe-edition.json) |
+| Hentai Golf: Extended Edition | 289200 | [289200-hentai-golf-extended-edition.json](./289200-hentai-golf-extended-edition.json) |
 | Hentai Golf: Golf Ball Set 1 | 317658 | [317658-hentai-golf-golf-ball-set-1.json](./317658-hentai-golf-golf-ball-set-1.json) |
 | Hentai Golf: Golf Ball Set 2 | 317659 | [317659-hentai-golf-golf-ball-set-2.json](./317659-hentai-golf-golf-ball-set-2.json) |
 | Hentai Golf: Golf Ball Set 3 | 317661 | [317661-hentai-golf-golf-ball-set-3.json](./317661-hentai-golf-golf-ball-set-3.json) |
