@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement | 28221 | [28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json](./28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json) |
 | Hamlet: The Text Adventure | 146192 | [146192-hamlet-the-text-adventure.json](./146192-hamlet-the-text-adventure.json) |
+| Hammal | 287521 | [287521-hammal.json](./287521-hammal.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
@@ -1137,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Balloons | 57368 | [57368-happy-balloons.json](./57368-happy-balloons.json) |
 | Happy Bang Express | 252707 | [252707-happy-bang-express.json](./252707-happy-bang-express.json) |
 | Happy Bell Lovex2 Honeymoon | 77905 | [77905-happy-bell-lovex2-honeymoon.json](./77905-happy-bell-lovex2-honeymoon.json) |
+| Happy Biqi | 287522 | [287522-happy-biqi.json](./287522-happy-biqi.json) |
 | Happy Bird | 312034 | [312034-happy-bird.json](./312034-happy-bird.json) |
 | Happy Bird Day | 275726 | [275726-happy-bird-day.json](./275726-happy-bird-day.json) |
 | Happy Birthday | 151574 | [151574-happy-birthday.json](./151574-happy-birthday.json) |
@@ -2160,9 +2162,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayaoshi Quiz: Ouza Ketteisen | 228557 | [228557-hayaoshi-quiz-ouza-ketteisen.json](./228557-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayaoshi Quiz: Ouza Ketteisen | 228558 | [228558-hayaoshi-quiz-ouza-ketteisen.json](./228558-hayaoshi-quiz-ouza-ketteisen.json) |
 | Hayarigami 1, 2, 3 Pack | 247192 | [247192-hayarigami-1-2-3-pack.json](./247192-hayarigami-1-2-3-pack.json) |
+| Hayarigami 2 DS: Toshidensetsu Kaii Jiken | 287492 | [287492-hayarigami-2-ds-toshidensetsu-kaii-jiken.json](./287492-hayarigami-2-ds-toshidensetsu-kaii-jiken.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 259604 | [259604-hayarigami-2-keishichou-kaii-jiken-file.json](./259604-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami 2: Keishichou Kaii Jiken File | 79330 | [79330-hayarigami-2-keishichou-kaii-jiken-file.json](./79330-hayarigami-2-keishichou-kaii-jiken-file.json) |
 | Hayarigami 3: Keishichou Kaii Jiken File | 259603 | [259603-hayarigami-3-keishichou-kaii-jiken-file.json](./259603-hayarigami-3-keishichou-kaii-jiken-file.json) |
+| Hayarigami DS: Toshi Densetsu Kaii Jiken | 287490 | [287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json](./287490-hayarigami-ds-toshi-densetsu-kaii-jiken.json) |
 | Hayarigami Portable: Keishichou Kaii Jiken File | 79329 | [79329-hayarigami-portable-keishichou-kaii-jiken-file.json](./79329-hayarigami-portable-keishichou-kaii-jiken-file.json) |
 | Hayarigami: Keishichou Kaii Jiken File | 259602 | [259602-hayarigami-keishichou-kaii-jiken-file.json](./259602-hayarigami-keishichou-kaii-jiken-file.json) |
 | Hayate no Gotoku! Boku ga Romeo de Romeo ga Boku de | 78727 | [78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json](./78727-hayate-no-gotoku-boku-ga-romeo-de-romeo-ga-boku-de.json) |
@@ -2925,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
 | Hell | 184834 | [184834-hell.json](./184834-hell.json) |
+| Hell | 287523 | [287523-hell.json](./287523-hell.json) |
 | Hell Apartment | 415448 | [415448-hell-apartment.json](./415448-hell-apartment.json) |
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
 | Hell Awaits | 229366 | [229366-hell-awaits.json](./229366-hell-awaits.json) |
@@ -5640,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Racer | 300727 | [300727-highway-racer.json](./300727-highway-racer.json) |
 | Highway Racer HD | 237382 | [237382-highway-racer-hd.json](./237382-highway-racer-hd.json) |
 | Highway Racing | 247040 | [247040-highway-racing.json](./247040-highway-racing.json) |
+| Highway Racing 2 | 287524 | [287524-highway-racing-2.json](./287524-highway-racing-2.json) |
 | Highway Rally | 8037 | [8037-highway-rally.json](./8037-highway-rally.json) |
 | Highway Rampage | 213486 | [213486-highway-rampage.json](./213486-highway-rampage.json) |
 | Highway Rider | 86999 | [86999-highway-rider.json](./86999-highway-rider.json) |
@@ -6151,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitstun | 242446 | [242446-hitstun.json](./242446-hitstun.json) |
 | Hitsuji no Hakobune | 408308 | [408308-hitsuji-no-hakobune.json](./408308-hitsuji-no-hakobune.json) |
 | Hitsuji Shitsuji | 207041 | [207041-hitsuji-shitsuji.json](./207041-hitsuji-shitsuji.json) |
+| Hitting | 287525 | [287525-hitting.json](./287525-hitting.json) |
 | Hitting Mices | 212730 | [212730-hitting-mices.json](./212730-hitting-mices.json) |
 | HitTube | 323426 | [323426-hittube.json](./323426-hittube.json) |
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
@@ -8915,6 +8922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
+| Hurry | 287526 | [287526-hurry.json](./287526-hurry.json) |
 | Hurry Gaery! | 338679 | [338679-hurry-gaery.json](./338679-hurry-gaery.json) |
 | Hurry Hurry Heal Me | 185465 | [185465-hurry-hurry-heal-me.json](./185465-hurry-hurry-heal-me.json) |
 | Hurry Up Bird Hunter! | 82107 | [82107-hurry-up-bird-hunter.json](./82107-hurry-up-bird-hunter.json) |
