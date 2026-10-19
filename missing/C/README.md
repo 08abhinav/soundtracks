@@ -3305,6 +3305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Cozy Places | 308648 | [308648-cats-hidden-in-cozy-places.json](./308648-cats-hidden-in-cozy-places.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
+| Cats Hidden in Japan | 280654 | [280654-cats-hidden-in-japan.json](./280654-cats-hidden-in-japan.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
 | Cats Hidden Timeline | 311896 | [311896-cats-hidden-timeline.json](./311896-cats-hidden-timeline.json) |
@@ -6865,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Transport Simulator: E1 Vienna Add-On | 359610 | [359610-city-transport-simulator-e1-vienna-add-on.json](./359610-city-transport-simulator-e1-vienna-add-on.json) |
 | City Transport Simulator: GT8N Mannheim​ Add-On | 359613 | [359613-city-transport-simulator-gt8n-mannheim-add-on.json](./359613-city-transport-simulator-gt8n-mannheim-add-on.json) |
 | City Transport Simulator: StadtRegioTram Add-On | 359614 | [359614-city-transport-simulator-stadtregiotram-add-on.json](./359614-city-transport-simulator-stadtregiotram-add-on.json) |
+| City Transport Simulator: Tram | 280681 | [280681-city-transport-simulator-tram.json](./280681-city-transport-simulator-tram.json) |
 | City Transport Simulator: Tram - Deluxe Edition | 331271 | [331271-city-transport-simulator-tram-deluxe-edition.json](./331271-city-transport-simulator-tram-deluxe-edition.json) |
 | City Transport Simulator: Tram Depot + Southern-Route Add-On | 359616 | [359616-city-transport-simulator-tram-depot-southern-route-add-on.json](./359616-city-transport-simulator-tram-depot-southern-route-add-on.json) |
 | City Transport Simulator: Type D Vienna Add-On | 359615 | [359615-city-transport-simulator-type-d-vienna-add-on.json](./359615-city-transport-simulator-type-d-vienna-add-on.json) |
@@ -11521,6 +11523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
 | Cozy Designer | 295783 | [295783-cozy-designer.json](./295783-cozy-designer.json) |
 | Cozy Desktop Konbini | 358228 | [358228-cozy-desktop-konbini.json](./358228-cozy-desktop-konbini.json) |
+| Cozy Dream | 280629 | [280629-cozy-dream.json](./280629-cozy-dream.json) |
 | Cozy Dungeons | 304307 | [304307-cozy-dungeons.json](./304307-cozy-dungeons.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
 | Cozy Farm Defense | 415386 | [415386-cozy-farm-defense.json](./415386-cozy-farm-defense.json) |
@@ -14281,6 +14284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cumboy in Space | 370467 | [370467-cumboy-in-space.json](./370467-cumboy-in-space.json) |
 | Cumboy in Space 2 | 370443 | [370443-cumboy-in-space-2.json](./370443-cumboy-in-space-2.json) |
 | Cumdor no Tou: Zetsubou no Majo | 342061 | [342061-cumdor-no-tou-zetsubou-no-majo.json](./342061-cumdor-no-tou-zetsubou-no-majo.json) |
+| Cumdy | 280660 | [280660-cumdy.json](./280660-cumdy.json) |
 | Cumma Celeritate | 322395 | [322395-cumma-celeritate.json](./322395-cumma-celeritate.json) |
 | Cumming Hotel: A Gay Furry Slice of Life | 225636 | [225636-cumming-hotel-a-gay-furry-slice-of-life.json](./225636-cumming-hotel-a-gay-furry-slice-of-life.json) |
 | Cumming of Age | 371980 | [371980-cumming-of-age.json](./371980-cumming-of-age.json) |
