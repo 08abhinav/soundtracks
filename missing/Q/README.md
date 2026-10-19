@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
+| Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q: A Dystopian Queueing Simulator | 135620 | [135620-q-a-dystopian-queueing-simulator.json](./135620-q-a-dystopian-queueing-simulator.json) |
 | Q: A Neon Platformer | 137962 | [137962-q-a-neon-platformer.json](./137962-q-a-neon-platformer.json) |
