@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
 | Yùxuè Zhànhún | 128327 | [128327-yuxue-zhanhun.json](./128327-yuxue-zhanhun.json) |
+| Yuying Mansion | 258825 | [258825-yuying-mansion.json](./258825-yuying-mansion.json) |
 | YuYu Hakusho | 60531 | [60531-yuyu-hakusho.json](./60531-yuyu-hakusho.json) |
 | YuYu Hakusho | 80401 | [80401-yuyu-hakusho.json](./80401-yuyu-hakusho.json) |
 | YuYu Hakusho 100% Maji Battle | 131397 | [131397-yuyu-hakusho-100-maji-battle.json](./131397-yuyu-hakusho-100-maji-battle.json) |
