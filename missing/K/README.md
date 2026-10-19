@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Revolution: J-POP Best vol.2 | 73233 | [73233-karaoke-revolution-j-pop-best-vol-2.json](./73233-karaoke-revolution-j-pop-best-vol-2.json) |
 | Karaoke Squad | 364693 | [364693-karaoke-squad.json](./364693-karaoke-squad.json) |
 | Karaoke Studio | 79252 | [79252-karaoke-studio.json](./79252-karaoke-studio.json) |
+| Karasu Meltdown! | 277166 | [277166-karasu-meltdown.json](./277166-karasu-meltdown.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
 | Karate | 250219 | [250219-karate.json](./250219-karate.json) |
 | Karate Beasts | 215591 | [215591-karate-beasts.json](./215591-karate-beasts.json) |
