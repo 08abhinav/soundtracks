@@ -1633,7 +1633,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
 | Zoop | 301393 | [301393-zoop.json](./301393-zoop.json) |
 | Zoop | 301395 | [301395-zoop.json](./301395-zoop.json) |
+| Zoop Zoop Bee Adventures 7 | 307394 | [307394-zoop-zoop-bee-adventures-7.json](./307394-zoop-zoop-bee-adventures-7.json) |
 | Zoopaloola | 277235 | [277235-zoopaloola.json](./277235-zoopaloola.json) |
+| ZooPals Mismatch Game | 307397 | [307397-zoopals-mismatch-game.json](./307397-zoopals-mismatch-game.json) |
+| ZooPals Sea Puzzle | 307398 | [307398-zoopals-sea-puzzle.json](./307398-zoopals-sea-puzzle.json) |
+| ZooPals Tic-Tac-Toe | 307396 | [307396-zoopals-tic-tac-toe.json](./307396-zoopals-tic-tac-toe.json) |
 | Zooparasite | 308918 | [308918-zooparasite.json](./308918-zooparasite.json) |
 | Zooplop | 278103 | [278103-zooplop.json](./278103-zooplop.json) |
 | Zooports: The Football | 145303 | [145303-zooports-the-football.json](./145303-zooports-the-football.json) |
