@@ -3504,6 +3504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
+| Nightmare Vortex | 263323 | [263323-nightmare-vortex.json](./263323-nightmare-vortex.json) |
 | Nightmare Within | 311615 | [311615-nightmare-within.json](./311615-nightmare-within.json) |
 | Nightmare Without Return | 216792 | [216792-nightmare-without-return.json](./216792-nightmare-without-return.json) |
 | Nightmare Yokai Village | 222238 | [222238-nightmare-yokai-village.json](./222238-nightmare-yokai-village.json) |
@@ -5790,6 +5791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
 | Nyanko New Japan | 300457 | [300457-nyanko-new-japan.json](./300457-nyanko-new-japan.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
+| NyanNyanConnect | 263332 | [263332-nyannyanconnect.json](./263332-nyannyanconnect.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
