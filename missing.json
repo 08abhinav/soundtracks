@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T04:48:16.944Z",
-  "total_missing": 231427,
+  "generated_at": "2026-10-19T05:03:01.793Z",
+  "total_missing": 231477,
   "games": [
     {
       "igdb_id": 191680,
@@ -57922,6 +57922,11 @@
       "file": "missing/A/67198-arcade-archives-vs-super-mario-bros.json"
     },
     {
+      "igdb_id": 297294,
+      "game_name": "Arcade Archives: vs. Super Xevious Mystery of Gump",
+      "file": "missing/A/297294-arcade-archives-vs-super-xevious-mystery-of-gump.json"
+    },
+    {
       "igdb_id": 147099,
       "game_name": "Arcade Archives: vs. Tennis",
       "file": "missing/A/147099-arcade-archives-vs-tennis.json"
@@ -64067,6 +64072,11 @@
       "file": "missing/A/220743-arrogation-unlight-of-day.json"
     },
     {
+      "igdb_id": 297372,
+      "game_name": "Arrogue",
+      "file": "missing/A/297372-arrogue.json"
+    },
+    {
       "igdb_id": 131325,
       "game_name": "Arrow",
       "file": "missing/A/131325-arrow.json"
@@ -67035,6 +67045,11 @@
       "igdb_id": 276943,
       "game_name": "ASMR Slicing: Joyful Cutting DLC",
       "file": "missing/A/276943-asmr-slicing-joyful-cutting-dlc.json"
+    },
+    {
+      "igdb_id": 297298,
+      "game_name": "ASMR Slicing: Joyful Cutting Edition",
+      "file": "missing/A/297298-asmr-slicing-joyful-cutting-edition.json"
     },
     {
       "igdb_id": 276944,
@@ -94750,6 +94765,11 @@
       "igdb_id": 105359,
       "game_name": "Battlefield Armor",
       "file": "missing/B/105359-battlefield-armor.json"
+    },
+    {
+      "igdb_id": 297373,
+      "game_name": "BattleField BattleFront",
+      "file": "missing/B/297373-battlefield-battlefront.json"
     },
     {
       "igdb_id": 83506,
@@ -135462,6 +135482,11 @@
       "file": "missing/B/421387-brick-buster.json"
     },
     {
+      "igdb_id": 297371,
+      "game_name": "Brick Buster Blast",
+      "file": "missing/B/297371-brick-buster-blast.json"
+    },
+    {
       "igdb_id": 418290,
       "game_name": "Brick by Brick",
       "file": "missing/B/418290-brick-by-brick.json"
@@ -152155,6 +152180,11 @@
       "igdb_id": 287171,
       "game_name": "Cape's Escape Game 7th Room",
       "file": "missing/C/287171-capes-escape-game-7th-room.json"
+    },
+    {
+      "igdb_id": 297311,
+      "game_name": "Cape's Escape Game 8th Room",
+      "file": "missing/C/297311-capes-escape-game-8th-room.json"
     },
     {
       "igdb_id": 176223,
@@ -293157,6 +293187,71 @@
       "file": "missing/E/268010-earth-defense-force-world-brothers-2.json"
     },
     {
+      "igdb_id": 297283,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional Character\" BRB, Freebike Ranger (EDF5)",
+      "file": "missing/E/297283-earth-defense-force-world-brothers-2-additional-character-brb-freebike-ranger-edf5.json"
+    },
+    {
+      "igdb_id": 297282,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" Colonist β",
+      "file": "missing/E/297282-earth-defense-force-world-brothers-2-additional-character-colonist.json"
+    },
+    {
+      "igdb_id": 297281,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" Cosmonaut β",
+      "file": "missing/E/297281-earth-defense-force-world-brothers-2-additional-character-cosmonaut.json"
+    },
+    {
+      "igdb_id": 297280,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" Humanity's Security Officer, Ranger (EDF5)",
+      "file": "missing/E/297280-earth-defense-force-world-brothers-2-additional-character-humanitys-security-officer-ranger-edf5.json"
+    },
+    {
+      "igdb_id": 297279,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" Incredible Cargo Loader, Fencer (EDF5)",
+      "file": "missing/E/297279-earth-defense-force-world-brothers-2-additional-character-incredible-cargo-loader-fencer-edf5.json"
+    },
+    {
+      "igdb_id": 297284,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" Sky Dancer, Wing Diver (EDF5)",
+      "file": "missing/E/297284-earth-defense-force-world-brothers-2-additional-character-sky-dancer-wing-diver-edf5.json"
+    },
+    {
+      "igdb_id": 297278,
+      "game_name": "Earth Defense Force: World Brothers 2 - \"Additional character\" World's Greatest Engineer, Air Raider (EDF5)",
+      "file": "missing/E/297278-earth-defense-force-world-brothers-2-additional-character-worlds-greatest-engineer-air-raider-edf5.json"
+    },
+    {
+      "igdb_id": 297275,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 10",
+      "file": "missing/E/297275-earth-defense-force-world-brothers-2-additional-character-10.json"
+    },
+    {
+      "igdb_id": 297274,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 11",
+      "file": "missing/E/297274-earth-defense-force-world-brothers-2-additional-character-11.json"
+    },
+    {
+      "igdb_id": 297273,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 12",
+      "file": "missing/E/297273-earth-defense-force-world-brothers-2-additional-character-12.json"
+    },
+    {
+      "igdb_id": 297272,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 13",
+      "file": "missing/E/297272-earth-defense-force-world-brothers-2-additional-character-13.json"
+    },
+    {
+      "igdb_id": 297277,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 8",
+      "file": "missing/E/297277-earth-defense-force-world-brothers-2-additional-character-8.json"
+    },
+    {
+      "igdb_id": 297276,
+      "game_name": "Earth Defense Force: World Brothers 2 - Additional Character 9",
+      "file": "missing/E/297276-earth-defense-force-world-brothers-2-additional-character-9.json"
+    },
+    {
       "igdb_id": 317951,
       "game_name": "Earth Defense Force: World Brothers 2 - Believe in Your Dream: Riho Futaba, Age 14 (Summer) Joins the Fight",
       "file": "missing/E/317951-earth-defense-force-world-brothers-2-believe-in-your-dream-riho-futaba-age-14-summer-joins-the-fight.json"
@@ -293185,6 +293280,11 @@
       "igdb_id": 325409,
       "game_name": "Earth Defense Force: World Brothers 2 - Cosmonaut β, Wearing a Helmet: Reskin",
       "file": "missing/E/325409-earth-defense-force-world-brothers-2-cosmonaut-wearing-a-helmet-reskin.json"
+    },
+    {
+      "igdb_id": 297299,
+      "game_name": "Earth Defense Force: World Brothers 2 - Deluxe Edition",
+      "file": "missing/E/297299-earth-defense-force-world-brothers-2-deluxe-edition.json"
     },
     {
       "igdb_id": 325435,
@@ -297495,6 +297595,11 @@
       "igdb_id": 402573,
       "game_name": "Eggconsole Hercules PC-8801mkIISR",
       "file": "missing/E/402573-eggconsole-hercules-pc-8801mkiisr.json"
+    },
+    {
+      "igdb_id": 297312,
+      "game_name": "Eggconsole Hydlide II PC-8801",
+      "file": "missing/E/297312-eggconsole-hydlide-ii-pc-8801.json"
     },
     {
       "igdb_id": 315833,
@@ -338817,6 +338922,11 @@
       "file": "missing/F/200738-fight-buddy-mobile.json"
     },
     {
+      "igdb_id": 297296,
+      "game_name": "Fight Club",
+      "file": "missing/F/297296-fight-club.json"
+    },
+    {
       "igdb_id": 5834,
       "game_name": "Fight Club",
       "file": "missing/F/5834-fight-club.json"
@@ -348275,6 +348385,11 @@
       "igdb_id": 381257,
       "game_name": "Five Nights In Saransk",
       "file": "missing/F/381257-five-nights-in-saransk.json"
+    },
+    {
+      "igdb_id": 297313,
+      "game_name": "Five Nights of Nightmare: Escape Horror Story",
+      "file": "missing/F/297313-five-nights-of-nightmare-escape-horror-story.json"
     },
     {
       "igdb_id": 267389,
@@ -385722,6 +385837,11 @@
       "file": "missing/G/133424-geometric-sniper.json"
     },
     {
+      "igdb_id": 297314,
+      "game_name": "Geometric Sniper Bundle",
+      "file": "missing/G/297314-geometric-sniper-bundle.json"
+    },
+    {
       "igdb_id": 163944,
       "game_name": "Geometric Sniper Z",
       "file": "missing/G/163944-geometric-sniper-z.json"
@@ -397940,6 +398060,11 @@
       "igdb_id": 277902,
       "game_name": "Golf Guys: Party",
       "file": "missing/G/277902-golf-guys-party.json"
+    },
+    {
+      "igdb_id": 297300,
+      "game_name": "Golf Guys: Party Edition",
+      "file": "missing/G/297300-golf-guys-party-edition.json"
     },
     {
       "igdb_id": 277901,
@@ -430177,6 +430302,11 @@
       "file": "missing/H/277896-helix-jump-letter-madness.json"
     },
     {
+      "igdb_id": 297301,
+      "game_name": "Helix Jump: Party Edition",
+      "file": "missing/H/297301-helix-jump-party-edition.json"
+    },
+    {
       "igdb_id": 277898,
       "game_name": "Helix Jump: Party Skins",
       "file": "missing/H/277898-helix-jump-party-skins.json"
@@ -433927,6 +434057,11 @@
       "file": "missing/H/294827-hentai-girls-amazing-edition.json"
     },
     {
+      "igdb_id": 297308,
+      "game_name": "Hentai Girls: Athlete Crush",
+      "file": "missing/H/297308-hentai-girls-athlete-crush.json"
+    },
+    {
       "igdb_id": 320445,
       "game_name": "Hentai Girls: Autumn Crush",
       "file": "missing/H/320445-hentai-girls-autumn-crush.json"
@@ -434230,6 +434365,11 @@
       "igdb_id": 283235,
       "game_name": "Hentai Golf: Prairie Greens",
       "file": "missing/H/283235-hentai-golf-prairie-greens.json"
+    },
+    {
+      "igdb_id": 297302,
+      "game_name": "Hentai Golf: Premium Edition",
+      "file": "missing/H/297302-hentai-golf-premium-edition.json"
     },
     {
       "igdb_id": 283238,
@@ -497537,6 +497677,11 @@
       "file": "missing/J/253316-jorels-brother-and-the-most-important-game-of-the-galaxy-chapter-3-the-final-rave.json"
     },
     {
+      "igdb_id": 297303,
+      "game_name": "Jorel's Brother and the Most Important Game of the Galaxy: Complete Edition",
+      "file": "missing/J/297303-jorels-brother-and-the-most-important-game-of-the-galaxy-complete-edition.json"
+    },
+    {
       "igdb_id": 104817,
       "game_name": "Jorji and Impossible Forest",
       "file": "missing/J/104817-jorji-and-impossible-forest.json"
@@ -506055,6 +506200,11 @@
       "igdb_id": 367056,
       "game_name": "KanjiFlash",
       "file": "missing/K/367056-kanjiflash.json"
+    },
+    {
+      "igdb_id": 297309,
+      "game_name": "Kanjozoku 2: Drift Car Games",
+      "file": "missing/K/297309-kanjozoku-2-drift-car-games.json"
     },
     {
       "igdb_id": 399798,
@@ -519825,6 +519975,11 @@
       "igdb_id": 149037,
       "game_name": "Knight's Destiny",
       "file": "missing/K/149037-knights-destiny.json"
+    },
+    {
+      "igdb_id": 297369,
+      "game_name": "Knight's Drop",
+      "file": "missing/K/297369-knights-drop.json"
     },
     {
       "igdb_id": 360631,
@@ -540470,6 +540625,16 @@
       "igdb_id": 136142,
       "game_name": "Let's Sing 2018 with German Hits",
       "file": "missing/L/136142-lets-sing-2018-with-german-hits.json"
+    },
+    {
+      "igdb_id": 297295,
+      "game_name": "Let's Sing 2018: Best of 80's Song Pack",
+      "file": "missing/L/297295-lets-sing-2018-best-of-80s-song-pack.json"
+    },
+    {
+      "igdb_id": 297316,
+      "game_name": "Let's Sing 2018: Chart Hits Song Pack",
+      "file": "missing/L/297316-lets-sing-2018-chart-hits-song-pack.json"
     },
     {
       "igdb_id": 268194,
@@ -584182,6 +584347,11 @@
       "file": "missing/M/313344-maternalbound-an-earthbound-and-mother-2-bond.json"
     },
     {
+      "igdb_id": 297285,
+      "game_name": "Matexo",
+      "file": "missing/M/297285-matexo.json"
+    },
+    {
       "igdb_id": 139972,
       "game_name": "Math",
       "file": "missing/M/139972-math.json"
@@ -594135,6 +594305,11 @@
       "igdb_id": 302535,
       "game_name": "Megaton Musashi W: Wired - Attire: Yamato - Yukata",
       "file": "missing/M/302535-megaton-musashi-w-wired-attire-yamato-yukata.json"
+    },
+    {
+      "igdb_id": 297304,
+      "game_name": "Megaton Musashi W: Wired - Deluxe Edition",
+      "file": "missing/M/297304-megaton-musashi-w-wired-deluxe-edition.json"
     },
     {
       "igdb_id": 302514,
@@ -616062,6 +616237,11 @@
       "file": "missing/M/277899-mob-control-triple-backup.json"
     },
     {
+      "igdb_id": 297305,
+      "game_name": "Mob Control: Triple Backup Edition",
+      "file": "missing/M/297305-mob-control-triple-backup-edition.json"
+    },
+    {
       "igdb_id": 406078,
       "game_name": "Mob Drop Castle",
       "file": "missing/M/406078-mob-drop-castle.json"
@@ -626160,6 +626340,11 @@
       "igdb_id": 295006,
       "game_name": "Mortal Hire",
       "file": "missing/M/295006-mortal-hire.json"
+    },
+    {
+      "igdb_id": 297370,
+      "game_name": "Mortal Holdings",
+      "file": "missing/M/297370-mortal-holdings.json"
     },
     {
       "igdb_id": 198828,
@@ -675627,6 +675812,11 @@
       "file": "missing/O/211933-odd-guy-meets-odd-farmers.json"
     },
     {
+      "igdb_id": 297310,
+      "game_name": "Odd Hue Out!",
+      "file": "missing/O/297310-odd-hue-out.json"
+    },
+    {
       "igdb_id": 267274,
       "game_name": "Odd Infinitum: First Contact",
       "file": "missing/O/267274-odd-infinitum-first-contact.json"
@@ -696135,6 +696325,11 @@
       "igdb_id": 140269,
       "game_name": "Pac-Man Mega Tunnel Battle",
       "file": "missing/P/140269-pac-man-mega-tunnel-battle.json"
+    },
+    {
+      "igdb_id": 297307,
+      "game_name": "Pac-Man Mega Tunnel Battle: Chomp Champs - Deluxe Edition",
+      "file": "missing/P/297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json"
     },
     {
       "igdb_id": 300927,
@@ -759540,6 +759735,46 @@
       "igdb_id": 105978,
       "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami",
       "file": "missing/P/105978-pure-electric-love-what-do-you-want-eri-kitami.json"
+    },
+    {
+      "igdb_id": 297286,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional scenario 1",
+      "file": "missing/P/297286-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-1.json"
+    },
+    {
+      "igdb_id": 297287,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario 2",
+      "file": "missing/P/297287-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-2.json"
+    },
+    {
+      "igdb_id": 297288,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario 3",
+      "file": "missing/P/297288-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-3.json"
+    },
+    {
+      "igdb_id": 297289,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario 5",
+      "file": "missing/P/297289-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-5.json"
+    },
+    {
+      "igdb_id": 297290,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario 6",
+      "file": "missing/P/297290-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-6.json"
+    },
+    {
+      "igdb_id": 297291,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario Complete Set",
+      "file": "missing/P/297291-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-complete-set.json"
+    },
+    {
+      "igdb_id": 297292,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario Set 1",
+      "file": "missing/P/297292-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-1.json"
+    },
+    {
+      "igdb_id": 297293,
+      "game_name": "Pure Electric Love \"What do you want?\" Eri Kitami: Additional Scenario Set 2",
+      "file": "missing/P/297293-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-2.json"
     },
     {
       "igdb_id": 145048,
@@ -846847,9 +847082,19 @@
       "file": "missing/S/238058-shin-megami-tensei-v-the-rage-of-a-queen.json"
     },
     {
+      "igdb_id": 297317,
+      "game_name": "Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent",
+      "file": "missing/S/297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json"
+    },
+    {
       "igdb_id": 297318,
       "game_name": "Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East",
       "file": "missing/S/297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json"
+    },
+    {
+      "igdb_id": 297306,
+      "game_name": "Shin Megami Tensei V: Vengeance - Digital Deluxe Edition",
+      "file": "missing/S/297306-shin-megami-tensei-v-vengeance-digital-deluxe-edition.json"
     },
     {
       "igdb_id": 306561,
@@ -859505,6 +859750,11 @@
       "igdb_id": 284913,
       "game_name": "Sixtar Gate: Startrail - Oshiribeat Pack",
       "file": "missing/S/284913-sixtar-gate-startrail-oshiribeat-pack.json"
+    },
+    {
+      "igdb_id": 297315,
+      "game_name": "Sixtar Gate: Startrail - Sixtartales",
+      "file": "missing/S/297315-sixtar-gate-startrail-sixtartales.json"
     },
     {
       "igdb_id": 274638,
