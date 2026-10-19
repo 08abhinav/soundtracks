@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
 | Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
+| Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
 | Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of Yotei: Complete Edition | 413275 | [413275-ghost-of-yotei-complete-edition.json](./413275-ghost-of-yotei-complete-edition.json) |
 | Ghost on the Shore | 129064 | [129064-ghost-on-the-shore.json](./129064-ghost-on-the-shore.json) |
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
+| Ghost Only! | 280659 | [280659-ghost-only.json](./280659-ghost-only.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
 | Ghost or Trick | 167560 | [167560-ghost-or-trick.json](./167560-ghost-or-trick.json) |
 | Ghost Palace | 287517 | [287517-ghost-palace.json](./287517-ghost-palace.json) |
@@ -5115,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight | 184981 | [184981-goodnight.json](./184981-goodnight.json) |
 | Goodnight | 299122 | [299122-goodnight.json](./299122-goodnight.json) |
 | GoodNight | 193404 | [193404-goodnight.json](./193404-goodnight.json) |
+| Goodnight Icarus | 280653 | [280653-goodnight-icarus.json](./280653-goodnight-icarus.json) |
 | Goodnight Little Sandman | 110227 | [110227-goodnight-little-sandman.json](./110227-goodnight-little-sandman.json) |
 | Goodnight Rudy | 234589 | [234589-goodnight-rudy.json](./234589-goodnight-rudy.json) |
 | Goodnight Tea | 249321 | [249321-goodnight-tea.json](./249321-goodnight-tea.json) |
