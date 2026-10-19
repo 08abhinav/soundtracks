@@ -2135,6 +2135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
+| Virus LQP-79 | 281244 | [281244-virus-lqp-79.json](./281244-virus-lqp-79.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
 | Virus Popper | 142210 | [142210-virus-popper.json](./142210-virus-popper.json) |
