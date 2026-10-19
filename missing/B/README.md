@@ -10597,6 +10597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainstorm Series: Treasure Chase | 130389 | [130389-brainstorm-series-treasure-chase.json](./130389-brainstorm-series-treasure-chase.json) |
 | Brainstorm: The Game Show | 71485 | [71485-brainstorm-the-game-show.json](./71485-brainstorm-the-game-show.json) |
 | BrainTaire | 261521 | [261521-braintaire.json](./261521-braintaire.json) |
+| Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
@@ -10926,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
 | BreadAttack | 276689 | [276689-breadattack.json](./276689-breadattack.json) |
 | Breadbear's Bizarre Breadventure | 374411 | [374411-breadbears-bizarre-breadventure.json](./374411-breadbears-bizarre-breadventure.json) |
+| Breadborn | 304424 | [304424-breadborn.json](./304424-breadborn.json) |
 | Breadbox | 321736 | [321736-breadbox.json](./321736-breadbox.json) |
 | Breadbox Game Pack | 138711 | [138711-breadbox-game-pack.json](./138711-breadbox-game-pack.json) |
 | Breadbulls | 351264 | [351264-breadbulls.json](./351264-breadbulls.json) |
@@ -11507,6 +11509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broforce: Forever | 260721 | [260721-broforce-forever.json](./260721-broforce-forever.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
+| Brok the Investigator: The Brawl Bar | 304428 | [304428-brok-the-investigator-the-brawl-bar.json](./304428-brok-the-investigator-the-brawl-bar.json) |
 | Brok: Natal Tail, A New Christmas | 325648 | [325648-brok-natal-tail-a-new-christmas.json](./325648-brok-natal-tail-a-new-christmas.json) |
 | Brok: Natal Tail, A New Christmas - Special | 380711 | [380711-brok-natal-tail-a-new-christmas-special.json](./380711-brok-natal-tail-a-new-christmas-special.json) |
 | Broke Brodie | 362856 | [362856-broke-brodie.json](./362856-broke-brodie.json) |
@@ -12168,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
+| Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Bane Survivors | 366362 | [366362-bug-bane-survivors.json](./366362-bug-bane-survivors.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
