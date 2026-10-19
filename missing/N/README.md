@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
 | Neko | 78965 | [78965-neko.json](./78965-neko.json) |
 | Neko Album | 174704 | [174704-neko-album.json](./174704-neko-album.json) |
+| Neko Atsume 2 | 288044 | [288044-neko-atsume-2.json](./288044-neko-atsume-2.json) |
 | Neko Atsume VR | 68317 | [68317-neko-atsume-vr.json](./68317-neko-atsume-vr.json) |
 | Neko Atsume: Kitty Collector+ | 240858 | [240858-neko-atsume-kitty-collector.json](./240858-neko-atsume-kitty-collector.json) |
 | Neko Bento | 324136 | [324136-neko-bento.json](./324136-neko-bento.json) |
