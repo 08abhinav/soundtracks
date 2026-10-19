@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Dojo | 367732 | [367732-enter-the-dojo.json](./367732-enter-the-dojo.json) |
 | Enter the Flesh Again | 105110 | [105110-enter-the-flesh-again.json](./105110-enter-the-flesh-again.json) |
 | Enter the Gungeon: A Farewell to Arms | 118942 | [118942-enter-the-gungeon-a-farewell-to-arms.json](./118942-enter-the-gungeon-a-farewell-to-arms.json) |
+| Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
 | Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
