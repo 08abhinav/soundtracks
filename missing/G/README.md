@@ -4314,6 +4314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Battle | 102580 | [102580-god-of-battle.json](./102580-god-of-battle.json) |
 | God of Blades | 25045 | [25045-god-of-blades.json](./25045-god-of-blades.json) |
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
+| God of Death | 273755 | [273755-god-of-death.json](./273755-god-of-death.json) |
 | God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
 | God of Fortune | 309557 | [309557-god-of-fortune.json](./309557-god-of-fortune.json) |
 | God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golem Wars | 58752 | [58752-golem-wars.json](./58752-golem-wars.json) |
 | Golembert | 258017 | [258017-golembert.json](./258017-golembert.json) |
 | GolemRush | 105219 | [105219-golemrush.json](./105219-golemrush.json) |
+| Golems and Gnomes | 273802 | [273802-golems-and-gnomes.json](./273802-golems-and-gnomes.json) |
 | Golems TD | 164244 | [164244-golems-td.json](./164244-golems-td.json) |
 | Golf | 131432 | [131432-golf.json](./131432-golf.json) |
 | Golf | 131528 | [131528-golf.json](./131528-golf.json) |
@@ -5973,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
 | Grappling Bagel | 348870 | [348870-grappling-bagel.json](./348870-grappling-bagel.json) |
 | Grappling Dash | 215584 | [215584-grappling-dash.json](./215584-grappling-dash.json) |
+| Grappling Gunners: Arena FPS | 273772 | [273772-grappling-gunners-arena-fps.json](./273772-grappling-gunners-arena-fps.json) |
 | Grappling Hook | 21106 | [21106-grappling-hook.json](./21106-grappling-hook.json) |
 | Grappling Hook Ball Tournament | 190404 | [190404-grappling-hook-ball-tournament.json](./190404-grappling-hook-ball-tournament.json) |
 | Grapply | 31612 | [31612-grapply.json](./31612-grapply.json) |
@@ -6366,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
 | Great eSports Manager | 55485 | [55485-great-esports-manager.json](./55485-great-esports-manager.json) |
 | Great Feats of Ancient Russ | 298236 | [298236-great-feats-of-ancient-russ.json](./298236-great-feats-of-ancient-russ.json) |
+| Great Flame | 273770 | [273770-great-flame.json](./273770-great-flame.json) |
 | Great Game 1/5 | 294439 | [294439-great-game-1-5.json](./294439-great-game-1-5.json) |
 | Great Gold Bird, Great Dark Yawn | 223671 | [223671-great-gold-bird-great-dark-yawn.json](./223671-great-gold-bird-great-dark-yawn.json) |
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
@@ -6852,6 +6856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
+| Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
