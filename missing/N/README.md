@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
 | Netcrawler | 183883 | [183883-netcrawler.json](./183883-netcrawler.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
+| Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
@@ -3081,6 +3082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nier: Automata - The End of Yorha Edition | 206805 | [206805-nier-automata-the-end-of-yorha-edition.json](./206805-nier-automata-the-end-of-yorha-edition.json) |
 | Nietzsche's Shadow | 346680 | [346680-nietzsches-shadow.json](./346680-nietzsches-shadow.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
+| Nif Nif | 276626 | [276626-nif-nif.json](./276626-nif-nif.json) |
 | Nifa's First Mission | 248051 | [248051-nifas-first-mission.json](./248051-nifas-first-mission.json) |
 | Nife Wars | 398832 | [398832-nife-wars.json](./398832-nife-wars.json) |
 | Niffelheim: Odin's Blessing | 167841 | [167841-niffelheim-odins-blessing.json](./167841-niffelheim-odins-blessing.json) |
