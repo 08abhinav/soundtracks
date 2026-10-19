@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation Denied | 395837 | [395837-salvation-denied.json](./395837-salvation-denied.json) |
 | Salvation Hours | 306490 | [306490-salvation-hours.json](./306490-salvation-hours.json) |
 | Salvation in Corruption | 75183 | [75183-salvation-in-corruption.json](./75183-salvation-in-corruption.json) |
+| Salvation of Sisyphus | 297866 | [297866-salvation-of-sisyphus.json](./297866-salvation-of-sisyphus.json) |
 | Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
@@ -4599,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Shop Simulator | 330188 | [330188-sex-shop-simulator.json](./330188-sex-shop-simulator.json) |
 | Sex Shop Simulator: X-RAY Desire | 385047 | [385047-sex-shop-simulator-x-ray-desire.json](./385047-sex-shop-simulator-x-ray-desire.json) |
 | Sex Shop Supermarket Simulator | 345361 | [345361-sex-shop-supermarket-simulator.json](./345361-sex-shop-supermarket-simulator.json) |
+| Sex Simulator 2: Cumshot Edition | 297931 | [297931-sex-simulator-2-cumshot-edition.json](./297931-sex-simulator-2-cumshot-edition.json) |
 | Sex Simulator: Bar Staff | 280342 | [280342-sex-simulator-bar-staff.json](./280342-sex-simulator-bar-staff.json) |
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
@@ -7883,6 +7885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCoaster | 19422 | [19422-simcoaster.json](./19422-simcoaster.json) |
 | SimCopter | 1496 | [1496-simcopter.json](./1496-simcopter.json) |
 | SimDrive | 60881 | [60881-simdrive.json](./60881-simdrive.json) |
+| Sime is Back | 297854 | [297854-sime-is-back.json](./297854-sime-is-back.json) |
 | Sime Is Back: 3D Old School | 340370 | [340370-sime-is-back-3d-old-school.json](./340370-sime-is-back-3d-old-school.json) |
 | SimEarth: The Living Planet | 42017 | [42017-simearth-the-living-planet.json](./42017-simearth-the-living-planet.json) |
 | SimEarth: The Living Planet | 44456 | [44456-simearth-the-living-planet.json](./44456-simearth-the-living-planet.json) |
@@ -16148,6 +16151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
+| Splash Dino | 297839 | [297839-splash-dino.json](./297839-splash-dino.json) |
 | Splash Dino 2 | 309719 | [309719-splash-dino-2.json](./309719-splash-dino-2.json) |
 | Splash Divers | 395524 | [395524-splash-divers.json](./395524-splash-divers.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
