@@ -5027,6 +5027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Dead Than Alien! | 11955 | [11955-better-dead-than-alien.json](./11955-better-dead-than-alien.json) |
 | Better End | 285678 | [285678-better-end.json](./285678-better-end.json) |
 | Better Half | 176801 | [176801-better-half.json](./176801-better-half.json) |
+| Better Homes and Gardens Cool Crafts | 289731 | [289731-better-homes-and-gardens-cool-crafts.json](./289731-better-homes-and-gardens-cool-crafts.json) |
 | Better in Dreams | 327251 | [327251-better-in-dreams.json](./327251-better-in-dreams.json) |
 | Better Late Than Dead | 16291 | [16291-better-late-than-dead.json](./16291-better-late-than-dead.json) |
 | Better Mart Simulator | 332148 | [332148-better-mart-simulator.json](./332148-better-mart-simulator.json) |
@@ -11976,6 +11977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubba in the Turd Dimension | 410990 | [410990-bubba-in-the-turd-dimension.json](./410990-bubba-in-the-turd-dimension.json) |
 | Bubba Yuga | 383523 | [383523-bubba-yuga.json](./383523-bubba-yuga.json) |
 | Bubba's Diner | 233969 | [233969-bubbas-diner.json](./233969-bubbas-diner.json) |
+| Bubballs | 289719 | [289719-bubballs.json](./289719-bubballs.json) |
 | Bubbaruka! | 149483 | [149483-bubbaruka.json](./149483-bubbaruka.json) |
 | Bubbelsche Deluxe | 322062 | [322062-bubbelsche-deluxe.json](./322062-bubbelsche-deluxe.json) |
 | Bubberknuckles | 129044 | [129044-bubberknuckles.json](./129044-bubberknuckles.json) |
