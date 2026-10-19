@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F1st Strike | 327151 | [327151-f1st-strike.json](./327151-f1st-strike.json) |
 | F2 Grand Prix | 138522 | [138522-f2-grand-prix.json](./138522-f2-grand-prix.json) |
+| F22 | 287508 | [287508-f22.json](./287508-f22.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
@@ -3880,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight: Double Impact | 21098 | [21098-final-fight-double-impact.json](./21098-final-fight-double-impact.json) |
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
+| Final Fighter | 287509 | [287509-final-fighter.json](./287509-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flavor | 392385 | [392385-final-flavor.json](./392385-final-flavor.json) |
 | Final Fleet | 32118 | [32118-final-fleet.json](./32118-final-fleet.json) |
@@ -5092,6 +5094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
+| Five Days | 287510 | [287510-five-days.json](./287510-five-days.json) |
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
@@ -6716,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football | 199023 | [199023-football.json](./199023-football.json) |
 | Football | 217830 | [217830-football.json](./217830-football.json) |
 | Football | 284440 | [284440-football.json](./284440-football.json) |
+| Football | 287511 | [287511-football.json](./287511-football.json) |
 | Football | 346756 | [346756-football.json](./346756-football.json) |
 | Football | 411534 | [411534-football.json](./411534-football.json) |
 | Football (for the TI 99/4A) | 92702 | [92702-football-for-the-ti-99-4a.json](./92702-football-for-the-ti-99-4a.json) |
@@ -8436,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
 | Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
+| Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
 | Free At Last | 90126 | [90126-free-at-last.json](./90126-free-at-last.json) |
 | Free Balling | 32263 | [32263-free-balling.json](./32263-free-balling.json) |
