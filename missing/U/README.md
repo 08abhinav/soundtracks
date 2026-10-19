@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Champion | 4624 | [4624-urban-champion.json](./4624-urban-champion.json) |
 | Urban Champion-e | 170014 | [170014-urban-champion-e.json](./170014-urban-champion-e.json) |
 | Urban Chaos | 8469 | [8469-urban-chaos.json](./8469-urban-chaos.json) |
+| Urban Chase | 279458 | [279458-urban-chase.json](./279458-urban-chase.json) |
 | Urban Dead | 69281 | [69281-urban-dead.json](./69281-urban-dead.json) |
 | Urban Dreambog | 323391 | [323391-urban-dreambog.json](./323391-urban-dreambog.json) |
 | Urban Drug Empire | 223138 | [223138-urban-drug-empire.json](./223138-urban-drug-empire.json) |
