@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Tour: Yoshi Tour | 361145 | [361145-mario-kart-tour-yoshi-tour.json](./361145-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Tour: Yoshi Tour | 361206 | [361206-mario-kart-tour-yoshi-tour.json](./361206-mario-kart-tour-yoshi-tour.json) |
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
+| Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart Zero | 231822 | [231822-mario-kart-zero.json](./231822-mario-kart-zero.json) |
 | Mario Kart: Blazing Wheels | 174622 | [174622-mario-kart-blazing-wheels.json](./174622-mario-kart-blazing-wheels.json) |
