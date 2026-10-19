@@ -9225,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb It 5 | 191116 | [191116-bomb-it-5.json](./191116-bomb-it-5.json) |
 | Bomb It 6 | 359198 | [359198-bomb-it-6.json](./359198-bomb-it-6.json) |
 | Bomb It 7 | 387553 | [387553-bomb-it-7.json](./387553-bomb-it-7.json) |
+| Bomb Jack | 265023 | [265023-bomb-jack.json](./265023-bomb-jack.json) |
 | Bomb Jack | 416566 | [416566-bomb-jack.json](./416566-bomb-jack.json) |
 | Bomb Jack | 6100 | [6100-bomb-jack.json](./6100-bomb-jack.json) |
 | Bomb Jack DX | 279677 | [279677-bomb-jack-dx.json](./279677-bomb-jack-dx.json) |
@@ -11053,6 +11054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brazilian Adventure | 81710 | [81710-brazilian-adventure.json](./81710-brazilian-adventure.json) |
 | Brazilian Drug Dealer 3: I Opened a Portal to Hell in the Favela Trying To Revive Mit Aia I Need to Close It | 317175 | [317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json](./317175-brazilian-drug-dealer-3-i-opened-a-portal-to-hell-in-the-favela-trying-to-revive-mit-aia-i-need-to-close-it.json) |
 | Brazilian Root | 93709 | [93709-brazilian-root.json](./93709-brazilian-root.json) |
+| BrazSonic 20XX | 265039 | [265039-brazsonic-20xx.json](./265039-brazsonic-20xx.json) |
 | Brazzers: The Game | 200634 | [200634-brazzers-the-game.json](./200634-brazzers-the-game.json) |
 | BRDG | 159579 | [159579-brdg.json](./159579-brdg.json) |
 | Breach | 135167 | [135167-breach.json](./135167-breach.json) |
