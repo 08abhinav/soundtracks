@@ -902,6 +902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canal Towns | 197335 | [197335-canal-towns.json](./197335-canal-towns.json) |
 | Canari | 51580 | [51580-canari.json](./51580-canari.json) |
 | Canary in a Crater | 148138 | [148138-canary-in-a-crater.json](./148138-canary-in-a-crater.json) |
+| Canary: Kono Omoi wo Uta ni Nosete | 269412 | [269412-canary-kono-omoi-wo-uta-ni-nosete.json](./269412-canary-kono-omoi-wo-uta-ni-nosete.json) |
 | Canasta 3D Premium | 118406 | [118406-canasta-3d-premium.json](./118406-canasta-3d-premium.json) |
 | Canasta HD | 354965 | [354965-canasta-hd.json](./354965-canasta-hd.json) |
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
@@ -1113,6 +1114,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cantirium: God Slayer | 240726 | [240726-cantirium-god-slayer.json](./240726-cantirium-god-slayer.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
+| Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
+| Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
 | Canvas Colors: In the Moving City | 161156 | [161156-canvas-colors-in-the-moving-city.json](./161156-canvas-colors-in-the-moving-city.json) |
 | Canvas Croquis | 40074 | [40074-canvas-croquis.json](./40074-canvas-croquis.json) |
 | Canvas Intruder | 316142 | [316142-canvas-intruder.json](./316142-canvas-intruder.json) |
@@ -4182,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Chess | 56776 | [56776-championship-chess.json](./56776-championship-chess.json) |
 | Championship Hockey | 19772 | [19772-championship-hockey.json](./19772-championship-hockey.json) |
 | Championship Lode Runner | 6091 | [6091-championship-lode-runner.json](./6091-championship-lode-runner.json) |
+| Championship Manager | 269426 | [269426-championship-manager.json](./269426-championship-manager.json) |
 | Championship Manager '93 | 11306 | [11306-championship-manager-93.json](./11306-championship-manager-93.json) |
 | Championship Manager 2 | 37133 | [37133-championship-manager-2.json](./37133-championship-manager-2.json) |
 | Championship Manager 2: Scandinavian Leagues | 68737 | [68737-championship-manager-2-scandinavian-leagues.json](./68737-championship-manager-2-scandinavian-leagues.json) |
@@ -11270,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Couch Storm: Battle Royale | 119735 | [119735-couch-storm-battle-royale.json](./119735-couch-storm-battle-royale.json) |
 | Couch Versus | 113669 | [113669-couch-versus.json](./113669-couch-versus.json) |
 | Cougar's Quest for Freedom | 166853 | [166853-cougars-quest-for-freedom.json](./166853-cougars-quest-for-freedom.json) |
+| Coughing Crag | 269448 | [269448-coughing-crag.json](./269448-coughing-crag.json) |
 | Couic d'or ! | 328595 | [328595-couic-dor.json](./328595-couic-dor.json) |
 | Councell for the Best Death | 342191 | [342191-councell-for-the-best-death.json](./342191-councell-for-the-best-death.json) |
 | Counseling | 401050 | [401050-counseling.json](./401050-counseling.json) |
