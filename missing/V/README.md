@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Inspector | 415891 | [415891-void-inspector.json](./415891-void-inspector.json) |
 | Void Invaders | 18213 | [18213-void-invaders.json](./18213-void-invaders.json) |
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
+| Void Keeper | 294508 | [294508-void-keeper.json](./294508-void-keeper.json) |
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
 | Void Link | 81252 | [81252-void-link.json](./81252-void-link.json) |
@@ -2459,6 +2460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Pachinko | 384212 | [384212-void-pachinko.json](./384212-void-pachinko.json) |
 | Void Phantom | 388256 | [388256-void-phantom.json](./388256-void-phantom.json) |
 | VOID PRIEST | 414163 | [414163-void-priest.json](./414163-void-priest.json) |
+| Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
 | Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
