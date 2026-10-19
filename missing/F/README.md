@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faily Rider | 101534 | [101534-faily-rider.json](./101534-faily-rider.json) |
 | Faily Skater | 90787 | [90787-faily-skater.json](./90787-faily-skater.json) |
 | Faily Tumbler | 90351 | [90351-faily-tumbler.json](./90351-faily-tumbler.json) |
+| Faint Call | 301699 | [301699-faint-call.json](./301699-faint-call.json) |
 | Fair | 57508 | [57508-fair.json](./57508-fair.json) |
 | Fair And Balanced | 411716 | [411716-fair-and-balanced.json](./411716-fair-and-balanced.json) |
 | Fair and Square | 380757 | [380757-fair-and-square.json](./380757-fair-and-square.json) |
