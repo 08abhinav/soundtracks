@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nethercard Kingdom | 182870 | [182870-nethercard-kingdom.json](./182870-nethercard-kingdom.json) |
 | Nethergate | 94652 | [94652-nethergate.json](./94652-nethergate.json) |
 | Nethergate: Resurrection | 16405 | [16405-nethergate-resurrection.json](./16405-nethergate-resurrection.json) |
+| Nethernovel | 259992 | [259992-nethernovel.json](./259992-nethernovel.json) |
 | Netherside | 152364 | [152364-netherside.json](./152364-netherside.json) |
 | Netherspace | 190942 | [190942-netherspace.json](./190942-netherspace.json) |
 | Netherspire | 403686 | [403686-netherspire.json](./403686-netherspire.json) |
@@ -3013,6 +3014,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
+| Nick Racers Revolution 3D | 259986 | [259986-nick-racers-revolution-3d.json](./259986-nick-racers-revolution-3d.json) |
+| Nick Racing Stars | 259984 | [259984-nick-racing-stars.json](./259984-nick-racing-stars.json) |
 | Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
 | Nick Sports | 87199 | [87199-nick-sports.json](./87199-nick-sports.json) |
 | Nick Wacky Racers 3D | 283381 | [283381-nick-wacky-racers-3d.json](./283381-nick-wacky-racers-3d.json) |
