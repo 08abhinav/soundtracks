@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the Damned | 225800 | [225800-fate-of-the-damned.json](./225800-fate-of-the-damned.json) |
 | Fate of the Elder Gods | 125454 | [125454-fate-of-the-elder-gods.json](./125454-fate-of-the-elder-gods.json) |
 | Fate of the Empress | 159202 | [159202-fate-of-the-empress.json](./159202-fate-of-the-empress.json) |
+| Fate of the Foxes | 298926 | [298926-fate-of-the-foxes.json](./298926-fate-of-the-foxes.json) |
 | Fate of the Seventh Scholar | 366260 | [366260-fate-of-the-seventh-scholar.json](./366260-fate-of-the-seventh-scholar.json) |
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
 | Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
+| Final Fantasy V Spoof | 298939 | [298939-final-fantasy-v-spoof.json](./298939-final-fantasy-v-spoof.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
 | Final Fantasy VI | 146218 | [146218-final-fantasy-vi.json](./146218-final-fantasy-vi.json) |
 | Final Fantasy VI Reimagined | 339232 | [339232-final-fantasy-vi-reimagined.json](./339232-final-fantasy-vi-reimagined.json) |
@@ -9632,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon Fishing | 383396 | [383396-full-moon-fishing.json](./383396-full-moon-fishing.json) |
 | Full Moon Guildhouse Simulator | 366251 | [366251-full-moon-guildhouse-simulator.json](./366251-full-moon-guildhouse-simulator.json) |
 | Full Moon in San Francisco | 72274 | [72274-full-moon-in-san-francisco.json](./72274-full-moon-in-san-francisco.json) |
+| Full Moon Mafia | 298917 | [298917-full-moon-mafia.json](./298917-full-moon-mafia.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
 | Full of Love | 116259 | [116259-full-of-love.json](./116259-full-of-love.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
