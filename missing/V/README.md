@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanity: Military Skin | 380208 | [380208-vanity-military-skin.json](./380208-vanity-military-skin.json) |
 | Vanity: Suit Skin | 380205 | [380205-vanity-suit-skin.json](./380205-vanity-suit-skin.json) |
 | Vanity: Unlock All Characters | 380207 | [380207-vanity-unlock-all-characters.json](./380207-vanity-unlock-all-characters.json) |
+| Vanlife Camping Simulator | 297834 | [297834-vanlife-camping-simulator.json](./297834-vanlife-camping-simulator.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
 | Vanquish | 3218 | [3218-vanquish.json](./3218-vanquish.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voyageur | 103240 | [103240-voyageur.json](./103240-voyageur.json) |
 | VoYD | 89211 | [89211-voyd.json](./89211-voyd.json) |
 | Voyeur Hotel | 272001 | [272001-voyeur-hotel.json](./272001-voyeur-hotel.json) |
+| Voyeur Sex Toons | 297932 | [297932-voyeur-sex-toons.json](./297932-voyeur-sex-toons.json) |
 | Voyeur Villa: Harem Manager | 296654 | [296654-voyeur-villa-harem-manager.json](./296654-voyeur-villa-harem-manager.json) |
 | Voyna | 224781 | [224781-voyna.json](./224781-voyna.json) |
 | VPet-Simulator | 292021 | [292021-vpet-simulator.json](./292021-vpet-simulator.json) |
