@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatagarasu: Attack on Cataclysm | 17763 | [17763-yatagarasu-attack-on-cataclysm.json](./17763-yatagarasu-attack-on-cataclysm.json) |
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
+| Yaten's Horror Session | 284230 | [284230-yatens-horror-session.json](./284230-yatens-horror-session.json) |
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
@@ -397,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
 | Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
+| Yes, Sir | 284252 | [284252-yes-sir.json](./284252-yes-sir.json) |
 | Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
 | Yes! PreCure 5 | 168328 | [168328-yes-precure-5.json](./168328-yes-precure-5.json) |
 | Yes! PreCure 5 GoGo! Zenin ShuuGO! Dream Festival | 124149 | [124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json](./124149-yes-precure-5-gogo-zenin-shuugo-dream-festival.json) |
