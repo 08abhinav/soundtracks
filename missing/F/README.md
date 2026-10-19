@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finnish Pub Simulator | 326424 | [326424-finnish-pub-simulator.json](./326424-finnish-pub-simulator.json) |
 | Finnish Roller | 29671 | [29671-finnish-roller.json](./29671-finnish-roller.json) |
 | Finque | 31057 | [31057-finque.json](./31057-finque.json) |
+| Finsternis Kreuz | 298366 | [298366-finsternis-kreuz.json](./298366-finsternis-kreuz.json) |
 | FINSummerVR | 104059 | [104059-finsummervr.json](./104059-finsummervr.json) |
 | Finterior Decorator | 222791 | [222791-finterior-decorator.json](./222791-finterior-decorator.json) |
 | Fio Fizhook | 296365 | [296365-fio-fizhook.json](./296365-fio-fizhook.json) |
@@ -8626,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Tracks | 335842 | [335842-fresh-tracks.json](./335842-fresh-tracks.json) |
 | Fresh Tracks Snowboarding | 344907 | [344907-fresh-tracks-snowboarding.json](./344907-fresh-tracks-snowboarding.json) |
 | Fresh Tracks VR | 380569 | [380569-fresh-tracks-vr.json](./380569-fresh-tracks-vr.json) |
+| FreshBallFall | 298361 | [298361-freshballfall.json](./298361-freshballfall.json) |
 | FreshCharge Ruru | 250269 | [250269-freshcharge-ruru.json](./250269-freshcharge-ruru.json) |
 | Freshly Frosted | 117697 | [117697-freshly-frosted.json](./117697-freshly-frosted.json) |
 | Freshman Magic: Spellbooks and Tangled Sheets | 201010 | [201010-freshman-magic-spellbooks-and-tangled-sheets.json](./201010-freshman-magic-spellbooks-and-tangled-sheets.json) |
