@@ -3719,6 +3719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Blast | 48969 | [48969-tetris-blast.json](./48969-tetris-blast.json) |
+| Tetris Bliss | 260536 | [260536-tetris-bliss.json](./260536-tetris-bliss.json) |
 | Tetris Blitz | 63150 | [63150-tetris-blitz.json](./63150-tetris-blitz.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
@@ -10246,6 +10247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
+| The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
 | The Midnight Town Stories: Matt's Nightmare | 336580 | [336580-the-midnight-town-stories-matts-nightmare.json](./336580-the-midnight-town-stories-matts-nightmare.json) |
 | The Midnight Walkers | 289983 | [289983-the-midnight-walkers.json](./289983-the-midnight-walkers.json) |
 | The Midnighters | 376659 | [376659-the-midnighters.json](./376659-the-midnighters.json) |
@@ -11273,6 +11275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proposal | 310587 | [310587-the-proposal.json](./310587-the-proposal.json) |
+| The Prospector Odyssey | 260550 | [260550-the-prospector-odyssey.json](./260550-the-prospector-odyssey.json) |
 | The Protagonish | 311168 | [311168-the-protagonish.json](./311168-the-protagonish.json) |
 | The Protagonist | 359851 | [359851-the-protagonist.json](./359851-the-protagonist.json) |
 | The Protean Forest | 267426 | [267426-the-protean-forest.json](./267426-the-protean-forest.json) |
@@ -14929,6 +14932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is a game | 198488 | [198488-this-is-a-game.json](./198488-this-is-a-game.json) |
 | This is a real thing that happened | 355471 | [355471-this-is-a-real-thing-that-happened.json](./355471-this-is-a-real-thing-that-happened.json) |
 | This is a Refuge | 226419 | [226419-this-is-a-refuge.json](./226419-this-is-a-refuge.json) |
+| This is a Small Town | 260557 | [260557-this-is-a-small-town.json](./260557-this-is-a-small-town.json) |
 | This Is a Square! | 292931 | [292931-this-is-a-square.json](./292931-this-is-a-square.json) |
 | This is a Work of Fiction | 242780 | [242780-this-is-a-work-of-fiction.json](./242780-this-is-a-work-of-fiction.json) |
 | This Is Fine | 177325 | [177325-this-is-fine.json](./177325-this-is-fine.json) |
@@ -24191,6 +24195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Girl | 235670 | [235670-turret-girl.json](./235670-turret-girl.json) |
 | Turret Jumper 2 | 183350 | [183350-turret-jumper-2.json](./183350-turret-jumper-2.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
+| Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
@@ -24709,6 +24714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twordle | 200060 | [200060-twordle.json](./200060-twordle.json) |
 | Twosheep.io | 274721 | [274721-twosheep-io.json](./274721-twosheep-io.json) |
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
+| Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
 | TY the Tasmanian Tiger 2: Bush Rescue HD | 147845 | [147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json](./147845-ty-the-tasmanian-tiger-2-bush-rescue-hd.json) |
