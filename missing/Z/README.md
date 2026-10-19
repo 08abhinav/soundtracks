@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zui's Witch Academy | 338311 | [338311-zuis-witch-academy.json](./338311-zuis-witch-academy.json) |
 | Zuìhòu de Xiūxiānzhě | 375416 | [375416-zuihou-de-xiuxianzhe.json](./375416-zuihou-de-xiuxianzhe.json) |
 | Zuìzhōng Huànxiǎng | 340183 | [340183-zuizhong-huanxiang.json](./340183-zuizhong-huanxiang.json) |
+| Zukkoke Threesome: Drama Murder Case | 289762 | [289762-zukkoke-threesome-drama-murder-case.json](./289762-zukkoke-threesome-drama-murder-case.json) |
 | ZukuRace | 308920 | [308920-zukurace.json](./308920-zukurace.json) |
 | Zulkania | 338323 | [338323-zulkania.json](./338323-zulkania.json) |
 | Zulu | 365287 | [365287-zulu.json](./365287-zulu.json) |
