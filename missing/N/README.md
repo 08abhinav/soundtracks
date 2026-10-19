@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
 | Nathan Jones and The Empty Century | 283277 | [283277-nathan-jones-and-the-empty-century.json](./283277-nathan-jones-and-the-empty-century.json) |
+| Nathan Morgan: Dilemma | 295085 | [295085-nathan-morgan-dilemma.json](./295085-nathan-morgan-dilemma.json) |
 | Nation Red | 21115 | [21115-nation-red.json](./21115-nation-red.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
@@ -2720,6 +2721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Station | 318997 | [318997-nexus-station.json](./318997-nexus-station.json) |
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
+| Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
 | Nexwar | 403168 | [403168-nexwar.json](./403168-nexwar.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
@@ -3100,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
 | Night Castle | 216988 | [216988-night-castle.json](./216988-night-castle.json) |
+| Night Castle | 295075 | [295075-night-castle.json](./295075-night-castle.json) |
 | Night Catcher | 116079 | [116079-night-catcher.json](./116079-night-catcher.json) |
 | Night City | 293654 | [293654-night-city.json](./293654-night-city.json) |
 | Night City | 57600 | [57600-night-city.json](./57600-night-city.json) |
@@ -5286,6 +5289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
+| Novice Dungeon Master | 295100 | [295100-novice-dungeon-master.json](./295100-novice-dungeon-master.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
