@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenQuest: Munk Madness | 414094 | [414094-ravenquest-munk-madness.json](./414094-ravenquest-munk-madness.json) |
 | RavenQuest: Rise of Tyrants | 414192 | [414192-ravenquest-rise-of-tyrants.json](./414192-ravenquest-rise-of-tyrants.json) |
 | Ravens Battle Fields | 174849 | [174849-ravens-battle-fields.json](./174849-ravens-battle-fields.json) |
+| Ravensburger Kinderwelt | 288067 | [288067-ravensburger-kinderwelt.json](./288067-ravensburger-kinderwelt.json) |
 | Ravensburger Labyrinth | 200049 | [200049-ravensburger-labyrinth.json](./200049-ravensburger-labyrinth.json) |
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
@@ -3803,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Repit 2 | 220685 | [220685-repit-2.json](./220685-repit-2.json) |
 | Repkiss | 143444 | [143444-repkiss.json](./143444-repkiss.json) |
 | Replacement | 182763 | [182763-replacement.json](./182763-replacement.json) |
+| Replay | 288037 | [288037-replay.json](./288037-replay.json) |
 | Replay Boys | 259188 | [259188-replay-boys.json](./259188-replay-boys.json) |
 | Replay Value: Second Hand Games | 347748 | [347748-replay-value-second-hand-games.json](./347748-replay-value-second-hand-games.json) |
 | Replay: A Puzzle Game | 157200 | [157200-replay-a-puzzle-game.json](./157200-replay-a-puzzle-game.json) |
