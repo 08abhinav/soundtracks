@@ -488,6 +488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
+| Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
 | Land of Chaos Online II: Revolution | 119634 | [119634-land-of-chaos-online-ii-revolution.json](./119634-land-of-chaos-online-ii-revolution.json) |
