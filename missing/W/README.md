@@ -2120,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need an Army | 363952 | [363952-we-need-an-army.json](./363952-we-need-an-army.json) |
 | We Need More Guns | 277778 | [277778-we-need-more-guns.json](./277778-we-need-more-guns.json) |
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
+| We Need Space | 297859 | [297859-we-need-space.json](./297859-we-need-space.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
 | We Need To Go Deeper: Complete Edition | 367309 | [367309-we-need-to-go-deeper-complete-edition.json](./367309-we-need-to-go-deeper-complete-edition.json) |
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
@@ -6017,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Soccer | 137970 | [137970-world-of-soccer.json](./137970-world-of-soccer.json) |
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
+| World of Solaria | 297843 | [297843-world-of-solaria.json](./297843-world-of-solaria.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
