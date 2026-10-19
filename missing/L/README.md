@@ -1701,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
+| Left 4 Dead 2: Alien Trilogy | 309209 | [309209-left-4-dead-2-alien-trilogy.json](./309209-left-4-dead-2-alien-trilogy.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
 | Left 4 Dead 2: The Sacrifice | 20416 | [20416-left-4-dead-2-the-sacrifice.json](./20416-left-4-dead-2-the-sacrifice.json) |
 | Left 4 Dead: Crash Course | 22887 | [22887-left-4-dead-crash-course.json](./22887-left-4-dead-crash-course.json) |
@@ -2067,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Illarion | 228438 | [228438-legends-of-illarion.json](./228438-legends-of-illarion.json) |
 | Legends of Iona RPG | 55492 | [55492-legends-of-iona-rpg.json](./55492-legends-of-iona-rpg.json) |
 | Legends of Ith | 62551 | [62551-legends-of-ith.json](./62551-legends-of-ith.json) |
+| Legends of Kailrate | 309212 | [309212-legends-of-kailrate.json](./309212-legends-of-kailrate.json) |
 | Legends of Kingdom Rush | 159076 | [159076-legends-of-kingdom-rush.json](./159076-legends-of-kingdom-rush.json) |
 | Legends of Koyannis | 110368 | [110368-legends-of-koyannis.json](./110368-legends-of-koyannis.json) |
 | Legends of Loot | 64346 | [64346-legends-of-loot.json](./64346-legends-of-loot.json) |
@@ -3852,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Birds | 403227 | [403227-line-birds.json](./403227-line-birds.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
+| Line Chef | 309215 | [309215-line-chef.json](./309215-line-chef.json) |
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
 | Line Crossing | 128580 | [128580-line-crossing.json](./128580-line-crossing.json) |
 | Line Crossing | 181386 | [181386-line-crossing.json](./181386-line-crossing.json) |
@@ -4850,6 +4853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
+| Locally Sourced Anthology I: A Space Atlas | 309188 | [309188-locally-sourced-anthology-i-a-space-atlas.json](./309188-locally-sourced-anthology-i-a-space-atlas.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Mess | 157400 | [157400-loch-mess.json](./157400-loch-mess.json) |
 | Loch Ness | 182506 | [182506-loch-ness.json](./182506-loch-ness.json) |
