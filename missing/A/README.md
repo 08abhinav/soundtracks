@@ -6147,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: British Columbia | 375345 | [375345-american-truck-simulator-british-columbia.json](./375345-american-truck-simulator-british-columbia.json) |
 | American Truck Simulator: Cabin Accessories | 155358 | [155358-american-truck-simulator-cabin-accessories.json](./155358-american-truck-simulator-cabin-accessories.json) |
 | American Truck Simulator: Christmas Paint Jobs Pack | 353403 | [353403-american-truck-simulator-christmas-paint-jobs-pack.json](./353403-american-truck-simulator-christmas-paint-jobs-pack.json) |
+| American Truck Simulator: Classic Stripes Paint Jobs Pack | 288634 | [288634-american-truck-simulator-classic-stripes-paint-jobs-pack.json](./288634-american-truck-simulator-classic-stripes-paint-jobs-pack.json) |
 | American Truck Simulator: Colorado | 167679 | [167679-american-truck-simulator-colorado.json](./167679-american-truck-simulator-colorado.json) |
 | American Truck Simulator: Dragon Truck Design Pack | 263050 | [263050-american-truck-simulator-dragon-truck-design-pack.json](./263050-american-truck-simulator-dragon-truck-design-pack.json) |
 | American Truck Simulator: Enchanted Edition | 115775 | [115775-american-truck-simulator-enchanted-edition.json](./115775-american-truck-simulator-enchanted-edition.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Halloween Paint Jobs Pack | 353401 | [353401-american-truck-simulator-halloween-paint-jobs-pack.json](./353401-american-truck-simulator-halloween-paint-jobs-pack.json) |
 | American Truck Simulator: Heavy Cargo Pack | 44120 | [44120-american-truck-simulator-heavy-cargo-pack.json](./44120-american-truck-simulator-heavy-cargo-pack.json) |
 | American Truck Simulator: Illinois | 348974 | [348974-american-truck-simulator-illinois.json](./348974-american-truck-simulator-illinois.json) |
+| American Truck Simulator: International LoneStar | 288629 | [288629-american-truck-simulator-international-lonestar.json](./288629-american-truck-simulator-international-lonestar.json) |
 | American Truck Simulator: Iowa | 348972 | [348972-american-truck-simulator-iowa.json](./348972-american-truck-simulator-iowa.json) |
 | American Truck Simulator: JCB Equipment Pack | 302496 | [302496-american-truck-simulator-jcb-equipment-pack.json](./302496-american-truck-simulator-jcb-equipment-pack.json) |
 | American Truck Simulator: Kansas | 233986 | [233986-american-truck-simulator-kansas.json](./233986-american-truck-simulator-kansas.json) |
@@ -6165,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: KRONE Agriculture Equipment | 358729 | [358729-american-truck-simulator-krone-agriculture-equipment.json](./358729-american-truck-simulator-krone-agriculture-equipment.json) |
 | American Truck Simulator: Lode King & Prestige Trailers Pack | 223688 | [223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json](./223688-american-truck-simulator-lode-king-and-prestige-trailers-pack.json) |
 | American Truck Simulator: Louisiana | 348973 | [348973-american-truck-simulator-louisiana.json](./348973-american-truck-simulator-louisiana.json) |
+| American Truck Simulator: Mack Anthem | 288630 | [288630-american-truck-simulator-mack-anthem.json](./288630-american-truck-simulator-mack-anthem.json) |
 | American Truck Simulator: Mack Pinnacle | 353408 | [353408-american-truck-simulator-mack-pinnacle.json](./353408-american-truck-simulator-mack-pinnacle.json) |
 | American Truck Simulator: Missouri | 281308 | [281308-american-truck-simulator-missouri.json](./281308-american-truck-simulator-missouri.json) |
 | American Truck Simulator: Montana | 195585 | [195585-american-truck-simulator-montana.json](./195585-american-truck-simulator-montana.json) |
@@ -6177,10 +6180,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Truck Simulator: Space Paint Jobs Pack | 353400 | [353400-american-truck-simulator-space-paint-jobs-pack.json](./353400-american-truck-simulator-space-paint-jobs-pack.json) |
 | American Truck Simulator: Special Transport | 268771 | [268771-american-truck-simulator-special-transport.json](./268771-american-truck-simulator-special-transport.json) |
 | American Truck Simulator: Sports Paint Jobs Pack | 311103 | [311103-american-truck-simulator-sports-paint-jobs-pack.json](./311103-american-truck-simulator-sports-paint-jobs-pack.json) |
+| American Truck Simulator: Steering Creations Pack | 288635 | [288635-american-truck-simulator-steering-creations-pack.json](./288635-american-truck-simulator-steering-creations-pack.json) |
 | American Truck Simulator: Texas | 167678 | [167678-american-truck-simulator-texas.json](./167678-american-truck-simulator-texas.json) |
 | American Truck Simulator: Utah | 120325 | [120325-american-truck-simulator-utah.json](./120325-american-truck-simulator-utah.json) |
 | American Truck Simulator: Valentine's Paint Jobs Pack | 353396 | [353396-american-truck-simulator-valentines-paint-jobs-pack.json](./353396-american-truck-simulator-valentines-paint-jobs-pack.json) |
 | American Truck Simulator: Volvo Construction Equipment | 353404 | [353404-american-truck-simulator-volvo-construction-equipment.json](./353404-american-truck-simulator-volvo-construction-equipment.json) |
+| American Truck Simulator: Volvo VNL | 288632 | [288632-american-truck-simulator-volvo-vnl.json](./288632-american-truck-simulator-volvo-vnl.json) |
+| American Truck Simulator: Western Star 49X | 288633 | [288633-american-truck-simulator-western-star-49x.json](./288633-american-truck-simulator-western-star-49x.json) |
 | American Truck Simulator: Western Star 57X | 211406 | [211406-american-truck-simulator-western-star-57x.json](./211406-american-truck-simulator-western-star-57x.json) |
 | American Truck Simulator: Wheel Tuning Pack | 353402 | [353402-american-truck-simulator-wheel-tuning-pack.json](./353402-american-truck-simulator-wheel-tuning-pack.json) |
 | American Truck Traffic Racer: Highway Racing | 133816 | [133816-american-truck-traffic-racer-highway-racing.json](./133816-american-truck-traffic-racer-highway-racing.json) |
