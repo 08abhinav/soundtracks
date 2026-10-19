@@ -7875,6 +7875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
+| Silly Frog | 261664 | [261664-silly-frog.json](./261664-silly-frog.json) |
 | Silly Little Guys | 300270 | [300270-silly-little-guys.json](./300270-silly-little-guys.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
@@ -16274,6 +16275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Whisperer Conversation With Akari | 363409 | [363409-spirit-whisperer-conversation-with-akari.json](./363409-spirit-whisperer-conversation-with-akari.json) |
 | Spirit Whisperer Conversation With Kamiko | 363663 | [363663-spirit-whisperer-conversation-with-kamiko.json](./363663-spirit-whisperer-conversation-with-kamiko.json) |
 | Spirit Wolves | 189938 | [189938-spirit-wolves.json](./189938-spirit-wolves.json) |
+| Spirit X Strike | 261648 | [261648-spirit-x-strike.json](./261648-spirit-x-strike.json) |
 | Spirit X Strike | 319729 | [319729-spirit-x-strike.json](./319729-spirit-x-strike.json) |
 | Spirit-Capture Net | 383359 | [383359-spirit-capture-net.json](./383359-spirit-capture-net.json) |
 | Spirit: Lucky's Big Adventure | 143055 | [143055-spirit-luckys-big-adventure.json](./143055-spirit-luckys-big-adventure.json) |
@@ -19062,6 +19064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stax | 82334 | [82334-stax.json](./82334-stax.json) |
 | Staxel | 37294 | [37294-staxel.json](./37294-staxel.json) |
 | Staxter | 186167 | [186167-staxter.json](./186167-staxter.json) |
+| Stay | 261689 | [261689-stay.json](./261689-stay.json) |
 | Stay | 348238 | [348238-stay.json](./348238-stay.json) |
 | STAY | 150507 | [150507-stay.json](./150507-stay.json) |
 | Stay Alive | 197373 | [197373-stay-alive.json](./197373-stay-alive.json) |
@@ -21591,6 +21594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
 | Succubus Research Diary | 157107 | [157107-succubus-research-diary.json](./157107-succubus-research-diary.json) |
+| Succubus RoomMate | 261691 | [261691-succubus-roommate.json](./261691-succubus-roommate.json) |
 | Succubus Runa and the Erotic Dungeon | 192693 | [192693-succubus-runa-and-the-erotic-dungeon.json](./192693-succubus-runa-and-the-erotic-dungeon.json) |
 | Succubus Runa and the Erotic Dungeon: Additional All-Ages Story & Graphics | 256997 | [256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json](./256997-succubus-runa-and-the-erotic-dungeon-additional-all-ages-story-and-graphics.json) |
 | Succubus Sessions: Mami Mamiya's Sweet Slice of Hell | 371233 | [371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json](./371233-succubus-sessions-mami-mamiyas-sweet-slice-of-hell.json) |
