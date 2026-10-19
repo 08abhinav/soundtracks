@@ -2634,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
+| Infantry Assault: War 3D FPS | 260014 | [260014-infantry-assault-war-3d-fps.json](./260014-infantry-assault-war-3d-fps.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infantry Attack: Complete Edition | 295676 | [295676-infantry-attack-complete-edition.json](./295676-infantry-attack-complete-edition.json) |
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
