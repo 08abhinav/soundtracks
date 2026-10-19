@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamburger | 284447 | [284447-hamburger.json](./284447-hamburger.json) |
 | Hamburger | 346059 | [346059-hamburger.json](./346059-hamburger.json) |
 | Hamburgers VS Eggs | 118684 | [118684-hamburgers-vs-eggs.json](./118684-hamburgers-vs-eggs.json) |
+| Hamcorollin’ | 263330 | [263330-hamcorollin.json](./263330-hamcorollin.json) |
 | Hame Houdai! All You Can F*ck! 3 Female Teachers Endless Creampie! | 280694 | [280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json](./280694-hame-houdai-all-you-can-f-ck-3-female-teachers-endless-creampie.json) |
 | Hamekomi Lucky Puzzle Wii Returns | 344484 | [344484-hamekomi-lucky-puzzle-wii-returns.json](./344484-hamekomi-lucky-puzzle-wii-returns.json) |
 | Hamelin | 229364 | [229364-hamelin.json](./229364-hamelin.json) |
@@ -890,6 +891,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Saki Work Spring! | 111649 | [111649-hana-saki-work-spring.json](./111649-hana-saki-work-spring.json) |
 | Hana Saku DS Gardening Life | 229262 | [229262-hana-saku-ds-gardening-life.json](./229262-hana-saku-ds-gardening-life.json) |
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
+| Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
+| Hana: Episode II | 263346 | [263346-hana-episode-ii.json](./263346-hana-episode-ii.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
 | Hana: Spacetime Fantasy | 260715 | [260715-hana-spacetime-fantasy.json](./260715-hana-spacetime-fantasy.json) |
 | Hana's Campus Life! | 149907 | [149907-hanas-campus-life.json](./149907-hanas-campus-life.json) |
