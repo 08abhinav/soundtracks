@@ -11450,6 +11450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Kitty: Space Mining | 422490 | [422490-astro-kitty-space-mining.json](./422490-astro-kitty-space-mining.json) |
 | Astro Knight | 217371 | [217371-astro-knight.json](./217371-astro-knight.json) |
 | Astro Link | 273666 | [273666-astro-link.json](./273666-astro-link.json) |
+| Astro Looter | 304469 | [304469-astro-looter.json](./304469-astro-looter.json) |
 | Astro Maths | 15605 | [15605-astro-maths.json](./15605-astro-maths.json) |
 | Astro Maze | 367767 | [367767-astro-maze.json](./367767-astro-maze.json) |
 | Astro Miner | 276945 | [276945-astro-miner.json](./276945-astro-miner.json) |
