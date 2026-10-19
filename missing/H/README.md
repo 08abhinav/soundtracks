@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
+| Harma | 260566 | [260566-harma.json](./260566-harma.json) |
 | Harmagedon | 340416 | [340416-harmagedon.json](./340416-harmagedon.json) |
 | Harmful | 216170 | [216170-harmful.json](./216170-harmful.json) |
 | Harmful Park | 44878 | [44878-harmful-park.json](./44878-harmful-park.json) |
@@ -7728,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely: Uniform | 262926 | [262926-hot-and-lovely-uniform.json](./262926-hot-and-lovely-uniform.json) |
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
 | Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
+| Hot Beaver Camp | 260516 | [260516-hot-beaver-camp.json](./260516-hot-beaver-camp.json) |
 | Hot Brain | 44483 | [44483-hot-brain.json](./44483-hot-brain.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
@@ -8529,6 +8531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huerons: A challenging Puzzle | 216157 | [216157-huerons-a-challenging-puzzle.json](./216157-huerons-a-challenging-puzzle.json) |
 | Hues | 289853 | [289853-hues.json](./289853-hues.json) |
+| Hues of Hope: A Painter's Tale | 260517 | [260517-hues-of-hope-a-painters-tale.json](./260517-hues-of-hope-a-painters-tale.json) |
 | Hues of the Void | 275728 | [275728-hues-of-the-void.json](./275728-hues-of-the-void.json) |
 | Hues: Moon Sea | 289854 | [289854-hues-moon-sea.json](./289854-hues-moon-sea.json) |
 | Hues: Sunset Valley | 296519 | [296519-hues-sunset-valley.json](./296519-hues-sunset-valley.json) |
@@ -9413,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypernet Arena | 108864 | [108864-hypernet-arena.json](./108864-hypernet-arena.json) |
 | HyperNova | 199465 | [199465-hypernova.json](./199465-hypernova.json) |
 | Hyperoid | 80121 | [80121-hyperoid.json](./80121-hyperoid.json) |
+| Hyperons | 260542 | [260542-hyperons.json](./260542-hyperons.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
