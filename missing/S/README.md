@@ -6391,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ships at Sea | 251741 | [251741-ships-at-sea.json](./251741-ships-at-sea.json) |
 | Ships N' Battles | 13097 | [13097-ships-n-battles.json](./13097-ships-n-battles.json) |
 | Ships of Battle Age of Pirates | 235296 | [235296-ships-of-battle-age-of-pirates.json](./235296-ships-of-battle-age-of-pirates.json) |
+| Ships of Chaos | 288642 | [288642-ships-of-chaos.json](./288642-ships-of-chaos.json) |
 | Ships Simulator | 229181 | [229181-ships-simulator.json](./229181-ships-simulator.json) |
 | Ships Simulator 2024 | 219609 | [219609-ships-simulator-2024.json](./219609-ships-simulator-2024.json) |
 | Ships Simulator Bundle | 273007 | [273007-ships-simulator-bundle.json](./273007-ships-simulator-bundle.json) |
@@ -13459,6 +13460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sougou Kakutougi Rings: Astral Bout 3 | 38298 | [38298-sougou-kakutougi-rings-astral-bout-3.json](./38298-sougou-kakutougi-rings-astral-bout-3.json) |
 | Sougou Kakutougi: Astral Bout | 38295 | [38295-sougou-kakutougi-astral-bout.json](./38295-sougou-kakutougi-astral-bout.json) |
 | Sougou Kakutougi: Astral Bout 2 - The Total Fighters | 38296 | [38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json](./38296-sougou-kakutougi-astral-bout-2-the-total-fighters.json) |
+| Souhide Series: Omatsuri-zukushi | 288631 | [288631-souhide-series-omatsuri-zukushi.json](./288631-souhide-series-omatsuri-zukushi.json) |
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
