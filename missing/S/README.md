@@ -6377,6 +6377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship of Fools | 194741 | [194741-ship-of-fools.json](./194741-ship-of-fools.json) |
 | Ship of Fools: Aquapocalypse Edition | 277906 | [277906-ship-of-fools-aquapocalypse-edition.json](./277906-ship-of-fools-aquapocalypse-edition.json) |
 | Ship of Fools: Deep Sea Duo | 277910 | [277910-ship-of-fools-deep-sea-duo.json](./277910-ship-of-fools-deep-sea-duo.json) |
+| Ship of Fools: Water Garden Duo | 275473 | [275473-ship-of-fools-water-garden-duo.json](./275473-ship-of-fools-water-garden-duo.json) |
 | Ship of Harkinian | 194694 | [194694-ship-of-harkinian.json](./194694-ship-of-harkinian.json) |
 | Ship of Harkinian VR | 411723 | [411723-ship-of-harkinian-vr.json](./411723-ship-of-harkinian-vr.json) |
 | Ship of Heroes | 27515 | [27515-ship-of-heroes.json](./27515-ship-of-heroes.json) |
@@ -7546,6 +7547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigi: A Fart for Melusina | 75066 | [75066-sigi-a-fart-for-melusina.json](./75066-sigi-a-fart-for-melusina.json) |
 | Sigil | 121415 | [121415-sigil.json](./121415-sigil.json) |
 | Sigil | 313172 | [313172-sigil.json](./313172-sigil.json) |
+| Sigil II | 275462 | [275462-sigil-ii.json](./275462-sigil-ii.json) |
 | Sigil of Chaos | 309553 | [309553-sigil-of-chaos.json](./309553-sigil-of-chaos.json) |
 | Sigil of Kings | 235722 | [235722-sigil-of-kings.json](./235722-sigil-of-kings.json) |
 | Sigil Reader (Field) | 74279 | [74279-sigil-reader-field.json](./74279-sigil-reader-field.json) |
@@ -9832,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slickpoo : The Clown | 103983 | [103983-slickpoo-the-clown.json](./103983-slickpoo-the-clown.json) |
 | Slicy Flips | 322977 | [322977-slicy-flips.json](./322977-slicy-flips.json) |
 | Slide | 139709 | [139709-slide.json](./139709-slide.json) |
+| Slide | 275456 | [275456-slide.json](./275456-slide.json) |
 | Slide & Magic | 390729 | [390729-slide-and-magic.json](./390729-slide-and-magic.json) |
 | Slide 2 Solve Puzzle | 175341 | [175341-slide-2-solve-puzzle.json](./175341-slide-2-solve-puzzle.json) |
 | Slide And Perform | 340958 | [340958-slide-and-perform.json](./340958-slide-and-perform.json) |
@@ -12575,6 +12578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure 2: Super Hard Mode | 333695 | [333695-sonic-adventure-2-super-hard-mode.json](./333695-sonic-adventure-2-super-hard-mode.json) |
 | Sonic Adventure 2D | 334733 | [334733-sonic-adventure-2d.json](./334733-sonic-adventure-2d.json) |
 | Sonic Adventure 3 | 324955 | [324955-sonic-adventure-3.json](./324955-sonic-adventure-3.json) |
+| Sonic Adventure 7 | 275488 | [275488-sonic-adventure-7.json](./275488-sonic-adventure-7.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
@@ -13672,6 +13676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Smith of the Kingdom | 99019 | [99019-soul-smith-of-the-kingdom.json](./99019-soul-smith-of-the-kingdom.json) |
 | Soul Song | 202333 | [202333-soul-song.json](./202333-soul-song.json) |
 | Soul Stalker | 235736 | [235736-soul-stalker.json](./235736-soul-stalker.json) |
+| Soul Street | 275511 | [275511-soul-street.json](./275511-soul-street.json) |
 | Soul Strike | 297712 | [297712-soul-strike.json](./297712-soul-strike.json) |
 | Soul Surfer | 66566 | [66566-soul-surfer.json](./66566-soul-surfer.json) |
 | Soul Survivor | 147413 | [147413-soul-survivor.json](./147413-soul-survivor.json) |
@@ -15270,6 +15275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
+| Spectra | 275506 | [275506-spectra.json](./275506-spectra.json) |
 | Spectra: Beneath the Stain | 416637 | [416637-spectra-beneath-the-stain.json](./416637-spectra-beneath-the-stain.json) |
 | Spectraball: Extended Edition | 9069 | [9069-spectraball-extended-edition.json](./9069-spectraball-extended-edition.json) |
 | Spectrakin | 418636 | [418636-spectrakin.json](./418636-spectrakin.json) |
@@ -16953,6 +16959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Vs. Spy: Volumes I & II | 77397 | [77397-spy-vs-spy-volumes-i-and-ii.json](./77397-spy-vs-spy-volumes-i-and-ii.json) |
 | Spy x Anya: Operation Memories | 266678 | [266678-spy-x-anya-operation-memories.json](./266678-spy-x-anya-operation-memories.json) |
 | Spy x Anya: Operation Memories - Deluxe Outing Pack | 308814 | [308814-spy-x-anya-operation-memories-deluxe-outing-pack.json](./308814-spy-x-anya-operation-memories-deluxe-outing-pack.json) |
+| Spy x Anya: Operation Memories - Digital Deluxe Edition | 275446 | [275446-spy-x-anya-operation-memories-digital-deluxe-edition.json](./275446-spy-x-anya-operation-memories-digital-deluxe-edition.json) |
 | Spy x Anya: Operation Memories - Excited Outifit Pack | 308815 | [308815-spy-x-anya-operation-memories-excited-outifit-pack.json](./308815-spy-x-anya-operation-memories-excited-outifit-pack.json) |
 | Spy x Anya: Operation Memories - Thrilling Outfit Pack | 308816 | [308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json](./308816-spy-x-anya-operation-memories-thrilling-outfit-pack.json) |
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
@@ -21935,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer at Marisol Bay | 183035 | [183035-summer-at-marisol-bay.json](./183035-summer-at-marisol-bay.json) |
 | Summer Athletics | 5196 | [5196-summer-athletics.json](./5196-summer-athletics.json) |
 | Summer Athletics 2009 | 21111 | [21111-summer-athletics-2009.json](./21111-summer-athletics-2009.json) |
+| Summer Beach | 275510 | [275510-summer-beach.json](./275510-summer-beach.json) |
 | Summer Beach Trip | 367560 | [367560-summer-beach-trip.json](./367560-summer-beach-trip.json) |
 | Summer Beach Vacation Objects - Hidden Object Time | 102814 | [102814-summer-beach-vacation-objects-hidden-object-time.json](./102814-summer-beach-vacation-objects-hidden-object-time.json) |
 | Summer Before Dawn | 389745 | [389745-summer-before-dawn.json](./389745-summer-before-dawn.json) |
@@ -25469,6 +25477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
+| Suzumiya Haruhi no Gyakuten 2 | 275504 | [275504-suzumiya-haruhi-no-gyakuten-2.json](./275504-suzumiya-haruhi-no-gyakuten-2.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
@@ -26310,6 +26319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
+| Sydney Shark | 275486 | [275486-sydney-shark.json](./275486-sydney-shark.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Syko Swinger | 97235 | [97235-syko-swinger.json](./97235-syko-swinger.json) |
 | SyLestia | 125957 | [125957-sylestia.json](./125957-sylestia.json) |
