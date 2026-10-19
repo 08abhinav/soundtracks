@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
 | M-Plan | 109868 | [109868-m-plan.json](./109868-m-plan.json) |
+| M-PS2Craft | 274887 | [274887-m-ps2craft.json](./274887-m-ps2craft.json) |
 | M-Tee | 195504 | [195504-m-tee.json](./195504-m-tee.json) |
 | M: Alien Paranoia | 73699 | [73699-m-alien-paranoia.json](./73699-m-alien-paranoia.json) |
 | M. I. A. - Missing In Action | 76199 | [76199-m-i-a-missing-in-action.json](./76199-m-i-a-missing-in-action.json) |
@@ -769,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
+| Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
@@ -6874,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Fellas | 281409 | [281409-merge-fellas.json](./281409-merge-fellas.json) |
 | Merge Friends | 299405 | [299405-merge-friends.json](./299405-merge-friends.json) |
 | Merge Games Adventure Bundle | 275044 | [275044-merge-games-adventure-bundle.json](./275044-merge-games-adventure-bundle.json) |
+| Merge Games Adventure Bundle 2 | 274897 | [274897-merge-games-adventure-bundle-2.json](./274897-merge-games-adventure-bundle-2.json) |
 | Merge Games Cleaning Bundle | 274422 | [274422-merge-games-cleaning-bundle.json](./274422-merge-games-cleaning-bundle.json) |
 | Merge Games Cyberpunk Bundle | 274419 | [274419-merge-games-cyberpunk-bundle.json](./274419-merge-games-cyberpunk-bundle.json) |
 | Merge Games Horror Bundle | 274434 | [274434-merge-games-horror-bundle.json](./274434-merge-games-horror-bundle.json) |
@@ -10264,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistified | 254375 | [254375-mistified.json](./254375-mistified.json) |
 | Mistlands: Wheats & Demons | 351404 | [351404-mistlands-wheats-and-demons.json](./351404-mistlands-wheats-and-demons.json) |
 | Mistletoe Hotel | 323731 | [323731-mistletoe-hotel.json](./323731-mistletoe-hotel.json) |
+| Mistonia's Hope: The Lost Delight | 274882 | [274882-mistonias-hope-the-lost-delight.json](./274882-mistonias-hope-the-lost-delight.json) |
 | Mistover | 116145 | [116145-mistover.json](./116145-mistover.json) |
 | Mistover: Limited Edition | 166270 | [166270-mistover-limited-edition.json](./166270-mistover-limited-edition.json) |
 | Mistpaw Ravine | 373277 | [373277-mistpaw-ravine.json](./373277-mistpaw-ravine.json) |
@@ -10330,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miuratale | 244130 | [244130-miuratale.json](./244130-miuratale.json) |
 | MiuSa | 308863 | [308863-miusa.json](./308863-miusa.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
+| Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
 | Mix-A-Max | 230929 | [230929-mix-a-max.json](./230929-mix-a-max.json) |
