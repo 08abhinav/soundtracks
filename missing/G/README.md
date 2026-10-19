@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
 | Gravity Strikers | 388319 | [388319-gravity-strikers.json](./388319-gravity-strikers.json) |
+| Gravity Surge | 305646 | [305646-gravity-surge.json](./305646-gravity-surge.json) |
 | Gravity Swap 64 | 202107 | [202107-gravity-swap-64.json](./202107-gravity-swap-64.json) |
 | Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
@@ -7854,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 3 | 19858 | [19858-gundam-breaker-3.json](./19858-gundam-breaker-3.json) |
 | Gundam Breaker 3: Break Edition | 136193 | [136193-gundam-breaker-3-break-edition.json](./136193-gundam-breaker-3-break-edition.json) |
 | Gundam Breaker 4 | 287853 | [287853-gundam-breaker-4.json](./287853-gundam-breaker-4.json) |
+| Gundam Breaker 4: Deluxe Edition | 305599 | [305599-gundam-breaker-4-deluxe-edition.json](./305599-gundam-breaker-4-deluxe-edition.json) |
 | Gundam Breaker 4: Diorama Pack 1 - Colony Set | 324396 | [324396-gundam-breaker-4-diorama-pack-1-colony-set.json](./324396-gundam-breaker-4-diorama-pack-1-colony-set.json) |
 | Gundam Breaker 4: Diorama Pack 2 - Mobile Weapon & Colony Laser Inner Wall | 324397 | [324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json](./324397-gundam-breaker-4-diorama-pack-2-mobile-weapon-and-colony-laser-inner-wall.json) |
 | Gundam Breaker 4: Diorama Pack 3 - Class Room Set & Haro | 324398 | [324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json](./324398-gundam-breaker-4-diorama-pack-3-class-room-set-and-haro.json) |
@@ -7865,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Breaker 4: Story Mission DLC 3 - Battle Tournament | 324441 | [324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json](./324441-gundam-breaker-4-story-mission-dlc-3-battle-tournament.json) |
 | Gundam Breaker 4: Story Mission DLC 4 - Battle Fiercely | 361234 | [361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json](./361234-gundam-breaker-4-story-mission-dlc-4-battle-fiercely.json) |
 | Gundam Breaker 4: Story Mission DLC 5 - Beyond Borders | 361235 | [361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json](./361235-gundam-breaker-4-story-mission-dlc-5-beyond-borders.json) |
+| Gundam Breaker 4: Ultimate Edition | 305601 | [305601-gundam-breaker-4-ultimate-edition.json](./305601-gundam-breaker-4-ultimate-edition.json) |
 | Gundam Conquest | 223958 | [223958-gundam-conquest.json](./223958-gundam-conquest.json) |
 | Gundam Conquest V | 139752 | [139752-gundam-conquest-v.json](./139752-gundam-conquest-v.json) |
 | Gundam Evolution | 194205 | [194205-gundam-evolution.json](./194205-gundam-evolution.json) |
