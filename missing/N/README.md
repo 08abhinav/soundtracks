@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Hope | 304058 | [304058-new-hope.json](./304058-new-hope.json) |
 | New Hyu Stone | 60549 | [60549-new-hyu-stone.json](./60549-new-hyu-stone.json) |
 | New Ice York | 104435 | [104435-new-ice-york.json](./104435-new-ice-york.json) |
+| New Immortal | 283049 | [283049-new-immortal.json](./283049-new-immortal.json) |
 | New Jersey Transit | 133901 | [133901-new-jersey-transit.json](./133901-new-jersey-transit.json) |
 | New Jinsei Game | 409842 | [409842-new-jinsei-game.json](./409842-new-jinsei-game.json) |
 | New Joe & Mac: Caveman Ninja | 215620 | [215620-new-joe-and-mac-caveman-ninja.json](./215620-new-joe-and-mac-caveman-ninja.json) |
