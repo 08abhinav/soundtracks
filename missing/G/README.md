@@ -6076,6 +6076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravebound Dash | 402903 | [402903-gravebound-dash.json](./402903-gravebound-dash.json) |
 | GraveBoy CrowFeet: A Quest for Skulls | 405030 | [405030-graveboy-crowfeet-a-quest-for-skulls.json](./405030-graveboy-crowfeet-a-quest-for-skulls.json) |
 | Gravedigger | 94557 | [94557-gravedigger.json](./94557-gravedigger.json) |
+| Gravediggers | 262169 | [262169-gravediggers.json](./262169-gravediggers.json) |
 | Gravefire Tavern | 423242 | [423242-gravefire-tavern.json](./423242-gravefire-tavern.json) |
 | Graveheart | 419172 | [419172-graveheart.json](./419172-graveheart.json) |
 | Gravehearts | 362976 | [362976-gravehearts.json](./362976-gravehearts.json) |
