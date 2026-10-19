@@ -2353,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart | 285573 | [285573-heart.json](./285573-heart.json) |
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
+| Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
@@ -3448,6 +3449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hempire - Weed Growing Game | 91286 | [91286-hempire-weed-growing-game.json](./91286-hempire-weed-growing-game.json) |
 | Hen in the Foxhouse | 188938 | [188938-hen-in-the-foxhouse.json](./188938-hen-in-the-foxhouse.json) |
 | Hen Pecked | 44393 | [44393-hen-pecked.json](./44393-hen-pecked.json) |
+| Hen Town | 295599 | [295599-hen-town.json](./295599-hen-town.json) |
 | Hen, Chicks and Cats | 204428 | [204428-hen-chicks-and-cats.json](./204428-hen-chicks-and-cats.json) |
 | HenapoLand: Tsuika Avatar Room | 297745 | [297745-henapoland-tsuika-avatar-room.json](./297745-henapoland-tsuika-avatar-room.json) |
 | Henbou no Bansan | 98439 | [98439-henbou-no-bansan.json](./98439-henbou-no-bansan.json) |
@@ -3653,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Mosaic | 365436 | [365436-hentai-girls-mosaic.json](./365436-hentai-girls-mosaic.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Nurse | 340437 | [340437-hentai-girls-nurse.json](./340437-hentai-girls-nurse.json) |
+| Hentai Girls Puzzle | 295692 | [295692-hentai-girls-puzzle.json](./295692-hentai-girls-puzzle.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Special Edition | 263557 | [263557-hentai-girls-special-edition.json](./263557-hentai-girls-special-edition.json) |
 | Hentai Girls: Adorable Angel | 328522 | [328522-hentai-girls-adorable-angel.json](./328522-hentai-girls-adorable-angel.json) |
@@ -6210,6 +6213,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobnobbers | 322693 | [322693-hobnobbers.json](./322693-hobnobbers.json) |
 | Hobo 3: Wanted | 294723 | [294723-hobo-3-wanted.json](./294723-hobo-3-wanted.json) |
 | Hobo 4: Total War | 294724 | [294724-hobo-4-total-war.json](./294724-hobo-4-total-war.json) |
+| Hobo 5: Space Brawls - Attack of the Hobo Clones | 295631 | [295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json](./295631-hobo-5-space-brawls-attack-of-the-hobo-clones.json) |
+| Hobo 6: Hell | 295632 | [295632-hobo-6-hell.json](./295632-hobo-6-hell.json) |
+| Hobo 7: Heaven | 295633 | [295633-hobo-7-heaven.json](./295633-hobo-7-heaven.json) |
 | Hobo Brawl | 237478 | [237478-hobo-brawl.json](./237478-hobo-brawl.json) |
 | Hobo Cat Adventures | 149396 | [149396-hobo-cat-adventures.json](./149396-hobo-cat-adventures.json) |
 | Hobo Soccer | 92594 | [92594-hobo-soccer.json](./92594-hobo-soccer.json) |
@@ -6348,6 +6354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io | 263553 | [263553-hole-io.json](./263553-hole-io.json) |
 | Hole io & Candivity | 328512 | [328512-hole-io-and-candivity.json](./328512-hole-io-and-candivity.json) |
 | Hole io & Helix Jump | 315836 | [315836-hole-io-and-helix-jump.json](./315836-hole-io-and-helix-jump.json) |
+| Hole io & Paper io 2 | 295695 | [295695-hole-io-and-paper-io-2.json](./295695-hole-io-and-paper-io-2.json) |
 | Hole io: Ancient DLC | 309081 | [309081-hole-io-ancient-dlc.json](./309081-hole-io-ancient-dlc.json) |
 | Hole io: Animals DLC | 263554 | [263554-hole-io-animals-dlc.json](./263554-hole-io-animals-dlc.json) |
 | Hole io: Apocalypse DLC | 346005 | [346005-hole-io-apocalypse-dlc.json](./346005-hole-io-apocalypse-dlc.json) |
@@ -9300,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HypnoFamily Game | 109198 | [109198-hypnofamily-game.json](./109198-hypnofamily-game.json) |
 | Hypnofantasis | 276228 | [276228-hypnofantasis.json](./276228-hypnofantasis.json) |
 | Hypnolab VR | 168626 | [168626-hypnolab-vr.json](./168626-hypnolab-vr.json) |
+| Hypnomemoria | 295615 | [295615-hypnomemoria.json](./295615-hypnomemoria.json) |
 | Hypnophobia; From Your Shadow | 397035 | [397035-hypnophobia-from-your-shadow.json](./397035-hypnophobia-from-your-shadow.json) |
 | HypnoQuest: Do as you please with MC Power | 82779 | [82779-hypnoquest-do-as-you-please-with-mc-power.json](./82779-hypnoquest-do-as-you-please-with-mc-power.json) |
 | Hypnorain | 22043 | [22043-hypnorain.json](./22043-hypnorain.json) |
