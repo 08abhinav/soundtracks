@@ -6099,6 +6099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Command The Toa Mahri | 343282 | [343282-bionicle-command-the-toa-mahri.json](./343282-bionicle-command-the-toa-mahri.json) |
 | Bionicle: Glatorian Arena | 343354 | [343354-bionicle-glatorian-arena.json](./343354-bionicle-glatorian-arena.json) |
 | Bionicle: Glatorian Arena 2 | 343358 | [343358-bionicle-glatorian-arena-2.json](./343358-bionicle-glatorian-arena-2.json) |
+| Bionicle: Kanohi Klash | 272690 | [272690-bionicle-kanohi-klash.json](./272690-bionicle-kanohi-klash.json) |
 | Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
@@ -13446,6 +13447,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Tales: Way Home | 156188 | [156188-button-tales-way-home.json](./156188-button-tales-way-home.json) |
 | Button VR | 231302 | [231302-button-vr.json](./231302-button-vr.json) |
 | Button VR Expeditions | 247762 | [247762-button-vr-expeditions.json](./247762-button-vr-expeditions.json) |
+| ButtonHunt | 272698 | [272698-buttonhunt.json](./272698-buttonhunt.json) |
+| ButtonHunt 2 | 272706 | [272706-buttonhunt-2.json](./272706-buttonhunt-2.json) |
 | ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
 | Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
