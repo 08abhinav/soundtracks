@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
 | Dark Old Sun II: Unspace | 217005 | [217005-dark-old-sun-ii-unspace.json](./217005-dark-old-sun-ii-unspace.json) |
 | Dark Orbit | 125371 | [125371-dark-orbit.json](./125371-dark-orbit.json) |
+| Dark Pact | 291849 | [291849-dark-pact.json](./291849-dark-pact.json) |
 | Dark Pals: The 2nd Floor | 422119 | [422119-dark-pals-the-2nd-floor.json](./422119-dark-pals-the-2nd-floor.json) |
 | Dark Parables: Ballad of Rapunzel | 57161 | [57161-dark-parables-ballad-of-rapunzel.json](./57161-dark-parables-ballad-of-rapunzel.json) |
 | Dark Parables: Ballad of Rapunzel - Collector's Edition | 36466 | [36466-dark-parables-ballad-of-rapunzel-collectors-edition.json](./36466-dark-parables-ballad-of-rapunzel-collectors-edition.json) |
@@ -2048,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
+| Dawnmaker | 291853 | [291853-dawnmaker.json](./291853-dawnmaker.json) |
 | DawnOfCombat | 260630 | [260630-dawnofcombat.json](./260630-dawnofcombat.json) |
 | Dawnspire: Prelude | 70476 | [70476-dawnspire-prelude.json](./70476-dawnspire-prelude.json) |
 | Dawntide | 204977 | [204977-dawntide.json](./204977-dawntide.json) |
@@ -4513,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
 | DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
+| DeMiriam Magic: Blueprint of Miracle | 291857 | [291857-demiriam-magic-blueprint-of-miracle.json](./291857-demiriam-magic-blueprint-of-miracle.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demise: Revenge of the Tavern Keeper | 415940 | [415940-demise-revenge-of-the-tavern-keeper.json](./415940-demise-revenge-of-the-tavern-keeper.json) |
 | Demise: Survival Uncharted | 260311 | [260311-demise-survival-uncharted.json](./260311-demise-survival-uncharted.json) |
@@ -10175,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr Scrime's Spook School | 13607 | [13607-dr-scrimes-spook-school.json](./13607-dr-scrimes-spook-school.json) |
 | Dr Smart Space Encyclopedia | 242046 | [242046-dr-smart-space-encyclopedia.json](./242046-dr-smart-space-encyclopedia.json) |
 | Dr Wan | 246849 | [246849-dr-wan.json](./246849-dr-wan.json) |
+| Dr. Alb's Prodigy | 291844 | [291844-dr-albs-prodigy.json](./291844-dr-albs-prodigy.json) |
 | Dr. Atominus | 142807 | [142807-dr-atominus.json](./142807-dr-atominus.json) |
 | Dr. Awesome, MicroSurgeon M.D. | 70567 | [70567-dr-awesome-microsurgeon-m-d.json](./70567-dr-awesome-microsurgeon-m-d.json) |
 | Dr. Blob's Organism | 73698 | [73698-dr-blobs-organism.json](./73698-dr-blobs-organism.json) |
@@ -13894,6 +13898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Rêve Parfait: V Edition | 136763 | [136763-dynamic-chord-feat-reve-parfait-v-edition.json](./136763-dynamic-chord-feat-reve-parfait-v-edition.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
+| Dynamic Destruction | 291837 | [291837-dynamic-destruction.json](./291837-dynamic-destruction.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
