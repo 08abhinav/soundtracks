@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
 | A Normal Survey | 393794 | [393794-a-normal-survey.json](./393794-a-normal-survey.json) |
+| A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
@@ -2636,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdventureQuest Worlds | 107272 | [107272-adventurequest-worlds.json](./107272-adventurequest-worlds.json) |
 | AdventureQuest Worlds: Infinity | 211394 | [211394-adventurequest-worlds-infinity.json](./211394-adventurequest-worlds-infinity.json) |
 | Adventurer | 391046 | [391046-adventurer.json](./391046-adventurer.json) |
+| Adventurer Farmer: Save my Son! | 265466 | [265466-adventurer-farmer-save-my-son.json](./265466-adventurer-farmer-save-my-son.json) |
 | Adventurer Flower | 232935 | [232935-adventurer-flower.json](./232935-adventurer-flower.json) |
 | Adventurer Guild | 109882 | [109882-adventurer-guild.json](./109882-adventurer-guild.json) |
 | Adventurer Manager | 11442 | [11442-adventurer-manager.json](./11442-adventurer-manager.json) |
@@ -9732,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Area Zero | 360739 | [360739-area-zero.json](./360739-area-zero.json) |
 | Area-X | 35734 | [35734-area-x.json](./35734-area-x.json) |
 | Area: Zero | 221151 | [221151-area-zero.json](./221151-area-zero.json) |
+| Area93 | 265502 | [265502-area93.json](./265502-area93.json) |
 | aReaker Water | 74068 | [74068-areaker-water.json](./74068-areaker-water.json) |
 | Areas | 269056 | [269056-areas.json](./269056-areas.json) |
 | AreaZ | 110925 | [110925-areaz.json](./110925-areaz.json) |
@@ -12643,6 +12646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
 | Auto Cast | 197092 | [197092-auto-cast.json](./197092-auto-cast.json) |
 | Auto Cell: Game of Life | 165735 | [165735-auto-cell-game-of-life.json](./165735-auto-cell-game-of-life.json) |
+| Auto Check Up Simulator | 265497 | [265497-auto-check-up-simulator.json](./265497-auto-check-up-simulator.json) |
 | Auto Chess | 119188 | [119188-auto-chess.json](./119188-auto-chess.json) |
 | Auto Chess Souls | 392249 | [392249-auto-chess-souls.json](./392249-auto-chess-souls.json) |
 | Auto Clicker Pro | 303902 | [303902-auto-clicker-pro.json](./303902-auto-clicker-pro.json) |
@@ -13207,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axel & Pixel | 14845 | [14845-axel-and-pixel.json](./14845-axel-and-pixel.json) |
 | Axel City | 124767 | [124767-axel-city.json](./124767-axel-city.json) |
 | Axel's Journey | 183414 | [183414-axels-journey.json](./183414-axels-journey.json) |
+| Axembler | 265484 | [265484-axembler.json](./265484-axembler.json) |
 | Axes | 140967 | [140967-axes.json](./140967-axes.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
