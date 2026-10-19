@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitemare 2 | 274138 | [274138-whitemare-2.json](./274138-whitemare-2.json) |
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
+| Whiteout Frontier | 286949 | [286949-whiteout-frontier.json](./286949-whiteout-frontier.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
 | WhiteRoom | 181740 | [181740-whiteroom.json](./181740-whiteroom.json) |
 | Whites This | 320262 | [320262-whites-this.json](./320262-whites-this.json) |
