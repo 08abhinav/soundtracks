@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
 | Task Bar of Ragnalis | 412476 | [412476-task-bar-of-ragnalis.json](./412476-task-bar-of-ragnalis.json) |
+| Task Control | 264989 | [264989-task-control.json](./264989-task-control.json) |
 | Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
 | Task Force | 46890 | [46890-task-force.json](./46890-task-force.json) |
 | Task Force 88: Hostile Contact | 179209 | [179209-task-force-88-hostile-contact.json](./179209-task-force-88-hostile-contact.json) |
@@ -4096,6 +4097,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family | 145932 | [145932-the-addams-family.json](./145932-the-addams-family.json) |
 | The Addams Family: Mansion Mayhem | 150006 | [150006-the-addams-family-mansion-mayhem.json](./150006-the-addams-family-mansion-mayhem.json) |
 | The Addams Family: Mystery Mansion | 122228 | [122228-the-addams-family-mystery-mansion.json](./122228-the-addams-family-mystery-mansion.json) |
+| The Addams Family: Pugsley's Scavenger Hunt | 264995 | [264995-the-addams-family-pugsleys-scavenger-hunt.json](./264995-the-addams-family-pugsleys-scavenger-hunt.json) |
+| The Addams Family: Pugsley's Scavenger Hunt | 264996 | [264996-the-addams-family-pugsleys-scavenger-hunt.json](./264996-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 55891 | [55891-the-adliberum-engine.json](./55891-the-adliberum-engine.json) |
@@ -4203,6 +4206,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Rad Gravity | 8777 | [8777-the-adventures-of-rad-gravity.json](./8777-the-adventures-of-rad-gravity.json) |
 | The Adventures of Reynaldo | 146193 | [146193-the-adventures-of-reynaldo.json](./146193-the-adventures-of-reynaldo.json) |
 | The Adventures of Robin Hood | 265054 | [265054-the-adventures-of-robin-hood.json](./265054-the-adventures-of-robin-hood.json) |
+| The Adventures of Rocky and Bullwinkle and Friends | 264997 | [264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264997-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
+| The Adventures of Rocky and Bullwinkle and Friends | 264999 | [264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json](./264999-the-adventures-of-rocky-and-bullwinkle-and-friends.json) |
 | The Adventures of Sam Carlisle: The Hunt for the L | 76876 | [76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json](./76876-the-adventures-of-sam-carlisle-the-hunt-for-the-l.json) |
 | The Adventures of Sam Carlisle: The Hunt for the Lost Treasure | 75011 | [75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json](./75011-the-adventures-of-sam-carlisle-the-hunt-for-the-lost-treasure.json) |
 | The Adventures of Sheep and Sheep | 262451 | [262451-the-adventures-of-sheep-and-sheep.json](./262451-the-adventures-of-sheep-and-sheep.json) |
@@ -4679,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
 | The Battle of Mahjong | 67925 | [67925-the-battle-of-mahjong.json](./67925-the-battle-of-mahjong.json) |
+| The Battle of Olympus | 265038 | [265038-the-battle-of-olympus.json](./265038-the-battle-of-olympus.json) |
 | The Battle of Olympus | 7773 | [7773-the-battle-of-olympus.json](./7773-the-battle-of-olympus.json) |
 | The Battle of Polytopia | 57153 | [57153-the-battle-of-polytopia.json](./57153-the-battle-of-polytopia.json) |
 | The Battle of Polytopia: Ai-Mo | 371519 | [371519-the-battle-of-polytopia-ai-mo.json](./371519-the-battle-of-polytopia-ai-mo.json) |
@@ -4973,6 +4979,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bluecoats: North & South | 140958 | [140958-the-bluecoats-north-and-south.json](./140958-the-bluecoats-north-and-south.json) |
 | The Bluecoats: North vs South - Limited Edition | 139929 | [139929-the-bluecoats-north-vs-south-limited-edition.json](./139929-the-bluecoats-north-vs-south-limited-edition.json) |
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
+| The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
+| The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
 | The Boba Teashop | 340928 | [340928-the-boba-teashop.json](./340928-the-boba-teashop.json) |
 | The Boba Teashop: Refill | 422103 | [422103-the-boba-teashop-refill.json](./422103-the-boba-teashop-refill.json) |
@@ -18029,6 +18037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
+| Tobi D+Vine | 265024 | [265024-tobi-d-vine.json](./265024-tobi-d-vine.json) |
 | Tobi Topples Tyranny | 236343 | [236343-tobi-topples-tyranny.json](./236343-tobi-topples-tyranny.json) |
 | Tobi Tsukihime | 169159 | [169159-tobi-tsukihime.json](./169159-tobi-tsukihime.json) |
 | Tobia's Animal Farm | 301965 | [301965-tobias-animal-farm.json](./301965-tobias-animal-farm.json) |
