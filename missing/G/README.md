@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic-A-Tactic: The Most Diplomatic Solution | 367975 | [367975-galactic-a-tactic-the-most-diplomatic-solution.json](./367975-galactic-a-tactic-the-most-diplomatic-solution.json) |
 | Galactic: The Xmas Edition | 327803 | [327803-galactic-the-xmas-edition.json](./327803-galactic-the-xmas-edition.json) |
 | Galactica: Batalha Espacial | 123033 | [123033-galactica-batalha-espacial.json](./123033-galactica-batalha-espacial.json) |
+| Galacticare: Supporter Pack | 302210 | [302210-galacticare-supporter-pack.json](./302210-galacticare-supporter-pack.json) |
 | Galacticare: The Voice Beyond | 337495 | [337495-galacticare-the-voice-beyond.json](./337495-galacticare-the-voice-beyond.json) |
 | Galactico | 285561 | [285561-galactico.json](./285561-galactico.json) |
 | Galacticraft | 232681 | [232681-galacticraft.json](./232681-galacticraft.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | General War Memories | 168623 | [168623-general-war-memories.json](./168623-general-war-memories.json) |
 | General's Son | 48579 | [48579-generals-son.json](./48579-generals-son.json) |
 | Generality | 205068 | [205068-generality.json](./205068-generality.json) |
+| Generality 4 | 302227 | [302227-generality-4.json](./302227-generality-4.json) |
 | GeneRally | 19280 | [19280-generally.json](./19280-generally.json) |
 | GeneRally 2 | 233559 | [233559-generally-2.json](./233559-generally-2.json) |
 | Generals | 141672 | [141672-generals.json](./141672-generals.json) |
@@ -3274,6 +3276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls and Dungeons | 54869 | [54869-girls-and-dungeons.json](./54869-girls-and-dungeons.json) |
 | Girls and Quiz | 40710 | [40710-girls-and-quiz.json](./40710-girls-and-quiz.json) |
 | Girls and Robots | 266761 | [266761-girls-and-robots.json](./266761-girls-and-robots.json) |
+| Girls are Weird | 302229 | [302229-girls-are-weird.json](./302229-girls-are-weird.json) |
 | Girls Band Cry First Riff | 369766 | [369766-girls-band-cry-first-riff.json](./369766-girls-band-cry-first-riff.json) |
 | Girls Battlegrounds | 284340 | [284340-girls-battlegrounds.json](./284340-girls-battlegrounds.json) |
 | Girls Book Maker: Shiawase no Libretto | 194573 | [194573-girls-book-maker-shiawase-no-libretto.json](./194573-girls-book-maker-shiawase-no-libretto.json) |
@@ -6380,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Maze | 136459 | [136459-greedy-maze.json](./136459-greedy-maze.json) |
 | Greedy Penguins | 20715 | [20715-greedy-penguins.json](./20715-greedy-penguins.json) |
 | Greedy Rabbit | 190089 | [190089-greedy-rabbit.json](./190089-greedy-rabbit.json) |
+| Greedy Snake | 302242 | [302242-greedy-snake.json](./302242-greedy-snake.json) |
 | Greedy Squad | 348856 | [348856-greedy-squad.json](./348856-greedy-squad.json) |
 | Greedy Words | 209778 | [209778-greedy-words.json](./209778-greedy-words.json) |
 | Greedy Worm | 212523 | [212523-greedy-worm.json](./212523-greedy-worm.json) |
@@ -7921,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | GunFleet | 30023 | [30023-gunfleet.json](./30023-gunfleet.json) |
+| Gunflow | 302087 | [302087-gunflow.json](./302087-gunflow.json) |
 | Gunfright | 14102 | [14102-gunfright.json](./14102-gunfright.json) |
 | GunFu Deadlands | 242441 | [242441-gunfu-deadlands.json](./242441-gunfu-deadlands.json) |
 | Gung 3D | 208654 | [208654-gung-3d.json](./208654-gung-3d.json) |
