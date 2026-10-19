@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
 | Magic Tiny Lands | 367494 | [367494-magic-tiny-lands.json](./367494-magic-tiny-lands.json) |
 | Magic Toenail | 247478 | [247478-magic-toenail.json](./247478-magic-toenail.json) |
+| Magic Touch | 280672 | [280672-magic-touch.json](./280672-magic-touch.json) |
 | Magic Touch: Wizard for Hire | 117755 | [117755-magic-touch-wizard-for-hire.json](./117755-magic-touch-wizard-for-hire.json) |
 | Magic Tower | 161372 | [161372-magic-tower.json](./161372-magic-tower.json) |
 | Magic Tower | 210644 | [210644-magic-tower.json](./210644-magic-tower.json) |
@@ -10669,6 +10670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moccoletti | 302381 | [302381-moccoletti.json](./302381-moccoletti.json) |
 | Mochi Conquest | 376004 | [376004-mochi-conquest.json](./376004-mochi-conquest.json) |
 | Mochi in Frosting | 146518 | [146518-mochi-in-frosting.json](./146518-mochi-in-frosting.json) |
+| Mochi Jump | 280647 | [280647-mochi-jump.json](./280647-mochi-jump.json) |
 | Mochi Mochi Boy | 112709 | [112709-mochi-mochi-boy.json](./112709-mochi-mochi-boy.json) |
 | Mochi Word Puzzles | 100881 | [100881-mochi-word-puzzles.json](./100881-mochi-word-puzzles.json) |
 | Mochi-O | 339988 | [339988-mochi-o.json](./339988-mochi-o.json) |
