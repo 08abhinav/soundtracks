@@ -8822,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
 | Friendly Sheeps: A Cozy Simulator | 326430 | [326430-friendly-sheeps-a-cozy-simulator.json](./326430-friendly-sheeps-a-cozy-simulator.json) |
+| Friendly Snowball | 284778 | [284778-friendly-snowball.json](./284778-friendly-snowball.json) |
 | Friendly Steps | 396887 | [396887-friendly-steps.json](./396887-friendly-steps.json) |
 | Friendly Warfare | 211938 | [211938-friendly-warfare.json](./211938-friendly-warfare.json) |
 | FriendlyWare P.C. Arcade | 70091 | [70091-friendlyware-p-c-arcade.json](./70091-friendlyware-p-c-arcade.json) |
