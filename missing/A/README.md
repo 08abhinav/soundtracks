@@ -4640,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 140323 | [140323-alice-in-wonderland.json](./140323-alice-in-wonderland.json) |
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
+| Alice in Wonderland | 296824 | [296824-alice-in-wonderland.json](./296824-alice-in-wonderland.json) |
 | Alice in Wonderland | 50016 | [50016-alice-in-wonderland.json](./50016-alice-in-wonderland.json) |
 | Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
@@ -4689,7 +4690,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Warped Wonderland: Recollection | 214444 | [214444-alices-warped-wonderland-recollection.json](./214444-alices-warped-wonderland-recollection.json) |
 | Alice's Wonderland 2: Stolen Souls | 357105 | [357105-alices-wonderland-2-stolen-souls.json](./357105-alices-wonderland-2-stolen-souls.json) |
 | Alice's Wonderland 2: Stolen Souls - Collector's Edition | 337267 | [337267-alices-wonderland-2-stolen-souls-collectors-edition.json](./337267-alices-wonderland-2-stolen-souls-collectors-edition.json) |
+| Alice's Wonderland 3: Shackles of Time | 296818 | [296818-alices-wonderland-3-shackles-of-time.json](./296818-alices-wonderland-3-shackles-of-time.json) |
 | Alice's Wonderland 3: Shackles of Time - Collector's Edition | 357106 | [357106-alices-wonderland-3-shackles-of-time-collectors-edition.json](./357106-alices-wonderland-3-shackles-of-time-collectors-edition.json) |
+| Alice's Wonderland 4: Festive Craze | 296815 | [296815-alices-wonderland-4-festive-craze.json](./296815-alices-wonderland-4-festive-craze.json) |
 | Alice's Wonderland 5: A Ray of Hope | 416870 | [416870-alices-wonderland-5-a-ray-of-hope.json](./416870-alices-wonderland-5-a-ray-of-hope.json) |
 | Alice's Wonderland 5: A Ray of Hope - Collector's Edition | 337268 | [337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json](./337268-alices-wonderland-5-a-ray-of-hope-collectors-edition.json) |
 | Alice's Wonderland 6: Fire and Ice - Collector's Edition | 337269 | [337269-alices-wonderland-6-fire-and-ice-collectors-edition.json](./337269-alices-wonderland-6-fire-and-ice-collectors-edition.json) |
@@ -7370,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Hero Zero | 292011 | [292011-anime-hero-zero.json](./292011-anime-hero-zero.json) |
 | Anime Hero Zero 2 | 292013 | [292013-anime-hero-zero-2.json](./292013-anime-hero-zero-2.json) |
 | Anime Hero Zero 3 | 292014 | [292014-anime-hero-zero-3.json](./292014-anime-hero-zero-3.json) |
+| Anime High School Simulator | 296741 | [296741-anime-high-school-simulator.json](./296741-anime-high-school-simulator.json) |
 | Anime In 10 Words | 243751 | [243751-anime-in-10-words.json](./243751-anime-in-10-words.json) |
 | Anime Jigsaw | 357872 | [357872-anime-jigsaw.json](./357872-anime-jigsaw.json) |
 | Anime Jigsaw Girls: Christmas | 286515 | [286515-anime-jigsaw-girls-christmas.json](./286515-anime-jigsaw-girls-christmas.json) |
@@ -7397,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Romance Boys Collection: 2 Game Bundle | 393763 | [393763-anime-romance-boys-collection-2-game-bundle.json](./393763-anime-romance-boys-collection-2-game-bundle.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
 | Anime School Love: His Teacher Secret Lesson | 378780 | [378780-anime-school-love-his-teacher-secret-lesson.json](./378780-anime-school-love-his-teacher-secret-lesson.json) |
+| Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
@@ -10258,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World in 80 Days: Extended Edition | 52424 | [52424-around-the-world-in-80-days-extended-edition.json](./52424-around-the-world-in-80-days-extended-edition.json) |
 | Around the World in 80d 2019 | 134390 | [134390-around-the-world-in-80d-2019.json](./134390-around-the-world-in-80d-2019.json) |
 | Around the World Mosaics | 296811 | [296811-around-the-world-mosaics.json](./296811-around-the-world-mosaics.json) |
+| Around the World Mosaics II | 296812 | [296812-around-the-world-mosaics-ii.json](./296812-around-the-world-mosaics-ii.json) |
 | Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
@@ -12648,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
 | AutoSquad | 390017 | [390017-autosquad.json](./390017-autosquad.json) |
+| Autotag | 296717 | [296717-autotag.json](./296717-autotag.json) |
 | Autumn | 22025 | [22025-autumn.json](./22025-autumn.json) |
 | Autumn and Girls | 149393 | [149393-autumn-and-girls.json](./149393-autumn-and-girls.json) |
 | Autumn Aurora 2 | 376213 | [376213-autumn-aurora-2.json](./376213-autumn-aurora-2.json) |
