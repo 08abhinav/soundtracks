@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Runner | 153346 | [153346-dark-runner.json](./153346-dark-runner.json) |
+| Dark Samurai Avengers | 298916 | [298916-dark-samurai-avengers.json](./298916-dark-samurai-avengers.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Labyrinth | 237074 | [237074-demonic-labyrinth.json](./237074-demonic-labyrinth.json) |
 | Demonic Libido | 262427 | [262427-demonic-libido.json](./262427-demonic-libido.json) |
 | Demonic Pack | 237462 | [237462-demonic-pack.json](./237462-demonic-pack.json) |
+| Demonic Suitors | 298918 | [298918-demonic-suitors.json](./298918-demonic-suitors.json) |
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
@@ -8020,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DK Online | 114508 | [114508-dk-online.json](./114508-dk-online.json) |
 | DK: Jungle Climber | 1099 | [1099-dk-jungle-climber.json](./1099-dk-jungle-climber.json) |
 | DK: King of Swing - Hurling for Distance | 231633 | [231633-dk-king-of-swing-hurling-for-distance.json](./231633-dk-king-of-swing-hurling-for-distance.json) |
+| DK: King of Swing Remix | 298941 | [298941-dk-king-of-swing-remix.json](./298941-dk-king-of-swing-remix.json) |
 | DK64 Randomizer | 206186 | [206186-dk64-randomizer.json](./206186-dk64-randomizer.json) |
 | DK64: Rekongpiled | 408549 | [408549-dk64-rekongpiled.json](./408549-dk64-rekongpiled.json) |
 | DKC New Competition Cartridge | 219079 | [219079-dkc-new-competition-cartridge.json](./219079-dkc-new-competition-cartridge.json) |
@@ -13274,6 +13277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Survivor.io | 260706 | [260706-dungeon-survivor-io.json](./260706-dungeon-survivor-io.json) |
 | Dungeon Survivors | 257935 | [257935-dungeon-survivors.json](./257935-dungeon-survivors.json) |
 | Dungeon Swappers | 149702 | [149702-dungeon-swappers.json](./149702-dungeon-swappers.json) |
+| Dungeon Sweeper | 298922 | [298922-dungeon-sweeper.json](./298922-dungeon-sweeper.json) |
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
