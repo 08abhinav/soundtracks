@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenyuu Densetsu Yaiba | 282500 | [282500-kenyuu-densetsu-yaiba.json](./282500-kenyuu-densetsu-yaiba.json) |
 | Kenyuu Densetsu Yaiba | 38181 | [38181-kenyuu-densetsu-yaiba.json](./38181-kenyuu-densetsu-yaiba.json) |
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
+| Keo and the Cosmic Crystals | 266070 | [266070-keo-and-the-cosmic-crystals.json](./266070-keo-and-the-cosmic-crystals.json) |
 | Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Kepler-2100 | 283031 | [283031-kepler-2100.json](./283031-kepler-2100.json) |
@@ -3014,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten's Head Football: Complete Edition | 268565 | [268565-kittens-head-football-complete-edition.json](./268565-kittens-head-football-complete-edition.json) |
 | Kitten's Head Football: Halloween | 223560 | [223560-kittens-head-football-halloween.json](./223560-kittens-head-football-halloween.json) |
 | Kitten's Head Football: Spooky Edition | 221970 | [221970-kittens-head-football-spooky-edition.json](./221970-kittens-head-football-spooky-edition.json) |
+| Kitten's Wardrobe | 266084 | [266084-kittens-wardrobe.json](./266084-kittens-wardrobe.json) |
 | Kittenbay Cats - A Hidden Object Game | 277750 | [277750-kittenbay-cats-a-hidden-object-game.json](./277750-kittenbay-cats-a-hidden-object-game.json) |
 | Kittengumi Short: Chapter 0 | 376268 | [376268-kittengumi-short-chapter-0.json](./376268-kittengumi-short-chapter-0.json) |
 | Kittengumi: The Sakabato's Thief | 258467 | [258467-kittengumi-the-sakabatos-thief.json](./258467-kittengumi-the-sakabatos-thief.json) |
