@@ -9917,6 +9917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
+| Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
 | Mirrorscape: Outdoor Starter Pack | 301848 | [301848-mirrorscape-outdoor-starter-pack.json](./301848-mirrorscape-outdoor-starter-pack.json) |
@@ -15024,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Free Farm | 286409 | [286409-my-free-farm.json](./286409-my-free-farm.json) |
+| My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
@@ -15868,6 +15870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious warrior | 165679 | [165679-mysterious-warrior.json](./165679-mysterious-warrior.json) |
 | Mystery | 167267 | [167267-mystery.json](./167267-mystery.json) |
 | Mystery Adventure The Maid Did It | 402378 | [402378-mystery-adventure-the-maid-did-it.json](./402378-mystery-adventure-the-maid-did-it.json) |
+| Mystery at Grand Fir Village | 274347 | [274347-mystery-at-grand-fir-village.json](./274347-mystery-at-grand-fir-village.json) |
 | Mystery at Morgoth | 173008 | [173008-mystery-at-morgoth.json](./173008-mystery-at-morgoth.json) |
 | Mystery at Rainy Night Manor: The Missing Invitation | 409657 | [409657-mystery-at-rainy-night-manor-the-missing-invitation.json](./409657-mystery-at-rainy-night-manor-the-missing-invitation.json) |
 | Mystery at Stonyford Bridge | 121333 | [121333-mystery-at-stonyford-bridge.json](./121333-mystery-at-stonyford-bridge.json) |
