@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HandyBot | 57891 | [57891-handybot.json](./57891-handybot.json) |
 | HandyCopter | 89959 | [89959-handycopter.json](./89959-handycopter.json) |
 | Handycrafts for all | 60392 | [60392-handycrafts-for-all.json](./60392-handycrafts-for-all.json) |
+| HandyGames Deluxe Pack | 286944 | [286944-handygames-deluxe-pack.json](./286944-handygames-deluxe-pack.json) |
 | Handyman | 117582 | [117582-handyman.json](./117582-handyman.json) |
 | Handyman | 216202 | [216202-handyman.json](./216202-handyman.json) |
 | Handyman Corporation | 190392 | [190392-handyman-corporation.json](./190392-handyman-corporation.json) |
@@ -3545,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Breaker | 365416 | [365416-hentai-breaker.json](./365416-hentai-breaker.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
+| Hentai Bunny | 286990 | [286990-hentai-bunny.json](./286990-hentai-bunny.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
 | Hentai Case Opening | 106426 | [106426-hentai-case-opening.json](./106426-hentai-case-opening.json) |
