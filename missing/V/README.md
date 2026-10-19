@@ -2087,6 +2087,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
 | Virtual Vacation Zone | 165167 | [165167-virtual-vacation-zone.json](./165167-virtual-vacation-zone.json) |
+| Virtual Valerie | 280645 | [280645-virtual-valerie.json](./280645-virtual-valerie.json) |
+| Virtual Valerie 2 | 280646 | [280646-virtual-valerie-2.json](./280646-virtual-valerie-2.json) |
 | Virtual VCS | 270271 | [270271-virtual-vcs.json](./270271-virtual-vcs.json) |
 | Virtual Vegas 7007 Slots | 67178 | [67178-virtual-vegas-7007-slots.json](./67178-virtual-vegas-7007-slots.json) |
 | Virtual Viking | 133216 | [133216-virtual-viking.json](./133216-virtual-viking.json) |
