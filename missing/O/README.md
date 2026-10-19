@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
+| Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | oO | 35316 | [35316-oo.json](./35316-oo.json) |
 | Oo-Topos | 25611 | [25611-oo-topos.json](./25611-oo-topos.json) |
@@ -3211,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Oryks | 311159 | [311159-oryks.json](./311159-oryks.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
+| Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
 | Os Invasores do Futuro | 300447 | [300447-os-invasores-do-futuro.json](./300447-os-invasores-do-futuro.json) |
 | Os Invasores do Futuro 2 | 300448 | [300448-os-invasores-do-futuro-2.json](./300448-os-invasores-do-futuro-2.json) |
