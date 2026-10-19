@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Chrome: Overseer Edition | 143022 | [143022-neon-chrome-overseer-edition.json](./143022-neon-chrome-overseer-edition.json) |
 | Neon Circle | 211119 | [211119-neon-circle.json](./211119-neon-circle.json) |
 | Neon City | 249354 | [249354-neon-city.json](./249354-neon-city.json) |
+| Neon City Climbing Simulator | 270533 | [270533-neon-city-climbing-simulator.json](./270533-neon-city-climbing-simulator.json) |
 | Neon City Hacker | 322610 | [322610-neon-city-hacker.json](./322610-neon-city-hacker.json) |
 | Neon City of Desires | 260155 | [260155-neon-city-of-desires.json](./260155-neon-city-of-desires.json) |
 | Neon City Riders | 51949 | [51949-neon-city-riders.json](./51949-neon-city-riders.json) |
@@ -2207,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neural Rot | 374239 | [374239-neural-rot.json](./374239-neural-rot.json) |
 | Neural Synapse | 297159 | [297159-neural-synapse.json](./297159-neural-synapse.json) |
 | Neural Tanks | 369702 | [369702-neural-tanks.json](./369702-neural-tanks.json) |
+| Neuralgia | 270515 | [270515-neuralgia.json](./270515-neuralgia.json) |
 | Neuralimina | 382215 | [382215-neuralimina.json](./382215-neuralimina.json) |
 | Neuro | 141857 | [141857-neuro.json](./141857-neuro.json) |
 | Neuro | 98896 | [98896-neuro.json](./98896-neuro.json) |
@@ -5574,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Num Dá Véi! | 329673 | [329673-num-da-vei.json](./329673-num-da-vei.json) |
 | Num One: Revised Edition | 187504 | [187504-num-one-revised-edition.json](./187504-num-one-revised-edition.json) |
 | Num Yumms | 252143 | [252143-num-yumms.json](./252143-num-yumms.json) |
+| Num-Sama | 270561 | [270561-num-sama.json](./270561-num-sama.json) |
 | Numachina | 350412 | [350412-numachina.json](./350412-numachina.json) |
 | Numantia | 73075 | [73075-numantia.json](./73075-numantia.json) |
 | Numanuin | 235364 | [235364-numanuin.json](./235364-numanuin.json) |
