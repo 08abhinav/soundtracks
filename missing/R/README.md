@@ -2676,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recyclamation | 380201 | [380201-recyclamation.json](./380201-recyclamation.json) |
 | Recycle | 17300 | [17300-recycle.json](./17300-recycle.json) |
 | Recycle Design | 195055 | [195055-recycle-design.json](./195055-recycle-design.json) |
+| Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring of Destruction: Slam Masters II | 39567 | [39567-ring-of-destruction-slam-masters-ii.json](./39567-ring-of-destruction-slam-masters-ii.json) |
 | Ring of Elysium | 95308 | [95308-ring-of-elysium.json](./95308-ring-of-elysium.json) |
 | Ring of Fire | 115464 | [115464-ring-of-fire.json](./115464-ring-of-fire.json) |
+| Ring of Power | 296147 | [296147-ring-of-power.json](./296147-ring-of-power.json) |
 | Ring of Red | 22010 | [22010-ring-of-red.json](./22010-ring-of-red.json) |
 | Ring of The Devil | 285935 | [285935-ring-of-the-devil.json](./285935-ring-of-the-devil.json) |
 | Ring of Titans | 189162 | [189162-ring-of-titans.json](./189162-ring-of-titans.json) |
@@ -8947,6 +8949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
+| Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
 | Run Run Iguana! | 403669 | [403669-run-run-iguana.json](./403669-run-run-iguana.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
@@ -9529,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryu ga Gotoku 1&2 HD Edition | 26603 | [26603-ryu-ga-gotoku-1-and-2-hd-edition.json](./26603-ryu-ga-gotoku-1-and-2-hd-edition.json) |
 | Ryu Jin | 40253 | [40253-ryu-jin.json](./40253-ryu-jin.json) |
 | Ryu Kyu | 37657 | [37657-ryu-kyu.json](./37657-ryu-kyu.json) |
+| Ryudragon | 296188 | [296188-ryudragon.json](./296188-ryudragon.json) |
 | Ryuki Densyo: Dragoon | 60064 | [60064-ryuki-densyo-dragoon.json](./60064-ryuki-densyo-dragoon.json) |
 | Ryuko: Legend of Shadow Hunter | 174778 | [174778-ryuko-legend-of-shadow-hunter.json](./174778-ryuko-legend-of-shadow-hunter.json) |
 | Ryuu ga Gotoku Ishin! | 12736 | [12736-ryuu-ga-gotoku-ishin.json](./12736-ryuu-ga-gotoku-ishin.json) |
