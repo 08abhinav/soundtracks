@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backroom Beyond | 206596 | [206596-backroom-beyond.json](./206596-backroom-beyond.json) |
 | Backroom Cleaners | 383672 | [383672-backroom-cleaners.json](./383672-backroom-cleaners.json) |
 | Backroom Company | 309554 | [309554-backroom-company.json](./309554-backroom-company.json) |
+| Backroom Escape: Labyrinth Horror | 308653 | [308653-backroom-escape-labyrinth-horror.json](./308653-backroom-escape-labyrinth-horror.json) |
 | Backrooms | 306424 | [306424-backrooms.json](./306424-backrooms.json) |
 | Backrooms | 379993 | [379993-backrooms.json](./379993-backrooms.json) |
 | Backrooms | 379994 | [379994-backrooms.json](./379994-backrooms.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Showdown: Royale | 244798 | [244798-basketball-showdown-royale.json](./244798-basketball-showdown-royale.json) |
 | Basketball Simulator | 255061 | [255061-basketball-simulator.json](./255061-basketball-simulator.json) |
 | Basketball Slam! | 237651 | [237651-basketball-slam.json](./237651-basketball-slam.json) |
+| Basketball Slum Dunk 2024 | 308652 | [308652-basketball-slum-dunk-2024.json](./308652-basketball-slum-dunk-2024.json) |
 | BasketBall Street Hero | 239122 | [239122-basketball-street-hero.json](./239122-basketball-street-hero.json) |
 | Basketball Théorie Pratique sur Ensembles Aléatoires | 355145 | [355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json](./355145-basketball-theorie-pratique-sur-ensembles-aleatoires.json) |
 | Basketball Trivia | 88203 | [88203-basketball-trivia.json](./88203-basketball-trivia.json) |
@@ -10530,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Training! Order Quiz | 403739 | [403739-brain-training-order-quiz.json](./403739-brain-training-order-quiz.json) |
 | Brain Training! Perfect Memory | 365559 | [365559-brain-training-perfect-memory.json](./365559-brain-training-perfect-memory.json) |
 | Brain Training!! Hiragana ＆ Katakana Search | 316199 | [316199-brain-training-hiragana-and-katakana-search.json](./316199-brain-training-hiragana-and-katakana-search.json) |
+| Brain Training!! Number Search | 308651 | [308651-brain-training-number-search.json](./308651-brain-training-number-search.json) |
 | Brain Urge | 278556 | [278556-brain-urge.json](./278556-brain-urge.json) |
 | Brain Vomits Garden | 203897 | [203897-brain-vomits-garden.json](./203897-brain-vomits-garden.json) |
 | Brain Voyage | 21483 | [21483-brain-voyage.json](./21483-brain-voyage.json) |
@@ -10772,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
+| Brawl Arena: Arcade Shooter | 308645 | [308645-brawl-arena-arcade-shooter.json](./308645-brawl-arena-arcade-shooter.json) |
 | Brawl Bolts | 114743 | [114743-brawl-bolts.json](./114743-brawl-bolts.json) |
 | Brawl Boys | 234354 | [234354-brawl-boys.json](./234354-brawl-boys.json) |
 | Brawl Brothers | 42639 | [42639-brawl-brothers.json](./42639-brawl-brothers.json) |
@@ -11034,6 +11038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakneck City | 127730 | [127730-breakneck-city.json](./127730-breakneck-city.json) |
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
+| Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
 | Breakout | 85967 | [85967-breakout.json](./85967-breakout.json) |
 | Breakout 13 | 212735 | [212735-breakout-13.json](./212735-breakout-13.json) |
 | Breakout 2000 | 40816 | [40816-breakout-2000.json](./40816-breakout-2000.json) |
@@ -13156,6 +13161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busty Hentai Mosaic | 291068 | [291068-busty-hentai-mosaic.json](./291068-busty-hentai-mosaic.json) |
 | Busty Maid: Creampie Heaven | 127964 | [127964-busty-maid-creampie-heaven.json](./127964-busty-maid-creampie-heaven.json) |
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
+| Busway Islands: Puzzle | 308646 | [308646-busway-islands-puzzle.json](./308646-busway-islands-puzzle.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Bee | 246866 | [246866-busy-bee.json](./246866-busy-bee.json) |
 | Busy Bong | 246320 | [246320-busy-bong.json](./246320-busy-bong.json) |
