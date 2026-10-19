@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yapori Advance | 392747 | [392747-yapori-advance.json](./392747-yapori-advance.json) |
 | Yapori Minigames | 302772 | [302772-yapori-minigames.json](./302772-yapori-minigames.json) |
 | YAPP2: Yet Another Pushing Puzzler 2 | 105195 | [105195-yapp2-yet-another-pushing-puzzler-2.json](./105195-yapp2-yet-another-pushing-puzzler-2.json) |
+| Yappie! Knockout | 256115 | [256115-yappie-knockout.json](./256115-yappie-knockout.json) |
 | Yappy Bird | 412508 | [412508-yappy-bird.json](./412508-yappy-bird.json) |
 | Yapyap | 363307 | [363307-yapyap.json](./363307-yapyap.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
