@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasol Stars: Rainbow Islands 2 | 39027 | [39027-parasol-stars-rainbow-islands-2.json](./39027-parasol-stars-rainbow-islands-2.json) |
 | Parasol Stars: Rainbow Islands II | 316080 | [316080-parasol-stars-rainbow-islands-ii.json](./316080-parasol-stars-rainbow-islands-ii.json) |
 | Parasol Stars: Rainbow Islands II | 48278 | [48278-parasol-stars-rainbow-islands-ii.json](./48278-parasol-stars-rainbow-islands-ii.json) |
+| Parasol Stars: The Story of Bubble Bobble III | 305618 | [305618-parasol-stars-the-story-of-bubble-bobble-iii.json](./305618-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasol Stars: The Story of Bubble Bobble III | 42101 | [42101-parasol-stars-the-story-of-bubble-bobble-iii.json](./42101-parasol-stars-the-story-of-bubble-bobble-iii.json) |
 | Parasomnia Verum | 153972 | [153972-parasomnia-verum.json](./153972-parasomnia-verum.json) |
 | Parasomnia: No Rem | 318531 | [318531-parasomnia-no-rem.json](./318531-parasomnia-no-rem.json) |
@@ -9153,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop & Chips | 83213 | [83213-pop-and-chips.json](./83213-pop-and-chips.json) |
 | Pop and Chicks | 253364 | [253364-pop-and-chicks.json](./253364-pop-and-chicks.json) |
 | Pop and Well | 158626 | [158626-pop-and-well.json](./158626-pop-and-well.json) |
+| Pop Art | 305627 | [305627-pop-art.json](./305627-pop-art.json) |
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
 | Pop Battle | 208069 | [208069-pop-battle.json](./208069-pop-battle.json) |
@@ -13222,6 +13224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Box Maker | 84795 | [84795-puzzle-box-maker.json](./84795-puzzle-box-maker.json) |
 | Puzzle Box Palace | 144124 | [144124-puzzle-box-palace.json](./144124-puzzle-box-palace.json) |
 | Puzzle Box-Puzzles All In One | 104608 | [104608-puzzle-box-puzzles-all-in-one.json](./104608-puzzle-box-puzzles-all-in-one.json) |
+| Puzzle Box: Animals | 305617 | [305617-puzzle-box-animals.json](./305617-puzzle-box-animals.json) |
 | Puzzle Boys | 41393 | [41393-puzzle-boys.json](./41393-puzzle-boys.json) |
 | Puzzle Bundle Xbox: Mimi New Friend, Sokocrab and StoryBlocks | 335104 | [335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json](./335104-puzzle-bundle-xbox-mimi-new-friend-sokocrab-and-storyblocks.json) |
 | Puzzle Bundle Xbox: PuzzlePet - Feed Your Cat, Say Cheese, Mimi the Cat: New Friends, Story Blocks: The King and Sokocrab | 335103 | [335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json](./335103-puzzle-bundle-xbox-puzzlepet-feed-your-cat-say-cheese-mimi-the-cat-new-friends-story-blocks-the-king-and-sokocrab.json) |
@@ -13462,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle World Bundle | 308628 | [308628-puzzle-world-bundle.json](./308628-puzzle-world-bundle.json) |
 | Puzzle World: Cute Cats | 300853 | [300853-puzzle-world-cute-cats.json](./300853-puzzle-world-cute-cats.json) |
 | Puzzle World: Cute Monsters | 203525 | [203525-puzzle-world-cute-monsters.json](./203525-puzzle-world-cute-monsters.json) |
+| Puzzle World: Funny Dogs | 305620 | [305620-puzzle-world-funny-dogs.json](./305620-puzzle-world-funny-dogs.json) |
 | Puzzle World: Neko Girls | 300852 | [300852-puzzle-world-neko-girls.json](./300852-puzzle-world-neko-girls.json) |
 | Puzzle X: Model Girls | 420661 | [420661-puzzle-x-model-girls.json](./420661-puzzle-x-model-girls.json) |
 | Puzzle XL | 87705 | [87705-puzzle-xl.json](./87705-puzzle-xl.json) |
