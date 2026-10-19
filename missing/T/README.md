@@ -13633,6 +13633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Couch Game | 288626 | [288626-the-ultimate-couch-game.json](./288626-the-ultimate-couch-game.json) |
 | The Ultimate Death Clock | 251720 | [251720-the-ultimate-death-clock.json](./251720-the-ultimate-death-clock.json) |
+| The Ultimate Doom | 260017 | [260017-the-ultimate-doom.json](./260017-the-ultimate-doom.json) |
 | The Ultimate Doom: In Name Only | 259749 | [259749-the-ultimate-doom-in-name-only.json](./259749-the-ultimate-doom-in-name-only.json) |
 | The Ultimate Doom: Knee-Deep in Zdoom | 196708 | [196708-the-ultimate-doom-knee-deep-in-zdoom.json](./196708-the-ultimate-doom-knee-deep-in-zdoom.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
@@ -13869,6 +13870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice: La Plus Belle Voix | 268433 | [268433-the-voice-la-plus-belle-voix.json](./268433-the-voice-la-plus-belle-voix.json) |
 | The Voices Games 2D Collection | 208590 | [208590-the-voices-games-2d-collection.json](./208590-the-voices-games-2d-collection.json) |
 | The Voices Games 3D Collection | 211776 | [211776-the-voices-games-3d-collection.json](./211776-the-voices-games-3d-collection.json) |
+| The Voices Stories | 259964 | [259964-the-voices-stories.json](./259964-the-voices-stories.json) |
 | The Void | 261703 | [261703-the-void.json](./261703-the-void.json) |
 | The Void | 340808 | [340808-the-void.json](./340808-the-void.json) |
 | The Void | 357725 | [357725-the-void.json](./357725-the-void.json) |
@@ -23603,6 +23605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Catch Me! | 372741 | [372741-try-to-catch-me.json](./372741-try-to-catch-me.json) |
 | Try to Drive | 366108 | [366108-try-to-drive.json](./366108-try-to-drive.json) |
 | Try to Escape! | 258434 | [258434-try-to-escape.json](./258434-try-to-escape.json) |
+| Try to Fit | 259965 | [259965-try-to-fit.json](./259965-try-to-fit.json) |
 | Try to Reach 10 | 130732 | [130732-try-to-reach-10.json](./130732-try-to-reach-10.json) |
 | Try to Survive | 116552 | [116552-try-to-survive.json](./116552-try-to-survive.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
