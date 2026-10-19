@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
 | Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
+| Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
@@ -4406,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
 | Retro Collection 1 | 280632 | [280632-retro-collection-1.json](./280632-retro-collection-1.json) |
+| Retro Combat | 271601 | [271601-retro-combat.json](./271601-retro-combat.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
 | Retro Derby | 202047 | [202047-retro-derby.json](./202047-retro-derby.json) |
@@ -4621,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
 | Return to Mysterious Island 2 | 17058 | [17058-return-to-mysterious-island-2.json](./17058-return-to-mysterious-island-2.json) |
 | Return to Nangrim | 116280 | [116280-return-to-nangrim.json](./116280-return-to-nangrim.json) |
+| Return to Northbury Grove | 271602 | [271602-return-to-northbury-grove.json](./271602-return-to-northbury-grove.json) |
 | Return to Paradise | 294066 | [294066-return-to-paradise.json](./294066-return-to-paradise.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
@@ -7305,6 +7308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
 | Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
+| RoGlass | 271603 | [271603-roglass.json](./271603-roglass.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
 | Rogolf | 358468 | [358468-rogolf.json](./358468-rogolf.json) |
 | Rogualik | 390024 | [390024-rogualik.json](./390024-rogualik.json) |
@@ -7416,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue of the Multiverse | 216241 | [216241-rogue-of-the-multiverse.json](./216241-rogue-of-the-multiverse.json) |
 | Rogue of the Seven Seas | 180761 | [180761-rogue-of-the-seven-seas.json](./180761-rogue-of-the-seven-seas.json) |
 | Rogue Operatives | 34712 | [34712-rogue-operatives.json](./34712-rogue-operatives.json) |
+| Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
 | Rogue Pirates | 372646 | [372646-rogue-pirates.json](./372646-rogue-pirates.json) |
@@ -8749,6 +8754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruff and Reddy in the Space Adventure | 57566 | [57566-ruff-and-reddy-in-the-space-adventure.json](./57566-ruff-and-reddy-in-the-space-adventure.json) |
 | Ruff City | 278937 | [278937-ruff-city.json](./278937-ruff-city.json) |
 | Ruff Day at the Office | 334554 | [334554-ruff-day-at-the-office.json](./334554-ruff-day-at-the-office.json) |
+| Ruff Ghanor | 271605 | [271605-ruff-ghanor.json](./271605-ruff-ghanor.json) |
 | Ruff Trigger: The Vanocore Conspiracy | 20539 | [20539-ruff-trigger-the-vanocore-conspiracy.json](./20539-ruff-trigger-the-vanocore-conspiracy.json) |
 | Ruffed Up | 406106 | [406106-ruffed-up.json](./406106-ruffed-up.json) |
 | RuffHousin | 178592 | [178592-ruffhousin.json](./178592-ruffhousin.json) |
