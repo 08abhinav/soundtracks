@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Prison Digging Game | 337976 | [337976-a-prison-digging-game.json](./337976-a-prison-digging-game.json) |
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
+| A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
