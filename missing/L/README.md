@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Storm | 340911 | [340911-legend-of-the-storm.json](./340911-legend-of-the-storm.json) |
 | Legend of the Sword | 15248 | [15248-legend-of-the-sword.json](./15248-legend-of-the-sword.json) |
 | Legend of the Sword Saint | 340912 | [340912-legend-of-the-sword-saint.json](./340912-legend-of-the-sword-saint.json) |
+| Legend of the Sword: Hongwu Age | 267268 | [267268-legend-of-the-sword-hongwu-age.json](./267268-legend-of-the-sword-hongwu-age.json) |
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Unicorn Girl | 62567 | [62567-legend-of-the-unicorn-girl.json](./62567-legend-of-the-unicorn-girl.json) |
@@ -7185,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna Sonata | 243424 | [243424-luna-sonata.json](./243424-luna-sonata.json) |
 | Luna Story II: Six Pieces of Tears | 141209 | [141209-luna-story-ii-six-pieces-of-tears.json](./141209-luna-story-ii-six-pieces-of-tears.json) |
 | Luna Story III: On Your Mark | 141211 | [141211-luna-story-iii-on-your-mark.json](./141211-luna-story-iii-on-your-mark.json) |
+| Luna Story Prologue | 267242 | [267242-luna-story-prologue.json](./267242-luna-story-prologue.json) |
 | Luna Story: A Forgotten Tale | 141157 | [141157-luna-story-a-forgotten-tale.json](./141157-luna-story-a-forgotten-tale.json) |
 | Luna with the Moonlight | 215831 | [215831-luna-with-the-moonlight.json](./215831-luna-with-the-moonlight.json) |
 | Luna-3X | 315838 | [315838-luna-3x.json](./315838-luna-3x.json) |
