@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Actually: There's nothing | 141161 | [141161-actually-theres-nothing.json](./141161-actually-theres-nothing.json) |
 | Actuator: Overt Abnormality | 379474 | [379474-actuator-overt-abnormality.json](./379474-actuator-overt-abnormality.json) |
 | ACUVAC: A Suck And Blow Adventure | 318561 | [318561-acuvac-a-suck-and-blow-adventure.json](./318561-acuvac-a-suck-and-blow-adventure.json) |
+| Ad Agency Simulator | 291326 | [291326-ad-agency-simulator.json](./291326-ad-agency-simulator.json) |
 | Ad Agency Tycoon | 137679 | [137679-ad-agency-tycoon.json](./137679-ad-agency-tycoon.json) |
 | Ad Astra | 45371 | [45371-ad-astra.json](./45371-ad-astra.json) |
 | Ad Astra Infinita: The New Evolution | 367170 | [367170-ad-astra-infinita-the-new-evolution.json](./367170-ad-astra-infinita-the-new-evolution.json) |
@@ -6541,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancestory | 13193 | [13193-ancestory.json](./13193-ancestory.json) |
 | Ancestral | 318397 | [318397-ancestral.json](./318397-ancestral.json) |
 | Ancestral Hunter | 294026 | [294026-ancestral-hunter.json](./294026-ancestral-hunter.json) |
+| Ancestral Players | 291312 | [291312-ancestral-players.json](./291312-ancestral-players.json) |
 | Anchor | 375444 | [375444-anchor.json](./375444-anchor.json) |
 | Anchor Club | 187184 | [187184-anchor-club.json](./187184-anchor-club.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
@@ -7521,6 +7523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annie and the Shadow Palace | 158071 | [158071-annie-and-the-shadow-palace.json](./158071-annie-and-the-shadow-palace.json) |
 | Annie Android: Automated Affection | 165510 | [165510-annie-android-automated-affection.json](./165510-annie-android-automated-affection.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
+| Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation Plan | 308866 | [308866-annihilation-plan.json](./308866-annihilation-plan.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
