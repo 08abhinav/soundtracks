@@ -1477,6 +1477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
 | Capybara Park | 312189 | [312189-capybara-park.json](./312189-capybara-park.json) |
 | Capybara Pizza Cafe | 411553 | [411553-capybara-pizza-cafe.json](./411553-capybara-pizza-cafe.json) |
+| Capybara Quest | 257211 | [257211-capybara-quest.json](./257211-capybara-quest.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
