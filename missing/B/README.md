@@ -7485,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Quest: The Frost Demon | 167264 | [167264-blind-quest-the-frost-demon.json](./167264-blind-quest-the-frost-demon.json) |
 | Blind Quest: The Ivy Queen | 295498 | [295498-blind-quest-the-ivy-queen.json](./295498-blind-quest-the-ivy-queen.json) |
 | Blind Rage | 411498 | [411498-blind-rage.json](./411498-blind-rage.json) |
+| Blind Ranking Game | 288089 | [288089-blind-ranking-game.json](./288089-blind-ranking-game.json) |
 | Blind Shot | 145003 | [145003-blind-shot.json](./145003-blind-shot.json) |
 | Blind Simulator | 351262 | [351262-blind-simulator.json](./351262-blind-simulator.json) |
 | Blind Sound | 236892 | [236892-blind-sound.json](./236892-blind-sound.json) |
@@ -8779,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Heroes | 299418 | [299418-board-heroes.json](./299418-board-heroes.json) |
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
+| Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
 | Boardland | 285914 | [285914-boardland.json](./285914-boardland.json) |
 | Boardlike | 376538 | [376538-boardlike.json](./376538-boardlike.json) |
@@ -10072,6 +10074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
 | Bounce and Pop | 227423 | [227423-bounce-and-pop.json](./227423-bounce-and-pop.json) |
 | Bounce Arcade | 306945 | [306945-bounce-arcade.json](./306945-bounce-arcade.json) |
+| Bounce ASMR | 288060 | [288060-bounce-asmr.json](./288060-bounce-asmr.json) |
 | Bounce ASMR: Circle | 288911 | [288911-bounce-asmr-circle.json](./288911-bounce-asmr-circle.json) |
 | Bounce ASMR: Hexagon | 288913 | [288913-bounce-asmr-hexagon.json](./288913-bounce-asmr-hexagon.json) |
 | Bounce ASMR: Pentagon | 288912 | [288912-bounce-asmr-pentagon.json](./288912-bounce-asmr-pentagon.json) |
