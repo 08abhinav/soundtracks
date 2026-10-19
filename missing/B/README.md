@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bella Sara 2: The Magic of Drasilmare | 84987 | [84987-bella-sara-2-the-magic-of-drasilmare.json](./84987-bella-sara-2-the-magic-of-drasilmare.json) |
 | Bella-Anna's Head | 376554 | [376554-bella-annas-head.json](./376554-bella-annas-head.json) |
 | Bella: The girl in the Woods | 148836 | [148836-bella-the-girl-in-the-woods.json](./148836-bella-the-girl-in-the-woods.json) |
+| Belladonna | 301696 | [301696-belladonna.json](./301696-belladonna.json) |
 | Belladonna | 9246 | [9246-belladonna.json](./9246-belladonna.json) |
 | Belladonna's Flight | 255344 | [255344-belladonnas-flight.json](./255344-belladonnas-flight.json) |
 | Bellagarth's Quest | 418569 | [418569-bellagarths-quest.json](./418569-bellagarths-quest.json) |
