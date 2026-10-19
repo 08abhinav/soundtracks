@@ -5338,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ping Pong 3D | 90348 | [90348-ping-pong-3d.json](./90348-ping-pong-3d.json) |
 | Ping Pong Clásico en 2DD | 316341 | [316341-ping-pong-clasico-en-2dd.json](./316341-ping-pong-clasico-en-2dd.json) |
 | Ping Pong Cup | 247065 | [247065-ping-pong-cup.json](./247065-ping-pong-cup.json) |
+| Ping Pong Deluxe | 261132 | [261132-ping-pong-deluxe.json](./261132-ping-pong-deluxe.json) |
 | Ping Pong League | 32252 | [32252-ping-pong-league.json](./32252-ping-pong-league.json) |
 | Ping Pong Master | 108225 | [108225-ping-pong-master.json](./108225-ping-pong-master.json) |
 | Ping Pong Masters '93 | 65412 | [65412-ping-pong-masters-93.json](./65412-ping-pong-masters-93.json) |
@@ -5490,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Connect | 290422 | [290422-pipe-connect.json](./290422-pipe-connect.json) |
 | Pipe Cube | 125964 | [125964-pipe-cube.json](./125964-pipe-cube.json) |
 | Pipe Dream | 200 | [200-pipe-dream.json](./200-pipe-dream.json) |
+| Pipe Dream | 261109 | [261109-pipe-dream.json](./261109-pipe-dream.json) |
 | Pipe Dream | 265006 | [265006-pipe-dream.json](./265006-pipe-dream.json) |
 | Pipe Dream | 265007 | [265007-pipe-dream.json](./265007-pipe-dream.json) |
 | Pipe Dream | 265008 | [265008-pipe-dream.json](./265008-pipe-dream.json) |
@@ -11277,6 +11279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProBoon | 109425 | [109425-proboon.json](./109425-proboon.json) |
 | Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
+| Procambarus Fallax | 261122 | [261122-procambarus-fallax.json](./261122-procambarus-fallax.json) |
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
