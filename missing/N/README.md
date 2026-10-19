@@ -5709,6 +5709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyancrement | 416750 | [416750-nyancrement.json](./416750-nyancrement.json) |
 | Nyandanoid | 205096 | [205096-nyandanoid.json](./205096-nyandanoid.json) |
 | Nyanko Island | 299901 | [299901-nyanko-island.json](./299901-nyanko-island.json) |
+| Nyanko New Japan | 300457 | [300457-nyanko-new-japan.json](./300457-nyanko-new-japan.json) |
 | Nyannyan Prowrestling | 267996 | [267996-nyannyan-prowrestling.json](./267996-nyannyan-prowrestling.json) |
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
