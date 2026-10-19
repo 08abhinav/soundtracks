@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
 | Nano Assault | 21075 | [21075-nano-assault.json](./21075-nano-assault.json) |
 | Nano Assault Neo | 21385 | [21385-nano-assault-neo.json](./21385-nano-assault-neo.json) |
+| Nano Citizens | 260555 | [260555-nano-citizens.json](./260555-nano-citizens.json) |
 | Nano Code:X | 410908 | [410908-nano-code-x.json](./410908-nano-code-x.json) |
 | Nano Dash | 103163 | [103163-nano-dash.json](./103163-nano-dash.json) |
 | Nano Dash | 385377 | [385377-nano-dash.json](./385377-nano-dash.json) |
