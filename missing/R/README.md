@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raia Nova | 189911 | [189911-raia-nova.json](./189911-raia-nova.json) |
+| Raicing | 262821 | [262821-raicing.json](./262821-raicing.json) |
 | Raid | 170805 | [170805-raid.json](./170805-raid.json) |
 | Raid 2000 | 30955 | [30955-raid-2000.json](./30955-raid-2000.json) |
 | Raid 2020 | 48211 | [48211-raid-2020.json](./48211-raid-2020.json) |
@@ -960,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow City | 184571 | [184571-rainbow-city.json](./184571-rainbow-city.json) |
 | Rainbow Color by Number | 100799 | [100799-rainbow-color-by-number.json](./100799-rainbow-color-by-number.json) |
 | Rainbow Cotton | 294800 | [294800-rainbow-cotton.json](./294800-rainbow-cotton.json) |
+| Rainbow Cream Saga | 262825 | [262825-rainbow-cream-saga.json](./262825-rainbow-cream-saga.json) |
 | Rainbow Crown | 367471 | [367471-rainbow-crown.json](./367471-rainbow-crown.json) |
 | Rainbow Cult | 104125 | [104125-rainbow-cult.json](./104125-rainbow-cult.json) |
 | Rainbow Dash Tylenol | 213934 | [213934-rainbow-dash-tylenol.json](./213934-rainbow-dash-tylenol.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red and the Deadly Sins | 106636 | [106636-red-and-the-deadly-sins.json](./106636-red-and-the-deadly-sins.json) |
 | Red and the Whispering Woods | 181357 | [181357-red-and-the-whispering-woods.json](./181357-red-and-the-whispering-woods.json) |
 | Red and White | 154018 | [154018-red-and-white.json](./154018-red-and-white.json) |
+| Red Antz | 262797 | [262797-red-antz.json](./262797-red-antz.json) |
 | Red Archer | 150143 | [150143-red-archer.json](./150143-red-archer.json) |
 | Red Arrows | 13749 | [13749-red-arrows.json](./13749-red-arrows.json) |
 | Red Ash | 60043 | [60043-red-ash.json](./60043-red-ash.json) |
@@ -4299,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restitched | 147290 | [147290-restitched.json](./147290-restitched.json) |
 | Restless I | 391816 | [391816-restless-i.json](./391816-restless-i.json) |
 | Restless Kids | 216957 | [216957-restless-kids.json](./216957-restless-kids.json) |
+| Restless Lands | 262815 | [262815-restless-lands.json](./262815-restless-lands.json) |
 | Restless Nights | 393756 | [393756-restless-nights.json](./393756-restless-nights.json) |
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
@@ -9152,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
 | Rune | 3085 | [3085-rune.json](./3085-rune.json) |
 | Rune Ark | 334448 | [334448-rune-ark.json](./334448-rune-ark.json) |
+| Rune Bender VR | 262803 | [262803-rune-bender-vr.json](./262803-rune-bender-vr.json) |
 | Rune Bouncer | 418626 | [418626-rune-bouncer.json](./418626-rune-bouncer.json) |
 | Rune Caster | 75149 | [75149-rune-caster.json](./75149-rune-caster.json) |
 | Rune Caves: Eternal Echo | 422469 | [422469-rune-caves-eternal-echo.json](./422469-rune-caves-eternal-echo.json) |
