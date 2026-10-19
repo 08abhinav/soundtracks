@@ -1395,6 +1395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
+| El Sorrado Speedway | 307402 | [307402-el-sorrado-speedway.json](./307402-el-sorrado-speedway.json) |
 | El Stompo | 333925 | [333925-el-stompo.json](./333925-el-stompo.json) |
 | El Taco Diablo | 115127 | [115127-el-taco-diablo.json](./115127-el-taco-diablo.json) |
 | El Tango de la Muerte | 68838 | [68838-el-tango-de-la-muerte.json](./68838-el-tango-de-la-muerte.json) |
@@ -4245,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
 | Essence of the Tjikko | 191491 | [191491-essence-of-the-tjikko.json](./191491-essence-of-the-tjikko.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
+| Essence of Waluigi II: Eternal Awakening | 307404 | [307404-essence-of-waluigi-ii-eternal-awakening.json](./307404-essence-of-waluigi-ii-eternal-awakening.json) |
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
