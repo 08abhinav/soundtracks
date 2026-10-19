@@ -9207,6 +9207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
 | Minesweeper: Next-Gen | 403630 | [403630-minesweeper-next-gen.json](./403630-minesweeper-next-gen.json) |
+| Minesweeper: Soukaitei | 308607 | [308607-minesweeper-soukaitei.json](./308607-minesweeper-soukaitei.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
@@ -11253,6 +11254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
 | Monopoly | 234647 | [234647-monopoly.json](./234647-monopoly.json) |
 | Monopoly | 23767 | [23767-monopoly.json](./23767-monopoly.json) |
+| Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 37740 | [37740-monopoly.json](./37740-monopoly.json) |
@@ -14449,7 +14451,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muumit meren aalloilla | 26376 | [26376-muumit-meren-aalloilla.json](./26376-muumit-meren-aalloilla.json) |
 | Muumit piilosilla | 26375 | [26375-muumit-piilosilla.json](./26375-muumit-piilosilla.json) |
 | Muv-Luv | 11778 | [11778-muv-luv.json](./11778-muv-luv.json) |
+| Muv-Luv / Muv-Luv Alternative Remastered Double Pack | 308624 | [308624-muv-luv-muv-luv-alternative-remastered-double-pack.json](./308624-muv-luv-muv-luv-alternative-remastered-double-pack.json) |
+| Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
+| Muv-Luv Remastered | 308623 | [308623-muv-luv-remastered.json](./308623-muv-luv-remastered.json) |
 | Muv-Luv Supplement | 321204 | [321204-muv-luv-supplement.json](./321204-muv-luv-supplement.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 | 143336 | [143336-muv-luv-unlimited-the-day-after-episode-00.json](./143336-muv-luv-unlimited-the-day-after-episode-00.json) |
 | Muv-Luv Unlimited: The Day After - Episode 00 Remastered | 164423 | [164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json](./164423-muv-luv-unlimited-the-day-after-episode-00-remastered.json) |
