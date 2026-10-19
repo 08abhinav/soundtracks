@@ -1504,6 +1504,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garshasp: The Monster Slayer | 3279 | [3279-garshasp-the-monster-slayer.json](./3279-garshasp-the-monster-slayer.json) |
 | Garten of Banban 0 | 320854 | [320854-garten-of-banban-0.json](./320854-garten-of-banban-0.json) |
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
+| Garten of Banban 5 | 261134 | [261134-garten-of-banban-5.json](./261134-garten-of-banban-5.json) |
+| Garten of Banban 6 | 261135 | [261135-garten-of-banban-6.json](./261135-garten-of-banban-6.json) |
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
 | Garten of Banban Bundle: 1 + 2 | 308643 | [308643-garten-of-banban-bundle-1-2.json](./308643-garten-of-banban-bundle-1-2.json) |
@@ -5720,6 +5722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
+| Grand Cross: Age of Titans | 261101 | [261101-grand-cross-age-of-titans.json](./261101-grand-cross-age-of-titans.json) |
 | Grand Crown: Pandora's Fate | 350200 | [350200-grand-crown-pandoras-fate.json](./350200-grand-crown-pandoras-fate.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
