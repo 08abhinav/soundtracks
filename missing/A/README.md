@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
 | A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
+| A Bots Color Adventure | 284790 | [284790-a-bots-color-adventure.json](./284790-a-bots-color-adventure.json) |
 | A Box Full of Joy | 356680 | [356680-a-box-full-of-joy.json](./356680-a-box-full-of-joy.json) |
 | A Boy And His Barrel | 295931 | [295931-a-boy-and-his-barrel.json](./295931-a-boy-and-his-barrel.json) |
 | A Boy and His Blob: Retro Collection | 203773 | [203773-a-boy-and-his-blob-retro-collection.json](./203773-a-boy-and-his-blob-retro-collection.json) |
@@ -1934,6 +1935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
+| Acid Planet | 284791 | [284791-acid-planet.json](./284791-acid-planet.json) |
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
 | Ac󠀠id Ra󠀠in | 187886 | [187886-ac-id-ra-in.json](./187886-ac-id-ra-in.json) |
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
