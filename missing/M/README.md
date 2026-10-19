@@ -3170,6 +3170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marmalade Boy | 202585 | [202585-marmalade-boy.json](./202585-marmalade-boy.json) |
 | Marmalade Boy | 38339 | [38339-marmalade-boy.json](./38339-marmalade-boy.json) |
 | Marmalade Boy Herpit | 395103 | [395103-marmalade-boy-herpit.json](./395103-marmalade-boy-herpit.json) |
+| Marmargee Fighter Girl vs. Zombies & Monsters! | 290797 | [290797-marmargee-fighter-girl-vs-zombies-and-monsters.json](./290797-marmargee-fighter-girl-vs-zombies-and-monsters.json) |
 | Marmoset | 189110 | [189110-marmoset.json](./189110-marmoset.json) |
 | Marmot Fight Club | 350195 | [350195-marmot-fight-club.json](./350195-marmot-fight-club.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
