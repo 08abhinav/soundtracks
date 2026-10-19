@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zippy the Circle Challenge: Level 3C and Level 4C | 213854 | [213854-zippy-the-circle-challenge-level-3c-and-level-4c.json](./213854-zippy-the-circle-challenge-level-3c-and-level-4c.json) |
 | Zippy the Circle Challenge: Level 5C, Level 6C, and Level 7C | 213853 | [213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json](./213853-zippy-the-circle-challenge-level-5c-level-6c-and-level-7c.json) |
 | Zippy the Circle Challenge: Level 8C, Level 9C, and Level 10C | 213851 | [213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json](./213851-zippy-the-circle-challenge-level-8c-level-9c-and-level-10c.json) |
+| Zippy the Circle: Calculator | 287530 | [287530-zippy-the-circle-calculator.json](./287530-zippy-the-circle-calculator.json) |
 | Zippy the Circle: Level 1 & Level 2 | 211377 | [211377-zippy-the-circle-level-1-and-level-2.json](./211377-zippy-the-circle-level-1-and-level-2.json) |
 | Zippy the Circle: Level 11, Level 12, & Level 13 | 214696 | [214696-zippy-the-circle-level-11-level-12-and-level-13.json](./214696-zippy-the-circle-level-11-level-12-and-level-13.json) |
 | Zippy the Circle: Level 3 & Level 4 | 211378 | [211378-zippy-the-circle-level-3-and-level-4.json](./211378-zippy-the-circle-level-3-and-level-4.json) |
