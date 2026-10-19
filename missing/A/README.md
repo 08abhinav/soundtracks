@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Shooter | 179578 | [179578-a-simple-shooter.json](./179578-a-simple-shooter.json) |
 | A Simple Square | 236226 | [236226-a-simple-square.json](./236226-a-simple-square.json) |
 | A Simple Survey | 176752 | [176752-a-simple-survey.json](./176752-a-simple-survey.json) |
+| A Sing-Along Surprise Party | 293982 | [293982-a-sing-along-surprise-party.json](./293982-a-sing-along-surprise-party.json) |
 | A Single Fallen Feather | 325299 | [325299-a-single-fallen-feather.json](./325299-a-single-fallen-feather.json) |
 | A Siren's Call | 132562 | [132562-a-sirens-call.json](./132562-a-sirens-call.json) |
 | A Sirius Game | 34694 | [34694-a-sirius-game.json](./34694-a-sirius-game.json) |
@@ -3468,6 +3469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agro Simulator: Season 26 | 389539 | [389539-agro-simulator-season-26.json](./389539-agro-simulator-season-26.json) |
 | Agrocracy | 388794 | [388794-agrocracy.json](./388794-agrocracy.json) |
 | Agromatic | 381849 | [381849-agromatic.json](./381849-agromatic.json) |
+| Agronom | 293977 | [293977-agronom.json](./293977-agronom.json) |
 | Agrou: Panda pet | 170825 | [170825-agrou-panda-pet.json](./170825-agrou-panda-pet.json) |
 | Agrou: Rabbit pet | 170826 | [170826-agrou-rabbit-pet.json](./170826-agrou-rabbit-pet.json) |
 | Aground Zero | 211418 | [211418-aground-zero.json](./211418-aground-zero.json) |
@@ -8204,6 +8206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Arena | 104237 | [104237-apex-arena.json](./104237-apex-arena.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Construct | 75283 | [75283-apex-construct.json](./75283-apex-construct.json) |
+| Apex Defenders | 293973 | [293973-apex-defenders.json](./293973-apex-defenders.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
 | Apex Heroines | 267483 | [267483-apex-heroines.json](./267483-apex-heroines.json) |
