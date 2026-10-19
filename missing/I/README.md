@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Spy: Challenger! | 230430 | [230430-i-spy-challenger.json](./230430-i-spy-challenger.json) |
 | I Spy: Super Challenger! | 91739 | [91739-i-spy-super-challenger.json](./91739-i-spy-super-challenger.json) |
 | I Spy: Treasure Hunt | 91749 | [91749-i-spy-treasure-hunt.json](./91749-i-spy-treasure-hunt.json) |
+| I Still Live Under Your House | 277745 | [277745-i-still-live-under-your-house.json](./277745-i-still-live-under-your-house.json) |
 | I Suck At: Word Games | 63110 | [63110-i-suck-at-word-games.json](./63110-i-suck-at-word-games.json) |
 | I Support BCRF | 335456 | [335456-i-support-bcrf.json](./335456-i-support-bcrf.json) |
 | I Suppose | 367503 | [367503-i-suppose.json](./367503-i-suppose.json) |
