@@ -3879,6 +3879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai Seifuku Kanojo | 375362 | [375362-sekai-seifuku-kanojo.json](./375362-sekai-seifuku-kanojo.json) |
 | Sekai to Sekai no Mannaka de | 187532 | [187532-sekai-to-sekai-no-mannaka-de.json](./187532-sekai-to-sekai-no-mannaka-de.json) |
 | Sekaiju no Meikyubey | 56579 | [56579-sekaiju-no-meikyubey.json](./56579-sekaiju-no-meikyubey.json) |
+| Sekala | 270551 | [270551-sekala.json](./270551-sekala.json) |
 | Sekei | 389651 | [389651-sekei.json](./389651-sekei.json) |
 | Sekibanki Head Adventure | 158520 | [158520-sekibanki-head-adventure.json](./158520-sekibanki-head-adventure.json) |
 | Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN | 378204 | [378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json](./378204-sekien-no-inganock-what-a-beautiful-people-fullvoice-reborn.json) |
@@ -20048,6 +20049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StopTime Drive | 44226 | [44226-stoptime-drive.json](./44226-stoptime-drive.json) |
 | Storage 8 | 414485 | [414485-storage-8.json](./414485-storage-8.json) |
 | Storage Anomaly | 325821 | [325821-storage-anomaly.json](./325821-storage-anomaly.json) |
+| Storage Dealer Simulator | 270544 | [270544-storage-dealer-simulator.json](./270544-storage-dealer-simulator.json) |
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
@@ -23722,6 +23724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meatball | 147779 | [147779-super-meatball.json](./147779-super-meatball.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mechs | 58688 | [58688-super-mechs.json](./58688-super-mechs.json) |
+| Super Mega Awesome Typing | 270522 | [270522-super-mega-awesome-typing.json](./270522-super-mega-awesome-typing.json) |
 | Super Mega Baseball 2 | 26612 | [26612-super-mega-baseball-2.json](./26612-super-mega-baseball-2.json) |
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
