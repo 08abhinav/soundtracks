@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | east van EP | 230795 | [230795-east-van-ep.json](./230795-east-van-ep.json) |
 | East vs. West: A Hearts of Iron Game | 2007 | [2007-east-vs-west-a-hearts-of-iron-game.json](./2007-east-vs-west-a-hearts-of-iron-game.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
+| East Wood Carnival | 308037 | [308037-east-wood-carnival.json](./308037-east-wood-carnival.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
 | Easter 2024 Memory | 289787 | [289787-easter-2024-memory.json](./289787-easter-2024-memory.json) |
