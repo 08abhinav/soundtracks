@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day at the Races | 242821 | [242821-day-at-the-races.json](./242821-day-at-the-races.json) |
 | Day D: Through Time - Collector's Edition | 355556 | [355556-day-d-through-time-collectors-edition.json](./355556-day-d-through-time-collectors-edition.json) |
 | Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
+| Day Dream | 284233 | [284233-day-dream.json](./284233-day-dream.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
 | Day In Dementia | 103170 | [103170-day-in-dementia.json](./103170-day-in-dementia.json) |
