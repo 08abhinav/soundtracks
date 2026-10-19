@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
 | Escape From Amexs-137 | 289257 | [289257-escape-from-amexs-137.json](./289257-escape-from-amexs-137.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
+| Escape from Andromeda | 289733 | [289733-escape-from-andromeda.json](./289733-escape-from-andromeda.json) |
 | Escape from Bash Street School! | 312818 | [312818-escape-from-bash-street-school.json](./312818-escape-from-bash-street-school.json) |
 | Escape From Bell Cave | 166300 | [166300-escape-from-bell-cave.json](./166300-escape-from-bell-cave.json) |
 | Escape From Biochemical | 334325 | [334325-escape-from-biochemical.json](./334325-escape-from-biochemical.json) |
