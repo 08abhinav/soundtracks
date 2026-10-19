@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms Hide and Seek | 220349 | [220349-backrooms-hide-and-seek.json](./220349-backrooms-hide-and-seek.json) |
 | Backrooms Horror Escape | 317563 | [317563-backrooms-horror-escape.json](./317563-backrooms-horror-escape.json) |
 | Backrooms Interception | 378603 | [378603-backrooms-interception.json](./378603-backrooms-interception.json) |
+| Backrooms Invasion | 298365 | [298365-backrooms-invasion.json](./298365-backrooms-invasion.json) |
 | Backrooms Journey: Into the unknown | 329167 | [329167-backrooms-journey-into-the-unknown.json](./329167-backrooms-journey-into-the-unknown.json) |
 | Backrooms Liminal Escape | 343301 | [343301-backrooms-liminal-escape.json](./343301-backrooms-liminal-escape.json) |
 | Backrooms Lost Runners | 364009 | [364009-backrooms-lost-runners.json](./364009-backrooms-lost-runners.json) |
@@ -3347,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanks | 125876 | [125876-battletanks.json](./125876-battletanks.json) |
+| BattleTanks: Animal Wars | 298368 | [298368-battletanks-animal-wars.json](./298368-battletanks-animal-wars.json) |
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
 | BattleTanx | 47686 | [47686-battletanx.json](./47686-battletanx.json) |
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
@@ -8149,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood to Bone | 281382 | [281382-blood-to-bone.json](./281382-blood-to-bone.json) |
 | Blood Trail | 115819 | [115819-blood-trail.json](./115819-blood-trail.json) |
 | Blood Trains | 130662 | [130662-blood-trains.json](./130662-blood-trains.json) |
+| Blood Typers | 298445 | [298445-blood-typers.json](./298445-blood-typers.json) |
 | Blood Under the Bridge | 202263 | [202263-blood-under-the-bridge.json](./202263-blood-under-the-bridge.json) |
 | Blood Vessel | 284017 | [284017-blood-vessel.json](./284017-blood-vessel.json) |
 | Blood Void Mass | 146237 | [146237-blood-void-mass.json](./146237-blood-void-mass.json) |
@@ -8157,6 +8160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Welkin | 406298 | [406298-blood-welkin.json](./406298-blood-welkin.json) |
 | Blood West: Scavengers | 369770 | [369770-blood-west-scavengers.json](./369770-blood-west-scavengers.json) |
 | Blood Will Tell: Tezuka Osamu's Dororo | 18864 | [18864-blood-will-tell-tezuka-osamus-dororo.json](./18864-blood-will-tell-tezuka-osamus-dororo.json) |
+| Blood Within | 298444 | [298444-blood-within.json](./298444-blood-within.json) |
 | Blood Within: Path of Vengeance | 337833 | [337833-blood-within-path-of-vengeance.json](./337833-blood-within-path-of-vengeance.json) |
 | Blood Within: Star's Shadow Armor | 323244 | [323244-blood-within-stars-shadow-armor.json](./323244-blood-within-stars-shadow-armor.json) |
 | Blood Within: Thunderstorm Armor | 323246 | [323246-blood-within-thunderstorm-armor.json](./323246-blood-within-thunderstorm-armor.json) |
@@ -8482,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue | 133854 | [133854-blue.json](./133854-blue.json) |
 | Blue | 176777 | [176777-blue.json](./176777-blue.json) |
 | Blue | 246314 | [246314-blue.json](./246314-blue.json) |
+| Blue | 298357 | [298357-blue.json](./298357-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue | 408640 | [408640-blue.json](./408640-blue.json) |
 | Blue Angel 69 | 11970 | [11970-blue-angel-69.json](./11970-blue-angel-69.json) |
@@ -8777,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boatgator | 253359 | [253359-boatgator.json](./253359-boatgator.json) |
 | Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
+| Boats N' Hoes | 298448 | [298448-boats-n-hoes.json](./298448-boats-n-hoes.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
 | Bob | 27700 | [27700-bob.json](./27700-bob.json) |
@@ -9872,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
+| BossCrafter | 298388 | [298388-bosscrafter.json](./298388-bosscrafter.json) |
 | Bosses | 235821 | [235821-bosses.json](./235821-bosses.json) |
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
