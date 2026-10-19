@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Match | 83156 | [83156-mahjong-match.json](./83156-mahjong-match.json) |
 | Mahjong Match Puzzle | 99420 | [99420-mahjong-match-puzzle.json](./99420-mahjong-match-puzzle.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
+| Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
 | Mahjong Ou Densetsu | 91932 | [91932-mahjong-ou-densetsu.json](./91932-mahjong-ou-densetsu.json) |
 | Mahjong Palace | 89230 | [89230-mahjong-palace.json](./89230-mahjong-palace.json) |
@@ -6717,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Elite | 63276 | [63276-merc-elite.json](./63276-merc-elite.json) |
 | Merc Storia - The Healer and the Melody of the Heart | 333560 | [333560-merc-storia-the-healer-and-the-melody-of-the-heart.json](./333560-merc-storia-the-healer-and-the-melody-of-the-heart.json) |
 | Merc Tactics | 183973 | [183973-merc-tactics.json](./183973-merc-tactics.json) |
+| Mercapolis | 302791 | [302791-mercapolis.json](./302791-mercapolis.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
 | Mercenaries 2: World Nearly in Flames | 304973 | [304973-mercenaries-2-world-nearly-in-flames.json](./304973-mercenaries-2-world-nearly-in-flames.json) |
@@ -9620,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Joushiki-ryoku TV | 268372 | [268372-minna-no-joushiki-ryoku-tv.json](./268372-minna-no-joushiki-ryoku-tv.json) |
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
 | Minna no Mahjong DS | 130789 | [130789-minna-no-mahjong-ds.json](./130789-minna-no-mahjong-ds.json) |
+| Minna no Mozoo | 302794 | [302794-minna-no-mozoo.json](./302794-minna-no-mozoo.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
@@ -11166,6 +11169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
 | Monkey Ninja | 106146 | [106146-monkey-ninja.json](./106146-monkey-ninja.json) |
+| Monkey Poo Flinger | 302638 | [302638-monkey-poo-flinger.json](./302638-monkey-poo-flinger.json) |
 | Monkey Preschool Lunchbox | 175161 | [175161-monkey-preschool-lunchbox.json](./175161-monkey-preschool-lunchbox.json) |
 | Monkey Puncher | 50026 | [50026-monkey-puncher.json](./50026-monkey-puncher.json) |
 | Monkey Quest | 182970 | [182970-monkey-quest.json](./182970-monkey-quest.json) |
@@ -13208,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse in a Stew | 54227 | [54227-mouse-in-a-stew.json](./54227-mouse-in-a-stew.json) |
 | Mouse in Lab | 29584 | [29584-mouse-in-lab.json](./29584-mouse-in-lab.json) |
 | Mouse in the Maze | 66991 | [66991-mouse-in-the-maze.json](./66991-mouse-in-the-maze.json) |
+| Mouse Killer | 302805 | [302805-mouse-killer.json](./302805-mouse-killer.json) |
 | Mouse Knight: A hero's rising | 315628 | [315628-mouse-knight-a-heros-rising.json](./315628-mouse-knight-a-heros-rising.json) |
 | Mouse Mayhem Shooting & Racing | 127690 | [127690-mouse-mayhem-shooting-and-racing.json](./127690-mouse-mayhem-shooting-and-racing.json) |
 | Mouse Maze | 198291 | [198291-mouse-maze.json](./198291-mouse-maze.json) |
