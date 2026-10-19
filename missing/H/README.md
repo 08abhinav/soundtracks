@@ -4696,6 +4696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Hysteria | 314384 | [314384-hexa-hysteria.json](./314384-hexa-hysteria.json) |
 | Hexa Knot | 255011 | [255011-hexa-knot.json](./255011-hexa-knot.json) |
 | Hexa Merge | 383054 | [383054-hexa-merge.json](./383054-hexa-merge.json) |
+| Hexa Puzzle Block | 289725 | [289725-hexa-puzzle-block.json](./289725-hexa-puzzle-block.json) |
 | Hexa Puzzle Saga | 248330 | [248330-hexa-puzzle-saga.json](./248330-hexa-puzzle-saga.json) |
 | Hexa River | 320374 | [320374-hexa-river.json](./320374-hexa-river.json) |
 | Hexa Road | 353958 | [353958-hexa-road.json](./353958-hexa-road.json) |
@@ -5620,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Encounter | 13877 | [13877-highway-encounter.json](./13877-highway-encounter.json) |
 | Highway Game | 126611 | [126611-highway-game.json](./126611-highway-game.json) |
 | Highway Gas Gas | 296357 | [296357-highway-gas-gas.json](./296357-highway-gas-gas.json) |
+| Highway Getaway: ZigZag Blocky Car | 289726 | [289726-highway-getaway-zigzag-blocky-car.json](./289726-highway-getaway-zigzag-blocky-car.json) |
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
