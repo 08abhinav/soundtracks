@@ -5745,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Queendom | 255119 | [255119-rise-of-queendom.json](./255119-rise-of-queendom.json) |
 | Rise of Ragnarok - Asunder | 83884 | [83884-rise-of-ragnarok-asunder.json](./83884-rise-of-ragnarok-asunder.json) |
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
+| Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of the Argonauts | 7161 | [7161-rise-of-the-argonauts.json](./7161-rise-of-the-argonauts.json) |
