@@ -3222,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
 | Battlegrounds of Eldhelm | 17955 | [17955-battlegrounds-of-eldhelm.json](./17955-battlegrounds-of-eldhelm.json) |
 | Battlegrounds Real Time Strategy Multiplayer: Spy vs Spy Edition | 88376 | [88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json](./88376-battlegrounds-real-time-strategy-multiplayer-spy-vs-spy-edition.json) |
+| Battlegrounds: At Enemy Gates | 266615 | [266615-battlegrounds-at-enemy-gates.json](./266615-battlegrounds-at-enemy-gates.json) |
 | Battlegrounds: The Pirate King | 294158 | [294158-battlegrounds-the-pirate-king.json](./294158-battlegrounds-the-pirate-king.json) |
 | BattleGrounds: War, Tanks and Nukes | 169665 | [169665-battlegrounds-war-tanks-and-nukes.json](./169665-battlegrounds-war-tanks-and-nukes.json) |
 | BattleGroupVR2 | 344170 | [344170-battlegroupvr2.json](./344170-battlegroupvr2.json) |
@@ -5805,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Klæder sig ud | 91448 | [91448-bille-and-trille-kl-der-sig-ud.json](./91448-bille-and-trille-kl-der-sig-ud.json) |
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
+| Billiard | 266630 | [266630-billiard.json](./266630-billiard.json) |
 | Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
 | Billiard Club | 52459 | [52459-billiard-club.json](./52459-billiard-club.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
@@ -8139,6 +8141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Kiss | 146247 | [146247-blood-kiss.json](./146247-blood-kiss.json) |
 | Blood Knights | 8421 | [8421-blood-knights.json](./8421-blood-knights.json) |
 | Blood Knot | 150578 | [150578-blood-knot.json](./150578-blood-knot.json) |
+| Blood Knuckle: Rooftop of The Impossible Skyscraper | 266614 | [266614-blood-knuckle-rooftop-of-the-impossible-skyscraper.json](./266614-blood-knuckle-rooftop-of-the-impossible-skyscraper.json) |
 | Blood Labs | 155862 | [155862-blood-labs.json](./155862-blood-labs.json) |
 | Blood Lily Cthulhu Mythos | 419313 | [419313-blood-lily-cthulhu-mythos.json](./419313-blood-lily-cthulhu-mythos.json) |
 | Blood Lily: Killers Can't Sink a Yuri Ship | 360199 | [360199-blood-lily-killers-cant-sink-a-yuri-ship.json](./360199-blood-lily-killers-cant-sink-a-yuri-ship.json) |
@@ -10182,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
+| Bouncer 2 | 266644 | [266644-bouncer-2.json](./266644-bouncer-2.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
 | Bouncers | 46422 | [46422-bouncers.json](./46422-bouncers.json) |
@@ -12422,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
+| Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
