@@ -6846,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homeshift | 372597 | [372597-homeshift.json](./372597-homeshift.json) |
 | Homesick | 11634 | [11634-homesick.json](./11634-homesick.json) |
 | Homesickened | 244991 | [244991-homesickened.json](./244991-homesickened.json) |
+| Homesickness | 284787 | [284787-homesickness.json](./284787-homesickness.json) |
 | Homesickness | 344341 | [344341-homesickness.json](./344341-homesickness.json) |
 | Homespace | 106474 | [106474-homespace.json](./106474-homespace.json) |
 | Homestar VR | 105508 | [105508-homestar-vr.json](./105508-homestar-vr.json) |
@@ -7082,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
+| Hook Line & Sinker | 284780 | [284780-hook-line-and-sinker.json](./284780-hook-line-and-sinker.json) |
 | Hook Line and Sniper | 319365 | [319365-hook-line-and-sniper.json](./319365-hook-line-and-sniper.json) |
 | Hook Master | 152939 | [152939-hook-master.json](./152939-hook-master.json) |
 | Hook of Abyss | 379109 | [379109-hook-of-abyss.json](./379109-hook-of-abyss.json) |
