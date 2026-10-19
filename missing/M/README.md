@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Cops | 209681 | [209681-maiden-cops.json](./209681-maiden-cops.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
+| Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
 | Maidens of a Hollow Dream | 90257 | [90257-maidens-of-a-hollow-dream.json](./90257-maidens-of-a-hollow-dream.json) |
 | Maidens of the Ocean Solitaire | 164926 | [164926-maidens-of-the-ocean-solitaire.json](./164926-maidens-of-the-ocean-solitaire.json) |
@@ -8557,6 +8558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Dream | 278949 | [278949-milf-dream.json](./278949-milf-dream.json) |
 | Milf Hunter | 192444 | [192444-milf-hunter.json](./192444-milf-hunter.json) |
 | Milf Love: Spa Date | 385054 | [385054-milf-love-spa-date.json](./385054-milf-love-spa-date.json) |
+| MILF Next Door | 278877 | [278877-milf-next-door.json](./278877-milf-next-door.json) |
 | MILF Next Door 2: Hijabi Mama | 279226 | [279226-milf-next-door-2-hijabi-mama.json](./279226-milf-next-door-2-hijabi-mama.json) |
 | Milf Puzzle | 382483 | [382483-milf-puzzle.json](./382483-milf-puzzle.json) |
 | Milf Solitaire: Lust Collector | 400316 | [400316-milf-solitaire-lust-collector.json](./400316-milf-solitaire-lust-collector.json) |
