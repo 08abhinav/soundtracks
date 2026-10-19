@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agonize | 187402 | [187402-agonize.json](./187402-agonize.json) |
 | Agony | 11890 | [11890-agony.json](./11890-agony.json) |
 | Agony | 201153 | [201153-agony.json](./201153-agony.json) |
+| Agony | 273248 | [273248-agony.json](./273248-agony.json) |
 | Agony | 79827 | [79827-agony.json](./79827-agony.json) |
 | Agony Increment | 393803 | [393803-agony-increment.json](./393803-agony-increment.json) |
 | Agony of a Dying MMO | 136415 | [136415-agony-of-a-dying-mmo.json](./136415-agony-of-a-dying-mmo.json) |
@@ -10416,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsonist Heaven | 208334 | [208334-arsonist-heaven.json](./208334-arsonist-heaven.json) |
 | Arsonist Heaven Remastered | 238440 | [238440-arsonist-heaven-remastered.json](./238440-arsonist-heaven-remastered.json) |
 | ArsonVille | 25729 | [25729-arsonville.json](./25729-arsonville.json) |
+| ARSP1 | 273243 | [273243-arsp1.json](./273243-arsp1.json) |
 | Art Academy | 22959 | [22959-art-academy.json](./22959-art-academy.json) |
 | Art Academy: First Semester | 79260 | [79260-art-academy-first-semester.json](./79260-art-academy-first-semester.json) |
 | Art Academy: Home Studio | 21839 | [21839-art-academy-home-studio.json](./21839-art-academy-home-studio.json) |
