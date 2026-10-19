@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Card Dungeon | 370139 | [370139-last-card-dungeon.json](./370139-last-card-dungeon.json) |
 | Last Case | 377058 | [377058-last-case.json](./377058-last-case.json) |
 | Last Case: The Disappearance of Amanda Kane | 122980 | [122980-last-case-the-disappearance-of-amanda-kane.json](./122980-last-case-the-disappearance-of-amanda-kane.json) |
+| Last Castle Guardians | 278912 | [278912-last-castle-guardians.json](./278912-last-castle-guardians.json) |
 | Last Caveman | 278972 | [278972-last-caveman.json](./278972-last-caveman.json) |
 | Last Chance for Turnabout | 309994 | [309994-last-chance-for-turnabout.json](./309994-last-chance-for-turnabout.json) |
 | Last Chance in Xollywood: Special Edition | 265609 | [265609-last-chance-in-xollywood-special-edition.json](./265609-last-chance-in-xollywood-special-edition.json) |
@@ -4405,6 +4406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Lovers 2nd. Yui | 108968 | [108968-little-lovers-2nd-yui.json](./108968-little-lovers-2nd-yui.json) |
 | Little Luna | 341172 | [341172-little-luna.json](./341172-little-luna.json) |
 | Little Lures | 361225 | [361225-little-lures.json](./361225-little-lures.json) |
+| Little Maddie Dear | 278882 | [278882-little-maddie-dear.json](./278882-little-maddie-dear.json) |
 | Little Mage | 116355 | [116355-little-mage.json](./116355-little-mage.json) |
 | Little Mage Adventure | 224112 | [224112-little-mage-adventure.json](./224112-little-mage-adventure.json) |
 | Little Magic | 267646 | [267646-little-magic.json](./267646-little-magic.json) |
