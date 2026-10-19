@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Dungeon: Risen | 175438 | [175438-battle-dungeon-risen.json](./175438-battle-dungeon-risen.json) |
 | Battle Echoes | 283984 | [283984-battle-echoes.json](./283984-battle-echoes.json) |
 | Battle Engine Aquila | 344462 | [344462-battle-engine-aquila.json](./344462-battle-engine-aquila.json) |
+| Battle Factory Showdown | 306805 | [306805-battle-factory-showdown.json](./306805-battle-factory-showdown.json) |
 | Battle Fighter | 55861 | [55861-battle-fighter.json](./55861-battle-fighter.json) |
 | Battle Fish | 335411 | [335411-battle-fish.json](./335411-battle-fish.json) |
 | Battle Fishing Masters | 190198 | [190198-battle-fishing-masters.json](./190198-battle-fishing-masters.json) |
@@ -3675,6 +3676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 3 | 357868 | [357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json](./357868-bear-vs-wolf-jigsaw-puzzle-expansion-pack-3.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 4 | 357869 | [357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json](./357869-bear-vs-wolf-jigsaw-puzzle-expansion-pack-4.json) |
 | Bear vs. Wolf Jigsaw Puzzle: Expansion Pack 5 | 357870 | [357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json](./357870-bear-vs-wolf-jigsaw-puzzle-expansion-pack-5.json) |
+| Bear Warrior | 306813 | [306813-bear-warrior.json](./306813-bear-warrior.json) |
 | Bear With Me: Episode 1 | 127135 | [127135-bear-with-me-episode-1.json](./127135-bear-with-me-episode-1.json) |
 | Bear With Me: Episode 2 | 127136 | [127136-bear-with-me-episode-2.json](./127136-bear-with-me-episode-2.json) |
 | Bear With Me: Episode 3 | 127137 | [127137-bear-with-me-episode-3.json](./127137-bear-with-me-episode-3.json) |
@@ -4015,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatAim | 126945 | [126945-beataim.json](./126945-beataim.json) |
 | BeatBlast: Rhythm Rampage | 325006 | [325006-beatblast-rhythm-rampage.json](./325006-beatblast-rhythm-rampage.json) |
 | BeatBlasters III | 9045 | [9045-beatblasters-iii.json](./9045-beatblasters-iii.json) |
+| Beatblock | 306804 | [306804-beatblock.json](./306804-beatblock.json) |
 | BeatBlox | 68648 | [68648-beatblox.json](./68648-beatblox.json) |
 | BeatBox Runner | 160130 | [160130-beatbox-runner.json](./160130-beatbox-runner.json) |
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
@@ -11636,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
 | Brotato: Nintendo Switch 2 Edition | 378791 | [378791-brotato-nintendo-switch-2-edition.json](./378791-brotato-nintendo-switch-2-edition.json) |
 | Brotato: Primal Dread | 397816 | [397816-brotato-primal-dread.json](./397816-brotato-primal-dread.json) |
+| Brotes | 306792 | [306792-brotes.json](./306792-brotes.json) |
 | Broth Bounty | 349099 | [349099-broth-bounty.json](./349099-broth-bounty.json) |
 | Brothel Secrets | 280329 | [280329-brothel-secrets.json](./280329-brothel-secrets.json) |
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
