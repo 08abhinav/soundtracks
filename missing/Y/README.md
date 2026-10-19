@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah Yeah Beebiss I | 228361 | [228361-yeah-yeah-beebiss-i.json](./228361-yeah-yeah-beebiss-i.json) |
 | Yeah Yeah Beebiss II | 187861 | [187861-yeah-yeah-beebiss-ii.json](./187861-yeah-yeah-beebiss-ii.json) |
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
+| Yeah! Wow! Hey! | 272713 | [272713-yeah-wow-hey.json](./272713-yeah-wow-hey.json) |
 | Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! | 257267 | [257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json](./257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json) |
 | Year 2088 | 276094 | [276094-year-2088.json](./276094-year-2088.json) |
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Detective | 196304 | [196304-young-detective.json](./196304-young-detective.json) |
 | Young Detectives: Undersea | 309564 | [309564-young-detectives-undersea.json](./309564-young-detectives-undersea.json) |
 | Young Dilbert Hi-Tech Hijinks | 70332 | [70332-young-dilbert-hi-tech-hijinks.json](./70332-young-dilbert-hi-tech-hijinks.json) |
+| Young Hearts | 272710 | [272710-young-hearts.json](./272710-young-hearts.json) |
 | Young Justice Shadow Mission | 80565 | [80565-young-justice-shadow-mission.json](./80565-young-justice-shadow-mission.json) |
 | Young Justice: Legacy | 194949 | [194949-young-justice-legacy.json](./194949-young-justice-legacy.json) |
 | Young Mage | 244665 | [244665-young-mage.json](./244665-young-mage.json) |
