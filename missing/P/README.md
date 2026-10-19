@@ -4905,6 +4905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillazon: MMO Drug Lord Tycoon | 227794 | [227794-pillazon-mmo-drug-lord-tycoon.json](./227794-pillazon-mmo-drug-lord-tycoon.json) |
 | Pilli Adventure | 76534 | [76534-pilli-adventure.json](./76534-pilli-adventure.json) |
+| Pillory | 280664 | [280664-pillory.json](./280664-pillory.json) |
 | Pillow Bellow | 151173 | [151173-pillow-bellow.json](./151173-pillow-bellow.json) |
 | Pillow Fort | 56171 | [56171-pillow-fort.json](./56171-pillow-fort.json) |
 | Pillow Legends and The Last Nugget | 316703 | [316703-pillow-legends-and-the-last-nugget.json](./316703-pillow-legends-and-the-last-nugget.json) |
