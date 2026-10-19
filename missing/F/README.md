@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mosaics 5 | 300375 | [300375-fantasy-mosaics-5.json](./300375-fantasy-mosaics-5.json) |
 | Fantasy Mosaics 51: Jungle Adventure | 378553 | [378553-fantasy-mosaics-51-jungle-adventure.json](./378553-fantasy-mosaics-51-jungle-adventure.json) |
 | Fantasy Mosaics 52: Enchanted Woods | 381365 | [381365-fantasy-mosaics-52-enchanted-woods.json](./381365-fantasy-mosaics-52-enchanted-woods.json) |
+| Fantasy Mosaics 53: Mysterious Cosmos | 293987 | [293987-fantasy-mosaics-53-mysterious-cosmos.json](./293987-fantasy-mosaics-53-mysterious-cosmos.json) |
 | Fantasy Mosaics 54: Back to School | 378354 | [378354-fantasy-mosaics-54-back-to-school.json](./378354-fantasy-mosaics-54-back-to-school.json) |
 | Fantasy Mosaics 6: Into the Unknown | 365468 | [365468-fantasy-mosaics-6-into-the-unknown.json](./365468-fantasy-mosaics-6-into-the-unknown.json) |
 | Fantasy Mosaics 7: Our Home | 96838 | [96838-fantasy-mosaics-7-our-home.json](./96838-fantasy-mosaics-7-our-home.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish man avoiding fishing | 119671 | [119671-fish-man-avoiding-fishing.json](./119671-fish-man-avoiding-fishing.json) |
 | Fish Market | 391052 | [391052-fish-market.json](./391052-fish-market.json) |
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
+| Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
@@ -7111,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
 | Forest run | 46452 | [46452-forest-run.json](./46452-forest-run.json) |
 | Forest Runner | 330583 | [330583-forest-runner.json](./330583-forest-runner.json) |
+| Forest Showdown: Cat Hero Battle | 293975 | [293975-forest-showdown-cat-hero-battle.json](./293975-forest-showdown-cat-hero-battle.json) |
 | Forest Simulator 2025 | 326427 | [326427-forest-simulator-2025.json](./326427-forest-simulator-2025.json) |
 | Forest Smasher | 337413 | [337413-forest-smasher.json](./337413-forest-smasher.json) |
 | Forest spiders | 123891 | [123891-forest-spiders.json](./123891-forest-spiders.json) |
@@ -7778,6 +7781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5 Universal Icons Car Pack | 361779 | [361779-forza-horizon-5-universal-icons-car-pack.json](./361779-forza-horizon-5-universal-icons-car-pack.json) |
 | Forza Horizon 5: 1969 Chevrolet Camaro Jordan Luka 3 | 314391 | [314391-forza-horizon-5-1969-chevrolet-camaro-jordan-luka-3.json](./314391-forza-horizon-5-1969-chevrolet-camaro-jordan-luka-3.json) |
 | Forza Horizon 5: 2019 Nissan 370Z Nismo | 208448 | [208448-forza-horizon-5-2019-nissan-370z-nismo.json](./208448-forza-horizon-5-2019-nissan-370z-nismo.json) |
+| Forza Horizon 5: Acceleration Car Pack | 294009 | [294009-forza-horizon-5-acceleration-car-pack.json](./294009-forza-horizon-5-acceleration-car-pack.json) |
 | Forza Horizon 5: American Automotive Car Pack | 275616 | [275616-forza-horizon-5-american-automotive-car-pack.json](./275616-forza-horizon-5-american-automotive-car-pack.json) |
 | Forza Horizon 5: Apex Allstars Car Pack | 305531 | [305531-forza-horizon-5-apex-allstars-car-pack.json](./305531-forza-horizon-5-apex-allstars-car-pack.json) |
 | Forza Horizon 5: Car Pass | 293918 | [293918-forza-horizon-5-car-pass.json](./293918-forza-horizon-5-car-pass.json) |
