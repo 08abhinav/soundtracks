@@ -6317,6 +6317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
+| The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
 | The Dreams in the Peacock House | 400888 | [400888-the-dreams-in-the-peacock-house.json](./400888-the-dreams-in-the-peacock-house.json) |
 | The Dreamwalkers | 127221 | [127221-the-dreamwalkers.json](./127221-the-dreamwalkers.json) |
 | The Dreamwell Enigma: Barlington Estate | 276376 | [276376-the-dreamwell-enigma-barlington-estate.json](./276376-the-dreamwell-enigma-barlington-estate.json) |
