@@ -3375,9 +3375,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
 | Otherworld Legends: Fluffette | 310084 | [310084-otherworld-legends-fluffette.json](./310084-otherworld-legends-fluffette.json) |
 | Otherworld Legends: Hannah | 199589 | [199589-otherworld-legends-hannah.json](./199589-otherworld-legends-hannah.json) |
+| Otherworld Legends: Huo YuFeng | 286986 | [286986-otherworld-legends-huo-yufeng.json](./286986-otherworld-legends-huo-yufeng.json) |
 | Otherworld Legends: Jadetalon | 211895 | [211895-otherworld-legends-jadetalon.json](./211895-otherworld-legends-jadetalon.json) |
+| Otherworld Legends: Skin - Striker Dragoneer | 286984 | [286984-otherworld-legends-skin-striker-dragoneer.json](./286984-otherworld-legends-skin-striker-dragoneer.json) |
+| Otherworld Legends: Skin - Sunclipse | 286985 | [286985-otherworld-legends-skin-sunclipse.json](./286985-otherworld-legends-skin-sunclipse.json) |
 | Otherworld Legends: Skin - The Unreturning | 361892 | [361892-otherworld-legends-skin-the-unreturning.json](./361892-otherworld-legends-skin-the-unreturning.json) |
 | Otherworld Legends: Uliana | 226705 | [226705-otherworld-legends-uliana.json](./226705-otherworld-legends-uliana.json) |
+| Otherworld Legends: Wu Fei | 286983 | [286983-otherworld-legends-wu-fei.json](./286983-otherworld-legends-wu-fei.json) |
 | Otherworld Legends: Zilan | 310083 | [310083-otherworld-legends-zilan.json](./310083-otherworld-legends-zilan.json) |
 | Otherworld: Omens of Summer | 63772 | [63772-otherworld-omens-of-summer.json](./63772-otherworld-omens-of-summer.json) |
 | Otherworld: Omens of Summer - Collector's Edition | 29617 | [29617-otherworld-omens-of-summer-collectors-edition.json](./29617-otherworld-omens-of-summer-collectors-edition.json) |
