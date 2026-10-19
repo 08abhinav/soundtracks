@@ -2537,6 +2537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
 | Favela Wars | 62612 | [62612-favela-wars.json](./62612-favela-wars.json) |
+| Favela Zombie Shooter | 270011 | [270011-favela-zombie-shooter.json](./270011-favela-zombie-shooter.json) |
 | Favij: The Game | 383590 | [383590-favij-the-game.json](./383590-favij-the-game.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
 | Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Love or Die Trying | 165243 | [165243-find-love-or-die-trying.json](./165243-find-love-or-die-trying.json) |
 | Find Love or Die Trying | 324734 | [324734-find-love-or-die-trying.json](./324734-find-love-or-die-trying.json) |
 | Find Love or Die Trying: Til Death Do Us Part | 336039 | [336039-find-love-or-die-trying-til-death-do-us-part.json](./336039-find-love-or-die-trying-til-death-do-us-part.json) |
+| Find Matt's Cats | 269974 | [269974-find-matts-cats.json](./269974-find-matts-cats.json) |
 | Find Me | 365427 | [365427-find-me.json](./365427-find-me.json) |
 | Find Me A Good One | 128635 | [128635-find-me-a-good-one.json](./128635-find-me-a-good-one.json) |
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
@@ -8084,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxfire | 404247 | [404247-foxfire.json](./404247-foxfire.json) |
 | Foxfolk | 52050 | [52050-foxfolk.json](./52050-foxfolk.json) |
 | FoxHaunt | 386279 | [386279-foxhaunt.json](./386279-foxhaunt.json) |
+| Foxhaven | 269966 | [269966-foxhaven.json](./269966-foxhaven.json) |
 | Foxhole | 27091 | [27091-foxhole.json](./27091-foxhole.json) |
 | Foxhollow | 422527 | [422527-foxhollow.json](./422527-foxhollow.json) |
 | FoxHunt | 115719 | [115719-foxhunt.json](./115719-foxhunt.json) |
