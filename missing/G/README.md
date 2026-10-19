@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glam the Rocker | 413712 | [413712-glam-the-rocker.json](./413712-glam-the-rocker.json) |
 | Glam's Incredible Run: Escape from Dukha | 146682 | [146682-glams-incredible-run-escape-from-dukha.json](./146682-glams-incredible-run-escape-from-dukha.json) |
 | Glamor & Girls | 382490 | [382490-glamor-and-girls.json](./382490-glamor-and-girls.json) |
+| Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Death | 273755 | [273755-god-of-death.json](./273755-god-of-death.json) |
 | God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
 | God of Fortune | 309557 | [309557-god-of-fortune.json](./309557-god-of-fortune.json) |
+| God Of Gods | 256684 | [256684-god-of-gods.json](./256684-god-of-gods.json) |
 | God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
 | God of Light | 23415 | [23415-god-of-light.json](./23415-god-of-light.json) |
 | God of Light: Remastered | 75048 | [75048-god-of-light-remastered.json](./75048-god-of-light-remastered.json) |
@@ -4794,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoldenEye: Rogue Agent | 146882 | [146882-goldeneye-rogue-agent.json](./146882-goldeneye-rogue-agent.json) |
 | GoldenEye: Rogue Agent | 1632 | [1632-goldeneye-rogue-agent.json](./1632-goldeneye-rogue-agent.json) |
 | Goldenjar Fall | 154028 | [154028-goldenjar-fall.json](./154028-goldenjar-fall.json) |
+| GoldenLand | 256693 | [256693-goldenland.json](./256693-goldenland.json) |
 | GoldenMiner | 253939 | [253939-goldenminer.json](./253939-goldenminer.json) |
 | GoldenShot | 275686 | [275686-goldenshot.json](./275686-goldenshot.json) |
 | Goldfish | 346226 | [346226-goldfish.json](./346226-goldfish.json) |
