@@ -2106,6 +2106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PAT Shooter | 335421 | [335421-pat-shooter.json](./335421-pat-shooter.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
 | PaTaank | 4333 | [4333-pataank.json](./4333-pataank.json) |
+| Patafour | 269430 | [269430-patafour.json](./269430-patafour.json) |
 | Patagon | 223412 | [223412-patagon.json](./223412-patagon.json) |
 | Patagonian Pilgrimage | 360755 | [360755-patagonian-pilgrimage.json](./360755-patagonian-pilgrimage.json) |
 | PataNoir | 33327 | [33327-patanoir.json](./33327-patanoir.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon PureBlue | 233600 | [233600-pokemon-pureblue.json](./233600-pokemon-pureblue.json) |
 | Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
 | Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
+| Pokemon Pyrite Version | 269455 | [269455-pokemon-pyrite-version.json](./269455-pokemon-pyrite-version.json) |
 | Pokémon Quantum | 147177 | [147177-pokemon-quantum.json](./147177-pokemon-quantum.json) |
 | Pokémon Quarantine Crystal | 201001 | [201001-pokemon-quarantine-crystal.json](./201001-pokemon-quarantine-crystal.json) |
 | Pokémon Quartz | 139894 | [139894-pokemon-quartz.json](./139894-pokemon-quartz.json) |
