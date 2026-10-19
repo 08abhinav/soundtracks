@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Katsu | 106135 | [106135-v-katsu.json](./106135-v-katsu.json) |
 | V-Lover! | 351035 | [351035-v-lover.json](./351035-v-lover.json) |
 | V-Master Cross | 240903 | [240903-v-master-cross.json](./240903-v-master-cross.json) |
+| V-Monsters: Digital Farm | 269979 | [269979-v-monsters-digital-farm.json](./269979-v-monsters-digital-farm.json) |
 | V-Pong | 272844 | [272844-v-pong.json](./272844-v-pong.json) |
 | V-Rally 3 | 243024 | [243024-v-rally-3.json](./243024-v-rally-3.json) |
 | V-Rally 3 | 4227 | [4227-v-rally-3.json](./4227-v-rally-3.json) |
