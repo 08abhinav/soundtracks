@@ -2179,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
+| Path to Magehood | 286941 | [286941-path-to-magehood.json](./286941-path-to-magehood.json) |
 | Path to Mnemosyne | 68450 | [68450-path-to-mnemosyne.json](./68450-path-to-mnemosyne.json) |
 | Path to Nowhere: Ditty Nightsong | 329175 | [329175-path-to-nowhere-ditty-nightsong.json](./329175-path-to-nowhere-ditty-nightsong.json) |
 | Path to Nowhere: Dreamy Bubble | 377968 | [377968-path-to-nowhere-dreamy-bubble.json](./377968-path-to-nowhere-dreamy-bubble.json) |
@@ -12020,6 +12021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projekt Melody: A Nut Between Worlds! | 186659 | [186659-projekt-melody-a-nut-between-worlds.json](./186659-projekt-melody-a-nut-between-worlds.json) |
 | Projekt Z: Beyond Order | 138752 | [138752-projekt-z-beyond-order.json](./138752-projekt-z-beyond-order.json) |
 | Projekt: Passion - Season 2 | 297187 | [297187-projekt-passion-season-2.json](./297187-projekt-passion-season-2.json) |
+| Projeto Real: Rabbit the Pet | 286981 | [286981-projeto-real-rabbit-the-pet.json](./286981-projeto-real-rabbit-the-pet.json) |
 | Prokshov | 143728 | [143728-prokshov.json](./143728-prokshov.json) |
 | Prolegomena to a Hyperdimensional Interface That Will Be Able to Manifest From Three-Minute Interchanges | 324744 | [324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json](./324744-prolegomena-to-a-hyperdimensional-interface-that-will-be-able-to-manifest-from-three-minute-interchanges.json) |
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
