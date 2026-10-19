@@ -5612,6 +5612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
 | Pirate Griddles | 54288 | [54288-pirate-griddles.json](./54288-pirate-griddles.json) |
 | Pirate Guy | 363429 | [363429-pirate-guy.json](./363429-pirate-guy.json) |
+| Pirate Haven | 260007 | [260007-pirate-haven.json](./260007-pirate-haven.json) |
 | Pirate Hell | 17796 | [17796-pirate-hell.json](./17796-pirate-hell.json) |
 | Pirate Hunter | 209954 | [209954-pirate-hunter.json](./209954-pirate-hunter.json) |
 | Pirate Hunter | 62695 | [62695-pirate-hunter.json](./62695-pirate-hunter.json) |
@@ -6556,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Clickers | 343973 | [343973-pizza-clickers.json](./343973-pizza-clickers.json) |
 | Pizza Connection 2 | 27590 | [27590-pizza-connection-2.json](./27590-pizza-connection-2.json) |
 | Pizza Connection 3 | 29142 | [29142-pizza-connection-3.json](./29142-pizza-connection-3.json) |
+| Pizza Connection Bundle | 260023 | [260023-pizza-connection-bundle.json](./260023-pizza-connection-bundle.json) |
 | Pizza Death | 207541 | [207541-pizza-death.json](./207541-pizza-death.json) |
 | Pizza Deathlivery | 347717 | [347717-pizza-deathlivery.json](./347717-pizza-deathlivery.json) |
 | Pizza Deliciozo | 54286 | [54286-pizza-deliciozo.json](./54286-pizza-deliciozo.json) |
@@ -11980,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
+| Project Vesperi | 260010 | [260010-project-vesperi.json](./260010-project-vesperi.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
 | Project Vic 2 | 295339 | [295339-project-vic-2.json](./295339-project-vic-2.json) |
 | Project Viper | 319154 | [319154-project-viper.json](./319154-project-viper.json) |
