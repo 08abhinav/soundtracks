@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Story: Witch Dragon | 309552 | [309552-after-story-witch-dragon.json](./309552-after-story-witch-dragon.json) |
 | After Stream | 235465 | [235465-after-stream.json](./235465-after-stream.json) |
 | After Sun | 180815 | [180815-after-sun.json](./180815-after-sun.json) |
+| After Sunset | 258348 | [258348-after-sunset.json](./258348-after-sunset.json) |
 | After Tasks | 316457 | [316457-after-tasks.json](./316457-after-tasks.json) |
 | After The Afterlife | 361684 | [361684-after-the-afterlife.json](./361684-after-the-afterlife.json) |
 | After the Crash: Colony | 379499 | [379499-after-the-crash-colony.json](./379499-after-the-crash-colony.json) |
@@ -6698,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Origins: Flying Fish | 262975 | [262975-ancient-origins-flying-fish.json](./262975-ancient-origins-flying-fish.json) |
 | Ancient Phantasma | 308655 | [308655-ancient-phantasma.json](./308655-ancient-phantasma.json) |
 | Ancient Planet | 35891 | [35891-ancient-planet.json](./35891-ancient-planet.json) |
+| Ancient Polis | 258344 | [258344-ancient-polis.json](./258344-ancient-polis.json) |
 | Ancient Quest of Saqqarah | 22118 | [22118-ancient-quest-of-saqqarah.json](./22118-ancient-quest-of-saqqarah.json) |
 | Ancient Relic | 233455 | [233455-ancient-relic.json](./233455-ancient-relic.json) |
 | Ancient Rituals: Stonehenge | 216467 | [216467-ancient-rituals-stonehenge.json](./216467-ancient-rituals-stonehenge.json) |
@@ -7499,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime School Zombie Simulator | 296754 | [296754-anime-school-zombie-simulator.json](./296754-anime-school-zombie-simulator.json) |
 | Anime Sexy Girl Puzzle: Hentai Game History Adventure | 267371 | [267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json](./267371-anime-sexy-girl-puzzle-hentai-game-history-adventure.json) |
 | Anime Shop Simulator ✨ | 415269 | [415269-anime-shop-simulator.json](./415269-anime-shop-simulator.json) |
+| Anime Slayer | 258352 | [258352-anime-slayer.json](./258352-anime-slayer.json) |
 | Anime Sniper | 255062 | [255062-anime-sniper.json](./255062-anime-sniper.json) |
 | Anime Solitaire | 334820 | [334820-anime-solitaire.json](./334820-anime-solitaire.json) |
 | Anime Spa | 279757 | [279757-anime-spa.json](./279757-anime-spa.json) |
@@ -8706,6 +8709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
 | Aquarius | 299557 | [299557-aquarius.json](./299557-aquarius.json) |
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
+| Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | AquaSpace | 51095 | [51095-aquaspace.json](./51095-aquaspace.json) |
 | Aquasplendere | 346208 | [346208-aquasplendere.json](./346208-aquasplendere.json) |
@@ -10633,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifacts of Eyru | 207507 | [207507-artifacts-of-eyru.json](./207507-artifacts-of-eyru.json) |
 | Artifacts of the Past: Ancient Mysteries | 417297 | [417297-artifacts-of-the-past-ancient-mysteries.json](./417297-artifacts-of-the-past-ancient-mysteries.json) |
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
+| Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
 | Artificia Armata | 261675 | [261675-artificia-armata.json](./261675-artificia-armata.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
