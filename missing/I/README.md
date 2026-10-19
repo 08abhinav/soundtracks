@@ -752,6 +752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
 | Ice Cold Beer | 77592 | [77592-ice-cold-beer.json](./77592-ice-cold-beer.json) |
+| Ice Cold Case | 261695 | [261695-ice-cold-case.json](./261695-ice-cold-case.json) |
 | Ice craft : Winter crafting and building | 100788 | [100788-ice-craft-winter-crafting-and-building.json](./100788-ice-craft-winter-crafting-and-building.json) |
 | Ice Cream | 344005 | [344005-ice-cream.json](./344005-ice-cream.json) |
 | Ice Cream Break | 187769 | [187769-ice-cream-break.json](./187769-ice-cream-break.json) |
@@ -4148,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Parties | 7869 | [7869-invisible-parties.json](./7869-invisible-parties.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
+| Invisible X | 261654 | [261654-invisible-x.json](./261654-invisible-x.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | InvisibleHand | 319407 | [319407-invisiblehand.json](./319407-invisiblehand.json) |
 | Invisibox | 74253 | [74253-invisibox.json](./74253-invisibox.json) |
