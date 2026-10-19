@@ -5480,8 +5480,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashcard Clash | 25734 | [25734-flashcard-clash.json](./25734-flashcard-clash.json) |
 | Flashes of Chaos | 400518 | [400518-flashes-of-chaos.json](./400518-flashes-of-chaos.json) |
 | FlashGal | 39580 | [39580-flashgal.json](./39580-flashgal.json) |
+| Flashing Lights: Beast Swat Truck DLC | 293461 | [293461-flashing-lights-beast-swat-truck-dlc.json](./293461-flashing-lights-beast-swat-truck-dlc.json) |
 | Flashing Lights: Department of Transportation | 395814 | [395814-flashing-lights-department-of-transportation.json](./395814-flashing-lights-department-of-transportation.json) |
+| Flashing Lights: Pickup Truck Triple Pack | 293462 | [293462-flashing-lights-pickup-truck-triple-pack.json](./293462-flashing-lights-pickup-truck-triple-pack.json) |
 | Flashing Lights: Thunder Sport Sedan Pack (Police, Fire, EMS) | 277591 | [277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json](./277591-flashing-lights-thunder-sport-sedan-pack-police-fire-ems.json) |
+| Flashing Lights: Visor Lights DLC | 293463 | [293463-flashing-lights-visor-lights-dlc.json](./293463-flashing-lights-visor-lights-dlc.json) |
 | FlashInvaders | 354008 | [354008-flashinvaders.json](./354008-flashinvaders.json) |
 | Flashlight Party | 223936 | [223936-flashlight-party.json](./223936-flashlight-party.json) |
 | Flashlight Sim | 304602 | [304602-flashlight-sim.json](./304602-flashlight-sim.json) |
@@ -9910,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunPack: Mums | 177052 | [177052-funpack-mums.json](./177052-funpack-mums.json) |
 | FunPark Beach Blast | 294391 | [294391-funpark-beach-blast.json](./294391-funpark-beach-blast.json) |
 | FunPlay 20-in-1 | 202264 | [202264-funplay-20-in-1.json](./202264-funplay-20-in-1.json) |
+| FunPlay School | 293489 | [293489-funplay-school.json](./293489-funplay-school.json) |
 | Funset Studios | 269018 | [269018-funset-studios.json](./269018-funset-studios.json) |
 | Funshiki | 340032 | [340032-funshiki.json](./340032-funshiki.json) |
 | Funtagy of Doskebe | 82907 | [82907-funtagy-of-doskebe.json](./82907-funtagy-of-doskebe.json) |
