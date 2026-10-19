@@ -842,6 +842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katakoi Contrast: Way of Parting Vol.3 | 240477 | [240477-katakoi-contrast-way-of-parting-vol-3.json](./240477-katakoi-contrast-way-of-parting-vol-3.json) |
 | Katalyst | 163959 | [163959-katalyst.json](./163959-katalyst.json) |
 | Katamar1k | 284302 | [284302-katamar1k.json](./284302-katamar1k.json) |
+| Katamari | 284763 | [284763-katamari.json](./284763-katamari.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
 | Katamari Damacy Rolling Live | 335137 | [335137-katamari-damacy-rolling-live.json](./335137-katamari-damacy-rolling-live.json) |
