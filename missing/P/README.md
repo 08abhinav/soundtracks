@@ -6794,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planeta 55 | 244169 | [244169-planeta-55.json](./244169-planeta-55.json) |
 | Planetarian | 44468 | [44468-planetarian.json](./44468-planetarian.json) |
 | Planetarian HD | 28685 | [28685-planetarian-hd.json](./28685-planetarian-hd.json) |
+| Planetarian: The Reverie of a Little Planet & Snow Globe | 303870 | [303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json](./303870-planetarian-the-reverie-of-a-little-planet-and-snow-globe.json) |
 | Planetarian: Ultimate Edition | 156191 | [156191-planetarian-ultimate-edition.json](./156191-planetarian-ultimate-edition.json) |
 | PlanetariumVR | 372220 | [372220-planetariumvr.json](./372220-planetariumvr.json) |
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
