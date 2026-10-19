@@ -6697,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
 | Holstin | 229035 | [229035-holstin.json](./229035-holstin.json) |
 | Holt | 158596 | [158596-holt.json](./158596-holt.json) |
+| Holua's Arcades | 261680 | [261680-holuas-arcades.json](./261680-holuas-arcades.json) |
 | Holy Avatar Vs Maidens of the Dead | 10413 | [10413-holy-avatar-vs-maidens-of-the-dead.json](./10413-holy-avatar-vs-maidens-of-the-dead.json) |
 | Holy Avenger | 30916 | [30916-holy-avenger.json](./30916-holy-avenger.json) |
 | Holy Beast Online | 338213 | [338213-holy-beast-online.json](./338213-holy-beast-online.json) |
@@ -7666,6 +7667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshizora Tensei Another Sky | 259709 | [259709-hoshizora-tensei-another-sky.json](./259709-hoshizora-tensei-another-sky.json) |
 | Hoshizora Testudou to Shiro no Tabi | 147405 | [147405-hoshizora-testudou-to-shiro-no-tabi.json](./147405-hoshizora-testudou-to-shiro-no-tabi.json) |
 | Hospice | 55161 | [55161-hospice.json](./55161-hospice.json) |
+| Hospital | 261662 | [261662-hospital.json](./261662-hospital.json) |
 | Hospital 9: Mai's Report | 174174 | [174174-hospital-9-mais-report.json](./174174-hospital-9-mais-report.json) |
 | Hospital 9: Puzzles | 163417 | [163417-hospital-9-puzzles.json](./163417-hospital-9-puzzles.json) |
 | Hospital Black River | 184961 | [184961-hospital-black-river.json](./184961-hospital-black-river.json) |
