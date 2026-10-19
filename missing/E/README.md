@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Shadows | 270604 | [270604-escape-from-the-shadows.json](./270604-escape-from-the-shadows.json) |
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
+| Escape From The Test | 283050 | [283050-escape-from-the-test.json](./283050-escape-from-the-test.json) |
 | Escape from the Tomb Tower | 115706 | [115706-escape-from-the-tomb-tower.json](./115706-escape-from-the-tomb-tower.json) |
 | Escape from the Tower | 308641 | [308641-escape-from-the-tower.json](./308641-escape-from-the-tower.json) |
 | Escape from the Trap World | 197257 | [197257-escape-from-the-trap-world.json](./197257-escape-from-the-trap-world.json) |
