@@ -24285,6 +24285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Realms: Whispers from the Rift | 367734 | [367734-two-realms-whispers-from-the-rift.json](./367734-two-realms-whispers-from-the-rift.json) |
 | Two Sedans Driving Simulator | 195618 | [195618-two-sedans-driving-simulator.json](./195618-two-sedans-driving-simulator.json) |
+| Two Sides of Hell | 301701 | [301701-two-sides-of-hell.json](./301701-two-sides-of-hell.json) |
 | Two Sides of the Same Turnabout | 310420 | [310420-two-sides-of-the-same-turnabout.json](./310420-two-sides-of-the-same-turnabout.json) |
 | Two Skateboards Driving Simulator | 224566 | [224566-two-skateboards-driving-simulator.json](./224566-two-skateboards-driving-simulator.json) |
 | Two Slices of Love | 254986 | [254986-two-slices-of-love.json](./254986-two-slices-of-love.json) |
