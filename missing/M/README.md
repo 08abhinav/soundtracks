@@ -6932,6 +6932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meridian: New World | 8861 | [8861-meridian-new-world.json](./8861-meridian-new-world.json) |
 | Meridian: Squad 22 | 20453 | [20453-meridian-squad-22.json](./20453-meridian-squad-22.json) |
 | Meridiana: A demon's madness | 197263 | [197263-meridiana-a-demons-madness.json](./197263-meridiana-a-demons-madness.json) |
+| Meril Kururinchi | 275458 | [275458-meril-kururinchi.json](./275458-meril-kururinchi.json) |
 | Meritaton | 365306 | [365306-meritaton.json](./365306-meritaton.json) |
 | Meritocracy of the Oni & Blade | 105216 | [105216-meritocracy-of-the-oni-and-blade.json](./105216-meritocracy-of-the-oni-and-blade.json) |
 | Meriwether: An American Epic | 61526 | [61526-meriwether-an-american-epic.json](./61526-meriwether-an-american-epic.json) |
@@ -15931,6 +15932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
 | Mystery Lighthouse | 97215 | [97215-mystery-lighthouse.json](./97215-mystery-lighthouse.json) |
 | Mystery Loss | 57029 | [57029-mystery-loss.json](./57029-mystery-loss.json) |
+| Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Mansion | 251102 | [251102-mystery-mansion.json](./251102-mystery-mansion.json) |
