@@ -4290,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Over 2 | 67667 | [67667-wing-over-2.json](./67667-wing-over-2.json) |
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
+| Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
 | Winged Sakura: Endless Dream | 54803 | [54803-winged-sakura-endless-dream.json](./54803-winged-sakura-endless-dream.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
