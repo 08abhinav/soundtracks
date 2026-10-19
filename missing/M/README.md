@@ -8148,6 +8148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight Awake | 104153 | [104153-midnight-awake.json](./104153-midnight-awake.json) |
 | Midnight Bike | 158146 | [158146-midnight-bike.json](./158146-midnight-bike.json) |
+| Midnight Blanc | 277169 | [277169-midnight-blanc.json](./277169-midnight-blanc.json) |
 | Midnight Blood Rush | 267272 | [267272-midnight-blood-rush.json](./267272-midnight-blood-rush.json) |
 | Midnight Blues | 173305 | [173305-midnight-blues.json](./173305-midnight-blues.json) |
 | Midnight Bowling | 21802 | [21802-midnight-bowling.json](./21802-midnight-bowling.json) |
@@ -14845,6 +14846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cozy Workspace | 403746 | [403746-my-cozy-workspace.json](./403746-my-cozy-workspace.json) |
 | My Craft: Block Edition | 102849 | [102849-my-craft-block-edition.json](./102849-my-craft-block-edition.json) |
 | My Crazy High School Romcom | 205894 | [205894-my-crazy-high-school-romcom.json](./205894-my-crazy-high-school-romcom.json) |
+| My Crazy New Fake Love Life | 277189 | [277189-my-crazy-new-fake-love-life.json](./277189-my-crazy-new-fake-love-life.json) |
 | My Creampie Heaven | 173815 | [173815-my-creampie-heaven.json](./173815-my-creampie-heaven.json) |
 | My Crush Beach Date Puzzle | 418322 | [418322-my-crush-beach-date-puzzle.json](./418322-my-crush-beach-date-puzzle.json) |
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
