@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Master | 2618 | [2618-marble-master.json](./2618-marble-master.json) |
 | Marble Masters: The Pit | 44231 | [44231-marble-masters-the-pit.json](./44231-marble-masters-the-pit.json) |
 | Marble Mayhem: Fragile Ball | 26979 | [26979-marble-mayhem-fragile-ball.json](./26979-marble-mayhem-fragile-ball.json) |
+| Marble Maze | 302233 | [302233-marble-maze.json](./302233-marble-maze.json) |
 | Marble Meadows | 291222 | [291222-marble-meadows.json](./291222-marble-meadows.json) |
 | Marble Mechanics | 302526 | [302526-marble-mechanics.json](./302526-marble-mechanics.json) |
 | Marble Mill | 414603 | [414603-marble-mill.json](./414603-marble-mill.json) |
@@ -4943,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
 | MechApocalypse: Proving Grounds | 184817 | [184817-mechapocalypse-proving-grounds.json](./184817-mechapocalypse-proving-grounds.json) |
 | Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
+| Mecharashi | 302230 | [302230-mecharashi.json](./302230-mecharashi.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
@@ -5172,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Life | 280299 | [280299-medieval-life.json](./280299-medieval-life.json) |
 | Medieval Life | 352555 | [352555-medieval-life.json](./352555-medieval-life.json) |
 | Medieval Life Simulator | 384222 | [384222-medieval-life-simulator.json](./384222-medieval-life-simulator.json) |
+| Medieval Lords | 302240 | [302240-medieval-lords.json](./302240-medieval-lords.json) |
 | Medieval Lords: Soldier Kings of Europe | 69876 | [69876-medieval-lords-soldier-kings-of-europe.json](./69876-medieval-lords-soldier-kings-of-europe.json) |
 | Medieval Machines Builder | 154071 | [154071-medieval-machines-builder.json](./154071-medieval-machines-builder.json) |
 | Medieval Machines Builder: First Siege | 277261 | [277261-medieval-machines-builder-first-siege.json](./277261-medieval-machines-builder-first-siege.json) |
@@ -7755,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microcosm | 13738 | [13738-microcosm.json](./13738-microcosm.json) |
 | Microcosmum: Survival of Cells - Campaign Static | 174130 | [174130-microcosmum-survival-of-cells-campaign-static.json](./174130-microcosmum-survival-of-cells-campaign-static.json) |
 | MicroCrawl | 238489 | [238489-microcrawl.json](./238489-microcrawl.json) |
+| Microdistrict | 302088 | [302088-microdistrict.json](./302088-microdistrict.json) |
 | Microdoctor | 50363 | [50363-microdoctor.json](./50363-microdoctor.json) |
 | Microdungeon | 315330 | [315330-microdungeon.json](./315330-microdungeon.json) |
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
@@ -11610,6 +11614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
+| Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
@@ -13202,6 +13207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourning Tide | 306174 | [306174-mourning-tide.json](./306174-mourning-tide.json) |
 | Mourningwood Lodge | 370104 | [370104-mourningwood-lodge.json](./370104-mourningwood-lodge.json) |
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
+| Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
 | Mouse Attack | 42143 | [42143-mouse-attack.json](./42143-mouse-attack.json) |
 | Mouse Boy | 54228 | [54228-mouse-boy.json](./54228-mouse-boy.json) |
 | Mouse Corp. | 139692 | [139692-mouse-corp.json](./139692-mouse-corp.json) |
