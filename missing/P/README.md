@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
+| Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
 | Pack not Found 404 | 313477 | [313477-pack-not-found-404.json](./313477-pack-not-found-404.json) |
 | Pack Per Duck | 157092 | [157092-pack-per-duck.json](./157092-pack-per-duck.json) |
 | Pack Powersports | 112892 | [112892-pack-powersports.json](./112892-pack-powersports.json) |
@@ -6464,6 +6465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelscape: Oceans | 32200 | [32200-pixelscape-oceans.json](./32200-pixelscape-oceans.json) |
 | PixelShips Retro | 71145 | [71145-pixelships-retro.json](./71145-pixelships-retro.json) |
 | PixelSlime | 223613 | [223613-pixelslime.json](./223613-pixelslime.json) |
+| PixelTerra | 257247 | [257247-pixelterra.json](./257247-pixelterra.json) |
 | PixelTown | 183283 | [183283-pixeltown.json](./183283-pixeltown.json) |
 | Pixeltroid | 321673 | [321673-pixeltroid.json](./321673-pixeltroid.json) |
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
@@ -7119,6 +7121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
+| Platform Panic | 257224 | [257224-platform-panic.json](./257224-platform-panic.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
 | Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
 | Platform Racing 2 | 98010 | [98010-platform-racing-2.json](./98010-platform-racing-2.json) |
@@ -8483,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Sun and Moon Special Demo Version | 313321 | [313321-pokemon-sun-and-moon-special-demo-version.json](./313321-pokemon-sun-and-moon-special-demo-version.json) |
 | Pokémon Super Gold 97 | 142232 | [142232-pokemon-super-gold-97.json](./142232-pokemon-super-gold-97.json) |
+| Pokémon Supernova Sun | 257197 | [257197-pokemon-supernova-sun.json](./257197-pokemon-supernova-sun.json) |
 | Pokemon Supreme Fire | 327263 | [327263-pokemon-supreme-fire.json](./327263-pokemon-supreme-fire.json) |
 | Pokémon Survivor Burst | 414864 | [414864-pokemon-survivor-burst.json](./414864-pokemon-survivor-burst.json) |
 | Pokémon Sweet 2th | 141822 | [141822-pokemon-sweet-2th.json](./141822-pokemon-sweet-2th.json) |
@@ -9627,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
 | Portal: Lost in Aperture | 322171 | [322171-portal-lost-in-aperture.json](./322171-portal-lost-in-aperture.json) |
 | Portal: Prelude | 136390 | [136390-portal-prelude.json](./136390-portal-prelude.json) |
+| Portal: Prelude RTX | 257199 | [257199-portal-prelude-rtx.json](./257199-portal-prelude-rtx.json) |
 | Portal: Project Beta | 219158 | [219158-portal-project-beta.json](./219158-portal-project-beta.json) |
 | Portal: Prospekt | 219159 | [219159-portal-prospekt.json](./219159-portal-prospekt.json) |
 | Portal: Singularity Collapse | 322172 | [322172-portal-singularity-collapse.json](./322172-portal-singularity-collapse.json) |
@@ -12095,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: R.E.B.O.O.T | 30758 | [30758-project-r-e-b-o-o-t.json](./30758-project-r-e-b-o-o-t.json) |
 | Project: R.E.B.O.O.T 2 | 29868 | [29868-project-r-e-b-o-o-t-2.json](./29868-project-r-e-b-o-o-t-2.json) |
 | Project: Run | 393466 | [393466-project-run.json](./393466-project-run.json) |
+| Project: Shiba | 257228 | [257228-project-shiba.json](./257228-project-shiba.json) |
 | Project: Skyscape | 158618 | [158618-project-skyscape.json](./158618-project-skyscape.json) |
 | Project: SnowBound | 341444 | [341444-project-snowbound.json](./341444-project-snowbound.json) |
 | Project: Special Forces | 163864 | [163864-project-special-forces.json](./163864-project-special-forces.json) |
@@ -12235,6 +12241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prostitute Island | 272727 | [272727-prostitute-island.json](./272727-prostitute-island.json) |
 | Prostitute Pimp | 297195 | [297195-prostitute-pimp.json](./297195-prostitute-pimp.json) |
 | Prostitute Simulator | 208451 | [208451-prostitute-simulator.json](./208451-prostitute-simulator.json) |
+| Prostitute Simulator 2 | 257233 | [257233-prostitute-simulator-2.json](./257233-prostitute-simulator-2.json) |
 | Prostitute Simulator 3 | 384899 | [384899-prostitute-simulator-3.json](./384899-prostitute-simulator-3.json) |
 | ProStroke Golf: World Tour 2007 | 20572 | [20572-prostroke-golf-world-tour-2007.json](./20572-prostroke-golf-world-tour-2007.json) |
 | Prot | 348351 | [348351-prot.json](./348351-prot.json) |
