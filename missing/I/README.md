@@ -4729,6 +4729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Istrolid | 33326 | [33326-istrolid.json](./33326-istrolid.json) |
 | iStunt 2 | 90888 | [90888-istunt-2.json](./90888-istunt-2.json) |
 | iSurf | 90908 | [90908-isurf.json](./90908-isurf.json) |
+| Isuta no Usagi | 295627 | [295627-isuta-no-usagi.json](./295627-isuta-no-usagi.json) |
 | iSwinging 2 | 101611 | [101611-iswinging-2.json](./101611-iswinging-2.json) |
 | iSwinging 2 - Record Breakers | 90498 | [90498-iswinging-2-record-breakers.json](./90498-iswinging-2-record-breakers.json) |
 | It Ain’t Over Till the Fat Lady Sings | 394635 | [394635-it-ain-t-over-till-the-fat-lady-sings.json](./394635-it-ain-t-over-till-the-fat-lady-sings.json) |
