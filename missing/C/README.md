@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare III - Season 6 | 318510 | [318510-call-of-duty-modern-warfare-iii-season-6.json](./318510-call-of-duty-modern-warfare-iii-season-6.json) |
 | Call of Duty: Modern Warfare III - Tech Luxe Pro Pack | 291077 | [291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json](./291077-call-of-duty-modern-warfare-iii-tech-luxe-pro-pack.json) |
 | Call of Duty: Modern Warfare III - Vault Edition | 276133 | [276133-call-of-duty-modern-warfare-iii-vault-edition.json](./276133-call-of-duty-modern-warfare-iii-vault-edition.json) |
+| Call of Duty: Modern Warfare III - Warhammer 40K Crossover Pack | 302211 | [302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json](./302211-call-of-duty-modern-warfare-iii-warhammer-40k-crossover-pack.json) |
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
 | Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
+| Casual Puzzles Bundle 8 in 1 | 302246 | [302246-casual-puzzles-bundle-8-in-1.json](./302246-casual-puzzles-bundle-8-in-1.json) |
 | Casual Romance Club | 73471 | [73471-casual-romance-club.json](./73471-casual-romance-club.json) |
 | Casual Spider Solitaire | 84134 | [84134-casual-spider-solitaire.json](./84134-casual-spider-solitaire.json) |
 | Casual Sport Series: Badminton | 342783 | [342783-casual-sport-series-badminton.json](./342783-casual-sport-series-badminton.json) |
@@ -3558,10 +3560,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
+| Cazzarion: Rocket Raid | 302234 | [302234-cazzarion-rocket-raid.json](./302234-cazzarion-rocket-raid.json) |
 | Cazzarion: Shooting Gallery | 308603 | [308603-cazzarion-shooting-gallery.json](./308603-cazzarion-shooting-gallery.json) |
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
+| Cazzarion: Star Collector | 302237 | [302237-cazzarion-star-collector.json](./302237-cazzarion-star-collector.json) |
 | Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
 | Cazzarion: Treasure Diver | 315901 | [315901-cazzarion-treasure-diver.json](./315901-cazzarion-treasure-diver.json) |
 | Cazzarion: UFO Kidnapping | 324984 | [324984-cazzarion-ufo-kidnapping.json](./324984-cazzarion-ufo-kidnapping.json) |
@@ -5714,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou-Denki Card Battle: Youfu Makai - Kikuchi Shuugyou | 37700 | [37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json](./37700-chou-denki-card-battle-youfu-makai-kikuchi-shuugyou.json) |
 | Chou-Kousoku GranDoll | 68898 | [68898-chou-kousoku-grandoll.json](./68898-chou-kousoku-grandoll.json) |
 | Chougoukin Selections | 63946 | [63946-chougoukin-selections.json](./63946-chougoukin-selections.json) |
+| Chouji Meikyuu Legion | 302247 | [302247-chouji-meikyuu-legion.json](./302247-chouji-meikyuu-legion.json) |
 | Choujikuu Yousai Macross | 48673 | [48673-choujikuu-yousai-macross.json](./48673-choujikuu-yousai-macross.json) |
 | Choujikuu Yousai Macross 2036 | 37587 | [37587-choujikuu-yousai-macross-2036.json](./37587-choujikuu-yousai-macross-2036.json) |
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
@@ -8149,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Mafia | 112322 | [112322-coffee-mafia.json](./112322-coffee-mafia.json) |
 | Coffee Mahjong | 70886 | [70886-coffee-mahjong.json](./70886-coffee-mahjong.json) |
 | Coffee Maker | 178886 | [178886-coffee-maker.json](./178886-coffee-maker.json) |
+| Coffee Mania | 302220 | [302220-coffee-mania.json](./302220-coffee-mania.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
@@ -9859,6 +9865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquistador | 323803 | [323803-conquistador.json](./323803-conquistador.json) |
 | Conquistador Rex | 276678 | [276678-conquistador-rex.json](./276678-conquistador-rex.json) |
 | Conquistadorio | 258438 | [258438-conquistadorio.json](./258438-conquistadorio.json) |
+| Conquiztador | 302228 | [302228-conquiztador.json](./302228-conquiztador.json) |
 | Conrad Stevenson's Paranormal P.I. | 190151 | [190151-conrad-stevensons-paranormal-p-i.json](./190151-conrad-stevensons-paranormal-p-i.json) |
 | Conrad's Quest | 261418 | [261418-conrads-quest.json](./261418-conrads-quest.json) |
 | Conradito Cafézito | 327048 | [327048-conradito-cafezito.json](./327048-conradito-cafezito.json) |
@@ -10458,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop Drop | 329419 | [329419-cop-drop.json](./329419-cop-drop.json) |
 | Cop Duty Police Car Simulator | 102761 | [102761-cop-duty-police-car-simulator.json](./102761-cop-duty-police-car-simulator.json) |
+| Cop Officers: Police Simulator of NYPD City | 302239 | [302239-cop-officers-police-simulator-of-nypd-city.json](./302239-cop-officers-police-simulator-of-nypd-city.json) |
 | Cop Police Escape: Racing Zone Clash | 254690 | [254690-cop-police-escape-racing-zone-clash.json](./254690-cop-police-escape-racing-zone-clash.json) |
 | Cop Rush | 368289 | [368289-cop-rush.json](./368289-cop-rush.json) |
 | Cop-Out | 13515 | [13515-cop-out.json](./13515-cop-out.json) |
@@ -10817,6 +10825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Composer | 372630 | [372630-cosmic-composer.json](./372630-cosmic-composer.json) |
 | Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
+| Cosmic Consciousness | 302225 | [302225-cosmic-consciousness.json](./302225-cosmic-consciousness.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
 | Cosmic Construct | 354885 | [354885-cosmic-construct.json](./354885-cosmic-construct.json) |
 | Cosmic Cop | 94911 | [94911-cosmic-cop.json](./94911-cosmic-cop.json) |
@@ -14670,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Clutch: Hot Import Nights | 302383 | [302383-cyber-clutch-hot-import-nights.json](./302383-cyber-clutch-hot-import-nights.json) |
 | Cyber Clutch: Hot Import Nights - Overdrive Pack | 322637 | [322637-cyber-clutch-hot-import-nights-overdrive-pack.json](./322637-cyber-clutch-hot-import-nights-overdrive-pack.json) |
 | Cyber Combat | 236335 | [236335-cyber-combat.json](./236335-cyber-combat.json) |
+| Cyber Commander: Zombie Revenge | 302212 | [302212-cyber-commander-zombie-revenge.json](./302212-cyber-commander-zombie-revenge.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycles | 39829 | [39829-cyber-cycles.json](./39829-cyber-cycles.json) |
