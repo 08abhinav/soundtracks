@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U96 | 207513 | [207513-u96.json](./207513-u96.json) |
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
+| Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | UBeat | 91921 | [91921-ubeat.json](./91921-ubeat.json) |
