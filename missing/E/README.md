@@ -3842,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From the Dragons | 111686 | [111686-escape-from-the-dragons.json](./111686-escape-from-the-dragons.json) |
 | Escape from the Dungeon | 332009 | [332009-escape-from-the-dungeon.json](./332009-escape-from-the-dungeon.json) |
 | Escape from the escape-game | 102247 | [102247-escape-from-the-escape-game.json](./102247-escape-from-the-escape-game.json) |
+| Escape from the Facility | 290252 | [290252-escape-from-the-facility.json](./290252-escape-from-the-facility.json) |
 | Escape From the Grim | 129004 | [129004-escape-from-the-grim.json](./129004-escape-from-the-grim.json) |
 | Escape From the Hospital | 100742 | [100742-escape-from-the-hospital.json](./100742-escape-from-the-hospital.json) |
 | Escape From The Island | 283290 | [283290-escape-from-the-island.json](./283290-escape-from-the-island.json) |
@@ -6091,5 +6092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZMuze Break and House edition | 79908 | [79908-ezmuze-break-and-house-edition.json](./79908-ezmuze-break-and-house-edition.json) |
 | Ezmuze+ 2.0 | 93570 | [93570-ezmuze-2-0.json](./93570-ezmuze-2-0.json) |
 | Ezpz Saga | 174862 | [174862-ezpz-saga.json](./174862-ezpz-saga.json) |
+| EzQuiz | 290284 | [290284-ezquiz.json](./290284-ezquiz.json) |
 | Ezrebeth | 333643 | [333643-ezrebeth.json](./333643-ezrebeth.json) |
 | Ezy | 94770 | [94770-ezy.json](./94770-ezy.json) |
