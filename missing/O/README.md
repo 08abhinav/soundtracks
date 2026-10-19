@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenTaiko | 323888 | [323888-opentaiko.json](./323888-opentaiko.json) |
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
+| Opera Nova | 280084 | [280084-opera-nova.json](./280084-opera-nova.json) |
 | Opera Omnia | 77359 | [77359-opera-omnia.json](./77359-opera-omnia.json) |
 | Opera Prima | 325565 | [325565-opera-prima.json](./325565-opera-prima.json) |
 | Opera Super Sports | 112872 | [112872-opera-super-sports.json](./112872-opera-super-sports.json) |
