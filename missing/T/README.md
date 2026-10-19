@@ -9733,6 +9733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Episode | 276386 | [276386-the-lost-episode.json](./276386-the-lost-episode.json) |
 | The Lost Episodes | 276387 | [276387-the-lost-episodes.json](./276387-the-lost-episodes.json) |
 | The Lost Episodes of Doom | 310595 | [310595-the-lost-episodes-of-doom.json](./310595-the-lost-episodes-of-doom.json) |
+| The Lost Fate of the Oni | 299016 | [299016-the-lost-fate-of-the-oni.json](./299016-the-lost-fate-of-the-oni.json) |
 | The Lost Fear | 273992 | [273992-the-lost-fear.json](./273992-the-lost-fear.json) |
 | The Lost Files of Sherlock Holmes: The Case of the Rose Tattoo | 6762 | [6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json](./6762-the-lost-files-of-sherlock-holmes-the-case-of-the-rose-tattoo.json) |
 | The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel | 4316 | [4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json](./4316-the-lost-files-of-sherlock-holmes-the-case-of-the-serrated-scalpel.json) |
@@ -9947,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Man, the Alien, and the AI | 231806 | [231806-the-man-the-alien-and-the-ai.json](./231806-the-man-the-alien-and-the-ai.json) |
 | The Manager | 79581 | [79581-the-manager.json](./79581-the-manager.json) |
 | The Manaworks | 401052 | [401052-the-manaworks.json](./401052-the-manaworks.json) |
+| The Mandalorian: Chapter 3 - The Sin | 298935 | [298935-the-mandalorian-chapter-3-the-sin.json](./298935-the-mandalorian-chapter-3-the-sin.json) |
 | The Mandarin II | 343692 | [343692-the-mandarin-ii.json](./343692-the-mandarin-ii.json) |
 | The Mandate | 61567 | [61567-the-mandate.json](./61567-the-mandate.json) |
 | The Mangust | 244857 | [244857-the-mangust.json](./244857-the-mangust.json) |
@@ -10392,6 +10394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mythical City 4 | 327828 | [327828-the-mythical-city-4.json](./327828-the-mythical-city-4.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -11527,6 +11530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Romance of the Moth and the Flame | 378515 | [378515-the-romance-of-the-moth-and-the-flame.json](./378515-the-romance-of-the-moth-and-the-flame.json) |
 | The Romance Theorem | 185367 | [185367-the-romance-theorem.json](./185367-the-romance-theorem.json) |
 | The Romantic Blue | 232551 | [232551-the-romantic-blue.json](./232551-the-romantic-blue.json) |
+| The Rondo of Oblivion | 299007 | [299007-the-rondo-of-oblivion.json](./299007-the-rondo-of-oblivion.json) |
 | The Roof | 23418 | [23418-the-roof.json](./23418-the-roof.json) |
 | The Rookery | 312744 | [312744-the-rookery.json](./312744-the-rookery.json) |
 | The Rookery Way | 286047 | [286047-the-rookery-way.json](./286047-the-rookery-way.json) |
@@ -21812,6 +21816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap Attack | 257107 | [257107-trap-attack.json](./257107-trap-attack.json) |
 | Trap Ball | 180558 | [180558-trap-ball.json](./180558-trap-ball.json) |
 | Trap Defense | 102174 | [102174-trap-defense.json](./102174-trap-defense.json) |
+| Trap Dungeons 2 | 299017 | [299017-trap-dungeons-2.json](./299017-trap-dungeons-2.json) |
 | Trap for the Heir | 287724 | [287724-trap-for-the-heir.json](./287724-trap-for-the-heir.json) |
 | Trap for Winners | 115687 | [115687-trap-for-winners.json](./115687-trap-for-winners.json) |
 | Trap Furry Puzzle | 112801 | [112801-trap-furry-puzzle.json](./112801-trap-furry-puzzle.json) |
