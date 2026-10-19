@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Świrus | 330017 | [330017-swirus.json](./330017-swirus.json) |
 | Übercat Overdrive | 315649 | [315649-ubercat-overdrive.json](./315649-ubercat-overdrive.json) |
 | Última Mensagem 2 | 316171 | [316171-ultima-mensagem-2.json](./316171-ultima-mensagem-2.json) |
+| Ürs | 300433 | [300433-urs.json](./300433-urs.json) |
 | Život Není Krásný: Poslední Exekuce | 401633 | [401633-zivot-neni-krasny-posledni-exekuce.json](./401633-zivot-neni-krasny-posledni-exekuce.json) |
 | µTanks | 66920 | [66920-tanks.json](./66920-tanks.json) |
 | 一>◇ | 100203 | [100203-.json](./100203-.json) |
