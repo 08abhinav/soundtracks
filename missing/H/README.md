@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrow | 265698 | [265698-harrow.json](./265698-harrow.json) |
 | Harrowed Halls: Lakeview Lane | 139198 | [139198-harrowed-halls-lakeview-lane.json](./139198-harrowed-halls-lakeview-lane.json) |
 | Harrowed World: Portents In Red | 264020 | [264020-harrowed-world-portents-in-red.json](./264020-harrowed-world-portents-in-red.json) |
+| Harrowed World: What's Past Is Portents | 297924 | [297924-harrowed-world-whats-past-is-portents.json](./297924-harrowed-world-whats-past-is-portents.json) |
 | Harrowing Gate: Ghost Dimension | 199104 | [199104-harrowing-gate-ghost-dimension.json](./199104-harrowing-gate-ghost-dimension.json) |
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
@@ -7096,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Hop Miner | 181707 | [181707-hop-hop-miner.json](./181707-hop-hop-miner.json) |
 | Hop Hop! Donut | 404370 | [404370-hop-hop-donut.json](./404370-hop-hop-donut.json) |
 | Hop Island | 270635 | [270635-hop-island.json](./270635-hop-island.json) |
+| Hop Man | 297870 | [297870-hop-man.json](./297870-hop-man.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
