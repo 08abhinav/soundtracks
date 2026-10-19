@@ -4584,6 +4584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellator: MMA Onslaught | 47438 | [47438-bellator-mma-onslaught.json](./47438-bellator-mma-onslaught.json) |
 | Bellatores | 352257 | [352257-bellatores.json](./352257-bellatores.json) |
 | Bellatorus Deluxe | 52444 | [52444-bellatorus-deluxe.json](./52444-bellatorus-deluxe.json) |
+| Bellatrix e o Palácio do Tempo | 276032 | [276032-bellatrix-e-o-palacio-do-tempo.json](./276032-bellatrix-e-o-palacio-do-tempo.json) |
 | Belle Boomerang | 150127 | [150127-belle-boomerang.json](./150127-belle-boomerang.json) |
 | Belle Citique | 347813 | [347813-belle-citique.json](./347813-belle-citique.json) |
 | Belle-de-Nuit | 156552 | [156552-belle-de-nuit.json](./156552-belle-de-nuit.json) |
