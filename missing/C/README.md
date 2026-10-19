@@ -8493,6 +8493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coldplay Canoodlers | 356110 | [356110-coldplay-canoodlers.json](./356110-coldplay-canoodlers.json) |
 | ColdRidge | 310254 | [310254-coldridge.json](./310254-coldridge.json) |
 | ColdSide: Retro Edition | 410206 | [410206-coldside-retro-edition.json](./410206-coldside-retro-edition.json) |
+| Coldsteel Adventure 7 | 275487 | [275487-coldsteel-adventure-7.json](./275487-coldsteel-adventure-7.json) |
 | Coldstone: Scoop It Up | 79153 | [79153-coldstone-scoop-it-up.json](./79153-coldstone-scoop-it-up.json) |
 | Coldsweat and Tears | 316073 | [316073-coldsweat-and-tears.json](./316073-coldsweat-and-tears.json) |
 | ColdTrace | 414316 | [414316-coldtrace.json](./414316-coldtrace.json) |
@@ -8635,6 +8636,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloco | 388960 | [388960-coloco.json](./388960-coloco.json) |
 | ColocoDX | 388962 | [388962-colocodx.json](./388962-colocodx.json) |
 | Cologne | 33506 | [33506-cologne.json](./33506-cologne.json) |
+| Colonel Kerfuffle in Castle Calamity | 275483 | [275483-colonel-kerfuffle-in-castle-calamity.json](./275483-colonel-kerfuffle-in-castle-calamity.json) |
+| Colonel Kerfuffle in Tiki Treasure | 275484 | [275484-colonel-kerfuffle-in-tiki-treasure.json](./275484-colonel-kerfuffle-in-tiki-treasure.json) |
 | Colonel Wasabi | 345577 | [345577-colonel-wasabi.json](./345577-colonel-wasabi.json) |
 | Colonia | 207511 | [207511-colonia.json](./207511-colonia.json) |
 | Colonial Combat | 332651 | [332651-colonial-combat.json](./332651-colonial-combat.json) |
