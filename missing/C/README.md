@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caddie | 246321 | [246321-caddie.json](./246321-caddie.json) |
 | Cade Prime | 173244 | [173244-cade-prime.json](./173244-cade-prime.json) |
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
+| Caden's Climb | 291346 | [291346-cadens-climb.json](./291346-cadens-climb.json) |
 | Cadence | 18216 | [18216-cadence.json](./18216-cadence.json) |
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
 | Cadence Crisis | 301142 | [301142-cadence-crisis.json](./301142-cadence-crisis.json) |
@@ -5036,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicago 90 | 12000 | [12000-chicago-90.json](./12000-chicago-90.json) |
 | Chicago Cubs Triple Play | 81360 | [81360-chicago-cubs-triple-play.json](./81360-chicago-cubs-triple-play.json) |
 | Chicago Enforcer | 5775 | [5775-chicago-enforcer.json](./5775-chicago-enforcer.json) |
+| Chicago Project | 291330 | [291330-chicago-project.json](./291330-chicago-project.json) |
 | Chicago's 30 | 39161 | [39161-chicagos-30.json](./39161-chicagos-30.json) |
 | Chiccoo and Life | 303729 | [303729-chiccoo-and-life.json](./303729-chiccoo-and-life.json) |
 | Chichen-Itza | 178052 | [178052-chichen-itza.json](./178052-chichen-itza.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Panda | 142837 | [142837-chill-panda.json](./142837-chill-panda.json) |
 | Chill Pill | 185513 | [185513-chill-pill.json](./185513-chill-pill.json) |
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
+| Chill Pulse | 291304 | [291304-chill-pulse.json](./291304-chill-pulse.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chill with You: Lo-Fi Story | 342703 | [342703-chill-with-you-lo-fi-story.json](./342703-chill-with-you-lo-fi-story.json) |
@@ -7252,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
 | Cleaning Simulator: Ultimate Mess | 407359 | [407359-cleaning-simulator-ultimate-mess.json](./407359-cleaning-simulator-ultimate-mess.json) |
 | Cleaning the System | 207762 | [207762-cleaning-the-system.json](./207762-cleaning-the-system.json) |
+| Cleaning The World With Pampam | 291321 | [291321-cleaning-the-world-with-pampam.json](./291321-cleaning-the-world-with-pampam.json) |
 | Cleaning Time VR | 264682 | [264682-cleaning-time-vr.json](./264682-cleaning-time-vr.json) |
 | Cleaning up the Puzzle Gallery | 412359 | [412359-cleaning-up-the-puzzle-gallery.json](./412359-cleaning-up-the-puzzle-gallery.json) |
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
@@ -7439,6 +7443,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climb and Fall Dice Adventure | 242205 | [242205-climb-and-fall-dice-adventure.json](./242205-climb-and-fall-dice-adventure.json) |
 | Climb Challenge | 125385 | [125385-climb-challenge.json](./125385-climb-challenge.json) |
 | Climb Challenge: Castle | 213019 | [213019-climb-challenge-castle.json](./213019-climb-challenge-castle.json) |
+| Climb Challenge: Find Items 4 | 291314 | [291314-climb-challenge-find-items-4.json](./291314-climb-challenge-find-items-4.json) |
+| Climb Challenge: Find Items 5 | 291303 | [291303-climb-challenge-find-items-5.json](./291303-climb-challenge-find-items-5.json) |
 | Climb Challenge: Find Items Cyberpunk | 284823 | [284823-climb-challenge-find-items-cyberpunk.json](./284823-climb-challenge-find-items-cyberpunk.json) |
 | Climb Driver | 393058 | [393058-climb-driver.json](./393058-climb-driver.json) |
 | Climb Fall Human Guys | 149363 | [149363-climb-fall-human-guys.json](./149363-climb-fall-human-guys.json) |
@@ -13709,6 +13715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CS2D | 180339 | [180339-cs2d.json](./180339-cs2d.json) |
 | CSC | 339346 | [339346-csc.json](./339346-csc.json) |
 | CSC \| Space MMO | 118419 | [118419-csc-space-mmo.json](./118419-csc-space-mmo.json) |
+| CSCĐ: Vietnam Mobile Police | 291324 | [291324-csc-vietnam-mobile-police.json](./291324-csc-vietnam-mobile-police.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
 | CSI: Crime Scene Investigation - 3 Dimensions of Murder | 72003 | [72003-csi-crime-scene-investigation-3-dimensions-of-murder.json](./72003-csi-crime-scene-investigation-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
