@@ -666,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest of Hat | 186097 | [186097-quest-of-hat.json](./186097-quest-of-hat.json) |
 | Quest of Jackal: Puzzle game | 113882 | [113882-quest-of-jackal-puzzle-game.json](./113882-quest-of-jackal-puzzle-game.json) |
 | Quest of Legend | 334202 | [334202-quest-of-legend.json](./334202-quest-of-legend.json) |
+| Quest of Lost Memories | 299002 | [299002-quest-of-lost-memories.json](./299002-quest-of-lost-memories.json) |
 | Quest of Persia: Lotfali Khan Zand | 191672 | [191672-quest-of-persia-lotfali-khan-zand.json](./191672-quest-of-persia-lotfali-khan-zand.json) |
 | Quest of Persia: The End of Innocence | 191671 | [191671-quest-of-persia-the-end-of-innocence.json](./191671-quest-of-persia-the-end-of-innocence.json) |
 | Quest of the Dragon Soul | 295926 | [295926-quest-of-the-dragon-soul.json](./295926-quest-of-the-dragon-soul.json) |
