@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D4: Dark Dreams Don't Die - Season 1 | 4758 | [4758-d4-dark-dreams-dont-die-season-1.json](./4758-d4-dark-dreams-dont-die-season-1.json) |
 | D4: Dark Dreams Don't Die - Season 1: Deluxe Edition | 51756 | [51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json](./51756-d4-dark-dreams-dont-die-season-1-deluxe-edition.json) |
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
+| D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
 | Death Rally | 18121 | [18121-death-rally.json](./18121-death-rally.json) |
 | Death Rally | 665 | [665-death-rally.json](./665-death-rally.json) |
+| Death Ration: Back to 19XX | 258321 | [258321-death-ration-back-to-19xx.json](./258321-death-ration-back-to-19xx.json) |
 | Death Rattle: Hell Unleashed | 155391 | [155391-death-rattle-hell-unleashed.json](./155391-death-rattle-hell-unleashed.json) |
 | Death Realm | 154053 | [154053-death-realm.json](./154053-death-realm.json) |
 | Death Relives | 220010 | [220010-death-relives.json](./220010-death-relives.json) |
@@ -13231,6 +13233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
 | Dungeon Delvers | 201671 | [201671-dungeon-delvers.json](./201671-dungeon-delvers.json) |
+| Dungeon Descent | 258357 | [258357-dungeon-descent.json](./258357-dungeon-descent.json) |
 | Dungeon Destroyer | 363317 | [363317-dungeon-destroyer.json](./363317-dungeon-destroyer.json) |
 | Dungeon Dev | 292261 | [292261-dungeon-dev.json](./292261-dungeon-dev.json) |
 | Dungeon Digger | 304001 | [304001-dungeon-digger.json](./304001-dungeon-digger.json) |
@@ -13252,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Escape | 372573 | [372573-dungeon-escape.json](./372573-dungeon-escape.json) |
 | Dungeon Escape VR | 28890 | [28890-dungeon-escape-vr.json](./28890-dungeon-escape-vr.json) |
 | Dungeon Escapist | 80905 | [80905-dungeon-escapist.json](./80905-dungeon-escapist.json) |
+| Dungeon Evolution: Nemesis | 258323 | [258323-dungeon-evolution-nemesis.json](./258323-dungeon-evolution-nemesis.json) |
 | Dungeon Exiles | 290847 | [290847-dungeon-exiles.json](./290847-dungeon-exiles.json) |
 | Dungeon Explorer | 193425 | [193425-dungeon-explorer.json](./193425-dungeon-explorer.json) |
 | Dungeon Explorer | 19742 | [19742-dungeon-explorer.json](./19742-dungeon-explorer.json) |
