@@ -3599,6 +3599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
+| Beach Volleyball | 278855 | [278855-beach-volleyball.json](./278855-beach-volleyball.json) |
 | Beach Volleyball | 359223 | [359223-beach-volleyball.json](./359223-beach-volleyball.json) |
 | Beach Volleyball 2016 | 175203 | [175203-beach-volleyball-2016.json](./175203-beach-volleyball-2016.json) |
 | Beach Volleyball Boys: Hot Spike | 412948 | [412948-beach-volleyball-boys-hot-spike.json](./412948-beach-volleyball-boys-hot-spike.json) |
