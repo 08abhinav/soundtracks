@@ -2323,6 +2323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo: The Iron Age | 399930 | [399930-geo-the-iron-age.json](./399930-geo-the-iron-age.json) |
 | Geobeast | 386706 | [386706-geobeast.json](./386706-geobeast.json) |
 | GeoBingo.io | 172403 | [172403-geobingo-io.json](./172403-geobingo-io.json) |
+| GeoBoxer | 293473 | [293473-geoboxer.json](./293473-geoboxer.json) |
 | Geocells Tricells | 107869 | [107869-geocells-tricells.json](./107869-geocells-tricells.json) |
 | GeoChampion | 233627 | [233627-geochampion.json](./233627-geochampion.json) |
 | Geocraft | 388241 | [388241-geocraft.json](./388241-geocraft.json) |
@@ -5587,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
 | Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie | 373632 | [373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json](./373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json) |
 | Granblue Fantasy Versus: Rising | 232699 | [232699-granblue-fantasy-versus-rising.json](./232699-granblue-fantasy-versus-rising.json) |
+| Granblue Fantasy Versus: Rising - Additional Character 2B | 293496 | [293496-granblue-fantasy-versus-rising-additional-character-2b.json](./293496-granblue-fantasy-versus-rising-additional-character-2b.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Set - Sandalphon | 339965 | [339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json](./339965-granblue-fantasy-versus-rising-additional-character-set-sandalphon.json) |
 | Granblue Fantasy Versus: Rising - Additional Character Vane | 294977 | [294977-granblue-fantasy-versus-rising-additional-character-vane.json](./294977-granblue-fantasy-versus-rising-additional-character-vane.json) |
 | Granblue Fantasy Versus: Rising - Additional Character: Beatrix | 301988 | [301988-granblue-fantasy-versus-rising-additional-character-beatrix.json](./301988-granblue-fantasy-versus-rising-additional-character-beatrix.json) |
@@ -5599,6 +5601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy Versus: Rising - Character Costume Unadulterated Amour Belial | 373628 | [373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json](./373628-granblue-fantasy-versus-rising-character-costume-unadulterated-amour-belial.json) |
 | Granblue Fantasy Versus: Rising - Character Costume: Sinborne Redeemer (Seox) | 379678 | [379678-granblue-fantasy-versus-rising-character-costume-sinborne-redeemer-seox.json](./379678-granblue-fantasy-versus-rising-character-costume-sinborne-redeemer-seox.json) |
 | Granblue Fantasy Versus: Rising - Character Costume: Spooky Vicky (Vikala) | 379679 | [379679-granblue-fantasy-versus-rising-character-costume-spooky-vicky-vikala.json](./379679-granblue-fantasy-versus-rising-character-costume-spooky-vicky-vikala.json) |
+| Granblue Fantasy Versus: Rising - Character Pass 1 | 293495 | [293495-granblue-fantasy-versus-rising-character-pass-1.json](./293495-granblue-fantasy-versus-rising-character-pass-1.json) |
 | Granblue Fantasy Versus: Rising - Character Pass 2 | 379680 | [379680-granblue-fantasy-versus-rising-character-pass-2.json](./379680-granblue-fantasy-versus-rising-character-pass-2.json) |
 | Granblue Fantasy Versus: Rising - Color Set 4 | 332667 | [332667-granblue-fantasy-versus-rising-color-set-4.json](./332667-granblue-fantasy-versus-rising-color-set-4.json) |
 | Granblue Fantasy Versus: Rising - Color Set 5 | 334145 | [334145-granblue-fantasy-versus-rising-color-set-5.json](./334145-granblue-fantasy-versus-rising-color-set-5.json) |
