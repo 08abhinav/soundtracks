@@ -190,6 +190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RabbitConquest | 250260 | [250260-rabbitconquest.json](./250260-rabbitconquest.json) |
 | RabbitHole Island: Turn-based Vtuber Battles | 374387 | [374387-rabbithole-island-turn-based-vtuber-battles.json](./374387-rabbithole-island-turn-based-vtuber-battles.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
+| Rabbitra 2 | 291846 | [291846-rabbitra-2.json](./291846-rabbitra-2.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
 | Rabby in the Land of Sweets | 165646 | [165646-rabby-in-the-land-of-sweets.json](./165646-rabby-in-the-land-of-sweets.json) |
 | Rabdonut | 219106 | [219106-rabdonut.json](./219106-rabdonut.json) |
@@ -547,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiohammer | 21565 | [21565-radiohammer.json](./21565-radiohammer.json) |
 | Radiolight | 170912 | [170912-radiolight.json](./170912-radiolight.json) |
 | Radiometric Dating | 193461 | [193461-radiometric-dating.json](./193461-radiometric-dating.json) |
+| Radioquacktive | 291831 | [291831-radioquacktive.json](./291831-radioquacktive.json) |
 | Radiosol | 298421 | [298421-radiosol.json](./298421-radiosol.json) |
 | Radiotelegraphist | 188940 | [188940-radiotelegraphist.json](./188940-radiotelegraphist.json) |
 | RadioWave | 301273 | [301273-radiowave.json](./301273-radiowave.json) |
@@ -4550,6 +4552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Space Warrior | 37293 | [37293-return-of-the-space-warrior.json](./37293-return-of-the-space-warrior.json) |
 | Return of the Things | 66627 | [66627-return-of-the-things.json](./66627-return-of-the-things.json) |
 | Return of the Twin Peaks | 419357 | [419357-return-of-the-twin-peaks.json](./419357-return-of-the-twin-peaks.json) |
+| Return of the USSR | 291854 | [291854-return-of-the-ussr.json](./291854-return-of-the-ussr.json) |
 | Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
@@ -5549,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
+| Ring Craft | 291843 | [291843-ring-craft.json](./291843-ring-craft.json) |
 | Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
@@ -7005,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockford: The Arcade Game + Crystal Raider | 98225 | [98225-rockford-the-arcade-game-crystal-raider.json](./98225-rockford-the-arcade-game-crystal-raider.json) |
 | Rockford: The Arcade Game + Rockman | 98224 | [98224-rockford-the-arcade-game-rockman.json](./98224-rockford-the-arcade-game-rockman.json) |
 | RockFree | 165487 | [165487-rockfree.json](./165487-rockfree.json) |
+| Rockhopper | 291817 | [291817-rockhopper.json](./291817-rockhopper.json) |
 | Rockhounds | 391653 | [391653-rockhounds.json](./391653-rockhounds.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
@@ -7531,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll 'n Bounce | 389482 | [389482-roll-n-bounce.json](./389482-roll-n-bounce.json) |
 | Roll & Risk | 392193 | [392193-roll-and-risk.json](./392193-roll-and-risk.json) |
 | Roll a Ball With Your Friends | 150520 | [150520-roll-a-ball-with-your-friends.json](./150520-roll-a-ball-with-your-friends.json) |
+| Roll A Blade | 291829 | [291829-roll-a-blade.json](./291829-roll-a-blade.json) |
 | Roll Ball | 319963 | [319963-roll-ball.json](./319963-roll-ball.json) |
 | Roll Ball Adventures | 188668 | [188668-roll-ball-adventures.json](./188668-roll-ball-adventures.json) |
 | Roll Boss Rush | 43845 | [43845-roll-boss-rush.json](./43845-roll-boss-rush.json) |
