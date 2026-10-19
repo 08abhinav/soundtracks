@@ -487,6 +487,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfbrick Rocket Racing | 67959 | [67959-halfbrick-rocket-racing.json](./67959-halfbrick-rocket-racing.json) |
 | Halfmoon | 364583 | [364583-halfmoon.json](./364583-halfmoon.json) |
 | HalfMoon Adventures | 333164 | [333164-halfmoon-adventures.json](./333164-halfmoon-adventures.json) |
+| Halfquake | 272151 | [272151-halfquake.json](./272151-halfquake.json) |
+| Halfquake Amen | 272152 | [272152-halfquake-amen.json](./272152-halfquake-amen.json) |
+| Halfquake Sunrise | 272153 | [272153-halfquake-sunrise.json](./272153-halfquake-sunrise.json) |
 | Halfquake Trilogy | 127942 | [127942-halfquake-trilogy.json](./127942-halfquake-trilogy.json) |
 | Halft | 182792 | [182792-halft.json](./182792-halft.json) |
 | Halftime Adventures | 373218 | [373218-halftime-adventures.json](./373218-halftime-adventures.json) |
@@ -8988,6 +8991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hush Little Lily | 177395 | [177395-hush-little-lily.json](./177395-hush-little-lily.json) |
 | Hush: In Search of Dominic Ward | 116298 | [116298-hush-in-search-of-dominic-ward.json](./116298-hush-in-search-of-dominic-ward.json) |
 | Hushaby Baby | 59216 | [59216-hushaby-baby.json](./59216-hushaby-baby.json) |
+| Hushed Walls | 272167 | [272167-hushed-walls.json](./272167-hushed-walls.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
 | Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
