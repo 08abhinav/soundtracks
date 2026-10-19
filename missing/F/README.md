@@ -5242,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights At Pingas | 403829 | [403829-five-nights-at-pingas.json](./403829-five-nights-at-pingas.json) |
 | Five Nights At PT's II | 412393 | [412393-five-nights-at-pts-ii.json](./412393-five-nights-at-pts-ii.json) |
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
+| Five Nights at Roblox 2 RePartyin | 262219 | [262219-five-nights-at-roblox-2-repartyin.json](./262219-five-nights-at-roblox-2-repartyin.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at Silver Pine | 297079 | [297079-five-nights-at-silver-pine.json](./297079-five-nights-at-silver-pine.json) |
@@ -9630,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel | 567 | [567-fuel.json](./567-fuel.json) |
 | Fuel & Food Bundle | 284863 | [284863-fuel-and-food-bundle.json](./284863-fuel-and-food-bundle.json) |
 | Fuel Depot 360 | 92420 | [92420-fuel-depot-360.json](./92420-fuel-depot-360.json) |
+| Fuel Devourer | 262174 | [262174-fuel-devourer.json](./262174-fuel-devourer.json) |
 | Fuel Me Up | 342719 | [342719-fuel-me-up.json](./342719-fuel-me-up.json) |
 | Fuel Overdose | 20841 | [20841-fuel-overdose.json](./20841-fuel-overdose.json) |
 | Fuel Station Simulator | 302224 | [302224-fuel-station-simulator.json](./302224-fuel-station-simulator.json) |
@@ -10181,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Woof | 322704 | [322704-furry-woof.json](./322704-furry-woof.json) |
 | Furry Woof and Nya | 169750 | [169750-furry-woof-and-nya.json](./169750-furry-woof-and-nya.json) |
 | FurryFury: Smash & Roll | 116361 | [116361-furryfury-smash-and-roll.json](./116361-furryfury-smash-and-roll.json) |
+| FurryMUCK | 262192 | [262192-furrymuck.json](./262192-furrymuck.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque | 166499 | [166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json](./166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
