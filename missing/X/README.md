@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Tactics | 19482 | [19482-x-tactics.json](./19482-x-tactics.json) |
 | X-Town 3D game | 96124 | [96124-x-town-3d-game.json](./96124-x-town-3d-game.json) |
 | X-treme Quads | 66924 | [66924-x-treme-quads.json](./66924-x-treme-quads.json) |
+| X-Type | 301119 | [301119-x-type.json](./301119-x-type.json) |
 | X-YZE | 370672 | [370672-x-yze.json](./370672-x-yze.json) |
 | X-Zero | 181210 | [181210-x-zero.json](./181210-x-zero.json) |
 | X-Zone | 42647 | [42647-x-zone.json](./42647-x-zone.json) |
