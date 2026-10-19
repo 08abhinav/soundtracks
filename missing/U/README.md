@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Udder | 361080 | [361080-udder.json](./361080-udder.json) |
 | Udderly Tickets | 66689 | [66689-udderly-tickets.json](./66689-udderly-tickets.json) |
 | Uden at prale - det er Harry | 127973 | [127973-uden-at-prale-det-er-harry.json](./127973-uden-at-prale-det-er-harry.json) |
+| UDLR_Modify | 291919 | [291919-udlr-modify.json](./291919-udlr-modify.json) |
 | UDO | 244735 | [244735-udo.json](./244735-udo.json) |
 | uDodge:Practice Tool | 94870 | [94870-udodge-practice-tool.json](./94870-udodge-practice-tool.json) |
 | Udoiana Raunes | 247089 | [247089-udoiana-raunes.json](./247089-udoiana-raunes.json) |
