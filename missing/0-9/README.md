@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
 | 8Doors: Arum's Afterlife Adventure | 137635 | [137635-8doors-arums-afterlife-adventure.json](./137635-8doors-arums-afterlife-adventure.json) |
+| 8Floor Bundle | 277722 | [277722-8floor-bundle.json](./277722-8floor-bundle.json) |
 | 8Floor Bundle 3 in 1 | 273940 | [273940-8floor-bundle-3-in-1.json](./273940-8floor-bundle-3-in-1.json) |
 | 8Floor Bundle 4 in 1 | 259835 | [259835-8floor-bundle-4-in-1.json](./259835-8floor-bundle-4-in-1.json) |
 | 8Floor Bundle 4 in 1 part 2 | 331451 | [331451-8floor-bundle-4-in-1-part-2.json](./331451-8floor-bundle-4-in-1-part-2.json) |
