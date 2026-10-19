@@ -5971,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devoid | 367192 | [367192-devoid.json](./367192-devoid.json) |
 | Devoid | 377568 | [377568-devoid.json](./377568-devoid.json) |
 | Devoid of Shadows | 27370 | [27370-devoid-of-shadows.json](./27370-devoid-of-shadows.json) |
+| Devoid Prototype | 263892 | [263892-devoid-prototype.json](./263892-devoid-prototype.json) |
 | Devolution: Maken no Ou to Shimobe-tachi | 220329 | [220329-devolution-maken-no-ou-to-shimobe-tachi.json](./220329-devolution-maken-no-ou-to-shimobe-tachi.json) |
 | Devolver Bootleg | 119315 | [119315-devolver-bootleg.json](./119315-devolver-bootleg.json) |
 | Devolver Tumble Time | 152205 | [152205-devolver-tumble-time.json](./152205-devolver-tumble-time.json) |
@@ -7540,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
+| Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
 | Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
