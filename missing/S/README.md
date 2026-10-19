@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saigo no Uta | 166588 | [166588-saigo-no-uta.json](./166588-saigo-no-uta.json) |
 | Saigon: The Final Days | 73871 | [73871-saigon-the-final-days.json](./73871-saigon-the-final-days.json) |
 | Saihai no Yukue | 302503 | [302503-saihai-no-yukue.json](./302503-saihai-no-yukue.json) |
+| Saihate Enabler | 285880 | [285880-saihate-enabler.json](./285880-saihate-enabler.json) |
 | Saihate Hospital | 204496 | [204496-saihate-hospital.json](./204496-saihate-hospital.json) |
 | Saihate no Ima | 62736 | [62736-saihate-no-ima.json](./62736-saihate-no-ima.json) |
 | Saihate Station | 301102 | [301102-saihate-station.json](./301102-saihate-station.json) |
@@ -3653,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
 | Seer | 397381 | [397381-seer.json](./397381-seer.json) |
 | Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
+| Seers of Ages Past 1: The Harbinger of Mah | 285884 | [285884-seers-of-ages-past-1-the-harbinger-of-mah.json](./285884-seers-of-ages-past-1-the-harbinger-of-mah.json) |
 | SeesawC 2 | 281360 | [281360-seesawc-2.json](./281360-seesawc-2.json) |
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
@@ -4067,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sense Off: A Sacred Story in the Wind | 330277 | [330277-sense-off-a-sacred-story-in-the-wind.json](./330277-sense-off-a-sacred-story-in-the-wind.json) |
 | Sense: A Cyberpunk Ghost Story - Limited Edition | 166263 | [166263-sense-a-cyberpunk-ghost-story-limited-edition.json](./166263-sense-a-cyberpunk-ghost-story-limited-edition.json) |
 | Sense: The Game | 358430 | [358430-sense-the-game.json](./358430-sense-the-game.json) |
+| Sensei, Issho ni Kitekuremasu ka? | 285876 | [285876-sensei-issho-ni-kitekuremasu-ka.json](./285876-sensei-issho-ni-kitekuremasu-ka.json) |
 | Senseless | 312725 | [312725-senseless.json](./312725-senseless.json) |
 | Senses: Midnight | 153980 | [153980-senses-midnight.json](./153980-senses-midnight.json) |
 | Sensha SP | 222290 | [222290-sensha-sp.json](./222290-sensha-sp.json) |
@@ -5447,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShapeRockets | 31196 | [31196-shaperockets.json](./31196-shaperockets.json) |
 | Shaperoid | 105503 | [105503-shaperoid.json](./105503-shaperoid.json) |
 | Shapes & Colors Learning: Free Toddler Kids Games | 89822 | [89822-shapes-and-colors-learning-free-toddler-kids-games.json](./89822-shapes-and-colors-learning-free-toddler-kids-games.json) |
+| Shapes and Patterns | 285871 | [285871-shapes-and-patterns.json](./285871-shapes-and-patterns.json) |
 | Shapes of Gray | 34559 | [34559-shapes-of-gray.json](./34559-shapes-of-gray.json) |
 | Shapes of Memory: Jigsaw Puzzle | 392260 | [392260-shapes-of-memory-jigsaw-puzzle.json](./392260-shapes-of-memory-jigsaw-puzzle.json) |
 | Shapes on the Run | 108479 | [108479-shapes-on-the-run.json](./108479-shapes-on-the-run.json) |
@@ -6146,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin-chan: Shiro and the Coal Town | 266712 | [266712-shin-chan-shiro-and-the-coal-town.json](./266712-shin-chan-shiro-and-the-coal-town.json) |
 | Shinai Naru Kodoku to Kunou e | 350600 | [350600-shinai-naru-kodoku-to-kunou-e.json](./350600-shinai-naru-kodoku-to-kunou-e.json) |
 | Shinban Arishia no Panse | 415278 | [415278-shinban-arishia-no-panse.json](./415278-shinban-arishia-no-panse.json) |
+| Shinda Classmate kara Koibumi ga Todoita. | 285872 | [285872-shinda-classmate-kara-koibumi-ga-todoita.json](./285872-shinda-classmate-kara-koibumi-ga-todoita.json) |
 | Shine | 69775 | [69775-shine.json](./69775-shine.json) |
 | Shine of Fullmoon | 264148 | [264148-shine-of-fullmoon.json](./264148-shine-of-fullmoon.json) |
 | Shine On, My Little Sun | 320147 | [320147-shine-on-my-little-sun.json](./320147-shine-on-my-little-sun.json) |
@@ -6181,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shingen the Ruler | 48085 | [48085-shingen-the-ruler.json](./48085-shingen-the-ruler.json) |
 | Shinies: Call of Light | 200167 | [200167-shinies-call-of-light.json](./200167-shinies-call-of-light.json) |
 | Shinigami Kagyou: Kaidan Romance | 219137 | [219137-shinigami-kagyou-kaidan-romance.json](./219137-shinigami-kagyou-kaidan-romance.json) |
+| Shinigami Killer | 285877 | [285877-shinigami-killer.json](./285877-shinigami-killer.json) |
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
 | Shinigami Shogyou: Kaidan Romance | 219138 | [219138-shinigami-shogyou-kaidan-romance.json](./219138-shinigami-shogyou-kaidan-romance.json) |
 | Shinigami Soul Agency | 224197 | [224197-shinigami-soul-agency.json](./224197-shinigami-soul-agency.json) |
@@ -10476,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smasher | 112976 | [112976-smasher.json](./112976-smasher.json) |
 | Smasher | 349462 | [349462-smasher.json](./349462-smasher.json) |
 | Smasher and the Will o' the Thiccs | 165633 | [165633-smasher-and-the-will-o-the-thiccs.json](./165633-smasher-and-the-will-o-the-thiccs.json) |
+| Smashfruit | 285898 | [285898-smashfruit.json](./285898-smashfruit.json) |
 | Smashie | 23952 | [23952-smashie.json](./23952-smashie.json) |
 | Smashing | 259765 | [259765-smashing.json](./259765-smashing.json) |
 | Smashing Bottles | 414872 | [414872-smashing-bottles.json](./414872-smashing-bottles.json) |
@@ -12288,6 +12295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
+| Something Something Spaceship | 285847 | [285847-something-something-spaceship.json](./285847-something-something-spaceship.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
 | Something Strange has Come Over God's Country Tonight | 335515 | [335515-something-strange-has-come-over-gods-country-tonight.json](./335515-something-strange-has-come-over-gods-country-tonight.json) |
 | Something Strange in the Woods | 149531 | [149531-something-strange-in-the-woods.json](./149531-something-strange-in-the-woods.json) |
@@ -16084,6 +16092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
+| Spirit Island: Jagged Earth | 285886 | [285886-spirit-island-jagged-earth.json](./285886-spirit-island-jagged-earth.json) |
 | Spirit Knight | 358815 | [358815-spirit-knight.json](./358815-spirit-knight.json) |
 | Spirit Land | 149883 | [149883-spirit-land.json](./149883-spirit-land.json) |
 | Spirit Latte | 364380 | [364380-spirit-latte.json](./364380-spirit-latte.json) |
@@ -19820,6 +19829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
+| Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
 | Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
 | Stolen Memories II | 270882 | [270882-stolen-memories-ii.json](./270882-stolen-memories-ii.json) |
 | Stolen Mushrooms | 268224 | [268224-stolen-mushrooms.json](./268224-stolen-mushrooms.json) |
