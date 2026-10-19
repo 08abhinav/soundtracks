@@ -2692,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman: Sakuretsu! Muscle Power | 346022 | [346022-kinnikuman-sakuretsu-muscle-power.json](./346022-kinnikuman-sakuretsu-muscle-power.json) |
 | Kinnikuman: Taiketsu Akuma Choujin | 346033 | [346033-kinnikuman-taiketsu-akuma-choujin.json](./346033-kinnikuman-taiketsu-akuma-choujin.json) |
 | KinnikuNeko: Super Muscle Cat | 226869 | [226869-kinnikuneko-super-muscle-cat.json](./226869-kinnikuneko-super-muscle-cat.json) |
+| Kinny and the Lost Starlight | 295092 | [295092-kinny-and-the-lost-starlight.json](./295092-kinny-and-the-lost-starlight.json) |
 | Kino | 383157 | [383157-kino.json](./383157-kino.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
 | KinoCon! Defend My Sweet Home! | 204396 | [204396-kinocon-defend-my-sweet-home.json](./204396-kinocon-defend-my-sweet-home.json) |
