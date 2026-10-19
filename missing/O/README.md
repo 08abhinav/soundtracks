@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
 | Operation Save Anna | 369551 | [369551-operation-save-anna.json](./369551-operation-save-anna.json) |
 | Operation Sci-Fi: Hentai Girls | 349301 | [349301-operation-sci-fi-hentai-girls.json](./349301-operation-sci-fi-hentai-girls.json) |
+| Operation Scorpion: Take Down | 303871 | [303871-operation-scorpion-take-down.json](./303871-operation-scorpion-take-down.json) |
 | Operation Sea Wolf | 241463 | [241463-operation-sea-wolf.json](./241463-operation-sea-wolf.json) |
 | Operation Secret Storm | 3143 | [3143-operation-secret-storm.json](./3143-operation-secret-storm.json) |
 | Operation Sexy Sudoku | 187207 | [187207-operation-sexy-sudoku.json](./187207-operation-sexy-sudoku.json) |
