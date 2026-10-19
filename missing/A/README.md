@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
+| Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
 | Adam and Eve 2 | 381995 | [381995-adam-and-eve-2.json](./381995-adam-and-eve-2.json) |
 | Adam and Eve 3 | 381997 | [381997-adam-and-eve-3.json](./381997-adam-and-eve-3.json) |
 | Adam and Eve: Crossy River | 233509 | [233509-adam-and-eve-crossy-river.json](./233509-adam-and-eve-crossy-river.json) |
@@ -6977,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Granny 2-Angry Neighbor | 102852 | [102852-angry-granny-2-angry-neighbor.json](./102852-angry-granny-2-angry-neighbor.json) |
 | Angry Hills | 87100 | [87100-angry-hills.json](./87100-angry-hills.json) |
 | Angry King | 111220 | [111220-angry-king.json](./111220-angry-king.json) |
+| Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
 | Angry Neighbor: The Temporary Neighbor | 241838 | [241838-angry-neighbor-the-temporary-neighbor.json](./241838-angry-neighbor-the-temporary-neighbor.json) |
@@ -9348,6 +9350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheAge Begins | 77607 | [77607-archeage-begins.json](./77607-archeage-begins.json) |
 | ArcheAge Chronicles | 317622 | [317622-archeage-chronicles.json](./317622-archeage-chronicles.json) |
 | ArcheAge: Unchained | 125340 | [125340-archeage-unchained.json](./125340-archeage-unchained.json) |
+| Archean | 301128 | [301128-archean.json](./301128-archean.json) |
 | ArcheBlade | 11664 | [11664-archeblade.json](./11664-archeblade.json) |
 | Archeholder | 238560 | [238560-archeholder.json](./238560-archeholder.json) |
 | Archeland | 206221 | [206221-archeland.json](./206221-archeland.json) |
