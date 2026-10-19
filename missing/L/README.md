@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Party Legends | 156976 | [156976-little-party-legends.json](./156976-little-party-legends.json) |
 | Little Paws: Kitty Cat - Gold Edition | 404279 | [404279-little-paws-kitty-cat-gold-edition.json](./404279-little-paws-kitty-cat-gold-edition.json) |
 | Little Paws: Kitty Cat Simulator | 333521 | [333521-little-paws-kitty-cat-simulator.json](./333521-little-paws-kitty-cat-simulator.json) |
+| Little Penguin Chillventure | 266613 | [266613-little-penguin-chillventure.json](./266613-little-penguin-chillventure.json) |
 | Little People | 57039 | [57039-little-people.json](./57039-little-people.json) |
 | Little Petsville Desktop | 401641 | [401641-little-petsville-desktop.json](./401641-little-petsville-desktop.json) |
 | Little Picnic | 412806 | [412806-little-picnic.json](./412806-little-picnic.json) |
