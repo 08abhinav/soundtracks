@@ -2442,6 +2442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upstream Ante | 298324 | [298324-upstream-ante.json](./298324-upstream-ante.json) |
 | Uptasia | 81127 | [81127-uptasia.json](./81127-uptasia.json) |
 | Uptime: A Cloud Provider Sim | 408966 | [408966-uptime-a-cloud-provider-sim.json](./408966-uptime-a-cloud-provider-sim.json) |
+| UpTogether.io | 278320 | [278320-uptogether-io.json](./278320-uptogether-io.json) |
 | Uptown Outbreak | 257682 | [257682-uptown-outbreak.json](./257682-uptown-outbreak.json) |
 | UptownRanger's Halloween | 314101 | [314101-uptownrangers-halloween.json](./314101-uptownrangers-halloween.json) |
 | UpUpUp | 310810 | [310810-upupup.json](./310810-upupup.json) |
