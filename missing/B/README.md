@@ -4781,6 +4781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Deep | 211449 | [211449-beneath-the-deep.json](./211449-beneath-the-deep.json) |
+| Beneath the Earth: Backrooms | 273792 | [273792-beneath-the-earth-backrooms.json](./273792-beneath-the-earth-backrooms.json) |
 | Beneath The Hill | 410298 | [410298-beneath-the-hill.json](./410298-beneath-the-hill.json) |
 | Beneath the Lighthouse | 59378 | [59378-beneath-the-lighthouse.json](./59378-beneath-the-lighthouse.json) |
 | Beneath the Mind | 336630 | [336630-beneath-the-mind.json](./336630-beneath-the-mind.json) |
@@ -7759,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
+| Block Games:Avoid | 273764 | [273764-block-games-avoid.json](./273764-block-games-avoid.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block Heist | 189893 | [189893-block-heist.json](./189893-block-heist.json) |
