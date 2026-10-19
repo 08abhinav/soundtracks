@@ -6479,6 +6479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
 | Roblox: Mae Plunderjack | 409070 | [409070-roblox-mae-plunderjack.json](./409070-roblox-mae-plunderjack.json) |
+| RobloxTale: Noob Fight | 262220 | [262220-robloxtale-noob-fight.json](./262220-robloxtale-noob-fight.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
 | Robmembor | 332566 | [332566-robmembor.json](./332566-robmembor.json) |
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
