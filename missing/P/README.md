@@ -7284,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playne | 102937 | [102937-playne.json](./102937-playne.json) |
 | PlayPark StreetBallers | 249691 | [249691-playpark-streetballers.json](./249691-playpark-streetballers.json) |
 | Playroom Invasion TD | 264646 | [264646-playroom-invasion-td.json](./264646-playroom-invasion-td.json) |
+| Playroom Racer | 268329 | [268329-playroom-racer.json](./268329-playroom-racer.json) |
 | Playroom Racer 2 | 259028 | [259028-playroom-racer-2.json](./259028-playroom-racer-2.json) |
 | Playroom Tracks: Hill Climb Adventure | 385083 | [385083-playroom-tracks-hill-climb-adventure.json](./385083-playroom-tracks-hill-climb-adventure.json) |
 | Playrooms | 400551 | [400551-playrooms.json](./400551-playrooms.json) |
@@ -11452,6 +11453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Abel | 84122 | [84122-project-abel.json](./84122-project-abel.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
+| Project Adam: AI Attack | 268322 | [268322-project-adam-ai-attack.json](./268322-project-adam-ai-attack.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Adventure Game: The Cycle of the Cave | 124578 | [124578-project-adventure-game-the-cycle-of-the-cave.json](./124578-project-adventure-game-the-cycle-of-the-cave.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
@@ -13048,6 +13050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PureSkate 2 | 175431 | [175431-pureskate-2.json](./175431-pureskate-2.json) |
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
+| Purgatory | 268349 | [268349-purgatory.json](./268349-purgatory.json) |
 | Purgatory | 27773 | [27773-purgatory.json](./27773-purgatory.json) |
 | Purgatory | 383013 | [383013-purgatory.json](./383013-purgatory.json) |
 | Purgatory Dungeoneer | 202581 | [202581-purgatory-dungeoneer.json](./202581-purgatory-dungeoneer.json) |
