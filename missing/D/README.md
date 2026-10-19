@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Castle | 337429 | [337429-dark-castle.json](./337429-dark-castle.json) |
 | Dark Cave | 170841 | [170841-dark-cave.json](./170841-dark-cave.json) |
 | Dark Cavern | 278723 | [278723-dark-cavern.json](./278723-dark-cavern.json) |
+| Dark Cellar Death Trial | 294015 | [294015-dark-cellar-death-trial.json](./294015-dark-cellar-death-trial.json) |
 | Dark Century | 12035 | [12035-dark-century.json](./12035-dark-century.json) |
 | Dark Chaser | 109034 | [109034-dark-chaser.json](./109034-dark-chaser.json) |
 | Dark Chess+ | 175242 | [175242-dark-chess.json](./175242-dark-chess.json) |
@@ -5534,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
 | Detective Agency 2 | 191046 | [191046-detective-agency-2.json](./191046-detective-agency-2.json) |
 | Detective Agency Gray Tie 2: Collector's Edition | 250940 | [250940-detective-agency-gray-tie-2-collectors-edition.json](./250940-detective-agency-gray-tie-2-collectors-edition.json) |
+| Detective Agency Mosaics | 293979 | [293979-detective-agency-mosaics.json](./293979-detective-agency-mosaics.json) |
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
@@ -13183,6 +13185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon No Dungeon: Reaper | 171022 | [171022-dungeon-no-dungeon-reaper.json](./171022-dungeon-no-dungeon-reaper.json) |
 | Dungeon No Dungeon: Tyrant's Endgame | 253968 | [253968-dungeon-no-dungeon-tyrants-endgame.json](./253968-dungeon-no-dungeon-tyrants-endgame.json) |
 | Dungeon of Argion | 245941 | [245941-dungeon-of-argion.json](./245941-dungeon-of-argion.json) |
+| Dungeon of Astaroth | 293976 | [293976-dungeon-of-astaroth.json](./293976-dungeon-of-astaroth.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
