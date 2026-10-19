@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Paradise | 201467 | [201467-beauty-paradise.json](./201467-beauty-paradise.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
+| Beauty Solitaire | 305640 | [305640-beauty-solitaire.json](./305640-beauty-solitaire.json) |
 | Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
 | Beauty vs. Zombie | 309844 | [309844-beauty-vs-zombie.json](./309844-beauty-vs-zombie.json) |
 | Beauty’s Target | 343230 | [343230-beauty-s-target.json](./343230-beauty-s-target.json) |
@@ -9581,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Fu | 111529 | [111529-boomerang-fu.json](./111529-boomerang-fu.json) |
 | Boomerang Fu: Deluxe Edition | 324381 | [324381-boomerang-fu-deluxe-edition.json](./324381-boomerang-fu-deluxe-edition.json) |
 | Boomerang Fu: Fresh Flavors Pack | 226265 | [226265-boomerang-fu-fresh-flavors-pack.json](./226265-boomerang-fu-fresh-flavors-pack.json) |
+| Boomerang Fu: Just Desserts DLC | 305614 | [305614-boomerang-fu-just-desserts-dlc.json](./305614-boomerang-fu-just-desserts-dlc.json) |
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
@@ -10300,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Up | 54958 | [54958-box-up.json](./54958-box-up.json) |
 | Box World | 338824 | [338824-box-world.json](./338824-box-world.json) |
 | Box World Greens | 338846 | [338846-box-world-greens.json](./338846-box-world-greens.json) |
+| Box Wrangler | 305642 | [305642-box-wrangler.json](./305642-box-wrangler.json) |
 | Box Zombies | 311783 | [311783-box-zombies.json](./311783-box-zombies.json) |
 | Box-In | 290100 | [290100-box-in.json](./290100-box-in.json) |
 | BOX: Space Station | 147383 | [147383-box-space-station.json](./147383-box-space-station.json) |
