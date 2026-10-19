@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
 | Mansion At Midnight | 272749 | [272749-mansion-at-midnight.json](./272749-mansion-at-midnight.json) |
+| Mansion Mystery | 257205 | [257205-mansion-mystery.json](./257205-mansion-mystery.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of Horrors | 102362 | [102362-mansion-of-horrors.json](./102362-mansion-of-horrors.json) |
 | Mansion of Memories | 266097 | [266097-mansion-of-memories.json](./266097-mansion-of-memories.json) |
@@ -5034,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
+| Mechers | 257250 | [257250-mechers.json](./257250-mechers.json) |
 | Mechinus | 99497 | [99497-mechinus.json](./99497-mechinus.json) |
 | Mechjestic | 293653 | [293653-mechjestic.json](./293653-mechjestic.json) |
 | Mecho Wars | 52567 | [52567-mecho-wars.json](./52567-mecho-wars.json) |
@@ -7300,6 +7302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Sonic Quest 2: Return and Revenge | 330119 | [330119-metal-sonic-quest-2-return-and-revenge.json](./330119-metal-sonic-quest-2-return-and-revenge.json) |
 | Metal Sonic Rebooted | 129168 | [129168-metal-sonic-rebooted.json](./129168-metal-sonic-rebooted.json) |
 | Metal Storm | 48170 | [48170-metal-storm.json](./48170-metal-storm.json) |
+| Metal Storm X | 257240 | [257240-metal-storm-x.json](./257240-metal-storm-x.json) |
 | Metal Suits: Counter-Attack | 217505 | [217505-metal-suits-counter-attack.json](./217505-metal-suits-counter-attack.json) |
 | Metal Surge | 369218 | [369218-metal-surge.json](./369218-metal-surge.json) |
 | Metal Survivor | 224520 | [224520-metal-survivor.json](./224520-metal-survivor.json) |
@@ -11273,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monk & The Misfit Monsters | 413622 | [413622-monk-and-the-misfit-monsters.json](./413622-monk-and-the-misfit-monsters.json) |
 | Monk Took Book | 393839 | [393839-monk-took-book.json](./393839-monk-took-book.json) |
 | Monkaru Fanta: Yuusha to Suishou no Shoujo | 348924 | [348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json](./348924-monkaru-fanta-yuusha-to-suishou-no-shoujo.json) |
+| Monke Adventure | 257221 | [257221-monke-adventure.json](./257221-monke-adventure.json) |
 | Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
 | Monke Survivor | 408515 | [408515-monke-survivor.json](./408515-monke-survivor.json) |
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
@@ -15677,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Swordsman | 230899 | [230899-my-swordsman.json](./230899-my-swordsman.json) |
 | My Talking Angela | 87017 | [87017-my-talking-angela.json](./87017-my-talking-angela.json) |
 | My Talking Angela 2+ | 291985 | [291985-my-talking-angela-2.json](./291985-my-talking-angela-2.json) |
+| My Talking Cat Lily | 257255 | [257255-my-talking-cat-lily.json](./257255-my-talking-cat-lily.json) |
 | My Talking Dog 2 | 269099 | [269099-my-talking-dog-2.json](./269099-my-talking-dog-2.json) |
 | My Talking Girl | 300429 | [300429-my-talking-girl.json](./300429-my-talking-girl.json) |
 | My Talking Pretty Girl | 300430 | [300430-my-talking-pretty-girl.json](./300430-my-talking-pretty-girl.json) |
