@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Truck Simulator 2: Farm Machinery | 356654 | [356654-euro-truck-simulator-2-farm-machinery.json](./356654-euro-truck-simulator-2-farm-machinery.json) |
 | Euro Truck Simulator 2: Forest Machinery | 378923 | [378923-euro-truck-simulator-2-forest-machinery.json](./378923-euro-truck-simulator-2-forest-machinery.json) |
 | Euro Truck Simulator 2: Going East | 26252 | [26252-euro-truck-simulator-2-going-east.json](./26252-euro-truck-simulator-2-going-east.json) |
+| Euro Truck Simulator 2: Greece | 274881 | [274881-euro-truck-simulator-2-greece.json](./274881-euro-truck-simulator-2-greece.json) |
 | Euro Truck Simulator 2: Heart of Russia | 165013 | [165013-euro-truck-simulator-2-heart-of-russia.json](./165013-euro-truck-simulator-2-heart-of-russia.json) |
 | Euro Truck Simulator 2: Heavy Cargo | 136172 | [136172-euro-truck-simulator-2-heavy-cargo.json](./136172-euro-truck-simulator-2-heavy-cargo.json) |
 | Euro Truck Simulator 2: Iberia | 145585 | [145585-euro-truck-simulator-2-iberia.json](./145585-euro-truck-simulator-2-iberia.json) |
