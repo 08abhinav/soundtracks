@@ -3630,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masc, Mask & Masked! | 391661 | [391661-masc-mask-and-masked.json](./391661-masc-mask-and-masked.json) |
 | Mascar | 394891 | [394891-mascar.json](./394891-mascar.json) |
 | Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
+| Maschinen Dolls | 260548 | [260548-maschinen-dolls.json](./260548-maschinen-dolls.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
@@ -4968,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230 | 151107 | [151107-mechanic-8230.json](./151107-mechanic-8230.json) |
 | Mechanic 8230: Deluxe Edition | 252700 | [252700-mechanic-8230-deluxe-edition.json](./252700-mechanic-8230-deluxe-edition.json) |
 | Mechanic 8230: Escape From Ilgrot - Extended Edition | 259544 | [259544-mechanic-8230-escape-from-ilgrot-extended-edition.json](./259544-mechanic-8230-escape-from-ilgrot-extended-edition.json) |
+| Mechanic 8230: Mission Citytone | 260527 | [260527-mechanic-8230-mission-citytone.json](./260527-mechanic-8230-mission-citytone.json) |
 | Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
