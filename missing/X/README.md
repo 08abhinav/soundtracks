@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
 | Xam Delivery | 414095 | [414095-xam-delivery.json](./414095-xam-delivery.json) |
 | Xanadu II | 37640 | [37640-xanadu-ii.json](./37640-xanadu-ii.json) |
+| Xanadu Land | 284247 | [284247-xanadu-land.json](./284247-xanadu-land.json) |
 | Xanadu Next | 6296 | [6296-xanadu-next.json](./6296-xanadu-next.json) |
 | Xanadu Scenario II | 62583 | [62583-xanadu-scenario-ii.json](./62583-xanadu-scenario-ii.json) |
 | Xanarthraxia | 118808 | [118808-xanarthraxia.json](./118808-xanarthraxia.json) |
