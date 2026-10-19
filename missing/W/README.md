@@ -1726,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Me Stream My Mental Breakdown | 132514 | [132514-watch-me-stream-my-mental-breakdown.json](./132514-watch-me-stream-my-mental-breakdown.json) |
 | Watch My Step! | 415204 | [415204-watch-my-step.json](./415204-watch-my-step.json) |
 | Watch Out | 55290 | [55290-watch-out.json](./55290-watch-out.json) |
+| Watch Out For Goblins! | 292398 | [292398-watch-out-for-goblins.json](./292398-watch-out-for-goblins.json) |
 | Watch Out: Shark! | 423264 | [423264-watch-out-shark.json](./423264-watch-out-shark.json) |
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
@@ -1737,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Tower | 121356 | [121356-watch-tower.json](./121356-watch-tower.json) |
 | Watch Trader | 339317 | [339317-watch-trader.json](./339317-watch-trader.json) |
 | Watch Where You're Going | 345077 | [345077-watch-where-youre-going.json](./345077-watch-where-youre-going.json) |
+| Watch Your Ass | 292384 | [292384-watch-your-ass.json](./292384-watch-your-ass.json) |
 | Watch Your Back | 203838 | [203838-watch-your-back.json](./203838-watch-your-back.json) |
 | Watch Your Eggs! | 311726 | [311726-watch-your-eggs.json](./311726-watch-your-eggs.json) |
 | Watch Your Eggs! VR | 282245 | [282245-watch-your-eggs-vr.json](./282245-watch-your-eggs-vr.json) |
