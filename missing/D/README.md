@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Reborn | 28820 | [28820-darkness-reborn.json](./28820-darkness-reborn.json) |
 | Darkness Rises | 103411 | [103411-darkness-rises.json](./103411-darkness-rises.json) |
 | Darkness Ritual: Impasse | 289793 | [289793-darkness-ritual-impasse.json](./289793-darkness-ritual-impasse.json) |
+| Darkness Road | 262206 | [262206-darkness-road.json](./262206-darkness-road.json) |
 | Darkness Rollercoaster: Ultimate Shooter Edition | 118682 | [118682-darkness-rollercoaster-ultimate-shooter-edition.json](./118682-darkness-rollercoaster-ultimate-shooter-edition.json) |
 | Darkness Trap: Purify Old Sins | 134440 | [134440-darkness-trap-purify-old-sins.json](./134440-darkness-trap-purify-old-sins.json) |
 | Darkness Within 2: The Dark Lineage - Director's Cut Edition | 36298 | [36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json](./36298-darkness-within-2-the-dark-lineage-directors-cut-edition.json) |
@@ -12178,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
+| Drip Feed | 262178 | [262178-drip-feed.json](./262178-drip-feed.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive | 94414 | [94414-drive.json](./94414-drive.json) |
@@ -12974,6 +12976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke of Alpha Centauri | 30122 | [30122-duke-of-alpha-centauri.json](./30122-duke-of-alpha-centauri.json) |
 | Duke of Defense | 106396 | [106396-duke-of-defense.json](./106396-duke-of-defense.json) |
 | Duke Tournament | 308260 | [308260-duke-tournament.json](./308260-duke-tournament.json) |
+| Duke War!! | 262170 | [262170-duke-war.json](./262170-duke-war.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Duke: The Apocalypse | 35522 | [35522-duke-the-apocalypse.json](./35522-duke-the-apocalypse.json) |
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
