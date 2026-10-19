@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upwell | 414184 | [414184-upwell.json](./414184-upwell.json) |
 | Upwords | 78356 | [78356-upwords.json](./78356-upwords.json) |
 | UpWords, Boggle, Hangman & Word Hunter Collection | 84291 | [84291-upwords-boggle-hangman-and-word-hunter-collection.json](./84291-upwords-boggle-hangman-and-word-hunter-collection.json) |
+| UpWorld | 275499 | [275499-upworld.json](./275499-upworld.json) |
 | Ura Jinsei Enjoi! Tamagotchi Plus | 229953 | [229953-ura-jinsei-enjoi-tamagotchi-plus.json](./229953-ura-jinsei-enjoi-tamagotchi-plus.json) |
 | Ura Kaiten Patissier | 92064 | [92064-ura-kaiten-patissier.json](./92064-ura-kaiten-patissier.json) |
 | Ura Kyoushi: Haitoku no Inetsu Jugyou | 77930 | [77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json](./77930-ura-kyoushi-haitoku-no-inetsu-jugyou.json) |
