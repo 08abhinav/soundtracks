@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.T.R.E.T.C.H. | 100566 | [100566-s-t-r-e-t-c-h.json](./100566-s-t-r-e-t-c-h.json) |
 | S.T.U.N. Runner | 12368 | [12368-s-t-u-n-runner.json](./12368-s-t-u-n-runner.json) |
 | S.U.A.V.E - Sport-Utility Assault Vehicle Extreme! | 60908 | [60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json](./60908-s-u-a-v-e-sport-utility-assault-vehicle-extreme.json) |
+| S.U.D.O.K.U. | 264459 | [264459-s-u-d-o-k-u.json](./264459-s-u-d-o-k-u.json) |
 | S.U.M. Slay Uncool Monsters: Archer | 168247 | [168247-s-u-m-slay-uncool-monsters-archer.json](./168247-s-u-m-slay-uncool-monsters-archer.json) |
 | S.U.M. Slay Uncool Monsters: Assassin | 168248 | [168248-s-u-m-slay-uncool-monsters-assassin.json](./168248-s-u-m-slay-uncool-monsters-assassin.json) |
 | S.U.M. Slay Uncool Monsters: Paladin | 168250 | [168250-s-u-m-slay-uncool-monsters-paladin.json](./168250-s-u-m-slay-uncool-monsters-paladin.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrineflow | 304434 | [304434-shrineflow.json](./304434-shrineflow.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
+| Shrink Assault | 264469 | [264469-shrink-assault.json](./264469-shrink-assault.json) |
 | Shrink Rooms | 339971 | [339971-shrink-rooms.json](./339971-shrink-rooms.json) |
 | Shrink with a Succubus | 397622 | [397622-shrink-with-a-succubus.json](./397622-shrink-with-a-succubus.json) |
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Revenge | 336601 | [336601-skibidi-revenge.json](./336601-skibidi-revenge.json) |
 | Skibidi Shooter: Survival FPS | 275646 | [275646-skibidi-shooter-survival-fps.json](./275646-skibidi-shooter-survival-fps.json) |
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
+| Skibidi Toilet Attack | 264461 | [264461-skibidi-toilet-attack.json](./264461-skibidi-toilet-attack.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skibidi Toilet India | 276076 | [276076-skibidi-toilet-india.json](./276076-skibidi-toilet-india.json) |
 | Skibidi Toilet Skibidi Boom | 264991 | [264991-skibidi-toilet-skibidi-boom.json](./264991-skibidi-toilet-skibidi-boom.json) |
@@ -13126,6 +13129,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 273286 | [273286-sonic-the-hedgehog-2.json](./273286-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
+| Sonic the Hedgehog 2: Crash! | 264477 | [264477-sonic-the-hedgehog-2-crash.json](./264477-sonic-the-hedgehog-2-crash.json) |
+| Sonic the Hedgehog 2: Dash! | 264476 | [264476-sonic-the-hedgehog-2-dash.json](./264476-sonic-the-hedgehog-2-dash.json) |
 | Sonic the Hedgehog 2: Frenzy | 393093 | [393093-sonic-the-hedgehog-2-frenzy.json](./393093-sonic-the-hedgehog-2-frenzy.json) |
 | Sonic the Hedgehog 2: Gear Shift | 321394 | [321394-sonic-the-hedgehog-2-gear-shift.json](./321394-sonic-the-hedgehog-2-gear-shift.json) |
 | Sonic the Hedgehog 2: Hold Right to Win Edition | 270222 | [270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json](./270222-sonic-the-hedgehog-2-hold-right-to-win-edition.json) |
@@ -14282,6 +14287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Enemy | 345912 | [345912-space-enemy.json](./345912-space-enemy.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
+| Space Engineers: Decorative Pack #3 | 264508 | [264508-space-engineers-decorative-pack-3.json](./264508-space-engineers-decorative-pack-3.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
 | Space Engineers: Ultimate Edition 2023 | 280417 | [280417-space-engineers-ultimate-edition-2023.json](./280417-space-engineers-ultimate-edition-2023.json) |
@@ -20729,11 +20735,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter V: Cody Travers | 322209 | [322209-street-fighter-v-cody-travers.json](./322209-street-fighter-v-cody-travers.json) |
 | Street Fighter V: Cyber Akuma Skin | 318196 | [318196-street-fighter-v-cyber-akuma-skin.json](./318196-street-fighter-v-cyber-akuma-skin.json) |
 | Street Fighter V: Dan Hibiki | 262471 | [262471-street-fighter-v-dan-hibiki.json](./262471-street-fighter-v-dan-hibiki.json) |
+| Street Fighter V: E.Honda | 264489 | [264489-street-fighter-v-e-honda.json](./264489-street-fighter-v-e-honda.json) |
 | Street Fighter V: Extra Battle Capcom Legend Bundle 3 | 342578 | [342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json](./342578-street-fighter-v-extra-battle-capcom-legend-bundle-3.json) |
 | Street FIghter V: Falke | 345850 | [345850-street-fighter-v-falke.json](./345850-street-fighter-v-falke.json) |
 | Street Fighter V: Juri Han | 319227 | [319227-street-fighter-v-juri-han.json](./319227-street-fighter-v-juri-han.json) |
 | Street Fighter V: Laura Costumes Bundle | 350072 | [350072-street-fighter-v-laura-costumes-bundle.json](./350072-street-fighter-v-laura-costumes-bundle.json) |
+| Street Fighter V: Lucia | 264482 | [264482-street-fighter-v-lucia.json](./264482-street-fighter-v-lucia.json) |
 | Street Fighter V: Luke | 261310 | [261310-street-fighter-v-luke.json](./261310-street-fighter-v-luke.json) |
+| Street Fighter V: Poison | 264483 | [264483-street-fighter-v-poison.json](./264483-street-fighter-v-poison.json) |
 | Street Fighter V: Pro-JP 2022 Saishunkan Sol Kumamoto Costumes Bundle | 342576 | [342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json](./342576-street-fighter-v-pro-jp-2022-saishunkan-sol-kumamoto-costumes-bundle.json) |
 | Street Fighter V: Pro-JP 2022 v6plus FAV gaming Costumes Bundle | 345847 | [345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json](./345847-street-fighter-v-pro-jp-2022-v6plus-fav-gaming-costumes-bundle.json) |
 | Street Fighter V: School Costume Pack | 345849 | [345849-street-fighter-v-school-costume-pack.json](./345849-street-fighter-v-school-costume-pack.json) |
@@ -21650,6 +21659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 224171 | [224171-sudoku.json](./224171-sudoku.json) |
 | Sudoku | 246366 | [246366-sudoku.json](./246366-sudoku.json) |
 | Sudoku | 263395 | [263395-sudoku.json](./263395-sudoku.json) |
+| Sudoku | 264458 | [264458-sudoku.json](./264458-sudoku.json) |
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 397667 | [397667-sudoku.json](./397667-sudoku.json) |
@@ -21763,6 +21773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: O Globo | 252065 | [252065-sudoku-o-globo.json](./252065-sudoku-o-globo.json) |
 | Sudoku: Powered by Jamdat | 275649 | [275649-sudoku-powered-by-jamdat.json](./275649-sudoku-powered-by-jamdat.json) |
 | Sudoku: The Clean One | 180244 | [180244-sudoku-the-clean-one.json](./180244-sudoku-the-clean-one.json) |
+| Sudoku: The Mind Game | 264455 | [264455-sudoku-the-mind-game.json](./264455-sudoku-the-mind-game.json) |
 | Sudoku: Tied Up & Bound | 275648 | [275648-sudoku-tied-up-and-bound.json](./275648-sudoku-tied-up-and-bound.json) |
 | Sudoku: Unlimited Expansion | 405622 | [405622-sudoku-unlimited-expansion.json](./405622-sudoku-unlimited-expansion.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
@@ -24227,6 +24238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sheffy World Deluxe | 214774 | [214774-super-sheffy-world-deluxe.json](./214774-super-sheffy-world-deluxe.json) |
 | Super Shield Dash | 164915 | [164915-super-shield-dash.json](./164915-super-shield-dash.json) |
 | Super Shinobi Den | 339982 | [339982-super-shinobi-den.json](./339982-super-shinobi-den.json) |
+| Super Ship Blaster | 264487 | [264487-super-ship-blaster.json](./264487-super-ship-blaster.json) |
 | Super Shogi | 42225 | [42225-super-shogi.json](./42225-super-shogi.json) |
 | Super Shogi 2 | 42224 | [42224-super-shogi-2.json](./42224-super-shogi-2.json) |
 | Super Shogi 3: Kitaihei | 42223 | [42223-super-shogi-3-kitaihei.json](./42223-super-shogi-3-kitaihei.json) |
