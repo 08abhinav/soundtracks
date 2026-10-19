@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
 | Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
+| Kepler-2100 | 283031 | [283031-kepler-2100.json](./283031-kepler-2100.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
 | Kept Man Life | 56145 | [56145-kept-man-life.json](./56145-kept-man-life.json) |
 | Keptosh: The Search for Junc | 110887 | [110887-keptosh-the-search-for-junc.json](./110887-keptosh-the-search-for-junc.json) |
@@ -3284,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Orc | 12165 | [12165-knight-orc.json](./12165-knight-orc.json) |
 | Knight Overloaded | 253438 | [253438-knight-overloaded.json](./253438-knight-overloaded.json) |
 | Knight Owls | 339680 | [339680-knight-owls.json](./339680-knight-owls.json) |
+| Knight Party | 283058 | [283058-knight-party.json](./283058-knight-party.json) |
 | Knight Quest | 48968 | [48968-knight-quest.json](./48968-knight-quest.json) |
 | Knight Raider | 239105 | [239105-knight-raider.json](./239105-knight-raider.json) |
 | Knight Rider | 26290 | [26290-knight-rider.json](./26290-knight-rider.json) |
@@ -4017,6 +4019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korunu Kopia: Fushigi no Sumu Machi | 135895 | [135895-korunu-kopia-fushigi-no-sumu-machi.json](./135895-korunu-kopia-fushigi-no-sumu-machi.json) |
 | Korwin the Game | 35114 | [35114-korwin-the-game.json](./35114-korwin-the-game.json) |
 | Korza Motor | 335982 | [335982-korza-motor.json](./335982-korza-motor.json) |
+| Kosaka-san: Remaster | 283066 | [283066-kosaka-san-remaster.json](./283066-kosaka-san-remaster.json) |
 | Kosaka-san. | 152014 | [152014-kosaka-san.json](./152014-kosaka-san.json) |
 | Koshachʼya Lyubovʼ | 301404 | [301404-koshach-ya-lyubov.json](./301404-koshach-ya-lyubov.json) |
 | Koshari Defense | 361824 | [361824-koshari-defense.json](./361824-koshari-defense.json) |
