@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Grow | 372614 | [372614-just-grow.json](./372614-just-grow.json) |
 | Just Hero | 31339 | [31339-just-hero.json](./31339-just-hero.json) |
 | Just Hero: Collector's Edition | 53244 | [53244-just-hero-collectors-edition.json](./53244-just-hero-collectors-edition.json) |
+| Just Hide | 266074 | [266074-just-hide.json](./266074-just-hide.json) |
 | Just Hoops | 152216 | [152216-just-hoops.json](./152216-just-hoops.json) |
 | Just Ignore Them | 30359 | [30359-just-ignore-them.json](./30359-just-ignore-them.json) |
 | Just Ignore Them: Brea's Story Tape 1 | 192456 | [192456-just-ignore-them-breas-story-tape-1.json](./192456-just-ignore-them-breas-story-tape-1.json) |
