@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard | 291349 | [291349-vanguard.json](./291349-vanguard.json) |
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
+| Vanguard Monsters | 289172 | [289172-vanguard-monsters.json](./289172-vanguard-monsters.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
 | Vanguard Online: Battlefield | 208080 | [208080-vanguard-online-battlefield.json](./208080-vanguard-online-battlefield.json) |
 | Vanguard Princess | 377294 | [377294-vanguard-princess.json](./377294-vanguard-princess.json) |
@@ -1984,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
 | Virtual Frenzy: Nexus Corps | 349970 | [349970-virtual-frenzy-nexus-corps.json](./349970-virtual-frenzy-nexus-corps.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
+| Virtual Girlfriend Dating Simulator | 289196 | [289196-virtual-girlfriend-dating-simulator.json](./289196-virtual-girlfriend-dating-simulator.json) |
 | Virtual Goaltender | 86861 | [86861-virtual-goaltender.json](./86861-virtual-goaltender.json) |
 | Virtual Golf | 13261 | [13261-virtual-golf.json](./13261-virtual-golf.json) |
 | Virtual Goose! | 301138 | [301138-virtual-goose.json](./301138-virtual-goose.json) |
