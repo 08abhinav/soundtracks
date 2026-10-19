@@ -3324,6 +3324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Simulator | 231930 | [231930-life-simulator.json](./231930-life-simulator.json) |
 | Life Simulator | 360186 | [360186-life-simulator.json](./360186-life-simulator.json) |
 | Life Simulator 2 | 296757 | [296757-life-simulator-2.json](./296757-life-simulator-2.json) |
+| Life Simulator 2017 | 300248 | [300248-life-simulator-2017.json](./300248-life-simulator-2017.json) |
 | Life Simulator of You, a Married Woman Seduced | 82680 | [82680-life-simulator-of-you-a-married-woman-seduced.json](./82680-life-simulator-of-you-a-married-woman-seduced.json) |
 | Life Slash Death | 362587 | [362587-life-slash-death.json](./362587-life-slash-death.json) |
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
@@ -4982,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
 | LocoRoco Midnight Carnival | 1462 | [1462-locoroco-midnight-carnival.json](./1462-locoroco-midnight-carnival.json) |
 | LocoRoco Midnight Carnival | 247085 | [247085-locoroco-midnight-carnival.json](./247085-locoroco-midnight-carnival.json) |
+| LocoSoccer 2 | 300540 | [300540-locosoccer-2.json](./300540-locosoccer-2.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
