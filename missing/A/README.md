@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Dungeon | 250656 | [250656-alchemy-dungeon.json](./250656-alchemy-dungeon.json) |
 | Alchemy Emporium | 149963 | [149963-alchemy-emporium.json](./149963-alchemy-emporium.json) |
 | Alchemy Factory | 342686 | [342686-alchemy-factory.json](./342686-alchemy-factory.json) |
+| Alchemy Frogs | 295600 | [295600-alchemy-frogs.json](./295600-alchemy-frogs.json) |
 | Alchemy Garden | 113758 | [113758-alchemy-garden.json](./113758-alchemy-garden.json) |
 | Alchemy Hearts | 401065 | [401065-alchemy-hearts.json](./401065-alchemy-hearts.json) |
 | Alchemy in Dungeon | 337809 | [337809-alchemy-in-dungeon.json](./337809-alchemy-in-dungeon.json) |
