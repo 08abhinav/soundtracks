@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cadeau | 326952 | [326952-cadeau.json](./326952-cadeau.json) |
 | Cadence | 18216 | [18216-cadence.json](./18216-cadence.json) |
 | Cadence | 317844 | [317844-cadence.json](./317844-cadence.json) |
+| Cadence Crisis | 301142 | [301142-cadence-crisis.json](./301142-cadence-crisis.json) |
 | Cadence Cuties | 245791 | [245791-cadence-cuties.json](./245791-cadence-cuties.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Melody Pack | 235331 | [235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json](./235331-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-melody-pack.json) |
 | Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda - Octavo's Ode | 235330 | [235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json](./235330-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-octavos-ode.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Cats | 362988 | [362988-chaotic-cats.json](./362988-chaotic-cats.json) |
+| Chaotic Customer | 301120 | [301120-chaotic-customer.json](./301120-chaotic-customer.json) |
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
@@ -11704,6 +11706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Day Enhanced Edition | 28590 | [28590-crappy-day-enhanced-edition.json](./28590-crappy-day-enhanced-edition.json) |
+| Crappy Dog 2 | 300980 | [300980-crappy-dog-2.json](./300980-crappy-dog-2.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
 | Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
