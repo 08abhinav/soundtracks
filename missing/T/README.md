@@ -2788,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
+| Telnet Shooting Collection | 277182 | [277182-telnet-shooting-collection.json](./277182-telnet-shooting-collection.json) |
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
 | Telomere | 148505 | [148505-telomere.json](./148505-telomere.json) |
 | Telomeria | 323268 | [323268-telomeria.json](./323268-telomeria.json) |
@@ -4400,6 +4401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
 | The Archives of Evil Dr BA | 135702 | [135702-the-archives-of-evil-dr-ba.json](./135702-the-archives-of-evil-dr-ba.json) |
 | The Archivist | 372814 | [372814-the-archivist.json](./372814-the-archivist.json) |
+| The Archivist and the Revolution | 277193 | [277193-the-archivist-and-the-revolution.json](./277193-the-archivist-and-the-revolution.json) |
 | The Archotek Project | 29092 | [29092-the-archotek-project.json](./29092-the-archotek-project.json) |
 | The Arcslinger | 95557 | [95557-the-arcslinger.json](./95557-the-arcslinger.json) |
 | The Area 51 Secret: Boombox Killer | 127024 | [127024-the-area-51-secret-boombox-killer.json](./127024-the-area-51-secret-boombox-killer.json) |
@@ -7062,6 +7064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flight of Dowran | 75038 | [75038-the-flight-of-dowran.json](./75038-the-flight-of-dowran.json) |
 | The Flintstones | 198740 | [198740-the-flintstones.json](./198740-the-flintstones.json) |
 | The Flintstones | 205923 | [205923-the-flintstones.json](./205923-the-flintstones.json) |
+| The Flintstones | 277144 | [277144-the-flintstones.json](./277144-the-flintstones.json) |
 | The Flintstones | 47227 | [47227-the-flintstones.json](./47227-the-flintstones.json) |
 | The Flintstones | 51942 | [51942-the-flintstones.json](./51942-the-flintstones.json) |
 | The Flintstones in Viva Rock Vegas | 316930 | [316930-the-flintstones-in-viva-rock-vegas.json](./316930-the-flintstones-in-viva-rock-vegas.json) |
@@ -13798,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Dead: Aftermath | 410938 | [410938-the-walking-dead-aftermath.json](./410938-the-walking-dead-aftermath.json) |
 | The Walking Dead: Betrayal | 259748 | [259748-the-walking-dead-betrayal.json](./259748-the-walking-dead-betrayal.json) |
 | The Walking Dead: Destinies | 262261 | [262261-the-walking-dead-destinies.json](./262261-the-walking-dead-destinies.json) |
+| The Walking Dead: Empires | 277170 | [277170-the-walking-dead-empires.json](./277170-the-walking-dead-empires.json) |
 | The Walking Dead: Last Mile | 209152 | [209152-the-walking-dead-last-mile.json](./209152-the-walking-dead-last-mile.json) |
 | The Walking Dead: March to War | 25642 | [25642-the-walking-dead-march-to-war.json](./25642-the-walking-dead-march-to-war.json) |
 | The Walking Dead: Michonne | 11204 | [11204-the-walking-dead-michonne.json](./11204-the-walking-dead-michonne.json) |
@@ -19500,6 +19504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toughman Contest | 19760 | [19760-toughman-contest.json](./19760-toughman-contest.json) |
 | Touhai Densetsu Akagi: Yami ni Maiorita Tensai | 74767 | [74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json](./74767-touhai-densetsu-akagi-yami-ni-maiorita-tensai.json) |
 | Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai | 124104 | [124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json](./124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json) |
+| Touhou 1: The Highly Responsive to Prayers NES Demake | 277165 | [277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json](./277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json) |
 | Touhou 3D Dungeon | 152988 | [152988-touhou-3d-dungeon.json](./152988-touhou-3d-dungeon.json) |
 | Touhou Arcadia Record | 212442 | [212442-touhou-arcadia-record.json](./212442-touhou-arcadia-record.json) |
 | Touhou Baisyunyado: Soap of Royal Road | 138029 | [138029-touhou-baisyunyado-soap-of-royal-road.json](./138029-touhou-baisyunyado-soap-of-royal-road.json) |
