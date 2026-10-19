@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion of Evil | 346775 | [346775-legion-of-evil.json](./346775-legion-of-evil.json) |
 | Legion of Honor | 401925 | [401925-legion-of-honor.json](./401925-legion-of-honor.json) |
 | Legion of Judgment: Fallen Angel | 238755 | [238755-legion-of-judgment-fallen-angel.json](./238755-legion-of-judgment-fallen-angel.json) |
+| Legion of Valkyrie | 284250 | [284250-legion-of-valkyrie.json](./284250-legion-of-valkyrie.json) |
 | Legion Otherworld | 284428 | [284428-legion-otherworld.json](./284428-legion-otherworld.json) |
 | Legion Saga II | 383573 | [383573-legion-saga-ii.json](./383573-legion-saga-ii.json) |
 | Legion Saga III | 385746 | [385746-legion-saga-iii.json](./385746-legion-saga-iii.json) |
@@ -6428,6 +6429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
 | Love Love Joe Biden: The Joe Biden Dating Simulator | 248819 | [248819-love-love-joe-biden-the-joe-biden-dating-simulator.json](./248819-love-love-joe-biden-the-joe-biden-dating-simulator.json) |
+| Love Love Love | 284242 | [284242-love-love-love.json](./284242-love-love-love.json) |
 | Love Love Mystery Club | 386233 | [386233-love-love-mystery-club.json](./386233-love-love-mystery-club.json) |
 | Love Love School Days | 212174 | [212174-love-love-school-days.json](./212174-love-love-school-days.json) |
 | Love Lust and a Little Evil | 385058 | [385058-love-lust-and-a-little-evil.json](./385058-love-lust-and-a-little-evil.json) |
