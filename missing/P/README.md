@@ -3890,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Cell | 265310 | [265310-phantom-cell.json](./265310-phantom-cell.json) |
 | Phantom City | 317826 | [317826-phantom-city.json](./317826-phantom-city.json) |
 | Phantom Club | 55017 | [55017-phantom-club.json](./55017-phantom-club.json) |
+| Phantom Core 2 | 288639 | [288639-phantom-core-2.json](./288639-phantom-core-2.json) |
 | Phantom Dash | 302789 | [302789-phantom-dash.json](./302789-phantom-dash.json) |
 | Phantom Demon Siege | 345026 | [345026-phantom-demon-siege.json](./345026-phantom-demon-siege.json) |
 | Phantom Doctrine: Deluxe Edition | 107257 | [107257-phantom-doctrine-deluxe-edition.json](./107257-phantom-doctrine-deluxe-edition.json) |
