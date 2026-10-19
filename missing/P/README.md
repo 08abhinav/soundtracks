@@ -4880,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilgrim Adventures Complete | 53459 | [53459-pilgrim-adventures-complete.json](./53459-pilgrim-adventures-complete.json) |
 | Pilgrim of Darkness | 346145 | [346145-pilgrim-of-darkness.json](./346145-pilgrim-of-darkness.json) |
 | Pilgrim: Faith as a Weapon | 71229 | [71229-pilgrim-faith-as-a-weapon.json](./71229-pilgrim-faith-as-a-weapon.json) |
+| Pilgrim's Peril | 277200 | [277200-pilgrims-peril.json](./277200-pilgrims-peril.json) |
 | Pilgrimage | 178481 | [178481-pilgrimage.json](./178481-pilgrimage.json) |
 | Pilgrimage | 59694 | [59694-pilgrimage.json](./59694-pilgrimage.json) |
 | PilgrimAge | 276763 | [276763-pilgrimage.json](./276763-pilgrimage.json) |
@@ -6287,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Robot Return | 186319 | [186319-pixel-robot-return.json](./186319-pixel-robot-return.json) |
 | Pixel Ronin | 363323 | [363323-pixel-ronin.json](./363323-pixel-ronin.json) |
 | Pixel Room | 393804 | [393804-pixel-room.json](./393804-pixel-room.json) |
+| Pixel Room: Escape Game | 277163 | [277163-pixel-room-escape-game.json](./277163-pixel-room-escape-game.json) |
 | Pixel Rooms | 233554 | [233554-pixel-rooms.json](./233554-pixel-rooms.json) |
 | Pixel Run and Gun | 402342 | [402342-pixel-run-and-gun.json](./402342-pixel-run-and-gun.json) |
 | Pixel Run! | 252203 | [252203-pixel-run.json](./252203-pixel-run.json) |
