@@ -6707,6 +6707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anders: The Dark Coast | 303146 | [303146-anders-the-dark-coast.json](./303146-anders-the-dark-coast.json) |
 | Anderson | 102378 | [102378-anderson.json](./102378-anderson.json) |
 | Anderson | 171444 | [171444-anderson.json](./171444-anderson.json) |
+| Andes Attack | 290265 | [290265-andes-attack.json](./290265-andes-attack.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
 | Andon | 401287 | [401287-andon.json](./401287-andon.json) |
@@ -10380,6 +10381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Heist | 267006 | [267006-art-heist.json](./267006-art-heist.json) |
 | Art Heist, White Hat | 100762 | [100762-art-heist-white-hat.json](./100762-art-heist-white-hat.json) |
 | Art House | 367950 | [367950-art-house.json](./367950-art-house.json) |
+| Art Inc. | 290283 | [290283-art-inc.json](./290283-art-inc.json) |
 | Art is dead | 273646 | [273646-art-is-dead.json](./273646-art-is-dead.json) |
 | Art Jigsaw Puzzles | 303666 | [303666-art-jigsaw-puzzles.json](./303666-art-jigsaw-puzzles.json) |
 | Art Mahjong 2 | 91526 | [91526-art-mahjong-2.json](./91526-art-mahjong-2.json) |
