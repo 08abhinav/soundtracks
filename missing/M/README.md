@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Point Tennis: Summer Update | 354378 | [354378-match-point-tennis-summer-update.json](./354378-match-point-tennis-summer-update.json) |
 | Match Puzzle House | 224012 | [224012-match-puzzle-house.json](./224012-match-puzzle-house.json) |
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
+| Match Racer | 282448 | [282448-match-racer.json](./282448-match-racer.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
 | Match the Deck | 197771 | [197771-match-the-deck.json](./197771-match-the-deck.json) |
 | Match the Monsters! | 311693 | [311693-match-the-monsters.json](./311693-match-the-monsters.json) |
@@ -9946,6 +9947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
+| Misfortune Possession | 282476 | [282476-misfortune-possession.json](./282476-misfortune-possession.json) |
 | Misgiven | 258040 | [258040-misgiven.json](./258040-misgiven.json) |
 | Misguided Remastered | 392322 | [392322-misguided-remastered.json](./392322-misguided-remastered.json) |
 | Misha | 371009 | [371009-misha.json](./371009-misha.json) |
@@ -12312,6 +12314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn 3: ...Es Gibt Huhn! | 265049 | [265049-moorhuhn-3-es-gibt-huhn.json](./265049-moorhuhn-3-es-gibt-huhn.json) |
 | Moorhuhn Adventure: Der Fluch des Goldes | 69856 | [69856-moorhuhn-adventure-der-fluch-des-goldes.json](./69856-moorhuhn-adventure-der-fluch-des-goldes.json) |
 | Moorhuhn Adventure: Der Schatz des Pharao | 190208 | [190208-moorhuhn-adventure-der-schatz-des-pharao.json](./190208-moorhuhn-adventure-der-schatz-des-pharao.json) |
+| Moorhuhn and Friends | 282450 | [282450-moorhuhn-and-friends.json](./282450-moorhuhn-and-friends.json) |
 | Moorhuhn Combat | 144596 | [144596-moorhuhn-combat.json](./144596-moorhuhn-combat.json) |
 | Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
@@ -12319,10 +12322,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Jump and Run: Traps and Treasures 3 | 320462 | [320462-moorhuhn-jump-and-run-traps-and-treasures-3.json](./320462-moorhuhn-jump-and-run-traps-and-treasures-3.json) |
 | Moorhuhn Kart | 47070 | [47070-moorhuhn-kart.json](./47070-moorhuhn-kart.json) |
 | Moorhuhn Kart 4 | 328411 | [328411-moorhuhn-kart-4.json](./328411-moorhuhn-kart-4.json) |
+| Moorhuhn la Compil' | 282477 | [282477-moorhuhn-la-compil.json](./282477-moorhuhn-la-compil.json) |
+| Moorhuhn ohne Ende | 282434 | [282434-moorhuhn-ohne-ende.json](./282434-moorhuhn-ohne-ende.json) |
+| Moorhuhn präsentiert 10 Fun Games | 282439 | [282439-moorhuhn-prasentiert-10-fun-games.json](./282439-moorhuhn-prasentiert-10-fun-games.json) |
+| Moorhuhn präsentiert Die Funbox | 282452 | [282452-moorhuhn-prasentiert-die-funbox.json](./282452-moorhuhn-prasentiert-die-funbox.json) |
+| Moorhuhn Tennis | 282446 | [282446-moorhuhn-tennis.json](./282446-moorhuhn-tennis.json) |
+| Moorhuhn Total | 282447 | [282447-moorhuhn-total.json](./282447-moorhuhn-total.json) |
+| Moorhuhn Total 2 | 282449 | [282449-moorhuhn-total-2.json](./282449-moorhuhn-total-2.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
 | Moorhuhn VR Blast | 327794 | [327794-moorhuhn-vr-blast.json](./327794-moorhuhn-vr-blast.json) |
+| Moorhuhn X | 282437 | [282437-moorhuhn-x.json](./282437-moorhuhn-x.json) |
+| Moorhuhn: Big Adventure | 282479 | [282479-moorhuhn-big-adventure.json](./282479-moorhuhn-big-adventure.json) |
 | Moorhuhn: Die ersten 10 Jahre | 265946 | [265946-moorhuhn-die-ersten-10-jahre.json](./265946-moorhuhn-die-ersten-10-jahre.json) |
+| Moorhuhn: Kart Racer | 282435 | [282435-moorhuhn-kart-racer.json](./282435-moorhuhn-kart-racer.json) |
 | Moorhuhn: The Good, The Egg, and The Ugly Mobile | 282546 | [282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json](./282546-moorhuhn-the-good-the-egg-and-the-ugly-mobile.json) |
 | Moorko | 414155 | [414155-moorko.json](./414155-moorko.json) |
 | Moosa: Dirty Fate | 396026 | [396026-moosa-dirty-fate.json](./396026-moosa-dirty-fate.json) |
