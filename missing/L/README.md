@@ -3677,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
+| Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
 | Lil Dungeon Wizard | 181166 | [181166-lil-dungeon-wizard.json](./181166-lil-dungeon-wizard.json) |
 | Lil Gator Game | 145796 | [145796-lil-gator-game.json](./145796-lil-gator-game.json) |
 | Lil Ghost Garden | 128426 | [128426-lil-ghost-garden.json](./128426-lil-ghost-garden.json) |
