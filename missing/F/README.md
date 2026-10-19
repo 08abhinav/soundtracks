@@ -9361,6 +9361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Heart | 311460 | [311460-frozen-heart.json](./311460-frozen-heart.json) |
 | Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
 | Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
+| Frozen Honey ASMR: Complete Edition | 289198 | [289198-frozen-honey-asmr-complete-edition.json](./289198-frozen-honey-asmr-complete-edition.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
 | Frozen Honey ASMR: Truck Pack | 286208 | [286208-frozen-honey-asmr-truck-pack.json](./286208-frozen-honey-asmr-truck-pack.json) |
