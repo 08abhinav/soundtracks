@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy: Paint by Numbers | 88490 | [88490-fairy-paint-by-numbers.json](./88490-fairy-paint-by-numbers.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
+| Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
 | Fairyland: Guild | 107689 | [107689-fairyland-guild.json](./107689-fairyland-guild.json) |
 | Fairyland: Incursion | 32301 | [32301-fairyland-incursion.json](./32301-fairyland-incursion.json) |
 | Fairyland: Manuscript | 51431 | [51431-fairyland-manuscript.json](./51431-fairyland-manuscript.json) |
@@ -776,6 +777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Depths | 336501 | [336501-fallen-depths.json](./336501-fallen-depths.json) |
 | Fallen Devotion | 333964 | [333964-fallen-devotion.json](./333964-fallen-devotion.json) |
+| Fallen Down | 271093 | [271093-fallen-down.json](./271093-fallen-down.json) |
 | Fallen Dungeons | 116082 | [116082-fallen-dungeons.json](./116082-fallen-dungeons.json) |
 | Fallen Echo | 311501 | [311501-fallen-echo.json](./311501-fallen-echo.json) |
 | Fallen Echoes | 381308 | [381308-fallen-echoes.json](./381308-fallen-echoes.json) |
@@ -4246,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
 | Finished! | 249765 | [249765-finished.json](./249765-finished.json) |
 | Finite Jest | 415925 | [415925-finite-jest.json](./415925-finite-jest.json) |
+| Finite State Automaton Challenges | 271106 | [271106-finite-state-automaton-challenges.json](./271106-finite-state-automaton-challenges.json) |
 | Finite State Automaton Challenges 2 | 278926 | [278926-finite-state-automaton-challenges-2.json](./278926-finite-state-automaton-challenges-2.json) |
 | Finity | 322936 | [322936-finity.json](./322936-finity.json) |
 | Finkles World | 66947 | [66947-finkles-world.json](./66947-finkles-world.json) |
