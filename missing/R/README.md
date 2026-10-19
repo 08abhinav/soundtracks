@@ -8363,6 +8363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rowtropia | 260628 | [260628-rowtropia.json](./260628-rowtropia.json) |
 | Rox | 100663 | [100663-rox.json](./100663-rox.json) |
 | Rox | 50066 | [50066-rox.json](./50066-rox.json) |
+| Rox 64 | 290263 | [290263-rox-64.json](./290263-rox-64.json) |
 | Rox II | 315507 | [315507-rox-ii.json](./315507-rox-ii.json) |
 | Rox III | 254996 | [254996-rox-iii.json](./254996-rox-iii.json) |
 | Roxanne | 382316 | [382316-roxanne.json](./382316-roxanne.json) |
