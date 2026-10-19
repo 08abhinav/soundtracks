@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edd the Duck | 265043 | [265043-edd-the-duck.json](./265043-edd-the-duck.json) |
 | Edd the Duck 2: Back with a Quack! | 265044 | [265044-edd-the-duck-2-back-with-a-quack.json](./265044-edd-the-duck-2-back-with-a-quack.json) |
 | Edd the Duck! | 79981 | [79981-edd-the-duck.json](./79981-edd-the-duck.json) |
+| Edd-E | 274373 | [274373-edd-e.json](./274373-edd-e.json) |
 | Edda Café | 144115 | [144115-edda-cafe.json](./144115-edda-cafe.json) |
 | Edda Physics 1 | 389084 | [389084-edda-physics-1.json](./389084-edda-physics-1.json) |
 | Eddie Hill in the Curse of the Skull Medallion | 146167 | [146167-eddie-hill-in-the-curse-of-the-skull-medallion.json](./146167-eddie-hill-in-the-curse-of-the-skull-medallion.json) |
