@@ -489,6 +489,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yīzìqiānjīn | 386966 | [386966-yiziqianjin.json](./386966-yiziqianjin.json) |
 | YKnytt | 408144 | [408144-yknytt.json](./408144-yknytt.json) |
 | Ylands | 36297 | [36297-ylands.json](./36297-ylands.json) |
+| Ylands Nintendo Switch Edition - Fashionable Future Bundle | 303853 | [303853-ylands-nintendo-switch-edition-fashionable-future-bundle.json](./303853-ylands-nintendo-switch-edition-fashionable-future-bundle.json) |
+| Ylands Nintendo Switch Edition - Opulent Oppidum Bundle | 303854 | [303854-ylands-nintendo-switch-edition-opulent-oppidum-bundle.json](./303854-ylands-nintendo-switch-edition-opulent-oppidum-bundle.json) |
+| Ylands Nintendo Switch Edition - Timber Tier Bundle | 303855 | [303855-ylands-nintendo-switch-edition-timber-tier-bundle.json](./303855-ylands-nintendo-switch-edition-timber-tier-bundle.json) |
+| Ylands Nintendo Switch Edition - Victorian Village Bundle | 303856 | [303856-ylands-nintendo-switch-edition-victorian-village-bundle.json](./303856-ylands-nintendo-switch-edition-victorian-village-bundle.json) |
+| Ylands Nintendo Switch Edition - Wild West Bundle | 303857 | [303857-ylands-nintendo-switch-edition-wild-west-bundle.json](./303857-ylands-nintendo-switch-edition-wild-west-bundle.json) |
 | Ylands: Exploration Pack | 164420 | [164420-ylands-exploration-pack.json](./164420-ylands-exploration-pack.json) |
 | Ylands: Supporter Pack | 305546 | [305546-ylands-supporter-pack.json](./305546-ylands-supporter-pack.json) |
 | Ymir | 50092 | [50092-ymir.json](./50092-ymir.json) |
