@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walt Disney's The Jungle Book | 111548 | [111548-walt-disneys-the-jungle-book.json](./111548-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book | 123599 | [123599-walt-disneys-the-jungle-book.json](./123599-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book | 205928 | [205928-walt-disneys-the-jungle-book.json](./205928-walt-disneys-the-jungle-book.json) |
+| Walt Disney's The Jungle Book | 284215 | [284215-walt-disneys-the-jungle-book.json](./284215-walt-disneys-the-jungle-book.json) |
 | Walt Disney's The Jungle Book: Mowgli's Wild Adventure | 49922 | [49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json](./49922-walt-disneys-the-jungle-book-mowglis-wild-adventure.json) |
 | Walter | 94159 | [94159-walter.json](./94159-walter.json) |
 | Walthros | 353366 | [353366-walthros.json](./353366-walthros.json) |
