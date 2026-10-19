@@ -398,6 +398,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin 12 | 342610 | [342610-taiko-no-tatsujin-12.json](./342610-taiko-no-tatsujin-12.json) |
 | Taiko no Tatsujin 12 Don-! to Zoryoban | 342611 | [342611-taiko-no-tatsujin-12-don-to-zoryoban.json](./342611-taiko-no-tatsujin-12-don-to-zoryoban.json) |
 | Taiko no Tatsujin 13 | 294220 | [294220-taiko-no-tatsujin-13.json](./294220-taiko-no-tatsujin-13.json) |
+| Taiko no Tatsujin 2 | 276063 | [276063-taiko-no-tatsujin-2.json](./276063-taiko-no-tatsujin-2.json) |
+| Taiko no Tatsujin 3 | 276065 | [276065-taiko-no-tatsujin-3.json](./276065-taiko-no-tatsujin-3.json) |
 | Taiko no Tatsujin 4 | 276389 | [276389-taiko-no-tatsujin-4.json](./276389-taiko-no-tatsujin-4.json) |
 | Taiko no Tatsujin 5 | 276395 | [276395-taiko-no-tatsujin-5.json](./276395-taiko-no-tatsujin-5.json) |
 | Taiko no Tatsujin 6 | 276402 | [276402-taiko-no-tatsujin-6.json](./276402-taiko-no-tatsujin-6.json) |
@@ -3785,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuo Gaiden | 46565 | [46565-tetsuo-gaiden.json](./46565-tetsuo-gaiden.json) |
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Tetword | 414756 | [414756-tetword.json](./414756-tetword.json) |
+| Tetyis | 276078 | [276078-tetyis.json](./276078-tetyis.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Teva | 100242 | [100242-teva.json](./100242-teva.json) |
 | Tevi: Fauna Arcana | 403199 | [403199-tevi-fauna-arcana.json](./403199-tevi-fauna-arcana.json) |
@@ -4276,6 +4279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Dare Dozen | 241471 | [241471-the-amazing-dare-dozen.json](./241471-the-amazing-dare-dozen.json) |
 | The Amazing Digital Circus Visual Novel: Candy Chaos | 364875 | [364875-the-amazing-digital-circus-visual-novel-candy-chaos.json](./364875-the-amazing-digital-circus-visual-novel-candy-chaos.json) |
 | The Amazing Digital Circus: Fan VN Game | 350771 | [350771-the-amazing-digital-circus-fan-vn-game.json](./350771-the-amazing-digital-circus-fan-vn-game.json) |
+| The Amazing Digital Funkin' | 276091 | [276091-the-amazing-digital-funkin.json](./276091-the-amazing-digital-funkin.json) |
 | The Amazing Eternals | 31189 | [31189-the-amazing-eternals.json](./31189-the-amazing-eternals.json) |
 | The Amazing Fantastics | 58228 | [58228-the-amazing-fantastics.json](./58228-the-amazing-fantastics.json) |
 | The Amazing Frog? | 63333 | [63333-the-amazing-frog.json](./63333-the-amazing-frog.json) |
@@ -11350,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
 | The Rake: Hostel | 342195 | [342195-the-rake-hostel.json](./342195-the-rake-hostel.json) |
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
+| The Rake: Rust Dead Survival | 276050 | [276050-the-rake-rust-dead-survival.json](./276050-the-rake-rust-dead-survival.json) |
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
 | The Ramp | 159248 | [159248-the-ramp.json](./159248-the-ramp.json) |
@@ -14354,6 +14359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm: Final Bar Line - Bravely Default Pack | 268538 | [268538-theatrhythm-final-bar-line-bravely-default-pack.json](./268538-theatrhythm-final-bar-line-bravely-default-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono Pack | 354543 | [354543-theatrhythm-final-bar-line-chrono-pack.json](./354543-theatrhythm-final-bar-line-chrono-pack.json) |
 | Theatrhythm: Final Bar Line - Chrono: Pack Vol. 2 | 252701 | [252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json](./252701-theatrhythm-final-bar-line-chrono-pack-vol-2.json) |
+| Theatrhythm: Final Bar Line - Final Fantasy XVI Pack | 276103 | [276103-theatrhythm-final-bar-line-final-fantasy-xvi-pack.json](./276103-theatrhythm-final-bar-line-final-fantasy-xvi-pack.json) |
 | Theatrhythm: Final Bar Line - Live A Live Pack | 354519 | [354519-theatrhythm-final-bar-line-live-a-live-pack.json](./354519-theatrhythm-final-bar-line-live-a-live-pack.json) |
 | Theatrhythm: Final Bar Line - Mana Pack Vol. 2 | 268537 | [268537-theatrhythm-final-bar-line-mana-pack-vol-2.json](./268537-theatrhythm-final-bar-line-mana-pack-vol-2.json) |
 | Theatrhythm: Final Bar Line - NieR Pack Vol. 2 | 354544 | [354544-theatrhythm-final-bar-line-nier-pack-vol-2.json](./354544-theatrhythm-final-bar-line-nier-pack-vol-2.json) |
