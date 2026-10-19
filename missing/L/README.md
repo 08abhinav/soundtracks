@@ -3430,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga do Tempo | 290086 | [290086-liga-do-tempo.json](./290086-liga-do-tempo.json) |
+| Lighark | 270557 | [270557-lighark.json](./270557-lighark.json) |
 | Light | 212975 | [212975-light.json](./212975-light.json) |
 | Light | 220607 | [220607-light.json](./220607-light.json) |
 | Light | 93759 | [93759-light.json](./93759-light.json) |
