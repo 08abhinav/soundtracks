@@ -4413,6 +4413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
 | Maxxed Out Racing | 64210 | [64210-maxxed-out-racing.json](./64210-maxxed-out-racing.json) |
 | May | 212771 | [212771-may.json](./212771-may.json) |
+| May | 306211 | [306211-may.json](./306211-may.json) |
 | May Angels Fall Down | 257094 | [257094-may-angels-fall-down.json](./257094-may-angels-fall-down.json) |
 | May Blues | 153990 | [153990-may-blues.json](./153990-may-blues.json) |
 | May Club | 73791 | [73791-may-club.json](./73791-may-club.json) |
