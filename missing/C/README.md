@@ -10891,6 +10891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
+| Cosmic Rain | 301694 | [301694-cosmic-rain.json](./301694-cosmic-rain.json) |
 | Cosmic Rays | 390253 | [390253-cosmic-rays.json](./390253-cosmic-rays.json) |
 | Cosmic Raze | 320535 | [320535-cosmic-raze.json](./320535-cosmic-raze.json) |
 | Cosmic Reach | 292852 | [292852-cosmic-reach.json](./292852-cosmic-reach.json) |
