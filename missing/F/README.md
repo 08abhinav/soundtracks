@@ -5495,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Poker - Texas Holdem | 142695 | [142695-flash-poker-texas-holdem.json](./142695-flash-poker-texas-holdem.json) |
 | Flash Racer | 359375 | [359375-flash-racer.json](./359375-flash-racer.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
+| Flashback 2: Collector's Edition | 283623 | [283623-flashback-2-collectors-edition.json](./283623-flashback-2-collectors-edition.json) |
 | Flashback 2: Limited Edition | 210910 | [210910-flashback-2-limited-edition.json](./210910-flashback-2-limited-edition.json) |
 | Flashback Legend | 49378 | [49378-flashback-legend.json](./49378-flashback-legend.json) |
 | Flashback to Hell | 261172 | [261172-flashback-to-hell.json](./261172-flashback-to-hell.json) |
@@ -9353,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpunk: The Fall of Winterhome | 109637 | [109637-frostpunk-the-fall-of-winterhome.json](./109637-frostpunk-the-fall-of-winterhome.json) |
 | Frostpunk: The Last Autumn | 135952 | [135952-frostpunk-the-last-autumn.json](./135952-frostpunk-the-last-autumn.json) |
 | Frostrail | 339609 | [339609-frostrail.json](./339609-frostrail.json) |
+| Frostrain | 283575 | [283575-frostrain.json](./283575-frostrain.json) |
 | FrostRunner | 113391 | [113391-frostrunner.json](./113391-frostrunner.json) |
 | Frostveil: The Last Winter | 389580 | [389580-frostveil-the-last-winter.json](./389580-frostveil-the-last-winter.json) |
 | Frosty Enterprise | 326409 | [326409-frosty-enterprise.json](./326409-frosty-enterprise.json) |
