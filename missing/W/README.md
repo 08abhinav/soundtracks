@@ -891,6 +891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbox | 168647 | [168647-warbox.json](./168647-warbox.json) |
 | Warbox | 232010 | [232010-warbox.json](./232010-warbox.json) |
 | Warbox Sandbox | 204926 | [204926-warbox-sandbox.json](./204926-warbox-sandbox.json) |
+| Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
 | Warcat Parade | 293967 | [293967-warcat-parade.json](./293967-warcat-parade.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When It Rains | 397045 | [397045-when-it-rains.json](./397045-when-it-rains.json) |
 | When it Rains Red | 382211 | [382211-when-it-rains-red.json](./382211-when-it-rains-red.json) |
 | When It Rains, I Want to Disappear off Somewhere | 243143 | [243143-when-it-rains-i-want-to-disappear-off-somewhere.json](./243143-when-it-rains-i-want-to-disappear-off-somewhere.json) |
+| When Life Gives You Lemons | 265489 | [265489-when-life-gives-you-lemons.json](./265489-when-life-gives-you-lemons.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
 | When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
