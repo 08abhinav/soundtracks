@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jippo! Street | 234000 | [234000-jippo-street.json](./234000-jippo-street.json) |
 | JiPS | 33203 | [33203-jips.json](./33203-jips.json) |
 | Jirai the Red Panda | 333798 | [333798-jirai-the-red-panda.json](./333798-jirai-the-red-panda.json) |
+| Jirai-kei Menhera Danshi to Icha Love Pien Ichigo Tabetaai | 285874 | [285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json](./285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json) |
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
