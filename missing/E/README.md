@@ -1658,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
 | Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
+| Elemdian | 265500 | [265500-elemdian.json](./265500-elemdian.json) |
 | Elemencraft | 194012 | [194012-elemencraft.json](./194012-elemencraft.json) |
 | Elemency Island | 379130 | [379130-elemency-island.json](./379130-elemency-island.json) |
 | Element Are We | 275348 | [275348-element-are-we.json](./275348-element-are-we.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game - Hail to the King Bundle | 227339 | [227339-evil-dead-the-game-hail-to-the-king-bundle.json](./227339-evil-dead-the-game-hail-to-the-king-bundle.json) |
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
+| Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
