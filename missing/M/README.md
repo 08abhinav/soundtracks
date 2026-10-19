@@ -2282,6 +2282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manifest No | 352162 | [352162-manifest-no.json](./352162-manifest-no.json) |
 | Manifesto | 388347 | [388347-manifesto.json](./388347-manifesto.json) |
 | Manifold | 165407 | [165407-manifold.json](./165407-manifold.json) |
+| Manifold | 263925 | [263925-manifold.json](./263925-manifold.json) |
 | Manifold Garden | 13621 | [13621-manifold-garden.json](./13621-manifold-garden.json) |
 | Manika | 290528 | [290528-manika.json](./290528-manika.json) |
 | Manikineko Online | 392458 | [392458-manikineko-online.json](./392458-manikineko-online.json) |
@@ -7308,6 +7309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
 | Metal: Hellsinger - Complete Edition | 279779 | [279779-metal-hellsinger-complete-edition.json](./279779-metal-hellsinger-complete-edition.json) |
 | Metal: Hellsinger - Essential Hits Edition | 254056 | [254056-metal-hellsinger-essential-hits-edition.json](./254056-metal-hellsinger-essential-hits-edition.json) |
+| Metal: Hellsinger - Essential Hits Pack | 263895 | [263895-metal-hellsinger-essential-hits-pack.json](./263895-metal-hellsinger-essential-hits-pack.json) |
 | Metal: Hellsinger VR | 294174 | [294174-metal-hellsinger-vr.json](./294174-metal-hellsinger-vr.json) |
 | Metalands: Battle for CIFI | 210514 | [210514-metalands-battle-for-cifi.json](./210514-metalands-battle-for-cifi.json) |
 | MetalArms | 122418 | [122418-metalarms.json](./122418-metalarms.json) |
