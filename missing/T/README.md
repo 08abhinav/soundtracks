@@ -9874,6 +9874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Legends of Redwall: The Scout Anthology | 287035 | [287035-the-lost-legends-of-redwall-the-scout-anthology.json](./287035-the-lost-legends-of-redwall-the-scout-anthology.json) |
 | The Lost Levels | 271772 | [271772-the-lost-levels.json](./271772-the-lost-levels.json) |
 | The Lost Levels | 406121 | [406121-the-lost-levels.json](./406121-the-lost-levels.json) |
+| The Lost Levels Enhanced | 268342 | [268342-the-lost-levels-enhanced.json](./268342-the-lost-levels-enhanced.json) |
 | The Lost Levels Enhanced | 38254 | [38254-the-lost-levels-enhanced.json](./38254-the-lost-levels-enhanced.json) |
 | The Lost Light of Sisu | 114874 | [114874-the-lost-light-of-sisu.json](./114874-the-lost-light-of-sisu.json) |
 | The Lost Magic | 268971 | [268971-the-lost-magic.json](./268971-the-lost-magic.json) |
