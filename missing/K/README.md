@@ -4212,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
 | Kramer Hentai Adventure 3 | 138588 | [138588-kramer-hentai-adventure-3.json](./138588-kramer-hentai-adventure-3.json) |
 | Kramora's Shadow | 35192 | [35192-kramoras-shadow.json](./35192-kramoras-shadow.json) |
+| Krampen | 257203 | [257203-krampen.json](./257203-krampen.json) |
 | Krampus | 25317 | [25317-krampus.json](./25317-krampus.json) |
 | Krampus is Home | 105081 | [105081-krampus-is-home.json](./105081-krampus-is-home.json) |
 | Krampus Kills | 191094 | [191094-krampus-kills.json](./191094-krampus-kills.json) |
