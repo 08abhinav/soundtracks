@@ -6564,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Shards | 200467 | [200467-memory-shards.json](./200467-memory-shards.json) |
 | Memory Showdown | 365883 | [365883-memory-showdown.json](./365883-memory-showdown.json) |
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
+| Memory Test | 287534 | [287534-memory-test.json](./287534-memory-test.json) |
 | Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
 | Memory Train | 412986 | [412986-memory-train.json](./412986-memory-train.json) |
 | Memory Trainer | 105238 | [105238-memory-trainer.json](./105238-memory-trainer.json) |
@@ -11197,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Island 2.5: El Parque de las Pesadillas | 324164 | [324164-monkey-island-2-5-el-parque-de-las-pesadillas.json](./324164-monkey-island-2-5-el-parque-de-las-pesadillas.json) |
 | Monkey Island Special Edition Collection | 43036 | [43036-monkey-island-special-edition-collection.json](./43036-monkey-island-special-edition-collection.json) |
 | Monkey Jump | 373884 | [373884-monkey-jump.json](./373884-monkey-jump.json) |
+| Monkey King | 287535 | [287535-monkey-king.json](./287535-monkey-king.json) |
 | Monkey King Online | 61691 | [61691-monkey-king-online.json](./61691-monkey-king-online.json) |
 | Monkey King Saga | 34061 | [34061-monkey-king-saga.json](./34061-monkey-king-saga.json) |
 | Monkey King Simulator Special Edition | 348908 | [348908-monkey-king-simulator-special-edition.json](./348908-monkey-king-simulator-special-edition.json) |
@@ -11405,6 +11407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Box | 68717 | [68717-monster-box.json](./68717-monster-box.json) |
 | Monster Boy and the Cursed Kingdom | 25599 | [25599-monster-boy-and-the-cursed-kingdom.json](./25599-monster-boy-and-the-cursed-kingdom.json) |
 | Monster Brothel | 336491 | [336491-monster-brothel.json](./336491-monster-brothel.json) |
+| Monster Brother | 287536 | [287536-monster-brother.json](./287536-monster-brother.json) |
 | Monster Builder | 110216 | [110216-monster-builder.json](./110216-monster-builder.json) |
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
@@ -11851,6 +11854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
+| Monster War | 287537 | [287537-monster-war.json](./287537-monster-war.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
