@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King K Roller | 250227 | [250227-king-k-roller.json](./250227-king-k-roller.json) |
 | King K Roller 2 | 250228 | [250228-king-k-roller-2.json](./250228-king-k-roller-2.json) |
 | King Kaiju | 25924 | [25924-king-kaiju.json](./25924-king-kaiju.json) |
+| King Kitty Saves The Animals | 271615 | [271615-king-kitty-saves-the-animals.json](./271615-king-kitty-saves-the-animals.json) |
 | King Kong | 18763 | [18763-king-kong.json](./18763-king-kong.json) |
 | King Kong | 198793 | [198793-king-kong.json](./198793-king-kong.json) |
 | King Kong | 198794 | [198794-king-kong.json](./198794-king-kong.json) |
