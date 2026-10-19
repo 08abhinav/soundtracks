@@ -11865,6 +11865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum of Horror | 302092 | [302092-asylum-of-horror.json](./302092-asylum-of-horror.json) |
 | Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
 | Asylum of the Forsaken | 318619 | [318619-asylum-of-the-forsaken.json](./318619-asylum-of-the-forsaken.json) |
+| Asylum of the Wretched | 262175 | [262175-asylum-of-the-wretched.json](./262175-asylum-of-the-wretched.json) |
 | Asylum: Patient Zero | 337192 | [337192-asylum-patient-zero.json](./337192-asylum-patient-zero.json) |
 | Asym Altered Axis | 205794 | [205794-asym-altered-axis.json](./205794-asym-altered-axis.json) |
 | Asymm | 351559 | [351559-asymm.json](./351559-asymm.json) |
