@@ -24615,6 +24615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
 | Supernatural Investigations | 299531 | [299531-supernatural-investigations.json](./299531-supernatural-investigations.json) |
+| Supernatural Nightlife Lovers | 298923 | [298923-supernatural-nightlife-lovers.json](./298923-supernatural-nightlife-lovers.json) |
 | Supernatural Rules Suppress Ghosts | 307777 | [307777-supernatural-rules-suppress-ghosts.json](./307777-supernatural-rules-suppress-ghosts.json) |
 | Supernatural Squad | 333395 | [333395-supernatural-squad.json](./333395-supernatural-squad.json) |
 | Supernatural Story | 129714 | [129714-supernatural-story.json](./129714-supernatural-story.json) |
