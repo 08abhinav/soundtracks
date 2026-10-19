@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card TD | 301072 | [301072-card-td.json](./301072-card-td.json) |
 | Card Thief | 28018 | [28018-card-thief.json](./28018-card-thief.json) |
 | Card Throw VR | 119716 | [119716-card-throw-vr.json](./119716-card-throw-vr.json) |
+| Card Toons | 295096 | [295096-card-toons.json](./295096-card-toons.json) |
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circular Fever | 284972 | [284972-circular-fever.json](./284972-circular-fever.json) |
 | Circular Logic Games | 264702 | [264702-circular-logic-games.json](./264702-circular-logic-games.json) |
 | Circulate | 52508 | [52508-circulate.json](./52508-circulate.json) |
+| Circulation | 295083 | [295083-circulation.json](./295083-circulation.json) |
 | Circulets | 39184 | [39184-circulets.json](./39184-circulets.json) |
 | Circulets: the game for families, friends and parties | 41503 | [41503-circulets-the-game-for-families-friends-and-parties.json](./41503-circulets-the-game-for-families-friends-and-parties.json) |
 | Circumference Encompass | 306955 | [306955-circumference-encompass.json](./306955-circumference-encompass.json) |
@@ -6503,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadel Warrior | 308255 | [308255-citadel-warrior.json](./308255-citadel-warrior.json) |
 | Citadel Zero | 410470 | [410470-citadel-zero.json](./410470-citadel-zero.json) |
 | Citadel: Forged With Fire | 47823 | [47823-citadel-forged-with-fire.json](./47823-citadel-forged-with-fire.json) |
+| Citadel's Keeper | 295103 | [295103-citadels-keeper.json](./295103-citadels-keeper.json) |
 | Citadels | 2804 | [2804-citadels.json](./2804-citadels.json) |
 | Citadelum | 284973 | [284973-citadelum.json](./284973-citadelum.json) |
 | CitaDrill | 329383 | [329383-citadrill.json](./329383-citadrill.json) |
@@ -9422,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
 | Commute | 204674 | [204674-commute.json](./204674-commute.json) |
 | Commute | 204676 | [204676-commute.json](./204676-commute.json) |
+| Commute | 295162 | [295162-commute.json](./295162-commute.json) |
 | Commuter | 189160 | [189160-commuter.json](./189160-commuter.json) |
 | Commuter Connector | 179440 | [179440-commuter-connector.json](./179440-commuter-connector.json) |
 | Comp IV | 245533 | [245533-comp-iv.json](./245533-comp-iv.json) |
@@ -10581,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
+| Cordyceps Island | 295169 | [295169-cordyceps-island.json](./295169-cordyceps-island.json) |
 | Core | 131411 | [131411-core.json](./131411-core.json) |
 | Core | 13517 | [13517-core.json](./13517-core.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
@@ -14707,6 +14712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Blades | 205108 | [205108-cyber-blades.json](./205108-cyber-blades.json) |
 | Cyber Cafe Simulator | 358264 | [358264-cyber-cafe-simulator.json](./358264-cyber-cafe-simulator.json) |
 | Cyber Cell | 260230 | [260230-cyber-cell.json](./260230-cyber-cell.json) |
+| Cyber Chaos | 295076 | [295076-cyber-chaos.json](./295076-cyber-chaos.json) |
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
