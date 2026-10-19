@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
 | Flying Corps | 47082 | [47082-flying-corps.json](./47082-flying-corps.json) |
 | Flying Corps: Gold | 209461 | [209461-flying-corps-gold.json](./209461-flying-corps-gold.json) |
+| Flying Cut | 257803 | [257803-flying-cut.json](./257803-flying-cut.json) |
 | Flying Dino Simulator 3D: Pterodactyl | 104671 | [104671-flying-dino-simulator-3d-pterodactyl.json](./104671-flying-dino-simulator-3d-pterodactyl.json) |
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
