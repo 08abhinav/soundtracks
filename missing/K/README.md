@@ -865,6 +865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katanegai | 398683 | [398683-katanegai.json](./398683-katanegai.json) |
 | Katanga | 184945 | [184945-katanga.json](./184945-katanga.json) |
 | Katanirvana | 253028 | [253028-katanirvana.json](./253028-katanirvana.json) |
+| KataPazz | 263331 | [263331-katapazz.json](./263331-katapazz.json) |
 | Katapila | 266654 | [266654-katapila.json](./266654-katapila.json) |
 | Kataribesou: Ensouki | 229386 | [229386-kataribesou-ensouki.json](./229386-kataribesou-ensouki.json) |
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
