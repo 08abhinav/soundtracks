@@ -1428,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Plus | 329655 | [329655-undertale-plus.json](./329655-undertale-plus.json) |
 | Undertale Promise | 360564 | [360564-undertale-promise.json](./360564-undertale-promise.json) |
 | Undertale Red | 326856 | [326856-undertale-red.json](./326856-undertale-red.json) |
+| Undertale Red & Yellow | 294527 | [294527-undertale-red-and-yellow.json](./294527-undertale-red-and-yellow.json) |
 | Undertale Together | 231306 | [231306-undertale-together.json](./231306-undertale-together.json) |
 | Undertale Together: Next Soul | 329663 | [329663-undertale-together-next-soul.json](./329663-undertale-together-next-soul.json) |
 | Undertale Wildfire | 313753 | [313753-undertale-wildfire.json](./313753-undertale-wildfire.json) |
