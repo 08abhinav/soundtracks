@@ -821,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
+| Pandamino | 294548 | [294548-pandamino.json](./294548-pandamino.json) |
 | Pandamonium | 345520 | [345520-pandamonium.json](./345520-pandamonium.json) |
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
