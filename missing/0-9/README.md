@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
 | 0 Day Attack on Earth | 6172 | [6172-0-day-attack-on-earth.json](./6172-0-day-attack-on-earth.json) |
 | 0 de Waru Kinou | 376633 | [376633-0-de-waru-kinou.json](./376633-0-de-waru-kinou.json) |
+| 0 Rally Desert Race: Offroad Dirt Simulator | 264501 | [264501-0-rally-desert-race-offroad-dirt-simulator.json](./264501-0-rally-desert-race-offroad-dirt-simulator.json) |
 | 0 to X | 142108 | [142108-0-to-x.json](./142108-0-to-x.json) |
 | 0-ji no Kane to Cinderella: Halloween Wedding | 56549 | [56549-0-ji-no-kane-to-cinderella-halloween-wedding.json](./56549-0-ji-no-kane-to-cinderella-halloween-wedding.json) |
 | 0000 | 34228 | [34228-0000.json](./34228-0000.json) |
@@ -1285,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Game With New Levels | 262361 | [262361-2048-game-with-new-levels.json](./262361-2048-game-with-new-levels.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
+| 2048 Pool | 264475 | [264475-2048-pool.json](./264475-2048-pool.json) |
 | 2048 Puzzle: K-ON! Edition | 279669 | [279669-2048-puzzle-k-on-edition.json](./279669-2048-puzzle-k-on-edition.json) |
 | 2048 Royal Cards | 190740 | [190740-2048-royal-cards.json](./190740-2048-royal-cards.json) |
 | 2048 Snake | 315813 | [315813-2048-snake.json](./315813-2048-snake.json) |
