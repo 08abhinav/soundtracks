@@ -1944,6 +1944,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malek | 226710 | [226710-malek.json](./226710-malek.json) |
 | Malevilent | 366737 | [366737-malevilent.json](./366737-malevilent.json) |
 | Malevolence | 115635 | [115635-malevolence.json](./115635-malevolence.json) |
+| Malevolence | 269457 | [269457-malevolence.json](./269457-malevolence.json) |
+| Malevolence: Shutdown | 269465 | [269465-malevolence-shutdown.json](./269465-malevolence-shutdown.json) |
 | Malevolence: The Sword of Ahkranox | 16908 | [16908-malevolence-the-sword-of-ahkranox.json](./16908-malevolence-the-sword-of-ahkranox.json) |
 | Malfortune | 105382 | [105382-malfortune.json](./105382-malfortune.json) |
 | Malfunction | 43167 | [43167-malfunction.json](./43167-malfunction.json) |
@@ -7144,6 +7146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Acid 2 | 9886 | [9886-metal-gear-acid-2.json](./9886-metal-gear-acid-2.json) |
 | Metal Gear GB | 181868 | [181868-metal-gear-gb.json](./181868-metal-gear-gb.json) |
 | Metal Gear Noah | 107207 | [107207-metal-gear-noah.json](./107207-metal-gear-noah.json) |
+| Metal Gear Online | 269417 | [269417-metal-gear-online.json](./269417-metal-gear-online.json) |
 | Metal Gear Rising: Revengeance - Limited Edition | 44557 | [44557-metal-gear-rising-revengeance-limited-edition.json](./44557-metal-gear-rising-revengeance-limited-edition.json) |
 | Metal Gear Rising: Revengeance - Special Edition | 136809 | [136809-metal-gear-rising-revengeance-special-edition.json](./136809-metal-gear-rising-revengeance-special-edition.json) |
 | Metal Gear Rising: Revengeance VR Missions | 116154 | [116154-metal-gear-rising-revengeance-vr-missions.json](./116154-metal-gear-rising-revengeance-vr-missions.json) |
@@ -9716,6 +9719,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna de Tobikome! Penguin Diving: Hooper Looper | 408866 | [408866-minna-de-tobikome-penguin-diving-hooper-looper.json](./408866-minna-de-tobikome-penguin-diving-hooper-looper.json) |
 | Minna de Uchuu Tour: ChariSou DX2 | 222318 | [222318-minna-de-uchuu-tour-charisou-dx2.json](./222318-minna-de-uchuu-tour-charisou-dx2.json) |
 | Minna no Doubutsuen | 69270 | [69270-minna-no-doubutsuen.json](./69270-minna-no-doubutsuen.json) |
+| Minna no Golf-jou Vol. 1 | 269433 | [269433-minna-no-golf-jou-vol-1.json](./269433-minna-no-golf-jou-vol-1.json) |
+| Minna no Golf-jou Vol. 2 | 269432 | [269432-minna-no-golf-jou-vol-2.json](./269432-minna-no-golf-jou-vol-2.json) |
+| Minna no Golf-jou Vol. 3 | 269434 | [269434-minna-no-golf-jou-vol-3.json](./269434-minna-no-golf-jou-vol-3.json) |
+| Minna no Golf-jou Vol. 4 | 269435 | [269435-minna-no-golf-jou-vol-4.json](./269435-minna-no-golf-jou-vol-4.json) |
 | Minna no Hanafuda | 218988 | [218988-minna-no-hanafuda.json](./218988-minna-no-hanafuda.json) |
 | Minna no Joushiki-ryoku TV | 268372 | [268372-minna-no-joushiki-ryoku-tv.json](./268372-minna-no-joushiki-ryoku-tv.json) |
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
@@ -10316,6 +10323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitch | 393980 | [393980-mitch.json](./393980-mitch.json) |
 | MitchiriNeko Bubble | 228544 | [228544-mitchirineko-bubble.json](./228544-mitchirineko-bubble.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
+| Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithra - Episode 1, Chapter 1 | 68555 | [68555-mithra-episode-1-chapter-1.json](./68555-mithra-episode-1-chapter-1.json) |
 | Mithra Dream Battle | 227741 | [227741-mithra-dream-battle.json](./227741-mithra-dream-battle.json) |
@@ -10859,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moebius: Empire Rising | 5540 | [5540-moebius-empire-rising.json](./5540-moebius-empire-rising.json) |
 | Moebius: The Orb of Celestial Harmony | 14482 | [14482-moebius-the-orb-of-celestial-harmony.json](./14482-moebius-the-orb-of-celestial-harmony.json) |
 | Moeboid | 77352 | [77352-moeboid.json](./77352-moeboid.json) |
+| Moegaku @ Portable | 269441 | [269441-moegaku-portable.json](./269441-moegaku-portable.json) |
 | Moekasu | 321540 | [321540-moekasu.json](./321540-moekasu.json) |
 | Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
@@ -15879,6 +15888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Island: A Race Against Time and Hot Lava | 200136 | [200136-mysterious-island-a-race-against-time-and-hot-lava.json](./200136-mysterious-island-a-race-against-time-and-hot-lava.json) |
 | Mysterious Islandz | 322385 | [322385-mysterious-islandz.json](./322385-mysterious-islandz.json) |
 | Mysterious Journey II | 72063 | [72063-mysterious-journey-ii.json](./72063-mysterious-journey-ii.json) |
+| Mysterious Mayan Madness | 269460 | [269460-mysterious-mayan-madness.json](./269460-mysterious-mayan-madness.json) |
 | Mysterious Mystery, EP 1: The Duo Dilemma | 293486 | [293486-mysterious-mystery-ep-1-the-duo-dilemma.json](./293486-mysterious-mystery-ep-1-the-duo-dilemma.json) |
 | Mysterious Puzzles Collection: Nemezis, Schizm, Reah | 159686 | [159686-mysterious-puzzles-collection-nemezis-schizm-reah.json](./159686-mysterious-puzzles-collection-nemezis-schizm-reah.json) |
 | Mysterious Retro Games Bundle | 231076 | [231076-mysterious-retro-games-bundle.json](./231076-mysterious-retro-games-bundle.json) |
