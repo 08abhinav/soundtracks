@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
 | Koufuku Sousakan | 183372 | [183372-koufuku-sousakan.json](./183372-koufuku-sousakan.json) |
 | Koufuku wo Yobu Game: Dora Dora Dora | 48789 | [48789-koufuku-wo-yobu-game-dora-dora-dora.json](./48789-koufuku-wo-yobu-game-dora-dora-dora.json) |
+| Kouhai Mario 2 | 268340 | [268340-kouhai-mario-2.json](./268340-kouhai-mario-2.json) |
 | Kouhai wo Iwau Saisho no Fuyu | 406204 | [406204-kouhai-wo-iwau-saisho-no-fuyu.json](./406204-kouhai-wo-iwau-saisho-no-fuyu.json) |
 | Koukiatsu Boy | 228584 | [228584-koukiatsu-boy.json](./228584-koukiatsu-boy.json) |
 | Kouma no Kagi | 377365 | [377365-kouma-no-kagi.json](./377365-kouma-no-kagi.json) |
@@ -4175,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
+| Krack The Hack | 268341 | [268341-krack-the-hack.json](./268341-krack-the-hack.json) |
 | Kraft & Slash | 176348 | [176348-kraft-and-slash.json](./176348-kraft-and-slash.json) |
 | Krafteers | 174863 | [174863-krafteers.json](./174863-krafteers.json) |
 | Kraino | 91143 | [91143-kraino.json](./91143-kraino.json) |
