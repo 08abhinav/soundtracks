@@ -3470,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
+| Territorial Hissing | 261686 | [261686-territorial-hissing.json](./261686-territorial-hissing.json) |
 | Territorial.io | 152149 | [152149-territorial-io.json](./152149-territorial-io.json) |
 | Territory | 171036 | [171036-territory.json](./171036-territory.json) |
 | Territory | 57897 | [57897-territory.json](./57897-territory.json) |
@@ -5182,6 +5183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
 | The Cable Center: Virtual Archive | 29025 | [29025-the-cable-center-virtual-archive.json](./29025-the-cable-center-virtual-archive.json) |
+| The Cable Guy | 261683 | [261683-the-cable-guy.json](./261683-the-cable-guy.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
 | The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Caiysware Collection | 53709 | [53709-the-caiysware-collection.json](./53709-the-caiysware-collection.json) |
@@ -6428,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ebb and Flow of the Tide | 146196 | [146196-the-ebb-and-flow-of-the-tide.json](./146196-the-ebb-and-flow-of-the-tide.json) |
 | The Ecdysis | 204846 | [204846-the-ecdysis.json](./204846-the-ecdysis.json) |
 | The Echo | 353970 | [353970-the-echo.json](./353970-the-echo.json) |
+| The Echo Whispers | 261652 | [261652-the-echo-whispers.json](./261652-the-echo-whispers.json) |
 | The Echoes of Mars | 301841 | [301841-the-echoes-of-mars.json](./301841-the-echoes-of-mars.json) |
 | The Echoes of Me | 398479 | [398479-the-echoes-of-me.json](./398479-the-echoes-of-me.json) |
 | The EdCo Incident | 240372 | [240372-the-edco-incident.json](./240372-the-edco-incident.json) |
@@ -7973,6 +7976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Honeypot Murders | 250850 | [250850-the-honeypot-murders.json](./250850-the-honeypot-murders.json) |
 | The Hong Kong Massacre | 27069 | [27069-the-hong-kong-massacre.json](./27069-the-hong-kong-massacre.json) |
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
+| The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
@@ -8903,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Error | 32855 | [32855-the-last-error.json](./32855-the-last-error.json) |
 | The Last Escape of Yeti | 120132 | [120132-the-last-escape-of-yeti.json](./120132-the-last-escape-of-yeti.json) |
 | The Last Exam | 244210 | [244210-the-last-exam.json](./244210-the-last-exam.json) |
+| The Last Exodus | 261687 | [261687-the-last-exodus.json](./261687-the-last-exodus.json) |
 | The Last Experiment: A Memetric Story | 370118 | [370118-the-last-experiment-a-memetric-story.json](./370118-the-last-experiment-a-memetric-story.json) |
 | The Last Express | 7650 | [7650-the-last-express.json](./7650-the-last-express.json) |
 | The Last Express: Gold Edition | 30235 | [30235-the-last-express-gold-edition.json](./30235-the-last-express-gold-edition.json) |
@@ -11787,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sacrifice | 294370 | [294370-the-sacrifice.json](./294370-the-sacrifice.json) |
 | The Sacrifice | 89210 | [89210-the-sacrifice.json](./89210-the-sacrifice.json) |
 | The Sacrificial Girl of the Fantasy 3 Kingdoms: Shu | 130206 | [130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json](./130206-the-sacrificial-girl-of-the-fantasy-3-kingdoms-shu.json) |
+| The Sacrificial Girl of the Fantasy 3: Kingdoms 2 | 261669 | [261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json](./261669-the-sacrificial-girl-of-the-fantasy-3-kingdoms-2.json) |
 | The Saddle Club | 268211 | [268211-the-saddle-club.json](./268211-the-saddle-club.json) |
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
@@ -24543,6 +24549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
 | Twistingo: Tree of Life - Collector's Edition | 416168 | [416168-twistingo-tree-of-life-collectors-edition.json](./416168-twistingo-tree-of-life-collectors-edition.json) |
+| Twistingo: Turtle Bay - Collector's Edition | 261668 | [261668-twistingo-turtle-bay-collectors-edition.json](./261668-twistingo-turtle-bay-collectors-edition.json) |
 | TwistoMaze | 132186 | [132186-twistomaze.json](./132186-twistomaze.json) |
 | TwisTouch | 262344 | [262344-twistouch.json](./262344-twistouch.json) |
 | Twists of My Life | 122798 | [122798-twists-of-my-life.json](./122798-twists-of-my-life.json) |
