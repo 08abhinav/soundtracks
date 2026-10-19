@@ -5500,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipp vs Flupp | 368257 | [368257-pipp-vs-flupp.json](./368257-pipp-vs-flupp.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
+| Pippa Funnell: Ranch Rescue | 284231 | [284231-pippa-funnell-ranch-rescue.json](./284231-pippa-funnell-ranch-rescue.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
 | Pippa of Caerbannog | 412408 | [412408-pippa-of-caerbannog.json](./412408-pippa-of-caerbannog.json) |
 | Pippi | 282509 | [282509-pippi.json](./282509-pippi.json) |
@@ -7661,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Rumble | 27534 | [27534-pocket-rumble.json](./27534-pocket-rumble.json) |
 | Pocket Runners | 97264 | [97264-pocket-runners.json](./97264-pocket-runners.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
+| Pocket Size Epoch-Man | 284221 | [284221-pocket-size-epoch-man.json](./284221-pocket-size-epoch-man.json) |
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
