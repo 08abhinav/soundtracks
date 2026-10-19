@@ -4957,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Goober Shooter 2 | 400097 | [400097-goober-shooter-2.json](./400097-goober-shooter-2.json) |
+| Goober Shot | 308065 | [308065-goober-shot.json](./308065-goober-shot.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
 | Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
 | GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
