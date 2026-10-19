@@ -1659,6 +1659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn the Letters | 242554 | [242554-learn-the-letters.json](./242554-learn-the-letters.json) |
 | Learn Through Riddles! Masterpieces of the World | 410386 | [410386-learn-through-riddles-masterpieces-of-the-world.json](./410386-learn-through-riddles-masterpieces-of-the-world.json) |
 | Learn to Add | 92840 | [92840-learn-to-add.json](./92840-learn-to-add.json) |
+| Learn to Dodge | 274344 | [274344-learn-to-dodge.json](./274344-learn-to-dodge.json) |
 | Learn to Fly 2 | 58593 | [58593-learn-to-fly-2.json](./58593-learn-to-fly-2.json) |
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely shooter | 111680 | [111680-lonely-shooter.json](./111680-lonely-shooter.json) |
 | Lonely Silver Rose | 407201 | [407201-lonely-silver-rose.json](./407201-lonely-silver-rose.json) |
 | Lonely Skies | 117811 | [117811-lonely-skies.json](./117811-lonely-skies.json) |
+| Lonely Space | 274363 | [274363-lonely-space.json](./274363-lonely-space.json) |
 | Lonely Sun | 25266 | [25266-lonely-sun.json](./25266-lonely-sun.json) |
 | Lonely Things | 181887 | [181887-lonely-things.json](./181887-lonely-things.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Wolf Treat | 95919 | [95919-lonely-wolf-treat.json](./95919-lonely-wolf-treat.json) |
 | Lonely Yuri | 63652 | [63652-lonely-yuri.json](./63652-lonely-yuri.json) |
 | Lonelyland VR | 105988 | [105988-lonelyland-vr.json](./105988-lonelyland-vr.json) |
+| LonelyMe | 274359 | [274359-lonelyme.json](./274359-lonelyme.json) |
 | Lonepath | 121462 | [121462-lonepath.json](./121462-lonepath.json) |
 | Loner | 167383 | [167383-loner.json](./167383-loner.json) |
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
