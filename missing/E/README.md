@@ -1677,6 +1677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
 | Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
+| Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
 | Elemental Exiles | 295812 | [295812-elemental-exiles.json](./295812-elemental-exiles.json) |
 | Elemental Gearbolt | 9137 | [9137-elemental-gearbolt.json](./9137-elemental-gearbolt.json) |
