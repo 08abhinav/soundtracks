@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
+| Game Builder Tycoon | 286957 | [286957-game-builder-tycoon.json](./286957-game-builder-tycoon.json) |
 | Game Cafe | 297851 | [297851-game-cafe.json](./297851-game-cafe.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
@@ -4863,6 +4864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Sunday | 180773 | [180773-golf-sunday.json](./180773-golf-sunday.json) |
 | Golf Together | 173051 | [173051-golf-together.json](./173051-golf-together.json) |
 | Golf Tour | 264085 | [264085-golf-tour.json](./264085-golf-tour.json) |
+| Golf Tour | 286991 | [286991-golf-tour.json](./286991-golf-tour.json) |
 | Golf Training | 90924 | [90924-golf-training.json](./90924-golf-training.json) |
 | Golf Training at Home, Good Putt! | 368763 | [368763-golf-training-at-home-good-putt.json](./368763-golf-training-at-home-good-putt.json) |
 | Golf Up | 324977 | [324977-golf-up.json](./324977-golf-up.json) |
@@ -7268,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grunt1914 | 117398 | [117398-grunt1914.json](./117398-grunt1914.json) |
 | Gruntz | 13225 | [13225-gruntz.json](./13225-gruntz.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
+| Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
 | Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
@@ -7756,6 +7759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gump Jump | 209647 | [209647-gump-jump.json](./209647-gump-jump.json) |
 | Gump Runner | 29183 | [29183-gump-runner.json](./29183-gump-runner.json) |
 | GumPop! | 380196 | [380196-gumpop.json](./380196-gumpop.json) |
+| Gumrun | 286969 | [286969-gumrun.json](./286969-gumrun.json) |
 | Gumshoe | 18834 | [18834-gumshoe.json](./18834-gumshoe.json) |
 | Gumshoe Detective Agency: The First Case | 346629 | [346629-gumshoe-detective-agency-the-first-case.json](./346629-gumshoe-detective-agency-the-first-case.json) |
 | Gumslinger | 138594 | [138594-gumslinger.json](./138594-gumslinger.json) |
