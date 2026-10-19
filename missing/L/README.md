@@ -338,6 +338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
+| Lady of Bones, a Mother's Legacy | 273757 | [273757-lady-of-bones-a-mothers-legacy.json](./273757-lady-of-bones-a-mothers-legacy.json) |
 | Lady of Dreams | 215337 | [215337-lady-of-dreams.json](./215337-lady-of-dreams.json) |
 | Lady Pac | 185165 | [185165-lady-pac.json](./185165-lady-pac.json) |
 | Lady Popular: Fashion Arena | 351050 | [351050-lady-popular-fashion-arena.json](./351050-lady-popular-fashion-arena.json) |
@@ -1155,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
+| LastRo | 273767 | [273767-lastro.json](./273767-lastro.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | LastShot | 128338 | [128338-lastshot.json](./128338-lastshot.json) |
@@ -6076,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lands: Stories of the First Brotherhood | 290430 | [290430-lost-lands-stories-of-the-first-brotherhood.json](./290430-lost-lands-stories-of-the-first-brotherhood.json) |
 | Lost Lands: The Four Horsemen | 35164 | [35164-lost-lands-the-four-horsemen.json](./35164-lost-lands-the-four-horsemen.json) |
 | Lost Lands: The Wanderer | 28654 | [28654-lost-lands-the-wanderer.json](./28654-lost-lands-the-wanderer.json) |
+| Lost Legacy: The Awakening of the Seals | 273765 | [273765-lost-legacy-the-awakening-of-the-seals.json](./273765-lost-legacy-the-awakening-of-the-seals.json) |
 | Lost Legend | 104822 | [104822-lost-legend.json](./104822-lost-legend.json) |
 | Lost Legends: The Pharaoh's Tomb | 43135 | [43135-lost-legends-the-pharaohs-tomb.json](./43135-lost-legends-the-pharaohs-tomb.json) |
 | Lost Legends: The Weeping Woman - Collector's Edition | 34592 | [34592-lost-legends-the-weeping-woman-collectors-edition.json](./34592-lost-legends-the-weeping-woman-collectors-edition.json) |
