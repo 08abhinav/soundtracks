@@ -6291,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
+| Amphitheater Of Abaddon | 309194 | [309194-amphitheater-of-abaddon.json](./309194-amphitheater-of-abaddon.json) |
 | Amphora | 36174 | [36174-amphora.json](./36174-amphora.json) |
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
@@ -9815,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 273046 | [273046-arkanoid.json](./273046-arkanoid.json) |
 | Arkanoid | 273047 | [273047-arkanoid.json](./273047-arkanoid.json) |
 | Arkanoid | 273048 | [273048-arkanoid.json](./273048-arkanoid.json) |
+| Arkanoid | 309173 | [309173-arkanoid.json](./309173-arkanoid.json) |
 | Arkanoid | 311341 | [311341-arkanoid.json](./311341-arkanoid.json) |
 | Arkanoid | 326864 | [326864-arkanoid.json](./326864-arkanoid.json) |
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
@@ -10645,6 +10647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
 | Asha | 189915 | [189915-asha.json](./189915-asha.json) |
 | Ashanti Protocol: Unmanned Peacekeepers Amidst a Tempest of Conflict | 330335 | [330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json](./330335-ashanti-protocol-unmanned-peacekeepers-amidst-a-tempest-of-conflict.json) |
+| Ashbakaha | 309211 | [309211-ashbakaha.json](./309211-ashbakaha.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | Ashbane | 387139 | [387139-ashbane.json](./387139-ashbane.json) |
 | Ashbound Expanse | 374362 | [374362-ashbound-expanse.json](./374362-ashbound-expanse.json) |
