@@ -888,6 +888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
 | Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
+| Magic Lantern Festival | 301703 | [301703-magic-lantern-festival.json](./301703-magic-lantern-festival.json) |
 | Magic Lanterns | 74060 | [74060-magic-lanterns.json](./74060-magic-lanterns.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
 | Magic League - Castle Wars | 108214 | [108214-magic-league-castle-wars.json](./108214-magic-league-castle-wars.json) |
