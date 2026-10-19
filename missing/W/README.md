@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will: Follow the Light | 314421 | [314421-will-follow-the-light.json](./314421-will-follow-the-light.json) |
 | Will: The Beginning | 368050 | [368050-will-the-beginning.json](./368050-will-the-beginning.json) |
 | Will: The Death Trap II | 62606 | [62606-will-the-death-trap-ii.json](./62606-will-the-death-trap-ii.json) |
+| Will.exe | 260564 | [260564-will-exe.json](./260564-will-exe.json) |
 | Willblade: King's Labyrinth | 413491 | [413491-willblade-kings-labyrinth.json](./413491-willblade-kings-labyrinth.json) |
 | Willful | 44190 | [44190-willful.json](./44190-willful.json) |
 | Willi's Haunted Hayride | 30654 | [30654-willis-haunted-hayride.json](./30654-willis-haunted-hayride.json) |
