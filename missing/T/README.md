@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
+| Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
 | Tails and Pines | 192448 | [192448-tails-and-pines.json](./192448-tails-and-pines.json) |
 | Tails Doll | 279577 | [279577-tails-doll.json](./279577-tails-doll.json) |
 | Tails Football | 362899 | [362899-tails-football.json](./362899-tails-football.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Con | 121767 | [121767-the-big-con.json](./121767-the-big-con.json) |
 | The Big Con: Grift of the Year Edition | 201255 | [201255-the-big-con-grift-of-the-year-edition.json](./201255-the-big-con-grift-of-the-year-edition.json) |
 | The Big Deal | 13815 | [13815-the-big-deal.json](./13815-the-big-deal.json) |
+| The Big Deal | 267219 | [267219-the-big-deal.json](./267219-the-big-deal.json) |
 | The Big Elk | 33340 | [33340-the-big-elk.json](./33340-the-big-elk.json) |
 | The Big Fear of Heights Experience | 52002 | [52002-the-big-fear-of-heights-experience.json](./52002-the-big-fear-of-heights-experience.json) |
 | The Big Gay Adventure | 327403 | [327403-the-big-gay-adventure.json](./327403-the-big-gay-adventure.json) |
@@ -8900,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
+| The Last Game | 267253 | [267253-the-last-game.json](./267253-the-last-game.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gas Station | 354933 | [354933-the-last-gas-station.json](./354933-the-last-gas-station.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
@@ -17572,6 +17575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny World | 117595 | [117595-tiny-world.json](./117595-tiny-world.json) |
 | Tiny World | 234586 | [234586-tiny-world.json](./234586-tiny-world.json) |
 | Tiny Zoo Friends | 368273 | [368273-tiny-zoo-friends.json](./368273-tiny-zoo-friends.json) |
+| Tiny-DDug | 267218 | [267218-tiny-ddug.json](./267218-tiny-ddug.json) |
 | Tiny-Doc | 352347 | [352347-tiny-doc.json](./352347-tiny-doc.json) |
 | Tiny-Tasy Town | 103598 | [103598-tiny-tasy-town.json](./103598-tiny-tasy-town.json) |
 | Tiny: The Last Wayfinder | 373143 | [373143-tiny-the-last-wayfinder.json](./373143-tiny-the-last-wayfinder.json) |
