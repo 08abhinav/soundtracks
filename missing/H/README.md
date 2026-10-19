@@ -2907,6 +2907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helix Jump: Catch The Letters | 286192 | [286192-helix-jump-catch-the-letters.json](./286192-helix-jump-catch-the-letters.json) |
 | Helix Jump: Complete Edition | 283173 | [283173-helix-jump-complete-edition.json](./283173-helix-jump-complete-edition.json) |
 | Helix Jump: Letter Madness | 277896 | [277896-helix-jump-letter-madness.json](./277896-helix-jump-letter-madness.json) |
+| Helix Jump: Party Edition | 297301 | [297301-helix-jump-party-edition.json](./297301-helix-jump-party-edition.json) |
 | Helix Jump: Party Skins | 277898 | [277898-helix-jump-party-skins.json](./277898-helix-jump-party-skins.json) |
 | Helix: Descent N Ascent | 284906 | [284906-helix-descent-n-ascent.json](./284906-helix-descent-n-ascent.json) |
 | Helixian | 158154 | [158154-helixian.json](./158154-helixian.json) |
@@ -3657,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Adventure Clicker | 259611 | [259611-hentai-girls-adventure-clicker.json](./259611-hentai-girls-adventure-clicker.json) |
 | Hentai Girls: Amazing America | 308515 | [308515-hentai-girls-amazing-america.json](./308515-hentai-girls-amazing-america.json) |
 | Hentai Girls: Amazing Edition | 294827 | [294827-hentai-girls-amazing-edition.json](./294827-hentai-girls-amazing-edition.json) |
+| Hentai Girls: Athlete Crush | 297308 | [297308-hentai-girls-athlete-crush.json](./297308-hentai-girls-athlete-crush.json) |
 | Hentai Girls: Autumn Crush | 320445 | [320445-hentai-girls-autumn-crush.json](./320445-hentai-girls-autumn-crush.json) |
 | Hentai Girls: Cat Cutie | 306538 | [306538-hentai-girls-cat-cutie.json](./306538-hentai-girls-cat-cutie.json) |
 | Hentai Girls: Christmas | 365432 | [365432-hentai-girls-christmas.json](./365432-hentai-girls-christmas.json) |
@@ -3718,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Golf: Legendary Edition | 305598 | [305598-hentai-golf-legendary-edition.json](./305598-hentai-golf-legendary-edition.json) |
 | Hentai Golf: Platinum Edition | 308801 | [308801-hentai-golf-platinum-edition.json](./308801-hentai-golf-platinum-edition.json) |
 | Hentai Golf: Prairie Greens | 283235 | [283235-hentai-golf-prairie-greens.json](./283235-hentai-golf-prairie-greens.json) |
+| Hentai Golf: Premium Edition | 297302 | [297302-hentai-golf-premium-edition.json](./297302-hentai-golf-premium-edition.json) |
 | Hentai Golf: River's Edge | 283238 | [283238-hentai-golf-rivers-edge.json](./283238-hentai-golf-rivers-edge.json) |
 | Hentai Golf: Sunset Pines | 283226 | [283226-hentai-golf-sunset-pines.json](./283226-hentai-golf-sunset-pines.json) |
 | Hentai Gyaru | 233084 | [233084-hentai-gyaru.json](./233084-hentai-gyaru.json) |
