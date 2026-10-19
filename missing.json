@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T09:03:19.682Z",
-  "total_missing": 232277,
+  "generated_at": "2026-10-19T09:18:38.676Z",
+  "total_missing": 232327,
   "games": [
     {
       "igdb_id": 191680,
@@ -30440,6 +30440,11 @@
       "igdb_id": 296442,
       "game_name": "Ai To Noroi: School Simulator",
       "file": "missing/A/296442-ai-to-noroi-school-simulator.json"
+    },
+    {
+      "igdb_id": 288085,
+      "game_name": "Ai to Roudou no Hibi",
+      "file": "missing/A/288085-ai-to-roudou-no-hibi.json"
     },
     {
       "igdb_id": 250332,
@@ -65230,6 +65235,11 @@
       "igdb_id": 14444,
       "game_name": "Arthurian Legends",
       "file": "missing/A/14444-arthurian-legends.json"
+    },
+    {
+      "igdb_id": 288042,
+      "game_name": "Artifact",
+      "file": "missing/A/288042-artifact.json"
     },
     {
       "igdb_id": 54572,
@@ -116732,6 +116742,11 @@
       "file": "missing/B/411498-blind-rage.json"
     },
     {
+      "igdb_id": 288089,
+      "game_name": "Blind Ranking Game",
+      "file": "missing/B/288089-blind-ranking-game.json"
+    },
+    {
       "igdb_id": 145003,
       "game_name": "Blind Shot",
       "file": "missing/B/145003-blind-shot.json"
@@ -123202,6 +123217,11 @@
       "file": "missing/B/117795-board-quizz-adventure.json"
     },
     {
+      "igdb_id": 288071,
+      "game_name": "Boarder Zone",
+      "file": "missing/B/288071-boarder-zone.json"
+    },
+    {
       "igdb_id": 375945,
       "game_name": "Boardfall",
       "file": "missing/B/375945-boardfall.json"
@@ -129665,6 +129685,11 @@
       "igdb_id": 306945,
       "game_name": "Bounce Arcade",
       "file": "missing/B/306945-bounce-arcade.json"
+    },
+    {
+      "igdb_id": 288060,
+      "game_name": "Bounce ASMR",
+      "file": "missing/B/288060-bounce-asmr.json"
     },
     {
       "igdb_id": 288911,
@@ -166007,6 +166032,11 @@
       "file": "missing/C/242475-century-age-of-ashes-thornweaver-premium-edition.json"
     },
     {
+      "igdb_id": 288045,
+      "game_name": "Century: Age of Ashes - Tribal Strife Edition",
+      "file": "missing/C/288045-century-age-of-ashes-tribal-strife-edition.json"
+    },
+    {
       "igdb_id": 218491,
       "game_name": "Century: Age of Ashes - Valkurian Prelude Edition",
       "file": "missing/C/218491-century-age-of-ashes-valkurian-prelude-edition.json"
@@ -178085,6 +178115,11 @@
       "igdb_id": 416099,
       "game_name": "Churrasco",
       "file": "missing/C/416099-churrasco.json"
+    },
+    {
+      "igdb_id": 288077,
+      "game_name": "Churro Maniacs",
+      "file": "missing/C/288077-churro-maniacs.json"
     },
     {
       "igdb_id": 292552,
@@ -213582,6 +213617,11 @@
       "file": "missing/C/352850-crusader-kings-iii-chapter-iv.json"
     },
     {
+      "igdb_id": 288053,
+      "game_name": "Crusader Kings III: Content Creator Pack - North African Attire",
+      "file": "missing/C/288053-crusader-kings-iii-content-creator-pack-north-african-attire.json"
+    },
+    {
       "igdb_id": 352851,
       "game_name": "Crusader Kings III: Coronations",
       "file": "missing/C/352851-crusader-kings-iii-coronations.json"
@@ -247267,6 +247307,11 @@
       "file": "missing/D/145008-dentures-and-demons-2.json"
     },
     {
+      "igdb_id": 288087,
+      "game_name": "Deo",
+      "file": "missing/D/288087-deo.json"
+    },
+    {
       "igdb_id": 360742,
       "game_name": "Deodar",
       "file": "missing/D/360742-deodar.json"
@@ -249075,6 +249120,11 @@
       "igdb_id": 203953,
       "game_name": "Desktop Hacker",
       "file": "missing/D/203953-desktop-hacker.json"
+    },
+    {
+      "igdb_id": 288061,
+      "game_name": "Desktop Hacker: Echoes of Pandora",
+      "file": "missing/D/288061-desktop-hacker-echoes-of-pandora.json"
     },
     {
       "igdb_id": 361291,
@@ -252795,6 +252845,11 @@
       "igdb_id": 405462,
       "game_name": "Diablo Island",
       "file": "missing/D/405462-diablo-island.json"
+    },
+    {
+      "igdb_id": 288057,
+      "game_name": "Diablo IV: Beckoning Thunder Pack",
+      "file": "missing/D/288057-diablo-iv-beckoning-thunder-pack.json"
     },
     {
       "igdb_id": 289474,
@@ -264640,6 +264695,11 @@
       "igdb_id": 190203,
       "game_name": "Dog Clicker",
       "file": "missing/D/190203-dog-clicker.json"
+    },
+    {
+      "igdb_id": 288080,
+      "game_name": "Dog Collab",
+      "file": "missing/D/288080-dog-collab.json"
     },
     {
       "igdb_id": 334803,
@@ -294407,6 +294467,11 @@
       "file": "missing/E/40614-earth-dies-screaming.json"
     },
     {
+      "igdb_id": 288086,
+      "game_name": "Earth Editor",
+      "file": "missing/E/288086-earth-editor.json"
+    },
+    {
       "igdb_id": 67668,
       "game_name": "Earth Eternal",
       "file": "missing/E/67668-earth-eternal.json"
@@ -309445,6 +309510,11 @@
       "igdb_id": 233642,
       "game_name": "Epic Racers",
       "file": "missing/E/233642-epic-racers.json"
+    },
+    {
+      "igdb_id": 288050,
+      "game_name": "Epic Rogue",
+      "file": "missing/E/288050-epic-rogue.json"
     },
     {
       "igdb_id": 255133,
@@ -324525,6 +324595,11 @@
       "igdb_id": 114519,
       "game_name": "F8S",
       "file": "missing/F/114519-f8s.json"
+    },
+    {
+      "igdb_id": 288054,
+      "game_name": "Fa Jin",
+      "file": "missing/F/288054-fa-jin.json"
     },
     {
       "igdb_id": 44818,
@@ -347497,6 +347572,11 @@
       "file": "missing/F/143492-fishermans-peril.json"
     },
     {
+      "igdb_id": 288049,
+      "game_name": "Fisherman'sWorld",
+      "file": "missing/F/288049-fishermansworld.json"
+    },
+    {
       "igdb_id": 152013,
       "game_name": "Fishermen's Haven",
       "file": "missing/F/152013-fishermens-haven.json"
@@ -362712,6 +362792,11 @@
       "file": "missing/F/285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json"
     },
     {
+      "igdb_id": 288066,
+      "game_name": "Forza Motorsport: 2019 Ferrari #62 Risi Competizione 488 GTE",
+      "file": "missing/F/288066-forza-motorsport-2019-ferrari-62-risi-competizione-488-gte.json"
+    },
+    {
       "igdb_id": 286540,
       "game_name": "Forza Motorsport: 2019 McLaren Senna GTR",
       "file": "missing/F/286540-forza-motorsport-2019-mclaren-senna-gtr.json"
@@ -371290,6 +371375,11 @@
       "igdb_id": 77282,
       "game_name": "Fuel Tiracas",
       "file": "missing/F/77282-fuel-tiracas.json"
+    },
+    {
+      "igdb_id": 288068,
+      "game_name": "Fuel37",
+      "file": "missing/F/288068-fuel37.json"
     },
     {
       "igdb_id": 206451,
@@ -451722,6 +451812,11 @@
       "file": "missing/H/341651-honey-guardian.json"
     },
     {
+      "igdb_id": 288046,
+      "game_name": "Honey Homer RPS",
+      "file": "missing/H/288046-honey-homer-rps.json"
+    },
+    {
       "igdb_id": 328248,
       "game_name": "Honey Kingdom",
       "file": "missing/H/328248-honey-kingdom.json"
@@ -464752,6 +464847,11 @@
       "file": "missing/I/319086-i-became-a-dog-3.json"
     },
     {
+      "igdb_id": 288059,
+      "game_name": "I Became a Femboy to Date One",
+      "file": "missing/I/288059-i-became-a-femboy-to-date-one.json"
+    },
+    {
       "igdb_id": 409843,
       "game_name": "I Became an Evil Witch that Cursed the Male Lead",
       "file": "missing/I/409843-i-became-an-evil-witch-that-cursed-the-male-lead.json"
@@ -474385,6 +474485,11 @@
       "igdb_id": 33822,
       "game_name": "Imscared",
       "file": "missing/I/33822-imscared.json"
+    },
+    {
+      "igdb_id": 288083,
+      "game_name": "Imscared: A Pixelated Nightmare",
+      "file": "missing/I/288083-imscared-a-pixelated-nightmare.json"
     },
     {
       "igdb_id": 158676,
@@ -554147,6 +554252,11 @@
       "file": "missing/L/279131-logic-town-santas-grotto.json"
     },
     {
+      "igdb_id": 288063,
+      "game_name": "Logic Town: The Library",
+      "file": "missing/L/288063-logic-town-the-library.json"
+    },
+    {
       "igdb_id": 401131,
       "game_name": "Logic Training IQ Quiz for Kids",
       "file": "missing/L/401131-logic-training-iq-quiz-for-kids.json"
@@ -580882,6 +580992,11 @@
       "file": "missing/M/318030-mario-spy.json"
     },
     {
+      "igdb_id": 288041,
+      "game_name": "Mario Starcatcher 2",
+      "file": "missing/M/288041-mario-starcatcher-2.json"
+    },
+    {
       "igdb_id": 191398,
       "game_name": "Mario Strikers: Battle League",
       "file": "missing/M/191398-mario-strikers-battle-league.json"
@@ -588972,6 +589087,16 @@
       "file": "missing/M/218702-maze-of-realities-reflection-of-light-collectors-edition.json"
     },
     {
+      "igdb_id": 288047,
+      "game_name": "Maze of Realities: Ride in the Sky - Collector's Edition",
+      "file": "missing/M/288047-maze-of-realities-ride-in-the-sky-collectors-edition.json"
+    },
+    {
+      "igdb_id": 288048,
+      "game_name": "Maze of Realities: Ride in the Sky DLC",
+      "file": "missing/M/288048-maze-of-realities-ride-in-the-sky-dlc.json"
+    },
+    {
       "igdb_id": 289460,
       "game_name": "Maze of Realities: Symphony of Invention - Collector's Edition",
       "file": "missing/M/289460-maze-of-realities-symphony-of-invention-collectors-edition.json"
@@ -594290,6 +594415,11 @@
       "igdb_id": 194382,
       "game_name": "Mega Man Rock Force",
       "file": "missing/M/194382-mega-man-rock-force.json"
+    },
+    {
+      "igdb_id": 288040,
+      "game_name": "Mega Man RPG: Prototype",
+      "file": "missing/M/288040-mega-man-rpg-prototype.json"
     },
     {
       "igdb_id": 377766,
@@ -635412,6 +635542,11 @@
       "file": "missing/M/228360-muhammad-ali.json"
     },
     {
+      "igdb_id": 288070,
+      "game_name": "Muhammad Ali Heavyweight Boxing",
+      "file": "missing/M/288070-muhammad-ali-heavyweight-boxing.json"
+    },
+    {
       "igdb_id": 46269,
       "game_name": "Muhammad Ali Heavyweight Boxing",
       "file": "missing/M/46269-muhammad-ali-heavyweight-boxing.json"
@@ -638810,6 +638945,11 @@
       "igdb_id": 4024,
       "game_name": "MX Superfly",
       "file": "missing/M/4024-mx-superfly.json"
+    },
+    {
+      "igdb_id": 288051,
+      "game_name": "MX vs ATV: Legends - Yamaha Pack 2023",
+      "file": "missing/M/288051-mx-vs-atv-legends-yamaha-pack-2023.json"
     },
     {
       "igdb_id": 315218,
@@ -654605,6 +654745,11 @@
       "igdb_id": 174704,
       "game_name": "Neko Album",
       "file": "missing/N/174704-neko-album.json"
+    },
+    {
+      "igdb_id": 288044,
+      "game_name": "Neko Atsume 2",
+      "file": "missing/N/288044-neko-atsume-2.json"
     },
     {
       "igdb_id": 68317,
@@ -690575,6 +690720,11 @@
       "igdb_id": 135906,
       "game_name": "Orchids to Dusk",
       "file": "missing/O/135906-orchids-to-dusk.json"
+    },
+    {
+      "igdb_id": 288058,
+      "game_name": "OrcinUS: Orca Pod Rescue",
+      "file": "missing/O/288058-orcinus-orca-pod-rescue.json"
     },
     {
       "igdb_id": 9679,
@@ -739727,6 +739877,11 @@
       "file": "missing/P/246077-pokemon-run-and-bun.json"
     },
     {
+      "igdb_id": 288072,
+      "game_name": "Pokémon Rutile Ruby",
+      "file": "missing/P/288072-pokemon-rutile-ruby.json"
+    },
+    {
       "igdb_id": 323879,
       "game_name": "Pokemon Ryen",
       "file": "missing/P/323879-pokemon-ryen.json"
@@ -739900,6 +740055,11 @@
       "igdb_id": 262412,
       "game_name": "Pokémon Stadium Fusion",
       "file": "missing/P/262412-pokemon-stadium-fusion.json"
+    },
+    {
+      "igdb_id": 288074,
+      "game_name": "Pokémon Star Sapphire",
+      "file": "missing/P/288074-pokemon-star-sapphire.json"
     },
     {
       "igdb_id": 394849,
@@ -740300,6 +740460,11 @@
       "igdb_id": 143023,
       "game_name": "Pokémon: Blossom of the Soul",
       "file": "missing/P/143023-pokemon-blossom-of-the-soul.json"
+    },
+    {
+      "igdb_id": 288076,
+      "game_name": "Pokémon: Breakdown Blast",
+      "file": "missing/P/288076-pokemon-breakdown-blast.json"
     },
     {
       "igdb_id": 265218,
@@ -742050,6 +742215,11 @@
       "igdb_id": 159724,
       "game_name": "Poly Gangs",
       "file": "missing/P/159724-poly-gangs.json"
+    },
+    {
+      "igdb_id": 288073,
+      "game_name": "Poly Impulse",
+      "file": "missing/P/288073-poly-impulse.json"
     },
     {
       "igdb_id": 113867,
@@ -780137,6 +780307,11 @@
       "file": "missing/R/174849-ravens-battle-fields.json"
     },
     {
+      "igdb_id": 288067,
+      "game_name": "Ravensburger Kinderwelt",
+      "file": "missing/R/288067-ravensburger-kinderwelt.json"
+    },
+    {
       "igdb_id": 200049,
       "game_name": "Ravensburger Labyrinth",
       "file": "missing/R/200049-ravensburger-labyrinth.json"
@@ -790850,6 +791025,11 @@
       "igdb_id": 182763,
       "game_name": "Replacement",
       "file": "missing/R/182763-replacement.json"
+    },
+    {
+      "igdb_id": 288037,
+      "game_name": "Replay",
+      "file": "missing/R/288037-replay.json"
     },
     {
       "igdb_id": 259188,
@@ -831142,6 +831322,11 @@
       "file": "missing/S/265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json"
     },
     {
+      "igdb_id": 288062,
+      "game_name": "Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 2",
+      "file": "missing/S/288062-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-2.json"
+    },
+    {
       "igdb_id": 86089,
       "game_name": "Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi",
       "file": "missing/S/86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json"
@@ -843207,6 +843392,11 @@
       "file": "missing/S/301656-sexy-beats.json"
     },
     {
+      "igdb_id": 288056,
+      "game_name": "Sexy Blackjack",
+      "file": "missing/S/288056-sexy-blackjack.json"
+    },
+    {
       "igdb_id": 370759,
       "game_name": "Sexy Blonde",
       "file": "missing/S/370759-sexy-blonde.json"
@@ -847095,6 +847285,11 @@
       "igdb_id": 267823,
       "game_name": "Shard Seekers",
       "file": "missing/S/267823-shard-seekers.json"
+    },
+    {
+      "igdb_id": 288052,
+      "game_name": "Shard Shuffle",
+      "file": "missing/S/288052-shard-shuffle.json"
     },
     {
       "igdb_id": 323529,
@@ -863915,6 +864110,11 @@
       "igdb_id": 140903,
       "game_name": "Sketchy.Academy",
       "file": "missing/S/140903-sketchy-academy.json"
+    },
+    {
+      "igdb_id": 288082,
+      "game_name": "Sketchy's Contract",
+      "file": "missing/S/288082-sketchys-contract.json"
     },
     {
       "igdb_id": 233020,
@@ -900197,6 +900397,11 @@
       "file": "missing/S/325306-spirit-of-the-obelisk.json"
     },
     {
+      "igdb_id": 288039,
+      "game_name": "Spirit of the Sky",
+      "file": "missing/S/288039-spirit-of-the-sky.json"
+    },
+    {
       "igdb_id": 87071,
       "game_name": "Spirit of Wandering - The Legend",
       "file": "missing/S/87071-spirit-of-wandering-the-legend.json"
@@ -936387,6 +936592,11 @@
       "file": "missing/S/366900-super-mario-galaxy-2.json"
     },
     {
+      "igdb_id": 288078,
+      "game_name": "Super Mario Galaxy 2 2: Super Mario Galaxy 1",
+      "file": "missing/S/288078-super-mario-galaxy-2-2-super-mario-galaxy-1.json"
+    },
+    {
       "igdb_id": 281019,
       "game_name": "Super Mario Galaxy 2: Collectors Anxiety",
       "file": "missing/S/281019-super-mario-galaxy-2-collectors-anxiety.json"
@@ -939515,6 +939725,11 @@
       "igdb_id": 129092,
       "game_name": "Super Rocket Ride",
       "file": "missing/S/129092-super-rocket-ride.json"
+    },
+    {
+      "igdb_id": 288055,
+      "game_name": "Super Rolling Heroes Deluxe",
+      "file": "missing/S/288055-super-rolling-heroes-deluxe.json"
     },
     {
       "igdb_id": 270888,
@@ -953385,6 +953600,11 @@
       "igdb_id": 376140,
       "game_name": "Taboo: Official Party Game",
       "file": "missing/T/376140-taboo-official-party-game.json"
+    },
+    {
+      "igdb_id": 288038,
+      "game_name": "Taboo: The Sixth Sense",
+      "file": "missing/T/288038-taboo-the-sixth-sense.json"
     },
     {
       "igdb_id": 311675,
@@ -999867,6 +1000087,11 @@
       "file": "missing/T/373827-the-life-together-online.json"
     },
     {
+      "igdb_id": 288088,
+      "game_name": "The Life We've Chosen",
+      "file": "missing/T/288088-the-life-weve-chosen.json"
+    },
+    {
       "igdb_id": 218473,
       "game_name": "The Lifetime",
       "file": "missing/T/218473-the-lifetime.json"
@@ -1006827,6 +1007052,11 @@
       "file": "missing/T/230396-the-penguins-of-madagascar-operation-plushy-rescue.json"
     },
     {
+      "igdb_id": 288036,
+      "game_name": "The Penjikent Creature",
+      "file": "missing/T/288036-the-penjikent-creature.json"
+    },
+    {
       "igdb_id": 51891,
       "game_name": "The Penumbra Collection",
       "file": "missing/T/51891-the-penumbra-collection.json"
@@ -1007740,6 +1007970,11 @@
       "igdb_id": 233006,
       "game_name": "The Preschoolers: Season 1 - Extended Edition",
       "file": "missing/T/233006-the-preschoolers-season-1-extended-edition.json"
+    },
+    {
+      "igdb_id": 288079,
+      "game_name": "The Present",
+      "file": "missing/T/288079-the-present.json"
     },
     {
       "igdb_id": 204415,
@@ -1081627,9 +1081862,19 @@
       "file": "missing/U/260087-under-night-in-birth-ii-sys-celes.json"
     },
     {
+      "igdb_id": 288064,
+      "game_name": "Under Night In-Birth II Sys:Celes - 25 Announcer Characters",
+      "file": "missing/U/288064-under-night-in-birth-ii-sys-celes-25-announcer-characters.json"
+    },
+    {
       "igdb_id": 362221,
       "game_name": "Under Night In-Birth II Sys:Celes - Character Unlock: Izumi",
       "file": "missing/U/362221-under-night-in-birth-ii-sys-celes-character-unlock-izumi.json"
+    },
+    {
+      "igdb_id": 288065,
+      "game_name": "Under Night In-Birth II Sys:Celes - Season Pass",
+      "file": "missing/U/288065-under-night-in-birth-ii-sys-celes-season-pass.json"
     },
     {
       "igdb_id": 309084,
@@ -1103175,6 +1103420,11 @@
       "igdb_id": 104475,
       "game_name": "VR - Talk to her",
       "file": "missing/V/104475-vr-talk-to-her.json"
+    },
+    {
+      "igdb_id": 288069,
+      "game_name": "VR Agent",
+      "file": "missing/V/288069-vr-agent.json"
     },
     {
       "igdb_id": 371590,
