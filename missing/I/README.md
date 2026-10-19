@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IC Carddass DragonBall | 59995 | [59995-ic-carddass-dragonball.json](./59995-ic-carddass-dragonball.json) |
 | ic2005 | 256861 | [256861-ic2005.json](./256861-ic2005.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
+| Icaria | 270555 | [270555-icaria.json](./270555-icaria.json) |
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
 | Icarly vs. Bigfoot | 324869 | [324869-icarly-vs-bigfoot.json](./324869-icarly-vs-bigfoot.json) |
 | iCarly: Gibby Pinball | 141486 | [141486-icarly-gibby-pinball.json](./141486-icarly-gibby-pinball.json) |
