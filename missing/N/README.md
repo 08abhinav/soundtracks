@@ -1896,6 +1896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour | 154919 | [154919-neon-parkour.json](./154919-neon-parkour.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
+| Neon Puzzle Ball | 304425 | [304425-neon-puzzle-ball.json](./304425-neon-puzzle-ball.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
 | Neon Race | 286644 | [286644-neon-race.json](./286644-neon-race.json) |
 | Neon Race 2 | 286645 | [286645-neon-race-2.json](./286645-neon-race-2.json) |
