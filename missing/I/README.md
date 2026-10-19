@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dig Gold: Craft Adventure | 248105 | [248105-idle-dig-gold-craft-adventure.json](./248105-idle-dig-gold-craft-adventure.json) |
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
+| Idle Dungeon | 285365 | [285365-idle-dungeon.json](./285365-idle-dungeon.json) |
 | Idle Dungeons | 103476 | [103476-idle-dungeons.json](./103476-idle-dungeons.json) |
 | Idle Dunk Masters | 106663 | [106663-idle-dunk-masters.json](./106663-idle-dunk-masters.json) |
 | Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
@@ -1229,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Startup | 408019 | [408019-idle-startup.json](./408019-idle-startup.json) |
 | Idle Startup Tycoon | 216413 | [216413-idle-startup-tycoon.json](./216413-idle-startup-tycoon.json) |
 | Idle Stellar | 262911 | [262911-idle-stellar.json](./262911-idle-stellar.json) |
+| Idle Streaming Bonanza | 285329 | [285329-idle-streaming-bonanza.json](./285329-idle-streaming-bonanza.json) |
 | Idle Strikers 1945 | 303181 | [303181-idle-strikers-1945.json](./303181-idle-strikers-1945.json) |
 | Idle Submarine | 255747 | [255747-idle-submarine.json](./255747-idle-submarine.json) |
 | Idle Summoners: Heroes VIP | 100756 | [100756-idle-summoners-heroes-vip.json](./100756-idle-summoners-heroes-vip.json) |
@@ -1907,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impawlse | 303575 | [303575-impawlse.json](./303575-impawlse.json) |
 | Impeached 2 | 253921 | [253921-impeached-2.json](./253921-impeached-2.json) |
 | Impeached! | 179611 | [179611-impeached.json](./179611-impeached.json) |
+| Imperator with nothing to do | 285357 | [285357-imperator-with-nothing-to-do.json](./285357-imperator-with-nothing-to-do.json) |
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
 | Imperator: Rome | 102060 | [102060-imperator-rome.json](./102060-imperator-rome.json) |
 | Imperator: Rome - Centurion Bundle | 154494 | [154494-imperator-rome-centurion-bundle.json](./154494-imperator-rome-centurion-bundle.json) |
