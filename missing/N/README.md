@@ -1699,6 +1699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Cherry Master Color | 43980 | [43980-neo-cherry-master-color.json](./43980-neo-cherry-master-color.json) |
 | Neo City Express | 297542 | [297542-neo-city-express.json](./297542-neo-city-express.json) |
 | Neo Contra | 20208 | [20208-neo-contra.json](./20208-neo-contra.json) |
+| Neo Dance | 265488 | [265488-neo-dance.json](./265488-neo-dance.json) |
 | Neo Derby Champ Daiyosou | 43968 | [43968-neo-derby-champ-daiyosou.json](./43968-neo-derby-champ-daiyosou.json) |
 | Neo Drift Out: New Technology | 39600 | [39600-neo-drift-out-new-technology.json](./39600-neo-drift-out-new-technology.json) |
 | Neo Geo Arcade 2 | 371539 | [371539-neo-geo-arcade-2.json](./371539-neo-geo-arcade-2.json) |
@@ -5775,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyan to Suteki na Natsuiro Days | 108872 | [108872-nyan-to-suteki-na-natsuiro-days.json](./108872-nyan-to-suteki-na-natsuiro-days.json) |
 | Nyan to Wonderful | 143674 | [143674-nyan-to-wonderful.json](./143674-nyan-to-wonderful.json) |
 | Nyan-Tech | 80157 | [80157-nyan-tech.json](./80157-nyan-tech.json) |
+| Nyana | 265501 | [265501-nyana.json](./265501-nyana.json) |
 | Nyanaconda | 229237 | [229237-nyanaconda.json](./229237-nyanaconda.json) |
 | Nyancle Racing | 94668 | [94668-nyancle-racing.json](./94668-nyancle-racing.json) |
 | Nyanco | 120044 | [120044-nyanco.json](./120044-nyanco.json) |
