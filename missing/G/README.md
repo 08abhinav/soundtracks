@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
+| Garden of Earthly Delights | 290806 | [290806-garden-of-earthly-delights.json](./290806-garden-of-earthly-delights.json) |
 | Garden of Eden | 82178 | [82178-garden-of-eden.json](./82178-garden-of-eden.json) |
 | Garden of Fear | 116451 | [116451-garden-of-fear.json](./116451-garden-of-fear.json) |
 | Garden of Merging Numbers | 342398 | [342398-garden-of-merging-numbers.json](./342398-garden-of-merging-numbers.json) |
@@ -1684,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay It Loud | 416763 | [416763-gay-it-loud.json](./416763-gay-it-loud.json) |
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
 | Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
+| Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
 | Gay Sex Adventures: Episode 7 | 301646 | [301646-gay-sex-adventures-episode-7.json](./301646-gay-sex-adventures-episode-7.json) |
 | Gay Sex Adventures: Episode 8 | 304857 | [304857-gay-sex-adventures-episode-8.json](./304857-gay-sex-adventures-episode-8.json) |
 | Gay Sex Simulator | 405059 | [405059-gay-sex-simulator.json](./405059-gay-sex-simulator.json) |
@@ -5336,6 +5338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
+| Got High | 290792 | [290792-got-high.json](./290792-got-high.json) |
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
 | GOTC: Siege on the Lightorder Citadel | 164515 | [164515-gotc-siege-on-the-lightorder-citadel.json](./164515-gotc-siege-on-the-lightorder-citadel.json) |
@@ -8315,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
+| Gym Camp Simulator | 290810 | [290810-gym-camp-simulator.json](./290810-gym-camp-simulator.json) |
 | Gym Class VR | 143458 | [143458-gym-class-vr.json](./143458-gym-class-vr.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Empire | 97267 | [97267-gym-empire.json](./97267-gym-empire.json) |
