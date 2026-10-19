@@ -10573,7 +10573,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Evil | 78911 | [78911-prince-of-evil.json](./78911-prince-of-evil.json) |
 | Prince of Persia | 248579 | [248579-prince-of-persia.json](./248579-prince-of-persia.json) |
 | Prince of Persia | 249150 | [249150-prince-of-persia.json](./249150-prince-of-persia.json) |
+| Prince of Persia | 284765 | [284765-prince-of-persia.json](./284765-prince-of-persia.json) |
+| Prince of Persia | 284767 | [284767-prince-of-persia.json](./284767-prince-of-persia.json) |
+| Prince of Persia | 284768 | [284768-prince-of-persia.json](./284768-prince-of-persia.json) |
+| Prince of Persia | 284769 | [284769-prince-of-persia.json](./284769-prince-of-persia.json) |
+| Prince of Persia | 284770 | [284770-prince-of-persia.json](./284770-prince-of-persia.json) |
+| Prince of Persia | 284771 | [284771-prince-of-persia.json](./284771-prince-of-persia.json) |
+| Prince of Persia | 284772 | [284772-prince-of-persia.json](./284772-prince-of-persia.json) |
+| Prince of Persia | 284773 | [284773-prince-of-persia.json](./284773-prince-of-persia.json) |
 | Prince of Persia | 284774 | [284774-prince-of-persia.json](./284774-prince-of-persia.json) |
+| Prince of Persia | 284775 | [284775-prince-of-persia.json](./284775-prince-of-persia.json) |
 | Prince of Persia | 284776 | [284776-prince-of-persia.json](./284776-prince-of-persia.json) |
 | Prince of Persia | 284852 | [284852-prince-of-persia.json](./284852-prince-of-persia.json) |
 | Prince of Persia | 284853 | [284853-prince-of-persia.json](./284853-prince-of-persia.json) |
@@ -10692,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Paladin | 258034 | [258034-princess-paladin.json](./258034-princess-paladin.json) |
 | Princess Paladin | 395761 | [395761-princess-paladin.json](./395761-princess-paladin.json) |
 | Princess Paloma's Rescue | 360109 | [360109-princess-palomas-rescue.json](./360109-princess-palomas-rescue.json) |
+| Princess Paradise | 284777 | [284777-princess-paradise.json](./284777-princess-paradise.json) |
 | Princess Party | 394498 | [394498-princess-party.json](./394498-princess-party.json) |
 | Princess Peach Sex Hack | 294709 | [294709-princess-peach-sex-hack.json](./294709-princess-peach-sex-hack.json) |
 | Princess Piano | 174230 | [174230-princess-piano.json](./174230-princess-piano.json) |
