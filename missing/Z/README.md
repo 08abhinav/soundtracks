@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Fashion | 92510 | [92510-zen-fashion.json](./92510-zen-fashion.json) |
 | Zen Fish SIM | 17801 | [17801-zen-fish-sim.json](./17801-zen-fish-sim.json) |
 | Zen Fish Simulator | 60551 | [60551-zen-fish-simulator.json](./60551-zen-fish-simulator.json) |
+| Zen Fisher | 265474 | [265474-zen-fisher.json](./265474-zen-fisher.json) |
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
 | Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
 | Zen Garden | 25980 | [25980-zen-garden.json](./25980-zen-garden.json) |
