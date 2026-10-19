@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciggy World | 314299 | [314299-ciggy-world.json](./314299-ciggy-world.json) |
 | Ciikos Bridge | 183815 | [183815-ciikos-bridge.json](./183815-ciikos-bridge.json) |
 | Cǐkè Tànsuǒ Zhōng | 156705 | [156705-cike-tansuo-zhong.json](./156705-cike-tansuo-zhong.json) |
+| Cimmerian Night | 272164 | [272164-cimmerian-night.json](./272164-cimmerian-night.json) |
 | Cinco Noches en Casa Rosada | 327222 | [327222-cinco-noches-en-casa-rosada.json](./327222-cinco-noches-en-casa-rosada.json) |
 | Cinco Noches en Casa Rosada 2 | 353900 | [353900-cinco-noches-en-casa-rosada-2.json](./353900-cinco-noches-en-casa-rosada-2.json) |
 | Cinco Noches en Casa Rosada 3 | 376680 | [376680-cinco-noches-en-casa-rosada-3.json](./376680-cinco-noches-en-casa-rosada-3.json) |
