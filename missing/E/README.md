@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
 | Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
+| Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
 | Ecchi Secrets: Futuristic Edition | 324379 | [324379-ecchi-secrets-futuristic-edition.json](./324379-ecchi-secrets-futuristic-edition.json) |
 | Ecchi Secrets: Romantic Edition | 317258 | [317258-ecchi-secrets-romantic-edition.json](./317258-ecchi-secrets-romantic-edition.json) |
 | Ecchi Secrets: Wet & Wild Edition | 404276 | [404276-ecchi-secrets-wet-and-wild-edition.json](./404276-ecchi-secrets-wet-and-wild-edition.json) |
@@ -1113,11 +1114,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Mugen no Shinzou PC-8801 | 345990 | [345990-eggconsole-mugen-no-shinzou-pc-8801.json](./345990-eggconsole-mugen-no-shinzou-pc-8801.json) |
 | Eggconsole Murder Club PC-8801 | 320447 | [320447-eggconsole-murder-club-pc-8801.json](./320447-eggconsole-murder-club-pc-8801.json) |
 | Eggconsole Onryou Senki PC-8801mkIISR | 412951 | [412951-eggconsole-onryou-senki-pc-8801mkiisr.json](./412951-eggconsole-onryou-senki-pc-8801mkiisr.json) |
+| Eggconsole Popful Mail PC-8801MkIISR | 308638 | [308638-eggconsole-popful-mail-pc-8801mkiisr.json](./308638-eggconsole-popful-mail-pc-8801mkiisr.json) |
 | Eggconsole Puyo Puyo MSX2 | 378795 | [378795-eggconsole-puyo-puyo-msx2.json](./378795-eggconsole-puyo-puyo-msx2.json) |
 | Eggconsole Puyo Puyo PC-9801 | 362367 | [362367-eggconsole-puyo-puyo-pc-9801.json](./362367-eggconsole-puyo-puyo-pc-9801.json) |
 | Eggconsole Relics MSX2 | 407852 | [407852-eggconsole-relics-msx2.json](./407852-eggconsole-relics-msx2.json) |
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
+| Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
 | Eggconsole Star Cruiser PC-8801mkIISR | 317225 | [317225-eggconsole-star-cruiser-pc-8801mkiisr.json](./317225-eggconsole-star-cruiser-pc-8801mkiisr.json) |
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
@@ -3538,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
+| Err: The 1990 Incident | 308613 | [308613-err-the-1990-incident.json](./308613-err-the-1990-incident.json) |
 | Erraldoi 2000 | 183989 | [183989-erraldoi-2000.json](./183989-erraldoi-2000.json) |
 | Errand | 57092 | [57092-errand.json](./57092-errand.json) |
 | Errand Boy | 127883 | [127883-errand-boy.json](./127883-errand-boy.json) |
@@ -3652,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Expert | 81116 | [81116-escape-expert.json](./81116-escape-expert.json) |
 | Escape Factory | 317983 | [317983-escape-factory.json](./317983-escape-factory.json) |
 | Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
+| Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
 | Escape First Alchemist | 213537 | [213537-escape-first-alchemist.json](./213537-escape-first-alchemist.json) |
@@ -3816,6 +3821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Snow Lodge: Escape after Sex3 | 82959 | [82959-escape-from-the-snow-lodge-escape-after-sex3.json](./82959-escape-from-the-snow-lodge-escape-after-sex3.json) |
 | Escape from the Squirrel Park | 185161 | [185161-escape-from-the-squirrel-park.json](./185161-escape-from-the-squirrel-park.json) |
 | Escape from the Tomb Tower | 115706 | [115706-escape-from-the-tomb-tower.json](./115706-escape-from-the-tomb-tower.json) |
+| Escape from the Tower | 308641 | [308641-escape-from-the-tower.json](./308641-escape-from-the-tower.json) |
 | Escape from the Trap World | 197257 | [197257-escape-from-the-trap-world.json](./197257-escape-from-the-trap-world.json) |
 | Escape From The Tutorial | 301599 | [301599-escape-from-the-tutorial.json](./301599-escape-from-the-tutorial.json) |
 | Escape from the Underworld | 124599 | [124599-escape-from-the-underworld.json](./124599-escape-from-the-underworld.json) |
