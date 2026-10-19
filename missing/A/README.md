@@ -2572,6 +2572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
+| Adventure Ponies | 264456 | [264456-adventure-ponies.json](./264456-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
 | Adventure Quiz 2: Hatena? No Dai-Bouken | 65206 | [65206-adventure-quiz-2-hatena-no-dai-bouken.json](./65206-adventure-quiz-2-hatena-no-dai-bouken.json) |
 | Adventure Quiz: Capcom World - Hatena no Daibouken | 77012 | [77012-adventure-quiz-capcom-world-hatena-no-daibouken.json](./77012-adventure-quiz-capcom-world-hatena-no-daibouken.json) |
@@ -7816,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Generic Space Shooter | 202594 | [202594-another-generic-space-shooter.json](./202594-another-generic-space-shooter.json) |
+| Another Happiness | 264470 | [264470-another-happiness.json](./264470-another-happiness.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
 | Another Head | 323759 | [323759-another-head.json](./323759-another-head.json) |
 | Another Heaven | 382277 | [382277-another-heaven.json](./382277-another-heaven.json) |
@@ -8918,6 +8920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Burnin' Rubber | 145248 | [145248-arcade-archives-burnin-rubber.json](./145248-arcade-archives-burnin-rubber.json) |
 | Arcade Archives: Burning Force | 273958 | [273958-arcade-archives-burning-force.json](./273958-arcade-archives-burning-force.json) |
 | Arcade Archives: Buta san | 99561 | [99561-arcade-archives-buta-san.json](./99561-arcade-archives-buta-san.json) |
+| Arcade Archives: Cadash | 264495 | [264495-arcade-archives-cadash.json](./264495-arcade-archives-cadash.json) |
 | Arcade Archives: Cameltry | 404377 | [404377-arcade-archives-cameltry.json](./404377-arcade-archives-cameltry.json) |
 | Arcade Archives: Castle of Dragon | 328092 | [328092-arcade-archives-castle-of-dragon.json](./328092-arcade-archives-castle-of-dragon.json) |
 | Arcade Archives: Chack'n Pop | 210747 | [210747-arcade-archives-chackn-pop.json](./210747-arcade-archives-chackn-pop.json) |
@@ -9916,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries | 170824 | [170824-aries.json](./170824-aries.json) |
+| Aries | 264465 | [264465-aries.json](./264465-aries.json) |
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
