@@ -4452,6 +4452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Racing City | 116860 | [116860-retro-racing-city.json](./116860-retro-racing-city.json) |
 | Retro Raider | 58504 | [58504-retro-raider.json](./58504-retro-raider.json) |
 | Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
+| Retro Rally! | 274910 | [274910-retro-rally.json](./274910-retro-rally.json) |
 | Retro Relics | 312194 | [312194-retro-relics.json](./312194-retro-relics.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
@@ -6634,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Female Hero Remastered | 313003 | [313003-robot-female-hero-remastered.json](./313003-robot-female-hero-remastered.json) |
+| Robot Fight | 274888 | [274888-robot-fight.json](./274888-robot-fight.json) |
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
 | Robot Fighting | 86417 | [86417-robot-fighting.json](./86417-robot-fighting.json) |
