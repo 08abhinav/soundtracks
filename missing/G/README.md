@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galvatia | 169474 | [169474-galvatia.json](./169474-galvatia.json) |
 | Galves Adventure | 230310 | [230310-galves-adventure.json](./230310-galves-adventure.json) |
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
+| Gam3rAbduction | 276034 | [276034-gam3rabduction.json](./276034-gam3rabduction.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
 | Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
 | Gambaru Amabie-chan | 206049 | [206049-gambaru-amabie-chan.json](./206049-gambaru-amabie-chan.json) |
@@ -2062,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
+| Generation Zero: Advanced Intelligence Cosmetics Pack | 276062 | [276062-generation-zero-advanced-intelligence-cosmetics-pack.json](./276062-generation-zero-advanced-intelligence-cosmetics-pack.json) |
 | Generation Zero: Apparel Crafting | 170971 | [170971-generation-zero-apparel-crafting.json](./170971-generation-zero-apparel-crafting.json) |
 | Generation Zero: Base Defense Pack | 226796 | [226796-generation-zero-base-defense-pack.json](./226796-generation-zero-base-defense-pack.json) |
 | Generation Zero: Base Support Pack | 234923 | [234923-generation-zero-base-support-pack.json](./234923-generation-zero-base-support-pack.json) |
