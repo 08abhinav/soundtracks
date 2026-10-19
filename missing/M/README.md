@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marine Heavy Gunner: Vietnam | 27563 | [27563-marine-heavy-gunner-vietnam.json](./27563-marine-heavy-gunner-vietnam.json) |
 | Marine Philt | 66545 | [66545-marine-philt.json](./66545-marine-philt.json) |
 | Marine Quest | 313683 | [313683-marine-quest.json](./313683-marine-quest.json) |
+| Marine School Simulator | 292369 | [292369-marine-school-simulator.json](./292369-marine-school-simulator.json) |
 | Marine Sharpshooter | 77242 | [77242-marine-sharpshooter.json](./77242-marine-sharpshooter.json) |
 | Marine Sharpshooter 3 | 27561 | [27561-marine-sharpshooter-3.json](./27561-marine-sharpshooter-3.json) |
 | Marine Sharpshooter 4 | 27562 | [27562-marine-sharpshooter-4.json](./27562-marine-sharpshooter-4.json) |
@@ -8862,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindFall | 314360 | [314360-mindfall.json](./314360-mindfall.json) |
 | Mindfate | 319064 | [319064-mindfate.json](./319064-mindfate.json) |
 | Mindflux: Dead Man Walking | 319701 | [319701-mindflux-dead-man-walking.json](./319701-mindflux-dead-man-walking.json) |
+| Mindform | 292367 | [292367-mindform.json](./292367-mindform.json) |
 | Mindframe: The Secret Design - Collector's Edition | 132778 | [132778-mindframe-the-secret-design-collectors-edition.json](./132778-mindframe-the-secret-design-collectors-edition.json) |
 | Mindfunk in 13 Days | 397938 | [397938-mindfunk-in-13-days.json](./397938-mindfunk-in-13-days.json) |
 | MindGym | 172145 | [172145-mindgym.json](./172145-mindgym.json) |
@@ -12265,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
+| Mooon | 292371 | [292371-mooon.json](./292371-mooon.json) |
 | Mooooon | 397617 | [397617-mooooon.json](./397617-mooooon.json) |
 | Moop | 179665 | [179665-moop.json](./179665-moop.json) |
 | Moop and Dreadly in the Treasure on Bing Bong Island | 70035 | [70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json](./70035-moop-and-dreadly-in-the-treasure-on-bing-bong-island.json) |
