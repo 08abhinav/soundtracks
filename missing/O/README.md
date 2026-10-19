@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occhio | 31740 | [31740-occhio.json](./31740-occhio.json) |
 | Occidental Heroes | 388012 | [388012-occidental-heroes.json](./388012-occidental-heroes.json) |
 | Occult | 153954 | [153954-occult.json](./153954-occult.json) |
+| Occult Case Files: Case One | 273254 | [273254-occult-case-files-case-one.json](./273254-occult-case-files-case-one.json) |
 | Occult Chambers | 235186 | [235186-occult-chambers.json](./235186-occult-chambers.json) |
 | Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
@@ -1221,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Blade | 149885 | [149885-omega-blade.json](./149885-omega-blade.json) |
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
 | Omega Chase | 41985 | [41985-omega-chase.json](./41985-omega-chase.json) |
+| Omega Chase Deluxe | 273282 | [273282-omega-chase-deluxe.json](./273282-omega-chase-deluxe.json) |
 | Omega Chronos | 191667 | [191667-omega-chronos.json](./191667-omega-chronos.json) |
 | Omega Commando | 98337 | [98337-omega-commando.json](./98337-omega-commando.json) |
 | Omega Crafter | 236174 | [236174-omega-crafter.json](./236174-omega-crafter.json) |
@@ -2583,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation HuntingHawk : Breakthrough | 367938 | [367938-operation-huntinghawk-breakthrough.json](./367938-operation-huntinghawk-breakthrough.json) |
 | Operation Insanity | 163829 | [163829-operation-insanity.json](./163829-operation-insanity.json) |
 | Operation K.A.T.B. | 225713 | [225713-operation-k-a-t-b.json](./225713-operation-k-a-t-b.json) |
+| Operation Kolpowitz | 273226 | [273226-operation-kolpowitz.json](./273226-operation-kolpowitz.json) |
 | Operation Kreep | 33418 | [33418-operation-kreep.json](./33418-operation-kreep.json) |
 | Operation Logic Bomb | 42653 | [42653-operation-logic-bomb.json](./42653-operation-logic-bomb.json) |
 | Operation Mania | 72959 | [72959-operation-mania.json](./72959-operation-mania.json) |
@@ -3955,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Luna | 174363 | [174363-outpost-luna.json](./174363-outpost-luna.json) |
 | Outpost on Syrinx | 119602 | [119602-outpost-on-syrinx.json](./119602-outpost-on-syrinx.json) |
+| Outpost X | 273223 | [273223-outpost-x.json](./273223-outpost-x.json) |
 | Outpost Zero | 81207 | [81207-outpost-zero.json](./81207-outpost-zero.json) |
 | Outpost: Save Yourselves | 61697 | [61697-outpost-save-yourselves.json](./61697-outpost-save-yourselves.json) |
 | Outpost: Vikings | 158616 | [158616-outpost-vikings.json](./158616-outpost-vikings.json) |
