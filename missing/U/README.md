@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Adventure: Dogs | 309058 | [309058-ultimate-puzzle-adventure-dogs.json](./309058-ultimate-puzzle-adventure-dogs.json) |
+| Ultimate Puzzle Adventure: Kitties | 308614 | [308614-ultimate-puzzle-adventure-kitties.json](./308614-ultimate-puzzle-adventure-kitties.json) |
 | Ultimate Puzzle Games | 49287 | [49287-ultimate-puzzle-games.json](./49287-ultimate-puzzle-games.json) |
 | Ultimate Puzzle Games: Sudoku Edition | 124111 | [124111-ultimate-puzzle-games-sudoku-edition.json](./124111-ultimate-puzzle-games-sudoku-edition.json) |
 | Ultimate Puzzles 1500 | 53940 | [53940-ultimate-puzzles-1500.json](./53940-ultimate-puzzles-1500.json) |
