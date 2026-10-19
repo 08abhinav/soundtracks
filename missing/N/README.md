@@ -3257,6 +3257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Racing: Miami Street Traffic Racer | 106004 | [106004-night-racing-miami-street-traffic-racer.json](./106004-night-racing-miami-street-traffic-racer.json) |
 | Night Raid | 291021 | [291021-night-raid.json](./291021-night-raid.json) |
 | Night Raid | 80867 | [80867-night-raid.json](./80867-night-raid.json) |
+| Night Raider | 279474 | [279474-night-raider.json](./279474-night-raider.json) |
 | Night Ranger | 388213 | [388213-night-ranger.json](./388213-night-ranger.json) |
 | Night Record: Thin Walls | 405696 | [405696-night-record-thin-walls.json](./405696-night-record-thin-walls.json) |
 | Night Reverie | 139598 | [139598-night-reverie.json](./139598-night-reverie.json) |
@@ -3357,6 +3358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
+| NightFeed | 279461 | [279461-nightfeed.json](./279461-nightfeed.json) |
 | NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
 | Nightfire Open | 316773 | [316773-nightfire-open.json](./316773-nightfire-open.json) |
