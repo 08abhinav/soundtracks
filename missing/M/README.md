@@ -3136,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark-I: Mission Pilot | 156632 | [156632-mark-i-mission-pilot.json](./156632-mark-i-mission-pilot.json) |
 | Mark's Life | 150089 | [150089-marks-life.json](./150089-marks-life.json) |
 | Mark's Magnificent Marble Maze | 199515 | [199515-marks-magnificent-marble-maze.json](./199515-marks-magnificent-marble-maze.json) |
+| Mark's Power | 283070 | [283070-marks-power.json](./283070-marks-power.json) |
 | Marked by King Bs | 202706 | [202706-marked-by-king-bs.json](./202706-marked-by-king-bs.json) |
 | Marker Man Adventures | 47843 | [47843-marker-man-adventures.json](./47843-marker-man-adventures.json) |
 | Markerboard Jungle: Frogs | 159747 | [159747-markerboard-jungle-frogs.json](./159747-markerboard-jungle-frogs.json) |
@@ -16022,6 +16023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystia2 | 292090 | [292090-mystia2.json](./292090-mystia2.json) |
 | Mystia3 | 381723 | [381723-mystia3.json](./381723-mystia3.json) |
 | Mystic | 371370 | [371370-mystic.json](./371370-mystic.json) |
+| Mystic Academy: Escape Room | 283026 | [283026-mystic-academy-escape-room.json](./283026-mystic-academy-escape-room.json) |
 | Mystic Ark | 42484 | [42484-mystic-ark.json](./42484-mystic-ark.json) |
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
