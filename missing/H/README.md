@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
 | Hangul Attack | 141664 | [141664-hangul-attack.json](./141664-hangul-attack.json) |
+| Hangul Shooter | 291332 | [291332-hangul-shooter.json](./291332-hangul-shooter.json) |
 | Hangul Typing Tale | 362989 | [362989-hangul-typing-tale.json](./362989-hangul-typing-tale.json) |
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hani | 144053 | [144053-hani.json](./144053-hani.json) |
@@ -2690,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
 | Heavy Spoilers RPG 2: Your Best Friend Is Actually the Great Demon King | 377945 | [377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json](./377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
+| Heavy Storm Shadow | 291319 | [291319-heavy-storm-shadow.json](./291319-heavy-storm-shadow.json) |
 | Heavy Sword | 259037 | [259037-heavy-sword.json](./259037-heavy-sword.json) |
 | Heavy Traffic | 272334 | [272334-heavy-traffic.json](./272334-heavy-traffic.json) |
 | Heavy Truck Simulator | 58250 | [58250-heavy-truck-simulator.json](./58250-heavy-truck-simulator.json) |
