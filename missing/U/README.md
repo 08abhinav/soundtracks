@@ -1099,6 +1099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Chop's Rocket Shop | 214710 | [214710-uncle-chops-rocket-shop.json](./214710-uncle-chops-rocket-shop.json) |
 | Uncle Chop's Rocket Shop: Deluxe Edition | 327460 | [327460-uncle-chops-rocket-shop-deluxe-edition.json](./327460-uncle-chops-rocket-shop-deluxe-edition.json) |
 | Uncle Chuck Incorporated | 319871 | [319871-uncle-chuck-incorporated.json](./319871-uncle-chuck-incorporated.json) |
+| Uncle Clyde's Consonant Slides | 285868 | [285868-uncle-clydes-consonant-slides.json](./285868-uncle-clydes-consonant-slides.json) |
 | Uncle Henry's Playhouse | 20197 | [20197-uncle-henrys-playhouse.json](./20197-uncle-henrys-playhouse.json) |
 | Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
 | Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow: Street Symphony | 304788 | [304788-urban-flow-street-symphony.json](./304788-urban-flow-street-symphony.json) |
 | Urban Flow: Winter Expansion Pack | 238353 | [238353-urban-flow-winter-expansion-pack.json](./238353-urban-flow-winter-expansion-pack.json) |
 | Urban Flow: X-Mas Edition | 275893 | [275893-urban-flow-x-mas-edition.json](./275893-urban-flow-x-mas-edition.json) |
+| Urban Forest | 285887 | [285887-urban-forest.json](./285887-urban-forest.json) |
 | Urban Golf: Hot Dog Edition | 385446 | [385446-urban-golf-hot-dog-edition.json](./385446-urban-golf-hot-dog-edition.json) |
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
