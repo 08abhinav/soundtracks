@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Speaking with the Dead | 187932 | [187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json](./187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json) |
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
+| Dark Tales: Edgar Allan Poe's The Black Cat | 257823 | [257823-dark-tales-edgar-allan-poes-the-black-cat.json](./257823-dark-tales-edgar-allan-poes-the-black-cat.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Scan | 80208 | [80208-deep-scan.json](./80208-deep-scan.json) |
 | Deep Scanner | 287778 | [287778-deep-scanner.json](./287778-deep-scanner.json) |
 | Deep Sea | 124155 | [124155-deep-sea.json](./124155-deep-sea.json) |
+| Deep Sea | 257824 | [257824-deep-sea.json](./257824-deep-sea.json) |
 | Deep Sea Adventure: Kaitei Kyuu Panthalassa no Nazo | 341917 | [341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json](./341917-deep-sea-adventure-kaitei-kyuu-panthalassa-no-nazo.json) |
 | Deep Sea Arena | 344350 | [344350-deep-sea-arena.json](./344350-deep-sea-arena.json) |
 | Deep Sea Bubble Shooter: Reflex Challenge | 385862 | [385862-deep-sea-bubble-shooter-reflex-challenge.json](./385862-deep-sea-bubble-shooter-reflex-challenge.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional: Prophecy of Zohar | 187888 | [187888-dimensional-prophecy-of-zohar.json](./187888-dimensional-prophecy-of-zohar.json) |
 | Dimensional: Prophecy of Zohar 2 | 342892 | [342892-dimensional-prophecy-of-zohar-2.json](./342892-dimensional-prophecy-of-zohar-2.json) |
 | DimensionalDoors | 232666 | [232666-dimensionaldoors.json](./232666-dimensionaldoors.json) |
+| Dimensionals | 257821 | [257821-dimensionals.json](./257821-dimensionals.json) |
 | Dimensione Sconosciuta | 405505 | [405505-dimensione-sconosciuta.json](./405505-dimensione-sconosciuta.json) |
 | Dimensionless | 241296 | [241296-dimensionless.json](./241296-dimensionless.json) |
 | Dimensions | 141810 | [141810-dimensions.json](./141810-dimensions.json) |
@@ -11302,6 +11305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drags Tavern | 315009 | [315009-drags-tavern.json](./315009-drags-tavern.json) |
 | Dragster | 312255 | [312255-dragster.json](./312255-dragster.json) |
 | Dragster | 46885 | [46885-dragster.json](./46885-dragster.json) |
+| Dragster Mayhem: Top Fuel Sim | 257783 | [257783-dragster-mayhem-top-fuel-sim.json](./257783-dragster-mayhem-top-fuel-sim.json) |
 | Dragu's Puzzle Adventure | 155648 | [155648-dragus-puzzle-adventure.json](./155648-dragus-puzzle-adventure.json) |
 | Draid | 111532 | [111532-draid.json](./111532-draid.json) |
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
@@ -13029,6 +13033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Sherlock: The Hot Dogs of the Bakerville | 419923 | [419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json](./419923-dumb-sherlock-the-hot-dogs-of-the-bakerville.json) |
 | Dumb Stone | 55274 | [55274-dumb-stone.json](./55274-dumb-stone.json) |
 | Dumb Ways to Build | 414526 | [414526-dumb-ways-to-build.json](./414526-dumb-ways-to-build.json) |
+| Dumb Ways to Climb | 257792 | [257792-dumb-ways-to-climb.json](./257792-dumb-ways-to-climb.json) |
 | Dumb Ways to Die | 80659 | [80659-dumb-ways-to-die.json](./80659-dumb-ways-to-die.json) |
 | Dumb Ways to Die 2: The Games | 57455 | [57455-dumb-ways-to-die-2-the-games.json](./57455-dumb-ways-to-die-2-the-games.json) |
 | Dumb Ways to Die 3: World Tour | 99133 | [99133-dumb-ways-to-die-3-world-tour.json](./99133-dumb-ways-to-die-3-world-tour.json) |
