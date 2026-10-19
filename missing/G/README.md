@@ -878,6 +878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game classix | 91593 | [91593-game-classix.json](./91593-game-classix.json) |
 | Game club "Waka-Waka" | 117064 | [117064-game-club-waka-waka.json](./117064-game-club-waka-waka.json) |
 | Game Collecting Simulator | 239714 | [239714-game-collecting-simulator.json](./239714-game-collecting-simulator.json) |
+| Game Collection 1 | 308644 | [308644-game-collection-1.json](./308644-game-collection-1.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
 | Game Company Simulator: Back to 2000 | 372837 | [372837-game-company-simulator-back-to-2000.json](./372837-game-company-simulator-back-to-2000.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
@@ -1479,7 +1480,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban 2 | 231437 | [231437-garten-of-banban-2.json](./231437-garten-of-banban-2.json) |
 | Garten of Banban 7 | 280891 | [280891-garten-of-banban-7.json](./280891-garten-of-banban-7.json) |
 | Garten of Banban Bundle: 0 + 1 + 2 + 3 + 4 + 6 + 7 + 8 | 379359 | [379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json](./379359-garten-of-banban-bundle-0-1-2-3-4-6-7-8.json) |
+| Garten of Banban Bundle: 1 + 2 | 308643 | [308643-garten-of-banban-bundle-1-2.json](./308643-garten-of-banban-bundle-1-2.json) |
 | Garten of Banban Bundle: 1 + 2 + 3 + 4 | 308589 | [308589-garten-of-banban-bundle-1-2-3-4.json](./308589-garten-of-banban-bundle-1-2-3-4.json) |
+| Garten of Banban Bundle: 3 + 4 | 308617 | [308617-garten-of-banban-bundle-3-4.json](./308617-garten-of-banban-bundle-3-4.json) |
 | Garten of Banban VR: Distorting Clay | 324742 | [324742-garten-of-banban-vr-distorting-clay.json](./324742-garten-of-banban-vr-distorting-clay.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
