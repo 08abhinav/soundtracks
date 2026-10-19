@@ -9296,6 +9296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcaea | 147946 | [147946-arcaea.json](./147946-arcaea.json) |
 | Arcaea | 27997 | [27997-arcaea.json](./27997-arcaea.json) |
 | Arcalast: The world that ends and the fruit of the diva | 117151 | [117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json](./117151-arcalast-the-world-that-ends-and-the-fruit-of-the-diva.json) |
+| Arcana | 271084 | [271084-arcana.json](./271084-arcana.json) |
 | Arcana | 332308 | [332308-arcana.json](./332308-arcana.json) |
 | Arcana | 347736 | [347736-arcana.json](./347736-arcana.json) |
 | Arcana | 3652 | [3652-arcana.json](./3652-arcana.json) |
@@ -10880,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Resolve | 413503 | [413503-ashes-of-resolve.json](./413503-ashes-of-resolve.json) |
 | Ashes of Sombtir | 275883 | [275883-ashes-of-sombtir.json](./275883-ashes-of-sombtir.json) |
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
+| Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 124815 | [124815-ashes-of-the-singularity-escalation-gauntlet.json](./124815-ashes-of-the-singularity-escalation-gauntlet.json) |
 | Ashes of the Singularity: Escalation - Gauntlet | 170302 | [170302-ashes-of-the-singularity-escalation-gauntlet.json](./170302-ashes-of-the-singularity-escalation-gauntlet.json) |
@@ -12409,6 +12411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Offroad Fury 3 | 8271 | [8271-atv-offroad-fury-3.json](./8271-atv-offroad-fury-3.json) |
 | ATV Offroad Fury Pro | 8274 | [8274-atv-offroad-fury-pro.json](./8274-atv-offroad-fury-pro.json) |
 | ATV Offroad Fury: Blazin' Trails | 8272 | [8272-atv-offroad-fury-blazin-trails.json](./8272-atv-offroad-fury-blazin-trails.json) |
+| ATV Offroad Simulator 24 | 271091 | [271091-atv-offroad-simulator-24.json](./271091-atv-offroad-simulator-24.json) |
 | ATV Pure | 99978 | [99978-atv-pure.json](./99978-atv-pure.json) |
 | ATV Quad Bike Simulator 2018: Bike Taxi Games | 103666 | [103666-atv-quad-bike-simulator-2018-bike-taxi-games.json](./103666-atv-quad-bike-simulator-2018-bike-taxi-games.json) |
 | ATV Quad Frenzy | 69810 | [69810-atv-quad-frenzy.json](./69810-atv-quad-frenzy.json) |
@@ -12842,6 +12845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avaricity: New Shadows | 303059 | [303059-avaricity-new-shadows.json](./303059-avaricity-new-shadows.json) |
 | Avaris | 377821 | [377821-avaris.json](./377821-avaris.json) |
 | Avaris 2 | 377822 | [377822-avaris-2.json](./377822-avaris-2.json) |
+| Avaris3 | 271104 | [271104-avaris3.json](./271104-avaris3.json) |
 | Avast: Scourge of Sea | 315094 | [315094-avast-scourge-of-sea.json](./315094-avast-scourge-of-sea.json) |
 | Avataaah!!! | 94152 | [94152-avataaah.json](./94152-avataaah.json) |
 | Avatar | 80928 | [80928-avatar.json](./80928-avatar.json) |
@@ -13002,6 +13006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AvoCuddle | 117839 | [117839-avocuddle.json](./117839-avocuddle.json) |
 | Avoid | 152135 | [152135-avoid.json](./152135-avoid.json) |
 | Avoid | 177406 | [177406-avoid.json](./177406-avoid.json) |
+| Avoid | 271101 | [271101-avoid.json](./271101-avoid.json) |
 | Avoid Ahoge | 179606 | [179606-avoid-ahoge.json](./179606-avoid-ahoge.json) |
 | Avoid Falls! | 293477 | [293477-avoid-falls.json](./293477-avoid-falls.json) |
 | Avoid It! | 241420 | [241420-avoid-it.json](./241420-avoid-it.json) |
