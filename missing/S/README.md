@@ -6989,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrine to Anubis | 135685 | [135685-shrine-to-anubis.json](./135685-shrine-to-anubis.json) |
 | Shrine: Circus Tycoon | 206970 | [206970-shrine-circus-tycoon.json](./206970-shrine-circus-tycoon.json) |
 | Shrine's Legacy | 139352 | [139352-shrines-legacy.json](./139352-shrines-legacy.json) |
+| Shrineflow | 304434 | [304434-shrineflow.json](./304434-shrineflow.json) |
 | Shrines of Power | 278682 | [278682-shrines-of-power.json](./278682-shrines-of-power.json) |
 | Shrines of Sacred Essenсe | 110991 | [110991-shrines-of-sacred-essen-e.json](./110991-shrines-of-sacred-essen-e.json) |
 | Shrink Rooms | 339971 | [339971-shrink-rooms.json](./339971-shrink-rooms.json) |
@@ -19364,6 +19365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve: Operation Nuts | 295010 | [295010-steve-operation-nuts.json](./295010-steve-operation-nuts.json) |
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
+| Steve's Warehouse: Physics. Roguelike. Chaos. | 304436 | [304436-steves-warehouse-physics-roguelike-chaos.json](./304436-steves-warehouse-physics-roguelike-chaos.json) |
 | Steven Gerrard's Total Soccer 2002 | 49249 | [49249-steven-gerrards-total-soccer-2002.json](./49249-steven-gerrards-total-soccer-2002.json) |
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
@@ -20972,6 +20974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuntman: Ignition | 2783 | [2783-stuntman-ignition.json](./2783-stuntman-ignition.json) |
 | Stunts | 11630 | [11630-stunts.json](./11630-stunts.json) |
 | Stunts above Clouds 2 | 296988 | [296988-stunts-above-clouds-2.json](./296988-stunts-above-clouds-2.json) |
+| Stunts above Clouds 3 | 304465 | [304465-stunts-above-clouds-3.json](./304465-stunts-above-clouds-3.json) |
 | Stunts Contest Extreme Cars | 216864 | [216864-stunts-contest-extreme-cars.json](./216864-stunts-contest-extreme-cars.json) |
 | Stunts Contest Monster Car | 225196 | [225196-stunts-contest-monster-car.json](./225196-stunts-contest-monster-car.json) |
 | Stunts Contest Police Car | 393016 | [393016-stunts-contest-police-car.json](./393016-stunts-contest-police-car.json) |
@@ -21698,6 +21701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumerian Blood: Gilgamesh against the Gods | 104013 | [104013-sumerian-blood-gilgamesh-against-the-gods.json](./104013-sumerian-blood-gilgamesh-against-the-gods.json) |
 | Sumerian Six | 305175 | [305175-sumerian-six.json](./305175-sumerian-six.json) |
 | Sumerians | 126511 | [126511-sumerians.json](./126511-sumerians.json) |
+| Sumerians: Assyrian Statues | 304462 | [304462-sumerians-assyrian-statues.json](./304462-sumerians-assyrian-statues.json) |
 | Sumeru | 32210 | [32210-sumeru.json](./32210-sumeru.json) |
 | Sumetrick | 81621 | [81621-sumetrick.json](./81621-sumetrick.json) |
 | Sumi Sumi | 108511 | [108511-sumi-sumi.json](./108511-sumi-sumi.json) |
