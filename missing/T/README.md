@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
 | TDS: War Games | 203541 | [203541-tds-war-games.json](./203541-tds-war-games.json) |
+| Te Amo Mamá | 306753 | [306753-te-amo-mama.json](./306753-te-amo-mama.json) |
 | Te Encontré | 189986 | [189986-te-encontre.json](./189986-te-encontre.json) |
 | Te to Te Try on! | 402460 | [402460-te-to-te-try-on.json](./402460-te-to-te-try-on.json) |
 | Tea for God | 175782 | [175782-tea-for-god.json](./175782-tea-for-god.json) |
@@ -2575,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teeter Torture | 39513 | [39513-teeter-torture.json](./39513-teeter-torture.json) |
 | Teeth Brushing Simulator | 228730 | [228730-teeth-brushing-simulator.json](./228730-teeth-brushing-simulator.json) |
 | Teeth Cutter | 390617 | [390617-teeth-cutter.json](./390617-teeth-cutter.json) |
+| Teeth of Glass | 306769 | [306769-teeth-of-glass.json](./306769-teeth-of-glass.json) |
 | Teething | 63797 | [63797-teething.json](./63797-teething.json) |
 | Teeto | 285987 | [285987-teeto.json](./285987-teeto.json) |
 | Teeworlds | 35005 | [35005-teeworlds.json](./35005-teeworlds.json) |
