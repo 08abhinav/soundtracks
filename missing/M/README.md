@@ -1962,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall Tycoon - Billionaires Club Game | 106773 | [106773-mall-tycoon-billionaires-club-game.json](./106773-mall-tycoon-billionaires-club-game.json) |
 | Mall Tycoon 3 | 69181 | [69181-mall-tycoon-3.json](./69181-mall-tycoon-3.json) |
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
+| Mallet Mania | 308063 | [308063-mallet-mania.json](./308063-mallet-mania.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
 | Malleus Maleficarum | 373104 | [373104-malleus-maleficarum.json](./373104-malleus-maleficarum.json) |
 | Malleus Maleficarum: The Witch of San Ignacio | 318794 | [318794-malleus-maleficarum-the-witch-of-san-ignacio.json](./318794-malleus-maleficarum-the-witch-of-san-ignacio.json) |
@@ -9583,6 +9584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniTrans | 202664 | [202664-minitrans.json](./202664-minitrans.json) |
 | Minitroid | 228960 | [228960-minitroid.json](./228960-minitroid.json) |
 | MiniTurn | 133127 | [133127-miniturn.json](./133127-miniturn.json) |
+| Minivader | 308008 | [308008-minivader.json](./308008-minivader.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | MiniWood VR | 118159 | [118159-miniwood-vr.json](./118159-miniwood-vr.json) |
@@ -11032,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
+| Mondo Reico | 308015 | [308015-mondo-reico.json](./308015-mondo-reico.json) |
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
 | Mondrian Provoked | 68896 | [68896-mondrian-provoked.json](./68896-mondrian-provoked.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
@@ -11944,6 +11947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument: Invasion | 308501 | [308501-monument-invasion.json](./308501-monument-invasion.json) |
 | Monument: Ultimate Edition | 317249 | [317249-monument-ultimate-edition.json](./317249-monument-ultimate-edition.json) |
 | Monumental Failure | 29940 | [29940-monumental-failure.json](./29940-monumental-failure.json) |
+| Monuments | 308069 | [308069-monuments.json](./308069-monuments.json) |
 | Monuments Flipper | 132741 | [132741-monuments-flipper.json](./132741-monuments-flipper.json) |
 | Monuments of Mars | 35550 | [35550-monuments-of-mars.json](./35550-monuments-of-mars.json) |
 | Monuments of Mars 2 | 300404 | [300404-monuments-of-mars-2.json](./300404-monuments-of-mars-2.json) |
@@ -12699,6 +12703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mosaique Neko Waifus 3 | 151283 | [151283-mosaique-neko-waifus-3.json](./151283-mosaique-neko-waifus-3.json) |
 | Mosaique Neko Waifus 4 | 167809 | [167809-mosaique-neko-waifus-4.json](./167809-mosaique-neko-waifus-4.json) |
 | Mosaique Neko Waifus 5 | 221206 | [221206-mosaique-neko-waifus-5.json](./221206-mosaique-neko-waifus-5.json) |
+| Moscoleta | 308017 | [308017-moscoleta.json](./308017-moscoleta.json) |
 | Moscow Metro Wars | 348415 | [348415-moscow-metro-wars.json](./348415-moscow-metro-wars.json) |
 | Moscow Rush | 120765 | [120765-moscow-rush.json](./120765-moscow-rush.json) |
 | Moscow to Berlin: Red Siege | 20541 | [20541-moscow-to-berlin-red-siege.json](./20541-moscow-to-berlin-red-siege.json) |
