@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Arkania: Blade of Destiny - For the Gods | 170452 | [170452-realms-of-arkania-blade-of-destiny-for-the-gods.json](./170452-realms-of-arkania-blade-of-destiny-for-the-gods.json) |
 | Realms of Arkania: Blade of Destiny - Ogredeath | 170453 | [170453-realms-of-arkania-blade-of-destiny-ogredeath.json](./170453-realms-of-arkania-blade-of-destiny-ogredeath.json) |
 | Realms of Arkania: Blade of Destiny + Star Trail | 93214 | [93214-realms-of-arkania-blade-of-destiny-star-trail.json](./93214-realms-of-arkania-blade-of-destiny-star-trail.json) |
+| Realms of Cronos | 268916 | [268916-realms-of-cronos.json](./268916-realms-of-cronos.json) |
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
@@ -4252,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respublica | 126426 | [126426-respublica.json](./126426-respublica.json) |
 | Resquid | 182916 | [182916-resquid.json](./182916-resquid.json) |
 | Ressolve Steps | 375841 | [375841-ressolve-steps.json](./375841-ressolve-steps.json) |
+| Ressurection of Chaos | 268902 | [268902-ressurection-of-chaos.json](./268902-ressurection-of-chaos.json) |
 | Rest | 120149 | [120149-rest.json](./120149-rest.json) |
 | Rest Area Simulator | 373009 | [373009-rest-area-simulator.json](./373009-rest-area-simulator.json) |
 | Rest Guardian | 344521 | [344521-rest-guardian.json](./344521-rest-guardian.json) |
@@ -6148,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riverflow | 252267 | [252267-riverflow.json](./252267-riverflow.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riversiders | 253418 | [253418-riversiders.json](./253418-riversiders.json) |
+| Riverwood Village | 268909 | [268909-riverwood-village.json](./268909-riverwood-village.json) |
 | Rivet | 137987 | [137987-rivet.json](./137987-rivet.json) |
 | Rivets and Rivals | 371641 | [371641-rivets-and-rivals.json](./371641-rivets-and-rivals.json) |
 | Riviera: The Promised Land | 304131 | [304131-riviera-the-promised-land.json](./304131-riviera-the-promised-land.json) |
