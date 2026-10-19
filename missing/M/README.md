@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fight Club Wii: Wi-Fi Taiou | 125914 | [125914-mahjong-fight-club-wii-wi-fi-taiou.json](./125914-mahjong-fight-club-wii-wi-fi-taiou.json) |
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
 | Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
+| Mahjong Fight Girl | 286381 | [286381-mahjong-fight-girl.json](./286381-mahjong-fight-girl.json) |
 | Mahjong Forest Journey | 108591 | [108591-mahjong-forest-journey.json](./108591-mahjong-forest-journey.json) |
 | Mahjong G-taste | 137933 | [137933-mahjong-g-taste.json](./137933-mahjong-g-taste.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
@@ -1474,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Refresh | 114173 | [114173-mahjong-solitaire-refresh.json](./114173-mahjong-solitaire-refresh.json) |
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
+| Mahjong Strip Solitaire: Harem Guild | 286410 | [286410-mahjong-strip-solitaire-harem-guild.json](./286410-mahjong-strip-solitaire-harem-guild.json) |
 | Mahjong Taikai | 48788 | [48788-mahjong-taikai.json](./48788-mahjong-taikai.json) |
 | Mahjong Taikai | 80797 | [80797-mahjong-taikai.json](./80797-mahjong-taikai.json) |
 | Mahjong Taikai II | 37936 | [37936-mahjong-taikai-ii.json](./37936-mahjong-taikai-ii.json) |
@@ -8453,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miitopia | 143620 | [143620-miitopia.json](./143620-miitopia.json) |
 | Miiverse Clone RPG | 329602 | [329602-miiverse-clone-rpg.json](./329602-miiverse-clone-rpg.json) |
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
+| Mik: Legacy | 286416 | [286416-mik-legacy.json](./286416-mik-legacy.json) |
 | Mika 'Sweeper' Spin | 100106 | [100106-mika-sweeper-spin.json](./100106-mika-sweeper-spin.json) |
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
@@ -8744,6 +8747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
 | MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
+| Mimimishka | 286404 | [286404-mimimishka.json](./286404-mimimishka.json) |
 | Mimir's Recruit | 166822 | [166822-mimirs-recruit.json](./166822-mimirs-recruit.json) |
 | Mimizu Panzer | 267645 | [267645-mimizu-panzer.json](./267645-mimizu-panzer.json) |
 | Mimo | 178448 | [178448-mimo.json](./178448-mimo.json) |
@@ -14956,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Forged Wedding: Party | 238422 | [238422-my-forged-wedding-party.json](./238422-my-forged-wedding-party.json) |
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
+| My Free Farm | 286409 | [286409-my-free-farm.json](./286409-my-free-farm.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
