@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
+| Raven Go! | 280639 | [280639-raven-go.json](./280639-raven-go.json) |
 | Raven Gold | 329065 | [329065-raven-gold.json](./329065-raven-gold.json) |
 | Raven II | 357402 | [357402-raven-ii.json](./357402-raven-ii.json) |
 | Raven Port | 151460 | [151460-raven-port.json](./151460-raven-port.json) |
@@ -4387,6 +4388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Classix 4in1 Pack: Sly Spy, Shootout, Wizard Fire & Super Real Darwin | 147904 | [147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json](./147904-retro-classix-4in1-pack-sly-spy-shootout-wizard-fire-and-super-real-darwin.json) |
 | Retro Classix Collection #1: Data East | 147905 | [147905-retro-classix-collection-1-data-east.json](./147905-retro-classix-collection-1-data-east.json) |
 | Retro Clicker | 149603 | [149603-retro-clicker.json](./149603-retro-clicker.json) |
+| Retro Collection 1 | 280632 | [280632-retro-collection-1.json](./280632-retro-collection-1.json) |
 | Retro Commander | 165060 | [165060-retro-commander.json](./165060-retro-commander.json) |
 | Retro Cube Slider | 421381 | [421381-retro-cube-slider.json](./421381-retro-cube-slider.json) |
 | Retro Derby | 202047 | [202047-retro-derby.json](./202047-retro-derby.json) |
