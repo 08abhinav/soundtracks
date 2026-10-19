@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Novak | 270552 | [270552-john-novak.json](./270552-john-novak.json) |
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
