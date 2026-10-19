@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-Stop: Backstory | 362479 | [362479-f-stop-backstory.json](./362479-f-stop-backstory.json) |
 | F-Stop: Reissue | 362475 | [362475-f-stop-reissue.json](./362475-f-stop-reissue.json) |
 | F-Team | 211803 | [211803-f-team.json](./211803-f-team.json) |
+| F-Theta | 281266 | [281266-f-theta.json](./281266-f-theta.json) |
 | F-Zero | 3490 | [3490-f-zero.json](./3490-f-zero.json) |
 | F-Zero 99: Ver. 1.5.0 | 329658 | [329658-f-zero-99-ver-1-5-0.json](./329658-f-zero-99-ver-1-5-0.json) |
 | F-Zero AX | 78271 | [78271-f-zero-ax.json](./78271-f-zero-ax.json) |
@@ -500,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy and Devil | 155577 | [155577-fairy-and-devil.json](./155577-fairy-and-devil.json) |
 | Fairy Bakery Workshop | 182456 | [182456-fairy-bakery-workshop.json](./182456-fairy-bakery-workshop.json) |
 | Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
+| Fairy Bloom | 281283 | [281283-fairy-bloom.json](./281283-fairy-bloom.json) |
 | Fairy Bloom Ultra Encore | 22784 | [22784-fairy-bloom-ultra-encore.json](./22784-fairy-bloom-ultra-encore.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
@@ -3073,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibonacci's Final Sequence | 287209 | [287209-fibonaccis-final-sequence.json](./287209-fibonaccis-final-sequence.json) |
 | Fibras | 378446 | [378446-fibras.json](./378446-fibras.json) |
 | Fibre | 108877 | [108877-fibre.json](./108877-fibre.json) |
+| Fibrilis | 281301 | [281301-fibrilis.json](./281301-fibrilis.json) |
 | Fibrillation HD | 30415 | [30415-fibrillation-hd.json](./30415-fibrillation-hd.json) |
 | Fibula | 253945 | [253945-fibula.json](./253945-fibula.json) |
 | Fibula Wars | 145293 | [145293-fibula-wars.json](./145293-fibula-wars.json) |
