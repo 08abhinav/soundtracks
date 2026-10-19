@@ -14638,6 +14638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirate Trainer | 34041 | [34041-space-pirate-trainer.json](./34041-space-pirate-trainer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
+| Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
 | Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
@@ -21757,6 +21758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Universe | 122322 | [122322-sudoku-universe.json](./122322-sudoku-universe.json) |
 | Sudoku Uno | 87305 | [87305-sudoku-uno.json](./87305-sudoku-uno.json) |
 | Sudoku Vacation 2 | 234646 | [234646-sudoku-vacation-2.json](./234646-sudoku-vacation-2.json) |
+| Sudoku Variants by Logic Wiz | 263911 | [263911-sudoku-variants-by-logic-wiz.json](./263911-sudoku-variants-by-logic-wiz.json) |
 | Sudoku XL | 90885 | [90885-sudoku-xl.json](./90885-sudoku-xl.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
