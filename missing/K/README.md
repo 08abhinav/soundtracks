@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katapila | 266654 | [266654-katapila.json](./266654-katapila.json) |
 | Kataribesou: Ensouki | 229386 | [229386-kataribesou-ensouki.json](./229386-kataribesou-ensouki.json) |
 | Katarina's Farm | 254619 | [254619-katarinas-farm.json](./254619-katarinas-farm.json) |
+| KatataK | 259969 | [259969-katatak.json](./259969-katatak.json) |
 | Kataude no Zarigani: One-armed Crayfish | 330536 | [330536-kataude-no-zarigani-one-armed-crayfish.json](./330536-kataude-no-zarigani-one-armed-crayfish.json) |
 | Katawa Crash | 251077 | [251077-katawa-crash.json](./251077-katawa-crash.json) |
 | Katawa Shoujo | 310603 | [310603-katawa-shoujo.json](./310603-katawa-shoujo.json) |
@@ -1342,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keo | 168124 | [168124-keo.json](./168124-keo.json) |
 | Keo and the Cosmic Crystals | 266070 | [266070-keo-and-the-cosmic-crystals.json](./266070-keo-and-the-cosmic-crystals.json) |
 | Keomtuseu Peuroyagu V22 | 215844 | [215844-keomtuseu-peuroyagu-v22.json](./215844-keomtuseu-peuroyagu-v22.json) |
+| Kepler Attack | 259973 | [259973-kepler-attack.json](./259973-kepler-attack.json) |
 | Kepler Galaxy Wars: Rebel Alliance Mission | 99981 | [99981-kepler-galaxy-wars-rebel-alliance-mission.json](./99981-kepler-galaxy-wars-rebel-alliance-mission.json) |
 | Kepler-2100 | 283031 | [283031-kepler-2100.json](./283031-kepler-2100.json) |
 | Keplerth | 95587 | [95587-keplerth.json](./95587-keplerth.json) |
@@ -1718,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids on Site: Hard Hat Edition | 209925 | [209925-kids-on-site-hard-hat-edition.json](./209925-kids-on-site-hard-hat-edition.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
+| Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
 | Kids Slide Puzzle World mystic squares 15 game | 100290 | [100290-kids-slide-puzzle-world-mystic-squares-15-game.json](./100290-kids-slide-puzzle-world-mystic-squares-15-game.json) |
 | Kids Station: Asobou! Hanasou! Guru-guru Town Hanamaru-kun | 148374 | [148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json](./148374-kids-station-asobou-hanasou-guru-guru-town-hanamaru-kun.json) |
 | Kids Station: Barbapapa | 148377 | [148377-kids-station-barbapapa.json](./148377-kids-station-barbapapa.json) |
