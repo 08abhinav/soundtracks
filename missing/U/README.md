@@ -933,6 +933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko: Golden Forgery | 403537 | [403537-umineko-golden-forgery.json](./403537-umineko-golden-forgery.json) |
 | Umineko: Ougon Musou Kyoku - Cross | 79850 | [79850-umineko-ougon-musou-kyoku-cross.json](./79850-umineko-ougon-musou-kyoku-cross.json) |
 | Umiro | 90720 | [90720-umiro.json](./90720-umiro.json) |
+| Umisen Yamasen | 258877 | [258877-umisen-yamasen.json](./258877-umisen-yamasen.json) |
 | Umisho | 62407 | [62407-umisho.json](./62407-umisho.json) |
 | Umiuru to Sudoku Shiyo! | 124119 | [124119-umiuru-to-sudoku-shiyo.json](./124119-umiuru-to-sudoku-shiyo.json) |
 | Umokay 64DS | 215203 | [215203-umokay-64ds.json](./215203-umokay-64ds.json) |
