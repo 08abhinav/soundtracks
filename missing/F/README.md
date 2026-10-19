@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Blades | 420016 | [420016-fallen-blades.json](./420016-fallen-blades.json) |
 | Fallen Bride Mege | 215933 | [215933-fallen-bride-mege.json](./215933-fallen-bride-mege.json) |
 | Fallen Cage | 326055 | [326055-fallen-cage.json](./326055-fallen-cage.json) |
+| Fallen Castle | 302784 | [302784-fallen-castle.json](./302784-fallen-castle.json) |
 | Fallen Cube | 48006 | [48006-fallen-cube.json](./48006-fallen-cube.json) |
 | Fallen Deities | 316654 | [316654-fallen-deities.json](./316654-fallen-deities.json) |
 | Fallen Depths | 336501 | [336501-fallen-depths.json](./336501-fallen-depths.json) |
@@ -7162,6 +7163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Neon 3D | 90350 | [90350-forge-of-neon-3d.json](./90350-forge-of-neon-3d.json) |
 | Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
+| Forge Simulator | 302811 | [302811-forge-simulator.json](./302811-forge-simulator.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
 | Forged Alliance Forever | 142868 | [142868-forged-alliance-forever.json](./142868-forged-alliance-forever.json) |
@@ -9476,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fu-Fu-Chan: Way Up! | 408933 | [408933-fu-fu-chan-way-up.json](./408933-fu-fu-chan-way-up.json) |
 | Fu'un Super Combo | 84318 | [84318-fuun-super-combo.json](./84318-fuun-super-combo.json) |
 | Fubar | 144062 | [144062-fubar.json](./144062-fubar.json) |
+| FUBG: Fight Unknown Battleground | 302804 | [302804-fubg-fight-unknown-battleground.json](./302804-fubg-fight-unknown-battleground.json) |
 | Fubuki: Zero in on Holoearth | 331530 | [331530-fubuki-zero-in-on-holoearth.json](./331530-fubuki-zero-in-on-holoearth.json) |
 | Fǔchéng Shàonǚ: Yǐ Nǐ Wéi Míng de Fǔchéng Qíngshū | 163891 | [163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json](./163891-fucheng-shaonu-yi-ni-wei-ming-de-fucheng-qingshu.json) |
 | Fùchóuzhě Liánméng: Zhōngjí Yīngxióng | 82052 | [82052-fuchouzhe-lianmeng-zhongji-yingxiong.json](./82052-fuchouzhe-lianmeng-zhongji-yingxiong.json) |
