@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare Remastered - Variety Map Pack | 168155 | [168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json](./168155-call-of-duty-modern-warfare-remastered-variety-map-pack.json) |
 | Call of Duty: Modern Warfare Trilogy | 42975 | [42975-call-of-duty-modern-warfare-trilogy.json](./42975-call-of-duty-modern-warfare-trilogy.json) |
 | Call of Duty: Roads to Victory | 3120 | [3120-call-of-duty-roads-to-victory.json](./3120-call-of-duty-roads-to-victory.json) |
+| Call of Duty: Siege | 296822 | [296822-call-of-duty-siege.json](./296822-call-of-duty-siege.json) |
 | Call of Duty: Spain at War | 339954 | [339954-call-of-duty-spain-at-war.json](./339954-call-of-duty-spain-at-war.json) |
 | Call of Duty: Strike Team | 41513 | [41513-call-of-duty-strike-team.json](./41513-call-of-duty-strike-team.json) |
 | Call of Duty: The War Collection | 292856 | [292856-call-of-duty-the-war-collection.json](./292856-call-of-duty-the-war-collection.json) |
@@ -1872,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Hunters | 313453 | [313453-cargo-hunters.json](./313453-cargo-hunters.json) |
 | Cargo King | 344440 | [344440-cargo-king.json](./344440-cargo-king.json) |
 | Cargo Manager: Forklift Simulator | 308647 | [308647-cargo-manager-forklift-simulator.json](./308647-cargo-manager-forklift-simulator.json) |
+| Cargo Master Transporter | 296714 | [296714-cargo-master-transporter.json](./296714-cargo-master-transporter.json) |
 | Cargo Protocol: Cyberpunk Trains | 414148 | [414148-cargo-protocol-cyberpunk-trains.json](./414148-cargo-protocol-cyberpunk-trains.json) |
 | Cargo Runner: Mars | 389050 | [389050-cargo-runner-mars.json](./389050-cargo-runner-mars.json) |
 | Cargo Simulator | 346190 | [346190-cargo-simulator.json](./346190-cargo-simulator.json) |
@@ -3568,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
 | Cazzarion: Jetpack Fighter | 378178 | [378178-cazzarion-jetpack-fighter.json](./378178-cazzarion-jetpack-fighter.json) |
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
+| Cazzarion: Pop The Bubbles | 296737 | [296737-cazzarion-pop-the-bubbles.json](./296737-cazzarion-pop-the-bubbles.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
 | Cazzarion: Rocket Raid | 302234 | [302234-cazzarion-rocket-raid.json](./302234-cazzarion-rocket-raid.json) |
@@ -3807,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central de Atividades | 290098 | [290098-central-de-atividades.json](./290098-central-de-atividades.json) |
 | Central De Fantasmas: Los Huéspedes De Mortimer | 260102 | [260102-central-de-fantasmas-los-huespedes-de-mortimer.json](./260102-central-de-fantasmas-los-huespedes-de-mortimer.json) |
 | Central Intelligence | 72300 | [72300-central-intelligence.json](./72300-central-intelligence.json) |
+| Central Killing Agency | 296719 | [296719-central-killing-agency.json](./296719-central-killing-agency.json) |
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
@@ -4755,6 +4759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry Jump | 320000 | [320000-cherry-jump.json](./320000-cherry-jump.json) |
 | Cherry Kisses | 198466 | [198466-cherry-kisses.json](./198466-cherry-kisses.json) |
 | Cherry Rescue! | 181852 | [181852-cherry-rescue.json](./181852-cherry-rescue.json) |
+| Cherry School World | 296728 | [296728-cherry-school-world.json](./296728-cherry-school-world.json) |
 | Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
@@ -7501,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocknockers | 190393 | [190393-clocknockers.json](./190393-clocknockers.json) |
+| ClockOut | 296716 | [296716-clockout.json](./296716-clockout.json) |
 | Clocks | 41369 | [41369-clocks.json](./41369-clocks.json) |
 | Clockwatch | 315694 | [315694-clockwatch.json](./315694-clockwatch.json) |
 | Clockwerk | 285156 | [285156-clockwerk.json](./285156-clockwerk.json) |
@@ -11880,6 +11886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
+| Crashing Not Optional | 296726 | [296726-crashing-not-optional.json](./296726-crashing-not-optional.json) |
 | Crashing Race | 172598 | [172598-crashing-race.json](./172598-crashing-race.json) |
 | Crashland | 144349 | [144349-crashland.json](./144349-crashland.json) |
 | Crashletics | 242217 | [242217-crashletics.json](./242217-crashletics.json) |
@@ -14516,6 +14523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Romance City 3D3 | 403817 | [403817-custom-romance-city-3d3.json](./403817-custom-romance-city-3d3.json) |
 | Custom Town | 31597 | [31597-custom-town.json](./31597-custom-town.json) |
 | CustomBullet | 219747 | [219747-custombullet.json](./219747-custombullet.json) |
+| Customer Disservice | 296715 | [296715-customer-disservice.json](./296715-customer-disservice.json) |
 | Customers From Hell: Game For Retail Workers | 148899 | [148899-customers-from-hell-game-for-retail-workers.json](./148899-customers-from-hell-game-for-retail-workers.json) |
 | Customized Girlfriend | 327902 | [327902-customized-girlfriend.json](./327902-customized-girlfriend.json) |
 | Customplay Golf 2010 | 21118 | [21118-customplay-golf-2010.json](./21118-customplay-golf-2010.json) |
