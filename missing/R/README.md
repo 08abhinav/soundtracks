@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
 | Reign of King | 107147 | [107147-reign-of-king.json](./107147-reign-of-king.json) |
 | Reign of Kings | 9599 | [9599-reign-of-kings.json](./9599-reign-of-kings.json) |
+| Reign of the Renegade | 278911 | [278911-reign-of-the-renegade.json](./278911-reign-of-the-renegade.json) |
 | Reign of the Succubus | 106618 | [106618-reign-of-the-succubus.json](./106618-reign-of-the-succubus.json) |
 | Reign of the Undead: Revolution | 299134 | [299134-reign-of-the-undead-revolution.json](./299134-reign-of-the-undead-revolution.json) |
 | Reign of Thunder | 65383 | [65383-reign-of-thunder.json](./65383-reign-of-thunder.json) |
@@ -9025,6 +9026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
+| Run Tekila Run! | 278901 | [278901-run-tekila-run.json](./278901-run-tekila-run.json) |
 | Run the Fan | 122361 | [122361-run-the-fan.json](./122361-run-the-fan.json) |
 | Run the Gamut | 32880 | [32880-run-the-gamut.json](./32880-run-the-gamut.json) |
 | Run the Gauntlet | 47203 | [47203-run-the-gauntlet.json](./47203-run-the-gauntlet.json) |
