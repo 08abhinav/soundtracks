@@ -2956,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchen Madness | 258905 | [258905-kitchen-madness.json](./258905-kitchen-madness.json) |
 | Kitchen master | 26648 | [26648-kitchen-master.json](./26648-kitchen-master.json) |
 | Kitchen of Gods | 408241 | [408241-kitchen-of-gods.json](./408241-kitchen-of-gods.json) |
+| Kitchen Quest | 265507 | [265507-kitchen-quest.json](./265507-kitchen-quest.json) |
 | Kitchen Scramble: Cooking Game | 123439 | [123439-kitchen-scramble-cooking-game.json](./123439-kitchen-scramble-cooking-game.json) |
 | Kitchen Survivors | 217794 | [217794-kitchen-survivors.json](./217794-kitchen-survivors.json) |
 | Kitchen Sync: Aloha! | 244384 | [244384-kitchen-sync-aloha.json](./244384-kitchen-sync-aloha.json) |
