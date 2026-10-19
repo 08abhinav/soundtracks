@@ -302,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
 | Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
 | Ocean Life: Aquarium Simulator | 309648 | [309648-ocean-life-aquarium-simulator.json](./309648-ocean-life-aquarium-simulator.json) |
+| Ocean Mirror | 280676 | [280676-ocean-mirror.json](./280676-ocean-mirror.json) |
 | Ocean Oddities | 402931 | [402931-ocean-oddities.json](./402931-ocean-oddities.json) |
 | Ocean of Battles | 124246 | [124246-ocean-of-battles.json](./124246-ocean-of-battles.json) |
 | Ocean of Eyes | 328957 | [328957-ocean-of-eyes.json](./328957-ocean-of-eyes.json) |
@@ -3016,6 +3017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
+| Ore Quest: Digger's Delve | 280679 | [280679-ore-quest-diggers-delve.json](./280679-ore-quest-diggers-delve.json) |
 | Ore to Imouto no Kankei | 97766 | [97766-ore-to-imouto-no-kankei.json](./97766-ore-to-imouto-no-kankei.json) |
 | Ore to Omae ga Ai ni Tsuite Kataru dake | 337727 | [337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json](./337727-ore-to-omae-ga-ai-ni-tsuite-kataru-dake.json) |
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
@@ -3214,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OS95 Plus! | 389500 | [389500-os95-plus.json](./389500-os95-plus.json) |
 | Osaka's Dream | 325667 | [325667-osakas-dream.json](./325667-osakas-dream.json) |
 | Osakabe | 159144 | [159144-osakabe.json](./159144-osakabe.json) |
+| Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu | 280643 | [280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json](./280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Oscar | 12456 | [12456-oscar.json](./12456-oscar.json) |
