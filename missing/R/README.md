@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randal's Tuesday | 248200 | [248200-randals-tuesday.json](./248200-randals-tuesday.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
+| Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
 | Random Acts of Madness | 270173 | [270173-random-acts-of-madness.json](./270173-random-acts-of-madness.json) |
 | Random Coin | 411083 | [411083-random-coin.json](./411083-random-coin.json) |
 | Random Core Defense | 310816 | [310816-random-core-defense.json](./310816-random-core-defense.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Cake Maker: Sugar Rush | 316246 | [316246-real-cake-maker-sugar-rush.json](./316246-real-cake-maker-sugar-rush.json) |
 | Real Car Drift Racing | 311794 | [311794-real-car-drift-racing.json](./311794-real-car-drift-racing.json) |
 | Real Car Market Simulator Together | 407348 | [407348-real-car-market-simulator-together.json](./407348-real-car-market-simulator-together.json) |
+| Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
@@ -2150,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Fast Race - Furious Sports | 96006 | [96006-real-fast-race-furious-sports.json](./96006-real-fast-race-furious-sports.json) |
 | Real Feel | 368620 | [368620-real-feel.json](./368620-real-feel.json) |
 | Real Fighter | 267951 | [267951-real-fighter.json](./267951-real-fighter.json) |
+| Real Fishing 3D | 275448 | [275448-real-fishing-3d.json](./275448-real-fishing-3d.json) |
 | Real Fishing Pro 3D | 93703 | [93703-real-fishing-pro-3d.json](./93703-real-fishing-pro-3d.json) |
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
 | Real Football | 174812 | [174812-real-football.json](./174812-real-football.json) |
@@ -5483,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift Rangers | 226949 | [226949-rift-rangers.json](./226949-rift-rangers.json) |
 | Rift Riff | 293543 | [293543-rift-riff.json](./293543-rift-riff.json) |
 | Rift Runner | 143013 | [143013-rift-runner.json](./143013-rift-runner.json) |
+| Rift Saviours | 275509 | [275509-rift-saviours.json](./275509-rift-saviours.json) |
 | Rift Survivors | 273442 | [273442-rift-survivors.json](./273442-rift-survivors.json) |
 | Rift Survivors | 373199 | [373199-rift-survivors.json](./373199-rift-survivors.json) |
 | Rift Walker | 256905 | [256905-rift-walker.json](./256905-rift-walker.json) |
