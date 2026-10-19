@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Love and Violence | 409236 | [409236-of-love-and-violence.json](./409236-of-love-and-violence.json) |
 | Of Man and War | 184865 | [184865-of-man-and-war.json](./184865-of-man-and-war.json) |
 | Of Me and My Mirror | 380680 | [380680-of-me-and-my-mirror.json](./380680-of-me-and-my-mirror.json) |
+| Of Mice and Dice | 293468 | [293468-of-mice-and-dice.json](./293468-of-mice-and-dice.json) |
 | Of Mice and Sand: Revised | 78059 | [78059-of-mice-and-sand-revised.json](./78059-of-mice-and-sand-revised.json) |
 | Of Mist and Shadows | 133196 | [133196-of-mist-and-shadows.json](./133196-of-mist-and-shadows.json) |
 | Of Moons and Mania | 256320 | [256320-of-moons-and-mania.json](./256320-of-moons-and-mania.json) |
@@ -1060,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
 | Old School Racer | 91887 | [91887-old-school-racer.json](./91887-old-school-racer.json) |
+| Old School Rally | 293490 | [293490-old-school-rally.json](./293490-old-school-rally.json) |
 | Old School RPG | 253456 | [253456-old-school-rpg.json](./253456-old-school-rpg.json) |
 | Old School RPG Bundle | 124003 | [124003-old-school-rpg-bundle.json](./124003-old-school-rpg-bundle.json) |
 | Old School RuneScape | 79824 | [79824-old-school-runescape.json](./79824-old-school-runescape.json) |
@@ -1353,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omoide Cafe | 390202 | [390202-omoide-cafe.json](./390202-omoide-cafe.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 288773 | [288773-omoide-ni-kawaru-kimi-memories-off.json](./288773-omoide-ni-kawaru-kimi-memories-off.json) |
 | Omoide ni Kawaru Kimi: Memories Off | 68241 | [68241-omoide-ni-kawaru-kimi-memories-off.json](./68241-omoide-ni-kawaru-kimi-memories-off.json) |
+| Omoikane | 293556 | [293556-omoikane.json](./293556-omoikane.json) |
 | Omoikkiri Tanteidan Haado-gumi: Matenrou no Chousenjou | 41336 | [41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json](./41336-omoikkiri-tanteidan-haado-gumi-matenrou-no-chousenjou.json) |
 | Omoiyari wo Hagukumu Katarikake Ehon: Miffy to Asobou Utaou | 327627 | [327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json](./327627-omoiyari-wo-hagukumu-katarikake-ehon-miffy-to-asobou-utaou.json) |
 | OMON Simulator | 122859 | [122859-omon-simulator.json](./122859-omon-simulator.json) |
