@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo & Watch | 308019 | [308019-sapo-and-watch.json](./308019-sapo-and-watch.json) |
 | Sapo 2 | 332291 | [332291-sapo-2.json](./332291-sapo-2.json) |
 | Sapo 3D | 301123 | [301123-sapo-3d.json](./301123-sapo-3d.json) |
+| Sapo Xulé | 281890 | [281890-sapo-xule.json](./281890-sapo-xule.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
 | Sapo Xulé: O Mestre do Kung Fu | 152305 | [152305-sapo-xule-o-mestre-do-kung-fu.json](./152305-sapo-xule-o-mestre-do-kung-fu.json) |
@@ -6793,6 +6794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Benfica | 298426 | [298426-shopping-benfica.json](./298426-shopping-benfica.json) |
 | Shopping Cart Hero 2 | 388042 | [388042-shopping-cart-hero-2.json](./388042-shopping-cart-hero-2.json) |
 | Shopping Cart Pusher | 414831 | [414831-shopping-cart-pusher.json](./414831-shopping-cart-pusher.json) |
+| Shopping Clutter 10: The Walkers Take the Stage | 281899 | [281899-shopping-clutter-10-the-walkers-take-the-stage.json](./281899-shopping-clutter-10-the-walkers-take-the-stage.json) |
 | Shopping Clutter 11: Magical Garden | 284469 | [284469-shopping-clutter-11-magical-garden.json](./284469-shopping-clutter-11-magical-garden.json) |
 | Shopping Clutter 12: Halloween at the Walkers | 341872 | [341872-shopping-clutter-12-halloween-at-the-walkers.json](./341872-shopping-clutter-12-halloween-at-the-walkers.json) |
 | Shopping Clutter 13: Mr. Claus On Vacation | 294518 | [294518-shopping-clutter-13-mr-claus-on-vacation.json](./294518-shopping-clutter-13-mr-claus-on-vacation.json) |
@@ -6810,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopping Clutter 6: Love Is in the Air | 231314 | [231314-shopping-clutter-6-love-is-in-the-air.json](./231314-shopping-clutter-6-love-is-in-the-air.json) |
 | Shopping Clutter 7: Food Detectives | 249371 | [249371-shopping-clutter-7-food-detectives.json](./249371-shopping-clutter-7-food-detectives.json) |
 | Shopping Clutter 8: From Gloom to Bloom | 249372 | [249372-shopping-clutter-8-from-gloom-to-bloom.json](./249372-shopping-clutter-8-from-gloom-to-bloom.json) |
+| Shopping Clutter 9: Perfect Wedding | 281898 | [281898-shopping-clutter-9-perfect-wedding.json](./281898-shopping-clutter-9-perfect-wedding.json) |
 | Shopping Clutter: Halloween Mystery | 305404 | [305404-shopping-clutter-halloween-mystery.json](./305404-shopping-clutter-halloween-mystery.json) |
 | Shopping Clutter: Spring Blossom | 305403 | [305403-shopping-clutter-spring-blossom.json](./305403-shopping-clutter-spring-blossom.json) |
 | Shopping Clutter: The Best Playground | 200580 | [200580-shopping-clutter-the-best-playground.json](./200580-shopping-clutter-the-best-playground.json) |
@@ -8910,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
 | Ski Safari | 61082 | [61082-ski-safari.json](./61082-ski-safari.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
+| Ski Simulator: Winter Sports | 281906 | [281906-ski-simulator-winter-sports.json](./281906-ski-simulator-winter-sports.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
 | Ski Sport: Jumping VR | 29700 | [29700-ski-sport-jumping-vr.json](./29700-ski-sport-jumping-vr.json) |
 | Ski Yeet | 409831 | [409831-ski-yeet.json](./409831-ski-yeet.json) |
