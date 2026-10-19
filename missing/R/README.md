@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Poland | 62454 | [62454-rally-poland.json](./62454-rally-poland.json) |
 | Rally Pro Contest | 325692 | [325692-rally-pro-contest.json](./325692-rally-pro-contest.json) |
 | Rally Race Car Simulator Poly: World Driver Arcade Real Driving Games Sim | 242016 | [242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json](./242016-rally-race-car-simulator-poly-world-driver-arcade-real-driving-games-sim.json) |
+| Rally Race: Offroad Simulator | 277727 | [277727-rally-race-offroad-simulator.json](./277727-rally-race-offroad-simulator.json) |
 | Rally Racer | 346763 | [346763-rally-racer.json](./346763-rally-racer.json) |
 | Rally Racer: Offroad Racing Car Game | 153822 | [153822-rally-racer-offroad-racing-car-game.json](./153822-rally-racer-offroad-racing-car-game.json) |
 | Rally Racers | 76648 | [76648-rally-racers.json](./76648-rally-racers.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratyboy Adventures | 242657 | [242657-ratyboy-adventures.json](./242657-ratyboy-adventures.json) |
 | Ratyrinth | 258922 | [258922-ratyrinth.json](./258922-ratyrinth.json) |
 | Ratz Instagib | 9193 | [9193-ratz-instagib.json](./9193-ratz-instagib.json) |
+| Rauol | 277725 | [277725-rauol.json](./277725-rauol.json) |
 | Räv Kafé | 395158 | [395158-rav-kafe.json](./395158-rav-kafe.json) |
 | Ravage | 306435 | [306435-ravage.json](./306435-ravage.json) |
 | Ravage Fist | 417716 | [417716-ravage-fist.json](./417716-ravage-fist.json) |
@@ -3553,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
+| Relieve | 277757 | [277757-relieve.json](./277757-relieve.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
