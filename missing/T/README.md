@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Shitara Slime Datta Ken: Lord of Tempest | 90112 | [90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json](./90112-tensei-shitara-slime-datta-ken-lord-of-tempest.json) |
+| Tensei Shitara Slime Datta Ken: Tempest Stories | 306195 | [306195-tensei-shitara-slime-datta-ken-tempest-stories.json](./306195-tensei-shitara-slime-datta-ken-tempest-stories.json) |
 | Tensen Nyannyan: Gekigyouban | 166149 | [166149-tensen-nyannyan-gekigyouban.json](./166149-tensen-nyannyan-gekigyouban.json) |
 | Tenshi Doumei | 63390 | [63390-tenshi-doumei.json](./63390-tenshi-doumei.json) |
 | Tenshi Na Konamaiki | 167121 | [167121-tenshi-na-konamaiki.json](./167121-tenshi-na-konamaiki.json) |
@@ -4888,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue Crystal Rod | 38183 | [38183-the-blue-crystal-rod.json](./38183-the-blue-crystal-rod.json) |
 | The Blue Katana | 185122 | [185122-the-blue-katana.json](./185122-the-blue-katana.json) |
 | The Blue Marlin | 48104 | [48104-the-blue-marlin.json](./48104-the-blue-marlin.json) |
+| The Blue Pendrive | 306220 | [306220-the-blue-pendrive.json](./306220-the-blue-pendrive.json) |
 | The Blue Stars | 260578 | [260578-the-blue-stars.json](./260578-the-blue-stars.json) |
 | The Blue Zula VR Concert Series | 110500 | [110500-the-blue-zula-vr-concert-series.json](./110500-the-blue-zula-vr-concert-series.json) |
 | The Blue-diamond Damsel in Distress | 336386 | [336386-the-blue-diamond-damsel-in-distress.json](./336386-the-blue-diamond-damsel-in-distress.json) |
@@ -14800,6 +14802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Darn Nipples! | 60979 | [60979-those-darn-nipples.json](./60979-those-darn-nipples.json) |
 | Those Days | 179024 | [179024-those-days.json](./179024-those-days.json) |
+| Those Days | 306209 | [306209-those-days.json](./306209-those-days.json) |
 | Those Dirty Colonists | 179527 | [179527-those-dirty-colonists.json](./179527-those-dirty-colonists.json) |
 | Those Funny Funguloids! | 70049 | [70049-those-funny-funguloids.json](./70049-those-funny-funguloids.json) |
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
@@ -14928,6 +14931,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threeboard | 401929 | [401929-threeboard.json](./401929-threeboard.json) |
 | Threefold Recital | 327486 | [327486-threefold-recital.json](./327486-threefold-recital.json) |
 | ThreeStep | 120962 | [120962-threestep.json](./120962-threestep.json) |
+| Threewave | 306178 | [306178-threewave.json](./306178-threewave.json) |
+| Threewave Capture | 306175 | [306175-threewave-capture.json](./306175-threewave-capture.json) |
 | Thregnar and the Crystals of Chaos | 313431 | [313431-thregnar-and-the-crystals-of-chaos.json](./313431-thregnar-and-the-crystals-of-chaos.json) |
 | Threshold | 18477 | [18477-threshold.json](./18477-threshold.json) |
 | Threshold | 202336 | [202336-threshold.json](./202336-threshold.json) |
@@ -23588,6 +23593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuōtuōlālā Xiǎofēi Zhèn | 415512 | [415512-tuotuolala-xiaofei-zhen.json](./415512-tuotuolala-xiaofei-zhen.json) |
 | Tupã | 46480 | [46480-tupa.json](./46480-tupa.json) |
 | Tuper Tario Tros. | 212693 | [212693-tuper-tario-tros.json](./212693-tuper-tario-tros.json) |
+| Tupi: The Legend of Arariboia | 306188 | [306188-tupi-the-legend-of-arariboia.json](./306188-tupi-the-legend-of-arariboia.json) |
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
