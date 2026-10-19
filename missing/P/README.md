@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Dream | 386519 | [386519-pachinko-dream.json](./386519-pachinko-dream.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
+| Pachinko Hissou Guide: Data no Ou-sama | 282469 | [282469-pachinko-hissou-guide-data-no-ou-sama.json](./282469-pachinko-hissou-guide-data-no-ou-sama.json) |
 | Pachinko II | 6124 | [6124-pachinko-ii.json](./6124-pachinko-ii.json) |
 | Pachinko Kamen Rider | 91885 | [91885-pachinko-kamen-rider.json](./91885-pachinko-kamen-rider.json) |
 | Pachinko Kuunyan | 383507 | [383507-pachinko-kuunyan.json](./383507-pachinko-kuunyan.json) |
@@ -7563,10 +7564,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
 | Pocket Galaxy | 116454 | [116454-pocket-galaxy.json](./116454-pocket-galaxy.json) |
 | Pocket Garden | 367505 | [367505-pocket-garden.json](./367505-pocket-garden.json) |
+| Pocket GI Stable | 282470 | [282470-pocket-gi-stable.json](./282470-pocket-gi-stable.json) |
 | Pocket God | 46743 | [46743-pocket-god.json](./46743-pocket-god.json) |
 | Pocket God vs Desert Ashes | 17866 | [17866-pocket-god-vs-desert-ashes.json](./17866-pocket-god-vs-desert-ashes.json) |
 | Pocket GT | 225807 | [225807-pocket-gt.json](./225807-pocket-gt.json) |
 | Pocket GT Racing | 209353 | [209353-pocket-gt-racing.json](./209353-pocket-gt-racing.json) |
+| Pocket Hanafuda | 282472 | [282472-pocket-hanafuda.json](./282472-pocket-hanafuda.json) |
 | Pocket Hero-Wars of Mini Tanks | 105906 | [105906-pocket-hero-wars-of-mini-tanks.json](./105906-pocket-hero-wars-of-mini-tanks.json) |
 | Pocket Heroes | 198168 | [198168-pocket-heroes.json](./198168-pocket-heroes.json) |
 | Pocket Hockey | 324520 | [324520-pocket-hockey.json](./324520-pocket-hockey.json) |
@@ -7575,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Jansou | 46603 | [46603-pocket-jansou.json](./46603-pocket-jansou.json) |
 | Pocket Kanon & Air | 384708 | [384708-pocket-kanon-and-air.json](./384708-pocket-kanon-and-air.json) |
 | Pocket Kickball | 304724 | [304724-pocket-kickball.json](./304724-pocket-kickball.json) |
+| Pocket King | 282473 | [282473-pocket-king.json](./282473-pocket-king.json) |
 | Pocket Kingdom: Own the World | 6272 | [6272-pocket-kingdom-own-the-world.json](./6272-pocket-kingdom-own-the-world.json) |
 | Pocket Kite | 200183 | [200183-pocket-kite.json](./200183-pocket-kite.json) |
 | Pocket Kitten | 407477 | [407477-pocket-kitten.json](./407477-pocket-kitten.json) |
@@ -7592,6 +7596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Love: If | 43973 | [43973-pocket-love-if.json](./43973-pocket-love-if.json) |
 | Pocket Ludo | 401098 | [401098-pocket-ludo.json](./401098-pocket-ludo.json) |
 | Pocket Luna | 193878 | [193878-pocket-luna.json](./193878-pocket-luna.json) |
+| Pocket Lure Boy | 282474 | [282474-pocket-lure-boy.json](./282474-pocket-lure-boy.json) |
 | Pocket Mario | 318031 | [318031-pocket-mario.json](./318031-pocket-mario.json) |
 | Pocket Math | 372194 | [372194-pocket-math.json](./372194-pocket-math.json) |
 | Pocket Meat | 49504 | [49504-pocket-meat.json](./49504-pocket-meat.json) |
@@ -12669,6 +12674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsor | 117438 | [117438-pulsor.json](./117438-pulsor.json) |
 | Pulstar | 7255 | [7255-pulstar.json](./7255-pulstar.json) |
 | Pulsus | 138524 | [138524-pulsus.json](./138524-pulsus.json) |
+| Pultimush | 282461 | [282461-pultimush.json](./282461-pultimush.json) |
 | Pulver | 287545 | [287545-pulver.json](./287545-pulver.json) |
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
