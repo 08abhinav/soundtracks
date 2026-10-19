@@ -2472,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Pilgrim vs. the World. The Game - Wallace Wells Pack | 165492 | [165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json](./165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json) |
 | Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
 | Scott Whiskers: The Search for the Golden Cat | 346236 | [346236-scott-whiskers-the-search-for-the-golden-cat.json](./346236-scott-whiskers-the-search-for-the-golden-cat.json) |
+| Scottside | 274326 | [274326-scottside.json](./274326-scottside.json) |
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel | 398516 | [398516-scoundrel.json](./398516-scoundrel.json) |
@@ -2777,6 +2778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll of Onmyoji | 303186 | [303186-scroll-of-onmyoji.json](./303186-scroll-of-onmyoji.json) |
 | Scroll Scramble | 240680 | [240680-scroll-scramble.json](./240680-scroll-scramble.json) |
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
+| Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
@@ -9808,6 +9810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice 'Em Up! | 185130 | [185130-slice-em-up.json](./185130-slice-em-up.json) |
 | Slice & Dice | 176099 | [176099-slice-and-dice.json](./176099-slice-and-dice.json) |
 | Slice It All! | 305417 | [305417-slice-it-all.json](./305417-slice-it-all.json) |
+| Slice It Down | 274374 | [274374-slice-it-down.json](./274374-slice-it-down.json) |
 | Slice It! | 147957 | [147957-slice-it.json](./147957-slice-it.json) |
 | Slice It! | 21585 | [21585-slice-it.json](./21585-slice-it.json) |
 | Slice N' Hook | 67335 | [67335-slice-n-hook.json](./67335-slice-n-hook.json) |
@@ -17752,6 +17755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of Providence: Relics of the Past | 145647 | [145647-star-of-providence-relics-of-the-past.json](./145647-star-of-providence-relics-of-the-past.json) |
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
+| Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
 | Star Pagga | 63226 | [63226-star-pagga.json](./63226-star-pagga.json) |
 | Star Parodier | 37605 | [37605-star-parodier.json](./37605-star-parodier.json) |
 | Star Paws | 47175 | [47175-star-paws.json](./47175-star-paws.json) |
@@ -17839,6 +17843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Sentry | 292129 | [292129-star-sentry.json](./292129-star-sentry.json) |
 | Star Sentry | 322825 | [322825-star-sentry.json](./322825-star-sentry.json) |
 | Star Shaman | 135111 | [135111-star-shaman.json](./135111-star-shaman.json) |
+| Star Shift Freelancers | 274345 | [274345-star-shift-freelancers.json](./274345-star-shift-freelancers.json) |
 | Star Shift Origins | 163193 | [163193-star-shift-origins.json](./163193-star-shift-origins.json) |
 | Star Shift Rebellion | 190395 | [190395-star-shift-rebellion.json](./190395-star-shift-rebellion.json) |
 | Star Ship | 18424 | [18424-star-ship.json](./18424-star-ship.json) |
@@ -22175,6 +22180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun-shot Legend | 283065 | [283065-sun-shot-legend.json](./283065-sun-shot-legend.json) |
 | Sun, Sand & Monster Slayers | 391831 | [391831-sun-sand-and-monster-slayers.json](./391831-sun-sand-and-monster-slayers.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
+| Sunaba | 274339 | [274339-sunaba.json](./274339-sunaba.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
 | Sunberry Care Center | 349105 | [349105-sunberry-care-center.json](./349105-sunberry-care-center.json) |
@@ -26246,6 +26252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Souls Legacy Collection | 332299 | [332299-swords-and-souls-legacy-collection.json](./332299-swords-and-souls-legacy-collection.json) |
 | Swords & Souls: Neverseen | 94772 | [94772-swords-and-souls-neverseen.json](./94772-swords-and-souls-neverseen.json) |
 | Swords and Galleons | 68985 | [68985-swords-and-galleons.json](./68985-swords-and-galleons.json) |
+| Swords and Hexes | 274346 | [274346-swords-and-hexes.json](./274346-swords-and-hexes.json) |
 | Swords and Sandals 2 Redux: Maximus Edition | 43131 | [43131-swords-and-sandals-2-redux-maximus-edition.json](./43131-swords-and-sandals-2-redux-maximus-edition.json) |
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
