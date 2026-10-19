@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labublas: Battle Royale Shooter | 359987 | [359987-labublas-battle-royale-shooter.json](./359987-labublas-battle-royale-shooter.json) |
 | Labubu Games | 363968 | [363968-labubu-games.json](./363968-labubu-games.json) |
 | LabWatch | 272261 | [272261-labwatch.json](./272261-labwatch.json) |
+| Laby and the Mysterious Planet | 275507 | [275507-laby-and-the-mysterious-planet.json](./275507-laby-and-the-mysterious-planet.json) |
 | Laby to Panel de Shiritori | 325452 | [325452-laby-to-panel-de-shiritori.json](./325452-laby-to-panel-de-shiritori.json) |
 | Labyban | 338596 | [338596-labyban.json](./338596-labyban.json) |
 | LabyrAInth | 348918 | [348918-labyrainth.json](./348918-labyrainth.json) |
