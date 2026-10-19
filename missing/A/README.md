@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Long Night For Crazy King | 120969 | [120969-a-long-night-for-crazy-king.json](./120969-a-long-night-for-crazy-king.json) |
 | A Long Road Home | 29890 | [29890-a-long-road-home.json](./29890-a-long-road-home.json) |
 | A Long Time | 384292 | [384292-a-long-time.json](./384292-a-long-time.json) |
+| A Long Walk Home | 278325 | [278325-a-long-walk-home.json](./278325-a-long-walk-home.json) |
 | A Long Way Home | 180805 | [180805-a-long-way-home.json](./180805-a-long-way-home.json) |
 | A Long Way Home | 33077 | [33077-a-long-way-home.json](./33077-a-long-way-home.json) |
 | A Long Way Through a Pastel Universe | 178920 | [178920-a-long-way-through-a-pastel-universe.json](./178920-a-long-way-through-a-pastel-universe.json) |
@@ -1364,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
 | Ableford | 190898 | [190898-ableford.json](./190898-ableford.json) |
 | Ablepsia | 67912 | [67912-ablepsia.json](./67912-ablepsia.json) |
+| Ablight | 278267 | [278267-ablight.json](./278267-ablight.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
@@ -1726,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
 | Acclimate | 203313 | [203313-acclimate.json](./203313-acclimate.json) |
 | Accolade In Action | 93339 | [93339-accolade-in-action.json](./93339-accolade-in-action.json) |
+| Accolade's Comics featuring Steve Keene Thrillseeker | 278299 | [278299-accolades-comics-featuring-steve-keene-thrillseeker.json](./278299-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accolade's Comics featuring Steve Keene Thrillseeker | 37156 | [37156-accolades-comics-featuring-steve-keene-thrillseeker.json](./37156-accolades-comics-featuring-steve-keene-thrillseeker.json) |
 | Accordion | 14204 | [14204-accordion.json](./14204-accordion.json) |
 | Accounting | 25251 | [25251-accounting.json](./25251-accounting.json) |
@@ -8124,7 +8127,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AO International Tennis | 98964 | [98964-ao-international-tennis.json](./98964-ao-international-tennis.json) |
 | Ao no Kanata no Four Rhythm 4th Anniversary Box | 124030 | [124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json](./124030-ao-no-kanata-no-four-rhythm-4th-anniversary-box.json) |
 | Ao no Kanata no Four Rhythm Extra1+2P | 280892 | [280892-ao-no-kanata-no-four-rhythm-extra1-2p.json](./280892-ao-no-kanata-no-four-rhythm-extra1-2p.json) |
+| Ao no Kanata no Four Rhythm Extra1P | 278306 | [278306-ao-no-kanata-no-four-rhythm-extra1p.json](./278306-ao-no-kanata-no-four-rhythm-extra1p.json) |
 | Ao no Kanata no Four Rhythm Extra1S | 211381 | [211381-ao-no-kanata-no-four-rhythm-extra1s.json](./211381-ao-no-kanata-no-four-rhythm-extra1s.json) |
+| Ao no Kanata no Four Rhythm Extra2P | 278307 | [278307-ao-no-kanata-no-four-rhythm-extra2p.json](./278307-ao-no-kanata-no-four-rhythm-extra2p.json) |
 | Ao no Kanata no Four Rhythm IF 01: Minamo Shirase | 178329 | [178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json](./178329-ao-no-kanata-no-four-rhythm-if-01-minamo-shirase.json) |
 | Ao no Kanata no Four Rhythm: HD Edition | 136793 | [136793-ao-no-kanata-no-four-rhythm-hd-edition.json](./136793-ao-no-kanata-no-four-rhythm-hd-edition.json) |
 | Ao no Mama de... | 420562 | [420562-ao-no-mama-de.json](./420562-ao-no-mama-de.json) |
@@ -12767,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava and Avior Save the Earth | 84979 | [84979-ava-and-avior-save-the-earth.json](./84979-ava-and-avior-save-the-earth.json) |
 | Ava and the Half-World | 303268 | [303268-ava-and-the-half-world.json](./303268-ava-and-the-half-world.json) |
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
+| Ava's Hidden Adventures | 278269 | [278269-avas-hidden-adventures.json](./278269-avas-hidden-adventures.json) |
 | Ava's Manor | 406254 | [406254-avas-manor.json](./406254-avas-manor.json) |
 | Ava's Quest HD | 175753 | [175753-avas-quest-hd.json](./175753-avas-quest-hd.json) |
 | Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
