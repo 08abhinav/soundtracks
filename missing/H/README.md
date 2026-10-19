@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | Hexbotica | 345814 | [345814-hexbotica.json](./345814-hexbotica.json) |
 | Hexbound | 345412 | [345412-hexbound.json](./345412-hexbound.json) |
+| Hexburg | 277743 | [277743-hexburg.json](./277743-hexburg.json) |
 | HexCasters | 181250 | [181250-hexcasters.json](./181250-hexcasters.json) |
 | Hexcavator | 333029 | [333029-hexcavator.json](./333029-hexcavator.json) |
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
@@ -7399,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
+| Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
 | Horrible Histories: Ruthless Romans | 21286 | [21286-horrible-histories-ruthless-romans.json](./21286-horrible-histories-ruthless-romans.json) |
 | Horribunnies | 130178 | [130178-horribunnies.json](./130178-horribunnies.json) |
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
