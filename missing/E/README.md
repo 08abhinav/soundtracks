@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring Nightreign - The Forsaken Hollows | 377238 | [377238-elden-ring-nightreign-the-forsaken-hollows.json](./377238-elden-ring-nightreign-the-forsaken-hollows.json) |
 | Elden Ring Nightreign: Collector's Edition | 331167 | [331167-elden-ring-nightreign-collectors-edition.json](./331167-elden-ring-nightreign-collectors-edition.json) |
 | Elden Ring Nightreign: Deluxe Edition | 331166 | [331166-elden-ring-nightreign-deluxe-edition.json](./331166-elden-ring-nightreign-deluxe-edition.json) |
+| Elden Ring Reforged | 296157 | [296157-elden-ring-reforged.json](./296157-elden-ring-reforged.json) |
 | Elden Ring Seamless Co-op | 381683 | [381683-elden-ring-seamless-co-op.json](./381683-elden-ring-seamless-co-op.json) |
 | Elden Ring: Collector's Edition | 180258 | [180258-elden-ring-collectors-edition.json](./180258-elden-ring-collectors-edition.json) |
 | Elden Ring: Dark Moon | 309346 | [309346-elden-ring-dark-moon.json](./309346-elden-ring-dark-moon.json) |
@@ -5295,6 +5296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EvoWars.io | 241633 | [241633-evowars-io.json](./241633-evowars-io.json) |
 | EvoWorld.io | 360508 | [360508-evoworld-io.json](./360508-evoworld-io.json) |
 | EVR Race | 100172 | [100172-evr-race.json](./100172-evr-race.json) |
+| EWar | 296189 | [296189-ewar.json](./296189-ewar.json) |
 | Ewe Shall Not Pass | 260391 | [260391-ewe-shall-not-pass.json](./260391-ewe-shall-not-pass.json) |
 | Ewgeebeez | 348941 | [348941-ewgeebeez.json](./348941-ewgeebeez.json) |
 | Ewig | 395247 | [395247-ewig.json](./395247-ewig.json) |
