@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wind | 390123 | [390123-second-wind.json](./390123-second-wind.json) |
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
+| Second World War | 257777 | [257777-second-world-war.json](./257777-second-world-war.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
 | Second-Loop | 300245 | [300245-second-loop.json](./300245-second-loop.json) |
 | Seconds Between Summer | 364369 | [364369-seconds-between-summer.json](./364369-seconds-between-summer.json) |
@@ -16108,6 +16109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
+| Spin a Stick | 257795 | [257795-spin-a-stick.json](./257795-spin-a-stick.json) |
 | Spin Ball | 23576 | [23576-spin-ball.json](./23576-spin-ball.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
@@ -21221,6 +21223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
 | Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
+| Stuart Jump | 257785 | [257785-stuart-jump.json](./257785-stuart-jump.json) |
 | Stuart Little 2 | 121606 | [121606-stuart-little-2.json](./121606-stuart-little-2.json) |
 | Stuart Little 2 | 27628 | [27628-stuart-little-2.json](./27628-stuart-little-2.json) |
 | Stuart Little 2 | 49218 | [49218-stuart-little-2.json](./49218-stuart-little-2.json) |
@@ -21654,6 +21657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suchawira World Traveler | 124563 | [124563-suchawira-world-traveler.json](./124563-suchawira-world-traveler.json) |
 | Suchie-Pai Adventure: Doki-doki Nightmare | 92137 | [92137-suchie-pai-adventure-doki-doki-nightmare.json](./92137-suchie-pai-adventure-doki-doki-nightmare.json) |
 | SuchInheritance | 187182 | [187182-suchinheritance.json](./187182-suchinheritance.json) |
+| Suck Eggs! | 257788 | [257788-suck-eggs.json](./257788-suck-eggs.json) |
 | Suck It Up | 391318 | [391318-suck-it-up.json](./391318-suck-it-up.json) |
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
@@ -24622,6 +24626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
 | Super Sus | 198201 | [198201-super-sus.json](./198201-super-sus.json) |
 | Super Sushi Roll | 219575 | [219575-super-sushi-roll.json](./219575-super-sushi-roll.json) |
+| Super Sushi Smackdown | 257787 | [257787-super-sushi-smackdown.json](./257787-super-sushi-smackdown.json) |
 | Super Swap! | 54414 | [54414-super-swap.json](./54414-super-swap.json) |
 | Super Swarm Smash | 147398 | [147398-super-swarm-smash.json](./147398-super-swarm-smash.json) |
 | Super Swarmer Survivors | 343456 | [343456-super-swarmer-survivors.json](./343456-super-swarmer-survivors.json) |
