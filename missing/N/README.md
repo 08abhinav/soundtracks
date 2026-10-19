@@ -134,10 +134,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
 | Nakayoshi Chao! | 210297 | [210297-nakayoshi-chao.json](./210297-nakayoshi-chao.json) |
+| Nakayoshi Cooking Series 2: Oishii Panya-san | 282463 | [282463-nakayoshi-cooking-series-2-oishii-panya-san.json](./282463-nakayoshi-cooking-series-2-oishii-panya-san.json) |
+| Nakayoshi Cooking Series 3: Tanoshiio Bentou | 282464 | [282464-nakayoshi-cooking-series-3-tanoshiio-bentou.json](./282464-nakayoshi-cooking-series-3-tanoshiio-bentou.json) |
+| Nakayoshi Cooking Series 4: Tanoshii Dessert | 282465 | [282465-nakayoshi-cooking-series-4-tanoshii-dessert.json](./282465-nakayoshi-cooking-series-4-tanoshii-dessert.json) |
+| Nakayoshi Cooking Series 5: Komugi-Chan no Cake wo Tsukurou! | 282466 | [282466-nakayoshi-cooking-series-5-komugi-chan-no-cake-wo-tsukurou.json](./282466-nakayoshi-cooking-series-5-komugi-chan-no-cake-wo-tsukurou.json) |
 | Nakayoshi Mahjong: Kapu Richi | 49757 | [49757-nakayoshi-mahjong-kapu-richi.json](./49757-nakayoshi-mahjong-kapu-richi.json) |
+| Nakayoshi Pet Series 1: Kawaii Hamster | 282467 | [282467-nakayoshi-pet-series-1-kawaii-hamster.json](./282467-nakayoshi-pet-series-1-kawaii-hamster.json) |
 | Nakayoshi Pet Series 2: Kawaii Usagi | 217820 | [217820-nakayoshi-pet-series-2-kawaii-usagi.json](./217820-nakayoshi-pet-series-2-kawaii-usagi.json) |
 | Nakayoshi Pet Series 3: Kawaii Koinu | 130615 | [130615-nakayoshi-pet-series-3-kawaii-koinu.json](./130615-nakayoshi-pet-series-3-kawaii-koinu.json) |
 | Nakayoshi Pet Series 4: Kawaii Koneko | 130614 | [130614-nakayoshi-pet-series-4-kawaii-koneko.json](./130614-nakayoshi-pet-series-4-kawaii-koneko.json) |
+| Nakayoshi Pet Series 5: Kawaii Hamster 2 | 282468 | [282468-nakayoshi-pet-series-5-kawaii-hamster-2.json](./282468-nakayoshi-pet-series-5-kawaii-hamster-2.json) |
 | Nakayoshi Youchien | 49753 | [49753-nakayoshi-youchien.json](./49753-nakayoshi-youchien.json) |
 | Naked Adventure | 380170 | [380170-naked-adventure.json](./380170-naked-adventure.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
@@ -3413,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
+| Nightmare Gallery | 282441 | [282441-nightmare-gallery.json](./282441-nightmare-gallery.json) |
 | Nightmare Game | 120416 | [120416-nightmare-game.json](./120416-nightmare-game.json) |
 | Nightmare Grotto | 34661 | [34661-nightmare-grotto.json](./34661-nightmare-grotto.json) |
 | Nightmare Halls | 335438 | [335438-nightmare-halls.json](./335438-nightmare-halls.json) |
