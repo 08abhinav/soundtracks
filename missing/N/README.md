@@ -753,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 2 | 235182 | [235182-nature-escapes-2.json](./235182-nature-escapes-2.json) |
 | Nature Escapes 3: Collector's Edition | 286198 | [286198-nature-escapes-3-collectors-edition.json](./286198-nature-escapes-3-collectors-edition.json) |
 | Nature Escapes 4: Collector's Edition | 320480 | [320480-nature-escapes-4-collectors-edition.json](./320480-nature-escapes-4-collectors-edition.json) |
+| Nature Escapes 5 | 292373 | [292373-nature-escapes-5.json](./292373-nature-escapes-5.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
@@ -2627,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newlywed Happy Couple Family | 296751 | [296751-newlywed-happy-couple-family.json](./296751-newlywed-happy-couple-family.json) |
 | Newman/Haas IndyCar featuring Nigel Mansell | 22841 | [22841-newman-haas-indycar-featuring-nigel-mansell.json](./22841-newman-haas-indycar-featuring-nigel-mansell.json) |
 | Newman/Haas Racing | 22842 | [22842-newman-haas-racing.json](./22842-newman-haas-racing.json) |
+| NewMe NuMe LuMe: Alien Wars | 292374 | [292374-newme-nume-lume-alien-wars.json](./292374-newme-nume-lume-alien-wars.json) |
 | Newo Zero | 410890 | [410890-newo-zero.json](./410890-newo-zero.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
@@ -4854,6 +4856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
 | Nontan to Issho: Kuru-kuru Puzzle | 44400 | [44400-nontan-to-issho-kuru-kuru-puzzle.json](./44400-nontan-to-issho-kuru-kuru-puzzle.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
+| Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
 | Noob Squad | 32242 | [32242-noob-squad.json](./32242-noob-squad.json) |
 | Noob's Room | 383574 | [383574-noobs-room.json](./383574-noobs-room.json) |
 | Noobow | 62598 | [62598-noobow.json](./62598-noobow.json) |
