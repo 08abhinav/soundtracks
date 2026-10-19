@@ -1533,6 +1533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once in a Blue Moon | 226163 | [226163-once-in-a-blue-moon.json](./226163-once-in-a-blue-moon.json) |
 | Once in a Lifetime | 209627 | [209627-once-in-a-lifetime.json](./209627-once-in-a-lifetime.json) |
 | Once in Flowerlake | 190188 | [190188-once-in-flowerlake.json](./190188-once-in-flowerlake.json) |
+| Once in Hell | 304440 | [304440-once-in-hell.json](./304440-once-in-hell.json) |
 | Once in my Head | 192966 | [192966-once-in-my-head.json](./192966-once-in-my-head.json) |
 | Once in Yaissor | 30577 | [30577-once-in-yaissor.json](./30577-once-in-yaissor.json) |
 | Once in Yaissor 2 | 81763 | [81763-once-in-yaissor-2.json](./81763-once-in-yaissor-2.json) |
@@ -2267,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
+| Only Way is Down | 304447 | [304447-only-way-is-down.json](./304447-only-way-is-down.json) |
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
 | Only Whores Survive | 370466 | [370466-only-whores-survive.json](./370466-only-whores-survive.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
