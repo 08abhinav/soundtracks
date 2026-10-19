@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost in the SQL Data | 414822 | [414822-ghost-in-the-sql-data.json](./414822-ghost-in-the-sql-data.json) |
 | Ghost Infinite Labyrinth | 353767 | [353767-ghost-infinite-labyrinth.json](./353767-ghost-infinite-labyrinth.json) |
 | Ghost Invasion: Idle Hunter | 340343 | [340343-ghost-invasion-idle-hunter.json](./340343-ghost-invasion-idle-hunter.json) |
+| Ghost Janitors | 285848 | [285848-ghost-janitors.json](./285848-ghost-janitors.json) |
 | Ghost Jukebox | 357189 | [357189-ghost-jukebox.json](./357189-ghost-jukebox.json) |
 | Ghost Jumper: Red Hoodie | 315280 | [315280-ghost-jumper-red-hoodie.json](./315280-ghost-jumper-red-hoodie.json) |
 | Ghost Keeper | 312187 | [312187-ghost-keeper.json](./312187-ghost-keeper.json) |
@@ -5886,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granhistoria: Genshi Sekaiki | 38223 | [38223-granhistoria-genshi-sekaiki.json](./38223-granhistoria-genshi-sekaiki.json) |
 | Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
+| Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
 | Granny Legend | 245381 | [245381-granny-legend.json](./245381-granny-legend.json) |
