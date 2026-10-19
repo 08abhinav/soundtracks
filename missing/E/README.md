@@ -4293,6 +4293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etch-a-Sketch Sand | 152037 | [152037-etch-a-sketch-sand.json](./152037-etch-a-sketch-sand.json) |
 | Etched Memories | 382765 | [382765-etched-memories.json](./382765-etched-memories.json) |
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
+| Etera | 306237 | [306237-etera.json](./306237-etera.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
 | Eternal | 357727 | [357727-eternal.json](./357727-eternal.json) |
