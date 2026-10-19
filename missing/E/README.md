@@ -2198,6 +2198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Call Ambulance | 39446 | [39446-emergency-call-ambulance.json](./39446-emergency-call-ambulance.json) |
 | Emergency Call: The Attack Squad | 278494 | [278494-emergency-call-the-attack-squad.json](./278494-emergency-call-the-attack-squad.json) |
 | Emergency Call: The Firefighting Simulation 3 | 361828 | [361828-emergency-call-the-firefighting-simulation-3.json](./361828-emergency-call-the-firefighting-simulation-3.json) |
+| Emergency Cleanup Co. | 292956 | [292956-emergency-cleanup-co.json](./292956-emergency-cleanup-co.json) |
 | Emergency Crew 2: Global Warming | 235894 | [235894-emergency-crew-2-global-warming.json](./235894-emergency-crew-2-global-warming.json) |
 | Emergency Crew 3: Perfect Getaway - Collector's Edition | 256732 | [256732-emergency-crew-3-perfect-getaway-collectors-edition.json](./256732-emergency-crew-3-perfect-getaway-collectors-edition.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
@@ -3896,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Game The Dr. Mouse's Lab | 298585 | [298585-escape-game-the-dr-mouses-lab.json](./298585-escape-game-the-dr-mouses-lab.json) |
 | Escape Game The Empty School | 345693 | [345693-escape-game-the-empty-school.json](./345693-escape-game-the-empty-school.json) |
 | Escape Game The House Under Rain | 336416 | [336416-escape-game-the-house-under-rain.json](./336416-escape-game-the-house-under-rain.json) |
+| Escape Game The Kitty School | 292916 | [292916-escape-game-the-kitty-school.json](./292916-escape-game-the-kitty-school.json) |
 | Escape Game The Locked Elevator | 410382 | [410382-escape-game-the-locked-elevator.json](./410382-escape-game-the-locked-elevator.json) |
 | Escape Game The Museum of Memories | 387105 | [387105-escape-game-the-museum-of-memories.json](./387105-escape-game-the-museum-of-memories.json) |
 | Escape Game The Painting Mansion | 332492 | [332492-escape-game-the-painting-mansion.json](./332492-escape-game-the-painting-mansion.json) |
