@@ -3452,6 +3452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBOnline Manager | 130316 | [130316-bbonline-manager.json](./130316-bbonline-manager.json) |
 | BBOnline Remastered | 130315 | [130315-bbonline-remastered.json](./130315-bbonline-remastered.json) |
 | BBOnline the Real | 130314 | [130314-bbonline-the-real.json](./130314-bbonline-the-real.json) |
+| Bbosong | 295601 | [295601-bbosong.json](./295601-bbosong.json) |
 | BBQ Dad | 137565 | [137565-bbq-dad.json](./137565-bbq-dad.json) |
 | BBQ Eater | 175352 | [175352-bbq-eater.json](./175352-bbq-eater.json) |
 | BBQ Master | 364029 | [364029-bbq-master.json](./364029-bbq-master.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
 | Blast Hopper | 284011 | [284011-blast-hopper.json](./284011-blast-hopper.json) |
+| Blast in the Past | 295612 | [295612-blast-in-the-past.json](./295612-blast-in-the-past.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
 | Blast Killer | 338280 | [338280-blast-killer.json](./338280-blast-killer.json) |
@@ -8993,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bohnice: Within the Mind | 271678 | [271678-bohnice-within-the-mind.json](./271678-bohnice-within-the-mind.json) |
 | Bohrdom | 112947 | [112947-bohrdom.json](./112947-bohrdom.json) |
 | Boid | 17646 | [17646-boid.json](./17646-boid.json) |
+| Boidtrancer | 295625 | [295625-boidtrancer.json](./295625-boidtrancer.json) |
 | Boil Cabbage Make Soup | 414516 | [414516-boil-cabbage-make-soup.json](./414516-boil-cabbage-make-soup.json) |
 | Boil Noodles at Night | 270733 | [270733-boil-noodles-at-night.json](./270733-boil-noodles-at-night.json) |
 | Boin | 394455 | [394455-boin.json](./394455-boin.json) |
