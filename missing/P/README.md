@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pancho's Mission | 278140 | [278140-panchos-mission.json](./278140-panchos-mission.json) |
 | PancitoMerge | 347847 | [347847-pancitomerge.json](./347847-pancitomerge.json) |
 | Panco's Journey | 109680 | [109680-pancos-journey.json](./109680-pancos-journey.json) |
+| Panda | 287539 | [287539-panda.json](./287539-panda.json) |
 | Panda | 373877 | [373877-panda.json](./373877-panda.json) |
 | Panda & Crow: A Paraglide Adventure | 267438 | [267438-panda-and-crow-a-paraglide-adventure.json](./267438-panda-and-crow-a-paraglide-adventure.json) |
 | Panda Adventures | 48571 | [48571-panda-adventures.json](./48571-panda-adventures.json) |
@@ -2899,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty | 292982 | [292982-penalty.json](./292982-penalty.json) |
 | Penalty | 312265 | [312265-penalty.json](./312265-penalty.json) |
 | Penalty Challenge | 311227 | [311227-penalty-challenge.json](./311227-penalty-challenge.json) |
+| Penalty Kick | 287540 | [287540-penalty-kick.json](./287540-penalty-kick.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
 | Penalty Soccer 2012 | 259560 | [259560-penalty-soccer-2012.json](./259560-penalty-soccer-2012.json) |
