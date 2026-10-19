@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elios VR | 171922 | [171922-elios-vr.json](./171922-elios-vr.json) |
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
+| Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elise | 245365 | [245365-elise.json](./245365-elise.json) |
 | Elise | 285130 | [285130-elise.json](./285130-elise.json) |
@@ -2252,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerita | 177787 | [177787-emerita.json](./177787-emerita.json) |
 | Emerland Solitaire Journey | 99099 | [99099-emerland-solitaire-journey.json](./99099-emerland-solitaire-journey.json) |
 | Emerland Solitaire: Endless Journey | 32079 | [32079-emerland-solitaire-endless-journey.json](./32079-emerland-solitaire-endless-journey.json) |
+| Emery | 261672 | [261672-emery.json](./261672-emery.json) |
 | Emery Hearts | 286226 | [286226-emery-hearts.json](./286226-emery-hearts.json) |
 | Emetic Skimmer | 55185 | [55185-emetic-skimmer.json](./55185-emetic-skimmer.json) |
 | Emi-chan no Moero Yakyuuken | 41373 | [41373-emi-chan-no-moero-yakyuuken.json](./41373-emi-chan-no-moero-yakyuuken.json) |
@@ -3396,6 +3398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
+| Episode 666 | 261684 | [261684-episode-666.json](./261684-episode-666.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
