@@ -7089,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shut the Windows and Don't Look Outside | 337428 | [337428-shut-the-windows-and-dont-look-outside.json](./337428-shut-the-windows-and-dont-look-outside.json) |
 | Shut Up and Dig | 34147 | [34147-shut-up-and-dig.json](./34147-shut-up-and-dig.json) |
 | Shut Up, Rabbit! | 263744 | [263744-shut-up-rabbit.json](./263744-shut-up-rabbit.json) |
+| Shut Up, RPG! | 309196 | [309196-shut-up-rpg.json](./309196-shut-up-rpg.json) |
 | Shut your teeth | 164252 | [164252-shut-your-teeth.json](./164252-shut-your-teeth.json) |
 | Shutdown. | 370772 | [370772-shutdown.json](./370772-shutdown.json) |
 | Shuten | 330164 | [330164-shuten.json](./330164-shuten.json) |
@@ -12175,6 +12176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Someone's Outside | 303174 | [303174-someones-outside.json](./303174-someones-outside.json) |
 | Someplace Else | 136387 | [136387-someplace-else.json](./136387-someplace-else.json) |
 | Something a Little Super | 352844 | [352844-something-a-little-super.json](./352844-something-a-little-super.json) |
+| Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
 | Something in the mist | 177838 | [177838-something-in-the-mist.json](./177838-something-in-the-mist.json) |
@@ -15266,6 +15268,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedmap Snack Pack | 270846 | [270846-speedmap-snack-pack.json](./270846-speedmap-snack-pack.json) |
 | Speedmap Snack Pack 2: Cosmic Hunger | 270847 | [270847-speedmap-snack-pack-2-cosmic-hunger.json](./270847-speedmap-snack-pack-2-cosmic-hunger.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
+| Speedmapping Pack 196: Quick Honey | 309203 | [309203-speedmapping-pack-196-quick-honey.json](./309203-speedmapping-pack-196-quick-honey.json) |
+| Speedmapping Pack 197: Six Textures - Part 2 | 309204 | [309204-speedmapping-pack-197-six-textures-part-2.json](./309204-speedmapping-pack-197-six-textures-part-2.json) |
 | Speedmapping Pack 218: Episode 4 | 312319 | [312319-speedmapping-pack-218-episode-4.json](./312319-speedmapping-pack-218-episode-4.json) |
 | Speedmapping Pack 221: Bridges | 312317 | [312317-speedmapping-pack-221-bridges.json](./312317-speedmapping-pack-221-bridges.json) |
 | Speedmapping Pack 224: Prototype Jam #4 | 312318 | [312318-speedmapping-pack-224-prototype-jam-4.json](./312318-speedmapping-pack-224-prototype-jam-4.json) |
