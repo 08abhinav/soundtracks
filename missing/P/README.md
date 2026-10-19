@@ -6876,6 +6876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlaneWorld | 399758 | [399758-planeworld.json](./399758-planeworld.json) |
 | Planisphere | 225686 | [225686-planisphere.json](./225686-planisphere.json) |
 | Planisphere | 308430 | [308430-planisphere.json](./308430-planisphere.json) |
+| Planisphere 2 | 296197 | [296197-planisphere-2.json](./296197-planisphere-2.json) |
 | Planitis | 212290 | [212290-planitis.json](./212290-planitis.json) |
 | Plank | 391082 | [391082-plank.json](./391082-plank.json) |
 | Plank Road | 202558 | [202558-plank-road.json](./202558-plank-road.json) |
