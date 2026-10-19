@@ -625,6 +625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
+| Galaxy Fräulein Yuna FX: Kanashimi no Siren | 281927 | [281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json](./281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json) |
 | Galaxy Fräulein Yuna Remix | 216420 | [216420-galaxy-fraulein-yuna-remix.json](./216420-galaxy-fraulein-yuna-remix.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
@@ -2368,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geomancers | 315359 | [315359-geomancers.json](./315359-geomancers.json) |
 | GeoMaze | 298344 | [298344-geomaze.json](./298344-geomaze.json) |
 | Geometra - Join the Colors | 255055 | [255055-geometra-join-the-colors.json](./255055-geometra-join-the-colors.json) |
+| Geometric Brothers: Advance Pack | 281925 | [281925-geometric-brothers-advance-pack.json](./281925-geometric-brothers-advance-pack.json) |
 | Geometric Feel the Beats | 224206 | [224206-geometric-feel-the-beats.json](./224206-geometric-feel-the-beats.json) |
 | Geometric Force Field | 284614 | [284614-geometric-force-field.json](./284614-geometric-force-field.json) |
 | Geometric Link | 269017 | [269017-geometric-link.json](./269017-geometric-link.json) |
