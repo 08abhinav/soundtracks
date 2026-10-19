@@ -9927,6 +9927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
 | Power League V | 37661 | [37661-power-league-v.json](./37661-power-league-v.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
+| Power Line Rider | 270543 | [270543-power-line-rider.json](./270543-power-line-rider.json) |
 | Power Link VR | 31856 | [31856-power-link-vr.json](./31856-power-link-vr.json) |
 | Power Lode Runner | 38243 | [38243-power-lode-runner.json](./38243-power-lode-runner.json) |
 | Power Lords | 24005 | [24005-power-lords.json](./24005-power-lords.json) |
