@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Garden | 20340 | [20340-scrap-garden.json](./20340-scrap-garden.json) |
 | Scrap Garden: The Day Before | 31926 | [31926-scrap-garden-the-day-before.json](./31926-scrap-garden-the-day-before.json) |
 | Scrap Kings | 181898 | [181898-scrap-kings.json](./181898-scrap-kings.json) |
+| Scrap Magic | 273788 | [273788-scrap-magic.json](./273788-scrap-magic.json) |
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
 | Scrap Race | 181331 | [181331-scrap-race.json](./181331-scrap-race.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Reflection | 178011 | [178011-self-reflection.json](./178011-self-reflection.json) |
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
+| Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
@@ -5007,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
 | Shadow Protocol | 351750 | [351750-shadow-protocol.json](./351750-shadow-protocol.json) |
+| Shadow Pulse | 273793 | [273793-shadow-pulse.json](./273793-shadow-pulse.json) |
 | Shadow Puppet | 336687 | [336687-shadow-puppet.json](./336687-shadow-puppet.json) |
 | Shadow Quest | 188095 | [188095-shadow-quest.json](./188095-shadow-quest.json) |
 | Shadow Quest | 326959 | [326959-shadow-quest.json](./326959-shadow-quest.json) |
@@ -5784,6 +5787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell Out | 328047 | [328047-shell-out.json](./328047-shell-out.json) |
 | Shell Out Showdown | 148437 | [148437-shell-out-showdown.json](./148437-shell-out-showdown.json) |
 | Shell Racers | 116463 | [116463-shell-racers.json](./116463-shell-racers.json) |
+| Shell Runner | 273798 | [273798-shell-runner.json](./273798-shell-runner.json) |
 | Shell Shatter | 243969 | [243969-shell-shatter.json](./243969-shell-shatter.json) |
 | Shell Shockers | 111890 | [111890-shell-shockers.json](./111890-shell-shockers.json) |
 | Shell_Break | 112951 | [112951-shell-break.json](./112951-shell-break.json) |
@@ -7461,6 +7465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
 | Siege Hero | 254977 | [254977-siege-hero.json](./254977-siege-hero.json) |
 | Siege Hero: Pirate Pillage | 102028 | [102028-siege-hero-pirate-pillage.json](./102028-siege-hero-pirate-pillage.json) |
+| Siege Island | 273773 | [273773-siege-island.json](./273773-siege-island.json) |
 | Siege Machines Builder | 117596 | [117596-siege-machines-builder.json](./117596-siege-machines-builder.json) |
 | Siege of Avalon | 9382 | [9382-siege-of-avalon.json](./9382-siege-of-avalon.json) |
 | Siege of Centauri | 116002 | [116002-siege-of-centauri.json](./116002-siege-of-centauri.json) |
@@ -10028,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimeria | 259497 | [259497-slimeria.json](./259497-slimeria.json) |
+| Slimes & Dusters TO | 273800 | [273800-slimes-and-dusters-to.json](./273800-slimes-and-dusters-to.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | Slimes: Cannon Combat | 250841 | [250841-slimes-cannon-combat.json](./250841-slimes-cannon-combat.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
@@ -26241,6 +26247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Earrings: Tales of Andaria | 373853 | [373853-swords-and-earrings-tales-of-andaria.json](./373853-swords-and-earrings-tales-of-andaria.json) |
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
+| Swords & Shields AdvBattleBoard | 273795 | [273795-swords-and-shields-advbattleboard.json](./273795-swords-and-shields-advbattleboard.json) |
 | Swords & Slippers | 374141 | [374141-swords-and-slippers.json](./374141-swords-and-slippers.json) |
 | Swords & Soldiers | 10783 | [10783-swords-and-soldiers.json](./10783-swords-and-soldiers.json) |
 | Swords & Soldiers | 210258 | [210258-swords-and-soldiers.json](./210258-swords-and-soldiers.json) |
