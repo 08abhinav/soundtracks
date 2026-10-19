@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblivion Dreams | 375412 | [375412-oblivion-dreams.json](./375412-oblivion-dreams.json) |
 | Oblivion Eagle | 231795 | [231795-oblivion-eagle.json](./231795-oblivion-eagle.json) |
 | Oblivion Eclipse | 216976 | [216976-oblivion-eclipse.json](./216976-oblivion-eclipse.json) |
+| Oblivion Eve | 290295 | [290295-oblivion-eve.json](./290295-oblivion-eve.json) |
 | Oblivion Maiden | 407419 | [407419-oblivion-maiden.json](./407419-oblivion-maiden.json) |
 | Oblivion Tesseract VR | 29708 | [29708-oblivion-tesseract-vr.json](./29708-oblivion-tesseract-vr.json) |
 | Oblivion's Edge | 30673 | [30673-oblivions-edge.json](./30673-oblivions-edge.json) |
