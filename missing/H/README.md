@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | HarleQuest! | 246111 | [246111-harlequest.json](./246111-harlequest.json) |
+| Harlequin Fair: Harbour Dawn | 275501 | [275501-harlequin-fair-harbour-dawn.json](./275501-harlequin-fair-harbour-dawn.json) |
 | Harlequin's Nightmare | 108817 | [108817-harlequins-nightmare.json](./108817-harlequins-nightmare.json) |
 | Harlequinade | 406863 | [406863-harlequinade.json](./406863-harlequinade.json) |
 | Harley Davidson: Race Across America | 49926 | [49926-harley-davidson-race-across-america.json](./49926-harley-davidson-race-across-america.json) |
@@ -3870,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Paradise Vol. 2 | 313153 | [313153-hentai-paradise-vol-2.json](./313153-hentai-paradise-vol-2.json) |
 | Hentai Paradise Vol. 3 | 316263 | [316263-hentai-paradise-vol-3.json](./316263-hentai-paradise-vol-3.json) |
 | Hentai Paradise Vol. 4 | 316262 | [316262-hentai-paradise-vol-4.json](./316262-hentai-paradise-vol-4.json) |
+| Hentai Party | 275444 | [275444-hentai-party.json](./275444-hentai-party.json) |
 | Hentai Party on Rooftop | 301665 | [301665-hentai-party-on-rooftop.json](./301665-hentai-party-on-rooftop.json) |
 | Hentai Party: Secret Garden | 371251 | [371251-hentai-party-secret-garden.json](./371251-hentai-party-secret-garden.json) |
 | Hentai Party: Summer Paradise | 371249 | [371249-hentai-party-summer-paradise.json](./371249-hentai-party-summer-paradise.json) |
@@ -4369,6 +4371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: Flood Rescue | 118428 | [118428-hero-flood-rescue.json](./118428-hero-flood-rescue.json) |
 | Hero's Advent | 361242 | [361242-heros-advent.json](./361242-heros-advent.json) |
+| Hero's Adventure: Road to Passion | 275459 | [275459-heros-adventure-road-to-passion.json](./275459-heros-adventure-road-to-passion.json) |
 | Hero's Arms | 346633 | [346633-heros-arms.json](./346633-heros-arms.json) |
 | Hero's Delirium | 266758 | [266758-heros-delirium.json](./266758-heros-delirium.json) |
 | Hero's Descent | 74363 | [74363-heros-descent.json](./74363-heros-descent.json) |
@@ -9098,6 +9101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
+| Hyper Aggressive | 275480 | [275480-hyper-aggressive.json](./275480-hyper-aggressive.json) |
 | Hyper Apocalypse | 303052 | [303052-hyper-apocalypse.json](./303052-hyper-apocalypse.json) |
 | Hyper Attraction Sky Games | 203182 | [203182-hyper-attraction-sky-games.json](./203182-hyper-attraction-sky-games.json) |
 | Hyper Biker | 318260 | [318260-hyper-biker.json](./318260-hyper-biker.json) |
