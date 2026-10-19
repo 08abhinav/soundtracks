@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uniform Girl | 242062 | [242062-uniform-girl.json](./242062-uniform-girl.json) |
 | Unifutbol | 78602 | [78602-unifutbol.json](./78602-unifutbol.json) |
 | Unify | 78760 | [78760-unify.json](./78760-unify.json) |
+| Unihorn | 295602 | [295602-unihorn.json](./295602-unihorn.json) |
 | Unikitty! Hyper Quiz | 380731 | [380731-unikitty-hyper-quiz.json](./380731-unikitty-hyper-quiz.json) |
 | Unikitty! Save the Kingdom! | 199029 | [199029-unikitty-save-the-kingdom.json](./199029-unikitty-save-the-kingdom.json) |
 | Uniland | 115565 | [115565-uniland.json](./115565-uniland.json) |
