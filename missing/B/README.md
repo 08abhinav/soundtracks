@@ -10865,6 +10865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Battle Saga the Space Fighter | 45542 | [45542-brave-battle-saga-the-space-fighter.json](./45542-brave-battle-saga-the-space-fighter.json) |
 | Brave Blade | 39494 | [39494-brave-blade.json](./39494-brave-blade.json) |
 | Brave Blades | 224075 | [224075-brave-blades.json](./224075-brave-blades.json) |
+| Brave Bow Archer: Princess Rescue Simulator! | 261108 | [261108-brave-bow-archer-princess-rescue-simulator.json](./261108-brave-bow-archer-princess-rescue-simulator.json) |
 | Brave Brigade | 39176 | [39176-brave-brigade.json](./39176-brave-brigade.json) |
 | Brave Builder Construct A Climb | 201577 | [201577-brave-builder-construct-a-climb.json](./201577-brave-builder-construct-a-climb.json) |
 | Brave Cano | 174350 | [174350-brave-cano.json](./174350-brave-cano.json) |
