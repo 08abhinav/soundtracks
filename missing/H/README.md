@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideous Bill and the Gi-Gants | 25718 | [25718-hideous-bill-and-the-gi-gants.json](./25718-hideous-bill-and-the-gi-gants.json) |
 | Hideous Destructor | 139191 | [139191-hideous-destructor.json](./139191-hideous-destructor.json) |
+| Hideout | 258317 | [258317-hideout.json](./258317-hideout.json) |
 | Hideout: Face your fears | 159278 | [159278-hideout-face-your-fears.json](./159278-hideout-face-your-fears.json) |
 | Hidey Ducks: Seasons | 315352 | [315352-hidey-ducks-seasons.json](./315352-hidey-ducks-seasons.json) |
 | Hiding | 364849 | [364849-hiding.json](./364849-hiding.json) |
@@ -9183,6 +9184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyouryuu-ki: The Reportage Beyond the Sea | 298844 | [298844-hyouryuu-ki-the-reportage-beyond-the-sea.json](./298844-hyouryuu-ki-the-reportage-beyond-the-sea.json) |
 | Hyouryuu, Nochi, Zashou | 358724 | [358724-hyouryuu-nochi-zashou.json](./358724-hyouryuu-nochi-zashou.json) |
 | Hyousei Buyuuroku: Record of Ice Fairy War | 406953 | [406953-hyousei-buyuuroku-record-of-ice-fairy-war.json](./406953-hyousei-buyuuroku-record-of-ice-fairy-war.json) |
+| Hyouteki | 258356 | [258356-hyouteki.json](./258356-hyouteki.json) |
 | Hyoutenka 30-do no Zetsubou | 376273 | [376273-hyoutenka-30-do-no-zetsubou.json](./376273-hyoutenka-30-do-no-zetsubou.json) |
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
