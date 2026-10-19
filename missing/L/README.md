@@ -6664,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Kitchen | 153134 | [153134-lovely-kitchen.json](./153134-lovely-kitchen.json) |
 | Lovely Koala | 325612 | [325612-lovely-koala.json](./325612-lovely-koala.json) |
 | Lovely Lady RPG | 316163 | [316163-lovely-lady-rpg.json](./316163-lovely-lady-rpg.json) |
+| Lovely Links | 257234 | [257234-lovely-links.json](./257234-lovely-links.json) |
 | Lovely Lisa 3D | 80608 | [80608-lovely-lisa-3d.json](./80608-lovely-lisa-3d.json) |
 | Lovely Lisa and Friends | 47911 | [47911-lovely-lisa-and-friends.json](./47911-lovely-lisa-and-friends.json) |
 | Lovely Lodgings: Autumn Edition | 402310 | [402310-lovely-lodgings-autumn-edition.json](./402310-lovely-lodgings-autumn-edition.json) |
