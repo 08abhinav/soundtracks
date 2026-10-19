@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemco RPG Selection Vol. 9 | 186664 | [186664-kemco-rpg-selection-vol-9.json](./186664-kemco-rpg-selection-vol-9.json) |
 | Kemco: 50 RPGs Celebratory Bundle | 259865 | [259865-kemco-50-rpgs-celebratory-bundle.json](./259865-kemco-50-rpgs-celebratory-bundle.json) |
 | Kemeko Deluxe! DS: Yome to Meka to Otoko to Onna | 123343 | [123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json](./123343-kemeko-deluxe-ds-yome-to-meka-to-otoko-to-onna.json) |
+| Kemet X | 271089 | [271089-kemet-x.json](./271089-kemet-x.json) |
 | Kemo Kare! Oretachi no BL Byoutou | 240515 | [240515-kemo-kare-oretachi-no-bl-byoutou.json](./240515-kemo-kare-oretachi-no-bl-byoutou.json) |
 | Kemono Dash! | 222247 | [222247-kemono-dash.json](./222247-kemono-dash.json) |
 | Kemono Friends | 109605 | [109605-kemono-friends.json](./109605-kemono-friends.json) |
