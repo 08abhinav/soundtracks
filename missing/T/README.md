@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crossroads | 179684 | [179684-the-crossroads.json](./179684-the-crossroads.json) |
 | The Crossroads | 326269 | [326269-the-crossroads.json](./326269-the-crossroads.json) |
 | The Crossroads | 411592 | [411592-the-crossroads.json](./411592-the-crossroads.json) |
+| The Crossword | 308025 | [308025-the-crossword.json](./308025-the-crossword.json) |
 | The Crow | 315684 | [315684-the-crow.json](./315684-the-crow.json) |
 | The Crow: City of Angels | 8538 | [8538-the-crow-city-of-angels.json](./8538-the-crow-city-of-angels.json) |
 | The Crow's Eye | 6730 | [6730-the-crows-eye.json](./6730-the-crows-eye.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
+| The Ghosts of Blackwood Manor | 308021 | [308021-the-ghosts-of-blackwood-manor.json](./308021-the-ghosts-of-blackwood-manor.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
 | The Ghosts Race | 214186 | [214186-the-ghosts-race.json](./214186-the-ghosts-race.json) |
@@ -8429,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
+| The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
 | The Key of Rednow | 163403 | [163403-the-key-of-rednow.json](./163403-the-key-of-rednow.json) |
 | The Key to Forgotten Souls | 395177 | [395177-the-key-to-forgotten-souls.json](./395177-the-key-to-forgotten-souls.json) |
 | The Key to Home | 75948 | [75948-the-key-to-home.json](./75948-the-key-to-home.json) |
@@ -12845,6 +12848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
 | The Terrors of Trantoss | 232557 | [232557-the-terrors-of-trantoss.json](./232557-the-terrors-of-trantoss.json) |
 | The test of beauty | 161645 | [161645-the-test-of-beauty.json](./161645-the-test-of-beauty.json) |
+| The Test of Insanity | 308043 | [308043-the-test-of-insanity.json](./308043-the-test-of-insanity.json) |
 | The Test: Final Revelation | 149355 | [149355-the-test-final-revelation.json](./149355-the-test-final-revelation.json) |
 | The Test: Hypothesis Rising | 132660 | [132660-the-test-hypothesis-rising.json](./132660-the-test-hypothesis-rising.json) |
 | The Test: Reality Check | 334018 | [334018-the-test-reality-check.json](./334018-the-test-reality-check.json) |
@@ -24342,6 +24346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type the Rhythm | 389582 | [389582-type-the-rhythm.json](./389582-type-the-rhythm.json) |
 | Type to Continue | 177971 | [177971-type-to-continue.json](./177971-type-to-continue.json) |
 | Type to Learn 3 | 186073 | [186073-type-to-learn-3.json](./186073-type-to-learn-3.json) |
+| Type To Report | 308045 | [308045-type-to-report.json](./308045-type-to-report.json) |
 | Type: Jump | 242076 | [242076-type-jump.json](./242076-type-jump.json) |
 | Type: Turbo | 391740 | [391740-type-turbo.json](./391740-type-turbo.json) |
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
