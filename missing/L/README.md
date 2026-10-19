@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lanternwood | 375827 | [375827-lanternwood.json](./375827-lanternwood.json) |
 | LanthernStudio Paint | 131333 | [131333-lanthernstudio-paint.json](./131333-lanthernstudio-paint.json) |
 | Lap of the Gods | 30210 | [30210-lap-of-the-gods.json](./30210-lap-of-the-gods.json) |
+| Lapidary: Jewel Craft Simulator | 291323 | [291323-lapidary-jewel-craft-simulator.json](./291323-lapidary-jewel-craft-simulator.json) |
 | Lapin | 161220 | [161220-lapin.json](./161220-lapin.json) |
 | Lapin Malin : J'apprends à lire et à ecrire | 147201 | [147201-lapin-malin-japprends-a-lire-et-a-ecrire.json](./147201-lapin-malin-japprends-a-lire-et-a-ecrire.json) |
 | Lapinka and Hidden Shield | 392716 | [392716-lapinka-and-hidden-shield.json](./392716-lapinka-and-hidden-shield.json) |
@@ -752,6 +753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
+| Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
 | Laser Dreams | 58267 | [58267-laser-dreams.json](./58267-laser-dreams.json) |
 | Laser Drift: OverDrive | 28567 | [28567-laser-drift-overdrive.json](./28567-laser-drift-overdrive.json) |
 | Laser Droplets | 159870 | [159870-laser-droplets.json](./159870-laser-droplets.json) |
@@ -3002,6 +3004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LevelMergePuzzle | 297652 | [297652-levelmergepuzzle.json](./297652-levelmergepuzzle.json) |
 | Levels | 391700 | [391700-levels.json](./391700-levels.json) |
 | Levels+: Addictive Puzzle Game | 51407 | [51407-levels-addictive-puzzle-game.json](./51407-levels-addictive-puzzle-game.json) |
+| Lever Simulator: Multiplayer | 291317 | [291317-lever-simulator-multiplayer.json](./291317-lever-simulator-multiplayer.json) |
 | Leveron Space | 32761 | [32761-leveron-space.json](./32761-leveron-space.json) |
 | Levers & Buttons | 116942 | [116942-levers-and-buttons.json](./116942-levers-and-buttons.json) |
 | Levers! | 200195 | [200195-levers.json](./200195-levers.json) |
