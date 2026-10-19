@@ -5164,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent: Silence of Mind | 41905 | [41905-descent-silence-of-mind.json](./41905-descent-silence-of-mind.json) |
 | Descent: The Dark Corridors | 298450 | [298450-descent-the-dark-corridors.json](./298450-descent-the-dark-corridors.json) |
 | Descentium | 211139 | [211139-descentium.json](./211139-descentium.json) |
+| Descriptionary | 264490 | [264490-descriptionary.json](./264490-descriptionary.json) |
 | DescTop | 369331 | [369331-desctop.json](./369331-desctop.json) |
 | Desdemona | 150545 | [150545-desdemona.json](./150545-desdemona.json) |
 | Desecrated Deck | 338709 | [338709-desecrated-deck.json](./338709-desecrated-deck.json) |
@@ -6165,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
+| Diary of Lucie: Hammer Weapon Pack | 264506 | [264506-diary-of-lucie-hammer-weapon-pack.json](./264506-diary-of-lucie-hammer-weapon-pack.json) |
 | Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
@@ -8522,6 +8524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogforce: Seasons | 179161 | [179161-dogforce-seasons.json](./179161-dogforce-seasons.json) |
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
+| Doggie Blues 3D | 264472 | [264472-doggie-blues-3d.json](./264472-doggie-blues-3d.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
