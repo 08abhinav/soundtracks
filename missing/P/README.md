@@ -11851,6 +11851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Vostok: Episode 1 | 189892 | [189892-project-vostok-episode-1.json](./189892-project-vostok-episode-1.json) |
 | Project VR Wild Hunt | 120674 | [120674-project-vr-wild-hunt.json](./120674-project-vr-wild-hunt.json) |
+| Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
 | Project Warlock II | 152272 | [152272-project-warlock-ii.json](./152272-project-warlock-ii.json) |
@@ -12378,6 +12379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychometric Personality Profiler | 292402 | [292402-psychometric-personality-profiler.json](./292402-psychometric-personality-profiler.json) |
 | Psychonauts 2: Motherlobe Edition | 207394 | [207394-psychonauts-2-motherlobe-edition.json](./207394-psychonauts-2-motherlobe-edition.json) |
 | Psychopath Hunt | 356201 | [356201-psychopath-hunt.json](./356201-psychopath-hunt.json) |
+| Psychopath Hunt Two | 290796 | [290796-psychopath-hunt-two.json](./290796-psychopath-hunt-two.json) |
 | Psychopath Mind Quiz: Unmask Their Dark Nature | 420663 | [420663-psychopath-mind-quiz-unmask-their-dark-nature.json](./420663-psychopath-mind-quiz-unmask-their-dark-nature.json) |
 | Psychopathy Assessment | 341438 | [341438-psychopathy-assessment.json](./341438-psychopathy-assessment.json) |
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
