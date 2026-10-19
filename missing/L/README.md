@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
+| Legacy: The Lost Pyramid | 294545 | [294545-legacy-the-lost-pyramid.json](./294545-legacy-the-lost-pyramid.json) |
 | Legacy: Witch Island | 164425 | [164425-legacy-witch-island.json](./164425-legacy-witch-island.json) |
 | Legacy: Witch Island 2 | 159655 | [159655-legacy-witch-island-2.json](./159655-legacy-witch-island-2.json) |
 | Legacy: Witch Island 3 | 159768 | [159768-legacy-witch-island-3.json](./159768-legacy-witch-island-3.json) |
