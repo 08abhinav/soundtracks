@@ -6329,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia for Nintendo Switch | 136829 | [136829-amnesia-for-nintendo-switch.json](./136829-amnesia-for-nintendo-switch.json) |
 | Amnesia Later | 62753 | [62753-amnesia-later.json](./62753-amnesia-later.json) |
 | Amnesia Later x Crowd for Nintendo Switch | 136947 | [136947-amnesia-later-x-crowd-for-nintendo-switch.json](./136947-amnesia-later-x-crowd-for-nintendo-switch.json) |
+| Amnesia Re-collection | 263367 | [263367-amnesia-re-collection.json](./263367-amnesia-re-collection.json) |
 | Amnesia World | 62755 | [62755-amnesia-world.json](./62755-amnesia-world.json) |
 | Amnesia: A Coward's Debt | 352198 | [352198-amnesia-a-cowards-debt.json](./352198-amnesia-a-cowards-debt.json) |
 | Amnesia: Day One Edition Dual Pack | 196820 | [196820-amnesia-day-one-edition-dual-pack.json](./196820-amnesia-day-one-edition-dual-pack.json) |
@@ -7495,6 +7496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
+| Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
 | Anime Thighs: 18+ Content | 297774 | [297774-anime-thighs-18-content.json](./297774-anime-thighs-18-content.json) |
@@ -10227,6 +10229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core VI: Fires of Rubicon | 228542 | [228542-armored-core-vi-fires-of-rubicon.json](./228542-armored-core-vi-fires-of-rubicon.json) |
 | Armored Core VI: Fires of Rubicon - Collector's Edition | 249258 | [249258-armored-core-vi-fires-of-rubicon-collectors-edition.json](./249258-armored-core-vi-fires-of-rubicon-collectors-edition.json) |
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
+| Armored Core VI: Fires of Rubicon - Premium Edition | 263370 | [263370-armored-core-vi-fires-of-rubicon-premium-edition.json](./263370-armored-core-vi-fires-of-rubicon-premium-edition.json) |
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
