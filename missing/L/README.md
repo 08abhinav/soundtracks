@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
 | Ladies, Don't Tempt My Immortality | 384297 | [384297-ladies-dont-tempt-my-immortality.json](./384297-ladies-dont-tempt-my-immortality.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
+| Lady & Lonely Boy: Ojou-sama to Bocchi-kun | 308619 | [308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json](./308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
 | Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
@@ -4548,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little-Known Galaxy | 273654 | [273654-little-known-galaxy.json](./273654-little-known-galaxy.json) |
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
+| LittleBigPlanet 2: Move Pack | 308657 | [308657-littlebigplanet-2-move-pack.json](./308657-littlebigplanet-2-move-pack.json) |
 | LittleBigPlanet 2: Raven Costume | 344728 | [344728-littlebigplanet-2-raven-costume.json](./344728-littlebigplanet-2-raven-costume.json) |
 | LittleBigPlanet 2: Special Edition | 21717 | [21717-littlebigplanet-2-special-edition.json](./21717-littlebigplanet-2-special-edition.json) |
 | LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
@@ -7176,6 +7178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
+| Lunch Box Ready | 308621 | [308621-lunch-box-ready.json](./308621-lunch-box-ready.json) |
 | Lunch Break | 113892 | [113892-lunch-break.json](./113892-lunch-break.json) |
 | Lunch Hero | 142155 | [142155-lunch-hero.json](./142155-lunch-hero.json) |
 | Lunch Lady | 145855 | [145855-lunch-lady.json](./145855-lunch-lady.json) |
