@@ -2754,6 +2754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peasant Knight | 76708 | [76708-peasant-knight.json](./76708-peasant-knight.json) |
 | Peasant Nightmare | 364012 | [364012-peasant-nightmare.json](./364012-peasant-nightmare.json) |
 | Peasant or Rebel? | 390071 | [390071-peasant-or-rebel.json](./390071-peasant-or-rebel.json) |
+| Peasant Royale | 277746 | [277746-peasant-royale.json](./277746-peasant-royale.json) |
 | Peasant TD | 195158 | [195158-peasant-td.json](./195158-peasant-td.json) |
 | Peasants | 156594 | [156594-peasants.json](./156594-peasants.json) |
 | Peasants War | 380187 | [380187-peasants-war.json](./380187-peasants-war.json) |
@@ -6811,6 +6812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Squirrel | 106743 | [106743-planet-squirrel.json](./106743-planet-squirrel.json) |
 | Planet Stronghold | 8982 | [8982-planet-stronghold.json](./8982-planet-stronghold.json) |
 | Planet Stronghold 2 | 103609 | [103609-planet-stronghold-2.json](./103609-planet-stronghold-2.json) |
+| Planet Suika | 277732 | [277732-planet-suika.json](./277732-planet-suika.json) |
 | Planet Surf: The Last Wave | 158672 | [158672-planet-surf-the-last-wave.json](./158672-planet-surf-the-last-wave.json) |
 | Planet Surfer | 221145 | [221145-planet-surfer.json](./221145-planet-surfer.json) |
 | Planet TD | 195265 | [195265-planet-td.json](./195265-planet-td.json) |
@@ -12296,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proze: Enlightenment | 116132 | [116132-proze-enlightenment.json](./116132-proze-enlightenment.json) |
 | Prší | 99579 | [99579-prsi.json](./99579-prsi.json) |
 | PRTs | 176277 | [176277-prts.json](./176277-prts.json) |
+| Pru the Pigeon | 277758 | [277758-pru-the-pigeon.json](./277758-pru-the-pigeon.json) |
 | Prueba Humana | 361231 | [361231-prueba-humana.json](./361231-prueba-humana.json) |
 | Prune | 18134 | [18134-prune.json](./18134-prune.json) |
 | Prune & Milo | 294134 | [294134-prune-and-milo.json](./294134-prune-and-milo.json) |
