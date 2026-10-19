@@ -3613,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Directive | 83588 | [83588-final-directive.json](./83588-final-directive.json) |
 | Final District | 345045 | [345045-final-district.json](./345045-final-district.json) |
 | Final Doom | 8191 | [8191-final-doom.json](./8191-final-doom.json) |
+| Final Doomer | 300445 | [300445-final-doomer.json](./300445-final-doomer.json) |
 | Final Dream | 340973 | [340973-final-dream.json](./340973-final-dream.json) |
 | Final Duel 2: Deathmatch arena | 73775 | [73775-final-duel-2-deathmatch-arena.json](./73775-final-duel-2-deathmatch-arena.json) |
 | Final Dusk | 36046 | [36046-final-dusk.json](./36046-final-dusk.json) |
@@ -7986,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox4Elite | 241878 | [241878-fox4elite.json](./241878-fox4elite.json) |
 | Foxblade | 244872 | [244872-foxblade.json](./244872-foxblade.json) |
 | Foxblade Fable | 316168 | [316168-foxblade-fable.json](./316168-foxblade-fable.json) |
+| FoxCode | 300451 | [300451-foxcode.json](./300451-foxcode.json) |
 | Foxcrate | 266978 | [266978-foxcrate.json](./266978-foxcrate.json) |
 | Foxcrate | 383928 | [383928-foxcrate.json](./383928-foxcrate.json) |
 | Foxes and Cows | 178608 | [178608-foxes-and-cows.json](./178608-foxes-and-cows.json) |
