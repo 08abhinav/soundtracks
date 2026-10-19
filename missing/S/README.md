@@ -26380,6 +26380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synonymy | 35925 | [35925-synonymy.json](./35925-synonymy.json) |
 | Synopsis Quest | 66166 | [66166-synopsis-quest.json](./66166-synopsis-quest.json) |
 | Synopsle | 265056 | [265056-synopsle.json](./265056-synopsle.json) |
+| Synso: Squid Harder! | 284779 | [284779-synso-squid-harder.json](./284779-synso-squid-harder.json) |
 | SyntaxBomb | 183012 | [183012-syntaxbomb.json](./183012-syntaxbomb.json) |
 | Syntaxia | 326573 | [326573-syntaxia.json](./326573-syntaxia.json) |
 | Synth Ark | 317234 | [317234-synth-ark.json](./317234-synth-ark.json) |
