@@ -6344,6 +6344,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelgunners | 25802 | [25802-pixelgunners.json](./25802-pixelgunners.json) |
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
+| Pixeline Skolehjælp: Dansk – Kaos i Kommakøbing | 285853 | [285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json](./285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json) |
+| Pixeline Skolehjælp: Dinosaurer – De Frygtelige Øgler | 285851 | [285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json](./285851-pixeline-skolehj-lp-dinosaurer-de-frygtelige-gler.json) |
+| Pixeline Skolehjælp: Learning English – Money or Nothing | 285852 | [285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json](./285852-pixeline-skolehj-lp-learning-english-money-or-nothing.json) |
+| Pixeline Skolehjælp: Matematik – Tåger over Talstrup | 285854 | [285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json](./285854-pixeline-skolehj-lp-matematik-tager-over-talstrup.json) |
 | Pixeline: for Fulde Sejl | 147880 | [147880-pixeline-for-fulde-sejl.json](./147880-pixeline-for-fulde-sejl.json) |
 | Pixeline: fuld af Fis og Ballade | 147881 | [147881-pixeline-fuld-af-fis-og-ballade.json](./147881-pixeline-fuld-af-fis-og-ballade.json) |
 | Pixeline: I Pixieland | 49766 | [49766-pixeline-i-pixieland.json](./49766-pixeline-i-pixieland.json) |
@@ -12786,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
 | Punk Girl | 363660 | [363660-punk-girl.json](./363660-punk-girl.json) |
+| Punk Juice | 285892 | [285892-punk-juice.json](./285892-punk-juice.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
 | Punk Racer | 411619 | [411619-punk-racer.json](./411619-punk-racer.json) |
 | Punk Star | 330003 | [330003-punk-star.json](./330003-punk-star.json) |
