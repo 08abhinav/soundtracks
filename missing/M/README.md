@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
 | Margonem Adventures | 237638 | [237638-margonem-adventures.json](./237638-margonem-adventures.json) |
+| Margoq's Lair | 270559 | [270559-margoqs-lair.json](./270559-margoqs-lair.json) |
 | Margot's Bepuzzled | 210042 | [210042-margots-bepuzzled.json](./210042-margots-bepuzzled.json) |
 | Margot's Word Brain | 47961 | [47961-margots-word-brain.json](./47961-margots-word-brain.json) |
 | Margrave Manor 3: The Curse of the Blacksmith's Heart | 210041 | [210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json](./210041-margrave-manor-3-the-curse-of-the-blacksmiths-heart.json) |
@@ -6813,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merchant of the Six Kingdoms | 236180 | [236180-merchant-of-the-six-kingdoms.json](./236180-merchant-of-the-six-kingdoms.json) |
 | Merchant Prince | 19705 | [19705-merchant-prince.json](./19705-merchant-prince.json) |
 | Merchant's Game | 164519 | [164519-merchants-game.json](./164519-merchants-game.json) |
+| Merchant's Odyssey | 270518 | [270518-merchants-odyssey.json](./270518-merchants-odyssey.json) |
 | Merchant's Rise | 393964 | [393964-merchants-rise.json](./393964-merchants-rise.json) |
 | Merchants & Mercenaries | 30846 | [30846-merchants-and-mercenaries.json](./30846-merchants-and-mercenaries.json) |
 | Merchants of Kaidan | 17288 | [17288-merchants-of-kaidan.json](./17288-merchants-of-kaidan.json) |
@@ -10287,6 +10289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mists of Aiden | 135840 | [135840-mists-of-aiden.json](./135840-mists-of-aiden.json) |
 | Mists of Noyah | 129667 | [129667-mists-of-noyah.json](./129667-mists-of-noyah.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
+| Mistward | 270524 | [270524-mistward.json](./270524-mistward.json) |
 | Mistwilds | 349306 | [349306-mistwilds.json](./349306-mistwilds.json) |
 | Mistwood Heroes | 29936 | [29936-mistwood-heroes.json](./29936-mistwood-heroes.json) |
 | MistWorld the after2 | 215367 | [215367-mistworld-the-after2.json](./215367-mistworld-the-after2.json) |
@@ -14571,6 +14574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
+| Mutant Frog | 270520 | [270520-mutant-frog.json](./270520-mutant-frog.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Hunter | 338909 | [338909-mutant-hunter.json](./338909-mutant-hunter.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
