@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
+| Night Shift at Fazclaire's Nightclub | 289164 | [289164-night-shift-at-fazclaires-nightclub.json](./289164-night-shift-at-fazclaires-nightclub.json) |
 | Night Shift at the Gym | 373358 | [373358-night-shift-at-the-gym.json](./373358-night-shift-at-the-gym.json) |
 | Night Shift Customer | 372599 | [372599-night-shift-customer.json](./372599-night-shift-customer.json) |
 | Night Shift Dissonance | 297349 | [297349-night-shift-dissonance.json](./297349-night-shift-dissonance.json) |
