@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 400 Years | 12383 | [12383-400-years.json](./12383-400-years.json) |
 | 4004-022 | 117566 | [117566-4004-022.json](./117566-4004-022.json) |
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
+| 403 Puppet | 259994 | [259994-403-puppet.json](./259994-403-puppet.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404 Missing Page Detective Agency | 182768 | [182768-404-missing-page-detective-agency.json](./182768-404-missing-page-detective-agency.json) |
 | 404 Shinigami | 176753 | [176753-404-shinigami.json](./176753-404-shinigami.json) |
