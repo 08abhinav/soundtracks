@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1% Survival Escape | 210836 | [210836-1-survival-escape.json](./210836-1-survival-escape.json) |
 | 10 | 294440 | [294440-10.json](./294440-10.json) |
 | 10 Advices | 296183 | [296183-10-advices.json](./296183-10-advices.json) |
+| 10 am Break | 259431 | [259431-10-am-break.json](./259431-10-am-break.json) |
 | 10 AM Funkin' | 202586 | [202586-10-am-funkin.json](./202586-10-am-funkin.json) |
 | 10 Amazingly Awful Games | 78332 | [78332-10-amazingly-awful-games.json](./78332-10-amazingly-awful-games.json) |
 | 10 Amazingly Awful Games Vol 2 | 79939 | [79939-10-amazingly-awful-games-vol-2.json](./79939-10-amazingly-awful-games-vol-2.json) |
@@ -586,6 +587,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
 | 1000 Hidden Snails | 203391 | [203391-1000-hidden-snails.json](./203391-1000-hidden-snails.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
+| 1000 Lines 2 Community Project | 259390 | [259390-1000-lines-2-community-project.json](./259390-1000-lines-2-community-project.json) |
+| 1000 Lines 3 Community Project | 259391 | [259391-1000-lines-3-community-project.json](./259391-1000-lines-3-community-project.json) |
 | 1000 Needles | 188439 | [188439-1000-needles.json](./188439-1000-needles.json) |
 | 1000 of Single Stroke | 297641 | [297641-1000-of-single-stroke.json](./297641-1000-of-single-stroke.json) |
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
@@ -2116,6 +2119,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5:48AM | 277038 | [277038-5-48am.json](./277038-5-48am.json) |
 | 5.84 Wing | 115517 | [115517-5-84-wing.json](./115517-5-84-wing.json) |
 | 50 | 186671 | [186671-50.json](./186671-50.json) |
+| 50 Blockbuster Games Volume 1 | 259410 | [259410-50-blockbuster-games-volume-1.json](./259410-50-blockbuster-games-volume-1.json) |
+| 50 Blockbuster Games Volume 2 | 259411 | [259411-50-blockbuster-games-volume-2.json](./259411-50-blockbuster-games-volume-2.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Coins of Deadly Doom | 381979 | [381979-50-coins-of-deadly-doom.json](./381979-50-coins-of-deadly-doom.json) |
 | 50 Days to Survive | 239100 | [239100-50-days-to-survive.json](./239100-50-days-to-survive.json) |
