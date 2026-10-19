@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Bump 2 | 313726 | [313726-baby-bump-2.json](./313726-baby-bump-2.json) |
 | Baby Bump: Book 1 | 313725 | [313725-baby-bump-book-1.json](./313725-baby-bump-book-1.json) |
 | Baby Carbonara | 404968 | [404968-baby-carbonara.json](./404968-baby-carbonara.json) |
+| Baby Climbing | 266104 | [266104-baby-climbing.json](./266104-baby-climbing.json) |
 | Baby Coyote | 157912 | [157912-baby-coyote.json](./157912-baby-coyote.json) |
 | Baby Dino | 283970 | [283970-baby-dino.json](./283970-baby-dino.json) |
 | Baby Dino Adventures | 137893 | [137893-baby-dino-adventures.json](./137893-baby-dino-adventures.json) |
@@ -9818,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borbs | 411526 | [411526-borbs.json](./411526-borbs.json) |
 | Border Bots VR | 260759 | [260759-border-bots-vr.json](./260759-border-bots-vr.json) |
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
+| Border Clash | 266089 | [266089-border-clash.json](./266089-border-clash.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
@@ -11411,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
+| Brick on the Head | 266101 | [266101-brick-on-the-head.json](./266101-brick-on-the-head.json) |
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
@@ -12722,6 +12725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletstorm: Lite | 212310 | [212310-bulletstorm-lite.json](./212310-bulletstorm-lite.json) |
 | BulletVille | 137591 | [137591-bulletville.json](./137591-bulletville.json) |
 | Bulletz | 275111 | [275111-bulletz.json](./275111-bulletz.json) |
+| Bullezine | 266106 | [266106-bullezine.json](./266106-bullezine.json) |
 | Bullfight | 40059 | [40059-bullfight.json](./40059-bullfight.json) |
 | Bullfight Ring no Hasha | 59428 | [59428-bullfight-ring-no-hasha.json](./59428-bullfight-ring-no-hasha.json) |
 | Bullring | 281373 | [281373-bullring.json](./281373-bullring.json) |
@@ -13437,6 +13441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butterfly 2 | 117550 | [117550-butterfly-2.json](./117550-butterfly-2.json) |
 | Butterfly 3: Funny Twins | 153340 | [153340-butterfly-3-funny-twins.json](./153340-butterfly-3-funny-twins.json) |
 | Butterfly Æffect: Papillons à Quatre Mains | 381148 | [381148-butterfly-ffect-papillons-a-quatre-mains.json](./381148-butterfly-ffect-papillons-a-quatre-mains.json) |
+| Butterfly again | 266087 | [266087-butterfly-again.json](./266087-butterfly-again.json) |
 | Butterfly Bundle | 218489 | [218489-butterfly-bundle.json](./218489-butterfly-bundle.json) |
 | Butterfly Collector | 183536 | [183536-butterfly-collector.json](./183536-butterfly-collector.json) |
 | Butterfly Couple | 334800 | [334800-butterfly-couple.json](./334800-butterfly-couple.json) |
