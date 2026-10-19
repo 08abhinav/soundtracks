@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat of Khronos | 182356 | [182356-cat-of-khronos.json](./182356-cat-of-khronos.json) |
 | Cat of Monte Cristo | 155008 | [155008-cat-of-monte-cristo.json](./155008-cat-of-monte-cristo.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
+| Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
 | Cat Piano | 300778 | [300778-cat-piano.json](./300778-cat-piano.json) |
 | Cat Ping Pong | 251642 | [251642-cat-ping-pong.json](./251642-cat-ping-pong.json) |
@@ -2926,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Rescue Helicopter | 231958 | [231958-cat-rescue-helicopter.json](./231958-cat-rescue-helicopter.json) |
 | Cat Rescue Inc. | 345650 | [345650-cat-rescue-inc.json](./345650-cat-rescue-inc.json) |
 | Cat Runner 2018 | 99414 | [99414-cat-runner-2018.json](./99414-cat-runner-2018.json) |
+| Cat Sandbox | 277738 | [277738-cat-sandbox.json](./277738-cat-sandbox.json) |
 | Cat Screen | 410234 | [410234-cat-screen.json](./410234-cat-screen.json) |
 | Cat Search in Feudal Japan | 284798 | [284798-cat-search-in-feudal-japan.json](./284798-cat-search-in-feudal-japan.json) |
 | Cat Search in Medieval Times | 246839 | [246839-cat-search-in-medieval-times.json](./246839-cat-search-in-medieval-times.json) |
@@ -3464,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Diver | 362819 | [362819-cave-diver.json](./362819-cave-diver.json) |
 | Cave Dude | 282496 | [282496-cave-dude.json](./282496-cave-dude.json) |
 | Cave Dude | 46107 | [46107-cave-dude.json](./46107-cave-dude.json) |
+| Cave Dweller | 277736 | [277736-cave-dweller.json](./277736-cave-dweller.json) |
 | Cave Escape | 294272 | [294272-cave-escape.json](./294272-cave-escape.json) |
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
@@ -4123,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion of the Raj | 11998 | [11998-champion-of-the-raj.json](./11998-champion-of-the-raj.json) |
 | Champion of Turnabouts | 306618 | [306618-champion-of-turnabouts.json](./306618-champion-of-turnabouts.json) |
 | Champion of Venus | 196636 | [196636-champion-of-venus.json](./196636-champion-of-venus.json) |
+| Champion of Venus: Tayla's Big Adventure | 277752 | [277752-champion-of-venus-taylas-big-adventure.json](./277752-champion-of-venus-taylas-big-adventure.json) |
 | Champion Pro Wrestling | 6090 | [6090-champion-pro-wrestling.json](./6090-champion-pro-wrestling.json) |
 | Champion ProWres Special | 125978 | [125978-champion-prowres-special.json](./125978-champion-prowres-special.json) |
 | Champion Shift | 249837 | [249837-champion-shift.json](./249837-champion-shift.json) |
@@ -6723,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Defense Z | 284974 | [284974-city-defense-z.json](./284974-city-defense-z.json) |
 | City Destructor | 132442 | [132442-city-destructor.json](./132442-city-destructor.json) |
 | City Driver | 270595 | [270595-city-driver.json](./270595-city-driver.json) |
+| City Driver: Car Parking Simulator | 277726 | [277726-city-driver-car-parking-simulator.json](./277726-city-driver-car-parking-simulator.json) |
 | City Driver: Police Parking Simulator | 316196 | [316196-city-driver-police-parking-simulator.json](./316196-city-driver-police-parking-simulator.json) |
 | City Driving Simulator | 135634 | [135634-city-driving-simulator.json](./135634-city-driving-simulator.json) |
 | City Dunk 2 | 220298 | [220298-city-dunk-2.json](./220298-city-dunk-2.json) |
@@ -7668,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Close For The Night Horror | 362187 | [362187-close-for-the-night-horror.json](./362187-close-for-the-night-horror.json) |
 | Close Me | 51579 | [51579-close-me.json](./51579-close-me.json) |
 | Close Order | 34917 | [34917-close-order.json](./34917-close-order.json) |
+| Close Quarters | 277709 | [277709-close-quarters.json](./277709-close-quarters.json) |
 | Close Quarters Conflict | 27472 | [27472-close-quarters-conflict.json](./27472-close-quarters-conflict.json) |
 | Close Quarters Supremacy: The Legis | 173234 | [173234-close-quarters-supremacy-the-legis.json](./173234-close-quarters-supremacy-the-legis.json) |
 | Close Shell | 246437 | [246437-close-shell.json](./246437-close-shell.json) |
