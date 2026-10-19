@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KanjiMemory | 293480 | [293480-kanjimemory.json](./293480-kanjimemory.json) |
 | Kanjozoku 2: Drift Car Games | 297309 | [297309-kanjozoku-2-drift-car-games.json](./297309-kanjozoku-2-drift-car-games.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
+| Kanjozoku: Wangan Runners | 280666 | [280666-kanjozoku-wangan-runners.json](./280666-kanjozoku-wangan-runners.json) |
 | Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
 | Kanmuri wo Motsu Kami no Te | 221932 | [221932-kanmuri-wo-motsu-kami-no-te.json](./221932-kanmuri-wo-motsu-kami-no-te.json) |
 | Kanna | 127735 | [127735-kanna.json](./127735-kanna.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
 | KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
+| Kimomen Demo Kyokon nara School Caste no Chouten ni Tateru!? Gakuen Ichi no Motekawa Shuudan ni Tanetsuke Shimakuri! Yume no Gakuen Harem! | 280641 | [280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json](./280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json) |
 | Kimono Cats | 249774 | [249774-kimono-cats.json](./249774-kimono-cats.json) |
 | Kimono Girls | 286449 | [286449-kimono-girls.json](./286449-kimono-girls.json) |
 | Kin | 84169 | [84169-kin.json](./84169-kin.json) |
