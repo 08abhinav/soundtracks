@@ -150,6 +150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vae Victis | 250988 | [250988-vae-victis.json](./250988-vae-victis.json) |
 | Vae Victis: Khan | 267671 | [267671-vae-victis-khan.json](./267671-vae-victis-khan.json) |
 | Vae Victus 2 | 256862 | [256862-vae-victus-2.json](./256862-vae-victus-2.json) |
+| Vaer | 296149 | [296149-vaer.json](./296149-vaer.json) |
 | Vaewolf | 415294 | [415294-vaewolf.json](./415294-vaewolf.json) |
 | Vagabond Inn | 284346 | [284346-vagabond-inn.json](./284346-vagabond-inn.json) |
 | Vagabond Starship | 150761 | [150761-vagabond-starship.json](./150761-vagabond-starship.json) |
@@ -2867,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Harem Life | 338563 | [338563-vr-harem-life.json](./338563-vr-harem-life.json) |
 | VR Harem Sex | 295359 | [295359-vr-harem-sex.json](./295359-vr-harem-sex.json) |
 | VR Harem Sex: Hikari | 301659 | [301659-vr-harem-sex-hikari.json](./301659-vr-harem-sex-hikari.json) |
+| VR Harem Sex: Mai DLC | 296268 | [296268-vr-harem-sex-mai-dlc.json](./296268-vr-harem-sex-mai-dlc.json) |
 | VR Harem Sex: Rui | 301660 | [301660-vr-harem-sex-rui.json](./301660-vr-harem-sex-rui.json) |
 | VR Hentai | 384637 | [384637-vr-hentai.json](./384637-vr-hentai.json) |
 | VR Hentai 18+ | 384636 | [384636-vr-hentai-18.json](./384636-vr-hentai-18.json) |
