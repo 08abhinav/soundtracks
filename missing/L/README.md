@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.O.L. Surprise!: Laptop Divertido | 297739 | [297739-l-o-l-surprise-laptop-divertido.json](./297739-l-o-l-surprise-laptop-divertido.json) |
 | L.O.L. Surprise!: Laptop Tech | 297742 | [297742-l-o-l-surprise-laptop-tech.json](./297742-l-o-l-surprise-laptop-tech.json) |
 | L.O.L.: Lack of Love | 45799 | [45799-l-o-l-lack-of-love.json](./45799-l-o-l-lack-of-love.json) |
+| L.OD | 281253 | [281253-l-od.json](./281253-l-od.json) |
 | L.S.S II | 220836 | [220836-l-s-s-ii.json](./220836-l-s-s-ii.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
