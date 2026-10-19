@@ -13788,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
+| Crypts of Eternity | 259433 | [259433-crypts-of-eternity.json](./259433-crypts-of-eternity.json) |
 | Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
 | Cryptshooter | 419192 | [419192-cryptshooter.json](./419192-cryptshooter.json) |
 | Cryptward Online | 422493 | [422493-cryptward-online.json](./422493-cryptward-online.json) |
