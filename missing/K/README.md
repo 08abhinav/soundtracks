@@ -4638,6 +4638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoufu Shinbun Heisei-ban: Kaiki! Shinrei File | 336005 | [336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json](./336005-kyoufu-shinbun-heisei-ban-kaiki-shinrei-file.json) |
 | Kyoufu Yawa | 397907 | [397907-kyoufu-yawa.json](./397907-kyoufu-yawa.json) |
 | Kyoukaisen no Horizon Portable | 64999 | [64999-kyoukaisen-no-horizon-portable.json](./64999-kyoukaisen-no-horizon-portable.json) |
+| Kyouki Drip | 281252 | [281252-kyouki-drip.json](./281252-kyouki-drip.json) |
 | Kyouko no Tame ni Kane wa Naru | 205081 | [205081-kyouko-no-tame-ni-kane-wa-naru.json](./205081-kyouko-no-tame-ni-kane-wa-naru.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! | 37883 | [37883-kyouraku-sanyo-toyomaru-parlor-parlor.json](./37883-kyouraku-sanyo-toyomaru-parlor-parlor.json) |
 | Kyouraku: Sanyo - Toyomaru Parlor! Parlor! 2 | 37882 | [37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json](./37882-kyouraku-sanyo-toyomaru-parlor-parlor-2.json) |
