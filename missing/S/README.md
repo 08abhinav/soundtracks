@@ -6913,6 +6913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kageki Revue Starlight Re Live | 112198 | [112198-shoujo-kageki-revue-starlight-re-live.json](./112198-shoujo-kageki-revue-starlight-re-live.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
+| Shoujo Kenshi Akizuki Ren no Oshikake Harayome Seikatsu: Kozukuri wa Waga Shimei... Jusei Suru made Hanasanu zo! | 280644 | [280644-shoujo-kenshi-akizuki-ren-no-oshikake-harayome-seikatsu-kozukuri-wa-waga-shimei-jusei-suru-made-hanasanu-zo.json](./280644-shoujo-kenshi-akizuki-ren-no-oshikake-harayome-seikatsu-kozukuri-wa-waga-shimei-jusei-suru-made-hanasanu-zo.json) |
 | Shoujo Kidan | 167129 | [167129-shoujo-kidan.json](./167129-shoujo-kidan.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
 | Shoujo Minority: Nagisa Another Day | 409797 | [409797-shoujo-minority-nagisa-another-day.json](./409797-shoujo-minority-nagisa-another-day.json) |
@@ -8896,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Game | 295464 | [295464-ski-game.json](./295464-ski-game.json) |
 | Ski Girl Superstar | 88799 | [88799-ski-girl-superstar.json](./88799-ski-girl-superstar.json) |
 | Ski Hunt | 40796 | [40796-ski-hunt.json](./40796-ski-hunt.json) |
+| Ski Jump Challange 2024 | 280671 | [280671-ski-jump-challange-2024.json](./280671-ski-jump-challange-2024.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
@@ -10795,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Den | 84876 | [84876-snake-den.json](./84876-snake-den.json) |
 | Snake Dice | 364679 | [364679-snake-dice.json](./364679-snake-dice.json) |
 | Snake Echos | 417645 | [417645-snake-echos.json](./417645-snake-echos.json) |
+| Snake Effect | 280634 | [280634-snake-effect.json](./280634-snake-effect.json) |
 | Snake Escape | 45245 | [45245-snake-escape.json](./45245-snake-escape.json) |
 | Snake EX | 133869 | [133869-snake-ex.json](./133869-snake-ex.json) |
 | Snake EX2 | 119435 | [119435-snake-ex2.json](./119435-snake-ex2.json) |
