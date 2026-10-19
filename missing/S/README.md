@@ -4337,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serpent of Isis: Your Journey Continues | 89291 | [89291-serpent-of-isis-your-journey-continues.json](./89291-serpent-of-isis-your-journey-continues.json) |
 | Serpent Squad | 402273 | [402273-serpent-squad.json](./402273-serpent-squad.json) |
 | Serpent Wine | 332401 | [332401-serpent-wine.json](./332401-serpent-wine.json) |
+| Serpent: Resurrection | 268877 | [268877-serpent-resurrection.json](./268877-serpent-resurrection.json) |
 | Serpentes | 141594 | [141594-serpentes.json](./141594-serpentes.json) |
 | Serpentine | 22769 | [22769-serpentine.json](./22769-serpentine.json) |
 | Serpico | 353816 | [353816-serpico.json](./353816-serpico.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shades | 321406 | [321406-shades.json](./321406-shades.json) |
 | Shades of Azure | 262431 | [262431-shades-of-azure.json](./262431-shades-of-azure.json) |
 | Shades of Black | 36009 | [36009-shades-of-black.json](./36009-shades-of-black.json) |
+| Shades of Darkness | 268884 | [268884-shades-of-darkness.json](./268884-shades-of-darkness.json) |
 | Shades of Doom | 71518 | [71518-shades-of-doom.json](./71518-shades-of-doom.json) |
 | Shades of Manhattan 2 | 182453 | [182453-shades-of-manhattan-2.json](./182453-shades-of-manhattan-2.json) |
 | Shades of Sakura | 161616 | [161616-shades-of-sakura.json](./161616-shades-of-sakura.json) |
@@ -5969,6 +5971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shichisei Tantei Club: Koganemushi-tachi no Kisou | 226111 | [226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json](./226111-shichisei-tantei-club-koganemushi-tachi-no-kisou.json) |
 | Shichisei Toushin Guyferd: Crown Kaimetsu Sakusen | 229700 | [229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json](./229700-shichisei-toushin-guyferd-crown-kaimetsu-sakusen.json) |
 | Shichu Suimei Pitagraph | 222821 | [222821-shichu-suimei-pitagraph.json](./222821-shichu-suimei-pitagraph.json) |
+| Shiei no Sona-Nyl Refrain: What a Beautiful Memories | 268861 | [268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json](./268861-shiei-no-sona-nyl-refrain-what-a-beautiful-memories.json) |
 | Shield Arena | 412958 | [412958-shield-arena.json](./412958-shield-arena.json) |
 | Shield Blast | 239534 | [239534-shield-blast.json](./239534-shield-blast.json) |
 | Shield Cat | 143478 | [143478-shield-cat.json](./143478-shield-cat.json) |
@@ -6756,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
+| Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
 | Shooting Range | 325570 | [325570-shooting-range.json](./325570-shooting-range.json) |
@@ -18791,6 +18795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
+| Starship | 268911 | [268911-starship.json](./268911-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
@@ -20431,6 +20436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratoskirmish | 234582 | [234582-stratoskirmish.json](./234582-stratoskirmish.json) |
 | Stratosphere Defense | 197856 | [197856-stratosphere-defense.json](./197856-stratosphere-defense.json) |
 | Stratosphere: Conquest of the Skies | 25879 | [25879-stratosphere-conquest-of-the-skies.json](./25879-stratosphere-conquest-of-the-skies.json) |
+| Stratospheric Domain | 268887 | [268887-stratospheric-domain.json](./268887-stratospheric-domain.json) |
 | Stratside | 130780 | [130780-stratside.json](./130780-stratside.json) |
 | Stratum | 74319 | [74319-stratum.json](./74319-stratum.json) |
 | Stratum Descent | 279015 | [279015-stratum-descent.json](./279015-stratum-descent.json) |
@@ -25085,6 +25091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surflexers | 201017 | [201017-surflexers.json](./201017-surflexers.json) |
 | Surfpunk | 314921 | [314921-surfpunk.json](./314921-surfpunk.json) |
 | Surfs Up! | 359745 | [359745-surfs-up.json](./359745-surfs-up.json) |
+| SurfTank | 268860 | [268860-surftank.json](./268860-surftank.json) |
 | Surfwords | 219573 | [219573-surfwords.json](./219573-surfwords.json) |
 | Surge | 275573 | [275573-surge.json](./275573-surge.json) |
 | Surge | 343610 | [343610-surge.json](./343610-surge.json) |
