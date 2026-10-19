@@ -676,6 +676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
+| Sakura Succubus 7 | 289180 | [289180-sakura-succubus-7.json](./289180-sakura-succubus-7.json) |
 | Sakura Succubus 8 | 279520 | [279520-sakura-succubus-8.json](./279520-sakura-succubus-8.json) |
 | Sakura Succubus 8 | 353952 | [353952-sakura-succubus-8.json](./353952-sakura-succubus-8.json) |
 | Sakura Succubus 9 | 315199 | [315199-sakura-succubus-9.json](./315199-sakura-succubus-9.json) |
@@ -2797,8 +2798,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
+| Sculpt People | 289187 | [289187-sculpt-people.json](./289187-sculpt-people.json) |
 | Sculpt People: Complete Edition | 292924 | [292924-sculpt-people-complete-edition.json](./292924-sculpt-people-complete-edition.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
+| Sculpt People: Custom Look | 289188 | [289188-sculpt-people-custom-look.json](./289188-sculpt-people-custom-look.json) |
+| Sculpt People: Moulding Stars | 289189 | [289189-sculpt-people-moulding-stars.json](./289189-sculpt-people-moulding-stars.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
@@ -15733,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fear | 130914 | [130914-spider-fear.json](./130914-spider-fear.json) |
 | Spider Fighter | 18530 | [18530-spider-fighter.json](./18530-spider-fighter.json) |
 | Spider Fighter 2 | 221361 | [221361-spider-fighter-2.json](./221361-spider-fighter-2.json) |
+| Spider Fighter 3 | 289178 | [289178-spider-fighter-3.json](./289178-spider-fighter-3.json) |
 | Spider Fighter: Superhero Revenge | 196535 | [196535-spider-fighter-superhero-revenge.json](./196535-spider-fighter-superhero-revenge.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
@@ -16631,6 +16636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
+| Spot The Difference: Fantasy Edition | 289190 | [289190-spot-the-difference-fantasy-edition.json](./289190-spot-the-difference-fantasy-edition.json) |
 | Spot the Difference: Two Player Edition | 89080 | [89080-spot-the-difference-two-player-edition.json](./89080-spot-the-difference-two-player-edition.json) |
 | Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
