@@ -6750,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Roll | 90647 | [90647-rock-n-roll.json](./90647-rock-n-roll.json) |
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
 | Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
+| Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
 | Rock 'n' Roll Will Never Die! | 199358 | [199358-rock-n-roll-will-never-die.json](./199358-rock-n-roll-will-never-die.json) |
 | Rock Band | 2685 | [2685-rock-band.json](./2685-rock-band.json) |
