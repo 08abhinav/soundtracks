@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T13:48:56.463Z",
-  "total_missing": 233227,
+  "generated_at": "2026-10-19T14:03:42.459Z",
+  "total_missing": 233277,
   "games": [
     {
       "igdb_id": 191680,
@@ -46885,6 +46885,11 @@
       "igdb_id": 312161,
       "game_name": "Angel Guardian",
       "file": "missing/A/312161-angel-guardian.json"
+    },
+    {
+      "igdb_id": 277183,
+      "game_name": "Angel Hare's Learning Adventure",
+      "file": "missing/A/277183-angel-hares-learning-adventure.json"
     },
     {
       "igdb_id": 67342,
@@ -135487,6 +135492,11 @@
       "file": "missing/B/101968-breakfree-escape-from-the-mine.json"
     },
     {
+      "igdb_id": 277201,
+      "game_name": "Breaking Bad DS",
+      "file": "missing/B/277201-breaking-bad-ds.json"
+    },
+    {
       "igdb_id": 289799,
       "game_name": "Breaking Bound",
       "file": "missing/B/289799-breaking-bound.json"
@@ -140820,6 +140830,51 @@
       "igdb_id": 11142,
       "game_name": "Buck Rogers: Planet of Zoom",
       "file": "missing/B/11142-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277214,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277214-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277215,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277215-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277216,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277216-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277218,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277218-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277219,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277219-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277220,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277220-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277221,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277221-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277223,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277223-buck-rogers-planet-of-zoom.json"
+    },
+    {
+      "igdb_id": 277224,
+      "game_name": "Buck Rogers: Planet of Zoom",
+      "file": "missing/B/277224-buck-rogers-planet-of-zoom.json"
     },
     {
       "igdb_id": 277225,
@@ -157287,6 +157342,21 @@
       "file": "missing/C/39636-carnica.json"
     },
     {
+      "igdb_id": 277195,
+      "game_name": "Carnival",
+      "file": "missing/C/277195-carnival.json"
+    },
+    {
+      "igdb_id": 277196,
+      "game_name": "Carnival",
+      "file": "missing/C/277196-carnival.json"
+    },
+    {
+      "igdb_id": 277204,
+      "game_name": "Carnival",
+      "file": "missing/C/277204-carnival.json"
+    },
+    {
       "igdb_id": 297810,
       "game_name": "Carnival",
       "file": "missing/C/297810-carnival.json"
@@ -159645,6 +159715,11 @@
       "igdb_id": 182852,
       "game_name": "Castle Defense",
       "file": "missing/C/182852-castle-defense.json"
+    },
+    {
+      "igdb_id": 277158,
+      "game_name": "Castle Defense",
+      "file": "missing/C/277158-castle-defense.json"
     },
     {
       "igdb_id": 55260,
@@ -163650,6 +163725,11 @@
       "igdb_id": 7820,
       "game_name": "Catrap",
       "file": "missing/C/7820-catrap.json"
+    },
+    {
+      "igdb_id": 277152,
+      "game_name": "Catrina's Halloween Nightmare",
+      "file": "missing/C/277152-catrinas-halloween-nightmare.json"
     },
     {
       "igdb_id": 183933,
@@ -226412,6 +226492,11 @@
       "file": "missing/D/353211-dance-central-spotlight-the-pussycat-dolls-ft-busta-rhymes-dont-cha.json"
     },
     {
+      "igdb_id": 277186,
+      "game_name": "Dance Cube",
+      "file": "missing/D/277186-dance-cube.json"
+    },
+    {
       "igdb_id": 140274,
       "game_name": "Dance Dance Revolution",
       "file": "missing/D/140274-dance-dance-revolution.json"
@@ -251142,6 +251227,11 @@
       "file": "missing/D/52886-destiny-rpg.json"
     },
     {
+      "igdb_id": 277191,
+      "game_name": "Destiny Saga",
+      "file": "missing/D/277191-destiny-saga.json"
+    },
+    {
       "igdb_id": 356899,
       "game_name": "Destiny Spire",
       "file": "missing/D/356899-destiny-spire.json"
@@ -270335,6 +270425,11 @@
       "igdb_id": 390521,
       "game_name": "Donnie's Delicious Nuclear Funeral",
       "file": "missing/D/390521-donnies-delicious-nuclear-funeral.json"
+    },
+    {
+      "igdb_id": 277185,
+      "game_name": "Donny Donut 3",
+      "file": "missing/D/277185-donny-donut-3.json"
     },
     {
       "igdb_id": 265689,
@@ -302680,6 +302775,11 @@
       "igdb_id": 55223,
       "game_name": "Elemental Combat",
       "file": "missing/E/55223-elemental-combat.json"
+    },
+    {
+      "igdb_id": 277187,
+      "game_name": "Elemental Dreams",
+      "file": "missing/E/277187-elemental-dreams.json"
     },
     {
       "igdb_id": 297816,
@@ -335732,6 +335832,11 @@
       "file": "missing/F/119529-fast-and-low.json"
     },
     {
+      "igdb_id": 277172,
+      "game_name": "Fast as Duck",
+      "file": "missing/F/277172-fast-as-duck.json"
+    },
+    {
       "igdb_id": 412239,
       "game_name": "Fast Ball Spitter",
       "file": "missing/F/412239-fast-ball-spitter.json"
@@ -364457,6 +364562,11 @@
       "file": "missing/F/230429-fosters-home-for-imaginary-friends.json"
     },
     {
+      "igdb_id": 277157,
+      "game_name": "Foster's Home For Imaginary Friends: A Friend In Need",
+      "file": "missing/F/277157-fosters-home-for-imaginary-friends-a-friend-in-need.json"
+    },
+    {
       "igdb_id": 8004,
       "game_name": "Foster's Home for Imaginary Friends: Imagination Invaders",
       "file": "missing/F/8004-fosters-home-for-imaginary-friends-imagination-invaders.json"
@@ -382220,6 +382330,11 @@
       "igdb_id": 41002,
       "game_name": "Game, Set & Match",
       "file": "missing/G/41002-game-set-and-match.json"
+    },
+    {
+      "igdb_id": 277153,
+      "game_name": "Game.bps",
+      "file": "missing/G/277153-game-bps.json"
     },
     {
       "igdb_id": 142467,
@@ -405655,6 +405770,11 @@
       "igdb_id": 138219,
       "game_name": "Grand Poo World II",
       "file": "missing/G/138219-grand-poo-world-ii.json"
+    },
+    {
+      "igdb_id": 277198,
+      "game_name": "Grand Poo World III",
+      "file": "missing/G/277198-grand-poo-world-iii.json"
     },
     {
       "igdb_id": 18103,
@@ -442230,6 +442350,11 @@
       "igdb_id": 140621,
       "game_name": "Heros: The Sanguine Seven",
       "file": "missing/H/140621-heros-the-sanguine-seven.json"
+    },
+    {
+      "igdb_id": 277160,
+      "game_name": "HeroSmash",
+      "file": "missing/H/277160-herosmash.json"
     },
     {
       "igdb_id": 248148,
@@ -510810,6 +510935,11 @@
       "igdb_id": 79252,
       "game_name": "Karaoke Studio",
       "file": "missing/K/79252-karaoke-studio.json"
+    },
+    {
+      "igdb_id": 277166,
+      "game_name": "Karasu Meltdown!",
+      "file": "missing/K/277166-karasu-meltdown.json"
     },
     {
       "igdb_id": 14253,
@@ -609077,6 +609207,11 @@
       "file": "missing/M/158146-midnight-bike.json"
     },
     {
+      "igdb_id": 277169,
+      "game_name": "Midnight Blanc",
+      "file": "missing/M/277169-midnight-blanc.json"
+    },
+    {
       "igdb_id": 267272,
       "game_name": "Midnight Blood Rush",
       "file": "missing/M/267272-midnight-blood-rush.json"
@@ -642560,6 +642695,11 @@
       "igdb_id": 205894,
       "game_name": "My Crazy High School Romcom",
       "file": "missing/M/205894-my-crazy-high-school-romcom.json"
+    },
+    {
+      "igdb_id": 277189,
+      "game_name": "My Crazy New Fake Love Life",
+      "file": "missing/M/277189-my-crazy-new-fake-love-life.json"
     },
     {
       "igdb_id": 173815,
@@ -725352,6 +725492,11 @@
       "file": "missing/P/71229-pilgrim-faith-as-a-weapon.json"
     },
     {
+      "igdb_id": 277200,
+      "game_name": "Pilgrim's Peril",
+      "file": "missing/P/277200-pilgrims-peril.json"
+    },
+    {
       "igdb_id": 178481,
       "game_name": "Pilgrimage",
       "file": "missing/P/178481-pilgrimage.json"
@@ -732385,6 +732530,11 @@
       "igdb_id": 393804,
       "game_name": "Pixel Room",
       "file": "missing/P/393804-pixel-room.json"
+    },
+    {
+      "igdb_id": 277163,
+      "game_name": "Pixel Room: Escape Game",
+      "file": "missing/P/277163-pixel-room-escape-game.json"
     },
     {
       "igdb_id": 233554,
@@ -778302,6 +778452,11 @@
       "file": "missing/R/13154-rage-of-mages.json"
     },
     {
+      "igdb_id": 277199,
+      "game_name": "Rage of Mages",
+      "file": "missing/R/277199-rage-of-mages.json"
+    },
+    {
       "igdb_id": 13155,
       "game_name": "Rage of Mages II: Necromancer",
       "file": "missing/R/13155-rage-of-mages-ii-necromancer.json"
@@ -806307,6 +806462,41 @@
       "file": "missing/R/344930-road-riot-combat-racing.json"
     },
     {
+      "igdb_id": 277205,
+      "game_name": "Road Runner",
+      "file": "missing/R/277205-road-runner.json"
+    },
+    {
+      "igdb_id": 277206,
+      "game_name": "Road Runner",
+      "file": "missing/R/277206-road-runner.json"
+    },
+    {
+      "igdb_id": 277208,
+      "game_name": "Road Runner",
+      "file": "missing/R/277208-road-runner.json"
+    },
+    {
+      "igdb_id": 277209,
+      "game_name": "Road Runner",
+      "file": "missing/R/277209-road-runner.json"
+    },
+    {
+      "igdb_id": 277210,
+      "game_name": "Road Runner",
+      "file": "missing/R/277210-road-runner.json"
+    },
+    {
+      "igdb_id": 277211,
+      "game_name": "Road Runner",
+      "file": "missing/R/277211-road-runner.json"
+    },
+    {
+      "igdb_id": 277212,
+      "game_name": "Road Runner",
+      "file": "missing/R/277212-road-runner.json"
+    },
+    {
       "igdb_id": 281878,
       "game_name": "Road Runner",
       "file": "missing/R/281878-road-runner.json"
@@ -834292,6 +834482,11 @@
       "file": "missing/S/102275-school-dungeons.json"
     },
     {
+      "igdb_id": 277194,
+      "game_name": "School Evasion",
+      "file": "missing/S/277194-school-evasion.json"
+    },
+    {
       "igdb_id": 360079,
       "game_name": "School Exit Class 8",
       "file": "missing/S/360079-school-exit-class-8.json"
@@ -836855,6 +837050,11 @@
       "igdb_id": 356589,
       "game_name": "Screwball",
       "file": "missing/S/356589-screwball.json"
+    },
+    {
+      "igdb_id": 277161,
+      "game_name": "Screwball Scramble",
+      "file": "missing/S/277161-screwball-scramble.json"
     },
     {
       "igdb_id": 332430,
@@ -853857,6 +854057,11 @@
       "file": "missing/S/231519-shin-nippon-pro-wrestling-gekitou-densetsu.json"
     },
     {
+      "igdb_id": 277151,
+      "game_name": "Shin Nippon Pro Wrestling: Toukon Retsuden",
+      "file": "missing/S/277151-shin-nippon-pro-wrestling-toukon-retsuden.json"
+    },
+    {
       "igdb_id": 43876,
       "game_name": "Shin Nippon Pro Wrestling: Toukon Retsuden 2",
       "file": "missing/S/43876-shin-nippon-pro-wrestling-toukon-retsuden-2.json"
@@ -855970,6 +856175,11 @@
       "igdb_id": 207577,
       "game_name": "Shockwave: Land of the Blind",
       "file": "missing/S/207577-shockwave-land-of-the-blind.json"
+    },
+    {
+      "igdb_id": 277188,
+      "game_name": "Shockwaves",
+      "file": "missing/S/277188-shockwaves.json"
     },
     {
       "igdb_id": 289421,
@@ -927552,6 +927762,11 @@
       "file": "missing/S/213516-strike-force-heroes.json"
     },
     {
+      "igdb_id": 277203,
+      "game_name": "Strike Force Heroes",
+      "file": "missing/S/277203-strike-force-heroes.json"
+    },
+    {
       "igdb_id": 49381,
       "game_name": "Strike Force Hydra",
       "file": "missing/S/49381-strike-force-hydra.json"
@@ -942235,6 +942450,11 @@
       "igdb_id": 369691,
       "game_name": "Super Nihon Cheating Cup 86'",
       "file": "missing/S/369691-super-nihon-cheating-cup-86.json"
+    },
+    {
+      "igdb_id": 277150,
+      "game_name": "Super Nin-e Sisters",
+      "file": "missing/S/277150-super-nin-e-sisters.json"
     },
     {
       "igdb_id": 299411,
@@ -970282,6 +970502,11 @@
       "file": "missing/T/265615-telmari.json"
     },
     {
+      "igdb_id": 277182,
+      "game_name": "Telnet Shooting Collection",
+      "file": "missing/T/277182-telnet-shooting-collection.json"
+    },
+    {
       "igdb_id": 145455,
       "game_name": "Telocation: Gemini",
       "file": "missing/T/145455-telocation-gemini.json"
@@ -978340,6 +978565,11 @@
       "igdb_id": 372814,
       "game_name": "The Archivist",
       "file": "missing/T/372814-the-archivist.json"
+    },
+    {
+      "igdb_id": 277193,
+      "game_name": "The Archivist and the Revolution",
+      "file": "missing/T/277193-the-archivist-and-the-revolution.json"
     },
     {
       "igdb_id": 29092,
@@ -991650,6 +991880,11 @@
       "igdb_id": 205923,
       "game_name": "The Flintstones",
       "file": "missing/T/205923-the-flintstones.json"
+    },
+    {
+      "igdb_id": 277144,
+      "game_name": "The Flintstones",
+      "file": "missing/T/277144-the-flintstones.json"
     },
     {
       "igdb_id": 47227,
@@ -1025332,6 +1025567,11 @@
       "file": "missing/T/262261-the-walking-dead-destinies.json"
     },
     {
+      "igdb_id": 277170,
+      "game_name": "The Walking Dead: Empires",
+      "file": "missing/T/277170-the-walking-dead-empires.json"
+    },
+    {
       "igdb_id": 209152,
       "game_name": "The Walking Dead: Last Mile",
       "file": "missing/T/209152-the-walking-dead-last-mile.json"
@@ -1053840,6 +1054080,11 @@
       "igdb_id": 124104,
       "game_name": "Touhai Densetsu: Akagi DS - Yami ni Maiorita Tensai",
       "file": "missing/T/124104-touhai-densetsu-akagi-ds-yami-ni-maiorita-tensai.json"
+    },
+    {
+      "igdb_id": 277165,
+      "game_name": "Touhou 1: The Highly Responsive to Prayers NES Demake",
+      "file": "missing/T/277165-touhou-1-the-highly-responsive-to-prayers-nes-demake.json"
     },
     {
       "igdb_id": 152988,
@@ -1088640,6 +1088885,11 @@
       "igdb_id": 277330,
       "game_name": "United Penguin Kingdom",
       "file": "missing/U/277330-united-penguin-kingdom.json"
+    },
+    {
+      "igdb_id": 277167,
+      "game_name": "United Penguin Kingdom: Huddle up",
+      "file": "missing/U/277167-united-penguin-kingdom-huddle-up.json"
     },
     {
       "igdb_id": 48604,
