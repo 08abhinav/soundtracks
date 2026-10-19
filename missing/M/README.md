@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
 | MannaWars | 166045 | [166045-mannawars.json](./166045-mannawars.json) |
 | ManneKin: Hessler Storage | 215611 | [215611-mannekin-hessler-storage.json](./215611-mannekin-hessler-storage.json) |
+| Mannequin | 266075 | [266075-mannequin.json](./266075-mannequin.json) |
 | Mannequin Academy | 183037 | [183037-mannequin-academy.json](./183037-mannequin-academy.json) |
 | Mannequin House | 171535 | [171535-mannequin-house.json](./171535-mannequin-house.json) |
 | Mannequin House | 290948 | [290948-mannequin-house.json](./290948-mannequin-house.json) |
@@ -2339,6 +2340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion At Midnight | 272749 | [272749-mansion-at-midnight.json](./272749-mansion-at-midnight.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of Horrors | 102362 | [102362-mansion-of-horrors.json](./102362-mansion-of-horrors.json) |
+| Mansion of Memories | 266097 | [266097-mansion-of-memories.json](./266097-mansion-of-memories.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
@@ -3297,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow 2x2 | 234334 | [234334-marshmallow-2x2.json](./234334-marshmallow-2x2.json) |
 | Marshmallow Chronicle | 360132 | [360132-marshmallow-chronicle.json](./360132-marshmallow-chronicle.json) |
 | Marshmallow Duel | 70350 | [70350-marshmallow-duel.json](./70350-marshmallow-duel.json) |
+| Marshmallow Imouto Succubus | 266105 | [266105-marshmallow-imouto-succubus.json](./266105-marshmallow-imouto-succubus.json) |
 | Marshmallow Infinity | 182539 | [182539-marshmallow-infinity.json](./182539-marshmallow-infinity.json) |
 | Marshmallow Madness | 122431 | [122431-marshmallow-madness.json](./122431-marshmallow-madness.json) |
 | Marshmallow Marvin | 331468 | [331468-marshmallow-marvin.json](./331468-marshmallow-marvin.json) |
@@ -8968,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindustry Classic | 178425 | [178425-mindustry-classic.json](./178425-mindustry-classic.json) |
 | Mindwheel | 25778 | [25778-mindwheel.json](./25778-mindwheel.json) |
 | MindWorks | 159566 | [159566-mindworks.json](./159566-mindworks.json) |
+| MindXcope | 266088 | [266088-mindxcope.json](./266088-mindxcope.json) |
 | Mine | 311988 | [311988-mine.json](./311988-mine.json) |
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
@@ -9793,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minubeat | 199083 | [199083-minubeat.json](./199083-minubeat.json) |
 | Minus Nine | 396014 | [396014-minus-nine.json](./396014-minus-nine.json) |
 | Minuse | 368361 | [368361-minuse.json](./368361-minuse.json) |
+| Minute | 266090 | [266090-minute.json](./266090-minute.json) |
 | Minute Cryptic | 356194 | [356194-minute-cryptic.json](./356194-minute-cryptic.json) |
 | Minute Fighter | 288766 | [288766-minute-fighter.json](./288766-minute-fighter.json) |
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
@@ -13972,6 +13977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudkip Goes to Walmart then Dies | 140023 | [140023-mudkip-goes-to-walmart-then-dies.json](./140023-mudkip-goes-to-walmart-then-dies.json) |
 | Mudkip's Dating Simulator 1+2 | 140022 | [140022-mudkips-dating-simulator-1-2.json](./140022-mudkips-dating-simulator-1-2.json) |
 | Mudlarks | 123583 | [123583-mudlarks.json](./123583-mudlarks.json) |
+| Mudness Offroad 2 | 266066 | [266066-mudness-offroad-2.json](./266066-mudness-offroad-2.json) |
 | Mudness Offroad Car Simulator | 203721 | [203721-mudness-offroad-car-simulator.json](./203721-mudness-offroad-car-simulator.json) |
 | Mudness Offroad Car Simulator Runner | 345710 | [345710-mudness-offroad-car-simulator-runner.json](./345710-mudness-offroad-car-simulator-runner.json) |
 | Mudness Offroad: 4x4 Truck Car Simulator | 313210 | [313210-mudness-offroad-4x4-truck-car-simulator.json](./313210-mudness-offroad-4x4-truck-car-simulator.json) |
