@@ -764,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Rose in the Twilight: Digital Bloodlust Edition | 52564 | [52564-a-rose-in-the-twilight-digital-bloodlust-edition.json](./52564-a-rose-in-the-twilight-digital-bloodlust-edition.json) |
 | A Rum Case in Fogtown | 211806 | [211806-a-rum-case-in-fogtown.json](./211806-a-rum-case-in-fogtown.json) |
 | A Rum Tale | 230384 | [230384-a-rum-tale.json](./230384-a-rum-tale.json) |
+| A Rushed Project | 268351 | [268351-a-rushed-project.json](./268351-a-rushed-project.json) |
 | A Ruthless World | 303895 | [303895-a-ruthless-world.json](./303895-a-ruthless-world.json) |
 | A Safe Place | 338165 | [338165-a-safe-place.json](./338165-a-safe-place.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abducted: The Night Hunters | 145578 | [145578-abducted-the-night-hunters.json](./145578-abducted-the-night-hunters.json) |
 | Abducting Mjolnir | 180759 | [180759-abducting-mjolnir.json](./180759-abducting-mjolnir.json) |
 | Abduction | 14202 | [14202-abduction.json](./14202-abduction.json) |
+| Abduction | 268333 | [268333-abduction.json](./268333-abduction.json) |
 | Abduction | 288123 | [288123-abduction.json](./288123-abduction.json) |
 | Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
@@ -1692,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy | 76161 | [76161-academy.json](./76161-academy.json) |
 | Academy Love Saga: Tennis Angels | 312665 | [312665-academy-love-saga-tennis-angels.json](./312665-academy-love-saga-tennis-angels.json) |
 | Academy Love Saga: Tennis Angels EX | 312666 | [312666-academy-love-saga-tennis-angels-ex.json](./312666-academy-love-saga-tennis-angels-ex.json) |
+| Academy of Drift | 268336 | [268336-academy-of-drift.json](./268336-academy-of-drift.json) |
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
 | Academy Romance 7 | 185077 | [185077-academy-romance-7.json](./185077-academy-romance-7.json) |
