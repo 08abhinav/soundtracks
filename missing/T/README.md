@@ -1944,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarzan: Lord of the Jungle | 228974 | [228974-tarzan-lord-of-the-jungle.json](./228974-tarzan-lord-of-the-jungle.json) |
 | Tasac | 48805 | [48805-tasac.json](./48805-tasac.json) |
 | Tasac 2010 | 195060 | [195060-tasac-2010.json](./195060-tasac-2010.json) |
+| Taser Gun | 289724 | [289724-taser-gun.json](./289724-taser-gun.json) |
 | Tasha Keies & Clavyce: Enigmes Et Trésors A Travers Les Âges | 297914 | [297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json](./297914-tasha-keies-and-clavyce-enigmes-et-tresors-a-travers-les-ages.json) |
 | Tashikani | 298155 | [298155-tashikani.json](./298155-tashikani.json) |
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
@@ -7157,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Four Kings Casino and Slots | 16797 | [16797-the-four-kings-casino-and-slots.json](./16797-the-four-kings-casino-and-slots.json) |
 | The Four Old Gods | 136442 | [136442-the-four-old-gods.json](./136442-the-four-old-gods.json) |
 | The Four Rooms | 362727 | [362727-the-four-rooms.json](./362727-the-four-rooms.json) |
+| The Four Seasons | 289746 | [289746-the-four-seasons.json](./289746-the-four-seasons.json) |
 | The Fourteen Day Letters | 411627 | [411627-the-fourteen-day-letters.json](./411627-the-fourteen-day-letters.json) |
 | The Fourth Age: Total War | 356261 | [356261-the-fourth-age-total-war.json](./356261-the-fourth-age-total-war.json) |
 | The Fourth Generation | 72693 | [72693-the-fourth-generation.json](./72693-the-fourth-generation.json) |
@@ -10587,6 +10589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nun | 105998 | [105998-the-nun.json](./105998-the-nun.json) |
 | The Nurse | 371408 | [371408-the-nurse.json](./371408-the-nurse.json) |
 | The Nutcracker | 216997 | [216997-the-nutcracker.json](./216997-the-nutcracker.json) |
+| The Nutcracker | 289745 | [289745-the-nutcracker.json](./289745-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
@@ -14838,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas and Friends: Engines Working Together | 73004 | [73004-thomas-and-friends-engines-working-together.json](./73004-thomas-and-friends-engines-working-together.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas the Tank Engine & Friends | 289757 | [289757-thomas-the-tank-engine-and-friends.json](./289757-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
@@ -22960,6 +22964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrophyRC | 388307 | [388307-trophyrc.json](./388307-trophyrc.json) |
 | Tropi | 209654 | [209654-tropi.json](./209654-tropi.json) |
 | Tropia | 76245 | [76245-tropia.json](./76245-tropia.json) |
+| Tropic Island | 289758 | [289758-tropic-island.json](./289758-tropic-island.json) |
 | Tropic Isle | 130866 | [130866-tropic-isle.json](./130866-tropic-isle.json) |
 | Tropic Jim's Sweet Island Adventure | 233132 | [233132-tropic-jims-sweet-island-adventure.json](./233132-tropic-jims-sweet-island-adventure.json) |
 | Tropica: Survival 1095 | 244396 | [244396-tropica-survival-1095.json](./244396-tropica-survival-1095.json) |
@@ -23644,6 +23649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunguska: The Visitation - Way of The Hunter | 227863 | [227863-tunguska-the-visitation-way-of-the-hunter.json](./227863-tunguska-the-visitation-way-of-the-hunter.json) |
 | Tunic GBC | 300510 | [300510-tunic-gbc.json](./300510-tunic-gbc.json) |
 | Tunics! | 243617 | [243617-tunics.json](./243617-tunics.json) |
+| Tunin'Glue | 289759 | [289759-tuninglue.json](./289759-tuninglue.json) |
 | Tuning Champions | 215912 | [215912-tuning-champions.json](./215912-tuning-champions.json) |
 | Tuning Club Online | 199946 | [199946-tuning-club-online.json](./199946-tuning-club-online.json) |
 | Tunnel 19 | 358865 | [358865-tunnel-19.json](./358865-tunnel-19.json) |
