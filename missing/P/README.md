@@ -2361,6 +2361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
+| Pause To Play | 256707 | [256707-pause-to-play.json](./256707-pause-to-play.json) |
 | Pavane: See No Evil | 396445 | [396445-pavane-see-no-evil.json](./396445-pavane-see-no-evil.json) |
 | Pavel Quest | 35333 | [35333-pavel-quest.json](./35333-pavel-quest.json) |
 | Pavement Pummel | 302432 | [302432-pavement-pummel.json](./302432-pavement-pummel.json) |
