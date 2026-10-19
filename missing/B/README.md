@@ -6327,6 +6327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
 | Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
+| Biscats | 259445 | [259445-biscats.json](./259445-biscats.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
@@ -9680,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom | 172043 | [172043-boom.json](./172043-boom.json) |
 | Boom | 240146 | [240146-boom.json](./240146-boom.json) |
 | Boom | 339838 | [339838-boom.json](./339838-boom.json) |
+| BooM | 259424 | [259424-boom.json](./259424-boom.json) |
 | Boom 2020 | 226196 | [226196-boom-2020.json](./226196-boom-2020.json) |
 | Boom Adventures | 233659 | [233659-boom-adventures.json](./233659-boom-adventures.json) |
 | Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
