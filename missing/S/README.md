@@ -11246,6 +11246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrop Escape | 170562 | [170562-snowdrop-escape.json](./170562-snowdrop-escape.json) |
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
 | Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
+| Snowfall | 303208 | [303208-snowfall.json](./303208-snowfall.json) |
 | SnowFall | 81929 | [81929-snowfall.json](./81929-snowfall.json) |
 | Snowfall Symphony: A Tale of Crustallus | 311619 | [311619-snowfall-symphony-a-tale-of-crustallus.json](./311619-snowfall-symphony-a-tale-of-crustallus.json) |
 | SnowFight Go | 128011 | [128011-snowfight-go.json](./128011-snowfight-go.json) |
@@ -23887,6 +23888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sentai Legend Wars | 223901 | [223901-super-sentai-legend-wars.json](./223901-super-sentai-legend-wars.json) |
 | Super Serious Golf | 365830 | [365830-super-serious-golf.json](./365830-super-serious-golf.json) |
 | Super Serpent Snake 3D | 412292 | [412292-super-serpent-snake-3d.json](./412292-super-serpent-snake-3d.json) |
+| Super Sexy Swiss | 303210 | [303210-super-sexy-swiss.json](./303210-super-sexy-swiss.json) |
 | Super Seymour Saves the Plant | 18573 | [18573-super-seymour-saves-the-plant.json](./18573-super-seymour-saves-the-plant.json) |
 | Super Shadow Dudes | 180186 | [180186-super-shadow-dudes.json](./180186-super-shadow-dudes.json) |
 | Super Shadow of the Beast | 42453 | [42453-super-shadow-of-the-beast.json](./42453-super-shadow-of-the-beast.json) |
