@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
 | Dead Rising 3 | 3199 | [3199-dead-rising-3.json](./3199-dead-rising-3.json) |
 | Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
+| Dead Rising 3: Day One 2013 Edition | 281905 | [281905-dead-rising-3-day-one-2013-edition.json](./281905-dead-rising-3-day-one-2013-edition.json) |
 | Dead Rising 3: Fallen Angel | 20938 | [20938-dead-rising-3-fallen-angel.json](./20938-dead-rising-3-fallen-angel.json) |
 | Dead Rising 3: Operation Broken Eagle | 20933 | [20933-dead-rising-3-operation-broken-eagle.json](./20933-dead-rising-3-operation-broken-eagle.json) |
 | Dead Rising 3: The Last Agent | 20942 | [20942-dead-rising-3-the-last-agent.json](./20942-dead-rising-3-the-last-agent.json) |
@@ -9106,6 +9107,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
 | Don't! Heroes: Encore! | 181929 | [181929-dont-heroes-encore.json](./181929-dont-heroes-encore.json) |
+| Donald & Goofy | 281885 | [281885-donald-and-goofy.json](./281885-donald-and-goofy.json) |
+| Donald & Margarida | 281883 | [281883-donald-and-margarida.json](./281883-donald-and-margarida.json) |
 | Donald Dowell and the Ghost of Barker Manor | 168386 | [168386-donald-dowell-and-the-ghost-of-barker-manor.json](./168386-donald-dowell-and-the-ghost-of-barker-manor.json) |
 | Donald Duck | 215079 | [215079-donald-duck.json](./215079-donald-duck.json) |
 | Donald Duck's Playground | 12052 | [12052-donald-ducks-playground.json](./12052-donald-ducks-playground.json) |
