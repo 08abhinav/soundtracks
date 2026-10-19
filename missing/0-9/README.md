@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Shot 1 Kill | 297759 | [297759-1-shot-1-kill.json](./297759-1-shot-1-kill.json) |
 | 1 Teratoaster | 184343 | [184343-1-teratoaster.json](./184343-1-teratoaster.json) |
 | 1 Thousand Deaths | 411656 | [411656-1-thousand-deaths.json](./411656-1-thousand-deaths.json) |
+| 1 to 1 Humanoid Edible Toys | 301033 | [301033-1-to-1-humanoid-edible-toys.json](./301033-1-to-1-humanoid-edible-toys.json) |
 | 1 Trait Escape | 237063 | [237063-1-trait-escape.json](./237063-1-trait-escape.json) |
 | 1 Vs 1 | 28641 | [28641-1-vs-1.json](./28641-1-vs-1.json) |
 | 1 vs. 100 | 138101 | [138101-1-vs-100.json](./138101-1-vs-100.json) |
@@ -405,6 +406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Christmas Hidden Cats | 378185 | [378185-100-christmas-hidden-cats.json](./378185-100-christmas-hidden-cats.json) |
 | 100 Classic Book Collection | 47939 | [47939-100-classic-book-collection.json](./47939-100-classic-book-collection.json) |
 | 100 Classic Games | 97232 | [97232-100-classic-games.json](./97232-100-classic-games.json) |
+| 100 Crime Cats | 301028 | [301028-100-crime-cats.json](./301028-100-crime-cats.json) |
 | 100 Cyprus Cats | 334121 | [334121-100-cyprus-cats.json](./334121-100-cyprus-cats.json) |
 | 100 Day Term | 359555 | [359555-100-day-term.json](./359555-100-day-term.json) |
 | 100 Days | 164599 | [164599-100-days.json](./164599-100-days.json) |
@@ -459,10 +461,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hong Kong Cats | 351681 | [351681-100-hong-kong-cats.json](./351681-100-hong-kong-cats.json) |
 | 100 India Cats | 334124 | [334124-100-india-cats.json](./334124-100-india-cats.json) |
 | 100 Istanbul Cats | 288727 | [288727-100-istanbul-cats.json](./288727-100-istanbul-cats.json) |
+| 100 Istanbul Cats: Extra Content | 301044 | [301044-100-istanbul-cats-extra-content.json](./301044-100-istanbul-cats-extra-content.json) |
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Jumps don't die | 8745 | [8745-100-jumps-dont-die.json](./8745-100-jumps-dont-die.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
+| 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
 | 100 Korean Hidden Cats | 410093 | [410093-100-korean-hidden-cats.json](./410093-100-korean-hidden-cats.json) |
 | 100 Line Christmas | 260891 | [260891-100-line-christmas.json](./260891-100-line-christmas.json) |
@@ -567,6 +571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Questions Quiz! National Flag | 317903 | [317903-1000-questions-quiz-national-flag.json](./317903-1000-questions-quiz-national-flag.json) |
 | 1000 Questions to Be Chosen by the Cat Lord | 404260 | [404260-1000-questions-to-be-chosen-by-the-cat-lord.json](./404260-1000-questions-to-be-chosen-by-the-cat-lord.json) |
 | 1000 Score: 2D Platformer | 389990 | [389990-1000-score-2d-platformer.json](./389990-1000-score-2d-platformer.json) |
+| 1000 Seconds | 301027 | [301027-1000-seconds.json](./301027-1000-seconds.json) |
 | 1000 Shards | 169675 | [169675-1000-shards.json](./169675-1000-shards.json) |
 | 1000 Stages | 105308 | [105308-1000-stages.json](./105308-1000-stages.json) |
 | 1000 Tiny Claws | 21837 | [21837-1000-tiny-claws.json](./21837-1000-tiny-claws.json) |
@@ -836,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13km Deep | 358061 | [358061-13km-deep.json](./358061-13km-deep.json) |
 | 13th Friday Night: Funk Blood | 314500 | [314500-13th-friday-night-funk-blood.json](./314500-13th-friday-night-funk-blood.json) |
 | 13th House on Halloween | 321454 | [321454-13th-house-on-halloween.json](./321454-13th-house-on-halloween.json) |
+| 13Z: The Zodiac Trials | 301031 | [301031-13z-the-zodiac-trials.json](./301031-13z-the-zodiac-trials.json) |
 | 14 Days With You | 251073 | [251073-14-days-with-you.json](./251073-14-days-with-you.json) |
 | 14 Locks | 225637 | [225637-14-locks.json](./225637-14-locks.json) |
 | 14 Minesweeper Variants | 203858 | [203858-14-minesweeper-variants.json](./203858-14-minesweeper-variants.json) |
@@ -986,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
+| 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1986 Scary Mr. Chainsaw Escape | 314699 | [314699-1986-scary-mr-chainsaw-escape.json](./314699-1986-scary-mr-chainsaw-escape.json) |
 | 1989 After the War | 323012 | [323012-1989-after-the-war.json](./323012-1989-after-the-war.json) |
 | 1989 QianShanMen | 259288 | [259288-1989-qianshanmen.json](./259288-1989-qianshanmen.json) |
@@ -1714,10 +1721,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Gas Station | 357759 | [357759-3d-puzzle-gas-station.json](./357759-3d-puzzle-gas-station.json) |
 | 3D Puzzle: Hangar | 308948 | [308948-3d-puzzle-hangar.json](./308948-3d-puzzle-hangar.json) |
 | 3D Puzzle: Harbor | 270863 | [270863-3d-puzzle-harbor.json](./270863-3d-puzzle-harbor.json) |
+| 3D Puzzle: Hospital 1 | 301045 | [301045-3d-puzzle-hospital-1.json](./301045-3d-puzzle-hospital-1.json) |
+| 3D Puzzle: Hospital 2 | 301046 | [301046-3d-puzzle-hospital-2.json](./301046-3d-puzzle-hospital-2.json) |
+| 3D Puzzle: Hospital 3 | 301047 | [301047-3d-puzzle-hospital-3.json](./301047-3d-puzzle-hospital-3.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
 | 3D Puzzle: Leafless | 357758 | [357758-3d-puzzle-leafless.json](./357758-3d-puzzle-leafless.json) |
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
 | 3D Puzzle: Mountain Life | 357757 | [357757-3d-puzzle-mountain-life.json](./357757-3d-puzzle-mountain-life.json) |
+| 3D Puzzle: Old Sea Port | 301048 | [301048-3d-puzzle-old-sea-port.json](./301048-3d-puzzle-old-sea-port.json) |
 | 3D Puzzle: OldHospital | 308947 | [308947-3d-puzzle-oldhospital.json](./308947-3d-puzzle-oldhospital.json) |
 | 3D Puzzle: OutPost | 308946 | [308946-3d-puzzle-outpost.json](./308946-3d-puzzle-outpost.json) |
 | 3D Puzzle: Pirate Tavern | 337621 | [337621-3d-puzzle-pirate-tavern.json](./337621-3d-puzzle-pirate-tavern.json) |
@@ -1786,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DRPG | 33819 | [33819-3drpg.json](./33819-3drpg.json) |
 | 3DSCraft | 253796 | [253796-3dscraft.json](./253796-3dscraft.json) |
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
+| 3DXChat | 301038 | [301038-3dxchat.json](./301038-3dxchat.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
@@ -1936,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 46 Pegason b | 205022 | [205022-46-pegason-b.json](./205022-46-pegason-b.json) |
 | 48 Chambers | 64654 | [64654-48-chambers.json](./64654-48-chambers.json) |
 | 48 Pieces | 109036 | [109036-48-pieces.json](./109036-48-pieces.json) |
+| 49 Keys | 301039 | [301039-49-keys.json](./301039-49-keys.json) |
 | 49 Squares | 253448 | [253448-49-squares.json](./253448-49-squares.json) |
 | 4A Flyer | 377833 | [377833-4a-flyer.json](./377833-4a-flyer.json) |
 | 4Below | 389691 | [389691-4below.json](./389691-4below.json) |
@@ -1951,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4Line | 158609 | [158609-4line.json](./158609-4line.json) |
 | 4Mecheros | 405042 | [405042-4mecheros.json](./405042-4mecheros.json) |
 | 4NR | 55975 | [55975-4nr.json](./55975-4nr.json) |
+| 4ordle | 301040 | [301040-4ordle.json](./301040-4ordle.json) |
 | 4P Ping-Pong | 93492 | [93492-4p-ping-pong.json](./93492-4p-ping-pong.json) |
 | 4PM | 8115 | [8115-4pm.json](./8115-4pm.json) |
 | 4RC4N01D 3: Cold Space | 89410 | [89410-4rc4n01d-3-cold-space.json](./89410-4rc4n01d-3-cold-space.json) |
@@ -2093,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 52Hertz | 277791 | [277791-52hertz.json](./277791-52hertz.json) |
 | 52Hertz | 367764 | [367764-52hertz.json](./367764-52hertz.json) |
 | 53X Homecoming | 384907 | [384907-53x-homecoming.json](./384907-53x-homecoming.json) |
+| 5525 | 301035 | [301035-5525.json](./301035-5525.json) |
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
@@ -2506,10 +2521,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9mm Roulette | 377408 | [377408-9mm-roulette.json](./377408-9mm-roulette.json) |
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
+| 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
 | 9th Dawn | 50404 | [50404-9th-dawn.json](./50404-9th-dawn.json) |
 | 9th Dawn Classic | 55684 | [55684-9th-dawn-classic.json](./55684-9th-dawn-classic.json) |
 | 9th Dawn II | 36407 | [36407-9th-dawn-ii.json](./36407-9th-dawn-ii.json) |
 | 9th Dawn III | 139323 | [139323-9th-dawn-iii.json](./139323-9th-dawn-iii.json) |
+| 9th Dawn Remake | 301042 | [301042-9th-dawn-remake.json](./301042-9th-dawn-remake.json) |
 | 9th Land | 249938 | [249938-9th-land.json](./249938-9th-land.json) |
 | 9th Sentinel Sisters | 266819 | [266819-9th-sentinel-sisters.json](./266819-9th-sentinel-sisters.json) |
 | Ａ Class | 245879 | [245879-a-class.json](./245879-a-class.json) |
