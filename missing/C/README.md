@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Rally | 174851 | [174851-carx-rally.json](./174851-carx-rally.json) |
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
+| CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
 | Casablanca ni Ai wo: Satsujinsha wa Jikuu o Koete | 97461 | [97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json](./97461-casablanca-ni-ai-wo-satsujinsha-wa-jikuu-o-koete.json) |
 | Casablanca: The Day After | 319808 | [319808-casablanca-the-day-after.json](./319808-casablanca-the-day-after.json) |
 | Casadastra | 185160 | [185160-casadastra.json](./185160-casadastra.json) |
@@ -3354,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Cozy Places | 308648 | [308648-cats-hidden-in-cozy-places.json](./308648-cats-hidden-in-cozy-places.json) |
+| Cats Hidden in Georgia | 261656 | [261656-cats-hidden-in-georgia.json](./261656-cats-hidden-in-georgia.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Japan | 280654 | [280654-cats-hidden-in-japan.json](./280654-cats-hidden-in-japan.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
@@ -7340,6 +7342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clawface | 89670 | [89670-clawface.json](./89670-clawface.json) |
 | Clawfish | 152190 | [152190-clawfish.json](./152190-clawfish.json) |
 | Clawless Coin | 405526 | [405526-clawless-coin.json](./405526-clawless-coin.json) |
+| Claws & Chaos | 261674 | [261674-claws-and-chaos.json](./261674-claws-and-chaos.json) |
 | Clawsome | 334203 | [334203-clawsome.json](./334203-clawsome.json) |
 | Clay Beats | 334504 | [334504-clay-beats.json](./334504-clay-beats.json) |
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
