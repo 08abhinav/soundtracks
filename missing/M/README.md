@@ -5430,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
+| Mega Man 4: Ridley X Hack 13 | 276029 | [276029-mega-man-4-ridley-x-hack-13.json](./276029-mega-man-4-ridley-x-hack-13.json) |
 | Mega Man 5 | 1718 | [1718-mega-man-5.json](./1718-mega-man-5.json) |
 | Mega Man 6 Mobile | 103490 | [103490-mega-man-6-mobile.json](./103490-mega-man-6-mobile.json) |
 | Mega Man 64: Recompiled | 400965 | [400965-mega-man-64-recompiled.json](./400965-mega-man-64-recompiled.json) |
@@ -9145,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Theme Park | 316747 | [316747-minecraft-the-theme-park.json](./316747-minecraft-the-theme-park.json) |
 | Minecraft: The Traveling Trader | 322955 | [322955-minecraft-the-traveling-trader.json](./322955-minecraft-the-traveling-trader.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
+| Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Toy Story Mash-up | 254066 | [254066-minecraft-toy-story-mash-up.json](./254066-minecraft-toy-story-mash-up.json) |
 | Minecraft: Trails & Tales | 240295 | [240295-minecraft-trails-and-tales.json](./240295-minecraft-trails-and-tales.json) |
@@ -9703,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Konbini | 67260 | [67260-minna-no-konbini.json](./67260-minna-no-konbini.json) |
 | Minna no Mahjong DS | 130789 | [130789-minna-no-mahjong-ds.json](./130789-minna-no-mahjong-ds.json) |
 | Minna no Mozoo | 302794 | [302794-minna-no-mozoo.json](./302794-minna-no-mozoo.json) |
+| Minna no Oekakiya-san | 276046 | [276046-minna-no-oekakiya-san.json](./276046-minna-no-oekakiya-san.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
