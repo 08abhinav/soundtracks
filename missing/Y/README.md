@@ -651,6 +651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi No Kuni | 400387 | [400387-yomi-no-kuni.json](./400387-yomi-no-kuni.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
 | Yomifuda: Kanji Survivors | 383146 | [383146-yomifuda-kanji-survivors.json](./383146-yomifuda-kanji-survivors.json) |
+| Yomo | 308011 | [308011-yomo.json](./308011-yomo.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
 | YonDelver | 201484 | [201484-yondelver.json](./201484-yondelver.json) |
