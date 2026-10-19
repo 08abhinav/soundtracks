@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dive | 120892 | [120892-deep-dive.json](./120892-deep-dive.json) |
 | Deep Dive | 255609 | [255609-deep-dive.json](./255609-deep-dive.json) |
 | Deep Dive | 403577 | [403577-deep-dive.json](./403577-deep-dive.json) |
+| Deep Dive Duet | 279483 | [279483-deep-dive-duet.json](./279483-deep-dive-duet.json) |
 | Deep Diving Adventures | 131978 | [131978-deep-diving-adventures.json](./131978-deep-diving-adventures.json) |
 | Deep Diving Simulator | 113427 | [113427-deep-diving-simulator.json](./113427-deep-diving-simulator.json) |
 | Deep Diving Simulator: Adventure Pack | 154506 | [154506-deep-diving-simulator-adventure-pack.json](./154506-deep-diving-simulator-adventure-pack.json) |
@@ -5149,6 +5150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Journey | 214557 | [214557-desert-journey.json](./214557-desert-journey.json) |
 | Desert King 2 | 208918 | [208918-desert-king-2.json](./208918-desert-king-2.json) |
 | Desert Kingdom Portable: Limited Edition | 44510 | [44510-desert-kingdom-portable-limited-edition.json](./44510-desert-kingdom-portable-limited-edition.json) |
+| Desert Kingdoms | 279497 | [279497-desert-kingdoms.json](./279497-desert-kingdoms.json) |
 | Desert Kingdoms 2 | 303473 | [303473-desert-kingdoms-2.json](./303473-desert-kingdoms-2.json) |
 | Desert Lions | 335459 | [335459-desert-lions.json](./335459-desert-lions.json) |
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
@@ -9031,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
+| Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
 | Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
 | Don't Puke! | 295317 | [295317-dont-puke.json](./295317-dont-puke.json) |
 | Don't Pull | 361332 | [361332-dont-pull.json](./361332-dont-pull.json) |
@@ -9085,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Talk to Strangers | 180638 | [180638-dont-talk-to-strangers.json](./180638-dont-talk-to-strangers.json) |
 | Don't Tap the White Tile | 57324 | [57324-dont-tap-the-white-tile.json](./57324-dont-tap-the-white-tile.json) |
 | Don't Tell My Wife | 396197 | [396197-dont-tell-my-wife.json](./396197-dont-tell-my-wife.json) |
+| Don't Text and Drive | 279463 | [279463-dont-text-and-drive.json](./279463-dont-text-and-drive.json) |
 | Don't Touch Anything Red | 85090 | [85090-dont-touch-anything-red.json](./85090-dont-touch-anything-red.json) |
 | Don't Touch Lava | 215038 | [215038-dont-touch-lava.json](./215038-dont-touch-lava.json) |
 | Don't Touch Me | 107796 | [107796-dont-touch-me.json](./107796-dont-touch-me.json) |
