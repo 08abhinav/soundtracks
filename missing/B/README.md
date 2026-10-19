@@ -5891,7 +5891,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Bay | 239123 | [239123-bingo-bay.json](./239123-bingo-bay.json) |
 | Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
 | Bingo Beavers: Bathroom | 298085 | [298085-bingo-beavers-bathroom.json](./298085-bingo-beavers-bathroom.json) |
+| Bingo Beavers: Halloween Decorations | 293557 | [293557-bingo-beavers-halloween-decorations.json](./293557-bingo-beavers-halloween-decorations.json) |
 | Bingo Beavers: Kitchen | 298035 | [298035-bingo-beavers-kitchen.json](./298035-bingo-beavers-kitchen.json) |
+| Bingo Beavers: Terrace | 293558 | [293558-bingo-beavers-terrace.json](./293558-bingo-beavers-terrace.json) |
 | Bingo Betty | 377081 | [377081-bingo-betty.json](./377081-bingo-betty.json) |
 | Bingo Blitz️ | 181306 | [181306-bingo-blitz.json](./181306-bingo-blitz.json) |
 | Bingo Bugglebee Presents: Home Alone | 362426 | [362426-bingo-bugglebee-presents-home-alone.json](./362426-bingo-bugglebee-presents-home-alone.json) |
@@ -10783,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
 | Brave Dwarves: Back for Treasures | 73533 | [73533-brave-dwarves-back-for-treasures.json](./73533-brave-dwarves-back-for-treasures.json) |
 | Brave Dwarves: Creeping Shadows | 388323 | [388323-brave-dwarves-creeping-shadows.json](./388323-brave-dwarves-creeping-shadows.json) |
+| Brave Fantasy | 293497 | [293497-brave-fantasy.json](./293497-brave-fantasy.json) |
 | Brave Fighter 2: Frontier Free | 38952 | [38952-brave-fighter-2-frontier-free.json](./38952-brave-fighter-2-frontier-free.json) |
 | Brave Fighter: Demon Revenge | 38953 | [38953-brave-fighter-demon-revenge.json](./38953-brave-fighter-demon-revenge.json) |
 | Brave Firefighters: Real Life Heroes | 68307 | [68307-brave-firefighters-real-life-heroes.json](./68307-brave-firefighters-real-life-heroes.json) |
