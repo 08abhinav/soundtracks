@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VirtuaVerse | 36850 | [36850-virtuaverse.json](./36850-virtuaverse.json) |
 | Virtue | 282015 | [282015-virtue.json](./282015-virtue.json) |
 | Virtue's Heaven | 204432 | [204432-virtues-heaven.json](./204432-virtues-heaven.json) |
+| Virtuelle Moorhuhn Jagd | 282432 | [282432-virtuelle-moorhuhn-jagd.json](./282432-virtuelle-moorhuhn-jagd.json) |
 | Virtueror: The Virtual Conqueror | 216859 | [216859-virtueror-the-virtual-conqueror.json](./216859-virtueror-the-virtual-conqueror.json) |
 | Virtuoso GP Race: On | 373077 | [373077-virtuoso-gp-race-on.json](./373077-virtuoso-gp-race-on.json) |
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
