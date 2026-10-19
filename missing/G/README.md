@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Company Simulator: Back to 2000 | 372837 | [372837-game-company-simulator-back-to-2000.json](./372837-game-company-simulator-back-to-2000.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
+| Game de Check! Koutsuu Anzen | 268899 | [268899-game-de-check-koutsuu-anzen.json](./268899-game-de-check-koutsuu-anzen.json) |
 | Game de Demashita! Powerpuff Girls Z | 133826 | [133826-game-de-demashita-powerpuff-girls-z.json](./133826-game-de-demashita-powerpuff-girls-z.json) |
 | Game de Hakken!! Tamagotchi 2 | 77619 | [77619-game-de-hakken-tamagotchi-2.json](./77619-game-de-hakken-tamagotchi-2.json) |
 | Game de Hakken!! Tamagotchi: Osutchi & Mesutchi | 69250 | [69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json](./69250-game-de-hakken-tamagotchi-osutchi-and-mesutchi.json) |
