@@ -5902,6 +5902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Football | 130764 | [130764-world-cup-football.json](./130764-world-cup-football.json) |
 | World Cup Golf: Hyatt Dorado Beach | 38825 | [38825-world-cup-golf-hyatt-dorado-beach.json](./38825-world-cup-golf-hyatt-dorado-beach.json) |
 | World Cup Golf: Professional Edition | 4340 | [4340-world-cup-golf-professional-edition.json](./4340-world-cup-golf-professional-edition.json) |
+| World Cup Italia '90 | 263350 | [263350-world-cup-italia-90.json](./263350-world-cup-italia-90.json) |
+| World Cup Italia '90 | 263351 | [263351-world-cup-italia-90.json](./263351-world-cup-italia-90.json) |
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
