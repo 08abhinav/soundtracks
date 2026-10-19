@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campire of Oasis: The Story | 397659 | [397659-campire-of-oasis-the-story.json](./397659-campire-of-oasis-the-story.json) |
 | Camplandia | 249872 | [249872-camplandia.json](./249872-camplandia.json) |
 | CampNight | 223502 | [223502-campnight.json](./223502-campnight.json) |
+| Camps | 293469 | [293469-camps.json](./293469-camps.json) |
 | Campus | 24998 | [24998-campus.json](./24998-campus.json) |
 | Campus Confidential | 384175 | [384175-campus-confidential.json](./384175-campus-confidential.json) |
 | Campus Fantasy | 329338 | [329338-campus-fantasy.json](./329338-campus-fantasy.json) |
@@ -2707,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Fishing | 380057 | [380057-casual-fishing.json](./380057-casual-fishing.json) |
 | Casual Games Collection | 98819 | [98819-casual-games-collection.json](./98819-casual-games-collection.json) |
 | Casual Golf | 165738 | [165738-casual-golf.json](./165738-casual-golf.json) |
+| Casual Mahjong | 293478 | [293478-casual-mahjong.json](./293478-casual-mahjong.json) |
 | Casual Penalty | 100462 | [100462-casual-penalty.json](./100462-casual-penalty.json) |
 | Casual Pixel Warrior | 188910 | [188910-casual-pixel-warrior.json](./188910-casual-pixel-warrior.json) |
 | Casual Puzzles Bundle 8 in 1 | 302246 | [302246-casual-puzzles-bundle-8-in-1.json](./302246-casual-puzzles-bundle-8-in-1.json) |
@@ -7756,6 +7758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Feral | 266398 | [266398-club-feral.json](./266398-club-feral.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
+| Club Koala | 293555 | [293555-club-koala.json](./293555-club-koala.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Lipstick VR | 157217 | [157217-club-lipstick-vr.json](./157217-club-lipstick-vr.json) |
 | Club Manager 2016 | 34337 | [34337-club-manager-2016.json](./34337-club-manager-2016.json) |
@@ -14385,6 +14388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Covenant: The Demonic Pursuit | 338712 | [338712-cursed-covenant-the-demonic-pursuit.json](./338712-cursed-covenant-the-demonic-pursuit.json) |
 | Cursed Crew | 217018 | [217018-cursed-crew.json](./217018-cursed-crew.json) |
 | Cursed Demons of Wallachia | 365767 | [365767-cursed-demons-of-wallachia.json](./365767-cursed-demons-of-wallachia.json) |
+| Cursed Despair | 293470 | [293470-cursed-despair.json](./293470-cursed-despair.json) |
 | Cursed Diamonds | 285985 | [285985-cursed-diamonds.json](./285985-cursed-diamonds.json) |
 | Cursed Digicam | 327543 | [327543-cursed-digicam.json](./327543-cursed-digicam.json) |
 | Cursed Digilens | 347481 | [347481-cursed-digilens.json](./347481-cursed-digilens.json) |
