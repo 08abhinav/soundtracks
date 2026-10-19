@@ -12680,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BumFight! | 69221 | [69221-bumfight.json](./69221-bumfight.json) |
 | Bump | 304821 | [304821-bump.json](./304821-bump.json) |
 | Bump 'N' Burn | 14353 | [14353-bump-n-burn.json](./14353-bump-n-burn.json) |
+| Bump 'n' Jump | 290271 | [290271-bump-n-jump.json](./290271-bump-n-jump.json) |
 | Bump and Run Racing | 265396 | [265396-bump-and-run-racing.json](./265396-bump-and-run-racing.json) |
 | Bump Battle Royale | 198822 | [198822-bump-battle-royale.json](./198822-bump-battle-royale.json) |
 | Bump Bump Bump | 95182 | [95182-bump-bump-bump.json](./95182-bump-bump-bump.json) |
