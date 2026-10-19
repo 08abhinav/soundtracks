@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indestructotank Anniversary Edition | 279748 | [279748-indestructotank-anniversary-edition.json](./279748-indestructotank-anniversary-edition.json) |
 | IndestructoTank! | 144588 | [144588-indestructotank.json](./144588-indestructotank.json) |
 | Index 1391 | 412217 | [412217-index-1391.json](./412217-index-1391.json) |
+| Index: Purger | 285896 | [285896-index-purger.json](./285896-index-purger.json) |
 | India Garden | 36824 | [36824-india-garden.json](./36824-india-garden.json) |
 | Indian Army: Mission Pok | 171399 | [171399-indian-army-mission-pok.json](./171399-indian-army-mission-pok.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct Rush | 117821 | [117821-instinct-rush.json](./117821-instinct-rush.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
+| Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
 | Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
 | Instruments of Destruction | 149952 | [149952-instruments-of-destruction.json](./149952-instruments-of-destruction.json) |
 | Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
