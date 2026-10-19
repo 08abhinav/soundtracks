@@ -6043,7 +6043,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei J | 138483 | [138483-shin-megami-tensei-j.json](./138483-shin-megami-tensei-j.json) |
 | Shin Megami Tensei V: A Goddess in Training | 238054 | [238054-shin-megami-tensei-v-a-goddess-in-training.json](./238054-shin-megami-tensei-v-a-goddess-in-training.json) |
 | Shin Megami Tensei V: The Rage of a Queen | 238058 | [238058-shin-megami-tensei-v-the-rage-of-a-queen.json](./238058-shin-megami-tensei-v-the-rage-of-a-queen.json) |
+| Shin Megami Tensei V: Vengeance - Demon Subquest: Holy Will and Profane Dissent | 297317 | [297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json](./297317-shin-megami-tensei-v-vengeance-demon-subquest-holy-will-and-profane-dissent.json) |
 | Shin Megami Tensei V: Vengeance - Demon Subquest: Sakura Cinders of the East | 297318 | [297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json](./297318-shin-megami-tensei-v-vengeance-demon-subquest-sakura-cinders-of-the-east.json) |
+| Shin Megami Tensei V: Vengeance - Digital Deluxe Edition | 297306 | [297306-shin-megami-tensei-v-vengeance-digital-deluxe-edition.json](./297306-shin-megami-tensei-v-vengeance-digital-deluxe-edition.json) |
 | Shin Megami Tensei V: Vengeance - DLC All-in-One | 306561 | [306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json](./306561-shin-megami-tensei-v-vengeance-dlc-all-in-one.json) |
 | Shin Megami Tensei V: Vengeance - Launch Edition | 391671 | [391671-shin-megami-tensei-v-vengeance-launch-edition.json](./391671-shin-megami-tensei-v-vengeance-launch-edition.json) |
 | Shin Megami Tensei V: Vengeance - Mitama Dance of EXP | 315481 | [315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json](./315481-shin-megami-tensei-v-vengeance-mitama-dance-of-exp.json) |
@@ -8575,6 +8577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
 | Sixtar Gate: Startrail - Oshiribeat Pack | 284913 | [284913-sixtar-gate-startrail-oshiribeat-pack.json](./284913-sixtar-gate-startrail-oshiribeat-pack.json) |
+| Sixtar Gate: Startrail - Sixtartales | 297315 | [297315-sixtar-gate-startrail-sixtartales.json](./297315-sixtar-gate-startrail-sixtartales.json) |
 | Sixtar Gate: Startrail - Yomoha's Planet | 274638 | [274638-sixtar-gate-startrail-yomohas-planet.json](./274638-sixtar-gate-startrail-yomohas-planet.json) |
 | Sixteen | 193213 | [193213-sixteen.json](./193213-sixteen.json) |
 | Sixteen | 70856 | [70856-sixteen.json](./70856-sixteen.json) |
