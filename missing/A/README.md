@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A thousand words that I could tell you | 257539 | [257539-a-thousand-words-that-i-could-tell-you.json](./257539-a-thousand-words-that-i-could-tell-you.json) |
 | A Thug's Ascension | 250817 | [250817-a-thugs-ascension.json](./250817-a-thugs-ascension.json) |
 | A Time of Life | 166666 | [166666-a-time-of-life.json](./166666-a-time-of-life.json) |
+| A Time Traveller's Guide to Past Delicacies | 285882 | [285882-a-time-travellers-guide-to-past-delicacies.json](./285882-a-time-travellers-guide-to-past-delicacies.json) |
 | A Timeless Carol | 112305 | [112305-a-timeless-carol.json](./112305-a-timeless-carol.json) |
 | A Timeless Story | 124669 | [124669-a-timeless-story.json](./124669-a-timeless-story.json) |
 | A Tiny Eternity | 318177 | [318177-a-tiny-eternity.json](./318177-a-tiny-eternity.json) |
@@ -1305,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
+| ABC World | 285864 | [285864-abc-world.json](./285864-abc-world.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
@@ -8113,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AO Tennis | 76726 | [76726-ao-tennis.json](./76726-ao-tennis.json) |
 | AO Tennis | 80907 | [80907-ao-tennis.json](./80907-ao-tennis.json) |
 | AO Tennis 2 | 125479 | [125479-ao-tennis-2.json](./125479-ao-tennis-2.json) |
+| Ao to Ao no Sekai | 285873 | [285873-ao-to-ao-no-sekai.json](./285873-ao-to-ao-no-sekai.json) |
 | Ao Zora to Nakama Tachi: Yume no Bouken | 49492 | [49492-ao-zora-to-nakama-tachi-yume-no-bouken.json](./49492-ao-zora-to-nakama-tachi-yume-no-bouken.json) |
 | Ao Zora to Nakama Tachi: Yume no Bouken Plus | 44842 | [44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json](./44842-ao-zora-to-nakama-tachi-yume-no-bouken-plus.json) |
 | Ao-Don DS: Hanabi no Goku & Hanabi no Takumi | 269649 | [269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json](./269649-ao-don-ds-hanabi-no-goku-and-hanabi-no-takumi.json) |
