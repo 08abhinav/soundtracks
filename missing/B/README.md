@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
+| Babes | 273250 | [273250-babes.json](./273250-babes.json) |
 | Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | Babette | 318874 | [318874-babette.json](./318874-babette.json) |
@@ -4254,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beckett | 89504 | [89504-beckett.json](./89504-beckett.json) |
 | Beckoned | 159847 | [159847-beckoned.json](./159847-beckoned.json) |
 | Becky Brogan: The Mystery of Meane Manor | 125303 | [125303-becky-brogan-the-mystery-of-meane-manor.json](./125303-becky-brogan-the-mystery-of-meane-manor.json) |
+| Becky's Message | 273283 | [273283-beckys-message.json](./273283-beckys-message.json) |
 | Becloudead | 169806 | [169806-becloudead.json](./169806-becloudead.json) |
 | Becolor | 110245 | [110245-becolor.json](./110245-becolor.json) |
 | Become | 390172 | [390172-become.json](./390172-become.json) |
@@ -6263,6 +6265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds of Ascent | 404222 | [404222-birds-of-ascent.json](./404222-birds-of-ascent.json) |
 | Birds of Prey | 11962 | [11962-birds-of-prey.json](./11962-birds-of-prey.json) |
 | Birds of Prey | 15673 | [15673-birds-of-prey.json](./15673-birds-of-prey.json) |
+| Birds of Prey | 273239 | [273239-birds-of-prey.json](./273239-birds-of-prey.json) |
 | Birds of War | 390140 | [390140-birds-of-war.json](./390140-birds-of-war.json) |
 | Birds on a Wire | 52457 | [52457-birds-on-a-wire.json](./52457-birds-on-a-wire.json) |
 | Birds On A Wire | 269070 | [269070-birds-on-a-wire.json](./269070-birds-on-a-wire.json) |
