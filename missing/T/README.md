@@ -19828,6 +19828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Day | 322831 | [322831-towel-day.json](./322831-towel-day.json) |
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
+| Towelket 0: Maiden Bomb Invaders | 282444 | [282444-towelket-0-maiden-bomb-invaders.json](./282444-towelket-0-maiden-bomb-invaders.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
 | Towelket: One More Time 3 Karaage Tanpopo | 146554 | [146554-towelket-one-more-time-3-karaage-tanpopo.json](./146554-towelket-one-more-time-3-karaage-tanpopo.json) |
 | Towelket: One More Time 5 - Gaugau's Bride | 147250 | [147250-towelket-one-more-time-5-gaugaus-bride.json](./147250-towelket-one-more-time-5-gaugaus-bride.json) |
@@ -23294,6 +23295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
 | True Horror | 103674 | [103674-true-horror.json](./103674-true-horror.json) |
+| True Lies | 282484 | [282484-true-lies.json](./282484-true-lies.json) |
 | True Love | 320026 | [320026-true-love.json](./320026-true-love.json) |
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
