@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubercold | 119612 | [119612-ubercold.json](./119612-ubercold.json) |
 | UberFlight | 180056 | [180056-uberflight.json](./180056-uberflight.json) |
 | Ubergridder | 92521 | [92521-ubergridder.json](./92521-ubergridder.json) |
+| Uberich: Advent Sinners | 298452 | [298452-uberich-advent-sinners.json](./298452-uberich-advent-sinners.json) |
 | Uberlaufer | 149884 | [149884-uberlaufer.json](./149884-uberlaufer.json) |
 | Ubermensch | 293649 | [293649-ubermensch.json](./293649-ubermensch.json) |
 | Ubermosh Vol.3 | 31669 | [31669-ubermosh-vol-3.json](./31669-ubermosh-vol-3.json) |
