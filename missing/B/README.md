@@ -3516,6 +3516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Our Guest | 334274 | [334274-be-our-guest.json](./334274-be-our-guest.json) |
 | Be Quiet!: Act One | 170421 | [170421-be-quiet-act-one.json](./170421-be-quiet-act-one.json) |
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
+| Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
@@ -5185,6 +5186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Black Hole | 73792 | [73792-beyond-the-black-hole.json](./73792-beyond-the-black-hole.json) |
 | Beyond the Board | 195954 | [195954-beyond-the-board.json](./195954-beyond-the-board.json) |
 | Beyond The Board | 289383 | [289383-beyond-the-board.json](./289383-beyond-the-board.json) |
+| Beyond the Breach | 291863 | [291863-beyond-the-breach.json](./291863-beyond-the-breach.json) |
 | Beyond the Bridge | 338232 | [338232-beyond-the-bridge.json](./338232-beyond-the-bridge.json) |
 | Beyond the Chiron Gate | 205085 | [205085-beyond-the-chiron-gate.json](./205085-beyond-the-chiron-gate.json) |
 | Beyond the City VR | 29665 | [29665-beyond-the-city-vr.json](./29665-beyond-the-city-vr.json) |
@@ -8331,6 +8333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Good Times | 52475 | [52475-bloody-good-times.json](./52475-bloody-good-times.json) |
 | Bloody Harry | 274390 | [274390-bloody-harry.json](./274390-bloody-harry.json) |
 | Bloody Heaven | 263995 | [263995-bloody-heaven.json](./263995-bloody-heaven.json) |
+| Bloody Heaven 2 | 291859 | [291859-bloody-heaven-2.json](./291859-bloody-heaven-2.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
 | Bloody Hell Hotel | 213557 | [213557-bloody-hell-hotel.json](./213557-bloody-hell-hotel.json) |
@@ -10801,6 +10804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Girl Ravens xR | 98528 | [98528-brave-girl-ravens-xr.json](./98528-brave-girl-ravens-xr.json) |
+| Brave Glin in Fairyaria | 291830 | [291830-brave-glin-in-fairyaria.json](./291830-brave-glin-in-fairyaria.json) |
 | Brave Hand | 81690 | [81690-brave-hand.json](./81690-brave-hand.json) |
 | Brave Heart | 246317 | [246317-brave-heart.json](./246317-brave-heart.json) |
 | Brave Hero | 295271 | [295271-brave-hero.json](./295271-brave-hero.json) |
