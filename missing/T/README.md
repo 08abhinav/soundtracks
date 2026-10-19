@@ -2745,6 +2745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
 | Tell Me Your Story: Complete Edition | 328787 | [328787-tell-me-your-story-complete-edition.json](./328787-tell-me-your-story-complete-edition.json) |
 | Tell Me Your Story: Definitive Edition | 328786 | [328786-tell-me-your-story-definitive-edition.json](./328786-tell-me-your-story-definitive-edition.json) |
+| Tell Me Your Story: Deluxe Edition | 305595 | [305595-tell-me-your-story-deluxe-edition.json](./305595-tell-me-your-story-deluxe-edition.json) |
 | Tell Me Your Story: Extended Edition | 328784 | [328784-tell-me-your-story-extended-edition.json](./328784-tell-me-your-story-extended-edition.json) |
 | Tell Me Your Story: Porcelain Puzzle 1 | 324485 | [324485-tell-me-your-story-porcelain-puzzle-1.json](./324485-tell-me-your-story-porcelain-puzzle-1.json) |
 | Tell Me Your Story: Porcelain Puzzle 2 | 324486 | [324486-tell-me-your-story-porcelain-puzzle-2.json](./324486-tell-me-your-story-porcelain-puzzle-2.json) |
@@ -4986,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boy With Bombs | 61122 | [61122-the-boy-with-bombs.json](./61122-the-boy-with-bombs.json) |
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
+| The Boys Escape | 305624 | [305624-the-boys-escape.json](./305624-the-boys-escape.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -7318,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost Treasure | 327795 | [327795-the-ghost-treasure.json](./327795-the-ghost-treasure.json) |
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
+| The Ghost X: Sniper Simulator - Premium Edition | 305594 | [305594-the-ghost-x-sniper-simulator-premium-edition.json](./305594-the-ghost-x-sniper-simulator-premium-edition.json) |
 | The Ghosts of Blackwood Manor | 308021 | [308021-the-ghosts-of-blackwood-manor.json](./308021-the-ghosts-of-blackwood-manor.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
 | The Ghosts of Terinor | 266762 | [266762-the-ghosts-of-terinor.json](./266762-the-ghosts-of-terinor.json) |
@@ -14940,6 +14943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Threshold of Awakening | 272575 | [272575-threshold-of-awakening.json](./272575-threshold-of-awakening.json) |
 | Threshold of Judgement | 378159 | [378159-threshold-of-judgement.json](./378159-threshold-of-judgement.json) |
 | Threshold of Pain | 274219 | [274219-threshold-of-pain.json](./274219-threshold-of-pain.json) |
+| Threshold Sector | 305644 | [305644-threshold-sector.json](./305644-threshold-sector.json) |
 | Threshold Warden | 414794 | [414794-threshold-warden.json](./414794-threshold-warden.json) |
 | Thrice Doomed | 294769 | [294769-thrice-doomed.json](./294769-thrice-doomed.json) |
 | Thrice in a row | 133176 | [133176-thrice-in-a-row.json](./133176-thrice-in-a-row.json) |
@@ -19302,6 +19306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchgrind BMX | 88294 | [88294-touchgrind-bmx.json](./88294-touchgrind-bmx.json) |
 | Touching Grass Simulator | 348985 | [348985-touching-grass-simulator.json](./348985-touching-grass-simulator.json) |
 | TouchMaster DS | 21442 | [21442-touchmaster-ds.json](./21442-touchmaster-ds.json) |
+| TouchNothing | 305643 | [305643-touchnothing.json](./305643-touchnothing.json) |
 | TouchSports Tennis 2012 HD | 233744 | [233744-touchsports-tennis-2012-hd.json](./233744-touchsports-tennis-2012-hd.json) |
 | Touchtone | 15550 | [15550-touchtone.json](./15550-touchtone.json) |
 | Toufra | 262948 | [262948-toufra.json](./262948-toufra.json) |
