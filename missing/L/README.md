@@ -3178,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liberators' Chronicles | 266779 | [266779-liberators-chronicles.json](./266779-liberators-chronicles.json) |
 | LiberoGrande | 40372 | [40372-liberogrande.json](./40372-liberogrande.json) |
 | Liberogrande International | 81231 | [81231-liberogrande-international.json](./81231-liberogrande-international.json) |
+| Liberosis: Protosis | 259429 | [259429-liberosis-protosis.json](./259429-liberosis-protosis.json) |
 | Liberta: Rise of Freedom | 250963 | [250963-liberta-rise-of-freedom.json](./250963-liberta-rise-of-freedom.json) |
 | Libertad o Muerte! | 328316 | [328316-libertad-o-muerte.json](./328316-libertad-o-muerte.json) |
 | Libertarian Wario Land | 318524 | [318524-libertarian-wario-land.json](./318524-libertarian-wario-land.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
+| Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
 | Logiart Grimoire | 263886 | [263886-logiart-grimoire.json](./263886-logiart-grimoire.json) |
