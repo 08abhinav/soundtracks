@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santego Special Unit | 216343 | [216343-santego-special-unit.json](./216343-santego-special-unit.json) |
 | Santherya Uprising | 376005 | [376005-santherya-uprising.json](./376005-santherya-uprising.json) |
 | Santo Island Incident | 199661 | [199661-santo-island-incident.json](./199661-santo-island-incident.json) |
+| Santorini Board Game | 290291 | [290291-santorini-board-game.json](./290291-santorini-board-game.json) |
 | Santy is Home | 326778 | [326778-santy-is-home.json](./326778-santy-is-home.json) |
 | Sanxion | 23045 | [23045-sanxion.json](./23045-sanxion.json) |
 | Sanyo Pachinko Paradise | 55926 | [55926-sanyo-pachinko-paradise.json](./55926-sanyo-pachinko-paradise.json) |
@@ -3854,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekimori Gami: Saien | 300959 | [300959-sekimori-gami-saien.json](./300959-sekimori-gami-saien.json) |
 | Sekira | 345093 | [345093-sekira.json](./345093-sekira.json) |
 | Sekirei: Mirai Kara no Okurimono | 65547 | [65547-sekirei-mirai-kara-no-okurimono.json](./65547-sekirei-mirai-kara-no-okurimono.json) |
+| Sekiro: Long May the Shadows Reflect | 290294 | [290294-sekiro-long-may-the-shadows-reflect.json](./290294-sekiro-long-may-the-shadows-reflect.json) |
 | Sekiro: Shadows Die Twice - Collector's Edition | 103282 | [103282-sekiro-shadows-die-twice-collectors-edition.json](./103282-sekiro-shadows-die-twice-collectors-edition.json) |
 | Sekiro: Shadows Die Twice - Game of the Year Edition | 365281 | [365281-sekiro-shadows-die-twice-game-of-the-year-edition.json](./365281-sekiro-shadows-die-twice-game-of-the-year-edition.json) |
 | Sekka the Gleam | 355204 | [355204-sekka-the-gleam.json](./355204-sekka-the-gleam.json) |
@@ -8440,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
+| Sippy Disco: Light Up The Dance Floor | 290257 | [290257-sippy-disco-light-up-the-dance-floor.json](./290257-sippy-disco-light-up-the-dance-floor.json) |
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
@@ -14985,6 +14988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark | 302800 | [302800-spark.json](./302800-spark.json) |
+| Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
 | Spark Era | 229112 | [229112-spark-era.json](./229112-spark-era.json) |
 | Spark Era: Echo to Universe | 227171 | [227171-spark-era-echo-to-universe.json](./227171-spark-era-echo-to-universe.json) |
 | Spark Five | 111683 | [111683-spark-five.json](./111683-spark-five.json) |
@@ -15302,6 +15306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Night | 278689 | [278689-speed-night.json](./278689-speed-night.json) |
 | Speed or Death | 254053 | [254053-speed-or-death.json](./254053-speed-or-death.json) |
 | Speed Overflow | 306537 | [306537-speed-overflow.json](./306537-speed-overflow.json) |
+| Speed Plumber | 290270 | [290270-speed-plumber.json](./290270-speed-plumber.json) |
 | Speed Power Gunbike | 92832 | [92832-speed-power-gunbike.json](./92832-speed-power-gunbike.json) |
 | Speed Race DX | 342140 | [342140-speed-race-dx.json](./342140-speed-race-dx.json) |
 | Speed Racer | 111562 | [111562-speed-racer.json](./111562-speed-racer.json) |
@@ -15680,6 +15685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spherix | 285514 | [285514-spherix.json](./285514-spherix.json) |
+| Sphero | 290298 | [290298-sphero.json](./290298-sphero.json) |
 | Spheroid | 100149 | [100149-spheroid.json](./100149-spheroid.json) |
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
@@ -15943,6 +15949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Squared | 174281 | [174281-spin-squared.json](./174281-spin-squared.json) |
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
+| Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
 | Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
 | Spin Time | 228640 | [228640-spin-time.json](./228640-spin-time.json) |
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
@@ -17924,6 +17931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Episode I: The Phantom Menace | 329227 | [329227-star-wars-episode-i-the-phantom-menace.json](./329227-star-wars-episode-i-the-phantom-menace.json) |
 | Star Wars Galaxies Trading Card Games : Champions of the Force | 72636 | [72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json](./72636-star-wars-galaxies-trading-card-games-champions-of-the-force.json) |
 | Star Wars Galaxies: Ancient Empire | 376116 | [376116-star-wars-galaxies-ancient-empire.json](./376116-star-wars-galaxies-ancient-empire.json) |
+| Star Wars Galaxies: Evolve | 290279 | [290279-star-wars-galaxies-evolve.json](./290279-star-wars-galaxies-evolve.json) |
 | Star Wars Galaxies: Jump to Lightspeed | 147 | [147-star-wars-galaxies-jump-to-lightspeed.json](./147-star-wars-galaxies-jump-to-lightspeed.json) |
 | Star Wars Galaxies: Rage of the Wookiees | 146 | [146-star-wars-galaxies-rage-of-the-wookiees.json](./146-star-wars-galaxies-rage-of-the-wookiees.json) |
 | Star Wars Galaxies: The Complete Online Adventures | 150523 | [150523-star-wars-galaxies-the-complete-online-adventures.json](./150523-star-wars-galaxies-the-complete-online-adventures.json) |
@@ -21234,6 +21242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarines 2D | 301992 | [301992-submarines-2d.json](./301992-submarines-2d.json) |
 | Submerged | 11409 | [11409-submerged.json](./11409-submerged.json) |
 | Submerged | 182813 | [182813-submerged.json](./182813-submerged.json) |
+| Submerged Gallery | 290299 | [290299-submerged-gallery.json](./290299-submerged-gallery.json) |
 | Submerged Lights | 392156 | [392156-submerged-lights.json](./392156-submerged-lights.json) |
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: Hidden Depths | 141373 | [141373-submerged-hidden-depths.json](./141373-submerged-hidden-depths.json) |
@@ -23278,6 +23287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros.: The 8th Star | 324087 | [324087-super-mario-bros-the-8th-star.json](./324087-super-mario-bros-the-8th-star.json) |
 | Super Mario Bros.: The Cookie of Destiny | 323353 | [323353-super-mario-bros-the-cookie-of-destiny.json](./323353-super-mario-bros-the-cookie-of-destiny.json) |
 | Super Mario Bros.: The Extra Objects | 313405 | [313405-super-mario-bros-the-extra-objects.json](./313405-super-mario-bros-the-extra-objects.json) |
+| Super Mario Bros.: The Lost Levels - All Levels in a Row | 290250 | [290250-super-mario-bros-the-lost-levels-all-levels-in-a-row.json](./290250-super-mario-bros-the-lost-levels-all-levels-in-a-row.json) |
 | Super Mario Bros.: The Lost Levels Remastered | 378500 | [378500-super-mario-bros-the-lost-levels-remastered.json](./378500-super-mario-bros-the-lost-levels-remastered.json) |
 | Super Mario Bros.: The New Worlds | 255601 | [255601-super-mario-bros-the-new-worlds.json](./255601-super-mario-bros-the-new-worlds.json) |
 | Super Mario Bros.: Two Players Hack | 162716 | [162716-super-mario-bros-two-players-hack.json](./162716-super-mario-bros-two-players-hack.json) |
@@ -24313,6 +24323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sunburnt Siesta Snoozer | 299566 | [299566-super-sunburnt-siesta-snoozer.json](./299566-super-sunburnt-siesta-snoozer.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
 | Super Super Fun World | 276937 | [276937-super-super-fun-world.json](./276937-super-super-fun-world.json) |
+| Super Super Mario Land | 290249 | [290249-super-super-mario-land.json](./290249-super-super-mario-land.json) |
 | Super Super Super Super | 176331 | [176331-super-super-super-super.json](./176331-super-super-super-super.json) |
 | Super Supermarket | 124547 | [124547-super-supermarket.json](./124547-super-supermarket.json) |
 | Super Surf Bros | 128609 | [128609-super-surf-bros.json](./128609-super-surf-bros.json) |
