@@ -11515,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bright Garden | 381957 | [381957-bright-garden.json](./381957-bright-garden.json) |
 | Bright Gems | 365467 | [365467-bright-gems.json](./365467-bright-gems.json) |
 | Bright Girl | 155017 | [155017-bright-girl.json](./155017-bright-girl.json) |
+| Bright kingdom | 281929 | [281929-bright-kingdom.json](./281929-bright-kingdom.json) |
 | Bright Lancer | 141881 | [141881-bright-lancer.json](./141881-bright-lancer.json) |
 | Bright Lights of Svetlov | 170273 | [170273-bright-lights-of-svetlov.json](./170273-bright-lights-of-svetlov.json) |
 | Bright low | 77164 | [77164-bright-low.json](./77164-bright-low.json) |
