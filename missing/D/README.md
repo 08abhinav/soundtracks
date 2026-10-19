@@ -2250,6 +2250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
 | DCA3 | 327237 | [327237-dca3.json](./327237-dca3.json) |
 | DCF Universe Triple Trouble Bundle | 338026 | [338026-dcf-universe-triple-trouble-bundle.json](./338026-dcf-universe-triple-trouble-bundle.json) |
+| DCGO | 304982 | [304982-dcgo.json](./304982-dcgo.json) |
 | DCKO | 410955 | [410955-dcko.json](./410955-dcko.json) |
 | DCop | 270117 | [270117-dcop.json](./270117-dcop.json) |
 | DCR: Drive.Crash.Repeat | 108296 | [108296-dcr-drive-crash-repeat.json](./108296-dcr-drive-crash-repeat.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny or Fate | 113311 | [113311-destiny-or-fate.json](./113311-destiny-or-fate.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
+| Destiny Star Girlfriend 2 | 304983 | [304983-destiny-star-girlfriend-2.json](./304983-destiny-star-girlfriend-2.json) |
 | Destiny Star Girlfriend 3 | 305275 | [305275-destiny-star-girlfriend-3.json](./305275-destiny-star-girlfriend-3.json) |
 | Destiny Star Girlfriend 3 | 315039 | [315039-destiny-star-girlfriend-3.json](./315039-destiny-star-girlfriend-3.json) |
 | Destiny Summoner | 249917 | [249917-destiny-summoner.json](./249917-destiny-summoner.json) |
@@ -10629,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
+| Dragon Buurrp! | 304956 | [304956-dragon-buurrp.json](./304956-dragon-buurrp.json) |
 | Dragon Caffi | 196036 | [196036-dragon-caffi.json](./196036-dragon-caffi.json) |
 | Dragon Call | 119495 | [119495-dragon-call.json](./119495-dragon-call.json) |
 | Dragon Care Tarot | 392225 | [392225-dragon-care-tarot.json](./392225-dragon-care-tarot.json) |
