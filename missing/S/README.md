@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Wing | 183916 | [183916-second-wing.json](./183916-second-wing.json) |
 | Second World | 192254 | [192254-second-world.json](./192254-second-world.json) |
 | Second World: Air War S | 113002 | [113002-second-world-air-war-s.json](./113002-second-world-air-war-s.json) |
+| Second-Loop | 300245 | [300245-second-loop.json](./300245-second-loop.json) |
 | Seconds Between Summer | 364369 | [364369-seconds-between-summer.json](./364369-seconds-between-summer.json) |
 | Seconds from Silence | 122903 | [122903-seconds-from-silence.json](./122903-seconds-from-silence.json) |
 | Seconds in Space | 133217 | [133217-seconds-in-space.json](./133217-seconds-in-space.json) |
@@ -6405,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShiroKuro | 414125 | [414125-shirokuro.json](./414125-shirokuro.json) |
 | ShiroKuro Iede Gyaru: Tomete Kuretara Nandemo Suru yo | 82999 | [82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json](./82999-shirokuro-iede-gyaru-tomete-kuretara-nandemo-suru-yo.json) |
 | Shirokuro: Shikijoushou no Osananajimi wo Sewa suru koto ni natta, Kanojo ni naisho de | 323855 | [323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json](./323855-shirokuro-shikijoushou-no-osananajimi-wo-sewa-suru-koto-ni-natta-kanojo-ni-naisho-de.json) |
+| ShiroKuro: Shiroi Kokoro to Kuroi Tsurugi | 300444 | [300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json](./300444-shirokuro-shiroi-kokoro-to-kuroi-tsurugi.json) |
 | Shirone: the Dragon Girl | 192782 | [192782-shirone-the-dragon-girl.json](./192782-shirone-the-dragon-girl.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
@@ -6683,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootout! : World Edition | 90897 | [90897-shootout-world-edition.json](./90897-shootout-world-edition.json) |
 | ShootOut(SystemD) | 147209 | [147209-shootout-systemd.json](./147209-shootout-systemd.json) |
 | ShootRun | 156888 | [156888-shootrun.json](./156888-shootrun.json) |
+| Shootrush | 300550 | [300550-shootrush.json](./300550-shootrush.json) |
 | Shoottera | 88148 | [88148-shoottera.json](./88148-shoottera.json) |
 | Shoottris: Beyond the Classic Game | 110508 | [110508-shoottris-beyond-the-classic-game.json](./110508-shoottris-beyond-the-classic-game.json) |
 | Shootvaders: The Beginning | 190945 | [190945-shootvaders-the-beginning.json](./190945-shootvaders-the-beginning.json) |
@@ -9214,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skybound Colonies | 394529 | [394529-skybound-colonies.json](./394529-skybound-colonies.json) |
 | Skybound Saga | 352236 | [352236-skybound-saga.json](./352236-skybound-saga.json) |
 | Skybox | 236858 | [236858-skybox.json](./236858-skybox.json) |
+| Skybreak! | 300435 | [300435-skybreak.json](./300435-skybreak.json) |
 | Skybreakers | 270619 | [270619-skybreakers.json](./270619-skybreakers.json) |
 | Skybride | 134634 | [134634-skybride.json](./134634-skybride.json) |
 | Skycards | 322122 | [322122-skycards.json](./322122-skycards.json) |
