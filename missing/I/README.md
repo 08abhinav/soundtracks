@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Butterflies 5 | 315350 | [315350-i-commissioned-some-butterflies-5.json](./315350-i-commissioned-some-butterflies-5.json) |
 | I Commissioned Some Cats | 237295 | [237295-i-commissioned-some-cats.json](./237295-i-commissioned-some-cats.json) |
 | I Commissioned Some Cats 2 | 264551 | [264551-i-commissioned-some-cats-2.json](./264551-i-commissioned-some-cats-2.json) |
+| I Commissioned Some Cats 4 | 269999 | [269999-i-commissioned-some-cats-4.json](./269999-i-commissioned-some-cats-4.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
 | I Commissioned Some Dogs | 241292 | [241292-i-commissioned-some-dogs.json](./241292-i-commissioned-some-dogs.json) |
 | I Commissioned Some Dogs 3 | 315351 | [315351-i-commissioned-some-dogs-3.json](./315351-i-commissioned-some-dogs-3.json) |
@@ -2684,6 +2685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Ascent | 271851 | [271851-infernal-ascent.json](./271851-infernal-ascent.json) |
 | Infernal Battles | 402938 | [402938-infernal-battles.json](./402938-infernal-battles.json) |
 | Infernal Bloodrush | 310286 | [310286-infernal-bloodrush.json](./310286-infernal-bloodrush.json) |
+| Infernal Cave | 269970 | [269970-infernal-cave.json](./269970-infernal-cave.json) |
 | Infernal Chess | 333398 | [333398-infernal-chess.json](./333398-infernal-chess.json) |
 | Infernal Cleaner | 411806 | [411806-infernal-cleaner.json](./411806-infernal-cleaner.json) |
 | Infernal Dream Collection | 53230 | [53230-infernal-dream-collection.json](./53230-infernal-dream-collection.json) |
