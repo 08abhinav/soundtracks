@@ -8851,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
 | Poly Puzzle: Dinosaurs | 221133 | [221133-poly-puzzle-dinosaurs.json](./221133-poly-puzzle-dinosaurs.json) |
+| Poly Puzzle: Dogs | 286418 | [286418-poly-puzzle-dogs.json](./286418-poly-puzzle-dogs.json) |
 | Poly Puzzle: Furries | 170229 | [170229-poly-puzzle-furries.json](./170229-poly-puzzle-furries.json) |
 | Poly Puzzle: Furries 2 | 173069 | [173069-poly-puzzle-furries-2.json](./173069-poly-puzzle-furries-2.json) |
 | Poly Racing | 173290 | [173290-poly-racing.json](./173290-poly-racing.json) |
@@ -11871,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Vostok | 258985 | [258985-project-vostok.json](./258985-project-vostok.json) |
 | Project Vostok: Episode 1 | 189892 | [189892-project-vostok-episode-1.json](./189892-project-vostok-episode-1.json) |
 | Project VR Wild Hunt | 120674 | [120674-project-vr-wild-hunt.json](./120674-project-vr-wild-hunt.json) |
+| Project W.A.K.E. | 286431 | [286431-project-w-a-k-e.json](./286431-project-w-a-k-e.json) |
 | Project Wand: Festival Of Futas | 290790 | [290790-project-wand-festival-of-futas.json](./290790-project-wand-festival-of-futas.json) |
 | Project Wand: Land of Leng | 379537 | [379537-project-wand-land-of-leng.json](./379537-project-wand-land-of-leng.json) |
 | Project Warlock 2-pack | 223544 | [223544-project-warlock-2-pack.json](./223544-project-warlock-2-pack.json) |
@@ -13376,8 +13378,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Garage | 291615 | [291615-puzzle-garage.json](./291615-puzzle-garage.json) |
 | Puzzle Gems | 290240 | [290240-puzzle-gems.json](./290240-puzzle-gems.json) |
 | Puzzle Girl | 155463 | [155463-puzzle-girl.json](./155463-puzzle-girl.json) |
+| Puzzle Girls: Alexa | 286400 | [286400-puzzle-girls-alexa.json](./286400-puzzle-girls-alexa.json) |
 | Puzzle Girls: Celia | 163913 | [163913-puzzle-girls-celia.json](./163913-puzzle-girls-celia.json) |
 | Puzzle Girls: Cheryl | 163548 | [163548-puzzle-girls-cheryl.json](./163548-puzzle-girls-cheryl.json) |
+| Puzzle Girls: Cute | 286399 | [286399-puzzle-girls-cute.json](./286399-puzzle-girls-cute.json) |
 | Puzzle Girls: Dark Temptation | 420662 | [420662-puzzle-girls-dark-temptation.json](./420662-puzzle-girls-dark-temptation.json) |
 | Puzzle Girls: Inner Flame | 410374 | [410374-puzzle-girls-inner-flame.json](./410374-puzzle-girls-inner-flame.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
