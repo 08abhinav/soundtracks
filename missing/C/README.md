@@ -3367,6 +3367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Huddled Together | 277839 | [277839-cats-huddled-together.json](./277839-cats-huddled-together.json) |
 | Cats in Boxes | 284796 | [284796-cats-in-boxes.json](./284796-cats-in-boxes.json) |
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
+| Cats in Heat: Convenience Coworkers | 260524 | [260524-cats-in-heat-convenience-coworkers.json](./260524-cats-in-heat-convenience-coworkers.json) |
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
@@ -4830,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chemical Existence | 222305 | [222305-chemical-existence.json](./222305-chemical-existence.json) |
 | Chemical Plant Raid | 335461 | [335461-chemical-plant-raid.json](./335461-chemical-plant-raid.json) |
 | Chemical Plant Worker Simulator | 364712 | [364712-chemical-plant-worker-simulator.json](./364712-chemical-plant-worker-simulator.json) |
+| Chemical Sort | 260538 | [260538-chemical-sort.json](./260538-chemical-sort.json) |
 | Chemically Bonded | 105131 | [105131-chemically-bonded.json](./105131-chemically-bonded.json) |
 | Chemist Tycoon | 66959 | [66959-chemist-tycoon.json](./66959-chemist-tycoon.json) |
 | Chemist Wanted | 311211 | [311211-chemist-wanted.json](./311211-chemist-wanted.json) |
@@ -8336,6 +8338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coding Day | 302094 | [302094-coding-day.json](./302094-coding-day.json) |
 | Coding With Doc | 372594 | [372594-coding-with-doc.json](./372594-coding-with-doc.json) |
 | CodStar | 316147 | [316147-codstar.json](./316147-codstar.json) |
+| Cody's Nightmare | 260526 | [260526-codys-nightmare.json](./260526-codys-nightmare.json) |
 | Cody's Nightmare Vacation | 310548 | [310548-codys-nightmare-vacation.json](./310548-codys-nightmare-vacation.json) |
 | CodyCross: Crossword Puzzles | 86994 | [86994-codycross-crossword-puzzles.json](./86994-codycross-crossword-puzzles.json) |
 | Coelhos Construtores | 290095 | [290095-coelhos-construtores.json](./290095-coelhos-construtores.json) |
@@ -12586,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Quest | 138166 | [138166-creature-quest.json](./138166-creature-quest.json) |
 | Creature Resort | 136985 | [136985-creature-resort.json](./136985-creature-resort.json) |
 | Creature Romances: Kokonoe Kokoro | 89726 | [89726-creature-romances-kokonoe-kokoro.json](./89726-creature-romances-kokonoe-kokoro.json) |
+| Creature Rumble | 260547 | [260547-creature-rumble.json](./260547-creature-rumble.json) |
 | Creature Venture | 24846 | [24846-creature-venture.json](./24846-creature-venture.json) |
 | Creaturemin | 313355 | [313355-creaturemin.json](./313355-creaturemin.json) |
 | Creatures | 11374 | [11374-creatures.json](./11374-creatures.json) |
@@ -14747,6 +14751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curving Over It with Evgeny Podoynikov | 173179 | [173179-curving-over-it-with-evgeny-podoynikov.json](./173179-curving-over-it-with-evgeny-podoynikov.json) |
 | Curvy | 7497 | [7497-curvy.json](./7497-curvy.json) |
 | Curzon Line | 125292 | [125292-curzon-line.json](./125292-curzon-line.json) |
+| Cush's Amazin' Adventure!! | 260532 | [260532-cushs-amazin-adventure.json](./260532-cushs-amazin-adventure.json) |
 | Custer's Revenge | 8529 | [8529-custers-revenge.json](./8529-custers-revenge.json) |
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
