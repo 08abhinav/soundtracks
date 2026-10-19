@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
+| Sand Land: Collector Edition | 283584 | [283584-sand-land-collector-edition.json](./283584-sand-land-collector-edition.json) |
 | Sand Land: Custom Vehicle Colors - 3 Types | 311735 | [311735-sand-land-custom-vehicle-colors-3-types.json](./311735-sand-land-custom-vehicle-colors-3-types.json) |
 | Sand Legends | 335078 | [335078-sand-legends.json](./335078-sand-legends.json) |
 | Sand Painting Game | 140301 | [140301-sand-painting-game.json](./140301-sand-painting-game.json) |
@@ -13320,6 +13321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
+| Sora to Muku no 6-ki | 283583 | [283583-sora-to-muku-no-6-ki.json](./283583-sora-to-muku-no-6-ki.json) |
 | Sora Tobu Henry | 231506 | [231506-sora-tobu-henry.json](./231506-sora-tobu-henry.json) |
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
@@ -16539,6 +16541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooples | 249806 | [249806-spooples.json](./249806-spooples.json) |
 | Spoopy Maryo | 318040 | [318040-spoopy-maryo.json](./318040-spoopy-maryo.json) |
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
+| Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
@@ -17804,6 +17807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Squadron: Student Driver | 149548 | [149548-star-squadron-student-driver.json](./149548-star-squadron-student-driver.json) |
 | Star Stable | 60338 | [60338-star-stable.json](./60338-star-stable.json) |
 | Star Stable: The Autumn Rider | 283667 | [283667-star-stable-the-autumn-rider.json](./283667-star-stable-the-autumn-rider.json) |
+| Star Stable: The Spring Rider | 283568 | [283568-star-stable-the-spring-rider.json](./283568-star-stable-the-spring-rider.json) |
 | Star Stable: The Summer Rider | 283675 | [283675-star-stable-the-summer-rider.json](./283675-star-stable-the-summer-rider.json) |
 | Star Stable: The Winter Rider | 283672 | [283672-star-stable-the-winter-rider.json](./283672-star-stable-the-winter-rider.json) |
 | Star Station Frontier | 379100 | [379100-star-station-frontier.json](./379100-star-station-frontier.json) |
@@ -19377,6 +19381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
 | Stellar Version 1.0 | 252671 | [252671-stellar-version-1-0.json](./252671-stellar-version-1-0.json) |
+| Stellar Wanderer DX | 283577 | [283577-stellar-wanderer-dx.json](./283577-stellar-wanderer-dx.json) |
 | Stellar War | 173260 | [173260-stellar-war.json](./173260-stellar-war.json) |
 | Stellar Warfare | 143701 | [143701-stellar-warfare.json](./143701-stellar-warfare.json) |
 | Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
