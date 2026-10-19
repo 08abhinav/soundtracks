@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Killed My Sister? | 122946 | [122946-who-killed-my-sister.json](./122946-who-killed-my-sister.json) |
 | Who Killed the Streamer? | 260645 | [260645-who-killed-the-streamer.json](./260645-who-killed-the-streamer.json) |
 | Who Knows Where They're Going | 184053 | [184053-who-knows-where-theyre-going.json](./184053-who-knows-where-theyre-going.json) |
+| Who Let the Frog Out | 275508 | [275508-who-let-the-frog-out.json](./275508-who-let-the-frog-out.json) |
 | Who Made This | 338369 | [338369-who-made-this.json](./338369-who-made-this.json) |
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
 | Who Murdered My Empress? | 291705 | [291705-who-murdered-my-empress.json](./291705-who-murdered-my-empress.json) |
@@ -6119,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Burning Crusade Classic - Anniversary Edition | 390778 | [390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json](./390778-world-of-warcraft-burning-crusade-classic-anniversary-edition.json) |
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
+| World of Warcraft: Dragonflight - Guardians of the Dream | 275472 | [275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json](./275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json) |
 | World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
 | World of Warcraft: Midnight - Curse of Ula'tek | 411703 | [411703-world-of-warcraft-midnight-curse-of-ulatek.json](./411703-world-of-warcraft-midnight-curse-of-ulatek.json) |
