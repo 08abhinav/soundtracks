@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Stormraiser Premium Edition | 218451 | [218451-century-age-of-ashes-stormraiser-premium-edition.json](./218451-century-age-of-ashes-stormraiser-premium-edition.json) |
 | Century: Age of Ashes - The Journeyer Edition | 218492 | [218492-century-age-of-ashes-the-journeyer-edition.json](./218492-century-age-of-ashes-the-journeyer-edition.json) |
 | Century: Age of Ashes - Thornweaver Premium Edition | 242475 | [242475-century-age-of-ashes-thornweaver-premium-edition.json](./242475-century-age-of-ashes-thornweaver-premium-edition.json) |
+| Century: Age of Ashes - Tribal Strife Edition | 288045 | [288045-century-age-of-ashes-tribal-strife-edition.json](./288045-century-age-of-ashes-tribal-strife-edition.json) |
 | Century: Age of Ashes - Valkurian Prelude Edition | 218491 | [218491-century-age-of-ashes-valkurian-prelude-edition.json](./218491-century-age-of-ashes-valkurian-prelude-edition.json) |
 | Century: Age of Ashes - Zealot Pack | 256409 | [256409-century-age-of-ashes-zealot-pack.json](./256409-century-age-of-ashes-zealot-pack.json) |
 | Century: Wishbringer Pack | 340566 | [340566-century-wishbringer-pack.json](./340566-century-wishbringer-pack.json) |
@@ -6271,6 +6272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Churchill Solitaire | 234547 | [234547-churchill-solitaire.json](./234547-churchill-solitaire.json) |
 | Churip | 316993 | [316993-churip.json](./316993-churip.json) |
 | Churrasco | 416099 | [416099-churrasco.json](./416099-churrasco.json) |
+| Churro Maniacs | 288077 | [288077-churro-maniacs.json](./288077-churro-maniacs.json) |
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
 | Chushpan Simulator | 356433 | [356433-chushpan-simulator.json](./356433-chushpan-simulator.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
@@ -13369,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader Kings III Content Creator Pack: West Slavic Attire | 352854 | [352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json](./352854-crusader-kings-iii-content-creator-pack-west-slavic-attire.json) |
 | Crusader Kings III: All Under Heaven | 352849 | [352849-crusader-kings-iii-all-under-heaven.json](./352849-crusader-kings-iii-all-under-heaven.json) |
 | Crusader Kings III: Chapter IV | 352850 | [352850-crusader-kings-iii-chapter-iv.json](./352850-crusader-kings-iii-chapter-iv.json) |
+| Crusader Kings III: Content Creator Pack - North African Attire | 288053 | [288053-crusader-kings-iii-content-creator-pack-north-african-attire.json](./288053-crusader-kings-iii-content-creator-pack-north-african-attire.json) |
 | Crusader Kings III: Coronations | 352851 | [352851-crusader-kings-iii-coronations.json](./352851-crusader-kings-iii-coronations.json) |
 | Crusader Kings III: Couture of the Capets | 291080 | [291080-crusader-kings-iii-couture-of-the-capets.json](./291080-crusader-kings-iii-couture-of-the-capets.json) |
 | Crusader Kings III: Crowns of the World | 352848 | [352848-crusader-kings-iii-crowns-of-the-world.json](./352848-crusader-kings-iii-crowns-of-the-world.json) |
