@@ -3322,6 +3322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rehab Friday: With Henry Huxley | 366625 | [366625-rehab-friday-with-henry-huxley.json](./366625-rehab-friday-with-henry-huxley.json) |
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
+| Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei and the Floating City | 390181 | [390181-rei-and-the-floating-city.json](./390181-rei-and-the-floating-city.json) |
 | Rei Fighter Gekitsui Senki | 4085 | [4085-rei-fighter-gekitsui-senki.json](./4085-rei-fighter-gekitsui-senki.json) |
@@ -5024,6 +5025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Witch: Beat Death | 319447 | [319447-rhythm-witch-beat-death.json](./319447-rhythm-witch-beat-death.json) |
 | Rhythm Zone | 51283 | [51283-rhythm-zone.json](./51283-rhythm-zone.json) |
 | RhythMania | 327047 | [327047-rhythmania.json](./327047-rhythmania.json) |
+| RhythMario 64.5: Crescendo of Cosmic Beast | 307365 | [307365-rhythmario-64-5-crescendo-of-cosmic-beast.json](./307365-rhythmario-64-5-crescendo-of-cosmic-beast.json) |
 | Rhythmcremental | 176462 | [176462-rhythmcremental.json](./176462-rhythmcremental.json) |
 | Rhythmetric | 364572 | [364572-rhythmetric.json](./364572-rhythmetric.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
