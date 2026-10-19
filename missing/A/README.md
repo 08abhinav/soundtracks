@@ -6824,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Graffiti: Anata he no Profile | 45440 | [45440-angel-graffiti-anata-he-no-profile.json](./45440-angel-graffiti-anata-he-no-profile.json) |
 | Angel Guardian | 312161 | [312161-angel-guardian.json](./312161-angel-guardian.json) |
+| Angel Hare's Learning Adventure | 277183 | [277183-angel-hares-learning-adventure.json](./277183-angel-hares-learning-adventure.json) |
 | Angel Hearts | 67342 | [67342-angel-hearts.json](./67342-angel-hearts.json) |
 | Angel Hua Yin | 339843 | [339843-angel-hua-yin.json](./339843-angel-hua-yin.json) |
 | Angel in Danger | 61072 | [61072-angel-in-danger.json](./61072-angel-in-danger.json) |
