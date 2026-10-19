@@ -4090,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Materialization of Memories | 248019 | [248019-materialization-of-memories.json](./248019-materialization-of-memories.json) |
 | MaternalBound Redux | 219084 | [219084-maternalbound-redux.json](./219084-maternalbound-redux.json) |
 | MaternalBound: An EarthBound & Mother 2 Bond! | 313344 | [313344-maternalbound-an-earthbound-and-mother-2-bond.json](./313344-maternalbound-an-earthbound-and-mother-2-bond.json) |
+| Matexo | 297285 | [297285-matexo.json](./297285-matexo.json) |
 | Math | 139972 | [139972-math.json](./139972-math.json) |
 | Math Ace Jr. | 209548 | [209548-math-ace-jr.json](./209548-math-ace-jr.json) |
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
@@ -6081,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaton Musashi W: Wired - Attire: Victor - Yukata | 302531 | [302531-megaton-musashi-w-wired-attire-victor-yukata.json](./302531-megaton-musashi-w-wired-attire-victor-yukata.json) |
 | Megaton Musashi W: Wired - Attire: Yamato - Student Uniform | 302536 | [302536-megaton-musashi-w-wired-attire-yamato-student-uniform.json](./302536-megaton-musashi-w-wired-attire-yamato-student-uniform.json) |
 | Megaton Musashi W: Wired - Attire: Yamato - Yukata | 302535 | [302535-megaton-musashi-w-wired-attire-yamato-yukata.json](./302535-megaton-musashi-w-wired-attire-yamato-yukata.json) |
+| Megaton Musashi W: Wired - Deluxe Edition | 297304 | [297304-megaton-musashi-w-wired-deluxe-edition.json](./297304-megaton-musashi-w-wired-deluxe-edition.json) |
 | Megaton Musashi W: Wired - Rogue: Arthur Riser - Dragon Green | 302514 | [302514-megaton-musashi-w-wired-rogue-arthur-riser-dragon-green.json](./302514-megaton-musashi-w-wired-rogue-arthur-riser-dragon-green.json) |
 | Megaton Musashi W: Wired - Rogue: Bloody Zelle | 302520 | [302520-megaton-musashi-w-wired-rogue-bloody-zelle.json](./302520-megaton-musashi-w-wired-rogue-bloody-zelle.json) |
 | Megaton Musashi W: Wired - Rogue: Brahms Knight - Night Black | 302524 | [302524-megaton-musashi-w-wired-rogue-brahms-knight-night-black.json](./302524-megaton-musashi-w-wired-rogue-brahms-knight-night-black.json) |
@@ -10466,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mob Control: Champions Edition | 286197 | [286197-mob-control-champions-edition.json](./286197-mob-control-champions-edition.json) |
 | Mob Control: Complete Edition | 283169 | [283169-mob-control-complete-edition.json](./283169-mob-control-complete-edition.json) |
 | Mob Control: Triple Backup | 277899 | [277899-mob-control-triple-backup.json](./277899-mob-control-triple-backup.json) |
+| Mob Control: Triple Backup Edition | 297305 | [297305-mob-control-triple-backup-edition.json](./297305-mob-control-triple-backup-edition.json) |
 | Mob Drop Castle | 406078 | [406078-mob-drop-castle.json](./406078-mob-drop-castle.json) |
 | Mob Enforcer | 78380 | [78380-mob-enforcer.json](./78380-mob-enforcer.json) |
 | Mob Hunter | 200493 | [200493-mob-hunter.json](./200493-mob-hunter.json) |
@@ -12486,6 +12489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Glory 2 + DLC | 356824 | [356824-mortal-glory-2-dlc.json](./356824-mortal-glory-2-dlc.json) |
 | Mortal Glory 2: Reign of Tyrants | 311996 | [311996-mortal-glory-2-reign-of-tyrants.json](./311996-mortal-glory-2-reign-of-tyrants.json) |
 | Mortal Hire | 295006 | [295006-mortal-hire.json](./295006-mortal-hire.json) |
+| Mortal Holdings | 297370 | [297370-mortal-holdings.json](./297370-mortal-holdings.json) |
 | Mortal Kombat | 198828 | [198828-mortal-kombat.json](./198828-mortal-kombat.json) |
 | Mortal Kombat | 220096 | [220096-mortal-kombat.json](./220096-mortal-kombat.json) |
 | Mortal Kombat | 239168 | [239168-mortal-kombat.json](./239168-mortal-kombat.json) |
