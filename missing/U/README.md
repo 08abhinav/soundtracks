@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate salmon simulator 2019 | 183312 | [183312-ultimate-salmon-simulator-2019.json](./183312-ultimate-salmon-simulator-2019.json) |
 | Ultimate Savanna Simulator | 86690 | [86690-ultimate-savanna-simulator.json](./86690-ultimate-savanna-simulator.json) |
 | Ultimate Sci-Fi Series | 71994 | [71994-ultimate-sci-fi-series.json](./71994-ultimate-sci-fi-series.json) |
+| Ultimate Scroll | 272716 | [272716-ultimate-scroll.json](./272716-ultimate-scroll.json) |
 | Ultimate Sheep Raccoon | 325276 | [325276-ultimate-sheep-raccoon.json](./325276-ultimate-sheep-raccoon.json) |
 | Ultimate Shooting Collection | 5253 | [5253-ultimate-shooting-collection.json](./5253-ultimate-shooting-collection.json) |
 | Ultimate Shot: 3D Real Strike Shouter Counter | 247489 | [247489-ultimate-shot-3d-real-strike-shouter-counter.json](./247489-ultimate-shot-3d-real-strike-shouter-counter.json) |
@@ -1106,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle Kenny: The Game | 241264 | [241264-uncle-kenny-the-game.json](./241264-uncle-kenny-the-game.json) |
 | Uncle Lee’s Cookbook: Five Recipes for Disaster | 373161 | [373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json](./373161-uncle-lee-s-cookbook-five-recipes-for-disaster.json) |
 | Uncle Neighbor | 126415 | [126415-uncle-neighbor.json](./126415-uncle-neighbor.json) |
+| Uncle Nook's Survivors | 272717 | [272717-uncle-nooks-survivors.json](./272717-uncle-nooks-survivors.json) |
 | Uncle Office: Uncle Dating Simulator | 174089 | [174089-uncle-office-uncle-dating-simulator.json](./174089-uncle-office-uncle-dating-simulator.json) |
 | Uncle Poo | 69364 | [69364-uncle-poo.json](./69364-uncle-poo.json) |
 | Uncle Sam's Supermarket Simulator | 361045 | [361045-uncle-sams-supermarket-simulator.json](./361045-uncle-sams-supermarket-simulator.json) |
