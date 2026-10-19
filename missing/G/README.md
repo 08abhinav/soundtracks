@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Words | 105838 | [105838-garden-of-words.json](./105838-garden-of-words.json) |
 | Garden Paradise | 305937 | [305937-garden-paradise.json](./305937-garden-paradise.json) |
 | Garden Party Shop | 359399 | [359399-garden-party-shop.json](./359399-garden-party-shop.json) |
+| Garden Patrol | 299515 | [299515-garden-patrol.json](./299515-garden-patrol.json) |
 | Garden Paws | 105443 | [105443-garden-paws.json](./105443-garden-paws.json) |
 | Garden Pets | 233615 | [233615-garden-pets.json](./233615-garden-pets.json) |
 | Garden Renovator | 224606 | [224606-garden-renovator.json](./224606-garden-renovator.json) |
@@ -1978,6 +1979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemVenture | 228638 | [228638-gemventure.json](./228638-gemventure.json) |
 | Gemwielders | 325245 | [325245-gemwielders.json](./325245-gemwielders.json) |
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
+| Gemz | 299501 | [299501-gemz.json](./299501-gemz.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Gen-Abyss | 351557 | [351557-gen-abyss.json](./351557-gen-abyss.json) |
@@ -6779,6 +6781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim-World: Survival | 253447 | [253447-grim-world-survival.json](./253447-grim-world-survival.json) |
 | Grim: Mystery of Wasules | 82719 | [82719-grim-mystery-of-wasules.json](./82719-grim-mystery-of-wasules.json) |
 | Grim's Gambit | 280936 | [280936-grims-gambit.json](./280936-grims-gambit.json) |
+| Grim's Princess | 299602 | [299602-grims-princess.json](./299602-grims-princess.json) |
 | Grimace Run | 192796 | [192796-grimace-run.json](./192796-grimace-run.json) |
 | Grimace's Birthday | 369340 | [369340-grimaces-birthday.json](./369340-grimaces-birthday.json) |
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
