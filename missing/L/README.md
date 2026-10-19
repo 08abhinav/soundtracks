@@ -813,6 +813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
 | LaserReimu | 324302 | [324302-laserreimu.json](./324302-laserreimu.json) |
+| Lasers | 276638 | [276638-lasers.json](./276638-lasers.json) |
 | LaserShotz | 159890 | [159890-lasershotz.json](./159890-lasershotz.json) |
 | Laserstorm | 336689 | [336689-laserstorm.json](./336689-laserstorm.json) |
 | Lasertag | 397898 | [397898-lasertag.json](./397898-lasertag.json) |
@@ -902,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
 | Last Dolls | 382318 | [382318-last-dolls.json](./382318-last-dolls.json) |
 | Last Draft | 401161 | [401161-last-draft.json](./401161-last-draft.json) |
+| Last Dream Fishing Arcade | 276639 | [276639-last-dream-fishing-arcade.json](./276639-last-dream-fishing-arcade.json) |
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
@@ -3611,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
 | LightQuest | 180123 | [180123-lightquest.json](./180123-lightquest.json) |
+| Lightracer Spark: Stars Will | 276640 | [276640-lightracer-spark-stars-will.json](./276640-lightracer-spark-stars-will.json) |
 | Lightracer: For Judge | 309845 | [309845-lightracer-for-judge.json](./309845-lightracer-for-judge.json) |
 | LightRay | 349403 | [349403-lightray.json](./349403-lightray.json) |
 | LightRay: Wayfinder | 393940 | [393940-lightray-wayfinder.json](./393940-lightray-wayfinder.json) |
@@ -5700,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
 | Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
+| Lords of Nysera | 276633 | [276633-lords-of-nysera.json](./276633-lords-of-nysera.json) |
 | Lords of Ravage | 204714 | [204714-lords-of-ravage.json](./204714-lords-of-ravage.json) |
 | Lords of Solgrund | 190090 | [190090-lords-of-solgrund.json](./190090-lords-of-solgrund.json) |
 | Lords of Solitaire | 174194 | [174194-lords-of-solitaire.json](./174194-lords-of-solitaire.json) |
