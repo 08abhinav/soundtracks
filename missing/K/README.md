@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles Generation | 330526 | [330526-knuckles-generation.json](./330526-knuckles-generation.json) |
 | Knuckles Minehunt | 326839 | [326839-knuckles-minehunt.json](./326839-knuckles-minehunt.json) |
 | Knuckles the Echidna in Sonic the Hedgehog | 129185 | [129185-knuckles-the-echidna-in-sonic-the-hedgehog.json](./129185-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
+| Knuckles the Echidna in Sonic the Hedgehog | 264457 | [264457-knuckles-the-echidna-in-sonic-the-hedgehog.json](./264457-knuckles-the-echidna-in-sonic-the-hedgehog.json) |
 | Knuckles Treasure Hunt | 325852 | [325852-knuckles-treasure-hunt.json](./325852-knuckles-treasure-hunt.json) |
 | Knuckles' Emerald Hunt | 129184 | [129184-knuckles-emerald-hunt.json](./129184-knuckles-emerald-hunt.json) |
 | Knuckles' Emerald Hunt Mania | 333422 | [333422-knuckles-emerald-hunt-mania.json](./333422-knuckles-emerald-hunt-mania.json) |
