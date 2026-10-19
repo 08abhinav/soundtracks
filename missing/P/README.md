@@ -5558,6 +5558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Kings | 98927 | [98927-pirate-kings.json](./98927-pirate-kings.json) |
 | Pirate Legends TD | 62992 | [62992-pirate-legends-td.json](./62992-pirate-legends-td.json) |
 | Pirate Life | 395538 | [395538-pirate-life.json](./395538-pirate-life.json) |
+| Pirate Lords of Love | 298921 | [298921-pirate-lords-of-love.json](./298921-pirate-lords-of-love.json) |
 | Pirate Mosaic Puzzle: Caribbean Treasures | 97144 | [97144-pirate-mosaic-puzzle-caribbean-treasures.json](./97144-pirate-mosaic-puzzle-caribbean-treasures.json) |
 | Pirate of Madagascar Island | 158600 | [158600-pirate-of-madagascar-island.json](./158600-pirate-of-madagascar-island.json) |
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
@@ -12303,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
 | Psychic Storm | 37618 | [37618-psychic-storm.json](./37618-psychic-storm.json) |
+| Psychic Supernatural Boyfriend | 298925 | [298925-psychic-supernatural-boyfriend.json](./298925-psychic-supernatural-boyfriend.json) |
 | Psychic Ward: Kill The Seven King Dragon | 370283 | [370283-psychic-ward-kill-the-seven-king-dragon.json](./370283-psychic-ward-kill-the-seven-king-dragon.json) |
 | Psychical Madness | 54339 | [54339-psychical-madness.json](./54339-psychical-madness.json) |
 | Psycho | 179574 | [179574-psycho.json](./179574-psycho.json) |
@@ -12627,6 +12629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
 | Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
+| Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
 | Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
