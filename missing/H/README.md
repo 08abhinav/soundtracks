@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster, Eat, Run | 406668 | [406668-hamster-eat-run.json](./406668-hamster-eat-run.json) |
 | Hamsterball | 45288 | [45288-hamsterball.json](./45288-hamsterball.json) |
 | Hamsterball | 70100 | [70100-hamsterball.json](./70100-hamsterball.json) |
+| HamsterBall Soccer | 256116 | [256116-hamsterball-soccer.json](./256116-hamsterball-soccer.json) |
 | HamsterCraft | 391567 | [391567-hamstercraft.json](./391567-hamstercraft.json) |
 | Hamsteria! | 390684 | [390684-hamsteria.json](./390684-hamsteria.json) |
 | Hamstermind | 335227 | [335227-hamstermind.json](./335227-hamstermind.json) |
