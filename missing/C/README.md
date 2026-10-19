@@ -9656,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conflict 2500 | 24805 | [24805-conflict-2500.json](./24805-conflict-2500.json) |
 | Conflict 3048 | 193406 | [193406-conflict-3048.json](./193406-conflict-3048.json) |
 | Conflict Area | 164953 | [164953-conflict-area.json](./164953-conflict-area.json) |
+| Conflict FPS | 306208 | [306208-conflict-fps.json](./306208-conflict-fps.json) |
 | Conflict of the Universe | 157049 | [157049-conflict-of-the-universe.json](./157049-conflict-of-the-universe.json) |
 | Conflict Resolution | 342747 | [342747-conflict-resolution.json](./342747-conflict-resolution.json) |
 | Conflict: Denied Ops | 5634 | [5634-conflict-denied-ops.json](./5634-conflict-denied-ops.json) |
