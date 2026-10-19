@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat: Assault Horizon Legacy | 6745 | [6745-ace-combat-assault-horizon-legacy.json](./6745-ace-combat-assault-horizon-legacy.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
 | Ace Duswell: Where's the Ace? | 58067 | [58067-ace-duswell-wheres-the-ace.json](./58067-ace-duswell-wheres-the-ace.json) |
+| Ace Fishing: Crew | 257790 | [257790-ace-fishing-crew.json](./257790-ace-fishing-crew.json) |
 | Ace Force | 121736 | [121736-ace-force.json](./121736-ace-force.json) |
 | Ace Gals Tennis | 61059 | [61059-ace-gals-tennis.json](./61059-ace-gals-tennis.json) |
 | Ace Gambler: Phoenix Wright | 302644 | [302644-ace-gambler-phoenix-wright.json](./302644-ace-gambler-phoenix-wright.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemystic | 386439 | [386439-alchemystic.json](./386439-alchemystic.json) |
 | AlchePot | 283884 | [283884-alchepot.json](./283884-alchepot.json) |
 | Alchera | 189141 | [189141-alchera.json](./189141-alchera.json) |
+| Alchimia | 257781 | [257781-alchimia.json](./257781-alchimia.json) |
 | Alchimist: Secret of the Worlds | 379447 | [379447-alchimist-secret-of-the-worlds.json](./379447-alchimist-secret-of-the-worlds.json) |
 | AlcoFox | 243628 | [243628-alcofox.json](./243628-alcofox.json) |
 | Alcohol Empire | 199097 | [199097-alcohol-empire.json](./199097-alcohol-empire.json) |
@@ -4634,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Hitchcock’s Psycho Adventure Game | 320240 | [320240-alfred-hitchcock-s-psycho-adventure-game.json](./320240-alfred-hitchcock-s-psycho-adventure-game.json) |
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
+| Alfredo's Sneaky Meal | 257814 | [257814-alfredos-sneaky-meal.json](./257814-alfredos-sneaky-meal.json) |
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
 | Algae | 106601 | [106601-algae.json](./106601-algae.json) |
 | Alganon | 35736 | [35736-alganon.json](./35736-alganon.json) |
