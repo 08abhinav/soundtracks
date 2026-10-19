@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weedcraft Inc + Bio Inc. Redemption: Medical Herbs Bundle | 292619 | [292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json](./292619-weedcraft-inc-bio-inc-redemption-medical-herbs-bundle.json) |
 | Weedcraft Inc + Crossroads Inn: Weed and Greet Bundle | 288861 | [288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json](./288861-weedcraft-inc-crossroads-inn-weed-and-greet-bundle.json) |
 | Weedcraft Inc + Ruinarch: Devil Lettuce Bundle | 288858 | [288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json](./288858-weedcraft-inc-ruinarch-devil-lettuce-bundle.json) |
+| Weedcraft Inc + Terraformers: Aim High Bundle | 272181 | [272181-weedcraft-inc-terraformers-aim-high-bundle.json](./272181-weedcraft-inc-terraformers-aim-high-bundle.json) |
 | Weeds Social Club | 55013 | [55013-weeds-social-club.json](./55013-weeds-social-club.json) |
 | Weefager | 282216 | [282216-weefager.json](./282216-weefager.json) |
 | Weegee May Cry | 323998 | [323998-weegee-may-cry.json](./323998-weegee-may-cry.json) |
