@@ -4474,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind the Horizon: The Desert | 195239 | [195239-behind-the-horizon-the-desert.json](./195239-behind-the-horizon-the-desert.json) |
 | Behind the Hydra's Eyes | 374585 | [374585-behind-the-hydras-eyes.json](./374585-behind-the-hydras-eyes.json) |
 | Behind the Iron Gate | 14294 | [14294-behind-the-iron-gate.json](./14294-behind-the-iron-gate.json) |
+| Behind the Kingdom | 297850 | [297850-behind-the-kingdom.json](./297850-behind-the-kingdom.json) |
 | Behind the Kurten | 176746 | [176746-behind-the-kurten.json](./176746-behind-the-kurten.json) |
 | Behind the Light: The Extraordinary Life of Luca Comerio | 387134 | [387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json](./387134-behind-the-light-the-extraordinary-life-of-luca-comerio.json) |
 | Behind the Masc | 176930 | [176930-behind-the-masc.json](./176930-behind-the-masc.json) |
@@ -8286,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwash | 170938 | [170938-bloodwash.json](./170938-bloodwash.json) |
 | Bloodwatch | 211121 | [211121-bloodwatch.json](./211121-bloodwatch.json) |
 | Bloodwings: Pumpkinhead's Revenge | 67291 | [67291-bloodwings-pumpkinheads-revenge.json](./67291-bloodwings-pumpkinheads-revenge.json) |
+| Bloodwood Dungeon | 297847 | [297847-bloodwood-dungeon.json](./297847-bloodwood-dungeon.json) |
 | Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
 | Bloodwright | 404167 | [404167-bloodwright.json](./404167-bloodwright.json) |
