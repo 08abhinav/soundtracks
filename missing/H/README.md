@@ -7151,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook: Complete Edition | 340742 | [340742-hook-complete-edition.json](./340742-hook-complete-edition.json) |
 | Hookbots | 112138 | [112138-hookbots.json](./112138-hookbots.json) |
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
+| Hooked | 265485 | [265485-hooked.json](./265485-hooked.json) |
 | Hooked | 405653 | [405653-hooked.json](./405653-hooked.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
