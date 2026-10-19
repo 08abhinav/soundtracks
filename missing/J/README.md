@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jotun: Valhalla Edition | 14147 | [14147-jotun-valhalla-edition.json](./14147-jotun-valhalla-edition.json) |
 | Jotun: Valhalla Edition | 18149 | [18149-jotun-valhalla-edition.json](./18149-jotun-valhalla-edition.json) |
 | Jotunn: Day of Judgement | 223069 | [223069-jotunn-day-of-judgement.json](./223069-jotunn-day-of-judgement.json) |
+| Jötunn's Greed | 298384 | [298384-jotunns-greed.json](./298384-jotunns-greed.json) |
 | Jötunnslayer: Hordes of Hel - Collector's Edition | 401782 | [401782-jotunnslayer-hordes-of-hel-collectors-edition.json](./401782-jotunnslayer-hordes-of-hel-collectors-edition.json) |
 | Jotunnslayer: Hordes of Hel - Conan | 399154 | [399154-jotunnslayer-hordes-of-hel-conan.json](./399154-jotunnslayer-hordes-of-hel-conan.json) |
 | Jötunnslayer: Hordes of Hel - Conan Edition | 403600 | [403600-jotunnslayer-hordes-of-hel-conan-edition.json](./403600-jotunnslayer-hordes-of-hel-conan-edition.json) |
