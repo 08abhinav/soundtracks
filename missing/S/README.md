@@ -12727,6 +12727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Definitive | 370216 | [370216-sonic-definitive.json](./370216-sonic-definitive.json) |
 | Sonic Destiny | 331715 | [331715-sonic-destiny.json](./331715-sonic-destiny.json) |
 | Sonic Digitalized | 326152 | [326152-sonic-digitalized.json](./326152-sonic-digitalized.json) |
+| Sonic Dimensional Funkin' | 271066 | [271066-sonic-dimensional-funkin.json](./271066-sonic-dimensional-funkin.json) |
 | Sonic Dimensions | 194893 | [194893-sonic-dimensions.json](./194893-sonic-dimensions.json) |
 | Sonic Discovery | 321063 | [321063-sonic-discovery.json](./321063-sonic-discovery.json) |
 | Sonic Discovery | 321064 | [321064-sonic-discovery.json](./321064-sonic-discovery.json) |
