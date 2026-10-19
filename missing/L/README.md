@@ -6548,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love You More | 361862 | [361862-love-you-more.json](./361862-love-you-more.json) |
 | Love You till the End | 280320 | [280320-love-you-till-the-end.json](./280320-love-you-till-the-end.json) |
 | Love You to Pieces | 392914 | [392914-love-you-to-pieces.json](./392914-love-you-to-pieces.json) |
+| Love Yourself | 268343 | [268343-love-yourself.json](./268343-love-yourself.json) |
 | Love-Colored Memories | 412974 | [412974-love-colored-memories.json](./412974-love-colored-memories.json) |
 | Love, Death & Mummies: Zombie Romance Visual Novel | 303322 | [303322-love-death-and-mummies-zombie-romance-visual-novel.json](./303322-love-death-and-mummies-zombie-romance-visual-novel.json) |
 | Love, Election & Chocolate | 79167 | [79167-love-election-and-chocolate.json](./79167-love-election-and-chocolate.json) |
