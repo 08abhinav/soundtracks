@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
 | Unknown Space | 401892 | [401892-unknown-space.json](./401892-unknown-space.json) |
 | Unknown Surge | 129047 | [129047-unknown-surge.json](./129047-unknown-surge.json) |
+| Unknown Tank Game | 286948 | [286948-unknown-tank-game.json](./286948-unknown-tank-game.json) |
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
 | Unknown: Raven Field | 344904 | [344904-unknown-raven-field.json](./344904-unknown-raven-field.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up and Up | 102973 | [102973-up-and-up.json](./102973-up-and-up.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
+| Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
 | Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
 | Up on the Rooftop | 130235 | [130235-up-on-the-rooftop.json](./130235-up-on-the-rooftop.json) |
