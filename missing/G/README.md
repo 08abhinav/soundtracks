@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Guy Card | 158535 | [158535-good-guy-card.json](./158535-good-guy-card.json) |
+| Good Guys | 289183 | [289183-good-guys.json](./289183-good-guys.json) |
 | Good Heavens! | 204463 | [204463-good-heavens.json](./204463-good-heavens.json) |
 | Good Hell | 215356 | [215356-good-hell.json](./215356-good-hell.json) |
 | Good Idea! | 301962 | [301962-good-idea.json](./301962-good-idea.json) |
@@ -6395,6 +6396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed of Man | 242106 | [242106-greed-of-man.json](./242106-greed-of-man.json) |
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
+| Greed Series | 289186 | [289186-greed-series.json](./289186-greed-series.json) |
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
