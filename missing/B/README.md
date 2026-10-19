@@ -4984,6 +4984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
 | Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
+| Bet Your Brain | 292456 | [292456-bet-your-brain.json](./292456-bet-your-brain.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
 | Beta Collexion | 80128 | [80128-beta-collexion.json](./80128-beta-collexion.json) |
 | Beta Decay | 250957 | [250957-beta-decay.json](./250957-beta-decay.json) |
@@ -5977,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
+| BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
 | BioEden | 404905 | [404905-bioeden.json](./404905-bioeden.json) |
 | BioEntity | 82328 | [82328-bioentity.json](./82328-bioentity.json) |
@@ -9030,6 +9032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
 | Boki: The Summit | 271913 | [271913-boki-the-summit.json](./271913-boki-the-summit.json) |
 | Bokida: Heartfelt Reunion | 28189 | [28189-bokida-heartfelt-reunion.json](./28189-bokida-heartfelt-reunion.json) |
+| Bokkie | 292360 | [292360-bokkie.json](./292360-bokkie.json) |
 | Bokosuka Girls: Tatsunoko Gakuen Climax | 60980 | [60980-bokosuka-girls-tatsunoko-gakuen-climax.json](./60980-bokosuka-girls-tatsunoko-gakuen-climax.json) |
 | Bokosuka Wars | 280818 | [280818-bokosuka-wars.json](./280818-bokosuka-wars.json) |
 | Bokosuka Wars | 48540 | [48540-bokosuka-wars.json](./48540-bokosuka-wars.json) |
@@ -11210,6 +11213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
+| Breathless: Will you Understand Me? | 292459 | [292459-breathless-will-you-understand-me.json](./292459-breathless-will-you-understand-me.json) |
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
