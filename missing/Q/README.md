@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qloister | 381928 | [381928-qloister.json](./381928-qloister.json) |
 | Qlorb 2 | 88241 | [88241-qlorb-2.json](./88241-qlorb-2.json) |
 | Qlrz | 134514 | [134514-qlrz.json](./134514-qlrz.json) |
+| QMC: Puritan | 272127 | [272127-qmc-puritan.json](./272127-qmc-puritan.json) |
 | Qomp | 142475 | [142475-qomp.json](./142475-qomp.json) |
 | Qomp2 | 263923 | [263923-qomp2.json](./263923-qomp2.json) |
 | Qop | 91315 | [91315-qop.json](./91315-qop.json) |
@@ -393,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum of Soul | 247994 | [247994-quantum-of-soul.json](./247994-quantum-of-soul.json) |
 | Quantum Paradox | 153338 | [153338-quantum-paradox.json](./153338-quantum-paradox.json) |
 | Quantum Phantom Basketball | 252766 | [252766-quantum-phantom-basketball.json](./252766-quantum-phantom-basketball.json) |
+| Quantum Physics | 272137 | [272137-quantum-physics.json](./272137-quantum-physics.json) |
 | Quantum Project | 148279 | [148279-quantum-project.json](./148279-quantum-project.json) |
 | Quantum Protocol | 137906 | [137906-quantum-protocol.json](./137906-quantum-protocol.json) |
 | Quantum Qitty | 180799 | [180799-quantum-qitty.json](./180799-quantum-qitty.json) |
