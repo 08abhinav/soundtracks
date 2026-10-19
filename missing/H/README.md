@@ -8465,6 +8465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo 2 in 1 | 94142 | [94142-hugo-2-in-1.json](./94142-hugo-2-in-1.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
+| Hugo Hound's Vowel Sounds | 285866 | [285866-hugo-hounds-vowel-sounds.json](./285866-hugo-hounds-vowel-sounds.json) |
 | Hugo II, Whodunit? | 8882 | [8882-hugo-ii-whodunit.json](./8882-hugo-ii-whodunit.json) |
 | Hugo III, Jungle of Doom! | 8883 | [8883-hugo-iii-jungle-of-doom.json](./8883-hugo-iii-jungle-of-doom.json) |
 | Hugo in Space | 78983 | [78983-hugo-in-space.json](./78983-hugo-in-space.json) |
