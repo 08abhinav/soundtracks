@@ -980,6 +980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Iceblade of Narin | 419360 | [419360-warframe-iceblade-of-narin.json](./419360-warframe-iceblade-of-narin.json) |
 | Warframe: Initiate Power Pack | 374143 | [374143-warframe-initiate-power-pack.json](./374143-warframe-initiate-power-pack.json) |
 | Warframe: Isleweaver | 421816 | [421816-warframe-isleweaver.json](./421816-warframe-isleweaver.json) |
+| Warframe: Jade Shadows | 306772 | [306772-warframe-jade-shadows.json](./306772-warframe-jade-shadows.json) |
 | Warframe: Koumei & the Five Fates | 421814 | [421814-warframe-koumei-and-the-five-fates.json](./421814-warframe-koumei-and-the-five-fates.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
 | Warframe: Oraxia Bundle | 373871 | [373871-warframe-oraxia-bundle.json](./373871-warframe-oraxia-bundle.json) |
@@ -3010,6 +3011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Are You, Diamond | 334185 | [334185-where-are-you-diamond.json](./334185-where-are-you-diamond.json) |
 | Where are You? | 292067 | [292067-where-are-you.json](./292067-where-are-you.json) |
 | Where Are You? | 373818 | [373818-where-are-you.json](./373818-where-are-you.json) |
+| Where Birds | 306782 | [306782-where-birds.json](./306782-where-birds.json) |
 | Where Birds Sleep | 136451 | [136451-where-birds-sleep.json](./136451-where-birds-sleep.json) |
 | Where Cards Fall | 27271 | [27271-where-cards-fall.json](./27271-where-cards-fall.json) |
 | Where Cats? | 275815 | [275815-where-cats.json](./275815-where-cats.json) |
@@ -3019,6 +3021,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Do I Fit? | 177489 | [177489-where-do-i-fit.json](./177489-where-do-i-fit.json) |
 | Where Dragon Spirits | 295485 | [295485-where-dragon-spirits.json](./295485-where-dragon-spirits.json) |
 | Where Ferrets | 282228 | [282228-where-ferrets.json](./282228-where-ferrets.json) |
+| Where Foxes | 306781 | [306781-where-foxes.json](./306781-where-foxes.json) |
+| Where Ghost Cats | 306783 | [306783-where-ghost-cats.json](./306783-where-ghost-cats.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
 | Where Have All the Globbletops Gone? | 298425 | [298425-where-have-all-the-globbletops-gone.json](./298425-where-have-all-the-globbletops-gone.json) |
 | Where I Lived | 224463 | [224463-where-i-lived.json](./224463-where-i-lived.json) |
@@ -3081,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where It All Began | 198361 | [198361-where-it-all-began.json](./198361-where-it-all-began.json) |
 | Where Jellyfish | 279091 | [279091-where-jellyfish.json](./279091-where-jellyfish.json) |
 | Where Jellyfish: +450 | 282226 | [282226-where-jellyfish-450.json](./282226-where-jellyfish-450.json) |
+| Where Kiwis | 306780 | [306780-where-kiwis.json](./306780-where-kiwis.json) |
 | Where Moss Grows | 397060 | [397060-where-moss-grows.json](./397060-where-moss-grows.json) |
 | Where Noble Plans Lie | 334015 | [334015-where-noble-plans-lie.json](./334015-where-noble-plans-lie.json) |
 | Where Rabbits | 279089 | [279089-where-rabbits.json](./279089-where-rabbits.json) |
@@ -5216,6 +5221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Trips | 239143 | [239143-wonder-trips.json](./239143-wonder-trips.json) |
 | Wonder Wand | 304016 | [304016-wonder-wand.json](./304016-wonder-wand.json) |
 | Wonder Wandelier | 263986 | [263986-wonder-wandelier.json](./263986-wonder-wandelier.json) |
+| Wonder Wander | 306762 | [306762-wonder-wander.json](./306762-wonder-wander.json) |
 | Wonder Warp | 374388 | [374388-wonder-warp.json](./374388-wonder-warp.json) |
 | Wonder Wars | 252180 | [252180-wonder-wars.json](./252180-wonder-wars.json) |
 | Wonder Wheel | 233046 | [233046-wonder-wheel.json](./233046-wonder-wheel.json) |
