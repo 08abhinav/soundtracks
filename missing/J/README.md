@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
+| Jack & the Beanstalk | 284214 | [284214-jack-and-the-beanstalk.json](./284214-jack-and-the-beanstalk.json) |
 | Jack & the Creepy Castle | 68923 | [68923-jack-and-the-creepy-castle.json](./68923-jack-and-the-creepy-castle.json) |
 | Jack & The Diamonds | 115457 | [115457-jack-and-the-diamonds.json](./115457-jack-and-the-diamonds.json) |
 | Jack and Sara: Educational game | 96646 | [96646-jack-and-sara-educational-game.json](./96646-jack-and-sara-educational-game.json) |
