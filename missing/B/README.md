@@ -1555,6 +1555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banished Stone | 290859 | [290859-banished-stone.json](./290859-banished-stone.json) |
 | Banisher | 346243 | [346243-banisher.json](./346243-banisher.json) |
 | Banishers: Ghosts of New Eden | 228539 | [228539-banishers-ghosts-of-new-eden.json](./228539-banishers-ghosts-of-new-eden.json) |
+| Banishers: Ghosts of New Eden - Red Echoes Edition | 264481 | [264481-banishers-ghosts-of-new-eden-red-echoes-edition.json](./264481-banishers-ghosts-of-new-eden-red-echoes-edition.json) |
 | Banishers: Ghosts of New Eden - Wanderer Set DLC | 312879 | [312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json](./312879-banishers-ghosts-of-new-eden-wanderer-set-dlc.json) |
 | Banishers: Ghosts of New Eden – Collector’s Edition | 252615 | [252615-banishers-ghosts-of-new-eden-collector-s-edition.json](./252615-banishers-ghosts-of-new-eden-collector-s-edition.json) |
 | Banishing Racer | 7763 | [7763-banishing-racer.json](./7763-banishing-racer.json) |
@@ -7054,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Chaos | 361454 | [361454-blade-of-chaos.json](./361454-blade-of-chaos.json) |
 | Blade of Chaos: Immortal Titan | 224093 | [224093-blade-of-chaos-immortal-titan.json](./224093-blade-of-chaos-immortal-titan.json) |
 | Blade of Darkness | 234658 | [234658-blade-of-darkness.json](./234658-blade-of-darkness.json) |
+| Blade of Darkness | 264484 | [264484-blade-of-darkness.json](./264484-blade-of-darkness.json) |
 | Blade of Dawn | 322361 | [322361-blade-of-dawn.json](./322361-blade-of-dawn.json) |
 | Blade of Following | 181778 | [181778-blade-of-following.json](./181778-blade-of-following.json) |
 | Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
@@ -9862,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 3: Super Deluxe Edition | 116996 | [116996-borderlands-3-super-deluxe-edition.json](./116996-borderlands-3-super-deluxe-edition.json) |
 | Borderlands 4: Bounty Pack 1 - How Rush Saved Mercenary Day | 398014 | [398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json](./398014-borderlands-4-bounty-pack-1-how-rush-saved-mercenary-day.json) |
 | Borderlands 4: Story Pack 2 - FL4K and the Last Resort | 417666 | [417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json](./417666-borderlands-4-story-pack-2-fl4k-and-the-last-resort.json) |
+| Borderlands Collection: Pandora's Box | 264479 | [264479-borderlands-collection-pandoras-box.json](./264479-borderlands-collection-pandoras-box.json) |
 | Borderlands Double Deluxe Collection | 136725 | [136725-borderlands-double-deluxe-collection.json](./136725-borderlands-double-deluxe-collection.json) |
 | Borderlands Double Game Add-On Pack | 147224 | [147224-borderlands-double-game-add-on-pack.json](./147224-borderlands-double-game-add-on-pack.json) |
 | Borderlands Legends | 64415 | [64415-borderlands-legends.json](./64415-borderlands-legends.json) |
