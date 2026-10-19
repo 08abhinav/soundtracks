@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ICP: The Gathering | 105537 | [105537-icp-the-gathering.json](./105537-icp-the-gathering.json) |
 | Icup | 369333 | [369333-icup.json](./369333-icup.json) |
 | Icy Cave | 409242 | [409242-icy-cave.json](./409242-icy-cave.json) |
+| Icy Dungeon | 294515 | [294515-icy-dungeon.json](./294515-icy-dungeon.json) |
 | Icy Fishes | 286643 | [286643-icy-fishes.json](./286643-icy-fishes.json) |
 | Icy Gifts | 342232 | [342232-icy-gifts.json](./342232-icy-gifts.json) |
 | Icy Incline | 296919 | [296919-icy-incline.json](./296919-icy-incline.json) |
