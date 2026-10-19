@@ -1590,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid of the Dead | 284495 | [284495-maid-of-the-dead.json](./284495-maid-of-the-dead.json) |
 | Maid of Venia | 374803 | [374803-maid-of-venia.json](./374803-maid-of-venia.json) |
 | Maid PizzaHub | 201252 | [201252-maid-pizzahub.json](./201252-maid-pizzahub.json) |
+| Maid Sisters' Service | 271594 | [271594-maid-sisters-service.json](./271594-maid-sisters-service.json) |
 | Maid Slaves & Golden Dungeon | 260328 | [260328-maid-slaves-and-golden-dungeon.json](./260328-maid-slaves-and-golden-dungeon.json) |
 | Maid Survivors: Little Angels | 298032 | [298032-maid-survivors-little-angels.json](./298032-maid-survivors-little-angels.json) |
 | Maid to Maze: Anata no Soba ni | 77919 | [77919-maid-to-maze-anata-no-soba-ni.json](./77919-maid-to-maze-anata-no-soba-ni.json) |
@@ -9781,6 +9782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minutes | 21707 | [21707-minutes.json](./21707-minutes.json) |
 | Minutescape | 327969 | [327969-minutescape.json](./327969-minutescape.json) |
 | Minuto: Galactic Deliveries | 342706 | [342706-minuto-galactic-deliveries.json](./342706-minuto-galactic-deliveries.json) |
+| Mio and the Hot Summer | 271617 | [271617-mio-and-the-hot-summer.json](./271617-mio-and-the-hot-summer.json) |
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | MioAquaria | 390577 | [390577-mioaquaria.json](./390577-mioaquaria.json) |
@@ -14706,6 +14708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Supercross World Tour | 350646 | [350646-mx-vs-atv-legends-supercross-world-tour.json](./350646-mx-vs-atv-legends-supercross-world-tour.json) |
 | MX vs. ATV: Legends - Suzuki Pack | 350647 | [350647-mx-vs-atv-legends-suzuki-pack.json](./350647-mx-vs-atv-legends-suzuki-pack.json) |
 | MX vs. ATV: Legends - Suzuki Pack 2025 | 350644 | [350644-mx-vs-atv-legends-suzuki-pack-2025.json](./350644-mx-vs-atv-legends-suzuki-pack-2025.json) |
+| MX vs. ATV: Legends - Throwback Tracks | 271613 | [271613-mx-vs-atv-legends-throwback-tracks.json](./271613-mx-vs-atv-legends-throwback-tracks.json) |
 | MX vs. ATV: Legends - Track Pass 2024 | 302035 | [302035-mx-vs-atv-legends-track-pass-2024.json](./302035-mx-vs-atv-legends-track-pass-2024.json) |
 | MX vs. ATV: Legends - Yamaha Pack 2025 | 350642 | [350642-mx-vs-atv-legends-yamaha-pack-2025.json](./350642-mx-vs-atv-legends-yamaha-pack-2025.json) |
 | MX vs. ATV: On the Edge | 18267 | [18267-mx-vs-atv-on-the-edge.json](./18267-mx-vs-atv-on-the-edge.json) |
@@ -15774,6 +15777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myosotis | 362891 | [362891-myosotis.json](./362891-myosotis.json) |
 | MyPopgoes | 243687 | [243687-mypopgoes.json](./243687-mypopgoes.json) |
 | MyPopgoes: New and Improved! | 327307 | [327307-mypopgoes-new-and-improved.json](./327307-mypopgoes-new-and-improved.json) |
+| Myrcella the Meandering Mage | 271610 | [271610-myrcella-the-meandering-mage.json](./271610-myrcella-the-meandering-mage.json) |
 | Mýrdalssandur, Iceland | 130176 | [130176-myrdalssandur-iceland.json](./130176-myrdalssandur-iceland.json) |
 | Myrddin | 174361 | [174361-myrddin.json](./174361-myrddin.json) |
 | Myriad | 194299 | [194299-myriad.json](./194299-myriad.json) |
