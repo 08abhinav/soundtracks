@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
 | Para-sol | 309651 | [309651-para-sol.json](./309651-para-sol.json) |
+| Para: Rime of Zealot | 278900 | [278900-para-rime-of-zealot.json](./278900-para-rime-of-zealot.json) |
 | Para//ax | 186170 | [186170-para-ax.json](./186170-para-ax.json) |
 | Para//Llax | 413226 | [413226-para-llax.json](./413226-para-llax.json) |
 | Parabellum: Artifacts of War | 400701 | [400701-parabellum-artifacts-of-war.json](./400701-parabellum-artifacts-of-war.json) |
@@ -8999,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pom-Bear Interactive CD | 330358 | [330358-pom-bear-interactive-cd.json](./330358-pom-bear-interactive-cd.json) |
 | Pomberito | 286078 | [286078-pomberito.json](./286078-pomberito.json) |
 | Pombero: The Lord of the Night - Reborn | 260757 | [260757-pombero-the-lord-of-the-night-reborn.json](./260757-pombero-the-lord-of-the-night-reborn.json) |
+| Pombo Piorado 2 | 278869 | [278869-pombo-piorado-2.json](./278869-pombo-piorado-2.json) |
 | Pome Rumble | 299415 | [299415-pome-rumble.json](./299415-pome-rumble.json) |
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
 | Pomegranate Tea | 235667 | [235667-pomegranate-tea.json](./235667-pomegranate-tea.json) |
@@ -11768,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Paradise 2 | 326978 | [326978-project-paradise-2.json](./326978-project-paradise-2.json) |
 | Project Parasite | 255379 | [255379-project-parasite.json](./255379-project-parasite.json) |
 | Project Pastorate | 97269 | [97269-project-pastorate.json](./97269-project-pastorate.json) |
+| Project Paws | 278905 | [278905-project-paws.json](./278905-project-paws.json) |
 | Project Perun | 265527 | [265527-project-perun.json](./265527-project-perun.json) |
 | Project Phantom | 77411 | [77411-project-phantom.json](./77411-project-phantom.json) |
 | Project Phoenix | 311219 | [311219-project-phoenix.json](./311219-project-phoenix.json) |
