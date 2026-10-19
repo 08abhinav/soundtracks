@@ -583,6 +583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Guards and Thieves: Zombie Rush | 166013 | [166013-of-guards-and-thieves-zombie-rush.json](./166013-of-guards-and-thieves-zombie-rush.json) |
 | Of Hibnernry Boneyard Ler Ardus | 397097 | [397097-of-hibnernry-boneyard-ler-ardus.json](./397097-of-hibnernry-boneyard-ler-ardus.json) |
 | Of Ice & Snow | 229783 | [229783-of-ice-and-snow.json](./229783-of-ice-and-snow.json) |
+| Of Jumps and Platforms | 268339 | [268339-of-jumps-and-platforms.json](./268339-of-jumps-and-platforms.json) |
 | Of Lies and Rain | 319865 | [319865-of-lies-and-rain.json](./319865-of-lies-and-rain.json) |
 | Of Life and Land | 188614 | [188614-of-life-and-land.json](./188614-of-life-and-land.json) |
 | Of Light & Shadow | 166509 | [166509-of-light-and-shadow.json](./166509-of-light-and-shadow.json) |
