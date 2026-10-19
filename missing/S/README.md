@@ -7597,6 +7597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal | 124085 | [124085-signal.json](./124085-signal.json) |
 | Signal | 171482 | [171482-signal.json](./171482-signal.json) |
 | Signal | 205094 | [205094-signal.json](./205094-signal.json) |
+| Signal | 270002 | [270002-signal.json](./270002-signal.json) |
 | Signal | 329155 | [329155-signal.json](./329155-signal.json) |
 | Signal Control Simulator | 312424 | [312424-signal-control-simulator.json](./312424-signal-control-simulator.json) |
 | Signal Creek | 339922 | [339922-signal-creek.json](./339922-signal-creek.json) |
@@ -13733,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbind: Tales of the Underworld | 257866 | [257866-soulbind-tales-of-the-underworld.json](./257866-soulbind-tales-of-the-underworld.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
+| Soulbond | 269996 | [269996-soulbond.json](./269996-soulbond.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | Soulbound | 247967 | [247967-soulbound.json](./247967-soulbound.json) |
 | SoulBound | 215932 | [215932-soulbound.json](./215932-soulbound.json) |
@@ -22137,6 +22139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summoner's Sky | 295562 | [295562-summoners-sky.json](./295562-summoners-sky.json) |
 | Summoner's Warrior | 223904 | [223904-summoners-warrior.json](./223904-summoners-warrior.json) |
 | SummonerRL | 275806 | [275806-summonerrl.json](./275806-summonerrl.json) |
+| Summoners Defense | 270004 | [270004-summoners-defense.json](./270004-summoners-defense.json) |
 | Summoners Era: Arena of Heroes | 193888 | [193888-summoners-era-arena-of-heroes.json](./193888-summoners-era-arena-of-heroes.json) |
 | Summoners Glory | 141128 | [141128-summoners-glory.json](./141128-summoners-glory.json) |
 | Summoners Mist | 130246 | [130246-summoners-mist.json](./130246-summoners-mist.json) |
