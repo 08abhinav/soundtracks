@@ -286,6 +286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valient Worlds: Adventure of Falken | 338578 | [338578-valient-worlds-adventure-of-falken.json](./338578-valient-worlds-adventure-of-falken.json) |
 | Valis | 262085 | [262085-valis.json](./262085-valis.json) |
 | Valis II | 37608 | [37608-valis-ii.json](./37608-valis-ii.json) |
+| Valis III | 278313 | [278313-valis-iii.json](./278313-valis-iii.json) |
 | Valis III | 37607 | [37607-valis-iii.json](./37607-valis-iii.json) |
 | Valis IV | 278475 | [278475-valis-iv.json](./278475-valis-iv.json) |
 | Valis IV | 37603 | [37603-valis-iv.json](./37603-valis-iv.json) |
