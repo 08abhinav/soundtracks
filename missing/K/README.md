@@ -3029,6 +3029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Rhythm TD | 306996 | [306996-kitty-rhythm-td.json](./306996-kitty-rhythm-td.json) |
 | Kitty Spangles Solitaire | 90369 | [90369-kitty-spangles-solitaire.json](./90369-kitty-spangles-solitaire.json) |
 | Kitty Tactics | 149510 | [149510-kitty-tactics.json](./149510-kitty-tactics.json) |
+| Kitty the Kool! | 305593 | [305593-kitty-the-kool.json](./305593-kitty-the-kool.json) |
 | Kitty: Isolation | 139320 | [139320-kitty-isolation.json](./139320-kitty-isolation.json) |
 | Kitty's Adventure for XBox One | 358365 | [358365-kittys-adventure-for-xbox-one.json](./358365-kittys-adventure-for-xbox-one.json) |
 | Kitty's Catch | 210227 | [210227-kittys-catch.json](./210227-kittys-catch.json) |
