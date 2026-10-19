@@ -9307,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Hunter: Erza's Wheel of Fortune | 143434 | [143434-frontier-hunter-erzas-wheel-of-fortune.json](./143434-frontier-hunter-erzas-wheel-of-fortune.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Deluxe Edition | 239034 | [239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json](./239034-frontier-hunter-erzas-wheel-of-fortune-deluxe-edition.json) |
 | Frontier Hunter: Erza's Wheel of Fortune - Fashion | 239032 | [239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json](./239032-frontier-hunter-erzas-wheel-of-fortune-fashion.json) |
+| Frontier Hunter: Hairstyle Pack | 266628 | [266628-frontier-hunter-hairstyle-pack.json](./266628-frontier-hunter-hairstyle-pack.json) |
 | Frontier Hunter: Weapon Package | 239008 | [239008-frontier-hunter-weapon-package.json](./239008-frontier-hunter-weapon-package.json) |
 | Frontier Legends | 319390 | [319390-frontier-legends.json](./319390-frontier-legends.json) |
 | Frontier Mayhem | 301288 | [301288-frontier-mayhem.json](./301288-frontier-mayhem.json) |
