@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Light | 374939 | [374939-echoes-of-light.json](./374939-echoes-of-light.json) |
 | Echoes of Light: Child of the Balance | 351795 | [351795-echoes-of-light-child-of-the-balance.json](./351795-echoes-of-light-child-of-the-balance.json) |
 | Echoes of Lyra | 418541 | [418541-echoes-of-lyra.json](./418541-echoes-of-lyra.json) |
+| Echoes of Madness | 270538 | [270538-echoes-of-madness.json](./270538-echoes-of-madness.json) |
 | Echoes of Magic | 194024 | [194024-echoes-of-magic.json](./194024-echoes-of-magic.json) |
 | Echoes of Mana | 174178 | [174178-echoes-of-mana.json](./174178-echoes-of-mana.json) |
 | Echoes of Mayhem | 197207 | [197207-echoes-of-mayhem.json](./197207-echoes-of-mayhem.json) |
@@ -969,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edibles | 159815 | [159815-edibles.json](./159815-edibles.json) |
 | Ediction | 333545 | [333545-ediction.json](./333545-ediction.json) |
 | Edifice | 406145 | [406145-edifice.json](./406145-edifice.json) |
+| Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
