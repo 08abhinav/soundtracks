@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
+| Cafe Master Story | 256146 | [256146-cafe-master-story.json](./256146-cafe-master-story.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
@@ -3279,6 +3280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catizens | 153167 | [153167-catizens.json](./153167-catizens.json) |
 | Catjam | 419928 | [419928-catjam.json](./419928-catjam.json) |
 | Catjong 3: Purrl of the East | 393825 | [393825-catjong-3-purrl-of-the-east.json](./393825-catjong-3-purrl-of-the-east.json) |
+| CatJump | 256139 | [256139-catjump.json](./256139-catjump.json) |
 | Catkanoid | 373297 | [373297-catkanoid.json](./373297-catkanoid.json) |
 | Catlateral Damage | 17966 | [17966-catlateral-damage.json](./17966-catlateral-damage.json) |
 | Catlateral Damage: Remeowstered | 135589 | [135589-catlateral-damage-remeowstered.json](./135589-catlateral-damage-remeowstered.json) |
@@ -10500,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookard | 298697 | [298697-cookard.json](./298697-cookard.json) |
 | Cooked Out | 282001 | [282001-cooked-out.json](./282001-cooked-out.json) |
 | Cooked with Love | 177507 | [177507-cooked-with-love.json](./177507-cooked-with-love.json) |
+| Cookery | 256156 | [256156-cookery.json](./256156-cookery.json) |
 | Cookey Shop | 145581 | [145581-cookey-shop.json](./145581-cookey-shop.json) |
 | Cookiator | 127122 | [127122-cookiator.json](./127122-cookiator.json) |
 | Cookie | 380085 | [380085-cookie.json](./380085-cookie.json) |
