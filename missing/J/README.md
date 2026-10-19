@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeopardy! | 199428 | [199428-jeopardy.json](./199428-jeopardy.json) |
 | Jeopardy! | 220095 | [220095-jeopardy.json](./220095-jeopardy.json) |
 | Jeopardy! | 261998 | [261998-jeopardy.json](./261998-jeopardy.json) |
+| Jeopardy! | 282483 | [282483-jeopardy.json](./282483-jeopardy.json) |
 | Jeopardy! | 28472 | [28472-jeopardy.json](./28472-jeopardy.json) |
 | Jeopardy! | 297599 | [297599-jeopardy.json](./297599-jeopardy.json) |
 | Jeopardy! | 3396 | [3396-jeopardy.json](./3396-jeopardy.json) |
