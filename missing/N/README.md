@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Ha_Bits | 311493 | [311493-neo-ha-bits.json](./311493-neo-ha-bits.json) |
 | Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
+| Neo Junk City | 258341 | [258341-neo-junk-city.json](./258341-neo-junk-city.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mo.co | 402467 | [402467-neo-mo-co.json](./402467-neo-mo-co.json) |
 | Neo Mr. Do! | 39540 | [39540-neo-mr-do.json](./39540-neo-mr-do.json) |
@@ -1755,6 +1756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
 | NeoBoom | 55780 | [55780-neoboom.json](./55780-neoboom.json) |
 | NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
+| NeoCars | 258324 | [258324-neocars.json](./258324-neocars.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
 | NeoCoins | 362268 | [362268-neocoins.json](./362268-neocoins.json) |
 | Neocon Tower Defence 3 | 297157 | [297157-neocon-tower-defence-3.json](./297157-neocon-tower-defence-3.json) |
@@ -3581,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightshift at the Beta Museum | 408141 | [408141-nightshift-at-the-beta-museum.json](./408141-nightshift-at-the-beta-museum.json) |
 | Nightshift Galaxy | 306761 | [306761-nightshift-galaxy.json](./306761-nightshift-galaxy.json) |
 | Nightshift Legacy: The Jaguar's Eye | 16077 | [16077-nightshift-legacy-the-jaguars-eye.json](./16077-nightshift-legacy-the-jaguars-eye.json) |
+| Nightshift Survival | 258314 | [258314-nightshift-survival.json](./258314-nightshift-survival.json) |
 | Nightside | 11586 | [11586-nightside.json](./11586-nightside.json) |
 | NightSky | 15128 | [15128-nightsky.json](./15128-nightsky.json) |
 | Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
