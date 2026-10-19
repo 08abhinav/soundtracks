@@ -12435,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn Tennis | 282446 | [282446-moorhuhn-tennis.json](./282446-moorhuhn-tennis.json) |
 | Moorhuhn Total | 282447 | [282447-moorhuhn-total.json](./282447-moorhuhn-total.json) |
 | Moorhuhn Total 2 | 282449 | [282449-moorhuhn-total-2.json](./282449-moorhuhn-total-2.json) |
+| Moorhuhn Total 4 | 257820 | [257820-moorhuhn-total-4.json](./257820-moorhuhn-total-4.json) |
 | Moorhuhn UnfairPlay | 144599 | [144599-moorhuhn-unfairplay.json](./144599-moorhuhn-unfairplay.json) |
 | Moorhuhn VR | 144598 | [144598-moorhuhn-vr.json](./144598-moorhuhn-vr.json) |
 | Moorhuhn VR Blast | 327794 | [327794-moorhuhn-vr-blast.json](./327794-moorhuhn-vr-blast.json) |
