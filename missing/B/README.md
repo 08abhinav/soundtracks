@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Merge Vol #1 | 207885 | [207885-best-of-merge-vol-1.json](./207885-best-of-merge-vol-1.json) |
 | Best of Merge Vol #2 | 207886 | [207886-best-of-merge-vol-2.json](./207886-best-of-merge-vol-2.json) |
 | Best of Merge Vol #3 | 207887 | [207887-best-of-merge-vol-3.json](./207887-best-of-merge-vol-3.json) |
+| Best of Moorhuhn | 282433 | [282433-best-of-moorhuhn.json](./282433-best-of-moorhuhn.json) |
 | Best of PlayStation Network Vol. 1 | 21605 | [21605-best-of-playstation-network-vol-1.json](./21605-best-of-playstation-network-vol-1.json) |
 | Best of Poker | 23803 | [23803-best-of-poker.json](./23803-best-of-poker.json) |
 | Best of Sierra Nr. 7 | 133972 | [133972-best-of-sierra-nr-7.json](./133972-best-of-sierra-nr-7.json) |
@@ -12540,6 +12541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
 | Bull Riding Challenge 3 | 235129 | [235129-bull-riding-challenge-3.json](./235129-bull-riding-challenge-3.json) |
+| Bull Run | 282451 | [282451-bull-run.json](./282451-bull-run.json) |
 | Bull-Bia Ricky | 291456 | [291456-bull-bia-ricky.json](./291456-bull-bia-ricky.json) |
 | Bull3000VRTS | 369649 | [369649-bull3000vrts.json](./369649-bull3000vrts.json) |
 | Bullcrap! | 215022 | [215022-bullcrap.json](./215022-bullcrap.json) |
