@@ -5382,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxcode | 404413 | [404413-noxcode.json](./404413-noxcode.json) |
 | Noxia Somnia | 235888 | [235888-noxia-somnia.json](./235888-noxia-somnia.json) |
 | Noxiam: Miserable Sinners | 126407 | [126407-noxiam-miserable-sinners.json](./126407-noxiam-miserable-sinners.json) |
+| Noxium | 280119 | [280119-noxium.json](./280119-noxium.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
 | Nozoku | 238984 | [238984-nozoku.json](./238984-nozoku.json) |
@@ -5671,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
 | Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
+| Nurse Sofi | 280079 | [280079-nurse-sofi.json](./280079-nurse-sofi.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
 | Nursery Curse | 176310 | [176310-nursery-curse.json](./176310-nursery-curse.json) |
 | Nursery Mania | 209014 | [209014-nursery-mania.json](./209014-nursery-mania.json) |
@@ -5757,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
+| Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Land of Elves | 116945 | [116945-nyasha-land-of-elves.json](./116945-nyasha-land-of-elves.json) |
 | Nyassembled! | 332979 | [332979-nyassembled.json](./332979-nyassembled.json) |
 | Nyctoban | 252204 | [252204-nyctoban.json](./252204-nyctoban.json) |
