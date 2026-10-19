@@ -3843,6 +3843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outer-Rim Pod Digger | 66058 | [66058-outer-rim-pod-digger.json](./66058-outer-rim-pod-digger.json) |
 | Outergalactic Aliens Pinball | 173237 | [173237-outergalactic-aliens-pinball.json](./173237-outergalactic-aliens-pinball.json) |
 | Outerplane | 188368 | [188368-outerplane.json](./188368-outerplane.json) |
+| OuterRealm | 285888 | [285888-outerrealm.json](./285888-outerrealm.json) |
 | Outerstellar | 258630 | [258630-outerstellar.json](./258630-outerstellar.json) |
 | Outertale: Project Spacetime | 313236 | [313236-outertale-project-spacetime.json](./313236-outertale-project-spacetime.json) |
 | Outertown | 118191 | [118191-outertown.json](./118191-outertown.json) |
