@@ -6039,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
+| Eyes: Nonogram | 294542 | [294542-eyes-nonogram.json](./294542-eyes-nonogram.json) |
 | Eyeshield 21: AmeFoot Yarouze! Ya! Ha! | 58281 | [58281-eyeshield-21-amefoot-yarouze-ya-ha.json](./58281-eyeshield-21-amefoot-yarouze-ya-ha.json) |
 | Eyeshield 21: DevilBats DevilDays | 49582 | [49582-eyeshield-21-devilbats-devildays.json](./49582-eyeshield-21-devilbats-devildays.json) |
 | Eyeshield 21: Field no Saikyou Senshi-tachi | 72994 | [72994-eyeshield-21-field-no-saikyou-senshi-tachi.json](./72994-eyeshield-21-field-no-saikyou-senshi-tachi.json) |
