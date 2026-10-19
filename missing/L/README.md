@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
+| Last of the Noticers | 291856 | [291856-last-of-the-noticers.json](./291856-last-of-the-noticers.json) |
 | Last One Standing | 176332 | [176332-last-one-standing.json](./176332-last-one-standing.json) |
 | Last Order | 235994 | [235994-last-order.json](./235994-last-order.json) |
 | Last Origin R+ | 401129 | [401129-last-origin-r.json](./401129-last-origin-r.json) |
