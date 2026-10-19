@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo Weaver | 290107 | [290107-echo-weaver.json](./290107-echo-weaver.json) |
 | Echo Wisp | 208638 | [208638-echo-wisp.json](./208638-echo-wisp.json) |
+| Echo_Squadrons | 256138 | [256138-echo-squadrons.json](./256138-echo-squadrons.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
@@ -986,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
+| Ednaldo Pereira: Mobile | 256123 | [256123-ednaldo-pereira-mobile.json](./256123-ednaldo-pereira-mobile.json) |
 | Ednoka | 341120 | [341120-ednoka.json](./341120-ednoka.json) |
 | Edo Bunka Rekishi Kentei | 123308 | [123308-edo-bunka-rekishi-kentei.json](./123308-edo-bunka-rekishi-kentei.json) |
 | Edo Mono | 250476 | [250476-edo-mono.json](./250476-edo-mono.json) |
