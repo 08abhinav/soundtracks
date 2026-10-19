@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parsec | 341593 | [341593-parsec.json](./341593-parsec.json) |
 | Parsec Frontiers | 81196 | [81196-parsec-frontiers.json](./81196-parsec-frontiers.json) |
 | Parsec Lost in Space | 255972 | [255972-parsec-lost-in-space.json](./255972-parsec-lost-in-space.json) |
+| Parsec Man 3D | 259403 | [259403-parsec-man-3d.json](./259403-parsec-man-3d.json) |
 | Parsector | 357204 | [357204-parsector.json](./357204-parsector.json) |
 | Parseword | 394540 | [394540-parseword.json](./394540-parseword.json) |
 | Parsnip | 96108 | [96108-parsnip.json](./96108-parsnip.json) |
@@ -7013,6 +7014,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. SiIvaGunner | 308024 | [308024-plants-vs-siivagunner.json](./308024-plants-vs-siivagunner.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
+| Plants vs. Zombies | 259406 | [259406-plants-vs-zombies.json](./259406-plants-vs-zombies.json) |
+| Plants vs. Zombies | 259408 | [259408-plants-vs-zombies.json](./259408-plants-vs-zombies.json) |
 | Plants vs. Zombies | 264243 | [264243-plants-vs-zombies.json](./264243-plants-vs-zombies.json) |
 | Plants vs. Zombies | 275575 | [275575-plants-vs-zombies.json](./275575-plants-vs-zombies.json) |
 | Plants vs. Zombies | 342043 | [342043-plants-vs-zombies.json](./342043-plants-vs-zombies.json) |
@@ -9152,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony vs. Pony | 379982 | [379982-pony-vs-pony.json](./379982-pony-vs-pony.json) |
 | Pony World: Color by Numbers | 279874 | [279874-pony-world-color-by-numbers.json](./279874-pony-world-color-by-numbers.json) |
 | Pony World: Color by Numbers & Animal Golf: Battle Race Bundle | 289205 | [289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json](./289205-pony-world-color-by-numbers-and-animal-golf-battle-race-bundle.json) |
+| PonyGuessr | 259414 | [259414-ponyguessr.json](./259414-ponyguessr.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
 | Poobo | 383160 | [383160-poobo.json](./383160-poobo.json) |
@@ -12806,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
 | Pumping Simulator 2 | 263318 | [263318-pumping-simulator-2.json](./263318-pumping-simulator-2.json) |
+| Pumping Station | 259392 | [259392-pumping-station.json](./259392-pumping-station.json) |
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
