@@ -1469,6 +1469,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Unplanned Disassembly | 176369 | [176369-rapid-unplanned-disassembly.json](./176369-rapid-unplanned-disassembly.json) |
 | Rapid-Shot | 22096 | [22096-rapid-shot.json](./22096-rapid-shot.json) |
 | RapidBrogue | 201259 | [201259-rapidbrogue.json](./201259-rapidbrogue.json) |
+| Rapidfire | 263354 | [263354-rapidfire.json](./263354-rapidfire.json) |
+| Rapidfire 2 | 263355 | [263355-rapidfire-2.json](./263355-rapidfire-2.json) |
+| Rapidfire 3 | 263356 | [263356-rapidfire-3.json](./263356-rapidfire-3.json) |
 | Rapis the Bullet | 260621 | [260621-rapis-the-bullet.json](./260621-rapis-the-bullet.json) |
 | Rappelz | 26534 | [26534-rappelz.json](./26534-rappelz.json) |
 | Rappelz Online | 193819 | [193819-rappelz-online.json](./193819-rappelz-online.json) |
@@ -5661,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringwyrm | 410985 | [410985-ringwyrm.json](./410985-ringwyrm.json) |
 | Rinlo | 133133 | [133133-rinlo.json](./133133-rinlo.json) |
 | Rinne | 182316 | [182316-rinne.json](./182316-rinne.json) |
+| Rinne | 263333 | [263333-rinne.json](./263333-rinne.json) |
 | Rinne no Hate de Kimi wo Matsu | 417545 | [417545-rinne-no-hate-de-kimi-wo-matsu.json](./417545-rinne-no-hate-de-kimi-wo-matsu.json) |
 | Rinne no Lagrange: Kamogawa Match | 268741 | [268741-rinne-no-lagrange-kamogawa-match.json](./268741-rinne-no-lagrange-kamogawa-match.json) |
 | Rinne Tenshou | 356253 | [356253-rinne-tenshou.json](./356253-rinne-tenshou.json) |
