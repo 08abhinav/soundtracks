@@ -8478,6 +8478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Cookie: Turbo | 228593 | [228593-the-jumping-cookie-turbo.json](./228593-the-jumping-cookie-turbo.json) |
 | The Jumping Donut | 315810 | [315810-the-jumping-donut.json](./315810-the-jumping-donut.json) |
 | The Jumping Food Delivery | 359991 | [359991-the-jumping-food-delivery.json](./359991-the-jumping-food-delivery.json) |
+| The Jumping Food Memory | 266064 | [266064-the-jumping-food-memory.json](./266064-the-jumping-food-memory.json) |
 | The Jumping Food Racing | 377709 | [377709-the-jumping-food-racing.json](./377709-the-jumping-food-racing.json) |
 | The Jumping Food Racing 2 | 380407 | [380407-the-jumping-food-racing-2.json](./380407-the-jumping-food-racing-2.json) |
 | The Jumping Fries | 204078 | [204078-the-jumping-fries.json](./204078-the-jumping-fries.json) |
@@ -23946,6 +23947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Champ | 274365 | [274365-turbo-champ.json](./274365-turbo-champ.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
 | Turbo Dash | 329066 | [329066-turbo-dash.json](./329066-turbo-dash.json) |
+| Turbo Dash Kart 2023 Racing | 266065 | [266065-turbo-dash-kart-2023-racing.json](./266065-turbo-dash-kart-2023-racing.json) |
 | Turbo Dismount 2 | 319769 | [319769-turbo-dismount-2.json](./319769-turbo-dismount-2.json) |
 | Turbo DX | 313106 | [313106-turbo-dx.json](./313106-turbo-dx.json) |
 | Turbo Esprit | 26430 | [26430-turbo-esprit.json](./26430-turbo-esprit.json) |
