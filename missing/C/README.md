@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule | 17487 | [17487-capsule.json](./17487-capsule.json) |
 | Capsule | 385389 | [385389-capsule.json](./385389-capsule.json) |
 | Capsule Cat's Big Space Adventure | 280334 | [280334-capsule-cats-big-space-adventure.json](./280334-capsule-cats-big-space-adventure.json) |
+| Capsule Fight | 299518 | [299518-capsule-fight.json](./299518-capsule-fight.json) |
 | Capsule Fighting | 334560 | [334560-capsule-fighting.json](./334560-capsule-fighting.json) |
 | Capsule Force | 11184 | [11184-capsule-force.json](./11184-capsule-force.json) |
 | Capsule Hero | 353611 | [353611-capsule-hero.json](./353611-capsule-hero.json) |
@@ -2353,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
 | Cast Cats | 312755 | [312755-cast-cats.json](./312755-cast-cats.json) |
 | Cast Dice Away | 324901 | [324901-cast-dice-away.json](./324901-cast-dice-away.json) |
+| Cast N | 299489 | [299489-cast-n.json](./299489-cast-n.json) |
 | Cast of the Seven Godsends: Redux | 20994 | [20994-cast-of-the-seven-godsends-redux.json](./20994-cast-of-the-seven-godsends-redux.json) |
 | Cast Out Colony | 247958 | [247958-cast-out-colony.json](./247958-cast-out-colony.json) |
 | Cast Outs | 380165 | [380165-cast-outs.json](./380165-cast-outs.json) |
@@ -3555,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Drone Flight | 317566 | [317566-cazzarion-drone-flight.json](./317566-cazzarion-drone-flight.json) |
 | Cazzarion: Fishing | 335091 | [335091-cazzarion-fishing.json](./335091-cazzarion-fishing.json) |
 | Cazzarion: Flak Battle | 306051 | [306051-cazzarion-flak-battle.json](./306051-cazzarion-flak-battle.json) |
+| Cazzarion: Forest Defense | 299507 | [299507-cazzarion-forest-defense.json](./299507-cazzarion-forest-defense.json) |
 | Cazzarion: Ghost Frenzy | 293899 | [293899-cazzarion-ghost-frenzy.json](./293899-cazzarion-ghost-frenzy.json) |
 | Cazzarion: Gunslinger | 294683 | [294683-cazzarion-gunslinger.json](./294683-cazzarion-gunslinger.json) |
 | Cazzarion: Hell Biker | 334491 | [334491-cazzarion-hell-biker.json](./334491-cazzarion-hell-biker.json) |
@@ -3567,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Sky Flight | 300995 | [300995-cazzarion-sky-flight.json](./300995-cazzarion-sky-flight.json) |
 | Cazzarion: Space Ace | 293901 | [293901-cazzarion-space-ace.json](./293901-cazzarion-space-ace.json) |
 | Cazzarion: Space Shooter | 293902 | [293902-cazzarion-space-shooter.json](./293902-cazzarion-space-shooter.json) |
+| Cazzarion: Speed Run | 299509 | [299509-cazzarion-speed-run.json](./299509-cazzarion-speed-run.json) |
 | Cazzarion: Star Collector | 302237 | [302237-cazzarion-star-collector.json](./302237-cazzarion-star-collector.json) |
 | Cazzarion: Tank Killer | 304328 | [304328-cazzarion-tank-killer.json](./304328-cazzarion-tank-killer.json) |
 | Cazzarion: Treasure Diver | 315901 | [315901-cazzarion-treasure-diver.json](./315901-cazzarion-treasure-diver.json) |
