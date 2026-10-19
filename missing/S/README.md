@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush 2049 | 3596 | [3596-san-francisco-rush-2049.json](./3596-san-francisco-rush-2049.json) |
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
+| San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
@@ -10507,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Truco | 370913 | [370913-smart-truco.json](./370913-smart-truco.json) |
 | Smart-Attack! | 369446 | [369446-smart-attack.json](./369446-smart-attack.json) |
 | SmartBoy | 86556 | [86556-smartboy.json](./86556-smartboy.json) |
+| Smarter Than You | 257225 | [257225-smarter-than-you.json](./257225-smarter-than-you.json) |
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
 | Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
@@ -10833,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snackdown | 340359 | [340359-snackdown.json](./340359-snackdown.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
+| Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
 | Snafu | 5697 | [5697-snafu.json](./5697-snafu.json) |
 | Snafubar | 386438 | [386438-snafubar.json](./386438-snafubar.json) |
@@ -14563,6 +14566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
 | Space Launch Engineer | 88244 | [88244-space-launch-engineer.json](./88244-space-launch-engineer.json) |
+| Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
@@ -15369,6 +15373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
+| Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
 | Spectra | 183346 | [183346-spectra.json](./183346-spectra.json) |
 | Spectra | 19960 | [19960-spectra.json](./19960-spectra.json) |
 | Spectra | 275506 | [275506-spectra.json](./275506-spectra.json) |
@@ -17651,6 +17656,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Conflict: Custodian | 354419 | [354419-star-conflict-custodian.json](./354419-star-conflict-custodian.json) |
 | Star Conflict: Dyrnwyn | 357403 | [357403-star-conflict-dyrnwyn.json](./357403-star-conflict-dyrnwyn.json) |
 | Star Conflict: Edges of Risk - Stage one: Deluxe edition | 253434 | [253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json](./253434-star-conflict-edges-of-risk-stage-one-deluxe-edition.json) |
+| Star Conflict: Edges of risk - Stage two | 257238 | [257238-star-conflict-edges-of-risk-stage-two.json](./257238-star-conflict-edges-of-risk-stage-two.json) |
+| Star Conflict: Edges of risk - Stage two: Deluxe edition | 257237 | [257237-star-conflict-edges-of-risk-stage-two-deluxe-edition.json](./257237-star-conflict-edges-of-risk-stage-two-deluxe-edition.json) |
 | Star Conflict: Empire Destroyer Vigilant | 354423 | [354423-star-conflict-empire-destroyer-vigilant.json](./354423-star-conflict-empire-destroyer-vigilant.json) |
 | Star Conflict: Federation Destroyer Sirius | 354430 | [354430-star-conflict-federation-destroyer-sirius.json](./354430-star-conflict-federation-destroyer-sirius.json) |
 | Star Conflict: Fleet Strength - Razor | 354425 | [354425-star-conflict-fleet-strength-razor.json](./354425-star-conflict-fleet-strength-razor.json) |
@@ -24610,6 +24617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stuntman | 55083 | [55083-super-stuntman.json](./55083-super-stuntman.json) |
 | Super Stupid Game | 204855 | [204855-super-stupid-game.json](./204855-super-stupid-game.json) |
 | Super Stupid Space Invaders | 72305 | [72305-super-stupid-space-invaders.json](./72305-super-stupid-space-invaders.json) |
+| Super Stylist Fashion Makeover | 257216 | [257216-super-stylist-fashion-makeover.json](./257216-super-stylist-fashion-makeover.json) |
 | Super Sucker | 351233 | [351233-super-sucker.json](./351233-super-sucker.json) |
 | Super Sucker: Clever Edition | 362371 | [362371-super-sucker-clever-edition.json](./362371-super-sucker-clever-edition.json) |
 | Super Sucker: Complete Edition | 356811 | [356811-super-sucker-complete-edition.json](./356811-super-sucker-complete-edition.json) |
