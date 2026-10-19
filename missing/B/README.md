@@ -5340,6 +5340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bicho | 223474 | [223474-bicho.json](./223474-bicho.json) |
 | Bickadoodle | 185088 | [185088-bickadoodle.json](./185088-bickadoodle.json) |
 | Bicolor | 208385 | [208385-bicolor.json](./208385-bicolor.json) |
+| Bicolor Bird | 296196 | [296196-bicolor-bird.json](./296196-bicolor-bird.json) |
 | BiColor: Lazy Eye Game Trainer | 360672 | [360672-bicolor-lazy-eye-game-trainer.json](./360672-bicolor-lazy-eye-game-trainer.json) |
 | Bicqlo Vader | 125216 | [125216-bicqlo-vader.json](./125216-bicqlo-vader.json) |
 | Bicycle Board Games | 128445 | [128445-bicycle-board-games.json](./128445-bicycle-board-games.json) |
@@ -7809,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
 | Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
+| BlockArena | 296275 | [296275-blockarena.json](./296275-blockarena.json) |
 | BlockArt 2p | 102681 | [102681-blockart-2p.json](./102681-blockart-2p.json) |
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
