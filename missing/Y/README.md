@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamiyo ni Sasayaku: Tantei Sagara Kyouichirou | 215192 | [215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json](./215192-yamiyo-ni-sasayaku-tantei-sagara-kyouichirou.json) |
 | Yamizome Liberator | 327834 | [327834-yamizome-liberator.json](./327834-yamizome-liberator.json) |
 | YamYam | 37760 | [37760-yamyam.json](./37760-yamyam.json) |
+| Yan Love Remake | 296727 | [296727-yan-love-remake.json](./296727-yan-love-remake.json) |
 | Yan's World | 322103 | [322103-yans-world.json](./322103-yans-world.json) |
 | Yanchat | 333080 | [333080-yanchat.json](./333080-yanchat.json) |
 | Yandere AI Girlfriend Simulator: With You Til The End | 256214 | [256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json](./256214-yandere-ai-girlfriend-simulator-with-you-til-the-end.json) |
