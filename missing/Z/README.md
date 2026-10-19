@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Forest Brick Breaker VR | 365756 | [365756-zen-forest-brick-breaker-vr.json](./365756-zen-forest-brick-breaker-vr.json) |
 | Zen Games: Color Blocks Puzzle | 234048 | [234048-zen-games-color-blocks-puzzle.json](./234048-zen-games-color-blocks-puzzle.json) |
 | Zen Garden | 25980 | [25980-zen-garden.json](./25980-zen-garden.json) |
+| Zen Garden | 283073 | [283073-zen-garden.json](./283073-zen-garden.json) |
 | Zen Golf | 215663 | [215663-zen-golf.json](./215663-zen-golf.json) |
 | Zen Idle: Gravity Meditation | 233403 | [233403-zen-idle-gravity-meditation.json](./233403-zen-idle-gravity-meditation.json) |
 | Zen Koi | 255841 | [255841-zen-koi.json](./255841-zen-koi.json) |
@@ -472,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball: The Elder Scrolls V - Skyrim Pinball | 354363 | [354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json](./354363-zen-pinball-the-elder-scrolls-v-skyrim-pinball.json) |
 | Zen Pinball: The Walking Dead | 354365 | [354365-zen-pinball-the-walking-dead.json](./354365-zen-pinball-the-walking-dead.json) |
 | Zen Puzzle Garden | 50466 | [50466-zen-puzzle-garden.json](./50466-zen-puzzle-garden.json) |
+| Zen Quest | 283072 | [283072-zen-quest.json](./283072-zen-quest.json) |
 | Zen Quest Garden: Cherry Blossom | 338058 | [338058-zen-quest-garden-cherry-blossom.json](./338058-zen-quest-garden-cherry-blossom.json) |
 | Zen Rage | 319223 | [319223-zen-rage.json](./319223-zen-rage.json) |
 | Zen Studios VR Collection | 107642 | [107642-zen-studios-vr-collection.json](./107642-zen-studios-vr-collection.json) |
@@ -1458,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
 | Zombiology | 301638 | [301638-zombiology.json](./301638-zombiology.json) |
+| Zombion: Survival | 283071 | [283071-zombion-survival.json](./283071-zombion-survival.json) |
 | Zombiotik | 117446 | [117446-zombiotik.json](./117446-zombiotik.json) |
 | Zombitatos the end of the Pc master race | 31916 | [31916-zombitatos-the-end-of-the-pc-master-race.json](./31916-zombitatos-the-end-of-the-pc-master-race.json) |
 | Zombitatos: Ultimate Game of the Year Edition | 55407 | [55407-zombitatos-ultimate-game-of-the-year-edition.json](./55407-zombitatos-ultimate-game-of-the-year-edition.json) |
