@@ -2725,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurous Mind | 259670 | [259670-adventurous-mind.json](./259670-adventurous-mind.json) |
 | Adventurous Slime | 337507 | [337507-adventurous-slime.json](./337507-adventurous-slime.json) |
 | Adversary Tower | 257398 | [257398-adversary-tower.json](./257398-adversary-tower.json) |
+| Adverse Effects | 258882 | [258882-adverse-effects.json](./258882-adverse-effects.json) |
 | Advertising Agency | 134377 | [134377-advertising-agency.json](./134377-advertising-agency.json) |
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
@@ -3362,6 +3363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders | 589 | [589-age-of-wonders.json](./589-age-of-wonders.json) |
 | Age of Wonders 4: Cosmic Wanderer | 371020 | [371020-age-of-wonders-4-cosmic-wanderer.json](./371020-age-of-wonders-4-cosmic-wanderer.json) |
 | Age of Wonders 4: Dragon Dawn | 252621 | [252621-age-of-wonders-4-dragon-dawn.json](./252621-age-of-wonders-4-dragon-dawn.json) |
+| Age of Wonders 4: Eldritch Realms | 258839 | [258839-age-of-wonders-4-eldritch-realms.json](./258839-age-of-wonders-4-eldritch-realms.json) |
 | Age of Wonders 4: Empires & Ashes | 259051 | [259051-age-of-wonders-4-empires-and-ashes.json](./259051-age-of-wonders-4-empires-and-ashes.json) |
 | Age of Wonders 4: Expansion Pass | 293731 | [293731-age-of-wonders-4-expansion-pass.json](./293731-age-of-wonders-4-expansion-pass.json) |
 | Age of Wonders 4: Herald of Glory | 371134 | [371134-age-of-wonders-4-herald-of-glory.json](./371134-age-of-wonders-4-herald-of-glory.json) |
