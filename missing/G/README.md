@@ -1534,6 +1534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garyouden Sangoku Seiha no Kei | 392738 | [392738-garyouden-sangoku-seiha-no-kei.json](./392738-garyouden-sangoku-seiha-no-kei.json) |
 | Garzey's Wing | 363152 | [363152-garzeys-wing.json](./363152-garzeys-wing.json) |
 | Gas Gas Rocket! | 289554 | [289554-gas-gas-rocket.json](./289554-gas-gas-rocket.json) |
+| Gas Girl | 266642 | [266642-gas-girl.json](./266642-gas-girl.json) |
 | Gas Guzzlers Extreme | 8472 | [8472-gas-guzzlers-extreme.json](./8472-gas-guzzlers-extreme.json) |
 | Gas Guzzlers Extreme: Full Metal Frenzy | 171503 | [171503-gas-guzzlers-extreme-full-metal-frenzy.json](./171503-gas-guzzlers-extreme-full-metal-frenzy.json) |
 | Gas Guzzlers Extreme: Full Metal Zombie | 171519 | [171519-gas-guzzlers-extreme-full-metal-zombie.json](./171519-gas-guzzlers-extreme-full-metal-zombie.json) |
@@ -6452,6 +6453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
 | Greed's Grub | 349365 | [349365-greeds-grub.json](./349365-greeds-grub.json) |
+| Greeded | 266606 | [266606-greeded.json](./266606-greeded.json) |
 | Greediest Landlord | 419164 | [419164-greediest-landlord.json](./419164-greediest-landlord.json) |
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
@@ -7476,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardiões do Mundo: estados brasileiros | 290088 | [290088-guardioes-do-mundo-estados-brasileiros.json](./290088-guardioes-do-mundo-estados-brasileiros.json) |
 | Guards II: Chaos in Hell | 253297 | [253297-guards-ii-chaos-in-hell.json](./253297-guards-ii-chaos-in-hell.json) |
 | Guards of the Gate | 90168 | [90168-guards-of-the-gate.json](./90168-guards-of-the-gate.json) |
+| Guards! | 266605 | [266605-guards.json](./266605-guards.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
@@ -8116,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunrail | 179448 | [179448-gunrail.json](./179448-gunrail.json) |
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
+| GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
 | Guns & Bots | 304906 | [304906-guns-and-bots.json](./304906-guns-and-bots.json) |
