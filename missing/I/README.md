@@ -117,6 +117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Became a Dog | 142334 | [142334-i-became-a-dog.json](./142334-i-became-a-dog.json) |
 | I Became a Dog 2 | 142332 | [142332-i-became-a-dog-2.json](./142332-i-became-a-dog-2.json) |
 | I Became a Dog 3 | 319086 | [319086-i-became-a-dog-3.json](./319086-i-became-a-dog-3.json) |
+| I Became a Femboy to Date One | 288059 | [288059-i-became-a-femboy-to-date-one.json](./288059-i-became-a-femboy-to-date-one.json) |
 | I Became an Evil Witch that Cursed the Male Lead | 409843 | [409843-i-became-an-evil-witch-that-cursed-the-male-lead.json](./409843-i-became-an-evil-witch-that-cursed-the-male-lead.json) |
 | I Became Gay from Translating My New Roommate's Short Story | 182306 | [182306-i-became-gay-from-translating-my-new-roommates-short-story.json](./182306-i-became-gay-from-translating-my-new-roommates-short-story.json) |
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
@@ -2043,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impunes | 345147 | [345147-impunes.json](./345147-impunes.json) |
 | IMSA World Championship Racing | 237511 | [237511-imsa-world-championship-racing.json](./237511-imsa-world-championship-racing.json) |
 | Imscared | 33822 | [33822-imscared.json](./33822-imscared.json) |
+| Imscared: A Pixelated Nightmare | 288083 | [288083-imscared-a-pixelated-nightmare.json](./288083-imscared-a-pixelated-nightmare.json) |
 | Imugi | 158676 | [158676-imugi.json](./158676-imugi.json) |
 | Imvi: Echoes of Harmony | 340748 | [340748-imvi-echoes-of-harmony.json](./340748-imvi-echoes-of-harmony.json) |
 | IMVU | 98279 | [98279-imvu.json](./98279-imvu.json) |
