@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
 | Galaxy Invader 1000 | 47282 | [47282-galaxy-invader-1000.json](./47282-galaxy-invader-1000.json) |
 | Galaxy Invaders | 221893 | [221893-galaxy-invaders.json](./221893-galaxy-invaders.json) |
+| Galaxy Killer | 287513 | [287513-galaxy-killer.json](./287513-galaxy-killer.json) |
 | Galaxy Kingdoms | 236214 | [236214-galaxy-kingdoms.json](./236214-galaxy-kingdoms.json) |
 | Galaxy Life | 201559 | [201559-galaxy-life.json](./201559-galaxy-life.json) |
 | Galaxy Life | 324894 | [324894-galaxy-life.json](./324894-galaxy-life.json) |
@@ -698,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Trek | 197717 | [197717-galaxy-trek.json](./197717-galaxy-trek.json) |
 | Galaxy Trek | 285458 | [285458-galaxy-trek.json](./285458-galaxy-trek.json) |
 | Galaxy Trucker | 60538 | [60538-galaxy-trucker.json](./60538-galaxy-trucker.json) |
+| Galaxy War | 287514 | [287514-galaxy-war.json](./287514-galaxy-war.json) |
 | Galaxy War: The New Colony | 249658 | [249658-galaxy-war-the-new-colony.json](./249658-galaxy-war-the-new-colony.json) |
 | Galaxy Warfighter | 131984 | [131984-galaxy-warfighter.json](./131984-galaxy-warfighter.json) |
 | Galaxy Warrior | 152319 | [152319-galaxy-warrior.json](./152319-galaxy-warrior.json) |
@@ -1875,6 +1877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gelocity 1 vs 1 | 416791 | [416791-gelocity-1-vs-1.json](./416791-gelocity-1-vs-1.json) |
 | Gelocity Time Trial | 416792 | [416792-gelocity-time-trial.json](./416792-gelocity-time-trial.json) |
 | Gem | 265126 | [265126-gem.json](./265126-gem.json) |
+| Gem | 287515 | [287515-gem.json](./287515-gem.json) |
 | Gem Beasts | 379860 | [379860-gem-beasts.json](./379860-gem-beasts.json) |
 | Gem Blast | 311785 | [311785-gem-blast.json](./311785-gem-blast.json) |
 | Gem Blocks | 93822 | [93822-gem-blocks.json](./93822-gem-blocks.json) |
@@ -2780,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Online | 112299 | [112299-ghost-online.json](./112299-ghost-online.json) |
 | Ghost Opera House | 156695 | [156695-ghost-opera-house.json](./156695-ghost-opera-house.json) |
 | Ghost or Trick | 167560 | [167560-ghost-or-trick.json](./167560-ghost-or-trick.json) |
+| Ghost Palace | 287517 | [287517-ghost-palace.json](./287517-ghost-palace.json) |
 | Ghost Parade | 104987 | [104987-ghost-parade.json](./104987-ghost-parade.json) |
 | Ghost Party | 304863 | [304863-ghost-party.json](./304863-ghost-party.json) |
 | Ghost Party Nyanbaba | 187846 | [187846-ghost-party-nyanbaba.json](./187846-ghost-party-nyanbaba.json) |
@@ -2803,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
 | Ghost Shadow | 214199 | [214199-ghost-shadow.json](./214199-ghost-shadow.json) |
+| Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
 | Ghost Shock | 346702 | [346702-ghost-shock.json](./346702-ghost-shock.json) |
 | Ghost Shot | 330500 | [330500-ghost-shot.json](./330500-ghost-shot.json) |
@@ -4073,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal FH | 217879 | [217879-goal-fh.json](./217879-goal-fh.json) |
 | Goal II | 48286 | [48286-goal-ii.json](./48286-goal-ii.json) |
 | Goal IV | 339779 | [339779-goal-iv.json](./339779-goal-iv.json) |
+| Goal Keeper | 287519 | [287519-goal-keeper.json](./287519-goal-keeper.json) |
 | Goal Poacher VR: Football Header Simulator | 326415 | [326415-goal-poacher-vr-football-header-simulator.json](./326415-goal-poacher-vr-football-header-simulator.json) |
 | Goal Rush | 182147 | [182147-goal-rush.json](./182147-goal-rush.json) |
 | Goal Storm | 20315 | [20315-goal-storm.json](./20315-goal-storm.json) |
@@ -4249,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
 | God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
+| God Devils | 287520 | [287520-god-devils.json](./287520-god-devils.json) |
 | God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
