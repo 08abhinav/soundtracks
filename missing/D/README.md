@@ -6859,6 +6859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Nest | 147331 | [147331-dino-nest.json](./147331-dino-nest.json) |
 | Dino Numbers | 128485 | [128485-dino-numbers.json](./128485-dino-numbers.json) |
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
+| Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
@@ -9160,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 64 | 1096 | [1096-donkey-kong-64.json](./1096-donkey-kong-64.json) |
 | Donkey Kong 64 Lore Quiz | 231609 | [231609-donkey-kong-64-lore-quiz.json](./231609-donkey-kong-64-lore-quiz.json) |
 | Donkey Kong 64: Tag Anywhere | 210708 | [210708-donkey-kong-64-tag-anywhere.json](./210708-donkey-kong-64-tag-anywhere.json) |
+| Donkey Kong Accelerate | 290241 | [290241-donkey-kong-accelerate.json](./290241-donkey-kong-accelerate.json) |
 | Donkey Kong Arcade | 339265 | [339265-donkey-kong-arcade.json](./339265-donkey-kong-arcade.json) |
 | Donkey Kong Banana Kingdom | 59215 | [59215-donkey-kong-banana-kingdom.json](./59215-donkey-kong-banana-kingdom.json) |
 | Donkey Kong Bananza | 338106 | [338106-donkey-kong-bananza.json](./338106-donkey-kong-bananza.json) |
@@ -9840,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dotsubo-chan | 166146 | [166146-dotsubo-chan.json](./166146-dotsubo-chan.json) |
 | Dottania | 197232 | [197232-dottania.json](./197232-dottania.json) |
 | Dottie Dreads Nought | 313475 | [313475-dottie-dreads-nought.json](./313475-dottie-dreads-nought.json) |
+| Dottie Flowers | 290260 | [290260-dottie-flowers.json](./290260-dottie-flowers.json) |
 | Dottori-kun | 40099 | [40099-dottori-kun.json](./40099-dottori-kun.json) |
 | Dotty | 265692 | [265692-dotty.json](./265692-dotty.json) |
 | Dotu | 330110 | [330110-dotu.json](./330110-dotu.json) |
@@ -13371,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonfield | 331961 | [331961-dungeonfield.json](./331961-dungeonfield.json) |
 | Dungeonforge | 61737 | [61737-dungeonforge.json](./61737-dungeonforge.json) |
 | Dungeongame | 195020 | [195020-dungeongame.json](./195020-dungeongame.json) |
+| Dungeoning | 290242 | [290242-dungeoning.json](./290242-dungeoning.json) |
 | Dungeonite | 152822 | [152822-dungeonite.json](./152822-dungeonite.json) |
 | Dungeonlike | 183574 | [183574-dungeonlike.json](./183574-dungeonlike.json) |
 | Dungeonlite Duelers | 175836 | [175836-dungeonlite-duelers.json](./175836-dungeonlite-duelers.json) |
