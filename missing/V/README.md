@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VitvitDriver 3D | 390040 | [390040-vitvitdriver-3d.json](./390040-vitvitdriver-3d.json) |
 | Viv and Bob | 134947 | [134947-viv-and-bob.json](./134947-viv-and-bob.json) |
 | Viva Games Collection | 173173 | [173173-viva-games-collection.json](./173173-viva-games-collection.json) |
+| Viva Hexagon! Feat. Ipulo | 300437 | [300437-viva-hexagon-feat-ipulo.json](./300437-viva-hexagon-feat-ipulo.json) |
 | Viva la Toast | 240869 | [240869-viva-la-toast.json](./240869-viva-la-toast.json) |
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
