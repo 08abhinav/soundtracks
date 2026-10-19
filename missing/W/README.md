@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walrus Fly | 406690 | [406690-walrus-fly.json](./406690-walrus-fly.json) |
 | Walrus Run | 292436 | [292436-walrus-run.json](./292436-walrus-run.json) |
 | Walstikski | 241262 | [241262-walstikski.json](./241262-walstikski.json) |
+| Walt Disney World Quest: Magical Racing Tour | 300442 | [300442-walt-disney-world-quest-magical-racing-tour.json](./300442-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney World Quest: Magical Racing Tour | 8129 | [8129-walt-disney-world-quest-magical-racing-tour.json](./8129-walt-disney-world-quest-magical-racing-tour.json) |
 | Walt Disney's Snow White and the Seven Dwarfs | 59938 | [59938-walt-disneys-snow-white-and-the-seven-dwarfs.json](./59938-walt-disneys-snow-white-and-the-seven-dwarfs.json) |
 | Walt Disney's Snow White and the Seven Dwarves | 198896 | [198896-walt-disneys-snow-white-and-the-seven-dwarves.json](./198896-walt-disneys-snow-white-and-the-seven-dwarves.json) |
@@ -4821,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without a Dawn | 333551 | [333551-without-a-dawn.json](./333551-without-a-dawn.json) |
 | Without A Hitch | 381168 | [381168-without-a-hitch.json](./381168-without-a-hitch.json) |
 | Without A Roof (W.A.R.) | 108637 | [108637-without-a-roof-w-a-r.json](./108637-without-a-roof-w-a-r.json) |
+| Without a Voice: Blooming Edition | 300541 | [300541-without-a-voice-blooming-edition.json](./300541-without-a-voice-blooming-edition.json) |
 | Without End | 213842 | [213842-without-end.json](./213842-without-end.json) |
 | Without Escape | 229134 | [229134-without-escape.json](./229134-without-escape.json) |
 | Without Escape | 270394 | [270394-without-escape.json](./270394-without-escape.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes | 87056 | [87056-wordscapes.json](./87056-wordscapes.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
+| Wordscapes Uncrossed | 300538 | [300538-wordscapes-uncrossed.json](./300538-wordscapes-uncrossed.json) |
 | Wordsdom 2 | 108287 | [108287-wordsdom-2.json](./108287-wordsdom-2.json) |
 | Wordsdom2 | 105835 | [105835-wordsdom2.json](./105835-wordsdom2.json) |
 | Wordsearch Attack | 368543 | [368543-wordsearch-attack.json](./368543-wordsearch-attack.json) |
