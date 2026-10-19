@@ -8172,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 101 | 209368 | [209368-simulation-101.json](./209368-simulation-101.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
+| Simulation Gold Bundle: Flight Fishing Construction | 295694 | [295694-simulation-gold-bundle-flight-fishing-construction.json](./295694-simulation-gold-bundle-flight-fishing-construction.json) |
 | Simulation Platinum Bundle: Bus Construction Firefighting Lawn Mowing | 303879 | [303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json](./303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json) |
 | Simulation Pro Yakyuu | 38301 | [38301-simulation-pro-yakyuu.json](./38301-simulation-pro-yakyuu.json) |
 | Simulation RPG Tsukuuru | 209973 | [209973-simulation-rpg-tsukuuru.json](./209973-simulation-rpg-tsukuuru.json) |
@@ -11570,6 +11571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socially Awkward | 359199 | [359199-socially-awkward.json](./359199-socially-awkward.json) |
 | Society's Paradigms | 152833 | [152833-societys-paradigms.json](./152833-societys-paradigms.json) |
 | Socioball | 128558 | [128558-socioball.json](./128558-socioball.json) |
+| Sociopat | 295620 | [295620-sociopat.json](./295620-sociopat.json) |
 | Sociopath | 410211 | [410211-sociopath.json](./410211-sociopath.json) |
 | Sock and Awe | 174581 | [174581-sock-and-awe.json](./174581-sock-and-awe.json) |
 | Sock Dating Simulator | 341321 | [341321-sock-dating-simulator.json](./341321-sock-dating-simulator.json) |
@@ -11739,6 +11741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Blanka | 150613 | [150613-sol-blanka.json](./150613-sol-blanka.json) |
 | Sol Cesto | 286327 | [286327-sol-cesto.json](./286327-sol-cesto.json) |
 | Sol Cresta | 148382 | [148382-sol-cresta.json](./148382-sol-cresta.json) |
+| Sol Cresta Complete Set | 295693 | [295693-sol-cresta-complete-set.json](./295693-sol-cresta-complete-set.json) |
 | Sol Cresta: Dramatic DLC | 201018 | [201018-sol-cresta-dramatic-dlc.json](./201018-sol-cresta-dramatic-dlc.json) |
 | Sol Cresta: Dramatic Edition | 199868 | [199868-sol-cresta-dramatic-edition.json](./199868-sol-cresta-dramatic-edition.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
@@ -13681,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulscape | 300823 | [300823-soulscape.json](./300823-soulscape.json) |
 | Soulscape | 377565 | [377565-soulscape.json](./377565-soulscape.json) |
 | Soulscape 2: Fragments of the Present | 374380 | [374380-soulscape-2-fragments-of-the-present.json](./374380-soulscape-2-fragments-of-the-present.json) |
+| SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
@@ -16370,6 +16374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob's Game Frenzy | 88949 | [88949-spongebobs-game-frenzy.json](./88949-spongebobs-game-frenzy.json) |
 | SpongeBob’s Idle Adventures | 266907 | [266907-spongebob-s-idle-adventures.json](./266907-spongebob-s-idle-adventures.json) |
 | SpongeBob's Pizza Toss | 326710 | [326710-spongebobs-pizza-toss.json](./326710-spongebobs-pizza-toss.json) |
+| SpongeBob's Truth or Square | 295621 | [295621-spongebobs-truth-or-square.json](./295621-spongebobs-truth-or-square.json) |
 | SpongeBob's Truth or Square | 5190 | [5190-spongebobs-truth-or-square.json](./5190-spongebobs-truth-or-square.json) |
 | SpongeBob’s Undersea Odyssey | 381368 | [381368-spongebob-s-undersea-odyssey.json](./381368-spongebob-s-undersea-odyssey.json) |
 | Spongiorno: Schwammfred Moving Company | 373082 | [373082-spongiorno-schwammfred-moving-company.json](./373082-spongiorno-schwammfred-moving-company.json) |
