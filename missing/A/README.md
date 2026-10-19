@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AliveZ | 327925 | [327925-alivez.json](./327925-alivez.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya: Timelink | 373257 | [373257-aliya-timelink.json](./373257-aliya-timelink.json) |
+| Aliya's Ascent | 274348 | [274348-aliyas-ascent.json](./274348-aliyas-ascent.json) |
 | Aliya's Awakening: Dooge 2042 | 341887 | [341887-aliyas-awakening-dooge-2042.json](./341887-aliyas-awakening-dooge-2042.json) |
 | Alizarin Tetris | 93028 | [93028-alizarin-tetris.json](./93028-alizarin-tetris.json) |
 | Alize | 399762 | [399762-alize.json](./399762-alize.json) |
@@ -8403,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollo 13: The Lost Tapes VR | 297538 | [297538-apollo-13-the-lost-tapes-vr.json](./297538-apollo-13-the-lost-tapes-vr.json) |
 | Apollo 18 | 13792 | [13792-apollo-18.json](./13792-apollo-18.json) |
 | Apollo 18: The Moon Missions | 69735 | [69735-apollo-18-the-moon-missions.json](./69735-apollo-18-the-moon-missions.json) |
+| Apollo Cosmic | 274341 | [274341-apollo-cosmic.json](./274341-apollo-cosmic.json) |
 | Apollo Justice: Ace Attorney | 253010 | [253010-apollo-justice-ace-attorney.json](./253010-apollo-justice-ace-attorney.json) |
 | Apollo Justice: Ace Attorney - Appeal to Truth | 302595 | [302595-apollo-justice-ace-attorney-appeal-to-truth.json](./302595-apollo-justice-ace-attorney-appeal-to-truth.json) |
 | Apollo Justice: Ace Attorney 4 | 318771 | [318771-apollo-justice-ace-attorney-4.json](./318771-apollo-justice-ace-attorney-4.json) |
@@ -10383,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmania | 284355 | [284355-arrowmania.json](./284355-arrowmania.json) |
 | ArrowMongers | 240808 | [240808-arrowmongers.json](./240808-arrowmongers.json) |
+| Arrows and Antiquity | 274377 | [274377-arrows-and-antiquity.json](./274377-arrows-and-antiquity.json) |
 | Arrows Left | 242505 | [242505-arrows-left.json](./242505-arrows-left.json) |
 | Arrows: Puzzle Escape | 383565 | [383565-arrows-puzzle-escape.json](./383565-arrows-puzzle-escape.json) |
 | Arrowscapades | 401766 | [401766-arrowscapades.json](./401766-arrowscapades.json) |
