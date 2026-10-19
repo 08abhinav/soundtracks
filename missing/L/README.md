@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
+| Lass ich Sliden | 295084 | [295084-lass-ich-sliden.json](./295084-lass-ich-sliden.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
 | Lasso | 346094 | [346094-lasso.json](./346094-lasso.json) |
 | Lasso | 40084 | [40084-lasso.json](./40084-lasso.json) |
@@ -6672,6 +6673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LSD: Revamped | 25031 | [25031-lsd-revamped.json](./25031-lsd-revamped.json) |
 | LSD: The Game | 116998 | [116998-lsd-the-game.json](./116998-lsd-the-game.json) |
 | LSI Puzzle: Last One | 385752 | [385752-lsi-puzzle-last-one.json](./385752-lsi-puzzle-last-one.json) |
+| LTA: Light-years! Thrusters! Action! | 295166 | [295166-lta-light-years-thrusters-action.json](./295166-lta-light-years-thrusters-action.json) |
 | Lu Bu Maker | 104902 | [104902-lu-bu-maker.json](./104902-lu-bu-maker.json) |
 | Lu Dajishen II | 128321 | [128321-lu-dajishen-ii.json](./128321-lu-dajishen-ii.json) |
 | Lu Dreams | 376606 | [376606-lu-dreams.json](./376606-lu-dreams.json) |
