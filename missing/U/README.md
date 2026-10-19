@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrushed Defence | 236342 | [236342-unrushed-defence.json](./236342-unrushed-defence.json) |
 | Unsacrifice | 111517 | [111517-unsacrifice.json](./111517-unsacrifice.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
+| Unsane 2 | 258342 | [258342-unsane-2.json](./258342-unsane-2.json) |
 | Unscramble | 88656 | [88656-unscramble.json](./88656-unscramble.json) |
 | Unscramble Heroes | 218108 | [218108-unscramble-heroes.json](./218108-unscramble-heroes.json) |
 | Unscramble Words | 88730 | [88730-unscramble-words.json](./88730-unscramble-words.json) |
