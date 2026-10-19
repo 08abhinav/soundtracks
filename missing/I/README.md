@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruder | 313504 | [313504-intruder.json](./313504-intruder.json) |
 | Intruder | 378208 | [378208-intruder.json](./378208-intruder.json) |
 | Intruder -Sakura Yashiki no Tansaku- | 138224 | [138224-intruder-sakura-yashiki-no-tansaku.json](./138224-intruder-sakura-yashiki-no-tansaku.json) |
+| Intruder Alert | 279486 | [279486-intruder-alert.json](./279486-intruder-alert.json) |
 | Intruder Alert: Ixian Operations | 33126 | [33126-intruder-alert-ixian-operations.json](./33126-intruder-alert-ixian-operations.json) |
 | Intruder Combat Training | 337121 | [337121-intruder-combat-training.json](./337121-intruder-combat-training.json) |
 | Intruder in Antiquonia | 178382 | [178382-intruder-in-antiquonia.json](./178382-intruder-in-antiquonia.json) |
