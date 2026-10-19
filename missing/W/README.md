@@ -2117,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Dwell in Possibility | 186633 | [186633-we-dwell-in-possibility.json](./186633-we-dwell-in-possibility.json) |
 | We Escape Together | 373719 | [373719-we-escape-together.json](./373719-we-escape-together.json) |
+| We Escaped a Twisted Game | 261678 | [261678-we-escaped-a-twisted-game.json](./261678-we-escaped-a-twisted-game.json) |
 | We Got Another Year | 177918 | [177918-we-got-another-year.json](./177918-we-got-another-year.json) |
 | We got bored lol | 309201 | [309201-we-got-bored-lol.json](./309201-we-got-bored-lol.json) |
 | We Got Compagnie! | 263124 | [263124-we-got-compagnie.json](./263124-we-got-compagnie.json) |
@@ -6789,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Floor | 177032 | [177032-wrong-floor.json](./177032-wrong-floor.json) |
 | Wrong Floor | 348898 | [348898-wrong-floor.json](./348898-wrong-floor.json) |
 | Wrong God | 253808 | [253808-wrong-god.json](./253808-wrong-god.json) |
+| Wrong Landing | 261645 | [261645-wrong-landing.json](./261645-wrong-landing.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
 | Wrongly Accused | 384115 | [384115-wrongly-accused.json](./384115-wrongly-accused.json) |
