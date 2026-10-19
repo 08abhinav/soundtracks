@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want to be Popular! | 183902 | [183902-i-want-to-be-popular.json](./183902-i-want-to-be-popular.json) |
 | I Want to Believe | 319728 | [319728-i-want-to-believe.json](./319728-i-want-to-believe.json) |
 | I Want To Cook Like Mom | 401181 | [401181-i-want-to-cook-like-mom.json](./401181-i-want-to-cook-like-mom.json) |
+| I want to die | 271629 | [271629-i-want-to-die.json](./271629-i-want-to-die.json) |
 | I Want to Die: Remake | 327230 | [327230-i-want-to-die-remake.json](./327230-i-want-to-die-remake.json) |
 | I Want to Drive That Van | 357315 | [357315-i-want-to-drive-that-van.json](./357315-i-want-to-drive-that-van.json) |
 | I Want to Go for a Walk | 341020 | [341020-i-want-to-go-for-a-walk.json](./341020-i-want-to-go-for-a-walk.json) |
@@ -2112,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Memory of the Eternity | 183370 | [183370-in-memory-of-the-eternity.json](./183370-in-memory-of-the-eternity.json) |
 | In Memory of Titan | 69314 | [69314-in-memory-of-titan.json](./69314-in-memory-of-titan.json) |
 | In Misery: Episode 1 - The Farm | 290507 | [290507-in-misery-episode-1-the-farm.json](./290507-in-misery-episode-1-the-farm.json) |
+| In My Brain | 271630 | [271630-in-my-brain.json](./271630-in-my-brain.json) |
 | In My Defense | 148284 | [148284-in-my-defense.json](./148284-in-my-defense.json) |
 | In my Father's House are Many Rooms | 388405 | [388405-in-my-fathers-house-are-many-rooms.json](./388405-in-my-fathers-house-are-many-rooms.json) |
 | In My Friend Carrie's Car | 135020 | [135020-in-my-friend-carries-car.json](./135020-in-my-friend-carries-car.json) |
@@ -3020,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
 | Infra Et Intus | 400509 | [400509-infra-et-intus.json](./400509-infra-et-intus.json) |
 | Infra: Underground | 255360 | [255360-infra-underground.json](./255360-infra-underground.json) |
+| Infrared | 271631 | [271631-infrared.json](./271631-infrared.json) |
 | Infraspace | 149691 | [149691-infraspace.json](./149691-infraspace.json) |
 | Infraworld: Coma Moonlight | 256832 | [256832-infraworld-coma-moonlight.json](./256832-infraworld-coma-moonlight.json) |
 | Infraworld: The Hatehammer | 261457 | [261457-infraworld-the-hatehammer.json](./261457-infraworld-the-hatehammer.json) |
