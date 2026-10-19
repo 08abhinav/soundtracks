@@ -2274,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incident Commander | 121073 | [121073-incident-commander.json](./121073-incident-commander.json) |
 | Incident In Oakwood | 285413 | [285413-incident-in-oakwood.json](./285413-incident-in-oakwood.json) |
 | Incident Mahjong | 320828 | [320828-incident-mahjong.json](./320828-incident-mahjong.json) |
+| Incident Survival | 297871 | [297871-incident-survival.json](./297871-incident-survival.json) |
 | Incinera: Pandemonium | 379865 | [379865-incinera-pandemonium.json](./379865-incinera-pandemonium.json) |
 | Incineration | 260141 | [260141-incineration.json](./260141-incineration.json) |
 | Incision | 166062 | [166062-incision.json](./166062-incision.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Volleyball 2009 | 24758 | [24758-international-volleyball-2009.json](./24758-international-volleyball-2009.json) |
 | International Wrestling Simulator 2018 | 112188 | [112188-international-wrestling-simulator-2018.json](./112188-international-wrestling-simulator-2018.json) |
 | Internet Addicted Youth 2005 | 259080 | [259080-internet-addicted-youth-2005.json](./259080-internet-addicted-youth-2005.json) |
+| Internet Cafe & Supermarket Simulator 2024 | 297831 | [297831-internet-cafe-and-supermarket-simulator-2024.json](./297831-internet-cafe-and-supermarket-simulator-2024.json) |
 | Internet Cafe 98 | 412441 | [412441-internet-cafe-98.json](./412441-internet-cafe-98.json) |
 | Internet Cafe Creator | 262243 | [262243-internet-cafe-creator.json](./262243-internet-cafe-creator.json) |
 | Internet Cafe Evolution | 272209 | [272209-internet-cafe-evolution.json](./272209-internet-cafe-evolution.json) |
