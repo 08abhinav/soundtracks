@@ -2505,6 +2505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartless | 339834 | [339834-heartless.json](./339834-heartless.json) |
 | Heartless & Dreadful: Return by 72 hours | 192844 | [192844-heartless-and-dreadful-return-by-72-hours.json](./192844-heartless-and-dreadful-return-by-72-hours.json) |
 | Heartless Angel | 181935 | [181935-heartless-angel.json](./181935-heartless-angel.json) |
+| Heartless Corporation | 271625 | [271625-heartless-corporation.json](./271625-heartless-corporation.json) |
 | Heartlight | 57585 | [57585-heartlight.json](./57585-heartlight.json) |
 | Heartlight PC | 408254 | [408254-heartlight-pc.json](./408254-heartlight-pc.json) |
 | Heartlines | 390264 | [390264-heartlines.json](./390264-heartlines.json) |
@@ -3044,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Revealed II | 139895 | [139895-hell-revealed-ii.json](./139895-hell-revealed-ii.json) |
 | Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
 | Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
+| Hell Scream | 271624 | [271624-hell-scream.json](./271624-hell-scream.json) |
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
 | Hell Slayer | 232446 | [232446-hell-slayer.json](./232446-hell-slayer.json) |
 | Hell Spheres | 285455 | [285455-hell-spheres.json](./285455-hell-spheres.json) |
@@ -3923,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
 | Hentai Rika | 340448 | [340448-hentai-rika.json](./340448-hentai-rika.json) |
+| Hentai Rina | 271623 | [271623-hentai-rina.json](./271623-hentai-rina.json) |
 | Hentai Room | 230781 | [230781-hentai-room.json](./230781-hentai-room.json) |
 | Hentai Roxy | 411067 | [411067-hentai-roxy.json](./411067-hentai-roxy.json) |
 | Hentai Sake | 411070 | [411070-hentai-sake.json](./411070-hentai-sake.json) |
@@ -5483,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hideaways: Foggy Valley | 84519 | [84519-hideaways-foggy-valley.json](./84519-hideaways-foggy-valley.json) |
 | Hideko | 326201 | [326201-hideko.json](./326201-hideko.json) |
 | Hiden Inyou Kikouhou: Ca Da | 286595 | [286595-hiden-inyou-kikouhou-ca-da.json](./286595-hiden-inyou-kikouhou-ca-da.json) |
+| HideNProp | 271622 | [271622-hidenprop.json](./271622-hidenprop.json) |
 | HideNSeek | 201079 | [201079-hidenseek.json](./201079-hidenseek.json) |
 | Hideous | 348801 | [348801-hideous.json](./348801-hideous.json) |
 | Hideous Bill and the Gi-Gants | 25718 | [25718-hideous-bill-and-the-gi-gants.json](./25718-hideous-bill-and-the-gi-gants.json) |
@@ -5835,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillbilly Apocalypse | 111709 | [111709-hillbilly-apocalypse.json](./111709-hillbilly-apocalypse.json) |
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
+| Hillbomb | 271621 | [271621-hillbomb.json](./271621-hillbomb.json) |
 | Hillmain Hotel | 196668 | [196668-hillmain-hotel.json](./196668-hillmain-hotel.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
 | Hills in the Moonlight | 307587 | [307587-hills-in-the-moonlight.json](./307587-hills-in-the-moonlight.json) |
@@ -7746,6 +7751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
 | Hot Racing | 246461 | [246461-hot-racing.json](./246461-hot-racing.json) |
+| Hot Redheads | 271620 | [271620-hot-redheads.json](./271620-hot-redheads.json) |
 | Hot Rider | 252257 | [252257-hot-rider.json](./252257-hot-rider.json) |
 | Hot Rider Racing Simulator | 290428 | [290428-hot-rider-racing-simulator.json](./290428-hot-rider-racing-simulator.json) |
 | Hot Roads | 189922 | [189922-hot-roads.json](./189922-hot-roads.json) |
@@ -8651,6 +8657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hummingbird Mind | 60454 | [60454-hummingbird-mind.json](./60454-hummingbird-mind.json) |
 | Hummingbird's Crown | 207241 | [207241-hummingbirds-crown.json](./207241-hummingbirds-crown.json) |
 | Humorpractor | 180845 | [180845-humorpractor.json](./180845-humorpractor.json) |
+| Humpi and Hemicube | 271619 | [271619-humpi-and-hemicube.json](./271619-humpi-and-hemicube.json) |
 | Humpsters | 71220 | [71220-humpsters.json](./71220-humpsters.json) |
 | Humpty's Castle Adventure | 210053 | [210053-humptys-castle-adventure.json](./210053-humptys-castle-adventure.json) |
 | Humpty's Scramble | 144139 | [144139-humptys-scramble.json](./144139-humptys-scramble.json) |
@@ -9213,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Survive 3D | 303042 | [303042-hyper-survive-3d.json](./303042-hyper-survive-3d.json) |
 | Hyper Tag | 340498 | [340498-hyper-tag.json](./340498-hyper-tag.json) |
 | Hyper Tank | 94672 | [94672-hyper-tank.json](./94672-hyper-tank.json) |
+| Hyper Tanks | 271618 | [271618-hyper-tanks.json](./271618-hyper-tanks.json) |
 | Hyper Team Recon | 138209 | [138209-hyper-team-recon.json](./138209-hyper-team-recon.json) |
 | Hyper Thruster | 409534 | [409534-hyper-thruster.json](./409534-hyper-thruster.json) |
 | Hyper Thunder Run 198X | 395575 | [395575-hyper-thunder-run-198x.json](./395575-hyper-thunder-run-198x.json) |
