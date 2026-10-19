@@ -6239,6 +6239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Tapper vs the Krampus Fellowship Clan | 297568 | [297568-bird-tapper-vs-the-krampus-fellowship-clan.json](./297568-bird-tapper-vs-the-krampus-fellowship-clan.json) |
 | Bird Tapper: Purple Platoon Panic | 297567 | [297567-bird-tapper-purple-platoon-panic.json](./297567-bird-tapper-purple-platoon-panic.json) |
 | Bird Vs Bird | 277417 | [277417-bird-vs-bird.json](./277417-bird-vs-bird.json) |
+| Bird Watch: Central Park | 256670 | [256670-bird-watch-central-park.json](./256670-bird-watch-central-park.json) |
 | Bird Watching Simulator | 260559 | [260559-bird-watching-simulator.json](./260559-bird-watching-simulator.json) |
 | Bird Week | 48543 | [48543-bird-week.json](./48543-bird-week.json) |
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
@@ -6415,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Generations: Orbital | 49513 | [49513-bit-generations-orbital.json](./49513-bit-generations-orbital.json) |
 | Bit Generations: Soundvoyager | 49482 | [49482-bit-generations-soundvoyager.json](./49482-bit-generations-soundvoyager.json) |
 | Bit Heroes | 67937 | [67937-bit-heroes.json](./67937-bit-heroes.json) |
+| Bit Heroes Quest | 256664 | [256664-bit-heroes-quest.json](./256664-bit-heroes-quest.json) |
 | Bit Heroes Runner | 263569 | [263569-bit-heroes-runner.json](./263569-bit-heroes-runner.json) |
 | Bit Hotel | 227988 | [227988-bit-hotel.json](./227988-bit-hotel.json) |
 | Bit Legend | 137365 | [137365-bit-legend.json](./137365-bit-legend.json) |
@@ -6432,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Pit | 176429 | [176429-bit-pit.json](./176429-bit-pit.json) |
 | Bit Pong | 182172 | [182172-bit-pong.json](./182172-bit-pong.json) |
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
+| Bit Reverse | 256665 | [256665-bit-reverse.json](./256665-bit-reverse.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
@@ -7403,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Trail | 293100 | [293100-blazing-trail.json](./293100-blazing-trail.json) |
 | Blazing War | 203915 | [203915-blazing-war.json](./203915-blazing-war.json) |
 | Blazing Wings | 70033 | [70033-blazing-wings.json](./70033-blazing-wings.json) |
+| BlazingAngel Mistletear | 256671 | [256671-blazingangel-mistletear.json](./256671-blazingangel-mistletear.json) |
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
@@ -8294,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodbrand | 417333 | [417333-bloodbrand.json](./417333-bloodbrand.json) |
 | Bloodbreaker: Labyrinth of the Witch | 361834 | [361834-bloodbreaker-labyrinth-of-the-witch.json](./361834-bloodbreaker-labyrinth-of-the-witch.json) |
 | BloodDome Classic | 254140 | [254140-blooddome-classic.json](./254140-blooddome-classic.json) |
+| Bloodecay | 256668 | [256668-bloodecay.json](./256668-bloodecay.json) |
 | Blooded Fields | 217865 | [217865-blooded-fields.json](./217865-blooded-fields.json) |
 | Bloodfall: The First Temple | 385952 | [385952-bloodfall-the-first-temple.json](./385952-bloodfall-the-first-temple.json) |
 | Bloodfire | 367982 | [367982-bloodfire.json](./367982-bloodfire.json) |
