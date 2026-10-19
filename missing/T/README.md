@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Aluxes | 61621 | [61621-temple-of-aluxes.json](./61621-temple-of-aluxes.json) |
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
+| Temple of Azathoth | 271060 | [271060-temple-of-azathoth.json](./271060-temple-of-azathoth.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
 | Temple of Causality | 286951 | [286951-temple-of-causality.json](./286951-temple-of-causality.json) |
 | Temple of Cerberus | 58117 | [58117-temple-of-cerberus.json](./58117-temple-of-cerberus.json) |
@@ -5253,6 +5254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Doctrine | 16651 | [16651-the-castle-doctrine.json](./16651-the-castle-doctrine.json) |
 | The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
+| The Castle of Koohoo | 271062 | [271062-the-castle-of-koohoo.json](./271062-the-castle-of-koohoo.json) |
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
 | The Castle of Time | 197215 | [197215-the-castle-of-time.json](./197215-the-castle-of-time.json) |
 | The Castles of Burgundy | 115539 | [115539-the-castles-of-burgundy.json](./115539-the-castles-of-burgundy.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Colonists | 75065 | [75065-the-colonists.json](./75065-the-colonists.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
+| The Colony 2044 | 271081 | [271081-the-colony-2044.json](./271081-the-colony-2044.json) |
 | The Colorado Cactus Curcuit | 364680 | [364680-the-colorado-cactus-curcuit.json](./364680-the-colorado-cactus-curcuit.json) |
 | The Colored Moth | 184070 | [184070-the-colored-moth.json](./184070-the-colored-moth.json) |
 | The Colorful Biplane | 377719 | [377719-the-colorful-biplane.json](./377719-the-colorful-biplane.json) |
@@ -6990,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Station: Collector's Edition | 53737 | [53737-the-final-station-collectors-edition.json](./53737-the-final-station-collectors-edition.json) |
 | The Final Station: The Only Traitor | 124810 | [124810-the-final-station-the-only-traitor.json](./124810-the-final-station-the-only-traitor.json) |
 | The Final Take | 34480 | [34480-the-final-take.json](./34480-the-final-take.json) |
+| The Final Threat | 271061 | [271061-the-final-threat.json](./271061-the-final-threat.json) |
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
@@ -9721,6 +9725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loop VR | 97919 | [97919-the-loop-vr.json](./97919-the-loop-vr.json) |
 | The Loopholes Chronicles | 124185 | [124185-the-loopholes-chronicles.json](./124185-the-loopholes-chronicles.json) |
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
+| The Lorax: Truffula Shuffula | 271068 | [271068-the-lorax-truffula-shuffula.json](./271068-the-lorax-truffula-shuffula.json) |
 | The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
 | The Lord of Lightning | 241843 | [241843-the-lord-of-lightning.json](./241843-the-lord-of-lightning.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
@@ -10082,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mask: Mayhem | 255333 | [255333-the-mask-mayhem.json](./255333-the-mask-mayhem.json) |
 | The Masked Mage | 110947 | [110947-the-masked-mage.json](./110947-the-masked-mage.json) |
 | The Masked Prisoner | 217000 | [217000-the-masked-prisoner.json](./217000-the-masked-prisoner.json) |
+| The Masque of Red Death | 271065 | [271065-the-masque-of-red-death.json](./271065-the-masque-of-red-death.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
