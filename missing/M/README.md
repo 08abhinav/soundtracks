@@ -7683,6 +7683,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michinoku Hitou Koimonogatari Kai | 64660 | [64660-michinoku-hitou-koimonogatari-kai.json](./64660-michinoku-hitou-koimonogatari-kai.json) |
 | Mickey & Friends | 198815 | [198815-mickey-and-friends.json](./198815-mickey-and-friends.json) |
 | Mickey & Friends | 198816 | [198816-mickey-and-friends.json](./198816-mickey-and-friends.json) |
+| Mickey & Minnie | 281882 | [281882-mickey-and-minnie.json](./281882-mickey-and-minnie.json) |
+| Mickey e Cel. Cintra | 281893 | [281893-mickey-e-cel-cintra.json](./281893-mickey-e-cel-cintra.json) |
 | Mickey in the Great Outdoors | 233960 | [233960-mickey-in-the-great-outdoors.json](./233960-mickey-in-the-great-outdoors.json) |
 | Mickey Mania 2 | 256371 | [256371-mickey-mania-2.json](./256371-mickey-mania-2.json) |
 | Mickey Mania 7 | 242110 | [242110-mickey-mania-7.json](./242110-mickey-mania-7.json) |
