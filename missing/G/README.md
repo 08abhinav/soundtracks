@@ -6616,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gremlin Invasion: Survivor | 35724 | [35724-gremlin-invasion-survivor.json](./35724-gremlin-invasion-survivor.json) |
 | Gremlins | 25673 | [25673-gremlins.json](./25673-gremlins.json) |
 | Gremlins 2: The New Batch | 119197 | [119197-gremlins-2-the-new-batch.json](./119197-gremlins-2-the-new-batch.json) |
+| Gremlins 2: The New Batch | 264994 | [264994-gremlins-2-the-new-batch.json](./264994-gremlins-2-the-new-batch.json) |
 | Gremlins Gizmo | 50623 | [50623-gremlins-gizmo.json](./50623-gremlins-gizmo.json) |
 | Gremlins Unleashed | 50035 | [50035-gremlins-unleashed.json](./50035-gremlins-unleashed.json) |
 | Gremlins, Inc.: The Governor Edition | 53069 | [53069-gremlins-inc-the-governor-edition.json](./53069-gremlins-inc-the-governor-edition.json) |
@@ -7718,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero II: Indonesia 2018 | 293740 | [293740-guitar-hero-ii-indonesia-2018.json](./293740-guitar-hero-ii-indonesia-2018.json) |
 | Guitar Hero II: Indonesia 2021 | 331737 | [331737-guitar-hero-ii-indonesia-2021.json](./331737-guitar-hero-ii-indonesia-2021.json) |
 | Guitar Hero III Mobile | 85864 | [85864-guitar-hero-iii-mobile.json](./85864-guitar-hero-iii-mobile.json) |
+| Guitar Hero III Mobile: Song Pack 1 | 265027 | [265027-guitar-hero-iii-mobile-song-pack-1.json](./265027-guitar-hero-iii-mobile-song-pack-1.json) |
 | Guitar Hero III Suicide | 310672 | [310672-guitar-hero-iii-suicide.json](./310672-guitar-hero-iii-suicide.json) |
 | Guitar Hero III: Game Hits | 360102 | [360102-guitar-hero-iii-game-hits.json](./360102-guitar-hero-iii-game-hits.json) |
 | Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
