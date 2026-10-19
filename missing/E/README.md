@@ -1641,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elektrek | 57589 | [57589-elektrek.json](./57589-elektrek.json) |
 | Elektrik | 76153 | [76153-elektrik.json](./76153-elektrik.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
+| Elemage | 288643 | [288643-elemage.json](./288643-elemage.json) |
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
 | Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
