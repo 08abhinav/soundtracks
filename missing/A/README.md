@@ -3588,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aibou DS | 269543 | [269543-aibou-ds.json](./269543-aibou-ds.json) |
 | AiCaterine | 259248 | [259248-aicaterine.json](./259248-aicaterine.json) |
 | Aida's Bizarre Halloween | 216348 | [216348-aidas-bizarre-halloween.json](./216348-aidas-bizarre-halloween.json) |
+| Aidan in Danger | 296281 | [296281-aidan-in-danger.json](./296281-aidan-in-danger.json) |
 | Aidas Strange Christmas | 165507 | [165507-aidas-strange-christmas.json](./165507-aidas-strange-christmas.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
@@ -6021,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelia's Diner | 300769 | [300769-amelias-diner.json](./300769-amelias-diner.json) |
 | Amelia's Garden | 319780 | [319780-amelias-garden.json](./319780-amelias-garden.json) |
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
+| Amelie And The Lost Spirit | 296263 | [296263-amelie-and-the-lost-spirit.json](./296263-amelie-and-the-lost-spirit.json) |
 | Amelite | 195462 | [195462-amelite.json](./195462-amelite.json) |
 | Amelorn | 379127 | [379127-amelorn.json](./379127-amelorn.json) |
 | Amen Jesus Flap | 61442 | [61442-amen-jesus-flap.json](./61442-amen-jesus-flap.json) |
