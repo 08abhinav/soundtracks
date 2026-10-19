@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem in Another World | 257952 | [257952-harem-in-another-world.json](./257952-harem-in-another-world.json) |
 | Harem Inn | 371038 | [371038-harem-inn.json](./371038-harem-inn.json) |
 | Harem Little Twins | 98453 | [98453-harem-little-twins.json](./98453-harem-little-twins.json) |
+| Harem Nanka Nozondenai!: Undesired Harem | 303884 | [303884-harem-nanka-nozondenai-undesired-harem.json](./303884-harem-nanka-nozondenai-undesired-harem.json) |
 | Harem of Gods | 359046 | [359046-harem-of-gods.json](./359046-harem-of-gods.json) |
 | Harem of Lust | 359765 | [359765-harem-of-lust.json](./359765-harem-of-lust.json) |
 | Harem of Nurses | 218137 | [218137-harem-of-nurses.json](./218137-harem-of-nurses.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Sweet Skier | 328521 | [328521-hentai-girls-sweet-skier.json](./328521-hentai-girls-sweet-skier.json) |
 | Hentai Girls: Ultra Complete | 324467 | [324467-hentai-girls-ultra-complete.json](./324467-hentai-girls-ultra-complete.json) |
 | Hentai Girls: Ultra Definitive | 317285 | [317285-hentai-girls-ultra-definitive.json](./317285-hentai-girls-ultra-definitive.json) |
+| Hentai Girls: Ultra Deluxe | 303859 | [303859-hentai-girls-ultra-deluxe.json](./303859-hentai-girls-ultra-deluxe.json) |
 | Hentai Girls: Ultra Extended | 308817 | [308817-hentai-girls-ultra-extended.json](./308817-hentai-girls-ultra-extended.json) |
 | Hentai Girls: Ultra Premium | 316216 | [316216-hentai-girls-ultra-premium.json](./316216-hentai-girls-ultra-premium.json) |
 | Hentai Girls: Ultra Special | 312086 | [312086-hentai-girls-ultra-special.json](./312086-hentai-girls-ultra-special.json) |
