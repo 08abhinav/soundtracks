@@ -1431,6 +1431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapiens League | 232437 | [232437-sapiens-league.json](./232437-sapiens-league.json) |
 | Sapling | 167600 | [167600-sapling.json](./167600-sapling.json) |
 | Sapling Wars | 333008 | [333008-sapling-wars.json](./333008-sapling-wars.json) |
+| Sapo & Watch | 308019 | [308019-sapo-and-watch.json](./308019-sapo-and-watch.json) |
 | Sapo 2 | 332291 | [332291-sapo-2.json](./332291-sapo-2.json) |
 | Sapo Xulé and the Unwanted Marriage | 259667 | [259667-sapo-xule-and-the-unwanted-marriage.json](./259667-sapo-xule-and-the-unwanted-marriage.json) |
 | Sapo Xulé vs. Os Invasores do Brejo | 70287 | [70287-sapo-xule-vs-os-invasores-do-brejo.json](./70287-sapo-xule-vs-os-invasores-do-brejo.json) |
@@ -13252,6 +13253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcerian Additional Scenario Vol. 3: Pyramid Sorcerian | 137360 | [137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json](./137360-sorcerian-additional-scenario-vol-3-pyramid-sorcerian.json) |
 | Sorcerian Online | 230853 | [230853-sorcerian-online.json](./230853-sorcerian-online.json) |
 | SorcerLand | 212267 | [212267-sorcerland.json](./212267-sorcerland.json) |
+| Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
@@ -17437,6 +17439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
+| Star Fox | 308046 | [308046-star-fox.json](./308046-star-fox.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
 | Star Fox 2 | 9674 | [9674-star-fox-2.json](./9674-star-fox-2.json) |
 | Star Fox 2D: War of Lylat | 324097 | [324097-star-fox-2d-war-of-lylat.json](./324097-star-fox-2d-war-of-lylat.json) |
