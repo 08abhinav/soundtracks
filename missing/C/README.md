@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChaosWorld | 221183 | [221183-chaosworld.json](./221183-chaosworld.json) |
 | Chaotic Airport Construction Manager | 149608 | [149608-chaotic-airport-construction-manager.json](./149608-chaotic-airport-construction-manager.json) |
 | Chaotic Cats | 362988 | [362988-chaotic-cats.json](./362988-chaotic-cats.json) |
+| Chaotic Conflicts | 292937 | [292937-chaotic-conflicts.json](./292937-chaotic-conflicts.json) |
 | Chaotic Customer | 301120 | [301120-chaotic-customer.json](./301120-chaotic-customer.json) |
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
@@ -5584,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chokkan Asonde Rilakkuma | 279117 | [279117-chokkan-asonde-rilakkuma.json](./279117-chokkan-asonde-rilakkuma.json) |
 | Chokkan Crash Bandicoot | 210241 | [210241-chokkan-crash-bandicoot.json](./210241-chokkan-crash-bandicoot.json) |
 | Choko Loco 2 | 321179 | [321179-choko-loco-2.json](./321179-choko-loco-2.json) |
+| Choko Nana | 292930 | [292930-choko-nana.json](./292930-choko-nana.json) |
 | Chokotto Land | 64924 | [64924-chokotto-land.json](./64924-chokotto-land.json) |
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Chokushi Shite ha Naranai | 386999 | [386999-chokushi-shite-ha-naranai.json](./386999-chokushi-shite-ha-naranai.json) |
@@ -15134,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #3 | 313789 | [313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json](./313789-cynthia-hidden-in-the-moonshadow-accessory-pack-3.json) |
 | Cynthia: Hidden in the Moonshadow - Anniversary Edition | 331270 | [331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json](./331270-cynthia-hidden-in-the-moonshadow-anniversary-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Complete Edition | 283152 | [283152-cynthia-hidden-in-the-moonshadow-complete-edition.json](./283152-cynthia-hidden-in-the-moonshadow-complete-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Deluxe Edition | 292919 | [292919-cynthia-hidden-in-the-moonshadow-deluxe-edition.json](./292919-cynthia-hidden-in-the-moonshadow-deluxe-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Epic Edition | 339069 | [339069-cynthia-hidden-in-the-moonshadow-epic-edition.json](./339069-cynthia-hidden-in-the-moonshadow-epic-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
