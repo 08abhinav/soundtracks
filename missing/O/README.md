@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Last Box | 408015 | [408015-one-last-box.json](./408015-one-last-box.json) |
 | One Last Chance | 33057 | [33057-one-last-chance.json](./33057-one-last-chance.json) |
 | One Last Crane | 95330 | [95330-one-last-crane.json](./95330-one-last-crane.json) |
+| One Last Dinner | 295605 | [295605-one-last-dinner.json](./295605-one-last-dinner.json) |
 | One Last Game | 143742 | [143742-one-last-game.json](./143742-one-last-game.json) |
 | One Last Job | 330258 | [330258-one-last-job.json](./330258-one-last-job.json) |
 | One Last Journey | 350452 | [350452-one-last-journey.json](./350452-one-last-journey.json) |
@@ -1963,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Small Favor | 163859 | [163859-one-small-favor.json](./163859-one-small-favor.json) |
 | One Small Favor | 176929 | [176929-one-small-favor.json](./176929-one-small-favor.json) |
 | One Small Square Backyard | 209024 | [209024-one-small-square-backyard.json](./209024-one-small-square-backyard.json) |
+| One Socket | 295611 | [295611-one-socket.json](./295611-one-socket.json) |
 | One Sole Purpose | 27572 | [27572-one-sole-purpose.json](./27572-one-sole-purpose.json) |
 | One Song, One Life | 395278 | [395278-one-song-one-life.json](./395278-one-song-one-life.json) |
 | One Star | 28700 | [28700-one-star.json](./28700-one-star.json) |
