@@ -3304,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rabbit | 271655 | [271655-death-rabbit.json](./271655-death-rabbit.json) |
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
+| Death Race | 296182 | [296182-death-race.json](./296182-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Race 2600 | 414099 | [414099-death-race-2600.json](./414099-death-race-2600.json) |
 | Death Race Outer Space | 239676 | [239676-death-race-outer-space.json](./239676-death-race-outer-space.json) |
@@ -10178,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
 | Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
+| Dr. Despicable's Dastardly Deeds | 296194 | [296194-dr-despicables-dastardly-deeds.json](./296194-dr-despicables-dastardly-deeds.json) |
 | Dr. Dino -Doctor & Dentist games for boys girls | 232181 | [232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json](./232181-dr-dino-doctor-and-dentist-games-for-boys-girls.json) |
 | Dr. Doe's Chemistry Quiz | 205624 | [205624-dr-does-chemistry-quiz.json](./205624-dr-does-chemistry-quiz.json) |
 | Dr. Dolittle | 43255 | [43255-dr-dolittle.json](./43255-dr-dolittle.json) |
