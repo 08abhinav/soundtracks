@@ -3043,6 +3043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Maiden | 327817 | [327817-hell-maiden.json](./327817-hell-maiden.json) |
 | Hell Manager | 224102 | [224102-hell-manager.json](./224102-hell-manager.json) |
 | Hell Marys | 59979 | [59979-hell-marys.json](./59979-hell-marys.json) |
+| Hell Miner | 262813 | [262813-hell-miner.json](./262813-hell-miner.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
