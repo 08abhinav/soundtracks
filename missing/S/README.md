@@ -4719,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex with Stalin | 142719 | [142719-sex-with-stalin.json](./142719-sex-with-stalin.json) |
 | Sex with Teachers | 234110 | [234110-sex-with-teachers.json](./234110-sex-with-teachers.json) |
 | Sex with the Devil | 165543 | [165543-sex-with-the-devil.json](./165543-sex-with-the-devil.json) |
+| Sex with the Devil 2 | 260567 | [260567-sex-with-the-devil-2.json](./260567-sex-with-the-devil-2.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
 | Sex x Hex | 243381 | [243381-sex-x-hex.json](./243381-sex-x-hex.json) |
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
@@ -17101,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqrxz 2 | 62642 | [62642-sqrxz-2.json](./62642-sqrxz-2.json) |
 | Sqrxz III | 62640 | [62640-sqrxz-iii.json](./62640-sqrxz-iii.json) |
 | SQRZ | 360212 | [360212-sqrz.json](./360212-sqrz.json) |
+| Squab | 260531 | [260531-squab.json](./260531-squab.json) |
 | Squabble | 151597 | [151597-squabble.json](./151597-squabble.json) |
 | Squabble | 346738 | [346738-squabble.json](./346738-squabble.json) |
 | Squad | 9495 | [9495-squad.json](./9495-squad.json) |
@@ -17176,6 +17178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Smash | 394465 | [394465-square-smash.json](./394465-square-smash.json) |
 | Square Valley | 200051 | [200051-square-valley.json](./200051-square-valley.json) |
 | Square vs Triangles | 156054 | [156054-square-vs-triangles.json](./156054-square-vs-triangles.json) |
+| Square Word: Back to Work | 260545 | [260545-square-word-back-to-work.json](./260545-square-word-back-to-work.json) |
 | Square Word: Hello Winter! | 268960 | [268960-square-word-hello-winter.json](./268960-square-word-hello-winter.json) |
 | Square Worlds | 185538 | [185538-square-worlds.json](./185538-square-worlds.json) |
 | Square x Square | 55815 | [55815-square-x-square.json](./55815-square-x-square.json) |
@@ -26339,6 +26342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
+| Swordcar | 260521 | [260521-swordcar.json](./260521-swordcar.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
 | Swordfight | 40794 | [40794-swordfight.json](./40794-swordfight.json) |
 | Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
