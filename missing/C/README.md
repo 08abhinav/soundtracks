@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
+| Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
@@ -7727,6 +7728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
+| Cluaido | 297852 | [297852-cluaido.json](./297852-cluaido.json) |
 | Club | 347555 | [347555-club.json](./347555-club.json) |
 | Club 3DO: Station Invasion | 38830 | [38830-club-3do-station-invasion.json](./38830-club-3do-station-invasion.json) |
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
@@ -8469,6 +8471,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Football USA 96 | 46536 | [46536-college-football-usa-96.json](./46536-college-football-usa-96.json) |
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
 | College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
+| College Gay Sex: Episode 1 | 297928 | [297928-college-gay-sex-episode-1.json](./297928-college-gay-sex-episode-1.json) |
+| College Gay Sex: Episode 3 | 297930 | [297930-college-gay-sex-episode-3.json](./297930-college-gay-sex-episode-3.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
 | College Gay Sex: Episode 7 | 371061 | [371061-college-gay-sex-episode-7.json](./371061-college-gay-sex-episode-7.json) |
 | College Gay Sex: Episode 8 | 371063 | [371063-college-gay-sex-episode-8.json](./371063-college-gay-sex-episode-8.json) |
@@ -8493,6 +8497,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Sex: Episode 2 | 271651 | [271651-college-sex-episode-2.json](./271651-college-sex-episode-2.json) |
 | College Sex: Episode 5 | 278944 | [278944-college-sex-episode-5.json](./278944-college-sex-episode-5.json) |
 | College Sex: Episode 6 | 285603 | [285603-college-sex-episode-6.json](./285603-college-sex-episode-6.json) |
+| College Sex: Episode 8 | 297927 | [297927-college-sex-episode-8.json](./297927-college-sex-episode-8.json) |
+| College Sex: Episode 9 | 297929 | [297929-college-sex-episode-9.json](./297929-college-sex-episode-9.json) |
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
@@ -10551,6 +10557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coralia and the Ocean of Stars | 391253 | [391253-coralia-and-the-ocean-of-stars.json](./391253-coralia-and-the-ocean-of-stars.json) |
 | Coralina | 230425 | [230425-coralina.json](./230425-coralina.json) |
 | Coraline | 210273 | [210273-coraline.json](./210273-coraline.json) |
+| Coralium | 297840 | [297840-coralium.json](./297840-coralium.json) |
 | Corallo | 202243 | [202243-corallo.json](./202243-corallo.json) |
 | CorAstral | 345685 | [345685-corastral.json](./345685-corastral.json) |
 | Corbel | 322609 | [322609-corbel.json](./322609-corbel.json) |
@@ -14931,6 +14938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Fighting | 190468 | [190468-cyberpunk-fighting.json](./190468-cyberpunk-fighting.json) |
 | Cyberpunk Girls | 190053 | [190053-cyberpunk-girls.json](./190053-cyberpunk-girls.json) |
 | Cyberpunk Hacker | 317565 | [317565-cyberpunk-hacker.json](./317565-cyberpunk-hacker.json) |
+| Cyberpunk Horror | 297863 | [297863-cyberpunk-horror.json](./297863-cyberpunk-horror.json) |
 | Cyberpunk Inquisitor | 306065 | [306065-cyberpunk-inquisitor.json](./306065-cyberpunk-inquisitor.json) |
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
