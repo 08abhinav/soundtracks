@@ -9939,6 +9939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
+| Double Whammy | 302084 | [302084-double-whammy.json](./302084-double-whammy.json) |
 | Double Wires | 230435 | [230435-double-wires.json](./230435-double-wires.json) |
 | Double World. Cave Song Castle | 163836 | [163836-double-world-cave-song-castle.json](./163836-double-world-cave-song-castle.json) |
 | Double Yakuman | 59756 | [59756-double-yakuman.json](./59756-double-yakuman.json) |
