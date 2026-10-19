@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: The Neglected Dead | 187944 | [187944-halloween-stories-the-neglected-dead.json](./187944-halloween-stories-the-neglected-dead.json) |
 | Halloween Stories: The Neglected Dead - Collector's Edition | 195645 | [195645-halloween-stories-the-neglected-dead-collectors-edition.json](./195645-halloween-stories-the-neglected-dead-collectors-edition.json) |
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
+| Halloween Survivors | 270525 | [270525-halloween-survivors.json](./270525-halloween-survivors.json) |
 | Halloween Sweetplechase | 164050 | [164050-halloween-sweetplechase.json](./164050-halloween-sweetplechase.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
+| Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
@@ -5885,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himig | 136989 | [136989-himig.json](./136989-himig.json) |
 | Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
+| Himiko's Journey | 270535 | [270535-himikos-journey.json](./270535-himikos-journey.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan | 80246 | [80246-himitsu-chouhou-buin-00nanako-chan.json](./80246-himitsu-chouhou-buin-00nanako-chan.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
