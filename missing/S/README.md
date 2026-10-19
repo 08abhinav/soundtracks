@@ -5126,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Christmas Eve | 417941 | [417941-shadows-of-christmas-eve.json](./417941-shadows-of-christmas-eve.json) |
 | Shadows of Chroma Tower | 304944 | [304944-shadows-of-chroma-tower.json](./304944-shadows-of-chroma-tower.json) |
 | Shadows of Chronos | 260784 | [260784-shadows-of-chronos.json](./260784-shadows-of-chronos.json) |
+| Shadows of Destruction | 295094 | [295094-shadows-of-destruction.json](./295094-shadows-of-destruction.json) |
 | Shadows of Doubt | 119273 | [119273-shadows-of-doubt.json](./119273-shadows-of-doubt.json) |
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
@@ -15524,6 +15525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
+| Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
 | Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
 | SpellHunter | 153024 | [153024-spellhunter.json](./153024-spellhunter.json) |
 | Spellic | 207345 | [207345-spellic.json](./207345-spellic.json) |
@@ -19612,6 +19614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickType: Challenge | 218470 | [218470-sticktype-challenge.json](./218470-sticktype-challenge.json) |
 | StickType: StickLady | 218469 | [218469-sticktype-sticklady.json](./218469-sticktype-sticklady.json) |
 | StickWars | 90800 | [90800-stickwars.json](./90800-stickwars.json) |
+| Sticky Arrow | 295165 | [295165-sticky-arrow.json](./295165-sticky-arrow.json) |
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
 | Sticky Business | 240514 | [240514-sticky-business.json](./240514-sticky-business.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
