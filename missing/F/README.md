@@ -126,6 +126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.I.T. | 287752 | [287752-f-i-t.json](./287752-f-i-t.json) |
 | F.O.S | 144257 | [144257-f-o-s.json](./144257-f-o-s.json) |
 | F.O.X.: Flame of Xenocide | 196546 | [196546-f-o-x-flame-of-xenocide.json](./196546-f-o-x-flame-of-xenocide.json) |
+| F.R.A.G.G. | 306809 | [306809-f-r-a-g-g.json](./306809-f-r-a-g-g.json) |
 | F.R.A.X: Blackout | 403127 | [403127-f-r-a-x-blackout.json](./403127-f-r-a-x-blackout.json) |
 | F*ck Stalin | 286056 | [286056-f-ck-stalin.json](./286056-f-ck-stalin.json) |
 | F*ck the HELL out | 337150 | [337150-f-ck-the-hell-out.json](./337150-f-ck-the-hell-out.json) |
