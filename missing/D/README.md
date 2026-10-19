@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Room VR | 108399 | [108399-danger-room-vr.json](./108399-danger-room-vr.json) |
 | Danger Sticks | 398488 | [398488-danger-sticks.json](./398488-danger-sticks.json) |
 | Danger Street | 304126 | [304126-danger-street.json](./304126-danger-street.json) |
+| Danger Stunt Drive: Extreme Racing Simulator | 308633 | [308633-danger-stunt-drive-extreme-racing-simulator.json](./308633-danger-stunt-drive-extreme-racing-simulator.json) |
 | Danger Wall! | 52843 | [52843-danger-wall.json](./52843-danger-wall.json) |
 | Danger World | 121616 | [121616-danger-world.json](./121616-danger-world.json) |
 | Danger World | 345965 | [345965-danger-world.json](./345965-danger-world.json) |
@@ -5442,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the House - Smash Home Interiors | 99708 | [99708-destroy-the-house-smash-home-interiors.json](./99708-destroy-the-house-smash-home-interiors.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
+| Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
@@ -8416,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogou Souken | 40104 | [40104-dogou-souken.json](./40104-dogou-souken.json) |
 | DogPunk | 391750 | [391750-dogpunk.json](./391750-dogpunk.json) |
 | Dogs | 311240 | [311240-dogs.json](./311240-dogs.json) |
+| Dogs and Paws | 308604 | [308604-dogs-and-paws.json](./308604-dogs-and-paws.json) |
 | Dogs and Pigs | 187187 | [187187-dogs-and-pigs.json](./187187-dogs-and-pigs.json) |
 | Dogs Cyberpuzzle | 203949 | [203949-dogs-cyberpuzzle.json](./203949-dogs-cyberpuzzle.json) |
 | Dogs Day | 238555 | [238555-dogs-day.json](./238555-dogs-day.json) |
