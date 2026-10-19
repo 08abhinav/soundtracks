@@ -5120,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
+| Logiart Grimoire | 263886 | [263886-logiart-grimoire.json](./263886-logiart-grimoire.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 1 | 324166 | [324166-logiart-grimoire-emils-magic-training-part-1.json](./324166-logiart-grimoire-emils-magic-training-part-1.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 4 | 357389 | [357389-logiart-grimoire-emils-magic-training-part-4.json](./357389-logiart-grimoire-emils-magic-training-part-4.json) |
 | Logiart Grimoire: Emil's Magic Training, Part 5 | 357390 | [357390-logiart-grimoire-emils-magic-training-part-5.json](./357390-logiart-grimoire-emils-magic-training-part-5.json) |
