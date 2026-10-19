@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest of Days | 4219 | [4219-darkest-of-days.json](./4219-darkest-of-days.json) |
 | Darkest Path | 400399 | [400399-darkest-path.json](./400399-darkest-path.json) |
 | Darkest Rogue: Slingshot RPG | 174312 | [174312-darkest-rogue-slingshot-rpg.json](./174312-darkest-rogue-slingshot-rpg.json) |
+| Darkest Room | 261106 | [261106-darkest-room.json](./261106-darkest-room.json) |
 | Darkest Valley | 139397 | [139397-darkest-valley.json](./139397-darkest-valley.json) |
 | Darkest Wave | 229818 | [229818-darkest-wave.json](./229818-darkest-wave.json) |
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
@@ -12965,6 +12966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Forever Collection | 335681 | [335681-duke-nukem-forever-collection.json](./335681-duke-nukem-forever-collection.json) |
 | Duke Nukem Forever: Enhanced | 297232 | [297232-duke-nukem-forever-enhanced.json](./297232-duke-nukem-forever-enhanced.json) |
 | Duke Nukem Forever: Reimposition | 371400 | [371400-duke-nukem-forever-reimposition.json](./371400-duke-nukem-forever-reimposition.json) |
+| Duke Nukem Forever: Restoration Project | 261103 | [261103-duke-nukem-forever-restoration-project.json](./261103-duke-nukem-forever-restoration-project.json) |
 | Duke Nukem II Remastered | 252067 | [252067-duke-nukem-ii-remastered.json](./252067-duke-nukem-ii-remastered.json) |
 | Duke Nukem Mobile | 23557 | [23557-duke-nukem-mobile.json](./23557-duke-nukem-mobile.json) |
 | Duke Nukem Remastered | 252066 | [252066-duke-nukem-remastered.json](./252066-duke-nukem-remastered.json) |
