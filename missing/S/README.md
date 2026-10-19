@@ -9030,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky City Blues | 132824 | [132824-sky-city-blues.json](./132824-sky-city-blues.json) |
 | Sky City Rush | 364502 | [364502-sky-city-rush.json](./364502-sky-city-rush.json) |
 | Sky Clash: Lords of Clans 3D | 51563 | [51563-sky-clash-lords-of-clans-3d.json](./51563-sky-clash-lords-of-clans-3d.json) |
+| Sky Climb | 306794 | [306794-sky-climb.json](./306794-sky-climb.json) |
 | Sky Combat | 221358 | [221358-sky-combat.json](./221358-sky-combat.json) |
 | Sky Conqueror | 98897 | [98897-sky-conqueror.json](./98897-sky-conqueror.json) |
 | Sky Crashers | 313571 | [313571-sky-crashers.json](./313571-sky-crashers.json) |
@@ -10416,6 +10417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashy Drift | 100784 | [100784-smashy-drift.json](./100784-smashy-drift.json) |
 | Smashy Road: Race | 187887 | [187887-smashy-road-race.json](./187887-smashy-road-race.json) |
 | Smashy Road: Wanted 2 | 144196 | [144196-smashy-road-wanted-2.json](./144196-smashy-road-wanted-2.json) |
+| Smaze | 306775 | [306775-smaze.json](./306775-smaze.json) |
 | SMB RMX Land | 265877 | [265877-smb-rmx-land.json](./265877-smb-rmx-land.json) |
 | SMB RMX: Shattered Realms | 370902 | [370902-smb-rmx-shattered-realms.json](./370902-smb-rmx-shattered-realms.json) |
 | SMB1 Autumn Challenge | 322651 | [322651-smb1-autumn-challenge.json](./322651-smb1-autumn-challenge.json) |
@@ -13648,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstopia: Phi | 173212 | [173212-soulstopia-phi.json](./173212-soulstopia-phi.json) |
 | Soulstrive | 193260 | [193260-soulstrive.json](./193260-soulstrive.json) |
 | Soulsworn | 395107 | [395107-soulsworn.json](./395107-soulsworn.json) |
+| SoulSync City | 306800 | [306800-soulsync-city.json](./306800-soulsync-city.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | Soulvester vs. Lil' Beezey | 245730 | [245730-soulvester-vs-lil-beezey.json](./245730-soulvester-vs-lil-beezey.json) |
@@ -22182,6 +22185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
+| Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
 | Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
