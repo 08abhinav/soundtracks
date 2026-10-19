@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Drift Racing | 119444 | [119444-real-drift-racing.json](./119444-real-drift-racing.json) |
 | Real Driver Legend of the City | 216133 | [216133-real-driver-legend-of-the-city.json](./216133-real-driver-legend-of-the-city.json) |
 | Real Driving 2: Ultimate Car Simulator | 208962 | [208962-real-driving-2-ultimate-car-simulator.json](./208962-real-driving-2-ultimate-car-simulator.json) |
+| Real Drone Simulator | 298936 | [298936-real-drone-simulator.json](./298936-real-drone-simulator.json) |
 | Real Erogame Situation! Triple H | 194627 | [194627-real-erogame-situation-triple-h.json](./194627-real-erogame-situation-triple-h.json) |
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
 | Real Estate Simulator | 288834 | [288834-real-estate-simulator.json](./288834-real-estate-simulator.json) |
