@@ -2043,6 +2043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One way to exit | 33284 | [33284-one-way-to-exit.json](./33284-one-way-to-exit.json) |
 | One Way Trip | 23280 | [23280-one-way-trip.json](./23280-one-way-trip.json) |
 | One Wee Robot | 392277 | [392277-one-wee-robot.json](./392277-one-wee-robot.json) |
+| One Week at Flumpty's | 259404 | [259404-one-week-at-flumptys.json](./259404-one-week-at-flumptys.json) |
 | One Week at Flumpty's Fan-Made | 416762 | [416762-one-week-at-flumptys-fan-made.json](./416762-one-week-at-flumptys-fan-made.json) |
 | One Week at Freddy's | 274102 | [274102-one-week-at-freddys.json](./274102-one-week-at-freddys.json) |
 | One Week At Pan | 148416 | [148416-one-week-at-pan.json](./148416-one-week-at-pan.json) |
@@ -3863,6 +3864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outdoors Unleashed: Africa 3D | 23671 | [23671-outdoors-unleashed-africa-3d.json](./23671-outdoors-unleashed-africa-3d.json) |
 | Outdoors Unlimited | 137088 | [137088-outdoors-unlimited.json](./137088-outdoors-unlimited.json) |
 | OutDrive | 18077 | [18077-outdrive.json](./18077-outdrive.json) |
+| Outer Base | 259394 | [259394-outer-base.json](./259394-outer-base.json) |
 | Outer Darkness | 212963 | [212963-outer-darkness.json](./212963-outer-darkness.json) |
 | Outer Empires | 67317 | [67317-outer-empires.json](./67317-outer-empires.json) |
 | Outer Factory | 279106 | [279106-outer-factory.json](./279106-outer-factory.json) |
