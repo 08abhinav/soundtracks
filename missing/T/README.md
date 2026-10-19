@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle | 3051 | [3051-the-bugs-bunny-crazy-castle.json](./3051-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle Atarisized | 289885 | [289885-the-bugs-bunny-crazy-castle-atarisized.json](./289885-the-bugs-bunny-crazy-castle-atarisized.json) |
+| The Bugs Manor | 273275 | [273275-the-bugs-manor.json](./273275-the-bugs-manor.json) |
 | The Build and Race Hotrod Game | 150283 | [150283-the-build-and-race-hotrod-game.json](./150283-the-build-and-race-hotrod-game.json) |
 | The Builder: Season 2 | 392889 | [392889-the-builder-season-2.json](./392889-the-builder-season-2.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
@@ -5373,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Christmas Spirit: Grimm Tales | 139430 | [139430-the-christmas-spirit-grimm-tales.json](./139430-the-christmas-spirit-grimm-tales.json) |
 | The Christopher Redemption: I | 276811 | [276811-the-christopher-redemption-i.json](./276811-the-christopher-redemption-i.json) |
 | The Chroma: From the Wasteland | 367542 | [367542-the-chroma-from-the-wasteland.json](./367542-the-chroma-from-the-wasteland.json) |
+| The Chronic | 273251 | [273251-the-chronic.json](./273251-the-chronic.json) |
 | The Chronicler | 150631 | [150631-the-chronicler.json](./150631-the-chronicler.json) |
 | The Chronicles of Confucius's Journey | 133129 | [133129-the-chronicles-of-confuciuss-journey.json](./133129-the-chronicles-of-confuciuss-journey.json) |
 | The Chronicles of Dragon Wing - Reborn | 44160 | [44160-the-chronicles-of-dragon-wing-reborn.json](./44160-the-chronicles-of-dragon-wing-reborn.json) |
@@ -5638,6 +5640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
+| The Cradle of Thorns: My Brother Belongs to Me | 273258 | [273258-the-cradle-of-thorns-my-brother-belongs-to-me.json](./273258-the-cradle-of-thorns-my-brother-belongs-to-me.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
 | The Crafting Dead | 97133 | [97133-the-crafting-dead.json](./97133-the-crafting-dead.json) |
@@ -11352,6 +11355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
+| The Railway Station | 273228 | [273228-the-railway-station.json](./273228-the-railway-station.json) |
 | The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
 | The Rainbow Machine | 54972 | [54972-the-rainbow-machine.json](./54972-the-rainbow-machine.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
@@ -12595,6 +12599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiderwick Chronicles | 5182 | [5182-the-spiderwick-chronicles.json](./5182-the-spiderwick-chronicles.json) |
 | The Spidy D | 205080 | [205080-the-spidy-d.json](./205080-the-spidy-d.json) |
 | The Spidy Quiz | 229669 | [229669-the-spidy-quiz.json](./229669-the-spidy-quiz.json) |
+| The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
@@ -12652,6 +12657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
+| The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
 | The Stars Here Below | 228985 | [228985-the-stars-here-below.json](./228985-the-stars-here-below.json) |
 | The Stars Under Lockehurst | 318722 | [318722-the-stars-under-lockehurst.json](./318722-the-stars-under-lockehurst.json) |
@@ -12871,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Symbiant II | 349336 | [349336-the-symbiant-ii.json](./349336-the-symbiant-ii.json) |
 | The Symbiant Re:Union | 259004 | [259004-the-symbiant-re-union.json](./259004-the-symbiant-re-union.json) |
 | The Symphony of Dragon and Girls | 208237 | [208237-the-symphony-of-dragon-and-girls.json](./208237-the-symphony-of-dragon-and-girls.json) |
+| The System: Opposing Facility | 273240 | [273240-the-system-opposing-facility.json](./273240-the-system-opposing-facility.json) |
 | The T.O.T.E.: Tales of the Elements | 258214 | [258214-the-t-o-t-e-tales-of-the-elements.json](./258214-the-t-o-t-e-tales-of-the-elements.json) |
 | The Table Game | 93975 | [93975-the-table-game.json](./93975-the-table-game.json) |
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
@@ -19230,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Funpak | 77890 | [77890-total-funpak.json](./77890-total-funpak.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
+| Total Infiltration | 273229 | [273229-total-infiltration.json](./273229-total-infiltration.json) |
 | Total Jigsaw | 99745 | [99745-total-jigsaw.json](./99745-total-jigsaw.json) |
 | Total Madness | 130219 | [130219-total-madness.json](./130219-total-madness.json) |
 | Total Miner | 77339 | [77339-total-miner.json](./77339-total-miner.json) |
@@ -24135,6 +24143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
+| TV Kamishibai Vol. 1 | 273256 | [273256-tv-kamishibai-vol-1.json](./273256-tv-kamishibai-vol-1.json) |
 | TV Manager 2: Premium version | 24733 | [24733-tv-manager-2-premium-version.json](./24733-tv-manager-2-premium-version.json) |
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
