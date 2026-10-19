@@ -10801,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Cistern | 256828 | [256828-corrupted-cistern.json](./256828-corrupted-cistern.json) |
 | Corrupted Dice | 405520 | [405520-corrupted-dice.json](./405520-corrupted-dice.json) |
 | Corrupted Kingdoms | 232550 | [232550-corrupted-kingdoms.json](./232550-corrupted-kingdoms.json) |
+| Corrupted Paradise | 290809 | [290809-corrupted-paradise.json](./290809-corrupted-paradise.json) |
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
@@ -12936,6 +12937,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Helix | 396733 | [396733-cross-helix.json](./396733-cross-helix.json) |
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
+| Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
+| Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
 | Cross Love - Episode 1 | 110524 | [110524-cross-love-episode-1.json](./110524-cross-love-episode-1.json) |
 | Cross Match! | 238402 | [238402-cross-match.json](./238402-cross-match.json) |
 | Cross Numbers | 153888 | [153888-cross-numbers.json](./153888-cross-numbers.json) |
@@ -14850,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Storm | 342291 | [342291-cyber-storm.json](./342291-cyber-storm.json) |
 | Cyber Storm Edge | 259456 | [259456-cyber-storm-edge.json](./259456-cyber-storm-edge.json) |
 | Cyber Storm Edge 64 | 294866 | [294866-cyber-storm-edge-64.json](./294866-cyber-storm-edge-64.json) |
+| Cyber Story | 290784 | [290784-cyber-story.json](./290784-cyber-story.json) |
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
