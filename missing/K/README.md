@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-ON! Houkago Live!! HD Ver. | 206606 | [206606-k-on-houkago-live-hd-ver.json](./206606-k-on-houkago-live-hd-ver.json) |
 | K-ON! Houkago Rhythm Time | 269593 | [269593-k-on-houkago-rhythm-time.json](./269593-k-on-houkago-rhythm-time.json) |
 | K-ON!!: Houkago Rhythm Selection | 201262 | [201262-k-on-houkago-rhythm-selection.json](./201262-k-on-houkago-rhythm-selection.json) |
+| K-One | 306236 | [306236-k-one.json](./306236-k-one.json) |
 | K-Point Ski Jumping | 128905 | [128905-k-point-ski-jumping.json](./128905-k-point-ski-jumping.json) |
 | K-Pop Fandom Korean Quiz | 401102 | [401102-k-pop-fandom-korean-quiz.json](./401102-k-pop-fandom-korean-quiz.json) |
 | K-POP Idol Producer | 228944 | [228944-k-pop-idol-producer.json](./228944-k-pop-idol-producer.json) |
@@ -357,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaitachi no Yoru 2: Kangokujima no Warabe Uta | 64840 | [64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json](./64840-kamaitachi-no-yoru-2-kangokujima-no-warabe-uta.json) |
 | Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
 | Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou | 64839 | [64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json](./64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json) |
+| Kamaitachi no Yoru x3 | 306194 | [306194-kamaitachi-no-yoru-x3.json](./306194-kamaitachi-no-yoru-x3.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
@@ -2511,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Paradise | 42878 | [42878-kingdom-of-paradise.json](./42878-kingdom-of-paradise.json) |
 | Kingdom Of Peace | 295775 | [295775-kingdom-of-peace.json](./295775-kingdom-of-peace.json) |
 | Kingdom of Piss | 340882 | [340882-kingdom-of-piss.json](./340882-kingdom-of-piss.json) |
+| Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
