@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Survivors: Ante Chamber | 375522 | [375522-vampire-survivors-ante-chamber.json](./375522-vampire-survivors-ante-chamber.json) |
 | Vampire Survivors: Chaos Update | 237316 | [237316-vampire-survivors-chaos-update.json](./237316-vampire-survivors-chaos-update.json) |
 | Vampire Survivors: Emerald Diorama | 339620 | [339620-vampire-survivors-emerald-diorama.json](./339620-vampire-survivors-emerald-diorama.json) |
+| Vampire Survivors: Laborratory Update | 299594 | [299594-vampire-survivors-laborratory-update.json](./299594-vampire-survivors-laborratory-update.json) |
 | Vampire Survivors: Legacy of the Bloodmoon | 404912 | [404912-vampire-survivors-legacy-of-the-bloodmoon.json](./404912-vampire-survivors-legacy-of-the-bloodmoon.json) |
 | Vampire Survivors: Legacy of the Moonspell | 228721 | [228721-vampire-survivors-legacy-of-the-moonspell.json](./228721-vampire-survivors-legacy-of-the-moonspell.json) |
 | Vampire Survivors: Ode to Castlevania | 320770 | [320770-vampire-survivors-ode-to-castlevania.json](./320770-vampire-survivors-ode-to-castlevania.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
 | Vegas Royal Jackpot CSS | 232370 | [232370-vegas-royal-jackpot-css.json](./232370-vegas-royal-jackpot-css.json) |
 | Vegas Slot | 393954 | [393954-vegas-slot.json](./393954-vegas-slot.json) |
+| Vegas Slots | 299609 | [299609-vegas-slots.json](./299609-vegas-slots.json) |
 | Vegas Stakes | 38410 | [38410-vegas-stakes.json](./38410-vegas-stakes.json) |
 | Vegas Stakes | 85469 | [85469-vegas-stakes.json](./85469-vegas-stakes.json) |
 | Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
