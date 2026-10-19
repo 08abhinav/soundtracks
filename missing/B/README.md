@@ -11649,6 +11649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Broad Daylight | 319289 | [319289-broad-daylight.json](./319289-broad-daylight.json) |
+| Broad Sword | 270000 | [270000-broad-sword.json](./270000-broad-sword.json) |
 | Broadband Architect | 421849 | [421849-broadband-architect.json](./421849-broadband-architect.json) |
 | Broadside | 34450 | [34450-broadside.json](./34450-broadside.json) |
 | Broadside Bets | 401617 | [401617-broadside-bets.json](./401617-broadside-bets.json) |
