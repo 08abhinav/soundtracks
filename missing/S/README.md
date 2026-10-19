@@ -2924,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dogs: To Each His Own - Hero of the Nation | 171618 | [171618-sea-dogs-to-each-his-own-hero-of-the-nation.json](./171618-sea-dogs-to-each-his-own-hero-of-the-nation.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
+| Sea Fantasy | 291825 | [291825-sea-fantasy.json](./291825-sea-fantasy.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fighter Poseidon | 40409 | [40409-sea-fighter-poseidon.json](./40409-sea-fighter-poseidon.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
@@ -5878,6 +5879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherwood | 403549 | [403549-sherwood.json](./403549-sherwood.json) |
 | Sherwood Forest | 24936 | [24936-sherwood-forest.json](./24936-sherwood-forest.json) |
 | Sheryl: The Alchemist of the Island Ruins | 292524 | [292524-sheryl-the-alchemist-of-the-island-ruins.json](./292524-sheryl-the-alchemist-of-the-island-ruins.json) |
+| Shhh!Saw | 291823 | [291823-shhh-saw.json](./291823-shhh-saw.json) |
 | Shi no Homura | 305605 | [305605-shi-no-homura.json](./305605-shi-no-homura.json) |
 | Shi Sen | 105522 | [105522-shi-sen.json](./105522-shi-sen.json) |
 | Shi Shi Te Na O: Even in Death | 335823 | [335823-shi-shi-te-na-o-even-in-death.json](./335823-shi-shi-te-na-o-even-in-death.json) |
@@ -18237,6 +18239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
+| Starecrown | 291818 | [291818-starecrown.json](./291818-starecrown.json) |
 | Stares Back | 375854 | [375854-stares-back.json](./375854-stares-back.json) |
 | Starexcess | 124248 | [124248-starexcess.json](./124248-starexcess.json) |
 | Starfall | 376812 | [376812-starfall.json](./376812-starfall.json) |
@@ -18707,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start Rescue the Enchanter | 87060 | [87060-start-rescue-the-enchanter.json](./87060-start-rescue-the-enchanter.json) |
+| Start Running | 291858 | [291858-start-running.json](./291858-start-running.json) |
 | Start Survey? | 177427 | [177427-start-survey.json](./177427-start-survey.json) |
 | Start the Enchanted Books | 91088 | [91088-start-the-enchanted-books.json](./91088-start-the-enchanted-books.json) |
 | Start the Party! | 20407 | [20407-start-the-party.json](./20407-start-the-party.json) |
@@ -19437,6 +19441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steve's HardCore WorldTour | 153973 | [153973-steves-hardcore-worldtour.json](./153973-steves-hardcore-worldtour.json) |
 | Steve's Pub - Soda on tap | 76215 | [76215-steves-pub-soda-on-tap.json](./76215-steves-pub-soda-on-tap.json) |
 | Steve's Warehouse: Physics. Roguelike. Chaos. | 304436 | [304436-steves-warehouse-physics-roguelike-chaos.json](./304436-steves-warehouse-physics-roguelike-chaos.json) |
+| Stevedore 2024 | 291861 | [291861-stevedore-2024.json](./291861-stevedore-2024.json) |
 | Steven Gerrard's Total Soccer 2002 | 49249 | [49249-steven-gerrards-total-soccer-2002.json](./49249-steven-gerrards-total-soccer-2002.json) |
 | Steven Seagal Is The Final Option | 38300 | [38300-steven-seagal-is-the-final-option.json](./38300-steven-seagal-is-the-final-option.json) |
 | Steven Spielberg's Director's Chair | 69814 | [69814-steven-spielbergs-directors-chair.json](./69814-steven-spielbergs-directors-chair.json) |
@@ -25280,6 +25285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
+| Sustained | 291834 | [291834-sustained.json](./291834-sustained.json) |
 | Sustenance | 316986 | [316986-sustenance.json](./316986-sustenance.json) |
 | Susuki Kaidan | 413865 | [413865-susuki-kaidan.json](./413865-susuki-kaidan.json) |
 | Susume Choujou Genshou Kenkyuubu! | 66209 | [66209-susume-choujou-genshou-kenkyuubu.json](./66209-susume-choujou-genshou-kenkyuubu.json) |
@@ -26411,6 +26417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Soul 2 | 292676 | [292676-synthetic-soul-2.json](./292676-synthetic-soul-2.json) |
 | Synthetic Soul 3 | 310736 | [310736-synthetic-soul-3.json](./310736-synthetic-soul-3.json) |
 | Synthetic Soul: Neon | 295658 | [295658-synthetic-soul-neon.json](./295658-synthetic-soul-neon.json) |
+| Synthetica: Cyber Club Manager | 291839 | [291839-synthetica-cyber-club-manager.json](./291839-synthetica-cyber-club-manager.json) |
 | SynthetiCell BioClicker | 339423 | [339423-syntheticell-bioclicker.json](./339423-syntheticell-bioclicker.json) |
 | Synthetik: Arena | 112983 | [112983-synthetik-arena.json](./112983-synthetik-arena.json) |
 | Synthetik: Legion Rising | 86395 | [86395-synthetik-legion-rising.json](./86395-synthetik-legion-rising.json) |
