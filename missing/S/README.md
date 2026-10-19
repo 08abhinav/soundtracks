@@ -11960,6 +11960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solipsistic | 409582 | [409582-solipsistic.json](./409582-solipsistic.json) |
 | Solipskier | 76132 | [76132-solipskier.json](./76132-solipskier.json) |
 | Solir | 332529 | [332529-solir.json](./332529-solir.json) |
+| Solis | 296278 | [296278-solis.json](./296278-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
@@ -12314,6 +12315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonata Theory | 155028 | [155028-sonata-theory.json](./155028-sonata-theory.json) |
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
+| Sonder | 296200 | [296200-sonder.json](./296200-sonder.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
@@ -19610,6 +19612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
 | Sticky Castle | 232031 | [232031-sticky-castle.json](./232031-sticky-castle.json) |
+| Sticky Clicker! | 296277 | [296277-sticky-clicker.json](./296277-sticky-clicker.json) |
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
 | Sticky Feet | 401182 | [401182-sticky-feet.json](./401182-sticky-feet.json) |
 | Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
@@ -23102,18 +23105,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 74: Ten Years After | 210599 | [210599-super-mario-74-ten-years-after.json](./210599-super-mario-74-ten-years-after.json) |
 | Super Mario 74: The Twelve Year Comet | 272810 | [272810-super-mario-74-the-twelve-year-comet.json](./272810-super-mario-74-the-twelve-year-comet.json) |
 | Super Mario Advance 4: Card e+ - 1UP Kinoko ga 3UP Moon ni Kawaru | 296051 | [296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json](./296051-super-mario-advance-4-card-e-1up-kinoko-ga-3up-moon-ni-kawaru.json) |
+| Super Mario Advance 4: Card e+ - 3 Boomerangs | 296146 | [296146-super-mario-advance-4-card-e-3-boomerangs.json](./296146-super-mario-advance-4-card-e-3-boomerangs.json) |
+| Super Mario Advance 4: Card e+ - 3 Cape Feathers | 296145 | [296145-super-mario-advance-4-card-e-3-cape-feathers.json](./296145-super-mario-advance-4-card-e-3-cape-feathers.json) |
 | Super Mario Advance 4: Card e+ - Luigi Power Up! | 296052 | [296052-super-mario-advance-4-card-e-luigi-power-up.json](./296052-super-mario-advance-4-card-e-luigi-power-up.json) |
 | Super Mario Advance 4: Card e+ - Sugu ni Mantan! Power Meter!! | 296054 | [296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json](./296054-super-mario-advance-4-card-e-sugu-ni-mantan-power-meter.json) |
 | Super Mario Advance 4: Card e+ - Teki Power Up! Tokuten x2!! | 296055 | [296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json](./296055-super-mario-advance-4-card-e-teki-power-up-tokuten-x2.json) |
 | Super Mario Advance 4: Card e+ - Timer Yukkuri! | 296053 | [296053-super-mario-advance-4-card-e-timer-yukkuri.json](./296053-super-mario-advance-4-card-e-timer-yukkuri.json) |
 | Super Mario Advance 4: Super Mario Bros. 3 | 16748 | [16748-super-mario-advance-4-super-mario-bros-3.json](./16748-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3 | 170021 | [170021-super-mario-advance-4-super-mario-bros-3.json](./170021-super-mario-advance-4-super-mario-bros-3.json) |
+| Super Mario Advance 4: Super Mario Bros. 3 | 296153 | [296153-super-mario-advance-4-super-mario-bros-3.json](./296153-super-mario-advance-4-super-mario-bros-3.json) |
+| Super Mario Advance 4: Super Mario Bros. 3 | 296161 | [296161-super-mario-advance-4-super-mario-bros-3.json](./296161-super-mario-advance-4-super-mario-bros-3.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - A Towering Tour | 241014 | [241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json](./241014-super-mario-advance-4-super-mario-bros-3-e-a-towering-tour.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Airship's Revenge | 241025 | [241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json](./241025-super-mario-advance-4-super-mario-bros-3-e-airships-revenge.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - An Aqueous Adventure | 241020 | [241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json](./241020-super-mario-advance-4-super-mario-bros-3-e-an-aqueous-adventure.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 1 | 241023 | [241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json](./241023-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-1.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Airship 2 | 241024 | [241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json](./241024-super-mario-advance-4-super-mario-bros-3-e-bowsers-airship-2.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Bowser's Last Stand | 241021 | [241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json](./241021-super-mario-advance-4-super-mario-bros-3-e-bowsers-last-stand.json) |
+| Super Mario Advance 4: Super Mario Bros. 3-e - Cape | 296168 | [296168-super-mario-advance-4-super-mario-bros-3-e-cape.json](./296168-super-mario-advance-4-super-mario-bros-3-e-cape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Caped Escape | 241018 | [241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json](./241018-super-mario-advance-4-super-mario-bros-3-e-caped-escape.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Castle Dash | 241015 | [241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json](./241015-super-mario-advance-4-super-mario-bros-3-e-castle-dash.json) |
 | Super Mario Advance 4: Super Mario Bros. 3-e - Ground Work | 241019 | [241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json](./241019-super-mario-advance-4-super-mario-bros-3-e-ground-work.json) |
@@ -23602,6 +23610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monster Bros by Adventure Time Pocket Free Games | 25017 | [25017-super-monster-bros-by-adventure-time-pocket-free-games.json](./25017-super-monster-bros-by-adventure-time-pocket-free-games.json) |
 | Super Monsters | 295015 | [295015-super-monsters.json](./295015-super-monsters.json) |
 | Super Monsters Ate My Condo | 296801 | [296801-super-monsters-ate-my-condo.json](./296801-super-monsters-ate-my-condo.json) |
+| Super Monsters Ate My Condo+ | 296199 | [296199-super-monsters-ate-my-condo.json](./296199-super-monsters-ate-my-condo.json) |
 | Super Monza GP 2 | 267554 | [267554-super-monza-gp-2.json](./267554-super-monza-gp-2.json) |
 | Super Moo World | 223021 | [223021-super-moo-world.json](./223021-super-moo-world.json) |
 | Super Morial Arms | 13092 | [13092-super-morial-arms.json](./13092-super-morial-arms.json) |
