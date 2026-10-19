@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
 | Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
 | Barbie Superpack: Secret Agent / Groovy Games | 60447 | [60447-barbie-superpack-secret-agent-groovy-games.json](./60447-barbie-superpack-secret-agent-groovy-games.json) |
+| Barbie Superstar! Music Maker | 261693 | [261693-barbie-superstar-music-maker.json](./261693-barbie-superstar-music-maker.json) |
 | Barbie Tennis | 347013 | [347013-barbie-tennis.json](./347013-barbie-tennis.json) |
 | Barbie: Dreamtopia - Magical Hair | 261704 | [261704-barbie-dreamtopia-magical-hair.json](./261704-barbie-dreamtopia-magical-hair.json) |
 | Barbie: Explorer | 3314 | [3314-barbie-explorer.json](./3314-barbie-explorer.json) |
