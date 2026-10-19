@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banana Bonanza! | 231627 | [231627-banana-bonanza.json](./231627-banana-bonanza.json) |
 | Banana Bugs | 230534 | [230534-banana-bugs.json](./230534-banana-bugs.json) |
 | Banana Cat | 314405 | [314405-banana-cat.json](./314405-banana-cat.json) |
+| Banana Cat Jump | 256143 | [256143-banana-cat-jump.json](./256143-banana-cat-jump.json) |
 | Banana Chaos Clicker | 389961 | [389961-banana-chaos-clicker.json](./389961-banana-chaos-clicker.json) |
 | Banana Clicker | 394093 | [394093-banana-clicker.json](./394093-banana-clicker.json) |
 | Banana Co. | 275881 | [275881-banana-co.json](./275881-banana-co.json) |
@@ -3039,6 +3040,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
 | Battle Support | 336727 | [336727-battle-support.json](./336727-battle-support.json) |
+| Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
+| Battle Support: Ultimate Edition | 256109 | [256109-battle-support-ultimate-edition.json](./256109-battle-support-ultimate-edition.json) |
 | Battle Supremacy | 26895 | [26895-battle-supremacy.json](./26895-battle-supremacy.json) |
 | Battle Survive Hentai | 126399 | [126399-battle-survive-hentai.json](./126399-battle-survive-hentai.json) |
 | Battle Sweeper | 139250 | [139250-battle-sweeper.json](./139250-battle-sweeper.json) |
@@ -4291,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becoming a Dandelion Spore | 116275 | [116275-becoming-a-dandelion-spore.json](./116275-becoming-a-dandelion-spore.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
 | Becoming a Legend: New Advent | 403671 | [403671-becoming-a-legend-new-advent.json](./403671-becoming-a-legend-new-advent.json) |
+| Becoming Bytes | 256134 | [256134-becoming-bytes.json](./256134-becoming-bytes.json) |
 | Becoming Captain | 296497 | [296497-becoming-captain.json](./296497-becoming-captain.json) |
 | Becoming None | 417527 | [417527-becoming-none.json](./417527-becoming-none.json) |
 | Becoming Omega | 146838 | [146838-becoming-omega.json](./146838-becoming-omega.json) |
@@ -6193,6 +6197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird & Beans | 308408 | [308408-bird-and-beans.json](./308408-bird-and-beans.json) |
 | Bird & Beans | 70765 | [70765-bird-and-beans.json](./70765-bird-and-beans.json) |
 | Bird Alone | 135897 | [135897-bird-alone.json](./135897-bird-alone.json) |
+| Bird And Words: Find Word | 256149 | [256149-bird-and-words-find-word.json](./256149-bird-and-words-find-word.json) |
 | Bird Assassin | 17596 | [17596-bird-assassin.json](./17596-bird-assassin.json) |
 | Bird Bakery | 135239 | [135239-bird-bakery.json](./135239-bird-bakery.json) |
 | Bird Ball | 257378 | [257378-bird-ball.json](./257378-bird-ball.json) |
@@ -6537,6 +6542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitterroot | 181857 | [181857-bitterroot.json](./181857-bitterroot.json) |
 | Bittersweet | 133953 | [133953-bittersweet.json](./133953-bittersweet.json) |
 | Bittersweet Blossoms | 346214 | [346214-bittersweet-blossoms.json](./346214-bittersweet-blossoms.json) |
+| BitterSweet Detectives' Tea Party | 256111 | [256111-bittersweet-detectives-tea-party.json](./256111-bittersweet-detectives-tea-party.json) |
 | Bittersweet Dream | 229672 | [229672-bittersweet-dream.json](./229672-bittersweet-dream.json) |
 | Bittos | 91418 | [91418-bittos.json](./91418-bittos.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
