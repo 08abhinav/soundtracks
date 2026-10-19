@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satanya's Adventure: All You Need is Melonpan | 184273 | [184273-satanyas-adventure-all-you-need-is-melonpan.json](./184273-satanyas-adventure-all-you-need-is-melonpan.json) |
 | Satawn | 405573 | [405573-satawn.json](./405573-satawn.json) |
 | Satay Club mini | 95681 | [95681-satay-club-mini.json](./95681-satay-club-mini.json) |
+| Satay Shop Tycoon | 261110 | [261110-satay-shop-tycoon.json](./261110-satay-shop-tycoon.json) |
 | Sate | 273432 | [273432-sate.json](./273432-sate.json) |
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
 | Sengoku Dynasty: Sakura Edition | 406331 | [406331-sengoku-dynasty-sakura-edition.json](./406331-sengoku-dynasty-sakura-edition.json) |
+| Sengoku Dynasty: Ultimate Edition | 261118 | [261118-sengoku-dynasty-ultimate-edition.json](./261118-sengoku-dynasty-ultimate-edition.json) |
 | Sengoku Efuda Yuugi: Hototogisu Tairan | 269530 | [269530-sengoku-efuda-yuugi-hototogisu-tairan.json](./269530-sengoku-efuda-yuugi-hototogisu-tairan.json) |
 | Sengoku Gensokyo | 299300 | [299300-sengoku-gensokyo.json](./299300-sengoku-gensokyo.json) |
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
@@ -4675,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Simulator: BDSM | 385042 | [385042-sex-simulator-bdsm.json](./385042-sex-simulator-bdsm.json) |
 | Sex Simulator: BDSM 2 | 253849 | [253849-sex-simulator-bdsm-2.json](./253849-sex-simulator-bdsm-2.json) |
 | Sex Simulator: Beach Resort | 254370 | [254370-sex-simulator-beach-resort.json](./254370-sex-simulator-beach-resort.json) |
+| Sex Simulator: CamGirl Audition | 261092 | [261092-sex-simulator-camgirl-audition.json](./261092-sex-simulator-camgirl-audition.json) |
 | Sex Simulator: CamGirl Audition 2 | 263761 | [263761-sex-simulator-camgirl-audition-2.json](./263761-sex-simulator-camgirl-audition-2.json) |
 | Sex Simulator: Dirty Doctor | 385044 | [385044-sex-simulator-dirty-doctor.json](./385044-sex-simulator-dirty-doctor.json) |
 | Sex Simulator: Futanari BDSM | 253850 | [253850-sex-simulator-futanari-bdsm.json](./253850-sex-simulator-futanari-bdsm.json) |
@@ -7913,6 +7916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 1 | 34685 | [34685-silver-creek-falls-chapter-1.json](./34685-silver-creek-falls-chapter-1.json) |
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
+| Silver Edge | 261107 | [261107-silver-edge.json](./261107-silver-edge.json) |
 | Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
 | Silver Falls Miracle Makeout Mania | 307179 | [307179-silver-falls-miracle-makeout-mania.json](./307179-silver-falls-miracle-makeout-mania.json) |
 | Silver Falls: 3 Down Stars | 129511 | [129511-silver-falls-3-down-stars.json](./129511-silver-falls-3-down-stars.json) |
@@ -10783,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMW The Crown Tale | 267957 | [267957-smw-the-crown-tale.json](./267957-smw-the-crown-tale.json) |
 | SMW The Princess Rescue | 222890 | [222890-smw-the-princess-rescue.json](./222890-smw-the-princess-rescue.json) |
 | SMW The Princess Rescue 2: Luigi's Journey! | 222889 | [222889-smw-the-princess-rescue-2-luigis-journey.json](./222889-smw-the-princess-rescue-2-luigis-journey.json) |
+| SMW The Princess Rescue 3: The Turnabout | 261124 | [261124-smw-the-princess-rescue-3-the-turnabout.json](./261124-smw-the-princess-rescue-3-the-turnabout.json) |
 | SMW2+3: The Essence Star | 268099 | [268099-smw2-3-the-essence-star.json](./268099-smw2-3-the-essence-star.json) |
 | SMWLV | 267974 | [267974-smwlv.json](./267974-smwlv.json) |
 | SMYS: Classic | 292308 | [292308-smys-classic.json](./292308-smys-classic.json) |
@@ -14234,6 +14239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Court | 137684 | [137684-space-court.json](./137684-space-court.json) |
 | Space Cowboy | 25603 | [25603-space-cowboy.json](./25603-space-cowboy.json) |
 | Space Cowboy Radio | 359049 | [359049-space-cowboy-radio.json](./359049-space-cowboy-radio.json) |
+| Space Cowboys: Riders of the Storm | 261113 | [261113-space-cowboys-riders-of-the-storm.json](./261113-space-cowboys-riders-of-the-storm.json) |
 | Space Crab VS | 270147 | [270147-space-crab-vs.json](./270147-space-crab-vs.json) |
 | Space Craft | 159764 | [159764-space-craft.json](./159764-space-craft.json) |
 | Space Crafter | 187230 | [187230-space-crafter.json](./187230-space-crafter.json) |
@@ -22125,6 +22131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
 | Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
 | Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
+| Summer Party Time: Survival Pack | 261093 | [261093-summer-party-time-survival-pack.json](./261093-summer-party-time-survival-pack.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
