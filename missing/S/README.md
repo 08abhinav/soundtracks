@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuffle Buddies | 59861 | [59861-scuffle-buddies.json](./59861-scuffle-buddies.json) |
 | Sculplings | 349407 | [349407-sculplings.json](./349407-sculplings.json) |
 | Sculpt | 263763 | [263763-sculpt.json](./263763-sculpt.json) |
+| Sculpt People: Complete Edition | 292924 | [292924-sculpt-people-complete-edition.json](./292924-sculpt-people-complete-edition.json) |
 | Sculpt People: Creative Edition | 308789 | [308789-sculpt-people-creative-edition.json](./308789-sculpt-people-creative-edition.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Match 3 | 302232 | [302232-season-match-3.json](./302232-season-match-3.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
+| Season Match Bundle | 292925 | [292925-season-match-bundle.json](./292925-season-match-bundle.json) |
 | Season of 12 Colors | 35234 | [35234-season-of-12-colors.json](./35234-season-of-12-colors.json) |
 | Season of Mystery: The Cherry Blossom Murders | 9326 | [9326-season-of-mystery-the-cherry-blossom-murders.json](./9326-season-of-mystery-the-cherry-blossom-murders.json) |
 | Season of the Sakura | 72277 | [72277-season-of-the-sakura.json](./72277-season-of-the-sakura.json) |
@@ -6491,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shock Tactics | 18811 | [18811-shock-tactics.json](./18811-shock-tactics.json) |
 | Shock Troopers: 2nd Squad | 32778 | [32778-shock-troopers-2nd-squad.json](./32778-shock-troopers-2nd-squad.json) |
 | Shock Troops | 212303 | [212303-shock-troops.json](./212303-shock-troops.json) |
+| Shock Wave | 292941 | [292941-shock-wave.json](./292941-shock-wave.json) |
 | Shock Wave | 4301 | [4301-shock-wave.json](./4301-shock-wave.json) |
 | Shock Wave 2: Beyond the Gate | 4280 | [4280-shock-wave-2-beyond-the-gate.json](./4280-shock-wave-2-beyond-the-gate.json) |
 | Shock Wave: Operation JumpGate | 4310 | [4310-shock-wave-operation-jumpgate.json](./4310-shock-wave-operation-jumpgate.json) |
@@ -7009,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrike | 371394 | [371394-shrike.json](./371394-shrike.json) |
 | Shrike Avenger | 25883 | [25883-shrike-avenger.json](./25883-shrike-avenger.json) |
 | Shrimp | 314251 | [314251-shrimp.json](./314251-shrimp.json) |
+| Shrimp Game: Overkrill | 292946 | [292946-shrimp-game-overkrill.json](./292946-shrimp-game-overkrill.json) |
 | Shrimp Keeping Simulator | 340371 | [340371-shrimp-keeping-simulator.json](./340371-shrimp-keeping-simulator.json) |
 | Shrimplation | 364686 | [364686-shrimplation.json](./364686-shrimplation.json) |
 | Shrimpwrecked | 310079 | [310079-shrimpwrecked.json](./310079-shrimpwrecked.json) |
@@ -26008,6 +26012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Snap | 384328 | [384328-sword-snap.json](./384328-sword-snap.json) |
 | Sword Story | 153500 | [153500-sword-story.json](./153500-sword-story.json) |
 | Sword Tomb: Kan Yu | 204854 | [204854-sword-tomb-kan-yu.json](./204854-sword-tomb-kan-yu.json) |
+| Sword vs. Horde | 292947 | [292947-sword-vs-horde.json](./292947-sword-vs-horde.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
 | Sword With Sauce | 29725 | [29725-sword-with-sauce.json](./29725-sword-with-sauce.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
