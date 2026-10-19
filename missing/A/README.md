@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New World Of Turnabouts | 303770 | [303770-a-new-world-of-turnabouts.json](./303770-a-new-world-of-turnabouts.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
+| A Night at the Watermill | 266072 | [266072-a-night-at-the-watermill.json](./266072-a-night-at-the-watermill.json) |
 | A Night at the Watermill: Collector's Bundle | 336052 | [336052-a-night-at-the-watermill-collectors-bundle.json](./336052-a-night-at-the-watermill-collectors-bundle.json) |
 | A Night Before the Deadline | 145625 | [145625-a-night-before-the-deadline.json](./145625-a-night-before-the-deadline.json) |
 | A Night Duty | 322452 | [322452-a-night-duty.json](./322452-a-night-duty.json) |
@@ -9747,6 +9748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena 3000 | 15601 | [15601-arena-3000.json](./15601-arena-3000.json) |
 | Arena 3D | 33631 | [33631-arena-3d.json](./33631-arena-3d.json) |
 | Arena 54: Visual Novel Action Adventure | 163237 | [163237-arena-54-visual-novel-action-adventure.json](./163237-arena-54-visual-novel-action-adventure.json) |
+| Arena 9th | 266071 | [266071-arena-9th.json](./266071-arena-9th.json) |
 | Arena Allstars | 125172 | [125172-arena-allstars.json](./125172-arena-allstars.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
 | Arena Battle | 230960 | [230960-arena-battle.json](./230960-arena-battle.json) |
