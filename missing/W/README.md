@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Need More Steam! | 282221 | [282221-we-need-more-steam.json](./282221-we-need-more-steam.json) |
 | We Need Space | 297859 | [297859-we-need-space.json](./297859-we-need-space.json) |
 | We Need the Sun | 185610 | [185610-we-need-the-sun.json](./185610-we-need-the-sun.json) |
+| We Need to Cook | 258337 | [258337-we-need-to-cook.json](./258337-we-need-to-cook.json) |
 | We Need To Go Deeper: Complete Edition | 367309 | [367309-we-need-to-go-deeper-complete-edition.json](./367309-we-need-to-go-deeper-complete-edition.json) |
 | We Need to Go Deeper: The Atomique | 174156 | [174156-we-need-to-go-deeper-the-atomique.json](./174156-we-need-to-go-deeper-the-atomique.json) |
 | We Never Left | 392241 | [392241-we-never-left.json](./392241-we-never-left.json) |
@@ -2285,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webshooters | 282218 | [282218-webshooters.json](./282218-webshooters.json) |
 | WebSurf | 204860 | [204860-websurf.json](./204860-websurf.json) |
 | Websy and the Time Rogues | 361304 | [361304-websy-and-the-time-rogues.json](./361304-websy-and-the-time-rogues.json) |
+| Webventure | 258338 | [258338-webventure.json](./258338-webventure.json) |
 | WEC Le Mans 24 | 55088 | [55088-wec-le-mans-24.json](./55088-wec-le-mans-24.json) |
 | Wedding | 170911 | [170911-wedding.json](./170911-wedding.json) |
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
@@ -3522,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Are You? | 169439 | [169439-who-are-you.json](./169439-who-are-you.json) |
 | Who Dares Wins | 360149 | [360149-who-dares-wins.json](./360149-who-dares-wins.json) |
 | Who Dares Wins II | 26283 | [26283-who-dares-wins-ii.json](./26283-who-dares-wins-ii.json) |
+| Who Did It? | 258326 | [258326-who-did-it.json](./258326-who-did-it.json) |
 | Who Dies First? | 318856 | [318856-who-dies-first.json](./318856-who-dies-first.json) |
 | Who Dies Last? | 214169 | [214169-who-dies-last.json](./214169-who-dies-last.json) |
 | Who Do You Want to Date? Professional Girls Collection | 288902 | [288902-who-do-you-want-to-date-professional-girls-collection.json](./288902-who-do-you-want-to-date-professional-girls-collection.json) |
