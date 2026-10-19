@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
 | I am a Man | 135120 | [135120-i-am-a-man.json](./135120-i-am-a-man.json) |
 | I am a Princess from Another World | 364231 | [364231-i-am-a-princess-from-another-world.json](./364231-i-am-a-princess-from-another-world.json) |
+| I am a Serial Killer | 257819 | [257819-i-am-a-serial-killer.json](./257819-i-am-a-serial-killer.json) |
 | I Am a Teacher: Super Mario Sweater | 41246 | [41246-i-am-a-teacher-super-mario-sweater.json](./41246-i-am-a-teacher-super-mario-sweater.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
 | I Am a Worm | 323341 | [323341-i-am-a-worm.json](./323341-i-am-a-worm.json) |
@@ -3914,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Stars | 21564 | [21564-into-the-stars.json](./21564-into-the-stars.json) |
 | Into the Stars - Deluxe | 53235 | [53235-into-the-stars-deluxe.json](./53235-into-the-stars-deluxe.json) |
 | Into the Timeverse | 172180 | [172180-into-the-timeverse.json](./172180-into-the-timeverse.json) |
+| Into the Twilight | 257794 | [257794-into-the-twilight.json](./257794-into-the-twilight.json) |
 | Into the Underdusk | 194894 | [194894-into-the-underdusk.json](./194894-into-the-underdusk.json) |
 | Into the Unknown | 30597 | [30597-into-the-unknown.json](./30597-into-the-unknown.json) |
 | Into The Unknown | 288814 | [288814-into-the-unknown.json](./288814-into-the-unknown.json) |
