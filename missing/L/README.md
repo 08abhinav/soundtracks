@@ -2186,6 +2186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legioncraft | 125114 | [125114-legioncraft.json](./125114-legioncraft.json) |
 | Legionnaire | 23968 | [23968-legionnaire.json](./23968-legionnaire.json) |
 | Legionnaire | 81453 | [81453-legionnaire.json](./81453-legionnaire.json) |
+| Legions | 264496 | [264496-legions.json](./264496-legions.json) |
 | Legions At War | 97268 | [97268-legions-at-war.json](./97268-legions-at-war.json) |
 | Legions Masters | 130671 | [130671-legions-masters.json](./130671-legions-masters.json) |
 | Legions of Ashworld | 17575 | [17575-legions-of-ashworld.json](./17575-legions-of-ashworld.json) |
