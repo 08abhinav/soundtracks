@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YokeLight | 103421 | [103421-yokelight.json](./103421-yokelight.json) |
 | Yokiyo | 399855 | [399855-yokiyo.json](./399855-yokiyo.json) |
 | Yokiyo | 399856 | [399856-yokiyo.json](./399856-yokiyo.json) |
+| Yoko | 277754 | [277754-yoko.json](./277754-yoko.json) |
 | Yoko & Yuki: Dr. Rat's Revenge | 147271 | [147271-yoko-and-yuki-dr-rats-revenge.json](./147271-yoko-and-yuki-dr-rats-revenge.json) |
 | Yoko no Hanashi | 386997 | [386997-yoko-no-hanashi.json](./386997-yoko-no-hanashi.json) |
 | Yoko Redux | 185449 | [185449-yoko-redux.json](./185449-yoko-redux.json) |
