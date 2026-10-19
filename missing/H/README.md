@@ -2112,6 +2112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawaiian Explorer: Lost Island | 53172 | [53172-hawaiian-explorer-lost-island.json](./53172-hawaiian-explorer-lost-island.json) |
 | Hawaiian Explorer: Pearl Harbor | 53171 | [53171-hawaiian-explorer-pearl-harbor.json](./53171-hawaiian-explorer-pearl-harbor.json) |
 | Hawaiian Solitaire | 386142 | [386142-hawaiian-solitaire.json](./386142-hawaiian-solitaire.json) |
+| Hawk and Puma | 307423 | [307423-hawk-and-puma.json](./307423-hawk-and-puma.json) |
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Kawasaki Racing | 146546 | [146546-hawk-kawasaki-racing.json](./146546-hawk-kawasaki-racing.json) |
 | Hawk Tuah | 310242 | [310242-hawk-tuah.json](./310242-hawk-tuah.json) |
@@ -6013,11 +6014,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
+| Hitman 3 Access Pass: Hitman 2 Expansion Pass | 307377 | [307377-hitman-3-access-pass-hitman-2-expansion-pass.json](./307377-hitman-3-access-pass-hitman-2-expansion-pass.json) |
 | Hitman 3 Access Pass: Hitman 2 Standard | 233572 | [233572-hitman-3-access-pass-hitman-2-standard.json](./233572-hitman-3-access-pass-hitman-2-standard.json) |
 | Hitman 3 VR: Reloaded | 304322 | [304322-hitman-3-vr-reloaded.json](./304322-hitman-3-vr-reloaded.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
+| Hitman 3: Seven Deadly Sins Act 1 - Greed | 307384 | [307384-hitman-3-seven-deadly-sins-act-1-greed.json](./307384-hitman-3-seven-deadly-sins-act-1-greed.json) |
+| Hitman 3: Seven Deadly Sins Act 2 - Pride | 307385 | [307385-hitman-3-seven-deadly-sins-act-2-pride.json](./307385-hitman-3-seven-deadly-sins-act-2-pride.json) |
+| Hitman 3: Seven Deadly Sins Act 3 - Sloth | 307386 | [307386-hitman-3-seven-deadly-sins-act-3-sloth.json](./307386-hitman-3-seven-deadly-sins-act-3-sloth.json) |
+| Hitman 3: Seven Deadly Sins Act 4 - Lust | 307387 | [307387-hitman-3-seven-deadly-sins-act-4-lust.json](./307387-hitman-3-seven-deadly-sins-act-4-lust.json) |
+| Hitman 3: Seven Deadly Sins Act 5 - Gluttony | 307388 | [307388-hitman-3-seven-deadly-sins-act-5-gluttony.json](./307388-hitman-3-seven-deadly-sins-act-5-gluttony.json) |
+| Hitman 3: Seven Deadly Sins Act 6 - Envy | 307389 | [307389-hitman-3-seven-deadly-sins-act-6-envy.json](./307389-hitman-3-seven-deadly-sins-act-6-envy.json) |
+| Hitman 3: Seven Deadly Sins Act 7 - Wrath | 307390 | [307390-hitman-3-seven-deadly-sins-act-7-wrath.json](./307390-hitman-3-seven-deadly-sins-act-7-wrath.json) |
 | Hitman 3: The Banker Pack | 357256 | [357256-hitman-3-the-banker-pack.json](./357256-hitman-3-the-banker-pack.json) |
+| Hitman 3: The Disruptor Pack | 307382 | [307382-hitman-3-the-disruptor-pack.json](./307382-hitman-3-the-disruptor-pack.json) |
 | Hitman 3: The Sarajevo Six | 279033 | [279033-hitman-3-the-sarajevo-six.json](./279033-hitman-3-the-sarajevo-six.json) |
 | Hitman 3: The Splitter Pack | 357257 | [357257-hitman-3-the-splitter-pack.json](./357257-hitman-3-the-splitter-pack.json) |
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
@@ -6266,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokuto no Ken: Shinpan no Sousousei Kengo Retsuden | 77991 | [77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json](./77991-hokuto-no-ken-shinpan-no-sousousei-kengo-retsuden.json) |
 | Hokuto no Ken: Violence Gekiga Adventure | 64195 | [64195-hokuto-no-ken-violence-gekiga-adventure.json](./64195-hokuto-no-ken-violence-gekiga-adventure.json) |
 | Hola! Reversi | 248655 | [248655-hola-reversi.json](./248655-hola-reversi.json) |
+| Holbrook Hotel | 307364 | [307364-holbrook-hotel.json](./307364-holbrook-hotel.json) |
 | Hold a Second | 241341 | [241341-hold-a-second.json](./241341-hold-a-second.json) |
 | Hold Controller | 211904 | [211904-hold-controller.json](./211904-hold-controller.json) |
 | Hold Fast | 13006 | [13006-hold-fast.json](./13006-hold-fast.json) |
