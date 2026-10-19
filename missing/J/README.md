@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jessie 'Boom' James | 148344 | [148344-jessie-boom-james.json](./148344-jessie-boom-james.json) |
 | Jessie Jaeger in Cleopatra's Curse | 142392 | [142392-jessie-jaeger-in-cleopatras-curse.json](./142392-jessie-jaeger-in-cleopatras-curse.json) |
 | Jessy: Ein Zirkuspferd in Not | 85736 | [85736-jessy-ein-zirkuspferd-in-not.json](./85736-jessy-ein-zirkuspferd-in-not.json) |
+| Jest Messter | 296155 | [296155-jest-messter.json](./296155-jest-messter.json) |
 | Jester | 251714 | [251714-jester.json](./251714-jester.json) |
 | Jester / King | 166745 | [166745-jester-king.json](./166745-jester-king.json) |
 | Jester Party | 374931 | [374931-jester-party.json](./374931-jester-party.json) |
@@ -1077,6 +1078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Atlantis Solitaire: Collector's Edition | 126907 | [126907-jewel-match-atlantis-solitaire-collectors-edition.json](./126907-jewel-match-atlantis-solitaire-collectors-edition.json) |
 | Jewel Match IV | 128477 | [128477-jewel-match-iv.json](./128477-jewel-match-iv.json) |
 | Jewel Match Origins: Palais Imperial - Collector's Edition | 169954 | [169954-jewel-match-origins-palais-imperial-collectors-edition.json](./169954-jewel-match-origins-palais-imperial-collectors-edition.json) |
+| Jewel Match Royale | 296202 | [296202-jewel-match-royale.json](./296202-jewel-match-royale.json) |
 | Jewel Match Royale 2: Rise of the King | 296203 | [296203-jewel-match-royale-2-rise-of-the-king.json](./296203-jewel-match-royale-2-rise-of-the-king.json) |
 | Jewel Match Solitaire | 105217 | [105217-jewel-match-solitaire.json](./105217-jewel-match-solitaire.json) |
 | Jewel Match Solitaire Fantasy: Collector's Edition | 348894 | [348894-jewel-match-solitaire-fantasy-collectors-edition.json](./348894-jewel-match-solitaire-fantasy-collectors-edition.json) |
@@ -2722,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
+| Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
 | Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
 | Junkineering | 320866 | [320866-junkineering.json](./320866-junkineering.json) |
 | Junkland Jam | 92097 | [92097-junkland-jam.json](./92097-junkland-jam.json) |
