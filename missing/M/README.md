@@ -2271,6 +2271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic Panic Ghosts | 97676 | [97676-manic-panic-ghosts.json](./97676-manic-panic-ghosts.json) |
 | Manic the Lad: Rage Against the Maniac | 266702 | [266702-manic-the-lad-rage-against-the-maniac.json](./266702-manic-the-lad-rage-against-the-maniac.json) |
 | Manic Troll | 246468 | [246468-manic-troll.json](./246468-manic-troll.json) |
+| Manic X | 266655 | [266655-manic-x.json](./266655-manic-x.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manic: Unknown World | 394758 | [394758-manic-unknown-world.json](./394758-manic-unknown-world.json) |
 | Manicos Haunted Hotel | 337508 | [337508-manicos-haunted-hotel.json](./337508-manicos-haunted-hotel.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mardek | 150427 | [150427-mardek.json](./150427-mardek.json) |
 | Mardek RPG: Chapter 1 | 62756 | [62756-mardek-rpg-chapter-1.json](./62756-mardek-rpg-chapter-1.json) |
 | Mardek RPG: Chapter 2 | 62729 | [62729-mardek-rpg-chapter-2.json](./62729-mardek-rpg-chapter-2.json) |
+| Mardori | 266611 | [266611-mardori.json](./266611-mardori.json) |
 | Mare | 177407 | [177407-mare.json](./177407-mare.json) |
 | Mare | 25933 | [25933-mare.json](./25933-mare.json) |
 | Maré do Amor | 332289 | [332289-mare-do-amor.json](./332289-mare-do-amor.json) |
@@ -9545,6 +9547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
 | Miniature Mayhem! | 262931 | [262931-miniature-mayhem.json](./262931-miniature-mayhem.json) |
 | Miniature TD | 54481 | [54481-miniature-td.json](./54481-miniature-td.json) |
+| Miniatures | 266610 | [266610-miniatures.json](./266610-miniatures.json) |
 | Miniatures | 295904 | [295904-miniatures.json](./295904-miniatures.json) |
 | Miniballist | 90530 | [90530-miniballist.json](./90530-miniballist.json) |
 | Minibash | 223621 | [223621-minibash.json](./223621-minibash.json) |
@@ -10963,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moksha | 402528 | [402528-moksha.json](./402528-moksha.json) |
 | MolaMola Adventure | 333039 | [333039-molamola-adventure.json](./333039-molamola-adventure.json) |
 | Molang: A Happy Day | 101010 | [101010-molang-a-happy-day.json](./101010-molang-a-happy-day.json) |
+| Molar: Underground | 266609 | [266609-molar-underground.json](./266609-molar-underground.json) |
 | Mold | 239558 | [239558-mold.json](./239558-mold.json) |
 | Mold From Outer Space | 344915 | [344915-mold-from-outer-space.json](./344915-mold-from-outer-space.json) |
 | Mold on Pizza | 34817 | [34817-mold-on-pizza.json](./34817-mold-on-pizza.json) |
@@ -11828,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
+| Monster Puroresu | 266632 | [266632-monster-puroresu.json](./266632-monster-puroresu.json) |
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
@@ -15355,6 +15360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Lovely Cat: Remastered | 325733 | [325733-my-lovely-cat-remastered.json](./325733-my-lovely-cat-remastered.json) |
 | My Lovely Daughter: The Inquisitor | 170233 | [170233-my-lovely-daughter-the-inquisitor.json](./170233-my-lovely-daughter-the-inquisitor.json) |
 | My Lovely Dog Adventure | 263231 | [263231-my-lovely-dog-adventure.json](./263231-my-lovely-dog-adventure.json) |
+| My Lovely Empress | 266612 | [266612-my-lovely-empress.json](./266612-my-lovely-empress.json) |
 | My Lovely Family Bundle | 223563 | [223563-my-lovely-family-bundle.json](./223563-my-lovely-family-bundle.json) |
 | My Lovely Flower | 373659 | [373659-my-lovely-flower.json](./373659-my-lovely-flower.json) |
 | My Lovely Girls | 382492 | [382492-my-lovely-girls.json](./382492-my-lovely-girls.json) |
@@ -15419,6 +15425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
+| My new neighbor is a Futa | 266608 | [266608-my-new-neighbor-is-a-futa.json](./266608-my-new-neighbor-is-a-futa.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
 | My Newborn Puppy | 109165 | [109165-my-newborn-puppy.json](./109165-my-newborn-puppy.json) |
 | My Newborn Santa: Grow A Christmas Baby | 256348 | [256348-my-newborn-santa-grow-a-christmas-baby.json](./256348-my-newborn-santa-grow-a-christmas-baby.json) |
