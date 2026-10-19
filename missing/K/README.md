@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
+| Koi Suru! Brother-kun | 301691 | [301691-koi-suru-brother-kun.json](./301691-koi-suru-brother-kun.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
 | Koi wa Alf Laylah | 191691 | [191691-koi-wa-alf-laylah.json](./191691-koi-wa-alf-laylah.json) |
 | Koi wa Sotto Saku Hana no you ni | 194533 | [194533-koi-wa-sotto-saku-hana-no-you-ni.json](./194533-koi-wa-sotto-saku-hana-no-you-ni.json) |
