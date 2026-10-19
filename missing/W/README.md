@@ -2263,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Runner | 178066 | [178066-web-runner.json](./178066-web-runner.json) |
 | Web Spice | 88230 | [88230-web-spice.json](./88230-web-spice.json) |
 | Web Spice Purple World | 128020 | [128020-web-spice-purple-world.json](./128020-web-spice-purple-world.json) |
+| Web Sudoku | 264460 | [264460-web-sudoku.json](./264460-web-sudoku.json) |
 | Webbed | 139458 | [139458-webbed.json](./139458-webbed.json) |
 | WebbVR: The James Webb Space Telescope Virtual Experience | 111631 | [111631-webbvr-the-james-webb-space-telescope-virtual-experience.json](./111631-webbvr-the-james-webb-space-telescope-virtual-experience.json) |
 | Webcam Love | 338387 | [338387-webcam-love.json](./338387-webcam-love.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingmen | 349940 | [349940-wingmen.json](./349940-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
+| Wings | 264454 | [264454-wings.json](./264454-wings.json) |
 | Wings | 282664 | [282664-wings.json](./282664-wings.json) |
 | Wings | 5450 | [5450-wings.json](./5450-wings.json) |
 | Wings - sim | 141502 | [141502-wings-sim.json](./141502-wings-sim.json) |
