@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xulaph Kaizo World | 267926 | [267926-xulaph-kaizo-world.json](./267926-xulaph-kaizo-world.json) |
 | Xump 2: Back to Space | 311040 | [311040-xump-2-back-to-space.json](./311040-xump-2-back-to-space.json) |
 | Xump: The Final Run | 153828 | [153828-xump-the-final-run.json](./153828-xump-the-final-run.json) |
+| Xurb | 292382 | [292382-xurb.json](./292382-xurb.json) |
 | Xuxa | 281455 | [281455-xuxa.json](./281455-xuxa.json) |
 | XV | 212778 | [212778-xv.json](./212778-xv.json) |
 | Xvirus | 397009 | [397009-xvirus.json](./397009-xvirus.json) |
