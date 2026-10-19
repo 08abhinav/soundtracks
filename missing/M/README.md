@@ -3080,6 +3080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marionette lab | 152979 | [152979-marionette-lab.json](./152979-marionette-lab.json) |
 | Marionette Mates | 245752 | [245752-marionette-mates.json](./245752-marionette-mates.json) |
 | MarionetteAI | 41970 | [41970-marionetteai.json](./41970-marionetteai.json) |
+| MarioQuest | 307408 | [307408-marioquest.json](./307408-marioquest.json) |
 | MarioQuest 2: Sonic Returns | 381729 | [381729-marioquest-2-sonic-returns.json](./381729-marioquest-2-sonic-returns.json) |
 | MarioQuest 3: The Ghost of SEGA | 318033 | [318033-marioquest-3-the-ghost-of-sega.json](./318033-marioquest-3-the-ghost-of-sega.json) |
 | Mariostro Strikers: Soccer League | 329719 | [329719-mariostro-strikers-soccer-league.json](./329719-mariostro-strikers-soccer-league.json) |
@@ -4803,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meat Without Master | 349839 | [349839-meat-without-master.json](./349839-meat-without-master.json) |
 | Meat-Grinder | 280126 | [280126-meat-grinder.json](./280126-meat-grinder.json) |
 | Meatball | 156613 | [156613-meatball.json](./156613-meatball.json) |
+| Meatball the Mite | 307374 | [307374-meatball-the-mite.json](./307374-meatball-the-mite.json) |
 | Meatballphobia | 62286 | [62286-meatballphobia.json](./62286-meatballphobia.json) |
 | Meatballs | 409391 | [409391-meatballs.json](./409391-meatballs.json) |
 | Meatballs Farm | 381281 | [381281-meatballs-farm.json](./381281-meatballs-farm.json) |
@@ -7616,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michel Futbol Master + Super Skills | 93076 | [93076-michel-futbol-master-super-skills.json](./93076-michel-futbol-master-super-skills.json) |
 | Michel Teló Around the World | 248621 | [248621-michel-telo-around-the-world.json](./248621-michel-telo-around-the-world.json) |
 | Michelangelo: Stonemason Simulator | 344717 | [344717-michelangelo-stonemason-simulator.json](./344717-michelangelo-stonemason-simulator.json) |
+| Michelle Kwan Figure Skating | 307405 | [307405-michelle-kwan-figure-skating.json](./307405-michelle-kwan-figure-skating.json) |
 | Michelle Kwan Fiqure Skating | 209518 | [209518-michelle-kwan-fiqure-skating.json](./209518-michelle-kwan-fiqure-skating.json) |
 | Michi | 244334 | [244334-michi.json](./244334-michi.json) |
 | Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
@@ -11373,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster Detective | 392740 | [392740-monster-detective.json](./392740-monster-detective.json) |
 | Monster Dice | 175649 | [175649-monster-dice.json](./175649-monster-dice.json) |
+| Monster DNA | 307413 | [307413-monster-dna.json](./307413-monster-dna.json) |
 | Monster Dot | 76154 | [76154-monster-dot.json](./76154-monster-dot.json) |
 | Monster Dungeon | 192666 | [192666-monster-dungeon.json](./192666-monster-dungeon.json) |
 | Monster Dunk | 130333 | [130333-monster-dunk.json](./130333-monster-dunk.json) |
@@ -15173,6 +15177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Mom's Bestfriend! | 346194 | [346194-my-moms-bestfriend.json](./346194-my-moms-bestfriend.json) |
 | My Monster | 318391 | [318391-my-monster.json](./318391-my-monster.json) |
 | My Monster Rancher | 61129 | [61129-my-monster-rancher.json](./61129-my-monster-rancher.json) |
+| My Monsters | 307426 | [307426-my-monsters.json](./307426-my-monsters.json) |
 | My Moon Mart | 212467 | [212467-my-moon-mart.json](./212467-my-moon-mart.json) |
 | My Moorhen | 282549 | [282549-my-moorhen.json](./282549-my-moorhen.json) |
 | My Motel | 247987 | [247987-my-motel.json](./247987-my-motel.json) |
