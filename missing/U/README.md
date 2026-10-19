@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Dungeon | 192418 | [192418-underground-dungeon.json](./192418-underground-dungeon.json) |
 | Underground Ernie: International Fun Station | 328423 | [328423-underground-ernie-international-fun-station.json](./328423-underground-ernie-international-fun-station.json) |
 | Underground Fortress | 308360 | [308360-underground-fortress.json](./308360-underground-fortress.json) |
+| Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
 | Underground Mission | 327641 | [327641-underground-mission.json](./327641-underground-mission.json) |
