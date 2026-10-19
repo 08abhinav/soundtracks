@@ -6481,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Night | 303369 | [303369-bite-night.json](./303369-bite-night.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
+| Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
 | Bite Sized Puzzle | 163527 | [163527-bite-sized-puzzle.json](./163527-bite-sized-puzzle.json) |
 | Bite the Bullet | 108770 | [108770-bite-the-bullet.json](./108770-bite-the-bullet.json) |
 | Bite the Crown | 345666 | [345666-bite-the-crown.json](./345666-bite-the-crown.json) |
@@ -10037,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Botanica: Into the Unknown | 140287 | [140287-botanica-into-the-unknown.json](./140287-botanica-into-the-unknown.json) |
 | Botanical Chronicle | 266287 | [266287-botanical-chronicle.json](./266287-botanical-chronicle.json) |
 | Botanical TD | 214163 | [214163-botanical-td.json](./214163-botanical-td.json) |
+| Botanical Warden | 258332 | [258332-botanical-warden.json](./258332-botanical-warden.json) |
 | Botanicula: Collector's Edition | 186881 | [186881-botanicula-collectors-edition.json](./186881-botanicula-collectors-edition.json) |
 | Botanik | 129569 | [129569-botanik.json](./129569-botanik.json) |
 | Botaniki | 229673 | [229673-botaniki.json](./229673-botaniki.json) |
@@ -12827,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumparound | 181673 | [181673-bumparound.json](./181673-bumparound.json) |
 | Bumper | 31845 | [31845-bumper.json](./31845-bumper.json) |
 | Bumper 7 | 319574 | [319574-bumper-7.json](./319574-bumper-7.json) |
+| Bumper Arena | 258355 | [258355-bumper-arena.json](./258355-bumper-arena.json) |
 | Bumper Ball Bash | 276229 | [276229-bumper-ball-bash.json](./276229-bumper-ball-bash.json) |
 | Bumper Ball Io | 220811 | [220811-bumper-ball-io.json](./220811-bumper-ball-io.json) |
 | Bumper Bash | 40630 | [40630-bumper-bash.json](./40630-bumper-bash.json) |
