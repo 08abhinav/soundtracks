@@ -3590,6 +3590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsky Blue Magical Girl | 308912 | [308912-nightsky-blue-magical-girl.json](./308912-nightsky-blue-magical-girl.json) |
 | Nightslink | 165643 | [165643-nightslink.json](./165643-nightslink.json) |
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
+| Nightsong | 257202 | [257202-nightsong.json](./257202-nightsong.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
 | Nightstars | 233964 | [233964-nightstars.json](./233964-nightstars.json) |
@@ -4910,6 +4911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonomura Byouin no Hitobito | 85977 | [85977-nonomura-byouin-no-hitobito.json](./85977-nonomura-byouin-no-hitobito.json) |
 | Nonono Puzzle Chalien | 49747 | [49747-nonono-puzzle-chalien.json](./49747-nonono-puzzle-chalien.json) |
 | Nonononogram | 343313 | [343313-nonononogram.json](./343313-nonononogram.json) |
+| Nonorelia | 257208 | [257208-nonorelia.json](./257208-nonorelia.json) |
 | Nonotown | 238467 | [238467-nonotown.json](./238467-nonotown.json) |
 | Nonozle: Food and Drink + Miscellaneous Puzzle Packs | 332610 | [332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json](./332610-nonozle-food-and-drink-miscellaneous-puzzle-packs.json) |
 | Nonsense Asteroid | 134327 | [134327-nonsense-asteroid.json](./134327-nonsense-asteroid.json) |
@@ -5774,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nǚyǒu yǔ Wǒ de Liàn'ài Rìcháng | 113869 | [113869-nuyou-yu-wo-de-lianai-richang.json](./113869-nuyou-yu-wo-de-lianai-richang.json) |
 | NVIDIA VR Funhouse | 56867 | [56867-nvidia-vr-funhouse.json](./56867-nvidia-vr-funhouse.json) |
 | NvmU | 229558 | [229558-nvmu.json](./229558-nvmu.json) |
+| NXT Takeover | 257227 | [257227-nxt-takeover.json](./257227-nxt-takeover.json) |
 | NY City Bank Manager 2018 | 96725 | [96725-ny-city-bank-manager-2018.json](./96725-ny-city-bank-manager-2018.json) |
 | NY Race | 22047 | [22047-ny-race.json](./22047-ny-race.json) |
 | Ny Rex | 101025 | [101025-ny-rex.json](./101025-ny-rex.json) |
