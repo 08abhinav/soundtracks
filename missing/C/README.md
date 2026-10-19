@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Roulette | 14384 | [14384-casino-roulette.json](./14384-casino-roulette.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
+| Casino Simulator 2024 | 300450 | [300450-casino-simulator-2024.json](./300450-casino-simulator-2024.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
 | Casino Tycoon | 130666 | [130666-casino-tycoon.json](./130666-casino-tycoon.json) |
@@ -7505,6 +7506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
 | Clockwork Empires | 9764 | [9764-clockwork-empires.json](./9764-clockwork-empires.json) |
 | Clockwork Knight 2 | 19717 | [19717-clockwork-knight-2.json](./19717-clockwork-knight-2.json) |
+| Clockwork Knight Puzzle | 300552 | [300552-clockwork-knight-puzzle.json](./300552-clockwork-knight-puzzle.json) |
 | Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
 | Clockwork Manor | 240914 | [240914-clockwork-manor.json](./240914-clockwork-manor.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
@@ -10599,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Race | 292773 | [292773-corgi-race.json](./292773-corgi-race.json) |
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
+| Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
 | Coridden: Deluxe Edition | 380150 | [380150-coridden-deluxe-edition.json](./380150-coridden-deluxe-edition.json) |
