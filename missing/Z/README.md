@@ -964,6 +964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoids: Legacy | 49203 | [49203-zoids-legacy.json](./49203-zoids-legacy.json) |
 | Zoids: Mokushiroku | 48595 | [48595-zoids-mokushiroku.json](./48595-zoids-mokushiroku.json) |
 | Zoids: Shirogane no Juukishin Liger Zero | 282799 | [282799-zoids-shirogane-no-juukishin-liger-zero.json](./282799-zoids-shirogane-no-juukishin-liger-zero.json) |
+| Zoids: Teikoku vs Kyouwakoku - Mecha Seita no Idenshi | 278310 | [278310-zoids-teikoku-vs-kyouwakoku-mecha-seita-no-idenshi.json](./278310-zoids-teikoku-vs-kyouwakoku-mecha-seita-no-idenshi.json) |
 | Zoids: The Battle Begins | 75873 | [75873-zoids-the-battle-begins.json](./75873-zoids-the-battle-begins.json) |
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
