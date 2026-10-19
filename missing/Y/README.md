@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yihongyuan | 236947 | [236947-yihongyuan.json](./236947-yihongyuan.json) |
 | Yiki Action RPG | 117692 | [117692-yiki-action-rpg.json](./117692-yiki-action-rpg.json) |
 | Yin Yang | 160091 | [160091-yin-yang.json](./160091-yin-yang.json) |
+| Yin Yang | 280673 | [280673-yin-yang.json](./280673-yin-yang.json) |
 | Yin Yang Space | 197075 | [197075-yin-yang-space.json](./197075-yin-yang-space.json) |
 | Yīn Yuán | 368098 | [368098-yin-yuan.json](./368098-yin-yuan.json) |
 | Yin-Yang Labyrinth | 301600 | [301600-yin-yang-labyrinth.json](./301600-yin-yang-labyrinth.json) |
@@ -1122,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your World | 137332 | [137332-your-world.json](./137332-your-world.json) |
 | Your World According to a Single Word | 312298 | [312298-your-world-according-to-a-single-word.json](./312298-your-world-according-to-a-single-word.json) |
 | Your_New_Life_Letter.rtf.exe | 234563 | [234563-your-new-life-letter-rtf-exe.json](./234563-your-new-life-letter-rtf-exe.json) |
+| Youra | 280635 | [280635-youra.json](./280635-youra.json) |
 | Yourcraft | 361322 | [361322-yourcraft.json](./361322-yourcraft.json) |
 | YourFigureOut | 283858 | [283858-yourfigureout.json](./283858-yourfigureout.json) |
 | YouRiding: Surfing and Bodyboarding Game | 170362 | [170362-youriding-surfing-and-bodyboarding-game.json](./170362-youriding-surfing-and-bodyboarding-game.json) |
