@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO on Tape: First Contact | 117010 | [117010-ufo-on-tape-first-contact.json](./117010-ufo-on-tape-first-contact.json) |
 | UFO Ride | 294725 | [294725-ufo-ride.json](./294725-ufo-ride.json) |
 | UFO Robot Grendizer: The Feast of the Wolves | 239407 | [239407-ufo-robot-grendizer-the-feast-of-the-wolves.json](./239407-ufo-robot-grendizer-the-feast-of-the-wolves.json) |
+| UFO Robot Grendizer: The Feast of the Wolves - Princely Outfit | 301563 | [301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json](./301563-ufo-robot-grendizer-the-feast-of-the-wolves-princely-outfit.json) |
 | UFO Shooting | 312273 | [312273-ufo-shooting.json](./312273-ufo-shooting.json) |
 | UFO Sightings Simulator | 282255 | [282255-ufo-sightings-simulator.json](./282255-ufo-sightings-simulator.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
