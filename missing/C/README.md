@@ -496,7 +496,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops III - Eclipse | 20291 | [20291-call-of-duty-black-ops-iii-eclipse.json](./20291-call-of-duty-black-ops-iii-eclipse.json) |
 | Call of Duty: Black Ops III - Game of the Year Edition | 202222 | [202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json](./202222-call-of-duty-black-ops-iii-game-of-the-year-edition.json) |
 | Call of Duty: Black Ops III - Hardened Edition | 41615 | [41615-call-of-duty-black-ops-iii-hardened-edition.json](./41615-call-of-duty-black-ops-iii-hardened-edition.json) |
+| Call of Duty: Black Ops III - Season Pass | 290246 | [290246-call-of-duty-black-ops-iii-season-pass.json](./290246-call-of-duty-black-ops-iii-season-pass.json) |
 | Call of Duty: Black Ops III - Steelbook Edition | 8905 | [8905-call-of-duty-black-ops-iii-steelbook-edition.json](./8905-call-of-duty-black-ops-iii-steelbook-edition.json) |
+| Call of Duty: Black Ops III - The Giant | 290251 | [290251-call-of-duty-black-ops-iii-the-giant.json](./290251-call-of-duty-black-ops-iii-the-giant.json) |
+| Call of Duty: Black Ops III - Zombies Chronicles Deluxe Edition | 290248 | [290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json](./290248-call-of-duty-black-ops-iii-zombies-chronicles-deluxe-edition.json) |
+| Call of Duty: Black Ops III Game of the Year + Zombie Chronicles Bundle | 290254 | [290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json](./290254-call-of-duty-black-ops-iii-game-of-the-year-zombie-chronicles-bundle.json) |
 | Call of Duty: Black Ops Mobile | 135300 | [135300-call-of-duty-black-ops-mobile.json](./135300-call-of-duty-black-ops-mobile.json) |
 | Call of Duty: Definitive Collection - Volume 1 | 52718 | [52718-call-of-duty-definitive-collection-volume-1.json](./52718-call-of-duty-definitive-collection-volume-1.json) |
 | Call of Duty: Deluxe Edition | 285392 | [285392-call-of-duty-deluxe-edition.json](./285392-call-of-duty-deluxe-edition.json) |
@@ -2666,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Moonlight Rhapsody | 421838 | [421838-castlevania-moonlight-rhapsody.json](./421838-castlevania-moonlight-rhapsody.json) |
 | Castlevania: Order of Ecclesia | 1141 | [1141-castlevania-order-of-ecclesia.json](./1141-castlevania-order-of-ecclesia.json) |
 | Castlevania: Order of Ecclesia | 315317 | [315317-castlevania-order-of-ecclesia.json](./315317-castlevania-order-of-ecclesia.json) |
+| Castlevania: Order of Ecclesia - Zero Collection | 290245 | [290245-castlevania-order-of-ecclesia-zero-collection.json](./290245-castlevania-order-of-ecclesia-zero-collection.json) |
 | Castlevania: Order of Shadows | 1140 | [1140-castlevania-order-of-shadows.json](./1140-castlevania-order-of-shadows.json) |
 | Castlevania: Part 1 | 398839 | [398839-castlevania-part-1.json](./398839-castlevania-part-1.json) |
 | Castlevania: Part 1 | 398842 | [398842-castlevania-part-1.json](./398842-castlevania-part-1.json) |
@@ -7959,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
+| Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
@@ -10401,6 +10407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
+| Cooking Mama Seasons | 290280 | [290280-cooking-mama-seasons.json](./290280-cooking-mama-seasons.json) |
 | Cooking Mama World: Hobbies & Fun | 47957 | [47957-cooking-mama-world-hobbies-and-fun.json](./47957-cooking-mama-world-hobbies-and-fun.json) |
 | Cooking Mama: Let's Cook! | 88776 | [88776-cooking-mama-lets-cook.json](./88776-cooking-mama-lets-cook.json) |
 | Cooking Mama: Mama Kills Animals | 18449 | [18449-cooking-mama-mama-kills-animals.json](./18449-cooking-mama-mama-kills-animals.json) |
@@ -10607,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cordial Minuet | 97298 | [97298-cordial-minuet.json](./97298-cordial-minuet.json) |
 | Cordillera | 287878 | [287878-cordillera.json](./287878-cordillera.json) |
 | Córdoba Court | 398659 | [398659-cordoba-court.json](./398659-cordoba-court.json) |
+| Cordy Sky | 290259 | [290259-cordy-sky.json](./290259-cordy-sky.json) |
 | Cordyceps Island | 295169 | [295169-cordyceps-island.json](./295169-cordyceps-island.json) |
 | Core | 131411 | [131411-core.json](./131411-core.json) |
 | Core | 13517 | [13517-core.json](./13517-core.json) |
