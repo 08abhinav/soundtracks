@@ -536,6 +536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
 | Odyssey Kingdoms Expansion | 344012 | [344012-odyssey-kingdoms-expansion.json](./344012-odyssey-kingdoms-expansion.json) |
 | Odyssey of Dremid'ir | 216747 | [216747-odyssey-of-dremidir.json](./216747-odyssey-of-dremidir.json) |
+| Odyssey of the Anachronistic Tome | 296201 | [296201-odyssey-of-the-anachronistic-tome.json](./296201-odyssey-of-the-anachronistic-tome.json) |
 | Odyssey of the Explorer | 302108 | [302108-odyssey-of-the-explorer.json](./302108-odyssey-of-the-explorer.json) |
 | Odyssey RPG | 62634 | [62634-odyssey-rpg.json](./62634-odyssey-rpg.json) |
 | Odyssey: Altar of Norax | 191159 | [191159-odyssey-altar-of-norax.json](./191159-odyssey-altar-of-norax.json) |
