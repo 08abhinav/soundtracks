@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IlinkWord Play | 267332 | [267332-ilinkword-play.json](./267332-ilinkword-play.json) |
 | ILive | 110115 | [110115-ilive.json](./110115-ilive.json) |
 | Iljimae-jeon: Manman Papa Sikjeok-pyeon | 145615 | [145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json](./145615-iljimae-jeon-manman-papa-sikjeok-pyeon.json) |
+| Iljimae-jeon: Manpa Sikjeok-pyeon | 258846 | [258846-iljimae-jeon-manpa-sikjeok-pyeon.json](./258846-iljimae-jeon-manpa-sikjeok-pyeon.json) |
 | Ill Ness | 217251 | [217251-ill-ness.json](./217251-ill-ness.json) |
 | Ill Will | 125834 | [125834-ill-will.json](./125834-ill-will.json) |
 | Illagus | 133390 | [133390-illagus.json](./133390-illagus.json) |
