@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Gotouchi Collection: Koi no Doki-doki Travel | 269832 | [269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json](./269832-hello-kitty-no-gotouchi-collection-koi-no-doki-doki-travel.json) |
+| Hello Kitty no Gotouchi Collection: Koi no DokiDoki Trouble | 274891 | [274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json](./274891-hello-kitty-no-gotouchi-collection-koi-no-dokidoki-trouble.json) |
 | Hello Kitty no Hanabatake | 3688 | [3688-hello-kitty-no-hanabatake.json](./3688-hello-kitty-no-hanabatake.json) |
 | Hello Kitty no Happy Accessory | 279592 | [279592-hello-kitty-no-happy-accessory.json](./279592-hello-kitty-no-happy-accessory.json) |
 | Hello Kitty no Hiragana Katakana Onamae Kaitemiyou | 279600 | [279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json](./279600-hello-kitty-no-hiragana-katakana-onamae-kaitemiyou.json) |
@@ -6103,6 +6104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3 Access Pass: Hitman 2 Expansion Pass | 307377 | [307377-hitman-3-access-pass-hitman-2-expansion-pass.json](./307377-hitman-3-access-pass-hitman-2-expansion-pass.json) |
 | Hitman 3 Access Pass: Hitman 2 Standard | 233572 | [233572-hitman-3-access-pass-hitman-2-standard.json](./233572-hitman-3-access-pass-hitman-2-standard.json) |
 | Hitman 3 VR: Reloaded | 304322 | [304322-hitman-3-vr-reloaded.json](./304322-hitman-3-vr-reloaded.json) |
+| Hitman 3: Ambrose Island | 274894 | [274894-hitman-3-ambrose-island.json](./274894-hitman-3-ambrose-island.json) |
 | Hitman 3: Cloud Version | 140502 | [140502-hitman-3-cloud-version.json](./140502-hitman-3-cloud-version.json) |
 | Hitman 3: Patient Zero Requiem | 381244 | [381244-hitman-3-patient-zero-requiem.json](./381244-hitman-3-patient-zero-requiem.json) |
 | Hitman 3: Seven Deadly Sins Act 1 - Greed | 307384 | [307384-hitman-3-seven-deadly-sins-act-1-greed.json](./307384-hitman-3-seven-deadly-sins-act-1-greed.json) |
@@ -9391,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnorain | 22043 | [22043-hypnorain.json](./22043-hypnorain.json) |
 | Hypnorynth | 323294 | [323294-hypnorynth.json](./323294-hypnorynth.json) |
 | Hypnos | 385283 | [385283-hypnos.json](./385283-hypnos.json) |
+| Hypnosis Card | 274902 | [274902-hypnosis-card.json](./274902-hypnosis-card.json) |
 | Hypnosis Card 2 | 296917 | [296917-hypnosis-card-2.json](./296917-hypnosis-card-2.json) |
 | Hypnosis Done Braves | 82926 | [82926-hypnosis-done-braves.json](./82926-hypnosis-done-braves.json) |
 | Hypnosis Knight-Princess | 363664 | [363664-hypnosis-knight-princess.json](./363664-hypnosis-knight-princess.json) |
