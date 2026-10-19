@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telly Addicts | 43213 | [43213-telly-addicts.json](./43213-telly-addicts.json) |
 | Telly the TV | 314643 | [314643-telly-the-tv.json](./314643-telly-the-tv.json) |
 | Telly Turtle | 40905 | [40905-telly-turtle.json](./40905-telly-turtle.json) |
+| Telly Wise | 256680 | [256680-telly-wise.json](./256680-telly-wise.json) |
 | Telmari | 265615 | [265615-telmari.json](./265615-telmari.json) |
 | Telnet Shooting Collection | 277182 | [277182-telnet-shooting-collection.json](./277182-telnet-shooting-collection.json) |
 | Telocation: Gemini | 145455 | [145455-telocation-gemini.json](./145455-telocation-gemini.json) |
@@ -12266,6 +12267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Bug Squad! | 307953 | [307953-the-simpsons-bug-squad.json](./307953-the-simpsons-bug-squad.json) |
 | The Simpsons: Cartoon Studio | 2838 | [2838-the-simpsons-cartoon-studio.json](./2838-the-simpsons-cartoon-studio.json) |
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
+| The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
 | The Simpsons: Virtual Springfield | 2839 | [2839-the-simpsons-virtual-springfield.json](./2839-the-simpsons-virtual-springfield.json) |
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
@@ -16988,6 +16990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
+| Time Breaker | 256666 | [256666-time-breaker.json](./256666-time-breaker.json) |
 | Time Breaking: Dino Breach | 386427 | [386427-time-breaking-dino-breach.json](./386427-time-breaking-dino-breach.json) |
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
 | Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
@@ -18783,6 +18786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomomi: Denkitomodachi | 130251 | [130251-tomomi-denkitomodachi.json](./130251-tomomi-denkitomodachi.json) |
 | Tomomon Little | 408023 | [408023-tomomon-little.json](./408023-tomomon-little.json) |
 | Tomomon: Legacy of Light | 242514 | [242514-tomomon-legacy-of-light.json](./242514-tomomon-legacy-of-light.json) |
+| Tomoni | 256676 | [256676-tomoni.json](./256676-tomoni.json) |
 | Tomorrow | 171070 | [171070-tomorrow.json](./171070-tomorrow.json) |
 | Tomorrow | 34383 | [34383-tomorrow.json](./34383-tomorrow.json) |
 | Tomorrow Don't Come | 88255 | [88255-tomorrow-dont-come.json](./88255-tomorrow-dont-come.json) |
@@ -24500,6 +24504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Nights | 286037 | [286037-twinkle-nights.json](./286037-twinkle-nights.json) |
+| Twinkle Star Knights | 256686 | [256686-twinkle-star-knights.json](./256686-twinkle-star-knights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
 | Twinkle Star Sprites: La Petite Princesse | 43453 | [43453-twinkle-star-sprites-la-petite-princesse.json](./43453-twinkle-star-sprites-la-petite-princesse.json) |
 | Twinkle Star: Mirai wa Sugu Soko de Matteiru | 116906 | [116906-twinkle-star-mirai-wa-sugu-soko-de-matteiru.json](./116906-twinkle-star-mirai-wa-sugu-soko-de-matteiru.json) |
