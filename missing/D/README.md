@@ -7807,6 +7807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquiet | 226736 | [226736-disquiet.json](./226736-disquiet.json) |
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
+| Disrepair | 256151 | [256151-disrepair.json](./256151-disrepair.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Disrupt | 415226 | [415226-disrupt.json](./415226-disrupt.json) |
 | Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
@@ -14002,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light 2: Stay Human - Chicken Bundle | 243671 | [243671-dying-light-2-stay-human-chicken-bundle.json](./243671-dying-light-2-stay-human-chicken-bundle.json) |
 | Dying Light 2: Stay Human - Cloud Version | 172429 | [172429-dying-light-2-stay-human-cloud-version.json](./172429-dying-light-2-stay-human-cloud-version.json) |
 | Dying Light 2: Stay Human - Collector's Edition | 150146 | [150146-dying-light-2-stay-human-collectors-edition.json](./150146-dying-light-2-stay-human-collectors-edition.json) |
+| Dying Light 2: Stay Human - Hakon Bundle | 256113 | [256113-dying-light-2-stay-human-hakon-bundle.json](./256113-dying-light-2-stay-human-hakon-bundle.json) |
 | Dying Light 2: Stay Human - Reloaded Edition | 322800 | [322800-dying-light-2-stay-human-reloaded-edition.json](./322800-dying-light-2-stay-human-reloaded-edition.json) |
 | Dying Light 2: Stay Human - The Walking Dead Bundle | 259068 | [259068-dying-light-2-stay-human-the-walking-dead-bundle.json](./259068-dying-light-2-stay-human-the-walking-dead-bundle.json) |
 | Dying Light 2: Stay Human - Ultimate Edition | 169196 | [169196-dying-light-2-stay-human-ultimate-edition.json](./169196-dying-light-2-stay-human-ultimate-edition.json) |
