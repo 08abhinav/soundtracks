@@ -3910,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Settlement | 59305 | [59305-deep-space-settlement.json](./59305-deep-space-settlement.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
 | Deep Space Solitude | 369692 | [369692-deep-space-solitude.json](./369692-deep-space-solitude.json) |
+| Deep Space Tavern | 270012 | [270012-deep-space-tavern.json](./270012-deep-space-tavern.json) |
 | Deep Space Waifu: DLC | 281478 | [281478-deep-space-waifu-dlc.json](./281478-deep-space-waifu-dlc.json) |
 | Deep Space Waifu: Flat Justice | 77086 | [77086-deep-space-waifu-flat-justice.json](./77086-deep-space-waifu-flat-justice.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
