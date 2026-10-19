@@ -8192,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Idle | 409565 | [409565-midnight-idle.json](./409565-midnight-idle.json) |
 | Midnight is Lost | 156689 | [156689-midnight-is-lost.json](./156689-midnight-is-lost.json) |
 | Midnight Kebab | 384504 | [384504-midnight-kebab.json](./384504-midnight-kebab.json) |
+| Midnight Kun | 280114 | [280114-midnight-kun.json](./280114-midnight-kun.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
 | Midnight Lights | 276751 | [276751-midnight-lights.json](./276751-midnight-lights.json) |
@@ -8778,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mina of the Pirates | 87802 | [87802-mina-of-the-pirates.json](./87802-mina-of-the-pirates.json) |
 | Mina the Hollower | 189781 | [189781-mina-the-hollower.json](./189781-mina-the-hollower.json) |
 | Mina the Hollower GBC Demake | 305750 | [305750-mina-the-hollower-gbc-demake.json](./305750-mina-the-hollower-gbc-demake.json) |
+| Mina's Garden | 280088 | [280088-minas-garden.json](./280088-minas-garden.json) |
 | Minable & Create | 155123 | [155123-minable-and-create.json](./155123-minable-and-create.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
@@ -11267,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Wars! | 323749 | [323749-monkey-wars.json](./323749-monkey-wars.json) |
 | Monkey Wave | 383963 | [383963-monkey-wave.json](./383963-monkey-wave.json) |
 | Monkey-catching Game | 281476 | [281476-monkey-catching-game.json](./281476-monkey-catching-game.json) |
+| Monkey's Life | 280112 | [280112-monkeys-life.json](./280112-monkeys-life.json) |
 | MonkeyKing Chaos: VR | 286007 | [286007-monkeyking-chaos-vr.json](./286007-monkeyking-chaos-vr.json) |
 | MonkeyKing VR | 29748 | [29748-monkeyking-vr.json](./29748-monkeyking-vr.json) |
 | Monkeynauts: Merge Monkeys! | 233533 | [233533-monkeynauts-merge-monkeys.json](./233533-monkeynauts-merge-monkeys.json) |
@@ -13646,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Hopp's Playhouse 2 | 152818 | [152818-mr-hopps-playhouse-2.json](./152818-mr-hopps-playhouse-2.json) |
 | Mr. Hopp's Playhouse 3 | 239687 | [239687-mr-hopps-playhouse-3.json](./239687-mr-hopps-playhouse-3.json) |
 | Mr. Hopp's Playhouse: The Toybox | 371547 | [371547-mr-hopps-playhouse-the-toybox.json](./371547-mr-hopps-playhouse-the-toybox.json) |
+| Mr. Jones: Retrubition | 280090 | [280090-mr-jones-retrubition.json](./280090-mr-jones-retrubition.json) |
 | Mr. Jong | 329415 | [329415-mr-jong.json](./329415-mr-jong.json) |
 | Mr. Joshua Carrot | 128354 | [128354-mr-joshua-carrot.json](./128354-mr-joshua-carrot.json) |
 | Mr. Jumpington | 55652 | [55652-mr-jumpington.json](./55652-mr-jumpington.json) |
@@ -13999,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MultiEnding Heroes | 345558 | [345558-multiending-heroes.json](./345558-multiending-heroes.json) |
 | Multigravity | 188469 | [188469-multigravity.json](./188469-multigravity.json) |
 | Multigun | 345108 | [345108-multigun.json](./345108-multigun.json) |
+| Multilateral Planet | 280120 | [280120-multilateral-planet.json](./280120-multilateral-planet.json) |
 | Multilytheus | 186271 | [186271-multilytheus.json](./186271-multilytheus.json) |
 | Multimaker | 109748 | [109748-multimaker.json](./109748-multimaker.json) |
 | Multimedia Cats | 194441 | [194441-multimedia-cats.json](./194441-multimedia-cats.json) |
