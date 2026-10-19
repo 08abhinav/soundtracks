@@ -3922,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Secret of the Divine Jewel | 20653 | [20653-inuyasha-secret-of-the-divine-jewel.json](./20653-inuyasha-secret-of-the-divine-jewel.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
+| Invade | 302216 | [302216-invade.json](./302216-invade.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader | 59801 | [59801-invader.json](./59801-invader.json) |
