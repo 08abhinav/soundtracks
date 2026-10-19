@@ -7134,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platinum Demo: Final Fantasy XV | 299106 | [299106-platinum-demo-final-fantasy-xv.json](./299106-platinum-demo-final-fantasy-xv.json) |
 | Platinum Kill | 112272 | [112272-platinum-kill.json](./112272-platinum-kill.json) |
 | Platinum Pinball | 131266 | [131266-platinum-pinball.json](./131266-platinum-pinball.json) |
+| Platinum Sudoku | 263322 | [263322-platinum-sudoku.json](./263322-platinum-sudoku.json) |
 | Platinum White | 307137 | [307137-platinum-white.json](./307137-platinum-white.json) |
 | Plato | 86967 | [86967-plato.json](./86967-plato.json) |
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
@@ -8711,6 +8712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
+| Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity Remastered | 336401 | [336401-polarity-remastered.json](./336401-polarity-remastered.json) |
@@ -12789,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumped BMX+ | 20955 | [20955-pumped-bmx.json](./20955-pumped-bmx.json) |
 | Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
 | Pumping Simulator | 158617 | [158617-pumping-simulator.json](./158617-pumping-simulator.json) |
+| Pumping Simulator 2 | 263318 | [263318-pumping-simulator-2.json](./263318-pumping-simulator-2.json) |
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
