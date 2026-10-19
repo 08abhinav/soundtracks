@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recurring Dreams | 156719 | [156719-recurring-dreams.json](./156719-recurring-dreams.json) |
 | Recursed | 32191 | [32191-recursed.json](./32191-recursed.json) |
 | Recursed: The Ice Palace | 322272 | [322272-recursed-the-ice-palace.json](./322272-recursed-the-ice-palace.json) |
+| Recursion | 296738 | [296738-recursion.json](./296738-recursion.json) |
 | Recursion | 379376 | [379376-recursion.json](./379376-recursion.json) |
 | Recursive | 382590 | [382590-recursive.json](./382590-recursive.json) |
 | Recursive Dragon | 103648 | [103648-recursive-dragon.json](./103648-recursive-dragon.json) |
