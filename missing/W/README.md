@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarZone | 370920 | [370920-warzone.json](./370920-warzone.json) |
 | Warzone 2100 | 51297 | [51297-warzone-2100.json](./51297-warzone-2100.json) |
 | Warzone Chronicles 2: Warfare Shooter Zombie | 315823 | [315823-warzone-chronicles-2-warfare-shooter-zombie.json](./315823-warzone-chronicles-2-warfare-shooter-zombie.json) |
+| Warzone Chronicles: Battlegrounds | 277733 | [277733-warzone-chronicles-battlegrounds.json](./277733-warzone-chronicles-battlegrounds.json) |
 | Warzone Chronicles: Night Vision | 306550 | [306550-warzone-chronicles-night-vision.json](./306550-warzone-chronicles-night-vision.json) |
 | Warzone Chronicles: Virtual Warfare Shooter | 283217 | [283217-warzone-chronicles-virtual-warfare-shooter.json](./283217-warzone-chronicles-virtual-warfare-shooter.json) |
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
@@ -3332,6 +3333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
 | Whispering Memories | 334219 | [334219-whispering-memories.json](./334219-whispering-memories.json) |
+| Whispering Paws | 277756 | [277756-whispering-paws.json](./277756-whispering-paws.json) |
 | Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
 | Whispering Stacks | 348429 | [348429-whispering-stacks.json](./348429-whispering-stacks.json) |
 | Whispering Willows: Deluxe Edition | 53915 | [53915-whispering-willows-deluxe-edition.json](./53915-whispering-willows-deluxe-edition.json) |
@@ -3608,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
+| Wholesome Adventure Bundle | 277721 | [277721-wholesome-adventure-bundle.json](./277721-wholesome-adventure-bundle.json) |
 | Wholesome Cats | 133322 | [133322-wholesome-cats.json](./133322-wholesome-cats.json) |
 | Wholesome Slaughter | 143014 | [143014-wholesome-slaughter.json](./143014-wholesome-slaughter.json) |
 | Whomp 'Em | 48257 | [48257-whomp-em.json](./48257-whomp-em.json) |
