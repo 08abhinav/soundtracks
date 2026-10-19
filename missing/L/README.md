@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Leave | 372236 | [372236-last-leave.json](./372236-last-leave.json) |
 | Last Legacy | 172442 | [172442-last-legacy.json](./172442-last-legacy.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
+| Last Lesson | 266085 | [266085-last-lesson.json](./266085-last-lesson.json) |
 | Last Life | 253328 | [253328-last-life.json](./253328-last-life.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Goody Two Shoes | 137243 | [137243-little-goody-two-shoes.json](./137243-little-goody-two-shoes.json) |
 | Little Goody Two Shoes: Deluxe Edition | 280737 | [280737-little-goody-two-shoes-deluxe-edition.json](./280737-little-goody-two-shoes-deluxe-edition.json) |
 | Little Green Frog | 302076 | [302076-little-green-frog.json](./302076-little-green-frog.json) |
+| Little Green Girl | 266099 | [266099-little-green-girl.json](./266099-little-green-girl.json) |
 | Little Green Man | 55099 | [55099-little-green-man.json](./55099-little-green-man.json) |
 | Little Grimm | 390706 | [390706-little-grimm.json](./390706-little-grimm.json) |
 | Little Groves | 422494 | [422494-little-groves.json](./422494-little-groves.json) |
@@ -5203,6 +5205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logres: Japanese RPG | 75222 | [75222-logres-japanese-rpg.json](./75222-logres-japanese-rpg.json) |
 | Lohotronshchik: Crazy Loto | 280887 | [280887-lohotronshchik-crazy-loto.json](./280887-lohotronshchik-crazy-loto.json) |
 | Loihtija | 176518 | [176518-loihtija.json](./176518-loihtija.json) |
+| Loinkham TD | 266067 | [266067-loinkham-td.json](./266067-loinkham-td.json) |
 | Lok Digital | 226734 | [226734-lok-digital.json](./226734-lok-digital.json) |
 | Lokaa | 239693 | [239693-lokaa.json](./239693-lokaa.json) |
 | Lokam Dating Sim | 241435 | [241435-lokam-dating-sim.json](./241435-lokam-dating-sim.json) |
