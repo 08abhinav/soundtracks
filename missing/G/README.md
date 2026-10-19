@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensoumaden Saiyuuki: Sabaku no Shikami | 281456 | [281456-gensoumaden-saiyuuki-sabaku-no-shikami.json](./281456-gensoumaden-saiyuuki-sabaku-no-shikami.json) |
 | GensoYonbaiKen 2 | 88086 | [88086-gensoyonbaiken-2.json](./88086-gensoyonbaiken-2.json) |
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
+| Gentei Shooter | 296187 | [296187-gentei-shooter.json](./296187-gentei-shooter.json) |
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
 | Gentle Female Boss | 276660 | [276660-gentle-female-boss.json](./276660-gentle-female-boss.json) |
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
@@ -8121,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Girl Volume I | 43268 | [43268-gunslinger-girl-volume-i.json](./43268-gunslinger-girl-volume-i.json) |
 | Gunslinger Girl Volume II | 257270 | [257270-gunslinger-girl-volume-ii.json](./257270-gunslinger-girl-volume-ii.json) |
 | Gunslinger Girl Volume III | 252375 | [252375-gunslinger-girl-volume-iii.json](./252375-gunslinger-girl-volume-iii.json) |
+| Gunslinger Solitaire | 296193 | [296193-gunslinger-solitaire.json](./296193-gunslinger-solitaire.json) |
 | Gunslinger Stratos | 19317 | [19317-gunslinger-stratos.json](./19317-gunslinger-stratos.json) |
 | Gunslinger Stratos Reloaded | 60591 | [60591-gunslinger-stratos-reloaded.json](./60591-gunslinger-stratos-reloaded.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
@@ -8289,6 +8291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyakuten Saiban: VR20-gou Jiken | 303291 | [303291-gyakuten-saiban-vr20-gou-jiken.json](./303291-gyakuten-saiban-vr20-gou-jiken.json) |
 | Gyakuten Touhou 2 | 178365 | [178365-gyakuten-touhou-2.json](./178365-gyakuten-touhou-2.json) |
 | Gyakuten Touhou Gaiden | 231784 | [231784-gyakuten-touhou-gaiden.json](./231784-gyakuten-touhou-gaiden.json) |
+| Gyakuten Vocaloid | 296162 | [296162-gyakuten-vocaloid.json](./296162-gyakuten-vocaloid.json) |
 | Gyakuten!! Puzzle Ban-Chou | 138019 | [138019-gyakuten-puzzle-ban-chou.json](./138019-gyakuten-puzzle-ban-chou.json) |
 | Gyaru to Papakatsu: Yarichin Chuunen Oji no Enjoy PacoPaco Life | 408518 | [408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json](./408518-gyaru-to-papakatsu-yarichin-chuunen-oji-no-enjoy-pacopaco-life.json) |
 | Gyaru x Ota: Orikawa Kirara wa Osewa Shitai | 402456 | [402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json](./402456-gyaru-x-ota-orikawa-kirara-wa-osewa-shitai.json) |
