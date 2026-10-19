@@ -6184,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amiha's Nightmare Castle | 212756 | [212756-amihas-nightmare-castle.json](./212756-amihas-nightmare-castle.json) |
 | Amihailu in Dreamland | 32219 | [32219-amihailu-in-dreamland.json](./32219-amihailu-in-dreamland.json) |
 | Amiibo Tap: Nintendo's Greatest Bits | 60431 | [60431-amiibo-tap-nintendos-greatest-bits.json](./60431-amiibo-tap-nintendos-greatest-bits.json) |
+| Amikin Survival | 304969 | [304969-amikin-survival.json](./304969-amikin-survival.json) |
 | Amikin Village | 341128 | [341128-amikin-village.json](./341128-amikin-village.json) |
 | Amillusion | 202238 | [202238-amillusion.json](./202238-amillusion.json) |
 | Amina's Kitchen | 91980 | [91980-aminas-kitchen.json](./91980-aminas-kitchen.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi's Alternate World Escape | 82699 | [82699-aois-alternate-world-escape.json](./82699-aois-alternate-world-escape.json) |
 | Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
 | Aojuji Hospital: Tokyo Eidolic Anatomy Division | 255596 | [255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json](./255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json) |
+| Aokaki | 304947 | [304947-aokaki.json](./304947-aokaki.json) |
 | Aokana: Four Rhythms Across the Blue | 54630 | [54630-aokana-four-rhythms-across-the-blue.json](./54630-aokana-four-rhythms-across-the-blue.json) |
 | Aokana: Four Rhythms Across the Blue Extra1 | 124028 | [124028-aokana-four-rhythms-across-the-blue-extra1.json](./124028-aokana-four-rhythms-across-the-blue-extra1.json) |
 | Aoki Densetsu Shoot! | 228474 | [228474-aoki-densetsu-shoot.json](./228474-aoki-densetsu-shoot.json) |
