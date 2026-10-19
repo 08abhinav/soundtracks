@@ -4505,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroScape | 185107 | [185107-retroscape.json](./185107-retroscape.json) |
 | RetroShip: Hit the space ship | 175285 | [175285-retroship-hit-the-space-ship.json](./175285-retroship-hit-the-space-ship.json) |
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
+| RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
 | Retrowave | 130243 | [130243-retrowave.json](./130243-retrowave.json) |
 | Retrowave '84 | 214180 | [214180-retrowave-84.json](./214180-retrowave-84.json) |
