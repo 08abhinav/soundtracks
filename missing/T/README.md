@@ -966,9 +966,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Mobile: Groovy Arche | 294600 | [294600-tales-of-mobile-groovy-arche.json](./294600-tales-of-mobile-groovy-arche.json) |
 | Tales of Mobile: Klondike | 294596 | [294596-tales-of-mobile-klondike.json](./294596-tales-of-mobile-klondike.json) |
 | Tales of Mobile: Reversi | 294595 | [294595-tales-of-mobile-reversi.json](./294595-tales-of-mobile-reversi.json) |
+| Tales of Mobile: Scramble Land | 294612 | [294612-tales-of-mobile-scramble-land.json](./294612-tales-of-mobile-scramble-land.json) |
 | Tales of Mobile: Tales of Breaker | 294605 | [294605-tales-of-mobile-tales-of-breaker.json](./294605-tales-of-mobile-tales-of-breaker.json) |
+| Tales of Mobile: Tales of Commons | 294606 | [294606-tales-of-mobile-tales-of-commons.json](./294606-tales-of-mobile-tales-of-commons.json) |
 | Tales of Mobile: Tales of Quiz | 294602 | [294602-tales-of-mobile-tales-of-quiz.json](./294602-tales-of-mobile-tales-of-quiz.json) |
 | Tales of Mobile: Tales of Tactics | 294604 | [294604-tales-of-mobile-tales-of-tactics.json](./294604-tales-of-mobile-tales-of-tactics.json) |
+| Tales of Mobile: Tales of Wahrheit | 294610 | [294610-tales-of-mobile-tales-of-wahrheit.json](./294610-tales-of-mobile-tales-of-wahrheit.json) |
 | Tales of Mobile: Tales of Wonder Casino | 294603 | [294603-tales-of-mobile-tales-of-wonder-casino.json](./294603-tales-of-mobile-tales-of-wonder-casino.json) |
 | Tales of Mobile: Whis Battle | 294601 | [294601-tales-of-mobile-whis-battle.json](./294601-tales-of-mobile-whis-battle.json) |
 | Tales of Monkey Island | 64 | [64-tales-of-monkey-island.json](./64-tales-of-monkey-island.json) |
@@ -1016,6 +1019,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Terror: House on the Hill | 139428 | [139428-tales-of-terror-house-on-the-hill.json](./139428-tales-of-terror-house-on-the-hill.json) |
 | Tales of Terror: House on the Hill - Collector's Edition | 74351 | [74351-tales-of-terror-house-on-the-hill-collectors-edition.json](./74351-tales-of-terror-house-on-the-hill-collectors-edition.json) |
 | Tales of the Abyss | 20972 | [20972-tales-of-the-abyss.json](./20972-tales-of-the-abyss.json) |
+| Tales of the Abyss: Mieu no Daibouken | 294607 | [294607-tales-of-the-abyss-mieu-no-daibouken.json](./294607-tales-of-the-abyss-mieu-no-daibouken.json) |
+| Tales of the Abyss: Mieu no Fonic Gojiten | 294608 | [294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json](./294608-tales-of-the-abyss-mieu-no-fonic-gojiten.json) |
+| Tales of the Abyss: Mieu no Jikkenshitsu? | 294609 | [294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json](./294609-tales-of-the-abyss-mieu-no-jikkenshitsu.json) |
 | Tales of the Aswang VR | 111877 | [111877-tales-of-the-aswang-vr.json](./111877-tales-of-the-aswang-vr.json) |
 | Tales of the Black Death | 178068 | [178068-tales-of-the-black-death.json](./178068-tales-of-the-black-death.json) |
 | Tales of the Black Forest | 119744 | [119744-tales-of-the-black-forest.json](./119744-tales-of-the-black-forest.json) |
@@ -3848,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thapster TV | 85831 | [85831-thapster-tv.json](./85831-thapster-tv.json) |
 | Thapster TV: 2nd Wave | 127741 | [127741-thapster-tv-2nd-wave.json](./127741-thapster-tv-2nd-wave.json) |
 | Tharaba | 280321 | [280321-tharaba.json](./280321-tharaba.json) |
+| That | 294538 | [294538-that.json](./294538-that.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
@@ -4124,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Lwanda Magere | 169147 | [169147-the-adventures-of-lwanda-magere.json](./169147-the-adventures-of-lwanda-magere.json) |
 | The Adventures of Maddog Williams in the Dungeons of Duridian | 9664 | [9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json](./9664-the-adventures-of-maddog-williams-in-the-dungeons-of-duridian.json) |
 | The Adventures of Major Havoc | 18468 | [18468-the-adventures-of-major-havoc.json](./18468-the-adventures-of-major-havoc.json) |
+| The Adventures of MassMouth | 294520 | [294520-the-adventures-of-massmouth.json](./294520-the-adventures-of-massmouth.json) |
 | The Adventures of Melvin Freebush | 73522 | [73522-the-adventures-of-melvin-freebush.json](./73522-the-adventures-of-melvin-freebush.json) |
 | The Adventures of Mr. Bobley | 35084 | [35084-the-adventures-of-mr-bobley.json](./35084-the-adventures-of-mr-bobley.json) |
 | The Adventures of Mr. Hat | 191822 | [191822-the-adventures-of-mr-hat.json](./191822-the-adventures-of-mr-hat.json) |
@@ -14652,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thinkin' Science: Zap! | 243422 | [243422-thinkin-science-zap.json](./243422-thinkin-science-zap.json) |
 | Thinkin' Things Collection 2 | 70086 | [70086-thinkin-things-collection-2.json](./70086-thinkin-things-collection-2.json) |
 | Thinkin' Things Collection 3 | 78954 | [78954-thinkin-things-collection-3.json](./78954-thinkin-things-collection-3.json) |
+| Thinkin' Things: Sky Island Mysteries | 294510 | [294510-thinkin-things-sky-island-mysteries.json](./294510-thinkin-things-sky-island-mysteries.json) |
 | Thinking Games 2 | 72064 | [72064-thinking-games-2.json](./72064-thinking-games-2.json) |
 | Thinking Of U: A Love Story | 299554 | [299554-thinking-of-u-a-love-story.json](./299554-thinking-of-u-a-love-story.json) |
 | Thinking of You Beyond Time | 328085 | [328085-thinking-of-you-beyond-time.json](./328085-thinking-of-you-beyond-time.json) |
@@ -16596,6 +16605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile & Error | 413899 | [413899-tile-and-error.json](./413899-tile-and-error.json) |
 | Tile Battle | 52775 | [52775-tile-battle.json](./52775-tile-battle.json) |
 | Tile Cities 2 | 325630 | [325630-tile-cities-2.json](./325630-tile-cities-2.json) |
+| Tile Connect Master: Match fun | 294506 | [294506-tile-connect-master-match-fun.json](./294506-tile-connect-master-match-fun.json) |
 | Tile Connect: Onet Match | 171473 | [171473-tile-connect-onet-match.json](./171473-tile-connect-onet-match.json) |
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
@@ -17315,6 +17325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tina's Wonderlands: Glutton's Gamble | 205019 | [205019-tiny-tinas-wonderlands-gluttons-gamble.json](./205019-tiny-tinas-wonderlands-gluttons-gamble.json) |
 | Tiny Tina's Wonderlands: Next Level Edition | 170024 | [170024-tiny-tinas-wonderlands-next-level-edition.json](./170024-tiny-tinas-wonderlands-next-level-edition.json) |
 | Tiny Tina's Wonderlands: Season Pass | 293727 | [293727-tiny-tinas-wonderlands-season-pass.json](./293727-tiny-tinas-wonderlands-season-pass.json) |
+| Tiny Tires | 294509 | [294509-tiny-tires.json](./294509-tiny-tires.json) |
 | Tiny Token Empires | 21002 | [21002-tiny-token-empires.json](./21002-tiny-token-empires.json) |
 | Tiny Toon Adventures | 198943 | [198943-tiny-toon-adventures.json](./198943-tiny-toon-adventures.json) |
 | Tiny Toon Adventures 2: Trouble in Wackyland | 8047 | [8047-tiny-toon-adventures-2-trouble-in-wackyland.json](./8047-tiny-toon-adventures-2-trouble-in-wackyland.json) |
@@ -21710,6 +21721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers G1 Awakening | 315069 | [315069-transformers-g1-awakening.json](./315069-transformers-g1-awakening.json) |
 | Transformers Generation 2 | 198946 | [198946-transformers-generation-2.json](./198946-transformers-generation-2.json) |
 | Transformers Prime: The Game | 23676 | [23676-transformers-prime-the-game.json](./23676-transformers-prime-the-game.json) |
+| Transformers Rescue Bots: Dash | 294511 | [294511-transformers-rescue-bots-dash.json](./294511-transformers-rescue-bots-dash.json) |
 | Transformers Rescue Bots: Race to the Rescue | 137611 | [137611-transformers-rescue-bots-race-to-the-rescue.json](./137611-transformers-rescue-bots-race-to-the-rescue.json) |
 | Transformers Tatakai | 70938 | [70938-transformers-tatakai.json](./70938-transformers-tatakai.json) |
 | Transformers: Battle Masters | 70993 | [70993-transformers-battle-masters.json](./70993-transformers-battle-masters.json) |
