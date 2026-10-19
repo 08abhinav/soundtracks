@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ekphrasis | 405494 | [405494-ekphrasis.json](./405494-ekphrasis.json) |
 | Eksperyment Delfin | 283112 | [283112-eksperyment-delfin.json](./283112-eksperyment-delfin.json) |
 | Ekudorado: Kagami no Naka no Oukoku | 66167 | [66167-ekudorado-kagami-no-naka-no-oukoku.json](./66167-ekudorado-kagami-no-naka-no-oukoku.json) |
+| El | 262203 | [262203-el.json](./262203-el.json) |
 | El Akelarre de Lola | 335722 | [335722-el-akelarre-de-lola.json](./335722-el-akelarre-de-lola.json) |
 | El Boletero: The Space Ticketer | 333044 | [333044-el-boletero-the-space-ticketer.json](./333044-el-boletero-the-space-ticketer.json) |
 | El Brujo | 320991 | [320991-el-brujo.json](./320991-el-brujo.json) |
@@ -6131,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy Play: Astro Zoo | 43211 | [43211-eyetoy-play-astro-zoo.json](./43211-eyetoy-play-astro-zoo.json) |
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
+| EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
