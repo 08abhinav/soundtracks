@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G2 Fighter | 110443 | [110443-g2-fighter.json](./110443-g2-fighter.json) |
 | G2: Geeks Unleashed | 53089 | [53089-g2-geeks-unleashed.json](./53089-g2-geeks-unleashed.json) |
 | G30 | 101501 | [101501-g30.json](./101501-g30.json) |
+| G9: League of Aces | 295610 | [295610-g9-league-of-aces.json](./295610-g9-league-of-aces.json) |
 | GA Geijutsuka Art Design Class: Slapstick Wonderland | 241429 | [241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json](./241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json) |
 | GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
