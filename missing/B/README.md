@@ -5675,6 +5675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Super Hero Stunt Driver Racing | 102845 | [102845-bike-super-hero-stunt-driver-racing.json](./102845-bike-super-hero-stunt-driver-racing.json) |
 | Bike Trials Offroad 2 | 255035 | [255035-bike-trials-offroad-2.json](./255035-bike-trials-offroad-2.json) |
 | Bike Unchained | 255737 | [255737-bike-unchained.json](./255737-bike-unchained.json) |
+| Bike Unchained 3 | 304962 | [304962-bike-unchained-3.json](./304962-bike-unchained-3.json) |
 | Bike Xtreme | 101680 | [101680-bike-xtreme.json](./101680-bike-xtreme.json) |
 | Bikeout | 244505 | [244505-bikeout.json](./244505-bikeout.json) |
 | Biker Garage | 113048 | [113048-biker-garage.json](./113048-biker-garage.json) |
@@ -7570,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobber | 269277 | [269277-blobber.json](./269277-blobber.json) |
 | Blobber | 416727 | [416727-blobber.json](./416727-blobber.json) |
 | Blobbers | 41529 | [41529-blobbers.json](./41529-blobbers.json) |
+| Blobbers Run! | 304996 | [304996-blobbers-run.json](./304996-blobbers-run.json) |
 | Blobbert 64 | 336945 | [336945-blobbert-64.json](./336945-blobbert-64.json) |
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbins 2048 | 115417 | [115417-blobbins-2048.json](./115417-blobbins-2048.json) |
@@ -10116,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bountiful Hunters | 382315 | [382315-bountiful-hunters.json](./382315-bountiful-hunters.json) |
 | Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
+| Bounty Arms | 304959 | [304959-bounty-arms.json](./304959-bounty-arms.json) |
 | Bounty Bash | 403226 | [403226-bounty-bash.json](./403226-bounty-bash.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
