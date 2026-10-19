@@ -1488,6 +1488,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Plan Spectral | 346368 | [346368-le-plan-spectral.json](./346368-le-plan-spectral.json) |
 | Le Pompier | 346064 | [346064-le-pompier.json](./346064-le-pompier.json) |
 | Le Réprobateur | 28016 | [28016-le-reprobateur.json](./28016-le-reprobateur.json) |
+| Le Sanglot des Cigales R: Tomes 5 et 6 | 276055 | [276055-le-sanglot-des-cigales-r-tomes-5-et-6.json](./276055-le-sanglot-des-cigales-r-tomes-5-et-6.json) |
+| Le Sanglot des Cigales: Tomes 1 et 2 | 276054 | [276054-le-sanglot-des-cigales-tomes-1-et-2.json](./276054-le-sanglot-des-cigales-tomes-1-et-2.json) |
 | Le Sceptre d'Anubis | 304052 | [304052-le-sceptre-danubis.json](./304052-le-sceptre-danubis.json) |
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Temple perdu de l'oncle Ernest | 281638 | [281638-le-temple-perdu-de-loncle-ernest.json](./281638-le-temple-perdu-de-loncle-ernest.json) |
