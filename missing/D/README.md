@@ -9867,6 +9867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dou! | 339065 | [339065-dou.json](./339065-dou.json) |
 | Double | 104921 | [104921-double.json](./104921-double.json) |
 | Double 345 Slots | 232352 | [232352-double-345-slots.json](./232352-double-345-slots.json) |
+| Double Action Bundle: Shing & Corridor Z | 285356 | [285356-double-action-bundle-shing-and-corridor-z.json](./285356-double-action-bundle-shing-and-corridor-z.json) |
 | Double Action: Boogaloo | 17723 | [17723-double-action-boogaloo.json](./17723-double-action-boogaloo.json) |
 | Double Agent | 57164 | [57164-double-agent.json](./57164-double-agent.json) |
 | Double Axle | 39870 | [39870-double-axle.json](./39870-double-axle.json) |
@@ -11430,6 +11431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Animal | 376759 | [376759-dream-animal.json](./376759-dream-animal.json) |
 | Dream Antique | 284315 | [284315-dream-antique.json](./284315-dream-antique.json) |
 | Dream Back | 155891 | [155891-dream-back.json](./155891-dream-back.json) |
+| Dream Bakery | 285348 | [285348-dream-bakery.json](./285348-dream-bakery.json) |
 | Dream Bar Simulator | 326438 | [326438-dream-bar-simulator.json](./326438-dream-bar-simulator.json) |
 | Dream Big 2 | 156992 | [156992-dream-big-2.json](./156992-dream-big-2.json) |
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
