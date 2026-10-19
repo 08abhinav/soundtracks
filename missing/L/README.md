@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth | 260387 | [260387-labyrinth.json](./260387-labyrinth.json) |
 | Labyrinth | 270022 | [270022-labyrinth.json](./270022-labyrinth.json) |
 | Labyrinth | 285158 | [285158-labyrinth.json](./285158-labyrinth.json) |
+| Labyrinth | 287529 | [287529-labyrinth.json](./287529-labyrinth.json) |
 | Labyrinth | 312260 | [312260-labyrinth.json](./312260-labyrinth.json) |
 | Labyrinth | 319126 | [319126-labyrinth.json](./319126-labyrinth.json) |
 | Labyrinth | 320390 | [320390-labyrinth.json](./320390-labyrinth.json) |
@@ -4227,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
 | Little Bit Lost | 124554 | [124554-little-bit-lost.json](./124554-little-bit-lost.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
+| Little Blackmask | 287531 | [287531-little-blackmask.json](./287531-little-blackmask.json) |
 | Little Bo Reap | 244308 | [244308-little-bo-reap.json](./244308-little-bo-reap.json) |
 | Little Boat River Rush | 232333 | [232333-little-boat-river-rush.json](./232333-little-boat-river-rush.json) |
 | Little Boats of Farewell | 193730 | [193730-little-boats-of-farewell.json](./193730-little-boats-of-farewell.json) |
@@ -6847,6 +6849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
+| Lucky Time | 287532 | [287532-lucky-time.json](./287532-lucky-time.json) |
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
