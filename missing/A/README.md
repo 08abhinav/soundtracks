@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adelantado Trilogy: Book Two | 76652 | [76652-adelantado-trilogy-book-two.json](./76652-adelantado-trilogy-book-two.json) |
 | Adelantado. 4 Aztec skulls | 104665 | [104665-adelantado-4-aztec-skulls.json](./104665-adelantado-4-aztec-skulls.json) |
 | Adelanto 4 Aztec Skulls | 95643 | [95643-adelanto-4-aztec-skulls.json](./95643-adelanto-4-aztec-skulls.json) |
+| Adelie: Chasing Pavements | 289748 | [289748-adelie-chasing-pavements.json](./289748-adelie-chasing-pavements.json) |
 | Aden | 224770 | [224770-aden.json](./224770-aden.json) |
 | Adeona | 148117 | [148117-adeona.json](./148117-adeona.json) |
 | Adepts Arena | 344156 | [344156-adepts-arena.json](./344156-adepts-arena.json) |
@@ -7820,10 +7821,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anoxemia | 9877 | [9877-anoxemia.json](./9877-anoxemia.json) |
 | Anoyo: Zero | 157551 | [157551-anoyo-zero.json](./157551-anoyo-zero.json) |
 | Anpanman Niko-niko Party | 59054 | [59054-anpanman-niko-niko-party.json](./59054-anpanman-niko-niko-party.json) |
+| Anpanman no AIUEO-N! | 289728 | [289728-anpanman-no-aiueo-n.json](./289728-anpanman-no-aiueo-n.json) |
 | Anpanman no Waku-waku Game Oekaki | 123617 | [123617-anpanman-no-waku-waku-game-oekaki.json](./123617-anpanman-no-waku-waku-game-oekaki.json) |
 | Anpanman to Asobo: ABC Kyoushitsu | 67283 | [67283-anpanman-to-asobo-abc-kyoushitsu.json](./67283-anpanman-to-asobo-abc-kyoushitsu.json) |
 | Anpanman to Asobo: AIUEO Kyoushitsu DX | 67285 | [67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json](./67285-anpanman-to-asobo-aiueo-kyoushitsu-dx.json) |
 | Anpanman to Asobo: New AIUEO Kyoushitsu | 59053 | [59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json](./59053-anpanman-to-asobo-new-aiueo-kyoushitsu.json) |
+| Anpanman to Asobou! 1 | 289729 | [289729-anpanman-to-asobou-1.json](./289729-anpanman-to-asobou-1.json) |
+| Anpanman to Asobou! 2 | 289730 | [289730-anpanman-to-asobou-2.json](./289730-anpanman-to-asobou-2.json) |
 | Anpanman to Asobu: AIUEO Kyoushitsu | 67284 | [67284-anpanman-to-asobu-aiueo-kyoushitsu.json](./67284-anpanman-to-asobu-aiueo-kyoushitsu.json) |
 | Anpanman to Touch de Waku-waku Training | 71032 | [71032-anpanman-to-touch-de-waku-waku-training.json](./71032-anpanman-to-touch-de-waku-waku-training.json) |
 | Anpanman Touch de Enjoy! AIUEO Kyoushitsu for Nintendo Switch | 381265 | [381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json](./381265-anpanman-touch-de-enjoy-aiueo-kyoushitsu-for-nintendo-switch.json) |
@@ -12666,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
 | Autonauts vs Piratebots | 207729 | [207729-autonauts-vs-piratebots.json](./207729-autonauts-vs-piratebots.json) |
 | Autonomous | 63767 | [63767-autonomous.json](./63767-autonomous.json) |
+| Autonomous Anarchy | 289732 | [289732-autonomous-anarchy.json](./289732-autonomous-anarchy.json) |
 | Autonomous Gods | 382557 | [382557-autonomous-gods.json](./382557-autonomous-gods.json) |
 | Autonomous Swarm: The Replication War | 389641 | [389641-autonomous-swarm-the-replication-war.json](./389641-autonomous-swarm-the-replication-war.json) |
 | Autonomous Warfare Evolution | 401072 | [401072-autonomous-warfare-evolution.json](./401072-autonomous-warfare-evolution.json) |
@@ -13310,6 +13315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azurian Attack | 46771 | [46771-azurian-attack.json](./46771-azurian-attack.json) |
 | Azurik: Rise of Perathia | 5733 | [5733-azurik-rise-of-perathia.json](./5733-azurik-rise-of-perathia.json) |
 | Azusa RP Online | 114790 | [114790-azusa-rp-online.json](./114790-azusa-rp-online.json) |
+| AzuTower | 289739 | [289739-azutower.json](./289739-azutower.json) |
 | Azy | 172066 | [172066-azy.json](./172066-azy.json) |
 | AZZL | 101964 | [101964-azzl.json](./101964-azzl.json) |
 | Azzle | 239121 | [239121-azzle.json](./239121-azzle.json) |
