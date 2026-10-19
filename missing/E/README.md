@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elong Plug | 235686 | [235686-elong-plug.json](./235686-elong-plug.json) |
 | Eloquence | 172742 | [172742-eloquence.json](./172742-eloquence.json) |
 | Eloquent Countenance | 200531 | [200531-eloquent-countenance.json](./200531-eloquent-countenance.json) |
+| Elowyn and the Stolen Souls | 271634 | [271634-elowyn-and-the-stolen-souls.json](./271634-elowyn-and-the-stolen-souls.json) |
 | Elowyn: Quest of Time | 347870 | [347870-elowyn-quest-of-time.json](./347870-elowyn-quest-of-time.json) |
 | Elphame | 138475 | [138475-elphame.json](./138475-elphame.json) |
 | Elpida: Crônicas de umaGuerreira | 117597 | [117597-elpida-cronicas-de-umaguerreira.json](./117597-elpida-cronicas-de-umaguerreira.json) |
@@ -2836,6 +2837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoom Mapping Contest 2024 | 299767 | [299767-endoom-mapping-contest-2024.json](./299767-endoom-mapping-contest-2024.json) |
 | Endoparasitic 2 | 314438 | [314438-endoparasitic-2.json](./314438-endoparasitic-2.json) |
 | Endoparasitic Jam Version | 374237 | [374237-endoparasitic-jam-version.json](./374237-endoparasitic-jam-version.json) |
+| Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
 | Endquest | 268763 | [268763-endquest.json](./268763-endquest.json) |
 | Endragon | 192706 | [192706-endragon.json](./192706-endragon.json) |
 | Endrays | 266860 | [266860-endrays.json](./266860-endrays.json) |
@@ -3287,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Meal Time | 64751 | [64751-epic-meal-time.json](./64751-epic-meal-time.json) |
 | Epic Mickey: Power of Illusion | 6765 | [6765-epic-mickey-power-of-illusion.json](./6765-epic-mickey-power-of-illusion.json) |
 | Epic Mickey: Rebrushed | 287849 | [287849-epic-mickey-rebrushed.json](./287849-epic-mickey-rebrushed.json) |
+| Epic Monster Quest | 271635 | [271635-epic-monster-quest.json](./271635-epic-monster-quest.json) |
 | Epic O'Clock | 401765 | [401765-epic-oclock.json](./401765-epic-oclock.json) |
 | Epic of Tarot | 285963 | [285963-epic-of-tarot.json](./285963-epic-of-tarot.json) |
 | Epic Palace: Knossos | 147370 | [147370-epic-palace-knossos.json](./147370-epic-palace-knossos.json) |
@@ -5308,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Skateboarding | 3908 | [3908-evolution-skateboarding.json](./3908-evolution-skateboarding.json) |
 | Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
+| Evolution Survival | 271638 | [271638-evolution-survival.json](./271638-evolution-survival.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
 | Evolution VR | 30688 | [30688-evolution-vr.json](./30688-evolution-vr.json) |
 | Evolution Worlds | 3910 | [3910-evolution-worlds.json](./3910-evolution-worlds.json) |
