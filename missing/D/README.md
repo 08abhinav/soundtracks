@@ -2849,6 +2849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Watch | 347900 | [347900-dead-watch.json](./347900-dead-watch.json) |
 | Dead Weight | 288215 | [288215-dead-weight.json](./288215-dead-weight.json) |
 | Dead Weight | 336123 | [336123-dead-weight.json](./336123-dead-weight.json) |
+| Dead Wells: The Devil Fragment | 261694 | [261694-dead-wells-the-devil-fragment.json](./261694-dead-wells-the-devil-fragment.json) |
 | Dead Wife Game | 203102 | [203102-dead-wife-game.json](./203102-dead-wife-game.json) |
 | Dead Witch in Night Sky | 394161 | [394161-dead-witch-in-night-sky.json](./394161-dead-witch-in-night-sky.json) |
 | Dead World Heroes | 221185 | [221185-dead-world-heroes.json](./221185-dead-world-heroes.json) |
@@ -2875,6 +2876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadballCrusader | 290951 | [290951-deadballcrusader.json](./290951-deadballcrusader.json) |
 | Deadbeat Heroes | 74197 | [74197-deadbeat-heroes.json](./74197-deadbeat-heroes.json) |
 | Deadblast | 248331 | [248331-deadblast.json](./248331-deadblast.json) |
+| DeadBlitz | 261655 | [261655-deadblitz.json](./261655-deadblitz.json) |
 | Deadbolt | 18389 | [18389-deadbolt.json](./18389-deadbolt.json) |
 | Deadboot | 360103 | [360103-deadboot.json](./360103-deadboot.json) |
 | Deadbreed | 14726 | [14726-deadbreed.json](./14726-deadbreed.json) |
@@ -4680,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Lord Reincarnation Gaiden | 286046 | [286046-demon-lord-reincarnation-gaiden.json](./286046-demon-lord-reincarnation-gaiden.json) |
 | Demon Lord: Clicker | 312739 | [312739-demon-lord-clicker.json](./312739-demon-lord-clicker.json) |
 | Demon Lord: Reincarnation | 250969 | [250969-demon-lord-reincarnation.json](./250969-demon-lord-reincarnation.json) |
+| Demon Mage | 261660 | [261660-demon-mage.json](./261660-demon-mage.json) |
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
 | Demon Master Chris | 59827 | [59827-demon-master-chris.json](./59827-demon-master-chris.json) |
 | Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
@@ -7851,6 +7854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Visitant | 390483 | [390483-distant-visitant.json](./390483-distant-visitant.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
+| Distant Worlds 2: Factions - Quameno and Gizureans | 261647 | [261647-distant-worlds-2-factions-quameno-and-gizureans.json](./261647-distant-worlds-2-factions-quameno-and-gizureans.json) |
 | Distant Worlds 2: Return of the Shakturi | 324930 | [324930-distant-worlds-2-return-of-the-shakturi.json](./324930-distant-worlds-2-return-of-the-shakturi.json) |
 | Distant Worlds: Universe | 16806 | [16806-distant-worlds-universe.json](./16806-distant-worlds-universe.json) |
 | Distantia | 408029 | [408029-distantia.json](./408029-distantia.json) |
@@ -12369,6 +12373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones and Ruins | 87978 | [87978-drones-and-ruins.json](./87978-drones-and-ruins.json) |
 | Drones Attack | 410863 | [410863-drones-attack.json](./410863-drones-attack.json) |
+| Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
