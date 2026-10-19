@@ -5523,6 +5523,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaq Attaq | 94736 | [94736-shaq-attaq.json](./94736-shaq-attaq.json) |
 | Shaq Attaq: Monster Jam | 198883 | [198883-shaq-attaq-monster-jam.json](./198883-shaq-attaq-monster-jam.json) |
 | Shaq Fu: A Legend Reborn | 51679 | [51679-shaq-fu-a-legend-reborn.json](./51679-shaq-fu-a-legend-reborn.json) |
+| Shaq-Fu | 265004 | [265004-shaq-fu.json](./265004-shaq-fu.json) |
+| Shaq-Fu | 265005 | [265005-shaq-fu.json](./265005-shaq-fu.json) |
 | Shaq-Fu | 8536 | [8536-shaq-fu.json](./8536-shaq-fu.json) |
 | Shaqing | 298281 | [298281-shaqing.json](./298281-shaqing.json) |
 | ShaQu | 358233 | [358233-shaqu.json](./358233-shaqu.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi Toilet | 278399 | [278399-skibidi-toilet.json](./278399-skibidi-toilet.json) |
 | Skibidi Toilet Hero: Sex Mod | 312888 | [312888-skibidi-toilet-hero-sex-mod.json](./312888-skibidi-toilet-hero-sex-mod.json) |
 | Skibidi Toilet India | 276076 | [276076-skibidi-toilet-india.json](./276076-skibidi-toilet-india.json) |
+| Skibidi Toilet Skibidi Boom | 264991 | [264991-skibidi-toilet-skibidi-boom.json](./264991-skibidi-toilet-skibidi-boom.json) |
 | Skibidi Toilet Wars | 315926 | [315926-skibidi-toilet-wars.json](./315926-skibidi-toilet-wars.json) |
 | Skibidi Toilet: Battle Royale | 321490 | [321490-skibidi-toilet-battle-royale.json](./321490-skibidi-toilet-battle-royale.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
@@ -12178,6 +12181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Forever | 88573 | [88573-solitaire-forever.json](./88573-solitaire-forever.json) |
 | Solitaire Forever II | 149360 | [149360-solitaire-forever-ii.json](./149360-solitaire-forever-ii.json) |
 | Solitaire Freecell - card game | 88414 | [88414-solitaire-freecell-card-game.json](./88414-solitaire-freecell-card-game.json) |
+| Solitaire FunPak | 265003 | [265003-solitaire-funpak.json](./265003-solitaire-funpak.json) |
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
@@ -21717,6 +21721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Original | 103458 | [103458-sudoku-original.json](./103458-sudoku-original.json) |
 | Sudoku Party | 326814 | [326814-sudoku-party.json](./326814-sudoku-party.json) |
 | Sudoku Party | 84915 | [84915-sudoku-party.json](./84915-sudoku-party.json) |
+| Sudoku Plug & Play | 264992 | [264992-sudoku-plug-and-play.json](./264992-sudoku-plug-and-play.json) |
 | Sudoku Portal | 232380 | [232380-sudoku-portal.json](./232380-sudoku-portal.json) |
 | Sudoku Pro | 348394 | [348394-sudoku-pro.json](./348394-sudoku-pro.json) |
 | Sudoku Pro+ | 267454 | [267454-sudoku-pro.json](./267454-sudoku-pro.json) |
