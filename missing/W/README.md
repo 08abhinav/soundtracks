@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
 | Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
+| Wall World: Deep Threat | 257809 | [257809-wall-world-deep-threat.json](./257809-wall-world-deep-threat.json) |
 | Wall-Breaking | 230838 | [230838-wall-breaking.json](./230838-wall-breaking.json) |
 | Wall-Defender | 46880 | [46880-wall-defender.json](./46880-wall-defender.json) |
 | Wall-E | 220129 | [220129-wall-e.json](./220129-wall-e.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop: Nature Pack | 275813 | [275813-wooloop-nature-pack.json](./275813-wooloop-nature-pack.json) |
 | WooLoop: Science Pack | 288918 | [288918-wooloop-science-pack.json](./288918-wooloop-science-pack.json) |
 | WooLoop: Space Pack | 253805 | [253805-wooloop-space-pack.json](./253805-wooloop-space-pack.json) |
+| WooLoop: Urban Pack | 257774 | [257774-wooloop-urban-pack.json](./257774-wooloop-urban-pack.json) |
 | WooLoop: Video Games Pack | 301829 | [301829-wooloop-video-games-pack.json](./301829-wooloop-video-games-pack.json) |
 | Wooly Blast: Adorable Riddles | 101517 | [101517-wooly-blast-adorable-riddles.json](./101517-wooly-blast-adorable-riddles.json) |
 | Wooly Rockbottom and the Quest for the Golden Beard of Thor! | 325254 | [325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json](./325254-wooly-rockbottom-and-the-quest-for-the-golden-beard-of-thor.json) |
