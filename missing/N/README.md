@@ -163,6 +163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakornsampan | 181046 | [181046-nakornsampan.json](./181046-nakornsampan.json) |
 | Nakoruru: Anohito kara no Okurimono | 57624 | [57624-nakoruru-anohito-kara-no-okurimono.json](./57624-nakoruru-anohito-kara-no-okurimono.json) |
 | Nakwon: Last Paradise | 266732 | [266732-nakwon-last-paradise.json](./266732-nakwon-last-paradise.json) |
+| Nala Cat | 257779 | [257779-nala-cat.json](./257779-nala-cat.json) |
 | Nalani: Legacy of the Ancients | 341357 | [341357-nalani-legacy-of-the-ancients.json](./341357-nalani-legacy-of-the-ancients.json) |
 | Nalogi 2 | 96899 | [96899-nalogi-2.json](./96899-nalogi-2.json) |
 | Nam | 26288 | [26288-nam.json](./26288-nam.json) |
