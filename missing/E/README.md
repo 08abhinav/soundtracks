@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmuDevz | 386285 | [386285-emudevz.json](./386285-emudevz.json) |
 | Emurinoo | 139149 | [139149-emurinoo.json](./139149-emurinoo.json) |
 | Emuurom | 135002 | [135002-emuurom.json](./135002-emuurom.json) |
+| EmyLiveShow: Anime Puzzle Game | 289181 | [289181-emyliveshow-anime-puzzle-game.json](./289181-emyliveshow-anime-puzzle-game.json) |
 | EmyLiveShow: BossRush | 379543 | [379543-emyliveshow-bossrush.json](./379543-emyliveshow-bossrush.json) |
 | EmyLiveShow: Case of Four Hot Witnesses | 379538 | [379538-emyliveshow-case-of-four-hot-witnesses.json](./379538-emyliveshow-case-of-four-hot-witnesses.json) |
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
