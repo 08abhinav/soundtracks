@@ -368,6 +368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Girl | 212498 | [212498-racing-girl.json](./212498-racing-girl.json) |
 | Racing Glider | 90681 | [90681-racing-glider.json](./90681-racing-glider.json) |
 | Racing Go | 262380 | [262380-racing-go.json](./262380-racing-go.json) |
+| Racing Go | 285333 | [285333-racing-go.json](./285333-racing-go.json) |
 | Racing Heroes | 197338 | [197338-racing-heroes.json](./197338-racing-heroes.json) |
 | Racing in Car | 86989 | [86989-racing-in-car.json](./86989-racing-in-car.json) |
 | Racing in Car 2 | 100326 | [100326-racing-in-car-2.json](./100326-racing-in-car-2.json) |
@@ -1114,6 +1115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakugaki Showtime | 46082 | [46082-rakugaki-showtime.json](./46082-rakugaki-showtime.json) |
 | Rakugaki Special | 137919 | [137919-rakugaki-special.json](./137919-rakugaki-special.json) |
 | Rakugo Sentai Kaigyaaku | 411426 | [411426-rakugo-sentai-kaigyaaku.json](./411426-rakugo-sentai-kaigyaaku.json) |
+| Raldi's Crackhouse | 285343 | [285343-raldis-crackhouse.json](./285343-raldis-crackhouse.json) |
 | Ralf | 111598 | [111598-ralf.json](./111598-ralf.json) |
 | Ralf's Adventure: Aztec Mystery | 140910 | [140910-ralfs-adventure-aztec-mystery.json](./140910-ralfs-adventure-aztec-mystery.json) |
 | RalliSport Challenge | 841 | [841-rallisport-challenge.json](./841-rallisport-challenge.json) |
@@ -2593,6 +2595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reclamation of Xanthros | 298177 | [298177-reclamation-of-xanthros.json](./298177-reclamation-of-xanthros.json) |
 | Reclaym the Kingdom | 301899 | [301899-reclaym-the-kingdom.json](./301899-reclaym-the-kingdom.json) |
 | Reclock | 382495 | [382495-reclock.json](./382495-reclock.json) |
+| Reclusion | 285344 | [285344-reclusion.json](./285344-reclusion.json) |
 | Reclusive | 240755 | [240755-reclusive.json](./240755-reclusive.json) |
 | Reco Love: Blue Ocean | 136761 | [136761-reco-love-blue-ocean.json](./136761-reco-love-blue-ocean.json) |
 | Reco Love: Blue Ocean/Gold Beach | 77423 | [77423-reco-love-blue-ocean-gold-beach.json](./77423-reco-love-blue-ocean-gold-beach.json) |
