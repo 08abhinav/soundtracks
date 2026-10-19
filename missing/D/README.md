@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
 | Dentures and Demons 2 | 145008 | [145008-dentures-and-demons-2.json](./145008-dentures-and-demons-2.json) |
+| Deo | 288087 | [288087-deo.json](./288087-deo.json) |
 | Deodar | 360742 | [360742-deodar.json](./360742-deodar.json) |
 | Deorum | 376205 | [376205-deorum.json](./376205-deorum.json) |
 | Deorum Online | 121412 | [121412-deorum-online.json](./121412-deorum-online.json) |
@@ -5251,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Goose | 135622 | [135622-desktop-goose.json](./135622-desktop-goose.json) |
 | Desktop Hacker | 203953 | [203953-desktop-hacker.json](./203953-desktop-hacker.json) |
+| Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
@@ -5995,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diablo III: Reaper of Souls - Collector's Edition | 136278 | [136278-diablo-iii-reaper-of-souls-collectors-edition.json](./136278-diablo-iii-reaper-of-souls-collectors-edition.json) |
 | Diablo III: Reaper of Souls - Ultimate Evil Edition | 47452 | [47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json](./47452-diablo-iii-reaper-of-souls-ultimate-evil-edition.json) |
 | Diablo Island | 405462 | [405462-diablo-island.json](./405462-diablo-island.json) |
+| Diablo IV: Beckoning Thunder Pack | 288057 | [288057-diablo-iv-beckoning-thunder-pack.json](./288057-diablo-iv-beckoning-thunder-pack.json) |
 | Diablo IV: Dark Pathways Pack | 289474 | [289474-diablo-iv-dark-pathways-pack.json](./289474-diablo-iv-dark-pathways-pack.json) |
 | Diablo IV: Digital Deluxe Edition | 249741 | [249741-diablo-iv-digital-deluxe-edition.json](./249741-diablo-iv-digital-deluxe-edition.json) |
 | Diablo IV: Loot Reborn | 299726 | [299726-diablo-iv-loot-reborn.json](./299726-diablo-iv-loot-reborn.json) |
@@ -8364,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
+| Dog Collab | 288080 | [288080-dog-collab.json](./288080-dog-collab.json) |
 | Dog Couple | 334803 | [334803-dog-couple.json](./334803-dog-couple.json) |
 | Dog Daze | 67945 | [67945-dog-daze.json](./67945-dog-daze.json) |
 | Dog Daze Deluxe | 90900 | [90900-dog-daze-deluxe.json](./90900-dog-daze-deluxe.json) |
