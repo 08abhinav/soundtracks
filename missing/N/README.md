@@ -4735,6 +4735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nogginknockers | 66381 | [66381-nogginknockers.json](./66381-nogginknockers.json) |
 | Nogibator | 76934 | [76934-nogibator.json](./76934-nogibator.json) |
 | Nogibator: Way of Legs | 83193 | [83193-nogibator-way-of-legs.json](./83193-nogibator-way-of-legs.json) |
+| Nogizaka Haruka no Himitsu: Doujinshi Hajimemashita | 269442 | [269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json](./269442-nogizaka-haruka-no-himitsu-doujinshi-hajimemashita.json) |
 | Nogizaka46 Rhythm Festival | 77846 | [77846-nogizaka46-rhythm-festival.json](./77846-nogizaka46-rhythm-festival.json) |
 | Nohmen: Blood Rites | 420552 | [420552-nohmen-blood-rites.json](./420552-nohmen-blood-rites.json) |
 | Nohra | 156659 | [156659-nohra.json](./156659-nohra.json) |
@@ -5282,6 +5283,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nour: Play with Your Food | 138619 | [138619-nour-play-with-your-food.json](./138619-nour-play-with-your-food.json) |
 | Nourish | 279709 | [279709-nourish.json](./279709-nourish.json) |
 | Nourish | 364250 | [364250-nourish.json](./364250-nourish.json) |
+| Nouryoku Trainer Portable | 269443 | [269443-nouryoku-trainer-portable.json](./269443-nouryoku-trainer-portable.json) |
+| Nouryoku Trainer Portable 2 | 269444 | [269444-nouryoku-trainer-portable-2.json](./269444-nouryoku-trainer-portable-2.json) |
 | Nous | 105167 | [105167-nous.json](./105167-nous.json) |
 | Nous | 142387 | [142387-nous.json](./142387-nous.json) |
 | Nous | 231094 | [231094-nous.json](./231094-nous.json) |
