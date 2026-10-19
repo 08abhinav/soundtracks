@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
 | Abyss of the Sacrifice | 145397 | [145397-abyss-of-the-sacrifice.json](./145397-abyss-of-the-sacrifice.json) |
 | Abyss Pact | 339129 | [339129-abyss-pact.json](./339129-abyss-pact.json) |
+| Abyss Protection | 260020 | [260020-abyss-protection.json](./260020-abyss-protection.json) |
 | Abyss Prowler | 383581 | [383581-abyss-prowler.json](./383581-abyss-prowler.json) |
 | Abyss Rebel | 357415 | [357415-abyss-rebel.json](./357415-abyss-rebel.json) |
 | Abyss Ring | 339958 | [339958-abyss-ring.json](./339958-abyss-ring.json) |
