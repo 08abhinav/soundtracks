@@ -9134,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Problem | 180117 | [180117-miner-problem.json](./180117-miner-problem.json) |
 | Miner Rogue | 290391 | [290391-miner-rogue.json](./290391-miner-rogue.json) |
 | Miner Rush | 201799 | [201799-miner-rush.json](./201799-miner-rush.json) |
+| Miner Tower Defense | 304439 | [304439-miner-tower-defense.json](./304439-miner-tower-defense.json) |
 | Miner Ultra Adventures 2 | 187297 | [187297-miner-ultra-adventures-2.json](./187297-miner-ultra-adventures-2.json) |
 | Miner Ultra Rag Smash | 163918 | [163918-miner-ultra-rag-smash.json](./163918-miner-ultra-rag-smash.json) |
 | Miner Ultra Wild Tides | 106494 | [106494-miner-ultra-wild-tides.json](./106494-miner-ultra-wild-tides.json) |
@@ -11071,6 +11072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
+| Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
