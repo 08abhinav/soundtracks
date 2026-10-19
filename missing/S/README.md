@@ -2292,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzenberg | 86063 | [86063-schwarzenberg.json](./86063-schwarzenberg.json) |
 | Schwarzerblitz | 118188 | [118188-schwarzerblitz.json](./118188-schwarzerblitz.json) |
 | Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 1 | 265083 | [265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json](./265083-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-1.json) |
+| Schwarzerblitz: 8-Colors Star Guardians Collaboration Costumes - Chapter 2 | 288062 | [288062-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-2.json](./288062-schwarzerblitz-8-colors-star-guardians-collaboration-costumes-chapter-2.json) |
 | Schwarzesmarken Kouketsu no Monshou / Junkyousha-tachi | 86089 | [86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json](./86089-schwarzesmarken-kouketsu-no-monshou-junkyousha-tachi.json) |
 | Schwarzesmarken: Junkyousha-tachi | 374377 | [374377-schwarzesmarken-junkyousha-tachi.json](./374377-schwarzesmarken-junkyousha-tachi.json) |
 | Schwarzesmarken: Kouketsu no Monshou | 374363 | [374363-schwarzesmarken-kouketsu-no-monshou.json](./374363-schwarzesmarken-kouketsu-no-monshou.json) |
@@ -4705,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Beach Premium Resort | 22485 | [22485-sexy-beach-premium-resort.json](./22485-sexy-beach-premium-resort.json) |
 | Sexy Beach Zero | 22423 | [22423-sexy-beach-zero.json](./22423-sexy-beach-zero.json) |
 | Sexy Beats | 301656 | [301656-sexy-beats.json](./301656-sexy-beats.json) |
+| Sexy Blackjack | 288056 | [288056-sexy-blackjack.json](./288056-sexy-blackjack.json) |
 | Sexy Blonde | 370759 | [370759-sexy-blonde.json](./370759-sexy-blonde.json) |
 | Sexy Boys for Sex Motel | 288892 | [288892-sexy-boys-for-sex-motel.json](./288892-sexy-boys-for-sex-motel.json) |
 | Sexy Chicken Girl Kisses Rotten Rabbit Man | 385353 | [385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json](./385353-sexy-chicken-girl-kisses-rotten-rabbit-man.json) |
@@ -5483,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shard of Kronos | 163967 | [163967-shard-of-kronos.json](./163967-shard-of-kronos.json) |
 | Shard of Spring | 2884 | [2884-shard-of-spring.json](./2884-shard-of-spring.json) |
 | Shard Seekers | 267823 | [267823-shard-seekers.json](./267823-shard-seekers.json) |
+| Shard Shuffle | 288052 | [288052-shard-shuffle.json](./288052-shard-shuffle.json) |
 | Shard Squad | 323529 | [323529-shard-squad.json](./323529-shard-squad.json) |
 | Shardbound | 27747 | [27747-shardbound.json](./27747-shardbound.json) |
 | Shardbreakers | 351254 | [351254-shardbreakers.json](./351254-shardbreakers.json) |
@@ -8847,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketchy Marathon | 319799 | [319799-sketchy-marathon.json](./319799-sketchy-marathon.json) |
 | Sketchy Racing | 186148 | [186148-sketchy-racing.json](./186148-sketchy-racing.json) |
 | Sketchy.Academy | 140903 | [140903-sketchy-academy.json](./140903-sketchy-academy.json) |
+| Sketchy's Contract | 288082 | [288082-sketchys-contract.json](./288082-sketchys-contract.json) |
 | Skew | 233020 | [233020-skew.json](./233020-skew.json) |
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
@@ -16102,6 +16106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
+| Spirit of the Sky | 288039 | [288039-spirit-of-the-sky.json](./288039-spirit-of-the-sky.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
 | Spirit Parade | 56500 | [56500-spirit-parade.json](./56500-spirit-parade.json) |
@@ -23339,6 +23344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy | 366899 | [366899-super-mario-galaxy.json](./366899-super-mario-galaxy.json) |
 | Super Mario Galaxy + Super Mario Galaxy 2 | 366878 | [366878-super-mario-galaxy-super-mario-galaxy-2.json](./366878-super-mario-galaxy-super-mario-galaxy-2.json) |
 | Super Mario Galaxy 2 | 366900 | [366900-super-mario-galaxy-2.json](./366900-super-mario-galaxy-2.json) |
+| Super Mario Galaxy 2 2: Super Mario Galaxy 1 | 288078 | [288078-super-mario-galaxy-2-2-super-mario-galaxy-1.json](./288078-super-mario-galaxy-2-2-super-mario-galaxy-1.json) |
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 2: Master Mode | 294575 | [294575-super-mario-galaxy-2-master-mode.json](./294575-super-mario-galaxy-2-master-mode.json) |
@@ -23965,6 +23971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
+| Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
 | Super Rude Bear Resurrection: Deluxe Edition | 53688 | [53688-super-rude-bear-resurrection-deluxe-edition.json](./53688-super-rude-bear-resurrection-deluxe-edition.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
