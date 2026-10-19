@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Dragon Mountain: the Lair | 89102 | [89102-tales-from-the-dragon-mountain-the-lair.json](./89102-tales-from-the-dragon-mountain-the-lair.json) |
 | Tales From The Dragon Mountain: The Strix | 17060 | [17060-tales-from-the-dragon-mountain-the-strix.json](./17060-tales-from-the-dragon-mountain-the-strix.json) |
 | Tales From the Herd | 277296 | [277296-tales-from-the-herd.json](./277296-tales-from-the-herd.json) |
+| Tales From The Other Side | 293970 | [293970-tales-from-the-other-side.json](./293970-tales-from-the-other-side.json) |
 | Tales from the Outer Zone: Cyborg Seppuku | 182765 | [182765-tales-from-the-outer-zone-cyborg-seppuku.json](./182765-tales-from-the-outer-zone-cyborg-seppuku.json) |
 | Tales from the Outer Zone: Fleshworms | 230874 | [230874-tales-from-the-outer-zone-fleshworms.json](./230874-tales-from-the-outer-zone-fleshworms.json) |
 | Tales From The Outer Zone: The Construction | 230875 | [230875-tales-from-the-outer-zone-the-construction.json](./230875-tales-from-the-outer-zone-the-construction.json) |
@@ -3210,6 +3211,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
+| Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
+| Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
 | Terebron | 165681 | [165681-terebron.json](./165681-terebron.json) |
 | Terezi Pyrope: Ace Attorney | 304032 | [304032-terezi-pyrope-ace-attorney.json](./304032-terezi-pyrope-ace-attorney.json) |
 | Terfenstein 3D | 224571 | [224571-terfenstein-3d.json](./224571-terfenstein-3d.json) |
@@ -6939,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Ultra Super Duper Cube Cavern Deluxe GOTY Edition | 309115 | [309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json](./309115-the-final-ultra-super-duper-cube-cavern-deluxe-goty-edition.json) |
 | The Final Witness | 416815 | [416815-the-final-witness.json](./416815-the-final-witness.json) |
 | The Finally | 201798 | [201798-the-finally.json](./201798-the-finally.json) |
+| The Finals: Bank Rabbit Set | 294006 | [294006-the-finals-bank-rabbit-set.json](./294006-the-finals-bank-rabbit-set.json) |
 | The Finals: Season 1 | 279659 | [279659-the-finals-season-1.json](./279659-the-finals-season-1.json) |
 | The Finals: Season 10 - Fantasy League | 398016 | [398016-the-finals-season-10-fantasy-league.json](./398016-the-finals-season-10-fantasy-league.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
@@ -11876,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Kingdoms of Anteria | 7440 | [7440-the-settlers-kingdoms-of-anteria.json](./7440-the-settlers-kingdoms-of-anteria.json) |
 | The Settlers: New Allies - Deluxe Edition | 216233 | [216233-the-settlers-new-allies-deluxe-edition.json](./216233-the-settlers-new-allies-deluxe-edition.json) |
 | The Settlers: New Allies - Deluxe Pack | 239011 | [239011-the-settlers-new-allies-deluxe-pack.json](./239011-the-settlers-new-allies-deluxe-pack.json) |
+| The Settlers: New Allies - Starter Pack | 294011 | [294011-the-settlers-new-allies-starter-pack.json](./294011-the-settlers-new-allies-starter-pack.json) |
 | The Settlers: Rise of an Empire | 3700 | [3700-the-settlers-rise-of-an-empire.json](./3700-the-settlers-rise-of-an-empire.json) |
 | The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
@@ -14125,6 +14130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
 | The World Named Fred | 35673 | [35673-the-world-named-fred.json](./35673-the-world-named-fred.json) |
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
+| The World of Animals | 293980 | [293980-the-world-of-animals.json](./293980-the-world-of-animals.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
 | The World of Golden Eggs: Nori Nori Rhythm-kei - Nissan Note Original Version | 268205 | [268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json](./268205-the-world-of-golden-eggs-nori-nori-rhythm-kei-nissan-note-original-version.json) |
@@ -22138,6 +22144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
 | Treasure Hunt | 246370 | [246370-treasure-hunt.json](./246370-treasure-hunt.json) |
+| Treasure Hunt | 293981 | [293981-treasure-hunt.json](./293981-treasure-hunt.json) |
 | Treasure Hunt | 366840 | [366840-treasure-hunt.json](./366840-treasure-hunt.json) |
 | Treasure Hunt Girl | 270114 | [270114-treasure-hunt-girl.json](./270114-treasure-hunt-girl.json) |
 | Treasure Hunter | 195062 | [195062-treasure-hunter.json](./195062-treasure-hunter.json) |
@@ -23003,6 +23010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
 | Trouble in Cookie Town | 346378 | [346378-trouble-in-cookie-town.json](./346378-trouble-in-cookie-town.json) |
+| Trouble in Mother Goose Land | 293983 | [293983-trouble-in-mother-goose-land.json](./293983-trouble-in-mother-goose-land.json) |
 | Trouble in Pacifica | 331288 | [331288-trouble-in-pacifica.json](./331288-trouble-in-pacifica.json) |
 | Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
