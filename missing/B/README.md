@@ -4146,6 +4146,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Academy: Spellcraft Tournament | 211429 | [211429-beauties-academy-spellcraft-tournament.json](./211429-beauties-academy-spellcraft-tournament.json) |
 | Beauties and Beasts | 317315 | [317315-beauties-and-beasts.json](./317315-beauties-and-beasts.json) |
 | Beauties Unveiled | 284499 | [284499-beauties-unveiled.json](./284499-beauties-unveiled.json) |
+| Beauties Unveiled 2 | 289206 | [289206-beauties-unveiled-2.json](./289206-beauties-unveiled-2.json) |
+| Beauties Unveiled 2: Cassy Level Pack | 289209 | [289209-beauties-unveiled-2-cassy-level-pack.json](./289209-beauties-unveiled-2-cassy-level-pack.json) |
 | Beauties Unveiled 2: CEO 69 Edition | 315874 | [315874-beauties-unveiled-2-ceo-69-edition.json](./315874-beauties-unveiled-2-ceo-69-edition.json) |
 | Beauties Unveiled 2: Spicy Edition | 295680 | [295680-beauties-unveiled-2-spicy-edition.json](./295680-beauties-unveiled-2-spicy-edition.json) |
 | Beauties Unveiled: Ariadne Level Pack | 312098 | [312098-beauties-unveiled-ariadne-level-pack.json](./312098-beauties-unveiled-ariadne-level-pack.json) |
@@ -4252,6 +4254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Dirt | 276746 | [276746-become-dirt.json](./276746-become-dirt.json) |
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
+| Become The Wild | 289207 | [289207-become-the-wild.json](./289207-become-the-wild.json) |
 | Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
 | Becoming a Dandelion Spore | 116275 | [116275-becoming-a-dandelion-spore.json](./116275-becoming-a-dandelion-spore.json) |
 | Becoming a King | 348457 | [348457-becoming-a-king.json](./348457-becoming-a-king.json) |
@@ -5014,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betrayal of Blood | 243585 | [243585-betrayal-of-blood.json](./243585-betrayal-of-blood.json) |
 | Betrayal of the Obsidian Baboon | 73168 | [73168-betrayal-of-the-obsidian-baboon.json](./73168-betrayal-of-the-obsidian-baboon.json) |
 | Betrayal.io | 139300 | [139300-betrayal-io.json](./139300-betrayal-io.json) |
+| Betrayed | 289169 | [289169-betrayed.json](./289169-betrayed.json) |
 | Betrayed Alliance: Book 2 | 239894 | [239894-betrayed-alliance-book-2.json](./239894-betrayed-alliance-book-2.json) |
 | Betrayer | 7711 | [7711-betrayer.json](./7711-betrayer.json) |
 | Betrayer: Curse of the Spine | 168381 | [168381-betrayer-curse-of-the-spine.json](./168381-betrayer-curse-of-the-spine.json) |
