@@ -2897,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Remains | 144718 | [144718-enemy-remains.json](./144718-enemy-remains.json) |
 | Enemy Star | 267587 | [267587-enemy-star.json](./267587-enemy-star.json) |
 | Enemy Territory Fortress | 273010 | [273010-enemy-territory-fortress.json](./273010-enemy-territory-fortress.json) |
+| Enemy Trench | 266083 | [266083-enemy-trench.json](./266083-enemy-trench.json) |
 | Enemy Zero | 13549 | [13549-enemy-zero.json](./13549-enemy-zero.json) |
 | Enen Angel | 107641 | [107641-enen-angel.json](./107641-enen-angel.json) |
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
@@ -2970,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | English A-Game | 219250 | [219250-english-a-game.json](./219250-english-a-game.json) |
 | English Civil War | 129580 | [129580-english-civil-war.json](./129580-english-civil-war.json) |
 | English Country Tune | 9699 | [9699-english-country-tune.json](./9699-english-country-tune.json) |
+| English Is Hard_ | 266094 | [266094-english-is-hard.json](./266094-english-is-hard.json) |
 | English of the Dead | 73014 | [73014-english-of-the-dead.json](./73014-english-of-the-dead.json) |
 | English Sensei: Teaching in Japan | 329441 | [329441-english-sensei-teaching-in-japan.json](./329441-english-sensei-teaching-in-japan.json) |
 | English Tracing Book | 290463 | [290463-english-tracing-book.json](./290463-english-tracing-book.json) |
@@ -6123,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
+| Eyewinder | 266086 | [266086-eyewinder.json](./266086-eyewinder.json) |
 | Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
 | Eyewitness Virtual Reality: Cat | 361603 | [361603-eyewitness-virtual-reality-cat.json](./361603-eyewitness-virtual-reality-cat.json) |
 | Eyewitness Virtual Reality: Dinosaur Hunter | 198384 | [198384-eyewitness-virtual-reality-dinosaur-hunter.json](./198384-eyewitness-virtual-reality-dinosaur-hunter.json) |
