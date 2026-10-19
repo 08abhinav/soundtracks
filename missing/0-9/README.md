@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | \\\//\\/\\\/// | 139880 | [139880-.json](./139880-.json) |
 | & in the War I Find You | 178584 | [178584-and-in-the-war-i-find-you.json](./178584-and-in-the-war-i-find-you.json) |
 | &0 | 255619 | [255619-and-0.json](./255619-and-0.json) |
+| #!/Bin/Bash | 302821 | [302821-bin-bash.json](./302821-bin-bash.json) |
 | #1 Crosswords Bundle | 153139 | [153139-1-crosswords-bundle.json](./153139-1-crosswords-bundle.json) |
 | #1 Pastime Bundle | 192408 | [192408-1-pastime-bundle.json](./192408-1-pastime-bundle.json) |
 | #1 Sudokus | 187309 | [187309-1-sudokus.json](./187309-1-sudokus.json) |
