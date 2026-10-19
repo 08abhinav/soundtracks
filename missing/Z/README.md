@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero-G MMO | 396231 | [396231-zero-g-mmo.json](./396231-zero-g-mmo.json) |
 | Zero-G Revolution | 151124 | [151124-zero-g-revolution.json](./151124-zero-g-revolution.json) |
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
+| Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
