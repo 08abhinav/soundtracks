@@ -9064,6 +9064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Jump Die Repeat | 47230 | [47230-run-jump-die-repeat.json](./47230-run-jump-die-repeat.json) |
 | Run Jump Fail | 97029 | [97029-run-jump-fail.json](./97029-run-jump-fail.json) |
 | Run Jump Rabbit Turtle | 117789 | [117789-run-jump-rabbit-turtle.json](./117789-run-jump-rabbit-turtle.json) |
+| Run Kelvin: Penguin Escape | 257797 | [257797-run-kelvin-penguin-escape.json](./257797-run-kelvin-penguin-escape.json) |
 | Run Legends | 250438 | [250438-run-legends.json](./250438-run-legends.json) |
 | Run Like Hell! | 61642 | [61642-run-like-hell.json](./61642-run-like-hell.json) |
 | Run Like Hell! Treasure Bundle | 118155 | [118155-run-like-hell-treasure-bundle.json](./118155-run-like-hell-treasure-bundle.json) |
