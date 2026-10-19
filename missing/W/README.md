@@ -4190,6 +4190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
 | Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
 | Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
+| Winding Heat | 282431 | [282431-winding-heat.json](./282431-winding-heat.json) |
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
