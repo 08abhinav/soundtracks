@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
 | Visual DOS: Integer Overflow | 364520 | [364520-visual-dos-integer-overflow.json](./364520-visual-dos-integer-overflow.json) |
 | Visual echoes | 183941 | [183941-visual-echoes.json](./183941-visual-echoes.json) |
+| Visual novel for the kids: Lumi And Baby - Hamster And Baby Dragon | 274917 | [274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json](./274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json) |
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
