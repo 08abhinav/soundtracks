@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow | 264558 | [264558-rainbow.json](./264558-rainbow.json) |
 | Rainbow | 359417 | [359417-rainbow.json](./359417-rainbow.json) |
 | Rainbow Aliceland | 206725 | [206725-rainbow-aliceland.json](./206725-rainbow-aliceland.json) |
+| Rainbow Ascend: Anime Girls Go Up | 305619 | [305619-rainbow-ascend-anime-girls-go-up.json](./305619-rainbow-ascend-anime-girls-go-up.json) |
 | Rainbow Billy: The Book of Fears | 391844 | [391844-rainbow-billy-the-book-of-fears.json](./391844-rainbow-billy-the-book-of-fears.json) |
 | Rainbow Blocks | 88488 | [88488-rainbow-blocks.json](./88488-rainbow-blocks.json) |
 | Rainbow Breakout | 234166 | [234166-rainbow-breakout.json](./234166-rainbow-breakout.json) |
@@ -7538,6 +7539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
+| Rolled: A Pinball Nightmare | 305626 | [305626-rolled-a-pinball-nightmare.json](./305626-rolled-a-pinball-nightmare.json) |
 | Roller | 99776 | [99776-roller.json](./99776-roller.json) |
 | Roller Aces | 40132 | [40132-roller-aces.json](./40132-roller-aces.json) |
 | Roller Angels | 84847 | [84847-roller-angels.json](./84847-roller-angels.json) |
@@ -7770,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack | 350638 | [350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json](./350638-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack.json) |
 | Romance of the Three Kingdoms XIV: Diplomacy and Strategy Expansion Pack Bundle | 147803 | [147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json](./147803-romance-of-the-three-kingdoms-xiv-diplomacy-and-strategy-expansion-pack-bundle.json) |
 | Romance of the Three Kingdoms XIV: Legend of the Galactic Heroes Collab - Reinhard & Yang | 164500 | [164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json](./164500-romance-of-the-three-kingdoms-xiv-legend-of-the-galactic-heroes-collab-reinhard-and-yang.json) |
+| Romance of the Three Kingdoms: Legend of Shu Han | 305625 | [305625-romance-of-the-three-kingdoms-legend-of-shu-han.json](./305625-romance-of-the-three-kingdoms-legend-of-shu-han.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
