@@ -12328,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droids | 84276 | [84276-droids.json](./84276-droids.json) |
 | Droids & Wizards | 124769 | [124769-droids-and-wizards.json](./124769-droids-and-wizards.json) |
 | Droids: The White Witch | 255557 | [255557-droids-the-white-witch.json](./255557-droids-the-white-witch.json) |
+| Droidscape: Basilica | 257259 | [257259-droidscape-basilica.json](./257259-droidscape-basilica.json) |
 | Droiyan | 146529 | [146529-droiyan.json](./146529-droiyan.json) |
 | Droiyan 2: Absolute Monarch | 146531 | [146531-droiyan-2-absolute-monarch.json](./146531-droiyan-2-absolute-monarch.json) |
 | Droiyan Next | 146530 | [146530-droiyan-next.json](./146530-droiyan-next.json) |
