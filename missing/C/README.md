@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnosis | 414556 | [414556-carnosis.json](./414556-carnosis.json) |
 | Carol Coral's: Open the Door | 319552 | [319552-carol-corals-open-the-door.json](./319552-carol-corals-open-the-door.json) |
 | Carol the Dark Angel | 209722 | [209722-carol-the-dark-angel.json](./209722-carol-the-dark-angel.json) |
+| Carol Vorderman's Sudoku DVD Game | 264474 | [264474-carol-vordermans-sudoku-dvd-game.json](./264474-carol-vordermans-sudoku-dvd-game.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
@@ -3708,10 +3709,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrating Pizza | 183861 | [183861-celebrating-pizza.json](./183861-celebrating-pizza.json) |
 | Celebrating Popcorn | 317692 | [317692-celebrating-popcorn.json](./317692-celebrating-popcorn.json) |
 | Celebrities Hacked | 260192 | [260192-celebrities-hacked.json](./260192-celebrities-hacked.json) |
+| Celebrities Hacked: ArmourLilly Photo Pack | 264504 | [264504-celebrities-hacked-armourlilly-photo-pack.json](./264504-celebrities-hacked-armourlilly-photo-pack.json) |
 | Celebrities Hacked: Evelyn Photo Pack | 289470 | [289470-celebrities-hacked-evelyn-photo-pack.json](./289470-celebrities-hacked-evelyn-photo-pack.json) |
+| Celebrities Hacked: KittyLock Photo Pack | 264505 | [264505-celebrities-hacked-kittylock-photo-pack.json](./264505-celebrities-hacked-kittylock-photo-pack.json) |
 | Celebrities Hacked: LatexUsagi Photo Pack | 289469 | [289469-celebrities-hacked-latexusagi-photo-pack.json](./289469-celebrities-hacked-latexusagi-photo-pack.json) |
 | Celebrities Hacked: NoirPetal Photo Pack | 289467 | [289467-celebrities-hacked-noirpetal-photo-pack.json](./289467-celebrities-hacked-noirpetal-photo-pack.json) |
+| Celebrities Hacked: Penelope Photo Pack | 264503 | [264503-celebrities-hacked-penelope-photo-pack.json](./264503-celebrities-hacked-penelope-photo-pack.json) |
 | Celebrities Hacked: PlushyPixel Photo Pack | 289468 | [289468-celebrities-hacked-plushypixel-photo-pack.json](./289468-celebrities-hacked-plushypixel-photo-pack.json) |
+| Celebrities Hacked: Scarlet Photo Pack | 264502 | [264502-celebrities-hacked-scarlet-photo-pack.json](./264502-celebrities-hacked-scarlet-photo-pack.json) |
 | Celebrity Bash | 394201 | [394201-celebrity-bash.json](./394201-celebrity-bash.json) |
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
 | Celebrity Hunter | 298449 | [298449-celebrity-hunter.json](./298449-celebrity-hunter.json) |
