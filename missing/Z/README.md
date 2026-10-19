@@ -822,6 +822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziircon | 211277 | [211277-ziircon.json](./211277-ziircon.json) |
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
+| Zilado! | 306789 | [306789-zilado.json](./306789-zilado.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
@@ -1302,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Strike Force | 335951 | [335951-zombie-strike-force.json](./335951-zombie-strike-force.json) |
 | Zombie Survival | 212487 | [212487-zombie-survival.json](./212487-zombie-survival.json) |
 | Zombie Survival | 231077 | [231077-zombie-survival.json](./231077-zombie-survival.json) |
+| Zombie Survival | 306756 | [306756-zombie-survival.json](./306756-zombie-survival.json) |
 | Zombie Survival 3D | 409578 | [409578-zombie-survival-3d.json](./409578-zombie-survival-3d.json) |
 | Zombie Survival Online | 157491 | [157491-zombie-survival-online.json](./157491-zombie-survival-online.json) |
 | Zombie Survival: The Walking Pandemic | 300830 | [300830-zombie-survival-the-walking-pandemic.json](./300830-zombie-survival-the-walking-pandemic.json) |
