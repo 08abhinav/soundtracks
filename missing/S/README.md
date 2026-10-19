@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 192957 | [192957-samsara.json](./192957-samsara.json) |
 | Samsara | 249503 | [249503-samsara.json](./249503-samsara.json) |
 | Samsara | 76641 | [76641-samsara.json](./76641-samsara.json) |
+| Samsara Agent | 267779 | [267779-samsara-agent.json](./267779-samsara-agent.json) |
 | Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
 | Samsara: Stones of Eternity | 174249 | [174249-samsara-stones-of-eternity.json](./174249-samsara-stones-of-eternity.json) |
@@ -4149,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinel: Mars Defense | 63201 | [63201-sentinel-mars-defense.json](./63201-sentinel-mars-defense.json) |
+| Sentinel: Stones of Disruption | 267797 | [267797-sentinel-stones-of-disruption.json](./267797-sentinel-stones-of-disruption.json) |
 | Sentinels | 27293 | [27293-sentinels.json](./27293-sentinels.json) |
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
@@ -10363,6 +10365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smackhead | 76529 | [76529-smackhead.json](./76529-smackhead.json) |
 | Smackitball | 33036 | [33036-smackitball.json](./33036-smackitball.json) |
 | Small | 13258 | [13258-small.json](./13258-small.json) |
+| Small Aircraft | 267822 | [267822-small-aircraft.json](./267822-small-aircraft.json) |
 | Small Arms | 18039 | [18039-small-arms.json](./18039-small-arms.json) |
 | Small Army | 185688 | [185688-small-army.json](./185688-small-army.json) |
 | Small Ball | 169461 | [169461-small-ball.json](./169461-small-ball.json) |
@@ -14721,6 +14724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Shooter | 155173 | [155173-space-shooter.json](./155173-space-shooter.json) |
 | Space Shooter | 186184 | [186184-space-shooter.json](./186184-space-shooter.json) |
 | Space Shooter | 336670 | [336670-space-shooter.json](./336670-space-shooter.json) |
+| Space Shooter 24 | 267821 | [267821-space-shooter-24.json](./267821-space-shooter-24.json) |
 | Space Shooter 3D | 96756 | [96756-space-shooter-3d.json](./96756-space-shooter-3d.json) |
 | Space Shooter: Alpha Impact | 71482 | [71482-space-shooter-alpha-impact.json](./71482-space-shooter-alpha-impact.json) |
 | Space Shooter: Fun Arcade Game | 87535 | [87535-space-shooter-fun-arcade-game.json](./87535-space-shooter-fun-arcade-game.json) |
@@ -15864,6 +15868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Kong | 40737 | [40737-spider-kong.json](./40737-spider-kong.json) |
 | Spider Lander | 111723 | [111723-spider-lander.json](./111723-spider-lander.json) |
 | Spider Lily | 403806 | [403806-spider-lily.json](./403806-spider-lily.json) |
+| Spider Mall! | 267820 | [267820-spider-mall.json](./267820-spider-mall.json) |
 | Spider Matrix | 408780 | [408780-spider-matrix.json](./408780-spider-matrix.json) |
 | Spider Maze | 363061 | [363061-spider-maze.json](./363061-spider-maze.json) |
 | Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
@@ -16566,6 +16571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spookware: Watch Party | 189180 | [189180-spookware-watch-party.json](./189180-spookware-watch-party.json) |
 | SpookWave | 183065 | [183065-spookwave.json](./183065-spookwave.json) |
 | Spooky Bodies | 343392 | [343392-spooky-bodies.json](./343392-spooky-bodies.json) |
+| Spooky Bundle: From Shadow & Apocalipsis | 267773 | [267773-spooky-bundle-from-shadow-and-apocalipsis.json](./267773-spooky-bundle-from-shadow-and-apocalipsis.json) |
 | Spooky Castle | 47235 | [47235-spooky-castle.json](./47235-spooky-castle.json) |
 | Spooky Chase | 136485 | [136485-spooky-chase.json](./136485-spooky-chase.json) |
 | Spooky Crew: Mask of the Mysterium | 258372 | [258372-spooky-crew-mask-of-the-mysterium.json](./258372-spooky-crew-mask-of-the-mysterium.json) |
@@ -20066,6 +20072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Guys | 318046 | [318046-storage-guys.json](./318046-storage-guys.json) |
 | Storage Hunter Simulator | 317979 | [317979-storage-hunter-simulator.json](./317979-storage-hunter-simulator.json) |
 | Storage Hunter: Bid War Simulator | 345118 | [345118-storage-hunter-bid-war-simulator.json](./345118-storage-hunter-bid-war-simulator.json) |
+| Storage Hustle | 267819 | [267819-storage-hustle.json](./267819-storage-hustle.json) |
 | Storage Inc 2 | 30720 | [30720-storage-inc-2.json](./30720-storage-inc-2.json) |
 | Storage Kings | 115497 | [115497-storage-kings.json](./115497-storage-kings.json) |
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
@@ -25202,6 +25209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival City | 346260 | [346260-survival-city.json](./346260-survival-city.json) |
 | Survival Crisis | 237673 | [237673-survival-crisis.json](./237673-survival-crisis.json) |
 | Survival Crisis Z | 94707 | [94707-survival-crisis-z.json](./94707-survival-crisis-z.json) |
+| Survival Dead Poly | 267818 | [267818-survival-dead-poly.json](./267818-survival-dead-poly.json) |
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
 | Survival Driver | 29637 | [29637-survival-driver.json](./29637-survival-driver.json) |
