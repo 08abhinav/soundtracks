@@ -1470,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car For Sale Together | 394613 | [394613-car-for-sale-together.json](./394613-car-for-sale-together.json) |
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
+| Car Games for Kids & Toddlers Bundle 3 in 1 | 303878 | [303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json](./303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
 | Car Guy Soundboard | 323375 | [323375-car-guy-soundboard.json](./323375-car-guy-soundboard.json) |
 | Car Guys | 345423 | [345423-car-guys.json](./345423-car-guys.json) |
@@ -13403,7 +13404,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypt of the Serpent King: Remastered - 4K Edition | 208456 | [208456-crypt-of-the-serpent-king-remastered-4k-edition.json](./208456-crypt-of-the-serpent-king-remastered-4k-edition.json) |
 | Crypt of the Undead | 24862 | [24862-crypt-of-the-undead.json](./24862-crypt-of-the-undead.json) |
 | Crypt Raider | 263476 | [263476-crypt-raider.json](./263476-crypt-raider.json) |
+| Crypt Stalker: Boss Rush+ | 303873 | [303873-crypt-stalker-boss-rush.json](./303873-crypt-stalker-boss-rush.json) |
 | Crypt Stalker: Extended Edition | 308796 | [308796-crypt-stalker-extended-edition.json](./308796-crypt-stalker-extended-edition.json) |
+| Crypt Stalker: Extra Quests | 303874 | [303874-crypt-stalker-extra-quests.json](./303874-crypt-stalker-extra-quests.json) |
 | Crypt Stalker: Happy Edition | 306521 | [306521-crypt-stalker-happy-edition.json](./306521-crypt-stalker-happy-edition.json) |
 | Crypt Stalker: Ultimate Edition | 306522 | [306522-crypt-stalker-ultimate-edition.json](./306522-crypt-stalker-ultimate-edition.json) |
 | Crypt Sweeper | 381973 | [381973-crypt-sweeper.json](./381973-crypt-sweeper.json) |
@@ -14899,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Men for Cyberpunk Sex | 288882 | [288882-cyberpunk-men-for-cyberpunk-sex.json](./288882-cyberpunk-men-for-cyberpunk-sex.json) |
 | Cyberpunk Men for Sex Motel | 288895 | [288895-cyberpunk-men-for-sex-motel.json](./288895-cyberpunk-men-for-sex-motel.json) |
 | Cyberpunk Messenger | 169830 | [169830-cyberpunk-messenger.json](./169830-cyberpunk-messenger.json) |
+| Cyberpunk Paradise Elysium: The Visual Novel | 303867 | [303867-cyberpunk-paradise-elysium-the-visual-novel.json](./303867-cyberpunk-paradise-elysium-the-visual-novel.json) |
 | Cyberpunk Parkour Uprising | 309003 | [309003-cyberpunk-parkour-uprising.json](./309003-cyberpunk-parkour-uprising.json) |
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
