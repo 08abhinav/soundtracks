@@ -10564,6 +10564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
 | BoyKisser Clicker | 310600 | [310600-boykisser-clicker.json](./310600-boykisser-clicker.json) |
+| Boykisser Mayhem | 268332 | [268332-boykisser-mayhem.json](./268332-boykisser-mayhem.json) |
 | Boys Race | 315811 | [315811-boys-race.json](./315811-boys-race.json) |
 | Boys Tale | 255358 | [255358-boys-tale.json](./255358-boys-tale.json) |
 | Boys Work | 186188 | [186188-boys-work.json](./186188-boys-work.json) |
