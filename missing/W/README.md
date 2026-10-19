@@ -5287,6 +5287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderbook: Walking with Dinosaurs | 25089 | [25089-wonderbook-walking-with-dinosaurs.json](./25089-wonderbook-walking-with-dinosaurs.json) |
 | Wonderbox: The Adventure Maker | 142352 | [142352-wonderbox-the-adventure-maker.json](./142352-wonderbox-the-adventure-maker.json) |
 | WonderCat Adventures | 34924 | [34924-wondercat-adventures.json](./34924-wondercat-adventures.json) |
+| WonderCell | 274868 | [274868-wondercell.json](./274868-wondercell.json) |
 | Wonderfall | 361645 | [361645-wonderfall.json](./361645-wonderfall.json) |
 | Wonderful Dizzy | 141687 | [141687-wonderful-dizzy.json](./141687-wonderful-dizzy.json) |
 | Wonderful Duck | 182991 | [182991-wonderful-duck.json](./182991-wonderful-duck.json) |
@@ -6523,6 +6524,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WormWar | 107121 | [107121-wormwar.json](./107121-wormwar.json) |
 | Wormwood | 216819 | [216819-wormwood.json](./216819-wormwood.json) |
 | Wormwood | 274728 | [274728-wormwood.json](./274728-wormwood.json) |
+| Wormwood III: The Horror | 274872 | [274872-wormwood-iii-the-horror.json](./274872-wormwood-iii-the-horror.json) |
+| Wormwood IV: The Final Chapter | 274874 | [274874-wormwood-iv-the-final-chapter.json](./274874-wormwood-iv-the-final-chapter.json) |
+| Wormwood V | 274875 | [274875-wormwood-v.json](./274875-wormwood-v.json) |
+| Wormwood: Expanded Universe | 274871 | [274871-wormwood-expanded-universe.json](./274871-wormwood-expanded-universe.json) |
 | wormzilla.io | 397845 | [397845-wormzilla-io.json](./397845-wormzilla-io.json) |
 | Worn by the Forgotten | 407866 | [407866-worn-by-the-forgotten.json](./407866-worn-by-the-forgotten.json) |
 | Worrrm Rebirth | 253253 | [253253-worrrm-rebirth.json](./253253-worrrm-rebirth.json) |
