@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-19T20:03:58.481Z",
-  "total_missing": 234437,
+  "generated_at": "2026-10-19T20:18:37.829Z",
+  "total_missing": 234487,
   "games": [
     {
       "igdb_id": 191680,
@@ -62315,6 +62315,11 @@
       "igdb_id": 192416,
       "game_name": "Aria",
       "file": "missing/A/192416-aria.json"
+    },
+    {
+      "igdb_id": 263905,
+      "game_name": "Aria",
+      "file": "missing/A/263905-aria.json"
     },
     {
       "igdb_id": 305379,
@@ -150052,9 +150057,99 @@
       "file": "missing/C/263875-california-games.json"
     },
     {
+      "igdb_id": 263877,
+      "game_name": "California Games",
+      "file": "missing/C/263877-california-games.json"
+    },
+    {
       "igdb_id": 263878,
       "game_name": "California Games",
       "file": "missing/C/263878-california-games.json"
+    },
+    {
+      "igdb_id": 263879,
+      "game_name": "California Games",
+      "file": "missing/C/263879-california-games.json"
+    },
+    {
+      "igdb_id": 263880,
+      "game_name": "California Games",
+      "file": "missing/C/263880-california-games.json"
+    },
+    {
+      "igdb_id": 263881,
+      "game_name": "California Games",
+      "file": "missing/C/263881-california-games.json"
+    },
+    {
+      "igdb_id": 263883,
+      "game_name": "California Games",
+      "file": "missing/C/263883-california-games.json"
+    },
+    {
+      "igdb_id": 263884,
+      "game_name": "California Games",
+      "file": "missing/C/263884-california-games.json"
+    },
+    {
+      "igdb_id": 263885,
+      "game_name": "California Games",
+      "file": "missing/C/263885-california-games.json"
+    },
+    {
+      "igdb_id": 263887,
+      "game_name": "California Games",
+      "file": "missing/C/263887-california-games.json"
+    },
+    {
+      "igdb_id": 263888,
+      "game_name": "California Games",
+      "file": "missing/C/263888-california-games.json"
+    },
+    {
+      "igdb_id": 263889,
+      "game_name": "California Games",
+      "file": "missing/C/263889-california-games.json"
+    },
+    {
+      "igdb_id": 263890,
+      "game_name": "California Games",
+      "file": "missing/C/263890-california-games.json"
+    },
+    {
+      "igdb_id": 263891,
+      "game_name": "California Games",
+      "file": "missing/C/263891-california-games.json"
+    },
+    {
+      "igdb_id": 263893,
+      "game_name": "California Games",
+      "file": "missing/C/263893-california-games.json"
+    },
+    {
+      "igdb_id": 263899,
+      "game_name": "California Games II",
+      "file": "missing/C/263899-california-games-ii.json"
+    },
+    {
+      "igdb_id": 263900,
+      "game_name": "California Games II",
+      "file": "missing/C/263900-california-games-ii.json"
+    },
+    {
+      "igdb_id": 263902,
+      "game_name": "California Games II",
+      "file": "missing/C/263902-california-games-ii.json"
+    },
+    {
+      "igdb_id": 263904,
+      "game_name": "California Games II",
+      "file": "missing/C/263904-california-games-ii.json"
+    },
+    {
+      "igdb_id": 263906,
+      "game_name": "California Games II",
+      "file": "missing/C/263906-california-games-ii.json"
     },
     {
       "igdb_id": 3335,
@@ -180505,6 +180600,11 @@
       "igdb_id": 252691,
       "game_name": "Cipher Zero",
       "file": "missing/C/252691-cipher-zero.json"
+    },
+    {
+      "igdb_id": 263882,
+      "game_name": "Cipher-8",
+      "file": "missing/C/263882-cipher-8.json"
     },
     {
       "igdb_id": 144753,
@@ -254957,6 +255057,11 @@
       "file": "missing/D/27370-devoid-of-shadows.json"
     },
     {
+      "igdb_id": 263892,
+      "game_name": "Devoid Prototype",
+      "file": "missing/D/263892-devoid-prototype.json"
+    },
+    {
       "igdb_id": 220329,
       "game_name": "Devolution: Maken no Ou to Shimobe-tachi",
       "file": "missing/D/220329-devolution-maken-no-ou-to-shimobe-tachi.json"
@@ -262800,6 +262905,11 @@
       "igdb_id": 228446,
       "game_name": "Disney Hotshots: The Little Mermaid",
       "file": "missing/D/228446-disney-hotshots-the-little-mermaid.json"
+    },
+    {
+      "igdb_id": 263922,
+      "game_name": "Disney Infinity 2.0 Spider-Man Playset",
+      "file": "missing/D/263922-disney-infinity-2-0-spider-man-playset.json"
     },
     {
       "igdb_id": 17818,
@@ -352772,6 +352882,11 @@
       "file": "missing/F/300353-five-nights-at-freddys-security-breach.json"
     },
     {
+      "igdb_id": 263898,
+      "game_name": "Five Nights at Freddy's: Security Breach - Chaos Mod",
+      "file": "missing/F/263898-five-nights-at-freddys-security-breach-chaos-mod.json"
+    },
+    {
       "igdb_id": 198389,
       "game_name": "Five Nights at Freddy's: Security Breach - Collector's Edition",
       "file": "missing/F/198389-five-nights-at-freddys-security-breach-collectors-edition.json"
@@ -359610,6 +359725,11 @@
       "igdb_id": 115403,
       "game_name": "Fold",
       "file": "missing/F/115403-fold.json"
+    },
+    {
+      "igdb_id": 263926,
+      "game_name": "Fold",
+      "file": "missing/F/263926-fold.json"
     },
     {
       "igdb_id": 255744,
@@ -408142,6 +408262,11 @@
       "file": "missing/G/398950-grand-theft-auto-online-the-diamond-casino-heist.json"
     },
     {
+      "igdb_id": 263913,
+      "game_name": "Grand Theft Auto Online: The Doomsday Heist",
+      "file": "missing/G/263913-grand-theft-auto-online-the-doomsday-heist.json"
+    },
+    {
       "igdb_id": 99753,
       "game_name": "Grand Theft Auto PS Vita Collection",
       "file": "missing/G/99753-grand-theft-auto-ps-vita-collection.json"
@@ -449887,6 +450012,11 @@
       "file": "missing/H/251513-higurashi-no-naku-koro-ni-hou-origin.json"
     },
     {
+      "igdb_id": 263930,
+      "game_name": "Higurashi no Naku Koro ni Hou: Batsukoishi-hen",
+      "file": "missing/H/263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json"
+    },
+    {
       "igdb_id": 136817,
       "game_name": "Higurashi no Naku Koro ni Hou: Complete Edition",
       "file": "missing/H/136817-higurashi-no-naku-koro-ni-hou-complete-edition.json"
@@ -449925,6 +450055,11 @@
       "igdb_id": 263490,
       "game_name": "Higurashi no Naku Koro ni Hou: Outbreak",
       "file": "missing/H/263490-higurashi-no-naku-koro-ni-hou-outbreak.json"
+    },
+    {
+      "igdb_id": 263931,
+      "game_name": "Higurashi no Naku Koro ni Hou: Outbreak",
+      "file": "missing/H/263931-higurashi-no-naku-koro-ni-hou-outbreak.json"
     },
     {
       "igdb_id": 263660,
@@ -450117,6 +450252,11 @@
       "file": "missing/H/60788-higurashi-no-naku-koro-ni-sui.json"
     },
     {
+      "igdb_id": 263916,
+      "game_name": "Higurashi no Naku Koro ni: Alternative Hirukowashi-hen",
+      "file": "missing/H/263916-higurashi-no-naku-koro-ni-alternative-hirukowashi-hen.json"
+    },
+    {
       "igdb_id": 248182,
       "game_name": "Higurashi no Naku Koro ni: Ch.1 Onikakushi-hen",
       "file": "missing/H/248182-higurashi-no-naku-koro-ni-ch-1-onikakushi-hen.json"
@@ -450157,9 +450297,24 @@
       "file": "missing/H/248198-higurashi-no-naku-koro-ni-ch-8-matsuribayashi-hen.json"
     },
     {
+      "igdb_id": 263929,
+      "game_name": "Higurashi no Naku Koro ni: Hajisarashi-hen",
+      "file": "missing/H/263929-higurashi-no-naku-koro-ni-hajisarashi-hen.json"
+    },
+    {
       "igdb_id": 263696,
       "game_name": "Higurashi no Naku Koro ni: Himatsubushi-hen",
       "file": "missing/H/263696-higurashi-no-naku-koro-ni-himatsubushi-hen.json"
+    },
+    {
+      "igdb_id": 263917,
+      "game_name": "Higurashi no Naku Koro ni: Kageboushi-hen",
+      "file": "missing/H/263917-higurashi-no-naku-koro-ni-kageboushi-hen.json"
+    },
+    {
+      "igdb_id": 263921,
+      "game_name": "Higurashi no Naku Koro ni: Kotohogushi-hen",
+      "file": "missing/H/263921-higurashi-no-naku-koro-ni-kotohogushi-hen.json"
     },
     {
       "igdb_id": 321476,
@@ -450167,9 +450322,29 @@
       "file": "missing/H/321476-higurashi-no-naku-koro-ni-kuradashi-hen.json"
     },
     {
+      "igdb_id": 263909,
+      "game_name": "Higurashi no Naku Koro ni: Matsuribayashi-hen",
+      "file": "missing/H/263909-higurashi-no-naku-koro-ni-matsuribayashi-hen.json"
+    },
+    {
       "igdb_id": 263698,
       "game_name": "Higurashi no Naku Koro ni: Meakashi-hen",
       "file": "missing/H/263698-higurashi-no-naku-koro-ni-meakashi-hen.json"
+    },
+    {
+      "igdb_id": 263908,
+      "game_name": "Higurashi no Naku Koro ni: Minagoroshi-hen",
+      "file": "missing/H/263908-higurashi-no-naku-koro-ni-minagoroshi-hen.json"
+    },
+    {
+      "igdb_id": 263927,
+      "game_name": "Higurashi no Naku Koro ni: Miotsukushi-hen Omote",
+      "file": "missing/H/263927-higurashi-no-naku-koro-ni-miotsukushi-hen-omote.json"
+    },
+    {
+      "igdb_id": 263928,
+      "game_name": "Higurashi no Naku Koro ni: Miotsukushi-hen Ura",
+      "file": "missing/H/263928-higurashi-no-naku-koro-ni-miotsukushi-hen-ura.json"
     },
     {
       "igdb_id": 263686,
@@ -450177,9 +450352,34 @@
       "file": "missing/H/263686-higurashi-no-naku-koro-ni-onikakushi-hen.json"
     },
     {
+      "igdb_id": 263910,
+      "game_name": "Higurashi no Naku Koro ni: Saikoroshi-hen",
+      "file": "missing/H/263910-higurashi-no-naku-koro-ni-saikoroshi-hen.json"
+    },
+    {
+      "igdb_id": 263915,
+      "game_name": "Higurashi no Naku Koro ni: Someutsushi-hen",
+      "file": "missing/H/263915-higurashi-no-naku-koro-ni-someutsushi-hen.json"
+    },
+    {
+      "igdb_id": 263912,
+      "game_name": "Higurashi no Naku Koro ni: Taraimawashi-hen",
+      "file": "missing/H/263912-higurashi-no-naku-koro-ni-taraimawashi-hen.json"
+    },
+    {
       "igdb_id": 263692,
       "game_name": "Higurashi no Naku Koro ni: Tatarigoroshi-hen",
       "file": "missing/H/263692-higurashi-no-naku-koro-ni-tatarigoroshi-hen.json"
+    },
+    {
+      "igdb_id": 263919,
+      "game_name": "Higurashi no Naku Koro ni: Tokihogushi-hen",
+      "file": "missing/H/263919-higurashi-no-naku-koro-ni-tokihogushi-hen.json"
+    },
+    {
+      "igdb_id": 263914,
+      "game_name": "Higurashi no Naku Koro ni: Tsukiotoshi-hen",
+      "file": "missing/H/263914-higurashi-no-naku-koro-ni-tsukiotoshi-hen.json"
     },
     {
       "igdb_id": 263699,
@@ -450190,6 +450390,11 @@
       "igdb_id": 263687,
       "game_name": "Higurashi no Naku Koro ni: Watanagashi-hen",
       "file": "missing/H/263687-higurashi-no-naku-koro-ni-watanagashi-hen.json"
+    },
+    {
+      "igdb_id": 263918,
+      "game_name": "Higurashi no Naku Koro ni: Yoigoshi-hen",
+      "file": "missing/H/263918-higurashi-no-naku-koro-ni-yoigoshi-hen.json"
     },
     {
       "igdb_id": 9700,
@@ -559227,6 +559432,11 @@
       "file": "missing/L/105719-logi.json"
     },
     {
+      "igdb_id": 263886,
+      "game_name": "Logiart Grimoire",
+      "file": "missing/L/263886-logiart-grimoire.json"
+    },
+    {
       "igdb_id": 324166,
       "game_name": "Logiart Grimoire: Emil's Magic Training, Part 1",
       "file": "missing/L/324166-logiart-grimoire-emils-magic-training-part-1.json"
@@ -582690,6 +582900,11 @@
       "igdb_id": 165407,
       "game_name": "Manifold",
       "file": "missing/M/165407-manifold.json"
+    },
+    {
+      "igdb_id": 263925,
+      "game_name": "Manifold",
+      "file": "missing/M/263925-manifold.json"
     },
     {
       "igdb_id": 13621,
@@ -607820,6 +608035,11 @@
       "igdb_id": 254056,
       "game_name": "Metal: Hellsinger - Essential Hits Edition",
       "file": "missing/M/254056-metal-hellsinger-essential-hits-edition.json"
+    },
+    {
+      "igdb_id": 263895,
+      "game_name": "Metal: Hellsinger - Essential Hits Pack",
+      "file": "missing/M/263895-metal-hellsinger-essential-hits-pack.json"
     },
     {
       "igdb_id": 294174,
@@ -693907,6 +694127,11 @@
       "file": "missing/O/297819-only-up-skibidi-together.json"
     },
     {
+      "igdb_id": 263896,
+      "game_name": "Only Up!",
+      "file": "missing/O/263896-only-up.json"
+    },
+    {
       "igdb_id": 343245,
       "game_name": "Only Up? Climb the Tower!",
       "file": "missing/O/343245-only-up-climb-the-tower.json"
@@ -703085,6 +703310,11 @@
       "igdb_id": 135915,
       "game_name": "Overcooked! All You Can Eat",
       "file": "missing/O/135915-overcooked-all-you-can-eat.json"
+    },
+    {
+      "igdb_id": 263924,
+      "game_name": "Overcooked! All You Can Eat : World Food Festival Update",
+      "file": "missing/O/263924-overcooked-all-you-can-eat-world-food-festival-update.json"
     },
     {
       "igdb_id": 182254,
@@ -809682,6 +809912,11 @@
       "file": "missing/R/346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json"
     },
     {
+      "igdb_id": 263897,
+      "game_name": "River City Girls 1, 2, and Zero Bundle",
+      "file": "missing/R/263897-river-city-girls-1-2-and-zero-bundle.json"
+    },
+    {
       "igdb_id": 152321,
       "game_name": "River City Girls 2",
       "file": "missing/R/152321-river-city-girls-2.json"
@@ -900637,6 +900872,11 @@
       "file": "missing/S/241390-space-pirates-for-life.json"
     },
     {
+      "igdb_id": 263920,
+      "game_name": "Space Pizza",
+      "file": "missing/S/263920-space-pizza.json"
+    },
+    {
       "igdb_id": 160216,
       "game_name": "Space Plane",
       "file": "missing/S/160216-space-plane.json"
@@ -936235,6 +936475,11 @@
       "igdb_id": 234646,
       "game_name": "Sudoku Vacation 2",
       "file": "missing/S/234646-sudoku-vacation-2.json"
+    },
+    {
+      "igdb_id": 263911,
+      "game_name": "Sudoku Variants by Logic Wiz",
+      "file": "missing/S/263911-sudoku-variants-by-logic-wiz.json"
     },
     {
       "igdb_id": 90885,
@@ -1144965,6 +1145210,11 @@
       "igdb_id": 222460,
       "game_name": "World Eternal Online",
       "file": "missing/W/222460-world-eternal-online.json"
+    },
+    {
+      "igdb_id": 263907,
+      "game_name": "World Evolution Soccer",
+      "file": "missing/W/263907-world-evolution-soccer.json"
     },
     {
       "igdb_id": 325266,
