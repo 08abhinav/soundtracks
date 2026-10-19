@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
+| Manga-Ka Debut Monogatari DS: Akogare! Manga Ka Ikusei Game | 261105 | [261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json](./261105-manga-ka-debut-monogatari-ds-akogare-manga-ka-ikusei-game.json) |
 | Manga-ka Debut Monogatari: Suteki na Manga wo Egakou | 222393 | [222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json](./222393-manga-ka-debut-monogatari-suteki-na-manga-wo-egakou.json) |
 | Mangadle | 374286 | [374286-mangadle.json](./374286-mangadle.json) |
 | Mangaka Dream | 229734 | [229734-mangaka-dream.json](./229734-mangaka-dream.json) |
@@ -8341,6 +8342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Watcher: Village | 403685 | [403685-midnight-watcher-village.json](./403685-midnight-watcher-village.json) |
 | Midnight Wave | 109669 | [109669-midnight-wave.json](./109669-midnight-wave.json) |
 | Midnight Witch | 244228 | [244228-midnight-witch.json](./244228-midnight-witch.json) |
+| Midnight Witch Starlight | 261090 | [261090-midnight-witch-starlight.json](./261090-midnight-witch-starlight.json) |
 | Midnight: Submersion | 181111 | [181111-midnight-submersion.json](./181111-midnight-submersion.json) |
 | Midnight's Bell | 319647 | [319647-midnights-bell.json](./319647-midnights-bell.json) |
 | Midnight's Blessing | 35245 | [35245-midnights-blessing.json](./35245-midnights-blessing.json) |
@@ -10903,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moékuri | 76546 | [76546-moekuri.json](./76546-moekuri.json) |
 | Moemon Bonds | 336897 | [336897-moemon-bonds.json](./336897-moemon-bonds.json) |
 | Moémon Mega FireRed | 229615 | [229615-moemon-mega-firered.json](./229615-moemon-mega-firered.json) |
+| Moémon: Heart of Gold | 261128 | [261128-moemon-heart-of-gold.json](./261128-moemon-heart-of-gold.json) |
 | Moeras | 129565 | [129565-moeras.json](./129565-moeras.json) |
 | Moero 7!! Judo Warriors | 59994 | [59994-moero-7-judo-warriors.json](./59994-moero-7-judo-warriors.json) |
 | Moero Chronicle | 36869 | [36869-moero-chronicle.json](./36869-moero-chronicle.json) |
@@ -11189,6 +11192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monato Esprit | 68047 | [68047-monato-esprit.json](./68047-monato-esprit.json) |
 | Moncage | 116578 | [116578-moncage.json](./116578-moncage.json) |
 | Monch! | 250975 | [250975-monch.json](./250975-monch.json) |
+| Monculi | 261095 | [261095-monculi.json](./261095-monculi.json) |
 | Mondai no Aru Share House | 260117 | [260117-mondai-no-aru-share-house.json](./260117-mondai-no-aru-share-house.json) |
 | Mondar's Dungeon | 181228 | [181228-mondars-dungeon.json](./181228-mondars-dungeon.json) |
 | Monday | 179062 | [179062-monday.json](./179062-monday.json) |
@@ -15451,6 +15455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbour is a Bunny Demon | 262789 | [262789-my-neighbour-is-a-bunny-demon.json](./262789-my-neighbour-is-a-bunny-demon.json) |
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
+| My New Classmate is a Dragon?! | 261120 | [261120-my-new-classmate-is-a-dragon.json](./261120-my-new-classmate-is-a-dragon.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
 | My new neighbor is a Futa | 266608 | [266608-my-new-neighbor-is-a-futa.json](./266608-my-new-neighbor-is-a-futa.json) |
 | My New Tenant | 408305 | [408305-my-new-tenant.json](./408305-my-new-tenant.json) |
@@ -16193,6 +16198,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Merchant | 348189 | [348189-mystic-merchant.json](./348189-mystic-merchant.json) |
 | Mystic Messenger | 27259 | [27259-mystic-messenger.json](./27259-mystic-messenger.json) |
 | Mystic Messenger: April Fool's 2017 DLC | 257839 | [257839-mystic-messenger-april-fools-2017-dlc.json](./257839-mystic-messenger-april-fools-2017-dlc.json) |
+| Mystic Messenger: Bad Jumin & After | 261139 | [261139-mystic-messenger-bad-jumin-and-after.json](./261139-mystic-messenger-bad-jumin-and-after.json) |
+| Mystic Messenger: Ray's After Ending | 261138 | [261138-mystic-messenger-rays-after-ending.json](./261138-mystic-messenger-rays-after-ending.json) |
 | Mystic Midway: Phantom Express | 45911 | [45911-mystic-midway-phantom-express.json](./45911-mystic-midway-phantom-express.json) |
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mine | 54245 | [54245-mystic-mine.json](./54245-mystic-mine.json) |
