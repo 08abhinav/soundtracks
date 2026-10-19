@@ -11747,6 +11747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
+| Solar Dominion | 306177 | [306177-solar-dominion.json](./306177-solar-dominion.json) |
 | Solar Dreamer Nikko | 369203 | [369203-solar-dreamer-nikko.json](./369203-solar-dreamer-nikko.json) |
 | Solar Echoes: The Star Legation | 149056 | [149056-solar-echoes-the-star-legation.json](./149056-solar-echoes-the-star-legation.json) |
 | Solar Eclipse | 9266 | [9266-solar-eclipse.json](./9266-solar-eclipse.json) |
@@ -16142,6 +16143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatoon 2 | 26761 | [26761-splatoon-2.json](./26761-splatoon-2.json) |
 | Splatoon 2 + Splatoon 2 Octo Expansion Bundle | 136382 | [136382-splatoon-2-splatoon-2-octo-expansion-bundle.json](./136382-splatoon-2-splatoon-2-octo-expansion-bundle.json) |
 | Splatoon 3: Rainbow Alterna | 358239 | [358239-splatoon-3-rainbow-alterna.json](./358239-splatoon-3-rainbow-alterna.json) |
+| Splatoon 3: Sizzle Season | 306191 | [306191-splatoon-3-sizzle-season.json](./306191-splatoon-3-sizzle-season.json) |
 | Splatoon Raiders | 348977 | [348977-splatoon-raiders.json](./348977-splatoon-raiders.json) |
 | Splatoon: Torrential Climb | 316713 | [316713-splatoon-torrential-climb.json](./316713-splatoon-torrential-climb.json) |
 | Splatt Curling | 261224 | [261224-splatt-curling.json](./261224-splatt-curling.json) |
@@ -17216,6 +17218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
+| Stalag 1 | 306223 | [306223-stalag-1.json](./306223-stalag-1.json) |
 | Stalagflight | 108861 | [108861-stalagflight.json](./108861-stalagflight.json) |
 | Stalart | 399139 | [399139-stalart.json](./399139-stalart.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
@@ -23917,6 +23920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros Ultimate: Akira Outfit and Wig | 345846 | [345846-super-smash-bros-ultimate-akira-outfit-and-wig.json](./345846-super-smash-bros-ultimate-akira-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Cuphead Outfit and Hat | 388797 | [388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json](./388797-super-smash-bros-ultimate-cuphead-outfit-and-hat.json) |
 | Super Smash Bros Ultimate: Erdrick's Armor and Helmet | 388795 | [388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json](./388795-super-smash-bros-ultimate-erdricks-armor-and-helmet.json) |
+| Super Smash Bros Ultimate: Heihachi Outfit and Wig | 306198 | [306198-super-smash-bros-ultimate-heihachi-outfit-and-wig.json](./306198-super-smash-bros-ultimate-heihachi-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Jacky's Outfit and Wig | 306045 | [306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json](./306045-super-smash-bros-ultimate-jackys-outfit-and-wig.json) |
 | Super Smash Bros Ultimate: Judd Hat | 306046 | [306046-super-smash-bros-ultimate-judd-hat.json](./306046-super-smash-bros-ultimate-judd-hat.json) |
 | Super Smash Bros Ultimate: Marie Outfit and Wig | 306607 | [306607-super-smash-bros-ultimate-marie-outfit-and-wig.json](./306607-super-smash-bros-ultimate-marie-outfit-and-wig.json) |
