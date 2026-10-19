@@ -4285,6 +4285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubix | 74996 | [74996-kubix.json](./74996-kubix.json) |
 | Kubo 3 | 159353 | [159353-kubo-3.json](./159353-kubo-3.json) |
 | Kubo: A Samurai Quest | 55012 | [55012-kubo-a-samurai-quest.json](./55012-kubo-a-samurai-quest.json) |
+| Kuborabu | 307428 | [307428-kuborabu.json](./307428-kuborabu.json) |
 | Kubrain | 200021 | [200021-kubrain.json](./200021-kubrain.json) |
 | Kubus | 80580 | [80580-kubus.json](./80580-kubus.json) |
 | Kuchisake Onna | 110496 | [110496-kuchisake-onna.json](./110496-kuchisake-onna.json) |
