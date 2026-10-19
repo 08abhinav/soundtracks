@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illumina Girls | 222937 | [222937-illumina-girls.json](./222937-illumina-girls.json) |
 | Illumina! | 63762 | [63762-illumina.json](./63762-illumina.json) |
 | Illuminaria | 180285 | [180285-illuminaria.json](./180285-illuminaria.json) |
+| Illuminary | 265479 | [265479-illuminary.json](./265479-illuminary.json) |
 | Illuminascii | 11662 | [11662-illuminascii.json](./11662-illuminascii.json) |
 | Illuminate | 306757 | [306757-illuminate.json](./306757-illuminate.json) |
 | Illuminate Frame | 267457 | [267457-illuminate-frame.json](./267457-illuminate-frame.json) |
