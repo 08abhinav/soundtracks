@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.N.I.P.E.R.: Hunter Scope - Silver Edition | 250394 | [250394-s-n-i-p-e-r-hunter-scope-silver-edition.json](./250394-s-n-i-p-e-r-hunter-scope-silver-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Supreme Edition | 324369 | [324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json](./324369-s-n-i-p-e-r-hunter-scope-supreme-edition.json) |
 | S.N.I.P.E.R.: Hunter Scope - Throne Edition | 410859 | [410859-s-n-i-p-e-r-hunter-scope-throne-edition.json](./410859-s-n-i-p-e-r-hunter-scope-throne-edition.json) |
+| S.N.I.P.E.R.: Hunter Scope - Ultimate Firepower | 303881 | [303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json](./303881-s-n-i-p-e-r-hunter-scope-ultimate-firepower.json) |
 | S.N.I.P.E.R.: Hunter Scope Hostile Territory | 378966 | [378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json](./378966-s-n-i-p-e-r-hunter-scope-hostile-territory.json) |
 | S.O.L School Of Labyrinth | 412447 | [412447-s-o-l-school-of-labyrinth.json](./412447-s-o-l-school-of-labyrinth.json) |
 | S.O.L: Search of Light | 154380 | [154380-s-o-l-search-of-light.json](./154380-s-o-l-search-of-light.json) |
@@ -8144,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulassword | 226440 | [226440-simulassword.json](./226440-simulassword.json) |
 | Simulation 101 | 209368 | [209368-simulation-101.json](./209368-simulation-101.json) |
 | Simulation 9 | 408733 | [408733-simulation-9.json](./408733-simulation-9.json) |
+| Simulation Platinum Bundle: Bus Construction Firefighting Lawn Mowing | 303879 | [303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json](./303879-simulation-platinum-bundle-bus-construction-firefighting-lawn-mowing.json) |
 | Simulation Pro Yakyuu | 38301 | [38301-simulation-pro-yakyuu.json](./38301-simulation-pro-yakyuu.json) |
 | Simulation RPG Tsukuuru | 209973 | [209973-simulation-rpg-tsukuuru.json](./209973-simulation-rpg-tsukuuru.json) |
 | Simulation Training Room: Massacre | 295545 | [295545-simulation-training-room-massacre.json](./295545-simulation-training-room-massacre.json) |
@@ -21570,6 +21572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
 | Sugoi Girls: Firefighter Love | 358650 | [358650-sugoi-girls-firefighter-love.json](./358650-sugoi-girls-firefighter-love.json) |
 | Sugoi Girls: Kinky Knight | 308492 | [308492-sugoi-girls-kinky-knight.json](./308492-sugoi-girls-kinky-knight.json) |
+| Sugoi Girls: Lovely Wife | 303864 | [303864-sugoi-girls-lovely-wife.json](./303864-sugoi-girls-lovely-wife.json) |
 | Sugoi Girls: Madame Fantasy | 376764 | [376764-sugoi-girls-madame-fantasy.json](./376764-sugoi-girls-madame-fantasy.json) |
 | Sugoi Girls: Mighty Mecha | 317230 | [317230-sugoi-girls-mighty-mecha.json](./317230-sugoi-girls-mighty-mecha.json) |
 | Sugoi Girls: Pretty Party | 386542 | [386542-sugoi-girls-pretty-party.json](./386542-sugoi-girls-pretty-party.json) |
@@ -21758,6 +21761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games | 281679 | [281679-summer-games.json](./281679-summer-games.json) |
 | Summer Games | 281682 | [281682-summer-games.json](./281682-summer-games.json) |
 | Summer Games 3D | 88164 | [88164-summer-games-3d.json](./88164-summer-games-3d.json) |
+| Summer Games Beach Volley | 303863 | [303863-summer-games-beach-volley.json](./303863-summer-games-beach-volley.json) |
 | Summer Games Challenge | 299528 | [299528-summer-games-challenge.json](./299528-summer-games-challenge.json) |
 | Summer Games Challenge: Jumping & Shooting | 362362 | [362362-summer-games-challenge-jumping-and-shooting.json](./362362-summer-games-challenge-jumping-and-shooting.json) |
 | Summer Games Challenge: Running | 362345 | [362345-summer-games-challenge-running.json](./362345-summer-games-challenge-running.json) |
