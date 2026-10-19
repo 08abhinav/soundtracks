@@ -3224,6 +3224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Blade | 245228 | [245228-mars-blade.json](./245228-mars-blade.json) |
 | Mars Cars | 22498 | [22498-mars-cars.json](./22498-mars-cars.json) |
 | Mars Chaos Madness | 111452 | [111452-mars-chaos-madness.json](./111452-mars-chaos-madness.json) |
+| Mars Colonization: Survival Simulator | 269995 | [269995-mars-colonization-survival-simulator.json](./269995-mars-colonization-survival-simulator.json) |
 | Mars Colony Builder | 151145 | [151145-mars-colony-builder.json](./151145-mars-colony-builder.json) |
 | Mars Colony: Challenger | 17066 | [17066-mars-colony-challenger.json](./17066-mars-colony-challenger.json) |
 | Mars Colony: Frontier | 34643 | [34643-mars-colony-frontier.json](./34643-mars-colony-frontier.json) |
@@ -4539,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayhem Survivors: Animals | 261312 | [261312-mayhem-survivors-animals.json](./261312-mayhem-survivors-animals.json) |
 | Mayhem Triple | 34731 | [34731-mayhem-triple.json](./34731-mayhem-triple.json) |
 | Mayhem ZX | 74755 | [74755-mayhem-zx.json](./74755-mayhem-zx.json) |
+| Mayhem’s Adventure | 269984 | [269984-mayhem-s-adventure.json](./269984-mayhem-s-adventure.json) |
 | MayhemCars | 125909 | [125909-mayhemcars.json](./125909-mayhemcars.json) |
 | Mayhemers | 262842 | [262842-mayhemers.json](./262842-mayhemers.json) |
 | Mayjasmine Episode 01: What is God? | 34059 | [34059-mayjasmine-episode-01-what-is-god.json](./34059-mayjasmine-episode-01-what-is-god.json) |
@@ -7103,6 +7105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Bringer | 265327 | [265327-metal-bringer.json](./265327-metal-bringer.json) |
 | Metal Bunny | 309894 | [309894-metal-bunny.json](./309894-metal-bunny.json) |
 | Metal Carnage | 31765 | [31765-metal-carnage.json](./31765-metal-carnage.json) |
+| Metal Casket | 270001 | [270001-metal-casket.json](./270001-metal-casket.json) |
 | Metal Clash | 40355 | [40355-metal-clash.json](./40355-metal-clash.json) |
 | Metal Coffin | 335256 | [335256-metal-coffin.json](./335256-metal-coffin.json) |
 | Metal Combat | 209523 | [209523-metal-combat.json](./209523-metal-combat.json) |
@@ -7455,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
+| Metro Penguin Eutopia | 269977 | [269977-metro-penguin-eutopia.json](./269977-metro-penguin-eutopia.json) |
 | Metro Pocket | 252307 | [252307-metro-pocket.json](./252307-metro-pocket.json) |
 | Metro Quester | 277887 | [277887-metro-quester.json](./277887-metro-quester.json) |
 | Metro Quester: Osaka | 315340 | [315340-metro-quester-osaka.json](./315340-metro-quester-osaka.json) |
@@ -8764,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi Wuhui | 410959 | [410959-mimi-wuhui.json](./410959-mimi-wuhui.json) |
 | Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
+| Mimic | 269973 | [269973-mimic.json](./269973-mimic.json) |
 | Mimic | 275683 | [275683-mimic.json](./275683-mimic.json) |
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 359605 | [359605-mimic.json](./359605-mimic.json) |
