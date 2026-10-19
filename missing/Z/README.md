@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombiflux: Sleepless War | 260177 | [260177-zombiflux-sleepless-war.json](./260177-zombiflux-sleepless-war.json) |
 | Zombify Me Run | 221267 | [221267-zombify-me-run.json](./221267-zombify-me-run.json) |
 | Zombii Attack | 84966 | [84966-zombii-attack.json](./84966-zombii-attack.json) |
+| Zombikini PinballZ | 258886 | [258886-zombikini-pinballz.json](./258886-zombikini-pinballz.json) |
 | Zombillie | 33167 | [33167-zombillie.json](./33167-zombillie.json) |
 | Zombinoia | 137884 | [137884-zombinoia.json](./137884-zombinoia.json) |
 | Zombiolence | 256723 | [256723-zombiolence.json](./256723-zombiolence.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders | 1472 | [1472-zone-of-the-enders.json](./1472-zone-of-the-enders.json) |
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
+| Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
