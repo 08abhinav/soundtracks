@@ -449,6 +449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sail Ships | 102365 | [102365-sail-ships.json](./102365-sail-ships.json) |
 | Sail Simulator 4 | 143740 | [143740-sail-simulator-4.json](./143740-sail-simulator-4.json) |
 | Sail Simulator 5 | 63818 | [63818-sail-simulator-5.json](./63818-sail-simulator-5.json) |
+| Sail the Seas | 302219 | [302219-sail-the-seas.json](./302219-sail-the-seas.json) |
 | Sailaway | 28200 | [28200-sailaway.json](./28200-sailaway.json) |
 | Sailboat Explorer | 181121 | [181121-sailboat-explorer.json](./181121-sailboat-explorer.json) |
 | SailCraft | 233109 | [233109-sailcraft.json](./233109-sailcraft.json) |
@@ -3143,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Season Marbles: Autumn | 337628 | [337628-season-marbles-autumn.json](./337628-season-marbles-autumn.json) |
 | Season Marbles: Summer | 337629 | [337629-season-marbles-summer.json](./337629-season-marbles-summer.json) |
 | Season Marbles: Winter | 337627 | [337627-season-marbles-winter.json](./337627-season-marbles-winter.json) |
+| Season Match 3 | 302232 | [302232-season-match-3.json](./302232-season-match-3.json) |
 | Season Match 3: Curse of the Witch Crow | 17789 | [17789-season-match-3-curse-of-the-witch-crow.json](./17789-season-match-3-curse-of-the-witch-crow.json) |
 | Season Match 4 | 79145 | [79145-season-match-4.json](./79145-season-match-4.json) |
 | Season of 12 Colors | 35234 | [35234-season-of-12-colors.json](./35234-season-of-12-colors.json) |
@@ -5118,6 +5120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Duat | 252395 | [252395-shadows-of-duat.json](./252395-shadows-of-duat.json) |
 | Shadows of Dungeon | 237659 | [237659-shadows-of-dungeon.json](./237659-shadows-of-dungeon.json) |
 | Shadows of Dunwich | 293751 | [293751-shadows-of-dunwich.json](./293751-shadows-of-dunwich.json) |
+| Shadows of Eldham | 302086 | [302086-shadows-of-eldham.json](./302086-shadows-of-eldham.json) |
 | Shadows of Empires | 227268 | [227268-shadows-of-empires.json](./227268-shadows-of-empires.json) |
 | Shadows of Forbidden Gods | 180249 | [180249-shadows-of-forbidden-gods.json](./180249-shadows-of-forbidden-gods.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
@@ -6572,6 +6575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Shoot Cowboy! | 311230 | [311230-shoot-shoot-cowboy.json](./311230-shoot-shoot-cowboy.json) |
 | Shoot Shoot Mega Pack | 28506 | [28506-shoot-shoot-mega-pack.json](./28506-shoot-shoot-mega-pack.json) |
 | Shoot Shoot Nitori the Golden | 202949 | [202949-shoot-shoot-nitori-the-golden.json](./202949-shoot-shoot-nitori-the-golden.json) |
+| Shoot Star | 302221 | [302221-shoot-star.json](./302221-shoot-star.json) |
 | Shoot the Aliens | 330846 | [330846-shoot-the-aliens.json](./330846-shoot-the-aliens.json) |
 | Shoot the Apple 2018 | 95842 | [95842-shoot-the-apple-2018.json](./95842-shoot-the-apple-2018.json) |
 | Shoot the Ball | 84872 | [84872-shoot-the-ball.json](./84872-shoot-the-ball.json) |
@@ -8659,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboarding: Breakthrough Gaming Arcade | 143632 | [143632-skateboarding-breakthrough-gaming-arcade.json](./143632-skateboarding-breakthrough-gaming-arcade.json) |
 | Skatebound | 400494 | [400494-skatebound.json](./400494-skatebound.json) |
 | Skatebug | 413101 | [413101-skatebug.json](./413101-skatebug.json) |
+| SkateCat | 302250 | [302250-skatecat.json](./302250-skatecat.json) |
 | Skategirl Destroys the Universe | 147275 | [147275-skategirl-destroys-the-universe.json](./147275-skategirl-destroys-the-universe.json) |
 | Skatehouse | 325338 | [325338-skatehouse.json](./325338-skatehouse.json) |
 | SkateLab | 300463 | [300463-skatelab.json](./300463-skatelab.json) |
@@ -13234,6 +13239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora: Blue Sky Edition | 54386 | [54386-sora-blue-sky-edition.json](./54386-sora-blue-sky-edition.json) |
 | Sora: Songs of the Stone | 403724 | [403724-sora-songs-of-the-stone.json](./403724-sora-songs-of-the-stone.json) |
 | Sorades - Die Befreiung | 91547 | [91547-sorades-die-befreiung.json](./91547-sorades-die-befreiung.json) |
+| Soraja Invaders | 302231 | [302231-soraja-invaders.json](./302231-soraja-invaders.json) |
 | Soraja Towers | 300721 | [300721-soraja-towers.json](./300721-soraja-towers.json) |
 | Soralio: Cooperation mystery solving game | 157087 | [157087-soralio-cooperation-mystery-solving-game.json](./157087-soralio-cooperation-mystery-solving-game.json) |
 | Soran | 145415 | [145415-soran.json](./145415-soran.json) |
@@ -19582,6 +19588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Date | 373164 | [373164-sticky-date.json](./373164-sticky-date.json) |
 | Sticky Feet | 401182 | [401182-sticky-feet.json](./401182-sticky-feet.json) |
 | Sticky Friends | 184368 | [184368-sticky-friends.json](./184368-sticky-friends.json) |
+| Sticky Hands | 302244 | [302244-sticky-hands.json](./302244-sticky-hands.json) |
 | Sticky Keys | 178986 | [178986-sticky-keys.json](./178986-sticky-keys.json) |
 | Sticky Linky | 53673 | [53673-sticky-linky.json](./53673-sticky-linky.json) |
 | Sticky Monsters | 147082 | [147082-sticky-monsters.json](./147082-sticky-monsters.json) |
@@ -25168,6 +25175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Neko | 185429 | [185429-sushi-neko.json](./185429-sushi-neko.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
+| Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
 | Sushi Shot | 283228 | [283228-sushi-shot.json](./283228-sushi-shot.json) |
 | Sushi Sort | 255762 | [255762-sushi-sort.json](./255762-sushi-sort.json) |
@@ -25701,6 +25709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing Racers | 240859 | [240859-swing-racers.json](./240859-swing-racers.json) |
 | Swing Robot | 255172 | [255172-swing-robot.json](./255172-swing-robot.json) |
 | Swing Saga | 187465 | [187465-swing-saga.json](./187465-swing-saga.json) |
+| Swing Scale | 302223 | [302223-swing-scale.json](./302223-swing-scale.json) |
 | Swing Shift | 420649 | [420649-swing-shift.json](./420649-swing-shift.json) |
 | Swing Solver | 277293 | [277293-swing-solver.json](./277293-swing-solver.json) |
 | Swing Star | 58590 | [58590-swing-star.json](./58590-swing-star.json) |
