@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
 | Ubermosh: Wraith | 29601 | [29601-ubermosh-wraith.json](./29601-ubermosh-wraith.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
+| Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
 | UberSoldier | 92970 | [92970-ubersoldier.json](./92970-ubersoldier.json) |
 | Ubersoldier II | 17120 | [17120-ubersoldier-ii.json](./17120-ubersoldier-ii.json) |
 | Ubi Soft: Happy New Year 2001 | 325568 | [325568-ubi-soft-happy-new-year-2001.json](./325568-ubi-soft-happy-new-year-2001.json) |
