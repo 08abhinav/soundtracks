@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
+| Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
 | Undead World Order | 415844 | [415844-undead-world-order.json](./415844-undead-world-order.json) |
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
@@ -2373,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Periscope! | 37160 | [37160-up-periscope.json](./37160-up-periscope.json) |
 | Up Shot | 315658 | [315658-up-shot.json](./315658-up-shot.json) |
 | Up Square | 272875 | [272875-up-square.json](./272875-up-square.json) |
+| Up the Hill Down to the Nevermind | 257210 | [257210-up-the-hill-down-to-the-nevermind.json](./257210-up-the-hill-down-to-the-nevermind.json) |
 | Up the Light | 183397 | [183397-up-the-light.json](./183397-up-the-light.json) |
 | Up to Divine | 346697 | [346697-up-to-divine.json](./346697-up-to-divine.json) |
 | Up to Gods | 275351 | [275351-up-to-gods.json](./275351-up-to-gods.json) |
