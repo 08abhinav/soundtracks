@@ -7856,6 +7856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun.Smoke | 1288 | [1288-gun-smoke.json](./1288-gun-smoke.json) |
 | Gun.Smoke | 40965 | [40965-gun-smoke.json](./40965-gun-smoke.json) |
 | Gun&Dun | 160089 | [160089-gun-and-dun.json](./160089-gun-and-dun.json) |
+| Gunball | 288641 | [288641-gunball.json](./288641-gunball.json) |
 | Gunball Arena | 353638 | [353638-gunball-arena.json](./353638-gunball-arena.json) |
 | Gunball Saves Christmas | 353637 | [353637-gunball-saves-christmas.json](./353637-gunball-saves-christmas.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
