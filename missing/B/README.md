@@ -8164,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Money | 411673 | [411673-blood-money.json](./411673-blood-money.json) |
 | Blood Money: Lethal Eden | 388296 | [388296-blood-money-lethal-eden.json](./388296-blood-money-lethal-eden.json) |
 | Blood Moon Calling | 299010 | [299010-blood-moon-calling.json](./299010-blood-moon-calling.json) |
+| Blood Moon Horror | 262810 | [262810-blood-moon-horror.json](./262810-blood-moon-horror.json) |
 | Blood Moon Massacre | 373904 | [373904-blood-moon-massacre.json](./373904-blood-moon-massacre.json) |
 | Blood Moon Reckoning | 385976 | [385976-blood-moon-reckoning.json](./385976-blood-moon-reckoning.json) |
 | Blood Moon: The Last Stand | 90815 | [90815-blood-moon-the-last-stand.json](./90815-blood-moon-the-last-stand.json) |
@@ -8686,6 +8687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
 | Blue Skies | 63858 | [63858-blue-skies.json](./63858-blue-skies.json) |
 | Blue Sky | 89068 | [89068-blue-sky.json](./89068-blue-sky.json) |
+| Blue Sky Aces | 262808 | [262808-blue-sky-aces.json](./262808-blue-sky-aces.json) |
 | Blue Sky Arena | 208105 | [208105-blue-sky-arena.json](./208105-blue-sky-arena.json) |
 | Blue sky fighter | 129076 | [129076-blue-sky-fighter.json](./129076-blue-sky-fighter.json) |
 | Blue Sky: Acceptable Casualties | 73706 | [73706-blue-sky-acceptable-casualties.json](./73706-blue-sky-acceptable-casualties.json) |
