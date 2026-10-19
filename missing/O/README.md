@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Puzzlers: Synthwave Boats | 291362 | [291362-og-puzzlers-synthwave-boats.json](./291362-og-puzzlers-synthwave-boats.json) |
 | OG Puzzlers: Synthwave Cars | 288788 | [288788-og-puzzlers-synthwave-cars.json](./288788-og-puzzlers-synthwave-cars.json) |
 | OG Puzzlers: Synthwave Dinosaurs | 291234 | [291234-og-puzzlers-synthwave-dinosaurs.json](./291234-og-puzzlers-synthwave-dinosaurs.json) |
+| OG Puzzlers: Synthwave Knights | 291309 | [291309-og-puzzlers-synthwave-knights.json](./291309-og-puzzlers-synthwave-knights.json) |
 | OG Puzzlers: Synthwave Monsters | 291359 | [291359-og-puzzlers-synthwave-monsters.json](./291359-og-puzzlers-synthwave-monsters.json) |
 | OG Puzzlers: Synthwave Vampires | 341502 | [341502-og-puzzlers-synthwave-vampires.json](./341502-og-puzzlers-synthwave-vampires.json) |
 | OG Puzzlers: Winter 2K23 | 287188 | [287188-og-puzzlers-winter-2k23.json](./287188-og-puzzlers-winter-2k23.json) |
@@ -3138,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ork | 385386 | [385386-ork.json](./385386-ork.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orken | 384839 | [384839-orken.json](./384839-orken.json) |
+| Orkendale: The Scarred Land | 291322 | [291322-orkendale-the-scarred-land.json](./291322-orkendale-the-scarred-land.json) |
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
 | Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
