@@ -543,6 +543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Training Game | 34583 | [34583-kanji-training-game.json](./34583-kanji-training-game.json) |
 | Kanji Wars | 346014 | [346014-kanji-wars.json](./346014-kanji-wars.json) |
 | KanjiFlash | 367056 | [367056-kanjiflash.json](./367056-kanjiflash.json) |
+| Kanjozoku 2: Drift Car Games | 297309 | [297309-kanjozoku-2-drift-car-games.json](./297309-kanjozoku-2-drift-car-games.json) |
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
 | Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
 | Kanmuri wo Motsu Kami no Te | 221932 | [221932-kanmuri-wo-motsu-kami-no-te.json](./221932-kanmuri-wo-motsu-kami-no-te.json) |
@@ -3297,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Castle | 213341 | [213341-knights-castle.json](./213341-knights-castle.json) |
 | Knight's Chance | 75478 | [75478-knights-chance.json](./75478-knights-chance.json) |
 | Knight's Destiny | 149037 | [149037-knights-destiny.json](./149037-knights-destiny.json) |
+| Knight's Drop | 297369 | [297369-knights-drop.json](./297369-knights-drop.json) |
 | Knight's Dungeon | 360631 | [360631-knights-dungeon.json](./360631-knights-dungeon.json) |
 | Knight's Edge | 165534 | [165534-knights-edge.json](./165534-knights-edge.json) |
 | Knight's Empire | 285945 | [285945-knights-empire.json](./285945-knights-empire.json) |
