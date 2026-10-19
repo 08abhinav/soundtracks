@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Is Us: Military Pack | 360094 | [360094-hell-is-us-military-pack.json](./360094-hell-is-us-military-pack.json) |
 | Hell is Us: Phol Guard Pack | 360093 | [360093-hell-is-us-phol-guard-pack.json](./360093-hell-is-us-phol-guard-pack.json) |
 | Hell is Us: Secret Code | 360142 | [360142-hell-is-us-secret-code.json](./360142-hell-is-us-secret-code.json) |
+| Hell Knight | 281284 | [281284-hell-knight.json](./281284-hell-knight.json) |
 | Hell Knights | 105140 | [105140-hell-knights.json](./105140-hell-knights.json) |
 | Hell Let Loose | 32365 | [32365-hell-let-loose.json](./32365-hell-let-loose.json) |
 | Hell Let Loose: Airborne M1942 Reinforced | 323252 | [323252-hell-let-loose-airborne-m1942-reinforced.json](./323252-hell-let-loose-airborne-m1942-reinforced.json) |
@@ -8117,6 +8118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Detective Liz Katz in a Gritty Kitty Murder Mystery | 249114 | [249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json](./249114-house-party-detective-liz-katz-in-a-gritty-kitty-murder-mystery.json) |
 | House Party: New Content Pack | 263127 | [263127-house-party-new-content-pack.json](./263127-house-party-new-content-pack.json) |
 | House Party: Valentine's Day Holiday Pack | 287076 | [287076-house-party-valentines-day-holiday-pack.json](./287076-house-party-valentines-day-holiday-pack.json) |
+| House Party: Winter Holiday Pack | 281265 | [281265-house-party-winter-holiday-pack.json](./281265-house-party-winter-holiday-pack.json) |
 | House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
 | House Sitter Escape Game | 241290 | [241290-house-sitter-escape-game.json](./241290-house-sitter-escape-game.json) |
