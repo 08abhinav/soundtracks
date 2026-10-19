@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Morrowind - Digital Collector's Edition | 53729 | [53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json](./53729-the-elder-scrolls-online-morrowind-digital-collectors-edition.json) |
 | The Elder Scrolls Online: Necrom | 233587 | [233587-the-elder-scrolls-online-necrom.json](./233587-the-elder-scrolls-online-necrom.json) |
 | The Elder Scrolls Online: Premium Edition | 136165 | [136165-the-elder-scrolls-online-premium-edition.json](./136165-the-elder-scrolls-online-premium-edition.json) |
+| The Elder Scrolls Online: Scions of Ithelia | 296825 | [296825-the-elder-scrolls-online-scions-of-ithelia.json](./296825-the-elder-scrolls-online-scions-of-ithelia.json) |
 | The Elder Scrolls Online: Season One - Return of the Thieves Guild | 405082 | [405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json](./405082-the-elder-scrolls-online-season-one-return-of-the-thieves-guild.json) |
 | The Elder Scrolls Online: Shadows of the Hist | 128476 | [128476-the-elder-scrolls-online-shadows-of-the-hist.json](./128476-the-elder-scrolls-online-shadows-of-the-hist.json) |
 | The Elder Scrolls Online: Stonethorn | 135827 | [135827-the-elder-scrolls-online-stonethorn.json](./135827-the-elder-scrolls-online-stonethorn.json) |
@@ -7815,6 +7816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The High Desert | 345134 | [345134-the-high-desert.json](./345134-the-high-desert.json) |
 | The High Tower | 373613 | [373613-the-high-tower.json](./373613-the-high-tower.json) |
 | The Higher Lower Game | 186614 | [186614-the-higher-lower-game.json](./186614-the-higher-lower-game.json) |
+| The Highlands of Jurgald | 296752 | [296752-the-highlands-of-jurgald.json](./296752-the-highlands-of-jurgald.json) |
 | The Highscore | 117182 | [117182-the-highscore.json](./117182-the-highscore.json) |
 | The Highway | 365248 | [365248-the-highway.json](./365248-the-highway.json) |
 | The Hike | 188920 | [188920-the-hike.json](./188920-the-hike.json) |
@@ -18528,6 +18530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonari no Totoro | 184324 | [184324-tonari-no-totoro.json](./184324-tonari-no-totoro.json) |
 | Tonarino | 400960 | [400960-tonarino.json](./400960-tonarino.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
+| Tondemo Nishibuuki 2: Paris Boutard Rally | 296731 | [296731-tondemo-nishibuuki-2-paris-boutard-rally.json](./296731-tondemo-nishibuuki-2-paris-boutard-rally.json) |
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
 | Tone's froggy adventure! | 229094 | [229094-tones-froggy-adventure.json](./229094-tones-froggy-adventure.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
