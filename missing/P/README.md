@@ -167,6 +167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
+| Pac-Man Mega Tunnel Battle: Chomp Champs - Deluxe Edition | 297307 | [297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json](./297307-pac-man-mega-tunnel-battle-chomp-champs-deluxe-edition.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Lunar Animals Pac | 300927 | [300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json](./300927-pac-man-mega-tunnel-battle-chomp-champs-lunar-animals-pac.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Namco Pals Pac | 300926 | [300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json](./300926-pac-man-mega-tunnel-battle-chomp-champs-namco-pals-pac.json) |
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
@@ -12848,6 +12849,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Electric Love "Everyone else!" Ema Sakura | 105976 | [105976-pure-electric-love-everyone-else-ema-sakura.json](./105976-pure-electric-love-everyone-else-ema-sakura.json) |
 | Pure Electric Love "Look at my eyes!" Moe Yamauchi | 105977 | [105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json](./105977-pure-electric-love-look-at-my-eyes-moe-yamauchi.json) |
 | Pure Electric Love "What do you want?" Eri Kitami | 105978 | [105978-pure-electric-love-what-do-you-want-eri-kitami.json](./105978-pure-electric-love-what-do-you-want-eri-kitami.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional scenario 1 | 297286 | [297286-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-1.json](./297286-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-1.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario 2 | 297287 | [297287-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-2.json](./297287-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-2.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario 3 | 297288 | [297288-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-3.json](./297288-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-3.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario 5 | 297289 | [297289-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-5.json](./297289-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-5.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario 6 | 297290 | [297290-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-6.json](./297290-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-6.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario Complete Set | 297291 | [297291-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-complete-set.json](./297291-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-complete-set.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario Set 1 | 297292 | [297292-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-1.json](./297292-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-1.json) |
+| Pure Electric Love "What do you want?" Eri Kitami: Additional Scenario Set 2 | 297293 | [297293-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-2.json](./297293-pure-electric-love-what-do-you-want-eri-kitami-additional-scenario-set-2.json) |
 | Pure Evil: 2-pack | 145048 | [145048-pure-evil-2-pack.json](./145048-pure-evil-2-pack.json) |
 | Pure Farming 17 | 36997 | [36997-pure-farming-17.json](./36997-pure-farming-17.json) |
 | Pure Farming 2018 | 58066 | [58066-pure-farming-2018.json](./58066-pure-farming-2018.json) |
