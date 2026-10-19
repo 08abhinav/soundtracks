@@ -663,6 +663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Eggs Online 2 | 60360 | [60360-bad-eggs-online-2.json](./60360-bad-eggs-online-2.json) |
 | Bad Ethics | 252094 | [252094-bad-ethics.json](./252094-bad-ethics.json) |
 | Bad Faith | 329027 | [329027-bad-faith.json](./329027-bad-faith.json) |
+| Bad Flesh | 301140 | [301140-bad-flesh.json](./301140-bad-flesh.json) |
 | Bad Football | 407893 | [407893-bad-football.json](./407893-bad-football.json) |
 | Bad Girl | 127676 | [127676-bad-girl.json](./127676-bad-girl.json) |
 | Bad Girl Confidential: The Pleasure Den | 286530 | [286530-bad-girl-confidential-the-pleasure-den.json](./286530-bad-girl-confidential-the-pleasure-den.json) |
@@ -3178,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
 | Battlefront+ | 327160 | [327160-battlefront.json](./327160-battlefront.json) |
+| BattleGlide | 301113 | [301113-battleglide.json](./301113-battleglide.json) |
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
@@ -5988,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: The Mercenaries 3D & Revelations | 140931 | [140931-biohazard-the-mercenaries-3d-and-revelations.json](./140931-biohazard-the-mercenaries-3d-and-revelations.json) |
 | Biok | 175223 | [175223-biok.json](./175223-biok.json) |
 | BioKept | 391679 | [391679-biokept.json](./391679-biokept.json) |
+| Biolab Disaster | 301134 | [301134-biolab-disaster.json](./301134-biolab-disaster.json) |
 | Biolab Wars | 121066 | [121066-biolab-wars.json](./121066-biolab-wars.json) |
 | Bioleech | 366419 | [366419-bioleech.json](./366419-bioleech.json) |
 | Biologica! | 68775 | [68775-biologica.json](./68775-biologica.json) |
