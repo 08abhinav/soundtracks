@@ -1990,6 +1990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gender Dysphoria | 177502 | [177502-gender-dysphoria.json](./177502-gender-dysphoria.json) |
 | Gender Euphoria VN | 183906 | [183906-gender-euphoria-vn.json](./183906-gender-euphoria-vn.json) |
 | Gender Lab Escape Simulator 2030 | 178469 | [178469-gender-lab-escape-simulator-2030.json](./178469-gender-lab-escape-simulator-2030.json) |
+| Gender Neutral Chess | 301702 | [301702-gender-neutral-chess.json](./301702-gender-neutral-chess.json) |
 | Gender Wars | 50141 | [50141-gender-wars.json](./50141-gender-wars.json) |
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
