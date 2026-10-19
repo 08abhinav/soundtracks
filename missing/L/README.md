@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Mowing Simulator: Landmark Edition | 201779 | [201779-lawn-mowing-simulator-landmark-edition.json](./201779-lawn-mowing-simulator-landmark-edition.json) |
 | Lawn Order | 413028 | [413028-lawn-order.json](./413028-lawn-order.json) |
 | Lawn Purge | 247019 | [247019-lawn-purge.json](./247019-lawn-purge.json) |
+| Lawn Tennis Games | 285340 | [285340-lawn-tennis-games.json](./285340-lawn-tennis-games.json) |
 | Lawnarchy | 195203 | [195203-lawnarchy.json](./195203-lawnarchy.json) |
 | Lawnmower Challenge | 65390 | [65390-lawnmower-challenge.json](./65390-lawnmower-challenge.json) |
 | LawnMower City | 186290 | [186290-lawnmower-city.json](./186290-lawnmower-city.json) |
@@ -5318,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loner | 167383 | [167383-loner.json](./167383-loner.json) |
 | Loner_Dog://Snuff Puppy Carnage Society | 358384 | [358384-loner-dog-snuff-puppy-carnage-society.json](./358384-loner-dog-snuff-puppy-carnage-society.json) |
 | Loner's Spell | 182967 | [182967-loners-spell.json](./182967-loners-spell.json) |
+| Lones | 285331 | [285331-lones.json](./285331-lones.json) |
 | Lonesome Road | 349408 | [349408-lonesome-road.json](./349408-lonesome-road.json) |
 | LoneStar | 264933 | [264933-lonestar.json](./264933-lonestar.json) |
 | Lonewolf | 113977 | [113977-lonewolf.json](./113977-lonewolf.json) |
@@ -6387,6 +6389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
 | Love is All Around: Echoes of Yesterday | 327196 | [327196-love-is-all-around-echoes-of-yesterday.json](./327196-love-is-all-around-echoes-of-yesterday.json) |
+| Love Is All Around: Love In The Room | 285362 | [285362-love-is-all-around-love-in-the-room.json](./285362-love-is-all-around-love-in-the-room.json) |
 | Love Is All Around: Love In The Room | 294998 | [294998-love-is-all-around-love-in-the-room.json](./294998-love-is-all-around-love-in-the-room.json) |
 | Love is Blind: Mutants | 33494 | [33494-love-is-blind-mutants.json](./33494-love-is-blind-mutants.json) |
 | Love is Dead | 33225 | [33225-love-is-dead.json](./33225-love-is-dead.json) |
@@ -6408,6 +6411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Kira | 307273 | [307273-love-kira.json](./307273-love-kira.json) |
 | Love Kuesuto | 268468 | [268468-love-kuesuto.json](./268468-love-kuesuto.json) |
 | Love Language Japanese | 110424 | [110424-love-language-japanese.json](./110424-love-language-japanese.json) |
+| Love Language Stories | 285355 | [285355-love-language-stories.json](./285355-love-language-stories.json) |
 | Love Letter | 109759 | [109759-love-letter.json](./109759-love-letter.json) |
 | Love Letter | 323942 | [323942-love-letter.json](./323942-love-letter.json) |
 | Love Letter: First Draft | 310527 | [310527-love-letter-first-draft.json](./310527-love-letter-first-draft.json) |
