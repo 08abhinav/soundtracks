@@ -2305,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up Samarkand | 277328 | [277328-only-up-samarkand.json](./277328-only-up-samarkand.json) |
 | Only Up: Skibidi | 310922 | [310922-only-up-skibidi.json](./310922-only-up-skibidi.json) |
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
+| Only Up! | 263896 | [263896-only-up.json](./263896-only-up.json) |
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
 | Only Way is Down | 304447 | [304447-only-way-is-down.json](./304447-only-way-is-down.json) |
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
@@ -4136,6 +4137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
 | Overcooked! 2: Too Many Cooks Pack | 151307 | [151307-overcooked-2-too-many-cooks-pack.json](./151307-overcooked-2-too-many-cooks-pack.json) |
 | Overcooked! All You Can Eat | 135915 | [135915-overcooked-all-you-can-eat.json](./135915-overcooked-all-you-can-eat.json) |
+| Overcooked! All You Can Eat : World Food Festival Update | 263924 | [263924-overcooked-all-you-can-eat-world-food-festival-update.json](./263924-overcooked-all-you-can-eat-world-food-festival-update.json) |
 | Overcooked! All You Can Eat: The Ever Peckish Rises | 182254 | [182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json](./182254-overcooked-all-you-can-eat-the-ever-peckish-rises.json) |
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcooked!: Special Edition | 51998 | [51998-overcooked-special-edition.json](./51998-overcooked-special-edition.json) |
