@@ -5076,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Alone | 108847 | [108847-not-alone.json](./108847-not-alone.json) |
 | Not Alone | 184094 | [184094-not-alone.json](./184094-not-alone.json) |
 | Not Alone | 223040 | [223040-not-alone.json](./223040-not-alone.json) |
+| Not Alone | 297861 | [297861-not-alone.json](./297861-not-alone.json) |
 | Not Alone: Remake | 216971 | [216971-not-alone-remake.json](./216971-not-alone-remake.json) |
 | Not an Aim Trainer | 305776 | [305776-not-an-aim-trainer.json](./305776-not-an-aim-trainer.json) |
 | Not An NPC Game | 418297 | [418297-not-an-npc-game.json](./418297-not-an-npc-game.json) |
