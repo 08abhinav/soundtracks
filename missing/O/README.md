@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbound: School Bus Adventures | 401492 | [401492-outbound-school-bus-adventures.json](./401492-outbound-school-bus-adventures.json) |
 | Outbraking | 188883 | [188883-outbraking.json](./188883-outbraking.json) |
 | Outbreak | 26909 | [26909-outbreak.json](./26909-outbreak.json) |
+| Outbreak | 275475 | [275475-outbreak.json](./275475-outbreak.json) |
 | Outbreak | 302484 | [302484-outbreak.json](./302484-outbreak.json) |
 | Outbreak | 377163 | [377163-outbreak.json](./377163-outbreak.json) |
 | Outbreak 2030 | 237076 | [237076-outbreak-2030.json](./237076-outbreak-2030.json) |
