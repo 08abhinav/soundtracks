@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorigami Market | 269580 | [269580-yorigami-market.json](./269580-yorigami-market.json) |
 | Yorisoi Delivery | 308924 | [308924-yorisoi-delivery.json](./308924-yorisoi-delivery.json) |
 | Yorkshire's Great Race | 237962 | [237962-yorkshires-great-race.json](./237962-yorkshires-great-race.json) |
+| Yoru ga Kuru!: Square of the Moon - Remastered | 298383 | [298383-yoru-ga-kuru-square-of-the-moon-remastered.json](./298383-yoru-ga-kuru-square-of-the-moon-remastered.json) |
 | Yoru no Majin to Ikusa no Kuni: Samayoeru Vampire | 222335 | [222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json](./222335-yoru-no-majin-to-ikusa-no-kuni-samayoeru-vampire.json) |
 | Yoru no Rojiura Annai | 327921 | [327921-yoru-no-rojiura-annai.json](./327921-yoru-no-rojiura-annai.json) |
 | Yoru no Umi de Otsukisama wo Tsuru | 147229 | [147229-yoru-no-umi-de-otsukisama-wo-tsuru.json](./147229-yoru-no-umi-de-otsukisama-wo-tsuru.json) |
