@@ -12558,6 +12558,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat X: Blue Steel Sub-Zero | 304364 | [304364-mortal-kombat-x-blue-steel-sub-zero.json](./304364-mortal-kombat-x-blue-steel-sub-zero.json) |
 | Mortal Kombat X: Brazil Pack | 304366 | [304366-mortal-kombat-x-brazil-pack.json](./304366-mortal-kombat-x-brazil-pack.json) |
 | Mortal Kombat X: Cosplay Pack | 296024 | [296024-mortal-kombat-x-cosplay-pack.json](./296024-mortal-kombat-x-cosplay-pack.json) |
+| Mortal Kombat X: Gold Scorpion | 305613 | [305613-mortal-kombat-x-gold-scorpion.json](./305613-mortal-kombat-x-gold-scorpion.json) |
+| Mortal Kombat X: Horror Pack | 305611 | [305611-mortal-kombat-x-horror-pack.json](./305611-mortal-kombat-x-horror-pack.json) |
 | Mortal Kombat X: Klassic Fatalities 1 | 339949 | [339949-mortal-kombat-x-klassic-fatalities-1.json](./339949-mortal-kombat-x-klassic-fatalities-1.json) |
 | Mortal Kombat X: Klassic Fatalities 2 | 340022 | [340022-mortal-kombat-x-klassic-fatalities-2.json](./340022-mortal-kombat-x-klassic-fatalities-2.json) |
 | Mortal Kombat X: Kold War Scorpion | 340201 | [340201-mortal-kombat-x-kold-war-scorpion.json](./340201-mortal-kombat-x-kold-war-scorpion.json) |
