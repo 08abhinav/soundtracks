@@ -2719,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Paradise 3 | 404358 | [404358-dead-paradise-3.json](./404358-dead-paradise-3.json) |
 | Dead Paradise 4 | 404385 | [404385-dead-paradise-4.json](./404385-dead-paradise-4.json) |
 | Dead Party | 397029 | [397029-dead-party.json](./397029-dead-party.json) |
+| Dead Past 8 | 266624 | [266624-dead-past-8.json](./266624-dead-past-8.json) |
 | Dead Patrol | 396458 | [396458-dead-patrol.json](./396458-dead-patrol.json) |
 | Dead Pedal | 244202 | [244202-dead-pedal.json](./244202-dead-pedal.json) |
 | Dead People Driving HD | 232344 | [232344-dead-people-driving-hd.json](./232344-dead-people-driving-hd.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decayed Evil | 368032 | [368032-decayed-evil.json](./368032-decayed-evil.json) |
 | Decaying Flowers | 98459 | [98459-decaying-flowers.json](./98459-decaying-flowers.json) |
 | Decaying Memories | 344409 | [344409-decaying-memories.json](./344409-decaying-memories.json) |
+| Decaying Orbit | 266643 | [266643-decaying-orbit.json](./266643-decaying-orbit.json) |
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Mark: A Russian Saga | 28779 | [28779-demon-mark-a-russian-saga.json](./28779-demon-mark-a-russian-saga.json) |
 | Demon Master Chris | 59827 | [59827-demon-master-chris.json](./59827-demon-master-chris.json) |
 | Demon Night | 288368 | [288368-demon-night.json](./288368-demon-night.json) |
+| Demon of the Dark | 266625 | [266625-demon-of-the-dark.json](./266625-demon-of-the-dark.json) |
 | Demon of the Time | 341545 | [341545-demon-of-the-time.json](./341545-demon-of-the-time.json) |
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
@@ -7288,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station MSX #08 | 266412 | [266412-disc-station-msx-08.json](./266412-disc-station-msx-08.json) |
 | Disc Station MSX #09 | 266482 | [266482-disc-station-msx-09.json](./266482-disc-station-msx-09.json) |
 | Disc Station MSX #11 | 266489 | [266489-disc-station-msx-11.json](./266489-disc-station-msx-11.json) |
+| Disc Station Vol. 17 | 266652 | [266652-disc-station-vol-17.json](./266652-disc-station-vol-17.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
@@ -12062,6 +12066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Streets Japan | 34167 | [34167-drift-streets-japan.json](./34167-drift-streets-japan.json) |
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
 | Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
+| Drift Survivor | 266623 | [266623-drift-survivor.json](./266623-drift-survivor.json) |
 | Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
@@ -13058,6 +13063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunestake | 361835 | [361835-dunestake.json](./361835-dunestake.json) |
 | Dung Battles | 390799 | [390799-dung-battles.json](./390799-dung-battles.json) |
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
+| Dung Beetle Adventure | 266622 | [266622-dung-beetle-adventure.json](./266622-dung-beetle-adventure.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
