@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts'n DJs | 129198 | [129198-ghostsn-djs.json](./129198-ghostsn-djs.json) |
 | Ghostscape | 80158 | [80158-ghostscape.json](./80158-ghostscape.json) |
 | Ghoststory | 89954 | [89954-ghoststory.json](./89954-ghoststory.json) |
+| Ghostus | 263329 | [263329-ghostus.json](./263329-ghostus.json) |
 | Ghostwage | 224694 | [224694-ghostwage.json](./224694-ghostwage.json) |
 | Ghostwinter | 148558 | [148558-ghostwinter.json](./148558-ghostwinter.json) |
 | Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlfriends with Benefits | 206029 | [206029-girlfriends-with-benefits.json](./206029-girlfriends-with-benefits.json) |
+| Girlfriends: Rich vs Rebel | 263325 | [263325-girlfriends-rich-vs-rebel.json](./263325-girlfriends-rich-vs-rebel.json) |
 | GirlHub | 189982 | [189982-girlhub.json](./189982-girlhub.json) |
 | Girlish Grimoire Littlewitch Romanesque | 60425 | [60425-girlish-grimoire-littlewitch-romanesque.json](./60425-girlish-grimoire-littlewitch-romanesque.json) |
 | Girlish Grimoire Littlewitch Romanesque: Editio Perfecta | 50166 | [50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json](./50166-girlish-grimoire-littlewitch-romanesque-editio-perfecta.json) |
