@@ -2645,7 +2645,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Aim! Crane Game | 407274 | [407274-lets-aim-crane-game.json](./407274-lets-aim-crane-game.json) |
 | Let's Aim! Ring Toss | 328506 | [328506-lets-aim-ring-toss.json](./328506-lets-aim-ring-toss.json) |
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
+| Let's Battle Online | 292363 | [292363-lets-battle-online.json](./292363-lets-battle-online.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
+| Let's be a Tiger | 292368 | [292368-lets-be-a-tiger.json](./292368-lets-be-a-tiger.json) |
 | Let's be architects | 81659 | [81659-lets-be-architects.json](./81659-lets-be-architects.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
 | Let's Bounce! Popsicle Boy! | 255021 | [255021-lets-bounce-popsicle-boy.json](./255021-lets-bounce-popsicle-boy.json) |
@@ -4741,6 +4743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living with Jaguars VR | 104146 | [104146-living-with-jaguars-vr.json](./104146-living-with-jaguars-vr.json) |
 | Living with My Bratty Neighbor | 408970 | [408970-living-with-my-bratty-neighbor.json](./408970-living-with-my-bratty-neighbor.json) |
 | Living with My Little Sister | 344529 | [344529-living-with-my-little-sister.json](./344529-living-with-my-little-sister.json) |
+| Living With Sister: Monochrome Fantasy | 292385 | [292385-living-with-sister-monochrome-fantasy.json](./292385-living-with-sister-monochrome-fantasy.json) |
 | Living with Temptation 1: Wild Weekends & Wife Gone Wilder | 234112 | [234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json](./234112-living-with-temptation-1-wild-weekends-and-wife-gone-wilder.json) |
 | Living with Temptation 2: French Confessions | 384894 | [384894-living-with-temptation-2-french-confessions.json](./384894-living-with-temptation-2-french-confessions.json) |
 | Living with Temptation: American Sunset | 293877 | [293877-living-with-temptation-american-sunset.json](./293877-living-with-temptation-american-sunset.json) |
