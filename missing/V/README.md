@@ -1637,6 +1637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Sisters | 117812 | [117812-viking-sisters.json](./117812-viking-sisters.json) |
 | Viking Squad | 24837 | [24837-viking-squad.json](./24837-viking-squad.json) |
 | Viking Story | 158512 | [158512-viking-story.json](./158512-viking-story.json) |
+| Viking Survival | 267259 | [267259-viking-survival.json](./267259-viking-survival.json) |
 | Viking Survivors | 243623 | [243623-viking-survivors.json](./243623-viking-survivors.json) |
 | Viking Vengeance | 118779 | [118779-viking-vengeance.json](./118779-viking-vengeance.json) |
 | Viking Village | 88823 | [88823-viking-village.json](./88823-viking-village.json) |
