@@ -5562,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
 | Word Puttz | 361232 | [361232-word-puttz.json](./361232-word-puttz.json) |
 | Word Puzzle Quiz | 88436 | [88436-word-puzzle-quiz.json](./88436-word-puzzle-quiz.json) |
+| Word Quest | 266062 | [266062-word-quest.json](./266062-word-quest.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Cyberpunk | 399795 | [399795-word-quest-cyberpunk.json](./399795-word-quest-cyberpunk.json) |
