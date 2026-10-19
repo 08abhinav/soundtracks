@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare Demo Shodan ni Nareru Igo Kyoushitsu | 283758 | [283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json](./283758-dare-demo-shodan-ni-nareru-igo-kyoushitsu.json) |
 | Dare Devil Derby 3D | 43916 | [43916-dare-devil-derby-3d.json](./43916-dare-devil-derby-3d.json) |
 | Dare mo ga Kanojo o Neratteru. | 82976 | [82976-dare-mo-ga-kanojo-o-neratteru.json](./82976-dare-mo-ga-kanojo-o-neratteru.json) |
+| Dare to Desire: Season 1 | 258830 | [258830-dare-to-desire-season-1.json](./258830-dare-to-desire-season-1.json) |
 | Dare to Dream | 272163 | [272163-dare-to-dream.json](./272163-dare-to-dream.json) |
 | Dare to Dream | 57598 | [57598-dare-to-dream.json](./57598-dare-to-dream.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
@@ -4899,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
 | Dennou Sentai Lavian Three | 67268 | [67268-dennou-sentai-lavian-three.json](./67268-dennou-sentai-lavian-three.json) |
 | Dennou Taisen: DroneZ | 202162 | [202162-dennou-taisen-dronez.json](./202162-dennou-taisen-dronez.json) |
+| Dennou Tenshi: Digital Ange | 258871 | [258871-dennou-tenshi-digital-ange.json](./258871-dennou-tenshi-digital-ange.json) |
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
 | Denpa Ningen no RPG | 85081 | [85081-denpa-ningen-no-rpg.json](./85081-denpa-ningen-no-rpg.json) |
@@ -6654,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digit Dare | 266124 | [266124-digit-dare.json](./266124-digit-dare.json) |
 | Digit Daze | 101350 | [101350-digit-daze.json](./101350-digit-daze.json) |
 | Digit Factory | 221128 | [221128-digit-factory.json](./221128-digit-factory.json) |
+| Digital Ange: Dennou Tenshi SS | 258872 | [258872-digital-ange-dennou-tenshi-ss.json](./258872-digital-ange-dennou-tenshi-ss.json) |
 | Digital Audio Wasteland | 297818 | [297818-digital-audio-wasteland.json](./297818-digital-audio-wasteland.json) |
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
