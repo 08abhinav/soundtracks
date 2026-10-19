@@ -7291,6 +7291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claymates | 42623 | [42623-claymates.json](./42623-claymates.json) |
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
+| Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
@@ -8391,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
+| CoinBlock Clicker | 274904 | [274904-coinblock-clicker.json](./274904-coinblock-clicker.json) |
 | Coinbox Hero | 294224 | [294224-coinbox-hero.json](./294224-coinbox-hero.json) |
 | CoinClave | 390607 | [390607-coinclave.json](./390607-coinclave.json) |
 | Coincremental | 358992 | [358992-coincremental.json](./358992-coincremental.json) |
@@ -14702,6 +14704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Rope | 9761 | [9761-cut-the-rope.json](./9761-cut-the-rope.json) |
 | Cut the Rope 2 | 39205 | [39205-cut-the-rope-2.json](./39205-cut-the-rope-2.json) |
 | Cut the Rope 2: Om Nom's Quest | 108611 | [108611-cut-the-rope-2-om-noms-quest.json](./108611-cut-the-rope-2-om-noms-quest.json) |
+| Cut the Rope 3 | 274873 | [274873-cut-the-rope-3.json](./274873-cut-the-rope-3.json) |
 | Cut the Rope 3DS | 85555 | [85555-cut-the-rope-3ds.json](./85555-cut-the-rope-3ds.json) |
 | Cut the Rope Remastered | 145634 | [145634-cut-the-rope-remastered.json](./145634-cut-the-rope-remastered.json) |
 | Cut the Rope: Blast | 183607 | [183607-cut-the-rope-blast.json](./183607-cut-the-rope-blast.json) |
