@@ -5158,6 +5158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich River | 391203 | [391203-rich-river.json](./391203-rich-river.json) |
 | Rich School Girl Simulator | 300324 | [300324-rich-school-girl-simulator.json](./300324-rich-school-girl-simulator.json) |
 | Rich Tauber's Bass Champ | 94420 | [94420-rich-taubers-bass-champ.json](./94420-rich-taubers-bass-champ.json) |
+| Rich Teddy Adventure | 261677 | [261677-rich-teddy-adventure.json](./261677-rich-teddy-adventure.json) |
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
@@ -7081,6 +7082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketfella | 58660 | [58660-rocketfella.json](./58660-rocketfella.json) |
 | RocketGirl | 76709 | [76709-rocketgirl.json](./76709-rocketgirl.json) |
 | Rocketing | 142223 | [142223-rocketing.json](./142223-rocketing.json) |
+| Rocketman | 261663 | [261663-rocketman.json](./261663-rocketman.json) |
 | Rocketman | 287548 | [287548-rocketman.json](./287548-rocketman.json) |
 | Rocketmen: Axis of Evil | 20273 | [20273-rocketmen-axis-of-evil.json](./20273-rocketmen-axis-of-evil.json) |
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
@@ -9026,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run for Cheese | 174356 | [174356-run-for-cheese.json](./174356-run-for-cheese.json) |
 | Run For Coins | 54512 | [54512-run-for-coins.json](./54512-run-for-coins.json) |
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
+| Run For Exodus | 261665 | [261665-run-for-exodus.json](./261665-run-for-exodus.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
