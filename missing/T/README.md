@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankCraft | 31193 | [31193-tankcraft.json](./31193-tankcraft.json) |
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
+| Tanked Up | 262217 | [262217-tanked-up.json](./262217-tanked-up.json) |
 | Tankegeddon! | 383147 | [383147-tankegeddon.json](./383147-tankegeddon.json) |
 | Tanker Truck Simulator 2011 | 53718 | [53718-tanker-truck-simulator-2011.json](./53718-tanker-truck-simulator-2011.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
@@ -8334,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Irem Major Title | 42493 | [42493-the-irem-major-title.json](./42493-the-irem-major-title.json) |
 | The Irem Skins Game | 44452 | [44452-the-irem-skins-game.json](./44452-the-irem-skins-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
+| The Iron Forge | 262181 | [262181-the-iron-forge.json](./262181-the-iron-forge.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
 | The Iron Union | 224716 | [224716-the-iron-union.json](./224716-the-iron-union.json) |
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
@@ -16850,6 +16852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileHunter | 188973 | [188973-tilehunter.json](./188973-tilehunter.json) |
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
+| TileMan.io | 262188 | [262188-tileman-io.json](./262188-tileman-io.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
@@ -18562,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
 | Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
+| Tomato Bounce | 262212 | [262212-tomato-bounce.json](./262212-tomato-bounce.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
 | Tomato Jones - Episode 3 | 83542 | [83542-tomato-jones-episode-3.json](./83542-tomato-jones-episode-3.json) |
@@ -19746,6 +19750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kobuto V: Burst Battle - Chibi-Chara | 238038 | [238038-touhou-kobuto-v-burst-battle-chibi-chara.json](./238038-touhou-kobuto-v-burst-battle-chibi-chara.json) |
 | Touhou Kobuto V: Burst Battle - Koishi Komeiji | 238037 | [238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json](./238037-touhou-kobuto-v-burst-battle-koishi-komeiji.json) |
 | Touhou Kobuto V: Burst Battle - Youmu Konpaku | 238035 | [238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json](./238035-touhou-kobuto-v-burst-battle-youmu-konpaku.json) |
+| Touhou Komakyou | 262184 | [262184-touhou-komakyou.json](./262184-touhou-komakyou.json) |
 | Touhou Kosuzu no Butsuri Game! | 256898 | [256898-touhou-kosuzu-no-butsuri-game.json](./256898-touhou-kosuzu-no-butsuri-game.json) |
 | Touhou Koukayaku The Game | 293322 | [293322-touhou-koukayaku-the-game.json](./293322-touhou-koukayaku-the-game.json) |
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
