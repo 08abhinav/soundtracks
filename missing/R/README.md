@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurgence | 56594 | [56594-resurgence.json](./56594-resurgence.json) |
 | Resurgence: Earth United | 71193 | [71193-resurgence-earth-united.json](./71193-resurgence-earth-united.json) |
 | Resurgent | 177565 | [177565-resurgent.json](./177565-resurgent.json) |
+| Resurrect | 272729 | [272729-resurrect.json](./272729-resurrect.json) |
 | Resurrection | 284263 | [284263-resurrection.json](./284263-resurrection.json) |
 | Resurrection | 94924 | [94924-resurrection.json](./94924-resurrection.json) |
 | Resurrection Core | 335267 | [335267-resurrection-core.json](./335267-resurrection-core.json) |
@@ -7900,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romantic Player | 128294 | [128294-romantic-player.json](./128294-romantic-player.json) |
 | Romantic Rainbow Delights | 184064 | [184064-romantic-rainbow-delights.json](./184064-romantic-rainbow-delights.json) |
 | Romantic Shooter | 242526 | [242526-romantic-shooter.json](./242526-romantic-shooter.json) |
+| Romanticized Dreams of a Post-Apocalyptic Cowpoke | 272730 | [272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json](./272730-romanticized-dreams-of-a-post-apocalyptic-cowpoke.json) |
 | Romb | 377254 | [377254-romb.json](./377254-romb.json) |
 | Rombie | 82326 | [82326-rombie.json](./82326-rombie.json) |
 | Romby | 50508 | [50508-romby.json](./50508-romby.json) |
@@ -8909,6 +8911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rum N' Gold Royale | 306376 | [306376-rum-n-gold-royale.json](./306376-rum-n-gold-royale.json) |
 | Rum Skulls | 294063 | [294063-rum-skulls.json](./294063-rum-skulls.json) |
 | Ruma | 274210 | [274210-ruma.json](./274210-ruma.json) |
+| Rumba Lumber | 272680 | [272680-rumba-lumber.json](./272680-rumba-lumber.json) |
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
 | Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
