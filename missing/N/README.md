@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninjahtic Mind Tricks | 34818 | [34818-ninjahtic-mind-tricks.json](./34818-ninjahtic-mind-tricks.json) |
 | Ninjala 2: The Uncharted Planet | 405438 | [405438-ninjala-2-the-uncharted-planet.json](./405438-ninjala-2-the-uncharted-planet.json) |
 | Ninjala Story Pack: Chapter Four | 247585 | [247585-ninjala-story-pack-chapter-four.json](./247585-ninjala-story-pack-chapter-four.json) |
+| Ninjam! | 298373 | [298373-ninjam.json](./298373-ninjam.json) |
 | Ninjaman | 204227 | [204227-ninjaman.json](./204227-ninjaman.json) |
 | Ninjaman | 324845 | [324845-ninjaman.json](./324845-ninjaman.json) |
 | Ninjamurai | 44521 | [44521-ninjamurai.json](./44521-ninjamurai.json) |
