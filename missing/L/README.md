@@ -1370,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laxius Force | 50802 | [50802-laxius-force.json](./50802-laxius-force.json) |
 | Laxius Force | 63127 | [63127-laxius-force.json](./63127-laxius-force.json) |
 | Laxius Force III | 24731 | [24731-laxius-force-iii.json](./24731-laxius-force-iii.json) |
+| Laxius Party | 256689 | [256689-laxius-party.json](./256689-laxius-party.json) |
 | Laxius Power II | 72040 | [72040-laxius-power-ii.json](./72040-laxius-power-ii.json) |
 | Laxius Power III | 57597 | [57597-laxius-power-iii.json](./57597-laxius-power-iii.json) |
 | Laxius Soul | 287223 | [287223-laxius-soul.json](./287223-laxius-soul.json) |
@@ -5870,6 +5871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
+| Lost Bits | 256702 | [256702-lost-bits.json](./256702-lost-bits.json) |
 | Lost Boy | 179063 | [179063-lost-boy.json](./179063-lost-boy.json) |
 | Lost Brother | 323895 | [323895-lost-brother.json](./323895-lost-brother.json) |
 | Lost Brothers | 127311 | [127311-lost-brothers.json](./127311-lost-brothers.json) |
