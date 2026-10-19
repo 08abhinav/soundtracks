@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
+| 7 Days Blood Moons | 292376 | [292376-7-days-blood-moons.json](./292376-7-days-blood-moons.json) |
 | 7 Days Devil | 373016 | [373016-7-days-devil.json](./373016-7-days-devil.json) |
 | 7 Days Heroes | 206436 | [206436-7-days-heroes.json](./206436-7-days-heroes.json) |
 | 7 Days in Dream | 112197 | [112197-7-days-in-dream.json](./112197-7-days-in-dream.json) |
