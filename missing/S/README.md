@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Life | 243596 | [243596-school-life.json](./243596-school-life.json) |
 | School Life Simulator | 97049 | [97049-school-life-simulator.json](./97049-school-life-simulator.json) |
 | School Love Life: Anime Games | 299909 | [299909-school-love-life-anime-games.json](./299909-school-love-life-anime-games.json) |
+| School Love Paradise | 299513 | [299513-school-love-paradise.json](./299513-school-love-paradise.json) |
 | School Maze | 72059 | [72059-school-maze.json](./72059-school-maze.json) |
 | School Night Seance | 375615 | [375615-school-night-seance.json](./375615-school-night-seance.json) |
 | School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
@@ -21828,6 +21829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer of '58 | 159221 | [159221-summer-of-58.json](./159221-summer-of-58.json) |
 | Summer of '69 | 224578 | [224578-summer-of-69.json](./224578-summer-of-69.json) |
 | Summer of Adventure Bundle | 196513 | [196513-summer-of-adventure-bundle.json](./196513-summer-of-adventure-bundle.json) |
+| Summer of Memories | 299498 | [299498-summer-of-memories.json](./299498-summer-of-memories.json) |
 | Summer Party Time + Survival Pack Set | 261165 | [261165-summer-party-time-survival-pack-set.json](./261165-summer-party-time-survival-pack-set.json) |
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
