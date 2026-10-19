@@ -1692,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Iced Latte With Your Breast Milk, Please! | 296688 | [296688-one-iced-latte-with-your-breast-milk-please.json](./296688-one-iced-latte-with-your-breast-milk-please.json) |
 | One Iced Latte: Milk Song | 387052 | [387052-one-iced-latte-milk-song.json](./387052-one-iced-latte-milk-song.json) |
 | One in 20,000 Raindrops | 405674 | [405674-one-in-20-000-raindrops.json](./405674-one-in-20-000-raindrops.json) |
+| One in a Krillion | 305633 | [305633-one-in-a-krillion.json](./305633-one-in-a-krillion.json) |
 | One in a Thousand: Clover Book | 417358 | [417358-one-in-a-thousand-clover-book.json](./417358-one-in-a-thousand-clover-book.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
