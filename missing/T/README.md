@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Delusional's Dusttale | 329654 | [329654-team-delusionals-dusttale.json](./329654-team-delusionals-dusttale.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
 | Team F1 | 386525 | [386525-team-f1.json](./386525-team-f1.json) |
+| Team Five | 258327 | [258327-team-five.json](./258327-team-five.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
@@ -3251,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terato Tamer | 228713 | [228713-terato-tamer.json](./228713-terato-tamer.json) |
 | Teratoma: The Last Rebellion | 79867 | [79867-teratoma-the-last-rebellion.json](./79867-teratoma-the-last-rebellion.json) |
 | Teravit | 167863 | [167863-teravit.json](./167863-teravit.json) |
+| Tercios: Honor and Glory | 258325 | [258325-tercios-honor-and-glory.json](./258325-tercios-honor-and-glory.json) |
 | Tercity Life Simulator | 274375 | [274375-tercity-life-simulator.json](./274375-tercity-life-simulator.json) |
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
 | Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
@@ -13194,6 +13196,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
 | The Throne of Bernicia | 191173 | [191173-the-throne-of-bernicia.json](./191173-the-throne-of-bernicia.json) |
 | The Throng | 335304 | [335304-the-throng.json](./335304-the-throng.json) |
+| The Thundermans: Dr. Colosso On The Run | 258358 | [258358-the-thundermans-dr-colosso-on-the-run.json](./258358-the-thundermans-dr-colosso-on-the-run.json) |
+| The Thundermans: Heroes & Villains Unite | 258310 | [258310-the-thundermans-heroes-and-villains-unite.json](./258310-the-thundermans-heroes-and-villains-unite.json) |
 | The Tibble Super Action Challenge | 300543 | [300543-the-tibble-super-action-challenge.json](./300543-the-tibble-super-action-challenge.json) |
 | The Tick | 46594 | [46594-the-tick.json](./46594-the-tick.json) |
 | The Tick of Guilt | 180703 | [180703-the-tick-of-guilt.json](./180703-the-tick-of-guilt.json) |
@@ -18174,6 +18178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Together Again: A "Lake's Funland" Story | 400432 | [400432-together-again-a-lakes-funland-story.json](./400432-together-again-a-lakes-funland-story.json) |
 | Together Bnb | 146310 | [146310-together-bnb.json](./146310-together-bnb.json) |
 | Together in Battle | 133161 | [133161-together-in-battle.json](./133161-together-in-battle.json) |
+| Together in Between | 258316 | [258316-together-in-between.json](./258316-together-in-between.json) |
 | Together in the Sky | 254952 | [254952-together-in-the-sky.json](./254952-together-in-the-sky.json) |
 | Together My Headers | 190977 | [190977-together-my-headers.json](./190977-together-my-headers.json) |
 | Together Tree: Romance 911 | 244494 | [244494-together-tree-romance-911.json](./244494-together-tree-romance-911.json) |
@@ -20295,6 +20300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers | 116967 | [116967-towers.json](./116967-towers.json) |
 | Towers | 271222 | [271222-towers.json](./271222-towers.json) |
 | Towers & Goblins: The Last Stand | 290912 | [290912-towers-and-goblins-the-last-stand.json](./290912-towers-and-goblins-the-last-stand.json) |
+| Towers & Powers | 258346 | [258346-towers-and-powers.json](./258346-towers-and-powers.json) |
 | Towers and Survivors | 280678 | [280678-towers-and-survivors.json](./280678-towers-and-survivors.json) |
 | Towers Deck | 232877 | [232877-towers-deck.json](./232877-towers-deck.json) |
 | Towers Heritage | 372465 | [372465-towers-heritage.json](./372465-towers-heritage.json) |
