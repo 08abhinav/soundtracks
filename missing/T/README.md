@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
+| Teletext Chaser | 302235 | [302235-teletext-chaser.json](./302235-teletext-chaser.json) |
 | Telethugs | 188079 | [188079-telethugs.json](./188079-telethugs.json) |
 | Teletubbies | 43785 | [43785-teletubbies.json](./43785-teletubbies.json) |
 | Teletubbies Come to Play! | 313239 | [313239-teletubbies-come-to-play.json](./313239-teletubbies-come-to-play.json) |
@@ -4715,6 +4716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Play Baseball Special | 48545 | [48545-the-best-play-baseball-special.json](./48545-the-best-play-baseball-special.json) |
 | The Best Stories, The Best Time for Us | 114297 | [114297-the-best-stories-the-best-time-for-us.json](./114297-the-best-stories-the-best-time-for-us.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
+| The Best Treasure | 302218 | [302218-the-best-treasure.json](./302218-the-best-treasure.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
@@ -23068,6 +23070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
 | Truck Simulator Cargo Driver 2024: Euro | 315921 | [315921-truck-simulator-cargo-driver-2024-euro.json](./315921-truck-simulator-cargo-driver-2024-euro.json) |
 | Truck Simulator Cargo Driver 2024: USA | 299525 | [299525-truck-simulator-cargo-driver-2024-usa.json](./299525-truck-simulator-cargo-driver-2024-usa.json) |
+| Truck Simulator City Delivery | 302241 | [302241-truck-simulator-city-delivery.json](./302241-truck-simulator-city-delivery.json) |
 | Truck Simulator Collection | 275886 | [275886-truck-simulator-collection.json](./275886-truck-simulator-collection.json) |
 | Truck Simulator Drive USA: EVO | 383516 | [383516-truck-simulator-drive-usa-evo.json](./383516-truck-simulator-drive-usa-evo.json) |
 | Truck Simulator Driver USA 2024 | 281048 | [281048-truck-simulator-driver-usa-2024.json](./281048-truck-simulator-driver-usa-2024.json) |
