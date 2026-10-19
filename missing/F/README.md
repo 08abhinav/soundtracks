@@ -567,6 +567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tail: Hero's Journey | 59806 | [59806-fairy-tail-heros-journey.json](./59806-fairy-tail-heros-journey.json) |
 | Fairy Tail: Portable Guild | 44480 | [44480-fairy-tail-portable-guild.json](./44480-fairy-tail-portable-guild.json) |
 | Fairy Tail: Zeref's Awakening | 63398 | [63398-fairy-tail-zerefs-awakening.json](./63398-fairy-tail-zerefs-awakening.json) |
+| Fairy Tale | 269419 | [269419-fairy-tale.json](./269419-fairy-tale.json) |
 | Fairy Tale Busters | 56571 | [56571-fairy-tale-busters.json](./56571-fairy-tale-busters.json) |
 | Fairy Tale Diaries | 110972 | [110972-fairy-tale-diaries.json](./110972-fairy-tale-diaries.json) |
 | Fairy Tale Fighters | 406081 | [406081-fairy-tale-fighters.json](./406081-fairy-tale-fighters.json) |
@@ -3811,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XI: Scars of Abyssea | 255775 | [255775-final-fantasy-xi-scars-of-abyssea.json](./255775-final-fantasy-xi-scars-of-abyssea.json) |
 | Final Fantasy XI: The Vana'diel Collection | 41852 | [41852-final-fantasy-xi-the-vanadiel-collection.json](./41852-final-fantasy-xi-the-vanadiel-collection.json) |
 | Final Fantasy XI: The Voracious Resurgence | 312630 | [312630-final-fantasy-xi-the-voracious-resurgence.json](./312630-final-fantasy-xi-the-voracious-resurgence.json) |
+| Final Fantasy XI: Ultimate Collection | 269413 | [269413-final-fantasy-xi-ultimate-collection.json](./269413-final-fantasy-xi-ultimate-collection.json) |
 | Final Fantasy XI: Ultimate Collection - Abyssea Edition | 286423 | [286423-final-fantasy-xi-ultimate-collection-abyssea-edition.json](./286423-final-fantasy-xi-ultimate-collection-abyssea-edition.json) |
 | Final Fantasy XI: Vana'diel Collection 2008 | 41853 | [41853-final-fantasy-xi-vanadiel-collection-2008.json](./41853-final-fantasy-xi-vanadiel-collection-2008.json) |
 | Final Fantasy XI: Vision of Abyssea | 255774 | [255774-final-fantasy-xi-vision-of-abyssea.json](./255774-final-fantasy-xi-vision-of-abyssea.json) |
@@ -5144,6 +5146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nations: Renegades | 259059 | [259059-five-nations-renegades.json](./259059-five-nations-renegades.json) |
 | Five New-Fangled Nights | 382958 | [382958-five-new-fangled-nights.json](./382958-five-new-fangled-nights.json) |
 | Five Nighs at Fairy's | 405066 | [405066-five-nighs-at-fairys.json](./405066-five-nighs-at-fairys.json) |
+| Five Night At Freddy's: Security Breach - Glamrock Factory | 269420 | [269420-five-night-at-freddys-security-breach-glamrock-factory.json](./269420-five-night-at-freddys-security-breach-glamrock-factory.json) |
 | Five Night's at Freddy's: The Silver Eyes Fangame | 214429 | [214429-five-nights-at-freddys-the-silver-eyes-fangame.json](./214429-five-nights-at-freddys-the-silver-eyes-fangame.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
@@ -6138,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
+| Flowars | 269439 | [269439-flowars.json](./269439-flowars.json) |
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
@@ -6850,7 +6854,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 26 Console | 367571 | [367571-football-manager-26-console.json](./367571-football-manager-26-console.json) |
 | Football Manager 26 Mobile | 367576 | [367576-football-manager-26-mobile.json](./367576-football-manager-26-mobile.json) |
 | Football Manager 26 Touch | 367573 | [367573-football-manager-26-touch.json](./367573-football-manager-26-touch.json) |
+| Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
+| Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
+| Football Manager Handheld 2012 | 269429 | [269429-football-manager-handheld-2012.json](./269429-football-manager-handheld-2012.json) |
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
