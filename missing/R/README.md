@@ -5903,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2: Starstorm 2 | 310529 | [310529-risk-of-rain-2-starstorm-2.json](./310529-risk-of-rain-2-starstorm-2.json) |
 | Risk of Rain 2: Survivors of the Void | 189842 | [189842-risk-of-rain-2-survivors-of-the-void.json](./189842-risk-of-rain-2-survivors-of-the-void.json) |
 | Risk of Rain Returns | 229794 | [229794-risk-of-rain-returns.json](./229794-risk-of-rain-returns.json) |
+| Risk of Rain: Hostile Worlds | 287506 | [287506-risk-of-rain-hostile-worlds.json](./287506-risk-of-rain-hostile-worlds.json) |
 | Risk of Rain: Meridian | 316994 | [316994-risk-of-rain-meridian.json](./316994-risk-of-rain-meridian.json) |
 | Risk of Rain: Starstorm | 262102 | [262102-risk-of-rain-starstorm.json](./262102-risk-of-rain-starstorm.json) |
 | Risk Of Waifus | 382482 | [382482-risk-of-waifus.json](./382482-risk-of-waifus.json) |
