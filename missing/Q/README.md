@@ -737,6 +737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Fill Q | 84836 | [84836-quick-fill-q.json](./84836-quick-fill-q.json) |
 | Quick Fire | 241046 | [241046-quick-fire.json](./241046-quick-fire.json) |
 | Quick Golf | 288371 | [288371-quick-golf.json](./288371-quick-golf.json) |
+| Quick Hit Slots | 308028 | [308028-quick-hit-slots.json](./308028-quick-hit-slots.json) |
 | Quick Mafs Advanced | 193731 | [193731-quick-mafs-advanced.json](./193731-quick-mafs-advanced.json) |
 | Quick Majik Adventure | 171539 | [171539-quick-majik-adventure.json](./171539-quick-majik-adventure.json) |
 | Quick Maths: addition and subtraction | 107741 | [107741-quick-maths-addition-and-subtraction.json](./107741-quick-maths-addition-and-subtraction.json) |
