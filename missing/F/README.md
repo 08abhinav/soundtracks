@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
+| Fa Jin | 288054 | [288054-fa-jin.json](./288054-fa-jin.json) |
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
 | Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
@@ -4802,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherman's House | 172749 | [172749-fishermans-house.json](./172749-fishermans-house.json) |
 | Fisherman's Paradise II | 209430 | [209430-fishermans-paradise-ii.json](./209430-fishermans-paradise-ii.json) |
 | Fisherman's Peril | 143492 | [143492-fishermans-peril.json](./143492-fishermans-peril.json) |
+| Fisherman'sWorld | 288049 | [288049-fishermansworld.json](./288049-fishermansworld.json) |
 | Fishermen's Haven | 152013 | [152013-fishermens-haven.json](./152013-fishermens-haven.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
@@ -7845,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: 2018 Cadillac #57 TA CTS-V | 292648 | [292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json](./292648-forza-motorsport-2018-cadillac-57-ta-cts-v.json) |
 | Forza Motorsport: 2018 Ford #98 Breathless Pro Racing TA Mustang | 295483 | [295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json](./295483-forza-motorsport-2018-ford-98-breathless-pro-racing-ta-mustang.json) |
 | Forza Motorsport: 2018 Lamborghini #63 Squadra Corse Huracán Super Trofeo Evo | 285479 | [285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json](./285479-forza-motorsport-2018-lamborghini-63-squadra-corse-huracan-super-trofeo-evo.json) |
+| Forza Motorsport: 2019 Ferrari #62 Risi Competizione 488 GTE | 288066 | [288066-forza-motorsport-2019-ferrari-62-risi-competizione-488-gte.json](./288066-forza-motorsport-2019-ferrari-62-risi-competizione-488-gte.json) |
 | Forza Motorsport: 2019 McLaren Senna GTR | 286540 | [286540-forza-motorsport-2019-mclaren-senna-gtr.json](./286540-forza-motorsport-2019-mclaren-senna-gtr.json) |
 | Forza Motorsport: 2019 Toyota 86 TRD SE | 295479 | [295479-forza-motorsport-2019-toyota-86-trd-se.json](./295479-forza-motorsport-2019-toyota-86-trd-se.json) |
 | Forza Motorsport: 2020 Audi TT RS Coupe | 295482 | [295482-forza-motorsport-2020-audi-tt-rs-coupe.json](./295482-forza-motorsport-2020-audi-tt-rs-coupe.json) |
@@ -9561,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuel Station Simulator | 336369 | [336369-fuel-station-simulator.json](./336369-fuel-station-simulator.json) |
 | Fuel Tanker Truck | 105918 | [105918-fuel-tanker-truck.json](./105918-fuel-tanker-truck.json) |
 | Fuel Tiracas | 77282 | [77282-fuel-tiracas.json](./77282-fuel-tiracas.json) |
+| Fuel37 | 288068 | [288068-fuel37.json](./288068-fuel37.json) |
 | Fuezon | 206451 | [206451-fuezon.json](./206451-fuezon.json) |
 | Fuga: Melodies of Steel - Back to School Costume Pack | 228026 | [228026-fuga-melodies-of-steel-back-to-school-costume-pack.json](./228026-fuga-melodies-of-steel-back-to-school-costume-pack.json) |
 | Fuga: Melodies of Steel - Deluxe Edition | 164582 | [164582-fuga-melodies-of-steel-deluxe-edition.json](./164582-fuga-melodies-of-steel-deluxe-edition.json) |
