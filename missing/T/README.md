@@ -2828,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Of Anubis: Judgement Of The Dead | 271736 | [271736-temple-of-anubis-judgement-of-the-dead.json](./271736-temple-of-anubis-judgement-of-the-dead.json) |
 | Temple of Apshai Trilogy | 2864 | [2864-temple-of-apshai-trilogy.json](./2864-temple-of-apshai-trilogy.json) |
 | Temple of Boonil | 198562 | [198562-temple-of-boonil.json](./198562-temple-of-boonil.json) |
+| Temple of Causality | 286951 | [286951-temple-of-causality.json](./286951-temple-of-causality.json) |
 | Temple of Cerberus | 58117 | [58117-temple-of-cerberus.json](./58117-temple-of-cerberus.json) |
 | Temple of Chaos 2: Warped Reality | 313168 | [313168-temple-of-chaos-2-warped-reality.json](./313168-temple-of-chaos-2-warped-reality.json) |
 | Temple of Darkness | 247529 | [247529-temple-of-darkness.json](./247529-temple-of-darkness.json) |
@@ -7468,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Overlord | 272582 | [272582-the-good-overlord.json](./272582-the-good-overlord.json) |
 | The Good People | 312872 | [312872-the-good-people.json](./312872-the-good-people.json) |
 | The Good Time Garden | 127409 | [127409-the-good-time-garden.json](./127409-the-good-time-garden.json) |
+| The Good Weapon | 286960 | [286960-the-good-weapon.json](./286960-the-good-weapon.json) |
 | The Good, the Bad & the Monkey | 348900 | [348900-the-good-the-bad-and-the-monkey.json](./348900-the-good-the-bad-and-the-monkey.json) |
 | The Good, the Bad, and the Horsey | 264049 | [264049-the-good-the-bad-and-the-horsey.json](./264049-the-good-the-bad-and-the-horsey.json) |
 | The Goofy Giraffe Game | 357585 | [357585-the-goofy-giraffe-game.json](./357585-the-goofy-giraffe-game.json) |
@@ -13058,6 +13060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
 | The Tiny Tale 2 | 35975 | [35975-the-tiny-tale-2.json](./35975-the-tiny-tale-2.json) |
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
+| The Tipping Point | 286961 | [286961-the-tipping-point.json](./286961-the-tipping-point.json) |
 | The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
 | The Titty-Fucking Hot Spring Ryokan Ghost | 385827 | [385827-the-titty-fucking-hot-spring-ryokan-ghost.json](./385827-the-titty-fucking-hot-spring-ryokan-ghost.json) |
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
@@ -17089,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeways | 199309 | [199309-timeways.json](./199309-timeways.json) |
 | Timewell: Trail of Celestes | 216397 | [216397-timewell-trail-of-celestes.json](./216397-timewell-trail-of-celestes.json) |
 | Timewinder | 288607 | [288607-timewinder.json](./288607-timewinder.json) |
+| Timeworks | 286959 | [286959-timeworks.json](./286959-timeworks.json) |
 | Timewreck Tales | 173037 | [173037-timewreck-tales.json](./173037-timewreck-tales.json) |
 | Timez Attack | 133752 | [133752-timez-attack.json](./133752-timez-attack.json) |
 | TimeZero | 58813 | [58813-timezero.json](./58813-timezero.json) |
@@ -17217,6 +17221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Combat Arcade | 184867 | [184867-tiny-combat-arcade.json](./184867-tiny-combat-arcade.json) |
 | Tiny Combat Arena | 154015 | [154015-tiny-combat-arena.json](./154015-tiny-combat-arena.json) |
 | Tiny Company | 370845 | [370845-tiny-company.json](./370845-tiny-company.json) |
+| Tiny Connections | 286964 | [286964-tiny-connections.json](./286964-tiny-connections.json) |
 | Tiny Crate | 177568 | [177568-tiny-crate.json](./177568-tiny-crate.json) |
 | Tiny Crown | 401562 | [401562-tiny-crown.json](./401562-tiny-crown.json) |
 | Tiny Crypts | 346387 | [346387-tiny-crypts.json](./346387-tiny-crypts.json) |
@@ -19575,6 +19580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
 | Touhou Kouzougi: Flickerframe Shutter Festival | 353646 | [353646-touhou-kouzougi-flickerframe-shutter-festival.json](./353646-touhou-kouzougi-flickerframe-shutter-festival.json) |
 | Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
+| Touhou Lensed Night Sky, Kaseigai | 286953 | [286953-touhou-lensed-night-sky-kaseigai.json](./286953-touhou-lensed-night-sky-kaseigai.json) |
 | Touhou Library Survivors | 219544 | [219544-touhou-library-survivors.json](./219544-touhou-library-survivors.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
@@ -24595,6 +24601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyro: Legend of Whisperwood | 345289 | [345289-tyro-legend-of-whisperwood.json](./345289-tyro-legend-of-whisperwood.json) |
 | Tyrofeud | 335239 | [335239-tyrofeud.json](./335239-tyrofeud.json) |
 | Tyrone Soulz | 264535 | [264535-tyrone-soulz.json](./264535-tyrone-soulz.json) |
+| Tyrone Soulz: Bitch Ass Pussy Mode | 286995 | [286995-tyrone-soulz-bitch-ass-pussy-mode.json](./286995-tyrone-soulz-bitch-ass-pussy-mode.json) |
 | Tyrone vs Cops | 191512 | [191512-tyrone-vs-cops.json](./191512-tyrone-vs-cops.json) |
 | Tyrone vs Cops VR | 211909 | [211909-tyrone-vs-cops-vr.json](./211909-tyrone-vs-cops-vr.json) |
 | Tyroom vs. Typing Gunner | 188499 | [188499-tyroom-vs-typing-gunner.json](./188499-tyroom-vs-typing-gunner.json) |
