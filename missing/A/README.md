@@ -6799,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Chain Trace - Black | 316376 | [316376-angel-legion-chain-trace-black.json](./316376-angel-legion-chain-trace-black.json) |
 | Angel Legion: Chain Trace - Orange | 321958 | [321958-angel-legion-chain-trace-orange.json](./321958-angel-legion-chain-trace-orange.json) |
 | Angel Legion: Chain Trace - Red | 332605 | [332605-angel-legion-chain-trace-red.json](./332605-angel-legion-chain-trace-red.json) |
+| Angel Legion: Charming Mystery - Purple | 290786 | [290786-angel-legion-charming-mystery-purple.json](./290786-angel-legion-charming-mystery-purple.json) |
 | Angel Legion: Charming Mystery - Red | 302576 | [302576-angel-legion-charming-mystery-red.json](./302576-angel-legion-charming-mystery-red.json) |
 | Angel Legion: Future Dream - Green | 323231 | [323231-angel-legion-future-dream-green.json](./323231-angel-legion-future-dream-green.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
