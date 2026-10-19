@@ -1061,6 +1061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
 | Rainy Day | 369229 | [369229-rainy-day.json](./369229-rainy-day.json) |
+| Rainy Day Games | 267213 | [267213-rainy-day-games.json](./267213-rainy-day-games.json) |
 | Rainy Day Racer | 104049 | [104049-rainy-day-racer.json](./104049-rainy-day-racer.json) |
 | Rainy Day Roommate | 158168 | [158168-rainy-day-roommate.json](./158168-rainy-day-roommate.json) |
 | Rainy Day Spider Solitaire | 366447 | [366447-rainy-day-spider-solitaire.json](./366447-rainy-day-spider-solitaire.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redcrest: 1993 | 346241 | [346241-redcrest-1993.json](./346241-redcrest-1993.json) |
 | Redd War: Turnabout | 318805 | [318805-redd-war-turnabout.json](./318805-redd-war-turnabout.json) |
 | Redden | 83576 | [83576-redden.json](./83576-redden.json) |
+| Reddie and the Redirected Walker: Module 01 - Alpha | 267261 | [267261-reddie-and-the-redirected-walker-module-01-alpha.json](./267261-reddie-and-the-redirected-walker-module-01-alpha.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
