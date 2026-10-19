@@ -3617,6 +3617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckarium | 318872 | [318872-deckarium.json](./318872-deckarium.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
 | Deckbound Quest | 58645 | [58645-deckbound-quest.json](./58645-deckbound-quest.json) |
+| Deckbuilder Fantasy | 277742 | [277742-deckbuilder-fantasy.json](./277742-deckbuilder-fantasy.json) |
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
@@ -5155,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Domination | 122922 | [122922-desert-domination.json](./122922-desert-domination.json) |
 | Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
+| Desert Gunman | 277708 | [277708-desert-gunman.json](./277708-desert-gunman.json) |
 | Desert Gunner | 17116 | [17116-desert-gunner.json](./17116-desert-gunner.json) |
 | Desert Island 64 | 231508 | [231508-desert-island-64.json](./231508-desert-island-64.json) |
 | Desert Island Fishing | 56289 | [56289-desert-island-fishing.json](./56289-desert-island-fishing.json) |
@@ -9577,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday | 219754 | [219754-doomsday.json](./219754-doomsday.json) |
 | Doomsday | 368044 | [368044-doomsday.json](./368044-doomsday.json) |
 | DoomsDay | 192161 | [192161-doomsday.json](./192161-doomsday.json) |
+| Doomsday Beans | 277741 | [277741-doomsday-beans.json](./277741-doomsday-beans.json) |
 | Doomsday Blues | 13604 | [13604-doomsday-blues.json](./13604-doomsday-blues.json) |
 | Doomsday Castle | 14038 | [14038-doomsday-castle.json](./14038-doomsday-castle.json) |
 | Doomsday Cave | 258125 | [258125-doomsday-cave.json](./258125-doomsday-cave.json) |
