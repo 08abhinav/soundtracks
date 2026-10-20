@@ -8178,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPS Pro Team Manager | 291337 | [291337-fps-pro-team-manager.json](./291337-fps-pro-team-manager.json) |
 | FPS Quest | 381184 | [381184-fps-quest.json](./381184-fps-quest.json) |
 | FPS Robot Attack Minigame | 371303 | [371303-fps-robot-attack-minigame.json](./371303-fps-robot-attack-minigame.json) |
+| FPS Seduce: Hentai | 248436 | [248436-fps-seduce-hentai.json](./248436-fps-seduce-hentai.json) |
 | FPS Shooting Master | 102748 | [102748-fps-shooting-master.json](./102748-fps-shooting-master.json) |
 | FPS Trainer | 94177 | [94177-fps-trainer.json](./94177-fps-trainer.json) |
 | FPS Training | 130278 | [130278-fps-training.json](./130278-fps-training.json) |
