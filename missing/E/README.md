@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
 | Engineered to Purpose | 224521 | [224521-engineered-to-purpose.json](./224521-engineered-to-purpose.json) |
 | Engineerium | 302487 | [302487-engineerium.json](./302487-engineerium.json) |
+| Engines of Destruction | 211032 | [211032-engines-of-destruction.json](./211032-engines-of-destruction.json) |
 | Engines of Fury | 307259 | [307259-engines-of-fury.json](./307259-engines-of-fury.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
@@ -4235,6 +4236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Left to die | 236416 | [236416-escape-left-to-die.json](./236416-escape-left-to-die.json) |
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
 | Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
+| Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
 | Escape: Tutankhamen's Tomb | 88453 | [88453-escape-tutankhamens-tomb.json](./88453-escape-tutankhamens-tomb.json) |
 | Escape: Underground | 149490 | [149490-escape-underground.json](./149490-escape-underground.json) |
