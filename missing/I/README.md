@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Zoo Park | 260661 | [260661-idle-zoo-park.json](./260661-idle-zoo-park.json) |
 | Idle Zoo Tycoon | 220814 | [220814-idle-zoo-tycoon.json](./220814-idle-zoo-tycoon.json) |
 | Idle: Generators | 252289 | [252289-idle-generators.json](./252289-idle-generators.json) |
+| Idle: Multipliers | 250186 | [250186-idle-multipliers.json](./250186-idle-multipliers.json) |
 | Idleant | 376104 | [376104-idleant.json](./376104-idleant.json) |
 | idleBeer | 55814 | [55814-idlebeer.json](./55814-idlebeer.json) |
 | IdleCoin | 301497 | [301497-idlecoin.json](./301497-idlecoin.json) |
@@ -1796,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imitation | 368800 | [368800-imitation.json](./368800-imitation.json) |
 | Imitation City | 64680 | [64680-imitation-city.json](./64680-imitation-city.json) |
 | Imitation Girl | 382343 | [382343-imitation-girl.json](./382343-imitation-girl.json) |
+| Imitation ha Aisenai | 250207 | [250207-imitation-ha-aisenai.json](./250207-imitation-ha-aisenai.json) |
 | Imitators | 418754 | [418754-imitators.json](./418754-imitators.json) |
 | Imitosis | 292454 | [292454-imitosis.json](./292454-imitosis.json) |
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
