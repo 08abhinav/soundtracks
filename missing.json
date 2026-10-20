@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:45:06.559Z",
-  "total_missing": 239420,
+  "generated_at": "2026-10-20T21:48:54.428Z",
+  "total_missing": 239408,
   "games": [
     {
       "igdb_id": 191680,
@@ -55735,11 +55735,6 @@
       "igdb_id": 171599,
       "game_name": "Aphelion",
       "file": "missing/A/171599-aphelion.json"
-    },
-    {
-      "igdb_id": 348192,
-      "game_name": "Aphelion",
-      "file": "missing/A/348192-aphelion.json"
     },
     {
       "igdb_id": 410392,
@@ -173490,11 +173485,6 @@
       "igdb_id": 65530,
       "game_name": "Chaos;Child Love Chu Chu!!",
       "file": "missing/C/65530-chaos-child-love-chu-chu.json"
-    },
-    {
-      "igdb_id": 11392,
-      "game_name": "Chaos;Head",
-      "file": "missing/C/11392-chaos-head.json"
     },
     {
       "igdb_id": 61551,
@@ -400872,11 +400862,6 @@
       "file": "missing/G/35475-ghost-in-the-machine.json"
     },
     {
-      "igdb_id": 8336,
-      "game_name": "Ghost in the Shell",
-      "file": "missing/G/8336-ghost-in-the-shell.json"
-    },
-    {
       "igdb_id": 400490,
       "game_name": "Ghost in the Shell GBC",
       "file": "missing/G/400490-ghost-in-the-shell-gbc.json"
@@ -415585,11 +415570,6 @@
       "igdb_id": 373632,
       "game_name": "Granblue Fantasy Versus Rising: Premium Avatar Set Zombie Land Saga Movie",
       "file": "missing/G/373632-granblue-fantasy-versus-rising-premium-avatar-set-zombie-land-saga-movie.json"
-    },
-    {
-      "igdb_id": 232699,
-      "game_name": "Granblue Fantasy Versus: Rising",
-      "file": "missing/G/232699-granblue-fantasy-versus-rising.json"
     },
     {
       "igdb_id": 293496,
@@ -523850,11 +523830,6 @@
       "igdb_id": 287639,
       "game_name": "Kao no nai Tsuki Select Story",
       "file": "missing/K/287639-kao-no-nai-tsuki-select-story.json"
-    },
-    {
-      "igdb_id": 134528,
-      "game_name": "Kao the Kangaroo",
-      "file": "missing/K/134528-kao-the-kangaroo.json"
     },
     {
       "igdb_id": 142453,
@@ -639942,11 +639917,6 @@
       "file": "missing/M/261191-momodora-0-day-of-birth.json"
     },
     {
-      "igdb_id": 17436,
-      "game_name": "Momodora III",
-      "file": "missing/M/17436-momodora-iii.json"
-    },
-    {
       "igdb_id": 188088,
       "game_name": "Momodora: Moonlit Farewell",
       "file": "missing/M/188088-momodora-moonlit-farewell.json"
@@ -658705,11 +658675,6 @@
       "igdb_id": 248571,
       "game_name": "MX vs. ATV: Reflex",
       "file": "missing/M/248571-mx-vs-atv-reflex.json"
-    },
-    {
-      "igdb_id": 7091,
-      "game_name": "MX vs. ATV: Reflex",
-      "file": "missing/M/7091-mx-vs-atv-reflex.json"
     },
     {
       "igdb_id": 14297,
@@ -803797,11 +803762,6 @@
       "file": "missing/R/70688-ratatouille-remys-new-recipes.json"
     },
     {
-      "igdb_id": 253141,
-      "game_name": "Ratchet & Clank",
-      "file": "missing/R/253141-ratchet-and-clank.json"
-    },
-    {
       "igdb_id": 416114,
       "game_name": "Ratchet & Clank",
       "file": "missing/R/416114-ratchet-and-clank.json"
@@ -859352,11 +859312,6 @@
       "file": "missing/S/190225-scriptur.json"
     },
     {
-      "igdb_id": 371567,
-      "game_name": "Scritchy Scratchy",
-      "file": "missing/S/371567-scritchy-scratchy.json"
-    },
-    {
       "igdb_id": 58129,
       "game_name": "Scrivalry",
       "file": "missing/S/58129-scrivalry.json"
@@ -914185,11 +914140,6 @@
       "igdb_id": 177399,
       "game_name": "Sorry to Bother You",
       "file": "missing/S/177399-sorry-to-bother-you.json"
-    },
-    {
-      "igdb_id": 190964,
-      "game_name": "Sorry We're Closed",
-      "file": "missing/S/190964-sorry-were-closed.json"
     },
     {
       "igdb_id": 402332,
@@ -1164647,11 +1164597,6 @@
       "file": "missing/W/21083-wizardry-labyrinth-of-lost-souls.json"
     },
     {
-      "igdb_id": 2863,
-      "game_name": "Wizardry: Proving Grounds of the Mad Overlord",
-      "file": "missing/W/2863-wizardry-proving-grounds-of-the-mad-overlord.json"
-    },
-    {
       "igdb_id": 43620,
       "game_name": "Wizardry: Tale of the Forsaken Land",
       "file": "missing/W/43620-wizardry-tale-of-the-forsaken-land.json"
@@ -1193810,11 +1193755,6 @@
       "igdb_id": 300829,
       "game_name": "Zombie Night Defense",
       "file": "missing/Z/300829-zombie-night-defense.json"
-    },
-    {
-      "igdb_id": 9546,
-      "game_name": "Zombie Night Terror",
-      "file": "missing/Z/9546-zombie-night-terror.json"
     },
     {
       "igdb_id": 194408,
