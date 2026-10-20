@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Made A Contract with 3 Cute Devils?! | 206949 | [206949-i-made-a-contract-with-3-cute-devils.json](./206949-i-made-a-contract-with-3-cute-devils.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
+| I Made This Game on a Shitty Chromebook | 240092 | [240092-i-made-this-game-on-a-shitty-chromebook.json](./240092-i-made-this-game-on-a-shitty-chromebook.json) |
 | I Maed a Gam3 W1th Z0mb1es 1n it!!!1 | 181112 | [181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json](./181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json) |
 | I Make Saints | 206926 | [206926-i-make-saints.json](./206926-i-make-saints.json) |
 | I Miss the Sunrise | 130895 | [130895-i-miss-the-sunrise.json](./130895-i-miss-the-sunrise.json) |
@@ -478,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want You To Notice Me: His Story | 401277 | [401277-i-want-you-to-notice-me-his-story.json](./401277-i-want-you-to-notice-me-his-story.json) |
 | I Want Your Heart | 284248 | [284248-i-want-your-heart.json](./284248-i-want-your-heart.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
+| I Was a Soft-boy on Tiktok... | 240088 | [240088-i-was-a-soft-boy-on-tiktok.json](./240088-i-was-a-soft-boy-on-tiktok.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
 | I Was Dead, But… | 243139 | [243139-i-was-dead-but.json](./243139-i-was-dead-but.json) |
