@@ -843,6 +843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slight Chance of Sawblades+ | 296794 | [296794-a-slight-chance-of-sawblades.json](./296794-a-slight-chance-of-sawblades.json) |
 | A Slime and a Civil War | 236502 | [236502-a-slime-and-a-civil-war.json](./236502-a-slime-and-a-civil-war.json) |
 | A Slime's Quest for Freedom | 136181 | [136181-a-slimes-quest-for-freedom.json](./136181-a-slimes-quest-for-freedom.json) |
+| A Slime's Test for Intelligence | 212660 | [212660-a-slimes-test-for-intelligence.json](./212660-a-slimes-test-for-intelligence.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Trip to Yugoslavia | 68932 | [68932-a-trip-to-yugoslavia.json](./68932-a-trip-to-yugoslavia.json) |
 | A Trip to Yugoslavia: Director's Cut | 30888 | [30888-a-trip-to-yugoslavia-directors-cut.json](./30888-a-trip-to-yugoslavia-directors-cut.json) |
 | A True Story | 258043 | [258043-a-true-story.json](./258043-a-true-story.json) |
+| A True Western Romance | 212650 | [212650-a-true-western-romance.json](./212650-a-true-western-romance.json) |
 | A Turd's Life | 89975 | [89975-a-turds-life.json](./89975-a-turds-life.json) |
 | A Turnabout Called Justice | 306606 | [306606-a-turnabout-called-justice.json](./306606-a-turnabout-called-justice.json) |
 | A Turnabout On Rails | 308541 | [308541-a-turnabout-on-rails.json](./308541-a-turnabout-on-rails.json) |
@@ -2125,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
+| Action: Vengeance | 212641 | [212641-action-vengeance.json](./212641-action-vengeance.json) |
 | Actionauts | 40658 | [40658-actionauts.json](./40658-actionauts.json) |
 | ActionCam: Supernatural Case | 333529 | [333529-actioncam-supernatural-case.json](./333529-actioncam-supernatural-case.json) |
 | Actionpaint VR | 107931 | [107931-actionpaint-vr.json](./107931-actionpaint-vr.json) |
@@ -4099,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Fire Department: The Simulation | 32041 | [32041-airport-fire-department-the-simulation.json](./32041-airport-fire-department-the-simulation.json) |
 | Airport Firefighter Simulator 2013 | 87447 | [87447-airport-firefighter-simulator-2013.json](./87447-airport-firefighter-simulator-2013.json) |
 | Airport Flight Administrator Simulator & Air Traffic-Sky Airplane Sim Plane | 220873 | [220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json](./220873-airport-flight-administrator-simulator-and-air-traffic-sky-airplane-sim-plane.json) |
+| Airport Ground Handling Simulator VR | 212673 | [212673-airport-ground-handling-simulator-vr.json](./212673-airport-ground-handling-simulator-vr.json) |
 | Airport Inspector | 382320 | [382320-airport-inspector.json](./382320-airport-inspector.json) |
 | Airport Link: Connect Near Me | 290465 | [290465-airport-link-connect-near-me.json](./290465-airport-link-connect-near-me.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
@@ -7051,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel's Tale: An extraordinary love story | 166054 | [166054-angels-tale-an-extraordinary-love-story.json](./166054-angels-tale-an-extraordinary-love-story.json) |
 | Angela Knife | 198325 | [198325-angela-knife.json](./198325-angela-knife.json) |
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
+| Angela Twins Birth | 212638 | [212638-angela-twins-birth.json](./212638-angela-twins-birth.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angelblood | 294555 | [294555-angelblood.json](./294555-angelblood.json) |
