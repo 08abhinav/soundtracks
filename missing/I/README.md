@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igor | 94894 | [94894-igor.json](./94894-igor.json) |
 | Igor Maks: The Meme Lord | 126905 | [126905-igor-maks-the-meme-lord.json](./126905-igor-maks-the-meme-lord.json) |
 | Igor: Objective Uikokahonia | 7652 | [7652-igor-objective-uikokahonia.json](./7652-igor-objective-uikokahonia.json) |
+| Igor: The Game | 212667 | [212667-igor-the-game.json](./212667-igor-the-game.json) |
 | Igor: The Game | 21269 | [21269-igor-the-game.json](./21269-igor-the-game.json) |
 | iGP Manager | 59353 | [59353-igp-manager.json](./59353-igp-manager.json) |
 | IGPX | 338690 | [338690-igpx.json](./338690-igpx.json) |
@@ -4524,6 +4525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irrational Exuberance | 33518 | [33518-irrational-exuberance.json](./33518-irrational-exuberance.json) |
 | Irreminiscence | 392479 | [392479-irreminiscence.json](./392479-irreminiscence.json) |
 | Irresistible Love | 340764 | [340764-irresistible-love.json](./340764-irresistible-love.json) |
+| Irresistible Mistakes | 212630 | [212630-irresistible-mistakes.json](./212630-irresistible-mistakes.json) |
 | Irreverence | 412428 | [412428-irreverence.json](./412428-irreverence.json) |
 | Irreversible | 375839 | [375839-irreversible.json](./375839-irreversible.json) |
 | Irritability & Mood Swings | 195182 | [195182-irritability-and-mood-swings.json](./195182-irritability-and-mood-swings.json) |
