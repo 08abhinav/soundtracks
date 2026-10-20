@@ -10952,6 +10952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: The Breakers - Season 2 | 252642 | [252642-dragon-ball-the-breakers-season-2.json](./252642-dragon-ball-the-breakers-season-2.json) |
 | Dragon Ball: The Breakers - Season 3 | 252643 | [252643-dragon-ball-the-breakers-season-3.json](./252643-dragon-ball-the-breakers-season-3.json) |
 | Dragon Ball: The Breakers - Season 6 | 307756 | [307756-dragon-ball-the-breakers-season-6.json](./307756-dragon-ball-the-breakers-season-6.json) |
+| Dragon Ball: The Breakers - Special Edition | 210457 | [210457-dragon-ball-the-breakers-special-edition.json](./210457-dragon-ball-the-breakers-special-edition.json) |
 | Dragon Ball: Xenoverse | 7408 | [7408-dragon-ball-xenoverse.json](./7408-dragon-ball-xenoverse.json) |
 | Dragon Ball: Xenoverse - Day One Edition | 363936 | [363936-dragon-ball-xenoverse-day-one-edition.json](./363936-dragon-ball-xenoverse-day-one-edition.json) |
 | Dragon Ball: Xenoverse - GT Pack 1 | 213584 | [213584-dragon-ball-xenoverse-gt-pack-1.json](./213584-dragon-ball-xenoverse-gt-pack-1.json) |
