@@ -138,6 +138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Vie d'Emma: Infirmière de Choc | 406653 | [406653-la-vie-demma-infirmiere-de-choc.json](./406653-la-vie-demma-infirmiere-de-choc.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
+| La Villa de la Muerte | 222768 | [222768-la-villa-de-la-muerte.json](./222768-la-villa-de-la-muerte.json) |
 | La Voix | 286217 | [286217-la-voix.json](./286217-la-voix.json) |
 | La Voz | 268435 | [268435-la-voz.json](./268435-la-voz.json) |
 | La Voz Vol. 2 | 268436 | [268436-la-voz-vol-2.json](./268436-la-voz-vol-2.json) |
@@ -1865,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy: Witch Island 3 | 159768 | [159768-legacy-witch-island-3.json](./159768-legacy-witch-island-3.json) |
 | Legacy:Witch Island | 102272 | [102272-legacy-witch-island.json](./102272-legacy-witch-island.json) |
 | Legacy's Allure | 264199 | [264199-legacys-allure.json](./264199-legacys-allure.json) |
+| LegacyClonk | 222765 | [222765-legacyclonk.json](./222765-legacyclonk.json) |
 | LegacyShell | 325681 | [325681-legacyshell.json](./325681-legacyshell.json) |
 | Legaia 2: Duel Saga | 28161 | [28161-legaia-2-duel-saga.json](./28161-legaia-2-duel-saga.json) |
 | Legal Crime | 36988 | [36988-legal-crime.json](./36988-legal-crime.json) |
