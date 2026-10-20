@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Nexus: Bond Enhancement Pack 2 | 224474 | [224474-scarlet-nexus-bond-enhancement-pack-2.json](./224474-scarlet-nexus-bond-enhancement-pack-2.json) |
 | Scarlet Nexus: Brain Eater Pack 3 | 224473 | [224473-scarlet-nexus-brain-eater-pack-3.json](./224473-scarlet-nexus-brain-eater-pack-3.json) |
 | Scarlet Nexus: Deluxe Edition | 164589 | [164589-scarlet-nexus-deluxe-edition.json](./164589-scarlet-nexus-deluxe-edition.json) |
+| Scarlet Nexus: Season Pass | 225535 | [225535-scarlet-nexus-season-pass.json](./225535-scarlet-nexus-season-pass.json) |
 | Scarlet Nexus: Ultimate Edition | 188044 | [188044-scarlet-nexus-ultimate-edition.json](./188044-scarlet-nexus-ultimate-edition.json) |
 | Scarlet Prism | 413819 | [413819-scarlet-prism.json](./413819-scarlet-prism.json) |
 | Scarlet Rain | 274945 | [274945-scarlet-rain.json](./274945-scarlet-rain.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Dove | 246792 | [246792-sea-dove.json](./246792-sea-dove.json) |
 | Sea Dragon | 22767 | [22767-sea-dragon.json](./22767-sea-dragon.json) |
 | Sea Duel | 90922 | [90922-sea-duel.json](./90922-sea-duel.json) |
+| Sea Fable | 225488 | [225488-sea-fable.json](./225488-sea-fable.json) |
 | Sea Fantasy | 291825 | [291825-sea-fantasy.json](./291825-sea-fantasy.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
 | Sea Fighter Poseidon | 40409 | [40409-sea-fighter-poseidon.json](./40409-sea-fighter-poseidon.json) |
@@ -6678,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shnipers | 56484 | [56484-shnipers.json](./56484-shnipers.json) |
 | Sho Chiku Bai Pachinko | 41526 | [41526-sho-chiku-bai-pachinko.json](./41526-sho-chiku-bai-pachinko.json) |
 | Shoal | 172039 | [172039-shoal.json](./172039-shoal.json) |
+| Shoalroot | 225492 | [225492-shoalroot.json](./225492-shoalroot.json) |
 | Shobon no Action | 78662 | [78662-shobon-no-action.json](./78662-shobon-no-action.json) |
 | Shock | 287552 | [287552-shock.json](./287552-shock.json) |
 | Shock Hop | 243089 | [243089-shock-hop.json](./243089-shock-hop.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyscraper | 125335 | [125335-skyscraper.json](./125335-skyscraper.json) |
+| Skyscraper | 225486 | [225486-skyscraper.json](./225486-skyscraper.json) |
 | Skyscraper | 267990 | [267990-skyscraper.json](./267990-skyscraper.json) |
 | Skyscraper | 9422 | [9422-skyscraper.json](./9422-skyscraper.json) |
 | Skyscraper Climb VR | 90824 | [90824-skyscraper-climb-vr.json](./90824-skyscraper-climb-vr.json) |
@@ -11341,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior 3: Season Pass Edition | 82416 | [82416-sniper-ghost-warrior-3-season-pass-edition.json](./82416-sniper-ghost-warrior-3-season-pass-edition.json) |
 | Sniper Ghost Warrior Contracts | 107155 | [107155-sniper-ghost-warrior-contracts.json](./107155-sniper-ghost-warrior-contracts.json) |
 | Sniper Ghost Warrior Contracts & Sniper: Ghost Warrior 3: Unlimited Edition | 173161 | [173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json](./173161-sniper-ghost-warrior-contracts-and-sniper-ghost-warrior-3-unlimited-edition.json) |
+| Sniper Ghost Warrior Contracts 1 & 2 Double Pack | 225478 | [225478-sniper-ghost-warrior-contracts-1-and-2-double-pack.json](./225478-sniper-ghost-warrior-contracts-1-and-2-double-pack.json) |
 | Sniper Ghost Warrior Contracts 2 | 138980 | [138980-sniper-ghost-warrior-contracts-2.json](./138980-sniper-ghost-warrior-contracts-2.json) |
 | Sniper Ghost Warrior Contracts 2: Butcher's Banquet | 159362 | [159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json](./159362-sniper-ghost-warrior-contracts-2-butchers-banquet.json) |
 | Sniper Ghost Warrior Contracts 2: Complete Edition | 197352 | [197352-sniper-ghost-warrior-contracts-2-complete-edition.json](./197352-sniper-ghost-warrior-contracts-2-complete-edition.json) |
@@ -11803,6 +11808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
 | Soccer Clicker | 257874 | [257874-soccer-clicker.json](./257874-soccer-clicker.json) |
 | Soccer Club Life Playing Manager | 141514 | [141514-soccer-club-life-playing-manager.json](./141514-soccer-club-life-playing-manager.json) |
+| Soccer Club Life Retro Goal | 225507 | [225507-soccer-club-life-retro-goal.json](./225507-soccer-club-life-retro-goal.json) |
 | Soccer Club Story | 92485 | [92485-soccer-club-story.json](./92485-soccer-club-story.json) |
 | Soccer Clubs | 235998 | [235998-soccer-clubs.json](./235998-soccer-clubs.json) |
 | Soccer Cup 2022 | 227130 | [227130-soccer-cup-2022.json](./227130-soccer-cup-2022.json) |
@@ -22179,6 +22185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
 | Sugarlawn | 209610 | [209610-sugarlawn.json](./209610-sugarlawn.json) |
+| SugarStellar | 225532 | [225532-sugarstellar.json](./225532-sugarstellar.json) |
 | Sugary Delight | 234619 | [234619-sugary-delight.json](./234619-sugary-delight.json) |
 | Sugary Shifter | 314055 | [314055-sugary-shifter.json](./314055-sugary-shifter.json) |
 | Sugary Spire: Exhibition Night | 349966 | [349966-sugary-spire-exhibition-night.json](./349966-sugary-spire-exhibition-night.json) |
