@@ -394,6 +394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
 | Backgammon Reloaded 3D | 93821 | [93821-backgammon-reloaded-3d.json](./93821-backgammon-reloaded-3d.json) |
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
+| Backgammon: Board Game Puzzle | 221587 | [221587-backgammon-board-game-puzzle.json](./221587-backgammon-board-game-puzzle.json) |
 | Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Hishou-hen Uragiri no Senjou | 45425 | [45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json](./45425-backguiner-yomigaeru-yuusha-tachi-hishou-hen-uragiri-no-senjou.json) |
 | BackGuiner: Yomigaeru Yuusha-tachi - Kakusei-hen Guiner Tensei | 45424 | [45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json](./45424-backguiner-yomigaeru-yuusha-tachi-kakusei-hen-guiner-tensei.json) |
@@ -12513,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
 | Buddy Bug | 335359 | [335359-buddy-bug.json](./335359-buddy-bug.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
+| Buddy Collection Extra: Kochousou no Kimyou na Go-nin | 222201 | [222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json](./222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
