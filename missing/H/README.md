@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Operation Infinite | 381718 | [381718-halo-infinite-operation-infinite.json](./381718-halo-infinite-operation-infinite.json) |
 | Halo Infinite: Season 2 - Lone Wolves | 196656 | [196656-halo-infinite-season-2-lone-wolves.json](./196656-halo-infinite-season-2-lone-wolves.json) |
 | Halo Infinite: Season 4 - Infection | 250295 | [250295-halo-infinite-season-4-infection.json](./250295-halo-infinite-season-4-infection.json) |
+| Halo Infinite: Winter Update | 225485 | [225485-halo-infinite-winter-update.json](./225485-halo-infinite-winter-update.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
 | Halo Online | 60459 | [60459-halo-online.json](./60459-halo-online.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
@@ -3393,6 +3394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Neighbor Pre-Alpha | 403841 | [403841-hello-neighbor-pre-alpha.json](./403841-hello-neighbor-pre-alpha.json) |
 | Hello Neighbor Prototype | 278054 | [278054-hello-neighbor-prototype.json](./278054-hello-neighbor-prototype.json) |
 | Hello Neighbor: Hide and Seek | 107614 | [107614-hello-neighbor-hide-and-seek.json](./107614-hello-neighbor-hide-and-seek.json) |
+| Hello Neighbor: Search and Rescue | 225534 | [225534-hello-neighbor-search-and-rescue.json](./225534-hello-neighbor-search-and-rescue.json) |
 | Hello Neighbor: Vintage | 403456 | [403456-hello-neighbor-vintage.json](./403456-hello-neighbor-vintage.json) |
 | Hello New World | 283851 | [283851-hello-new-world.json](./283851-hello-new-world.json) |
 | Hello Next Scary Neighbor Home | 103929 | [103929-hello-next-scary-neighbor-home.json](./103929-hello-next-scary-neighbor-home.json) |
@@ -8190,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder | 133448 | [133448-house-builder.json](./133448-house-builder.json) |
+| House Builder & Thief Simulator | 225479 | [225479-house-builder-and-thief-simulator.json](./225479-house-builder-and-thief-simulator.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
@@ -9301,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyparxis | 169793 | [169793-hyparxis.json](./169793-hyparxis.json) |
 | Hypastorm | 254692 | [254692-hypastorm.json](./254692-hypastorm.json) |
 | Hypatia | 407344 | [407344-hypatia.json](./407344-hypatia.json) |
+| Hype Prototype | 225520 | [225520-hype-prototype.json](./225520-hype-prototype.json) |
 | Hype: The Time Quest | 259642 | [259642-hype-the-time-quest.json](./259642-hype-the-time-quest.json) |
 | HypeHype | 369889 | [369889-hypehype.json](./369889-hypehype.json) |
 | Hyper 2 | 319354 | [319354-hyper-2.json](./319354-hyper-2.json) |
