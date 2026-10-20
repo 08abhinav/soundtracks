@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quical | 129661 | [129661-quical.json](./129661-quical.json) |
 | Quicar | 307264 | [307264-quicar.json](./307264-quicar.json) |
 | Quichotte’s Never-Ending Watch: A Lofi Companion | 360722 | [360722-quichotte-s-never-ending-watch-a-lofi-companion.json](./360722-quichotte-s-never-ending-watch-a-lofi-companion.json) |
+| Quick Brain | 238915 | [238915-quick-brain.json](./238915-quick-brain.json) |
 | Quick Brain Letter Hunt | 394561 | [394561-quick-brain-letter-hunt.json](./394561-quick-brain-letter-hunt.json) |
 | Quick Brain: Number Hunt | 394562 | [394562-quick-brain-number-hunt.json](./394562-quick-brain-number-hunt.json) |
 | Quick Brown | 393982 | [393982-quick-brown.json](./393982-quick-brown.json) |
