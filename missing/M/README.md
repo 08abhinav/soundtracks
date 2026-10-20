@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Saga | 235292 | [235292-mage-saga.json](./235292-mage-saga.json) |
 | Mage Supreme | 124558 | [124558-mage-supreme.json](./124558-mage-supreme.json) |
 | Mage Tower | 187191 | [187191-mage-tower.json](./187191-mage-tower.json) |
+| Mage Tower, A Tower Defense Card Game | 246803 | [246803-mage-tower-a-tower-defense-card-game.json](./246803-mage-tower-a-tower-defense-card-game.json) |
 | Mage VR -Mini Version- | 114344 | [114344-mage-vr-mini-version.json](./114344-mage-vr-mini-version.json) |
 | Mage VR: The Lost Memories | 115619 | [115619-mage-vr-the-lost-memories.json](./115619-mage-vr-the-lost-memories.json) |
 | Mage vs. Castle | 301819 | [301819-mage-vs-castle.json](./301819-mage-vs-castle.json) |
@@ -4903,6 +4904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatbound | 381309 | [381309-meatbound.json](./381309-meatbound.json) |
 | Meatdoll Dressup | 408924 | [408924-meatdoll-dressup.json](./408924-meatdoll-dressup.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
+| Meatgun | 246804 | [246804-meatgun.json](./246804-meatgun.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatlymakes | 80389 | [80389-meatlymakes.json](./80389-meatlymakes.json) |
@@ -4936,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech League Boxing | 36521 | [36521-mech-league-boxing.json](./36521-mech-league-boxing.json) |
 | Mech League Hunting | 87952 | [87952-mech-league-hunting.json](./87952-mech-league-hunting.json) |
 | Mech Marines: Steel March | 36112 | [36112-mech-marines-steel-march.json](./36112-mech-marines-steel-march.json) |
+| Mech Mastery | 246805 | [246805-mech-mastery.json](./246805-mech-mastery.json) |
 | Mech Merc Company | 121498 | [121498-mech-merc-company.json](./121498-mech-merc-company.json) |
 | Mech My Day | 392861 | [392861-mech-my-day.json](./392861-mech-my-day.json) |
 | Mech n' Parcel | 135831 | [135831-mech-n-parcel.json](./135831-mech-n-parcel.json) |
@@ -8852,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimicry! | 376827 | [376827-mimicry.json](./376827-mimicry.json) |
 | Mimics | 176438 | [176438-mimics.json](./176438-mimics.json) |
 | Mimics the Bots | 238514 | [238514-mimics-the-bots.json](./238514-mimics-the-bots.json) |
+| MimiK | 246806 | [246806-mimik.json](./246806-mimik.json) |
 | MiMiMi | 256984 | [256984-mimimi.json](./256984-mimimi.json) |
 | Mimimishka | 286404 | [286404-mimimishka.json](./286404-mimimishka.json) |
 | Mimir's Recruit | 166822 | [166822-mimirs-recruit.json](./166822-mimirs-recruit.json) |
@@ -14324,6 +14328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder by Choice: Mystery Game | 266265 | [266265-murder-by-choice-mystery-game.json](./266265-murder-by-choice-mystery-game.json) |
 | Murder by Moonlight 2: Crimson Night | 193501 | [193501-murder-by-moonlight-2-crimson-night.json](./193501-murder-by-moonlight-2-crimson-night.json) |
 | Murder by the Dozen | 23972 | [23972-murder-by-the-dozen.json](./23972-murder-by-the-dozen.json) |
+| Murder Cases | 246808 | [246808-murder-cases.json](./246808-murder-cases.json) |
 | Murder Castle | 405716 | [405716-murder-castle.json](./405716-murder-castle.json) |
 | Murder Club | 320844 | [320844-murder-club.json](./320844-murder-club.json) |
 | Murder Club | 48815 | [48815-murder-club.json](./48815-murder-club.json) |
@@ -14545,6 +14550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Pancakes | 321538 | [321538-mushroom-pancakes.json](./321538-mushroom-pancakes.json) |
 | Mushroom Path | 261837 | [261837-mushroom-path.json](./261837-mushroom-path.json) |
 | Mushroom Picker Simulator | 149045 | [149045-mushroom-picker-simulator.json](./149045-mushroom-picker-simulator.json) |
+| Mushroom Pin | 246807 | [246807-mushroom-pin.json](./246807-mushroom-pin.json) |
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
@@ -16247,6 +16253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ark: Maboroshi Gekijo | 67326 | [67326-mystic-ark-maboroshi-gekijo.json](./67326-mystic-ark-maboroshi-gekijo.json) |
 | Mystic Balloon | 280890 | [280890-mystic-balloon.json](./280890-mystic-balloon.json) |
 | Mystic Balloon | 339688 | [339688-mystic-balloon.json](./339688-mystic-balloon.json) |
+| Mystic Blast | 246809 | [246809-mystic-blast.json](./246809-mystic-blast.json) |
 | Mystic Cards | 190058 | [190058-mystic-cards.json](./190058-mystic-cards.json) |
 | Mystic Chronicles | 10945 | [10945-mystic-chronicles.json](./10945-mystic-chronicles.json) |
 | Mystic Cleaver | 344334 | [344334-mystic-cleaver.json](./344334-mystic-cleaver.json) |
