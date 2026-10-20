@@ -4250,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Simulator 3: Goat in a Box Edition | 212874 | [212874-goat-simulator-3-goat-in-a-box-edition.json](./212874-goat-simulator-3-goat-in-a-box-edition.json) |
 | Goat Simulator 3: Multiversal Traveler's Edition | 306488 | [306488-goat-simulator-3-multiversal-travelers-edition.json](./306488-goat-simulator-3-multiversal-travelers-edition.json) |
 | Goat Simulator 3: Multiverse of Nonsense | 305106 | [305106-goat-simulator-3-multiverse-of-nonsense.json](./305106-goat-simulator-3-multiverse-of-nonsense.json) |
+| Goat Simulator 3: Pre-Udder Edition | 204913 | [204913-goat-simulator-3-pre-udder-edition.json](./204913-goat-simulator-3-pre-udder-edition.json) |
 | Goat Simulator MMO Simulator | 88922 | [88922-goat-simulator-mmo-simulator.json](./88922-goat-simulator-mmo-simulator.json) |
 | Goat Simulator Waste of Space | 369590 | [369590-goat-simulator-waste-of-space.json](./369590-goat-simulator-waste-of-space.json) |
 | Goat Simulator: Nightmare Edition | 207116 | [207116-goat-simulator-nightmare-edition.json](./207116-goat-simulator-nightmare-edition.json) |
