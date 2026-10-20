@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.X.E. Slider: Dungeons | 311617 | [311617-s-x-e-slider-dungeons.json](./311617-s-x-e-slider-dungeons.json) |
 | S'More Words | 421371 | [421371-smore-words.json](./421371-smore-words.json) |
 | S&box | 142355 | [142355-s-and-box.json](./142355-s-and-box.json) |
+| S&M: FL | 214373 | [214373-s-and-m-fl.json](./214373-s-and-m-fl.json) |
 | S&T: Medieval Wars | 239107 | [239107-s-and-t-medieval-wars.json](./239107-s-and-t-medieval-wars.json) |
 | S&T: Medieval Wars Deluxe | 197716 | [197716-s-and-t-medieval-wars-deluxe.json](./197716-s-and-t-medieval-wars-deluxe.json) |
 | S0 | 129633 | [129633-s0.json](./129633-s0.json) |
@@ -188,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabotris | 207293 | [207293-sabotris.json](./207293-sabotris.json) |
 | Sabre Team | 12757 | [12757-sabre-team.json](./12757-sabre-team.json) |
 | Sabre VR | 122913 | [122913-sabre-vr.json](./122913-sabre-vr.json) |
+| Sabre Wulf | 214351 | [214351-sabre-wulf.json](./214351-sabre-wulf.json) |
 | Sabre Wulf | 6582 | [6582-sabre-wulf.json](./6582-sabre-wulf.json) |
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
@@ -2153,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
 | Scavenger | 74443 | [74443-scavenger.json](./74443-scavenger.json) |
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
+| Scavenger Hunt | 214335 | [214335-scavenger-hunt.json](./214335-scavenger-hunt.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
 | Scavenger of Dunomini | 185952 | [185952-scavenger-of-dunomini.json](./185952-scavenger-of-dunomini.json) |
@@ -8733,6 +8736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head Dating Sim | 177958 | [177958-siren-head-dating-sim.json](./177958-siren-head-dating-sim.json) |
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
+| Siren Head: Remastered | 214336 | [214336-siren-head-remastered.json](./214336-siren-head-remastered.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
@@ -9411,6 +9415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Gamblers - Infinite Jets | 86688 | [86688-sky-gamblers-infinite-jets.json](./86688-sky-gamblers-infinite-jets.json) |
 | Sky Gamblers Races | 106362 | [106362-sky-gamblers-races.json](./106362-sky-gamblers-races.json) |
 | Sky Gamblers: Afterburner | 115109 | [115109-sky-gamblers-afterburner.json](./115109-sky-gamblers-afterburner.json) |
+| Sky Gamblers: Rise of Glory | 214341 | [214341-sky-gamblers-rise-of-glory.json](./214341-sky-gamblers-rise-of-glory.json) |
 | Sky Gamblers: Storm Raiders | 17497 | [17497-sky-gamblers-storm-raiders.json](./17497-sky-gamblers-storm-raiders.json) |
 | Sky Games | 186571 | [186571-sky-games.json](./186571-sky-games.json) |
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
@@ -13914,6 +13919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Guardians | 238645 | [238645-soul-guardians.json](./238645-soul-guardians.json) |
 | Soul Guardians: Age of Midgard | 39177 | [39177-soul-guardians-age-of-midgard.json](./39177-soul-guardians-age-of-midgard.json) |
 | Soul Hackers 2 | 228334 | [228334-soul-hackers-2.json](./228334-soul-hackers-2.json) |
+| Soul Hackers 2: Bonus Story Arc - The Lost Numbers | 214346 | [214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json](./214346-soul-hackers-2-bonus-story-arc-the-lost-numbers.json) |
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
@@ -18396,6 +18402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
+| Star Trigger | 214342 | [214342-star-trigger.json](./214342-star-trigger.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
 | Star Troopers: Combat Force | 411568 | [411568-star-troopers-combat-force.json](./411568-star-troopers-combat-force.json) |
@@ -19332,6 +19339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War | 94231 | [94231-state-of-war.json](./94231-state-of-war.json) |
 | State of War 2: Arcon | 64986 | [64986-state-of-war-2-arcon.json](./64986-state-of-war-2-arcon.json) |
 | State of War: Warmonger | 71217 | [71217-state-of-war-warmonger.json](./71217-state-of-war-warmonger.json) |
+| State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
