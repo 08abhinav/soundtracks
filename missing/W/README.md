@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War in Russia | 24916 | [24916-war-in-russia.json](./24916-war-in-russia.json) |
 | War in Space | 111010 | [111010-war-in-space.json](./111010-war-in-space.json) |
 | War in Spain 1936-39 | 388197 | [388197-war-in-spain-1936-39.json](./388197-war-in-spain-1936-39.json) |
+| War in the Caverns | 227722 | [227722-war-in-the-caverns.json](./227722-war-in-the-caverns.json) |
 | War in the Gulf | 80823 | [80823-war-in-the-gulf.json](./80823-war-in-the-gulf.json) |
 | War in the Pacific | 27643 | [27643-war-in-the-pacific.json](./27643-war-in-the-pacific.json) |
 | War in the Pacific: Admiral's Edition | 129538 | [129538-war-in-the-pacific-admirals-edition.json](./129538-war-in-the-pacific-admirals-edition.json) |
@@ -1067,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Chaos Gate - Daemonhunters | 152266 | [152266-warhammer-40-000-chaos-gate-daemonhunters.json](./152266-warhammer-40-000-chaos-gate-daemonhunters.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
+| Warhammer 40,000: Chaos Gate - Daemonhunters: Duty Eternal | 227669 | [227669-warhammer-40-000-chaos-gate-daemonhunters-duty-eternal.json](./227669-warhammer-40-000-chaos-gate-daemonhunters-duty-eternal.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Execution Force | 257226 | [257226-warhammer-40-000-chaos-gate-daemonhunters-execution-force.json](./257226-warhammer-40-000-chaos-gate-daemonhunters-execution-force.json) |
 | Warhammer 40,000: Chaos Gate - Deathwatch | 402517 | [402517-warhammer-40-000-chaos-gate-deathwatch.json](./402517-warhammer-40-000-chaos-gate-deathwatch.json) |
 | Warhammer 40,000: Dakka Squadron | 143650 | [143650-warhammer-40-000-dakka-squadron.json](./143650-warhammer-40-000-dakka-squadron.json) |
