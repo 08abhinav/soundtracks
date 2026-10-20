@@ -1612,6 +1612,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/b9/78/76b97813-cc96-c825-8999-c7bf738fa9aa/3616552673899.jpg/600x600bb.jpg" width="60" /> | [The Medium](https://ostdb.net/games/the-medium) | **The Medium (Original Game Soundtrack)** · [Spotify](https://music.apple.com/us/album/the-medium-original-game-soundtrack/1746308052?uo=4) · [Album](https://album.link/i/1746308052) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c0cfbbe4f1a88ce0cb04e17" width="60" /> | [The Messenger: Picnic Panic](https://ostdb.net/games/the-messenger-picnic-panic) | **The Messenger: Picnic Panic (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/5aMlVm7oZrLHZcoShD7vu5) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f4dcde04007fa5cf03b9effb" width="60" /> | [The Midnight Walk](https://ostdb.net/games/the-midnight-walk) | **The Midnight Walk (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/137eY5Pe8DpnI9V3CRONM0) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273387830487cb6050d479d9b4a" width="60" /> | [The Mighty Quest for Epic Loot](https://ostdb.net/games/the-mighty-quest-for-epic-loot) | **The Mighty Quest for Epic Loot (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/73fjTSI7KOkMhAZRYcEiAI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f054228b2de7b9621aabac11" width="60" /> | [The Mummy: Demastered](https://ostdb.net/games/the-mummy-demastered) | **The Mummy Demastered (Original Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2vjurMsiRtFg7zzpB68yZ7) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2737fc9e5958e470e3aadfee468" width="60" /> | [The Night of the Rabbit](https://ostdb.net/games/the-night-of-the-rabbit) | **The Night Of The Rabbit (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/4oI9WL5jT90gNx4VfZjccv) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/2f/53/742f5353-69db-472f-2a21-52afcff54d45/7300349645881.jpg/1000x1000bb.jpg" width="60" /> | [The Occultist](https://ostdb.net/games/the-occultist) | **The Occultist (Original Video Game Soundtrack)** · [Apple Music](https://music.apple.com/us/album/the-occultist-original-video-game-soundtrack/1892042305?uo=4) · [Album](https://album.link/i/1892042305) |
@@ -1900,4 +1901,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2217 soundtracks · last updated 2026-10-20T10:51:52.944Z_
+_2218 soundtracks · last updated 2026-10-20T10:52:08.008Z_
