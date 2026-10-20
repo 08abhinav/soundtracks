@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maginet | 258932 | [258932-maginet.json](./258932-maginet.json) |
 | Magink | 125877 | [125877-magink.json](./125877-magink.json) |
 | Magiopolis | 277048 | [277048-magiopolis.json](./277048-magiopolis.json) |
+| Magipanels | 218923 | [218923-magipanels.json](./218923-magipanels.json) |
 | Magirune 2 | 197178 | [197178-magirune-2.json](./197178-magirune-2.json) |
 | Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
@@ -1786,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major Hoof | 386556 | [386556-major-hoof.json](./386556-major-hoof.json) |
 | Major League | 199645 | [199645-major-league.json](./199645-major-league.json) |
 | Major League | 58739 | [58739-major-league.json](./58739-major-league.json) |
+| Major League Baseball | 218908 | [218908-major-league-baseball.json](./218908-major-league-baseball.json) |
 | Major League Baseball | 347008 | [347008-major-league-baseball.json](./347008-major-league-baseball.json) |
 | Major League Baseball | 80424 | [80424-major-league-baseball.json](./80424-major-league-baseball.json) |
 | Major League Baseball 2K10 | 4991 | [4991-major-league-baseball-2k10.json](./4991-major-league-baseball-2k10.json) |
@@ -4857,6 +4859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | McDonald's Fairies: Rose | 254794 | [254794-mcdonalds-fairies-rose.json](./254794-mcdonalds-fairies-rose.json) |
 | McDonald's Original: Happy Disc | 242061 | [242061-mcdonalds-original-happy-disc.json](./242061-mcdonalds-original-happy-disc.json) |
 | McDonald's Treasure Land Adventure | 36923 | [36923-mcdonalds-treasure-land-adventure.json](./36923-mcdonalds-treasure-land-adventure.json) |
+| McDonald's Work Challenge | 218936 | [218936-mcdonalds-work-challenge.json](./218936-mcdonalds-work-challenge.json) |
 | McDonaldland | 15261 | [15261-mcdonaldland.json](./15261-mcdonaldland.json) |
 | McDonaldland | 285031 | [285031-mcdonaldland.json](./285031-mcdonaldland.json) |
 | McDoomguy's Slaughterific Sample Platter | 307814 | [307814-mcdoomguys-slaughterific-sample-platter.json](./307814-mcdoomguys-slaughterific-sample-platter.json) |
