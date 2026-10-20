@@ -1243,7 +1243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Nation | 48201 | [48201-zombie-nation.json](./48201-zombie-nation.json) |
 | Zombie Night | 276140 | [276140-zombie-night.json](./276140-zombie-night.json) |
 | Zombie Night Defense | 300829 | [300829-zombie-night-defense.json](./300829-zombie-night-defense.json) |
-| Zombie Night Terror | 9546 | [9546-zombie-night-terror.json](./9546-zombie-night-terror.json) |
 | Zombie Night Terror: Collector's Edition | 194408 | [194408-zombie-night-terror-collectors-edition.json](./194408-zombie-night-terror-collectors-edition.json) |
 | Zombie Night Terror: Deluxe Edition | 194409 | [194409-zombie-night-terror-deluxe-edition.json](./194409-zombie-night-terror-deluxe-edition.json) |
 | Zombie Night Terror: Special Edition | 52106 | [52106-zombie-night-terror-special-edition.json](./52106-zombie-night-terror-special-edition.json) |
