@@ -4767,6 +4767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Potion | 221427 | [221427-witch-potion.json](./221427-witch-potion.json) |
 | Witch Ring Meister | 116867 | [116867-witch-ring-meister.json](./116867-witch-ring-meister.json) |
 | Witch Rise | 235633 | [235633-witch-rise.json](./235633-witch-rise.json) |
+| Witch Rush | 228281 | [228281-witch-rush.json](./228281-witch-rush.json) |
 | Witch Sacrifice | 192887 | [192887-witch-sacrifice.json](./192887-witch-sacrifice.json) |
 | Witch Schools: Love Potions | 215655 | [215655-witch-schools-love-potions.json](./215655-witch-schools-love-potions.json) |
 | Witch Sequencer | 185698 | [185698-witch-sequencer.json](./185698-witch-sequencer.json) |
