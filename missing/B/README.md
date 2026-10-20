@@ -10736,6 +10736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Box on Physics Truck | 102109 | [102109-brain-box-on-physics-truck.json](./102109-brain-box-on-physics-truck.json) |
 | Brain Box Quiz: Trivia Fun | 232471 | [232471-brain-box-quiz-trivia-fun.json](./232471-brain-box-quiz-trivia-fun.json) |
 | Brain Break | 141100 | [141100-brain-break.json](./141100-brain-break.json) |
+| Brain Cell | 237206 | [237206-brain-cell.json](./237206-brain-cell.json) |
 | Brain Challenge | 7281 | [7281-brain-challenge.json](./7281-brain-challenge.json) |
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
