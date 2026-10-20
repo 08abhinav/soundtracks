@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:37:25.440Z",
-  "total_soundtracks": 2253,
+  "generated_at": "2026-10-20T21:37:36.109Z",
+  "total_soundtracks": 2254,
   "games": [
     {
       "igdb_id": 7522,
@@ -13419,6 +13419,20 @@
         {
           "album_name": "LocoRoco Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2viinzlDkAeC3KprABzu4M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152196,
+      "game_name": "Loddlenaut",
+      "game_url": "https://ostdb.net/games/loddlenaut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738505f4827241b2f41ed69786",
+      "albums": [
+        {
+          "album_name": "Loddlenaut (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3HP55FmPitKADIpg52TO4x",
           "apple_music_url": "",
           "album_link_url": ""
         }
