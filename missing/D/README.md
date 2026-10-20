@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-War | 252133 | [252133-d-war.json](./252133-d-war.json) |
 | D-World Gate | 247881 | [247881-d-world-gate.json](./247881-d-world-gate.json) |
 | D-Xhird | 46668 | [46668-d-xhird.json](./46668-d-xhird.json) |
+| D!Zone | 207119 | [207119-d-zone.json](./207119-d-zone.json) |
 | D. D. Crew | 39864 | [39864-d-d-crew.json](./39864-d-d-crew.json) |
 | D. Jump | 91952 | [91952-d-jump.json](./91952-d-jump.json) |
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
@@ -856,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DanMachi Battle Chronicle | 263485 | [263485-danmachi-battle-chronicle.json](./263485-danmachi-battle-chronicle.json) |
 | DanMachi: Memoria Freese | 47158 | [47158-danmachi-memoria-freese.json](./47158-danmachi-memoria-freese.json) |
 | Danmakai: Red Forbidden Fruit | 140040 | [140040-danmakai-red-forbidden-fruit.json](./140040-danmakai-red-forbidden-fruit.json) |
+| Danmaku Amanojaku: Gold Rush | 207156 | [207156-danmaku-amanojaku-gold-rush.json](./207156-danmaku-amanojaku-gold-rush.json) |
 | Danmaku Juuenka: Danmaku Card Battle | 215365 | [215365-danmaku-juuenka-danmaku-card-battle.json](./215365-danmaku-juuenka-danmaku-card-battle.json) |
 | Danmaku Kentei Shiken: DaiOuJou-hen | 296056 | [296056-danmaku-kentei-shiken-daioujou-hen.json](./296056-danmaku-kentei-shiken-daioujou-hen.json) |
 | Danmaku Kentei Shiken: Ketsui-hen | 297535 | [297535-danmaku-kentei-shiken-ketsui-hen.json](./297535-danmaku-kentei-shiken-ketsui-hen.json) |
@@ -12168,6 +12170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamwalker | 271150 | [271150-dreamwalker.json](./271150-dreamwalker.json) |
 | Dreamwalker | 333021 | [333021-dreamwalker.json](./333021-dreamwalker.json) |
 | Dreamwalker: Never Fall Asleep | 110915 | [110915-dreamwalker-never-fall-asleep.json](./110915-dreamwalker-never-fall-asleep.json) |
+| Dreamward | 207181 | [207181-dreamward.json](./207181-dreamward.json) |
 | DreamWatcher | 145430 | [145430-dreamwatcher.json](./145430-dreamwatcher.json) |
 | Dreamwater | 252385 | [252385-dreamwater.json](./252385-dreamwater.json) |
 | Dreamweb | 2489 | [2489-dreamweb.json](./2489-dreamweb.json) |
