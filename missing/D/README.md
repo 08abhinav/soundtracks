@@ -11989,6 +11989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamCatcher | 312588 | [312588-dreamcatcher.json](./312588-dreamcatcher.json) |
 | Dreamcatcher 2003 | 365237 | [365237-dreamcatcher-2003.json](./365237-dreamcatcher-2003.json) |
 | DreamCatcher: Reflections - Volume 1 | 154972 | [154972-dreamcatcher-reflections-volume-1.json](./154972-dreamcatcher-reflections-volume-1.json) |
+| DreamCell: Lost in Nightmares | 211601 | [211601-dreamcell-lost-in-nightmares.json](./211601-dreamcell-lost-in-nightmares.json) |
 | Dreamcore: Playrooms | 347846 | [347846-dreamcore-playrooms.json](./347846-dreamcore-playrooms.json) |
 | Dreamcore95 Idle | 322138 | [322138-dreamcore95-idle.json](./322138-dreamcore95-idle.json) |
 | Dreamcutter: Steelbook Limited Edition | 300476 | [300476-dreamcutter-steelbook-limited-edition.json](./300476-dreamcutter-steelbook-limited-edition.json) |
@@ -13915,6 +13916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Shalnor | 187480 | [187480-dungeons-of-shalnor.json](./187480-dungeons-of-shalnor.json) |
 | Dungeons of Sundaria | 208473 | [208473-dungeons-of-sundaria.json](./208473-dungeons-of-sundaria.json) |
 | Dungeons of Tal'Doria | 79362 | [79362-dungeons-of-taldoria.json](./79362-dungeons-of-taldoria.json) |
+| Dungeons of the Amber Griffin | 211587 | [211587-dungeons-of-the-amber-griffin.json](./211587-dungeons-of-the-amber-griffin.json) |
 | Dungeons of the dead | 96639 | [96639-dungeons-of-the-dead.json](./96639-dungeons-of-the-dead.json) |
 | Dungeons of the Fallen | 105025 | [105025-dungeons-of-the-fallen.json](./105025-dungeons-of-the-fallen.json) |
 | Dungeons of Voidria | 153941 | [153941-dungeons-of-voidria.json](./153941-dungeons-of-voidria.json) |
