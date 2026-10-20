@@ -6291,6 +6291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
 | Birdie Up | 334084 | [334084-birdie-up.json](./334084-birdie-up.json) |
+| Birdie Wing: Golf Girls' Story | 244074 | [244074-birdie-wing-golf-girls-story.json](./244074-birdie-wing-golf-girls-story.json) |
 | Birdigo | 333909 | [333909-birdigo.json](./333909-birdigo.json) |
 | Birding 101 | 185424 | [185424-birding-101.json](./185424-birding-101.json) |
 | Birding Simulator | 191654 | [191654-birding-simulator.json](./191654-birding-simulator.json) |
