@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E008 | 153129 | [153129-e008.json](./153129-e008.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
 | E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
+| E3pdr | 249017 | [249017-e3pdr.json](./249017-e3pdr.json) |
 | E4C: Final Salvation | 328459 | [328459-e4c-final-salvation.json](./328459-e4c-final-salvation.json) |
 | E4M1 remake | 308277 | [308277-e4m1-remake.json](./308277-e4m1-remake.json) |
 | E6 Connect | 142714 | [142714-e6-connect.json](./142714-e6-connect.json) |
