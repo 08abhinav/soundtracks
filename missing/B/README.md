@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
 | Beatmania IIDX 29 CastHour | 163564 | [163564-beatmania-iidx-29-casthour.json](./163564-beatmania-iidx-29-casthour.json) |
 | Beatmania IIDX 2nd style | 94021 | [94021-beatmania-iidx-2nd-style.json](./94021-beatmania-iidx-2nd-style.json) |
+| Beatmania IIDX 30 Resident | 212655 | [212655-beatmania-iidx-30-resident.json](./212655-beatmania-iidx-30-resident.json) |
 | Beatmania IIDX 31 Epolis | 258714 | [258714-beatmania-iidx-31-epolis.json](./258714-beatmania-iidx-31-epolis.json) |
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
@@ -8937,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlueTricks | 237087 | [237087-bluetricks.json](./237087-bluetricks.json) |
 | Bluevolution | 149419 | [149419-bluevolution.json](./149419-bluevolution.json) |
 | Bluewater: Private Military Operations VR | 190066 | [190066-bluewater-private-military-operations-vr.json](./190066-bluewater-private-military-operations-vr.json) |
+| Bluey Shortcut Running Game | 212636 | [212636-bluey-shortcut-running-game.json](./212636-bluey-shortcut-running-game.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
 | Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
