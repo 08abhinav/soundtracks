@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | July 4th, 1976 | 348976 | [348976-july-4th-1976.json](./348976-july-4th-1976.json) |
 | July the Lost Child | 109699 | [109699-july-the-lost-child.json](./109699-july-the-lost-child.json) |
 | Jumala | 23829 | [23829-jumala.json](./23829-jumala.json) |
+| Jumanji | 218346 | [218346-jumanji.json](./218346-jumanji.json) |
 | Jumanji | 70577 | [70577-jumanji.json](./70577-jumanji.json) |
 | Jumanji | 70578 | [70578-jumanji.json](./70578-jumanji.json) |
 | Jumanji: A Jungle Adventure Game Pack | 210003 | [210003-jumanji-a-jungle-adventure-game-pack.json](./210003-jumanji-a-jungle-adventure-game-pack.json) |
