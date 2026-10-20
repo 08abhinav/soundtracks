@@ -10821,6 +10821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copter Capers | 261990 | [261990-copter-capers.json](./261990-copter-capers.json) |
 | Copter Cove | 353980 | [353980-copter-cove.json](./353980-copter-cove.json) |
 | Copter Crisis | 51123 | [51123-copter-crisis.json](./51123-copter-crisis.json) |
+| Copter Strike VR | 240628 | [240628-copter-strike-vr.json](./240628-copter-strike-vr.json) |
 | Copts & Robbers | 59766 | [59766-copts-and-robbers.json](./59766-copts-and-robbers.json) |
 | Copy Cats | 407162 | [407162-copy-cats.json](./407162-copy-cats.json) |
 | Copy Editor | 142730 | [142730-copy-editor.json](./142730-copy-editor.json) |
@@ -10924,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cork the Volcano | 132776 | [132776-cork-the-volcano.json](./132776-cork-the-volcano.json) |
 | Cork the Volcano for Puzzlets | 96718 | [96718-cork-the-volcano-for-puzzlets.json](./96718-cork-the-volcano-for-puzzlets.json) |
 | Corked | 273373 | [273373-corked.json](./273373-corked.json) |
+| Corlero | 240668 | [240668-corlero.json](./240668-corlero.json) |
 | Corn Buster | 42565 | [42565-corn-buster.json](./42565-corn-buster.json) |
 | Corn Kidz 64 | 266118 | [266118-corn-kidz-64.json](./266118-corn-kidz-64.json) |
 | Corn Maze | 54893 | [54893-corn-maze.json](./54893-corn-maze.json) |
@@ -11196,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Gunslinger: Alien Outlaws | 274572 | [274572-cosmic-gunslinger-alien-outlaws.json](./274572-cosmic-gunslinger-alien-outlaws.json) |
 | Cosmic High Schooler | 358510 | [358510-cosmic-high-schooler.json](./358510-cosmic-high-schooler.json) |
 | Cosmic Highway | 63834 | [63834-cosmic-highway.json](./63834-cosmic-highway.json) |
+| Cosmic Holes | 240649 | [240649-cosmic-holes.json](./240649-cosmic-holes.json) |
 | Cosmic Holidays | 244602 | [244602-cosmic-holidays.json](./244602-cosmic-holidays.json) |
 | Cosmic Horizon - Icosahedron Video Game Puzzle | 76715 | [76715-cosmic-horizon-icosahedron-video-game-puzzle.json](./76715-cosmic-horizon-icosahedron-video-game-puzzle.json) |
 | Cosmic Horizon - World First 3D Game Puzzle Ever | 76717 | [76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json](./76717-cosmic-horizon-world-first-3d-game-puzzle-ever.json) |
@@ -13949,6 +13952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Garden | 386998 | [386998-crystal-garden.json](./386998-crystal-garden.json) |
 | Crystal Guard TD | 291368 | [291368-crystal-guard-td.json](./291368-crystal-guard-td.json) |
 | Crystal Guardian | 296668 | [296668-crystal-guardian.json](./296668-crystal-guardian.json) |
+| Crystal Guardians | 240672 | [240672-crystal-guardians.json](./240672-crystal-guardians.json) |
 | Crystal Guardians | 316058 | [316058-crystal-guardians.json](./316058-crystal-guardians.json) |
 | Crystal Hammer | 15921 | [15921-crystal-hammer.json](./15921-crystal-hammer.json) |
 | Crystal Hearts 2: Compass of Dimension | 174729 | [174729-crystal-hearts-2-compass-of-dimension.json](./174729-crystal-hearts-2-compass-of-dimension.json) |
