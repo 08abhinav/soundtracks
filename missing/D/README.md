@@ -2962,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
+| Deadly Delivery | 252005 | [252005-deadly-delivery.json](./252005-deadly-delivery.json) |
 | Deadly Delivery | 344162 | [344162-deadly-delivery.json](./344162-deadly-delivery.json) |
 | Deadly Delivery | 99499 | [99499-deadly-delivery.json](./99499-deadly-delivery.json) |
 | Deadly Delivery: Goldmoon Update | 400668 | [400668-deadly-delivery-goldmoon-update.json](./400668-deadly-delivery-goldmoon-update.json) |
@@ -12733,6 +12734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
 | Dubai Drift 2 | 120236 | [120236-dubai-drift-2.json](./120236-dubai-drift-2.json) |
+| Dubai Simulator | 252004 | [252004-dubai-simulator.json](./252004-dubai-simulator.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
 | Dubbelmoral | 72606 | [72606-dubbelmoral.json](./72606-dubbelmoral.json) |
 | Dubbing Time | 156623 | [156623-dubbing-time.json](./156623-dubbing-time.json) |
@@ -13736,6 +13738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
+| Dunk Dunk | 251983 | [251983-dunk-dunk.json](./251983-dunk-dunk.json) |
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
 | Dunk Hot | 91144 | [91144-dunk-hot.json](./91144-dunk-hot.json) |
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
