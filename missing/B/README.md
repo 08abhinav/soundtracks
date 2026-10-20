@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
 | Beating A Dead Horse With A One-Trick Pony | 111508 | [111508-beating-a-dead-horse-with-a-one-trick-pony.json](./111508-beating-a-dead-horse-with-a-one-trick-pony.json) |
 | BeatJunkies | 168134 | [168134-beatjunkies.json](./168134-beatjunkies.json) |
+| Beatle Quest | 249628 | [249628-beatle-quest.json](./249628-beatle-quest.json) |
 | Beatless | 174641 | [174641-beatless.json](./174641-beatless.json) |
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatlow | 399427 | [399427-beatlow.json](./399427-beatlow.json) |
@@ -5894,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bily'Sine | 373264 | [373264-bilysine.json](./373264-bilysine.json) |
 | Bima-X | 60056 | [60056-bima-x.json](./60056-bima-x.json) |
 | BimbleBorn | 105116 | [105116-bimbleborn.json](./105116-bimbleborn.json) |
+| Bimbo | 249629 | [249629-bimbo.json](./249629-bimbo.json) |
 | Bimbo Sequencer 2 | 185697 | [185697-bimbo-sequencer-2.json](./185697-bimbo-sequencer-2.json) |
 | Bîme | 251828 | [251828-bime.json](./251828-bime.json) |
 | Bimfli & His Time Travels: Egypt | 328557 | [328557-bimfli-and-his-time-travels-egypt.json](./328557-bimfli-and-his-time-travels-egypt.json) |
@@ -11807,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Mind | 181138 | [181138-broken-mind.json](./181138-broken-mind.json) |
 | Broken Mind | 350218 | [350218-broken-mind.json](./350218-broken-mind.json) |
 | Broken Minds | 102287 | [102287-broken-minds.json](./102287-broken-minds.json) |
+| Broken Minds | 249607 | [249607-broken-minds.json](./249607-broken-minds.json) |
 | Broken Needle | 351169 | [351169-broken-needle.json](./351169-broken-needle.json) |
 | Broken Note | 237041 | [237041-broken-note.json](./237041-broken-note.json) |
 | Broken Pact | 357319 | [357319-broken-pact.json](./357319-broken-pact.json) |
