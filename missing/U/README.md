@@ -2414,6 +2414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
 | Upg | 323614 | [323614-upg.json](./323614-upg.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
+| Upgrade 2021-22: Bionic Traveler | 237792 | [237792-upgrade-2021-22-bionic-traveler.json](./237792-upgrade-2021-22-bionic-traveler.json) |
 | Upgrade Complete | 196800 | [196800-upgrade-complete.json](./196800-upgrade-complete.json) |
 | Upgrade Complete 2 | 196801 | [196801-upgrade-complete-2.json](./196801-upgrade-complete-2.json) |
 | Upgrade It | 396581 | [396581-upgrade-it.json](./396581-upgrade-it.json) |
