@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Custom Night: Deluxe | 351399 | [351399-ultimate-custom-night-deluxe.json](./351399-ultimate-custom-night-deluxe.json) |
 | Ultimate Custom Night: Recode | 351397 | [351397-ultimate-custom-night-recode.json](./351397-ultimate-custom-night-recode.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
+| Ultimate Derby Online | 241204 | [241204-ultimate-derby-online.json](./241204-ultimate-derby-online.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
 | Ultimate Disc Golf | 129001 | [129001-ultimate-disc-golf.json](./129001-ultimate-disc-golf.json) |
@@ -1216,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
 | Undead World Order | 415844 | [415844-undead-world-order.json](./415844-undead-world-order.json) |
 | Undead zombies | 127765 | [127765-undead-zombies.json](./127765-undead-zombies.json) |
+| Undead Zone | 241828 | [241828-undead-zone.json](./241828-undead-zone.json) |
 | Undead: Rise of Betrayed King | 278503 | [278503-undead-rise-of-betrayed-king.json](./278503-undead-rise-of-betrayed-king.json) |
 | Undeads | 281913 | [281913-undeads.json](./281913-undeads.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
@@ -2525,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Extreme | 198535 | [198535-urban-extreme.json](./198535-urban-extreme.json) |
 | Urban Fantasy: Vampires vs Werewolves | 169359 | [169359-urban-fantasy-vampires-vs-werewolves.json](./169359-urban-fantasy-vampires-vs-werewolves.json) |
 | Urban Farmer | 216852 | [216852-urban-farmer.json](./216852-urban-farmer.json) |
+| Urban Fighters: Battle Stars | 241804 | [241804-urban-fighters-battle-stars.json](./241804-urban-fighters-battle-stars.json) |
 | Urban Flow | 137659 | [137659-urban-flow.json](./137659-urban-flow.json) |
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
 | Urban Flow Roads To Perfection | 378967 | [378967-urban-flow-roads-to-perfection.json](./378967-urban-flow-roads-to-perfection.json) |
