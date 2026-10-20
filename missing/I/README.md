@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Soldier | 22460 | [22460-iron-soldier.json](./22460-iron-soldier.json) |
 | Iron Soldier 3 | 51182 | [51182-iron-soldier-3.json](./51182-iron-soldier-3.json) |
 | Iron Soul | 10460 | [10460-iron-soul.json](./10460-iron-soul.json) |
+| Iron Sword: Wizards and Warriors II | 218332 | [218332-iron-sword-wizards-and-warriors-ii.json](./218332-iron-sword-wizards-and-warriors-ii.json) |
 | Iron Tangle Breakout | 352233 | [352233-iron-tangle-breakout.json](./352233-iron-tangle-breakout.json) |
 | Iron Tank: The Invasion of Normandy | 19956 | [19956-iron-tank-the-invasion-of-normandy.json](./19956-iron-tank-the-invasion-of-normandy.json) |
 | Iron Throne: Kingdoms | 101518 | [101518-iron-throne-kingdoms.json](./101518-iron-throne-kingdoms.json) |
