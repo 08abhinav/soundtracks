@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Miner | 262813 | [262813-hell-miner.json](./262813-hell-miner.json) |
 | Hell Miners | 310169 | [310169-hell-miners.json](./310169-hell-miners.json) |
 | Hell Mission | 188490 | [188490-hell-mission.json](./188490-hell-mission.json) |
+| Hell O Corn | 223306 | [223306-hell-o-corn.json](./223306-hell-o-corn.json) |
 | Hell O’ Halo | 412473 | [412473-hell-o-halo.json](./412473-hell-o-halo.json) |
 | Hell of a Birthday | 338614 | [338614-hell-of-a-birthday.json](./338614-hell-of-a-birthday.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
@@ -4456,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero World 2 | 329129 | [329129-hero-world-2.json](./329129-hero-world-2.json) |
 | Hero x Hero | 406780 | [406780-hero-x-hero.json](./406780-hero-x-hero.json) |
 | Hero Youseijyo | 208275 | [208275-hero-youseijyo.json](./208275-hero-youseijyo.json) |
+| Hero Z TPS | 223325 | [223325-hero-z-tps.json](./223325-hero-z-tps.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
