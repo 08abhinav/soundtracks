@@ -5476,6 +5476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
 | Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
+| Allon3 | 224937 | [224937-allon3.json](./224937-allon3.json) |
 | Allora and the Broken Portal | 125382 | [125382-allora-and-the-broken-portal.json](./125382-allora-and-the-broken-portal.json) |
 | Allotropy | 169472 | [169472-allotropy.json](./169472-allotropy.json) |
 | Alloy Soldier Xenia | 225822 | [225822-alloy-soldier-xenia.json](./225822-alloy-soldier-xenia.json) |
@@ -6465,6 +6466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Others | 313325 | [313325-among-the-others.json](./313325-among-the-others.json) |
 | Among the Sleep | 7642 | [7642-among-the-sleep.json](./7642-among-the-sleep.json) |
 | Among the Sleep: Enhanced Edition | 114411 | [114411-among-the-sleep-enhanced-edition.json](./114411-among-the-sleep-enhanced-edition.json) |
+| Among the Stars | 224942 | [224942-among-the-stars.json](./224942-among-the-stars.json) |
 | Among the Stones | 27985 | [27985-among-the-stones.json](./27985-among-the-stones.json) |
 | Among the Trolls | 201754 | [201754-among-the-trolls.json](./201754-among-the-trolls.json) |
 | Among The Whispers: Provocation | 291465 | [291465-among-the-whispers-provocation.json](./291465-among-the-whispers-provocation.json) |
