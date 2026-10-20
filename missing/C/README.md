@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candoo Ninja | 97808 | [97808-candoo-ninja.json](./97808-candoo-ninja.json) |
 | Candy | 104011 | [104011-candy.json](./104011-candy.json) |
 | Candy 2048 Challenge | 147132 | [147132-candy-2048-challenge.json](./147132-candy-2048-challenge.json) |
+| Candy Adventure | 233915 | [233915-candy-adventure.json](./233915-candy-adventure.json) |
 | Candy Adventure HD | 232046 | [232046-candy-adventure-hd.json](./232046-candy-adventure-hd.json) |
 | Candy Arkanoid | 232919 | [232919-candy-arkanoid.json](./232919-candy-arkanoid.json) |
 | Candy Bandit | 154579 | [154579-candy-bandit.json](./154579-candy-bandit.json) |
@@ -8090,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Rush: Ultimate Guys - Legendary Edition | 251494 | [251494-clumsy-rush-ultimate-guys-legendary-edition.json](./251494-clumsy-rush-ultimate-guys-legendary-edition.json) |
 | Clumsy Rush: Ultimate Guys - Magnificent Edition | 266158 | [266158-clumsy-rush-ultimate-guys-magnificent-edition.json](./266158-clumsy-rush-ultimate-guys-magnificent-edition.json) |
 | Clumsy Rush: Ultimate Guys - Platinum Edition | 241399 | [241399-clumsy-rush-ultimate-guys-platinum-edition.json](./241399-clumsy-rush-ultimate-guys-platinum-edition.json) |
+| Clumsy Rush: Ultimate Guys - Premium Edition | 233938 | [233938-clumsy-rush-ultimate-guys-premium-edition.json](./233938-clumsy-rush-ultimate-guys-premium-edition.json) |
 | Clumsy Rush: Ultimate Guys - Special Edition | 223571 | [223571-clumsy-rush-ultimate-guys-special-edition.json](./223571-clumsy-rush-ultimate-guys-special-edition.json) |
 | Clumsy Rush: Ultimate Guys - Superb Edition | 271504 | [271504-clumsy-rush-ultimate-guys-superb-edition.json](./271504-clumsy-rush-ultimate-guys-superb-edition.json) |
 | Clumsy Shumsy | 66958 | [66958-clumsy-shumsy.json](./66958-clumsy-shumsy.json) |
