@@ -4770,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pight | 275839 | [275839-pight.json](./275839-pight.json) |
 | Pigillionaire | 327256 | [327256-pigillionaire.json](./327256-pigillionaire.json) |
 | Pigkour | 416682 | [416682-pigkour.json](./416682-pigkour.json) |
+| Piglet's Big Game | 248453 | [248453-piglets-big-game.json](./248453-piglets-big-game.json) |
 | Piglet's Big Game | 314629 | [314629-piglets-big-game.json](./314629-piglets-big-game.json) |
 | Piglet's Big Game | 4066 | [4066-piglets-big-game.json](./4066-piglets-big-game.json) |
 | Pigmalion's Angel | 344317 | [344317-pigmalions-angel.json](./344317-pigmalions-angel.json) |
