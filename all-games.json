@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:07:45.617Z",
-  "total_soundtracks": 2230,
+  "generated_at": "2026-10-20T21:07:56.637Z",
+  "total_soundtracks": 2231,
   "games": [
     {
       "igdb_id": 7522,
@@ -20892,6 +20892,20 @@
           "album_name": "Spyro the Dragon, The Themes",
           "spotify_url": "https://open.spotify.com/album/0tPPzqU4UiNPgJMcoPfCnO",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 81141,
+      "game_name": "Squad 44",
+      "game_url": "https://ostdb.net/games/squad-44",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fab00d2417ec65904a1cf4d1",
+      "albums": [
+        {
+          "album_name": "Squad 44 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/46oi520Rlv8lWBi7vDPfqY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
