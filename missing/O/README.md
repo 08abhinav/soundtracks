@@ -2596,6 +2596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
 | Operation Desert Road | 74234 | [74234-operation-desert-road.json](./74234-operation-desert-road.json) |
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
+| Operation Echo | 228919 | [228919-operation-echo.json](./228919-operation-echo.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
 | Operation Eventide | 337477 | [337477-operation-eventide.json](./337477-operation-eventide.json) |
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: The Nightmare Chronicles - Chapter 2 | 168843 | [168843-outbreak-the-nightmare-chronicles-chapter-2.json](./168843-outbreak-the-nightmare-chronicles-chapter-2.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 3 | 168688 | [168688-outbreak-the-nightmare-chronicles-chapter-3.json](./168688-outbreak-the-nightmare-chronicles-chapter-3.json) |
 | Outbreak: The Nightmare Chronicles - Chapter 4 | 168853 | [168853-outbreak-the-nightmare-chronicles-chapter-4.json](./168853-outbreak-the-nightmare-chronicles-chapter-4.json) |
+| Outbreak: The Nightmare Chronicles - Definitive Collection | 228940 | [228940-outbreak-the-nightmare-chronicles-definitive-collection.json](./228940-outbreak-the-nightmare-chronicles-definitive-collection.json) |
 | Outbreak: The Nightmare Chronicles - Reinvestigated | 261362 | [261362-outbreak-the-nightmare-chronicles-reinvestigated.json](./261362-outbreak-the-nightmare-chronicles-reinvestigated.json) |
 | Outbreak: Urban Jungle Collection | 331418 | [331418-outbreak-urban-jungle-collection.json](./331418-outbreak-urban-jungle-collection.json) |
 | Outbreak: Zombies For Days Collection | 308586 | [308586-outbreak-zombies-for-days-collection.json](./308586-outbreak-zombies-for-days-collection.json) |
