@@ -5105,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Time Kill | 51476 | [51476-best-time-kill.json](./51476-best-time-kill.json) |
 | Best VRcase 9000 | 211450 | [211450-best-vrcase-9000.json](./211450-best-vrcase-9000.json) |
 | Best Word | 234068 | [234068-best-word.json](./234068-best-word.json) |
+| Best. Game. Ever. | 210476 | [210476-best-game-ever.json](./210476-best-game-ever.json) |
 | Bestial Warrior | 47553 | [47553-bestial-warrior.json](./47553-bestial-warrior.json) |
 | Bestiary Bundle | 199625 | [199625-bestiary-bundle.json](./199625-bestiary-bundle.json) |
 | Bestiary Exam | 114749 | [114749-bestiary-exam.json](./114749-bestiary-exam.json) |
@@ -8957,6 +8958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumgi Slime | 333995 | [333995-blumgi-slime.json](./333995-blumgi-slime.json) |
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
+| Blunderbubb! | 210493 | [210493-blunderbubb.json](./210493-blunderbubb.json) |
 | Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
@@ -12960,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BulletHeart | 181910 | [181910-bulletheart.json](./181910-bulletheart.json) |
 | BulletHeck | 265207 | [265207-bulletheck.json](./265207-bulletheck.json) |
 | BulletHell Planes | 135045 | [135045-bullethell-planes.json](./135045-bullethell-planes.json) |
+| Bulletkour | 210480 | [210480-bulletkour.json](./210480-bulletkour.json) |
 | Bulletline | 101365 | [101365-bulletline.json](./101365-bulletline.json) |
 | BulletLive | 235660 | [235660-bulletlive.json](./235660-bulletlive.json) |
 | Bulletnico | 334497 | [334497-bulletnico.json](./334497-bulletnico.json) |
@@ -13301,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
+| Burger Time | 210494 | [210494-burger-time.json](./210494-burger-time.json) |
 | Burger Time | 292985 | [292985-burger-time.json](./292985-burger-time.json) |
 | Burger Truck Trump | 334056 | [334056-burger-truck-trump.json](./334056-burger-truck-trump.json) |
 | Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
