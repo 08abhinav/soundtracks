@@ -3432,6 +3432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightin Cage | 351701 | [351701-nightin-cage.json](./351701-nightin-cage.json) |
 | Nightingale Downs | 74112 | [74112-nightingale-downs.json](./74112-nightingale-downs.json) |
 | Nightingale: Birth of the Alliance | 194990 | [194990-nightingale-birth-of-the-alliance.json](./194990-nightingale-birth-of-the-alliance.json) |
+| Nightingale: Expanse | 237195 | [237195-nightingale-expanse.json](./237195-nightingale-expanse.json) |
 | Nightingale: Realms Rebuilt | 314408 | [314408-nightingale-realms-rebuilt.json](./314408-nightingale-realms-rebuilt.json) |
 | Nightlanders | 351411 | [351411-nightlanders.json](./351411-nightlanders.json) |
 | Nightlatch: Haunted House | 414411 | [414411-nightlatch-haunted-house.json](./414411-nightlatch-haunted-house.json) |
@@ -5216,6 +5217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Evil Sudoku | 297219 | [297219-not-evil-sudoku.json](./297219-not-evil-sudoku.json) |
 | Not Fine | 398354 | [398354-not-fine.json](./398354-not-fine.json) |
 | Not for Broadcast | 122133 | [122133-not-for-broadcast.json](./122133-not-for-broadcast.json) |
+| Not for Broadcast VR | 237204 | [237204-not-for-broadcast-vr.json](./237204-not-for-broadcast-vr.json) |
 | Not For Broadcast: Bits of Your Life | 240678 | [240678-not-for-broadcast-bits-of-your-life.json](./240678-not-for-broadcast-bits-of-your-life.json) |
 | Not For Broadcast: Complete Edition | 331858 | [331858-not-for-broadcast-complete-edition.json](./331858-not-for-broadcast-complete-edition.json) |
 | Not for Broadcast: Deluxe Edition | 242607 | [242607-not-for-broadcast-deluxe-edition.json](./242607-not-for-broadcast-deluxe-edition.json) |
