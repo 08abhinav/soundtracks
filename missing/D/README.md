@@ -5033,6 +5033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Department 42: The Mystery of the Nine | 50464 | [50464-department-42-the-mystery-of-the-nine.json](./50464-department-42-the-mystery-of-the-nine.json) |
 | Department of Collections | 306029 | [306029-department-of-collections.json](./306029-department-of-collections.json) |
 | Department of Missing Persons | 400287 | [400287-department-of-missing-persons.json](./400287-department-of-missing-persons.json) |
+| Department of the Devil | 217173 | [217173-department-of-the-devil.json](./217173-department-of-the-devil.json) |
 | Departure | 96681 | [96681-departure.json](./96681-departure.json) |
 | Departure Dash | 122039 | [122039-departure-dash.json](./122039-departure-dash.json) |
 | Departure!! Shipping Freighter | 299483 | [299483-departure-shipping-freighter.json](./299483-departure-shipping-freighter.json) |
@@ -5631,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
 | Destroy_the_devil | 114241 | [114241-destroy-the-devil.json](./114241-destroy-the-devil.json) |
+| Destroyed Aperture | 217184 | [217184-destroyed-aperture.json](./217184-destroyed-aperture.json) |
 | Destroyer | 175824 | [175824-destroyer.json](./175824-destroyer.json) |
 | Destroyer | 238894 | [238894-destroyer.json](./238894-destroyer.json) |
 | Destroyer | 26410 | [26410-destroyer.json](./26410-destroyer.json) |
@@ -12062,6 +12064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamnest | 345651 | [345651-dreamnest.json](./345651-dreamnest.json) |
 | Dreamo VR | 123494 | [123494-dreamo-vr.json](./123494-dreamo-vr.json) |
 | DreaMon World | 285885 | [285885-dreamon-world.json](./285885-dreamon-world.json) |
+| Dreamout | 217178 | [217178-dreamout.json](./217178-dreamout.json) |
 | Dreampainters | 360005 | [360005-dreampainters.json](./360005-dreampainters.json) |
 | DreamPark Tycoon | 63012 | [63012-dreampark-tycoon.json](./63012-dreampark-tycoon.json) |
 | Dreampath: Curse of the Swamps HD | 99378 | [99378-dreampath-curse-of-the-swamps-hd.json](./99378-dreampath-curse-of-the-swamps-hd.json) |
