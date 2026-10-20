@@ -13044,6 +13044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins | 150007 | [150007-sonic-origins.json](./150007-sonic-origins.json) |
 | Sonic Origins 2 | 370120 | [370120-sonic-origins-2.json](./370120-sonic-origins-2.json) |
 | Sonic Origins Plus | 241444 | [241444-sonic-origins-plus.json](./241444-sonic-origins-plus.json) |
+| Sonic Origins Plus: Day One Edition | 242934 | [242934-sonic-origins-plus-day-one-edition.json](./242934-sonic-origins-plus-day-one-edition.json) |
 | Sonic Origins Plus: Expansion Pack | 254493 | [254493-sonic-origins-plus-expansion-pack.json](./254493-sonic-origins-plus-expansion-pack.json) |
 | Sonic Origins Pocket Edition | 336373 | [336373-sonic-origins-pocket-edition.json](./336373-sonic-origins-pocket-edition.json) |
 | Sonic Origins Ultrafix | 361623 | [361623-sonic-origins-ultrafix.json](./361623-sonic-origins-ultrafix.json) |
@@ -17233,6 +17234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad Battles: Vietnam | 70966 | [70966-squad-battles-vietnam.json](./70966-squad-battles-vietnam.json) |
 | Squad Busters vs Zombies | 237637 | [237637-squad-busters-vs-zombies.json](./237637-squad-busters-vs-zombies.json) |
 | Squad Conflicts | 174906 | [174906-squad-conflicts.json](./174906-squad-conflicts.json) |
+| Squad Game | 242956 | [242956-squad-game.json](./242956-squad-game.json) |
 | Squad Legends: Battle Royale | 417281 | [417281-squad-legends-battle-royale.json](./417281-squad-legends-battle-royale.json) |
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
@@ -20819,6 +20821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter 6: Mad Gear Box | 239146 | [239146-street-fighter-6-mad-gear-box.json](./239146-street-fighter-6-mad-gear-box.json) |
 | Street Fighter 6: Reniala Remains Stage | 386462 | [386462-street-fighter-6-reniala-remains-stage.json](./386462-street-fighter-6-reniala-remains-stage.json) |
 | Street Fighter 6: Return of Shadaloo | 309335 | [309335-street-fighter-6-return-of-shadaloo.json](./309335-street-fighter-6-return-of-shadaloo.json) |
+| Street Fighter 6: Steelbook Edition | 242928 | [242928-street-fighter-6-steelbook-edition.json](./242928-street-fighter-6-steelbook-edition.json) |
 | Street Fighter 6: Ultimate Edition | 251691 | [251691-street-fighter-6-ultimate-edition.json](./251691-street-fighter-6-ultimate-edition.json) |
 | Street Fighter 6: Year 1 - A.K.I. | 251657 | [251657-street-fighter-6-year-1-a-k-i.json](./251657-street-fighter-6-year-1-a-k-i.json) |
 | Street Fighter 6: Year 1 - Akuma | 251704 | [251704-street-fighter-6-year-1-akuma.json](./251704-street-fighter-6-year-1-akuma.json) |
@@ -24314,6 +24317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Retro BoxBot | 279470 | [279470-super-retro-boxbot.json](./279470-super-retro-boxbot.json) |
 | Super Retro Chase | 182931 | [182931-super-retro-chase.json](./182931-super-retro-chase.json) |
 | Super Retro Fighter | 169484 | [169484-super-retro-fighter.json](./169484-super-retro-fighter.json) |
+| Super Retro Kart | 242940 | [242940-super-retro-kart.json](./242940-super-retro-kart.json) |
 | Super Retro Maker | 75404 | [75404-super-retro-maker.json](./75404-super-retro-maker.json) |
 | Super Retro Platformer Collection | 242770 | [242770-super-retro-platformer-collection.json](./242770-super-retro-platformer-collection.json) |
 | Super Retro Retry | 273399 | [273399-super-retro-retry.json](./273399-super-retro-retry.json) |
