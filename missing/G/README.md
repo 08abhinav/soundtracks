@@ -671,6 +671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Fräulein Yuna FX: Kanashimi no Siren | 281927 | [281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json](./281927-galaxy-fraulein-yuna-fx-kanashimi-no-siren.json) |
 | Galaxy Fräulein Yuna Remix | 216420 | [216420-galaxy-fraulein-yuna-remix.json](./216420-galaxy-fraulein-yuna-remix.json) |
 | Galaxy Fräulein Yuna: Final Edition | 280845 | [280845-galaxy-fraulein-yuna-final-edition.json](./280845-galaxy-fraulein-yuna-final-edition.json) |
+| Galaxy Frontier | 209324 | [209324-galaxy-frontier.json](./209324-galaxy-frontier.json) |
 | Galaxy Game | 11396 | [11396-galaxy-game.json](./11396-galaxy-game.json) |
 | Galaxy Games StarPak 2 | 219439 | [219439-galaxy-games-starpak-2.json](./219439-galaxy-games-starpak-2.json) |
 | Galaxy Genome | 174279 | [174279-galaxy-genome.json](./174279-galaxy-genome.json) |
