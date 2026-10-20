@@ -11057,6 +11057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
+| The Parrot that Summons Demons | 232817 | [232817-the-parrot-that-summons-demons.json](./232817-the-parrot-that-summons-demons.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
 | The Party | 135782 | [135782-the-party.json](./135782-the-party.json) |
@@ -15572,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
 | Thy Dungeonman II | 135846 | [135846-thy-dungeonman-ii.json](./135846-thy-dungeonman-ii.json) |
+| Thy Flesh | 232837 | [232837-thy-flesh.json](./232837-thy-flesh.json) |
 | Thy Flesh Consumed | 396452 | [396452-thy-flesh-consumed.json](./396452-thy-flesh-consumed.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
@@ -17097,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
+| Timberlodge Inn | 232838 | [232838-timberlodge-inn.json](./232838-timberlodge-inn.json) |
 | Timberman VR | 210843 | [210843-timberman-vr.json](./210843-timberman-vr.json) |
 | Timberman VS | 99289 | [99289-timberman-vs.json](./99289-timberman-vs.json) |
 | Timberquest | 245859 | [245859-timberquest.json](./245859-timberquest.json) |
@@ -17262,6 +17265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
+| Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
 | Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
@@ -18301,6 +18305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toewr le Fence | 157143 | [157143-toewr-le-fence.json](./157143-toewr-le-fence.json) |
 | Toey Weedz Smoke Dead Mirror | 386534 | [386534-toey-weedz-smoke-dead-mirror.json](./386534-toey-weedz-smoke-dead-mirror.json) |
 | Toffee Cats | 369681 | [369681-toffee-cats.json](./369681-toffee-cats.json) |
+| Toffee Trouble in Creamville | 232841 | [232841-toffee-trouble-in-creamville.json](./232841-toffee-trouble-in-creamville.json) |
 | Tofu Dream | 358734 | [358734-tofu-dream.json](./358734-tofu-dream.json) |
 | Tofu Drifter | 234600 | [234600-tofu-drifter.json](./234600-tofu-drifter.json) |
 | Tofu Go! 2: The Onsen Adventure | 242206 | [242206-tofu-go-2-the-onsen-adventure.json](./242206-tofu-go-2-the-onsen-adventure.json) |
@@ -22381,6 +22386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trappy Mine | 181859 | [181859-trappy-mine.json](./181859-trappy-mine.json) |
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
 | Traption Bakery | 142436 | [142436-traption-bakery.json](./142436-traption-bakery.json) |
 | Trapventure | 334318 | [334318-trapventure.json](./334318-trapventure.json) |
