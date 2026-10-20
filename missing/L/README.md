@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Wonderfish | 383961 | [383961-legend-of-the-wonderfish.json](./383961-legend-of-the-wonderfish.json) |
 | Legend of Towercraft | 133174 | [133174-legend-of-towercraft.json](./133174-legend-of-towercraft.json) |
 | Legend of Traveller | 116307 | [116307-legend-of-traveller.json](./116307-legend-of-traveller.json) |
+| Legend of Utorepia | 216678 | [216678-legend-of-utorepia.json](./216678-legend-of-utorepia.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
 | Legend of Vikings | 100793 | [100793-legend-of-vikings.json](./100793-legend-of-vikings.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
@@ -5110,6 +5111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locks | 199452 | [199452-locks.json](./199452-locks.json) |
 | Locksmith | 413897 | [413897-locksmith.json](./413897-locksmith.json) |
 | Locksmith | 48906 | [48906-locksmith.json](./48906-locksmith.json) |
+| Locksmith Simulator | 216621 | [216621-locksmith-simulator.json](./216621-locksmith-simulator.json) |
 | Lockstone | 147745 | [147745-lockstone.json](./147745-lockstone.json) |
 | LockYourDoor | 328855 | [328855-lockyourdoor.json](./328855-lockyourdoor.json) |
 | Loco | 138123 | [138123-loco.json](./138123-loco.json) |
@@ -6105,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
+| Lost In Parallels | 216631 | [216631-lost-in-parallels.json](./216631-lost-in-parallels.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost In Purple | 54338 | [54338-lost-in-purple.json](./54338-lost-in-purple.json) |
 | Lost in Random | 119285 | [119285-lost-in-random.json](./119285-lost-in-random.json) |
@@ -6285,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Secrets: Hollywood Mysteries | 209397 | [209397-lost-secrets-hollywood-mysteries.json](./209397-lost-secrets-hollywood-mysteries.json) |
 | Lost Secrets: November 1963 | 206728 | [206728-lost-secrets-november-1963.json](./206728-lost-secrets-november-1963.json) |
 | Lost Secrets: Vatican Mysteries | 209398 | [209398-lost-secrets-vatican-mysteries.json](./209398-lost-secrets-vatican-mysteries.json) |
+| Lost Sector | 216629 | [216629-lost-sector.json](./216629-lost-sector.json) |
 | Lost Sector Online | 62815 | [62815-lost-sector-online.json](./62815-lost-sector-online.json) |
 | Lost Seed | 361637 | [361637-lost-seed.json](./361637-lost-seed.json) |
 | Lost Shipwreck | 72367 | [72367-lost-shipwreck.json](./72367-lost-shipwreck.json) |
