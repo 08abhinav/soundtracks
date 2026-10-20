@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaf on Wind | 149087 | [149087-leaf-on-wind.json](./149087-leaf-on-wind.json) |
 | Leaf Town | 302075 | [302075-leaf-town.json](./302075-leaf-town.json) |
 | Leaf Tree | 175791 | [175791-leaf-tree.json](./175791-leaf-tree.json) |
+| Leaf Trombone: World Stage | 253762 | [253762-leaf-trombone-world-stage.json](./253762-leaf-trombone-world-stage.json) |
 | Leaf Us Alone | 387142 | [387142-leaf-us-alone.json](./387142-leaf-us-alone.json) |
 | Leaf's Odyssey | 301354 | [301354-leafs-odyssey.json](./301354-leafs-odyssey.json) |
 | Leafing Home | 333006 | [333006-leafing-home.json](./333006-leafing-home.json) |
