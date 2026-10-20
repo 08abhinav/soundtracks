@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nail Salon: Style and Makeup Bag | 203714 | [203714-nail-salon-style-and-makeup-bag.json](./203714-nail-salon-style-and-makeup-bag.json) |
+| Nail Woman | 222770 | [222770-nail-woman.json](./222770-nail-woman.json) |
 | Nail'd | 7096 | [7096-naild.json](./7096-naild.json) |
 | Nailcrown | 405945 | [405945-nailcrown.json](./405945-nailcrown.json) |
 | Nailed It | 189111 | [189111-nailed-it.json](./189111-nailed-it.json) |
@@ -4388,20 +4389,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Man's Island | 148160 | [148160-no-mans-island.json](./148160-no-mans-island.json) |
 | No Man's Land | 27583 | [27583-no-mans-land.json](./27583-no-mans-land.json) |
 | No Man's Land | 377282 | [377282-no-mans-land.json](./377282-no-mans-land.json) |
+| No Man's Sky: Abyss | 222755 | [222755-no-mans-sky-abyss.json](./222755-no-mans-sky-abyss.json) |
 | No Man's Sky: Aquarius | 315656 | [315656-no-mans-sky-aquarius.json](./315656-no-mans-sky-aquarius.json) |
+| No Man's Sky: Atlas Rises | 222780 | [222780-no-mans-sky-atlas-rises.json](./222780-no-mans-sky-atlas-rises.json) |
 | No Man's Sky: Companions | 221636 | [221636-no-mans-sky-companions.json](./221636-no-mans-sky-companions.json) |
 | No Man's Sky: Desolation | 221742 | [221742-no-mans-sky-desolation.json](./221742-no-mans-sky-desolation.json) |
 | No Man's Sky: Echoes | 262883 | [262883-no-mans-sky-echoes.json](./262883-no-mans-sky-echoes.json) |
+| No Man's Sky: Foundation | 222782 | [222782-no-mans-sky-foundation.json](./222782-no-mans-sky-foundation.json) |
 | No Man's Sky: Living Ship | 222237 | [222237-no-mans-sky-living-ship.json](./222237-no-mans-sky-living-ship.json) |
+| No Man's Sky: Next | 222778 | [222778-no-mans-sky-next.json](./222778-no-mans-sky-next.json) |
 | No Man's Sky: Next Generation | 221637 | [221637-no-mans-sky-next-generation.json](./221637-no-mans-sky-next-generation.json) |
 | No Man's Sky: Nintendo Switch Edition | 191418 | [191418-no-mans-sky-nintendo-switch-edition.json](./191418-no-mans-sky-nintendo-switch-edition.json) |
 | No Man's Sky: Omega | 287088 | [287088-no-mans-sky-omega.json](./287088-no-mans-sky-omega.json) |
 | No Man's Sky: Orbital | 294064 | [294064-no-mans-sky-orbital.json](./294064-no-mans-sky-orbital.json) |
 | No Man's Sky: Origins | 221638 | [221638-no-mans-sky-origins.json](./221638-no-mans-sky-origins.json) |
+| No Man's Sky: Pathfinder | 222781 | [222781-no-mans-sky-pathfinder.json](./222781-no-mans-sky-pathfinder.json) |
 | No Man's Sky: Relics | 336874 | [336874-no-mans-sky-relics.json](./336874-no-mans-sky-relics.json) |
 | No Man's Sky: Starborn Phoenix Ship | 325562 | [325562-no-mans-sky-starborn-phoenix-ship.json](./325562-no-mans-sky-starborn-phoenix-ship.json) |
 | No Man's Sky: Synthesis | 222424 | [222424-no-mans-sky-synthesis.json](./222424-no-mans-sky-synthesis.json) |
 | No Man's Sky: The Swarm | 403195 | [403195-no-mans-sky-the-swarm.json](./403195-no-mans-sky-the-swarm.json) |
+| No Man's Sky: Visions | 222754 | [222754-no-mans-sky-visions.json](./222754-no-mans-sky-visions.json) |
 | No Man's Sky: Voyagers | 363705 | [363705-no-mans-sky-voyagers.json](./363705-no-mans-sky-voyagers.json) |
 | No Man's Sky: Worlds Part I | 308973 | [308973-no-mans-sky-worlds-part-i.json](./308973-no-mans-sky-worlds-part-i.json) |
 | No Man's Sky: Worlds Part II | 329714 | [329714-no-mans-sky-worlds-part-ii.json](./329714-no-mans-sky-worlds-part-ii.json) |
@@ -4536,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Walls in Heaven | 369657 | [369657-no-walls-in-heaven.json](./369657-no-walls-in-heaven.json) |
 | No Wave | 128583 | [128583-no-wave.json](./128583-no-wave.json) |
 | No way back | 177835 | [177835-no-way-back.json](./177835-no-way-back.json) |
+| No Way Back | 222757 | [222757-no-way-back.json](./222757-no-way-back.json) |
 | No Way Home | 117007 | [117007-no-way-home.json](./117007-no-way-home.json) |
 | No Way Home (Update) | 346731 | [346731-no-way-home-update.json](./346731-no-way-home-update.json) |
 | No Way Home: Blammo! | 346798 | [346798-no-way-home-blammo.json](./346798-no-way-home-blammo.json) |
