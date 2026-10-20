@@ -964,7 +964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umpteenth Photo | 386887 | [386887-umpteenth-photo.json](./386887-umpteenth-photo.json) |
 | UMS II: Nations at War | 74007 | [74007-ums-ii-nations-at-war.json](./74007-ums-ii-nations-at-war.json) |
 | UMS: The Universal Military Simulator | 37154 | [37154-ums-the-universal-military-simulator.json](./37154-ums-the-universal-military-simulator.json) |
-| Umurangi Generation | 131631 | [131631-umurangi-generation.json](./131631-umurangi-generation.json) |
 | Un juego de huevos | 81390 | [81390-un-juego-de-huevos.json](./81390-un-juego-de-huevos.json) |
 | Un Pas Fragile | 120003 | [120003-un-pas-fragile.json](./120003-un-pas-fragile.json) |
 | Un Paseo Por Villa Tronco | 396527 | [396527-un-paseo-por-villa-tronco.json](./396527-un-paseo-por-villa-tronco.json) |
@@ -1336,7 +1335,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the War | 104144 | [104144-under-the-war.json](./104144-under-the-war.json) |
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
-| Under the Waves | 214402 | [214402-under-the-waves.json](./214402-under-the-waves.json) |
 | Under the Weather | 145925 | [145925-under-the-weather.json](./145925-under-the-weather.json) |
 | Under the Witch: Beginnings | 267365 | [267365-under-the-witch-beginnings.json](./267365-under-the-witch-beginnings.json) |
 | Under the Witch's Trial | 247201 | [247201-under-the-witchs-trial.json](./247201-under-the-witchs-trial.json) |
@@ -2131,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal Maze Survival | 116107 | [116107-unreal-maze-survival.json](./116107-unreal-maze-survival.json) |
 | Unreal PT | 113626 | [113626-unreal-pt.json](./113626-unreal-pt.json) |
 | Unreal Sandbox | 165754 | [165754-unreal-sandbox.json](./165754-unreal-sandbox.json) |
+| Unreal Shift At Freddy's | 209296 | [209296-unreal-shift-at-freddys.json](./209296-unreal-shift-at-freddys.json) |
 | Unreal Strike | 256994 | [256994-unreal-strike.json](./256994-unreal-strike.json) |
 | Unreal Tournament 2004 | 927 | [927-unreal-tournament-2004.json](./927-unreal-tournament-2004.json) |
 | Unreal Tournament 2004: Editor's Choice Edition | 27811 | [27811-unreal-tournament-2004-editors-choice-edition.json](./27811-unreal-tournament-2004-editors-choice-edition.json) |
