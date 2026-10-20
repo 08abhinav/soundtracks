@@ -8790,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Oath | 411791 | [411791-blue-oath.json](./411791-blue-oath.json) |
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
+| Blue Orchid: Interactive Story | 222730 | [222730-blue-orchid-interactive-story.json](./222730-blue-orchid-interactive-story.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
