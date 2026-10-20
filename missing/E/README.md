@@ -2717,6 +2717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
+| Endless Days | 240077 | [240077-endless-days.json](./240077-endless-days.json) |
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
 | Endless Racing Game | 63204 | [63204-endless-racing-game.json](./63204-endless-racing-game.json) |
 | Endless Rails | 406947 | [406947-endless-rails.json](./406947-endless-rails.json) |
+| Endless Railway | 240042 | [240042-endless-railway.json](./240042-endless-railway.json) |
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
