@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: Cosmic Symphony - Origin Vol. 2 Pack | 405003 | [405003-kalpa-cosmic-symphony-origin-vol-2-pack.json](./405003-kalpa-cosmic-symphony-origin-vol-2-pack.json) |
 | Kalpa: The Sign of Omen | 238918 | [238918-kalpa-the-sign-of-omen.json](./238918-kalpa-the-sign-of-omen.json) |
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
+| Kalyskah: Jungle Trouble! | 219489 | [219489-kalyskah-jungle-trouble.json](./219489-kalyskah-jungle-trouble.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | Kalzor: 2000 | 38773 | [38773-kalzor-2000.json](./38773-kalzor-2000.json) |
@@ -1029,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayalina | 67911 | [67911-kayalina.json](./67911-kayalina.json) |
 | Kayden Garth | 229608 | [229608-kayden-garth.json](./229608-kayden-garth.json) |
+| Kayko & Kokosh Coloring Book | 219464 | [219464-kayko-and-kokosh-coloring-book.json](./219464-kayko-and-kokosh-coloring-book.json) |
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
@@ -4302,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krinkle Krusher | 26496 | [26496-krinkle-krusher.json](./26496-krinkle-krusher.json) |
 | Kriophobia | 50164 | [50164-kriophobia.json](./50164-kriophobia.json) |
 | Krishna Legends | 130665 | [130665-krishna-legends.json](./130665-krishna-legends.json) |
+| Krispain Hero | 219454 | [219454-krispain-hero.json](./219454-krispain-hero.json) |
 | Krispain Hero VR: Roguelite Dungeon Shooter Simulator | 282144 | [282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json](./282144-krispain-hero-vr-roguelite-dungeon-shooter-simulator.json) |
 | Krispee Street | 187786 | [187786-krispee-street.json](./187786-krispee-street.json) |
 | Kriss Kross by Powgi | 91256 | [91256-kriss-kross-by-powgi.json](./91256-kriss-kross-by-powgi.json) |
