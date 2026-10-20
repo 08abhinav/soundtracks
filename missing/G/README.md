@@ -7731,7 +7731,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Soup | 408907 | [408907-guild-soup.json](./408907-guild-soup.json) |
 | Guild Wars | 234 | [234-guild-wars.json](./234-guild-wars.json) |
 | Guild Wars 2: Elder Dragon Saga - Complete Collection | 293924 | [293924-guild-wars-2-elder-dragon-saga-complete-collection.json](./293924-guild-wars-2-elder-dragon-saga-complete-collection.json) |
-| Guild Wars 2: End of Dragons | 159254 | [159254-guild-wars-2-end-of-dragons.json](./159254-guild-wars-2-end-of-dragons.json) |
 | Guild Wars 2: End of Dragons - Deluxe Edition | 161181 | [161181-guild-wars-2-end-of-dragons-deluxe-edition.json](./161181-guild-wars-2-end-of-dragons-deluxe-edition.json) |
 | Guild Wars 2: Heart of Thorns - Deluxe Edition | 53067 | [53067-guild-wars-2-heart-of-thorns-deluxe-edition.json](./53067-guild-wars-2-heart-of-thorns-deluxe-edition.json) |
 | Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
