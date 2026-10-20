@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yesterdreamt | 216806 | [216806-yesterdreamt.json](./216806-yesterdreamt.json) |
 | YesterMorrow | 120533 | [120533-yestermorrow.json](./120533-yestermorrow.json) |
 | YesterSol | 236885 | [236885-yestersol.json](./236885-yestersol.json) |
+| Yestertide | 224416 | [224416-yestertide.json](./224416-yestertide.json) |
 | Yet Another Avoider | 412978 | [412978-yet-another-avoider.json](./412978-yet-another-avoider.json) |
 | Yet Another Climbing Game | 323422 | [323422-yet-another-climbing-game.json](./323422-yet-another-climbing-game.json) |
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
