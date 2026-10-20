@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Dimensions | 292694 | [292694-sakura-dimensions.json](./292694-sakura-dimensions.json) |
 | Sakura Drift | 401772 | [401772-sakura-drift.json](./401772-sakura-drift.json) |
 | Sakura Dungeon | 34340 | [34340-sakura-dungeon.json](./34340-sakura-dungeon.json) |
+| Sakura Fantasy | 209344 | [209344-sakura-fantasy.json](./209344-sakura-fantasy.json) |
 | Sakura Fantasy: Chapter 1 | 60155 | [60155-sakura-fantasy-chapter-1.json](./60155-sakura-fantasy-chapter-1.json) |
 | Sakura Forest Girls | 146061 | [146061-sakura-forest-girls.json](./146061-sakura-forest-girls.json) |
 | Sakura Forest Girls 3 | 193263 | [193263-sakura-forest-girls-3.json](./193263-sakura-forest-girls-3.json) |
@@ -17667,6 +17668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squish the Zombies | 257367 | [257367-squish-the-zombies.json](./257367-squish-the-zombies.json) |
 | Squish Them All | 415148 | [415148-squish-them-all.json](./415148-squish-them-all.json) |
 | Squish'ems | 130801 | [130801-squishems.json](./130801-squishems.json) |
+| SquishCraft | 209339 | [209339-squishcraft.json](./209339-squishcraft.json) |
 | Squishies | 111451 | [111451-squishies.json](./111451-squishies.json) |
 | Squishmallows FIFA World Cup Happy Meal | 406244 | [406244-squishmallows-fifa-world-cup-happy-meal.json](./406244-squishmallows-fifa-world-cup-happy-meal.json) |
 | Squishy League | 407883 | [407883-squishy-league.json](./407883-squishy-league.json) |
