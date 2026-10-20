@@ -8518,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon | 159290 | [159290-roxy-raccoon.json](./159290-roxy-raccoon.json) |
 | Roxy Raccoon 3: Troubles in Time | 375845 | [375845-roxy-raccoon-3-troubles-in-time.json](./375845-roxy-raccoon-3-troubles-in-time.json) |
 | Roxy Raccoon's Bowling Bash | 199336 | [199336-roxy-raccoons-bowling-bash.json](./199336-roxy-raccoons-bowling-bash.json) |
+| Roxy Raccoon's Mancala Madness | 249065 | [249065-roxy-raccoons-mancala-madness.json](./249065-roxy-raccoons-mancala-madness.json) |
 | Roxy Raccoon's Pinball Panic | 188874 | [188874-roxy-raccoons-pinball-panic.json](./188874-roxy-raccoons-pinball-panic.json) |
 | Roxy Raccoon's Pinball Panic - Movie Magic | 354200 | [354200-roxy-raccoons-pinball-panic-movie-magic.json](./354200-roxy-raccoons-pinball-panic-movie-magic.json) |
 | Roxy Raccoon's Pinball Panic: American Anniversary | 311788 | [311788-roxy-raccoons-pinball-panic-american-anniversary.json](./311788-roxy-raccoons-pinball-panic-american-anniversary.json) |
