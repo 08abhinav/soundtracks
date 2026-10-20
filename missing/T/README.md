@@ -13106,6 +13106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Doris and the Dragon - Episode 1 | 31613 | [31613-the-tale-of-doris-and-the-dragon-episode-1.json](./31613-the-tale-of-doris-and-the-dragon-episode-1.json) |
 | The Tale of Dragons and Oceans | 259440 | [259440-the-tale-of-dragons-and-oceans.json](./259440-the-tale-of-dragons-and-oceans.json) |
 | The Tale of Food | 246983 | [246983-the-tale-of-food.json](./246983-the-tale-of-food.json) |
+| The Tale of Galariel | 228304 | [228304-the-tale-of-galariel.json](./228304-the-tale-of-galariel.json) |
 | The Tale of Greenbrier | 117819 | [117819-the-tale-of-greenbrier.json](./117819-the-tale-of-greenbrier.json) |
 | The Tale of Knightess Milia | 82922 | [82922-the-tale-of-knightess-milia.json](./82922-the-tale-of-knightess-milia.json) |
 | The Tale of Lumi | 263990 | [263990-the-tale-of-lumi.json](./263990-the-tale-of-lumi.json) |
@@ -22189,6 +22190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans-Siberian Legends: Posters in a Train Compartment | 292645 | [292645-trans-siberian-legends-posters-in-a-train-compartment.json](./292645-trans-siberian-legends-posters-in-a-train-compartment.json) |
 | Trans-Siberian Railway Simulator | 114950 | [114950-trans-siberian-railway-simulator.json](./114950-trans-siberian-railway-simulator.json) |
 | Trans': Boku to Atashi no Kyoukaisen | 412252 | [412252-trans-boku-to-atashi-no-kyoukaisen.json](./412252-trans-boku-to-atashi-no-kyoukaisen.json) |
+| Trans'2: Boku to Atashi to Koibito to | 228303 | [228303-trans2-boku-to-atashi-to-koibito-to.json](./228303-trans2-boku-to-atashi-to-koibito-to.json) |
 | Transarctica | 10857 | [10857-transarctica.json](./10857-transarctica.json) |
 | Transatlantic Liners 1889 | 183805 | [183805-transatlantic-liners-1889.json](./183805-transatlantic-liners-1889.json) |
 | Transball | 47554 | [47554-transball.json](./47554-transball.json) |
