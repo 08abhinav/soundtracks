@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares from the Deep: Davy Jones - Collector's Edition | 88643 | [88643-nightmares-from-the-deep-davy-jones-collectors-edition.json](./88643-nightmares-from-the-deep-davy-jones-collectors-edition.json) |
 | Nightmares from the Deep: The Cursed Heart | 16779 | [16779-nightmares-from-the-deep-the-cursed-heart.json](./16779-nightmares-from-the-deep-the-cursed-heart.json) |
 | Nightmares from the Deep: The Cursed Heart - Collector's Edition | 88494 | [88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json](./88494-nightmares-from-the-deep-the-cursed-heart-collectors-edition.json) |
+| Nightmares from the Deep: The Siren’s Call - Collector’s Edition | 228248 | [228248-nightmares-from-the-deep-the-siren-s-call-collector-s-edition.json](./228248-nightmares-from-the-deep-the-siren-s-call-collector-s-edition.json) |
 | Nightmares Mansion: Scary Dreams | 315104 | [315104-nightmares-mansion-scary-dreams.json](./315104-nightmares-mansion-scary-dreams.json) |
 | Nightmares of Death | 96205 | [96205-nightmares-of-death.json](./96205-nightmares-of-death.json) |
 | Nightmares of the death | 212969 | [212969-nightmares-of-the-death.json](./212969-nightmares-of-the-death.json) |
