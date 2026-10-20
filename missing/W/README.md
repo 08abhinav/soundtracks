@@ -6986,7 +6986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunkfall | 413887 | [413887-wunkfall.json](./413887-wunkfall.json) |
-| Wuppo | 26175 | [26175-wuppo.json](./26175-wuppo.json) |
 | Wuppo: Definitive Edition | 124120 | [124120-wuppo-definitive-edition.json](./124120-wuppo-definitive-edition.json) |
 | Wuppo: Special Edition | 52121 | [52121-wuppo-special-edition.json](./52121-wuppo-special-edition.json) |
 | Wuppo: Super Deluxe Edition | 118903 | [118903-wuppo-super-deluxe-edition.json](./118903-wuppo-super-deluxe-edition.json) |
