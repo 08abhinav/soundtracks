@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
+| Ballspell | 215564 | [215564-ballspell.json](./215564-ballspell.json) |
 | BallStrike | 142758 | [142758-ballstrike.json](./142758-ballstrike.json) |
 | Ballsvoid | 242492 | [242492-ballsvoid.json](./242492-ballsvoid.json) |
 | Balltopia | 375529 | [375529-balltopia.json](./375529-balltopia.json) |
