@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgement Silversword: Resurrection | 36405 | [36405-judgement-silversword-resurrection.json](./36405-judgement-silversword-resurrection.json) |
 | Judgment | 109274 | [109274-judgment.json](./109274-judgment.json) |
 | Judgment | 281562 | [281562-judgment.json](./281562-judgment.json) |
+| Judgment Day: Angel of God | 245686 | [245686-judgment-day-angel-of-god.json](./245686-judgment-day-angel-of-god.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jupiter's Orbit | 374248 | [374248-jupiters-orbit.json](./374248-jupiters-orbit.json) |
 | Jupitron Game Collection Vol. 4: Middleware | 198481 | [198481-jupitron-game-collection-vol-4-middleware.json](./198481-jupitron-game-collection-vol-4-middleware.json) |
 | Juqueision | 186301 | [186301-juqueision.json](./186301-juqueision.json) |
+| Jura Formula | 245672 | [245672-jura-formula.json](./245672-jura-formula.json) |
 | Juranka Classic | 101375 | [101375-juranka-classic.json](./101375-juranka-classic.json) |
 | Jurard Run | 337441 | [337441-jurard-run.json](./337441-jurard-run.json) |
 | Juraroid | 370551 | [370551-juraroid.json](./370551-juraroid.json) |
