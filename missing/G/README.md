@@ -35,9 +35,34 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 07: Love Love Knuckle | 137356 | [137356-g-mode-archives-07-love-love-knuckle.json](./137356-g-mode-archives-07-love-love-knuckle.json) |
 | G-Mode Archives 08: Pucchin Puzzle | 137678 | [137678-g-mode-archives-08-pucchin-puzzle.json](./137678-g-mode-archives-08-pucchin-puzzle.json) |
 | G-Mode Archives 09: Flyhight Cloudia II | 137593 | [137593-g-mode-archives-09-flyhight-cloudia-ii.json](./137593-g-mode-archives-09-flyhight-cloudia-ii.json) |
+| G-Mode Archives 09: Flyhight Cloudia II | 222177 | [222177-g-mode-archives-09-flyhight-cloudia-ii.json](./222177-g-mode-archives-09-flyhight-cloudia-ii.json) |
+| G-Mode Archives 10: Souhide Series Omatsuri-zukushi | 222176 | [222176-g-mode-archives-10-souhide-series-omatsuri-zukushi.json](./222176-g-mode-archives-10-souhide-series-omatsuri-zukushi.json) |
+| G-Mode Archives 11: Senbazuru | 222175 | [222175-g-mode-archives-11-senbazuru.json](./222175-g-mode-archives-11-senbazuru.json) |
+| G-Mode Archives 12: Night Hike | 222174 | [222174-g-mode-archives-12-night-hike.json](./222174-g-mode-archives-12-night-hike.json) |
 | G-Mode Archives 15: Chura-jima Kurashi | 163238 | [163238-g-mode-archives-15-chura-jima-kurashi.json](./163238-g-mode-archives-15-chura-jima-kurashi.json) |
+| G-Mode Archives 16: Beach Volleyball Girl Shizuku 2: Hishou-hen | 222173 | [222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json](./222173-g-mode-archives-16-beach-volleyball-girl-shizuku-2-hishou-hen.json) |
 | G-Mode Archives 17: Flyhight Cloudia III | 170501 | [170501-g-mode-archives-17-flyhight-cloudia-iii.json](./170501-g-mode-archives-17-flyhight-cloudia-iii.json) |
+| G-Mode Archives 18: Hero Must Die. Director's Cut | 222172 | [222172-g-mode-archives-18-hero-must-die-directors-cut.json](./222172-g-mode-archives-18-hero-must-die-directors-cut.json) |
 | G-Mode Archives 19: Magical Drop DX | 166078 | [166078-g-mode-archives-19-magical-drop-dx.json](./166078-g-mode-archives-19-magical-drop-dx.json) |
+| G-Mode Archives 20: Magical Fantasista | 222171 | [222171-g-mode-archives-20-magical-fantasista.json](./222171-g-mode-archives-20-magical-fantasista.json) |
+| G-Mode Archives 21: Unou Paradise | 222170 | [222170-g-mode-archives-21-unou-paradise.json](./222170-g-mode-archives-21-unou-paradise.json) |
+| G-Mode Archives 22: Heracles no Eikou III - Kamigami no Chinmoku | 222169 | [222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json](./222169-g-mode-archives-22-heracles-no-eikou-iii-kamigami-no-chinmoku.json) |
+| G-Mode Archives 23: Keitai Shoujo | 222168 | [222168-g-mode-archives-23-keitai-shoujo.json](./222168-g-mode-archives-23-keitai-shoujo.json) |
+| G-Mode Archives 26: Ore no Sentai Oranger | 222167 | [222167-g-mode-archives-26-ore-no-sentai-oranger.json](./222167-g-mode-archives-26-ore-no-sentai-oranger.json) |
+| G-Mode Archives 27: Ninja no Gakko | 222166 | [222166-g-mode-archives-27-ninja-no-gakko.json](./222166-g-mode-archives-27-ninja-no-gakko.json) |
+| G-Mode Archives 28: Sepas Channel | 222165 | [222165-g-mode-archives-28-sepas-channel.json](./222165-g-mode-archives-28-sepas-channel.json) |
+| G-Mode Archives 30: Sorcerian | 222164 | [222164-g-mode-archives-30-sorcerian.json](./222164-g-mode-archives-30-sorcerian.json) |
+| G-Mode Archives 31: Irekae IQ Crossword DX | 222163 | [222163-g-mode-archives-31-irekae-iq-crossword-dx.json](./222163-g-mode-archives-31-irekae-iq-crossword-dx.json) |
+| G-Mode Archives 32: Maou Company | 222162 | [222162-g-mode-archives-32-maou-company.json](./222162-g-mode-archives-32-maou-company.json) |
+| G-Mode Archives 33: Tetris Diamond | 222161 | [222161-g-mode-archives-33-tetris-diamond.json](./222161-g-mode-archives-33-tetris-diamond.json) |
+| G-Mode Archives 34: Majoukko Princess | 222160 | [222160-g-mode-archives-34-majoukko-princess.json](./222160-g-mode-archives-34-majoukko-princess.json) |
+| G-Mode Archives 35: Magical Fantasista II | 222159 | [222159-g-mode-archives-35-magical-fantasista-ii.json](./222159-g-mode-archives-35-magical-fantasista-ii.json) |
+| G-Mode Archives 36: Beach Volleyball Girl Shizuku 3 - Sekai Taikai-hen | 222158 | [222158-g-mode-archives-36-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json](./222158-g-mode-archives-36-beach-volleyball-girl-shizuku-3-sekai-taikai-hen.json) |
+| G-Mode Archives 37: Moe Slot Beach no Shizuku | 222157 | [222157-g-mode-archives-37-moe-slot-beach-no-shizuku.json](./222157-g-mode-archives-37-moe-slot-beach-no-shizuku.json) |
+| G-Mode Archives 38: Mystia2 | 222156 | [222156-g-mode-archives-38-mystia2.json](./222156-g-mode-archives-38-mystia2.json) |
+| G-Mode Archives 39: Flyhight Cloudia IV - Eien no Kizuna | 222155 | [222155-g-mode-archives-39-flyhight-cloudia-iv-eien-no-kizuna.json](./222155-g-mode-archives-39-flyhight-cloudia-iv-eien-no-kizuna.json) |
+| G-Mode Archives 40: Kamura - Kamigami to Chigiri Shisha | 222154 | [222154-g-mode-archives-40-kamura-kamigami-to-chigiri-shisha.json](./222154-g-mode-archives-40-kamura-kamigami-to-chigiri-shisha.json) |
+| G-Mode Archives 41: Izumi Jiken File Vol. 1 - Shiosai-hen | 222153 | [222153-g-mode-archives-41-izumi-jiken-file-vol-1-shiosai-hen.json](./222153-g-mode-archives-41-izumi-jiken-file-vol-1-shiosai-hen.json) |
 | G-Mode Archives 43: Izumi Jiken File Vol. 3 - Yujuku-hen | 221732 | [221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json](./221732-g-mode-archives-43-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | G-Mode Archives 44: Dragon x Dragon | 241041 | [241041-g-mode-archives-44-dragon-x-dragon.json](./241041-g-mode-archives-44-dragon-x-dragon.json) |
 | G-Mode Archives 45: Chura-umi Monogatari | 251464 | [251464-g-mode-archives-45-chura-umi-monogatari.json](./251464-g-mode-archives-45-chura-umi-monogatari.json) |
@@ -199,6 +224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachimuchi Monthly Puzzle | 112761 | [112761-gachimuchi-monthly-puzzle.json](./112761-gachimuchi-monthly-puzzle.json) |
 | Gachimuchi Reloaded | 86314 | [86314-gachimuchi-reloaded.json](./86314-gachimuchi-reloaded.json) |
 | Gachimuchi: The Card Game | 115583 | [115583-gachimuchi-the-card-game.json](./115583-gachimuchi-the-card-game.json) |
+| Gachinco Tennis S | 222196 | [222196-gachinco-tennis-s.json](./222196-gachinco-tennis-s.json) |
 | Gachinko Pro Yakyuu | 49567 | [49567-gachinko-pro-yakyuu.json](./49567-gachinko-pro-yakyuu.json) |
 | GachiTora! Abarenbou Kyoushi in High School | 58051 | [58051-gachitora-abarenbou-kyoushi-in-high-school.json](./58051-gachitora-abarenbou-kyoushi-in-high-school.json) |
 | Gadd Warp | 314572 | [314572-gadd-warp.json](./314572-gadd-warp.json) |
@@ -291,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Hyouryuu Senki Dai 2 Wa | 191873 | [191873-gakuen-hyouryuu-senki-dai-2-wa.json](./191873-gakuen-hyouryuu-senki-dai-2-wa.json) |
 | Gakuen Idolmaster | 300789 | [300789-gakuen-idolmaster.json](./300789-gakuen-idolmaster.json) |
 | Gakuen K: Wonderful School Days - V Edition | 108826 | [108826-gakuen-k-wonderful-school-days-v-edition.json](./108826-gakuen-k-wonderful-school-days-v-edition.json) |
+| Gakuen Rensenki | 221598 | [221598-gakuen-rensenki.json](./221598-gakuen-rensenki.json) |
 | Gakuen Senki | 251188 | [251188-gakuen-senki.json](./251188-gakuen-senki.json) |
 | Gakuen Senki Muryou | 49563 | [49563-gakuen-senki-muryou.json](./49563-gakuen-senki-muryou.json) |
 | Gakuen Sentai Solblast | 322189 | [322189-gakuen-sentai-solblast.json](./322189-gakuen-sentai-solblast.json) |
@@ -776,6 +803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallery One | 184002 | [184002-gallery-one.json](./184002-gallery-one.json) |
 | Gallery Theft | 348312 | [348312-gallery-theft.json](./348312-gallery-theft.json) |
 | Gallery: Coloring book & decor | 322558 | [322558-gallery-coloring-book-and-decor.json](./322558-gallery-coloring-book-and-decor.json) |
+| Gallery: Moa's Room | 221614 | [221614-gallery-moas-room.json](./221614-gallery-moas-room.json) |
 | Galletron | 13001 | [13001-galletron.json](./13001-galletron.json) |
 | Gallipoli Trenches: The Forgotten Front WW1 | 390590 | [390590-gallipoli-trenches-the-forgotten-front-ww1.json](./390590-gallipoli-trenches-the-forgotten-front-ww1.json) |
 | Gallium | 314077 | [314077-gallium.json](./314077-gallium.json) |
@@ -1899,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekitou Burning Pro Wrestling | 42593 | [42593-gekitou-burning-pro-wrestling.json](./42593-gekitou-burning-pro-wrestling.json) |
 | Gekitou Pro Yakyuu | 3929 | [3929-gekitou-pro-yakyuu.json](./3929-gekitou-pro-yakyuu.json) |
 | Gekitou Senshi Nagerunder | 59202 | [59202-gekitou-senshi-nagerunder.json](./59202-gekitou-senshi-nagerunder.json) |
+| Gekitou! Crush Gear Turbo | 222184 | [222184-gekitou-crush-gear-turbo.json](./222184-gekitou-crush-gear-turbo.json) |
 | Gekka Ryouran Romance | 212736 | [212736-gekka-ryouran-romance.json](./212736-gekka-ryouran-romance.json) |
 | Gekkeiju Online | 84306 | [84306-gekkeiju-online.json](./84306-gekkeiju-online.json) |
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
@@ -3253,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginsei Igo 3D | 222301 | [222301-ginsei-igo-3d.json](./222301-ginsei-igo-3d.json) |
 | Ginsei Igo: AI Teaches You How to Play Go | 366974 | [366974-ginsei-igo-ai-teaches-you-how-to-play-go.json](./366974-ginsei-igo-ai-teaches-you-how-to-play-go.json) |
 | Ginsei Igo: Next Generation | 83454 | [83454-ginsei-igo-next-generation.json](./83454-ginsei-igo-next-generation.json) |
+| Ginsei Shogi 3D | 222200 | [222200-ginsei-shogi-3d.json](./222200-ginsei-shogi-3d.json) |
 | Ginsei Shogi Portable: Silver Star Japan Ginsei Shogi Series | 83428 | [83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json](./83428-ginsei-shogi-portable-silver-star-japan-ginsei-shogi-series.json) |
 | Ginsei Shogi: Aun Toushin Kongou Raizan | 219024 | [219024-ginsei-shogi-aun-toushin-kongou-raizan.json](./219024-ginsei-shogi-aun-toushin-kongou-raizan.json) |
 | Ginsei Shogi: Kyoutendo Toufuu Raijin | 56159 | [56159-ginsei-shogi-kyoutendo-toufuu-raijin.json](./56159-ginsei-shogi-kyoutendo-toufuu-raijin.json) |
@@ -3589,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
 | Gleaner Heights: Season 2 | 196082 | [196082-gleaner-heights-season-2.json](./196082-gleaner-heights-season-2.json) |
 | Glee. | 92687 | [92687-glee.json](./92687-glee.json) |
+| Gleeb Glob | 221613 | [221613-gleeb-glob.json](./221613-gleeb-glob.json) |
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
