@@ -15329,6 +15329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
 | Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
 | Cyberpunch | 158691 | [158691-cyberpunch.json](./158691-cyberpunch.json) |
+| Cyberpunk | 236691 | [236691-cyberpunk.json](./236691-cyberpunk.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
