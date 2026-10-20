@@ -5765,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaun White Snowboarding: Target Edition | 23791 | [23791-shaun-white-snowboarding-target-edition.json](./23791-shaun-white-snowboarding-target-edition.json) |
 | Shaun White Snowboarding: World Stage | 5153 | [5153-shaun-white-snowboarding-world-stage.json](./5153-shaun-white-snowboarding-world-stage.json) |
 | Shavalyn Pop | 233115 | [233115-shavalyn-pop.json](./233115-shavalyn-pop.json) |
+| Shave & Stuff | 227665 | [227665-shave-and-stuff.json](./227665-shave-and-stuff.json) |
 | Shave & Stuff: Dreads | 373822 | [373822-shave-and-stuff-dreads.json](./373822-shave-and-stuff-dreads.json) |
 | Shave N Quit | 284412 | [284412-shave-n-quit.json](./284412-shave-n-quit.json) |
 | Shaverma: Ravshan Edition | 112943 | [112943-shaverma-ravshan-edition.json](./112943-shaverma-ravshan-edition.json) |
@@ -20650,6 +20651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Danger or Horror, Quest and Magic | 197390 | [197390-stranger-danger-or-horror-quest-and-magic.json](./197390-stranger-danger-or-horror-quest-and-magic.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
+| Stranger of Paradise: Final Fantasy Origin - Different Future | 227675 | [227675-stranger-of-paradise-final-fantasy-origin-different-future.json](./227675-stranger-of-paradise-final-fantasy-origin-different-future.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Wanderer of the Rift | 217790 | [217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json](./217790-stranger-of-paradise-final-fantasy-origin-wanderer-of-the-rift.json) |
 | Stranger of Sword City 2 | 19801 | [19801-stranger-of-sword-city-2.json](./19801-stranger-of-sword-city-2.json) |
