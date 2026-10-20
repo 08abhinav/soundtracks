@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
+| Geometry Race | 252572 | [252572-geometry-race.json](./252572-geometry-race.json) |
 | Geometry Rocket | 150534 | [150534-geometry-rocket.json](./150534-geometry-rocket.json) |
 | Geometry Runner Online | 88183 | [88183-geometry-runner-online.json](./88183-geometry-runner-online.json) |
 | Geometry Rush | 102366 | [102366-geometry-rush.json](./102366-geometry-rush.json) |
@@ -4004,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Go Ackman | 15926 | [15926-go-go-ackman.json](./15926-go-go-ackman.json) |
 | Go Go Ackman | 83923 | [83923-go-go-ackman.json](./83923-go-go-ackman.json) |
 | Go Go Burunyanman Ecstasy!!! | 383005 | [383005-go-go-burunyanman-ecstasy.json](./383005-go-go-burunyanman-ecstasy.json) |
+| Go Go Fast | 252570 | [252570-go-go-fast.json](./252570-go-go-fast.json) |
 | Go Go Galago | 61732 | [61732-go-go-galago.json](./61732-go-go-galago.json) |
 | Go Go Golf | 60885 | [60885-go-go-golf.json](./60885-go-go-golf.json) |
 | Go Go Jump!! | 244221 | [244221-go-go-jump.json](./244221-go-go-jump.json) |
@@ -4564,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoetiaX | 145665 | [145665-goetiax.json](./145665-goetiax.json) |
 | Goetita: Turn-based City | 215582 | [215582-goetita-turn-based-city.json](./215582-goetita-turn-based-city.json) |
 | GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
+| GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
@@ -5408,6 +5411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoSub | 78517 | [78517-gosub.json](./78517-gosub.json) |
 | GoSupermodel | 347099 | [347099-gosupermodel.json](./347099-gosupermodel.json) |
 | Got Cha Mini Game Festival 2 | 270598 | [270598-got-cha-mini-game-festival-2.json](./270598-got-cha-mini-game-festival-2.json) |
+| Got Got | 252569 | [252569-got-got.json](./252569-got-got.json) |
 | Got High | 290792 | [290792-got-high.json](./290792-got-high.json) |
 | Got Reincarnated into a World of RPG Full of NPCs... | 192788 | [192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json](./192788-got-reincarnated-into-a-world-of-rpg-full-of-npcs.json) |
 | Got Simulator | 291537 | [291537-got-simulator.json](./291537-got-simulator.json) |
@@ -8120,6 +8124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunMania | 328953 | [328953-gunmania.json](./328953-gunmania.json) |
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
+| Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
 | Gunner 2 | 54073 | [54073-gunner-2.json](./54073-gunner-2.json) |
