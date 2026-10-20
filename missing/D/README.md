@@ -12098,6 +12098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dreamworks Dragons: Wild Skies | 321022 | [321022-dreamworks-dragons-wild-skies.json](./321022-dreamworks-dragons-wild-skies.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
+| DreamWorks Movie Night | 228916 | [228916-dreamworks-movie-night.json](./228916-dreamworks-movie-night.json) |
 | DreamWorks Super Star Kartz | 3672 | [3672-dreamworks-super-star-kartz.json](./3672-dreamworks-super-star-kartz.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
 | DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
@@ -13220,6 +13221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
 | Dune II: The Building of a Dynasty | 86 | [86-dune-ii-the-building-of-a-dynasty.json](./86-dune-ii-the-building-of-a-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
+| Dune MUD | 228880 | [228880-dune-mud.json](./228880-dune-mud.json) |
 | Dune Raider | 377839 | [377839-dune-raider.json](./377839-dune-raider.json) |
 | Dune Rider | 13710 | [13710-dune-rider.json](./13710-dune-rider.json) |
 | Dune Sea | 120414 | [120414-dune-sea.json](./120414-dune-sea.json) |
