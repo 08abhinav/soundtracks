@@ -3791,6 +3791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
+| Ninety-Six | 236649 | [236649-ninety-six.json](./236649-ninety-six.json) |
 | Ninety8 | 246977 | [246977-ninety8.json](./246977-ninety8.json) |
 | Ningakki XXVI FPS | 173205 | [173205-ningakki-xxvi-fps.json](./173205-ningakki-xxvi-fps.json) |
 | Ningen Maru | 178677 | [178677-ningen-maru.json](./178677-ningen-maru.json) |
