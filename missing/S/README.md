@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SAB Baseball | 388118 | [388118-sab-baseball.json](./388118-sab-baseball.json) |
 | Sabacc Cantina | 355502 | [355502-sabacc-cantina.json](./355502-sabacc-cantina.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
+| Saban's Masked Rider | 217730 | [217730-sabans-masked-rider.json](./217730-sabans-masked-rider.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle | 78258 | [78258-sabans-mighty-morphin-power-rangers-mega-battle.json](./78258-sabans-mighty-morphin-power-rangers-mega-battle.json) |
 | Saban's Mighty Morphin Power Rangers: Mega Battle Launch Pack | 99743 | [99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json](./99743-sabans-mighty-morphin-power-rangers-mega-battle-launch-pack.json) |
@@ -7471,6 +7472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
+| Sid & Marty Krofft's Land of the Lost | 217725 | [217725-sid-and-marty-kroffts-land-of-the-lost.json](./217725-sid-and-marty-kroffts-land-of-the-lost.json) |
 | Sid Classic | 158145 | [158145-sid-classic.json](./158145-sid-classic.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Alpha Centauri | 863 | [863-sid-meiers-alpha-centauri.json](./863-sid-meiers-alpha-centauri.json) |
@@ -13830,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soukaigi | 71799 | [71799-soukaigi.json](./71799-soukaigi.json) |
 | Soukaishin | 250276 | [250276-soukaishin.json](./250276-soukaishin.json) |
 | Soukh | 358304 | [358304-soukh.json](./358304-soukh.json) |
+| Soukoku no Kusabi Hiiro no Kakera 3: Asu he no Tobira | 217761 | [217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json](./217761-soukoku-no-kusabi-hiiro-no-kakera-3-asu-he-no-tobira.json) |
 | Soukoku no Kusabi: Hiiro no Kakera 3 | 124051 | [124051-soukoku-no-kusabi-hiiro-no-kakera-3.json](./124051-soukoku-no-kusabi-hiiro-no-kakera-3.json) |
 | Soukou Akki Muramasa: Janen-hen | 170502 | [170502-soukou-akki-muramasa-janen-hen.json](./170502-soukou-akki-muramasa-janen-hen.json) |
 | Soukou Kihei Votoms | 85861 | [85861-soukou-kihei-votoms.json](./85861-soukou-kihei-votoms.json) |
@@ -18808,6 +18811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
 | Stargate | 19689 | [19689-stargate.json](./19689-stargate.json) |
+| Stargate | 217724 | [217724-stargate.json](./217724-stargate.json) |
 | Stargate | 245393 | [245393-stargate.json](./245393-stargate.json) |
 | Stargate | 281045 | [281045-stargate.json](./281045-stargate.json) |
 | Stargate | 281046 | [281046-stargate.json](./281046-stargate.json) |
@@ -20273,6 +20277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
 | Sting | 230541 | [230541-sting.json](./230541-sting.json) |
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
+| Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
 | Stinker Golf | 406107 | [406107-stinker-golf.json](./406107-stinker-golf.json) |
@@ -25319,6 +25324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Shadow of Apokolips | 4190 | [4190-superman-shadow-of-apokolips.json](./4190-superman-shadow-of-apokolips.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
+| Superman: The Man of Steel | 217736 | [217736-superman-the-man-of-steel.json](./217736-superman-the-man-of-steel.json) |
 | Superman: The Man of Steel | 6183 | [6183-superman-the-man-of-steel.json](./6183-superman-the-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
 | Superman: The New Superman Adventures | 3005 | [3005-superman-the-new-superman-adventures.json](./3005-superman-the-new-superman-adventures.json) |
