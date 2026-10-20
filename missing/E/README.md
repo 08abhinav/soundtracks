@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
 | Episode 666 | 261684 | [261684-episode-666.json](./261684-episode-666.json) |
+| Episode in the Life of an Artist | 217762 | [217762-episode-in-the-life-of-an-artist.json](./217762-episode-in-the-life-of-an-artist.json) |
 | Episode XOXO | 291981 | [291981-episode-xoxo.json](./291981-episode-xoxo.json) |
 | Epistory: Typing Chronicles | 11657 | [11657-epistory-typing-chronicles.json](./11657-epistory-typing-chronicles.json) |
 | Epitaph | 135780 | [135780-epitaph.json](./135780-epitaph.json) |
