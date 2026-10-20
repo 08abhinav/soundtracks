@@ -4962,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's a Knockout | 77615 | [77615-its-a-knockout.json](./77615-its-a-knockout.json) |
 | It's a Match!! | 268987 | [268987-its-a-match.json](./268987-its-a-match.json) |
 | It's A Me | 202391 | [202391-its-a-me.json](./202391-its-a-me.json) |
+| It's A Promise | 225513 | [225513-its-a-promise.json](./225513-its-a-promise.json) |
 | It's A Racing Game | 109427 | [109427-its-a-racing-game.json](./109427-its-a-racing-game.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
