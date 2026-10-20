@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
 | W.O.T.E: Waking On The Endtimes | 309875 | [309875-w-o-t-e-waking-on-the-endtimes.json](./309875-w-o-t-e-waking-on-the-endtimes.json) |
+| W.R.M. | 214345 | [214345-w-r-m.json](./214345-w-r-m.json) |
 | W.T. | 151689 | [151689-w-t.json](./151689-w-t.json) |
 | W2000_CHAN_>W<.exe | 383932 | [383932-w2000-chan-w-exe.json](./383932-w2000-chan-w-exe.json) |
 | W3Champions | 316722 | [316722-w3champions.json](./316722-w3champions.json) |
@@ -4764,6 +4765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
 | Witch Challenge | 294394 | [294394-witch-challenge.json](./294394-witch-challenge.json) |
 | Witch College | 120949 | [120949-witch-college.json](./120949-witch-college.json) |
+| Witch College Bundle | 214374 | [214374-witch-college-bundle.json](./214374-witch-college-bundle.json) |
 | Witch Cram Sorceries | 262901 | [262901-witch-cram-sorceries.json](./262901-witch-cram-sorceries.json) |
 | Witch Cry 2 | 301129 | [301129-witch-cry-2.json](./301129-witch-cry-2.json) |
 | Witch Cry: Horror House | 233460 | [233460-witch-cry-horror-house.json](./233460-witch-cry-horror-house.json) |
@@ -6510,6 +6512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | Worldcup Volleyball '95 | 378596 | [378596-worldcup-volleyball-95.json](./378596-worldcup-volleyball-95.json) |
+| WorldDefence: Girls' Highschool | 214326 | [214326-worlddefence-girls-highschool.json](./214326-worlddefence-girls-highschool.json) |
 | Worlde Lande Countrie | 316691 | [316691-worlde-lande-countrie.json](./316691-worlde-lande-countrie.json) |
 | Worldend Dominator Rosa | 380185 | [380185-worldend-dominator-rosa.json](./380185-worldend-dominator-rosa.json) |
 | Worldend Heroes | 364826 | [364826-worldend-heroes.json](./364826-worldend-heroes.json) |
