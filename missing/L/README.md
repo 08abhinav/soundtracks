@@ -483,7 +483,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
 | Lamp Post | 290872 | [290872-lamp-post.json](./290872-lamp-post.json) |
-| Lamplight City | 79999 | [79999-lamplight-city.json](./79999-lamplight-city.json) |
 | Lamplight City mobile | 175316 | [175316-lamplight-city-mobile.json](./175316-lamplight-city-mobile.json) |
 | Lamplight Station | 76682 | [76682-lamplight-station.json](./76682-lamplight-station.json) |
 | Lamplighter | 150417 | [150417-lamplighter.json](./150417-lamplighter.json) |
@@ -2140,7 +2139,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Destiny | 208390 | [208390-legends-of-destiny.json](./208390-legends-of-destiny.json) |
 | Legends of Dragaea: Idle Dungeons | 295264 | [295264-legends-of-dragaea-idle-dungeons.json](./295264-legends-of-dragaea-idle-dungeons.json) |
 | Legends of Draxia | 174612 | [174612-legends-of-draxia.json](./174612-legends-of-draxia.json) |
-| Legends of Eisenwald | 10388 | [10388-legends-of-eisenwald.json](./10388-legends-of-eisenwald.json) |
 | Legends of Eisenwald: Road to Iron Forest | 51842 | [51842-legends-of-eisenwald-road-to-iron-forest.json](./51842-legends-of-eisenwald-road-to-iron-forest.json) |
 | Legends of Elementia | 262957 | [262957-legends-of-elementia.json](./262957-legends-of-elementia.json) |
 | Legends of Elumia | 330891 | [330891-legends-of-elumia.json](./330891-legends-of-elumia.json) |
