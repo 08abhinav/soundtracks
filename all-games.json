@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:44:16.871Z",
-  "total_soundtracks": 2282,
+  "generated_at": "2026-10-20T21:45:38.276Z",
+  "total_soundtracks": 2283,
   "games": [
     {
       "igdb_id": 7522,
@@ -1234,6 +1234,20 @@
           "album_name": "Apex Legends: Music from the Outlands, Vol. 1 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0rC4E8j8GjJzp94pcmHPIw",
           "apple_music_url": "https://music.apple.com/us/album/apex-legends-music-from-the-outlands-vol-1-original/1564335054",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348192,
+      "game_name": "Aphelion",
+      "game_url": "https://ostdb.net/games/aphelion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739f7531fc0c99dc21f0206b9c",
+      "albums": [
+        {
+          "album_name": "Aphelion (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6gUHcjFXsRKs9CPPfVbVZd",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
