@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliro | 91590 | [91590-deliro.json](./91590-deliro.json) |
 | Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
 | DeliSpace | 291441 | [291441-delispace.json](./291441-delispace.json) |
+| Deliver It 3D | 214324 | [214324-deliver-it-3d.json](./214324-deliver-it-3d.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
 | Deliver Us From Evil | 178484 | [178484-deliver-us-from-evil.json](./178484-deliver-us-from-evil.json) |
@@ -5938,6 +5939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Gate | 403692 | [403692-devil-gate.json](./403692-devil-gate.json) |
 | Devil Girl | 153728 | [153728-devil-girl.json](./153728-devil-girl.json) |
 | Devil Girl Needs Massages | 111183 | [111183-devil-girl-needs-massages.json](./111183-devil-girl-needs-massages.json) |
+| Devil House | 214331 | [214331-devil-house.json](./214331-devil-house.json) |
 | Devil Hunter Idle | 234486 | [234486-devil-hunter-idle.json](./234486-devil-hunter-idle.json) |
 | Devil Hunter: Raider | 357372 | [357372-devil-hunter-raider.json](./357372-devil-hunter-raider.json) |
 | Devil Hunters | 240714 | [240714-devil-hunters.json](./240714-devil-hunters.json) |
