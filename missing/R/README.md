@@ -2570,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
+| Rebound Gun | 247914 | [247914-rebound-gun.json](./247914-rebound-gun.json) |
 | Rebound Raver | 147363 | [147363-rebound-raver.json](./147363-rebound-raver.json) |
 | Rebound Rivals | 311120 | [311120-rebound-rivals.json](./311120-rebound-rivals.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
@@ -3450,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999 | 385413 | [385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json](./385413-reincarnated-as-a-dark-lord-before-taking-over-the-world-with-power-999999999.json) |
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
+| Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnations: Awakening | 65846 | [65846-reincarnations-awakening.json](./65846-reincarnations-awakening.json) |
 | Reincarnations: Uncover the Past | 209209 | [209209-reincarnations-uncover-the-past.json](./209209-reincarnations-uncover-the-past.json) |
@@ -5178,6 +5180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
+| Rich Dad Simulator | 247904 | [247904-rich-dad-simulator.json](./247904-rich-dad-simulator.json) |
 | Rich Diamond | 209167 | [209167-rich-diamond.json](./209167-rich-diamond.json) |
 | Rich Everyone | 270052 | [270052-rich-everyone.json](./270052-rich-everyone.json) |
 | Rich Girl Fashion Mall | 103561 | [103561-rich-girl-fashion-mall.json](./103561-rich-girl-fashion-mall.json) |
@@ -9151,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run!: Hella Weenies Edition | 376245 | [376245-run-sausage-run-hella-weenies-edition.json](./376245-run-sausage-run-hella-weenies-edition.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
+| Run Tank Run | 247889 | [247889-run-tank-run.json](./247889-run-tank-run.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
 | Run Tekila Run! | 278901 | [278901-run-tekila-run.json](./278901-run-tekila-run.json) |
 | Run the Fan | 122361 | [122361-run-the-fan.json](./122361-run-the-fan.json) |
