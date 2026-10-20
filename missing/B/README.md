@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beep Boop | 319000 | [319000-beep-boop.json](./319000-beep-boop.json) |
 | Beep-Beeb | 15670 | [15670-beep-beeb.json](./15670-beep-beeb.json) |
 | Beepertron | 84239 | [84239-beepertron.json](./84239-beepertron.json) |
+| Beeps | 255511 | [255511-beeps.json](./255511-beeps.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
 | Beer and Rush: Non-VR Edition | 338226 | [338226-beer-and-rush-non-vr-edition.json](./338226-beer-and-rush-non-vr-edition.json) |
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
@@ -8846,6 +8847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BND Legenden: Operation Blackbox | 385985 | [385985-bnd-legenden-operation-blackbox.json](./385985-bnd-legenden-operation-blackbox.json) |
 | Bnuuy Deliverance | 339891 | [339891-bnuuy-deliverance.json](./339891-bnuuy-deliverance.json) |
 | Bo Bear | 347014 | [347014-bo-bear.json](./347014-bo-bear.json) |
+| Bó Cócó Zinha | 255545 | [255545-bo-coco-zinha.json](./255545-bo-coco-zinha.json) |
 | Bo Jackson Baseball | 8673 | [8673-bo-jackson-baseball.json](./8673-bo-jackson-baseball.json) |
 | Bō: Path of the Teal Lotus - Tanuki Kabuki | 335294 | [335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json](./335294-bo-path-of-the-teal-lotus-tanuki-kabuki.json) |
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
@@ -9927,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae Deluxe: Special Edition | 252633 | [252633-boreal-tenebrae-deluxe-special-edition.json](./252633-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
+| Boreal Tenebrae: Deluxe Special Edition | 255522 | [255522-boreal-tenebrae-deluxe-special-edition.json](./255522-boreal-tenebrae-deluxe-special-edition.json) |
 | Boreal Tenebrae: Deluxe Ultimate Edition | 247753 | [247753-boreal-tenebrae-deluxe-ultimate-edition.json](./247753-boreal-tenebrae-deluxe-ultimate-edition.json) |
 | Borealis | 17537 | [17537-borealis.json](./17537-borealis.json) |
 | Bored of the Rings | 12941 | [12941-bored-of-the-rings.json](./12941-bored-of-the-rings.json) |
