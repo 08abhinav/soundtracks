@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Patifferie | 307883 | [307883-la-patifferie.json](./307883-la-patifferie.json) |
 | La Peri | 33677 | [33677-la-peri.json](./33677-la-peri.json) |
 | La pesadilla de Illojuan | 302719 | [302719-la-pesadilla-de-illojuan.json](./302719-la-pesadilla-de-illojuan.json) |
+| La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
@@ -1589,6 +1590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Enthusiastic Losers | 157216 | [157216-league-of-enthusiastic-losers.json](./157216-league-of-enthusiastic-losers.json) |
 | League of Enthusiastic Losers + Brawl Chess | 228942 | [228942-league-of-enthusiastic-losers-brawl-chess.json](./228942-league-of-enthusiastic-losers-brawl-chess.json) |
 | League of Enthusiastic Losers: Definitive Edition | 246645 | [246645-league-of-enthusiastic-losers-definitive-edition.json](./246645-league-of-enthusiastic-losers-definitive-edition.json) |
+| League of Enthusiastic Losers: Deluxe Edition | 222189 | [222189-league-of-enthusiastic-losers-deluxe-edition.json](./222189-league-of-enthusiastic-losers-deluxe-edition.json) |
 | League of Enthusiastic Losers: Extended Edition | 237771 | [237771-league-of-enthusiastic-losers-extended-edition.json](./237771-league-of-enthusiastic-losers-extended-edition.json) |
 | League of Enthusiastic Losers: Premium Edition | 241397 | [241397-league-of-enthusiastic-losers-premium-edition.json](./241397-league-of-enthusiastic-losers-premium-edition.json) |
 | League of Enthusiastic Losers: Ultimate Edition | 231263 | [231263-league-of-enthusiastic-losers-ultimate-edition.json](./231263-league-of-enthusiastic-losers-ultimate-edition.json) |
