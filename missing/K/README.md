@@ -4301,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Krezber | 289574 | [289574-krezber.json](./289574-krezber.json) |
 | Krieg | 55807 | [55807-krieg.json](./55807-krieg.json) |
 | Kriegsfront Battlescaper | 212715 | [212715-kriegsfront-battlescaper.json](./212715-kriegsfront-battlescaper.json) |
+| Kriegsfront Tactics | 216624 | [216624-kriegsfront-tactics.json](./216624-kriegsfront-tactics.json) |
 | Kriegsland | 196022 | [196022-kriegsland.json](./196022-kriegsland.json) |
 | Kriegspiel | 84274 | [84274-kriegspiel.json](./84274-kriegspiel.json) |
 | Kriegsspiel: 7 Years' War | 388760 | [388760-kriegsspiel-7-years-war.json](./388760-kriegsspiel-7-years-war.json) |
