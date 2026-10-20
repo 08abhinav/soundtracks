@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Balls | 263474 | [263474-magic-balls.json](./263474-magic-balls.json) |
 | Magic Barrage - Bitferno | 36142 | [36142-magic-barrage-bitferno.json](./36142-magic-barrage-bitferno.json) |
 | Magic Battle Hasamuncho | 253760 | [253760-magic-battle-hasamuncho.json](./253760-magic-battle-hasamuncho.json) |
+| Magic Bean | 245154 | [245154-magic-bean.json](./245154-magic-bean.json) |
 | Magic Block | 48282 | [48282-magic-block.json](./48282-magic-block.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Book Escape | 315673 | [315673-magic-book-escape.json](./315673-magic-book-escape.json) |
@@ -2085,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
+| Man at Arms | 245151 | [245151-man-at-arms.json](./245151-man-at-arms.json) |
 | Man at Arms TD | 197713 | [197713-man-at-arms-td.json](./197713-man-at-arms-td.json) |
 | Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
@@ -5963,6 +5965,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megafist | 332400 | [332400-megafist.json](./332400-megafist.json) |
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
+| Megafortress: Operation Skymaster | 245175 | [245175-megafortress-operation-skymaster.json](./245175-megafortress-operation-skymaster.json) |
+| Megafortress: Operation Sledgehammer | 245174 | [245174-megafortress-operation-sledgehammer.json](./245174-megafortress-operation-sledgehammer.json) |
 | MegaGlest | 29772 | [29772-megaglest.json](./29772-megaglest.json) |
 | MegaGum | 403810 | [403810-megagum.json](./403810-megagum.json) |
 | Megagun | 408538 | [408538-megagun.json](./408538-megagun.json) |
@@ -7436,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteolife | 350212 | [350212-meteolife.json](./350212-meteolife.json) |
 | Meteor | 107757 | [107757-meteor.json](./107757-meteor.json) |
 | Meteor | 127321 | [127321-meteor.json](./127321-meteor.json) |
+| Meteor | 245159 | [245159-meteor.json](./245159-meteor.json) |
 | Meteor 60 Seconds! | 86750 | [86750-meteor-60-seconds.json](./86750-meteor-60-seconds.json) |
 | Meteor Arena | 317087 | [317087-meteor-arena.json](./317087-meteor-arena.json) |
 | Meteor Blaster | 97913 | [97913-meteor-blaster.json](./97913-meteor-blaster.json) |
@@ -13516,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouser | 407849 | [407849-mouser.json](./407849-mouser.json) |
 | MouseRun | 127180 | [127180-mouserun.json](./127180-mouserun.json) |
 | Mousetrap | 12923 | [12923-mousetrap.json](./12923-mousetrap.json) |
+| Mousetrap | 245136 | [245136-mousetrap.json](./245136-mousetrap.json) |
 | MouseVentures | 331967 | [331967-mouseventures.json](./331967-mouseventures.json) |
 | MouseWars | 211190 | [211190-mousewars.json](./211190-mousewars.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
