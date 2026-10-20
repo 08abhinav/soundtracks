@@ -5615,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Heat Major League Baseball 2002 | 49399 | [49399-high-heat-major-league-baseball-2002.json](./49399-high-heat-major-league-baseball-2002.json) |
 | High Heat Major League Baseball 2003 | 6435 | [6435-high-heat-major-league-baseball-2003.json](./6435-high-heat-major-league-baseball-2003.json) |
 | High Heat Major League Baseball 2004 | 24089 | [24089-high-heat-major-league-baseball-2004.json](./24089-high-heat-major-league-baseball-2004.json) |
+| High Heels! | 241807 | [241807-high-heels.json](./241807-high-heels.json) |
 | High Hell | 56581 | [56581-high-hell.json](./56581-high-hell.json) |
 | High Impact Football | 40061 | [40061-high-impact-football.json](./40061-high-impact-football.json) |
 | High Jinx! | 217977 | [217977-high-jinx.json](./217977-high-jinx.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Warrior | 121574 | [121574-holy-warrior.json](./121574-holy-warrior.json) |
 | Holyday City | 101933 | [101933-holyday-city.json](./101933-holyday-city.json) |
 | Holyday City: Reloaded | 76536 | [76536-holyday-city-reloaded.json](./76536-holyday-city-reloaded.json) |
+| HolyHunt | 241791 | [241791-holyhunt.json](./241791-holyhunt.json) |
 | HolyZone | 311884 | [311884-holyzone.json](./311884-holyzone.json) |
 | Homam: An Inventor's Fist | 369366 | [369366-homam-an-inventors-fist.json](./369366-homam-an-inventors-fist.json) |
 | Homaysa | 224223 | [224223-homaysa.json](./224223-homaysa.json) |
@@ -7403,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
 | Hoppy Bobby | 58494 | [58494-hoppy-bobby.json](./58494-hoppy-bobby.json) |
 | Hoppy Frog | 253248 | [253248-hoppy-frog.json](./253248-hoppy-frog.json) |
+| Hoppy Hoop | 241810 | [241810-hoppy-hoop.json](./241810-hoppy-hoop.json) |
 | Hoppy Hop | 250884 | [250884-hoppy-hop.json](./250884-hoppy-hop.json) |
 | Hoppy Square DX | 253210 | [253210-hoppy-square-dx.json](./253210-hoppy-square-dx.json) |
 | Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
@@ -8924,6 +8927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
+| Hunt: Showdown - Bridgewater's Honor | 241834 | [241834-hunt-showdown-bridgewaters-honor.json](./241834-hunt-showdown-bridgewaters-honor.json) |
 | Hunt: Showdown - Cold Blooded | 196100 | [196100-hunt-showdown-cold-blooded.json](./196100-hunt-showdown-cold-blooded.json) |
 | Hunt: Showdown - Deluxe Edition | 146115 | [146115-hunt-showdown-deluxe-edition.json](./146115-hunt-showdown-deluxe-edition.json) |
 | Hunt: Showdown - Fear the Reaper | 224219 | [224219-hunt-showdown-fear-the-reaper.json](./224219-hunt-showdown-fear-the-reaper.json) |
