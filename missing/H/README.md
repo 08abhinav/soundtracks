@@ -7799,6 +7799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot And Lovely: Violet | 367270 | [367270-hot-and-lovely-violet.json](./367270-hot-and-lovely-violet.json) |
 | Hot Asses | 393391 | [393391-hot-asses.json](./393391-hot-asses.json) |
 | Hot Beaver Camp | 260516 | [260516-hot-beaver-camp.json](./260516-hot-beaver-camp.json) |
+| Hot Blood | 240638 | [240638-hot-blood.json](./240638-hot-blood.json) |
 | Hot Brain | 44483 | [44483-hot-brain.json](./44483-hot-brain.json) |
 | Hot Brass | 129108 | [129108-hot-brass.json](./129108-hot-brass.json) |
 | Hot Brass: Operator Edition | 167176 | [167176-hot-brass-operator-edition.json](./167176-hot-brass-operator-edition.json) |
