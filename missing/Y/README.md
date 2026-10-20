@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakuza 6: The Song of Life - Digital Deluxe | 97248 | [97248-yakuza-6-the-song-of-life-digital-deluxe.json](./97248-yakuza-6-the-song-of-life-digital-deluxe.json) |
 | Yakuza 6: The Song of Life - Essence of Art Edition | 97249 | [97249-yakuza-6-the-song-of-life-essence-of-art-edition.json](./97249-yakuza-6-the-song-of-life-essence-of-art-edition.json) |
 | Yakuza 6: The Song of Life - Launch Edition | 97250 | [97250-yakuza-6-the-song-of-life-launch-edition.json](./97250-yakuza-6-the-song-of-life-launch-edition.json) |
+| Yakuza Complete Series | 254290 | [254290-yakuza-complete-series.json](./254290-yakuza-complete-series.json) |
 | Yakuza Empire | 139699 | [139699-yakuza-empire.json](./139699-yakuza-empire.json) |
 | Yakuza GB | 301530 | [301530-yakuza-gb.json](./301530-yakuza-gb.json) |
 | Yakuza Kiss | 104130 | [104130-yakuza-kiss.json](./104130-yakuza-kiss.json) |
