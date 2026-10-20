@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
 | Gatekeeper Simulator: Inner Circle | 407484 | [407484-gatekeeper-simulator-inner-circle.json](./407484-gatekeeper-simulator-inner-circle.json) |
 | Gatekeeper: Eclipse | 226801 | [226801-gatekeeper-eclipse.json](./226801-gatekeeper-eclipse.json) |
+| Gatekeeper: Infinity | 247898 | [247898-gatekeeper-infinity.json](./247898-gatekeeper-infinity.json) |
 | Gatekeeper: Supporter Pack | 310401 | [310401-gatekeeper-supporter-pack.json](./310401-gatekeeper-supporter-pack.json) |
 | Gatekeeper's Week | 349827 | [349827-gatekeepers-week.json](./349827-gatekeepers-week.json) |
 | GatePass | 319987 | [319987-gatepass.json](./319987-gatepass.json) |
