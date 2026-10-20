@@ -3763,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear's Restaurant | 151754 | [151754-bears-restaurant.json](./151754-bears-restaurant.json) |
 | Bearable - Return to Candyland | 232391 | [232391-bearable-return-to-candyland.json](./232391-bearable-return-to-candyland.json) |
 | Bearable Nightmares | 148893 | [148893-bearable-nightmares.json](./148893-bearable-nightmares.json) |
+| Bearalot: Bear Links | 235077 | [235077-bearalot-bear-links.json](./235077-bearalot-bear-links.json) |
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
@@ -4164,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
+| BeatPunk! | 235037 | [235037-beatpunk.json](./235037-beatpunk.json) |
 | Beatrect | 311897 | [311897-beatrect.json](./311897-beatrect.json) |
 | Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
@@ -12579,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
+| Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
 | Bugs Bunny | 46887 | [46887-bugs-bunny.json](./46887-bugs-bunny.json) |
 | Bugs Bunny & Taz: Time Busters | 3045 | [3045-bugs-bunny-and-taz-time-busters.json](./3045-bugs-bunny-and-taz-time-busters.json) |
 | Bugs Bunny Birthday Bash | 283812 | [283812-bugs-bunny-birthday-bash.json](./283812-bugs-bunny-birthday-bash.json) |
