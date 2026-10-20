@@ -3206,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriza | 119633 | [119633-oriza.json](./119633-oriza.json) |
 | Ork | 12709 | [12709-ork.json](./12709-ork.json) |
 | Ork | 385386 | [385386-ork.json](./385386-ork.json) |
+| Ork Attack: The Return | 223865 | [223865-ork-attack-the-return.json](./223865-ork-attack-the-return.json) |
 | Ork Manager: Coal & Top hats | 125400 | [125400-ork-manager-coal-and-top-hats.json](./125400-ork-manager-coal-and-top-hats.json) |
 | Orken | 384839 | [384839-orken.json](./384839-orken.json) |
 | Orkendale: The Scarred Land | 291322 | [291322-orkendale-the-scarred-land.json](./291322-orkendale-the-scarred-land.json) |
