@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Gunship DEX | 208606 | [208606-helicopter-gunship-dex.json](./208606-helicopter-gunship-dex.json) |
 | Helicopter Mission | 73853 | [73853-helicopter-mission.json](./73853-helicopter-mission.json) |
 | Helicopter Rescue | 41536 | [41536-helicopter-rescue.json](./41536-helicopter-rescue.json) |
+| Helicopter Rescue Team Game | 250176 | [250176-helicopter-rescue-team-game.json](./250176-helicopter-rescue-team-game.json) |
 | Helicopter Shooter: Hot Ace Heli War Borne | 403741 | [403741-helicopter-shooter-hot-ace-heli-war-borne.json](./403741-helicopter-shooter-hot-ace-heli-war-borne.json) |
 | Helicopter Sim - Hellfire Squadron | 88439 | [88439-helicopter-sim-hellfire-squadron.json](./88439-helicopter-sim-hellfire-squadron.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
@@ -5038,6 +5039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi-iro no Kakera | 77914 | [77914-hi-iro-no-kakera.json](./77914-hi-iro-no-kakera.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku | 45287 | [45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json](./45287-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku.json) |
 | Hi-iro no Kakera Aizou-ban: Akane-iro no Tsuioku - Limited Edition | 254439 | [254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json](./254439-hi-iro-no-kakera-aizou-ban-akane-iro-no-tsuioku-limited-edition.json) |
+| Hi-Leg Fantasy | 250188 | [250188-hi-leg-fantasy.json](./250188-hi-leg-fantasy.json) |
 | Hi-Octane | 12434 | [12434-hi-octane.json](./12434-hi-octane.json) |
 | Hi-Res Brazil | 406093 | [406093-hi-res-brazil.json](./406093-hi-res-brazil.json) |
 | Hi-Res Cribbage | 66708 | [66708-hi-res-cribbage.json](./66708-hi-res-cribbage.json) |
