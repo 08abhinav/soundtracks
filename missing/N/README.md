@@ -894,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Navy Training Exercise: Strike and Retrieve | 69830 | [69830-navy-training-exercise-strike-and-retrieve.json](./69830-navy-training-exercise-strike-and-retrieve.json) |
 | Navy War | 207517 | [207517-navy-war.json](./207517-navy-war.json) |
 | Navyblue and the Spectrum Killers | 108079 | [108079-navyblue-and-the-spectrum-killers.json](./108079-navyblue-and-the-spectrum-killers.json) |
+| Nawatobi suru Carbuncle | 253763 | [253763-nawatobi-suru-carbuncle.json](./253763-nawatobi-suru-carbuncle.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight" | 150171 | [150171-naxat-cup-satellaview-bass-tournament-big-fight.json](./150171-naxat-cup-satellaview-bass-tournament-big-fight.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-1-shuu | 179960 | [179960-naxat-cup-satellaview-bass-tournament-big-fight-dai-1-shuu.json](./179960-naxat-cup-satellaview-bass-tournament-big-fight-dai-1-shuu.json) |
 | Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-2-shuu | 179961 | [179961-naxat-cup-satellaview-bass-tournament-big-fight-dai-2-shuu.json](./179961-naxat-cup-satellaview-bass-tournament-big-fight-dai-2-shuu.json) |
@@ -3141,6 +3142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night and Day | 70378 | [70378-night-and-day.json](./70378-night-and-day.json) |
 | Night at Grandma's | 331330 | [331330-night-at-grandmas.json](./331330-night-at-grandmas.json) |
 | Night at the Cabin | 298653 | [298653-night-at-the-cabin.json](./298653-night-at-the-cabin.json) |
+| Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
 | Night At the Gates of Hell | 207381 | [207381-night-at-the-gates-of-hell.json](./207381-night-at-the-gates-of-hell.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
@@ -3662,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikakudori Solitaire | 89851 | [89851-nikakudori-solitaire.json](./89851-nikakudori-solitaire.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
+| Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
 | Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
@@ -5702,6 +5705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numolition | 239345 | [239345-numolition.json](./239345-numolition.json) |
 | Nump Jump | 213587 | [213587-nump-jump.json](./213587-nump-jump.json) |
 | Numpurr Card Wars | 350216 | [350216-numpurr-card-wars.json](./350216-numpurr-card-wars.json) |
+| Numsol | 253788 | [253788-numsol.json](./253788-numsol.json) |
 | NumTasu | 256242 | [256242-numtasu.json](./256242-numtasu.json) |
 | Numtate | 129687 | [129687-numtate.json](./129687-numtate.json) |
 | NumWorlds | 335846 | [335846-numworlds.json](./335846-numworlds.json) |
