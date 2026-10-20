@@ -3439,7 +3439,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
-| Othercide | 107140 | [107140-othercide.json](./107140-othercide.json) |
 | Otherland | 23637 | [23637-otherland.json](./23637-otherland.json) |
 | Otherland | 72560 | [72560-otherland.json](./72560-otherland.json) |
 | Otherlights | 275113 | [275113-otherlights.json](./275113-otherlights.json) |
