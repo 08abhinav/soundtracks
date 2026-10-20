@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Printer | 164890 | [164890-voxel-printer.json](./164890-voxel-printer.json) |
 | Voxel Project | 302185 | [302185-voxel-project.json](./302185-voxel-project.json) |
 | Voxel Race | 105381 | [105381-voxel-race.json](./105381-voxel-race.json) |
+| Voxel Santa Skiing | 232295 | [232295-voxel-santa-skiing.json](./232295-voxel-santa-skiing.json) |
 | Voxel Scavenger | 124240 | [124240-voxel-scavenger.json](./124240-voxel-scavenger.json) |
 | Voxel Shooter | 406110 | [406110-voxel-shooter.json](./406110-voxel-shooter.json) |
 | Voxel Sword | 113513 | [113513-voxel-sword.json](./113513-voxel-sword.json) |
