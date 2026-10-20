@@ -24802,6 +24802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
+| Twin Hobo Rocket | 215565 | [215565-twin-hobo-rocket.json](./215565-twin-hobo-rocket.json) |
 | Twin Hotel, Spa, and More | 409208 | [409208-twin-hotel-spa-and-more.json](./409208-twin-hotel-spa-and-more.json) |
 | Twin Jet Racer | 225200 | [225200-twin-jet-racer.json](./225200-twin-jet-racer.json) |
 | Twin Jump | 168621 | [168621-twin-jump.json](./168621-twin-jump.json) |
