@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paco El Hare vs Los Marcianos Siderales | 277926 | [277926-paco-el-hare-vs-los-marcianos-siderales.json](./277926-paco-el-hare-vs-los-marcianos-siderales.json) |
 | Pacremental | 398410 | [398410-pacremental.json](./398410-pacremental.json) |
 | PACS: Post Apocalypse Courier Service | 323035 | [323035-pacs-post-apocalypse-courier-service.json](./323035-pacs-post-apocalypse-courier-service.json) |
+| Pact | 207683 | [207683-pact.json](./207683-pact.json) |
 | Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
 | Pact of Darkness | 217188 | [217188-pact-of-darkness.json](./217188-pact-of-darkness.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
@@ -3356,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Pachinko | 385719 | [385719-perfect-pachinko.json](./385719-perfect-pachinko.json) |
 | Perfect Pair Solitaire | 210005 | [210005-perfect-pair-solitaire.json](./210005-perfect-pair-solitaire.json) |
 | Perfect Park | 135102 | [135102-perfect-park.json](./135102-perfect-park.json) |
+| Perfect Partner | 207694 | [207694-perfect-partner.json](./207694-perfect-partner.json) |
 | Perfect Paths | 193721 | [193721-perfect-paths.json](./193721-perfect-paths.json) |
 | Perfect Performer: The Yellow Monkey | 301350 | [301350-perfect-performer-the-yellow-monkey.json](./301350-perfect-performer-the-yellow-monkey.json) |
 | Perfect Plan | 29226 | [29226-perfect-plan.json](./29226-perfect-plan.json) |
@@ -6977,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Romance Girls: Conquer the Zodiac Horoscope | 378862 | [378862-planet-romance-girls-conquer-the-zodiac-horoscope.json](./378862-planet-romance-girls-conquer-the-zodiac-horoscope.json) |
 | Planet Royale | 292556 | [292556-planet-royale.json](./292556-planet-royale.json) |
 | Planet Runners | 96258 | [96258-planet-runners.json](./96258-planet-runners.json) |
+| Planet S | 207686 | [207686-planet-s.json](./207686-planet-s.json) |
 | Planet S: A New Horizon | 369146 | [369146-planet-s-a-new-horizon.json](./369146-planet-s-a-new-horizon.json) |
 | Planet Scanner | 276622 | [276622-planet-scanner.json](./276622-planet-scanner.json) |
 | Planet Sea | 306189 | [306189-planet-sea.json](./306189-planet-sea.json) |
@@ -9498,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Ball | 246360 | [246360-pop-ball.json](./246360-pop-ball.json) |
 | Pop Balloons | 247069 | [247069-pop-balloons.json](./247069-pop-balloons.json) |
 | Pop Battle | 208069 | [208069-pop-battle.json](./208069-pop-battle.json) |
+| Pop Bowling VR | 207697 | [207697-pop-bowling-vr.json](./207697-pop-bowling-vr.json) |
 | Pop Breaker | 45251 | [45251-pop-breaker.json](./45251-pop-breaker.json) |
 | Pop Corny | 256186 | [256186-pop-corny.json](./256186-pop-corny.json) |
 | Pop Cutie! Street Fashion Simulation | 72743 | [72743-pop-cutie-street-fashion-simulation.json](./72743-pop-cutie-street-fashion-simulation.json) |
@@ -12465,6 +12469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Propagate | 366218 | [366218-propagate.json](./366218-propagate.json) |
 | Propagation: Paradise Hotel | 190483 | [190483-propagation-paradise-hotel.json](./190483-propagation-paradise-hotel.json) |
 | Propeller Arena: Aviation Battle Championship | 46555 | [46555-propeller-arena-aviation-battle-championship.json](./46555-propeller-arena-aviation-battle-championship.json) |
+| Propeller King | 207674 | [207674-propeller-king.json](./207674-propeller-king.json) |
 | Propeller Pete | 334178 | [334178-propeller-pete.json](./334178-propeller-pete.json) |
 | Proper Tosser | 413493 | [413493-proper-tosser.json](./413493-proper-tosser.json) |
 | Property Brothers Home Design | 187801 | [187801-property-brothers-home-design.json](./187801-property-brothers-home-design.json) |
@@ -12617,6 +12622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype X1 | 25707 | [25707-prototype-x1.json](./25707-prototype-x1.json) |
 | Prototype-Cube | 118330 | [118330-prototype-cube.json](./118330-prototype-cube.json) |
 | Prototype: Biohazard Bundle | 19611 | [19611-prototype-biohazard-bundle.json](./19611-prototype-biohazard-bundle.json) |
+| Prototypers | 207670 | [207670-prototypers.json](./207670-prototypers.json) |
 | Protoverse | 177454 | [177454-protoverse.json](./177454-protoverse.json) |
 | ProtoViolence | 271174 | [271174-protoviolence.json](./271174-protoviolence.json) |
 | Protox.io | 377988 | [377988-protox-io.json](./377988-protox-io.json) |
