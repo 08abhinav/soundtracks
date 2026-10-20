@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T10:41:38.378Z",
-  "total_soundtracks": 2209,
+  "generated_at": "2026-10-20T10:41:50.286Z",
+  "total_soundtracks": 2210,
   "games": [
     {
       "igdb_id": 7522,
@@ -26849,6 +26849,20 @@
         {
           "album_name": "XEVIOUS(Game Sound Effect) Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2nBBk1k9QYwevAGhxOqW88",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 117509,
+      "game_name": "XIII",
+      "game_url": "https://ostdb.net/games/xiii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dddeb59f0ccfcdc6338e1fa5",
+      "albums": [
+        {
+          "album_name": "XIII (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5a1UMoP88KL9OUttrD15zu",
           "apple_music_url": "",
           "album_link_url": ""
         }
