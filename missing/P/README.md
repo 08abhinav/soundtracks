@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mystery EP DX | 322042 | [322042-pocket-mystery-ep-dx.json](./322042-pocket-mystery-ep-dx.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
+| Pocket Oasis | 251982 | [251982-pocket-oasis.json](./251982-pocket-oasis.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
 | Pocket Oracle | 345813 | [345813-pocket-oracle.json](./345813-pocket-oracle.json) |
 | Pocket Pack: Strategy Games | 84719 | [84719-pocket-pack-strategy-games.json](./84719-pocket-pack-strategy-games.json) |
@@ -9284,6 +9285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Killer 4 | 229831 | [229831-poop-killer-4.json](./229831-poop-killer-4.json) |
 | Poop Killer 5 | 229832 | [229832-poop-killer-5.json](./229832-poop-killer-5.json) |
 | Poop Killer 6 | 230873 | [230873-poop-killer-6.json](./230873-poop-killer-6.json) |
+| Poop Killer 7 | 251979 | [251979-poop-killer-7.json](./251979-poop-killer-7.json) |
 | Poop Killer II | 229824 | [229824-poop-killer-ii.json](./229824-poop-killer-ii.json) |
 | Poop KIller III | 229825 | [229825-poop-killer-iii.json](./229825-poop-killer-iii.json) |
 | Poop Killer Origins | 229833 | [229833-poop-killer-origins.json](./229833-poop-killer-origins.json) |
@@ -10121,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
+| Power Vacuum | 251987 | [251987-power-vacuum.json](./251987-power-vacuum.json) |
 | Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
 | Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
@@ -10444,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Press a Button Simulator | 369920 | [369920-press-a-button-simulator.json](./369920-press-a-button-simulator.json) |
 | Press Any Button | 143596 | [143596-press-any-button.json](./143596-press-any-button.json) |
 | Press Any Key | 295563 | [295563-press-any-key.json](./295563-press-any-key.json) |
+| Press Axe | 252000 | [252000-press-axe.json](./252000-press-axe.json) |
 | Press Inc. | 108275 | [108275-press-inc.json](./108275-press-inc.json) |
 | Press Play | 229568 | [229568-press-play.json](./229568-press-play.json) |
 | Press the alphabetically first letter | 207222 | [207222-press-the-alphabetically-first-letter.json](./207222-press-the-alphabetically-first-letter.json) |
