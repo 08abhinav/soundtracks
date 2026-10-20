@@ -4784,6 +4784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Alien Force | 210256 | [210256-ben-10-alien-force.json](./210256-ben-10-alien-force.json) |
 | Ben 10: Alien Force | 2801 | [2801-ben-10-alien-force.json](./2801-ben-10-alien-force.json) |
 | Ben 10: Backpack | 363891 | [363891-ben-10-backpack.json](./363891-ben-10-backpack.json) |
+| Ben 10: Blockade Blitz | 221061 | [221061-ben-10-blockade-blitz.json](./221061-ben-10-blockade-blitz.json) |
 | Ben 10: Cannonbolt Pinball - Ghostfreak's Revenge | 340798 | [340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json](./340798-ben-10-cannonbolt-pinball-ghostfreaks-revenge.json) |
 | Ben 10: Critical Impact | 416039 | [416039-ben-10-critical-impact.json](./416039-ben-10-critical-impact.json) |
 | Ben 10: Galactic Racing | 210257 | [210257-ben-10-galactic-racing.json](./210257-ben-10-galactic-racing.json) |
@@ -10025,6 +10026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlight | 115808 | [115808-borderlight.json](./115808-borderlight.json) |
 | Borderline | 321413 | [321413-borderline.json](./321413-borderline.json) |
 | Borderline | 6101 | [6101-borderline.json](./6101-borderline.json) |
+| Borderline Detective | 221051 | [221051-borderline-detective.json](./221051-borderline-detective.json) |
 | Borderline Enigma | 278273 | [278273-borderline-enigma.json](./278273-borderline-enigma.json) |
 | Borderline Homicide | 245788 | [245788-borderline-homicide.json](./245788-borderline-homicide.json) |
 | Borderline Project: Beta-2 | 184577 | [184577-borderline-project-beta-2.json](./184577-borderline-project-beta-2.json) |
