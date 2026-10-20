@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Galaxy Pain | 186558 | [186558-gal-galaxy-pain.json](./186558-gal-galaxy-pain.json) |
 | Gal Guardians: Demon Purge | 212571 | [212571-gal-guardians-demon-purge.json](./212571-gal-guardians-demon-purge.json) |
 | Gal Guardians: Servants of the Dark | 317701 | [317701-gal-guardians-servants-of-the-dark.json](./317701-gal-guardians-servants-of-the-dark.json) |
+| Gal Gun: Double Peace Bilingal | 218892 | [218892-gal-gun-double-peace-bilingal.json](./218892-gal-gun-double-peace-bilingal.json) |
 | Gal Gunvolt Burst | 92038 | [92038-gal-gunvolt-burst.json](./92038-gal-gunvolt-burst.json) |
 | Gal Metal: Encore Pack | 314025 | [314025-gal-metal-encore-pack.json](./314025-gal-metal-encore-pack.json) |
 | Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garestia | 253345 | [253345-garestia.json](./253345-garestia.json) |
 | Garetto | 163917 | [163917-garetto.json](./163917-garetto.json) |
 | Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
+| Garfield | 218912 | [218912-garfield.json](./218912-garfield.json) |
 | Garfield | 234571 | [234571-garfield.json](./234571-garfield.json) |
 | Garfield | 95360 | [95360-garfield.json](./95360-garfield.json) |
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
@@ -5654,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradius | 1476 | [1476-gradius.json](./1476-gradius.json) |
 | Gradius | 213191 | [213191-gradius.json](./213191-gradius.json) |
+| Gradius | 218913 | [218913-gradius.json](./218913-gradius.json) |
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
