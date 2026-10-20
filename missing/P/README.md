@@ -4826,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigface Massacre | 207719 | [207719-pigface-massacre.json](./207719-pigface-massacre.json) |
 | Pigg Life | 355167 | [355167-pigg-life.json](./355167-pigg-life.json) |
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
+| Pigglet in Mrs. Big Bad Werewolf | 211581 | [211581-pigglet-in-mrs-big-bad-werewolf.json](./211581-pigglet-in-mrs-big-bad-werewolf.json) |
 | Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
 | Piggy Monte | 415154 | [415154-piggy-monte.json](./415154-piggy-monte.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinch | 66756 | [66756-pinch.json](./66756-pinch.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
 | Pinch 2 HD: Special Edition | 63316 | [63316-pinch-2-hd-special-edition.json](./63316-pinch-2-hd-special-edition.json) |
+| Pinch of Fighting Girls | 211611 | [211611-pinch-of-fighting-girls.json](./211611-pinch-of-fighting-girls.json) |
 | Pinchcliffe Grand Prix: Anniversary Edition | 345121 | [345121-pinchcliffe-grand-prix-anniversary-edition.json](./345121-pinchcliffe-grand-prix-anniversary-edition.json) |
 | Pinched | 412786 | [412786-pinched.json](./412786-pinched.json) |
 | Pincremental | 138720 | [138720-pincremental.json](./138720-pincremental.json) |
@@ -9176,6 +9178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon Mayhem | 411736 | [411736-polygon-mayhem.json](./411736-polygon-mayhem.json) |
 | Polygon of Reality | 188998 | [188998-polygon-of-reality.json](./188998-polygon-of-reality.json) |
+| Polygon Pursuit | 211569 | [211569-polygon-pursuit.json](./211569-polygon-pursuit.json) |
 | Polygon Race | 262932 | [262932-polygon-race.json](./262932-polygon-race.json) |
 | Polygon Survival | 269111 | [269111-polygon-survival.json](./269111-polygon-survival.json) |
 | Polygon War | 406163 | [406163-polygon-war.json](./406163-polygon-war.json) |
