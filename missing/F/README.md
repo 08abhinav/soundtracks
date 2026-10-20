@@ -2129,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faro | 377923 | [377923-faro.json](./377923-faro.json) |
 | Farocar | 92980 | [92980-farocar.json](./92980-farocar.json) |
 | Faroda | 362765 | [362765-faroda.json](./362765-faroda.json) |
+| Faroeste | 231206 | [231206-faroeste.json](./231206-faroeste.json) |
 | Farol del Diablo (Devil's Lantern) | 347136 | [347136-farol-del-diablo-devils-lantern.json](./347136-farol-del-diablo-devils-lantern.json) |
 | Faron's Fate | 34311 | [34311-farons-fate.json](./34311-farons-fate.json) |
 | Farplane Relic | 110768 | [110768-farplane-relic.json](./110768-farplane-relic.json) |
@@ -7164,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForbiddenEgg | 352382 | [352382-forbiddenegg.json](./352382-forbiddenegg.json) |
 | ForbiddenWord | 242675 | [242675-forbiddenword.json](./242675-forbiddenword.json) |
 | Forbon FC | 182163 | [182163-forbon-fc.json](./182163-forbon-fc.json) |
+| Força Alienígena | 231205 | [231205-forca-alienigena.json](./231205-forca-alienigena.json) |
 | Force Escape | 91285 | [91285-force-escape.json](./91285-force-escape.json) |
 | Force Five | 39441 | [39441-force-five.json](./39441-force-five.json) |
 | Force Of Guardians | 325736 | [325736-force-of-guardians.json](./325736-force-of-guardians.json) |
