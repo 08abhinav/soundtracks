@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappening | 397909 | [397909-unhappening.json](./397909-unhappening.json) |
 | Unhappy Ever After | 30617 | [30617-unhappy-ever-after.json](./30617-unhappy-ever-after.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
+| UnHappy Place | 213781 | [213781-unhappy-place.json](./213781-unhappy-place.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
