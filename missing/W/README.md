@@ -2780,6 +2780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale Game Online | 274529 | [274529-whale-game-online.json](./274529-whale-game-online.json) |
 | Whale Island | 105724 | [105724-whale-island.json](./105724-whale-island.json) |
 | Whale Left: Part 1 | 367942 | [367942-whale-left-part-1.json](./367942-whale-left-part-1.json) |
+| Whale of Noise | 207142 | [207142-whale-of-noise.json](./207142-whale-of-noise.json) |
 | Whale Rock Games: Immersive Puzzles Bundle | 249804 | [249804-whale-rock-games-immersive-puzzles-bundle.json](./249804-whale-rock-games-immersive-puzzles-bundle.json) |
 | Whale Rock: All Games Bundle | 249802 | [249802-whale-rock-all-games-bundle.json](./249802-whale-rock-all-games-bundle.json) |
 | Whale Singer: Rise of the Leviathan | 334899 | [334899-whale-singer-rise-of-the-leviathan.json](./334899-whale-singer-rise-of-the-leviathan.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
+| Where's Oswald? | 207124 | [207124-wheres-oswald.json](./207124-wheres-oswald.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
