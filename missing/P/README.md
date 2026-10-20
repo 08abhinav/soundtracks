@@ -1175,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Drifter | 236826 | [236826-paper-drifter.json](./236826-paper-drifter.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
+| Paper Flight: Beyond Time | 236130 | [236130-paper-flight-beyond-time.json](./236130-paper-flight-beyond-time.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
 | Paper Flight: Relic Hunter | 263132 | [263132-paper-flight-relic-hunter.json](./263132-paper-flight-relic-hunter.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
@@ -1609,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Ghost Chapter | 187936 | [187936-paranormal-files-ghost-chapter.json](./187936-paranormal-files-ghost-chapter.json) |
 | Paranormal Files: Ghost Chapter - Collector's Edition | 168857 | [168857-paranormal-files-ghost-chapter-collectors-edition.json](./168857-paranormal-files-ghost-chapter-collectors-edition.json) |
 | Paranormal Files: Hook Man's Legend - Collector's Edition | 123967 | [123967-paranormal-files-hook-mans-legend-collectors-edition.json](./123967-paranormal-files-hook-mans-legend-collectors-edition.json) |
+| Paranormal Files: Price of a Secret - Collector's Edition | 236147 | [236147-paranormal-files-price-of-a-secret-collectors-edition.json](./236147-paranormal-files-price-of-a-secret-collectors-edition.json) |
 | Paranormal Files: Sacrifice to Shadows - Collector's Edition | 339788 | [339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json](./339788-paranormal-files-sacrifice-to-shadows-collectors-edition.json) |
 | Paranormal Files: Silent Willow - Collector's Edition | 244295 | [244295-paranormal-files-silent-willow-collectors-edition.json](./244295-paranormal-files-silent-willow-collectors-edition.json) |
 | Paranormal Files: The Tall Man - Collector's Edition | 338759 | [338759-paranormal-files-the-tall-man-collectors-edition.json](./338759-paranormal-files-the-tall-man-collectors-edition.json) |
@@ -9020,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Link: Battle Heroes | 215879 | [215879-poly-link-battle-heroes.json](./215879-poly-link-battle-heroes.json) |
 | Poly Link: RPG Girls | 215397 | [215397-poly-link-rpg-girls.json](./215397-poly-link-rpg-girls.json) |
 | Poly Match | 266267 | [266267-poly-match.json](./266267-poly-match.json) |
+| Poly Memory: Animals | 236122 | [236122-poly-memory-animals.json](./236122-poly-memory-animals.json) |
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
 | Poly Memory: Cats | 195724 | [195724-poly-memory-cats.json](./195724-poly-memory-cats.json) |
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
@@ -13192,6 +13195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Farming 2018: Zetor Major CL 80 | 163030 | [163030-pure-farming-2018-zetor-major-cl-80.json](./163030-pure-farming-2018-zetor-major-cl-80.json) |
 | Pure Football 2018 | 81926 | [81926-pure-football-2018.json](./81926-pure-football-2018.json) |
 | Pure Golf | 311866 | [311866-pure-golf.json](./311866-pure-golf.json) |
+| Pure Gore | 236159 | [236159-pure-gore.json](./236159-pure-gore.json) |
 | Pure Heart | 371443 | [371443-pure-heart.json](./371443-pure-heart.json) |
 | Pure Hearts | 329041 | [329041-pure-hearts.json](./329041-pure-hearts.json) |
 | Pure Hearts | 86912 | [86912-pure-hearts.json](./86912-pure-hearts.json) |
@@ -14084,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
+| Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
 | Pyro | 254353 | [254353-pyro.json](./254353-pyro.json) |
 | Pyro | 373724 | [373724-pyro.json](./373724-pyro.json) |
