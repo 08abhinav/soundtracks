@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn & Discover Home | 326588 | [326588-learn-and-discover-home.json](./326588-learn-and-discover-home.json) |
 | Learn & Play: Dino Coloring | 400073 | [400073-learn-and-play-dino-coloring.json](./400073-learn-and-play-dino-coloring.json) |
 | Learn Basic Mandarin!! | 396220 | [396220-learn-basic-mandarin.json](./396220-learn-basic-mandarin.json) |
+| Learn Chess | 240066 | [240066-learn-chess.json](./240066-learn-chess.json) |
 | Learn Colors Shapes Preschool Games for Kids Games | 232169 | [232169-learn-colors-shapes-preschool-games-for-kids-games.json](./232169-learn-colors-shapes-preschool-games-for-kids-games.json) |
 | Learn Geography | 47904 | [47904-learn-geography.json](./47904-learn-geography.json) |
 | Learn Japanese Kana & Vocab with Sushi | 368886 | [368886-learn-japanese-kana-and-vocab-with-sushi.json](./368886-learn-japanese-kana-and-vocab-with-sushi.json) |
@@ -2521,6 +2522,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings | 239079 | [239079-lemmings.json](./239079-lemmings.json) |
 | Lemmings | 239128 | [239128-lemmings.json](./239128-lemmings.json) |
 | Lemmings | 239310 | [239310-lemmings.json](./239310-lemmings.json) |
+| Lemmings | 240086 | [240086-lemmings.json](./240086-lemmings.json) |
+| Lemmings | 240087 | [240087-lemmings.json](./240087-lemmings.json) |
+| Lemmings | 240089 | [240089-lemmings.json](./240089-lemmings.json) |
+| Lemmings | 240091 | [240091-lemmings.json](./240091-lemmings.json) |
 | Lemmings | 240318 | [240318-lemmings.json](./240318-lemmings.json) |
 | Lemmings | 240322 | [240322-lemmings.json](./240322-lemmings.json) |
 | Lemmings | 240324 | [240324-lemmings.json](./240324-lemmings.json) |
@@ -4394,6 +4399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Frog Game | 229057 | [229057-little-frog-game.json](./229057-little-frog-game.json) |
 | Little Galaxy Family | 175424 | [175424-little-galaxy-family.json](./175424-little-galaxy-family.json) |
 | Little Game | 185071 | [185071-little-game.json](./185071-little-game.json) |
+| Little Garden | 240044 | [240044-little-garden.json](./240044-little-garden.json) |
 | Little Gardens | 128385 | [128385-little-gardens.json](./128385-little-gardens.json) |
 | Little Genius Kids | 89542 | [89542-little-genius-kids.json](./89542-little-genius-kids.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
