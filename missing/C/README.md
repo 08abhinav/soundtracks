@@ -2558,6 +2558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Asleep | 315503 | [315503-castle-of-asleep.json](./315503-castle-of-asleep.json) |
 | Castle of Awa | 104089 | [104089-castle-of-awa.json](./104089-castle-of-awa.json) |
 | Castle of Cards | 200129 | [200129-castle-of-cards.json](./200129-castle-of-cards.json) |
+| Castle of Deceit | 242413 | [242413-castle-of-deceit.json](./242413-castle-of-deceit.json) |
 | Castle of Deceit | 7779 | [7779-castle-of-deceit.json](./7779-castle-of-deceit.json) |
 | Castle of Doom | 215380 | [215380-castle-of-doom.json](./215380-castle-of-doom.json) |
 | Castle of Dr. Brain | 7722 | [7722-castle-of-dr-brain.json](./7722-castle-of-dr-brain.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
+| Chinese Chess Party | 242372 | [242372-chinese-chess-party.json](./242372-chinese-chess-party.json) |
 | Chinese Chess Wargame | 259502 | [259502-chinese-chess-wargame.json](./259502-chinese-chess-wargame.json) |
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
@@ -8080,6 +8082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cluster Buster | 292831 | [292831-cluster-buster.json](./292831-cluster-buster.json) |
 | Cluster Cluck | 412955 | [412955-cluster-cluck.json](./412955-cluster-cluck.json) |
 | Cluster Dust | 89653 | [89653-cluster-dust.json](./89653-cluster-dust.json) |
+| Cluster Edge: Kimi wo Matsu Mirai he no Akashi | 242363 | [242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json](./242363-cluster-edge-kimi-wo-matsu-mirai-he-no-akashi.json) |
 | Cluster Fly | 226305 | [226305-cluster-fly.json](./226305-cluster-fly.json) |
 | Cluster Gun | 134997 | [134997-cluster-gun.json](./134997-cluster-gun.json) |
 | Cluster Six | 58756 | [58756-cluster-six.json](./58756-cluster-six.json) |
@@ -9104,6 +9107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Collection 5 | 320454 | [320454-coloring-pixels-collection-5.json](./320454-coloring-pixels-collection-5.json) |
 | Coloring Pixels: Comic Pack | 393615 | [393615-coloring-pixels-comic-pack.json](./393615-coloring-pixels-comic-pack.json) |
 | Coloring Pixels: Dinosaurs Pack | 162590 | [162590-coloring-pixels-dinosaurs-pack.json](./162590-coloring-pixels-dinosaurs-pack.json) |
+| Coloring Pixels: Emoji Pack | 242391 | [242391-coloring-pixels-emoji-pack.json](./242391-coloring-pixels-emoji-pack.json) |
 | Coloring Pixels: Fairy Tales Pack | 162606 | [162606-coloring-pixels-fairy-tales-pack.json](./162606-coloring-pixels-fairy-tales-pack.json) |
 | Coloring Pixels: Fantasy Maps Pack | 351622 | [351622-coloring-pixels-fantasy-maps-pack.json](./351622-coloring-pixels-fantasy-maps-pack.json) |
 | Coloring Pixels: Farm Pack | 162613 | [162613-coloring-pixels-farm-pack.json](./162613-coloring-pixels-farm-pack.json) |
@@ -9111,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Flowers Pack | 162591 | [162591-coloring-pixels-flowers-pack.json](./162591-coloring-pixels-flowers-pack.json) |
 | Coloring Pixels: Food Pack | 162602 | [162602-coloring-pixels-food-pack.json](./162602-coloring-pixels-food-pack.json) |
 | Coloring Pixels: Fun and Games Pack | 277968 | [277968-coloring-pixels-fun-and-games-pack.json](./277968-coloring-pixels-fun-and-games-pack.json) |
+| Coloring Pixels: Gems and Minerals Pack | 242390 | [242390-coloring-pixels-gems-and-minerals-pack.json](./242390-coloring-pixels-gems-and-minerals-pack.json) |
 | Coloring Pixels: Gothic Pack | 354617 | [354617-coloring-pixels-gothic-pack.json](./354617-coloring-pixels-gothic-pack.json) |
 | Coloring Pixels: Halloween 2 Pack | 162601 | [162601-coloring-pixels-halloween-2-pack.json](./162601-coloring-pixels-halloween-2-pack.json) |
 | Coloring Pixels: Halloween 3 Pack | 222817 | [222817-coloring-pixels-halloween-3-pack.json](./222817-coloring-pixels-halloween-3-pack.json) |
