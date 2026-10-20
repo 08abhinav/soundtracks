@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
+| Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
 | Sacabambaspis' Friendly Adventure | 319012 | [319012-sacabambaspis-friendly-adventure.json](./319012-sacabambaspis-friendly-adventure.json) |
 | Saccharine Echo | 390578 | [390578-saccharine-echo.json](./390578-saccharine-echo.json) |
 | Saccharine Pale | 239646 | [239646-saccharine-pale.json](./239646-saccharine-pale.json) |
@@ -8555,6 +8556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: Die Toten Hosen | 84215 | [84215-singstar-die-toten-hosen.json](./84215-singstar-die-toten-hosen.json) |
 | SingStar: Frozen | 86080 | [86080-singstar-frozen.json](./86080-singstar-frozen.json) |
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
+| SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
 | Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
 | Singstar: Operación Triunfo | 135679 | [135679-singstar-operacion-triunfo.json](./135679-singstar-operacion-triunfo.json) |
@@ -10953,6 +10955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs Balls Adventure | 343825 | [343825-smurfs-balls-adventure.json](./343825-smurfs-balls-adventure.json) |
 | Smurfs Bubble Story | 109176 | [109176-smurfs-bubble-story.json](./109176-smurfs-bubble-story.json) |
 | Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
+| Smurfs Kart: Turbo Edition | 219444 | [219444-smurfs-kart-turbo-edition.json](./219444-smurfs-kart-turbo-edition.json) |
 | Smurfs Save the Day: Greedy Smurf | 65988 | [65988-smurfs-save-the-day-greedy-smurf.json](./65988-smurfs-save-the-day-greedy-smurf.json) |
 | Smurfs Save the Day: Handy Smurf | 65990 | [65990-smurfs-save-the-day-handy-smurf.json](./65990-smurfs-save-the-day-handy-smurf.json) |
 | Smurfs Save the Day: Harmony Smurf | 65989 | [65989-smurfs-save-the-day-harmony-smurf.json](./65989-smurfs-save-the-day-harmony-smurf.json) |
@@ -11742,6 +11745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
+| Snug Finder: More Fun | 219472 | [219472-snug-finder-more-fun.json](./219472-snug-finder-more-fun.json) |
 | Snuggle Nightmare | 404430 | [404430-snuggle-nightmare.json](./404430-snuggle-nightmare.json) |
 | Snusoed | 154389 | [154389-snusoed.json](./154389-snusoed.json) |
 | Snwbrd: Freestyle Snowboarding | 235196 | [235196-snwbrd-freestyle-snowboarding.json](./235196-snwbrd-freestyle-snowboarding.json) |
@@ -23364,6 +23368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Genjin 2 | 42408 | [42408-super-genjin-2.json](./42408-super-genjin-2.json) |
 | Super Gerball | 89179 | [89179-super-gerball.json](./89179-super-gerball.json) |
 | Super Gerry | 113641 | [113641-super-gerry.json](./113641-super-gerry.json) |
+| Super Ghouls 'n Ghosts | 219488 | [219488-super-ghouls-n-ghosts.json](./219488-super-ghouls-n-ghosts.json) |
 | Super Ghouls'n Ghosts Restoration | 247446 | [247446-super-ghoulsn-ghosts-restoration.json](./247446-super-ghoulsn-ghosts-restoration.json) |
 | Super Girl | 187301 | [187301-super-girl.json](./187301-super-girl.json) |
 | Super Glitch Dash | 146221 | [146221-super-glitch-dash.json](./146221-super-glitch-dash.json) |
