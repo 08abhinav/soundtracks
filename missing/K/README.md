@@ -2930,6 +2930,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
 | Kissed by a Star | 349981 | [349981-kissed-by-a-star.json](./349981-kissed-by-a-star.json) |
 | Kissed by the Baddest Bidder | 125276 | [125276-kissed-by-the-baddest-bidder.json](./125276-kissed-by-the-baddest-bidder.json) |
+| Kissed by the Baddest Bidder: Drowning in your Kiss - Baba | 238343 | [238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json](./238343-kissed-by-the-baddest-bidder-drowning-in-your-kiss-baba.json) |
+| Kissed by the Baddest Bidder: Drowning in your Kiss - Mamoru | 238330 | [238330-kissed-by-the-baddest-bidder-drowning-in-your-kiss-mamoru.json](./238330-kissed-by-the-baddest-bidder-drowning-in-your-kiss-mamoru.json) |
+| Kissed by the Baddest Bidder: Drowning in your Kiss - Ota | 238331 | [238331-kissed-by-the-baddest-bidder-drowning-in-your-kiss-ota.json](./238331-kissed-by-the-baddest-bidder-drowning-in-your-kiss-ota.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - Eisuke | 212343 | [212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json](./212343-kissed-by-the-baddest-bidder-engagement-cruise-eisuke.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - Eisuke DLC Pack | 212350 | [212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json](./212350-kissed-by-the-baddest-bidder-engagement-cruise-eisuke-dlc-pack.json) |
 | Kissed by the Baddest Bidder: Engagement Cruise - His PoV: Eisuke | 212344 | [212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json](./212344-kissed-by-the-baddest-bidder-engagement-cruise-his-pov-eisuke.json) |
