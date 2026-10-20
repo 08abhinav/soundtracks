@@ -2833,7 +2833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
-| Scritchy Scratchy | 371567 | [371567-scritchy-scratchy.json](./371567-scritchy-scratchy.json) |
 | Scrivalry | 58129 | [58129-scrivalry.json](./58129-scrivalry.json) |
 | Scroll Driver Lite | 232157 | [232157-scroll-driver-lite.json](./232157-scroll-driver-lite.json) |
 | Scroll Extreme | 22266 | [22266-scroll-extreme.json](./22266-scroll-extreme.json) |
@@ -13799,7 +13798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry Sir, I'm out of controls | 184581 | [184581-sorry-sir-im-out-of-controls.json](./184581-sorry-sir-im-out-of-controls.json) |
 | Sorry Survivor | 343865 | [343865-sorry-survivor.json](./343865-sorry-survivor.json) |
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
-| Sorry We're Closed | 190964 | [190964-sorry-were-closed.json](./190964-sorry-were-closed.json) |
 | Sorry We're Closed: Deluxe Edition | 402332 | [402332-sorry-were-closed-deluxe-edition.json](./402332-sorry-were-closed-deluxe-edition.json) |
 | Sorry We're Closed: Perfect Combo Edition | 402333 | [402333-sorry-were-closed-perfect-combo-edition.json](./402333-sorry-were-closed-perfect-combo-edition.json) |
 | Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
