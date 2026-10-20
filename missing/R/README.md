@@ -6671,7 +6671,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCop | 198876 | [198876-robocop.json](./198876-robocop.json) |
 | RoboCop | 218942 | [218942-robocop.json](./218942-robocop.json) |
 | RoboCop | 242810 | [242810-robocop.json](./242810-robocop.json) |
-| RoboCop | 59110 | [59110-robocop.json](./59110-robocop.json) |
 | RoboCop 2 | 144145 | [144145-robocop-2.json](./144145-robocop-2.json) |
 | RoboCop 2 | 219017 | [219017-robocop-2.json](./219017-robocop-2.json) |
 | RoboCop 2 | 6853 | [6853-robocop-2.json](./6853-robocop-2.json) |
