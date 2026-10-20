@@ -2233,6 +2233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Networm | 34333 | [34333-networm.json](./34333-networm.json) |
 | Neues | 387131 | [387131-neues.json](./387131-neues.json) |
 | Neugier: Umi to Kaze no Kodou | 15848 | [15848-neugier-umi-to-kaze-no-kodou.json](./15848-neugier-umi-to-kaze-no-kodou.json) |
+| Neural Cloud | 219969 | [219969-neural-cloud.json](./219969-neural-cloud.json) |
 | Neural Dominion | 318543 | [318543-neural-dominion.json](./318543-neural-dominion.json) |
 | Neural Drive | 390584 | [390584-neural-drive.json](./390584-neural-drive.json) |
 | Neural Gear | 93545 | [93545-neural-gear.json](./93545-neural-gear.json) |
