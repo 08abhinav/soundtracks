@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:20:59.690Z",
-  "total_soundtracks": 2241,
+  "generated_at": "2026-10-20T21:21:11.628Z",
+  "total_soundtracks": 2242,
   "games": [
     {
       "igdb_id": 7522,
@@ -7891,6 +7891,20 @@
         {
           "album_name": "F1 22 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5hRhjXSgKKSlLX8ZFhxEqT",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 193538,
+      "game_name": "F1 Manager 2022",
+      "game_url": "https://ostdb.net/games/f1-manager-2022",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf6712584c44f7ee046e68e3",
+      "albums": [
+        {
+          "album_name": "F1® Manager 2022: Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2iCXY0yXfkSVGoRNzc8lDS",
           "apple_music_url": "",
           "album_link_url": ""
         }
