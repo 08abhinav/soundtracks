@@ -8388,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Character Outfit - Summer Candy | 309089 | [309089-apex-heroines-character-outfit-summer-candy.json](./309089-apex-heroines-character-outfit-summer-candy.json) |
 | Apex Heroines: Character Outfit - Warm-up | 309087 | [309087-apex-heroines-character-outfit-warm-up.json](./309087-apex-heroines-character-outfit-warm-up.json) |
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
+| Apex Legends Mobile: Champions | 236657 | [236657-apex-legends-mobile-champions.json](./236657-apex-legends-mobile-champions.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
 | Apex Legends Overclocked | 408527 | [408527-apex-legends-overclocked.json](./408527-apex-legends-overclocked.json) |
@@ -8409,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: PlayStation Plus Play Pack | 316623 | [316623-apex-legends-playstation-plus-play-pack.json](./316623-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: PlayStation Plus Play Pack | 325861 | [325861-apex-legends-playstation-plus-play-pack.json](./325861-apex-legends-playstation-plus-play-pack.json) |
 | Apex Legends: Prodigy | 342775 | [342775-apex-legends-prodigy.json](./342775-apex-legends-prodigy.json) |
+| Apex Legends: Revelry | 236655 | [236655-apex-legends-revelry.json](./236655-apex-legends-revelry.json) |
 | Apex Legends: Season 5 | 133259 | [133259-apex-legends-season-5.json](./133259-apex-legends-season-5.json) |
 | Apex Legends: Season 6 | 136736 | [136736-apex-legends-season-6.json](./136736-apex-legends-season-6.json) |
 | Apex Legends: Season 7 | 140448 | [140448-apex-legends-season-7.json](./140448-apex-legends-season-7.json) |
