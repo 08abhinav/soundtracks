@@ -900,6 +900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare to Dream | 57598 | [57598-dare-to-dream.json](./57598-dare-to-dream.json) |
 | Dare to Fly | 52184 | [52184-dare-to-fly.json](./52184-dare-to-fly.json) |
 | Dare to Lucid Dream | 332416 | [332416-dare-to-lucid-dream.json](./332416-dare-to-lucid-dream.json) |
+| Dare to Speed | 244089 | [244089-dare-to-speed.json](./244089-dare-to-speed.json) |
 | Dare to Stay | 207014 | [207014-dare-to-stay.json](./207014-dare-to-stay.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
@@ -1648,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
+| DarkSwarm | 244073 | [244073-darkswarm.json](./244073-darkswarm.json) |
 | DarkSwitch | 345416 | [345416-darkswitch.json](./345416-darkswitch.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
@@ -10307,6 +10309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downtown | 354573 | [354573-downtown.json](./354573-downtown.json) |
 | DownTown | 94406 | [94406-downtown.json](./94406-downtown.json) |
 | Downtown Club | 330284 | [330284-downtown-club.json](./330284-downtown-club.json) |
+| Downtown Dealers | 244071 | [244071-downtown-dealers.json](./244071-downtown-dealers.json) |
 | Downtown Dodgeball Da yo: Zenin Shuugou!! | 60501 | [60501-downtown-dodgeball-da-yo-zenin-shuugou.json](./60501-downtown-dodgeball-da-yo-zenin-shuugou.json) |
 | Downtown Jam | 207784 | [207784-downtown-jam.json](./207784-downtown-jam.json) |
 | Downtown Journey | 308454 | [308454-downtown-journey.json](./308454-downtown-journey.json) |
@@ -12183,6 +12186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
 | Driftmania | 287360 | [287360-driftmania.json](./287360-driftmania.json) |
 | Driftmoon | 8205 | [8205-driftmoon.json](./8205-driftmoon.json) |
+| Drifto | 244103 | [244103-drifto.json](./244103-drifto.json) |
 | Drifto: Infinite Touge | 305914 | [305914-drifto-infinite-touge.json](./305914-drifto-infinite-touge.json) |
 | DriftOn | 129053 | [129053-drifton.json](./129053-drifton.json) |
 | Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
@@ -13573,6 +13577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon! | 290300 | [290300-dungeon.json](./290300-dungeon.json) |
 | Dungeon!: Order of the Raven | 400535 | [400535-dungeon-order-of-the-raven.json](./400535-dungeon-order-of-the-raven.json) |
 | Dungeon's Fall | 189125 | [189125-dungeons-fall.json](./189125-dungeons-fall.json) |
+| Dungeon's Legion | 244122 | [244122-dungeons-legion.json](./244122-dungeons-legion.json) |
 | Dungeon&Girls | 131403 | [131403-dungeon-and-girls.json](./131403-dungeon-and-girls.json) |
 | Dungeonborne | 253880 | [253880-dungeonborne.json](./253880-dungeonborne.json) |
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
