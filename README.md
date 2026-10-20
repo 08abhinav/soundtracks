@@ -1472,6 +1472,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b273213de0d8704205a65eef4a85" width="60" /> | [Sonic Rush Adventure](https://ostdb.net/games/sonic-rush-adventure) | **SONIC RUSH ADVENTURE Original Soundtrack (Bonus Track Version)** · [Spotify](https://open.spotify.com/album/16Vc29Y6JniVjfHI8Tk8W4) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a29cceb3f930a7f214c12fb9" width="60" /> | [Sonic Superstars](https://ostdb.net/games/sonic-superstars) | **Sonic Superstars Original Soundtrack** · [Spotify](https://open.spotify.com/album/6FRooPXIKWual1wUZMhIAM) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/6e/70/356e7098-065d-69d1-2383-52ce9f1af067/artwork.jpg/600x600bb.jpg" width="60" /> | [Sons of the Forest](https://ostdb.net/games/sons-of-the-forest) | **Sons Of The Forest (Main Theme) Epic Cover - Single** · [Spotify](https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4) · [Album](https://album.link/i/1841096732) |
+| <img src="https://i.scdn.co/image/ab67616d0000b2734478c2462ed0894c0c084dbc" width="60" /> | [Sorry We're Closed](https://ostdb.net/games/sorry-were-closed) | **Sorry We're Closed (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/7D0FXD8ajd3IpIXjr8AsOW) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/71/cf/5f71cfb4-79b8-c2f0-49cf-cc5140b0127f/PA00175364_0_212141_jacket.jpg/600x600bb.jpg" width="60" /> | [SoulCalibur II](https://ostdb.net/games/soulcalibur-ii) | **SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N) · [Apple Music](https://music.apple.com/us/album/soulcalibur-original-soundtrack/1791656213) · [Album](https://album.link/i/1791656213) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273fc1175829acccddc0b126b41" width="60" /> | [SoulCalibur II](https://ostdb.net/games/soulcalibur-ii) | **SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273aedb0ab8c3dbbc11a76941fe" width="60" /> | [SoulCalibur IV](https://ostdb.net/games/soulcalibur-iv) | **SOULCALIBUR Ⅳ ORIGINAL SOUNDTRACK** · [Spotify](https://open.spotify.com/album/2KXbLwn7OWdJMTPzTCJwhv) |
@@ -1974,4 +1975,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2291 soundtracks · last updated 2026-10-20T21:47:04.578Z_
+_2292 soundtracks · last updated 2026-10-20T21:47:15.819Z_
