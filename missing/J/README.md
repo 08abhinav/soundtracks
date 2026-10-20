@@ -1499,11 +1499,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu '98: Kettei-ban | 229572 | [229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json](./229572-jikkyou-pawafuru-puroyakyu-98-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kaimaku-ban | 138738 | [138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json](./138738-jikkyou-pawafuru-puroyakyu-99-kaimaku-ban.json) |
 | Jikkyou Pawafuru Puroyakyu '99: Kettei-ban | 229574 | [229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json](./229574-jikkyou-pawafuru-puroyakyu-99-kettei-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 12: Kettei-ban | 229545 | [229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json](./229545-jikkyou-pawafuru-puroyakyu-12-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 13 | 78581 | [78581-jikkyou-pawafuru-puroyakyu-13.json](./78581-jikkyou-pawafuru-puroyakyu-13.json) |
+| Jikkyou Pawafuru Puroyakyu 13: Kettei-ban | 229546 | [229546-jikkyou-pawafuru-puroyakyu-13-kettei-ban.json](./229546-jikkyou-pawafuru-puroyakyu-13-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 14 | 69203 | [69203-jikkyou-pawafuru-puroyakyu-14.json](./69203-jikkyou-pawafuru-puroyakyu-14.json) |
+| Jikkyou Pawafuru Puroyakyu 14: Kettei-ban | 229547 | [229547-jikkyou-pawafuru-puroyakyu-14-kettei-ban.json](./229547-jikkyou-pawafuru-puroyakyu-14-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 15 | 69204 | [69204-jikkyou-pawafuru-puroyakyu-15.json](./69204-jikkyou-pawafuru-puroyakyu-15.json) |
 | Jikkyou Pawafuru Puroyakyu 2000 | 136733 | [136733-jikkyou-pawafuru-puroyakyu-2000.json](./136733-jikkyou-pawafuru-puroyakyu-2000.json) |
 | Jikkyou Pawafuru Puroyakyu 2000: Kaimaku-ban | 229575 | [229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json](./229575-jikkyou-pawafuru-puroyakyu-2000-kaimaku-ban.json) |
+| Jikkyou Pawafuru Puroyakyu 2000: Kettei-ban | 229542 | [229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json](./229542-jikkyou-pawafuru-puroyakyu-2000-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2001: Kettei-ban | 229579 | [229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json](./229579-jikkyou-pawafuru-puroyakyu-2001-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 2002 Haru | 229580 | [229580-jikkyou-pawafuru-puroyakyu-2002-haru.json](./229580-jikkyou-pawafuru-puroyakyu-2002-haru.json) |
 | Jikkyou Pawafuru Puroyakyu 2009 | 98518 | [98518-jikkyou-pawafuru-puroyakyu-2009.json](./98518-jikkyou-pawafuru-puroyakyu-2009.json) |
@@ -1520,7 +1524,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu 6 | 136734 | [136734-jikkyou-pawafuru-puroyakyu-6.json](./136734-jikkyou-pawafuru-puroyakyu-6.json) |
+| Jikkyou Pawafuru Puroyakyu 7: Kettei-ban | 229541 | [229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json](./229541-jikkyou-pawafuru-puroyakyu-7-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu 8 | 74702 | [74702-jikkyou-pawafuru-puroyakyu-8.json](./74702-jikkyou-pawafuru-puroyakyu-8.json) |
+| Jikkyou Pawafuru Puroyakyu 8: Kettei-ban | 229543 | [229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json](./229543-jikkyou-pawafuru-puroyakyu-8-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu Championship 2017 | 98511 | [98511-jikkyou-pawafuru-puroyakyu-championship-2017.json](./98511-jikkyou-pawafuru-puroyakyu-championship-2017.json) |
 | Jikkyou Pawafuru Puroyakyu Next | 229557 | [229557-jikkyou-pawafuru-puroyakyu-next.json](./229557-jikkyou-pawafuru-puroyakyu-next.json) |
 | Jikkyou Pawafuru Puroyakyu Portable | 229582 | [229582-jikkyou-pawafuru-puroyakyu-portable.json](./229582-jikkyou-pawafuru-puroyakyu-portable.json) |
@@ -1529,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu Portable 4 | 229585 | [229585-jikkyou-pawafuru-puroyakyu-portable-4.json](./229585-jikkyou-pawafuru-puroyakyu-portable-4.json) |
 | Jikkyou Pawafuru Puroyakyu S | 229569 | [229569-jikkyou-pawafuru-puroyakyu-s.json](./229569-jikkyou-pawafuru-puroyakyu-s.json) |
 | Jikkyou Pawafuru Puroyakyu Wii | 229183 | [229183-jikkyou-pawafuru-puroyakyu-wii.json](./229183-jikkyou-pawafuru-puroyakyu-wii.json) |
+| Jikkyou Pawafuru Puroyakyu Wii: Kettei-ban | 229540 | [229540-jikkyou-pawafuru-puroyakyu-wii-kettei-ban.json](./229540-jikkyou-pawafuru-puroyakyu-wii-kettei-ban.json) |
 | Jikkyou Pawafuru Puroyakyu: Basic-ban 2001 | 136732 | [136732-jikkyou-pawafuru-puroyakyu-basic-ban-2001.json](./136732-jikkyou-pawafuru-puroyakyu-basic-ban-2001.json) |
 | Jikkyou Pawafuru Puroyakyu: Dreamcast Edition | 229577 | [229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json](./229577-jikkyou-pawafuru-puroyakyu-dreamcast-edition.json) |
 | Jikkyou Pawafuru Puroyakyu: Premium-ban | 229581 | [229581-jikkyou-pawafuru-puroyakyu-premium-ban.json](./229581-jikkyou-pawafuru-puroyakyu-premium-ban.json) |
@@ -2080,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey Express | 238502 | [238502-journey-express.json](./238502-journey-express.json) |
 | Journey For Elysium | 120758 | [120758-journey-for-elysium.json](./120758-journey-for-elysium.json) |
 | Journey From Darkness: Strider Returns | 72621 | [72621-journey-from-darkness-strider-returns.json](./72621-journey-from-darkness-strider-returns.json) |
+| Journey Home | 229528 | [229528-journey-home.json](./229528-journey-home.json) |
 | Journey Into Darkness | 243122 | [243122-journey-into-darkness.json](./243122-journey-into-darkness.json) |
 | Journey North | 335377 | [335377-journey-north.json](./335377-journey-north.json) |
 | Journey of a Roach | 9000 | [9000-journey-of-a-roach.json](./9000-journey-of-a-roach.json) |
@@ -2250,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jubaku | 422123 | [422123-jubaku.json](./422123-jubaku.json) |
 | Jubeat | 154841 | [154841-jubeat.json](./154841-jubeat.json) |
 | Jubeat | 79960 | [79960-jubeat.json](./79960-jubeat.json) |
+| Jubeat Ave. | 229537 | [229537-jubeat-ave.json](./229537-jubeat-ave.json) |
 | Jubeat Clan | 125280 | [125280-jubeat-clan.json](./125280-jubeat-clan.json) |
 | Jubeat Copious | 84438 | [84438-jubeat-copious.json](./84438-jubeat-copious.json) |
 | Jubeat Knit | 92070 | [92070-jubeat-knit.json](./92070-jubeat-knit.json) |
