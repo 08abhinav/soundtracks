@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromunda: Hired Gun - Hellhound Pack | 223536 | [223536-necromunda-hired-gun-hellhound-pack.json](./223536-necromunda-hired-gun-hellhound-pack.json) |
 | Necromunda: Underhive Wars | 26846 | [26846-necromunda-underhive-wars.json](./26846-necromunda-underhive-wars.json) |
 | Necromunda: Underhive Wars - Cawdor Gang | 162858 | [162858-necromunda-underhive-wars-cawdor-gang.json](./162858-necromunda-underhive-wars-cawdor-gang.json) |
+| Necromunda: Underhive Wars - Gangs Bundle | 223869 | [223869-necromunda-underhive-wars-gangs-bundle.json](./223869-necromunda-underhive-wars-gangs-bundle.json) |
 | Necromunda: Underhive Wars - Gold Edition | 164820 | [164820-necromunda-underhive-wars-gold-edition.json](./164820-necromunda-underhive-wars-gold-edition.json) |
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights: Wyvern Crown of Cormyr | 124892 | [124892-neverwinter-nights-wyvern-crown-of-cormyr.json](./124892-neverwinter-nights-wyvern-crown-of-cormyr.json) |
 | Neverwinter: Curse of Icewind Dale | 224450 | [224450-neverwinter-curse-of-icewind-dale.json](./224450-neverwinter-curse-of-icewind-dale.json) |
 | Neverwinter: Elemental Evil | 224465 | [224465-neverwinter-elemental-evil.json](./224465-neverwinter-elemental-evil.json) |
+| Neverwinter: Fury of the Feywild | 223855 | [223855-neverwinter-fury-of-the-feywild.json](./223855-neverwinter-fury-of-the-feywild.json) |
 | Neverwinter: Rise of Tiamat | 224462 | [224462-neverwinter-rise-of-tiamat.json](./224462-neverwinter-rise-of-tiamat.json) |
 | Neverwinter: Shadowmantle | 224164 | [224164-neverwinter-shadowmantle.json](./224164-neverwinter-shadowmantle.json) |
 | Neverwinter: Storm King's Thunder | 26867 | [26867-neverwinter-storm-kings-thunder.json](./26867-neverwinter-storm-kings-thunder.json) |
