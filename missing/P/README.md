@@ -8454,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Kaisen | 384836 | [384836-pokemon-kaisen.json](./384836-pokemon-kaisen.json) |
 | Pokemon Kalos Crystal | 304731 | [304731-pokemon-kalos-crystal.json](./304731-pokemon-kalos-crystal.json) |
 | Pokemon Kanlara Ultimate | 349654 | [349654-pokemon-kanlara-ultimate.json](./349654-pokemon-kanlara-ultimate.json) |
+| Pokémon Kanto Black | 213234 | [213234-pokemon-kanto-black.json](./213234-pokemon-kanto-black.json) |
 | Pokémon Kanto Ultimate | 250926 | [250926-pokemon-kanto-ultimate.json](./250926-pokemon-kanto-ultimate.json) |
 | Pokémon Keishou | 312313 | [312313-pokemon-keishou.json](./312313-pokemon-keishou.json) |
 | Pokémon Lazarus | 337439 | [337439-pokemon-lazarus.json](./337439-pokemon-lazarus.json) |
