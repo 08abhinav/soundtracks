@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
+| Saga Cube | 220493 | [220493-saga-cube.json](./220493-saga-cube.json) |
 | SaGa Frontier | 11310 | [11310-saga-frontier.json](./11310-saga-frontier.json) |
 | SaGa Frontier 2 | 2353 | [2353-saga-frontier-2.json](./2353-saga-frontier-2.json) |
 | SaGa Frontier 2 Remastered | 294870 | [294870-saga-frontier-2-remastered.json](./294870-saga-frontier-2-remastered.json) |
@@ -400,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sage Solitaire | 59059 | [59059-sage-solitaire.json](./59059-sage-solitaire.json) |
 | Sages Of Kaboom | 255989 | [255989-sages-of-kaboom.json](./255989-sages-of-kaboom.json) |
 | Sages of Vandaleria: Rebirth of an Empire | 313200 | [313200-sages-of-vandaleria-rebirth-of-an-empire.json](./313200-sages-of-vandaleria-rebirth-of-an-empire.json) |
+| Sagger | 220494 | [220494-sagger.json](./220494-sagger.json) |
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
@@ -8523,6 +8525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
+| Single Feather | 220495 | [220495-single-feather.json](./220495-single-feather.json) |
 | Single Malt Apocalypse | 258336 | [258336-single-malt-apocalypse.json](./258336-single-malt-apocalypse.json) |
 | Single Player Tarkov | 314711 | [314711-single-player-tarkov.json](./314711-single-player-tarkov.json) |
 | Single Scoop | 357002 | [357002-single-scoop.json](./357002-single-scoop.json) |
@@ -8698,6 +8701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Lovelot | 132982 | [132982-sir-lovelot.json](./132982-sir-lovelot.json) |
 | Sir Noggin | 376556 | [376556-sir-noggin.json](./376556-sir-noggin.json) |
 | Sir Questionnaire | 96201 | [96201-sir-questionnaire.json](./96201-sir-questionnaire.json) |
+| Sir Squire | 220496 | [220496-sir-squire.json](./220496-sir-squire.json) |
 | Sir Stretchalot: The Plight of the Elves | 216227 | [216227-sir-stretchalot-the-plight-of-the-elves.json](./216227-sir-stretchalot-the-plight-of-the-elves.json) |
 | Sir Stretchalot: The Wenches in the Well | 155370 | [155370-sir-stretchalot-the-wenches-in-the-well.json](./155370-sir-stretchalot-the-wenches-in-the-well.json) |
 | Sir Tincan: Adventures in the Castle | 147655 | [147655-sir-tincan-adventures-in-the-castle.json](./147655-sir-tincan-adventures-in-the-castle.json) |
@@ -9020,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
 | Skeleton Messi | 293858 | [293858-skeleton-messi.json](./293858-skeleton-messi.json) |
+| Skeleton Punchers | 220497 | [220497-skeleton-punchers.json](./220497-skeleton-punchers.json) |
 | Skeleton Quest | 415456 | [415456-skeleton-quest.json](./415456-skeleton-quest.json) |
 | Skeleton Rebellion | 279468 | [279468-skeleton-rebellion.json](./279468-skeleton-rebellion.json) |
 | Skeleton Scale | 245676 | [245676-skeleton-scale.json](./245676-skeleton-scale.json) |
@@ -9199,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillz: The DJ Game | 79213 | [79213-skillz-the-dj-game.json](./79213-skillz-the-dj-game.json) |
 | Skimmerz | 68758 | [68758-skimmerz.json](./68758-skimmerz.json) |
 | Skimming Canoe | 191516 | [191516-skimming-canoe.json](./191516-skimming-canoe.json) |
+| Skin | 220498 | [220498-skin.json](./220498-skin.json) |
 | Skin & Bones | 135698 | [135698-skin-and-bones.json](./135698-skin-and-bones.json) |
 | Skin & Scales | 301422 | [301422-skin-and-scales.json](./301422-skin-and-scales.json) |
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
@@ -17435,6 +17441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square n Fair | 29862 | [29862-square-n-fair.json](./29862-square-n-fair.json) |
 | Square of Joy | 312733 | [312733-square-of-joy.json](./312733-square-of-joy.json) |
 | Square Off | 156557 | [156557-square-off.json](./156557-square-off.json) |
+| Square Off | 220499 | [220499-square-off.json](./220499-square-off.json) |
 | Square Rounds | 219687 | [219687-square-rounds.json](./219687-square-rounds.json) |
 | Square Route | 98997 | [98997-square-route.json](./98997-square-route.json) |
 | Square Runner | 198238 | [198238-square-runner.json](./198238-square-runner.json) |
@@ -17995,6 +18002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Evil | 245144 | [245144-star-evil.json](./245144-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
+| Star Fetchers : Episode 1 | 220500 | [220500-star-fetchers-episode-1.json](./220500-star-fetchers-episode-1.json) |
 | Star Fetchers: Escape from Pork Belly | 298240 | [298240-star-fetchers-escape-from-pork-belly.json](./298240-star-fetchers-escape-from-pork-belly.json) |
 | Star Fiction | 348276 | [348276-star-fiction.json](./348276-star-fiction.json) |
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
@@ -18884,6 +18892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmade | 9552 | [9552-starmade.json](./9552-starmade.json) |
 | StarMaker | 125965 | [125965-starmaker.json](./125965-starmaker.json) |
 | Starmaker Story | 337187 | [337187-starmaker-story.json](./337187-starmaker-story.json) |
+| StarMaker VR | 220501 | [220501-starmaker-vr.json](./220501-starmaker-vr.json) |
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
@@ -18921,6 +18930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starquake | 12479 | [12479-starquake.json](./12479-starquake.json) |
 | Starquake Academy | 113029 | [113029-starquake-academy.json](./113029-starquake-academy.json) |
 | Starr Mazer: DSP | 80547 | [80547-starr-mazer-dsp.json](./80547-starr-mazer-dsp.json) |
+| Starr Ringer | 220502 | [220502-starr-ringer.json](./220502-starr-ringer.json) |
 | StarRaver | 237072 | [237072-starraver.json](./237072-starraver.json) |
 | Starry Flowers | 145644 | [145644-starry-flowers.json](./145644-starry-flowers.json) |
 | Starry Makino | 159835 | [159835-starry-makino.json](./159835-starry-makino.json) |
@@ -19206,6 +19216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starstrike 2 | 39133 | [39133-starstrike-2.json](./39133-starstrike-2.json) |
 | Starstruck | 116842 | [116842-starstruck.json](./116842-starstruck.json) |
 | Starstruck | 239651 | [239651-starstruck.json](./239651-starstruck.json) |
+| StarStruck | 220503 | [220503-starstruck.json](./220503-starstruck.json) |
 | Starsuits! (Remastered+ Edition) | 357317 | [357317-starsuits-remastered-edition.json](./357317-starsuits-remastered-edition.json) |
 | Starsweep | 9529 | [9529-starsweep.json](./9529-starsweep.json) |
 | Starswirl Academy | 203835 | [203835-starswirl-academy.json](./203835-starswirl-academy.json) |
@@ -19804,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Interface: Stellar Spacecrafts | 243229 | [243229-stellar-interface-stellar-spacecrafts.json](./243229-stellar-interface-stellar-spacecrafts.json) |
 | Stellar Mercenaries | 62773 | [62773-stellar-mercenaries.json](./62773-stellar-mercenaries.json) |
 | Stellar Mess: Operation Kush | 380122 | [380122-stellar-mess-operation-kush.json](./380122-stellar-mess-operation-kush.json) |
+| Stellar Mess: The Princess Conundrum - Chapter 1 | 220504 | [220504-stellar-mess-the-princess-conundrum-chapter-1.json](./220504-stellar-mess-the-princess-conundrum-chapter-1.json) |
 | Stellar Mole | 398909 | [398909-stellar-mole.json](./398909-stellar-mole.json) |
 | Stellar Monarch | 26493 | [26493-stellar-monarch.json](./26493-stellar-monarch.json) |
 | Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
@@ -19983,6 +19995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STG Football | 222769 | [222769-stg-football.json](./222769-stg-football.json) |
 | STG01 | 296004 | [296004-stg01.json](./296004-stg01.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
+| Sticc | 220505 | [220505-sticc.json](./220505-sticc.json) |
 | Stick 'Em Up 2 | 36419 | [36419-stick-em-up-2.json](./36419-stick-em-up-2.json) |
 | Stick 'Em Up 2: Paper Adventures - Starter Edition | 89634 | [89634-stick-em-up-2-paper-adventures-starter-edition.json](./89634-stick-em-up-2-paper-adventures-starter-edition.json) |
 | Stick A Round | 352788 | [352788-stick-a-round.json](./352788-stick-a-round.json) |
@@ -20153,6 +20166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | Stickman's Rainbow | 117125 | [117125-stickmans-rainbow.json](./117125-stickmans-rainbow.json) |
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
+| StickmanThug3D | 220506 | [220506-stickmanthug3d.json](./220506-stickmanthug3d.json) |
 | Stickmen Castle Defense | 183882 | [183882-stickmen-castle-defense.json](./183882-stickmen-castle-defense.json) |
 | StickMUD | 228427 | [228427-stickmud.json](./228427-stickmud.json) |
 | Sticks | 68800 | [68800-sticks.json](./68800-sticks.json) |
@@ -20441,6 +20455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Store Story | 250794 | [250794-store-story.json](./250794-store-story.json) |
 | Storebound | 331151 | [331151-storebound.json](./331151-storebound.json) |
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
+| Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories From the Cores | 231774 | [231774-stories-from-the-cores.json](./231774-stories-from-the-cores.json) |
@@ -20837,6 +20852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Beasts | 256324 | [256324-stray-beasts.json](./256324-stray-beasts.json) |
 | Stray Blade | 141505 | [141505-stray-blade.json](./141505-stray-blade.json) |
 | Stray Blade: Valley of Strays | 276825 | [276825-stray-blade-valley-of-strays.json](./276825-stray-blade-valley-of-strays.json) |
+| Stray Cat | 220508 | [220508-stray-cat.json](./220508-stray-cat.json) |
 | Stray Cat Crossing | 21641 | [21641-stray-cat-crossing.json](./21641-stray-cat-crossing.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
