@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
 | Aero Dancing I | 267380 | [267380-aero-dancing-i.json](./267380-aero-dancing-i.json) |
 | Aero Dancing I: Jikai Saku made Matemasen | 267382 | [267382-aero-dancing-i-jikai-saku-made-matemasen.json](./267382-aero-dancing-i-jikai-saku-made-matemasen.json) |
+| Aero Dancing: Secret Mission Disk | 242383 | [242383-aero-dancing-secret-mission-disk.json](./242383-aero-dancing-secret-mission-disk.json) |
 | Aero Effect | 134378 | [134378-aero-effect.json](./134378-aero-effect.json) |
 | Aero Elite: Combat Academy | 19711 | [19711-aero-elite-combat-academy.json](./19711-aero-elite-combat-academy.json) |
 | Aero Fighters | 3147 | [3147-aero-fighters.json](./3147-aero-fighters.json) |
@@ -3200,6 +3201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Against All Odds | 238378 | [238378-against-all-odds.json](./238378-against-all-odds.json) |
 | Against All Skies | 379502 | [379502-against-all-skies.json](./379502-against-all-skies.json) |
 | Against Ether | 173293 | [173293-against-ether.json](./173293-against-ether.json) |
+| Against Great Darkness | 242364 | [242364-against-great-darkness.json](./242364-against-great-darkness.json) |
 | Against Humanity | 301687 | [301687-against-humanity.json](./301687-against-humanity.json) |
 | Against the Cluck | 364641 | [364641-against-the-cluck.json](./364641-against-the-cluck.json) |
 | Against the Gradient | 40711 | [40711-against-the-gradient.json](./40711-against-the-gradient.json) |
@@ -8322,6 +8324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | APB | 37097 | [37097-apb.json](./37097-apb.json) |
 | APB: All Points Bulletin | 23369 | [23369-apb-all-points-bulletin.json](./23369-apb-all-points-bulletin.json) |
 | APE | 404982 | [404982-ape.json](./404982-ape.json) |
+| Ape Academy 2 | 242358 | [242358-ape-academy-2.json](./242358-ape-academy-2.json) |
 | Ape Academy 2 | 37047 | [37047-ape-academy-2.json](./37047-ape-academy-2.json) |
 | Ape Escape | 146296 | [146296-ape-escape.json](./146296-ape-escape.json) |
 | Ape Escape | 203212 | [203212-ape-escape.json](./203212-ape-escape.json) |
