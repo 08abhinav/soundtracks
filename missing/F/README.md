@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farewell, We See Each Other for the Last Time..... | 348983 | [348983-farewell-we-see-each-other-for-the-last-time.json](./348983-farewell-we-see-each-other-for-the-last-time.json) |
 | Farewells | 217288 | [217288-farewells.json](./217288-farewells.json) |
 | Farfalla | 91442 | [91442-farfalla.json](./91442-farfalla.json) |
+| Fargone | 228935 | [228935-fargone.json](./228935-fargone.json) |
 | Farhaven | 421181 | [421181-farhaven.json](./421181-farhaven.json) |
 | Farhoud Farmand's The Mountaineer | 249285 | [249285-farhoud-farmands-the-mountaineer.json](./249285-farhoud-farmands-the-mountaineer.json) |
 | Fari Stjornu | 419203 | [419203-fari-stjornu.json](./419203-fari-stjornu.json) |
@@ -2874,6 +2875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Felix Jigsaw Puzzle | 200372 | [200372-felix-jigsaw-puzzle.json](./200372-felix-jigsaw-puzzle.json) |
 | Felix Jumpman | 29878 | [29878-felix-jumpman.json](./29878-felix-jumpman.json) |
 | Felix the Cat | 200368 | [200368-felix-the-cat.json](./200368-felix-the-cat.json) |
+| Felix the Cat | 228884 | [228884-felix-the-cat.json](./228884-felix-the-cat.json) |
 | Felix the Cat | 240932 | [240932-felix-the-cat.json](./240932-felix-the-cat.json) |
 | Felix the Cat | 282575 | [282575-felix-the-cat.json](./282575-felix-the-cat.json) |
 | Felix the Cat: A Bomba-Relógio | 282585 | [282585-felix-the-cat-a-bomba-relogio.json](./282585-felix-the-cat-a-bomba-relogio.json) |
@@ -3894,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
 | Final Fantasy XIV: Heavensward - Collector's Edition | 51532 | [51532-final-fantasy-xiv-heavensward-collectors-edition.json](./51532-final-fantasy-xiv-heavensward-collectors-edition.json) |
 | Final Fantasy XIV: Into the Mist | 376015 | [376015-final-fantasy-xiv-into-the-mist.json](./376015-final-fantasy-xiv-into-the-mist.json) |
@@ -8547,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
 | Freakland | 216722 | [216722-freakland.json](./216722-freakland.json) |
+| Freakout | 228929 | [228929-freakout.json](./228929-freakout.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
 | FreakOut: Extreme Freeride | 17493 | [17493-freakout-extreme-freeride.json](./17493-freakout-extreme-freeride.json) |
 | Freaks! | 113549 | [113549-freaks.json](./113549-freaks.json) |
