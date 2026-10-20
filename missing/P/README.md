@@ -87,6 +87,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Guy | 64678 | [64678-pac-guy.json](./64678-pac-guy.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
+| Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
+| Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
@@ -1744,6 +1746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Beyond the Skies of Arabia - Theme World | 315121 | [315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json](./315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Beyond: Day-1 Admission Ticket Edition | 242926 | [242926-park-beyond-day-1-admission-ticket-edition.json](./242926-park-beyond-day-1-admission-ticket-edition.json) |
+| Park Beyond: Impossified Edition | 242369 | [242369-park-beyond-impossified-edition.json](./242369-park-beyond-impossified-edition.json) |
 | Park Beyond: Visioneer Edition | 254055 | [254055-park-beyond-visioneer-edition.json](./254055-park-beyond-visioneer-edition.json) |
 | Park Bound | 40524 | [40524-park-bound.json](./40524-park-bound.json) |
 | Park Escape | 362740 | [362740-park-escape.json](./362740-park-escape.json) |
@@ -3976,6 +3979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom House | 348112 | [348112-phantom-house.json](./348112-phantom-house.json) |
 | Phantom Hunter | 243157 | [243157-phantom-hunter.json](./243157-phantom-hunter.json) |
 | Phantom II | 40404 | [40404-phantom-ii.json](./40404-phantom-ii.json) |
+| Phantom Integration | 242386 | [242386-phantom-integration.json](./242386-phantom-integration.json) |
 | Phantom Island | 215333 | [215333-phantom-island.json](./215333-phantom-island.json) |
 | Phantom Killer | 275343 | [275343-phantom-killer.json](./275343-phantom-killer.json) |
 | Phantom Kingdom: Portable | 262445 | [262445-phantom-kingdom-portable.json](./262445-phantom-kingdom-portable.json) |
@@ -4029,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Zone: Talon Fictions | 210897 | [210897-phantom-zone-talon-fictions.json](./210897-phantom-zone-talon-fictions.json) |
 | Phantom-OS | 243534 | [243534-phantom-os.json](./243534-phantom-os.json) |
 | Phantom: Covert Ops | 118872 | [118872-phantom-covert-ops.json](./118872-phantom-covert-ops.json) |
+| Phantom: Phantom of Inferno | 242388 | [242388-phantom-phantom-of-inferno.json](./242388-phantom-phantom-of-inferno.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
@@ -8782,6 +8787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | PolarChaseVR | 344697 | [344697-polarchasevr.json](./344697-polarchasevr.json) |
 | PolarDread | 298276 | [298276-polardread.json](./298276-polardread.json) |
+| Polaretti | 242396 | [242396-polaretti.json](./242396-polaretti.json) |
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
