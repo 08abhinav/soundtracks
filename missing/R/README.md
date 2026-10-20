@@ -1248,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramble Planet | 152374 | [152374-ramble-planet.json](./152374-ramble-planet.json) |
 | Rambling with my friend | 183367 | [183367-rambling-with-my-friend.json](./183367-rambling-with-my-friend.json) |
 | Ramblings | 204678 | [204678-ramblings.json](./204678-ramblings.json) |
+| Rambo | 218330 | [218330-rambo.json](./218330-rambo.json) |
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
 | Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
@@ -5712,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Cycle | 2499 | [2499-ring-cycle.json](./2499-ring-cycle.json) |
 | Ring Fit Adventure: Rhythm Game | 320954 | [320954-ring-fit-adventure-rhythm-game.json](./320954-ring-fit-adventure-rhythm-game.json) |
 | Ring Jongg | 209020 | [209020-ring-jongg.json](./209020-ring-jongg.json) |
+| Ring King | 218329 | [218329-ring-king.json](./218329-ring-king.json) |
 | Ring King | 37335 | [37335-ring-king.json](./37335-ring-king.json) |
 | Ring King | 48208 | [48208-ring-king.json](./48208-ring-king.json) |
 | Ring Man in the Castle | 304268 | [304268-ring-man-in-the-castle.json](./304268-ring-man-in-the-castle.json) |
