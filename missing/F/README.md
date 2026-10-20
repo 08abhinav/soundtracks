@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 3 + 4 Double Pack | 136783 | [136783-far-cry-3-4-double-pack.json](./136783-far-cry-3-4-double-pack.json) |
 | Far Cry 3: Blood Dragon - Classic Edition | 188063 | [188063-far-cry-3-blood-dragon-classic-edition.json](./188063-far-cry-3-blood-dragon-classic-edition.json) |
 | Far Cry 3: High Tides | 284318 | [284318-far-cry-3-high-tides.json](./284318-far-cry-3-high-tides.json) |
+| Far Cry 3: Monkey Business | 229538 | [229538-far-cry-3-monkey-business.json](./229538-far-cry-3-monkey-business.json) |
 | Far Cry 3: The Lost Expeditions Edition | 142159 | [142159-far-cry-3-the-lost-expeditions-edition.json](./142159-far-cry-3-the-lost-expeditions-edition.json) |
 | Far Cry 3: Wish You Were Here Edition | 51544 | [51544-far-cry-3-wish-you-were-here-edition.json](./51544-far-cry-3-wish-you-were-here-edition.json) |
 | Far Cry 4 + Far Cry: Primal Bundle | 164801 | [164801-far-cry-4-far-cry-primal-bundle.json](./164801-far-cry-4-far-cry-primal-bundle.json) |
@@ -4548,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire: The First Dreamer | 333552 | [333552-fire-the-first-dreamer.json](./333552-fire-the-first-dreamer.json) |
 | Fire! | 223091 | [223091-fire.json](./223091-fire.json) |
 | Firearm | 206762 | [206762-firearm.json](./206762-firearm.json) |
+| Firearms | 229495 | [229495-firearms.json](./229495-firearms.json) |
 | Firearms Master | 335326 | [335326-firearms-master.json](./335326-firearms-master.json) |
 | Fireball | 18565 | [18565-fireball.json](./18565-fireball.json) |
 | Fireball | 374834 | [374834-fireball.json](./374834-fireball.json) |
