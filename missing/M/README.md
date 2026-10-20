@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
+| Magic Archer: Monster Islands | 234475 | [234475-magic-archer-monster-islands.json](./234475-magic-archer-monster-islands.json) |
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
@@ -3804,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Arena: Orange Neon Bundle | 297145 | [297145-master-arena-orange-neon-bundle.json](./297145-master-arena-orange-neon-bundle.json) |
 | Master Arena: Phantom Edition Bundle | 297147 | [297147-master-arena-phantom-edition-bundle.json](./297147-master-arena-phantom-edition-bundle.json) |
 | Master Arena: Ultimate Pass | 297146 | [297146-master-arena-ultimate-pass.json](./297146-master-arena-ultimate-pass.json) |
+| Master Axe: The Genesis of MysterX | 234466 | [234466-master-axe-the-genesis-of-mysterx.json](./234466-master-axe-the-genesis-of-mysterx.json) |
 | Master Bass | 267344 | [267344-master-bass.json](./267344-master-bass.json) |
 | Master Bladesmith | 127219 | [127219-master-bladesmith.json](./127219-master-bladesmith.json) |
 | Master Blaster | 292779 | [292779-master-blaster.json](./292779-master-blaster.json) |
@@ -4074,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match it Up | 246350 | [246350-match-it-up.json](./246350-match-it-up.json) |
 | Match It! | 173186 | [173186-match-it.json](./173186-match-it.json) |
 | Match Kill Survive | 309679 | [309679-match-kill-survive.json](./309679-match-kill-survive.json) |
+| Match Land | 234438 | [234438-match-land.json](./234438-match-land.json) |
 | Match Made in Time | 385437 | [385437-match-made-in-time.json](./385437-match-made-in-time.json) |
 | Match Manor | 269094 | [269094-match-manor.json](./269094-match-manor.json) |
 | Match Marbles 10 | 337236 | [337236-match-marbles-10.json](./337236-match-marbles-10.json) |
@@ -6950,6 +6953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Circus | 285472 | [285472-merge-circus.json](./285472-merge-circus.json) |
 | Merge Clash | 202230 | [202230-merge-clash.json](./202230-merge-clash.json) |
 | Merge Coin: Mai | 355678 | [355678-merge-coin-mai.json](./355678-merge-coin-mai.json) |
+| Merge Cooking | 234472 | [234472-merge-cooking.json](./234472-merge-cooking.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Donut | 311580 | [311580-merge-donut.json](./311580-merge-donut.json) |
@@ -7537,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Blossom | 203519 | [203519-metro-blossom.json](./203519-metro-blossom.json) |
 | Metro City: Night Shift | 416890 | [416890-metro-city-night-shift.json](./416890-metro-city-night-shift.json) |
 | Metro Conflict: The Origin | 75070 | [75070-metro-conflict-the-origin.json](./75070-metro-conflict-the-origin.json) |
+| Metro Connect | 234463 | [234463-metro-connect.json](./234463-metro-connect.json) |
 | Metro Exodus: Aurora Limited Edition | 109587 | [109587-metro-exodus-aurora-limited-edition.json](./109587-metro-exodus-aurora-limited-edition.json) |
 | Metro Exodus: Day One Edition | 136166 | [136166-metro-exodus-day-one-edition.json](./136166-metro-exodus-day-one-edition.json) |
 | Metro Exodus: Enhanced Edition | 143292 | [143292-metro-exodus-enhanced-edition.json](./143292-metro-exodus-enhanced-edition.json) |
@@ -10365,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist | 343840 | [343840-mist.json](./343840-mist.json) |
 | Mist | 349266 | [349266-mist.json](./349266-mist.json) |
 | Mist Bouncer | 63264 | [63264-mist-bouncer.json](./63264-mist-bouncer.json) |
+| Mist Forest | 234456 | [234456-mist-forest.json](./234456-mist-forest.json) |
 | Mist Gears | 107142 | [107142-mist-gears.json](./107142-mist-gears.json) |
 | Mist Guard | 207346 | [207346-mist-guard.json](./207346-mist-guard.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
