@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.U.C.K.: Dangerous Ultimate Cartridge Kidnapper | 217487 | [217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json](./217487-d-u-c-k-dangerous-ultimate-cartridge-kidnapper.json) |
 | D.U.M.B. Ducks | 322425 | [322425-d-u-m-b-ducks.json](./322425-d-u-m-b-ducks.json) |
 | D.U.M.B.E.R. Ducks | 403734 | [403734-d-u-m-b-e-r-ducks.json](./403734-d-u-m-b-e-r-ducks.json) |
+| D.U.N.K.L.E.R | 204876 | [204876-d-u-n-k-l-e-r.json](./204876-d-u-n-k-l-e-r.json) |
 | D.W. Dagger: Chapter One | 168837 | [168837-d-w-dagger-chapter-one.json](./168837-d-w-dagger-chapter-one.json) |
 | D.W. The Picky Eater | 297896 | [297896-d-w-the-picky-eater.json](./297896-d-w-the-picky-eater.json) |
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
