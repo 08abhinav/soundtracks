@@ -8331,6 +8331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Havoc | 32143 | [32143-hover-havoc.json](./32143-hover-havoc.json) |
 | Hover Hazard | 30890 | [30890-hover-hazard.json](./30890-hover-hazard.json) |
 | Hover Junkers | 18903 | [18903-hover-junkers.json](./18903-hover-junkers.json) |
+| Hover League | 232293 | [232293-hover-league.json](./232293-hover-league.json) |
 | Hover Phoenix | 394197 | [394197-hover-phoenix.json](./394197-hover-phoenix.json) |
 | Hover Point | 390802 | [390802-hover-point.json](./390802-hover-point.json) |
 | Hover Racer | 207904 | [207904-hover-racer.json](./207904-hover-racer.json) |
