@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katamari | 284763 | [284763-katamari.json](./284763-katamari.json) |
 | Katamari Damacy Mobile | 243426 | [243426-katamari-damacy-mobile.json](./243426-katamari-damacy-mobile.json) |
 | Katamari Damacy Reroll | 109458 | [109458-katamari-damacy-reroll.json](./109458-katamari-damacy-reroll.json) |
+| Katamari Damacy Reroll & We Love Katamari Reroll + Royal Reverie | 255503 | [255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json](./255503-katamari-damacy-reroll-and-we-love-katamari-reroll-royal-reverie.json) |
 | Katamari Damacy Rolling Live | 335137 | [335137-katamari-damacy-rolling-live.json](./335137-katamari-damacy-rolling-live.json) |
 | Katamari Online | 68242 | [68242-katamari-online.json](./68242-katamari-online.json) |
 | Katan.io | 125869 | [125869-katan-io.json](./125869-katan-io.json) |
@@ -3737,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koisuru Otome to Shugo no Tate Portable | 198249 | [198249-koisuru-otome-to-shugo-no-tate-portable.json](./198249-koisuru-otome-to-shugo-no-tate-portable.json) |
 | Koisuru Otome to Shugo no Tate: The Shield of Aigis | 60877 | [60877-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.json](./60877-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis.json) |
 | Koisuru Otome to Shugo no Tate: The Shield of Aigis - Koi no Theresia Box | 413708 | [413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json](./413708-koisuru-otome-to-shugo-no-tate-the-shield-of-aigis-koi-no-theresia-box.json) |
+| Koisuru Oukoku | 255535 | [255535-koisuru-oukoku.json](./255535-koisuru-oukoku.json) |
 | Koisuru Purin! Koi ha Daibouken! Dr. Kanmi no Yabou!? | 269581 | [269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json](./269581-koisuru-purin-koi-ha-daibouken-dr-kanmi-no-yabou.json) |
 | Koitsugi: Legend of the Water Guardian | 303616 | [303616-koitsugi-legend-of-the-water-guardian.json](./303616-koitsugi-legend-of-the-water-guardian.json) |
 | Koiyasumi Encore!: Everlasting Summer | 397388 | [397388-koiyasumi-encore-everlasting-summer.json](./397388-koiyasumi-encore-everlasting-summer.json) |
@@ -4527,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurenkisho Quolta Amadeus EG | 134626 | [134626-kurenkisho-quolta-amadeus-eg.json](./134626-kurenkisho-quolta-amadeus-eg.json) |
 | Kuri Kinton | 40086 | [40086-kuri-kinton.json](./40086-kuri-kinton.json) |
 | Kurikin: Nano Island Story | 59337 | [59337-kurikin-nano-island-story.json](./59337-kurikin-nano-island-story.json) |
+| Kurmatron | 255505 | [255505-kurmatron.json](./255505-kurmatron.json) |
 | Kuro | 228004 | [228004-kuro.json](./228004-kuro.json) |
 | Kuro Gyaruko-chan to Shippori Onsen Ryokou: H Shimakuri Sanpaku Yokka no Tabi | 396941 | [396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json](./396941-kuro-gyaruko-chan-to-shippori-onsen-ryokou-h-shimakuri-sanpaku-yokka-no-tabi.json) |
 | Kuro Neko | 153407 | [153407-kuro-neko.json](./153407-kuro-neko.json) |
