@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where is Mrs Peregrine? | 318772 | [318772-where-is-mrs-peregrine.json](./318772-where-is-mrs-peregrine.json) |
 | Where is my Brain!? | 29888 | [29888-where-is-my-brain.json](./29888-where-is-my-brain.json) |
 | Where Is My Cat | 302421 | [302421-where-is-my-cat.json](./302421-where-is-my-cat.json) |
+| Where Is My Cat? | 242947 | [242947-where-is-my-cat.json](./242947-where-is-my-cat.json) |
 | Where Is My Crown? | 242451 | [242451-where-is-my-crown.json](./242451-where-is-my-crown.json) |
 | Where Is My Family | 118792 | [118792-where-is-my-family.json](./118792-where-is-my-family.json) |
 | Where Is My Hat? | 345652 | [345652-where-is-my-hat.json](./345652-where-is-my-hat.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
 | Where To? | 177937 | [177937-where-to.json](./177937-where-to.json) |
 | Where To? | 415434 | [415434-where-to.json](./415434-where-to.json) |
+| Where We Remain | 242922 | [242922-where-we-remain.json](./242922-where-we-remain.json) |
 | Where We Used to Play | 385956 | [385956-where-we-used-to-play.json](./385956-where-we-used-to-play.json) |
 | Where wh..? | 305971 | [305971-where-wh.json](./305971-where-wh.json) |
 | Where Winds Meet: Hidden Mountain | 405087 | [405087-where-winds-meet-hidden-mountain.json](./405087-where-winds-meet-hidden-mountain.json) |
