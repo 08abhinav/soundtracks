@@ -1599,6 +1599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
 | Paranormal Capture Investigation | 276187 | [276187-paranormal-capture-investigation.json](./276187-paranormal-capture-investigation.json) |
 | ParaNormal Commute | 237234 | [237234-paranormal-commute.json](./237234-paranormal-commute.json) |
+| Paranormal Cryptid Lovers | 228881 | [228881-paranormal-cryptid-lovers.json](./228881-paranormal-cryptid-lovers.json) |
 | Paranormal Detective: Escape from the 80's | 120813 | [120813-paranormal-detective-escape-from-the-80s.json](./120813-paranormal-detective-escape-from-the-80s.json) |
 | Paranormal Detective: Escape from the 90's | 152081 | [152081-paranormal-detective-escape-from-the-90s.json](./152081-paranormal-detective-escape-from-the-90s.json) |
 | Paranormal Enteties | 149367 | [149367-paranormal-enteties.json](./149367-paranormal-enteties.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Peppy Elephant | 100696 | [100696-peppy-elephant.json](./100696-peppy-elephant.json) |
+| Peppy Mario | 228887 | [228887-peppy-mario.json](./228887-peppy-mario.json) |
 | Peppy's Adventure | 152303 | [152303-peppys-adventure.json](./152303-peppys-adventure.json) |
 | Pepsi Cola | 209445 | [209445-pepsi-cola.json](./209445-pepsi-cola.json) |
 | Pepsi in Sonic the Hedgehog I | 270218 | [270218-pepsi-in-sonic-the-hedgehog-i.json](./270218-pepsi-in-sonic-the-hedgehog-i.json) |
@@ -8395,6 +8397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Grand Dad Version | 242950 | [242950-pokemon-grand-dad-version.json](./242950-pokemon-grand-dad-version.json) |
 | Pokémon Grape | 203217 | [203217-pokemon-grape.json](./203217-pokemon-grape.json) |
 | Pokémon Gratia | 318562 | [318562-pokemon-gratia.json](./318562-pokemon-gratia.json) |
+| Pokémon Gray | 228904 | [228904-pokemon-gray.json](./228904-pokemon-gray.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
