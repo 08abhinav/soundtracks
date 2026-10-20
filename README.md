@@ -592,6 +592,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b27306bb00568bf4c235ab7c1a52" width="60" /> | [Façade](https://ostdb.net/games/facade) | **Façade (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5shYYIlcNwNfksbZQu57oz) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2730c859a79d1da50b8c4d52fb0" width="60" /> | [Fear & Hunger 2: Termina](https://ostdb.net/games/fear-and-hunger-2-termina) | **Fear & Hunger 2: Termina (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/6URkC6A121abdpBuFaC0FK) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2731b6ee7ddafdb8eacf585592c" width="60" /> | [Felix the Cat](https://ostdb.net/games/felix-the-cat) | **Felix The Cat Soundtrack** · [Spotify](https://open.spotify.com/album/1YI2weWObKavGsUdCkdVir) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273a57cdd53a7d8f41529feec45" width="60" /> | [Fight'N Rage](https://ostdb.net/games/fightn-rage) | **Fight’N Rage Original Soundtrack** · [Spotify](https://open.spotify.com/album/52W0Scze6OLKpiFTrVrqZI) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273da94d7bae8ec028ae1770816" width="60" /> | [Figment 2: Creed Valley](https://ostdb.net/games/figment-2-creed-valley) | **Figment 2: Creed Valley (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/5R8DEMbMahVe9NdwWc38LL) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3" width="60" /> | [Final Fantasy II](https://ostdb.net/games/final-fantasy-ii) | **FINAL FANTASY II Original Soundtrack** · [Spotify](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) |
 | <img src="https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3" width="60" /> | [Final Fantasy II](https://ostdb.net/games/final-fantasy-ii) | **FINAL FANTASY II Original Soundtrack** · [Spotify](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) |
@@ -1986,4 +1987,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2303 soundtracks · last updated 2026-10-20T21:56:00.803Z_
+_2304 soundtracks · last updated 2026-10-20T21:56:11.273Z_
