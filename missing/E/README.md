@@ -417,6 +417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Block Summer | 410735 | [410735-eastern-block-summer.json](./410735-eastern-block-summer.json) |
 | Eastern Dream | 414546 | [414546-eastern-dream.json](./414546-eastern-dream.json) |
 | Eastern Era | 374833 | [374833-eastern-era.json](./374833-eastern-era.json) |
+| Eastern Euro Truck Simulator: Real Offroad Car Driving Game Sim 4x4 Mud | 252574 | [252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json](./252574-eastern-euro-truck-simulator-real-offroad-car-driving-game-sim-4x4-mud.json) |
 | Eastern Europe 1259 | 356157 | [356157-eastern-europe-1259.json](./356157-eastern-europe-1259.json) |
 | Eastern Europe Bus Sim | 232454 | [232454-eastern-europe-bus-sim.json](./232454-eastern-europe-bus-sim.json) |
 | Eastern Exorcist | 121235 | [121235-eastern-exorcist.json](./121235-eastern-exorcist.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EMIT Vol. 2: Inochigake no Tabi | 60966 | [60966-emit-vol-2-inochigake-no-tabi.json](./60966-emit-vol-2-inochigake-no-tabi.json) |
 | EMIT Vol. 3: Watashi ni Sayonara wo | 60967 | [60967-emit-vol-3-watashi-ni-sayonara-wo.json](./60967-emit-vol-3-watashi-ni-sayonara-wo.json) |
 | Emitters: Drone Invasions | 110818 | [110818-emitters-drone-invasions.json](./110818-emitters-drone-invasions.json) |
+| Emkayo | 252587 | [252587-emkayo.json](./252587-emkayo.json) |
 | Emlis | 304585 | [304585-emlis.json](./304585-emlis.json) |
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
