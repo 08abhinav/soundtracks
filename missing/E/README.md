@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo: The Oracle's Scroll | 319196 | [319196-echo-the-oracles-scroll.json](./319196-echo-the-oracles-scroll.json) |
 | Echo's Climb | 203942 | [203942-echos-climb.json](./203942-echos-climb.json) |
 | EchoBlade | 166752 | [166752-echoblade.json](./166752-echoblade.json) |
+| Echocalypse: Scarlet Covenant | 208198 | [208198-echocalypse-scarlet-covenant.json](./208198-echocalypse-scarlet-covenant.json) |
 | EchoChamber: Not Welcome | 390689 | [390689-echochamber-not-welcome.json](./390689-echochamber-not-welcome.json) |
 | Echochrome | 18050 | [18050-echochrome.json](./18050-echochrome.json) |
 | Echochrome | 263007 | [263007-echochrome.json](./263007-echochrome.json) |
@@ -4867,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 2 | 90887 | [90887-european-war-2.json](./90887-european-war-2.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
+| European War 6: 1914 | 208202 | [208202-european-war-6-1914.json](./208202-european-war-6-1914.json) |
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
 | Eurydice Exhumed | 264122 | [264122-eurydice-exhumed.json](./264122-eurydice-exhumed.json) |
 | Eutolant Saga | 342054 | [342054-eutolant-saga.json](./342054-eutolant-saga.json) |
@@ -5328,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Nightmares | 219652 | [219652-evil-nightmares.json](./219652-evil-nightmares.json) |
 | Evil Nun 2: Origins | 269425 | [269425-evil-nun-2-origins.json](./269425-evil-nun-2-origins.json) |
 | Evil Nun Maze | 356568 | [356568-evil-nun-maze.json](./356568-evil-nun-maze.json) |
+| Evil Nun Rush | 208177 | [208177-evil-nun-rush.json](./208177-evil-nun-rush.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
@@ -5779,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
+| ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exophilie | 271947 | [271947-exophilie.json](./271947-exophilie.json) |
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
