@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlondor | 401740 | [401740-warlondor.json](./401740-warlondor.json) |
 | Warlord | 120659 | [120659-warlord.json](./120659-warlord.json) |
 | Warlord | 184287 | [184287-warlord.json](./184287-warlord.json) |
+| Warlord Arena: Evolution | 232318 | [232318-warlord-arena-evolution.json](./232318-warlord-arena-evolution.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
@@ -5627,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
+| Word of Prey | 232308 | [232308-word-of-prey.json](./232308-word-of-prey.json) |
 | Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
