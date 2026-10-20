@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Mine | 364867 | [364867-lands-of-mine.json](./364867-lands-of-mine.json) |
 | Lands of Peace: Legends - Chapter 1 | 168864 | [168864-lands-of-peace-legends-chapter-1.json](./168864-lands-of-peace-legends-chapter-1.json) |
 | Lands of Rage | 211821 | [211821-lands-of-rage.json](./211821-lands-of-rage.json) |
+| Lands of Ryuu | 211586 | [211586-lands-of-ryuu.json](./211586-lands-of-ryuu.json) |
 | Lands of the Lost | 102962 | [102962-lands-of-the-lost.json](./102962-lands-of-the-lost.json) |
 | Lands of Xon | 220594 | [220594-lands-of-xon.json](./220594-lands-of-xon.json) |
 | Lands of Yocta | 181212 | [181212-lands-of-yocta.json](./181212-lands-of-yocta.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LootLite | 144919 | [144919-lootlite.json](./144919-lootlite.json) |
 | LootMage | 366106 | [366106-lootmage.json](./366106-lootmage.json) |
 | LootOnline | 333592 | [333592-lootonline.json](./333592-lootonline.json) |
+| Lootonomicon | 211593 | [211593-lootonomicon.json](./211593-lootonomicon.json) |
 | Lootplot | 340807 | [340807-lootplot.json](./340807-lootplot.json) |
 | LootSlime | 397710 | [397710-lootslime.json](./397710-lootslime.json) |
 | Lootun | 201507 | [201507-lootun.json](./201507-lootun.json) |
@@ -5783,6 +5785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Dice | 84109 | [84109-lord-of-dice.json](./84109-lord-of-dice.json) |
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
+| Lord of Fire & Ice | 211589 | [211589-lord-of-fire-and-ice.json](./211589-lord-of-fire-and-ice.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
 | Lord of Heroes | 137634 | [137634-lord-of-heroes.json](./137634-lord-of-heroes.json) |
 | Lord of Magna: Maiden Heaven | 20020 | [20020-lord-of-magna-maiden-heaven.json](./20020-lord-of-magna-maiden-heaven.json) |
@@ -6971,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luciferian: The Conjuring Book | 345654 | [345654-luciferian-the-conjuring-book.json](./345654-luciferian-the-conjuring-book.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
 | Lucilla in the Dark | 228933 | [228933-lucilla-in-the-dark.json](./228933-lucilla-in-the-dark.json) |
+| Lucille: The balance of light and dark | 211584 | [211584-lucille-the-balance-of-light-and-dark.json](./211584-lucille-the-balance-of-light-and-dark.json) |
 | Lucinda | 217821 | [217821-lucinda.json](./217821-lucinda.json) |
 | Lucinda Green's Equestrian Challenge | 43254 | [43254-lucinda-greens-equestrian-challenge.json](./43254-lucinda-greens-equestrian-challenge.json) |
 | Lucipurr | 346603 | [346603-lucipurr.json](./346603-lucipurr.json) |
