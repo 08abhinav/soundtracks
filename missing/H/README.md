@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
 | Halloween Candy Break 2: Head to Head | 214515 | [214515-halloween-candy-break-2-head-to-head.json](./214515-halloween-candy-break-2-head-to-head.json) |
 | Halloween Candy Break Head to Head | 210084 | [210084-halloween-candy-break-head-to-head.json](./210084-halloween-candy-break-head-to-head.json) |
+| Halloween Candy Fun | 221077 | [221077-halloween-candy-fun.json](./221077-halloween-candy-fun.json) |
 | Halloween Chronicles: Behind the Door | 187938 | [187938-halloween-chronicles-behind-the-door.json](./187938-halloween-chronicles-behind-the-door.json) |
 | Halloween Chronicles: Cursed Family | 186014 | [186014-halloween-chronicles-cursed-family.json](./186014-halloween-chronicles-cursed-family.json) |
 | Halloween Chronicles: Cursed Family - Collector's Edition | 186015 | [186015-halloween-chronicles-cursed-family-collectors-edition.json](./186015-halloween-chronicles-cursed-family-collectors-edition.json) |
@@ -7561,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
+| Horny Elves and a Moral Orc | 221043 | [221043-horny-elves-and-a-moral-orc.json](./221043-horny-elves-and-a-moral-orc.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
