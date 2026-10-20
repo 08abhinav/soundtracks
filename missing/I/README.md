@@ -3182,7 +3182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice 3 | 139807 | [139807-injustice-3.json](./139807-injustice-3.json) |
 | Injustice Arcade | 212781 | [212781-injustice-arcade.json](./212781-injustice-arcade.json) |
 | Injustice: Containment Suit Doomsday | 305201 | [305201-injustice-containment-suit-doomsday.json](./305201-injustice-containment-suit-doomsday.json) |
-| Injustice: Gods Among Us | 77354 | [77354-injustice-gods-among-us.json](./77354-injustice-gods-among-us.json) |
 | Injustice: Gods Among Us - Ame-Comi Skins | 75477 | [75477-injustice-gods-among-us-ame-comi-skins.json](./75477-injustice-gods-among-us-ame-comi-skins.json) |
 | Injustice: Gods Among Us - Arkham City Skin Pack | 75459 | [75459-injustice-gods-among-us-arkham-city-skin-pack.json](./75459-injustice-gods-among-us-arkham-city-skin-pack.json) |
 | Injustice: Gods Among Us - Bad Girls Skins | 75453 | [75453-injustice-gods-among-us-bad-girls-skins.json](./75453-injustice-gods-among-us-bad-girls-skins.json) |
@@ -4016,7 +4015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intraquartz | 215034 | [215034-intraquartz.json](./215034-intraquartz.json) |
 | Intrasslad | 252092 | [252092-intrasslad.json](./252092-intrasslad.json) |
 | IntraTag | 400698 | [400698-intratag.json](./400698-intratag.json) |
-| Intravenous | 144379 | [144379-intravenous.json](./144379-intravenous.json) |
 | Intravenous 2: IV1 Remaster | 334844 | [334844-intravenous-2-iv1-remaster.json](./334844-intravenous-2-iv1-remaster.json) |
 | Intravenous 2: Mercenarism | 274547 | [274547-intravenous-2-mercenarism.json](./274547-intravenous-2-mercenarism.json) |
 | Intravenous 3 | 397241 | [397241-intravenous-3.json](./397241-intravenous-3.json) |
