@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
+| Scroter | 243521 | [243521-scroter.json](./243521-scroter.json) |
 | Scrub Dudes | 390068 | [390068-scrub-dudes.json](./390068-scrub-dudes.json) |
 | Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
 | Scrubby Dubby Saga | 402337 | [402337-scrubby-dubby-saga.json](./402337-scrubby-dubby-saga.json) |
@@ -4740,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Survivals | 253852 | [253852-sex-survivals.json](./253852-sex-survivals.json) |
 | Sex Teacher | 226140 | [226140-sex-teacher.json](./226140-sex-teacher.json) |
 | Sex Therapy | 384223 | [384223-sex-therapy.json](./384223-sex-therapy.json) |
+| Sex Tonight | 243520 | [243520-sex-tonight.json](./243520-sex-tonight.json) |
 | Sex Twice Hentai | 319170 | [319170-sex-twice-hentai.json](./319170-sex-twice-hentai.json) |
 | Sex Universe 18+ | 301654 | [301654-sex-universe-18.json](./301654-sex-universe-18.json) |
 | Sex Viking Island | 379530 | [379530-sex-viking-island.json](./379530-sex-viking-island.json) |
@@ -8337,6 +8339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Sudoku | 266241 | [266241-simply-sudoku.json](./266241-simply-sudoku.json) |
 | Simply Sudoku | 85379 | [85379-simply-sudoku.json](./85379-simply-sudoku.json) |
 | Simply Survive | 246788 | [246788-simply-survive.json](./246788-simply-survive.json) |
+| SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
@@ -25007,6 +25010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperHyperHappyGame | 311186 | [311186-superhyperhappygame.json](./311186-superhyperhappygame.json) |
 | Superia | 124540 | [124540-superia.json](./124540-superia.json) |
 | Superior | 194231 | [194231-superior.json](./194231-superior.json) |
+| Superior Crack Relatives | 243509 | [243509-superior-crack-relatives.json](./243509-superior-crack-relatives.json) |
 | Superior IQ | 369637 | [369637-superior-iq.json](./369637-superior-iq.json) |
 | Superior Relatives | 265862 | [265862-superior-relatives.json](./265862-superior-relatives.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
@@ -26290,6 +26294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Quest | 53695 | [53695-swipe-quest.json](./53695-swipe-quest.json) |
 | Swipe Soccer | 92520 | [92520-swipe-soccer.json](./92520-swipe-soccer.json) |
+| Swipe Tennis | 243508 | [243508-swipe-tennis.json](./243508-swipe-tennis.json) |
 | Swipe: Maze solver | 242790 | [242790-swipe-maze-solver.json](./242790-swipe-maze-solver.json) |
 | Swipe! | 38487 | [38487-swipe.json](./38487-swipe.json) |
 | Swiped! Double Shots of Love | 301410 | [301410-swiped-double-shots-of-love.json](./301410-swiped-double-shots-of-love.json) |
