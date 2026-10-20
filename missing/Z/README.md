@@ -1300,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Slayer Diox | 84967 | [84967-zombie-slayer-diox.json](./84967-zombie-slayer-diox.json) |
 | Zombie Slayers | 129031 | [129031-zombie-slayers.json](./129031-zombie-slayers.json) |
+| Zombie Smash Racer | 254314 | [254314-zombie-smash-racer.json](./254314-zombie-smash-racer.json) |
 | Zombie Smash: Road Kill | 167675 | [167675-zombie-smash-road-kill.json](./167675-zombie-smash-road-kill.json) |
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
 | Zombie Smasher | 233041 | [233041-zombie-smasher.json](./233041-zombie-smasher.json) |
