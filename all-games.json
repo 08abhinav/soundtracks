@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-10-20T21:37:36.109Z",
-  "total_soundtracks": 2254,
+  "generated_at": "2026-10-20T21:37:47.125Z",
+  "total_soundtracks": 2255,
   "games": [
     {
       "igdb_id": 7522,
@@ -15325,6 +15325,20 @@
         {
           "album_name": "Moons of Madness (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0XB1SujKZMXHHnmmT1yVse",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 196769,
+      "game_name": "Moonstone Island",
+      "game_url": "https://ostdb.net/games/moonstone-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739459c4f733bdd79402fc54cc",
+      "albums": [
+        {
+          "album_name": "Moonstone Island (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1uuoYpM7p3IPOws3M8EWEt",
           "apple_music_url": "",
           "album_link_url": ""
         }
