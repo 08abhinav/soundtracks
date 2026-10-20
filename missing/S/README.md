@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sees Game | 276615 | [276615-sees-game.json](./276615-sees-game.json) |
 | SeesawC 2 | 281360 | [281360-seesawc-2.json](./281360-seesawc-2.json) |
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
+| Seething Things | 217189 | [217189-seething-things.json](./217189-seething-things.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
@@ -18271,6 +18272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Strike | 85878 | [85878-star-strike.json](./85878-star-strike.json) |
 | Star Striker | 13762 | [13762-star-striker.json](./13762-star-striker.json) |
 | Star Striker | 384151 | [384151-star-striker.json](./384151-star-striker.json) |
+| Star Strikers: Galactic Soccer | 217191 | [217191-star-strikers-galactic-soccer.json](./217191-star-strikers-galactic-soccer.json) |
 | Star Struck | 78375 | [78375-star-struck.json](./78375-star-struck.json) |
 | Star Surfer | 236752 | [236752-star-surfer.json](./236752-star-surfer.json) |
 | Star Surveyor | 32760 | [32760-star-surveyor.json](./32760-star-surveyor.json) |
@@ -19574,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SteamSaga: Cerulia | 62799 | [62799-steamsaga-cerulia.json](./62799-steamsaga-cerulia.json) |
 | Steamshovel Harry | 282809 | [282809-steamshovel-harry.json](./282809-steamshovel-harry.json) |
 | SteamStar | 305949 | [305949-steamstar.json](./305949-steamstar.json) |
+| SteamTopia | 217162 | [217162-steamtopia.json](./217162-steamtopia.json) |
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Build: Deluxe Edition | 295643 | [295643-steamworld-build-deluxe-edition.json](./295643-steamworld-build-deluxe-edition.json) |
@@ -20098,6 +20101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickfight Battle | 197328 | [197328-stickfight-battle.json](./197328-stickfight-battle.json) |
 | Stickforge | 350801 | [350801-stickforge.json](./350801-stickforge.json) |
 | Stickility | 345101 | [345101-stickility.json](./345101-stickility.json) |
+| Sticking Around | 217171 | [217171-sticking-around.json](./217171-sticking-around.json) |
 | Sticklings | 197747 | [197747-sticklings.json](./197747-sticklings.json) |
 | Sticklings Deluxe | 266828 | [266828-sticklings-deluxe.json](./266828-sticklings-deluxe.json) |
 | Stickmageddon | 29721 | [29721-stickmageddon.json](./29721-stickmageddon.json) |
