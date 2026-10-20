@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daughters of the Stars | 283819 | [283819-daughters-of-the-stars.json](./283819-daughters-of-the-stars.json) |
 | Daughters of the Stars Episode 1: When A Star Burns Out, A Flower Blooms | 283821 | [283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json](./283821-daughters-of-the-stars-episode-1-when-a-star-burns-out-a-flower-blooms.json) |
 | Daughters of the Stars Episode 2: Face the Setting Sun: A Fierce Flower Stands Strong! | 283822 | [283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json](./283822-daughters-of-the-stars-episode-2-face-the-setting-sun-a-fierce-flower-stands-strong.json) |
+| Dauntless | 245139 | [245139-dauntless.json](./245139-dauntless.json) |
 | Dave | 111682 | [111682-dave.json](./111682-dave.json) |
 | Dave a Nice Guy | 365263 | [365263-dave-a-nice-guy.json](./365263-dave-a-nice-guy.json) |
 | Dave Gnukem | 357381 | [357381-dave-gnukem.json](./357381-dave-gnukem.json) |
@@ -2416,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Alliance | 36781 | [36781-dead-alliance.json](./36781-dead-alliance.json) |
 | Dead Alliance: Day One Edition | 103376 | [103376-dead-alliance-day-one-edition.json](./103376-dead-alliance-day-one-edition.json) |
 | Dead and Buried | 57195 | [57195-dead-and-buried.json](./57195-dead-and-buried.json) |
+| Dead Ant | 245149 | [245149-dead-ant.json](./245149-dead-ant.json) |
 | Dead Army - Radio Frequency | 32727 | [32727-dead-army-radio-frequency.json](./32727-dead-army-radio-frequency.json) |
 | Dead as Disco | 341592 | [341592-dead-as-disco.json](./341592-dead-as-disco.json) |
 | Dead Beats Survivors | 333504 | [333504-dead-beats-survivors.json](./333504-dead-beats-survivors.json) |
@@ -2811,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
 | Dead Space 3: Limited Edition | 44604 | [44604-dead-space-3-limited-edition.json](./44604-dead-space-3-limited-edition.json) |
 | Dead Space Collection | 371743 | [371743-dead-space-collection.json](./371743-dead-space-collection.json) |
+| Dead Space Demake | 245167 | [245167-dead-space-demake.json](./245167-dead-space-demake.json) |
 | Dead Space Nokia | 323812 | [323812-dead-space-nokia.json](./323812-dead-space-nokia.json) |
 | Dead Space: Collector's Edition | 229975 | [229975-dead-space-collectors-edition.json](./229975-dead-space-collectors-edition.json) |
 | Dead Space: Deluxe Edition | 222945 | [222945-dead-space-deluxe-edition.json](./222945-dead-space-deluxe-edition.json) |
