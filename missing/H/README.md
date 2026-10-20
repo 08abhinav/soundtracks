@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
 | Hàn Wǔ Dàdì Zhuán | 155708 | [155708-han-wu-dadi-zhuan.json](./155708-han-wu-dadi-zhuan.json) |
+| Han'yo | 212125 | [212125-hanyo.json](./212125-hanyo.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
 | Hana | 381136 | [381136-hana.json](./381136-hana.json) |
@@ -1643,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
+| Harry Is A Porter | 212112 | [212112-harry-is-a-porter.json](./212112-harry-is-a-porter.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
@@ -6377,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hituzibuster | 229371 | [229371-hituzibuster.json](./229371-hituzibuster.json) |
 | Hivaneph: The Legend of Elles | 335372 | [335372-hivaneph-the-legend-of-elles.json](./335372-hivaneph-the-legend-of-elles.json) |
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
+| Hive | 212144 | [212144-hive.json](./212144-hive.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
@@ -6563,6 +6566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold My Hand (Or Let Go) | 412537 | [412537-hold-my-hand-or-let-go.json](./412537-hold-my-hand-or-let-go.json) |
 | Hold My Thing | 418627 | [418627-hold-my-thing.json](./418627-hold-my-thing.json) |
 | Hold On | 419843 | [419843-hold-on.json](./419843-hold-on.json) |
+| Hold or Die | 212110 | [212110-hold-or-die.json](./212110-hold-or-die.json) |
 | Hold Out | 113018 | [113018-hold-out.json](./113018-hold-out.json) |
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
@@ -6899,6 +6903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Alone Survival | 365062 | [365062-home-alone-survival.json](./365062-home-alone-survival.json) |
 | Home Babysitter | 83265 | [83265-home-babysitter.json](./83265-home-babysitter.json) |
 | Home Before Dark | 183360 | [183360-home-before-dark.json](./183360-home-before-dark.json) |
+| Home by the River | 212104 | [212104-home-by-the-river.json](./212104-home-by-the-river.json) |
 | Home Computer Heroes Collection 1 | 260072 | [260072-home-computer-heroes-collection-1.json](./260072-home-computer-heroes-collection-1.json) |
 | Home Construction Sim | 294965 | [294965-home-construction-sim.json](./294965-home-construction-sim.json) |
 | Home Cooked Spaghetti Western | 380200 | [380200-home-cooked-spaghetti-western.json](./380200-home-cooked-spaghetti-western.json) |
@@ -8788,6 +8793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Killing Machine | 12148 | [12148-human-killing-machine.json](./12148-human-killing-machine.json) |
 | Human Milk Seller | 291467 | [291467-human-milk-seller.json](./291467-human-milk-seller.json) |
 | Human Multiplayer Game | 243558 | [243558-human-multiplayer-game.json](./243558-human-multiplayer-game.json) |
+| Human or Not | 212126 | [212126-human-or-not.json](./212126-human-or-not.json) |
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
