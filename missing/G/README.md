@@ -3656,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitched | 57361 | [57361-glitched.json](./57361-glitched.json) |
 | Glitched Lightning | 267463 | [267463-glitched-lightning.json](./267463-glitched-lightning.json) |
 | Glitched Out | 274482 | [274482-glitched-out.json](./274482-glitched-out.json) |
+| Glitched? or Programmed that Way? | 224977 | [224977-glitched-or-programmed-that-way.json](./224977-glitched-or-programmed-that-way.json) |
 | Glitcheon | 143557 | [143557-glitcheon.json](./143557-glitcheon.json) |
 | Glitcher | 277232 | [277232-glitcher.json](./277232-glitcher.json) |
 | Glitchers | 120332 | [120332-glitchers.json](./120332-glitchers.json) |
