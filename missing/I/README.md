@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Cats 4 | 269999 | [269999-i-commissioned-some-cats-4.json](./269999-i-commissioned-some-cats-4.json) |
 | I Commissioned Some Cats 5 | 270126 | [270126-i-commissioned-some-cats-5.json](./270126-i-commissioned-some-cats-5.json) |
 | I Commissioned Some Dogs | 241292 | [241292-i-commissioned-some-dogs.json](./241292-i-commissioned-some-dogs.json) |
+| I Commissioned Some Dogs 2 | 247884 | [247884-i-commissioned-some-dogs-2.json](./247884-i-commissioned-some-dogs-2.json) |
 | I Commissioned Some Dogs 3 | 315351 | [315351-i-commissioned-some-dogs-3.json](./315351-i-commissioned-some-dogs-3.json) |
 | I Commissioned Some Dogs 4 | 315348 | [315348-i-commissioned-some-dogs-4.json](./315348-i-commissioned-some-dogs-4.json) |
 | I Commissioned Some Dogs 5 | 350205 | [350205-i-commissioned-some-dogs-5.json](./350205-i-commissioned-some-dogs-5.json) |
@@ -2124,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Falsus | 342204 | [342204-in-falsus.json](./342204-in-falsus.json) |
 | In Fear I Trust: Episode 3 - Iron and Rust | 171363 | [171363-in-fear-i-trust-episode-3-iron-and-rust.json](./171363-in-fear-i-trust-episode-3-iron-and-rust.json) |
 | In Fear I Trust: Episode 4 - The Glimpse | 174176 | [174176-in-fear-i-trust-episode-4-the-glimpse.json](./174176-in-fear-i-trust-episode-4-the-glimpse.json) |
+| In Freedom Rest Ideal Tomorrows | 247900 | [247900-in-freedom-rest-ideal-tomorrows.json](./247900-in-freedom-rest-ideal-tomorrows.json) |
 | In Gehenna Fantasy Heroine Edition | 367735 | [367735-in-gehenna-fantasy-heroine-edition.json](./367735-in-gehenna-fantasy-heroine-edition.json) |
 | In Good Company | 184906 | [184906-in-good-company.json](./184906-in-good-company.json) |
 | In Harness | 369083 | [369083-in-harness.json](./369083-in-harness.json) |
@@ -3865,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Oblivion | 301586 | [301586-into-oblivion.json](./301586-into-oblivion.json) |
 | Into Oblivion | 46748 | [46748-into-oblivion.json](./46748-into-oblivion.json) |
 | Into Ruins | 224107 | [224107-into-ruins.json](./224107-into-ruins.json) |
+| Into Samomor | 247915 | [247915-into-samomor.json](./247915-into-samomor.json) |
 | Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
@@ -5004,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iteration Factor | 154573 | [154573-iteration-factor.json](./154573-iteration-factor.json) |
 | Iterations | 310102 | [310102-iterations.json](./310102-iterations.json) |
 | IterativeCollapse | 365098 | [365098-iterativecollapse.json](./365098-iterativecollapse.json) |
+| Iterazers | 247874 | [247874-iterazers.json](./247874-iterazers.json) |
 | Iteriba: Olokun's Wrath | 255355 | [255355-iteriba-olokuns-wrath.json](./255355-iteriba-olokuns-wrath.json) |
 | Iterria Zone | 171609 | [171609-iterria-zone.json](./171609-iterria-zone.json) |
 | Iterum | 417961 | [417961-iterum.json](./417961-iterum.json) |
