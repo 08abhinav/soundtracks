@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
 | Lalli | 311161 | [311161-lalli.json](./311161-lalli.json) |
+| Lam Lam | 223317 | [223317-lam-lam.json](./223317-lam-lam.json) |
 | Lama by Reiner Knizia | 223602 | [223602-lama-by-reiner-knizia.json](./223602-lama-by-reiner-knizia.json) |
 | Lama Drama FPS | 122370 | [122370-lama-drama-fps.json](./122370-lama-drama-fps.json) |
 | Lamafox - Hide and Seek! | 200499 | [200499-lamafox-hide-and-seek.json](./200499-lamafox-hide-and-seek.json) |
@@ -1003,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Island of Survival | 175118 | [175118-last-island-of-survival.json](./175118-last-island-of-survival.json) |
 | Last Joy | 126591 | [126591-last-joy.json](./126591-last-joy.json) |
 | Last Kid on the Bus | 409712 | [409712-last-kid-on-the-bus.json](./409712-last-kid-on-the-bus.json) |
+| Last Kids on Earth: Hit the Deck! | 223330 | [223330-last-kids-on-earth-hit-the-deck.json](./223330-last-kids-on-earth-hit-the-deck.json) |
 | Last King of Africa | 47883 | [47883-last-king-of-africa.json](./47883-last-king-of-africa.json) |
 | Last King: Tower Defense | 224938 | [224938-last-king-tower-defense.json](./224938-last-king-tower-defense.json) |
 | Last Kingdom | 361305 | [361305-last-kingdom.json](./361305-last-kingdom.json) |
@@ -7277,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiterra: Embers of the Legacy | 257878 | [257878-lumiterra-embers-of-the-legacy.json](./257878-lumiterra-embers-of-the-legacy.json) |
 | Lumiva Legacy | 265697 | [265697-lumiva-legacy.json](./265697-lumiva-legacy.json) |
 | Lumm-e | 304831 | [304831-lumm-e.json](./304831-lumm-e.json) |
+| Lumnis | 223309 | [223309-lumnis.json](./223309-lumnis.json) |
 | Lumo | 19850 | [19850-lumo.json](./19850-lumo.json) |
 | Lumo 2 | 338546 | [338546-lumo-2.json](./338546-lumo-2.json) |
 | Lumo Idle Park | 400291 | [400291-lumo-idle-park.json](./400291-lumo-idle-park.json) |
@@ -7502,6 +7505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
+| Lust Academy: Season 2 | 223351 | [223351-lust-academy-season-2.json](./223351-lust-academy-season-2.json) |
 | Lust Academy: Season 3 | 289462 | [289462-lust-academy-season-3.json](./289462-lust-academy-season-3.json) |
 | Lust Anime Girls | 380162 | [380162-lust-anime-girls.json](./380162-lust-anime-girls.json) |
 | Lust Arcanum | 350625 | [350625-lust-arcanum.json](./350625-lust-arcanum.json) |
