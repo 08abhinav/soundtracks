@@ -1352,6 +1352,7 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 | <img src="https://i.scdn.co/image/ab67616d0000b2734279f556fa7ebf670372e0a5" width="60" /> | [Road 96: Mile 0](https://ostdb.net/games/road-96-mile-0) | **Road 96: Mile 0 (Video Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1YndPTUlutROz4i7IU5gQb) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/6b/b3/276bb3f8-3dee-d5f7-5a9a-797fd571750f/4059251120094.jpg/600x600bb.jpg" width="60" /> | [Robinson: The Journey](https://ostdb.net/games/robinson-the-journey) | **Robinson: The Journey (Original Soundtrack)** · [Spotify](https://music.apple.com/us/album/robinson-the-journey-original-soundtrack/1746292612?uo=4) · [Album](https://album.link/i/1746292612) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f8af3e77267a474a1aba7282" width="60" /> | [RoboCop](https://ostdb.net/games/robocop) | **Robocop (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4hPydoZ7jW3MqNmZ7dkEDT) |
+| <img src="https://i.scdn.co/image/ab67616d0000b273f8af3e77267a474a1aba7282" width="60" /> | [RoboCop](https://ostdb.net/games/robocop) | **Robocop (Original Soundtrack)** · [Spotify](https://open.spotify.com/album/4hPydoZ7jW3MqNmZ7dkEDT) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273216a09182ea204b57f742ba5" width="60" /> | [Rochard](https://ostdb.net/games/rochard) | **Rochard (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/2BjfmrdaAtDtJCcr6HFNFf) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273b1b4f333c30b954b3ccd4d81" width="60" /> | [Rocket League](https://ostdb.net/games/rocket-league) | **Rocket League x Monstercat - Legacy** · [Spotify](https://open.spotify.com/album/1tug0tdqpXDnWAosTGU6fS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273a82a02e5c283d3a70ebf24ad" width="60" /> | [Rocket League Sideswipe](https://ostdb.net/games/rocket-league-sideswipe) | **Rocket League: Sideswipe (Original Soundtrack), Vol. 1** · [Spotify](https://open.spotify.com/album/7jIRopIWDP8zwlq6RfsWpS) |
@@ -1990,4 +1991,4 @@ Commercial use needs permission ([api@ostdb.net](mailto:api@ostdb.net)). Album a
 
 ---
 
-_2307 soundtracks · last updated 2026-10-20T21:56:43.888Z_
+_2308 soundtracks · last updated 2026-10-20T21:56:54.178Z_
