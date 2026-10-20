@@ -6914,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
 | Football Referee Simulator | 307975 | [307975-football-referee-simulator.json](./307975-football-referee-simulator.json) |
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
+| Football Rivals | 247307 | [247307-football-rivals.json](./247307-football-rivals.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football Seasons | 239117 | [239117-football-seasons.json](./239117-football-seasons.json) |
