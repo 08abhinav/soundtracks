@@ -8119,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
+| Foster: Ghost Child | 211051 | [211051-foster-ghost-child.json](./211051-foster-ghost-child.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends | 230429 | [230429-fosters-home-for-imaginary-friends.json](./230429-fosters-home-for-imaginary-friends.json) |
 | Foster's Home For Imaginary Friends: A Friend In Need | 277157 | [277157-fosters-home-for-imaginary-friends-a-friend-in-need.json](./277157-fosters-home-for-imaginary-friends-a-friend-in-need.json) |
@@ -9343,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy! | 418659 | [418659-froggy.json](./418659-froggy.json) |
 | Froggy's Adventures | 255654 | [255654-froggys-adventures.json](./255654-froggys-adventures.json) |
 | Froggy's Battle | 229257 | [229257-froggys-battle.json](./229257-froggys-battle.json) |
+| Froggy's Farm & Friends | 211047 | [211047-froggys-farm-and-friends.json](./211047-froggys-farm-and-friends.json) |
 | FrogJump | 224242 | [224242-frogjump.json](./224242-frogjump.json) |
 | FrogLake | 267464 | [267464-froglake.json](./267464-froglake.json) |
 | Froglet | 262402 | [262402-froglet.json](./262402-froglet.json) |
