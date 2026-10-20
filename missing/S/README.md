@@ -7216,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
+| Shuffle and K.O. | 249654 | [249654-shuffle-and-k-o.json](./249654-shuffle-and-k-o.json) |
 | Shuffle Board | 74726 | [74726-shuffle-board.json](./74726-shuffle-board.json) |
 | Shuffle Circle | 103552 | [103552-shuffle-circle.json](./103552-shuffle-circle.json) |
 | Shuffle Farm | 345568 | [345568-shuffle-farm.json](./345568-shuffle-farm.json) |
@@ -8695,6 +8696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
+| Situation Tarfu | 249599 | [249599-situation-tarfu.json](./249599-situation-tarfu.json) |
 | SituationCovid | 149416 | [149416-situationcovid.json](./149416-situationcovid.json) |
 | Sity | 202332 | [202332-sity.json](./202332-sity.json) |
 | Sivi's Factory | 322061 | [322061-sivis-factory.json](./322061-sivis-factory.json) |
@@ -12141,6 +12143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Söldner-X Complete Collection | 318615 | [318615-soldner-x-complete-collection.json](./318615-soldner-x-complete-collection.json) |
 | Söldner-X: Himmelsstürmer | 21270 | [21270-soldner-x-himmelssturmer.json](./21270-soldner-x-himmelssturmer.json) |
 | Söldner: Marine Corps | 93196 | [93196-soldner-marine-corps.json](./93196-soldner-marine-corps.json) |
+| Söldner: Secret Wars Remastered | 249615 | [249615-soldner-secret-wars-remastered.json](./249615-soldner-secret-wars-remastered.json) |
 | Soldnerschild | 92103 | [92103-soldnerschild.json](./92103-soldnerschild.json) |
 | Sole Iron Tail | 132693 | [132693-sole-iron-tail.json](./132693-sole-iron-tail.json) |
 | Sole Light: Cool Puzzle Game | 187789 | [187789-sole-light-cool-puzzle-game.json](./187789-sole-light-cool-puzzle-game.json) |
@@ -12856,6 +12859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic FGX: Ultimate | 326131 | [326131-sonic-fgx-ultimate.json](./326131-sonic-fgx-ultimate.json) |
 | Sonic Fighter | 359736 | [359736-sonic-fighter.json](./359736-sonic-fighter.json) |
 | Sonic Fighting Heroes: King of The Ring | 316344 | [316344-sonic-fighting-heroes-king-of-the-ring.json](./316344-sonic-fighting-heroes-king-of-the-ring.json) |
+| Sonic Fishing | 249646 | [249646-sonic-fishing.json](./249646-sonic-fishing.json) |
 | Sonic Forces + Super Monkey Ball: Banana Blitz HD Double Pack | 139951 | [139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json](./139951-sonic-forces-super-monkey-ball-banana-blitz-hd-double-pack.json) |
 | Sonic Forces Adventure | 317359 | [317359-sonic-forces-adventure.json](./317359-sonic-forces-adventure.json) |
 | Sonic Forces Overclocked | 280749 | [280749-sonic-forces-overclocked.json](./280749-sonic-forces-overclocked.json) |
@@ -26061,6 +26065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Succubus | 379532 | [379532-sweet-succubus.json](./379532-sweet-succubus.json) |
 | Sweet Succubus Home | 379658 | [379658-sweet-succubus-home.json](./379658-sweet-succubus-home.json) |
 | Sweet Summer | 339440 | [339440-sweet-summer.json](./339440-sweet-summer.json) |
+| Sweet Summer World Challenge | 249595 | [249595-sweet-summer-world-challenge.json](./249595-sweet-summer-world-challenge.json) |
 | Sweet Surge | 195196 | [195196-sweet-surge.json](./195196-sweet-surge.json) |
 | Sweet Survival | 392910 | [392910-sweet-survival.json](./392910-sweet-survival.json) |
 | Sweet Survivors: Classy Edition | 378960 | [378960-sweet-survivors-classy-edition.json](./378960-sweet-survivors-classy-edition.json) |
