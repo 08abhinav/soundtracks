@@ -1499,6 +1499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Pizza Cafe | 411553 | [411553-capybara-pizza-cafe.json](./411553-capybara-pizza-cafe.json) |
 | Capybara Quest | 257211 | [257211-capybara-quest.json](./257211-capybara-quest.json) |
 | Capybara Quest | 310942 | [310942-capybara-quest.json](./310942-capybara-quest.json) |
+| Capybara Rush | 214348 | [214348-capybara-rush.json](./214348-capybara-rush.json) |
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
@@ -9738,6 +9739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commissions Open | 413497 | [413497-commissions-open.json](./413497-commissions-open.json) |
 | Commit Arson Now | 191506 | [191506-commit-arson-now.json](./191506-commit-arson-now.json) |
 | Committed: Mystery at Shady Pines - Premium Edition | 417687 | [417687-committed-mystery-at-shady-pines-premium-edition.json](./417687-committed-mystery-at-shady-pines-premium-edition.json) |
+| Commodoor | 214365 | [214365-commodoor.json](./214365-commodoor.json) |
 | Common Ground | 60070 | [60070-common-ground.json](./60070-common-ground.json) |
 | Common Grounds | 349618 | [349618-common-grounds.json](./349618-common-grounds.json) |
 | Common Hanzi Quiz: Simplified Chinese | 101360 | [101360-common-hanzi-quiz-simplified-chinese.json](./101360-common-hanzi-quiz-simplified-chinese.json) |
