@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-night | 285457 | [285457-t-night.json](./285457-t-night.json) |
 | T-Racer | 266865 | [266865-t-racer.json](./266865-t-racer.json) |
 | T-Rex and Muscle Sam: Big Trouble in SPF | 125205 | [125205-t-rex-and-muscle-sam-big-trouble-in-spf.json](./125205-t-rex-and-muscle-sam-big-trouble-in-spf.json) |
+| T-Rex Memory Match | 245678 | [245678-t-rex-memory-match.json](./245678-t-rex-memory-match.json) |
 | T-Rex Runner | 105549 | [105549-t-rex-runner.json](./105549-t-rex-runner.json) |
 | T-Rex Simulator | 96299 | [96299-t-rex-simulator.json](./96299-t-rex-simulator.json) |
 | T-Rex Time Machine | 76919 | [76919-t-rex-time-machine.json](./76919-t-rex-time-machine.json) |
@@ -4263,6 +4264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
+| The Aether II | 245708 | [245708-the-aether-ii.json](./245708-the-aether-ii.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterlife Cafe | 367948 | [367948-the-afterlife-cafe.json](./367948-the-afterlife-cafe.json) |
@@ -12947,6 +12949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Super 1-1 Challenge | 132172 | [132172-the-super-1-1-challenge.json](./132172-the-super-1-1-challenge.json) |
 | The Super Adventure of John | 388058 | [388058-the-super-adventure-of-john.json](./388058-the-super-adventure-of-john.json) |
 | The Super Bunnies: Scarlet Wonder Ninjas | 319303 | [319303-the-super-bunnies-scarlet-wonder-ninjas.json](./319303-the-super-bunnies-scarlet-wonder-ninjas.json) |
+| The Super Chum Bucket | 245706 | [245706-the-super-chum-bucket.json](./245706-the-super-chum-bucket.json) |
 | The Super Mario Bros. Movie 64 DS | 270380 | [270380-the-super-mario-bros-movie-64-ds.json](./270380-the-super-mario-bros-movie-64-ds.json) |
 | The Super Mario Bros. Super Literature Club! | 294438 | [294438-the-super-mario-bros-super-literature-club.json](./294438-the-super-mario-bros-super-literature-club.json) |
 | The Super Mario Bros. Super Show: Mario's Greatest Movie Moments - Quiz Game | 325094 | [325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json](./325094-the-super-mario-bros-super-show-marios-greatest-movie-moments-quiz-game.json) |
