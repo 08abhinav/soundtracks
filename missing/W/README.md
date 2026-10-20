@@ -5485,6 +5485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodland Saga | 136727 | [136727-woodland-saga.json](./136727-woodland-saga.json) |
 | Woodland Town | 264518 | [264518-woodland-town.json](./264518-woodland-town.json) |
+| Woodland Walker | 228931 | [228931-woodland-walker.json](./228931-woodland-walker.json) |
 | Woodlands Junior School Pokemon Journey | 307346 | [307346-woodlands-junior-school-pokemon-journey.json](./307346-woodlands-junior-school-pokemon-journey.json) |
 | Woodlands National Park | 312546 | [312546-woodlands-national-park.json](./312546-woodlands-national-park.json) |
 | Woodle Deluxe | 143631 | [143631-woodle-deluxe.json](./143631-woodle-deluxe.json) |
