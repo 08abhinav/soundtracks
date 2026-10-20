@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Balloon Game | 266127 | [266127-a-balloon-game.json](./266127-a-balloon-game.json) |
 | A Bar Where Men Go To Be Turned Into Horses | 289163 | [289163-a-bar-where-men-go-to-be-turned-into-horses.json](./289163-a-bar-where-men-go-to-be-turned-into-horses.json) |
 | A Bark in the Dark | 225289 | [225289-a-bark-in-the-dark.json](./225289-a-bark-in-the-dark.json) |
+| A Bear Family Adventure | 205966 | [205966-a-bear-family-adventure.json](./205966-a-bear-family-adventure.json) |
 | A Bear's Night Out | 124606 | [124606-a-bears-night-out.json](./124606-a-bears-night-out.json) |
 | A Beautiful Ride to Carlisle | 184911 | [184911-a-beautiful-ride-to-carlisle.json](./184911-a-beautiful-ride-to-carlisle.json) |
 | A Beauty Cold and Austere | 138140 | [138140-a-beauty-cold-and-austere.json](./138140-a-beauty-cold-and-austere.json) |
@@ -1343,6 +1344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Search with Me: Sea Animal Pack | 199850 | [199850-abc-search-with-me-sea-animal-pack.json](./199850-abc-search-with-me-sea-animal-pack.json) |
 | ABC Search with Me: Zodiac Pack | 199848 | [199848-abc-search-with-me-zodiac-pack.json](./199848-abc-search-with-me-zodiac-pack.json) |
 | ABC Solitaire | 89856 | [89856-abc-solitaire.json](./89856-abc-solitaire.json) |
+| ABC Sports College Football | 205965 | [205965-abc-sports-college-football.json](./205965-abc-sports-college-football.json) |
 | ABC Sports Indy Racing | 78574 | [78574-abc-sports-indy-racing.json](./78574-abc-sports-indy-racing.json) |
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
@@ -1916,6 +1918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of the Luftwaffe: Squadron - The Nebelgeschwader | 111543 | [111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json](./111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
+| Aces of World War 1 | 205967 | [205967-aces-of-world-war-1.json](./205967-aces-of-world-war-1.json) |
 | Aces Over Airfields | 379462 | [379462-aces-over-airfields.json](./379462-aces-over-airfields.json) |
 | Aces Over Europe | 12386 | [12386-aces-over-europe.json](./12386-aces-over-europe.json) |
 | Aces Slots Riches of Olympus | 95321 | [95321-aces-slots-riches-of-olympus.json](./95321-aces-slots-riches-of-olympus.json) |
@@ -1999,7 +2002,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Trip | 188900 | [188900-acid-trip.json](./188900-acid-trip.json) |
 | Acid Web | 327450 | [327450-acid-web.json](./327450-acid-web.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
+| AcidFreecell | 205968 | [205968-acidfreecell.json](./205968-acidfreecell.json) |
+| AcidSolitaire | 205969 | [205969-acidsolitaire.json](./205969-acidsolitaire.json) |
 | Acidsoul | 78753 | [78753-acidsoul.json](./78753-acidsoul.json) |
+| AcidSpider | 205970 | [205970-acidspider.json](./205970-acidspider.json) |
 | Ack-Ack Attack! | 79318 | [79318-ack-ack-attack.json](./79318-ack-ack-attack.json) |
 | Acko's Mach-Bike Race | 343701 | [343701-ackos-mach-bike-race.json](./343701-ackos-mach-bike-race.json) |
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
@@ -2283,6 +2289,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adiboo & Paziral's Secret | 98251 | [98251-adiboo-and-pazirals-secret.json](./98251-adiboo-and-pazirals-secret.json) |
 | Adiboo and the Energy Thieves | 79132 | [79132-adiboo-and-the-energy-thieves.json](./79132-adiboo-and-the-energy-thieves.json) |
 | Adiboo and the Green Shadow | 144839 | [144839-adiboo-and-the-green-shadow.json](./144839-adiboo-and-the-green-shadow.json) |
+| Adiboo: Discover Mazes, Numbers & Puzzles | 205971 | [205971-adiboo-discover-mazes-numbers-and-puzzles.json](./205971-adiboo-discover-mazes-numbers-and-puzzles.json) |
+| Adiboo: Discover Music, Melody & Rhyme | 205972 | [205972-adiboo-discover-music-melody-and-rhyme.json](./205972-adiboo-discover-music-melody-and-rhyme.json) |
+| Adiboo: Nature, Animals & Planets | 205973 | [205973-adiboo-nature-animals-and-planets.json](./205973-adiboo-nature-animals-and-planets.json) |
 | Adibou Anglais | 242506 | [242506-adibou-anglais.json](./242506-adibou-anglais.json) |
 | Adibou d'chou au cirque | 242534 | [242534-adibou-dchou-au-cirque.json](./242534-adibou-dchou-au-cirque.json) |
 | Adibou d'chou au Pays des Bonbons | 242532 | [242532-adibou-dchou-au-pays-des-bonbons.json](./242532-adibou-dchou-au-pays-des-bonbons.json) |
