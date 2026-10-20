@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhapsody: A Musical Adventure | 16997 | [16997-rhapsody-a-musical-adventure.json](./16997-rhapsody-a-musical-adventure.json) |
 | Rhapsody: A Musical Adventure | 315651 | [315651-rhapsody-a-musical-adventure.json](./315651-rhapsody-a-musical-adventure.json) |
 | Rhapsody: Marl Kingdom Chronicles | 234121 | [234121-rhapsody-marl-kingdom-chronicles.json](./234121-rhapsody-marl-kingdom-chronicles.json) |
+| Rhapsody: Marl Kingdom Chronicles – Deluxe Edition | 235072 | [235072-rhapsody-marl-kingdom-chronicles-deluxe-edition.json](./235072-rhapsody-marl-kingdom-chronicles-deluxe-edition.json) |
 | Rhapsody: Marl Kingdom Chronicles – Limited Edition | 284208 | [284208-rhapsody-marl-kingdom-chronicles-limited-edition.json](./284208-rhapsody-marl-kingdom-chronicles-limited-edition.json) |
 | Rhea of the Remnant | 392718 | [392718-rhea-of-the-remnant.json](./392718-rhea-of-the-remnant.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
@@ -5144,6 +5145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Party | 20232 | [20232-rhythm-party.json](./20232-rhythm-party.json) |
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
+| Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
 | Rhythm Realm | 248040 | [248040-rhythm-realm.json](./248040-rhythm-realm.json) |
 | Rhythm Retro | 182178 | [182178-rhythm-retro.json](./182178-rhythm-retro.json) |
