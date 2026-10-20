@@ -3409,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign Down | 280348 | [280348-reign-down.json](./280348-reign-down.json) |
 | Reign of Amira: The Lost Kingdom | 38996 | [38996-reign-of-amira-the-lost-kingdom.json](./38996-reign-of-amira-the-lost-kingdom.json) |
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
+| Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
 | Reign of Guilds: Black Knight | 290115 | [290115-reign-of-guilds-black-knight.json](./290115-reign-of-guilds-black-knight.json) |
 | Reign of Guilds: Commoner | 317302 | [317302-reign-of-guilds-commoner.json](./317302-reign-of-guilds-commoner.json) |
@@ -6813,6 +6814,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobotRiot: Hyper Edition | 99491 | [99491-robotriot-hyper-edition.json](./99491-robotriot-hyper-edition.json) |
 | Robotron: 2084 | 3592 | [3592-robotron-2084.json](./3592-robotron-2084.json) |
 | Robots | 176770 | [176770-robots.json](./176770-robots.json) |
+| Robots | 248488 | [248488-robots.json](./248488-robots.json) |
+| Robots | 248489 | [248489-robots.json](./248489-robots.json) |
+| Robots | 248490 | [248490-robots.json](./248490-robots.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Planets | 347361 | [347361-robots-and-planets.json](./347361-robots-and-planets.json) |
 | Robots at Midnight | 276180 | [276180-robots-at-midnight.json](./276180-robots-at-midnight.json) |
