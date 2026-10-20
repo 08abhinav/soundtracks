@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmth Of A Dying Sun | 271295 | [271295-warmth-of-a-dying-sun.json](./271295-warmth-of-a-dying-sun.json) |
 | Warna | 215667 | [215667-warna.json](./215667-warna.json) |
 | Warna | 377153 | [377153-warna.json](./377153-warna.json) |
+| Warnament | 250764 | [250764-warnament.json](./250764-warnament.json) |
 | Warne Shtartik | 344236 | [344236-warne-shtartik.json](./344236-warne-shtartik.json) |
 | Warner Bros. Space Jam | 198899 | [198899-warner-bros-space-jam.json](./198899-warner-bros-space-jam.json) |
 | Warning Forever | 50111 | [50111-warning-forever.json](./50111-warning-forever.json) |
@@ -1947,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wax Heads | 298453 | [298453-wax-heads.json](./298453-wax-heads.json) |
 | Wax Museum | 187454 | [187454-wax-museum.json](./187454-wax-museum.json) |
 | Wax Museum: Seek and Find - Mystery Hidden Object Adventure | 170809 | [170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json](./170809-wax-museum-seek-and-find-mystery-hidden-object-adventure.json) |
+| WaxHeart | 250758 | [250758-waxheart.json](./250758-waxheart.json) |
 | Waxweaver | 333997 | [333997-waxweaver.json](./333997-waxweaver.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
