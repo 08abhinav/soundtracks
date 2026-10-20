@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
 | Ball vs. Zombie | 239102 | [239102-ball-vs-zombie.json](./239102-ball-vs-zombie.json) |
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
+| Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
 | Ball-it Hell | 302492 | [302492-ball-it-hell.json](./302492-ball-it-hell.json) |
@@ -2916,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Arrow | 82146 | [82146-battle-of-arrow.json](./82146-battle-of-arrow.json) |
 | Battle of Atlantis | 85845 | [85845-battle-of-atlantis.json](./85845-battle-of-atlantis.json) |
 | Battle of BackYard | 276260 | [276260-battle-of-backyard.json](./276260-battle-of-backyard.json) |
+| Battle of Billionaires | 204808 | [204808-battle-of-billionaires.json](./204808-battle-of-billionaires.json) |
 | Battle of Blades | 68330 | [68330-battle-of-blades.json](./68330-battle-of-blades.json) |
 | Battle of Brains | 129646 | [129646-battle-of-brains.json](./129646-battle-of-brains.json) |
 | Battle of Britain | 13383 | [13383-battle-of-britain.json](./13383-battle-of-britain.json) |
@@ -3125,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tryst | 58905 | [58905-battle-tryst.json](./58905-battle-tryst.json) |
 | Battle Tycoon: Flash Hiders SFX | 38216 | [38216-battle-tycoon-flash-hiders-sfx.json](./38216-battle-tycoon-flash-hiders-sfx.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
+| Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
@@ -4548,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
+| Before the explosion | 204810 | [204810-before-the-explosion.json](./204810-before-the-explosion.json) |
 | Before the Fall | 411540 | [411540-before-the-fall.json](./411540-before-the-fall.json) |
 | Before the Last Hour | 200428 | [200428-before-the-last-hour.json](./200428-before-the-last-hour.json) |
 | Before the Legacy | 71165 | [71165-before-the-legacy.json](./71165-before-the-legacy.json) |
@@ -9015,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boa Retina | 134663 | [134663-boa-retina.json](./134663-boa-retina.json) |
 | BOAA: Baako | 138222 | [138222-boaa-baako.json](./138222-boaa-baako.json) |
 | Boar Farm | 383635 | [383635-boar-farm.json](./383635-boar-farm.json) |
+| Board | 204894 | [204894-board.json](./204894-board.json) |
 | Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
 | Board Defenders | 31648 | [31648-board-defenders.json](./31648-board-defenders.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
@@ -11870,6 +11875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Back the Sun | 141671 | [141671-bring-back-the-sun.json](./141671-bring-back-the-sun.json) |
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
+| Bring It On! | 204901 | [204901-bring-it-on.json](./204901-bring-it-on.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
 | Bring Me that Shawarma | 275524 | [275524-bring-me-that-shawarma.json](./275524-bring-me-that-shawarma.json) |
