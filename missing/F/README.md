@@ -9149,6 +9149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frisson | 197226 | [197226-frisson.json](./197226-frisson.json) |
 | Frisson | 288793 | [288793-frisson.json](./288793-frisson.json) |
 | Fritz & Chesster: Chess for Aliens | 356723 | [356723-fritz-and-chesster-chess-for-aliens.json](./356723-fritz-and-chesster-chess-for-aliens.json) |
+| Fritz & Chesster: Learn to Play Chess Vol. 1 | 209896 | [209896-fritz-and-chesster-learn-to-play-chess-vol-1.json](./209896-fritz-and-chesster-learn-to-play-chess-vol-1.json) |
 | Fritz & Chesster's Chess for Winners | 84182 | [84182-fritz-and-chessters-chess-for-winners.json](./84182-fritz-and-chessters-chess-for-winners.json) |
 | Fritz 19: Steam Edition | 280203 | [280203-fritz-19-steam-edition.json](./280203-fritz-19-steam-edition.json) |
 | Fritz 5 | 281650 | [281650-fritz-5.json](./281650-fritz-5.json) |
