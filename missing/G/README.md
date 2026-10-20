@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate to Die | 412500 | [412500-gate-to-die.json](./412500-gate-to-die.json) |
 | Gate Warfare | 367602 | [367602-gate-warfare.json](./367602-gate-warfare.json) |
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
+| Gate Zero | 247358 | [247358-gate-zero.json](./247358-gate-zero.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
@@ -1878,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
+| Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
 | Gekisou Sentai Carranger: Zenkai! Racer Senshi | 3285 | [3285-gekisou-sentai-carranger-zenkai-racer-senshi.json](./3285-gekisou-sentai-carranger-zenkai-racer-senshi.json) |
@@ -7784,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero: Warriors of Rock | 2629 | [2629-guitar-hero-warriors-of-rock.json](./2629-guitar-hero-warriors-of-rock.json) |
 | Guitar Idol | 64329 | [64329-guitar-idol.json](./64329-guitar-idol.json) |
 | Guitar Jam | 266894 | [266894-guitar-jam.json](./266894-guitar-jam.json) |
+| Guitar Legend: Get on Stage! | 247348 | [247348-guitar-legend-get-on-stage.json](./247348-guitar-legend-get-on-stage.json) |
 | Guitar Life: Lesson 1 | 287887 | [287887-guitar-life-lesson-1.json](./287887-guitar-life-lesson-1.json) |
 | Guitar Praise: Expansion Pack 1 | 240173 | [240173-guitar-praise-expansion-pack-1.json](./240173-guitar-praise-expansion-pack-1.json) |
 | Guitar Praise: Solid Rock | 72638 | [72638-guitar-praise-solid-rock.json](./72638-guitar-praise-solid-rock.json) |
