@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Screw Escape | 377268 | [377268-car-screw-escape.json](./377268-car-screw-escape.json) |
 | Car Service Simulator | 326466 | [326466-car-service-simulator.json](./326466-car-service-simulator.json) |
 | Car Showroom: Luxury Sports Auto Racing Simulator | 106124 | [106124-car-showroom-luxury-sports-auto-racing-simulator.json](./106124-car-showroom-luxury-sports-auto-racing-simulator.json) |
+| Car Simulator 2 | 208203 | [208203-car-simulator-2.json](./208203-car-simulator-2.json) |
 | Car Simulator 2015 | 83216 | [83216-car-simulator-2015.json](./83216-car-simulator-2015.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
@@ -6965,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Dusk | 246951 | [246951-city-of-dusk.json](./246951-city-of-dusk.json) |
 | City of Elves | 223321 | [223321-city-of-elves.json](./223321-city-of-elves.json) |
 | City of Fools | 35520 | [35520-city-of-fools.json](./35520-city-of-fools.json) |
+| City of Forever 7 Days | 208204 | [208204-city-of-forever-7-days.json](./208204-city-of-forever-7-days.json) |
 | City of Gangsters: Bourbon Bootlegging | 227404 | [227404-city-of-gangsters-bourbon-bootlegging.json](./227404-city-of-gangsters-bourbon-bootlegging.json) |
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
@@ -11871,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
+| Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
 | Cozy Kingdom | 362198 | [362198-cozy-kingdom.json](./362198-cozy-kingdom.json) |
 | Cozy Life Collection | 393632 | [393632-cozy-life-collection.json](./393632-cozy-life-collection.json) |
@@ -12841,6 +12844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepy | 270744 | [270744-creepy.json](./270744-creepy.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
+| Creepy Ball Pixel | 208193 | [208193-creepy-ball-pixel.json](./208193-creepy-ball-pixel.json) |
 | Creepy Balls | 186577 | [186577-creepy-balls.json](./186577-creepy-balls.json) |
 | Creepy Bird | 61516 | [61516-creepy-bird.json](./61516-creepy-bird.json) |
 | Creepy Brawlers | 77955 | [77955-creepy-brawlers.json](./77955-creepy-brawlers.json) |
