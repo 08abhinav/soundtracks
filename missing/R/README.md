@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue 2: Everyday Heroes | 53500 | [53500-rescue-2-everyday-heroes.json](./53500-rescue-2-everyday-heroes.json) |
 | Rescue 2013: Everyday Heroes | 24767 | [24767-rescue-2013-everyday-heroes.json](./24767-rescue-2013-everyday-heroes.json) |
 | Rescue 911 | 219016 | [219016-rescue-911.json](./219016-rescue-911.json) |
+| Rescue Agency: The Kidnapper of Happiness | 243513 | [243513-rescue-agency-the-kidnapper-of-happiness.json](./243513-rescue-agency-the-kidnapper-of-happiness.json) |
 | Rescue at Rajini Island | 54317 | [54317-rescue-at-rajini-island.json](./54317-rescue-at-rajini-island.json) |
 | Rescue Bear Operation | 31743 | [31743-rescue-bear-operation.json](./31743-rescue-bear-operation.json) |
 | Rescue Cable | 272196 | [272196-rescue-cable.json](./272196-rescue-cable.json) |
@@ -5844,6 +5845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Flight: The First Great Air War | 21108 | [21108-rise-of-flight-the-first-great-air-war.json](./21108-rise-of-flight-the-first-great-air-war.json) |
 | Rise of Fox Hero | 211753 | [211753-rise-of-fox-hero.json](./211753-rise-of-fox-hero.json) |
 | Rise of Glory | 66422 | [66422-rise-of-glory.json](./66422-rise-of-glory.json) |
+| Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
@@ -5888,6 +5890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Funkys | 241268 | [241268-rise-of-the-funkys.json](./241268-rise-of-the-funkys.json) |
 | Rise of the Ghostdom | 210895 | [210895-rise-of-the-ghostdom.json](./210895-rise-of-the-ghostdom.json) |
 | Rise of the Gorecats | 390800 | [390800-rise-of-the-gorecats.json](./390800-rise-of-the-gorecats.json) |
+| Rise of the High Elf King: A Legacy of Blood | 243515 | [243515-rise-of-the-high-elf-king-a-legacy-of-blood.json](./243515-rise-of-the-high-elf-king-a-legacy-of-blood.json) |
 | Rise of The Kasai | 21557 | [21557-rise-of-the-kasai.json](./21557-rise-of-the-kasai.json) |
 | Rise of the Merchants | 415289 | [415289-rise-of-the-merchants.json](./415289-rise-of-the-merchants.json) |
 | Rise of the Nindroids | 408880 | [408880-rise-of-the-nindroids.json](./408880-rise-of-the-nindroids.json) |
@@ -7682,6 +7685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
 | Rolando: Royal Edition | 116152 | [116152-rolando-royal-edition.json](./116152-rolando-royal-edition.json) |
 | Role in the Hole | 20595 | [20595-role-in-the-hole.json](./20595-role-in-the-hole.json) |
+| Role Model AI | 243517 | [243517-role-model-ai.json](./243517-role-model-ai.json) |
 | Role of Hex | 144876 | [144876-role-of-hex.json](./144876-role-of-hex.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
@@ -8211,6 +8215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root: Hirelings & Landmarks | 385182 | [385182-root-hirelings-and-landmarks.json](./385182-root-hirelings-and-landmarks.json) |
 | Root: The Marauder Expansion | 364037 | [364037-root-the-marauder-expansion.json](./364037-root-the-marauder-expansion.json) |
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
+| Root: The Underworld Expansion | 243518 | [243518-root-the-underworld-expansion.json](./243518-root-the-underworld-expansion.json) |
 | Rootabasis | 422459 | [422459-rootabasis.json](./422459-rootabasis.json) |
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
 | Rootbound | 335047 | [335047-rootbound.json](./335047-rootbound.json) |
@@ -8546,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roxy Raccoon's Pinball Panic: Christmas Carnage | 235360 | [235360-roxy-raccoons-pinball-panic-christmas-carnage.json](./235360-roxy-raccoons-pinball-panic-christmas-carnage.json) |
 | Roxy Raccoon's Pinball Panic: Club Crazy | 267689 | [267689-roxy-raccoons-pinball-panic-club-crazy.json](./267689-roxy-raccoons-pinball-panic-club-crazy.json) |
 | Roxy Raccoon's Pinball Panic: Construction Chaos | 203775 | [203775-roxy-raccoons-pinball-panic-construction-chaos.json](./203775-roxy-raccoons-pinball-panic-construction-chaos.json) |
+| Roxy Raccoon's Pinball Panic: Easter Extravaganza | 243519 | [243519-roxy-raccoons-pinball-panic-easter-extravaganza.json](./243519-roxy-raccoons-pinball-panic-easter-extravaganza.json) |
 | Roxy Raccoon's Pinball Panic: Epic Egypt | 230893 | [230893-roxy-raccoons-pinball-panic-epic-egypt.json](./230893-roxy-raccoons-pinball-panic-epic-egypt.json) |
 | Roxy Raccoon's Pinball Panic: Great Gangs | 354199 | [354199-roxy-raccoons-pinball-panic-great-gangs.json](./354199-roxy-raccoons-pinball-panic-great-gangs.json) |
 | Roxy Raccoon's Pinball Panic: Joyous Japan | 226931 | [226931-roxy-raccoons-pinball-panic-joyous-japan.json](./226931-roxy-raccoons-pinball-panic-joyous-japan.json) |
